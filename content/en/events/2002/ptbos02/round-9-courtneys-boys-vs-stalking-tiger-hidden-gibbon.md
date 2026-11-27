@@ -85,7 +85,9 @@ render_recovery:
   - Aether Burst
   occurrences: 33
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a849.jpg)Stalking Tiger came into round nine with only one loss and sitting in second place in the overall standings. 
+![](http://www.wizards.com/sideboard/images/ptbos02/a849.jpg)
+
+Stalking Tiger came into round nine with only one loss and sitting in second place in the overall standings. 
 
 The team that stands percentage points ahead of them? Bob Maher, Gary Wise, and Neil Reeves—Courtney's Boys. They are also the only team that has handed Matt Urban, Paul Jordan, and Josh Ravitz a loss, way back in the fifth round yesterday.
 
@@ -119,7 +121,9 @@ Gary drew another land and attacked into the Bully. When Josh activated it, Gary
 
 Gary made a Krosan Avenger and Josh had no land and no play in the bottom half of the turn. Gary swung his Avenger into the Tiger and they traded. Josh was till without land or play on his turn. 
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a851.jpg)Gary attacked down to 12 and attempted a longhorn Firebeast which came into play. Josh finally drew a Swamp and was able to play a Whispering Shade with a Tainted Woods open in case of lava dart..
+![](http://www.wizards.com/sideboard/images/ptbos02/a851.jpg)
+
+Gary attacked down to 12 and attempted a longhorn Firebeast which came into play. Josh finally drew a Swamp and was able to play a Whispering Shade with a Tainted Woods open in case of lava dart..
 
 Gary cast an Iron shell Beetle and pumped his Tiger. Sonic Seizure dispatched the Shade with a Sonic Seizure. Josh made a Warthog but Gary had Temporary Insanity to steal it for the win.
 
@@ -145,7 +149,9 @@ Gary – 1 Josh – 2
 
 By now Bob was up a game on Paul Jordan and things were looking good for Maher in Game 2.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a852.jpg)Matt and Neil were caught up in a nail biter of a third game. Back on his heels for most of the game—Matt was finally stabilizing and had a real chance of pulling this one—
+![](http://www.wizards.com/sideboard/images/ptbos02/a852.jpg)
+
+Matt and Neil were caught up in a nail biter of a third game. Back on his heels for most of the game—Matt was finally stabilizing and had a real chance of pulling this one—
 
 --never mind. Neil had the Aether Burst for the win.
 

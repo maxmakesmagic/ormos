@@ -44,7 +44,9 @@ archive_source:
   sha256: 66628c7bdf82b5fc63f2f9d3d22deb3f3d8f7761c939617e250a101856ea2c6f
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/ehi03/037.jpg)Dagnabit! Neil Reeves won the Event Horizons Invitational.
+![](http://www.wizards.com/sideboard/images/ehi03/037.jpg)
+
+Dagnabit! Neil Reeves won the Event Horizons Invitational.
 
 After 15 rounds in a variety of formats designed exclusively for this event, top seeded Neil Reeves faced off against his nearest competitor, Trent Boneau, in a one-on-one *Onslaught Legions* booster draft to determine the title. The winner of the event received free entry into all Event Horizons tournaments for the coming year. On the Pro Tour gravy train and unable to play in qualifiers, this meant Neil was playing for about $20-the cost of entry to a Grand Prix.
 

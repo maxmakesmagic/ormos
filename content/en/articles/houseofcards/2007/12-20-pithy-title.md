@@ -1290,7 +1290,9 @@ render_recovery:
 ---
 * * *
 
-![A tree](https://i.ormos.uk/3f/60/3f60228b3abbecc164ad8b886ec153e8265bc6fc4c080feb1886fb8f914ea208.jpg "A tree")Welcome to Treefolk Week! With [Snow Week](/en/articles/houseofcards/2006/07-19-some-like-it-cold) and [Hoser Week](/en/articles/makingmagic/2002/02-18-enemy-mine) already in the books, I guess dedicating a whole week to trees is the only way we've got left to pander to the Canadians. And pander I shall!
+![A tree](https://i.ormos.uk/3f/60/3f60228b3abbecc164ad8b886ec153e8265bc6fc4c080feb1886fb8f914ea208.jpg "A tree")
+
+Welcome to Treefolk Week! With [Snow Week](/en/articles/houseofcards/2006/07-19-some-like-it-cold) and [Hoser Week](/en/articles/makingmagic/2002/02-18-enemy-mine) already in the books, I guess dedicating a whole week to trees is the only way we've got left to pander to the Canadians. And pander I shall!
 
 I'm going to start with a little combo I came up with two seconds ago: Tamanoa + The Rack. It's like The Rack has lifelink! The resulting deck will of course be named Tamarack, after the small, slender tree found primarily in northern half of North America. That's double north. A member of the larch family, the tamarack is easily recognizable (even from great distances) by its delicate deciduous foliage.
 
@@ -1338,7 +1340,9 @@ T.P. is fine with any animated Forest, whether it's because of the Ambush Comman
 
 ### I Will Not Lignify That With a Response
 
-![Lignify and Vigean Hydropon](https://i.ormos.uk/46/30/4630f7a242f0e7bae94a322c424978ed3ad3785dd7293ee059af2f4878bbac37.jpg "Lignify and Vigean Hydropon")The last Treefolk deck was inspired by a cute little combo sent to me by Efrén R. It consists of one part Lignify and one part Vigean Hydropon. You see, Lignify is a Treefolk Aura that turns the creature it enchants into a 0/4 Treefolk with no abilities. Vigean Hydropon, meanwhile, is an undercosted 5/5 with an "ability" that makes it so it can't attack or block. That sounds like a pretty poor ability to me, and Efrén agrees. To remedy this unfortunate situation, just play your Lignify on your Hydropon. Due to some crazy rule that somebody made up, you are not left with a 0/4 Treefolk with no abilities as expected, but rather a 0/4 Treefolk with no abilities and five +1/+1 counters! Your once combat-fearing "Wall of Hats" is now a 5/9 beatstick, ready to storm into battle (with appropriate headgear, presumably). You can pull off similar tricks with Ovinize and Cytoshape.
+![Lignify and Vigean Hydropon](https://i.ormos.uk/46/30/4630f7a242f0e7bae94a322c424978ed3ad3785dd7293ee059af2f4878bbac37.jpg "Lignify and Vigean Hydropon")
+
+The last Treefolk deck was inspired by a cute little combo sent to me by Efrén R. It consists of one part Lignify and one part Vigean Hydropon. You see, Lignify is a Treefolk Aura that turns the creature it enchants into a 0/4 Treefolk with no abilities. Vigean Hydropon, meanwhile, is an undercosted 5/5 with an "ability" that makes it so it can't attack or block. That sounds like a pretty poor ability to me, and Efrén agrees. To remedy this unfortunate situation, just play your Lignify on your Hydropon. Due to some crazy rule that somebody made up, you are not left with a 0/4 Treefolk with no abilities as expected, but rather a 0/4 Treefolk with no abilities and five +1/+1 counters! Your once combat-fearing "Wall of Hats" is now a 5/9 beatstick, ready to storm into battle (with appropriate headgear, presumably). You can pull off similar tricks with Ovinize and Cytoshape.
 
 Not content to merely beat down with an otherwise neutral Plant Mutant, I took note of the fact that its combined power and toughness was ten, the same as Timber Protector. Add some Wild Pairs and your Hydropon can search out T.P. and, once you drop the Lignify, become an indestructible former Plant Mutant. That still wasn't enough.
 

@@ -920,7 +920,9 @@ render_recovery:
 
 **◆浅原晃：Alluren ⇒ Tinker** 
 
-![](http://www.wizards.com/sideboard/images/gphir03/a981.jpg)ヒューストンでは《アカデミーの学長/Academy Rector》システム入りの《魔の魅惑/Aluren》デッキで見事Top 16進出しているのが浅原晃。
+![](http://www.wizards.com/sideboard/images/gphir03/a981.jpg)
+
+ヒューストンでは《アカデミーの学長/Academy Rector》システム入りの《魔の魅惑/Aluren》デッキで見事Top 16進出しているのが浅原晃。
 
 彼はThe Finals 2002でも見事にベスト4進出を果たしており、今や日本屈指の構築プレイヤーという声望を確固たるものにしているといって過言でないだろう。ちなみに、このGP広島の一年前にあたるGP仙台での「ゾンビ・プリズン」がデッキビルダー浅原のデビューだったことも記憶に新しい。
 
@@ -1031,7 +1033,9 @@ Angry Hermit 2
 
 **◆藤田剛史：Angry Hermit Ⅱ ⇒ Red Deck Wins(= Burn)** 
 
-![](http://www.wizards.com/sideboard/images/gphir03/a994.jpg)Bob Maherがヒューストンの決勝ラウンドでプレイしていた「Angry HermitⅡ」のデザイナーということで、実際には遠征しなかったにもかかわらず...もっとも話題に上ったのが彼だった。いつも独特の観点からデッキチョイスすることで知られている藤田だが、はたして広島にむけてはどのような備えをしてきたのだろうか？
+![](http://www.wizards.com/sideboard/images/gphir03/a994.jpg)
+
+Bob Maherがヒューストンの決勝ラウンドでプレイしていた「Angry HermitⅡ」のデザイナーということで、実際には遠征しなかったにもかかわらず...もっとも話題に上ったのが彼だった。いつも独特の観点からデッキチョイスすることで知られている藤田だが、はたして広島にむけてはどのような備えをしてきたのだろうか？
 
 **デッキ選択理由**：《対立》にしようと思ってたけど弱かった。サイカトグに勝てなすぎ。
 

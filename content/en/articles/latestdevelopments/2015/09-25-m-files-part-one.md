@@ -71,7 +71,9 @@ But first, our cast of characters:
 
 ![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_markrosewater.jpg)**MR**—Mark Rosewater, the set's lead designer
 
-![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)**SPS**—That's a-me! *Magic* developer
+![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)
+
+**SPS**—That's a-me! *Magic* developer
 
 ![](http://media.wizards.com/legacy/magic/images/mtgcom/authorpics/authorpic_monsjohnson.jpg)**MJJ**—Mons Johnson, *Duelmasters* developer and *Magic* playtester
 

@@ -472,7 +472,9 @@ Fujita's deck has carried him to a 5-0 record so far. The key to the deck for hi
 
 At international events such as these there are some communication issues that need to be addressed to determine the heads and tails of the coins. Finally, Fujita won the flip and elected to play.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a965.jpg)Fujita made a dramatic performance of looking at each card and elected to keep. He opened with a Prospector but Jetchan drew first blood with Raging Goblin. A Sledder joined the party but there was no blocking the Rager. Goblin Warchief came down on turn three and Fujita attacked for four. 
+![](http://www.wizards.com/sideboard/images/worlds02/a965.jpg)
+
+Fujita made a dramatic performance of looking at each card and elected to keep. He opened with a Prospector but Jetchan drew first blood with Raging Goblin. A Sledder joined the party but there was no blocking the Rager. Goblin Warchief came down on turn three and Fujita attacked for four. 
 
 Jetchan played a Burrows and passed the turn without attack. Fujita played a hasty Goblin Sharpshooter and killed the Raging Goblin. A Goblin Matron found a Siege-Gang Commander and Fujita passed back the turn. Violent Eruption did little but force Fujita to sacrifice two goblins and get two activations for his Sharpshooter. 
 

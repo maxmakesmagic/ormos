@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Omeed Dariani*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b24.JPG)6-1 competitors John Stevens and Lin Rice sat down for a decisive match. One of them would lose the chance to get into the top 8, while the other would continue a string of successes towards the grand prize, Magic for Life. Stevens, a Cookeville, Tennessee resident chose to play Angry Hermit, one of the most powerful decks in the format. His opponent, Rice, of Woodsfield, West Virginia chose to play a very diverse version of the popular Rebel deck, including cards such as Defiant Vanguard, Ramosian Sky Marshal and Reveille Squad. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b24.JPG)
+
+6-1 competitors John Stevens and Lin Rice sat down for a decisive match. One of them would lose the chance to get into the top 8, while the other would continue a string of successes towards the grand prize, Magic for Life. Stevens, a Cookeville, Tennessee resident chose to play Angry Hermit, one of the most powerful decks in the format. His opponent, Rice, of Woodsfield, West Virginia chose to play a very diverse version of the popular Rebel deck, including cards such as Defiant Vanguard, Ramosian Sky Marshal and Reveille Squad. 
 
 Game 1
 

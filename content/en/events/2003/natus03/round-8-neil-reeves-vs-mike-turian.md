@@ -104,13 +104,17 @@ render_recovery:
   - Unburden
   occurrences: 79
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a820.jpg)Reeves wasn't too happy with how [his draft turned out](/en/events/2003/natus03/draft-2-neil-reeves). He ended up sitting across from Gerard Fabiano, Mike Turian and Craig Krempels, TOGIT teammates who sat next to each other and essentially controlled and dominated the draft. As a result, Reeves was less than enthusiastic about his chances, and is certainly not very confident about his chances against Turian. It is worth pointing out that Reeves and Turian are two of the country's top Limited players.
+![](http://www.wizards.com/sideboard/images/natus03/a820.jpg)
+
+Reeves wasn't too happy with how [his draft turned out](/en/events/2003/natus03/draft-2-neil-reeves). He ended up sitting across from Gerard Fabiano, Mike Turian and Craig Krempels, TOGIT teammates who sat next to each other and essentially controlled and dominated the draft. As a result, Reeves was less than enthusiastic about his chances, and is certainly not very confident about his chances against Turian. It is worth pointing out that Reeves and Turian are two of the country's top Limited players.
 
 ### Game 1
 
 Reeves had a turn two Sunstrike Legionnaire, but no morph creature. Turian played one, and Reeves summoned Zealous Inquisitor on turn four. The Legionnaire tried to tap Turian's morph, but it flipped over to reveal Zombie Cutthroat. The Inquisitor attacked for two, and Reeves built up his defense with Daunting Defender. Turian got a good evasion creature in Sootfeather Flock, and Reeves brought out Fallen Cleric. Just as things started to go in Reeves' favor, Turian used Slice and Dice to kill all the creatures on the board. Reeves came right back with Twisted Abomination, while Turian had a morph creature and Smokespew Invoker with seven lands in play.
 
-![](https://i.ormos.uk/c3/f0/c3f0f427552e4f70c1fa90d73efdeffe938e60ae4ecd089e23bbbdb8f48e0631.jpg)The Abomination attacked for five, and Reeves brought out Screeching Buzzard and Aven Farseer, leaving him with no cards in hand. Turian untapped, played his eighth land, and killed Screeching Buzzard with the Invoker. A morph (Skittish Valesk) chump blocked the Abomination, and the Farseer got through to bring Turian to four. The Abomination was next to fall to the Invoker, and the Farseer dealt one more to bring Turian to three. At this point, Reeves need to keep playing threats to outrace Turian's one-sided Abyss, and brought out Bladewing's Thrall. The Invoker killed the Farseer (body language suggested this may have been a mistake by Turian), which forced the Invoker to block and trade with the Thrall. Dragon Slayer represented lethal damage, but Turian had Crested Craghorn to take care of the problem. Both players started to rebuild, and Turian used Cruel Revival to break the game wide open, bringing back his Invoker.
+![](https://i.ormos.uk/c3/f0/c3f0f427552e4f70c1fa90d73efdeffe938e60ae4ecd089e23bbbdb8f48e0631.jpg)
+
+The Abomination attacked for five, and Reeves brought out Screeching Buzzard and Aven Farseer, leaving him with no cards in hand. Turian untapped, played his eighth land, and killed Screeching Buzzard with the Invoker. A morph (Skittish Valesk) chump blocked the Abomination, and the Farseer got through to bring Turian to four. The Abomination was next to fall to the Invoker, and the Farseer dealt one more to bring Turian to three. At this point, Reeves need to keep playing threats to outrace Turian's one-sided Abyss, and brought out Bladewing's Thrall. The Invoker killed the Farseer (body language suggested this may have been a mistake by Turian), which forced the Invoker to block and trade with the Thrall. Dragon Slayer represented lethal damage, but Turian had Crested Craghorn to take care of the problem. Both players started to rebuild, and Turian used Cruel Revival to break the game wide open, bringing back his Invoker.
 
 Reeves- "You're quite a lucky man, Mike Turian."
 
@@ -126,7 +130,9 @@ Reeves- "I guess if you have your one Cruel Revival, you're going to win the gam
 
 A bunch of eggs went into one basket, as Improvised Armor enchanted Akroma's Devoted to make it huge. Reeves kept improving his board with Zealous Inquisitor and Aven Farseer, while Turian kept playing creatures in a morph and Embalmed Brawler, and was missing his fifth land.
 
-![](https://i.ormos.uk/7d/89/7d89b185cbba07e5ca20b69c1668f59b4fd373ca3040640ec1873dee5b74ec64.jpg)Reeves started mocking Turian a little, making fun of the fact that he surely had Cruel Revival in hand, and just needed one land to kill the armored creature. Skinthinner made things even more uneven, and Turian drew his fifth land, but merely played Crested Craghorn and ended his turn. The morph had to chump block the Devoted while the Craghorn traded with Skinthinner, and the game ended soon after.
+![](https://i.ormos.uk/7d/89/7d89b185cbba07e5ca20b69c1668f59b4fd373ca3040640ec1873dee5b74ec64.jpg)
+
+Reeves started mocking Turian a little, making fun of the fact that he surely had Cruel Revival in hand, and just needed one land to kill the armored creature. Skinthinner made things even more uneven, and Turian drew his fifth land, but merely played Crested Craghorn and ended his turn. The morph had to chump block the Devoted while the Craghorn traded with Skinthinner, and the game ended soon after.
 
 Reeves- 1 Turian- 1
 

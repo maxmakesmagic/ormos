@@ -79,7 +79,9 @@ I felt a twinge of guilt as I beat him but I am happy to report that Bernardo di
 
 Jelger Wiegersma had another quietly solid finish at 21st and inched another two points up the Player of the Year ladder. He has two more chances to put up a major performance that could propel him right near the top of the standings. He will be one of a handful of European players – and one Canadian – who will be playing this weekend in Grand Prix–Yamagata. Ted Knutson's on the scene ready to bring you action from the last Grand Prix of the season.
 
-![](http://www.wizards.com/magic/images/tournamentcenter/worldslogo_166.jpg)Which brings us to the [2006 World Championships](https://web.archive.org/web/20080506190240/http://www.wizards.com/default.asp?x=events/magic/worlds).
+![](http://www.wizards.com/magic/images/tournamentcenter/worldslogo_166.jpg)
+
+Which brings us to the [2006 World Championships](https://web.archive.org/web/20080506190240/http://www.wizards.com/default.asp?x=events/magic/worlds).
 
 With the North American Thanksgiving holiday dictating reprints here next week, this is my last opportunity to spill the beans about Worlds. I promised big news for my Worlds preview and I am pretty sure that this measures up as big news. (It also qualifies as burying the lead, I am sure.)
 
@@ -103,7 +105,9 @@ Another team to keep a close eye on is the Norwegian squad and Nicolai Herzog. L
 
 Other names to keep an eye out for during the clash of nations include Hall of Fame-eligible Benedikt Klauser leading the Austrian team, Grand Prix–New Jersey champion Guillaume Cardin leading the Canadian squad, and starcitygames.com editor Craig Stevenson leading the English National team and looking to put to bed the aspersions on his country's Limited skills. Don't count out the Malaysian squad featuring Terry Soh and Albertus Law, and reigning individual World Champion Katsuhiro Mori anchors the Japanese team with hopes of defending his nation's team championship from 2005. 
 
-[![](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg)](/en/articles/event-coverage/undated/tournaments-events-trading-card-game-magic-the-gathering-2)On top of all the action, there will also be the second induction ceremony for the Pro Tour Hall of Fame when Bob Maher, Dave Humpherys, Raphaël Lévy, Gary Wise, and Rob Dougherty will be given their Hall of Fame rings and honored for their tremendous contributions to the game. 
+[![](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg)](/en/articles/event-coverage/undated/tournaments-events-trading-card-game-magic-the-gathering-2)
+
+On top of all the action, there will also be the second induction ceremony for the Pro Tour Hall of Fame when Bob Maher, Dave Humpherys, Raphaël Lévy, Gary Wise, and Rob Dougherty will be given their Hall of Fame rings and honored for their tremendous contributions to the game. 
 
 I will have the privilege of introducing these five great players as they are enshrined, which will take place Wednesday prior to Day One action – less than two weeks from now. On Sunday I will be in the booth alongside Randy Buehler bringing you all the play-by-play as it unfolds starting December 3 at 2:45 a.m. ET. Join us starting November 29 for all the action from Paris. Will a legend of **Magic**'s past rise again to glory, or will a new star be born in the City of Lights?
 

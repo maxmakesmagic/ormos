@@ -74,7 +74,9 @@ Enough with the lamentations though. I had some of the better times I’ve had a
 
 ### The Champ
 
-![](https://i.ormos.uk/45/3e/453ed5d42d2fa443e3aff6b55ffd742db006edcda808e078acaaed1316e2fda4.jpg)I’ve got to be honest here, when Josh Rider, Radonjic and I were driving to Montreal, I didn’t think it would be the kid in the back seat who’d take home the silverware. Josh Rider’s been a part of the Toronto **Magic** community for years, a truly good kid (well, he’s 20 now, but look at that face!) who time and again would come close to breaking through that PTQ barrier. Josh had never made it to a Pro Tour until this weekend changed everything for a guy who, coming into the weekend, was finally looking to sell his collection and move on from the game.
+![](https://i.ormos.uk/45/3e/453ed5d42d2fa443e3aff6b55ffd742db006edcda808e078acaaed1316e2fda4.jpg)
+
+I’ve got to be honest here, when Josh Rider, Radonjic and I were driving to Montreal, I didn’t think it would be the kid in the back seat who’d take home the silverware. Josh Rider’s been a part of the Toronto **Magic** community for years, a truly good kid (well, he’s 20 now, but look at that face!) who time and again would come close to breaking through that PTQ barrier. Josh had never made it to a Pro Tour until this weekend changed everything for a guy who, coming into the weekend, was finally looking to sell his collection and move on from the game.
 
 Funny how things can change in a day, huh?
 
@@ -104,7 +106,9 @@ Right now, the Standard metagame is ridiculously broad with a good half dozen ti
 
 ### Miser
 
-![](http://www.wizards.com/sideboard/images/natcan03/898.jpg)You all know by now that Richard Hoaen made the National Team, but you probably haven’t heard how unlikely he was to get there. Considered one of the favorites coming in thanks to his Top 8 in Yokohama, Hoaen started the tournament 1-2 before drafting what he called “a horrible deck”, with which he managed to muster a couple of victories before tragedy struck.
+![](http://www.wizards.com/sideboard/images/natcan03/898.jpg)
+
+You all know by now that Richard Hoaen made the National Team, but you probably haven’t heard how unlikely he was to get there. Considered one of the favorites coming in thanks to his Top 8 in Yokohama, Hoaen started the tournament 1-2 before drafting what he called “a horrible deck”, with which he managed to muster a couple of victories before tragedy struck.
 
 Richard, facing a 2-0 match up against Limited specialist Nick Page’s insane blue-green deck (really monogreen with three Rushes of Knowledge) found that his Constructed deck was missing, saw that his next match up was virtually un-winnable and decided to call it a day at 3-2, informing Scott Larabee that he wished to be dropped from the tournament. With the fifth round still underway though, Richard, buoyed by friends, decided to fight the good fight and asked to be reinstated, which is totally legal as the next round hadn’t begun yet.
 

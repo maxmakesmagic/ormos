@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](https://i.ormos.uk/b4/bf/b4bf63f485f66c286129768b3fccf5d678844425e1edb5691a105914a64407ae.jpg)In the sixth round, Ben Ronaldson from the United Kingdom faced Arto Hiltunen from Finland in a rather tense match. Ben was with red, blue and black, while Arto had a black, green and white deck. The Englishman won the die roll, and he chose to play, unfortunately having to mulligan once before he got a hand he could keep. 
+![](https://i.ormos.uk/b4/bf/b4bf63f485f66c286129768b3fccf5d678844425e1edb5691a105914a64407ae.jpg)
+
+In the sixth round, Ben Ronaldson from the United Kingdom faced Arto Hiltunen from Finland in a rather tense match. Ben was with red, blue and black, while Arto had a black, green and white deck. The Englishman won the die roll, and he chose to play, unfortunately having to mulligan once before he got a hand he could keep. 
 
 Ben summoned a turn one Nightscape Apprentice and then he followed up by playing a turn three Cinder Shade. Arto, on the other hand, dropped a turn two Ravenous Rats that took a mountain from Ben's hand, and then he played a Noble Panther. 
 

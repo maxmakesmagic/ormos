@@ -318,7 +318,9 @@ Call me crazy but Mana Leak seems good against any deck that needs to resolve si
 
 For the always dangerous Goblin Bidding Hirata could reach into his sideboard for Pyroclasm. The *Ice Age* reprint is also good against any creature horde strategy such as elves, zombies, and white weenie. Between Mana Leak and Pyroclasm the base set provided Hirata with answers to about two-thirds of the field. That left him with only the mirror to contend with. Only the mirror…
 
-![](https://i.ormos.uk/5a/45/5a4580415877945dbe0529ea7a515ee4a200564bcf5877afe8dab73efcda4173.jpg)Many of the German Affinity decks have been running green to support some combination of Oxidize and Naturalize in the main deck and sideboard. Hirata chose not to worry about one-for-one artifact removal and instead chose to devote seven sideboard slots to transforming his deck from an Affinity deck to an Anti-Affinity Affinity deck with Seething Songs and Furnace Dragons. 
+![](https://i.ormos.uk/5a/45/5a4580415877945dbe0529ea7a515ee4a200564bcf5877afe8dab73efcda4173.jpg)
+
+Many of the German Affinity decks have been running green to support some combination of Oxidize and Naturalize in the main deck and sideboard. Hirata chose not to worry about one-for-one artifact removal and instead chose to devote seven sideboard slots to transforming his deck from an Affinity deck to an Anti-Affinity Affinity deck with Seething Songs and Furnace Dragons. 
 
 If you look back at the decks from [the Hong Kong Regionals](/en/articles/swimmingwithsharks/2004/03-17-hong-kong-regionals-and-results) you will find a list that opted to run an Affinity build that ramped up to the mirror-shattering dragon. The only problem is that many other decks have emerged as viable options in the months since Kobe and while still the dominant deck in the format, Affinity is being crowded for top billing by those decks. Against decks with plain old non-artifact lands and creatures blowing up all of your own stuff ain't so bright. But out of the sideboard…
 

@@ -89,7 +89,9 @@ render_recovery:
   - Blazing Salvo
   occurrences: 48
 ---
-![](http://www.wizards.com/sideboard/images/gpbar02/a970.jpg)We had a different feature match for you - Olivier Ruel vs. Ferran Vila - but we were forced to change it. Ruel and Vila both made the Top 8 in Biarritz. Unfortunately for Ferran Vila, he decided to head back home today to truly enjoy his three byes and on the way back his car broke down.
+![](http://www.wizards.com/sideboard/images/gpbar02/a970.jpg)
+
+We had a different feature match for you - Olivier Ruel vs. Ferran Vila - but we were forced to change it. Ruel and Vila both made the Top 8 in Biarritz. Unfortunately for Ferran Vila, he decided to head back home today to truly enjoy his three byes and on the way back his car broke down.
 
 So we got another member of Black Ops (Florent Jeudon) against Raphaël Gennari. Not bad for a last minute replacement. The friendly Jeudon might not be as chaotic as Olivier but is also very funny. Like the Ruel brothers he has been working very hard to dismiss the idea that he isn't just another clog on the well-oiled machine we call Black Ops.
 
@@ -132,7 +134,9 @@ Raphaël 1-1 Florent
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpbar02/a971.jpg)With a mere nine minutes left on the clock they started the third game silently while the crowd murmured around the table. Gennari opened with a Wild Mongrel and Jeudon answered with an Organ Grinder. The Grinder left the game the following turn when a Chieftain steamrolled into the Red Zone. However, the Grinder was quickly replaced by a Faceless Butcher that put an end to Mongrel's plans to raise havoc.
+![](http://www.wizards.com/sideboard/images/gpbar02/a971.jpg)
+
+With a mere nine minutes left on the clock they started the third game silently while the crowd murmured around the table. Gennari opened with a Wild Mongrel and Jeudon answered with an Organ Grinder. The Grinder left the game the following turn when a Chieftain steamrolled into the Red Zone. However, the Grinder was quickly replaced by a Faceless Butcher that put an end to Mongrel's plans to raise havoc.
 
 A Fiend revealed a handful of lands and an Engulfing Flames in Florent's hand. When Raphaël again dropped his trusty Angel it looked like the game was about to slow down but Florent wouldn't back down from the race. He played a Roar of the Wurm (for the normal cost) making it clear that if the Angel decided to attack he would bring two monsters to the Red Zone.
 

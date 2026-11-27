@@ -136,7 +136,9 @@ So let's take a close look at how these *Eventide* Elves were designed and devel
 
 ### From "Growing Elf" to Nettle Sentinel
 
-[![Monstrify](https://i.ormos.uk/19/b3/19b3500ef825e7d8f02a6762a5b2beb819d6738e87cfae1fdc92387e3772033e.jpg)](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Monstrify)The first *Eventide* Elf started existence as this design very early in *Eventide*'s design.
+[![Monstrify](https://i.ormos.uk/19/b3/19b3500ef825e7d8f02a6762a5b2beb819d6738e87cfae1fdc92387e3772033e.jpg)](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Monstrify)
+
+The first *Eventide* Elf started existence as this design very early in *Eventide*'s design.
 
 > Growing Elf  
 >  2G  

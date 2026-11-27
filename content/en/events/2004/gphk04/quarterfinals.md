@@ -727,7 +727,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/gphk04/qf1_1.jpg)Gabe's deck was not what you would normally qualify as good. He went into mono-black a little too late in *Mirrodin* and other players around him got the same idea. His deck had no Echoing Decay, Chittering Rats, or Grimclaw Bats as a result. Gabe always has a smile though and laughed off his misfortune and clowned for the spectators.
+![](http://www.wizards.com/sideboard/images/gphk04/qf1_1.jpg)
+
+Gabe's deck was not what you would normally qualify as good. He went into mono-black a little too late in *Mirrodin* and other players around him got the same idea. His deck had no Echoing Decay, Chittering Rats, or Grimclaw Bats as a result. Gabe always has a smile though and laughed off his misfortune and clowned for the spectators.
 
 When Chi-Chung mugged for his Top 8 photos Gabe scolded him on how to play to the crowd, "No Peace signs, c'mon!" Chi-Chung gave Gabe's deck a bizarre cut that bordered on a forty-pile shuffle. Gabe chuckled, "Interesting." He mimicked the cut and divided up his opponent's deck as well. 
 

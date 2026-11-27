@@ -60,7 +60,9 @@ Perhaps the most successful archetype at Regionals - red-green beatdown - was an
 
 ### Team Grand Prix-Nagoya
 
-![](http://www.wizards.com/sideboard/images/gpnagoya02/981.jpg)While Americans played Standard and Germans competed for the National Championship title, the one-slot qualifier for the next year's Team Masters was being held in Japan. An average size event for Japan, GP-Nagoya gathered about 200 teams. 
+![](http://www.wizards.com/sideboard/images/gpnagoya02/981.jpg)
+
+While Americans played Standard and Germans competed for the National Championship title, the one-slot qualifier for the next year's Team Masters was being held in Japan. An average size event for Japan, GP-Nagoya gathered about 200 teams. 
 
 It was a well-deserving team that ended up with the title. Poor Shark 2 is the new incarnation of Poor Shark, a team that finished 2nd at GP-Yokohama. With Rookie of the Year Katsuhiro Mori replacing Tomomi Otsuka on the team, they were slated for greatness. Masahiko Morita was a three-time GP finalist, and Kuroda also enjoyed a number of Top 8 finishes - the team finally earned a coveted championship for each of these successful players. 
 
@@ -105,7 +107,9 @@ Please continue to submit the National coverage links to me at ashv80@hotmail.co
 
 ### Coming Up: Judgment Prerelease
 
-![](https://i.ormos.uk/74/b0/74b04c551d93ace2acc47fccf6d47151fd094429877af0d378931c4b57dbcb18.jpg)No professional events this weekend, but players around the world will get their first chance to play with cards from the latest **Magic** expansion. Tired of black dominating the *Odyssey* Block Limited play? Show up this weekend, and give white-green a whirl, and to try and get your hands on the new, leaner and meaner, Erhnam Djinn.
+![](https://i.ormos.uk/74/b0/74b04c551d93ace2acc47fccf6d47151fd094429877af0d378931c4b57dbcb18.jpg)
+
+No professional events this weekend, but players around the world will get their first chance to play with cards from the latest **Magic** expansion. Tired of black dominating the *Odyssey* Block Limited play? Show up this weekend, and give white-green a whirl, and to try and get your hands on the new, leaner and meaner, Erhnam Djinn.
 
 ### Magic at the Movies
 
@@ -160,7 +164,9 @@ The first took place in an Asian Invasion Block Draft and features Rene Kraft (T
 
 The next one is way better and features Christoph Lippert and Roman Radke. It took place on Day 2 (Standard), main event. 
 
-![](https://i.ormos.uk/cc/1f/cc1f096ae6554c6012e40f347790eb90820dfbba3e581b6de0a1a13070fda40d.jpg)Christoph had managed to get all of Roman's Atogs to his graveyard. After that Roman began the beatdown with his other critters, mainly Finkels. At one point, he just had one card left in his library, but would attack for the win next turn (mistake one: you don't have to draw cards off Finkel). So Christoph played his last card: Haunting Echoes. Having no counters left, Roman looks through his graveyard and comes to the conclusion that the last card in his library must be a Memory Lapse, which would be removed by the Echoes, causing him to get decked. So he devised a devious plan: He'd play Fact or Fiction to get the Lapse, then let Echoes resolve. Then he'd play Repulse on one of his critters and Lapse the Repulse, so he would have a card to draw in his next draw step. But then he realized he was one mana short. Mistake 2: he could do the Repulse/Lapse trick in his next upkeep, when he'd have enough mana. Not realizing that, he played the FoF anyway for show. 
+![](https://i.ormos.uk/cc/1f/cc1f096ae6554c6012e40f347790eb90820dfbba3e581b6de0a1a13070fda40d.jpg)
+
+Christoph had managed to get all of Roman's Atogs to his graveyard. After that Roman began the beatdown with his other critters, mainly Finkels. At one point, he just had one card left in his library, but would attack for the win next turn (mistake one: you don't have to draw cards off Finkel). So Christoph played his last card: Haunting Echoes. Having no counters left, Roman looks through his graveyard and comes to the conclusion that the last card in his library must be a Memory Lapse, which would be removed by the Echoes, causing him to get decked. So he devised a devious plan: He'd play Fact or Fiction to get the Lapse, then let Echoes resolve. Then he'd play Repulse on one of his critters and Lapse the Repulse, so he would have a card to draw in his next draw step. But then he realized he was one mana short. Mistake 2: he could do the Repulse/Lapse trick in his next upkeep, when he'd have enough mana. Not realizing that, he played the FoF anyway for show. 
 
 And flipped over an island, since he had boarded one Memory Lapse out. The island wouldn't have been removed by the Echoes, of course. 
 

@@ -151,7 +151,9 @@ render_recovery:
 ---
 木下：Sligh vs. 森田：UG Opposition
 
-![](http://www.wizards.com/sideboard/images/gphir03/a978.jpg)《火花鍛冶/Sparksmith》や《渋面の溶岩使い/Grim Lavamancer》が余りにも効き過ぎる《対立/Opposition》デッキが圧倒的に不利と言えるのではないだろうか。
+![](http://www.wizards.com/sideboard/images/gphir03/a978.jpg)
+
+《火花鍛冶/Sparksmith》や《渋面の溶岩使い/Grim Lavamancer》が余りにも効き過ぎる《対立/Opposition》デッキが圧倒的に不利と言えるのではないだろうか。
 
 しかし、《花の壁/Wall of Blossoms》や《貿易風ライダー/Tradewind Rider》等の死ににくいクリーチャーが残った状態で《対立》まで繋げられれば面白い戦いになるだろう。
 
@@ -169,7 +171,9 @@ render_recovery:
 
 **Game 2** 
 
-![](http://www.wizards.com/sideboard/images/gphir03/a977.jpg)開幕ターンの《ジャッカルの仔/Jackal Pup》からスタートした木下が《火花鍛冶》や《火炎舌のカヴー/Flametongue Kavu》で森田のブロッカーを皆殺しにしてそのまま圧殺。
+![](http://www.wizards.com/sideboard/images/gphir03/a977.jpg)
+
+開幕ターンの《ジャッカルの仔/Jackal Pup》からスタートした木下が《火花鍛冶》や《火炎舌のカヴー/Flametongue Kavu》で森田のブロッカーを皆殺しにしてそのまま圧殺。
 
 まさに圧殺。
 

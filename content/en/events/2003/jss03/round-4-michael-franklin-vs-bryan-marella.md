@@ -86,7 +86,9 @@ render_recovery:
   - Engineered Plague
   occurrences: 101
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a806.jpg)Michael hails from Newport Beach, California. "I ground in yesterday with this deck, but I changed my sideboard before today," he added. This is his first big tournament. "I want to say hi to my friend Bradley Neutell - he showed up and helped me out a lot yesterday," Michael told me before the match. 
+![](http://www.wizards.com/sideboard/images/natus03/a806.jpg)
+
+Michael hails from Newport Beach, California. "I ground in yesterday with this deck, but I changed my sideboard before today," he added. This is his first big tournament. "I want to say hi to my friend Bradley Neutell - he showed up and helped me out a lot yesterday," Michael told me before the match. 
 
 Bryan is here from Tallahassee, Florida, with both his parents in tow. This is his second big tournament, as he attended GP: New Orleans at the beginning of the year. "I'm saying hi to Ben Carroll and Aaron Been – they helped me playtest for this tournament a whole lot. But it didn't help, because now I'm 0-3!" Bryan joked while shuffling.
 
@@ -114,7 +116,9 @@ Bryan's first land was a Swamp, and he played a Duress on his second turn. Micha
 
 Michael played a Wild Mongrel and attacked on the next turn, then played a Phantom Centaur. All was for naught, though, when Bryan played his Mutilate to kill all of Michael's creatures. Michael then went to 18 to play an Opposition, one of three cards left in his hand. He then played a Birds of Paradise and began tapping Bryan's swamps.
 
-![](http://www.wizards.com/sideboard/images/natus03/a808.jpg)Bryan played a Cabal Coffers and passed the turn, seemingly distraught by this state of affairs. He knocked on his deck twice, hoping to pull something good off the top, and said, "Wow," when he played another Swamp. 
+![](http://www.wizards.com/sideboard/images/natus03/a808.jpg)
+
+Bryan played a Cabal Coffers and passed the turn, seemingly distraught by this state of affairs. He knocked on his deck twice, hoping to pull something good off the top, and said, "Wow," when he played another Swamp. 
 
 Michael added another Birds of Paradise to the table, and tapped a Swamp and the Coffers during Bryan's upkeep. Bryan next played a Nantuko Shade, and passed the turn; but Michael played a Krosan Reclamation at Bryan's end step, and targeted that Phantom Centaur.
 
@@ -144,7 +148,9 @@ The first play of this game was Bryan's Duress, which hit an Opposition and left
 
 Michael played a Wild Mongrel and passed the turn. He swung with the Mongrel for two on his next turn, and then played a Llanowar Elf to keep his creatures company. Bryan played another Swamp, bringing his total to seven, and cast a Duress – but Michael had the Envelop to stop the spell.
 
-![](http://www.wizards.com/sideboard/images/natus03/a807.jpg)Going for broke with two cards in his hand, Michael played another Wild Mongrel. Bryan answered with a Cabal Therapy and named Circular Logic, which was one of the two cards in Michael's hand. He then cast a Corrupt for seven at one Wild Mongrel, bringing himself back up to 22 life.
+![](http://www.wizards.com/sideboard/images/natus03/a807.jpg)
+
+Going for broke with two cards in his hand, Michael played another Wild Mongrel. Bryan answered with a Cabal Therapy and named Circular Logic, which was one of the two cards in Michael's hand. He then cast a Corrupt for seven at one Wild Mongrel, bringing himself back up to 22 life.
 
 Michael swung with the remaining Mongrel, bringing Bryan back to 20 life. On Bryan's turn, he played a Nantuko Shade and passed the turn. Michael declined to attack on his turn, and in fact, he also declined to play anything else. At Michael's end step, though, Bryan Smothered the Mongrel and then attacked with the Nantuko Shade. Michael blocked with his Llanowar Elf.
 

@@ -70,7 +70,9 @@ Each of the five Core Set Tenth Edition starter games includes two 15-card boost
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/c9/85/c985d6b312252d618f6b599c5c4925d8aedaf847d950df12b176f68650fb8377.png)Tenth Edition features 383 cards, including randomly inserted premium versions of all cards in the set.
+![](https://i.ormos.uk/c9/85/c985d6b312252d618f6b599c5c4925d8aedaf847d950df12b176f68650fb8377.png)
+
+Tenth Edition features 383 cards, including randomly inserted premium versions of all cards in the set.
 
 **Set Name:***Core Set Tenth Edition*  
 **Number of Cards:** 383

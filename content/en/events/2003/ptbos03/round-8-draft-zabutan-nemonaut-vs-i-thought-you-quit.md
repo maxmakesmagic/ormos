@@ -207,7 +207,9 @@ render_recovery:
   - Chill Haunting
   occurrences: 209
 ---
-![](http://www.wizards.com/sideboard/images/ptbos03/a825.jpg)What would the ultimate Swiss round of a Pro Tour be without a tale of the local heroes vs. the big bad pros? Mike Turian, Gary Wise, and Eugene Harvey were the beneficiaries of a concession from Phoenix Foundation last round that has left them in a position to win out into the Top 4. Standing in their way are three local players--Jacob Rabinowitz, Danny Mandel, and Jeff Magid. None have anything approaching the resume of the titans that stand in the way of their shot at a Pro Tour Day 3 appearance, but they are seasoned products of the YMG machine.
+![](http://www.wizards.com/sideboard/images/ptbos03/a825.jpg)
+
+What would the ultimate Swiss round of a Pro Tour be without a tale of the local heroes vs. the big bad pros? Mike Turian, Gary Wise, and Eugene Harvey were the beneficiaries of a concession from Phoenix Foundation last round that has left them in a position to win out into the Top 4. Standing in their way are three local players--Jacob Rabinowitz, Danny Mandel, and Jeff Magid. None have anything approaching the resume of the titans that stand in the way of their shot at a Pro Tour Day 3 appearance, but they are seasoned products of the YMG machine.
 
 Zabutan won the flip and elected to kick off, counter to early reports of the CMU strategy. While they waited to look at cards, they bantered about Team Rochester being the format that is the most rewarding for good players. "I like the format because it is rewarding for skillful play and the good players take me along for the ride." 
 
@@ -289,7 +291,9 @@ About two-thirds of the way through the draft, the pressure started to show on t
 
 The other controversial pick came when Jacob opened Twisted Abomination and Bladewing the Risen. Jacob defensively drafted the Zombie and insisted that Danny take the Dragon. Danny was reluctant but ultimately more obedient than his counterpart. Jacob explained that he was concerned about two copies of Crown of Awe and wanted to give Danny an evasion creature. He reasoned that both creatures cost seven, since you always want to leave up one black for the Abomination when you play it. 
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a826.jpg)Danny was still reeling from the draft and asked, "Do you know Towly? Because I have no idea what is going on." As he and Jacob sorted through the deck, Danny bemoaned the Daru Lancers that would hold his attack at bay. Jacob flopped a pair of Frenetic Raptors in front of his teammate and yelled, "That's why I had you draft these! They are 6/6 creatures for six mana."
+![](http://www.wizards.com/sideboard/images/ptbos03/a826.jpg)
+
+Danny was still reeling from the draft and asked, "Do you know Towly? Because I have no idea what is going on." As he and Jacob sorted through the deck, Danny bemoaned the Daru Lancers that would hold his attack at bay. Jacob flopped a pair of Frenetic Raptors in front of his teammate and yelled, "That's why I had you draft these! They are 6/6 creatures for six mana."
 
 Meanwhile, Jeff was on the fence about whether or not to play his Lightning Rift, and overall the team seemed flummoxed about the specifics of their opponent's decks. Gary Wise, on the other hand, was brimming with confidence. "We out-opened them and we out-drafted them. They seemed more than a little overwhelmed."
 

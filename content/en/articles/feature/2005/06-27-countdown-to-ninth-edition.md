@@ -95,14 +95,20 @@ So whether you’re trying to figure out what’s in the new set, checking in to
 
 * * *
 
-![Ninth Edition card image](https://i.ormos.uk/9a/47/9a4700373d0897b3906c1fa6442df4ad2458bae898aa837b143ccf821771c16b.jpg)When I was originally setting up this series of articles and dividing up the four groups of cards to have roughly the same number of new art pieces, it conveniently turned out that each group also had the right number of new changes and cool reprints. (One group had considerably more cards for this second section, but that comes later.) One of the most common questions I get at Ask Wizards is “Will there be equipment in *Ninth Edition?*” It’s nice to finally get the chance to answer that one!
+![Ninth Edition card image](https://i.ormos.uk/9a/47/9a4700373d0897b3906c1fa6442df4ad2458bae898aa837b143ccf821771c16b.jpg)
+
+When I was originally setting up this series of articles and dividing up the four groups of cards to have roughly the same number of new art pieces, it conveniently turned out that each group also had the right number of new changes and cool reprints. (One group had considerably more cards for this second section, but that comes later.) One of the most common questions I get at Ask Wizards is “Will there be equipment in *Ninth Edition?*” It’s nice to finally get the chance to answer that one!
 
   
   
 
-![Ninth Edition card image](https://i.ormos.uk/e7/c4/e7c4eda95d8e80c5e95b6c68cd9ad0aa5d0308be9ccac5870d8d5b6683bd3b88.jpg)Another big change that arrives with the new core set involves creature types. One of the most contentious debates in **Magic** has involved what to do about unique creature types and creatures that have creature types that seem out of place when compared to other, similar creatures (such as Savannah Lions being a Lion rather than a Cat). Take a close look at our friend Nekrataal here and you’ve got the answer to how at least part of that debate turned out. 
+![Ninth Edition card image](https://i.ormos.uk/e7/c4/e7c4eda95d8e80c5e95b6c68cd9ad0aa5d0308be9ccac5870d8d5b6683bd3b88.jpg)
+
+Another big change that arrives with the new core set involves creature types. One of the most contentious debates in **Magic** has involved what to do about unique creature types and creatures that have creature types that seem out of place when compared to other, similar creatures (such as Savannah Lions being a Lion rather than a Cat). Take a close look at our friend Nekrataal here and you’ve got the answer to how at least part of that debate turned out. 
 
   
   
 
-![Ninth Edition card image](https://i.ormos.uk/39/22/392245814635117a9c0c87eb77cb897305820aefa5db7e46997bd590b89a499b.jpg)While much of the buzz surrounding *Ninth Edition* will come from the new changes it brings, plenty of attention will also come from great cards either returning to or even making their first appearance in the core set. This popular land, which saw plenty of tournament play in its day, will make its core set debut in *Ninth Edition* after having been out of print since way back in 1997.
+![Ninth Edition card image](https://i.ormos.uk/39/22/392245814635117a9c0c87eb77cb897305820aefa5db7e46997bd590b89a499b.jpg)
+
+While much of the buzz surrounding *Ninth Edition* will come from the new changes it brings, plenty of attention will also come from great cards either returning to or even making their first appearance in the core set. This popular land, which saw plenty of tournament play in its day, will make its core set debut in *Ninth Edition* after having been out of print since way back in 1997.

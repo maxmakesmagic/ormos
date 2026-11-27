@@ -49,7 +49,9 @@ render_recovery: []
 
 Rickard went first and got off to a slow start, with too many coming-into-play-tapped lands, and got hit four times by a second turn Kavu Titan, going down to twelve while he looked for something to do.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/864.jpg)Eventually he summoned a Spectral Lynx, and used Dromar's Charm to force it through. Even then it was Repulsed, and the Kavu Titan got through another two points of damage, putting the Swede on only ten life.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/864.jpg)
+
+Eventually he summoned a Spectral Lynx, and used Dromar's Charm to force it through. Even then it was Repulsed, and the Kavu Titan got through another two points of damage, putting the Swede on only ten life.
 
 Next turn Österberg replayed the Lynx, as well as casting a Gerrard's Verdict, which gained him three life as a Shivan Reef was among the discarded cards. Once again the Lynx was Repulsed and the Kavu swung in for two again. This time when Österberg attempted to recast the Lynx, Michal attempted to counter with a Mystic Snake but this was Gainsayed.
 

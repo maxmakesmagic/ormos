@@ -44,7 +44,9 @@ archive_source:
   sha256: bd65b603ec63fbe5ffa932584c478f590f7ce252865743c66ebf34e96a5ff49b
 render_recovery: []
 ---
-![Feature Match: Tom Guevin vs. Jon Finkel](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/949.jpg)For the past several years the biggest weakness in Jon Finkel's **Magic** game has been Constructed formats. Jon would often find himself flailing for a deck hours before the tournament with little practice and no understanding of the metagame. 
+![Feature Match: Tom Guevin vs. Jon Finkel](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/949.jpg)
+
+For the past several years the biggest weakness in Jon Finkel's **Magic** game has been Constructed formats. Jon would often find himself flailing for a deck hours before the tournament with little practice and no understanding of the metagame. 
 
 To avoid a repeat performance, Jon has joined up with Your Move Games. Not only is he playing one of their decks-Scepter Oath-but he even participated on their mailing list and was an active participant in the team's work on the format.
 
@@ -56,7 +58,9 @@ Both players were already saddled with two losses and Jon seemed cheered by the 
 
 ### Game 1
 
-![A pensive Jon Finkel](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/947.jpg)Jon rolled a die and then Tom went through his dramatic die roll, which involves tossing the die twenty feet in the air catching it and tossing it onto the table. After all that work he was understandably disappointed to lose the roll. "Very huge."
+![A pensive Jon Finkel](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/947.jpg)
+
+Jon rolled a die and then Tom went through his dramatic die roll, which involves tossing the die twenty feet in the air catching it and tossing it onto the table. After all that work he was understandably disappointed to lose the roll. "Very huge."
 
 Jon had to send back his first two hands and eventually settled on a one-lander. Tom was fine with his and the match was underway. Jon led off with a [Yavimaya Coast](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Yavimaya+Coast) and Tom played and used a [Wooded Foothills](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wooded+Foothills) to play [Mogg Fanatic](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+Fanatic). Jon found a [Shivan Reef](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Reef) on the top of his deck and was able to [Counterspell](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell) the [Goblin Recruiter](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Recruiter) that Tom attempted on the next turn.
 
@@ -74,7 +78,9 @@ Finkel 0 - Tom 1
 
 ### Game 2
 
-![Stone-Faced Tom Guevin](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/948.jpg)While they shuffled Tom teased Jon about getting Magic through the Dark Ages before it had any other superstars, "Johnny was like the Magic Johnson/Larry Bird of Magic. If you are the Larry-I'm sorry. You were Magic Johnson-who was Larry Bird?"
+![Stone-Faced Tom Guevin](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/948.jpg)
+
+While they shuffled Tom teased Jon about getting Magic through the Dark Ages before it had any other superstars, "Johnny was like the Magic Johnson/Larry Bird of Magic. If you are the Larry-I'm sorry. You were Magic Johnson-who was Larry Bird?"
 
 Jon had no answer handy and just shrugged and offered, "Justice?"
 

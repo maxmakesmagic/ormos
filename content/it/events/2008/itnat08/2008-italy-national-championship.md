@@ -2719,7 +2719,9 @@ Si sono disputati tre tornei Last Chance Constructed, ognuno con in palio due qu
 
 Tradizione impone che ogni anno il campione uscente si cimenti nel feature match del primo round. Mario Pascoli, di Roma, vuole difendere il suo titolo dall’assalto del forlivese Niccolò Baldelli.
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR1-Pascoli_Baldelli.jpg)Poca azione sul board nell’inizio della prima partita. Mario sospende un Ancestral Vision e countera prima un Imperious Perfect e poi un Garruk Wildspeaker. Stessa sorte per un Chameleon Colossus spedito nel cimitero da un Remove Soul, e per un Tarmogoyf terminato da uno Spellslutter Sprite Una Treetop Village permette a Niccolo di infliggere i primi tre danni della partita, che però risulteranno ininfluenti. Come un fulmine dal cielo Pascoli chiude la gara in tre turni. Il giocatore romano per due turni successivi tappa tutte le lande dell’avversario nel mantenimento con delle Mistbind Clique, e con l’aiuto di alcune Mutavault si porta sull’1-0.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR1-Pascoli_Baldelli.jpg)
+
+Poca azione sul board nell’inizio della prima partita. Mario sospende un Ancestral Vision e countera prima un Imperious Perfect e poi un Garruk Wildspeaker. Stessa sorte per un Chameleon Colossus spedito nel cimitero da un Remove Soul, e per un Tarmogoyf terminato da uno Spellslutter Sprite Una Treetop Village permette a Niccolo di infliggere i primi tre danni della partita, che però risulteranno ininfluenti. Come un fulmine dal cielo Pascoli chiude la gara in tre turni. Il giocatore romano per due turni successivi tappa tutte le lande dell’avversario nel mantenimento con delle Mistbind Clique, e con l’aiuto di alcune Mutavault si porta sull’1-0.
 
 Niccolò inizia forte la seconda partita con un Wren Run Vanquisher, seguito da un Thoughtsieze, che toglie uno Scion of Oona, e due Imperious Perfect. Mario sospende due Ancestral Vision. Dopo aver bloccatogli assalti del giocatore romagnolo, con qualche bounce, Mario spera di migliorare la sua posizione quando si risolvono i due pescanti. Purtroppo per lui le 6 carte pescate non presentano alcun tipo di reset. Grazie ad un Cryptic Command il campione uscente resiste un turno, ma poi deve soccombere davanti all’orda degli elfi. Uno pari.
 
@@ -2736,7 +2738,9 @@ Baldelli 2 – Pascoli 1
 
 La giornata inizia con un interessante feature match tra Marco Cammilluzzi e Alessio Angeli. Il primo è un giocatore romano che negli ultimi anni è stato costantemente tra i migliori pro italiani, piazzandosi nel top4 al GP Firenze 2007 e giocando in 5 Pro Tour e un Mondiale. Alessio è presente sulla scena milanese da molti anni, nei quali si è qualificato per 6 Pro Tour e ha fatto top8 nei nazionali 2006. Si scontrano in questo primo round standard il mazzo rosso-nero pedine del Romano contro un monorosso con Demigod of Revenge.
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR1-Cammilluzzi_Angeli.jpg)Il match inizia senza mulligan, e avendo vinto il lancio del dado, Marco decide di partire con un Thoughtseize, svelando la mano del suo avversario (4 terre, Mogg Fanatic, Magus of the Moon e Blood knight, che viene scartato). Scendono creature da entrambi i lati, ma il Bitterblossom al secondo turno è un’ottimo inizio per il mazzo pedine. Una Figure of Destiny si affianca a 4 montagne, un Ghitu Encampment e un Magus of the Moon mentre Marco inizia ad attaccare con le pedine di Bitterblossom, lasciando dei Fanatici, un Marsh Flitter e i suoi goblin. Il piccolo Kithkin prende la forma di un 4/4 pochi turni dopo, e quando viene affiancato da un Demigod of Revenge costringe il romano a fare un po’ di calcoli, prima di bloccare l’avatar con il suo Marsh Flitter, trasformato, terminandolo attivando Mogg Fanatic. Un altro Thoughtseize svuota la mano di Angeli, che però continua ad aggredire con un Boggart Ram-Gang, che si trovava opportunamente nascosto in cima al mazzo. Marco è ormai alle strette, le vite perse di Bitterblossom e Thoughtseize iniziano a pesare e lo Shock del suo avversario al turno successivo lo costringe a passare alla seconda partita.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR1-Cammilluzzi_Angeli.jpg)
+
+Il match inizia senza mulligan, e avendo vinto il lancio del dado, Marco decide di partire con un Thoughtseize, svelando la mano del suo avversario (4 terre, Mogg Fanatic, Magus of the Moon e Blood knight, che viene scartato). Scendono creature da entrambi i lati, ma il Bitterblossom al secondo turno è un’ottimo inizio per il mazzo pedine. Una Figure of Destiny si affianca a 4 montagne, un Ghitu Encampment e un Magus of the Moon mentre Marco inizia ad attaccare con le pedine di Bitterblossom, lasciando dei Fanatici, un Marsh Flitter e i suoi goblin. Il piccolo Kithkin prende la forma di un 4/4 pochi turni dopo, e quando viene affiancato da un Demigod of Revenge costringe il romano a fare un po’ di calcoli, prima di bloccare l’avatar con il suo Marsh Flitter, trasformato, terminandolo attivando Mogg Fanatic. Un altro Thoughtseize svuota la mano di Angeli, che però continua ad aggredire con un Boggart Ram-Gang, che si trovava opportunamente nascosto in cima al mazzo. Marco è ormai alle strette, le vite perse di Bitterblossom e Thoughtseize iniziano a pesare e lo Shock del suo avversario al turno successivo lo costringe a passare alla seconda partita.
 
 Alessio Angeli 1 - Marco Cammilluzzi 0
 
@@ -2755,17 +2759,23 @@ Alessio Angeli 1 - Marco Cammilluzzi 2
 
     *by Andrea “Pk” Panebianco*
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR2-Giulio_Barra.jpg)Per il secondo turno si affrontano due giocatori d’esperienza, anche internazionale: il napoletano Giulio Barra, che ha al suo attivo anche un Top8 a PT Valencia dello scorso anno dopo una comunque ottima carriera precedente, e il massese Matteo Bianchi, anche lui più volte PT Player e giocatore di Magic da più di dieci anni.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR2-Giulio_Barra.jpg)
+
+Per il secondo turno si affrontano due giocatori d’esperienza, anche internazionale: il napoletano Giulio Barra, che ha al suo attivo anche un Top8 a PT Valencia dello scorso anno dopo una comunque ottima carriera precedente, e il massese Matteo Bianchi, anche lui più volte PT Player e giocatore di Magic da più di dieci anni.
 
 Entrambi tengono la mano iniziale di questo mirror match di monorosso. Primo drop di Matteo che cala Mogg Fanatic a cui Giulio risponde con Magus of the Moon, immediatamente immolatosi sul goblin, che verrà sotituito da un Boggart Ram Gang, da un altro Fanatico e dal proprio Mago. Giulio spara sul goblin a rotelle ed evoca Demigod of Revenge, dando il via ad una damage race che si preannuncia breve e sanguinosa. La partita comincia a farsi tirata, visto che i due conoscono bene le potenzialità del MonoR e sanno che un attacco od una mossa avventata possono significare la sconfitta in qualsiasi momento: il Demigod di Giulio viene colpito dalla contraerea avversaria, sotto forma di un Puncture Blast che lo riduce ad un piccolo 2/1, e successivamente parte il contrattacco: Matteo evoca Stigma Lasher e Figure of Destiny per poi attaccare e portare il napoletano a 6 punti vita e chiudere il turno successivo con un altro attacco e un Flame Javelin in faccia.
 
 Bianchi 1-0 Barra
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR2-Matteo_Bianchi.jpg)Le prime schermaglie tra Mogg Fanatic servono ad aprire le ostilità e lo Stigma Laher di Matteo viene ucciso dal Murderous Redcap di Giuilo, fermato a sua volta nel beatdown da un Blood Knight del massese. Il Cavaliere viene tolto di mezzo da Dead/gone e la strada si spiana per le due creature di Giulio a cui si unisce il Ghitu Encampment, prontamente incendiato da un Incinerate. La situazione non sembra sbloccarsi, e nonostante i potenziali offensivi dei mazzi, c’è una sorta di “fase di studio” in cui Giulio attacca solo col Redcap in missione kamikaze. Matteo blocca con Figure of Destiny che viene fritto da un Puncture Blast prima di arrecare danno al piccolo goblin terrorista e preservarlo per un attacco successivo e (si spera) più efficace. Altra Figure of Destiny di Matteo che si vede costretto a difendersi, ma un Incinerate ferma il suo tentativo di blocco dall’armata goblin del suo opponent. Finalmente per lui, c’è la pescata buona, e un Demigod of Revenge si materializza sul tavolo piazzandosi in difesa del suo evocatore, ma Giulio ne sa tantissime: la seconda metà di Dead/Gone lo rimbalza al mittente e il successivo attacco porta Matteo a 7 punti vita, costringendolo ad immolare il semidio su quello topdeckato dal napoletano. Vista l’impossibilità di riprendere la partita, Matteo concede e si va alla terza.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR2-Matteo_Bianchi.jpg)
+
+Le prime schermaglie tra Mogg Fanatic servono ad aprire le ostilità e lo Stigma Laher di Matteo viene ucciso dal Murderous Redcap di Giuilo, fermato a sua volta nel beatdown da un Blood Knight del massese. Il Cavaliere viene tolto di mezzo da Dead/gone e la strada si spiana per le due creature di Giulio a cui si unisce il Ghitu Encampment, prontamente incendiato da un Incinerate. La situazione non sembra sbloccarsi, e nonostante i potenziali offensivi dei mazzi, c’è una sorta di “fase di studio” in cui Giulio attacca solo col Redcap in missione kamikaze. Matteo blocca con Figure of Destiny che viene fritto da un Puncture Blast prima di arrecare danno al piccolo goblin terrorista e preservarlo per un attacco successivo e (si spera) più efficace. Altra Figure of Destiny di Matteo che si vede costretto a difendersi, ma un Incinerate ferma il suo tentativo di blocco dall’armata goblin del suo opponent. Finalmente per lui, c’è la pescata buona, e un Demigod of Revenge si materializza sul tavolo piazzandosi in difesa del suo evocatore, ma Giulio ne sa tantissime: la seconda metà di Dead/Gone lo rimbalza al mittente e il successivo attacco porta Matteo a 7 punti vita, costringendolo ad immolare il semidio su quello topdeckato dal napoletano. Vista l’impossibilità di riprendere la partita, Matteo concede e si va alla terza.
 
 Bianchi 1-1 Barra
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR2-Bianchi_Barra.jpg)Parte in salita per Giulio il terzo match, con un mulligan, ed i primi turni non offrono emozioni,con un Blood Knight ed una Figue of Destiny per parte; Matteo però si inchioda a due lande per un turno, dando all’avversario modo di recuperare parte dello svantaggio accumulato con la carta in meno. Entrambi però si fermano un pio di turni a tre terre, ma Giulio ha più creature dalla sua parte, e la quarta terra significa di nuovo Murderous Redcap che infligge i primi danni della partita. Cinque creature contro due, con Matteo sempre fermo a tre terre e costretto a chiudersi in difesa con due Bottle Gnomes: quando un Flame Javelin però gli toglie una Figure of Destiny 4/4 le cose si mettono male: i cavalieri e i du goblin più grossi di Napoli attaccano senza ritegno, finendo stoppati dagli eroici gnomi ma lasciando il board pulito dalla parte massese. La strenua resistenza di Matteo però viene vanificata quando dal mazzo di Giulio si unisce alla festa un Demigod of Revenge che guida l’alpha strike definitivo: Matteo tende la mano e la partita finisce qui.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR2-Bianchi_Barra.jpg)
+
+Parte in salita per Giulio il terzo match, con un mulligan, ed i primi turni non offrono emozioni,con un Blood Knight ed una Figue of Destiny per parte; Matteo però si inchioda a due lande per un turno, dando all’avversario modo di recuperare parte dello svantaggio accumulato con la carta in meno. Entrambi però si fermano un pio di turni a tre terre, ma Giulio ha più creature dalla sua parte, e la quarta terra significa di nuovo Murderous Redcap che infligge i primi danni della partita. Cinque creature contro due, con Matteo sempre fermo a tre terre e costretto a chiudersi in difesa con due Bottle Gnomes: quando un Flame Javelin però gli toglie una Figure of Destiny 4/4 le cose si mettono male: i cavalieri e i du goblin più grossi di Napoli attaccano senza ritegno, finendo stoppati dagli eroici gnomi ma lasciando il board pulito dalla parte massese. La strenua resistenza di Matteo però viene vanificata quando dal mazzo di Giulio si unisce alla festa un Demigod of Revenge che guida l’alpha strike definitivo: Matteo tende la mano e la partita finisce qui.
 
 Bianchi 1-2 Barra
 
@@ -2778,7 +2788,9 @@ Bianchi 1-2 Barra
 
 Si affrontano in questo turno uno dei giocatori italiani più esperti, Luca Chiera (oltre 30 Pro Tour all’attivo, 5 top8 ai Nazionali di cui uno vinto, top8 al GP Como ‘97) di Roma, e un nuovo arrivato nella scena professionistica italiana, Matteo Morra da Mestre (2 Pro Tour con altrettanti piazzamenti in top32). Seguiremo untra match di rb token di Chiera, mentre Matteo gioca un rb aggressivo. Il veneto vince il tiro del dado e sceglie di iniziare.
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR2-Chiera_Morra.jpg)Luca mulliga la sua prima mano, ma è contento delle sei che gli arrivano. Il romano può sviluppare immediatamente il board con 3 Mogg War Marshall e un Marsh Flitter. Tutti questi segnalini goblin non durano a lungo però, perchè Matteo nel frattempo ha apparecchiato con Shadow Guildmage, 2 Boggart Ram-Gang e un Magus of the Moon. Un Siege-Gang Commander da parte del romano minaccia di rendere i token più pericolosi, ma il rischio è scongiurato grazie a un Flame Javelin. Luca si trova con una mano di solo carte nere che non può castare a causa del Magus, e quando Matteo gioca un Demigod of Revenge non riesce a trovare una soluzione in tempo.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR2-Chiera_Morra.jpg)
+
+Luca mulliga la sua prima mano, ma è contento delle sei che gli arrivano. Il romano può sviluppare immediatamente il board con 3 Mogg War Marshall e un Marsh Flitter. Tutti questi segnalini goblin non durano a lungo però, perchè Matteo nel frattempo ha apparecchiato con Shadow Guildmage, 2 Boggart Ram-Gang e un Magus of the Moon. Un Siege-Gang Commander da parte del romano minaccia di rendere i token più pericolosi, ma il rischio è scongiurato grazie a un Flame Javelin. Luca si trova con una mano di solo carte nere che non può castare a causa del Magus, e quando Matteo gioca un Demigod of Revenge non riesce a trovare una soluzione in tempo.
 
 Luca Chiera 0 - Matteo Morra 1
 
@@ -2821,7 +2833,9 @@ Stefano Fiori ed Emanuele Galatioto, entrambi con due vinte, cercano la vetta de
 
 Emanuele prende un doppio mulligan e tiene le cinque successive, ma dopo aver calato una terra, salta i successivi 4 land drop. Per Stefano è un gioco da ragazzi portare a casa la prima partita, grazie a milioni di token volanti prodotti da un Bitterblossom giocato di secondo turno.
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR3-Galatioto_Fiori.jpg)Emanuele parte alla grande nella seconda partita con Figure of Destiny e Stigma Lasher. che viene spedito nel cimitero da un Terror. Quando Emanuele tenta di far crescere la propria figura a 4/4, ma un secondo Terror libera il board e permette a Stefano di lanciare un Bitterblossom prima e una Razormane Masticore dopo, dimezzando i punti vita dell’avversario.Emanuele tenta di rientrare in gara con una seconda Figure of Destiny, e terminando la masticora con un Incinerate ed un Flame Javelin. Ma per Stefano la partita è in discesa. Nel mantenimento dell’avversario tappa tutte le lande con una Mistbind Clique, e nell’attacco successivo, grazie alla fata tappatrice, ad alcuni token e al potenziamento di uno Scion of Oona, infligge i danni finali che gli permettono di aggiudicarsi il match.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR3-Galatioto_Fiori.jpg)
+
+Emanuele parte alla grande nella seconda partita con Figure of Destiny e Stigma Lasher. che viene spedito nel cimitero da un Terror. Quando Emanuele tenta di far crescere la propria figura a 4/4, ma un secondo Terror libera il board e permette a Stefano di lanciare un Bitterblossom prima e una Razormane Masticore dopo, dimezzando i punti vita dell’avversario.Emanuele tenta di rientrare in gara con una seconda Figure of Destiny, e terminando la masticora con un Incinerate ed un Flame Javelin. Ma per Stefano la partita è in discesa. Nel mantenimento dell’avversario tappa tutte le lande con una Mistbind Clique, e nell’attacco successivo, grazie alla fata tappatrice, ad alcuni token e al potenziamento di uno Scion of Oona, infligge i danni finali che gli permettono di aggiudicarsi il match.
 
 Galatioto 0 – Fiori 2
 
@@ -2834,7 +2848,9 @@ Galatioto 0 – Fiori 2
 
 Il terzo turno iniza tra le risate con i due giocatori che si presentano al tavolo ridendo e scherzando tra di loro. Davide “Bramba” Brambilla di Lecco gioca il mazzo storm monorosso, mentre Norberto Giusti di Bologna l’innovativo Primalclux Aggro (monoverde con Magus of the Vine). Entrambi giocatori sono sul 2-0, ma Giusti ancora non ha perso un game oggi.
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR3-Fiori_Brambilla.jpg)Davide vince il tiro del dado, ma decide di partire con sei carte. Montagna seguita da Lotus Bloom è la partenza di Bramba, che al secondo turno carica un Molten Slagheap col mana del Magus of the Vine che Norberto aveva giocato nel suo turno. Uno shock impedisce al Magus di accellerare per il Bolognese, che sviluppa il suo board con Kitchen Finks e Chameleon Colossus. Il turno in cui il loto entra in gioco non porta alla chiusura della combo, ma al seguente Davide sospende Rift Bolt. Norberto attacca portando il suo avversario a 10 e gioca un altro Chameleon Colossus, pronto a vincere il game al prossimo turno. La mano di Brambilla non gli permette di chiudere al turno seguente, la pescata di turno porta una terra, e Manamorphose un Tarfire, anche se uccidesse un Colosso morirebbe del Treetop Village e la Mutavault di Giusti. E’ il momento di concedere e di passare alla seconda partita.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR3-Fiori_Brambilla.jpg)
+
+Davide vince il tiro del dado, ma decide di partire con sei carte. Montagna seguita da Lotus Bloom è la partenza di Bramba, che al secondo turno carica un Molten Slagheap col mana del Magus of the Vine che Norberto aveva giocato nel suo turno. Uno shock impedisce al Magus di accellerare per il Bolognese, che sviluppa il suo board con Kitchen Finks e Chameleon Colossus. Il turno in cui il loto entra in gioco non porta alla chiusura della combo, ma al seguente Davide sospende Rift Bolt. Norberto attacca portando il suo avversario a 10 e gioca un altro Chameleon Colossus, pronto a vincere il game al prossimo turno. La mano di Brambilla non gli permette di chiudere al turno seguente, la pescata di turno porta una terra, e Manamorphose un Tarfire, anche se uccidesse un Colosso morirebbe del Treetop Village e la Mutavault di Giusti. E’ il momento di concedere e di passare alla seconda partita.
 
 Davide Brambilla 0 - Norberto Giusti 1
 
@@ -2849,7 +2865,9 @@ Davide Brambilla 0 - Norberto Giusti 2
 
     *by Andrea “Pk” Panebianco*
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR4-Marco_Santopadre.jpg)Al 4° turno si affrontano il pisano Marco Santopadre e il padrone di casa riminese Stefano Rampini. Sfida tra un monorosso classico, preponderante in questo nazionale e...un altro monorosso...
+![](http://www.wizards.com/sideboard/images/itnat08/FMR4-Marco_Santopadre.jpg)
+
+Al 4° turno si affrontano il pisano Marco Santopadre e il padrone di casa riminese Stefano Rampini. Sfida tra un monorosso classico, preponderante in questo nazionale e...un altro monorosso...
 
 Besso, dal pubblico: “Ti fanno seguire solo partite difficili a te, eh?”  
  PK “Perché sanno che sennò mi addormento...”
@@ -2869,7 +2887,9 @@ Marco “Ho sperato ne avessi solo un paio...”
  Stefano “No, ero bello carico di botti”  
  PK “Manca solo che arrivino gli ispettori ONU per controllare le armi di distruzione di massa...”
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR4-Santopadre_Rampini.jpg)Il terzo match parte con un doppio mulligan del pisano...
+![](http://www.wizards.com/sideboard/images/itnat08/FMR4-Santopadre_Rampini.jpg)
+
+Il terzo match parte con un doppio mulligan del pisano...
 
 Stefano “Vabbé, mulligan anche per me”  
 PK (rivolto a Marco) “Beh, dai, almeno è sportivo...”
@@ -2887,7 +2907,9 @@ Santopadre 1-2 Rampini
 
 Ultimo incontro di standard della giornata prima dei quattro round di booster draft. A sfidarsi per chiudere a quota 12 punti sono Marco Benifei e Francesco Pini.
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR4-Benifei_Pini.jpg)Marco parte all’arrembaggio con un Mogg Fanatic e una Figure of Destiny, che Francesco fronteggia con un Llanowar Elves e un Talara’s Battallion, terminata da un Incinerate. Marco continua a pressare con una seconda Figure of Destinity ed un Boggart Ram Gang, che muore assieme ad un Treetop Village. Pini prova a fermare le minacce dell’avversario, mettendo blocchi su blocchi, ma non c’è alcun verso che questi rimangano sul tavolo, perché vengono sistematicamente uccisi con precisione da serial killer dagli spari dell’avversario. Pochi attacchi dopo, infatti, Marco si porta sull’1 a 0.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR4-Benifei_Pini.jpg)
+
+Marco parte all’arrembaggio con un Mogg Fanatic e una Figure of Destiny, che Francesco fronteggia con un Llanowar Elves e un Talara’s Battallion, terminata da un Incinerate. Marco continua a pressare con una seconda Figure of Destinity ed un Boggart Ram Gang, che muore assieme ad un Treetop Village. Pini prova a fermare le minacce dell’avversario, mettendo blocchi su blocchi, ma non c’è alcun verso che questi rimangano sul tavolo, perché vengono sistematicamente uccisi con precisione da serial killer dagli spari dell’avversario. Pochi attacchi dopo, infatti, Marco si porta sull’1 a 0.
 
 Parte male Francesco nella seconda partita, che dopo un mulligan a 6 si trova a dover affrontare subito due Figure of Destiny e un Magus of the Moon. Con una sola landa base in gioco diventa tutto piu’difficile quindi è necessario terminare il mago con uno Slaughter Pact e calare un Garruk Wildspeaker, che produce subito una bestia (che al mercato mio padre compro cit.) . Le due figure accompagnano Garruk nel cimitero assieme alla bestia, rimossa da un Puncture Bolt. Quando Marco finisce la benzina e le creature di Pini rimangono in tavola la musica cambia, Grazie anche all’aiuto di Mutavault e Treetop Village, e ad una sapiente serie di Slaughter Pact, l’uno a uno diventà realtà 
 
@@ -2899,7 +2921,9 @@ Benifei 1 – Pini 2
 
     *by Andrea "Pk" Panebianco*
 
-![](http://www.wizards.com/sideboard/images/itnat08/Marco_Camilluzzi.jpg)arco Camilluzzi, l'uomo che fa Top8 ad ogni PTQ finché non si qualifica, è il giocatore da battere al tavolo 3, comprendente anche Davide Brambilla, Marco Bianchi, Dario Parazzoli, Marco Benifei, Gianmaria Ruggiu, Francesco Gazzani e Giovanni Sponza.
+![](http://www.wizards.com/sideboard/images/itnat08/Marco_Camilluzzi.jpg)
+
+arco Camilluzzi, l'uomo che fa Top8 ad ogni PTQ finché non si qualifica, è il giocatore da battere al tavolo 3, comprendente anche Davide Brambilla, Marco Bianchi, Dario Parazzoli, Marco Benifei, Gianmaria Ruggiu, Francesco Gazzani e Giovanni Sponza.
 
 Marco apre subito una busta piuttosto mediocre in cui spicca una bella rara: Wydwen, the Biting Gale, piccata con convinzione dal giocatore romano. Purtroppo il blu latita e il nostro sarà costretto a shiftare su un BR Goblins, venendo però penalizzato da brutte aperture, solo mitigate da buone pick "centrali". 
 
@@ -2944,7 +2968,9 @@ Marco apre subito una busta piuttosto mediocre in cui spicca una bella rara: Wyd
     10.  Kindled Fury
     11.  pick off color
 
-![](http://www.wizards.com/sideboard/images/itnat08/Pod-3.jpg)Marco si dichiara soddisfatto del mazzo, anche se le buste potevano essere più generose come rare e non comuni aperte, pick di solito molto avanzate che danno dei filler, hanno trovaato posto nel maindeck in quanto buone carte per questo mazzo. Messo di fronte alla scelta di switchare sul verde per un Fertile Ground arrivato di terza pick, Marco ha preferito appoggiarsi ai Boggart perché "Goblin è sottodraftato in questo formato e c'erano più possibilità di fare un ottimo mazzo. Sono contento di quello che è satato fuori". Vediamo se i fatti gli daranno ragione in questi quattro turni.
+![](http://www.wizards.com/sideboard/images/itnat08/Pod-3.jpg)
+
+Marco si dichiara soddisfatto del mazzo, anche se le buste potevano essere più generose come rare e non comuni aperte, pick di solito molto avanzate che danno dei filler, hanno trovaato posto nel maindeck in quanto buone carte per questo mazzo. Messo di fronte alla scelta di switchare sul verde per un Fertile Ground arrivato di terza pick, Marco ha preferito appoggiarsi ai Boggart perché "Goblin è sottodraftato in questo formato e c'erano più possibilità di fare un ottimo mazzo. Sono contento di quello che è satato fuori". Vediamo se i fatti gli daranno ragione in questi quattro turni.
 
   
   
@@ -2953,7 +2979,9 @@ Marco apre subito una busta piuttosto mediocre in cui spicca una bella rara: Wyd
 
     *by Andrea ‘Vitello’ Vitali*
 
-![](http://www.wizards.com/sideboard/images/itnat08/draft-fiori.jpg)Il pacchetto di Lorwyn di Stefano presenta due carte interessanti Pestermite e Final Revels. La Fatina la spunta. Nel secondo non c'è esitazione nel prendere un Silvergill Douser. Come terzo pick Glen Endra Pranksters su Spellslutter Sprite. Poi il blu finisce e allora si deve cambiar colore. Il quarto pacchetto non contiene molto di entusiasmante a parte una Vivid Marsh. Ma il quinto offre una soluzione nel rosso con un Changeling Berserk. Finalmente una rimozione nella forma di Weed Strangle, a cui seguono Familiar's Rouse, Giant Harbringer, Crash Underfoot e fuffa varia.
+![](http://www.wizards.com/sideboard/images/itnat08/draft-fiori.jpg)
+
+Il pacchetto di Lorwyn di Stefano presenta due carte interessanti Pestermite e Final Revels. La Fatina la spunta. Nel secondo non c'è esitazione nel prendere un Silvergill Douser. Come terzo pick Glen Endra Pranksters su Spellslutter Sprite. Poi il blu finisce e allora si deve cambiar colore. Il quarto pacchetto non contiene molto di entusiasmante a parte una Vivid Marsh. Ma il quinto offre una soluzione nel rosso con un Changeling Berserk. Finalmente una rimozione nella forma di Weed Strangle, a cui seguono Familiar's Rouse, Giant Harbringer, Crash Underfoot e fuffa varia.
 
 Punitivo il secondo pacchetto dove Stefano deve prendere uno Spectral Changeling come prima scelta. Fortuanatamente il secondo pacchetto gli riserva una Worth, Boggart Auntie Dura decisione nel terzo pacchetto tra Peppersmoke e Pestermite. Alla fine la rimozione va nel pool di carte su cui creare il mazzo. Boggart Harbringer, Boggart Mob e Consuming Bonefire. Sono gli ultimi pick degni di nota, assieme a qualche altro goblin o gigante che sicuramente mi è sfuggito!!!
 
@@ -2968,7 +2996,9 @@ Alla fine del draft Fiori è soddisfatto per quello che è riuscito a costruire.
 
     *by Bruno Panara*
 
-![](http://www.wizards.com/sideboard/images/itnat08/draft-nesi-1.jpg)Seguiamo il draft di Eugenio Nesi, giocatore milanese che ha chiuso imbattuto la frazione standard della giornata.
+![](http://www.wizards.com/sideboard/images/itnat08/draft-nesi-1.jpg)
+
+Seguiamo il draft di Eugenio Nesi, giocatore milanese che ha chiuso imbattuto la frazione standard della giornata.
 
 Pack 1 - Llorwyn
 
@@ -3018,7 +3048,9 @@ Pack 3 - Morningtide
 11.  Festercreep (Negate, Bosk Banneret)
 12.  Warren Weirding (Research the Deep)
 
-![](http://www.wizards.com/sideboard/images/itnat08/draft-nesi-2.jpg)Alla fine del deckbuilding Eugenio non è soddisfatto: "Posso vincere solo con Sygg. Il draft era partito bene, poi quando ho visto Sygg sesto pick e dopo ancora Douser ero contento, bianco blu tritoni è la mia combinazione preferita in questo formato. Purtroppo poi sarà successo qualcosa dall'altra parte del tavolo e le carte non sono più arrivate. Il mio mazzo è mediocre, spero di riuscire a farci almeno 2-1-1".
+![](http://www.wizards.com/sideboard/images/itnat08/draft-nesi-2.jpg)
+
+Alla fine del deckbuilding Eugenio non è soddisfatto: "Posso vincere solo con Sygg. Il draft era partito bene, poi quando ho visto Sygg sesto pick e dopo ancora Douser ero contento, bianco blu tritoni è la mia combinazione preferita in questo formato. Purtroppo poi sarà successo qualcosa dall'altra parte del tavolo e le carte non sono più arrivate. Il mio mazzo è mediocre, spero di riuscire a farci almeno 2-1-1".
 
   
   
@@ -3027,13 +3059,17 @@ Pack 3 - Morningtide
 
     *by Andrea ‘ Vitello’ Vitali*
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR5-Neri_Giusti-1.jpg)Sfida interessante quella tra Norberto Giusti, noto giocatore di lungo corso, e Riccardo Neri, emergente anche nel panorama internazionale.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR5-Neri_Giusti-1.jpg)
+
+Sfida interessante quella tra Norberto Giusti, noto giocatore di lungo corso, e Riccardo Neri, emergente anche nel panorama internazionale.
 
 Silvergill Banneret di secondo e Waterspout Weavers grazie ad un Springleaf Drum. Queste le giocate di Giusti nella prima partita oltre ad una Changeling Sentinel. Poi Norberto a parte, un Peppersmoke, smette di giocare, andando in un flood di mana disastroso. Riccardo si libera della preoccupazione del tritone “forse volo” con un Eyeblight Ending., ed inizia a picchiare l’avversario con le sue creature. Dopo un 5+3 e l’ennesima pescata di landa, Norberto concede.
 
   
   
-![](http://www.wizards.com/sideboard/images/itnat08/FMR5-Neri_Giusti-2.jpg)Woodland Changeling e Battle Wandoak.per Riccardo. Stonybroke Banneret per Norberto. Inizio lento quello della terza partita. Quando Norberto prova a rompere gli equilibri con un gigante Spaccapietre, Riccardo lo spedisce nel cimitero con un Eyeblight Ending. Sara’ l’ultima giocata di Giusti, che per la seconda partita consecutiva è costretto ad arrendersi al mazzo, che lo beffa fornendogli solo terre, senza dargli la possibilita’ di difendersi dalle creature di Riccardo
+![](http://www.wizards.com/sideboard/images/itnat08/FMR5-Neri_Giusti-2.jpg)
+
+Woodland Changeling e Battle Wandoak.per Riccardo. Stonybroke Banneret per Norberto. Inizio lento quello della terza partita. Quando Norberto prova a rompere gli equilibri con un gigante Spaccapietre, Riccardo lo spedisce nel cimitero con un Eyeblight Ending. Sara’ l’ultima giocata di Giusti, che per la seconda partita consecutiva è costretto ad arrendersi al mazzo, che lo beffa fornendogli solo terre, senza dargli la possibilita’ di difendersi dalle creature di Riccardo
 
 Neri 2 – Giusti 0
 
@@ -3044,7 +3080,9 @@ Neri 2 – Giusti 0
 
     *by Bruno Panara*
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR5-Nesi_Messina-1.jpg)Al primo turno del draft giocano contro Eugenio Nesi di Milano e Giuseppe Messina di vicino Roma, entrambi sul 4-0, imbattuti in costruito. Inizia la prova per vedere se uno dei due sarà imbattuto a fine giornata. Il tiro del dado ha un risultato alquanto netto, 1 per Messina, mentre Eugenio con 20 decide di iniziare.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR5-Nesi_Messina-1.jpg)
+
+Al primo turno del draft giocano contro Eugenio Nesi di Milano e Giuseppe Messina di vicino Roma, entrambi sul 4-0, imbattuti in costruito. Inizia la prova per vedere se uno dei due sarà imbattuto a fine giornata. Il tiro del dado ha un risultato alquanto netto, 1 per Messina, mentre Eugenio con 20 decide di iniziare.
 
 Nesi parte aggressivo con la sua bomba, Sygg, River Guide, che purtroppo non dura a lungo e viene eliminato con un Lash Out. Giuseppe vince il clash rivelando Sensation Gorger, ma al suo turno gioca Frogtosser Banneres e poi Caterwauling Boggart. Dall'altra parte del campo scendono Changeling Sentinel e poi Inkfathom Divers, mentre Messina continua a consolidare la sua armata con Fire-Belly Changeling e Mudbutton Torcher.  
  Si scambiano un paio di attacchi e mentre Giuseppe evoca Stinkdrinker Bandit, Eugenio riesce a consolidare la sua posizione con Silvergill Douser e Dewdrop Spy. La situazione non regge per molto: dal mazzo del romano arriva Fodder Launch, e Nesi concede.
@@ -3060,17 +3098,23 @@ Eugenio Nesi 0 - Giuseppe Messina 2
 
     *by Andrea "Pk" Panebianco*
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR6-Lippi_Rampini.jpg)Altro feature match per Stefano Rampini, stavolta col massese Alessandro Lippi, Stefano vince il tiro di dado e decide di iniziare. Subito però un mulligan per il giocatore di casa che si inchioda subito a due terre, mentre il Judge of Corrents di Alessandro comincia a rosicchiare punti vita, seguito da Stonybrook Schoolmaster e Veteran of the Depths. Quinto turno e ancora niente terre per Stefano che decide di accorciare l'agonia di un match in salita ripida e ammucchia dopo meno di tre minuti.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR6-Lippi_Rampini.jpg)
+
+Altro feature match per Stefano Rampini, stavolta col massese Alessandro Lippi, Stefano vince il tiro di dado e decide di iniziare. Subito però un mulligan per il giocatore di casa che si inchioda subito a due terre, mentre il Judge of Corrents di Alessandro comincia a rosicchiare punti vita, seguito da Stonybrook Schoolmaster e Veteran of the Depths. Quinto turno e ancora niente terre per Stefano che decide di accorciare l'agonia di un match in salita ripida e ammucchia dopo meno di tre minuti.
 
 Rampini 0-1 Lippi
 
   
   
-![](http://www.wizards.com/sideboard/images/itnat08/FMR6-Stefano_Rampini.jpg)Stavolta Stefano parte con le terre e mette di terzo un Stinkdrinker Daredevil, seguito da War-Spike Changeling, alla quale Alessandro risponde con Guaritore Kithkin e Streambed Aquitects. Crescono però le fila del riminese, che mette giù Paperfin Rascal, Adder-Staff Boggrt e Mulldrifter in rapida sequenza, mentre Alessandro si difende con le unghie, i denti ed un Coordinated Barrage che frigge il changeling rosso dell'avversario: il blocco successivo a due del Kithkin e di un token di Summon the School viene nullificato dall'uso di Wings of Velis-Vel e per Alessandro la partita si mette in salita.La situazione si stalla leggermente quando una Ethereal Whiskergill vuol mettere un freno al beatdown del pesce volante di Stefano, ma così non è: nonostante Alessandro dica di temere qualche scherzetto, non si fida a bloccare e scende a 8 punti vita, menando a sua volta col 4/3 cercando di rientrare in damage race. L'asso nella manica di Stefano si rivela essere la produzione di mana di Soulbright Flamekin che gli permette di mettere in gioco Fallowsage e di sparare con Consuming bonfire portando a 4 Alessandro col successivo attacco. Topdeckata magistrale del massese che gioca Final Revels e pulisce il tavolo, cercando di vincere con la Branchia nei successivi tre turni; ma un tritone 3/3 diventa 4/4 con la Wings of Velis-Vel che appare nelle mani del riminese e porta il match in parità.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR6-Stefano_Rampini.jpg)
+
+Stavolta Stefano parte con le terre e mette di terzo un Stinkdrinker Daredevil, seguito da War-Spike Changeling, alla quale Alessandro risponde con Guaritore Kithkin e Streambed Aquitects. Crescono però le fila del riminese, che mette giù Paperfin Rascal, Adder-Staff Boggrt e Mulldrifter in rapida sequenza, mentre Alessandro si difende con le unghie, i denti ed un Coordinated Barrage che frigge il changeling rosso dell'avversario: il blocco successivo a due del Kithkin e di un token di Summon the School viene nullificato dall'uso di Wings of Velis-Vel e per Alessandro la partita si mette in salita.La situazione si stalla leggermente quando una Ethereal Whiskergill vuol mettere un freno al beatdown del pesce volante di Stefano, ma così non è: nonostante Alessandro dica di temere qualche scherzetto, non si fida a bloccare e scende a 8 punti vita, menando a sua volta col 4/3 cercando di rientrare in damage race. L'asso nella manica di Stefano si rivela essere la produzione di mana di Soulbright Flamekin che gli permette di mettere in gioco Fallowsage e di sparare con Consuming bonfire portando a 4 Alessandro col successivo attacco. Topdeckata magistrale del massese che gioca Final Revels e pulisce il tavolo, cercando di vincere con la Branchia nei successivi tre turni; ma un tritone 3/3 diventa 4/4 con la Wings of Velis-Vel che appare nelle mani del riminese e porta il match in parità.
 
 Rampini 1-1 Lippi
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR6-Alessandro_Lippi.jpg)Subito drop a due per Alessandro con un Judge of Corrents, seguito da Stonybrook Schoolmaster e da Steambed Aquitects e per Stefano c'è subito da inseguire: War-Spike Changeling e Blind-Spot Giant mettono i paletti in difesa, ma Alessandro casta summon the School e attacca senza pietà. Mulldrifter della vita per Stefano ma la combo dei tritoni si mette in moto, regalando 4 punti vita ad Alessandro mentre la forte sorcery bianca torna tra le sue manone, rendendo veramente indispensabile l'arrivo di Thundercloud Shaman, e un Inkfathom Divers viene giocato per rivelarlo nelle successive 4 carte e poter resettare il board del massese...niente da fare perchè tutto quello che il riminese può fare è cercare di ribaltare la damage race con le sue creature più grosse, e sparando sugli Aquitetti con Rivals' Duel immolando il gigante cieco. Arrivano i token tritone a schiaffeggiare Stefano che scende a 4 in serio pericolo di vita, ed allora la decisione è quella di non offendere ma di calare un altro gigante 4/3 e uno Stonybrook Banneret per tentare di temporeggiare e trovare magari un varco nelle difese avversarie, ma Summon the School è un vero disastro quando si mette in moto e i token diventano i breve tempo troppi per poterli bloccare tutti. Finisce quindi con la vittoria di Lippi e di una mano iniziale veramente sgravata.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR6-Alessandro_Lippi.jpg)
+
+Subito drop a due per Alessandro con un Judge of Corrents, seguito da Stonybrook Schoolmaster e da Steambed Aquitects e per Stefano c'è subito da inseguire: War-Spike Changeling e Blind-Spot Giant mettono i paletti in difesa, ma Alessandro casta summon the School e attacca senza pietà. Mulldrifter della vita per Stefano ma la combo dei tritoni si mette in moto, regalando 4 punti vita ad Alessandro mentre la forte sorcery bianca torna tra le sue manone, rendendo veramente indispensabile l'arrivo di Thundercloud Shaman, e un Inkfathom Divers viene giocato per rivelarlo nelle successive 4 carte e poter resettare il board del massese...niente da fare perchè tutto quello che il riminese può fare è cercare di ribaltare la damage race con le sue creature più grosse, e sparando sugli Aquitetti con Rivals' Duel immolando il gigante cieco. Arrivano i token tritone a schiaffeggiare Stefano che scende a 4 in serio pericolo di vita, ed allora la decisione è quella di non offendere ma di calare un altro gigante 4/3 e uno Stonybrook Banneret per tentare di temporeggiare e trovare magari un varco nelle difese avversarie, ma Summon the School è un vero disastro quando si mette in moto e i token diventano i breve tempo troppi per poterli bloccare tutti. Finisce quindi con la vittoria di Lippi e di una mano iniziale veramente sgravata.
 
 Rampini 1-2 Lippi
 
@@ -3117,7 +3161,9 @@ Nel settimo round si sfidano due "vicini" di casa: Paolo Vizzari from Biella con
 
 Marco "Aha! Hai preso Buffon...quello che para tutto..." si gira verso di me e "Scrivi: sono ufficialmente morto..."
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR7-Castellano-vs-Vizzari.jpg)L'orda di Kithkin si rivela praticamente inarrestabile, Sdegno del Branco abbatte un Changeling Hero di Marco e spiana la strada ad un attacco senza quartiere che si risolve sì, con la morte del 5/5 (stoppato con un 1/1 pompato da Swell of Courage), ma con la discesa a 3 punti vita di Marco che pesca e concede.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR7-Castellano-vs-Vizzari.jpg)
+
+L'orda di Kithkin si rivela praticamente inarrestabile, Sdegno del Branco abbatte un Changeling Hero di Marco e spiana la strada ad un attacco senza quartiere che si risolve sì, con la morte del 5/5 (stoppato con un 1/1 pompato da Swell of Courage), ma con la discesa a 3 punti vita di Marco che pesca e concede.
 
 Vizzari 1-0 Castellano
 
@@ -3135,7 +3181,9 @@ Vizzari 2-0 Castellano
 Marco Cammilluzzi si presenta col suo rosso-nero goblin per sfidare il vecchio giocatore milanese Dario "Sbiru" Parazzoli (3 volte top8 ai Nazionali, e quasi venti qualificazioni ai Pro Tour). I giocatori si prendono in giro, dicendosi stanchi alla fine di questa lunga giornata e offrendosi l'un l'altro la patta intezionale.  
  Alla fine si comincia a giocare con Dario che vince il tiro del dado.
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR8-cammilluzzi_parazzoli.jpg)Sbiru mostra immediatamente i suoi colori, calando pianura, isola e Judge of Currents, dopo un paio di turni arrivano anche Sentinels of Glen Elendra e Paperfin Rascal, che clashando rivela un utile Mulldrifter, che aiuterà il suo controllore a trovare il secondo mana blu di cui necessita. Nel frattempo però anche Marco cala le sue creature: Goatnapper, Caterwauling Boggart e uno Stenchskipper. Il primo attacco dell'elementale viene sminuito da uno Stream of Unconsciousness, ma il secondo Judge of Currents non ha per Dario lo stesso impatto sul board dello Spitebellows del suo avversario. Finalmente arriva il Mulldrifter, che porta con se l'isola, ma pur avendo meno vite del milanese (9 a 14), Marco decide di attaccare con i suoi elementali. Lo Spitebellows si porta via tutte le creature blu dell'avversario, lasciandolo con due Judge of Currents a Fronteggiare i Goblin e lo Stenchskipper, a cui si unisce anche un Tar Pitcher.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR8-cammilluzzi_parazzoli.jpg)
+
+Sbiru mostra immediatamente i suoi colori, calando pianura, isola e Judge of Currents, dopo un paio di turni arrivano anche Sentinels of Glen Elendra e Paperfin Rascal, che clashando rivela un utile Mulldrifter, che aiuterà il suo controllore a trovare il secondo mana blu di cui necessita. Nel frattempo però anche Marco cala le sue creature: Goatnapper, Caterwauling Boggart e uno Stenchskipper. Il primo attacco dell'elementale viene sminuito da uno Stream of Unconsciousness, ma il secondo Judge of Currents non ha per Dario lo stesso impatto sul board dello Spitebellows del suo avversario. Finalmente arriva il Mulldrifter, che porta con se l'isola, ma pur avendo meno vite del milanese (9 a 14), Marco decide di attaccare con i suoi elementali. Lo Spitebellows si porta via tutte le creature blu dell'avversario, lasciandolo con due Judge of Currents a Fronteggiare i Goblin e lo Stenchskipper, a cui si unisce anche un Tar Pitcher.
 
 Peppersmoke uccide uno dei tritoni a fine turno, ma quando Marco vuole attaccare col suo volante un Whirpool Whelm lo rimanda in cima al mazzo. Al turno successivo arriva un Mudbutton Torchrunner, che in combinazione con il Tar Pitcher fa piazza pulita delle creature del suo avversario, che concede per andare a cercare soluzioni nella sua side.
 
@@ -3157,7 +3205,9 @@ Il pescarese Armando Puoti gioca per il perfect in questa prima giornata dei Naz
 
 Puoti 0-1 Nesi
 
-![](http://www.wizards.com/sideboard/images/itnat08/FMR8-Puoti_Nesi.jpg)Il primo a giocare qualcosa nel secondo match è Eugenio con un Pescatore di Riopietroso messo giù di secondo turno, al quale Armando risponde con una Moonglove Extract e War-Spike Changeling nei successivi due turni. Eugenio prende la via dell'offesa aerea con Dewdrop Spy e Mulldrifter, per le quali il pescarese si cautela con un fastidiosissimo Cloudcrown Oak che promette battaglia contraerea. Però l'albero viene tappato e se la "molotov" abbatte la Spia, il Mulldrifter giunge tranquillamente a fare i suoi due danni, coperto da Pestermite che il turno dopo controlla il Changeling intraprendente. I mille trucchi del mazzo di Eugenio sembrano metterlo in vantaggio netto, mentre i suoi due volanti portano i punti vita di Armando a 11. Il pescarese non ci sta a perdere senza lottare: un Oblivion Ring mette la museruola all'unico blocco e dopo l'entrata del Rage Forger, c'è un attacco da otto danni che porta a 6 il milanese ora messo alle strette e costretto ad evocare Fencer Clique e difendersi. La situazione sembra ribaltarsi ed il Lys Alana Bowmaster scende in campo e minaccia di fare danni irreparabili in caso di nuove pescate di arcieri da parte di Armando. Gli arcieri non si vedono e una Changeling Sentinel ha buon gioco a tenere i difesa: Armando è costretto ad attaccare con una creatura sola (il cangiante che può prendere First strike) per evitare di perdere il vantaggio accumulato, mentre le sue armate crescono piano piano. Alla festa si unisce anche un Ambassador Oak. Troppe creature perché si possa resistere: Eugenio concede e si va alla terza.
+![](http://www.wizards.com/sideboard/images/itnat08/FMR8-Puoti_Nesi.jpg)
+
+Il primo a giocare qualcosa nel secondo match è Eugenio con un Pescatore di Riopietroso messo giù di secondo turno, al quale Armando risponde con una Moonglove Extract e War-Spike Changeling nei successivi due turni. Eugenio prende la via dell'offesa aerea con Dewdrop Spy e Mulldrifter, per le quali il pescarese si cautela con un fastidiosissimo Cloudcrown Oak che promette battaglia contraerea. Però l'albero viene tappato e se la "molotov" abbatte la Spia, il Mulldrifter giunge tranquillamente a fare i suoi due danni, coperto da Pestermite che il turno dopo controlla il Changeling intraprendente. I mille trucchi del mazzo di Eugenio sembrano metterlo in vantaggio netto, mentre i suoi due volanti portano i punti vita di Armando a 11. Il pescarese non ci sta a perdere senza lottare: un Oblivion Ring mette la museruola all'unico blocco e dopo l'entrata del Rage Forger, c'è un attacco da otto danni che porta a 6 il milanese ora messo alle strette e costretto ad evocare Fencer Clique e difendersi. La situazione sembra ribaltarsi ed il Lys Alana Bowmaster scende in campo e minaccia di fare danni irreparabili in caso di nuove pescate di arcieri da parte di Armando. Gli arcieri non si vedono e una Changeling Sentinel ha buon gioco a tenere i difesa: Armando è costretto ad attaccare con una creatura sola (il cangiante che può prendere First strike) per evitare di perdere il vantaggio accumulato, mentre le sue armate crescono piano piano. Alla festa si unisce anche un Ambassador Oak. Troppe creature perché si possa resistere: Eugenio concede e si va alla terza.
 
 Puoti 1-1 Nesi
 

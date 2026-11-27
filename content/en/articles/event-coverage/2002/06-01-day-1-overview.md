@@ -56,7 +56,9 @@ In the end, it was all about one card: Psychatog. Given the strength of blue in 
 
 ### A Legend Reborn?
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat02/959.jpg)While Psychatog was tearing up the field, most eyes were turned to the feature match table, where two legends of the Japanese Magic world were facing off in an [Opposition](https://web.archive.org/web/20020601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Opposition) mirror match.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat02/959.jpg)
+
+While Psychatog was tearing up the field, most eyes were turned to the feature match table, where two legends of the Japanese Magic world were facing off in an [Opposition](https://web.archive.org/web/20020601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Opposition) mirror match.
 
 The last round of the day saw "The Champ" Toshiki Tsukamoto paired up with two-time APAC Champion Masaya Mori. Both had been absent from the tournament scene for at least a year; Tsukamoto ground into Nationals on Thursday, and Mori came out of retirement just two weeks ago to play in Grand Prix Nagoya. Both were at 3-2, and looking for a win to put themselves into a position to reach for Top 8.
 

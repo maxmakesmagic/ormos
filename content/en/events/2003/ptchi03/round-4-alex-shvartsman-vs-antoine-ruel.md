@@ -130,7 +130,9 @@ render_recovery:
   - Wellwisher
   occurrences: 108
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a922.jpg)Things are going well for France's Antoine Ruel. In addition to drafting a beast of a deck that's helped him to his 3-0 record, he's also played all the players at 2-1. That means that in the fourth round he's drawn the 1-2 Alex Shvartsman. It looks bad for the King of the Asian Grand Prix. Ruel's deck is a bomb-tastic blue-red, while Shvartsmans is black-green, heavy on the removal.
+![](http://www.wizards.com/sideboard/images/ptchi03/a922.jpg)
+
+Things are going well for France's Antoine Ruel. In addition to drafting a beast of a deck that's helped him to his 3-0 record, he's also played all the players at 2-1. That means that in the fourth round he's drawn the 1-2 Alex Shvartsman. It looks bad for the King of the Asian Grand Prix. Ruel's deck is a bomb-tastic blue-red, while Shvartsmans is black-green, heavy on the removal.
 
 ### Game 1
 
@@ -144,7 +146,9 @@ So let's take a look at this. Ruel with Roost on the board, at a high life total
 
 Shvartsman wasn't out of fight. His Feaster at the dead Wall, then his team smashed in. Ruel made a dragon, but Shvartsman was ready with Cruel Revival, getting back his Courier. Ruel tried the same gambit again on the next assault, blocking the regenerating Anurid. Feeding Frenzy finished off the token, and now the Courier was getting ready to provide fear. Again Ruel waited. Shvartsman feared up his Anurid and brought Ruel to five. Ruel made a dragon and untapped, considering his options. He Cloned Wretched Anurid, and then played a face-down creature.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a921.jpg)Shvartsman tried Swat, but Ruel had enough mana left to turn over his Battering Craghorn. He untapped his Courier and sent the Anurid in solo. The Craghorn blocked and forced the Courier to suit up the Anurid to punch through. Another creature brought things treacherously low.
+![](http://www.wizards.com/sideboard/images/ptchi03/a921.jpg)
+
+Shvartsman tried Swat, but Ruel had enough mana left to turn over his Battering Craghorn. He untapped his Courier and sent the Anurid in solo. The Craghorn blocked and forced the Courier to suit up the Anurid to punch through. Another creature brought things treacherously low.
 
 "It's all about your topdeck." – Alex Shvartsman
 
@@ -156,7 +160,9 @@ Ruel 1 – Shvartsman 0
 
 Shvartsman got on the board early with Entrails Feaster, but it was no threat. Ruel tried a facedown, but it was Swatted out of the way, letting the Feaster punch through for two. Another facedown from Ruel was safe. Shvartsman had four swamps in front of him and nothing to do. He passed his next turn without doing anything.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a920.jpg)Ruel pressed his advantage with Menacing Ogre. Shvartsman, holding Cruel Revival, bid a measly two compared to Ruel's six. He knocked his deck. It served up another dud. His hand of two Feeding Frenzy, Frightshroud Courier, Crown of Suspicion, Cruel Revival and Aphetto Dredging wasn't getting the job done. There was little he could do to stand in the way, particularly after Ruel showed him Choking Tethers.
+![](http://www.wizards.com/sideboard/images/ptchi03/a920.jpg)
+
+Ruel pressed his advantage with Menacing Ogre. Shvartsman, holding Cruel Revival, bid a measly two compared to Ruel's six. He knocked his deck. It served up another dud. His hand of two Feeding Frenzy, Frightshroud Courier, Crown of Suspicion, Cruel Revival and Aphetto Dredging wasn't getting the job done. There was little he could do to stand in the way, particularly after Ruel showed him Choking Tethers.
 
 **Final Result:** Antoine Ruel defeats Alex Shvartsman 2-0 
 

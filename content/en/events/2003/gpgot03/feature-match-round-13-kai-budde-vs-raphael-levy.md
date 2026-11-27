@@ -99,7 +99,9 @@ Budde could not seem to do anything other than make land for his next turn, whis
 
 Levy played his Sun Droplet whilst on still twenty life and used his Icy to out Icy Kai so that his Condor could attack. Kai found a Moriok Scavenger which dug up an Alpha Myr, bringing his offense online. The following turn, Betrayal of Flesh took out Levy’s freshly played Needlebug and the German’s men swung in, inhibited by Levy’s Icy.
 
-![](https://i.ormos.uk/63/b7/63b73c8652e72cc3b536d28db32ffb5931f3bfcc4910fbf2ae6b76e4180497cb.jpg)Kai found a Serum Tank that gave him a Mirror Golem that got Arrested. A Shatter took out the pesky Sun Droplet. Levy’s deck had given him a Soldier Replica, another Alpha Myr, a Neurok Hoversail and an Iron Myr, but it was by no means enough. Budde found a Nim Devourer which traded a turn later with Raphael’s Alpha Myr. 
+![](https://i.ormos.uk/63/b7/63b73c8652e72cc3b536d28db32ffb5931f3bfcc4910fbf2ae6b76e4180497cb.jpg)
+
+Kai found a Serum Tank that gave him a Mirror Golem that got Arrested. A Shatter took out the pesky Sun Droplet. Levy’s deck had given him a Soldier Replica, another Alpha Myr, a Neurok Hoversail and an Iron Myr, but it was by no means enough. Budde found a Nim Devourer which traded a turn later with Raphael’s Alpha Myr. 
 
 Kai sacrificed his Arrested Golem in his upkeep to return the Devourer. He drew and made a Nim Replica and an Iron Myr. Levy’s deck continued churning up sub-par creatures but Kai had drawn a Grab the Reins, which sealed the Frenchman’s fate.
 
@@ -115,7 +117,9 @@ Kai swept the board clean with a savage Barter in Blood. Levy was not done yet, 
 
 Levy made a Soldier Replica, Kai answered with a Nim Devourer. After a Consume Spirit fizzled thanks to a Razor Barrier, Levy asked Kai to play with his hand face up. So Kai did. He had Detonate, Terror, Shrapnel Blast, Bolt, and two land. After all of Raph’s men had hit the dust, Kai finally drew a creature – Mirror Golem.
 
-![](https://i.ormos.uk/b3/e3/b3e327a4bced9942d9fc53c8425479d8b7591f09209290708973d4fd02a319c1.jpg)Levy decided that he was so far behind he too would play the ‘hand face up’ game. He flipped his draw onto the table. It was a Soul Nova. Laughter erupted from around the feature match area – such timing!
+![](https://i.ormos.uk/b3/e3/b3e327a4bced9942d9fc53c8425479d8b7591f09209290708973d4fd02a319c1.jpg)
+
+Levy decided that he was so far behind he too would play the ‘hand face up’ game. He flipped his draw onto the table. It was a Soul Nova. Laughter erupted from around the feature match area – such timing!
 
 Levy ‘Nova’ed the Golem but it was Shrapnel Blasted away so as not to be removed from the game so that Kai’s face up Moriok Scavenger could bring it back. It came back. At this point Raph’s only permanent was a Hoversail. Levy drew his Sculpting Steel, looked around and, in jest, copied the Hoversail!
 

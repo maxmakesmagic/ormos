@@ -181,7 +181,9 @@ render_recovery:
   - Wirewood Elf
   occurrences: 217
 ---
-![](http://www.wizards.com/sideboard/images/gpla02/962.jpg)Largely regarded as the current best drafter in the U.S., “J.T. Money” Neil Reeves didn’t seem exactly optimistic about his chances against Psychatog deck innovator Noah Weil. “Don’t embarrass me too much”, pleaded Neil in a southern twang. 
+![](http://www.wizards.com/sideboard/images/gpla02/962.jpg)
+
+Largely regarded as the current best drafter in the U.S., “J.T. Money” Neil Reeves didn’t seem exactly optimistic about his chances against Psychatog deck innovator Noah Weil. “Don’t embarrass me too much”, pleaded Neil in a southern twang. 
 
 “Did you say play or draw?”, asked Neil. “Play”, responded Weil. “My last round opponent made me play play first. I was happy about that. I won on the fifth turn because of that. Kill ya!”
 
@@ -213,7 +215,9 @@ Alex seemed content with his current deck configuration, shuffling up in anticip
 
 ### Game two:
 
-![](http://www.wizards.com/sideboard/images/gpla02/961.jpg)Rubin started the game by playing a tapped Forgotten Cave, and let his sideboarding be known with a third turn play of Forest/morph creature. Alex, by contrast, went on full defense with a combination of turn two Battlefield Medic, turn three Daru Healer. Rubin’s hand contained Centaur Glade (which would likely be a win given the pace of the last game), but lacked a second Forest to cast the enchantment. Instead he settled for a Wellwisher.
+![](http://www.wizards.com/sideboard/images/gpla02/961.jpg)
+
+Rubin started the game by playing a tapped Forgotten Cave, and let his sideboarding be known with a third turn play of Forest/morph creature. Alex, by contrast, went on full defense with a combination of turn two Battlefield Medic, turn three Daru Healer. Rubin’s hand contained Centaur Glade (which would likely be a win given the pace of the last game), but lacked a second Forest to cast the enchantment. Instead he settled for a Wellwisher.
 
 Alex played a Gustcloak Skirmisher on the following turn, and what would come off the top of Rubin’s deck but Forest number two, allowing him to drop down the Glade. Alex didn’t seem to happy at this turn of events, playing Daunting Defender on his own turn.
 

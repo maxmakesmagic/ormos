@@ -231,33 +231,57 @@ So close. So very, very close. The next morning I posted the following tweet on 
 
 Here are some responses I got: (with their actual Twitter names—hey, the pitfalls of posting to a public forum)
 
-> ![](https://i.ormos.uk/fa/4f/fa4f4c989182d05b73b40abaaa72d5adbe0723227cb036f216f511aa8a636c61.jpg)[ObsidianDice](http://twitter.com/ObsidianDice) @[maro254](http://twitter.com/maro254) Yes - I've read every article on [Making **Magic**](https://web.archive.org/web/20140409181359/https://www.wizards.com/Magic/Magazine/Archive.aspx?tag=makingmagic&description=Making%20Magic), [Latest Developments](https://web.archive.org/web/20130511013048/https://www.wizards.com/Magic/Magazine/Archive.aspx?tag=Latest%20Developments&description=Latest%20Developments), and [Serious Fun](https://web.archive.org/web/20130511015126/https://www.wizards.com/Magic/Magazine/Archive.aspx?tag=Serious%20Fun&description=Serious%20Fun).
+> ![](https://i.ormos.uk/fa/4f/fa4f4c989182d05b73b40abaaa72d5adbe0723227cb036f216f511aa8a636c61.jpg)
+>
+> [ObsidianDice](http://twitter.com/ObsidianDice) @[maro254](http://twitter.com/maro254) Yes - I've read every article on [Making **Magic**](https://web.archive.org/web/20140409181359/https://www.wizards.com/Magic/Magazine/Archive.aspx?tag=makingmagic&description=Making%20Magic), [Latest Developments](https://web.archive.org/web/20130511013048/https://www.wizards.com/Magic/Magazine/Archive.aspx?tag=Latest%20Developments&description=Latest%20Developments), and [Serious Fun](https://web.archive.org/web/20130511015126/https://www.wizards.com/Magic/Magazine/Archive.aspx?tag=Serious%20Fun&description=Serious%20Fun).
 
-> ![](https://i.ormos.uk/1f/06/1f069261c75592f3c5f55e1f471b487c4532cf310f6fba1299f1d1782206c9cc.jpg)[troacctid](http://twitter.com/troacctid) @[maro254](http://twitter.com/maro254) I went on an archive binge years ago and read all your articles. So I def'ly read it. Forgot about it though, which is appropriate.
+> ![](https://i.ormos.uk/1f/06/1f069261c75592f3c5f55e1f471b487c4532cf310f6fba1299f1d1782206c9cc.jpg)
+>
+> [troacctid](http://twitter.com/troacctid) @[maro254](http://twitter.com/maro254) I went on an archive binge years ago and read all your articles. So I def'ly read it. Forgot about it though, which is appropriate.
 
-> ![](https://i.ormos.uk/18/95/18953cd474b2a5494ac657e87ffc67bd44a38fe71fb5758feb16ea9f436d73c5.jpg)[heinisms](http://twitter.com/heinisms) @[maro254](http://twitter.com/maro254) I've read all your articless! even though i started in 2005, i went back and read your whole column
+> ![](https://i.ormos.uk/18/95/18953cd474b2a5494ac657e87ffc67bd44a38fe71fb5758feb16ea9f436d73c5.jpg)
+>
+> [heinisms](http://twitter.com/heinisms) @[maro254](http://twitter.com/maro254) I've read all your articless! even though i started in 2005, i went back and read your whole column
 
-> ![](https://i.ormos.uk/42/24/4224fcaf4b1c1fc5bf8434124114b77ef6b40cca804bae40055d644349b0a3e8.jpg)[EliShffrn](http://twitter.com/EliShffrn) @[maro254](http://twitter.com/maro254) yup, I've been reading the articles since they started!
+> ![](https://i.ormos.uk/42/24/4224fcaf4b1c1fc5bf8434124114b77ef6b40cca804bae40055d644349b0a3e8.jpg)
+>
+> [EliShffrn](http://twitter.com/EliShffrn) @[maro254](http://twitter.com/maro254) yup, I've been reading the articles since they started!
 
-> ![](https://i.ormos.uk/fe/ad/fead852a33260208792f690836162b15ae4241a945f3e89f0326839ac8858e02.jpg)[mtgcolorpie](http://twitter.com/mtgcolorpie) @[maro254](http://twitter.com/maro254) Yes. I've memorized all your work. #[NoIHavent](http://twitter.com/search?q=%23NoIHavent) But, yes I have read it before.
+> ![](https://i.ormos.uk/fe/ad/fead852a33260208792f690836162b15ae4241a945f3e89f0326839ac8858e02.jpg)
+>
+> [mtgcolorpie](http://twitter.com/mtgcolorpie) @[maro254](http://twitter.com/maro254) Yes. I've memorized all your work. #[NoIHavent](http://twitter.com/search?q=%23NoIHavent) But, yes I have read it before.
 
-> ![](https://i.ormos.uk/4e/86/4e865c657c26a59fac6e248137d057c4ac546545fd51add0e3050bd62b537367.jpg)[GavinVerhey](http://twitter.com/GavinVerhey) @[maro254](http://twitter.com/maro254) Yes, on the day it originally debuted.
+> ![](https://i.ormos.uk/4e/86/4e865c657c26a59fac6e248137d057c4ac546545fd51add0e3050bd62b537367.jpg)
+>
+> [GavinVerhey](http://twitter.com/GavinVerhey) @[maro254](http://twitter.com/maro254) Yes, on the day it originally debuted.
 
-> ![](https://i.ormos.uk/29/ee/29eedc4ab44f886711a90c7193f29c7c31806a076d538066018870372cfd8c8f.jpg)[blakecontreras](http://twitter.com/blakecontreras) @[maro254](http://twitter.com/maro254) Yes, I read it back when it was first published. Of course, I had forgotten most of it by now.
+> ![](https://i.ormos.uk/29/ee/29eedc4ab44f886711a90c7193f29c7c31806a076d538066018870372cfd8c8f.jpg)
+>
+> [blakecontreras](http://twitter.com/blakecontreras) @[maro254](http://twitter.com/maro254) Yes, I read it back when it was first published. Of course, I had forgotten most of it by now.
 
-> ![](https://i.ormos.uk/fb/b1/fbb1f735dec299464bc725191522d9d06a78539b1b3cbb99b2f0d35e559bab6c.jpg)[mechtroid](http://twitter.com/mechtroid) @[maro254](http://twitter.com/maro254) Yes. I went on an archive binge of your articles back in high school.
+> ![](https://i.ormos.uk/fb/b1/fbb1f735dec299464bc725191522d9d06a78539b1b3cbb99b2f0d35e559bab6c.jpg)
+>
+> [mechtroid](http://twitter.com/mechtroid) @[maro254](http://twitter.com/maro254) Yes. I went on an archive binge of your articles back in high school.
 
-> ![](https://i.ormos.uk/13/0d/130dc6317652d74a5ac22735ff0030530228e4da0cbfbe43d1588cd12c9f8eb7.jpg)[Lee\_Sharpe](http://twitter.com/Lee_Sharpe) @[maro254](http://twitter.com/maro254) Yes. (And I wasn't working at Wizards when it went out originally.)
+> ![](https://i.ormos.uk/13/0d/130dc6317652d74a5ac22735ff0030530228e4da0cbfbe43d1588cd12c9f8eb7.jpg)
+>
+> [Lee\_Sharpe](http://twitter.com/Lee_Sharpe) @[maro254](http://twitter.com/maro254) Yes. (And I wasn't working at Wizards when it went out originally.)
 
 > ![](https://i.ormos.uk/77/e6/77e60659cf563af7435f8c2059f5804680bb6bad462a51cf46546c5e3aec8f78.jpg)[misterorange](http://twitter.com/misterorange) @[maro254](http://twitter.com/maro254) Yup, bout 5 years ago, but yes
 
-> ![](https://i.ormos.uk/24/38/2438eee474e6efe97c21d1c9d7cd017b341c08d39b0ebf000524d413959e7806.jpg)[hollowkatt](http://twitter.com/hollowkatt) @[maro254](http://twitter.com/maro254) QotD: Yes, I had read it. It was still a good read and still contained valuable information. Thank you for re-posting
+> ![](https://i.ormos.uk/24/38/2438eee474e6efe97c21d1c9d7cd017b341c08d39b0ebf000524d413959e7806.jpg)
+>
+> [hollowkatt](http://twitter.com/hollowkatt) @[maro254](http://twitter.com/maro254) QotD: Yes, I had read it. It was still a good read and still contained valuable information. Thank you for re-posting
 
 > ![](https://i.ormos.uk/5a/a0/5aa00a21ab5b74bab190a02d1985746224453bd096ad524ceb564efbc928deb1.jpg)[dantack](http://twitter.com/dantack) @[maro254](http://twitter.com/maro254) yes
 
-> ![](https://i.ormos.uk/b0/8f/b08f8fc5e214dd5b071ce7228bbf9a01a4b9c080a6414ddd31a3cc7e68804f18.jpg)[TimAtMoreFun](http://twitter.com/TimAtMoreFun) @[maro254](http://twitter.com/maro254) yes, I had read it.
+> ![](https://i.ormos.uk/b0/8f/b08f8fc5e214dd5b071ce7228bbf9a01a4b9c080a6414ddd31a3cc7e68804f18.jpg)
+>
+> [TimAtMoreFun](http://twitter.com/TimAtMoreFun) @[maro254](http://twitter.com/maro254) yes, I had read it.
 
-> ![](https://i.ormos.uk/8d/7b/8d7b09b554afda436ee45d59c57cd84fc7c377c3b33c09e5b060c7518823302b.jpg)[Bill\_Curtis\_42](http://twitter.com/Bill_Curtis_42) @[maro254](http://twitter.com/maro254) I honestly do not recall. But most likely yes.
+> ![](https://i.ormos.uk/8d/7b/8d7b09b554afda436ee45d59c57cd84fc7c377c3b33c09e5b060c7518823302b.jpg)
+>
+> [Bill\_Curtis\_42](http://twitter.com/Bill_Curtis_42) @[maro254](http://twitter.com/maro254) I honestly do not recall. But most likely yes.
 
 > ![](https://i.ormos.uk/e0/cb/e0cb78a1784cd67fd9ae17edf798ad2613958dfdad1538fb9d3c357cf51e820e.jpg)[andrea2s1](http://twitter.com/andrea2s1) @[maro254](http://twitter.com/maro254) Yes. (Obv.)
 

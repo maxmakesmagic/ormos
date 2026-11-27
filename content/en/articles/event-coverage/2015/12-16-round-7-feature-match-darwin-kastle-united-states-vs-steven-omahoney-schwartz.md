@@ -47,7 +47,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/130.jpg)Before the last round of the Sealed Deck portion of Grand Prix Manchester, both Darwin Kastle and Steve OMS were undefeated. Darwin had a very strong red, black and blue deck while Steve had a pretty good green and black deck with a touch of blue and white. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/130.jpg)
+
+Before the last round of the Sealed Deck portion of Grand Prix Manchester, both Darwin Kastle and Steve OMS were undefeated. Darwin had a very strong red, black and blue deck while Steve had a pretty good green and black deck with a touch of blue and white. 
 
 Darwin won the die roll and opted to go first. Unfortunately, he stalled on two lands for one turn and then he stalled on three lands for another two turns. Meanwhile, Steve speeded up his mana by playing Fertile Ground on one of his Forests, and a turn three Slinking Serpent hit the table. Steve then went on to play a Stormscape Apprentice, a Nightscape Apprentice and then a Nomadic Elf on his turn four. 
 

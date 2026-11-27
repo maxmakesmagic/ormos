@@ -892,7 +892,9 @@ Play Of The Week
 
 *Courtesy of Dale K.*
 
-![](https://i.ormos.uk/1a/6c/1a6c12a70631bd8a74d9586fc05779e6051bd24af3d57f679c7b9b04bbdffb74.jpg)“I was playing a Sliver deck, and my friend was playing his death-by-token deck which featured lots of elf mana, Armageddon, Snake Basket, and many ways to abuse hordes of green snake tokens. 
+![](https://i.ormos.uk/1a/6c/1a6c12a70631bd8a74d9586fc05779e6051bd24af3d57f679c7b9b04bbdffb74.jpg)
+
+“I was playing a Sliver deck, and my friend was playing his death-by-token deck which featured lots of elf mana, Armageddon, Snake Basket, and many ways to abuse hordes of green snake tokens. 
 
 I played first and dropped a land every turn. His first two turns included Birds of Paradise, Gaea's Cradle, and Snake Basket. 
 
@@ -906,7 +908,9 @@ And now for some fun with Pyrite Spellbombs at two life:
 
 *Courtesy of Peter Charles Roby*
 
-![](https://i.ormos.uk/c5/fc/c5fc14adaff42719bca4d32e723ba45608807291bbb74b80e17893ca36514244.jpg)“At The JSS here in Massachusetts, my friend Adam was in the last round with his Ravager Affinity deck against an opponent with Goblin Bidding. Adam was at two; here is his opponent's turn: Draw Pyrite Spellbomb, play it, sac and draw a card. Draw another Pyrite Spellbomb, play it, sac and draw a card. He though he needed a bidding to win the game and never realized the Spellbomb would win it for him.”
+![](https://i.ormos.uk/c5/fc/c5fc14adaff42719bca4d32e723ba45608807291bbb74b80e17893ca36514244.jpg)
+
+“At The JSS here in Massachusetts, my friend Adam was in the last round with his Ravager Affinity deck against an opponent with Goblin Bidding. Adam was at two; here is his opponent's turn: Draw Pyrite Spellbomb, play it, sac and draw a card. Draw another Pyrite Spellbomb, play it, sac and draw a card. He though he needed a bidding to win the game and never realized the Spellbomb would win it for him.”
 
 ### Bad Play Of The Week #2
 

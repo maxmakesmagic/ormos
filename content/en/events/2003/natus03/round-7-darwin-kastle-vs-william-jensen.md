@@ -98,7 +98,9 @@ render_recovery:
   - Cruel Revival
   occurrences: 81
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a846.jpg)Darwin Kastle wouldn't deny that limited isn't his strong suit. With Top 8's this season in both Extended and Block Constructed, it's clear that he's more at home with sixty card decks than forty. The smaller stacks are no trouble for William "Huey" Jensen, who Top 8'd Chicago's Rochester Draft Pro Tour. Of course, his Top 4 at Venice was none too shabby either. Strangely, both these two giants are sitting at 3-3, needing to win out to have a shot at the Top 8.
+![](http://www.wizards.com/sideboard/images/natus03/a846.jpg)
+
+Darwin Kastle wouldn't deny that limited isn't his strong suit. With Top 8's this season in both Extended and Block Constructed, it's clear that he's more at home with sixty card decks than forty. The smaller stacks are no trouble for William "Huey" Jensen, who Top 8'd Chicago's Rochester Draft Pro Tour. Of course, his Top 4 at Venice was none too shabby either. Strangely, both these two giants are sitting at 3-3, needing to win out to have a shot at the Top 8.
 
 ### Game 1
 
@@ -122,7 +124,9 @@ Jensen started the second game with Shepherd of Rot followed by Severed Legion, 
 
 Jensen dashed his hopes with a fourth land and Undead Warchief. The Skinthinner and Legion smashed in. Kastle traded his Buzzard for the Legion, but with the Shepherd activation Kastle was down to just five. He played his fifth land and sent it back to Jensen. He played a Brawler and bashed in.
 
-![](http://www.wizards.com/sideboard/images/natus03/a845.jpg)Kastle had Caller of the Claw at instant speed, and put it in front of the Skinthinner, then Timberwatch on the Warchief. It pumped itself, but it didn't matter, as Jensen had Vitality Charm to trample over the Caller. Kastle had Wirewood Pride to make it close, but the Shepherd plus one trample was enough.
+![](http://www.wizards.com/sideboard/images/natus03/a845.jpg)
+
+Kastle had Caller of the Claw at instant speed, and put it in front of the Skinthinner, then Timberwatch on the Warchief. It pumped itself, but it didn't matter, as Jensen had Vitality Charm to trample over the Caller. Kastle had Wirewood Pride to make it close, but the Shepherd plus one trample was enough.
 
 Jensen 1 – Kastle 0 – Draws 1
 
@@ -142,7 +146,9 @@ Jensen tried to put up his defenses. He played a Brawler showing Polluter, and a
 
 "Yeah, pretty much the only way around Caller of the Claw was the block you made." – Darwin Kastle. 
 
-![](http://www.wizards.com/sideboard/images/natus03/a847.jpg)Jensen played another land and his Polluter. Kastle answered with Bladewing's Thrall. Jensen made no play. Kastle found his eighth land for his Invoker and played it slow, assassinating Jensen's team. Jensen played still more land. When Kastle finally dropped Skinthinner and unmorphed it, leaving Jensen with no board, he was willing to commit to an attack. Jensen dropped a hand of all land on the table. He'd drawn only four spells that game.
+![](http://www.wizards.com/sideboard/images/natus03/a847.jpg)
+
+Jensen played another land and his Polluter. Kastle answered with Bladewing's Thrall. Jensen made no play. Kastle found his eighth land for his Invoker and played it slow, assassinating Jensen's team. Jensen played still more land. When Kastle finally dropped Skinthinner and unmorphed it, leaving Jensen with no board, he was willing to commit to an attack. Jensen dropped a hand of all land on the table. He'd drawn only four spells that game.
 
 Jensen 1 – Kastle 1 – Draws 1
 

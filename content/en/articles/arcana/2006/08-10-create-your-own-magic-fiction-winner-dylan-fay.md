@@ -89,7 +89,9 @@ Dylan, 15, hails from Orlando, Florida and has been playing **Magic** since *Dar
 
 Princess Annah ran along the pine-lined paths of her home, eager for adventure. The young elf joyfully called to the inhabitants of her home, majestic Greenwell Forest. Calling up a rush of green mana, she leaped into a tree on the wings of a spell. Annah flitted from limb to limb in the endless row of evergreens, hardly paying any attention to where she was going. Suddenly she stopped, looking around curiously. This was the farthest she had ever been from home. 
 
-![Forest1](https://i.ormos.uk/3a/9c/3a9cc9ee92b4d2935215f1c3608aab19b195c8e97bdabed23eccc3f97ba7530f.jpg)She was shocked to notice that the trees had begun to thin out. She was astounded to actually see *gaps* in the canopy overhead. But how could this be possible? She recalled lessons from when she was younger, and had a tutor. 
+![Forest1](https://i.ormos.uk/3a/9c/3a9cc9ee92b4d2935215f1c3608aab19b195c8e97bdabed23eccc3f97ba7530f.jpg)
+
+She was shocked to notice that the trees had begun to thin out. She was astounded to actually see *gaps* in the canopy overhead. But how could this be possible? She recalled lessons from when she was younger, and had a tutor. 
 
 “Greenwell Forest goes on forever,” The old elf Geoffrey said. “The forest stretches out across the world, never ending. The green mana you use powers life on our plane.” He gazed out at the stars scattered in the sky. “You are fortunate to have been born here, Annah,” he said, looking down at her kindly. “Very fortunate.” 
 
@@ -133,7 +135,9 @@ The leaders met in an room magically contained inside the oak. Hawk could count 
 
 Finally the wizard came to the entrance of the auditorium. His knock was answered immediately, as the door swung open. Hawk bowed.
 
-![Vigean_Intuition](https://i.ormos.uk/c7/7e/c77e78baab7d603452b0aa2d0c42ebce1e92cd059ac78d0bf90d364eeaf96f3a.jpg)“Enter,” a voice called. Hawk straightened and walked to the center of the circular room, glancing at the seven thrones that ringed him. He was shocked to see another wizard, not of the seven, standing quietly in the corner. “Perhaps I should explain,” the voice said, and Hawk saw one of the Conclave turn toward his companions. “Seven months ago I glimpsed a terrible vision in the scrying pools. At that time it was my responsibility to watch the pools and see any threat to us before it could do harm. The job cycles among us,” he explained, turning back toward Hawk. “But what I saw was not simply a threat to the Golden Sect, but a threat faced by all of Monterra. A terrible army was gathering on a dismal land. These soldiers weren’t normal; they were artificial. They had bodies of metal and liquid. I stirred the quicksilver and saw what must have been their commanders, and they were bending over a map. A map of Monterra.” The Conclave gasped. Several began to murmur.
+![Vigean_Intuition](https://i.ormos.uk/c7/7e/c77e78baab7d603452b0aa2d0c42ebce1e92cd059ac78d0bf90d364eeaf96f3a.jpg)
+
+“Enter,” a voice called. Hawk straightened and walked to the center of the circular room, glancing at the seven thrones that ringed him. He was shocked to see another wizard, not of the seven, standing quietly in the corner. “Perhaps I should explain,” the voice said, and Hawk saw one of the Conclave turn toward his companions. “Seven months ago I glimpsed a terrible vision in the scrying pools. At that time it was my responsibility to watch the pools and see any threat to us before it could do harm. The job cycles among us,” he explained, turning back toward Hawk. “But what I saw was not simply a threat to the Golden Sect, but a threat faced by all of Monterra. A terrible army was gathering on a dismal land. These soldiers weren’t normal; they were artificial. They had bodies of metal and liquid. I stirred the quicksilver and saw what must have been their commanders, and they were bending over a map. A map of Monterra.” The Conclave gasped. Several began to murmur.
 
 “Why weren’t we told?” said one, standing up.
 
@@ -159,7 +163,9 @@ Silence greeted his speech. “There is no hope for compromise?” asked one hop
 
 His heavy boots made no sound on the temple’s empty corridors. His black cape swished around his ankles. His helmet was tucked neatly under his right shoulder as he made his way up to the entrance of the command chamber. He stopped. Raising his hand to the knocker on the door, he tapped it twice. It swung open, and Former Evincar Roan walked through. 
 
-![Phyrexian_Hulk](https://i.ormos.uk/3a/1e/3a1ed9a5a9b11e8295069bac09b232cf01b44f9e021a34d6fdaeca0c458ae676.jpg)Twenty years had passed since that blasted planeswalker, Teferi, had killed Yawgmoth and scattered his armies. On one hand, Roan supposed he should be glad that Yawgmoth had not survived to give him the execution his failure deserved. Instead, the Evincar had used the twenty years to marshal every remaining Phyrexian in the Multiverse. Along the way, he found Yawgmoth’s secrets. Another twenty years, and Roan could be a god more powerful than Yawgmoth ever dreamed. But with Phyrexia destroyed, the Evincar had nowhere to rule, and nowhere to create more machines with which to consolidate his power.
+![Phyrexian_Hulk](https://i.ormos.uk/3a/1e/3a1ed9a5a9b11e8295069bac09b232cf01b44f9e021a34d6fdaeca0c458ae676.jpg)
+
+Twenty years had passed since that blasted planeswalker, Teferi, had killed Yawgmoth and scattered his armies. On one hand, Roan supposed he should be glad that Yawgmoth had not survived to give him the execution his failure deserved. Instead, the Evincar had used the twenty years to marshal every remaining Phyrexian in the Multiverse. Along the way, he found Yawgmoth’s secrets. Another twenty years, and Roan could be a god more powerful than Yawgmoth ever dreamed. But with Phyrexia destroyed, the Evincar had nowhere to rule, and nowhere to create more machines with which to consolidate his power.
 
 “Gelden, are the invasion plans complete?” Roan asked, looking sharply at one of his subordinates. 
 

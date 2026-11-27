@@ -45,7 +45,9 @@ archive_source:
   sha256: 98349bb139d23f3f69dad36b9b74e9561dcea94c0cfe9b5257eee9cbb9f84a3a
 render_recovery: []
 ---
-![](https://i.ormos.uk/88/1e/881e79d258b97bec64f971a7fb1f0c8bfc43a4a406e84d24e2b862d075416c37.jpg)Wizards of the Coast® and America West Airlines® would like to offer our Pro Tour players the chance to get discounted airline tickets for Pro Tour Columbus!
+![](https://i.ormos.uk/88/1e/881e79d258b97bec64f971a7fb1f0c8bfc43a4a406e84d24e2b862d075416c37.jpg)
+
+Wizards of the Coast® and America West Airlines® would like to offer our Pro Tour players the chance to get discounted airline tickets for Pro Tour Columbus!
 
 ### Here's how it works!
 

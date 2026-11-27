@@ -80,7 +80,9 @@ Note: Due to World Champion Makihito Mihara's absence from the Invitational, his
 
   
 
-![](https://i.ormos.uk/ff/b9/ffb97f62111719e4ed22571bd2ef4621e462b1c796259a8b2c14703ba0a43c85.jpg)**Winner: Paulo Vitor Damo da Rosa (29.4% of votes)**: Paulo put Brazil on the **Magic**-al map once he started flying to the Pro Tours for which he was qualified, dragging past and future stars to play with him all over the world. 
+![](https://i.ormos.uk/ff/b9/ffb97f62111719e4ed22571bd2ef4621e462b1c796259a8b2c14703ba0a43c85.jpg)
+
+**Winner: Paulo Vitor Damo da Rosa (29.4% of votes)**: Paulo put Brazil on the **Magic**-al map once he started flying to the Pro Tours for which he was qualified, dragging past and future stars to play with him all over the world. 
 
 **Paul Cheon (1.4%)**: Seemingly coming out of nowhere to become the 2007 U.S. National Champion, Paul Cheon has parlayed a pair of Grand Prix finals appearances and a series of solid finishes into making himself a Pro Tour fixture for a long time. 
 

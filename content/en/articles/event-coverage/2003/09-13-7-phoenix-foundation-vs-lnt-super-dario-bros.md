@@ -59,7 +59,9 @@ render_recovery: []
 **Marco Blume vs. Dario Minieri**  
 **Game 1**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a883.jpg)　対戦相手のデッキを一枚一枚見ながら構築していくチームロチェスターでは、どれだけ相手のデッキをメタったカードを仕込めるかがゲームの鍵を握る事が多い。その点で、Marco のデッキは相当のものだった。初めに登場した三種の生物を見て欲しい。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a883.jpg)
+
+　対戦相手のデッキを一枚一枚見ながら構築していくチームロチェスターでは、どれだけ相手のデッキをメタったカードを仕込めるかがゲームの鍵を握る事が多い。その点で、Marco のデッキは相当のものだった。初めに登場した三種の生物を見て欲しい。
 
 　《ワイアウッドの共生虫/[Wirewood Symbiote](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Symbiote)》  
  　《ワイアウッドの養虫人/[Wirewood Hivemaster](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Hivemaster)》  
@@ -83,7 +85,9 @@ render_recovery: []
 
 **Game 2** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a891.jpg)　今度は Mirieni の場に《ワイアウッドの養虫人/[Wirewood Hivemaster](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Hivemaster)》が、そして Marco の場には《エルフの先兵/[Elvish Vanguard](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Vanguard)》。ゲームは A 席の対決によくみられるエルフ大戦争モードへと。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a891.jpg)
+
+　今度は Mirieni の場に《ワイアウッドの養虫人/[Wirewood Hivemaster](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Hivemaster)》が、そして Marco の場には《エルフの先兵/[Elvish Vanguard](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Vanguard)》。ゲームは A 席の対決によくみられるエルフ大戦争モードへと。
 
 　しかし、ここから先で異変が。Marco は 3 ターン目に出したばかり変異で Mirieni の変異を迎え撃つ。マナの無い状態で。何かよほど本体に通したくない要因でもあったのだろうか。  
  　Mirieni のそれは《うなるアンドラック/[Snarling Undorak](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snarling+Undorak)》に変化し、Marco のそれは墓地に落ちて《残響の追跡者/[Echo Tracer](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Tracer)》であることを明かす。《残響の追跡者/[Echo Tracer](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Tracer)》は相当に大事なカードだ。単なるモーフチェックに使っていいカードでは無い。未だゲームは始まったばかりだというのに、何が Marco を追いつめているのか？

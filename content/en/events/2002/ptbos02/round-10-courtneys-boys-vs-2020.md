@@ -94,7 +94,9 @@ render_recovery:
   - Unquestioned Authority
   occurrences: 45
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a826.jpg)There was some discussion before the round began about whether or not these two teams could draw. If they did, there was a mathematical possibility that one of them would get eliminated, so 2020 decided not to draw.
+![](http://www.wizards.com/sideboard/images/ptbos02/a826.jpg)
+
+There was some discussion before the round began about whether or not these two teams could draw. If they did, there was a mathematical possibility that one of them would get eliminated, so 2020 decided not to draw.
 
 Read about their draft [here](/en/events/2002/ptbos02/draft-4-courtneys-boys-vs-2020).
 
@@ -126,7 +128,9 @@ Reeves started out with two Basking Rootwallas and a Skywing Aven, but Rood was 
 
 Rood was down but not out, and played a Cephalid Looter that Reeves had no way to kill. After several turns of Looting, Rood was close to stabilizing. Reeves attacked with his Rootwallas into a 2/2 Battlewise Aven, but Rood had Mental Note to gain threshold. Rood now had board control at seven life.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a841.jpg)His Looter found him a Vigilant Sentry and a Shieldmage Advocate, and things were getting desperate for Reeves. He tried an attack with his Skywing Aven, under the assumption that once damage was on the stack and Rood activated his Advocate, Reeves could respond by bouncing the Aven so Rood couldn't choose it as a "damage source." After some discussion, Collin Jackson and Nat Fairbanks set the record straight and Rood took no damage (you can choose a damage source that isn't in play.) After that failed attempt, Reeves scooped.
+![](http://www.wizards.com/sideboard/images/ptbos02/a841.jpg)
+
+His Looter found him a Vigilant Sentry and a Shieldmage Advocate, and things were getting desperate for Reeves. He tried an attack with his Skywing Aven, under the assumption that once damage was on the stack and Rood activated his Advocate, Reeves could respond by bouncing the Aven so Rood couldn't choose it as a "damage source." After some discussion, Collin Jackson and Nat Fairbanks set the record straight and Rood took no damage (you can choose a damage source that isn't in play.) After that failed attempt, Reeves scooped.
 
 Reeves 0 – Rood 1
 

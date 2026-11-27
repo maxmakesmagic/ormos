@@ -44,7 +44,9 @@ archive_source:
   sha256: 6e10a00eacf74682cdc6a364b59a542980a947572ad6ca21d4d5dbd8a7457b66
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm6_1.jpg)The last round of day two and the top table sees experienced pro Mattias Jorstedt playing local hero Jonny Chapman for the honour of going into day two undefeated. Mattias Jorstedt from Sweden has a Pro Tour title (Osaka) under his belt. Jonny Chapman might be the clown of British Magic, but shouldn't be too lightly dismissed as he has made day two at the British Grand Prix for the last three years.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm6_1.jpg)
+
+The last round of day two and the top table sees experienced pro Mattias Jorstedt playing local hero Jonny Chapman for the honour of going into day two undefeated. Mattias Jorstedt from Sweden has a Pro Tour title (Osaka) under his belt. Jonny Chapman might be the clown of British Magic, but shouldn't be too lightly dismissed as he has made day two at the British Grand Prix for the last three years.
 
 Owing to a few technical problems I arrived at this game just after the beginning of the first game. Chapman had to mulligan but it was plain to see why both decks were 7-0 as both played a [Skullclamp](https://web.archive.org/web/20040327000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp) on turn 1.
 

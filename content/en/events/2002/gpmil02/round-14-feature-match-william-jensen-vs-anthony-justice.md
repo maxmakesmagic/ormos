@@ -124,11 +124,15 @@ render_recovery:
   - Glacial Wall
   occurrences: 106
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/895.jpg)These two players squared off with their rogue decks for a shot at the top eight. Justice brought his counter burn strategy to the table, but it could be argued that without the Battle of Wits, Jensen's deck is a gigantic direct damage deck. When Huey first presented his deck, Justice just looked at this gigantic pile of cards which towered up to his neck. Just before the first game began, the judges swooped down. Random deck check time! A full squadron of officials were needed to sort and check Huey's deck, and four more were needed to randomize it afterwards. Fifteen (count 'em-fifteen!) minutes later, the match finally started.
+![](http://www.wizards.com/sideboard/images/gpmil02/895.jpg)
+
+These two players squared off with their rogue decks for a shot at the top eight. Justice brought his counter burn strategy to the table, but it could be argued that without the Battle of Wits, Jensen's deck is a gigantic direct damage deck. When Huey first presented his deck, Justice just looked at this gigantic pile of cards which towered up to his neck. Just before the first game began, the judges swooped down. Random deck check time! A full squadron of officials were needed to sort and check Huey's deck, and four more were needed to randomize it afterwards. Fifteen (count 'em-fifteen!) minutes later, the match finally started.
 
 ### Game One
 
-![](http://www.wizards.com/sideboard/images/gpmil02/896.jpg)Justice started the match with an Island and a Mountain. He cycled an Ice to tap down on of William's lands on turn two, and then cast a Sleight of Hand on his own. To his despair, Justice failed to find a third land! Jensen took quick advantage of this situation, leading with a Probe (no kicker) on turn three and an Addle on turn five, revealing Anthony's hand of double Fact or Fiction, double Repulse, Syncopate and Urza's Rage. Although Justice reached his fourth land by turn six, the game was already over. Anthony cast his FoF during Baby Huey's 6th upkeep, and Huey didn't even bother looking at the cards. He simply split the piles randomly and cast a Battle of Wits. Justice simply scooped.
+![](http://www.wizards.com/sideboard/images/gpmil02/896.jpg)
+
+Justice started the match with an Island and a Mountain. He cycled an Ice to tap down on of William's lands on turn two, and then cast a Sleight of Hand on his own. To his despair, Justice failed to find a third land! Jensen took quick advantage of this situation, leading with a Probe (no kicker) on turn three and an Addle on turn five, revealing Anthony's hand of double Fact or Fiction, double Repulse, Syncopate and Urza's Rage. Although Justice reached his fourth land by turn six, the game was already over. Anthony cast his FoF during Baby Huey's 6th upkeep, and Huey didn't even bother looking at the cards. He simply split the piles randomly and cast a Battle of Wits. Justice simply scooped.
 
 William Jensen 1-Anthony Justice 0
 
@@ -136,7 +140,9 @@ William Jensen 1-Anthony Justice 0
 
 Game one had been an absolute rout, and game two commenced in a similar fashion. Justice kept a risky hand which contained only two lands, and failed to draw a third until the fifth turn. William simply built up his lands, and then cast an Addle on the 6th turn, naming blue. This revealed why Justice had kept his hand: it contained SIX counterspells, including two actual Counterspell, two Syncopate, and two Gainsay. Huey made Anthony discard one of the Gainsays.
 
-![](https://i.ormos.uk/20/84/2084b98f983b9d730f97423bff82c97a13dfc2e3c2a9bd4f2184c2e2dd675def.jpg)Obviously this game wouldn't be as easily won as the previous, but damned if William wasn't going to make an effort. In response to a Sleight of Hand, Jensen pitched two cards to Insidious Dreams, placing Wild Research and Skycloud Expanse on the top of his library. He forced though the Research the following turn (since Justice could only counter one spell, and Huey had countermagic of his own). He used it to tutor up a Disrupt (to stop a Fact or Fiction by Justice), and then drew and played a Void, used a Dromar's Charm to stop Anthony's Counterspell, and proceeded to kill a Grim Lavamancer on the board, one in Justice's hand, and the two aforementioned Syncopates. 
+![](https://i.ormos.uk/20/84/2084b98f983b9d730f97423bff82c97a13dfc2e3c2a9bd4f2184c2e2dd675def.jpg)
+
+Obviously this game wouldn't be as easily won as the previous, but damned if William wasn't going to make an effort. In response to a Sleight of Hand, Jensen pitched two cards to Insidious Dreams, placing Wild Research and Skycloud Expanse on the top of his library. He forced though the Research the following turn (since Justice could only counter one spell, and Huey had countermagic of his own). He used it to tutor up a Disrupt (to stop a Fact or Fiction by Justice), and then drew and played a Void, used a Dromar's Charm to stop Anthony's Counterspell, and proceeded to kill a Grim Lavamancer on the board, one in Justice's hand, and the two aforementioned Syncopates. 
 
 Shortly thereafter, Justice extended his hand in concession, his sole card in hand being a Gainsay against Huey's impending win by tutoring out cantrips and Battle of Wits with his Wild Research.
 

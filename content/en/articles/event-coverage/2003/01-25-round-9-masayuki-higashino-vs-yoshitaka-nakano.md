@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gphir03/a963.jpg)Masayuki Higashino might not look menacing, with his gentle rounded features and bundled up in his great coat, but don't be fooled. Higashino has earned his reputation as Japan's thug extraordinaire. At the last Grand Prix – Hiroshima, it was Higashino who walked away with the title. Today he's playing against type, red beatdown instead of black. Yoshitaka Nakano is a friend of Higashino's, and both hail from Osaka, and has taken up the black cards in Higashino's stead. He's no slouch, either, appearing in the Top 8 of Japanese Nationals in 2002.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gphir03/a963.jpg)
+
+Masayuki Higashino might not look menacing, with his gentle rounded features and bundled up in his great coat, but don't be fooled. Higashino has earned his reputation as Japan's thug extraordinaire. At the last Grand Prix – Hiroshima, it was Higashino who walked away with the title. Today he's playing against type, red beatdown instead of black. Yoshitaka Nakano is a friend of Higashino's, and both hail from Osaka, and has taken up the black cards in Higashino's stead. He's no slouch, either, appearing in the Top 8 of Japanese Nationals in 2002.
 
 ### Game 1
 
@@ -63,7 +65,9 @@ Higashino 1 - Nakano 0
 
 ### Game 2
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gphir03/a964.jpg)Nakano had no illusions about his chances for Game 2. His hand was a middling affair with four land and few beats. He hoped for the best. Higashino matched his [Carnophage](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carnophage) with [Jackal Pup](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jackal+Pup). Nakano shrugged and paid the life to keep his zombie active. He dropped Dauthi slayer and handed it over.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gphir03/a964.jpg)
+
+Nakano had no illusions about his chances for Game 2. His hand was a middling affair with four land and few beats. He hoped for the best. Higashino matched his [Carnophage](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carnophage) with [Jackal Pup](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jackal+Pup). Nakano shrugged and paid the life to keep his zombie active. He dropped Dauthi slayer and handed it over.
 
 Higashino swung in, trading his Pup for the [Carnophage](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carnophage), then dropped [Mogg Fanatic](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+Fanatic) and [Grim Lavamancer](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Lavamancer), whistling innocently. Nakano drew and found he had no more creatures to play. He tried [Cabal Therapy](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy) for [Volcanic Hammer](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Hammer), and saw instead [Powder Keg](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Powder+Keg) and [Flametongue Kavu](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu). 
 

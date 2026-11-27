@@ -77,7 +77,9 @@ archive_source:
   sha256: edc3c3e043b4c695766f5f69fecd439945fbba0537ed8b42bda8e8da13b36dbb
 render_recovery: []
 ---
-![Bogardan Hellkite Sketch](https://i.ormos.uk/7b/ea/7bea0b615e3e52b9f3b0f9409df8ba1d51a2be34468158b72350b52b71b8b6b6.jpg)As part of the **Magic** creative team, one of my responsibilities is *sketch review*. That's when we look through the rough sketches that will one day become **Magic** art, evaluate them, and make comments and recommendations. When art director Jeremy Jarvis announces that new sketches are in, I fire up Multiverse (meaning, in this context, Wizards' internal database of **Magic** card information, not the infinite worlds of the **Magic** setting) and step through the sketches, making comments as I go. My comment is almost always the same. I'll tell you what it is—are you ready? Here's my most common comment:
+![Bogardan Hellkite Sketch](https://i.ormos.uk/7b/ea/7bea0b615e3e52b9f3b0f9409df8ba1d51a2be34468158b72350b52b71b8b6b6.jpg)
+
+As part of the **Magic** creative team, one of my responsibilities is *sketch review*. That's when we look through the rough sketches that will one day become **Magic** art, evaluate them, and make comments and recommendations. When art director Jeremy Jarvis announces that new sketches are in, I fire up Multiverse (meaning, in this context, Wizards' internal database of **Magic** card information, not the infinite worlds of the **Magic** setting) and step through the sketches, making comments as I go. My comment is almost always the same. I'll tell you what it is—are you ready? Here's my most common comment:
 
 > DB 11/14/2007: Okay.
 
@@ -243,7 +245,9 @@ But sometimes, "Okay" isn't enough. Sometimes there are flavor details that are 
 > ARTY McDRAW  
 >  All that—and you write—"Okay"?!
 
-![Whip-Spine Drake Sketch](https://i.ormos.uk/d9/9b/d99b15469cdf429e0ee87491b7d77ff46c57318f7ad5e9330c01f13ff4028e67.jpg)This might not represent exactly how sketch review goes, but the Vorthosian spirit is the same. We in the creative team have to be picky about the anatomical details of dragons, drakes, wurms, and worms—as well as flamekin, kithkin, Lorwyn elves, Llanowar elves, Mirari-mutated Otarian elves, boggarts, moggs, akki, nantuko, leonin, shades, viashino, demons (which usually fly via enormous bat wings), vampires (which usually fly but *rarely* have wings—they just float around magically), morph spiders, specters, angels, hellions, loxodons, gnarrs, nezumi, vedalken, Keldons, slivers, soratami, kavu, and more—not to mention the characteristic details of specific characters (how many times have artists illustrated Gerrard Capashen's goatee and vest, or Teferi's personal staff?).
+![Whip-Spine Drake Sketch](https://i.ormos.uk/d9/9b/d99b15469cdf429e0ee87491b7d77ff46c57318f7ad5e9330c01f13ff4028e67.jpg)
+
+This might not represent exactly how sketch review goes, but the Vorthosian spirit is the same. We in the creative team have to be picky about the anatomical details of dragons, drakes, wurms, and worms—as well as flamekin, kithkin, Lorwyn elves, Llanowar elves, Mirari-mutated Otarian elves, boggarts, moggs, akki, nantuko, leonin, shades, viashino, demons (which usually fly via enormous bat wings), vampires (which usually fly but *rarely* have wings—they just float around magically), morph spiders, specters, angels, hellions, loxodons, gnarrs, nezumi, vedalken, Keldons, slivers, soratami, kavu, and more—not to mention the characteristic details of specific characters (how many times have artists illustrated Gerrard Capashen's goatee and vest, or Teferi's personal staff?).
 
 Sure, individual creatures have individual variations—that's what makes any given card interesting and makes each year's setting look different from the last. Saltskitter is a flat-bodied, white-aligned desert wurm. Two-Headed Dragon has an unusually even number of heads. Tattered Drake has the whole undead thing going on. And the difference between some types can be subtle sometimes—ask me what makes an Avatar different from an Elemental or a Spirit, and my answer will be a whole lot more abstract than a matter of counting limbs.
 

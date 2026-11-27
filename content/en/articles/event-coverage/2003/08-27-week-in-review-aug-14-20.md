@@ -189,7 +189,9 @@ render_recovery:
 
 World Championships are now over, leaving a staggering amount of interesting data to sift through. The most commonly-asked Worlds-related question this side of the Atlantic so far seems to be “who the heck is this Zink guy?”
 
-![](https://i.ormos.uk/7c/e7/7ce707edb1b164132fda83ffb2f7544bd5dca538d52847dd1e92db7ca772b019.jpg)Surprisingly little is currently posted about our new World Champion. He is eighteen and he hails from Bochum, Germany. He was introduced to the game around the time *Mirage* was out, and played in tournaments for about a year and a half when he broke through with a Top 8 finish at Grand Prix-Cologne and the German National Title in the same year. Zink followed that up with a fourth place finish at European Championships that year. That was the last the **Magic** community heard of Zink until now. After having such a great year in 2001, he took some time off **Magic** to pursue other interests. He made his return to Pro Tour glory in Venice this year, where he finished 35th overall. 
+![](https://i.ormos.uk/7c/e7/7ce707edb1b164132fda83ffb2f7544bd5dca538d52847dd1e92db7ca772b019.jpg)
+
+Surprisingly little is currently posted about our new World Champion. He is eighteen and he hails from Bochum, Germany. He was introduced to the game around the time *Mirage* was out, and played in tournaments for about a year and a half when he broke through with a Top 8 finish at Grand Prix-Cologne and the German National Title in the same year. Zink followed that up with a fourth place finish at European Championships that year. That was the last the **Magic** community heard of Zink until now. After having such a great year in 2001, he took some time off **Magic** to pursue other interests. He made his return to Pro Tour glory in Venice this year, where he finished 35th overall. 
 
 Zink started out strong with a 5-1 finish on Day 1, playing a Mirari's Wake deck. He followed it with another 5-1 during draft. This meant Zink only needed ten points on Day 3 and he got them using a Reanimator deck, finishing sixth after eighteen rounds of Swiss. Zink had to play an exhausting Top 8 where he battled two mirror matches, but he emerged victorious in the end, his sideboard proving very effective against Okamoto in the finals.
 
@@ -203,7 +205,9 @@ Following three Pro Tour Top 8 rookies is a true veteran. Dave Humpherys is one 
 
 ### The Teams
 
-![](http://www.wizards.com/sideboard/images/worlds03/a442.jpg)To no one's surprise, the United States team made the finals once again. Their opponent this time around was Finland. Finland has maintained a solid lead in the team competition throughout most of the tournament. Brazil was also doing very well and it wasn't until the very end of Day 3 that U.S.A. overtook them for the second place in the standings. Both U.S. and Finland continued to do well during team day. Their slots in the finals were locked in before the final round was even played.
+![](http://www.wizards.com/sideboard/images/worlds03/a442.jpg)
+
+To no one's surprise, the United States team made the finals once again. Their opponent this time around was Finland. Finland has maintained a solid lead in the team competition throughout most of the tournament. Brazil was also doing very well and it wasn't until the very end of Day 3 that U.S.A. overtook them for the second place in the standings. Both U.S. and Finland continued to do well during team day. Their slots in the finals were locked in before the final round was even played.
 
 In the third place, to everyone's surprise, was Team Malaysia. They went undefeated during Team Day, rising from fourteenth to third place, only five points behind United States. France rounded off the Top 4.
 
@@ -221,7 +225,9 @@ Extended was the most interesting, as each team wondered just how insane everyon
 
 ### Player of the Year
 
-![](https://i.ormos.uk/d6/f0/d6f0a047ad3c5af1cded49406383a5d4204119fb80fbb58b0de18992d3c399f1.jpg)Kai Budde holds the title once again, surprising no one. He finished the season with a total of eighty points. Justin Gary and Mattias Jorstedt are tied for second place at 64 points, with Dirk Baberowski following at 58.
+![](https://i.ormos.uk/d6/f0/d6f0a047ad3c5af1cded49406383a5d4204119fb80fbb58b0de18992d3c399f1.jpg)
+
+Kai Budde holds the title once again, surprising no one. He finished the season with a total of eighty points. Justin Gary and Mattias Jorstedt are tied for second place at 64 points, with Dirk Baberowski following at 58.
 
 Masashi Oiso earned the Rookie of the Year title with 49 points, beating out his closest competitor by a whopping 21 points.
 
@@ -256,7 +262,9 @@ Question Mark was not the only super-sized side event at Worlds. The crowds were
 
 ### Battlegrounds
 
-![](http://www.wizards.com/global/images/sideboard_wir_20030827_picMain_en.jpg)Worlds attendants got their first look at Battlegrounds – an XBOX real-time strategy game based in the world of **Magic: The Gathering**. The demo version present appeared to be an early beta copy, still missing most of the more impressive features of the game. In a nutshell, it is a real-time combat game where you control a Wizard who can conjure creatures (like Elvish Pioneer, Horned Turtle or Deaths-Hand Buzzard) to harass the opponent or defend you from his creatures. You will also have access to a variety of spells that can influence the battlefield. 
+![](http://www.wizards.com/global/images/sideboard_wir_20030827_picMain_en.jpg)
+
+Worlds attendants got their first look at Battlegrounds – an XBOX real-time strategy game based in the world of **Magic: The Gathering**. The demo version present appeared to be an early beta copy, still missing most of the more impressive features of the game. In a nutshell, it is a real-time combat game where you control a Wizard who can conjure creatures (like Elvish Pioneer, Horned Turtle or Deaths-Hand Buzzard) to harass the opponent or defend you from his creatures. You will also have access to a variety of spells that can influence the battlefield. 
 
 The demo failed to truly impress, but again, it was an early beta copy. Those who have access to the game at WOTC offices assure that it is a solid game and should be worth another look once a more detailed demo is released.
 

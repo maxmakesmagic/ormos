@@ -44,7 +44,9 @@ archive_source:
   sha256: b5744d89d19d7f426a257efadff554da3b4cfa72c10e48da731a835b6c7f4404
 render_recovery: []
 ---
-![](https://i.ormos.uk/ad/c4/adc494acc937d1dbf816505ed8e8d273ec05955f7c7e73c3aa04f78ab805c8a0.jpg)Day Two of Pro Tour Osaka showed that only three types of decks really existed in this format, the triumviarate of Mono Black Control, Blue/Green Madness and Pyschatog. Nearly 80 per cent of these archetypes make up the decks for day two, and when the dust settled, it was only these decks made the top 16! 
+![](https://i.ormos.uk/ad/c4/adc494acc937d1dbf816505ed8e8d273ec05955f7c7e73c3aa04f78ab805c8a0.jpg)
+
+Day Two of Pro Tour Osaka showed that only three types of decks really existed in this format, the triumviarate of Mono Black Control, Blue/Green Madness and Pyschatog. Nearly 80 per cent of these archetypes make up the decks for day two, and when the dust settled, it was only these decks made the top 16! 
 
 After day one, crowd favorite Tsuyoshi Fujita was on top of the standings, attempting recreate the magic of last year's Pro Tour Tokyo. But alas, he was unable to do so, falling at the last hurdle, but managed to make top 16.
 

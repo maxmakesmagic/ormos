@@ -76,7 +76,9 @@ render_recovery:
   - Chromatic Sphere
   occurrences: 24
 ---
-![](https://i.ormos.uk/3a/04/3a04f0026615f3fd2d35609bb9d5a5023439932076bf93b17aee5444e5109c44.jpg)One more round to go and it is fitting that the final should be fought between two highly experienced and accomplished players. Tommi Hovi from Finland has two Pro Tour titles to his name. Jelger Wiegersma from the Netherlands has a Pro Tour Top 8 from New Orleans and has blitzed the European Grand Prix circuit in recent years with multiple Top 8 finishes. A title still eludes him though. Maybe that can be fixed here…
+![](https://i.ormos.uk/3a/04/3a04f0026615f3fd2d35609bb9d5a5023439932076bf93b17aee5444e5109c44.jpg)
+
+One more round to go and it is fitting that the final should be fought between two highly experienced and accomplished players. Tommi Hovi from Finland has two Pro Tour titles to his name. Jelger Wiegersma from the Netherlands has a Pro Tour Top 8 from New Orleans and has blitzed the European Grand Prix circuit in recent years with multiple Top 8 finishes. A title still eludes him though. Maybe that can be fixed here…
 
 Hovi has a strong removal heavy black deck with a splash of blue and red. Wiegersma is running a very quick white-green deck.
 
@@ -94,7 +96,9 @@ Wiegersma showed no signs of hanging around in game two as he followed a turn 1 
 
 Then Wiegersma seemed to hit a stall as he passed turns 3 and 4 without playing a spell. Hovi shot the Transfixer and then finished off the Den-Guard when it blocked one of the Myrs.
 
-![](https://i.ormos.uk/11/7f/117f2fc76e332fd3fd5843593ac48b276e038774fff79783d57d426156e9e12b.jpg)Now it Wiegersma’s turn to face a bettering as Hovi fetched back the Myr with a Moriok Scavenger. Wiegersma tried to stem the bleeding with a Skyhunter Cub and Fangren Hunter. The next turn was pretty bad though as Hovi Terrored the Hunter end of turn and Scimitar’ed up his Goblin to kill the Cub. Wiegersma took 7 from the attack.
+![](https://i.ormos.uk/11/7f/117f2fc76e332fd3fd5843593ac48b276e038774fff79783d57d426156e9e12b.jpg)
+
+Now it Wiegersma’s turn to face a bettering as Hovi fetched back the Myr with a Moriok Scavenger. Wiegersma tried to stem the bleeding with a Skyhunter Cub and Fangren Hunter. The next turn was pretty bad though as Hovi Terrored the Hunter end of turn and Scimitar’ed up his Goblin to kill the Cub. Wiegersma took 7 from the attack.
 
 The next turn Wiegersma had to play out the two one toughness monsters in his hand: a Slith Ascendant and Copper Myr. Hovi shot the Slith and sent in the team. Wiegersma Turned to Dust the Scimitar and then went to ambush with Raise the Alarm. Hovi was about to cast Wail of the Nim before he realized it would kill his Myr’s anyway. He took it back and said “I declare nothing,” to laughter from the spectators.
 

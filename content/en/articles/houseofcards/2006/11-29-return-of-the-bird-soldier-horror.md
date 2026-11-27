@@ -815,7 +815,9 @@ So what does all of this Tribal man-love have to do with Possessed Aven? Well, i
 
 ### Snow Birds, Revisited
 
-![Rimefeather_Owl](https://i.ormos.uk/b0/6a/b06a4dea85bea8fd8d9d33305cb7f3cda511640a8cb3a17d97659a27bef122c5.jpg)My last deck before *Time Spiral* hit Standard Tribal was based on Birds. More specifically, it was based on Rimefeather Owl, with the basic idea to use Green's mana-acceleration (including Birds of Paradise, a bird), lots of snow permanents (including Frost Raptor, also a bird), to drop an enormous Owl (owls are birds) that could win the game in one or two mighty flaps of its snowy wings (birds have wings) (okay, okay, shutting up now). I decided to see if my new-yet-outdated Birds deck could survive in the post-*Time Spiral* world of Standard Tribal. 
+![Rimefeather_Owl](https://i.ormos.uk/b0/6a/b06a4dea85bea8fd8d9d33305cb7f3cda511640a8cb3a17d97659a27bef122c5.jpg)
+
+My last deck before *Time Spiral* hit Standard Tribal was based on Birds. More specifically, it was based on Rimefeather Owl, with the basic idea to use Green's mana-acceleration (including Birds of Paradise, a bird), lots of snow permanents (including Frost Raptor, also a bird), to drop an enormous Owl (owls are birds) that could win the game in one or two mighty flaps of its snowy wings (birds have wings) (okay, okay, shutting up now). I decided to see if my new-yet-outdated Birds deck could survive in the post-*Time Spiral* world of Standard Tribal. 
 
 Birds these days have a lot going for them. Nineteen exist in Standard spanning three colors. Blue has the most options, including Rimefeather Owl as a fattie and Frost Raptor as an untargetable flier. Other solid Blue Birds are Thieving Magpie and Stormscape Familiar, with Sage Aven, Aven Fisher, and Crookclaw Transmuter fitting into various random weird decks I could imagine.
 

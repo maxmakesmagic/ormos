@@ -53,13 +53,17 @@ archive_source:
   sha256: 2b82fbcb3f8bb64d87eee796aaaad38335b46fc54455e1c36261cdc29f0ea678
 render_recovery: []
 ---
-![](https://www.wizards.com/sideboard/images/gpdet03/a942.jpg)Both Lester Smerling and Paul Hollar are sitting pretty at 8-1. Hollar hails from Kentucky, and insists there isn’t anything noteworthy about himself. Smerling was similarly tight-lipped, but his fellow Wisconsinites were quick to call him one of the nicest guys you’ll ever meet. He fielded seven of the decks for this Grand Prix, cards, sleeves and all. He’s yet to find major tournament success, though.
+![](https://www.wizards.com/sideboard/images/gpdet03/a942.jpg)
+
+Both Lester Smerling and Paul Hollar are sitting pretty at 8-1. Hollar hails from Kentucky, and insists there isn’t anything noteworthy about himself. Smerling was similarly tight-lipped, but his fellow Wisconsinites were quick to call him one of the nicest guys you’ll ever meet. He fielded seven of the decks for this Grand Prix, cards, sleeves and all. He’s yet to find major tournament success, though.
 
 Smerling accelerated to a turn-two Warchief with Skirk Prospector, but Hollar had the perfect response in a turn-two Silver Knight. Smerling was stopped dead in his tracks. He made a Goon and passed the turn. Hollar dropped a third land and played the waiting game. 
 
 Smerling cycled a worthless Gempalm Incinerator, then summoned Sparksmith and Goblin Sledder before passing it back. Hollar gained two off a cycled Renewed Faith. He played a fourth land and passed his turn. Smerling wasn’t out, though. He dropped a Siege-Gang Commander and swung in with all but the Commander himself. Hollar cycled Decree of Justice for an extra blocker, putting the token in front of the Goon and the Knight on the Warchief. A token took a dive to keep the Warchief alive, and Hollar took four, falling to sixteen.
 
-![](https://www.wizards.com/sideboard/images/gpdet03/a944.jpg)He untapped and didn’t like any of his options. He tapped out for Exalted Angel. Smerling was happy to take seven to Sparksmith it away. His whole team hit the Red Zone. The Knight blocked the Goon and Hollar fell to nine. Smerling added a Skirk Prospector. Hollar wasn’t so naïve to hope that Dawn Elemental would be enough. Smerling found the “attack with everyone” play.
+![](https://www.wizards.com/sideboard/images/gpdet03/a944.jpg)
+
+He untapped and didn’t like any of his options. He tapped out for Exalted Angel. Smerling was happy to take seven to Sparksmith it away. His whole team hit the Red Zone. The Knight blocked the Goon and Hollar fell to nine. Smerling added a Skirk Prospector. Hollar wasn’t so naïve to hope that Dawn Elemental would be enough. Smerling found the “attack with everyone” play.
 
 Smerling 1 – Hollar 0
 
@@ -77,7 +81,9 @@ Smerling 1 – Hollar 1
 
 “This format needs Fireball. Or Anarchy! Something to make it fair.” – Lester Smerling
 
-![](https://www.wizards.com/sideboard/images/gpdet03/a943.jpg)Hollar had to mulligan his first hand, but kept his six. Smerling opened the game with Goblin Piledriver.
+![](https://www.wizards.com/sideboard/images/gpdet03/a943.jpg)
+
+Hollar had to mulligan his first hand, but kept his six. Smerling opened the game with Goblin Piledriver.
 
 “Hey, you do have those in there.” – Paul Hollar
 

@@ -312,7 +312,9 @@ render_recovery:
 ---
 Now that the *Onslaught* Limited review is finally coming to a close, I can finally move on. It’s a good thing too: time was ceasing to exist. I was caught in a vortex of “you must play red or black”, “Sparksmith is so good” and complaints of strewn bodies cast aside by angered pit fighters, Angels, Starstorms and other of the set’s oft-maligned bombs. The world of **Magic** was closing in on itself and I was trapped on the inside. No longer.
 
-![](https://i.ormos.uk/b7/8e/b78eeeac205d206f91ee01c7f2929458343f990c2d2d0e3a076951e600530cf9.jpg)Now, I’m finally out, rescued by a 145-strong group of humans, demi-humans, animals and monsters who banded together to provide me new material and with it new thoughts. *Legions* is here, I’ve drafted it day and night for weeks and while my understanding of the set isn’t quite complete, it had better be close; I’m playing a Limited Masters with it in a week.
+![](https://i.ormos.uk/b7/8e/b78eeeac205d206f91ee01c7f2929458343f990c2d2d0e3a076951e600530cf9.jpg)
+
+Now, I’m finally out, rescued by a 145-strong group of humans, demi-humans, animals and monsters who banded together to provide me new material and with it new thoughts. *Legions* is here, I’ve drafted it day and night for weeks and while my understanding of the set isn’t quite complete, it had better be close; I’m playing a Limited Masters with it in a week.
 
 What follows is a look as some of my favorite and least favorite things about *Legions*, the effect the set has had on the *Onslaught* Block Limited environment and a few conclusions you may not have come to. Maybe this deviation on the *Onslaught* norm for me will provide you a new insight on the set we’ve all been drafting for the last month and a bit. Sorry this took so long, but hey, I had work to do.
 

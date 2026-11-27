@@ -624,7 +624,9 @@ GP Kobe 2009 / Top 8
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/26/10/261079fe93fbc0d3ace55ea39c1a99afc0411062fe43e5d10a8f513388aa5749.jpg)Tomoharu Saito has been traveling pretty much every weekend for the last two years to play Magic. The recent lull in the schedule before things pick up again in the weeks leading up to Hawaii allowed him the rare luxury of working on his deck for this event for more than just a couple of days. Working with a Tokyo based community of players who all playtest at his house, Saito set out to build a Zoo deck that was good against what he felt were the other pillars of this Extended format; Faeries, Loam, Elves, and TEPS. 
+![](https://i.ormos.uk/26/10/261079fe93fbc0d3ace55ea39c1a99afc0411062fe43e5d10a8f513388aa5749.jpg)
+
+Tomoharu Saito has been traveling pretty much every weekend for the last two years to play Magic. The recent lull in the schedule before things pick up again in the weeks leading up to Hawaii allowed him the rare luxury of working on his deck for this event for more than just a couple of days. Working with a Tokyo based community of players who all playtest at his house, Saito set out to build a Zoo deck that was good against what he felt were the other pillars of this Extended format; Faeries, Loam, Elves, and TEPS. 
 
 Against the two latter archetypes he was sporting maindeck Ethersworn Canonists and Nagoya’s Ryouma Shiozu was hoping to challenge that theory. Shiozu, a mainstay of the Japanese Grand Prix circuit, was playing TEPS. If he was upset by the sight of the Canonists – the players get to review each other’s decklists before the start of the match – Shiozu did not show it. He calmly freshened up before the match with a lemon scented wet towelette while Saito’s slaps to his own face – his traditional pregame ritual -- rang through the large hall. 
 
@@ -636,7 +638,9 @@ Saito’s Ethersworn Canonist landed on turn two and was followed up with Kird A
 
 In came creature removal and bounce for Shiozu while it was flowing in the opposite direction for Saito’s sideboard as he took out dead Path to Exiles for an assortment of miser’s cards such as his singleton Choke and Ancient Grudge. 
 
-![](https://i.ormos.uk/8b/1a/8b1a1238ec9f00c4d511dfad4a3d52a494ad457832a345c88a16524ceb75ca1a.jpg)Throughout Day Two I have watched players pitch back perfectly serviceable hands with lands and spells in favor of six cards more suited to the task at hand and Saito did so this game despite having plays for the first turn. He kept the next six and led off with Kird Ape to Shiozu’s Dreadship Reef. There was much deliberation – and playacting of how he saw the next few turns going – from Saito as he decided on what mana to fetch for the turn two Canonist he had mulliganed to. 
+![](https://i.ormos.uk/8b/1a/8b1a1238ec9f00c4d511dfad4a3d52a494ad457832a345c88a16524ceb75ca1a.jpg)
+
+Throughout Day Two I have watched players pitch back perfectly serviceable hands with lands and spells in favor of six cards more suited to the task at hand and Saito did so this game despite having plays for the first turn. He kept the next six and led off with Kird Ape to Shiozu’s Dreadship Reef. There was much deliberation – and playacting of how he saw the next few turns going – from Saito as he decided on what mana to fetch for the turn two Canonist he had mulliganed to. 
 
 Shiozu had two Reefs and had to put a counter on one and then use it on his turn to Ponder into his third land, a Flooded Strand. Shiozu cracked the Strand and put a charge counter on his Reef eot and Saito took the Remandless window to Lightning Helix the Storm player. Saito passed the turn without a play and Shiozu bounced the Canonist with Echoing Truth. All Saito could do was frown and Helix his opponent. Shiozu played Seething Song and three copies of Manamorphose. He also played Desperate Ritual and ended with Mind’s Desire as his sixth spell of the turn. 
 
@@ -697,7 +701,9 @@ Tzu Ching Kuo was eager to play against Saito in order to make the Finals of Gra
 
 ### Game 1
 
-![](https://i.ormos.uk/52/6b/526b7c9ae1098cf96f28108fd95cbcae9f16f2b61528f215289a89230331e323.jpg)In the first game Saito came out of the gate strong but was quickly shut down by Chalice for one and an Engineered Explosives for two. His hand was jammed up with one-drops he could not play and lands he did not want and Kuo’s deck seemed to be firing on all cylinders. 
+![](https://i.ormos.uk/52/6b/526b7c9ae1098cf96f28108fd95cbcae9f16f2b61528f215289a89230331e323.jpg)
+
+In the first game Saito came out of the gate strong but was quickly shut down by Chalice for one and an Engineered Explosives for two. His hand was jammed up with one-drops he could not play and lands he did not want and Kuo’s deck seemed to be firing on all cylinders. 
 
 ### Game 2
 
@@ -708,7 +714,9 @@ Sower of Temptation took the Knight but Saito had ripped Lightning Helix and Kuo
 
 ### Game 3
 
-![](https://i.ormos.uk/3a/dd/3adde2e91b82763b92ab47fd97076a5ff7a38b4a821e9152e70b9a37012268b8.jpg)Kuo stood pat but Saito continued to tinker with his post board strategy. He also pile shuffled Kuo and was amazed to discover: “Sixty-one cards?”
+![](https://i.ormos.uk/3a/dd/3adde2e91b82763b92ab47fd97076a5ff7a38b4a821e9152e70b9a37012268b8.jpg)
+
+Kuo stood pat but Saito continued to tinker with his post board strategy. He also pile shuffled Kuo and was amazed to discover: “Sixty-one cards?”
 
 Kuo had merely added Relic of Progenitus to a previous build of Tezzeret without taking anything out for it. What has Nassif wrought?
 
@@ -718,7 +726,9 @@ Saito sized up his attack seeing if there was any way around his purloined Tarmo
 
 Sower merely chumped Wild Nacatl on the following turn – Teeg stayed back to mind the fort. Spell Snare finally got its Tarmogoyf and Saito passed the turn. Kou played Thirst for Knowledge and was able to reset the game with Firespout the following turn. He also had Clique to push Ranger of Eos to the bottom of Saito’s deck. Saito slapped his deck and demanded an action card. He was rewarded with Knight of the Reliquary, which was 5/5 and looming larger with a fetch land on the table. 
 
-![](https://i.ormos.uk/ae/91/ae913510a542765834c39d11b47421d1153decd77d810e6446a047f5cee01fa8.jpg)Tezzeret came down and Kou removed one counter to fetch Relic of Progenitus – the legendary 61st card – and passed the turn. Saito had used his fetch land in response to Tezzeret and now had fewer options for making his Knight large should the Relic be activated. 
+![](https://i.ormos.uk/ae/91/ae913510a542765834c39d11b47421d1153decd77d810e6446a047f5cee01fa8.jpg)
+
+Tezzeret came down and Kou removed one counter to fetch Relic of Progenitus – the legendary 61st card – and passed the turn. Saito had used his fetch land in response to Tezzeret and now had fewer options for making his Knight large should the Relic be activated. 
 
 Kuo imprinted Blood Moon on Chrome Mox, used up Tezzeret for Vedalken Shackles, and activated the Relic. The last part prompted Saito to pull aside the judge for a question about what happened when a Shackles left play. Kou activated the Shackles and Saito played his Ancient Grudge – the only card in his hand – to keep his Knight on his side of the table. Kou sighed deeply – knowing it was the only copy of the card in Saito’s deck – and played Trinket Mage for Engineered Explosives but did not have the mana to play it that turn. 
 
@@ -757,7 +767,9 @@ Two Seething Songs, Ponder, another Seething Song, Desperate Ritual, Manamorphos
 
 ### Game 2
 
-![](https://i.ormos.uk/98/69/98692058a648f24217599ee5756c89ec1d2e4961e60e6bcd006948ee5f17d3f0.jpg)Both of these players had been through this matchup multiple times on the day and their sideboard strategy did not require much focus beyond finding the cards they were taking out. Saito had been hoping to get his PT Charleston teammate, turned coverage reporter, Tomohiro Kaji to cover his match for the Japanese page but Kaji had to catch a train and could not stay for the duration. The two old friends bantered to the delight of the crowd and the chagrin of the Japanese reporter actually covering the match in his stead. 
+![](https://i.ormos.uk/98/69/98692058a648f24217599ee5756c89ec1d2e4961e60e6bcd006948ee5f17d3f0.jpg)
+
+Both of these players had been through this matchup multiple times on the day and their sideboard strategy did not require much focus beyond finding the cards they were taking out. Saito had been hoping to get his PT Charleston teammate, turned coverage reporter, Tomohiro Kaji to cover his match for the Japanese page but Kaji had to catch a train and could not stay for the duration. The two old friends bantered to the delight of the crowd and the chagrin of the Japanese reporter actually covering the match in his stead. 
 
 Saito kicked off Game 2 with Mogg Fanatic – and was holding Canonist for the following turn. Yuuya was happy to not be racing to beat the clock of a turn one Nacatl. He played Ponder – a card he named his MVP during the Quick Questions – and chose not to shuffle his deck. Saito played the Canonist. There were no Lotus Blooms for Watanabe this game who just played his land and passed the turn. Saito came over for three damage and offered up Knight of the Reliquary. Watanabe broke his land and put Steam Vents into play untapped – he fell to 13 – and Remanded the Knight. He suspended Lotus Bloom and dropped to 11 to pass the turn with three mana open for Volcanic Fallout. 
 
@@ -765,7 +777,9 @@ He was at 8 when the dust settled and facing down Tarmogoyf, Wild Nacatl, and a 
 
 ### Game 3
 
-![](https://i.ormos.uk/34/3d/343d14a901aa1d5944b86b9599a45e5434f197a25bf5afd9f60491f01045cc04.jpg)Both players shuffled their decks for well in excess of the suggested amount of time for sideboarding and shuffling. When they fnally drew their cards, Yuuya laughed at his hand which featured six gassy cards and Cascade Bluffs. Saito was all frowns as he sent his openers back in favor of a one lander with a pair of Nacatl, Ethersworn Canonist, Ranger, and Mogg Fanatic. Yuuya did not find his second land and could not Ponder off of his Bluffs but if he got to his turn with Lotus Bloom looked to be in okay shape. 
+![](https://i.ormos.uk/34/3d/343d14a901aa1d5944b86b9599a45e5434f197a25bf5afd9f60491f01045cc04.jpg)
+
+Both players shuffled their decks for well in excess of the suggested amount of time for sideboarding and shuffling. When they fnally drew their cards, Yuuya laughed at his hand which featured six gassy cards and Cascade Bluffs. Saito was all frowns as he sent his openers back in favor of a one lander with a pair of Nacatl, Ethersworn Canonist, Ranger, and Mogg Fanatic. Yuuya did not find his second land and could not Ponder off of his Bluffs but if he got to his turn with Lotus Bloom looked to be in okay shape. 
 
 Saito found his second land and played the pesky Canonist. Yuuya began to show frustration with his mulligan decision and slammed his hand down as no second land appeared for him while Saito went straight to turn three Knight of Reliquary from his one-lander. 
 

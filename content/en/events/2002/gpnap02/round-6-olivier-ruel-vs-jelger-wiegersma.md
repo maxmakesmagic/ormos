@@ -53,7 +53,9 @@ archive_source:
   sha256: 03e94e7464f771387aa87ab9b87773671203aea781e8eb5fc6143e1cead2290d
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a947.jpg)This is the fourth time these two have played each other. Olivier Ruel, fresh off a second place finish in Pro Tour-Osaka and a top 8 in Grand Prix Barcelona, is currently 2-1 up. Dutchman Jelger Wiegersma is also having a good year so far, following a top 8 finish in New Orleans with multiple Grand Prix top 8's. They are both 5-0 in this tournament and playing predominantly red-black. Wiegersma is splashing green for Roar of the Wurm while Ruel has blue for Breakthrough. 
+![](http://www.wizards.com/sideboard/images/gpnap02/a947.jpg)
+
+This is the fourth time these two have played each other. Olivier Ruel, fresh off a second place finish in Pro Tour-Osaka and a top 8 in Grand Prix Barcelona, is currently 2-1 up. Dutchman Jelger Wiegersma is also having a good year so far, following a top 8 finish in New Orleans with multiple Grand Prix top 8's. They are both 5-0 in this tournament and playing predominantly red-black. Wiegersma is splashing green for Roar of the Wurm while Ruel has blue for Breakthrough. 
 
 ### Game 1
 
@@ -73,7 +75,9 @@ Wiegersma 1-0 Ruel
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a948.jpg)Wiegersma sideboarded in Acorn Harvest and an extra Forest to give him more creatures with which to assault Ruel's removal.
+![](http://www.wizards.com/sideboard/images/gpnap02/a948.jpg)
+
+Wiegersma sideboarded in Acorn Harvest and an extra Forest to give him more creatures with which to assault Ruel's removal.
 
 Ruel chose to go second and was in trouble immediately when he had to mulligan twice. His hand wasn't too bad as he was able to summon a turn 3 Gravegouger and turn 4 Bomb Squad.
 

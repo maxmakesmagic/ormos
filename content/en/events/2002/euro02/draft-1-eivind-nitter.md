@@ -84,7 +84,9 @@ render_recovery:
   - Sudden Strength
   occurrences: 25
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a985.jpg)Eivind Nitter was an obvious pick for the first draft report. Not only is he the current European Champion and the winner of the last Booster Draft Pro Tour but this weekend he is facing his worst handicap. A huge handicap in fact. For someone who enjoys the finer things of life as much as Nitter, Amsterdam is surely the apex of temptation.
+![](http://www.wizards.com/sideboard/images/euro02/a985.jpg)
+
+Eivind Nitter was an obvious pick for the first draft report. Not only is he the current European Champion and the winner of the last Booster Draft Pro Tour but this weekend he is facing his worst handicap. A huge handicap in fact. For someone who enjoys the finer things of life as much as Nitter, Amsterdam is surely the apex of temptation.
 
 So our mission at the start of this first day was not only to see how the reigning European Champion adapts to the new format but also to see if Amsterdam's lure won't influence his picks. Things started of with a clear sign. In a pack full of green goodies (Elephant Ambush, Sylvan Might and Springing Tiger) Eivind passed the problem along taking Amugaba over Hallowed Healer and Patriarch's Desire.
 

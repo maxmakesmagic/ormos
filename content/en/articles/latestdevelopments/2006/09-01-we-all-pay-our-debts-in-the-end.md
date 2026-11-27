@@ -175,7 +175,9 @@ In paper *Magic* a spell effect will almost always last “Until end of turn”,
 
 ### From V to VI –
 
-![Corpse Dance](http://media.wizards.com/legacy/magic/images/cardart/te/corpse_dance.jpg)As I was talking about earlier, the rules of *Magic* have changed a lot since the early days. The End Phase of *Sixth Edition* was once called the Discard step from Fifth Edition. Among the changes that happened with the changeover was the ability to cast spells during the End Phase. According to the original *Magic* rules, cards like [Waylay](https://web.archive.org/web/20060901000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Waylay) and [Corpse Dance](https://web.archive.org/web/20060901000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Corpse+Dance) effects would wear off when the turn ended.
+![Corpse Dance](http://media.wizards.com/legacy/magic/images/cardart/te/corpse_dance.jpg)
+
+As I was talking about earlier, the rules of *Magic* have changed a lot since the early days. The End Phase of *Sixth Edition* was once called the Discard step from Fifth Edition. Among the changes that happened with the changeover was the ability to cast spells during the End Phase. According to the original *Magic* rules, cards like [Waylay](https://web.archive.org/web/20060901000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Waylay) and [Corpse Dance](https://web.archive.org/web/20060901000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Corpse+Dance) effects would wear off when the turn ended.
 
 *Sixth Edition* rules opened a loophole with this class of cards. From the *Sixth Edition* rules:
 

@@ -112,7 +112,9 @@ render_recovery:
   - Ixidor's Will
   occurrences: 102
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a924.jpg)Everyone in pod three had 19 points and as they sat down I settled in behind Zvi Mowshowitz to follow his draft. Jim Pepe would be opening first and Zvi was sitting on the wheel.
+![](http://www.wizards.com/sideboard/images/gpphi02/a924.jpg)
+
+Everyone in pod three had 19 points and as they sat down I settled in behind Zvi Mowshowitz to follow his draft. Jim Pepe would be opening first and Zvi was sitting on the wheel.
 
 Jim Pepe  
  Stephen Miller  
@@ -155,7 +157,9 @@ Miller took a Graxiplon and Mowshowitz got to choose between Erratic Explosion a
 
 The packs were going back the other way now and Mowshowitz wheeled a Nosy Goblin and yet another Choking Tethers. His cycling was approaching critical mass—if he had any chance at all it would rest on his Lightning Rift. There was literally no pick for Mowshowitz and he rare drafted a Flooded Strand.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a923.jpg)It was all about cycling cards at this point and Mowshowitz took another Tethers and a Forgotten Cave. His next pack gave him Essence Fracture and Mistform Dreamer. He was clearly frustrated by how dependant his deck was on the Rift with not other red removal spells within grabbing range. He could only look longingly across the table as Fabiano pulled Solar Blast after Solar Blast.
+![](http://www.wizards.com/sideboard/images/gpphi02/a923.jpg)
+
+It was all about cycling cards at this point and Mowshowitz took another Tethers and a Forgotten Cave. His next pack gave him Essence Fracture and Mistform Dreamer. He was clearly frustrated by how dependant his deck was on the Rift with not other red removal spells within grabbing range. He could only look longingly across the table as Fabiano pulled Solar Blast after Solar Blast.
 
 As the packs dwindled down to a precious few Mowshowitz once again found a Slateback where he hoped to find removal. He found another Mistform Dreamer and looked like he was going to get a Slipstream Eel on the way back when Pepe took it over an Invigorating Boon. The onlookers all winced in empathy with Mowshowitz. There was literally nothing for him in the Penultimate pack and found a fourth Dreamer in the final one.
 

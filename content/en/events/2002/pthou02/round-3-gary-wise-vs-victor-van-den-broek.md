@@ -90,7 +90,9 @@ render_recovery:
   - Verdant Force
   occurrences: 79
 ---
-![](https://i.ormos.uk/ab/e6/abe6035689e4547532d25a15e44714ddf50574b2876f21f949c02a10a1cb3464.jpg)There is no middle ground for this round of feature matches. While they are only a few feet apart Gary and Victor sit impossibly far away from the 2-0 matches at 0-2. Before the match began, Gary and Victor exchange war stories. Victor lost a fight with a tree yesterday and bears a nasty gouge under his eye. Gary on the other hand is lamenting his last two matches.
+![](https://i.ormos.uk/ab/e6/abe6035689e4547532d25a15e44714ddf50574b2876f21f949c02a10a1cb3464.jpg)
+
+There is no middle ground for this round of feature matches. While they are only a few feet apart Gary and Victor sit impossibly far away from the 2-0 matches at 0-2. Before the match began, Gary and Victor exchange war stories. Victor lost a fight with a tree yesterday and bears a nasty gouge under his eye. Gary on the other hand is lamenting his last two matches.
 
 Gary: "I haven't lost to a good card yet! I've lost to Auratog, Ancestral Mask...SONIC BURST!"
 
@@ -120,7 +122,9 @@ Victor: "I'm pretty sure that R&D never envisioned Sutured Ghoul as the key card
 
 Victor ended up going down to four cards but remained in pretty good spirits despite his tremendous disadvantage: "I'm down to turn 3 but I will need to top deck."
 
-![](https://i.ormos.uk/95/27/95275131b5b64b6ff0b3e2de476799eaa9101d3924a085ee86302ed91569e8b8.jpg)Gary opened up with a Polluted Delta and promptly cracked it for a Swamp and cast Duress. He saw three lands—including the nose wrinkling Forsaken City—and a Krosan Reclamation. He could only take the green flashback card. Victor ripped a Mox Diamond off of the top of his deck and showed off his deck's most efficient use of Forsaken City when he discarded it to play the artifact. He played Bloodstained Mire, which found his lone Mountain and sent the turn back to Gary who stopped for a moment to read the Krosan Reclamation.
+![](https://i.ormos.uk/95/27/95275131b5b64b6ff0b3e2de476799eaa9101d3924a085ee86302ed91569e8b8.jpg)
+
+Gary opened up with a Polluted Delta and promptly cracked it for a Swamp and cast Duress. He saw three lands—including the nose wrinkling Forsaken City—and a Krosan Reclamation. He could only take the green flashback card. Victor ripped a Mox Diamond off of the top of his deck and showed off his deck's most efficient use of Forsaken City when he discarded it to play the artifact. He played Bloodstained Mire, which found his lone Mountain and sent the turn back to Gary who stopped for a moment to read the Krosan Reclamation.
 
 Gary: "That's really annoying. I always played black in OBC so it never really came up before."
 
@@ -152,7 +156,9 @@ Gary: "Go ahead!?!"
 
 Gary cracked the Delta for a Swamp and Tutored for an Island. On his turn Gary cast Duress and Victor tapped the Mox Diamond to Entomb a Hermit Druid and then tapped the Citadel to take FIVE and Vampiric Tutor for Defense Grid. Gary got to have his choice of the two Exhumes that were left in Victor's hand. On his next turn Victor Exhumed the Hermit Druid. 
 
-![](https://i.ormos.uk/52/3f/523fc9734847325cf85bd1870a95676928cc4e1bc81e5877ab169bc57c3a699e.jpg)Gary cast another Duress and was able to nab the Defense Grid and play another Delta. Victor swung for one with the Druid and played a Llanowar Wastes. During his EOT, Gary used Brainstorm to look at some new cards and shuffle a Wonder and a Gilded Drake back into his deck when he cracked the Delta. On his turn he cast Careful Study and discarded Entomb and Reanimate with another copy of each remaining to put a Verdant Force into play. 
+![](https://i.ormos.uk/52/3f/523fc9734847325cf85bd1870a95676928cc4e1bc81e5877ab169bc57c3a699e.jpg)
+
+Gary cast another Duress and was able to nab the Defense Grid and play another Delta. Victor swung for one with the Druid and played a Llanowar Wastes. During his EOT, Gary used Brainstorm to look at some new cards and shuffle a Wonder and a Gilded Drake back into his deck when he cracked the Delta. On his turn he cast Careful Study and discarded Entomb and Reanimate with another copy of each remaining to put a Verdant Force into play. 
 
 Had Victor not attacked he probably could have activated the Druid EOT and won when he untapped. He would need four mana on his turn to activate the Druid on upkeep and win but he only had three—he would have to get lucky...
 

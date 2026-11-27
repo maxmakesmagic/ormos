@@ -752,7 +752,9 @@ render_recovery:
 ---
 * * *
 
-![Michael Turian](http://wizards.com/sideboard/images/ptsd04/sf1_1.jpg)Mike Turian is calling this his farewell Pro Tour. He's certainly going out with a bang. Following up on his Top 8 at Amsterdam, Turian is going one better this time around, and now stands in a position to win the whole thing. Standing in his way is someone who knows a thing or two about winning Limited Pro Tours: Nicolai Herzog. He took home the title at Amsterdam after Turian's quarterfinal exit. If the need to win wasn't pressure enough, both of these players are in the race for the Player of the Year title.
+![Michael Turian](http://wizards.com/sideboard/images/ptsd04/sf1_1.jpg)
+
+Mike Turian is calling this his farewell Pro Tour. He's certainly going out with a bang. Following up on his Top 8 at Amsterdam, Turian is going one better this time around, and now stands in a position to win the whole thing. Standing in his way is someone who knows a thing or two about winning Limited Pro Tours: Nicolai Herzog. He took home the title at Amsterdam after Turian's quarterfinal exit. If the need to win wasn't pressure enough, both of these players are in the race for the Player of the Year title.
 
 ### Game 1
 

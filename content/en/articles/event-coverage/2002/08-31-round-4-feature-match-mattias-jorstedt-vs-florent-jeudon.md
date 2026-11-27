@@ -44,7 +44,9 @@ archive_source:
   sha256: 762e573e6e3a28fb815f6c77866eea8b8fb0803cf9d9b928a4a22ad514f4b11a
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon02/974.jpg)Both Mattias Jorstedt and Florent Jeudon are familiar faces on the Grand Prix circuit. Jorstedt made top 8 in this years Swedish Nationals and is part of the Scandinavian Punisher team that came up with the White Weenie deck for the block portion of this years World Championships. Jeudon is a French player better known in the team trios format through his successes with the Ruel Brothers. At Grand Prix Antwerp this year he found individual success by finishing runner up behind Kai Budde.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon02/974.jpg)
+
+Both Mattias Jorstedt and Florent Jeudon are familiar faces on the Grand Prix circuit. Jorstedt made top 8 in this years Swedish Nationals and is part of the Scandinavian Punisher team that came up with the White Weenie deck for the block portion of this years World Championships. Jeudon is a French player better known in the team trios format through his successes with the Ruel Brothers. At Grand Prix Antwerp this year he found individual success by finishing runner up behind Kai Budde.
 
 Jorstedt is playing green-blue madness while, in a touch of irony, Jeudon is playing a White Weenie deck similar to the Punisher deck from Worlds. 
 
@@ -54,7 +56,9 @@ Jeudon found a third land to make a [Divine Sacrament](https://web.archive.org/w
 
 Jorstedt 1-0 Jeudon
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon02/975.jpg)This time it was Jorstedt's turn to mulligan and his only early offence was an [Aquamoeba](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba). He used an [Aether Burst](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst) to return Jeudon's [Beloved Chaplain](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beloved+Chaplain) and followed with a [Wild Mongrel](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel). The Swede's hand was running down though.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon02/975.jpg)
+
+This time it was Jorstedt's turn to mulligan and his only early offence was an [Aquamoeba](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba). He used an [Aether Burst](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst) to return Jeudon's [Beloved Chaplain](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beloved+Chaplain) and followed with a [Wild Mongrel](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel). The Swede's hand was running down though.
 
 On the other side of the table Jeudon chose to cast [Deep Analysis](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) to stock his hand up and then started dropping multiple threats. Jorstedt was soon facing down [Suntail Hawk](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Suntail+Hawk), [Beloved Chaplain](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beloved+Chaplain), [Glory](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory) and [Tireless Tribe](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tireless+Tribe). While most of them were little dorks there were a lot of them and Jeudon also had a [Divine Sacrament](https://web.archive.org/web/20020831000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Divine+Sacrament) to boost their power.
 

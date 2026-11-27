@@ -80,7 +80,9 @@ render_recovery:
   - Coffin Purge
   occurrences: 51
 ---
-![](http://www.wizards.com/sideboard/images/gprei02/a939.jpg)Last round of the day and again Kai Budde is in a situation where a loss would dump him out of the tournament. At 7-2 the German superstar needs to win to advance into day two. Budde is running The Rock, splashing red for Terminate. His opponent Mark Antoine Hernandez is running a more old-school version of the same deck.
+![](http://www.wizards.com/sideboard/images/gprei02/a939.jpg)
+
+Last round of the day and again Kai Budde is in a situation where a loss would dump him out of the tournament. At 7-2 the German superstar needs to win to advance into day two. Budde is running The Rock, splashing red for Terminate. His opponent Mark Antoine Hernandez is running a more old-school version of the same deck.
 
 Budde won the die roll and elected to go first.
 
@@ -100,7 +102,9 @@ Hernandez 1-0 Budde
 
 Budde thought about it and chose to play. He looked at his hand and was forced to throw it straight back. Hernandez also decided to do the same.
 
-![](http://www.wizards.com/sideboard/images/gprei02/a941.jpg)Hernandez missed with his first Cabal Therapy, but then took out a Baloth with his second. Budde hit with a Treetop Village, but that plan was scuppered as Hernandez dropped his own Baloth.
+![](http://www.wizards.com/sideboard/images/gprei02/a941.jpg)
+
+Hernandez missed with his first Cabal Therapy, but then took out a Baloth with his second. Budde hit with a Treetop Village, but that plan was scuppered as Hernandez dropped his own Baloth.
 
 A Duress took out the Terminate from Budde's hand and after he lost both Treetop Village and Elder gang-blocking the Baloth the German was left with only land.
 
@@ -120,7 +124,9 @@ With only 6 minutes remaining a draw would do neither player any good. As both w
 
 Meanwhile Hernandez got a recurring nightmare going to dig some land out of his deck with an Elder.
 
-![](http://www.wizards.com/sideboard/images/gprei02/a942.jpg)Budde dropped a Spiritmonger, hoping for some kind of quick kill. Cabal Therapy left him with no hand but Genesis was lurking in his graveyard to keep a steady stream of monsters.
+![](http://www.wizards.com/sideboard/images/gprei02/a942.jpg)
+
+Budde dropped a Spiritmonger, hoping for some kind of quick kill. Cabal Therapy left him with no hand but Genesis was lurking in his graveyard to keep a steady stream of monsters.
 
 Time was called with Budde needing to do thirteen damage. He had an unblockable Spiritmonger but Hernandez kept recursing Baloth with Recurring Nightmare to stay out of danger.
 

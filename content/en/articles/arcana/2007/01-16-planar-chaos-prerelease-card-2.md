@@ -61,7 +61,9 @@ archive_source:
   sha256: b271bc162617269c78883c13d173561e0d09b6ec0536960aa30625b852376d29
 render_recovery: []
 ---
-![](https://i.ormos.uk/80/f2/80f2942457b596429175c5af5c130374c6eb12b6fe8c79fe5ece3c97cf028103.jpg)[This weekend](https://web.archive.org/web/20070116000000/https://magic.wizards.com/en/articles/archive/planar-chaos-worldwide-prerelease-locations-2007-01-12) you’ll finally be able to tear open your first packs of *Planar Chaos*. We recommend you find a good, solid chair for when you build your sealed deck, because once you start spreading out those cards, the world is going to seem a little wobbly already.
+![](https://i.ormos.uk/80/f2/80f2942457b596429175c5af5c130374c6eb12b6fe8c79fe5ece3c97cf028103.jpg)
+
+[This weekend](https://web.archive.org/web/20070116000000/https://magic.wizards.com/en/articles/archive/planar-chaos-worldwide-prerelease-locations-2007-01-12) you’ll finally be able to tear open your first packs of *Planar Chaos*. We recommend you find a good, solid chair for when you build your sealed deck, because once you start spreading out those cards, the world is going to seem a little wobbly already.
 
 The *Planar Chaos* prerelease: Leave your expectations at the door. (Look for the convenient expectation-receptacle near the main entrance of a venue near you.)
 

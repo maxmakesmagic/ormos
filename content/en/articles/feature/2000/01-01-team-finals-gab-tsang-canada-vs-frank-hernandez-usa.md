@@ -77,7 +77,9 @@ render_recovery: []
 
 ### Game Two:
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/463.jpg)Hernandez is up 1-0 before this game.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/463.jpg)
+
+Hernandez is up 1-0 before this game.
 
 ### Game Two:
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 731dd4af33892e18d2e923175285f2236d6ad5e07d85951cbedf17d1cf539030
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsen04/sasaki.jpg)Yusuke Sasaki has served his one year suspension, and now he's back with a vengeance. He made Top 8 at Grand Prix Shizuoka back in the fall, and now has another Grand Prix Top 8 for the season. With two more match wins, he'll be able to do one better and win the whole thing.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsen04/sasaki.jpg)
+
+Yusuke Sasaki has served his one year suspension, and now he's back with a vengeance. He made Top 8 at Grand Prix Shizuoka back in the fall, and now has another Grand Prix Top 8 for the season. With two more match wins, he'll be able to do one better and win the whole thing.
 
 ### Game 1
 

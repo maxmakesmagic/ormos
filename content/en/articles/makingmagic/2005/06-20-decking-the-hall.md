@@ -116,7 +116,9 @@ If after all that, you still don't care, see you next week. But if you're at all
 
 ### Skaff's Big Idea
 
-![](https://i.ormos.uk/0f/d7/0fd78786c4b97d0aace25005e3fe36aad82a3d0b3339b610d1daee3077af2fa4.jpg)Longtime readers of my column should recognize the name Skaff Elias. He was one of **Magic's** original playtesters and was a key part of R&D for many, many years. Among his many contributions to the game was the Pro Tour. Yes, Skaff is the one who said that what **Magic** needed was something, or better yet someone, for the **Magic** player to aspire to be. Just as the NBA makes kids want to play basketball, so too could the Pro Tour make players want to become something more.
+![](https://i.ormos.uk/0f/d7/0fd78786c4b97d0aace25005e3fe36aad82a3d0b3339b610d1daee3077af2fa4.jpg)
+
+Longtime readers of my column should recognize the name Skaff Elias. He was one of **Magic's** original playtesters and was a key part of R&D for many, many years. Among his many contributions to the game was the Pro Tour. Yes, Skaff is the one who said that what **Magic** needed was something, or better yet someone, for the **Magic** player to aspire to be. Just as the NBA makes kids want to play basketball, so too could the Pro Tour make players want to become something more.
 
 My timing at the company proved perfect as far as the Pro Tour goes. I arrived just as the initial planning was being put together for the first Pro Tour. I had some judging experience so I asked to be the R&D liaison to the Pro Tour. I was quite happy (although not surprised, as no one else in R&D asked) when I was told I could. At the time, there were two main fears we had. One, what if the Pro Tour demonstrated that the game was more luck than skill. (We believed the game was predominantly skill, but if anything was going to prove us wrong, it would be something like the Pro Tour.) Two, we were worried that the Pro Tour might not have enough characters. How charismatic could people be who sat around staring at the cards in their hand?
 

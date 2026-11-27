@@ -81,7 +81,9 @@ render_recovery:
   - Cabal Therapy
   occurrences: 56
 ---
-![](https://i.ormos.uk/b3/5a/b35a4e5e914744d6ff8d2ae01917521ead824a38c0bea158a00214937aa23ef7.jpg)Jeff Fung is one of the most colorful and popular personalities at this event but the crowd along the rail was pulling for hometown hero Vincent Boulanger. They were hoping he would be the second Quebecer to get the opportunity to play on Sunday. Jeff and Vince are old friends although they have never played each other in a tournament before. "Except in some money drafts," Fung added.
+![](https://i.ormos.uk/b3/5a/b35a4e5e914744d6ff8d2ae01917521ead824a38c0bea158a00214937aa23ef7.jpg)
+
+Jeff Fung is one of the most colorful and popular personalities at this event but the crowd along the rail was pulling for hometown hero Vincent Boulanger. They were hoping he would be the second Quebecer to get the opportunity to play on Sunday. Jeff and Vince are old friends although they have never played each other in a tournament before. "Except in some money drafts," Fung added.
 
 "This is only my second ever feature match. So you may have the advantage over me," said the Quebecer.
 
@@ -125,7 +127,9 @@ Both players kept their opening hands and Vince led off with a Rootwalla that wa
 
 His good cheer was short lived, as his third turn land drop was a Cabal Coffers. He missed his next land drop and made a boo-boo face as he passed the turn back to Vince. The Quebecer was also out of land but he had a ladder to climb out of his hole with—Compost. "I might have a response to that... What does Compost say in French? I'll tell you, it translates to 'I am a lucky Frenchie!'" Jeff Smothered the Rootwalla in response.
 
-![](https://i.ormos.uk/20/20/2020b2c3ab4bbc872c71adefc7956d22e8b55bd44fce36e358850e5f0b7793cd.jpg)A third Swamp allowed Jeff to Diabolic Tutor for another Swamp. Vince drew a card. "I hate that card! Is it reprinted in 8th—I hate it!" Vince was still without land number four and played another Rootwalla. On the next turn a Cabal Therapy was countered—or should I say Dismissed. When his Corrupt was countered on the next turn—again drawing Vince a card—Jeff shouted over to Ryan Fuller, "We're PTQing tomorrow, so make sure you wake up!"
+![](https://i.ormos.uk/20/20/2020b2c3ab4bbc872c71adefc7956d22e8b55bd44fce36e358850e5f0b7793cd.jpg)
+
+A third Swamp allowed Jeff to Diabolic Tutor for another Swamp. Vince drew a card. "I hate that card! Is it reprinted in 8th—I hate it!" Vince was still without land number four and played another Rootwalla. On the next turn a Cabal Therapy was countered—or should I say Dismissed. When his Corrupt was countered on the next turn—again drawing Vince a card—Jeff shouted over to Ryan Fuller, "We're PTQing tomorrow, so make sure you wake up!"
 
 Jeff's back was against the wall but he maintained good humor throughout. He drew a big laugh from the crowd when he shouted loud enough for Head Judge Marc Hernandez to hear, "For the last time, Vince. I will not accept $50 to concede to you!"
 

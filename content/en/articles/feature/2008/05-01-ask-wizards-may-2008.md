@@ -67,7 +67,9 @@ render_recovery:
 
 **A:** From **"Evil" Mark Rosewater**, **Magic** head designer...of *evil*:
 
-![Evil Mark Rosewater](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/authorpics/authorpic_EvilMarkRosewater.jpg)Dear Drew,
+![Evil Mark Rosewater](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/authorpics/authorpic_EvilMarkRosewater.jpg)
+
+Dear Drew,
 
 Evil twin prejudice isn't something you often hear talked about. For some reason, the only bigotry publicly embraced in this politically correct world is evil twins and the Nazis. So why not put the "stache and goatee" on all our pictures? Perhaps you could show us tying poor screaming damsels to railroad tracks or laughing "bwah ha ha" and rubbing our hands together.
 

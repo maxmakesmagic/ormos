@@ -196,7 +196,9 @@ render_recovery:
  森の動きが鈍いところに東野の場には強力カード《玉虫色の天使/Iridescent Angel》が登場し、一気に勝負を決めようとした。  
  だが、その隙を森も見逃さなかった、《リサトグ/Lithatog》を出して土地を 7 枚生け贄に捧げ、スレッシュショルドに達するとフルアタックを繰り返し、東野のライフを 7 まで削った。
 
-![](https://i.ormos.uk/2c/27/2c274361b77f137fb80f624441c4e92b4c4b7cc47bf3f25ed270c9d2497be4d8.jpg)しかし、森の攻撃もそこまでだった。《飛びかかる虎/Springing Tiger》を《考え直し/Second Thoughts》で除去され、《炎の稲妻/Firebolt》を《液化/Liquify》でカウンターされ…絶望的な状況となっていく。
+![](https://i.ormos.uk/2c/27/2c274361b77f137fb80f624441c4e92b4c4b7cc47bf3f25ed270c9d2497be4d8.jpg)
+
+しかし、森の攻撃もそこまでだった。《飛びかかる虎/Springing Tiger》を《考え直し/Second Thoughts》で除去され、《炎の稲妻/Firebolt》を《液化/Liquify》でカウンターされ…絶望的な状況となっていく。
 
 《大音響攻撃/Sonic Seizure》で除去してフルアタックするも、東野のライフは 4 までしか削れず、《公証人/Scrivener》で《考え直し/Second Thoughts》を回収され、完璧な状況を作られてしまったのだった。手札にカウンターを控えつつ、東野の《玉虫色の天使/Iridescent Angel》が勝負を決めたのだった。
 

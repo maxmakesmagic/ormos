@@ -44,7 +44,9 @@ archive_source:
   sha256: 2bd408fda9f6e0201f48453ba689320bafff1987e6cbdfccb58b64e4fc446b60
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/999.jpg)Nine centuries ago the Iberian Peninsula was wrecked by a long war. The Christian kingdoms were hard pressed to stop the Moorish invaders. In the Mediterranean coast a new champion emerged: Rodrigo Diaz de Vivar. Better known as El-Cid ("the lord") this military, and political, mastermind managed to hold off the incoming horde and the internal court political ploys. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/999.jpg)
+
+Nine centuries ago the Iberian Peninsula was wrecked by a long war. The Christian kingdoms were hard pressed to stop the Moorish invaders. In the Mediterranean coast a new champion emerged: Rodrigo Diaz de Vivar. Better known as El-Cid ("the lord") this military, and political, mastermind managed to hold off the incoming horde and the internal court political ploys. 
 
 History repeats itself this weekend, on a different level. 347 Spanish players again rally to protect their treasures from the incoming hordes: the American behemoths and the European crowd. There are a total of 417 players. The American stars are Pro Tour Los Angeles winner Mike Pustilnik, and the Your Move Games trio: Rob Dougherty, Darwin Kastle and Chad Ellis. From Canada, there is Ryan Fuller. The European legion includes the reigning European Champion Noah Boeken, Mattias Jorstedt from Sweden, from the Netherlands Jelger Wiegersma and Bram Snepvangers, from France we have Olivier Ruel, Raphael Levy and Nicolas Olivieri, and the dynamic duo from England: Tony Dobson and Mark Wraith. Amongst the host of eager Spanish players we have, for example, Hector Fuentes, Xavier Curto Vives, Carlos Barrado and Roc Herms Pont. 
 

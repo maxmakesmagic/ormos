@@ -79,7 +79,9 @@ archive_source:
   sha256: 648e4252629d3849b9c511b3095cb32051663163222034e7ca4df2e95e5fafcf
 render_recovery: []
 ---
-![Treasure_Hunter](https://i.ormos.uk/ca/34/ca34302a169056eba9511866600ae1b0f749208fdd874ad43209755ac32ca702.jpg)I love Easter Eggs. The first thing I do when I get a DVD is go to [eeggs.com](http://eeggs.com/) and see whether there's some sort of crazy mini-documentary I can unlock by pressing the right buttons on my remote. When I've finally beaten a videogame, I go to [gamefaqs.com](http://gamefaqs.com/) and look for all of the cool secrets I missed, returning to old save games to make sure that I see *everything* that my game had to offer. 
+![Treasure_Hunter](https://i.ormos.uk/ca/34/ca34302a169056eba9511866600ae1b0f749208fdd874ad43209755ac32ca702.jpg)
+
+I love Easter Eggs. The first thing I do when I get a DVD is go to [eeggs.com](http://eeggs.com/) and see whether there's some sort of crazy mini-documentary I can unlock by pressing the right buttons on my remote. When I've finally beaten a videogame, I go to [gamefaqs.com](http://gamefaqs.com/) and look for all of the cool secrets I missed, returning to old save games to make sure that I see *everything* that my game had to offer. 
 
 (I am ashamed to admit that I actually wound up playing Vampire: The Masquerade through twice – once to beat the game, and the other to, um, have a romantic interlude with the hottest character in the game. Yes, you could do that. No, I'm not proud that I spent twelve hours of my life trying to make it happen.)
 

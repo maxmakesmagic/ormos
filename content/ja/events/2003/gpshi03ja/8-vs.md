@@ -185,7 +185,9 @@ render_recovery:
 
 ### Game 1
 
-![](https://i.ormos.uk/e0/83/e0838370e62e82df778ef646ef8ae91c08d157f3117ff6c0557bfcc299f7f988.jpg)　先手を取った石田は《発展のタリスマン/Talisman of Progress》から《テル=ジラードの流刑者/Tel-Jilad Exile》を。
+![](https://i.ormos.uk/e0/83/e0838370e62e82df778ef646ef8ae91c08d157f3117ff6c0557bfcc299f7f988.jpg)
+
+　先手を取った石田は《発展のタリスマン/Talisman of Progress》から《テル=ジラードの流刑者/Tel-Jilad Exile》を。
 
 　対する佐々木は 2 ターン目に《レオニンの空狩人/Leonin Skyhunter》を出してから、ダメージを稼ぎつつマナマイア等を並べてゲームを展開。
 
@@ -216,7 +218,9 @@ render_recovery:
 
 　先手は佐々木に移っての 3 本目。
 
-![](https://i.ormos.uk/a4/c9/a4c9a193478836fb271a1e344ea51ce543fcf12ad578ee27a69e3f1e93b17741.jpg)　その佐々木は《鉛のマイア/Leaden Myr》、《空狩人の若人/Skyhunter Cub》と並べるに至って、展開は上々と言いたい所だが、石田は《テル=ジラードの流刑者》、《真珠の破片》と並べ《オーリオックの貫通者/Auriok Transfixer》も出して守りは万全。
+![](https://i.ormos.uk/a4/c9/a4c9a193478836fb271a1e344ea51ce543fcf12ad578ee27a69e3f1e93b17741.jpg)
+
+　その佐々木は《鉛のマイア/Leaden Myr》、《空狩人の若人/Skyhunter Cub》と並べるに至って、展開は上々と言いたい所だが、石田は《テル=ジラードの流刑者》、《真珠の破片》と並べ《オーリオックの貫通者/Auriok Transfixer》も出して守りは万全。
 
 　通したくとも通せない佐々木はタッチカラーで採用している 2 枚の《恐怖/Terror》引きを待ち望みつつゲームを進めるが、石田がそれを阻むように、現在佐々木の場にある唯一の黒マナである《鉛のマイア》を《解体/Deconstruct》で除去。
 

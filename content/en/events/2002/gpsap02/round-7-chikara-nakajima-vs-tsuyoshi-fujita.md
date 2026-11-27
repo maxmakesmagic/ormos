@@ -53,7 +53,9 @@ archive_source:
   sha256: d1c30c1895018cdb9589f3ba9dfa82872469b5b4700abf4d7c1a0e24cf84d449
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpsap02/a969.jpg)This round was a match between opposite ends of the pro spectrum. On one hand, Tsuyoshi "Mr. Rolly" Fujita, the flamboyant household name after his Pro Tour - Tokyo finals appearance and subsequent attendance of the Magic Invitational. On the other, Chikara Nakajima, an anonymous Pro Tour regular who has yet to make his mark.
+![](http://www.wizards.com/sideboard/images/gpsap02/a969.jpg)
+
+This round was a match between opposite ends of the pro spectrum. On one hand, Tsuyoshi "Mr. Rolly" Fujita, the flamboyant household name after his Pro Tour - Tokyo finals appearance and subsequent attendance of the Magic Invitational. On the other, Chikara Nakajima, an anonymous Pro Tour regular who has yet to make his mark.
 
 Both players mulliganed to start the match. Nakajima's Rootwalla met Chainer's Edict. His Wild Mongrel survived to swing. That was enough advantage for him, as he Noted a couple cards into his graveyard then dropped Standstill. Fujita responded with Tainted Pact to dig up a swamp.
 
@@ -63,7 +65,9 @@ He started by Sludging six of Nakajima's seven cards. He kept Aether Burst. Then
 
 Fujita 1 - Nakajima 0
 
-![](http://www.wizards.com/sideboard/images/gpsap02/a970.jpg)Game 2 started out inauspiciously for Nakajima, thanks to a double-mulligan. His first three plays of Mongoose, Rootwalla and Monogoose met Innocent Blood, Chainer's Edict and Mutilate, respectively. A third Rootwalla got to stay while Fujita fished out a Nantuko Shade with Diabolic Tutor.
+![](http://www.wizards.com/sideboard/images/gpsap02/a970.jpg)
+
+Game 2 started out inauspiciously for Nakajima, thanks to a double-mulligan. His first three plays of Mongoose, Rootwalla and Monogoose met Innocent Blood, Chainer's Edict and Mutilate, respectively. A third Rootwalla got to stay while Fujita fished out a Nantuko Shade with Diabolic Tutor.
 
 Nakajima's one green mana kept him from busting out Bearscape. He hit for three. Fujita destroyed his Centaur Garden with Rancid Earth and swung for six. Aether Burst set him back. Nakajima ripped forest and hit for three more, but he was short on time. Chainer's Edict took out his monster, and Fujita threatened to deliver the killing blow next turn. With no action in hand and none waiting at the top of his deck, Nakajima couldn't intervene.
 

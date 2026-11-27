@@ -44,7 +44,9 @@ archive_source:
   sha256: 2ec3524e4b546e63f5e3f19bbc4aae3375165bacc7df8eb4d10b2a2aa2b7a913
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmad04/fin1_1.jpg)This is it. The big game. The end of the biggest Grand Prix in the history of the Pro Tour Circuit. Bernardo hardly had time to breath after a grueling long semifinal while Kai has been resting for quite a while after demolishing a very unlucky Raphael Levy in the semifinals in another chapter of the "Levy Losing Streak" (Raphael has lost something like the last NINE matches against Kai Budde).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmad04/fin1_1.jpg)
+
+This is it. The big game. The end of the biggest Grand Prix in the history of the Pro Tour Circuit. Bernardo hardly had time to breath after a grueling long semifinal while Kai has been resting for quite a while after demolishing a very unlucky Raphael Levy in the semifinals in another chapter of the "Levy Losing Streak" (Raphael has lost something like the last NINE matches against Kai Budde).
 
 ### Game 1
 

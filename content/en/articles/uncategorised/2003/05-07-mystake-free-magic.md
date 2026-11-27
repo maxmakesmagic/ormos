@@ -171,7 +171,9 @@ Always remember: Last In, First Out.
 
 Not understanding exactly how the stack works can cost you games. For example, you're attacking with a 4/1 trampling Branchsnap Lorian and a facedown Patron of the Wild. Your opponent is at 5 life, has an empty hand, and nothing on the board but an untapped Sparksmith. If the Sparksmith blocks the Lorian, your opponent takes 5 damage and loses, so the only safe move is to block the 2/2 morphing creature and hope for the best.
 
-![](https://i.ormos.uk/b1/6f/b16fecdbec62bdc20f91b19e56af60ff53eba99246fc4f3dc426fc9c14f8b8bf.jpg)This is where it's easy to make a timing error. In a hurry to win, you morph the Patron to make your 4/1 trampler a 7/4 fatty for the win. This is a huge mistake. Your opponent taps the Sparksmith in response, pings your 4/1, and destroys your Patron as well, since it's only going to be a 1/1 when damage resolves. Your opponent is down to 4 life, and both of you have an empty board now.
+![](https://i.ormos.uk/b1/6f/b16fecdbec62bdc20f91b19e56af60ff53eba99246fc4f3dc426fc9c14f8b8bf.jpg)
+
+This is where it's easy to make a timing error. In a hurry to win, you morph the Patron to make your 4/1 trampler a 7/4 fatty for the win. This is a huge mistake. Your opponent taps the Sparksmith in response, pings your 4/1, and destroys your Patron as well, since it's only going to be a 1/1 when damage resolves. Your opponent is down to 4 life, and both of you have an empty board now.
 
 The smart play is to wait and see what your opponent does. The Sparksmith is going to the graveyard no matter what. The only question is whether or not to ping your beast. If your opponent decides not to ping your beast, 4 damage gets through, the Sparksmith goes to the graveyard, and your opponent has to topdeck something to deal with both creatures on the next turn.
 

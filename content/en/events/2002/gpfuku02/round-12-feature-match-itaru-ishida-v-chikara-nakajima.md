@@ -82,13 +82,17 @@ render_recovery:
   - Wrath of God
   occurrences: 29
 ---
-![](http://www.wizards.com/sideboard/images/gpfuku02/915.jpg)Itaru Ishida was looking much more dangerous today, having left his glasses at home and donned a puffy coat. The Grand Prix - Kobe champion is looking for another title to put after his name. In his way is Tokyo's Chikara Nakajima, who has spent most of his career in the shadow of other players, though is generally accepted as a player on the move.
+![](http://www.wizards.com/sideboard/images/gpfuku02/915.jpg)
+
+Itaru Ishida was looking much more dangerous today, having left his glasses at home and donned a puffy coat. The Grand Prix - Kobe champion is looking for another title to put after his name. In his way is Tokyo's Chikara Nakajima, who has spent most of his career in the shadow of other players, though is generally accepted as a player on the move.
 
 Both players mulliganed their first hands. Nakajima started with a Puppeteer that met an Innocent Blood from Ishida. He quickly replaced it with Mystic Zealot. Ishida answered with Hydromorph Guardian. Nakajima came back with Graceful Antelope. He pushed it past Ishida's defenses with Shelter and started taking over his lands.
 
 Ishida was patient. He used what little time he had to Broker through his deck before bouncing the Antelope with Aether Burst. His Mortivore was stopped by Kirtar's Desire, but Mindslicer stuck. He undid Nakajima's team with a second Burst, dropping him to twelve. Afflict took care of a Cephalid Scout, as well as getting Ishida to Caustic Tar. He played it, and Nakajima's face fell. After four more points of pain from the Mindslicer, he scooped up his cards.
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/916.jpg)Nakajima got on the board quickly in game two with a Cephalid Scout and Mystic Familiar. Ishida was ready with Afflict, and then tried a Childhood Horror. Nakajima decided it was worth the Syncopate. On his fourth turn, however, he had no play, nor on his fifth. Ishida had free reign, but only had Hydromorph Guardian for beatdown. His Think Tank worked to improve his draws.
+![](http://www.wizards.com/sideboard/images/gpfuku02/916.jpg)
+
+Nakajima got on the board quickly in game two with a Cephalid Scout and Mystic Familiar. Ishida was ready with Afflict, and then tried a Childhood Horror. Nakajima decided it was worth the Syncopate. On his fourth turn, however, he had no play, nor on his fifth. Ishida had free reign, but only had Hydromorph Guardian for beatdown. His Think Tank worked to improve his draws.
 
 With Ishida's force growing, all Nakajima could manage was a Mystic Visionary with Ghostly Wings. Ishida Aether Bursted it, keeping the pressure up. Churning Eddy on the Guardian set him back, but Gloomdrifter was still hitting in the air.
 

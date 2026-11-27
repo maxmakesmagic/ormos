@@ -52,13 +52,17 @@ Patrick Sullivan is a member of the CMU-TOGIT conglomerate, and has been plagued
 
 ### Game 1
 
-![](https://i.ormos.uk/ef/76/ef767617d3641ecc848d82554ef3766feb119c3eb31fc52a7a195c524effd5b4.jpg)Joseph won the die roll and elected to start the game. With one glance he decided to keep a strong opening Goblin hand. Three Goblins, some burn and the land to make it work. Patrick mulliganed his hand, then led with a [Bloodstained Mire](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bloodstained+Mire) out of his six card hand. The [Goblin Sledder](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder) that Joe played was matched with a [Raging Goblin](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin) from Patrick. 
+![](https://i.ormos.uk/ef/76/ef767617d3641ecc848d82554ef3766feb119c3eb31fc52a7a195c524effd5b4.jpg)
+
+Joseph won the die roll and elected to start the game. With one glance he decided to keep a strong opening Goblin hand. Three Goblins, some burn and the land to make it work. Patrick mulliganed his hand, then led with a [Bloodstained Mire](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bloodstained+Mire) out of his six card hand. The [Goblin Sledder](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder) that Joe played was matched with a [Raging Goblin](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin) from Patrick. 
 
 A second mountain led to a [Goblin Piledriver](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Piledriver), coming out to play for Joseph, but Patrick swiftly burned it off the table, using [Firebolt](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) to destroy it before it ever got to attack. Two [Firebolt](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt)s had been used by Patrick at this point, but he had yet to show a second creature to go with his [Raging Goblin](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin). Finally a [Goblin Warchief](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Warchief) joined the table.
 
 The Goblin mirror is all about who gets the better start, but neither player had been able to sustain momentum up to this point. Each creature that would be played on the table would be burned right off of it. Joe used a [Firebolt](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) and [Volcanic Hammer](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Hammer) to remove two of Patrick's creatures while Patrick used two [Firebolt](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt)s to remove Joe's creatures. Joe finally did place a [Goblin Goon](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Goon) on the table, and the party seemed turn around for him at that point. His Goon and Warchief attack, forcing Patrick to block with his only creature, a Piledriver, to avoid losing the game.
 
-![](https://i.ormos.uk/d7/81/d781c8e134005925f457dc3b456e4c1eca4d9550b40e813af724c6d23f3f88cf.jpg)Patrick replaced his Piledriver with another one, and Joe added to his table farther. Ok, he added to his table for one turn, when his opponent saw the second big goblin land on the table, he scooped.
+![](https://i.ormos.uk/d7/81/d781c8e134005925f457dc3b456e4c1eca4d9550b40e813af724c6d23f3f88cf.jpg)
+
+Patrick replaced his Piledriver with another one, and Joe added to his table farther. Ok, he added to his table for one turn, when his opponent saw the second big goblin land on the table, he scooped.
 
 Joseph 1 - Patrick 0
 
@@ -74,7 +78,9 @@ Both players opened with [Raging Goblin](https://web.archive.org/web/20030830000
 
 Joe followed the [Firebolt](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) with a [Fledgling Dragon](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fledgling+Dragon), and he even had threshold for it. It didn't matter though, as Patrick killed it. The two players spent some time just looking across the table at one another, drawing and playing a land then passing the turn back rapidly.
 
-![](https://i.ormos.uk/93/86/9386ff2721f85f2147795e175b908630bdcd585a0365a02dda5e245d422a777f.jpg)Finally, some action occurred. Patrick killed the [Sparksmith](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) and played a Sledder. Joe killed the Sledder and started his army of goblins going. A few turns later it was all over. Patrick extended his hand as he conceded.
+![](https://i.ormos.uk/93/86/9386ff2721f85f2147795e175b908630bdcd585a0365a02dda5e245d422a777f.jpg)
+
+Finally, some action occurred. Patrick killed the [Sparksmith](https://web.archive.org/web/20030830000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) and played a Sledder. Joe killed the Sledder and started his army of goblins going. A few turns later it was all over. Patrick extended his hand as he conceded.
 
 "I didn't know if I should play or draw," Patrick mused following the match. "What's the right choice in the mirror?"
 

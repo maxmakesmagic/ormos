@@ -61,7 +61,9 @@ archive_source:
   sha256: bc5327372df8d319bd42845ae3e02a71bf8519daf84e3d7f5c0c58ae77027ae9
 render_recovery: []
 ---
-![](https://i.ormos.uk/14/5d/145d425e59dc756495e869591e98dfe5fb6589003fb359673bee789ab8cd2e03.jpg)It's important to stop and relish these moments. This will be the first time you see booster packaging for the October 2006 set, *Time Spiral.* Mark the date. Check the time. Get ready.
+![](https://i.ormos.uk/14/5d/145d425e59dc756495e869591e98dfe5fb6589003fb359673bee789ab8cd2e03.jpg)
+
+It's important to stop and relish these moments. This will be the first time you see booster packaging for the October 2006 set, *Time Spiral.* Mark the date. Check the time. Get ready.
 
 Go.
 

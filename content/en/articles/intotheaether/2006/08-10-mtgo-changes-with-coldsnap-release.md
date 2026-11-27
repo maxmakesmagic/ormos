@@ -557,7 +557,9 @@ A Haakon dredge deck would be pretty easy to concoct, so I thought I'd develop a
 
 I also had the Nekrataal deck in mind while building this deck, since getting double use of Martyr of Sands and Kami of False Hope should buy some serious time. I also like the thought of getting double use of Azorius Herald and Court Hussar. Being able to get your creatures back (assuming they're not currently Zombie Knights) also makes Wrath of God rather unfair. 
 
-![Adarkar_Valkyrie](https://i.ormos.uk/6e/3c/6e3c1c5d5ead12014c17793443498cb68b56ae169be6ff0091507fd81a372881.jpg)Assuming that you'll have a good amount of creatures in play due to Haakon's recursion, it seems that Sky Hussar's forecast ability can be a big help keeping your hand fueled. Adarkar Valkyrie is obviously strong in a creature deck, but how crazy is she when she takes two removal spells to permanently take down? 
+![Adarkar_Valkyrie](https://i.ormos.uk/6e/3c/6e3c1c5d5ead12014c17793443498cb68b56ae169be6ff0091507fd81a372881.jpg)
+
+Assuming that you'll have a good amount of creatures in play due to Haakon's recursion, it seems that Sky Hussar's forecast ability can be a big help keeping your hand fueled. Adarkar Valkyrie is obviously strong in a creature deck, but how crazy is she when she takes two removal spells to permanently take down? 
 
 Lastly, I thought Ghostway would be a good way to “reset” your creatures in play and remove their Zombie Knight status so you can get another use out of them. 
 

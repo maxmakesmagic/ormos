@@ -128,7 +128,9 @@ render_recovery:
 ---
 * * *
 
-[![Lorwyn release events are this weekend at a store near you.](https://i.ormos.uk/28/9d/289d3e594c1bd9ff63c1f3357d1f17eb4578745efc398e8492e26e9ccca7177c.jpg "Lorwyn release events are this weekend at a store near you.")](/en/articles/event-coverage/undated/magic-the-gathering-launch-parties-4)Another day, another batch of TV spots for the [*Lorwyn* release events](/en/articles/event-coverage/undated/magic-the-gathering-launch-parties-4). Check them out on Comedy Central and Adult Swim, and then this weekend, get your mitts on as many *Lorwyn* cards as you can carry. In fact, bring a backpack or something—it’s a really fun set to draft while watching *The Daily Show* or *Aqua Teen Hunger Force* off the TiVo. Trust us.
+[![Lorwyn release events are this weekend at a store near you.](https://i.ormos.uk/28/9d/289d3e594c1bd9ff63c1f3357d1f17eb4578745efc398e8492e26e9ccca7177c.jpg "Lorwyn release events are this weekend at a store near you.")](/en/articles/event-coverage/undated/magic-the-gathering-launch-parties-4)
+
+Another day, another batch of TV spots for the [*Lorwyn* release events](/en/articles/event-coverage/undated/magic-the-gathering-launch-parties-4). Check them out on Comedy Central and Adult Swim, and then this weekend, get your mitts on as many *Lorwyn* cards as you can carry. In fact, bring a backpack or something—it’s a really fun set to draft while watching *The Daily Show* or *Aqua Teen Hunger Force* off the TiVo. Trust us.
 
   
 *Adder-staff Boggart*

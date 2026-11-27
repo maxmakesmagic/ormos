@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/f1/25/f125c59c3d10ff4c4afe734fe266b6c16fe00936f2c38338a2d90fa0e6e7cfbc.jpg)This was a rematch of a Day One pairing between these very different players. Ben emerged victorious in that meeting and Gerard was looking to reverse his fortune by sitting in the opposite seat that he used yesterday. Ben arrived at the Feature Match area first and was sitting in the same seat as yesterday which was a great disappointment to Fabiano. "The last time I sat here I lost to you. I wanted to sit on the other side. Do you want to switch?"
+![](https://i.ormos.uk/f1/25/f125c59c3d10ff4c4afe734fe266b6c16fe00936f2c38338a2d90fa0e6e7cfbc.jpg)
+
+This was a rematch of a Day One pairing between these very different players. Ben emerged victorious in that meeting and Gerard was looking to reverse his fortune by sitting in the opposite seat that he used yesterday. Ben arrived at the Feature Match area first and was sitting in the same seat as yesterday which was a great disappointment to Fabiano. "The last time I sat here I lost to you. I wanted to sit on the other side. Do you want to switch?"
 
 "No thanks."
 

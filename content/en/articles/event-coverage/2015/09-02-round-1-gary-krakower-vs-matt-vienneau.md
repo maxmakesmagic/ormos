@@ -46,11 +46,15 @@ render_recovery: []
 ---
 *By Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/fm1krak.jpg)Gary Krakower and Matt Vienneau have been playtest partners for years. They also have a habit of getting paired against each other at major events and that trend continued in the first round of this year's Canadian Nationals. Vienneau drafted a pretty good-looking red/blue deck. It had more fat than that archetype normally sports, including an Extravagant Spirit. Rupture and War Cadence were his biggest game-breakers. To read about Krakower's draft [click here](https://web.archive.org/web/20150902000000/http://www.wizards.com/Sideboard/eventarticle.asp?event=CANNAT00&name=995krakdraft). It turned out that both players on Krakower's right were drafting black so his mostly black deck came up a few cards short. He wound up splashing red.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/fm1krak.jpg)
+
+Gary Krakower and Matt Vienneau have been playtest partners for years. They also have a habit of getting paired against each other at major events and that trend continued in the first round of this year's Canadian Nationals. Vienneau drafted a pretty good-looking red/blue deck. It had more fat than that archetype normally sports, including an Extravagant Spirit. Rupture and War Cadence were his biggest game-breakers. To read about Krakower's draft [click here](https://web.archive.org/web/20150902000000/http://www.wizards.com/Sideboard/eventarticle.asp?event=CANNAT00&name=995krakdraft). It turned out that both players on Krakower's right were drafting black so his mostly black deck came up a few cards short. He wound up splashing red.
 
 Krakower had to mulligan before the first game, but he came out pretty strong with Cateran Persuader, Steal Strength (to kill Kyren Sniper) and then Belbe's Percher. However, Vienneau's creatures were just bigger than Krakower's. Vienneau dropped Zerapa Minotaur, Coastal Hornclaw, and then Saprazzan Outrigger. Krakower had no answers. Krakower tried to keep his beatdown going with a Parallax Dementia, but Withdraw ruined that plan.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/fm1vien.jpg)When Vienneau played War Cadence and then served for 11, Krakower was on the ropes. He used Greel's Caress to buy himself one turn and Vicious Hunger to buy another, but there was really nothing he could draw to hold off all those 3/3 creatures.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/fm1vien.jpg)
+
+When Vienneau played War Cadence and then served for 11, Krakower was on the ropes. He used Greel's Caress to buy himself one turn and Vicious Hunger to buy another, but there was really nothing he could draw to hold off all those 3/3 creatures.
 
 Meanwhile, at the next feature match over, Ryan Fuller lost game 1 because he thought Flowstone Slide was an instant. You take a lot of mana burn when you learn that lesson the hard way.
 

@@ -101,7 +101,9 @@ render_recovery:
 ---
 As soon as the Top 8 was announced, there was guaranteed to be a Japanese player in the finals. The only questions were how many, and who it would be. The other semifinal match would determine the how many, and this one would determine the who. Would it be an all-"Goblin Bidding" finals to make the perfect ending for a new deck archetype, or would the venerable combination of green creatures and red burn be the spoiler?
 
-![](https://i.ormos.uk/6c/0e/6c0e2e95b4d5f6bd0ca5dd980c34cb91e7e094ccfeac73b07220efcab8904ee6.jpg)Neither Ishida or Fujita are strangers to the final rounds of a Grand Prix. Osamu has played in two, both in the team format, and Ishida has made the cut a staggering eight times before. 
+![](https://i.ormos.uk/6c/0e/6c0e2e95b4d5f6bd0ca5dd980c34cb91e7e094ccfeac73b07220efcab8904ee6.jpg)
+
+Neither Ishida or Fujita are strangers to the final rounds of a Grand Prix. Osamu has played in two, both in the team format, and Ishida has made the cut a staggering eight times before. 
 
 Ishida, with a win to his name as well, has the edge in pedigree, but what he lacks is an answer to Patriarch's Bidding or many useful sideboarding options. Fujita's sideboard, in contrast, clearly was built with Red/Green in mind, sporting Smothers and extra Gempalm Incinerators.
 

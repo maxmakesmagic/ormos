@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/164.jpg)Noah Boeken is the reigning European Champion, with a number of solid performances of late including top 8 at GP Copenhagen, Top 4 at GP Manchester and 14th at the team PTNY 2000. Messa is playing in his first premier Top 8, but after the draft felt fairly confident that he could give the favorite a run for his money. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/164.jpg)
+
+Noah Boeken is the reigning European Champion, with a number of solid performances of late including top 8 at GP Copenhagen, Top 4 at GP Manchester and 14th at the team PTNY 2000. Messa is playing in his first premier Top 8, but after the draft felt fairly confident that he could give the favorite a run for his money. 
 
 **Game 1** 
 
@@ -54,6 +56,8 @@ Noah opened quickly with a Nomadic Elf, a Llanowar Knight and Pouncing Kavu all 
 
 **Game 2** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/166.jpg)This game lasted six whole turns, as Messa stalled at 3 land, and only made a Faerie Squadron without Kicker before he was horribly beaten by Noah's insane draw of turn 1 Thornscape Apprence, Turn 2 Nomadic Elf, Turn 4 Llanowar Knight, turn 5 Spider and second knight, before Breath of Darigazzing without the kicker for the kill on turn 6. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/166.jpg)
+
+This game lasted six whole turns, as Messa stalled at 3 land, and only made a Faerie Squadron without Kicker before he was horribly beaten by Noah's insane draw of turn 1 Thornscape Apprence, Turn 2 Nomadic Elf, Turn 4 Llanowar Knight, turn 5 Spider and second knight, before Breath of Darigazzing without the kicker for the kill on turn 6. 
 
 Noah Boeken 2 - 0 Messa Bouchaib

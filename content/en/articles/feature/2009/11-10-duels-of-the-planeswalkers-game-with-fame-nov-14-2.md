@@ -52,7 +52,9 @@ archive_source:
   sha256: c269cad97195111a8181fa741a953df4f501f4905c783b78ba671bd026e69aaf
 render_recovery: []
 ---
-![Duels of the Planeswalkers](http://archive.wizards.com/mtg/images/daily/features/feature43c_dotpLogo.jpg "Duels of the Planeswalkers")The first *Duels of the Planeswalkers* expansion just hit Xbox LIVE Arcade, and to celebrate Wizards of the Coast and Microsoft are organizing a Game with Fame event on Saturday, November 14 from 3-6 p.m. PT.
+![Duels of the Planeswalkers](http://archive.wizards.com/mtg/images/daily/features/feature43c_dotpLogo.jpg "Duels of the Planeswalkers")
+
+The first *Duels of the Planeswalkers* expansion just hit Xbox LIVE Arcade, and to celebrate Wizards of the Coast and Microsoft are organizing a Game with Fame event on Saturday, November 14 from 3-6 p.m. PT.
 
 During this event, you will have the opportunity to play **Magic: The Gathering** on XBLA with celebrity Wil Wheaton, **Magic** creator Richard Garfield, **Magic** Pro Tour Hall of Famers Darwin Kastle and Mike Turian, DailyMTG.com columnist and pro player Steve Sadin, and long-time pro Jamie Parke.
 

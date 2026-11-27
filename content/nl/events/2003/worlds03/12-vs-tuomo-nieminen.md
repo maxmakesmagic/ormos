@@ -310,7 +310,9 @@ render_recovery:
   
  **Game 2**
 
-![](https://i.ormos.uk/c7/29/c7295ef027b352ff333152c1d24833b85a18aa562d3572bffff1f5a59364b0fd.jpg)　尋のデッキには二枚の《ドラゴンの鱗/Dragon Scales》が入っているが、《エイヴンの遠見/Aven Farseer》というせっかくの獲物を目にした《熟達の刃の精鋭/Deftblade Elite》には供給されず。相打った後に、尋は変異を召還する。
+![](https://i.ormos.uk/c7/29/c7295ef027b352ff333152c1d24833b85a18aa562d3572bffff1f5a59364b0fd.jpg)
+
+　尋のデッキには二枚の《ドラゴンの鱗/Dragon Scales》が入っているが、《エイヴンの遠見/Aven Farseer》というせっかくの獲物を目にした《熟達の刃の精鋭/Deftblade Elite》には供給されず。相打った後に、尋は変異を召還する。
 
 　ここで Tuomo は飛行による積極的なビートダウン策を。まずは《羽ばたく戦士/Wingbeat Warrior》を素で召還し、続けて《慧眼のエイヴン/Keeneye Aven》を。尋も二体の《腐敗を導く者/Shepherd of Rot》、《白騎士/White Knight》と展開するが、いかんせんそれらは地に這う物達。
 

@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![Helldozer cell phone wallpaper](http://www.wizards.com/global/images/mtgcom_default_proteuscellwallpaper_pic1_en.jpg)Proteus Inc., one of the leading wireless services and applications companies, is working with Wizards of the Coast to offer **Magic: The Gathering** wallpaper for your cell phone! 
+![Helldozer cell phone wallpaper](http://www.wizards.com/global/images/mtgcom_default_proteuscellwallpaper_pic1_en.jpg)
+
+Proteus Inc., one of the leading wireless services and applications companies, is working with Wizards of the Coast to offer **Magic: The Gathering** wallpaper for your cell phone! 
 
 The wallpapers are available now for download [via their e-store](http://magic.ecms.proteus.com/) and cost $1.99. Carriers include AT&T Wireless, Cingular Wireless, Sprint PCS, and Verizon and their website has a list of supported cell phone models and manufacturers.
 

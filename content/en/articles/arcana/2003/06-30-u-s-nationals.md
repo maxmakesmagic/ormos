@@ -215,7 +215,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/natus03/a639.jpg)Josh Wagener is the 2003 U.S. National Champion! Though going into the finals of the event everyone in the building assumed he would come out second, Wagener showed them all with a definitive 3-0 win over Gabe Walls. A virtual unknown going into this event, Wagener had only been seen in the quarterfinals of Grand Prix - Boston earlier this year. Hemmed in by pros on all sides, his was the last name you expected to see in lights at Sunday's close.
+![](http://www.wizards.com/sideboard/images/natus03/a639.jpg)
+
+Josh Wagener is the 2003 U.S. National Champion! Though going into the finals of the event everyone in the building assumed he would come out second, Wagener showed them all with a definitive 3-0 win over Gabe Walls. A virtual unknown going into this event, Wagener had only been seen in the quarterfinals of Grand Prix - Boston earlier this year. Hemmed in by pros on all sides, his was the last name you expected to see in lights at Sunday's close.
 
 In the quarters he faced Brian Kibler, and his Red-Green Beats made short work of the dragonmaster's mono-black aggro deck. Meanwhile Justin Gary pulled out the upset win over Jon Finkel in the battle of the former champions, and Wagener bashed him too. Walls was enjoying a similarly easy road, overcoming first Mike Turian and then Jordan Berkowitz (who had just dispatched his former mentor and Dark Jedi Master Neil Reeves) and making it look like child's play. So while Gary got to best Berkowitz for a spot on the team in the playoff, Wagener and Walls faced off for the title. Pundits gave Walls an easy win in three. It was not to be. 
 

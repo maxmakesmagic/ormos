@@ -311,7 +311,9 @@ render_recovery:
 ---
 * * *
 
-![Anton Jonsson](http://www.wizards.com/sideboard/images/ptams04/jonsson.jpg)Anton Jonsson started today as one of three players with a 7-0 record. After a messy draft three that saw him sitting last along a three player string of green drafters he found himself dropping his first two matches today. Now only Antoine Ruel remained undefeated and Anton had slipped back into a pack of twenty-two players with 7-2 records. It's possible he could only afford to take one more loss for the remainder of the day if he hoped to make the Top 8. If he accomplished that feat it would be his fourth Top 8 out of eight Day Two appearances--a pretty heady batting average.
+![Anton Jonsson](http://www.wizards.com/sideboard/images/ptams04/jonsson.jpg)
+
+Anton Jonsson started today as one of three players with a 7-0 record. After a messy draft three that saw him sitting last along a three player string of green drafters he found himself dropping his first two matches today. Now only Antoine Ruel remained undefeated and Anton had slipped back into a pack of twenty-two players with 7-2 records. It's possible he could only afford to take one more loss for the remainder of the day if he hoped to make the Top 8. If he accomplished that feat it would be his fourth Top 8 out of eight Day Two appearances--a pretty heady batting average.
 
 Despite his green troubles in the previous draft, Anton was not going to swear off the color as many other players have this weekend. Rather, when he opened his first pack he seemed to be avoiding blue. He passed both Domineer and Somber Hoverguard to take a Bonesplitter. His next pick offered him a choice of Electrostatic Bolt, Blinding Beam, and Goblin Replica. He quickly narrowed the decision down to the Beam and the Bolt and after much deliberation took the removal spell. 
 

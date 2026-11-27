@@ -512,7 +512,9 @@ That's right—if your opponent doesn't pay the Leafcaller enough respect, it'll
 
 ### You Clan Do It
 
-![](https://i.ormos.uk/a4/22/a422cefa3be6ebf91cdc61c935c3be922bab36facf578ad5a8566a52e1dc4429.jpg)Inspired by my preview of Mirror Gallery, Rich Krall made up a neat family-oriented theme deck. It's got Brothers, Sisters, Mothers, Uncles, Grandmothers, and Grandfathers—and it's *not* a *Kamigawa* block Snake deck. In fact, it's red and black (with one green land and an oddball splash of white). The deck was sparked by the Brothers Yamazaki-Mirror Gallery interaction, and it took off from there. Soul Foundry (which, as Rich notes, makes the triplets, quadruplets, etc.) spices up that combo, and the rest is flavor. Some of Rich's notes:
+![](https://i.ormos.uk/a4/22/a422cefa3be6ebf91cdc61c935c3be922bab36facf578ad5a8566a52e1dc4429.jpg)
+
+Inspired by my preview of Mirror Gallery, Rich Krall made up a neat family-oriented theme deck. It's got Brothers, Sisters, Mothers, Uncles, Grandmothers, and Grandfathers—and it's *not* a *Kamigawa* block Snake deck. In fact, it's red and black (with one green land and an oddball splash of white). The deck was sparked by the Brothers Yamazaki-Mirror Gallery interaction, and it took off from there. Soul Foundry (which, as Rich notes, makes the triplets, quadruplets, etc.) spices up that combo, and the rest is flavor. Some of Rich's notes:
 
 Mother of Runes: She takes care of the kids.  
 Grandmother Sengir: She takes care of other people's kids.  

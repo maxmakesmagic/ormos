@@ -76,7 +76,9 @@ render_recovery:
 
 **Dougherty:**･･･いったいどんなスペルを隠したっていうのさ
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a366.jpg)苦笑しながらDoughertyは《嘘か真か/[Fact or Fiction](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fact+or+Fiction)》を選択。そしてDoughertyは続くターンにも《強迫》をプレイ。ここでもGaryはレスポンスで《蓄積した知識》をプレイしてデッキを掘り進み、Doughertyは《対抗呪文/Counterspell》をさらに墓地に送り込んだ。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a366.jpg)
+
+苦笑しながらDoughertyは《嘘か真か/[Fact or Fiction](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fact+or+Fiction)》を選択。そしてDoughertyは続くターンにも《強迫》をプレイ。ここでもGaryはレスポンスで《蓄積した知識》をプレイしてデッキを掘り進み、Doughertyは《対抗呪文/Counterspell》をさらに墓地に送り込んだ。
 
 ダブルマリガンながらも奮闘するDoughertyは続けて《最後の儀式/[Last Rites](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Last+Rites)》をも通そうとするが、これはTop Deckされたばかりの《魔力の乱れ/[Force Spike](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Force+Spike)》でかわされてしまう。
 

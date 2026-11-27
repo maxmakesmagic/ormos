@@ -56,7 +56,9 @@ render_recovery: []
 ### The Twentieth Century Boys:  
  Ken'ichi Fujita and and Kouichirou Maki
 
-![](https://i.ormos.uk/a6/20/a62056580e13ddcd961555d04c04b2799f873fcdfdf563e9c100faae533bbade.jpg)There is a popular Manga that runs in the weekly Big Spirits called "Twentieth Century Boys". It is also the name that has been tagged onto Ken'ichi Fujita and Kouichirou Maki this weekend. It refers to the fact that while each player holds a place of reverence in the Japanese **Magic** community, they have not experienced success since the late 1990's.
+![](https://i.ormos.uk/a6/20/a62056580e13ddcd961555d04c04b2799f873fcdfdf563e9c100faae533bbade.jpg)
+
+There is a popular Manga that runs in the weekly Big Spirits called "Twentieth Century Boys". It is also the name that has been tagged onto Ken'ichi Fujita and Kouichirou Maki this weekend. It refers to the fact that while each player holds a place of reverence in the Japanese **Magic** community, they have not experienced success since the late 1990's.
 
 Ken'ichi Fujita has been playing **Magic** since the release of *The Dark*, years before **Magic** was being translated into Japanese. He and his play group would get together with a Japanese gaming magazine that did features on **Magic** and a Japanese/English dictionary and play the game--a game he still plays to this day. He won the first GP in Japan was 1997 and won in Taipei the following year. He has been a member of the National team and just missed making the Top 8 of this year's Nationals tournament when he came in ninth on tiebreakers.
 

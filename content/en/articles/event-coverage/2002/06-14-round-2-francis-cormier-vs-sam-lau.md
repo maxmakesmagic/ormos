@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a982.jpg)If you pay close attention to event coverage, you may remember Quebec's Francis Cormier as the guy who tried to stop Kai Budde from making Day 2 at [Pro Tour – San Diego](https://web.archive.org/web/20020614000000/http://archive.wizards.com/sideboard/article.asp?x=PTSD02%5C649fm7a). Since then, Cormier has been busy helping to shape the current Type 2 metagame.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a982.jpg)
+
+If you pay close attention to event coverage, you may remember Quebec's Francis Cormier as the guy who tried to stop Kai Budde from making Day 2 at [Pro Tour – San Diego](https://web.archive.org/web/20020614000000/http://archive.wizards.com/sideboard/article.asp?x=PTSD02%5C649fm7a). Since then, Cormier has been busy helping to shape the current Type 2 metagame.
 
 Cormier, of all people, had a hand in shaping the deck the Eugene Harvey won U.S. Nationals with. Louis Boileau, Cormier's friend and playtest partner, was playing against Mike Turian in Magic Online several weeks ago, and Turian was playing blue-green Opposition, similar to the deck Pat Chapin played to a second-place finish in GP Milwaukee. Boileau bugged Turian for the decklist, and he and Cormier sat down to playtest with it. Their improvement was to add red, giving the deck access to [Fire/Ice](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fire%2FIce) and [Flametongue Kavu](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu). Cormier stayed in touch with Turian via email, and Mike loved the changes. Cormier made top 8 at Regionals with the deck, and Turian made top 8 at Milwaukee. The rest is history.
 
@@ -65,7 +67,9 @@ Cormier cast another Call from his hand. Lau had the Logic, but didn't counter, 
 
 Cormier tried a [Firebolt](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) on Lau's Familiar, but Lau [Memory Lapse](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Lapse)d it. Cormier then cast a third Call from his hand, and I'm sure Lau was quietly wishing for [Liquify](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Liquify). He countered the Call with Circular Logic, and then Repulsed the remaining token on his turn.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a983.jpg)Cormier Firebolted the Familiar successfully on his next turn, and tried to flashback a Call, but Lau unloaded the two Force Spikes in his hand to counter it. Lau put out another Familiar on his turn.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a983.jpg)
+
+Cormier Firebolted the Familiar successfully on his next turn, and tried to flashback a Call, but Lau unloaded the two Force Spikes in his hand to counter it. Lau put out another Familiar on his turn.
 
 Cormier cast another Firebolt at it (all five spells he had attempted had flashback, a fine strategy versus control), and Lau simply regenerated. Cormier then split a [Violent Eruption](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Violent+Eruption) on the 1/1 and the 'Tog, and Lau removed a few cards from his graveyard to keep the Psychatog alive.
 
@@ -85,7 +89,9 @@ Lau was holding at least one [Ghastly Demise](https://web.archive.org/web/200206
 
 Cormier 1 – Lau 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a985.jpg)Game 3 started slowly – Cormier put out a Lavamancer on turn one, and Lau Repulsed it on turn three. Cormier then put out a [Yavimaya Barbarian](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Yavimaya+Barbarian) and the Lavamancer again, and Lau chose to Fact or Fiction instead of Repulsing the Lavamancer and Demising the Barbarian. He took two Psychatogs over two Islands and a Ghastly Demise since he was holding two lands and a Demise already. The fact that he had played a [Cephalid Coliseum](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cephalid+Coliseum) on turn 2 made Cormier believe he was scrambling for mana.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a985.jpg)
+
+Game 3 started slowly – Cormier put out a Lavamancer on turn one, and Lau Repulsed it on turn three. Cormier then put out a [Yavimaya Barbarian](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Yavimaya+Barbarian) and the Lavamancer again, and Lau chose to Fact or Fiction instead of Repulsing the Lavamancer and Demising the Barbarian. He took two Psychatogs over two Islands and a Ghastly Demise since he was holding two lands and a Demise already. The fact that he had played a [Cephalid Coliseum](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cephalid+Coliseum) on turn 2 made Cormier believe he was scrambling for mana.
 
 Lau put out a 'Tog and Demised the Barbarian. Cormier was forced to try and win by going to the dome; he launched a pair of Firebolts at Lau and then shot him with the Lavamancer. The Lavamancer fell to a Demise, but Cormier kept the burn coming – a third Firebolt hit, taking Lau to 6, but a Violent Eruption was Counterspelled.
 

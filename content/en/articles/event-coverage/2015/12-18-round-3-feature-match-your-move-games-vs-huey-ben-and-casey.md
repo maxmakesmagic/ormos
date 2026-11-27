@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPITT00/Images/FMhbc.jpg)The feature matches for this event have been amazing so far: Potato Nation vs 2 Lawyers and a Leiher, Car Acrobatic Team v Egghead Games, and in round 3 it was Your Move Games against Huey, Ben, and Casey.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPITT00/Images/FMhbc.jpg)
+
+The feature matches for this event have been amazing so far: Potato Nation vs 2 Lawyers and a Leiher, Car Acrobatic Team v Egghead Games, and in round 3 it was Your Move Games against Huey, Ben, and Casey.
 
 Dave Humpherys used Stinging Barrier to kill Casey McCarrel's Overtaker and McCarrel had trouble drawing Island #2 in his blue/red deck. Humpherys punished him and won a quick game 1. Meanwhile Rob Dougherty used Spidersilk Armor to hold off Billy Jensen's horde of Rebels. It looked like Jensen's recruiting would eventually pay off, but Dougherty dropped Dawnstrider. Huey had no way in his mono-white deck to kill Dawnstrider and he conceded once it was obvious he was going to be decked.
 

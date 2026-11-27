@@ -82,7 +82,9 @@ render_recovery:
 
 In the beginning of September, programmerman wrote me an e-mail to describe two weekly casual tournaments he thought might interest me. One was Thursday Online **Magic** Experience, or TOME, which I'll write about another day. The other was the Pauper Deck Challenge, or PDC. 
 
-![](https://i.ormos.uk/a3/fc/a3fceea8cdb184daf571d1c68121801ea45d1445a0ecb9f00f374201efc8a2e6.jpg)Many people know of and play Peasant **Magic**, a format in which only commons and a small handful of uncommons are legal. In fact the creator of the format, Robert Baranowski, wrote [an article](/en/articles/feature/2002/06-12-peasant-magic) about Peasant **Magic** for this site. Fewer people, though, know about the Pauper format, in which it's all commons all the time. 
+![](https://i.ormos.uk/a3/fc/a3fceea8cdb184daf571d1c68121801ea45d1445a0ecb9f00f374201efc8a2e6.jpg)
+
+Many people know of and play Peasant **Magic**, a format in which only commons and a small handful of uncommons are legal. In fact the creator of the format, Robert Baranowski, wrote [an article](/en/articles/feature/2002/06-12-peasant-magic) about Peasant **Magic** for this site. Fewer people, though, know about the Pauper format, in which it's all commons all the time. 
 
 That's right: In Pauper **Magic**, you can build any sixty-card deck you want... provided you only use commons. For ***Magic** Online*, the accepted rules of Pauper are that all commons are legal (except, sometimes, Cranial Plating... more on this in a bit). Uncommons that have online common equivalents, like the Circles of Protection, Chromatic Sphere, and Stream of Life, are legal. Uncommons that have common equivalents before *Invasion*, however, are illegal. 
 
@@ -164,7 +166,9 @@ At least... until now.
 
 ### Commons, Meet Combo
 
-![](https://i.ormos.uk/0c/b5/0cb54b384001d1acbb5c7a06d75a144e86a09ce888e594b4490baf3bda16e36c.jpg)Since I knew I'd be writing this for Combo Week, I asked around but no one had ever heard of a PDC combo deck. Nate Heiss, meanwhile, was complaining over e-mail that Combo Week was coming up and he had [already written about](/en/articles/buildingonabudget/2004/09-10-ironworks) Krark-Clan Ironworks. We put our heads together and I asked him if he'd be willing to make a PDC combo deck. He said he'd work on it and would get back to me.
+![](https://i.ormos.uk/0c/b5/0cb54b384001d1acbb5c7a06d75a144e86a09ce888e594b4490baf3bda16e36c.jpg)
+
+Since I knew I'd be writing this for Combo Week, I asked around but no one had ever heard of a PDC combo deck. Nate Heiss, meanwhile, was complaining over e-mail that Combo Week was coming up and he had [already written about](/en/articles/buildingonabudget/2004/09-10-ironworks) Krark-Clan Ironworks. We put our heads together and I asked him if he'd be willing to make a PDC combo deck. He said he'd work on it and would get back to me.
 
 In the meantime, I scanned the ***Magic** Online* commons for cards that might make up a combo deck. I saw Erratic Explosion, Daru Spiritualist, and Cavern Harpy, all of which are part of existing combo decks in other formats. In fact, for a second I pictured Daru Spiritualist, Imagecrafter, Quadropod, and Crafty Pathmage before I came to my senses. Escape Routes seemed like it had merit at one point, but was too expensive and slow. 
 

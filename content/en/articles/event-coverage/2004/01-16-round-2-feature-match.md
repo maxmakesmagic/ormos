@@ -44,7 +44,9 @@ archive_source:
   sha256: 88ec0105825e54c787903d4cfc272b100fa465eeff02a87f34d572af12c629a0
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm3_1.jpg)Mike Turian is a Pro Tour veteran with plenty of high finishes on his resume. He's done well in both Limited and Constructed, but he's especially not someone you want to play against when the format asks for forty card decks. This round he's against CMU/TOGIT teammate Antonio De Rosa, who has solid Pro Tour finishes in the past and has done extremely well on the Grand Prix circuit, but is still looking for his first Pro Tour Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm3_1.jpg)
+
+Mike Turian is a Pro Tour veteran with plenty of high finishes on his resume. He's done well in both Limited and Constructed, but he's especially not someone you want to play against when the format asks for forty card decks. This round he's against CMU/TOGIT teammate Antonio De Rosa, who has solid Pro Tour finishes in the past and has done extremely well on the Grand Prix circuit, but is still looking for his first Pro Tour Top 8.
 
 Turian- "We have the best two decks at the table, and we're the two best-looking guys."  
  De Rosa- "That's true, we are the sexiest"

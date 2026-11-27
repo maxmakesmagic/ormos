@@ -80,7 +80,9 @@ render_recovery:
   - Fear
   occurrences: 59
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a588.jpg)With multiple Pro Tour and Grand Prix victories and top 8s, these two players need no introduction. As they are shuffling their decks Mark Rosewater comes over and asks Rob if YMG has something new to spring upon the world. Rob replies " I have a newborn.. what do you think?"
+![](http://www.wizards.com/sideboard/images/pthou02/a588.jpg)
+
+With multiple Pro Tour and Grand Prix victories and top 8s, these two players need no introduction. As they are shuffling their decks Mark Rosewater comes over and asks Rob if YMG has something new to spring upon the world. Rob replies " I have a newborn.. what do you think?"
 
 Both players are playing a reanimator deck. The main difference is that MikeyP, who nicknamed his deck "The Don", has 10 reanimation spells his Blue and Black version while Rob has 8 in mono Black version. The Don is built for speed as it has twelve spells on turn one that can put a fatty into the graveyard (4 each of Entomb, Careful Study and Hapless Researcher). The YMG deck also features a full assortment of discard spells, including four each of Duress, Cabal Therapy and Last Rites. 
 
@@ -88,7 +90,9 @@ Both players are playing a reanimator deck. The main difference is that MikeyP, 
 
 Rob wins the roll and elects to go first. He mulligans a miserable hand which only has two Cabal Therapies and a five various lands. His new hand is much better and his first turn Duress takes a Mana Leak from MikeyP's hand which also has two Careful Studies, an Entomb and three various lands. MikeyP can only play a land and say done. Rob's next turn is textbook benzo as he entombs for a Visara and then reanimates it with Reanimate, taking 6 in the process. MikeyP entombs his own Visara at the end of Rob's turn. He top decks a Duress, but it whiffs when Rob reveals his hand of Verdant force and City of Traitors. MikeyP then searches for answers with Careful Study, but all he can find are more lands which he discards. Rob Last Rites for 1 and takes MikeyP's last non land spell, a Careful Study. MikeyP draws consecutive lands while Visara bashes his face in.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a589.jpg)MikeyP sideboards in the traditional Reanimator sideboard, which includes Mesmeric Fiends and Guilded Drakes. Rob goes with Plan B, a transformational sideboard as he takes out his exhumes and off color fatties for beatdown such as Phyrexian Negator, and Faceless Butcher.
+![](http://www.wizards.com/sideboard/images/pthou02/a589.jpg)
+
+MikeyP sideboards in the traditional Reanimator sideboard, which includes Mesmeric Fiends and Guilded Drakes. Rob goes with Plan B, a transformational sideboard as he takes out his exhumes and off color fatties for beatdown such as Phyrexian Negator, and Faceless Butcher.
 
 ### Game 2
 

@@ -74,7 +74,9 @@ render_recovery:
   - Strength of Lunacy
   occurrences: 18
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a982.jpg)Sam Lau has a national championships, a GP and two Top 8 APAC finishes to his name. TBS needs no introduction. For those confused, he is the Grand Prix - Capetown Champion, and a Pro Tour regular. His friendly nature has earned him a fan following in the thousands. He is also a friend to children and adults alike.
+![](http://www.wizards.com/sideboard/images/gpkl02/a982.jpg)
+
+Sam Lau has a national championships, a GP and two Top 8 APAC finishes to his name. TBS needs no introduction. For those confused, he is the Grand Prix - Capetown Champion, and a Pro Tour regular. His friendly nature has earned him a fan following in the thousands. He is also a friend to children and adults alike.
 
 Apparently both have been spending their bye time practicing against each other. What has typically happened in the practice games is that Ben's Strengths of Lunacy and discard effects end up wrecking Sam as he has very little creature removal. Seck also has this red creature called Kamahl that I hear is quite good. As you may have already gathered from the other Sideboard article, Sam's deck is less than stellar. 
 
@@ -92,7 +94,9 @@ Lau 1 Seck 0
  Seck: +1 Forest +1 Possessed Centaur +1 Rancid Earth +1 Earth Rift -1 Swamp -1 Sonic Seizure, -1 Strength of Lunacy -1 Diabolic Tutor  
  Lau: No changes
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a983.jpg)It was at this point the question of whether not to ID was raised. Ben didn't feel very lucky, having bad feature match luck and just having lost the first game. Sam knew that he needs an above average hand to have a chance of beating Seck, and if both get similar hands Ben's cards quality will overpower him. Both were at 4-0, so if they ID'd then they each would need to win just one of two more matches to safely make it to Day Two.
+![](http://www.wizards.com/sideboard/images/gpkl02/a983.jpg)
+
+It was at this point the question of whether not to ID was raised. Ben didn't feel very lucky, having bad feature match luck and just having lost the first game. Sam knew that he needs an above average hand to have a chance of beating Seck, and if both get similar hands Ben's cards quality will overpower him. Both were at 4-0, so if they ID'd then they each would need to win just one of two more matches to safely make it to Day Two.
 
 Ben said he would look at his opening hand first. It was a one land hand, and he was going first. He offered the draw. Sam accepted, revealing his own one-land hand!
 

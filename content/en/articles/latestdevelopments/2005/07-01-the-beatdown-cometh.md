@@ -738,7 +738,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/09/22/09228584d4efedaf113b284456aba1fe0f722537f372ef7cbbb1836475d384e2.jpg)I read a lot of **Magic** message boards, both those on our site and on independent strategy sites, rumor sites, humor sites, you name it.
+![](https://i.ormos.uk/09/22/09228584d4efedaf113b284456aba1fe0f722537f372ef7cbbb1836475d384e2.jpg)
+
+I read a lot of **Magic** message boards, both those on our site and on independent strategy sites, rumor sites, humor sites, you name it.
 
 It always amuses me when someone posts, usually in a thread discussing the merits of a card like Eight-and-a-Half-Tails, that, “Wizards doesn't understand that White Weenie won't be good until they reprint Armageddon and Swords to Plowshares. Why do they even bother?”
 

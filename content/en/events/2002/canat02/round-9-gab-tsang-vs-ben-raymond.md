@@ -83,7 +83,9 @@ render_recovery:
   - Shadowblood Ridge
   occurrences: 24
 ---
-![](http://www.wizards.com/sideboard/images/canat02/a932.jpg)Gab Tsang is one of Canada's oldest Pro Tour fixtures. However lately he's been having trouble posting the sort of blockbuster finishes to which he'd grown accustomed. Now he is on the cusp, needing to win his next four to have a shot at the National Team. His opponent is Ben Raymond, who is in the same boat and looking to improve on last year's quarterfinal exit. Even more interesting is the fact that Tsang wouldn't even be in this position if Terry Tsang hadn't scooped to him in the eighth round, thinking Gab had a far better deck and therefore the best chance to win out.
+![](http://www.wizards.com/sideboard/images/canat02/a932.jpg)
+
+Gab Tsang is one of Canada's oldest Pro Tour fixtures. However lately he's been having trouble posting the sort of blockbuster finishes to which he'd grown accustomed. Now he is on the cusp, needing to win his next four to have a shot at the National Team. His opponent is Ben Raymond, who is in the same boat and looking to improve on last year's quarterfinal exit. Even more interesting is the fact that Tsang wouldn't even be in this position if Terry Tsang hadn't scooped to him in the eighth round, thinking Gab had a far better deck and therefore the best chance to win out.
 
 The first action was Raymond's Werebear getting hit by Lava Dart. A Rootwalla stepped in its place. Tsang got his beats going with Treacherous Werewolf, but had nothing to say about Raymond's suiting up his Roowalla with Ghostly Wings. He took four. Barbarian Bully followed. Raymond stopped it with Aven Smokeweaver.
 
@@ -95,7 +97,9 @@ He made a Warthog, but then inexplicably attacked with his Aven Smokeweaver. Tha
 
 Tsang 1 - Raymond 0
 
-![](http://www.wizards.com/sideboard/images/canat02/a931.jpg)Tsang mulliganed in Game 2, then pulled up six with just a mountain to go with Mad Dog and Crackling Club. He kept it.
+![](http://www.wizards.com/sideboard/images/canat02/a931.jpg)
+
+Tsang mulliganed in Game 2, then pulled up six with just a mountain to go with Mad Dog and Crackling Club. He kept it.
 
 While he was busy sitting very still, Raymond was busting out such hits as Wormfang Newt, Ghostly Wings and Wormfang Turtle. The fact that they gobbled Raymond's lands was just insult to injury. It didn't last long.
 
@@ -107,7 +111,9 @@ Raymond was hardly idle. Nullmage Advocate came down swinging and Aven Smokeweav
 
 Finally off the top came a swamp, and the Butcher locked up the Smokeweaver. Raymond was far from done. Chamber of Manipulation took the Butcher and let him hit three more. Tsang was at eleven, Raymond, thirteen. Tsang hit back with his Gouger and dropped Rancid Earth on the Chambered land. He briefly considered Darting the Artist while he could, but he was dying for that fifth land and couldn't afford to go back to three. Two Lightning Surges and a Liquid Fire languished in his hand.
 
-![](http://www.wizards.com/sideboard/images/canat02/a930.jpg)Then, a reprieve. Raymond swung for one and added nothing to his board. Tsang drew Grotesque Hybrid. He flashed back his Charge only to see it Enveloped. Raymond hit for one more and again sat on his mana. Tsang pulled Swelter, and decided to give it a go, threatening to finish the Nullmage Advocate with Lava Dart. Raymond decided it was worth a Fervent Denial.
+![](http://www.wizards.com/sideboard/images/canat02/a930.jpg)
+
+Then, a reprieve. Raymond swung for one and added nothing to his board. Tsang drew Grotesque Hybrid. He flashed back his Charge only to see it Enveloped. Raymond hit for one more and again sat on his mana. Tsang pulled Swelter, and decided to give it a go, threatening to finish the Nullmage Advocate with Lava Dart. Raymond decided it was worth a Fervent Denial.
 
 He untapped and dropped Centaur Cheiftain. He wasn't at threshold, but Tsang wasn't at that much life. He could double up with Butcher and Gouger, but that would only free the Aven. He decided to take it and the Artist, falling to five. Tsang knocked his deck. Pardic Firecat. It was enough. Now he could blunt Raymond's next attack. He traded the Gouger for the Chieftain and bounced the Advocate of the Firecat. He was at four. Raymond was at threshold. Raymond made Werebear.
 

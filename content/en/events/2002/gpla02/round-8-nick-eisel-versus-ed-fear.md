@@ -186,7 +186,9 @@ Six people entered this round undefeated, and only three would emerge day one wi
 
 ### Game One:
 
-![](https://www.wizards.com/sideboard/images/gpla02/955.jpg)Ed won the opening die roll festivities and played first, dropping turn one swamp. Nick went one up on his opponent, using his first turn forest to bring out Birchlore Rangers. Nick’s hand consisted of some lands, some morph creatures, and Rorix. Ed flashed his hand to me, consisting of no answers to Rorix. 
+![](https://www.wizards.com/sideboard/images/gpla02/955.jpg)
+
+Ed won the opening die roll festivities and played first, dropping turn one swamp. Nick went one up on his opponent, using his first turn forest to bring out Birchlore Rangers. Nick’s hand consisted of some lands, some morph creatures, and Rorix. Ed flashed his hand to me, consisting of no answers to Rorix. 
 
 Ed Fear: “Would you like to swing with your guy? Block.”  
  Nick: “I don’t swing.”  
@@ -257,7 +259,9 @@ Ed: “There’s no chance I’ll draw my Shock next turn and kill you.”
  Antoninio: “It’s a race!”  
  Ed: “I hope I win.”
 
-![](https://www.wizards.com/sideboard/images/gpla02/957.jpg)Nick brought big red into the big red zone, dropping Ed to twelve life. He took this opportunity to smash the Undorak with Pinpoint Avalanche. Krosan Tusker entered the red zone, while Ed drew Cruel Revival. This allowed him to smash Rorix to death, get back Fallen Cleric, and be ahead of the game by a life total of 12-5. Ed took the opportunity to get a swamp with the Mire, allowing him to cast Nantuko Husk. Nick cleared the board with a five point Starstorm after untapping.
+![](https://www.wizards.com/sideboard/images/gpla02/957.jpg)
+
+Nick brought big red into the big red zone, dropping Ed to twelve life. He took this opportunity to smash the Undorak with Pinpoint Avalanche. Krosan Tusker entered the red zone, while Ed drew Cruel Revival. This allowed him to smash Rorix to death, get back Fallen Cleric, and be ahead of the game by a life total of 12-5. Ed took the opportunity to get a swamp with the Mire, allowing him to cast Nantuko Husk. Nick cleared the board with a five point Starstorm after untapping.
 
 Ed brought Fallen Cleric and Elvish Warrior into play, both of which died via Erratic Explosion and Shock. 
 

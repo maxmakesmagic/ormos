@@ -88,7 +88,9 @@ render_recovery:
   - Psionic Gift
   occurrences: 84
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a913.jpg)Two relatively unknown players were at the top of the standings, both playing blue/green. The winner would certainly have a good chance at the Top 8 today. Adam Prosak's best tournament finish so far has been top 8 at the Ohio Regional's and 22nd at Nationals, and while Josh Shroll learned the game a while ago, he has only been playing competitively for six months. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a913.jpg)
+
+Two relatively unknown players were at the top of the standings, both playing blue/green. The winner would certainly have a good chance at the Top 8 today. Adam Prosak's best tournament finish so far has been top 8 at the Ohio Regional's and 22nd at Nationals, and while Josh Shroll learned the game a while ago, he has only been playing competitively for six months. 
 
 Josh started the game with a double mulligan and led with double Cephalid Colesium and an Aquameoba which was met with Adam's Catalyst stone. Josh was able to pitch Wonder in the grave as he attacked. The next time Josh played an Island all his men would gain flying. Josh was able to cast Standstill. With Wonder in the graveyard, Adam would probably have to break the Standstill.
 
@@ -96,7 +98,9 @@ In the blue/green vs. blue/green matchup, if one player gets Wonder and the othe
 
 Josh played his first basic land, a forest, Aether Burst the Wurm, and attacked. 11 to 15 life points in Josh's favor. Josh also made a Basking Rootwalla. On Adam's turn was forced to hard cast Wonder, having no way to pitch it into the grave, and Josh had yet another Aether Burst. It looked like Josh would be able to win this race now. Josh attacked and on Adam's turn he hard cast Wonder yet again, and then made another Wurm token from the graveyard.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a916.jpg)The next turn would be the critical turn. Josh attacked with Aquamoeba and Basking Rootwalla. Adam blocked the Basking Rootwalla with Wonder. Josh flipped the power and toughness of the Aquamoeba by pitching a Arrogant Wurm with madness. After this attack the life score would be 13-4 and the only way for Adam to possibly win would be to somehow get his Wonder to die. Josh pumped his Basking Rootwalla before damage to save it. If only he had assigned 1 damage to Wonder, then pumped the Basking Rootwalla after damage leaving Wonder alive and not in the graveyard, he could have kept nearly all of Adam's men on the ground.
+![](http://www.wizards.com/sideboard/images/gpcle02/a916.jpg)
+
+The next turn would be the critical turn. Josh attacked with Aquamoeba and Basking Rootwalla. Adam blocked the Basking Rootwalla with Wonder. Josh flipped the power and toughness of the Aquamoeba by pitching a Arrogant Wurm with madness. After this attack the life score would be 13-4 and the only way for Adam to possibly win would be to somehow get his Wonder to die. Josh pumped his Basking Rootwalla before damage to save it. If only he had assigned 1 damage to Wonder, then pumped the Basking Rootwalla after damage leaving Wonder alive and not in the graveyard, he could have kept nearly all of Adam's men on the ground.
 
 On Adam's next turn he attacked and put the life score 3-4, and then cast Grizzly Fate, tokens which now having flying were able to foil Josh's next all out attack, giving Adam the win.
 
@@ -106,7 +110,9 @@ Game 2 was brutal. Let me tell you Josh's game: Turn 2 Aquameoba. Turn 3 madness
 
 1-1
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a917.jpg)"I like Cephalid Coliseum, Cephalid Coliseum better," Adam said.
+![](http://www.wizards.com/sideboard/images/gpcle02/a917.jpg)
+
+"I like Cephalid Coliseum, Cephalid Coliseum better," Adam said.
 
 Game 3 Tim Aten walked up next to Josh to observe the match. Adam commented how bad luck Tim was. Sure enough, a double mulligan on Josh's side and a few turns later the game looked like: Josh with 1 creature in play, 4 lands, and a Moment's Peace and a couple other cards in the graveyard, while Adam had two Wild Mongrels, a Werebear with Threshold, five lands in play, Wonder in the graveyard and some Roar of the Wurms in the graveyard. In a couple of turns, Adam was able to maul his opponent, taking advantage of a double mulligan and being able to go first to attack for the win.
 

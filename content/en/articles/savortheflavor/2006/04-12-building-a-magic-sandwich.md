@@ -87,7 +87,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/05/93/0593d9b11849612215ab2f20ff29106ebe2fc53606d2b4aa4f5b47e595cf9204.jpg)I got the idea for today's article while bumping through an old folder on my computer that contained sketches and old versions of **Magic** art from a while back. It was when I noticed how certain illustration evolved that I thought it might be cool to show this evolution over the entire creative process of a **Magic** card. Depending on how it is received, there may be more installments of Building a Magic Sandwich in the future.'
+![](https://i.ormos.uk/05/93/0593d9b11849612215ab2f20ff29106ebe2fc53606d2b4aa4f5b47e595cf9204.jpg)
+
+I got the idea for today's article while bumping through an old folder on my computer that contained sketches and old versions of **Magic** art from a while back. It was when I noticed how certain illustration evolved that I thought it might be cool to show this evolution over the entire creative process of a **Magic** card. Depending on how it is received, there may be more installments of Building a Magic Sandwich in the future.'
 
 Why “Magic Sandwich?” The answer is not terribly sexy - it's a thing that has lots of parts that make up a whole and, you guessed it, it also has flavor. We're going to kick off Building a Magic Sandwich with a card that I illustrated, Goblin Flectomancer. It's the particular file I found on my computer that gave me this idea in the first place. Actually, it was multiple Flectomancer files that I found, and that's what gave me the idea. Anyway, enough with the intro, let's get to the meat!
 

@@ -463,7 +463,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/94/8f/948f932606c8eab21f67185c6fb2588b3a0b4e70834d23363ea96dc29e8d2613.jpg)A bit of exposition first - If you've looked at the art for Vulshok Berserker and Grafted Wargear as many times as I have, maybe you've asked yourself the same question. Before he put on that Wargear, was the Berserker a 0/0?
+![](https://i.ormos.uk/94/8f/948f932606c8eab21f67185c6fb2588b3a0b4e70834d23363ea96dc29e8d2613.jpg)
+
+A bit of exposition first - If you've looked at the art for Vulshok Berserker and Grafted Wargear as many times as I have, maybe you've asked yourself the same question. Before he put on that Wargear, was the Berserker a 0/0?
 
 With the release of *Mirrodin*, equipment quickly became one of my least favorite elements of the new set. I was playing a bit of Sealed Deck, and the powerful equipment seemed to put things way on tilt. In a sense, it was a lot like playing against Pro-Tour Jank back in the 1997 tournament scene. The specific cards in the deck aren't too important if you aren't familiar with the deck, as the point is that here was a deck that asked you to do everything. You had to have cards to kill their creatures. But wait, you had to be able to deal with their Cursed Scroll. But wait, you had to be able to deal with Mishra's Factory. Keep a high enough life total to avoid being burned! Pro-Tour Jank was one of the first aggressive decks that asked you to answer nearly everything, and at the right time too. You couldn't be content to just be good at handling creatures, but you had to be able to Disenchant as well.
 
@@ -491,7 +493,9 @@ Let's use the example of Wild Mongrel. He's an efficient 2/2 for 2, and on the t
 
 Super-cheap guys aren't the only things that can make fantastic use of a Wargear. Tramplers can do even better. A lowly Slith Predator can turn into a 4/3 ever-growing Trampler. Spark Elemental turns into a Ball Lightning +0/+2. You never did care if it was going to die, did you? A Blistering Firecat turns into a ridiculous 10/3 trampler at the drop of the hat. Blistering Firecat is an excellent example for other reasons as well.
 
-![](https://i.ormos.uk/a0/84/a08464db6be21dd2fed1962b8574c7bb887a2a7ab61c342c09467dbb9285b23b.jpg)As a morph, Firecat is somewhat useful on its lonesome. It can block and kill big creatures, it can avoid Story Circle. But really, it isn't that ferocious. It's as a 7/1, that the card is scary. But as a 5/4, even unmorphed, the Firecat can pull off a lot of damage. Effectively, a Wargear and a Firecat can pull off 20 damage in 3 swings, unless someone does something to stop it. Of course, if it happens to be a blocker, your Firecat plays kamikaze, so it isn't all that bad.
+![](https://i.ormos.uk/a0/84/a08464db6be21dd2fed1962b8574c7bb887a2a7ab61c342c09467dbb9285b23b.jpg)
+
+As a morph, Firecat is somewhat useful on its lonesome. It can block and kill big creatures, it can avoid Story Circle. But really, it isn't that ferocious. It's as a 7/1, that the card is scary. But as a 5/4, even unmorphed, the Firecat can pull off a lot of damage. Effectively, a Wargear and a Firecat can pull off 20 damage in 3 swings, unless someone does something to stop it. Of course, if it happens to be a blocker, your Firecat plays kamikaze, so it isn't all that bad.
 
 With all of this talk of Ball Lightnings, Blistering Firecats, and Spark Elementals, not mentioning haste would be bad. Haste is a great ability for cards like Grafted Wargear. Wargear is going to be good as long as it is on an attacking creature. The best laid plans of mice and men do at times fall apart. A Wrath of God can wipe out your board, leaving you with a Wargear. But then a good Haste creature can immediately pick up the reins and go to town. Wargear and Lightning Greaves actually complement each other quite well in this department.
 

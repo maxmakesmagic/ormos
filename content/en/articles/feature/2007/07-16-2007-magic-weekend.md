@@ -63,6 +63,8 @@ render_recovery: []
 ---
 ### Dan Scott
 
-![Dan Scott](https://media.magic.wizards.com/image_legacy_migration/events/images/dan_scott.jpg)"Dan Scott has been working professionally in the genre of fantastic art since around 1996. He has produced art for **Magic:The Gathering**, Dungeons and Dragons, Warhammer 40K, Warhammer Fantasy, and DC Comics among others.
+![Dan Scott](https://media.magic.wizards.com/image_legacy_migration/events/images/dan_scott.jpg)
+
+"Dan Scott has been working professionally in the genre of fantastic art since around 1996. He has produced art for **Magic:The Gathering**, Dungeons and Dragons, Warhammer 40K, Warhammer Fantasy, and DC Comics among others.
 
 Dan has illustrated Magic: The Gathering cards for almost every set since Champions of Kamigawa. Check out his work at [www.danscottart.com](http://www.danscottart.com/).

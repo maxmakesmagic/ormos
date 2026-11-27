@@ -68,7 +68,9 @@ render_recovery:
   - Figure of Destiny
   occurrences: 1
 ---
-![](https://i.ormos.uk/ff/45/ff45980db694abc1c502bf75e169bf5590fc347e701649265625efbb6ec841c4.jpg)his is the end of Level Up Week on DailyMTG.com. Today I'll talk about two parts of the design and development process that the level up creatures went through.
+![](https://i.ormos.uk/ff/45/ff45980db694abc1c502bf75e169bf5590fc347e701649265625efbb6ec841c4.jpg)
+
+his is the end of Level Up Week on DailyMTG.com. Today I'll talk about two parts of the design and development process that the level up creatures went through.
 
 **Magic** is a game of decisions. Most players who have played **Magic** for a while like staying active in a game by making decisions. Limited games that go on for a long time can make players feel that their decisions don't matter anymore. *Rise of the Eldrazi* games were going to go longer than most games. This risked making it feel too non-interactive. Brian Tinsman patterned the level up mechanic after his popular card Figure of Destiny. We, the developers, liked how level up kept players engaged through long games. We chose to put it in the common rarity to ensure that level up cards were in Limited decks.
 

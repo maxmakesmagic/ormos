@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Alex Shvartsman*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/280.JPG)No national pride is on the line in this matchup - just a bit of personal pride as these two friends are paired up against each other in a mirror matchup - literally. The Accelerated Blue deck they are playing is the same, almost to a card. Barrado recently won Grand Prix: Madrid with a NecroDonate deck. Fuentes is the master of mono-blue, he placed in the top 8 of Pro Tour Chicago using a blue control deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/280.JPG)
+
+No national pride is on the line in this matchup - just a bit of personal pride as these two friends are paired up against each other in a mirror matchup - literally. The Accelerated Blue deck they are playing is the same, almost to a card. Barrado recently won Grand Prix: Madrid with a NecroDonate deck. Fuentes is the master of mono-blue, he placed in the top 8 of Pro Tour Chicago using a blue control deck.
 
 Although Fuentes mulliganed in the first game, it was not really relevant. The two players spent about ten minutes just laying lands and occasionally Annulling each others Powder Kegs and Grim Monoliths. Barrado drew slightly fewer lands, so he ended up discarding some Treacheries.
 

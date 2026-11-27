@@ -91,7 +91,9 @@ render_recovery:
   - Island
   occurrences: 71
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a879.jpg)In this matchup, we are in for a battle of aggressive decks. Wiegersma is playing a blue-green tempo archetype. Although blue-green decks cannot directly kill creatures, they feature larger monsters and bounce spells as well as the ability to reach threshold quickly. Wiegersma is also splashing a bit of black for removal spells such as Afflict and Waste Away. Lippert's red-green deck is faster and more aggressive. It also features an array of flashback spells that might allow him to keep up with Wiegersma's blue card economy.
+![](http://www.wizards.com/sideboard/images/gpnap02/a879.jpg)
+
+In this matchup, we are in for a battle of aggressive decks. Wiegersma is playing a blue-green tempo archetype. Although blue-green decks cannot directly kill creatures, they feature larger monsters and bounce spells as well as the ability to reach threshold quickly. Wiegersma is also splashing a bit of black for removal spells such as Afflict and Waste Away. Lippert's red-green deck is faster and more aggressive. It also features an array of flashback spells that might allow him to keep up with Wiegersma's blue card economy.
 
 It is unclear who is favored in this matchup but one thing is for certain – the games are likely to be quite fast.
 
@@ -119,7 +121,9 @@ Both players drew mediocre hands in the second game. Wiegersma kept five lands (
 
 Wiegersma opened with his Farmhand and cast Peek on turn 2 rather than sacrifice it for another land. Second Farmhand joined the team on turn four as Wiegersma lacked beefier creatures (he was holding on to the Sage until Threshold was reached). Lippert cast Acorn Harvest as his first spell. Wiegersma killed one of the squirrels with Afflict, much to the relief of the judge whose job it was to draw the tokens – including the ones likely coming soon from the graveyard!
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a878.jpg)Farmhands bought the farm while blocking the Squirrels and Wiegersma cast an Obsessive Search, getting up to six cards in the graveyard. He also summoned Millikin and tapped it, gaining threshold and finally casting his Cephalid Sage. He found and cast Dreamwinder, shutting down Lippert's offense – or trying to. Lippert spent four cards – casting Sonic Seizure and Acceptable Losses – to kill both creatures, and sent in the furry 1/1's. Wiegersma was not out of gas though – he summoned Krosan Avenger (once again, able to regenerate as there were plenty of cards in his graveyard), and a Cephalid Looter. 
+![](http://www.wizards.com/sideboard/images/gpnap02/a878.jpg)
+
+Farmhands bought the farm while blocking the Squirrels and Wiegersma cast an Obsessive Search, getting up to six cards in the graveyard. He also summoned Millikin and tapped it, gaining threshold and finally casting his Cephalid Sage. He found and cast Dreamwinder, shutting down Lippert's offense – or trying to. Lippert spent four cards – casting Sonic Seizure and Acceptable Losses – to kill both creatures, and sent in the furry 1/1's. Wiegersma was not out of gas though – he summoned Krosan Avenger (once again, able to regenerate as there were plenty of cards in his graveyard), and a Cephalid Looter. 
 
 Lippert needed to build up his forces some more before he could attack again. He summoned Rabid Elephant, while Wiegersma cast Leaf Dancer that was about to Forestwalk for two damage per turn. Balshan Griffin was up next, putting further pressure on the German player. 
 

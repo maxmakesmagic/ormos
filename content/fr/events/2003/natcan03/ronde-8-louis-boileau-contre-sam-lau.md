@@ -73,7 +73,9 @@ render_recovery:
   - Dragon
   occurrences: 19
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a940.jpg)Louis est un jeune québécois qui essaye d'avoir un meilleur résultat que sa neuvième place de l'année passée. Sam est un joueur plus vieux qui a eu des bon résultats dans la passé XYZYXYZYXYZYX.
+![](http://www.wizards.com/sideboard/images/natcan03/a940.jpg)
+
+Louis est un jeune québécois qui essaye d'avoir un meilleur résultat que sa neuvième place de l'année passée. Sam est un joueur plus vieux qui a eu des bon résultats dans la passé XYZYXYZYXYZYX.
 
 Ils étaient à la table deux pour le deuxième draft, Louis s'est construit un deck noir bleu impressionnant avec double Death Pulse et Bane of the Living. Le deck a Sam est un bleu blanc solide avec 2 Day of the Dragons. 
 
@@ -81,13 +83,17 @@ Ils étaient à la table deux pour le deuxième draft, Louis s'est construit un 
 
 Louis commence mais Sam a le premier sort : un Deftblade Elite. Louis pose un morph et Sam enchante son Elite de Dragon Scales et provoque le morph pour le tuer. Louis tente de tuer le Deftblade avec Lingering Death mais Sam détruit l'enchantement noir avec un Piety Charm.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a944.jpg)Un Echo Tracer démorphé permet à Boileau de se débarrasser des Scales mais ceux-ci reviennent aussitôt sur un Noble Templar. La bête blanche se met à l'attaque et Louis tombe vite à 6 vies. Boileau accumule des bloqueurs et cherche des solutions mais un Day of the Dragons finalise la partie.
+![](http://www.wizards.com/sideboard/images/natcan03/a944.jpg)
+
+Un Echo Tracer démorphé permet à Boileau de se débarrasser des Scales mais ceux-ci reviennent aussitôt sur un Noble Templar. La bête blanche se met à l'attaque et Louis tombe vite à 6 vies. Boileau accumule des bloqueurs et cherche des solutions mais un Day of the Dragons finalise la partie.
 
 ### Deuxième Partie
 
 La partie commence de la même façon que la première avec un Elite avec Dragon Scales qui tue le premier morph de Louis. Louis Death Pulse le petit soldat mais Piety Charm le sauve à nouveau. Sam Lau ajoute un Aven Farseer et un morph a son équipe et Louis joue deux Aphetto Runecaster. Une attaque de Farseer met Louis à 14, Sam met sa cinquième plain et un Lowland Tracker.
 
-![](https://i.ormos.uk/c6/d1/c6d1266a52fab01c59167684a5d3d817049c870b4950997388f5d0642725a040.jpg)Louis ne peut trouver une force offensive et des créatures volantes baissent vite ses points de vie à 5. Sam trouve finalement une île et pose Shoreline Ranger, qui gagne des Dragons Scales du cimetière. Louis ne peut arrêter l'assaut et il admet la défaite.
+![](https://i.ormos.uk/c6/d1/c6d1266a52fab01c59167684a5d3d817049c870b4950997388f5d0642725a040.jpg)
+
+Louis ne peut trouver une force offensive et des créatures volantes baissent vite ses points de vie à 5. Sam trouve finalement une île et pose Shoreline Ranger, qui gagne des Dragons Scales du cimetière. Louis ne peut arrêter l'assaut et il admet la défaite.
 
 **Résultat Finale**  
  Sam Lau 2, Louis Boileau 0

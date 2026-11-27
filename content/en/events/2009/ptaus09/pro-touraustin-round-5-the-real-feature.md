@@ -153,7 +153,9 @@ Woods 1, Yasooka 1
 
 **Game 3** 
 
-![](https://i.ormos.uk/80/be/80be78512cae60cb149937b14408f1d793a4d95810d77e0f340413991052c33a.jpg)Woods shook his head as he sent back his first seven. His next six were worth keeping, but Yasooka decided he needed to go down to five, then cast Thoughtseize. Woods held Ghost Quarter, Plains, Phyrexian Arena, Ranger of Eos, and Extirpate. Woods played out his lands and waited.
+![](https://i.ormos.uk/80/be/80be78512cae60cb149937b14408f1d793a4d95810d77e0f340413991052c33a.jpg)
+
+Woods shook his head as he sent back his first seven. His next six were worth keeping, but Yasooka decided he needed to go down to five, then cast Thoughtseize. Woods held Ghost Quarter, Plains, Phyrexian Arena, Ranger of Eos, and Extirpate. Woods played out his lands and waited.
 
 Yasooka dropped a Witness on turn three, and Woods looked with dismay at his uncastable Extirpate. He untapped and Rangered up a pair of Martyrs, but Yasooka was firing on all cylinders. Gifts Ungiven got him Loxodon Heirarch and Duress, and put Cranial Extraction and Witness into the graveyard. He untapped and cast the Duress. Woods, finally with black mana, Extirpated all of Yasooka’s Gifts Ungivens, catching a second one in Yasooka’s hand and leaving him with Path to Exile, Thoughtseize, Makeshift Mannequin, Loxodon Hierarch, and Emeria, the Sky Ruin.
 

@@ -48,7 +48,9 @@ render_recovery: []
 
 **Our thanks to [StarCityGames.com](http://www.starcitygames.com/), who provided the cards for the Auction of Champions.** 
 
-![](https://i.ormos.uk/ad/fd/adfd21a4ec38567af4bd048668228d1933aaa0aca56bb384dbcfe5c4ede6b225.jpg)Months and months of speculation finally ended on Saturday morning with the Invitational Auction of Champions. All 17 Constructed decks that have won Pro Tours were available and the bids were done in terms of opening hand size and opening life totals (the rules were that a bid of 6 cards and 20 life beats a bid of 7 cards, 1 life). Most people felt Tommi Hovi's Academy deck from Pro Tour Rome was the best deck in the field, but the real question was how low it would go. 
+![](https://i.ormos.uk/ad/fd/adfd21a4ec38567af4bd048668228d1933aaa0aca56bb384dbcfe5c4ede6b225.jpg)
+
+Months and months of speculation finally ended on Saturday morning with the Invitational Auction of Champions. All 17 Constructed decks that have won Pro Tours were available and the bids were done in terms of opening hand size and opening life totals (the rules were that a bid of 6 cards and 20 life beats a bid of 7 cards, 1 life). Most people felt Tommi Hovi's Academy deck from Pro Tour Rome was the best deck in the field, but the real question was how low it would go. 
 
 Rumor had it that Alex Shvartsman was going to start the auction by offering up Hovi's deck, but he audibled and nominated Jon Finkel's Tinker deck from the most recent Worlds. Gary Wise sent the bidding down to 6 cards and 20 life, but it was Noah Boeken who wound up with the deck at 6-17. 
 
@@ -60,7 +62,9 @@ Next Gary Wise offered up Mike Long's deck. Long shook his head and sat down qui
 
 There was much rumbling as Randy Buehler's deck was nominated. Along with the other two Extended decks, it was thought to be among the most powerful in the format. There were still 7 people standing when Wise bid 6-16. Pikula sent it to 6-15 and Finkel to 6-14 - the lowest bid so far on any deck. Wise bid 6-13 and then everyone else sat down. Interestingly, many observers felt Wise would have been better off beating his own bid and playing the Necro deck at 5-20. I think he'll have trouble with only 13 life to play with and that 6th card isn't worth 7 life. 
 
-![](https://i.ormos.uk/d3/8b/d38b908789e9f7b6d3737f70a57e062bd8604df9f17d1a7fce0b69c3a6e9a185.jpg)Next up came another heavyweight - Tommi Hovi. They crawled down to about 6-14 and then actually started to think. The crowd murmured in surprise as only three people remained when Finkel sent the deck down to 5 and 20. Long answered with 5-19, Budde sat down, and then Finkel let him have it! With 4 Wastelands in the sideboard to bring in and help make sure he doesn't get mana-screwed while drawing 5-card opening hands, Long seemed very happy with his purchase. 
+![](https://i.ormos.uk/d3/8b/d38b908789e9f7b6d3737f70a57e062bd8604df9f17d1a7fce0b69c3a6e9a185.jpg)
+
+Next up came another heavyweight - Tommi Hovi. They crawled down to about 6-14 and then actually started to think. The crowd murmured in surprise as only three people remained when Finkel sent the deck down to 5 and 20. Long answered with 5-19, Budde sat down, and then Finkel let him have it! With 4 Wastelands in the sideboard to bring in and help make sure he doesn't get mana-screwed while drawing 5-card opening hands, Long seemed very happy with his purchase. 
 
 Trevor Blackwell suggested Alexandre Blumke's 1996 Worlds deck and no one else was willing to make a bid. Thus it was the first deck to go for 7 & 20. Pikula then suggested Bob Maher's deck and took it down to 6-14. Finkel asked him who his remaining opponents were and seemed content to know that Maher's deck would be going up against a few of his competitors for Top 2, so he bowed out. When Rubin also bailed, the "Great One's" deck was sold for 6-14. 
 

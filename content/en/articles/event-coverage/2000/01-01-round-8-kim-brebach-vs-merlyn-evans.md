@@ -44,7 +44,9 @@ archive_source:
   sha256: 0700f0977386087ea5a93d8557dcc54243fd693a238cd24c7ce75739e71785e6
 render_recovery: []
 ---
-![](https://i.ormos.uk/91/bf/91bf1b8b49cb5248cf9cbe3d3ca9d49d7683b8b70c7844cd8272fba01a68f433.jpg)Sydney's Kim Brebach, the 2000 Nationals Runner-Up is paired against Merlyn Evans, Canberra's local hero. Despite being known as excellent players, they are willing to "talk shop" about playtesting regarding each other's deck. Kim made top 8 at GP Sydney in 2000 while Merlyn is heading off to the Pro Tour next month in Nice.
+![](https://i.ormos.uk/91/bf/91bf1b8b49cb5248cf9cbe3d3ca9d49d7683b8b70c7844cd8272fba01a68f433.jpg)
+
+Sydney's Kim Brebach, the 2000 Nationals Runner-Up is paired against Merlyn Evans, Canberra's local hero. Despite being known as excellent players, they are willing to "talk shop" about playtesting regarding each other's deck. Kim made top 8 at GP Sydney in 2000 while Merlyn is heading off to the Pro Tour next month in Nice.
 
 ### Game 1
 
@@ -67,7 +69,9 @@ It's the only attack it gets, as it becomes the target of a Flametongue Kavu, ho
 
 Kim attacks with the FTK but the mongrel not only block but becomes a 5/5 and still lives. Kim flashes back a Call only to have both elephants Aether Bursted out of the game. Merlyn, with the only creature on the board drops the Standstill and swings for another 2 (16). Kim has to crack the Standstill and does so with an opposition but Merlyn still has the circular logic and now 3 extra cards. A second Standstill is dropped and Kim realises that this game is fast slipping away. He notes that he never tried Standstill in his version of Infestation preferring the red burn to the blue bounce and card drawing. The second Standstill again gives Merlyn another 3 cards as a 3rd Call is met with a counterspell.
 
-![](https://i.ormos.uk/e9/0a/e90ac529210db4ad31215905ecf73d3da877db73fed40382993d42d8174fda6f.jpg)Finally, with a hand full of cards Merlyn drops a Zombie Infestation as well as a Call of his own. The Infestation doesn't last long as Kim's sideboard brings a kicked Thunderscape Battlemage into play, giving Merlyn just 1 zombie. The zombie, the elephant and the mongrel attack and the Battlemage trades with the zombie bringing Kim down to 11. The elephant is repulsed in Kim's main phase as he looks to be almost back in the game as Merlyn attacks for only 2 (9).
+![](https://i.ormos.uk/e9/0a/e90ac529210db4ad31215905ecf73d3da877db73fed40382993d42d8174fda6f.jpg)
+
+Finally, with a hand full of cards Merlyn drops a Zombie Infestation as well as a Call of his own. The Infestation doesn't last long as Kim's sideboard brings a kicked Thunderscape Battlemage into play, giving Merlyn just 1 zombie. The zombie, the elephant and the mongrel attack and the Battlemage trades with the zombie bringing Kim down to 11. The elephant is repulsed in Kim's main phase as he looks to be almost back in the game as Merlyn attacks for only 2 (9).
 
 Not for long though as 2 more mongrels are played making 3 on the other side of the table. Kim is able to flash one of his calls and drop a Bird of Paradise, but on the alpha strike by Merlyn's Mongrels and a Fact or Fiction reveals the other 2 Fact or Fictions, a land, a Standstill and a rootwalla. Taking the 'walla and the Standstill, 2 'wallas are pitched to the mongrel blocked by the elephant. With nothing in the way of creatures (The budgie chumped a mongrel) and 3 Wild Mongrels with 2 Rootwallas on Merlyn's side the ever smiling Kim Brebach offers his hand to the victor.
 

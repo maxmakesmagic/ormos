@@ -107,7 +107,9 @@ Now THAT is a green creature—a giant 5/5 body for five mana with no drawbacks,
 
 ### Channel No. 5
 
-![](https://i.ormos.uk/b0/fd/b0fdc45e07a491a494c03b25e476ca0a828339fda7372039fe3ada736c57a68e.jpg)Let's go over the Channel ability, shall we? First of all, it's not a keyword *per se* in that it has no reminder text, it is in italics, and it won't get an entry into the Comprehensive Rules. So what in the heck is it then?
+![](https://i.ormos.uk/b0/fd/b0fdc45e07a491a494c03b25e476ca0a828339fda7372039fe3ada736c57a68e.jpg)
+
+Let's go over the Channel ability, shall we? First of all, it's not a keyword *per se* in that it has no reminder text, it is in italics, and it won't get an entry into the Comprehensive Rules. So what in the heck is it then?
 
 Astute readers will remember an article of mine from the time of *Unhinged* previews, [“The Spoken Word”](/en/articles/latestdevelopments/2004/11-19-the-spoken-word). That article explained that *Unhinged's* “Gotcha” mechanic wasn't really a keyword, but rather an “official nickname” that we put on the cards to link them together. And in the very last sentence of the article, I said we'd be introducing “pseudo-keywords” later on in the Kamigawa block. Mark Gottlieb showed you “Sweep” in his Barrel Down Sokenzan preview [on Tuesday](/en/articles/houseofcards/2005/05-17-barrel-of-fun), and you get to see “Channel” here.
 

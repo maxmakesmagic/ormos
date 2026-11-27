@@ -44,7 +44,9 @@ archive_source:
   sha256: 2cafec3c53fb9af67daf8fd0988a5fb73f6ddd8a6dca2c07c8e89a11e0156c04
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl01/884.jpg)After two days of constructing sealed decks, drafting decks, attacking each other with creatures, and surviving on junk food and depriving themselves of sleep, eight competitors have earned their privileged spots in the final draft of GP Atlanta. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl01/884.jpg)
+
+After two days of constructing sealed decks, drafting decks, attacking each other with creatures, and surviving on junk food and depriving themselves of sleep, eight competitors have earned their privileged spots in the final draft of GP Atlanta. 
 
 The first seed is Andrew Johnson. Andrew is a 19 year old Business student at Carnegie Mellon University. He lives with Eugene Harvey, Mike Turian, and Dan Silberman, all accomplished **Magic** players. When he isn't playing **Magic** he likes to read, play chess and spend time with his girlfriend. Lately he has been spending much of his time as one of the testers playing MTG Online. Andrew is originally from Houston, Texas. He has many tournament accomplishments includeing top 2 and top 4 at the two team PTs in NY. He also made day two at PTNY99, PT Barcelona, PT London, and PT New Orleans. He is also a former Texas State champ and won the Gulf Coast Jr. Championships in 97.
 

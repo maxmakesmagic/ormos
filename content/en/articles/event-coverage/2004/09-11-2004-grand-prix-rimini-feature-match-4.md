@@ -44,7 +44,9 @@ archive_source:
   sha256: e7a08a920aa676593ed92815076fe682330d057abb086879e0224cc4aeedefa9
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm9_1.jpg)Both players have one loss and Blech tried to talk Ruel into a draw but the Frenchman declined as he would still make day two if he lost which doesn't seem to be the case of the German. Ruel is running mono green [Tooth and Nail](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) and Blech is with Affinity.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm9_1.jpg)
+
+Both players have one loss and Blech tried to talk Ruel into a draw but the Frenchman declined as he would still make day two if he lost which doesn't seem to be the case of the German. Ruel is running mono green [Tooth and Nail](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) and Blech is with Affinity.
 
 Blech (to me): "He's a bad man" (talking bout Ruel's refusal).  
  Me: "I would have done the same heh, sorry mbrah".

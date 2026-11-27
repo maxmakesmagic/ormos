@@ -297,7 +297,9 @@ Osyp Lebedowicz Mindslavered Matt Rubin, who had Food Chain in play and was set 
 
 **Time To Give Up**
 
-![](http://www.wizards.com/sideboard/images/ptno03/989.jpg)Adam Horvath used Mindslaver on an opponent who was playing White/Blue control. His opponent then pitched a Plains to Abolish his own Chrome Mox, cast Opt, chose not to take Cunning Wish, got Brainstorm instead, and cast it. The good cards left in the hand were put on top of the library, then a Flooded Strand was played and sacrificed, shuffling them away. Adam failed to find a land, and when he used the last mana available to cast Enlightened Tutor intending to put a useless Chrome Mox or the like on top, his opponent gave up and scooped.
+![](http://www.wizards.com/sideboard/images/ptno03/989.jpg)
+
+Adam Horvath used Mindslaver on an opponent who was playing White/Blue control. His opponent then pitched a Plains to Abolish his own Chrome Mox, cast Opt, chose not to take Cunning Wish, got Brainstorm instead, and cast it. The good cards left in the hand were put on top of the library, then a Flooded Strand was played and sacrificed, shuffling them away. Adam failed to find a land, and when he used the last mana available to cast Enlightened Tutor intending to put a useless Chrome Mox or the like on top, his opponent gave up and scooped.
 
 **Decked on Turn Four?**
 

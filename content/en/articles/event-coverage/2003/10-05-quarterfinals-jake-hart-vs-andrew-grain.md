@@ -54,7 +54,9 @@ Jake: "Those 2/3 first strike flying guys."
 
 Andrew: "I can't remember, I'd have to say none of them."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsyd03/905.jpg)Once they get the decks back, Jake riffle shuffles so Andrew can see the bottom cards of his deck. Andrew just stares back into Jake's eyes and then executes a complicated pile shuffle on Jake's deck. Jake chooses to play, and then checks out his opening hand.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsyd03/905.jpg)
+
+Once they get the decks back, Jake riffle shuffles so Andrew can see the bottom cards of his deck. Andrew just stares back into Jake's eyes and then executes a complicated pile shuffle on Jake's deck. Jake chooses to play, and then checks out his opening hand.
 
 "Wow, that shuffle works a treat!" Jake says, giving his hand a wounded stare, as if willing it to change into something better. 
 
@@ -74,7 +76,9 @@ Jake comes out of the gates with a Mountain and a [Pyrite Spellbomb](https://web
 
 Jake plays another Island and passes it back. Struggling to keep up with my notes, I tell Jake that I like his turns best.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsyd03/911.jpg)"I just keep it simple" he tells me, and barely bats an eyelid as Andrew taps his Myr to bring out a turn 4 [Ogre Leadfoot](https://web.archive.org/web/20031005000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ogre+Leadfoot). It seems that Jake has one of his own on his fifth turn however, but Andrew is quick to point out that his is bigger.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsyd03/911.jpg)
+
+"I just keep it simple" he tells me, and barely bats an eyelid as Andrew taps his Myr to bring out a turn 4 [Ogre Leadfoot](https://web.archive.org/web/20031005000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ogre+Leadfoot). It seems that Jake has one of his own on his fifth turn however, but Andrew is quick to point out that his is bigger.
 
 "Cards?" Andrew asks.
 

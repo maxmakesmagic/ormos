@@ -129,7 +129,9 @@ It's red tape except it's blue and white. Make your opponent go through a set of
 
 ### Life Lesson #4
 
-![](https://i.ormos.uk/fc/17/fc17d61b4030c94276ef763c847a2f8369b112f0ddaa64d12053881e540abb16.jpg)After I got my Ph.D. in Evilology, I was all set to embark on my career of supervillainy. There was only one problem: It was illegal! It was then that I finally understood why I got an A in Evil Ethics even though I flunked all the tests. If what I was doing was legal, it wouldn't count as villainy (to say nothing of *super*villainy!), and I'd simply be a contributing member of society rather than an insane, self-righteous sociopath convinced that the world would be a better place if I rewrote the rules from scratch rather than allowing the populace to follow the laws and mores that have evolved over thousands of years of civilized development. Plus it wouldn't be any fun. I walked into a bookstore, walked out with a stolen copy of *Doomsday Devices for Dummies*, and I've never looked back.
+![](https://i.ormos.uk/fc/17/fc17d61b4030c94276ef763c847a2f8369b112f0ddaa64d12053881e540abb16.jpg)
+
+After I got my Ph.D. in Evilology, I was all set to embark on my career of supervillainy. There was only one problem: It was illegal! It was then that I finally understood why I got an A in Evil Ethics even though I flunked all the tests. If what I was doing was legal, it wouldn't count as villainy (to say nothing of *super*villainy!), and I'd simply be a contributing member of society rather than an insane, self-righteous sociopath convinced that the world would be a better place if I rewrote the rules from scratch rather than allowing the populace to follow the laws and mores that have evolved over thousands of years of civilized development. Plus it wouldn't be any fun. I walked into a bookstore, walked out with a stolen copy of *Doomsday Devices for Dummies*, and I've never looked back.
 
 **Lesson: Rules are made to be broken. So are laws, treaties, international accords. . . .**
 
@@ -247,7 +249,9 @@ Voluntarily return Oboro to your hand, thus stunting your current development, a
 
 ### Life Lesson #14
 
-![](https://i.ormos.uk/f8/32/f83212fe110a29863f05a4a86ef1e0713344965436b2f73b265ee78bb5659e57.jpg)Supervillains aren't the only ones with mad scientists parading around secret labs performing depraved experiments. After the Omaha ruse had run its course, HATE targeted me again. They had developed a psychological “cure” for evil. Something about optimistic singing, undying hope, and brain-stem implants. If I were affected, the treatment would make my heart grow three sizes that day, turning me into a sappy do-gooder who would apply his genius toward making the world a better place. What they don't realize is that I'm already applying my genius toward making the world a better place. I just have a different (and rather more Dr. Wombat-centric) view of what “better” means.
+![](https://i.ormos.uk/f8/32/f83212fe110a29863f05a4a86ef1e0713344965436b2f73b265ee78bb5659e57.jpg)
+
+Supervillains aren't the only ones with mad scientists parading around secret labs performing depraved experiments. After the Omaha ruse had run its course, HATE targeted me again. They had developed a psychological “cure” for evil. Something about optimistic singing, undying hope, and brain-stem implants. If I were affected, the treatment would make my heart grow three sizes that day, turning me into a sappy do-gooder who would apply his genius toward making the world a better place. What they don't realize is that I'm already applying my genius toward making the world a better place. I just have a different (and rather more Dr. Wombat-centric) view of what “better” means.
 
 Thanks to my allies in the evil monkey community (I used to play poker with the cousin of one of the lab's evil monkey test subjects), I learned about HATE's nefariously unnefarious plan and arranged a little accident for them. I let them catch me and apply their cure, but thanks to a reversal of the evil polarity (“evilarity”) of their good electrodes (“goodlectrodes”), I managed to not only remain evil, I turned HATE themselves evil for a week and a half *and* made them completely subservient to me for that time frame.
 

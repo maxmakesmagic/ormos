@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Randy Buehler* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/910.jpg)The best 32 players in the world sat down Thursday evening for the draft that would determine how they would divide up the $150,000 prize purse for the Chicago Masters Series event. There were four draft pods and the competitors will play two rounds within those pods on Thursday, thus narrowing the field down to eight elite players. Those players will then draft again on Friday night (after the Pro Tour rounds are over). The quarter-finals will be held on Friday, the semi's on Saturday evening, and then the finals will be Sunday afternoon on stage, on camera, with the ESPN 2 cameras rolling. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/910.jpg)
+
+The best 32 players in the world sat down Thursday evening for the draft that would determine how they would divide up the $150,000 prize purse for the Chicago Masters Series event. There were four draft pods and the competitors will play two rounds within those pods on Thursday, thus narrowing the field down to eight elite players. Those players will then draft again on Friday night (after the Pro Tour rounds are over). The quarter-finals will be held on Friday, the semi's on Saturday evening, and then the finals will be Sunday afternoon on stage, on camera, with the ESPN 2 cameras rolling. 
 
 While everyone in the field has an impressive resume of Magic accomplishments, I found myself drawn to table 3 where 1997 World Champion Jakub Slemr was being fed by 2000 World Champion Jon Finkel. Everyone knows that Finkel is the game's all-time leading money winner with nearly $200,000 in career prize earnings, but not a lot of people realize that Slemr is in the Top 5. 
 

@@ -85,7 +85,9 @@ With only one round to go it was win or sidegame for both Nadebaum and West. Bot
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a934.jpg)After losing the coin toss to choose the seating Nadebaum struck back with a call of tails, ensuring that he will be the one who plays first. Both players played lands until turn three where Nadebaums face down Towering Baloth traded with West's Nantuko Husk. Nadebaum played another morph on his fourth turn and was matched by a Taunting Elf and a morph from West. Nadebaum elected not to attack during his phase and simply cast a Words of War passing the turn back to West. West however was not quite so tentative to enter the redzone. He played another land, morphed up his Silent Specter and crashed it into Nadebaums hand, netting him a Blistering Firecat and a Tribal Golem, along with 4 life. 
+![](http://www.wizards.com/sideboard/images/gpmel02/a934.jpg)
+
+After losing the coin toss to choose the seating Nadebaum struck back with a call of tails, ensuring that he will be the one who plays first. Both players played lands until turn three where Nadebaums face down Towering Baloth traded with West's Nantuko Husk. Nadebaum played another morph on his fourth turn and was matched by a Taunting Elf and a morph from West. Nadebaum elected not to attack during his phase and simply cast a Words of War passing the turn back to West. West however was not quite so tentative to enter the redzone. He played another land, morphed up his Silent Specter and crashed it into Nadebaums hand, netting him a Blistering Firecat and a Tribal Golem, along with 4 life. 
 
 Fortunately for Nadebaum the one card left in his hand was a Krosan Tusker. He elected to skip his draw phase, shocked the Specter, Cycled his Tusker and shocked the Specter again, leaving him a grand total of 0 cards in hand, but no longer under threat from the Specter.
 
@@ -110,7 +112,9 @@ Tied 1-1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a938.jpg)West elected to draw first in the deciding game and thought for a long time before deciding not to take a mulligan. Nadebaum got everything underway with a turn two Wellwisher, which he backed up with a turn four Wirewood Savage. West replied with a Morph and elected not to trade it with the Savage. Nadebaum brought down his Words of War but once again it looked like West was going to have all the answers, crushing it with Naturalize. West then attacked back electing to flip over his unblocked Cadaver and stripped Nadebaums hand of 3 cards, two forests and a Goblin Machinist. 
+![](http://www.wizards.com/sideboard/images/gpmel02/a938.jpg)
+
+West elected to draw first in the deciding game and thought for a long time before deciding not to take a mulligan. Nadebaum got everything underway with a turn two Wellwisher, which he backed up with a turn four Wirewood Savage. West replied with a Morph and elected not to trade it with the Savage. Nadebaum brought down his Words of War but once again it looked like West was going to have all the answers, crushing it with Naturalize. West then attacked back electing to flip over his unblocked Cadaver and stripped Nadebaums hand of 3 cards, two forests and a Goblin Machinist. 
 
 Nadebaum had no return play and simply sent his Savage into the Red Zone, keeping the Wellwisher at home to gain life. West dropped another morph and Nadebaum responded by slamming it with a Pinpoint Avalanche, hoping to mise the Silent Spectre again, unfortunately for him he hit a Gravel Slinger. Things began to take a turn for the worse for Nadebaum as his Morphed down creatures were no match for the Krosan Tusker and Elvish Warrior that West was slamming into the table. The Savage had pecked West's life down to 10 and it was soon at 3 when a seemingly harmless unblocked morph creature turned into a Towering Baloth. 
 

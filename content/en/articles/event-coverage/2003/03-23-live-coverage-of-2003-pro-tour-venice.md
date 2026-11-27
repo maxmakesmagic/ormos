@@ -69,7 +69,9 @@ render_recovery:
   - Dragon
   occurrences: 3
 ---
-![](https://i.ormos.uk/12/d1/12d1929f28cf1ea834a5c85d322cde65585456083d4ec10947866c5353bdabf7.jpg)Osyp Lebedowicz has conquered Pro Tour – Venice. One of the more outspoken members of the successful CMU-TOGIT conglomerate, Lebedowicz's was the only Astral Slide deck to claw its way to the Top 8. There he was up against a sea of Explosive Vegetation decks and Goblins. The talent was deep and his wasn't the deck that was being talked about, but at the end of three rounds, Lebedowicz stood with the trophy in his hand.
+![](https://i.ormos.uk/12/d1/12d1929f28cf1ea834a5c85d322cde65585456083d4ec10947866c5353bdabf7.jpg)
+
+Osyp Lebedowicz has conquered Pro Tour – Venice. One of the more outspoken members of the successful CMU-TOGIT conglomerate, Lebedowicz's was the only Astral Slide deck to claw its way to the Top 8. There he was up against a sea of Explosive Vegetation decks and Goblins. The talent was deep and his wasn't the deck that was being talked about, but at the end of three rounds, Lebedowicz stood with the trophy in his hand.
 
 In the quarters he smashed first-timer Akihiro Kashima of Japan. Lebedowicz won the first game despite it being in Kashima's favor, and then sideboarding helped make it a sweep. In the semis he stared down William Jensen, who had just butchered Nassif's Goblins, and the match between the two was some of the best Magic the spectators could recall. Lebedowicz was a huge underdog but somehow managed to drag things to five games. In the fifth he came back from a 31-4 deficit for a huge upset victory. Huey's victory over Nassif had people declaring him the odds-on favorite to take home the title.
 

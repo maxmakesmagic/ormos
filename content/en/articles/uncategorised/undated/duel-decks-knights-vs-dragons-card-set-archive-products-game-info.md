@@ -47,7 +47,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/9c/90/9c90462309b5b518b26d0ef469533bbe1562b916966c969ff5b0a1708a7a8865.png)Each card in these two decks is black-bordered and tournament legal. They were designed to be played right out of the box, with no deckbuilding required.
+![](https://i.ormos.uk/9c/90/9c90462309b5b518b26d0ef469533bbe1562b916966c969ff5b0a1708a7a8865.png)
+
+Each card in these two decks is black-bordered and tournament legal. They were designed to be played right out of the box, with no deckbuilding required.
 
 **Set Name:** *Duel Decks: Knights vs. Dragons*  
 **Number of Cards:** 120

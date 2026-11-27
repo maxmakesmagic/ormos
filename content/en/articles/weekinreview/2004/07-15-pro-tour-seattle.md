@@ -83,7 +83,9 @@ In addition to the staples like Phoenix Foundation and Your Move Games there wer
 
 Tommi Hovi, the first player to win two Pro Tours, back before anyone had heard of Kai, was playing with Mattias Jorstedt and Raphael Levy. This international team finished just out of the money in 23rd place.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsea04/fm11_1.jpg)Chris Pikula showed up with another **Magic** dinosaur Igor Frayman. They joined a more current **Magic** player Josh Ravitz as team Max Fischer Players. Despite their lack of experience with the new cards this team was in contention for day 3 right up to the last match of the swiss. They placed eighth overall.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsea04/fm11_1.jpg)
+
+Chris Pikula showed up with another **Magic** dinosaur Igor Frayman. They joined a more current **Magic** player Josh Ravitz as team Max Fischer Players. Despite their lack of experience with the new cards this team was in contention for day 3 right up to the last match of the swiss. They placed eighth overall.
 
 Whereas some of the old school players made a comeback and did well in this tournament, it was also a slaughter for some of the better-known teams. After the first two rounds Brockafellers, Your Move Games and Phoenix Foundation were all without a match win. YMG and Phoenix Foundation managed to win their next round of sealed deck only to meet in an elimination match during the fifth round. Phoenix Foundation defeated the Americans in a close match, but their efforts did not pay off, as they lost the next round to Jose Barbero's Ronko Bongo Slim Boy. This is the first time Phoenix Foundation has ever faltered in a team Pro Tour. It also virtually eliminates Kai from the possibility of defending his Player of the Year title. He will literally need to win the World Championship in order to have even a shot at the title.
 

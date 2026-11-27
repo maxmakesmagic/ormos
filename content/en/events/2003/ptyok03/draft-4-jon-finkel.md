@@ -82,7 +82,9 @@ render_recovery:
   - Timberwatch Elf
   occurrences: 28
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a806.jpg)Don't call it a comeback? At this point, the story practically writes itself anyway. Thanks to Kai Budde's unbelievable accomplishments, Jon Finkel is firmly connected to his "Second best player of all time" label. Finkel even lost to Kai in the Semifinals of Pro Tour Chicago, but to be fair Kai had a much better deck.
+![](http://www.wizards.com/sideboard/images/ptyok03/a806.jpg)
+
+Don't call it a comeback? At this point, the story practically writes itself anyway. Thanks to Kai Budde's unbelievable accomplishments, Jon Finkel is firmly connected to his "Second best player of all time" label. Finkel even lost to Kai in the Semifinals of Pro Tour Chicago, but to be fair Kai had a much better deck.
 
 Jon showed up to Yokohama in typical form, not having had much practice but ready to let his exceptional talent carry him to success. This time around, Kai didn't even make Day 2, while Finkel is in prime position to make Top 8 heading into the last draft. A record of 1-1-1 or better should put him into Sunday's familiar territory once again.
 
@@ -92,6 +94,8 @@ He abandoned the white plan immediately, picking up a pair of Mistform Dreamers 
 
 In the second pack, Finkel took Skirk Commando over Choking Tethers, and then Ascending Aven over Skirk Commando. Mistform Wall came third, then Threaten, and a nice gift in a fifth pick Skirk Commando. Searing Flesh and Complicate rounded out the rest of *Onslaught*. Finkel's *Legions* pack was hardly impressive. He first picked Covert Operative, passing Flamewave Invoker. He drafted Riptide Director second and Flamewave Invoker third, as green cards kept coming his way.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a801.jpg)This was interesting, because Barbero to his right was green/red, and Jorstedt to his left was green/black. Because the green in *Legions* was so deep at this table, the green cards would go right through Finkel and to Jorstedt. For example, Barbero took Feral Throwback over Timberwatch Elf, which went right through Finkel and over to Jorstedt fifth. This is not to say that Finkel did poorly, since he got the lion's share of blue. He drafted Walls of Deceit fifth and sixth, which will combo very well with his two Skirk Commandos- his opponents would practically need to take a 50/50 chance to lose card advantage when deciding whether or not to block. 
+![](http://www.wizards.com/sideboard/images/ptyok03/a801.jpg)
+
+This was interesting, because Barbero to his right was green/red, and Jorstedt to his left was green/black. Because the green in *Legions* was so deep at this table, the green cards would go right through Finkel and to Jorstedt. For example, Barbero took Feral Throwback over Timberwatch Elf, which went right through Finkel and over to Jorstedt fifth. This is not to say that Finkel did poorly, since he got the lion's share of blue. He drafted Walls of Deceit fifth and sixth, which will combo very well with his two Skirk Commandos- his opponents would practically need to take a 50/50 chance to lose card advantage when deciding whether or not to block. 
 
 Overall, Finkel's chances at making Top 8 look good. He doesn't need a spectacular record, and he has walls to hold down the ground as well as flyers to clock his opponents. It's lacking huge bombs, but has plenty of solid spells that should be able to carry him to Sunday.

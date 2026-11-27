@@ -173,7 +173,9 @@ So why bother discussing the standings at all? Several of the players at the top
 
 So let us examine the current top 10 in the Player of the Year race:
 
-![](http://www.wizards.com/sideboard/images/PTNOR01/650.jpg)**1) Kai Budde, 67 points.** Budde has won both Pro Tours this season and Grand Prix-London. He also finished second in GP-Biarritz, maintaining a near-perfect record. Budde does not need to do much more in order to win the title, but you can be sure he'll continue to post top tournament finishes anyway.
+![](http://www.wizards.com/sideboard/images/PTNOR01/650.jpg)
+
+**1) Kai Budde, 67 points.** Budde has won both Pro Tours this season and Grand Prix-London. He also finished second in GP-Biarritz, maintaining a near-perfect record. Budde does not need to do much more in order to win the title, but you can be sure he'll continue to post top tournament finishes anyway.
 
 **2) Tomi Walamies, 32 points.** Walamies, Finland, has been on the Tour for a long time, with varying results, but this is the first season where he enjoys a spot at the very top of the standings. Walamies finished second at PT-New Orleans with a Turbo-Herd deck of his own making. His team, The Punisher, which combines some of the best players from Finland and Sweden, has been a rising force on the Pro Tour over the course of the last six months. With their support, Walamies may be able to hang on to his spot at the top, but challenging Budde is a tall order.
 
@@ -221,7 +223,9 @@ Last week's question:
 
 *What is the most expensive 1/1 creature ever printed, in terms of casting cost?*
 
-![](https://i.ormos.uk/cd/c0/cdc01c5670edc4f5463892ba90a34547f246eaf27cde1e783693f406be8280e5.jpg)The answer I had in mind was Nut Collector. However, there are several creatures in older sets that are also 1/1 for 6 mana. Among them are Triskelion and Phyrexian Devourer. Nut Collector is, I believe, the only six casting cost 1/1 critter that can't change its power/toughness with an internal ability.
+![](https://i.ormos.uk/cd/c0/cdc01c5670edc4f5463892ba90a34547f246eaf27cde1e783693f406be8280e5.jpg)
+
+The answer I had in mind was Nut Collector. However, there are several creatures in older sets that are also 1/1 for 6 mana. Among them are Triskelion and Phyrexian Devourer. Nut Collector is, I believe, the only six casting cost 1/1 critter that can't change its power/toughness with an internal ability.
 
 New question:
 
@@ -241,7 +245,9 @@ Submitted by Tim "Iakae" Sprague
 
 "I was playtesting an Oath variant that I was considering for the upcoming PTQ season. My opponent, Dan, was playing a Sligh deck metagamed for a heavy discard environment. Nothing that he was thinking of playing in an actual tournament, but we were covering all the bases.
 
-![](https://i.ormos.uk/60/8c/608cf48d1c872947d1dee6c785d8fd430806c1d7403b2c9dfc6be18eb0e28b40.jpg)I had just Oathed out Crater Hellion, dealing eighteen damage to Dan due to the three Jackal Pups he had been attacking with. I had managed an Ivory Mask, but I knew from an early Duress that he had Anarchy in his hand and was waiting on one last land to cast it. With nothing in play to activate my Oath, having Force of Will as the only counter in my hand with no blue card to pitch to it, and being at the unstable life total of three, I drew my card for the turn. It was Duress, and I tapped an Underground Sea to cast it, fully intending to take the Anarchy.
+![](https://i.ormos.uk/60/8c/608cf48d1c872947d1dee6c785d8fd430806c1d7403b2c9dfc6be18eb0e28b40.jpg)
+
+I had just Oathed out Crater Hellion, dealing eighteen damage to Dan due to the three Jackal Pups he had been attacking with. I had managed an Ivory Mask, but I knew from an early Duress that he had Anarchy in his hand and was waiting on one last land to cast it. With nothing in play to activate my Oath, having Force of Will as the only counter in my hand with no blue card to pitch to it, and being at the unstable life total of three, I drew my card for the turn. It was Duress, and I tapped an Underground Sea to cast it, fully intending to take the Anarchy.
 
 When he revealed his hand, it contained not one, but two copies of Anarchy, and a Guerrilla Tactics. I sighed with relief and chose the Tactics, which he was unable to cast with his one untapped Wasteland. The Tactics hit the graveyard, activating the 4 damage discard effect, and with no creatures in play and the Ivory Mask protecting me, Dan was forced to deal lethal damage to himself."
 

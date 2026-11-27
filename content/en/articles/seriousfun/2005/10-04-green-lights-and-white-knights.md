@@ -343,7 +343,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/8c/d7/8cd70eb1767537dd3504c9faa472ca4f327fba4a9baa9d07c8022a237ae71131.jpg)With Selesnya week focusing most of us **magicthegathering.com** writers on the green-white color axis, we have a great opportunity to look at what cards from **Magic's** past can help you reinforce your green-white decks. If you're like me, you like to use newer cards in decks. Also, if you're like me, you have a horrible memory for stuff that happened more than six months ago. So as much for me as for you, I'm offering this guide to some key green and/or white stars from **Magic's** past – to remind us that some excellent cards still sit in those aging white cardboard boxes we keep our **Magic** collections in.
+![](https://i.ormos.uk/8c/d7/8cd70eb1767537dd3504c9faa472ca4f327fba4a9baa9d07c8022a237ae71131.jpg)
+
+With Selesnya week focusing most of us **magicthegathering.com** writers on the green-white color axis, we have a great opportunity to look at what cards from **Magic's** past can help you reinforce your green-white decks. If you're like me, you like to use newer cards in decks. Also, if you're like me, you have a horrible memory for stuff that happened more than six months ago. So as much for me as for you, I'm offering this guide to some key green and/or white stars from **Magic's** past – to remind us that some excellent cards still sit in those aging white cardboard boxes we keep our **Magic** collections in.
 
 This is probably a good time to announce that I won't be doing a Multiplayer Card Hall of Fame update this autumn. Smart readers will have deduced already that other *Ravnica* guilds will get their own theme weeks – which means that over the next year, I am likely to revisit top-notch cards from all five colors and all ten color combinations. It would be cheap of me to then rehash most of that material in three otherwise dead columns.
 

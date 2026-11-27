@@ -102,7 +102,9 @@ The Fall 2004 **Magic** set, formerly codenamed "Earth" has had a change of code
 
 "This is the first set ever to have a codename that's a single punctuation mark," enthused Mark Rosewater. "That's trivia gold! I'm going to be ask people to name the set with the shortest codename for *years*."
 
-![](https://i.ormos.uk/81/90/81902437fcf18c47c75f0fb03279e066a24b26d5147db08dad8b017db4118b2e.jpg)At the same time the codenames were changed, "Dungeons" was given its official name: ***Spellfire***. The combination of **Magic: The Gathering** and **Dungeons & Dragons** will provide synergy by thinking outside the box and allow Wizards of the Coast to take the initiative in leveraging its scalable core values into an explosion of streamlined buzzwords which will take the marketing world by storm. Or something like that, anyway."
+![](https://i.ormos.uk/81/90/81902437fcf18c47c75f0fb03279e066a24b26d5147db08dad8b017db4118b2e.jpg)
+
+At the same time the codenames were changed, "Dungeons" was given its official name: ***Spellfire***. The combination of **Magic: The Gathering** and **Dungeons & Dragons** will provide synergy by thinking outside the box and allow Wizards of the Coast to take the initiative in leveraging its scalable core values into an explosion of streamlined buzzwords which will take the marketing world by storm. Or something like that, anyway."
 
 Of course, rules and terminology of the game had to be adjusted slightly in order to fully immerse “Spellfire” players in a **D&D** experience. For example, players will roll a D20 to determine initiative at the beginning of each combat step. Also, in addition to buying new cards, players will be expected to occasionally purchase entirely new rulebooks.
 
@@ -112,7 +114,9 @@ R&D hasn't said what sets will follow ***Spellfire***, although the phrases "Blo
 
 ### Wizards of the Coast Sold to German Consortium
 
-![](https://i.ormos.uk/57/06/57063f123b7901b99c93e4ce9125303c30e53dea7bfb22652e0166e0f65fbf46.jpg)In a move that shocked industry insiders (by which I mean "people on message boards"), Hasbro has just announced that it will be selling the Wizards of the Coast business to a small company from Germany. Although Wizards of the Coast continues to be tremendously profitable, the offer was simply too much money to ignore.
+![](https://i.ormos.uk/57/06/57063f123b7901b99c93e4ce9125303c30e53dea7bfb22652e0166e0f65fbf46.jpg)
+
+In a move that shocked industry insiders (by which I mean "people on message boards"), Hasbro has just announced that it will be selling the Wizards of the Coast business to a small company from Germany. Although Wizards of the Coast continues to be tremendously profitable, the offer was simply too much money to ignore.
 
 The German Company has only three employees, counting its President/CEO, Kai Budde. "We at Phoenix Foundation have been pursuing this goal for some time. The introduction of the Team format allowed Dirk Baberowski, Marco Blume, and myself to leverage our skills and put together enough cash to initiate a hostile takeover. Hasbro didn't want to lose their whole company, so they had no choice other than to sell us WotC."
 
@@ -136,7 +140,9 @@ New question:
 
 Courtesy of *Fabian Rockwell*
 
-![](https://i.ormos.uk/20/94/209440ffb5083a63fd608f20f043fa3cd636b8bfc38eb25270d0078d22356932.jpg)"I had out three swamps. two plains, a forest, six islands, a Rith, the Awakener, a Sol Ring, a tapped Time Vault, and six 1/1 Insect tokens. It was my opponent's turn, and he had out four Cloudposts, two Urza's Mines, an Urza's Tower, four Urza's Power Plants, twelve forests, twenty mountains, a Mwonvuli Ooze, and a Raging Goblin he'd cast Animate Dead on. 
+![](https://i.ormos.uk/20/94/209440ffb5083a63fd608f20f043fa3cd636b8bfc38eb25270d0078d22356932.jpg)
+
+"I had out three swamps. two plains, a forest, six islands, a Rith, the Awakener, a Sol Ring, a tapped Time Vault, and six 1/1 Insect tokens. It was my opponent's turn, and he had out four Cloudposts, two Urza's Mines, an Urza's Tower, four Urza's Power Plants, twelve forests, twenty mountains, a Mwonvuli Ooze, and a Raging Goblin he'd cast Animate Dead on. 
 
 "I had a Silhouette in my hand and my opponent had a Hammer of Bogardan in his graveyard. He looked carefully at the board situation -- did I mention that he also had a Steel Wall, but that I had a Juggernaut? And also, it was a multiplayer game, and the third person at the table had a bunch of land I don't remember, a Platinum Angel, two Uktabi Orangutans, a Llanowar Elves *and* a Fyndhorn Elves, plus a Humility out?
 

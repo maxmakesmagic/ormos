@@ -82,7 +82,9 @@ render_recovery: []
 
 しかし、ダメージレースの主導権を握ったのは一戦目の勢いそのままのFries。《エルフの戦士/[Elvish Warrior](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior)》、《変異/Morph》、《変異/Morph》とクリーチャーを連打して最高の立ち上がりを迎えたのだった。ちょっとせこいかも。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a741.jpg)そして...真木のマナがピタリと3マナでストップ。サイクリングすれどもすれども3マナでピタリ。《疑い深い濃霧獣/[Leery Fogbeast](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leery+Fogbeast)》で《戦士》を相打ちに仕留め、2体の《変異/Morph》と《堕ちたる僧侶》をまとめて《蔓延/[Infest](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Infest)》で除去するなどして必死の延命措置を講じるのだが...いかんせん3マナは3マナ。《変異/Morph》を一体呼ぶことしかできない。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a741.jpg)
+
+そして...真木のマナがピタリと3マナでストップ。サイクリングすれどもすれども3マナでピタリ。《疑い深い濃霧獣/[Leery Fogbeast](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leery+Fogbeast)》で《戦士》を相打ちに仕留め、2体の《変異/Morph》と《堕ちたる僧侶》をまとめて《蔓延/[Infest](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Infest)》で除去するなどして必死の延命措置を講じるのだが...いかんせん3マナは3マナ。《変異/Morph》を一体呼ぶことしかできない。
 
 そんなわけで、降臨した《樹を跳ねるロリアン》があっという間に真木のライフを1点にまで削り落としてしまう。9ターン目になって真木はようやっと待望の4マナ目を展開し、《共生するエルフ/[Symbiotic Elf](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Symbiotic+Elf)》を召喚。表面上は《ロリアン》をなんとか相打ちにとれる状況にまで持っていった。
 

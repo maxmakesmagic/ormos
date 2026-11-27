@@ -44,7 +44,9 @@ archive_source:
   sha256: a903664c1bd79a1d4d8c165fbd8f9d7062b39f335661b45b4870669b8d2c1d40
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm7_1.jpg)Kai was the last player with an unblemished record coming into today's action. He defeated Mike Thicke in round six yesterday to accomplish that feat. The Ottawa based player qualified for this event after he finished in second place at the Montreal Regionals. He had never participated in a tournament of this magnitude before but had acquitted himself quite nicely to this point. His deck was red-white with a smidge of blue to make his [Cobalt Golem](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cobalt+Golem)s fly.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm7_1.jpg)
+
+Kai was the last player with an unblemished record coming into today's action. He defeated Mike Thicke in round six yesterday to accomplish that feat. The Ottawa based player qualified for this event after he finished in second place at the Montreal Regionals. He had never participated in a tournament of this magnitude before but had acquitted himself quite nicely to this point. His deck was red-white with a smidge of blue to make his [Cobalt Golem](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cobalt+Golem)s fly.
 
 Mike Thicke was hoping to avenge his loss and secure a spot in the Top 8 with a run through the first three rounds of play today. You could not ask for much better opens in three packs than what Mike snagged in the draft. *Mirrodin* gave him [Looming Hoverguard](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Looming+Hoverguard) which he followed with [Fireball](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fireball) and [Grafted Wargear](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grafted+Wargear). His deck was white-blue touching red.
 

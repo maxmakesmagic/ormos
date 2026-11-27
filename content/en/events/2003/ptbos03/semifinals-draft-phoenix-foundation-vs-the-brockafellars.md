@@ -280,7 +280,9 @@ render_recovery:
   - Patriarch's Bidding
   occurrences: 543
 ---
-![](http://www.wizards.com/sideboard/images/ptbos03/a803.jpg)Not only had Phoenix Foundation only lost one match—*ever*—in Team Rochester coming into today's action but they had never lost an actual played match of the format at the Pro Tour. Their only loss came in the Venice Masters. You may be wondering about the losses that they posted yesterday but both of those were straight up concessions to Zabutan Nemonaut and The Brockerfellars. Both teams were playing in the Top 4 thanks to those wins. 
+![](http://www.wizards.com/sideboard/images/ptbos03/a803.jpg)
+
+Not only had Phoenix Foundation only lost one match—*ever*—in Team Rochester coming into today's action but they had never lost an actual played match of the format at the Pro Tour. Their only loss came in the Venice Masters. You may be wondering about the losses that they posted yesterday but both of those were straight up concessions to Zabutan Nemonaut and The Brockerfellars. Both teams were playing in the Top 4 thanks to those wins. 
 
 The Brockerfellers are no slouches at this format either. The team has gone through a number of name changes from the eponymous Huey Brock and Linde, to the clever Brock Bottom at the most recent GP Pittsburgh to today's even funnier name. The B-seat third of the team won the previous Grand Prix Pittsburgh with Casey McCarrell and Ben Rubin while Brock took GP Turin with PTR and Dan Clegg. That's nothing compared to what they pulled off today. Their first ever *Onslaught* Block Rochester draft came in round seven. Years of experience and a boatload of talent seem to have paid off.
 
@@ -366,7 +368,9 @@ Dirk was not keen on the idea of facing Akroma with his black-red deck. "If he d
 
 Everyone seemed to agree that Marco was facing the best match-up of the three. In addition to a full suite of elf tricks he had a pair of Covert Operatives and an infinite mana engine with Wirewood Channeler and Pemmin's Aura. "My deck is insanely fast while his deck seems slow. He does have *an*Elvish Warrior. The highest casting cost in my deck is five. I have Wirewood Elf and Wirewood Channeler—"
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a804.jpg)Dirk interrupted to point out, "That was their big mistake. Channeler is pretty much a bomb in this format and we were able to take it on the second wheel."
+![](http://www.wizards.com/sideboard/images/ptbos03/a804.jpg)
+
+Dirk interrupted to point out, "That was their big mistake. Channeler is pretty much a bomb in this format and we were able to take it on the second wheel."
 
 Phoenix Foundation found green blue to be a desireable strategy because of the Operative and the Coast Watcher which fills the two slot for the deck in the third pack. Marco's plan was to lock up the ground with Wirewood Symbiote and win with his Covert Operatives. "I think they undervalue that guy. He is not going to deal me any damage on the ground and I am going to kill him with the Operative...
 

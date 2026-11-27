@@ -44,7 +44,9 @@ archive_source:
   sha256: e61b8ce1c200ed96dda55c0bd31200c46e9abee3a5d4c8352d9cf3e838fc18a2
 render_recovery: []
 ---
-![Nicolai Herzog](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mi04/fm5_1.jpg)It's Round 7, the first match of the day and the first match of this format (8th Edition Rochester Draft). Both players are in the 2 win/4 loss column so it's a battle to see who can start clawing their way back into positive territory.
+![Nicolai Herzog](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mi04/fm5_1.jpg)
+
+It's Round 7, the first match of the day and the first match of this format (8th Edition Rochester Draft). Both players are in the 2 win/4 loss column so it's a battle to see who can start clawing their way back into positive territory.
 
 ### Game 1
 

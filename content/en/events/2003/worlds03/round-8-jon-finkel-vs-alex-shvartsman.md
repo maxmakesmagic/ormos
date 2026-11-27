@@ -85,7 +85,9 @@ render_recovery:
   - Accelerated Mutation
   occurrences: 35
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a824.jpg)Jon Finkel isn't much for preparation these days. On Tuesday he was asking anyone he could get his hands on for tech. The result was a 3-3 day for him on Wednesday. However, now that we're in Rochester Draft, he's much more at home. After all, this is the man that came to Chicago cold and still made Top 8. He's already won his first match of the day with a feisty blue-white soldiers deck. His opponent is new-school YMG'er Alex Shvartsman who's hot off a Top 8 at Grand Prix – Detroit, bringing his total to roughly one billion. He's with black-green.
+![](http://www.wizards.com/sideboard/images/worlds03/a824.jpg)
+
+Jon Finkel isn't much for preparation these days. On Tuesday he was asking anyone he could get his hands on for tech. The result was a 3-3 day for him on Wednesday. However, now that we're in Rochester Draft, he's much more at home. After all, this is the man that came to Chicago cold and still made Top 8. He's already won his first match of the day with a feisty blue-white soldiers deck. His opponent is new-school YMG'er Alex Shvartsman who's hot off a Top 8 at Grand Prix – Detroit, bringing his total to roughly one billion. He's with black-green.
 
 ### Game 1
 
@@ -93,7 +95,9 @@ Shvartsman kicked off the match with Wellwisher but had Cabal Interrogator on hi
 
 Finkel didn't hesitate to send his troops. Shvartsman took four and Finkel added another morph and a face-up Wall of Deceit. Shvartsman played an end-of-turn Caller of the Claw and gained two life. He untapped and played a very large Gigapede. Finkel was unafraid. He hit again, and when Shvartsman blocked with Gigapede he unmorphed a Daru Lancer to pick it off. Shvartsman regrew his Gigapede then played a more durable blocker in the form of Zombie Cutthroat.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a822.jpg)Finkel hit again, and when Shvartsman blocked the remaining morph he showed him another Lancer. Wellwisher was keeping his life total high, but he needed something more. Clutch of Undeath shut down one of the Lancers, but Finkel's air force grew a Swooping Talon. Shvartsman sat on his mana. Finkel moved to put Dragon Scales on his Talon after combat, then stopped and looked at Shvartsman's five untapped land. He looked up at Shvartsman, and then calmly played the Scales.
+![](http://www.wizards.com/sideboard/images/worlds03/a822.jpg)
+
+Finkel hit again, and when Shvartsman blocked the remaining morph he showed him another Lancer. Wellwisher was keeping his life total high, but he needed something more. Clutch of Undeath shut down one of the Lancers, but Finkel's air force grew a Swooping Talon. Shvartsman sat on his mana. Finkel moved to put Dragon Scales on his Talon after combat, then stopped and looked at Shvartsman's five untapped land. He looked up at Shvartsman, and then calmly played the Scales.
 
 Shvartsman's position was deteriorating quickly. With little to add to his side of the board, he was under pressure from Finkel's air force. He finally found a Needleshot Gourna, but his life total was low. Finkel finished it with a Rush of Knowledge for six that served up both Pacifism and the land to cast it.
 
@@ -103,7 +107,9 @@ Finkel 1 – Shvartsman 0
 
 Again Shvartsman had the Wellwisher to start things off. He had to Forestcycle his Wirewood Guardian to get his third land on turn three, and was not pleased at the prospect. Finkel got rid of a Mage's Guile and played a Mistform wall. Shvartsman got in with a late morph. 
 
-![](http://www.wizards.com/sideboard/images/worlds03/a823.jpg)Finkel dropped Daru Stinger and started laying out soldiers one at a time: Aven Farseer, Aven Farseer, Gustcloak Skirmisher, he even made a motion like he had more coming, but three was enough. Shvartsman made a Vengeful Dead. Finkel animated his Wall and hit for one before dropping the pair of Farseers. Shvartsman still hadn't found his fifth land, but made a Frightshroud Courier, capable of getting past Finkel's defenses.
+![](http://www.wizards.com/sideboard/images/worlds03/a823.jpg)
+
+Finkel dropped Daru Stinger and started laying out soldiers one at a time: Aven Farseer, Aven Farseer, Gustcloak Skirmisher, he even made a motion like he had more coming, but three was enough. Shvartsman made a Vengeful Dead. Finkel animated his Wall and hit for one before dropping the pair of Farseers. Shvartsman still hadn't found his fifth land, but made a Frightshroud Courier, capable of getting past Finkel's defenses.
 
 Finkel hit and made a Swooping Talon. Shvartsman feared up his Dead and served. Finkel calmed that noise with Frozen Solid, then Gustcloak Skirmisher a turn later. Shvartsman hit land number six and played a Gempalm Polluter. Finkel served and added a Swooping Talon. Shvartsman threw the hood on the Polluter and got in for six more, leaving Finkel at nine. 
 

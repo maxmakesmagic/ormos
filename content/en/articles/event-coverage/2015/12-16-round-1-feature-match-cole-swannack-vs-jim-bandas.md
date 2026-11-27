@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Liam Coltman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/894.jpg)Although not too well known overseas, Cole Swannack is making waves down under. He finished 5th in New Zealand nationals, gaining the title of Limited Champion. He flew in to the GP to play the grinders the night before, but decided to get some sleep and just start fresh for tomorrow, dropping at a 1-1 record. Having won the die roll he chose to play. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/894.jpg)
+
+Although not too well known overseas, Cole Swannack is making waves down under. He finished 5th in New Zealand nationals, gaining the title of Limited Champion. He flew in to the GP to play the grinders the night before, but decided to get some sleep and just start fresh for tomorrow, dropping at a 1-1 record. Having won the die roll he chose to play. 
 
 **Game 1** 
 

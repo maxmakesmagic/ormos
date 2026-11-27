@@ -44,7 +44,9 @@ archive_source:
   sha256: 6d148a558fc906654c0ba58bc9517469b2666567e2e9d0d984e0a56e0579b8fb
 render_recovery: []
 ---
-![](https://i.ormos.uk/e8/b1/e8b1e4cdc854940969fb1aa31e73a0611c0d187a5ea00cf1913b36b3ce596ad0.jpg)It’s surprising the table didn’t collapse under the weight of the accomplishments of these two players. Bob Maher, Jr., known to some as The Great One is a former Pro Tour Champ, a Player of the Year, and recently a Masters Champion. Alex Shvartsman is an Invitationalist, and has more Grand Prix Top 8’s than words in this sentence. Lately he’s been raising hell with those hoodlums in Illuminati, and is never without the red and black of YMG. This time around he’s playing “Bad Form”, and is convinced it’s the deck to play. Maher is likewise sure of his Red-White Control deck.
+![](https://i.ormos.uk/e8/b1/e8b1e4cdc854940969fb1aa31e73a0611c0d187a5ea00cf1913b36b3ce596ad0.jpg)
+
+It’s surprising the table didn’t collapse under the weight of the accomplishments of these two players. Bob Maher, Jr., known to some as The Great One is a former Pro Tour Champ, a Player of the Year, and recently a Masters Champion. Alex Shvartsman is an Invitationalist, and has more Grand Prix Top 8’s than words in this sentence. Lately he’s been raising hell with those hoodlums in Illuminati, and is never without the red and black of YMG. This time around he’s playing “Bad Form”, and is convinced it’s the deck to play. Maher is likewise sure of his Red-White Control deck.
 
 Shvartsman kicked off with a Lightning Rift, but Maher had a Silver Knight waiting. They both paired on the following turn, but Shvartsman wasn’t enthused about staring down a pair of Knights.
 
@@ -62,7 +64,9 @@ Shvartsman powered through his deck, cycling two Spark Sprays and a Forgotten Ca
 
 “Yeah, right off the top, baby!” – Alex Shvartsman
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a912.jpg)Maher played a mountain and a Lightning Rift. Shvartsman crippled him further with Lay Waste while Maher cycled Renewed Faith, then started the beats with Thoughtbound Primoc. Maher played a third land and a second Rift. Shvartsman had a Temple of the Flase God to bring in Rorix.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a912.jpg)
+
+Maher played a mountain and a Lightning Rift. Shvartsman crippled him further with Lay Waste while Maher cycled Renewed Faith, then started the beats with Thoughtbound Primoc. Maher played a third land and a second Rift. Shvartsman had a Temple of the Flase God to bring in Rorix.
 
 Maher remained calm as he played a Temple as his fourth land and played his third Rift. Shvartsman bashed him to six. A second Temple gave him seven mana, and on Shvartsman’s attack he cycled to kill Rorix on the attack. He fell to four. A second white mana and he was able to shoot down the Primoc and deal two to Shvartsman, and now it looked like Shvartsman was out of gas.
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a893.jpg)This match was joined in progress. Game 1 featured a bit of a beating to the dome of the Pro Tour Regular Brian Davis. Jeremy Pinter was playing his dream matchup in the Quarters with his Green White deck, and Bdavis would have to do everything he possibly could to stave off the up-and-comer's reckless charge into the next bracket of the Top 8. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a893.jpg)
+
+This match was joined in progress. Game 1 featured a bit of a beating to the dome of the Pro Tour Regular Brian Davis. Jeremy Pinter was playing his dream matchup in the Quarters with his Green White deck, and Bdavis would have to do everything he possibly could to stave off the up-and-comer's reckless charge into the next bracket of the Top 8. 
 
 Before I go any further, let me introduce the two players. Bdavis, the guy who finished in second place to Bob Maher at Tour Chicago, and a former Rookie of the Year has been on a great placement streak lately. Playing the upcoming Invitational and finishing in the top eight of Grand Prix Minneapolis, and Pro Tour Nice, is looking to solidify his career. Jeremy Pinter, on the other hand, is a bit of an unknown. Hailing from Lansing, Michigan, this player has had a taste of glory on the Pro Tour before with Team Wheat and Rye in New York. Playing the very stout choice of Green White in this Blue Green, mono black field, Pinter is looking to carve his name in the history of the Pro Tour. 
 
@@ -63,7 +65,9 @@ Davis opted to kick off the second game and after no mulligan, led off with a sw
 
 During his next turn Jeremy decided that he hated to play land. Hated it more then anything in this world. To show how much he hated it, he did not play another one until his eighth turn. [Phantom Centaur](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Centaur)s, [Glory](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory), and several other cards rested in his land screwed hands as he drew, sighed, discarded, and passed turn. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a889.jpg)Of course, Bdavis also decided that he did not want to do anything but draw cards and discard them as well. It was clear that he was looking for part of his combo, and when a [Zombie Infestation](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zombie+Infestation) came into play, (This Infestation was of no danger, as Ray of Revilation destroyed it before it could do much damage.) it was certain that [Upheaval](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval) was the card he be searching for. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a889.jpg)
+
+Of course, Bdavis also decided that he did not want to do anything but draw cards and discard them as well. It was clear that he was looking for part of his combo, and when a [Zombie Infestation](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zombie+Infestation) came into play, (This Infestation was of no danger, as Ray of Revilation destroyed it before it could do much damage.) it was certain that [Upheaval](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval) was the card he be searching for. 
 
 During this time of searching, Jeremy realized that to win games, you have to have land. He started to draw them, and cast creatures. [Arrogant Wurm](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrogant+Wurm)s came into play, and left just as quickly as they entered. Bdavis was stalled in his search for an upheaval but he eventually drew the mistake of R and D, floated the mana, cast it, and made nine little baby zombie tokens. 
 
@@ -83,7 +87,9 @@ After thinking very hard for an even longer period time, Davis cast [Cunning Wis
 
 Finally, the untap phase has come back....to Brian Davis's sixth turn. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a886.jpg)He played a land, and watched as Pinter phased out his hopper with a [Glory](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory) and a Ray of Revalation. Unphased the 'hopper knocked Brian to eight, and an end of turn [Skeletal Scrying](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Scrying) (which took less time then the previous end of turn.) knocked Brian to two. Edict finally killed off the hopper, but when [Spurnmage Advocate](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spurnmage+Advocate)s threatened to knock davis to one, [Aether Burst](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst)s ended that. Circular logic finally got rid of the advocate, and things looked great for Brian. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a886.jpg)
+
+He played a land, and watched as Pinter phased out his hopper with a [Glory](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory) and a Ray of Revalation. Unphased the 'hopper knocked Brian to eight, and an end of turn [Skeletal Scrying](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Scrying) (which took less time then the previous end of turn.) knocked Brian to two. Edict finally killed off the hopper, but when [Spurnmage Advocate](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spurnmage+Advocate)s threatened to knock davis to one, [Aether Burst](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst)s ended that. Circular logic finally got rid of the advocate, and things looked great for Brian. 
 
 Still at two life, he was not prepared to deal with the final threat that Jeremy had for him. 
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Omeed Dariani*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b22.JPG)Daniel Campisi's Sneak Attack deck (Sneaky Phoenix) was definitely the talk of the tournament. After blazing through the Swiss rounds, Daniel's deck was creating a huge buzz, finishing first. The quarterfinals pitted him against Jeremy Humphrey, who was participating in his first sanctioned tournament. He played a very consistent, by the book, Replenish deck. Daniel's deck, however, was not something most people had considered, when playtesting for this event. He had spent months tuning it at local tournaments, preparing for this event. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b22.JPG)
+
+Daniel Campisi's Sneak Attack deck (Sneaky Phoenix) was definitely the talk of the tournament. After blazing through the Swiss rounds, Daniel's deck was creating a huge buzz, finishing first. The quarterfinals pitted him against Jeremy Humphrey, who was participating in his first sanctioned tournament. He played a very consistent, by the book, Replenish deck. Daniel's deck, however, was not something most people had considered, when playtesting for this event. He had spent months tuning it at local tournaments, preparing for this event. 
 
 ### Game 1
 
@@ -56,6 +58,8 @@ Campisi 0, Humphrey 1
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b27.JPG)Game two was basically a repeat of game one, with Daniel drawing even less land. While stuck at two lands, Campisi got a lesson in the exact workings of Replenish. While he looked on, Jeremy set up a classic Replenish draw and executed it perfectly, winning on turn six without a shred of resistance. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b27.JPG)
+
+Game two was basically a repeat of game one, with Daniel drawing even less land. While stuck at two lands, Campisi got a lesson in the exact workings of Replenish. While he looked on, Jeremy set up a classic Replenish draw and executed it perfectly, winning on turn six without a shred of resistance. 
 
 Humphrey defeated Campisi, 2-0

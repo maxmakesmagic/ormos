@@ -86,7 +86,9 @@ render_recovery:
   - Phyrexian Processor
   occurrences: 98
 ---
-![](https://i.ormos.uk/63/89/6389262e105f20d26cb8dfd0f2499ec320a16f8d13dbb64c55b81bbe1ac6f629.jpg)Kibler is running Tinker today, and while shuffling was talking about how no one really tested for his deck. As it turns out, a few players are playing Tinker, and sideboard cards devoted to beating it are certainly not plentiful. Dougherty is running his signature Reanimator deck.
+![](https://i.ormos.uk/63/89/6389262e105f20d26cb8dfd0f2499ec320a16f8d13dbb64c55b81bbe1ac6f629.jpg)
+
+Kibler is running Tinker today, and while shuffling was talking about how no one really tested for his deck. As it turns out, a few players are playing Tinker, and sideboard cards devoted to beating it are certainly not plentiful. Dougherty is running his signature Reanimator deck.
 
 ### Game 1
 
@@ -118,7 +120,9 @@ Kibler- 1 Dougherty- 1
 
 ### Game 3
 
-![](https://i.ormos.uk/58/fc/58fc442b7ce65d0e15d7cd5863754367152cda366721384bc51246eb2255eaa4.jpg)Kibler mulliganed his opening hand, and opened with City of Traitors and Grim Monolith. Dougherty named Tinker with Cabal Therapy, and saw two lands, Dynamo and Upheaval. Dynamo came out on the following turn, island buried the City, and Seal of Removal gave Kibler a good insurance policy. Duress stripped away Upheaval, leaving Kibler with only an island in hand. He drew, shrugged, and cast the Tinker he topdecked, getting Phyrexian Processor. It was set to ten, and made a token immediately. Faceless Butcher killed it off, and Kibler played Voltaic Key.
+![](https://i.ormos.uk/58/fc/58fc442b7ce65d0e15d7cd5863754367152cda366721384bc51246eb2255eaa4.jpg)
+
+Kibler mulliganed his opening hand, and opened with City of Traitors and Grim Monolith. Dougherty named Tinker with Cabal Therapy, and saw two lands, Dynamo and Upheaval. Dynamo came out on the following turn, island buried the City, and Seal of Removal gave Kibler a good insurance policy. Duress stripped away Upheaval, leaving Kibler with only an island in hand. He drew, shrugged, and cast the Tinker he topdecked, getting Phyrexian Processor. It was set to ten, and made a token immediately. Faceless Butcher killed it off, and Kibler played Voltaic Key.
 
 Diabolic Edict killed the next token, but it was obviously an uphill battle. The Butcher chump blocked a 10/10, and Kibler played Seal of Removal. Dougherty cast Vampiric Tutor to get Entomb, which put a Woodripper into the graveyard. It was Reanimated, and took out the Dynamo and Processor, but not before it could make a second 10/10. Seal of Removal bounced the Woodripper, and the 10/10's came in for the win.
 

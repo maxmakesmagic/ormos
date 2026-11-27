@@ -397,7 +397,9 @@ render_recovery:
   - Naturalize
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gpno03/a963.jpg)Antonio DeRosa has been doing great things with Wild Mongrel lately. No shock that he should be playing Blue-Green madness today. Pro Tour regular James Stroud downplays his own accomplishments, but his double-digit appearances at the big dance say otherwise. He is with the blue-green Tradewind deck that's been tearing up the PTQ circuit.
+![](http://www.wizards.com/sideboard/images/gpno03/a963.jpg)
+
+Antonio DeRosa has been doing great things with Wild Mongrel lately. No shock that he should be playing Blue-Green madness today. Pro Tour regular James Stroud downplays his own accomplishments, but his double-digit appearances at the big dance say otherwise. He is with the blue-green Tradewind deck that's been tearing up the PTQ circuit.
 
 "I know this is a good matchup for you. Your deck beats my madness deck." - Antonio DeRosa
 
@@ -409,7 +411,9 @@ DeRosa won the die roll, but his start was short of explosive. He led with Loote
 
 "Gotta put my hat on, for the picture, for the ladies." - Antonio DeRosa
 
-![](http://www.wizards.com/sideboard/images/gpno03/a962.jpg)He decided to power out Birds of Paradise and Wild Mongrel. DeRosa simply waited, then when Stroud sent his Waterfront Bouncer back to his hand, responded by Bouncing the Tradewind with a madnessed Arrogant Wurm. Stroud frowned. He untapped and Living Wished for Llawan, Cephalid Empress, putting her into play. DeRosa Looted twice but found nothing of value.
+![](http://www.wizards.com/sideboard/images/gpno03/a962.jpg)
+
+He decided to power out Birds of Paradise and Wild Mongrel. DeRosa simply waited, then when Stroud sent his Waterfront Bouncer back to his hand, responded by Bouncing the Tradewind with a madnessed Arrogant Wurm. Stroud frowned. He untapped and Living Wished for Llawan, Cephalid Empress, putting her into play. DeRosa Looted twice but found nothing of value.
 
 DeRosa bashed in for five, sitting on his four mana. Stroud tried a Tradewind Rider. DeRosa hit it with Circular Logic. Then Stroud's Mongrel charged in, and he thought he was trading when he announced damage on the stack, but he'd forgotten the bonus from the madnessed Logic. DeRosa compounded his difficulties with Intuition for two Roars and a Deep Analysis. His next attack brought Stroud to eight, and then it was over.
 
@@ -417,7 +421,9 @@ DeRosa 1 - Stroud 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpno03/a961.jpg)"I can't wait until I get home to Florida. It's so cold here. You know, you figure a fat guy like me would have enough layers to warm up." - Antonio DeRosa
+![](http://www.wizards.com/sideboard/images/gpno03/a961.jpg)
+
+"I can't wait until I get home to Florida. It's so cold here. You know, you figure a fat guy like me would have enough layers to warm up." - Antonio DeRosa
 
 DeRosa was quickly on the back foot in this game, when Stroud opened with Birds of Paradise and Waterfront Bouncer. DeRosa made a Mongrel (his favorite!) and passed it back. Stroud doubled up on Wall of Blossoms. DeRosa had no Wonder, but he did have Spellbane Centaur, shutting down Stroud's next play of Tradewind Rider.
 

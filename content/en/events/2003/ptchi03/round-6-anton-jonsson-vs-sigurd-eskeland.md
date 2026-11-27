@@ -124,7 +124,9 @@ render_recovery:
   - Wirewood Pride
   occurrences: 97
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a874.jpg)Judge Gis Hoogendijk came over with a decklist before the round started asking Anton to count it. It resulted in Anton being unable to use his sideboard and he received a game loss. Both are at 3-2 so only of these two European Magic heavyweights would advance to Day 2. 
+![](http://www.wizards.com/sideboard/images/ptchi03/a874.jpg)
+
+Judge Gis Hoogendijk came over with a decklist before the round started asking Anton to count it. It resulted in Anton being unable to use his sideboard and he received a game loss. Both are at 3-2 so only of these two European Magic heavyweights would advance to Day 2. 
 
 To top off his bad luck, Anton had to mulligan his opening hand. 
 
@@ -140,11 +142,15 @@ Sigurd 1 – Anton 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a876.jpg)"He gets to sideboard, how unfair! ... Gooo comeback!" – Anton
+![](http://www.wizards.com/sideboard/images/ptchi03/a876.jpg)
+
+"He gets to sideboard, how unfair! ... Gooo comeback!" – Anton
 
 There were no mulligans for Game 2 and Sigurd led with a Festering Goblin. Anton answered that with a Sparksmith, shortening the lifespan of Sigurd's morphs. Its first victim was a morphed Haunted Cadaver. Down came a mystery man for the Swede. Snarling Undorak and Barkhide Mauler joined Sigurd's side. Anton played an Aven Soulgazer to put on at least some pressure. The Undorak and Mauler entered the Red Zone, and Anton blocked and killed the Undorak. Sigurd brought in a Wirewood Savage but the Smith took that down too. Weathered Wayfarer got Improvised Armor and the Soulgazer served, bringing Sigurd to 17. Treespring Lorian gets added to Sigurd's army.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a875.jpg)On his next turn, Sigurd swung with everything. Anton blocked the Festering Goblin with Sparksmith, the Lorian with a freshly cast True Believer and the Mauler with the 3/6 Wayfarer. Treespring Lorian hit the table next along with a Screeching Buzzard. Anton replenished his side of the board with two Gustcloak Harriers and a Sparksmith. The Smith got a Crown of Suspicion, but Anton finally had time to use his Weathered Wayfarer to fetch a cycle land. He played his sixth land and sent in his morph, signaling a Skittish Valesk. It went unblocked and Anton cycled three more lands. Sigurd Swated the morphed Valesk, and Anton made a Pearlspear Courier, finally giving him a way to break through the Gourna. He turned one of his Harriers into a Serra Angel and beat Sigurd down to 8. Sigurd made a morph, and blocked the 4/4 Harrier with his Buzzard during Anton's next attack. Goblin Sharpshooter and Taskmaster joined Anton's side. Anton attacked with all of his fliers next turn, bringing Sigurd down to 2.
+![](http://www.wizards.com/sideboard/images/ptchi03/a875.jpg)
+
+On his next turn, Sigurd swung with everything. Anton blocked the Festering Goblin with Sparksmith, the Lorian with a freshly cast True Believer and the Mauler with the 3/6 Wayfarer. Treespring Lorian hit the table next along with a Screeching Buzzard. Anton replenished his side of the board with two Gustcloak Harriers and a Sparksmith. The Smith got a Crown of Suspicion, but Anton finally had time to use his Weathered Wayfarer to fetch a cycle land. He played his sixth land and sent in his morph, signaling a Skittish Valesk. It went unblocked and Anton cycled three more lands. Sigurd Swated the morphed Valesk, and Anton made a Pearlspear Courier, finally giving him a way to break through the Gourna. He turned one of his Harriers into a Serra Angel and beat Sigurd down to 8. Sigurd made a morph, and blocked the 4/4 Harrier with his Buzzard during Anton's next attack. Goblin Sharpshooter and Taskmaster joined Anton's side. Anton attacked with all of his fliers next turn, bringing Sigurd down to 2.
 
 On his next turn, Sigurd knew his prophecy was about to come true and conceded. He hadn't drawn his Dirge of the Dead, Contested Cliffs, Naturalize, or Cruel Revival. Any of those would've sufficed earlier in the game – and his smiles turned into tears. 
 

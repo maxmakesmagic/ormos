@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a736.jpg)　マジック界最高の頭脳と名高く、その異様なまでに丁寧なプレイスタイルで知られる David。対するは、最近でこそ目立った成績を上げていないが、Pro Tour 優勝を始めリミテッドスキルに定評のある Steven。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a736.jpg)
+
+　マジック界最高の頭脳と名高く、その異様なまでに丁寧なプレイスタイルで知られる David。対するは、最近でこそ目立った成績を上げていないが、Pro Tour 優勝を始めリミテッドスキルに定評のある Steven。
 
 ### Game 1
 

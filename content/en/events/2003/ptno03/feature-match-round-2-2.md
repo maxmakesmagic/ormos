@@ -75,7 +75,9 @@ render_recovery:
   - Annul
   occurrences: 29
 ---
-![Feature Match: Gabriel Nassif vs. Pierre Malherbaud](http://www.wizards.com/sideboard/images/ptno03/976.jpg "Feature Match: Gabriel Nassif vs. Pierre Malherbaud")This match saw two of France's top Pro Tour players face off in a Charbelcher mirror match. Their decks aren't quite the same, as Malherbaud is splashing black for the consistency of Vampiric Tutor, while Nassif is mono-blue. 
+![Feature Match: Gabriel Nassif vs. Pierre Malherbaud](http://www.wizards.com/sideboard/images/ptno03/976.jpg "Feature Match: Gabriel Nassif vs. Pierre Malherbaud")
+
+This match saw two of France's top Pro Tour players face off in a Charbelcher mirror match. Their decks aren't quite the same, as Malherbaud is splashing black for the consistency of Vampiric Tutor, while Nassif is mono-blue. 
 
 ### Game 1
 
@@ -85,7 +87,9 @@ Malherbaud 0 - Nassif 1
 
 ### Game 2
 
-![Pierre Malherbaud gets ready to belch](http://www.wizards.com/sideboard/images/ptno03/978.jpg "Pierre Malherbaud gets ready to belch")This time, Nassif mulliganed his opening hand. Malherbaud started with Chrome Mox, City of Traitors and Talisman of Dominance, and cast Mana Severance to rid his deck of lands on the first turn. Vampiric Tutor led to Tinker and the Charbelcher, and a third turn kill.
+![Pierre Malherbaud gets ready to belch](http://www.wizards.com/sideboard/images/ptno03/978.jpg "Pierre Malherbaud gets ready to belch")
+
+This time, Nassif mulliganed his opening hand. Malherbaud started with Chrome Mox, City of Traitors and Talisman of Dominance, and cast Mana Severance to rid his deck of lands on the first turn. Vampiric Tutor led to Tinker and the Charbelcher, and a third turn kill.
 
 Malherbaud 1 - Nassif 1
 

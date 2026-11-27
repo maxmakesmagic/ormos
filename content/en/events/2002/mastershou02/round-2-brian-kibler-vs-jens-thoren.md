@@ -135,7 +135,9 @@ render_recovery:
   - Spy Network
   occurrences: 123
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a947.jpg)Recent Invitational Champion Jens Thoren may not be the most flamboyant player, but his steely-eyed consistency is hard to ignore. That applies equally to Brian Kibler, who likes to spice up his performance with the occasional overbearing shirt. Today Thoren is looking for payback for the 2-1 bashing Kibler handed him in the Online Extended portion of the Invitational. 
+![](http://www.wizards.com/sideboard/images/pthou02/a947.jpg)
+
+Recent Invitational Champion Jens Thoren may not be the most flamboyant player, but his steely-eyed consistency is hard to ignore. That applies equally to Brian Kibler, who likes to spice up his performance with the occasional overbearing shirt. Today Thoren is looking for payback for the 2-1 bashing Kibler handed him in the Online Extended portion of the Invitational. 
 
 Thoren started strong with Sparksmith and a morph. Kibler made a face-up Daru Healer and hoped. Thoren did not have a second Goblin, nor was his face-down creature a Skirk Commando. He played a Nantuko Husk and passed it back. Kibler answered with Dive Bomber. Thoren was eager to keep the pressure up, and dropped Crown of Fury on the Husk and swung in. He morphed his Battering Craghorn for extra damage.
 
@@ -155,7 +157,9 @@ Thoren's last out was Shepherd of Rot. He brought Kibler to eight, then four, an
 
 Thoren 1 - Kibler 0 - Draws 1
 
-![](http://www.wizards.com/sideboard/images/pthou02/a962.jpg)This time around Thoren had to go to six. He started with Taskmaster and Kibler feared Sparksmith. It was just Shepherd of Rot, and then Nantuko Husk. Kibler hadn't done anything on his third turn, prefering to cycle Renewed Faith. Then had nothing on his fourth turn.
+![](http://www.wizards.com/sideboard/images/pthou02/a962.jpg)
+
+This time around Thoren had to go to six. He started with Taskmaster and Kibler feared Sparksmith. It was just Shepherd of Rot, and then Nantuko Husk. Kibler hadn't done anything on his third turn, prefering to cycle Renewed Faith. Then had nothing on his fourth turn.
 
 Thoren hit and made a second Husk. Kibler responded with Pangolin. He swung in and was ahead of the race. Nevermind the Aurification that he played. He was sitting pretty at fifteen life. Thoren eyed his Shepherd but didn't activate it.
 
@@ -171,7 +175,9 @@ Thoren didn't even blink. However, his stoicism was very little help when Kibler
 
 Thoren 1 - Kibler 1 - Draws 2
 
-![](http://www.wizards.com/sideboard/images/pthou02/a960.jpg)From the crowd, Zach "The Baby Faced Assassin" shouted: "Kibler! I believe in you!" Jeff Fung countered by removing his visor and donning a Sweden baseball cap.
+![](http://www.wizards.com/sideboard/images/pthou02/a960.jpg)
+
+From the crowd, Zach "The Baby Faced Assassin" shouted: "Kibler! I believe in you!" Jeff Fung countered by removing his visor and donning a Sweden baseball cap.
 
 For what would hopefully be the deciding game, Thoren curved out with Shepherd of Rot and Spined Basher. Fung nodded sagely, saying simply "It begins". When Kibler made a morph to throw in the way, Thoren just armored up with Crown of Fury and hit for four.
 

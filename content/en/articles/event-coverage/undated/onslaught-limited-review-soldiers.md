@@ -246,7 +246,9 @@ This is the second installment in my series reviewing the cards of *Onslaught* f
 
 ### Soldiers
 
-![](https://i.ormos.uk/60/3b/603b2e6a44f8b709a1d76043fa65c606e9602e87303c2cee1b1d20f289740838.jpg)Time and again I've been hearing these ludicrous stories at how white was only drafted by two players at such and such a table, and then, three rounds later, how those two players met in the final. Lacking that, the pure kill of black, the sheer size of green and that one bomb common that red has, white seems to have gotten the bum rap in this set, which is pretty good for those of you reading, because you're soon going to understand white is just as good as any of those colors. Better if it keeps going under drafted.
+![](https://i.ormos.uk/60/3b/603b2e6a44f8b709a1d76043fa65c606e9602e87303c2cee1b1d20f289740838.jpg)
+
+Time and again I've been hearing these ludicrous stories at how white was only drafted by two players at such and such a table, and then, three rounds later, how those two players met in the final. Lacking that, the pure kill of black, the sheer size of green and that one bomb common that red has, white seems to have gotten the bum rap in this set, which is pretty good for those of you reading, because you're soon going to understand white is just as good as any of those colors. Better if it keeps going under drafted.
 
 In the wake of R&D's template tinkering, soldiers epitomize the new white. They evade, they're aggressive, and they're strong. From common to rare, the soldiers attack and are deceptively aggressive, to the point where they've become the creature base of the red-white deck that has taken the early lead in the race for most popular deck among pros.
 

@@ -423,7 +423,9 @@ render_recovery:
 ---
 * * *
 
-![Brian Hacker](http://wizards.com/sideboard/images/ptsd04/fm2_1.jpg)Newcomers to the professional Magic scene might not recognize the name Brian Hacker, but back when the game was played with cave paintings, Hacker was one of the best. He's often called "The man who taught the world how to draft", and boasts Top 8's at Pro Tour - Dallas and Worlds 1998.
+![Brian Hacker](http://wizards.com/sideboard/images/ptsd04/fm2_1.jpg)
+
+Newcomers to the professional Magic scene might not recognize the name Brian Hacker, but back when the game was played with cave paintings, Hacker was one of the best. He's often called "The man who taught the world how to draft", and boasts Top 8's at Pro Tour - Dallas and Worlds 1998.
 
 Nowadays Hacker makes a living as a game designer, building games instead of breaking them, but since the Pro Tour was coming so close he figured he'd try his hand at a qualifier. By his own admission he played badly, but a good sealed deck combined with his natural talents took him to the Top 8 draft. There he pulled himself together and walked away with an invitation. The Tour is glad to have him back. A nearby Gabe Walls summed up that feeling when he overheard spectators discussing Hacker's return to the Pro Tour.
 

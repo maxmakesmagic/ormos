@@ -139,7 +139,9 @@ In simpler terms, each forecast card has an ability you can play once per turn d
 
 ### The Ability That Almost Wasn't
 
-![](https://i.ormos.uk/40/50/40505198c443702126d37a42eb1d19fd6e7a5294bd499883434a787159a6dee0.jpg)Design really liked forecast (initially called “brainwave”) because it really fit the Azorius model of “action through inaction”—in other words, the White/Blue guild could affect the game without actually spending any of its cards. We can all envision the stereotypical White-Blue control player sitting smugly behind a full grip, and that's the feel we wanted to capture with the mechanic.
+![](https://i.ormos.uk/40/50/40505198c443702126d37a42eb1d19fd6e7a5294bd499883434a787159a6dee0.jpg)
+
+Design really liked forecast (initially called “brainwave”) because it really fit the Azorius model of “action through inaction”—in other words, the White/Blue guild could affect the game without actually spending any of its cards. We can all envision the stereotypical White-Blue control player sitting smugly behind a full grip, and that's the feel we wanted to capture with the mechanic.
 
 We didn't want to make things too easy, however. If there's one thing narrow-minded control players don't want to do, it's commit. Ideally they'll never tap a mana on their own turns, instead staying reactive and doing everything at the last minute. I can remember playing against some of Randy Buehler's more famous Blue decks from back in the day, and he could actually win without ever tapping a land for mana on his own turn; he just countered everything and then eventually activated Stalking Stones and won.
 
@@ -151,7 +153,9 @@ Even with all these constraints (which were all set up in design), development s
 
 The card developers liked pointing to as evidence against forecast was Capsize, which was a buyback Boomerang from *Tempest*. Capsize was a powerful card that elicits strong emotions of both love and hate from our players.
 
-![](https://i.ormos.uk/61/7f/617fa4c43fd01851f7eddb206b21e7896c88a75714699eef7b9d309c4a487f1b.jpg)People that like powerful effects, annoying their opponents, and winning, all love Capsize. Once the Capsize player hits six mana, assuming he's winning, it's pretty clear how the game is going to play out. Bounce your thing. Bounce your thing. Bounce your thing. Great.
+![](https://i.ormos.uk/61/7f/617fa4c43fd01851f7eddb206b21e7896c88a75714699eef7b9d309c4a487f1b.jpg)
+
+People that like powerful effects, annoying their opponents, and winning, all love Capsize. Once the Capsize player hits six mana, assuming he's winning, it's pretty clear how the game is going to play out. Bounce your thing. Bounce your thing. Bounce your thing. Great.
 
 People that are just playing the game for fun really don't like cards like Capsize, and tend to avoid them. I've been on both sides of that fence—playing in *Tempest* block PTQs, where the goal was to win, I had no problem putting Awakening into play and removing my opponent's entire board from the table. But in fun games in my apartment, my roommates and I usually cajoled each other until we took the Capsizes out of our decks.
 

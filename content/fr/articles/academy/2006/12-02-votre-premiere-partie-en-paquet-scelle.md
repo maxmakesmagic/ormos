@@ -166,7 +166,9 @@ Magic est un jeu tout en profondeur. Beaucoup d'éléments stratégiques se comb
 
 ### Votre première partie en Paquet scellé
 
-![](https://i.ormos.uk/f0/b7/f0b7f2ba0e883d212aa2f8a77d4d2a8b680b652d75b7c2f0cdda12b33ffde5a1.jpg)Le Paquet scellé est un format préhistorique. C'est celui qui rappelle le plus ce à quoi ressemblait une partie de Magic à l'époque de l’antiquité. Aujourd'hui, les formats Construits sont divisés en Standard, Classique, et tout le toutim. Ils sont très évolués, et souvent excessivement rapides. Grâce à l'Internet, tout le monde sait quelles cartes sont disponibles, et peut les utiliser au maximum de leur potentiel. Je ne dis pas que c'est un mal — au contraire, c'est génial — mais ce qui me plaît dans le format Paquet scellé, c'est que l'expérience de jeu n'a pas changé depuis les ses débuts. 
+![](https://i.ormos.uk/f0/b7/f0b7f2ba0e883d212aa2f8a77d4d2a8b680b652d75b7c2f0cdda12b33ffde5a1.jpg)
+
+Le Paquet scellé est un format préhistorique. C'est celui qui rappelle le plus ce à quoi ressemblait une partie de Magic à l'époque de l’antiquité. Aujourd'hui, les formats Construits sont divisés en Standard, Classique, et tout le toutim. Ils sont très évolués, et souvent excessivement rapides. Grâce à l'Internet, tout le monde sait quelles cartes sont disponibles, et peut les utiliser au maximum de leur potentiel. Je ne dis pas que c'est un mal — au contraire, c'est génial — mais ce qui me plaît dans le format Paquet scellé, c'est que l'expérience de jeu n'a pas changé depuis les ses débuts. 
 
 Le Paquet scellé, c'est une sorte de microcosme de l'expérience Magic des origines. L’environnement de jeu est équilibré, mais divers. Tout le monde se voit distribuer une certaine quantité de produits encore dans leur emballage, généralement un paquet de tournoi et deux boosters. À partir de cette sélection, et en y ajoutant autant de terrains de base que vous le désirez, chaque joueur doit construire un deck d'au moins 40 cartes. Toute carte récupérée qui n'est pas mise dans le deck principal fait partie de la réserve. (Nous parlerons des réserves plus tard.)
 
@@ -326,7 +328,9 @@ Une fois que vous avez une idée de ce qui pourrait fonctionner, en supposant qu
 
 **8\. Courbe de mana** 
 
-![](https://i.ormos.uk/8f/8d/8f8db1c4b6502af34639e1a614201d68131fc93d027f65ada56a5cdbb68ea292.jpg)Vous devez mettre fortement l'accent sur la gestion du coût de mana des cartes, et sur la possibilité de jouer vos sorts régulièrement et de manière efficace. Le meilleur moyen d'évaluer un deck potentiel est de l'étaler devant vous selon les tours où vous devriez les jouer.
+![](https://i.ormos.uk/8f/8d/8f8db1c4b6502af34639e1a614201d68131fc93d027f65ada56a5cdbb68ea292.jpg)
+
+Vous devez mettre fortement l'accent sur la gestion du coût de mana des cartes, et sur la possibilité de jouer vos sorts régulièrement et de manière efficace. Le meilleur moyen d'évaluer un deck potentiel est de l'étaler devant vous selon les tours où vous devriez les jouer.
 
 Ainsi, vous pouvez voir quelles zones de la courbes sont surchargées ou en manque de cartes, ce qui vous permet de prendre de meilleures décisions de construction. Même si, dans l'absolu, une créature à 4 manas est meilleure qu'une autre à 3 manas, si vous avez sept créatures à 4 manas et uniquement deux à 3 manas, il vaut quand même mieux prendre la 3 manas.
 

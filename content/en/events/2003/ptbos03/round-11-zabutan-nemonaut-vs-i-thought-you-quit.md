@@ -93,7 +93,9 @@ The two teams competing for the right to play **Magic** on Sunday were both dese
 
 The draft had been an interesting one. Turian was playing a black-blue build as a result of some metagame drafting out of the traditionally green Seat A. Magid would try to counter with a standard red-green configuration--big monsters, acceleration, and burn. Things started pretty much as quickly as humanly possible--both sides of the table had both a turn 1 and a turn 2 play. Magid came out with Goblin Taskmaster and Wirewood Herald, while Turian answered with Carrion Feeder, Dragon Shadow on the draw. 
 
-![](https://i.ormos.uk/26/a2/26a257788b99aeb9355614bd6d75e41f5378ed6310f907135157c576b1a3da15.jpg)Magid sent for 2 and played a morph, and Turian was quick to answer by lovetapping Jeff right back for a deuce, though he couldn't use his mana on turn 3. Things really started to heat up on Jeff's fourth turn when the red-green mage dumped a Krosan Drover onto the table, threatening a massive body on the next turn. Mike's only rejoinder was to attack for yet another 2, and play his first morph of the match.
+![](https://i.ormos.uk/26/a2/26a257788b99aeb9355614bd6d75e41f5378ed6310f907135157c576b1a3da15.jpg)
+
+Magid sent for 2 and played a morph, and Turian was quick to answer by lovetapping Jeff right back for a deuce, though he couldn't use his mana on turn 3. Things really started to heat up on Jeff's fourth turn when the red-green mage dumped a Krosan Drover onto the table, threatening a massive body on the next turn. Mike's only rejoinder was to attack for yet another 2, and play his first morph of the match.
 
 Magid threatened trickery on his next turn, attacking with everything, but when Turian blocked Drover with morph and coolly went down to 7 life, he didn't move to save his 2/2 Elf. Surprisingly, he could only follow up with Fierce Empath, searching out Wirewood Guardian.
 

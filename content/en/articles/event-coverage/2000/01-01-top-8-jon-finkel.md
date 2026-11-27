@@ -44,7 +44,9 @@ archive_source:
   sha256: 4fc76dc266a9bb66def13da59c6986a8925446d822c1bfc130e062ddee2e55d9
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/721.jpg)To say Jon Finkel is a superstar is an understatement.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/721.jpg)
+
+To say Jon Finkel is a superstar is an understatement.
 
 "I really don't know why I'm winning."
 
@@ -56,7 +58,9 @@ Jon had a fairly simple strategy for his success this weekend. He actively avoid
 
 "I drafted two colors with a splash in all of my drafts. The splash is fine in this format. But I made sure that I'd avoid the guy playing on my right. If his first pick was Blue, I'd go Red/Green. If it was White, I'd go Black/Red. Whatever he chose, I'd start in immediately on the exact opposite colors."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/692.jpg)Throughout the weekend it seemed as though he avoided Blue most often in the drafts, but Jon explained that this was just because he always sat next to Blue players, and was applying his basic "draft opposites" plan. Like a majority of the players, he continued his successful Swiss strategy into the final draft, going towards Black/Red in response to Michael "Mikey P" Pustilnik's Blue/White draft. Things played out wonderfully for him in the luck department as well. A Pyre Zombie joined his deck early, skipping by several people before finding its way to his deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/692.jpg)
+
+Throughout the weekend it seemed as though he avoided Blue most often in the drafts, but Jon explained that this was just because he always sat next to Blue players, and was applying his basic "draft opposites" plan. Like a majority of the players, he continued his successful Swiss strategy into the final draft, going towards Black/Red in response to Michael "Mikey P" Pustilnik's Blue/White draft. Things played out wonderfully for him in the luck department as well. A Pyre Zombie joined his deck early, skipping by several people before finding its way to his deck.
 
 With all of his success, Jon doesn't expect that his reputation gives him too much of an advantage.
 

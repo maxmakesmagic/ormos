@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Randy Buehler* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/929.jpg)Could Jon Finkel break the $200,000 career winnings mark? That was the question when he sat down for a second round match against Joe Weber. The winner would be guaranteed at least $6,500 (while the loser had to settle for $4,000) and that $6,500 would be enough to put Finkel over the 200K-mark before anyone else had moved to 6 digits at all. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/929.jpg)
+
+Could Jon Finkel break the $200,000 career winnings mark? That was the question when he sat down for a second round match against Joe Weber. The winner would be guaranteed at least $6,500 (while the loser had to settle for $4,000) and that $6,500 would be enough to put Finkel over the 200K-mark before anyone else had moved to 6 digits at all. 
 
 Finkel drafted a nice black/blue deck with just a touch of white. Weber drafted green/red beats, also with a touch of white making this a classic battle of beatdown and control. The key play in game 1 didn't look crucial at the time, but when Finkel used his Cursed Flesh to kill a Quirion Elf, he deprived Weber of red mana for the rest of the game and pinched his overall mana supply. Weber's previous plan had been to start slowly and try to wreck Finkel with Breath of Darigaaz. However, Finkel's two flying attackers and Weber's lack of red mana meant this plan was flawed on two fronts. 
 

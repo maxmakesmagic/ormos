@@ -135,17 +135,23 @@ FAQ
 
 [Top](#top)
 
-![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)**When does the updated program period start?**
+![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)
+
+**When does the updated program period start?**
 
 The Rewards Program begins on January 3, 2014, following the downtime. It ends when the downtime begins on December 31, 2014. ("Rewards Program Period"). 
 
-![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)**Who can join it? How much does it cost?**
+![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)
+
+**Who can join it? How much does it cost?**
 
 This program is open to anyone who has created a **Magic Online** account that is in good standing and meets the **Magic Online** Player Rewards eligibility requirements. We ask for a valid email address (so that we can contact you about the program). The Eligibility Requirements and Official Terms of the program can be found below.
 
 [Sign up for and download **Magic Online**](https://web.archive.org/web/20131202000000/https://accounts.onlinegaming.wizards.com/).
 
-![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)**How do I sign up for the program?**
+![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)
+
+**How do I sign up for the program?**
 
 If you are new to **Magic Online**, start by [signing up and downloading **Magic Online**](https://web.archive.org/web/20131202000000/https://accounts.onlinegaming.wizards.com/).
 
@@ -153,7 +159,9 @@ Once you are signed up, or if you already have an account, please read through t
 
 <table><tbody><tr><th><div>Client Version</div></th><th>Instructions</th></tr><tr><td>Wide Beta Client</td><td>Go to Account amp;gt; Policy Agreements. Select &quot;Yes, I'm eligible to receive rewards&quot; under the Player Rewards section.</td></tr><tr><td>Current Client</td><td>Go to Menu amp;gt; Settings amp;gt; Personal Settings. Select “YES, I have read the eligibility requirements and am eligible to participate in the Rewards Program” in the Player Rewards Eligibility section.</td></tr></tbody></table>
 
-![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)**Why is an email address required?**
+![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)
+
+**Why is an email address required?**
 
 First, this is how we verify that you are the owner of the **Magic Online** account that you are receiving rewards for. Your account’s security is important to us.
 
@@ -161,17 +169,23 @@ Second, by having your correct email address (and if you have opted in to receiv
 
 If an email is returned due to an invalid email address, we may withhold or cancel membership benefits. Please update any change in your personal information in the **Magic Online** game client or by contacting **Wizards of the Coast** Game Support.
 
-![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)**When does a month end or the next one begin?**
+![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)
+
+**When does a month end or the next one begin?**
 
 [Check the MOPR 2014 Schedule above](#schedule) for dates of the monthly periods for start and end times.
 
 **Please note:** All monthly periods begin after the scheduled downtime on the Start Date and end at the beginning of the scheduled downtime on the End Date. If there is no scheduled downtime when a monthly period would end, then that period ends at 8:00 AM Pacific Time (PT).
 
-![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)**What types of promo cards will be given out in this program?**
+![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)
+
+**What types of promo cards will be given out in this program?**
 
 A wide variety of promotional cards will be available. These include, but are not limited to, well known promo cards previously released in paper **Magic**, premium versions of cards, alternate art cards, and textless spells.
 
-![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)**How do I get the promo cards?**
+![](http://archive.wizards.com/mtg/images/digital/magiconline/questionmark.png)
+
+**How do I get the promo cards?**
 
 Once you have agreed to the **Magic Online** Player Rewards Official Terms, your **Magic Online** Player Rewards progress for the current monthly period begins. The period ends on the last scheduled downtime of the calendar month. Your Sign-up Date is the date that we activate your membership (not necessarily the date you created your **Magic Online** account). At the next monthly disbursement, we will verify your **Magic Online** account activity and grant your rewards using the guidelines below:
 

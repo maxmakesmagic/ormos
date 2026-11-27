@@ -55,7 +55,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/ad/c4/adc494acc937d1dbf816505ed8e8d273ec05955f7c7e73c3aa04f78ab805c8a0.jpg)At the of the first day, a familiar face from Boston sat at the top of the Pro Tour Osaka standings. His name: Rob Dougherty. His record: 11-2-1. The 3rd day of the Pro Tour isn't exactly strange to Rob at this point, as he finished Top 8 at Pro Tour NY 99, top 4 at PT Chicago 2000, and was a member of Your Move Games, the winning team at the first team PT competition in Washington DC in 1999. In fact, that team won quite a bit of money in the Masters series this previous Thursday, finishing in the quarter finals.
+![](https://i.ormos.uk/ad/c4/adc494acc937d1dbf816505ed8e8d273ec05955f7c7e73c3aa04f78ab805c8a0.jpg)
+
+At the of the first day, a familiar face from Boston sat at the top of the Pro Tour Osaka standings. His name: Rob Dougherty. His record: 11-2-1. The 3rd day of the Pro Tour isn't exactly strange to Rob at this point, as he finished Top 8 at Pro Tour NY 99, top 4 at PT Chicago 2000, and was a member of Your Move Games, the winning team at the first team PT competition in Washington DC in 1999. In fact, that team won quite a bit of money in the Masters series this previous Thursday, finishing in the quarter finals.
 
 I sat down with Rob right after the end of round 14, and got to get a good insight into his finish at the end of Swiss.
 

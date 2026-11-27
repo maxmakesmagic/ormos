@@ -234,7 +234,9 @@ This is the fourth installment in my series reviewing the cards in *Judgment* fo
 
 ### Red
 
-![](https://i.ormos.uk/5b/6b/5b6b474c3848b5501b6e27203310f273e33eb6e46df2ee70ff9d2af41277d7d2.jpg)Everyone knows that black got the short end in *Judgment*. With sixteen cards, only six of which are common, black's offerings are anaemic by comparison to the other colors, but in the bigger picture, you have to take into account the fact that black made up for it in *Torment* with twice as many cards as white and green, not to mention three of the five best commons in the set. When you look at *Odyssey* Block as a whole, you must come to one inescapable conclusion: Red just sucks.
+![](https://i.ormos.uk/5b/6b/5b6b474c3848b5501b6e27203310f273e33eb6e46df2ee70ff9d2af41277d7d2.jpg)
+
+Everyone knows that black got the short end in *Judgment*. With sixteen cards, only six of which are common, black's offerings are anaemic by comparison to the other colors, but in the bigger picture, you have to take into account the fact that black made up for it in *Torment* with twice as many cards as white and green, not to mention three of the five best commons in the set. When you look at *Odyssey* Block as a whole, you must come to one inescapable conclusion: Red just sucks.
 
 Be it the weak creatures, the cards that give your opponents options or a weaker set of kill spells then the red player is used to, *Judgment* red adds little to an already weak selection in a set where black, white and green each got their turn in the sun, and blue is a lot stronger than red can hope to be throughout the format. Someone's got to be the red mage, and if no one else is picking those cards up, it might as well be you, but I'd recommend you be absolutely certain that you aren't fighting with any neighbors before you go down that road.
 

@@ -45,7 +45,9 @@ archive_source:
   sha256: ccad30f1a3d2ee8e7fe723f07f46827a933543a592358444e80b0822e27f4bdf
 render_recovery: []
 ---
-![](https://i.ormos.uk/3d/90/3d90a348d4be6750ba03bbe13702113c7137cf8269bac132a0809d2e7bbe8736.jpg)Get your Standard Constructed skills warmed up, because tickets to Pro Tour *Return to Ravnica* in Seattle are up for grabs this Pro Tour Qualifier season! 
+![](https://i.ormos.uk/3d/90/3d90a348d4be6750ba03bbe13702113c7137cf8269bac132a0809d2e7bbe8736.jpg)
+
+Get your Standard Constructed skills warmed up, because tickets to Pro Tour *Return to Ravnica* in Seattle are up for grabs this Pro Tour Qualifier season! 
 
 You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20130710150318/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each decklist and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw.
 

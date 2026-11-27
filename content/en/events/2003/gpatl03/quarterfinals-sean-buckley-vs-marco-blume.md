@@ -111,7 +111,9 @@ Marco Blume is the other member of the infamous Phoenix Foundation, who are cras
 
 Marco was forced to double-mulligan in this game, giving Sean an incredible early advantage. His first spell was a cycled Renewed Faith. Sean kept playing mountains and goblins, mustering a strong offense after Marco's sluggish start. He played a Goblin Sledder and a Goblin Warchief, then busted in. He followed up with Volcanic Hammer directly at Marco.
 
-![](https://i.ormos.uk/fa/b1/fab15ad22383054496b0be7c76e054f056449aba9585d7655f4f92b6f8286ec9.jpg)The numerous attacks brought the stalwart German down to five life in short order. Facing a Piledriver, a Sledder, and the Warchief, Marco drew and played a Deep Analysis, but it wasn't nearly enough to save him.
+![](https://i.ormos.uk/fa/b1/fab15ad22383054496b0be7c76e054f056449aba9585d7655f4f92b6f8286ec9.jpg)
+
+The numerous attacks brought the stalwart German down to five life in short order. Facing a Piledriver, a Sledder, and the Warchief, Marco drew and played a Deep Analysis, but it wasn't nearly enough to save him.
 
 Marco Blume 0 – Sean Buckley 1
 
@@ -121,7 +123,9 @@ Sean kept trying not to smile as he sideboarded rapidly. Marco, for his part, lo
 
 This time it was Sean who reshuffled his cards, eventually happy with six. Marco led with a Krosan Verge and a forest, and Sean's first creature was a Sparksmith. He then calmly followed it up with a Sulfuric Vortex. Marco was forced to allow the Vortex to resolve, and sacrificed his Verge to find a plains and a forest. He shook his head as he presented his deck for Sean to cut.
 
-![](https://i.ormos.uk/fd/9f/fd9f7ec29eceaf07d28bf26b4b3bbd1e00e70a29a8de6fa1573088cb0eeda190.jpg)Marco frowned at his cards as he fanned them out. He played an Anurid Brushhopper and passed the turn, going to seventeen. Sean played a mountain and then a Clickslither, sending both his creatures into the red zone. Marco blocked the Clickslither with his Brushhopper, and Sean sacrificed the Sparksmith to make the Clickslither larger. Marco then opted to discard two Deep Analyses to remove the Brushhopper from the game, then took his damage from the unblocked Goblin and the Vortex.
+![](https://i.ormos.uk/fd/9f/fd9f7ec29eceaf07d28bf26b4b3bbd1e00e70a29a8de6fa1573088cb0eeda190.jpg)
+
+Marco frowned at his cards as he fanned them out. He played an Anurid Brushhopper and passed the turn, going to seventeen. Sean played a mountain and then a Clickslither, sending both his creatures into the red zone. Marco blocked the Clickslither with his Brushhopper, and Sean sacrificed the Sparksmith to make the Clickslither larger. Marco then opted to discard two Deep Analyses to remove the Brushhopper from the game, then took his damage from the unblocked Goblin and the Vortex.
 
 On Marco's turn, he played another Brushhopper and attacked with the original one. He grinned as he passed the turn back, asking the table judge for a pen to keep track of his life total. Sean's next plays made Marco pretty sad, though. He played a Goblin Warchief followed by another Sparksmith, and sent the new Smith and the Clickslither into the red zone. Marco blocked with the Brushhopper again, allowed Sean to sacrifice the Sparksmith, then played a Moment's Peace.
 
@@ -133,7 +137,9 @@ Marco Blume 1 – Sean Buckley 1
 
 ### Game 3
 
-![](https://i.ormos.uk/e7/64/e764f58f9f3a2d94e2041d97baaecc1bf04016c25f0e79c563250ac8018206ae.jpg)Sean opted to keep his original hand this game, leading with a mountain, but no first-turn play. His second-turn play was another mountain and a Defense Grid, followed by a third-turn Sulfuric Vortex. Marco played a bunch of lands, followed by an Anurid Brushhopper on his third turn. 
+![](https://i.ormos.uk/e7/64/e764f58f9f3a2d94e2041d97baaecc1bf04016c25f0e79c563250ac8018206ae.jpg)
+
+Sean opted to keep his original hand this game, leading with a mountain, but no first-turn play. His second-turn play was another mountain and a Defense Grid, followed by a third-turn Sulfuric Vortex. Marco played a bunch of lands, followed by an Anurid Brushhopper on his third turn. 
 
 Sean's first creature was a Goblin Piledriver, which he decided not to throw in front of Marco's attacking Brushhopper. Marco played another land on his turn and calmly threw down another Brushhopper, drawing exclamations of approval from the crowd. Sean played a Volcanic Hammer at Marco's head, trying to get some more damage in before things went from bad to worse.
 

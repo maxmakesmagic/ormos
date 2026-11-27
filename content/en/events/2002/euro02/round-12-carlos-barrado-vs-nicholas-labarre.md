@@ -70,7 +70,9 @@ Barrado 1 - Labarre 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/euro02/a853.jpg)Seeing how Nicolas' removal department had trouble with big creatures, Carlos sided in his Shivan Wurms. With muffled voices the adversaries exchanged comments while sideboarding took some time.
+![](http://www.wizards.com/sideboard/images/euro02/a853.jpg)
+
+Seeing how Nicolas' removal department had trouble with big creatures, Carlos sided in his Shivan Wurms. With muffled voices the adversaries exchanged comments while sideboarding took some time.
 
 Nicolas started off with a Grim Lavamancer which was allowed only one attack after a Volcanic Hammer struck it. A second Lavamancer replaced it, but soon faced an elephanttoken. Pierre got rid of it with a Flametongue Kavu. Both Lavamancer and Kavu were soon met with burn to the head. Carlos had also dropped a Keldon Necropolis which could prove key should the game last long enough.
 

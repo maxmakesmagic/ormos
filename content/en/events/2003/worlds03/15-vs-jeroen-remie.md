@@ -413,7 +413,9 @@ render_recovery:
   - Persecute
   occurrences: 1
 ---
-![](https://i.ormos.uk/9f/fb/9ffbb658416800d8420e02f71de793a61004f8a60517d9fb004610b134c141a5.jpg)　Remie は的確な表現かどうか議論はあると思うが、解りやすく書き表すと「フジケン」タイプ。かなりの巨体をのそりと揺らしその口には楊枝をくわえた風貌が特徴的だ。彼が世間から親しみを込めて「悪い」と呼ばれているかどうかは解らないが。
+![](https://i.ormos.uk/9f/fb/9ffbb658416800d8420e02f71de793a61004f8a60517d9fb004610b134c141a5.jpg)
+
+　Remie は的確な表現かどうか議論はあると思うが、解りやすく書き表すと「フジケン」タイプ。かなりの巨体をのそりと揺らしその口には楊枝をくわえた風貌が特徴的だ。彼が世間から親しみを込めて「悪い」と呼ばれているかどうかは解らないが。
 
 **慶太**：だから名前がレミィなんですね。
 
@@ -442,7 +444,9 @@ render_recovery:
 
 **Game 2**
 
-![](https://i.ormos.uk/f2/c1/f2c12369daa37939712a51831994479e122321c2053ce51cb61aa2e67109aa69.jpg)　先手の Remie は先ほどとは変わって《極楽鳥/Birds of Paradise》からの好調な滑り出し。そのまま《仕組まれた疫病/Engineered Plague》に繋げられてはと、すぐさま尋はこれを《炎の印章/Seal of Fire》で焼き焦がす。しかし、Remie はここから《花の壁/Wall of Blossoms》を連打しながら更なる《極楽鳥/Birds of Paradise》を。
+![](https://i.ormos.uk/f2/c1/f2c12369daa37939712a51831994479e122321c2053ce51cb61aa2e67109aa69.jpg)
+
+　先手の Remie は先ほどとは変わって《極楽鳥/Birds of Paradise》からの好調な滑り出し。そのまま《仕組まれた疫病/Engineered Plague》に繋げられてはと、すぐさま尋はこれを《炎の印章/Seal of Fire》で焼き焦がす。しかし、Remie はここから《花の壁/Wall of Blossoms》を連打しながら更なる《極楽鳥/Birds of Paradise》を。
 
 　これほどがっちりされては、さすがのゴブリンにも分が悪い。岡本もゴブリンを並べていくが、立ち並ぶ壁の前に進路を阻まれ本丸へ侵攻する事が出来ない。
 
@@ -480,7 +484,9 @@ render_recovery:
   
 **Game** 3
 
-![](https://i.ormos.uk/6a/cd/6acd6556003273b577cda97aae67908644e143865bac4da3036421a3efbd09ee.jpg)　先手の尋は《モグの狂信者/Mogg Fanatic》を、後手の Remie は《ラノワールのエルフ/Llanowar Elves》を。これが相打つと、尋は《ゴブリンの群衆追い/Goblin Piledriver》を、Remie は《極楽鳥/Birds of Paradise》と《ただれたゴブリン/Festering Goblin》を。
+![](https://i.ormos.uk/6a/cd/6acd6556003273b577cda97aae67908644e143865bac4da3036421a3efbd09ee.jpg)
+
+　先手の尋は《モグの狂信者/Mogg Fanatic》を、後手の Remie は《ラノワールのエルフ/Llanowar Elves》を。これが相打つと、尋は《ゴブリンの群衆追い/Goblin Piledriver》を、Remie は《極楽鳥/Birds of Paradise》と《ただれたゴブリン/Festering Goblin》を。
 
 　再び消耗戦か。  
  　  

@@ -106,7 +106,9 @@ render_recovery:
   - Unsummon
   occurrences: 112
 ---
-![](https://i.ormos.uk/62/5d/625d1a83620ecb9b6cfd546745f21b9a88cc08a47405b67868669f23afcfa714.jpg)Krempels has had a breakout year in competitive Magic, and was even the leader in the Rookie of the Year race until Masashi Ooiso crept ahead of him and then pulled far ahead by coming in second at Pro Tour Yokohama. This is not to take anything away from Krempels, who came in ninth at the same Pro Tour on tiebreakers. Without a doubt, he's a player to watch this weekend. His opponent, Tom Guevin, is, well...Tom Guevin. "Tommy" made the finals of the second Pro Tour in history on the old Queen Mary, but is better known for his unique personality than anything else.
+![](https://i.ormos.uk/62/5d/625d1a83620ecb9b6cfd546745f21b9a88cc08a47405b67868669f23afcfa714.jpg)
+
+Krempels has had a breakout year in competitive Magic, and was even the leader in the Rookie of the Year race until Masashi Ooiso crept ahead of him and then pulled far ahead by coming in second at Pro Tour Yokohama. This is not to take anything away from Krempels, who came in ninth at the same Pro Tour on tiebreakers. Without a doubt, he's a player to watch this weekend. His opponent, Tom Guevin, is, well...Tom Guevin. "Tommy" made the finals of the second Pro Tour in history on the old Queen Mary, but is better known for his unique personality than anything else.
 
 ### Game 1
 
@@ -120,7 +122,9 @@ Krempels- 0 Guevin- 1
 
 Duress revealed a hand of Exalted Angel, Mirari's Wake, Moment's Peace and Wrath of God\- the Wrath headed to the graveyard. Mesmeric Fiend followed on turn two, getting the Angel, and Rotlung Reanimator continued the curve on turn three. Krosan Verge accelerated Krempels into Mirari's Wake one turn early, and a second Fiend took Renewed Faith, leaving Krempels with Moment's Peace and Memory Lapse. Withered Wretch added even more pressure to the board, but Moment's Peace at least bought Krempels an extra turn.
 
-![](https://i.ormos.uk/57/41/5741d1c66b938fe50b6e2ff509860bfc482629da8e0011ac4d4ae0af4962db95.jpg)The Wretch removed the Peace from the graveyard to prevent a flash back on the next attack, and Braids, Cabal Minion was Counterspelled (with Krempels burning for two since his only blue source was Skycloud Expanse). With no answers left, Krempels drew Deep Analysis, and drew Wrath of God off that. Thanks to the Rotlung, Guevin was left with two Zombie tokens, but Krempels got back Exalted Angel and Renewed Faith. Chastise took out a token and Renewed Faith was cycled. Cabal Therapy got the Angel out of the way, and a token was used to flash it back, getting Cunning Wish out of Krempels' hand, leaving him with only a Memory Lapse. 
+![](https://i.ormos.uk/57/41/5741d1c66b938fe50b6e2ff509860bfc482629da8e0011ac4d4ae0af4962db95.jpg)
+
+The Wretch removed the Peace from the graveyard to prevent a flash back on the next attack, and Braids, Cabal Minion was Counterspelled (with Krempels burning for two since his only blue source was Skycloud Expanse). With no answers left, Krempels drew Deep Analysis, and drew Wrath of God off that. Thanks to the Rotlung, Guevin was left with two Zombie tokens, but Krempels got back Exalted Angel and Renewed Faith. Chastise took out a token and Renewed Faith was cycled. Cabal Therapy got the Angel out of the way, and a token was used to flash it back, getting Cunning Wish out of Krempels' hand, leaving him with only a Memory Lapse. 
 
 Braids resolved, and Krempels was way ahead on lands in play thanks to his second Krosan Verge. Guevin untapped, and sacrificed Braids right away. Graveborn Muse died to Wrath of God, and a deadly Corrupt was Memory Lapsed. This caused Krempels to burn for two, and when Guevin replayed it, Krempels had another Memory Lapse, burning once again. The third time, it resolved.
 

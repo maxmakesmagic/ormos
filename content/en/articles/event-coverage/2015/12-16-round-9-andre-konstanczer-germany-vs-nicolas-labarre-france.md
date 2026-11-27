@@ -48,7 +48,9 @@ render_recovery: []
 
 Labarre is playing a black control deck designed by the French national champion Yann Hammon. It is somewhat similar to Jon Finkel's US Nationals deck, but is improved with cards such as Phyrexian Processor and Chimeric Idol.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/180.JPG)Konstanczer, like most top pros today, is relying on artifacts to win. He is playing a monored Wildfire deck similar to the one his teammate Kai Budde won the World Championships with last year. A major addition to the deck are Tangle Wires.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/180.JPG)
+
+Konstanczer, like most top pros today, is relying on artifacts to win. He is playing a monored Wildfire deck similar to the one his teammate Kai Budde won the World Championships with last year. A major addition to the deck are Tangle Wires.
 
 Labarre started the first game with a perfect draw. He cast three Duresses in the first two turns, taking away a Grim Monolith, Tangle Wire and Mishra's Helix. He went on to Vampiric Tutor for a Stupor and remove the rest of Konstanczer's hand. 
 
@@ -58,7 +60,9 @@ In the second game Labarre pitched a Yawgmoth's Will to cast a turn 2 Unmask, ta
 
 Konstanczer kept Negator from attacking for a couple of turns with Tangle Wire, then used Wildfire to remove all permanents on Labarre's side of the table.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/199.JPG)Labarre had plenty of lands left in his hand and was able to cast another Negator a turn after Crater Hellion entered play. He was planning to race, and would win this race once Chimeric Idol joined the Negator on his side of the table.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/199.JPG)
+
+Labarre had plenty of lands left in his hand and was able to cast another Negator a turn after Crater Hellion entered play. He was planning to race, and would win this race once Chimeric Idol joined the Negator on his side of the table.
 
 Konstanczer killed all lands with a Tectonic Break and managed to win the race by playing a Tangle Wire via Thran Dynamo. While Andre had enough artifacts to keep attacking with the Hellion, Labarre, who was down to the two creatures as his only permanents, was forced to keep them tapped and lost the race.
 

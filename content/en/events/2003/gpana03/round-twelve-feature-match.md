@@ -463,7 +463,9 @@ render_recovery:
 ---
 ### Eugene Harvey vs. Gerard Fabiano
 
-![](https://i.ormos.uk/ff/f5/fff59b45c1660554230d0c506f476d50e81217a48ba377e850a81442e1d78528.jpg)The elimination rounds aren't officially on until the cut to eight players but everyone with more than two losses-even a draw more than two losses-knows they are in an elimination bracket as far as their chances to make the Top 8 are concerned. Eugene and Gerard are good friends and members of CMU/TOGIT. They were each sitting at 25 points (or 8-2-1) and the next loss would prove lethal for whoever took it.
+![](https://i.ormos.uk/ff/f5/fff59b45c1660554230d0c506f476d50e81217a48ba377e850a81442e1d78528.jpg)
+
+The elimination rounds aren't officially on until the cut to eight players but everyone with more than two losses-even a draw more than two losses-knows they are in an elimination bracket as far as their chances to make the Top 8 are concerned. Eugene and Gerard are good friends and members of CMU/TOGIT. They were each sitting at 25 points (or 8-2-1) and the next loss would prove lethal for whoever took it.
 
 Gerard was playing a three-color Scepter Tog deck that was designed by Jeff Cunningham. All four of the players that chose to play the deck made Day Two. 
 

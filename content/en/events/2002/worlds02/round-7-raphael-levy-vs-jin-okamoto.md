@@ -136,13 +136,17 @@ render_recovery:
   - Suntail Hawk
   occurrences: 114
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a878.jpg)An interesting factor in this match is that Okamoto was feeding Levy. Therefore, Okamoto knows that Levy got a significant amount of burn in *Odyssey* including two Chainflingers, and also knows that Levy didn't get an Arcane Teachings in *Judgment* unless he opened one (which wasn't the case). On the other hand, Levy cut off most of Okamoto's black in *Torment*, and knows that "The Last Emperor" doesn't have any Butchers or Crippling Fatigues unless he opened one. 
+![](http://www.wizards.com/sideboard/images/worlds02/a878.jpg)
+
+An interesting factor in this match is that Okamoto was feeding Levy. Therefore, Okamoto knows that Levy got a significant amount of burn in *Odyssey* including two Chainflingers, and also knows that Levy didn't get an Arcane Teachings in *Judgment* unless he opened one (which wasn't the case). On the other hand, Levy cut off most of Okamoto's black in *Torment*, and knows that "The Last Emperor" doesn't have any Butchers or Crippling Fatigues unless he opened one. 
 
 ### Game 1
 
 Okamoto played first and opened with a second turn Phantom Nomad, and Levy matched with Barbarian Outcast. The Nomad came through for two damage, and the Outcast answered back for two before being joined by a Barbarian Bully. At this point, Okamoto was content to keep his Nomad on defense where it would stop Levy's team. This plan was quickly nullified, thanks to Levy's Chainflinger. A second Chainflinger followed, changing things from bad to worse for Okamoto. Zombie Assassin threatened to break up the "Tim" team, but they ganged up on him before he became active and could Banish one of them. Okamoto attacked for another two points of damage with his Nomad, and played a second. 
 
-![](http://www.wizards.com/sideboard/images/worlds02/a879.jpg)Levy now played Last Rites for two, discarding lands. This stripped Okamoto of Morbid Huinger and Shade's Form, leaving him with Soul Scourge and Pay No Heed in hand. Both Nomads attacked, and Pay No Heed saved one from a Chainflinger poke. Levy blocked one Nomad with Outcast to slow down the beats and stabilize the board. Okamoto was fighting an uphill battle, and summoned Hallowed Healer to stall for some time against Levy's 'Flingers. It wasn't enough, and they eventually shot down all of Okamoto's creatures. Mesmeric Fiend locked up the game, and Okamoto simply smiled and scooped rather than reveal his hand.
+![](http://www.wizards.com/sideboard/images/worlds02/a879.jpg)
+
+Levy now played Last Rites for two, discarding lands. This stripped Okamoto of Morbid Huinger and Shade's Form, leaving him with Soul Scourge and Pay No Heed in hand. Both Nomads attacked, and Pay No Heed saved one from a Chainflinger poke. Levy blocked one Nomad with Outcast to slow down the beats and stabilize the board. Okamoto was fighting an uphill battle, and summoned Hallowed Healer to stall for some time against Levy's 'Flingers. It wasn't enough, and they eventually shot down all of Okamoto's creatures. Mesmeric Fiend locked up the game, and Okamoto simply smiled and scooped rather than reveal his hand.
 
 Okamoto- 0 Levy- 1 
 
@@ -150,7 +154,9 @@ Okamoto- 0 Levy- 1
 
 Levy's second turn revealed a hand full of spells, but no lands. Okamoto would need to draw lands for the next few turns, or lose to mana screw. Fortunately, he drew a swamp, and was able to summon Organ Grinder. Levy put it in check with Fledgling Imp, and Okamoto was stuck at three land. Levy's killer Chainflinger came back for a Game 2 encore, while Okamoto tried to slow things down by throwing Hallowed Healer into the fray. Okamoto drew a fourth land, and Teroh's Faithful provided a nuisance that stopped Levy's attack until Grotesque Hybrid hit the table. After a few turns Okamoto finally drew a fifth land, and played the Screams of the Damned that Levy saw with the Mesmeric Fiend at the beginning of the game. If Okamoto drew a swamp and could get one more card into the graveyard, he could activate the Screams three times and clear the board of everything but his Faithful. So, Levy attacked with his whole team to reduce Okamoto's life total before he would be forced to deal three to himself. Okamoto's only creature was the Faithful, so the attack brought him to ten. 
 
-![](http://www.wizards.com/sideboard/images/worlds02/a880.jpg)Levy discarded Filth to Grotesque Hybrid and attacked, forcing Okamoto to activate his Screams twice. This left only the Faithful on Okamoto's side and the Hybrid on Levy's side. Okamoto was at a dangerously low five life points. Okamoto summoned Soul Scourge, giving Levy the green light to send two Flame Bursts to the dome for the win.
+![](http://www.wizards.com/sideboard/images/worlds02/a880.jpg)
+
+Levy discarded Filth to Grotesque Hybrid and attacked, forcing Okamoto to activate his Screams twice. This left only the Faithful on Okamoto's side and the Hybrid on Levy's side. Okamoto was at a dangerously low five life points. Okamoto summoned Soul Scourge, giving Levy the green light to send two Flame Bursts to the dome for the win.
 
 **Final Result:** Okamoto- 0 Levy- 2 
 

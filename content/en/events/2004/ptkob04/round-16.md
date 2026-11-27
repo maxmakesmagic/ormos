@@ -411,7 +411,9 @@ render_recovery:
 ---
 ### Masashiro Kuroda vs. Eugene Sanchez Mata
 
-![](http://www.wizards.com/sideboard/images/ptkob04/r16fm1_1.jpg)Three times before this weekend Masashiro Kuroda has gone undefeated on day one of a premier tournament: Japanese Nationals in 2003, Grand Prix Sapporo in 2002, and Grand Prix Kyoto in 2003.
+![](http://www.wizards.com/sideboard/images/ptkob04/r16fm1_1.jpg)
+
+Three times before this weekend Masashiro Kuroda has gone undefeated on day one of a premier tournament: Japanese Nationals in 2003, Grand Prix Sapporo in 2002, and Grand Prix Kyoto in 2003.
 
 Not once did he make Top Eight.
 

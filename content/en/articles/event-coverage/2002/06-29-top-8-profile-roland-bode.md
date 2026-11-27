@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/53/5d/535de2c50a739f27f4a24eda4572e83c70024c0f125f21a19f17acfbec5cdb29.jpg)We talked to Roland Bode after the final 8 were announced. Although it was no surprise for him, that he was going to battle tomorrow for the title, he was still getting used to the idea. This rather unknown player up till now has been getting better results with time. At this year's German Nationals he finished 10th and qualified himself for Euros per ranking.
+![](https://i.ormos.uk/53/5d/535de2c50a739f27f4a24eda4572e83c70024c0f125f21a19f17acfbec5cdb29.jpg)
+
+We talked to Roland Bode after the final 8 were announced. Although it was no surprise for him, that he was going to battle tomorrow for the title, he was still getting used to the idea. This rather unknown player up till now has been getting better results with time. At this year's German Nationals he finished 10th and qualified himself for Euros per ranking.
 
 SB: "How old are you now?"  
  RB: "I'm 22. Oh wait. I'm older I'm 23. These days I have to do the math to know how old I am (laughter)."

@@ -644,6 +644,8 @@ This deck uses [Bonded Fetch](https://web.archive.org/web/20070801000000/https:/
 
 ### **Magic Online News**
 
-![Masters Edition](https://media.magic.wizards.com/image_legacy_migration/magiconline/images/MOL_ME_Logo.jpg)You may want to take a look at the refreshed design of [the official **Magic Online** page](https://web.archive.org/web/20070801000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline). The server status window is back, and you can also find information on a "Guru" Basic Land promotion there, as extra prizes for Premier Event participants. Furthermore, the V3 open beta is returning, so you may want to check out the blog and try it out. 
+![Masters Edition](https://media.magic.wizards.com/image_legacy_migration/magiconline/images/MOL_ME_Logo.jpg)
+
+You may want to take a look at the refreshed design of [the official **Magic Online** page](https://web.archive.org/web/20070801000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline). The server status window is back, and you can also find information on a "Guru" Basic Land promotion there, as extra prizes for Premier Event participants. Furthermore, the V3 open beta is returning, so you may want to check out the blog and try it out. 
 
 And finally, the big news is the release of [*Masters Edition*](https://web.archive.org/web/20070801000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline/article072007a), a **Magic Online**-only set. It is planned for a September 10 release and will feature many great cards from **Magic**'s pre-*Mirage* past for the Classic format. I will cover this in more detail in next week's article, but in the meantime you can watch the Card of the Day on **magicthegathering.com**, because every card you see there is going to be available in the new set!

@@ -54,7 +54,9 @@ render_recovery: []
 ---
 *By Kim Eikefet*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/199.JPG)When Nicolas Labarre made his first top 8 performance in 1998 Pro Tour Rome, a lot of people assumed he just got lucky. But several good finishes after that, for instance another top 8 in 1999 Pro Tour New York, has put the Frenchman in the very elite of European players. Now, he's hoping for a good performance in the European Championship. "I wouldn't have come here if I didn't think I had a chance to make top 8," Nicolas reveals.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/199.JPG)
+
+When Nicolas Labarre made his first top 8 performance in 1998 Pro Tour Rome, a lot of people assumed he just got lucky. But several good finishes after that, for instance another top 8 in 1999 Pro Tour New York, has put the Frenchman in the very elite of European players. Now, he's hoping for a good performance in the European Championship. "I wouldn't have come here if I didn't think I had a chance to make top 8," Nicolas reveals.
 
 The statement may seem a bit arrogant, but Nicolas is definitely not arrogant. In fact, he respects his opponents very much. While most players regard the U.S. Nationals as the toughest tournament in the world, Nicolas feels that the European Championship is just as tough. "At least it is much more difficult than Worlds. There are less random players, and I get a feeling that everybody can beat you," the 23 year old feels. He admits though that the reason may be that he actually knows many of the European players, but that should probably mean that he also knows their playing skills.
 

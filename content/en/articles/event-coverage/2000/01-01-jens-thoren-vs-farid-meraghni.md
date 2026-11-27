@@ -67,7 +67,9 @@ Meranghni 1-0
 
 一本目を先制したMeraghniはその勢いに乗って《[Diligent Farmhand](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diligent+Farmhand)/ 精励する農場労働者 》でのマナ加速から《[Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Springing+Tiger) / 飛びかかる虎 》と後手の出遅れを完全に消し去る展開速度でThorenのライフを削りにかかる。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsd02/a465.jpg)Thorenも《葉の踊り手/[Leaf Dancer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leaf+Dancer)》でMeraghniのライフを削りながら《 [Mystic Zealot](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Zealot) / 秘教の盲信者 》での防衛網を築きこうとする。しかしMeraghniはエンドステップにプレイした《[Elephant Ambush](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Ambush) / 象の待ち伏せ 》のトークンと《 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Springing+Tiger) / 飛びかかる虎 》を《無謀なる突進/[Reckless Charge](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reckless+Charge)》で強化してThorenのライフを一気に削りとろうとする。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsd02/a465.jpg)
+
+Thorenも《葉の踊り手/[Leaf Dancer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leaf+Dancer)》でMeraghniのライフを削りながら《 [Mystic Zealot](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Zealot) / 秘教の盲信者 》での防衛網を築きこうとする。しかしMeraghniはエンドステップにプレイした《[Elephant Ambush](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Ambush) / 象の待ち伏せ 》のトークンと《 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Springing+Tiger) / 飛びかかる虎 》を《無謀なる突進/[Reckless Charge](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reckless+Charge)》で強化してThorenのライフを一気に削りとろうとする。
 
 数ターン後度重なるMeraghniの猛攻を《 [Angelic Wall](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angelic+Wall) / 天使の壁 》や《 [Mystic Zealot](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Zealot) / 秘教の盲信者 》を使いつぶしつつどうにか凌いだThorenはようやく《獣の襲撃/[Beast Attack](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beast+Attack)》から一気に逆襲を開始する。
 
@@ -87,7 +89,9 @@ Meraghni 2-1
 
 もはや後が無いThorenは鬼気迫る形相で《葉の踊り手/[Leaf Dancer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leaf+Dancer)》を召喚してターンクロックをかけつつ《獣の襲撃/[Beast Attack](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beast+Attack)》のトークンや《遊牧の民のおとり/[Nomad Decoy](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nomad+Decoy)》を駆使してMeraghniの《呪文散らしのケンタウルス/[Spellbane Centaur](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellbane+Centaur)》や《 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Springing+Tiger) / 飛びかかる虎 》、さらには《 [Nantuko Disciple](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Disciple) / ナントゥーコの信奉者》までも完全に封殺することに成功する。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsd02/a467.jpg)勝負どころで冴えないドローを繰り返すMeraghniを尻目にThorenは《石舌のバジリスク/[Stone-Tongue Basilisk](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stone-Tongue+Basilisk)》と《[Thaumatog](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thaumatog)/ ソーマトグ》を場に出し隙あらばいつでもMeraghniを倒せる状態にして油断なく《葉の踊り手/[Leaf Dancer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leaf+Dancer)》で攻め続ける、《大洪水/[Deluge](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deluge)》さえ引ければMeraghniにもまだ勝機があるのだがMeraghniが土地以外のカードを引くことは無かった…。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsd02/a467.jpg)
+
+勝負どころで冴えないドローを繰り返すMeraghniを尻目にThorenは《石舌のバジリスク/[Stone-Tongue Basilisk](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stone-Tongue+Basilisk)》と《[Thaumatog](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thaumatog)/ ソーマトグ》を場に出し隙あらばいつでもMeraghniを倒せる状態にして油断なく《葉の踊り手/[Leaf Dancer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leaf+Dancer)》で攻め続ける、《大洪水/[Deluge](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deluge)》さえ引ければMeraghniにもまだ勝機があるのだがMeraghniが土地以外のカードを引くことは無かった…。
 
 Thoren 2-2
 
@@ -99,7 +103,9 @@ Thoren 2-2
 
 戦前から言われていた事だがThorenのデッキは《 [Kamahl, Pit Fighter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kamahl%2C+Pit+Fighter) / ピット・ファイター、カマール 》に対する耐性は無いに等しい。完全に無敵の戦士と化した《 [Kamahl, Pit Fighter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kamahl%2C+Pit+Fighter) / ピット・ファイター、カマール 》はThorenのクリーチャーを端から真っ二つに切り刻んでいく。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsd02/a461.jpg)完全に進退窮まったThorenはクリーチャーが全滅する前に《踏み荒らし/Overrun》＋《 [Thaumatog](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thaumatog) / ソーマトグ 》で最期の攻勢に出る。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsd02/a461.jpg)
+
+完全に進退窮まったThorenはクリーチャーが全滅する前に《踏み荒らし/Overrun》＋《 [Thaumatog](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thaumatog) / ソーマトグ 》で最期の攻勢に出る。
 
 しかし、土地を生贄に捧げた時点でMeraghniは手札から《 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace) / 一瞬の平和 》を見せこの戦いに終止符を打ったのだった。
 

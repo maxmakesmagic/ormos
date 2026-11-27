@@ -53,7 +53,9 @@ archive_source:
   sha256: 8440d33d29fc4c1fbf23159292a6e3ae541d15bf008f2242ef07ac2f7ab78285
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gptai02/a967.jpg)Two of Taiwan's unsung heroes found each other in the Feature Match area this round, after having ripped up the tournament with 7-1 records in the first eight rounds. Chang Ming Tung is playing the tournament's second-most popular deck: Psychatog with red. His opponent, Joe Wang, is running Blue-Green Madness, very similar to English "Deep Dog" designs.
+![](http://www.wizards.com/sideboard/images/gptai02/a967.jpg)
+
+Two of Taiwan's unsung heroes found each other in the Feature Match area this round, after having ripped up the tournament with 7-1 records in the first eight rounds. Chang Ming Tung is playing the tournament's second-most popular deck: Psychatog with red. His opponent, Joe Wang, is running Blue-Green Madness, very similar to English "Deep Dog" designs.
 
 Wang had to mulligan his first hand, and his second was equally unforgiving. It had a Cephalid Coliseum and Careful Study, but that was it. Luckily, the Study turned up the goods, allowing a Merfolk Looter, which fell to Tung's Terminate, and then Wild Mongrel.
 
@@ -61,7 +63,9 @@ It hit, and pitched Deep Analysis for damage. Wang flashed it back. Tung respond
 
 Tung held his ground. The troops ran in, and Psychatog blocked Mongrel. Wang pitched Rootwalla. Tung tried Terminate, but was stopped by Circular Logic. He fell to eight. He untapped and dropped Flametongue Kavu on the Wurm. Wang had no response. Now he was in a tricky situation. All his blue mana stung him, and his life total stood at just ten.
 
-![](http://www.wizards.com/sideboard/images/gptai02/a968.jpg)Again he held back. Wang attacked and and was unblocked, reducing Tung to three. Tung untapped. He drew Flametongue, but had only five mana. Instead, he Repulsed the Mongrel. Wang agonized over the decision, eventually choosing to go to eight for Counterspell. Tung turned over one of his own, and the card drawn from Repulse meant that his Psychatog could deal exactly eight.
+![](http://www.wizards.com/sideboard/images/gptai02/a968.jpg)
+
+Again he held back. Wang attacked and and was unblocked, reducing Tung to three. Tung untapped. He drew Flametongue, but had only five mana. Instead, he Repulsed the Mongrel. Wang agonized over the decision, eventually choosing to go to eight for Counterspell. Tung turned over one of his own, and the card drawn from Repulse meant that his Psychatog could deal exactly eight.
 
 Tung 1 - Wang 0
 
@@ -71,7 +75,9 @@ Wang was short on land, which meant he was long on threats. Another Mongrel conv
 
 The first Plague hit, and wiped out Merfolk. Wang's troops hit four four more. Tung tried to Repulse the Mongrel at end of turn, but fell into Disrupt. He shrugged it off. His fourteen life had him feeling comfortable. He played out the other Plauge, and Wang used Aether Burst to save his Rootwallas. The Plauge made sure they wouldn't re-enter play.
 
-![](http://www.wizards.com/sideboard/images/gptai02/a966.jpg)Tung took the opportunity to play a main phase Fact or Fiction. It turned over two Flametongue, Fire/Ice, Shivan Reef and Terminate. Quite Tasty. He took Flametongue and Terminate. Wang swung and pitched the Rootwallas and a Deep Analysis for damage. Tung questioned his play aloud. The Deep Analysis was flashed back, but when the Flametongue hit next turn, three damage didn't seem so hot any more. Circular Logic stopped Circular Logic, and the Mongrel was destroyed.
+![](http://www.wizards.com/sideboard/images/gptai02/a966.jpg)
+
+Tung took the opportunity to play a main phase Fact or Fiction. It turned over two Flametongue, Fire/Ice, Shivan Reef and Terminate. Quite Tasty. He took Flametongue and Terminate. Wang swung and pitched the Rootwallas and a Deep Analysis for damage. Tung questioned his play aloud. The Deep Analysis was flashed back, but when the Flametongue hit next turn, three damage didn't seem so hot any more. Circular Logic stopped Circular Logic, and the Mongrel was destroyed.
 
 Wang wasn't out of options. He tapped out for Arrogant Wurm. A triumphant Tung showed Terminate for the Wurm and the Psychatog. Wang's last gasp was Wild Mongrel. Tung offered him Burning Wish. Wang used his Logic. Tung played Repulse for the game. Wang's last card was Gainsay.
 

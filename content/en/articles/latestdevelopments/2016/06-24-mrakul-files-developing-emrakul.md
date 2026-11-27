@@ -81,7 +81,9 @@ If you'd like to have a face to put with each name, click below to review our ca
 
 ![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_kennagle.jpg)**KEN**—Ken Nagle, *Eldritch Moon* lead designer
 
-![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)**SPS**—Sam Stoddard, that's-a me!
+![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)
+
+**SPS**—Sam Stoddard, that's-a me!
 
 ![](http://media.wizards.com/legacy/magic/images/mtgcom/authorpics/authorpic_eriklauer.jpg)**EVL**—Erik Lauer, head developer
 

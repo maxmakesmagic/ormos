@@ -88,7 +88,9 @@ Result? Christmas in March for some players and a delay getting the compensation
 
 Once we realized this problem was only associated with the 8-player queues, we went ahead with the league compensation grants. Those finished up last week, so if you're a person who was in a league that was lost during the *Darksteel* Release Events, you should have your product by now. If you don't please contact Technical Support and let them know what league you were in.
 
-![](https://i.ormos.uk/71/ae/71ae7150501a35e22356e7fcb3baa9d023620cddab5c65253203f0c9ae8fc19e.jpg)For those of you in *Darksteel* leagues that crashed, you won't have gotten your Viridian Zealot avatar yet. That requires a separate script that we'll be running after the open beta finishes. There are two reasons for waiting. One is that you can't change your avatars now due to a bug and that fix is waiting for post-beta. Two is we haven't decided what to do about *Darksteel* Release Events. I'll let everyone know after Thursday where we're going from here.
+![](https://i.ormos.uk/71/ae/71ae7150501a35e22356e7fcb3baa9d023620cddab5c65253203f0c9ae8fc19e.jpg)
+
+For those of you in *Darksteel* leagues that crashed, you won't have gotten your Viridian Zealot avatar yet. That requires a separate script that we'll be running after the open beta finishes. There are two reasons for waiting. One is that you can't change your avatars now due to a bug and that fix is waiting for post-beta. Two is we haven't decided what to do about *Darksteel* Release Events. I'll let everyone know after Thursday where we're going from here.
 
 ### Speaking Of Beta…
 

@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-[![Guildpact](https://i.ormos.uk/bf/68/bf68d5b8a8d6f340db306ec5ddd3084eb21e714fc8ec34e12c97b25daf2e53f3.jpg "Guildpact")](https://web.archive.org/web/20080509092701/http://www.wizards.com/default.asp?x=magic/expansion/guildpact)Once the holidays are over, get ready to dig **three guilds deeper** into the *Ravnica* Block.
+[![Guildpact](https://i.ormos.uk/bf/68/bf68d5b8a8d6f340db306ec5ddd3084eb21e714fc8ec34e12c97b25daf2e53f3.jpg "Guildpact")](https://web.archive.org/web/20080509092701/http://www.wizards.com/default.asp?x=magic/expansion/guildpact)
+
+Once the holidays are over, get ready to dig **three guilds deeper** into the *Ravnica* Block.
 
 [*Guildpact*](https://web.archive.org/web/20080509092701/http://www.wizards.com/default.asp?x=magic/expansion/guildpact) releases February 3, 2006, with worldwide Prerelease tournaments starting on January 21.
 

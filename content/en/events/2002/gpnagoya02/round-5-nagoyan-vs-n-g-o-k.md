@@ -53,7 +53,9 @@ archive_source:
   sha256: 525d495547d21aba7b505ed89fc04e8fa519ba1bd0e11a020580e98b8defe8b2
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a971.jpg)The hometown heroes Nagoyans are looking to paint the town red this weekned. Though fairly unsung, Ryo Ogura, Ryoma Shiozu and Koji Nose are equipped to do so. They've drawn stiff competition for this round, however. They face the mixed-bag that is N.G.O.K. It's the unlikely alliance between Master Thug Masayuki Higashino, Japan's Poster Boy Tsuyoshi Fujita, and Hanger-On Takayuki Nagaoka. They're looking to crush Nagoyan's dreams right here.
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a971.jpg)
+
+The hometown heroes Nagoyans are looking to paint the town red this weekned. Though fairly unsung, Ryo Ogura, Ryoma Shiozu and Koji Nose are equipped to do so. They've drawn stiff competition for this round, however. They face the mixed-bag that is N.G.O.K. It's the unlikely alliance between Master Thug Masayuki Higashino, Japan's Poster Boy Tsuyoshi Fujita, and Hanger-On Takayuki Nagaoka. They're looking to crush Nagoyan's dreams right here.
 
 Ogura was looking strong early against Nagaoka, with a some early beats from Chatter and Wild Mongrel backed by Firebolt and Muscle Burst. Eventually Nagaoka hit five mana and brought out the fatties: Rabid Elephant and Balshan Griffin. Ogura was slow to get there, but it was worth it when he did: A truly terrifying Savage Firecat.
 

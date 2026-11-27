@@ -711,7 +711,9 @@ render_recovery:
 ---
 ### Osamu Fujita vs. Jens Thoren
 
-![](http://www.wizards.com/sideboard/images/gphk04/dr1_3.jpg)The modest Jens Thoren could not figure out why his match had been selected for coverage out of all the possible matches at their illustrious table, "I am guessing I got to him or we wouldn't have been featured."
+![](http://www.wizards.com/sideboard/images/gphk04/dr1_3.jpg)
+
+The modest Jens Thoren could not figure out why his match had been selected for coverage out of all the possible matches at their illustrious table, "I am guessing I got to him or we wouldn't have been featured."
 
 Jens had opened his Invitational card in the second pack but took Shrapnel Blast instead. The Solemn Simulacrum made it no further than Jin Okamoto and Osamu did not know what Jens was referring to. Jens laughed at the opportunity to open his own card, "I think the fix was in so I would open myself."
 

@@ -211,7 +211,9 @@ The reasoning was even deeper than the immediate event at hand though, as the re
 
 Extended is now an accepted thread in the fabric of organized play, but when it was first introduced it was met with some resistance out mostly due to worries about many of the same cards that will raise an eyebrow for players heading to Worlds (such as the so-called dual lands). Aaron assured me that Legacy—and its out-of-print cards are—is very much on the mind of R&D when they work on current sets. 
 
-![Meddling_Mage](http://www.wizards.com/magic/images/cardart/PS/Meddling_Mage.jpg)"We try to make cards like the fetch lands and *Ravnica* duals," said Aaron of the need for fewer duals in today's modern Legacy environment. "Not to mention new cards that are good against older strategies. Its amazing what cards like Meddling Mage, Pithing Needle, and Extirpate will allow you to fight against."
+![Meddling_Mage](http://www.wizards.com/magic/images/cardart/PS/Meddling_Mage.jpg)
+
+"We try to make cards like the fetch lands and *Ravnica* duals," said Aaron of the need for fewer duals in today's modern Legacy environment. "Not to mention new cards that are good against older strategies. Its amazing what cards like Meddling Mage, Pithing Needle, and Extirpate will allow you to fight against."
 
 Scott was looking forward to a Constructed format for Worlds that is relatively unexplored compared to **Magic Online**-legal formats that have been worked over by the massive computing power of thousands upon thousands of online and PTQ players. 
 

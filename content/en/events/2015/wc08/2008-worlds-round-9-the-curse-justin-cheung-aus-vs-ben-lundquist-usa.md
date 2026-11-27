@@ -60,7 +60,9 @@ As Cheung sent his six-card hand back for five, Lundquist turned to Aten and res
 
 Australia’s Justin Cheung is undefeated coming into this round.
 
-![](http://media.wizards.com/2015/events/wc08/r9_cheung.jpg)The Aussie immediately set about undoing his two-card deficit with aCourier’s Capsule while Ben Lundquist drew a card of sorts by sacrificing [Grixis](https://web.archive.org/web/20081212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grixis) Panorama to find a Swamp. Justin Cheung missed his fourth land drop, however, and hadn’t played a spell since the Capsule sitting on just threeIslands for mana. Trying to capitalize his opponent played aViscera Dragger and went on the offensive.
+![](http://media.wizards.com/2015/events/wc08/r9_cheung.jpg)
+
+The Aussie immediately set about undoing his two-card deficit with aCourier’s Capsule while Ben Lundquist drew a card of sorts by sacrificing [Grixis](https://web.archive.org/web/20081212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grixis) Panorama to find a Swamp. Justin Cheung missed his fourth land drop, however, and hadn’t played a spell since the Capsule sitting on just threeIslands for mana. Trying to capitalize his opponent played aViscera Dragger and went on the offensive.
 
 Sprouting Thrinax hit for Lundquist and when Cheung made his first threat in the form of Outrider of Jhess, Ben came right back with Scourge Devil. That dropped the elbow on Team Australia, and Justin promptly conceded after drawing no help the following turn.
 
@@ -84,7 +86,9 @@ Cheung opened the final game of the match on perfect Bant domain: Forest, Island
 
 Ben Lundquist is completely comfortable having his picture taken. Really.
 
-![](http://media.wizards.com/2015/events/wc08/r9_lundquist.jpg)The players seemed to be running theme decks. Lundquist played a second Zombie in the form ofViscera Dragger while Cheung went for an exalted scheme, adding [Waveskimmer Aven](https://web.archive.org/web/20081212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Waveskimmer+Aven) to his board. He quickly lost the 2/4, however, after using it to blockViscera Dragger then having the final point of toughness from the flyer removed by Ben’s post-combat Blister Beetle.
+![](http://media.wizards.com/2015/events/wc08/r9_lundquist.jpg)
+
+The players seemed to be running theme decks. Lundquist played a second Zombie in the form ofViscera Dragger while Cheung went for an exalted scheme, adding [Waveskimmer Aven](https://web.archive.org/web/20081212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Waveskimmer+Aven) to his board. He quickly lost the 2/4, however, after using it to blockViscera Dragger then having the final point of toughness from the flyer removed by Ben’s post-combat Blister Beetle.
 
 Courier’s Capsule and [Knight of the Skyward Eye](https://web.archive.org/web/20081212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knight+of+the+Skyward+Eye) hopped into play for Justin Cheung, but his opponent stayed on the offensive, playing aScourge Devil that allowed him to threaten a huge chunk of Cheung’s life total with an all-in attack. Cheung considered his courses of action carefully before opting not to block and falling to 9. That left the totals 13-9 in Ben’s favor, and indicated Justin had something up his sleeve if he was unafraid of taking such a wallop.
 

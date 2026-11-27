@@ -159,7 +159,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/a5/8d/a58dd207c341e78bc874f21eb9ea780cdd3a43e5587e3276325d35b605f71f1c.jpg)Rob Dougherty is the heart of the Your Move Games team, being the founder of the team. He playing the eccentric Frenchman Olivier Ruel. They are playing what undoubtedly has happened countless times earlier today, the Mono-Black control mirror matchup.
+![](https://i.ormos.uk/a5/8d/a58dd207c341e78bc874f21eb9ea780cdd3a43e5587e3276325d35b605f71f1c.jpg)
+
+Rob Dougherty is the heart of the Your Move Games team, being the founder of the team. He playing the eccentric Frenchman Olivier Ruel. They are playing what undoubtedly has happened countless times earlier today, the Mono-Black control mirror matchup.
 
 Ths game showed what was really important in the first game of the mirror matchup, Mind Sludge. Olivier was first with his Sludge, and Rob kept only one card after having to discard 5: Mind Sludge. So after 6 turns both players had their hands emptied and playing off the top of their decks. Dougherty was the first to topdeck with an Haunting Echoes, which could be considered a little hasty with not many threats in Ruel's graveyard (Mutilate, Innocent Blood, Mind Sludge, Morbid Hunger), but he intended for it to clear the way for the Stalking Bloodsucker that was in his hand. But the vampire was nullified by a Diabolic Tutor![](https://i.ormos.uk/0a/37/0a375272d088c4c24173af5349d5cb1ae26ba0b031490307c26545fe5f6e4af9.jpg)for Chainer's Edict, but he couldn't stop Dougherty tutoring the very next turn for a Skeletal Scrying, which was for 9 with the help of Cabal Coffers. Ruel kept putting a fight by casting Shambling Swarm and a Laquatus' Champion, with Dougherty matching with a Nantuko Shade and a Swarm of his own. An Innocent Blood cleared the way for a huge attack from the Shade for 16 damage, putting Ruel on 4. But Ruel was able to deal with the Shade on the next turn with a flashbacked Edict. But Ruel made a crucial miscalculation after topdecking Skeletal Scrying, casting it for three and putting himself within Rancid Earth range – which came from Dougherty the very next turn.
 
@@ -167,7 +169,9 @@ Dougherty 1-0
 
 Both players boarded in what is generally agreed to be the most correct strategy for the mirror – Braids and Land Destruction. Games often come down to the first Cabal Minion resolving.
 
-![](https://i.ormos.uk/a4/8e/a48ee27a0db27d87a6a9df0fa3daca9f12dca5e39ca3d727ae4cae3693afde66.jpg)Ruel goes first and acts first with a Rancid Earth on turn 3. The YMG player stumbled on mana, unable to respond with the two Rancid Earths in his own hand – stuck with an early Coffers that gave no advantage. Braids came out for the Frenchman nearly totally locking out the American if not for a timely Edict. But the damage was done and a Laquatus' Champion came down quickly and finished off Rob in quick order.
+![](https://i.ormos.uk/a4/8e/a48ee27a0db27d87a6a9df0fa3daca9f12dca5e39ca3d727ae4cae3693afde66.jpg)
+
+Ruel goes first and acts first with a Rancid Earth on turn 3. The YMG player stumbled on mana, unable to respond with the two Rancid Earths in his own hand – stuck with an early Coffers that gave no advantage. Braids came out for the Frenchman nearly totally locking out the American if not for a timely Edict. But the damage was done and a Laquatus' Champion came down quickly and finished off Rob in quick order.
 
 Games tied 1-1
 

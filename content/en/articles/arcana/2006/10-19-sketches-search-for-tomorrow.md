@@ -203,7 +203,9 @@ Welcome to another edition of [Sketches](https://web.archive.org/web/20080510150
 
 ### Artist Portfolio
 
-![Lotus_Blossom](https://i.ormos.uk/3e/d9/3ed9284bde06b09d40913db261e2a68bd0391442d631ea145e7a9c7cd4f92eea.jpg)Artist Randy Gallegos has contributed over 100 pieces of **Magic** artwork since *Ice Age*. His work can be seen on such cards as Vexing Arcanix, Stampeding Wildebeests, Earthcraft, Soul Warden, Lotus Blossom, Accumulated Knowledge, Plague Spores, Battle Screech, Mistform Stalker, Electrostatic Bolt, Hour of Reckoning, Martyr of Sands, and Sprite Noble, among many others.
+![Lotus_Blossom](https://i.ormos.uk/3e/d9/3ed9284bde06b09d40913db261e2a68bd0391442d631ea145e7a9c7cd4f92eea.jpg)
+
+Artist Randy Gallegos has contributed over 100 pieces of **Magic** artwork since *Ice Age*. His work can be seen on such cards as Vexing Arcanix, Stampeding Wildebeests, Earthcraft, Soul Warden, Lotus Blossom, Accumulated Knowledge, Plague Spores, Battle Screech, Mistform Stalker, Electrostatic Bolt, Hour of Reckoning, Martyr of Sands, and Sprite Noble, among many others.
 
 ### Art Description
 

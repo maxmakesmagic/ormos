@@ -44,7 +44,9 @@ archive_source:
   sha256: 64c94b86f4ba606f6b437c98df1fa4d083985d12275177fff5e9677a5fa12845
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/frnat04/fm5_1.jpg)This match between two of France's top players will not only determine who moves to 4-1 but also help decide who's the best player in their apartment - they are flatmates !
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/frnat04/fm5_1.jpg)
+
+This match between two of France's top players will not only determine who moves to 4-1 but also help decide who's the best player in their apartment - they are flatmates !
 
 ### Game 1
 

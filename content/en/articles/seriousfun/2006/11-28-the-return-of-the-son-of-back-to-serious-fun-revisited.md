@@ -243,7 +243,9 @@ She shakes her head as if trying to lose an aftertaste, but keeps typing. “Nex
 
 The keyboard tapping stops. “Coming back?! What, you just left and now you're going to start up again?”
 
-![](http://www.wizards.com/global/images/mtgcom_daily_tf10_picMain_en.jpg)“Not forever,” I assured her. “Just for one week.” Seeing her blank stare, I went on to explain. “It's Back to the Future Week next week. Or maybe it's Blast from the Past. Or Thank Goodness They Don't Write Here Anymore Week. One of those.”
+![](http://www.wizards.com/global/images/mtgcom_daily_tf10_picMain_en.jpg)
+
+“Not forever,” I assured her. “Just for one week.” Seeing her blank stare, I went on to explain. “It's Back to the Future Week next week. Or maybe it's Blast from the Past. Or Thank Goodness They Don't Write Here Anymore Week. One of those.”
 
 “So after this week, you're done.”
 
@@ -307,7 +309,9 @@ Hell with this. If the alpha male wants this sucker done, he's doing it himself.
 
 Well, after Turquoise demurred, I tried a succession of other potential substitute authors. As I've said in the past…I *am* pretty busy. So I thought of all the people who might be available and asked them. Rejections followed from Mark Rosewater (“busy” running a contest of some sort), Donald Rumsfeld (too expensive), the entire Minnesota Vikings offense (fumbled it), and even the apparently ungrateful staff I supervise at the Minnesota Department of Employment and Economic Development (unionized). 
 
-![Jovens_Ferrets](http://www.wizards.com/magic/images/cardart/HM/Jovens_Ferrets.jpg)That left just me, so here I am. Now, I know a bunch of people out there will be disappointed. After all, this is the guy whose friend moved out to Ohio…and lost to The Ferrett's play group! The Ferrett! Geez, he used to have a guy in his play group named *Sheldon*. How tough can this crowd possibly be? Pretty darn tough, it turns out. Apparently, four or five of them are enough, when put all together like some sort of inept, creaky Voltron, to beat one of my friends. (Now, I've never enjoyed The Ferrett's hospitality, and he's never enjoyed mine. But I can assure you that were he or one of his friends to come north for a visit, why, we'd roll out a red carpet and let him win every game. Really!)
+![Jovens_Ferrets](http://www.wizards.com/magic/images/cardart/HM/Jovens_Ferrets.jpg)
+
+That left just me, so here I am. Now, I know a bunch of people out there will be disappointed. After all, this is the guy whose friend moved out to Ohio…and lost to The Ferrett's play group! The Ferrett! Geez, he used to have a guy in his play group named *Sheldon*. How tough can this crowd possibly be? Pretty darn tough, it turns out. Apparently, four or five of them are enough, when put all together like some sort of inept, creaky Voltron, to beat one of my friends. (Now, I've never enjoyed The Ferrett's hospitality, and he's never enjoyed mine. But I can assure you that were he or one of his friends to come north for a visit, why, we'd roll out a red carpet and let him win every game. Really!)
 
 But I'll try to make it all better by introducing a new casual format. As a bonus, it's a format where Stuffy Doll, the latest and greatest multiplayer weapon, can shine.
 
@@ -390,7 +394,9 @@ The 8 for **Spider** gets at the core of what Teferi's all about. Teferi gives y
 
 The 2 for **Pigeon** is a reflection of “average”, or what a generic card would get for simply not working actively against the element. Teferi doesn't really care how many opponents are in play.
 
-![Giant_Cockroach](http://www.wizards.com/magic/images/cardart/9ED/Giant_Cockroach.jpg)The 4 for **Cockroach** is pretty standard for a permanent that lets you do something over and over (play creature spells at instant speed), but for a pretty big cost (in this case, the cost of the spells themselves). Neither tremendously impressive nor anything to sneeze at, the durability and repeatability of Teferi's effects depends largely upon how good you are at using him and protecting him. No surprise there.
+![Giant_Cockroach](http://www.wizards.com/magic/images/cardart/9ED/Giant_Cockroach.jpg)
+
+The 4 for **Cockroach** is pretty standard for a permanent that lets you do something over and over (play creature spells at instant speed), but for a pretty big cost (in this case, the cost of the spells themselves). Neither tremendously impressive nor anything to sneeze at, the durability and repeatability of Teferi's effects depends largely upon how good you are at using him and protecting him. No surprise there.
 
 Enough on Teferi – it's just a card. There will be plenty more cards like it, in the years to come. What's important is that you all maintain the tools to evaluate them honestly and play with and against them while enjoying the spirit of the game.
 
@@ -404,7 +410,9 @@ Well, I'll play **Magic** a few more times this year, and our group's Thursday n
 
 But I'll be spending most of my time this week (as you read this) planning the Alongi holiday extravaganza, a party we try to do every year – and had to skip last year since life was getting so crazy. It's a great time to honor those friends and family who are so important to us.
 
-![](http://www.wizards.com/global/images/mtgcom_daily_tf10_pic2_en.jpg)I'll also be helping my children with their self-defense and wushu techniques; our daughter won a statewide tournament for her skills with weapons and open hand, and it looks like a national championship (and a possible trip to China, to learn with Master Wu Bin, who also taught Jet Li) may be in the offing.
+![](http://www.wizards.com/global/images/mtgcom_daily_tf10_pic2_en.jpg)
+
+I'll also be helping my children with their self-defense and wushu techniques; our daughter won a statewide tournament for her skills with weapons and open hand, and it looks like a national championship (and a possible trip to China, to learn with Master Wu Bin, who also taught Jet Li) may be in the offing.
 
 Government work will go on, as government work tends to do. We're helping take care of the folks at the St. Paul Ford plant, and downtown Hastings is looking for a winter event that can pull off some of the success of this past summer's First Annual Historic Car Cruise-In. I'm enjoying the job of governing, and bracing for when campaigning may become an issue again (I'm up for re-election in 2008, if I choose to run again).
 

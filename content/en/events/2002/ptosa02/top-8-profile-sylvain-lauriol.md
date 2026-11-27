@@ -55,7 +55,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/c8/70/c870d4aa6530ec6a8d1c8870bcd23b1c38273bbc7210f13bb56dc293cca03fc5.jpg)Pro Tour Competitor Sylvain Lauriol hails from Bagnals Sur Ceze in France. This is his 4th Pro Tour event, though he's been well traveled throughout the world. In fact, he once attended Worlds as a member of the Scottish team! Of course, he was in University there at the time, so it can be excused. Now, he shows up at French institutions of higher learning, but the result is the same: he's finishing highly at tournaments that count.
+![](https://i.ormos.uk/c8/70/c870d4aa6530ec6a8d1c8870bcd23b1c38273bbc7210f13bb56dc293cca03fc5.jpg)
+
+Pro Tour Competitor Sylvain Lauriol hails from Bagnals Sur Ceze in France. This is his 4th Pro Tour event, though he's been well traveled throughout the world. In fact, he once attended Worlds as a member of the Scottish team! Of course, he was in University there at the time, so it can be excused. Now, he shows up at French institutions of higher learning, but the result is the same: he's finishing highly at tournaments that count.
 
 Lauriol chose to run a Blue/Green deck which featured multiple Threshold and Madness cards, such as Seton's Scout, Basking Rootwalla, and Werebear. "He is a kind and generous soul", said Mark Rosewater, when asked about Larioul. One would debate whether beating down with 4/4 and 4/3 creatures for two mana would be kind, but they would generously deal massive amounts of damage to any opponent!
 

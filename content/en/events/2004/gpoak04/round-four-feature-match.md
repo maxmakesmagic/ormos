@@ -1175,7 +1175,9 @@ render_recovery:
 ---
 ### Ben Stark vs. Peter Szegeti
 
-![Yo, drop a dime on me.](http://www.wizards.com/sideboard/images/gpoak04/r4fm1_1.jpg)Round four is one of the most anticipated rounds every Grand Prix. It is the round where all of the name players have to wade in to the sea of players that have been going at it all morning and try and win three rounds to make Day Two.
+![Yo, drop a dime on me.](http://www.wizards.com/sideboard/images/gpoak04/r4fm1_1.jpg)
+
+Round four is one of the most anticipated rounds every Grand Prix. It is the round where all of the name players have to wade in to the sea of players that have been going at it all morning and try and win three rounds to make Day Two.
 
 This round saw the pairing of two friends and competitors from the Top 8 of Grand Prix Anaheim. In fact Ben Stark conceded to his good friend Peter "PTR" Szegeti in Anaheim to ensure he would have a berth in the Top 8. 
 

@@ -896,7 +896,9 @@ render_recovery:
 
 ### Vanguard Poll Results!
 
-![](https://i.ormos.uk/a8/db/a8db56d3dee47dcb528d60bdbf87ef7e4f2fcac5e3a440cd5a5ce078a9f856a2.jpg)[Last week](/en/articles/intotheaether/2005/09-22-tribal-wars-raging) I slipped a poll at the bottom of the column in response to the growing buzz I've been getting from fans of the Vanguard format regarding the Hell's Caretaker avatar. Since it was the participation avatar given away during the *9th Edition* release events, it's pretty ubiquitous, and most anyone with a decent collection can make a pretty gross reanimation deck that can often set up a lock as early as turn 3 or 4 with Yosei, the Morning Star, eventually switching places with Kokusho, the Evening Star for the kill. I was curious whether the metagame would rise up to fight the Tier 1 menace or whether people felt the abilities were just too powerful, so I put it to a poll and here are the results:
+![](https://i.ormos.uk/a8/db/a8db56d3dee47dcb528d60bdbf87ef7e4f2fcac5e3a440cd5a5ce078a9f856a2.jpg)
+
+[Last week](/en/articles/intotheaether/2005/09-22-tribal-wars-raging) I slipped a poll at the bottom of the column in response to the growing buzz I've been getting from fans of the Vanguard format regarding the Hell's Caretaker avatar. Since it was the participation avatar given away during the *9th Edition* release events, it's pretty ubiquitous, and most anyone with a decent collection can make a pretty gross reanimation deck that can often set up a lock as early as turn 3 or 4 with Yosei, the Morning Star, eventually switching places with Kokusho, the Evening Star for the kill. I was curious whether the metagame would rise up to fight the Tier 1 menace or whether people felt the abilities were just too powerful, so I put it to a poll and here are the results:
 
 <table><tbody><tr><td colspan="3"><b> What do you think the Hell's Caretaker avatar's Vanguard abilities? </b></td>&#10;</tr>&#10;<tr><td>BAH-ROKEN!</td>&#10;<td>688</td>&#10;<td>44.1%</td>&#10;</tr>&#10;<tr><td>Powerful but not any more than some of the other avatars</td>&#10;<td>670</td>&#10;<td>42.9%</td>&#10;</tr>&#10;<tr><td>All hat but no cattle (or, Don't Believe The Hype)</td>&#10;<td>203</td>&#10;<td>13.0%</td>&#10;</tr>&#10;<tr><td><b>Total</b></td>&#10;<td><b>1561</b></td>&#10;<td><b>100.0%</b></td>&#10;</tr>&#10;</tbody></table>
 
@@ -906,7 +908,9 @@ Me, I'm still having a good time with my [Sakashima Eater of Days deck](/en/arti
 
 ### Whoever Won that *Mirage* Thing?
 
-![](https://i.ormos.uk/f0/48/f0487a19e9ffc0908e4a9493dc7fd0212f6e773158b4ca6d089738daded5726e.jpg)[Back in August](/en/articles/intotheaether/2005/08-04-randyb-reveals-more-on-mirage), RandyB revealed that *Mirage* would be coming to ***Magic** Online*, and since *Mirage* didn't have preconstructed decks, there would be some interesting twists to the ***Magic** Online Mirage* precons. The honor of helping to design one of the four precons would be extended to whichever MTGO player qualified for and won the ["Design a *Mirage* Theme Deck" Tournament](/en/articles/feature/2005/08-04-design-a-miragetm-theme-deck-tournament). The Championship was held on Saturday August 20th, and the winner was... Markus P
+![](https://i.ormos.uk/f0/48/f0487a19e9ffc0908e4a9493dc7fd0212f6e773158b4ca6d089738daded5726e.jpg)
+
+[Back in August](/en/articles/intotheaether/2005/08-04-randyb-reveals-more-on-mirage), RandyB revealed that *Mirage* would be coming to ***Magic** Online*, and since *Mirage* didn't have preconstructed decks, there would be some interesting twists to the ***Magic** Online Mirage* precons. The honor of helping to design one of the four precons would be extended to whichever MTGO player qualified for and won the ["Design a *Mirage* Theme Deck" Tournament](/en/articles/feature/2005/08-04-design-a-miragetm-theme-deck-tournament). The Championship was held on Saturday August 20th, and the winner was... Markus P
 
 **MTGO handle?** MarkusP  
 **Real name?** Markus Pettersson  

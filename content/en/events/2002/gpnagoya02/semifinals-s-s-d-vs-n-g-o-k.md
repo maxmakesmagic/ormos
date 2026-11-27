@@ -53,7 +53,9 @@ archive_source:
   sha256: df8ad20f97a046abf329d24063874d6bfd4d71615f17802772e058f285fe45eb
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a947.jpg)This was a big moment for Shuuhei Nakamura. A longtime disciple of Tsuyoshi Fujita, today they find themselves opposite each other in the "B" seat. Nakamura is joined by his friends Naoki Kabouchi and Kimio Imai, and together they have bested their opposition to win a spot in the Top 4. Fujita is with his perennial sidekick/enforcer, Masayuki Higashino and hope that making their third man Takayuki Nagaoka will reap dividends where none have come before. It's worked so far. Two more match wins will give them another title to add to their resume.
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a947.jpg)
+
+This was a big moment for Shuuhei Nakamura. A longtime disciple of Tsuyoshi Fujita, today they find themselves opposite each other in the "B" seat. Nakamura is joined by his friends Naoki Kabouchi and Kimio Imai, and together they have bested their opposition to win a spot in the Top 4. Fujita is with his perennial sidekick/enforcer, Masayuki Higashino and hope that making their third man Takayuki Nagaoka will reap dividends where none have come before. It's worked so far. Two more match wins will give them another title to add to their resume.
 
 While the others were still shuffling, Nakamura and Fujita got right down to it. Or rather, Nakamura got right down to it. Fujita sort of sat there and took punches. Game 1 went to Nakamura in under three minutes.
 

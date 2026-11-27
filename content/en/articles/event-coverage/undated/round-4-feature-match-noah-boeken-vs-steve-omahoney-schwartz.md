@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Mark Wraith* 
 
-![](https://i.ormos.uk/2b/e1/2be160b08b38b6fd9572450cf9808881e128260efb3f6e3d792215489fc58cbe.jpg)This was the first round for both of these players - they had received three byes due to their Pro Tour Point totals. Steve was the winner of Pro Tour Los Angeles back in 1998 but has been pretty quiet recently, whereas Noah is having a good year, with a win in last years' European Championships and a Grand Prix win at Helsinki back in October. 
+![](https://i.ormos.uk/2b/e1/2be160b08b38b6fd9572450cf9808881e128260efb3f6e3d792215489fc58cbe.jpg)
+
+This was the first round for both of these players - they had received three byes due to their Pro Tour Point totals. Steve was the winner of Pro Tour Los Angeles back in 1998 but has been pretty quiet recently, whereas Noah is having a good year, with a win in last years' European Championships and a Grand Prix win at Helsinki back in October. 
 
 Noah had a Blue/Black/Red deck, one of the most popular color combinations among the top players, whereas Steve was playing a very unusual set of colors, Blue/Red/White. 
 

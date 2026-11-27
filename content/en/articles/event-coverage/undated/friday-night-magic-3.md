@@ -95,35 +95,51 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 ![What's being said about us...](http://www.wizards.com/mtg/images/widgets/twitter/header.png)
 
-[![](http://a1.twimg.com/profile_images/526779970/200px-Tsabo_Tavoc_normal.jpg)](http://twitter.com/letoadinfinitum)[**letoadinfinitum**](http://twitter.com/letoadinfinitum) Congrats all who had fun at [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) and at [@gametimehobbies](http://twitter.com/gametimehobbies) in general. I was cleaning up carpet. You heard me.
+[![](http://a1.twimg.com/profile_images/526779970/200px-Tsabo_Tavoc_normal.jpg)](http://twitter.com/letoadinfinitum)
+
+[**letoadinfinitum**](http://twitter.com/letoadinfinitum) Congrats all who had fun at [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) and at [@gametimehobbies](http://twitter.com/gametimehobbies) in general. I was cleaning up carpet. You heard me.
 
 6/18/2010 10:51:27 PM
 
-[![](http://a1.twimg.com/profile_images/964560058/av_IMAG0012_scaled_normal.png)](http://twitter.com/necr0mancer)[**necr0mancer**](http://twitter.com/necr0mancer) Oh! Good luck to all at [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) tonight.
+[![](http://a1.twimg.com/profile_images/964560058/av_IMAG0012_scaled_normal.png)](http://twitter.com/necr0mancer)
+
+[**necr0mancer**](http://twitter.com/necr0mancer) Oh! Good luck to all at [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) tonight.
 
 6/18/2010 6:00:21 PM
 
-[![](http://a3.twimg.com/profile_images/999451583/5e249208-0c3f-495c-b043-e7755b97c6a1_normal.JPG)](http://twitter.com/CopySix)[**CopySix**](http://twitter.com/CopySix) I need a plan for [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) tonight : coin toss for conscription thingy or naya collar (?)
+[![](http://a3.twimg.com/profile_images/999451583/5e249208-0c3f-495c-b043-e7755b97c6a1_normal.JPG)](http://twitter.com/CopySix)
+
+[**CopySix**](http://twitter.com/CopySix) I need a plan for [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) tonight : coin toss for conscription thingy or naya collar (?)
 
 6/18/2010 2:50:18 PM
 
-[![](http://a3.twimg.com/profile_images/879864295/gwafa_hazid_profiteer_art_by_todd_lockwood_normal.jpg)](http://twitter.com/Tom_Sawyer_209)[**Tom\_Sawyer\_209**](http://twitter.com/Tom_Sawyer_209) I guess Karlton won't be with us for FNM. But at least we'll still hang and get in some matches beforehand. [#mtg](http://search.twitter.com/search?q=%23mtg) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
+[![](http://a3.twimg.com/profile_images/879864295/gwafa_hazid_profiteer_art_by_todd_lockwood_normal.jpg)](http://twitter.com/Tom_Sawyer_209)
+
+[**Tom\_Sawyer\_209**](http://twitter.com/Tom_Sawyer_209) I guess Karlton won't be with us for FNM. But at least we'll still hang and get in some matches beforehand. [#mtg](http://search.twitter.com/search?q=%23mtg) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
 
 6/18/2010 11:36:14 AM
 
-[![](http://a1.twimg.com/profile_images/888876888/DaveTwitter2_normal.jpg)](http://twitter.com/y2sky2003)[**y2sky2003**](http://twitter.com/y2sky2003) [@jayelarr](http://twitter.com/jayelarr) Same. Looking forward to [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) tonight =D
+[![](http://a1.twimg.com/profile_images/888876888/DaveTwitter2_normal.jpg)](http://twitter.com/y2sky2003)
+
+[**y2sky2003**](http://twitter.com/y2sky2003) [@jayelarr](http://twitter.com/jayelarr) Same. Looking forward to [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) tonight =D
 
 6/18/2010 9:48:45 AM
 
-[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)[**g\_remix**](http://twitter.com/g_remix) 今晩のフライデーナイトマジックは参加者10名です。 [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) [http://p.ybt.jp/g\_remix/4c1b749d985ef.jpg](http://p.ybt.jp/g_remix/4c1b749d985ef.jpg)
+[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)
+
+[**g\_remix**](http://twitter.com/g_remix) 今晩のフライデーナイトマジックは参加者10名です。 [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) [http://p.ybt.jp/g\_remix/4c1b749d985ef.jpg](http://p.ybt.jp/g_remix/4c1b749d985ef.jpg)
 
 6/18/2010 9:29:03 AM
 
-[![](http://a1.twimg.com/profile_images/888876888/DaveTwitter2_normal.jpg)](http://twitter.com/y2sky2003)[**y2sky2003**](http://twitter.com/y2sky2003) Good morning and happy Friday, friends! Work, then off to [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) to kick off a great Father's Day weekend.
+[![](http://a1.twimg.com/profile_images/888876888/DaveTwitter2_normal.jpg)](http://twitter.com/y2sky2003)
+
+[**y2sky2003**](http://twitter.com/y2sky2003) Good morning and happy Friday, friends! Work, then off to [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) to kick off a great Father's Day weekend.
 
 6/18/2010 8:33:20 AM
 
-[![](http://a1.twimg.com/profile_images/888876888/DaveTwitter2_normal.jpg)](http://twitter.com/y2sky2003)[**y2sky2003**](http://twitter.com/y2sky2003) Unbelievable game. GG Lakers and grats on the 16th title. Bedtime now. Work and [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) tomorrow...
+[![](http://a1.twimg.com/profile_images/888876888/DaveTwitter2_normal.jpg)](http://twitter.com/y2sky2003)
+
+[**y2sky2003**](http://twitter.com/y2sky2003) Unbelievable game. GG Lakers and grats on the 16th title. Bedtime now. Work and [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) tomorrow...
 
 6/17/2010 11:57:20 PM
 
@@ -135,7 +151,9 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 6/17/2010 10:37:27 PM
 
-[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)[**g\_remix**](http://twitter.com/g_remix) 今晩のフライデーナイトマジックはスタンダードです。皆様のご参加をお待ち申し上げております。 [http://bit.ly/9XyvRb](http://bit.ly/9XyvRb) [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM)
+[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)
+
+[**g\_remix**](http://twitter.com/g_remix) 今晩のフライデーナイトマジックはスタンダードです。皆様のご参加をお待ち申し上げております。 [http://bit.ly/9XyvRb](http://bit.ly/9XyvRb) [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM)
 
 6/17/2010 10:24:17 PM
 
@@ -151,7 +169,9 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 6/17/2010 5:22:18 PM
 
-[![](http://a3.twimg.com/profile_images/899763691/stan_normal.jpg)](http://twitter.com/stanrb)[**stanrb**](http://twitter.com/stanrb) Friday Night Magic here I come! [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) [#fnm](http://search.twitter.com/search?q=%23fnm) [#fb](http://search.twitter.com/search?q=%23fb)
+[![](http://a3.twimg.com/profile_images/899763691/stan_normal.jpg)](http://twitter.com/stanrb)
+
+[**stanrb**](http://twitter.com/stanrb) Friday Night Magic here I come! [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) [#fnm](http://search.twitter.com/search?q=%23fnm) [#fb](http://search.twitter.com/search?q=%23fb)
 
 6/17/2010 1:33:54 PM
 

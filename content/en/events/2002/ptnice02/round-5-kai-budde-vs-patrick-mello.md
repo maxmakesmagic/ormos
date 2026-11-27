@@ -131,7 +131,9 @@ render_recovery:
   - Words of Wisdom
   occurrences: 140
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a895.jpg)Yet again in this Pro Tour there was another rematch from yesterday, as these two had been paired up in the third round of the masters. (Kai had won). These two Godzilla teammates had also met in the Grand Prix Lisbon final where once again Budde had been victorious.
+![](http://www.wizards.com/sideboard/images/ptnice02/a895.jpg)
+
+Yet again in this Pro Tour there was another rematch from yesterday, as these two had been paired up in the third round of the masters. (Kai had won). These two Godzilla teammates had also met in the Grand Prix Lisbon final where once again Budde had been victorious.
 
 Kai won the toss and elected to draw first, but the Pro Tour Player of the year had to mulligan down to six (keeping a one land hand).
 
@@ -163,7 +165,9 @@ At this stage Kai revealed to his teammate that he had kept a one land hand.
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a894.jpg)Patrick sideboarded in an extra Angelic Wall and a Spirit Flare. Kai sideboarded in a bunch of Coral nets.
+![](http://www.wizards.com/sideboard/images/ptnice02/a894.jpg)
+
+Patrick sideboarded in an extra Angelic Wall and a Spirit Flare. Kai sideboarded in a bunch of Coral nets.
 
 Patrick asked Kai to play first, but then had to mulligan to six himself this time. However, Kai made no plays in his first 5 turns whilst Mello managed to spill out a Cephalid Scout, Skywing Aven and Aven Fisher – playing a Floating Shield naming 'white' on his Aven Fisher suspecting a Second Thoughts. Sure enough, Kai had the card and tried to target the Skywing Aven, but Patrick shifted the Shield and negated the spell to keep up the beats.
 

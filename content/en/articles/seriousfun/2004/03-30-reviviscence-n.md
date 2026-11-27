@@ -77,7 +77,9 @@ archive_source:
   sha256: 7a0ccde5e209c519253d5c77b1d1c0f73876ac2a9c088b073b7386068da3bb5f
 render_recovery: []
 ---
-![](https://i.ormos.uk/b6/7c/b67ca87ec73ae058bb5a188f33b453c5b5abaef6c02210b71d9e7bb017bb7f42.jpg)Serious Fun is always engaging to write; but every once in a while I write a column I'm pretty sure will come up again Christmastime. [The dictionary formats article](/en/articles/seriousfun/2004/03-16-dictionary-formats) from two weeks ago was so neat to do, and received such wonderful feedback, that I couldn't stay away for long. Let's do it again!
+![](https://i.ormos.uk/b6/7c/b67ca87ec73ae058bb5a188f33b453c5b5abaef6c02210b71d9e7bb017bb7f42.jpg)
+
+Serious Fun is always engaging to write; but every once in a while I write a column I'm pretty sure will come up again Christmastime. [The dictionary formats article](/en/articles/seriousfun/2004/03-16-dictionary-formats) from two weeks ago was so neat to do, and received such wonderful feedback, that I couldn't stay away for long. Let's do it again!
 
 Before we start, a couple of people asked me if I was truly picking the words at random. The answer is yes. (Seriously, who picks “teliospore” on purpose? That was embarrassing…) It's not fun for me if I ditch a word and go up or down the page, looking for something better. I mean, if I do that, after a certain point I'm just *reading the dictionary*…and that would be pathetic.
 

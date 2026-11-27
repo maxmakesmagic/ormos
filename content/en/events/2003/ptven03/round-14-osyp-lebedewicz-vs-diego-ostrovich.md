@@ -99,7 +99,9 @@ render_recovery:
 ---
 "Hurry up and win, Osyp! I'm hungry," shouted Patrick Sullivan. "Whatever you do just play fast—don't think just play!"
 
-![](http://www.wizards.com/sideboard/images/ptven03/a818.jpg)"Sounds good to me," Diego said under his breath.
+![](http://www.wizards.com/sideboard/images/ptven03/a818.jpg)
+
+"Sounds good to me," Diego said under his breath.
 
 "No pressure Osyp but your whole country is depending on you," Sullivan misstated. Darwin Kastle, William Jensen, and Jordan Berkowitz have already drawn into the top 8. Not only is Osyp's country well represented but his Northeast region is all over the Top 8. Osyp is a very popular player on the Tour and he his fan club was swelling around the feature match area to offer their support for this very difficult match-up.
 
@@ -119,7 +121,9 @@ If Osyp felt any of the pressure of being down a game in what is essentially an 
 
 Diego's turn two Lightning Rift made Osyp's life difficult while he cycled deep into his deck—including two Akroma's Vengeance. Diego—who had mulliganed his initial seven—stalled for a few turns on lands while Osyp went right to six lands and Exalted Angel. Diego found lands—including a Contested Cliffs—and played a Tephraderm. Osyp played another Angel and swung in with the first one.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a817.jpg)Diego cracked back with his 'Derm and used Cliffs to kill an Angel. Osyp kept the pressure on and played a Jareth, Leonine Titan with a white mana up. The Tephraderm could still kill it in response with only one white and it got to swing in for another attack before sniping the other Angel out of the sky—sending Osyp up to 22 in the process.
+![](http://www.wizards.com/sideboard/images/ptven03/a817.jpg)
+
+Diego cracked back with his 'Derm and used Cliffs to kill an Angel. Osyp kept the pressure on and played a Jareth, Leonine Titan with a white mana up. The Tephraderm could still kill it in response with only one white and it got to swing in for another attack before sniping the other Angel out of the sky—sending Osyp up to 22 in the process.
 
 Another Tephraderm hit the table but when Jareth attacked it was blocked by a morphed Vigilante. When it went to the yard it was the all clear for Osyp to play his Astral Slide. At the end of the turn Osyp dug for his eighth land—removoing the 'Derms from play in the process—and found it. 
 
@@ -141,7 +145,9 @@ Osyp – 1 Diego – 1
 
 ### Game 3
 
-![](https://i.ormos.uk/a1/20/a1202a03e0793c182fbd78023649193032637055f265fbb2d1263145a069e773.jpg)There was considerably less banter as they shuffled for their final game—the final game of the weekend for one of them. In fact there was actually silence in the feature area for a few scant moments until Amiel Tannenbaum started chanting, "Diego! Diego!" Osyp turned and gave Amiel a look as if to say, "Wtf?" Amiel enjoyed a rare opportunity to get the better of Osyp and whispered something in his ear. Osyp doesn't rattle easy and he laughed it off. Apparently Amiel asked why Osyp always loses when he make Top 8.
+![](https://i.ormos.uk/a1/20/a1202a03e0793c182fbd78023649193032637055f265fbb2d1263145a069e773.jpg)
+
+There was considerably less banter as they shuffled for their final game—the final game of the weekend for one of them. In fact there was actually silence in the feature area for a few scant moments until Amiel Tannenbaum started chanting, "Diego! Diego!" Osyp turned and gave Amiel a look as if to say, "Wtf?" Amiel enjoyed a rare opportunity to get the better of Osyp and whispered something in his ear. Osyp doesn't rattle easy and he laughed it off. Apparently Amiel asked why Osyp always loses when he make Top 8.
 
 ### Game 3
 

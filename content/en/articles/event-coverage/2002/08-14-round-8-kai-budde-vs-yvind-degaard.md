@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a862.jpg)The unfortunate truth is that every round, **someone** has to play Kai Budde. This round that someone was Øyvind Ødegaard of Norway, who last year helped his National Team to the finals, where they were defeated by the United States. This year he's on a tear to repeat that performance, alongside teammates Bjorn Jocumsen and Thomas Johansen. German National Champion Budde said that he expects to run into Ødegaard during the Team Rochester portion of the event.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a862.jpg)
+
+The unfortunate truth is that every round, **someone** has to play Kai Budde. This round that someone was Øyvind Ødegaard of Norway, who last year helped his National Team to the finals, where they were defeated by the United States. This year he's on a tear to repeat that performance, alongside teammates Bjorn Jocumsen and Thomas Johansen. German National Champion Budde said that he expects to run into Ødegaard during the Team Rochester portion of the event.
 
 Budde won the die roll and chose to draw. His flaky three-color manabase demanded it. Ødegaard got on the board quickly with Trained Pronghord (earning a raised eyebrow from Budde) and [Treacherous Werewolf](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treacherous+Werewolf). Budde dropped his third land.
 
@@ -69,7 +71,9 @@ And really, no one turns down Kai Budde, not even inanimate stacks of cards. He 
 
 Budde 1 - Ødegaard 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a872.jpg)Ødegaard was happy to get to draw in Game 2, with his manabase even worse than Budde's. Both managed to have three colors of mana on turn three. This time Ødegaard opened with [Benevolent Bodyguard](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Benevolent+Bodyguard).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a872.jpg)
+
+Ødegaard was happy to get to draw in Game 2, with his manabase even worse than Budde's. Both managed to have three colors of mana on turn three. This time Ødegaard opened with [Benevolent Bodyguard](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Benevolent+Bodyguard).
 
 Budde had [Last Rites](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Last+Rites) again, trading in his uncastables for Coercions. He stole [Aven Fisher](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Fisher) and [Battlewise Aven](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlewise+Aven), leaving [Organ Grinder](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Organ+Grinder) and [Mirror Wall](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirror+Wall). Ødegaard got them out and started hitting.
 
@@ -87,7 +91,9 @@ The Budde played [Guided Strike](https://web.archive.org/web/20020814000000/http
 
 Empty-handed, Budde had plucked [Psionic Gift](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psionic+Gift). He put it on his [Scalpelexis](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scalpelexis) and offed the [Organ Grinder](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Organ+Grinder) that was threatening to kill him in three turns. The Fatigue took care of the Monk, and an attack left Budde at four.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a863.jpg)Budde continued to rip, this time a second Monk. Ødegaard had [Ray of Distortion](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ray+of+Distortion) to stop the Gift, but it didn't seem like enough. His best cards were being stolen by the [Scalpelexis](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scalpelexis).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a863.jpg)
+
+Budde continued to rip, this time a second Monk. Ødegaard had [Ray of Distortion](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ray+of+Distortion) to stop the Gift, but it didn't seem like enough. His best cards were being stolen by the [Scalpelexis](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scalpelexis).
 
 Ødegaard got [Treacherous Werewolf](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treacherous+Werewolf) to up the beats, but Budde just answered with [Angelic Wall](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angelic+Wall). [Scalpelexis](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scalpelexis) struck again. Ødegaard busted through, trading his Werewolf for the Monk. There was nothing to be done, even without retriggering, the [Scalpelexis](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scalpelexis) had left him to five cards in library. [Hallowed Healer](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hallowed+Healer) was just too late. Shortly, with an empty library, he expired.
 

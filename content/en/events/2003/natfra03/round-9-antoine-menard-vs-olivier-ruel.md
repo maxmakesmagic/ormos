@@ -80,7 +80,9 @@ This was a rematch of round six, where they had played each other for the honor 
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/natfra03/a944.jpg)Olivier's version of Wake is a little different in that he has Angel's maindeck, which s becoming more standard, as well as more countermagic. Antoine played a second turn Wild Mongrel, which Olivier countered. Menard then played an Aquamoeba which resolved. He used it to drop a Basking Rootwalla into play.
+![](http://www.wizards.com/sideboard/images/natfra03/a944.jpg)
+
+Olivier's version of Wake is a little different in that he has Angel's maindeck, which s becoming more standard, as well as more countermagic. Antoine played a second turn Wild Mongrel, which Olivier countered. Menard then played an Aquamoeba which resolved. He used it to drop a Basking Rootwalla into play.
 
 Olivier made a fairly unmysterious morph, but Antoine just unsummoned it and madnessed out an Arrogant Wurm at the end of turn. His next attack dropped Olivier to seven, so he Cunning Wished for a Moment's Peace to buy a little more time.
 
@@ -90,7 +92,9 @@ Olivier Ruel 1 – Antoine Menard 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/natfra03/a943.jpg)Olivier has an interesting sideboard with four Chastise. He brought all of these in and took out Mirari's Wakes and Miraris, which are next to useless in this matchup anyway.
+![](http://www.wizards.com/sideboard/images/natfra03/a943.jpg)
+
+Olivier has an interesting sideboard with four Chastise. He brought all of these in and took out Mirari's Wakes and Miraris, which are next to useless in this matchup anyway.
 
 Antoine cursed under his breath as he drew an opening hand with no lands, and mulliganed into a landless six card hand. The game was all but over before it began as there were no land in his five card hand either. The four card hand was Wild Mongrel, Careful Study, Envelop, Arrogant Wurm, and was also thrown back. "Please mention that I only cut his deck," Olivier joked.
 

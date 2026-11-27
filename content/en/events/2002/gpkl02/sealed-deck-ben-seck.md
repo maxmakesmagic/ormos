@@ -102,7 +102,9 @@ render_recovery:
   - Restless Dreams
   occurrences: 61
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a993.jpg)Everyone's favorite Australian Ben Seck was brimming with confidence as he awaited the end of the deck swap. The self-proclaimed "Gamer For Life" had unfortunately gamed a little too much, sabotaging his once astronomical rating in time for the bye calculations for this weekend. As a result, he found himself with two.
+![](http://www.wizards.com/sideboard/images/gpkl02/a993.jpg)
+
+Everyone's favorite Australian Ben Seck was brimming with confidence as he awaited the end of the deck swap. The self-proclaimed "Gamer For Life" had unfortunately gamed a little too much, sabotaging his once astronomical rating in time for the bye calculations for this weekend. As a result, he found himself with two.
 
 As soon as he got his cards he peeked in the box and let out a sigh of relief. He hadn't gotten his cards back. He got the signal to start and laid out his cards. Beast Attack and Kamahl, Pit Fighter practically jumped out at him. Who could fault him for pumping the fist? Grinning from ear to ear, he proclaimed "I'll fight any judge who tries to take this from me!"
 

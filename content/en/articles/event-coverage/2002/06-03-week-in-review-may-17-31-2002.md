@@ -179,7 +179,9 @@ One of the main reason people are disappointed with DCI's decision is that they 
 
 ### Magic Invitational - Online
 
-![](https://i.ormos.uk/5a/48/5a487069d9fc2c7a1ecece659d5f148fe7e62be20971e10ca589d784c729e925.jpg)Earlier this week, Mark Rosewater announced the location for this year's **Magic** Invitational. Having traveled around the globe and visited five continents, the event will be held in North America for the first time. Sixteen invitees will be invited to Seattle, to tour Wizards of the Coast corporate offices, and to compete in front of live audiences - online. This year's event will take place on **Magic** Online - which I think is a great way to promote the software. As an avid fan of the program, I am definitely excited about the prospect - and the ability to view each match live is unprecedented and exciting. Let's hope it does not put the *Sideboard* staff out of work!
+![](https://i.ormos.uk/5a/48/5a487069d9fc2c7a1ecece659d5f148fe7e62be20971e10ca589d784c729e925.jpg)
+
+Earlier this week, Mark Rosewater announced the location for this year's **Magic** Invitational. Having traveled around the globe and visited five continents, the event will be held in North America for the first time. Sixteen invitees will be invited to Seattle, to tour Wizards of the Coast corporate offices, and to compete in front of live audiences - online. This year's event will take place on **Magic** Online - which I think is a great way to promote the software. As an avid fan of the program, I am definitely excited about the prospect - and the ability to view each match live is unprecedented and exciting. Let's hope it does not put the *Sideboard* staff out of work!
 
 ### National Championships
 

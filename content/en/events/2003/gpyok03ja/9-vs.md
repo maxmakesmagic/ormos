@@ -469,7 +469,9 @@ render_recovery:
 
 後手石田がマリガンを選択する。そして先に動いたのは岡本だった。2ターン目に《よじれた嫌悪者/Twisted Abomination》をサイクリングしつつ《腐れ肺の再生術師/Rotlung Reanimator》を召還する。
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a952.jpg)しかし返すターンで石田は裏向きで《賛美されし天使/Exalted Angel》を召還、手札にこれに対する回答が無い岡本は思わず悲鳴を上げる。
+![](http://www.wizards.com/sideboard/images/gpyok03/a952.jpg)
+
+しかし返すターンで石田は裏向きで《賛美されし天使/Exalted Angel》を召還、手札にこれに対する回答が無い岡本は思わず悲鳴を上げる。
 
 4ターン目に《復讐に燃えた死者/Vengeful Dead》を召還してみるものの、もちろん石田は返されたターンで《賛美されし天使/Exalted Angel》を表返して岡本のライフを削り始める。
 

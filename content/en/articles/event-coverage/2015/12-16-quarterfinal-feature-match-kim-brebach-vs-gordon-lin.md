@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Jamie Lynn* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/811.jpg)Kim Brebach is called a "dinosaur" because of how long he's been playing. He was at the first event ever in Australia. He's qualified for many a Pro Tour, but weighing the price of flying aganst the low low Australian dollar, had decided not to attend. He did make it to 2000 Worlds and played on the Australian team that came in 10th out of 50 teams. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/811.jpg)
+
+Kim Brebach is called a "dinosaur" because of how long he's been playing. He was at the first event ever in Australia. He's qualified for many a Pro Tour, but weighing the price of flying aganst the low low Australian dollar, had decided not to attend. He did make it to 2000 Worlds and played on the Australian team that came in 10th out of 50 teams. 
 
 Gordon Lin was Brebach's worthy opponent. Brebach is infamous in New Zealand for being really nice and a pleasure to play with. He's flagged for the under-1700 money and will be cleaning up since he is one of only two who made Top 8. 
 

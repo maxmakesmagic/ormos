@@ -93,7 +93,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/49/c5/49c577eeb32482eea4a70c4a95e6916ecaf6a355eedf0150b79210f83c4bfd12.jpg)All that jingoistic nonsense on both sides of the Atlantic Ocean surrounding the [Fan Favorite ballot](https://web.archive.org/web/20060331000000/http://boards1.wizards.com/showthread.php?t=609723) for the **Magic** Invitational ended up being the proverbial much ado about nothing due to Mark Rosewater's system for pass-downs. For those of you who have not been glued to the Invitational forums all week long like I have, the Fan Favorite vote turned into an ugly, acrimonious affair with many of the game's biggest names chiming in with their thoughts on the Invitational, the voting process, and the various personalities bobbing near the top of the polls. 
+![](https://i.ormos.uk/49/c5/49c577eeb32482eea4a70c4a95e6916ecaf6a355eedf0150b79210f83c4bfd12.jpg)
+
+All that jingoistic nonsense on both sides of the Atlantic Ocean surrounding the [Fan Favorite ballot](https://web.archive.org/web/20060331000000/http://boards1.wizards.com/showthread.php?t=609723) for the **Magic** Invitational ended up being the proverbial much ado about nothing due to Mark Rosewater's system for pass-downs. For those of you who have not been glued to the Invitational forums all week long like I have, the Fan Favorite vote turned into an ugly, acrimonious affair with many of the game's biggest names chiming in with their thoughts on the Invitational, the voting process, and the various personalities bobbing near the top of the polls. 
 
 The four players near the top were Jeff Cunningham, Dave Williams, Pierre Canali, and Geoffrey Siron. Early on, the leaders – the voting results were visible since they were done via the forums – were Dave and Jeff and this led to an outcry of blatant North American favoritism from the other side of the Atlantic. The point of contention was that the forums are in English and used predominantly by North Americans – a clear indication to some that there was a conspiracy to keep additional European and Asian players from the Invitational. 
 

@@ -100,7 +100,9 @@ render_recovery:
   - Orim's Chant
   occurrences: 85
 ---
-![](https://i.ormos.uk/7d/8f/7d8f3ab243fc67f7ac9ff08e753b3080953c3babecc5c4b5137b8bce3ed6b7f0.jpg)Peer rolled his eyes as he was announced for a feature match. Apparently his record is not so good under the harsh lights (while they are not actually harsh, they are hot). "My record is 0-2 and my overall record is 10-3. I hope to get more lucky this round."
+![](https://i.ormos.uk/7d/8f/7d8f3ab243fc67f7ac9ff08e753b3080953c3babecc5c4b5137b8bce3ed6b7f0.jpg)
+
+Peer rolled his eyes as he was announced for a feature match. Apparently his record is not so good under the harsh lights (while they are not actually harsh, they are hot). "My record is 0-2 and my overall record is 10-3. I hope to get more lucky this round."
 
 His opponent, Jordan Berkowitz, loves being on stage and hoped for Peer's streak to continue, "I don't!"
 
@@ -114,7 +116,9 @@ The deck can be fragile if facing an aggressive deck with Disenchants and that's
 
 Peer opened with a Benevolent Bodyguard on the draw and Jordan came back with a Medallion. One advantage Jordan had in the match-up was that on the early turns his deck appeared to be a Mind's Desire deck. Peer played Meddling Mages on the next couple of turns and named Snap and Mind's Desire. A True Believer was countered in between.
 
-![](https://i.ormos.uk/49/f0/49f0f940c48c7c31eb99d6fe6dbc7a011dd82b7e536b1522126c8e1aaee5047c.jpg)Another Medallion allowed Jordan to Cunning Wish for Intuition even though he missed his fourth land drop. He Intuitioned for Accumulated Knowledge and found another land and played athird Medallion. Peer played a Parallax Wave and Jordan was in a hurry to take his turn but the older player urged him to be patient, "Hold on, I need to put counters on this first." Jordan's eyes bulged; he was drawing nothing and was eager to improve his situation.
+![](https://i.ormos.uk/49/f0/49f0f940c48c7c31eb99d6fe6dbc7a011dd82b7e536b1522126c8e1aaee5047c.jpg)
+
+Another Medallion allowed Jordan to Cunning Wish for Intuition even though he missed his fourth land drop. He Intuitioned for Accumulated Knowledge and found another land and played athird Medallion. Peer played a Parallax Wave and Jordan was in a hurry to take his turn but the older player urged him to be patient, "Hold on, I need to put counters on this first." Jordan's eyes bulged; he was drawing nothing and was eager to improve his situation.
 
 A Divine Sacrament on the next turn dropped him to two and he was forced to run the Solitary Confinement with only a Squee in hand and no way to get out of the lock. He had to hope that Peer had no main deck enchantment removal. Three turns later, Peer flipped over a Seal of Cleansing and a frustrated Jordan went for his sideboard. 
 
@@ -132,7 +136,9 @@ Jordan wasn't buying, "I sense sarcasm."
 
 Peer didn't try and sell him, "Maybe just a little."
 
-![](https://i.ormos.uk/10/4f/104f094b94b7651e841eb973011b9653a6411c60a7ba215c7a76bb02c7384456.jpg)Jordan opened with an Island and when Peer played a Savannah Lions he nailed it with a Force Spike. R&D Developer Henry Stern was watching the match and he laughed, "I just had a 1995 flash back there."
+![](https://i.ormos.uk/10/4f/104f094b94b7651e841eb973011b9653a6411c60a7ba215c7a76bb02c7384456.jpg)
+
+Jordan opened with an Island and when Peer played a Savannah Lions he nailed it with a Force Spike. R&D Developer Henry Stern was watching the match and he laughed, "I just had a 1995 flash back there."
 
 Meddling Mage was also spiked and Jordan gave his opponent a ridiculing stare when he exclaimed, "Not again?" Peer used the Brainstorm/Flooded Strand trick to bury some cards and found a True Believer. Jordan Intuitioned for three Squee and played a Compulsion on his next turn.
 

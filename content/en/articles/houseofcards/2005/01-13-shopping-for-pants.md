@@ -429,7 +429,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/34/c0/34c076a5992648a3550a80a3952be2e67dbcfedcf2c72d46fa6f1b6ed5e10c81.jpg)I recently spent an afternoon interviewing members of Local Enchantment Users Anonymous, a local support group. And by “interviewing,” I mean “giving noogies to.” Local enchantments?! Everyone knows they're the worst cards in the game. Everyone but these saps.
+![](https://i.ormos.uk/34/c0/34c076a5992648a3550a80a3952be2e67dbcfedcf2c72d46fa6f1b6ed5e10c81.jpg)
+
+I recently spent an afternoon interviewing members of Local Enchantment Users Anonymous, a local support group. And by “interviewing,” I mean “giving noogies to.” Local enchantments?! Everyone knows they're the worst cards in the game. Everyone but these saps.
 
 “Sometimes I like to play Holy Strength on my Grizzly Bears right before attacking,” said purple nurple victim Louis Flugelbiffle.
 

@@ -58,7 +58,9 @@ What's worse, come Day 2 things didn't improve. Forgetting to sacrifice a perman
 
 ### Hardly a Warm Welcome
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a887.jpg)It was a big day for Dave Williams. Coming off a year-long suspension, he was eager to get back in the game and show that he still has what it takes. Of course, he had only one bye to his name, so it would be an uphill battle.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a887.jpg)
+
+It was a big day for Dave Williams. Coming off a year-long suspension, he was eager to get back in the game and show that he still has what it takes. Of course, he had only one bye to his name, so it would be an uphill battle.
 
 His first opponent was Judah Alt. As Williams tells it, things stalemated and Alt played land after land. When he hit eleven, he tapped them all.
 
@@ -72,10 +74,14 @@ Williams went on make Top 8, showing he's still got it.
 
 ### To the Victor Go the Spoils?
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a897.jpg)The artists at the event this weekend, Arnie Swekel, Glen Angus and Matt Cavotta, each donated an original piece of Magic art to be handed out as prizes this weekend. One piece would go to the winner, Swekel's [Hydromorph Gull](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hydromorph+Gull), but what to do with the other two?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a897.jpg)
+
+The artists at the event this weekend, Arnie Swekel, Glen Angus and Matt Cavotta, each donated an original piece of Magic art to be handed out as prizes this weekend. One piece would go to the winner, Swekel's [Hydromorph Gull](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hydromorph+Gull), but what to do with the other two?
 
 Matt Cavotta got the ball rolling. His piece, the original to [Volcanic Spray](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Spray), would go to the highest-placing player with red in their deck. Cavotta is a player as well as an artist, and he knew that red was considered unplayable in the format. Well, at the close of Day 1 things were still undecided. William Jensen, Cedric Phillips and Matthew Schmaltz. Before the last round they were in a dead heat. All three won, finishing nineteenth, twentieth, and twenty-second. Out in front was Schmaltz, playing white-red beatdown. The art was doubly sweet for him, as [Volcanic Spray](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Spray) had single-handedly given him a game win that day.
 
 The other prize was The Perseverance Award. It was the original to Glen Angus's [Wormfang Crab](https://web.archive.org/web/20020908000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wormfang+Crab), and would go to the player who stayed in the longest with the worst record. It went to Jeffery Kreutz, who stayed in the full eight rounds of Day 1 despite earning only a single match win. It was Kreutz's first major event and he had a great time working his game against tougher competition. Receiving the art was a golden end to an already great weekend.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a939.jpg)However, Kreutz's intial reaction, as it was explained what he was winning and why, was one of relief more than anything else. Hearing his name called out over the loudspeaker, he showed up at the scorekeeping station worried that they had found an error in his match report slips and that his one win would be taken away from him!
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a939.jpg)
+
+However, Kreutz's intial reaction, as it was explained what he was winning and why, was one of relief more than anything else. Hearing his name called out over the loudspeaker, he showed up at the scorekeeping station worried that they had found an error in his match report slips and that his one win would be taken away from him!

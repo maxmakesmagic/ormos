@@ -56,7 +56,9 @@ Stefano Fiore has already been featured in this event, he's playing G-U-R, and J
 
 ### Game One
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/925.jpg)Playing first, Stefano kept a dubious hand with no green mana, only a [Shivan Reef](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Reef) and an Island, and the gamble didn't pay off as he hadn't drawn another land by turn three and had to miss a land drop.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/925.jpg)
+
+Playing first, Stefano kept a dubious hand with no green mana, only a [Shivan Reef](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Reef) and an Island, and the gamble didn't pay off as he hadn't drawn another land by turn three and had to miss a land drop.
 
 He only missed one as he found a [Shivan Oasis](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Oasis) straight away, but this meant he had to wait another turn before playing any sort of threat. Meanwhile Johan's draw had been reasonable, and he played a [Spectral Lynx](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Lynx), being careful to keep black mana open for regeneration when he did so.
 
@@ -72,7 +74,9 @@ Johan Franzen 1 - Stefano Fiore 0
 
 ### Game Two
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/924.jpg)This time Stefano did have green mana, allowing him to bring out [Blurred Mongoose](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blurred+Mongoose) on his second turn, and Johan played a [Meddling Mage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Mage) preventing [Urza's Rage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Rage) from being cast.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/924.jpg)
+
+This time Stefano did have green mana, allowing him to bring out [Blurred Mongoose](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blurred+Mongoose) on his second turn, and Johan played a [Meddling Mage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Mage) preventing [Urza's Rage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Rage) from being cast.
 
 Fiore's only green mana was a [Yavimaya Coast](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Yavimaya+Coast), meaning that he had to take a point of damage every time he cast a creature. The Mage and the Mongoose traded, and were replaced by two more bears; Fiore's [Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan) and Franzen's [Galina's Knight](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Galina%27s+Knight). Stefano added a [Gaea's Skyfolk](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaea%27s+Skyfolk), which was [Repulse](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse)d before being played again.
 

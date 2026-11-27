@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Pete Norris*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/171.jpg)Noah Boeken is the current European Champion and is widely regarded as one of the best limited players in the world. Ed Fear finished 11th at this years Worlds, and with a Ranking somewhere around 2100, this match promised to be one of great skill and loud trash talk. Noah was playing a blue white flying deck, involving a light rebel chain and a number of combat tricks. Ed Fear was playing Red Green tapped out beats with some burn and 2 Spidersilk Armours. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/171.jpg)
+
+Noah Boeken is the current European Champion and is widely regarded as one of the best limited players in the world. Ed Fear finished 11th at this years Worlds, and with a Ranking somewhere around 2100, this match promised to be one of great skill and loud trash talk. Noah was playing a blue white flying deck, involving a light rebel chain and a number of combat tricks. Ed Fear was playing Red Green tapped out beats with some burn and 2 Spidersilk Armours. 
 
 **Game 1** 
 

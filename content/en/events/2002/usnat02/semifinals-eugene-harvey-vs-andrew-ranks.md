@@ -91,7 +91,9 @@ Harvey
 
 ### Game 3
 
-![](https://i.ormos.uk/25/1b/251b3f41facf7ca21073f22a51871c4f5aba54f9ded4ba7b0dfdc5d73a8d7980.jpg)Llanowar Elves entered play on turn one. Ranks Duressed on his first turn – just in time to take out Squirrel's Nest that would otherwise enter play on the following turn. As is, Harvey had to settle for Birds of Paradise and Wild Mongrel.
+![](https://i.ormos.uk/25/1b/251b3f41facf7ca21073f22a51871c4f5aba54f9ded4ba7b0dfdc5d73a8d7980.jpg)
+
+Llanowar Elves entered play on turn one. Ranks Duressed on his first turn – just in time to take out Squirrel's Nest that would otherwise enter play on the following turn. As is, Harvey had to settle for Birds of Paradise and Wild Mongrel.
 
 With Island and Swamp in play, Ranks had to decide between sitting on Memory Lapse and immediately removing one of Harvey's mana creatures with Ghastly Demise. He opted for the latter, taking out the Birds. Ranks rinsed and repeated a turn later, taking out a second Bird with Demise. He then cast Pshychatog but was unable to stop Opposition from entering play. Ranks cast Fact or Fiction and used Force Spike to counter Gainsay, with both players completely emptying out their hands at this point. Fact or Fiction provided Ranks with some cards to replenish his hand though, as he chose Psychatog and Underground River over a pair of Nightscape Familiars and an Island.
 
@@ -113,7 +115,9 @@ Unlike the previous several games, nothing happened over the course of the first
 
 Very soon Ranks could no longer afford to attack with Psychatog, holding it back to block a Squirrel and even countering Ice that threatened to tap it. Psychatog alone could not keep up though; with Ranks taking four points of damage from the Squirrels each turn. Ranks needed to find an answer, and fast. He had much hope in Fact or Fiction. It resolved, and Harvey offered him either Slay, or Psychatog and three lands. Both players were forced to spend a very long time on the difficult split, with Ranks finally choosing the four-card pile. Although the cards he got weren't as good, he was able to cycle through them with help of Cephalid Coliseum.
 
-![](http://www.wizards.com/sideboard/images/usnat02/a709.jpg)Ranks untapped and attacked with Psychatog. Harvey made a Squirrel and blocked it. Ranks summoned another Psychatog. Harvey countered with Circular Logic. Harvey's four Squirrels could reduce Ranks' life total down to one point next turn but not kill him. Thus, it made sense for him to attack with just two or three of the tokens to lower the chances of Ranks being able to kill off the rest and punch through with Psychatog for the win. 
+![](http://www.wizards.com/sideboard/images/usnat02/a709.jpg)
+
+Ranks untapped and attacked with Psychatog. Harvey made a Squirrel and blocked it. Ranks summoned another Psychatog. Harvey countered with Circular Logic. Harvey's four Squirrels could reduce Ranks' life total down to one point next turn but not kill him. Thus, it made sense for him to attack with just two or three of the tokens to lower the chances of Ranks being able to kill off the rest and punch through with Psychatog for the win. 
 
 Harvey started off by casting Static Orb. Although it wasn't particularly helpful to his Squirrel army, it also wasn't going to hurt him much, while it could hinder Ranks' ability to operate quite a bit more. Harvey sent in two Squirrels – just enough so he could untap them at the end of turn and attack again. Ranks used Ghastly Demise to kill one of them and went down to four life points.
 

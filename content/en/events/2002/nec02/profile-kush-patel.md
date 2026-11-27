@@ -45,7 +45,9 @@ archive_source:
   sha256: 5c04bf340633c5c42a624fb676d56bcb25570a6a707ab5e8932594e91fc84c2a
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/nec02/a036.jpg)Kush Patel is only sixteen years old – though you certainly would not guess it by looking at him. A pretty big guy, Patel is a resident of Southboro, MA. He owes his exotic name to his parents, who are from India, though Patel was born in United States. 
+![](http://www.wizards.com/sideboard/images/nec02/a036.jpg)
+
+Kush Patel is only sixteen years old – though you certainly would not guess it by looking at him. A pretty big guy, Patel is a resident of Southboro, MA. He owes his exotic name to his parents, who are from India, though Patel was born in United States. 
 
 Patel is not a pro player yet, though he did qualify for Team Pro Tour-New York. He and his teammates, all JSS players, chose not to attend the Pro Tour as it would disqualify them from being able to compete in future JSS events. Now that he is over sixteen, Patel can give a more serious consideration to trying to go pro. After he plays his last JSS event in Florida this weekend, that is.
 

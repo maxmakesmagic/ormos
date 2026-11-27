@@ -55,7 +55,9 @@ render_recovery: []
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/usnat02/a722.jpg)Anderson opened with a turn 1 Basking Rootwalla and pumped it up to attack on the following turn. That set the score at 18 to 17, as he was forced to operate off a Karplusan Forest. Chambers summoned a turn 1 Bird and enchanted his Forest with Squirrel's Nest on turn 2. He gained further advantage on the board by summoning Wild Mongrel on turn two and casting yet another Bird.
+![](http://www.wizards.com/sideboard/images/usnat02/a722.jpg)
+
+Anderson opened with a turn 1 Basking Rootwalla and pumped it up to attack on the following turn. That set the score at 18 to 17, as he was forced to operate off a Karplusan Forest. Chambers summoned a turn 1 Bird and enchanted his Forest with Squirrel's Nest on turn 2. He gained further advantage on the board by summoning Wild Mongrel on turn two and casting yet another Bird.
 
 Fact or Fiction yielded Wild Mongrel and a land for Anderson, putting three more lands in his graveyard, and getting him closer to Threshold – which would help make the Nimble Mongoose he summoned bigger. Anderson cast Wild Mongrel of his own. On the next turn he Repulsed an Elephant token made by Call of the Herd and swung with his team. 
 
@@ -73,7 +75,9 @@ Chambers
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/usnat02/a716.jpg)Anderson began the game with a turn two Nimble Mongoose. Chambers, who played first, cast Call of the Herd on the following turn. Anderson cast Flametongue Kavu to take out the token and attacked with the Goose. Chambers summoned Llanowar Elf and cast another Call of the Herd from his hand, only to have the new token taken out by the second Flametongue. Rapidly calling behind, he recast one of the Calls out of the graveyard and summoned another Elf. Andeson used Fire to take out both Elves and traded one of the Flametongues for an Elephant token in combat, bringing Chambers down to eleven life points.
+![](http://www.wizards.com/sideboard/images/usnat02/a716.jpg)
+
+Anderson began the game with a turn two Nimble Mongoose. Chambers, who played first, cast Call of the Herd on the following turn. Anderson cast Flametongue Kavu to take out the token and attacked with the Goose. Chambers summoned Llanowar Elf and cast another Call of the Herd from his hand, only to have the new token taken out by the second Flametongue. Rapidly calling behind, he recast one of the Calls out of the graveyard and summoned another Elf. Andeson used Fire to take out both Elves and traded one of the Flametongues for an Elephant token in combat, bringing Chambers down to eleven life points.
 
 Chambers cast a Flametongue Kavu of his own, taking out Anderson's. Anderson, who had Basking Rootwalla, Wild Mongrel, and Nimble Mongoose in play, attacked with the first two. Chambers tried to summon a Wild Mongrel, but lost a counter war over it, with Anderson reaching Threshold in the bargain. Main phase Fact or Fiction yielded Spellbane Centaur and Repulse for Anderson. He brought his opponent down to five life on the attack and summoned a second Nimble Mongoose with his remaining Forest. Unable to deal with these threats, Chambers was forced to concede Game 2.
 
@@ -107,7 +111,9 @@ Anderson
 
 ### Game 4
 
-![](http://www.wizards.com/sideboard/images/usnat02/a720.jpg)Wild Mongrels were summoned on both sides of the table. Anderson attacked with his, gaining card advantage by discarding a Basking Rootwalla to his Monger while Chambers discarded Opposition. With damage on the stack, each player discarded a land to save their dogs. Chambers summoned a Merfolk Looter and used Circular Logic to counter Fire. This left him unable to stop a Flametongue Kavu, which took out Wild Mongrel. Looter traded in combat with Basking Rootwalla, and another Mongrel Chambers summoned blocked Anderson's Mongrel. Anderson pitched Basking Rootwalla, and Chambers pitched Circular Logic to counter it. Both dogs became 3/3 and neither player chose to discard more cards, letting them die off.
+![](http://www.wizards.com/sideboard/images/usnat02/a720.jpg)
+
+Wild Mongrels were summoned on both sides of the table. Anderson attacked with his, gaining card advantage by discarding a Basking Rootwalla to his Monger while Chambers discarded Opposition. With damage on the stack, each player discarded a land to save their dogs. Chambers summoned a Merfolk Looter and used Circular Logic to counter Fire. This left him unable to stop a Flametongue Kavu, which took out Wild Mongrel. Looter traded in combat with Basking Rootwalla, and another Mongrel Chambers summoned blocked Anderson's Mongrel. Anderson pitched Basking Rootwalla, and Chambers pitched Circular Logic to counter it. Both dogs became 3/3 and neither player chose to discard more cards, letting them die off.
 
 Anderson ended the turn with summoning Spellbane Centaur. Chambers drew a fourth land and summoned Jade Leech, able to slow down his opponent's onslaught. Main phase Fact or Fiction yielded Standstill and Wild Mongrel for Anderson. He cast both. On the following turn he attacked with all of his creatures and discarded several cards to Wild Mongrel bringing Chambers down to three life points. As he would die next turn to the remaining two creatures attacking, Chambers was forced to break Standstill to cast Call of the Herd. Anderson countered, ending the game and match.
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/3b/4e/3b4eecc433267c70505eaf32f6fa8ae9b588fac8fb0e92251a2bfd55436acd36.jpg)David Petersen strode into this tournament with no byes, and after 12 rounds he is 11-1. His weapon of choice? A four-color Braids deck designed by Nick Little of Indianpolis.
+![](https://i.ormos.uk/3b/4e/3b4eecc433267c70505eaf32f6fa8ae9b588fac8fb0e92251a2bfd55436acd36.jpg)
+
+David Petersen strode into this tournament with no byes, and after 12 rounds he is 11-1. His weapon of choice? A four-color Braids deck designed by Nick Little of Indianpolis.
 
 "I'm a 5-Color player from Chicago," said Petersen, "and I met Nick when I was working in Indianapolis. He made Top 8 at Midwest Regionals with the deck this year. It's amazing."
 

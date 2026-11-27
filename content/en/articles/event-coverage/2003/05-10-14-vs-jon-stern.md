@@ -44,7 +44,9 @@ archive_source:
   sha256: 6e85290d2f02906107488ccb1d743bcccc2f8fb08e8ce9d4f39bfd69e03e5e3e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a766.jpg)　僅かに残された蜘蛛の糸。3rd Draft 終了時既に三敗を喫していた大礒。Top 8 に残るためには[最終ドラフト](/en/articles/event-coverage/2003/05-10-4th-draft-analysis)を三連勝しなければならなかった。しかし、抜群の赤緑デッキを作り上げた大礒は一つ一つ着実に勝利を重ね、この試合に勝利すれば...という所まで辿り着いたのだ。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a766.jpg)
+
+　僅かに残された蜘蛛の糸。3rd Draft 終了時既に三敗を喫していた大礒。Top 8 に残るためには[最終ドラフト](/en/articles/event-coverage/2003/05-10-4th-draft-analysis)を三連勝しなければならなかった。しかし、抜群の赤緑デッキを作り上げた大礒は一つ一つ着実に勝利を重ね、この試合に勝利すれば...という所まで辿り着いたのだ。
 
 　既に池田が Top 8 入りを決めている。はたして、二人目なるか。
 
@@ -63,7 +65,9 @@ render_recovery: []
 
 　大礒は《エルフの戦士/[Elvish Warrior](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior)》《森林守りのエルフ/[Timberwatch Elf](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timberwatch+Elf)》と戦力を追加。全体除去無しには辛い展開だが、Jon に手はあるのか。大礒の二枚に対して、Jon の手札は五枚。何か一掃する手さえあれば。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a767.jpg)　《不快な助祭/[Vile Deacon](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vile+Deacon)》が攻撃し、大礒のライフを 16 へ。《森林守りのエルフ/[Timberwatch Elf](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timberwatch+Elf)》には《虫つぶし/[Swat](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat)》を使用し事前に厄介の芽を摘む。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a767.jpg)
+
+　《不快な助祭/[Vile Deacon](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vile+Deacon)》が攻撃し、大礒のライフを 16 へ。《森林守りのエルフ/[Timberwatch Elf](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timberwatch+Elf)》には《虫つぶし/[Swat](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat)》を使用し事前に厄介の芽を摘む。
 
 　だが、大礒はためらわずに全軍突撃。《樹皮革のやっかいもの/[Barkhide Mauler](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barkhide+Mauler)》、《スカークの先導/[Skirk Outrider](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Outrider)》、《エルフの戦士/[Elvish Warrior](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior)》、変異。
 
@@ -95,7 +99,9 @@ render_recovery: []
 
 　こうなると、《憑依された死者/[Haunted Cadaver](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Haunted+Cadaver)》を使用した Jon も苦しい。カードアドバンテージ的には圧倒的だが、場のパーマネントの差が厳しい。展開されない手札は意味をなさない。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a768.jpg)　Jon は必死のキャッチアップにかかる。《切り刻まれた軍勢/[Severed Legion](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion)》を出すと、これに《畏敬の冠/[Crown of Awe](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Awe)》をつけ四点のクロックとし、更に《羽ばたく戦士/[Wingbeat Warrior](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wingbeat+Warrior)》を追加する。大礒は目先のライフにこだわらず、変異を秘めたままにし殴り続けていたが、Jon が《陰謀団の執政官/[Cabal Archon](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Archon)》変異と出したところで、辛抱たまらず《切り刻まれた軍勢/[Severed Legion](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion)》に向けて《スカークの匪賊/[Skirk Marauder](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Marauder)》の炎を飛ばす。なにしろ、次殴られると死ぬ。《切り刻まれた軍勢/[Severed Legion](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion)》の攻撃を許していたために、大礒のライフも8 まで減ってしまっていたのである。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a768.jpg)
+
+　Jon は必死のキャッチアップにかかる。《切り刻まれた軍勢/[Severed Legion](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion)》を出すと、これに《畏敬の冠/[Crown of Awe](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Awe)》をつけ四点のクロックとし、更に《羽ばたく戦士/[Wingbeat Warrior](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wingbeat+Warrior)》を追加する。大礒は目先のライフにこだわらず、変異を秘めたままにし殴り続けていたが、Jon が《陰謀団の執政官/[Cabal Archon](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Archon)》変異と出したところで、辛抱たまらず《切り刻まれた軍勢/[Severed Legion](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion)》に向けて《スカークの匪賊/[Skirk Marauder](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Marauder)》の炎を飛ばす。なにしろ、次殴られると死ぬ。《切り刻まれた軍勢/[Severed Legion](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion)》の攻撃を許していたために、大礒のライフも8 まで減ってしまっていたのである。
 
 　大礒の攻撃をブロックしながら、《陰謀団の執政官/[Cabal Archon](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Archon)》が能力を発動し、大礒のライフを 6 へ。未だ Jon の《羽ばたく戦士/[Wingbeat Warrior](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wingbeat+Warrior)》は健在であり、追加次第ではという展開だが...
 

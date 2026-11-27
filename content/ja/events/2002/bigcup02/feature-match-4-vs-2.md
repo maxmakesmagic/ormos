@@ -161,7 +161,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/bigcup02/978.jpg)小倉のマリガン後、日高の《野生の雑種犬/Wild Mongrel》によるスタート。
+![](http://www.wizards.com/sideboard/images/bigcup02/978.jpg)
+
+小倉のマリガン後、日高の《野生の雑種犬/Wild Mongrel》によるスタート。
 
 マッドネスでの《日を浴びるルートワラ/Basking Rootwalla》をカウンターさせて《マーフォークの物あさり/Merfolk Looter》につなげるも後続の土地を引かない日高。  
  《マーフォークの物あさり》に《排撃/Repulse》－さらには《嘘か真か/Fact or Fiction》までもつなぐ小倉と対照的に日高は戦線に《野生の雑種犬》を追加することぐらいしか出来ない。
@@ -182,7 +184,9 @@ render_recovery:
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/bigcup02/979.jpg)日高 2 ターン目に何も出せずに《獣群の呼び声/Call of the Herd》でのスタートとスローな立ち上がりとなった。
+![](http://www.wizards.com/sideboard/images/bigcup02/979.jpg)
+
+日高 2 ターン目に何も出せずに《獣群の呼び声/Call of the Herd》でのスタートとスローな立ち上がりとなった。
 
 出て来た象トークンは間髪を入れずに《排撃》され、日高は何とか引いてきた《マーフォークの物あさり》《野生の雑種犬》フラッシュバックした《獣群の呼び声》と攻め立てようとするのだが、小倉の唯一のクリーチャー《サイカトグ》の前に立ち往生。  
  小倉は《排撃》に恵まれており象トークンの処理には事欠かないものの、残念ながら土地が 4 枚で止まってしまう。

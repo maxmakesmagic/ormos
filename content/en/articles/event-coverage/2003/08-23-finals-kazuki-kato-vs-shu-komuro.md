@@ -44,7 +44,9 @@ archive_source:
   sha256: 5c22f9d29fd23cb36726fd8fd777e6e86dfb640db2cc597bf99d0cb3c7526f64
 render_recovery: []
 ---
-![](https://i.ormos.uk/e3/6a/e36a5e8a7664083211a9d38a471e29a13c660cb1a71d8e28290267db2e7e1f53.jpg)This was it. A weekend of red-white mirror matches coming down to one final best of three. On one side, Kazuki Kato, handling the latest tech from Katsuhiro Mori. On the other, Shu Komuro, backed by a cadre of loyalists. It all came down to this match.
+![](https://i.ormos.uk/e3/6a/e36a5e8a7664083211a9d38a471e29a13c660cb1a71d8e28290267db2e7e1f53.jpg)
+
+This was it. A weekend of red-white mirror matches coming down to one final best of three. On one side, Kazuki Kato, handling the latest tech from Katsuhiro Mori. On the other, Shu Komuro, backed by a cadre of loyalists. It all came down to this match.
 
 ### Game 1
 
@@ -56,7 +58,9 @@ Komuro 1 – Kato 0
 
 ### Game 2
 
-![](https://i.ormos.uk/8a/43/8a4304c88a2f0a2982e3dd50bbf1b20a3d20b499b1cec66623ed8ad3e7f6117a.jpg)Kato had a [Temple of the False God](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temple+of+the+False+God) for his second land, but his deck came to the rescue, offering a mountain to let him cycle [Eternal Dragon](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eternal+Dragon). Of course, not before Komuro had unmorphed an Angel on turn four. Kato cycled another [Dragon](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon) and waited on six mana. Komuro, holding [Decree of Annihilation](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Decree+of+Annihilation), played a Temple and thought. He chose to add a Rift to the table, but that just made Kato's [Akroma's Vengeance](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance) all the sweeter. Now he had no threat, and nothing to do.
+![](https://i.ormos.uk/8a/43/8a4304c88a2f0a2982e3dd50bbf1b20a3d20b499b1cec66623ed8ad3e7f6117a.jpg)
+
+Kato had a [Temple of the False God](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temple+of+the+False+God) for his second land, but his deck came to the rescue, offering a mountain to let him cycle [Eternal Dragon](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eternal+Dragon). Of course, not before Komuro had unmorphed an Angel on turn four. Kato cycled another [Dragon](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon) and waited on six mana. Komuro, holding [Decree of Annihilation](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Decree+of+Annihilation), played a Temple and thought. He chose to add a Rift to the table, but that just made Kato's [Akroma's Vengeance](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance) all the sweeter. Now he had no threat, and nothing to do.
 
 Kato regrew his [Dragon](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon), and then added an [Astral Slide](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) on the following turn. Komuro had to be considering hard-casting his [Decree of Annihilation](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Decree+of+Annihilation). He had a [Wipe Clean](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wipe+Clean) in hand, so if he was willing to wait a turn, he could even be rid of the Slide. He gave it back to Kato, who summoned Akroma and watched his Slide disappear in response. He chose not to attack.
 

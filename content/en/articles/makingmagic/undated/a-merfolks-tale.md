@@ -278,7 +278,9 @@ render_recovery:
 
 > "That doesn't make any sense, Grandpa."
 
-![Whirlpool_Warrior](https://i.ormos.uk/f7/35/f7353aa97509b3e96b052c471e4cc424a0510441677093048d8a7463efbb6e41.jpg)"Little one, you are not supposed to question the story."
+![Whirlpool_Warrior](https://i.ormos.uk/f7/35/f7353aa97509b3e96b052c471e4cc424a0510441677093048d8a7463efbb6e41.jpg)
+
+"Little one, you are not supposed to question the story."
 
 > "But Grandpa, the sun is brightest at noon when it is the highest in the sky. The sky is darkest in the still of night. That is many, many hours later."
 
@@ -302,7 +304,9 @@ render_recovery:
 
 "The trickster god has always been very kind to our people. Yes, he was responsible for his share of mischief—when you are older, I will tell you the story of the elf and the female of our kind who were seduced by great magic—but in his heart he cared greatly for our people. Still he was a trickster god and he did what all trickster gods do.
 
-![Ambassador_Laquatus](https://i.ormos.uk/48/ec/48ecfeaed0ceace0c6320058aed487d2cb95c4445a7f5f5f09849339a7884325.jpg)"In one fell swoop he made everyone forget our kind as well as that of the elves and the goblins. As part of the cruelest joke, he replaced us with squids. Squids. It was the low point of our people. Our leader, the great Laquatus, fought back. He tried to be the voice for our people, but the gods would not have it. They cast him in the role of villain so that no one would heed his words. Once he was gone, the gods acted as if we had never existed."
+![Ambassador_Laquatus](https://i.ormos.uk/48/ec/48ecfeaed0ceace0c6320058aed487d2cb95c4445a7f5f5f09849339a7884325.jpg)
+
+"In one fell swoop he made everyone forget our kind as well as that of the elves and the goblins. As part of the cruelest joke, he replaced us with squids. Squids. It was the low point of our people. Our leader, the great Laquatus, fought back. He tried to be the voice for our people, but the gods would not have it. They cast him in the role of villain so that no one would heed his words. Once he was gone, the gods acted as if we had never existed."
 
 > "Why would the trickster god do such a thing?"
 
@@ -324,7 +328,9 @@ render_recovery:
 
 > "But why?"
 
-![Mystic_Penitent](https://i.ormos.uk/83/4c/834c2aafae15ee1d1fcaa073b30aeb9f12b8102e57946e2f648eaf6b8e4ea8dd.jpg)"There are many stories. My favorite is that the people prayed. They brought forth their voice to let the trickster god know they were unhappy. And the trickster god listened. You see, he doesn't have the time to answer most of the prayers, but he does listen to them all. The trickster god realized that he had unwittingly led our people to extinction. But he listened to the prayers, and he vowed to set things right."
+![Mystic_Penitent](https://i.ormos.uk/83/4c/834c2aafae15ee1d1fcaa073b30aeb9f12b8102e57946e2f648eaf6b8e4ea8dd.jpg)
+
+"There are many stories. My favorite is that the people prayed. They brought forth their voice to let the trickster god know they were unhappy. And the trickster god listened. You see, he doesn't have the time to answer most of the prayers, but he does listen to them all. The trickster god realized that he had unwittingly led our people to extinction. But he listened to the prayers, and he vowed to set things right."
 
 > "And that's how our people came back?"
 

@@ -50,7 +50,9 @@ Such was the fate of Jordan Berkowitz, Gabe Walls, and Mike Hron, left snoring a
 
 Now you're probably thinking, young guys, up all night partying, playing cards and drinking. Generally up to no good and paying the price. Not true! All three were sleeping soundly by ten o'clock, exhausted from earning their 5-1 performance and eager to put their best foot forward in the second day of competition.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a830.jpg)Two wake-up calls and an alarm were set the night before. Sharing their room were Rich Frangiosa (described by Mike Flores as "more dependable than Walls's alarm clock") and Gregg Weiss, the man who phoned Berkowitz in Venice from the U.S. the night before the Pro Tour and told him "Look, I've tested Wirewood Elf in your Beasts deck, and you have to play it," a change that propelled Berkowitz to the public eye. Weiss and Frangiosa were teaming with Matt Urban for this Tour, riding their rating from Pro Tour - D.C. a while back. They didn't fare as well as Two on Three. Frangiosa didn't come back to the room all night.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a830.jpg)
+
+Two wake-up calls and an alarm were set the night before. Sharing their room were Rich Frangiosa (described by Mike Flores as "more dependable than Walls's alarm clock") and Gregg Weiss, the man who phoned Berkowitz in Venice from the U.S. the night before the Pro Tour and told him "Look, I've tested Wirewood Elf in your Beasts deck, and you have to play it," a change that propelled Berkowitz to the public eye. Weiss and Frangiosa were teaming with Matt Urban for this Tour, riding their rating from Pro Tour - D.C. a while back. They didn't fare as well as Two on Three. Frangiosa didn't come back to the room all night.
 
 Their morning started with Hron mistaking seven o'clock for eight. He woke everyone up before the error was discovered, a move that made him few friends. The disgruntled crew rolled over for their extra hour.
 

@@ -171,7 +171,9 @@ I’m not sure what’s going to present itself over the next 2000-some odd word
 
 ### Kibler
 
-![](http://www.wizards.com/sideboard/images/natus03/698.jpg)Having not attended U.S. Nats (or Euros, for that matter) for the first time in over half a decade and ample material to put together this column a week ago, I decided to not to talk about the goings on in San Diego for lack of a personalized viewpoint, but Brian Kibler’s performance there is definitely worth looking at. Not since Mike Long dropped Cadaverous Bloom in his lap has a player so dominated from the opening of the Swiss rounds, and while the rest of the world sometimes prefers to discredit the importance of “the toughest tournament in the world”, with this kind of field, such a performance is pretty impressive.
+![](http://www.wizards.com/sideboard/images/natus03/698.jpg)
+
+Having not attended U.S. Nats (or Euros, for that matter) for the first time in over half a decade and ample material to put together this column a week ago, I decided to not to talk about the goings on in San Diego for lack of a personalized viewpoint, but Brian Kibler’s performance there is definitely worth looking at. Not since Mike Long dropped Cadaverous Bloom in his lap has a player so dominated from the opening of the Swiss rounds, and while the rest of the world sometimes prefers to discredit the importance of “the toughest tournament in the world”, with this kind of field, such a performance is pretty impressive.
 
 Due to a formatting change in this year’s Nationals, Kibler had to participate in both Rochester and Standard in each of the Swiss’s two days. Playing zombies, Kibler, who has long been known for his deck building, eased his way to a 3-0 record before switching to Rochester and winning the table, refusing a split in the finals and taking the extra two points off Paul “Little Darwin” Rietzl in round 6. 
 
@@ -181,7 +183,9 @@ Once in Top 8, Kibler fell quickly to a horrible match up, with zombies losing t
 
 ### Malherbaud and Herzog
 
-![](http://www.wizards.com/sideboard/images/euro03/825.jpg)Is a performance not dissimilar to Kibler’s, Pierre Malherbaud ran off ten straight wins to start off European Championships. While the feat doesn’t strike me as being quite as impressive (the best-known name Pierre faced on Day 1 was Jens Krause, and his round 10 match against Sigurd Eskeland was the first he’d had against any past or present pro), Pierre’s quiet consistency over the last couple of years hasn’t gotten the recognition it deserves. 
+![](http://www.wizards.com/sideboard/images/euro03/825.jpg)
+
+Is a performance not dissimilar to Kibler’s, Pierre Malherbaud ran off ten straight wins to start off European Championships. While the feat doesn’t strike me as being quite as impressive (the best-known name Pierre faced on Day 1 was Jens Krause, and his round 10 match against Sigurd Eskeland was the first he’d had against any past or present pro), Pierre’s quiet consistency over the last couple of years hasn’t gotten the recognition it deserves. 
 
 Winner of GP-Naples, 3rd at 1999 European Championships and twice French National Champion (1999, 2001), Malherbaud, who is approaching 100 lifetime Pro Tour points, lacks the big name of players who have done less over their respective careers, because of a lack of that one big finish in a PT event that propels so many into the spotlight. 
 
@@ -191,13 +195,17 @@ As for Nico Herzog, who ended Malherbaud’s run in the eleventh round, could th
 
 Playing more or less full-time, Nico finished second at Pro Tour-Chicago this year. Life was good. The winnings there gave him a little stability while the PT points he’d received would qualify him for the Masters for the next year. That meant **Magic** could be a full time job: a whole year in the sun. Then, just as he prepared to settle himself into the PT way of life, Wizards announced the cancellation of the Masters.
 
-![](http://www.wizards.com/sideboard/images/euro03/836.jpg)No player was hit harder. Instead of those paydays, Nico would be sent back to fighting for prize checks, and as a player whose prize winnings were not being supplemented by other means, that meant the end of the dream. The man was bitter, and who could blame him? A corporate move, designed to better the game and those involved, would hurt a handful of players in a community of millions, and his name was at the top of the list.
+![](http://www.wizards.com/sideboard/images/euro03/836.jpg)
+
+No player was hit harder. Instead of those paydays, Nico would be sent back to fighting for prize checks, and as a player whose prize winnings were not being supplemented by other means, that meant the end of the dream. The man was bitter, and who could blame him? A corporate move, designed to better the game and those involved, would hurt a handful of players in a community of millions, and his name was at the top of the list.
 
 Now, though, everything’s gravy. With his win at Euros, where his Swiss run was interrupted only by a loss to Tomi Walamies, Nico collected $15,000, which should lessen the sting of those missing Masters checks. He also becomes the first repeat European Champion, a title not even the great Budde has held, and only the second ever repeat continental champion, following the now retired Masaya Mori. Congratulations Nico. Seems like the cosmic plan came full circle. 
 
 ### U.S. Team Shakeup?
 
-![](http://www.wizards.com/sideboard/images/natus03/658.jpg)Not necessarily, but rumor out of San Diego was that Josh Wagener might not go to Berlin. That would free up a spot on the team for Jordan Berkowitz, no longer with CMU-TOGIT, who is also planning on skipping the tournament at present. If both players fail to make an appearance, the third slot would fall to Neil Reeves, and then to Brian Kibler, Jon Finkel and Mike Turian in order if those higher up on the list no-show. Either way, the States will go into the tournament as one of the favorites, along with Germany, France and Finland.
+![](http://www.wizards.com/sideboard/images/natus03/658.jpg)
+
+Not necessarily, but rumor out of San Diego was that Josh Wagener might not go to Berlin. That would free up a spot on the team for Jordan Berkowitz, no longer with CMU-TOGIT, who is also planning on skipping the tournament at present. If both players fail to make an appearance, the third slot would fall to Neil Reeves, and then to Brian Kibler, Jon Finkel and Mike Turian in order if those higher up on the list no-show. Either way, the States will go into the tournament as one of the favorites, along with Germany, France and Finland.
 
 ### The Most Underrated Card in Scourge…
 

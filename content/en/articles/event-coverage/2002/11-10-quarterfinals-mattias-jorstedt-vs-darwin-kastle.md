@@ -44,7 +44,9 @@ archive_source:
   sha256: d1b01df53ab74e18e4577d2431c3c63ebb884fa9592ac7d9f2316134eda8abf3
 render_recovery: []
 ---
-![](https://i.ormos.uk/c8/e7/c8e7f3adc05a6a0ad7c6477d27f4308750f84706021f7674072f2730d5fe1502.jpg)Few players have a career as long and lettered as Darwin Kastle. A Pro Tour and Invitational Champion, he's been making Top 8's since way back when. Sweden's Mattias Jorstedt is no slouch himself, having been to more than a dozen Tours, but he's never reached the fabled third day before this weekend. Despite the early hour and the pressure of the upcoming match, both players were friendly and animated. They chatted about their preparations the night before, finding they shared the decision to do only a little testing. A good meal and a good night's sleep were far more important.
+![](https://i.ormos.uk/c8/e7/c8e7f3adc05a6a0ad7c6477d27f4308750f84706021f7674072f2730d5fe1502.jpg)
+
+Few players have a career as long and lettered as Darwin Kastle. A Pro Tour and Invitational Champion, he's been making Top 8's since way back when. Sweden's Mattias Jorstedt is no slouch himself, having been to more than a dozen Tours, but he's never reached the fabled third day before this weekend. Despite the early hour and the pressure of the upcoming match, both players were friendly and animated. They chatted about their preparations the night before, finding they shared the decision to do only a little testing. A good meal and a good night's sleep were far more important.
 
 Both players mulled, but were satisfied with their next six. Kastle's was a strategic mulligan. "Against most decks, I'd keep that hand, but since I wasn't doing anything until turn three, I couldn't keep it here."
 
@@ -56,7 +58,9 @@ With Kastle now on an empty hand Jorstedt went to the board with [Living Wish](h
 
 Kastle 1 - Jorstedt 0
 
-![](https://i.ormos.uk/bb/f4/bbf459966e008f99e5940fd41c2d702617f089a5c8b91faffea5522ec4586e5f.jpg)There were no mulligans for Game 2. Jorstedt opened with [Havenwood Battleground](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Havenwood+Battleground). Kastle duressed, seeing [Aluren](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aluren), [Intuition](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Intuition), [Wirewood Savage](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Savage), [Living Wish](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Wish), and two Cities of Brass. He took [Intuition](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Intuition).
+![](https://i.ormos.uk/bb/f4/bbf459966e008f99e5940fd41c2d702617f089a5c8b91faffea5522ec4586e5f.jpg)
+
+There were no mulligans for Game 2. Jorstedt opened with [Havenwood Battleground](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Havenwood+Battleground). Kastle duressed, seeing [Aluren](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aluren), [Intuition](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Intuition), [Wirewood Savage](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Savage), [Living Wish](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Wish), and two Cities of Brass. He took [Intuition](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Intuition).
 
 "A third-turn kill." - Mattias Jorstedt
 
@@ -78,7 +82,9 @@ Kastle had to mullignan, and split a sleeve while shuffling his deck. After resl
 
 Kastle mulliganed again. It was clear that the five were good. Jorstedt led with [Havenwood Battleground](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Havenwood+Battleground). Kastle dropped [Cabal Therapy](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy). He named [Aluren](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aluren). Jorstedt had two in hand. Kastle hammed it up.
 
-![](https://i.ormos.uk/6f/8a/6f8ab1ccd5ef39e12dd2e0c6e26de3ebcf99cb22bf13a42c2dc8d0c5667db723.jpg)"Yes! Yes! Yes! I mean ... oh, how lucky for me, that you would have two [Aluren](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aluren) in hand. Your turn." - Darwin Kastle
+![](https://i.ormos.uk/6f/8a/6f8ab1ccd5ef39e12dd2e0c6e26de3ebcf99cb22bf13a42c2dc8d0c5667db723.jpg)
+
+"Yes! Yes! Yes! I mean ... oh, how lucky for me, that you would have two [Aluren](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aluren) in hand. Your turn." - Darwin Kastle
 
 Jorstedt dropped [Wirewood Savage](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Savage) and turned it back over to Kastle. He played [Birds](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birds) and Therapied again, this time for [Living Wish](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Wish) he'd seen in Jorstedt's hand. Jorstedt had drawn another in the meantime. Suddenly his hand was just [Polluted Delta](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Polluted+Delta).
 

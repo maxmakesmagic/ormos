@@ -236,7 +236,9 @@ It was an idea that struck a chord almost instantaneously. The idea of getting o
 
 \* \* \*
 
-![Flagstones_of_Trokair](https://i.ormos.uk/b7/a6/b7a6d899f5e78fd95aa78cde9eb6d49671c6c0b7b7c80abb4e0c09574bfecf0e.jpg)About two seconds after the first memo landed in a mailbox with the number 422 on it, the information spread like wildfire through the rumor sites. We’ve never had an expert expansion that large before. This was big news. But wait. Just a few days later came the retraction. Did we say 422? Oops. We meant 301. Ignore the 422, we said. That was just a mistake.
+![Flagstones_of_Trokair](https://i.ormos.uk/b7/a6/b7a6d899f5e78fd95aa78cde9eb6d49671c6c0b7b7c80abb4e0c09574bfecf0e.jpg)
+
+About two seconds after the first memo landed in a mailbox with the number 422 on it, the information spread like wildfire through the rumor sites. We’ve never had an expert expansion that large before. This was big news. But wait. Just a few days later came the retraction. Did we say 422? Oops. We meant 301. Ignore the 422, we said. That was just a mistake.
 
 This is the part where I have to say I love watching the rumor sites in action. They had only had the following three pieces of information: 1) the three playtest card images, 2) the initial 422 number, 3) the revised 301 number. That’s it. That’s all they had. And from this they hypothesized the timeshifted sheet. Really. How’d that happen? Let’s follow the chain of logic.
 
@@ -314,7 +316,9 @@ Many years ago, I took a column to tell [the story of the split cards](/en/artic
 
 \* \* \*
 
-![](https://i.ormos.uk/88/ee/88ee60e2dd98139375c56e9e5a4b3b2798e26b69ea16a345c4f41593a2a3f68d.jpg)So what finally proved the 422’s case? On the first night of our television spots (on Cartoon Network’s Adult Swim), one included Akroma in her old frame complete with a spanking new purple expansion symbol. So how’d that happen?
+![](https://i.ormos.uk/88/ee/88ee60e2dd98139375c56e9e5a4b3b2798e26b69ea16a345c4f41593a2a3f68d.jpg)
+
+So what finally proved the 422’s case? On the first night of our television spots (on Cartoon Network’s Adult Swim), one included Akroma in her old frame complete with a spanking new purple expansion symbol. So how’d that happen?
 
 One of my writing teachers hammered home that one of the distinct differences between reality and fiction is that reality is far less believable. Fiction has all sorts of rules that it abides by. Too many coincidences don’t work well in fiction. Six unrelated things all happening one after another isn’t believable as a story, yet it happens all the time in real life. Why do I bring this up? Because the Adult Swim ad is one such example of story that is only believable because it actually happened. 
 

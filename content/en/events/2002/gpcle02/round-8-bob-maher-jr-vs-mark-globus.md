@@ -85,7 +85,9 @@ render_recovery:
   - Ghastly Demise
   occurrences: 47
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a942.jpg)This match was heavy in tension. A "Win it, or watch on Sunday" match pitted local favorite Mark Globus versus "The Great One" (TGO) Bob Maher Jr. Everyone knows Bob, former Pro Tour Champion, former Player of the Year, Finalist at Worlds. Mark Globus however, is a name that may not be as familiar in the Magic household. Having been on the Tour several times before, this unorthodox player can be seen ripping up the Ohio Pro Tour qualifier scene with many eyecatching decks. Mark has made a top eight with Battle of Wits in the extended format, and both players wanted this win. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a942.jpg)
+
+This match was heavy in tension. A "Win it, or watch on Sunday" match pitted local favorite Mark Globus versus "The Great One" (TGO) Bob Maher Jr. Everyone knows Bob, former Pro Tour Champion, former Player of the Year, Finalist at Worlds. Mark Globus however, is a name that may not be as familiar in the Magic household. Having been on the Tour several times before, this unorthodox player can be seen ripping up the Ohio Pro Tour qualifier scene with many eyecatching decks. Mark has made a top eight with Battle of Wits in the extended format, and both players wanted this win. 
 
 Before they could start the match though, a deck check was done on the players. After both decks came back clean, the match started with both players keeping their opening hands. 
 
@@ -97,7 +99,9 @@ Maher would have no part of that. Casting Innocent Blood, then Chainer's Edict t
 
 When the Brushhopper was sent into the red zone, Aether Burst checked his name, and returned him to whence he came. The hopper was recast. Maher started some fireworks with his next turn play, putting eight mana in his pool, he cast Upheaval and floated a black and a blue mana. Globus phased out his hopper, and madnessed a rootwalla into play as well. Now, the two zombie tokens TGO made seemed awfully out classed. An attack with the Hopper left Maher with one token, and the Madnessed Rootwalla and a forest saved the beastie from lethal damage. Spurnmage Advocate joined the team, and witty mastermind Mark was in total control of the match. 
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a943.jpg)Maher made a land, and cast Compulsion. Which was answered by a swinging team from Globus. Maher made two tokens, which left him with one card in hand. Two tokens blocked the Walla, while the third blocked the Advocate. The rootwalla took out one, but Bob was now at three life. After a few futile Edict attempts and blocking with tokens, Maher fell to the awesome Green White creatures. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a943.jpg)
+
+Maher made a land, and cast Compulsion. Which was answered by a swinging team from Globus. Maher made two tokens, which left him with one card in hand. Two tokens blocked the Walla, while the third blocked the Advocate. The rootwalla took out one, but Bob was now at three life. After a few futile Edict attempts and blocking with tokens, Maher fell to the awesome Green White creatures. 
 
 Mark Globus leads the series 1-0. 
 
@@ -119,7 +123,9 @@ Both players kept their current decks the same with no boarding between the two 
 
 Mark kicked off the game after both players kept their opening hands with a Forest and a Rootwalla. Bob was knocked to fourteen by the lazy lizard before your friend and mine hit the board. Shadowmage Infiltrator was able to mill through the dead parts of Maher's deck and on fourth turn, Globus's lone Rootwalla was sent packing via Chainer's Edict, and when it was returned unanswered Bob made a hybrid. Mark returned with an Arrogant Wurm, and Rootwalla. A butcher took away the Rootwalla , and Maher struggled to find an answer to the Centaur that was ready to beat down on him. 
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a945.jpg)Time stopped at this point. Well not really, the nine minute extension the match got was up, and Mark took the first of five turns, beat with the centaur made a glory and passed. Butcher took away the Glory, and after the attack, Standstill came down. On the third extra turn, with both players at eight life, the Standstill was broken by Mark, and a Brushhopper came down. A Demise tried to seal the win for Maher, but the hopper was phased out and replaced by an arrogant wurm. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a945.jpg)
+
+Time stopped at this point. Well not really, the nine minute extension the match got was up, and Mark took the first of five turns, beat with the centaur made a glory and passed. Butcher took away the Glory, and after the attack, Standstill came down. On the third extra turn, with both players at eight life, the Standstill was broken by Mark, and a Brushhopper came down. A Demise tried to seal the win for Maher, but the hopper was phased out and replaced by an arrogant wurm. 
 
 Maher needed a huge rip. With eight power worth of creatures on the board, he needed a way to deal with the Centaur and the Wurm. Sighing, he ripped the top card off his deck, looked at it and said. 
 

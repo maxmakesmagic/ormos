@@ -41,4 +41,6 @@ render_recovery: []
 
 To have a little breather from *Zendikar* stories, my second podcast today is the next podcast in my "20 Years in 20 Podcasts" series, where I am going through each year of **Magic**'s life. Today I talk 1999. 
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

@@ -61,7 +61,9 @@ archive_source:
   sha256: 9df7e3b2790ea3fdbfafe07601b89c2fcf494526c4bf0e93651c4e2185d9426e
 render_recovery: []
 ---
-[![Magic Dissension Podcast!](https://i.ormos.uk/6b/05/6b05b5c0379790468e84bdf69e15dfa5acd68fb9ddf8d9edea69ce285092afb0.jpg)](https://web.archive.org/web/20060420000000/http://archive.wizards.com/default.asp?x=mtgcom/podcast/home)Hungry for more *Dissension* news and previews? Download the latest Magic: The Gathering podcast to feed your pre-Prerelease pangs. This month, Randy Buehler interviews *Dissension* lead designer Aaron Forsythe and coverage reporter Ted Knutson, and previews a *Dissension* card that has been in the works for more than three years. 
+[![Magic Dissension Podcast!](https://i.ormos.uk/6b/05/6b05b5c0379790468e84bdf69e15dfa5acd68fb9ddf8d9edea69ce285092afb0.jpg)](https://web.archive.org/web/20060420000000/http://archive.wizards.com/default.asp?x=mtgcom/podcast/home)
+
+Hungry for more *Dissension* news and previews? Download the latest Magic: The Gathering podcast to feed your pre-Prerelease pangs. This month, Randy Buehler interviews *Dissension* lead designer Aaron Forsythe and coverage reporter Ted Knutson, and previews a *Dissension* card that has been in the works for more than three years. 
 
 Want to know what Aaron’s favorite *Dissension* card is? Curious about the card that was bumped from common to uncommon thanks to [Wrecking Ball](https://web.archive.org/web/20060420000000/https://magic.wizards.com/en/articles/archive/advice-and-dissension-prerelease-primer-2006-04-17-0)? Will Jonny Magic be returning to the spotlight at Pro Tour-Prague? Download the podcast now to find the answers to all your questions!
 

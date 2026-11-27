@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/702.jpg)Rob Dougherty of Your Move Games made Top 8 in 1999 Pro Tour New York. Since then, he has had some top performances with his team, although he has lacked the top individual finishes. "This whole year, my best individual performance was Top 64 at Worlds. It's good to have a really good individual performance again," the 31-year old says. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/702.jpg)
+
+Rob Dougherty of Your Move Games made Top 8 in 1999 Pro Tour New York. Since then, he has had some top performances with his team, although he has lacked the top individual finishes. "This whole year, my best individual performance was Top 64 at Worlds. It's good to have a really good individual performance again," the 31-year old says. 
 
 The game store owner and premiere tournament organizer of New England went 10-2-2 in the swiss portion of 2000 Pro Tour Chicago to make it into the top 8 as the sixth seed. He had chosen to play one of the major deck archetypes, Fires of Yavimaya. "Before States, which I ran, I predicted that Fires and rebels would be the most powerful decks. I haven't played type II a lot, but there weren't any cards in the new set that were as good as Parallax Wave. And with all the other white four casting cost spells white got access to, it was nuts," Dougherty says. 
 

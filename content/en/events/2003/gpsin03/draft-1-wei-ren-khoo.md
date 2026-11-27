@@ -92,7 +92,9 @@ render_recovery:
   - Warbreak Trumpeter
   occurrences: 51
 ---
-![](http://www.wizards.com/sideboard/images/gpsin03/a962.jpg)At 6-1 after the first day Khoo finds himself on tale #1 in the first pod , nestled neatly between Chang Chau from Singapore and Former Australian National champion Rob Nadebaum.
+![](http://www.wizards.com/sideboard/images/gpsin03/a962.jpg)
+
+At 6-1 after the first day Khoo finds himself on tale #1 in the first pod , nestled neatly between Chang Chau from Singapore and Former Australian National champion Rob Nadebaum.
 
 **Pack #1 (*Onslaught*)** 
 

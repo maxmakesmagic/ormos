@@ -218,7 +218,9 @@ Le combat est la pièce de résistance tactique du tour. Même si chaque cas est
 
 ### Attaquer
 
-![Relentless_Assault](https://i.ormos.uk/48/50/4850bb6cbde110ef1795ca97719984255392d4a86ece7a5f79941b9b9107e783.jpg)Comme vous contrôlez quelles créatures attaquent pendant votre tour, votre but est de sélectionner celles qui renforceront votre position dans la partie. Bien entendu, vous devez tenir compte des sorts adéquats (surtout les ruses de combat) qui sont dans votre main, et des sorts que votre adversaire risque de jouer. Vous devez aussi réfléchir à la contre-attaque potentielle de l'adversaire. Vous devez enfin tenir compte des totaux de points de vie. 
+![Relentless_Assault](https://i.ormos.uk/48/50/4850bb6cbde110ef1795ca97719984255392d4a86ece7a5f79941b9b9107e783.jpg)
+
+Comme vous contrôlez quelles créatures attaquent pendant votre tour, votre but est de sélectionner celles qui renforceront votre position dans la partie. Bien entendu, vous devez tenir compte des sorts adéquats (surtout les ruses de combat) qui sont dans votre main, et des sorts que votre adversaire risque de jouer. Vous devez aussi réfléchir à la contre-attaque potentielle de l'adversaire. Vous devez enfin tenir compte des totaux de points de vie. 
 
 *Astuce* : Un bon moyen de déterminer si une attaque est avantageuse ou non est de placer vos créatures face à celles de votre adversaire dans l'ordre où vous pensez qu'elles bloqueront (tout cela dans votre tête, bien sûr). Cela vous aidera à vous représenter visuellement les attaques qui seront inutiles ou infructueuses, et celles qui submergeront votre adversaire.
 
@@ -262,7 +264,9 @@ Avoir des créatures avec des capacités intéressantes au combat est une excell
 
 **Bloquer**
 
-![Valor_Made_Real](https://i.ormos.uk/68/e6/68e610516d63e961cafe5378e635b8591ab7fbd2512ae099f014f05f487f5386.jpg)Quand vous bloquez, vous devez trouver l'échange le plus positif en tenant compte des créatures que votre adversaire a choisies pour attaquer. Une fois de plus, il faut aussi tenir compte des totaux de points de vie, des cartes que vous avez en main et des cartes que l'adversaire a potentiellement en main (en vous fiant aux attaquants suspicieux qu'il vous oppose).
+![Valor_Made_Real](https://i.ormos.uk/68/e6/68e610516d63e961cafe5378e635b8591ab7fbd2512ae099f014f05f487f5386.jpg)
+
+Quand vous bloquez, vous devez trouver l'échange le plus positif en tenant compte des créatures que votre adversaire a choisies pour attaquer. Une fois de plus, il faut aussi tenir compte des totaux de points de vie, des cartes que vous avez en main et des cartes que l'adversaire a potentiellement en main (en vous fiant aux attaquants suspicieux qu'il vous oppose).
 
 Les cinq étapes de combat ont une signification différente pour le joueur défenseur. L'étape de début de combat est votre dernière chance d'engager les attaquants potentiels de l'adversaire. L'étape de déclaration des attaquants est votre dernière chance de rassembler des informations (en vous basant sur la résolution des sorts et des capacités) avant de mettre vos bloqueurs en place. Les étapes de déclaration des bloqueurs et d'attribution des blessures de combat sont une fois de plus des points clés de la phase de combat. L'étape de fin de combat est toujours aussi marginale, dépendant des situations.
 

@@ -40,7 +40,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/8e/f2/8ef238f58d18537f6fa1c53d0bbb12e5de5ac9803a32553b46fac4b10e6e04ff.png)This limited-edition set includes fifteen premium foil land cards—all black-bordered and tournament-legal, and seven with new art.
+![](https://i.ormos.uk/8e/f2/8ef238f58d18537f6fa1c53d0bbb12e5de5ac9803a32553b46fac4b10e6e04ff.png)
+
+This limited-edition set includes fifteen premium foil land cards—all black-bordered and tournament-legal, and seven with new art.
 
 **Set Name:** *From the Vault: Realms*  
 **Number of Cards:** 15

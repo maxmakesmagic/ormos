@@ -479,7 +479,9 @@ render_recovery:
 ---
 * * *
 
-![Danger really *is* his middle name.](http://wizards.com/sideboard/images/ptsd04/fm20_1.jpg)Eric "Danger" Taylor (EDT) has been around for what seems like forever. He's one of a rare breed of older players who hang out with a younger crowd and it absolutely seems like they belong. His opponent, Carlos Romao, won the World Championships in 2002 and has since been doing quite well for himself on the Tour.
+![Danger really *is* his middle name.](http://wizards.com/sideboard/images/ptsd04/fm20_1.jpg)
+
+Eric "Danger" Taylor (EDT) has been around for what seems like forever. He's one of a rare breed of older players who hang out with a younger crowd and it absolutely seems like they belong. His opponent, Carlos Romao, won the World Championships in 2002 and has since been doing quite well for himself on the Tour.
 
 ### Game 1
 

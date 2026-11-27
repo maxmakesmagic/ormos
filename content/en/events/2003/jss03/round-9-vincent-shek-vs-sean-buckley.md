@@ -93,7 +93,9 @@ render_recovery:
   - Compulsion
   occurrences: 82
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a747.jpg)This match is pivotal. If Vincent wins, he has a chance at Top 8 tomorrow. If Sean wins, he may or may not make it in. 
+![](http://www.wizards.com/sideboard/images/natus03/a747.jpg)
+
+This match is pivotal. If Vincent wins, he has a chance at Top 8 tomorrow. If Sean wins, he may or may not make it in. 
 
 Vincent is from Toronto, and is here with a bunch of his friends. "Hi, Mom," he said before the match. 
 
@@ -115,7 +117,9 @@ Vincent played and sacrificed a Wooded Foothills, getting a Mountain this time. 
 
 Sean played a Plains – his fifth land of the game! He attacked with the Angel, bringing Vincent to 21. Sean played another Wrath of God, commenting, "I can't draw more than four lands this game!" Vincent, completely calm and cool, played a Glory on his next turn.
 
-![](http://www.wizards.com/sideboard/images/natus03/a748.jpg)Sean played a face-down morph on his turn and passed to Vincent. Vincent played another Living Wish and hunted out an Anger, then played it. Sean unmorphed an Exalted Angel, then slammed down his first Island of the game. But he had no other plays this turn, and just passed to Vincent.
+![](http://www.wizards.com/sideboard/images/natus03/a748.jpg)
+
+Sean played a face-down morph on his turn and passed to Vincent. Vincent played another Living Wish and hunted out an Anger, then played it. Sean unmorphed an Exalted Angel, then slammed down his first Island of the game. But he had no other plays this turn, and just passed to Vincent.
 
 "Do you have Elephant Guide?" Sean asked Vincent. Vincent nodded and showed him the Guide in his hand, and Sean conceded.
 
@@ -134,7 +138,9 @@ Sean played a Mirari on his turn. On the next turn, Vincent attacked with the Mo
 
 "Memory Lapse," Sean said, "and I'll cycle Renewed Faith."
 
-![](http://www.wizards.com/sideboard/images/natus03/a749.jpg)Sean then played an Exalted Angel and a Compulsion, with two mana floating. He cycled away an Island and passed the turn. 
+![](http://www.wizards.com/sideboard/images/natus03/a749.jpg)
+
+Sean then played an Exalted Angel and a Compulsion, with two mana floating. He cycled away an Island and passed the turn. 
 
 Vincent discarded Glory to pump his Wild Mongrel, then gave his entire team protection from white and swung with the same four creatures as the previous turn. Sean flashed back Moment's Peace, Vincent cast Flaring Pain, and Sean had another Memory Lapse. This time on his turn, Sean attacked for 5 with the Exalted Angel, bringing Vincent to 14. 
 

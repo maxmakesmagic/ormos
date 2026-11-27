@@ -91,7 +91,9 @@ Please help me welcome artist Jesper Ejsing!
 
 **DB: To start off with, tell us a bit about yourself. What's it like being Jesper Ejsing?**
 
-![Jesper Ejsing](https://i.ormos.uk/35/1b/351b1486a80bb44f8f0214f9c6ecfd98c4ea2c2a4e6384847c252114548b5736.jpg)**JE:** I am a Danish Viking—you know, like the bearded guys in the *Ice Age* expansion. The crazy berserkers that conquered England and burned down and plundered the rest of Europe? I am exactly like that, except from the beard, the frenzy part and the fire-starting... and I spend most of the time in the studio in front of my drawing table or a computer. I have very thick glasses and some even thicker ones for seeing the details while I paint. My back hurts when I try to lift things and I breathe heavily from going up the stairs... and I have a face like a fourteen-year-old girl, but apart from that I am all Viking berserker. I even got some live-action roleplaying weapons and armour at the studio... so don't you try nothing.
+![Jesper Ejsing](https://i.ormos.uk/35/1b/351b1486a80bb44f8f0214f9c6ecfd98c4ea2c2a4e6384847c252114548b5736.jpg)
+
+**JE:** I am a Danish Viking—you know, like the bearded guys in the *Ice Age* expansion. The crazy berserkers that conquered England and burned down and plundered the rest of Europe? I am exactly like that, except from the beard, the frenzy part and the fire-starting... and I spend most of the time in the studio in front of my drawing table or a computer. I have very thick glasses and some even thicker ones for seeing the details while I paint. My back hurts when I try to lift things and I breathe heavily from going up the stairs... and I have a face like a fourteen-year-old girl, but apart from that I am all Viking berserker. I even got some live-action roleplaying weapons and armour at the studio... so don't you try nothing.
 
 I live in Copenhagen, Denmark. I have a wife named Lea. She is a book editor and a writer. We have a son named Asbjørn (it means "god of bears" in Danish), and we are getting another son real soon.
 
@@ -124,7 +126,9 @@ That was 12 years ago.
 
 **DB: Let's talk about your artistic influences. Who are your favorite artists, both inside and outside of fantasy art?**  
   
-[![Glamer_Spinners](https://i.ormos.uk/f0/83/f0830b3ac1d0630003ea7c70b560b60859b01a07ea174f1cd2a08a2e7b4474c1.jpg)](https://web.archive.org/web/20080423000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Glamer%2BSpinners)**JE:** My first real heavy money job was doing the colours for a comic book called *Valhalla*, the absolutely best selling comic book in Denmark. It was also the job that got me fully turned to the dark site of illustrations and the job that made me drop out of art history. 
+[![Glamer_Spinners](https://i.ormos.uk/f0/83/f0830b3ac1d0630003ea7c70b560b60859b01a07ea174f1cd2a08a2e7b4474c1.jpg)](https://web.archive.org/web/20080423000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Glamer%2BSpinners)
+
+**JE:** My first real heavy money job was doing the colours for a comic book called *Valhalla*, the absolutely best selling comic book in Denmark. It was also the job that got me fully turned to the dark site of illustrations and the job that made me drop out of art history. 
 
 I learned so much from colouring comics. And Peter Madsen—the artist of the comic book—taught me so much about how to make a picture clearly readable to the viewer with the help of colours. He is definitely a huge inspiration. 
 
@@ -144,7 +148,9 @@ I have a soft spot for Kev Walker. I always wanted to ask him about his artwork 
 
 Before submitting the sketch I add some grey tones to capture the mood and the lighting.
 
-![Jesper's Work Process](https://i.ormos.uk/73/eb/73ebf00cbcba9e5415cca49888594d6a4c782a786512a60ff70ca87147004129.jpg)Then I transfer the whole thing to a board by rubbing the backside of the drawing with graphite dust and then pressuring all of the lines with a pencil. That way I get the image pressed down through the paper onto the board. This is the part of my job that absolute sucks the most. I do not add anything; I simply act as a copy machine, and a really bad one, that is.
+![Jesper's Work Process](https://i.ormos.uk/73/eb/73ebf00cbcba9e5415cca49888594d6a4c782a786512a60ff70ca87147004129.jpg)
+
+Then I transfer the whole thing to a board by rubbing the backside of the drawing with graphite dust and then pressuring all of the lines with a pencil. That way I get the image pressed down through the paper onto the board. This is the part of my job that absolute sucks the most. I do not add anything; I simply act as a copy machine, and a really bad one, that is.
 
 Then I ink the transferred sketch with a pen and add grey tones and blacks. Actually this is almost as if I am finishing the painting in black and white. 
 

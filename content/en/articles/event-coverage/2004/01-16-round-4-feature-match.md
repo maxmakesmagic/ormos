@@ -44,7 +44,9 @@ archive_source:
   sha256: 46979e55750b72d1113665174bbeeb57a1217133bbc424ab489d77b86883f5d7
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm9_1.jpg)Neither of these players requires much in the way of introduction. Osyp is equally renowned for his prowess as a player and his online antics. Whether it is his humorous Magic advise column on the TOGIT site or prank posting the editor of Star City with a pseudonymous post criticizing himself those antics combined with his gregarious personality have made him one the most popular players on the Tour. Oh yeah—he won a Pro Tour last year to boot!
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm9_1.jpg)
+
+Neither of these players requires much in the way of introduction. Osyp is equally renowned for his prowess as a player and his online antics. Whether it is his humorous Magic advise column on the TOGIT site or prank posting the editor of Star City with a pseudonymous post criticizing himself those antics combined with his gregarious personality have made him one the most popular players on the Tour. Oh yeah—he won a Pro Tour last year to boot!
 
 Yann caught the attention of the Magic community when he won a pair of Grand Prix in a relatively short period of time. It was his Top 8 finish in New Orleans that really put his on the map though. He was paired with his playtest partner Nicholas LaBarre and rather than play the match his friend forfeited the match and went home the night before the Top 8. The incident set off a firestorm on the various Magic forums and Yann Hamon received more coverage than the winner of the tournament Rickard Osterberg.
 

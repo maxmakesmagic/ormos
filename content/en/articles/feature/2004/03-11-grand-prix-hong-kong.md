@@ -452,7 +452,9 @@ Last week's question:
 
 *Who is the only Wizards of the Coast employee to qualify for and play on the Pro Tour after leaving the company?*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/948.jpg)Mons Johnson, best known to the **Magic** community for being the namesake of [Mons's Goblin Raiders](https://web.archive.org/web/20040311000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mons%27s+Goblin+Raiders), left Wizards of the Coast at one point to pursue other goals. One of those goals was to try and play on the Pro Tour. So after a number of attempts, he won a qualifier. Now Mons' favorite deck in the world is Goblins. So you won't really be surprised to find out that he won the qualifier with a Goblin strategy. Thus, he became the first and only Wizards of the Coast employee to qualify for and play on the Pro Tour *after* leaving the company. Interestingly enough, Mons is now back at Wizards of the Coast. They just love hiring those Pro players, don't they?!
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/948.jpg)
+
+Mons Johnson, best known to the **Magic** community for being the namesake of [Mons's Goblin Raiders](https://web.archive.org/web/20040311000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mons%27s+Goblin+Raiders), left Wizards of the Coast at one point to pursue other goals. One of those goals was to try and play on the Pro Tour. So after a number of attempts, he won a qualifier. Now Mons' favorite deck in the world is Goblins. So you won't really be surprised to find out that he won the qualifier with a Goblin strategy. Thus, he became the first and only Wizards of the Coast employee to qualify for and play on the Pro Tour *after* leaving the company. Interestingly enough, Mons is now back at Wizards of the Coast. They just love hiring those Pro players, don't they?!
 
 New question:
 

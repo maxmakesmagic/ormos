@@ -380,7 +380,9 @@ So is this the end of the game for the Belgian pro? Not yet, as a Cultbrand Cind
 
     *by Tobias Henke*
 
-![](http://www.wizards.com/sideboard/images/gpbru08/pic_frankkarsten.jpg)Frank Karsten really needs no introduction: From the finals of the the 2005 world championships to running a much appreciated weekly column on **magicthegtahering.com** his list of previous achievements is pretty impressive. Now in is way is Bram Meulders whose own list of achievements does at the least include opening a very strong Sealed pool today. Both players are still undefeated.
+![](http://www.wizards.com/sideboard/images/gpbru08/pic_frankkarsten.jpg)
+
+Frank Karsten really needs no introduction: From the finals of the the 2005 world championships to running a much appreciated weekly column on **magicthegtahering.com** his list of previous achievements is pretty impressive. Now in is way is Bram Meulders whose own list of achievements does at the least include opening a very strong Sealed pool today. Both players are still undefeated.
 
 **Game 1** 
 
@@ -392,7 +394,9 @@ Frank Karsten 0 - 1 Bram Meulders
 
 **Game 2** 
 
-![](http://www.wizards.com/sideboard/images/gpbru08/pic_brammeulders.jpg)Frank elected to go first and again *Shadowmoor*'s comparatively high mana stability resulted in no mulligans for no one. First play was Ballynock Cohort on Frank's turn three, but that was taken care of by Bram's Last Breath. Frank followed it up with Kithkin Rabble - easily topped by first Bram's Raven's Run Dragoon and then even Wilt-Leaf Liege. Valleymaker came down for Frank, tried to make a difference, and horribly failed at that - Bram had yet another good card up his sleeve: Oversoul of Dusk, now a 7/7 creature with protection from... let's just say *with protection* and leave it at that. 
+![](http://www.wizards.com/sideboard/images/gpbru08/pic_brammeulders.jpg)
+
+Frank elected to go first and again *Shadowmoor*'s comparatively high mana stability resulted in no mulligans for no one. First play was Ballynock Cohort on Frank's turn three, but that was taken care of by Bram's Last Breath. Frank followed it up with Kithkin Rabble - easily topped by first Bram's Raven's Run Dragoon and then even Wilt-Leaf Liege. Valleymaker came down for Frank, tried to make a difference, and horribly failed at that - Bram had yet another good card up his sleeve: Oversoul of Dusk, now a 7/7 creature with protection from... let's just say *with protection* and leave it at that. 
 
 Frank really neded Curse of Chains soon. He had Burn Trail and sacrificed one mountain to his Valleymaker to ged rid of the Liege, but he was still facing the all-protected 5/5. Even worse, Bram had yet another fatty in the form of Wicker Warcrawler. His deck was running and it was running well.
 
@@ -424,13 +428,17 @@ John "Johnny Magic" Finkel might have won Pro Tour Kuala Lumpur, but there were 
 
 **Game 1** 
 
- ![](http://www.wizards.com/sideboard/images/gpbru08/pic_marciocarvalho.jpg)Márcio won the die-roll and chose to play first. The Portuguese player was happy with his seven cards but the French player sent his hand "back to Paris". Márcio started the match with Briarberry Cohort and Faerie Macabre. Guillaume tried to stop the black creature with Prison Term, but Márcio had Turn to Mist to "blink" his creature, putting the enchantment in the graveyard. Guillaume laid Wanderbrine Rootcutters and Márcio Merrow Wavebreakers. The French player attacked and played Safehold Elite, enchanting the creature with Steel of the Godhead, but Márcio had Biting Tether ready for it and two turns later the Pro Tour champion conceded.
+ ![](http://www.wizards.com/sideboard/images/gpbru08/pic_marciocarvalho.jpg)
+
+ Márcio won the die-roll and chose to play first. The Portuguese player was happy with his seven cards but the French player sent his hand "back to Paris". Márcio started the match with Briarberry Cohort and Faerie Macabre. Guillaume tried to stop the black creature with Prison Term, but Márcio had Turn to Mist to "blink" his creature, putting the enchantment in the graveyard. Guillaume laid Wanderbrine Rootcutters and Márcio Merrow Wavebreakers. The French player attacked and played Safehold Elite, enchanting the creature with Steel of the Godhead, but Márcio had Biting Tether ready for it and two turns later the Pro Tour champion conceded.
 
 **Guillaum Wafo-tapa 0 Márcio Carvalho 1** 
 
 **Game 2** 
 
-![](http://www.wizards.com/sideboard/images/gpbru08/pic_wafotapa.jpg)The French player chose to play first in the second game and this time there was no need to take a mulligan. Guillaum started with Mistmeadow Skulk, while Márcio played Briarberry Cohort and Leech Bonder. The French player sent Wanderbrine Rootcutters to the table, but it died on Márcio's turn, blocking an attacking Leech Bonder, that also died in the fight. (Leech Bonder made both creatures 2/2.)
+![](http://www.wizards.com/sideboard/images/gpbru08/pic_wafotapa.jpg)
+
+The French player chose to play first in the second game and this time there was no need to take a mulligan. Guillaum started with Mistmeadow Skulk, while Márcio played Briarberry Cohort and Leech Bonder. The French player sent Wanderbrine Rootcutters to the table, but it died on Márcio's turn, blocking an attacking Leech Bonder, that also died in the fight. (Leech Bonder made both creatures 2/2.)
 
 Márcio was getting some damage in with fliers, but Guillaume had Márcio's team killed by Incremental Blight. Guillaume gained lots of life attacking with his Mistmeadow Skulk, finishing the game with more than the initial life, and a Twilight Shepherd, that Márcio could never really stop was enough to allow the spectators to watch another game between those two masters of the game.
 
@@ -466,7 +474,9 @@ Both players are still undefeated and of course want to end the day with immacul
 
 **Game 1** 
 
- ![](http://www.wizards.com/sideboard/images/gpbru08/pic_tenenbaum.jpg)Amiel won the die-roll, but had to mulligan a hand that contained two lands and a couple of five and six-mana spells. He kept his six though, and the festivities could start. Nassif started with Elvish Hexhunter, followed by Safehold Elite and Briarberry Cohort, while Tenenbaum could not really put his turn-two Devoted Druid to good use, when the only thing he did on turn three was to play a Hungry Spriggan.
+ ![](http://www.wizards.com/sideboard/images/gpbru08/pic_tenenbaum.jpg)
+
+ Amiel won the die-roll, but had to mulligan a hand that contained two lands and a couple of five and six-mana spells. He kept his six though, and the festivities could start. Nassif started with Elvish Hexhunter, followed by Safehold Elite and Briarberry Cohort, while Tenenbaum could not really put his turn-two Devoted Druid to good use, when the only thing he did on turn three was to play a Hungry Spriggan.
 
 All of Gabriel's creatures attacked and brought Amiel's lifetotal down to 13. He also played Last Breath on the druid in case there were some six-drops in Amiel's hand.
 
@@ -490,7 +500,9 @@ Gabriel Nassif 1 - 1 Amiel Tenenbaum
 
 **Game 3** 
 
-![](http://www.wizards.com/sideboard/images/gpbru08/pic_nassif.jpg)Nassif played first and had the first play in Elvish Hexhunter, while Amiel's deck gave him Boggart Arsonists on turn three. Next up Nassif cast Thistledown Liege, but at least for now Tenenbaum's Swans of Bryn Argoll certainly trumped that.
+![](http://www.wizards.com/sideboard/images/gpbru08/pic_nassif.jpg)
+
+Nassif played first and had the first play in Elvish Hexhunter, while Amiel's deck gave him Boggart Arsonists on turn three. Next up Nassif cast Thistledown Liege, but at least for now Tenenbaum's Swans of Bryn Argoll certainly trumped that.
 
 Liege and Hexhunter attacked, the former was blocked by the Swans and then pumped by Nassif's Barkshell Blessing, netting Nassif an additional three cards and saving his Liege. Gabriel followed it up with Biarberry Cohort and Curse of Chains on the Swans.
 

@@ -94,13 +94,17 @@ render_recovery:
   - Naturalize
   occurrences: 75
 ---
-![Round 4 Feature Match: Shvartsman vs. Thoren](http://www.wizards.com/sideboard/images/ptno03/956.jpg "Round 4 Feature Match: Shvartsman vs. Thoren")Both of these players are pretty big wheels down at the cracker factory. Alex Shvartsman, game store owner and Pro Tour Niceguy, has been putting up the big finishes on the Tour and the Grand Prix Circuit since practically forever. His opponent, the always-stoic Jens Thoren, was recently immortalized on the card Solemn Simulacrum (or The Thorenator), his prize for winning last year's **Magic** Invitational. Thoren is with the Scandanavian red-blue Welder deck, and Shvartsman is naturally with YMG Oath.
+![Round 4 Feature Match: Shvartsman vs. Thoren](http://www.wizards.com/sideboard/images/ptno03/956.jpg "Round 4 Feature Match: Shvartsman vs. Thoren")
+
+Both of these players are pretty big wheels down at the cracker factory. Alex Shvartsman, game store owner and Pro Tour Niceguy, has been putting up the big finishes on the Tour and the Grand Prix Circuit since practically forever. His opponent, the always-stoic Jens Thoren, was recently immortalized on the card Solemn Simulacrum (or The Thorenator), his prize for winning last year's **Magic** Invitational. Thoren is with the Scandanavian red-blue Welder deck, and Shvartsman is naturally with YMG Oath.
 
 ### Game 1
 
 Thoren looked at a hand of Ancient Tomb, City of Traitors, Grim Monolith, Tangle Wire, Masticore and two Goblin Welders. He shipped it back. His next was far worse, and he didn't give it a second thought. He stopped at five, with two land, Thirst for Knowledge, Chromatic Sphere and Voltaic Key.
 
-![Jens Thoren, sans Borg implants](http://www.wizards.com/sideboard/images/ptno03/957.jpg "Jens Thoren, sans Borg implants")Shvartsman opened with the Reef and Brainstormed after Thoren played Great Furnace and Chromatic Sphere. No lands came. He played a Chrome Mox, imprinting Fire/Ice and waited on Counterspell mana. Thoren popped his Sphere and played a Key. Another Brainstorm, and still Shvartsman had no lands. Thoren got his third mana and resolved a Thirst for Knowledge on Shvartsman's end step. He pitched Mindslaver.
+![Jens Thoren, sans Borg implants](http://www.wizards.com/sideboard/images/ptno03/957.jpg "Jens Thoren, sans Borg implants")
+
+Shvartsman opened with the Reef and Brainstormed after Thoren played Great Furnace and Chromatic Sphere. No lands came. He played a Chrome Mox, imprinting Fire/Ice and waited on Counterspell mana. Thoren popped his Sphere and played a Key. Another Brainstorm, and still Shvartsman had no lands. Thoren got his third mana and resolved a Thirst for Knowledge on Shvartsman's end step. He pitched Mindslaver.
 
 He untapped, and tried a Grim Monolith. Shvartsman wasted no time Mana Leaking it. Thoren showed him Seat of the Synod and a second Monolith, powering out Tangle Wire. Shvartsman was far from helpless, though. He finally found a land, and with a second Chrome Mox imprinted with Cognivore he dropped Oath of Druids. Thoren seized the opening, playing another Key and Tinkering it away for a Citanul Flute, ready to serve up a steady stream of Goblin Welders.
 
@@ -122,7 +126,9 @@ Thoren 1 - Shvartsman 0
 
 ### Game 2
 
-![Alex Shvartsman is in a muddle](http://www.wizards.com/sideboard/images/ptno03/958.jpg "Alex Shvartsman is in a muddle")Both players kept their opening hands and were off. Shvartsman blazed out with Shivan Reef, Chrome Mox imprinting Cognivore, and Isochron Scepter on Brainstorm. Thoren's Reef, Welder wasn't nearly as explosive. He tried a turn-two Tangle Wire, but Shvartsman had Counterspell ready. The following turn he tried Metalworker. Shvartsman, with only one card in hand, turned on his Scepter and kept Naturalize and Oath of Druids.
+![Alex Shvartsman is in a muddle](http://www.wizards.com/sideboard/images/ptno03/958.jpg "Alex Shvartsman is in a muddle")
+
+Both players kept their opening hands and were off. Shvartsman blazed out with Shivan Reef, Chrome Mox imprinting Cognivore, and Isochron Scepter on Brainstorm. Thoren's Reef, Welder wasn't nearly as explosive. He tried a turn-two Tangle Wire, but Shvartsman had Counterspell ready. The following turn he tried Metalworker. Shvartsman, with only one card in hand, turned on his Scepter and kept Naturalize and Oath of Druids.
 
 Thoren showed him another City of Traitors and Lightning Greaves. He moved to put it on his Metalworker, but Shvartsman had a response, Naturalizing the Greaves. This was fine with Thoren, who had no artifacts in hand. He merely exchanged the Greaves for the Tangle Wire. Shvartsman was locked down, and used his Brainstorm Scepter while he could. Thoren took the opportunity to Thirst away Bosh.
 

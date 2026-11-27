@@ -84,7 +84,9 @@ render_recovery:
   - Aven Liberator
   occurrences: 40
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a960.jpg)Both Pasquale Ruggiero and Guillaume Cardin were surprised to be in the Feature Match Area this round. Sure, they'd swept the first three rounds of standard, but after falling in round four they assumed there would be others that merited the spotlight. Ruggiero is just coming off a big Top 4 appearance at Grand Prix – Pittsburgh with Phoque Foundation, while Cardin got here the hard way, through last night's grinders.
+![](http://www.wizards.com/sideboard/images/natcan03/a960.jpg)
+
+Both Pasquale Ruggiero and Guillaume Cardin were surprised to be in the Feature Match Area this round. Sure, they'd swept the first three rounds of standard, but after falling in round four they assumed there would be others that merited the spotlight. Ruggiero is just coming off a big Top 4 appearance at Grand Prix – Pittsburgh with Phoque Foundation, while Cardin got here the hard way, through last night's grinders.
 
 ### Game 1
 
@@ -98,7 +100,9 @@ Cardin 1 – Ruggiero 0
 
 Ruggiero had to mulligan, and the six that followed weren't great. Cardin started with Gempalm Strider and Ruggiero had no third-turn play. Fortunately, Cardin had to spend his third waiting on a Sprouting Vines. He got two swamps after Ruggiero played a Dive Bomber. Wirewood Channeler followed. Ruggiero put Dragon Scales on his Bomber and hit for three. Cardin answered with a turn-five Bladewing.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a961.jpg)Ruggiero was the picture of calm, though. He tapped four and enchanted his Bomber with Improvised Armor, turning it into a 5/9. It started to take huge chunks out of Cardin's life total. Eventually he had enough mana to put Bladewing in front of it, but a surprise Gravel Slinger sent the legend to the graveyard. With him out of the way, the inevitability of the monster Dive Bomber was too much to handle.
+![](http://www.wizards.com/sideboard/images/natcan03/a961.jpg)
+
+Ruggiero was the picture of calm, though. He tapped four and enchanted his Bomber with Improvised Armor, turning it into a 5/9. It started to take huge chunks out of Cardin's life total. Eventually he had enough mana to put Bladewing in front of it, but a surprise Gravel Slinger sent the legend to the graveyard. With him out of the way, the inevitability of the monster Dive Bomber was too much to handle.
 
 Cardin 1 – Ruggiero 1
 
@@ -106,7 +110,9 @@ Cardin 1 – Ruggiero 1
 
 Again Ruggiero had to mulligan, and again Cardin led with Gempalm Strider. He followed with Fierce Empath to get his Bladewing. Ruggiero made a morph and passed it back. Cardin swung in and asked "Two or five?" wondering if the morph was Zombie Cutthroat. Ruggiero let the Strider pass. He pumped the fist when Cardin cycled Swat, but Cardin pulled a forest and dropped a face-up Broodhatch Nantuko.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a962.jpg)Ruggiero was stuck on three lands, and played out his Cloudreach Cavalry. Again the Strider attacked, but this time Ruggiero had a response. He flipped up his Proteus Machine and turned it into a bird, empowering the Cavalry and tackling the Strider. You could see Cardin wince at the beat.
+![](http://www.wizards.com/sideboard/images/natcan03/a962.jpg)
+
+Ruggiero was stuck on three lands, and played out his Cloudreach Cavalry. Again the Strider attacked, but this time Ruggiero had a response. He flipped up his Proteus Machine and turned it into a bird, empowering the Cavalry and tackling the Strider. You could see Cardin wince at the beat.
 
 Still, he had a plan. Wirewood Channeler came down to help power out his dragon. Ruggiero made a morph and passed it back. Cardin needed another mountain or swamp to get his dragon, so he bade his time by searching up a Tusker with Fierce Empath, and then Channeled out Symbiotic Elf. Ruggiero put a stop to his fiendery by turning over Skirk Marauder and shooting down the Channeler.
 

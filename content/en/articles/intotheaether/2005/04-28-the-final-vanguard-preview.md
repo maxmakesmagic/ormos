@@ -187,7 +187,9 @@ Okay, now on to the final bunch of Avatars -- and incidentally, a complete archi
 
 ### Phage the Untouchable
 
-![](https://i.ormos.uk/55/dd/55dd792115d13f75f32445fe41d27b842cc8e8c5da95a70faa10ecf4943f80b5.jpg)The amazing thing about the Phage abilities is that they do not cost mana to activate; for a simple life payment you get to call in an awesome board-controlling ability. Since you start with a relatively low life you'll need to pack plenty of life gaining spells to make up the difference. Okay, so you're gaining a bunch of life, killing stuff, buying plenty of time... what now? Well, since you have the time, why not go for something wacky and fun you've never had the luxury of doing because your opponent was always bothering you by attacking early and often. What springs to *my* twisted mind is summoning up Kaldra from his various equipment, the first of which has to be the Shield in order to make all the pieces indestructible.
+![](https://i.ormos.uk/55/dd/55dd792115d13f75f32445fe41d27b842cc8e8c5da95a70faa10ecf4943f80b5.jpg)
+
+The amazing thing about the Phage abilities is that they do not cost mana to activate; for a simple life payment you get to call in an awesome board-controlling ability. Since you start with a relatively low life you'll need to pack plenty of life gaining spells to make up the difference. Okay, so you're gaining a bunch of life, killing stuff, buying plenty of time... what now? Well, since you have the time, why not go for something wacky and fun you've never had the luxury of doing because your opponent was always bothering you by attacking early and often. What springs to *my* twisted mind is summoning up Kaldra from his various equipment, the first of which has to be the Shield in order to make all the pieces indestructible.
 
 #### Untouchable Kaldra
 
@@ -287,7 +289,9 @@ a:14:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";s:9
 
 ### Karona, False God
 
-![](https://i.ormos.uk/52/23/52237f9402a3a7dcf5f4f2c69bdabd41654fef57dce8a383b8a43b2391a429b2.jpg)Sadly, I didn't get nearly the response to the “mystery” avatar (which most of you guessed as Karona) as I did to the Viridian Zealot. I think Karona is perhaps one of the most challenging of all the Vanguard abilities and I suspect it'll keep plenty of Johnnies up late at night trying to figure out cool ways to break it off. Fabio B. (who also showed up in Mark Gottlieb's column [yesterday!](/en/articles/feature/2005/04-26-the-game-of-the-name)) had the gumption to send in his neat idea:
+![](https://i.ormos.uk/52/23/52237f9402a3a7dcf5f4f2c69bdabd41654fef57dce8a383b8a43b2391a429b2.jpg)
+
+Sadly, I didn't get nearly the response to the “mystery” avatar (which most of you guessed as Karona) as I did to the Viridian Zealot. I think Karona is perhaps one of the most challenging of all the Vanguard abilities and I suspect it'll keep plenty of Johnnies up late at night trying to figure out cool ways to break it off. Fabio B. (who also showed up in Mark Gottlieb's column [yesterday!](/en/articles/feature/2005/04-26-the-game-of-the-name)) had the gumption to send in his neat idea:
 
 > “Dear Bennie Smith,
 > 
@@ -391,7 +395,9 @@ It occurs to me that many of *Odyssey's* themes would work nicely with Karona, e
 
 ### Two-Headed Giant
 
-![](https://i.ormos.uk/c9/63/c963c9c330bec7899d0641cd0dfb978695d6725f6568ef6f070d174bfe5637a6.jpg)Being able to get into twice as many creature fights led me to think about creatures that do bad things to creatures when they get into fights. Which of course led me to snakes. The *Kamigawa* block snake ability of tapping down creatures they fight with seemed perfect. Earlier snakes like [Tangle Asp](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tangle+Asp) and [Voracious Cobra](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voracious+Cobra) are even more deadly; [Voracious Cobra](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voracious+Cobra) in particular can take out *two* creatures and destroy them with first strike before they take any damage. And of course, any snake deck needs Seshiro leading the way. I also thought it would be handy to get “combo” with this Avatar's ability and play [Familiar Ground](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Familiar+Ground), making all of your creatures unblockable. This is particularly potent with Seshiro in play and can get downright nasty with Shisato. When going on offense like this, [Sosuke's Summons](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sosuke%27s+Summons) token creatures become super chump blockers, really holding back counteroffensives.
+![](https://i.ormos.uk/c9/63/c963c9c330bec7899d0641cd0dfb978695d6725f6568ef6f070d174bfe5637a6.jpg)
+
+Being able to get into twice as many creature fights led me to think about creatures that do bad things to creatures when they get into fights. Which of course led me to snakes. The *Kamigawa* block snake ability of tapping down creatures they fight with seemed perfect. Earlier snakes like [Tangle Asp](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tangle+Asp) and [Voracious Cobra](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voracious+Cobra) are even more deadly; [Voracious Cobra](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voracious+Cobra) in particular can take out *two* creatures and destroy them with first strike before they take any damage. And of course, any snake deck needs Seshiro leading the way. I also thought it would be handy to get “combo” with this Avatar's ability and play [Familiar Ground](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Familiar+Ground), making all of your creatures unblockable. This is particularly potent with Seshiro in play and can get downright nasty with Shisato. When going on offense like this, [Sosuke's Summons](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sosuke%27s+Summons) token creatures become super chump blockers, really holding back counteroffensives.
 
 #### Two-Headed Snakessss
 
@@ -495,7 +501,9 @@ a:14:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"14";s:
 
 ### Elvish Champion
 
-![](https://i.ormos.uk/c3/ce/c3ce69daadc9b8e2e878dbf33a87159bd78f617ea09abcd66674a6d18c5d9c3a.jpg)Combo lovers will be thrilled to be able to get a huge jump-start on their mana, but I just couldn't bring myself to go there. This was the *Elvish Champion*, starting the game with a free [Llanowar Elves](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves) to turbo charge the swarm! With a hand size of eight I imagine this deck can just explode a ton of elves into play in the early turns.
+![](https://i.ormos.uk/c3/ce/c3ce69daadc9b8e2e878dbf33a87159bd78f617ea09abcd66674a6d18c5d9c3a.jpg)
+
+Combo lovers will be thrilled to be able to get a huge jump-start on their mana, but I just couldn't bring myself to go there. This was the *Elvish Champion*, starting the game with a free [Llanowar Elves](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves) to turbo charge the swarm! With a hand size of eight I imagine this deck can just explode a ton of elves into play in the early turns.
 
 #### Turbo Elves
 
@@ -571,7 +579,9 @@ a:14:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9
 
 ### Royal Assassin
 
-![](https://i.ormos.uk/60/1c/601c7dac70e381c485e3c6f4ee95e4d15f8803970b451546756f80414d9d7071.jpg)Interestingly, this reminded me a little bit of the old Vanguard Gerrard, for which I had a nice, fast goblin deck that took advantage of the extra draw power each turn. I decided to update that and make this a front-loaded Goblin deck that is designed to just spit out tons of fast, cheap Goblins and just win before the life loss kills you. Suicidal? Oh yes! *CHARGE!!!*
+![](https://i.ormos.uk/60/1c/601c7dac70e381c485e3c6f4ee95e4d15f8803970b451546756f80414d9d7071.jpg)
+
+Interestingly, this reminded me a little bit of the old Vanguard Gerrard, for which I had a nice, fast goblin deck that took advantage of the extra draw power each turn. I decided to update that and make this a front-loaded Goblin deck that is designed to just spit out tons of fast, cheap Goblins and just win before the life loss kills you. Suicidal? Oh yes! *CHARGE!!!*
 
 #### Royal Goblin Mob
 
@@ -651,7 +661,9 @@ a:13:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";s:9
 
 ### Akroma, Angel of Wrath
 
-![](https://i.ormos.uk/52/d3/52d382b8cec195eaa01f59648fb3b40338daa972a5c2815ecda177b87e0850ce.jpg)Green's already got some of the best creatures in the game, so why not make them that much better? A first-striking, protection from red [Sakura-Tribe Elder](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sakura-Tribe+Elder) can certainly put a crimp in your opponent's [Slith Firewalker](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slith+Firewalker) plans. A trampling, regenerating, cannot be targeted by your opponent [Troll Ascetic](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Troll+Ascetic) with Vigilance equipped with an [Umezawa's Jitte](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Umezawa%27s+Jitte) has got to be scary. What about a flying, hasted [Kodama of the North Tree](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kodama+of+the+North+Tree)? What's really going to be fun is casting [Beacon of Creation](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beacon+of+Creation) for six or seven insects, each with two random abilities!
+![](https://i.ormos.uk/52/d3/52d382b8cec195eaa01f59648fb3b40338daa972a5c2815ecda177b87e0850ce.jpg)
+
+Green's already got some of the best creatures in the game, so why not make them that much better? A first-striking, protection from red [Sakura-Tribe Elder](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sakura-Tribe+Elder) can certainly put a crimp in your opponent's [Slith Firewalker](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slith+Firewalker) plans. A trampling, regenerating, cannot be targeted by your opponent [Troll Ascetic](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Troll+Ascetic) with Vigilance equipped with an [Umezawa's Jitte](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Umezawa%27s+Jitte) has got to be scary. What about a flying, hasted [Kodama of the North Tree](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kodama+of+the+North+Tree)? What's really going to be fun is casting [Beacon of Creation](https://web.archive.org/web/20050428000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beacon+of+Creation) for six or seven insects, each with two random abilities!
 
 #### Green Critters of Wrath
 
@@ -747,7 +759,9 @@ a:12:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"22";s:
 
 ### And now… A New Avatar Unveiled!
 
-![](https://i.ormos.uk/ac/7f/ac7f1930892ca4a289a4d7594443f377cb6865414680e2ff241f3e5d1a499988.jpg)Some of you may have seen Wizards of the Coast employees and contract workers using the Birds of Paradise avatar. Now it's going to be available to all of you! The [full details are here](https://web.archive.org/web/20050428000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline/article042705), but the short version is this: Wizards will be holding Vanguard Release events May 5-11, 2005. *All participants will receive a Birds of Paradise Avatar* (yeah, that's the really awesome news)! Formats for the Release events will be Standard, Extended, and CHK Block Constructed (all with Vanguard). There will be a Vanguard Release event Championship, prizes to be announced soon.
+![](https://i.ormos.uk/ac/7f/ac7f1930892ca4a289a4d7594443f377cb6865414680e2ff241f3e5d1a499988.jpg)
+
+Some of you may have seen Wizards of the Coast employees and contract workers using the Birds of Paradise avatar. Now it's going to be available to all of you! The [full details are here](https://web.archive.org/web/20050428000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline/article042705), but the short version is this: Wizards will be holding Vanguard Release events May 5-11, 2005. *All participants will receive a Birds of Paradise Avatar* (yeah, that's the really awesome news)! Formats for the Release events will be Standard, Extended, and CHK Block Constructed (all with Vanguard). There will be a Vanguard Release event Championship, prizes to be announced soon.
 
 So what does the Birds ability do? It's not hard to guess!
 

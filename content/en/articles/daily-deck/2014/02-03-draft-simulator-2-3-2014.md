@@ -51,7 +51,9 @@ archive_source:
   sha256: 34d2908aebb633e04de340fd3876af16dd1b7ac08c870bc145d5e66622dcc069
 render_recovery: []
 ---
-![](http://media.wizards.com/images/magic/daily/activity/da_simulatorthumb.jpg)Welcome back to the Draft Simulator! Practice your ***Magic** 2014 Core Set* drafting skills right here every week by participating in a Booster Draft against seven AI drafters, powered by the collective intelligence of **Magic**'s Ramp;D department.
+![](http://media.wizards.com/images/magic/daily/activity/da_simulatorthumb.jpg)
+
+Welcome back to the Draft Simulator! Practice your ***Magic** 2014 Core Set* drafting skills right here every week by participating in a Booster Draft against seven AI drafters, powered by the collective intelligence of **Magic**'s Ramp;D department.
 
 When you're done with your draft, you can compare your picks with other readers in the Forums. Think you can draft a better deck? Want to know what would happen if you made a different first pick? You can keep drafting against the same pool all week and see how your picks change from strategy to strategy.
 

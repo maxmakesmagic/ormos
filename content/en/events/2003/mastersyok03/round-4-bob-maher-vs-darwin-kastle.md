@@ -83,7 +83,9 @@ render_recovery:
   - Phyrexian Processor
   occurrences: 48
 ---
-![](https://i.ormos.uk/3a/50/3a5091aded95e696a3db76b8d0b32fdf4b6db5de3b91cf041e99e9ca088361c8.jpg)It's only appropriate that one of the last Masters matches be played between two true masters- Darwin Kastle and Bob Maher. Kastle has been a mainstay on the Pro Tour since its existence, and is one of three players to have 300 or more lifetime Pro Tour points. The other two? Kai Budde and Jon Finkel. To anyone who follows competitive Magic, Bob Maher needs no introduction either. He has won Pro Tour, Grand Prix and Player of the Year titles, along with countless other solid finishes.
+![](https://i.ormos.uk/3a/50/3a5091aded95e696a3db76b8d0b32fdf4b6db5de3b91cf041e99e9ca088361c8.jpg)
+
+It's only appropriate that one of the last Masters matches be played between two true masters- Darwin Kastle and Bob Maher. Kastle has been a mainstay on the Pro Tour since its existence, and is one of three players to have 300 or more lifetime Pro Tour points. The other two? Kai Budde and Jon Finkel. To anyone who follows competitive Magic, Bob Maher needs no introduction either. He has won Pro Tour, Grand Prix and Player of the Year titles, along with countless other solid finishes.
 
 The matchup here features both players running signature decks- Kastle's Rock against Maher's Tinker. Kastle is very confident about the matchup. When he played against Kibler's Tinker deck earlier in the tournament, he commented that Your Move Games thought Tinker would be a big deck at Pro Tour Houston, and The Rock's performance against it in testing was a major reason why he decided to run that particular deck at the event. The big difference maker is Pernicious Deed, since Tinker often needs to dedicate plenty of cards to the table in the form of artifact mana and the threats they power. All it takes is one Deed to decimate everything. Upheaval will be Maher's ace in the hole, since he can float a ton of mana and replay his artifacts to a tremendous board advantage that Kastle will be unlikely to recover from.
 
@@ -93,7 +95,9 @@ Kastle accelerated with Llanowar Elves, while Maher ramped up even more, using A
 
 The Baloth attacked, and Maher was already at nine due to his Ancient Tomb. A second Baloth followed, and Kastle was looking to go straight for the kill. With Llanowar Elf, he would be able to attack for the win on the following turn. Maher thought for a while, and played Crumbling Sanctuary followed by Tangle Wire. Thanks to Urza's Blueprints, Maher had five cards in hand to Kastle's one. Due to Tangle Wire, Kastle would need to activate Deed on upkeep if he wanted to use it. He decided not to, and attacked with his Baloths to take eight cards off the top of Maher's library. Once he got enough mana, Kastle could attack with the Baloths, put damage on the stack, and Deed for five to destroy the Sanctuary and win. 
 
-![](https://i.ormos.uk/bd/c1/bdc1de842b25adde4c25eb6492450fe4f18ce290a1df33ee2e2ed6dbd5aa6592.jpg)Maher needed to do something, and fast. Upheaval fit the bill perfectly, and after it resolved Maher played Ancient Tomb, Thran Dynamo and Metalworker. A turn later he absolutely exploded with Metalworker, producing twelve mana. He then played Voltaic Key and untapped the Metalworker to use it again, which brought him up to twenty mana. Masticore, Dynamo, Blueprints and Tangle Wire followed, as well as Tinker, which got Mishra's Helix. This left Kastle completely locked, and Masticore came through for the win.
+![](https://i.ormos.uk/bd/c1/bdc1de842b25adde4c25eb6492450fe4f18ce290a1df33ee2e2ed6dbd5aa6592.jpg)
+
+Maher needed to do something, and fast. Upheaval fit the bill perfectly, and after it resolved Maher played Ancient Tomb, Thran Dynamo and Metalworker. A turn later he absolutely exploded with Metalworker, producing twelve mana. He then played Voltaic Key and untapped the Metalworker to use it again, which brought him up to twenty mana. Masticore, Dynamo, Blueprints and Tangle Wire followed, as well as Tinker, which got Mishra's Helix. This left Kastle completely locked, and Masticore came through for the win.
 
 Kastle- 0 Maher- 1
 

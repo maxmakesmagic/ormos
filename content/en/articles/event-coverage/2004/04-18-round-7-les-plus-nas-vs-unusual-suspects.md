@@ -44,7 +44,9 @@ archive_source:
   sha256: 030cb0f224ca0fbeb2ea538889aeffdea29ad7ac8441b0c900ba256edf374cee
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/fm6_1.jpg)We sat down with Gab and Reinhard to hand out the first real loss for either of the teams: both haven't had a major point drop so far with Les Plus Nas on 6-0 and Unusual Suspects on 5-0-1.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/fm6_1.jpg)
+
+We sat down with Gab and Reinhard to hand out the first real loss for either of the teams: both haven't had a major point drop so far with Les Plus Nas on 6-0 and Unusual Suspects on 5-0-1.
 
 Reinhard won the toss and chose to play. No worries about mulligans, so we start the game with Reinhard playing a [Viridian Longbow](https://web.archive.org/web/20040418000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Viridian+Longbow) off of a plains. Gabriel responded in his next two turns with two swamps and a [Slith Bloodletter](https://web.archive.org/web/20040418000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slith+Bloodletter), while Reinhard tried an [Arcbound Stinger](https://web.archive.org/web/20040418000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Stinger) and equipped it to finish the Bloodletter quick. Gabriel thought a long time about playing the Slith, knowing Reinhard could equip and shoot, but tempo was the more important thing according to the French maestro.
 

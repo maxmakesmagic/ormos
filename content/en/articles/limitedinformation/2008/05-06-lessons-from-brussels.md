@@ -100,7 +100,9 @@ During [one of the quick questions segments](/de/articles/event-coverage/2008/05
 
 Aside from Bram, who is famous for his incredibly unconventional but successful approaches to Limited, each player chose [Oona, Queen of the Fae](https://web.archive.org/web/20080506000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oona%2C+Queen+of+the+Fae) as the best rare and [Incremental Blight](https://web.archive.org/web/20080506000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Incremental+Blight) as the best uncommon.
 
-![Antoine Ruel](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbru08/qq_antoineruel.jpg)Of those questioned, Antoine Ruel was fortunate enough to receive a Sealed pool that contained both [Oona, Queen of the Fae](https://web.archive.org/web/20080506000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oona%2C+Queen+of+the+Fae) and [Incremental Blight](https://web.archive.org/web/20080506000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Incremental+Blight). If you take a close look at the picture of Antoine in this section, you can see him proudly displaying his [Oona, Queen of the Fae](https://web.archive.org/web/20080506000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oona%2C+Queen+of+the+Fae) and his [Incremental Blight](https://web.archive.org/web/20080506000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Incremental+Blight). Not one to disappoint, Antoine made the most of his bombs, building a powerful, defensive blue-black deck that he piloted to an undefeated Day 1 record.
+![Antoine Ruel](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbru08/qq_antoineruel.jpg)
+
+Of those questioned, Antoine Ruel was fortunate enough to receive a Sealed pool that contained both [Oona, Queen of the Fae](https://web.archive.org/web/20080506000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oona%2C+Queen+of+the+Fae) and [Incremental Blight](https://web.archive.org/web/20080506000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Incremental+Blight). If you take a close look at the picture of Antoine in this section, you can see him proudly displaying his [Oona, Queen of the Fae](https://web.archive.org/web/20080506000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oona%2C+Queen+of+the+Fae) and his [Incremental Blight](https://web.archive.org/web/20080506000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Incremental+Blight). Not one to disappoint, Antoine made the most of his bombs, building a powerful, defensive blue-black deck that he piloted to an undefeated Day 1 record.
 
  
 
@@ -684,7 +686,9 @@ Both Simon and Bram had [Oversoul of Dusk](https://web.archive.org/web/200805060
 
 ### Bomb Much?
 
-[![Letter_Bomb](https://i.ormos.uk/96/af/96afa8dfc633d89312bc87c7b717e2548cd3fa0d74bfcbfa1b43af46f49e3cd4.jpg)](https://web.archive.org/web/20080506000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Letter%2BBomb)One of the biggest things that I took away from the 9-0 Brussels decks was a reminder of the role that bombs play in Limited **Magic**.
+[![Letter_Bomb](https://i.ormos.uk/96/af/96afa8dfc633d89312bc87c7b717e2548cd3fa0d74bfcbfa1b43af46f49e3cd4.jpg)](https://web.archive.org/web/20080506000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Letter%2BBomb)
+
+One of the biggest things that I took away from the 9-0 Brussels decks was a reminder of the role that bombs play in Limited **Magic**.
 
 Sure, the overall quality of a player's cards definitely matter, but these five players didn't put together undefeated records just because they "got lucky." Sure they may each have had some bombs, but it's pretty rare for a player, no matter how good they may be, to go undefeated on Day 1 at a tournament as big and as hard as a Grand Prix without at least a couple of good cards.
 
@@ -696,7 +700,9 @@ A player as good as Gabriel Nassif doesn't need two [Twilight Shepherd](https://
 
 ...doesn't mean your work is done for you.
 
-[![Manamorphose](https://i.ormos.uk/58/66/5866d80d963f0c5419a53970e9330ddde5a0dee525096177680773945330f7bb.jpg)](https://web.archive.org/web/20080506000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Manamorphose)One thing to keep in mind is that Grand Prix, and especially European Grand Prix, tend to be HUGE tournaments. Nearly 1,500 players showed up to compete at GP–Brussels, and only five of them ended Day 1 with unblemished records. Given the number of attendees, I would confidently wager that there were at least 100, but possibly even 200 or 300, Sealed pools that were of comparable quality to the undefeated pools.
+[![Manamorphose](https://i.ormos.uk/58/66/5866d80d963f0c5419a53970e9330ddde5a0dee525096177680773945330f7bb.jpg)](https://web.archive.org/web/20080506000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Manamorphose)
+
+One thing to keep in mind is that Grand Prix, and especially European Grand Prix, tend to be HUGE tournaments. Nearly 1,500 players showed up to compete at GP–Brussels, and only five of them ended Day 1 with unblemished records. Given the number of attendees, I would confidently wager that there were at least 100, but possibly even 200 or 300, Sealed pools that were of comparable quality to the undefeated pools.
 
 Even if you get a good pool in a Sealed Deck Grand Prix, PTQ, or FNM, you will still have a long road ahead of you. First you have to build your deck well, which I, just like everyone else who has played in a Sealed Deck tournament, have failed to do more times than I can count.
 

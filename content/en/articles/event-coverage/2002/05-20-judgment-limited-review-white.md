@@ -420,7 +420,9 @@ This is the first installment in my series looking at the cards of *Judgment* fo
 
 ### Introduction
 
-![](https://i.ormos.uk/f1/f3/f1f33029253dbdbf7bbfc87add35050e1205c815f138629c51e9bb7fd7407c33.jpg)Okay, after talking with my editors, the decision was made to change the format of the series this time around. Instead of the usual pick guides, with *Judgment* I'm going to try ranking all of the cards in a particular color and then presenting them to you in that order. This is far from a precise process, as I've started this series even before Prerelease day and am making a number of educated guesses, but in all, it should make for an interesting experiment and give you a better idea of where cards rank.
+![](https://i.ormos.uk/f1/f3/f1f33029253dbdbf7bbfc87add35050e1205c815f138629c51e9bb7fd7407c33.jpg)
+
+Okay, after talking with my editors, the decision was made to change the format of the series this time around. Instead of the usual pick guides, with *Judgment* I'm going to try ranking all of the cards in a particular color and then presenting them to you in that order. This is far from a precise process, as I've started this series even before Prerelease day and am making a number of educated guesses, but in all, it should make for an interesting experiment and give you a better idea of where cards rank.
 
 When reading the lists and compiling changes of your own, there are a few things to consider. First, the list assumes a generic decklist, with card values fluctuating with the contents of your draft. Second, I know there will be errors in here, and when I figure out what they are, I'll do a follow up piece letting you all know. The series is being released this early so you might get a better idea about where to start with your O-T-J drafting, so I hope you'll get at least that much from it and enjoy the read in the process.
 

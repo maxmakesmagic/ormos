@@ -82,7 +82,9 @@ Jin Okamoto came back to Japan amidst bittersweet celebrations. On the one hand,
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a982.jpg)Douyama won the flip, delaying Okamoto's first-turn Festering Goblin. He made a Lightning Rift on his second turn, and passed it back to Okamoto. Okamoto hit for one, and then, in complete defiance of Douyama's Rift, played out two more Festering Goblins. They swung in, but Douyama had Eternal Dragon to send them all packing. Rotlung Reanimator stepped up to bat in their stead. Douyama made an Astral Slide and accepted two damage.
+![](http://www.wizards.com/sideboard/images/gpyok03/a982.jpg)
+
+Douyama won the flip, delaying Okamoto's first-turn Festering Goblin. He made a Lightning Rift on his second turn, and passed it back to Okamoto. Okamoto hit for one, and then, in complete defiance of Douyama's Rift, played out two more Festering Goblins. They swung in, but Douyama had Eternal Dragon to send them all packing. Rotlung Reanimator stepped up to bat in their stead. Douyama made an Astral Slide and accepted two damage.
 
 Okamoto played out a Withered Wretch, and Douyama made no move. When Okamoto's team swung in, however, Douyama's Slide cleared out the Reanimator and he shot down the Wretch. Okamoto swampcycled an Abomination to get land number five, enabling a Noxious Ghoul. Douyama meantime regrew his Dragon, and then tapped all but one for an Exalted Angel. Okamoto wasted no time busting out Patriarch's Bidding, clearing the way for an attack. On his next swing Douyama had only one cycler, and so fell dangerously low. That was the signal that he needed to do something drastic, and so he hard-cast Decree of Annihilation.
 
@@ -100,7 +102,9 @@ Okamoto 1 – Douyama 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a981.jpg)The pace was significantly less frantic in the deciding game. Okamoto kept a low-action hand and had to sit on his Complicate mana on his third turn. When Douyama did nothing, he morphed a Putrid Raptor. Douyama still made no play, so he swung in and added a Withered Wretch. Douyama Shocked the morph at end of turn, taking it down as Okamoto had no zombies in hand. The Wretch ate Douyama's Eternal Dragon, but Astral Slide followed on the other side of the table, slowing the beats. After that came Exalted Angel, and now Okamoto needed answers.
+![](http://www.wizards.com/sideboard/images/gpyok03/a981.jpg)
+
+The pace was significantly less frantic in the deciding game. Okamoto kept a low-action hand and had to sit on his Complicate mana on his third turn. When Douyama did nothing, he morphed a Putrid Raptor. Douyama still made no play, so he swung in and added a Withered Wretch. Douyama Shocked the morph at end of turn, taking it down as Okamoto had no zombies in hand. The Wretch ate Douyama's Eternal Dragon, but Astral Slide followed on the other side of the table, slowing the beats. After that came Exalted Angel, and now Okamoto needed answers.
 
 He made a pair of Noxious Ghouls, losing his Wretch to Lightning Rift. He planned to set up a big Patriarch's Bidding with Read the Runes, and he cast it for six after Douyama played a second Rift. It was less than spectacular, giving him only a single Zombie to work with. He pitched both his Noxious Ghouls, along with Vengeful Dead, Rotlung Reanimator, land and Complicate.
 

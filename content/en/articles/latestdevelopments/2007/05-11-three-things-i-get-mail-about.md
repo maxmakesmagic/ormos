@@ -233,7 +233,9 @@ I don't anticipate us doing any more "just for fun" style cards in normal sets a
 
 ### Card Faces
 
-![Psionic Blast, Harmonize, Fomori Nomad](https://i.ormos.uk/56/d2/56d2939471654fc2f6765defb67afdb2cb6604af4778db566d4221209c855a14.jpg)The variety of card frames debuted in this block has led to some interesting discussions regarding the current status quo. It seems that our successes with the alternate *Planar Chaos* frames and the futuristic *Future Sight* frames has caused people to question our run-of-the-mill "*Eighth Edition*" frames more.
+![Psionic Blast, Harmonize, Fomori Nomad](https://i.ormos.uk/56/d2/56d2939471654fc2f6765defb67afdb2cb6604af4778db566d4221209c855a14.jpg)
+
+The variety of card frames debuted in this block has led to some interesting discussions regarding the current status quo. It seems that our successes with the alternate *Planar Chaos* frames and the futuristic *Future Sight* frames has caused people to question our run-of-the-mill "*Eighth Edition*" frames more.
 
 I say "successes" because those newer frames are reasonably well-liked and have brought many people's issues with the *Eighth* frames to light. Detractors call the *Eighth* frames "drab" and "rigid," and then lo and behold, *Planar Chaos* shows that we are capable of making cards that are not drab, and *Future Sight* shows we are capable of making cards that are not rigid!
 

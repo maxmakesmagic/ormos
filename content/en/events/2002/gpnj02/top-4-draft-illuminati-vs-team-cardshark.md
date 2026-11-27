@@ -284,7 +284,9 @@ The Card Sharks won the randomization event and elected to have Illuminati open 
 
 Pack Two: *Odyssey*
 
-![](https://www.wizards.com/sideboard/images/gpnj02/877.jpg)Alex gladly added Lieutenant Kirtar to his small but growing pile of white cards, shipping a Wild Mongrel, Firebolt, Hallowed Healer, Liquid Fire and Syncopate. Jason took the Firebolt, and Paul took the Healer. Adam gladly took the Wild Mongrel, Justin took the Dusk Imp, and Zvi wheeled Syncopate and a Krosan Avenger. Justin took the Liquid Fire testing out the R/B waters. Nothing else of interest happened until Alex got an Aven Archer on the second wheel.
+![](https://www.wizards.com/sideboard/images/gpnj02/877.jpg)
+
+Alex gladly added Lieutenant Kirtar to his small but growing pile of white cards, shipping a Wild Mongrel, Firebolt, Hallowed Healer, Liquid Fire and Syncopate. Jason took the Firebolt, and Paul took the Healer. Adam gladly took the Wild Mongrel, Justin took the Dusk Imp, and Zvi wheeled Syncopate and a Krosan Avenger. Justin took the Liquid Fire testing out the R/B waters. Nothing else of interest happened until Alex got an Aven Archer on the second wheel.
 
 Pack Three: *Odyssey*
 
@@ -344,7 +346,9 @@ Alex showed blue again with a Wormfang Drake. Jason took a Stitch Together and P
 
 Pack Three: *Judgment*
 
-![](https://www.wizards.com/sideboard/images/gpnj02/878.jpg)Jason was faced with the unusual situation of having to choose between two good red cards to start out his *Judgment* pack. He eventually settled on Barbarian Bully over Browbeat-Justin seemed fine either way that worked out. Paul took an Aven Fogbringer and Adam grabbed a Treacherous Werewolf. Zvi ended up with another Mental Note after Justin took the Lava Axe/Ancestral. Alex ended up with a very good white wheel of Guided Strike and Phantom Nomad.
+![](https://www.wizards.com/sideboard/images/gpnj02/878.jpg)
+
+Jason was faced with the unusual situation of having to choose between two good red cards to start out his *Judgment* pack. He eventually settled on Barbarian Bully over Browbeat-Justin seemed fine either way that worked out. Paul took an Aven Fogbringer and Adam grabbed a Treacherous Werewolf. Zvi ended up with another Mental Note after Justin took the Lava Axe/Ancestral. Alex ended up with a very good white wheel of Guided Strike and Phantom Nomad.
 
 Pack Four: *Judgment*
 

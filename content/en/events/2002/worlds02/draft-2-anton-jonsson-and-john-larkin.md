@@ -679,7 +679,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a828.jpg)Anton Jonsson and John Larkin had to be thinking about the national team competition when they sat down for the second draft on Thursday. Their 7-2 records earned them a seat on table 2, but even more important they are each national champions and their countries sit first and second in the team competition. Larkin's Irish squad is a slim one point against of Jonsson's Swedes. Jonsson has been on quite a tear this season, with two Top 8's and counting for the rising star of Team Punisher.
+![](http://www.wizards.com/sideboard/images/worlds02/a828.jpg)
+
+Anton Jonsson and John Larkin had to be thinking about the national team competition when they sat down for the second draft on Thursday. Their 7-2 records earned them a seat on table 2, but even more important they are each national champions and their countries sit first and second in the team competition. Larkin's Irish squad is a slim one point against of Jonsson's Swedes. Jonsson has been on quite a tear this season, with two Top 8's and counting for the rising star of Team Punisher.
 
 Jonsson's draft wasn't terribly interesting. He first picked a Shadowmage Infiltrator and his neighbors seemed perfectly happy to have him in blue-black. His second pack was a Cephalid Looter (with a common missing he had to think that Cole Swannack had taken a Wild Mongrel, which was indeed true). Then his third pick was a Ghastly Demise. The only really interesting decision Jonsson had to make was I his very first pack of *Torment*: Faceless Butcher or Nantuko Shade? It was a nice decision to have to make ... he took the Butcher.
 

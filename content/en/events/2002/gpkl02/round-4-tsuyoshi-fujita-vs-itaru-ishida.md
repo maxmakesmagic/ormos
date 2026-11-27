@@ -90,13 +90,17 @@ render_recovery:
   - Syncopate
   occurrences: 39
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a986.jpg)Two of the giants of the Japanese pro scene were forced to tangle earlier than they would have liked. Both have long lists of accomplishments to their names, but recently added to them at Osaka two weeks ago. Tsuyoshi Fujita came within striking distance of the Top 8, only to finish 14th. Itaru Ishida led his crack squad Panzer Hunters to a return appearance in the Team Masters Finals. Now, after having travelled to Kuala Lumpur together, they would have to fight.
+![](http://www.wizards.com/sideboard/images/gpkl02/a986.jpg)
+
+Two of the giants of the Japanese pro scene were forced to tangle earlier than they would have liked. Both have long lists of accomplishments to their names, but recently added to them at Osaka two weeks ago. Tsuyoshi Fujita came within striking distance of the Top 8, only to finish 14th. Itaru Ishida led his crack squad Panzer Hunters to a return appearance in the Team Masters Finals. Now, after having travelled to Kuala Lumpur together, they would have to fight.
 
 ### Game 1
 
 Ishida kept a two-land hand with Tainted Pact for the first game, only to have his Patrol Hound stripped with Mesmeric Fiend. Fujita's Frightcrawler added to the beats while Ishida dug for another plains. He hoped Reborn Hero would stop Fujita's assault.
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a988.jpg)Fujita went one better, playing Last Rites for three and discarding Deep Analysis, land, and a Fiery Temper to shoot the Hero. He left Ishida with just an uncastable Werebear and a third plains. He reused the Analysis and waited. Ishida drew into Waste Away to get back his Hound, and then Organ Grinder. Fujita pressed with Aven Fisher and Minotaur Explorer. Ishida drew Hallowed Healer, but Fujita was ready with Psionic Gift, convincing Ishida to pack it in.
+![](http://www.wizards.com/sideboard/images/gpkl02/a988.jpg)
+
+Fujita went one better, playing Last Rites for three and discarding Deep Analysis, land, and a Fiery Temper to shoot the Hero. He left Ishida with just an uncastable Werebear and a third plains. He reused the Analysis and waited. Ishida drew into Waste Away to get back his Hound, and then Organ Grinder. Fujita pressed with Aven Fisher and Minotaur Explorer. Ishida drew Hallowed Healer, but Fujita was ready with Psionic Gift, convincing Ishida to pack it in.
 
 Fujita 1 - Ishida 0
 
@@ -112,7 +116,9 @@ Fujita 1 - Ishida 1
 
 Fujita seemed indominable in the final game. Safe behind a Pitchstone Wall, he stopped Ishida's Lieutenant Kirtar with Coral Net, then drew four off Deep Analysis. Ishida tried to mount an offense to punish his laziness. It was just Aven Archer, and then after Pardic Firecat hit, Reborn Hero with Floating Shield: Red.
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a987.jpg)It was unfair that Fujita would get to have so many cards, but he didn't mind further turning the screw. Mesmeric Fiend took Ishida's only spell, Morbid Hunger. Dematerialize dispatched the Hero. Ishida calmly drew Cabal Torturer, looking strong, but he was immediately shot down by a topdecked Thermal Blast.
+![](http://www.wizards.com/sideboard/images/gpkl02/a987.jpg)
+
+It was unfair that Fujita would get to have so many cards, but he didn't mind further turning the screw. Mesmeric Fiend took Ishida's only spell, Morbid Hunger. Dematerialize dispatched the Hero. Ishida calmly drew Cabal Torturer, looking strong, but he was immediately shot down by a topdecked Thermal Blast.
 
 Now Fujita started hammering. A Torturer of his own and a Posessed Barbarian joined his side. Ishida had meantime hired a Cloudchaser, and chose to swing, bringing Fujita to seven. Fujita's counterstrike brought him to five. Strangely, Fujita chose to send the Fiend as well, trading it for the Hero. He couldn't have telegraphed his Syncopate any more clearly.
 

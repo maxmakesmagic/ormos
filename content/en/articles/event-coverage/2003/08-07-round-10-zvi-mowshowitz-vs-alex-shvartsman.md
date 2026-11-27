@@ -44,7 +44,9 @@ archive_source:
   sha256: 7cd81bbfbbd6d66758bbe442f076eb1bb469bbe37292be9c71defc59a73db07f
 render_recovery: []
 ---
-![](https://i.ormos.uk/4e/da/4eda051a8c88cb0c80a8a10ef46a73d021a432625e69b6fe9864b19a47df1914.jpg)Both Zvi and Alex are among the Top 25 money winners in the game. Alex is on the low end of the list hovering around 25th place but Zvi is currently fourth and was hoping to close some ground this weekend. It's not happening for either of them. The two Illuminati teammates were wondering what they were doing in the feature match area with 4-5 records. 
+![](https://i.ormos.uk/4e/da/4eda051a8c88cb0c80a8a10ef46a73d021a432625e69b6fe9864b19a47df1914.jpg)
+
+Both Zvi and Alex are among the Top 25 money winners in the game. Alex is on the low end of the list hovering around 25th place but Zvi is currently fourth and was hoping to close some ground this weekend. It's not happening for either of them. The two Illuminati teammates were wondering what they were doing in the feature match area with 4-5 records. 
 
 "You are looking at a pair of [Exalted Angel](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel)s," laughed Alex, comparing their records to the power and toughness of the powerful card.
 
@@ -82,7 +84,9 @@ Alex – 0 Zvi – 1
 
 Zvi had a turn two Turncoat and followed with a [Stonewood Invoker](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker). Alex had a turn four play and Zvi asked how big. Alex swore it was huge but it was only a [Dive Bomber](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber). Alex attacked him down to 14 and played a [Vengeful Dead](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vengeful+Dead). 
 
-![](https://i.ormos.uk/74/72/7472bb3c7eea55c0eec299ffde45f7275dc181183306c4c15b0bf6411b00ef3c.jpg)Alex played a face-down guy and tried to decide where to play a [Pacifism](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism). He opted for the Invoker because he did not want the [Vengeful Dead](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vengeful+Dead) to stick around for long. Zvi untapped and [Swat](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat)ted the soldier, "That's his fate—get used to it." and swung in and dropped Alex to eleven. A [Carrion Feeder](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carrion+Feeder) joined the team. 
+![](https://i.ormos.uk/74/72/7472bb3c7eea55c0eec299ffde45f7275dc181183306c4c15b0bf6411b00ef3c.jpg)
+
+Alex played a face-down guy and tried to decide where to play a [Pacifism](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism). He opted for the Invoker because he did not want the [Vengeful Dead](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vengeful+Dead) to stick around for long. Zvi untapped and [Swat](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat)ted the soldier, "That's his fate—get used to it." and swung in and dropped Alex to eleven. A [Carrion Feeder](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carrion+Feeder) joined the team. 
 
 Alex played a [Swooping Talon](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swooping+Talon) and Zvi played a morph. When Alex provoked the [Vengeful Dead](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vengeful+Dead), Zvi put all three of his block-eligible creatures in the ay but Alex had the [Aven Liberator](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Liberator). The end result was a +1/+1 counter on the Feeder and a loss of one life for Alex.
 
@@ -100,7 +104,9 @@ Alex – 1 Zvi – 1
 
 ### Game 3
 
-![](https://i.ormos.uk/e0/cb/e0cb7922538e9d6f089f66d33c288f9ef3b5b032e23665101e90dca3d0826672.jpg)Zvi came out fast with another Turncoat but Alex was not prepared for all the damage he could get in and Pacified it on his next turn. Zvi played a morph and Alex had no turn three play. [Stonewood Invoker](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker) was one-upped by [Essence Sliver](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Essence+Sliver)—still no Stingers for Alex. 
+![](https://i.ormos.uk/e0/cb/e0cb7922538e9d6f089f66d33c288f9ef3b5b032e23665101e90dca3d0826672.jpg)
+
+Zvi came out fast with another Turncoat but Alex was not prepared for all the damage he could get in and Pacified it on his next turn. Zvi played a morph and Alex had no turn three play. [Stonewood Invoker](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker) was one-upped by [Essence Sliver](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Essence+Sliver)—still no Stingers for Alex. 
 
 Zvi sent in the morph and Alex took the bait and put his Sliver in the way. [Patron of the Wild](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patron+of+the+Wild) killed the Sliver and Alex gained three. He played an [Aven Farseer](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Farseer) and a morph, giving Zvi a choice of [Swat](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat) targets. He decided that based on the number of morph tricks in his deck he would [Swat](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat) the Farseer while he still could.
 

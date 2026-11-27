@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270118.jpg)Satoshi's table included three other top Japanese players, the 'Blue Master' Tadayoshi Komiya, Tomohiro Maruyama, also known as 'Desk' (Top 8 GP Kyoto and GP Sapporro), and Hiroshi Harada (Top 8 Japan Nationals 2000). Komiya was feeding Satoshi from the right and to Satoshi's left was Kiyoshi Sasanuma, the finalist Satoshi defeated to become 1998 APAC Champion.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270118.jpg)
+
+Satoshi's table included three other top Japanese players, the 'Blue Master' Tadayoshi Komiya, Tomohiro Maruyama, also known as 'Desk' (Top 8 GP Kyoto and GP Sapporro), and Hiroshi Harada (Top 8 Japan Nationals 2000). Komiya was feeding Satoshi from the right and to Satoshi's left was Kiyoshi Sasanuma, the finalist Satoshi defeated to become 1998 APAC Champion.
 
 **Booster One**
 

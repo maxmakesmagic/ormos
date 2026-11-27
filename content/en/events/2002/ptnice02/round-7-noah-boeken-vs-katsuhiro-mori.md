@@ -137,7 +137,9 @@ render_recovery:
   - Words of Wisdom
   occurrences: 102
 ---
-![](https://i.ormos.uk/39/1e/391e2799afa7d106eeda2353d328a1ac00088864980083670594966aedfb1edf.jpg)The loudmouth Noah Boeken against a legend from the east. Katsuhiro Mori is Japan´s answer to Wild West cowboys: anyone who ever watched him play says he is way too fast for words. Boeken is no slouch either and his skill and results are the reason he is playing in his fourth Feature Match today.
+![](https://i.ormos.uk/39/1e/391e2799afa7d106eeda2353d328a1ac00088864980083670594966aedfb1edf.jpg)
+
+The loudmouth Noah Boeken against a legend from the east. Katsuhiro Mori is Japan´s answer to Wild West cowboys: anyone who ever watched him play says he is way too fast for words. Boeken is no slouch either and his skill and results are the reason he is playing in his fourth Feature Match today.
 
 This is the money round. The winner gets to play tomorrow while the loser can only hang around complaining about his bad luck.
 
@@ -149,7 +151,9 @@ Katsuhiro reached four mana and dropped Possessed Centaur followed by Metamorphi
 
 He did his best to stop Mori´s monsters but with Seton´s Desire now pumping the remaining squirrel things were looking very grim for the Dutch. A timely Aether Burst turned a gang block into a disaster. In a few turns the Dutch was out of creatures and the game was over.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a869.jpg)It was that fast. The round had only started four minutes ago and they were already reaching for the sideboards. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a869.jpg)
+
+It was that fast. The round had only started four minutes ago and they were already reaching for the sideboards. 
 
 Katsuhiro 1-0 Noah.
 
@@ -161,7 +165,9 @@ The Aristocrat got ganged by Skywing Aven and Dirty Wererat and a turn later the
 
 Flooded in lands Katsuhiro flashbacked Analysis before playing Squirrel´s Nest and Chatter of Squirrels. Boeken couldn´t sneak through on the ground so he played a Gravedigger preparing for the long battle.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a870.jpg)The hyperactive Japanese watched as Noah Boeken dropped creature after creature taking to the skies with Skywing Aven and hoping to hold back the incoming flood of tokens.
+![](http://www.wizards.com/sideboard/images/ptnice02/a870.jpg)
+
+The hyperactive Japanese watched as Noah Boeken dropped creature after creature taking to the skies with Skywing Aven and hoping to hold back the incoming flood of tokens.
 
 Ghostly Wings helped Gravedigger joined the flying circus but Mori had a Moment´s Peace to slow things down. On the ground his squirrels now had a massive commander: Metamorphic Wurm with Seton´s Desire.
 

@@ -68,7 +68,9 @@ render_recovery:
   - pr.wizards@gmail.com
   occurrences: 1
 ---
-[![](https://i.ormos.uk/5e/26/5e26c943e120533bc98964e4afd77ea0c1c7cc76be9c8ea9f059d97266d710e5.jpg)](https://web.archive.org/web/20071204000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/worlds)This week's **Magic: The Gathering** [World Championships](https://web.archive.org/web/20071204000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/worlds) isn't just a tournament to determine the best of the best of the professional players. It's also a giant convention of **Magic** for everybody—including *you*. So why should *you* attend Worlds? There are dozens of reasons—here's sixteen or so.
+[![](https://i.ormos.uk/5e/26/5e26c943e120533bc98964e4afd77ea0c1c7cc76be9c8ea9f059d97266d710e5.jpg)](https://web.archive.org/web/20071204000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/worlds)
+
+This week's **Magic: The Gathering** [World Championships](https://web.archive.org/web/20071204000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/worlds) isn't just a tournament to determine the best of the best of the professional players. It's also a giant convention of **Magic** for everybody—including *you*. So why should *you* attend Worlds? There are dozens of reasons—here's sixteen or so.
 
 **Magic on national television!**  
  Thursday morning, **Magic: The Gathering** will be featured on the CBS Early Show and we're looking for 200+ **Magic** fans to appear on live national TV in NYC! Buses will take players from the Javits Center (11th and West 35th) to the CBS Studios at 7 a.m. For the early-risers, there's free product and swag for the first 150 people to get on the buses. Buses will depart the studios to bring players back to the Javits Center at 8:45 a.m. If you're competing at Worlds, don't worry about being late for the first round—a separate bus will depart at 8:15 a.m. and have you back at the Javits by 8:45 a.m. If you’re interested in participating in the trip to CBS Studios, please contact pr.wizards@gmail.com.

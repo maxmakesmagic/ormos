@@ -87,7 +87,9 @@ render_recovery: []
 ---
 *Stick the landing*. 
 
-[![Leap](https://i.ormos.uk/df/02/df02ed873a942028911bd774f1416a3fb8bcb50d00c03f155fe42188013c0111.jpg)](https://web.archive.org/web/20071204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Leap)Ever watch a gymnastic routine where the performer is obviously on the top of their game? There they are, swinging and looping on the bars, contorting their whole body into unearthly and yet beautiful shapes, arcing with a fluid grace that seems somehow angelic. 
+[![Leap](https://i.ormos.uk/df/02/df02ed873a942028911bd774f1416a3fb8bcb50d00c03f155fe42188013c0111.jpg)](https://web.archive.org/web/20071204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Leap)
+
+Ever watch a gymnastic routine where the performer is obviously on the top of their game? There they are, swinging and looping on the bars, contorting their whole body into unearthly and yet beautiful shapes, arcing with a fluid grace that seems somehow angelic. 
 
 Yet experienced watchers know that a beautiful routine can be slaughtered by that one final misstep at the end. Here they come, sailing off the high beam, twirling off the balance beam, their torsos and legs shifting in mid-air... and it's all down to that final piece of footwork. 
 

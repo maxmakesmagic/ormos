@@ -44,7 +44,9 @@ archive_source:
   sha256: b901c2fe16643fc38d41454278a2a41b07905c3b00df8d8fa14d7e9562e5d7aa
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a971.jpg)When Dave Williams was suspended from the DCI following his disqualification at World Championships last year, many believed his career as a mage was over. A year is a long time to go without playing at the highest level, and without the incentive of the next big event, it's hard to keep in practice. Magic Online has gone a long way to keeping his ring rust at bay. He's knows he's got a lot to prove, and he's eager to do so.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a971.jpg)
+
+When Dave Williams was suspended from the DCI following his disqualification at World Championships last year, many believed his career as a mage was over. A year is a long time to go without playing at the highest level, and without the incentive of the next big event, it's hard to keep in practice. Magic Online has gone a long way to keeping his ring rust at bay. He's knows he's got a lot to prove, and he's eager to do so.
 
 His opponent, Danny Mandel, was in his former days something of a nemesis to Williams. Twice before they had crossed swords, and both times Mandel had emerged the victor. The so-called Junior Member of Team Your Move Games is in the hunt for some gold to bump him to upper management.
 
@@ -54,7 +56,9 @@ Mandel got things going with style, Studying into a pair of Rootwallas. Williams
 
 Williams played it cautious. [Crypt Creeper](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crypt+Creeper) took down the Roar. Mandel mashed him for five, leaving him at twelve. Here, Williams manastumbled, missing his fourth drop and playing just a [Nantuko Shade](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Shade) with one mana up. Mandel struck again. He Noted into nothing during combat, losing a squirrel to the Shade and dropping Williams to eight. Mandel still had nothing to add.
 
-![](https://i.ormos.uk/28/5f/285f52f139a1bf4ec6b5c8460fb9948925b099418e78d896213838e3369dfcdd.jpg)Williams ripped swamp and threw down Butcher on the Rootwalla, stabilising. Mandel was not to be outdone, busting out [Grizzly Fate](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Fate) for the full four bears. Williams managed another Butcher, but it wasn't looking good. Mandel flashed back his Fate, and with [Centaur Garden](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Garden) on the table it was all over. 
+![](https://i.ormos.uk/28/5f/285f52f139a1bf4ec6b5c8460fb9948925b099418e78d896213838e3369dfcdd.jpg)
+
+Williams ripped swamp and threw down Butcher on the Rootwalla, stabilising. Mandel was not to be outdone, busting out [Grizzly Fate](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Fate) for the full four bears. Williams managed another Butcher, but it wasn't looking good. Mandel flashed back his Fate, and with [Centaur Garden](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Garden) on the table it was all over. 
 
 Mandel 1 - Williams 0
 
@@ -74,7 +78,9 @@ Mandel had nothing back. He waited on his Mongrel. Williams regrew the Ichord an
 
 Mandel 1 - Williams 1
 
-![](https://i.ormos.uk/b0/4e/b04e50f91e94e79274ce3cef68ce1fc0591472cd3c43edecaa486ff7662d84d8.jpg)The deciding game began with just ten minutes on the clock. Shockingly, Mandel had no play on the first two turns of the game, under the gun of Williams's turn-two Shade. Mandel's decision to keep became clear on turn three when he busted out [Squirrel Nest](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squirrel+Nest) on his lone island. It could take the game by itself.
+![](https://i.ormos.uk/b0/4e/b04e50f91e94e79274ce3cef68ce1fc0591472cd3c43edecaa486ff7662d84d8.jpg)
+
+The deciding game began with just ten minutes on the clock. Shockingly, Mandel had no play on the first two turns of the game, under the gun of Williams's turn-two Shade. Mandel's decision to keep became clear on turn three when he busted out [Squirrel Nest](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squirrel+Nest) on his lone island. It could take the game by itself.
 
 Williams wasted no time in showing Mandel the [Rancid Earth](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rancid+Earth) in his hand. Mandel enjoyed a glower. His third forest came down and he had nothing to add. [Mesmeric Fiend](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend) stole his [Phantom Centaur](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Centaur) and showed [Grizzly Fate](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Fate), [Wonder](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wonder) and [Acorn Harvest](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Acorn+Harvest). [Millikin](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millikin) joined the party. Mandel cast the Harvest and handed it over. 
 

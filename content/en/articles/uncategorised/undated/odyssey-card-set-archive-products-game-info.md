@@ -69,7 +69,9 @@ The foundation for exciting Sealed Deck play. Includes 45 randomly assorted card
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/46/81/46819d3472bcc968ff8bf7b64b29a7d7f1f5a7bee7f6235d108a3dea250626f4.png)This 350-card, black-bordered set includes randomly inserted foil premium cards and two new graveyard-based mechanics: Flashback and Threshold.
+![](https://i.ormos.uk/46/81/46819d3472bcc968ff8bf7b64b29a7d7f1f5a7bee7f6235d108a3dea250626f4.png)
+
+This 350-card, black-bordered set includes randomly inserted foil premium cards and two new graveyard-based mechanics: Flashback and Threshold.
 
 **Set Name:** *Odyssey*  
 **Block:** Set 1 of 3 of the *Odyssey* Block  

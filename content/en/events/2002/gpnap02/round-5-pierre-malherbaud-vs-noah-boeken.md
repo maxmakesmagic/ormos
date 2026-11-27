@@ -53,7 +53,9 @@ archive_source:
   sha256: 64fe3e7c1d2003c07e676cc0c996903d0ac39e8eb555e43fb682aa464c62a59b
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a957.jpg)Former European Champion Noah Boeken broke a drought of high money finishes by winning Grand Prix Barcelona two weeks ago. His opponent is solid French player Pierre Malherbaud. Malherbaud has been National Champion twice and made top 8 in Grand Prix London last year.
+![](http://www.wizards.com/sideboard/images/gpnap02/a957.jpg)
+
+Former European Champion Noah Boeken broke a drought of high money finishes by winning Grand Prix Barcelona two weeks ago. His opponent is solid French player Pierre Malherbaud. Malherbaud has been National Champion twice and made top 8 in Grand Prix London last year.
 
 ### Game 1
 
@@ -79,7 +81,9 @@ Boeken 1-1 Malherbaud
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a956.jpg)Boeken made Malherbaud go first but this didn't really pay off as he was the one who had to mulligan. Boeken's beatdown curve was matched by Malherbaud's removal. Firebolt killed Filthy Cur, Afflict killed Patchwork Gnomes and Ghastly Demise killed Krosan Constrictor.
+![](http://www.wizards.com/sideboard/images/gpnap02/a956.jpg)
+
+Boeken made Malherbaud go first but this didn't really pay off as he was the one who had to mulligan. Boeken's beatdown curve was matched by Malherbaud's removal. Firebolt killed Filthy Cur, Afflict killed Patchwork Gnomes and Ghastly Demise killed Krosan Constrictor.
 
 Malherbaud stumbled on land and then his Petravark was killed with Crippling Fatigue. Then both players summoned creatures that stuck – Spinging Tiger from Boeken, Groteque Hybrid from Malherbaud.
 

@@ -77,7 +77,9 @@ Nadebaum and his Card Heaven team mates are arguably the best team in Victoria, 
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a939.jpg)After winning the coin flip Nadebaum elects to draw and Campbell responds by taking a mulligan. His new hand of 6 cards is far superior to his old 7 card hand and he casts a third turn morph which he trades with Nadebaum's third turn Nantuko Husk. Nadebaum is relieved when he finds out the creature is a Skirk Commando however he feels a little less cheerful after he sees a Wirewood Savage join the board on Campbells side. Over his next two turns Nadebaum cycles his Barkhide Mauler and his Krosan Tusker, refusing to play them and give Campbell any possible advantage from his Savage. Campbell solidifies his mana base by cycling his own Tusker and drops a Symbiotic Elf.
+![](http://www.wizards.com/sideboard/images/gpmel02/a939.jpg)
+
+After winning the coin flip Nadebaum elects to draw and Campbell responds by taking a mulligan. His new hand of 6 cards is far superior to his old 7 card hand and he casts a third turn morph which he trades with Nadebaum's third turn Nantuko Husk. Nadebaum is relieved when he finds out the creature is a Skirk Commando however he feels a little less cheerful after he sees a Wirewood Savage join the board on Campbells side. Over his next two turns Nadebaum cycles his Barkhide Mauler and his Krosan Tusker, refusing to play them and give Campbell any possible advantage from his Savage. Campbell solidifies his mana base by cycling his own Tusker and drops a Symbiotic Elf.
 
 Unfortunately for Nadebaum he has no response and passes the turn back to Campbell, who casts a Symbiotic Beast. Nadebaum stalls on the casting of the spell and it becomes obvious that he has a Slice and Dice and was thinking if he should cast it before the beast triggers the Savage's effect. Nadebaum simply shakes his head and lets it enter play, knowing that the Symbiotic Elf and the Beast have now ruined his chances of Slicing and Dicing away the board. 
 
@@ -93,7 +95,9 @@ Tied 1-1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a940.jpg)After two pretty poor games the players comment that the first was decided by mana Flood and the second was decided by mana screw so chances are the third game should be a nice fair contest. Nadebaum disproves this point when he takes a mulligan and Campbell does his best by drawing swamps as his first 4 lands. Despite the land Screw Campbell manages to cast a turn 3 morph, which is met by a swat, and a turn 4 morph, which takes 2 from Nadebaums life while he solidifies his mana base with Explosive Vegetation. Campbell finds the forest he so desperately needs and drops a Wirewood Savage, forcing Nadebaum to once again cycle his Krosan Tusker.
+![](http://www.wizards.com/sideboard/images/gpmel02/a940.jpg)
+
+After two pretty poor games the players comment that the first was decided by mana Flood and the second was decided by mana screw so chances are the third game should be a nice fair contest. Nadebaum disproves this point when he takes a mulligan and Campbell does his best by drawing swamps as his first 4 lands. Despite the land Screw Campbell manages to cast a turn 3 morph, which is met by a swat, and a turn 4 morph, which takes 2 from Nadebaums life while he solidifies his mana base with Explosive Vegetation. Campbell finds the forest he so desperately needs and drops a Wirewood Savage, forcing Nadebaum to once again cycle his Krosan Tusker.
 
 Nadebaum untaps and drops a Symbiotic Elf which Campbell decides is worth trading for his morphed uncastable Skirk Commando. From there things go downhill as Nadebaum can draw nothing but land and tries in vain to find creatures that can stem the bleeding that is coming at the hands of Campbells army of morph creatures. Nadebaum slams down a morph which trades with the Savage as Cambell attempts to force through extra damage and then sighs as another Savage takes its place, followed by a Krosan Tusker.
 

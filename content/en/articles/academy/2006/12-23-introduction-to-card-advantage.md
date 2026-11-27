@@ -83,7 +83,9 @@ render_recovery: []
 
 *This article originally appeared on September 23, 2006*
 
-![Train_of_Thought](https://i.ormos.uk/e5/a4/e5a40658a839397dbc5a3121f195b30a5efe5669b9d6a58518837eddfa941c51.jpg)Welcome back, my eager students. For those of you standing, please be seated. For those of you sitting, settle in because we've got some hard thinking to do today. Today's lesson is going to introduce one of **Magic's** basic theoretical concepts: card advantage. More words, both wrong and right, have probably been written about card advantage than any other piece of **Magic** theory. It was one of the game's early strategic concepts and it continues to guide the play of pros even today. With that in mind, it behooves me to introduce at least the basics to you here today so that you have some understanding when you see the topic come up, and also so that you too can start using it to guide your own play, which will likely make you better at the game of **Magic** to boot.
+![Train_of_Thought](https://i.ormos.uk/e5/a4/e5a40658a839397dbc5a3121f195b30a5efe5669b9d6a58518837eddfa941c51.jpg)
+
+Welcome back, my eager students. For those of you standing, please be seated. For those of you sitting, settle in because we've got some hard thinking to do today. Today's lesson is going to introduce one of **Magic's** basic theoretical concepts: card advantage. More words, both wrong and right, have probably been written about card advantage than any other piece of **Magic** theory. It was one of the game's early strategic concepts and it continues to guide the play of pros even today. With that in mind, it behooves me to introduce at least the basics to you here today so that you have some understanding when you see the topic come up, and also so that you too can start using it to guide your own play, which will likely make you better at the game of **Magic** to boot.
 
 ### Why Should I Care About Theory?
 

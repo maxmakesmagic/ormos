@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/6e/2c/6e2cf45b0af610b6edc3273689da1db766edc441d2dd30b68df4c577f8a32234.png)This 180-card deck includes introduces three more Ravnica guilds: Azorius Senate (blue-white), Rakdos Cult (black-red), and Simic Combine (green-blue).
+![](https://i.ormos.uk/6e/2c/6e2cf45b0af610b6edc3273689da1db766edc441d2dd30b68df4c577f8a32234.png)
+
+This 180-card deck includes introduces three more Ravnica guilds: Azorius Senate (blue-white), Rakdos Cult (black-red), and Simic Combine (green-blue).
 
 **Set Name:** *Dissension*  
 **Block:** Set 3 of 3 of the *Ravnica* Block  

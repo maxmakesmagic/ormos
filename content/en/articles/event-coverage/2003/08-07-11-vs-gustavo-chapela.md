@@ -44,7 +44,9 @@ archive_source:
   sha256: 7fb586eb92e1e16c3e235d0e530ef93823c09e9f17aa7836705c78f2b254824b
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a780.jpg)実はすでに4敗してしまっているラインでの二人なのだが、*「世界選手権っていうのはアレさ。国際色豊かじゃないといけないだろ！」*...ということでMark RosewaterによってFeature Matchに選出されたのだった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a780.jpg)
+
+実はすでに4敗してしまっているラインでの二人なのだが、*「世界選手権っていうのはアレさ。国際色豊かじゃないといけないだろ！」*...ということでMark RosewaterによってFeature Matchに選出されたのだった。
 
 ちなみに、Gustavo Chapelaは今年度メキシコ代表。ナショナルチャンピオンに輝くことも数回、メキシコ代表はなんと5回目だという南米の強豪だ。陳腐な表現だがミスターメキシコとでも言ったところか。
 
@@ -66,7 +68,9 @@ render_recovery: []
 
 膨れ上がったハンドが《秘密調査員/[Covert Operative](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Covert+Operative)》、《白騎士/[White Knight](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=White+Knight)》、《変異/[Morph](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Morph)》2体と変換されるにおよんで...石田はようやっと4マナに到達。《死を刻む僧院長/[Deathmark Prelate](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deathmark+Prelate)》が《秘密調査員/[Covert Operative](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Covert+Operative)》との相打ちをとれたわけだが...もはや勝敗の行方をくつがえすのは難しいといわざるを得ない。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a781.jpg)Chapelaはさらに増幅＝1の《エイヴンの戦鷹/[Aven Warhawk](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Warhawk+) 》と《エイヴンの救い手/[Aven Redeemer](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Redeemer)》を召喚。これで圧倒的だった盤面はさらに決定的となった。...そして、石田はをスコアボードのChapelaの勝ち星をあらわす部分のプレートを自ら「2」にかえたのだった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a781.jpg)
+
+Chapelaはさらに増幅＝1の《エイヴンの戦鷹/[Aven Warhawk](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Warhawk+) 》と《エイヴンの救い手/[Aven Redeemer](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Redeemer)》を召喚。これで圧倒的だった盤面はさらに決定的となった。...そして、石田はをスコアボードのChapelaの勝ち星をあらわす部分のプレートを自ら「2」にかえたのだった。
 
 残念無念。  
  ここからの石田の頑張りに期待したいものだ。

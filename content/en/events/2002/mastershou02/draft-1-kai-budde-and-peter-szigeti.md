@@ -135,7 +135,9 @@ render_recovery:
   - Taunting Elf
   occurrences: 116
 ---
-![](https://i.ormos.uk/51/27/5127aed1bdc22e2febce53b030abf71dc8d7866e79514e9bed2ab745d9f26e5c.jpg)As the number two seed in this event (Mike Pustilnik, winner of the last Masters, is number one), Kai Budde has "earned" the right to sit on Peter Szigeti's left. Szigeti, known more for his mouth than his skills, managed to run the table in sealed and booster draft earlier in the day in the "grinder" event, and gets a minimum of $2000 for his efforts.
+![](https://i.ormos.uk/51/27/5127aed1bdc22e2febce53b030abf71dc8d7866e79514e9bed2ab745d9f26e5c.jpg)
+
+As the number two seed in this event (Mike Pustilnik, winner of the last Masters, is number one), Kai Budde has "earned" the right to sit on Peter Szigeti's left. Szigeti, known more for his mouth than his skills, managed to run the table in sealed and booster draft earlier in the day in the "grinder" event, and gets a minimum of $2000 for his efforts.
 
 The table:
 
@@ -164,7 +166,9 @@ The second set of packs worked out well for Kai: he took Shock first, then Wirew
 
 At one point Kai took a Tranquil Thicket over a Wooded Foothills even though the fetchland was in his colors. He later explained that you will always have enough playable cards in this format, so all you need to do is make sure you don't get mana screwed or mana flooded. To do so you should draft plenty of cycling lands so that you can afford to play 18 lands. Kai even said that he played 19 lands, five of which cycled, in a 40-card deck at a recent Grand Prix.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a969.jpg)I heard several PT players joking last night that it's possible to gauge people's ability to draft by how many cycling lands they end up with—the more the better. (When asked how many cycling lands they would play in this format, Dave Humpherys answered 18, and Gary Wise said, "Why stop there? 20." Kai did go against this belief when he took a Heedless One over another Thicket with his 28th pick, claiming that if he could have gotten more Elves in pack three, the Avatar would have been good in his deck. As it was, he didn't even play it. He did end up with three Tranquil Thickets, but a fourth would have been nice.
+![](http://www.wizards.com/sideboard/images/pthou02/a969.jpg)
+
+I heard several PT players joking last night that it's possible to gauge people's ability to draft by how many cycling lands they end up with—the more the better. (When asked how many cycling lands they would play in this format, Dave Humpherys answered 18, and Gary Wise said, "Why stop there? 20." Kai did go against this belief when he took a Heedless One over another Thicket with his 28th pick, claiming that if he could have gotten more Elves in pack three, the Avatar would have been good in his deck. As it was, he didn't even play it. He did end up with three Tranquil Thickets, but a fourth would have been nice.
 
 Szigeti was passed a Graxiplon 15th in pack 2, which meant that blue was, not surprisingly, underdrafted.
 

@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Craig Jones* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/885.jpg)The penultimate round and David Price from the states faced off against the Frenchman Antoine Ruel. The match was of more importance to the American as Ruel could afford to lose and still make top 8. This was lucky for him as they'd sat next to each other in the draft and had both chosen to draft red/black. Crucially Price had been feeding Ruel for two of the boosters and consequentially had the pick of the better cards, including a third pick Yawgmoth's Agenda. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/885.jpg)
+
+The penultimate round and David Price from the states faced off against the Frenchman Antoine Ruel. The match was of more importance to the American as Ruel could afford to lose and still make top 8. This was lucky for him as they'd sat next to each other in the draft and had both chosen to draft red/black. Crucially Price had been feeding Ruel for two of the boosters and consequentially had the pick of the better cards, including a third pick Yawgmoth's Agenda. 
 
 **Game 1** 
 

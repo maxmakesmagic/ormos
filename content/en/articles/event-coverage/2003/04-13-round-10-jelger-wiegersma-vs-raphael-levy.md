@@ -46,7 +46,9 @@ render_recovery: []
 ---
 At the end of Day 1 only two players stood on top of the rankings with perfect records. Now, at the start of Day 2, they get to play each other for the chance to open up a lead over the rest of the field. Both Jelger Wiegersma of the Netherlands and Raphael Levy are experienced pros.
 
-![](https://i.ormos.uk/4a/9d/4a9dfe8e3843643db4369b9b0e0675ad60491ffd336db88102bd43c29195cae6.jpg)Levy has a very fast black-green deck with multiple [Wretched Anurid](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wretched+Anurid) but little in the way of tricks and removal. Wiegersma has a solid blue-red deck with two Skills and a [Butcher Orgg](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher+Orgg).
+![](https://i.ormos.uk/4a/9d/4a9dfe8e3843643db4369b9b0e0675ad60491ffd336db88102bd43c29195cae6.jpg)
+
+Levy has a very fast black-green deck with multiple [Wretched Anurid](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wretched+Anurid) but little in the way of tricks and removal. Wiegersma has a solid blue-red deck with two Skills and a [Butcher Orgg](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher+Orgg).
 
 ### Game 1
 
@@ -76,7 +78,9 @@ There was a funny moment when Levy left himself open for the Entrancer to attack
 
 A Gourna appeared and took down an Aven, only to be finished off by the Skilled Entrancer. Shapeshifter traded with the zombie frog and then Levy flopped an [Enormous Baloth](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Enormous+Baloth) onto the table.
 
-![](https://i.ormos.uk/3e/95/3e95fadf29b8b6af288dd9a50176351ebe8329680b317565489c15f7902a7fa3.jpg)Wiegersma wasn't in any trouble. One of his morph's turned out to be a Biologist. A second Skill cleared the way for the Entrancer to steal the Baloth, and then an [Echo Tracer](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Tracer) cleared the way for the Baloth to finish Levy off.
+![](https://i.ormos.uk/3e/95/3e95fadf29b8b6af288dd9a50176351ebe8329680b317565489c15f7902a7fa3.jpg)
+
+Wiegersma wasn't in any trouble. One of his morph's turned out to be a Biologist. A second Skill cleared the way for the Entrancer to steal the Baloth, and then an [Echo Tracer](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Tracer) cleared the way for the Baloth to finish Levy off.
 
 Levy 1-1 Wiegersma
 

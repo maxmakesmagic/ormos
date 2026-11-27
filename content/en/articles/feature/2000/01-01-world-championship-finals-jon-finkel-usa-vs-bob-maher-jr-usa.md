@@ -83,7 +83,9 @@ It was at this point Bob made the mistake that cost him the match, casting Crumb
 
 Finkel
 
-![](https://i.ormos.uk/58/9d/589d8ad41b5fa5113da758bd2b0658707562ef9598dd36e464190b5355be4403.jpg)Game two was all Bob. With a first turn Saprazzan Skerry and a second turn Metalworker, Bob was able to summon mass amounts of mana allowing his casting of Processor and its activation. The rest of the game was a foregone conclusion, with Finkel conceding two turns later.
+![](https://i.ormos.uk/58/9d/589d8ad41b5fa5113da758bd2b0658707562ef9598dd36e464190b5355be4403.jpg)
+
+Game two was all Bob. With a first turn Saprazzan Skerry and a second turn Metalworker, Bob was able to summon mass amounts of mana allowing his casting of Processor and its activation. The rest of the game was a foregone conclusion, with Finkel conceding two turns later.
 
 1-1
 
@@ -91,12 +93,16 @@ Game three saw Jon suffer an affliction he seldom does: mana screw.with only thr
 
 2-1 Maher
 
-![](https://i.ormos.uk/18/4d/184d1abedafe11749d478ff90b872888b9f97366e126064a33dc6d3413ae268c.jpg)Game four started out with John playing a second turn Voltaic key before having his third turn Grim Monolith Anulled. Bob then tried to cast Metalworker which was countered in kind, and when he tapped out, Jon exploded with his first Island allowing him to first cast Grim Monolith, then his second Key, followed by Tinker for a Processor. With Finkel creating two 19/19 tokens a turn, the game ended quickly and brutally.
+![](https://i.ormos.uk/18/4d/184d1abedafe11749d478ff90b872888b9f97366e126064a33dc6d3413ae268c.jpg)
+
+Game four started out with John playing a second turn Voltaic key before having his third turn Grim Monolith Anulled. Bob then tried to cast Metalworker which was countered in kind, and when he tapped out, Jon exploded with his first Island allowing him to first cast Grim Monolith, then his second Key, followed by Tinker for a Processor. With Finkel creating two 19/19 tokens a turn, the game ended quickly and brutally.
 
 2-2
 
 The game to decide the World Champion for the new millenium. Bob started things off with an Island as did Jon, and after Bob played a second and said go, Jon Brainstormed into a Voltaic Key, presumably setting up a Tinker. When Bob tried to cast a Tangle Wire, Jon was ready with an Annul, but when Jon cast Tinker, searching for a Phyrexian Colossus, Bob was ready, playing a fourth land and casting first Thran Dynamo, then Tangle Wire.
 
-![](https://i.ormos.uk/0a/26/0a26ce25c6c10a5f3db3eb56c5bec1f10cb83bfeb0fa45ca93514180e3594262.jpg)This is where the brilliance of Jon Finkel made itself apparent. Knowing the card sitting on top of his library, Jon confidently untapped, drew and played an Island with Voltaic Key. This effectively nullified the effect of the Tangle Wire, allowing Jon to untap the Colossus without paying the usually requisite 8 life, and while Bob was able to get two blockers (Colossus, Masticore) into play, when Jon effectively took away his final opportunity for castings with Tangle Wire, Bob knew he was beaten and conceded.
+![](https://i.ormos.uk/0a/26/0a26ce25c6c10a5f3db3eb56c5bec1f10cb83bfeb0fa45ca93514180e3594262.jpg)
+
+This is where the brilliance of Jon Finkel made itself apparent. Knowing the card sitting on top of his library, Jon confidently untapped, drew and played an Island with Voltaic Key. This effectively nullified the effect of the Tangle Wire, allowing Jon to untap the Colossus without paying the usually requisite 8 life, and while Bob was able to get two blockers (Colossus, Masticore) into play, when Jon effectively took away his final opportunity for castings with Tangle Wire, Bob knew he was beaten and conceded.
 
 Ladies and Gentlemen, your World Champion, Jon Finkel

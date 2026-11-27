@@ -68,7 +68,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](http://media.wizards.com/legacy/global/images/mtgcom_daily_af59_picmain_en.jpg)Last week, Scott had to rerun one of my old articles because I was incapacitated. As late as Tuesday evening I believed, as the disclaimer on the article stated, that I had the flu.
+![](http://media.wizards.com/legacy/global/images/mtgcom_daily_af59_picmain_en.jpg)
+
+Last week, Scott had to rerun one of my old articles because I was incapacitated. As late as Tuesday evening I believed, as the disclaimer on the article stated, that I had the flu.
 
 I wish.
 
@@ -98,7 +100,9 @@ But first, a few points on R&D and draft…
 
 ### Winston Draft
 
-![](http://media.wizards.com/legacy/global/images/mtgcom_daily_af59_pic1_en.jpg)**Magic** is such a great game because it is so quick and portable. Any two players can sit down with decks and fight it out. Constructed works well with only two people, sealed deck works reasonably well with only two people, but draft just isn't the same without a full table.
+![](http://media.wizards.com/legacy/global/images/mtgcom_daily_af59_pic1_en.jpg)
+
+**Magic** is such a great game because it is so quick and portable. Any two players can sit down with decks and fight it out. Constructed works well with only two people, sealed deck works reasonably well with only two people, but draft just isn't the same without a full table.
 
 If you have ever tried any of the numerous one-on-one draft formats around (Booster, Solomon, Rochester), you'll quickly realize that the drafting experience is very different than drafting with four or eight people. The goal of one-on-one drafts isn't to get the best deck by normal means, but rather to memorize your opponent's picks and use that information to hate-draft him and sabotage his mana base.
 
@@ -122,7 +126,9 @@ I find this format immensely enjoyable. My brother Neil and I burned through two
 
 ### Sample Draft
 
-![](http://media.wizards.com/legacy/global/images/mtgcom_daily_af59_pic2_en.jpg)Here's an example of a Winston Draft between myself and my brother Neil. We started with the contents of one *Champions of Kamigawa* tournament pack (minus the basic lands) and three *Betrayers of Kamigawa* booster packs. That makes exactly 90 cards—perfect!
+![](http://media.wizards.com/legacy/global/images/mtgcom_daily_af59_pic2_en.jpg)
+
+Here's an example of a Winston Draft between myself and my brother Neil. We started with the contents of one *Champions of Kamigawa* tournament pack (minus the basic lands) and three *Betrayers of Kamigawa* booster packs. That makes exactly 90 cards—perfect!
 
 I win the coin flip and get to draft first. Neil shuffles the 90 cards and places the first three face-down near the deck as the three piles.
 

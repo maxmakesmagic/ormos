@@ -98,7 +98,9 @@ render_recovery:
   - Ancient Ooze
   occurrences: 60
 ---
-![](http://www.wizards.com/sideboard/images/gppit03/a968.jpg)"So we've got the New Jersey hookup versus the poker kids," Ted Knutson comments, watching the match. When asked where his team name came from, Scott said, "We pulled 3 cards out of a box, and they were Slay, Pillage, and Massacre. When we replaced one of the members, it became Slay, Pillage, Gerard." Scott also volunteers that his team's most significant Magic-related accomplishment was finishing in the Top 8 at Pro Tour: Boston last year. "I'd travel more for Magic," Scott said, "but unfortunately, I have a real job and can't do that all the time."
+![](http://www.wizards.com/sideboard/images/gppit03/a968.jpg)
+
+"So we've got the New Jersey hookup versus the poker kids," Ted Knutson comments, watching the match. When asked where his team name came from, Scott said, "We pulled 3 cards out of a box, and they were Slay, Pillage, and Massacre. When we replaced one of the members, it became Slay, Pillage, Gerard." Scott also volunteers that his team's most significant Magic-related accomplishment was finishing in the Top 8 at Pro Tour: Boston last year. "I'd travel more for Magic," Scott said, "but unfortunately, I have a real job and can't do that all the time."
 
 "I've hit Brock Bottom," says Brock Parker when asked about his team name. Unfortunately, I can't pry any more information out of him.
 
@@ -114,7 +116,9 @@ Huey Smothers one of Gerard's small creatures and then plays a Vile Deacon, but 
 
 Jon and Matt have started already, with Matt playing the first morph creature of the game. He takes the lead early, as his morph creature trades with Jon's Smokespew Invoker.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a970.jpg)Matt attacks with Battering Craghorn and a morph creature, making Jon think hard about blocking. He trades with Matt's creatures, then plays a Putrid Raptor. Matt reads it, but remains unfazed.
+![](http://www.wizards.com/sideboard/images/gppit03/a970.jpg)
+
+Matt attacks with Battering Craghorn and a morph creature, making Jon think hard about blocking. He trades with Matt's creatures, then plays a Putrid Raptor. Matt reads it, but remains unfazed.
 
 Matt takes down Jon's Carrion Feeder and plays a Nantuko Husk as well, and Matt has only Krosan Tusker versus Jon's Putrid Raptor. Matt sends the Tusker in, then Jon sacrificed the Putrid Raptor to Deathmark Prelate to take down the Tusker. Jon's stuck cycling a Swat to try and find some answers to Matt's few, but large, creatures. He's at eight to Matt's twelve.
 
@@ -138,7 +142,9 @@ Jon keeps playing as many creatures as possible, and though Matt's Chartooth Cou
 
 A Goblin Machinist blocks the Hundroog, when Matt attacks, and at Matt's end step, Jon Swats Matt's Stonewood Invoker. Jon only has nine life to play with, and is necessarily being as cautious as possible, but he's still only left with two blockers for Matt's four creatures (Hundroog, a morph creature, Chartooth Cougar, and Wirewood Elf). 
 
-![](https://i.ormos.uk/21/70/2170c691bbfbdb2251317032978ea41bd6cd5ec207be38b9983f74f6c70238d6.jpg)Matt attacks with the Cougar again, and Jon activates his Goblin Machinist to block. He finds enough power for the Machinist to trade with the Cougar and still give him a superior board position. 
+![](https://i.ormos.uk/21/70/2170c691bbfbdb2251317032978ea41bd6cd5ec207be38b9983f74f6c70238d6.jpg)
+
+Matt attacks with the Cougar again, and Jon activates his Goblin Machinist to block. He finds enough power for the Machinist to trade with the Cougar and still give him a superior board position. 
 
 Jon attacks with the Carrion Feeder, but before blockers are declared, Matt Shocks the Frightshroud Invoker. Now he's actually faced with blocking decisions; he blocks with the Hundroog and the Elf, and Jon chooses to kill the Elf. He plays Reaping the Graves to bring back the dead Goblin Machinist, hoping that he'll be able to dig enough cards with high converted mana costs off the top of his library to stop the Hundroog.
 

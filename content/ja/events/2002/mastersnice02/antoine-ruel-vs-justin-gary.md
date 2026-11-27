@@ -188,7 +188,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a291.jpg)　パーミッション同士の対決らしく、淡々とデュアルランドを並べ、時には《不毛の大地/Wasteland》で土地を破壊と、静かな戦いが始まる。
+![](http://www.wizards.com/sideboard/images/mastersnice02/a291.jpg)
+
+　パーミッション同士の対決らしく、淡々とデュアルランドを並べ、時には《不毛の大地/Wasteland》で土地を破壊と、静かな戦いが始まる。
 
 　そこで先に動いたのは Gary 。  
  　《ガイアの祝福/Gaea's Blessing》を以って《不毛の大地》の回収をたくらむが、これは Ruel が《対抗呪文/Counterspell》でカウンター。  
@@ -215,7 +217,9 @@ render_recovery:
  　ここから反撃を狙う Ruel だが、　この後に Gary は《スパイクの織り手/Spike Weaver》をキャスト。  
  　既にライフが 2 まで落ち込んでしまっている Ruel はこれもどうにかしなくてはいけなくなってしまった。
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a294.jpg)　とりあえずは、先程の《獣群の呼び声》をフラッシュバックでキャストし、これで耐えたと思ったのだが、そうは問屋が卸さない。
+![](http://www.wizards.com/sideboard/images/mastersnice02/a294.jpg)
+
+　とりあえずは、先程の《獣群の呼び声》をフラッシュバックでキャストし、これで耐えたと思ったのだが、そうは問屋が卸さない。
 
 　手札が 0 の Gary がこのターンに引いたカードはなんと《火薬樽/Powder Keg》。  
  　これをおそるおそるキャストすると、 Ruel は呆れた顔をして投了した。
@@ -234,7 +238,9 @@ Ruel 0 - 1 Gary
 
 　これ以上のダメージは我慢できない Ruel は《森の知恵》もろとも《破滅的な行為》で流すが、今だに《樹上の村》に対する策を敷く事が出来ずに殴られ続ける事となるのだが、ここで運命を決める《嘘か真か》をキャスト。
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a293.jpg)　その中には再び《破滅的な行為》を発見でき、喜びいさんでそちらを取ったのだが、なんと Gary もここで《嘘か真か》をキャストし、めくれた 5 枚は《Force of Will》、《紅蓮波/Pyroblast》、《獣群の呼び声》、と、土地が 2 枚と、これで完全に詰んでしまう Ruel。
+![](http://www.wizards.com/sideboard/images/mastersnice02/a293.jpg)
+
+　その中には再び《破滅的な行為》を発見でき、喜びいさんでそちらを取ったのだが、なんと Gary もここで《嘘か真か》をキャストし、めくれた 5 枚は《Force of Will》、《紅蓮波/Pyroblast》、《獣群の呼び声》、と、土地が 2 枚と、これで完全に詰んでしまう Ruel。
 
 　これ以上《獣群の呼び声》で攻撃されるわけにも行かないし、カウンターを渡してしまうと《破滅的な行為》がカウンターされてしまう。
 

@@ -74,7 +74,9 @@ render_recovery: []
 
 *by Ray "blisterguy" Walkinshaw*
 
-![](https://i.ormos.uk/d1/e9/d1e9396917802177f958142227ab72d75928988205d554707349663deeba3a23.jpg)The early rounds of any Grand Prix can seem somewhat uneventful for you all at home. The players you're tuning in to see are often sitting in the sidelines, letting their Awarded Byes do all of the hard work for them. I set out to find where these sidelines might be, but with Brisbane being as beautiful as it is, some of these guys are a little hard to find.
+![](https://i.ormos.uk/d1/e9/d1e9396917802177f958142227ab72d75928988205d554707349663deeba3a23.jpg)
+
+The early rounds of any Grand Prix can seem somewhat uneventful for you all at home. The players you're tuning in to see are often sitting in the sidelines, letting their Awarded Byes do all of the hard work for them. I set out to find where these sidelines might be, but with Brisbane being as beautiful as it is, some of these guys are a little hard to find.
 
 However, I did find Olivier Ruel lurking around the back tables instead of checking out the markets in South Bank or chilling in a cafe. Olivier seemed less than pleased with what his sealed pool had given him, his face a picture of scowls under that pink hat. Curious, I cornered him to ask what went wrong. Apparently the pool sucker-punched him somewhat, showing a [Dread](https://web.archive.org/web/20071020000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dread) and a [Jace Beleren](https://web.archive.org/web/20071020000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jace+Beleren), giving him hope of opening the saucy Faerie deck he had wanted. But sadly, all he was left with was a passable Red/Black aggro deck, loosely based around Goblins, with such stars as [Boggart Loggers](https://web.archive.org/web/20071020000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boggart+Loggers) and another [Boggart Loggers](https://web.archive.org/web/20071020000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boggart+Loggers).
 

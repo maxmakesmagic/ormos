@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Josh Bennett* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/924.jpg)A strange contrast could be seen between the draft decks of Mike Long and Warren Marsh. During registration and construction, Long's G/W/r beatdown deck practically fell out whole. Boasting seven two-power two-drops, five instant creature pumpers, and two Armadillo Cloaks, one might have mistaken it for a Constructed deck. It had that kind of redundancy. Marsh, on the other hand, drafted a deck with the consistency of fruit salad. He had a solid core of red cards, topped by the golden Tsabo Tavoc and Crosis, the Purger, but struggled to find the appropriate blue and black cards to support them. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/924.jpg)
+
+A strange contrast could be seen between the draft decks of Mike Long and Warren Marsh. During registration and construction, Long's G/W/r beatdown deck practically fell out whole. Boasting seven two-power two-drops, five instant creature pumpers, and two Armadillo Cloaks, one might have mistaken it for a Constructed deck. It had that kind of redundancy. Marsh, on the other hand, drafted a deck with the consistency of fruit salad. He had a solid core of red cards, topped by the golden Tsabo Tavoc and Crosis, the Purger, but struggled to find the appropriate blue and black cards to support them. 
 
 In game one, Long came out fast, riding his curve with turn-two Might Weaver, turn-three Pincer Spider, while Marsh accumulated three colors of land and a turn-three Kavu Aggressor. Long's next play was Benalish Trapper. Between that and the Aggressor's inability to block, he looked to be in a good position. 
 
@@ -47,7 +49,9 @@ That illusion was shattered when Marsh tapped out for Barrin's Spite, targeting 
 
 Long played Nomadic Elf and brought the Weaver again. When Marsh retaliated with the Aggressor, Long blocked with his fresh elf and cast Wax to save it. Marsh was unfazed. He tapped out to cast his dragon. Long had the Explosive Growth to get rid of the problem, but was mana-shy and had to settle for a Kavu Climber and bide his time. That time ran short when Crosis purged his hand for green and left him with nothing. Marsh shored up the ground front with a Kavu Scout. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/926.jpg)Long's position went from bad to worse, first drawing a land and then watching as Marsh cast Traveler's Cloak on his Scout, attacking for lethal damage. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/926.jpg)
+
+Long's position went from bad to worse, first drawing a land and then watching as Marsh cast Traveler's Cloak on his Scout, attacking for lethal damage. 
 
 Game two began with a mulligan on Long's side. Again he played his mana curve, dropping a Nomadic Elf turn-two and enchanting it with Armadillo Cloak turn-three. Marsh's early game consisted of once more finding his three colors of mana, this time helped along by Salt Marsh, no relation to the player himself. His third-turn Exotic Curse stemmed the bleeding somewhat, but Long attacked and cast a Might Weaver, keeping the pressure up. Marsh tried to use Scorching Lava to remove the Cloaked Elf once and for all, but Long had the Explosive Growth to save it. Marsh played a swamp to further reduced its efficiency. Long hit again, and cast a second Quirion Sentinel. 
 

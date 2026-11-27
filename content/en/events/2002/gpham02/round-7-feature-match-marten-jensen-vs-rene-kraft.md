@@ -73,7 +73,9 @@ render_recovery:
 ---
 Both German players were unbeaten going into round 7. Rene Kraft made top 8 at GP London last year. Jensen is another local Hamburg player who benefited from a trial with 3 byes.
 
-![](http://www.wizards.com/sideboard/images/gpham02/946.jpg)Jensen went first and busted out a Mongrel and then used Quiet Speculation to put two Roars and an Acorn Harvest into the graveyard. Kraft summoned a turn two Millikin, which accelerated him to a Fiend (taking second Mongrel) and Nantuko Shade. A Faceless Butcher took care of the first Wurm token and the second Wurm met the same fate.
+![](http://www.wizards.com/sideboard/images/gpham02/946.jpg)
+
+Jensen went first and busted out a Mongrel and then used Quiet Speculation to put two Roars and an Acorn Harvest into the graveyard. Kraft summoned a turn two Millikin, which accelerated him to a Fiend (taking second Mongrel) and Nantuko Shade. A Faceless Butcher took care of the first Wurm token and the second Wurm met the same fate.
 
 Jensen was running out of creatures, his sole Mongrel against Kraft’s double Butcher, Nantuko Shade and Mesmeric Fiend. A Second Mongrel leant some support and the Acorn Harvest was flashed back to shore up the defences.
 

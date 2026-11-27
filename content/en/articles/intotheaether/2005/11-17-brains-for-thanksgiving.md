@@ -447,7 +447,9 @@ As the Holiday Season rapidly approaches, Wizards of the Coast has been as busy 
 
 ### First, in case you haven't seen it yet: [IPA IV is here](/en/articles/feature/2005/11-09-invasiontm-block-ipa-sealed-deck-tournament-iv)!
 
-![](http://www.wizards.com/global/images/mtgcom_daily_bs35_picMain_en.jpg)For those who are unfamiliar with the IPA events, MTGO has periodically set up events that are qualifiers for a special Sealed Deck (with Booster Draft Top 8) event where the hard-to-find and often-expensive *Invasion/Planeshift/Apocalypse* sets are used. What is particularly nice is that paper **Magic** Extended (which is the current Pro Tour Qualifying format for [PT Honolulu](/en/events/2005/honolulu06/2006-pro-tourhonolulu)) now synchs up with Extended on MTGO, so Pros and aspiring Pros alike will want to playtest Extended on ***Magic** Online*. These cards will be in demand, either for your own decks to practice with, or as quality trade bait.
+![](http://www.wizards.com/global/images/mtgcom_daily_bs35_picMain_en.jpg)
+
+For those who are unfamiliar with the IPA events, MTGO has periodically set up events that are qualifiers for a special Sealed Deck (with Booster Draft Top 8) event where the hard-to-find and often-expensive *Invasion/Planeshift/Apocalypse* sets are used. What is particularly nice is that paper **Magic** Extended (which is the current Pro Tour Qualifying format for [PT Honolulu](/en/events/2005/honolulu06/2006-pro-tourhonolulu)) now synchs up with Extended on MTGO, so Pros and aspiring Pros alike will want to playtest Extended on ***Magic** Online*. These cards will be in demand, either for your own decks to practice with, or as quality trade bait.
 
 Some of the IPA Qualifiers will be Extended so you can practice for the paper **Magic** PTQs with your Extended decks... and if you manage to win the coveted blue envelope, you can also practice for the Pro Tour on MTGO... because Honolulu will be using the Standard format!
 

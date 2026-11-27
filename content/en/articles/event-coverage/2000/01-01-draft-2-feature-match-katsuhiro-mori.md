@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270164.jpg)Katsuhiro Mori is a 19 year old high school student and one of the best players in Japan. He was in a tough drafting pod as would be expected after being in the top 8 after ten rounds. Katsuhiro was seated to the left of Japanese legend Masaya Mori and to the right of Masaya's team mate, Koby Okada.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270164.jpg)
+
+Katsuhiro Mori is a 19 year old high school student and one of the best players in Japan. He was in a tough drafting pod as would be expected after being in the top 8 after ten rounds. Katsuhiro was seated to the left of Japanese legend Masaya Mori and to the right of Masaya's team mate, Koby Okada.
 
 **Booster One** 
 

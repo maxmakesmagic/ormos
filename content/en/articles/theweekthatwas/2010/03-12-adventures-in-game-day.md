@@ -217,7 +217,9 @@ a:24:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"
 
 *   [Top 8 Decks](https://web.archive.org/web/20100312000000/http://archive.wizards.com/Magic/Magazine/Events.aspx?x=mtg/daily/eventcoverage/worldwakegameday/athens)
 
-[![](http://wizards.com//mtg/images/daily/twtw/twtw81_kaissaLogo.jpg)](http://www.kaissa.gr/)[Kaissa Amarousiou](http://www.kaissa.gr/) owner and Tournament Organizer Nikos Skarentzos has been selling games since 1996 and running sanctioned **Magic** events since March 9th, 1998. This season's Game Day came a couple days after he had been running events for a dozen years. In addition to Friday Night **Magic** they run regular events on Mondays and Thursdays and host Game Days, Prereleases, Launch Parties, and Grand Prix Trials.
+[![](http://wizards.com//mtg/images/daily/twtw/twtw81_kaissaLogo.jpg)](http://www.kaissa.gr/)
+
+[Kaissa Amarousiou](http://www.kaissa.gr/) owner and Tournament Organizer Nikos Skarentzos has been selling games since 1996 and running sanctioned **Magic** events since March 9th, 1998. This season's Game Day came a couple days after he had been running events for a dozen years. In addition to Friday Night **Magic** they run regular events on Mondays and Thursdays and host Game Days, Prereleases, Launch Parties, and Grand Prix Trials.
 
 "I feel like it was just two years ago," said Nikos of opening his store 14 years ago. "We sell only games that can be played on a table—board games, card games, miniatures games, and chess—along with comics and books related to the games."
 
@@ -492,7 +494,9 @@ a:27:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:
 
 *   [Top 8 Decks](https://web.archive.org/web/20100312000000/http://archive.wizards.com/Magic/Magazine/Events.aspx?x=mtg/daily/eventcoverage/worldwakegameday/austin)
 
-[![](http://wizards.com//mtg/images/daily/twtw/twtw81_patsBaby.jpg)](http://www.patsgames.com/)I love the story behind [Pat's Games](http://www.patsgames.com/), which began a dozen years ago as a store selling Beanie Babies. In 1997 store owner Patricia Johnson was in a toy store with her son, and he asked her to buy a *Portal* starter deck for him and his sister.
+[![](http://wizards.com//mtg/images/daily/twtw/twtw81_patsBaby.jpg)](http://www.patsgames.com/)
+
+I love the story behind [Pat's Games](http://www.patsgames.com/), which began a dozen years ago as a store selling Beanie Babies. In 1997 store owner Patricia Johnson was in a toy store with her son, and he asked her to buy a *Portal* starter deck for him and his sister.
 
 "I assumed it was magic tricks, you know the sleight of hand rabbit in the hat type magic," recalled Pat. "I purchased two of these kits. When we got home the kids asked me if I wanted to play. I was surprised it was a card game!"
 
@@ -788,7 +792,9 @@ a:27:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:
 
 *   [Top 8 Decks](https://web.archive.org/web/20100312000000/http://archive.wizards.com/Magic/Magazine/Events.aspx?x=mtg/daily/eventcoverage/worldwakegameday/portland)
 
-[![](http://wizards.com//mtg/images/daily/twtw/twtw81_guardLogo.jpg)](http://www.guardiangamesportland.com/)Compared to other stores we have featured so far, [Guardian Games](http://www.guardiangamesportland.com/) is a babe in the woods, opening in 2005. They sell just about every kind of game you can imagine, from vintage video games to everyone's favorite card games. A big feature of their store is an event space that can accomodate up to 100 players, and they have made sanctioned **Magic** events a big part of their business since day one of operations.
+[![](http://wizards.com//mtg/images/daily/twtw/twtw81_guardLogo.jpg)](http://www.guardiangamesportland.com/)
+
+Compared to other stores we have featured so far, [Guardian Games](http://www.guardiangamesportland.com/) is a babe in the woods, opening in 2005. They sell just about every kind of game you can imagine, from vintage video games to everyone's favorite card games. A big feature of their store is an event space that can accomodate up to 100 players, and they have made sanctioned **Magic** events a big part of their business since day one of operations.
 
 "We run casual Constructed on Tuesdays. EDH on Thursdays. Drafts/Sealed for FNM. Draft Saturday nights. Standard on Sundays. Occasionally we do a chaos draft, or mini-masters for fun," said Tournament Organizer Angel May.
 

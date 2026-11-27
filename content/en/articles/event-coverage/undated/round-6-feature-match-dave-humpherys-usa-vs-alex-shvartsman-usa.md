@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Scott Wills* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/941.jpg)Alex and Dave were sitting pretty on 5-0 going into this round. Due to the high number of players at Grand Prix Amsterdam, day one consists of eight Swiss rounds instead of the typical seven. With a record of 6-1-1 looking necessary to advance to day one neither of these two experienced players want a loss at this stage. Both players were quietly concentrating as they shuffled up for round six. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/941.jpg)
+
+Alex and Dave were sitting pretty on 5-0 going into this round. Due to the high number of players at Grand Prix Amsterdam, day one consists of eight Swiss rounds instead of the typical seven. With a record of 6-1-1 looking necessary to advance to day one neither of these two experienced players want a loss at this stage. Both players were quietly concentrating as they shuffled up for round six. 
 
 Like thousands of Sealed Deck players before them, both Alex and Dave had chosen the Black, Blue and Red spells from which to construct their decks. 
 

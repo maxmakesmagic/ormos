@@ -44,7 +44,9 @@ archive_source:
   sha256: b09bc11c84b49dae0d50db75c0b27903007f0f4ebb540b0176084b7b8769a075
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a592.jpg)For a long time, Dave Humpherys was known for two things: ninth-place finishes and success in the team format. After finishing 9th at PT Paris and 9th at PT Rome, Humpherys broke out—first, a legitimate Top 8 at Pro Tour New York 1999, then a win in the very first team Pro Tour in Washington DC alongside Darwin Kastle and Rob Dougherty as "Your Move Games."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a592.jpg)
+
+For a long time, Dave Humpherys was known for two things: ninth-place finishes and success in the team format. After finishing 9th at PT Paris and 9th at PT Rome, Humpherys broke out—first, a legitimate Top 8 at Pro Tour New York 1999, then a win in the very first team Pro Tour in Washington DC alongside Darwin Kastle and Rob Dougherty as "Your Move Games."
 
 More recently, however, Dave's individual accomplishments have been very impressive. He won the Invasion block constructed Grand Prix in Minneapolis, then put up a Top 8 in the Extended Pro Tour in New Orleans before making it two in one year here at Worlds.
 

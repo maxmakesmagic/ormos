@@ -73,11 +73,15 @@ Top **Magic** players around the world flocked to Strasbourg, France, and Columb
 
 ### [Grand Prix–Strasbourg: Saito Cruises to Block Constructed Victory](/en/events/2007/gpstra07/saitou-seizes-strasbourg)
 
-![](https://i.ormos.uk/38/ae/38ae4731557ef4ec8d6d76ade1f79a8d9517cba33d3e954b51434368c0cdd732.jpg)Tomoharu Saito's mono-red Greater Gargadon-powered deck was enough to put him in the books for a cool $3,000 and 8 Pro Points to slingshot him into the lead in the Player of the Year race.
+![](https://i.ormos.uk/38/ae/38ae4731557ef4ec8d6d76ade1f79a8d9517cba33d3e954b51434368c0cdd732.jpg)
+
+Tomoharu Saito's mono-red Greater Gargadon-powered deck was enough to put him in the books for a cool $3,000 and 8 Pro Points to slingshot him into the lead in the Player of the Year race.
 
   
   
 
 ### [Grand Prix–Columbus: Sadin Smashes with Hulk Flash](/en/events/2007/gpcol07/hulk-flash-smashes-columbus)
 
-![](https://i.ormos.uk/f0/c6/f0c614e507e2134a04a52e5d0c1d24a10a4b0e5b753c91e9c5b7b65339ef8b63.jpg)Nearly 900 players descended on Columbus with Goblins, Affinity, Threshold, mono-black, Slivers, and just about every Legacy deck you can name, but Steve Sadin piloted a Billy Moreno-designed version of Hulk Flash to victory.
+![](https://i.ormos.uk/f0/c6/f0c614e507e2134a04a52e5d0c1d24a10a4b0e5b753c91e9c5b7b65339ef8b63.jpg)
+
+Nearly 900 players descended on Columbus with Goblins, Affinity, Threshold, mono-black, Slivers, and just about every Legacy deck you can name, but Steve Sadin piloted a Billy Moreno-designed version of Hulk Flash to victory.

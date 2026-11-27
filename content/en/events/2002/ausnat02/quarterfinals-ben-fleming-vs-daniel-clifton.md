@@ -47,7 +47,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/55/bb/55bbbad98485425ef0dc81347d485ba88ae2f03f16a752e2a0ccac172e9ab0f8.jpg)Psychatog vs. Psychatog, Clash of the "Unbeatable", most dominating deck of the Masters. Also, unfortunately for the players, judges and sideboard editors alike, not the most exciting matchup of all time. Luckily both players had decided previously not to make the match use up the 90 minutes that they had been allocated, to the relief of this writer and the table judge. Hence play progressed at a rapid pace which at times both judge and I had trouble following and taking notes. 
+![](https://i.ormos.uk/55/bb/55bbbad98485425ef0dc81347d485ba88ae2f03f16a752e2a0ccac172e9ab0f8.jpg)
+
+Psychatog vs. Psychatog, Clash of the "Unbeatable", most dominating deck of the Masters. Also, unfortunately for the players, judges and sideboard editors alike, not the most exciting matchup of all time. Luckily both players had decided previously not to make the match use up the 90 minutes that they had been allocated, to the relief of this writer and the table judge. Hence play progressed at a rapid pace which at times both judge and I had trouble following and taking notes. 
 
 To make the match more interested and to pass time while waiting for deck checks to conclude, the players decided to predictive arm wrestle – the winner being the player who will win the match. It boded ill for all when the arm wrestle ended in a draw 3 minutes later with both players deciding it wasn't worth the pain. Fortunately this match was not allowed to end in a draw, so depending on the predictive arm wrestle for a result would have been a little silly.
 
@@ -63,7 +65,9 @@ At this point the match was pretty even, the major difference being that Ben had
 
 Daniel, with 5 counters and 2 'Togs in his hand decided it was time to go on the offensive, casting a 'Tog, which was countered. On his next turn he laid the other 'Tog, meeting with no resistance. With 11 land and an Atog, Daniel went for the throat, casting a Standstill, which was responded to with an Aether Burst targeting the 'Tog. The 'Burst resolved, resulting in a lone Standstill on the board. 
 
-![](https://i.ormos.uk/ff/cd/ffcd562992ec908de31914e490bdadadd680d1de93060f721eed08e798157bca.jpg)For the next 23 turns the game literally stood still, with each player either playing a land or discarding a card. Eventually Ben realised he needed to make a play, having 7 cards in his library compared to about 16 in Daniel's. Casting an Upheaval and floating a blue and black mana the Upheaval was met by a Counterspell, ending up with the mana being used for a Familiar. A 'Tog was then attempted which was countered. 
+![](https://i.ormos.uk/ff/cd/ffcd562992ec908de31914e490bdadadd680d1de93060f721eed08e798157bca.jpg)
+
+For the next 23 turns the game literally stood still, with each player either playing a land or discarding a card. Eventually Ben realised he needed to make a play, having 7 cards in his library compared to about 16 in Daniel's. Casting an Upheaval and floating a blue and black mana the Upheaval was met by a Counterspell, ending up with the mana being used for a Familiar. A 'Tog was then attempted which was countered. 
 
 On Daniel's next turn he cast an Atog, which was repulsed at the end of turn, resulting in Ben having only 5 cards left in his library. The real action for this game began in Ben's turn, with him casting Upheaval, hoping to win with a "Super'Tog". Stacking up it was met by a Counterspell, which was targeted by another Counterspell. Unfortunately for Ben, Daniel had a Memory Lapse and Ben conceded in response, left with no way to kill Daniel in the 5 remaining turns he had.
 
@@ -88,7 +92,9 @@ Ben chose to play, again stalling at 2 lands, commenting "I'm good at this aren'
 
 Ben played an Atog in a last ditch effort to survive and take it to a 3rd game and passed the turn. On one of the final turns of the match Daniel Duressed Ben, taking a Circular Logic, but in doing so, neglected to activate the madness ablity so that when Daniel attempted to edict away his Psychatog, he had to use his 2nd Logic to counter it only to have it lapsed. A ruling on whether the logic went to the graveyard or library after being lapsed was asked, the result of which is that the Logic goes to the top of it's owners library, being on the stack when madness cost was paid. 
 
-![](https://i.ormos.uk/8a/ec/8aec8c01adf0f418d9cdf32bf811fbcc5bd60fc49f759d73c7032e9dc4926d79.jpg)Daniel attacked with his 'Tog and Familiar and resovled a F.O.F taking 2 land and a Chainer's Edict over a Standstill and another Atog. Ben was now given an opportunity to recover as Daniel was tapped out totally, but could not take advantage of the fact as he still only had 5 mana sources available and couldn't cast the upheaval that would have allowed him to recover. Settling on casting a Familiar to block with he passed to turn. 
+![](https://i.ormos.uk/8a/ec/8aec8c01adf0f418d9cdf32bf811fbcc5bd60fc49f759d73c7032e9dc4926d79.jpg)
+
+Daniel attacked with his 'Tog and Familiar and resovled a F.O.F taking 2 land and a Chainer's Edict over a Standstill and another Atog. Ben was now given an opportunity to recover as Daniel was tapped out totally, but could not take advantage of the fact as he still only had 5 mana sources available and couldn't cast the upheaval that would have allowed him to recover. Settling on casting a Familiar to block with he passed to turn. 
 
 On Daniel's 10th turn he was on the receiving end of a Mana Short from Ben, so had to settle for swinging his 'Tog and Familiar into the red-zone. After much counting of graveyard and hand Ben threw his Familiar in front of the 'Tog , resulting in the Familiar 'taking one for the team'.  
  Unexpectedly on Ben's next turn he conceded gracefully, with no creature kill or bounce in hand and Daniel having an Edict still in hand, wishing Daniel good luck for the next matches.

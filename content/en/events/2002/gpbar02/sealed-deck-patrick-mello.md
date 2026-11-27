@@ -93,7 +93,9 @@ render_recovery:
   - Acorn Harvest
   occurrences: 44
 ---
-![](http://www.wizards.com/sideboard/images/gpbar02/a979.jpg)Only one week ago Patrick Mello was playing at Pro Tour Osaka. Fellow Germans Marco Blume and Kai Budde decided to stay a little longer on Asian ground to celebrate their Masters victory. Patrick decided to come to Spain. After two plain trips completing over eleven hours on airplanes he is opening his deck expecting to perform well in this crowded room.
+![](http://www.wizards.com/sideboard/images/gpbar02/a979.jpg)
+
+Only one week ago Patrick Mello was playing at Pro Tour Osaka. Fellow Germans Marco Blume and Kai Budde decided to stay a little longer on Asian ground to celebrate their Masters victory. Patrick decided to come to Spain. After two plain trips completing over eleven hours on airplanes he is opening his deck expecting to perform well in this crowded room.
 
 After some disappointment about his deck, he tried to make the best of it. "There are no bombs in my deck" Mello sighed. 
 

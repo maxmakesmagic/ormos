@@ -101,7 +101,9 @@ render_recovery:
   - Words of Wisdom
   occurrences: 42
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a931.jpg)Thomas is a well-known player in Sweden. He has been on the National Team for the two last years. And that's the two times he played at Nationals. He also made a name for himself writing the best tournament reports this side of the Atlantic Ocean. Now he is on the gravy train and trying to stay on it. To achieve that he needs one more point either today or in Nice. 
+![](http://www.wizards.com/sideboard/images/gpnap02/a931.jpg)
+
+Thomas is a well-known player in Sweden. He has been on the National Team for the two last years. And that's the two times he played at Nationals. He also made a name for himself writing the best tournament reports this side of the Atlantic Ocean. Now he is on the gravy train and trying to stay on it. To achieve that he needs one more point either today or in Nice. 
 
 Having two byes here in Naples meant he stood a good chance of making day two. But his deck on day one wasn't that strong, so after losing his first match he seemed a little bit on the bitter side. Then things changed. He won three matches in a row and then made an intentional draw in the final round. So day two for Thomas it is. Now at least one of the three Swedes who made the trip managed to make day two.
 

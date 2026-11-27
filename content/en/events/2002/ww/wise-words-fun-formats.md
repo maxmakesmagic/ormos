@@ -66,7 +66,9 @@ With this renewed, broader attitude, I thought this week we might take a look as
 
 ### Rotisserie Draft
 
-![](https://i.ormos.uk/32/0a/320aec9383da4a6cd9998e0891532395357798cf8b3ebd5f43a0eed74023a752.jpg)The real inspiration for this week's column, this format, used at the Invitational this month, was originally used at last year's Texas Invitational, a tournament that sees that state's finest compete against one another in a number of fun formats. The concept of Rotisserie draft is simple: you take an entire standalone set like *Odyssey*, lay it out on a table and draft it with eight people in the Rochester style, going from seat one through eight, then eight through one and keep repeating the process. 
+![](https://i.ormos.uk/32/0a/320aec9383da4a6cd9998e0891532395357798cf8b3ebd5f43a0eed74023a752.jpg)
+
+The real inspiration for this week's column, this format, used at the Invitational this month, was originally used at last year's Texas Invitational, a tournament that sees that state's finest compete against one another in a number of fun formats. The concept of Rotisserie draft is simple: you take an entire standalone set like *Odyssey*, lay it out on a table and draft it with eight people in the Rochester style, going from seat one through eight, then eight through one and keep repeating the process. 
 
 What I really like about Rotisserie draft is the fact it allows you to play with obscure rares early in a format that you would otherwise not get many chances to draft. With fully one third of the cards being rare, everyone is bound to have a number in their decks, with each player having an equal opportunity to have power cards. It seems to be an especially valid exercise with *Odyssey*, where the top eight or nine cards are very close to one another in strength.
 
@@ -74,7 +76,9 @@ In addition to teaching you about how rares interact with one another, Rotisseri
 
 ### Five Color
 
-![](http://www.wizards.com/sideboard/images/MI01/947.jpg)How many unsanctioned formats have their own web pages? [www.5-color.com](https://web.archive.org/web/20011017000000/http://www.wizards.com/leaving.asp?url=http://www.5-color.com&origin=sideboard_ww_20011017), run by the format's creator Kurtis Hahn goes in depth when looking at deck lists and strategies for the format, but basically, this is a Constructed format where you must use at least 18 cards from each of the five colors, in a deck numbering at least 250 cards in all. 
+![](http://www.wizards.com/sideboard/images/MI01/947.jpg)
+
+How many unsanctioned formats have their own web pages? [www.5-color.com](https://web.archive.org/web/20011017000000/http://www.wizards.com/leaving.asp?url=http://www.5-color.com&origin=sideboard_ww_20011017), run by the format's creator Kurtis Hahn goes in depth when looking at deck lists and strategies for the format, but basically, this is a Constructed format where you must use at least 18 cards from each of the five colors, in a deck numbering at least 250 cards in all. 
 
 This format really takes you back to the game's early days, with ante cards allowed along with the Type 1 power cards. You don't need to spend thousands of dollars on your deck though, as you play for ante, meaning that using valuable cards risks your losing valuable cards, so the all-common creature deck is not an unreal strategy to make your own.
 
@@ -120,6 +124,8 @@ A very difficult format to be very good at, Mental **Magic** will force you to r
 
 ### Mini Master
 
-![](http://www.wizards.com/sideboard/images/odyssey_booster.jpg)Just an afterthought here, this is an easy format to play: take a fifteen-card pack, shuffle in two of each basic land type and play without looking at the cards. Mini Master will force you to utilize even the worst cards in trying to find a way to win, as well as teach you the importance of deck counts as decking becomes a very important factor. This is a great way to open a pack, actually learning a little something while allowing the tension of not knowing what rare you've opened mounts.
+![](http://www.wizards.com/sideboard/images/odyssey_booster.jpg)
+
+Just an afterthought here, this is an easy format to play: take a fifteen-card pack, shuffle in two of each basic land type and play without looking at the cards. Mini Master will force you to utilize even the worst cards in trying to find a way to win, as well as teach you the importance of deck counts as decking becomes a very important factor. This is a great way to open a pack, actually learning a little something while allowing the tension of not knowing what rare you've opened mounts.
 
 Give these formats a try and remember to have fun with them as you develop some of the game's more important skills. That's all for this week. Have a good one.

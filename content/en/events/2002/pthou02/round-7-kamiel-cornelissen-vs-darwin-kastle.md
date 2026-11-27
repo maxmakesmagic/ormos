@@ -88,7 +88,9 @@ render_recovery:
   - Forsaken City
   occurrences: 62
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a523.jpg)Darwin and Kamiel's decks sit at opposite ends of the mana curve. Darwin is playing a metagame tuned version of The Rock that he has dubbed Rock Therapy. It relies on early disruption with eight discard spells and finishes with old stand-byes Spiritmonger and Treetop Village. Kamiel is playing Angry Hermit Part 2—the fastest deck in the format with multiple turn 2 kills notched in its belt this afternoon.
+![](http://www.wizards.com/sideboard/images/pthou02/a523.jpg)
+
+Darwin and Kamiel's decks sit at opposite ends of the mana curve. Darwin is playing a metagame tuned version of The Rock that he has dubbed Rock Therapy. It relies on early disruption with eight discard spells and finishes with old stand-byes Spiritmonger and Treetop Village. Kamiel is playing Angry Hermit Part 2—the fastest deck in the format with multiple turn 2 kills notched in its belt this afternoon.
 
 Both players sit atop the standings at 6-0 and they are playing, since both are guaranteed to be playing tomorrow. Darwin is in need of a good performance as he is in danger of falling off of the gravy train. 
 
@@ -106,7 +108,9 @@ Darwin had another EOT Edict and that was the game.
 
 Kamiel – 0 Darwin – 1
 
-![](https://i.ormos.uk/1f/06/1f06bf0ab3f69cc2e70eb5e368dc36ea5f3dce710a8555863361d9561d141fdf.jpg)Darwin was feeling good after the first game: "Who hits on turn 1 cabal Therapy? Well except for when Kibler flips over a Counterspell on turn 1...but other than that?"
+![](https://i.ormos.uk/1f/06/1f06bf0ab3f69cc2e70eb5e368dc36ea5f3dce710a8555863361d9561d141fdf.jpg)
+
+Darwin was feeling good after the first game: "Who hits on turn 1 cabal Therapy? Well except for when Kibler flips over a Counterspell on turn 1...but other than that?"
 
 ### Game 2
 
@@ -124,7 +128,9 @@ Kamiel – 1 Darwin – 1
 
 Darwin opened with Bird of Paradise over Duress. Kamiel had a rather sedate first turn with only a Llanowar Wastes. Darwin considered using a Vampiric Tutor during his upkeep but decided to draw instead. He played a Llanowar Wastes of his own and cast Duress off of the Bird. He saw Entomb—which he took—Verdant Force, Vampiric Tutor, Avatar of Woe, Exhume, and two lands. Kamiel came back with his own Duress off of the top. In response Darwin Tutored for Planar Void. Aaron Forsythe leaned over and whispered to me, "That's sick!" The Duress found a Deed and two Edicts—one Diabolic and the other coming from Chainer. The instant was discarded and Kamiel played a Tarnished Citadel and said go.
 
-![](https://i.ormos.uk/3b/1c/3b1c10a0848cdc52ac268e0eb5d6a407fb5b339c8675dcf3f2b264e561fc66ad.jpg)Darwin was out of land by turn three but seemed happy to cast the Planar Void. Kamiel looked vexed and kept playing land. Darwin was still sitting on three mana—one of which was a Bird—and played his Pernicious Deed. Both players went into Draw-go mode for the next few turns although only Kamiel was laying lands.
+![](https://i.ormos.uk/3b/1c/3b1c10a0848cdc52ac268e0eb5d6a407fb5b339c8675dcf3f2b264e561fc66ad.jpg)
+
+Darwin was out of land by turn three but seemed happy to cast the Planar Void. Kamiel looked vexed and kept playing land. Darwin was still sitting on three mana—one of which was a Bird—and played his Pernicious Deed. Both players went into Draw-go mode for the next few turns although only Kamiel was laying lands.
 
 Darwin drew his third land and played a Masticore. At the end of turn, Kamiel tutored for a Ray of Revelation. I leaned over to Aaron, "That is also sick!" Kamiel untapped—including pitching a card to untap Forsaken City—and said, "Go."
 

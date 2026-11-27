@@ -44,7 +44,9 @@ archive_source:
   sha256: 7dffe3d2731473deb2483273a787bb82e8b29362ddfb3fc578c4cc016172b2be
 render_recovery: []
 ---
-![](https://i.ormos.uk/53/fa/53fa72a6dbac05bd2fd40dfdf681d32164eae746d572d0855dcdfcceb30b174b.jpg)Alex Shvartsman is the GP king. He's been away from GP duties for a while but is back looking to pick up the couple of Pro points he needs to guarantee qualification for Worlds. Witt has been quiet since his Master's win but he's Dutch and they usually post good results on the Grand Prix. This is his *Legions* pre-release though.
+![](https://i.ormos.uk/53/fa/53fa72a6dbac05bd2fd40dfdf681d32164eae746d572d0855dcdfcceb30b174b.jpg)
+
+Alex Shvartsman is the GP king. He's been away from GP duties for a while but is back looking to pick up the couple of Pro points he needs to guarantee qualification for Worlds. Witt has been quiet since his Master's win but he's Dutch and they usually post good results on the Grand Prix. This is his *Legions* pre-release though.
 
 Coming out of a very tough Pod 2 both players need to win out to make top 8. They both seem to have the tools to do it. Shvartsman has a very good black-white deck with triple [Nantuko Husk](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Husk) while Witt has a bomb heavy green-red deck.
 

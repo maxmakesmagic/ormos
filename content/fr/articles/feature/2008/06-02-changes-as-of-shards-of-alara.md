@@ -95,7 +95,9 @@ Les versions Premium des cartes rares mythiques seront réparties dans les boost
 
 Nous remplacerons aussi une carte courante de chaque booster par une carte de terrain de base. Chaque booster sera désormais composé comme suit : 1 rare, 3 inhabituelles, 10 courantes, 1 terrain de base et 1 carte astuce stratégique (la rare mythique remplaçant la rare approximativement dans 1 booster sur 8.)
 
-![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)En plus des changements précités, un nouveau produit fera son apparition dans la gamme MTG. Le « Pack d'intro » sera le meilleur moyen pour les joueurs existants de découvrir les mécaniques et le monde de chaque nouvelle extension. Ce sera aussi le parfait outil pour faire découvrir le jeu aux joueurs débutants en leur permettant d'apprendre à jouer avec les cartes les plus récentes. Chaque pack d'intro contient : 
+![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)
+
+En plus des changements précités, un nouveau produit fera son apparition dans la gamme MTG. Le « Pack d'intro » sera le meilleur moyen pour les joueurs existants de découvrir les mécaniques et le monde de chaque nouvelle extension. Ce sera aussi le parfait outil pour faire découvrir le jeu aux joueurs débutants en leur permettant d'apprendre à jouer avec les cartes les plus récentes. Chaque pack d'intro contient : 
 
 *   Un deck préconstruit de 41 cartes, contenant chacun 1 rare Premium et une rare standard
 *   1 booster de l'extension en cours

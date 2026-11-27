@@ -44,7 +44,9 @@ archive_source:
   sha256: 25e1d5b00a583410e8f69d6b7408346d3773c0794a251d5e5a809ebcacedd256
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm3_1.jpg)Mattias Jorstedt from Sweden had red-hot last season with a couple of Pro Tour top 8 and a title in Yokohama to cap it off. Siron from Belgium had a good season a couple of years back where he finished 9th at PT Osaka but has been quiet of late.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm3_1.jpg)
+
+Mattias Jorstedt from Sweden had red-hot last season with a couple of Pro Tour top 8 and a title in Yokohama to cap it off. Siron from Belgium had a good season a couple of years back where he finished 9th at PT Osaka but has been quiet of late.
 
 ### Game 1
 

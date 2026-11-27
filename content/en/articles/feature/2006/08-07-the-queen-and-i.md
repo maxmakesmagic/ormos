@@ -836,7 +836,9 @@ Hello dear readers. I am Tomi, and I am here to tell you of the magical tourname
 > 
 > ***Magic: The Gathering*** - LOL, whatever you topdecker, I can't believe you play that.
 
-![](http://www.wizards.com/sideboard/images/ptnor01/a706.jpg)But before we get into all that, it is appropriate that I introduce myself. Way too modest to do it with my own words, I shall use those of my fellow competitor at a side event draft at Nationals: “Some years ago… you used to be fairly good… right?” I would have to agree with his observation. I basically grew up playing this game for the past ten years and somewhere in there I had good finishes. My speciality were the Constructed formats and I would often be seen playing something fairly cool. Tier two, homebrew, any60… call it what you want. I did considerably worse at Limited and have been at the absolute last draft table of both a Pro Tour and the World Championships.
+![](http://www.wizards.com/sideboard/images/ptnor01/a706.jpg)
+
+But before we get into all that, it is appropriate that I introduce myself. Way too modest to do it with my own words, I shall use those of my fellow competitor at a side event draft at Nationals: “Some years ago… you used to be fairly good… right?” I would have to agree with his observation. I basically grew up playing this game for the past ten years and somewhere in there I had good finishes. My speciality were the Constructed formats and I would often be seen playing something fairly cool. Tier two, homebrew, any60… call it what you want. I did considerably worse at Limited and have been at the absolute last draft table of both a Pro Tour and the World Championships.
 
 Some of you might know me from my earlier writing. I have done articles for sites that are more directed towards tournament players. But you guys are more casual, right? I shall go less high brow on technicalities and just fill in the awkward gaps with random jokes, making this kind of like a date. I have thought about writing for this site for quite a while, and a tournament report feels like the logical way to start. Let's see how this goes.
 
@@ -854,7 +856,9 @@ I did not have much time to test. I even skipped the *Coldsnap* prerelease, as I
 
 The U/G deck was very similar to [Counter Rebels](https://web.archive.org/web/20060807000000/http://wizards.com/sideboard/article.asp?x=PTCHI00/840t8decks). It had quick men, a hard to deal with card advantage machine (Sosuke's Summons), and counters. It worked okay against fast decks and had an improved game after sideboard due to Glares of Subdual. The good matchups though were the slower decks. If they tap out to do anything, we can just punish them with Coat of Arms or Seshiro, but if they just sit there, we can beat them with our guys that may or may not have Jitte. The worst matchup by far was B/W Ghost Husk as they had Orzhov Pontiff. First it kills all our guys, and then it repeats a few turns later.
 
-![Coat_of_Arms](https://i.ormos.uk/fc/ce/fcce1929e64fd904d82fc8f6aaea1122109cd9154288ec752d885bddc6b58bab.jpg)The format I was most confident about was *Ravnica* block draft. Too bad that it only made up three rounds of the tournament. I need more Temple Gardens. *Coldsnap* drafting scared me considerably, so I tried to look for advice online. I stumbled into an article by Josh Ravitz about the format which managed to explain it in a nutshell. It was one of the most concise and useful pieces of writing I have seen in a long time. Basically what he said that snow is the new Affinity and there are so many playables that you can take snow lands early.
+![Coat_of_Arms](https://i.ormos.uk/fc/ce/fcce1929e64fd904d82fc8f6aaea1122109cd9154288ec752d885bddc6b58bab.jpg)
+
+The format I was most confident about was *Ravnica* block draft. Too bad that it only made up three rounds of the tournament. I need more Temple Gardens. *Coldsnap* drafting scared me considerably, so I tried to look for advice online. I stumbled into an article by Josh Ravitz about the format which managed to explain it in a nutshell. It was one of the most concise and useful pieces of writing I have seen in a long time. Basically what he said that snow is the new Affinity and there are so many playables that you can take snow lands early.
 
 I arrived to beautiful Birmingham via a night train at 2am and heard that I've got off at the wrong station. Richard forgot to tell me that I am not supposed to go to Birmingham city centre, but instead to the Birmingham airport. I should have figured it out by myself. Or I suppose I could have read the tournament info site before travelling. I then took a twenty pound cab ride to the hotel next to the site. Money well spent.
 
@@ -906,7 +910,9 @@ Happily, the draft was now upon us. Nothing takes away frustration like getting 
 
 ### Round four versus Udo Kaiser with more than one color
 
-![Rakdos_the_Defiler](https://i.ormos.uk/74/6a/746a718c82b4a2b8f03b5b5ce3f36fee47fa07e5ce66673f369d7cd7e6c6e7fa.jpg)Udo put out some small flyers and quite a few different colors of mana. I cast Fertile Imagination for two saprolings and saw his hand of red spells. I blew up his only red mana, a Signet, with Indrik Stomphowler and then dropped Borboborosmosmos. A race was won. Udo's misfortune continued in game two as he drew his Convolute one turn after I had resolved my Defiler. Udo just kept passing the turn with all his lands untapped, so I chickened out from attacking in fear of a Repeal or Peel from reality. He finally tapped half his lands for some guy and passed. I drew something insignificant, closed my eyes and attacked. Thirty seconds pass and Udo was still thinking. Half my permanents were in the graveyard. The thought going through my mind was, "Does he have it?" 
+![Rakdos_the_Defiler](https://i.ormos.uk/74/6a/746a718c82b4a2b8f03b5b5ce3f36fee47fa07e5ce66673f369d7cd7e6c6e7fa.jpg)
+
+Udo put out some small flyers and quite a few different colors of mana. I cast Fertile Imagination for two saprolings and saw his hand of red spells. I blew up his only red mana, a Signet, with Indrik Stomphowler and then dropped Borboborosmosmos. A race was won. Udo's misfortune continued in game two as he drew his Convolute one turn after I had resolved my Defiler. Udo just kept passing the turn with all his lands untapped, so I chickened out from attacking in fear of a Repeal or Peel from reality. He finally tapped half his lands for some guy and passed. I drew something insignificant, closed my eyes and attacked. Thirty seconds pass and Udo was still thinking. Half my permanents were in the graveyard. The thought going through my mind was, "Does he have it?" 
 
 Then suddenly all games were stopped as it was five o'clock. Time for the tea break. I agonize for the entire half an hour. Should I have sugar or not?
 
@@ -972,7 +978,9 @@ Due to my four hours of sleep the night before, I jumped into bed immediately. N
 
 ### Round eight versus Amar Dattani with G/W/u
 
-![Diamond_Faerie](https://i.ormos.uk/94/ff/94ff11450896744c1f6d7a5d0944b6f1dadafedd2d9ac63e0b5fa1efd589907a.jpg)“So, where do you usually play **Magic**?” “I don't.” Amar was more than a little puzzled by my answer. I contemplated explaining it a bit further, but then just decided to relish in his confusion. I asked him the same question and he looked at me as if I'm braindead before pointing at his “Manchester Magic Club” shirt.
+![Diamond_Faerie](https://i.ormos.uk/94/ff/94ff11450896744c1f6d7a5d0944b6f1dadafedd2d9ac63e0b5fa1efd589907a.jpg)
+
+“So, where do you usually play **Magic**?” “I don't.” Amar was more than a little puzzled by my answer. I contemplated explaining it a bit further, but then just decided to relish in his confusion. I asked him the same question and he looked at me as if I'm braindead before pointing at his “Manchester Magic Club” shirt.
 
 In game one, Amar beat me like a fool with his Juniper Order Druid and the Diamond Faerie. The three Krovikan Whispers were nowhere to be seen. Amar seems to have really high quality guys, but due to his color choices is highly lacking in the removal department. He stalls on land in game two and my fliers do their thing. The third game is a drawn out affair with my recycling Gutless Ghoul with Grim Harvest. Eventually I drew into my Whispers, Frozen Solids, and the Owl.
 

@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/221.jpg)The first round of the draft portion of Worlds pitted Tom van de Logt from the Netherlands against Chris Benafel from the United States. Both players had astonishing 6-0 records after the first day, and drafting on table one, van de Logt had drafted a white and blue deck with several flyers. Benafel, on the other hand, had picked black and white with a Notorious Assassin as one of the top cards.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/221.jpg)
+
+The first round of the draft portion of Worlds pitted Tom van de Logt from the Netherlands against Chris Benafel from the United States. Both players had astonishing 6-0 records after the first day, and drafting on table one, van de Logt had drafted a white and blue deck with several flyers. Benafel, on the other hand, had picked black and white with a Notorious Assassin as one of the top cards.
 
 Chris won the die roll and chose to play. He didn't exactly get off to a great start. Playing swamps during his first two turns, he then failed to lay a third land for the next three turns. Tom got a better start. Although he stalled on three lands for a while, he managed to cast some creatures to put at least some pressure on Benafel. A Silkenfist Fighter started nibbling on Chris' life, while the Rishadan Airship got Vendetta'd. The Waterfront Bouncer survived, though, and it even joined the fight when Benafel started to discard.
 

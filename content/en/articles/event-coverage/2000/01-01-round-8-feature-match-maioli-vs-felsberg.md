@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Collin Jackson*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat89.JPG)This round's feature match set Douglas Maioli (5-2) of Buenos Aires against Thomas Felsberg of Saõ Paulo, Brazil (5-1-1). The players shivered in the freezing air of the tournament venue as they sat down at their table. A space heater was brought out so that the two competitors would be able to play comfortably. "This heat is amazing!" Thomas exclaimed. "This is way better than money. I'm going to have to keep winning so I can sit at this table again."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat89.JPG)
+
+This round's feature match set Douglas Maioli (5-2) of Buenos Aires against Thomas Felsberg of Saõ Paulo, Brazil (5-1-1). The players shivered in the freezing air of the tournament venue as they sat down at their table. A space heater was brought out so that the two competitors would be able to play comfortably. "This heat is amazing!" Thomas exclaimed. "This is way better than money. I'm going to have to keep winning so I can sit at this table again."
 
 Douglas was sporting a Flores Control Black deck, while Thomas was playing Replenish. In the first game, Douglas was unable to get the disruption he needed in the first few turns, and his Phyrexian Negator was no match for Thomas's combo. Using Attunement and Frantic Search to fill up his graveyard, Thomas played Replenish to bring several enchantments into play. Attuning twice more, he played a second Replenish and Douglas promptly conceded.
 

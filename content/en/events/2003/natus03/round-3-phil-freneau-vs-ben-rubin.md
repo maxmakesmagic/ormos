@@ -109,7 +109,9 @@ Both these players are riding high at 2-0. Phil Freneau was crowned Grand Prix â
 
 ### Game 1
 
-![](https://i.ormos.uk/36/b7/36b7163684bcb958b457ddcdf9670b25459b7ce733319c0901aa9b1dd9693c5e.jpg)Rubin mulled his first hand, and seemed unimpressed with his second. He laid a Krosan Verge and passed it back. Freneau Duressed him, and stole Circular Logic, leaving him with only lands in hand. Freneau got in with Withered Wretch, but had nothing to speed up the beats. Rubin popped his Verge and continued to play lands.
+![](https://i.ormos.uk/36/b7/36b7163684bcb958b457ddcdf9670b25459b7ce733319c0901aa9b1dd9693c5e.jpg)
+
+Rubin mulled his first hand, and seemed unimpressed with his second. He laid a Krosan Verge and passed it back. Freneau Duressed him, and stole Circular Logic, leaving him with only lands in hand. Freneau got in with Withered Wretch, but had nothing to speed up the beats. Rubin popped his Verge and continued to play lands.
 
 Freneau didn't manage any other pressure until four turns later, a Nantuko Shade. Rubin had meanwhile drawn into the Wrath of God to clear the table. Freneau regrew his Wretch at end of turn and put it back into play. The net turn he tried a Corrupt, but Rubin had Counterspell in hand.
 
@@ -125,7 +127,9 @@ Rubin had the Verge to start the second game, and followed up with a pair of isl
 
 "That's good beats. It resolves." â€“ Ben Rubin
 
-![](http://www.wizards.com/sideboard/images/natus03/a919.jpg)He Verged, then untapped and dropped the Wake, five cards still in his hand. Freneau played a Grotto, and peeked at four cards with his Specter. They were Memory Lapse and three lands. He took the Lapse. Rubin untapped and played a pair of Merfolk Looters, removing all mystery. Freneau stole a forest and played Graveborn Muse.
+![](http://www.wizards.com/sideboard/images/natus03/a919.jpg)
+
+He Verged, then untapped and dropped the Wake, five cards still in his hand. Freneau played a Grotto, and peeked at four cards with his Specter. They were Memory Lapse and three lands. He took the Lapse. Rubin untapped and played a pair of Merfolk Looters, removing all mystery. Freneau stole a forest and played Graveborn Muse.
 
 Rubin took a big turn. Deep Analysis and his two Looters gave him options. He then Wrathed the board and played another Looter. Freneau came back with another Muse. Rubin dropped Kirtar's Wrath while at threshold, then flashed back his Analysis. Freneau tried to get a Muse on the board, but Rubin had Memory Lapse and then Counterspell, all the while beating down with his spirit tokens.
 

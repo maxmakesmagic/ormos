@@ -81,7 +81,9 @@ For examples of Magic greatness in Japan, look no further than these two competi
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a953.jpg)Ishida was first on the board with a Silver Knight, and then added a Lightning Rift. Okamoto swampcycled a Twisted Abomination in response. Ishida spent his third turn cycling an Eternal Dragon and shooting Okamoto with the Rift, prompting him to spend another Abomination while he was tapped out. He passed his fourth turn without committing anything to the table. Ishida hit him to eleven, played a Temple of the False God, and gave it back to him.
+![](http://www.wizards.com/sideboard/images/gpyok03/a953.jpg)
+
+Ishida was first on the board with a Silver Knight, and then added a Lightning Rift. Okamoto swampcycled a Twisted Abomination in response. Ishida spent his third turn cycling an Eternal Dragon and shooting Okamoto with the Rift, prompting him to spend another Abomination while he was tapped out. He passed his fourth turn without committing anything to the table. Ishida hit him to eleven, played a Temple of the False God, and gave it back to him.
 
 Okamoto played Read the Runes for three, sending Rotlung Reanimator, Festering Goblin and Noxious Ghoul to the graveyard. He dropped Polluted Delta and showed a Patriarch's Bidding. Suddenly his board was busy. Ishida had no fear. He cycled away a land and then Akroma's Vengeance, leaving Okamoto at six. He untapped with three cyclers in hand. Without a second red, he had to let Okamoto get a hit in, but he could only deal sixteen, and Ishida cycled for the win.
 
@@ -89,7 +91,9 @@ Ishida 1 – Okamoto 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a952.jpg)For the second game, Ishida pulled some Rifts, Decrees and Wing Shards to make room for Shocks, Kilnmouth Dragons, and multiple copies of Rorix Bladewing. He thought better of it after shuffling, and swapped Silver Knights for Rifts, and put back some Decrees for a couple Vengeances. Finally, he was ready to play. His first hand was three white lands and expensive spells, so he sent it back. He stayed on six.
+![](http://www.wizards.com/sideboard/images/gpyok03/a952.jpg)
+
+For the second game, Ishida pulled some Rifts, Decrees and Wing Shards to make room for Shocks, Kilnmouth Dragons, and multiple copies of Rorix Bladewing. He thought better of it after shuffling, and swapped Silver Knights for Rifts, and put back some Decrees for a couple Vengeances. Finally, he was ready to play. His first hand was three white lands and expensive spells, so he sent it back. He stayed on six.
 
 Okamoto cycled an Abomination and got in with Rotlung Reanimator. Ishida countered with a morph, and Okamoto made a strangled noise. He hit for two and put on a pout. His only play was Vengeful Dead. Ishida played his fourth land and drained him for four. Okamoto hit back for five.
 

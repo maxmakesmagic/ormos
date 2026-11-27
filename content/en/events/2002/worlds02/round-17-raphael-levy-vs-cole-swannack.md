@@ -287,7 +287,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a727.jpg)A thirteen year-old at Worlds is a novelty. A thirteen year-old who 5-1's Day 1 can be dismissed as lucky. A thirteen year-old who needs a win and a draw to make Top 8 is the real thing. Cole Swannack has taken everyone's expectations and turned them on their heads. The tiny New Zealand National Champ has fast become the most exciting part of the tournament. It seems like every pro rushes from their table at the end of a match to find out how he's doing. He's rebounded from an unspectacular 3-3 on the draft day to post 3-1 here in OBC. Now he just needs to beat Raphael Levy, and defeat his next oppontent.
+![](http://www.wizards.com/sideboard/images/worlds02/a727.jpg)
+
+A thirteen year-old at Worlds is a novelty. A thirteen year-old who 5-1's Day 1 can be dismissed as lucky. A thirteen year-old who needs a win and a draw to make Top 8 is the real thing. Cole Swannack has taken everyone's expectations and turned them on their heads. The tiny New Zealand National Champ has fast become the most exciting part of the tournament. It seems like every pro rushes from their table at the end of a match to find out how he's doing. He's rebounded from an unspectacular 3-3 on the draft day to post 3-1 here in OBC. Now he just needs to beat Raphael Levy, and defeat his next oppontent.
 
 France's Raphael Levy has been hanging around the top of the standings since the close of Day 2, but a 1-3 performance has jeopardized a Top 8 berth that seemed locked in. He needs this one as much as Swannack. Unfortunately, no-one will be cheering for him.
 
@@ -309,7 +311,9 @@ Shuffling up for Game 2, Swannack uttered the fateful word:
 
 He had no play on turn two, while Levy busted out Wild Mongrel. Nothing again on turn three, and you could hear the disappointement in his voice. Levy brought out Werebear.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a728.jpg)Things turned around in a hurry when Phantom Centaur hit the board for the New Zealander. Levy had no fourth land, and no island at all. He just shook his head and passed it back.
+![](http://www.wizards.com/sideboard/images/worlds02/a728.jpg)
+
+Things turned around in a hurry when Phantom Centaur hit the board for the New Zealander. Levy had no fourth land, and no island at all. He just shook his head and passed it back.
 
 Swannack, meanwhile, pulled Mongrel off the top and pitched Wonder, putting Levy on a four-turn clock. Levy smiled as he ripped an island. Careful Study put Wonder in his graveyard, stabilizing his position somewhat.
 
@@ -325,7 +329,9 @@ Levy 1 - Swannack 1
 
 Swannack pulled up his first seven, and they were abysmal. He sent them back, and the relief Levy felt was apparent. His hand was great, and his opponent had just mulliganed. With so much on the line, he had to take a second and put his head in his hands.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a729.jpg)He opened with Nimble Mongoose and Wild Mongrel. Swannack answered with Aquamoeba. Levy pitched Wonder and attacked. Swannack pitched one of his own and then an island, killing the incoming Mongoose. It was replaced with a Werebear.
+![](http://www.wizards.com/sideboard/images/worlds02/a729.jpg)
+
+He opened with Nimble Mongoose and Wild Mongrel. Swannack answered with Aquamoeba. Levy pitched Wonder and attacked. Swannack pitched one of his own and then an island, killing the incoming Mongoose. It was replaced with a Werebear.
 
 Swannack found a forest and made a Mongrel. Levy made a Mongoose and got to threshold in a hurry with Breakthrough for two. It pulled up three land and another Breakthrough, all of which went to the graveyard, leaving Levy with Seton's Scout and Breakthrough. He smashed for six and turned it over.
 

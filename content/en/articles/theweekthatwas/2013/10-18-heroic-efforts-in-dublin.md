@@ -226,7 +226,9 @@ During the webcast of Pro Tour *Theros*, I was keeping my eye on a handful of Pr
 
 The twenty-three-year old environmental service tech was already home in Michigan working into the wee hours of the morning when I caught up with him for an interview about his experience.
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: How long have you been playing **Magic** and how did you get started? What made you jump into the world of competitive **Magic**?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: How long have you been playing **Magic** and how did you get started? What made you jump into the world of competitive **Magic**?**
 
   
   
@@ -235,7 +237,9 @@ The twenty-three-year old environmental service tech was already home in Michiga
 
   
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: How long were you trying to Q for the PT before qualifying for PT *Theros*?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: How long were you trying to Q for the PT before qualifying for PT *Theros*?**
 
   
   
@@ -244,7 +248,9 @@ The twenty-three-year old environmental service tech was already home in Michiga
 
   
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: You wrote a very useful piece for PT first timers on [Brainstorm Brewery](http://brainstormbrewery.com/ray-perez-my-first-pro-tour-experience/). If you could go back and prepare for this Pro Tour all over again what would you do differently?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: You wrote a very useful piece for PT first timers on [Brainstorm Brewery](http://brainstormbrewery.com/ray-perez-my-first-pro-tour-experience/). If you could go back and prepare for this Pro Tour all over again what would you do differently?**
 
   
   
@@ -253,14 +259,18 @@ The twenty-three-year old environmental service tech was already home in Michiga
 
 I was too worried about not waking up on time, on top of being nervous and excited for Day Two; I felt quite tired all day and that hurt my performance in later rounds. Last thing I would have done differently would have been to get a phone I could use overseas. My mother is a huge part of my support system and not being able to be in contact with her on demand while being in a different country for the first time was nerve racking on both of our sides. Not to mention making plans with my friends there over wifi was quite the nuisance. I think I prepared as much as I could have with my deck selection, information I gathered on the Standard format, and drafting that these underlying issues, had they been remedied, would have made for a better PT experience on my end.
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What were the highlights of this past weekend for you?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What were the highlights of this past weekend for you?**
 
   
   
 
 ![](http://media.wizards.com/images/magic/daily/twtw/twtw269_perez_tiny.jpg)**Perez:** One of the highlights that stood out to me this weekend was that I started my first PT off with a bye. That alone made me feel like I was going to be doing just fine as a first timer. Another was hearing that people were talking about me and my success. It was a pretty surreal feeling when Kai Budde told me, "Oh, you're the guy everyone is talking about." during one of my matches on Day Two. Another standout was my feature match. While I wasn't on camera, just being in the feature match area was quite the experience. I have had feature matches before at SCG opens but none meant as much as the one this past weekend. I just need to work on winning my next one I get at a GP or PT. 
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Can you share the decklist you played in the Standard leg?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Can you share the decklist you played in the Standard leg?**
 
   
   
@@ -390,7 +400,9 @@ Sort by:
 
   
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What was your record in the two different formats and do you have any strong feelings about how you performed in either one?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What was your record in the two different formats and do you have any strong feelings about how you performed in either one?**
 
   
   
@@ -399,7 +411,9 @@ Sort by:
 
   
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What changes would you make to your Standard list moving forward?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What changes would you make to your Standard list moving forward?**
 
   
   
@@ -408,7 +422,9 @@ Sort by:
 
   
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What does the next chunk of the season look like for you between now and Pro Tour *Born of the Gods*?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What does the next chunk of the season look like for you between now and Pro Tour *Born of the Gods*?**
 
   
   

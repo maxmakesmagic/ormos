@@ -142,7 +142,9 @@ render_recovery:
 
 　またも先攻は山田。
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_fm1a_pic1_ja.jpg)　今回は《テル=ジラードに選ばれし者/Tel-Jilad Chosen》、《クラーク族の兵卒》と並べて攻撃開始。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_fm1a_pic1_ja.jpg)
+
+　今回は《テル=ジラードに選ばれし者/Tel-Jilad Chosen》、《クラーク族の兵卒》と並べて攻撃開始。
 
 　対する山原は《大霊堂の信奉者/Disciple of the Vault》に《骨断ちの矛槍/Bonesplitter》と悪くない感じであるが、ターンが幾ら進んでもメインカラーである緑マナを引かず、手札に緑のカードを大量に抱える事となった。　とりあえずはと、マナマイアシリーズも並べ、アーティファクトも十分ある状態で《厳粛な空護り》をキャスト。
 

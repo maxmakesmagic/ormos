@@ -423,7 +423,9 @@ render_recovery:
 ---
 * * *
 
-![Raphael Levy](http://wizards.com/sideboard/images/ptsd04/fm19_1.jpg)With the rise of Gabriel Nassif, it's easy to lose sight of the old-schoolers who paved the way to make French Magic what it is today. Levy has a pair of Pro Tour Top 8's from before the turn of the millennium. Since then he's been a Pro Tour mainstay. His opponent, Andrew Cuneo, was once the biggest up-and-comer in American Magic, after a pair of Team Pro Tour Top 4's with Andrew Johnson and Aaron Forsythe (as Car Acrobatic Team). He returned to the spotlight when he won the World Championships qualifier on Magic Online.
+![Raphael Levy](http://wizards.com/sideboard/images/ptsd04/fm19_1.jpg)
+
+With the rise of Gabriel Nassif, it's easy to lose sight of the old-schoolers who paved the way to make French Magic what it is today. Levy has a pair of Pro Tour Top 8's from before the turn of the millennium. Since then he's been a Pro Tour mainstay. His opponent, Andrew Cuneo, was once the biggest up-and-comer in American Magic, after a pair of Team Pro Tour Top 4's with Andrew Johnson and Aaron Forsythe (as Car Acrobatic Team). He returned to the spotlight when he won the World Championships qualifier on Magic Online.
 
 ### Game 1
 

@@ -141,7 +141,9 @@ render_recovery:
   - Goblin Warchief
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a735.jpg)プロツアー・ニューオリンズで青白緑のアグロコントロールデッキをデザインして準優勝を飾った"Jelly"Walamiesと、これまた今季のプロツアー・ヒューストンで準優勝のRobert Dougherty。世界トップクラスのデッキデザイナー、それもともにエクステンデッドを得意とする二人がこの15回戦のフューチャーマッチに選出されたのだった。
+![](http://www.wizards.com/sideboard/images/worlds03/a735.jpg)
+
+プロツアー・ニューオリンズで青白緑のアグロコントロールデッキをデザインして準優勝を飾った"Jelly"Walamiesと、これまた今季のプロツアー・ヒューストンで準優勝のRobert Dougherty。世界トップクラスのデッキデザイナー、それもともにエクステンデッドを得意とする二人がこの15回戦のフューチャーマッチに選出されたのだった。
 
 Walamiesが典型的な赤単色スライ、Doughertyは彼の分身ともいうべき黒単色のYMG Reanimaterの現行バージョンである。
 
@@ -151,7 +153,9 @@ Walamiesが典型的な赤単色スライ、Doughertyは彼の分身ともいう
 
 そんなわけで、第2ターンのアップキープステップという段階で先手のRobert Doughertyの場には《冥界のスピリット/Nether Spirit》が登場。Doughertyはまず《強迫/Duress》でWalamiesのハンドがクリーチャーだらけであることを確認し、2体くすぶっていた《モグの狂信者/Mogg Fanatic》を《陰謀団式療法/Cabal Therapy》で叩き落した。Walamiesはせっかくの《ゴブリンの従僕/Goblin Lackey》がだんまりのため、2マナ支払って《ゴブリンの群衆追い/Goblin Piledriver》を展開して第2ターンを終える。
 
-![](http://www.wizards.com/sideboard/images/worlds03/a736.jpg)Doughertyは3ターン目に《汚染/Contamination》をドローしたのだが、マナをたてたままターンエンド。相手の動きを見つつエンドステップに行動しようということだろうが、Walamiesが《炎の印章/Seal of Fire》をトップデッキしたことにより《冥界のスピリット/Nether Spirit》が一時退場。2体のゴブリンによって4点のダメージがあたえられるとともに、《ゴブリンの従僕/Goblin Lackey》の能力が誘発されてハンドから《包囲攻撃の司令官/Siege-Gang Commander》が展開されてしまい、さらに《ジャッカルの仔/Jackal Pup》までが登場してしまう。
+![](http://www.wizards.com/sideboard/images/worlds03/a736.jpg)
+
+Doughertyは3ターン目に《汚染/Contamination》をドローしたのだが、マナをたてたままターンエンド。相手の動きを見つつエンドステップに行動しようということだろうが、Walamiesが《炎の印章/Seal of Fire》をトップデッキしたことにより《冥界のスピリット/Nether Spirit》が一時退場。2体のゴブリンによって4点のダメージがあたえられるとともに、《ゴブリンの従僕/Goblin Lackey》の能力が誘発されてハンドから《包囲攻撃の司令官/Siege-Gang Commander》が展開されてしまい、さらに《ジャッカルの仔/Jackal Pup》までが登場してしまう。
 
 Doughertyは第4ターンになってから《汚染/Contamination》をキャストし、Walamiesの墓地から《モグの狂信者/Mogg Fanatic》を奪い取ってターンを終えた。総突撃してくる中、《ゴブリンの群衆追い/Goblin Piledriver》を《冥界のスピリット/Nether Spirit》が、《ゴブリンの従僕/Goblin Lackey》を《モグの狂信者/Mogg Fanatic》がブロックしてみたものの、次のターンからは《汚染/Contamination》の維持コストとして《冥界のスピリット/Nether Spirit》は使えない。つまるところ何らかの対処策を引き当てなければならなかったのだが...Doughertyのライブラリはいわゆる「土地ゾーン」となってしまっていた。
 

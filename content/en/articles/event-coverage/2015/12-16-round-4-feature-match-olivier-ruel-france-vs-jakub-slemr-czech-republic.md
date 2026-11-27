@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Craig Jones* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/109.jpg)Round 4 and the big names start to enter the tournament. The world champion from 1997, Jakub Slemr of the Czech Republic, met up and coming French star Olivier Ruel. Ruel has had a good year, winning two major team tournaments (one of which was GP Cannes) with Black Ops and reaching the final of GP Porto. Slemr hasn't been sitting idly by either, reaching the top 4 of the GP Frankfurt with team Trash A. Ruel had built a W/G/U deck while Slemr had chosen red/black with green as the 3rd colour. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/109.jpg)
+
+Round 4 and the big names start to enter the tournament. The world champion from 1997, Jakub Slemr of the Czech Republic, met up and coming French star Olivier Ruel. Ruel has had a good year, winning two major team tournaments (one of which was GP Cannes) with Black Ops and reaching the final of GP Porto. Slemr hasn't been sitting idly by either, reaching the top 4 of the GP Frankfurt with team Trash A. Ruel had built a W/G/U deck while Slemr had chosen red/black with green as the 3rd colour. 
 
 Ruel won the coin flip and elected to start. He laid a Nomadic Elf on turn 2 which Slemr buried in Scorching Lava, trying to Restrict the Frenchman's colour options. It didn't matter as Ruel laid his 3rd land type (an Island to go with the Plains and Forest) the next turn and made a Galina's Knight. Slemr made a Pyre Zombie and they started to race, both making creatures. The annoying knight met an Agonizing Demise but unperturbed Ruel called to the skies for his aid and brought in 3 birds through Ordered Migration. They continued to race until Ruel dropped a Serpentine Kavu that Slemr was forced to take out with the zombie. Slemr then made his second broken rare, a Nightscape Master. It didn't last long as a Rampant Elephant with Explosive Growth took down both it and the scout. The birds won the race, quickly pecking Slemr to death. 
 

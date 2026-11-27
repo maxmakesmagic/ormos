@@ -122,7 +122,9 @@ render_recovery: []
 
 *by Tobias Henke*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir08/traders.jpg)The obvious question to ask the card dealers, especially at the first big event in a brand-new format: What are the bestselling cards today at the trade booth?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir08/traders.jpg)
+
+The obvious question to ask the card dealers, especially at the first big event in a brand-new format: What are the bestselling cards today at the trade booth?
 
 First on the list and sold out lightning fast was [Mirrorweave](https://web.archive.org/web/20080601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirrorweave). Apparently, turning all your creatures into some sort of lord (and subsequently... sideways) will be quite a popular strategy. Also in high demand were [Spectral Procession](https://web.archive.org/web/20080601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Procession) (to support the Weave) as well as [Guttural Response](https://web.archive.org/web/20080601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Guttural+Response) (to fight it). All of the *Shadowmoor* Lieges sold great too.
 

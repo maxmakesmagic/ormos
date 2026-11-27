@@ -97,7 +97,9 @@ render_recovery:
   - Ray of Revelation
   occurrences: 69
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a753.jpg)How fitting that these two should find themselves across from each other on Day 3, the Block Constructed day. They last met in The Pit at Pro Tour - Osaka, where Davis took the match with Psychatog against Kibler's crazy blue-black-red control deck. Today Davis is with Speculation Blue-Green, and Kibler is running Mono-Black.
+![](http://www.wizards.com/sideboard/images/worlds02/a753.jpg)
+
+How fitting that these two should find themselves across from each other on Day 3, the Block Constructed day. They last met in The Pit at Pro Tour - Osaka, where Davis took the match with Psychatog against Kibler's crazy blue-black-red control deck. Today Davis is with Speculation Blue-Green, and Kibler is running Mono-Black.
 
 Davis took a mulligan, opening the game with forest and Rootwalla. He hit for three on the following turn, then three again and played a second Rootwalla. Kibler Rancid Earthed an island, but Davis had another. Fortunately for Kibler, he didn't have anything else, attacking and pumping for more damage.
 
@@ -105,7 +107,9 @@ He also didn't have Envelop for the Mutilate that cleared his board. Deep Analys
 
 Mirari hit, and now Davis was in trouble. He busted out Mongrel and Roar token, and a pair of Edicts brought him down to just Roar. Davis brought Kibler to two and thought hard. Another Speculation got him Krosan Reclamation and two Analyses.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a752.jpg)Kibler untapped, then activated his Coffers for six. Rancid Earth hit both untapped Islands with the help of Mirari. Davis floated one. Kibler entered his attack step. Davis put the Edict back with Reclamation. Kibler just Tutored twice, getting Innocent Blood and Tutor, finishing off the token.
+![](http://www.wizards.com/sideboard/images/worlds02/a752.jpg)
+
+Kibler untapped, then activated his Coffers for six. Rancid Earth hit both untapped Islands with the help of Mirari. Davis floated one. Kibler entered his attack step. Davis put the Edict back with Reclamation. Kibler just Tutored twice, getting Innocent Blood and Tutor, finishing off the token.
 
 From this point they were playing decks in different leagues. Kibler, with all the mana in the world and the ability to Fork spells at will, and Davis, hoping that somehow a creature would survive to attack. He didn't wait long before scooping.
 
@@ -113,7 +117,9 @@ Kibler 1 - Davis 0
 
 Davis had no play for his first two turns, while Kibler got his Nantuko Shade out. Davis matched with Wild Mongrel, Enveloping a Chainer's Edict. Then he tapped out for Wonder. Hardly the best beatdown draw ever.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a751.jpg)Kibler hit for four and dropped a second Shade. Davis's men returned the favor. Quiet Speculation got him two Roars and a Deep Analysis. Aquamoeba joined his squad. Kibler laid a fifth land and served. Davis let them through. That let Kibler use his mana to play Haunting Echoes, stripping Davis's whole game.
+![](http://www.wizards.com/sideboard/images/worlds02/a751.jpg)
+
+Kibler hit for four and dropped a second Shade. Davis's men returned the favor. Quiet Speculation got him two Roars and a Deep Analysis. Aquamoeba joined his squad. Kibler laid a fifth land and served. Davis let them through. That let Kibler use his mana to play Haunting Echoes, stripping Davis's whole game.
 
 And yet it wasn't over. Davis pitched Wonder to the Aquamoeba and swung in for seven, leaving Kibler at just seven life. Kibler attacked and, of course, had the Mutilate to seal the deal. Tutor fetched his Nantuko Shade, and Davis scooped.
 

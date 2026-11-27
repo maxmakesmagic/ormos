@@ -44,7 +44,9 @@ archive_source:
   sha256: cff74cf0799f6ded963650924de189d0f81045f27df90b288904df4e9bbe5c26
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a999.jpg)As we look around the Spanish site we see some very familiar faces like the Ruel brothers, Patrick Mello, Edward Fear, the Dutch Boeken, Wiegersma and Snepvangers, Frederico Bastos, Farid Meraghni and many others to whom we have gotten used to.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a999.jpg)
+
+As we look around the Spanish site we see some very familiar faces like the Ruel brothers, Patrick Mello, Edward Fear, the Dutch Boeken, Wiegersma and Snepvangers, Frederico Bastos, Farid Meraghni and many others to whom we have gotten used to.
 
 But where is Kai Budde?
 

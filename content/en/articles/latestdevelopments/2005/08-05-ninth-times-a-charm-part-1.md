@@ -499,7 +499,9 @@ render_recovery:
 ---
 * * *
 
-[![](https://i.ormos.uk/a5/2a/a52af2287e8c21a2cfcf8e934af8e7571ed3b96f0c23c9e19d37c5fc2290aa95.jpg)](/en/articles/feature/2005/07-25-ninth-edition-sortable-spoiler-2)Hey, hey! *Ninth Edition* is on the shelves and that makes me *happy*! The set was designed by Brian Schneider and myself, and developed by the two of us plus Matt Place, Elaine Chase, and Henry Stern. Whenever I look through the set I smile; I can remember the discussions around just about every card we included, and the set really reflects a lot of my own personal attitudes towards **Magic**—a great respect and love for the past, a dash of unpredictability, and an understanding of the difficulties that new players face when they first try our great game.
+[![](https://i.ormos.uk/a5/2a/a52af2287e8c21a2cfcf8e934af8e7571ed3b96f0c23c9e19d37c5fc2290aa95.jpg)](/en/articles/feature/2005/07-25-ninth-edition-sortable-spoiler-2)
+
+Hey, hey! *Ninth Edition* is on the shelves and that makes me *happy*! The set was designed by Brian Schneider and myself, and developed by the two of us plus Matt Place, Elaine Chase, and Henry Stern. Whenever I look through the set I smile; I can remember the discussions around just about every card we included, and the set really reflects a lot of my own personal attitudes towards **Magic**—a great respect and love for the past, a dash of unpredictability, and an understanding of the difficulties that new players face when they first try our great game.
 
 I have a lot of things I want to touch on regarding this set, and the best way I could come up with was to ask myself a series of questions. This week's article—the first half—will cover what we did to make *Ninth Edition* better for new players, and two weeks from now I'll finish up by discussing what we did to improve the set for enfranchised players.
 
@@ -569,7 +571,9 @@ There are quite a few other things in the set that, like protection, only appear
 
 ### Speaking of keywords, where are the defenders?
 
-![](https://i.ormos.uk/4d/1b/4d1b89a712db7dbe1aad04bf12e2524ba9327e6b917aa7bbdf1f39f4330156bd.jpg)Good question, Aaron. Walls have always been a part of the Core Set, and defender is a keyword that we are going to use in just about every set from here on out, so we definitely want new players to be comfortable with it. We were just caught with our pants down for this particular edition.
+![](https://i.ormos.uk/4d/1b/4d1b89a712db7dbe1aad04bf12e2524ba9327e6b917aa7bbdf1f39f4330156bd.jpg)
+
+Good question, Aaron. Walls have always been a part of the Core Set, and defender is a keyword that we are going to use in just about every set from here on out, so we definitely want new players to be comfortable with it. We were just caught with our pants down for this particular edition.
 
 *Ninth* was being put together as the whole “Defender vs. Wall” debate was in full swing. We weren't really sure which way the argument was going to end up… Are Walls taboo from now on? Would Wall of Air be allowable if we gave it the defender ability? So we tried to build the set without them just to be safe. And you know what? In my opinion you hardly miss them. We managed to give “Wall-like” creatures to the colors that need them, like Standing Troops, Skyhunter Prowler, and Kami of Old Stone in white and Dream Prowler, Horned Turtle, and Sea Monster in blue. Dancing Scimitar also does a wonderful impression of a Wall most of the time.
 
@@ -583,7 +587,9 @@ One of the best ways to teach people the differences between the colors is *with
 
 ### What is the philosophy regarding color hosers in this set?
 
-![](https://i.ormos.uk/e5/c5/e5c5deca736b31c68003f822c682446e5aae699c85d6db36b7b1a1bda2c41d90.jpg)Ugh. The color hoser issue really bridges the gap between making the set a teaching tool and making it a tool for experienced players to use in Standard. Color hosers really help to emphasize which colors are allies and which are enemies, and those relationships can really draw new players into the world. To make those relationships as evident as we could, we made all the hosers into uncommon “pairs” that players will quickly recognize as being related: Flashfires and Boiling Seas, Slay and Execute, and so on.
+![](https://i.ormos.uk/e5/c5/e5c5deca736b31c68003f822c682446e5aae699c85d6db36b7b1a1bda2c41d90.jpg)
+
+Ugh. The color hoser issue really bridges the gap between making the set a teaching tool and making it a tool for experienced players to use in Standard. Color hosers really help to emphasize which colors are allies and which are enemies, and those relationships can really draw new players into the world. To make those relationships as evident as we could, we made all the hosers into uncommon “pairs” that players will quickly recognize as being related: Flashfires and Boiling Seas, Slay and Execute, and so on.
 
 This condensing process also allowed us to get rid of three of the five Circles of Protection in white. While all the CoPs did help to define white as the defensive color, they really muddied the picture of white's allies and enemies. And they ate up valuable card slots that the other colors were occupying with more creatures and spells. We still managed to give white more anti-color stuff that the other colors by including Paladin en-Vec and the more generic Story Circle (and by cutting Eastern and Western Paladin from black, which for some reason had twice as many hosers as the other colors in *Eighth Edition*).
 

@@ -71,7 +71,9 @@ render_recovery: []
 ---
 *by Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/MASTERSNY00/Images/999.jpg)Chris Senhouse, editor-in-chief of The Dojo, faced off in the Top 8 of the first Masters Gateway tournament against Craig Wescoe, known for building Brian Davis' runner-up deck for Pro Tour Chicago. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/MASTERSNY00/Images/999.jpg)
+
+Chris Senhouse, editor-in-chief of The Dojo, faced off in the Top 8 of the first Masters Gateway tournament against Craig Wescoe, known for building Brian Davis' runner-up deck for Pro Tour Chicago. 
 
 Chris won the roll and elected to go first. He lost his advantage, forced to mulligan. He opened strong with a City of Brass and Duress, robbing Craig of the Recurring Nightmare in his opening hand. Chris played a turn-two Muscle Sliver, which Craig countered by playing a turn-two Wall of Roots. Chris doubled up his Muscle Sliver on turn three, and Craig found a second Wall of Roots to even the sides. Craig then played a Deranged Hermit on turn four. Chris cast an Acidic Sliver, then Duressed again on turn six, taking a Duress from Craig. Craig played a Krovikan Horror, which Chris sent packing with Swords to Plowshares. Chris played a Winged Sliver, and swung for seven, knocking Craig to 13. Craig played a Birds of Paradise and attempted to cast Academy Rector, which Chris countered with Force of Will. Chris came in the next turn for 12, and Craig was forced to block with his Birds, going down to 5. Craig attacked on his turn for 9 with the Hermit and Squirrel tokens, but had no answer, and scooped. 
 

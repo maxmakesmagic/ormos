@@ -91,7 +91,9 @@ You might notice that this table contains a few codenames for future sets. In 20
 
 *"Extended is the last seven years of **Magic** blocks and core sets."* 
 
-[![Crop_Rotation](https://i.ormos.uk/6d/58/6d58a80553d85d518ca52cc0d3f1b010f76c6ccb0f27ddd74a45a22f5cc66335.jpg)](https://web.archive.org/web/20080307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Crop%2BRotation)Each year, when a new large set is released in the fall and becomes legal in Extended, the oldest year of blocks in Extended rotates out.
+[![Crop_Rotation](https://i.ormos.uk/6d/58/6d58a80553d85d518ca52cc0d3f1b010f76c6ccb0f27ddd74a45a22f5cc66335.jpg)](https://web.archive.org/web/20080307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Crop%2BRotation)
+
+Each year, when a new large set is released in the fall and becomes legal in Extended, the oldest year of blocks in Extended rotates out.
 
 *Coldsnap* rotates out of Extended when *Time Spiral* block does, in 2013, seven years after *Time Spiral* entered Extended. (*Coldsnap*‘s rotation is attached to *Time Spiral* block, just like it is in Standard.)
 
@@ -119,7 +121,9 @@ The new rotation policy is more consistent and more fair to each block. The new 
 
 Once we decided to make each block legal in Extended for the same amount of time, the question became "How long should each block be legal?" Extended has been steadily growing in popularity over the last six years, ever since it diverged from its Stone Age roots in the Legacy-style "Type 1.X" format many years ago.
 
-[![Incremental_Growth](https://i.ormos.uk/77/50/7750dc3b6295087259d93586a6b40a76e1c2dd627b1f7d4f50a689bc8752e6a0.jpg)](https://web.archive.org/web/20080307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Incremental%2BGrowth)During the last six years, Extended has oscillated between six years of cards and eight years of cards, and players have reported that that size feels about right. It's important to us and to players that Extended be very different from Standard, and very different from Legacy and Vintage. Extended has truly achieved its own personality.
+[![Incremental_Growth](https://i.ormos.uk/77/50/7750dc3b6295087259d93586a6b40a76e1c2dd627b1f7d4f50a689bc8752e6a0.jpg)](https://web.archive.org/web/20080307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Incremental%2BGrowth)
+
+During the last six years, Extended has oscillated between six years of cards and eight years of cards, and players have reported that that size feels about right. It's important to us and to players that Extended be very different from Standard, and very different from Legacy and Vintage. Extended has truly achieved its own personality.
 
 The average lifespan of a block in Extended so far has been seven years, and we feel that's right on. To maintain the level of gameplay, power, speed, balance between deck types and level of interaction of Extended over the last several years, we believe that we should stick to that average seven-year lifespan that has worked well for the format so far. The best way to keep the overall feel of Extended the same is to keep the average lifespan of a block in Extended the same: seven years.
 

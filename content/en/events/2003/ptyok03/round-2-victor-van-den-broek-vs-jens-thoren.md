@@ -88,7 +88,9 @@ render_recovery:
 ---
 Sideboard contributor Victor van den Broek really wants to win this match. Both players lost their first round but Victor is perilously close to falling off of the gravy train. "I'm scheduled to fall off after Boston if I don't do well this weekend."
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a953.jpg)Invitational champion Jens Thoren has had an otherwise unspectacular year but only needs six points between now and the next individual Pro Tour to remain on the gravy train. Obviously he would like to win but the real pressure is on Vic.
+![](http://www.wizards.com/sideboard/images/ptyok03/a953.jpg)
+
+Invitational champion Jens Thoren has had an otherwise unspectacular year but only needs six points between now and the next individual Pro Tour to remain on the gravy train. Obviously he would like to win but the real pressure is on Vic.
 
 ### Game 1
 
@@ -110,7 +112,9 @@ Victor - 1 Jens – 0
 
 Jens again played first while Victor had a turn one goblin. This time it was Goblin Taskmaster, which got in for two before Jens played a morph. Jens didn't want to trade and took another point form the goblin and Victor added a Blade Sliver to his side of the table.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a955.jpg)Jens's Smokespew Invoker traded with the sliver and Victor kept the pressure up with a morph and another Taskmaster. When Jens kept his morph back on turn five after missing a land drop, Victor grew suspicious and cycled Choking Tethers to tap the man of mystery. Jens revealed a Daru Healer and prevented one of the six damage coming his way and fell to 12.
+![](http://www.wizards.com/sideboard/images/ptyok03/a955.jpg)
+
+Jens's Smokespew Invoker traded with the sliver and Victor kept the pressure up with a morph and another Taskmaster. When Jens kept his morph back on turn five after missing a land drop, Victor grew suspicious and cycled Choking Tethers to tap the man of mystery. Jens revealed a Daru Healer and prevented one of the six damage coming his way and fell to 12.
 
 Screeching Buzzard brought Victor's offensive to a halt and he just played a Glintwing Invoker and passed the turn back to Jens. The Swede finally drew his fifth land after missing it for the last two turns and played a Daunting Defender. Victor pushed it aside with a Pinpoint Avalanche and sent in the team again. The Healer ate his Taskmaster but Jens took another five and fell to 7 while Victor was till at a robust 16.
 
@@ -128,7 +132,9 @@ Victor – 1 Jens – 1
 
 This game was Jens's chance to make the one-drop going second with a Deftblade Elite. Victor's first play was the same creature type as his first two games—goblin—only this time it was a turn three Flamewave Invoker. Jens answered with a grey ogre of his own—Cabal Archon.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a954.jpg)After Victor played a morph on the next turn things started looking grim for him when Jens played three consecutive Daunting Defenders. Somewhere in the middle, Vic played a Riptide Shapeshifter, which he upgraded, to Rockshard Elemental while chumping a Defender. Keeneye Aven also joined the team prior to the appearance of the third 3/3 cleric.
+![](http://www.wizards.com/sideboard/images/ptyok03/a954.jpg)
+
+After Victor played a morph on the next turn things started looking grim for him when Jens played three consecutive Daunting Defenders. Somewhere in the middle, Vic played a Riptide Shapeshifter, which he upgraded, to Rockshard Elemental while chumping a Defender. Keeneye Aven also joined the team prior to the appearance of the third 3/3 cleric.
 
 When Jens tapped out except for one swamp—meaning Jens could only activate the Archon once—to cast the third Defender and attacked with the first two, Victor took it and went to 13. On his next turn he had enough mana to Choking Tethers all of Jens's blockers and unmorph his Blistering Firecat. He swung with everyone and he was able to do enough damage to exceed the Archon's grasp.
 

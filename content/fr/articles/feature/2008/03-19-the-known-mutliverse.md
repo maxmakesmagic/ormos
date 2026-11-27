@@ -541,7 +541,9 @@ Dans *The Thran,*, le roman de J. Robert King, l'arpenteur Dyfed emmène un ami 
 
 **Ségovie**
 
-![Segovian_Leviathan](https://i.ormos.uk/1b/e2/1be2fcf42167e2d3c396e125ff21cf51a7b07c0ac2a7304fd12245c9f24de0ef.jpg)Combien de milliers de joueurs se sont posés des questions sur le Segovian Leviathan (Léviathan ségovois) ? Les léviathans sont des créatures titanesques des profondeurs, alors pourquoi le Segovian Leviathan (Léviathan ségovois) n'est-il pas plus grand qu'un éléphant ? Simplement parce que la Ségovie est un plan *miniature* faisant un centième de la taille de Dominaria. Dans le magazine *The Duelist* numéro 25, Pete Venters écrit : 'L'armée moyenne d'humains ségovois pourrait être écrasée sous le pied d'un gobelin et le dragon ségovois le plus gros aurait la taille d'une libellule.'
+![Segovian_Leviathan](https://i.ormos.uk/1b/e2/1be2fcf42167e2d3c396e125ff21cf51a7b07c0ac2a7304fd12245c9f24de0ef.jpg)
+
+Combien de milliers de joueurs se sont posés des questions sur le Segovian Leviathan (Léviathan ségovois) ? Les léviathans sont des créatures titanesques des profondeurs, alors pourquoi le Segovian Leviathan (Léviathan ségovois) n'est-il pas plus grand qu'un éléphant ? Simplement parce que la Ségovie est un plan *miniature* faisant un centième de la taille de Dominaria. Dans le magazine *The Duelist* numéro 25, Pete Venters écrit : 'L'armée moyenne d'humains ségovois pourrait être écrasée sous le pied d'un gobelin et le dragon ségovois le plus gros aurait la taille d'une libellule.'
 
 **Shandalar**
 

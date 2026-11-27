@@ -77,7 +77,9 @@ render_recovery:
   - City of Traitors
   occurrences: 38
 ---
-![Feature Match: Hermes vs. Osterberg](http://www.wizards.com/sideboard/images/ptno03/839.jpg "Feature Match: Hermes vs. Osterberg")Rickard came into this match with an 11-3 record and in definite Top 8 contention, while Maxime is doing slightly worse at 10-4. Maxime was playing Goblins with Charbelcher, while Rickard was wielding the popular Goblin Welder/Tinker deck.
+![Feature Match: Hermes vs. Osterberg](http://www.wizards.com/sideboard/images/ptno03/839.jpg "Feature Match: Hermes vs. Osterberg")
+
+Rickard came into this match with an 11-3 record and in definite Top 8 contention, while Maxime is doing slightly worse at 10-4. Maxime was playing Goblins with Charbelcher, while Rickard was wielding the popular Goblin Welder/Tinker deck.
 
 ### Game 1
 
@@ -85,7 +87,9 @@ Maxime won the right to play first, but was forced to take a mulligan. He led wi
 
 Osterberg started with a Great Furnace and Goblin Welder. Maxime failed to draw a second land and was forced to end his second turn, still with a lone Mountain. City of Brass came down on Osterberg's side, followed by Lightning Greaves equipping the Welder, which attacked for one.
 
-![Osterberg's only signs of fatigue are in his eyes](http://www.wizards.com/sideboard/images/ptno03/840.jpg "Osterberg's only signs of fatigue are in his eyes")Maxime found a land and summoned a Goblin Piledriver. Osterberg's third turn consisted of a Shivan Reef and a Tinker sacrificing the Great Furnace and finding Platinum Angel. Greaves made its way onto the Platinum Angel and it attacked for four. An untargetable Angel is a hard lock against Maxime's main deck so rather than pretending he had an out, he decided to save time and immediately move onto the next game.
+![Osterberg's only signs of fatigue are in his eyes](http://www.wizards.com/sideboard/images/ptno03/840.jpg "Osterberg's only signs of fatigue are in his eyes")
+
+Maxime found a land and summoned a Goblin Piledriver. Osterberg's third turn consisted of a Shivan Reef and a Tinker sacrificing the Great Furnace and finding Platinum Angel. Greaves made its way onto the Platinum Angel and it attacked for four. An untargetable Angel is a hard lock against Maxime's main deck so rather than pretending he had an out, he decided to save time and immediately move onto the next game.
 
 Maxime took out an assortment of Goblins and a Charbelcher for four Rack and Ruins and three Damping Matrices. Three Welding Jars, a Triskelion, a Rack and Ruin and two Shattering Pulses made their way into Rickard's deck.
 
@@ -95,7 +99,9 @@ Maxime took out an assortment of Goblins and a Charbelcher for four Rack and Rui
 
 The players had been quiet during the whole match and they continued that theme as they shuffled up for Game 2.
 
-![Maxime Hermes at attention](http://www.wizards.com/sideboard/images/ptno03/847.jpg "Maxime Hermes at attention")Maxime started off the second game with Mountain, Mogg Fanatic. Shivan Reef and Voltaic Key comprised Rickard's first turn. Maxime's Mogg Fanatic charged into the red zone and then was joined on the playmat by a Goblin Piledriver. Rickard added an Ancient Tomb to the table and tapped it and the Shivan Reef, falling to 16, to change his Voltaic Key into a Platinum Angel with Tinker. He then added a Welding Jar as additional insurance against creature kill.
+![Maxime Hermes at attention](http://www.wizards.com/sideboard/images/ptno03/847.jpg "Maxime Hermes at attention")
+
+Maxime started off the second game with Mountain, Mogg Fanatic. Shivan Reef and Voltaic Key comprised Rickard's first turn. Maxime's Mogg Fanatic charged into the red zone and then was joined on the playmat by a Goblin Piledriver. Rickard added an Ancient Tomb to the table and tapped it and the Shivan Reef, falling to 16, to change his Voltaic Key into a Platinum Angel with Tinker. He then added a Welding Jar as additional insurance against creature kill.
 
 On Maxime's turn, both creatures attacked immediately. Rickard thought about whether to block, then asked how many cards the French player had. Eventually he decided to just absorb the damage himself. Maxime summoned Skirk Prospector and shipped the turn back.
 

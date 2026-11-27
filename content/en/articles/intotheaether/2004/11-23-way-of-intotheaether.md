@@ -435,7 +435,9 @@ Let's jump right in! Here's what you chose in [last week's](/en/articles/intothe
 
 <table><tbody><tr><td colspan="3"><b> Poll #2: What kind of deck is JMS making?</b></td>&#10;</tr>&#10;<tr><td>Kamigawa Block</td>&#10;<td>1739</td>&#10;<td>34.8%</td>&#10;</tr>&#10;<tr><td>Standard</td>&#10;<td>1364</td>&#10;<td>27.3%</td>&#10;</tr>&#10;<tr><td>Tribal Wars</td>&#10;<td>538</td>&#10;<td>10.8%</td>&#10;</tr>&#10;<tr><td>Two-Headed Giant</td>&#10;<td>494</td>&#10;<td>9.9%</td>&#10;</tr>&#10;<tr><td>Online Extended</td>&#10;<td>364</td>&#10;<td>7.3%</td>&#10;</tr>&#10;<tr><td>Classic</td>&#10;<td>248</td>&#10;<td>5.0%</td>&#10;</tr>&#10;<tr><td>Prismatic</td>&#10;<td>247</td>&#10;<td>4.9%</td>&#10;</tr>&#10;<tr><td><b>Total</b></td>&#10;<td><b>4994</b></td>&#10;<td><b>100.0%</b></td>&#10;</tr>&#10;</tbody></table>
 
-![](https://i.ormos.uk/b7/b1/b7b1fc3adfc19ec1d93369f65c957e2ab3c1a522a54fd3452bc309f3d2ae31ef.jpg)Way of the Warrior and *Kamigawa* Block Constructed, here I come! These are great choices, actually, because they involve the most straightforward preconstructed deck with the pool of cards that most supports the precons. As a result, I expect this experiment to be very accessible to beginners. 
+![](https://i.ormos.uk/b7/b1/b7b1fc3adfc19ec1d93369f65c957e2ab3c1a522a54fd3452bc309f3d2ae31ef.jpg)
+
+Way of the Warrior and *Kamigawa* Block Constructed, here I come! These are great choices, actually, because they involve the most straightforward preconstructed deck with the pool of cards that most supports the precons. As a result, I expect this experiment to be very accessible to beginners. 
 
 Before I get started, let me provide a quick recap of what I'm doing and what guidelines I'm following to do it:
 

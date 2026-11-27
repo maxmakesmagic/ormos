@@ -44,7 +44,9 @@ archive_source:
   sha256: 61b28a105cf0ebe34a160bbfbfdf41a54535c4efb8bf4953134c686dc9675030
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl01/881.jpg)Unlike the rest of the day, the top 8 of the Grand Prix uses single elimination instead of Swiss pairings and you play the person across from the table from you instead of a random pairing. What this means in terms of the draft is that a lot of the time you will draft a deck which is more highly tuned to beat the person across the table from you, instead of a generically strong deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl01/881.jpg)
+
+Unlike the rest of the day, the top 8 of the Grand Prix uses single elimination instead of Swiss pairings and you play the person across from the table from you instead of a random pairing. What this means in terms of the draft is that a lot of the time you will draft a deck which is more highly tuned to beat the person across the table from you, instead of a generically strong deck.
 
 Respectively the seatings were seat 1 Bin Chen, seat 2 Matt Linde, seat 3 Craig Wescoe, seat 4 Andrew Johnson, seat 5 Eugene Harvey, seat 6 Antonino DeRosa, seat 7 Brad Swan, and seat 8 Alex Borteh.
 
@@ -60,7 +62,9 @@ Booster three saw most players stay in their preferences while Antonino DeRosa t
 
 In booster 4, players took their normal colors while DeRosa showed no preference other than for green taking a Tiger, while Brad Swan took a [Ghastly Demise](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghastly+Demise) as a fourth pick and Borteh showed also a preference for blue/black taking [Syncopate](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Syncopate) and a black card on the way back.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl01/882.jpg)Booster 6 was when it all broke lose, Antonino opened up that big black flying beast, the [Stalking Bloodsucker](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking+Bloodsucker). Now Brad Swan was in a fix, as Antonino was clearly going to go green/black, but Brad had already taken a few quality picks in that color. He had a quick decision to make, stay the course, or jump ship. He decided to stay, and while Borteh took his first green card of the day, Bin Chen took the [Angelic Wall](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angelic+Wall).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl01/882.jpg)
+
+Booster 6 was when it all broke lose, Antonino opened up that big black flying beast, the [Stalking Bloodsucker](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking+Bloodsucker). Now Brad Swan was in a fix, as Antonino was clearly going to go green/black, but Brad had already taken a few quality picks in that color. He had a quick decision to make, stay the course, or jump ship. He decided to stay, and while Borteh took his first green card of the day, Bin Chen took the [Angelic Wall](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angelic+Wall).
 
 At this point, the players had decided on their colors, seat 1 Bin Chen was playing Blue/White, seat 2 Matt Linde was playing red/green, seat 3 Craig Wescoe was set on UB, seat 4 Andrew Johnson was taking red/green, Eugene Harvey in seat 5 taking White Blue, seat 6 with Antonino DeRosa taking black/green, seat 7 Brad Swan sticking to his guns with black/blue, that is all the players except for Alex Borteh had pretty much settled in to their colors. Alex had been unable to tell exactly what his neighbors preferences were for colors so he went into blue/black at first but later had to abandon it, and then decided to go into white because his opponent, Andrew Johnson was playing red/green and white is good against red/green. Eventually Alex ended up ditching all his blue and black cards to go white/green splash red, and ended up with a horrible deck.
 
@@ -68,7 +72,9 @@ His deck was the disaster that you can sometimes get when you can't determine yo
 
 By contrast on the other side of the table, Andrew Johnson and Eugene Harvey cooperated perfectly. It certainly helps that they are teammates and know each other's styles so well.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl01/883.jpg)One example of their close cooperation was in booster 23 when a [Filthy Cur](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Filthy+Cur) was coming back on the wheel and they didn't want Wescoe to have it, so Eugene Harvey hate drafted the card two seats away from Wescoe, allowing Andrew Johnson to pick up one of the red special lands for his deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl01/883.jpg)
+
+One example of their close cooperation was in booster 23 when a [Filthy Cur](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Filthy+Cur) was coming back on the wheel and they didn't want Wescoe to have it, so Eugene Harvey hate drafted the card two seats away from Wescoe, allowing Andrew Johnson to pick up one of the red special lands for his deck.
 
 The draft continued with one side of the table having colors that fit well together, Linde's RG next to Wescoe's UB next to Andrew's RG, next to Eugene's UW, while on the other side of the table, Antonino fought Brad for black, Alex was going into three colors (and at no point in the draft could I tell which three they were), while poor Bin Chen suffered from it all, as he was not certain if Alex might take a pick that would fit into his UW deck.
 

@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/de/39/de396eb817c3e5c04dfbbc7b8e54058b3abaf7f5ce021f0b10e8040d91788131.jpg)Edward Solis, despite his reserved appearance, had exactly what it takes to be JSS Champion. His metagamed red-green deck sawed through the competition. Yavimaya Barbarian definitely earned its keep, since it seemed at times that everyone was playing some form of blue. There were Psychatog decks. There were Opposition decks. There were blue-green madness decks. Solis faced them all, and smashed. He took names in the elimination rounds, too. Sweeping his quarterfinals before fighting tooth and nail with Kush Patel for a seat in the finals. In the fourth game of the big match it looked like Solis had it wrapped up, but his opponent Anderson cast Upheaval and dropped Blurred Mongoose and Basking Rootwalla. Before it could all slip away, Solis topdecked Urza's Rage, sending it to the dome for the win, accompanied by the cheers of his supporters. Congratulations to Edward Solis, 2002 Super Series Champion!
+![](https://i.ormos.uk/de/39/de396eb817c3e5c04dfbbc7b8e54058b3abaf7f5ce021f0b10e8040d91788131.jpg)
+
+Edward Solis, despite his reserved appearance, had exactly what it takes to be JSS Champion. His metagamed red-green deck sawed through the competition. Yavimaya Barbarian definitely earned its keep, since it seemed at times that everyone was playing some form of blue. There were Psychatog decks. There were Opposition decks. There were blue-green madness decks. Solis faced them all, and smashed. He took names in the elimination rounds, too. Sweeping his quarterfinals before fighting tooth and nail with Kush Patel for a seat in the finals. In the fourth game of the big match it looked like Solis had it wrapped up, but his opponent Anderson cast Upheaval and dropped Blurred Mongoose and Basking Rootwalla. Before it could all slip away, Solis topdecked Urza's Rage, sending it to the dome for the win, accompanied by the cheers of his supporters. Congratulations to Edward Solis, 2002 Super Series Champion!
 
  
 

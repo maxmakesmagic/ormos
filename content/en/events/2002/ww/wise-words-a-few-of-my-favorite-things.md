@@ -224,11 +224,15 @@ There are a lot of things within this game I enjoy: the socializing, the travel,
 
 ### Casting Brainstorm
 
-![](https://i.ormos.uk/6c/87/6c87f46d4b915641bb01f605614d717180f9dcaf85baf076cdf596b42ab67d23.jpg)I've been telling anyone that will listen that Brainstorm is the best card in Extended, and while Call of the Herd, Oath of Druids, Pernicious Deed, Force of Will and Gaea's Blessing have every right to complain, I'm standing by that insistence (I know, there were 23 Calls in the Vegas Top 8, but hey, I'm stubborn). Once upon a time, Before *Urza's Saga* was released, Ancestral Recall was called by most 'the best card in **Magic**', and Brainstorm, used properly, doesn't fall too short in its attempt to emulate the similarly costed Type 1 card.
+![](https://i.ormos.uk/6c/87/6c87f46d4b915641bb01f605614d717180f9dcaf85baf076cdf596b42ab67d23.jpg)
+
+I've been telling anyone that will listen that Brainstorm is the best card in Extended, and while Call of the Herd, Oath of Druids, Pernicious Deed, Force of Will and Gaea's Blessing have every right to complain, I'm standing by that insistence (I know, there were 23 Calls in the Vegas Top 8, but hey, I'm stubborn). Once upon a time, Before *Urza's Saga* was released, Ancestral Recall was called by most 'the best card in **Magic**', and Brainstorm, used properly, doesn't fall too short in its attempt to emulate the similarly costed Type 1 card.
 
 Obviously, Brainstorm won't be defining any environments any time soon because its strength is subtle in application, but the effect that strength produces at an extraordinarily low casting cost can't be ignored. Whether it's getting you out of a mana short opening hand, setting up your first few turns with the equivalent of a ten-card opening hand or sending your worst cards to the top of your library only to be shuffled away by Thawing Glaciers or Flood Plain, Brainstorm is always a welcome draw. At its worst, you have your mana, you've reached the top-decking mid-game and it gets you three cards further into your deck in hopes of finding a way to break a game open. That's a pretty good worst-case scenario.
 
-![](https://i.ormos.uk/55/f7/55f7b292b6f169986c63926e1f5fa43b302ded500b33dce72939c07792aadea7.jpg)I recently found myself playing in my first weekend's worth of PTQs in four years with my qualification for Osaka uncertain (A Top 48 finish in San Diego will keep me on the train). In testing the environment before and after New Orleans, I noticed time and again that whenever I found myself with a Brainstorm in hand, I would be in good shape, singing its pre-resolution praises ("cast the best card in Extended") before hand, and yelling its post-resolution praises after drawing my three cards. With that in mind, when it came time to choose a deck to play for the PTQs, Menno Dolstra suggested to Ben Ronaldson and I that Thawing Glaciers was the key to the mirror match, and when our testing showed him to be right, the natural evolution of the deck was the addition of four Brainstorms, making the Thaws that much better.
+![](https://i.ormos.uk/55/f7/55f7b292b6f169986c63926e1f5fa43b302ded500b33dce72939c07792aadea7.jpg)
+
+I recently found myself playing in my first weekend's worth of PTQs in four years with my qualification for Osaka uncertain (A Top 48 finish in San Diego will keep me on the train). In testing the environment before and after New Orleans, I noticed time and again that whenever I found myself with a Brainstorm in hand, I would be in good shape, singing its pre-resolution praises ("cast the best card in Extended") before hand, and yelling its post-resolution praises after drawing my three cards. With that in mind, when it came time to choose a deck to play for the PTQs, Menno Dolstra suggested to Ben Ronaldson and I that Thawing Glaciers was the key to the mirror match, and when our testing showed him to be right, the natural evolution of the deck was the addition of four Brainstorms, making the Thaws that much better.
 
 Regardless of my result, the effect was staggering. Not only did the mirror become a joke, but the way the deck was played changed before my eyes. Where before it was all about Intuitioning for Accumulated Knowledge, now, with so many blue decks out there playing AKs, it changed, with the deck now seeing a two-pronged approach to card advantage, either using the AK engine or abusing the (four) Brainstorms with Merchant Scroll, Intuition and Thawing Glaciers to form the perfect hand with which to go off. In other words, thanks in part to the way I played it, 'Trix' became the 'Brainstorm' deck. 
 
@@ -242,7 +246,9 @@ Mike Pustilnik is anything but conventional when it comes to the construction of
 
 ### Reading Dan Paskins
 
-![](https://i.ormos.uk/fd/69/fd69e41d80015298f750167d61824c74a6d36fb11e577a419b95d42710fbb250.jpg)There are a lot of strategy articles on the net these days whose advice I'd say are almost detrimental, so when an author's comprehension of their subject matter reaches a certain level, they should be recognized. 
+![](https://i.ormos.uk/fd/69/fd69e41d80015298f750167d61824c74a6d36fb11e577a419b95d42710fbb250.jpg)
+
+There are a lot of strategy articles on the net these days whose advice I'd say are almost detrimental, so when an author's comprehension of their subject matter reaches a certain level, they should be recognized. 
 
 Dan Paskins is a red player. For as long as anyone around here can remember, he's been casting one casting cost red creatures and burn spells and he's done it well. Now in university at Oxford, Dan's studies have superseded his **Magic** play, but he still finds the time to write on occasion about the merits of the red deck, be it called Sligh, RDW2K or what have you.
 
@@ -254,7 +260,9 @@ As I write this, I've been playing **Magic** Online for a week and a half now an
 
 I've seen a lot of complaints on the net of late defending Apprentice in the face of the **Magic** Online invasion, but I don't understand why peaceful co-existence isn't an option. Now in the beta testing, **Magic** Online isn't going to be free for ever (Not that I blame Wizards. Anything this good eventually has to have a price tag put on it), and while those who can afford will. Thanks to Apprentice, those who can't afford don't have to. 
 
-![](https://i.ormos.uk/34/e5/34e53be12aa805586af4e97c2542f909facf3122bedfa2f71b522ec249f3b88d.jpg)Apprentice and **Magic** Online provide two separate services. The former fulfills gaming fantasy, allowing us to have any cards we want in the blink of an eye, while at the same time providing a practical forum for online playtesting efforts. **Magic** Online meanwhile provides as good an online simulation as you could hope to find for sanctioned tournament play: It isn't built for practice, but to put all you've learned from playtesting INTO practice.
+![](https://i.ormos.uk/34/e5/34e53be12aa805586af4e97c2542f909facf3122bedfa2f71b522ec249f3b88d.jpg)
+
+Apprentice and **Magic** Online provide two separate services. The former fulfills gaming fantasy, allowing us to have any cards we want in the blink of an eye, while at the same time providing a practical forum for online playtesting efforts. **Magic** Online meanwhile provides as good an online simulation as you could hope to find for sanctioned tournament play: It isn't built for practice, but to put all you've learned from playtesting INTO practice.
 
 I think the two programs actually compliment one another very well, but while Apprentice will always provide certain needs of the online gaming community, it doesn't come with the glitz and glamour that **Magic** Online provides. Don't let the nay-sayers convince you of anything until you get to try it yourself: **Magic** Online is here to stay and worth your attention, if only to give it a chance. I allowed myself that moment of contemplation, and now I can't get enough.
 
@@ -262,7 +270,9 @@ I think the two programs actually compliment one another very well, but while Ap
 
 Who was the moron who said this set sucks in Constructed? If they've stepped forward, have they been duly flogged for their incompetence? I once mentioned in this column that people were calling *Odyssey* the weakest set since *Homelands*, but I'm thinking that with the results of recent Grand Prix being what they've been, the world has seen the light of the set that may be the most revolutionary in years.
 
-![](https://i.ormos.uk/e3/fb/e3fbdaf25944e0676e5e3c5555dbe52e25fd75dadf6dfefeaaacbfba54e1b510.jpg)I'm not suggesting this is the most powerful set that's ever been made, but *Odyssey* has changed the way **Magic** is played in a way that no other set really has, opening up entirely new dimensions to the game, be it the card advantage involved in the creature-producing flashback cards like Call of the Herd and Beast Attack or the importance of the size of your graveyard inherent in threshold. The graveyard is now just as important as the hand, library or field of play.
+![](https://i.ormos.uk/e3/fb/e3fbdaf25944e0676e5e3c5555dbe52e25fd75dadf6dfefeaaacbfba54e1b510.jpg)
+
+I'm not suggesting this is the most powerful set that's ever been made, but *Odyssey* has changed the way **Magic** is played in a way that no other set really has, opening up entirely new dimensions to the game, be it the card advantage involved in the creature-producing flashback cards like Call of the Herd and Beast Attack or the importance of the size of your graveyard inherent in threshold. The graveyard is now just as important as the hand, library or field of play.
 
 Every time you peruse the Extended GP deck lists, you find new *Odyssey* cards finding their way into decks: From Call of the Herd, Shadowmage Infiltrator and Zombie Infestation to Werebear, Mystic Enforcer and the best squirrel ever, Krosan Beast. Every weekend, new archetypes emerge, and they all seem to be using one *Odyssey* card or another to function at their fullest. Next week, the Shrine deck will be in vogue. Two weeks from now, Delaying Shield.
 

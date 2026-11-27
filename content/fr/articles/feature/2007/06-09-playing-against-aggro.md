@@ -484,7 +484,9 @@ render_recovery:
 ---
 * * *
 
-![Headlong_Rush](https://i.ormos.uk/8a/31/8a31beac21beef046de62dfa7f24c76d64ccf3bc796a8c7ac46eb930067bcd01.jpg)**Salut tout le monde, et bienvenue à Magic Academy !** Cette semaine nous allons étudier les stratégies les plus courantes et les plus efficaces contre le type de deck aggro.
+![Headlong_Rush](https://i.ormos.uk/8a/31/8a31beac21beef046de62dfa7f24c76d64ccf3bc796a8c7ac46eb930067bcd01.jpg)
+
+**Salut tout le monde, et bienvenue à Magic Academy !** Cette semaine nous allons étudier les stratégies les plus courantes et les plus efficaces contre le type de deck aggro.
 
 Le deck aggro est un deck qui essaie de gagner une course aux blessures de 20 à 0 contre son adversaire, sans se préoccuper de l'inévitabilité et de l'usure la plupart du temps. Les decks basés sur les créatures sont généralement des decks aggro.
 

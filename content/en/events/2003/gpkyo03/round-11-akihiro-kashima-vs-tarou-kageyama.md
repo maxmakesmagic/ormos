@@ -90,7 +90,9 @@ render_recovery:
   - Mistform Seaswift
   occurrences: 43
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a933.jpg)Tarou "John" Kageyama is better known for his work in a Sideboard Japan shirt than in his competitor's clothes. He cajoled Satoshi Nakamura into an ID to ensure his Day 2, and has been having a rough go of it. Likewise for Akihiro Kashima, who's more used to sixty-card decks. Last weekend at Pro Tour - Venice he hit the Top 8. Now he can't go anywhere without hearing congratulations. Poor guy. Kashima is with a standard red-green deck, Kageyama is with a defensive-minded blue-white that splashes red for Lightning Rift and Flamewave Invoker.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a933.jpg)
+
+Tarou "John" Kageyama is better known for his work in a Sideboard Japan shirt than in his competitor's clothes. He cajoled Satoshi Nakamura into an ID to ensure his Day 2, and has been having a rough go of it. Likewise for Akihiro Kashima, who's more used to sixty-card decks. Last weekend at Pro Tour - Venice he hit the Top 8. Now he can't go anywhere without hearing congratulations. Poor guy. Kashima is with a standard red-green deck, Kageyama is with a defensive-minded blue-white that splashes red for Lightning Rift and Flamewave Invoker.
 
 ### Game 1
 
@@ -114,7 +116,9 @@ Kageyama 1 – Kashima 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a932.jpg)Kashima had a slow start for the third game, which delighted Kageyama. Wall of Mulch, then morph, then Timberwatch Elf was decidedly manageable. Kageyama sat back on a morph of his own and five mana. Kashima dropped Crown of Fury on his morph and swung. Kageyama had no trouble trading his Daru Lancer for it. It turned out to be Nantuko Vigilante.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a932.jpg)
+
+Kashima had a slow start for the third game, which delighted Kageyama. Wall of Mulch, then morph, then Timberwatch Elf was decidedly manageable. Kageyama sat back on a morph of his own and five mana. Kashima dropped Crown of Fury on his morph and swung. Kageyama had no trouble trading his Daru Lancer for it. It turned out to be Nantuko Vigilante.
 
 And that seemed to be the end of Kashima's offense. Kageyama was free to set up a Dive Bomber, and when Kashima finally did drop Brontotherium, Kageyama was ready with Blatant Thievery. Kashima tried Erratic Explosion for the save, but it proved a little too erratic, hitting only two. Lavamancer's Skill on the Wall finished the job, but Kashima's resources were taxed. 
 

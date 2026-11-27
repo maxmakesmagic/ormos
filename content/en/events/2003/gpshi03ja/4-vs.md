@@ -179,7 +179,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_fm4a_picMain_ja.jpg)　先手藤田、《レオニンの円月刀/Leonin Scimitar》、《ヴァルショクの篭手/Vulshok Gauntlets》とならべ、《大焼炉/Great Furnace》を挟んで 4 ターン目に《マイアの処罰者/Myr Enforcer》といい展開。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_fm4a_picMain_ja.jpg)
+
+　先手藤田、《レオニンの円月刀/Leonin Scimitar》、《ヴァルショクの篭手/Vulshok Gauntlets》とならべ、《大焼炉/Great Furnace》を挟んで 4 ターン目に《マイアの処罰者/Myr Enforcer》といい展開。
 
 　対する長岡も、《黄鉄の呪文爆弾/Pyrite Spellbomb》、《ボトルのノーム/Bottle Gnomes》とならべ、こちらも親和と《物読み/Thoughtcast》で 2 ドロー。
 
@@ -199,7 +201,9 @@ render_recovery:
 
 　《陰極器/Cathodion》に《レオニンの円月刀/Leonin Scimitar》を携え、勇敢に長岡に立ち向かってゆく。
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_fm4a_pic1_ja.jpg)　その間、長岡は《ニューロックの使い魔/Neurok Familiar》を出してから、《知識の渇望/Thirst for Knowledge》、《物読み/Thoughtcast》と続け、手札を充実させていく。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_fm4a_pic1_ja.jpg)
+
+　その間、長岡は《ニューロックの使い魔/Neurok Familiar》を出してから、《知識の渇望/Thirst for Knowledge》、《物読み/Thoughtcast》と続け、手札を充実させていく。
 
 　さて、長岡が準備を整えている間に藤田が稼げたダメージは 4 点のみ。
 

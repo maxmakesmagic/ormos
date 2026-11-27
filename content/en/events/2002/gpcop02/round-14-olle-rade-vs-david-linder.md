@@ -95,7 +95,9 @@ They started trash talking each other in Swedish, a language this reporter unfor
 
 When I woke up 10 minutes later the two players finally decided on a number: 2. They both lost two life and the ensuing attack brought Olle down to 2.
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a864.jpg)A Wave of Indifference later the game was David's.
+![](http://www.wizards.com/sideboard/images/gpcop02/a864.jpg)
+
+A Wave of Indifference later the game was David's.
 
 1-0 David
 
@@ -112,7 +114,9 @@ The downside of the large Anurid really came into play this game though with Oll
 
 David played first hoping to get yet another explosive start playing his trdemark turn one Goblin. He wasn't able to follow it up with a two drop though and his inability to find a third land after cycling twice only compounded on his difficulties.
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a865.jpg)Olle's draw wasn't stellar either as he just played some facedown guys that traded with some of David's dorks. The turning point came when Olle started playing face up creatures... a Severed Legion and a Wretched Anurid gave the manascrewed David a lot of trouble.
+![](http://www.wizards.com/sideboard/images/gpcop02/a865.jpg)
+
+Olle's draw wasn't stellar either as he just played some facedown guys that traded with some of David's dorks. The turning point came when Olle started playing face up creatures... a Severed Legion and a Wretched Anurid gave the manascrewed David a lot of trouble.
 
 A Pacifism and a Shock later the problems were solved though and David started drawing lands to deal with Rade's threats.
 

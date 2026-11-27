@@ -103,7 +103,9 @@ render_recovery:
   - Cabal Therapy
   occurrences: 115
 ---
-![](https://i.ormos.uk/6c/ba/6cba630843dee85f950c436b447f29486d0ec540204b9bca6c259f5833791672.jpg)Six years ago relative unknown Justin Gary sat down to face Jon Finkel in the Top 8 of 1997 US Nationals. It was widely assumed that Jon would win and take the title but Justin had something to say about that and emerged as the unlikely champion. Justin is the favorite over this year's relatively unknown Joshua Wagener but he--more than anyone--knows that that he needs to be wary of having his opportunity at a second crown hijacked by the upstart from Maryland.
+![](https://i.ormos.uk/6c/ba/6cba630843dee85f950c436b447f29486d0ec540204b9bca6c259f5833791672.jpg)
+
+Six years ago relative unknown Justin Gary sat down to face Jon Finkel in the Top 8 of 1997 US Nationals. It was widely assumed that Jon would win and take the title but Justin had something to say about that and emerged as the unlikely champion. Justin is the favorite over this year's relatively unknown Joshua Wagener but he--more than anyone--knows that that he needs to be wary of having his opportunity at a second crown hijacked by the upstart from Maryland.
 
 Joshua is by all accounts a less serious player than your average Pro. His Red-Green Beats deck is different than most in this tournament. Instead of Elephant Guides he is running Reckless Charge and almost couldn't play with the deck at all. "Is it true you don't have Guides because you couldn't find any?" asked his opponent.
 
@@ -133,7 +135,9 @@ Joshua sided in four Composts for Game 2 and struggled to take out cards. "I hon
 
 Justin had no plays for the first two turns and his opponent got down a Llanowar Elf and a Compost before he could do anything but cycle a Gladiator in response. Justin Duressed but only saw three lands and a Phantom Centaur, "Great, I'll discard a card to give you a free card." 
 
-![](https://i.ormos.uk/c4/db/c4db0325d53c369ee25f83cd1da87f3d95828af2adfd6529453280a2c45d2ff1.jpg)Joshua was able to play a Call of the Herd and flash it back. All Justin could do was Corrupt one of the tokens. He had no action in his hand but kept Josh form putting down the Phantom Centaur with bluffery. Josh didn't mind, "I am fine with four power on the board against the control deck."
+![](https://i.ormos.uk/c4/db/c4db0325d53c369ee25f83cd1da87f3d95828af2adfd6529453280a2c45d2ff1.jpg)
+
+Joshua was able to play a Call of the Herd and flash it back. All Justin could do was Corrupt one of the tokens. He had no action in his hand but kept Josh form putting down the Phantom Centaur with bluffery. Josh didn't mind, "I am fine with four power on the board against the control deck."
 
 Justin played a Replicator that would be making 4/4 green wolves. Josh got in with the Call token and played out his Centaur and a Wild Mongrel. He braced for the Mutilate, "Now who's slow-rolling?" But Justin could only muster, "Your turn." Josh bashed him down to one on the next turn but he did not have the burn to finish him off. 
 
@@ -159,7 +163,9 @@ Gary – 1 Wagener – 2
 
 ### Game 4
 
-![](https://i.ormos.uk/d4/67/d467c8ae07da8b4dff86ccd64e5906215e0f8b1fdf1ca69397d89d4b5b42f321.jpg)Josh kept his solid hand while Justin once again had some thinking to do. His hand had a Swamp and a Cabal Coffers along with two Engineered Plagues, Nantuko Shade, Diabolic Tutor and Mutilate. Finally he decided...
+![](https://i.ormos.uk/d4/67/d467c8ae07da8b4dff86ccd64e5906215e0f8b1fdf1ca69397d89d4b5b42f321.jpg)
+
+Josh kept his solid hand while Justin once again had some thinking to do. His hand had a Swamp and a Cabal Coffers along with two Engineered Plagues, Nantuko Shade, Diabolic Tutor and Mutilate. Finally he decided...
 
 "I'm running it!"
 

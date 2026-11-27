@@ -323,7 +323,9 @@ render_recovery:
 
 **Game 1**
 
-![](http://www.wizards.com/sideboard/images/worlds03/a481.jpg)　後手の Tuomo は 2 ターン目に《強制/Compulsion》を。一方、先手の尋は《クローサの境界/Krosan Verge》のセットからマナのアドバンテージを狙う。
+![](http://www.wizards.com/sideboard/images/worlds03/a481.jpg)
+
+　後手の Tuomo は 2 ターン目に《強制/Compulsion》を。一方、先手の尋は《クローサの境界/Krosan Verge》のセットからマナのアドバンテージを狙う。
 
 　しかし、その《クローサの境界/Krosan Verge》を使用し土地を四枚に増やした尋だが、五枚目の手札が手札に無い。土地を求め《綿密な分析/Deep Analysis》をキャストするが、Tuomo の《マナ漏出/Mana Leak》によって阻まれてしまう。その返しで Tuomo は《集中/Concentrate》を使用し差を広げる。
 
@@ -405,7 +407,9 @@ Tuomo Nieminen
 
 **Game 2**
 
-![](http://www.wizards.com/sideboard/images/worlds03/a499.jpg)　互いに《クローサの境界/Krosan Verge》《島/Island》と並べるスタート。三枚目に置いた土地こそ Tuomo が森、尋が 《溢れかえる岸辺/Flooded Strand》と違うものの、特に大差は無い。
+![](http://www.wizards.com/sideboard/images/worlds03/a499.jpg)
+
+　互いに《クローサの境界/Krosan Verge》《島/Island》と並べるスタート。三枚目に置いた土地こそ Tuomo が森、尋が 《溢れかえる岸辺/Flooded Strand》と違うものの、特に大差は無い。
 
 　Tuomo が意味ありげな視線を送りながら《クローサの境界/Krosan Verge》を起動する。それもそのはず、尋のデッキにはサイドに三枚の《もみ消し/Stifle》が投入されており、序盤では、強力な土地破壊呪文として機能するからだ。  
  　だが、尋は変わりに《狡猾な願い/Cunning Wish》を使用し《天啓の光/Ray of Revelation》を入手し未来に備えた。
@@ -452,7 +456,9 @@ Tuomo Nieminen
 
 **Game 3**
 
-![](http://www.wizards.com/sideboard/images/worlds03/a500.jpg)　先手を取った尋が 2 ターン目に《強制/Compulsion》を貼るが、もうコントロール対決には飽き飽きしたと、Tuomo は 3 ターン目に勇気を持って変異召還。そしてこれが通ってしまう。《クローサの境界/Krosan Verge》を使用し土地を増やす尋だが、変異が天使である以上、緊急な対策が必要だ。
+![](http://www.wizards.com/sideboard/images/worlds03/a500.jpg)
+
+　先手を取った尋が 2 ターン目に《強制/Compulsion》を貼るが、もうコントロール対決には飽き飽きしたと、Tuomo は 3 ターン目に勇気を持って変異召還。そしてこれが通ってしまう。《クローサの境界/Krosan Verge》を使用し土地を増やす尋だが、変異が天使である以上、緊急な対策が必要だ。
 
 　二度目の攻撃、変異は《賛美されし天使/Exalted Angel》に転じる。この攻撃によって尋のライフは 14 へ。残されたターン数は 4。
 

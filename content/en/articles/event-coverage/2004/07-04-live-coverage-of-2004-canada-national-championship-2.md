@@ -44,7 +44,9 @@ archive_source:
   sha256: 56ba6027036f722025c9032e3cec385972f0567fcaba2a90a6b4561421180b5e
 render_recovery: []
 ---
-![](https://i.ormos.uk/5d/aa/5daa3a0280b931cdfd031a9d7ddb5cd5713be1d7ef17d78d2bbafde376a2cb02.jpg)Murray "The Mauler" is a popular fixture on the Canadian Magic scene. He was a member of the National team in 2001 and was the most experienced player in the Top 8 after David Rood. He had a vocal row of supporters along the rail and they teased him after a coin toss. Let's just say they accused him of a less than manly coin toss.
+![](https://i.ormos.uk/5d/aa/5daa3a0280b931cdfd031a9d7ddb5cd5713be1d7ef17d78d2bbafde376a2cb02.jpg)
+
+Murray "The Mauler" is a popular fixture on the Canadian Magic scene. He was a member of the National team in 2001 and was the most experienced player in the Top 8 after David Rood. He had a vocal row of supporters along the rail and they teased him after a coin toss. Let's just say they accused him of a less than manly coin toss.
 
 Murray wheeled around and fired the coin into his startled friend's chest, "How about this coin toss?"
 

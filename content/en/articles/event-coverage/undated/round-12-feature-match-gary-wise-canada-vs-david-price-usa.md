@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Ben Ronaldson* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/879.jpg)Both players were on 9-1-1 going into this match and boy did they talk the talk! They had a good ten minutes to psyche each other out as they both got deck-checked when the round began. They have a bit of a discussion about mulliganing and wishing each other good luck, then wishing the screw then tearing each other apart and the crowd stay pleasantly amused. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/879.jpg)
+
+Both players were on 9-1-1 going into this match and boy did they talk the talk! They had a good ten minutes to psyche each other out as they both got deck-checked when the round began. They have a bit of a discussion about mulliganing and wishing each other good luck, then wishing the screw then tearing each other apart and the crowd stay pleasantly amused. 
 
 Dave is playing a very strong red/black deck with bombs such as Yawgmoth's Agenda, Tsabo's Decree and some great creatures to boot. Gary's four color G/W deck has some powerful cards such as his Dragon (Rith), but as with all decks with multicolored cards the mana might cause problems. Having said that - he does have eight forests, a Fertile Ground and two Harrows. 
 
@@ -47,7 +49,9 @@ Dave is playing a very strong red/black deck with bombs such as Yawgmoth's Agend
 
 Gary shows Dave his Tek and his Crosis from the last draft and asks him to guess which one is the Crosis. Price, not trusting the mind-games, flips a coin to decide which one is the Dragon and gets it right - he elects to play first. Things get bad pretty quickly for the American though as he has to mulligan twice, and then has to keep a four land hand with only one spell. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/883.jpg)The game lasts only seconds; then as a Cloaked up Llanowar Knight went the whole way - it's protection from black ability leaving Dave with no answer at all. All the creatures in Dave's hand and on the table are black, and he has no red removal, so he dies on turn seven. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/883.jpg)
+
+The game lasts only seconds; then as a Cloaked up Llanowar Knight went the whole way - it's protection from black ability leaving Dave with no answer at all. All the creatures in Dave's hand and on the table are black, and he has no red removal, so he dies on turn seven. 
 
 **Game 2** 
 

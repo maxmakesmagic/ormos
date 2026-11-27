@@ -85,7 +85,9 @@ archive_source:
   sha256: 96d06592a9a4278f27ef7a6a4a142639afc16bb36fe5dd09fa87636dac0a9cb2
 render_recovery: []
 ---
-![](https://i.ormos.uk/d0/a8/d0a84856f3081d6506dbede6fce884fea4fe947c3ff94029015b87c48f8726ba.jpg)Because the *Ravnica* block is divided by guilds in a unique 4/3/3 split, the design team was quite wary of giving away too much information about the latter two sets in the block via the structure of the first. In other words, they didn't want too many cycles that stretched across the block that would be too predictable in *Guildpact* and *Dissension*.
+![](https://i.ormos.uk/d0/a8/d0a84856f3081d6506dbede6fce884fea4fe947c3ff94029015b87c48f8726ba.jpg)
+
+Because the *Ravnica* block is divided by guilds in a unique 4/3/3 split, the design team was quite wary of giving away too much information about the latter two sets in the block via the structure of the first. In other words, they didn't want too many cycles that stretched across the block that would be too predictable in *Guildpact* and *Dissension*.
 
 In fact, the only hard-and-fast cycles handed over to development were the rare lands—which were printed exactly as they were designed—and a cycle of common lands meant to facilitate multicolored play in Limited. The rest of the design cycles were very, very loose, and many of them made it through development that way.
 
@@ -155,7 +157,9 @@ The signets were suggested by Brian Schneider and, again, I fell in love with th
 
 ### The Legends
 
-![](https://i.ormos.uk/cb/73/cb73e00bdf1f5e9293128a6ee56a945a390b61e279206a1c59cb09793e2737eb.jpg)As I mentioned previously, design handed over the file with varying numbers of legends in each guild, usually two or three. (For example, in black-green, the card that would become [Vulturous Zombie](https://web.archive.org/web/20051104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vulturous+Zombie) was originally legendary along with Savra and the Sisters.)
+![](https://i.ormos.uk/cb/73/cb73e00bdf1f5e9293128a6ee56a945a390b61e279206a1c59cb09793e2737eb.jpg)
+
+As I mentioned previously, design handed over the file with varying numbers of legends in each guild, usually two or three. (For example, in black-green, the card that would become [Vulturous Zombie](https://web.archive.org/web/20051104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vulturous+Zombie) was originally legendary along with Savra and the Sisters.)
 
 Development decided to go with two distinct cycles of legends. The first would require a heavy color commitment mana-wise to be able to play them; one legend in each guild would cost “CCDD” (two mana of one color and two mana of another) to play. The second cycle would have less restrictive mana costs, but would reward players for playing cards of its colors, and doubly so for using *multicolored* cards of its colors with the intent that they would be lynchpins of guild decks.
 

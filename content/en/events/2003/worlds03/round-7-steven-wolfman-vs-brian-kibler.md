@@ -86,7 +86,9 @@ render_recovery:
   - Zombie Cutthroat
   occurrences: 48
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a847.jpg)Brian Kibler and Steven Wolfman opened bombs. Kibler led off the draft with an Exalted Angel while Wolfman had a choice between Kamahl and Sparksmith out of the second pack. He chose to take the common and drafted a pretty reasonable blue-red deck around it and the Lightning Rift he took in the first pack. Kibler was playing black-white with few answers for the powerful goblin.
+![](http://www.wizards.com/sideboard/images/worlds03/a847.jpg)
+
+Brian Kibler and Steven Wolfman opened bombs. Kibler led off the draft with an Exalted Angel while Wolfman had a choice between Kamahl and Sparksmith out of the second pack. He chose to take the common and drafted a pretty reasonable blue-red deck around it and the Lightning Rift he took in the first pack. Kibler was playing black-white with few answers for the powerful goblin.
 
 ### Game 1
 
@@ -108,7 +110,9 @@ Kibler – 0 Wolfman – 1
 
 Kibler led off with a White Knight and began chanting, "No Sparksmith," as Wolfman took his second turn. On the next turn it was Wolfman's turn to worry when Kibler played a morph, "Angel?" 
 
-![](http://www.wizards.com/sideboard/images/worlds03/a846.jpg)He played a Mistform Wall and sent it back bracing for the Angel but it wasn't coming and Kibler played another morph and a Barren Moor as his fourth land. Wolfman would have to worry again next turn. Wolfman played a Keeneye Aven.
+![](http://www.wizards.com/sideboard/images/worlds03/a846.jpg)
+
+He played a Mistform Wall and sent it back bracing for the Angel but it wasn't coming and Kibler played another morph and a Barren Moor as his fourth land. Wolfman would have to worry again next turn. Wolfman played a Keeneye Aven.
 
 Wolfman only blocked one morph with his Wall on the next turn and took two. Kibler played a Deftblade Elite and went to work with hit. Piety Charm killed the Keeneye Aven and a cycled Gempalm Avenger absorbed a Spark Spray and helped eat a morph. 
 
@@ -128,7 +132,9 @@ Wolfman got in for some damage with his face down guy and used a Spark Spray to 
 
 Wolfman went to work and played a face-up Marauder to shoot the Buzzard. He had to discard a card but held onto Frozen Solid for the 3/3 flier. Brian was holding the Angel but could not play it because of the Pitmage. He main phase cycled a Gempalm Avenger and found the land but it would have to wait until next turn.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a845.jpg)Wolfman sent in a Blade Sliver, Skirk Marauder and a Morph and took Brian from twelve to five. With the extra land Brian could safely pay for the Angel and he did so. When Wolfman attacked only with the Blade Sliver next turn, Kibler let out an audible sigh. He could not give up the Angel to the Sparksmith and 3/2 sliver but also chose not to chump block with his Spiritualist and fell to a precarious two.
+![](http://www.wizards.com/sideboard/images/worlds03/a845.jpg)
+
+Wolfman sent in a Blade Sliver, Skirk Marauder and a Morph and took Brian from twelve to five. With the extra land Brian could safely pay for the Angel and he did so. When Wolfman attacked only with the Blade Sliver next turn, Kibler let out an audible sigh. He could not give up the Angel to the Sparksmith and 3/2 sliver but also chose not to chump block with his Spiritualist and fell to a precarious two.
 
 An angelic attack took Wolfman to three and pulled Kibler up to six. He cycled a Barren Moor and found a Zombie Cutthroat that was played—obviously—face-up. Wolfman looked the board over and tried to figure out how to deal the final six points. He was holding Echo Tracer and couldn't see a way to finish off his opponent in one fell swoop. The Sparksmith could not kill the Spiritualist because of its ability and he was fixated on using the Sparksmith. If he treated it as a potential attacker he would have seen that he could have bounced a creature and attacked with everyone and Kibler could not fail to take to six regardless of his blocks.
 

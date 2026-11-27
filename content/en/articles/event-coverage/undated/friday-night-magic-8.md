@@ -110,7 +110,9 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 5/30/2010 6:56:05 PM
 
-[![](http://a1.twimg.com/profile_images/761343712/Photo_on_2009-10-28_at_14.47_normal.jpg)](http://twitter.com/belril)[**belril**](http://twitter.com/belril) And, I just opened a Jace, the Mind Sculptor. Awesome. [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
+[![](http://a1.twimg.com/profile_images/761343712/Photo_on_2009-10-28_at_14.47_normal.jpg)](http://twitter.com/belril)
+
+[**belril**](http://twitter.com/belril) And, I just opened a Jace, the Mind Sculptor. Awesome. [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
 
 5/29/2010 1:19:43 AM
 
@@ -118,27 +120,39 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 5/29/2010 12:23:09 AM
 
-[![](http://a1.twimg.com/profile_images/761343712/Photo_on_2009-10-28_at_14.47_normal.jpg)](http://twitter.com/belril)[**belril**](http://twitter.com/belril) My first [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) away from Walla Walla. I miss the guys (and gal) out there.
+[![](http://a1.twimg.com/profile_images/761343712/Photo_on_2009-10-28_at_14.47_normal.jpg)](http://twitter.com/belril)
+
+[**belril**](http://twitter.com/belril) My first [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) away from Walla Walla. I miss the guys (and gal) out there.
 
 5/28/2010 11:55:35 PM
 
-[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)[**necr0mancer**](http://twitter.com/necr0mancer) Runeflare Trap went 5-0 OSHI-!! 2nd place for me :/ [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
+[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)
+
+[**necr0mancer**](http://twitter.com/necr0mancer) Runeflare Trap went 5-0 OSHI-!! 2nd place for me :/ [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
 
 5/28/2010 10:28:57 PM
 
-[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)[**necr0mancer**](http://twitter.com/necr0mancer) 3-0 against Jund tonight, lol. How often can you say that? :P 4-1 on the night [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
+[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)
+
+[**necr0mancer**](http://twitter.com/necr0mancer) 3-0 against Jund tonight, lol. How often can you say that? :P 4-1 on the night [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
 
 5/28/2010 10:21:50 PM
 
-[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)[**necr0mancer**](http://twitter.com/necr0mancer) Eww, I lost to Runeflare Trap combo. :( [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
+[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)
+
+[**necr0mancer**](http://twitter.com/necr0mancer) Eww, I lost to Runeflare Trap combo. :( [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
 
 5/28/2010 9:31:11 PM
 
-[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)[**necr0mancer**](http://twitter.com/necr0mancer) 2-1'd Jund. Spreading Seas did it's thing. [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
+[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)
+
+[**necr0mancer**](http://twitter.com/necr0mancer) 2-1'd Jund. Spreading Seas did it's thing. [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
 
 5/28/2010 7:39:10 PM
 
-[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)[**necr0mancer**](http://twitter.com/necr0mancer) Woohoo! I won 2-0 vs. UWr Planeswalkers. Not sure how I pulled that off, honestly. >.> [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
+[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)
+
+[**necr0mancer**](http://twitter.com/necr0mancer) Woohoo! I won 2-0 vs. UWr Planeswalkers. Not sure how I pulled that off, honestly. >.> [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
 
 5/28/2010 6:44:47 PM
 
@@ -146,7 +160,9 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 5/28/2010 6:36:13 PM
 
-[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)[**necr0mancer**](http://twitter.com/necr0mancer) CONFIRMED! I'll be playing [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) for the first time in like 9-10 weeks. Maybe I shuld play something other than my 6 month old grixis list
+[![](http://a3.twimg.com/profile_images/847008607/muhammad_normal.jpg)](http://twitter.com/necr0mancer)
+
+[**necr0mancer**](http://twitter.com/necr0mancer) CONFIRMED! I'll be playing [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) for the first time in like 9-10 weeks. Maybe I shuld play something other than my 6 month old grixis list
 
 5/28/2010 5:12:32 PM
 

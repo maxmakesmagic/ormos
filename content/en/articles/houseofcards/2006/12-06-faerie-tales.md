@@ -700,7 +700,9 @@ In one particularly long, drawn-out game against Jack345's Insect deck, I had th
 
 ### Faerie, faerie, quite contrary
 
-![](https://i.ormos.uk/cd/11/cd113bc3179c31b397bce8a0d0f1efbce64a2e408f1600be31a9bd336050a574.jpg)Giants are quite intimidating. They're big and mean and destructive. One of them has a hammer for a fist, for crying out loud! Another one has blood … *that's on fire!* There's probably a Giant out there with a socket-wrench for a leg. Made of magma. You can't make this stuff up. By contrast, the tribe I'm going to look at next is full of delicate little creatures with wings of silk. 
+![](https://i.ormos.uk/cd/11/cd113bc3179c31b397bce8a0d0f1efbce64a2e408f1600be31a9bd336050a574.jpg)
+
+Giants are quite intimidating. They're big and mean and destructive. One of them has a hammer for a fist, for crying out loud! Another one has blood … *that's on fire!* There's probably a Giant out there with a socket-wrench for a leg. Made of magma. You can't make this stuff up. By contrast, the tribe I'm going to look at next is full of delicate little creatures with wings of silk. 
 
 Ah, Faeries. Right off the bat you know you're in trouble when you've been illustrated by Rebecca Guay. By contrast, if, say, Wayne England has got your illustration covered, you're pretty much guaranteed to have horns and scales and a power that at least trumps that of a squirrel. 
 

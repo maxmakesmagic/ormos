@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl01/935.jpg)Trevor was the first to open, generally not a seat that is highly coveted amongst veteran Rochester drafters. There were many solid cards in this packs, including a couple of outstanding choices, making Blackwell's first pick very important.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl01/935.jpg)
+
+Trevor was the first to open, generally not a seat that is highly coveted amongst veteran Rochester drafters. There were many solid cards in this packs, including a couple of outstanding choices, making Blackwell's first pick very important.
 
 [Lieutenant Kirtar](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lieutenant+Kirtar), [Flame Burst](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Burst), [Overrun](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Overrun), [Gravedigger](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravedigger), and [Repel](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repel) were the standouts for each color, respectively, and no surprise, Blackwell chose the Overrun.
 

@@ -1015,7 +1015,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/global/images/mtgcom_daily_bs56_picMain_en.jpg)The [2006 **Magic** Invitational](/en/events/2006/mi06/2006-magic-invitational-voting) is coming up in less than a month, and Wizards of the Coast recently ran a promotion through ***Magic** Online* to fly the winner and his guest out to Los Angeles to hang out at our All-Star Game. I caught up with [E3 Championship](/en/articles/feature/2006/03-20-magic-invitational-at-e3-tournament) Winner Przemysław Wołowiec to ask him a few questions.
+![](http://www.wizards.com/global/images/mtgcom_daily_bs56_picMain_en.jpg)
+
+The [2006 **Magic** Invitational](/en/events/2006/mi06/2006-magic-invitational-voting) is coming up in less than a month, and Wizards of the Coast recently ran a promotion through ***Magic** Online* to fly the winner and his guest out to Los Angeles to hang out at our All-Star Game. I caught up with [E3 Championship](/en/articles/feature/2006/03-20-magic-invitational-at-e3-tournament) Winner Przemysław Wołowiec to ask him a few questions.
 
 *We'd like to know a little bit about you for our files…*
 

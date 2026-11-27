@@ -64,7 +64,9 @@ Brian won the roll and played first. Both gentlemen kept their initial hands. Th
 
 A mid-game Ancient Hydra from Mr. Finkel was unable to hold off pressure from Brian's Jade Leech, River Boa, and Chimeric Idol. However, a Kavu Chameleon worked a whole lot better. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/761.jpg)And then Brian's own Ancient Hydra showed up. The next turn, with fading on the stack, Brian riddled the Chameleon with holes and nailed a poor Llanowar Elf to boot, letting the Hydra fade out immediately and clearing the way for a full ground assault. Jon put up a Chimeric Idol, but with Brian responding with another Jade Leech, Jon conceded after his next draw step. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/761.jpg)
+
+And then Brian's own Ancient Hydra showed up. The next turn, with fading on the stack, Brian riddled the Chameleon with holes and nailed a poor Llanowar Elf to boot, letting the Hydra fade out immediately and clearing the way for a full ground assault. Jon put up a Chimeric Idol, but with Brian responding with another Jade Leech, Jon conceded after his next draw step. 
 
 **Game 2** 
 
@@ -72,7 +74,9 @@ Jon elected to go first, and kept his hand. Brian mulliganed once and came out i
 
 After assessing his options for a turn, Jon conceded, taking his first match loss of Pro Tour Chicago. 
 
-![](https://i.ormos.uk/78/ee/78eef9640bc69ba26674acfbcfbaf25c40f854bf5ea19c69fbab853f135aa34c.jpg)Those looking for metagame insights may be interested to know that both players were running Rith. Brian sided in the Armadillo Cloaks (they replaced Chimeric Idols). Jon also had white cards such as Aura Mutation and Wax/Wane in his deck. No Fires of Yavimaya were played this match; Brian was not even running them. 
+![](https://i.ormos.uk/78/ee/78eef9640bc69ba26674acfbcfbaf25c40f854bf5ea19c69fbab853f135aa34c.jpg)
+
+Those looking for metagame insights may be interested to know that both players were running Rith. Brian sided in the Armadillo Cloaks (they replaced Chimeric Idols). Jon also had white cards such as Aura Mutation and Wax/Wane in his deck. No Fires of Yavimaya were played this match; Brian was not even running them. 
 
 For all of this reporter's expectations of writing for his first Pro Tour, he never imagined that he would be able to write the sentence, "Brian Kibler came over with an Armadillo Cloaked Rith to smack Jon Finkel and force him to concede." Anyone who says Standard is stale has his or her eyeballs in the wrong sockets. 
 

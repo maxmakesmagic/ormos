@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/136.jpg)Steve O'Mahoney-Schwartz is one of the most successful Grand Prix players of all time - no one has won more and only Alex Shvartsman has more Top 8's. With just three rounds left in Grand Prix Boston, he found himself drafting at table 2 with Stephen Hope feeding him and hometown favorite Dave Humpherys on his left. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/136.jpg)
+
+Steve O'Mahoney-Schwartz is one of the most successful Grand Prix players of all time - no one has won more and only Alex Shvartsman has more Top 8's. With just three rounds left in Grand Prix Boston, he found himself drafting at table 2 with Stephen Hope feeding him and hometown favorite Dave Humpherys on his left. 
 
 Steve first pack gave him many options: Charging Troll, Lotus Guardian, Tribal Flames, Thornscape Apprentice, Tower Drake Vodalian Zombie, and Nomadic Elf were all there. He went with Tribal Flames. Then his next pack had Faerie Squadron, Kavu Climber and Duskwalker. Steve went with Duskwalker, situating himself in probably the best 2-color combination available. There wasn't anything for a black/red mage in the next pack and he found himself debating Serpentine Kavu versus Yavimaya Barbarian, eventually he settled on the hasty Kavu. The green just kept on flowing with Nomadic Elf and another Serpentine still hiding out in 4th pack. Steve took the bear. There wasn't much left in pack 5 except Glimmering Angel, so Steve took it (over Darigaaz's Attendant). Hi next pick confirmed that the black and red had dried up completely so he took Crimson Acolyte (over Reviving Vapors). I bet he wished he'd taken that Charging Troll out of the very first pack! He lost a lot more than just a Charging Troll, though, because Humpherys drafted it and proceeded to draft the very same colors as Steve for the entire draft. Rith's Attendant (over Maniacal Rage), Strength of Unity (over Defiling Tears), and Quirion Trailblazer rounded out pack 1. 
 

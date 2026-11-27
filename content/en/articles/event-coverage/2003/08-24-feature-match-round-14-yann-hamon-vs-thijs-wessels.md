@@ -48,7 +48,9 @@ On 31 points, both of these players will be in with a win and out otherwise. Yan
 
 ### Game One
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon03/a881.jpg)Both players mulliganned and while Yann made a second turn Rift, Thijs played a pair of Silver Knights. They attacked for a while, but Hamon’s Silklash Spider soon stopped the beats. Thijs didn’t have anything else worthwhile in his hand, so he had to just keep saying go. Yann missed a land drop, but then found a Krosan Tusker. This allowed him to play Cabal Conditioning and destroy Thijs’ whole hand.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon03/a881.jpg)
+
+Both players mulliganned and while Yann made a second turn Rift, Thijs played a pair of Silver Knights. They attacked for a while, but Hamon’s Silklash Spider soon stopped the beats. Thijs didn’t have anything else worthwhile in his hand, so he had to just keep saying go. Yann missed a land drop, but then found a Krosan Tusker. This allowed him to play Cabal Conditioning and destroy Thijs’ whole hand.
 
 Yann played a second Lightning Rift, and Thijs drew Akroma’s Vengeance to destroy them. It didn’t really matter to Yann anyway as he had a Silvos waiting in his hand. It attacked and Wessels didn’t have Wing Shards so they moved on to game two
 

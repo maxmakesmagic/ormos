@@ -61,7 +61,9 @@ render_recovery: []
 
 **Game 2**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a897.jpg)　先手 Finkel は 2 ターン目、《ワイアウッドのエルフ/[Wirewood Elf](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Elf)》から 3 ターン目《梢を這うもの》で +2 と流れるように展開し、対する Canu も 2 ターン目に《火花鍛冶/[Sparksmith](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith)》を呼べたのだが、そんな貧弱な火力でこのクリーチャーを除去する事はかなわない。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a897.jpg)
+
+　先手 Finkel は 2 ターン目、《ワイアウッドのエルフ/[Wirewood Elf](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Elf)》から 3 ターン目《梢を這うもの》で +2 と流れるように展開し、対する Canu も 2 ターン目に《火花鍛冶/[Sparksmith](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith)》を呼べたのだが、そんな貧弱な火力でこのクリーチャーを除去する事はかなわない。
 
 　続けて《のたうつ汚泥獣/[Thrashing Mudspawn](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thrashing+Mudspawn)》と展開し、全く手も足も出ない Canu 。
 
@@ -73,7 +75,9 @@ render_recovery: []
 
 　再び Canu の先手。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a896.jpg)　《卑劣なアヌーリッド》、《刀刃スリヴァー/[Blade Sliver](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blade+Sliver)》、とパワー 3 を持つクリーチャーで序盤を展開。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a896.jpg)
+
+　《卑劣なアヌーリッド》、《刀刃スリヴァー/[Blade Sliver](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blade+Sliver)》、とパワー 3 を持つクリーチャーで序盤を展開。
 
 　負けずに Finkel も 2 ターン目に放った《ワイアウッドのエルフ》からマナをを伸ばしつつ、《アヌーリッドの濁り水潜り/[Anurid Murkdiver](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anurid+Murkdiver)》を 5 ターン目にキャスト。
 

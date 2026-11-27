@@ -53,7 +53,9 @@ archive_source:
   sha256: 8eb2cc407e3daab21b73565ddd99ba031a41456a1eb46571f14d90b283726930
 render_recovery: []
 ---
-![](https://i.ormos.uk/88/1e/881e79d258b97bec64f971a7fb1f0c8bfc43a4a406e84d24e2b862d075416c37.jpg)Wizards of the Coast® and America West Airlines® would like to offer our Pro Tour players the chance to get discounted airline tickets for Pro Tour Seattle!
+![](https://i.ormos.uk/88/1e/881e79d258b97bec64f971a7fb1f0c8bfc43a4a406e84d24e2b862d075416c37.jpg)
+
+Wizards of the Coast® and America West Airlines® would like to offer our Pro Tour players the chance to get discounted airline tickets for Pro Tour Seattle!
 
 ### Here's how it works!
 

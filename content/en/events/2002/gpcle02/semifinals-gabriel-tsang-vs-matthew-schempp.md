@@ -98,7 +98,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a877.jpg)Tsang won the die roll and used Quiet Speculation on turn 2 to throw some Roar of the Wurms and a Deep Analysis into the graveyard. Schempp used Krosan Reclamation to stuff the Roars back into the deck, while attacking with the little Tireless Tribe. Tsang cast a Catalyst Stone, used another Quiet Speculation, stuffing more Roar of the Wurms in his graveyard, while Schempp was only able to make a Phantom Centaur. When Gabe attacked, Schempp was able to kill one Roar token with Sylvan might but two more Roar tokens remained when Gabe flashed them back. The life scores went from 14-4 in Schemp's favor to 2-4 in Gabe's favor after the giant wurm tokens attacked. Schempp counter attacked with all of his creatures, but Gabe cast a Moment's Peace he had been holding, and Schempp extended the hand in a concession for game 1. It was a brutal beating. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a877.jpg)
+
+Tsang won the die roll and used Quiet Speculation on turn 2 to throw some Roar of the Wurms and a Deep Analysis into the graveyard. Schempp used Krosan Reclamation to stuff the Roars back into the deck, while attacking with the little Tireless Tribe. Tsang cast a Catalyst Stone, used another Quiet Speculation, stuffing more Roar of the Wurms in his graveyard, while Schempp was only able to make a Phantom Centaur. When Gabe attacked, Schempp was able to kill one Roar token with Sylvan might but two more Roar tokens remained when Gabe flashed them back. The life scores went from 14-4 in Schemp's favor to 2-4 in Gabe's favor after the giant wurm tokens attacked. Schempp counter attacked with all of his creatures, but Gabe cast a Moment's Peace he had been holding, and Schempp extended the hand in a concession for game 1. It was a brutal beating. 
 
 Tsang's most valuable card this game had to be the Catalyst Stone which not only made his Wurms cost only two mana, it also kept Schempp from flashing back his Krosan Reclamation or his Sylvan might.
 

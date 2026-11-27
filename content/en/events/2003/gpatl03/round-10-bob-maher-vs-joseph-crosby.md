@@ -108,7 +108,9 @@ render_recovery:
 ---
 "Are you X and 2?" Bob asked as the competitors sat down for the match. Joe confirmed this to be true and the players prepared to play.
 
-![](https://i.ormos.uk/38/b3/38b3236fbd5901a5420f105962f25781ff081f3193b301f54f2e653183b5cac8.jpg)Joe brings Goblins into Day 2, probably the most numerous of the Day 2 decks, while Bob brings Wake with him to the table. If Goblins are number one at this event, Wake is number 1A. 
+![](https://i.ormos.uk/38/b3/38b3236fbd5901a5420f105962f25781ff081f3193b301f54f2e653183b5cac8.jpg)
+
+Joe brings Goblins into Day 2, probably the most numerous of the Day 2 decks, while Bob brings Wake with him to the table. If Goblins are number one at this event, Wake is number 1A. 
 
 ### Game 1
 
@@ -118,7 +120,9 @@ Joe was able to get things going again almost immediately, dropping several more
 
 Bob finally ripped a Decree of Justice, but it was too little, too late. The Decree cycled to make nine soldiers, but Joe had the game won.
 
-![](https://i.ormos.uk/35/ae/35ae4ac07082cb3236279c83ffffcdff95c61f9a17399f0542b9f94f2293b41d.jpg)"I'm holding a Firebolt," Joe mentioned to Bob. Bob looked down at his life total and scooped his cards. The Firebolt was enough to kill him.
+![](https://i.ormos.uk/35/ae/35ae4ac07082cb3236279c83ffffcdff95c61f9a17399f0542b9f94f2293b41d.jpg)
+
+"I'm holding a Firebolt," Joe mentioned to Bob. Bob looked down at his life total and scooped his cards. The Firebolt was enough to kill him.
 
 Bob Maher 0 - Joseph Crosby 1
 
@@ -136,7 +140,9 @@ Bob Maher 1 - Joseph Crosby 1
 
 ### Game 3
 
-![](https://i.ormos.uk/af/3d/af3d4a5c98ccfab5cfe170744ae30a9e38b259094b3aa85ae984e6c2a72c08c1.jpg)The last game started rough for Joe, as he first tossed back his seven card hand, then tossed back his six card hand. The five card hand seemed to be about as good as he was going to get and he decided to keep it.
+![](https://i.ormos.uk/af/3d/af3d4a5c98ccfab5cfe170744ae30a9e38b259094b3aa85ae984e6c2a72c08c1.jpg)
+
+The last game started rough for Joe, as he first tossed back his seven card hand, then tossed back his six card hand. The five card hand seemed to be about as good as he was going to get and he decided to keep it.
 
 No first turn drop came out of his five card hand, but turn two saw a Piledriver land on the table, and turn three saw a Volcanic Hammer strike Bob's noggin.
 

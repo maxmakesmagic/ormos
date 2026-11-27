@@ -211,7 +211,9 @@ Kibler 1 - 1 Baberowski
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a953.jpg)　3 度先手を取った Kibler は 《秘教の幻想家/Mystic Visionary》、《セファリッドの物あさり》、《巡視犬/Patrol Hound》と並べて軽量ビートダウンを開始。
+![](http://www.wizards.com/sideboard/images/ptnice02/a953.jpg)
+
+　3 度先手を取った Kibler は 《秘教の幻想家/Mystic Visionary》、《セファリッドの物あさり》、《巡視犬/Patrol Hound》と並べて軽量ビートダウンを開始。
 
 　Baberowski が《追い返し/Repel》などを撃ち、《セファリッドの貴族/Cephalid Aristocrat》などをブロッカーに立てて、抵抗を見せるが、続いて Kibler は《雲を追うエイヴン》を出し、更に上からの攻撃に転じるようとするが、ここから 1 転 2 転の攻防戦が開始される。
 

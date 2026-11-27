@@ -1153,7 +1153,9 @@ None of these options are perfect. The separate banned lists feels like a “per
 
 Banning cards isn't a simple process. While there are occasionally some obvious cards that need to go, most card banning takes a lot of work to get right. Banning the wrong card or cards can easily make an environment worse rather than better, simply replacing one dominant deck with another. Adding a new format for Wizards to keep track of, particularly one where there may or may not be enough major tournaments to provide the necessary input, would not be easy.
 
-![](https://i.ormos.uk/8e/88/8e88ea61d4cd78310e81c70d731cdc3e27e5e3643435405c0868eca9332b7e98.jpg)Wizards also has a clear policy of being reluctant to ban cards until and unless the evidence is overwhelming. Power cards are an important part of what makes Extended exciting, and it took years of ongoing power or even dominance before cards like Oath of Druids and Force of Will were banned.
+![](https://i.ormos.uk/8e/88/8e88ea61d4cd78310e81c70d731cdc3e27e5e3643435405c0868eca9332b7e98.jpg)
+
+Wizards also has a clear policy of being reluctant to ban cards until and unless the evidence is overwhelming. Power cards are an important part of what makes Extended exciting, and it took years of ongoing power or even dominance before cards like Oath of Druids and Force of Will were banned.
 
 An analogy might be criminal court – a card is considered innocent until proven guilty. Once convicted, furthermore, there is little chance of an appeal. Banned cards seldom come back, and with good reason -- their banning shows that they are not merely powerful but degenerate and would, if allowed to remain, represent a constant risk to the health of the environment as well as a constraint on future card design. (It is for this reason most of all that even with a separate list it would be wrong to bring back Entomb for online use.)
 

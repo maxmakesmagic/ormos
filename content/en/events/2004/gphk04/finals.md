@@ -735,7 +735,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/gphk04/f1_1.jpg)Olivier Ruel was the heavy underdog in this match-up by his own account. His unwieldy deck needed time to unfold and he might not have it against Chuen Hwa Tan's speedy black-white concoction. This was the French player's fifteenth trip to the Top 8 of a high level event in individual competition. He had yet to win the whole she-bang and was hoping to change that up today despite the odds.
+![](http://www.wizards.com/sideboard/images/gphk04/f1_1.jpg)
+
+Olivier Ruel was the heavy underdog in this match-up by his own account. His unwieldy deck needed time to unfold and he might not have it against Chuen Hwa Tan's speedy black-white concoction. This was the French player's fifteenth trip to the Top 8 of a high level event in individual competition. He had yet to win the whole she-bang and was hoping to change that up today despite the odds.
 
 Chuen Hwa Tan had been defying the odds all weekend. Despite never making a Top 8 before this young Malaysian had just dispatched Masashi Oiso in the semis and was gunning for the Pro Tour veteran from France. A Top 16 appearance at a previous Grand Prix conspired to keep Tan from doubling up on the Amateur prize money.
 

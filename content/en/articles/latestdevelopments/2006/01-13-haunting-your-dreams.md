@@ -108,7 +108,9 @@ It's a little number called “haunt”…
 
 In their day-to-day dealings, the Orzhov guild is very grounded, handling (in their own corrupt way) most of the trading and business deals taking place in Ravnica. But they are a very spiritual guild with strong ties to the supernatural—their guildhall is a church and their leader is a council made up of long-dead ghosts. It is that mysticism that the haunt mechanic brings to life.
 
-![](https://i.ormos.uk/61/03/6103e6f4e8e694bea7231c25ed3d17e066d62408c9201dc44c94fd3ea22d762e.jpg)The mechanic works like this: each haunt card has the potential to generate its effect twice in the course of a game. The first effect happens normally the first time you play the card—instants and sorceries with haunt “do their thing” just like any other spell would, and creatures with haunt all have comes-into-play abilities that trigger. Then, once the card with haunt goes to the graveyard—for instants and sorceries that's right away, when they resolve; for creatures, it's when they die—the haunt card gets removed from the game and “haunts” a creature in play. *Then* when the haunted creature dies, you get the haunt card's effect again. Yes, it may take a while for some of these cards to go off twice, especially if your deck isn't specifically tuned to make use of the mechanic. What can I say; the Orzhov spirits are very patient!
+![](https://i.ormos.uk/61/03/6103e6f4e8e694bea7231c25ed3d17e066d62408c9201dc44c94fd3ea22d762e.jpg)
+
+The mechanic works like this: each haunt card has the potential to generate its effect twice in the course of a game. The first effect happens normally the first time you play the card—instants and sorceries with haunt “do their thing” just like any other spell would, and creatures with haunt all have comes-into-play abilities that trigger. Then, once the card with haunt goes to the graveyard—for instants and sorceries that's right away, when they resolve; for creatures, it's when they die—the haunt card gets removed from the game and “haunts” a creature in play. *Then* when the haunted creature dies, you get the haunt card's effect again. Yes, it may take a while for some of these cards to go off twice, especially if your deck isn't specifically tuned to make use of the mechanic. What can I say; the Orzhov spirits are very patient!
 
 Most haunt effects are pretty simple—discard a card, drain two life, destroy an enchantment, and so on—but some of the rare cards, like our friend the Orzhov Pontiff, have slightly more complex effects.
 
@@ -141,7 +143,9 @@ For reference, the detail-minded among you may enjoy the “haunt” section fro
 
 ### Haunt
 
-![](https://i.ormos.uk/04/7e/047ef5d2bf96931b98b6b5fd95882fb15728a4d312c8c1c5a32cf6f337229e35.jpg)Haunt is an ability that lets your creatures and spells have bonus effects from beyond the grave. Only cards from the Orzhov guild (white, black, or white-black) have haunt.
+![](https://i.ormos.uk/04/7e/047ef5d2bf96931b98b6b5fd95882fb15728a4d312c8c1c5a32cf6f337229e35.jpg)
+
+Haunt is an ability that lets your creatures and spells have bonus effects from beyond the grave. Only cards from the Orzhov guild (white, black, or white-black) have haunt.
 
 The official rules for the haunt ability are as follows:
 

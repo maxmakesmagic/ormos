@@ -82,7 +82,9 @@ Welcome to Saturday School. I hope your prerelease went well. What? You haven't 
 
 ### Betrayal is Good for You
 
-[![](https://i.ormos.uk/27/b3/27b309936ab7ba622462e648d3079ad1862a08b0de81701f950c88ac80905f09.jpg)](https://web.archive.org/web/20050122000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/prereleases)**Q**: Say [Toshiro Umezawa](https://web.archive.org/web/20050122000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Toshiro+Umezawa) trades with a 2/2 in combat. Does his ability still trigger? --Doug B.
+[![](https://i.ormos.uk/27/b3/27b309936ab7ba622462e648d3079ad1862a08b0de81701f950c88ac80905f09.jpg)](https://web.archive.org/web/20050122000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/prereleases)
+
+**Q**: Say [Toshiro Umezawa](https://web.archive.org/web/20050122000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Toshiro+Umezawa) trades with a 2/2 in combat. Does his ability still trigger? --Doug B.
 
 **A**: Yes, Toshiro's ability will see the other creature dying long enough to trigger and eventually be able to target an instant in your graveyard.
 

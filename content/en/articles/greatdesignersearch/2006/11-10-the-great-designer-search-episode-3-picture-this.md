@@ -238,7 +238,9 @@ Chris, you have a sensibility that I like. You definitely have a feel for what's
 
 **Kenneth Nagle** - **CONTINUE PLAYING**
 
-![](https://i.ormos.uk/b1/45/b145e8cd19a638de96f5866db343e7773e90157c9dbf5611141fadc8acf53075.jpg)Kenneth, I felt this was a good week for you. Your initial submission put you in the middle of the pack and the first design challenge has advanced your standing.
+![](https://i.ormos.uk/b1/45/b145e8cd19a638de96f5866db343e7773e90157c9dbf5611141fadc8acf53075.jpg)
+
+Kenneth, I felt this was a good week for you. Your initial submission put you in the middle of the pack and the first design challenge has advanced your standing.
 
 Your common cycle used the dispersion mechanic. It's a good mechanic that I could see us using. It has the nice flexibility in that it can be burned early cheaply for a small effect or create a larger effect later for a larger cost. The reason we do many mechanics like this is they help make limited play smoother (see question #18 on the [Great Designer Search Multiple Choice Test](https://web.archive.org/web/20061110000000/http://archive.wizards.com/default.asp?x=mtgcom/feature/366)
 
@@ -258,7 +260,9 @@ Overall, I was very happy with your first design challenge. I think you are show
 
 **Andrew Probasco** - **CONTINUE PLAYING**
 
-![](https://i.ormos.uk/fa/3b/fa3b9006724c263d128e4432c15b3f3a4a334995a24d600f96f297ff182be054.jpg)Andrew, I'll be honest, I wasn't too impressed with your challenge this week. Everything was reminiscent of things we've already done. Your execution was relatively good, but everything felt like "Oh yeah, I remember that mechanic."
+![](https://i.ormos.uk/fa/3b/fa3b9006724c263d128e4432c15b3f3a4a334995a24d600f96f297ff182be054.jpg)
+
+Andrew, I'll be honest, I wasn't too impressed with your challenge this week. Everything was reminiscent of things we've already done. Your execution was relatively good, but everything felt like "Oh yeah, I remember that mechanic."
 
 Your common cycle was my favorite of the three you submitted, but even it had its issues. For starters, I liked what you were trying to do, reward larger creatures. The problem is you created a mechanic that can't work until mid-game and even then can only come up so often in any deck that's playing a decent Limited mana curve. I think the limit of converted mana cost of 5 was too high. Also, I probably would have triggered off of power rather than converted mana cost as power is just more flavorful and easier to grok for most players.
 
@@ -272,7 +276,9 @@ Andrew, you need to take some drastic steps and quickly. Show me that you can do
 
 **Ryan Sutherland** - **CONTINUE PLAYING**
 
-![](https://i.ormos.uk/b7/8e/b78e7b125ba59b82812262e0fbd79714b6a1bd753f186f2182d1fcc11a9ca071.jpg)Ryan, you had one of the best card design tests and I'm going to dub you the winner of Design Challenge #1. This means you get frontrunner status for now. (Be careful though, there are a number of designers nipping at your heels.) Let's talk about your cycles.
+![](https://i.ormos.uk/b7/8e/b78e7b125ba59b82812262e0fbd79714b6a1bd753f186f2182d1fcc11a9ca071.jpg)
+
+Ryan, you had one of the best card design tests and I'm going to dub you the winner of Design Challenge #1. This means you get frontrunner status for now. (Be careful though, there are a number of designers nipping at your heels.) Let's talk about your cycles.
 
 Your common cycle is very clever. (They are the enchant creature auras that overwrite the creature and turn it into something else.) While I liked the cycle, it did have a few problems. First, I'm not sure I would do a Humble cycle at common. You're messing with a dangerous area of the rules and I don't think common is the proper place. Because these cards seem interesting for Limited, I'd probably put the cycle at uncommon. I like the overall flavor of turning things into known things. The only one I have issue with is the red one as I would rather see a French vanilla creature than one with a line of rules text. Also, if you're going to destroy existing auras to deal with confusion over how the auras interact, it might be a good idea to also keep the enchanted creature from being further enchanted. Despite all of my complaints I think you were playing around in a neat area of design space. (P.S. It's "lose" and not "loose".)
 
@@ -288,7 +294,9 @@ I do appreciate you going to new places. I like that you opted for an untraditio
 
 **Scott Van Essen** - **CONTINUE PLAYING**
 
-![](https://i.ormos.uk/a0/37/a03717ebea4049ebddbeddbabba3335c2a190a95c3793cd0b51b431c3b7123d2.jpg)Scott, I find this week's submission to be odd in that it hints at traits that seem opposite in nature. Your challenge is both very safe and very cutting edge. How is that possible? I don't know so let's walk through the cycles.
+![](https://i.ormos.uk/a0/37/a03717ebea4049ebddbeddbabba3335c2a190a95c3793cd0b51b431c3b7123d2.jpg)
+
+Scott, I find this week's submission to be odd in that it hints at traits that seem opposite in nature. Your challenge is both very safe and very cutting edge. How is that possible? I don't know so let's walk through the cycles.
 
 Your common cycle is a perfect example. My initial impression was one of boredom. We've done plenty of cards that have a similar feeling to these so nothing in the cycle seemed to be innovative. But then you explained what you were up to (and by the way candidates, your write-ups matter quite a bit - why you did something is as important as what you did) I saw what you were after and that I *quite* liked.
 
@@ -310,7 +318,9 @@ Scott, my biggest piece of advice is that you need to get a better handle on exe
 
 **Noah Weil** - **CONTINUE PLAYING**
 
-![](https://i.ormos.uk/66/d5/66d5583324f2f1c62a7989204c4106f7494eace6b858c0f09e5f9e24aed76063.jpg)Noah, you are by far the most polished designer. What I mean by that is that just about every card you turn in we could print tomorrow. I sense the development team would like how finished your designs are. The problem is that I don't see tons of innovation. I really like your rare cycle however, so there is some.
+![](https://i.ormos.uk/66/d5/66d5583324f2f1c62a7989204c4106f7494eace6b858c0f09e5f9e24aed76063.jpg)
+
+Noah, you are by far the most polished designer. What I mean by that is that just about every card you turn in we could print tomorrow. I sense the development team would like how finished your designs are. The problem is that I don't see tons of innovation. I really like your rare cycle however, so there is some.
 
 Let's start with the commons. You and Alexis went down a similar path with a rework of flashback. A survey we did recently showed that flashback was the number two all-time favorite mechanic (behind buyback) so your instincts were good. This cycle seems like a fine workhorse cycle that we'd use in a set. Where it fails is as a showoff for a designer wanting to win a single internship slot.
 
@@ -337,7 +347,9 @@ My advice for next week for you Noah is to embrace the unknown. We know you can 
 
 **Aaron Weiner** - **CONTINUE PLAYING**
 
-![](https://i.ormos.uk/8e/4b/8e4b3baedb0a3b1fb8f9fc5bd65fb2f1a131fc23397e49e7e060764f761755d1.jpg)Aaron, let me start by saying that I think you did a good job of listening to what the judges said. Last week we dinged you for complexity and this week you turned in much cleaner, simpler cards. Note to other applicants - listening to the judges gets you brownie points. Overall, your cycles were all over the board. I really liked one and hated another.
+![](https://i.ormos.uk/8e/4b/8e4b3baedb0a3b1fb8f9fc5bd65fb2f1a131fc23397e49e7e060764f761755d1.jpg)
+
+Aaron, let me start by saying that I think you did a good job of listening to what the judges said. Last week we dinged you for complexity and this week you turned in much cleaner, simpler cards. Note to other applicants - listening to the judges gets you brownie points. Overall, your cycles were all over the board. I really liked one and hated another.
 
 Let's start with your best cycle, the commons. I like the persistent mechanic (creatures with global effects that can turn into enchantments) quite a bit. So much so that there's a good chance you'll see something like this in future **Magic** (and by future **Magic** I don't specifically mean *Future Sight*).
 

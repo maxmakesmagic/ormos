@@ -984,7 +984,9 @@ The criteria for this ballot is talent + personality (or talent \* personality),
 
 **#5 Mark Herberholz**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthon06/f_champ.jpg)The talent you know about. I cast my votes prior to the PT past, but if there was ever any doubt about Heezy's ability, I figure there never will be again. As for personality, I can give you the transcripts to any number of conversations I've had with Mark over the past four years since Pat Chapin introduced him to me at a celebratory Denny's dinner at Grand Prix Milwaukee, but, sadly, not a single one is fit for print on even a rated PG-13 website. He can't say "I lost last round" without insulting good taste, let alone describe last week's date night... You'll just have to take my word for it that the human spring that appeared on The Price is Right is a pale specter of the bigger than life engine that drives his personality.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthon06/f_champ.jpg)
+
+The talent you know about. I cast my votes prior to the PT past, but if there was ever any doubt about Heezy's ability, I figure there never will be again. As for personality, I can give you the transcripts to any number of conversations I've had with Mark over the past four years since Pat Chapin introduced him to me at a celebratory Denny's dinner at Grand Prix Milwaukee, but, sadly, not a single one is fit for print on even a rated PG-13 website. He can't say "I lost last round" without insulting good taste, let alone describe last week's date night... You'll just have to take my word for it that the human spring that appeared on The Price is Right is a pale specter of the bigger than life engine that drives his personality.
 
 **#4 Antonino De Rosa**
 
@@ -992,7 +994,9 @@ The reigning US National Champion and a multiple Grand Prix Champion, Ant is a p
 
 **#3 Tsuyoshi Fujita**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptlon05/t8_fujita.jpg)Possibly the world's finest deck designer, Tsuyoshi is in the rare position of master strategist *who focuses on beatdown decks*. I admire Tsuyoshi's game more than maybe any other player on Tour, and it is no surprise that he took the Players Ballot. Tsuyoshi's "fun" decks make Top 8 of the Pro Tour (LA) and his brutal decks change the speed of even the Extended format (Sneak Attack).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptlon05/t8_fujita.jpg)
+
+Possibly the world's finest deck designer, Tsuyoshi is in the rare position of master strategist *who focuses on beatdown decks*. I admire Tsuyoshi's game more than maybe any other player on Tour, and it is no surprise that he took the Players Ballot. Tsuyoshi's "fun" decks make Top 8 of the Pro Tour (LA) and his brutal decks change the speed of even the Extended format (Sneak Attack).
 
 **#2 Osyp Lebedowicz**
 
@@ -1006,7 +1010,9 @@ Is it possible that Peppermint Von Joe Black Lebowitz has put the wheels back on
 
 **#1 Jeff Cunningham**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/953.jpg)People call the Invitational the All-Star Game of **Magic: The Gathering**, but at least as far as this Writers Vote goes, I am thinking of it more like the Pro Bowl. The NBA All-Star Game is a popular vote among nominees for each position, but *one third* of the Pro Bowl is elected for the end of the season by the NFL players themselves. You rattle a guy with a big tackle? You break his arm on the way down or take the feeling out of his left incisor? If his concussion has worn off by the time he has that ballot in his shattered fingers, you might reasonably expect him to vote for you... even if you never made another good move the rest of the year.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/953.jpg)
+
+People call the Invitational the All-Star Game of **Magic: The Gathering**, but at least as far as this Writers Vote goes, I am thinking of it more like the Pro Bowl. The NBA All-Star Game is a popular vote among nominees for each position, but *one third* of the Pro Bowl is elected for the end of the season by the NFL players themselves. You rattle a guy with a big tackle? You break his arm on the way down or take the feeling out of his left incisor? If his concussion has worn off by the time he has that ballot in his shattered fingers, you might reasonably expect him to vote for you... even if you never made another good move the rest of the year.
 
 I still haven't gotten over the last time Jeff Cunningham hit me, and I think it was five months ago.
 

@@ -58,7 +58,9 @@ render_recovery:
   reason: The link uses a JavaScript placeholder. The preview kept any visible label.
   occurrences: 1
 ---
-![](https://i.ormos.uk/9d/cf/9dcf87ec61e7600ea8d49bbb93f9655b185fc6af1e45e5266ad85a929bea259a.jpg)Eugene Harvey has done something impressive today, winning his first two Top 8 matches to join Jon Finkel and Mike Long as the only people to ever make the US Team more than once. But he isn't satisfied – the young Team CMU member wants to go home the champ.
+![](https://i.ormos.uk/9d/cf/9dcf87ec61e7600ea8d49bbb93f9655b185fc6af1e45e5266ad85a929bea259a.jpg)
+
+Eugene Harvey has done something impressive today, winning his first two Top 8 matches to join Jon Finkel and Mike Long as the only people to ever make the US Team more than once. But he isn't satisfied – the young Team CMU member wants to go home the champ.
 
 To do so, he will need to defeat newcomer Eric Franz from Portland, Oregon. Franz is playing Psychatog, the same deck Eugene beat in the quarterfinals (Matt Rubin) and semifinals (Andrew Ranks).
 
@@ -94,7 +96,9 @@ What Franz did do, however, was use his third Demise on Eugene's other Bird. By 
 
 But Harvey had more creatures to deploy: another Mongrel and another Elf. At the end of Harvey's turn, Franz went for it: Recoil the Opposition. But Harvey had a Logic, which Franz was forced to use his Counterspell on, leaving him with just an Upheaval in hand. The big shocker came when Harvey put a second Circular Logic on the stack, effectively protecting his Opposition.
 
-![](https://i.ormos.uk/25/1b/251b3f41facf7ca21073f22a51871c4f5aba54f9ded4ba7b0dfdc5d73a8d7980.jpg)Harvey wasn't applying much beats – only two per turn via Mongrel – and he had to keep Franz away from eight mana (Ups + land = 'Tog). Franz kept drawing land and looked to be in position to try that trick on his next turn.
+![](https://i.ormos.uk/25/1b/251b3f41facf7ca21073f22a51871c4f5aba54f9ded4ba7b0dfdc5d73a8d7980.jpg)
+
+Harvey wasn't applying much beats – only two per turn via Mongrel – and he had to keep Franz away from eight mana (Ups + land = 'Tog). Franz kept drawing land and looked to be in position to try that trick on his next turn.
 
 Eugene knew he didn't have enough guys to stop the Upheaval, so he attacked for four with the Mongrels, bringing Franz to 10.
 

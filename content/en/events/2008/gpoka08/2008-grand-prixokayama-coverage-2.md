@@ -466,7 +466,9 @@ He was facing off against Shingou Kurihara – the Pro Tour Geneva Top 8 and thr
 
 ### Game 1
 
-![](https://i.ormos.uk/3e/26/3e26671475f61aa59cb3aa9a2f783c18a039274160aff5ee20a83917e72063e0.jpg)Kurihara led off with Cylian Elf while Mori made the rarely seen Bloodthorn Taunter – if Mori had a Plains and Wooly Thoctar in his hand, Kurihara was in for a beating the like of which hasn’t been seen since Sootstoke Kindler into Ashenmoor Gouger. Kurihara played Gift of the Gargantuan and dug up Plains and Mosstodon. Mori passed his turn without a Wooly Thoctar. Rhox Charger hit play for him a turn later but Mori was not sure he was willing to trade his hastemaker for the lowly Cylian Elf. He finally decided he was up to the trade if Shingou was and they both put their guys in the yard. 
+![](https://i.ormos.uk/3e/26/3e26671475f61aa59cb3aa9a2f783c18a039274160aff5ee20a83917e72063e0.jpg)
+
+Kurihara led off with Cylian Elf while Mori made the rarely seen Bloodthorn Taunter – if Mori had a Plains and Wooly Thoctar in his hand, Kurihara was in for a beating the like of which hasn’t been seen since Sootstoke Kindler into Ashenmoor Gouger. Kurihara played Gift of the Gargantuan and dug up Plains and Mosstodon. Mori passed his turn without a Wooly Thoctar. Rhox Charger hit play for him a turn later but Mori was not sure he was willing to trade his hastemaker for the lowly Cylian Elf. He finally decided he was up to the trade if Shingou was and they both put their guys in the yard. 
 
 Shingou did not find a fifth land for his Mosstodon and passed the turn without a play. Mori crashed in for four with his Rhox Charger and then played his own Mosstodon. Scourglass came down for Kurihara but that still left Mori with a turn to bash in for eight before Kurihara blew up the world and played his Mosstodon.
 
@@ -474,7 +476,9 @@ Exuberant Firestoke came out for Mori, who was missing white mana for the remain
 
 ### Game 2
 
-![](https://i.ormos.uk/af/7f/af7f662234efa03f8f47e37950efdc9ce2279f27469952d47d11913686f3c78f.jpg)Mori reached for his sideboard and took out the Taunter in favor of Where Ancient Tread. He led off Game 2 with Wild Nacatl and got in for two on turn two. He found his Plains this game and attacked for three on the next while making a Steward of Valeron. Shingou spent his first three turns developing the same mana base and killed the Steward with Naya Charm on his own turn three. He was still taking three a turn from the Nacatl and braced for continued impact as he dug with Gifts of the Gargantuan for land and Waveskimmer. 
+![](https://i.ormos.uk/af/7f/af7f662234efa03f8f47e37950efdc9ce2279f27469952d47d11913686f3c78f.jpg)
+
+Mori reached for his sideboard and took out the Taunter in favor of Where Ancient Tread. He led off Game 2 with Wild Nacatl and got in for two on turn two. He found his Plains this game and attacked for three on the next while making a Steward of Valeron. Shingou spent his first three turns developing the same mana base and killed the Steward with Naya Charm on his own turn three. He was still taking three a turn from the Nacatl and braced for continued impact as he dug with Gifts of the Gargantuan for land and Waveskimmer. 
 
 Feral Hydra came down as a 4/4 stop sign for Kurihara and Mori did not attack instead playing Incurable Ogre, which he put in the path of the Feral Hydra. Shingou spent six mana and pumped his Hydra twice and ate the red creature. Mori figured better late than never and flipped the Hydra in his direction to read it. Hissing Iguanar came down for Mori. Shingou pressed in with the Hydra while sitting on a Skeletonize for the two creatures on Mori’s side of the board. Mori double checked with a judge that Kurihara would not get the Skeletonize token if the creature it was targeting did not die and showed Resounding Roar to his opponent for the win. 
 
@@ -499,7 +503,9 @@ Final result: Former World Champion Katsuhiro Mori defeated Shingou Kurihara two
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/63/4b/634b3ce8846ee1c6d88006df0cf904e5d42cd9728c5838d0f25bfba92e21b29d.jpg)Last round we featured a former Rookie of the Year in Katsuhiro Mori but in 2008 it is 23-year old Aaron Nicastri from Sydney, Australia who is looking to take down that title. Aaron – who you may have seen in a Wizards of the Coast lifestyle video -- has been on a whirlwind tour of the world this season. After a 35th place finish in Hollywood that was worth 5 points, 10 points for winning his National Championship, and 2 points for showing up in Berlin, Aaron finds himself right in the thick of the Rookie of the Year race with Americans Tyler Mantey and Tim Landale 3 points ahead of him and tied with Dan Lanthier of Canada for second.
+![](https://i.ormos.uk/63/4b/634b3ce8846ee1c6d88006df0cf904e5d42cd9728c5838d0f25bfba92e21b29d.jpg)
+
+Last round we featured a former Rookie of the Year in Katsuhiro Mori but in 2008 it is 23-year old Aaron Nicastri from Sydney, Australia who is looking to take down that title. Aaron – who you may have seen in a Wizards of the Coast lifestyle video -- has been on a whirlwind tour of the world this season. After a 35th place finish in Hollywood that was worth 5 points, 10 points for winning his National Championship, and 2 points for showing up in Berlin, Aaron finds himself right in the thick of the Rookie of the Year race with Americans Tyler Mantey and Tim Landale 3 points ahead of him and tied with Dan Lanthier of Canada for second.
 
 “After I won Nationals – and I knew I was going to Berlin – I got the big idea to go to all the remaining Grand Prix,” said Aaron, who kicked his World tour off in France. “Grand Prix Paris worked out perfectly because I was able to work with Sylvain Lauriol and Pierre Canali.” 
 
@@ -526,7 +532,9 @@ With two more Grand Prix ahead of him before he tackles Worlds – in both the s
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/11/b1/11b1e9d83681882d2b5c07ee50145ee28fb58800015ec5fd1cc1283bb91e9027.jpg)Hey! Wasn’t this Grand Prix supposed to be about the Player of the Year race? Instead it seems like every round has been about a once or future Rookie of the Year. Well this round is no different. I was walking around the room to check in on the PoY hopefuls and I was distracted by a crowd gathered around a match that exceeded anything that has been seen in the Feature Match area thus far. The match featured an icon of Japanese Magic, and certain first-ballot Hall of Famer, Masashi Oiso squaring off against [GP Hiroshima winner Motokiya Azuma](/en/articles/event-coverage/2003/01-24-live-coverage-of-2003-grand-prix-hiroshima). Motokiya, an extremely well-regarded domestic player and Mashashi are both from the nearby Hiroshima area and this battle attracted plenty of bystanders. 
+![](https://i.ormos.uk/11/b1/11b1e9d83681882d2b5c07ee50145ee28fb58800015ec5fd1cc1283bb91e9027.jpg)
+
+Hey! Wasn’t this Grand Prix supposed to be about the Player of the Year race? Instead it seems like every round has been about a once or future Rookie of the Year. Well this round is no different. I was walking around the room to check in on the PoY hopefuls and I was distracted by a crowd gathered around a match that exceeded anything that has been seen in the Feature Match area thus far. The match featured an icon of Japanese Magic, and certain first-ballot Hall of Famer, Masashi Oiso squaring off against [GP Hiroshima winner Motokiya Azuma](/en/articles/event-coverage/2003/01-24-live-coverage-of-2003-grand-prix-hiroshima). Motokiya, an extremely well-regarded domestic player and Mashashi are both from the nearby Hiroshima area and this battle attracted plenty of bystanders. 
 
 In an earlier piece, Aaron Nicastri emphasized the value of watching the best players in action in order to improve your own game. Masashi Oiso was holding a masters class for the bystanders. He was on his heels in Game 3 but briskly and calmly worked his way out of it with a Grixis Battlemage digging him to a Sharding Sphinx just in the nick of time. With the clock ticking and a Skeletal Kathari locking down the airspace over the red zone he switched into beatdown mode and began using the red side of the Battlemage’s abilities to leave Azuma only bad blocks each turn despite having a modest – but now dwindling board advantage. 
 
@@ -541,7 +549,9 @@ It was easy to see how Masashi has led to a new generation of talented Magic pla
 
 **Game 1** 
 
-![](https://i.ormos.uk/85/b6/85b6b3d40591f31a6490cb0e44c59c1a2363262834bf5546ab112cda24fc85c3.jpg)Sometimes the coverage just writes itself... Last round I watched as Masashi Oiso put on a “who’s the beatdown” clinic for a crowd of onlookers and mused about his influence on a new generation of Magic players. This round saw Oiso in another match – inexplicably away from the Feature Match area – with perhaps his most famous apprentice, Kenji Tsumura. Both players are from nearby Hiroshima with the 2000 Rookie of the Year mentoring the eventual 2005 Player of the Year. Between the two players there were 11 Pro Tour Top 8 finishes at the table and side by side plaques awaiting them both in the Pro Tour Hall of Fame when they eventually become eligible. 
+![](https://i.ormos.uk/85/b6/85b6b3d40591f31a6490cb0e44c59c1a2363262834bf5546ab112cda24fc85c3.jpg)
+
+Sometimes the coverage just writes itself... Last round I watched as Masashi Oiso put on a “who’s the beatdown” clinic for a crowd of onlookers and mused about his influence on a new generation of Magic players. This round saw Oiso in another match – inexplicably away from the Feature Match area – with perhaps his most famous apprentice, Kenji Tsumura. Both players are from nearby Hiroshima with the 2000 Rookie of the Year mentoring the eventual 2005 Player of the Year. Between the two players there were 11 Pro Tour Top 8 finishes at the table and side by side plaques awaiting them both in the Pro Tour Hall of Fame when they eventually become eligible. 
 
 Masashi now goes to school in Nagano so he does not get to spend a lot of time with his old friends and was no doubt looking forward to spending some time with Kenji this weekend. But with both players already having one loss this early on in the event a round six showdown was not the quality time either of these old friends had in mind. As I came over the two players were shuffling up for Game 2 with Kenji up one game and Japanese coverage coordinator Keitia Mori flagellating himself for somehow losing this pairing in the Feature Match shuffle. 
 
@@ -553,7 +563,9 @@ Both players were conscious of the clock that is always in play when the deliber
 
 Tidehollow Sculler from Oiso saw a hand with Tar Fiend, Resounding Thunder, and Branching Bolt. Kenji could have easily killed the Sculler but bided his time using a cycled Resounding Thunder to take down a Tower Gargoyle. Oiso played and used Executioner’s Capsule to take out a Rhix Charger and played another Grixis Battlemage – which promptly drew Branching Bolt from Kenji. Now that Oiso had to be out of gas he was not going to let him reload. 
 
-![](https://i.ormos.uk/54/f2/54f207e247e49779301d8df5e902dc6a01bb1f4fe967a1591f5b39ae1dc678a5.jpg)But Oiso still had something left in his tank as Sanctum Gargoyle regrew the Tower Gargoyle. Sharding Sphinx the turn after sealed the deal for Oiso and they moved onto their rubber game. Kenji had ended the game with an Archdemon of Unx sitting useless in his hand and he shuffled it back into his sideboard for a more useful Naturalize. While he did that I saw that the two Undead Leotau and two Dreg Reavers had been sideboarded in based on the two Executioner’s Capsules and Sanctum Gargoyle that Kenji had seen in Game 1. 
+![](https://i.ormos.uk/54/f2/54f207e247e49779301d8df5e902dc6a01bb1f4fe967a1591f5b39ae1dc678a5.jpg)
+
+But Oiso still had something left in his tank as Sanctum Gargoyle regrew the Tower Gargoyle. Sharding Sphinx the turn after sealed the deal for Oiso and they moved onto their rubber game. Kenji had ended the game with an Archdemon of Unx sitting useless in his hand and he shuffled it back into his sideboard for a more useful Naturalize. While he did that I saw that the two Undead Leotau and two Dreg Reavers had been sideboarded in based on the two Executioner’s Capsules and Sanctum Gargoyle that Kenji had seen in Game 1. 
 
 **Game 3** 
 
@@ -568,7 +580,9 @@ Final result: The student defeated the master two games to one.
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/67/3e/673e0439844c37b7becf7aec96598a132384662be4ab1427013c094c819bbea2.jpg)Old school favorites, Hall of Fame locks, and Rookie of the Year titles aside; with two rounds to go it seemed as good a time as any to check in on our Player of the Year contestants to see how they were faring. 
+![](https://i.ormos.uk/67/3e/673e0439844c37b7becf7aec96598a132384662be4ab1427013c094c819bbea2.jpg)
+
+Old school favorites, Hall of Fame locks, and Rookie of the Year titles aside; with two rounds to go it seemed as good a time as any to check in on our Player of the Year contestants to see how they were faring. 
 
 Shuhei Nakamura vs. Daisuke Muramatsu
 
@@ -578,13 +592,17 @@ Both players were 6-0 coming into this round meaning that Shuhei’s deck had le
 
 Olivier Ruel vs. Ryo Jumonji
 
-![](https://i.ormos.uk/df/1a/df1a74a871d9a6febd5346d1e8c901688349b86efe4c829a63b282f73c377197.jpg)“It could be worse – it could be legal in this format,” laughed a relieved Olivier Ruel after receiving a warning from the judge staff for having a promotional Urza’s Factory among his sideboard cards. The Urza’s Factory was given to everyone who signed up this morning when last night’s preregistration crowd exhausted the supply of Call of the Herds that were advertised. 
+![](https://i.ormos.uk/df/1a/df1a74a871d9a6febd5346d1e8c901688349b86efe4c829a63b282f73c377197.jpg)
+
+“It could be worse – it could be legal in this format,” laughed a relieved Olivier Ruel after receiving a warning from the judge staff for having a promotional Urza’s Factory among his sideboard cards. The Urza’s Factory was given to everyone who signed up this morning when last night’s preregistration crowd exhausted the supply of Call of the Herds that were advertised. 
 
 When I walked over the two players were in the middle of Game 2 and Olivier was cranking out tokens as fast as he could with Dragon Fodder and Jund Battlemage. He was sitting on Sigil’s Blessing and wanted to overrun his opponent with a critical mass of creatures. Having just used Resounding Silence to dispatch a pesky Stoic Angle from Ryo, Olivier was well aware that if his opponent, who was smiling mischievously over his Bant plus five more mana, could wreck him if he went for the win. Suddenly his window for the overrun came crashing closed on his fingers as a Resounding Thunder took out his Jund Battlemage and an impossibly large Feral Hydra began attritioning his board. 
 
 It looked like Oli would have enough fodder to chump his way into decking Ryo but an Exuberant Firestoke was a steady source of damage that sent them into Game 3 with less than five minutes to go.
 
-![](https://i.ormos.uk/21/8f/218f855e6360e575068af40842e28e173d081be647035da39bff921c0e37217d.jpg)Ryo agonized over his decision to mulligan and a time-pressed Olivier sat on the edge of his seat wondering if they would even get any turns in if his opponent shipped his hand back. Ultimately a trembling Ryo shouted, “Go!” indicating that he was going to play his openers. 
+![](https://i.ormos.uk/21/8f/218f855e6360e575068af40842e28e173d081be647035da39bff921c0e37217d.jpg)
+
+Ryo agonized over his decision to mulligan and a time-pressed Olivier sat on the edge of his seat wondering if they would even get any turns in if his opponent shipped his hand back. Ultimately a trembling Ryo shouted, “Go!” indicating that he was going to play his openers. 
 
 Oli came roaring out of the gate with Steward of Valeran and Guardians of Akrasa. Ryo killed the Steward but Olivier – playing at lightning speed – made a Battlegrace Angel on turn five followed by Court Archers a turn later. Ryo tried to stabilize behind his own Court Archers with Quietus Spike but Oli had the Bloodpyre Elemental to clear the way. Ryo extended the hand and Olivier prepared to draw his way into a draft table the next round. 
 
@@ -604,7 +622,9 @@ Saturday,
 
 Tomoharu Saito sat glumly at table 136 after completing his last round of Day One. He came into the round with two losses and was in a must-win situation. Contrary to the expression on his face he had won this round but he feared it was all for naught. 
 
-![](https://i.ormos.uk/9f/6a/9f6a416d6dfae3a532339311c368c70cbf98ea8bc5f1c76987fa7bad8a236ff1.jpg)“Very bad,” said Saito with a shake of his head. The reigning Player of the Year and Pro Tour Charleston champion had been to enough Grand Prix in his career that he knew how this was going to play out – he even had historical precedent. “At Grand Prix Birmingham there were 650 players and only 6 players with X-2 made Day Two. Maybe 5 or 10 will make it.”
+![](https://i.ormos.uk/9f/6a/9f6a416d6dfae3a532339311c368c70cbf98ea8bc5f1c76987fa7bad8a236ff1.jpg)
+
+“Very bad,” said Saito with a shake of his head. The reigning Player of the Year and Pro Tour Charleston champion had been to enough Grand Prix in his career that he knew how this was going to play out – he even had historical precedent. “At Grand Prix Birmingham there were 650 players and only 6 players with X-2 made Day Two. Maybe 5 or 10 will make it.”
 
 Last night Saito had been very happy to hear about the Grand Prix changes that were recently announced which state that every player with an X-2 record will advance to Day Two during the 2009 season. With Shuhei advancing to Day Two and him being one win away and about two months shy from being able to follow him through the draft tables the changes seemed much like his round eight result – a hollow victory. 
 

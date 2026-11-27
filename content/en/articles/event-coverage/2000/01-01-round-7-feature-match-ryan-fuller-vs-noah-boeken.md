@@ -44,7 +44,9 @@ archive_source:
   sha256: 7d8aac72ed18ca9a59155242d14bbcef72e09e6df1041514f4c1e52917b607fc
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/953.jpg)There is a lot in common between these two players, both of whom were on 6 - 0 and hoping for a perfect record going into the draft day tomorrow. The two are firm friends, both resident in Amsterdam, although Ryan is originally from Burnaby in Canada. Also they are both members of the same team, "AlphaBetaUnlimited.com" along with Chris Benafel, the winner of the previous European Grand Prix in Amsterdam. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/953.jpg)
+
+There is a lot in common between these two players, both of whom were on 6 - 0 and hoping for a perfect record going into the draft day tomorrow. The two are firm friends, both resident in Amsterdam, although Ryan is originally from Burnaby in Canada. Also they are both members of the same team, "AlphaBetaUnlimited.com" along with Chris Benafel, the winner of the previous European Grand Prix in Amsterdam. 
 
 **Game One** 
 
@@ -54,7 +56,9 @@ The creatures dropped Ryan to fourteen lives, and Noah used his Cavern Harpy to 
 
 Noah was really making Ryan pay for his mulligan as a Thunderscape Battlemage forced him to discard another two cards - his fourth enforced discard of the game. With Ryan reduced to only two cards in hand, and Noah holding Fact or Fiction, things were looking bad for the American. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/949.jpg)However, he had a try at turning things around when Ryan drew and cast a Crosis the Purger, although Noah could quite easily hold it at bay with the Cavern Harpy anyway. Boeken used a Fact or Fiction to fetch a Reckless Assault since he was so far ahead on life that he could simply kill Ryan with it, which is exactly what he did on the next turn. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/949.jpg)
+
+However, he had a try at turning things around when Ryan drew and cast a Crosis the Purger, although Noah could quite easily hold it at bay with the Cavern Harpy anyway. Boeken used a Fact or Fiction to fetch a Reckless Assault since he was so far ahead on life that he could simply kill Ryan with it, which is exactly what he did on the next turn. 
 
 **Game Two** 
 
@@ -76,7 +80,9 @@ He attacked with the Elemental, and played an Ertai the Corrupted as well, comme
 
 Noah finally drew a Swamp, and cast Exotic Curse on the Waterspout Elemental, turning it into Counterspell fodder for Ertai. Ryan certainly wasn't out of great creatures at this point, summoning a Voice of All. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/954.jpg)Boeken couldn't find any creatures big enough to deal with the Ertai, and when Noah cast Thunderscape Battlemage, the cards that Ryan discarded - including Urborg Emissary - suggested that Noah was in trouble. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/954.jpg)
+
+Boeken couldn't find any creatures big enough to deal with the Ertai, and when Noah cast Thunderscape Battlemage, the cards that Ryan discarded - including Urborg Emissary - suggested that Noah was in trouble. 
 
 Ryan cast Deliver to return the Exotic Curse to Noah's hand and attacked to reduce him to six. Noah had a good hand though, with the possibility to cast Rushing River and other spells because of the Nightscape Familiar he had cast. 
 

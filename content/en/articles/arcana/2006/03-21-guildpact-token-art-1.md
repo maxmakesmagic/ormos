@@ -111,7 +111,9 @@ render_recovery:
 ---
 * * *
 
-![Weird token](https://i.ormos.uk/ff/7d/ff7df7864627e15b4a77d691359428e87d974e7e82509d5d66fb6b555cf93f96.jpg "Weird token")When you crank out a token creature in ***Magic** Online*, the game doesn't tear off a piece of paper and scrawl "*saporling*" on it, or grab a face-down Swamp and call it good -- it mocks up a full-color card, complete with unique art, for that token creature. It follows that original art has to be commissioned for those token-generating cards. And it follows further that we'll show you high-resolution versions of them here in Magic Arcana. 
+![Weird token](https://i.ormos.uk/ff/7d/ff7df7864627e15b4a77d691359428e87d974e7e82509d5d66fb6b555cf93f96.jpg "Weird token")
+
+When you crank out a token creature in ***Magic** Online*, the game doesn't tear off a piece of paper and scrawl "*saporling*" on it, or grab a face-down Swamp and call it good -- it mocks up a full-color card, complete with unique art, for that token creature. It follows that original art has to be commissioned for those token-generating cards. And it follows further that we'll show you high-resolution versions of them here in Magic Arcana. 
 
 *Guildpact* is home to [several token-generating cards](https://web.archive.org/web/20060321000000/http://gatherer.wizards.com/?first=1&last=100&term=token&Field_Name=on&Field_Rules=on&Field_Type=on&setfilter=Guildpact&colorfilter=All&typefilter=All&output=summary&sort=name&x=38&y=25). Some use token art that was previously commissioned for *Ravnica: City of Guilds*; for example, Seize the Soul uses the same [1/1 white Spirit token with flying](https://i.ormos.uk/a8/25/a825363f3d920d23454578d462ae3d620c7bddb5471781f8d72406a2b1c8b086.jpg) that Transluminant and Twilight Drover used. 
 

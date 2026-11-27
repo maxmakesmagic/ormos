@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a969.jpg)These two are no strangers to the European Pro Tour circuit. In the last season Lippert piled up a very impressive record of three Grand Prix Top 8. Witt is another of the, seemingly infinite, horde of good Dutch players and recently, at Pro Tour Nice, made his claim to fame by winning the Masters. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a969.jpg)
+
+These two are no strangers to the European Pro Tour circuit. In the last season Lippert piled up a very impressive record of three Grand Prix Top 8. Witt is another of the, seemingly infinite, horde of good Dutch players and recently, at Pro Tour Nice, made his claim to fame by winning the Masters. 
 
 Not only did he win it by grinding in, taking his second Masters Grinder slot, but he also spread the love by making a large number of money splits along the way.
 
@@ -71,7 +73,9 @@ He blocked it with the Warthog and when the Strength of Isolation made its "enco
 
 Finally he played a second Strength of Isolation to save his Aquamoeba and a Obssesive Search to switch the power/toughness back again to kill the Warthog. If the huge Aquamoeba looked to be the king of the table Witt suddenly changed that. With his hand empty and only Krosan Restorer on the table he drew his card.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a967.jpg)Witt (smiling): "I really wanted this card. Nice topdeck."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a967.jpg)
+
+Witt (smiling): "I really wanted this card. Nice topdeck."
 
 Crush of Wurms. In came three huge tokens and Lippert slipped into a deep silence. He needed an emergency plan. Despite playing an extra blocker the next attack finished the game.
 
@@ -87,7 +91,9 @@ Christoph: "Not a nice way to start."
 
 Hydromorph Guardian showed up but the "Muffin" still pounced on. It even got a Strength of Isolation. Following the mood the Guardian got bigger with a Seton's Desire. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a968.jpg)As the German struggled to get out of his mana problems the Guardian brought him down to twelve. Finally the third land showed up. That allowed him to play Skywing Aven.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a968.jpg)
+
+As the German struggled to get out of his mana problems the Guardian brought him down to twelve. Finally the third land showed up. That allowed him to play Skywing Aven.
 
 But Witt was really enjoying being ahead of the game so he followed his Krosan Constrictor with Narcissism and sent his crew in. The Aven took out Constrictor before bouncing back to its master's hands.
 

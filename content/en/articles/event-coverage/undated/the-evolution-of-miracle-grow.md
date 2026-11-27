@@ -358,25 +358,37 @@ In Lisbon, I played a version of Super Grow that ran fewer lands, but still took
 
 ### Creature Roster
 
-![](https://i.ormos.uk/c7/41/c741a1c94278d224c000a240dcfe6d98093d87620edd6192a2d1ca41c79a1232.jpg)**Quirion Dryad** - When I first saw Comer's deck list, I assumed that Dryad was a cute but unnecessary card, played for the sake of originality alone. In fact, it is a powerful creature that can quickly grow into an unstoppable monster. Keep in mind that the Dryad gets a +1/+1 counter regardless of whether the spell you are casting resolves. The counters go on the stack, so a player with direct damage cards in his deck can potentially burn the Dryad in response. While it is an excellent turn 2 play, drawing a Dryad later in the game is not as good and it often ends up among the cards shuffled back into the deck with the Brainstorm/Flood Plains combo.
+![](https://i.ormos.uk/c7/41/c741a1c94278d224c000a240dcfe6d98093d87620edd6192a2d1ca41c79a1232.jpg)
 
-![](https://i.ormos.uk/b1/dc/b1dc36b7cf63d98fe8217b38c232f30256529f9acb92bdff2ef36e7510a4a7b3.jpg)**Werebear** - This creature seems tailor-made for the deck. It helps your mana base in the early game and is ready to attack for four by turn 5 or so. Werebear is especially important in the post-sideboard mirror matches. Since most Miracle Grow decks play Submerge, it is preferable to get Tropical Islands off the table with Gush and Daze once you have a Werebear in play - that way they are unlikely to ever be able to cast Submerge since board conditions no longer satisfy its alternative casting cost.
+**Quirion Dryad** - When I first saw Comer's deck list, I assumed that Dryad was a cute but unnecessary card, played for the sake of originality alone. In fact, it is a powerful creature that can quickly grow into an unstoppable monster. Keep in mind that the Dryad gets a +1/+1 counter regardless of whether the spell you are casting resolves. The counters go on the stack, so a player with direct damage cards in his deck can potentially burn the Dryad in response. While it is an excellent turn 2 play, drawing a Dryad later in the game is not as good and it often ends up among the cards shuffled back into the deck with the Brainstorm/Flood Plains combo.
+
+![](https://i.ormos.uk/b1/dc/b1dc36b7cf63d98fe8217b38c232f30256529f9acb92bdff2ef36e7510a4a7b3.jpg)
+
+**Werebear** - This creature seems tailor-made for the deck. It helps your mana base in the early game and is ready to attack for four by turn 5 or so. Werebear is especially important in the post-sideboard mirror matches. Since most Miracle Grow decks play Submerge, it is preferable to get Tropical Islands off the table with Gush and Daze once you have a Werebear in play - that way they are unlikely to ever be able to cast Submerge since board conditions no longer satisfy its alternative casting cost.
 
 **Meddling Mage** was, by far, the best part of this new version. This guy spends most of his time on Powder Keg or Pernicious Deed duty - those cards are devastating against any version of Miracle Grow, but most decks that play them cannot easily remove Meddling Mage. He is never truly bad, even in a mirror you can occasionally use him very effectively. For example, you could name Swords to Plowshares if you control a large Quirion Dryad. 
 
-![](https://i.ormos.uk/84/87/8487e881bf8fab9ff32d8b6f3ab73b9921d096ea0053a6f5bcfacd600f04127d.jpg)I was far less impressed with **Mystic Enforcer** though. Kibler seems to believe it is one of the better cards in the deck. I think it's rather unnecessary. The only good reason to keep them is because you want a few creatures that have a casting cost other than two mana - so that a Powder Keg that resolves does not totally wreck you. They were often being sideboarded out and did not play any relevant role in the mirror match. If I get an opportunity to play this deck in another tournament soon, I will most likely play main deck Legacy's Allure over the Enforcer. 
+![](https://i.ormos.uk/84/87/8487e881bf8fab9ff32d8b6f3ab73b9921d096ea0053a6f5bcfacd600f04127d.jpg)
+
+I was far less impressed with **Mystic Enforcer** though. Kibler seems to believe it is one of the better cards in the deck. I think it's rather unnecessary. The only good reason to keep them is because you want a few creatures that have a casting cost other than two mana - so that a Powder Keg that resolves does not totally wreck you. They were often being sideboarded out and did not play any relevant role in the mirror match. If I get an opportunity to play this deck in another tournament soon, I will most likely play main deck Legacy's Allure over the Enforcer. 
 
 **Merfolk Looter** was pretty solid. Two seems like the right number. You want them in the mirror and other matchups where a game is likely to last a while. They allow you to throw away the excess land (and drawing more than three is almost always an excess) and get rid of cards that are usually bad in that particular matchup, such as Winter Orb in the mirror.
 
 ### Spells
 
-![](https://i.ormos.uk/ec/97/ec977a710deb2083544847b97b3ee6f42953869803da7cb62643fbef8fa58705.jpg)Two key cards to operating a low mana ratio are **Sleight of Hand** and **Brainstorm**. Often you will keep a one-land hand as long as it contains one of these spells, letting you dig deeper into your library to find a second land or a Land Grant. In addition to helping you fix the mana base, these cards help grow your Dryad nice and big. Brainstorm also allows you to throw away unwanted cards with the help of two cards in the deck that allow you to reshuffle it - Land Grant and Flood Plains. That means you should hang on to an excess land rather than play it out. There are several uses for it in your hand - you can pitch them to Foil, shuffle them back with Land Grant, or use them if an opponent casts a discard spell like Gerrard's Verdict.
+![](https://i.ormos.uk/ec/97/ec977a710deb2083544847b97b3ee6f42953869803da7cb62643fbef8fa58705.jpg)
 
-![](https://i.ormos.uk/72/a5/72a54a02e1681d32965858d399b0bf73accbcf68d4aa338d237ce3fbe492a118.jpg)If any one card is crucial to the deck's success, it is **Land Grant**. Because it does not say "basic forest", Land Grant allows you to retrieve Tropical Island, or one copy of Savannah if you choose to play it. With such a low land count, you will occasionally have an option of keeping a hand with Land Grant as the only source of mana. Only do so if you also have a Force of Will to back it up. Since you are forced to reveal your hand as part of the casting cost, an opponent will realize you have no other land and counter Land Grant if he is able to do so. 
+Two key cards to operating a low mana ratio are **Sleight of Hand** and **Brainstorm**. Often you will keep a one-land hand as long as it contains one of these spells, letting you dig deeper into your library to find a second land or a Land Grant. In addition to helping you fix the mana base, these cards help grow your Dryad nice and big. Brainstorm also allows you to throw away unwanted cards with the help of two cards in the deck that allow you to reshuffle it - Land Grant and Flood Plains. That means you should hang on to an excess land rather than play it out. There are several uses for it in your hand - you can pitch them to Foil, shuffle them back with Land Grant, or use them if an opponent casts a discard spell like Gerrard's Verdict.
+
+![](https://i.ormos.uk/72/a5/72a54a02e1681d32965858d399b0bf73accbcf68d4aa338d237ce3fbe492a118.jpg)
+
+If any one card is crucial to the deck's success, it is **Land Grant**. Because it does not say "basic forest", Land Grant allows you to retrieve Tropical Island, or one copy of Savannah if you choose to play it. With such a low land count, you will occasionally have an option of keeping a hand with Land Grant as the only source of mana. Only do so if you also have a Force of Will to back it up. Since you are forced to reveal your hand as part of the casting cost, an opponent will realize you have no other land and counter Land Grant if he is able to do so. 
 
 With so many "free" or low casting cost cards in the deck, **Winter Orb** fits like a glove. It makes Daze a lot more powerful and generally makes it difficult for many of the other decks in the field to operate. Four copies of this artifact would be a no-brainer, except that it is worse than mediocre in the mirror match. Thus, we settle on three and, if you have room, playing a fourth in the sideboard is a solid option. 
 
-![](https://i.ormos.uk/67/36/67363fe16c04dd4f523859287404efb0ad5b980d615016666d6a0bf0423cbdee.jpg)**Gush** is excellent in the deck for many of the same reasons Winter Orb is. As you never really need more than three lands in play, the downside of Gush's alternative casting cost is negated. Gush also helps you operate under the Orb, allowing you to play a land each turn, accessing two mana per turn (one untapped, one played). Besides interacting well with Winter Orb, Gush and Daze also combo with Foil, providing the island you need to pitch to it when necessary. 
+![](https://i.ormos.uk/67/36/67363fe16c04dd4f523859287404efb0ad5b980d615016666d6a0bf0423cbdee.jpg)
+
+**Gush** is excellent in the deck for many of the same reasons Winter Orb is. As you never really need more than three lands in play, the downside of Gush's alternative casting cost is negated. Gush also helps you operate under the Orb, allowing you to play a land each turn, accessing two mana per turn (one untapped, one played). Besides interacting well with Winter Orb, Gush and Daze also combo with Foil, providing the island you need to pitch to it when necessary. 
 
 Miracle Grow does not rely on its countermagic all that heavily. There are a total of ten counterspells - **Force of Will**, **Foil**, and **Daze**. Use the first two sparingly, usually to counter cards that are otherwise devastating, such as Oath of Druids, or Powder Keg. Daze, on the other hand, should be used more aggressively, as the opportunity to catch your opponent tapped out is reduced later in the game. Finally, **Swords to Plowshares** provide an additional way to deal with opponent's creature threats.
 
@@ -384,7 +396,9 @@ Miracle Grow does not rely on its countermagic all that heavily. There are a tot
 
 ### Mirror Match
 
-![](https://i.ormos.uk/36/c9/36c92bca6d3cb3d2a8a42540a8538ba6eebc849741f9b62fb3b3ddb73a8ff3f8.jpg)This matchup is rather complicated and somewhat less luck-driven than most mirror matches. It plays out in several stages. Over the first few turns of the game, the most important thing is drawing land and Land Grant. If your opponent has only one land, it is almost always worth it to fight for their Land Grant in hopes of keeping them mana hosed for several turns, which almost always means game. If both players have access to two or more mana each, Daze becomes crucial as you fight it out for early Quirion Dryads and Gushes. Later in the game, Gush becomes extremely important as the deck to draw more relevant spells will usually win. Likewise, Looter is key here. The worst cards you have in the matchup are Meddling Mage and Winter Orb, but there is plenty in the sideboard to replace them.
+![](https://i.ormos.uk/36/c9/36c92bca6d3cb3d2a8a42540a8538ba6eebc849741f9b62fb3b3ddb73a8ff3f8.jpg)
+
+This matchup is rather complicated and somewhat less luck-driven than most mirror matches. It plays out in several stages. Over the first few turns of the game, the most important thing is drawing land and Land Grant. If your opponent has only one land, it is almost always worth it to fight for their Land Grant in hopes of keeping them mana hosed for several turns, which almost always means game. If both players have access to two or more mana each, Daze becomes crucial as you fight it out for early Quirion Dryads and Gushes. Later in the game, Gush becomes extremely important as the deck to draw more relevant spells will usually win. Likewise, Looter is key here. The worst cards you have in the matchup are Meddling Mage and Winter Orb, but there is plenty in the sideboard to replace them.
 
 -4 Meddling Mage  
  -3 Winter Orb  
@@ -399,7 +413,9 @@ One of the tricks to winning post-sideboarded games is to play around Submerge w
 
 ### Oath of Druids
 
-![](https://i.ormos.uk/02/af/02af3898eaf3df8950fe7d34bee36b0488330045a33c1f2c7bccffbd394acb4d.jpg)There are at least three distinct versions of Oath out there. TurboLand is one, spending many of the deck slots on the combo. Blue-green Oath also runs a lot of basic lands but uses the slots for additional countermagic, Kegs, and a number of other cards. The matchup against either of these decks is not very good, but it is definitely winnable. The worst Oath matchup are multi-color versions such as the ones played by Jensen in Houston, or Budde in Lisbon. A combination of Oath, Swords to Plowshares, Powder Keg, and occasionally Disrupt, becomes too much for Miracle Grow to handle.
+![](https://i.ormos.uk/02/af/02af3898eaf3df8950fe7d34bee36b0488330045a33c1f2c7bccffbd394acb4d.jpg)
+
+There are at least three distinct versions of Oath out there. TurboLand is one, spending many of the deck slots on the combo. Blue-green Oath also runs a lot of basic lands but uses the slots for additional countermagic, Kegs, and a number of other cards. The matchup against either of these decks is not very good, but it is definitely winnable. The worst Oath matchup are multi-color versions such as the ones played by Jensen in Houston, or Budde in Lisbon. A combination of Oath, Swords to Plowshares, Powder Keg, and occasionally Disrupt, becomes too much for Miracle Grow to handle.
 
 -3 Swords to Plowshares  
  -1 Quirion Dryad  
@@ -411,7 +427,9 @@ The way to play this matchup is to do everything you can to keep an Oath of Drui
 
 ### Sligh
 
-![](https://i.ormos.uk/7f/e8/7fe8dd0bb044e1364e063f06e7411635dac7829f41c86464d6bbdeaef529961a.jpg)Contrary to popular belief, this matchup is quite reasonable. Perhaps it is even slightly in favor of Grow. The key here is not to keep too many dual lands in play (Price of Progress can get very painful), and not to cast Werebears before you have threshold. Let them fight to kill Dryads before they grow big, and cast out your cantrips, racing to threshold. Daze and Winter Orb are both excellent in this matchup, and after sideboarding you can virtually lock your opponent with Winter Orb/Chill combo. If you suspect that your opponent plays Chimeric Idol (like Maher's version from Houston) or boards Powder Keg, it is reasonable to board in a pair of Seals of Cleansing as well. 
+![](https://i.ormos.uk/7f/e8/7fe8dd0bb044e1364e063f06e7411635dac7829f41c86464d6bbdeaef529961a.jpg)
+
+Contrary to popular belief, this matchup is quite reasonable. Perhaps it is even slightly in favor of Grow. The key here is not to keep too many dual lands in play (Price of Progress can get very painful), and not to cast Werebears before you have threshold. Let them fight to kill Dryads before they grow big, and cast out your cantrips, racing to threshold. Daze and Winter Orb are both excellent in this matchup, and after sideboarding you can virtually lock your opponent with Winter Orb/Chill combo. If you suspect that your opponent plays Chimeric Idol (like Maher's version from Houston) or boards Powder Keg, it is reasonable to board in a pair of Seals of Cleansing as well. 
 
 -4 Meddling Mage  
  -2 Foil  
@@ -422,7 +440,9 @@ The way to play this matchup is to do everything you can to keep an Oath of Drui
 
 ### Junk
 
-![](https://i.ormos.uk/5c/83/5c83ef8725bc132de95700b135ce5780257c30852af52b3e8daf2f06bd57cd44.jpg)Conventional wisdom is that this matchup is in favor of Junk, but my experience offers nothing to support this theory. My record against Junk has been something like 4-0 in Grand Prix, and 10-4 in testing. True, game one is relatively tough. However, sideboard is very solid here, Legacy's Allure once again being the star card. Sideboarding out Daze is tricky - you should not do it if your opponent expects you to. However, most people will keep Daze in this matchup, and so an average opponent will play around it, even though you do not have it in the deck anymore.
+![](https://i.ormos.uk/5c/83/5c83ef8725bc132de95700b135ce5780257c30852af52b3e8daf2f06bd57cd44.jpg)
+
+Conventional wisdom is that this matchup is in favor of Junk, but my experience offers nothing to support this theory. My record against Junk has been something like 4-0 in Grand Prix, and 10-4 in testing. True, game one is relatively tough. However, sideboard is very solid here, Legacy's Allure once again being the star card. Sideboarding out Daze is tricky - you should not do it if your opponent expects you to. However, most people will keep Daze in this matchup, and so an average opponent will play around it, even though you do not have it in the deck anymore.
 
 +4 Legacy's Allure  
  +1 Swords to Plowshares  

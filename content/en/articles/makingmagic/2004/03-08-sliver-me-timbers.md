@@ -89,7 +89,9 @@ Welcometo Sliver Week! After several weeks of messing around, I felt its time to
 
 ### “Slivers: The Untold Story”.
 
-![](https://i.ormos.uk/03/01/030139a36b6880d75ebd93bf725d8a2a8c30ceb4de8ee52ceb25dccc476c7c48.jpg)Slivers began their life in a **Magic** expansion called “Astral Ways”. Now, I don't expect you to recognize this name because it wasn't a set designed at Wizards of the Coast. It was a set designed by a **Magic** player in his spare time who felt that he could make a cool set. The important part of the story is the name of the player who designed the set. His name was Mike Elliott.
+![](https://i.ormos.uk/03/01/030139a36b6880d75ebd93bf725d8a2a8c30ceb4de8ee52ceb25dccc476c7c48.jpg)
+
+Slivers began their life in a **Magic** expansion called “Astral Ways”. Now, I don't expect you to recognize this name because it wasn't a set designed at Wizards of the Coast. It was a set designed by a **Magic** player in his spare time who felt that he could make a cool set. The important part of the story is the name of the player who designed the set. His name was Mike Elliott.
 
 For those of you that ever pay attention when I talk about designers, this name should ring a bell. Mike Elliott is one of the most prolific **Magic** designers in the history of the game. Mike and I have an ongoing argument about what person has designed the most **Magic** cards to see print. We're both sure it's one of us, but at that point we start deviating in our answer. (The real answer is me if you're curious, although keep in mind that I have the luxury of writing this column. That said, it's me.) Nonetheless, Mike's influence on the design of the game is tremendous. At one point though, Mike was just another **Magic** player who thought it would be cool to design his own set.
 

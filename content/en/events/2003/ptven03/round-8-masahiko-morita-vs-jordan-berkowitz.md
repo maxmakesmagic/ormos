@@ -105,7 +105,9 @@ Two players who are not even qualified for this event designed Jordan's deck. Un
 
 Had I walked past this match in the early turns I would have assumed I had stumbled upon a money draft. Jordan's turn two Wirewood Elf was answered by Masahiko's Sparksmith. Jordan used the elf while he had the chance to make a turn three Canopy Crawler showing Thoughtbound Primoc, Tephraderm, and Krosan Tusker. 5/5's on turn three can't be bad!
 
-![](http://www.wizards.com/sideboard/images/ptven03/a890.jpg)Masahiko played a Piledriver and killed the elf to fend off Tephraderm for a turn. Jordan bashed his opponent down to 13 with his monster and played a Thoughtbound Primoc—I don't know that there is a single wizard in the entire field. Masahiko dropped to 11 when he Solar Blasted and shot the Canopy Crawler with his Sparksmith—Blastoderm it aint! The match continued to have the look and feel of an *Onslaught* Limited event.
+![](http://www.wizards.com/sideboard/images/ptven03/a890.jpg)
+
+Masahiko played a Piledriver and killed the elf to fend off Tephraderm for a turn. Jordan bashed his opponent down to 13 with his monster and played a Thoughtbound Primoc—I don't know that there is a single wizard in the entire field. Masahiko dropped to 11 when he Solar Blasted and shot the Canopy Crawler with his Sparksmith—Blastoderm it aint! The match continued to have the look and feel of an *Onslaught* Limited event.
 
 Jordan last two land drops came into play tapped so the Tepraderm would have to wait and he played another Crawler showing the two beasts not scratched out on his opponent's score pad. At this point the only change in Jordan's life total was a single point from Wooded Foothills. When Masahiko played Skirk Prospector and a Clickslither he could let the insect and the Piledriver attack unscathed and he went to a relatively safe 15. On the other side of the table his opponent went to 6 when he shot down the bird beast.
 
@@ -131,7 +133,9 @@ Masahiko mulliganed twice which presented Jordan with a dilemma, "This is gettin
 
 Jordan pleaded with his deck, "C'mon stay on six deck...stay on six." He could not stay on six with only a comes-into-play tapped land, "For the love of god!" Jordan's deck does not mulligan especially well—especially with Canopy Crawler as a feature player. His five card hand was little better with a Tranquil Thicket as his only land. He had some cheap spells including Thoughtbound Primoc and Broodhatch Nantuko and decided against going to four.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a888.jpg)Masahiko offered no early pressure playing only lands for three turns. Jordan drew into a Wooded Foothills and a Contested Cliffs and was able to play his Primoc. Masahiko missed land number four and had no play either—his hand was all Goblin Goons and Shocks. Jordan also missed land number four but played his second Primoc after coming over for two in the air. Before the turn came back to him, Masahiko double shocked the freshly baked flier.
+![](http://www.wizards.com/sideboard/images/ptven03/a888.jpg)
+
+Masahiko offered no early pressure playing only lands for three turns. Jordan drew into a Wooded Foothills and a Contested Cliffs and was able to play his Primoc. Masahiko missed land number four and had no play either—his hand was all Goblin Goons and Shocks. Jordan also missed land number four but played his second Primoc after coming over for two in the air. Before the turn came back to him, Masahiko double shocked the freshly baked flier.
 
 Goblin Goon hit play the following turn but a Broodhatch Nantuko presented a logistical nightmare. Jordans still stuck on three lands but he kept drawing Shocks instead. With his Primoc getting in for two a turn it wouldn't be long before Masahiko would be in burn range. Masahiko played a Tephraderm and another Goon but his game was not going to be decided on the ground with a Baloth joining the Broodhatch at the gates. Primoc did 12 and four Shocks finished him off.
 

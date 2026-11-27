@@ -599,7 +599,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/f7/34/f734417066fd61636e8e7c7bcbd1ee565452185467b57499087d776000ad99d5.jpg)Welcome Johnnies and the Johnny-curious! What week Izzet again? Izzet the theme week I think it is? That's right, groaning masses, it's Izzet Week here at **magicthegathering.com**! With the next two thousand multi-syllabic words, I'll be taking an in-depth look at Snoop Dogg's favourite guild. You'd think that since the Izzet are the undisputed masters of spellcraft and invention, I would pay homage to their creativity by avoiding the painfully obvious Izzet puns. You'd be wrong. ([Don't you know how lazy I am](/en/articles/houseofcards/2006/02-22-sloth)?) 
+![](https://i.ormos.uk/f7/34/f734417066fd61636e8e7c7bcbd1ee565452185467b57499087d776000ad99d5.jpg)
+
+Welcome Johnnies and the Johnny-curious! What week Izzet again? Izzet the theme week I think it is? That's right, groaning masses, it's Izzet Week here at **magicthegathering.com**! With the next two thousand multi-syllabic words, I'll be taking an in-depth look at Snoop Dogg's favourite guild. You'd think that since the Izzet are the undisputed masters of spellcraft and invention, I would pay homage to their creativity by avoiding the painfully obvious Izzet puns. You'd be wrong. ([Don't you know how lazy I am](/en/articles/houseofcards/2006/02-22-sloth)?) 
 
 ### Izzet hot in here …
 
@@ -607,7 +609,9 @@ Let's talk a little about the Izzet. I'm sure Matt Cavotta is giving you the off
 
 In Ravnica, The Izzet run the Water Works, the Electric Company, and all four railroads. All of this stuff is powered, more or less, by djinni in a bottle. Rubbed in the appropriate manner, these djinni (and efreeti and weirds) “set free” the energy required to power up the Izzet laboratories, among other things. Not only did they create this infrastructure, but they keep it running. So if your bathroom drains are clogged, call the Izzet. If your television set is on the fritz, call the Izzet. If there's something strange in your neighbourhood, call the Ghostbusters. If you can't get a hold of them, call the Izzet.
 
-![](https://i.ormos.uk/c4/c8/c4c8a4dbf02fa992aab2f6b54fd5656c2bda8b27328c4ccaf1dc20d9f2e07821.jpg)Now, I know what you're thinking, “Maintaining sewers, hooking up Ravnican satellite dishes, busting ghosts and their shadowy councils. All of this sounds pretty clever to me, Chris, where does the stupid come in?”
+![](https://i.ormos.uk/c4/c8/c4c8a4dbf02fa992aab2f6b54fd5656c2bda8b27328c4ccaf1dc20d9f2e07821.jpg)
+
+Now, I know what you're thinking, “Maintaining sewers, hooking up Ravnican satellite dishes, busting ghosts and their shadowy councils. All of this sounds pretty clever to me, Chris, where does the stupid come in?”
 
 With their totally impractical clothing! Just look at them! If their Guildmage is any indication, the Izzet do all of this sewer-inventing, djinni-bottling, and elemental-crossbreeding in a costume (nay, a *get-up*) that is half Megaman, half Sgt. Peppers Lonely Hearts Club Band. Casual Fridays at the Izzet Lab is like Carnival in Rio de Janeiro. 
 
@@ -647,7 +651,9 @@ A few weeks ago, I detailed a complete blowout loss I suffered playing Online Cl
 
 And I loved it.
 
-![](https://i.ormos.uk/fa/9e/fa9e517bf9ad277cd2c9b25accf7cd1737bb858274e2338e5f4e42917be5703b.jpg)My opponent was Fire\_Head. The flyer was Uyo, Silent Prophet. The reason he was 25/25 was because he'd been the target of Inner Calm, Outer Strength, which had been copied twice. Inner Calm, Outer Strength counts cards in hand upon resolution, so although there were only three cards in hand at the time it was played, after it had been copied twice by Uyo, there were seven (the three original cards, plus the four returned lands). +7/+7 times three equals a very dead me.
+![](https://i.ormos.uk/fa/9e/fa9e517bf9ad277cd2c9b25accf7cd1737bb858274e2338e5f4e42917be5703b.jpg)
+
+My opponent was Fire\_Head. The flyer was Uyo, Silent Prophet. The reason he was 25/25 was because he'd been the target of Inner Calm, Outer Strength, which had been copied twice. Inner Calm, Outer Strength counts cards in hand upon resolution, so although there were only three cards in hand at the time it was played, after it had been copied twice by Uyo, there were seven (the three original cards, plus the four returned lands). +7/+7 times three equals a very dead me.
 
 Combining Uyo with the “wisdom” spells from *Saviors of Kamigawa* was a brilliant idea. So I decided to copy it. Replicate it, as it were. Being Green, Inner Calm, Outer Strength doesn't really fit into the Izzet theme, but Spiraling Embers sure does. Combined with our favourite Fork-ing Moonfolk, that's one small step for man, one giant ball of fire to the noggin for mankind!
 

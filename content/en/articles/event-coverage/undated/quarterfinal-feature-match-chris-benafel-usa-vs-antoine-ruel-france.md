@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Ben Ronaldson* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/842.jpg)The best two decks of the draft faced off in this quarterfinal matchup and both players were reasonably confident. Antoine was one of only two green players on the table and there were only three white players there too, so his green/white beating was of sturdy build. Chris, however, had built a r/b beatdown DOUBLE VOID deck. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/842.jpg)
+
+The best two decks of the draft faced off in this quarterfinal matchup and both players were reasonably confident. Antoine was one of only two green players on the table and there were only three white players there too, so his green/white beating was of sturdy build. Chris, however, had built a r/b beatdown DOUBLE VOID deck. 
 
 **Game 1** 
 
@@ -53,7 +55,9 @@ Antoine managed to draw a Shackles and some creatures from this point, but none 
 
 Antoine went first and took a bit of a risk with his 2-Plains hand. Sure enough, he managed to make his turn 2 Benalish Trapper, but stalled on 2 Plains until turn 4, incapable of casting anything on turn 3. Chris made an Aggressor on his turn 3. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/839.jpg)On Ruel's 4th turn, he was relieved to draw a forest and made a Quirion Sentinel, producing another green mana, and then lay his second Sentinel - this time naming 'Pink' mana and burned for 1. The Aggressor attacked and traded with one of the Sentinels, then the other Sentinel was immediately Zapped. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/839.jpg)
+
+On Ruel's 4th turn, he was relieved to draw a forest and made a Quirion Sentinel, producing another green mana, and then lay his second Sentinel - this time naming 'Pink' mana and burned for 1. The Aggressor attacked and traded with one of the Sentinels, then the other Sentinel was immediately Zapped. 
 
 In his 5th turn Antoine could play nothing and just said "go," then he played a Llanowar Knight on his 6th. Meanwhile, Benafel made his Sparring Golem and a Hooded Kavu. 
 

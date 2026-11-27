@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/dr2_1.jpg)Once hailed as the Canadian savior of the Tournament Report, Vancouver's Jeff Cunningham has been keeping a low profile of late. This may be partly because of the scandal some have called "ModoGate". His reserved demeanor hides one of the country's best gamers. Unfortunately, his Nationals hasn't gone according to plan, and he finds himself starting the second day at 3-3, needing to win out for a place in Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/dr2_1.jpg)
+
+Once hailed as the Canadian savior of the Tournament Report, Vancouver's Jeff Cunningham has been keeping a low profile of late. This may be partly because of the scandal some have called "ModoGate". His reserved demeanor hides one of the country's best gamers. Unfortunately, his Nationals hasn't gone according to plan, and he finds himself starting the second day at 3-3, needing to win out for a place in Top 8.
 
 Faced with a choice of [Lightning Greaves](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Greaves), [Nim Shrieker](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nim+Shrieker), [Neurok Spy](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Neurok+Spy) and [Predator's Strike](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Predator%27s+Strike), Cunningam was torn. At the last possible second he put the Spy down in front of him and shipped the rest. Later he would describe this as an uncharacteristic move for him. He likes to draft very aggressive red-black decks, but acknowledges that they can be a gamble. Needing to win out, he decided a shift to blue-based affinity was in order. Reports that blue was underdrafted yesterday further convinced him this was the right move.
 

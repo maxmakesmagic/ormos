@@ -105,21 +105,37 @@ Italy hosted what was, and probably will remain, the smallest Grand Prix of the 
 
 The small turnout did not prevent us from having a very impressive Top 8. With few other things going on in the world of **Magic**, let's take a quick look at the who's who at the top of this tournament.
 
-![](http://www.wizards.com/sideboard/images/GPNAP02/878.jpg)**8th place: Christoph Lippert** - This is the third Top 8 in a row for Lippert, and his fourth overall. Although without an impressive Pro Tour resume yet, he is certainly a player to watch. Is Lippert the next German wunderkind? I know I will be strongly considering him for my Fantasy Pro Tour-Nice team.
+![](http://www.wizards.com/sideboard/images/GPNAP02/878.jpg)
 
-![](http://www.wizards.com/sideboard/images/GPNAP02/874.jpg)**7th place: Raphael Levy** - An old hand at this and one of the more established players in this Top 8 (which is saying something, considering the list), Levy is one of three French players to make it to the single elimination rounds. I would write about France continuing to dominate the tournament scene, except that Germany placed four of its own into the Top 8!
+**8th place: Christoph Lippert** - This is the third Top 8 in a row for Lippert, and his fourth overall. Although without an impressive Pro Tour resume yet, he is certainly a player to watch. Is Lippert the next German wunderkind? I know I will be strongly considering him for my Fantasy Pro Tour-Nice team.
 
-![](http://www.wizards.com/sideboard/images/GPNAP02/882.jpg)**6th place: Iwan Tan** - Although certainly the least-familiar competitor in this Top 8, Tan is a fixture at the European Grand Prix circuit. As a matter of fact, I am not sure if he missed a single one over the last year or two. Tan was a finalist at Grand Prix-Moscow and his second Top 8 shows that, although he is not a dominant force on the GP scene yet, his performance in Russia was no fluke.
+![](http://www.wizards.com/sideboard/images/GPNAP02/874.jpg)
 
-![](http://www.wizards.com/sideboard/images/GPNAP02/920.jpg)**5th place: Patrick Mello** - One of Budde's closest friends, he is an awesome player as well. In fact, could Budde be so dominant without the ability to test against the likes of Mello and Baberowski on the regular basis? Mello has been making a lot of Top 8's lately and most of his losses on the Grand Prix circuit seem to be at Kai's hands.
+**7th place: Raphael Levy** - An old hand at this and one of the more established players in this Top 8 (which is saying something, considering the list), Levy is one of three French players to make it to the single elimination rounds. I would write about France continuing to dominate the tournament scene, except that Germany placed four of its own into the Top 8!
 
-![](http://www.wizards.com/sideboard/images/GPNAP02/948.jpg)**4th place: Olivier Ruel** - Already one of the more successful Grand Prix players of all time, Ruel is on fire. Coming off a Top 8 in PT-Osaka, he earned back-to-back Top 8 finishes in Barcelona and Naples. Ruel and I have been in a very close race for the third place in the Player of the Year race, behind Kai and Jens Thoren. Placing fourth in Naples, Ruel overcame me by 2 points - and with no Grand Prix on the horizon he will keep the lead, at least until Pro Tour-Nice.
+![](http://www.wizards.com/sideboard/images/GPNAP02/882.jpg)
 
-![](http://www.wizards.com/sideboard/images/GPNAP02/917.jpg)**3rd place: Kai Budde** - It was a rare occurrence - Budde made Top 8, but did not win the whole thing. The Juggernaut stayed at the top of the Swiss throughout the tournament and only lost to the eventual champion Pierre Malherbaud. Budde keeps picking up pro points. Depending on how PT-Nice turns out, the Player of the Year title may be locked in months before Worlds for the first time in history - certainly no players are seriously entertaining the notion of catching him right now.
+**6th place: Iwan Tan** - Although certainly the least-familiar competitor in this Top 8, Tan is a fixture at the European Grand Prix circuit. As a matter of fact, I am not sure if he missed a single one over the last year or two. Tan was a finalist at Grand Prix-Moscow and his second Top 8 shows that, although he is not a dominant force on the GP scene yet, his performance in Russia was no fluke.
 
-![](http://www.wizards.com/sideboard/images/GPNAP02/879.jpg)**2nd place: Jelger Wiegersma** - The only player from outside Germany and France to make a Top 8, Wiegersma represents the third of the European **Magic** powerhouses - The Netherlands. A Pro Tour regular with a solid resume, Wiegersma can still consider this to be his breakout season. He earned his first Pro Tour Top 8, placing third in New Orleans and has also two other Grand Prix Top 8 finishes in recent months. He finds himself currently tied for 7th place in PotY race with Meraghni, and should be qualified for the next couple of Masters tournaments.
+![](http://www.wizards.com/sideboard/images/GPNAP02/920.jpg)
 
-![](http://www.wizards.com/sideboard/images/GPNAP02/956.jpg)**1st: Pierre Malherbaud** - Though Pro Tour veteran and a Grand Prix fixture, the Top 8 has eluded Malherbaud for many years. He finally broke into one at Grand Prix-London last year. Convinced by friends to come to Naples because he needed pro points, he complied and was not disappointed. His current season standing is 21 thanks to the 6 points he earned for the win, placing Malherbaud on the gravy train for the next year. In addition to fame and cash, Malherbaud also won the original artwork for Goblin Raider, donated by artist Arnie Swekel who was signing at this tournament.
+**5th place: Patrick Mello** - One of Budde's closest friends, he is an awesome player as well. In fact, could Budde be so dominant without the ability to test against the likes of Mello and Baberowski on the regular basis? Mello has been making a lot of Top 8's lately and most of his losses on the Grand Prix circuit seem to be at Kai's hands.
+
+![](http://www.wizards.com/sideboard/images/GPNAP02/948.jpg)
+
+**4th place: Olivier Ruel** - Already one of the more successful Grand Prix players of all time, Ruel is on fire. Coming off a Top 8 in PT-Osaka, he earned back-to-back Top 8 finishes in Barcelona and Naples. Ruel and I have been in a very close race for the third place in the Player of the Year race, behind Kai and Jens Thoren. Placing fourth in Naples, Ruel overcame me by 2 points - and with no Grand Prix on the horizon he will keep the lead, at least until Pro Tour-Nice.
+
+![](http://www.wizards.com/sideboard/images/GPNAP02/917.jpg)
+
+**3rd place: Kai Budde** - It was a rare occurrence - Budde made Top 8, but did not win the whole thing. The Juggernaut stayed at the top of the Swiss throughout the tournament and only lost to the eventual champion Pierre Malherbaud. Budde keeps picking up pro points. Depending on how PT-Nice turns out, the Player of the Year title may be locked in months before Worlds for the first time in history - certainly no players are seriously entertaining the notion of catching him right now.
+
+![](http://www.wizards.com/sideboard/images/GPNAP02/879.jpg)
+
+**2nd place: Jelger Wiegersma** - The only player from outside Germany and France to make a Top 8, Wiegersma represents the third of the European **Magic** powerhouses - The Netherlands. A Pro Tour regular with a solid resume, Wiegersma can still consider this to be his breakout season. He earned his first Pro Tour Top 8, placing third in New Orleans and has also two other Grand Prix Top 8 finishes in recent months. He finds himself currently tied for 7th place in PotY race with Meraghni, and should be qualified for the next couple of Masters tournaments.
+
+![](http://www.wizards.com/sideboard/images/GPNAP02/956.jpg)
+
+**1st: Pierre Malherbaud** - Though Pro Tour veteran and a Grand Prix fixture, the Top 8 has eluded Malherbaud for many years. He finally broke into one at Grand Prix-London last year. Convinced by friends to come to Naples because he needed pro points, he complied and was not disappointed. His current season standing is 21 thanks to the 6 points he earned for the win, placing Malherbaud on the gravy train for the next year. In addition to fame and cash, Malherbaud also won the original artwork for Goblin Raider, donated by artist Arnie Swekel who was signing at this tournament.
 
 Naples itself is picturesque but not very interesting. However, it is within a 30-45 minute ride of Pompeii, a truly amazing place to visit for anyone interested in history or archaeology. I don't know about the other players, but Arnie Swekel and I made the trip and were not disappointed. I hope Wizards will continue to put tournaments in interesting locations like that.
 

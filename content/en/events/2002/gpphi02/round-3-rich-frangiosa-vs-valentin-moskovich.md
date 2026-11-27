@@ -176,7 +176,9 @@ render_recovery:
   - Wellwisher
   occurrences: 175
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a977.jpg)Valentin Moskovich is the hot player of the match, coming off his GP Cleveland victory and looking to make it two American Grand Prix in a row. Rich Frangiosa is a local boy, growing up only 15 minutes from the tournament site. He has an impressive resume, including a 6th place finish at Pro Tour DC and several other high finishes. He doesn't play as often as he used to, now focusing on outside concerns. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a977.jpg)
+
+Valentin Moskovich is the hot player of the match, coming off his GP Cleveland victory and looking to make it two American Grand Prix in a row. Rich Frangiosa is a local boy, growing up only 15 minutes from the tournament site. He has an impressive resume, including a 6th place finish at Pro Tour DC and several other high finishes. He doesn't play as often as he used to, now focusing on outside concerns. 
 
 ### Game 1
 
@@ -188,7 +190,9 @@ Frangiosa - 1, Moskovich - 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a978.jpg)Valentin elected to play and no one took a mulligan. His deck contained numerous cycling cards allowing him to play first despite the 3 color mana base. Playing only Swamps for the first 2 turns did, Valentin cycled another off color creature in response to Rich's Sparksmith. Unfortunately for Valentin, his 3rd turn land play came into play tapped, and Rich took advantage of this by summoning a 3/1 Spined Basher after attacking with the Sparksmith. Fortunately for Valentin, he drew a second red source, this time a mountain, to cycle Solar Blast and kill the Sparksmith.
+![](http://www.wizards.com/sideboard/images/gpphi02/a978.jpg)
+
+Valentin elected to play and no one took a mulligan. His deck contained numerous cycling cards allowing him to play first despite the 3 color mana base. Playing only Swamps for the first 2 turns did, Valentin cycled another off color creature in response to Rich's Sparksmith. Unfortunately for Valentin, his 3rd turn land play came into play tapped, and Rich took advantage of this by summoning a 3/1 Spined Basher after attacking with the Sparksmith. Fortunately for Valentin, he drew a second red source, this time a mountain, to cycle Solar Blast and kill the Sparksmith.
 
 Rich kept the attack going with a Nosy Goblin, but when Valentin summoned Disciple of Malice and Nantuko Husk, it stabilized the board. Valentin followed up by summoning Treespring Lorian and playing Contested Cliffs, planning on just picking off Rich's team one at a time. Rich managed to kill the Lorian, but Valentin came through with another bomb in Oversold Cemetery. With recurring beasts, Contested Cliffs, and 13 life, Valentin was able to take the game going away.
 
@@ -196,7 +200,9 @@ Frangiosa - 1, Moskovich - 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a979.jpg)Rich elected to play, and mulliganed down to 6. Valentin seemed happy with his 7. Rich again led off with a turn 2 Sparksmith, and that one play dominated the entire game. A turn 3 Goblin Sky Raider let Rich kill a Morph, and Embermage Goblin fell the next turn. It seemed like Valentin was trying to use the Sparksmith's drawback to kill Rich, and it did manage to get Rich down to 13. While keeping Valentin's side of the board clear, Rich was summoning evasion creatures in the form of Screeching Buzzard and Gluttonous Zombie.
+![](http://www.wizards.com/sideboard/images/gpphi02/a979.jpg)
+
+Rich elected to play, and mulliganed down to 6. Valentin seemed happy with his 7. Rich again led off with a turn 2 Sparksmith, and that one play dominated the entire game. A turn 3 Goblin Sky Raider let Rich kill a Morph, and Embermage Goblin fell the next turn. It seemed like Valentin was trying to use the Sparksmith's drawback to kill Rich, and it did manage to get Rich down to 13. While keeping Valentin's side of the board clear, Rich was summoning evasion creatures in the form of Screeching Buzzard and Gluttonous Zombie.
 
 At 9 life, Valentin began trying to stabilize with Treespring Lorian and Contested Cliffs. He used the Cliffs to kill Sparksmith, but Rich managed to kill the beast by shooting it with the Sparksmith for 2, and cycling Solar Blast to finish the job. Eventually, Rich's Buzzard and Goblin air force brought Valentin down to 3, when Chain of Plasma finished the job.
 

@@ -67,7 +67,9 @@ Alejandro 1 - 1 Mike
 
 Mike again played first turn Thunderscape Apprentice and second turn Rat (getting a Mourning this time). Alejandro then played a Kavu Aggressor (no kicker). Pustilnik is just so fond of Ravenous Rats that he played a second Rat (getting a Tsabo's Decree this time) and a Scared Puma. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/918.jpg)That innocent Puma killed the Aggressor because Alejandro misread it and thought it was safe to attack. Alejandro bounced slightly back by using a Zap to get rid of the Apprentice. When he forgot to draw the cantrip card Mike warned him about it to which Alejandro simply answered "I don't think it will make the difference" with a sad smile. Pustilnik then played a Viashino Grappler. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/918.jpg)
+
+That innocent Puma killed the Aggressor because Alejandro misread it and thought it was safe to attack. Alejandro bounced slightly back by using a Zap to get rid of the Apprentice. When he forgot to draw the cantrip card Mike warned him about it to which Alejandro simply answered "I don't think it will make the difference" with a sad smile. Pustilnik then played a Viashino Grappler. 
 
 Alejandro got a 3/3 token out of his Assault/Battery and let the Grappler pass to keep the Rats at bay. Good call, because Mike then played a Morgue Toad. The Spanish defense got bigger with a Caldera Kavu and he used a Scorching Lava to get rid of the Grappler when Mike sent it in again. The American thought long and hard and decided to use a Recover to get the Grappler back. 
 

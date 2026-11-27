@@ -219,7 +219,9 @@ Fortunately, Rosewater came up with the “sneak” mechanic (which would become
 
 An aside on ninjutsu… In Mark's Higure article, he mentions how he views the flavor of the ninjutsu mechanic. In his mind, the ninja are disguising themselves as things like Ornithopters and Durkwood Boars, and then unzipping their costumes at the last minute to do their dirty deeds. It probably goes without saying that other members of the creative team find this explanation a little silly and don't really endorse it. There are a couple of other ways of wrapping your brain around ninjutsu. For instance, imagine the ninja is using the Ornithopter or the Boars merely as a diversion, sneaking behind enemy lines while the opponent's gaze is directed elsewhere. Or, you can visualize our ninjas as having magical powers of illusion, powers they employ to deceive potential defenders.
 
-![](https://i.ormos.uk/9e/86/9e86c6073a09ee67d2d43e186c3720c5d79317d40da0f5b86d08404416a1724e.jpg)Or, if you like, you can continue imagining a ninja unzipping a boar suit just before he stabs you in the stomach.
+![](https://i.ormos.uk/9e/86/9e86c6073a09ee67d2d43e186c3720c5d79317d40da0f5b86d08404416a1724e.jpg)
+
+Or, if you like, you can continue imagining a ninja unzipping a boar suit just before he stabs you in the stomach.
 
 On to the ninja cards themselves. As I looked at our old notes from *Betrayers* development, I'm struck by how wildly some of the cards changed during the process. What that says to me is that no one had a good intuitive grasp on just how good or bad the ninjutsu mechanic was, and that we had to play the tar out of them all for a long time, both in limited and constructed, before I felt we were even in the ballpark. Some card-by-card notes:
 

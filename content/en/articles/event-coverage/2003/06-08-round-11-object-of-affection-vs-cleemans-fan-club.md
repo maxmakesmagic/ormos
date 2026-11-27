@@ -44,7 +44,9 @@ archive_source:
   sha256: e4b1ff5dc9a2d3c62061c9080961d8bb27d97a67d9822444433b0a42d000c882
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a900.jpg)With only one more round to go Object of Affection (Walamies, Thoren, Jonsson) need one more win to make the semi-finals. Standing in their way is the relatively unknown Danish team of Cleeman's Fan Club (Lasse Nørgaard, Martin Dang, Jens Balsby.) A win probably wouldn't help them make top 4 but it would mean money, Pro Points and a slot in PT Boston.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a900.jpg)
+
+With only one more round to go Object of Affection (Walamies, Thoren, Jonsson) need one more win to make the semi-finals. Standing in their way is the relatively unknown Danish team of Cleeman's Fan Club (Lasse Nørgaard, Martin Dang, Jens Balsby.) A win probably wouldn't help them make top 4 but it would mean money, Pro Points and a slot in PT Boston.
 
 <table><thead><tr><th></th>&#10;		<th></th>&#10;	</tr></thead><tbody><tr><td>A Tomi Walamies</td>&#10;			<td>vs</td>&#10;			<td>Lasse Nørgaard</td>&#10;		</tr><tr><td>B Jens Thoren</td>&#10;			<td>vs</td>&#10;			<td>Martin Dang</td>&#10;		</tr><tr><td>C Anton Jonsson</td>&#10;			<td>vs</td>&#10;			<td>Jens Balsby</td>&#10;		</tr></tbody></table>
 
@@ -74,7 +76,9 @@ Nørgaard 1-1 Walamies
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a901.jpg)Nørgaard surprised in Game 3 by Plainscycling a [Noble Templar](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noble+Templar) to get a plains from his deck. He didn't have a beast to amplify his [Canopy Crawler](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Canopy+Crawler) though and just concentrated on the beats as a [Screeching Buzzard](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Screeching+Buzzard) hit the table.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a901.jpg)
+
+Nørgaard surprised in Game 3 by Plainscycling a [Noble Templar](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noble+Templar) to get a plains from his deck. He didn't have a beast to amplify his [Canopy Crawler](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Canopy+Crawler) though and just concentrated on the beats as a [Screeching Buzzard](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Screeching+Buzzard) hit the table.
 
 Walamies next turn was cute. He sacrificed [Symbiotic Elf](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Symbiotic+Elf) and the resulting insects to boost a [Carrion Feeder](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carrion+Feeder) to 4/4 then negated the card disadvantage with a [Caller of the Claw](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Caller+of+the+Claw).
 

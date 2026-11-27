@@ -47,7 +47,9 @@ render_recovery: []
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a357.jpg)There is no love lost between these two big name competitors (reference Team ABU vs. Potato Nation at the last PTNY), and sparks were sure to fly when they had to face off against one another. Both were playing green/blue oath, but Benafel's deck is also running the Illusions/Donate combo.
+![](http://www.wizards.com/sideboard/images/mastersnice02/a357.jpg)
+
+There is no love lost between these two big name competitors (reference Team ABU vs. Potato Nation at the last PTNY), and sparks were sure to fly when they had to face off against one another. Both were playing green/blue oath, but Benafel's deck is also running the Illusions/Donate combo.
 
 Benafel was anticipating heavy scrutiny from Wise, so he asked the table judge to check his own deck for marked sleeved before Wise even sat down. The judge okayed them. Wise sat down, and then quickly jumped back up and huddled and whispered with head judge Rune Horvik for a few seconds. As he sat back down, Benafel snickered, "Is there a problem Gary? Seeing things?"
 
@@ -96,7 +98,9 @@ Luckily for all involved, they played quietly for a while, and the game itself h
 
 Wise passed on his own turn, and Benafel decided to start a permission war. He cast his own AK and drew three. He then cast another AK, which would have been for four. Wise said, "That one's not so easy." Then the stack started growing.
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a335.jpg)Wise cast Counterspell targeting the AK. Benafel responded with a Brainstorm, which Wise let resolve. Benafel then added his own Counterspell to the stack. Wise cast another AK, which Chris let resolve, drew four, and then cast yet another Counterspell, this one targeting Benafel's Counter. Benafel pitched a card to Force of Will. Gary then cast ANOTHER AK, hoping to draw five more cards, but Benafel had another Force of Will. Wise, with a hand full of cards, Forced back. His AK finally resolved, he drew five, then Forced Benafel's original AK. Sure, Benafel didn't get to draw many cards, but he got Wise down to three untapped land.
+![](http://www.wizards.com/sideboard/images/mastersnice02/a335.jpg)
+
+Wise cast Counterspell targeting the AK. Benafel responded with a Brainstorm, which Wise let resolve. Benafel then added his own Counterspell to the stack. Wise cast another AK, which Chris let resolve, drew four, and then cast yet another Counterspell, this one targeting Benafel's Counter. Benafel pitched a card to Force of Will. Gary then cast ANOTHER AK, hoping to draw five more cards, but Benafel had another Force of Will. Wise, with a hand full of cards, Forced back. His AK finally resolved, he drew five, then Forced Benafel's original AK. Sure, Benafel didn't get to draw many cards, but he got Wise down to three untapped land.
 
 Benafel paid the upkeep for Illusions and the got very lucky, drawing a Counterspell off the top. He cast Donate. Wise returned three Islands to Thwart. Benafel Counterspelled. Wise cast another AK – this one for seven cards! But no free counter came forth. He used his last mana to Brainstorm, but no luck. Donate resolved.
 
@@ -104,7 +108,9 @@ Wise had one last chance. He untapped, drew, and played a Spike Feeder. But some
 
 Benafel 1 – Wise 0
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a355.jpg)Benafel sided out his combo and opted for counter-control with Roar of the Wurm, Spike Weaver, and Treetop Village as the win condition. Wise fell for it, siding out all of his creature control and tried to go beatdown with Call of the Herd.
+![](http://www.wizards.com/sideboard/images/mastersnice02/a355.jpg)
+
+Benafel sided out his combo and opted for counter-control with Roar of the Wurm, Spike Weaver, and Treetop Village as the win condition. Wise fell for it, siding out all of his creature control and tried to go beatdown with Call of the Herd.
 
 The two were at each others' throats again at the beginning of the match, but eventually they got bored with antagonizing one another.
 
@@ -112,7 +118,9 @@ Wise resolved a Call of the Herd, but Benafel had a Keg. Benafel had a slow star
 
 Benafel calmly untapped, played a land, and tapped five for Submerge, putting the Morphling back on top of Wise's library. The Thwart looked good initially, but it cost Wise major tempo.
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a356.jpg)Benafel Kegged away the elephant token, and resolved a Spike Weaver. Wise flashed back the Call, and the two 3/3's stared at each other for about ten turns. Eventually Benafel got up to eight cards in hand, and discarded a Roar of the Wurm. Wise grimaced, realizing that he had no good way of stopping 6/6 creatures.
+![](http://www.wizards.com/sideboard/images/mastersnice02/a356.jpg)
+
+Benafel Kegged away the elephant token, and resolved a Spike Weaver. Wise flashed back the Call, and the two 3/3's stared at each other for about ten turns. Eventually Benafel got up to eight cards in hand, and discarded a Roar of the Wurm. Wise grimaced, realizing that he had no good way of stopping 6/6 creatures.
 
 Benafel cast the Roar from his graveyard. Wise resolved both parts of another Call. Benafel cast another 7-mana Roar from his hand, and then countered one half of Wise's third Call. The board was quickly filling up with tokens.
 

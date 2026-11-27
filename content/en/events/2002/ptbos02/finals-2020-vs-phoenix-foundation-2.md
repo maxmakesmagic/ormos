@@ -142,7 +142,9 @@ render_recovery:
   - Wormfang Manta
   occurrences: 123
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a743.jpg)As Marco and Elijah settled into play their match the seasoned veteran explained to the rookie that he could not have paper on the table while the match was underway. Elijah was uncomfortable not tracking his own life totals but the judge put his concerns to rest by explaining how that he would keep track of the definitive life totals and both players would have constant access to the information.
+![](http://www.wizards.com/sideboard/images/ptbos02/a743.jpg)
+
+As Marco and Elijah settled into play their match the seasoned veteran explained to the rookie that he could not have paper on the table while the match was underway. Elijah was uncomfortable not tracking his own life totals but the judge put his concerns to rest by explaining how that he would keep track of the definitive life totals and both players would have constant access to the information.
 
 Before they could even begin playing, Dirk shocked the room by announcing that he was somehow down a game before Marco and Elijah had even flipped a coin.
 
@@ -190,7 +192,9 @@ Marco sent everyone in again except for a lone Mystic Familiar. He then played a
 
 Marco = 4 Elijah = 4
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a741.jpg)Marco double blocked the Dragon and prevented a point of damage to himself and that folks was the ballgame.
+![](http://www.wizards.com/sideboard/images/ptbos02/a741.jpg)
+
+Marco double blocked the Dragon and prevented a point of damage to himself and that folks was the ballgame.
 
 Game score: Marco – 1 Elijah – 0
 
@@ -220,7 +224,9 @@ Marco = 20 Elijah = 14
 
 At this point we all found at that Dirk had lost his match. 
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a742.jpg)Elijah tried to keep advancing his board position and made two bear tokens with Grizzly Fate. Marco continued to send his collection of enchantments into the red zone and there was nothing that Elijah could do but watch his life slip away in fifths.
+![](http://www.wizards.com/sideboard/images/ptbos02/a742.jpg)
+
+Elijah tried to keep advancing his board position and made two bear tokens with Grizzly Fate. Marco continued to send his collection of enchantments into the red zone and there was nothing that Elijah could do but watch his life slip away in fifths.
 
 Marco = 20 Elijah = 10
 

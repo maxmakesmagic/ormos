@@ -50,7 +50,9 @@ L'appareillement n'était pourtant pas en faveur de Raphaël Lévy. L'Accelerate
 
 Rickard rentre ses Biologistes, le 1/1 qui contre les sorts de non-créatures. Cette carte est à l'origine des défaites de Raphaël et c'est qui va se passer dans cette partie. Rickard locke Raphaël au Biologiste en le protégeant à l'aide de ses contres et en génant avec ses ports. 1-1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/399.JPG)Raphaël reussit ici un brillant tour 4 Replenish salvateur. 2-1
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/399.JPG)
+
+Raphaël reussit ici un brillant tour 4 Replenish salvateur. 2-1
 
 Rickard parvient encore a locker Raph qui concède rapidement. 2-2
 

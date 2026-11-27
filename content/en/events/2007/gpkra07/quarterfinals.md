@@ -97,7 +97,9 @@ David suspended Ancestral Visions off his first Island. "We know who's winning t
 
 Phyrexian Ironfoot snowed in for David. It must have felt nice and cosy under the Oblivion Ring Cheon gave to the Ironfoot as a present. The American had less mana, but used it more efficiently, suspending Ancestral Visions. However, having lots of mana is good when you are fighting a counterwar over a morph, like these two did. David managed to make the mystery creature stick with the help of Cryptic Command, but it tapped him out.
 
-![](https://i.ormos.uk/e5/eb/e5ebb758f37b871078ab6646576e23f619130bdad1eac3d9d90601d5439ba9e9.jpg)Cheon used the opening to make a mystery monster himself. His five to David's nine lands made all the difference when the Italian played Teferi. Cheon couldn't stop the Mage of Zhalfir other than killing it in combat. With his own Vesuvan Shapeshifter gone, David saw the way clear to do what Cheon did in Game 1: Lock his opponent out with the Pickles combo.
+![](https://i.ormos.uk/e5/eb/e5ebb758f37b871078ab6646576e23f619130bdad1eac3d9d90601d5439ba9e9.jpg)
+
+Cheon used the opening to make a mystery monster himself. His five to David's nine lands made all the difference when the Italian played Teferi. Cheon couldn't stop the Mage of Zhalfir other than killing it in combat. With his own Vesuvan Shapeshifter gone, David saw the way clear to do what Cheon did in Game 1: Lock his opponent out with the Pickles combo.
 
 David Besso 1 – 1 Paul Cheon  
  Both players adjusted their decks:
@@ -116,7 +118,9 @@ So did David, but he used Faerie Trickery to fail Cheon's attempt at Venser, Sha
 
 Cryptic Command saved the Chronicler, bouncing Teferi. Cheon decided not to try for the Mage again, instead making a mystery creature. Clearly, it had to be a Vesuvan Shapeshifter. Chronicler hit the American for the full seven, down to 11. At the end of his own turn, David flinched and added Teferi to his board, for no apparent reason other than to have it. Cheon put Aeon Chronicler under the charm of an Oblivion Ring.
 
-![](https://i.ormos.uk/30/f1/30f11f766fdddd6551b92530e3f4a2369b575db3f55e1a17c4dec0e5aa0a443b.jpg)Teferi traded with the morph, the obvious Shapeshifter. While Cheon successfully suspended a second Ancient Visions, his attempt at another morph met one of those really nifty Italian Legends Remove Souls. David seemingly had an unending stream of countermagic, first stopping Cheon's Teferi with Faerie Trickery and then using another Faerie Trickery against Ancestral Visions.
+![](https://i.ormos.uk/30/f1/30f11f766fdddd6551b92530e3f4a2369b575db3f55e1a17c4dec0e5aa0a443b.jpg)
+
+Teferi traded with the morph, the obvious Shapeshifter. While Cheon successfully suspended a second Ancient Visions, his attempt at another morph met one of those really nifty Italian Legends Remove Souls. David seemingly had an unending stream of countermagic, first stopping Cheon's Teferi with Faerie Trickery and then using another Faerie Trickery against Ancestral Visions.
 
 Rune Snag hit Cheon's second Teferi, he paid. Another Snag hit, he paid. A third Rune Snag hit. Cheon removed a bunch of counters from his storage land to pay for Cryptic Command, and all over sudden, Teferi was in play, Cheon's Ancestral Visions resolved and Jace Beleren went unhindered.
 

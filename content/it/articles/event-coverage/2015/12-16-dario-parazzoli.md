@@ -62,6 +62,8 @@ Top 8 ai Nazionali Italiani 2000
 
 Gioco a Magic a Milano dai tempi delle Dark in inglese, fine '94, e ho avuto il privilegio di imparare da una donna (la mia Master di Giochi di Ruolo). Del resto, non trovo che ci sia conflitto alcuno tra Giochi di Ruolo e Magic, di Magic apprezzo la dimensione competitiva.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/Parazzoli2.jpg)Il mio mazzo preferito? Blu Controllo o Nero Controllo...(ride)... non scherziamo: gioco Mono Verde da anni... Per il formato invece preferisco il limited, senza dubbio: un buon giocatore di limited è anche forte in constructed, non necessariamente vice-versa.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/Parazzoli2.jpg)
+
+Il mio mazzo preferito? Blu Controllo o Nero Controllo...(ride)... non scherziamo: gioco Mono Verde da anni... Per il formato invece preferisco il limited, senza dubbio: un buon giocatore di limited è anche forte in constructed, non necessariamente vice-versa.
 
 Come prevedo che andranno gli Europei? Non punterei su un italiano, purtroppo. In italia si fa troppo poco playtesting, la gente preferisce uscire la sera piuttosto che farsi un booster draft. Io personalmente mi vedo in un bel 1-5... scaramantico.

@@ -181,7 +181,9 @@ Our apologies,
   
   
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a951.jpg)Actually, the truth is that three out of three feature matches I've covered today involved savagely one-sided facesmashery. Which of the two competitors emerged victorious from this battle royale?
+![](http://www.wizards.com/sideboard/images/gpphi02/a951.jpg)
+
+Actually, the truth is that three out of three feature matches I've covered today involved savagely one-sided facesmashery. Which of the two competitors emerged victorious from this battle royale?
 
 ### Game 1
 

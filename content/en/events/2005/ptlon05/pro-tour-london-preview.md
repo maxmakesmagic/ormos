@@ -119,7 +119,9 @@ Olivier Ruel
 
 With the emphasis on the number of cards a player has in hand that *Saviors* introduced, several cards have seen their stock take a tremendous upturn. None have gone up as much as the Okiba-Gang with at least one Limited pundit claiming that he now drafts the Mind-Rot-on-wheels higher than Horobi's Whisper. That opinion is shared by some, but it is far from a consensus. It is sure to be a story that will warrant further attention over the weekend. Look for an article polling the game's top Limited players as to the correct answer as well as draft coverage focusing on this particular pick.
 
-![](https://i.ormos.uk/d4/7a/d47a568b6c45be9b2ead40c59e749ba5192ecc0c832cf5f708c39015d7b2b2c8.jpg)Any cards that affect the number of cards a player is holding have gone up in value, whether it is by discard (Waking Nightmare, Three Tragedies, and Okiba-Gang Shinobi) or card drawing (Counsel of the Soratami, Soratami Cloudskater, and Honden of Seeing Winds). It will be interesting to see how players lay the groundwork in *Champs* and *Betrayers* for the third pack and how well it pays off. 
+![](https://i.ormos.uk/d4/7a/d47a568b6c45be9b2ead40c59e749ba5192ecc0c832cf5f708c39015d7b2b2c8.jpg)
+
+Any cards that affect the number of cards a player is holding have gone up in value, whether it is by discard (Waking Nightmare, Three Tragedies, and Okiba-Gang Shinobi) or card drawing (Counsel of the Soratami, Soratami Cloudskater, and Honden of Seeing Winds). It will be interesting to see how players lay the groundwork in *Champs* and *Betrayers* for the third pack and how well it pays off. 
 
 Making its debut this Pro Tour will be a new way to review the Top 8 draft. No more trying to reconstruct that draft by merely reading one reporter's view of the events. Instead, you'll be able to see the contents of each pack just like a player would, and then see which card the player selected and which cards he passed along -- and you'll be able to do this from the seat of each of the players!
 

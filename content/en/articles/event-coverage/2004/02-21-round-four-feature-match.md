@@ -44,7 +44,9 @@ archive_source:
   sha256: ea6dfbbc8d7925a340a9a502ce024d644adbc7fcfc257264a8df8169e1e6c5b4
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmad04/r4fm2_1.jpg)The long wait is finally over for the three-bye players. They've enjoyed their rest and now they have to shuffle up their decks. Rosa earned his spot by ranking or Pro Tour points while Horno earned his by trial.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmad04/r4fm2_1.jpg)
+
+The long wait is finally over for the three-bye players. They've enjoyed their rest and now they have to shuffle up their decks. Rosa earned his spot by ranking or Pro Tour points while Horno earned his by trial.
 
 ### Game 1
 

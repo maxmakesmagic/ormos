@@ -72,13 +72,17 @@ render_recovery: []
 
 *Profiles by Brian David-Marshall*
 
-[![](https://i.ormos.uk/41/4f/414f957eda2056205cd6a6b3986ccf7a5b18b859e1fa7a65d752530d0a89f062.jpg)](https://web.archive.org/web/20070607000000/http://boards1.wizards.com/showthread.php?t=861977)Welcome to the voting for the 11th annual **Magic** Invitational!
+[![](https://i.ormos.uk/41/4f/414f957eda2056205cd6a6b3986ccf7a5b18b859e1fa7a65d752530d0a89f062.jpg)](https://web.archive.org/web/20070607000000/http://boards1.wizards.com/showthread.php?t=861977)
+
+Welcome to the voting for the 11th annual **Magic** Invitational!
 
 I can think of no better way to kick off the 2007 Invitational than to give one of these five frequent fliers one more stop on their 2007 itinerary. The Road Warrior category was created to reward players who fully embody the Pro Tour lifestyle—or perhaps Grand Prix lifestyle is more apropos, as GP attendance was the difference maker on this year’s ballot. Each of the candidates attended at least 10 Grand Prix tournaments in the 2006 season, spanning three different continents. Often that meant setting up camp in their destinations, hanging out with their worldwide social network of friends to hone their game and explore the world. 
 
 ### Winner: Raphaël Lévy (43.3% of votes)
 
-![](https://i.ormos.uk/e7/3f/e73fe07cd41fd5b9a8d098a5a5ab1b58f7ebdec4f2ffbbf7f327d0bb38376e74.jpg)Before the current season, Hall of Famer Raphaël Lévy last won a Grand Prix a full decade ago in Lyon. It was not for the lack of trying, as well as a ton of close calls as Lévy appeared in a Grand Prix Top 8 10 more times over the intervening years. After hitting 12 Grand Prix in 2006, his Hall of Fame induction seemed to spur Raph to new heights as his 2007 season has been nothing short of stunning, with wins in Dallas and Singapore on consecutive weekends. After waiting 10 years for his second Grand Prix trophy he didn’t even need to wait 10 days for his third—although he did have to travel almost 10,000 miles to get it. There's no sign that this Hall of Famer is resting on his laurels, as he has already been to six Grand Prix this season.
+![](https://i.ormos.uk/e7/3f/e73fe07cd41fd5b9a8d098a5a5ab1b58f7ebdec4f2ffbbf7f327d0bb38376e74.jpg)
+
+Before the current season, Hall of Famer Raphaël Lévy last won a Grand Prix a full decade ago in Lyon. It was not for the lack of trying, as well as a ton of close calls as Lévy appeared in a Grand Prix Top 8 10 more times over the intervening years. After hitting 12 Grand Prix in 2006, his Hall of Fame induction seemed to spur Raph to new heights as his 2007 season has been nothing short of stunning, with wins in Dallas and Singapore on consecutive weekends. After waiting 10 years for his second Grand Prix trophy he didn’t even need to wait 10 days for his third—although he did have to travel almost 10,000 miles to get it. There's no sign that this Hall of Famer is resting on his laurels, as he has already been to six Grand Prix this season.
 
 ### Tiago Chan (20.0%)
 

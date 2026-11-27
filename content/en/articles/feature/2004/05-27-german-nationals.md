@@ -70,7 +70,9 @@ render_recovery:
 ---
 ### *Fifth Dawn*
 
-![](https://i.ormos.uk/9e/9f/9e9f97d017416bca2546a0dc61751ede14ddc86929bee51fc9de14b9fd85437f.jpg)This weekend players were introduced to the joys of Sunburst as they got to compete in a series of *Fifth Dawn* pre-release tournaments around the globe. While the new set looks to be about average impact for constructed (of course, you may have heard such statements from would-be **Magic** pundits even about *Apocalypse*, but until I am proven otherwise…) but it looks to be an absolute blast in Limited. 
+![](https://i.ormos.uk/9e/9f/9e9f97d017416bca2546a0dc61751ede14ddc86929bee51fc9de14b9fd85437f.jpg)
+
+This weekend players were introduced to the joys of Sunburst as they got to compete in a series of *Fifth Dawn* pre-release tournaments around the globe. While the new set looks to be about average impact for constructed (of course, you may have heard such statements from would-be **Magic** pundits even about *Apocalypse*, but until I am proven otherwise…) but it looks to be an absolute blast in Limited. 
 
 Players are already often encouraged to use off-color lands in order to take advantage of the six common artifact lands available between *Mirrodin* and *Darksteel*. They will now be further rewarded with Sunburst. Brian-David Marshall has already talked up the virtues of [Pentad Prism](https://web.archive.org/web/20040527000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pentad+Prism) in [his article](https://web.archive.org/web/20040527000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/bd125) – a card that will let you “Ritual” out a five casting cost creature on turn 3 while possibly fixing your mana in the process, it is just one of many ways in which the Limited format will change now. Unfortunately for me, I had to work this weekend and could not play in the Pre-Release myself, so I do not want to attempt discussing strategy prior to gaining actual experience, but even with this limited amount of information *Fifth Dawn* has succeeded in reinvigorating my interest in booster draft, so I should have something more to say on the subject soon enough.
 

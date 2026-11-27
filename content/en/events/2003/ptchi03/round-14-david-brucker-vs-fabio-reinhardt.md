@@ -123,11 +123,15 @@ render_recovery:
   - Walking Desecration
   occurrences: 97
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a727.jpg)One match for the Top 8. Five players were in and three last feature matches would decide the other three invitations to Sunday's festivities. One of those matches pitted two Germans against each other. "German Juggernaut" Kai Budde had long since clinched his own berth in the Top 8, but reigning European Champion David Brucker and up-and-coming Fabio Reinhardt were duking it out for the right to join him there. Both drafted green-black decks and both were 2-0 so far and hoping to win table #2.
+![](http://www.wizards.com/sideboard/images/ptchi03/a727.jpg)
+
+One match for the Top 8. Five players were in and three last feature matches would decide the other three invitations to Sunday's festivities. One of those matches pitted two Germans against each other. "German Juggernaut" Kai Budde had long since clinched his own berth in the Top 8, but reigning European Champion David Brucker and up-and-coming Fabio Reinhardt were duking it out for the right to join him there. Both drafted green-black decks and both were 2-0 so far and hoping to win table #2.
 
 Brucker had many large monsters in game 1: Hystrodon, Spitting Gourna, and Barkhide Mauler all hit the table by turn 6. However, Reinhardt was the one attacking because he had enough random dorks to block up the ground and he had a pair of evasion creatures in the form of Elven Riders and Severed Legion. Brucker gave a Primal Boost to his freshly cast Screeching Buzzard and that dealt with the Riders. He was down to 5, however, and Reinhardt shoved everyone into the red zone for what he hoped would be a lethal alpha strike. Brucker's Cruel Revival kept him alive, but he had to point it at a Symbiotic Wurm so all it did was prolong the inevitable. Brucker looked at one more draw phase and then scooped.
 
-![](https://i.ormos.uk/2f/d4/2fd4735412d22fb57d9323664299c0b171dd2dd9a1d07771d9e9cc3e08e07293.jpg)Reinhardt smashed him again in game 2. Brucker's draw was painfully slow: his very first spell was a turn 5 Barkhide Mauler. By then Reinhardt had out four creatures, despite having gone second. Wirewood Pride for 3 meant Reinhardt's Wirewood Elf beat up the mauler in combat and Reinhardt still had enough mana left over to play another guy face-down. Brucker's turn 6 answer: cycle Barren Moor ... go.
+![](https://i.ormos.uk/2f/d4/2fd4735412d22fb57d9323664299c0b171dd2dd9a1d07771d9e9cc3e08e07293.jpg)
+
+Reinhardt smashed him again in game 2. Brucker's draw was painfully slow: his very first spell was a turn 5 Barkhide Mauler. By then Reinhardt had out four creatures, despite having gone second. Wirewood Pride for 3 meant Reinhardt's Wirewood Elf beat up the mauler in combat and Reinhardt still had enough mana left over to play another guy face-down. Brucker's turn 6 answer: cycle Barren Moor ... go.
 
 Dirk Baberowski proclaimed three rounds ago "All I know is, by the end of this tournament, world order will be restored." Well Kai will have some company in his attempt to reassert German's world dominance ... welcome a new German to the top 8, boys. 
 

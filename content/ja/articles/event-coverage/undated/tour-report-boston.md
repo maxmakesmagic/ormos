@@ -194,7 +194,9 @@ render_recovery:
 
 ### ・Hato “Beeam"
 
-![](http://www.wizards.com/sideboard/images/ptbos02/845.jpg)　チーム名のスペル間違いを指摘されて大慌てだったのも印象的なHato Beam。檜垣貴生のワントップというイメージがありますが、おおいそ大礒正嗣と上野一樹もツアー初参戦とは思えない勝負強さを随所で見せ付けてくれました。彼らはFireballとならんで見事に土曜日進出を果たし、[第 9 ラウンド](/ja/events/2002/ptbos02/9-hato-beam-vs-goldmember)にはOlle RadeひきいるGoldmemberを撃破しています。
+![](http://www.wizards.com/sideboard/images/ptbos02/845.jpg)
+
+　チーム名のスペル間違いを指摘されて大慌てだったのも印象的なHato Beam。檜垣貴生のワントップというイメージがありますが、おおいそ大礒正嗣と上野一樹もツアー初参戦とは思えない勝負強さを随所で見せ付けてくれました。彼らはFireballとならんで見事に土曜日進出を果たし、[第 9 ラウンド](/ja/events/2002/ptbos02/9-hato-beam-vs-goldmember)にはOlle RadeひきいるGoldmemberを撃破しています。
 
 ちなみに、このとき大将Radeの首級をとったのが大礒正嗣（写真中央）。後に彼はグランプリ宇都宮でも見事4位入賞を果たし､シングルプレイヤーとしての実力をも証明してみせることになります。ボストンの段階では初出場のダークホースそのものだった大礒も、おそらくは大舞台での戦いを経てさらなるスキルアップがはかれたのでしょう。
 
@@ -222,7 +224,9 @@ render_recovery:
 
 ### ・深夜の出禁事件
 
-![](http://www.wizards.com/sideboard/images/PTSD02/743.jpg)　Japanese MVPの項でご紹介したとおり、Fireballがちょっとした揉め事に巻き込まれてしまいました。そして、この事件によって会場からの**退場処分**という前代未聞のペナルティーをもらってしまう人物が出てしまいました。それでは顛末を。
+![](http://www.wizards.com/sideboard/images/PTSD02/743.jpg)
+
+　Japanese MVPの項でご紹介したとおり、Fireballがちょっとした揉め事に巻き込まれてしまいました。そして、この事件によって会場からの**退場処分**という前代未聞のペナルティーをもらってしまう人物が出てしまいました。それでは顛末を。
 
 ･･･それは財団が表彰式で掲げていた巨大な小切手を巡る騒動でした。
 

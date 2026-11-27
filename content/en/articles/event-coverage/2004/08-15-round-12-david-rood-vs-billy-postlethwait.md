@@ -44,7 +44,9 @@ archive_source:
   sha256: 2c52d0166294b634219e480d61209a9db3fb076c419bd0b025b33636a024e9b5
 render_recovery: []
 ---
-![Billy Postlethwait](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj04/fm12_1.jpg)This matchup of National Team alternates (David Rood is Canadian, while Postlethwait is American) featured two of the bigger deck stories this weekend. Postlethwait was playing Vial Affinity, the most popular deck in the environment and one that still manages to post strong finishes in spite of all the hate directed at it by other decks. Rood was playing a Gabriel Nassif-designed [Tooth and Nail](https://web.archive.org/web/20040815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) deck that splashes red only for [Electrostatic Bolt](https://web.archive.org/web/20040815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Electrostatic+Bolt)s. Thus far, it has served the Frenchies running it very well.
+![Billy Postlethwait](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj04/fm12_1.jpg)
+
+This matchup of National Team alternates (David Rood is Canadian, while Postlethwait is American) featured two of the bigger deck stories this weekend. Postlethwait was playing Vial Affinity, the most popular deck in the environment and one that still manages to post strong finishes in spite of all the hate directed at it by other decks. Rood was playing a Gabriel Nassif-designed [Tooth and Nail](https://web.archive.org/web/20040815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) deck that splashes red only for [Electrostatic Bolt](https://web.archive.org/web/20040815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Electrostatic+Bolt)s. Thus far, it has served the Frenchies running it very well.
 
 "I'm 100% Frenchie this weekend," explained Rood, a French Canadian. "I wouldn't be here if it weren't for Gabriel Nassif. He convinced me to come and gave me a decklist. I'm awful and yet I'm still 9-2, so something must be going right."
 

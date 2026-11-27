@@ -54,7 +54,9 @@ render_recovery: []
 ---
 *Josh Bennett*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/940.jpg)This was a revenge match, to be sure. ABU took down Fire Beat in the quarterfinals of Grand Prix - Yokohama earlier this season, and went on to win the tournament. Fire Beat are definitely out for blood.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/940.jpg)
+
+This was a revenge match, to be sure. ABU took down Fire Beat in the quarterfinals of Grand Prix - Yokohama earlier this season, and went on to win the tournament. Fire Beat are definitely out for blood.
 
 The Benafel-Nobushita match started out slowly, with both players dropping lands for five turns. Benafel tapped low for Coastal Drake, and Nobushita went for Nemata. Benafel had Evasive Action.
 
@@ -62,7 +64,9 @@ Meanwhile, Dan Clegg was taking advantage of Tsuyoshi Fujita's mana-stumble to b
 
 Williams was holding his own against Ikeda, weathering the storm of Flametongue Kavu and Terminate with his multiple Lava Zombies. He busted through for seven, and used Maggot Carrier for the kill.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/939.jpg)Benafel seemed to have his game in his pocket, having just resolved Armored Guardian, but he was caught with his pants down by a kicked Desolation Giant from Nobushita. He fought back with a doubly-kicked Stormscape Battlemage, but the damage had been done.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/939.jpg)
+
+Benafel seemed to have his game in his pocket, having just resolved Armored Guardian, but he was caught with his pants down by a kicked Desolation Giant from Nobushita. He fought back with a doubly-kicked Stormscape Battlemage, but the damage had been done.
 
 Nobushita rallied with Treefolk Healer and Lightning Dart, and Benafel answered with a Fact or Fiction that netted him a Coalition Honor Guard and a Standard Bearer. He kept Nobushita off green mana with Reef Shaman, dropped a kicked Sunscape Battlemage, and then put the Healer out of the way with Hunting Drake.
 
@@ -72,7 +76,9 @@ Nobushita was shocked when his last hope to turn the tide, a Fleetfoot Panther w
 
 Williams second game against Ikeda was sent back to square one when Ikeda enchanted his Flametongue with Bloodfire Infusion and cleared the board. Unfortunately for him, his hand of Agonizing Demise, Mind Extraction and Diabolic Intent was no good against Williams's topdecked Zombie Boa. Williams took the first match for ABU.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/938.jpg)Benafel dealt with Nobushita's marauding Vodalian Serpent in Game 2, losing two creatures in the process. He evened the score with a Fact or Fiction that turned over Coastal Drake, Coalition Honor Guard, Mystic Snake, Exclude and a land. He got the Exclude and Snake, then topdecked Armored Guardian. Things were not looking good for Nobushita.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/938.jpg)
+
+Benafel dealt with Nobushita's marauding Vodalian Serpent in Game 2, losing two creatures in the process. He evened the score with a Fact or Fiction that turned over Coastal Drake, Coalition Honor Guard, Mystic Snake, Exclude and a land. He got the Exclude and Snake, then topdecked Armored Guardian. Things were not looking good for Nobushita.
 
 Meanwhile, Dan Clegg had reduced Tsukamoto to two, but couldn't for the life of him push through the final damage. It didn't help that he was drawing land like a madman. Dead Ringers removed the last of his creatures, and Tsukamoto swung for the win.
 

@@ -61,7 +61,9 @@ archive_source:
   sha256: 88e9332c1a69910dedbe4c6fabb51dde8e5a26c29779fa1e5c1297a3d15d00fb
 render_recovery: []
 ---
-![](https://i.ormos.uk/96/05/960593e0fc120fa1bcb869f4f9ac40d0781b8ea1adc8eebd079a45e3a1bccaf2.jpg)As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here are the sortable spoiler lists for *Time Spiral*. (Not sure what "*Time Spiral* Timeshifted" means? Make sure to read [Mark Rosewater's article](/en/articles/makingmagic/2006/09-25-purple-reign) today!) Enjoy! 
+![](https://i.ormos.uk/96/05/960593e0fc120fa1bcb869f4f9ac40d0781b8ea1adc8eebd079a45e3a1bccaf2.jpg)
+
+As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here are the sortable spoiler lists for *Time Spiral*. (Not sure what "*Time Spiral* Timeshifted" means? Make sure to read [Mark Rosewater's article](/en/articles/makingmagic/2006/09-25-purple-reign) today!) Enjoy! 
 
 **[Launch the *Time Spiral* card list](https://web.archive.org/web/20060925000000/http://archive.wizards.com/default.asp?x=magic/cardlist/timespiral)** 
 

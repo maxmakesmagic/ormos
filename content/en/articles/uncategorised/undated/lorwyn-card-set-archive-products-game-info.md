@@ -70,7 +70,9 @@ The foundation for exciting Sealed Deck play. Includes 45 randomly assorted card
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/ed/51/ed51ad868e5b1b49c643f072dfbc5d946aaaf6949f3000563ab4559201a8528a.png)The first set in the *Lorwyn-Shadowmoor* block, Lorwyn features 301 cards with randomly inserted premium cards.
+![](https://i.ormos.uk/ed/51/ed51ad868e5b1b49c643f072dfbc5d946aaaf6949f3000563ab4559201a8528a.png)
+
+The first set in the *Lorwyn-Shadowmoor* block, Lorwyn features 301 cards with randomly inserted premium cards.
 
 **Set Name:** *Lorwyn*  
 **Block:** Set 1 of 4 of the *Lorwyn-Shadowmoor* Block  

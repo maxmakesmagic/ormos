@@ -138,7 +138,9 @@ render_recovery:
 
 I don’t often do “issue” pieces. But this has been on my mind for a while, and I’d be interested to hear the conversation it sparks. We’ll return to funky decks and formats next week – though in a very serious way, this article is about those kinds of formats and decks.
 
-![](https://i.ormos.uk/51/91/5191b642b4e48c71fa3f59eaaa3aafa02adb759c44d7b300aeda11a85fa1cbd0.jpg)By the time this article goes up, a large number of **Magic** players will have fond memories of the previous weekend’s prerelease. And not for the first time, a huge infusion of **Magic** players who *only* attend prereleases will have driven the emotional and financial success of these prereleases. Across the world, prereleases regularly bring in the largest crowd among any sort of tournament in the game. Pro Tour Qualifiers, Grands Prix, local shop initiatives – Prereleases outperform them all in sheer volume of players over a given year.
+![](https://i.ormos.uk/51/91/5191b642b4e48c71fa3f59eaaa3aafa02adb759c44d7b300aeda11a85fa1cbd0.jpg)
+
+By the time this article goes up, a large number of **Magic** players will have fond memories of the previous weekend’s prerelease. And not for the first time, a huge infusion of **Magic** players who *only* attend prereleases will have driven the emotional and financial success of these prereleases. Across the world, prereleases regularly bring in the largest crowd among any sort of tournament in the game. Pro Tour Qualifiers, Grands Prix, local shop initiatives – Prereleases outperform them all in sheer volume of players over a given year.
 
 There are a couple of reasons why large numbers of players – so many of them self-described as “casual” – show up at these particular events. No doubt, the excitement of a new set is first and foremost. Another reason would be the easy-going nature of most prereleases – such tournaments have a low “K” value (that is, results don’t weigh too heavily on your sanctioned rating), so even hardened tournament players can relax a bit and let their opponents take back the occasional move.
 

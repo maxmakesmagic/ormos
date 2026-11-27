@@ -433,7 +433,9 @@ Oh! Hi! There you are. I....
 
 \*yawn\*
 
-![Sleeping_Potion](https://i.ormos.uk/19/1f/191f4ccca67fe3277a5f9ce0eb5536ea1eb7d1212120a32986838b2d5368a4f2.jpg)Sorry. I just can't seem to wake myself up these days. Because I keep hearing about your local play groups... And man, are they *sleepy* little burgs. 
+![Sleeping_Potion](https://i.ormos.uk/19/1f/191f4ccca67fe3277a5f9ce0eb5536ea1eb7d1212120a32986838b2d5368a4f2.jpg)
+
+Sorry. I just can't seem to wake myself up these days. Because I keep hearing about your local play groups... And man, are they *sleepy* little burgs. 
 
 It's sad, and I hope you're not one of the people trapped in these awful, awful tar pits of players.... But it may be that *you* have a reactive group. Nobody wants to take the first shot, because everyone else will gang up on them. So everyone stays waaaaaaay back, playing slow defensive decks, parceling out their cards one agonizingly slow drop at a time, tapping out on turn eight to cast something huge and hiding behind walls and....
 

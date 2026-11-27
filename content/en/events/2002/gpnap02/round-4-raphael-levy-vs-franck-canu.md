@@ -56,7 +56,9 @@ render_recovery: []
 Round 4: Raphaël Lévy vs. Franck Canu  
  by Craig Jones
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a962.jpg)Round 4 is when the top players get to start playing and this round pitted two good Frenchmen, Franck Canu and Raphaël Lévy, against each other.
+![](http://www.wizards.com/sideboard/images/gpnap02/a962.jpg)
+
+Round 4 is when the top players get to start playing and this round pitted two good Frenchmen, Franck Canu and Raphaël Lévy, against each other.
 
 The first thing Canu did when he sat down was set the scoreboard to 2-0 in favour of Lévy as a prediction to how he thought the match would go.
 
@@ -84,7 +86,9 @@ Canu 1-0 Lévy
 
 An early Peek from Canu revealed Lévy had three removal spells and no creatures. A Mystic Familiar came into play and started pecking at Lévy's life total and was followed by a Phantatog. Crippling Fatigue took down the Familiar only for it to be replaced by a Skywing Aven while Lévy still hadn't found a creature.
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a963.jpg)Lévy got triple black with the help of the egg and if you're looking for a first creature they don't come much better than Cabal Patriarch. Canu stole Lévy's draw step with Plagiarize only for a Butcher to appear and cleared the Phantatog out of the road for the Patriarch to attack.
+![](http://www.wizards.com/sideboard/images/gpnap02/a963.jpg)
+
+Lévy got triple black with the help of the egg and if you're looking for a first creature they don't come much better than Cabal Patriarch. Canu stole Lévy's draw step with Plagiarize only for a Butcher to appear and cleared the Phantatog out of the road for the Patriarch to attack.
 
 Next turn a Firebolt cleared the Skywing Aven out of the way for another punishing attack. Cabal Patriarch fell to a Thermal Blast though and then a Teroh's Faithful arrived to help Canu out.
 

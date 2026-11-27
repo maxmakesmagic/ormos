@@ -381,7 +381,9 @@ Remember that in D&D you want to roll high. Twenty is the best score and one is 
 
 "Yes," he says, "So happy, in fact, that she has a gift for you."
 
-[![Wand_of_Ith](https://i.ormos.uk/60/96/6096acc077f98a55b67a4ff200a292c73415588d12253c69e8eb532abfaad9e1.jpg)](https://web.archive.org/web/20070827000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wand%2Bof%2BIth)She gives me an item called a Wand of Wonder. Basically it's a magical wand that has a random magical effect each time it's used. It's very powerful but highly unpredictable.
+[![Wand_of_Ith](https://i.ormos.uk/60/96/6096acc077f98a55b67a4ff200a292c73415588d12253c69e8eb532abfaad9e1.jpg)](https://web.archive.org/web/20070827000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wand%2Bof%2BIth)
+
+She gives me an item called a Wand of Wonder. Basically it's a magical wand that has a random magical effect each time it's used. It's very powerful but highly unpredictable.
 
 Cut to a month or so later. We'd decided to pursue the wizard that had been plaguing the kingdom and we're in his lair when we're attacked by a beholder. It's a pretty tough monster, but this one was like the evil wizard's pet and he had enhanced it. So our party is fighting it. Now remember, during the entire course of events I've been talking about, I'm blind. My party keeps me back because basically I'm useless in a fight and the chance of me hitting one of my party is high.
 

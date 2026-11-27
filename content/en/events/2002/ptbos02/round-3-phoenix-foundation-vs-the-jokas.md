@@ -109,7 +109,9 @@ render_recovery:
   - Fiery Temper
   occurrences: 100
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a950.jpg)The Phoenix Foundation is probably the odds-on favorite to win this event. After all they are the reigning Pro Tour: New York and Master series winners in this format. Plus, their B player is the only player to ever win a Pro Tour, a Grand Prix, a Masters series, World Championships, and an Invitational! Add to that THREE Player of the Year titles and countless Top 8 performances and you can only come up with one sum...Kai Budde.
+![](http://www.wizards.com/sideboard/images/ptbos02/a950.jpg)
+
+The Phoenix Foundation is probably the odds-on favorite to win this event. After all they are the reigning Pro Tour: New York and Master series winners in this format. Plus, their B player is the only player to ever win a Pro Tour, a Grand Prix, a Masters series, World Championships, and an Invitational! Add to that THREE Player of the Year titles and countless Top 8 performances and you can only come up with one sum...Kai Budde.
 
 Kyle Rose has had his share of success. The Jokas won Grand Prix: New Jersey earlier this year to qualify for this event and individually he has been the US National Champion and won PT: London. He also has more than his share of Top 8s. His teammates Eric James and Norman Woods may not have as impressive resumes as Kai's wingmen but apparently they play together constantly and if they had to get past a pretty tough team in Illuminati to win GP: NJ.
 
@@ -148,7 +150,9 @@ Things were also looking bad for Marco Blume. His opponent had been beating him 
 
 Kyle was leading off this game and both players kept their initial seven—although Kai's only contained one land. Neither player played anything but Islands for the first three turns. On the fourth turn, Kyle tried an Aven Fisher but Kai Syncopated it. Kai missed his fourth land drop in the bottom half of the turn and passed it back to Kyle.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a949.jpg)Kyle kept playing lands and made an Aven Windreader. Kai finally found a Swamp but cast two blue spells: Lost in Thought on the Windreader and a Thought Eater. A Cloudchaser Eagle removed the annoying enchantment and the Windreader drew first blood. Kai stalled on four land this time and made a Dusk Imp. He knew a land was coming next turn though, when Kyle's Windreader revealed and Island on top during EOT.
+![](http://www.wizards.com/sideboard/images/ptbos02/a949.jpg)
+
+Kyle kept playing lands and made an Aven Windreader. Kai finally found a Swamp but cast two blue spells: Lost in Thought on the Windreader and a Thought Eater. A Cloudchaser Eagle removed the annoying enchantment and the Windreader drew first blood. Kai stalled on four land this time and made a Dusk Imp. He knew a land was coming next turn though, when Kyle's Windreader revealed and Island on top during EOT.
 
 Kyle cast Concentrate and drew three cards. He sent his fliers into the red zone and the Cloudchaser traded with the Thought Eater. Kai dropped to 14 and Kyle played a Nomad Decoy. Kai swang back with the Dusk Imp and Ghastly Demised the Windreader. He then played Zombie Assassin.
 
@@ -176,7 +180,9 @@ Kai elected to draw in Game 3 and both players kept their opening seven. The par
 
 Kyle's hand must have been land heavy because he started discarding land to pump his Aquadog and played a Hallowed Healer. Kai played an Inkshrouder and passed the turn.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a948.jpg)Kyle continued to discard land to pump the Aquamoeba and took Kai to 14. Kyle's hand was dwindling and Kai played a Whispering Shade. 
+![](http://www.wizards.com/sideboard/images/ptbos02/a948.jpg)
+
+Kyle continued to discard land to pump the Aquamoeba and took Kai to 14. Kyle's hand was dwindling and Kai played a Whispering Shade. 
 
 Kyle took Kai down to 11 pitching his third straight land and nothing else. Kai was content to play a Swamp and pass the turn.
 

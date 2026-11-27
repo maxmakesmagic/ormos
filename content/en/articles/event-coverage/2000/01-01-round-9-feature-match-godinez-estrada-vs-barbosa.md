@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Collin Jackson*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat95.jpg)As the afternoon dragged on during the Latin America Championships, the top competitors continued to battle it out to secure a spot in the top 8. Round nine featured Gerardo Godinez-Estrada (6-1-1) versus Francisco Garcia Barbosa (6-0-2), both self-described "random Mexicans" from Mexico City. Gerardo brought to the table a variant on the Angry Hermit deck, while Francisco played Accelerated Blue.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat95.jpg)
+
+As the afternoon dragged on during the Latin America Championships, the top competitors continued to battle it out to secure a spot in the top 8. Round nine featured Gerardo Godinez-Estrada (6-1-1) versus Francisco Garcia Barbosa (6-0-2), both self-described "random Mexicans" from Mexico City. Gerardo brought to the table a variant on the Angry Hermit deck, while Francisco played Accelerated Blue.
 
 Game one started out slow, with a battle for mana using Fallow Earths and Rishadan Ports. Eventually, Gerardo played Ancient Hydra and began to attack the defenseless Francisco. When Francisco summoned a Masticore, he didn't have enough mana to regenerate and the hapless lion was burned away by Arc Lightning and a ping from the Hydra.
 

@@ -87,7 +87,9 @@ render_recovery:
   - Forest
   occurrences: 52
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a992.jpg)Samson is a former Singaporean National Champion and Rudy made Top 8 at Malaysian Nationals last year, though for all their glory they each enjoyed only two byes.
+![](http://www.wizards.com/sideboard/images/gpkl02/a992.jpg)
+
+Samson is a former Singaporean National Champion and Rudy made Top 8 at Malaysian Nationals last year, though for all their glory they each enjoyed only two byes.
 
 ### Game 1
 
@@ -111,7 +113,9 @@ LaFaber 1 Wong 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a991.jpg)Samson chose to draw first. Rudy kept a hand yet again with Rites of Spring and Werebear, ensuring he could get a fast start. The hand Samson chose to keep was really very slow - he had a Krosan Archer, and a Hybrid of his own as his earliest plays. 
+![](http://www.wizards.com/sideboard/images/gpkl02/a991.jpg)
+
+Samson chose to draw first. Rudy kept a hand yet again with Rites of Spring and Werebear, ensuring he could get a fast start. The hand Samson chose to keep was really very slow - he had a Krosan Archer, and a Hybrid of his own as his earliest plays. 
 
 The Werebear hit the table and swung for one. LaFaber then cast Rites of Spring for two to fill up his graveyard as he had a Gurizgost in hand! Samson TD'd a Call of the Herd and suddenly his hand looked a lot better. Rudy used his Werebear to make a very ugly turn-four Hybrid, and Samson answered with a Nantuko Disciple. The Hybrid entered the Red Zone, and on the fifth turn, Gurzigost hit play.
 
@@ -134,7 +138,9 @@ LaFaber 1 Wong 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a990.jpg)Game 3 LaFaber elected to play first and once again had Rites of Spring in his opening hand but no Green mana. He also held Beast Attack and Fledgling Imp. Samson's hand for once was looking punchy - it had Call of the Herd and Basking Rootwalla. Go *Odyssey* block! To cut the story short Samson made Rootwall and swung for three, then on turn 3 cast Call of the Herd. LaFaber was up against the wall as his Imp was irrelevant and not having sufficient Forests had to Diabolic Tutor for one. He managed to draw another one but was still one Green source away of playing his business card of Beast Attack to get back into the game. 
+![](http://www.wizards.com/sideboard/images/gpkl02/a990.jpg)
+
+Game 3 LaFaber elected to play first and once again had Rites of Spring in his opening hand but no Green mana. He also held Beast Attack and Fledgling Imp. Samson's hand for once was looking punchy - it had Call of the Herd and Basking Rootwalla. Go *Odyssey* block! To cut the story short Samson made Rootwall and swung for three, then on turn 3 cast Call of the Herd. LaFaber was up against the wall as his Imp was irrelevant and not having sufficient Forests had to Diabolic Tutor for one. He managed to draw another one but was still one Green source away of playing his business card of Beast Attack to get back into the game. 
 
 Samson missed his fourth land drop and so played the Diligent Farmhand he drew. The Elephant and the other pseudo 3/3 did their job admiringly however and the Call would definitely be flashed back next turn, putting up yet even more pressure. A LaFaber Rootwalla was Madness'd into play via the Imp, but Samson had Demise. 
 

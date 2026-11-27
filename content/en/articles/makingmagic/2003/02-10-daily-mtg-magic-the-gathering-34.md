@@ -52,7 +52,9 @@ archive_source:
   sha256: bb8b4cdf5ae4f73e8fc0f44d02dcb29eb04f7c1a272d07fb3f7ef2a4ef67c0a4
 render_recovery: []
 ---
-![MagicTheGathering.com](https://i.ormos.uk/8d/b6/8db643c81481d5c4fbbd26db8eef57fa37d484fd81730f4619c054c671de06e0.jpg)You always like to check in on our site. Usually you see the articles before they go up, but once in a while one sneaks through.
+![MagicTheGathering.com](https://i.ormos.uk/8d/b6/8db643c81481d5c4fbbd26db8eef57fa37d484fd81730f4619c054c671de06e0.jpg)
+
+You always like to check in on our site. Usually you see the articles before they go up, but once in a while one sneaks through.
 
  **[Read the message boards.](https://web.archive.org/web/20030210000000/https://www.wizards.com/magic/mr58process.asp?go=32)  
  [Visit the rumor site.](https://web.archive.org/web/20030210000000/https://www.wizards.com/magic/mr58process.asp?go=22)  

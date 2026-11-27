@@ -650,7 +650,9 @@ render_recovery:
 
 **Game 1**
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a779.jpg)Jakeの先攻でスタート。まず、Jensenが《ただれたゴブリン/Festering Goblin》、Jakeが《ゴブリンの裏切り者/Goblin Turncoat》をキャストし相打ったところスタート。Jakeが《死神頭のノスリ/Death's-Head Buzzard》で空から殴れば、Jensenも《切り刻まれた軍勢/Severed Legion》で殴り、お互いスペルをキャストしながら殴りあう展開。
+![](http://www.wizards.com/sideboard/images/ptbos03/a779.jpg)
+
+Jakeの先攻でスタート。まず、Jensenが《ただれたゴブリン/Festering Goblin》、Jakeが《ゴブリンの裏切り者/Goblin Turncoat》をキャストし相打ったところスタート。Jakeが《死神頭のノスリ/Death's-Head Buzzard》で空から殴れば、Jensenも《切り刻まれた軍勢/Severed Legion》で殴り、お互いスペルをキャストしながら殴りあう展開。
 
 場が急変したのは６ターン目。Jakeの場にはタップ状態の《死神頭のノスリ》、《宝石の手の汚染者/Gempalm Polluter》、変異が１体。Jensenの場は《切り刻まれた軍勢》、《死体の収穫者/Corpse Harvester》、変異が１体。
 
@@ -668,7 +670,9 @@ Jensenはもちろん《死体の収穫者》の能力をダメージにスタ�
 
 なんとか１本取り返したいJake。１ターン目《屍肉喰らい/Carrion Feeder》と好スタート。対するJensenも２ターン目に《スカークの教練教官/Skirk Drill Sergeant》をキャストする。
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a778.jpg)３ターン目Jake、手札には《死神頭のノスリ/Death's-Head Buzzard》と変異クリーチャー《噛みつくスラッグ/Snapping Thragg》があるためしばし小考。
+![](http://www.wizards.com/sideboard/images/ptbos03/a778.jpg)
+
+３ターン目Jake、手札には《死神頭のノスリ/Death's-Head Buzzard》と変異クリーチャー《噛みつくスラッグ/Snapping Thragg》があるためしばし小考。
 
 ここでの場面《死神頭のノスリ》の方が攻撃クリーチャーとして優れているのだが、除去られると《屍肉喰らい》まで落ちてしまうのがなんともいけてない。ましてや《火花のしぶき/Spark Spray》で前ゲーム痛い目に合っているので出しにくいところだろう。しかし、ここでJakeは《死神頭のノスリ》をキャスト。やはり、ベスト４に残るにはこういうアグレッシブなプレイングが必要なのだろう。と思っていたら・・・
 

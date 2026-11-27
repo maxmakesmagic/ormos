@@ -48,7 +48,9 @@ render_recovery: []
 
 *   [View the Match](https://web.archive.org/web/20000101000000/http://archive.wizards.com/eventarticle.asp?event=PTNY0001&name=921fm7)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/754.jpg)It was early Saturday morning when thirty-two teams fortunate enough to make Day 2 gathered at the Madison Square Garden to play five rounds of Team Rochester Draft to determine the Top 4 teams. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/754.jpg)
+
+It was early Saturday morning when thirty-two teams fortunate enough to make Day 2 gathered at the Madison Square Garden to play five rounds of Team Rochester Draft to determine the Top 4 teams. 
 
 While it was necessary to get through the Sealed Deck portion to get here, most teams invested a lot of effort into practicing the very skill-intensive draft format. Plenty of the top players made it past the sealed deck gauntlet and there were quite a few interesting matchups in round one. 
 
@@ -64,7 +66,9 @@ Over the first few picks both teams carefully maneuvered trying to set up favora
 
 Turian opened a second pack and was perfectly happy to snatch a Crooked Scales. Gary grabbed a Horned Troll, choosing it over Vine Trellis. Maher drafted a Gush and Williams took Cho-Manno's Blessing. Johns took Vine Trellis, preparing for a green on green battle. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/753.jpg)The next pair of packs featured no bombs but allowed each player to solidify their colors. Despite Wise drafting a Bog Smugglers, Maher did not hesitate to pick a Vendetta in the following pack. Wise had a chance at a second Bog Smuggler in the same pack. That would either force Maher to abandon the Vendetta and end up sharing a color with one of his teammates, or face a pretty grim matchup against two unblockable and potentially searchable creatures. Wise miscommunicated with his teammates and ended up counterdrafting a Crossbow Infantry instead. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/753.jpg)
+
+The next pair of packs featured no bombs but allowed each player to solidify their colors. Despite Wise drafting a Bog Smugglers, Maher did not hesitate to pick a Vendetta in the following pack. Wise had a chance at a second Bog Smuggler in the same pack. That would either force Maher to abandon the Vendetta and end up sharing a color with one of his teammates, or face a pretty grim matchup against two unblockable and potentially searchable creatures. Wise miscommunicated with his teammates and ended up counterdrafting a Crossbow Infantry instead. 
 
 As the draft went on, it seemed that The Fix was a lot better prepared and worked together far more seamlessly than Potato Nation. While both teams drafted by consensus rather than having one player choose the cards, The Fix communicated better and worked together more smoothly. Potato Nation had disagreements every once in a while, such as Turian picking a Coastal Hornclaw over Pit Raptor despite severe objections by Wise. 
 

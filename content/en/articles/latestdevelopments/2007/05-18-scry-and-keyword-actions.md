@@ -138,7 +138,9 @@ From the Comp Rules:
 
 > *Most actions described in a card's rules text use the standard English definitions of the verbs within, but some specialized verbs are used whose meanings may not be clear. These "keywords" are game terms; sometimes reminder text summarizes their meanings.*
 
-![Llanowar Empath](https://i.ormos.uk/4d/02/4d0254284ae20867101e3a7d0e928b2186a59d5054b8e78240f848a8c5a4c475.jpg)These special words are keywords in the sense that they need some level of explanation to understand how they function in the game, but they are unlike most other keywords in that they are (generally) used as verbs inside longer rules sentences. The full list of keyword actions is:
+![Llanowar Empath](https://i.ormos.uk/4d/02/4d0254284ae20867101e3a7d0e928b2186a59d5054b8e78240f848a8c5a4c475.jpg)
+
+These special words are keywords in the sense that they need some level of explanation to understand how they function in the game, but they are unlike most other keywords in that they are (generally) used as verbs inside longer rules sentences. The full list of keyword actions is:
 
 *   Attach
 *   Counter

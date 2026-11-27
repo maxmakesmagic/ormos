@@ -513,7 +513,9 @@ Ren Ishikawa 2, Takaya Saitou 0
 
 ![](https://i.ormos.uk/4f/a3/4fa3aef52fc31714f56e93cdeac9cf488a92ed03e97c83bcda60aa5acb5dffeb.jpg) Shuhei Nakamura: “Black, blue, or white. I don't like green or red.”
 
-![](https://i.ormos.uk/98/99/9899f02ce1db6cbf126df9202878eeaa9bd9ed16b5f7160719a802eba07dd9e6.jpg)Mat Marr: “I don't know. I talked to \[Martin\] Juza and Oli \[Ruel\] and I think I'm going to just try to stay open.”
+![](https://i.ormos.uk/98/99/9899f02ce1db6cbf126df9202878eeaa9bd9ed16b5f7160719a802eba07dd9e6.jpg)
+
+Mat Marr: “I don't know. I talked to \[Martin\] Juza and Oli \[Ruel\] and I think I'm going to just try to stay open.”
 
 ![](https://i.ormos.uk/f9/f5/f9f541acab9c1093aea822a5cbadc51fac2ddd30216ac80465d0a851ce9a4d96.jpg) Koutarou Ootsuka: “Blue with anything.”
 

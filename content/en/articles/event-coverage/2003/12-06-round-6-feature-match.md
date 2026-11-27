@@ -44,7 +44,9 @@ archive_source:
   sha256: 346e090d40e0161431a93cf398f2241acfb47bb9c01b9b5904add4ead469c15c
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm6_lead.jpg)When you talk about Magic's European old-timers you can't really avoid these two names. Long before there was Kai Budde, Kroger was one of Germany's top stars. He recently came back into the spotlight with a Top 8 at Worlds this year. LoMoro has a Top 8 at Worlds as well, just not as recently.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm6_lead.jpg)
+
+When you talk about Magic's European old-timers you can't really avoid these two names. Long before there was Kai Budde, Kroger was one of Germany's top stars. He recently came back into the spotlight with a Top 8 at Worlds this year. LoMoro has a Top 8 at Worlds as well, just not as recently.
 
 ### Game 1
 

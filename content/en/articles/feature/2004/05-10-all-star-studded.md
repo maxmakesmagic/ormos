@@ -387,7 +387,9 @@ In addition, once again, here is the [on-line coverage of the event](https://web
 
 To see the formats, [click here](https://web.archive.org/web/20040510000000/http://www.wizards.com/sideboard/article.asp?x=sb20010824a). 
 
-![](https://i.ormos.uk/9f/22/9f22edcb9e3e0f55fdf3008aca1fdfee2c33137ee3da92db7a9de45cc37debe3.jpg)The sixth Invitational hit our fifth continent. This Invitational is the furthest trip I've ever taken. Including my layovers, the trip took about thirty-five hours. But it was well worth it. This Invitational is memorable for many things. One such thing is the fact that I got to pet a cheetah. In fact, you know that picture of me you see every time you read my column. That is actually from a picture of me petting a cheetah (along with editor-in-chief Scott Johns, no less). 
+![](https://i.ormos.uk/9f/22/9f22edcb9e3e0f55fdf3008aca1fdfee2c33137ee3da92db7a9de45cc37debe3.jpg)
+
+The sixth Invitational hit our fifth continent. This Invitational is the furthest trip I've ever taken. Including my layovers, the trip took about thirty-five hours. But it was well worth it. This Invitational is memorable for many things. One such thing is the fact that I got to pet a cheetah. In fact, you know that picture of me you see every time you read my column. That is actually from a picture of me petting a cheetah (along with editor-in-chief Scott Johns, no less). 
 
 The finals came down to Kai Budde versus Dan Clegg in what would clock in as the longest Invitational finals ever. (Something crazy like six or seven hours.) Budde and Clegg played best three out of five matches with each match being two out of three in a different format. It all came down to the fifth format – 250 aka Five Color. Using a quirky system that based wins on dollar value of ante won, Budde won the event by Tinkering for a Jeweled Bird to keep Budde from being able to win a valuable enough ante with his third turn Hatred kill.
 

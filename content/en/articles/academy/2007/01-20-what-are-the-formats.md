@@ -79,7 +79,9 @@ render_recovery: []
 ---
 Hello and welcome to Magic Academy! Today we'll be looking over the various Constructed formats used in competitive play.
 
-![Reshape](https://i.ormos.uk/a9/f0/a9f06011389bc9b57beca230cba49d10fd8caa166850aa5a12064cfc4e21528e.jpg)As we've touched on, Constructed tournaments require you to build your deck beforehand. (For Limited tournaments, the cards are provided.) Depending on the format used at a given tournament, you'll have the option to draw from different sets to build your deck. Some formats allow only the most recent sets; others go back much fartrher. 
+![Reshape](https://i.ormos.uk/a9/f0/a9f06011389bc9b57beca230cba49d10fd8caa166850aa5a12064cfc4e21528e.jpg)
+
+As we've touched on, Constructed tournaments require you to build your deck beforehand. (For Limited tournaments, the cards are provided.) Depending on the format used at a given tournament, you'll have the option to draw from different sets to build your deck. Some formats allow only the most recent sets; others go back much fartrher. 
 
 The formats that allow a large number of sets generally stay familiar even as new sets are introduced. Formats that only allow newer cards, on the other hand, are constantly in flux. As new sets are released and become legal in these formats, older sets are rotated out.
 
@@ -105,7 +107,9 @@ You can find a current list of Standard legal sets [here](https://web.archive.or
 
 ### Block
 
-![Blockbuster](https://i.ormos.uk/7c/00/7c0050e3dce5ec6d72e9451535b6e87e3327afbff3a61c22b96a734b3f73b5c0.jpg)Block Constructed allows the use of simply the current block (1-3 sets). As far as competitive play goes, about one Pro Tour Qualifier season a year is Block Constructed (usually when all three sets are available). The format can be played year round on ***Magic** Online*, and sometimes tournaments can be found at local stores.
+![Blockbuster](https://i.ormos.uk/7c/00/7c0050e3dce5ec6d72e9451535b6e87e3327afbff3a61c22b96a734b3f73b5c0.jpg)
+
+Block Constructed allows the use of simply the current block (1-3 sets). As far as competitive play goes, about one Pro Tour Qualifier season a year is Block Constructed (usually when all three sets are available). The format can be played year round on ***Magic** Online*, and sometimes tournaments can be found at local stores.
 
 Block Constructed is unique in that it can be completely fresh. While other formats might change drastically with a rotation, several familiar sets will remain; with Block Constructed you're regularly confronted with a completely new card pool. One thing that's nice about playing with single blocks is that they are contained thematic units. Whatever the block's major themes – *Mirrodin* and artifacts, or *Odyssey* and graveyard-matters – you'll definitely sense it in Block, which can make for new and distinct playing experiences.
 
@@ -125,7 +129,9 @@ You can find a current list of Block-legal sets [here](https://web.archive.org/w
 
 ### Extended
 
-![Long_Term_Plans](https://i.ormos.uk/bf/99/bf99dea88c8ee9cd6a3949028e9634da678694eabe3529e0bc33d450744a12a4.jpg)Standard rotates after 3 sets. Extended only rotates after *3 blocks.* At any given time Extended will allow the most recent 6-8 blocks (16-24 sets), and about 3 core sets. Base sets rotate out with the blocks they were released during. Extended is played a little more regularly than Block, with one Pro Tour Qualifier season a year and a bit more local and online support.
+![Long_Term_Plans](https://i.ormos.uk/bf/99/bf99dea88c8ee9cd6a3949028e9634da678694eabe3529e0bc33d450744a12a4.jpg)
+
+Standard rotates after 3 sets. Extended only rotates after *3 blocks.* At any given time Extended will allow the most recent 6-8 blocks (16-24 sets), and about 3 core sets. Base sets rotate out with the blocks they were released during. Extended is played a little more regularly than Block, with one Pro Tour Qualifier season a year and a bit more local and online support.
 
 Extended, with its huge card pool and occasional massive changes, can be an intimidating format. There are a high number of popular decks, and these decks use all sorts of different cards and employ widely different strategies. The upshot is that since the format changes so infrequently, learning these strategies can be fruitful for much longer than in shallower formats.
 
@@ -187,7 +193,9 @@ Team Constructed sees a fair amount of support, with a Pro Tour Qualifier season
 
 ### Notes
 
-![Accumulated_Knowledge](https://i.ormos.uk/de/e4/dee403c3b725c9a503d4a21427dc32d815c97735f9ee0a04bb90655a3fa35f54.jpg)**Set Release Dates**: A new set generally becomes tournament legal (and, if it's the first set of a new block or a new base set, prompts certain rotations) on the 20th of the month. For instance, a set released on Feb. 2 would become legal on Feb. 20, whereas a set released on Feb. 22 would become legal on March 20. The **Magic** Floor Rules list the dates that upcoming sets become legal.
+![Accumulated_Knowledge](https://i.ormos.uk/de/e4/dee403c3b725c9a503d4a21427dc32d815c97735f9ee0a04bb90655a3fa35f54.jpg)
+
+**Set Release Dates**: A new set generally becomes tournament legal (and, if it's the first set of a new block or a new base set, prompts certain rotations) on the 20th of the month. For instance, a set released on Feb. 2 would become legal on Feb. 20, whereas a set released on Feb. 22 would become legal on March 20. The **Magic** Floor Rules list the dates that upcoming sets become legal.
 
 **Ratings**: Official Wizards of the Coast tournaments are sanctioned, and individual results are kept and tallied for DCI ratings. Block, Standard, and Extended tournaments are categorized under a “Constructed” rating, while Vintage and Legacy tournaments are categorized under an “Eternal” rating. Online tournaments have their own separate rating.
 

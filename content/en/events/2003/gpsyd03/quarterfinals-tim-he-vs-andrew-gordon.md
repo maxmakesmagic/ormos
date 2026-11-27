@@ -90,7 +90,9 @@ Tim won the dice roll and started to shuffle his 7 card hand, after thinking for
 
 Andrew also did the same, his 6 cards had 2 lands and a Myr. Tim wasn't so lucky and stalled at one land for several turns only being able to play a Leonin Scimitar and a Slagwurm Armor. Andrew played a turn 3 Nim Shrieker that was a 2/1. Next turn Andrew played another Myr and attacked with his 3/1 flyer and his 1/1 Myr. Tim finally drew another land on his fifth turn but didn't have anything to play and passed the turn.
 
-![](https://i.ormos.uk/87/ac/87ac0de1b9166904d17d3b4851eebb484bd0a4e85b0b9ee62fcece4213e09c90.jpg)After looking at the board for a while Andrew decided to only attack with his 3/1 Shrieker. At the end of the turn Tim played a Raise the Alarm. Tim attacked with his tokens and then plays an Auriok Bladewarden and equipped it with his Leonin Scimitar. 
+![](https://i.ormos.uk/87/ac/87ac0de1b9166904d17d3b4851eebb484bd0a4e85b0b9ee62fcece4213e09c90.jpg)
+
+After looking at the board for a while Andrew decided to only attack with his 3/1 Shrieker. At the end of the turn Tim played a Raise the Alarm. Tim attacked with his tokens and then plays an Auriok Bladewarden and equipped it with his Leonin Scimitar. 
 
 Andrew attacked yet again with his 3/1 shrieker putting Tim at 10 life. 
 
@@ -110,7 +112,9 @@ Tim sideboarded in a Wail of the Nim to deal with Andrew's numerous one toughnes
 
 Tim started off game 2 with another mulligan and drew yet another one land hand. Tim was able to draw a land on his 3rd turn and play out his Leonin Skyhunter. Andrew could only respond with a 3rd turn Silver Myr, to power out his next turn Wanderguard Sentry. Tim revealed an Irradiate, Flayed Nim, Leonin Abunas and a Raise the Alarm, which got played at the end of the turn.
 
-![](https://www.wizards.com/sideboard/images/gpsyd03/917.jpg)Tim peeled a land off the top and played out his Abunas. Andrew played out a three casting cost Thoughtcast on his turn, drawing a Welding Jar and a Somber Hoverguard, which he then played.
+![](https://www.wizards.com/sideboard/images/gpsyd03/917.jpg)
+
+Tim peeled a land off the top and played out his Abunas. Andrew played out a three casting cost Thoughtcast on his turn, drawing a Welding Jar and a Somber Hoverguard, which he then played.
 
 Tim kept up his offence and swung in the air with his skyhunter. Tim played a Flayed Nim and ended his turn.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Josh Bennett* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/892.jpg)I doubt the wisdom of filling a boat with Magic players. Transforming a boat into a Boat-el is equally questionable. Apparently the rewiring necessitated a fair bit of exposed cord on every floor. There isn't so much of a ceiling to speak of. At best, it could be described as a creative use of particle board. I wouldn't be surprised to discover that the whole construct houses something else altogether. Two bits and a right-cross says it's all part of some criminal master plan. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/892.jpg)
+
+I doubt the wisdom of filling a boat with Magic players. Transforming a boat into a Boat-el is equally questionable. Apparently the rewiring necessitated a fair bit of exposed cord on every floor. There isn't so much of a ceiling to speak of. At best, it could be described as a creative use of particle board. I wouldn't be surprised to discover that the whole construct houses something else altogether. Two bits and a right-cross says it's all part of some criminal master plan. 
 
 Never mind the fact that there is a Russian sub parked some feet from my bedroom. I think its clear that we've become lax in our vigilance of the Red Menace. 
 

@@ -142,7 +142,9 @@ render_recovery:
   - Tremble
   occurrences: 131
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a956.jpg)Svend Geertsen of Denmark used to be one of the very best, but his studies at university have limited the time he can devote to Magic, so now he only attends limited PT's. His opponent, Norway's Oyvind Odegaard, was a member of last years Worlds Team runner-up, and has been enjoying a decent level of success since.
+![](http://www.wizards.com/sideboard/images/ptnice02/a956.jpg)
+
+Svend Geertsen of Denmark used to be one of the very best, but his studies at university have limited the time he can devote to Magic, so now he only attends limited PT's. His opponent, Norway's Oyvind Odegaard, was a member of last years Worlds Team runner-up, and has been enjoying a decent level of success since.
 
 The two were seated across from each other during the draft, so they were not aware of what each other was playing. Svend lucked out and got a good blue/green deck, and Odegaard ended up with black/white.
 
@@ -156,7 +158,9 @@ The Norwegian had been drawing a steady stream of creatures, though, and added a
 
 Svend had his own ideas, sending in a Krosan Archer and a Cephalid Aristocrat with Twigwalker backup. Oyvind blocked the Archer with his Zealot, trading it for the Twigwalker.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a955.jpg)Svend attacked again with the Aristocrat; Oyvind tried to Second Thoughts it, but Svend had Rites of Refusal, so Oyvind was reduced to using his Torturer to prevent one point of damage. The "milling" effect of the Aristocrat, however, had given Svend threshold, so he discarded a card to Ghostly Wings, returning his Tiger and recasting it as a 5/5.
+![](http://www.wizards.com/sideboard/images/ptnice02/a955.jpg)
+
+Svend attacked again with the Aristocrat; Oyvind tried to Second Thoughts it, but Svend had Rites of Refusal, so Oyvind was reduced to using his Torturer to prevent one point of damage. The "milling" effect of the Aristocrat, however, had given Svend threshold, so he discarded a card to Ghostly Wings, returning his Tiger and recasting it as a 5/5.
 
 The next turn was a big train wreck of creatures dying – Svend attacked with most of his forces, and Oyvind used good blocking, the Cabal Torturer, and a Ghastly Demise on the Tiger to wipe out most of the Dane's relevant monsters. He slowly took control of the board with a Whispering Shade and an Aven Cloudchaser as the Frightcrawler attacked for one per turn... 15... 14... 13...12...
 
@@ -173,7 +177,9 @@ Oyvind played a turn two Frightcrawler, and Svend dropped a Leaf Dancer. When Oy
 
 "I have it all," replied the Norwegian.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a952.jpg)Svend made the smart play of casting Churning Eddy before attacking, setting Oyvind's Gallantry plan back two turns. On his next turn he played an Aristocrat, and then Centaur Chieftain the turn after. Sylvan Might saw to it that the Aristocrat busted through Oyvind's Blessed Orator. A continuous supply of large creatures from Svend prevented Oyvind from ever regaining his footing.
+![](http://www.wizards.com/sideboard/images/ptnice02/a952.jpg)
+
+Svend made the smart play of casting Churning Eddy before attacking, setting Oyvind's Gallantry plan back two turns. On his next turn he played an Aristocrat, and then Centaur Chieftain the turn after. Sylvan Might saw to it that the Aristocrat busted through Oyvind's Blessed Orator. A continuous supply of large creatures from Svend prevented Oyvind from ever regaining his footing.
 
 Odegaard 1 – Geertsen 1
 

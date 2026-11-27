@@ -48,7 +48,9 @@ render_recovery: []
 
 The race went right down to the wire, but we finally have a winner in the Writers' ballot!
 
-![](https://i.ormos.uk/ee/ec/eeec4f3fe2886a491f85c42aa47daf98d340d5cf8965c17a3aba22c0e8dbb1cf.jpg)Winning by the slimmest of margins, Jeroen Remie has earned a spot in the 2005 **Magic** Invitational. Remie amassed 32 points out of the 16 ballots, edging Tim Aten by a single point. 
+![](https://i.ormos.uk/ee/ec/eeec4f3fe2886a491f85c42aa47daf98d340d5cf8965c17a3aba22c0e8dbb1cf.jpg)
+
+Winning by the slimmest of margins, Jeroen Remie has earned a spot in the 2005 **Magic** Invitational. Remie amassed 32 points out of the 16 ballots, edging Tim Aten by a single point. 
 
 The voting included five writers each from **Magicthegathering.com**, Starcitygames.com and Brainburst.com, plus one writer from InQuest magazine. We posed these 16 voters a simple question: *Which player has the best combination of talent and personality?*
 

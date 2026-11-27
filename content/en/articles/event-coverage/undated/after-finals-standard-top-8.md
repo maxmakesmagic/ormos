@@ -376,7 +376,9 @@ render_recovery:
  ：Finkula  
  ：Go-Mar
 
-![](https://i.ormos.uk/a0/66/a066db4e264015a0037a2f35bdd520bdfd18034cf447f485843c8e53f8482d47.jpg)デッキタイプとしては多種多様であるが、ここから≪ Repulse / 排撃 ≫か≪ Flametongue Kavu / 火炎舌のカヴー ≫のいずれかを使っていないデッキが勝ち上がるのは非常に難しい」という事実が導かれてくる。確実な勝利を得るためには、この環境でおそらく最強のカード、≪ Call of the Herd / 獣群の呼び声 ≫にアドバンテージを取られることなく、クリーチャー戦を制する必要があるのだ。
+![](https://i.ormos.uk/a0/66/a066db4e264015a0037a2f35bdd520bdfd18034cf447f485843c8e53f8482d47.jpg)
+
+デッキタイプとしては多種多様であるが、ここから≪ Repulse / 排撃 ≫か≪ Flametongue Kavu / 火炎舌のカヴー ≫のいずれかを使っていないデッキが勝ち上がるのは非常に難しい」という事実が導かれてくる。確実な勝利を得るためには、この環境でおそらく最強のカード、≪ Call of the Herd / 獣群の呼び声 ≫にアドバンテージを取られることなく、クリーチャー戦を制する必要があるのだ。
 
 ベスト 8 に残ったプレイヤーのデッキを調べると、Flametongue Kavu が 20 枚、Repulse が 12 枚。どういったデッキを使うかを選択するというよりも、この 2 枚のカードのうち、どちらを使うかを選択するといった方が正しいかもしれない。メタゲームも、青か緑かの二択に完全に絞られていたように思われる。
 
@@ -410,7 +412,9 @@ render_recovery:
 
 最序盤からトップスピードで攻撃を開始し、残ったライフを火力でそぎ落とす、超速攻デッキである。 《Raging Kavu》 の採用によってそのスピードはさらに上昇、邪魔なブロッカーは火力で焼くだけでなく、≪ Sylvan Might / 森の力 ≫で踏みつぶすこともできる。 ( というより、その方が望ましい。 ) ≪ Ghitu Fire / ギトゥの火 ≫は序盤のマナクリーチャーを排除したり、≪ Kavu Titan / カヴーのタイタン ≫のような大型クリーチャーを除去したり、本体に大ダメージを与えたりと、実に用途の広いカードである。
 
-![](https://i.ormos.uk/7a/91/7a910f93cc597acfb6c243910d60eaaf843863393fb982796ec62706c6f5364f.jpg)2 色デッキのため、サイドボードは前の 2 人と大きく異なってくる。まず、≪ Sudden Impact / 突然の衝撃 ≫は青デッキ対策なだけでなく、ターボバランスに対してもかなりのダメージを期待できる。古き良き≪ Blood Oath / 血の誓い ≫と比べるとどうしても見劣りしてしまうが、無いカードのことを言っても仕方ない。≪ Fact or Fiction / 嘘か真か ≫や Upheaval の直後などが狙い目となる。
+![](https://i.ormos.uk/7a/91/7a910f93cc597acfb6c243910d60eaaf843863393fb982796ec62706c6f5364f.jpg)
+
+2 色デッキのため、サイドボードは前の 2 人と大きく異なってくる。まず、≪ Sudden Impact / 突然の衝撃 ≫は青デッキ対策なだけでなく、ターボバランスに対してもかなりのダメージを期待できる。古き良き≪ Blood Oath / 血の誓い ≫と比べるとどうしても見劣りしてしまうが、無いカードのことを言っても仕方ない。≪ Fact or Fiction / 嘘か真か ≫や Upheaval の直後などが狙い目となる。
 
 ≪ Wing Snare / 翼わな ≫はあまり見かけないカードだが、この環境ではステロイドの天敵、≪ Dromar, the Banisher / 追放するものドロマー ≫や≪ Rakavolver / ラッカボルバー ≫がうろうろしている。この 2 匹を最も効率よく除去できるのがこのカードだったということになる。
 
@@ -428,11 +432,15 @@ render_recovery:
 
 <table><tbody><tr><td><img src="https://i.ormos.uk/dc/12/dc12b9c1e939289f6bee35666f67243cf213e7e463c41a5b1bfaaf30fa343ae2.jpg"></td><td><img src="https://i.ormos.uk/38/ff/38ffb626620d9bd97eb2e5a38f393ef8df8f46f3dea283a2c2e2f94cc092773f.jpg"></td><td><img src="https://i.ormos.uk/32/5e/325e174c0225ae0d3af86e47ee0fb571531bf284ace88b2b896e9599fd027c27.jpg"></td></tr>&#10;<tr><td><img src="https://i.ormos.uk/0a/72/0a72a998d97c36b5cf4d1301f2d7ccefceef07606590bfea8079f36a75eb5f74.jpg"></td><td>&#10;<table>&#10;<tbody><tr>&#10;<td colspan="3">&#10;<p><b>Nagura Hiroto</b><br>Good Staff</p>&#10;</td>&#10;</tr>&#10;<tr>&#10;<td colspan="3"></td>&#10;</tr>&#10;<tr><td colspan="2"><b>Main Deck</b></td><td><b>Sideboard</b></td></tr>&#10;<tr>&#10;<td><pre>4 Llanowar Wastes&#10;4 Swamp&#10;3 Karplusan Forest&#10;1 Sulfurous Springs&#10;3 Shadowblood Ridge&#10;1 Mossfire Valley&#10;4 Forest&#10;4 Urborg Volcano&#10;<br>&#10;4 Flametongue Kavu&#10;4 Spiritmonger&#10;</pre>&#10;</td>&#10;<td><pre>4 Call of the herd&#10;4 Addle&#10;4 Terminate&#10;4 Urza's Rage&#10;4 Duress&#10;4 Pernicious Deed&#10;4 Tainted Pact&#10;</pre>&#10;</td>&#10;<td><pre>4 Thunderscape Battlemage&#10;3 Slay&#10;2 Persecute&#10;2 Yawgmoth's Agenda&#10;2 Execute&#10;2 Engulfing Flames&#10;</pre>&#10;</td>&#10;</tr>&#10;</tbody></table>&#10;</td><td><img src="https://i.ormos.uk/67/d9/67d900e12213f689bdf605cf2c381fa91a32dd523050b5c0578e97908ada0ef8.jpg"></td></tr>&#10;<tr><td><img src="https://i.ormos.uk/c6/f8/c6f8d56b8b03dc3f42dd27f8009b8f96f45c517be16c894ba2ba4ed7f5fa26bb.jpg"></td><td><img src="https://i.ormos.uk/cf/28/cf28ee9cfec87fd7f73e406189f200b43515c2fe9faf07bc50acdde49dbd2bbe.jpg"></td><td><img src="https://i.ormos.uk/74/06/740650ba45b3ea48732dd5a4f68e29e4cdf7d6deead7ed98425e1ccdd08bc023.jpg"></td></tr>&#10;</tbody></table>
 
-![](https://i.ormos.uk/aa/aa/aaaaeeec1c284d431921fd652010138a2af29c2beecbb6539ce1976556fe6539.jpg)これまでに紹介したデッキの中から、パワーカードをピックアップしてきてまとめたようなデッキ。序盤は手札破壊とクリーチャー除去に専念し、最終的に象トークンや 《Spiritmonger 》 で押し切るデッキである。ここまで 1 枚 1 枚のカードが強力だと、≪ Tainted Pact / 汚れた契約 ≫もかなり強く見える。色マナを持ってくるのにも使えるので、かなり汎用性の高い呪文である。
+![](https://i.ormos.uk/aa/aa/aaaaeeec1c284d431921fd652010138a2af29c2beecbb6539ce1976556fe6539.jpg)
+
+これまでに紹介したデッキの中から、パワーカードをピックアップしてきてまとめたようなデッキ。序盤は手札破壊とクリーチャー除去に専念し、最終的に象トークンや 《Spiritmonger 》 で押し切るデッキである。ここまで 1 枚 1 枚のカードが強力だと、≪ Tainted Pact / 汚れた契約 ≫もかなり強く見える。色マナを持ってくるのにも使えるので、かなり汎用性の高い呪文である。
 
 クリーチャー選択を見てみると、まず当然の Call of the Herd 、 Flametongue Kavu に加えて、強力なフィニッシャーとして 《Spiritmonger》 が使われている。このあたりを見ると、このデッキはステロイド系のデッキに当たることを想定して作られていると思われる。
 
-![](https://i.ormos.uk/1f/fb/1ffb1acb5b37655f20b3b1d3270186e555dc1f9b492990c4c1cffd9564140b46.jpg)スペルの方は、手札破壊が 8 枚、リセットが 4 枚、クリーチャー除去が 8 枚と、まさに場も手札も綺麗にしてしまう構成だ。
+![](https://i.ormos.uk/1f/fb/1ffb1acb5b37655f20b3b1d3270186e555dc1f9b492990c4c1cffd9564140b46.jpg)
+
+スペルの方は、手札破壊が 8 枚、リセットが 4 枚、クリーチャー除去が 8 枚と、まさに場も手札も綺麗にしてしまう構成だ。
 
 速攻系に対しては≪ Pernicious Deed / 破滅的な行為 ≫を引けるかどうかが重要なポイントとなる。これはまさしく象トークンを除去するにはうってつけのカードだ。
 
@@ -442,7 +450,9 @@ render_recovery:
 
 <table><tbody><tr><td><img src="https://i.ormos.uk/dc/12/dc12b9c1e939289f6bee35666f67243cf213e7e463c41a5b1bfaaf30fa343ae2.jpg"></td><td><img src="https://i.ormos.uk/38/ff/38ffb626620d9bd97eb2e5a38f393ef8df8f46f3dea283a2c2e2f94cc092773f.jpg"></td><td><img src="https://i.ormos.uk/32/5e/325e174c0225ae0d3af86e47ee0fb571531bf284ace88b2b896e9599fd027c27.jpg"></td></tr>&#10;<tr><td><img src="https://i.ormos.uk/0a/72/0a72a998d97c36b5cf4d1301f2d7ccefceef07606590bfea8079f36a75eb5f74.jpg"></td><td>&#10;<table>&#10;<tbody><tr>&#10;<td colspan="3">&#10;<p><b>Higaki Takao</b><br>Upheaval</p>&#10;</td>&#10;</tr>&#10;<tr>&#10;<td colspan="3"></td>&#10;</tr>&#10;<tr><td colspan="2"><b>Main Deck</b></td><td><b>Sideboard</b></td></tr>&#10;<tr>&#10;<td><pre>9 Island&#10;2 Swamp&#10;4 Underground River&#10;3 Salt Marsh&#10;3 Ancient Spring&#10;3 Darkwater Catacombs&#10;<br>&#10;3 Nightscape Familiar&#10;4 Psychatog&#10;3 Shadowmage Infiltrator&#10;</pre>&#10;</td>&#10;<td><pre>4 Force Spike&#10;4 Repulse&#10;4 Fact or Fiction&#10;4 Undermine&#10;4 Counterspell&#10;2 Upheaval&#10;2 Standstill&#10;2 Recoil&#10;</pre>&#10;</td>&#10;<td><pre>4 Duress&#10;4 Slay&#10;2 Mana Short&#10;2 hibernation&#10;2 Gainsay&#10;1 Shadowmage Infiltrator&#10;</pre>&#10;</td>&#10;</tr>&#10;</tbody></table>&#10;</td><td><img src="https://i.ormos.uk/67/d9/67d900e12213f689bdf605cf2c381fa91a32dd523050b5c0578e97908ada0ef8.jpg"></td></tr>&#10;<tr><td><img src="https://i.ormos.uk/c6/f8/c6f8d56b8b03dc3f42dd27f8009b8f96f45c517be16c894ba2ba4ed7f5fa26bb.jpg"></td><td><img src="https://i.ormos.uk/cf/28/cf28ee9cfec87fd7f73e406189f200b43515c2fe9faf07bc50acdde49dbd2bbe.jpg"></td><td><img src="https://i.ormos.uk/74/06/740650ba45b3ea48732dd5a4f68e29e4cdf7d6deead7ed98425e1ccdd08bc023.jpg"></td></tr>&#10;</tbody></table>
 
-![](https://i.ormos.uk/e1/1c/e11cfddd4ee9e7b2a693c960817624088b3d52a2234c0e083945024c8df6e1f6.jpg)前評判通りの力を見せつけた Upheaval 。檜垣のバージョンでは、ステロイドに弱い部分をかなり削って、防御面で優れたところを見せている。≪ Force Spike / 魔力の乱れ ≫は序盤の展開を退けるだけでなく、リセット後の強さも魅力的だ。 2 ターン目に≪ Salt Marsh / 塩の湿地 ≫を気兼ねなく置けるのも嬉しいところ。
+![](https://i.ormos.uk/e1/1c/e11cfddd4ee9e7b2a693c960817624088b3d52a2234c0e083945024c8df6e1f6.jpg)
+
+前評判通りの力を見せつけた Upheaval 。檜垣のバージョンでは、ステロイドに弱い部分をかなり削って、防御面で優れたところを見せている。≪ Force Spike / 魔力の乱れ ≫は序盤の展開を退けるだけでなく、リセット後の強さも魅力的だ。 2 ターン目に≪ Salt Marsh / 塩の湿地 ≫を気兼ねなく置けるのも嬉しいところ。
 
 他にも、 《Shadowmage Infiltrator》 が 3 枚になっている点や、≪ Nightscape Familiar / 夜景学院の使い魔 ≫が採用されているところに注目したい。すべて速攻系デッキの隆盛を睨んでのことであろう。
 
@@ -454,7 +464,9 @@ render_recovery:
 
 一般的な《 Upheaval / 激動》デッキから黒を抜いて、代わりに緑を足したようなデッキとなっている。ただし、こちらはなんとしても墓地のカードを 7 枚以上にして、スレショルド状態まで持っていくのが最初の目標である。≪ Predict / 予報 ≫、 《Fact or Fiction 》、≪ Opt / 選択 ≫をフル活用して、デッキを回転させれば、素晴らしいコストパフォーマンスを持ったクリーチャーをコントロールすることができる。もちろん、定番の 《Upheaval》 から召喚しても強力で、何もない場に 3 / 3 アンタッチャブルや 4 / 4 が現れることになる。この時点でゲームに勝ったも同然だ。
 
-![](https://i.ormos.uk/d7/bd/d7bd9bb2f0b508d344f3cec800a238c74a44e5f24b86f872277cd3366ae5faf4.jpg)青緑の 2 色で組まれているのに、≪ Mystic Snake / 神秘の蛇 ≫が採用されていないのには何か理由があるのだろう。すぐに思いつくのは、 4 マナという重さだが、詳しいことは分からない。
+![](https://i.ormos.uk/d7/bd/d7bd9bb2f0b508d344f3cec800a238c74a44e5f24b86f872277cd3366ae5faf4.jpg)
+
+青緑の 2 色で組まれているのに、≪ Mystic Snake / 神秘の蛇 ≫が採用されていないのには何か理由があるのだろう。すぐに思いつくのは、 4 マナという重さだが、詳しいことは分からない。
 
 サイドボードで興味深いのは≪ Krosan Beast / クローサの獣 ≫。これは赤緑を強烈に意識したカードである。 8 / 8 という尋常ではないサイズのクリーチャーは、赤いデッキにとっては最悪だ。何しろ、 4 マナで出てきて≪ Shivan Wurm / シヴのワーム ≫よりも巨大なのだから！
 

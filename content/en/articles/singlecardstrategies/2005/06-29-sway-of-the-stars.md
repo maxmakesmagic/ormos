@@ -640,7 +640,9 @@ As soon as you mentioned that combo, Sam, I knew I had to write about Sway of th
 
 Sway of the Stars costs a lot of mana. The [last time](/en/articles/singlecardstrategies/2004/02-18-no-fear) I looked at a card that made me think of a ten casting cost spell, it was covering Eater of Days (and thinking how it gave your opponent a free Time Stretch). 
 
-![](https://i.ormos.uk/c7/cf/c7cf538dc0d4ffc7c79131ebe2ed54638c30ee3635b768c0fb5621e29671d4b6.jpg)Ten mana is a heck of a lot of mana. How are we going to get it?
+![](https://i.ormos.uk/c7/cf/c7cf538dc0d4ffc7c79131ebe2ed54638c30ee3635b768c0fb5621e29671d4b6.jpg)
+
+Ten mana is a heck of a lot of mana. How are we going to get it?
 
 Flares are the first thing that most of us are going to think of. The original Flare was Mana Flare. I still have fond thoughts of the Mana Flare decks that existed way back in the day, but the more modern day variant is Heartbeat of Spring. I’ve written about Heartbeat [already](/en/articles/singlecardstrategies/2005/01-05-heartbeat-of-spring), but it bears mentioning how generally dangerous these Flares are. When you are doubling everyone’s mana, they can do some scary stuff too, and usually before you get the first shot at it.
 

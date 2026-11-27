@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpla02/936.jpg)Canada's own Jeff Cunningham is looking to repeat the performance that landed him the title at Grand Prix - Philadelphia a month ago. He's off to a great start, already 2-0 on the day. Former ABU member Phil Freneau is right there with him, and as always looks slightly on-edge.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpla02/936.jpg)
+
+Canada's own Jeff Cunningham is looking to repeat the performance that landed him the title at Grand Prix - Philadelphia a month ago. He's off to a great start, already 2-0 on the day. Former ABU member Phil Freneau is right there with him, and as always looks slightly on-edge.
 
 The game did not start auspiciously for Cunningham, with a mulligan. Then another. Then another. He stopped at three lands and a morph creature. Freneau went to six, out of a sense of fairness. He did not go further.
 
@@ -63,7 +65,9 @@ His last gasp was a [Threaten](https://web.archive.org/web/20021124000000/http:/
 
 Freneau 1 - Cunningham 0
 
-![](https://i.ormos.uk/d0/8a/d08a1c6adc02223f52cdfb00b230ea411d34707e737c295bdc8c63494c8b463d.jpg)The board froze early in game two, with Cunningham's [Wirewood Herald](https://web.archive.org/web/20021124000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Herald) and morph opposite Freneau's curve of [Festering Goblin](https://web.archive.org/web/20021124000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Festering+Goblin), [Nantuko Husk](https://web.archive.org/web/20021124000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Husk) and [Screeching Buzzard](https://web.archive.org/web/20021124000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Screeching+Buzzard). Freneau was more than content to hit for two while frustrating Cunningham's board. 
+![](https://i.ormos.uk/d0/8a/d08a1c6adc02223f52cdfb00b230ea411d34707e737c295bdc8c63494c8b463d.jpg)
+
+The board froze early in game two, with Cunningham's [Wirewood Herald](https://web.archive.org/web/20021124000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Herald) and morph opposite Freneau's curve of [Festering Goblin](https://web.archive.org/web/20021124000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Festering+Goblin), [Nantuko Husk](https://web.archive.org/web/20021124000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Husk) and [Screeching Buzzard](https://web.archive.org/web/20021124000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Screeching+Buzzard). Freneau was more than content to hit for two while frustrating Cunningham's board. 
 
 [Crown of Suspicion](https://web.archive.org/web/20021124000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Suspicion) increased his clock. Cunningham, on six lands still hadn't made another play. His seventh hit and he tapped four for [Symbiotic Elf](https://web.archive.org/web/20021124000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Symbiotic+Elf). He swung in with the Herald, and Freneau blocked to kill it. That let Cunningham search out his [Wirewood Savage](https://web.archive.org/web/20021124000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Savage), which he put into play.
 

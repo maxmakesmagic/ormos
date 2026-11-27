@@ -309,7 +309,9 @@ Jonsson also took a Barren Moor over a second Profane Prayers at the very end of
 
 After the draft, the clear winners looked to be Thoren, Wise, and Shvartsman. Thoren had the amazing luck of having all the rares in his packs be both red and amazing; he first-picked Starstorm, Menacing Ogre, and Butcher Orgg. He was also passed a Tephraderm that Froehlich took Slice and Dice over.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a933.jpg)Wise was the only blue drafted at the table, which is much easier to accomplish in booster draft than in Rochester. There was just the right amount of blue cards in the card pool—enough to make his deck great, but not so many that someone got suspicious that it was underdrafted and switched into it. Wise ended up with two Mistform Shriekers, Blatant Thievery, two Meddles, and a Clone, among other goodies.
+![](http://www.wizards.com/sideboard/images/pthou02/a933.jpg)
+
+Wise was the only blue drafted at the table, which is much easier to accomplish in booster draft than in Rochester. There was just the right amount of blue cards in the card pool—enough to make his deck great, but not so many that someone got suspicious that it was underdrafted and switched into it. Wise ended up with two Mistform Shriekers, Blatant Thievery, two Meddles, and a Clone, among other goodies.
 
 Shvartsman was passed Silvos, Rogue Elemental and Gigapede near the end of the draft, and he has a monopoly on the common red removal spells.
 

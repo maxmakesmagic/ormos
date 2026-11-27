@@ -44,7 +44,9 @@ archive_source:
   sha256: c3edab62ffd01564af08b03dcb8cb46de1974bae4ae4346cf5c1da55a0c2b121
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmad04/r12fm2_1.jpg)Thomas Gundersen is the only undefeated player in the tournament and they're playing to decide who wins the table.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmad04/r12fm2_1.jpg)
+
+Thomas Gundersen is the only undefeated player in the tournament and they're playing to decide who wins the table.
 
 ### Game 1
 

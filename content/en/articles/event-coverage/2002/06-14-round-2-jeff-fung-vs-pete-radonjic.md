@@ -54,7 +54,9 @@ render_recovery:
 Round 2 Feature Match: Jeff Fung vs. Pete Radonjic  
  by Josh Bennett
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a986.jpg)Old-school west-coast sensation Pete Radonjic faced one of his many arch-nemeses this round: Jeff Fung. Fung has been making the most of his career resurgence, posting top finishes after his win at Grand Prix - Hong Kong gave him a shot in the arm. Radonjic, by contrast, has been taking an extended vacation. He hopes Nationals will be his Welcome Home. The two were both played red-white-blue decks shockingly similar to "Miss America" as designed by Brian Kibler.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a986.jpg)
+
+Old-school west-coast sensation Pete Radonjic faced one of his many arch-nemeses this round: Jeff Fung. Fung has been making the most of his career resurgence, posting top finishes after his win at Grand Prix - Hong Kong gave him a shot in the arm. Radonjic, by contrast, has been taking an extended vacation. He hopes Nationals will be his Welcome Home. The two were both played red-white-blue decks shockingly similar to "Miss America" as designed by Brian Kibler.
 
 Radonjic's mulligan to five was music to Fung's ears. Radonjic couldn't believe it. His first round had been plagued by mulligans, and he just wanted them to stop.
 
@@ -70,7 +72,9 @@ Fung watched patiently while Radonjic played out four consecutive land. He had [
 
 Both players led with [Sunscape Familiar](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sunscape+Familiar), but while Radonjic added Goblin Trenches, Fung went one better with Lighning Angel. This caused Radonjic to sputter about Fung's ubelievable luck. Radonjic was ready with [Flametongue Kavu](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu), though. Fung showed just how good he could be by plucking the lone [Crimson Acolyte](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crimson+Acolyte) he'd sided in.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a981.jpg)Now Radonjic's Flametongue was no offense, and he wouldn't be able to burn out Fung's creatures. Such as the [Merfolk Looter](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter) he played. Radonjic triumphantly threw down [Worship](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Worship). Fung refused to reveal if he had boarded in [Aura Blast](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aura+Blast).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a981.jpg)
+
+Now Radonjic's Flametongue was no offense, and he wouldn't be able to burn out Fung's creatures. Such as the [Merfolk Looter](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter) he played. Radonjic triumphantly threw down [Worship](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Worship). Fung refused to reveal if he had boarded in [Aura Blast](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aura+Blast).
 
 Fung Looted into more Looters. Soon he had three digging through his library while a found Lightning Angel worked over Radonjic's life total. Radonjic's draws weren't giving him a lot of room to maneuver. Eventually Fung found the Aura Blast, and even had [Gainsay](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gainsay) to stop an Ice on his Angel's lethal attack.
 

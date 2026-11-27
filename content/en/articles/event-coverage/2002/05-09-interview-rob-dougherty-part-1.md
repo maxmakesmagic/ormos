@@ -84,7 +84,9 @@ I sat down with Rob at Pro Tour-Nice to get his answers to these questions, and 
 
 **Wachter:** How did you first get into **Magic**?
 
-![](http://www.wizards.com/sideboard/images/Worlds2001/814.jpg)**Dougherty:** I got into **Magic** when the game first came out, or slightly afterwards... it was during Alpha. I was at the GenCon where the game was released, I saw it, and I heard about the random card mechanism and playing for ante. I thought, "Wow, what an incredible scam, I'll never play that game." Then a friend of mine, Jeff Spear, had a friend who was a connoisseur of games, he wrote for a game magazine. This person who knew games really well told Jeff and I "You should play this game, it's amazing" like a month after Gencon, and we said "Oh we heard about it, sounds like a horrible scam, no way." He said, "No, really it's amazing. You should pick it up." So, we each bought a starter and two booster packs, and became completely addicted, and spent thousands and thousands of dollars on cards.
+![](http://www.wizards.com/sideboard/images/Worlds2001/814.jpg)
+
+**Dougherty:** I got into **Magic** when the game first came out, or slightly afterwards... it was during Alpha. I was at the GenCon where the game was released, I saw it, and I heard about the random card mechanism and playing for ante. I thought, "Wow, what an incredible scam, I'll never play that game." Then a friend of mine, Jeff Spear, had a friend who was a connoisseur of games, he wrote for a game magazine. This person who knew games really well told Jeff and I "You should play this game, it's amazing" like a month after Gencon, and we said "Oh we heard about it, sounds like a horrible scam, no way." He said, "No, really it's amazing. You should pick it up." So, we each bought a starter and two booster packs, and became completely addicted, and spent thousands and thousands of dollars on cards.
 
 Fortunately, that was during Alpha, Beta and Unlimited/*Arabian Nights* time, so that was actually a pretty good investment. I was a poor college student at the time so I couldn't afford cards, and I first got into selling cards during Beta. I was playing a game with Jeff Spear, and he was going to order pizza, and I was going to have ramen noodles because I was a college student. Jeff said, "Hey you know, I'm going to order from Uno's, and I'll give you half of a large pizza if you give me that Time Walk." I was like, "Ah! One card from a pack that I paid $2.50 for? Sure, it's the rare one, but less than $2.50 for half of a $15 pizza? Sounds like a pretty good deal to me!" So I gave him that card and I got my half a pizza, and I thought "Gosh, if he's willing to do that, I bet other people would be willing to give things for cards as well" so I started selling cards online. I believe it was... I can't really remember the name of the newsgroup, but there was some tiny newsgroup that started up for **Magic** at the time. As far as I know, there was no one else selling cards online.
 
@@ -122,7 +124,9 @@ So, I was an electrical engineering student, and I was selling cards. And it got
 
 **Wachter:** So it's not all glory. Some people have this idea of "Oh, I can open a game store and play **Magic** all day" but obviously it's not like that.
 
-![](https://i.ormos.uk/2c/41/2c4153462c0c1df20291d12d90c45aa7dce81d8eca8efb3aa575ad902e2425df.jpg)**Dougherty:** No, not unless you've got enough money that you're hiring a complete staff from the get-go, and you're just there to oversee things. If you're starting it up on any kind of reasonable budget, you're going to be the one behind the counter for the foreseeable future. Which means, you're going to be behind the counter, and you're going to be doing all the ordering, and you're going to be doing all the clean up, and you're going to be doing everything that makes the shop run. And you're going to be doing that until you can afford to hire a staff. So you're pretty much going to be working at the shop all the time, so you better love it.
+![](https://i.ormos.uk/2c/41/2c4153462c0c1df20291d12d90c45aa7dce81d8eca8efb3aa575ad902e2425df.jpg)
+
+**Dougherty:** No, not unless you've got enough money that you're hiring a complete staff from the get-go, and you're just there to oversee things. If you're starting it up on any kind of reasonable budget, you're going to be the one behind the counter for the foreseeable future. Which means, you're going to be behind the counter, and you're going to be doing all the ordering, and you're going to be doing all the clean up, and you're going to be doing everything that makes the shop run. And you're going to be doing that until you can afford to hire a staff. So you're pretty much going to be working at the shop all the time, so you better love it.
 
 **Wachter:** How does being a player affect how you run the store, and vice-versa? 
 
@@ -140,7 +144,9 @@ Obviously, combining that with the random cards in packs is sheer genius from a 
 
 **Wachter:** From that point until Pro Tour-New Jersey which was your first Top 8, did you have any finishes that were notable?
 
-![](http://www.wizards.com/sideboard/images/PTNY01/950.jpg)**Dougherty:** My best finish before that Top 8 was 17th place at Pro Tour-Dallas. I had been to a lot of Pro Tours, I'm not exactly sure how many. Something like eight or nine. I was often on the Pro Tour, I went to a lot of qualifiers... it was difficult for me because I couldn't play in the Boston area because I was running the qualifiers there, but I would go to qualifiers in New York and New York City. If there was ever one in the Boston area that I wasn't running, I'd go to that. So yeah, I was often on a lot but didn't have a spectacular finish until that time.
+![](http://www.wizards.com/sideboard/images/PTNY01/950.jpg)
+
+**Dougherty:** My best finish before that Top 8 was 17th place at Pro Tour-Dallas. I had been to a lot of Pro Tours, I'm not exactly sure how many. Something like eight or nine. I was often on the Pro Tour, I went to a lot of qualifiers... it was difficult for me because I couldn't play in the Boston area because I was running the qualifiers there, but I would go to qualifiers in New York and New York City. If there was ever one in the Boston area that I wasn't running, I'd go to that. So yeah, I was often on a lot but didn't have a spectacular finish until that time.
 
 **Wachter:** Did you change your game at all from Pro Tour 1 to then?
 

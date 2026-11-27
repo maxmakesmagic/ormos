@@ -279,7 +279,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds03/a467.jpg)After the draft, Justin was concerned about his deck's lack of two-drops. If Arho got an aggressive draw, Justin could be in trouble. His opponent had Wirewood Symbiote and Timberwatch Elf along with a number of cheap elves.
+![](http://www.wizards.com/sideboard/images/worlds03/a467.jpg)
+
+After the draft, Justin was concerned about his deck's lack of two-drops. If Arho got an aggressive draw, Justin could be in trouble. His opponent had Wirewood Symbiote and Timberwatch Elf along with a number of cheap elves.
 
 The two players had grown familiar with each other over the course of the tournament and they chatted comfortably about the long wait between the draft and the chance to play. "I will never watch another side draft in my life." Arho was obviously kidding but he had seen so many cards drafted over the last hour or so that they were blurring together with the cards in this much more important draft.
 
@@ -329,7 +331,9 @@ The two beasts traded in combat and Arho played his own Timberwatch Elf. Justin 
 
 Vorine stopped the clock with Arho at twelve. Justin had no other action and the two creatures stared at each other across the red zone\\for several turns. Justin finally drew something and he played a 6/6 Wirewood Guardian. 
 
-![](http://www.wizards.com/sideboard/images/worlds03/a464.jpg)A morph and land number twelve hit play for the Finn and he sent the turn back to Justin who played land number ten. "Sigh," was Justin's reaction to Wellwisher. His deck's reaction was land number eleven. Justin had the win but failed to see it. He was holding Wave of Indifference and Wirewood Pride. He could have Waved the Wellwisher, cast Wirewood Pride for +3/+3 and then another +3/+3 would come from the Timberwatch. For whatever reason, he just missed it.
+![](http://www.wizards.com/sideboard/images/worlds03/a464.jpg)
+
+A morph and land number twelve hit play for the Finn and he sent the turn back to Justin who played land number ten. "Sigh," was Justin's reaction to Wellwisher. His deck's reaction was land number eleven. Justin had the win but failed to see it. He was holding Wave of Indifference and Wirewood Pride. He could have Waved the Wellwisher, cast Wirewood Pride for +3/+3 and then another +3/+3 would come from the Timberwatch. For whatever reason, he just missed it.
 
 A Torrent of Fire off the top of the Finn's deck put an end to the game before he would have another turn to figure it out.
 
@@ -405,7 +409,9 @@ Arho – 1 Justin – 1
 
 "Now it gets exciting! I'm charged up now! The third and final game deciding the World Championship—that is pressure." Justin was pumped up and may have been trying to get inside his foe's head.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a462.jpg)Arho remained calm and assured Justin, "I can handle it."
+![](http://www.wizards.com/sideboard/images/worlds03/a462.jpg)
+
+Arho remained calm and assured Justin, "I can handle it."
 
 Gabe came over and high-fived his teammate and said, "GL bro."
 

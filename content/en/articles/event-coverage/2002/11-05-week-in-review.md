@@ -167,7 +167,9 @@ This is more like a month in review this time. I've fallen behind again, and onc
 
 ### The *Magic Online* Invitational
 
-![](https://i.ormos.uk/63/9d/639d641230b9245f414e0724dc0c4b1bdff5ed0323a0d6f0b187dfdb329f929c.jpg)A year ago rumor had it that this year's Invitational would take place in either Buenos Aires or Rio de Janeiro. Finding out that we were to travel to the suburbs of Seattle instead may have been a letdown, but few of those privileged to be invited could truly be disappointed. The fact that the event would be played online was also new and exciting. Dave Humpherys and Eivind Nitter were the only invitees without much **Magic** Online experience, but even they caught on very quickly. The formats were not quite as interesting as in previous years because of the more limited card pool, but they worked out pretty well anyway.
+![](https://i.ormos.uk/63/9d/639d641230b9245f414e0724dc0c4b1bdff5ed0323a0d6f0b187dfdb329f929c.jpg)
+
+A year ago rumor had it that this year's Invitational would take place in either Buenos Aires or Rio de Janeiro. Finding out that we were to travel to the suburbs of Seattle instead may have been a letdown, but few of those privileged to be invited could truly be disappointed. The fact that the event would be played online was also new and exciting. Dave Humpherys and Eivind Nitter were the only invitees without much **Magic** Online experience, but even they caught on very quickly. The formats were not quite as interesting as in previous years because of the more limited card pool, but they worked out pretty well anyway.
 
 Most of us got to Seattle on Wednesday, and spent Thursday sightseeing in Seattle. The definite highlight of the day was an hour-long tour of the Wizards of the Coast headquarters. WOTC is located in Renton, Washington (about thirty minutes' drive away from downtown Seattle) in a complex of three two-story buildings. While most of the work space is taken up by conventional cubicles, room is made for fun as well. For example, they have an actual dojo which hosts a variety of martial arts and fitness classes including - of all things - belly dancing. Perhaps the most impressive room of the building was the large R&D Library. It had all the Magic cards (under lock), pretty much every product ever produced by WOTC and plenty of games and books from other publishers. Those may be used as reference material, but more likely are there for when the staff feels like a game of Risk or Settlers of Catan. In addition to board games and books, the R&D library features a ping-pong table. That one is for research purposes only.
 
@@ -187,13 +189,17 @@ Rochester Draft was certainly the most important event for those spectators who 
 
 Finally, a special treat for all those who had no idea what to play in State Championships, came the New Standard. The results of this format were not quite what most folks expexted. After going 0-3 with Battle of Wits in Extended, Finkel managed a 3-0 in the New Standard. Four players managed 0-3 records with different decks also, leaving even more confusion in the wake of those three rounds.
 
-![](https://i.ormos.uk/e4/12/e4121d41442f1c81719c0a4fce8a3d79f2be24af6275245a5e36a885fba99f56.jpg)When smoke cleared, it came down to Team Punisher's Tomi Walamies and Jens Thoren battling it out in the finals. The Finals would be held across the three Constructed formats. It began with Thoren defeating Walamies in Online Extended. Walamies rallied in Standard, bringing the score up 1-1. It was all Thoren in the last format however, as Thoren's "V" deck at five cards and fifteen life crushed Walamies's "G" deck at five cards twenty life. 
+![](https://i.ormos.uk/e4/12/e4121d41442f1c81719c0a4fce8a3d79f2be24af6275245a5e36a885fba99f56.jpg)
+
+When smoke cleared, it came down to Team Punisher's Tomi Walamies and Jens Thoren battling it out in the finals. The Finals would be held across the three Constructed formats. It began with Thoren defeating Walamies in Online Extended. Walamies rallied in Standard, bringing the score up 1-1. It was all Thoren in the last format however, as Thoren's "V" deck at five cards and fifteen life crushed Walamies's "G" deck at five cards twenty life. 
 
 Thoren's card is not as exciting as some of the others submitted this time around but remember this - no Invitational card has seen print exactly as submitted at the event. I am sure that by the time the next standalone comes out, we are going to see an interesting and powerful card released with Jens's face on it.
 
 ### The Grand Prix Circuit
 
-![](http://www.wizards.com/sideboard/images/GPDET01/sf2d.jpg)Bob Maher was the only American pro to cross the pond and attend Grand Prix-Copenhagen. Having been suspended for six months, Maher was anxious to get some pro points under his belt and the weekend was no disappointment. Maher took home the gold, defeating an incredibly strong Top 8 field that featured Budde, Baberowski, and Thoren. At the same time, Rei Hashimoto won Grand Prix-Utsanomiya - an event in Japan attended by no players from outside the country. 
+![](http://www.wizards.com/sideboard/images/GPDET01/sf2d.jpg)
+
+Bob Maher was the only American pro to cross the pond and attend Grand Prix-Copenhagen. Having been suspended for six months, Maher was anxious to get some pro points under his belt and the weekend was no disappointment. Maher took home the gold, defeating an incredibly strong Top 8 field that featured Budde, Baberowski, and Thoren. At the same time, Rei Hashimoto won Grand Prix-Utsanomiya - an event in Japan attended by no players from outside the country. 
 
 Jeff Cunningham continued the fine tradition of Canadian players winning American Grand Prix. He made it into the Top 8 of GP-Philly that had few other name players, leaving behind Top 16 marked by names such as Maher, Gab Tsang and Gary Wise. 
 

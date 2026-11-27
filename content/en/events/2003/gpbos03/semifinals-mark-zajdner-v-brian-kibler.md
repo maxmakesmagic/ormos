@@ -92,7 +92,9 @@ Before the match started, Kibler declared that he would not lose to Dragons… i
 
 ### Game One:
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a878.jpg)Kibler went first, and both players kept their hands.
+![](https://www.wizards.com/sideboard/images/gpbos03/a878.jpg)
+
+Kibler went first, and both players kept their hands.
 
 Kibler got a quick start, and hit Whipcorder on turn two.
 
@@ -120,7 +122,9 @@ Flamewave Invoker put Brian on one life, but he showed his morph to be a Skinthi
 
 On the last turn of the game, Brian tapped two of Mark’s fliers, but had nothing to say about the Sage Aven.
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a879.jpg)“I WILL NOT lose to Dragons!” exclaimed Kibler.
+![](https://www.wizards.com/sideboard/images/gpbos03/a879.jpg)
+
+“I WILL NOT lose to Dragons!” exclaimed Kibler.
 
 “Actually,” I commented, “you lost *that* game to Sage Aven.”
 
@@ -162,7 +166,9 @@ Zajdner opened up game three with a Goblin Taskmaster.
 
 Kibler got a second turn Whipcorder, and was obviously unwilling to trade with Zajdner’s one-drop goblin.
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a884.jpg)Zajdner started to pull way ahead on the board with a morph, his Flamewave Invoker, and a Mistform Seaswift one after another.
+![](https://www.wizards.com/sideboard/images/gpbos03/a884.jpg)
+
+Zajdner started to pull way ahead on the board with a morph, his Flamewave Invoker, and a Mistform Seaswift one after another.
 
 Kibler, though behind numerically, had the advantage in quality with his Whipcorder and a Daru Stinger who had revealed Wingbeat Warrior and Gustcloak Sentinel.
 

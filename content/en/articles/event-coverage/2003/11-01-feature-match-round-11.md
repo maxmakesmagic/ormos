@@ -44,7 +44,9 @@ archive_source:
   sha256: 96fc3141bce2ebf88ea0fd610c1c6219fc3709045600bfaf51e537d5948e0ec9
 render_recovery: []
 ---
-![Feature Match: Cuneo vs. Okamoto](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/889.jpg)By now, everyone knows the story with Jin Okamoto. After years of barely missing Pro Tour Top 8's (often on tiebreakers) he finally broke through and made it to the finals at Worlds. Even before then, "The Last Emperor" was one of the most respected players in Japan, and now he's going on an incredible run with an 8-2 record. His opponent, Andrew Cuneo, seems to fade in and out of the Pro Tour spotlight. He made the Top 4 of Team Pro Tours back-to-back years with Car Acrobatic Team, and also won the Magic Online Worlds Qualifier, where the grand prize was an invitation with travel expenses paid. He placed in the money at Worlds, yet apparently isn't quite eager to devote more energy to the game.
+![Feature Match: Cuneo vs. Okamoto](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/889.jpg)
+
+By now, everyone knows the story with Jin Okamoto. After years of barely missing Pro Tour Top 8's (often on tiebreakers) he finally broke through and made it to the finals at Worlds. Even before then, "The Last Emperor" was one of the most respected players in Japan, and now he's going on an incredible run with an 8-2 record. His opponent, Andrew Cuneo, seems to fade in and out of the Pro Tour spotlight. He made the Top 4 of Team Pro Tours back-to-back years with Car Acrobatic Team, and also won the Magic Online Worlds Qualifier, where the grand prize was an invitation with travel expenses paid. He placed in the money at Worlds, yet apparently isn't quite eager to devote more energy to the game.
 
 Josh Bennett- "Are you going to start playing more?"
 
@@ -52,7 +54,9 @@ Cuneo- "No. This is my big qualifier for Amsterdam."
 
 ### Game 1
 
-![Andrew Cuneo shocks the crowd by playing Magic](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/893.jpg)Okamoto mulliganed down to six. Cuneo played a first turn [Hermit Druid](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hermit+Druid) with the help of [Chrome Mox](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chrome+Mox), and Okamoto summoned [Skirk Prospector](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Prospector). The Hermit was activated on turn two to dump the library into the graveyard, and [Exhume](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exhume) resulted in a turn two kill. Okamoto laughed with a tone of comical disbelief, as he looked through Cuneo's deck before conceding.
+![Andrew Cuneo shocks the crowd by playing Magic](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/893.jpg)
+
+Okamoto mulliganed down to six. Cuneo played a first turn [Hermit Druid](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hermit+Druid) with the help of [Chrome Mox](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chrome+Mox), and Okamoto summoned [Skirk Prospector](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Prospector). The Hermit was activated on turn two to dump the library into the graveyard, and [Exhume](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exhume) resulted in a turn two kill. Okamoto laughed with a tone of comical disbelief, as he looked through Cuneo's deck before conceding.
 
 Okamoto 0 - Cuneo 1
 

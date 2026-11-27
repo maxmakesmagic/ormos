@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/988.jpg)Prior to a few weeks ago, these two men represented the only Japanese players to play on a Pro Tour Top 8 stage. Fujita was the first to do it back at Pro Tour Tokyo, and made his way to the finals before losing to Zvi Mowshowitz. Kashima made his Top 8 at Venice this season, and seemingly came out of nowhere to do it. Here we have a classic matchup between an established star in Fujita, and someone who simply burst on the scene in Kashima. Fujita is looking to build on his reputation, while Kashima wants to establish his and prove that Venice was not a fluke. Fujita is playing Reanimator, while Kashima has green/blue/white.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/988.jpg)
+
+Prior to a few weeks ago, these two men represented the only Japanese players to play on a Pro Tour Top 8 stage. Fujita was the first to do it back at Pro Tour Tokyo, and made his way to the finals before losing to Zvi Mowshowitz. Kashima made his Top 8 at Venice this season, and seemingly came out of nowhere to do it. Here we have a classic matchup between an established star in Fujita, and someone who simply burst on the scene in Kashima. Fujita is looking to build on his reputation, while Kashima wants to establish his and prove that Venice was not a fluke. Fujita is playing Reanimator, while Kashima has green/blue/white.
 
 ### Game 1
 

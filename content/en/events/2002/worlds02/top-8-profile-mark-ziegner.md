@@ -55,7 +55,9 @@ render_recovery: []
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a591.jpg)Mark Ziegner came into this tournament as a footnote to Kai Budde—a lucky member of Budde's National Team that was destined to play in the team finals on Sunday. That may still be true, but Ziegner has stepped out of Budde's shadow and stolen quite a chunk of the spotlight for himself.
+![](http://www.wizards.com/sideboard/images/worlds02/a591.jpg)
+
+Mark Ziegner came into this tournament as a footnote to Kai Budde—a lucky member of Budde's National Team that was destined to play in the team finals on Sunday. That may still be true, but Ziegner has stepped out of Budde's shadow and stolen quite a chunk of the spotlight for himself.
 
 Ziegner, a 29-year-old court clerk from Mainz, Germany, has been to four previous Pro Tours, but had never before made a dollar. Now, only three people stand between him and $35,000. His best accomplishment to date was a prior appearance on a less-successful German National Team.
 

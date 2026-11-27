@@ -121,7 +121,9 @@ In short, information is a slippery consideration. There are plenty of errors to
 
 ### Resources
 
-[![Squandered_Resources](https://i.ormos.uk/9c/28/9c28f432a0c436b2a34d74725688ae0c76ae2c1060544d67e8fb12824f93cd3a.jpg)](https://web.archive.org/web/20070421000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Squandered%2BResources)Information is consistent. For the most part, you either know it or you don't. (Although new information is introduced by way of the draw step.)
+[![Squandered_Resources](https://i.ormos.uk/9c/28/9c28f432a0c436b2a34d74725688ae0c76ae2c1060544d67e8fb12824f93cd3a.jpg)](https://web.archive.org/web/20070421000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Squandered%2BResources)
+
+Information is consistent. For the most part, you either know it or you don't. (Although new information is introduced by way of the draw step.)
 
 The status of resources regularly changes. Every turn has an untap step, and a new card drawn. A player has the ability to attack with creatures on his turn, but not on his opponent's. Deck size diminishes.
 
@@ -178,7 +180,9 @@ You could play the [Shock](https://web.archive.org/web/20070421000000/https://ga
 
 You could wait to both preserve information and acquire more in case they play a creature enchantment or a more desirable creature to kill before the combat phase.
 
-[![Intuition](https://i.ormos.uk/d2/02/d20217f615a8bffc1b527ee60afe9a943915afabd5b2c6d052c5390741415aed.jpg)](https://web.archive.org/web/20070421000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Intuition)Do you have any idea about specific cards that your opponent could play that influence you one way or another? If this is a core set Draft or Sealed Deck, Black doesn't have much—maybe a creature enchantment that you know your opponent is playing? Green has both creature enchantments and pump spells. Do you have any idea which they have more of, or what they might be holding?
+[![Intuition](https://i.ormos.uk/d2/02/d20217f615a8bffc1b527ee60afe9a943915afabd5b2c6d052c5390741415aed.jpg)](https://web.archive.org/web/20070421000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Intuition)
+
+Do you have any idea about specific cards that your opponent could play that influence you one way or another? If this is a core set Draft or Sealed Deck, Black doesn't have much—maybe a creature enchantment that you know your opponent is playing? Green has both creature enchantments and pump spells. Do you have any idea which they have more of, or what they might be holding?
 
 They have mana untapped, so if they have pump, they can save the Bears if they want. You could wait until their upkeep to disrupt a mana, but then you'd be costing yourself 5 damage and the Bears if they did have the Growth—seems like a bad trade. You could wait until their combat step, and potentially bag a 2 for 1 if they play a creature enchantment. But this, in addition to potentially costing you 5 and a Bears, also allows your opponent the chance to draw the Growth if they don't already have it.
 

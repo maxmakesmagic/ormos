@@ -206,7 +206,9 @@ I'm up for air! What happened?
 
 ### Update on Guest Columnist Gig & Notes From Last Week
 
-![](https://i.ormos.uk/6a/99/6a997168cf71ca488ecbe99b3f9690fb2d97337f359f563971ad009977f74885.jpg)[Last week](/en/articles/intotheaether/2005/01-11-intotheaether-is-flipping-crazy)I put out an open call for guest columnists. I received dozens, and dozens, and still more dozens of great e-mails from folks wanting to write about online clans. Thanks to everyone for your enthusiasm.
+![](https://i.ormos.uk/6a/99/6a997168cf71ca488ecbe99b3f9690fb2d97337f359f563971ad009977f74885.jpg)
+
+[Last week](/en/articles/intotheaether/2005/01-11-intotheaether-is-flipping-crazy)I put out an open call for guest columnists. I received dozens, and dozens, and still more dozens of great e-mails from folks wanting to write about online clans. Thanks to everyone for your enthusiasm.
 
 If you expressed interest and do not receive an e-mail back from me today, then I'm afraid you weren't selected as one of the five finalists. A lot of really great, passionate folks contacted me, and I'm sorry not to send out a response to everyone. Just so you know, one of the deals I made with my wife when taking this column was that I would read all e-mail but respond to only about one percent (as opposed to my tenure at [House of Cards](https://web.archive.org/web/20050118000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/columnarchive&column=HouseofCards) when I responded to everyone who wrote me). I know silence isn't a very satisfying response for something like this, but it's all an attempt to keep my workload sane. I only thought about sending a mass form-letter after I had already deleted several e-mails from my Inbox. Sigh.
 

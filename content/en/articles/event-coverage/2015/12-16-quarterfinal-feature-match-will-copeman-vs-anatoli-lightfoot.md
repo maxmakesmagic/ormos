@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Early Nguyen* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/810.jpg)The first round of the quarterfinals saw Will Copeman playing Trade/Survival face off against Anatoli Lightfoot playing Trix. Having previously admitted that he wasn't confident going into the match up, Will was still adamant that he could pull off a miracle. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/810.jpg)
+
+The first round of the quarterfinals saw Will Copeman playing Trade/Survival face off against Anatoli Lightfoot playing Trix. Having previously admitted that he wasn't confident going into the match up, Will was still adamant that he could pull off a miracle. 
 
 Game one proved to be an encounter of wits, mental concentration, top decking and bluffing skills. Winning the coin toss, Will elected to play first. Drawing his opening hand, Will almost drew a card, releasing just in the nick of time. Will proceeded to play an Island. Since the Grand Prix is Rules Enforcement Level 4, if Will would of draw the card out of turn Will would have received a game loss. On Anatoli's first turn, Anatoli played Duress seeing three counterspells, Forest, Land Grant, and Radiant's Dragoons. Anatoli discarded a Land Grant. Facing possible mana problems Will thankfully drew another Land Grant. Playing a Forest Will revealed his hand to cast Land Grant. 
 

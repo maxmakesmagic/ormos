@@ -711,7 +711,9 @@ Holland said: *“I'd like to see a budget deck with less creatures than spells,
 
 [Last week](/en/articles/buildingonabudget/2006/07-10-azorius-ascendant-control-part-1-of-3), I gave the three basics of control decks: Card Advantage, Board Control, and The Big Finisher. As long as you're following those premises, you've got a control deck. Traditionally, many versions of control have run creature-light, as board sweepers such as Wrath of God, Rout, or Final Judgment can provide card advantage. Not all control decks need to be light on creatures though, especially if those creatures provide card advantage, board control, or are the big finisher.
 
-![ghost_lit_redeemer](https://i.ormos.uk/ef/09/ef094095a79534d51b90da85cc4d22fac04e4c2ecf4b07c6af291c6e4fe028a6.jpg)Sestze said: *“I 100% agree that Ghost-Lit Redeemer is a terrible, terrible card to be playing. At worst, it's a Sacred Nectar at instant speed. Everyone knows that's terrible, right? At best, it's a 1/1 for W that does not net you card advantage or give you options. It's terrible, and too slow against aggro decks.”*
+![ghost_lit_redeemer](https://i.ormos.uk/ef/09/ef094095a79534d51b90da85cc4d22fac04e4c2ecf4b07c6af291c6e4fe028a6.jpg)
+
+Sestze said: *“I 100% agree that Ghost-Lit Redeemer is a terrible, terrible card to be playing. At worst, it's a Sacred Nectar at instant speed. Everyone knows that's terrible, right? At best, it's a 1/1 for W that does not net you card advantage or give you options. It's terrible, and too slow against aggro decks.”*
 
 I'd like to point out the dangers of being dismissive towards a card without due reason. Sestze calls Ghost-Lit Redeemer terrible three times in five sentences, and then gives minimal reasons about why it is bad: too slow against aggro decks (my testing proved otherwise), at worst a Sacred Nectar (which is, in his own words, at worst. I often found it to be quite perfunctory) and that it does not net you card advantage or give you options (half-true – adding six to twelve life per game gives you more turns, which gives you more options). 
 

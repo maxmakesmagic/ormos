@@ -277,19 +277,25 @@ render_recovery:
 ---
 [Draft Coverage](/en/events/2002/gpnj02/draft-coverage-illuminati-vs-your-move-games) 
 
-![](http://www.wizards.com/sideboard/images/gpnj02/890.jpg)This was a match up fit for the grandest setting. Both teams are made up of some of the best players in the history of **Magic**. Illuminati, whose members include Pro Tour Tokyo champion Zvi Mowshowitz, multiple Grand Prix Champion Alex Shvartsman, and former U.S. Nationals Champion Justin Gary, were making a strong run towards a victory this weekend. Their opponents, Your Move Games, are just as accomplished. This group has multiple Pro Tour Top 8s, and is the oldest active team currently competing. 
+![](http://www.wizards.com/sideboard/images/gpnj02/890.jpg)
+
+This was a match up fit for the grandest setting. Both teams are made up of some of the best players in the history of **Magic**. Illuminati, whose members include Pro Tour Tokyo champion Zvi Mowshowitz, multiple Grand Prix Champion Alex Shvartsman, and former U.S. Nationals Champion Justin Gary, were making a strong run towards a victory this weekend. Their opponents, Your Move Games, are just as accomplished. This group has multiple Pro Tour Top 8s, and is the oldest active team currently competing. 
 
 As I sat down I could read the matchups across the table just by the lands that were in play. Alex was green/blue, against Rob's black/green. Mowshowitz was facing Humpherys in a black/red mirror match, and blue/black on blue/white was the tune that Gary and Kastle were singing. 
 
 Shvartsman opened up with a turn three Chlorophant, which was just a 1/1 dork that threatened to grow in a very un-dork like manner. Dougherty summoned forth two three power monsters- Krosan Avenger and Brawn. A Centaur Chieftain from Alex traded with the Avenger, and Brawn was joined by the Leaf Dancer before bringing Shvartsman to seventeen. The Chlorophant received some Unquestioned Authority, and swung for four, bloodying Dougherty for the first time. 
 
-![](http://www.wizards.com/sideboard/images/gpnj02/889.jpg)Rob hit back hard for five with his two creatures, and then went for the gullet with a Giant Warthog which would have been an unmatched monster, if only it had resolved. Alex had Circular Logic ready and waiting, and further compounded Dougherty's woes by summoning Dreamwinder. The Dreamwinder was crunched by Brawn, which found some Sudden Strength to overcome the blue meanie. Alex seemed like he would finally have to stay back on defense, but the Narcissism he played ensured that lethal damage would be stacked on the next turn, thanks to an 11/11 protection from creatures, former dork Chlorophant.
+![](http://www.wizards.com/sideboard/images/gpnj02/889.jpg)
+
+Rob hit back hard for five with his two creatures, and then went for the gullet with a Giant Warthog which would have been an unmatched monster, if only it had resolved. Alex had Circular Logic ready and waiting, and further compounded Dougherty's woes by summoning Dreamwinder. The Dreamwinder was crunched by Brawn, which found some Sudden Strength to overcome the blue meanie. Alex seemed like he would finally have to stay back on defense, but the Narcissism he played ensured that lethal damage would be stacked on the next turn, thanks to an 11/11 protection from creatures, former dork Chlorophant.
 
 Down the Table, Zvi seemed sad, probably because he was beaten game one. Next to them, Kastle and Gary were embroiled in the always long blue on blue match up.
 
 Game two with Alex and Rob started off similarly to game one, with a turn three Chlorophant, the dork-plant from hell. Dougherty once again played Brawn on turn four, matched by Shvartsman's Dreamwinder. The 'Winder and Brawn met in mortal combat once again, sending both monsters to the graveyard, and Dougherty tried his hand at summoning Nightmares in the form of Soul Scourge. 
 
-![](http://www.wizards.com/sideboard/images/gpnj02/888.jpg)Alex sent with his 3/3 plant, but Dougherty didn't want to trade with the Scourge. Dougherty hit for three with the Scourge, and brought out a Krosan Archer, while Shvartsman deployed the trick of tricks, Elephant Ambush. He then untapped, played Narcissism, and served with the team. Everything was good, as Plant and Animal were reunited, fighting good or evil, depending on who you ask.
+![](http://www.wizards.com/sideboard/images/gpnj02/888.jpg)
+
+Alex sent with his 3/3 plant, but Dougherty didn't want to trade with the Scourge. Dougherty hit for three with the Scourge, and brought out a Krosan Archer, while Shvartsman deployed the trick of tricks, Elephant Ambush. He then untapped, played Narcissism, and served with the team. Everything was good, as Plant and Animal were reunited, fighting good or evil, depending on who you ask.
 
 The Archer took one to the head, and died when Alex pumped with Narcissism. Rob had a Treacherous Vampire to summon, and the Scourge swung again. On Alex's turn, the Unquestioned Authority fell on the Chlorophant once again, and a powerful swing brought Dougherty down to six. Rob tried to come back, casting the much maligned Venomous Vines on the enchanted 'Phant. Shvartsman countered with Circular Logic activated by Narcissism, and was free to end the game and the match with a victory swing from the enormous fungus.
 

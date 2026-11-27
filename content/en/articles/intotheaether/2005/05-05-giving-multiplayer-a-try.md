@@ -689,7 +689,9 @@ render_recovery:
 
 ### MTGO Multiplayer
 
-![](http://www.wizards.com/magic/images/MTGO_icon_multiplayer.jpg)One of the things I've been looking forward to is trying out the multiplayer options for ***Magic** Online*. I first fell in love with **Magic** as a multiplayer game, with a handful of gaming buddies getting together around the kitchen table every weekend with our 200 card decks, slinging spells and talking trash and angling for the ante. Deckbuilding was a crude art form, most of us just playing one or two color decks stuffed with all of our favorite spells and however much mana seemed right (as in, keep adding land until you didn't get mana screwed as much). Occasionally we might shoehorn in a third color if we managed to win a crucial off-color spell in ante and were feeling bold.
+![](http://www.wizards.com/magic/images/MTGO_icon_multiplayer.jpg)
+
+One of the things I've been looking forward to is trying out the multiplayer options for ***Magic** Online*. I first fell in love with **Magic** as a multiplayer game, with a handful of gaming buddies getting together around the kitchen table every weekend with our 200 card decks, slinging spells and talking trash and angling for the ante. Deckbuilding was a crude art form, most of us just playing one or two color decks stuffed with all of our favorite spells and however much mana seemed right (as in, keep adding land until you didn't get mana screwed as much). Occasionally we might shoehorn in a third color if we managed to win a crucial off-color spell in ante and were feeling bold.
 
 Even as I discovered and fell in love with competitive tournament **Magic**, learning to craft lean, mean decks focused primarily on winning first and foremost, and having fun a close second, I still fed my group game habit whenever I could, organizing multiplayer “tournaments” at the local game shop where everyone tossed in an ante of a booster pack or rare and the games would last all afternoon. Recently my longtime local game shop hangout closed up, so it's been a while and I've been feeling the urge to gather round a table again with multiple opponents, where politics and fun play a much larger role. Luckily, ***Magic** Online* gives you plenty of virtual tabletop space and a horde of players worldwide ready to jump in and game on!
 
@@ -703,7 +705,9 @@ Birds, Sakura-Tribe Elders, and Solemn Simulacrums are no-brainers for mana fixi
 
 As for the Bringers, the blue and black ones represent the strongest ones on their own. The blue Bringers are fine in multiples so I put in three of them, but Black bringers after the first are redundant outside of just being a big body. I decided to use Fierce Empaths to fetch whichever Bringer seemed best at the time, and finished out the bunch with one each of the Red and White Bringers for the end game. The Red Bringer would tilt the game by using my opponents' best creatures against them, and for kicks I'll throw in a Bloodshot Cyclops to add insult to injury. The White Bringer and Mindslaver lock is there to finish off my last opponent or to stop someone from setting up his or her killer combo.
 
-![](https://i.ormos.uk/35/af/35afbee0da4ae8b1f5c59c000d35a36dfc4059f9b318b03be9690eb8cebfefbe.jpg)Yes, I know it's sad, but the green Bringer sits this one out. I'm used to Verdant Forces in group games, I knew Verdant Force well and you sir are no Verdant Force!
+![](https://i.ormos.uk/35/af/35afbee0da4ae8b1f5c59c000d35a36dfc4059f9b318b03be9690eb8cebfefbe.jpg)
+
+Yes, I know it's sad, but the green Bringer sits this one out. I'm used to Verdant Forces in group games, I knew Verdant Force well and you sir are no Verdant Force!
 
 Rounding out the deck, Clearwater Goblet seems like a good option in a five-color deck, especially to offset the life loss from the Black Bringer. For utility it's hard to beat Engineered Explosives, Aura Shards, Aura Mutation and Artifact Mutation. Well, Pernicious Deed would beat them all (assuming you have them), but that seems like too much of a blunt object, lacking in finesse and style. A single Oversold Cemetery plus Eternal Witnesses gives the deck some recursion if needed. ***Magic** Online* expressed concern over my lack of a sideboard but I told it not to worry.
 

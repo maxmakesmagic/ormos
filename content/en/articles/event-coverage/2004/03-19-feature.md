@@ -44,7 +44,9 @@ archive_source:
   sha256: 9100b9fb567386bd45f6cac0c21d4a60971129db2f8d2d68c90143c4607f5d91
 render_recovery: []
 ---
-![](https://i.ormos.uk/33/2d/332dd358811a87ec209bd5d103af971cd8503e3569f2f13d4f72a593da0269c7.jpg)Arguably, no one is on more of a roll right now in competitive Magic than Kazumasa Shiki. The rookie started off with a 17th place finish at Pro Tour New Orleans, won Grand Prix Okayama, and came in ninth at Pro Tour Kobe, barely missing Top 8 on tiebreakers. All this has made him the favorite to win Rookie of the Year, following in the footsteps of other Japanese Magic powerhouses Katsuhiro Mori and Masashi Oiso. Even though Shiki's career has just started, the finishes he's been putting up show that he is a true talent, and it will be exciting to see what the future holds for him. I sat down with him on Saturday to find out a little more about where he's been, and where he's headed.
+![](https://i.ormos.uk/33/2d/332dd358811a87ec209bd5d103af971cd8503e3569f2f13d4f72a593da0269c7.jpg)
+
+Arguably, no one is on more of a roll right now in competitive Magic than Kazumasa Shiki. The rookie started off with a 17th place finish at Pro Tour New Orleans, won Grand Prix Okayama, and came in ninth at Pro Tour Kobe, barely missing Top 8 on tiebreakers. All this has made him the favorite to win Rookie of the Year, following in the footsteps of other Japanese Magic powerhouses Katsuhiro Mori and Masashi Oiso. Even though Shiki's career has just started, the finishes he's been putting up show that he is a true talent, and it will be exciting to see what the future holds for him. I sat down with him on Saturday to find out a little more about where he's been, and where he's headed.
 
 *Translation by Ron Foster*
 

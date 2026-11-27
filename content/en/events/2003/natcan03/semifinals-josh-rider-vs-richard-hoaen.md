@@ -93,7 +93,9 @@ Josh Rider is trying his best not to let his success get the better of him. All 
 
 ### Game 1
 
-![](https://i.ormos.uk/4b/77/4b77edf43dd316ec59b933d9c12f885513a7995616ee4c8c461e3edb4266fa88.jpg)Rider's lack of mulligans came back to haunt him as he was forced to go down to five cards. Hoaen jokingly reached to increment his game count. An early Cabal Therapy from Rider for Counterspells missed, but saw that Hoaen had a pair of Concentrates, Psychatog and Smother in hand. Two turns later, Rider played a mainphase Caller of the Claw. Hoaen moved to Smother.
+![](https://i.ormos.uk/4b/77/4b77edf43dd316ec59b933d9c12f885513a7995616ee4c8c461e3edb4266fa88.jpg)
+
+Rider's lack of mulligans came back to haunt him as he was forced to go down to five cards. Hoaen jokingly reached to increment his game count. An early Cabal Therapy from Rider for Counterspells missed, but saw that Hoaen had a pair of Concentrates, Psychatog and Smother in hand. Two turns later, Rider played a mainphase Caller of the Claw. Hoaen moved to Smother.
 
 "You, my friend, are jumping the gun" – Josh Rider
 
@@ -113,7 +115,9 @@ Hoaen fetched the Logic from his board and shut down the Centaur. Finally Rider 
 
 Hoaen played a land and passed. Rider Therapied him for Counterspell, missed, but saw Concentrate, Psychatog, Innocent Blood and Smother. He immediately sacrificed his Herald to steal the Concentrate, but forgot to search for another. He shook his head at his mistake. Hoaen made no play. Rider made Stronghold Assassin. Hoaen dug for more action with Deep Analysis. Rider hit and made a Herald.
 
-![](https://i.ormos.uk/35/a5/35a5d4c26adf433b06daf818cf8d05178f0e0b06f57d92217680c3d42db002fe.jpg)Finally Hoaen was moved to action. He spent his Blood and dropped Psychatog. Rider tried Faceless Butcher, but Hoaen had the Circular Logic. The next turn Rider tried again, but this time Butcher fell to Counterspell, and Living Wish to Circular Logic, leaving him empty-handed. 
+![](https://i.ormos.uk/35/a5/35a5d4c26adf433b06daf818cf8d05178f0e0b06f57d92217680c3d42db002fe.jpg)
+
+Finally Hoaen was moved to action. He spent his Blood and dropped Psychatog. Rider tried Faceless Butcher, but Hoaen had the Circular Logic. The next turn Rider tried again, but this time Butcher fell to Counterspell, and Living Wish to Circular Logic, leaving him empty-handed. 
 
 Hoaen Smothered the Assassin and started swinging. Rider found an Elf for insurance before the Psychatog would be lethal, and then managed to resolve Oversold Cemetery. He got back his Phantom Centaur, which also resolved. He waited a couple of turns before daring to swing, so he'd have a few more blockers and a Caller in hand. Finally he swung. Hoaen smiled and nudged his Psychatog to block.
 
@@ -145,7 +149,9 @@ Rider tried another Centaur, but Hoaen had the Logic. That was okay, though, bec
 
 "I don't believe this guy." – Richard Hoaen
 
-![](http://www.wizards.com/sideboard/images/natcan03/a897.jpg)"Who's the loser match?" – Elijah Pollock
+![](http://www.wizards.com/sideboard/images/natcan03/a897.jpg)
+
+"Who's the loser match?" – Elijah Pollock
 
 "Uh, Guillaume and me. I mean..." – Richard Hoaen
 

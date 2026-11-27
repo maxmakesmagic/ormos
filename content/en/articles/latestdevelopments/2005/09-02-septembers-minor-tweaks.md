@@ -128,7 +128,9 @@ No news is good news. Umezawa's Jitte is a monster in block, but players adapted
 
 ### Extended
 
-![](https://i.ormos.uk/b4/e1/b4e1d7735eb11ccf280f0ddb6ab0eb700c5132f63edc030179102db18f4a0418.jpg)Last season's Extended metagame was pretty amazing. There were lots and lots of decks—all of them very powerful and very fast. Of course, with the format rotating in October, we lose a lot of that diversity.
+![](https://i.ormos.uk/b4/e1/b4e1d7735eb11ccf280f0ddb6ab0eb700c5132f63edc030179102db18f4a0418.jpg)
+
+Last season's Extended metagame was pretty amazing. There were lots and lots of decks—all of them very powerful and very fast. Of course, with the format rotating in October, we lose a lot of that diversity.
 
 The fact that nothing approximating a normal control deck was viable in the format was not a huge problem considering the wide range of options. But with half the decks rotating out, we had to take a serious look at starting the “new” format off in a place more conducive to a traditional “rock-paper-scissors” metagame.
 
@@ -142,7 +144,9 @@ Will there still be a good Goblin deck? Absolutely. Affinity deck? Yes, hopefull
 
 ### Vintage and Legacy
 
-![](https://i.ormos.uk/21/87/21874e9408422e6a884bb44ffa31508e0c0bae94f845aa9d605b378187e51c34.jpg)Very little has changed, even with all the new data we received from the Champs events at GenCon. Both formats appear vibrant and healthy. We're OK with Gifts Ungiven in Vintage, and we're still OK with Mishra's Workshop and Mana Drain. Goblins looks like the powerhouse deck to beat in Legacy, but we're confident that with the thousands and thousands of cards at their disposal in that format that players will find a way to stop the little red menace, Aether Vial and all.
+![](https://i.ormos.uk/21/87/21874e9408422e6a884bb44ffa31508e0c0bae94f845aa9d605b378187e51c34.jpg)
+
+Very little has changed, even with all the new data we received from the Champs events at GenCon. Both formats appear vibrant and healthy. We're OK with Gifts Ungiven in Vintage, and we're still OK with Mishra's Workshop and Mana Drain. Goblins looks like the powerhouse deck to beat in Legacy, but we're confident that with the thousands and thousands of cards at their disposal in that format that players will find a way to stop the little red menace, Aether Vial and all.
 
 *Portal* and *Starter* cards become legal as advertised back in March, and the same cards we promised to ban and restrict from those sets are the ones to actually end up on the lists.
 
@@ -152,7 +156,9 @@ As for Legacy, I can imagine the two upcoming Grand Prix events shaking things u
 
 ### Online Formats
 
-![](https://i.ormos.uk/5c/f0/5cf05ff080c79ab20cb13402082cfa00743b916692002cdd4095a123dbaf18f0.jpg)After we made the last batch of bannings in Prismatic, I was bombarded online about two cards—Rude Awakening and Upheaval. “Why didn't we ban those?” players asked. So I did my own brand of “research” and started playing the heck out of the format and talking to other players.
+![](https://i.ormos.uk/5c/f0/5cf05ff080c79ab20cb13402082cfa00743b916692002cdd4095a123dbaf18f0.jpg)
+
+After we made the last batch of bannings in Prismatic, I was bombarded online about two cards—Rude Awakening and Upheaval. “Why didn't we ban those?” players asked. So I did my own brand of “research” and started playing the heck out of the format and talking to other players.
 
 They were right. Those two cards were game-wreckers along the lines of Sundering Titan. You could do nothing but draw cards and fix your mana for the first few turns, and then—POW!—cast either of these spells for an almost guaranteed win. The cards were way more offensive than most of the stuff that is already banned, and if they were keeping people from playing the format, they certainly needed to go.
 

@@ -629,7 +629,9 @@ render_recovery:
 
 Welcome back to Building on a Budget! My name is Ben Bleiweiss, and we're rounding the corner towards the tail end of 10 Decks in 10 Weeks! In last week's article, I finished up with a white-blue deck centered around Momentary Blink, creatures with a comes-into-play ability, and the rescue creatures from *Planar Chaos*. In this edition of 10 Decks in 10 Weeks, I take out the blue and move to the Mountains.
 
-![](https://i.ormos.uk/ce/17/ce17ed7b2d1ea108ad0cbe796ed4fb7347dd80e06614d364ebdd1a73e145830a.jpg)Pandemonium is one of those cards that everyone gives consideration to, but that rarely works out in practice. The reason why Pandemonium often fails to achieve the desired results is because it is a very potent double-edged sword. Your opponent can use Pandemonium just as well you can, and often will do so first since you have spent the majority of your mana to cast Pandemonium itself. 
+![](https://i.ormos.uk/ce/17/ce17ed7b2d1ea108ad0cbe796ed4fb7347dd80e06614d364ebdd1a73e145830a.jpg)
+
+Pandemonium is one of those cards that everyone gives consideration to, but that rarely works out in practice. The reason why Pandemonium often fails to achieve the desired results is because it is a very potent double-edged sword. Your opponent can use Pandemonium just as well you can, and often will do so first since you have spent the majority of your mana to cast Pandemonium itself. 
 
 Traditionally, there have been two successful types of decks that have employed Pandemonium:
 

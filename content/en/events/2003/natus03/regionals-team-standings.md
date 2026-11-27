@@ -53,7 +53,9 @@ archive_source:
   sha256: 932904cc2d0a8958e7cbb63ba9b4166c1c47d90bf0f4d41dfbbb79b0a0b034a1
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a999.jpg)An experiment is brewing in San Diego. For the first time at US Nationals, Sideboard is tracking the results of each of the Regionals teams that were fielded from around the country. Most Regionals earn eight players a berth at Nationals and after three days of competition the team with the highest four performances will be awarded the title of Nationals Team Champions and all the players on that team will win a box of *Scourge*.
+![](http://www.wizards.com/sideboard/images/natus03/a999.jpg)
+
+An experiment is brewing in San Diego. For the first time at US Nationals, Sideboard is tracking the results of each of the Regionals teams that were fielded from around the country. Most Regionals earn eight players a berth at Nationals and after three days of competition the team with the highest four performances will be awarded the title of Nationals Team Champions and all the players on that team will win a box of *Scourge*.
 
 Obviously there are some wrinkles. Hawaii, Alaska, and Puerto Rico all field two winners. They have been combined as one team. There are also three US Military regionals that field two players each—they have also been combined to form one team. If this experiment is deemed successful there is a chance it will be continued next year—here and abroad—with the possibility of bigger prizes looming on the horizon.
 

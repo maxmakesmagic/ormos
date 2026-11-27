@@ -103,7 +103,9 @@ Now, here's the interesting bit: What's the correct play here, with certain deat
 
 If you answered "Pass the turn," you win a prize. Because that moment is the perfect time for The Rabbit Play. 
 
-[![Zodiac_Rabbit](https://i.ormos.uk/c1/51/c151634bea69448c2f7b058b83152b802b90cdb03fcc55429d228e5079e830af.jpg)](https://web.archive.org/web/20071016000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Zodiac%2BRabbit)Experienced duelists might quiver at this idea. After all, you're passing the turn with certain death on the table! Surely, it's better to stave off certain death than it is to do nothing at all!
+[![Zodiac_Rabbit](https://i.ormos.uk/c1/51/c151634bea69448c2f7b058b83152b802b90cdb03fcc55429d228e5079e830af.jpg)](https://web.archive.org/web/20071016000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Zodiac%2BRabbit)
+
+Experienced duelists might quiver at this idea. After all, you're passing the turn with certain death on the table! Surely, it's better to stave off certain death than it is to do nothing at all!
 
 But in multiplayer – not often, but enough that it's worth noting – the correct play is "Do nothing, and hope your opponents choose not to kill you." In other words, you rabbit – crouch down in the underbrush and hope no one pays attention to cute little you. 
 
@@ -142,7 +144,9 @@ But your last, best hope of survival is *doing nothing*.
 
 In a duel, that'd be crazy. After all, your opponent has no one else to attack, so he's going to go after you every time. You cast every threat and defensive card you can *get* when you're that low on life. But in multiplayer Chaos, your opponents have *many* people to choose from when declaring their attack phase. The Elves may decide that they don't want to leave themselves that open to the Knights' counterattack-and-burn. The Knights may fear an [Overrun](https://web.archive.org/web/20071016000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Overrun) from the Elves, and thus not want to commit to defeating you. 
 
-[![Path_of_Peace](https://i.ormos.uk/a9/6d/a96dbb636a15f51b548f07ea456e5fbf481d51a0acee77b3151fe88fc6c39905.jpg)](https://web.archive.org/web/20071016000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Path%2Bof%2BPeace)In other words, maybe they'll go elsewhere. So you take a gamble. 
+[![Path_of_Peace](https://i.ormos.uk/a9/6d/a96dbb636a15f51b548f07ea456e5fbf481d51a0acee77b3151fe88fc6c39905.jpg)](https://web.archive.org/web/20071016000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Path%2Bof%2BPeace)
+
+In other words, maybe they'll go elsewhere. So you take a gamble. 
 
 Nothing's certain, of course. But ask yourself two questions: 
 
@@ -195,7 +199,9 @@ And did I get suggestions? Oh, you know I did.
 
 Unfortunately, I accidentally deleted the email of the fine gentleman who suggested the animal "Shark." 
 
-[![Giant_Shark](https://i.ormos.uk/51/b9/51b9d419e70fd79e84a3c2bc1168363ab0e348dc48a71d73bb2556a880a8fc5a.jpg)](https://web.archive.org/web/20071016000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Giant%2BShark)"Shark?" you cry. "That's crazy! Sharks are huge beasts! I saw Jaws, I know they're nutso strong! How can you say a shark is weak?"
+[![Giant_Shark](https://i.ormos.uk/51/b9/51b9d419e70fd79e84a3c2bc1168363ab0e348dc48a71d73bb2556a880a8fc5a.jpg)](https://web.archive.org/web/20071016000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Giant%2BShark)
+
+"Shark?" you cry. "That's crazy! Sharks are huge beasts! I saw Jaws, I know they're nutso strong! How can you say a shark is weak?"
 
 But look at the statistics. We're terrified of sharks. But what are your actual chances of being bitten by a shark? Even if you swim off the Florida coast every day, it's *still* pretty abysmal. The ratio of "oceanic dips to shark bites" is *unfathomably* large (if you'll pardon the pun). And not every shark is a man-eater. 
 

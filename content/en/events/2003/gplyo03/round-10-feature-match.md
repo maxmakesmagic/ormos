@@ -53,7 +53,9 @@ archive_source:
   sha256: 292f905e603d2eb94df9073cd55379d5e248e36fa9e304373b7a44a5b5717adf
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gplyo03/a894.jpg)In this all French matchup, Lionel was still undefeated in the tournament while Amiel already had one loss. The draft went rather well for Amiel though, receiving two Loxodon Warhammers – the card everyone wants to have in this format.
+![](http://www.wizards.com/sideboard/images/gplyo03/a894.jpg)
+
+In this all French matchup, Lionel was still undefeated in the tournament while Amiel already had one loss. The draft went rather well for Amiel though, receiving two Loxodon Warhammers – the card everyone wants to have in this format.
 
 ### Game 1
 
@@ -63,7 +65,9 @@ Lionel played a Soul Foundry on his turn, imprinting it with Moriok Scavenger. A
 
 Lionel decided it was time for him to start attacking, and sent Pewter Golem into the Red Zone and played a Goblin War Wagon. Amiel mentioned he'd like to draw his Warhammers at some point this game, but instead the top of his deck brought him a Tel-Jilad Archers, which wasn't the worst thing to draw there. The Archers attacked next turn and took Lionel down to 12 life. Lionel activated his Stalking Stones and made a Bonesplitter and declared his attack. After Amiel tapped down the Goblin War Wagon, Lionel passed the turn. Amiel's next turn made the game look good for him – Loxodon Warhammer came down and equipped one of Amiel's Skyhunter Cubs. Lionel had an Irradiate for the Cub but there was another one about to come flying over.
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a895.jpg)As a last ditch effort Lionel equipped his Cobalt Golem with Bonesplitter and sent all of his creatures charging towards Amiel. This took Amiel down to 3 life after he blocked Lionel's Pewter Golem with his Archers. A Betrayal of Flesh with entwine finished off Amiel's other Skyhunter Cub and suddenly the game didn't look quite as good for him. He had a Blinding Beam to keep Lionel's creatures tapped down for a turn though, giving him a chance to catch up anyway. Still the Pewter Golem and Goblin War Wagon attacked, forcing Amiel to chumpblock with his Auriok Transfixer. Soldier Replica came down in an attempt to stop Lionel's attacks but it wasn't enough as Lionel had an Aether Spellbomb to make sure his next attack was lethal.
+![](http://www.wizards.com/sideboard/images/gplyo03/a895.jpg)
+
+As a last ditch effort Lionel equipped his Cobalt Golem with Bonesplitter and sent all of his creatures charging towards Amiel. This took Amiel down to 3 life after he blocked Lionel's Pewter Golem with his Archers. A Betrayal of Flesh with entwine finished off Amiel's other Skyhunter Cub and suddenly the game didn't look quite as good for him. He had a Blinding Beam to keep Lionel's creatures tapped down for a turn though, giving him a chance to catch up anyway. Still the Pewter Golem and Goblin War Wagon attacked, forcing Amiel to chumpblock with his Auriok Transfixer. Soldier Replica came down in an attempt to stop Lionel's attacks but it wasn't enough as Lionel had an Aether Spellbomb to make sure his next attack was lethal.
 
 Amiel 0 – Lionel 1
 
@@ -79,7 +83,9 @@ Amiel 1 – Lionel 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a896.jpg)For the final game it was Lionel who had to take a mulligan. As a result it was Amiel with the first play of the game – a third turn Skyhunter Cub. A Viridian Longbow made sure the Cub would fly over Lionel's fourth turn Cobalt Golem. Also his Myr Enforcer wasn't about to stop the Cub, but it was a good answer, providing Lionel with some pressure of his own. It was enough for Amiel to not attack with his Skyhunter Cub, but Lionel had an Arrest for it, taking Amiel down to 12 life already. Amiel had a Myr Enforcer of his own, but decided not to trade it for Lionel's when he attacked with it. Lionel added a Goblin War Wagon to his side of the board afterwards. 
+![](http://www.wizards.com/sideboard/images/gplyo03/a896.jpg)
+
+For the final game it was Lionel who had to take a mulligan. As a result it was Amiel with the first play of the game – a third turn Skyhunter Cub. A Viridian Longbow made sure the Cub would fly over Lionel's fourth turn Cobalt Golem. Also his Myr Enforcer wasn't about to stop the Cub, but it was a good answer, providing Lionel with some pressure of his own. It was enough for Amiel to not attack with his Skyhunter Cub, but Lionel had an Arrest for it, taking Amiel down to 12 life already. Amiel had a Myr Enforcer of his own, but decided not to trade it for Lionel's when he attacked with it. Lionel added a Goblin War Wagon to his side of the board afterwards. 
 
 Loxodon Warhammer came down for Amiel and equipped his Myr Enforcer, which went unblocked when it attacked. Irradiate finished it off though, and Lionel's beasts retaliated, taking Amiel down to 6 life. The best Amiel could muster on his turn was a Rustspore Ram that had to destroy one of his own equipment – the Viridian Longbow. A Betrayal of Flesh made sure Amiel had to burn his Blinding Beam to survive that turn, but he couldn't afford to pay the Entwine cost on it. Amiel played another creature, but Lionel had an Aether Spellbomb to make sure his forces were going to finish off Amiel next turn.
 

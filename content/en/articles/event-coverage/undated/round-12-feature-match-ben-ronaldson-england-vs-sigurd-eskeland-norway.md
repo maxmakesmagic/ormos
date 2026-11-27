@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/736.jpg)After eleven rounds of play, England's Ben Ronaldson and 2000 Pro Tour New York Champion Sigurd Eskeland both had 7-3-1 records. In order to have a shot, not likely though but still, they needed to win the last three matches of the day. Ronaldson, whom Randy Buehler considers one of the most important players in the World right now, had brought a mono-white rebel deck to Chicago. Eskeland had picked up a rebel deck as well, although his version had blue in it for some countermagic. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/736.jpg)
+
+After eleven rounds of play, England's Ben Ronaldson and 2000 Pro Tour New York Champion Sigurd Eskeland both had 7-3-1 records. In order to have a shot, not likely though but still, they needed to win the last three matches of the day. Ronaldson, whom Randy Buehler considers one of the most important players in the World right now, had brought a mono-white rebel deck to Chicago. Eskeland had picked up a rebel deck as well, although his version had blue in it for some countermagic. 
 
 **Game 1** 
 
@@ -59,7 +61,9 @@ Ronaldson was wearing Dirk Baberowski's Top 8 shirt for the occasion, and he cho
 
 So although Ronaldson got to play first, he didn't get the quickest start. In fact, he played three lands, while Sigurd got out a turn one Ramosian Sergeant and then a third turn Lin Sivvi. But after all, Ronaldson had the Wrath of God, and he chose to use it during his fourth turn to wipe out the Sivvi and the Sergeant. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/735.jpg)But Sigurd played his second Lin Sivvi, and Ronaldson then played his Parallax Wave and waved out the Lin Sivvi. However, he was unable to use the advantage he won to the fullest as Sigurd dropped a Rishadan Port and then a Dust Bowl. The Norwegian tapped down one of Ronaldson's lands and destroyed one of the Dust Bowls before the Englishman drew another land - a Rishadan Port. Eskeland destroyed the second Dust Bowl, leaving Ronaldson with two Plains and a Rishadan Port in play. But Ronaldson drew a Plains and chose to play his second Parallax Wave as Eskeland would get him down to three lands during his next turn. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/735.jpg)
+
+But Sigurd played his second Lin Sivvi, and Ronaldson then played his Parallax Wave and waved out the Lin Sivvi. However, he was unable to use the advantage he won to the fullest as Sigurd dropped a Rishadan Port and then a Dust Bowl. The Norwegian tapped down one of Ronaldson's lands and destroyed one of the Dust Bowls before the Englishman drew another land - a Rishadan Port. Eskeland destroyed the second Dust Bowl, leaving Ronaldson with two Plains and a Rishadan Port in play. But Ronaldson drew a Plains and chose to play his second Parallax Wave as Eskeland would get him down to three lands during his next turn. 
 
 Eskeland did indeed destroy the Port as well, but Ronaldson drew a fourth Plains and played it. So Sigurd figured that it was time to start getting out some more rebels, and he summoned a Defiant Falcon after laying his "sideboard Island." Then, he tapped down one of Ronaldson's Plains during his upkeep to prevent him from getting to four mana. 
 
@@ -77,7 +81,9 @@ Ronaldson played another Lin Sivvi, but Eskeland cast yet another Wrath of God. 
 
 Having the upper hand, Ronaldson started attacking with Mageta. He also cast a Parallax Wave and waved out the Falcon. Eskeland Disenchanted the Wave, and after taking a few hits from the Mageta, he was able to search for a Lin Sivvi. However, Ronaldson then figured it was time to activate Mageta, and he cleared the table before continuing the attack. 
 
-![](https://i.ormos.uk/68/80/6880c3d983742bbaaebae25a14bcbdafc299ffe08480aab75ef65bb296f4c222.jpg)Eskeland got out a Steadfast Guard and a Ramosian Sergeant, and Ronaldson activated Mageta yet again to kill them. Then, the Norwegian drew into a Wrath of God, and finally he got rid of the Mageta and a Ramosian Sergeant that Ronaldson had cast. He was at one life only though, and things looked bad for him when Ronaldson played a Defiant Falcon and a Parallax Wave. Trying to survive, he Disenchanted the Wave and then played his own Falcon that blocked the other. But when Ronaldson dropped another Mageta the Lion with a Seal on the table for Eskeland's Parallax Wave, the game was over. 
+![](https://i.ormos.uk/68/80/6880c3d983742bbaaebae25a14bcbdafc299ffe08480aab75ef65bb296f4c222.jpg)
+
+Eskeland got out a Steadfast Guard and a Ramosian Sergeant, and Ronaldson activated Mageta yet again to kill them. Then, the Norwegian drew into a Wrath of God, and finally he got rid of the Mageta and a Ramosian Sergeant that Ronaldson had cast. He was at one life only though, and things looked bad for him when Ronaldson played a Defiant Falcon and a Parallax Wave. Trying to survive, he Disenchanted the Wave and then played his own Falcon that blocked the other. But when Ronaldson dropped another Mageta the Lion with a Seal on the table for Eskeland's Parallax Wave, the game was over. 
 
 Ronaldson 1 - Eskeland 1 
 

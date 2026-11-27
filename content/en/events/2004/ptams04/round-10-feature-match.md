@@ -663,7 +663,9 @@ render_recovery:
 ---
 ### Mark Zajdner vs Andrew Cuneo
 
-![](http://www.wizards.com/sideboard/images/ptams04/fm21_1.jpg)Mark Zajdner proclaimed himself a casualty of the CMU/TOGIT themed round of features. While Andrew Cuneo is not the most well known member of the powerhouse American team but he is one of the original core members going back to the days of Alpha. He is also one of the most highly regarded deck builders by Pros in the know.
+![](http://www.wizards.com/sideboard/images/ptams04/fm21_1.jpg)
+
+Mark Zajdner proclaimed himself a casualty of the CMU/TOGIT themed round of features. While Andrew Cuneo is not the most well known member of the powerhouse American team but he is one of the original core members going back to the days of Alpha. He is also one of the most highly regarded deck builders by Pros in the know.
 
 Quietly his blue-white Mind's Desire deck has been tearing up the PTQ circuit and has qualified a handful of players. Andrew had fallen away from the game but since winning the online qualifier for Worlds last year he has been seen on the Tour with more frequency than in years past.
 

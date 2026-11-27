@@ -620,7 +620,9 @@ Before we get started, let me share with you the following e-mail I got a week a
 
 Well Zachary, you are correct—normally the fine folks at Wizards of the Coast provide my BuildingonaBudget account with a foursome of every card available online. Whenever I swap cards in and out of a deck, I check multiple sources online to see the price of the cards being changed, so that I am sure that the cards I am using remain in budget. However, you are also correct in saying that I normally do not have to put the *time* into tracking down these cards—they are already in my account.
 
-![Angry_Mob](https://i.ormos.uk/a5/79/a579230e95b42c17b870103d4137e1213bc1df58802828452a59d94e72411816.jpg)So imagine my surprise when I logged into my account to start playtesting for this week, and found that, oops! someone had forgotten to load up any of the *Lorwyn* cards into my account! This left me with three choices:
+![Angry_Mob](https://i.ormos.uk/a5/79/a579230e95b42c17b870103d4137e1213bc1df58802828452a59d94e72411816.jpg)
+
+So imagine my surprise when I logged into my account to start playtesting for this week, and found that, oops! someone had forgotten to load up any of the *Lorwyn* cards into my account! This left me with three choices:
 
 1.  Don't write my column this week, and let Scott Johns and Kelly Digges take turns playing "Human Piñata" with my strung-up body.
 

@@ -82,7 +82,9 @@ render_recovery:
   - Solar Blast
   occurrences: 41
 ---
-![](http://www.wizards.com/sideboard/images/gputs02/920.jpg)Shuuhei Nakamura has been quietly building his reputation as one of Japan's top pros. He made the finals of Japan's largest Grand Prix, Kobe, and then directed his team S.S.D. to the finals of Grand Prix - Nagoya earlier this year. Now he finds himself just one match win away from a title of his own. Rei Hashimoto is also hungry for some recognition. He's a pro player from way back, but cut back on his Magic to pursue school. He came back for another run, and he's finally on the verge of greatness.
+![](http://www.wizards.com/sideboard/images/gputs02/920.jpg)
+
+Shuuhei Nakamura has been quietly building his reputation as one of Japan's top pros. He made the finals of Japan's largest Grand Prix, Kobe, and then directed his team S.S.D. to the finals of Grand Prix - Nagoya earlier this year. Now he finds himself just one match win away from a title of his own. Rei Hashimoto is also hungry for some recognition. He's a pro player from way back, but cut back on his Magic to pursue school. He came back for another run, and he's finally on the verge of greatness.
 
 Nakamura has a red-blue deck that boasts two copies of the combination's most powerful common: Lavamancer's Skill. With multiple Wizards, and more importantly Mistform Wall, the Skill does two points all the time. That'll pick apart anyone's deck. In fact, Tsuyoshi Fujita says that blue-red is the most powerful combination, only because blue is so underdrafted. Hashimoto's deck takes "underdrafted" to the next level. He's got white cards in his board that are first picks in a lot of cases. He and Oiso were the only white drafters, and Hoshimoto was two to his right, ending up with the lion's share. Hashimoto also snagged a Dragon Roost right in front of Nakamura, a move that infuriated Nakamura. Now he's going to use that Roost to brutalize him.
 
@@ -96,7 +98,9 @@ Hashimoto decided to press. He tapped out but one for Grassland Crusader, and sw
 
 Nakamura 1 - Hashimoto 0
 
-![](http://www.wizards.com/sideboard/images/gputs02/921.jpg)Hashimoto's quick beats from Glory Seeker and a morphed creature were soon shut down by Mistform Wall. Not right away, Nakamura wasn't about to risk it in combat. No, he waited a turn and enchanted it with Lavamancer's Skill, turning it to a Wizard to start picking off Hashimoto's creatures. Still, he was reduced to ten before getting to a stable situation. His Wall stared at Daunting Defender and a tapped Daru Lancer.
+![](http://www.wizards.com/sideboard/images/gputs02/921.jpg)
+
+Hashimoto's quick beats from Glory Seeker and a morphed creature were soon shut down by Mistform Wall. Not right away, Nakamura wasn't about to risk it in combat. No, he waited a turn and enchanted it with Lavamancer's Skill, turning it to a Wizard to start picking off Hashimoto's creatures. Still, he was reduced to ten before getting to a stable situation. His Wall stared at Daunting Defender and a tapped Daru Lancer.
 
 He made a Goblin Taskmaster and Reckless One, then swung in for two points. The two three-power guys brawled in. Nakamura blocked on and fell to seven. Hashimoto lowered the boom with Dragon Roost. Nakamura knew he didn't have much time. He Essence Fractured Hashimoto's creatures and busted through for five. He still had thirteen points to go.
 
@@ -104,7 +108,9 @@ Hashimoto, unsurprisingly, sat on his seven mana. Nakamura swung in again. A Dra
 
 Nakamura 1 - Hashimoto 1
 
-![](http://www.wizards.com/sideboard/images/gputs02/922.jpg)Nakamura kept a hand short on blue mana for the final game. He answered Hashimoto's Medic with a morph, but didn't find an island to make things ridiculous. He dropped Lavamancer's Skill on his Ogre and hoped. Hashimoto untapped and Shocked it. A small silver lining was that he swung with his Medic, letting Nakamura cycle Solar Blast to kill it. It gave him another mountain.
+![](http://www.wizards.com/sideboard/images/gputs02/922.jpg)
+
+Nakamura kept a hand short on blue mana for the final game. He answered Hashimoto's Medic with a morph, but didn't find an island to make things ridiculous. He dropped Lavamancer's Skill on his Ogre and hoped. Hashimoto untapped and Shocked it. A small silver lining was that he swung with his Medic, letting Nakamura cycle Solar Blast to kill it. It gave him another mountain.
 
 Meanwhile Hashimoto was busting out his air force. Gustcloak Harrier, Dive Bomber, and when Nakamura did find an island for his Mistform Wall, another Dive Bomber. With so many fliers and no second Lavamancer's Skill, Nakamura was forced to give the match to Hashimoto, to the applause of onlookers and frowns of his supporters.
 

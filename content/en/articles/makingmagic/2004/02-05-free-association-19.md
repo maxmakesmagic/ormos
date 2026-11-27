@@ -63,7 +63,9 @@ render_recovery: []
 ---
 One of the fun things about working with Richard is that he's always working on new games. But you need to be careful. It always starts the same; Richard will come walking up and say, always very innocently, “You have a few minutes? I want you to try a new game.”
 
-![](https://i.ormos.uk/37/b3/37b3fadee1a61a5e150492cd6a861878227c6dc54be3e96df887ecefc97222ed.jpg)Now, for those of you that have never played a game with Richard Garfield, I know this sounds exciting, but for members of [R&D](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr110-rnd), we know the hidden truth. Yes it is fun, but it's like quicksand. You see, after Richard asks, the response is always “How long will it take?”
+![](https://i.ormos.uk/37/b3/37b3fadee1a61a5e150492cd6a861878227c6dc54be3e96df887ecefc97222ed.jpg)
+
+Now, for those of you that have never played a game with Richard Garfield, I know this sounds exciting, but for members of [R&D](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr110-rnd), we know the hidden truth. Yes it is fun, but it's like quicksand. You see, after Richard asks, the response is always “How long will it take?”
 
 The answer is always: “Fifteen minutes.”
 

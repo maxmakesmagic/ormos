@@ -44,7 +44,9 @@ archive_source:
   sha256: ae1feaf9c7e3fb0f746a42d8ab626cdf25590f1d76611cd51d0e4d1de9dffb6e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a951.jpg)They are not only two "household" names in European **Magic**, above all they are known for being two of nicest and politest players in Europe. Florent is mostly known for being a member of Black Ops (along with the Ruel brothers) but is also a very strong Limited player on his own.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a951.jpg)
+
+They are not only two "household" names in European **Magic**, above all they are known for being two of nicest and politest players in Europe. Florent is mostly known for being a member of Black Ops (along with the Ruel brothers) but is also a very strong Limited player on his own.
 
 Ronaldson isn't primarily known for his Limited skills, but that is mostly due to the fact that he is one of the most known members of perhaps the best Constructed team in **Magic**: Godzilla. That can easily overshadow a few other things, **Magic**-wise.
 
@@ -74,7 +76,9 @@ Florent took a mulligan. Ben came out strong with Benevolent Bodyguard, Mesmeric
 
 That happened to be Cephalid Aristocrat, which was bigger than Ronaldon's creatures. So the Englishman was forced to sit back and play extra creatures. Florent played Battlefield Scrounger and a second Aristocrat to totally seal the table.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a952.jpg)Having seized control of the table Jeudon tried to get his Execute back by using Patriarch's Desire on the Fiend but Ronaldson saved it with his Bodyguard. When the Florent felt brave enough to swing with everyone Ronaldson looked at his Advocate. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a952.jpg)
+
+Having seized control of the table Jeudon tried to get his Execute back by using Patriarch's Desire on the Fiend but Ronaldson saved it with his Bodyguard. When the Florent felt brave enough to swing with everyone Ronaldson looked at his Advocate. 
 
 Ben: "Do you think I should try to deck you?"  
  Florent: "You could try."

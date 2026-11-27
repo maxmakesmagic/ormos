@@ -124,7 +124,9 @@ Puedes encontrar una lista de las colecciones legales en Standard [aquí](https:
 
 ### Bloque
 
-![Blockbuster](https://i.ormos.uk/7c/00/7c0050e3dce5ec6d72e9451535b6e87e3327afbff3a61c22b96a734b3f73b5c0.jpg)Bloque Construido permite el uso del ciclo en activo (1 a 3 colecciones). Por lo que respecta al juego competitivo, una de las temporadas de clasificatorios de Pro Tour de un año es Bloque Construido (normalmente cuando las tres colecciones están disponibles). El formato puede jugarse durante el año en ***Magic** Online* y a veces se organizan torneos en tiendas locales. 
+![Blockbuster](https://i.ormos.uk/7c/00/7c0050e3dce5ec6d72e9451535b6e87e3327afbff3a61c22b96a734b3f73b5c0.jpg)
+
+Bloque Construido permite el uso del ciclo en activo (1 a 3 colecciones). Por lo que respecta al juego competitivo, una de las temporadas de clasificatorios de Pro Tour de un año es Bloque Construido (normalmente cuando las tres colecciones están disponibles). El formato puede jugarse durante el año en ***Magic** Online* y a veces se organizan torneos en tiendas locales. 
 
 Bloque Construido es único formato que puede ser completamente fresco. Mientras que otros formatos pueden cambiar drásticamente con una rotación, muchas colecciones familiares permanecerán; en Bloque Construido te enfrentas regularmente con un conjunto de cartas totalmente nuevo. Algo bonito sobre jugar con un único ciclo es que son unidades temáticas por si mismo. Sea cual sea el tema principal del ciclo, *Mirrodin* y sus artefactos, o *Odisea* y los problemas de cementerio, seguro que lo vas a notar en Bloque, lo que puede provocar nuevas y distintas experiencias de juego. 
 
@@ -144,7 +146,9 @@ Puedes encontrar una lista de colecciones de Bloque legales [aquí](https://web.
 
 ### Extendido
 
-![Long_Term_Plans](https://i.ormos.uk/bf/99/bf99dea88c8ee9cd6a3949028e9634da678694eabe3529e0bc33d450744a12a4.jpg)Standard rota tras 3 colecciones. Extendido solo rota tras *3 ciclos.* En un momento dado, Extendido permite el uso de los 6 a 8 ciclos más recientes (16 a 24 colecciones) y alrededor de 3 ediciones básicas. Las ediciones básicas salen fuera cuando rota fuera el ciclo con el que salieron a la venta. Extendido se juega un poco más regularmente que Bloque, con una temporada clasificatoria para Pro Tour cada año y algo más de apoyo local y por internet. 
+![Long_Term_Plans](https://i.ormos.uk/bf/99/bf99dea88c8ee9cd6a3949028e9634da678694eabe3529e0bc33d450744a12a4.jpg)
+
+Standard rota tras 3 colecciones. Extendido solo rota tras *3 ciclos.* En un momento dado, Extendido permite el uso de los 6 a 8 ciclos más recientes (16 a 24 colecciones) y alrededor de 3 ediciones básicas. Las ediciones básicas salen fuera cuando rota fuera el ciclo con el que salieron a la venta. Extendido se juega un poco más regularmente que Bloque, con una temporada clasificatoria para Pro Tour cada año y algo más de apoyo local y por internet. 
 
 Extendido, con su enorme cantidad de cartas y ocasionales cambios masivos, puede ser un formato intimidador. Hay un gran número de mazos populares, y esos mazos usan todo tipo de cartas y estrategias diferentes. El resultado es que, como el formato cambia tan infrecuentemente, aprender esas estrategias puede ser más provechoso a la larga que en formatos más planos. 
 
@@ -206,7 +210,9 @@ Construido por equipos tiene una buena cantidad de apoyo, con una temporada de c
 
 ### Notas
 
-![Accumulated_Knowledge](https://i.ormos.uk/de/e4/dee403c3b725c9a503d4a21427dc32d815c97735f9ee0a04bb90655a3fa35f54.jpg)**Fechas de venta de colecciones**: Una nueva colección suele ser legal en torneo (y, si es la primera colección de un nuevo ciclo o una nueva edición básica, implica una rotación) el día 20 del mes que se pone a la venta. Por ejemplo, una colección que salga a la venta el 2 de Febrero será legal en torneos el 20 de Febrero, mientras que una colección que saliese a la venta el 22 de Febrero sería legal el 20 de Marzo. Las reglas de salón de **Magic** especifican las fechas en las que las siguientes colecciones serán legales. 
+![Accumulated_Knowledge](https://i.ormos.uk/de/e4/dee403c3b725c9a503d4a21427dc32d815c97735f9ee0a04bb90655a3fa35f54.jpg)
+
+**Fechas de venta de colecciones**: Una nueva colección suele ser legal en torneo (y, si es la primera colección de un nuevo ciclo o una nueva edición básica, implica una rotación) el día 20 del mes que se pone a la venta. Por ejemplo, una colección que salga a la venta el 2 de Febrero será legal en torneos el 20 de Febrero, mientras que una colección que saliese a la venta el 22 de Febrero sería legal el 20 de Marzo. Las reglas de salón de **Magic** especifican las fechas en las que las siguientes colecciones serán legales. 
 
 **Puntuaciones**: Los torneos oficiales de Wizards of the Coast están sancionados, y los resultados oficiales se guardan y contabilizan para la puntuación DCI. Bloque, Standard y Construido están englobados en la puntuación de “Construido”, mientras que los torneos Vintage y Legacy están englobados en la puntuación de "Eternal". Los torneos por internet tienen su propia puntuación. 
 

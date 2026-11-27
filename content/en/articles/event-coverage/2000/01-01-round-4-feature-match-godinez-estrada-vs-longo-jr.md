@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Collin Jackson*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/fri61.jpg)The feature match for Round 4 pitted Sergio Longo Jr., from Sao Paulo, Brazil, versus the well-known Gerardo "Chiclick" Godinez-Estrada of Mexico City. Both players had dominated their first draft tables, and were proud to be undefeated so far. After this match, however, only one would still have that distinction.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/fri61.jpg)
+
+The feature match for Round 4 pitted Sergio Longo Jr., from Sao Paulo, Brazil, versus the well-known Gerardo "Chiclick" Godinez-Estrada of Mexico City. Both players had dominated their first draft tables, and were proud to be undefeated so far. After this match, however, only one would still have that distinction.
 
 Sergio won the die roll, and chose to draw. His opening hand contained only one land, so he decided to mulligan. After a quick shuffle, he presented his deck to Gerardo. Gerardo performed a pile-shuffle on the deck and discovered that it only contained 39 cards. Visibly distraught, Sergio searched his sideboard and playing area for the missing card. Moments later, he discovered the island resting beneath his chair.
 

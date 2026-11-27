@@ -44,7 +44,9 @@ archive_source:
   sha256: eaec2e62a822b2656a81e419e860985938a6d5bc75474c65c8968529a2fb610e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/qf1.jpg)Dirk is a former German national champion, who made Top Eight of GP Vienna. His opponent is not less experienced; he finished Top 64 at PT Barcelona and Top 32 at GP Genua. And he is the first Greek ever to make a final Eight.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/qf1.jpg)
+
+Dirk is a former German national champion, who made Top Eight of GP Vienna. His opponent is not less experienced; he finished Top 64 at PT Barcelona and Top 32 at GP Genua. And he is the first Greek ever to make a final Eight.
 
 Georgios didn't like his draft very much. At one point he made a mistake of drafting a [Scythe of the Wretched](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scythe+of+the+Wretched) over an obviously better card for his deck, a [Myr Enforcer](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myr+Enforcer). Dirk's Deck sports a lot of cheap Creatures, backed up by a massive 3 GG. If he cannot overwhelm his opponent right away, Georgios has some good late game cards like [Tel-Jilad Archers](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tel-Jilad+Archers), [Mirror Golem](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirror+Golem) and Meg[Atog](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Atog).
 

@@ -56,6 +56,8 @@ The players shuffled up and Mike won the die roll and chose to play. An interest
 
 Both players brought in their 4 [Gainsay](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gainsay)s, which again seven of the top eight were using. Mike also sided in [Exclude](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exclude)s, and Brett his 4th [Pernicious Deed](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pernicious+Deed).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPDEN01/177QFshears.jpg)Mike started off poorly in Game 2 with a mulligan and chose to keep his 6 card, one land draw. Mike then proceeded to miss three land drops. Brett put him out of his misery fast with [Vodalian Zombie](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vodalian+Zombie)s and a [Spiritmonger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiritmonger). On turn seven, Mike conceded having found his 2nd land pathetically too late. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPDEN01/177QFshears.jpg)
+
+Mike started off poorly in Game 2 with a mulligan and chose to keep his 6 card, one land draw. Mike then proceeded to miss three land drops. Brett put him out of his misery fast with [Vodalian Zombie](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vodalian+Zombie)s and a [Spiritmonger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiritmonger). On turn seven, Mike conceded having found his 2nd land pathetically too late. 
 
 Brett Shears advances to the semifinals 2-0

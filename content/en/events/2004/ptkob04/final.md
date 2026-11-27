@@ -343,7 +343,9 @@ render_recovery:
 ---
 ### Gabriel Nassif vs. Masashiro Kuroda
 
-![](https://i.ormos.uk/94/1f/941f3baf75ac41a9470c67f6025c618062841667cea7aad2eed51af089a19dfe.jpg)Despite the thousands of dollars on the line and all the glory that comes with them, both of these players were looking relaxed as they shuffled for the final match. In the morning it's easy to be nervous, but with two wins already under their belts both Kuroda and Nassif were at ease.
+![](https://i.ormos.uk/94/1f/941f3baf75ac41a9470c67f6025c618062841667cea7aad2eed51af089a19dfe.jpg)
+
+Despite the thousands of dollars on the line and all the glory that comes with them, both of these players were looking relaxed as they shuffled for the final match. In the morning it's easy to be nervous, but with two wins already under their belts both Kuroda and Nassif were at ease.
 
 Masashiro Kuroda has a lot of weight on his shoulders for this match. In all its years of professional Magic, Japan has never once taken home Pro Tour Gold. Worse yet, all the Japanese finalists, taken together, have won only a single game when the title was on the line. Kuroda's a fine man to break the curse. With a Team Masters title under his belt (and his team shirt under his sweater, for luck), he's shown that he can hang with the big boys. He's playing a version of the Big Red deck that's done so well this weekend, but his version distinguishes itself with a much healthier complement of burn, a definite advantage in this matchup.
 

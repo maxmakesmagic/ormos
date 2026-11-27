@@ -52,7 +52,9 @@ archive_source:
   sha256: 3a00121a603134fc5b9e431fe7d9dc031051fc96425806b97385765f7bc751ea
 render_recovery: []
 ---
-![Focus 1](https://i.ormos.uk/26/83/26830a42f84881f9308120330bd5e172e5bf3d16243cf5be27665e0e6d31e0cb.jpg)You walk in on a rules team meeting. As a designer, you’re not their favorite person (although you do make their meetings much more interesting). Back out slowly.
+![Focus 1](https://i.ormos.uk/26/83/26830a42f84881f9308120330bd5e172e5bf3d16243cf5be27665e0e6d31e0cb.jpg)
+
+You walk in on a rules team meeting. As a designer, you’re not their favorite person (although you do make their meetings much more interesting). Back out slowly.
 
  **[Go to the “Danger Room.”](https://web.archive.org/web/20030210000000/https://www.wizards.com/magic/mr58process.asp?go=39)  
  [Go to the “Computer Lab.”](https://web.archive.org/web/20030210000000/https://www.wizards.com/magic/mr58process.asp?go=41)  

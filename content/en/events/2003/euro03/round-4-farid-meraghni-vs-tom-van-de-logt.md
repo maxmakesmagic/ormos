@@ -82,7 +82,9 @@ render_recovery:
   - Putrid Raptor
   occurrences: 29
 ---
-![](http://www.wizards.com/sideboard/images/euro03/a965.jpg)This is what we have for you this round: a former Pro Tour champion who came out of nowhere against the three-time Dutch National champion and former World champion. Not bad. Not bad at all.
+![](http://www.wizards.com/sideboard/images/euro03/a965.jpg)
+
+This is what we have for you this round: a former Pro Tour champion who came out of nowhere against the three-time Dutch National champion and former World champion. Not bad. Not bad at all.
 
 ### Game 1
 
@@ -106,7 +108,9 @@ But Meraghni had a big trick up his sleeve. He revealed his morph... Bane of the
 
 With the score close (Tom thirteen, Farid twelve), the Dutch took his time, trying to work out a new battle plan. He attacked with the Templar, played one of his Prelates and sent the turn over to the French. The Farseer kept pecking away and the French played another morph.
 
-![](http://www.wizards.com/sideboard/images/euro03/a967.jpg)Meraghni unmorphed Gravel Slinger, and sent his pumped-up Farseer into the Red Zone. Tom played Decree of Justice to get himself a big Angel but the French didn't even blink. The Dutch reviewed his options over and over, and sent the Angel in.
+![](http://www.wizards.com/sideboard/images/euro03/a967.jpg)
+
+Meraghni unmorphed Gravel Slinger, and sent his pumped-up Farseer into the Red Zone. Tom played Decree of Justice to get himself a big Angel but the French didn't even blink. The Dutch reviewed his options over and over, and sent the Angel in.
 
 Again the French was more than ready: his last morph was Aphetto Exterminator. Things were looking grim for Tom Van de Logt. Farid's creatures outnumbered his two to one, he was locked out of the ground by Bane of the Living and a 3/3 Farseer had him on a three-turn clock.
 

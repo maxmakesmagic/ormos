@@ -65,4 +65,6 @@ Now here's some art that you might find a little tricky to identify. Everything 
 
 ![Ninth Edition card image](https://i.ormos.uk/5e/7e/5e7e8374c3e7ee587d866cf12297737ec4f78d7e92586f87c3e5dbe84f18fb73.jpg) Though this Johnny-friendly fellow from *Mercadian Masques* showed up in several different kinds of decks when he was in print, he’s never really found his niche. Will *Ninth Edition* be [Groundskeeper](https://web.archive.org/web/20050711000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Groundskeeper)'s chance to shine, particularly with *Saviors’* “hand-size matters” theme?
 
-![Ninth Edition card image](https://i.ormos.uk/32/e0/32e014fb089e3482257929a6112e77222edf55c4897174cd7113f9cbaa80975e.jpg)[Form of the Dragon](https://web.archive.org/web/20050711000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Form+of+the+Dragon) (from *Scourge*) is just neat. Who doesn't want to become a Dragon, looking down at opposing forces that can't attack on the ground, breathing fire in the face of other planeswalkers, and generally just dragonning it up?
+![Ninth Edition card image](https://i.ormos.uk/32/e0/32e014fb089e3482257929a6112e77222edf55c4897174cd7113f9cbaa80975e.jpg)
+
+[Form of the Dragon](https://web.archive.org/web/20050711000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Form+of+the+Dragon) (from *Scourge*) is just neat. Who doesn't want to become a Dragon, looking down at opposing forces that can't attack on the ground, breathing fire in the face of other planeswalkers, and generally just dragonning it up?

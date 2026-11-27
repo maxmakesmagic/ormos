@@ -66,7 +66,9 @@ He did play a Thunderscape Apprentice and a Thornscape Master, though, but they 
 
 Bui played a Caldera Kavu, which Noah removed with a Terminate. His attack then reduced to 12, as Bui killed the Thunderscape Apprentice with a Lightning Dart. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/899.jpg)A Callous Giant proved to be a liability for Bui when Noah cast Agonizing Demise on it, and his attack brought Bui to 5. Noah meanwhile was on 11, from three hits with a Duskwalker, but it looked like the Minion would be staying back to block for a while. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/899.jpg)
+
+A Callous Giant proved to be a liability for Bui when Noah cast Agonizing Demise on it, and his attack brought Bui to 5. Noah meanwhile was on 11, from three hits with a Duskwalker, but it looked like the Minion would be staying back to block for a while. 
 
 This wasn't the case though, Lucien put a Maniacal Rage on his Duskwalker, and attacked. Noah topdecked an Assault, removed Bui's Slimy Kavu blocker, and attacked with the creatures. He had a Gaea's Might, which was enough to kill Bui. 
 

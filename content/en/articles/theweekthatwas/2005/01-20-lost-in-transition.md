@@ -1218,7 +1218,9 @@ I heard back from Carrasco, who admitted to me that his team had to travel less 
 
 “We've been a team for a little under two months but we've known each other for years,” explained Carrasco. “We play together regularly at the Adventurer's Guild and in the food court of the Capital City Mall three nights a week. We had always planned to go to both days, barring a qualification in Philly. After getting second in Philly we told ourselves we were going to do better, we weren't sure if we actually would, but apparently we did."
 
-![](http://www.wizards.com/global/images/mtgcom_daily_bd159_picMain_en.jpg)Their decks on Saturday during the Sealed Deck portion were ridiculous, with rare bombs such a Meluko, the Clouded Mirror and Hikari, Twilight Guardian. Even more importantly, they had great commons, including three Kitsune Blademasters, two Yamabushi's Flame, two Cage of Hands, and Glacial Ray -- with a Nagao, Bound by Honor to top it all off. 
+![](http://www.wizards.com/global/images/mtgcom_daily_bd159_picMain_en.jpg)
+
+Their decks on Saturday during the Sealed Deck portion were ridiculous, with rare bombs such a Meluko, the Clouded Mirror and Hikari, Twilight Guardian. Even more importantly, they had great commons, including three Kitsune Blademasters, two Yamabushi's Flame, two Cage of Hands, and Glacial Ray -- with a Nagao, Bound by Honor to top it all off. 
 
 “Sunday our card pool stunk," Carrasco said. "We were missing key cards needed to build decks -- Glacial Ray, Devouring Greed and Rage, Befoul, and Pull Under. Honestly, after seeing our pool I thought we'd go like 1-2 drop. On the bright side we each had a bomb, Jugan, Kumano, Keiga. The decks being Black-Green, Red-Black, and White-Blue.”
 

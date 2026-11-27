@@ -45,7 +45,9 @@ archive_source:
   sha256: 7b8567082ffdde2040b6655d921ae0dcd0f8919963a17fc8bbbe7d80888036b3
 render_recovery: []
 ---
-![](https://i.ormos.uk/8c/66/8c66fbd4dfe4e60545681471444e7b3d2084473ecf1add1242717ea05a469b08.jpg)The only event in the early game was Rickard's second turn Gerrard's Verdict, as he knew his countryman didn't have any disrupts. Kettil played a Spectral Lynx, and Österberg gained even more card advantage with a Fact or Fiction, finding another Fact and a Yawgmoth's Agenda.
+![](https://i.ormos.uk/8c/66/8c66fbd4dfe4e60545681471444e7b3d2084473ecf1add1242717ea05a469b08.jpg)
+
+The only event in the early game was Rickard's second turn Gerrard's Verdict, as he knew his countryman didn't have any disrupts. Kettil played a Spectral Lynx, and Österberg gained even more card advantage with a Fact or Fiction, finding another Fact and a Yawgmoth's Agenda.
 
 While Österberg was tapped out, Kettil tried a Fact or Fiction of his own, getting him a Probe and a Vindicate. Meanwhile the Lynx continued to swing, and it was soon joined by a second. Rickard took this as a signal to cast Rout, clearing the board, and leaving himself with six lands to Kettil's four. A Probe only found Kettil some more land, whereas Österberg had a hand with plenty of threats, as was shown when he discarded two Phyrexian Ragers to the Probe.
 
@@ -55,7 +57,9 @@ Rickard Österberg 1 - Mattias Kettil 0
 
 ### Game Two
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/870.jpg)This time the players got going quicker, with Mattias playing a second turn Spectral Lynx, and Rickard Vindicating one of his land. Österberg also attempted a Lobotomy, but it was Dromar's Charmed. A second Lobotomy was Gainsayed a turn later, and the Spectral Lynx brought Rickard to twelve.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/870.jpg)
+
+This time the players got going quicker, with Mattias playing a second turn Spectral Lynx, and Rickard Vindicating one of his land. Österberg also attempted a Lobotomy, but it was Dromar's Charmed. A second Lobotomy was Gainsayed a turn later, and the Spectral Lynx brought Rickard to twelve.
 
 Most of this life loss was recooped in one go as Gerrard's Verdict caused Kettil to discard two lands leaving him with just a Desolation Angel in hand. Once again Österberg had the card advantage, although at least this time Kettil had a creature in play. Mattias drew a Gerrard's Verdict and cast it, and Rickard responded with a Fact or Fiction for two Probes, a Gerrard's Verdict, a Vindicate, and a land. "You're the king", joked Mattias as he shrugged helplessly.
 

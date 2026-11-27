@@ -65,13 +65,17 @@ render_recovery:
   - Vulshok Gauntlets
   occurrences: 7
 ---
-![](https://i.ormos.uk/5e/d8/5ed83b7a37ccdefe45d75693d9cd8037800d33107bec7f491a959a34da766e76.jpg)Both these players have excellent records on both the PT and GP circuit. Mattias Jorstedt is one of three Pro Tour winners to come from Göteborg. Last year, along with winning PT Yokohama, he made another two Pro Tour top 8’s and managed to even come close to catching Kai Budde in the Player of the Year race. Jelger Wiegersma is one of the top Dutch players. He made the Semi’s in New Orleans 2001 and has many top 8 GP appearances under his belt.
+![](https://i.ormos.uk/5e/d8/5ed83b7a37ccdefe45d75693d9cd8037800d33107bec7f491a959a34da766e76.jpg)
+
+Both these players have excellent records on both the PT and GP circuit. Mattias Jorstedt is one of three Pro Tour winners to come from Göteborg. Last year, along with winning PT Yokohama, he made another two Pro Tour top 8’s and managed to even come close to catching Kai Budde in the Player of the Year race. Jelger Wiegersma is one of the top Dutch players. He made the Semi’s in New Orleans 2001 and has many top 8 GP appearances under his belt.
 
 The first game was very short as both players managed to play spells from turn 1. Jorstedt opened with Pyrite Spellbomb and then Tel-Jilad Chosen. Two artifact lands allowed him to power out a Somber Hoverguard on turn 3. Wiegersma tried to match with Scimitar, Myr and then a Slith Ascendant. Unfortunately this was the point when Jorstedt found red mana for the Spellbomb. The Slith was sent to the graveyard, Vulshok Battlegear came out to power up the Hoverguard and the game was over fairly quickly soon after.
 
 Jorstedt 1-0 Wiegersma
 
-![](https://i.ormos.uk/72/4c/724c753323cdce599c38b18a39d3a8455a4434d088f8f4761ffa3c0357bd0ee9.jpg)The Spellbomb came in useful again as Jorstedt took out Wiegersma’s early Skyknight. His early Tel-Jilad Chosen started nibbling away and was joined by a turn 4 Hoverguard. Not to be outdone Wiegersma brought out a Den-Guard and equipped it with Vulshok Gauntlets to turn it into a very scary monster.
+![](https://i.ormos.uk/72/4c/724c753323cdce599c38b18a39d3a8455a4434d088f8f4761ffa3c0357bd0ee9.jpg)
+
+The Spellbomb came in useful again as Jorstedt took out Wiegersma’s early Skyknight. His early Tel-Jilad Chosen started nibbling away and was joined by a turn 4 Hoverguard. Not to be outdone Wiegersma brought out a Den-Guard and equipped it with Vulshok Gauntlets to turn it into a very scary monster.
 
 The game quickly turned into a race as Jorstedt added Gauntlets of his own and then a second Hoverguard. The following attacks tied the scores at seven apiece. Unfortunately Jorstedt’s guys flew and Wiegersma’s didn’t and it was as simple as that.
 

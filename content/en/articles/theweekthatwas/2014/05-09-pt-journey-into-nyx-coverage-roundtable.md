@@ -167,7 +167,9 @@ Joining me at the table were Pro Tour Statistician Richard Hagon; [Limited Infor
 
  ![Polymorphous Rush](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Polymorphous%20Rush&options=)
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What types of decks do you expect to see at the forefront of the metagame?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What types of decks do you expect to see at the forefront of the metagame?**
 
   
   
@@ -191,7 +193,9 @@ Joining me at the table were Pro Tour Statistician Richard Hagon; [Limited Infor
 
 *Jérémy Dezani, Pro Tour *Theros*, with team MTG Madness* 
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Is it somehow possible that Jérémy Dezani is actually underrated? Make the case—if you can—for someone passing him on the Player of the Year leaderboard this season.**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Is it somehow possible that Jérémy Dezani is actually underrated? Make the case—if you can—for someone passing him on the Player of the Year leaderboard this season.**
 
   
   
@@ -206,7 +210,9 @@ Joining me at the table were Pro Tour Statistician Richard Hagon; [Limited Infor
 
 ![](http://media.wizards.com/images/magic/daily/twtw/twtw267_hagon.jpg)**Hagon:** It only takes one Pro Tour fail from Dezani, and anyone in the Top 25 could be back in the race. I don't expect a fail from Dezani, but 30 points to the Champion is a LOT. For what it's worth, I thought Tom Martell's run at [PT *Born of the Gods*](https://web.archive.org/web/20140509000000/http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptbng14/welcome), from 5–3 overnight to finishing 21st on 11–4–1, could yet be one of the most significant days of the season.
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: I have had the chance to interview a handful of the players in the mix for Rookie of the Year—Neal Oliver, Raymond Perez, and Jared Boettcher—and have been pretty impressed by all three. Any of them would make a worthy winner, but who have you seen from the rookie crop that you expect to be at the top of that list come the end of the season?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: I have had the chance to interview a handful of the players in the mix for Rookie of the Year—Neal Oliver, Raymond Perez, and Jared Boettcher—and have been pretty impressed by all three. Any of them would make a worthy winner, but who have you seen from the rookie crop that you expect to be at the top of that list come the end of the season?**
 
 ![](http://media.wizards.com/images/magic/daily/twtw/twtw267_hagon.jpg)**Hagon:** Martin Müller of Denmark is just sixteen and finished in the Top 25 at [PT *Born of the Gods*](https://web.archive.org/web/20140509000000/http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptbng14/welcome) to re-qualify for Atlanta. He's a few points off the pace at the moment, but I can't wait to see if he can do well again. I hope he does.
 
@@ -220,7 +226,9 @@ Joining me at the table were Pro Tour Statistician Richard Hagon; [Limited Infor
   
   
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Adam Mancuso is someone who has quietly qualified for this and the next Pro Tour with GP Top 8 finishes. I am excited to see how he builds on those finishes at the Pro Tour this weekend. As you have had the chance to watch players coming up onto the Pro Tour via the GP circuit, is there anyone you have your eye on for this event who viewers at home may not be familiar with?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Adam Mancuso is someone who has quietly qualified for this and the next Pro Tour with GP Top 8 finishes. I am excited to see how he builds on those finishes at the Pro Tour this weekend. As you have had the chance to watch players coming up onto the Pro Tour via the GP circuit, is there anyone you have your eye on for this event who viewers at home may not be familiar with?**
 
 ![](http://archive.wizards.com/mtg/images/daily/events/gpphi14/t403.jpg)
 
@@ -237,7 +245,9 @@ Joining me at the table were Pro Tour Statistician Richard Hagon; [Limited Infor
 
 ![](http://media.wizards.com/images/magic/daily/twtw/twtw267_hagon.jpg)**Hagon:** The last time you asked, I talked about Raymond Tan of Malaysia. He was tearing up the GP circuit, and was making his debut at [PT *Born of the Gods*](https://web.archive.org/web/20140509000000/http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptbng14/welcome). He faded—FADED—to 11–5, just outside the Top 25. So, he went home, and then went to Singapore to win a PTQ, to return in Atlanta. So, I'm sticking with him. The experience of his first PT in Valencia can only do him good.
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: I am going to pick Josh Utter-Leyton to go two places better than his last Block Constructed finish. You are going to be hard pressed to find someone who will put in more hours working on this new format. Your turn; pick a tournament winner with double points (cookies) for getting the deck right, too.**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: I am going to pick Josh Utter-Leyton to go two places better than his last Block Constructed finish. You are going to be hard pressed to find someone who will put in more hours working on this new format. Your turn; pick a tournament winner with double points (cookies) for getting the deck right, too.**
 
 ![](http://media.wizards.com/images/magic/daily/twtw/twtw267_hagon.jpg)**Hagon:** Naturally, I won't need the double points for getting the deck right, as I'm the only one who's going to correctly predict the winner! My player is a Hall of Famer who claims never to have won a **Magic** tournament. He qualified for his first PT, many years ago, on ranking, and hasn't looked back. He was closest when finishing 2nd at Worlds in Yokohama 2005. In recent years, he's been focusing on his PhD in Game Theory, but now he's back. He's part of the awesome ChannelFireball squad, who looks ideally set up to exploit Block, and he's 11–1 at the last two PTs in Limited. This is his time, and I can exclusively reveal that the winner of PT *Journey into Nyx* will be... Frank Karsten.
 
@@ -252,7 +262,9 @@ Joining me at the table were Pro Tour Statistician Richard Hagon; [Limited Infor
   
   
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Thanks guys! See you all on Wednesday with cookies, draft packs, and a couple of Commander decks in hand.**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Thanks guys! See you all on Wednesday with cookies, draft packs, and a couple of Commander decks in hand.**
 
   
   

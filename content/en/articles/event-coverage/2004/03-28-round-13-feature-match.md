@@ -44,7 +44,9 @@ archive_source:
   sha256: 197418737bca09da451b3245651e2ce0a4b29ddfede714e62345cd72d110cf1d
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm16_1.jpg)Janpiam was born Dutch but grew up in Germany, and now lives in England. Adam is an Australian who's also moved to England - he's been here for a year now. Kamman needs one win in the next two rounds to make top-eight, while Adam must win this round
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm16_1.jpg)
+
+Janpiam was born Dutch but grew up in Germany, and now lives in England. Adam is an Australian who's also moved to England - he's been here for a year now. Kamman needs one win in the next two rounds to make top-eight, while Adam must win this round
 
 ### Game 1
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Adrian Sullivan* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/861.jpg)At the end of Pro Tour - Chicago this year, I had a healthy 4-2-1 record, and was looking forward to an exciting Day 2 when the final results for the day were released. Thirteen points was not only a respectable amount, but it was almost unheard of to not qualify for the next day with that record. When the Standings were released, 13 points went down to 99th place. Of the 47 people who were qualified for the second day, three were not going to make Day Two due to tiebreaks. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/861.jpg)
+
+At the end of Pro Tour - Chicago this year, I had a healthy 4-2-1 record, and was looking forward to an exciting Day 2 when the final results for the day were released. Thirteen points was not only a respectable amount, but it was almost unheard of to not qualify for the next day with that record. When the Standings were released, 13 points went down to 99th place. Of the 47 people who were qualified for the second day, three were not going to make Day Two due to tiebreaks. 
 
 Sadly I was one. 
 
@@ -68,6 +70,8 @@ The unusually large amount of players continuing to Day Two happened for a numbe
 
 DCI Tournament Manager Jeff Donais explained the concept: "The idea was to reduce the impact of that first draft. A lot of people felt that the first draft would usually be 'more random.' By moving the four-round draft to the second draft, we hoped that we'd make the seeded draft have more impact. Unfortunately, it looks like this was a bad idea." 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/974.jpg)Gordon Culp, the Head Scorekeeper for the tournament, described the problems as a combination between large amount of drops in the second draft, dropping and re-adding a player to the event, and the nature of pods in a Swiss style tournaments. "When you run a Swiss tournament with pods, you can't have players in the pods play each other twice, you want them to be matched up according to record, and then when you add dropped players to the mix, the computer just could no longer create pairings with true pods. The DCI Reporter algorithm requires some improvement. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/974.jpg)
+
+Gordon Culp, the Head Scorekeeper for the tournament, described the problems as a combination between large amount of drops in the second draft, dropping and re-adding a player to the event, and the nature of pods in a Swiss style tournaments. "When you run a Swiss tournament with pods, you can't have players in the pods play each other twice, you want them to be matched up according to record, and then when you add dropped players to the mix, the computer just could no longer create pairings with true pods. The DCI Reporter algorithm requires some improvement. 
 
 "There still needs to be a policy decision about what exactly will happen when a pod goes ballistic. The likely decision will be some kind of bye system."

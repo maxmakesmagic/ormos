@@ -256,7 +256,9 @@ Chapin 1, Yurchick 0.
 
 Both players took their time sideboarding. They each looked at several cards, putting a few in here and there. After each player shuffled methodically, we were on to the second game.
 
-![](https://www.wizards.com/sideboard/images/gpphi08/Rd10Yurchick.jpg)Game 2: Adam played first again and took a mulligan to six. He started his quest for the Urzatron right away this time with an Urza's Mine. Patrick's had a far less explosive first turn than last game, consisting solely of a Flooded Strand. Adam added a Skycloud Expanse to his side, and Patrick traded in his Strand for a Hallowed Fountain. He played a Forest and Tarmogoyf, and this time could not pay the extra mana when Adam had Condescend for 1. Patrick's next play was Gaddock Teeg, which resolved. Adam had a quick answer for the troublesome Kithkin in Oblivion Ring. Undeterred by the removal of Teeg, Patrick played an second Teeg and a Tarmogoyf, then passed the turn.
+![](https://www.wizards.com/sideboard/images/gpphi08/Rd10Yurchick.jpg)
+
+Game 2: Adam played first again and took a mulligan to six. He started his quest for the Urzatron right away this time with an Urza's Mine. Patrick's had a far less explosive first turn than last game, consisting solely of a Flooded Strand. Adam added a Skycloud Expanse to his side, and Patrick traded in his Strand for a Hallowed Fountain. He played a Forest and Tarmogoyf, and this time could not pay the extra mana when Adam had Condescend for 1. Patrick's next play was Gaddock Teeg, which resolved. Adam had a quick answer for the troublesome Kithkin in Oblivion Ring. Undeterred by the removal of Teeg, Patrick played an second Teeg and a Tarmogoyf, then passed the turn.
 
 Adam was ready with Threads of Disloyalty for the Goyf. That kept Teeg at home, but Adam had no compunction about swinging with the stolen Tarmogoyf. That allowed Patrick to push Teeg into combat, leaving the life totals at 18-14 in Adam's favor. Adam pitched Sundering Titan to his end-of-turn Thirst for Knowledge, and attacked with the now-bigger Goyf for 4. On his turn, Patrick played Sower of Temptation, trying to get his Tarmogoyf back. Adam had Remand at the ready, but Patrick's 2 untapped lands let him Counterspell that. He got his Goyf back, but it wasn't going far. Despite still lacking the Urzatron, Adam had enough mana to play Exalted Angel. A swing from the Angel left the life totals at 20-6 in Adam's favor. A cycled Decree of Justice for 5 Soldiers was enough for Patrick to concede the game.
 
@@ -366,7 +368,9 @@ Final result: Chris Ripple defeated Gerry Thompson, 2-0.
 
     *By Duncan McGregor*
 
-![](https://www.wizards.com/sideboard/images/gpphi08/DeckTechMillerandHansen.jpg)The green-white Tallowisp deck has been building momentum since the middle of this PTQ season. One Top 8... two Top 8s a few weeks later... then a blue envelope, and suddenly it wasn't just a rogue deck, but one with a lot of street cred. Two players ran the deck into Day Two, Rashad Miller and Matt Hansen, and each had some insight to provide.
+![](https://www.wizards.com/sideboard/images/gpphi08/DeckTechMillerandHansen.jpg)
+
+The green-white Tallowisp deck has been building momentum since the middle of this PTQ season. One Top 8... two Top 8s a few weeks later... then a blue envelope, and suddenly it wasn't just a rogue deck, but one with a lot of street cred. Two players ran the deck into Day Two, Rashad Miller and Matt Hansen, and each had some insight to provide.
 
 "The initial concept started with 'Cloak a Troll'", Rashad commented. "Then I thought – they were Cloaking Trolls back at Worlds 2005." A fan of green decks of all kinds, he was remembering a deck titled The Phantom Menace that was featured briefly at that event. Played by Gerard Fabiano to a mediocre 3-3, it was nonetheless entertaining enough to be worth a mention, and Rashad took some inspiration from its use of the Tallowisp engine to dig up Armadillo Cloaks and more. Although he discarded many of the Spirits that cluttered up the original incarnation of the deck – Phantom Tiger and such – the years since have brought new tools. It earned Rashad a PTQ top 4, and he continued to work on the deck with his friend Rusty Kubis. Two weeks later, both placed in the top 8 of a PTQ in Iowa, and this time people weren't dismissing the result as a fluke.
 
@@ -406,7 +410,9 @@ Asher Hecht, a New York PTQ regular and Top8Magic intern, came up to me on Satur
 
 I made a mental note to keep my eye on Adam and sure enough he continued to bob along just near the top of the standings throughout Day One; along with Zach Hall who abandoned his blue-green Tron list from Vancouver for the retro blue-white build. Adam ended Day One with only a draw to blemish his record and as of the end of Round Thirteen had only picked up one loss on the weekend – a seemingly unlikely loss to Doran. 
 
-![](https://www.wizards.com/sideboard/images/gpphi08/decktechYurchick.jpg)"After Vancouver blue-green Tron did well. I played it in a PTQ and got second," explained Adam when asked how he arrived at his current list. "I have always liked Tron so I kept playing it and playing it. I was testing all week and we realized that everyone had hate like Extirpate, Destructive Flow, and Gaddock Teeg."
+![](https://www.wizards.com/sideboard/images/gpphi08/decktechYurchick.jpg)
+
+"After Vancouver blue-green Tron did well. I played it in a PTQ and got second," explained Adam when asked how he arrived at his current list. "I have always liked Tron so I kept playing it and playing it. I was testing all week and we realized that everyone had hate like Extirpate, Destructive Flow, and Gaddock Teeg."
 
 All cards that just give blue-green Tron lists a fit with Extirpate busting out of the Gifts package, Destructive Flow destroying their precious Tron pieces, and Teeg just shutting off the possibility of a Mindslaver. The solution?
 

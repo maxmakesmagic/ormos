@@ -74,7 +74,9 @@ After the first three boosters, the colors seemed to be divided like this:
  7 Wolfgang Eder: white  
  8 Amiel Tenenbaum: white
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a906.jpg)White seemed to be a prime choice for many drafters, while red seemed to be underdrafted.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a906.jpg)
+
+White seemed to be a prime choice for many drafters, while red seemed to be underdrafted.
 
 In the next boosters Colomb got cut off from white, and he switched to blue/black. At the same time Wessels, sitting next to him, also signaled black with [Irradiate](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Irradiate): these two were in for a fight. Speaking about fights; Eder and Tenenbaum, who were sitting next to each other, were not only trying to draft the same colors, but basically the same decktype! Both of them were picking every equipment or white equipment-based card they could get their hands on. After the first round of boosters, Eder had three Leonin Den Guards, [Auriok Steelshaper](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Auriok+Steelshaper), [Slagwurm Armor](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slagwurm+Armor) and [Banshee's Blade](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Banshee%27s+Blade). Tenenbaum's pile featured [Bonesplitter](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter), [Loxodon Warhammer](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Warhammer), and [Taj-Nar Swordsmith](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Taj-Nar+Swordsmith).
 

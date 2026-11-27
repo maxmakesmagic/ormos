@@ -455,7 +455,9 @@ render_recovery:
 ---
 * * *
 
-![Anton Jonsson](http://wizards.com/sideboard/images/ptsd04/fm17_1.jpg)Anton Jonsson lost the last round after going 7-0 to start the weekend. His opponent Ben Seck was paired up against him with a 6-2 record. Anton did not relish the prospect of losing another match to kick off Day Two, "This match is so important to me. I lost my first round today and if I start the day 0-2 after 7-0"
+![Anton Jonsson](http://wizards.com/sideboard/images/ptsd04/fm17_1.jpg)
+
+Anton Jonsson lost the last round after going 7-0 to start the weekend. His opponent Ben Seck was paired up against him with a 6-2 record. Anton did not relish the prospect of losing another match to kick off Day Two, "This match is so important to me. I lost my first round today and if I start the day 0-2 after 7-0"
 
 The two players were on either end of a three player green pile-up during their draft. Anton opened Viridian Shaman while Gerard Fabiano and Ben Seck to his right both opened Loxodon Warhammers. Both Anton and Ben took second pick Shatters while Ben Seck debated between Thirst for Knowledge and Fangren Hunter. He took the Thirst and the Fangren Hunter sent Gerard into green-red with Anton green-red after two picks as well. Ben then switched into green on his third pick when he was passed One Dozen Eyes. He would also get a pair of Creeping Molds picks eight and nine. There were five straight players without a green card in their piles and that sent some crazy signals around the table. In the second pack just when Anton thought he was getting out of green they pulled him back in with a sixth pick choice between Viridian Shaman and Deconstruct--of course the Deconstruct reconfirmed Gerard's belief in green as well.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://i.ormos.uk/3a/3b/3a3bacddad6c6b4febb92b5e3cf6898b11a642a6828c2f39a1c9ce289ac7efde.jpg)Brian Kibler was a hot pick for Worlds this year after being a very successful deckbuilder for the loose playtest group called the Jumble. However, Kibler didn't do well and he was pretty disappointed. Now, he has made up for that. "I feel like it has been a long time coming, now I'm finally there," Kibler smiles after making his very first Pro Tour Top 8. 
+![](https://i.ormos.uk/3a/3b/3a3bacddad6c6b4febb92b5e3cf6898b11a642a6828c2f39a1c9ce289ac7efde.jpg)
+
+Brian Kibler was a hot pick for Worlds this year after being a very successful deckbuilder for the loose playtest group called the Jumble. However, Kibler didn't do well and he was pretty disappointed. Now, he has made up for that. "I feel like it has been a long time coming, now I'm finally there," Kibler smiles after making his very first Pro Tour Top 8. 
 
 The 20-year old player from Derry, New Hampshire went into the playoff as the fifth seed with a 10-2-2 record after the swiss. "My deck's name is 'The Red Zone'. All I do is to attack with five power creatures," Kibler grins. The deck name comes from the red strip on the huge, quadratic playing fields on which the feature matches were played - all the attacking was done in the red zone in the middle of the field. 
 

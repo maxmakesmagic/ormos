@@ -53,7 +53,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/964.jpg)APAC Champion vs. 昨年度シンガポール王者という初日最終戦を飾るにふさわしいマッチアップであろう。 "B.B.B."の岡本が先攻で、Wong Samson は R-B-W のアグレッシブなデッキを選択していたのだった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/964.jpg)
+
+APAC Champion vs. 昨年度シンガポール王者という初日最終戦を飾るにふさわしいマッチアップであろう。 "B.B.B."の岡本が先攻で、Wong Samson は R-B-W のアグレッシブなデッキを選択していたのだった。
 
 Mongoose を第 2 ターンに召喚した岡本。そして、結局はこの「死なない Bear 」という"B.B.B."のために作られたかのようなクリーチャーがゲームを決めてしまう事になるのである。
 
@@ -67,11 +69,15 @@ Samson は [Shivan Zombie](https://web.archive.org/web/20000101000000/https://ga
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/963.jpg)Samson が待望の [Spectral Lynx](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Lynx) 、岡本が [Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan) という立ち上がりとなったのだった。Samson はさらに [Shivan Zombie](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Zombie) を召喚し、岡本はそれを [Flametongue Kavu](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu) で迎撃したのだった。フルタップした岡本を狙い済まして [Blazing Specter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blazing+Specter) を走らせる Samson。岡本は [Jungle Barrier](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jungle+Barrier) を Discard させらえた。Samson が 2 体目の Specter を戦列に加えると、岡本はこのうち 1 体を冷静に [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt) で除去したのだった。次ターンの Specter の突撃も [Repulse](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse) でひらりとかわし、岡本は着々と逆転への下準備を行なった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/963.jpg)
+
+Samson が待望の [Spectral Lynx](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Lynx) 、岡本が [Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan) という立ち上がりとなったのだった。Samson はさらに [Shivan Zombie](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Zombie) を召喚し、岡本はそれを [Flametongue Kavu](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu) で迎撃したのだった。フルタップした岡本を狙い済まして [Blazing Specter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blazing+Specter) を走らせる Samson。岡本は [Jungle Barrier](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jungle+Barrier) を Discard させらえた。Samson が 2 体目の Specter を戦列に加えると、岡本はこのうち 1 体を冷静に [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt) で除去したのだった。次ターンの Specter の突撃も [Repulse](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse) でひらりとかわし、岡本は着々と逆転への下準備を行なった。
 
 岡本は反撃の狼煙をあげた。 [Repulse](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse) で目障りな Lynx をバウンス、Specter ブロック要員である [Gaea's Skyfolk](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaea%27s+Skyfolk) を召喚しておいて [Flametongue Kavu](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu) と [Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan) で突撃した。Samson は嬉々として [Urza's Rage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Rage)。岡本はそれを見越した上で手札に温存しておいた [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt) を Specter へ。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/962.jpg)しかし、そこからの Samson のトップデッキが素晴らしかった。 2 体目の Lynx と [Goblin Legionnaire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Legionnaire) を引き当ててこれを展開。あっという間に岡本の陣容を壊滅させたのだ。・・・これによって、もはや岡本には [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt) を撃って、そのドローに [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt) がなければ御陀仏という状況に追い込まれてしまったのであった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/962.jpg)
+
+しかし、そこからの Samson のトップデッキが素晴らしかった。 2 体目の Lynx と [Goblin Legionnaire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Legionnaire) を引き当ててこれを展開。あっという間に岡本の陣容を壊滅させたのだ。・・・これによって、もはや岡本には [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt) を撃って、そのドローに [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt) がなければ御陀仏という状況に追い込まれてしまったのであった。
 
 「・・・なんか、最近勝てるんだよね」
 

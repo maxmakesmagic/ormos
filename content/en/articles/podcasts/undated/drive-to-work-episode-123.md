@@ -41,4 +41,6 @@ render_recovery: []
 
 If you want to know the history of **Magic**, you need to know the people who made it. Who's Who is going to be an ongoing mega-series where I talk about different people who were instrumental in the making of the game. Today, I start with what I call the first wave of R&D.
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

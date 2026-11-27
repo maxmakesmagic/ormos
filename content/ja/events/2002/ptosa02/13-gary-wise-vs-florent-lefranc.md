@@ -158,7 +158,9 @@ Gary 1 - 1 Florent
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a728.jpg)　なんとかここまで辿り着いた Florent だが、再びマリガンを迫られた後の 6 枚の手札は 5 枚の沼と、 1 枚の《占骨術》。
+![](http://www.wizards.com/sideboard/images/ptosa02/a728.jpg)
+
+　なんとかここまで辿り着いた Florent だが、再びマリガンを迫られた後の 6 枚の手札は 5 枚の沼と、 1 枚の《占骨術》。
 
 　仕方なくこの手をキープし、ゲームを開始したが、 Gary の先手 4 ターン目に《陰謀団の先手ブレイズ》を張られてしまい、万事休すの Florent 。  
  　Florent は急いで《占骨術》をキャストし、少しでもカード多く引き、場を立てなおそうとするが、そこへ飛んでくる《腐臭の地》。

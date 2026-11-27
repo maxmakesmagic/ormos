@@ -165,7 +165,9 @@ render_recovery:
   - Skirk Marauder
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a766.jpg)　僅かに残された蜘蛛の糸。3rd Draft 終了時既に三敗を喫していた大礒。Top 8 に残るためには[最終ドラフト](/ja/events/2003/ptyok03/4th-draft-analysis)を三連勝しなければならなかった。しかし、抜群の赤緑デッキを作り上げた大礒は一つ一つ着実に勝利を重ね、この試合に勝利すれば...という所まで辿り着いたのだ。
+![](http://www.wizards.com/sideboard/images/ptyok03/a766.jpg)
+
+　僅かに残された蜘蛛の糸。3rd Draft 終了時既に三敗を喫していた大礒。Top 8 に残るためには[最終ドラフト](/ja/events/2003/ptyok03/4th-draft-analysis)を三連勝しなければならなかった。しかし、抜群の赤緑デッキを作り上げた大礒は一つ一つ着実に勝利を重ね、この試合に勝利すれば...という所まで辿り着いたのだ。
 
 　既に池田が Top 8 入りを決めている。はたして、二人目なるか。
 
@@ -184,7 +186,9 @@ render_recovery:
 
 　大礒は《エルフの戦士/Elvish Warrior》《森林守りのエルフ/Timberwatch Elf》と戦力を追加。全体除去無しには辛い展開だが、Jon に手はあるのか。大礒の二枚に対して、Jon の手札は五枚。何か一掃する手さえあれば。
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a767.jpg)　《不快な助祭/Vile Deacon》が攻撃し、大礒のライフを 16 へ。《森林守りのエルフ/Timberwatch Elf》には《虫つぶし/Swat》を使用し事前に厄介の芽を摘む。
+![](http://www.wizards.com/sideboard/images/ptyok03/a767.jpg)
+
+　《不快な助祭/Vile Deacon》が攻撃し、大礒のライフを 16 へ。《森林守りのエルフ/Timberwatch Elf》には《虫つぶし/Swat》を使用し事前に厄介の芽を摘む。
 
 　だが、大礒はためらわずに全軍突撃。《樹皮革のやっかいもの/Barkhide Mauler》、《スカークの先導/Skirk Outrider》、《エルフの戦士/Elvish Warrior》、変異。
 
@@ -216,7 +220,9 @@ render_recovery:
 
 　こうなると、《憑依された死者/Haunted Cadaver》を使用した Jon も苦しい。カードアドバンテージ的には圧倒的だが、場のパーマネントの差が厳しい。展開されない手札は意味をなさない。
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a768.jpg)　Jon は必死のキャッチアップにかかる。《切り刻まれた軍勢/Severed Legion》を出すと、これに《畏敬の冠/Crown of Awe》をつけ四点のクロックとし、更に《羽ばたく戦士/Wingbeat Warrior》を追加する。大礒は目先のライフにこだわらず、変異を秘めたままにし殴り続けていたが、Jon が《陰謀団の執政官/Cabal Archon》変異と出したところで、辛抱たまらず《切り刻まれた軍勢/Severed Legion》に向けて《スカークの匪賊/Skirk Marauder》の炎を飛ばす。なにしろ、次殴られると死ぬ。《切り刻まれた軍勢/Severed Legion》の攻撃を許していたために、大礒のライフも8 まで減ってしまっていたのである。
+![](http://www.wizards.com/sideboard/images/ptyok03/a768.jpg)
+
+　Jon は必死のキャッチアップにかかる。《切り刻まれた軍勢/Severed Legion》を出すと、これに《畏敬の冠/Crown of Awe》をつけ四点のクロックとし、更に《羽ばたく戦士/Wingbeat Warrior》を追加する。大礒は目先のライフにこだわらず、変異を秘めたままにし殴り続けていたが、Jon が《陰謀団の執政官/Cabal Archon》変異と出したところで、辛抱たまらず《切り刻まれた軍勢/Severed Legion》に向けて《スカークの匪賊/Skirk Marauder》の炎を飛ばす。なにしろ、次殴られると死ぬ。《切り刻まれた軍勢/Severed Legion》の攻撃を許していたために、大礒のライフも8 まで減ってしまっていたのである。
 
 　大礒の攻撃をブロックしながら、《陰謀団の執政官/Cabal Archon》が能力を発動し、大礒のライフを 6 へ。未だ Jon の《羽ばたく戦士/Wingbeat Warrior》は健在であり、追加次第ではという展開だが...
 

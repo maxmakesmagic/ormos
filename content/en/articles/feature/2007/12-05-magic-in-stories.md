@@ -91,7 +91,9 @@ I'd like to start where I often do, inside my own head. ("I should not talk so m
 
 ### Magic in daily life
 
-![Agonizing_Memories](https://i.ormos.uk/0b/76/0b766144137a939992415e9a5e5ae39cf9a1d8b119ab2dc1ce7f150b4f774d7e.jpg)See, I have this fond fantasy. Against my will I've been brought to open mike night at a local coffee bar. My friends ignore my shy protests and drag me, kicking and screaming, up to the stage. They deposit me there, in the spotlight, and vanish into the darkness. The audience is waiting. There's an uncomfortable whine of feedback from the mike. I cough, and the cough is magnified in the PA system. The house lights are blindingly hot. I can see some of the faces of the audience—they're already breaking eye contact with me, trying not to form a relationship with this sweaty guy who's obviously going to embarrass himself. And then—
+![Agonizing_Memories](https://i.ormos.uk/0b/76/0b766144137a939992415e9a5e5ae39cf9a1d8b119ab2dc1ce7f150b4f774d7e.jpg)
+
+See, I have this fond fantasy. Against my will I've been brought to open mike night at a local coffee bar. My friends ignore my shy protests and drag me, kicking and screaming, up to the stage. They deposit me there, in the spotlight, and vanish into the darkness. The audience is waiting. There's an uncomfortable whine of feedback from the mike. I cough, and the cough is magnified in the PA system. The house lights are blindingly hot. I can see some of the faces of the audience—they're already breaking eye contact with me, trying not to form a relationship with this sweaty guy who's obviously going to embarrass himself. And then—
 
 I slay. 
 

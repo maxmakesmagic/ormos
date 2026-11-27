@@ -40,7 +40,9 @@ render_recovery:
 ---
 [日本語の取材へ](https://web.archive.org/web/20220701202222/http://magic.wizards.com/en/node/860381)
 
-![](https://i.ormos.uk/c1/83/c183839f2b16f4868809ba695d6e7091853d40ed05b1b949408c392a15b39d15.jpg)It's the return of yesteryear's player! Rei Hashimoto, a pro player from around four years ago has made the first *Onslaught* Limited Grand Prix his spotlight event. Having tired of the qualifier circuit and running short on money and time thanks to school, he'd taken something of a hiatus from the top tables as other responisbilities took hold of him. He shook them off long enough to familiarize himself with *Onslaught*, and charged through the competition. He entered the Top 8 as fourth seed.
+![](https://i.ormos.uk/c1/83/c183839f2b16f4868809ba695d6e7091853d40ed05b1b949408c392a15b39d15.jpg)
+
+It's the return of yesteryear's player! Rei Hashimoto, a pro player from around four years ago has made the first *Onslaught* Limited Grand Prix his spotlight event. Having tired of the qualifier circuit and running short on money and time thanks to school, he'd taken something of a hiatus from the top tables as other responisbilities took hold of him. He shook them off long enough to familiarize himself with *Onslaught*, and charged through the competition. He entered the Top 8 as fourth seed.
 
 He would draft in seventh seat. When none of the players in front of him took white cards, his path was clear. By the time the draft was done he was one of only two players drafting white. He chose his second colour when he cracked [Dragon Roost](https://web.archive.org/web/20220701202222/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Roost), much to the dismay of Shuuhei Nakamura, drafting after him. That same Roost gave Hashimoto a game when he faced Nakamura in the finals. In the deciding third game Nakamura stumbled on mana and Hashimoto's draw was unforgiving. Nakamura joins Masahiko Morita in the mixed blessing of consistant second-place finishes at Grand Prix. Congratulations to Rei Hashimoto, Grand Prix - Utsunomiya Champion!
 

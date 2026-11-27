@@ -53,7 +53,9 @@ archive_source:
   sha256: 567350cf4dca44509a0b20a6f0cc8c91995c12086dc29d3f7ce8da0e2710519b
 render_recovery: []
 ---
-![](https://www.wizards.com/sideboard/images/gpant02/a996.jpg)Le circuit Grand Prix européen fait étape ce week end à Anvers. Le calendrier de cette année semble définitivement privilégiée les villes sympas (Heidelberg, Oslo, Vienne) au contraire de ce qui avait été fait (trop) souvent l'année dernière (Turin, Manchester). Et fort logiquement les joueurs viennent en nombre cette année. Comparer les 150 participants de ces deux évènements aux 880 magiciens présents il y a deux semaines en Allemagne renforce d'ailleurs cette impression. 
+![](https://www.wizards.com/sideboard/images/gpant02/a996.jpg)
+
+Le circuit Grand Prix européen fait étape ce week end à Anvers. Le calendrier de cette année semble définitivement privilégiée les villes sympas (Heidelberg, Oslo, Vienne) au contraire de ce qui avait été fait (trop) souvent l'année dernière (Turin, Manchester). Et fort logiquement les joueurs viennent en nombre cette année. Comparer les 150 participants de ces deux évènements aux 880 magiciens présents il y a deux semaines en Allemagne renforce d'ailleurs cette impression. 
 
 Aujourd'hui ce sont quelques 615 compétiteurs qui s'affrontent depuis quelques heures pour le plus grand bonheur de tous, Magic se porte bien. 
 

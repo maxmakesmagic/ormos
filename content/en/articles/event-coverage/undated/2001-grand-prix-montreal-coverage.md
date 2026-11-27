@@ -42,7 +42,9 @@ render_recovery:
 
 ![](https://i.ormos.uk/fd/df/fddfee672c07d16fbb35b69d1c892b2453f3a711d8f9fb6f318517601453edca.gif)
 
-![](https://i.ormos.uk/b5/20/b520f2c7fb4711db31dbc380f0ebeccf927b7ab4712b12bf1aa259610d9dd101.jpg)Mike Turian was everyone's favorite to win the Grand Prix, and he didn't disappoint. Turian is widely reconized as a master of limited play, and it seems that he has figured out *Odyssey* Rochester draft better than anyone. Adding GP Champion to his resume will cement Turian's reputation as one of the game's greats.
+![](https://i.ormos.uk/b5/20/b520f2c7fb4711db31dbc380f0ebeccf927b7ab4712b12bf1aa259610d9dd101.jpg)
+
+Mike Turian was everyone's favorite to win the Grand Prix, and he didn't disappoint. Turian is widely reconized as a master of limited play, and it seems that he has figured out *Odyssey* Rochester draft better than anyone. Adding GP Champion to his resume will cement Turian's reputation as one of the game's greats.
 
  
 

@@ -78,7 +78,9 @@ Both Emmanuel Vernay and Patrick Mello can afford to breathe fairly easily. At 7
 
 Like a lot of the French Vernay had chosen to run Suicide Black. Unfortunately for him Mello was running Piledriver Sligh, a matchup firmly in favor of the German.
 
-![](http://www.wizards.com/sideboard/images/gprei02/a949.jpg)Compounded on top of this Vernay chose to play a one swamp hand and his deck stubbornly refused to cough up another. He was still able summon two Carnophage and attempt a Cabal Therapy, which missed.
+![](http://www.wizards.com/sideboard/images/gprei02/a949.jpg)
+
+Compounded on top of this Vernay chose to play a one swamp hand and his deck stubbornly refused to cough up another. He was still able summon two Carnophage and attempt a Cabal Therapy, which missed.
 
 Unfortunately Mello had two Goblin Piledrivers and a Reckless Charge. Two swings for nine and the Frenchman was shuffling up for game 2.
 
@@ -90,7 +92,9 @@ Vernay dropped a Skittering Skirge. Mello disposed of it with Abandon on a Piled
 
 A Negator rolled up and turned the game round again, putting Mello in an awkward situation. Any damage to the Negator would give him an outlet to sacrifice the damaging Sarcomancy enchantments. But could he just take 5 damage a turn?
 
-![](http://www.wizards.com/sideboard/images/gprei02/a950.jpg)Vernay made another Sarcomancy and Mello pondered the situation in his end step. He decided to play it safe and went after the Negator. The Frenchman sacrificed two residual Sarcomancy's. Mello scrolled it again in his main phase leaving Vernay a lot to consider.
+![](http://www.wizards.com/sideboard/images/gprei02/a950.jpg)
+
+Vernay made another Sarcomancy and Mello pondered the situation in his end step. He decided to play it safe and went after the Negator. The Frenchman sacrificed two residual Sarcomancy's. Mello scrolled it again in his main phase leaving Vernay a lot to consider.
 
 The Negator took itself and the remaining Sarcomancy off the table, leaving Mello in control with a Cursed Scroll.
 

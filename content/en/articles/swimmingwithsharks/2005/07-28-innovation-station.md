@@ -703,7 +703,9 @@ The Swimming With Sharks forums [were abuzz last week](https://web.archive.org/w
 
 <table><tbody><tr><td></td>&#10;<td>PTQ winner</td>&#10;<td></td>&#10;<td></td>&#10;<td>PTQ Top 8</td>&#10;</tr>&#10;</tbody></table>
 
-[![](https://i.ormos.uk/1b/b6/1bb60910ab41dbc8f65f73ea0f6070f657080f5526bef86a11ee9bf2e0ca7764.jpg)](/en/events/2005/la05ptq/pro-tourlos-angeles-qualifying-season-top-8-decklists-30)What a difference a week makes!
+[![](https://i.ormos.uk/1b/b6/1bb60910ab41dbc8f65f73ea0f6070f657080f5526bef86a11ee9bf2e0ca7764.jpg)](/en/events/2005/la05ptq/pro-tourlos-angeles-qualifying-season-top-8-decklists-30)
+
+What a difference a week makes!
 
 As we speculated might happen last week, it looks like the wholesale dominance of Umezawa's Jitte is over for this format. Sure, White Weenie remains tied for the most populous deck in all PTQ Top 8s... but when you factor in actual Blue Envelopes, the strength of Gifts Ungiven really shows. Along with holding just as many Top 8s as White Weenie, Gifts Ungiven racked up between two and three *times* as many actual invitations to the Pro Tour. Meanwhile Black Hand, the deck that looked to be White Weenie's only opposition for control of *Kamigawa* Block, had a lousy week, with no invitations whatsoever and half of White Weenie's Top 8s at best.
 

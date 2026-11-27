@@ -171,7 +171,9 @@ Ruel 0 - 1 Wielfried
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a740.jpg)　変わって先手の Ruel は 2 ターン目に《ナントゥーコの影》を出し、 3 ターン目にフルパンプしながら攻撃をすると、しっかり《霊気の噴出》でバウンスされてしまう。
+![](http://www.wizards.com/sideboard/images/ptosa02/a740.jpg)
+
+　変わって先手の Ruel は 2 ターン目に《ナントゥーコの影》を出し、 3 ターン目にフルパンプしながら攻撃をすると、しっかり《霊気の噴出》でバウンスされてしまう。
 
 　返す Wielfried は《日を浴びるルートワラ/Basking Rootwalla》、《行き詰まり/Standstill》といきなり嵌めた感じである。
 

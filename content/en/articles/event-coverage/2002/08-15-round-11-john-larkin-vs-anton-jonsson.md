@@ -65,7 +65,9 @@ Larkin deployed a swampwalking [Whispering Shade](https://web.archive.org/web/20
 
 Larkin 1 – Jonsson 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a807.jpg)Jonsson had to mulligan to start game 2.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a807.jpg)
+
+Jonsson had to mulligan to start game 2.
 
 Jonsson: "I'll tell you that the average casting cost of my cards was zero."  
  Larkin: "Seven lands, eh?"  
@@ -78,7 +80,9 @@ Larkin put out his Torturer and then an [Organ Grinder](https://web.archive.org/
 
 Larkin 1 – Jonsson 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a811.jpg)The third game started off much differently, with Larkin playing out [Barbarian Outcast](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barbarian+Outcast) and [Organ Grinder](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Organ+Grinder). Jonsson played his own Grinder, the used a [Churning Eddy](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Churning+Eddy) to steal tempo from Larkin. Larkin stole it right back on his turn with a [Flame Burst](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Burst) and then played out another Barbarian. Jonsson's [Mesmeric Fiend](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend) stole Larkin's [Soul Scourge](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge), but an [Arcane Teachings](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcane+Teachings) on the [Organ Grinder](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Organ+Grinder) stole it right back.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a811.jpg)
+
+The third game started off much differently, with Larkin playing out [Barbarian Outcast](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barbarian+Outcast) and [Organ Grinder](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Organ+Grinder). Jonsson played his own Grinder, the used a [Churning Eddy](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Churning+Eddy) to steal tempo from Larkin. Larkin stole it right back on his turn with a [Flame Burst](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Burst) and then played out another Barbarian. Jonsson's [Mesmeric Fiend](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend) stole Larkin's [Soul Scourge](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge), but an [Arcane Teachings](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcane+Teachings) on the [Organ Grinder](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Organ+Grinder) stole it right back.
 
 Jonsson used a [Lost in Thought](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lost+in+Thought)s to stop the Grinder, but he had nothing to stop all of Larkin's other creatures. Even a late [Faceless Butcher](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) wasn't good enough, and Larkin took the match.
 

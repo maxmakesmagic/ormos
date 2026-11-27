@@ -53,7 +53,9 @@ render_recovery:
 ---
 Yup, two Nordic players playing in an Euros' semifinals. Surprising isn't it? Not really. They know each other quite well and had no qualms discussing their options before the game started. They certainly had enough jokes to tell.
 
-![](https://i.ormos.uk/60/01/60012118064eddbf02a28f29c92ff1e535676d1ed54a6574222a7b5cf85afa21.jpg)Jussi: "This is the kind of mood I like when I'm playing for this amount of money."
+![](https://i.ormos.uk/60/01/60012118064eddbf02a28f29c92ff1e535676d1ed54a6574222a7b5cf85afa21.jpg)
+
+Jussi: "This is the kind of mood I like when I'm playing for this amount of money."
 
 ### Game 1
 
@@ -122,7 +124,9 @@ Nicolai 1-1 Jussi.
 
 Jussi: " I almost messed that up."
 
-![](https://i.ormos.uk/ed/f5/edf5a487128be48ac98c43a2628ab5ec2acdd4c1b36ec41ea67882d3e1605732.jpg)No sideboard changes, although Salovaara pushed the whole sideboard into the deck before taking out exactly the same fifteen cards.
+![](https://i.ormos.uk/ed/f5/edf5a487128be48ac98c43a2628ab5ec2acdd4c1b36ec41ea67882d3e1605732.jpg)
+
+No sideboard changes, although Salovaara pushed the whole sideboard into the deck before taking out exactly the same fifteen cards.
 
 ### Game 3
 

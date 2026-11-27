@@ -47,7 +47,9 @@ render_recovery: []
 ---
 ### Game 1
 
-![](https://i.ormos.uk/74/76/747694228e68bd159fc6c2ba240b5621b1dc2c401d170a59ec60899a664ed0f8.jpg)The Game starts slowly with Greg 3rd turn drop (Pilgrim of Grace) the first creature to hit the table. Rob's reply was in the form of a Mystic Crusader. Greg drafted 2 sets of Ghostly wings and equipped his cleric as the traded attacks for the next 2 turns Greg forced the tempo with a Hydromorph Guardian which was answered with a Crippling Fatigue. The attack stopped as the flighted Pilgrim was baulked with a Kirtar's Desire.
+![](https://i.ormos.uk/74/76/747694228e68bd159fc6c2ba240b5621b1dc2c401d170a59ec60899a664ed0f8.jpg)
+
+The Game starts slowly with Greg 3rd turn drop (Pilgrim of Grace) the first creature to hit the table. Rob's reply was in the form of a Mystic Crusader. Greg drafted 2 sets of Ghostly wings and equipped his cleric as the traded attacks for the next 2 turns Greg forced the tempo with a Hydromorph Guardian which was answered with a Crippling Fatigue. The attack stopped as the flighted Pilgrim was baulked with a Kirtar's Desire.
 
 Greg then asserted his dominance of the skies with Ghostly Wings on his Auramancer, an Aven Smokereader and Balashan Collaborator. From here a Morbid Hunger and Teroh's faithful only prolonged the inevitable flying onslaught. 
 

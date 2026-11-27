@@ -126,7 +126,9 @@ render_recovery:
   - Words of Wind
   occurrences: 101
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a797.jpg)Gab Tsang is a dying breed within Magic. He made his first Top 8 in 1997, and is still going strong. Neil Reeves is one of the new young players on the scene, and is still looking for his first Top 8. It's going to be a hard accomplishment for either player at this point, as Reeves came to the table with a 5-3-1 record, and Tsang was 6-3. 
+![](http://www.wizards.com/sideboard/images/ptchi03/a797.jpg)
+
+Gab Tsang is a dying breed within Magic. He made his first Top 8 in 1997, and is still going strong. Neil Reeves is one of the new young players on the scene, and is still looking for his first Top 8. It's going to be a hard accomplishment for either player at this point, as Reeves came to the table with a 5-3-1 record, and Tsang was 6-3. 
 
 Reeves- "You never put me in Feature Matches!"  
  Rosewater- "We featured Courtney's Boys a lot."  
@@ -136,7 +138,9 @@ Reeves- "You never put me in Feature Matches!"
 
 Tsang used Wirewood Elf to accelerate into a third turn Snarling Undorak, and Reeves brought out Battlefield Medic followed by Gustcloak Harrier. Tsang missed a land drop, but played another Undorak. Reeves attacked for two with a Harrier, and summoned another. "My guys are good, your guys are better." Indeed, the Undoraks were swinging for six a turn while Reeves' Harriers were dealing four.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a798.jpg)Tsang played another land, and brought out a morph creature. Reeves played an Ironfist Crusader, and was one mana short of knocking it down due to the Medic. However, a pump and a Vitality Charm got the job done. Sandskin slowed down one of the Undoraks, and Tsang's morph flipped to reveal Charging Slateback, putting more pressure on the ground. Reeves attacked with just one Harrier, and brought out Dive Bomber. Reeves chump blocked to stay alive for a turn, and conceded, noting that he drew too many lands.
+![](http://www.wizards.com/sideboard/images/ptchi03/a798.jpg)
+
+Tsang played another land, and brought out a morph creature. Reeves played an Ironfist Crusader, and was one mana short of knocking it down due to the Medic. However, a pump and a Vitality Charm got the job done. Sandskin slowed down one of the Undoraks, and Tsang's morph flipped to reveal Charging Slateback, putting more pressure on the ground. Reeves attacked with just one Harrier, and brought out Dive Bomber. Reeves chump blocked to stay alive for a turn, and conceded, noting that he drew too many lands.
 
 Reeves- 0 Tsang- 1 
 
@@ -144,7 +148,9 @@ Reeves- 0 Tsang- 1
 
 Reeves had a second turn Medic, and Tsang brought out Sparksmith. A Harrier joined Reeves' side, as he joked "This might be quick." Tsang played a morph, and used Sparksmith on end step and then main phase to kill the Medic. The morph traded with Reeves' Dive Bomber, while Tsang accelerated into Treespring Lorian with Wirewood Elf. Reeves played Tribal Golem, which was 4/4 first strike thanks to the Harrier. Tsang sent the Lorian right in, and Reeves took five, not willing to take the risk.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a799.jpg)This let him attack back with his whole team, but Tsang used Pinpoint Avalanche to take out the Golem. The Elf blocked Reeves' morph and Sparksmith tried to finish the job, but it flipped over as Ironfist Crusader. The 5/4 and Sparksmith attacked for six, and Tsang played a morph creature.
+![](http://www.wizards.com/sideboard/images/ptchi03/a799.jpg)
+
+This let him attack back with his whole team, but Tsang used Pinpoint Avalanche to take out the Golem. The Elf blocked Reeves' morph and Sparksmith tried to finish the job, but it flipped over as Ironfist Crusader. The 5/4 and Sparksmith attacked for six, and Tsang played a morph creature.
 
 The race was on, and Reeves attacked for four, and then played a morph and his own Sparksmith. Tsang attacked with his morph, which was blocked by Reeves' own. Tsang's morph turned out to be Towering Baloth. The Harrier brought Tsang down to three, and Reeves continued to chump block. Krosan Tusker gave Tsang more on the ground, and Reeves was one life point short of winning before he was overwhelmed.
 

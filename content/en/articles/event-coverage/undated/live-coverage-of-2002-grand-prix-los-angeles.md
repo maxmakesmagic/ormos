@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/b5/08/b508524d71cfbb0933f896d8b4208903dea88cb1b9cd3ce36c9c7840a53e4cce.jpg)Phil Freneau is the Grand Prix - Los Angeles Champion! Sitting in the co-operative half of the Top 8 had its advantages, as all four of Brian Hegstad, Bob Maher, Phil Freneau and Ken Krouner sat in a row, played nice, and wound up in the Top 4. Of the four, most thought Maher had the best deck, having been fed good red cards from all directions, and sure enough, Freneau met him in the finals.
+![](https://i.ormos.uk/b5/08/b508524d71cfbb0933f896d8b4208903dea88cb1b9cd3ce36c9c7840a53e4cce.jpg)
+
+Phil Freneau is the Grand Prix - Los Angeles Champion! Sitting in the co-operative half of the Top 8 had its advantages, as all four of Brian Hegstad, Bob Maher, Phil Freneau and Ken Krouner sat in a row, played nice, and wound up in the Top 4. Of the four, most thought Maher had the best deck, having been fed good red cards from all directions, and sure enough, Freneau met him in the finals.
 
 Once there, everyone assumed Maher would take the title. After all, he's been ripping up *Onslaught* Limited Grand Prix lately, with a win in Copenhagen and a disappointing ninth at Philadelphia. Nevertheless, Freneau had his best game on, and Maher's speedy green-red was shut down by the wall of Freneau's black-white cleric deck. Congratulations to Phil Freneau, Grand Prix - Los Angeles Champion!
 

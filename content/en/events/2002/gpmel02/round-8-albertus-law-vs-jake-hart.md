@@ -79,7 +79,9 @@ After both players piloted excellent sealed decks to an undefeated finish one of
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a924.jpg)After winning the die roll Hart elected to draw, as he felt that his deck needed that extra card to make his first few turns run a little smoother. Unfortunately for Hart he also took a mulligan in game 1, putting both players back onto level terms, not really the start he was looking for. Law played a turn 2 Wellwisher which was met by a turn 2 Wirewood Elf from Hart. Law played down a morph creature and when Hart dropped a Lavamancers Skill onto his Elf it put an end to the extra life that Law was looking to obtain.
+![](http://www.wizards.com/sideboard/images/gpmel02/a924.jpg)
+
+After winning the die roll Hart elected to draw, as he felt that his deck needed that extra card to make his first few turns run a little smoother. Unfortunately for Hart he also took a mulligan in game 1, putting both players back onto level terms, not really the start he was looking for. Law played a turn 2 Wellwisher which was met by a turn 2 Wirewood Elf from Hart. Law played down a morph creature and when Hart dropped a Lavamancers Skill onto his Elf it put an end to the extra life that Law was looking to obtain.
 
 Law looked in good shape when he played another morph and then a Crown of Fury and started sending his men into the Red Zone. Hart stole back the tempo when he dropped a Fog Beast a turn later enchanted it with Lavamancers Skill, effectively shutting down the board of Law. Keeping the offensive up Law flipped up the creature with the Crown, exposing a Charging Slateback allowing him to keep pressing Harts life at the cost of his unmorphed creature. When Hart placed a Pinpoint Avalanche down onto the first striking Slateback and pinged the face down creature for two Law had no nonland permanents on the board, but only had to do a mere 7 more damage to Hart to snatch game 1.
 
@@ -91,7 +93,9 @@ Hart Leads 1-0
 
 During the deck construction I had spoken to Hart and he'd told me that the only way he could win with his deck was to mise and that's exactly what hed done in game 1, but could he do it one more time to take him to an 8-0 record?
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a923.jpg)Law chose to play first and thought long and hard about his opening hand. It contained two Forgotten Caves and in the end he decided to keep it. The gambit payed off as he drew a Forest and was able to play it plus a face down creature for his third turn. On the other side of the board Hart was off to an explosive start with a turn two elf and a turn 3 Riptide Biologist plus a Wall of Mulch. Law got stuck on 3 lands and had no choice but to drop another face down creature into play. 
+![](http://www.wizards.com/sideboard/images/gpmel02/a923.jpg)
+
+Law chose to play first and thought long and hard about his opening hand. It contained two Forgotten Caves and in the end he decided to keep it. The gambit payed off as he drew a Forest and was able to play it plus a face down creature for his third turn. On the other side of the board Hart was off to an explosive start with a turn two elf and a turn 3 Riptide Biologist plus a Wall of Mulch. Law got stuck on 3 lands and had no choice but to drop another face down creature into play. 
 
 Once again Hart had the Lavamancers skill only this time with the Biologist in play it was going to be a real nightmare for Law, as it could do 2 damage to his morph creatures and that's exactly what it did. The little machine gunner shot down a Serpentine Basilisk but when it turned its wrath to the other face down creature Law was able to cycle a Primal Boost to keep it alive and to dig deeper into his deck in an attempt to grab that 4th land. A morphed creature plus a Vitality charm kept two face down creatures into play for Law but a combination of an insane draw by Hart and the land screw was going to prove costly. 
 

@@ -105,7 +105,9 @@ render_recovery:
 ---
 It has been a very long draining weekend for Paul Rietzl and he was starting to show some wear around the edges. For the second straight round he found himself in within a win of the Top 8. He lost two demoralizing games to Mike Turian with sub-standard draws. 
 
-![](https://i.ormos.uk/11/a9/11a979569b9dc8e2e8186d1591e2d52d981ab85e10bc1dc6d8fa1fbffc6a601f.jpg)"Let's try this again..." sighed Rietzl. He is facing the same match-up as last round—card for card. Berkowitz is a member of the CMU/TOGIT team that developed this techy Green-Red Beats deck. Rietzl is one of the rising young stars of the YMG team. The two East Coast based teams are developing a healthy rivalry that has lent still more drama to the last two rounds.
+![](https://i.ormos.uk/11/a9/11a979569b9dc8e2e8186d1591e2d52d981ab85e10bc1dc6d8fa1fbffc6a601f.jpg)
+
+"Let's try this again..." sighed Rietzl. He is facing the same match-up as last round—card for card. Berkowitz is a member of the CMU/TOGIT team that developed this techy Green-Red Beats deck. Rietzl is one of the rising young stars of the YMG team. The two East Coast based teams are developing a healthy rivalry that has lent still more drama to the last two rounds.
 
 While they were being deck checked, Jordan paced off his nervous energy. Rietzl stayed at the table and thought about how to approach games two and three. "At least I know how to sideboard now—I brought in Turbulent Dreams because I thought they had Ensnaring Bridge but they don't. That means I get to bring in more Stupefying Touches for their Lavamancers.
 
@@ -141,7 +143,9 @@ Berkowitz had the Foothills/Lavamancer opening. Paul had the Careful Study and J
 
 "I'm just going to slow roll this if you don't mind." Paul only had one Rootwalla and discarded a City of Brass as well. Jordan's Wild Mongrel made a handy target for the sideboarded Stupefying Touch. Jordan was stuck at two lands and swung in with his ersatz Grizzly Bear and had to spend mana to play his Rootwalla. 
 
-![](https://i.ormos.uk/cf/1d/cf1d9a9f63dddf08dfd08d0bcd34125cf2734161e22f31a17de44601f30624ad.jpg)Rietzl got in for one with his lizard and played an Aquamoeba. The blue beast was Volcanic Hammered and another Rootwalla jumped into its place. Paul fell to sixteen but was keeping pace thanks in part to Jordan's fetch lands. A Phantom Centaur came down next turn and things were looking mighty grim for Jordan, who was only now on three lands. He missed another land drop and put a Llanowar Elf down to eat a counter from the Centaur—and it did. Another one went away EOT when it was shot with the 1/1 wizard.
+![](https://i.ormos.uk/cf/1d/cf1d9a9f63dddf08dfd08d0bcd34125cf2734161e22f31a17de44601f30624ad.jpg)
+
+Rietzl got in for one with his lizard and played an Aquamoeba. The blue beast was Volcanic Hammered and another Rootwalla jumped into its place. Paul fell to sixteen but was keeping pace thanks in part to Jordan's fetch lands. A Phantom Centaur came down next turn and things were looking mighty grim for Jordan, who was only now on three lands. He missed another land drop and put a Llanowar Elf down to eat a counter from the Centaur—and it did. Another one went away EOT when it was shot with the 1/1 wizard.
 
 Still no lands for Berkowitz and he played a Rootwalla. The YMGer kept the pressure on and swung his vanishing centaur into the red zone. The Lavamancer jumped in front and took a Rootwalla down with them but Paul had Studied an Arrogant Wurm into play.
 
@@ -167,7 +171,9 @@ Paul finished the thought"—and hope I 'effed' up, I know!"
 
 Both players kept their openers but Paul debated and fussed before doing so. Berkowitz wasn't buying it, "Your hand is probably insane—you tried that act the first game."
 
-![](http://www.wizards.com/sideboard/images/natus03/a761.jpg)Paul had the Careful Study but decided to wait a turn with nothing exciting to discard in hand. He played the Looter on turn two following Berkowitz's Rootwalla. Berk got in for a point and made an Elf. With no green mana in sight, Paul Looted and used the Careful Study to find a City of Brass and play Wild Mongrel. Berkowitz looked to be in good shape and played a turn three Phantom Centaur.
+![](http://www.wizards.com/sideboard/images/natus03/a761.jpg)
+
+Paul had the Careful Study but decided to wait a turn with nothing exciting to discard in hand. He played the Looter on turn two following Berkowitz's Rootwalla. Berk got in for a point and made an Elf. With no green mana in sight, Paul Looted and used the Careful Study to find a City of Brass and play Wild Mongrel. Berkowitz looked to be in good shape and played a turn three Phantom Centaur.
 
 Paul unsummoned and sent in the dog. When Jordan replayed the Centaur it was 'dismissed' with the Looter and a Logic. Paul Looted and Studied again—yielding a Rootwalla and pitching a Wonder but Violent Eruption wiped out the lizard and the Merfolk. 
 

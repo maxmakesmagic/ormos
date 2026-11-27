@@ -262,7 +262,9 @@ render_recovery:
   - Sarcatog
   occurrences: 353
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a639.jpg)Without a doubt, this is the most important match of the day. The Dutch and German teams were the favorites coming into Worlds, and so far that prediction has come true. After the first round today, Germany is in first and the Dutch are in second. This match will not only put one team further ahead, but will put the other favored team further behind, so it's twice as important. Regardless of the outcome, at least one of these teams is likely to play Sunday, and if that is the case, the Team World Championship may leave North America for the first time and come to Europe.
+![](http://www.wizards.com/sideboard/images/worlds02/a639.jpg)
+
+Without a doubt, this is the most important match of the day. The Dutch and German teams were the favorites coming into Worlds, and so far that prediction has come true. After the first round today, Germany is in first and the Dutch are in second. This match will not only put one team further ahead, but will put the other favored team further behind, so it's twice as important. Regardless of the outcome, at least one of these teams is likely to play Sunday, and if that is the case, the Team World Championship may leave North America for the first time and come to Europe.
 
 Budde's Skywing Aven and Aquamoeba came out fast, but Kai missed his fourth land drop. Boeken had Valor to hold off some of the assault, but Kai used Rites of Spring to discard Deep Analysis and fix his mana situation. Both players kept adding to the board, keeping it even. Boeken had Balshan Griffin, and Budde summoned Dreamwinder. Two copies of Lost in Thought slowed down Budde's game a bit, and Ghostly Wings on Aquamoeba didn't happen thanks to a Sonic Seizure that discarded Prismatic Strands. Boeken now had the board slightly to his advantage thanks to Aven Windreader, but it died after Budde dug for Toxic Stench with the help of Breakthrough. Budde then played Arcane Teachings on his Gloomdrifter to achieve board advantage, and cast Standstill. Boeken was forced to break it, and Budde's board advantage combined with an Ancestral Recall proved to be too much.
 
@@ -270,7 +272,9 @@ Schneiders' Phantom Nomad matched Cornelissen's Krosan Avenger, which soon becam
 
 Van de Logt's Treacherous Werewolf and Gravegouger seemed threatening until Ziegner brought out Ember Beast and Barbarian Bully. The race was on, and Van de Logt got ahead thanks to Vivify making a land attack along with two 2/2s. Crippling Fatigue then killed Ziegner's Barbarian Bully, leaving his Ember Beast useless. Unfortunately for the World Champion, Ziegner had Violent Eruption, and wiped out both of Van de Logt's creatures. The champ came back with Centaur Veteran, but Ziegner had Dirty Wererat and a graveyard full of options such as Morgue Theft, Crippling Fatigue and Lava Dart. A few turns later, and it was off to Game 2. 
 
-![](http://www.wizards.com/sideboard/images/worlds02/a638.jpg)So far, the Germans were up 3-0 in games.
+![](http://www.wizards.com/sideboard/images/worlds02/a638.jpg)
+
+So far, the Germans were up 3-0 in games.
 
 Schneiders had Battle Screech in Game 2, but it was less impressive thanks to Cornelissen's Psionic Gifted Squirrel. Chainflinger took care of that problem before it killed off too many birds, but Cornelissen had Scalpelexis to make things somewhat scary. Still, the Dutchman was at seven life points, and Schneiders had a full, aggressive board. Scalpelexis tried to outrace the German, but a threshold Chainflinger took the first match for Germany.
 
@@ -278,7 +282,9 @@ Ziegner had a strong start Game 2 with second turn Boneyard Slasher, third turn 
 
 Budde's opening draw for Game 2 had all four colors of mana he needed, thanks in part to Mossfire Valley. Boeken wasn't looking back either, thanks to a pair of Skywing Avens. Rites of Spring and Breakthrough got Budde to threshold very easily, which made his Anurid Barkripper and Krosan Restorer much better. Adding to Budde's offense was a Wormfang Turtle with Ghostly Wings. Bomb Squad made things even better, but Boeken had Churning Eddy to bounce back the Turtle that had been holding back his flying army. This allowed him to come through the air, and head to a third game that would count for tiebreakers.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a637.jpg)Budde's Aquamoeba traded with Boeken's Mystic Familiar when Kai discarded two cards, which puzzled Boeken until Budde played Standstill. Boeken was forced to break it with Cephalid Looter, and Budde played Rites of Spring for three, followed by Ghostly Wings on Aquamoeba. Boeken came back with Resilient Wanderer, and Budde dropped Bomb Squad. Skywing Aven made Boeken's side impressive, but if he didn't find a way to deal with Bomb Squad soon he was going to lose. Mirror Wall was countered with Rites of Refusal, giving Budde threshold and making his Barkripper 4/4. The resulting attack saw Budde discard a card to Aquamoeba to deal eight damage total, and Bomb Squad finished off the Looter to deal another four. From there it was just a matter of time, and it was a 3-0 sweep for Germany.
+![](http://www.wizards.com/sideboard/images/worlds02/a637.jpg)
+
+Budde's Aquamoeba traded with Boeken's Mystic Familiar when Kai discarded two cards, which puzzled Boeken until Budde played Standstill. Boeken was forced to break it with Cephalid Looter, and Budde played Rites of Spring for three, followed by Ghostly Wings on Aquamoeba. Boeken came back with Resilient Wanderer, and Budde dropped Bomb Squad. Skywing Aven made Boeken's side impressive, but if he didn't find a way to deal with Bomb Squad soon he was going to lose. Mirror Wall was countered with Rites of Refusal, giving Budde threshold and making his Barkripper 4/4. The resulting attack saw Budde discard a card to Aquamoeba to deal eight damage total, and Bomb Squad finished off the Looter to deal another four. From there it was just a matter of time, and it was a 3-0 sweep for Germany.
 
 2002 Worlds Team Rochester: Red/Black 
 

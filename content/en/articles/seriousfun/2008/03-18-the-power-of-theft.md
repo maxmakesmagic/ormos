@@ -819,7 +819,9 @@ And guess what? If you hate hate *hate* it when people steal your cards, as many
 
 ### Why Big Stealy Works
 
-![Acquire](https://i.ormos.uk/f9/fe/f9fe2d556ccf8addb92a6db051ec0d1d27f6f7c69e134d952c684cf956c04a6f.jpg)When you're playing a normal deck, you have access to only *your* best creatures. If your red-black deck's best guy is a Dragon and someone trumps you by laying down an Akroma, Angel of Wrath, which has protection from your deck, then chances are you're pretty much toast. 
+![Acquire](https://i.ormos.uk/f9/fe/f9fe2d556ccf8addb92a6db051ec0d1d27f6f7c69e134d952c684cf956c04a6f.jpg)
+
+When you're playing a normal deck, you have access to only *your* best creatures. If your red-black deck's best guy is a Dragon and someone trumps you by laying down an Akroma, Angel of Wrath, which has protection from your deck, then chances are you're pretty much toast. 
 
 Likewise, we've all had the situation where you were playing a white-red deck and couldn't deal with that 6/6 guy with fear. You couldn't block him, and you couldn't find your removal in time, so you died.
 
@@ -921,7 +923,9 @@ This isn't one of my "tuned" decks, where I've acquired four of everything it ne
 
 Now, honestly, this is just a happy Christmas deck I threw together to celebrate my receiving a Gifts Given from Wizards for Christmas. (Aren't they nice?) And I haven't drawn Gifts Given, so I guess in a sense I'm still waiting to unwrap my gift. 
 
-![Gifts Given](https://i.ormos.uk/38/a5/38a5d5eb06ee421770f83eee0eca11990ec207e9fe705da70763ef6c98ff5ee5.jpg "Gifts Given")This deck has some of my favorite cards, though. Don't let the one-of of Dominate fool you—there's only one because all of my copies are in my other decks! This surprise combat-ruiner can yank folks away, forever, at instant speed, making it key to the deck. It's my number one Mystical Tutor target in the late game, though I hate to let people know I have it. 
+![Gifts Given](https://i.ormos.uk/38/a5/38a5d5eb06ee421770f83eee0eca11990ec207e9fe705da70763ef6c98ff5ee5.jpg "Gifts Given")
+
+This deck has some of my favorite cards, though. Don't let the one-of of Dominate fool you—there's only one because all of my copies are in my other decks! This surprise combat-ruiner can yank folks away, forever, at instant speed, making it key to the deck. It's my number one Mystical Tutor target in the late game, though I hate to let people know I have it. 
 
 And Helm of Possession has won me the day against at least one opponent, because milling his deck for twelve allowed me to triumph. Yeah, I got a guy. Who cares? He was dead from lack of drawing.
 

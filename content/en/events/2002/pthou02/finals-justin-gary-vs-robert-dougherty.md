@@ -99,7 +99,9 @@ render_recovery:
   - Reclaim
   occurrences: 155
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a405.jpg)With Justin Gary's victory over John Larkin, it guaranteed an all-YMG finals. It turned out he would face Rob Dougherty and his mono-black Reanimator. He was confident his Cogniv-Oath would be up to the task. That's the thing about Justin Gary, he's always confident. Dougherty, veteran of countless Top 8's, was much more laid-back about the whole affair. 
+![](http://www.wizards.com/sideboard/images/pthou02/a405.jpg)
+
+With Justin Gary's victory over John Larkin, it guaranteed an all-YMG finals. It turned out he would face Rob Dougherty and his mono-black Reanimator. He was confident his Cogniv-Oath would be up to the task. That's the thing about Justin Gary, he's always confident. Dougherty, veteran of countless Top 8's, was much more laid-back about the whole affair. 
 
 Gary was very happy with his opening hand. Dougherty didn't bother to play coy about how terrible his was. He sent it back, and then back again.
 
@@ -171,7 +173,9 @@ Gary 1 - Dougherty 1
 
 No Change
 
-![](http://www.wizards.com/sideboard/images/pthou02/a379.jpg)Gary kicked off Game 3 with island, go. Dougherty's swamp, go was just as impressive. However, he was glad to see no turn-two Oath hit the table. Gary had an Accumulated Knowledge at end of turn, then tapped out for Pernicious Deed. Dougherty's Phyrexian Negator got ready to force it off the table. He had one mana open after stopping the incoming Negator, but Dougherty could not, or chose not to take advantage.
+![](http://www.wizards.com/sideboard/images/pthou02/a379.jpg)
+
+Gary kicked off Game 3 with island, go. Dougherty's swamp, go was just as impressive. However, he was glad to see no turn-two Oath hit the table. Gary had an Accumulated Knowledge at end of turn, then tapped out for Pernicious Deed. Dougherty's Phyrexian Negator got ready to force it off the table. He had one mana open after stopping the incoming Negator, but Dougherty could not, or chose not to take advantage.
 
 His next play was a Nether Spirit. Gary Living Wished for Palinchron. He countered Dougherty's next play of Exhume with Krosan Reclamation. Then he dropped Oath of Druids and countered a Phyrexian Negator that threatened to join the Spirit. Gary Oathed up Cognivore. Brainstorm hid Force Spike and Palinchron from Duress, and Dougherty took Living Wish over Counterspell. The Spirit swung in and Gary fell to four. Then three thanks to Detla'ing away his bad cards. The next attack Gary decided to block. Now Dougherty had no play. The Treetop and Cognivore brought him to ten. Dougherty Oathed up Negator, but in the process increased the Cognivore to 9/9. He passed the turn.
 
@@ -243,7 +247,9 @@ Gary untapped and played Oath.
 
 Neither player budged for a turn, when Dougherty Tutored up Entomb, untapped, and then Cabal Therapied away Accumulated Knowledge from Gary while seeing Palinchron and Living Wish. Gary did nothing with his next turn, and Dougherty Entombed Nether Spirit. That let Dougherty get rid of Living Wish.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a439.jpg)Again, Gary drew a land. Dougherty didn't have anything to do with his Spirit so he left it in the graveyard. Both players drew and played lands. Gary hit seven. He tapped out for Palinchron. With its come into play ability on the stack Dougherty Edicted it. He Edicted Gary's incoming Treetop Village for good measure.
+![](http://www.wizards.com/sideboard/images/pthou02/a439.jpg)
+
+Again, Gary drew a land. Dougherty didn't have anything to do with his Spirit so he left it in the graveyard. Both players drew and played lands. Gary hit seven. He tapped out for Palinchron. With its come into play ability on the stack Dougherty Edicted it. He Edicted Gary's incoming Treetop Village for good measure.
 
 However, he had no play. Gary drew Pernicious Deed and put it into play. Again Dougherty had no play. A pair of Accumulated Knowledges gave him just three Oaths, Krosan Reclamation and land. That was made apparent by a Dougherty Therapy on Counterspell.
 

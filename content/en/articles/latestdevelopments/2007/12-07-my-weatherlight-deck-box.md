@@ -185,7 +185,9 @@ If I disenchanted [Forsaken Wastes](https://web.archive.org/web/20071207000000/h
 
 ### Policy Change: No More Waiting
 
-[![Accelerate](https://i.ormos.uk/d9/2b/d92ba848287b6d50e5e70ce4f117bc05bf6baba66d9f12df67f9c38c35a5b6e4.jpg)](https://web.archive.org/web/20071207000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Accelerate)That's all for *Weatherlight* Week. Now for something completely different: There is an interesting tidbit attached to the recent announcement of evolutions to the **Magic Online** Prismatic and **Magic Online** Singleton formats made last Saturday [here](https://web.archive.org/web/20071207000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=dci/announce/dci20071201a). Here is that part of the announcement if you missed it:
+[![Accelerate](https://i.ormos.uk/d9/2b/d92ba848287b6d50e5e70ce4f117bc05bf6baba66d9f12df67f9c38c35a5b6e4.jpg)](https://web.archive.org/web/20071207000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Accelerate)
+
+That's all for *Weatherlight* Week. Now for something completely different: There is an interesting tidbit attached to the recent announcement of evolutions to the **Magic Online** Prismatic and **Magic Online** Singleton formats made last Saturday [here](https://web.archive.org/web/20071207000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=dci/announce/dci20071201a). Here is that part of the announcement if you missed it:
 
 > **DCI Floor Rule Change announcement**  
 >  Announcement Date: December 1, 2007  

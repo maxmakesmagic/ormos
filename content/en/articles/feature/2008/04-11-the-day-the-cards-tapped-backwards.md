@@ -97,7 +97,9 @@ UNTAP is indeed the mysterious, much speculated upon "Q" symbol that *Shadowmoor
 
 ### Knacksaw Clique, Sawing Their Knacks Away
 
-![Thought Reflection](http://archive.wizards.com/magic/images/mtgcom/products/shadowmoor/images/dc9z3ucxdr_EN.jpg)So what can you do with a creature with UNTAP? First consider what it does straight-up, without any combos. Take Knacksaw Clique. If its ability were a classic TAP ability, you would want to use it in your main phase, to make sure that if you flip over your opponent's Thought Reflection or [Grim Poppet](https://web.archive.org/web/20080411000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/1567), you can play it for yourself. So you would face a tough choice of what to do every turn. You could tap Knacksaw Clique to use its TAP ability in your main phase, but then you couldn't attack or block. Or you could attack in the air, but then you couldn't use the TAP ability or block. Or you could leave the Clique up to block with its 4 toughness, but then you couldn't use its TAP ability or attack. So in short, you could only pick one: attack, use the TAP ability, or block.
+![Thought Reflection](http://archive.wizards.com/magic/images/mtgcom/products/shadowmoor/images/dc9z3ucxdr_EN.jpg)
+
+So what can you do with a creature with UNTAP? First consider what it does straight-up, without any combos. Take Knacksaw Clique. If its ability were a classic TAP ability, you would want to use it in your main phase, to make sure that if you flip over your opponent's Thought Reflection or [Grim Poppet](https://web.archive.org/web/20080411000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/1567), you can play it for yourself. So you would face a tough choice of what to do every turn. You could tap Knacksaw Clique to use its TAP ability in your main phase, but then you couldn't attack or block. Or you could attack in the air, but then you couldn't use the TAP ability or block. Or you could leave the Clique up to block with its 4 toughness, but then you couldn't use its TAP ability or attack. So in short, you could only pick one: attack, use the TAP ability, or block.
 
 But Knacksaw Clique doesn't have a TAP ability. It has an UNTAP ability. That means you can attack *and* use its TAP ability *and* block every turn. Instead of choosing just one of the options each turn, you get to choose all three. And all the creatures with UNTAP abilities can perform that triple duty. In a way, every UNTAP creature also gets [Vigilance](https://web.archive.org/web/20080411000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vigilance) for free, while still being able to use its UNTAP ability during your own turn.
 
@@ -123,7 +125,9 @@ Seeded by nefarious designers, *Shadowmoor* has more than a few ways to tap your
 
 *Shadowmoor* includes many ways to tap your creatures as an additional cost, setting up UNTAP even more. So one cost (tapping) pays for part of your other cost (untapping)...which pays for your first cost(tapping)... it's easy to see how this can start to heat up. There's even [an entire *Shadowmoor* mechanic](https://web.archive.org/web/20080411000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/ss1) that taps your creatures as an additional cost.
 
-![](http://archive.wizards.com/magic/images/mtgcom/fcpics/latest/db32_vaztl.jpg)There are also several "tap target creature" effects you can use either to subdue your opponents' creatures, or use to set up multiple activations of your own UNTAP creatures. There are ways to graft UNTAP abilities onto any creature you want. And there are several extremely subtle UNTAP enablers that many players won't even notice, but smart players will discover.
+![](http://archive.wizards.com/magic/images/mtgcom/fcpics/latest/db32_vaztl.jpg)
+
+There are also several "tap target creature" effects you can use either to subdue your opponents' creatures, or use to set up multiple activations of your own UNTAP creatures. There are ways to graft UNTAP abilities onto any creature you want. And there are several extremely subtle UNTAP enablers that many players won't even notice, but smart players will discover.
 
 If you can find a way to give a TAP ability to a creature with an UNTAP ability, your guy can go totally nuts. Conservative designers might say:
 

@@ -137,7 +137,9 @@ render_recovery:
   - Spined Basher
   occurrences: 124
 ---
-![](https://i.ormos.uk/79/89/7989ed4b74f55deab0fc522f19aa73c18e962691d8ec832149c0af8c8709969d.jpg)In the Phoenix Foundation vs. the World Feature Match round, this was the match between the best player in the world and the hottest player in the tournament. It would prove to be a good one. As both were 2-0 today, this match was also the one to decide who won the draft on table one. 
+![](https://i.ormos.uk/79/89/7989ed4b74f55deab0fc522f19aa73c18e962691d8ec832149c0af8c8709969d.jpg)
+
+In the Phoenix Foundation vs. the World Feature Match round, this was the match between the best player in the world and the hottest player in the tournament. It would prove to be a good one. As both were 2-0 today, this match was also the one to decide who won the draft on table one. 
 
 ### Game 1
 
@@ -155,7 +157,9 @@ Kai 1 – Eugene 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a794.jpg)Eugene played a third turn Wirewood Savage this time around, only to have it burned down by a Chain of Plasma. Kai only made a morph on his turn and Eugene answered it with a Dive Bomber. A Choking Tethers tapped it down though and Kai turned his Disruptive Pitmage face up so Eugene's morph cost 4 instead of 3. The Pitmage was enchanted by a Lavamancer's Skill next. Eugene played Improvised Armor on his Dive Bomber with one green mana open. Kai shot it with the Pitmage but the Dive Bomber recieved a Vitality Charm.
+![](http://www.wizards.com/sideboard/images/ptchi03/a794.jpg)
+
+Eugene played a third turn Wirewood Savage this time around, only to have it burned down by a Chain of Plasma. Kai only made a morph on his turn and Eugene answered it with a Dive Bomber. A Choking Tethers tapped it down though and Kai turned his Disruptive Pitmage face up so Eugene's morph cost 4 instead of 3. The Pitmage was enchanted by a Lavamancer's Skill next. Eugene played Improvised Armor on his Dive Bomber with one green mana open. Kai shot it with the Pitmage but the Dive Bomber recieved a Vitality Charm.
 
 The Pitmage got its revenge next turn on Eugene's other morph, a morphed Silent Specter and Eugene made a Mobilization to keep the forces coming. A Callous Oppressor by Kai however made any non-soldiers by Eugene a lot less effective. The Bomber hit again, bringing the German down to 5 life. Butcher Orgg was up next for the German, looking to finish off some soldiers on Eugene's side of the table. Piety Charm on the Dive Bomber finished Kai off though.
 
@@ -165,7 +169,9 @@ Kai 1 – Eugene 1
 
 Two Birchlore Rangers for Eugene started the beats early on in this game. Kai's Mistform Wall stopped that, but a third turn Dive Bomber got Eugene some evasion. Lavamancer's Skill ended those again. The Skill got Piety Charmed and Mobilization gave Eugene a way to make many 1/1's. A Battering Craghorn and Callous Oppressor were summoned by Kai to complicate the situation a bit. One of the soldiers received Improvsed armor and a Primal Boost on top of that made sure Kai's Mistform Wall didn't survive combat.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a792.jpg)He stole one of the Birchlore Rangers during Eugene's upkeep. Gustcloak Harrier came down to beat down through the sky. Kai's Craghorn came in once again and Kai's Snapping Thragg got Skilled up. He also played Chain of Plasma on the Gustcloak Harrier. With both players at 14 life, the game looked under control for Kai. He stole the Rangers and attacked with the Craghorn again. Eugene made some more tokens and the two tokens along with the Armored token killed it. Kai attempted an Erratic Explosion on it. Eugene pumped its toughness by one because of a Vitality Charm, but the Explosion hit for 4. Butcher Orgg hit play on Kai's next turn and that was game. Kai's long distance squad kept on slaughtering all of Eugene's soldiers and his creatures came through unhindered. 
+![](http://www.wizards.com/sideboard/images/ptchi03/a792.jpg)
+
+He stole one of the Birchlore Rangers during Eugene's upkeep. Gustcloak Harrier came down to beat down through the sky. Kai's Craghorn came in once again and Kai's Snapping Thragg got Skilled up. He also played Chain of Plasma on the Gustcloak Harrier. With both players at 14 life, the game looked under control for Kai. He stole the Rangers and attacked with the Craghorn again. Eugene made some more tokens and the two tokens along with the Armored token killed it. Kai attempted an Erratic Explosion on it. Eugene pumped its toughness by one because of a Vitality Charm, but the Explosion hit for 4. Butcher Orgg hit play on Kai's next turn and that was game. Kai's long distance squad kept on slaughtering all of Eugene's soldiers and his creatures came through unhindered. 
 
 **Final Result:** Kai 2 – Eugene 1
 

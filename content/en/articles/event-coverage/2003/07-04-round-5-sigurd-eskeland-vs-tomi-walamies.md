@@ -44,7 +44,9 @@ archive_source:
   sha256: fb1d3f2435abef97d5701d87c6a0ea8f6dd0db26264f06282db9c6d31b0c8e3b
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a956.jpg)Sigurd is a Pro Tour champion, Tomi Walamies... well, he has been in a Pro Tour finals twice. He is also one of the best tournament report writer in the game. They are both Nordic, and their haircut makes them look very, very similar today. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a956.jpg)
+
+Sigurd is a Pro Tour champion, Tomi Walamies... well, he has been in a Pro Tour finals twice. He is also one of the best tournament report writer in the game. They are both Nordic, and their haircut makes them look very, very similar today. 
 
 As in almost every single Rochester Feature Match they discussed the draft while shuffling for the first game.
 
@@ -58,7 +60,9 @@ Sigurd cycled [Gempalm Polluter](https://web.archive.org/web/20030704000000/http
 
 Eskeland played a second morph and on the following turn agonized over his options. Obviously he couldn't figure out which morph Walamies had and it was killing him. Finally he sent his first morph in. Walamies blocked.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a957.jpg)A few silent seconds later Eskeland discarded [Shepherd of Rot](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shepherd+of+Rot) to real [Putrid Raptor](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Putrid+Raptor), Tomi revealed his morph ([Master of the Veil](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Master+of+the+Veil)) but Eskeland chucked [Nantuko Husk](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Husk) to again unmorph his Raptor.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a957.jpg)
+
+A few silent seconds later Eskeland discarded [Shepherd of Rot](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shepherd+of+Rot) to real [Putrid Raptor](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Putrid+Raptor), Tomi revealed his morph ([Master of the Veil](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Master+of+the+Veil)) but Eskeland chucked [Nantuko Husk](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Husk) to again unmorph his Raptor.
 
 On the next turn the two morphs traded blows... but Eskeland's was [Zombie Cutthroat](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zombie+Cutthroat). 
 
@@ -75,7 +79,9 @@ Sigurd: "That was a nice draw on my part."
 
 Walamies blinked first, playing the usual turn three morph, [Daru Stinger](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Stinger) (revealing [Daru Warchief](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Warchief)) and [Daru Warchief](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Warchief), Eskeland answered with [Severed Legion](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion) and [Vengeful Dead](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vengeful+Dead).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a958.jpg)The successive swings brought both players to thirteen and after deep consideration the Norwegian played Clutch of the Undead on the Warchief to even things out a bit. On the next turn Walamies simply sent the morph in and played a bomb: [Jareth](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jareth).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a958.jpg)
+
+The successive swings brought both players to thirteen and after deep consideration the Norwegian played Clutch of the Undead on the Warchief to even things out a bit. On the next turn Walamies simply sent the morph in and played a bomb: [Jareth](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jareth).
 
 But even big rare bombs fall to commons. [Cruel Revival](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cruel+Revival) struck a blow for the cards with a black set symbol. Of course, Tomi Walamies wasn't about to be put of by this. He played another rare: [Day of the Dragons](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Day+of+the+Dragons).
 

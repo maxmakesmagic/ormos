@@ -189,7 +189,9 @@ Along with crowning individual and team World Champions, we're awarding the 2010
 
 ### Travel Information
 
-![](https://i.ormos.uk/e8/27/e827f3ae1b3b466b8d77abc4bbd15e5d37cafcff016734ab2d7228fd19b1fc16.jpg)This year's **Magic: The Gathering** World Championships will be held in the Makuhari Messe convention center, located in the Kaihin Makuhari area of Chiba, Japan. Since it opened in October 1989, Makuhari Messe has been Japan's premier convention center, regularly hosting the Tokyo Motor Show, the Tokyo Game Show, the Jump Festa (a manga, anime, and video game exposition), and other high-profile conventions and concerts. 
+![](https://i.ormos.uk/e8/27/e827f3ae1b3b466b8d77abc4bbd15e5d37cafcff016734ab2d7228fd19b1fc16.jpg)
+
+This year's **Magic: The Gathering** World Championships will be held in the Makuhari Messe convention center, located in the Kaihin Makuhari area of Chiba, Japan. Since it opened in October 1989, Makuhari Messe has been Japan's premier convention center, regularly hosting the Tokyo Motor Show, the Tokyo Game Show, the Jump Festa (a manga, anime, and video game exposition), and other high-profile conventions and concerts. 
 
 **Getting There**  
  Travelers arriving from outside Japan at Narita Airport can travel to the Makuhari Messe area using either an express bus or by taking advantage of Japan's sophisticated rail system.

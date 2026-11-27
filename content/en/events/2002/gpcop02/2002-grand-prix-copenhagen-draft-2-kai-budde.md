@@ -84,7 +84,9 @@ render_recovery:
   - Pinpoint Avalanche
   occurrences: 27
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a894.jpg)Kai was seated at the second pod for the final draft of the Swiss with his 9-2 record, and he was in a position between two very well-known players. The table was as follows from seat one Amiel Tenenbaum, Daniel Eriksson, Frederik Courtois, Jens Thoren, Mikael Polgary, Daniel Struik, Jelger Wiegersma and Kai Budde, so Kai was between Jelger and Amiel.
+![](http://www.wizards.com/sideboard/images/gpcop02/a894.jpg)
+
+Kai was seated at the second pod for the final draft of the Swiss with his 9-2 record, and he was in a position between two very well-known players. The table was as follows from seat one Amiel Tenenbaum, Daniel Eriksson, Frederik Courtois, Jens Thoren, Mikael Polgary, Daniel Struik, Jelger Wiegersma and Kai Budde, so Kai was between Jelger and Amiel.
 
 Kai's draft started off unsteadily as he only managed to pick up a Goblin Sledder and a Sandskin from the first pack, then a Secluded Steppe, an Imagecrafter, and a Wave of Indifference. Meanwhile it became clear that Amiel to his left was Red-Green and Jelger was Green-Black. Since he was unsure whether he was going to be able to get much red on the way back, Kai made his next few picks White taking Inspirit, Battlefield Medic, and Daru Lancer. At that point Polgary's deck was looking like the strongest on the table.
 

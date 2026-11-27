@@ -751,7 +751,9 @@ render_recovery:
 ---
 * * *
 
-![Mike Turian](http://wizards.com/sideboard/images/ptsd04/qf4_1.jpg)Mike Turian and Mark Herberholz are two of the three Americans in this Top 8 draft. Turian, currently living in Pittsburgh, is one of the veterans of the tour. Herberholz, from Michigan, has earned his stripes in the PTQ ranks and has made the leap to Sunday play relatively quickly.
+![Mike Turian](http://wizards.com/sideboard/images/ptsd04/qf4_1.jpg)
+
+Mike Turian and Mark Herberholz are two of the three Americans in this Top 8 draft. Turian, currently living in Pittsburgh, is one of the veterans of the tour. Herberholz, from Michigan, has earned his stripes in the PTQ ranks and has made the leap to Sunday play relatively quickly.
 
 The two players are friends, and have hung out at various events in the Ohio Valley for years. Herberholz was included on the CMU-TOGIT mailing list for the last Pro Tour (Kobe), and stayed at Turian's house for a few days prior to that event.
 

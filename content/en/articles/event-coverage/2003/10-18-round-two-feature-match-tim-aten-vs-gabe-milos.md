@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a987.jpg)Gabe was here from Omaha, Nebraska with zero byes and zero expectation about ending up at the Feature Match area. He has only been playing Magic for about a year after a group of friends thrust the game upon him. He has played in a handful of qualifiers and prereleases but this was by far the biggest event he had entered to date. He won his first round and seemed a little daunted about playing in the feature match area.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a987.jpg)
+
+Gabe was here from Omaha, Nebraska with zero byes and zero expectation about ending up at the Feature Match area. He has only been playing Magic for about a year after a group of friends thrust the game upon him. He has played in a handful of qualifiers and prereleases but this was by far the biggest event he had entered to date. He won his first round and seemed a little daunted about playing in the feature match area.
 
 His opponent, internet scribe Tim Aten may not have been daunted but he certainly wasn’t pleased, “I saw someone playing round one in a Pro Tour Shirt—why did you have to pick me?” Tim would normally have pursued a three-round bye for his event via Grand Prix Trials but he did not originally plan on attending. When a friend won a local Trial and decided to go, Tim was dragged along for the ride.
 
@@ -59,7 +61,9 @@ His opponent, internet scribe Tim Aten may not have been daunted but he certainl
 
 Gabe was playing first and opened with a Slagwurm Armor. Tim showed blue with an Island and passed the turn back. Nothing of note happened until the third turn when both players dropped Shards. Gabe was showing mono-red when he played a Granite Shard. Tim answered with the more powerful Crystal Shard—he was showing blue-black. 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a984.jpg)Tim played a Neurok Familiar revealing a Vault of Shadows. Gabe responded by shooting it and Tim returned the flier to his hand. He played the land and passed the turn back. Both players played Hematite Golems but Tim had the Shard to return Gabe’s and played out a pair of Neurok Familiars, milling a pair of lands into his yard.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a984.jpg)
+
+Tim played a Neurok Familiar revealing a Vault of Shadows. Gabe responded by shooting it and Tim returned the flier to his hand. He played the land and passed the turn back. Both players played Hematite Golems but Tim had the Shard to return Gabe’s and played out a pair of Neurok Familiars, milling a pair of lands into his yard.
 
 Gabe was stuck on four lands and got in for three with a hasty Vulshok Berserker. Tim bounced the Berserker and played a Goblin Charbelcher. He left the Golem back on guard duty and when Gabe replayed the Berserker he had no attack.
 
@@ -77,7 +81,9 @@ A Chromatic Sphere from Gabe was met by a Bonesplitter from Tim. On turn two Gab
 
 Tim played an Icy Manipulator and tried to tie up Gabe’s mana but he managed to play a Hematite Golem thanks to an Iron Myr from the turn earlier. Gabe managed an Ogre Leadfoot on the next turn. Tim proceeded to build the savagest Myr ever with Bonesplitter and Fireshrieker but Gabe played a Granite Shard and put it down. Tim tapped the Ogre Leadfoot on the Myr’s way out and Shattered the Hematite Golem.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a985.jpg)Muriok Scavenger regrew Tim’s Cobalt Golem and was quickly outfitted with the new Rancor. Gabe took Tim down to ten with his Tooth and a Myr—Tim was able to keep the Leadfoot at bay with the Icy. Tim got in for eight with his black creature when it acquired the double-strike equipment. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a985.jpg)
+
+Muriok Scavenger regrew Tim’s Cobalt Golem and was quickly outfitted with the new Rancor. Gabe took Tim down to ten with his Tooth and a Myr—Tim was able to keep the Leadfoot at bay with the Icy. Tim got in for eight with his black creature when it acquired the double-strike equipment. 
 
 Gabe quickly fell to two but he still had a Bottle Gnomes and he sacrificed it to go to five. Tim had a Pyrite Spellbomb in play and could have shot Gabe in response but chose not to. When Gabe drew nothing to deal with eight points in the air from Cobalt Golem he laid down his handful of lands.
 

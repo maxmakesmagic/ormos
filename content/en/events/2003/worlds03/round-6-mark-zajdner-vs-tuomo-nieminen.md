@@ -199,7 +199,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds03/a875.jpg)Mark Zajdner is an up and coming player from Canada. Mark is a Pro Tour cut-up and he is better known for his off the field antics than his play right now but players who know him are waiting for his bust out performance. He is sitting on a 5-0 record playing Red-White Slide with Burning Wish. 
+![](http://www.wizards.com/sideboard/images/worlds03/a875.jpg)
+
+Mark Zajdner is an up and coming player from Canada. Mark is a Pro Tour cut-up and he is better known for his off the field antics than his play right now but players who know him are waiting for his bust out performance. He is sitting on a 5-0 record playing Red-White Slide with Burning Wish. 
 
 His opponent is the taciturn member of the Finnish National team Tuomo Nieminen playing Mirari's Wake. He is also 5-0 and the match-up was apparently lopsidedly in the Finn's favor. Mark Zajdner was shouting across the feature match area to a friend. "I can win...but it's ugly. I am going to get smoked. Couldn't I play anyone else? My opponent is playing Wake...at least I think he is. I'm pretty sure I saw him playing Wake."
 
@@ -209,7 +211,9 @@ The most interesting thing about the first few turns of this game was that Tuomo
 
 Temple of the False God gave Mark enough mana to pick up the Dragon and play it the next turn. In between those turns, Tuomo played a Mirari's Wake and began to cycle with his Compulsion in search of an answer. With Astral Slide on the table he needed to get rid of that before he could deal with the dragon so he cycled away a pair of Wraths.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a877.jpg)Tuomo bought turn after turn with Moment's Peace cast from his hand. Mark made seven soldiers EOT and hoped for the best. After a Moment's Peace was flashed back Mark tried to count how many were played from his hand, "Can I see your graveyard? Yup, more where that came from." He played another Eternal Dragon.
+![](http://www.wizards.com/sideboard/images/worlds03/a877.jpg)
+
+Tuomo bought turn after turn with Moment's Peace cast from his hand. Mark made seven soldiers EOT and hoped for the best. After a Moment's Peace was flashed back Mark tried to count how many were played from his hand, "Can I see your graveyard? Yup, more where that came from." He played another Eternal Dragon.
 
 Tuomo found a Ray of Revelation with Cunning Wish and was able to kill the Astral Slide and cleared the way for a Wrath. When he cycled his own Decree for a bunch of 2/2 soldiers, mark packed it in.
 
@@ -233,7 +237,9 @@ Tuomo doesn't say much but when he does... "Actually I have already done it a th
 
 Zajdner kept his openers but when Tuomo wavered Mark prodded him. "You like what you see? So-so?" After some debate he mulliganed and kept his next six cards.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a876.jpg)Zajdner played an Astral Slide and a few turns later made three tokens with a Decree. When his opponent cast Wrath of God, Zajdner—never one to miss a gag--cycled a Dragon and removed a token from the game with his Slide. He cycled a Steppe EOT as well.
+![](http://www.wizards.com/sideboard/images/worlds03/a876.jpg)
+
+Zajdner played an Astral Slide and a few turns later made three tokens with a Decree. When his opponent cast Wrath of God, Zajdner—never one to miss a gag--cycled a Dragon and removed a token from the game with his Slide. He cycled a Steppe EOT as well.
 
 He returned the Dragon and had enough mana to follow up with another Astral Slide. After Tuomo played a Mirari's Wake Mark played a Dragon which was Mana Leaked  
  He played a land and a morph and laughed, "I didn't really want that one anyway."

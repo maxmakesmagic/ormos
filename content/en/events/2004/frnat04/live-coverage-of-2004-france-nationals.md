@@ -375,7 +375,9 @@ render_recovery:
 ---
 ### Round 1: Gabriel Nassif vs. Olivier Marmet
 
-![](https://i.ormos.uk/1a/20/1a2027811c5763cead2d2827cb6c89ea301f82881a8dde1135ad7cf53b0949ce.jpg)As the well-known players managed to avoid getting paired against each other in the large field at the start of day one, the first feature match contains France's most succesful current player, Gabriel Nassif, who is currently second in the Player of the Year race to Norway's Nicolai Herzog. In stark contrast, Olivier, playing in his first Nationals, has only played in one event where he could have picked up Pro Tour Points, but didn't make day two in Grand Prix Lyons.
+![](https://i.ormos.uk/1a/20/1a2027811c5763cead2d2827cb6c89ea301f82881a8dde1135ad7cf53b0949ce.jpg)
+
+As the well-known players managed to avoid getting paired against each other in the large field at the start of day one, the first feature match contains France's most succesful current player, Gabriel Nassif, who is currently second in the Player of the Year race to Norway's Nicolai Herzog. In stark contrast, Olivier, playing in his first Nationals, has only played in one event where he could have picked up Pro Tour Points, but didn't make day two in Grand Prix Lyons.
 
 Olivier is playing a blue-white control deck, and Nassif has a mono-red land destruction deck which Jose Barbero is also playing.
 

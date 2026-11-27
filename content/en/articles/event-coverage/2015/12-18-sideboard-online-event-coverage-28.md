@@ -52,7 +52,9 @@ render_recovery: []
 
 **Randy Buehler vs Rudy Edwards** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R5Buehler.JPG)Edwards and Buehler, both players with extensive grapevine connections, were each 3-1 coming into this, the second to last round of the day. Game one started quickly, with Rudy dropping a first turn Wild Dogs, which he followed up with a second turn Priest of Titania and a third turn Treefolk Mystic. On the other side of the table, Randy was in the process of drawing four of his seven Islands while failing to find a second black source, with which he could cast one of his three Eradicates. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R5Buehler.JPG)
+
+Edwards and Buehler, both players with extensive grapevine connections, were each 3-1 coming into this, the second to last round of the day. Game one started quickly, with Rudy dropping a first turn Wild Dogs, which he followed up with a second turn Priest of Titania and a third turn Treefolk Mystic. On the other side of the table, Randy was in the process of drawing four of his seven Islands while failing to find a second black source, with which he could cast one of his three Eradicates. 
 
 Second game was all Buehler as he dropped a second turn Phyrexian Denouncer and a third turn Looming Shade, but Rudy had been holding back a Miscalculation, so the Shade didn't get through. 
 

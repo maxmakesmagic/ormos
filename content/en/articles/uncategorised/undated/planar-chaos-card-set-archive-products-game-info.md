@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/e0/bc/e0bc8b430f51f609889ee31c72fa2d08317349698ae1d88730e3c1eb1595ae34.png)The second set in the *Time Spiral* block, *Planar Chaos* features 165 cards, including 45 with a frame treatment from an alternative timeline, and randomly inserted premium cards.
+![](https://i.ormos.uk/e0/bc/e0bc8b430f51f609889ee31c72fa2d08317349698ae1d88730e3c1eb1595ae34.png)
+
+The second set in the *Time Spiral* block, *Planar Chaos* features 165 cards, including 45 with a frame treatment from an alternative timeline, and randomly inserted premium cards.
 
 **Set Name:** *Planar Chaos*  
 **Block:** Set 2 of 3 of the *Time Spiral* Block  

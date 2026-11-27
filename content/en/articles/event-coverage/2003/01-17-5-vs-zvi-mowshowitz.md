@@ -58,7 +58,9 @@ render_recovery: []
 
 **Game 2**
 
-![](https://i.ormos.uk/86/17/86179ee5a9497b24921a70df916159cc9ae7ba41ed17707971d60646522325f3.jpg)お互いの除去が飛びかい、藤田剛史の場には《うなるアンドラック/[Snarling Undorak](https://web.archive.org/web/20030117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snarling+Undorak)》と《平和な心/[Pacifism](https://web.archive.org/web/20030117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism)》をつけられた《クローサの大牙獣/[Krosan Tusker](https://web.archive.org/web/20030117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Tusker)》が、Zvi Mowshowitzの側には《圧倒する防衛者/[Daunting Defender](https://web.archive.org/web/20030117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daunting+Defender)》だけが生き残ることとなった。かくて、藤田有利ながらも、《アンドラック》と《防衛者》とが淡々と殴りあいを展開し始めたのだ。
+![](https://i.ormos.uk/86/17/86179ee5a9497b24921a70df916159cc9ae7ba41ed17707971d60646522325f3.jpg)
+
+お互いの除去が飛びかい、藤田剛史の場には《うなるアンドラック/[Snarling Undorak](https://web.archive.org/web/20030117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snarling+Undorak)》と《平和な心/[Pacifism](https://web.archive.org/web/20030117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism)》をつけられた《クローサの大牙獣/[Krosan Tusker](https://web.archive.org/web/20030117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Tusker)》が、Zvi Mowshowitzの側には《圧倒する防衛者/[Daunting Defender](https://web.archive.org/web/20030117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daunting+Defender)》だけが生き残ることとなった。かくて、藤田有利ながらも、《アンドラック》と《防衛者》とが淡々と殴りあいを展開し始めたのだ。
 
 これはZviのドローが芳しくなかったということも大きかったわけなのだが、それでも《神話的体形/[Mythic Proportions](https://web.archive.org/web/20030117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mythic+Proportions)》を即座に《啓蒙/[Demystify](https://web.archive.org/web/20030117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demystify)》するなどして戦線は膠着を保っていたかのようだった。しかし、藤田が《帰化/[Naturalize](https://web.archive.org/web/20030117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Naturalize)》を引き当てて《大牙獣》の野性を解放したことによって、Zvi Mowshowitzのライフは一瞬のうちに削り取られてしまうこととなった。
 

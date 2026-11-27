@@ -187,7 +187,9 @@ render_recovery:
   - Laquatus's Champion
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/ptosa02/a885.jpg)　昨年、PT東京において赤緑ステロでベスト８を果たしているLucas。対しては最早説明要らず、既にMasters決勝への切符も入手済みとノリまくっている石田。初日を3-1で折り返すのはどちらとなろうのだろうか。
+![](http://www.wizards.com/sideboard/images/ptosa02/a885.jpg)
+
+　昨年、PT東京において赤緑ステロでベスト８を果たしているLucas。対しては最早説明要らず、既にMasters決勝への切符も入手済みとノリまくっている石田。初日を3-1で折り返すのはどちらとなろうのだろうか。
 
 ### Game 1
 
@@ -230,7 +232,9 @@ render_recovery:
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a886.jpg)　Lucasの《強制》からゲームが始まる。石田が《催眠の悪鬼/Mesmeric Fiend(TO)》を召喚。覗いた手札は以下の通り。
+![](http://www.wizards.com/sideboard/images/ptosa02/a886.jpg)
+
+　Lucasの《強制》からゲームが始まる。石田が《催眠の悪鬼/Mesmeric Fiend(TO)》を召喚。覗いた手札は以下の通り。
 
 　《雑種犬》  
  、《獣群の呼び声/Call of the Herd(OD)》  

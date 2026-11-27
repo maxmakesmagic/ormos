@@ -165,7 +165,9 @@ render_recovery:
   - Needleshot Gourna
   occurrences: 1
 ---
-![](https://i.ormos.uk/3f/00/3f00709401794a315df688afea37891eddf221dc6066056961888ed665281aac.jpg)かつての世界選手権決勝でミラーマッチを戦った二人が世界選手権の二日目最終戦でマッチアップされた。二人ともシーズンMVP（Player of the Year）受賞をめざしての世界選手権参戦であり、明日に繋ぐためにもここは負けられない戦いだった。
+![](https://i.ormos.uk/3f/00/3f00709401794a315df688afea37891eddf221dc6066056961888ed665281aac.jpg)
+
+かつての世界選手権決勝でミラーマッチを戦った二人が世界選手権の二日目最終戦でマッチアップされた。二人ともシーズンMVP（Player of the Year）受賞をめざしての世界選手権参戦であり、明日に繋ぐためにもここは負けられない戦いだった。
 
 Maherが典型的な緑黒ビートダウンで、Finkelは赤白である。
 
@@ -175,7 +177,9 @@ Maherが典型的な緑黒ビートダウンで、Finkelは赤白である。
 
 第4ターン。Maherは《ワイアウッドの伝令/Wirewood Herald》と《煙吐く発動者/Smokespew Invoker》でアタック。ここでFinkelは《ワイアウッドの伝令/Wirewood Herald》を《変異/Morph》でブロック宣言。Maherは《原初の支援/Primal Boost》をサイクリングで使用して相打ちにとる。つまり、ここでエルフである《岩石樹の発動者/Stonewood Invoker》をつみこみつつサイクリングで1ドローというわけである。
 
-![](https://i.ormos.uk/79/81/7981b58a43d19dfc3c3ff232cdbf04aa4701fd264cf7e6fd64de3cb81dad5dbf.jpg)フィンケルがドローゴーで返したため、Maherは5ターン目に《変異/Morph》と《岩石樹の発動者/Stonewood Invoker》を展開。タップアウトしたところを待ち構えていたFinkelが《乱射/Scattershot》で《変異/Morph》を除去。ちなみにこれは《毒吐きゴルナ/Spitting Gourna》だった。
+![](https://i.ormos.uk/79/81/7981b58a43d19dfc3c3ff232cdbf04aa4701fd264cf7e6fd64de3cb81dad5dbf.jpg)
+
+フィンケルがドローゴーで返したため、Maherは5ターン目に《変異/Morph》と《岩石樹の発動者/Stonewood Invoker》を展開。タップアウトしたところを待ち構えていたFinkelが《乱射/Scattershot》で《変異/Morph》を除去。ちなみにこれは《毒吐きゴルナ/Spitting Gourna》だった。
 
 しかし、Maherの怒涛の攻めはまだまだ続く。《魂の収集家/Soul Collector》が場に現れ、《岩石樹の発動者/Stonewood Invoker》には《ドラゴンの影/Dragon Shadow》がエンチャントされるという有様だ。Finkelも《気高き院僧/Noble Templar》、《獅子面のタイタン、ジャレス/Jareth, Leonine Titan》とやや遅れて展開したが...やはりテンポアドバンテージで圧倒したMaherが緒戦をものにしたのだった。
 

@@ -266,7 +266,9 @@ render_recovery:
   - Spiritualize
   occurrences: 363
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a898.jpg)As reported yesterday, Courtney's Boys spent the last ten days preparing for this event at Bob's house in Wisconsin. When pushed for details about their testing methods, Gary revealed that it largely consisted of Neil and Bob watching over Gary's shoulder while he played Magic Online. Gary felt that his famed limited skillz had atrophied during his time in England and needed to have Bob and Neil mocking his misplays in order to sharpen his game.
+![](http://www.wizards.com/sideboard/images/ptbos02/a898.jpg)
+
+As reported yesterday, Courtney's Boys spent the last ten days preparing for this event at Bob's house in Wisconsin. When pushed for details about their testing methods, Gary revealed that it largely consisted of Neil and Bob watching over Gary's shoulder while he played Magic Online. Gary felt that his famed limited skillz had atrophied during his time in England and needed to have Bob and Neil mocking his misplays in order to sharpen his game.
 
 "All kidding aside," confided Wise, "If you are asking me if we are prepared for this event...
 

@@ -223,7 +223,9 @@ Living weapon is not an evergreen mechanic, a mechanic that design is free to us
 
 I don't feel like living weapon is going to be forever linked with Phyrexia. I'm pretty sure the next time you see living weapon it will be in a non-Phyrexian context.
 
-> ![](https://i.ormos.uk/86/b5/86b5b6b03e68764820a802473a6b7e688fef2eb489d14f44692d456d3886ceea.jpg)[hoopst](http://www.twitter.com/hoopst) @maro254 were u surprised that a lot of the GDS2 candidates had similar ideas for Living Weapon?
+> ![](https://i.ormos.uk/86/b5/86b5b6b03e68764820a802473a6b7e688fef2eb489d14f44692d456d3886ceea.jpg)
+>
+> [hoopst](http://www.twitter.com/hoopst) @maro254 were u surprised that a lot of the GDS2 candidates had similar ideas for Living Weapon?
 
 This is something we've been messing around with forever in design so it didn't surprise me to see so many Great Designer Search 2 candidates exploring this area. What did surprise me was how close Top 8 finalist Jonathan Woodward got with his mechanic incarnate. It was exactly living weapon (complete with 0/0 token), except on Auras instead of Equipment.
 

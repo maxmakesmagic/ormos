@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/cf/20/cf20c5bbdd032c020b09152ba3af3843abcc42b5295c5186af58f66cee7364da.png)This 165-card deck introduces three new Ravnica guilds: Orzhov Syndicate (white-black), Gruul Clans (red-green), and Izzet League (blue-red).
+![](https://i.ormos.uk/cf/20/cf20c5bbdd032c020b09152ba3af3843abcc42b5295c5186af58f66cee7364da.png)
+
+This 165-card deck introduces three new Ravnica guilds: Orzhov Syndicate (white-black), Gruul Clans (red-green), and Izzet League (blue-red).
 
 **Set Name:** *Guildpact*  
 **Block:** Set 2 of 3 of the *Ravnica* Block  

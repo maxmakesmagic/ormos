@@ -45,7 +45,9 @@ archive_source:
   sha256: 4a676d2ed4295d921d90ad450ad3626acb6154c710440a4866e859668599ba70
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/ky03/983.jpg)Hailing from Southern Indiana, Gary Ritchie maybe one of the best players you have never heard of. Well, you may have never heard of him for a few reasons. The student rarely travels to events outside of the Indiana and Kentucky area. He is a relatively young player in the world of competitive magic, but that has not held him back so far. To top off a few solid local Prerelease and Grand Prix Trial performances, he has one QT top eight in his career. He is playing the three color slide deck that did well at the United States Nationals Adam Yang is a Louisville native, and a freshman at Georgia Tech University where he studies biology. The winner of the Scourge Prerelease, this limited specialist is looking to add some constructed credentials to his resume before he makes the move to Georgia. Yang choose to run the new Goblin Bidding deck that made three players a little bit of money at Grand Prix Bangkok. 
+![](http://www.wizards.com/sideboard/images/ky03/983.jpg)
+
+Hailing from Southern Indiana, Gary Ritchie maybe one of the best players you have never heard of. Well, you may have never heard of him for a few reasons. The student rarely travels to events outside of the Indiana and Kentucky area. He is a relatively young player in the world of competitive magic, but that has not held him back so far. To top off a few solid local Prerelease and Grand Prix Trial performances, he has one QT top eight in his career. He is playing the three color slide deck that did well at the United States Nationals Adam Yang is a Louisville native, and a freshman at Georgia Tech University where he studies biology. The winner of the Scourge Prerelease, this limited specialist is looking to add some constructed credentials to his resume before he makes the move to Georgia. Yang choose to run the new Goblin Bidding deck that made three players a little bit of money at Grand Prix Bangkok. 
 
 Gary won the roll and chooses to play first. 
 

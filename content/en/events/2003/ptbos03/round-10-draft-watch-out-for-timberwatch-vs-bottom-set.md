@@ -256,7 +256,9 @@ render_recovery:
   - Root Sliver
   occurrences: 251
 ---
-![](http://www.wizards.com/sideboard/images/ptbos03/a842.jpg)This is the second year in a row that the Guevins, the unpredictable Tom and comparatively predictable Peter, have been within striking range of the Top 4. This time around they haven't got Danny Mandel with them, instead opting for Paul Rietzl, who recently ground in to U.S. Nationals. All their hard work and preparation is going to be put to the test this round when they face Bottom Set, the powerhouse trio of Dave Williams, Neil Reeves and Bob Maher.
+![](http://www.wizards.com/sideboard/images/ptbos03/a842.jpg)
+
+This is the second year in a row that the Guevins, the unpredictable Tom and comparatively predictable Peter, have been within striking range of the Top 4. This time around they haven't got Danny Mandel with them, instead opting for Paul Rietzl, who recently ground in to U.S. Nationals. All their hard work and preparation is going to be put to the test this round when they face Bottom Set, the powerhouse trio of Dave Williams, Neil Reeves and Bob Maher.
 
 Maher's team won the flip, and chose to kick off.
 
@@ -370,7 +372,9 @@ Here again, Rietzl shows how much he loves the Goo.
 
 Maher hated the Mage with a smile, for Guevin, who flailed his arms.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a841.jpg)As they built their decks, Bottom Set were reluctant to give themselves an advantage. Williams looked like a sure winner, but Maher and Reeves weren't sure how their matches would go. Maher feared the speed of Tom's deck, and almost wound up playing One With Nature and Treetop Scout, saying "If I get lands, I'm gonna win." 
+![](http://www.wizards.com/sideboard/images/ptbos03/a841.jpg)
+
+As they built their decks, Bottom Set were reluctant to give themselves an advantage. Williams looked like a sure winner, but Maher and Reeves weren't sure how their matches would go. Maher feared the speed of Tom's deck, and almost wound up playing One With Nature and Treetop Scout, saying "If I get lands, I'm gonna win." 
 
 Strangely, that lined up well with Tom Guevin's seemingly-mad insistence on playing land destruction. Rietzl was worried about his match against Williams, but thought it was by no means unwinnable. Peter Guevin thought he had a good shot against Reeves, whose deck he thought would lack cohesion. They were on the whole unnerved by the mishap with the Brigadier, but rallied as best they could.
 

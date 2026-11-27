@@ -924,7 +924,9 @@ render_recovery:
   - Persecute
   occurrences: 1
 ---
-![](https://i.ormos.uk/cd/31/cd31c492ab3715e16e0835f30c5e2aef9865283c6b5dae3963de43f25b14e098.jpg)56 players qualified for the right to represent Malaysia at Worlds. Aggressive red-green ruled the day, beating out a diverse field of decks including Psychatog, blue-green, monored and b-g contrpol. Check out the Top 8 decks:
+![](https://i.ormos.uk/cd/31/cd31c492ab3715e16e0835f30c5e2aef9865283c6b5dae3963de43f25b14e098.jpg)
+
+56 players qualified for the right to represent Malaysia at Worlds. Aggressive red-green ruled the day, beating out a diverse field of decks including Psychatog, blue-green, monored and b-g contrpol. Check out the Top 8 decks:
 
   
   

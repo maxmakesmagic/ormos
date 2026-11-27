@@ -81,7 +81,9 @@ render_recovery: []
 ---
 * * *
 
-[![Dissension Orb of Insight - Click to launch](https://i.ormos.uk/d7/62/d762ad6154265f2c20f436c1e6bf55c36dd339eec4306835834b9059aafa613b.jpg)](#)The Orb of Insight has returned!
+[![Dissension Orb of Insight - Click to launch](https://i.ormos.uk/d7/62/d762ad6154265f2c20f436c1e6bf55c36dd339eec4306835834b9059aafa613b.jpg)](#)
+
+The Orb of Insight has returned!
 
 And just in time, too, since we're going to start actual *Dissension* card previews on Monday, April 10. For now, though, you can occupy yourself by exploring the Orb. How does it work? Well, that's kind of trade secret, but we can let you know this much: It's *Magic*.
 

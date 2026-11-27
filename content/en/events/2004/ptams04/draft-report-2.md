@@ -479,7 +479,9 @@ render_recovery:
 ---
 ### Mike Turian
 
-![](http://www.wizards.com/sideboard/images/ptams04/dr4.jpg)In my Pro Tour New Orleans coverage I mentioned that Mike had recently gotten engaged to the lovely Rachel Reynolds. Well, I have some news this time as well. Less than a week ago, Rachel moved out to Seattle and started a new job at Wizards of the Coast as a **Magic Online** programmer. Once Mike finishes out his last semester of college, he's going to be moving out to the west coast to live with her. The problem is that, if you live with a Wizards employee, you can no longer play in sanctioned **Magic** events. What does this mean? Mike Turian, after quite a successful career, is soon retiring from the game. Pro Tour San Diego will be his last event.
+![](http://www.wizards.com/sideboard/images/ptams04/dr4.jpg)
+
+In my Pro Tour New Orleans coverage I mentioned that Mike had recently gotten engaged to the lovely Rachel Reynolds. Well, I have some news this time as well. Less than a week ago, Rachel moved out to Seattle and started a new job at Wizards of the Coast as a **Magic Online** programmer. Once Mike finishes out his last semester of college, he's going to be moving out to the west coast to live with her. The problem is that, if you live with a Wizards employee, you can no longer play in sanctioned **Magic** events. What does this mean? Mike Turian, after quite a successful career, is soon retiring from the game. Pro Tour San Diego will be his last event.
 
 He's currently sitting at 6-0, and some people are already predicting that he will win the entire thing. As Mike is one of the recognized Rochester draft greats, it's only fitting that I was able to cover one of his last Pro Tour drafts. The seating for table one was as follows:
 

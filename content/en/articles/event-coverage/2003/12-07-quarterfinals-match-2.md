@@ -44,7 +44,9 @@ archive_source:
   sha256: cdfd2e18c5aff8da76c13e1c07db82135baaee2d85905d21ba50f898237d5aa1
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/qf4.jpg)In a top 8 dominated by Germans, fate decided that the only two Frenchmen would face each other in the quarterfinals.Yann Hamon is far from a surprise, after all he won an European Grand Prix using this very same format. Steven Gouin is a name that most of the non French readers are aware off, but he proved his valor on the draft tables to reach here.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/qf4.jpg)
+
+In a top 8 dominated by Germans, fate decided that the only two Frenchmen would face each other in the quarterfinals.Yann Hamon is far from a surprise, after all he won an European Grand Prix using this very same format. Steven Gouin is a name that most of the non French readers are aware off, but he proved his valor on the draft tables to reach here.
 
 After the draft, the general opinion is that Yann Hamon has an advantage, since the draft went well for him. He has a good Blue Green tempo deck, with two [Goblin Replica](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Replica)s and a Mountain plus a [Journey of Discovery](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Journey+of+Discovery). Steven struggled a little more during deck construction due to his low count of creatures. He had to play with some average creatures, but on the other hand has two [Irradiate](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Irradiate) and three [Terror](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terror), which should be quite good in this matchup. Only five of Yann's creature are Artifact, and pay 2 mana to destroy a big green guy is always welcomed I suppose.
 

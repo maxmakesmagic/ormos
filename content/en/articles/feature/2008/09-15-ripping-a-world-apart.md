@@ -69,7 +69,9 @@ archive_source:
   sha256: ebe748f20c8f08b16ce831c13cf9bb28595140d89042c28dcac90c50279b3fa8
 render_recovery: []
 ---
-![](https://i.ormos.uk/ca/63/ca63726608bd6692a8d76a742f86f9fc597ab7d752212b1ac531614b75a6c096.jpg)What insurmountably evil force could take a plane of existence, rip it apart into five separate pieces, and leave each sub-plane partially crippled by its lack of access to some of the core essences of mana?
+![](https://i.ormos.uk/ca/63/ca63726608bd6692a8d76a742f86f9fc597ab7d752212b1ac531614b75a6c096.jpg)
+
+What insurmountably evil force could take a plane of existence, rip it apart into five separate pieces, and leave each sub-plane partially crippled by its lack of access to some of the core essences of mana?
 
 Who could be so pitiless as to leave the denizens of these sub-planes to struggle in a state of half-formed subsistence, in constant search of a missing piece of their natural and historical chronicle?
 
@@ -93,7 +95,9 @@ Five separate and unique shard-planes would be way more fun to create than a few
 
 ### Defining Each Shard
 
-[![Diamond_Kaleidoscope](https://i.ormos.uk/cd/26/cd26113ce887bba4695654b68f1028eace1c6f9885791d7f242e5682f93e0a7f.jpg)](https://web.archive.org/web/20080915000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Diamond%2BKaleidoscope)The shards would be a refraction of the original plane as seen through a twisted three-color mana kaleidoscope. They would each be defined by three colors of mana that were dominant on that particular shard. The shards would also be partially defined by the two colors of mana that were not prevalent on each plane.
+[![Diamond_Kaleidoscope](https://i.ormos.uk/cd/26/cd26113ce887bba4695654b68f1028eace1c6f9885791d7f242e5682f93e0a7f.jpg)](https://web.archive.org/web/20080915000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Diamond%2BKaleidoscope)
+
+The shards would be a refraction of the original plane as seen through a twisted three-color mana kaleidoscope. They would each be defined by three colors of mana that were dominant on that particular shard. The shards would also be partially defined by the two colors of mana that were not prevalent on each plane.
 
 This left us with one question: should each shard completely lack two colors of mana and the concepts attributed to those mana colors? If so, this concept led to many creative conundrums.
 

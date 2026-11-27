@@ -57,7 +57,9 @@ Neither of these players has a reputation for being particulary speedy. They liv
 
 Rob went first and kept his hand; Mike mulliganed once. The first phase of this game lasted about seven turns and featured solid progressions from both players. Mike's early Elf and Boa were swept away by a third-turn Earthquake; then Mike played Chimeric Idol, Rob played Jade Leech, Mike answered with a Blastoderm, and Rob added his own Chimeric Idol to the party. Blastoderm and Leech traded, and then the progression started again: Rob with Blastoderm, Mike with Saproling Burst, and then Rob with a new Jade Leech. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/702.jpg)Mike forced a Blastoderm trade with a 5/5 saproling from the Burst, and with a Fires of Yavimaya out, looked ready to take the edge. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/702.jpg)
+
+Mike forced a Blastoderm trade with a 5/5 saproling from the Burst, and with a Fires of Yavimaya out, looked ready to take the edge. 
 
 And then Rob played his own Saproling Burst, and a new phase of the game began. 
 
@@ -69,7 +71,9 @@ The next few turns took an amazingly long time, as shrinking saprolings and Boa 
 
 The last phase of the game was Mike's desperate struggle to hang on and find the blockers and tricks that could turn things around. Beyond a River Boa, that answer never came. Five turns later, Mike ran out of blockers, and conceded in the face of lethal damage. 
 
-![](https://i.ormos.uk/f1/ed/f1ed6ce30ed980af67e97f13b4eefd45fda25e4b25350237da9209f69a73309c.jpg)One innocuous play that revealed a terrific awareness of an opponent's deck (all Top 8 decklists were distributed last night, but this was still impressive) involved Rob's fading Saproling Burst. With only one counter on the Burst during the end phase of his opponent's turn, Rob removed a counter and "made a 0/0 token." This allowed the Burst to fade out completely during his upkeep, rather than remaining useless on the board for a turn, where Mike might play Aura Mutation on it. 
+![](https://i.ormos.uk/f1/ed/f1ed6ce30ed980af67e97f13b4eefd45fda25e4b25350237da9209f69a73309c.jpg)
+
+One innocuous play that revealed a terrific awareness of an opponent's deck (all Top 8 decklists were distributed last night, but this was still impressive) involved Rob's fading Saproling Burst. With only one counter on the Burst during the end phase of his opponent's turn, Rob removed a counter and "made a 0/0 token." This allowed the Burst to fade out completely during his upkeep, rather than remaining useless on the board for a turn, where Mike might play Aura Mutation on it. 
 
 **Game 2** 
 

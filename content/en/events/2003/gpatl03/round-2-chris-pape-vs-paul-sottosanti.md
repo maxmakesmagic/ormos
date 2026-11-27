@@ -99,7 +99,9 @@ Pape had to ship back his first hand. Sottosanti merely nodded.
 
 "But I've got a great trashtalking line! I can't help him out?" – Osyp Lebedowicz
 
-![](https://i.ormos.uk/e9/7c/e97cdae70ba7593923bb0d0b3995630036b61fca87bea6b0e313bb399c24a492.jpg)Unfortunately, Sottosanti had to mulligan as well. He stayed on six and they were off. Pape led with Krosan Verge, signaling the persistent Wake. Sottosanti's Bloodstained Mire kept things a secret until a turn-two Goblin Piledriver. It resolved, along with a Goblin Warchief the following turn and Pape was down to fifteen. He popped his Verge and untapped.
+![](https://i.ormos.uk/e9/7c/e97cdae70ba7593923bb0d0b3995630036b61fca87bea6b0e313bb399c24a492.jpg)
+
+Unfortunately, Sottosanti had to mulligan as well. He stayed on six and they were off. Pape led with Krosan Verge, signaling the persistent Wake. Sottosanti's Bloodstained Mire kept things a secret until a turn-two Goblin Piledriver. It resolved, along with a Goblin Warchief the following turn and Pape was down to fifteen. He popped his Verge and untapped.
 
 With his second white mana available, Pape's hand of Moment's Peace, Wrath of God, Vengeful Dreams and a pair of Decrees of Justice was looking rock solid. He passed it back to Sottosanti, who flooded the board with a Sledder and Sparksmith, charging straight into Moment's Peace. Pape accidentally overpaid for the spell, though, and burned for one.
 
@@ -133,7 +135,9 @@ Sottosanti 1 – Pape 1
 
 ### Game 3
 
-![](https://i.ormos.uk/52/80/5280e5886777d35f5f90bb29ea5120a1ce04388a77c97bf6c1c249aa4eef9910.jpg)For the deciding game, Sottosanti's first hand featured no lands. His second, only one, but included a Sledder, two 'Smiths, a Warchief and a Firecat. He stared at it, but couldn't keep. Next up was three land including a Burrows and a Ring, and two Sledders. He kept.
+![](https://i.ormos.uk/52/80/5280e5886777d35f5f90bb29ea5120a1ce04388a77c97bf6c1c249aa4eef9910.jpg)
+
+For the deciding game, Sottosanti's first hand featured no lands. His second, only one, but included a Sledder, two 'Smiths, a Warchief and a Firecat. He stared at it, but couldn't keep. Next up was three land including a Burrows and a Ring, and two Sledders. He kept.
 
 He drew a second Sledder and so had three on the second turn. Then he dropped the Burrows and brought Pape to fourteen. Pape continued to drop lands. Another attack brought him to nine. Wrath of God cleared the board. Sottosanti was right back in it with Raging Goblin, bringing Pape to six. Pape stopped the next assault with a Cunning Wish for Vengeful Dreams, but didn't wait for Sottosanti to use his Burrows, so Sottosanti got to play his Goblin Piledriver.
 

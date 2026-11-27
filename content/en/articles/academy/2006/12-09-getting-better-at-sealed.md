@@ -89,7 +89,9 @@ With this in mind, here are ten general steps I follow when I'm building a Seale
 
 Lay each color out in a column so that you can see at least the name of each card.
 
-![Sift](https://i.ormos.uk/ef/b7/efb7b748d9c194f80113fd920942961ea86240e781fccfe12e1a337cf95297cf.jpg)**2\. Filter out the junk:** We want to look at the important cards. Set aside all the cards that seem like junk, and even the cards that are merely mediocre. Don't worry, nothing's final, we'll come back to these later, but for now we want to focus on the good stuff.
+![Sift](https://i.ormos.uk/ef/b7/efb7b748d9c194f80113fd920942961ea86240e781fccfe12e1a337cf95297cf.jpg)
+
+**2\. Filter out the junk:** We want to look at the important cards. Set aside all the cards that seem like junk, and even the cards that are merely mediocre. Don't worry, nothing's final, we'll come back to these later, but for now we want to focus on the good stuff.
 
 This process doesn't need to be precise, of course; it's just to help *you* think.
 
@@ -152,7 +154,9 @@ This is a good opportunity to flip through your rejects pile and see if a card t
 
 Considering what might not have worked in the first pool, brainstorm other possible color configurations that might work better.
 
-![Battle_of_Wits](https://i.ormos.uk/85/64/856459ea1582c4dc269c2f9668dcf08b257edf577d9472d3e3d22ba2de117690.jpg)**7\. Second pass at decks:** Try everything out – or as much as you have time for. Remember to add and take out color-combination specific cards along the way (white's defenders go well with blue flyers, but probably wouldn't be worth playing with green fatties).
+![Battle_of_Wits](https://i.ormos.uk/85/64/856459ea1582c4dc269c2f9668dcf08b257edf577d9472d3e3d22ba2de117690.jpg)
+
+**7\. Second pass at decks:** Try everything out – or as much as you have time for. Remember to add and take out color-combination specific cards along the way (white's defenders go well with blue flyers, but probably wouldn't be worth playing with green fatties).
 
 With each build, try to figure out its strengths and weaknesses, and ask yourself if it's an improvement. Eventually, though it is often difficult, you will settle on the color combination that you think makes the best use of your cards.
 

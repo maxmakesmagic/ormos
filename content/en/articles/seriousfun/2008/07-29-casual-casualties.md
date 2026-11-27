@@ -83,7 +83,9 @@ I got a lot of great responses both in the forums and in email, so I decided to 
 
 ### EDH Is Not As... Forgiving As I Am
 
-[![Giant_Shark](https://i.ormos.uk/51/b9/51b9d419e70fd79e84a3c2bc1168363ab0e348dc48a71d73bb2556a880a8fc5a.jpg)](https://web.archive.org/web/20080729000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Giant%2BShark)Several readers made the excellent point that I didn’t exactly pick the friendliest format for Laura to play. EDH is to casual as shark tanks are to swimming; it’s a thrill if you’re properly equipped, but you shouldn’t just shove someone in without warning.
+[![Giant_Shark](https://i.ormos.uk/51/b9/51b9d419e70fd79e84a3c2bc1168363ab0e348dc48a71d73bb2556a880a8fc5a.jpg)](https://web.archive.org/web/20080729000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Giant%2BShark)
+
+Several readers made the excellent point that I didn’t exactly pick the friendliest format for Laura to play. EDH is to casual as shark tanks are to swimming; it’s a thrill if you’re properly equipped, but you shouldn’t just shove someone in without warning.
 
 In the forum thread, **mega-d** had this to say:
 

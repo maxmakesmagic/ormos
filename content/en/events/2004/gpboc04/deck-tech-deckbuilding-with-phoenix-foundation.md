@@ -1149,7 +1149,9 @@ render_recovery:
   - Whispersilk Cloak
   occurrences: 1
 ---
-![](https://i.ormos.uk/82/d0/82d03de31847fffbb7729ed16a8cdbb6f4713738562995dca7ba7bdc0b7887a8.jpg)Unsurprisingly the Phoenix Foundation are 4-0. For the second sealed deck I went over to see what card pool they'd get to play with for the second half of day one. As I got to the table most of the major decisions appeared to be made. Green was virtually nonexistent while blue and white could almost stand on their own. As black had both Reiver Demon and Consume Spirit then that couldn't really be split leaving the red.
+![](https://i.ormos.uk/82/d0/82d03de31847fffbb7729ed16a8cdbb6f4713738562995dca7ba7bdc0b7887a8.jpg)
+
+Unsurprisingly the Phoenix Foundation are 4-0. For the second sealed deck I went over to see what card pool they'd get to play with for the second half of day one. As I got to the table most of the major decisions appeared to be made. Green was virtually nonexistent while blue and white could almost stand on their own. As black had both Reiver Demon and Consume Spirit then that couldn't really be split leaving the red.
 
 Blue leant itself straight to affinity with a Hoverguard and two Quicksilver Behemoth. In went all the cheap artefacts and that deck was set. The only really playable green cards were a Tel-Jihad Archers, Viridian Shaman and Predator's Strike, which all went into the blue deck.
 

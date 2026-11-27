@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/230.jpg)Grand Prix Porto became the first major tournament ever to see two brothers pitted against each other in the finals. Antoine (20) and Olivier (19) Ruel both made their way to the finals, and in spite of what they both expected, it was the older brother Antoine who could walk away with the title. "I will first give him a few days to make sure he isn't crying anymore. Then I'll tease him a little bit. But we have done something together here and it's incredible," Antoine says. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/230.jpg)
+
+Grand Prix Porto became the first major tournament ever to see two brothers pitted against each other in the finals. Antoine (20) and Olivier (19) Ruel both made their way to the finals, and in spite of what they both expected, it was the older brother Antoine who could walk away with the title. "I will first give him a few days to make sure he isn't crying anymore. Then I'll tease him a little bit. But we have done something together here and it's incredible," Antoine says. 
 
 The Ruel brothers started was introduced to the game by a friend about five years ago. "We were immediately enchanted by the universe of the game. And when we discovered tournaments one year later, our interest just grew even more," Olivier smiles. Since then, they've spend countless hours playtesting together, and while Olivier has had success alone, the have also done very well together as members of Team Black-Ops. Unfortunately, that has led to the two of them just being refered to as 'The Black-Ops.' "Now it will probably be 'the Ruels'. Perhaps one day we'll finally be called Olivier and Antoine," Antoine sighs. 
 

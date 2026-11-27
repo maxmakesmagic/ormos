@@ -103,7 +103,9 @@ render_recovery:
   - Tainted Wood
   occurrences: 96
 ---
-![](http://www.wizards.com/sideboard/images/gpbar02/a980.jpg)The last time I saw Lucio Moratinos he was battling Nicolas Labarre for a spot in Grand Prix Biarritz' final. The Spanish put up a very good fight with his friends egging him on. Despite that, Labarre's cool prevailed over Moratinos' gutsy determination. A few months later, at another Limited Grand Prix, Lucio is ready for another run. He came into the tournament with three byes and for once he didn't need to travel to the event since he lives in Barcelona. 
+![](http://www.wizards.com/sideboard/images/gpbar02/a980.jpg)
+
+The last time I saw Lucio Moratinos he was battling Nicolas Labarre for a spot in Grand Prix Biarritz' final. The Spanish put up a very good fight with his friends egging him on. Despite that, Labarre's cool prevailed over Moratinos' gutsy determination. A few months later, at another Limited Grand Prix, Lucio is ready for another run. He came into the tournament with three byes and for once he didn't need to travel to the event since he lives in Barcelona. 
 
 All of this made him a prime target for our deck construction coverage. After an extremely thorough double checking of the pre-registered cards (something we should all do to avoid problems) Lucio came to the quick conclusion he had a difficult problem to solve: he had too many good cards.
 

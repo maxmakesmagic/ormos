@@ -85,7 +85,9 @@ render_recovery:
   - Nantuko Monastery
   occurrences: 56
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a788.jpg)Daniel Bryan qualified through a JSS Challenge in Tacoma, WA. He's been playing Magic for about six years. "I just started playing tournament Magic this year though." Daniel decided he would play Black-Green Cemetery for this event.
+![](http://www.wizards.com/sideboard/images/natus03/a788.jpg)
+
+Daniel Bryan qualified through a JSS Challenge in Tacoma, WA. He's been playing Magic for about six years. "I just started playing tournament Magic this year though." Daniel decided he would play Black-Green Cemetery for this event.
 
 Mitch Towner is a name people may recognize from the Mountain Regionals. He's been playing competitive Magic since Invasion, although he started playing casually when Stronghold was out. He qualified at a JSS Challenge Qualifier in Salt Lake City, with Reanimator. Unfortunately, most people recognize Mitch's name because he was disqualified from the Mountain Regional Championships at the beginning of the Top 8. Mitch had played Psychatog at the Mountain Regionals, but switched to Red-White-Green Astral Slide for this event.
 
@@ -109,7 +111,9 @@ Daniel even commented on the speed of the game during the shuffling process. "Th
 
 Mitch went about his sideboarding business quickly. Out came a Krosan Tusker and a single copy of Renewed Faith. In their places he added two Auramancers to the deck.
 
-![](http://www.wizards.com/sideboard/images/natus03/a790.jpg)A little more deliberately Daniel made his sideboard decisions. Two copies of Bane of the Living, two copies of Smother and a single Chainer's Edict were all removed from his library. In their places he added two copies of Braids, Cabal Minion and three copies of Naturalize.
+![](http://www.wizards.com/sideboard/images/natus03/a790.jpg)
+
+A little more deliberately Daniel made his sideboard decisions. Two copies of Bane of the Living, two copies of Smother and a single Chainer's Edict were all removed from his library. In their places he added two copies of Braids, Cabal Minion and three copies of Naturalize.
 
 The first comments of the game came from Daniel. All he can muster up is a very lethargic "Ok," in response to a turn two Lightning Rift from Mitch. Living Wish for Gigapede did help the cause for Daniel two turns later though. The Gigapede joined the Oversold Cemetery that he played, getting him what appeared to be some time to develop his board a little.
 
@@ -121,7 +125,9 @@ Daniel scooped his Gigapede and his Birds of Paradise and moved them into the gr
 
 The match appeared to quickly come back to Mitch after this, as he played a second Astral Slide, following it up quickly with the third. Daniel kept playing creatures, two Baloths, Gigapede and Phantom Centaur all were on the table, but they just kept getting removed from the game by the Astral Slide, all except that Gigapede, he just can't be targeted.
 
-![](http://www.wizards.com/sideboard/images/natus03/a789.jpg)The three Astral Slide and two copies of Lightning Rift rout was on. Mitch had weighted the table so firmly to his own side by this point that there was little use in continuing. A Teroh's Faithful meant that he would remain alive into perpetuity. The Nantuko Monastery was keeping the Baloths at bay. The game was locked up, everything except the signing of the slips had been completed.
+![](http://www.wizards.com/sideboard/images/natus03/a789.jpg)
+
+The three Astral Slide and two copies of Lightning Rift rout was on. Mitch had weighted the table so firmly to his own side by this point that there was little use in continuing. A Teroh's Faithful meant that he would remain alive into perpetuity. The Nantuko Monastery was keeping the Baloths at bay. The game was locked up, everything except the signing of the slips had been completed.
 
 Daniel swung with his two Baloths and his Centaur. The Baloth ran into a Monastery, gaining four life for Daniel when first strike damage went on the stack. The Monastery of course lived right through all of this.
 

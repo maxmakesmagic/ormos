@@ -44,7 +44,9 @@ archive_source:
   sha256: 8413752eaa63969d13806727177ff30af26a206ae4b16e8fda6989eb7bd8429c
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/967.jpg)Two rounds away from the end of the day, two Spanish players crossed paths at the feature match table. These players knew each other very well and as soon as they sat down the trash talk began to follow thick and fast. The supersonic friendly banter was hard to keep up for most foreigners as all passing judges added to the incredible noise level. At some point turned into constant pleads to the reporter to "smooth down" the description of any possible mistakes. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/967.jpg)
+
+Two rounds away from the end of the day, two Spanish players crossed paths at the feature match table. These players knew each other very well and as soon as they sat down the trash talk began to follow thick and fast. The supersonic friendly banter was hard to keep up for most foreigners as all passing judges added to the incredible noise level. At some point turned into constant pleads to the reporter to "smooth down" the description of any possible mistakes. 
 
 **Game 1** 
 
@@ -64,7 +66,9 @@ Paco Llopis then added a Phyrexian Reaper to the Zombie and for a second it look
 
 Alejandro used a Rushing River to buy some extra time and dropped a Visionary to hold the fort. Paco tried to replay the Zombie after dropping a Barbarian. Alejandro was waiting for that and he used a Magma Burst to the Barbarian, and Paco, to bounce the Zombie right back. Then the Visionary got zapped and we where back to a clean table. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/965.jpg)Paco dropped a Nomadic Elf but Alejandro bounced it back to the top of the library with a Hunting Drake. Instead of replaying the Elf, Llopis played a kicked Duskwalker. That looked like the ticket to avoid the Power Armor until Alejandro found a Vodalian Zombie to block. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/965.jpg)
+
+Paco dropped a Nomadic Elf but Alejandro bounced it back to the top of the library with a Hunting Drake. Instead of replaying the Elf, Llopis played a kicked Duskwalker. That looked like the ticket to avoid the Power Armor until Alejandro found a Vodalian Zombie to block. 
 
 Llopis was again in trouble as the latent threat of the Armor would sooner or later get him into big trouble. He dropped a Root Grevil but little did he know that the end was near: Alejandro used a Magma Burst on Paco and the Duskwalker and facing the finishing blow of the Armored flying Drake Paco quickly conceded. 
 
@@ -82,7 +86,9 @@ Paco then forced the huge crowd watching the game to lean forward and read a car
 
 In the end the Wurm changed colour and Paco had to bounce the expensive Giant. The Visionary got a boost from the Armor and blocked the Zombie but then the game took a strange turn. It seemed the life totals on both score pads were different and no one could understand why. Since he felt the game was almost lost Alejandro quickly adjusted his pad to the lowest value of his life totals. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/966.jpg)After the Giant rejoined the table along with a Nomadic Elf, Alejandro conceded in disgust and started flipping cards to find his much sought-after black mana sources... fifteen cards down. Which led to another round of trash talking and an important revelation: it appears some of the trash talk was based on a alleged McDonald's meal debt that Paco still has to pay Alejandro. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/966.jpg)
+
+After the Giant rejoined the table along with a Nomadic Elf, Alejandro conceded in disgust and started flipping cards to find his much sought-after black mana sources... fifteen cards down. Which led to another round of trash talking and an important revelation: it appears some of the trash talk was based on a alleged McDonald's meal debt that Paco still has to pay Alejandro. 
 
 This was a highly chaotic and extremely funny round to follow. It featured two great players who kept telling me what to write, which didn't make my life any easier but a lot funnier. 
 

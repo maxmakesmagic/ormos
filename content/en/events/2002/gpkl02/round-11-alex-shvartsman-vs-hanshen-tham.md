@@ -84,7 +84,9 @@ render_recovery:
   - Filthy Cur
   occurrences: 32
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a953.jpg)Twelve-year-old Hanshen Tham has been taking names this weekend. After swashbuckling the Sealed Deck portion of the event, he's managed to hold his own at the draft tables. Unfortunately, he needs to run his table in order to reach the lofty goal of Top 8. In his way, and playing the role of dreamcrusher, is pro regular Alex Shvartsman. Experience is sure to be a factor.
+![](http://www.wizards.com/sideboard/images/gpkl02/a953.jpg)
+
+Twelve-year-old Hanshen Tham has been taking names this weekend. After swashbuckling the Sealed Deck portion of the event, he's managed to hold his own at the draft tables. Unfortunately, he needs to run his table in order to reach the lofty goal of Top 8. In his way, and playing the role of dreamcrusher, is pro regular Alex Shvartsman. Experience is sure to be a factor.
 
 The only factor in the first game was Shvartsman's ability to spill guys onto the field, and Tham's relative inability. His Gloomdrifter got ousted by Shelter, and Zombie Assassin ate Cephalid Broker, but the damage had been done. He had nothing on the table, against Shvartsman's Militant Monk, Hallowed Healer, Pilgrim of Virtue and Millikin.
 
@@ -94,7 +96,9 @@ Not for long. Shvartsman hit Aven Windreader and Deep Analysis. Tham had only Th
 
 Shvartsman 1 - Tham 0
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a951.jpg)Tham kept a questionable hand of three islands and black spells for the second game, but drew out of it expertly. He still had just Treetop Sentinel against Cephalid Sage, Pilgrim of Virtue and Hallowed Healer. He tried Crippling Fatigue on the Healer, only to meet Shelter.
+![](http://www.wizards.com/sideboard/images/gpkl02/a951.jpg)
+
+Tham kept a questionable hand of three islands and black spells for the second game, but drew out of it expertly. He still had just Treetop Sentinel against Cephalid Sage, Pilgrim of Virtue and Hallowed Healer. He tried Crippling Fatigue on the Healer, only to meet Shelter.
 
 Shvartsman's Sage continued to send. Tham blocked with his Sentinel. A Psionic Gift on the Pilgrim finished it off. Churning Eddy ran damage control, but Deep Analysis kept Shvartsman fuelled up. Tham tried a Finkel. Again the Sage hit the Red Zone, and again Tham bit. This time Patriarch's Desire finished his monster.
 

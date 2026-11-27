@@ -96,7 +96,9 @@ For more rules questions and answers watch for the *Guildpact* FAQ. You also mig
 
 ### Smack, Rinse, Repeat
 
-![](https://i.ormos.uk/1b/a9/1ba90ef44e04ca54c33719783131fb589b5f81d1a7f520236caa6d6b38a327ff.jpg)Before looking at Mimeofacture specifically, I'd like to talk about replicate as a broad strategy. Replicate is the Izzet (![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/red.gif)) guild "keyword", which means you'll see a bunch of cards with this ability in *Guildpact*. (You may also see a bit of really, um, *illuminating* replication technology.)
+![](https://i.ormos.uk/1b/a9/1ba90ef44e04ca54c33719783131fb589b5f81d1a7f520236caa6d6b38a327ff.jpg)
+
+Before looking at Mimeofacture specifically, I'd like to talk about replicate as a broad strategy. Replicate is the Izzet (![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/red.gif)) guild "keyword", which means you'll see a bunch of cards with this ability in *Guildpact*. (You may also see a bit of really, um, *illuminating* replication technology.)
 
 I believe most readers will agree with me immediately. *The ![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/red.gif) guild done good. Replicate is amazing in multiplayer*. Wherever and whenever you get the chance, you should experiment with replicate in your group games. What does this mean?
 

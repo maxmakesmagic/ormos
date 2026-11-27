@@ -741,7 +741,9 @@ Below are two decks you might put together. They're constructed entirely of *Ten
 
 Learning is a dynamic combination of repetition and variation. Each game you should repeat the basics—seven cards in your opening hand, untap upkeep draw, one land per turn. But as the games go on, add layers of new knowledge on top of the more basic lore your apprentice has already grasped. And use flavor as a tool to help reinforce the rules.
 
-![Time_Spiral](https://i.ormos.uk/8a/f8/8af8d650e18fcc08dfbacf7f9d4a96512b3dbabc57e0169e5f3d8acc306125bc.jpg)Start playing with both players' hands face up. Focus on identifying lands vs. nonlands, rather than on the types of spells available. Conjure the scene of two dueling wizards amassing resources across the battlefield, and how each has an arsenal of lands and spells he'll use to take down the other. Talk about the power of lands to provide mana, and the relationship of mana costs to the amount of mana his lands can generate. Talk about the gradual build-up of more and more powerful spells as the game goes on, culminating in a winner.
+![Time_Spiral](https://i.ormos.uk/8a/f8/8af8d650e18fcc08dfbacf7f9d4a96512b3dbabc57e0169e5f3d8acc306125bc.jpg)
+
+Start playing with both players' hands face up. Focus on identifying lands vs. nonlands, rather than on the types of spells available. Conjure the scene of two dueling wizards amassing resources across the battlefield, and how each has an arsenal of lands and spells he'll use to take down the other. Talk about the power of lands to provide mana, and the relationship of mana costs to the amount of mana his lands can generate. Talk about the gradual build-up of more and more powerful spells as the game goes on, culminating in a winner.
 
 Add new layers of complexity as your trainee becomes ready for them. Talk about creatures vs. noncreature spells, how creatures stick around to fight for you while instants and sorceries are one-and-done.
 

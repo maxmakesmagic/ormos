@@ -124,7 +124,9 @@ The next step in Kenji's career was his fateful appearance at [Pro Tour–Chicag
 
 Kenji's skills did not manifest themselves fully until the 2005 season. After ending the 2004 season on a high note – the Japanese National team [finished in third place at Worlds](/en/events/2004/worlds04/nuijten-nassif-dominate-worlds) – it was onward and upward for the budding superstar. He finally broke through into a [Top 8 at Grand Prix–Osaka](/en/events/2005/gposaka05/p-s-2-repeats-in-osaka) and has never looked back. Since crossing the Top 8 threshold Kenji has posted eight Grand Prix Top 8s, including two wins. 
 
-![](https://i.ormos.uk/eb/68/eb68d3339a7bff5256f769114924ebd7b2b01f66eb8ccd2c09bbe7a68389d6e0.jpg)In March of 2005 he went to [Pro Tour–Atlanta](/en/events/2005/ptatl05/nova-burns-brightest-in-atlanta) with his Osaka teammates and burst through into the Top 8 of that event. He has gone on to rack up five Pro Tour Top 8s in an extremely short period of time – right around 22 months – and is the most dominant and complete player on the Pro Tour. Take a look at his individual winning percentages since the start of 2005:
+![](https://i.ormos.uk/eb/68/eb68d3339a7bff5256f769114924ebd7b2b01f66eb8ccd2c09bbe7a68389d6e0.jpg)
+
+In March of 2005 he went to [Pro Tour–Atlanta](/en/events/2005/ptatl05/nova-burns-brightest-in-atlanta) with his Osaka teammates and burst through into the Top 8 of that event. He has gone on to rack up five Pro Tour Top 8s in an extremely short period of time – right around 22 months – and is the most dominant and complete player on the Pro Tour. Take a look at his individual winning percentages since the start of 2005:
 
   
  **Constructed**: 61.7%  

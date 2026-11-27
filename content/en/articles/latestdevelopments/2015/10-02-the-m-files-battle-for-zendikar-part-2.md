@@ -71,7 +71,9 @@ But first, a refresher on our list of characters:
 
 ![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_markrosewater.jpg)**MR:** Mark Rosewater, the set's lead designer
 
-![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)**SPS:** That's a-me! Senior *Magic* developer
+![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)
+
+**SPS:** That's a-me! Senior *Magic* developer
 
 ![](http://media.wizards.com/legacy/magic/images/mtgcom/authorpics/authorpic_monsjohnson.jpg)**MJJ:** Mons Johnson, *Duel Masters* developer and *Magic* playtester
 

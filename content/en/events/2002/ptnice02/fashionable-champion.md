@@ -53,7 +53,9 @@ archive_source:
   sha256: dd279c09bdb7f776940e3a48e171147ac1455f859fee9f72993f27ffca416f74
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a654.jpg)When Eivind Nitter of Norway defeated Bram Snepvangers to become the 2002 Pro Tour Nice Champion, he was probably wearing the most expensive outfit ever worn in a Pro Tour final. Nitter had shelled out 600 dollars for his Dolce and Gabbana Indian style pants and shirt, making him the Pro Tour's most fashionable champion. "Now I'm going to expand my clothes budget," the 23-year-old player grins after winning 30 000 dollars.
+![](http://www.wizards.com/sideboard/images/ptnice02/a654.jpg)
+
+When Eivind Nitter of Norway defeated Bram Snepvangers to become the 2002 Pro Tour Nice Champion, he was probably wearing the most expensive outfit ever worn in a Pro Tour final. Nitter had shelled out 600 dollars for his Dolce and Gabbana Indian style pants and shirt, making him the Pro Tour's most fashionable champion. "Now I'm going to expand my clothes budget," the 23-year-old player grins after winning 30 000 dollars.
 
 Eivind Nitter started his Magic career as an obnoxious punk from Dale, who had to travel for hours to get to the nearest city and play tournaments. He has come a long way since then. From being a Norwegian rebel who had no problem showing his middle finger to the photographer, he has developed into a player that has something that is quite rare in the Magic environment, he has his own distinct style. The change started when he moved to Oslo to study, where he got in touch with the best Norwegian players. Gaming with them took him to another level, which culminated in him becoming the 2001 European Champion.
 

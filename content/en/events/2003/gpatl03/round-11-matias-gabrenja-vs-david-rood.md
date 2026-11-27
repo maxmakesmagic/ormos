@@ -84,7 +84,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpatl03/a916.jpg)Both players decided to keep their hands. "You can tell me all the mistakes I make after the match," Rood quipped, as he played a Cabal Therapy and named Rotlung Reanimator. He missed completely, as Gabrenja revealed a Plaguelord and a Graveborn Muse, with a full complement of swamps. Rood's next play was a Rotlung Reanimator of his own, which Gabrenja allowed.
+![](http://www.wizards.com/sideboard/images/gpatl03/a916.jpg)
+
+Both players decided to keep their hands. "You can tell me all the mistakes I make after the match," Rood quipped, as he played a Cabal Therapy and named Rotlung Reanimator. He missed completely, as Gabrenja revealed a Plaguelord and a Graveborn Muse, with a full complement of swamps. Rood's next play was a Rotlung Reanimator of his own, which Gabrenja allowed.
 
 Gabrenja played Cabal Therapy and named Graveborn Muse, ripping one out of Rood's hand. Rood knocked on his deck before he drew, then sent the Reanimator into the red zone, taking Gabrenja to 18. He played a Cabal Archon, then sacrificed it to flash back Cabal Therapy, naming Graveborn Muse this time. A Zombie token that looked suspiciously like a Japanese anime icon subsequently hit play.
 
@@ -100,7 +102,9 @@ Rood sideboarded in two Chainer's Edicts, clearly worried about Gabrenja's creat
 
 Gabrenja led with a swamp, but no first-turn play. Rood countered with a swamp of his own and a Cabal Therapy, naming Rotlung Reanimator. Gabrenja's hand revealed only one other land, and a host of spells – Plaguelord, Shambling Swarm, Therapy, Graveborn Muse, and Smother. Gabrenja played a second land and chose to use the Therapy he'd been holding, naming Rotlung Reanimator.
 
-![](https://i.ormos.uk/e4/a1/e4a104d40cc50573d8ba8ff4bc078c76d169a4ab885390bdae678802c0259e2a.jpg)Rood was hiding nothing, and laid his hand out. It contained several swamps, two Smothers, an Unholy Grotto, and a Chainer's Edict, all invaluable in this match. Gabrenja played another land, his relief at having drawn one almost tangible at this point. Rood added a swamp of his own and passed the turn back.
+![](https://i.ormos.uk/e4/a1/e4a104d40cc50573d8ba8ff4bc078c76d169a4ab885390bdae678802c0259e2a.jpg)
+
+Rood was hiding nothing, and laid his hand out. It contained several swamps, two Smothers, an Unholy Grotto, and a Chainer's Edict, all invaluable in this match. Gabrenja played another land, his relief at having drawn one almost tangible at this point. Rood added a swamp of his own and passed the turn back.
 
 Gabrenja played another swamp, making two he'd drawn off the top now. He tapped them all to play a Shambling Swarm, which Rood quickly Edicted away. Gabrenja played a Graveborn Muse next, and Rood had another Edict. He followed the Edict up with a Cabal Archon, and passed the turn.
 
@@ -114,7 +118,9 @@ Yes, folks, it's been positively a-Muse-ing here in Atlanta today.
 
 Gabrenja next played a Rotlung Reanimator, which Rood promptly Smothered. Unfazed, Gabrenja played a Nantuko Shade. Rood shuffled his cards back and forth on his turn, then attacked with the Muse, which Gabrenja chose not to block. 
 
-![](http://www.wizards.com/sideboard/images/gpatl03/a917.jpg)Rood was left with two cards in his hand, which Gabrenja Blackmailed away. Rood Smothered the Shade, but Gabrenja had another one right away. Rood flashed back Chainer's Edict to kill Gabrenja's Zombie token (an unfortunate card from the Ophidian card game), and passed the turn unhappily. 
+![](http://www.wizards.com/sideboard/images/gpatl03/a917.jpg)
+
+Rood was left with two cards in his hand, which Gabrenja Blackmailed away. Rood Smothered the Shade, but Gabrenja had another one right away. Rood flashed back Chainer's Edict to kill Gabrenja's Zombie token (an unfortunate card from the Ophidian card game), and passed the turn unhappily. 
 
 Gabrenja attacked with his Shade on his turn, bringing Rood to eight. On his turn, Rood played a Blackmail to rip a card out of Gabrenja's hand, then flashed back Chainer's Edict to kill the Shade. Gabrenja then played a Withered Wretch and removed several cards from Rood's graveyard. 
 

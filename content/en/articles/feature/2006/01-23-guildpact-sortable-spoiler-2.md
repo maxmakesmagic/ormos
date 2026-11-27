@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![Guildpact](https://i.ormos.uk/d2/28/d228ff901991420abcf80345e9b39d5bb556ba411f99603da946590af63c1c07.jpg)As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Guildpact*. Enjoy! 
+![Guildpact](https://i.ormos.uk/d2/28/d228ff901991420abcf80345e9b39d5bb556ba411f99603da946590af63c1c07.jpg)
+
+As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Guildpact*. Enjoy! 
 
   
 

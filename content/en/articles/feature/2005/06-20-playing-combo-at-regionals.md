@@ -817,7 +817,9 @@ render_recovery:
 ---
 * * *
 
-![The Duelist Sideboard Magazine - July 1997](https://i.ormos.uk/74/29/7429c219e9b595e19d05ff4a968e1eeb1abdcebd3d23f11b4c95e41794143f9f.jpg)I have always been a combo lover. My first sight of a real combo engine was PT Paris back in 1997, when Mike Long won the tournament with ProspBloom. Since then, I have been trying everything in tournament play, from Turbozvi to Mind over Matter to Tight Sight, to finally Ironworks which gave me my first big PT finish. 
+![The Duelist Sideboard Magazine - July 1997](https://i.ormos.uk/74/29/7429c219e9b595e19d05ff4a968e1eeb1abdcebd3d23f11b4c95e41794143f9f.jpg)
+
+I have always been a combo lover. My first sight of a real combo engine was PT Paris back in 1997, when Mike Long won the tournament with ProspBloom. Since then, I have been trying everything in tournament play, from Turbozvi to Mind over Matter to Tight Sight, to finally Ironworks which gave me my first big PT finish. 
 
 In this article, I will present you with several decklists of potentially exciting combo decks for you to try at [Regionals](https://web.archive.org/web/20070429134350/http://www.wizards.com/default.asp?x=events/magic/regionals). Before I do that, I'll present you with a few general guidelines about why it's a good thing to base your deck around a combo, especially in the current environment. 
 
@@ -827,7 +829,9 @@ Below are the generally accepted qualities of combo decks. Before you go into Re
 
 Some might say that since combo decks often require tricky plays and a lot of calculation, then they are complicated to play. I strongly disagree with that opinion. My reasoning is that the real complexity of **Magic** comes from the interaction between both players and their cards over a number of turns. When players battle for resources and constantly switch between offense and defense, the situations that come up are often difficult to assess with full clarity. 
 
-![Concentrate](https://i.ormos.uk/12/28/12287c2a0b450040c7bd167cfe57023b4dbfded2176470126215726b2f559afd.jpg)However, when you're playing a combo deck, you are often ignoring what your opponent is trying to do and concentrating on your own combo. If you can pull it off, you win. It's never quite that simple, of course, as your opponent will try to prevent you from doing just that, but the interactions are limited to what your opponent is doing to you. Generally speaking, you are not doing much to him or his cards until you eventually gather your combo pieces and go for the kill.
+![Concentrate](https://i.ormos.uk/12/28/12287c2a0b450040c7bd167cfe57023b4dbfded2176470126215726b2f559afd.jpg)
+
+However, when you're playing a combo deck, you are often ignoring what your opponent is trying to do and concentrating on your own combo. If you can pull it off, you win. It's never quite that simple, of course, as your opponent will try to prevent you from doing just that, but the interactions are limited to what your opponent is doing to you. Generally speaking, you are not doing much to him or his cards until you eventually gather your combo pieces and go for the kill.
 
 In many ways, playing combo is like playing against the clock, without an opponent. It doesn't sound too hard, does it? Meanwhile, other players who focus on control or aggro decks are engaged in really tough fights for dominance of the board. Your game is simpler: they're really playing chess, while you're playing puzzle. You're just trying to put the pieces together.
 

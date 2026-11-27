@@ -1039,7 +1039,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptsea04/fdraft1.jpg)The final draft of the Pro Tour had all of the excitement a final deserves. The Japanese team of www.shop-fireball.com2 (Ishida, Ikeda, Okamoto) won the flip and chose to open the first pack instead of letting the Von Dutch (Cornelissen, Wiegersma, Remie) go first. Had they seen the packs in advance, they may have decided otherwise.
+![](http://www.wizards.com/sideboard/images/ptsea04/fdraft1.jpg)
+
+The final draft of the Pro Tour had all of the excitement a final deserves. The Japanese team of www.shop-fireball.com2 (Ishida, Ikeda, Okamoto) won the flip and chose to open the first pack instead of letting the Von Dutch (Cornelissen, Wiegersma, Remie) go first. Had they seen the packs in advance, they may have decided otherwise.
 
 Unlike last draft, this time the Dutch tried to figure out how to place the cards before the pack arrived to them. However, once the pack did arrive they chose the same color combinations as in the semifinals. Running the same strategy two drafts in a row can be dangerous, especially if www.shop-fireball.com2 were watching what strategy the Dutch used to beat the Canadians.
 

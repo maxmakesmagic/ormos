@@ -206,7 +206,9 @@ C : 野瀬 vs. 堂山
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a949.jpg)　後手の野瀬は 2 ターン目に《墓所を歩くもの/Crypt Creeper》、《巣立つインプ/Fledgling Imp》と展開し、堂山の出すクリーチャーを《ひどい憔悴/Crippling Fatigue》、で除去し、一方的に攻める展開。
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a949.jpg)
+
+　後手の野瀬は 2 ターン目に《墓所を歩くもの/Crypt Creeper》、《巣立つインプ/Fledgling Imp》と展開し、堂山の出すクリーチャーを《ひどい憔悴/Crippling Fatigue》、で除去し、一方的に攻める展開。
 
 　堂山が出来る事と言えば、更に野瀬が展開した《囁く影/Whispering Shade》に《やつれ/Waste Away》を放つ事のみ。  
  　何も出来ない堂山は、負ける直前に《象の待ち伏せ/》を引き、《墓所を歩くもの》を何とかブロックすることが出来るが、《巣立つインプ》がダメージを与え終わった後に、野瀬は堂山の本体へ《炎の稲妻/Firebolt》を叩き込むと、野瀬はものの 10 分で勝負を決した。

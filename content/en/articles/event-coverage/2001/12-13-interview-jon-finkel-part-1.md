@@ -70,7 +70,9 @@ render_recovery:
 ---
 The birth of competitive **Magic** was marked by name players such as Mark Justice and Olle Rade, who first defined what it meant to be a "**Magic** celebrity". Later, Jon Finkel took that role, and defined it further as he established himself as the best **Magic** player on the planet, winning a Pro Tour, Nationals, Worlds, the Invitational, and finishing in contention many, many times. Recent years have seen **Magic** become less of a priority to Jon, and Kai Budde has seemingly emerged as the next major superstar.
 
-![](http://www.wizards.com/sideboard/images/MI00/838.jpg)So how does Finkel feel about his title as "Best **Magic** Player in the World" becoming tarnished? Does he even care? Professional **Magic** sees more players "turn pro" and dedicate their lives to the game every year, yet Jon has decided to stay in school. Why did he make this decision when so many other talented players have? I recently met up with Jon at Neutral Ground in New York City to discuss these topics, along with others such as how much he playtests for tournaments, why he doesn't usually play the Grand Prix circuit, why the money is more important than the glory, and the making of Shadowmage Infiltrator. 
+![](http://www.wizards.com/sideboard/images/MI00/838.jpg)
+
+So how does Finkel feel about his title as "Best **Magic** Player in the World" becoming tarnished? Does he even care? Professional **Magic** sees more players "turn pro" and dedicate their lives to the game every year, yet Jon has decided to stay in school. Why did he make this decision when so many other talented players have? I recently met up with Jon at Neutral Ground in New York City to discuss these topics, along with others such as how much he playtests for tournaments, why he doesn't usually play the Grand Prix circuit, why the money is more important than the glory, and the making of Shadowmage Infiltrator. 
 
 **Sideboard:** How old are you, and how far along are you in college?  
 **Jon:** 23 years old, and in my final year of college at Rutgers University.

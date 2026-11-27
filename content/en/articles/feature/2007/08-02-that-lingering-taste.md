@@ -85,7 +85,9 @@ archive_source:
   sha256: e6f80d528491b9115be72d6bb90736419521485a1f2a9135b58d3708caa4b2dc
 render_recovery: []
 ---
-![](https://i.ormos.uk/1c/2d/1c2d39245d18518f368db438151f7a4ff0923a77af767666e307e354288bdb16.jpg)Pepto-Bismol. Sharp cheddar. Garlic. They all leave that lingering taste in the mouth. Though they all have their proper uses, they are all worse off for their persistence in hanging around on the tongue.
+![](https://i.ormos.uk/1c/2d/1c2d39245d18518f368db438151f7a4ff0923a77af767666e307e354288bdb16.jpg)
+
+Pepto-Bismol. Sharp cheddar. Garlic. They all leave that lingering taste in the mouth. Though they all have their proper uses, they are all worse off for their persistence in hanging around on the tongue.
 
 **Magic** flavor, however, can have a lingering taste that is a good thing. In fact, Taste the Magic has some flavor that still hangs around even now, after two whole years of serving it up. That's right, folks, last week's article marked the 100th TTM. Whilst out for a long jog the other day I decided to look back on those 100 articles and see which ones seemed to pop out at me as either important or fun or both. I am happy to report that there was a good bunch of them that have "that lingering taste." 
 
@@ -105,7 +107,9 @@ I do think article #1 is a mildly funny read, though it was not meant to be so. 
 
 ### #2 [Snack Time With Vorthos](https://web.archive.org/web/20070802000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc2)
 
-![](https://i.ormos.uk/b2/87/b287a541199435ad5a910938ab519afe64b429520582ffa1134c7f99bf5e1848.jpg)I believe this to be one of the most important TtMs of all. It boasts the introduction of Vorthos, and forever made it easier for us to discuss the difference between **Magic** players and the different reasons why they are **Magic** fans. The article itself is not all that great, but it marks a proud moment for TTM and its faithful readers. 
+![](https://i.ormos.uk/b2/87/b287a541199435ad5a910938ab519afe64b429520582ffa1134c7f99bf5e1848.jpg)
+
+I believe this to be one of the most important TtMs of all. It boasts the introduction of Vorthos, and forever made it easier for us to discuss the difference between **Magic** players and the different reasons why they are **Magic** fans. The article itself is not all that great, but it marks a proud moment for TTM and its faithful readers. 
 
 It also introduced us to Okra-Twinkie-Tofu, Magic flavor Home Runs, and Sekki, Pronunciation's Guide—all recurring features in the subsequent 2 years of TTM.
 
@@ -131,7 +135,9 @@ I don't know why this is on the list...I don't even remember writing this articl
 
 ### #22 [RT-3000, The Future of Magic Art](https://web.archive.org/web/20070802000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc22)
 
-![](https://i.ormos.uk/72/90/7290ba3caa36fc975c33ada6bdb7c893cf8adc6dde34345f86e3ef99ad80aaff.jpg)This article is as pertinent today as it was the day I wrote it, if not even more so. It addresses the issue of digital art vs. traditional media. With the great host of **Magic** artists now using computers to work their wonders, this article helps explain how these artists are no cheating, cutting corners, or relying on the computer for their creativity. If you do not know how the computer programs Photoshop or Painter work, read this—it will help you appreciate the artistic wizardry of digital gurus like Todd Lockwood, Dan Scott, Justin Sweet, Aleksi Briclot, and many others.
+![](https://i.ormos.uk/72/90/7290ba3caa36fc975c33ada6bdb7c893cf8adc6dde34345f86e3ef99ad80aaff.jpg)
+
+This article is as pertinent today as it was the day I wrote it, if not even more so. It addresses the issue of digital art vs. traditional media. With the great host of **Magic** artists now using computers to work their wonders, this article helps explain how these artists are no cheating, cutting corners, or relying on the computer for their creativity. If you do not know how the computer programs Photoshop or Painter work, read this—it will help you appreciate the artistic wizardry of digital gurus like Todd Lockwood, Dan Scott, Justin Sweet, Aleksi Briclot, and many others.
 
 > *Nice article.*  
 > *The prejudices about digital art are very common, glad someone explained that the artist remains unchanged, whether he/she decides to use traditional media or not. –Blank\_*
@@ -146,7 +152,9 @@ There are no important magic issues discussed here, nor are there any historical
 
 ### #32 [Precious Gold](https://web.archive.org/web/20070802000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc32)
 
-![](https://i.ormos.uk/ef/33/ef338f3191e9aa5f24f641860c676ed49a39a2b9857de2b206c171b051d5efe0.jpg)This article, like Wake Up Call, does not include information of lasting importance to the greater fabric of **Magic** creative. Its subject and themes revolve around the Orzhov guild, just a small subset of **Magic** cards from a set a year or so old. But, it is a story that really resonated at the time, bringing in more email than any other TTM article. Aside from a few words I'd like to tweak, this story is one that I am still happy with and of which I am extremely proud. If you decide to go back and read any one of these articles I cite today, let it be this one.
+![](https://i.ormos.uk/ef/33/ef338f3191e9aa5f24f641860c676ed49a39a2b9857de2b206c171b051d5efe0.jpg)
+
+This article, like Wake Up Call, does not include information of lasting importance to the greater fabric of **Magic** creative. Its subject and themes revolve around the Orzhov guild, just a small subset of **Magic** cards from a set a year or so old. But, it is a story that really resonated at the time, bringing in more email than any other TTM article. Aside from a few words I'd like to tweak, this story is one that I am still happy with and of which I am extremely proud. If you decide to go back and read any one of these articles I cite today, let it be this one.
 
 > *One of the best articles on this site ever. No jokes.*  
 > *I totally agree. This one has pulled me into being a devout Orzh-er...Taste the Magic follower. :D*  

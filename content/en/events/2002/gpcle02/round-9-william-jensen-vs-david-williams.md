@@ -97,7 +97,9 @@ render_recovery:
   - Tombfire
   occurrences: 80
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a937.jpg)There's a lot of people rooting for William Jensen this weekend, more than usual. Jensen is playing a heavily-metagamed black-red mana-denial deck, aiming to punish a field dense with mono-black control. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a937.jpg)
+
+There's a lot of people rooting for William Jensen this weekend, more than usual. Jensen is playing a heavily-metagamed black-red mana-denial deck, aiming to punish a field dense with mono-black control. 
 
 He faces a pretty tough matchup in the resurgent Dave Williams and his version of the mono-black Pirates! deck that debuted at Grand Prix - London. Quick beatdown, Braids, Rancid Earth, Ichorid and Zombie Infestation are all trouble for Jensen's sorcery-based removal.
 
@@ -111,7 +113,9 @@ Jensen 1 - Williams 0
 
 "What was I thinking? I kept about the worst hand ever. That was like mulliganing to three." - Dave Williams
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a933.jpg)Williams curved out with a Cabal Therapy for Innocent Blood (seeing a hand of five land, Earth Rift and Diabolic Tutor), making sure the way was clear for his turn-two Millikin, turn-three Braids. Jensen was dismayed.
+![](http://www.wizards.com/sideboard/images/gpcle02/a933.jpg)
+
+Williams curved out with a Cabal Therapy for Innocent Blood (seeing a hand of five land, Earth Rift and Diabolic Tutor), making sure the way was clear for his turn-two Millikin, turn-three Braids. Jensen was dismayed.
 
 Pinned to two lands, he kept playing them out while Williams brought out Nantuko Shade to aid the beats. Burning Wish got Jensen Volcanic Spray, and he used it to axe the Millikin. Williams then tapped out for a second Shade. Jensen's eyebrows went up, but he just shrugged and wrecked Williams by flashing back the Spray.
 
@@ -123,7 +127,9 @@ Jensen 1 - Williams 1
 
 "I tried my best to give that one to you. I was doing stuff like that all day yesterday. I attacked into Moment's Peace, it was right there in the graveyard." - Dave Williams
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a935.jpg)Jensen was delighted to play first. Williams was first on the board with Millikin. Jensen Pacted into Burning Wish and kept Williams in check with Rancid Earth. Williams busted out another Millikin, and Jensen hammered with Innocent Blood and another Earth.
+![](http://www.wizards.com/sideboard/images/gpcle02/a935.jpg)
+
+Jensen was delighted to play first. Williams was first on the board with Millikin. Jensen Pacted into Burning Wish and kept Williams in check with Rancid Earth. Williams busted out another Millikin, and Jensen hammered with Innocent Blood and another Earth.
 
 Williams had plenty of action left. Cabal Therapy took care of the Burning Wish, and Crypt Creeper reused it, taking Skeletal Scrying and leaving Jensen with a Magnivore he coudln't cast. He pulled up Diabolic Tutor and cast it. Williams dropped Braids.
 

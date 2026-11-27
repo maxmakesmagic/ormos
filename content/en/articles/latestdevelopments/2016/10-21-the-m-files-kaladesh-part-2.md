@@ -77,7 +77,9 @@ If you'd like to have a face to put with each name, click below to review our ca
 
 ![](http://media.wizards.com/2015/images/daily/authorpic_shawnmain.jpg)**SM**—Shawn Main, design co-lead for *Kaladesh*
 
-![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)**SPS**—Sam Stoddard, developer. That's-a me!
+![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)
+
+**SPS**—Sam Stoddard, developer. That's-a me!
 
 ![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_davehumphreys.jpg)**DH**—Dave Humpherys, developer
 

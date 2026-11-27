@@ -50,7 +50,9 @@ Coming into Day Two, the Danish players and Texan players had quite a rivalry. S
 
 Adrian lost this coin flip too. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/831.jpg)Svend opened with a pair of Thornscape Apprentices, followed with a Llanowar Knight and a Benalish Heralds. To staunch the bleeding, Adrian played an Urborg Emissary without kicker. This didn't really slow the Dane down, though, and he just tapped the Emissary and served again. Adrian laid a Tsabo's Assassin, and used it to assassinate the Benalish Heralds. The Llanowar Knight wasn't afraid of the Assassin though, especially since it has Protection from Black. So Svend put a Strength of Unity on the Knight and brought all of his creatures into the red zone. Adrian tried to Soul Burn a Thornscape Apprentice to buy some time, but Svend was ready with an Orim's Cure. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/831.jpg)
+
+Svend opened with a pair of Thornscape Apprentices, followed with a Llanowar Knight and a Benalish Heralds. To staunch the bleeding, Adrian played an Urborg Emissary without kicker. This didn't really slow the Dane down, though, and he just tapped the Emissary and served again. Adrian laid a Tsabo's Assassin, and used it to assassinate the Benalish Heralds. The Llanowar Knight wasn't afraid of the Assassin though, especially since it has Protection from Black. So Svend put a Strength of Unity on the Knight and brought all of his creatures into the red zone. Adrian tried to Soul Burn a Thornscape Apprentice to buy some time, but Svend was ready with an Orim's Cure. 
 
 Game 1 to Geertsen. 
 

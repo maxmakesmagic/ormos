@@ -1960,7 +1960,9 @@ I required a moment's pause, lest mine eyes deceived me, but really, that was a 
 
 My pick:
 
-![](https://i.ormos.uk/2b/f6/2bf6504013d8004b8dd1faf582806cf688d77b1b01098dc3a6c6f297e781a382.jpg)On color, the only choices are Hunted Dragon and Lore Broker. Lore Broker is pretty weak, fitting well only in a decking strategy, which this deck is certainly not. Hunted Dragon's not bad *per se*, but its role is clearly that of a finisher. This draft is, at the moment, a control deck. That means we want an iron grip on the proceedings. The actual victory condition is almost incidental, be it Wee Dragonauts, Torch Drake, or Rakdos Ickspitters. Hunted Dragon does not let us maintain a firm hold on the game. Rather, it's like pouring hot butter all over the battlefield. A Hunted Dragon causes plenty of movement. 
+![](https://i.ormos.uk/2b/f6/2bf6504013d8004b8dd1faf582806cf688d77b1b01098dc3a6c6f297e781a382.jpg)
+
+On color, the only choices are Hunted Dragon and Lore Broker. Lore Broker is pretty weak, fitting well only in a decking strategy, which this deck is certainly not. Hunted Dragon's not bad *per se*, but its role is clearly that of a finisher. This draft is, at the moment, a control deck. That means we want an iron grip on the proceedings. The actual victory condition is almost incidental, be it Wee Dragonauts, Torch Drake, or Rakdos Ickspitters. Hunted Dragon does not let us maintain a firm hold on the game. Rather, it's like pouring hot butter all over the battlefield. A Hunted Dragon causes plenty of movement. 
 
 For the purposes of this pack, it's time to look at a third color. The Brainspoil and Groodion from the previous pack could indicate Black is open, and look, a Clinging Darkness to start down that path. As a cheap defensive card, Clinging Darkness even fits the themes. I still don't like it though; it's a weak card, especially with our other options. Absolver Thrull, their Graft creatures or Azorius First Wing all weaken Cling even further. It's the card to pick if we're dedicated to drafting R/B/U, but at this point, I can't imagine why we'd want to.
 

@@ -79,7 +79,9 @@ render_recovery:
   - Chainer's Edict
   occurrences: 33
 ---
-![](https://i.ormos.uk/7a/1b/7a1bb98f98136f332ac509a21fd21b66984a0ddbff4d732343fecf2c477c59d9.jpg)Il y a maintenant qu'un match qui sépare l'un de ces jeunes Ontariens du championnat. Josh joue un deck noir vert qui fait des ravages contre contrôle. Après un match difficile contre Guillaume Cardin et son deck bleu vert, Josh a gagné facilement contre Richard Hoaen, qui jouait Psychatog, pour se retrouver dans la finale.
+![](https://i.ormos.uk/7a/1b/7a1bb98f98136f332ac509a21fd21b66984a0ddbff4d732343fecf2c477c59d9.jpg)
+
+Il y a maintenant qu'un match qui sépare l'un de ces jeunes Ontariens du championnat. Josh joue un deck noir vert qui fait des ravages contre contrôle. Après un match difficile contre Guillaume Cardin et son deck bleu vert, Josh a gagné facilement contre Richard Hoaen, qui jouait Psychatog, pour se retrouver dans la finale.
 
 Nathon a défait Elijah Pollock et ensuite a eu toute la chance au monde contre Guillaume Daoust avec son mono-noir. L'avant match contient beaucoup de discussion amicale, Nathon et Josh racontent les matchs qu'ils ont joués contre auparavant.
 
@@ -87,7 +89,9 @@ Nathon a défait Elijah Pollock et ensuite a eu toute la chance au monde contre 
 
 Le Llanowar Elf de Josh est victime de Smother au deuxième tour. Rider pose donc un Oversold Cemetary et Nathon un Nantuko Shade. Josh joue Cabal Therapy, enlevant un Diabolic Tutor et le flashback avec un Wirewood Herald prenant Skeletal Scrying. Nathon a maintenant un Corrupt en main, avec trois lands seulement.
 
-![](https://i.ormos.uk/d9/cb/d9cb9034a4e8418c56778f319dd7829d59bd5110e724df489ec0028025562a5b.jpg)Josh joue le Herald qu'il a cherché au dernier tour et Living Wish pour Braids, Cabal Minion, problème sérieux pour Nathon. Josh joue une autre Therapy au prochain tour, suivi de Braids. Nathon concède peu après.
+![](https://i.ormos.uk/d9/cb/d9cb9034a4e8418c56778f319dd7829d59bd5110e724df489ec0028025562a5b.jpg)
+
+Josh joue le Herald qu'il a cherché au dernier tour et Living Wish pour Braids, Cabal Minion, problème sérieux pour Nathon. Josh joue une autre Therapy au prochain tour, suivi de Braids. Nathon concède peu après.
 
 ### Deuxième Partie
 
@@ -97,6 +101,8 @@ Braymore tente de résister le Braids joué au tour 3, mais quand il la tue, Jos
 
 ### Troisième Partie
 
-![](https://i.ormos.uk/0a/7f/0a7f970f2b8106500366b8ac30fd60c3564956af5a115f2d4117466a0de1dcb2.jpg)Nathon joue un Withered Wretch qui est tuer par Smother. Duress enlève Living Wish de la main de Josh mais il reste un Wretch, un Herald, un Ravenous Baloth et un Oversold, qu'il joue au tour suivant. Josh manque de jouer un troisième land et joue un Wirewood Herald, et ensuite un deuxième Cemetary. Josh trouve Cabal Therapy, et Nathon détruit son Elf en réponse.
+![](https://i.ormos.uk/0a/7f/0a7f970f2b8106500366b8ac30fd60c3564956af5a115f2d4117466a0de1dcb2.jpg)
+
+Nathon joue un Withered Wretch qui est tuer par Smother. Duress enlève Living Wish de la main de Josh mais il reste un Wretch, un Herald, un Ravenous Baloth et un Oversold, qu'il joue au tour suivant. Josh manque de jouer un troisième land et joue un Wirewood Herald, et ensuite un deuxième Cemetary. Josh trouve Cabal Therapy, et Nathon détruit son Elf en réponse.
 
 Josh nomme et trouve une Visara, laissant Nathon avec deux Mutilate et Haunting Echoes. Josh cherche et joue un Herald, lui permettant d'éliminer l'Echoes dangereux avec un Therapy flashback. Josh met un Herald, et quand il trouve son quatrième land, Braids. Mutilate et Chainer's Edict tentent de tuer la Cabal folle mais Oversold Cemetary la retourne constamment et Nathon doit accepter sa défaite. Josh Rider est le champion canadien, 3-0.

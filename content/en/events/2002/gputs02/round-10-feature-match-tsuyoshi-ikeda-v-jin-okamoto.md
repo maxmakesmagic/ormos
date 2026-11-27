@@ -79,7 +79,9 @@ render_recovery:
   - Krosan Tusker
   occurrences: 33
 ---
-![](https://www.wizards.com/sideboard/images/gputs02/959.jpg)Two giants of Japanese Magic faced each other early today, but it was inevitable. Tsuyoshi Fujita was also in their pod, so there was bound to be some fireworks. At Pro Tour - Boston they played together as www.shop-fireball.com and finished eighth, but today it was every man for himself. The vacant grin of Jun Nobushita, their third wheel, could be seen circling the Feature Match area. He didn't care who won, he just wanted to watch and laugh. 
+![](https://www.wizards.com/sideboard/images/gputs02/959.jpg)
+
+Two giants of Japanese Magic faced each other early today, but it was inevitable. Tsuyoshi Fujita was also in their pod, so there was bound to be some fireworks. At Pro Tour - Boston they played together as www.shop-fireball.com and finished eighth, but today it was every man for himself. The vacant grin of Jun Nobushita, their third wheel, could be seen circling the Feature Match area. He didn't care who won, he just wanted to watch and laugh. 
 
 Okamoto started things right, with a turn-two Wretched Anurid threatening tremendous pain on both sides. Ikeda came back with a face-down creature, and the state of Okamoto's draw was revealed when he was forced to play out a second Anurid and not a third land. Ikeda made another 2/2 and held his ground.
 
@@ -91,7 +93,9 @@ Ikeda forced the chump blocker and then tapped all his white for Aurification. O
 
 Okamoto 1 - Ikeda 0
 
-![](https://www.wizards.com/sideboard/images/gputs02/960.jpg)Game two started the same way. Okamoto led with Wretched Anurid, and Ikeda answered with a morph. This time, though, Okamoto had a third land, and after hitting for three he made a Nantuko Husk. Again, the Anurid forced it into a race. Ikeda swung back and made Dive Bomber. Okamoto hit back and made a morph. Ikeda returned the favor and made Sparksmith.
+![](https://www.wizards.com/sideboard/images/gputs02/960.jpg)
+
+Game two started the same way. Okamoto led with Wretched Anurid, and Ikeda answered with a morph. This time, though, Okamoto had a third land, and after hitting for three he made a Nantuko Husk. Again, the Anurid forced it into a race. Ikeda swung back and made Dive Bomber. Okamoto hit back and made a morph. Ikeda returned the favor and made Sparksmith.
 
 Okamoto wouldn't be slowed down. He Swatted the blocker and came through for seven more, leaving Ikeda at just five life. He thought hard at the end of turn, and eventually unmorphed his Gravel Slinger. His draw made him regret his decision, but he was still in a great way. The Slinger and Bomber jumped Okamoto, helped out by Piety Charm. Okamoto was left at four life. Ikeda tried a morphed creature.
 

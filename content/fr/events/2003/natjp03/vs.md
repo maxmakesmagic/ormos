@@ -289,7 +289,9 @@ render_recovery:
 
 しかしその後は《貪欲なるベイロス/Ravenous Baloth》、《ワイアウッドの野人/Wirewood Savage》となかなかの展開。
 
-![](https://www.wizards.com/sideboard/images/natjp03/a948.jpg)一方熱田は《ラノワールのエルフ/Llanowar Elves》、《野生の雑種犬/Wild Mongrel》、《幻影のケンタウロス/Phantom Centaur》と並べたて、《脅しつけ/Threaten》で《貪欲なるベイロス/Ravenous Baloth》を除去しつつアタックを試みる。
+![](https://www.wizards.com/sideboard/images/natjp03/a948.jpg)
+
+一方熱田は《ラノワールのエルフ/Llanowar Elves》、《野生の雑種犬/Wild Mongrel》、《幻影のケンタウロス/Phantom Centaur》と並べたて、《脅しつけ/Threaten》で《貪欲なるベイロス/Ravenous Baloth》を除去しつつアタックを試みる。
 
 しかし、《貪欲なるベイロス/Ravenous Baloth》のためになかなかライフが減らず、《ワイアウッドの野人/Wirewood Savage》のおかげでブロッカーも増えるばかり。
 

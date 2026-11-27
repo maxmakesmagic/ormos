@@ -86,7 +86,9 @@ render_recovery:
 ---
 Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the [**Magic** Comprehensive Rules](https://web.archive.org/web/20051015000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/rules/tourneyplayer)? Maybe he's already answered it! Try the [Saturday School Searchable Rules Database](https://web.archive.org/web/20051015000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/satschoolarchive).
 
-[![](https://i.ormos.uk/48/89/4889f4b8fc8afd9fa3553511dbdd468069ba78ebe241c9f16879340ff8160006.jpg)](https://web.archive.org/web/20051015000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs)If you didn't make it to a release event at your local store last week, we missed you. The store I judged at was packed full, and everybody walked away with something. For the more competitive players out there, this is the last weekend to tune your Standard decks for the set rotation and next weekend's [Championship Events](https://web.archive.org/web/20051015000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs).
+[![](https://i.ormos.uk/48/89/4889f4b8fc8afd9fa3553511dbdd468069ba78ebe241c9f16879340ff8160006.jpg)](https://web.archive.org/web/20051015000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs)
+
+If you didn't make it to a release event at your local store last week, we missed you. The store I judged at was packed full, and everybody walked away with something. For the more competitive players out there, this is the last weekend to tune your Standard decks for the set rotation and next weekend's [Championship Events](https://web.archive.org/web/20051015000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs).
 
 **Q**:How does [Flame Fusillade](https://web.archive.org/web/20051015000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Fusillade) work with [Time Vault](https://web.archive.org/web/20051015000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Time+Vault)? --Brian E.
 

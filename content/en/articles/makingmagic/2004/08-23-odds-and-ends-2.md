@@ -126,7 +126,9 @@ As you can see, we have quite a number of very good design teams set up. I can't
 
 ### Sweet Sixteen
 
-![](https://i.ormos.uk/1f/88/1f8881423653e1811fbd6f91e37a8772dec2b8b41de46113df6a85c434ec8718.jpg)Here's a quick update on the next **Magic** Invitational. It will again be held on ***Magic** Online*. We're currently planning to hold the event for a second time at E3 (Electronic Entertainment Expo) in Los Angeles next spring.
+![](https://i.ormos.uk/1f/88/1f8881423653e1811fbd6f91e37a8772dec2b8b41de46113df6a85c434ec8718.jpg)
+
+Here's a quick update on the next **Magic** Invitational. It will again be held on ***Magic** Online*. We're currently planning to hold the event for a second time at E3 (Electronic Entertainment Expo) in Los Angeles next spring.
 
 But here's the interesting part. After the success of features like “You Make the Card” and “Selecting Eighth/Ninth Edition”, we've decided to revamp the invite policy to allow more audience participation. We're still working out the details but I can say this. The new invites will not simply be us expanding the number of players invited on the player ballot. Rather, we are going to be creating a series of unique categories that recognize a wider range of skills than previous invite lists. That said, not all the slots will be votes. There will still be a number of invites assigned to particular achievements.
 

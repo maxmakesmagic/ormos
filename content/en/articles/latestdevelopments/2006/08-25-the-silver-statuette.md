@@ -115,7 +115,9 @@ I had been at a corporate “all-hands” meeting earlier in the day during whic
 
 By the time the afternoon had rolled around, I had all but forgotten the award… until Bill handed me a replica of the statuette that Loren had showed the crowd that morning—and it had my name on it! Suddenly it didn't feel like *Ravnica* won an award, but like I had won an award for helping to create *Ravnica*. (I later learned that I'd be getting a *second* statuette for my design work on **Axis & Allies Miniatures**, which won the Gamers' Choice Best Historical Game of the Year. When it comes time for my mid-year review, I'm going to walk into Buehler's office and slam those two little ladies down on his desk.)
 
-![](https://i.ormos.uk/db/3e/db3e6c1636c8ef7a9d46fdeb3087eef8011775878d071f82903083a1365c3344.jpg)I danced about the office for a while, showing off my statuette to anyone that would look at it. I got a lot of “cools” and “awesomes” from the other guys in the Pit, but Brian Schneider's reaction was a bit different. He took the statue out of my hand, read it, shook his head, and then gave it back to me.
+![](https://i.ormos.uk/db/3e/db3e6c1636c8ef7a9d46fdeb3087eef8011775878d071f82903083a1365c3344.jpg)
+
+I danced about the office for a while, showing off my statuette to anyone that would look at it. I got a lot of “cools” and “awesomes” from the other guys in the Pit, but Brian Schneider's reaction was a bit different. He took the statue out of my hand, read it, shook his head, and then gave it back to me.
 
 His silence said it all. Man, is development at best misunderstood, and at worst underappreciated. Maybe not here at Wizards, but definitely by the world at large.
 
@@ -125,7 +127,9 @@ In the best-case scenario, which *Ravnica* was close to thanks to a fabulous des
 
 And like I said, *Ravnica* was comparatively easy in this regard.
 
-![Lotus_Bloom](https://i.ormos.uk/3c/76/3c7668f8e1a2844b1a0fe4e8e0d769172541f6ce99f2d799cbcbe07283a42e4d.jpg)I enjoyed the time wherein my primary role was that of designer. Making cards, sets, and mechanics is great fun. I'm looking forward to the release of *Time Spiral* for, at that time, I will have helped to design every set legal in Standard, including *Ninth Edition* and *Coldsnap*.
+![Lotus_Bloom](https://i.ormos.uk/3c/76/3c7668f8e1a2844b1a0fe4e8e0d769172541f6ce99f2d799cbcbe07283a42e4d.jpg)
+
+I enjoyed the time wherein my primary role was that of designer. Making cards, sets, and mechanics is great fun. I'm looking forward to the release of *Time Spiral* for, at that time, I will have helped to design every set legal in Standard, including *Ninth Edition* and *Coldsnap*.
 
 But I'm looking forward to the release of *Time Spiral* for another reason as well—because I'm proud of the work that Schneider, Devin Low, Matt Place, myself, and many others did on the set as developers. In fact, I'll publicly state here that *Time Spiral* is the best developed set we've made in the five years I've been working here. And hopefully, you won't even notice.
 

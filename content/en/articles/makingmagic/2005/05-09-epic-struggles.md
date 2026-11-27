@@ -85,7 +85,9 @@ A few years back I decided that as the design columnist it was my duty to introd
 
 **Brian Tinsman** 
 
-![](https://i.ormos.uk/2f/fe/2ffe74724be18ddb2b57c3dbc7c58741b852c9719be0112abbe6164083e86dc9.jpg)When I first started writing this column, I kept hyping Brian as the “up-and-comer”. Then the mantle was passed on to Aaron Forsythe. And today, I'm going to pass the baton to another *Saviors* team member. But back to Brian. Brian is no longer the fresh, young designer. And don't worry, he's not a stale, old designer yet. He's what we call in the biz a veteran. This is Brian's fourth time leading a design team (previously he led *Judgment*, *Scourge*, and *Champions of Kamigawa*). Brian has become a little bit of a third set specialist. For those that didn't read my preview of sets to come last week (“[Today and Tomorrow](/en/articles/makingmagic/2005/05-02-today-and-tomorrow)”), I'll mention that Brian is currently leading the design of the 2006 fall expansion codenamed *Snap* (followed by *Crackle* and *Pop*). But enough about *Snap* until it gets its own preview week.
+![](https://i.ormos.uk/2f/fe/2ffe74724be18ddb2b57c3dbc7c58741b852c9719be0112abbe6164083e86dc9.jpg)
+
+When I first started writing this column, I kept hyping Brian as the “up-and-comer”. Then the mantle was passed on to Aaron Forsythe. And today, I'm going to pass the baton to another *Saviors* team member. But back to Brian. Brian is no longer the fresh, young designer. And don't worry, he's not a stale, old designer yet. He's what we call in the biz a veteran. This is Brian's fourth time leading a design team (previously he led *Judgment*, *Scourge*, and *Champions of Kamigawa*). Brian has become a little bit of a third set specialist. For those that didn't read my preview of sets to come last week (“[Today and Tomorrow](/en/articles/makingmagic/2005/05-02-today-and-tomorrow)”), I'll mention that Brian is currently leading the design of the 2006 fall expansion codenamed *Snap* (followed by *Crackle* and *Pop*). But enough about *Snap* until it gets its own preview week.
 
 As a designer, Brian is known for his love of top down design and “out of the box” ideas. As today's preview card hopefully demonstrates, you'll be seeing some of this in *Saviors*. Brian also likes creating the third set such that they build on the existing themes while also tapping into an entire new theme that has synergy with the old themes. (More on that theme in next week's column.) Brian's also a bit of a rebel and so if you study *Saviors* closely you'll notice a bit of convention breaking. (Especially in the cycles.) 
 
@@ -93,19 +95,25 @@ What I'm really trying to get at is that Brian has reached all that potential th
 
 **Brian Schneider** 
 
-![](https://i.ormos.uk/48/ac/48ac800712c71f7b79008df15c95c3c7f96dd347371d8981786cd6cb5b95e103.jpg)I assume most of my readers know that I'm in charge of **Magic** design (you know, since I remind you *every* week), but lesser known is the man in charge of **Magic** development. That man is Brian Schneider. So what is he doing on a design team? One, it's good to have developers on design teams to let them understand the design process. And two, the man can design. The most interesting thing about Brian's design is that he doesn't design the kind of cards you'd expect from him if you knew him. In person, Brian is very shy and reserved. But in design, he comes up with some offbeat stuff.
+![](https://i.ormos.uk/48/ac/48ac800712c71f7b79008df15c95c3c7f96dd347371d8981786cd6cb5b95e103.jpg)
+
+I assume most of my readers know that I'm in charge of **Magic** design (you know, since I remind you *every* week), but lesser known is the man in charge of **Magic** development. That man is Brian Schneider. So what is he doing on a design team? One, it's good to have developers on design teams to let them understand the design process. And two, the man can design. The most interesting thing about Brian's design is that he doesn't design the kind of cards you'd expect from him if you knew him. In person, Brian is very shy and reserved. But in design, he comes up with some offbeat stuff.
 
 Brian previously worked on the design of *Darksteel*. And with one design team under his belt, Brian was tied as the second most senior man on the team. 
 
 **Brandon Bozzi** 
 
-![](https://i.ormos.uk/aa/f2/aaf221eec0dc304275a990510b5850b2ac4e6d69b2bb4d3a4675509ef15f7dc9.jpg)He was tied with Brandon. I give Brian the edge as Brandon's one other design had been *Unhinged*, a very untraditional design project. While Brian came from development, Brandon was from the Creative Team. For the last several years, Brandon has been responsible for names and flavor text (that responsibility was passed during *Ravnica* to Matt Cavotta). As such, Brandon approached the design with a very different viewpoint. 
+![](https://i.ormos.uk/aa/f2/aaf221eec0dc304275a990510b5850b2ac4e6d69b2bb4d3a4675509ef15f7dc9.jpg)
+
+He was tied with Brandon. I give Brian the edge as Brandon's one other design had been *Unhinged*, a very untraditional design project. While Brian came from development, Brandon was from the Creative Team. For the last several years, Brandon has been responsible for names and flavor text (that responsibility was passed during *Ravnica* to Matt Cavotta). As such, Brandon approached the design with a very different viewpoint. 
 
 In addition, Brandon's strength as a designer seems to be pulling interesting groups of people together to do group design. During *Unhinged*, it was Brandon that collected himself, Schneider and Tyler Bielman together to run the brainstorming session that led to the ass theme. Brandon is an interesting designer in that he helps pull potential out of other designers. 
 
 **Devin Low** 
 
-![](https://i.ormos.uk/b4/cb/b4cb1dbc8b6ce71bfe038cb69426ccfbcc17b7781c40cd762bbfe20c243502e3.jpg)Devin was the rookie of the bunch. While dipping his toe into development, *Saviors* was his first foray into **Magic** design. Remember the “up-and-coming” baton I mentioned above? Devin is the recipient. Devin is still finding himself as a designer (he later worked on *Guildpact* and is currently on *Snap*), but I am always excited to see what kind of stuff he can come up with. 
+![](https://i.ormos.uk/b4/cb/b4cb1dbc8b6ce71bfe038cb69426ccfbcc17b7781c40cd762bbfe20c243502e3.jpg)
+
+Devin was the rookie of the bunch. While dipping his toe into development, *Saviors* was his first foray into **Magic** design. Remember the “up-and-coming” baton I mentioned above? Devin is the recipient. Devin is still finding himself as a designer (he later worked on *Guildpact* and is currently on *Snap*), but I am always excited to see what kind of stuff he can come up with. 
 
 While this team was short on experience, it more than made up for it with spunk. (“This team has moxie, kid. Moxie.”) They tackled the design like a team that had been working together for years. In fact, this team is responsible for one of the major mechanics for *Snap*. They stumbled upon it during the design for Saviors and realized they had something bigger than a third set mechanic. 
 
@@ -113,7 +121,9 @@ Besides designing mechanics for other sets, they also did a bang up job of desig
 
 ### An Epic Story
 
-![](https://i.ormos.uk/3d/fb/3dfb8ec977c97029ccfdccfa4b95a0befea7a14bbdaeb98bda6418c79a0dbda1.jpg)Now that I've gotten the design team out of the way, let's get to the meat and potatoes of this column – the epic mechanic. For starters, I can tell you that the epic mechanic is a single rare cycle (meaning there are five of them, one in each color). Each one works the same. Once you play the spell, it will repeat itself at the start of your upkeep every turn. The drawback? It's the last spell you'll ever play in the game. Because once you play it you are no longer allowed to play every spell. Don't worry though, the epic spells were designed to have a lot of game. As Enduring Ideal demonstrates, the gameplay isn't over once the spell is played. In many ways, the game is just beginning.
+![](https://i.ormos.uk/3d/fb/3dfb8ec977c97029ccfdccfa4b95a0befea7a14bbdaeb98bda6418c79a0dbda1.jpg)
+
+Now that I've gotten the design team out of the way, let's get to the meat and potatoes of this column – the epic mechanic. For starters, I can tell you that the epic mechanic is a single rare cycle (meaning there are five of them, one in each color). Each one works the same. Once you play the spell, it will repeat itself at the start of your upkeep every turn. The drawback? It's the last spell you'll ever play in the game. Because once you play it you are no longer allowed to play every spell. Don't worry though, the epic spells were designed to have a lot of game. As Enduring Ideal demonstrates, the gameplay isn't over once the spell is played. In many ways, the game is just beginning.
 
 So where did the epic spells come from? The answer is not what you might expect. Where did epic spells come from? Legends. Or rather I guess I should say legendary creatures. You see, for those of you that don't bother to look at your rares, the *Kamigawa* block has a little legendary theme. (Oh, that's why all the rare creatures are legendary.) And while we started with creatures, other card types jumped into the fray. Legendary artifacts and lands started appearing. Even legendary enchantments made their premiere. All this made the *Saviors* design team ask an important question: where are the legendary instants and sorceries?
 
@@ -137,7 +147,9 @@ Yes, the epic spells were an epic challenge. Interestingly enough, Enduring Idea
 
 ### Once, Twice, Three Times a Set
 
-![](https://i.ormos.uk/34/03/340390aa8ac1025a1f562147d4d34bb0a52729ae59f050d3c4eeb814a76aa014.jpg)There's not too much more to say about the epic mechanic, so I thought I'd take a little detour to talk about one of the biggest challenges of *Saviors of Kamigawa*, what I'll call the “third set identity crisis”. For those of you out there that have done any reading on childcare (which I'm guessing is a minority), you've probably run across the birth order effect. The idea behind it is that birth order has a huge impact on a child's development. Being the first child, for example, is a very different experience than being the baby or being a middle child. Why do I bring this up? (Not to talk about childcare, I promise. Hmm, great design mistakes as seen through parenting snafus? Nah.) Because I think set order has a lot to do with expansion identity.
+![](https://i.ormos.uk/34/03/340390aa8ac1025a1f562147d4d34bb0a52729ae59f050d3c4eeb814a76aa014.jpg)
+
+There's not too much more to say about the epic mechanic, so I thought I'd take a little detour to talk about one of the biggest challenges of *Saviors of Kamigawa*, what I'll call the “third set identity crisis”. For those of you out there that have done any reading on childcare (which I'm guessing is a minority), you've probably run across the birth order effect. The idea behind it is that birth order has a huge impact on a child's development. Being the first child, for example, is a very different experience than being the baby or being a middle child. Why do I bring this up? (Not to talk about childcare, I promise. Hmm, great design mistakes as seen through parenting snafus? Nah.) Because I think set order has a lot to do with expansion identity.
 
 The first set is always shiny and new. It introduces the theme(s) for the year as well as the block mechanics. The second set gets to expand upon the work of the first set makes all the obvious twists (and some of the less obvious ones) on the mechanics. But the third set has a bit of an identity crisis. It can't just expand on the themes. The second set did that. But it's still part of the block so it has a certain responsibility to keep the feel of the first two sets. In the end, the set has to always find a new twist to add into the block that feels like an extension of the earlier themes but still feels new. This was the challenge of the *Saviors* design team.
 

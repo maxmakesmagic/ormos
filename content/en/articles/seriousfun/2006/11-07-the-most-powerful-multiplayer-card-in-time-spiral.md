@@ -1327,7 +1327,9 @@ Seventeenth place? "Don't talk to me," Mistress Tournament says, holding up one 
 
 But if tournament is a cold hard business executive clutching a spreadsheet, then casual play is like having Randal from [Clerks](https://web.archive.org/web/20061107000000/http://www.wizards.com/leaving.asp?url=http://www.imdb.com/title/tt0109445/&origin=mtgcom_daily_tf7) as your boss. "Who gives a crap about winning or losing?" he asks, a glint of mischief in his eye. "Did you have fun?"
 
-![Goblin_Flectomancer](https://i.ormos.uk/9b/93/9b93c6079e08fbe1a9ca467d90891da8ea243bf23520f00295bf5c0a0fcb0e7b.jpg)You made a lot of cool plays and still lost? That's great! Did you fire off that once-in-a-lifetime combo? *Awesome*. As long as you're happy.
+![Goblin_Flectomancer](https://i.ormos.uk/9b/93/9b93c6079e08fbe1a9ca467d90891da8ea243bf23520f00295bf5c0a0fcb0e7b.jpg)
+
+You made a lot of cool plays and still lost? That's great! Did you fire off that once-in-a-lifetime combo? *Awesome*. As long as you're happy.
 
 Thus, it occurred to me that I have to pick not one, but *two* winners for this crazy challenge: One for the most *powerful* card, and the other for the *most fun* card.
 

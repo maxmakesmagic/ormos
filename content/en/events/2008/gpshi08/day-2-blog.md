@@ -971,7 +971,9 @@ Kenji Tsumura and Hiromasa Imagawa had pretty good days on Saturday. Each fought
 
 Hiromasa won the roll, getting to play first with an already fast deck. Not what Kenji was hoping for. 
 
-![](http://www.wizards.com/sideboard/images/gpshi08/R10_imagawa.jpg)Mogg Fanatic on turn one was followed up by Keldon Marauders from Hiromasa ֠his burn deck didn't hang around, and was looking to get its hits in early, before the control deck of Tsumura could find its feet. Kenji had a turn two suspend of Riftwing Cloudskate, and followed up with a devastating Aven Riftwatcher. While he approached single digits fast, just one Momentary Blink on the Riftwatcher would win back most of that life at a low low cost. 
+![](http://www.wizards.com/sideboard/images/gpshi08/R10_imagawa.jpg)
+
+Mogg Fanatic on turn one was followed up by Keldon Marauders from Hiromasa ֠his burn deck didn't hang around, and was looking to get its hits in early, before the control deck of Tsumura could find its feet. Kenji had a turn two suspend of Riftwing Cloudskate, and followed up with a devastating Aven Riftwatcher. While he approached single digits fast, just one Momentary Blink on the Riftwatcher would win back most of that life at a low low cost. 
 
 When Riftwing Cloudskate came in, it targeted Kenji's Aven Riftwatcher. Hiromasa responded with a Shard Volley on the flyer. Kenji had Venser, Shaper Savant to respond, but it was Hiromasa that got the last laugh, with Mogg Fanatic plus Sulfurous Blast being sufficient to wipe the board. Kenji had a Mulldrifter, but dropped to four following Shard Volley and subsequent attacks. 
 
@@ -985,7 +987,9 @@ Hiromasa Imagawa 0 ֠1 Kenji Tsumura
 
 Kenji's start for Game 2 was a little awkward, with a pair of Nimbus Maze as his first land drops, which were joined by a Mind Stone. He evoked a Mulldrifter early to find land, but swiftly dropped to 11, as Hiromasa powered out Keldon Marauders followed by Countryside Crusher in short order. 
 
-![](http://www.wizards.com/sideboard/images/gpshi08/R10_kenji.jpg)It soon became clear why Kenji had kept though. He had an Aven Riftwatcher, and played it with sufficient mana up to have a Rune Snag for the first burn spell that Hiromasa could point its way. 
+![](http://www.wizards.com/sideboard/images/gpshi08/R10_kenji.jpg)
+
+It soon became clear why Kenji had kept though. He had an Aven Riftwatcher, and played it with sufficient mana up to have a Rune Snag for the first burn spell that Hiromasa could point its way. 
 
 With Countryside Crusher in play, Hiromasa was kept down to 3 lands, though the reveals from the top of his deck didn't make the giant any bigger anyway. Effectively, Countryside Crusher was just giving Kenji more information, a dangerous thing to do. The Riftwatcher blocked and died to Countryside Crusher, only to be returned (along with Mulldrifter) by an evoked Reveillark. It seemed that Kenji had stabilized faster in game 2, and with 6 cards in hand, and 6 lands to his opponents three, he was presenting an uphill struggle to Hiromasa, who shook his head as he surveyed the board position. 
 
@@ -1007,7 +1011,9 @@ Kenji Tsumura wins 2-0
 
 For round eleven we have two players currently on 8-2, at the part of the day where Grand Prix's can't be won by good play, but they can definitely be thrown away in a matter of rounds. Akira Asahara is no stranger to the spotlight, having won two Grand Prixs previously, and made a Worlds top 4, but his opponent Sara Shingai is looking for her first big finish. With goblins she is marching to here own beat deck construction-wise, and thus far it appears to have paid off.
 
-![](http://www.wizards.com/sideboard/images/gpshi08/R11_shingai_sara.jpg)Shingai had the first play of the game, in a Mudbutton Torchrunner. This was quickly stolen by Asahara, and it was probably just as well for him, as a Grave Pact soon followed. The goblins build Sara is employing gets more value out of sacrifice effects than most, and Grave Pact is just one of the ways it does it. Unfortunately for her, Asahara was the control right from the start. With Buttons stolen, he followed up with Aven Riftwatcher, and had a Rune Snag ready for Siege-Gang Commander. 
+![](http://www.wizards.com/sideboard/images/gpshi08/R11_shingai_sara.jpg)
+
+Shingai had the first play of the game, in a Mudbutton Torchrunner. This was quickly stolen by Asahara, and it was probably just as well for him, as a Grave Pact soon followed. The goblins build Sara is employing gets more value out of sacrifice effects than most, and Grave Pact is just one of the ways it does it. Unfortunately for her, Asahara was the control right from the start. With Buttons stolen, he followed up with Aven Riftwatcher, and had a Rune Snag ready for Siege-Gang Commander. 
 
 When Venser, Shaper Savant bounced Grave Pact, it only compounded the board advantage that Asahara held. Mirror Entity was enough to elicit the scoop from Sara for Game 1. 
 
@@ -1025,7 +1031,9 @@ In the decider there would be no mana issues. A Thoughtseize from Sara revealed 
 
 A small amounts of beats were exchanged as both Aven Riftwatcher and the Goblins went on the offensive. Sara suspended Greater Gargadon, but had her Nantuko Husk stopped by Rune Snag. 
 
-![](http://www.wizards.com/sideboard/images/gpshi08/R11_asahara_akira.jpg)Another Aven Riftwatcher came down for Asahara, making Sara's beatdown plan a tough one. It did leave him tapped out of blue mana though, giving Shingai the opportunity to sneak in something. Her chosen sneaky rogue was Marsh Flitter, who handily filled her board with tokens. Unfortunately for Sara, her beatdown plan was lef looking a little redundant in the face of Reveillark from Asahara, with two Aven Riftwatchers in the graveyard. 
+![](http://www.wizards.com/sideboard/images/gpshi08/R11_asahara_akira.jpg)
+
+Another Aven Riftwatcher came down for Asahara, making Sara's beatdown plan a tough one. It did leave him tapped out of blue mana though, giving Shingai the opportunity to sneak in something. Her chosen sneaky rogue was Marsh Flitter, who handily filled her board with tokens. Unfortunately for Sara, her beatdown plan was lef looking a little redundant in the face of Reveillark from Asahara, with two Aven Riftwatchers in the graveyard. 
 
 Again Asahara was tapped out. Sara played Grave Pact. She had four tokens that she could sacrifice, along with a couple of good sacrifice outlets. She ticked down her Gargadon by three, and pumped her Marsh Flitter, but in the process winced as Aven Riftwatchers came into play, and then disappeared from it, taking Asahara well above 20 in life. His board was wiped, but there was still a long way to go for Shingai if she was to successfully beat down. Asahara played a land and passed. Sara had Bitterblossom and a second Greater Gargadon to suspend. 
 
@@ -1049,7 +1057,9 @@ I was meant to be doing a metagame breakdown this round. Then two level eight ma
 
 "Can you tell my mum I love her very much?" asked Olivier as he cast a turn two Bitterblossom against Kenji, taking the initiative early. Ruel now gets enough feature matches that communicating through them is more efficient than email. He had a Scion of Oona to follow up, and got to beat Kenji down quite a bit before Riftwing Clouskate came off suspend. In the meantime, he had a Cryptic Command for Mulldrifter.
 
-![](http://www.wizards.com/sideboard/images/gpshi08/R12_Kenji.jpg)Riftwing Cloudskate successfully hit play, with limited targets thanks to Scion of Oona. The Scion got bounced, and Kenji started his fight back, on 12 life. He cast a Reveillark, only to see a Cryptic Command which countered it, and drew Olivier a card. There was an Unsummon to get rid of the Cloudskate, and those Bitterblossom tokens that had been accumulating all game continued to run in. There was a second Bitterblossom from Olivier, who seemed well positioned to finish things fast, with Kenji on just 9. 
+![](http://www.wizards.com/sideboard/images/gpshi08/R12_Kenji.jpg)
+
+Riftwing Cloudskate successfully hit play, with limited targets thanks to Scion of Oona. The Scion got bounced, and Kenji started his fight back, on 12 life. He cast a Reveillark, only to see a Cryptic Command which countered it, and drew Olivier a card. There was an Unsummon to get rid of the Cloudskate, and those Bitterblossom tokens that had been accumulating all game continued to run in. There was a second Bitterblossom from Olivier, who seemed well positioned to finish things fast, with Kenji on just 9. 
 
 Kenji tried to replay the Riftwing Cloudskate, only to see Rune Snag. He had a Rune Snag of his own, but when Olivier showed a second, Tsumura scooped it up.
 

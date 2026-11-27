@@ -190,7 +190,9 @@ This is the second installment of my series evaluating the cards of *Legions* fo
 
 ### Blue
 
-![](https://i.ormos.uk/5a/c0/5ac0c13466add21bce7d53cc1075f51488390006fe90d83f85a6890fabb07556.jpg)It’s funny, everyone seems to think blue got a lot better in *Legions*, but looking at this list, it seems to me that it got the shaft again. The color only has three commons I’d call good (Echo Tracer, Keeneye Aven and Mistform Seaswift), got the worst of the Muses, lacks a true bomb and has a lot of overcosted cards.
+![](https://i.ormos.uk/5a/c0/5ac0c13466add21bce7d53cc1075f51488390006fe90d83f85a6890fabb07556.jpg)
+
+It’s funny, everyone seems to think blue got a lot better in *Legions*, but looking at this list, it seems to me that it got the shaft again. The color only has three commons I’d call good (Echo Tracer, Keeneye Aven and Mistform Seaswift), got the worst of the Muses, lacks a true bomb and has a lot of overcosted cards.
 
 I suppose the blue cards are more solid overall, but that feels balanced by the loss of Lavamancer’s Skill and Sparksmith in pack three. Those are the two cards that made blue so good in the first place. Ironic that they aren’t in the color, huh? Even worse is the fact that other colors have wizards now, meaning nonblue drafters are more likely to pick up Skills then they were in triple *Onslaught*. You just can’t win.
 

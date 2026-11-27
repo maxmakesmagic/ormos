@@ -395,7 +395,9 @@ render_recovery:
 
 　先攻は柳。
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a887.jpg)　1 ターン目に何も置けなかった柳に対し、岩野は 1 ターン目から《渋面の溶岩使い/Grim Lavamancer》。柳は 2 ターン目に《火花鍛冶/Sparksmith》を出すが、これはすぐさま《火山の鎚/Volcanic Hammer》。
+![](http://www.wizards.com/sideboard/images/gpyok03/a887.jpg)
+
+　1 ターン目に何も置けなかった柳に対し、岩野は 1 ターン目から《渋面の溶岩使い/Grim Lavamancer》。柳は 2 ターン目に《火花鍛冶/Sparksmith》を出すが、これはすぐさま《火山の鎚/Volcanic Hammer》。
 
 　そして柳の 3 ターン目。土地が切れた。手札には、このデッキのキーである《ゴブリンの女看守/Goblin Matron》2 枚と《ゴブリンの名手/Goblin Sharpshooter》があるものの、とにかく必要なものは 3 マナ目。
 

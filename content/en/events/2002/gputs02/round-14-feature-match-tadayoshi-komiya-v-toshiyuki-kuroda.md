@@ -78,7 +78,9 @@ render_recovery:
   - Wave of Indifference
   occurrences: 28
 ---
-![](https://www.wizards.com/sideboard/images/gputs02/939.jpg)This match is for a glimmer of hope. The winner will be one of four players with thirty-three points, one of whom will advance to the Top 8. Well, for amateur Toshiyuki Kuroda it's for a lot more than that, since that'll put him even further up in the amateur rankings. But Tadayoshi Komiya has his eyes firmly on the prize, and he will not waver.
+![](https://www.wizards.com/sideboard/images/gputs02/939.jpg)
+
+This match is for a glimmer of hope. The winner will be one of four players with thirty-three points, one of whom will advance to the Top 8. Well, for amateur Toshiyuki Kuroda it's for a lot more than that, since that'll put him even further up in the amateur rankings. But Tadayoshi Komiya has his eyes firmly on the prize, and he will not waver.
 
 The first game was decided when Kuroda stopped playing lands after the first two mountains. Komiya's plays went: Goblin Sledder, Gustcloak Harrier, morph, morph. When Kuroda found his island to make a Mistform Dreamer, Komiya was ready with Pacifism. Komiya didn't even need to see his next card to convince himself to scoop.
 

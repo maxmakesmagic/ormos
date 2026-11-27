@@ -343,7 +343,9 @@ render_recovery:
 ---
 　準決勝戦。
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a911.jpg)　今大会では、数々の赤白同デッキ対決が繰り返されてきたが、この戦いもご多分に漏れず、赤白 Slide の同デッキ対決である。
+![](http://www.wizards.com/sideboard/images/gpyok03/a911.jpg)
+
+　今大会では、数々の赤白同デッキ対決が繰り返されてきたが、この戦いもご多分に漏れず、赤白 Slide の同デッキ対決である。
 
 　強敵、百瀬を破った黒田と、デッキ相性の悪い Zombie Bidding に勝利した小室。  
  　果たしてどちらが決勝に上る事になるのか。
@@ -368,7 +370,9 @@ render_recovery:
 
 　流石にここまで上がってきた 2 人だけあって、サイドボードの方法は全く同じ手法で、《ショック/Shock》と《炭化/Carbonize》以外のカードをメインに入れ、抜くカードは《銀騎士》 4 枚、《星の嵐/Starstorm》 2 枚、《稲妻の裂け目》 2 枚と言った感じである。
 
-![](https://i.ormos.uk/21/db/21db56b61c86fb5fbc8ed59159ce3d8bd67a6442077e22b5077bfc0ba533b11d.jpg)　こんな感じでサイドボードはものの 1 分程で終わり、淡々と進む 2 本目。
+![](https://i.ormos.uk/21/db/21db56b61c86fb5fbc8ed59159ce3d8bd67a6442077e22b5077bfc0ba533b11d.jpg)
+
+　こんな感じでサイドボードはものの 1 分程で終わり、淡々と進む 2 本目。
 
 　小室が変異から孵化させた《賛美されし天使》を、黒田が《霊体の地滑り/Astral Slide》で回避している状況から開始。
 

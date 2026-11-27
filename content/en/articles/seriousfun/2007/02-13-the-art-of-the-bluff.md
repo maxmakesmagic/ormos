@@ -124,7 +124,9 @@ But bluffing properly in multiplayer is a different beast for two very important
 
 ### 1) You will play your opponents multiple times.
 
-![Thalakos_Deceiver](https://i.ormos.uk/aa/91/aa91eb889e328e90d9c486545200d1fb6410457cfe6a73a57c5c14f0a32c48ac.jpg)In a large tournament, it's comparatively rare that you'll face the same guy twice in a given day — if you're lucky, you meet him in the Swiss and again in the Top 8, and that's it. If you're a regular in the area, you might wind up playing a single duel with the same guy almost every week. 
+![Thalakos_Deceiver](https://i.ormos.uk/aa/91/aa91eb889e328e90d9c486545200d1fb6410457cfe6a73a57c5c14f0a32c48ac.jpg)
+
+In a large tournament, it's comparatively rare that you'll face the same guy twice in a given day — if you're lucky, you meet him in the Swiss and again in the Top 8, and that's it. If you're a regular in the area, you might wind up playing a single duel with the same guy almost every week. 
 
 But in regular games of multiplayer, *everyone* plays. You see their play style in every game in the evening, leading to a much more intimate knowledge of what they do (or do not do) with their cards. 
 
@@ -176,7 +178,9 @@ The moment they think of you as a liar, all bets are off. Which leads to general
 
 ### Only bluff when you can win.
 
-![Brutal_Deceiver](https://i.ormos.uk/88/62/8862db083738f449dbe51bd6f47c779d5b81eb34712dff208af367c27e450dac.jpg)The danger of being caught bluffing is greater in multiplayer, so you don't want to do it merely to *avoid losing*. Losing is just something that happens when you're facing five guys; not every draw you get will have the power to struggle past a gang of opponents. The losses will come.
+![Brutal_Deceiver](https://i.ormos.uk/88/62/8862db083738f449dbe51bd6f47c779d5b81eb34712dff208af367c27e450dac.jpg)
+
+The danger of being caught bluffing is greater in multiplayer, so you don't want to do it merely to *avoid losing*. Losing is just something that happens when you're facing five guys; not every draw you get will have the power to struggle past a gang of opponents. The losses will come.
 
 But since the bluff can poison the well for weeks at a time, eroding your reputation, you only want to bluff when you can *win*. 
 
@@ -192,7 +196,9 @@ This leads, circuitously, to multiplayer bluffing tip #3:
 
 ### If it works, don't tell them.
 
-![Callous_Deceiver](https://i.ormos.uk/ea/c0/eac0f8a4f942800f98ed5c839aeb84dc1a1c031c98c4e795edbd0443066a8205.jpg)Yeah, you're gonna feel good about having pulled that out of your pocket. It will be a moment of *sheer triumph*, because you got people to do your bidding. But if you value victory over fun (which, mind you, I don't always do), then flopping your cards down on the table after a successful bluff and going, "Wow, I had nothing!" will mark that moment in their minds forever.
+![Callous_Deceiver](https://i.ormos.uk/ea/c0/eac0f8a4f942800f98ed5c839aeb84dc1a1c031c98c4e795edbd0443066a8205.jpg)
+
+Yeah, you're gonna feel good about having pulled that out of your pocket. It will be a moment of *sheer triumph*, because you got people to do your bidding. But if you value victory over fun (which, mind you, I don't always do), then flopping your cards down on the table after a successful bluff and going, "Wow, I had nothing!" will mark that moment in their minds forever.
 
 You just chumped 'em. Do they want that to happen again? Not really. The cold-blooded winners will hate being fooled, and the guys who just like playing will think that's awesome, and they'll want to see whether they can outbluff you the next time they play, so they'll run in to see whether you're bluffing *this* time. It's a lose/lose. 
 
@@ -232,7 +238,9 @@ Don't bother trying to bluff this guy. Won't work. Just suck it up and deal, and
 
 ### The False Weakness Bluff
 
-![Harsh_Deceiver](https://i.ormos.uk/9a/e7/9ae7da799cc10d884d9e4cd9c50d50a02f19fbff64c4a42c2feacf28f875292f.jpg)This comes when you have a good hand, and you want to lay low so that other players will go elsewhere. "Hiding in plain sight" is possibly *the* classic multiplayer political strategy, but it gets trickier when someone points at you and says, "Look at Ferrett! He's got seven cards in hand and hasn't done anything for turns! Why aren't you picking on *him*?"
+![Harsh_Deceiver](https://i.ormos.uk/9a/e7/9ae7da799cc10d884d9e4cd9c50d50a02f19fbff64c4a42c2feacf28f875292f.jpg)
+
+This comes when you have a good hand, and you want to lay low so that other players will go elsewhere. "Hiding in plain sight" is possibly *the* classic multiplayer political strategy, but it gets trickier when someone points at you and says, "Look at Ferrett! He's got seven cards in hand and hasn't done anything for turns! Why aren't you picking on *him*?"
 
 The trick is merely to *downplay* your hand, not to *negate* it. 
 

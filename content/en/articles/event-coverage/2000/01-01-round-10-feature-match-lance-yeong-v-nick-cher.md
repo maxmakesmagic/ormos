@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/946.jpg)This match was held in place while its participants waited to pass their deck checks. They started sweating as the ten-minute mark came and went, but nothing was amiss. They shuffled up and were awarded fifteen extra minutes. Their late start also meant they had their fair share of spectators, and vocal ones at that.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/946.jpg)
+
+This match was held in place while its participants waited to pass their deck checks. They started sweating as the ten-minute mark came and went, but nothing was amiss. They shuffled up and were awarded fifteen extra minutes. Their late start also meant they had their fair share of spectators, and vocal ones at that.
 
 Yeong opened with a Goblin Legionnarie. Cher tried to match him with Gaea's Skyfolk, but Yeong was ready with Urza's Rage. Not to be outdone, Cher showed a Rage of his own. Yeong missed his land drop, but minimized the damage by Icing one of Cher's islands. This not long scored him his fourth land, but paved the way for a Lightning Angel.
 
@@ -65,7 +67,9 @@ Yeong played the island and Iced the Titan to buy some time. He untapped and dro
 
 Unfortunately, Cher's Titan wasn't idle. It smashed again, knocking Yeong to three. Prophetic Bolted Cher, and played out a Galina's Knight. The three bears gang-blocked to take out the Titan, but both Mages were lost in the process. Cher replaced the Titan, which knocked the wind right out of Yeong's sails.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/945.jpg)He wasn't out of it, yet, however. He aimed a second Bolt at Cher's head, and Absorbed his Mystic Snake. Now he was holding Urza's Rage at four life, just enough to chump with his Knight and soak the Titan's trample damage. If Cher was out of gas the game was his.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/945.jpg)
+
+He wasn't out of it, yet, however. He aimed a second Bolt at Cher's head, and Absorbed his Mystic Snake. Now he was holding Urza's Rage at four life, just enough to chump with his Knight and soak the Titan's trample damage. If Cher was out of gas the game was his.
 
 Cher slid his top card across the table and pounded it. He turned it over. The crowd went wild. It was Prophetic Bolt, and the first game was his.
 
@@ -81,7 +85,9 @@ Cher kicked off, and made a second-turn Titan. Yeong's Shivan Reef hurt him as h
 
 Cher had no play on his turn, but kept Yeong off white mana with Ice. Yeong returned the favor, and then so did Cher. They were too busy messing with the other's mana to make dudes to smash face. Again Cher had no play, and Yeong Iced to keep him off Mystic Snake.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/944.jpg)Finally, Yeong made a play: Goblin Legionnaire. Cher Repulsed and untapped, but continued his dispassionate stance, passing the turn back. Yeong recast the Legionnare, and added Galina's Knight to his team. Cher turned the tables with a kicked Jilt, putting the Knight in the graveyard.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/944.jpg)
+
+Finally, Yeong made a play: Goblin Legionnaire. Cher Repulsed and untapped, but continued his dispassionate stance, passing the turn back. Yeong recast the Legionnare, and added Galina's Knight to his team. Cher turned the tables with a kicked Jilt, putting the Knight in the graveyard.
 
 Still, Cher couldn't move forward, only defend. He Excluded Goblin Legionnaire, but that only cleared the way for Yeong's Goblin Trenches. The clock was running out fast. Yeong made two dudes and swung, but had one of them Repulsed. The other fell to a Flametongue, and when Yeong tried Prophetic Bolt Cher was ready with Mystic Snake. It was a good board position, but not great, considering the Trenches.
 

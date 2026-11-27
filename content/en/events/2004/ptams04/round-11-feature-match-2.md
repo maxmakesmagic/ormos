@@ -495,7 +495,9 @@ render_recovery:
 ---
 ### Antonino De Rosa vs. Gary Wise
 
-![](http://www.wizards.com/sideboard/images/ptams04/fm23_1.jpg)Antonino De Rosa and Gary Wise are both part of the gigantic team that is CMU-TOGIT. Antonino recently won Grand Prix Kansas City, while Gary most recently Top 4'd Pro Tour Boston as part of Zabuton Nemonaut.
+![](http://www.wizards.com/sideboard/images/ptams04/fm23_1.jpg)
+
+Antonino De Rosa and Gary Wise are both part of the gigantic team that is CMU-TOGIT. Antonino recently won Grand Prix Kansas City, while Gary most recently Top 4'd Pro Tour Boston as part of Zabuton Nemonaut.
 
 The subject matter of the conversation during the shuffling and die roll wasn't suitable for this family website, so we'll pretend that Gary and Antonino talked about the weather. Meanwhile, Antonino won the die roll.
 

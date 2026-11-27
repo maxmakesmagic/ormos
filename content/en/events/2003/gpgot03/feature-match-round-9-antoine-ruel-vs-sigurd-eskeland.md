@@ -82,7 +82,9 @@ render_recovery:
   - Consume Spirit
   occurrences: 43
 ---
-![](https://i.ormos.uk/33/34/333462926ab66606e2b195062457bebbcec45d7aa87f9d01849801a4f4e90294.jpg)Sigurd Eskeland won Pro Tour New York back in the days of Lin Sivvi and Rishadan Port. Since then the big Norwegian has been toying with retirement but still turns up for the odd Grand Prix. Antoine Ruel also came to prominence around the same time as part of the French Black Ops team. Since then he and his brother Olivier have been strong presences on the Grand Prix circuit.
+![](https://i.ormos.uk/33/34/333462926ab66606e2b195062457bebbcec45d7aa87f9d01849801a4f4e90294.jpg)
+
+Sigurd Eskeland won Pro Tour New York back in the days of Lin Sivvi and Rishadan Port. Since then the big Norwegian has been toying with retirement but still turns up for the odd Grand Prix. Antoine Ruel also came to prominence around the same time as part of the French Black Ops team. Since then he and his brother Olivier have been strong presences on the Grand Prix circuit.
 
 Eskeland won the die roll and elected to go first. After a mulligan and a short discussion on the merits of splitting the game got underway. Eskeland missed a land drop, but Ruel was unable to kill the Myr that appeared the following turn. The Spikeshot Goblin he cast on the following turn meant that the Myr wouldn’t be long in this world.
 
@@ -90,7 +92,9 @@ Eskeland found a third land and pointed a trigger back at the Goblin with a Spik
 
 Ruel’s deck was brimming with removal and Eskeland’s next two creatures, Tel-Jihad Archers and Exile, were dispatched to the graveyard. Ruel wasn’t killing Eskeland with any speed though. His War Wagon was Shattered and a Replica took down both a Moriok Scavenger and Iron Myr to leave Ruel with just a Spikeshot Goblin. 
 
-![](https://i.ormos.uk/8d/e4/8de41b5ea29f36857727c7137f4efa040ce8d5b7e6f4522879f1dd9c9656e187.jpg)“This one is so annoying,” Ruel said, looking at a Sun Droplet brimming with counters. He cast Cathodion to try and inflict some permanent damage.
+![](https://i.ormos.uk/8d/e4/8de41b5ea29f36857727c7137f4efa040ce8d5b7e6f4522879f1dd9c9656e187.jpg)
+
+“This one is so annoying,” Ruel said, looking at a Sun Droplet brimming with counters. He cast Cathodion to try and inflict some permanent damage.
 
 Eskeland made a Spikeshot Goblin of his own and as Ruel had no removal for the Goblin he needed to Detonate the Bonesplitter. It didn’t matter as Eskeland had a Wurmskin Forger and his Goblin swelled to 4/5.
 
@@ -116,7 +120,9 @@ Eskeland found his Goblin but it had no soon as picked up the axe only to be sen
 
 Eskeland tapped out for a Sword of Kaldra giving Ruel the opportunity to kill the Exile with a Consume Spirit.
 
-![](https://i.ormos.uk/eb/19/eb19d0733856d5bfc42a31c5cb958b4400a6e322b7178b417ee8304b0f49b408.jpg)Ruel kept up the beats only for Eskeland to shore up with Tel-Jihad Archers. The Frenchman just couldn’t quite finish him off as Eskeland’s life stuck firmly around the halfway mark.
+![](https://i.ormos.uk/eb/19/eb19d0733856d5bfc42a31c5cb958b4400a6e322b7178b417ee8304b0f49b408.jpg)
+
+Ruel kept up the beats only for Eskeland to shore up with Tel-Jihad Archers. The Frenchman just couldn’t quite finish him off as Eskeland’s life stuck firmly around the halfway mark.
 
 A Wurmskin Forger showed up and gifted the Archer a counter. Now it was big enough to start killing Ruel’s creatures. Ruel sent his monsters in anyway, losing the Cathodion and Scavenger. A Consume Spirit sent Eskeland to 1 life.
 

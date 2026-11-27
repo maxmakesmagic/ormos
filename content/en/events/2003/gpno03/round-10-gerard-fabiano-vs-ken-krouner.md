@@ -110,7 +110,9 @@ render_recovery:
   - Terminate
   occurrences: 103
 ---
-![](http://www.wizards.com/sideboard/images/gpno03/a953.jpg)As we all sat down in the feature match area, Gerard Fabiano bemoaned the lack of name recognition of both himself and his friend (and now opponent) Ken Krouner. "Nobody every knows who we are, even though we've been doing well for a while now. We play together all the time and usually test for the Tour together. Just tell everyone that I finished in the top eight of worlds and then lost because I played horribly", said Fabiano. "And tell them that I finished in the top four at the last team Pro Tour", joked Ken Krouner. 
+![](http://www.wizards.com/sideboard/images/gpno03/a953.jpg)
+
+As we all sat down in the feature match area, Gerard Fabiano bemoaned the lack of name recognition of both himself and his friend (and now opponent) Ken Krouner. "Nobody every knows who we are, even though we've been doing well for a while now. We play together all the time and usually test for the Tour together. Just tell everyone that I finished in the top eight of worlds and then lost because I played horribly", said Fabiano. "And tell them that I finished in the top four at the last team Pro Tour", joked Ken Krouner. 
 
 The story of Gerard's first wild night in New Orleans has become almost an instant legend. I asked him to tell me that story. "So I was going to sing on stage (at the Cat's Meow, a local karaoke bar for college students on Bourbon Street) and I picked the song "It's Raining Men". No one else wanted to get on stage with me so I started going nuts, just belting it out—and these three really hot girls started jumping up on stage and pressing themselves against me, while others were grabbing my legs from off the stage."
 
@@ -124,7 +126,9 @@ Ken attempted to get into high gear with a Jackal Pup, but Togit member Fabiano 
 
 Gerard Fabiano 1 – Ken Krouner 0.
 
-![](http://www.wizards.com/sideboard/images/gpno03/a952.jpg)"I've never beat Gerard before.", bemoaned the tall, bleached-blonde Krouner. "Pro Tours, qualifiers, anywhere, I can't win. I don't think I've even beaten him ever in a money draft." "Well," replied Gerard, "I remember back when I first started playing, I thought you were Jon Finkel because of your hair. I watched the decks you were playing, and then went home and copied them."
+![](http://www.wizards.com/sideboard/images/gpno03/a952.jpg)
+
+"I've never beat Gerard before.", bemoaned the tall, bleached-blonde Krouner. "Pro Tours, qualifiers, anywhere, I can't win. I don't think I've even beaten him ever in a money draft." "Well," replied Gerard, "I remember back when I first started playing, I thought you were Jon Finkel because of your hair. I watched the decks you were playing, and then went home and copied them."
 
 Ken proceeded to side in all fifteen cards.
 
@@ -150,7 +154,9 @@ Ken: "I can feel it—I can feel my first win against you ever Gerard. I can sme
 
 Once again, Gerard led with a first turn Duress, this time sending Tangle Wire to the grave. This left Ken with double Jackal Pup, Lavamancer, Mountain, Blistering Firecat and Rishadan Port. The first doggy died to Smother, the Lavamancer kicked the bucket a-la Terror, and Gerard established an early defense with Yavimaya Elder, Wall of Blossoms and Bottle Gnomes. 
 
-![](http://www.wizards.com/sideboard/images/gpno03/a951.jpg)Meanwhile in Kenland, Mountains were not generously forthcoming. Two Firecats were forced to come into play face down, one of them eventually trading for a newly cast Genesis. Suddenly, Gerard called a judge over to the match.
+![](http://www.wizards.com/sideboard/images/gpno03/a951.jpg)
+
+Meanwhile in Kenland, Mountains were not generously forthcoming. Two Firecats were forced to come into play face down, one of them eventually trading for a newly cast Genesis. Suddenly, Gerard called a judge over to the match.
 
 Gerard: "If Blistering Firecat comes into play, can it be face down?"  
  Judge: "If you cast it, yes."  

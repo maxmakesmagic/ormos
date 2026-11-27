@@ -108,7 +108,9 @@ Phoenix Foundation came into today's Draft portion of the event with a 6-0 recor
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a847.jpg)Blume played a third turn Timberwatch Elf; Schneider had a morph creature and Lavaborn Muse. Wirewood Channeler gave Blume another good Elf to work with, and Schneider got through for some more damage as Blume was unwilling to put either of his utility creatures into combat. Glowering Rogon provided Blume with the fatty he needed, although he tapped one too many mana and took a point of burn. Schneider attacked with his team--the Rogon blocked the Muse, and Timberwatch Elf blocked a morph. Accelerated Mutation allowed Schneider to deal lethal damage to the Rogon, although he lost a morph in combat (Bloodstoke Howler).
+![](http://www.wizards.com/sideboard/images/ptbos03/a847.jpg)
+
+Blume played a third turn Timberwatch Elf; Schneider had a morph creature and Lavaborn Muse. Wirewood Channeler gave Blume another good Elf to work with, and Schneider got through for some more damage as Blume was unwilling to put either of his utility creatures into combat. Glowering Rogon provided Blume with the fatty he needed, although he tapped one too many mana and took a point of burn. Schneider attacked with his team--the Rogon blocked the Muse, and Timberwatch Elf blocked a morph. Accelerated Mutation allowed Schneider to deal lethal damage to the Rogon, although he lost a morph in combat (Bloodstoke Howler).
 
 Krosan Drover gave Blume a third Elf, and he followed with a face-up Nantuko Vigilante. Both players continued to play creatures that stared each other down, until Blume played Rush of Knowledge to get far ahead on resources. Schneider set up a big attack, and after Blume blocked, he unmorphed Bloodstoke Howler and declared he would sacrifice his Dragon Fangs to give all Beasts +1/+1 and trample. Blume seemed puzzled, and pointed out that Dragon Fangs can't be sacrificed for a universal tribal bonus. Schneider was visibly upset with the mistake, but after conceding a few turns later mentioned to Blume that there was nothing he could do to win regardless. 
 
@@ -118,7 +120,9 @@ Budde and Krzywicki's first game was odd, as both players were black-white, but 
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a848.jpg)Baberowski got a great tempo draw, playing a turn 2 Aven Farseer and a turn 3 Zombie Cutthroat, which unmorphed and pumped the flier. Long played a Cutthroat of his own to block Baberowski's, which made the Farseer 3/3. Baberowski added Zealous Inquisitor to his side, and Long gained back some tempo by bouncing the Farseer with Echo Tracer. Siege-Gang Commander emerged soon after, causing Long to have very favorable attacks and control of the board. Shoreline Ranger and Mistform Skyreaver gave Long some great evasion, which allowed him to fly over and take the match.
+![](http://www.wizards.com/sideboard/images/ptbos03/a848.jpg)
+
+Baberowski got a great tempo draw, playing a turn 2 Aven Farseer and a turn 3 Zombie Cutthroat, which unmorphed and pumped the flier. Long played a Cutthroat of his own to block Baberowski's, which made the Farseer 3/3. Baberowski added Zealous Inquisitor to his side, and Long gained back some tempo by bouncing the Farseer with Echo Tracer. Siege-Gang Commander emerged soon after, causing Long to have very favorable attacks and control of the board. Shoreline Ranger and Mistform Skyreaver gave Long some great evasion, which allowed him to fly over and take the match.
 
 Thanks to Krosan Drover, Schneider was able to get out a face-up Root Elemental a few turns quicker. It was enchanted with Dragon Fangs, which Blume destroyed with Nantuko Vigilate. On the following turn, Schneider played a second Elemental, and put the Fangs right on it. Blume was having trouble stabilizing, and Justin's Frenetic Raptor ensured he'd never have a chance to.
 

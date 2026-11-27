@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoka04/r7fm1ja1.jpg)In the early days of competitive Magic, Satoshi Nakamura was the most recognizable player to come from Japan. Between his notorious wacky hats and even more off-the-wall deck creations, Nakamura has always drawn attention, especially from foreigners. Today Nakamura is living up to his reputation, wearing a blue, brown, gray, orange and black hat, and playing a [Spellweaver Helix](https://web.archive.org/web/20040124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellweaver+Helix) deck that is currently 6-0. His opponent, the "Silver Collector" Osamu Fujita, just added another second place finish to his resume last week at Pro Tour Amsterdam, and is currently 6-0 as well with Goblins.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoka04/r7fm1ja1.jpg)
+
+In the early days of competitive Magic, Satoshi Nakamura was the most recognizable player to come from Japan. Between his notorious wacky hats and even more off-the-wall deck creations, Nakamura has always drawn attention, especially from foreigners. Today Nakamura is living up to his reputation, wearing a blue, brown, gray, orange and black hat, and playing a [Spellweaver Helix](https://web.archive.org/web/20040124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellweaver+Helix) deck that is currently 6-0. His opponent, the "Silver Collector" Osamu Fujita, just added another second place finish to his resume last week at Pro Tour Amsterdam, and is currently 6-0 as well with Goblins.
 
 ### Game 1
 

@@ -63,7 +63,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/82/b2/82b2e24d304fa73d335f33126093cdf4775c14be5d229d6a53d0b00cfd79df78.png)This 143-card set includes randomly inserted foil premium cards and features new mechanics like Wind spells, giant Avatars, and Rhystic spells.
+![](https://i.ormos.uk/82/b2/82b2e24d304fa73d335f33126093cdf4775c14be5d229d6a53d0b00cfd79df78.png)
+
+This 143-card set includes randomly inserted foil premium cards and features new mechanics like Wind spells, giant Avatars, and Rhystic spells.
 
 **Set Name:** *Prophecy*  
 **Block:** Set 3 of 3 of the *Masques* Block  

@@ -62,7 +62,9 @@ Jelger nodded his agreement and made a Morph before passing the turn. Raphael on
 
 "Ahhhh I'm Disappointed" Levy declared.
 
-![](https://i.ormos.uk/ff/d8/ffd8ddfe60242efe4c0f58acd22157c03faf07ac47e433e4b39b2d3104d4813e.jpg)Jelger had a plan of his own though, and cast [Akroma's Vengeance](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance) and a [Stonewood Invoker](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker) who would be 7/7 every turn from now on if need be. Raph played a Daunting defender on his turn, but Jelger had better answers left in his grip, as he untapped and cast [Dragon Roost](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Roost).
+![](https://i.ormos.uk/ff/d8/ffd8ddfe60242efe4c0f58acd22157c03faf07ac47e433e4b39b2d3104d4813e.jpg)
+
+Jelger had a plan of his own though, and cast [Akroma's Vengeance](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance) and a [Stonewood Invoker](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker) who would be 7/7 every turn from now on if need be. Raph played a Daunting defender on his turn, but Jelger had better answers left in his grip, as he untapped and cast [Dragon Roost](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Roost).
 
 "Very Funny Jelger... we all have a lot of fun" Raph quipped "but I'm still fighting!"
 
@@ -101,7 +103,9 @@ The Defender attacked back to put Jelger at 15, Raph then made a dive Bomber, in
 
 Jelger once more attacked, and tapped out to cast [Dragon Roost](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Roost).
 
-![](https://i.ormos.uk/38/79/3879e4d46c8beae725c4e52fa707078cae747c12ee508879e2b1edc553d5a2f3.jpg)Raph got aggressive and swung with everything, putting Jelger down to 10, and then made an [Ascending Aven](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ascending+Aven).
+![](https://i.ormos.uk/38/79/3879e4d46c8beae725c4e52fa707078cae747c12ee508879e2b1edc553d5a2f3.jpg)
+
+Raph got aggressive and swung with everything, putting Jelger down to 10, and then made an [Ascending Aven](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ascending+Aven).
 
 Jelger missed the crucial 7th Land drop however, and cycled another [Hystrodon](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hystrodon) to get the land he needed, and cast a Morph Guy that could Block on the Ground, to stop himself from dying before he made a [Dragon](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon).
 

@@ -68,7 +68,9 @@ render_recovery:
   - Decklist
   occurrences: 3
 ---
-![Karplusan_Strider](https://i.ormos.uk/6d/00/6d00cf7c4cce1ea3313c9bb71a365abfe7ba8d3632b4df74d2dd90a77ab7149d.jpg)I'm a Single White Green Mage. I like long walks through the Forest and dinner by firefly light. I enjoy stimulating conversation with trees. If you have pointy ears and put ![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif) into my mana pool, then I probably think you're awesome. I like to search my library for land cards and tap out for fatties, sometimes at the same time. I only have one speed: Sorcery. My favourite Phase is the Main Phase. I'm just assuming by the name that it's the most important Phase.
+![Karplusan_Strider](https://i.ormos.uk/6d/00/6d00cf7c4cce1ea3313c9bb71a365abfe7ba8d3632b4df74d2dd90a77ab7149d.jpg)
+
+I'm a Single White Green Mage. I like long walks through the Forest and dinner by firefly light. I enjoy stimulating conversation with trees. If you have pointy ears and put ![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif) into my mana pool, then I probably think you're awesome. I like to search my library for land cards and tap out for fatties, sometimes at the same time. I only have one speed: Sorcery. My favourite Phase is the Main Phase. I'm just assuming by the name that it's the most important Phase.
 
 Apparently, I was mistaken. Welcome to End of Turn Week, or, as the kids are calling it, EOTW! As a self-proclaimed unrepentant Green mage, I didn't even know what the End of Turn was until Ted explained it to me. What kind of crazy wackiness occurs at the end of turn? Keep reading and you'll find out!
 

@@ -134,7 +134,9 @@ Olivier 1-0
 
 　Antoine の《薄暗がりを漂うもの/Gloomdrifter》がすべてだった。
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a934.jpg)　お互い 1:1 での除去合戦が繰り返される中で、Olivier の 2 体の《尊い癒し手/Hallowed Healer》、《セファリッドの物あさり/Cephalid Looter》といったカードだけが場に生き残ったわけなのだが、狙い済ました《薄暗がりを漂うもの/Gloomdrifter》から Antoine がそれらすべてを葬り去ったのだ。そして、《幼年期の怪物/Childhood Horror》を戦線に加えた Antoine があっさりとこの試合を獲得する。
+![](http://www.wizards.com/sideboard/images/ptnice02/a934.jpg)
+
+　お互い 1:1 での除去合戦が繰り返される中で、Olivier の 2 体の《尊い癒し手/Hallowed Healer》、《セファリッドの物あさり/Cephalid Looter》といったカードだけが場に生き残ったわけなのだが、狙い済ました《薄暗がりを漂うもの/Gloomdrifter》から Antoine がそれらすべてを葬り去ったのだ。そして、《幼年期の怪物/Childhood Horror》を戦線に加えた Antoine があっさりとこの試合を獲得する。
 
 Antoine 1-1  
  　  

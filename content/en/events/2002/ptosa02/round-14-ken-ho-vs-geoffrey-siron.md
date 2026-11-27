@@ -159,7 +159,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/72/d7/72d76f008acaf2e1322eedcfd175d49e947c7ad0e56f1316e2d3e21b8a8fcce7.jpg)Belgium's Geoffrey Siron is on the verge of vindicating his country's performance at Grand Prix - Antwerp. Standing in his way is the last, best hope of the downtrodden Magic Colony: Ken Ho. Ho isn't running the colony deck, instead opting for an aggro blue-green deck, whose hood ornament is Tarnished Citadel. Siron is running a mono-black deck that is more creature-heavy than most.
+![](https://i.ormos.uk/72/d7/72d76f008acaf2e1322eedcfd175d49e947c7ad0e56f1316e2d3e21b8a8fcce7.jpg)
+
+Belgium's Geoffrey Siron is on the verge of vindicating his country's performance at Grand Prix - Antwerp. Standing in his way is the last, best hope of the downtrodden Magic Colony: Ken Ho. Ho isn't running the colony deck, instead opting for an aggro blue-green deck, whose hood ornament is Tarnished Citadel. Siron is running a mono-black deck that is more creature-heavy than most.
 
 Ho started things off with the format's second best mana-accelerators: Aquamoeba. Siron tried an Edict, and Ho countered with Basking Rootwalla. Next Siron tried Braids, but a surprise Arrogant Wurm from Ho made that seemed like a bad idea.
 

@@ -1285,7 +1285,9 @@ Before getting into this week's Swimming with Sharks proper, there is some old b
 
 It did warm my heart to see one poster point out Eric (sic) Lauer's Ghost Ship deck. Erik Lauer is considered to be the originator of the Big Blue archetype, and the deck that served as the unique inspiration for my version of mono-blue was a descendent of Lauer's deck... but wasn't Erik's specifically. 
 
-![](https://i.ormos.uk/ab/f7/abf720df8df53bc88cce761a5e668f4ddb77cb2c9c6e4af77e34a0714c3a139e.jpg)In addition we had the hint that the designer in question shared something with "at least five" of the credited deck designers in the article. Turian, Comer, Schneider, Wollpert, and Buehler all work for Wizards of the Coast. So does the answer to the puzzle.
+![](https://i.ormos.uk/ab/f7/abf720df8df53bc88cce761a5e668f4ddb77cb2c9c6e4af77e34a0714c3a139e.jpg)
+
+In addition we had the hint that the designer in question shared something with "at least five" of the credited deck designers in the article. Turian, Comer, Schneider, Wollpert, and Buehler all work for Wizards of the Coast. So does the answer to the puzzle.
 
 Last of all, I said that it wasn't superstar tournament organizer and judge Mike Guptil.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/277.JPG)Both Christer Ljones and Jakub Slemr went 5-1 on Friday, but lost their first round on Saturday. Ljones is playing the control black deck that has yet to be played successfully by anyone in the world other than Jon Finkel. Slemr is one of many top players who chose to run Wildfire. Slemr is also one of three world champions still playing and still in reasonable shape to win money or possibly make the Top 8 today - Budde is obvious, but can you name the other? Alexandre Blumke.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/277.JPG)
+
+Both Christer Ljones and Jakub Slemr went 5-1 on Friday, but lost their first round on Saturday. Ljones is playing the control black deck that has yet to be played successfully by anyone in the world other than Jon Finkel. Slemr is one of many top players who chose to run Wildfire. Slemr is also one of three world champions still playing and still in reasonable shape to win money or possibly make the Top 8 today - Budde is obvious, but can you name the other? Alexandre Blumke.
 
 Before the match Ljones was bemoaning his chances. He's somewhat of a Limited specialist and hasn't played Standard since last year's Euros. "I was disappointed to only go 5-1 yesterday, but I'll be happy with 1-5 today!" When Slemr played turn 1 Ghitu Encampment, Ljones was visibly upset. He knew his Negators made this a very bad matchup for him.
 

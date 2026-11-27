@@ -98,7 +98,9 @@ render_recovery:
 
 With Eivind playing first, it was Bram who started things off, playing Soulcatcher on turn two. Eivind's turn three saw a targetless Cartographer enter play, and a turn later, after it had attacked for two, it was joined by two Acorn Harvest-produced Squirrel tokens. 
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a716.jpg)Bram, still lacking for black mana, played his fourth non-black source and cast Aven Fisher, whose flight could eventually help the 'Catcher get bigger, and a turn later, after Eivind had flashed back the Harvest, Bram drew and laid a land, saying 'Swamp!', then attacked with both flyers, taking Nitter to thirteen life. Bram tapped four lands and played Mystic Zealot.
+![](http://www.wizards.com/sideboard/images/ptnice02/a716.jpg)
+
+Bram, still lacking for black mana, played his fourth non-black source and cast Aven Fisher, whose flight could eventually help the 'Catcher get bigger, and a turn later, after Eivind had flashed back the Harvest, Bram drew and laid a land, saying 'Swamp!', then attacked with both flyers, taking Nitter to thirteen life. Bram tapped four lands and played Mystic Zealot.
 
 Eivind's turn saw a massive attack, with all four Squirrels and the Cartographer attacking. Bram blocked the 2/2 with the Zealot, but Eivind had Rites of Initiation, discarding five cards for 24 points of damage. Bram had Pay No Heed in hand, but it would only have prevented six points of damage. 'That was easy' is all Eivind had to say.
 
@@ -114,7 +116,9 @@ With three cards in hand, Bram cast the discarded Deep Analysis from the graveya
 
 Eivind attacked and shot the Skywing Aven, Muscle Bursting the token blocked by Angelic Wall, then casting Diligent Farmhand and passing the turn. The two Cloudchasers attacked, leaving the Norwegian with ten life and a growing problem in the form of the two flyers protected by Hypochondria. As if that wasn't enough, Bram then cast Mystic Zealot, a huge obstacle for Eivind's 1/1 creatures. Eivind's only response was to cast Squirrel Nest and pass the turn. 
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a693.jpg)Bram drew and attacked for four with the Avens, leaving the Zealot back to hold off the opposition. Then, sitting at six life, Eivind drew and relinquished the turn despite having four cards in hand. Bram's turn saw him attack with just one Aven, holding the other back in case of the Rites, with Eivind dealing a point to the Dutchman with Chainflinger and making a sixth creature with the Nest.
+![](http://www.wizards.com/sideboard/images/ptnice02/a693.jpg)
+
+Bram drew and attacked for four with the Avens, leaving the Zealot back to hold off the opposition. Then, sitting at six life, Eivind drew and relinquished the turn despite having four cards in hand. Bram's turn saw him attack with just one Aven, holding the other back in case of the Rites, with Eivind dealing a point to the Dutchman with Chainflinger and making a sixth creature with the Nest.
 
 Eivind untapped and drew, and after declaring his attack step cast Temporary Insanity on the defensive Cloudchaser. He then attacked with everything, waiting for Bram's blocks before casting Rites of Initiation for three for a total of twenty points of damage, with Bram's one remaining white source of mana not enough to save him for a two game deficit.
 
@@ -130,7 +134,9 @@ Eivind attacked to do one point of damage, but the turn was ended without playin
 
 Eivind attacked with the Cartographer, with the Disciple forcing the discard of a Swamp to Hypochondria before he played a second Mountain and cast Possessed Centaur. Despite his massive card advantage, things didn't appear to e going well for Snepvangers, who was now at fifteen. He untapped and attacked with the Aven. He then cast Deep Analysis for the fourth time, with the payment of three life virtually eliminated by discarding one card to Hypochondria. Bram could then only muster Soulcatcher.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a668.jpg)Eivind's turn saw him attack with all of his creatures except Nantuko Disciple, which was held back to pump. Aquamoeba blocked Cartographer and each was saved in sequence by the Disciple and Hypochondria, taking the score to 18-11. Eivind then cast Nantuko Calmer and passed the turn.
+![](http://www.wizards.com/sideboard/images/ptnice02/a668.jpg)
+
+Eivind's turn saw him attack with all of his creatures except Nantuko Disciple, which was held back to pump. Aquamoeba blocked Cartographer and each was saved in sequence by the Disciple and Hypochondria, taking the score to 18-11. Eivind then cast Nantuko Calmer and passed the turn.
 
 Bram tried building up his defense with Angelic Wall, leaving himself five mana. Needing to solve the Disciple problem, he discarded Psionic Gift in casting Waste Away and looked to have established come sort of control over the table. Soulcatcher attacked, to which Eivind remarked "Ya, I'll eat him", and the score went to 17-11. 
 

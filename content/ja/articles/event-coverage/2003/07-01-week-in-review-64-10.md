@@ -185,7 +185,9 @@ Week in Reviewへようこそ。
 
 ### グランプリ・アムステルダム
 
-![](https://i.ormos.uk/dc/03/dc0356306b29c40bfdfa2f9b37a0859c1f9ff19a92102b0dc0fa329882f01bf5.jpg)198チームが今年のグランプリ・アムステルダムに参加した。Pheonix Foundation（Kai Budde、Marco Blume、Dirk Baberowski）、Les Plus Class（ちょっと変な名前に変わってはいるが、Gabriel Nassif、Amiel Tenenbaum、Farid Meraghniのチーム）、そしてObject of Affection（Tomi Walamies、Anton Jonsson、Jens Thoren）など、ヨーロッパにおけるほとんどすべての有力チームは出場していたことになる。またRankko Bongo Wheshiwheshi（Carlos Romao、Wilfried Ranque、Jose Barbero）、MagicCorporation.com（Christophe Haim、Franck Canu、Raphael Levy）、そしてthe JC Experience（John Larkin、Sam Gomersall、Patrick Mello）など、プロによる新しいチームもいくつかあった。そしてさらには、Courtney's Men（Bob Maher、Neil Reeves、Dave Williams）、Free Pat Chapin（Eddy Fear、Andy Stokinger、Mikey Pustilnik）、Ace Ten Off（Jon Finkel、Eric Froelich、Kamiel Cornelissen）、そしてTOBIT（Antonino De Rosa、Jon Sonne、Gerard Fabiano）といった北米にあるいくつかのチームも、はるばるやってきた。
+![](https://i.ormos.uk/dc/03/dc0356306b29c40bfdfa2f9b37a0859c1f9ff19a92102b0dc0fa329882f01bf5.jpg)
+
+198チームが今年のグランプリ・アムステルダムに参加した。Pheonix Foundation（Kai Budde、Marco Blume、Dirk Baberowski）、Les Plus Class（ちょっと変な名前に変わってはいるが、Gabriel Nassif、Amiel Tenenbaum、Farid Meraghniのチーム）、そしてObject of Affection（Tomi Walamies、Anton Jonsson、Jens Thoren）など、ヨーロッパにおけるほとんどすべての有力チームは出場していたことになる。またRankko Bongo Wheshiwheshi（Carlos Romao、Wilfried Ranque、Jose Barbero）、MagicCorporation.com（Christophe Haim、Franck Canu、Raphael Levy）、そしてthe JC Experience（John Larkin、Sam Gomersall、Patrick Mello）など、プロによる新しいチームもいくつかあった。そしてさらには、Courtney's Men（Bob Maher、Neil Reeves、Dave Williams）、Free Pat Chapin（Eddy Fear、Andy Stokinger、Mikey Pustilnik）、Ace Ten Off（Jon Finkel、Eric Froelich、Kamiel Cornelissen）、そしてTOBIT（Antonino De Rosa、Jon Sonne、Gerard Fabiano）といった北米にあるいくつかのチームも、はるばるやってきた。
 
 １日目が終わり、ベルギーの（Mats Clay以外にとっては）無名チーム、Boys of Summerがスタンディングの一番上にたち、Object of Affection、Ranko Bongoなにがし、そしてAce Ten Offが僅差でそれに続いた。ベスト20を逃したところで特筆すべきチームを挙げると、Courtney’s Men、Kai’s Gonna Get It!、そしてLowlandGames.comといったところだろうか。
 
@@ -219,7 +221,9 @@ Week in Reviewへようこそ。
 
 ### イベント・ホライズン・インビテーショナル
 
-![](http://www.wizards.com/sideboard/images/ehi03/006.jpg)イベント・ホライズン・インビテーショナルは準プレミア級の招待制イベントでTexas Magicによって運営されているものなのだが、これは先々週の週末に行われた。このトーナメントは興味深いバラエティーに富んだフォーマットを用いている。それらのフォーマットはこのイベントのために作り出されたもので、「４-Wayソロモンドラフト」、「よりよい製品を作ろう」、「MQ」、「君自身のルールセットを作ろう」、「ブロックを完成させよう」といったものがある。このイベントへの参加者の中にはプロプレイヤーであるDavid WilliamsやNeil Reeves、そしてグランプリ・ニューオリンズでベスト８に入ったCarl Lobatoなどがいた。
+![](http://www.wizards.com/sideboard/images/ehi03/006.jpg)
+
+イベント・ホライズン・インビテーショナルは準プレミア級の招待制イベントでTexas Magicによって運営されているものなのだが、これは先々週の週末に行われた。このトーナメントは興味深いバラエティーに富んだフォーマットを用いている。それらのフォーマットはこのイベントのために作り出されたもので、「４-Wayソロモンドラフト」、「よりよい製品を作ろう」、「MQ」、「君自身のルールセットを作ろう」、「ブロックを完成させよう」といったものがある。このイベントへの参加者の中にはプロプレイヤーであるDavid WilliamsやNeil Reeves、そしてグランプリ・ニューオリンズでベスト８に入ったCarl Lobatoなどがいた。
 
 Neil Reeves、このトーナメントの参加者の中で最も完成されているプレイヤーと言えるだろうが、彼が最終的に、プロツアー・シカゴに出場したことのあるTrent Boneauを１対１ドラフトの決勝戦で倒し、タイトルを手にした。決勝戦は３ゲームにわたったが、しかし《ワイアウッドのエルフ/Wirewood Elf》に付いた《神話的体形/Mythic Proportions》が勝敗を決した。
 

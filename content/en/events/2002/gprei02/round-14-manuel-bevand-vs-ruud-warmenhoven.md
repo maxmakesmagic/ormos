@@ -85,7 +85,9 @@ These decks are unique on day two, Ruud is using the old-school Oath deck with B
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gprei02/a904.jpg)The game started off particularly slowly even for a control mirror as the players were deck-checked. Eight minutes later the game could finally begin.
+![](http://www.wizards.com/sideboard/images/gprei02/a904.jpg)
+
+The game started off particularly slowly even for a control mirror as the players were deck-checked. Eight minutes later the game could finally begin.
 
 Ruud had to start off with a mulligan, and both players just laid lands for the first five turns, but when Manuel attempted a Fact or Fiction, Ruud chose not to stop it although he did have a Counterspell. The French player got to resolve another Fact or Fiction on his next turn as well. Ruud sat there doing nothing for a couple of turns, so Manuel decided to attack him with a Treetop Village. It emerged that Ruud did have some business cards in his hand, as he attempted an Accumulated Knowledge, which was Countered. Warmenhoven untapped and tried another, which was Foiled, but he had a third and this resolved, netting him five cards.
 
@@ -101,7 +103,9 @@ Ruud Warmenhoven 1 – Manuel Bevand 0
 
 With less than twenty minutes left in the round they started Game 2. Ruud went first and Living Wished for a Dust Bowl since Manuel had begun with a Treetop Village. The Bowl reduced Manuel to only blue mana as it also destroyed a Yavimaya Coast. Then the players spent several turns doing nothing but lay lands and getting them destroyed by Dust Bowls. Bevand did manage to play a Powder Keg though.
 
-![](http://www.wizards.com/sideboard/images/gprei02/a903.jpg)Since he was a game down, Manuel had to try and find some way to win within the time, so he very hopefully attempted a Morphling, which was Mana Leaked. Bevand won the Accumulated Knowledge war to draw four cards. Ruud had to tap out to Cunning Wish for his Knowledge and play it, which allowed Bevand to sneak through both a Palinchron and a Morphling.
+![](http://www.wizards.com/sideboard/images/gprei02/a903.jpg)
+
+Since he was a game down, Manuel had to try and find some way to win within the time, so he very hopefully attempted a Morphling, which was Mana Leaked. Bevand won the Accumulated Knowledge war to draw four cards. Ruud had to tap out to Cunning Wish for his Knowledge and play it, which allowed Bevand to sneak through both a Palinchron and a Morphling.
 
 The Dutch player had a way out of even this situation, though as he Living Wished for a Llawan, Cephalid Empress, but opted not to cast it straight away. This meant that he took a hit which knocked him down to five but allowed him to Fact or Fiction to try and find a Counterspell to force it through.
 

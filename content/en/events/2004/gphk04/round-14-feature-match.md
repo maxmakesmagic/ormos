@@ -431,7 +431,9 @@ render_recovery:
 ---
 ### Antoine Ruel vs. Jin Okamoto
 
-![](http://www.wizards.com/sideboard/images/gphk04/r14fm1_1.jpg)Both the French and Japanese Magic scenes have been on a tear recently. Just last week, Gabriel Nassif was defeated by Masashiro Kuroda in the finals of the Pro Tour. The two veterans that were slugging it out this round were bringing home Top 8 performances for their respective homelands since before it was the trendy thing to do.
+![](http://www.wizards.com/sideboard/images/gphk04/r14fm1_1.jpg)
+
+Both the French and Japanese Magic scenes have been on a tear recently. Just last week, Gabriel Nassif was defeated by Masashiro Kuroda in the finals of the Pro Tour. The two veterans that were slugging it out this round were bringing home Top 8 performances for their respective homelands since before it was the trendy thing to do.
 
 If Antoine Ruel won this round he would be a lock to join his brother in the Top 8. Jin needed several factors to line up in is favor if he won but he was in a good position for them to come to pass.
 

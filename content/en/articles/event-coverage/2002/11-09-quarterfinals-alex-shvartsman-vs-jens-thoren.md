@@ -44,7 +44,9 @@ archive_source:
   sha256: b4b42888580f2ffe5e4af28ce88e20ff03a8d78df7009d4468e5ba1525edce91
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a929.jpg)These two have been around the block before. They're well-versed in high-pressure competition, and fully aware of the stakes their playing for. They kept a friendly attitude, but very little was said as they shuffled up for their first game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a929.jpg)
+
+These two have been around the block before. They're well-versed in high-pressure competition, and fully aware of the stakes their playing for. They kept a friendly attitude, but very little was said as they shuffled up for their first game.
 
 Shvartsman had the sort of start he needed, with [Shock](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock) for a face-down [Skirk Commando](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando), some offense from [Elvish Warrior](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior), and [Leery Fogbeast](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leery+Fogbeast) holding the fort. Thoren came back with [Goblin Sledder](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder) and [Nosy Goblin](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nosy+Goblin), but a double-block just saw Shvartsman cycle Primal Boon. Rather than rescue the one receiving two damage, Thoren put them both in the bin.
 
@@ -64,7 +66,9 @@ Shvartsman was not in a bidding mood. He responded to its comes-into-play effect
 
 He finally got something going with [Elvish Warrior](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior), despite having ten or so lands. His next draw was a little better. He announced "And now, for MY rares." before dropping [Gigapede](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gigapede). Thoren bought time with a [Starstorm](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Starstorm) for three.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a934.jpg)But all those lands in Shvartsman's hand were finally doing something. Shvartsman would return the [Gigapede](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gigapede), and then run it into some dork Thoren would summon. That game stopped when Thoren tapped out for [Butcher Orgg](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher+Orgg). Right on its tail was [Cover of Darkness](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cover+of+Darkness), naturally naming Orgg. Thoren managed to pull that one out.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a934.jpg)
+
+But all those lands in Shvartsman's hand were finally doing something. Shvartsman would return the [Gigapede](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gigapede), and then run it into some dork Thoren would summon. That game stopped when Thoren tapped out for [Butcher Orgg](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher+Orgg). Right on its tail was [Cover of Darkness](https://web.archive.org/web/20021109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cover+of+Darkness), naturally naming Orgg. Thoren managed to pull that one out.
 
 Shvartsman 1 - Thoren 1
 

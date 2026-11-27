@@ -81,7 +81,9 @@ render_recovery:
   - Vitality Charm
   occurrences: 27
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a939.jpg)Tsuyoshi Ikeda is a pro from way back, often seen in the company of his boys from shop-fireball. At the Venice Masters Gateway they came within one match of adding another Japanese team to the action. Opposite him is another Team Masters mainstay, Itaru Ishida, the quiet mastermind behind Panzer Hunters. Ikeda is with red-green, and Ishida is running a black-green build with two Death Matches but no Symbiotes to take advantage. 
+![](http://www.wizards.com/sideboard/images/gpkyo03/a939.jpg)
+
+Tsuyoshi Ikeda is a pro from way back, often seen in the company of his boys from shop-fireball. At the Venice Masters Gateway they came within one match of adding another Japanese team to the action. Opposite him is another Team Masters mainstay, Itaru Ishida, the quiet mastermind behind Panzer Hunters. Ikeda is with red-green, and Ishida is running a black-green build with two Death Matches but no Symbiotes to take advantage. 
 
 ### Game 1
 
@@ -95,7 +97,9 @@ Ishida 1 – Ikeda 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a940.jpg)Ikeda led Game 2 with Stonewood Invoker. Ishida matched with Withered Wretch. They traded, and Ikeda made a morph. Ishida's only play was Wirewood Elf. Sure enough, Ikeda had Skirk Commando to get rid of it. Ishida cycled Death Pulse, but still found no fourth land.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a940.jpg)
+
+Ikeda led Game 2 with Stonewood Invoker. Ishida matched with Withered Wretch. They traded, and Ikeda made a morph. Ishida's only play was Wirewood Elf. Sure enough, Ikeda had Skirk Commando to get rid of it. Ishida cycled Death Pulse, but still found no fourth land.
 
 Ikeda came down with Invoker and morph. Ishida pulled land number four and double-amplified a Canopy Crawler. Ikeda's morph got through and dealt four when it was shown to be Branchsnap Lorian, and then he made a Snarling Undorak. Ishida had another Death Pulse to fell the Undorak. Ikeda goggled. While Ikeda drew lands, hoping to turn on his Invoker versus the ruling Crawler, Ishida did the same, enabling a Treespring Lorian. Ikeda hit eight and swung in. As soon as Ishida double-blocked he knew he was sunk. Ishida showed him the Vitality Charm to take the match.
 

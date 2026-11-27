@@ -45,7 +45,9 @@ archive_source:
   sha256: dd428ed68523d58db5a6be8a757bf8e3ceec05c4630479d0f95d73dfb643e86c
 render_recovery: []
 ---
-![](https://i.ormos.uk/7b/e3/7be3ca1bf00a72352bdd1eebeedd23b38469523e4ea9aec93762330707bce065.jpg)Congratulations to all the winners at ***Magic** 2010* Game Day! You can see a selected number of Top 8 deck lists [here](/en/events/2009/m10gameday/magic-2010-game-day).
+![](https://i.ormos.uk/7b/e3/7be3ca1bf00a72352bdd1eebeedd23b38469523e4ea9aec93762330707bce065.jpg)
+
+Congratulations to all the winners at ***Magic** 2010* Game Day! You can see a selected number of Top 8 deck lists [here](/en/events/2009/m10gameday/magic-2010-game-day).
 
   
 

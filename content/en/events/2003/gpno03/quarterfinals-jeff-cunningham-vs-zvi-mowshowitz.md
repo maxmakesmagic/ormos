@@ -106,7 +106,9 @@ Mowshowitz is playing the deck he is best-known for – Turbo-Land. Over the yea
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpno03/a932.jpg)Cunningham was forced to mulligan. Playing with six cards, he opened with a pair of Basking Rootwallas. Mowshowitz played Exploration and dropped a second land into play. On his second turn, Zvi played out another pair of lands and cast an Oath of Druids with two blue mana untapped. Cunningham played his third land and used two mana to pump one of the Rootwallas, bringing Mowshowitz down to fifteen life points.
+![](http://www.wizards.com/sideboard/images/gpno03/a932.jpg)
+
+Cunningham was forced to mulligan. Playing with six cards, he opened with a pair of Basking Rootwallas. Mowshowitz played Exploration and dropped a second land into play. On his second turn, Zvi played out another pair of lands and cast an Oath of Druids with two blue mana untapped. Cunningham played his third land and used two mana to pump one of the Rootwallas, bringing Mowshowitz down to fifteen life points.
 
 During his upkeep, Zvi milled about 60% of his deck to Oath up a Battlefield Scrounger. His combo was now half way home. After one more Oath activation, he would end up with just three cards left in his library, ready to go infinite. He countered Cunningham's Counterspell. 
 
@@ -122,7 +124,9 @@ Mowshowitz: -1 Horn of Greed, +1 Powder Keg
 
 A point of damage from Yavimaya Coast set off a Careful Study for Cunningham, but no Rootwallas entered play, nor Roars entered the graveyard. He discarded a land and Arrogant Wurm. Zvi started his game in exact same fashion as game 1, with turn one Exploration and two lands. Cunningham cast another Study on turn 2, finding a Basking Rootwalla this time and pitching a land. Mowshowitz played two more lands and – once again a perfect draw so far – cast Oath of Druids with two untapped Islands.
 
-![](https://i.ormos.uk/6c/74/6c744992e3e41d1e84983ee2b88875d76e866f585d12120929fb4cd95c39e174.jpg)Resolving Oath of Druids took quite some time as it was the fourth card from the bottom of Zvi's deck. With only three cards remaining, he asked the judge permission to sort his graveyard. Permission was granted, so both players would be able to figure out what the remaining three cards were, and it would be easier for Zvi to pick out cards to put on the bottom of his library with Scrounger. Technically, Zvi did not need the judge's permission. Few players use or even realize this, but you are allowed to arrange the cards milled with Oath of Druids in any order before placing them in the graveyard.
+![](https://i.ormos.uk/6c/74/6c744992e3e41d1e84983ee2b88875d76e866f585d12120929fb4cd95c39e174.jpg)
+
+Resolving Oath of Druids took quite some time as it was the fourth card from the bottom of Zvi's deck. With only three cards remaining, he asked the judge permission to sort his graveyard. Permission was granted, so both players would be able to figure out what the remaining three cards were, and it would be easier for Zvi to pick out cards to put on the bottom of his library with Scrounger. Technically, Zvi did not need the judge's permission. Few players use or even realize this, but you are allowed to arrange the cards milled with Oath of Druids in any order before placing them in the graveyard.
 
 Mowshowitz activated Scrounger to send Counterspell, Time Warp and Scroll Rack on the bottom of his library. He then used Accumulated Knowledge to draw three cards, played two lands and cast Scroll Rack leaving two mana untapped once again. He would be able to go infinite on the following turn, unless Cunningham could do something to stop him.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: f96f86e73caba043d966ff4dbe8accbfbf0e13680f1bbb8914e3c7bc9ce4901f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/qf1_1.jpg)Both players are running Affinity so expect a few quick brutal games.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/qf1_1.jpg)
+
+Both players are running Affinity so expect a few quick brutal games.
 
 Paselli won the die roll and elected to play first. He opened with only a [Tree of Tales](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tree+of+Tales). A second [Tree of Tales](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tree+of+Tales) followed and powered out an [Arcbound Ravager](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager). Gesiot matched with an AEther Vial and then an [Arcbound Worker](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Worker). Paselli went for a [Moriok Rigger](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moriok+Rigger) and Gesiot zipped out a Disciple through a Vial in response. The Ravager came in for only 1 damage as both players kept it cagey.
 

@@ -46,17 +46,23 @@ render_recovery: []
 ---
 *By Collin Jackson*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM5away.JPG)The feature match for round 5 pitted Australian Michael Doecke versus Satoshi Nakamura of Japan. Both players sat down sporting perfect 4-0 records. As usual, Satoshi also sat down sporting an amazing hat.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM5away.JPG)
+
+The feature match for round 5 pitted Australian Michael Doecke versus Satoshi Nakamura of Japan. Both players sat down sporting perfect 4-0 records. As usual, Satoshi also sat down sporting an amazing hat.
 
 Game one started out with a quick beatdown by Nakamura, who began attacking with Spineless Thug and Deepwood Ghoul. Doecke, who had mulliganed and was playing three colors, was having trouble getting permanents into play. He had three mountains and a plains, but his hand consisted of Mageta's Boon, Flowstone Crusher, Flameshot, and three blue cards.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM5doecke.JPG)Doecke played the Flameshot to kill the Thug and regenerate the Ghoul, but he still needed a land to play the Crusher. Meanwhile, Nakamura played Enslaved Horror and continued to attack. Doecke finally drew the land he needed, but by then it was too late. He played the Crusher and used it to block the Ghoul, and Nakamura used Steal Strength to even the two creatures out. Nakamura then regenerated the Ghoul and played another Thug. Doecke, at four life, conceded.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM5doecke.JPG)
+
+Doecke played the Flameshot to kill the Thug and regenerate the Ghoul, but he still needed a land to play the Crusher. Meanwhile, Nakamura played Enslaved Horror and continued to attack. Doecke finally drew the land he needed, but by then it was too late. He played the Crusher and used it to block the Ghoul, and Nakamura used Steal Strength to even the two creatures out. Nakamura then regenerated the Ghoul and played another Thug. Doecke, at four life, conceded.
 
 Nakamura had mana problems in the second game; he had numerous black cards in his hand but no swamps. He used his forests to play Snorting Gahr and Toymaker, but meanwhile Doecke had played Thermal Glider, Troubled Healer, and Flowstone Crusher. Nakamura helplessly chump-blocked to hold off the assault, but he didn't last for long. He died without ever seeing the swamp he needed.
 
 Doecke mulliganed in the third game, and was disappointed to see a hand of Veteran Brawlers, Rhystic Scrying, two mountains, and two plains. He decided not to risk another mulligan, however. He played the Veteran Brawlers as a blocker, and also got Seal of Removal into play.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/Satoshi.JPG)Nakamura, on the other hand, played Spineless Thug and Cateran Brute. He attacked with the Thug and used Steal Strength to trade with the Veteran Brawlers. Doecke, after some thought, used the Seal of Removal to put the Brawlers back into his hand after damage was assigned. Nakamura then used the Brute to get another Thug, then played Seal of Strength and Death Charmer.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/Satoshi.JPG)
+
+Nakamura, on the other hand, played Spineless Thug and Cateran Brute. He attacked with the Thug and used Steal Strength to trade with the Veteran Brawlers. Doecke, after some thought, used the Seal of Removal to put the Brawlers back into his hand after damage was assigned. Nakamura then used the Brute to get another Thug, then played Seal of Strength and Death Charmer.
 
 Doecke cast Saprazzan Breaker, hoping to use it to hold off Nakamura's trio of 2/2's. But Nakamura played Thrive on his three creatures and began to attack. The Thug, powered by the Seal of Strength, took out the Brawlers, and the Brute traded with the Breaker.
 

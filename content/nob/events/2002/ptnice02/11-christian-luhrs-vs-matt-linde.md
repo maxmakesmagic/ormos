@@ -186,7 +186,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a784.jpg)　先手の Linde は《巡視犬/Patrol Hound》、《ハイドロモルフの守護者/Hydromorph Guardian》、《ナントゥーコの信奉者》と 3 色のクリーチャーを綺麗に展開し、ビートダウンを開始。
+![](http://www.wizards.com/sideboard/images/ptnice02/a784.jpg)
+
+　先手の Linde は《巡視犬/Patrol Hound》、《ハイドロモルフの守護者/Hydromorph Guardian》、《ナントゥーコの信奉者》と 3 色のクリーチャーを綺麗に展開し、ビートダウンを開始。
 
 　マリガンまで考えた Luhrs はその通り展開が良くなく、《精励する農場労働者/Diligent Farmhand》を出すのが精一杯の手札。  
  　これブロックに使ってデッキを圧縮し、この場に対抗しうるカードを引きたい所であるが、土地ばかり引いてきてゲームにならない。  
@@ -196,7 +198,9 @@ Luhrs 0 - 1 Linde
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a785.jpg)　Luhrs が後手を選んだ事により、先手で始める Linde は素早い手つきで《献身的な世話人/Devoted Caretaker》、《ファンタトグ/Phantatog》と並て攻撃するが、 Luhrs が呼んだ 1 体の《日を浴びるルートワラ》で攻撃がガッチリ止められてしまう。
+![](http://www.wizards.com/sideboard/images/ptnice02/a785.jpg)
+
+　Luhrs が後手を選んだ事により、先手で始める Linde は素早い手つきで《献身的な世話人/Devoted Caretaker》、《ファンタトグ/Phantatog》と並て攻撃するが、 Luhrs が呼んだ 1 体の《日を浴びるルートワラ》で攻撃がガッチリ止められてしまう。
 
 　じれる Linde 。  
  　だが、今、 Linde に出来る事と言えば《天使の壁/Angelic Wall》を出すぐらいである。
@@ -211,7 +215,9 @@ Luhrs 1 - 1 Linde
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a786.jpg)　お互い《のぞき見/Peek》を撃ち、手札がばればれの状態でゲームは始まるが、 Linde は《巡視犬》から《尊大なワーム/Arrogant Wurm》と続け、《幻影の仔/Phantom Whelp》しか呼べない Luhrs を踏み潰して行く。
+![](http://www.wizards.com/sideboard/images/ptnice02/a786.jpg)
+
+　お互い《のぞき見/Peek》を撃ち、手札がばればれの状態でゲームは始まるが、 Linde は《巡視犬》から《尊大なワーム/Arrogant Wurm》と続け、《幻影の仔/Phantom Whelp》しか呼べない Luhrs を踏み潰して行く。
 
 　 4 ターン目にして、危険な状況に入る Lihrs は先程の《のぞき見》で土地ばかりの手札を晒している。  
  　だが、 4 ターンも経っているので、Linde の知らないカードを Luhrs は結構引いているが、実はそれが全て島。

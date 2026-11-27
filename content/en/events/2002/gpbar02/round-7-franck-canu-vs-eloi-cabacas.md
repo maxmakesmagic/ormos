@@ -82,7 +82,9 @@ render_recovery:
   - Zombie Assassin
   occurrences: 35
 ---
-![](http://www.wizards.com/sideboard/images/gpbar02/a951.jpg)Night has struck Barcelona and with it a cold breeze to contrast with the sunny afternoon. We had the well-known Franck Canu, who is one of the best French players currently and Eloi Cabacas, who had a perfect 6-0 record having had no byes.
+![](http://www.wizards.com/sideboard/images/gpbar02/a951.jpg)
+
+Night has struck Barcelona and with it a cold breeze to contrast with the sunny afternoon. We had the well-known Franck Canu, who is one of the best French players currently and Eloi Cabacas, who had a perfect 6-0 record having had no byes.
 
 ### Game 1
 
@@ -108,7 +110,9 @@ Cabacas 1 – 1 Canu
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpbar02/a950.jpg)After some land drops Canu played his Mesmerian fiend taking once again a Faceless Butcher. He then played his Chatter of the Squirrel twice to start serving the Spanish. Cabacas played an Aven Windreader, which got three damage from Fiery Temper. With eleven minutes on the clock Canu was playing as fast as he could.
+![](http://www.wizards.com/sideboard/images/gpbar02/a950.jpg)
+
+After some land drops Canu played his Mesmerian fiend taking once again a Faceless Butcher. He then played his Chatter of the Squirrel twice to start serving the Spanish. Cabacas played an Aven Windreader, which got three damage from Fiery Temper. With eleven minutes on the clock Canu was playing as fast as he could.
 
 Eloi played a Hydromorphic Gull and Canu drew five cards off his Skeletal Scrying. Cabacas attacked with his flyer and dropped a Crypt Keeper. Canu attacked once again with his squirrels and when asked if he was done he shook his head as if saying that there were a lot of things coming. And so they did with Krosan Avenger, Krosan Restorer and Rootwalla. Cabacas was starting to worry.
 

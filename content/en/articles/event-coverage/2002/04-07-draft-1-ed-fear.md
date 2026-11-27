@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a934.jpg)Although Fear never earned a career Top 8, he was becoming a staple on the Pro Tour a year ago, with a string of solid finishes including a Top 16 placing at the World Championship. Then, at Pro Tour-Chicago, Fear was ejected from the tournament and subsequently suspended by the DCI for a year as he drew a card out of his sideboard.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a934.jpg)
+
+Although Fear never earned a career Top 8, he was becoming a staple on the Pro Tour a year ago, with a string of solid finishes including a Top 16 placing at the World Championship. Then, at Pro Tour-Chicago, Fear was ejected from the tournament and subsequently suspended by the DCI for a year as he drew a card out of his sideboard.
 
 Although Fear maintained his innocence, the DCI did not see it that way, sending him on a year long vacation away from competitive Magic. Now Fear is back, hoping to get back his status as a Pro Tour regular. Problem for him is that when the bye ratings for this season Grand Prix ran, he was still suspended. That means he would earn no byes in the three Grand Prix he played in – including this one. With no byes, Fear failed to advance to day 2 in the previous two Grand Prix – but this time around he managed a 5-1-1 finish after day 1, despite drawing a very mediocre sealed deck.
 

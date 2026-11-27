@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/698.jpg)In 2000 Pro Tour New York, Holland's Kamiel Cornelissen had to win one of his last two matches in order to break into the Top 8. However, he drew in both matches, and in the last one he was only one bitter turn away from winning. Now, he has made up for that. The Dutchman went 10-2-2 in 2000 Pro Tour Chicago and went into the playoff as the seventh seed. "It's great," Kamiel smiles. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/698.jpg)
+
+In 2000 Pro Tour New York, Holland's Kamiel Cornelissen had to win one of his last two matches in order to break into the Top 8. However, he drew in both matches, and in the last one he was only one bitter turn away from winning. Now, he has made up for that. The Dutchman went 10-2-2 in 2000 Pro Tour Chicago and went into the playoff as the seventh seed. "It's great," Kamiel smiles. 
 
 The 19-year old student from Anschede, Holland was one of two players who had perfect 7-0 records after the first day. His CounterRebel deck had worked to perfection, although Kamiel admitted that he had been a little lucky. "I played one mirror match, and it was a lot about luck and drawing the lands and the Rebel Informer," he says about the first day. 
 

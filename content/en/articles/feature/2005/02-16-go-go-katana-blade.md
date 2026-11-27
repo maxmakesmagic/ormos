@@ -68,7 +68,9 @@ render_recovery:
   - Decklist
   occurrences: 5
 ---
-[![](https://i.ormos.uk/5f/81/5f81086689ff5385363ffb6db4824a29d07eb16b8a085b9d632d2b4f6e4142c9.jpg)](/en/articles/event-coverage/undated/pro-tourphiladelphia-qualifying-season-extended-top-8-decklists)This week's PTQ Top 8 decks give us a great look at how the Extended format is continuing to evolve. Decks from the Top 8 of GP Boston that were not a part of the expected metagame -- decks like the first place Aluren deck and especially the new Temporary Solution deck -- are picking up adherents, with Ben Dempsey's creation especially taking top positions and even a slot.
+[![](https://i.ormos.uk/5f/81/5f81086689ff5385363ffb6db4824a29d07eb16b8a085b9d632d2b4f6e4142c9.jpg)](/en/articles/event-coverage/undated/pro-tourphiladelphia-qualifying-season-extended-top-8-decklists)
+
+This week's PTQ Top 8 decks give us a great look at how the Extended format is continuing to evolve. Decks from the Top 8 of GP Boston that were not a part of the expected metagame -- decks like the first place Aluren deck and especially the new Temporary Solution deck -- are picking up adherents, with Ben Dempsey's creation especially taking top positions and even a slot.
 
 But in the rich tapestry of the Extended format, a format with maybe twenty distinct, viable, choices, two things stand out to me this week like nothing else.
 

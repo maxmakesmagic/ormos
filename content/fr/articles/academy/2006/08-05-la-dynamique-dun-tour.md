@@ -260,7 +260,9 @@ C’est tout pour aujourd’hui les gars. La semaine prochaine nous discuterons 
 
 ### Lecture complémentaire
 
-![](https://i.ormos.uk/30/df/30dfdf111ccbfefe03e4deefc6db1ec32064cedeaba34f7a4540e2611565d434.jpg)Peu de choses peuvent gonfler une pile comme une bataille de contre-sorts. Pour ceux qui veulent voir une pile gigantesque, intéressez-vous à celle qui se trouve à droite et qui résulte d’une partie au cours du Championnat allemand de 2003.
+![](https://i.ormos.uk/30/df/30dfdf111ccbfefe03e4deefc6db1ec32064cedeaba34f7a4540e2611565d434.jpg)
+
+Peu de choses peuvent gonfler une pile comme une bataille de contre-sorts. Pour ceux qui veulent voir une pile gigantesque, intéressez-vous à celle qui se trouve à droite et qui résulte d’une partie au cours du Championnat allemand de 2003.
 
 Glissement astral est un des plus célèbres decks de fin de tour, qui a permis à Osyp "Joe Black" Lebedowicz de remporter un tournoi professionnel. Voici un match [de Glissement astral lors de la 13ème ronde du Pro Tour Venise](/en/events/2003/ptven03/round-13-gustavo-chapela-vs-osyp-lebedowicz) où les deux joueurs ont gonflé des piles et utilisé des déclencheurs de fin de tour. Cela vous montre le genre de choses dont vous serez capables quand vous vous serez familiarisés avec la structure d’un tour.
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a746.jpg)Mikko is the Cinderella story in this Pro Tour. He came out of nowhere to reach the first draft table for the crucial last three rounds. Not a bad weekend for the Finnish player. He started his feature match with a feature for every rookie: the playmat tutorial by Mark Rosewater.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a746.jpg)
+
+Mikko is the Cinderella story in this Pro Tour. He came out of nowhere to reach the first draft table for the crucial last three rounds. Not a bad weekend for the Finnish player. He started his feature match with a feature for every rookie: the playmat tutorial by Mark Rosewater.
 
 Denmark's Svend Geertsen will forever be remembered as the very young player who turned Stompy in a legendary deck with his performance at Worlds 1997. No matter how many great results he piled after that - he had another two Pro Tour Top 8's - he will always be the Stompy guy and one of the nicest players in the circuit.
 
@@ -77,7 +79,9 @@ Svend 1-0 Mikko.
 
 Mikko started things with [Cephalid Scout](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cephalid+Scout) before Geertsen found [Basking Rootwalla](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla). On the next turn he played Elvish Lyrist and [Reckless Charge](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reckless+Charge) to start the Red Zone trips.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a748.jpg)The Scout ate up a land but Mikko dropped a [Cartographer](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cartographer) to recover it. The little green creature persuaded Geertsen to sit back and drop [Werebear](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear) instead of attacking.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a748.jpg)
+
+The Scout ate up a land but Mikko dropped a [Cartographer](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cartographer) to recover it. The little green creature persuaded Geertsen to sit back and drop [Werebear](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear) instead of attacking.
 
 When he tried to play [Nantuko Disciple](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Disciple) Punakallio was ready: he used [Rites of Refusal](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rites+of+Refusal) to counter it. [Rites of Spring](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rites+of+Spring) brought up a [Plains](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains) that made Geertsen raise his eyebrows.
 
@@ -87,7 +91,9 @@ The free swing brought Mikko to ten. He played [Krosan Avenger](https://web.arch
 
 Although the Avenger gave Punakallio a stellar blocker it also tied up his mana. While he tried to balance things out Geertsen played creature after creature. Punakallio [Repel](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repel)led one of them and played [Obsessive Search](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Obsessive+Search) to find [Aquamoeba](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba).
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a747.jpg)[Centaur Veteran](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Veteran) and the twice casted [Metamorphic Wurm](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metamorphic+Wurm) gave Svend a five to three creature advantage but he seemed afraid of the Finnish's massive amounts of bounce.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a747.jpg)
+
+[Centaur Veteran](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Veteran) and the twice casted [Metamorphic Wurm](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metamorphic+Wurm) gave Svend a five to three creature advantage but he seemed afraid of the Finnish's massive amounts of bounce.
 
 Indeed Mikko had [Turbulent Dreams](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Turbulent+Dreams) in hand. Between keeping cards in hand, mana for that and potentially regenerating the Avenger Punakallio was having a hard time developing his game.
 

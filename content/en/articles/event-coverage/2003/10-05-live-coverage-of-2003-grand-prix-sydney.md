@@ -60,7 +60,9 @@ archive_source:
   sha256: 19cdf3731106084a146c67808b1a78bd39214a4632be4c9399376bde08d3cc96
 render_recovery: []
 ---
-![Centrepoint Tower, home of Grand Prix Sydney 2003](https://i.ormos.uk/04/15/041572b9ebdb4e517be3bf4ca573f3d4b748ecdb9a895c13e40ec9a007fd940a.jpg)There’s no denying that Magic in Australia is on the rise, with GP Sydney 2003 now holding the record for the largest number of competitors in an Australian GP. A very healthy combination of foreign players and the ever-present locals have combined to make a field of 274 players. Located in the same venue as the previous GP Sydney, many players will be hoping that the tower will remain lucky for them as they crack open their sealed deck, whilst others will be praying that this new tournament will erase any old misfortunes. With *Mirrodin* only a few weeks old it should prove interesting to see which colour and card combinations work best together, so keep checking back here to see how the standings progress as play gets underway on the first day of the Sydney Grand Prix!
+![Centrepoint Tower, home of Grand Prix Sydney 2003](https://i.ormos.uk/04/15/041572b9ebdb4e517be3bf4ca573f3d4b748ecdb9a895c13e40ec9a007fd940a.jpg)
+
+There’s no denying that Magic in Australia is on the rise, with GP Sydney 2003 now holding the record for the largest number of competitors in an Australian GP. A very healthy combination of foreign players and the ever-present locals have combined to make a field of 274 players. Located in the same venue as the previous GP Sydney, many players will be hoping that the tower will remain lucky for them as they crack open their sealed deck, whilst others will be praying that this new tournament will erase any old misfortunes. With *Mirrodin* only a few weeks old it should prove interesting to see which colour and card combinations work best together, so keep checking back here to see how the standings progress as play gets underway on the first day of the Sydney Grand Prix!
 
   
   

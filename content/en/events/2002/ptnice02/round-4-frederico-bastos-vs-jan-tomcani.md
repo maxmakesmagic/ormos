@@ -142,7 +142,9 @@ render_recovery:
   - Recoup
   occurrences: 144
 ---
-![](https://i.ormos.uk/bd/17/bd179be56c1cf881994c2a0aee28ccb7bbfee30a4313d831b14051865647c38d.jpg)How the mighty have fallen. Jan Tomcani was in the Top 8 in the last World Championship. Frederico Bastos has two Pro Tour Top 8 in his resume. Yet they are sitting at the bottom of the standings today. Jan with three points and Frederico having a nightmarish draft followed by three painful defeats.
+![](https://i.ormos.uk/bd/17/bd179be56c1cf881994c2a0aee28ccb7bbfee30a4313d831b14051865647c38d.jpg)
+
+How the mighty have fallen. Jan Tomcani was in the Top 8 in the last World Championship. Frederico Bastos has two Pro Tour Top 8 in his resume. Yet they are sitting at the bottom of the standings today. Jan with three points and Frederico having a nightmarish draft followed by three painful defeats.
 
 Apparently someone thought Portugal and Slovakia has a bitter rivalry so they hoped this match would provide some entertainment. Since the two countries are several hundred miles apart and separated by several other countries it is a bit hard.
 
@@ -194,7 +196,9 @@ Jan 1-0 Frederico.
 
 Bastos had to think hard on his second turn Fiend and he ended up settling on a Peek, hoping Jan would miss a few land drops. He followed that up with Unhinge and Pardic Firecat before Tomcani found a blocker: Teroh's Faithful.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a924.jpg)The Portuguese dropped a Sadistic Hypnotist and sacrificed it along with the Firecat to empty Tomcani's hand. But the Slovakian wasn't about to go down without a fight.
+![](http://www.wizards.com/sideboard/images/ptnice02/a924.jpg)
+
+The Portuguese dropped a Sadistic Hypnotist and sacrificed it along with the Firecat to empty Tomcani's hand. But the Slovakian wasn't about to go down without a fight.
 
 He found a Deep Analysis and an Obsessive Search to refill his hand. A second Fiend from Bastos took out an Elephant Ambush before Tomcani could drop a Mystic Visionary.
 
@@ -234,7 +238,9 @@ Still he brought it down with his Zombie Assassin. The silent Tomcani used Obses
 
 The Portuguese finally found his Sadistic Hypnotist, just as time was called and used it to remove Tomcani's entire hand.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a922.jpg)Frederico: "I don't think I can win this one. Can you?"
+![](http://www.wizards.com/sideboard/images/ptnice02/a922.jpg)
+
+Frederico: "I don't think I can win this one. Can you?"
 
 Indeed the two huge walls of creatures staring at each other seemed something out of a very wicked Mark Rosewater puzzle. They went through the five extra turns very carefully, knowing a simple mistake could cost them the match.
 

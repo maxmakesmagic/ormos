@@ -44,7 +44,9 @@ archive_source:
   sha256: 955fe0888c5472c1eb6536216abd41ba8b9cb590c6435d85557211535dcaeebf
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natcan03/a965.jpg)Both Steve Cassell and Elijah Pollock make winning look easy. They breezed through the first three rounds of Standard with perfect records (though Pollock is quick to call his deck "terrible"), and are a little uneasy about switching to limited while on a roll. Cassell hit the public eye with his performance at Grand Prix - Milwaukee, where he fell in the quarters to eventual champion Eric "Danger" Taylor. Pollock has been drowning in success since teaming up with Steven Wolfman and David Rood to form 2020. Their finals appearances at Boston and the Venice Masters have earned him a lot of money.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natcan03/a965.jpg)
+
+Both Steve Cassell and Elijah Pollock make winning look easy. They breezed through the first three rounds of Standard with perfect records (though Pollock is quick to call his deck "terrible"), and are a little uneasy about switching to limited while on a roll. Cassell hit the public eye with his performance at Grand Prix - Milwaukee, where he fell in the quarters to eventual champion Eric "Danger" Taylor. Pollock has been drowning in success since teaming up with Steven Wolfman and David Rood to form 2020. Their finals appearances at Boston and the Venice Masters have earned him a lot of money.
 
 ### Game 1
 
@@ -54,7 +56,9 @@ Pollock didn't have a lot of action, and the reprieve of the Buzzard gave Cassel
 
 Cassell held the ground with [Needleshot Gourna](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Needleshot+Gourna). Pollock used [Riptide Survivor](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Survivor) to turn two mountains into three cards, revealing his total manaflood. Cassell added a [Toxin Sliver](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Toxin+Sliver) and a morph to the board and passed it back. Pollock made a [Dragon Mage](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Mage), but the [Toxin Sliver](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Toxin+Sliver) was making trouble. Cassell tried another morph.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natcan03/a967.jpg)"You haven't laid a land yet?" – Elijah Pollock
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natcan03/a967.jpg)
+
+"You haven't laid a land yet?" – Elijah Pollock
 
 "Nope." – Steve Cassell
 
@@ -76,7 +80,9 @@ Cassell 1 – Pollock 1
 
 Cassell's draw for the final game was slow. Pollock was first on the board with a morph, and Cassell answered with [Undead Warchief](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Undead+Warchief). Pollock swung in, and after he went unblocked, had to spend his mana to flip up his Marauder to get rid of the potential problem. Cassell's [Noxious Ghoul](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noxious+Ghoul) briefly took over the board, only to be ousted by [Crested Craghorn](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crested+Craghorn).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natcan03/a968.jpg)[Needleshot Gourna](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Needleshot+Gourna) arrived on the scene and wasn't going anywhere. Pollock brought out a [Mercurial Kite](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mercurial+Kite). Cassell hit for three and made [Stonewood Invoker](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker) and morph with seven lands in play. Pollock thought at end of turn and then [Shock](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)ed the morph, which turned out to be [Towering Baloth](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Towering+Baloth). 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natcan03/a968.jpg)
+
+[Needleshot Gourna](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Needleshot+Gourna) arrived on the scene and wasn't going anywhere. Pollock brought out a [Mercurial Kite](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mercurial+Kite). Cassell hit for three and made [Stonewood Invoker](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker) and morph with seven lands in play. Pollock thought at end of turn and then [Shock](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)ed the morph, which turned out to be [Towering Baloth](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Towering+Baloth). 
 
 Pollock tapped out to summon a [Dragon Mage](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Mage). Cassell simply played his eighth land and hit with the Invoker, pumping it up after it went unblocked. Pollock had [Frozen Solid](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frozen+Solid) in hand to answer the problem on his next turn. He played a morph and gave it back to Cassell. He was out of gas.
 

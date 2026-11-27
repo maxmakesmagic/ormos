@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/103.jpg)Both Nicolai Herzog and Niklaus Hugi were undefeated before the very last round of the Standard portion. Last year, Nicolai took his Stompy deck to the top of the European Championship as well as to the top 8 of Worlds, and the Norwegian chose to go with Stompy this year as well. Niklaus, a rather unknown player, had gone with Replenish.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/103.jpg)
+
+Both Nicolai Herzog and Niklaus Hugi were undefeated before the very last round of the Standard portion. Last year, Nicolai took his Stompy deck to the top of the European Championship as well as to the top 8 of Worlds, and the Norwegian chose to go with Stompy this year as well. Niklaus, a rather unknown player, had gone with Replenish.
 
 The Norwegian won the die roll, and chose to play. Thinking that his opponent played Stompy, he kept a hand with few lands and lots of Albino Trolls and opened by playing forest, Pouncing Jaguar. Unfortunately, the Jaguar was very alone on the table for a long, long time. Niklaus played Adarkar Wastes, then Rishadan Port, and using the Port once to tap down Nicolai's Treetop Village, Nicolai had to attack during turn three and then say go.
 

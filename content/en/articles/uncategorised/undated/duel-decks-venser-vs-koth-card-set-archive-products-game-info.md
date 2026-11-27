@@ -47,7 +47,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/93/53/935331b758e28c253c27f85c6090d64ca7b37ec295115d3439d26142ac0a7418.png)Each card in these two decks is black-bordered and tournament legal. They were designed to be played right out of the box, with no deckbuilding required.
+![](https://i.ormos.uk/93/53/935331b758e28c253c27f85c6090d64ca7b37ec295115d3439d26142ac0a7418.png)
+
+Each card in these two decks is black-bordered and tournament legal. They were designed to be played right out of the box, with no deckbuilding required.
 
 **Set Name:** *Duel Decks: Venser vs. Koth*  
 **Number of Cards:** 120

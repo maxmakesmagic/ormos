@@ -116,7 +116,9 @@ Belin opened the first booster and picked a red card, the color that is consider
 
 Gomersall had the privilege to lay out the second booster and chose Spikeshot Goblin. Apparently he felt that red was strong enough to pick it right behind another red player. Gouin took Skyhunter Cub, Eigner got Reiver Demon, Meraghni signalled red with Haematite Golem, Remie picked Yotian Soldier, and finally an Aether Spellbomb for Ruel, Nim Shrieker for Gundersen, and Forge Armor for Belin, not mentioning random unplayables.
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a878.jpg)Booster three gave Gouin the powerful Loxodon Warhammer. Eigner signalled green with Deconstruct, Mergaghni picked Goblin War Wagon, Remie got the white mana Myr, Ruel took Terror, Gundersen got the black mana Myr, and Gomersall gave a green signal by picking chaff like Groffskithur and Journey of Discovery.
+![](http://www.wizards.com/sideboard/images/gplyo03/a878.jpg)
+
+Booster three gave Gouin the powerful Loxodon Warhammer. Eigner signalled green with Deconstruct, Mergaghni picked Goblin War Wagon, Remie got the white mana Myr, Ruel took Terror, Gundersen got the black mana Myr, and Gomersall gave a green signal by picking chaff like Groffskithur and Journey of Discovery.
 
 Time for booster four. Eigner opened a fairly weak booster and took One Dozen Eyes. Meraghni got Krark-Clan Grunt, Remie showed a preference for green with Fangren Hunter. Ruel took Pewter Golem and Gundersen picked Ogre Leadfoot.
 
@@ -137,7 +139,9 @@ Meraghni's booster featured Domineer and Duplicant, and he took the latter. That
 
 **Second round of boosters.** 
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a879.jpg)Belin started picking red, white, and black (an unusual choice since he had two black drafters on his right) cards. Gomersall stayed on red/green but didn't really get quality cards. Gouin stuck to the white and blue cards, with Crystal Shard and Somber Hoverguard as highlights. He also first-picked an off-color Shrapnel Blast in a weak booster. Eigner got some random creatures and an important Betrayal of Flesh. Meraghni picked 2 Shatter to go with an Isochron Scepter. He decided to go with green as his second color after picking Deconstruct. That upset Remie a bit because it meant that he would get less quality green cards out of the third booster round. Remie did get Duplicant, a couple fast creatures, and combat tricks like Roar of the Kha out of these boosters. Ruel got more black and blue cards, notably Looming Hoverguard. Gundersen picked up Consume Spirits number 2, 3 and 4. Always nice.
+![](http://www.wizards.com/sideboard/images/gplyo03/a879.jpg)
+
+Belin started picking red, white, and black (an unusual choice since he had two black drafters on his right) cards. Gomersall stayed on red/green but didn't really get quality cards. Gouin stuck to the white and blue cards, with Crystal Shard and Somber Hoverguard as highlights. He also first-picked an off-color Shrapnel Blast in a weak booster. Eigner got some random creatures and an important Betrayal of Flesh. Meraghni picked 2 Shatter to go with an Isochron Scepter. He decided to go with green as his second color after picking Deconstruct. That upset Remie a bit because it meant that he would get less quality green cards out of the third booster round. Remie did get Duplicant, a couple fast creatures, and combat tricks like Roar of the Kha out of these boosters. Ruel got more black and blue cards, notably Looming Hoverguard. Gundersen picked up Consume Spirits number 2, 3 and 4. Always nice.
 
 **Third round of boosters.** 
 

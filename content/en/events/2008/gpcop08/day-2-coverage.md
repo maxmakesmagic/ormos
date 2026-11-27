@@ -185,7 +185,9 @@ On the play Nicolay had a Secluded Glen tapped, while Robert led with a suspende
 
 Having missed Ancestral Visions on turn one, Potovin did have Bitterblossom, while van Medevoort, a current member of the Dutch national team (again), had Coldsteel Heart and a swift Aven Riftwatcher. The Dutchy tried for Mulldrifter, only to have it countered by Cryptic Command, bouncing Coldsteel Heart. 
 
-![](https://i.ormos.uk/c6/09/c609112d676e4197740140273d30d57de6ae10aaf2efb0172781d4081dba5852.jpg)A Reveillark from van Medevoort also met a Cryptic Command, while Potovin continued to amass an army of Faerie Rogues, each of whom was represented by a Raphael Levy Pro Player card. He brought a Murderous Redcap to join his team, wholeheartedly attacking his opponent’s life total, which was going up and down erratically thanks to that Aven Riftwatcher. Murderous Redcap is an interesting addition to Faeries, that has become maindeckable since red decks with Magus of the Moon have started dominating the format.
+![](https://i.ormos.uk/c6/09/c609112d676e4197740140273d30d57de6ae10aaf2efb0172781d4081dba5852.jpg)
+
+A Reveillark from van Medevoort also met a Cryptic Command, while Potovin continued to amass an army of Faerie Rogues, each of whom was represented by a Raphael Levy Pro Player card. He brought a Murderous Redcap to join his team, wholeheartedly attacking his opponent’s life total, which was going up and down erratically thanks to that Aven Riftwatcher. Murderous Redcap is an interesting addition to Faeries, that has become maindeckable since red decks with Magus of the Moon have started dominating the format.
 
 Potovin suspended an Ancestral Visions and passed with plenty of lands untapped. He had a Spellstutter Sprite ready to stop a Mulldrifter from his opponent, and seemed in total control of what should be a favourable matchup for his Faeries deck. He swung the following turn, and had a Murderous Redcap with which to deal the final points.
 
@@ -211,7 +213,9 @@ It was with a small smirk that he threw away his 6 card hand. While the previous
 
 Nicolay eventually took his five card hand, and was frustrated to miss land drops two and three, having to catch up on turn four with his Bitterblossom. By this time there was already an Aven Riftwatcher in play from van Medevoort, and he followed up with a Greater Gargadon suspend and an evoked Mulldrifter, which he got extra value from by sacrificing it to the Gargadon. 
 
-![](https://i.ormos.uk/e1/a0/e1a037f30f9a98583ceeb07b076ad1e64f46f8d0c33853310c0164a61c03f507.jpg)Van Medevoort tried a Body Double, with just a Mulldrifter as a target in his graveyard, but it was hit by a Rune Snag from Potovin. The Russian now had lands, but his stilted start had given the Dutchy the sort of time that would make the game a lot tougher for him. Van Medevoort resolved a Careful Consideration at the end of Potovin’s turn, discarding 3 mana sources. In his upkeep, he saw a Mistbind Clique from Potovin, who was keen to win some of his lost turns back. Robert floated mana and played Venser, Shaper Savant to bounce Bitterblossom, but otherwise passed. 
+![](https://i.ormos.uk/e1/a0/e1a037f30f9a98583ceeb07b076ad1e64f46f8d0c33853310c0164a61c03f507.jpg)
+
+Van Medevoort tried a Body Double, with just a Mulldrifter as a target in his graveyard, but it was hit by a Rune Snag from Potovin. The Russian now had lands, but his stilted start had given the Dutchy the sort of time that would make the game a lot tougher for him. Van Medevoort resolved a Careful Consideration at the end of Potovin’s turn, discarding 3 mana sources. In his upkeep, he saw a Mistbind Clique from Potovin, who was keen to win some of his lost turns back. Robert floated mana and played Venser, Shaper Savant to bounce Bitterblossom, but otherwise passed. 
 
 Attacks from Potovin made the life totals 15 to 13 in van Medevoort’s favour. Robert struck back with Venser, and tried a Reveillark, only to see it stopped by Cryptic Command. He suspended a second Greater Gargadon and passed. 
 
@@ -336,7 +340,9 @@ As we start day two here in Denmark, the tricks and combo of Reveillark seem poi
 
     *by Daniel Ullenius*
 
-![](http://www.wizards.com/sideboard/images/gpcop08/Grgur.jpg)The Croatian stallwart Grgur Petric Maretic and his Fairys was facing the awesome Tomoharu Saito of Japan and his winning red deck for the feature match of round 12.
+![](http://www.wizards.com/sideboard/images/gpcop08/Grgur.jpg)
+
+The Croatian stallwart Grgur Petric Maretic and his Fairys was facing the awesome Tomoharu Saito of Japan and his winning red deck for the feature match of round 12.
 
 Tomoharu Saito led off this tight matchup with a Figure of Destiny, a Blood Knight, and a Magus of the Moon on consecutive turns. His opponent had a Bitterblossom for defense, but no round 3 play, which might or might not be the Magus’ fault.
 
@@ -352,7 +358,9 @@ Grgur’s life was dropping fast, but that did not stop him from attacking with 
 
 Saito 1 – Grgur Petric Maretic 0
 
-![](https://i.ormos.uk/41/dd/41dd2234dc77dbb00f7493effa10b2659f044c552ab281e6a6a8d18b9e325943.jpg)Grgur led off with a mulligan while Saito thoroughly inspected his opening seven, which he decided to keep. 
+![](https://i.ormos.uk/41/dd/41dd2234dc77dbb00f7493effa10b2659f044c552ab281e6a6a8d18b9e325943.jpg)
+
+Grgur led off with a mulligan while Saito thoroughly inspected his opening seven, which he decided to keep. 
 
 Saito had the first play with a Figure of Destiny, while his opponent had a very unusual round two Bitterblossom. The Figure charged in for 2 and in his upkeep Grgur went to 17. Saito attacked with the Figure of Destiny and played a massive Ashenmoor Gouger, who ended up on top of his library thanks to Consign to Dream. Grgur was very busy and played a lifelinking Loxodon Warhammer and suspended a Ancestral Vision, putting him down to 0 untapped lands, 1 card in hand and 14 life to defend. Saito used this and attacked. No blocks from Grgur put Saito into thinking mode, but in the end he decieded to let the figure deal 2 points of damage and replayed the Ashenmoor Gouger.
 
@@ -533,7 +541,9 @@ Red Deck Wins - Grand Prix Copenhagen 08
 
 Both players entered the fray knowing that whoever would be the victor of the upcoming battle would prepare for top 8 magic. Nakamura relied on his Elves while Wafo-Tapa relies on his Quick 'n' toast.
 
-![](http://www.wizards.com/sideboard/images/gpcop08/Guillaume-Wafo-Tapa.jpg)Wafo-Tapa won the roll, and both players kept their openings.
+![](http://www.wizards.com/sideboard/images/gpcop08/Guillaume-Wafo-Tapa.jpg)
+
+Wafo-Tapa won the roll, and both players kept their openings.
 
 A Llanowar Elves from Nakamura was matched by a Wall of Roots, who got immediately got an Eyeblight Ending to the head. Nakamura played a Civic Wayfinder to help his mana, but it was met by a Rune Snag from Wafo-Tapa.
 
@@ -555,7 +565,9 @@ Nakamuras next attack of Vanquisher, Goyf and a Treetop Village took Wafo-Tapa t
 
 Nakamura started off with a Treetop Village and a Mutavault into Wren's Run Vanquisher while Wafo-Tapa played lands and accelerated his mana with a Coalition Relic. The Vanquisher got Condemed and Nakamura fetched a Swamp with Civic Wayfinder, while Wafo-Tapa did nothing.
 
-![](http://www.wizards.com/sideboard/images/gpcop08/Shuheu-R14.jpg)Nakamura tried for a 1/2 Tarmogoyf that got Cryptic Commanded, but he still got in an attack with Civic Wayfinder. A beast-making Garruk Wildspeaker on the next turn threatend to get ugly for Wafo-Tapa, who played a Teferi, Mage of Zhalfir at the end of Nakamuras turn. On his next turn, Nakamura tapped out, untapped two lands using Garruk, and played a criminally big Profane Command for 4, possibly returning his 4/5 Tarmogoyf and killing off Wafo-Tapa's Teferi. Wafo-Tapa however responded with a Mulldrifter which unfortuneally did not give him anything. Teferi went down and Nakamura charged in for 4 with Wayfinder and a Mutavault. Mulldrifter blocked the Mutavault, and Nakamura passed the turn, content with the situation.
+![](http://www.wizards.com/sideboard/images/gpcop08/Shuheu-R14.jpg)
+
+Nakamura tried for a 1/2 Tarmogoyf that got Cryptic Commanded, but he still got in an attack with Civic Wayfinder. A beast-making Garruk Wildspeaker on the next turn threatend to get ugly for Wafo-Tapa, who played a Teferi, Mage of Zhalfir at the end of Nakamuras turn. On his next turn, Nakamura tapped out, untapped two lands using Garruk, and played a criminally big Profane Command for 4, possibly returning his 4/5 Tarmogoyf and killing off Wafo-Tapa's Teferi. Wafo-Tapa however responded with a Mulldrifter which unfortuneally did not give him anything. Teferi went down and Nakamura charged in for 4 with Wayfinder and a Mutavault. Mulldrifter blocked the Mutavault, and Nakamura passed the turn, content with the situation.
 
 Wafo-Tapa first played a Wall of Roots, and then the card-drawing machine named Careful Consideration, which got him double Wall of Roots. This did not stop the aggressive Nakamura from attacking with two Treetop Village, Tarmogoyf, a 3/3 Beast-token and Civic Wayfinder which took his opponent to 6. 
 

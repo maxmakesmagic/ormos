@@ -323,11 +323,15 @@ With fourteen rounds in the ledger here were only two rounds of Swiss left unacc
 
 Guillaume Wafo-Tapa vs. Shuhei Nakamura
 
-![](https://i.ormos.uk/b8/ab/b8abc684103ab6f4c2de26d33a46bb1f8ac47d50389db6fa65d2cde245912728.jpg)Shuhei Nakamura, the lead horse in the race, was facing off against Pro Tour Yokohama champion Guillaume Wafo-Tapa. Shuhei was playing host to Guillaume this weekend by letting the French player stay at his home. That wasn’t buying him any advantage in this match-up though as the notoriously card hungry Wafo-Tapa whipped out old school classics like Gifts and Necro – suffixed by ‘of the Gargantuan’ and ‘genesis’ respectively -- in Game 1 along with a Wrath-like Jund Charm to put the potency into the new Necro. 
+![](https://i.ormos.uk/b8/ab/b8abc684103ab6f4c2de26d33a46bb1f8ac47d50389db6fa65d2cde245912728.jpg)
+
+Shuhei Nakamura, the lead horse in the race, was facing off against Pro Tour Yokohama champion Guillaume Wafo-Tapa. Shuhei was playing host to Guillaume this weekend by letting the French player stay at his home. That wasn’t buying him any advantage in this match-up though as the notoriously card hungry Wafo-Tapa whipped out old school classics like Gifts and Necro – suffixed by ‘of the Gargantuan’ and ‘genesis’ respectively -- in Game 1 along with a Wrath-like Jund Charm to put the potency into the new Necro. 
 
 In Game 2 there was nothing but card advantage engines in hand for the French player. He cycled a pair of Ridge Rannets over the first two or three turns and then played a pair of Carrion Thrash that threatened to get them back if Shuhei could even kill them. Plus his hand was chock full of two-for-ones; Branching Bolt, Resounding Thunder, and Blightning.
 
-![](https://i.ormos.uk/dd/38/dd3855d070544c1fc4ef3a35d7dbccde3ba64afb29de4a2a1f498127a7d614b6.jpg)Shuhei deathtouched one Thrash with Kederekt Creeper and GWT grew back a cycler and played Mosstodon. With GWT tapped out, Shuhei Grixis Charmed the other Thrash. He then used Blister Beetle and Bone Splinters to take out the red cycler but GWT had the mana to cycle his Thunder and Shuhei slumped to the table.
+![](https://i.ormos.uk/dd/38/dd3855d070544c1fc4ef3a35d7dbccde3ba64afb29de4a2a1f498127a7d614b6.jpg)
+
+Shuhei deathtouched one Thrash with Kederekt Creeper and GWT grew back a cycler and played Mosstodon. With GWT tapped out, Shuhei Grixis Charmed the other Thrash. He then used Blister Beetle and Bone Splinters to take out the red cycler but GWT had the mana to cycle his Thunder and Shuhei slumped to the table.
 
 “Good luck in the next draft,” said Shuhei who could only hope for a Top 16 finish at this point. 
 
@@ -335,7 +339,9 @@ In Game 2 there was nothing but card advantage engines in hand for the French pl
 
 Olivier Ruel vs. Makihito Mihara 
 
-![](https://i.ormos.uk/f1/67/f167d4b23ee9f3bd96ad5be278a5b1452c78e6b9885bbcaf51f941876f503050.jpg)With Shuhei falling short of the final table that meant there was room for Olivier Ruel to close some ground on him, the absent LSV, and the Day One-departed Saito. Olivier had his hands full with another champion – a former World Champion.
+![](https://i.ormos.uk/f1/67/f167d4b23ee9f3bd96ad5be278a5b1452c78e6b9885bbcaf51f941876f503050.jpg)
+
+With Shuhei falling short of the final table that meant there was room for Olivier Ruel to close some ground on him, the absent LSV, and the Day One-departed Saito. Olivier had his hands full with another champion – a former World Champion.
 
 In his last draft Olivier had drafted a life gain deck with two Kiss of the Amesha, Rhox War Monk, and Battlegrace Angel but he had nothing on his opponent this round, former World Champion Makihito Mihara, who is my pick to win the whole tournament –
 
@@ -358,10 +364,14 @@ Don’t think for a moment that Olivier is getting jaded after all these years. 
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/e1/19/e1198d8a152276e73a3b072967720aadf05c36ab6ff0b4c49a59886fc95a74a5.jpg)Six spots for the Top 8 of Grand Prix Okayama were settled over handshakes in the last round with Chikara Nakajima, Daisuke Muramatsu, Olivier Ruel, Akimasa Yamamoto, Guillaume Wafo-Tapa, and Tsuyosi Ikeda drawing into the final draft table. Former World Champion Makihito Mihara – my (re)pick to win it all – was not able to draw and to face off against the lesser-pointed Kubo Ryoutarou. 
+![](https://i.ormos.uk/e1/19/e1198d8a152276e73a3b072967720aadf05c36ab6ff0b4c49a59886fc95a74a5.jpg)
+
+Six spots for the Top 8 of Grand Prix Okayama were settled over handshakes in the last round with Chikara Nakajima, Daisuke Muramatsu, Olivier Ruel, Akimasa Yamamoto, Guillaume Wafo-Tapa, and Tsuyosi Ikeda drawing into the final draft table. Former World Champion Makihito Mihara – my (re)pick to win it all – was not able to draw and to face off against the lesser-pointed Kubo Ryoutarou. 
 
   
 
-![](https://i.ormos.uk/53/f6/53f65e9a86b18378265adff41fd087feec276ef35e5c6a3cb337c3416c3c865c.jpg)Kubo was playing Jund but it was not the card advantage fueled version of that Shard Guillaume was showing off a round ago. This was a much more straightforward smash and burn version. All the card advantage in this match belonged to the champ who – already up a game – had two Drumhunters going with a Wooly Thoctar and – after it choked on a Bone Splinters – Mosstodon. Mihara had fallen as low as five after a cycled Resounding Thunder but had been drawing two extra cards a turn for some time. Kubo had one turn to force Game 3 before Mihara attacked for 46 points of tramply, lifelinked action coutesy of Titanic Ultimatum. 
+![](https://i.ormos.uk/53/f6/53f65e9a86b18378265adff41fd087feec276ef35e5c6a3cb337c3416c3c865c.jpg)
+
+Kubo was playing Jund but it was not the card advantage fueled version of that Shard Guillaume was showing off a round ago. This was a much more straightforward smash and burn version. All the card advantage in this match belonged to the champ who – already up a game – had two Drumhunters going with a Wooly Thoctar and – after it choked on a Bone Splinters – Mosstodon. Mihara had fallen as low as five after a cycled Resounding Thunder but had been drawing two extra cards a turn for some time. Kubo had one turn to force Game 3 before Mihara attacked for 46 points of tramply, lifelinked action coutesy of Titanic Ultimatum. 
 
 If you are going to go to the Top 8 you might as well go there big. There was only one spot left undetermined and that could come from any of a handful of 31 point matches.

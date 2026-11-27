@@ -1791,7 +1791,9 @@ render_recovery:
 
 今回PTQ からベスト4 まで勝ち上がってきたOriginal Slackers 。3 人ともノルウェーに在住しているが全員国籍が違うらしくInternational で登録されている。チーム体系的にはGP ワルシャワで優勝しているエースOsterberg のワンマンに近い形らしい。
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a794.jpg)対するZabutan Nemonaut はGary Wise 、Eugene Harvey 、Mike Turianの名だたる3人。その中でもGary Wise は今回でチームプロツアー3 回目の日曜出勤となったわけだが不安点があるとするならば前回のプロツアーで無名だった2020 相手に準決勝で負けてしまったこと。ジンクスを破ることはできるのか？
+![](http://www.wizards.com/sideboard/images/ptbos03/a794.jpg)
+
+対するZabutan Nemonaut はGary Wise 、Eugene Harvey 、Mike Turianの名だたる3人。その中でもGary Wise は今回でチームプロツアー3 回目の日曜出勤となったわけだが不安点があるとするならば前回のプロツアーで無名だった2020 相手に準決勝で負けてしまったこと。ジンクスを破ることはできるのか？
 
 デッキ的には  
  Zabutan Nemonaut  
@@ -1813,7 +1815,9 @@ Osterbergは《平和な心/Pacifism》3 枚、《エイヴンの救い手》2�
 
 Harvey の先行で《エイヴンの遠見/Aven Farseer》からスタート。
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a792.jpg)Osterberg は変異、変異と展開し対するHarvey は変異、《冷静なチャンピオン/Stoic Champion》と出してオールアタック。どちらも変異でブロックしたOsterberg は1 枚を《ゾンビの殺し屋》に表返ししてHarvey の変異は《エイヴンの解放者/Aven Liberator》に変身。この戦闘によりOsterberg のライフは10 となる。
+![](http://www.wizards.com/sideboard/images/ptbos03/a792.jpg)
+
+Osterberg は変異、変異と展開し対するHarvey は変異、《冷静なチャンピオン/Stoic Champion》と出してオールアタック。どちらも変異でブロックしたOsterberg は1 枚を《ゾンビの殺し屋》に表返ししてHarvey の変異は《エイヴンの解放者/Aven Liberator》に変身。この戦闘によりOsterberg のライフは10 となる。
 
 《冠毛の岩角獣/Crested Craghorn》と《エイヴンの遠見》を相打ちさせられたHarvey はそれならばと《エイヴンの解放者》に《ドラゴンの鱗》を着けて攻め立てたためOsterberg のライフは4 まで落ち込むのだが《急降下爆撃兵/Dive Bomber》、《エイヴンの救い手》と連続で飛行をキャストでき、ついにHarvey の攻撃が止まる。
 

@@ -77,7 +77,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-[![Headlong_Rush](https://i.ormos.uk/8a/31/8a31beac21beef046de62dfa7f24c76d64ccf3bc796a8c7ac46eb930067bcd01.jpg)](https://web.archive.org/web/20070609000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Headlong%2BRush)**Hello, and welcome to Magic Academy!** This week we'll be looking at the most common and effective strategies used against the aggro decktype.
+[![Headlong_Rush](https://i.ormos.uk/8a/31/8a31beac21beef046de62dfa7f24c76d64ccf3bc796a8c7ac46eb930067bcd01.jpg)](https://web.archive.org/web/20070609000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Headlong%2BRush)
+
+**Hello, and welcome to Magic Academy!** This week we'll be looking at the most common and effective strategies used against the aggro decktype.
 
 An aggro deck is one that attempts to race its opponent from 20 to 0, mostly shirking inevitability and attrition. Creature-based decks are usually aggro decks.
 

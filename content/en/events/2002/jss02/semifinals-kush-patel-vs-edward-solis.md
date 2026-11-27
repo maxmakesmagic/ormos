@@ -53,7 +53,9 @@ archive_source:
   sha256: 0f7629afacc39a430cb7c5459f7d5a03c2a79b3dd7ef34e946e7f68ae596b39d
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a718.jpg)Kush Patel, a sixteen-year-old from Massachusetts, gets the task of trying to stop young Edward Solis's red/green beatdown deck. I witnessed Solis demolish his quarterfinal opponent in three games, and now we will get to see if red/green is indeed the foil of the format's marquee deck, Psychatog.
+![](http://www.wizards.com/sideboard/images/usnat02/a718.jpg)
+
+Kush Patel, a sixteen-year-old from Massachusetts, gets the task of trying to stop young Edward Solis's red/green beatdown deck. I witnessed Solis demolish his quarterfinal opponent in three games, and now we will get to see if red/green is indeed the foil of the format's marquee deck, Psychatog.
 
 Patel played first, but Solis put out the first threat, a Baskin Rootwalla. After Firebolting Patel's turn-2 Nightscape Familiar, Solis entered the Red Zone for 1.
 
@@ -79,7 +81,9 @@ With his back against the wall, Solis would need some above-average draws to com
 
 Solis started game 3 with a Grim Lavamacer and Reckless Charged it over on turn 2. He then Volcanic Hammered Patel's Nightscape Familiar, but that gave Patel a card in his graveyard, allowing him to Ghastly Demise the Lavamancer.
 
-![](http://www.wizards.com/sideboard/images/usnat02/a721.jpg)Solis cast and attacked with some new guys, like Yavimaya Barbarian and Spellbane Centaur. They took a few points off Patel's life, but they were both Demised in turn. Solis made a Call token, but that was Recoiled. He looked upset at how much spot removal Patel had drawn. His next attempt at Spellbane Centaur was countered, but a second Lavamancer resolved.
+![](http://www.wizards.com/sideboard/images/usnat02/a721.jpg)
+
+Solis cast and attacked with some new guys, like Yavimaya Barbarian and Spellbane Centaur. They took a few points off Patel's life, but they were both Demised in turn. Solis made a Call token, but that was Recoiled. He looked upset at how much spot removal Patel had drawn. His next attempt at Spellbane Centaur was countered, but a second Lavamancer resolved.
 
 Patel, who was struggling with land, finally drew a Psychatog and gummed up the ground. But Solis's Lavamancer was in shoot-mode at Patel was gradually plinked to 8... Atog attacked, and the Lavamancer plinked Patel to 6. Solis tapped his last three lands and cast Urza's Rage.
 

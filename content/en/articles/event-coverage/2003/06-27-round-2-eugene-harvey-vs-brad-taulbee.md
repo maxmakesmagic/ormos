@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/5f/44/5f44a6417b888145ad6cc770b6bdfc447068cad3cc204b53e91a19d124fe48e7.jpg)When you lose in the first round of a tournament—any tournament—it is natural to hope for a pairing against a soft opponent. If that was running through Maryland native Brad Taulbee's mind as he sauntered over to look at the round two pairings he was going to be in for a surprise. Waiting for him in the feature match area was one Eugene Harvey. Before people were asking Joe Black for dating advice, Eugene was the man that put TOGIT on the map. A member of the US National team two years ago, Eugene is the reigning National Champ for about 72 more hours and one of the most formidable opponents you can face in this event.
+![](https://i.ormos.uk/5f/44/5f44a6417b888145ad6cc770b6bdfc447068cad3cc204b53e91a19d124fe48e7.jpg)
+
+When you lose in the first round of a tournament—any tournament—it is natural to hope for a pairing against a soft opponent. If that was running through Maryland native Brad Taulbee's mind as he sauntered over to look at the round two pairings he was going to be in for a surprise. Waiting for him in the feature match area was one Eugene Harvey. Before people were asking Joe Black for dating advice, Eugene was the man that put TOGIT on the map. A member of the US National team two years ago, Eugene is the reigning National Champ for about 72 more hours and one of the most formidable opponents you can face in this event.
 
 ### Game 1
 
@@ -67,7 +69,9 @@ Eugene – 0 Brad – 1
 
 Game 2 
 
-![](https://i.ormos.uk/40/bb/40bb13391035bab03553d5321315a985a04bdc2e842ab1f7a46b62b0715c99ba.jpg)If you have ever wondered how R&D designs cards, Mark Rosewater was watching the match and was inspired to design a card by some sequence of play in Game 1.
+![](https://i.ormos.uk/40/bb/40bb13391035bab03553d5321315a985a04bdc2e842ab1f7a46b62b0715c99ba.jpg)
+
+If you have ever wondered how R&D designs cards, Mark Rosewater was watching the match and was inspired to design a card by some sequence of play in Game 1.
 
 One of the problems with playing on a highly visible team like the CMU/TOGIT combine is that opponent's have multiple opportunities to scope out a team's deck. "I played against the same deck in round one—Berkowitz, was it? It's the same deck I assume."
 
@@ -83,7 +87,9 @@ Eugene – 1 Brad – 1
 
 ### Game 3
 
-![](https://i.ormos.uk/72/e6/72e65590d981b7fae797a78b601c7b05c09b3a3ff76c5b8c3b00ffc0c5a8d85b.jpg)There were no mulligans this time around and Eugene was disgusted when his [Grim Lavamancer](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Lavamancer) was spiked. His next play was a [Wild Mongrel](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) and that was [Smother](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother)ed at end of turn. 
+![](https://i.ormos.uk/72/e6/72e65590d981b7fae797a78b601c7b05c09b3a3ff76c5b8c3b00ffc0c5a8d85b.jpg)
+
+There were no mulligans this time around and Eugene was disgusted when his [Grim Lavamancer](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Lavamancer) was spiked. His next play was a [Wild Mongrel](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) and that was [Smother](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother)ed at end of turn. 
 
 Brad cast [Deep Analysis](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) on turn four and Eugene came back with [Phantom Centaur](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Centaur). Brad had the option of Edicting or Persuading and chose the latter, gentler option. Eugene seemed displeased and tried to regroup with a [Wild Mongrel](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) and a [Firebolt](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) make his stolen Centaur smaller. Brad was still holding the Edict and cleared the way. He [Smother](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother)ed Eugene's [Call of the Herd](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd) token and played a Shadowmage on the next turn.
 

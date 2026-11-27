@@ -423,7 +423,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/bb/ef/bbef9b84920d18ae53f7144ec5441f42eb578d8a9b1355014882eae016e960f4.jpg)As soon as I got to the feature match table, I saw two Euro in coins on each side. Walls explained, "It's the split. It's all I could get out of him. He upped it to two this morning, it was at one." Nieminen is obviously very confident, but was nice enough to offer two Euros to Walls as a consolation prize.
+![](https://i.ormos.uk/bb/ef/bbef9b84920d18ae53f7144ec5441f42eb578d8a9b1355014882eae016e960f4.jpg)
+
+As soon as I got to the feature match table, I saw two Euro in coins on each side. Walls explained, "It's the split. It's all I could get out of him. He upped it to two this morning, it was at one." Nieminen is obviously very confident, but was nice enough to offer two Euros to Walls as a consolation prize.
 
 ### Game 1
 
@@ -450,7 +452,9 @@ Nieminen- 1 Walls- 0
 
 ### Game 2
 
-![](https://i.ormos.uk/bf/9d/bf9d2c4d496d757b16e3d88e713e564ee4554ee25ad95f174a8b22c1cb88f242.jpg)Nieminen played Compulsion, and Walls played a face-down Exalted Angel. Nieminen cycled a card through Compulsion and missed his third land drop, which got some excitement out of Walls. He flipped over Exalted Angel, and attacked for four. Nieminen found the lands he needed with the help of Compulsion, and Walls cycled Decree of Justice for two on end step- the spotter was out of Soldier tokens since all the other decks were running the Decree as well, so Walls had to use beads. The next attack was nullified by Moment's Peace, and Nieminen tapped out to activate Compulsion on end step. Before he could do anything else, Walls cycled Decree of Annihilation, and with Exalted Angel and two 1/1's on the landless board, won easily.
+![](https://i.ormos.uk/bf/9d/bf9d2c4d496d757b16e3d88e713e564ee4554ee25ad95f174a8b22c1cb88f242.jpg)
+
+Nieminen played Compulsion, and Walls played a face-down Exalted Angel. Nieminen cycled a card through Compulsion and missed his third land drop, which got some excitement out of Walls. He flipped over Exalted Angel, and attacked for four. Nieminen found the lands he needed with the help of Compulsion, and Walls cycled Decree of Justice for two on end step- the spotter was out of Soldier tokens since all the other decks were running the Decree as well, so Walls had to use beads. The next attack was nullified by Moment's Peace, and Nieminen tapped out to activate Compulsion on end step. Before he could do anything else, Walls cycled Decree of Annihilation, and with Exalted Angel and two 1/1's on the landless board, won easily.
 
 Nieminen- 1 Walls- 1
 
@@ -496,7 +500,9 @@ Nieminen- 2 Walls- 2
 
 ### Game 5
 
-![](https://i.ormos.uk/c5/28/c528dcaef5031fdaf5654ec3a32bcfc87ea62a8b6e658bfd59824e5621d937ad.jpg)A second turn Compulsion was matched by Lightning Rift. On turn three, Nieminen sacrificed Krosan Verge, then untapped and cast Concentrate. Walls used the opportunity to cast Burning Wish, getting Overmaster. Walls would need to wait a few turns until he could get a spell to force through with it, but in the meanwhile, Nieminen was setting up with Compulsion. Nieminen played Mirari's Wake, and Walls decided to go for it.
+![](https://i.ormos.uk/c5/28/c528dcaef5031fdaf5654ec3a32bcfc87ea62a8b6e658bfd59824e5621d937ad.jpg)
+
+A second turn Compulsion was matched by Lightning Rift. On turn three, Nieminen sacrificed Krosan Verge, then untapped and cast Concentrate. Walls used the opportunity to cast Burning Wish, getting Overmaster. Walls would need to wait a few turns until he could get a spell to force through with it, but in the meanwhile, Nieminen was setting up with Compulsion. Nieminen played Mirari's Wake, and Walls decided to go for it.
 
 He cast Overmaster, cycled Eternal Dragon to deal two damage, then cast Cleansing Meditation. This was devastating, and destroyed Compulsion and Wake. Nieminen responded by discarding two cards before it went away, and although Walls lost his Rift in the exchange, it set the Finn back significantly. Still, Nieminen had plenty of resources in his hand. He cast Deep Analysis to gain more of an advantage, and said go. 
 

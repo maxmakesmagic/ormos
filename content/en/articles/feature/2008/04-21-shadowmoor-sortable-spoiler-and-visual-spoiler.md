@@ -61,7 +61,9 @@ archive_source:
   sha256: f6c65b3b747ffb0d3cc3acd7ae5aa370aef9cee8fcba76d8332bd965039ee10f
 render_recovery: []
 ---
-![](https://i.ormos.uk/cb/fe/cbfec0f4888ee5333278787edab59251aed19f30259e35bac2e50f62791246fc.jpg)As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for the latest set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Shadowmoor*. And we've got a new feature: a complete visual spoiler for the entire set, in each of the nine languages it was printed in! Enjoy! 
+![](https://i.ormos.uk/cb/fe/cbfec0f4888ee5333278787edab59251aed19f30259e35bac2e50f62791246fc.jpg)
+
+As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for the latest set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Shadowmoor*. And we've got a new feature: a complete visual spoiler for the entire set, in each of the nine languages it was printed in! Enjoy! 
 
 **[Launch the *Shadowmoor* card list](https://web.archive.org/web/20080421000000/http://archive.wizards.com/default.asp?x=magic/cardlist/shadowmoor)** 
 

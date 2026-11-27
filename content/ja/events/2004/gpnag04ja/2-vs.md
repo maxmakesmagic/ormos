@@ -245,7 +245,9 @@ render_recovery:
 
 ダイスロールで大澤先攻。少しダイスをこぼしてしまったりと緊張が見て取れる高木に対し、大澤は悠然と構える。少考の後キープの大澤、苦笑してマリガン1回の高木。6枚では落ち着いてキープ。
 
-![](http://www.wizards.com/sideboard/images/gpnag04/Round2FeatureMatch_Osawa.jpg)《森/Forest》、《ウルザの鉱山/Urza's Mine》から《ぶどう棚/Vine Trellis》という王道のスタートを切る大澤に対し、高木は《沿岸の塔/Coastal Tower》に続いてこちらも《ウルザの鉱山/Urza's Mine》をセット。いぶかしげな表情をわずかに浮かべ、すぐにポーカーフェイスに戻る大澤。
+![](http://www.wizards.com/sideboard/images/gpnag04/Round2FeatureMatch_Osawa.jpg)
+
+《森/Forest》、《ウルザの鉱山/Urza's Mine》から《ぶどう棚/Vine Trellis》という王道のスタートを切る大澤に対し、高木は《沿岸の塔/Coastal Tower》に続いてこちらも《ウルザの鉱山/Urza's Mine》をセット。いぶかしげな表情をわずかに浮かべ、すぐにポーカーフェイスに戻る大澤。
 
 《団結のタリスマン/Talisman of Unity》から更なる《ぶどう棚/Vine Trellis》とマナを伸ばし、高木が《教議会の座席/Seat of the Synod》で応えると、大澤は返すターンのメインにこれを《酸化/Oxidize》。わずかな視線の交錯の後、高木がマナを残してこれの解決を認めると、大澤は攻撃宣言でマナバーンを強いる。このあたり、お互いの実力をうかがっている様子だ。
 

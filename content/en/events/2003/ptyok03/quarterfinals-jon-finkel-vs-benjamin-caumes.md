@@ -279,7 +279,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a706.jpg)As Jon Finkel and Benjamin Caumes waited for their match to begin, neither player said anything as the shuffled each other's cards. Jon cocked his head when the rest of the feature match area went equally quiet. "You okay, Ben?" he shouted across to Ben Seck—the reason for the sudden drop in chatter. 
+![](http://www.wizards.com/sideboard/images/ptyok03/a706.jpg)
+
+As Jon Finkel and Benjamin Caumes waited for their match to begin, neither player said anything as the shuffled each other's cards. Jon cocked his head when the rest of the feature match area went equally quiet. "You okay, Ben?" he shouted across to Ben Seck—the reason for the sudden drop in chatter. 
 
 "Yeah, why?"
 
@@ -312,7 +314,9 @@ Caumes kept his opener, which consisted of five lands, a Wirewood Herald and a S
 
 Caumes cast Explosive Vegetation and ramped up to six mana. At the end of the turn Finkel shot the Herald and Caumes searched out a Timberwatch Elf. Finkel untapped shot the Taunting Elf, swung for two and made a Thoughtbound Primoc. Caumes made use of all of his mana and played a Spitting Gourna face-up and an Elvish Warrior—Caumes was still holding back the Timberwatch he had fetched earlier. The Gourna elected not to block the Primoc and Finkel—who was stalled on four lands—played a Wirewood Elf. 
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a707.jpg)Caumes played a snarling Undorak and swung in with his beastly Gourna and an Elvish Warrior. Finkel threw two of his elves in the way of the Warrior and lost an Invoker. The Primoc kept chipping away and Jon played a morph. 
+![](http://www.wizards.com/sideboard/images/ptyok03/a707.jpg)
+
+Caumes played a snarling Undorak and swung in with his beastly Gourna and an Elvish Warrior. Finkel threw two of his elves in the way of the Warrior and lost an Invoker. The Primoc kept chipping away and Jon played a morph. 
 
 Caumes smashed into the red zone with his Undorak and the Gourna and Jon put his morph in the way of the snarling beast. Eagerly—hoping it was a chump block—Caumes asked, "Damage?" But Finkel had the Primal Boost. Frowning, Caumes pumped his Gourna twice to get in some extra damage and the Undorak died. Caumes finally played his Timberwatch Elf and a land leaving himself with an empty hand.
 
@@ -346,7 +350,9 @@ Finkel- 2 Caumes – 1
 
 ### Game 4
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a704.jpg)Still ticked from the last game Jon mimicked the Frenchman's deck knock and kept his opening hand. Caumes mulliganed.
+![](http://www.wizards.com/sideboard/images/ptyok03/a704.jpg)
+
+Still ticked from the last game Jon mimicked the Frenchman's deck knock and kept his opening hand. Caumes mulliganed.
 
 Finkel opened with a Stonewood Invoker and Caumes played a Herald. Jon's third land came into play tapped—a Forgotten Cave. Leery Fogbeast came down on the French side of the battle. Jon did not have a fourth land but he did have Timberwatch Elf. Caumes reinforced with a 4/4 Skirk Outrider—courtesy of Leery Fogbeast. 
 

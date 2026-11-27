@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/990.jpg)Team John の、いや Panzer Hunters の安藤玲二が当然のごとく Featuring された。 彼が今回選択したのは今やオーソドックスと言ってしまえそうな Steroid タッチ Blue。Fire/Ice や [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt) といった強力なスペルのサポートを受けたビートダウンデッキである。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/990.jpg)
+
+Team John の、いや Panzer Hunters の安藤玲二が当然のごとく Featuring された。 彼が今回選択したのは今やオーソドックスと言ってしまえそうな Steroid タッチ Blue。Fire/Ice や [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt) といった強力なスペルのサポートを受けたビートダウンデッキである。
 
 Hua, Chang はいわゆるドロマーカラーの Neo Solution を選択してきていたのだった。・・・まあ、今回のラウンドに関しては彼のデッキが何であれ関係なかったかもしれない。
 
@@ -59,7 +61,9 @@ Hua, Chang はいわゆるドロマーカラーの Neo Solution を選択して�
 
 [Spectral Lynx](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Lynx) 2 体を前に、[Blurred Mongoose](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blurred+Mongoose) 1体で足踏み状態の安藤玲二。マナの絶対数が思わしくないのだ。しかし Hua も青マナに恵まれない展開であり、[Fact or Fiction](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fact+or+Fiction) やら [Absorb](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Absorb) やらがハンドで悶々と燻っているのだった。[Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan) をノンキッカーで戦線に加え、総攻撃の為の陣容を整えた。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/989.jpg)安藤玲二は [Skizzik](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skizzik) を Kicker で召喚して一気に大攻勢。 [Flametongue Kavu](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu) によって Lynx のうちの片方を戦線から一時的に退かせつつ（再生したのだが、それにもペインランドからの黒マナを注がねばならなかった・・・）の強引な全員突撃。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/989.jpg)
+
+安藤玲二は [Skizzik](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skizzik) を Kicker で召喚して一気に大攻勢。 [Flametongue Kavu](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu) によって Lynx のうちの片方を戦線から一時的に退かせつつ（再生したのだが、それにもペインランドからの黒マナを注がねばならなかった・・・）の強引な全員突撃。
 
 相手の事故をいいことに、やりたい放題といった感の安藤玲二であった。
 
@@ -69,7 +73,9 @@ Hua, Chang はいわゆるドロマーカラーの Neo Solution を選択して�
 
 気合を入れなおして初手をめくった Hua。 2 ターン目に [Gerrard's Verdict](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gerrard%27s+Verdict) を打つことが出来ると言う何とも魅力的なハンド。・・・ただ、青マナ最序盤を耐えうるサイズのクリーチャーがいなかったのである。Hua をこれをノータイムでキープし、嬉々として開幕 2 ターン目に安藤に [hymn to tourach](https://web.archive.org/web/20000101000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=hymn%2Bto%2Btourach) よろしく [Gerrard's Verdict](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gerrard%27s+Verdict)。Hymn よろしくここで安藤にとってのキーカードを叩き落せたなら話は違っていたかもしれないが、安藤は苦笑しつつ 2 枚の [Meteor Storm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meteor+Storm) を Discard。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/988.jpg)安藤は [Thornscape Familiar](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thornscape+Familiar) からの [Raging Kavu](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Kavu) という王道ビートダウンパターンを披露しつつ、さらなる Familiar と [Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan) を戦列に加え、ギャラリーの桧垣などは 「公開処刑だよね」とこぼしていたものだ。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/988.jpg)
+
+安藤は [Thornscape Familiar](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thornscape+Familiar) からの [Raging Kavu](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Kavu) という王道ビートダウンパターンを披露しつつ、さらなる Familiar と [Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan) を戦列に加え、ギャラリーの桧垣などは 「公開処刑だよね」とこぼしていたものだ。
 
 ほとんど致命傷となってしまった段階でようやっと [Spectral Lynx](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Lynx) を引き当てた Hua だったが、安藤は無情にもこれを [Jilt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jilt) !
 

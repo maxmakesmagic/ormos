@@ -69,7 +69,9 @@ archive_source:
   sha256: 28824e5ecdca1f6fa48c93aaf703aad9b8baab429978dac6dea1929e98dfde5f
 render_recovery: []
 ---
-![](https://i.ormos.uk/c2/d1/c2d137a7b8a44c6c31b754ae7a0e93e4913fa702eb43c5ce08d9c7a656f08bcd.jpg)M**agic Online** Prerelease events begin on July 26, 2013, at 10:00 AM PDT and will run through the weekend. When Prerelease events conclude on Monday morning at 10:00 AM, ***Magic** 2014* goes on sale in the **Magic Online** Store. ***Magic** 2014* Release Event queues (Sealed Deck and Draft) will begin at the same time the set goes on sale so players won’t have to wait before jumping into a draft!
+![](https://i.ormos.uk/c2/d1/c2d137a7b8a44c6c31b754ae7a0e93e4913fa702eb43c5ce08d9c7a656f08bcd.jpg)
+
+M**agic Online** Prerelease events begin on July 26, 2013, at 10:00 AM PDT and will run through the weekend. When Prerelease events conclude on Monday morning at 10:00 AM, ***Magic** 2014* goes on sale in the **Magic Online** Store. ***Magic** 2014* Release Event queues (Sealed Deck and Draft) will begin at the same time the set goes on sale so players won’t have to wait before jumping into a draft!
 
 Read more in this article:
 

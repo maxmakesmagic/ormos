@@ -98,7 +98,9 @@ This may seem like a look back, but remember that *Guildpact* and *Dissension* b
 
 ![](https://i.ormos.uk/16/b9/16b99c76f834663dee463d825978c86d3e40fdad9aede11f2fa7ee232bee4f47.jpg)
 
-![](https://i.ormos.uk/03/2e/032eb94f60188955989fc3e0b65ee07b5cbd59536cf3a8b844e801bb400939ab.jpg)It would be really cool if I could tell you that every piece of *Ravnica* block art showed at least a glimpse of the city. I cannot do that. But, what I can tell you is that were successful in making sure *none* of the art showed that we were *not* in the city. Some creature cards show little background, but none show open spaces, undeveloped wildlands, or nature without encroaching civilization. [Skyrider Trainee](https://web.archive.org/web/20060125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skyrider+Trainee) (left) is one of my favorite *Guildpact* paintings. Check out the detailed background and the sweet specially-made griffin landing platform. It's this sort of piece that makes the city world rich and alive.
+![](https://i.ormos.uk/03/2e/032eb94f60188955989fc3e0b65ee07b5cbd59536cf3a8b844e801bb400939ab.jpg)
+
+It would be really cool if I could tell you that every piece of *Ravnica* block art showed at least a glimpse of the city. I cannot do that. But, what I can tell you is that were successful in making sure *none* of the art showed that we were *not* in the city. Some creature cards show little background, but none show open spaces, undeveloped wildlands, or nature without encroaching civilization. [Skyrider Trainee](https://web.archive.org/web/20060125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skyrider+Trainee) (left) is one of my favorite *Guildpact* paintings. Check out the detailed background and the sweet specially-made griffin landing platform. It's this sort of piece that makes the city world rich and alive.
 
 We're going to focus our panoramic lens at flavor text. It's the one place on cards that has no obligation to the game. It can dish out the flavor as specifically and as un-card-related as it wishes. It is here that we can get the clearest shot of all the wonderful vistas, as well as the tightest shots on all the secret intricacies of the city. 
 
@@ -108,7 +110,9 @@ I've arranged these various “shots” into categories. You can gain new apprec
 
 *“How truly vast this city must be, that I have traveled so far and seen so much, yet never once found the place where the buildings fail.”*
 
-![](https://i.ormos.uk/89/88/898891b4d814dd17aa37a090d64e77540721948695f1bd8e94a1a6a3b68de02d.jpg)Farseek's flavor text is a great place to start (or end.) It sums up the vastness of it all in one desperate sentence. It also lends itself nicely to the theme of this flavor text grouping- Nature Overpowered. If the buildings never fail, then where are the trees, the meadows, the wild lands. Well, read on and it will become clear.
+![](https://i.ormos.uk/89/88/898891b4d814dd17aa37a090d64e77540721948695f1bd8e94a1a6a3b68de02d.jpg)
+
+Farseek's flavor text is a great place to start (or end.) It sums up the vastness of it all in one desperate sentence. It also lends itself nicely to the theme of this flavor text grouping- Nature Overpowered. If the buildings never fail, then where are the trees, the meadows, the wild lands. Well, read on and it will become clear.
 
 *So-called “old wood” is rare in deforested Ravnica. Statues carved from it are said to house the last of the ancient nature spirits.*
 
@@ -161,7 +165,9 @@ Hmmm, when a city's thugs and spies complain about the sort of folks you meet, t
 
 *They chase tirelessly after the bone-carts that speed along the streets of the Plague Quarter.*
 
-![](https://i.ormos.uk/86/cf/86cf006575385943eb2a5761afc3813dd86ba1038243a4e3739e85ce459bda97.jpg)A funny thing occurred to me after reading this last piece of flavor text from [Carrion Howler](https://web.archive.org/web/20060125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carrion+Howler). I thought, “Oooh, bone-carts…'Plague Quarter,' I would not want to go there.” Well, what about the fact that the dogs that are chasing these carts *are dead*! Ravnica may have taverns and markets and public toilets, but could you imagine approaching the latrine pit after this guy just got finished? The amazing thing about this city is that it functions with all the organization and civic responsibility of an Earth city, but with dead dogs barking and dripping sewer spirits and all sorts of other creepy and beastly residents. It is most definitely *not* a normal place to live (which is why it makes such a wonderful setting for **Magic**!) But it's not all manic monsterville. Occasionally there is a brief respite of peace and quiet:
+![](https://i.ormos.uk/86/cf/86cf006575385943eb2a5761afc3813dd86ba1038243a4e3739e85ce459bda97.jpg)
+
+A funny thing occurred to me after reading this last piece of flavor text from [Carrion Howler](https://web.archive.org/web/20060125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carrion+Howler). I thought, “Oooh, bone-carts…'Plague Quarter,' I would not want to go there.” Well, what about the fact that the dogs that are chasing these carts *are dead*! Ravnica may have taverns and markets and public toilets, but could you imagine approaching the latrine pit after this guy just got finished? The amazing thing about this city is that it functions with all the organization and civic responsibility of an Earth city, but with dead dogs barking and dripping sewer spirits and all sorts of other creepy and beastly residents. It is most definitely *not* a normal place to live (which is why it makes such a wonderful setting for **Magic**!) But it's not all manic monsterville. Occasionally there is a brief respite of peace and quiet:
 
 *It drifts through the streets as a breeze of collective sighs, wilting the bustle with dreams and heavy eyelids.*
 

@@ -61,7 +61,9 @@ render_recovery:
 ---
 *Josh Bennett*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/942.jpg)The color lines were drawn early in this draft, with a first-pack Stalking Assassin setting Toshiki Tsukamoto into blue-black, and Ikeda and Williams clearly heading into the red-black mirror. The first few packs were gold for Benafel, netting him two Excludes, Fact or Fiction, and Armored Guardian. Clegg's green base accepted a Darigaaz easily.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/942.jpg)
+
+The color lines were drawn early in this draft, with a first-pack Stalking Assassin setting Toshiki Tsukamoto into blue-black, and Ikeda and Williams clearly heading into the red-black mirror. The first few packs were gold for Benafel, netting him two Excludes, Fact or Fiction, and Armored Guardian. Clegg's green base accepted a Darigaaz easily.
 
 In the middle seat, Jun Nobushita was aiming for Green-White-Red, and he drafted two Lightning Darts, excellent against Benafel's Blue-White. Still, the bulk of the quality cards were in ABU's hands.
 
@@ -81,7 +83,9 @@ Tsukamoto: Blue-Black-White
  Nobushita: Green-White-Red  
  Ikeda: Red-Black
 
-![](https://i.ormos.uk/52/f6/52f6255e929c2a7412f66e2cd655cc347ff494210a54f67cbf25fa1ad049c4e7.jpg)Nobushita opened Desolation Giant, and snapped it up. For the rest of *Apocalypse* the players merely filled out their decks. Williams picked up what little he could find, like Zombie Boa and Urborg Uprising, but generally played the role of spoiler, cutting off powerful multicolored cards so he teammates could take the cards they needed.
+![](https://i.ormos.uk/52/f6/52f6255e929c2a7412f66e2cd655cc347ff494210a54f67cbf25fa1ad049c4e7.jpg)
+
+Nobushita opened Desolation Giant, and snapped it up. For the rest of *Apocalypse* the players merely filled out their decks. Williams picked up what little he could find, like Zombie Boa and Urborg Uprising, but generally played the role of spoiler, cutting off powerful multicolored cards so he teammates could take the cards they needed.
 
 Benafel scored a Coastal Drake, Coalition Honor Guard and Mystic Snake, as well as fixers like Helionaut and Reef Shaman. Clegg went into his fourth color for Cetavolver, Gaea's Skyfolk and Guided Passage, as well as the ability on Savage Gorilla, and got powerful tricks like Illuminate and Consume Strength.
 

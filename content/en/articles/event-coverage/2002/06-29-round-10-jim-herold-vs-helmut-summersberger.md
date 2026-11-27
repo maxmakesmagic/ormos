@@ -46,7 +46,9 @@ render_recovery: []
 ---
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a871.jpg)They wished each other luck and went on their way. Helmut bravely kept a hand of two Mountains holding two Wild Mongrels and a Flametongue Kavu. Jim on the other hand didn't want to take any chances and mulliganed once.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a871.jpg)
+
+They wished each other luck and went on their way. Helmut bravely kept a hand of two Mountains holding two Wild Mongrels and a Flametongue Kavu. Jim on the other hand didn't want to take any chances and mulliganed once.
 
 Summersberger failed to draw a Forest until his third turn and cast one of his two Wild Mongrels. Herold summoned a Merfolk Looter and cast a Fiery Temper on the opposing creature. Summersberger saved it by pitching a Rootwalla and his second Mongrel. The Austrian had no more cards in his hand after killing off an Aquamoeba and casting Flametongue Kavu targeting his opponent's Looter. The German didn't have any creatures on the board but managed to kill some of his opponent's. 
 
@@ -61,7 +63,9 @@ Summersberger 1 – 0 Herold
 
 Helmut got a Forest out on turn one. A stunt he hadn't pulled the entire day and cast his Rootwalla. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a873.jpg)The Austrian attacked with a Rootwalla and the Aquamoeba switched power to stop it. Helmut had a Roar of the wurm in his Graveyard and cast it the next turn. The 6/6 is the biggest problem for the Austrian who had just a Mongrel and a Lavamancer on the table.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a873.jpg)
+
+The Austrian attacked with a Rootwalla and the Aquamoeba switched power to stop it. Helmut had a Roar of the wurm in his Graveyard and cast it the next turn. The 6/6 is the biggest problem for the Austrian who had just a Mongrel and a Lavamancer on the table.
 
 When Herold attacked with his Wurm, his opponent blocked with Wild Mongrel and cast a Fiery Temper via discard to kill the Wurm. When the Temper was target of Logic, the Austrian discarded his hand but one card to trade with the wurm. 
 

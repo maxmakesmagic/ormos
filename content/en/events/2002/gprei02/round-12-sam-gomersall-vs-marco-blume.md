@@ -67,7 +67,9 @@ render_recovery:
   - Moment's Peace
   occurrences: 16
 ---
-![](http://www.wizards.com/sideboard/images/gprei02/a913.jpg)This match-up sees two control decks facing off. Marco has a Psychatog deck and Sam has the Awakening deck which was used by some members of Team Punisher at the Pro Tour in Houston. It's an incredibly favorable match for the German.
+![](http://www.wizards.com/sideboard/images/gprei02/a913.jpg)
+
+This match-up sees two control decks facing off. Marco has a Psychatog deck and Sam has the Awakening deck which was used by some members of Team Punisher at the Pro Tour in Houston. It's an incredibly favorable match for the German.
 
 ### Game 1
 
@@ -79,7 +81,9 @@ Marco Blume 1 – Sam Gomersall
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gprei02/a915.jpg)Sam had to take a mulligan going first, and stalled on two lands for a turn. Although he then managed to Intuition for Accumulated Knowledge, Blume had a Counterspell. Meanwhile the German was applying the one point beatdown with a Psychatog.
+![](http://www.wizards.com/sideboard/images/gprei02/a915.jpg)
+
+Sam had to take a mulligan going first, and stalled on two lands for a turn. Although he then managed to Intuition for Accumulated Knowledge, Blume had a Counterspell. Meanwhile the German was applying the one point beatdown with a Psychatog.
 
 Marco played his own Accumulate for four, then Intuitioned for three more. The Englishman had to Intuition for Moment's Peace in the hope that Marco didn't have a Counterspell, but unsurprisingly the German's fifteen card hand did have one.
 

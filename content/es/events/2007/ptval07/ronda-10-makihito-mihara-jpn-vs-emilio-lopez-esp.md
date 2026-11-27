@@ -217,7 +217,9 @@ El japonés juega una baraja Urzatron azul/blanca con Gifts Ungiven, mientras qu
 
 ### Primera partida
 
-![](https://i.ormos.uk/7d/6d/7d6dd8562ca83040a05e93311f251100c88a78e8765422b2555c461454cab36b.jpg)Makihito, uno de los mejores jugadores del mundo, consigue colar un Chalice of the Void con un contador de carga. Mientras tanto, Emilio va atacando con su Trinket Mage que ha buscado el Sensei's Divning Top. En su cuarto turno, Mihara juega Gifts Ungiven a Chalice of the Void, Mindslaver, una tierra de Urza y un Petrified Field. Con su oponente totalmente girado, Emilio juega un Dark Confidant, pero éste apenas aguanta unos segundos en mesa al responder el japonés con Wrath of God. 
+![](https://i.ormos.uk/7d/6d/7d6dd8562ca83040a05e93311f251100c88a78e8765422b2555c461454cab36b.jpg)
+
+Makihito, uno de los mejores jugadores del mundo, consigue colar un Chalice of the Void con un contador de carga. Mientras tanto, Emilio va atacando con su Trinket Mage que ha buscado el Sensei's Divning Top. En su cuarto turno, Mihara juega Gifts Ungiven a Chalice of the Void, Mindslaver, una tierra de Urza y un Petrified Field. Con su oponente totalmente girado, Emilio juega un Dark Confidant, pero éste apenas aguanta unos segundos en mesa al responder el japonés con Wrath of God. 
 
 Emilio tiene un segundo Bob Maher y juega un segundo Chrome Mox para poner en juego un Tarmogoyf, deseando que su rival no tenga otra Wrath of God en la mano. Pero no es esta carta la que elimina las criaturas de Emilio, sino unos Engineered Explosives que el japonés ha encontrado a través de Thirst for Knowledge.
 
@@ -227,7 +229,9 @@ El último envite de Emilio es aún más peligroso: Meloku. Una nueva Thirst for
 
 ### Segunda partida
 
-![](https://i.ormos.uk/8d/c7/8dc72f9eac8989acea8ea0665f61696f0b686d8125d3d7f6198489f3c19284fa.jpg)Como nos tiene acostumbrados en este torneo, Emilio quita los Threads of Disloyalty, inútiles frente a su oponente, y mete de banquillo Duress, para eliminar los reiniciadores de mesa que su rival intentará jugar en la segunda partida.
+![](https://i.ormos.uk/8d/c7/8dc72f9eac8989acea8ea0665f61696f0b686d8125d3d7f6198489f3c19284fa.jpg)
+
+Como nos tiene acostumbrados en este torneo, Emilio quita los Threads of Disloyalty, inútiles frente a su oponente, y mete de banquillo Duress, para eliminar los reiniciadores de mesa que su rival intentará jugar en la segunda partida.
 
 Ambos jugadores ponen tierras en su primer turno. En el segundo, Emilio inicia el ataque con un Tarmogoyf de reducido tamaño. Duress por parte del jugador español revela un Crucible of Worlds, Thirst for Knowledge, Exalted Angel, Chalice of the Void, Repeal y West Tolaria. Esto va a hacer crecer el Tarmogoyf, eso seguro, pero hay que ver con qué carta. Thirst for Knowledge es la elegida y el lurgoyf hace tres daños.
 
@@ -235,7 +239,9 @@ Emilio cede el turno tras jugar un Chrome Mox azul, que deja enderezado. Mihara 
 
 Emilio no juega nada en su turno. Trata de jugar una de sus propias Thirst for Knowledge al final del turno del oponente, pero éste lo contrarresta con Condescend. Emilio pone en juego Academy Ruins, que aunque ahora mismo no tienen ningún artefacto interesante que recuperar, al ser legendarias al menos impedirán que Mihara juegue las suyas. Después, unos Engineered Explosives destruyen el sello del japonés (y ahora sí podrá recuperar algo con la tierra). 
 
-![](https://i.ormos.uk/d6/73/d67316bd9a2dddfb2d63f91edec564cea05c90be8d69c6a1c4b20db3cebf813a.jpg)Pero Mihara va a lo suyo y juega Gifts Ungiven. Emilio ha de elegir dos cartas entre las cuatro siguientes: Mindslaver, Academy Ruins, Repeal y Urza's Power Plant. Si pudiera, no elegiría ninguna, pero al final decide poner en la mano de su oponente los dos hechizos. 
+![](https://i.ormos.uk/d6/73/d67316bd9a2dddfb2d63f91edec564cea05c90be8d69c6a1c4b20db3cebf813a.jpg)
+
+Pero Mihara va a lo suyo y juega Gifts Ungiven. Emilio ha de elegir dos cartas entre las cuatro siguientes: Mindslaver, Academy Ruins, Repeal y Urza's Power Plant. Si pudiera, no elegiría ninguna, pero al final decide poner en la mano de su oponente los dos hechizos. 
 
 Un nuevo Tarmogoyf entra en juego pero Mihara completa el juego de Urza, juega un Mindslaver y Emilio... ¡Contrarresta la habilidad con Stifle! Mientras hay vida hay esperanza, ha de pensar el jugador español, que ataca para dejar a 2 a su oponente. Makihito cede el turno y Emilio ataca con todo, pero un Decree of Justice ciclado da al traste con lo que parecía una victoria en el último momento.
 

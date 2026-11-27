@@ -203,7 +203,9 @@ render_recovery:
 
 ### Game 1
 
-![](https://www.wizards.com/sideboard/images/natjp03/a943.jpg)まずは三原の《強迫/Duress》が藤田の《強迫》を手札から抜き去る所からスタート。
+![](https://www.wizards.com/sideboard/images/natjp03/a943.jpg)
+
+まずは三原の《強迫/Duress》が藤田の《強迫》を手札から抜き去る所からスタート。
 
 藤田側としては、この 1 枚が大きな痛手となるのだが、なんとか初手から引いていた《アンデッドの剣闘士/Undead Gladiator》を使って手札整理を開始。
 
@@ -254,7 +256,9 @@ render_recovery:
 
 1 ターン目の《強迫》で三原の手から《チェイナーの布告》を抜くと、次ターンに続けて《ナントゥーコの影》で押す作戦を決行。
 
-![](https://www.wizards.com/sideboard/images/natjp03/a949.jpg)まずは +3 パンプアップで 5 点を叩きだすが、三原は返すターンにブロッカーとして《サイカトグ》をキャスト。
+![](https://www.wizards.com/sideboard/images/natjp03/a949.jpg)
+
+まずは +3 パンプアップで 5 点を叩きだすが、三原は返すターンにブロッカーとして《サイカトグ》をキャスト。
 
 これは、全パンプの《ナントゥーコの影》に大きな犠牲を払いながら《サイカトグ》でブロックしきる。
 

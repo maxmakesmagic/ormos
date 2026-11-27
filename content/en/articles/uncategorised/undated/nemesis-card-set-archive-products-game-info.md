@@ -63,7 +63,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/56/ca/56caefa6b977797f827014eaa3bf4a8d4405b2287d1d05a111984237d3675153.png)This 143-card, black-bordered set includes randomly inserted foil premium cards, as well as new mechanics like Laccoliths and Fading.
+![](https://i.ormos.uk/56/ca/56caefa6b977797f827014eaa3bf4a8d4405b2287d1d05a111984237d3675153.png)
+
+This 143-card, black-bordered set includes randomly inserted foil premium cards, as well as new mechanics like Laccoliths and Fading.
 
 **Set Name:** *Nemesis*  
 **Block:** Set 2 of 3 of the *Masques* Block  

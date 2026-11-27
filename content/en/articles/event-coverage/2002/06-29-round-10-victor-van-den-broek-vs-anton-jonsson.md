@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a869.jpg)After nine rounds of play, the only undefeated player of the tournament was Victor van den Broek from the Netherlands. He was paired up against a Team Punisher player, Anton Jonsson from Sweden, who was at 8-1. While the Dutchman had chosen to play an aggressive red and green deck, Jonsson had a weird red, white and blue deck with Meddling Mages, Goblin Trenches, Flametongue Kavus and countermagic.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a869.jpg)
+
+After nine rounds of play, the only undefeated player of the tournament was Victor van den Broek from the Netherlands. He was paired up against a Team Punisher player, Anton Jonsson from Sweden, who was at 8-1. While the Dutchman had chosen to play an aggressive red and green deck, Jonsson had a weird red, white and blue deck with Meddling Mages, Goblin Trenches, Flametongue Kavus and countermagic.
 
 ### Game 1
 
@@ -69,7 +71,9 @@ Van den Broek 1 – 0 Jonsson
 
 ### Game 2
 
-![](https://i.ormos.uk/06/e5/06e59e662b2edb302d765760dcc55ead515b6325a31964173a3292ee00ea46c0.jpg)Jonsson went first in the second game, which was quite important as he was able to Counterspell a turn two Basking Rootwalla. Van den Broek then played a Fires of Yavimaya, but Jonsson saved his countermagic for the actual threats—which turned out to be Call of the Herds.
+![](https://i.ormos.uk/06/e5/06e59e662b2edb302d765760dcc55ead515b6325a31964173a3292ee00ea46c0.jpg)
+
+Jonsson went first in the second game, which was quite important as he was able to Counterspell a turn two Basking Rootwalla. Van den Broek then played a Fires of Yavimaya, but Jonsson saved his countermagic for the actual threats—which turned out to be Call of the Herds.
 
 Victor played Call of the Herd. Jonsson Memory Lapsed it, but let him have a Grim Lavamancer. Victor played Call of the Herd again. Another Memory Lapse. "I'll be casting a lot of Call of the Herds this turn," van den Broek commented. His third attempt to cast it was Absorbed.
 
@@ -85,7 +89,9 @@ While the second duel had been quite entertaining thanks to the unexpected, doub
 
 During the following turn, Jonsson dropped the bomb—a Circle of Protection: Green. He chose to take five damage from the Leech to keep two mana open in order to be able to counter, and when van den Broek played a Call of the Herd, it was Memory Lapsed.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a959.jpg)With the CoP: Green safely in place, Jonsson figured it was time to let Victor have some creatures. The Dutchman played three Call of the Herds with flashback, and at one point, he attacked for 23 points of damage every turn, only to see it all being prevented by the CoP: Green. "My kingdom for a Shifting Sky!" he proclaimed. Then he ran out of Call of the Herds, and summoned a Wild Mongrel instead.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a959.jpg)
+
+With the CoP: Green safely in place, Jonsson figured it was time to let Victor have some creatures. The Dutchman played three Call of the Herds with flashback, and at one point, he attacked for 23 points of damage every turn, only to see it all being prevented by the CoP: Green. "My kingdom for a Shifting Sky!" he proclaimed. Then he ran out of Call of the Herds, and summoned a Wild Mongrel instead.
 
 Facing a Jade Leech, six Elephant tokens and a Wild Mongrel, Jonsson figured it was time to clear the table. His Wrath of God earned him a roar from the crowd that had gathered around the feature match table. Suddenly with no creatures in play, Victor had to re-build an army, and he cast a Wild Mongrel.
 

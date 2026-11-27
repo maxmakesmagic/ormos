@@ -73,7 +73,9 @@ render_recovery:
   - Pacifism
   occurrences: 17
 ---
-![](https://www.wizards.com/sideboard/images/gputs02/982.jpg)The mastermind of Japan's Team Masters regulars Panzer Hunters, Itaru Ishida, is also a dab hand at singles competition. He's certainly put fear in the heart of Chikara Nakajima, whose play was a little more erratic than usual. Whatever advantage those nerves can give Ishida, he'll need them. He doesn't think much of his deck, and assumes the ride will be over for him soon.
+![](https://www.wizards.com/sideboard/images/gputs02/982.jpg)
+
+The mastermind of Japan's Team Masters regulars Panzer Hunters, Itaru Ishida, is also a dab hand at singles competition. He's certainly put fear in the heart of Chikara Nakajima, whose play was a little more erratic than usual. Whatever advantage those nerves can give Ishida, he'll need them. He doesn't think much of his deck, and assumes the ride will be over for him soon.
 
 Nakajima was first off the blocks with Spitfire Handler. Ishida Threatened to rule the board completely with a turn-two Sparksmith. Nakajima was forced to get it out of the way with Erratic Explosion. That was bad news for Ishida, who had no turn-three play. Nakajima made a secret guy only to have it Shocked.
 
@@ -81,7 +83,9 @@ His Handler hit for damage while Ishida mustered his forces. First Screeching Bu
 
 Nakajima 1 - Ishida 0
 
-![](https://i.ormos.uk/3d/88/3d88581f0b4c6ffd1674990a8379758e26311cf183adf627bad44ed83565c70f.jpg)Both players mulliganed to start things off. Nakajima led with Goblin Sledder and then a morph card, worth more than a second look now that it might be the Angel. Ishida Morphed one of his own and passed it back. They traded hits, but Ishida's was Haunted Cadaver, which left Nakajima with just one card in hand.
+![](https://i.ormos.uk/3d/88/3d88581f0b4c6ffd1674990a8379758e26311cf183adf627bad44ed83565c70f.jpg)
+
+Both players mulliganed to start things off. Nakajima led with Goblin Sledder and then a morph card, worth more than a second look now that it might be the Angel. Ishida Morphed one of his own and passed it back. They traded hits, but Ishida's was Haunted Cadaver, which left Nakajima with just one card in hand.
 
 He drew a morph and threw it down. Ishida had made some defenses with Screeching Buzzard and Nantuko Husk. However, Nakajima's deck was kind, and served up Crown of Awe to push what turned out to be Skirk Commando past Ishida's defenders. The Buzzard saved the Husk, but Ishida needed answers, not the land he was drawing. His first morph blocker fell to Pacifism, and the next to Erratic Explosion. Unable to stop the Commando, he scooped.
 

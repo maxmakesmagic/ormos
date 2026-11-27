@@ -76,7 +76,9 @@ render_recovery:
   - Loxodon Warhammer
   occurrences: 22
 ---
-![](https://www.wizards.com/sideboard/images/gplyo03/930.jpg)It's just getting to nine and this is the only the start of round seven. Surviving to day two will take endurance as well as luck and skill. French pro Franck Canu was fought to a draw in the last round while his opponent, the relatively unknown Damien Lacroix is on a precarious 5-1. With only one bye another loss will probably put Lacroix out of the tournament.
+![](https://www.wizards.com/sideboard/images/gplyo03/930.jpg)
+
+It's just getting to nine and this is the only the start of round seven. Surviving to day two will take endurance as well as luck and skill. French pro Franck Canu was fought to a draw in the last round while his opponent, the relatively unknown Damien Lacroix is on a precarious 5-1. With only one bye another loss will probably put Lacroix out of the tournament.
 
 ### Game 1
 
@@ -84,7 +86,9 @@ Lacroix won the coin toss and chose to make Canu go first. He got what he hoped 
 
 With five mane available Canu dropped a Skyhunter Cub and another piece of equipment - a Mask of Memory. Lacroix smashed with the Ascetic and added an Enforcer.
 
-![](https://www.wizards.com/sideboard/images/gplyo03/931.jpg)Canu tried to equib his cub, but Lacroix had an Aether Spellbomb sitting around for that eventuality and used it to effectively time walk his opponent. Lacroix started to seize control of the game, swinging for seven and then bringing out Tel-Jilad Archers to hold the fort.
+![](https://www.wizards.com/sideboard/images/gplyo03/931.jpg)
+
+Canu tried to equib his cub, but Lacroix had an Aether Spellbomb sitting around for that eventuality and used it to effectively time walk his opponent. Lacroix started to seize control of the game, swinging for seven and then bringing out Tel-Jilad Archers to hold the fort.
 
 Canu got to equip his cub and sent it in, looking for an answer with the Mask. Not much help came. Lacroix tried to win the game as Goblin Replica appeared with Lightning Greaves to zip in. Canu survived as Raise the Alarm produced enough soldiers to keep him in the game by his fingertips.
 

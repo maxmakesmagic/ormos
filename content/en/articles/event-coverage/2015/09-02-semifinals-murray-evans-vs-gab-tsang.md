@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Gary Krakower*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/SMgabevans2.jpg)This match was a contrast in style in just about every way. Murray "The Mauler" Evans is a 13 year old who may weigh 80 pounds while soaking wet. He played a fairly aggressive Stompy-type deck which featured 4 Blastoderms in the main deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/SMgabevans2.jpg)
+
+This match was a contrast in style in just about every way. Murray "The Mauler" Evans is a 13 year old who may weigh 80 pounds while soaking wet. He played a fairly aggressive Stompy-type deck which featured 4 Blastoderms in the main deck.
 
 Gab "The Juggernaut" Tsang is a grizzled vet who weighs slightly more than 80 pounds while bone dry. He has two Top 8 Pro Tour finishes as well as three Top 8's in Canadian Nationals. He was playing a control deck which featured 12 counterspells, 3 Morphlings, and 3 Masticores, which with the aid of the Grim Monoliths can hit play very quickly.
 
@@ -54,7 +56,9 @@ The only thing these two competitors shared were intimidating nicknames. Given t
 
 GAME 1:
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/SMmauler.jpg)This game showed the speed of Stompy and the power of Gaea's Cradle. Evans dropped a turn 2 Troll. The turn 3 Rancor was countered but Evans dropped the Cradle and was prepared to go off next turn - Cradle-style. Turn 4 featured a Wild Dogs that stuck, an Elvish Lyrist which was countered and then a Tangle Wire hit the table. Though Gab played another land or two, the game was over as he was locked under the Tangle Wire.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/SMmauler.jpg)
+
+This game showed the speed of Stompy and the power of Gaea's Cradle. Evans dropped a turn 2 Troll. The turn 3 Rancor was countered but Evans dropped the Cradle and was prepared to go off next turn - Cradle-style. Turn 4 featured a Wild Dogs that stuck, an Elvish Lyrist which was countered and then a Tangle Wire hit the table. Though Gab played another land or two, the game was over as he was locked under the Tangle Wire.
 
 Despite the Tangle Wire's role in that game Evans sent them to the sideboard along with a Jaguar in favor of some Cursed Totems, a Splinter and a couple Hidden Gibbons. I asked Evans why he took out the Wires as they seemed to be good against blue. He offered a couple explanations, but I have to admit I could not fully appreciate them. I did agree that it would be an unexpected sideboarding technique.
 

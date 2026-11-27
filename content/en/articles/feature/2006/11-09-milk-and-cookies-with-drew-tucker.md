@@ -77,7 +77,9 @@ archive_source:
   sha256: 10d082e14b3d02f9581a72861567eba33d05605cc1cdc5fa37dfdf4ad784c115
 render_recovery: []
 ---
-![Flagstones_of_Trokair](https://i.ormos.uk/b7/a6/b7a6d899f5e78fd95aa78cde9eb6d49671c6c0b7b7c80abb4e0c09574bfecf0e.jpg)So I was walking through the arid salt plains near old Trokair when I was knocked to the hard, gritty ground by a sudden burst of wind. Then, through the cloud of dust and salt, right before me, I could see a bluish swirling vortex silently whirling and opening wider. As it grew I could start to make out a tumultuous scene within it. In stark contrast to the vast emptiness of the salt plains, the blue rift revealed a burgeoning woodland teeming with beasts of all shapes and sizes. The buzzing scene was dominated by a giant blue flightless bird loping toward the opening, toward me! It was only when it got closer that I noticed the human, fleeing frantically, mouth agape and eyes bulging. I was too frightened to get up and flee, too enthralled at what I was seeing to care. Then, in an instant, the silence was broken by screams as the human seemed to puncture the film between the silent chaos of that forest and the echoing emptiness of Trokair. The human continued to run and howl, though the rift closed quickly behind him. He ran, and he howled, for quite a while. He did not stop until he was a few hundred feet past me - long enough, I guessed, to realize he had absolutely no idea where he was. Then he spotted me, and all the tension and fear in his posture seemed to melt away. He trotted back over to me and said, "Hey Matt." To which I replied, "Hey Drew, let's head over to the 'Thirsty Icatian' for drinks, sweets, and freedom from angry Moas."
+![Flagstones_of_Trokair](https://i.ormos.uk/b7/a6/b7a6d899f5e78fd95aa78cde9eb6d49671c6c0b7b7c80abb4e0c09574bfecf0e.jpg)
+
+So I was walking through the arid salt plains near old Trokair when I was knocked to the hard, gritty ground by a sudden burst of wind. Then, through the cloud of dust and salt, right before me, I could see a bluish swirling vortex silently whirling and opening wider. As it grew I could start to make out a tumultuous scene within it. In stark contrast to the vast emptiness of the salt plains, the blue rift revealed a burgeoning woodland teeming with beasts of all shapes and sizes. The buzzing scene was dominated by a giant blue flightless bird loping toward the opening, toward me! It was only when it got closer that I noticed the human, fleeing frantically, mouth agape and eyes bulging. I was too frightened to get up and flee, too enthralled at what I was seeing to care. Then, in an instant, the silence was broken by screams as the human seemed to puncture the film between the silent chaos of that forest and the echoing emptiness of Trokair. The human continued to run and howl, though the rift closed quickly behind him. He ran, and he howled, for quite a while. He did not stop until he was a few hundred feet past me - long enough, I guessed, to realize he had absolutely no idea where he was. Then he spotted me, and all the tension and fear in his posture seemed to melt away. He trotted back over to me and said, "Hey Matt." To which I replied, "Hey Drew, let's head over to the 'Thirsty Icatian' for drinks, sweets, and freedom from angry Moas."
 
 ![Hunting_Moa](https://i.ormos.uk/64/79/6479f7a64d71f47a4b8b7b87057af4886eec00adfea99ad83589a1063f884e38.jpg) And that was how our Milk and Cookies interview began. And it was an appropriate beginning. After all, the *Time Spiral* time rifts did not just bring back elements of **Magic's** gaming past, but elements from the actual past as well. Wonderful elements, such as today's guest of honor, Mr. Drew Tucker.
 
@@ -119,7 +121,9 @@ I am going to stop brown-nosing the Tuck and get on with the interview. What ins
 
 **MC:** And at some point, the feet and hands gave way to swords and demons?
 
-![Infernal_Denizen](https://i.ormos.uk/5b/cc/5bcc2ef85c7b180abe34372b5a9daaf88e4ab2c6d81ca624b6510b179ea1e4be.jpg)**DT:** Its odd, and I bet a lot of other illustrators are the same, but many of my early pictures were of vampires, werewolves, cemeteries, and blood. (I had a few elementary teachers concerned.) I had a couple of pics of multi-toothed sharks and a monkey-eating crocodile (happens to be my first attempt at illustrating my own story.) But for the most part, I made a lot of pictures of spooks and such, so I have come full circle. As an "adult," I Illustrate my childhood dreams. I'm drawing the same stuff I was working on when I was little.
+![Infernal_Denizen](https://i.ormos.uk/5b/cc/5bcc2ef85c7b180abe34372b5a9daaf88e4ab2c6d81ca624b6510b179ea1e4be.jpg)
+
+**DT:** Its odd, and I bet a lot of other illustrators are the same, but many of my early pictures were of vampires, werewolves, cemeteries, and blood. (I had a few elementary teachers concerned.) I had a couple of pics of multi-toothed sharks and a monkey-eating crocodile (happens to be my first attempt at illustrating my own story.) But for the most part, I made a lot of pictures of spooks and such, so I have come full circle. As an "adult," I Illustrate my childhood dreams. I'm drawing the same stuff I was working on when I was little.
 
 But I like some of the freedom fantasy art gives. Even so, I like trying to push the envelope there and give a little more than the traditional approach. 
 
@@ -143,7 +147,9 @@ During high school and after my first couple years in college, I did a lot of lo
 
 **MC:** Just so you fans know, you will not find Bosch on any **Magic** cards. But you will find Brom, Muth, and Pratt on cards. [Gatherer](https://web.archive.org/web/20061109000000/http://ww2.wizards.com/gatherer/index.aspx) away to see what the Tuck likes.
 
-![Leshracs_Sigil](https://i.ormos.uk/ab/6c/ab6c55ce49a61e62498f639a1c1b476b5438d5ddafdad6d0c6346e997e236703.jpg)**DT:** I like those guys, but I absolutely love Richard Kane Ferguson. This is probably a horrible thing to say, and to Richard this is meant as a compliment, albeit an off one at that - but one in the highest order: I would gladly eat Richard's heart and brain, maybe the hands as well, to obtain his power - if cannibalism was acceptable. I have a lot of admiration for his work. I can remember early on in my career, when I would look at cover art and his stuff always stuck out for me. His use of shape and color is simply incredible.
+![Leshracs_Sigil](https://i.ormos.uk/ab/6c/ab6c55ce49a61e62498f639a1c1b476b5438d5ddafdad6d0c6346e997e236703.jpg)
+
+**DT:** I like those guys, but I absolutely love Richard Kane Ferguson. This is probably a horrible thing to say, and to Richard this is meant as a compliment, albeit an off one at that - but one in the highest order: I would gladly eat Richard's heart and brain, maybe the hands as well, to obtain his power - if cannibalism was acceptable. I have a lot of admiration for his work. I can remember early on in my career, when I would look at cover art and his stuff always stuck out for me. His use of shape and color is simply incredible.
 
 **MC:** I am not surprised that you, too, are a Ferguson fan. My art-nerd's eye tells me that you are both watercolor wizards and fans of abstract work. Before we gab about realism versus abstraction, can you talk about the media you use in your art? 
 
@@ -221,7 +227,9 @@ We used to joke that our family motto was, "if you're not for me, you're against
 
 ### [Vertigo](https://web.archive.org/web/20061109000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vertigo)
 
-![vertigo](https://i.ormos.uk/fd/be/fdbedf4a4c52cbcc920c43b381e400f4a085aaf4519d2062032897f63eb712ad.jpg)**MC:** I thought I'd throw this one in, with all the Hitchcock talk and all. ;)
+![vertigo](https://i.ormos.uk/fd/be/fdbedf4a4c52cbcc920c43b381e400f4a085aaf4519d2062032897f63eb712ad.jpg)
+
+**MC:** I thought I'd throw this one in, with all the Hitchcock talk and all. ;)
 
 **DT:** I don't want to like this piece, but it was pretty successful. The composition gives it an uncontrollable spin, and it was exactly what I was shooting for.
 

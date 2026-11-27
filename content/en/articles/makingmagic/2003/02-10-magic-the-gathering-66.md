@@ -69,7 +69,9 @@ archive_source:
   sha256: 9420f2bef2108eb1116a24eab5803bc211eeb577171c0996c4b510466b716c2d
 render_recovery: []
 ---
-![Skaff](https://i.ormos.uk/0f/d7/0fd78786c4b97d0aace25005e3fe36aad82a3d0b3339b610d1daee3077af2fa4.jpg)While walking around R&D, you see Skaff Elias. Skaff is one of the old-timers in R&D that helped Richard with **Magic** before it was released. Among his many contributions, Skaff is the creator of the Pro Tour.
+![Skaff](https://i.ormos.uk/0f/d7/0fd78786c4b97d0aace25005e3fe36aad82a3d0b3339b610d1daee3077af2fa4.jpg)
+
+While walking around R&D, you see Skaff Elias. Skaff is one of the old-timers in R&D that helped Richard with **Magic** before it was released. Among his many contributions, Skaff is the creator of the Pro Tour.
 
 Skaff is not on the design team for the meeting you’re looking for.
 

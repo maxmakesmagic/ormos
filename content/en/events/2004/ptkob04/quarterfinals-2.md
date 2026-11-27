@@ -255,7 +255,9 @@ render_recovery:
 ---
 ### Raffaele Lo Moro vs. Masashiro Kuroda
 
-![](https://i.ormos.uk/41/86/41860364b55c2f8cca61068b14f2d2b6e4a05369f0d29fbbaae03f160af97720.jpg)For Masashiro Kuroda, this is a day of redemption. In the past, he was notorious for going undefeated on day one of a major tournament, but failing to make the Top 8. He did it at Japanese Nationals, Grand Prix Sapporo, and Grand Prix Kyoto. With a bad start yesterday it seemed that the trend was destined to continue, but Kuroda came back to form and is now the only Japanese player in the Top 8. Recently married, Kuroda had his wife cheering him on from the stands along with the local Japanese players.
+![](https://i.ormos.uk/41/86/41860364b55c2f8cca61068b14f2d2b6e4a05369f0d29fbbaae03f160af97720.jpg)
+
+For Masashiro Kuroda, this is a day of redemption. In the past, he was notorious for going undefeated on day one of a major tournament, but failing to make the Top 8. He did it at Japanese Nationals, Grand Prix Sapporo, and Grand Prix Kyoto. With a bad start yesterday it seemed that the trend was destined to continue, but Kuroda came back to form and is now the only Japanese player in the Top 8. Recently married, Kuroda had his wife cheering him on from the stands along with the local Japanese players.
 
 Kuroda and his opponent, Italy's Raffaele Lo Moro, are running versions of Big Red. The difference maker here may be the fact that Lo Moro's deck is packing a lot more artifact destruction, while Kuroda has more burn. That may make a difference where the metagame is concerned and you want to be able to destroy Ravagers and Skullclamps, but in a red-on-red matchup, the efficient, massive damage spells tend to be what wins games. 
 

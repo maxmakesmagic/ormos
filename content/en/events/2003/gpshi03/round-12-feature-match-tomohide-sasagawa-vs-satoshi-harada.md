@@ -144,7 +144,9 @@ Instead we bring you the top seeded player--and amateur status player--Satoshi H
 
 ### Game One
 
-![](https://i.ormos.uk/d7/ed/d7edd24d803dcc666234877cfb5c8f6f3be9279bacfe9a0e9540e34ff06be100.jpg)Sasagawa kicked things off with an Auriok Bladewarden. Harada had a Yotian Soldier that was only going to crane its neck looking up at the Slith Ascendant that came down on turn three. It only picked up one counter before Harada restricted its airspace with a Tel-Jilad Archers. 
+![](https://i.ormos.uk/d7/ed/d7edd24d803dcc666234877cfb5c8f6f3be9279bacfe9a0e9540e34ff06be100.jpg)
+
+Sasagawa kicked things off with an Auriok Bladewarden. Harada had a Yotian Soldier that was only going to crane its neck looking up at the Slith Ascendant that came down on turn three. It only picked up one counter before Harada restricted its airspace with a Tel-Jilad Archers. 
 
 No problems for Sasagawa. He played a Banshee's Blade and equipped the flier sending it into battle. When Harada blocked he pumped it with his Bladewarden and the equipment picked up a counter during combat. It would get through next turn, no doubt. Harada played a Copperhoof Vorrac and passed the turn. He did not block the Ascendant and it grew to a 5/5 with the Blade. Sasagawa played a Cub and Myr and passed the turn staring down a 6/6 Vorrac that wasn't getting any smaller. He had no blocks and Harada played a Pewter Golem and a Tel-Jilad Chosen.
 
@@ -158,7 +160,9 @@ Tomohide Sasagawa - 1 Satoshi Harada - 0
 
 In between games the judge gave them both a quick lesson on the proper use of the playmats with special emphasis on using the red zone. 
 
-![](https://i.ormos.uk/ff/bc/ffbcdb2acad7c2083a67b473c6820aeccde2a4d3328c5e5763852639abdeb969.jpg)Harada's opening hand featured five lands, Detonate and Myr Enforcer. He groaned but decided to keep it. He drew in to a turn two Tel-Jilad's Chosen. Sasagawa had the annoying but effective Sun Droplet. Harada ripped another creature off the top right in line with his mana curve--an Elf Replica. 
+![](https://i.ormos.uk/ff/bc/ffbcdb2acad7c2083a67b473c6820aeccde2a4d3328c5e5763852639abdeb969.jpg)
+
+Harada's opening hand featured five lands, Detonate and Myr Enforcer. He groaned but decided to keep it. He drew in to a turn two Tel-Jilad's Chosen. Sasagawa had the annoying but effective Sun Droplet. Harada ripped another creature off the top right in line with his mana curve--an Elf Replica. 
 
 Speaking of right along the mana curve--Sasagawa had the Slith Ascendant ready to go for turn three prompting a pained groan from Harada. He ripped another Chosen and was attacking every turn but the Droplet was easing the beatdown. Skyhunter Patrol threatened to stop it all together. 
 

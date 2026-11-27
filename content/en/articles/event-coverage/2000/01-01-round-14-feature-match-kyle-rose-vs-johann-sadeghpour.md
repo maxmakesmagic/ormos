@@ -44,7 +44,9 @@ archive_source:
   sha256: 3078b43976699d1c3c55a3628553b2ac853a979be58b0c00624b9b20dd621156
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/739.jpg)Kyle Rose was American National Champion in 1999 and won Pro Tour London in 1999. Johann Sadeghpour is a strong Norwegian player, and he's trying to make his first Pro Tour Top 8. Kyle is likely to make Top 8 regardless of the outcome of this game, but Johann needs a win to make Top 8. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/739.jpg)
+
+Kyle Rose was American National Champion in 1999 and won Pro Tour London in 1999. Johann Sadeghpour is a strong Norwegian player, and he's trying to make his first Pro Tour Top 8. Kyle is likely to make Top 8 regardless of the outcome of this game, but Johann needs a win to make Top 8. 
 
 Kyle opened up game one with a turn two Quirion Elves. Johann, noting that Kyle had played the Elves off of two forests, decided to get rid of them before Kyle could take advantage of the White mana they could produce. He used a Tribal Flames on them, but it was fairly for naught, as Kyle laid a Plains the next turn, and then cast a Pincer Spider. Johann didn't have anything else to do, so he simply bided his time. Kyle got anxious, and played a Charging Troll without being able to regenerate it, not thinking that Johann would have a damage based answer to the Troll. He did, though. A Lightning Dart blew away the monster, and Kyle was left with his original Pincer Spider. 
 

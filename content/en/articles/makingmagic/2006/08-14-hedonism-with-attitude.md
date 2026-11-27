@@ -95,7 +95,9 @@ render_recovery: []
 ---
 ![Rakdos_the_Defiler](http://www.wizards.com/magic/images/cardart/DIS/Rakdos_the_Defiler.jpg%0A%09%09%09)
 
-![Rakdos_the_Defiler](https://i.ormos.uk/74/6a/746a718c82b4a2b8f03b5b5ce3f36fee47fa07e5ce66673f369d7cd7e6c6e7fa.jpg)Welcometo Rakdos Week! Finally! Yes, the ten-part two-color guild articles are finally coming to a close, this being number ten and all. (In case this whole series is new to you, feel free to check out my columns on [Selesnya](/en/articles/makingmagic/2005/10-03-group-think), [Golgari](/en/articles/makingmagic/2005/10-24-life-and-death), [Dimir](/en/articles/makingmagic/2005/11-07-pretty-sneaky-sis), [Boros](/en/articles/makingmagic/2005/12-05-disorderly-conduct), [Gruul](/en/articles/makingmagic/2006/01-30-aaaargh), [Izzet](/en/articles/makingmagic/2006/02-27-creative-differences), [Orzhov](/en/articles/makingmagic/2006/03-27-playing-by-their-own-rules), [Azorius](/en/articles/makingmagic/2006/05-01-slow-and-steady) and [Simic](/en/articles/makingmagic/2006/05-22-improving-upon-nature).) I’m sorry for the delay, but *Coldsnap* doesn’t like to be ignored.
+![Rakdos_the_Defiler](https://i.ormos.uk/74/6a/746a718c82b4a2b8f03b5b5ce3f36fee47fa07e5ce66673f369d7cd7e6c6e7fa.jpg)
+
+Welcometo Rakdos Week! Finally! Yes, the ten-part two-color guild articles are finally coming to a close, this being number ten and all. (In case this whole series is new to you, feel free to check out my columns on [Selesnya](/en/articles/makingmagic/2005/10-03-group-think), [Golgari](/en/articles/makingmagic/2005/10-24-life-and-death), [Dimir](/en/articles/makingmagic/2005/11-07-pretty-sneaky-sis), [Boros](/en/articles/makingmagic/2005/12-05-disorderly-conduct), [Gruul](/en/articles/makingmagic/2006/01-30-aaaargh), [Izzet](/en/articles/makingmagic/2006/02-27-creative-differences), [Orzhov](/en/articles/makingmagic/2006/03-27-playing-by-their-own-rules), [Azorius](/en/articles/makingmagic/2006/05-01-slow-and-steady) and [Simic](/en/articles/makingmagic/2006/05-22-improving-upon-nature).) I’m sorry for the delay, but *Coldsnap* doesn’t like to be ignored.
 
 The ten-part series was inspired by an original five-part series (six if you count [artifacts](/en/articles/makingmagic/2005/02-28-just-the-artifacts-maam)) on the mono color and their philosophies ([green](https://web.archive.org/web/20060814000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr43), [white](https://web.archive.org/web/20060814000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr57), [blue](https://web.archive.org/web/20060814000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr84), [black](/en/articles/makingmagic/2004/02-02-in-the-black) and [red](/en/articles/makingmagic/2004/07-19-seeing-red)). So if you like what you see here today, there’s lots more where this came from. Finally, as always, I should point out that my column today is not about the Rakdos guild in particular. Rather it is an examination of the philosophy that results from the overlap of black and red. Please check out Matt Cavotta’s “Taste the Magic” column this Wednesday to hear more about the Rakdos guild.
 
@@ -151,7 +153,9 @@ Nothing drives Rakdos crazier than seeing others try to live up to white’s ide
 
 ![Dread_Slag](http://www.wizards.com/magic/images/cardart/DIS/Dread_Slag.jpg%0A%09%09%09)
 
-![Dread_Slag](https://i.ormos.uk/f9/15/f9155d1ac22472b0985193a50d36a7b89eab21bbf92db04ba8b1271f33d7ccbe.jpg)Black/red’s greatest strength is a complete uncaring of the consequences of its actions. Oftentimes, people are held back by their own self-imposed limitations. Rakdos doesn’t have this problem.
+![Dread_Slag](https://i.ormos.uk/f9/15/f9155d1ac22472b0985193a50d36a7b89eab21bbf92db04ba8b1271f33d7ccbe.jpg)
+
+Black/red’s greatest strength is a complete uncaring of the consequences of its actions. Oftentimes, people are held back by their own self-imposed limitations. Rakdos doesn’t have this problem.
 
 Black/red’s greatest weakness? No self-control. When you live day-to-day doing what you want, it’s hard to learn any sense of discipline. Black/red often gets mad at itself for later realizing that it did something stupid. Not that it really slows black/red down, it just makes them angry. This, of course, only perpetuates the cycle as Rakdos can do real stupid things when it’s upset.
 
@@ -209,7 +213,9 @@ Instead of building to controversy, let’s just rip the band-aid off this year:
 
 ### Vote #1 – Mike Long
 
-![](https://i.ormos.uk/dc/a2/dca2f980aebe0c8338c462bc0f4052e970399584a1a9b9692e5e544ffdc8ed36.jpg)Why Mark, why? There is not a single thing that I have ever written in my column (and I’ve been at this for four and a half years – twelve years if you count all my writing before **magicthegathering.com**) that has gotten more negative mail than my vote for Long last year. People were violently upset. To some I crossed a line that should never be crossed. To others, I was the “face man” of the company reinforcing the worst aspects of the game. I read all my mail. I got tons and tons of heartfelt letters explaining how my decision personally upset them. So why am I doing it again? Because I cannot make my decisions based on other people’s feelings. I have to make my decisions based on my feelings.
+![](https://i.ormos.uk/dc/a2/dca2f980aebe0c8338c462bc0f4052e970399584a1a9b9692e5e544ffdc8ed36.jpg)
+
+Why Mark, why? There is not a single thing that I have ever written in my column (and I’ve been at this for four and a half years – twelve years if you count all my writing before **magicthegathering.com**) that has gotten more negative mail than my vote for Long last year. People were violently upset. To some I crossed a line that should never be crossed. To others, I was the “face man” of the company reinforcing the worst aspects of the game. I read all my mail. I got tons and tons of heartfelt letters explaining how my decision personally upset them. So why am I doing it again? Because I cannot make my decisions based on other people’s feelings. I have to make my decisions based on my feelings.
 
 I know that many other people disagree with me on how I see the Hall of Fame. My response is that this whole process is subjective. As a member of the committee, I have the responsibility to interpret how I see the Hall. And here’s how I see it. To me, the Hall of Fame is not some moral benchmark to reward the players that I see as living up to some standard that I want others to follow. As far as I’m concerned, it simply isn’t. But please, I respect the fact that others see it this way. I just don’t. The Hall of Fame for me is a living record of the people that made the Pro Tour what it is.
 
@@ -251,7 +257,9 @@ But that alone wasn’t enough to seal the deal for me. What pushed Scott in fro
 
 ### #5 – Chris Pikula
 
-![](https://i.ormos.uk/06/cf/06cf0541427289add238f46b345aee6b6b7a449535bc9c900efc46c0cc463ab3.jpg)One of the things that upset me most last year was how my vote for Mike Long was interpreted as my not caring about the integrity of the Pro Tour. I care very much. So much so, that I realized that it was important to this year vote a yin for Long’s yang. Chris embodies everything that is good about the Pro Tour. He stood up for honesty when it wasn’t the popular thing to do. And he did so as charismatically as was possible.
+![](https://i.ormos.uk/06/cf/06cf0541427289add238f46b345aee6b6b7a449535bc9c900efc46c0cc463ab3.jpg)
+
+One of the things that upset me most last year was how my vote for Mike Long was interpreted as my not caring about the integrity of the Pro Tour. I care very much. So much so, that I realized that it was important to this year vote a yin for Long’s yang. Chris embodies everything that is good about the Pro Tour. He stood up for honesty when it wasn’t the popular thing to do. And he did so as charismatically as was possible.
 
 If Mike was the player people loved to hate, Chris was the one they loved to love. Chris made the game fun by making you enjoy watching him play. And when he wasn’t playing, he made you want to watch it to hear what he was going to say about it as one of the best commentators we ever had. This is why Chris got invited year after year to the **Magic** Invitational. This isn’t to say that Chris was a slouch when it came to Pro Tour play. He had three Pro Tour Top 8s (and he was one poor play away from four), a number of Grand Prix Top 2s, and, of course, possibly the best **Magic** Invitational win ever.
 

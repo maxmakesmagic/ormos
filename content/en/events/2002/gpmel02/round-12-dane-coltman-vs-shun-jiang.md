@@ -82,7 +82,9 @@ render_recovery:
   - Crown of Suspicion
   occurrences: 40
 ---
-![](http://www.wizards.com/sideboard/images/gpmel02/a898.jpg)This is a match between the local lad Jiang (Kangar within Team Heaven) and the near-north invader, Dane from Canberra. It would be a close match-up between BW beats and RG (elves and goblins), with the loser being knocked out of contention for the top 8.
+![](http://www.wizards.com/sideboard/images/gpmel02/a898.jpg)
+
+This is a match between the local lad Jiang (Kangar within Team Heaven) and the near-north invader, Dane from Canberra. It would be a close match-up between BW beats and RG (elves and goblins), with the loser being knocked out of contention for the top 8.
 
 ### Game 1
 
@@ -106,7 +108,9 @@ From this point it was simply a matter of Jiang casting chump blockers for the a
 
 Jiang wins – 1 game all.
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a899.jpg)Jiang added his second Naturalize for Explosive Vegetation; Dane makes no changes.
+![](http://www.wizards.com/sideboard/images/gpmel02/a899.jpg)
+
+Jiang added his second Naturalize for Explosive Vegetation; Dane makes no changes.
 
 ### Game 3
 

@@ -109,7 +109,9 @@ Chandra wasn't a woman who would appreciate his protectiveness, but it wasn't in
 
   
 
-![](http://wizards.com//mtg/images/daily/stf/stf84_c.png)handra's trail dead-ended at a barren mountain pass in Akoum, and there was nothing else he could do. Gideon considered planeswalking from this violent world right then, but he was exhausted after tracking her for two days—and nearly dying on several occasions—and he wanted a good night's sleep, or as close as he could in the inhospitable world of Zendikar.
+![](http://wizards.com//mtg/images/daily/stf/stf84_c.png)
+
+handra's trail dead-ended at a barren mountain pass in Akoum, and there was nothing else he could do. Gideon considered planeswalking from this violent world right then, but he was exhausted after tracking her for two days—and nearly dying on several occasions—and he wanted a good night's sleep, or as close as he could in the inhospitable world of Zendikar.
 
 ![](http://wizards.com//mtg/images/daily/stf/stf84_nuib6a5rtbr9nva.jpg)  
 

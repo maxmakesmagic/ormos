@@ -72,7 +72,9 @@ render_recovery:
   - Erratic Explosion
   occurrences: 14
 ---
-![](https://i.ormos.uk/02/3a/023aee0348060010a06ffc4807a30a1795fd190044d2e0f39a6252768ac09487.jpg)A match of the two best European players of the last season, it's hard to find a higher profile match at any GP. Jens is bringing a White/Black deck to the table with a lot of power rares like Grinning Demon, Akroma's Vengeance and Riptide Replicator. Kai is playing a fast White/Red deck with lots of fliers.
+![](https://i.ormos.uk/02/3a/023aee0348060010a06ffc4807a30a1795fd190044d2e0f39a6252768ac09487.jpg)
+
+A match of the two best European players of the last season, it's hard to find a higher profile match at any GP. Jens is bringing a White/Black deck to the table with a lot of power rares like Grinning Demon, Akroma's Vengeance and Riptide Replicator. Kai is playing a fast White/Red deck with lots of fliers.
 
 ### Game 1
 
@@ -92,7 +94,9 @@ Another game another mulligan. Jens shot a glare at Kai, Kai could only shrug an
  "Oh...right."  
  "Ah...prereleases."
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a841.jpg)Jens was on the backfoot all game, his mulligan playing first made sure he couldn't keep up with Kai's creature rush. Jens died as he had no way to deal with two Gustcloak Harriers and scooped when Kai showed him an Erratic Explosion to the dome.
+![](http://www.wizards.com/sideboard/images/gpcop02/a841.jpg)
+
+Jens was on the backfoot all game, his mulligan playing first made sure he couldn't keep up with Kai's creature rush. Jens died as he had no way to deal with two Gustcloak Harriers and scooped when Kai showed him an Erratic Explosion to the dome.
 
 A rather unexciting match as Kai just rolled over Jens who couldn't really keep up due to his mulligans. Too bad a match between two great players couldn't offer more than that.
 

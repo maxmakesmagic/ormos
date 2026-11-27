@@ -116,7 +116,9 @@ render_recovery:
   - Phantom Nishoba
   occurrences: 106
 ---
-![](https://i.ormos.uk/42/d9/42d9e497ca80b966cd6b842de50e2fb150e7b5b3f0577b80503cc75d6f81fa97.jpg)Styx jokes aside, Carl Lobato has every right to be here tonight. The up-and-comer from San Antonio has caught the eyes of pros this weekend, as probably the only competent Angry Hermit player on Day 1. His version was tuned, and he made the right decisions easily. That same skill did him well on Day 2, and now he sits within arm's reach of greatness.
+![](https://i.ormos.uk/42/d9/42d9e497ca80b966cd6b842de50e2fb150e7b5b3f0577b80503cc75d6f81fa97.jpg)
+
+Styx jokes aside, Carl Lobato has every right to be here tonight. The up-and-comer from San Antonio has caught the eyes of pros this weekend, as probably the only competent Angry Hermit player on Day 1. His version was tuned, and he made the right decisions easily. That same skill did him well on Day 2, and now he sits within arm's reach of greatness.
 
 Opposite him is reigning U.S. National Champ Eugene Harvey. Though he might not cut an imposing figure, his reputation precedes him. No-one expects an easy match against Eugene. He is playing Psychatog, developed by the CMU-Togit ensemble, but mostly by danger-seeker Osyp Lebedowicz. He's confident it's the best deck to play right now.
 
@@ -140,7 +142,9 @@ Carl Lobato 1 - Eugene Harvey 1
 
 ### Game 3
 
-![](https://i.ormos.uk/21/a3/21a3660904d67d380cafebe7ac12fa5b49c541e418bd1e834ae4cfe40f7f924f.jpg)Lobato mulled to six, and then proceeded to bust out a Defense Grid on turn one, thanks to a Mox Diamond. Harvey Duressed back, and saw a hand of Darigaaz's Caldera and Verdant Force, which Lobato conceded was "Not great". He drew Defense Grid and held it, crossing his fingers that his deck would be kinder.
+![](https://i.ormos.uk/21/a3/21a3660904d67d380cafebe7ac12fa5b49c541e418bd1e834ae4cfe40f7f924f.jpg)
+
+Lobato mulled to six, and then proceeded to bust out a Defense Grid on turn one, thanks to a Mox Diamond. Harvey Duressed back, and saw a hand of Darigaaz's Caldera and Verdant Force, which Lobato conceded was "Not great". He drew Defense Grid and held it, crossing his fingers that his deck would be kinder.
 
 Meanwhile, Harvey Brainstormed and Accumulated Knowledge, digging to a point where he could get some action. He followed up with Psychatog. Lobato played out his second Grid. Harvey swung in for his first point. Lobato hit his fifth land and dropped Genesis into play. Harvey stalled with Capsize with buyback.
 

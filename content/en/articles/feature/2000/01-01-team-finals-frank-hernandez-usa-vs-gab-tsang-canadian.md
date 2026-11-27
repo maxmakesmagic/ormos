@@ -75,13 +75,17 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/463.jpg)In what looked to be Team Canada's best match up, Pro Tour veteran Gab Tsang faced off against newcomer Frank Hernandez in a dual of National team third chairs. The match up, which judging by the archetypes would normally favor Hernandez, looked good for Tsang because of a sideboard loaded with Submerges and Somnophores, both excellent cards against the American's deck.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/463.jpg)
+
+In what looked to be Team Canada's best match up, Pro Tour veteran Gab Tsang faced off against newcomer Frank Hernandez in a dual of National team third chairs. The match up, which judging by the archetypes would normally favor Hernandez, looked good for Tsang because of a sideboard loaded with Submerges and Somnophores, both excellent cards against the American's deck.
 
 Game one, in which Hernandez would not have to face Tsang's vicious sideboard, went well for the Florida native. After Tsang mulliganed, Hernandez, playing first, came out strong with a first turn Wild Dog which he Rancored on turn two, attacking for 4. With an end-of-turn Vine Dryad having joined the fray, Frank was obviously on the offensive. While Gab's 2nd and third turn Powder Kegs helped, when Frank played both the original Rancor and a recently drawn one on the Dryad with Gab at 5 life, there was nothing the Juggernaut could do but conceed.
 
 Hernandez
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/461.jpg)Game two saw Tsang, playing first this time, mulligan to six cards before playing his first Island. Frank's first turn Wild Dogs met an early demise when Tsang was able to Submerge in response to Rancor being cast.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/461.jpg)
+
+Game two saw Tsang, playing first this time, mulligan to six cards before playing his first Island. Frank's first turn Wild Dogs met an early demise when Tsang was able to Submerge in response to Rancor being cast.
 
 Frank wasn't ready to quit just yet. Drawing the Dogs for the second time, he played a Gaea's Cradle along with the Dog and what seemed to be a dangerous River Boa. When he tried to Rancor up the Dog again, Gab was waiting with the second Submerge, after which he untapped, played a fifth land, cast Treachery on the Boa and played Somnophore. Frank played the game out, but to no avail as the match went to game 3
 

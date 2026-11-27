@@ -57,7 +57,9 @@ render_recovery:
     card text.
   occurrences: 1
 ---
-![](https://i.ormos.uk/d8/bd/d8bdb5d38e3c51942c63122f3e6d6dde24559c591189c167fac67cb57db989bd.jpg)Looking for the new Standard tech? Want to see who the local champions are in your area? Let the decklists from **Magic** Game Day be your guide as you explore the Standard environment.
+![](https://i.ormos.uk/d8/bd/d8bdb5d38e3c51942c63122f3e6d6dde24559c591189c167fac67cb57db989bd.jpg)
+
+Looking for the new Standard tech? Want to see who the local champions are in your area? Let the decklists from **Magic** Game Day be your guide as you explore the Standard environment.
 
 You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20091227175207/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each decklist and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw.
 

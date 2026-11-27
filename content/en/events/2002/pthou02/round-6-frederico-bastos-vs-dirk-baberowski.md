@@ -92,7 +92,9 @@ Frederico is one of the few people in this tournament who's running a true beatd
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/pthou02/a532.jpg)Frederico wins the flip and plays Mountain, Mogg Fanatic. Next turn he Reckless Charges the Mogg Fanatic, coming in for 4. Dirk just continues to play Swamps. On his next turn, Frederico Sonic Bursts Dirk, and serves for one. Dirk Vampiric Tutors for an Entomb, and spends his turn Entombing a Verdant Force and Exhuming it. Frederico responds by sacrificing his Mogg Fanatic, bringing Dirk to 8 life and shows him Sonic Burst and Reckless Abandon.
+![](http://www.wizards.com/sideboard/images/pthou02/a532.jpg)
+
+Frederico wins the flip and plays Mountain, Mogg Fanatic. Next turn he Reckless Charges the Mogg Fanatic, coming in for 4. Dirk just continues to play Swamps. On his next turn, Frederico Sonic Bursts Dirk, and serves for one. Dirk Vampiric Tutors for an Entomb, and spends his turn Entombing a Verdant Force and Exhuming it. Frederico responds by sacrificing his Mogg Fanatic, bringing Dirk to 8 life and shows him Sonic Burst and Reckless Abandon.
 
 Dirk sides in 2 Shadowmage Infiltrators and Phantom Nishoba for Rushing River, Gilded Drake and Thrashing Wumpus. Frederico brings in 2 Threaten for 2 Goblin Patrols.
 
@@ -111,6 +113,8 @@ Frederico let the suffering continue for a little longer and scooped two turns l
 
 ### Game 3
 
-![](https://i.ormos.uk/07/0d/070d5417130eb2e2c12e2564772779a053ff58656437ac3cc47ab23fb3db0536.jpg)Frederico leads with a Bloodstained Mire and Jackal Pup. Next turn he drops a Pup and Grim Lavamancer, quite the start for Sligh. Dirk however, Entombed a Verdant Force and Exhumed it. Frederico then played a Seal of Fire, and felt the match slipping away quickly. A Duress reveals a Shock, Reckless Charge and Goblin Patrol. After getting rid of the Shock, Dirk sends a token into the Red Zone. Frederico makes the Goblin Patrol and blocks the Verdant Force with it next turn. Dirk casts a Wonder next turn, and sends in some more tokens. One attack phase later and Dirk gets a chance to draw into day 2.
+![](https://i.ormos.uk/07/0d/070d5417130eb2e2c12e2564772779a053ff58656437ac3cc47ab23fb3db0536.jpg)
+
+Frederico leads with a Bloodstained Mire and Jackal Pup. Next turn he drops a Pup and Grim Lavamancer, quite the start for Sligh. Dirk however, Entombed a Verdant Force and Exhumed it. Frederico then played a Seal of Fire, and felt the match slipping away quickly. A Duress reveals a Shock, Reckless Charge and Goblin Patrol. After getting rid of the Shock, Dirk sends a token into the Red Zone. Frederico makes the Goblin Patrol and blocks the Verdant Force with it next turn. Dirk casts a Wonder next turn, and sends in some more tokens. One attack phase later and Dirk gets a chance to draw into day 2.
 
 **Final Result:** Dirk Baberowksi 2 – Frederico Bastos 1

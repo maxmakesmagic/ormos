@@ -53,7 +53,9 @@ archive_source:
   sha256: 949ddd9b0d39c86fd89dcfd1bcebfa35554243dbaa1a0f84dd37d01de0a0ed29
 render_recovery: []
 ---
-![](https://i.ormos.uk/43/45/4345741dc0c2637692a76050e78211ef4785d329433400c55173d7400c603876.jpg)“The King of the Asian Grand Prix” Alex Shvartsman is looking to take his traveling roadshow of Top 8’s to the American circuit. His newfound responsibilities as a store owner have cut into his transcontinental travel. This weekend he’s looking to flip over the metagame with YMG’s latest homebrew: Bad Form. It’s a mono-red control deck that tops out at the mighty Form of the Dragon. His opponent this round is Ken “The Master” Ho, who’s also playing something west of normal. His is a black-red control deck packed with removal. It’s a bad matchup against Shvartsman.
+![](https://i.ormos.uk/43/45/4345741dc0c2637692a76050e78211ef4785d329433400c55173d7400c603876.jpg)
+
+“The King of the Asian Grand Prix” Alex Shvartsman is looking to take his traveling roadshow of Top 8’s to the American circuit. His newfound responsibilities as a store owner have cut into his transcontinental travel. This weekend he’s looking to flip over the metagame with YMG’s latest homebrew: Bad Form. It’s a mono-red control deck that tops out at the mighty Form of the Dragon. His opponent this round is Ken “The Master” Ho, who’s also playing something west of normal. His is a black-red control deck packed with removal. It’s a bad matchup against Shvartsman.
 
 Ho led with a Forgotten Cave.
 
@@ -61,7 +63,9 @@ Ho led with a Forgotten Cave.
 
 Ho followed up with a Bloodstained Mire, earning a “What the hell is going on?” from Shvartsman. He got a mountain and played a Lightning Rift. Shvartsman cycled a Spark Spray, then untapped, cycled another and a Forgotten Cave, getting it out of the way. Ho swampcycled a Twisted Abomination and was done. Shvartsman played a Rift of his own. Ho played a Temple of the False God, needing one more land. Shvartsman set him back with Lay Waste on his swamp.
 
-![](https://www.wizards.com/sideboard/images/gpdet03/a980.jpg)Now on just three lands, Ho crossed his fingers and cycled Gempalm Incinerator. It served up a mountain. Shvartsman dropped another Lay Waste. Ho kept ripping lands, though, and the two played opposing Rifts. Finally Ho dropped land number five and busted in with Rorix, moving to dock Shvartsman six life. Shvartsman paused him, and with four untapped mountains sent Shock and a cycled Forgotten Cave to the dragon’s head.
+![](https://www.wizards.com/sideboard/images/gpdet03/a980.jpg)
+
+Now on just three lands, Ho crossed his fingers and cycled Gempalm Incinerator. It served up a mountain. Shvartsman dropped another Lay Waste. Ho kept ripping lands, though, and the two played opposing Rifts. Finally Ho dropped land number five and busted in with Rorix, moving to dock Shvartsman six life. Shvartsman paused him, and with four untapped mountains sent Shock and a cycled Forgotten Cave to the dragon’s head.
 
 Both players started cycling for damage, trying to get a leg up. Soon it was Ho at seven, Shvartsman at ten. Ho looked at his lands for a long time before giving it over to Shvartsman. Shvartsman Shocked him, so Ho went for it. He cycled his Forgotten Cave, dealing four but taking only two from a now tapped out Shvartsman. He drew a non-cycler and had to give it back. Shvartsman showed him Solar Blast.
 
@@ -73,7 +77,9 @@ Ho hit for another six and played another Temple. Shvartsman cycled a Lay Waste 
 
 Shvartsman 1 – Ho 1 
 
-![](https://www.wizards.com/sideboard/images/gpdet03/a981.jpg)Again there were no plays until turn three, when Shvartsman triumphantly tapped three for Misguided Rage. Ho was visibly dismayed.
+![](https://www.wizards.com/sideboard/images/gpdet03/a981.jpg)
+
+Again there were no plays until turn three, when Shvartsman triumphantly tapped three for Misguided Rage. Ho was visibly dismayed.
 
 “I’ve got a bad feeling about this.” – Ken Ho
 

@@ -133,7 +133,9 @@ render_recovery:
   - Zombie Infestation
   occurrences: 117
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a921.jpg)This round saw a clash of two top European players currently in leaner times. Antoine Ruel is a Frenchman with many solid Top 8 Grand Prix performances but since making the Semi's at World's last year as had a very quiet year by his standards. Noah Boeken is also a highly successful Dutch player, but only managed to break his drought with a recent win at Grand Prix Barcelona.
+![](http://www.wizards.com/sideboard/images/ptnice02/a921.jpg)
+
+This round saw a clash of two top European players currently in leaner times. Antoine Ruel is a Frenchman with many solid Top 8 Grand Prix performances but since making the Semi's at World's last year as had a very quiet year by his standards. Noah Boeken is also a highly successful Dutch player, but only managed to break his drought with a recent win at Grand Prix Barcelona.
 
 Noah Boeken has a solid blue-black deck while Antoine Ruel has a very poor looking green-black deck that he's somehow managed to pilot to a 2-0-1 record. 
 
@@ -149,7 +151,9 @@ Instead Ruel could start attacking back with a bunch of dodgy mana fixers – th
 
 A Skywing Aven gave Boeken an attacker with evasion and a Looter that dug him to another unblockable creature in the form of a Whispering Shade.
 
-![](https://i.ormos.uk/79/74/797421dad4f14de70405c086667945ccd1615b386efbac63f551dec0736bcfd9.jpg)Ruel had a lot of damage in his hand in the form of Muscle Burst, Strength of Lunacy and the Narcissism. But now Boeken had the Shade he was happy to block the Grinder with the Mindslicer and then negate any tricks with the Waste Away he'd returned with a Scrivener earlier.
+![](https://i.ormos.uk/79/74/797421dad4f14de70405c086667945ccd1615b386efbac63f551dec0736bcfd9.jpg)
+
+Ruel had a lot of damage in his hand in the form of Muscle Burst, Strength of Lunacy and the Narcissism. But now Boeken had the Shade he was happy to block the Grinder with the Mindslicer and then negate any tricks with the Waste Away he'd returned with a Scrivener earlier.
 
 Flashing back one of the two Deep Analysis he'd already cast gave Boeken the 4th swamp he needed to finish Ruel off with the Shade and Skywing Aven.
 
@@ -159,7 +163,9 @@ Ruel brought in some mountains so he could splash for a Savage Firecat and Rites
 
 Ruel had to mulligan and went further behind on card advantage as he needed to use a Waste Away to kill Boeken's Looter, thankfully having the Nantuko Elder to provide the acceleration.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a920.jpg)Boeken needed the Looter though as he missed a few land drops and didn't have a swamp. After his Rotting Giant was Liquefied Ruel couldn't really take advantage with his multiple land, Muscle Burst hand.
+![](http://www.wizards.com/sideboard/images/ptnice02/a920.jpg)
+
+Boeken needed the Looter though as he missed a few land drops and didn't have a swamp. After his Rotting Giant was Liquefied Ruel couldn't really take advantage with his multiple land, Muscle Burst hand.
 
 Boeken discarded a Deep Analysis and flashed it back to quickly recover. Soon Antoine was being battered by a Treetop Sentinel, Cephalid Sage, Frightcrawler and Hydromorph Guardian. The Frenchman's Elder and Krosan Restorer weren't really up to the task.
 

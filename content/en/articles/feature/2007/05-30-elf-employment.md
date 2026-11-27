@@ -70,7 +70,9 @@ render_recovery:
 ---
 Welcome to ELF Week! Today we're going to look at ELF, the Executable and Linking Format (formerly called the Extensible Linking Format), which is apparently a common standard file format for executables, object code, shared libraries, and core dumps.
 
-[![Wellwisher](https://i.ormos.uk/31/04/3104b2a3ab4710952b6b21949b1e3d6834472645b97f206faf6fbc3fc39cbd54.jpg)](https://web.archive.org/web/20070530000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wellwisher)Whoops. What I meant to say was: Welcome to Elf Week! That squeal you just heard was me. Cause: Delight. Before I get to the decks, let me just say:
+[![Wellwisher](https://i.ormos.uk/31/04/3104b2a3ab4710952b6b21949b1e3d6834472645b97f206faf6fbc3fc39cbd54.jpg)](https://web.archive.org/web/20070530000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wellwisher)
+
+Whoops. What I meant to say was: Welcome to Elf Week! That squeal you just heard was me. Cause: Delight. Before I get to the decks, let me just say:
 
 Finally!
 

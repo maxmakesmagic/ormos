@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/92/03/9203fd9d5d155b3ff69b71ea19fbb0154909e906ec22b7d3c383e081f9e2c984.jpg)Announcing the Champions of Kamigawa site!
+![](https://i.ormos.uk/92/03/9203fd9d5d155b3ff69b71ea19fbb0154909e906ec22b7d3c383e081f9e2c984.jpg)
+
+Announcing the Champions of Kamigawa site!
 
 Conveniently located at [www.magicthegathering.com/kamigawa](https://web.archive.org/web/20080422233625/http://www.wizards.com/magic/displayexpansion.asp?set=chk&page=1), the site will expand to contain stories about the background of the Kamigawa world, wallpapers and screensavers, and an archive of cards previewed on **magicthegathering.com**.
 

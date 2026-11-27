@@ -138,7 +138,9 @@ Singleton Desire by SWK
 
 **ITA**: I remember for a while you were simply one of the better local players, but recently you've been making quite a splash on the Pro scene! What would you say are the keys to taking your game to a higher level?
 
-![](https://i.ormos.uk/8d/4f/8d4f524f53b788a1e28092809c474672f94f16f1513d0c31f6729a1767e2c39a.jpg)**SWK**: ***Magic** Online* has been a huge boost to my game, being able to play whenever I want has helped develop my skill. Also getting to know people to be able to test with and get decks from. Most notably would be the testing before Pro Tour Philadelphia as a member of Taking Back Sunday, Gadiel, John Pelcak, Tim Aten, Adam Chambers, Don Smith, Pacifico, Biiiiiig Ooootz just to name a few. All working together to come up with the deck Gadiel would eventually use to win the PT. I couldn't imagine that a few months later Tim Aten would be giving me a list that I'd top 4 a Pro Tour with!
+![](https://i.ormos.uk/8d/4f/8d4f524f53b788a1e28092809c474672f94f16f1513d0c31f6729a1767e2c39a.jpg)
+
+**SWK**: ***Magic** Online* has been a huge boost to my game, being able to play whenever I want has helped develop my skill. Also getting to know people to be able to test with and get decks from. Most notably would be the testing before Pro Tour Philadelphia as a member of Taking Back Sunday, Gadiel, John Pelcak, Tim Aten, Adam Chambers, Don Smith, Pacifico, Biiiiiig Ooootz just to name a few. All working together to come up with the deck Gadiel would eventually use to win the PT. I couldn't imagine that a few months later Tim Aten would be giving me a list that I'd top 4 a Pro Tour with!
 
 **ITA**: How tough has it been to balance keeping your game crisp with keeping up with college?
 

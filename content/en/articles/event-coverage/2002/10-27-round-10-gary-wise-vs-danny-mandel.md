@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/a1/70/a170d003f697d8ebb2bc7f0c260fe08c0397d70b12818401dbce85676adf827e.jpg)The two are well thought-of fixtures on the Pro Tour, but one is louder.
+![](https://i.ormos.uk/a1/70/a170d003f697d8ebb2bc7f0c260fe08c0397d70b12818401dbce85676adf827e.jpg)
+
+The two are well thought-of fixtures on the Pro Tour, but one is louder.
 
 Gary Wise is well-known for his "Wise Words" column on The Sideboard, for testing with Ben Ronaldson and John Ormerod, and for a scattering of high finishes all over the globe. 
 
@@ -109,7 +111,9 @@ And the fourth mountain came down, causing Wise to mutter, "Uh-oh." Gary gamely 
 
 "Do you have an [Akroma's Vengeance](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance)?" asked Danny. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a914.jpg)"Three," Wise replied. "I can't believe you don't remember that!"
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a914.jpg)
+
+"Three," Wise replied. "I can't believe you don't remember that!"
 
 Danny sent with everything, bringing Wise down to thirteen. Gary laid a sole morph, which looked pretty small in the face of the small army he was staring down.
 
@@ -147,7 +151,9 @@ Mandel sent the Spider in, then laid [Flamestick Courier](https://web.archive.or
 
 Mandel used a [Contested Cliffs](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Contested+Cliffs) to try and axe the [Glory Seeker](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory+Seeker) with the Lorian, but Gary had the [Piety Charm](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Piety+Charm) to force a trade.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a913.jpg)Mandel laid a morph, bringing his total of creatures up to six - half of them red - while Gary had a sole Lancer. He chose not to attack, waiting for the blitz; trying to regain position, Gary laid the 6/6 [Aven Fateshaper](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Fateshaper) - which the [Silklash Spider](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silklash+Spider) promptly swept away, and Mandel started in on the assault at last by unmorphing a [Hystrodon](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hystrodon) and sending in with all of his green creatures. Gary had blocked the morph, though, anticipating the move, but still took seven damage.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a913.jpg)
+
+Mandel laid a morph, bringing his total of creatures up to six - half of them red - while Gary had a sole Lancer. He chose not to attack, waiting for the blitz; trying to regain position, Gary laid the 6/6 [Aven Fateshaper](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Fateshaper) - which the [Silklash Spider](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silklash+Spider) promptly swept away, and Mandel started in on the assault at last by unmorphing a [Hystrodon](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hystrodon) and sending in with all of his green creatures. Gary had blocked the morph, though, anticipating the move, but still took seven damage.
 
 Gary cast an [Ascending Aven](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ascending+Aven), but had no cards. Mandel picked up on this instantly. "How many cards?" he asked, not believing his good luck.
 

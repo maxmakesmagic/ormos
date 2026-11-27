@@ -645,7 +645,9 @@ render_recovery:
 
 　Kroger も必死に《縫合/Stitch Together》で《共生のワーム/Symbiotic Wurm》を指定するが、勿論尋は《クローサ流再利用/Krosan Reclamation》を使用する。対象は《共生のワーム/Symbiotic Wurm》と《幻影のニショーバ/Phantom Nishoba》の二枚。
 
-![](http://www.wizards.com/sideboard/images/worlds03/a531.jpg)　そこまでは Kroger も計算済みだ。《クローサ流再利用/Krosan Reclamation》の解決前、まだフラッシュバックが出来ない時を狙って《宿命のネクロマンサー/Doomed Necromancer》を起動する。祈りを受けたワームが冥界から復活に向け動き出す。
+![](http://www.wizards.com/sideboard/images/worlds03/a531.jpg)
+
+　そこまでは Kroger も計算済みだ。《クローサ流再利用/Krosan Reclamation》の解決前、まだフラッシュバックが出来ない時を狙って《宿命のネクロマンサー/Doomed Necromancer》を起動する。祈りを受けたワームが冥界から復活に向け動き出す。
 
 　が、そこで時は止まった。尋が放った必殺の《もみ消し/Stifle》が《宿命のネクロマンサー/Doomed Necromancer》の声を封じ込め、ワームは再びうつらと眠りに落ちる。僅か 1 マナにしてその効果のなんと偉大な事！
 

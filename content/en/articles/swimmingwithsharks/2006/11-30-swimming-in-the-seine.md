@@ -212,7 +212,9 @@ render_recovery:
 ---
 Welcome to my second go-round for The Past Returns Week. I have written more columns for this site than anyone else, so it only fair that I get to go twice. This week I am returning, as close to live and direct as this column ever gets, from Paris, France at the conclusion of Day One of the [2006 **Magic: The Gathering** World Championships](/en/events/2006/worlds06/mihara-dutch-crowned-world-champions) to break down the results from the Standard format at the conclusion of six rounds of play. Not only will I be bringing you the freshest decklists straight from the oven, but I will be stacking them on top of each other – in old SWS fashion – taking them from first to worst. 
 
-![](https://i.ormos.uk/e3/64/e364c1e23432ab33467c99a7165f1e81fa8e6c7e3d9efef619bc0f314a4596a2.jpg)The field was pretty diverse, and players not only had a hard time figuring out what to play but what to prepare to play against. The only decks that people seemed sure they would face were Izzetron decks, with the Hellkite/Whelk tandem, and Dragonstorm. After that the field was wide open for anything from the Angel deck to Zoo variants with stops at virtually every letter in between. Feel free to do a metagame alphabet in the forums if you want some extra credit. 
+![](https://i.ormos.uk/e3/64/e364c1e23432ab33467c99a7165f1e81fa8e6c7e3d9efef619bc0f314a4596a2.jpg)
+
+The field was pretty diverse, and players not only had a hard time figuring out what to play but what to prepare to play against. The only decks that people seemed sure they would face were Izzetron decks, with the Hellkite/Whelk tandem, and Dragonstorm. After that the field was wide open for anything from the Angel deck to Zoo variants with stops at virtually every letter in between. Feel free to do a metagame alphabet in the forums if you want some extra credit. 
 
 I am fighting against the clock to get this done so there may not be as much material as you might typically get in SWS during a less hectic, less racing-against-the-deadline, less Randy-is-tapping-his-toes-waiting-to-do-the-end-of-day-wrap-up, and generally less hyphenated day. 
 

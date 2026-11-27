@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Matthew Vienneau* 
 
-![](https://i.ormos.uk/5c/78/5c78b3edd0df4bb5b916e10fd067bd089f2d0c06a70ec87acb96be0a2427e79c.jpg)The Grand Prix Kyoto finals set relative unknown Yuki Murakami, with no international titles to his name against local favorite Tsuyoshi Fujita who finished 26th at Worlds 1999 and has been in the top 8 Grand Prix events before. Due to the early start time for the final match and the news that a Kyoto native was playing the finals, there were large crowds gathered to watch the contest. 
+![](https://i.ormos.uk/5c/78/5c78b3edd0df4bb5b916e10fd067bd089f2d0c06a70ec87acb96be0a2427e79c.jpg)
+
+The Grand Prix Kyoto finals set relative unknown Yuki Murakami, with no international titles to his name against local favorite Tsuyoshi Fujita who finished 26th at Worlds 1999 and has been in the top 8 Grand Prix events before. Due to the early start time for the final match and the news that a Kyoto native was playing the finals, there were large crowds gathered to watch the contest. 
 
 To add to the excitement, a local television crew had set up a giant train track around the table so they could move their large television camera around to get different angles. Another television camera was moved around on a tripod and several press photographers were on hand taking pictures of the match. The Grand Prix Kyoto finals had the feel of a Pro Tour top 8! 
 

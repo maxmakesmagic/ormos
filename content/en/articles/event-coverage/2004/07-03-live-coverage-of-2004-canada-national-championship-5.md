@@ -44,7 +44,9 @@ archive_source:
   sha256: 5ec097f47fc6730329ad3e3fb5279c7df6f936697535a4f2c7742703146260a7
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm11_1.jpg)Both of these players won other tournaments to get to this point. London player and Magic community fixture, Mike Viner, won the right to play in this tournament during the first grinder on Thursday. He was trying to get maximum usage out of his invite after picking up three early losses. If he could win this round with his blue-white control deck he would be in a decent position to draw into the Top 8 next round.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm11_1.jpg)
+
+Both of these players won other tournaments to get to this point. London player and Magic community fixture, Mike Viner, won the right to play in this tournament during the first grinder on Thursday. He was trying to get maximum usage out of his invite after picking up three early losses. If he could win this round with his blue-white control deck he would be in a decent position to draw into the Top 8 next round.
 
 Jason Gray is part of a group of solid young players from the Vancouver Magic scene. He is also the Vancouver Regional Champion and seemed somewhat awed to be playing on the feature match stage. He was playing [Tooth and Nail](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail).
 

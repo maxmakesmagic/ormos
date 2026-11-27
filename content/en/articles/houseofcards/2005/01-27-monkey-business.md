@@ -523,7 +523,9 @@ I have some bad news.
 
 My chimp escaped.
 
-![](https://i.ormos.uk/b2/c8/b2c8d61ac67fb67f8dc6bccfaf22577d3a7e81e0658377886816164df5111b77.jpg)Oh, Pickles is still here… somewhere. I had been successful in early attempts to track him by scent, but when he realized that, let's just say that he came up with some very clever camouflage schemes. You can't sniff out a monkey if your whole lair smells like monkey.
+![](https://i.ormos.uk/b2/c8/b2c8d61ac67fb67f8dc6bccfaf22577d3a7e81e0658377886816164df5111b77.jpg)
+
+Oh, Pickles is still here… somewhere. I had been successful in early attempts to track him by scent, but when he realized that, let's just say that he came up with some very clever camouflage schemes. You can't sniff out a monkey if your whole lair smells like monkey.
 
 And yeah, I know he's an ape. I call him a monkey because a) it's funnier, and b) it ticks him off. You hear that, Pickles? *Monkey*.
 

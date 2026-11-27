@@ -319,7 +319,9 @@ render_recovery:
 ---
 ### Masahiro Nishiwaki vs. Tsuyoshi Fujita
 
-![](http://www.wizards.com/sideboard/images/gpoka04/r12fm2ja1.jpg)Those who follow competitive Magic certainly recognize Tsuyoshi Fujita, the first Japanese player to make a Pro Tour Top 8. His opponent this round is Masahiro Nishiwaki, an old school player who has been around since the beginning of Japanese Magic. It's a battle of fast red decks with different strategies, as Nishiwaki is running Red Deck Wins, while Fujita has Goblins.
+![](http://www.wizards.com/sideboard/images/gpoka04/r12fm2ja1.jpg)
+
+Those who follow competitive Magic certainly recognize Tsuyoshi Fujita, the first Japanese player to make a Pro Tour Top 8. His opponent this round is Masahiro Nishiwaki, an old school player who has been around since the beginning of Japanese Magic. It's a battle of fast red decks with different strategies, as Nishiwaki is running Red Deck Wins, while Fujita has Goblins.
 
 ### Game 1
 

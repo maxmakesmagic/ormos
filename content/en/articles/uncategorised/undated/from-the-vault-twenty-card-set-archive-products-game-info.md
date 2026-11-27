@@ -40,7 +40,9 @@ render_recovery:
 ---
 ## FROM THE VAULT: TWENTY PRODUCT INFORMATION
 
-![](https://i.ormos.uk/bf/20/bf204c11899d03293ad7e60ef502372966c34e6aae864d4af68b452d9f1569fe.png)These twenty premium foil cards include seven with new art as well as an exclusive life counter and collector's guide. Each card is printed using a foil process unique to the *From the Vault* series.
+![](https://i.ormos.uk/bf/20/bf204c11899d03293ad7e60ef502372966c34e6aae864d4af68b452d9f1569fe.png)
+
+These twenty premium foil cards include seven with new art as well as an exclusive life counter and collector's guide. Each card is printed using a foil process unique to the *From the Vault* series.
 
 **Set Name:** *From the Vault: Twenty*  
 **Number of Cards:** 20

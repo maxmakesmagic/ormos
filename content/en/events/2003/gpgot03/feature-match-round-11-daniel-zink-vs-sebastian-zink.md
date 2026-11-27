@@ -72,7 +72,9 @@ render_recovery:
   - Shatter
   occurrences: 20
 ---
-![](https://i.ormos.uk/8c/b0/8cb021769f1ce5b2a739a517c0a5c62b55eb7b3aa2415b02b5f1fdda55921114.jpg)Time for battle of the Zink brothers, part two. Yesterday Sebastian emerged victorious over his World Championship winning brother. Would today give Daniel opportunity for revenge?
+![](https://i.ormos.uk/8c/b0/8cb021769f1ce5b2a739a517c0a5c62b55eb7b3aa2415b02b5f1fdda55921114.jpg)
+
+Time for battle of the Zink brothers, part two. Yesterday Sebastian emerged victorious over his World Championship winning brother. Would today give Daniel opportunity for revenge?
 
 Sebastian went first and had to mulligan a bomb heavy hand that sadly lacked land. Action started with a Wizard Replica from Sebastian and he continued to peck at Daniel’s life with a Granite Shard. Not a lot else other than land seemed to be appearing from his deck though as he passed turn 6 without casting anything.
 
@@ -86,7 +88,9 @@ Sebastian continued to draw cards that weren’t very useful and then scooped in
 
 Daniel 1-0 Sebastian
 
-![](https://i.ormos.uk/1e/a8/1ea82bc05db731afcd6c7b594f712821d6b0da1c7fc1dad26c68e23da83f30ea.jpg)Sebastian looked long and hard at his seven cards before deciding to keep. Daniel didn’t like his first seven though, so it was his turn to mulligan. The second hand was a one lander and he had to think hard about it. He decided he didn’t want to go to five and the battle of sub-par hands began.
+![](https://i.ormos.uk/1e/a8/1ea82bc05db731afcd6c7b594f712821d6b0da1c7fc1dad26c68e23da83f30ea.jpg)
+
+Sebastian looked long and hard at his seven cards before deciding to keep. Daniel didn’t like his first seven though, so it was his turn to mulligan. The second hand was a one lander and he had to think hard about it. He decided he didn’t want to go to five and the battle of sub-par hands began.
 
 Daniel managed to find his second land for a Tel-Jihad Chosen, but then he had to skip a turn before a third appeared and allowed him to cast a Viridian Joiner to sort the mana problems out.
 
@@ -98,7 +102,9 @@ Now Daniel was under a spot of bother. He was at 7 life, facing Slogger and a 5/
 
 Daniel 1-1 Sebastian
 
-![](https://i.ormos.uk/3a/24/3a24df921208a19ffb6a90a7be20183a93da506813e91e7a36345e335086a3a9.jpg)Mulligans continued to afflict the game. This time it was Sebastian’s turn. Except he had to mulligan again, and again. Sebastian laid his four cards face down on the table and looked at them fairly disconsolately.
+![](https://i.ormos.uk/3a/24/3a24df921208a19ffb6a90a7be20183a93da506813e91e7a36345e335086a3a9.jpg)
+
+Mulligans continued to afflict the game. This time it was Sebastian’s turn. Except he had to mulligan again, and again. Sebastian laid his four cards face down on the table and looked at them fairly disconsolately.
 
 It seemed like Daniel might give him a shot as he missed a third land, although he had a Talisman. Of his two lands one was an artifact so Sebastian was happy to Shatter it.
 

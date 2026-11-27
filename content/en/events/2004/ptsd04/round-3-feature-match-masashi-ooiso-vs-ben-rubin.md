@@ -423,7 +423,9 @@ render_recovery:
 ---
 * * *
 
-![Masashi Ooiso](http://wizards.com/sideboard/images/ptsd04/fm4_1.jpg)In just a short period of time Masashi Ooiso has burst upon the competitive Magic scene, playing his way to two Pro Tour Top 8's. As last season's Rookie of the Year, he received a title to go along with his accomplishments, but don't let that fool you into thinking Ooiso is "potential". He's the real deal, and is sure to be a force on the Pro Tour for years to come. His opponent this round, Ben Rubin, is probably the youngest veteran in the game. Placing in two Pro Tour finals as a young teenager, he went on to win two Masters events. He seems to be less enthusiastic about Magic these days, but still manages to do well, particularly in Grand Prix events. He hasn't been on the Sunday stage of a Pro Tour in a while however, and is looking to return this weekend.
+![Masashi Ooiso](http://wizards.com/sideboard/images/ptsd04/fm4_1.jpg)
+
+In just a short period of time Masashi Ooiso has burst upon the competitive Magic scene, playing his way to two Pro Tour Top 8's. As last season's Rookie of the Year, he received a title to go along with his accomplishments, but don't let that fool you into thinking Ooiso is "potential". He's the real deal, and is sure to be a force on the Pro Tour for years to come. His opponent this round, Ben Rubin, is probably the youngest veteran in the game. Placing in two Pro Tour finals as a young teenager, he went on to win two Masters events. He seems to be less enthusiastic about Magic these days, but still manages to do well, particularly in Grand Prix events. He hasn't been on the Sunday stage of a Pro Tour in a while however, and is looking to return this weekend.
 
 ### Game 1
 

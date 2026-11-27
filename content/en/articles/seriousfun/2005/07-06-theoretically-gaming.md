@@ -383,7 +383,9 @@ That's enough about zero-sum; I can see your eyes glazing. Let's move on to some
 
 ### Let's Be Rational For A Moment
 
-![](https://i.ormos.uk/63/13/63139f9f1cef159e8cdf72edfa6e7fd115543415c58132f38d618d9066165ab1.jpg)An awful lot of analysis in the world depends on assumptions of "rationality". Whether you're looking at stock markets, consumer products sales (including **Magic** cards), nuclear missile treaties, or even fishing regulations – virtually all of the professionals involved are using analytic tools based on rational behavior.
+![](https://i.ormos.uk/63/13/63139f9f1cef159e8cdf72edfa6e7fd115543415c58132f38d618d9066165ab1.jpg)
+
+An awful lot of analysis in the world depends on assumptions of "rationality". Whether you're looking at stock markets, consumer products sales (including **Magic** cards), nuclear missile treaties, or even fishing regulations – virtually all of the professionals involved are using analytic tools based on rational behavior.
 
 There are lots of fancy definitions for rational behavior. In plain English, it generally means that when all other things are equal, *people will act in their own self-interest*. If apples cost $1 in store A and $2 in store B down the street, people will buy them from store A. Those same rational people won't try to shoot someone with a bow and arrow when their target has a howitzer pointed at them. And (most relevant to **Magic**, perhaps) they won't willingly help someone hurt them.
 
@@ -405,7 +407,9 @@ When you try to analyze rational behavior, it's easy to gloss over one phrase: "
 
 If you have a choice, with one Terminate in your hand, between Eager Cadet and Grizzly Bears, you will almost certainly hit the bear…unless you also have a Slay in hand.
 
-![](https://i.ormos.uk/99/94/9994f71ca53f538fa913fa8bf3a75c35ca9bcd4dd14e26d85ff14e4d3fea3cd7.jpg)If you have a choice, with a Hill Giant available to attack, between reducing one player to zero life and another player to 49, you will pick the player with almost zero life…unless that player has the only enchantment removal available and the player with higher life has a Test of Endurance on the board.
+![](https://i.ormos.uk/99/94/9994f71ca53f538fa913fa8bf3a75c35ca9bcd4dd14e26d85ff14e4d3fea3cd7.jpg)
+
+If you have a choice, with a Hill Giant available to attack, between reducing one player to zero life and another player to 49, you will pick the player with almost zero life…unless that player has the only enchantment removal available and the player with higher life has a Test of Endurance on the board.
 
 If you have a choice, with a Jilt in your hand and only a Faceless Butcher and a Royal Assassin under an opponent's control, you will almost certainly bounce the Butcher and smack the Assassin…unless the Butcher removed a Phage the Untouchable under your control.
 
@@ -429,7 +433,9 @@ How does this apply here? Like this: for at least one game, no one may attack an
 
 This forces everybody to compromise, for a game. First, ultra-irrational players have to go through the exercise of actually analyzing the true threat on the board. But then they get to opt out of it, which ought to be fun. At the same time, ultra-rational players have to watch as the best decisions don't get made, time and time again – though they do at least win the moral victory of having everyone at the table know what the correct play actually is.
 
-![](https://i.ormos.uk/90/ff/90ffbafcf6a76882f59af21b4b016b79443a807cd8b45ef70ad13c4f7e687621.jpg)There is a slight risk that folks will not agree on what the best/second best target is, every time. In those cases, the group should move on to the third-best target. Don't spend your time arguing – that's not the point.
+![](https://i.ormos.uk/90/ff/90ffbafcf6a76882f59af21b4b016b79443a807cd8b45ef70ad13c4f7e687621.jpg)
+
+There is a slight risk that folks will not agree on what the best/second best target is, every time. In those cases, the group should move on to the third-best target. Don't spend your time arguing – that's not the point.
 
 **2) Daring team play**. Play your favorite team format, with this twist: you cannot win if your teammates have more than 5 life.
 

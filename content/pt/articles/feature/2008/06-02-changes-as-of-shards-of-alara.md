@@ -95,7 +95,9 @@ As versões premium dos cards míticos raros serão distribuídas nos boosters d
 
 Além disso, também estaremos substituindo um card comum em cada booster por um card de terreno básico. A composição de um booster agora será: 1 raro, 3 incomuns, 10 comuns, 1 terreno básico e 1 card de dicas (com o card mítico raro substituindo o card raro em aproximadamente 1 em cada 8 boosters.)
 
-![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)Simultaneamente às mudanças acima, será introduzido um novo produto à linha de MTG. O "Première Pack" será o melhor modo dos jogadores existentes conhecerem as novas mecânicas da coleção e sua história. Também será a melhor ferramenta para apresentar o jogo aos novos jogadores, permitindo que aprendam através dos cards mais atuais. O Première Pack inclui: 
+![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)
+
+Simultaneamente às mudanças acima, será introduzido um novo produto à linha de MTG. O "Première Pack" será o melhor modo dos jogadores existentes conhecerem as novas mecânicas da coleção e sua história. Também será a melhor ferramenta para apresentar o jogo aos novos jogadores, permitindo que aprendam através dos cards mais atuais. O Première Pack inclui: 
 
 *   Um deck pré-construído de 41 cards , que inclui 1 card raro premium e um card raro padrão
 *   1 booster com a coleção atual

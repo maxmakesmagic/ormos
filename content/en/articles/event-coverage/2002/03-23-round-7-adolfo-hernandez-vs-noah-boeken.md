@@ -44,7 +44,9 @@ archive_source:
   sha256: c3f111013dc5cec20916ec3d95f20fbbb777774bdd14d91ead1d8a973acff9e4
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a953.jpg)These two are probably a point away from the second day. With 701 players and eight rounds, 6-1-1 should be enough, while 6-2 might not make it. Coming all the way to 6-0 and then losing the last two rounds would be terrible but it might happen.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a953.jpg)
+
+These two are probably a point away from the second day. With 701 players and eight rounds, 6-1-1 should be enough, while 6-2 might not make it. Coming all the way to 6-0 and then losing the last two rounds would be terrible but it might happen.
 
 So far their day has been nothing but joy and a win here could mark the start of a run for the Top 8 tomorrow. One of them will walk away knowing he is in the second day.
 
@@ -74,7 +76,9 @@ Noah 1-1 Adolfo
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a952.jpg)Hernandez kept a very risky and for the third game with only [Island](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s and his deck decided not to help him out. By the time he found his fourth land, a [Swamp](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp) Noah already had a [Millikin](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millikin), Looter and Windreader.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a952.jpg)
+
+Hernandez kept a very risky and for the third game with only [Island](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s and his deck decided not to help him out. By the time he found his fourth land, a [Swamp](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp) Noah already had a [Millikin](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millikin), Looter and Windreader.
 
 The [Dirty Wererat](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dirty+Wererat) and [Crypt Creeper](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crypt+Creeper) were not quite enough to catch up right away and when Noah Discarded a [Diabolic Tutor](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diabolic+Tutor) to the Looter it was obvious he had a handful of menaces. The first one to come out was a [Nantuko Cultivator](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Cultivator) (discarding two lands).
 

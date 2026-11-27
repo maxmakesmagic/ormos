@@ -44,7 +44,9 @@ archive_source:
   sha256: 4df06d00b8fd064de92542bfe5723d551bbcfe246caecc5b680805b486467be0
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm142.jpg)These two are playing for the Top 8. At thirty-one points they have a good chance of sneaking in. The last time I saw Blech in a Feature Match table he was crushing Jan Doise on the way the Grand Prix Genova title. Today he is fighting for another Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm142.jpg)
+
+These two are playing for the Top 8. At thirty-one points they have a good chance of sneaking in. The last time I saw Blech in a Feature Match table he was crushing Jan Doise on the way the Grand Prix Genova title. Today he is fighting for another Top 8.
 
 ### Game 1
 

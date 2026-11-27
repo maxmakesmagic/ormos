@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/341.jpg)Here we are: last round of the Swiss, and the tension is at its peak. The eight competitors all gathered in the feature match area have a chance for top 8 if they win. The losers will be forgotten by history ...
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/341.jpg)
+
+Here we are: last round of the Swiss, and the tension is at its peak. The eight competitors all gathered in the feature match area have a chance for top 8 if they win. The losers will be forgotten by history ...
 
 Nicolas Labarre of France was not playing his first feature match of the tournament, far from it. He needs no introduction anymore from us. Edward Fear, however, is kind of a newcomer. He's from Rochester, New York, USA, and I had not heard of him ever before, neither at the top or at the bottom of the Pro Tour ladder.
 

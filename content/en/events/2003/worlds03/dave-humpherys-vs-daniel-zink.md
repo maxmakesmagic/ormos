@@ -381,7 +381,9 @@ render_recovery:
   - Phantom Centaur
   occurrences: 1
 ---
-![](https://i.ormos.uk/17/d0/17d01370523d00870836a7bab562733871858950734bddbe874dd8c892c27695.jpg)第八版入りのオデッセイ＝オンスロートというスタンダードフォーマットをめぐる結論はもう出てしまったといえるのかもしれない。世界最高峰のプレイヤーたちが持ち寄ったデッキはたった4つに絞り込まれ、そのうちの3つまでもが《ミラーリの目覚め/Mirari's Wake》デッキであるという状況なのだ。
+![](https://i.ormos.uk/17/d0/17d01370523d00870836a7bab562733871858950734bddbe874dd8c892c27695.jpg)
+
+第八版入りのオデッセイ＝オンスロートというスタンダードフォーマットをめぐる結論はもう出てしまったといえるのかもしれない。世界最高峰のプレイヤーたちが持ち寄ったデッキはたった4つに絞り込まれ、そのうちの3つまでもが《ミラーリの目覚め/Mirari's Wake》デッキであるという状況なのだ。
 
 ただ一人生き残った「青緑」、Dave Humpherysはどのようなパフォーマンスを見せてくれるであろうか。
 
@@ -399,7 +401,9 @@ Zinkは2枚目の《クローサの境界/Krosan Verge》も起動して、第5�
 
 アタッカーが2体となったため、Zinkは満を持して《神の怒り/Wrath of God》。これによって盤上を一掃してから《綿密な分析/Deep Analysis》フラッシュバックをキャスト。このペイライフでライフが12となった。
 
-![](https://i.ormos.uk/5a/36/5a36698627debf98f16bdeab9fdbb46c4ac62ee4a96e7827acd67d2bc6a571b1.jpg)Humpherysは墓地からもう一枚の《ワームの咆哮/Roar of the Wurm》をプレイしてターンを返し、一方のZinkは《ミラーリの目覚め/Mirari's Wake》から《強制/Compulsion》をプレイと続けた。
+![](https://i.ormos.uk/5a/36/5a36698627debf98f16bdeab9fdbb46c4ac62ee4a96e7827acd67d2bc6a571b1.jpg)
+
+Humpherysは墓地からもう一枚の《ワームの咆哮/Roar of the Wurm》をプレイしてターンを返し、一方のZinkは《ミラーリの目覚め/Mirari's Wake》から《強制/Compulsion》をプレイと続けた。
 
 Humpherysは《入念な研究/Careful Study》をプレイしてからワームトークンをレッドゾーンへと送り込み、ここでZinkが《復讐に燃えた夢/Vengeful Dreams》X=1をプレイ。Humphはこれを《堂々巡り/Circular Logic》し、Zinkのライフは6に。
 
@@ -472,7 +476,9 @@ Zinkはこのアタックを狙い済まして《狡猾な願い/Cunning Wish》
 
 なんとか3枚目の土地として《島/Island》を引き当てたHumphは第3ターンに《物静かな思索/Quiet Speculation》をキャスト。《ワームの咆哮/Roar of the Wurm》、《天啓の光/Ray of Revelation》、《綿密な分析/Deep Analysis》が墓地に送り込まれた。
 
-![](https://i.ormos.uk/68/17/681720f57d67d9b0244cf3ab5e1798152d5a44f47a5c490499d5863994d57151.jpg)Zinkはやはり《クローサの境界/Krosan Verge》を起動してマナベースを整えつつのDraw Goがひたすら続く。Humphのフラッシュバックでの《綿密な分析/Deep Analysis》を《マナ漏出/Mana Leak》し、続くターンも淡々とDraw,Set,GO。
+![](https://i.ormos.uk/68/17/681720f57d67d9b0244cf3ab5e1798152d5a44f47a5c490499d5863994d57151.jpg)
+
+Zinkはやはり《クローサの境界/Krosan Verge》を起動してマナベースを整えつつのDraw Goがひたすら続く。Humphのフラッシュバックでの《綿密な分析/Deep Analysis》を《マナ漏出/Mana Leak》し、続くターンも淡々とDraw,Set,GO。
 
 Humpherysは続くメインステップに《綿密な分析/Deep Analysis》をハンドからプレイ。これは通る。そして続くターンもZinkはDraw,Set,Go。Humphは《綿密な分析/Deep Analysis》をフラッシュバックでプレイしてから《野生の雑種犬/Wild Mongrel》を召喚してターンエンド。
 

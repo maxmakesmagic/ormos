@@ -53,7 +53,9 @@ archive_source:
   sha256: e264fbe9c11a68ca6d6ef5dbf6585f82a2f867dadfb65195cbee9684d8fa1483
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a923.jpg)In the sixth round of the 2002 European Championship, Jeroen Remie from the Netherlands faced Ben Ronaldson from England. Both players had 4-1 records, looking for yet another victory to get an even better position before the second day of play.
+![](http://www.wizards.com/sideboard/images/euro02/a923.jpg)
+
+In the sixth round of the 2002 European Championship, Jeroen Remie from the Netherlands faced Ben Ronaldson from England. Both players had 4-1 records, looking for yet another victory to get an even better position before the second day of play.
 
 ### Game 1
 
@@ -77,7 +79,9 @@ Remie 1 – 0 Ronaldson
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/euro02/a924.jpg)Ronaldson chose to play first in the second game as well. He kept his hand, and started out freshly by playing a turn one Obsessive Search and then a turn three Hydromorph Giant. Remie, on the other hand, played a turn two Rotting Giant. While the Giant couldn't stop Ronaldson's first attack, Remie then Syncopated a Phantom Tiger, and from then on, the Giant just stood there, effectively preventing Ronaldson from attacking.
+![](http://www.wizards.com/sideboard/images/euro02/a924.jpg)
+
+Ronaldson chose to play first in the second game as well. He kept his hand, and started out freshly by playing a turn one Obsessive Search and then a turn three Hydromorph Giant. Remie, on the other hand, played a turn two Rotting Giant. While the Giant couldn't stop Ronaldson's first attack, Remie then Syncopated a Phantom Tiger, and from then on, the Giant just stood there, effectively preventing Ronaldson from attacking.
 
 Ronaldson played an Ironshell Beetle to put a counter on his Guardian. Then he played a Rabid Elephant. However, Remie's deck was very efficient. The Elephant was stopped by a Kirtar's Desire, and a Morbid Hunger forced Ronaldson to sacrifice his Guardian, leaving the Englishman with a measly Shieldmage Advocate and the Ironshell Beetle in play. Then, the Advocate was taken care of by a Coral Net.
 

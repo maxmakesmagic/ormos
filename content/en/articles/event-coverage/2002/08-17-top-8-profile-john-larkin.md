@@ -44,7 +44,9 @@ archive_source:
   sha256: 2269f3478fa9c225cac6d0a6b8f4fae53b955811b3007853adeef360996dafa2
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a586.jpg)Rugged Irish National Champion John Larkin may come off as a happy-go-lucky guy, but he is truly one of the game's hard workers. When the 24-year-old Dubliner qualified for Worlds, he didn't rest on his laurels. Instead, he set out to qualify for even more events. He won an OBC qualifier for Pro Tour – Houston with his trademark blue/black Braids deck, and took two of his friend—creating what he called an "Irish Raiding Party"—into Scotland to win a qualifier for Pro Tour Boston. And all that while practicing for this event.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a586.jpg)
+
+Rugged Irish National Champion John Larkin may come off as a happy-go-lucky guy, but he is truly one of the game's hard workers. When the 24-year-old Dubliner qualified for Worlds, he didn't rest on his laurels. Instead, he set out to qualify for even more events. He won an OBC qualifier for Pro Tour – Houston with his trademark blue/black Braids deck, and took two of his friend—creating what he called an "Irish Raiding Party"—into Scotland to win a qualifier for Pro Tour Boston. And all that while practicing for this event.
 
 Larkin works so hard because he knows it pays off. Throughout his Magic career, which started around the time of Ice Age, he has won Irish Nationals three times and qualified for numerous Pro Tours, including the Masques Block Constructed PTNY00 in which he made his other Top 8.
 

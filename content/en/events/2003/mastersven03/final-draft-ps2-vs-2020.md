@@ -79,7 +79,9 @@ render_recovery:
   - Dragon
   occurrences: 25
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a786.jpg)PS2 (Poor Shark 2) dethroned Panzer Hunter this weekend as the top Japanese three-man team, and now they will try to do what Panzer failed at twice: winning the team Masters finals. Panzer Hunter fell two years ago to ABU (Benafel, Boeken, Fuller) and last year to Phoenix Foundation (Budde, Baberowski, Blume). This year PS2 will be taking on the Canadian squad 2020, who were finalists at Pro Tour – Boston at the beginning of this season.
+![](http://www.wizards.com/sideboard/images/ptven03/a786.jpg)
+
+PS2 (Poor Shark 2) dethroned Panzer Hunter this weekend as the top Japanese three-man team, and now they will try to do what Panzer failed at twice: winning the team Masters finals. Panzer Hunter fell two years ago to ABU (Benafel, Boeken, Fuller) and last year to Phoenix Foundation (Budde, Baberowski, Blume). This year PS2 will be taking on the Canadian squad 2020, who were finalists at Pro Tour – Boston at the beginning of this season.
 
 PS2:  
  Masahiko Morita, four time Grand Prix Finalist.  
@@ -93,7 +95,9 @@ PS2:
 
 PS2 went right into their chosen colors in pack one, with Mori taking Aven Fateshaper and Morita a Primal Boost. 2020 then went into their set combinations by putting Rood into blue with Ascending Aven, Wolfman into black with Severed Legion (against Mori's blue), and Pollock into green with Wirewood Herald (against Morita's green, but Pollock feels he has experience in the mirror matchup). That left white for Kuroda, with Catapult Master.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a785.jpg)From there, each team went into its colors easily. Rood was blue/red, and got a Skill in the pack he opened. Wolfman was black/white. Pollock drafted red/green beasts, and was rewarded with a Sparksmith in pack 4 and a Wirewood Savage in pack 5. Kuroda was white/black and was having difficulty deciding between Soldiers and Clerics. Mori was red/blue, and got the bomb Future Site in pack 8. And Morita was green/black with a Wirewood Savage and many Wretched Anurids to power it up.
+![](http://www.wizards.com/sideboard/images/ptven03/a785.jpg)
+
+From there, each team went into its colors easily. Rood was blue/red, and got a Skill in the pack he opened. Wolfman was black/white. Pollock drafted red/green beasts, and was rewarded with a Sparksmith in pack 4 and a Wirewood Savage in pack 5. Kuroda was white/black and was having difficulty deciding between Soldiers and Clerics. Mori was red/blue, and got the bomb Future Site in pack 8. And Morita was green/black with a Wirewood Savage and many Wretched Anurids to power it up.
 
 Because each team had only one green player, many green cards were defensively drafted as the packs were opened. Wolfman had to first pick a Snarling Undorak in pack 4, and later on in Legions, Mori had to wheel Needleshot Gourna and Hundroog. Once one team started cutting green cards, the other had to follow so that they didn't fall too far behind in the green mirror.
 

@@ -175,7 +175,9 @@ For those that aren't familiar with what we're doing here, you'll want to click 
 
 ### Card vs. Card
 
-![](https://i.ormos.uk/76/b8/76b84532e791b493c47cce312bdbd02af1088b126643480b8ddf10e180202f2f.jpg)Often the most hotly debated part of these promotions, in each of these votes you'll get to choose which card makes it into *Tenth Edition*. This time around we're throwing in a new twist: R&D members Aaron Forsythe and Matt Place will weigh in on each of these votes, letting you know why they think their particular card is best for the set. Once you're done reading their recommendations, it's you that gets the development call to say which card sees print next year. So, even if you personally don't expect to use the card or cards in question, you get to put on your R&D hat and decide whether others should get the chance, and what's best for the Core Set in your own opinion. These votes have sent the message boards into a frenzy in the past as players argued their cases and cheered or railed at the results, and we don't expect this one to be any different. No matter what kind of player you are, this summer is going to have some votes we're *sure* will raise eyebrows. 
+![](https://i.ormos.uk/76/b8/76b84532e791b493c47cce312bdbd02af1088b126643480b8ddf10e180202f2f.jpg)
+
+Often the most hotly debated part of these promotions, in each of these votes you'll get to choose which card makes it into *Tenth Edition*. This time around we're throwing in a new twist: R&D members Aaron Forsythe and Matt Place will weigh in on each of these votes, letting you know why they think their particular card is best for the set. Once you're done reading their recommendations, it's you that gets the development call to say which card sees print next year. So, even if you personally don't expect to use the card or cards in question, you get to put on your R&D hat and decide whether others should get the chance, and what's best for the Core Set in your own opinion. These votes have sent the message boards into a frenzy in the past as players argued their cases and cheered or railed at the results, and we don't expect this one to be any different. No matter what kind of player you are, this summer is going to have some votes we're *sure* will raise eyebrows. 
 
   
   
@@ -189,7 +191,9 @@ Last year we tried letting players choose between competing sketches for cards t
 
 ### Basic Land Art
 
-![](https://i.ormos.uk/7d/28/7d28724c39f554cc881282a70be54f843ae0299e9e6dbbee340ad26bcf07e6ee.jpg)Just about every player has favorite land art from specific blocks, so we thought we'd give you the chance to vote them in for *Tenth Edition*. This week you'll get the chance to choose your four favorite **Magic** blocks of all time for basic land art. Once we've got that Top 4, we'll vote each week to select your favorite basic lands from each of those blocks. Can't get enough copies of so-and-so's Swamp from such-and-such block? Here's your chance to try and get it reprinted!
+![](https://i.ormos.uk/7d/28/7d28724c39f554cc881282a70be54f843ae0299e9e6dbbee340ad26bcf07e6ee.jpg)
+
+Just about every player has favorite land art from specific blocks, so we thought we'd give you the chance to vote them in for *Tenth Edition*. This week you'll get the chance to choose your four favorite **Magic** blocks of all time for basic land art. Once we've got that Top 4, we'll vote each week to select your favorite basic lands from each of those blocks. Can't get enough copies of so-and-so's Swamp from such-and-such block? Here's your chance to try and get it reprinted!
 
 ### Flavor Text
 

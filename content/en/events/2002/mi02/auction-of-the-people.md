@@ -83,7 +83,9 @@ render_recovery:
   - Words of War
   occurrences: 25
 ---
-![](https://i.ormos.uk/d2/c6/d2c68d944b9cb2c2bc9e3247f135b487b889d8fa5366ac5fde4b9f412baa724c.jpg)This year's Auction of the People had players desiging decks around a single letter. Any card legal in Online Extended was up for grabs, so long as any of the words in the card name started with the chosen letter. So "M" could get you Morality Shift, Mortal Combat, and Braids, Cabal Minion, but not Nantuko Shade. As always happens, the decks were of wildly fluctuating power levels.
+![](https://i.ormos.uk/d2/c6/d2c68d944b9cb2c2bc9e3247f135b487b889d8fa5366ac5fde4b9f412baa724c.jpg)
+
+This year's Auction of the People had players desiging decks around a single letter. Any card legal in Online Extended was up for grabs, so long as any of the words in the card name started with the chosen letter. So "M" could get you Morality Shift, Mortal Combat, and Braids, Cabal Minion, but not Nantuko Shade. As always happens, the decks were of wildly fluctuating power levels.
 
 The auction took place online; to read the log of the auction, click [here](/en/events/2002/mi02/auction-of-the-people-log). The decks themselves are available [here](/en/articles/event-coverage/2002/10-09-auction-of-the-people-2002)
 
@@ -99,7 +101,9 @@ Next was "L is for Looter", a deck with a reasonable mana base and plenty of goo
 
 Next up was madman Nitter. He asked for the "Q" deck, composed of a bunch of elves to speed into Quicksilver Dragon and Questing Phelddagrif. Everyone wanted a piece of this deck, and it got down to 7-12 for Dave Price. Ostrovich and Ruel bowed out ("Are we talking about the 26 land 24 mana accelerators deck?" - Olivier Ruel) as did Nassif. Pikula rocked the boat with a bid of 6-20. For every player who hated the deck, there were plenty willing to play it at six cards. Shvartsman, Nitter and Finkel all got in the fight. Eventually Shvartsman scored it at 6-13.
 
-![](https://i.ormos.uk/26/b6/26b6ab2bb1765c4940036e5aa5181b6fca32262effd65ff5717d8626a27c54c4.jpg)The Champ, Carlos Romao chose next. He went to the consensus "Best Deck": "O". He tried 7-20. Walamies jumped to 7-15. Davis put his foot down with a monstrous dive to 5-15! Finkel described Davis as "Going Nuclear". The fight was far from over. Kibler and Finkel each tried to get a piece. Price underbid with 5-12.
+![](https://i.ormos.uk/26/b6/26b6ab2bb1765c4940036e5aa5181b6fca32262effd65ff5717d8626a27c54c4.jpg)
+
+The Champ, Carlos Romao chose next. He went to the consensus "Best Deck": "O". He tried 7-20. Walamies jumped to 7-15. Davis put his foot down with a monstrous dive to 5-15! Finkel described Davis as "Going Nuclear". The fight was far from over. Kibler and Finkel each tried to get a piece. Price underbid with 5-12.
 
 "My little bit of happiness, stolen by savage cheater Dave Price." - Jon Finkel
 
@@ -119,7 +123,9 @@ Kibler called for the "V" deck. This one had a lot of the Invtationalists thinki
 
 Next up was Itaru Ishida. He nominated the "B" deck: Battle of Wits. There wasn't a lot of excitement over this one. Finkel tried 7-16. Pikula went 7-15. Ishida went to 7-14, but Finkel was not to be denied. He wanted to play Battle of Wits in ALL the formats (after 0-3'ing with Battle in Online Extended), and took it for 7-13.
 
-![](https://i.ormos.uk/15/eb/15ebd2e0be22d4964828293342a8e4eebf2defd8a727324904d52cfdf2c9667b.jpg)Unsurprisingly, The King of Beatdown offered up the mono-red "R" deck. He started with 7-20 and warned the others "Don't screw with me, or I will beat you down." They didn't heed him. Ostrovich took it immediately to 6-20, and then everyone tried to grab it. Nassif beat Ostrovich's 6-10 with a 6-9, and then it was just Price. Kibler called him out "C'MON DAVE! DON'T DISAPPOINT THE KIDS!", but he couldn't bring himself to do it. Nassif scored it with 6-9, and he and Diego went into Price's Bad Books.
+![](https://i.ormos.uk/15/eb/15ebd2e0be22d4964828293342a8e4eebf2defd8a727324904d52cfdf2c9667b.jpg)
+
+Unsurprisingly, The King of Beatdown offered up the mono-red "R" deck. He started with 7-20 and warned the others "Don't screw with me, or I will beat you down." They didn't heed him. Ostrovich took it immediately to 6-20, and then everyone tried to grab it. Nassif beat Ostrovich's 6-10 with a 6-9, and then it was just Price. Kibler called him out "C'MON DAVE! DON'T DISAPPOINT THE KIDS!", but he couldn't bring himself to do it. Nassif scored it with 6-9, and he and Diego went into Price's Bad Books.
 
 Next up was the "P" deck from Ostrovich, mono-blue but for four swamps to help out Probe, and packed with wizards. There was lots of competition, but when Ostrovich took it from 7-11 to 6-20, everyone got out of his way.
 

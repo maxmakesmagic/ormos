@@ -138,7 +138,9 @@ A few days before Grand Prix Los Angeles, I spoke with Ken Krouner between draft
 **BB:** How many byes do you have this weekend?  
 **KK:** Three byes, on rating. All those 6-0’s at worlds really paid off.
 
-![](https://www.wizards.com/sideboard/images/gpphi02/998.jpg)The players were given the signal to open their decks, so Ken began to build.
+![](https://www.wizards.com/sideboard/images/gpphi02/998.jpg)
+
+The players were given the signal to open their decks, so Ken began to build.
 
 **KK:** (Sorting through the white and blue) This doesn’t look too exciting. (Gets to the red and Green). Starstorm and Butcher Orgg and Stag Beetle. Ok, my deck looks really good. 
 

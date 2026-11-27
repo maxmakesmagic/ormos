@@ -84,7 +84,9 @@ render_recovery: []
 > "Say the magic words!"  
 >  "But what do they *mean*?"
 
-![Thran_Tome](https://i.ormos.uk/bb/44/bb4405e9dbd32be5ed005254a5045818c7a65641f6ae39b42612b78f1ec9091f.jpg)**Magic**, like many games and subcultures, is filled with jargon, or words that are often impossible to understand when not faced with an avalanche of context. This article is designed to provide you with at least one set of meanings for many pieces of **Magic** jargon and slang. Note, however, that language usage adapts and morphs at lightning speed, so if you are reading this from the future, it's possible that some of these definitions have changed since this article was written. This is by no means comprehensive, but it should be a solid primer on most of the basics. With this guide in hand hopefully you should be able to get through the majority of the articles out there. 
+![Thran_Tome](https://i.ormos.uk/bb/44/bb4405e9dbd32be5ed005254a5045818c7a65641f6ae39b42612b78f1ec9091f.jpg)
+
+**Magic**, like many games and subcultures, is filled with jargon, or words that are often impossible to understand when not faced with an avalanche of context. This article is designed to provide you with at least one set of meanings for many pieces of **Magic** jargon and slang. Note, however, that language usage adapts and morphs at lightning speed, so if you are reading this from the future, it's possible that some of these definitions have changed since this article was written. This is by no means comprehensive, but it should be a solid primer on most of the basics. With this guide in hand hopefully you should be able to get through the majority of the articles out there. 
 
 ### Mana Abbreviations
 

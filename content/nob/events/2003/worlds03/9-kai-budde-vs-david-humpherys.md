@@ -197,7 +197,9 @@ render_recovery:
   - Scattershot
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a806.jpg)　片や YMG の誇る世界の頭脳。片や説明無用の現在最強。だが、二人の得点は現在共に 18 点。18点ということは 6-2 。このラウンドがようやく折り返しという長丁場の世界選手権。まだまだ三敗目など頂戴したくない両者がぶつかった。
+![](http://www.wizards.com/sideboard/images/worlds03/a806.jpg)
+
+　片や YMG の誇る世界の頭脳。片や説明無用の現在最強。だが、二人の得点は現在共に 18 点。18点ということは 6-2 。このラウンドがようやく折り返しという長丁場の世界選手権。まだまだ三敗目など頂戴したくない両者がぶつかった。
 
 **Game 1**
 
@@ -208,7 +210,9 @@ render_recovery:
 
 　だが、Kai が先ほど増幅に見せた《腐敗を導く者/Shepherd of Rot》を召還し、Humpherys が《魂を養うエルフ/Elvish Soultiller》を召還し返したところで少しゲームが止まった。Kai の手には《消耗の軟体/Consumptive Goo》が有りこの状況を打開するにはもってこいな所だが、召還する黒マナが足りないのだ。その間に Humpherys は《クーガドン/Kurgadon》を召還し、更なるがっちり感を。
 
-![](http://www.wizards.com/sideboard/images/worlds03/a804.jpg)　しかし Kai の次のドローがあっさりとこれを覆した。《熱狂の猛禽/Frenetic Raptor》を引き当て《クーガドン/Kurgadon》でのブロックを許さない。これにはせっかく手札に《運命をかたどるエイヴン/Aven Fateshaper》を抱えていた Humpherys も大弱り。他にする事が無いので召還し、山札を覗き、育てた《クーガドン/Kurgadon》で攻撃するのものの、既にライフは切実ライン。
+![](http://www.wizards.com/sideboard/images/worlds03/a804.jpg)
+
+　しかし Kai の次のドローがあっさりとこれを覆した。《熱狂の猛禽/Frenetic Raptor》を引き当て《クーガドン/Kurgadon》でのブロックを許さない。これにはせっかく手札に《運命をかたどるエイヴン/Aven Fateshaper》を抱えていた Humpherys も大弱り。他にする事が無いので召還し、山札を覗き、育てた《クーガドン/Kurgadon》で攻撃するのものの、既にライフは切実ライン。
 
 　Kai は勿論この隙を見逃さない。全軍での突撃を敢行する。《ゴブリンの闘士/Goblin Grappler》は《魂を養うエルフ/Elvish Soultiller》にブロックを強制。
 

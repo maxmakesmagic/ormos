@@ -96,7 +96,9 @@ Let's take a look at the Seven Tenets of bushido.
 
 I love to talk about politics in multiplayer, using subtle mechanisms to play your opponents off against each other. But here's the truth: All the politicking in the world won't win the game unless you make the right *game* choices. 
 
-[![Rally_the_Righteous](https://i.ormos.uk/68/08/68085e34b8a3ed6bac08fa9bdc32e0efce21e0d1e58aecfd69faa0880cd196fa.jpg)](https://web.archive.org/web/20080129000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Rally%2Bthe%2BRighteous)**Magic** is hard. Multiplayer **Magic** is even harder, because there are so many more factors involved. Not only do you have your own cards to deal with, but a whole table's worth of other cards, and opponents and their traditional tactics to balance. That's a lot of stuff to juggle in your head. 
+[![Rally_the_Righteous](https://i.ormos.uk/68/08/68085e34b8a3ed6bac08fa9bdc32e0efce21e0d1e58aecfd69faa0880cd196fa.jpg)](https://web.archive.org/web/20080129000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Rally%2Bthe%2BRighteous)
+
+**Magic** is hard. Multiplayer **Magic** is even harder, because there are so many more factors involved. Not only do you have your own cards to deal with, but a whole table's worth of other cards, and opponents and their traditional tactics to balance. That's a lot of stuff to juggle in your head. 
 
 There are so many factors that people frequently just punt. "Eh," they shrug. "Let's just see what happens." But the problem when you play to see what happens is that frequently, you *will* find out. And it generally isn't pretty. 
 
@@ -151,7 +153,9 @@ Such is the way of the warrior.
 **Jin – Compassion**  
 ***Universal love, benevolence toward mankind***
 
-[![Bramblewood_Paragon](https://i.ormos.uk/d6/cd/d6cd6baea6c2ee3a863718e042231827c6d938e35c416caabdd71f5f9baf1849.jpg)](https://web.archive.org/web/20080129000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Bramblewood%2BParagon)You know what you should love? Your creatures. 
+[![Bramblewood_Paragon](https://i.ormos.uk/d6/cd/d6cd6baea6c2ee3a863718e042231827c6d938e35c416caabdd71f5f9baf1849.jpg)](https://web.archive.org/web/20080129000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Bramblewood%2BParagon)
+
+You know what you should love? Your creatures. 
 
 Oh, you probably think of them as stats, or maybe just pieces of cardstock. But when you tap that mana to bring them onto the table, they are living, breathing organics—things with beating hearts (well, most of 'em) and blood (well, most of 'em) and aspirations that you can end prematurely. 
 
@@ -170,7 +174,9 @@ Such is the way of the warrior.
 **Rei – Respect**  
 ***Right action—a most essential quality, courtesy***
 
-[![Sunrise_Sovereign](https://i.ormos.uk/03/8e/038eea11126e1efe829dc8e9818b5f91bae044da9e9f1d7b1981ebfbe7732b4d.jpg)](https://web.archive.org/web/20080129000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Sunrise%2BSovereign)When one plays, one plays to crush the others underfoot. But one does not *rub it in*. 
+[![Sunrise_Sovereign](https://i.ormos.uk/03/8e/038eea11126e1efe829dc8e9818b5f91bae044da9e9f1d7b1981ebfbe7732b4d.jpg)](https://web.archive.org/web/20080129000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Sunrise%2BSovereign)
+
+When one plays, one plays to crush the others underfoot. But one does not *rub it in*. 
 
 Yes, you will inevitably take advantage of someone else's poor play during the course of a prolonged match. They will forget about a card on the table, or stumble into a trap you set for them, or maybe just forget to use an effect that could have saved them.
 
@@ -213,7 +219,9 @@ Such is the way of the warrior.
 **Chugo – Loyalty**  
 ***Devotion; constancy***
 
-[![Debt_of_Loyalty](https://i.ormos.uk/8b/f8/8bf8a9ed51a69bc6ebc6f32c1a70b49efd01c1ad239c83c93297f389dbaba82c.jpg)](https://web.archive.org/web/20080129000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Debt%2Bof%2BLoyalty)For all of the talk about fighting, these people at the table are *not* your enemies. At worst, they are strangers you've just met; at best, they are your best friends, here to share enjoyment with. 
+[![Debt_of_Loyalty](https://i.ormos.uk/8b/f8/8bf8a9ed51a69bc6ebc6f32c1a70b49efd01c1ad239c83c93297f389dbaba82c.jpg)](https://web.archive.org/web/20080129000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Debt%2Bof%2BLoyalty)
+
+For all of the talk about fighting, these people at the table are *not* your enemies. At worst, they are strangers you've just met; at best, they are your best friends, here to share enjoyment with. 
 
 This is not a real battle. This is Wile E. Coyote punching in at the beginning of the day to fight Sam the Sheepdog, spending the next eight hours trying to steal sheep, and then leaving.
 

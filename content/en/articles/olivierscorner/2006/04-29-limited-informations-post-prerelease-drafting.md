@@ -486,7 +486,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/magic/images/ads/Be%20Oc%20Drafting.jpg)After the prerelease week end comes the time for drafting. After a couple of two on two drafts at home, I left for Amsterdam where I am currently staying, at Julien Nuijten’s place. We’re forming a little colony there, as Julien’s parents are away until Prague. I arrived in the early afternoon and met Wessel Oomens and Julien. The next to arrive were Geoffrey Siron and Bernardo Da Costa Cabral, followed soon after by Frank Karsten and Jelger Wiegersma. It was 8 PM, practicing could begin. We went for a six man draft as Wessel had to leave early. 
+![](http://www.wizards.com/magic/images/ads/Be%20Oc%20Drafting.jpg)
+
+After the prerelease week end comes the time for drafting. After a couple of two on two drafts at home, I left for Amsterdam where I am currently staying, at Julien Nuijten’s place. We’re forming a little colony there, as Julien’s parents are away until Prague. I arrived in the early afternoon and met Wessel Oomens and Julien. The next to arrive were Geoffrey Siron and Bernardo Da Costa Cabral, followed soon after by Frank Karsten and Jelger Wiegersma. It was 8 PM, practicing could begin. We went for a six man draft as Wessel had to leave early. 
 
   
   

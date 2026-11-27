@@ -119,7 +119,9 @@ render_recovery:
 ---
 * * *
 
-![Mr Olivier Ruel](http://www.wizards.com/magic/images/ads/Be%20Olivier.jpg)Every Tuesday, I am going to introduce you to one of the players to follow in **Pro Tour Prague**. Meet the Limited Geniuses, Player of the Year, Local Heroes and more Discover how they prepare for such an event, but also who they are, as Pro players and as ordinary men as well.
+![Mr Olivier Ruel](http://www.wizards.com/magic/images/ads/Be%20Olivier.jpg)
+
+Every Tuesday, I am going to introduce you to one of the players to follow in **Pro Tour Prague**. Meet the Limited Geniuses, Player of the Year, Local Heroes and more Discover how they prepare for such an event, but also who they are, as Pro players and as ordinary men as well.
 
 ![Geoffrey Siron](http://www.wizards.com/magic/images/ads/Be%20Siron.jpg) I am starting this week with *Geoffrey Siron*. Having reached the 12th position in the Pro Player Race last season , and as a Level 5 pro, Geoffrey has had a fantastic year including a first PT win in London in last July. I met him in Brussels, his hometown, and he took the time to answer my questions, being very kind and available, as always.  
   

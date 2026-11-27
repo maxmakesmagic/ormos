@@ -48,7 +48,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](http://magicload.wizards.com/sites/mtg/files/EN_GAMEINFO_PRODUCTS_SetIcon_T_VMA_140414_0.png)This digital deck includes the Momir Vig, Simic Visionary avatar (with new art) and sixty basic land cards, including a five-card set of promotional Guru lands.
+![](http://magicload.wizards.com/sites/mtg/files/EN_GAMEINFO_PRODUCTS_SetIcon_T_VMA_140414_0.png)
+
+This digital deck includes the Momir Vig, Simic Visionary avatar (with new art) and sixty basic land cards, including a five-card set of promotional Guru lands.
 
 **Set Name:** *Magic Online Momir Basic Event Deck*  
 **Number of Cards:** 60  

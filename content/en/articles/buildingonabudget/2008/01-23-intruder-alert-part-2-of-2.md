@@ -521,7 +521,9 @@ Jeff is a gifted writer and has a knack for making clear explanations about comp
 *   [What is the Metagame?](/en/articles/academy/2007/01-06-what-is-the-metagame)
 *   [Metagame Workshop](/en/articles/academy/2007/06-23-metagame-workshop)
 
-![Tolaria_West](https://i.ormos.uk/8f/ad/8fad093248c392a74f8f9c0a6ca36bd88feb0ab0c1e250eb55e56b2f8472fd98.jpg)I highly, highly recommend going to read those articles, whether it's right now or after you've finished this column. A lot of what I discuss today will be framing around the references Jeff makes in his articles (why invent the wheel again when someone's already done it for you?), and there is a lot of sound advice in those columns.
+![Tolaria_West](https://i.ormos.uk/8f/ad/8fad093248c392a74f8f9c0a6ca36bd88feb0ab0c1e250eb55e56b2f8472fd98.jpg)
+
+I highly, highly recommend going to read those articles, whether it's right now or after you've finished this column. A lot of what I discuss today will be framing around the references Jeff makes in his articles (why invent the wheel again when someone's already done it for you?), and there is a lot of sound advice in those columns.
 
 For those who are not familiar with more competitive **Magic**, here's a brief rundown for this article. Note that even if you're not looking to play competitively, there is a lot of important content in this column that can help you improve your deckbuilding skills with your local playgroup, so don't go running away screaming and covering your faces just yet!
 

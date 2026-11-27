@@ -47,7 +47,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/07/98/0798aecd05354abd5647d9ceed34a0a9e81293087439d0b08977d58db94f775b.png)Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
+![](https://i.ormos.uk/07/98/0798aecd05354abd5647d9ceed34a0a9e81293087439d0b08977d58db94f775b.png)
+
+Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
 
 **Set Name:** *Duel Decks: Izzet vs. Golgari*  
 **Number of Cards:** 120  

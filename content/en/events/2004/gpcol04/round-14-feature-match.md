@@ -851,7 +851,9 @@ render_recovery:
 ---
 ### Craig Krempels vs. Gerry Thompson
 
-![](http://www.wizards.com/sideboard/images/gpcol04/fm14_1.jpg)Craig is an affiliate of TOGIT, and part of the TOGIT team that has two fifth place finishes at teams Grand Prixs and a fifth at the Pro Tour. He also has an individual GP top 8 and a ninth place at the Pro Tour, and is looking to add another top 8 today. His opponent, Gerry Thompson, is a Minnesota player who also has a GP top 8, and has competed several times on the Pro Tour. Both must win to preserve top 8.
+![](http://www.wizards.com/sideboard/images/gpcol04/fm14_1.jpg)
+
+Craig is an affiliate of TOGIT, and part of the TOGIT team that has two fifth place finishes at teams Grand Prixs and a fifth at the Pro Tour. He also has an individual GP top 8 and a ninth place at the Pro Tour, and is looking to add another top 8 today. His opponent, Gerry Thompson, is a Minnesota player who also has a GP top 8, and has competed several times on the Pro Tour. Both must win to preserve top 8.
 
 Gerry received a gift of some 'bling' before the match started - one of his teammates loaned him a sparkly necklace for good luck, and he posed with it for the camera. Gerry won the die roll and choose to go first.
 

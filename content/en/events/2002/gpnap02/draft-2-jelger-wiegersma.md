@@ -114,7 +114,9 @@ render_recovery:
   - Zombie Cannibal
   occurrences: 77
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a915.jpg)When I found Jelger he had already made two picks: Dirty Wererat and Ember Beast. But I could follow him from the third booster on. His third pick was Aven Cloudchaser over Rabid Elephant, Sandstone Deadfall and Krosan Avenger. So he's choosing between three colors now. He then picked Crypt Creeper over Mad Dog and Halberdier over Second Thoughts or Morgue Theft. He went on to pick Bloodcurdler over Aven Archer before the picks became easier and he picked Embolden, Angelic Wall, Aven Flock and some other cards.
+![](http://www.wizards.com/sideboard/images/gpnap02/a915.jpg)
+
+When I found Jelger he had already made two picks: Dirty Wererat and Ember Beast. But I could follow him from the third booster on. His third pick was Aven Cloudchaser over Rabid Elephant, Sandstone Deadfall and Krosan Avenger. So he's choosing between three colors now. He then picked Crypt Creeper over Mad Dog and Halberdier over Second Thoughts or Morgue Theft. He went on to pick Bloodcurdler over Aven Archer before the picks became easier and he picked Embolden, Angelic Wall, Aven Flock and some other cards.
 
 So going in to pack two, it seems that Jelger is going to be playing some combination of red, black and white. 
 

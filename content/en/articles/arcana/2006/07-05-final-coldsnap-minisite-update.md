@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/c7/a9/c7a90c330b05d98a18f8a99688c48af7b0a0ccac75e6dc2cd0c650f5a82852e2.jpg)This week, Adam Lee, *Coldsnap* flavor text writer extraordinaire, brings you a tale of icy drama to complete the offerings of the *Coldsnap* minisite.
+![](https://i.ormos.uk/c7/a9/c7a90c330b05d98a18f8a99688c48af7b0a0ccac75e6dc2cd0c650f5a82852e2.jpg)
+
+This week, Adam Lee, *Coldsnap* flavor text writer extraordinaire, brings you a tale of icy drama to complete the offerings of the *Coldsnap* minisite.
 
 It answers the question, “When dying is not an option, what does a slain soldier do?” In other words, what are the advantages—and drawbacks—of fighting on the same battlefield as [Adarkar Valkyrie](/en/articles/seriousfun/2006/06-27-flight-of-the-undying-bombs-2)? You’ll see other *Coldsnap* cards and creatures make cameos in Adam’s story as well.
 

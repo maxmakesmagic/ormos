@@ -132,7 +132,9 @@ Spirit of the Mountains
  Enchant Land  
  1R: Enchanted land becomes a 4/2 Spirit until end of turn. If enchanted land leaves play, return a card named CARDNAME from your graveyard to your hand.
 
-![](https://i.ormos.uk/e5/e4/e5e4d6c2c1bb63dc1765ae0c83a288133581e864001d369083efe751c1f8cbf6.jpg)We realized quickly that it bothered us that you could, say, put the Spirit of the Swamps on a Forest and go to town. The flavor just felt *wrong*, so we changed each of them to only enchant the proper land type.
+![](https://i.ormos.uk/e5/e4/e5e4d6c2c1bb63dc1765ae0c83a288133581e864001d369083efe751c1f8cbf6.jpg)
+
+We realized quickly that it bothered us that you could, say, put the Spirit of the Swamps on a Forest and go to town. The flavor just felt *wrong*, so we changed each of them to only enchant the proper land type.
 
 The next thing we agreed upon was that we liked the mana cost of the White one. A single mana meant that the Genju could easily slip under countermagic, and the fact that they were going to take mana to activate meant that we could still give some powerful stats despite the cheap initial cost (the White one's stats were anything but powerful, but I'll come back to that later). We also decided that the fact that you could only enchant a certain type already gave enough of a color requirement, so we synced up the activation costs at 2 colorless mana. 
 

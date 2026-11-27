@@ -83,7 +83,9 @@ render_recovery:
   - Phantom Whelp
   occurrences: 34
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a919.jpg)It's only fitting that a Singapore-dominated Grand Prix should have an all-Singapore finals. On one side sat Ding Yuan Akuma Leong, grinning, confident, ready to fight. On the other, Chang Chua, quiet, modest, and well aware that he was doomed to lose. His blue-white control deck is excellent, but has few ways to stop key cards like Chainflinger, Cabal Torturer and Bomb Squad. Plus, he's on the receiving end of a quick beatdown. Before the match he prayed for mulligans on Leong's part.
+![](http://www.wizards.com/sideboard/images/gpkl02/a919.jpg)
+
+It's only fitting that a Singapore-dominated Grand Prix should have an all-Singapore finals. On one side sat Ding Yuan Akuma Leong, grinning, confident, ready to fight. On the other, Chang Chua, quiet, modest, and well aware that he was doomed to lose. His blue-white control deck is excellent, but has few ways to stop key cards like Chainflinger, Cabal Torturer and Bomb Squad. Plus, he's on the receiving end of a quick beatdown. Before the match he prayed for mulligans on Leong's part.
 
 Chua started with Skywing Aven, but was already under fire Barbarian Outcast. Next Leong made a Chainflinger, and Chua's face fell. Cephalid Sage earned a Sonic Seizure so Leong could swing for four. Aven Cloudchaser met with Firebolt, and Chua took four more.
 
@@ -97,7 +99,9 @@ Then it seemed Chua's dreams were coming true. Amidst much mumbling of curses he
 
 Leong's early Torturer was Syncopated, and soon Chua was swinging for two with a Pilgrim of Justice and Ghostly Wings. Leong found a fourth land and made a Bomb Squad, then a Chainflinger. Chua continued to serve. He even made a Gull just to hit for three before the Squad blew it up.
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a921.jpg)It looked like Leong was too far behind. But then he drew Morbid Hunger! Tapping six triumphantly, his celebration was cut short by Syncopate. Teroh's Faithful hit play for Chua, and a Shelter made sure they and the Pilgrim would get past Leong's defenders unmolested.
+![](http://www.wizards.com/sideboard/images/gpkl02/a921.jpg)
+
+It looked like Leong was too far behind. But then he drew Morbid Hunger! Tapping six triumphantly, his celebration was cut short by Syncopate. Teroh's Faithful hit play for Chua, and a Shelter made sure they and the Pilgrim would get past Leong's defenders unmolested.
 
 Leong 1 - Chua 0
 

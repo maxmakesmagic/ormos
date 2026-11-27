@@ -75,7 +75,9 @@ render_recovery:
   - Goblin Replica
   occurrences: 24
 ---
-![](http://www.wizards.com/sideboard/images/gplyo03/a856.jpg)After two long days this is it. The final round. Winner makes top 8, loser makes top 16 at best. Yann Hamon is trying to continue his GP success after his second place performance at GP London while Robert Will is trying to make his first international top 8. 
+![](http://www.wizards.com/sideboard/images/gplyo03/a856.jpg)
+
+After two long days this is it. The final round. Winner makes top 8, loser makes top 16 at best. Yann Hamon is trying to continue his GP success after his second place performance at GP London while Robert Will is trying to make his first international top 8. 
 
 ### Game 1
 

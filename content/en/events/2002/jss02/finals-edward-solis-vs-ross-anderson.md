@@ -53,7 +53,9 @@ archive_source:
   sha256: 157f044d10af5d53a32e9d946b465a8c689d6d7e5d5b36236561efb1076a6000
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a755.jpg)This matchup would prove to be fast paced, and based around aggressive card advantage and multiple game swing cards. Solis is running a very aggressive, low curved green/red deck with Grim Lavamancer, Wild Mongrel, Violent Eruption, Firebolt and Call of the Herd. Anderson has his own Mongrels, Flametongues and Rootwallas, but blue for Fact or Fiction, Counterspell and Repulse. If Anderson could stabilize early and make the game last longer, he would most certainly win the long game. It was getting there, and the trades between Flametongues, elephant tokens, and Repulses that would make this match interesting.
+![](http://www.wizards.com/sideboard/images/usnat02/a755.jpg)
+
+This matchup would prove to be fast paced, and based around aggressive card advantage and multiple game swing cards. Solis is running a very aggressive, low curved green/red deck with Grim Lavamancer, Wild Mongrel, Violent Eruption, Firebolt and Call of the Herd. Anderson has his own Mongrels, Flametongues and Rootwallas, but blue for Fact or Fiction, Counterspell and Repulse. If Anderson could stabilize early and make the game last longer, he would most certainly win the long game. It was getting there, and the trades between Flametongues, elephant tokens, and Repulses that would make this match interesting.
 
 ### Game 1
 
@@ -71,7 +73,9 @@ Solis- 1 Anderson- 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/usnat02/a756.jpg)Solis curved out with Lavamancer and Mongrel, and Anderson summoned a Mongrel of his own. Solis' Mongrel got through for damage, and he brought out a second. A madness Violent Eruption would have been devastating, if not for Anderson's Counterspell. Still, he had a lot of work to do if he wanted to stabilize. Flametongue Kavu shot Anderson's Wild Mongrel, but a madness Rootwalla along with two lands kept it alive, and held off Solis' attack. Fire/Ice took down the Flametongue, and Anderson played one of his own to kill off the Lavamancer. Solis now had two Mongrels to Anderson's Flametongue, Mongrel and Rootwalla. Both Mongrels attacked, and one traded with an FTK. Solis' Earthquake would have cleared the board, but Anderson discarded Persuasion, the only card in his hand, to keep his Mongrel alive. The game now became a topdeck contest, as Solis noted "This is the fun part."
+![](http://www.wizards.com/sideboard/images/usnat02/a756.jpg)
+
+Solis curved out with Lavamancer and Mongrel, and Anderson summoned a Mongrel of his own. Solis' Mongrel got through for damage, and he brought out a second. A madness Violent Eruption would have been devastating, if not for Anderson's Counterspell. Still, he had a lot of work to do if he wanted to stabilize. Flametongue Kavu shot Anderson's Wild Mongrel, but a madness Rootwalla along with two lands kept it alive, and held off Solis' attack. Fire/Ice took down the Flametongue, and Anderson played one of his own to kill off the Lavamancer. Solis now had two Mongrels to Anderson's Flametongue, Mongrel and Rootwalla. Both Mongrels attacked, and one traded with an FTK. Solis' Earthquake would have cleared the board, but Anderson discarded Persuasion, the only card in his hand, to keep his Mongrel alive. The game now became a topdeck contest, as Solis noted "This is the fun part."
 
 Two Mongrels butted heads, but Anderson's lived to tell the tale thanks to Repulse. Solis cast Call of the Herd, and the token died to a Mongrel. Solis kicked up Kavu Titan, which was enough to take Game 3.
 

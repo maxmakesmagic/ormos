@@ -145,7 +145,9 @@ render_recovery:
   - Zombie Brute
   occurrences: 105
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a996.jpg)His Winnie the Pooh backpack over one shoulder, and the rest of his worldly possessions in a duffel bag over the other, Ruel is the picture of the weary traveler. Still, he manages to sport his trademark sly grin, and has a wink for anyone passing within range. "I don't have a hotel yet," he says, gesturing to his heavy load "but Tsuyoshi Ikeda has booked one for me." 
+![](http://www.wizards.com/sideboard/images/gpkyo03/a996.jpg)
+
+His Winnie the Pooh backpack over one shoulder, and the rest of his worldly possessions in a duffel bag over the other, Ruel is the picture of the weary traveler. Still, he manages to sport his trademark sly grin, and has a wink for anyone passing within range. "I don't have a hotel yet," he says, gesturing to his heavy load "but Tsuyoshi Ikeda has booked one for me." 
 
 He's out of place this weekend for more than the usual reasons. Traditionally, pros don't dare travel to Japan for Grand Prix. The attendance is too high, and the competition, while not as fierce as at North American and European events, is still tough enough to ward them away. However, this weekend there's another Grand Prix being held in Singapore, and with most Japanese pros fighting at home, it's thought to be easy pickings for pros on the prowl. Never mind that it's Sealed Deck this weekend, much more of a crapshoot than constructed. Still, here he is.
 

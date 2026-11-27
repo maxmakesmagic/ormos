@@ -85,7 +85,9 @@ archive_source:
   sha256: c66d21f8bae47b06dc40061afd70858b37419de290cfc842246130f297757479
 render_recovery: []
 ---
-[![Fromthe Vault: Dragons](http://media.wizards.com/legacy/global/images/magic_expansion_dragons_productshot_en.jpg "Fromthe Vault: Dragons")](https://web.archive.org/web/20080808000000/http://archive.wizards.com/Magic/TCG/Article.aspx?x=magic/expansion/dragons)Hello! My name is Mark Purvis, and I'm an associate brand manager for *Magic*. But I'm also a crazy completist collector of *Magic* cards, and I've been that way for over a decade. I'm that guy who collects simplified Chinese cards for the modified art. I'm the nut who appreciates old black-bordered French cards because they have unique flavor text. Yeah, I'm that guy.
+[![Fromthe Vault: Dragons](http://media.wizards.com/legacy/global/images/magic_expansion_dragons_productshot_en.jpg "Fromthe Vault: Dragons")](https://web.archive.org/web/20080808000000/http://archive.wizards.com/Magic/TCG/Article.aspx?x=magic/expansion/dragons)
+
+Hello! My name is Mark Purvis, and I'm an associate brand manager for *Magic*. But I'm also a crazy completist collector of *Magic* cards, and I've been that way for over a decade. I'm that guy who collects simplified Chinese cards for the modified art. I'm the nut who appreciates old black-bordered French cards because they have unique flavor text. Yeah, I'm that guy.
 
 So about a year ago when I caught wind that Wizards of the Coast was working on a special collector's set for the 15th anniversary of *Magic*, I begged to be a part of the development team. I wasn't above groveling for the opportunity to have some say in creating what was essentially my dream collection as a long-time fan of *Magic*: [*From the Vault: Dragons*](https://web.archive.org/web/20080808000000/http://archive.wizards.com/Magic/TCG/Article.aspx?x=magic/expansion/dragons). I'm here today to tell you a little bit about how the box came about and give you a sneak peek of some of the foil Dragons inside it.
 

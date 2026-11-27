@@ -235,7 +235,9 @@ Really, isn't that what **Magic**'s *about*? Fun? We talk strategy a lot on this
 
 ### The Funny Play
 
-[![Laughing_Hyena](https://i.ormos.uk/7a/a3/7aa3abf08c437b45c280e4dd30b1d4f37f7be4517291952fd7a9dbea7d7e67fa.jpg)](https://web.archive.org/web/20080513000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Laughing%2BHyena)As an example, our pal Metal Jack kept a hand with no lands, betting that it'd be decent if he drew just one. Of course he didn't. So he spent the next five turns doing nothing but drawing and discarding, drawing and discarding without a permanent on the table. 
+[![Laughing_Hyena](https://i.ormos.uk/7a/a3/7aa3abf08c437b45c280e4dd30b1d4f37f7be4517291952fd7a9dbea7d7e67fa.jpg)](https://web.archive.org/web/20080513000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Laughing%2BHyena)
+
+As an example, our pal Metal Jack kept a hand with no lands, betting that it'd be decent if he drew just one. Of course he didn't. So he spent the next five turns doing nothing but drawing and discarding, drawing and discarding without a permanent on the table. 
 
 We started joking that Jack could earn a "Zen Victory" if he just went the entire game without playing any cards. "If Jack's the only other player left," I said, "I'll concede to him for the purity of his vision. But he can't lay a land. That would spoil the effect." Everyone agreed, and we started encouraging Jack to keep doing nothing.
 

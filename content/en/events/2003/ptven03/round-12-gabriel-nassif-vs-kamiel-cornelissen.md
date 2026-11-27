@@ -72,7 +72,9 @@ render_recovery:
   - Ravenous Baloth
   occurrences: 19
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a833.jpg)The tension of the feature match area is not unknown for these two players. With Kamiel running Beast-Bidding and Gabriel running Goblins this match would prove to be a quick one. Either Kamiel would get out an army of beasts on turn 5, or the little red men would overrun him. Gabriel also won the toss, giving Kamiel one turn less to do his thing.
+![](http://www.wizards.com/sideboard/images/ptven03/a833.jpg)
+
+The tension of the feature match area is not unknown for these two players. With Kamiel running Beast-Bidding and Gabriel running Goblins this match would prove to be a quick one. Either Kamiel would get out an army of beasts on turn 5, or the little red men would overrun him. Gabriel also won the toss, giving Kamiel one turn less to do his thing.
 
 ### Game 1
 
@@ -82,7 +84,9 @@ Kamiel 0 – Gabriel 1
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptven03/a832.jpg)At least Kamiel got to play first this time around. He played out a Forest and Swamp during his first two turns, cycling a Primoc Escapee at the end of Gabriel's second turn. Gabriel started with a Skirk Prospector and Goblin Piledriver to put the pressure on. Kamiel once again showed the weakness of his hand by cycling another beast during his main phase to fetch a land. Gabriel however realized this could well be a mind trick to lure him into an Infest. During his turn he thought for quite a while before playing out another Skirk Prospector and a Sparksmith. 
+![](http://www.wizards.com/sideboard/images/ptven03/a832.jpg)
+
+At least Kamiel got to play first this time around. He played out a Forest and Swamp during his first two turns, cycling a Primoc Escapee at the end of Gabriel's second turn. Gabriel started with a Skirk Prospector and Goblin Piledriver to put the pressure on. Kamiel once again showed the weakness of his hand by cycling another beast during his main phase to fetch a land. Gabriel however realized this could well be a mind trick to lure him into an Infest. During his turn he thought for quite a while before playing out another Skirk Prospector and a Sparksmith. 
 
 "Gotta go for it!"
 

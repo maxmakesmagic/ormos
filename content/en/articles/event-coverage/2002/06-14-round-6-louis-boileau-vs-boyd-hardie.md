@@ -54,11 +54,15 @@ render_recovery:
 Round 6: Louis Boileau vs. Boyd Hardie  
  by Josh Bennett
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a954.jpg)This match was a study in opposites. One one hand was Quebec's Louis Boileau whose praises are only beginning to be sung. On the other, the boisterous Boyd Hardie, prone to shameless self-promotion. While Boileau dressed in a reserved black-on-blue t-shirt/longsleeve ensemble, Hardie was dressed as some sort of Hawaiian street urchin. He may or may not have traded liquor to a hobo for the clothes he was wearing today. Boileau is running the Quebec crew's aggro red-green. Hardie, on the other hand, is banking his hopes on the awesome power of [Ceta Sanctuary](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ceta+Sanctuary).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a954.jpg)
+
+This match was a study in opposites. One one hand was Quebec's Louis Boileau whose praises are only beginning to be sung. On the other, the boisterous Boyd Hardie, prone to shameless self-promotion. While Boileau dressed in a reserved black-on-blue t-shirt/longsleeve ensemble, Hardie was dressed as some sort of Hawaiian street urchin. He may or may not have traded liquor to a hobo for the clothes he was wearing today. Boileau is running the Quebec crew's aggro red-green. Hardie, on the other hand, is banking his hopes on the awesome power of [Ceta Sanctuary](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ceta+Sanctuary).
 
 Hardie had no early plays, and sat mute while Boileau dropped back-to-back Mongrels. Hardie took a point to drop an ineffective Ceta Sanctuary. Boileau turned his men sideways and pitched Rootwalla and [Violent Eruption](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Violent+Eruption). It was a jamboree that left Hardie at seven.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a955.jpg)Hardie reeled in his chair. He played [Flametongue Kavu](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu), but had no illusions about it holding. Boileau pitched the other Eruption on his turn, taking the game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a955.jpg)
+
+Hardie reeled in his chair. He played [Flametongue Kavu](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu), but had no illusions about it holding. Boileau pitched the other Eruption on his turn, taking the game.
 
 Boileau 1 - Hardie 0
 
@@ -68,7 +72,9 @@ While shuffling up for Game 2, Hardie noticed that his home province was incorre
 
 Hardie led in the second game with Rootwalla. When it fell to [Firebolt](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) he replaced it. Boileau went one better and showed him turn-two Mongrel. Hardie's choked reaction was reminiscent of a young Boss Hogg. He had to content himself with a Ceta Sanctuary. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a956.jpg)Boileau hit him and brought a Call token to the table. The Sanctuary earned its keep, madnessing out [Arrogant Wurm](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrogant+Wurm). Unfortunately for him Boileau was ready with Flametongue Kavu. The sanctuary offered up [Fiery Temper](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fiery+Temper) to dispatch it, but Hardie had no follow up. A Violent Eruption only took out a Token, and Boileau easily replaced it.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a956.jpg)
+
+Boileau hit him and brought a Call token to the table. The Sanctuary earned its keep, madnessing out [Arrogant Wurm](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrogant+Wurm). Unfortunately for him Boileau was ready with Flametongue Kavu. The sanctuary offered up [Fiery Temper](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fiery+Temper) to dispatch it, but Hardie had no follow up. A Violent Eruption only took out a Token, and Boileau easily replaced it.
 
 On Hardie's final turn, he added four and two blue in his pool. It was not [Upheaval](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval). It was two more Sanctuaries.
 

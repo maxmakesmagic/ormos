@@ -284,7 +284,9 @@ render_recovery:
   - Urborg Volcano
   occurrences: 1
 ---
-![](https://i.ormos.uk/9b/c3/9bc3f12029035fdcafc2d6cb44c64d87d4a996b9255ddfd3711524c4ee29c6e9.jpg)Before I get started on our next deck, I have an announcement to make. When I go to U.S. Nationals this year, I plan on playing a deck from the Deck Clinic series. While I am not going to tell you which deck I am going to choose, or even if it has yet been published, I will play one that has been published by the time Nationals comes around. It may not be exact, card for card, as I continue to find improvements in many of the decks I play, but it will definitely be recognizable as one from the Deck Clinic series.
+![](https://i.ormos.uk/9b/c3/9bc3f12029035fdcafc2d6cb44c64d87d4a996b9255ddfd3711524c4ee29c6e9.jpg)
+
+Before I get started on our next deck, I have an announcement to make. When I go to U.S. Nationals this year, I plan on playing a deck from the Deck Clinic series. While I am not going to tell you which deck I am going to choose, or even if it has yet been published, I will play one that has been published by the time Nationals comes around. It may not be exact, card for card, as I continue to find improvements in many of the decks I play, but it will definitely be recognizable as one from the Deck Clinic series.
 
 For this installment of Deck Clinic, I am going to turn my attention to a g-r-b Zombie Infestation deck. This deck has proven to be very refreshing to me. After the last two decks that I looked at, which took quite a bit of effort to get going, this one fell into place very easily. However, it is extremely tuned to beat creature decks, and has a lot of trouble with solid control decks, like Psychatog. Since the deck is designed to play in a casual environment, I consider this to be a plus, as fully tuned Psychatog decks usually don't show up in casual play. Here then, is the original submission:
 
@@ -310,15 +312,21 @@ To solve this problem, I want to get as many multi-lands as I possibly can into 
 
 ### First Impressions
 
-![](https://i.ormos.uk/dc/b4/dcb41a2de60b08bbca5b28d17b7bb034595c4ce2f07b224f3a8602fdb8fb9a75.jpg)When I looked at the deck, I didn't really like the Firebolts or Urza's Rages. I wanted to abuse the Zombie Infestation as much as possible, and these cards didn't seem to belong. However, once I started playing, I realized my mistake on the Firebolts, they definitely belong. However, Urza's Rage immediately got the axe. Another card really started to bug me as I was playing, however: Fiery Temper just wasn't getting the job done. I really wanted it to kill a Bird or an Elf early, to slow them down. However, the earliest it can be cast is turn 3, as I can not get a way to discard it into play until turn 2. At that rate, it is too late for it to really have an important effect on the game. As such, these went onto the chopping block as well.
+![](https://i.ormos.uk/dc/b4/dcb41a2de60b08bbca5b28d17b7bb034595c4ce2f07b224f3a8602fdb8fb9a75.jpg)
+
+When I looked at the deck, I didn't really like the Firebolts or Urza's Rages. I wanted to abuse the Zombie Infestation as much as possible, and these cards didn't seem to belong. However, once I started playing, I realized my mistake on the Firebolts, they definitely belong. However, Urza's Rage immediately got the axe. Another card really started to bug me as I was playing, however: Fiery Temper just wasn't getting the job done. I really wanted it to kill a Bird or an Elf early, to slow them down. However, the earliest it can be cast is turn 3, as I can not get a way to discard it into play until turn 2. At that rate, it is too late for it to really have an important effect on the game. As such, these went onto the chopping block as well.
 
 ### What to Bring in?
 
-![](https://i.ormos.uk/63/7c/637c398447f85d22a94efeffa3c0f2d738fdb5f71d2e2a9202cc23fbac442432.jpg)Since I wasn't casting Fiery Temper until turn 3 anyways, what would be a good replacement? A quick look through the madness cards provided me with an easy answer: Violent Eruption. While this would not have been playable in the original deck, with all the additional sources of red mana, it shouldn't be too bad now. True enough, playtesting showed that the card did the job much more effectively than its predecessor, and that its 3 red mana in its casting cost was generally only problematic if I could not get a Wild Mongrel or a Zombie Infestation on the board. Nevertheless, this card alone was the reason that I need to get so many red mana sources into the deck.
+![](https://i.ormos.uk/63/7c/637c398447f85d22a94efeffa3c0f2d738fdb5f71d2e2a9202cc23fbac442432.jpg)
+
+Since I wasn't casting Fiery Temper until turn 3 anyways, what would be a good replacement? A quick look through the madness cards provided me with an easy answer: Violent Eruption. While this would not have been playable in the original deck, with all the additional sources of red mana, it shouldn't be too bad now. True enough, playtesting showed that the card did the job much more effectively than its predecessor, and that its 3 red mana in its casting cost was generally only problematic if I could not get a Wild Mongrel or a Zombie Infestation on the board. Nevertheless, this card alone was the reason that I need to get so many red mana sources into the deck.
 
 ### A Hard Choice
 
-![](https://i.ormos.uk/1a/a0/1aa06258532d7f6f71a996189d6adac7143fefba8ede14d9122c0935fb3cb849.jpg)I also had to choose which removal spell I liked better: Chainer's Edict or Terminate. Both of these are very reasonable spells. While the deck doesn't always want to play 7 land, once you have a Chainer's Edict in your graveyard, you can often see that it will be worth it. On the other hand, Terminate definitely wins the battle if your opponent has Spiritmonger and another small creature. I thought about changing the removal to Terminate for quite a while, but in the end, it was the Violent Eruption that made the choice for me. With the amount of creatures that the Eruption usually removed, the number of times my opponent actually had small creatures dwindled, and Chainer's Edict seemed like the much better choice.
+![](https://i.ormos.uk/1a/a0/1aa06258532d7f6f71a996189d6adac7143fefba8ede14d9122c0935fb3cb849.jpg)
+
+I also had to choose which removal spell I liked better: Chainer's Edict or Terminate. Both of these are very reasonable spells. While the deck doesn't always want to play 7 land, once you have a Chainer's Edict in your graveyard, you can often see that it will be worth it. On the other hand, Terminate definitely wins the battle if your opponent has Spiritmonger and another small creature. I thought about changing the removal to Terminate for quite a while, but in the end, it was the Violent Eruption that made the choice for me. With the amount of creatures that the Eruption usually removed, the number of times my opponent actually had small creatures dwindled, and Chainer's Edict seemed like the much better choice.
 
 ### Summary
 

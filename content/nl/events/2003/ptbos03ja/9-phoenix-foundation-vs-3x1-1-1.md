@@ -184,7 +184,9 @@ render_recovery:
 **B:Kai Budde vs Krzywicki**  
 **Game 1**
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a844.jpg)　黒対決。先手の Kai は《萎縮した卑劣漢/Withered Wretch》からの好調な滑り出し。手札には《ゾンビの殺し屋/Zombie Cutthroat》《墓生まれの詩神/Graveborn Muse》《死体の収穫者/Corpse Harvester》が待機する万全の構え。
+![](http://www.wizards.com/sideboard/images/ptbos03/a844.jpg)
+
+　黒対決。先手の Kai は《萎縮した卑劣漢/Withered Wretch》からの好調な滑り出し。手札には《ゾンビの殺し屋/Zombie Cutthroat》《墓生まれの詩神/Graveborn Muse》《死体の収穫者/Corpse Harvester》が待機する万全の構え。
 
 　しかし、それも４マナ以上が揃えばの話。しばしの間互いの土地は三枚で止まり、変異と変異がぶつかりあっては墓地を肥やしていく。
 

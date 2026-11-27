@@ -106,7 +106,9 @@ Below are the top ten non-column related topics that I receive:
 
 ### #10 - Can I get you to autograph a card?
 
-![](https://i.ormos.uk/11/c7/11c7ae0cb00eeccbc6d1b485056734fa1539186a442a2f192e10f1872a551900.jpg)I get asked this quite a bit. The answer is always yes. If you want me to sign a card (or even more than one) you need to send it to me at the following address:
+![](https://i.ormos.uk/11/c7/11c7ae0cb00eeccbc6d1b485056734fa1539186a442a2f192e10f1872a551900.jpg)
+
+I get asked this quite a bit. The answer is always yes. If you want me to sign a card (or even more than one) you need to send it to me at the following address:
 
 **Mark Rosewater  
  c/o Wizards of the Coast  

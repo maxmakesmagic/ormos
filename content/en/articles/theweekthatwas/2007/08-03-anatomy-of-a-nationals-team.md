@@ -81,7 +81,9 @@ render_recovery: []
 
 I have done some quick sketches of other teams over the past few weeks but I was in a unique position to steal some time with each player after the event to find out how they got started playing **Magic**, a little about their deck and their drafts, and how they will work together over the next few months as the complete the last leg of the Road to Worlds. 
 
-![](https://i.ormos.uk/32/d0/32d0ce9bca044290ad87faa659f938b27ae470af98fef07d9cc1901091604c63.jpg)The most recognizable name on this year's team is Luis Scott-Vargas, who is returning to Worlds on the U.S. National team after joining Ben Lundquist and captain – and Luis' good friend -- Paul Cheon on last year's squad. Luis and Paul stormed the team last year playing Solar Flare. Flare was a last minute addition to last year's metagame – very much like Gabe Walls' Blink deck from the Kentucky Open was this year. Solar Flare has gone on to become a Standard standard in the intervening year but Luis was not certain his OmniChord deck would similarly stand the test of time. 
+![](https://i.ormos.uk/32/d0/32d0ce9bca044290ad87faa659f938b27ae470af98fef07d9cc1901091604c63.jpg)
+
+The most recognizable name on this year's team is Luis Scott-Vargas, who is returning to Worlds on the U.S. National team after joining Ben Lundquist and captain – and Luis' good friend -- Paul Cheon on last year's squad. Luis and Paul stormed the team last year playing Solar Flare. Flare was a last minute addition to last year's metagame – very much like Gabe Walls' Blink deck from the Kentucky Open was this year. Solar Flare has gone on to become a Standard standard in the intervening year but Luis was not certain his OmniChord deck would similarly stand the test of time. 
 
 "I am not sure how much I would advocate the deck," he shrugged after returning from his photo shoot. He felt the deck had some very bad aggro match-ups especially with the Rakdos and Rakdos10 decks that did so well in the event. "I beat that deck once when Adam Chambers mulled to five and I was going to lose to Antonino before we drew. It is really good against control decks but you have to play it a lot. The deck has a lot of weird interactions. Just picking it up is not a good idea – it probably isn't a good idea with any deck, but especially with this deck."
 
@@ -105,7 +107,9 @@ Luis was hesitant to make any predictions about the team – not because he doub
 
 "I really like the mono-green deck that Michael Jacob played. I thought it was a really good call and is very promising. Thomas Drake did not play [Remand](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) in his Blink deck and had the only Blink deck in the Top 8 despite it seemingly being the most played deck in the tournament. It shows that he is able to adapt because they are much better in the mirror." 
 
-![](https://i.ormos.uk/9b/02/9b020e3a8704258185427a1ca42b4463552f407006a7c8cfd664964625a98f37.jpg)I asked Luis how he got started in **Magic**. The first time I ever remember noticing the Californian player was during the final round of Pro Tour London when he took part in an epic game with Tomi Walamies which would determine which of them would reach the Top 8. Luis did not win that match but still had fond memories of the battle. 
+![](https://i.ormos.uk/9b/02/9b020e3a8704258185427a1ca42b4463552f407006a7c8cfd664964625a98f37.jpg)
+
+I asked Luis how he got started in **Magic**. The first time I ever remember noticing the Californian player was during the final round of Pro Tour London when he took part in an epic game with Tomi Walamies which would determine which of them would reach the Top 8. Luis did not win that match but still had fond memories of the battle. 
 
 "That is easily in my top one or two games I have ever played," Luis smiled. "Both me and Tomi talked about it afterwards – there were points in that game where we both thought we couldn't lose and it kept switching back and forth until there were like ten turns left. I knew he had the [Hinder](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hinder) and I knew it was going to happen but I couldn't do anything about it. And I couldn't concede because maybe he would miss it. But he didn't and that was that." 
 
@@ -121,7 +125,9 @@ Networking – especially on MTGO – has been a big part of Luis' formula for s
 
 So what next for Luis? "I would like to hit Level 4 this year. We still have Worlds, one Pro Tour and at least one GP. Level 4 is not unreasonable really; a couple of Top 32s should do it."
 
-![Thomas Drake](https://i.ormos.uk/13/bd/13bdb64001aa9a371d7b1a227d5bc243c95941647b432467e9f2ed8ffe49280f.jpg)Finalist Thomas Drake – nicknamed Tamish Drake in the coverage room for his impressive facial hair – was fun to watch throughout the tournament. He was clearly having fun every step of the way but he was also – paraphrasing the words of Frank Kusomoto – studying hard and growing stronger as the tournament went on. This was the highest level of competition he had experienced, with Regionals previously setting the bar for the Virginia Beach player. 
+![Thomas Drake](https://i.ormos.uk/13/bd/13bdb64001aa9a371d7b1a227d5bc243c95941647b432467e9f2ed8ffe49280f.jpg)
+
+Finalist Thomas Drake – nicknamed Tamish Drake in the coverage room for his impressive facial hair – was fun to watch throughout the tournament. He was clearly having fun every step of the way but he was also – paraphrasing the words of Frank Kusomoto – studying hard and growing stronger as the tournament went on. This was the highest level of competition he had experienced, with Regionals previously setting the bar for the Virginia Beach player. 
 
 "We didn't really know what to expect," laughed Thomas when asked how well he and his car-mates expected to do at the tournament. "I have never played this format before – post-*Tenth Edition* and all – I literally made the deck on the way up here. I looked at the Australian Nationals deck lists and modified one of the Blink decks in the car. I threw it together and had no idea what to expect. Basically I liked the deck because it was a bunch of fun cards – I was just coming to have fun. Maybe get in a couple of free drafts."
 
@@ -135,7 +141,9 @@ It is probably not too surprising that Thomas walked away from the tournament wi
 
 "I started out playing in Type 1 tournaments. It was a good way to learn because it is really complicated with the stack. I learned from really good Type 1 players with decks like Madness, Dragon, Keeper, and Hulk [Smash](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smash). Then when Mirrodin came out we started drafting and they taught me how to draft too – since then it has just been fun." 
 
-![](https://i.ormos.uk/50/b3/50b375c682067ea2b27988f68ca38f6afd122b73ee2d13f4872810b4a36a3567.jpg)Still, Thomas was not fully prepared for the rigors of tournament play. As he sat down for his first draft he found out it was nothing like drafting at the local store or playing on MTGO. 
+![](https://i.ormos.uk/50/b3/50b375c682067ea2b27988f68ca38f6afd122b73ee2d13f4872810b4a36a3567.jpg)
+
+Still, Thomas was not fully prepared for the rigors of tournament play. As he sat down for his first draft he found out it was nothing like drafting at the local store or playing on MTGO. 
 
 "I had no idea what was going on," he confessed. "In the first draft I probably drafted the worst I have ever drafted. I am so lucky that I 3-1'd that draft pod. I just outplayed some people but my deck was very subpar. You can go check out the picks." 
 
@@ -153,7 +161,9 @@ Thomas wanted to make sure no one thought he was getting a big head: "I am still
 
 Despite his assessment of himself as a 'lucky scrub' everyone who followed his progress saw that he acquitted himself admirably throughout the event, playing well, learning, and most importantly never forgetting he was there to have fun. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat07/sf_jacob.jpg)Michael Jacob, on the other hand, was there to do work. Mike is a professional gamer who has essentially found himself laid-off as the game he did the bulk of his work in rolled back their prize money and sent him looking elsewhere for some new streams of revenue. Not that **Magic** is anything new to the Michigan based player. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat07/sf_jacob.jpg)
+
+Michael Jacob, on the other hand, was there to do work. Mike is a professional gamer who has essentially found himself laid-off as the game he did the bulk of his work in rolled back their prize money and sent him looking elsewhere for some new streams of revenue. Not that **Magic** is anything new to the Michigan based player. 
 
 "I have been playing **Magic** pretty much since *Revised* and playing on the PTQ level for three and half years or so," said Jacob. "My only real success has been making the Top 8 of Grand Prix Austin. I flew down there to be with my cousins and I made Top 8. I played in Worlds two years ago and I have played in a bunch of Pro Tours just from winning PTQs. Funnily enough all the PTQs I won, I won with [Troll Ascetic](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Troll+Ascetic). So that is why I love the card so much and that's why I played it today."
 
@@ -169,7 +179,9 @@ His one loss came against a SnowWhite deck that featured [Story Circle](https://
 
 "I couldn't possibly win. I had all these 1/1s in play and he played [Cover of Winter](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cover+of+Winter) and I was like, "yeah... I can't do anything". I actually beat him one game with [Timbermare](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timbermare) because he had no idea I could come out of nowhere and just win. He tapped out for [Wrath of God](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) – for no real reason – and that was why I was able to kill him. [Timbermare](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timbermare), [Might of Old Krosa](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Might+of+Old+Krosa), and [Treetop Village](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treetop+Village) were able to kill him."
 
-![](https://i.ormos.uk/32/63/3263e608e2fb4fcd0509c39af41d9fe2bfa86e9dbf5a588496a6cba9e5180c43.jpg)Much like Luis said earlier of his own OmniChord deck, Michael did not love his deck in aggro match-ups but feels with a little tuning the deck could handle anything the metagame has to offer. 
+![](https://i.ormos.uk/32/63/3263e608e2fb4fcd0509c39af41d9fe2bfa86e9dbf5a588496a6cba9e5180c43.jpg)
+
+Much like Luis said earlier of his own OmniChord deck, Michael did not love his deck in aggro match-ups but feels with a little tuning the deck could handle anything the metagame has to offer. 
 
 "If I had done the sideboard correctly – with [Tarmogoyf](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf)s and [Spectral Force](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Force)s – I would probably have a really good match-up against the aggro decks. You side out some of your late game cards like [Giant Solifuge](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Solifuge), which doesn't really do anything against the aggro decks, and they still can't beat a Troll or a Ledgewalker with a Cloak on it so it should be a really good deck to play in the field." 
 
@@ -183,7 +195,9 @@ There was a ton of banter in that match and, having seen him get into verbal jou
 
 "I play a ton of mental games," he confirmed. "I try to make my opponent feel incredibly comfortable with their position and with how I have a terrible hand. I actually won two games in this tournament that way. Against a Blink deck my opponent had two Blinks and two Hierarchs and he was at 11 life. I kept talking about how lucky he was to have a turn three Hierarch. So he tapped out to suspend Chronicler for some amount and I untapped and played [Timbermare](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timbermare), untapped my [Troll Ascetic](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Troll+Ascetic) with Moldevine Cloak, cast Might of Old Kroas and killed him. If he had just been playing correctly – if he hadn't listened to me – and just played Blink, Blink on Hierarch, he wins the game."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat07/qf_bennett.jpg)The fourth member of the team was Michael Bennett, who played more **Magic** than anyone this weekend having to grind into the tournament the night before. Bennett came to the tournament in the same car as Thomas Drake but was not expecting to play in the main event.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat07/qf_bennett.jpg)
+
+The fourth member of the team was Michael Bennett, who played more **Magic** than anyone this weekend having to grind into the tournament the night before. Bennett came to the tournament in the same car as Thomas Drake but was not expecting to play in the main event.
 
 "I was not qualified at all," smiled Michael, who had enough previous experience to appreciate how hard it would be to make it into the tournament much less make the team. "I had gone to JSS at Nationals once like three years ago and tried to grind into Nationals and scrubbed out and then scrubbed out of the JSS. I came up here and did not expect anything. I decided I would play in two grinders but I didn't want to spend all day grinding just to be disappointed at the end of the day." 
 
@@ -197,7 +211,9 @@ He played the same deck in the grinders that he played in the main event – Pro
 
 While Bennett was confident in his deck choice he was surprised by his 6-12 record in the draft portion of the tournament. "I am scared to play in 8-4s. I know I am going to play and lose all my packs and ticks. In standard I went 4-1-2. Going into Day Two was scary because I was already X-2 and I had to win out my draft pod and go 2-0 in Constructed to double draw in." 
 
-![](https://i.ormos.uk/d5/2a/d52a9b52551aca4d91de079ae244c189dc445e15d718f33016db26ffa4cab141.jpg)"I used to live overseas," prefaced Bennett as he recounted his introduction to **Magic**. "My dad was in the military. We lived in Germany and we would pick up packs. My older brother started playing with some friends and one of our friends went to the **Magic** Summer camp. I remember wanting a [Shivan Dragon](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Dragon) and I kept on opening Ice Age packs that had a dragon on it but he wasn't even in that set." 
+![](https://i.ormos.uk/d5/2a/d52a9b52551aca4d91de079ae244c189dc445e15d718f33016db26ffa4cab141.jpg)
+
+"I used to live overseas," prefaced Bennett as he recounted his introduction to **Magic**. "My dad was in the military. We lived in Germany and we would pick up packs. My older brother started playing with some friends and one of our friends went to the **Magic** Summer camp. I remember wanting a [Shivan Dragon](https://web.archive.org/web/20070803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Dragon) and I kept on opening Ice Age packs that had a dragon on it but he wasn't even in that set." 
 
 "Years later I played some other games," he continued. "I went to the store to play those games and saw the **Magic** players and started playing with them. They taught me about the stack and I just went from there." 
 
@@ -211,7 +227,9 @@ The two Virginia Beach players were looking forward to the Legacy portion of Wor
 
 ### 2007 Magic Invitational: North American Ballot
 
-[![](https://i.ormos.uk/d9/a7/d9a7dcabb83a95c2e30752074b909decdf16da278514598a7a69549ad33c6222.jpg)](/en/events/2007/mi07/mark-herberholz-is-the-top-player-in-north-america)For this second straight week the Inviational ballot came down to a photo finish with Willy Edel narrowly squeaking past Paulo Vitor Damo Da Rosa. [This week's ballot](/en/events/2007/mi07/mark-herberholz-is-the-top-player-in-north-america) concentrates on North America with four candidates likely grumbling about Luis Scott-Vargas' fortuitous timing winning the U.S. National Championships even though he was going to be on the ballot prior to the event. 
+[![](https://i.ormos.uk/d9/a7/d9a7dcabb83a95c2e30752074b909decdf16da278514598a7a69549ad33c6222.jpg)](/en/events/2007/mi07/mark-herberholz-is-the-top-player-in-north-america)
+
+For this second straight week the Inviational ballot came down to a photo finish with Willy Edel narrowly squeaking past Paulo Vitor Damo Da Rosa. [This week's ballot](/en/events/2007/mi07/mark-herberholz-is-the-top-player-in-north-america) concentrates on North America with four candidates likely grumbling about Luis Scott-Vargas' fortuitous timing winning the U.S. National Championships even though he was going to be on the ballot prior to the event. 
 
 ### Firestarter: Read any good books lately?
 

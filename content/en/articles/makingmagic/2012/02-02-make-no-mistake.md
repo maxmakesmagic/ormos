@@ -88,7 +88,9 @@ But *Homelands* taught Wizards of the Coast a crucial lesson about **Magic**. Th
 
 Last week I was at [Pro Tour New Orleans](https://web.archive.org/web/20120202000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/ptno03). The format was Extended. After Worlds, R&D banned three cards from the format and *Mirrodin* was added. The result was a blisteringly fast environment with consistent turn three kills and occasional turn two kills (and the super rare turn one kill). Compared to the Extended environment when *Urza's Saga* was first added, this format seems like molasses. The joke at PT Paris (the event where Extended with freshly released *Urza's Saga* was played) was that the game had three stages. The early game - that's the coin flip. The mid game - choosing your mulligans. And the late game - turn one.
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr97_pic3_en.jpg)As someone who was on the development team I can only shake my head in embarrassment. *Urza's Saga* has cards in it so insanely powerful, a trained monkey should have caught them. The only set in all existence with a higher power level (and even this is debatable) is *Alpha*. And *Alpha* was working off a very different premise, that the average **Magic** player would only spend $30 to $50 on cards meaning that there would only be one Black Lotus or one Ancestral Recall in the entire neighborhood, and thus could exist at a much higher power level than the other cards.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr97_pic3_en.jpg)
+
+As someone who was on the development team I can only shake my head in embarrassment. *Urza's Saga* has cards in it so insanely powerful, a trained monkey should have caught them. The only set in all existence with a higher power level (and even this is debatable) is *Alpha*. And *Alpha* was working off a very different premise, that the average **Magic** player would only spend $30 to $50 on cards meaning that there would only be one Black Lotus or one Ancestral Recall in the entire neighborhood, and thus could exist at a much higher power level than the other cards.
 
 *Urza's Saga* is the only time in the eight years that I've been working at Wizards that R&D as an entirity got pulled into the president's office and was yelled at. I'm not going to try and explain what happened as I'm not completely sure myself. The important part was that R&D learned a valuable lesson. Design is meaningless without good development. *Urza's Saga* had a lot of cool ideas. But all that was overshadowed by the fact that games lasted an average of a turn and a half. The repercussions of the *Urza's Saga* fiasco led to the hiring of a new wave of R&D hires (Randy Buehler, Brian Schneider, Henry Stern, Worth Wollpert, Elaine Chase, etc.) that paved the way for a completely revamped system of development (the results of which could first be seen in *Invasion*).
 
@@ -148,7 +150,9 @@ As you can see, the cards are hard to tell apart, especially the White, Black an
 
 ### #13 - Biggest Mistake - Art - Representing Flying - Whipoorwill
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr97_pic2_en.jpg)Another common confusion art can create is telling whether a creature has flying. The most blatant example of this happened in *The Dark*. In rare green there was a creature called Whipoorwill. Be aware that Whipoorwill is the name of an actual bird. An actual bird that can fly. And in the art, the creature is shown in mid-flight. All this would be great except for one thing: The card doesn't have flying!
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr97_pic2_en.jpg)
+
+Another common confusion art can create is telling whether a creature has flying. The most blatant example of this happened in *The Dark*. In rare green there was a creature called Whipoorwill. Be aware that Whipoorwill is the name of an actual bird. An actual bird that can fly. And in the art, the creature is shown in mid-flight. All this would be great except for one thing: The card doesn't have flying!
 
 As a result of a number of illustrations like Whiporwill, current art descriptions for creatures always include whether the creature can or cannot fly.
 

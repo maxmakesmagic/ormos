@@ -118,7 +118,9 @@ render_recovery:
 ---
 The Frenchman has been on fire all weekend. Starting 10-0, he just coasted into the Top 8 on first seed. The match-up couldn't be any easier for him either. Todorovic's Slide has little, or no, chances against Malherbaud's Reanimator.
 
-![](https://i.ormos.uk/ff/d6/ffd6a338d388bc4813972e2fe7ba56407cd22a39d9d1404bf092adef95db64cf.jpg)Pierre's friends started testing the match-up last night and quickly moved on to his potential semi-finals' opponents after an 11-1 session. The Slovenian's morning did not start well, he got very sick and arrived just in the nick of time (well, with three minutes to spare but we might as well make it a bit more dramatic). Borut only started playing Magic seriously in January, so this is this is all new to him. 
+![](https://i.ormos.uk/ff/d6/ffd6a338d388bc4813972e2fe7ba56407cd22a39d9d1404bf092adef95db64cf.jpg)
+
+Pierre's friends started testing the match-up last night and quickly moved on to his potential semi-finals' opponents after an 11-1 session. The Slovenian's morning did not start well, he got very sick and arrived just in the nick of time (well, with three minutes to spare but we might as well make it a bit more dramatic). Borut only started playing Magic seriously in January, so this is this is all new to him. 
 
 Pierre: "So what is your opinion of the match-up?"  
  Borut: "Actually better than I expected. I played the match-up a lot before."
@@ -211,7 +213,9 @@ Still, he found another cycling land to keep Akroma's bloodlust in check. Malher
 
 Borut: "Ok, then."
 
-![](https://i.ormos.uk/88/49/88494859fdfdc11f4b0e004c5c700d68d19822f179702e4281f198ddd8d2c5c6.jpg)He tapped seven mana and played Krosan Tusker. With the help of the two Astral Slides the Tusker leveled the life totals at eleven.
+![](https://i.ormos.uk/88/49/88494859fdfdc11f4b0e004c5c700d68d19822f179702e4281f198ddd8d2c5c6.jpg)
+
+He tapped seven mana and played Krosan Tusker. With the help of the two Astral Slides the Tusker leveled the life totals at eleven.
 
 Borut: "Eleven? That sounds good."
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By David Price*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b11.JPG)Sideboard (S): Where are you from?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b11.JPG)
+
+Sideboard (S): Where are you from?
 
 Andrew Bonham (AB): Toronto, Ontario
 

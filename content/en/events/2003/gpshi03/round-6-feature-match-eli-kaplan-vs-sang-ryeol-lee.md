@@ -176,7 +176,9 @@ The language barrier with his Korean opponent was unusual for Kaplan who can mud
 
 ### Game One
 
-![](https://i.ormos.uk/a5/73/a5738a0cb8f55621fc75cf80882aec14172ce9b969f4d2123c38f394eeb0c054.jpg)Kaplan opened with a pair of lands and his opponent did the same but raised him an Alpha Myr. Eli had no turn three play either but after his foe attacked and played a Viridian Joiner he cast Thirst for Knowledge discarding a Tree of Tales. Kaplan untapped and played a Granite Shard and promptly used it to slay the Myr. Lee untapped and played a Tel-Jilad Archers. Eli played a Spikeshot Goblin and passed the turn falling to sixteen when the Archers attacked. When Lee played a Wizard Replica it was Annulled, but Lee was not to be denied and played another. "Pretty impressive," commented Kaplan.
+![](https://i.ormos.uk/a5/73/a5738a0cb8f55621fc75cf80882aec14172ce9b969f4d2123c38f394eeb0c054.jpg)
+
+Kaplan opened with a pair of lands and his opponent did the same but raised him an Alpha Myr. Eli had no turn three play either but after his foe attacked and played a Viridian Joiner he cast Thirst for Knowledge discarding a Tree of Tales. Kaplan untapped and played a Granite Shard and promptly used it to slay the Myr. Lee untapped and played a Tel-Jilad Archers. Eli played a Spikeshot Goblin and passed the turn falling to sixteen when the Archers attacked. When Lee played a Wizard Replica it was Annulled, but Lee was not to be denied and played another. "Pretty impressive," commented Kaplan.
 
 He began to hum Dueling Banjoes when he played his own Wizard Replica. Lee got in for another two and played a Tel-Jilad Exile with enough mana to outmaneuver the Replica. Eli shot his adversary a pair of times and untapped to make a Quicksilver Elemental. Lee had no attacks and Eli pinged him during the EOT, "Not much happening in the red zone." 
 
@@ -192,7 +194,9 @@ Eli - 1 Lee - 0
 
 "You can describe my failure to sideboard as foolhardiness," announced the confident Kaplan. Lee on the other hand was sideboarding out his green for a suite of white cards. Among the cards he took out was this format's Visara--Molder Slug. His white cards were all sleeved up and ready to go so he may have been making the same swap out for every game two. It is more likely that he was compelled to do so by the pair of Arrests for the Spikeshot Goblin and Elemental that killed him the previous game.
 
-![](https://i.ormos.uk/8b/71/8b71a96d1c16c646dc90359893e7330e695f9e885bd368eeba411fc546f4d583.jpg)Eli had the first play--a Leonin Scimitar on the draw. "Ummm...You might want to come over here and see this--I think it is noteworthy." Eli was holding a pair of Myr, an artifact land, Grab the Reins, and a MegAtog. 
+![](https://i.ormos.uk/8b/71/8b71a96d1c16c646dc90359893e7330e695f9e885bd368eeba411fc546f4d583.jpg)
+
+Eli had the first play--a Leonin Scimitar on the draw. "Ummm...You might want to come over here and see this--I think it is noteworthy." Eli was holding a pair of Myr, an artifact land, Grab the Reins, and a MegAtog. 
 
 Lee played a Skyhunter Cub and earned, "Not bad!" from his opponent when he played a Vulshok Battlegear on the next turn. On turn four Eli was able to summon a MegAtog with five artifacts in play--two were Tree of Tales. Lee played a Clockwork Vorrac and passed the turn.
 

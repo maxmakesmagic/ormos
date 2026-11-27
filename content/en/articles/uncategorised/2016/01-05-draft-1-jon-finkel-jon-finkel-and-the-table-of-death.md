@@ -67,7 +67,9 @@ render_recovery: []
 
 *by Randy Buehler*
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/208.jpg)Every Pro Tour draft seems to have one "killer" table with more than its fair share of name players. At Worlds on Thursday morning, table four was the killer table to end all killer tables. Seven PT regulars (including 6 with Top 8 experience, 3 PT champs, and 2 Players of the Year) sat down with one guy from Korea. Around the table it went Jon Finkel, Dan Clegg, Sang-Seok Lee, Zvi Mowshowitz, Kai Budde, Warren Marsh, Sigurd Eskeland, and then Terry Tsang. Wow. The gathered crowd felt that the only better table ever assembled was the one at the Draft Challenge in Orlando earlier this summer.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/208.jpg)
+
+Every Pro Tour draft seems to have one "killer" table with more than its fair share of name players. At Worlds on Thursday morning, table four was the killer table to end all killer tables. Seven PT regulars (including 6 with Top 8 experience, 3 PT champs, and 2 Players of the Year) sat down with one guy from Korea. Around the table it went Jon Finkel, Dan Clegg, Sang-Seok Lee, Zvi Mowshowitz, Kai Budde, Warren Marsh, Sigurd Eskeland, and then Terry Tsang. Wow. The gathered crowd felt that the only better table ever assembled was the one at the Draft Challenge in Orlando earlier this summer.
 
 When Jon Finkel opened his first pack I'm sure he ran the gamut of emotions starting at exaltation and winding up with fear and dread. His rare was a beauty: Aerial Caravan, but his commons included both Waterfront Bouncer and Rishadan Airship. Clearly Finkel would get to draft a good blue card. However, there was no way for him to avoid sending a confusing message to his left and he might not be able to get much blue in Nemesis when the direction of the draft switched. Finkel quickly eliminated the Airship from consideration then took his time and finally decided on the (single-blue) Bouncer.
 

@@ -95,7 +95,9 @@ Jiang leads 1-0
 
 ### Game Two
 
-![](https://www.wizards.com/sideboard/images/gpsyd03/671.jpg)Jiang takes another mulligan in game two and starts play on turn three with a Journey of Discovery. After some thought Serum Tank is Gordon's answer and he passes the turn to Jiang. Leaden Myr comes down for Jiang giving Serum Tank a counter and Gordon is forced to activate it in his main phase as he searches for a land. Unfortunately for him he doesn't find anything and is forced to enter his discard phase, pitching a Battlegrowth. Jiang brings down Oblivion Stone but Gordon has the only out in his deck to remove it in his hand, Viridian Shaman.
+![](https://www.wizards.com/sideboard/images/gpsyd03/671.jpg)
+
+Jiang takes another mulligan in game two and starts play on turn three with a Journey of Discovery. After some thought Serum Tank is Gordon's answer and he passes the turn to Jiang. Leaden Myr comes down for Jiang giving Serum Tank a counter and Gordon is forced to activate it in his main phase as he searches for a land. Unfortunately for him he doesn't find anything and is forced to enter his discard phase, pitching a Battlegrowth. Jiang brings down Oblivion Stone but Gordon has the only out in his deck to remove it in his hand, Viridian Shaman.
 
 Jiang tries to keep up the pressure with a Wurmskin Forger putting one counter on itself and two on the Myr. Gordon plays a Myr of his own which could provide relief to the mana screw that he is currently facing, if of course it lives to see his next turn. Sword of Kaldra comes right off the top of Jiangs deck and he bangs it into play. After what seems like an eternity Gordon finally gets a land off the top, allowing him to summon a Cobalt Golem and then a Frogmite thanks to its affinity for artifacts. The Sword of Kaldra gets equipped to the and it slams in dealing damage to Gordon. After combat Jiang shifts the sword back onto the Myr and passes the turn. Gordon plays out a Myr Enforcer and when Jiang sends the Sworded Myr into the red zone again the Viridian Shaman jumps in front of it. With no other plays to make Jiang then passes the turn with 8 mana open.
 
@@ -107,7 +109,9 @@ Tied 1-1
 
 ### Game Three
 
-![](https://www.wizards.com/sideboard/images/gpsyd03/670.jpg)Gordon gets proceedings underway with a turn two Copper Myr and then follows it up by sending it into the Red zone and casting a Viridian Longbow. Jiang brings down a Yotian Soldier to stop the little Myr from applying anymore beats. A Myr Enforcer comes into play from Gordon's hand thanks to the affinity for artifacts. Stuck on three land Jiang plays a Deconstruct on the Enforcer and then uses the extra mana to play out Oblivion Stone.
+![](https://www.wizards.com/sideboard/images/gpsyd03/670.jpg)
+
+Gordon gets proceedings underway with a turn two Copper Myr and then follows it up by sending it into the Red zone and casting a Viridian Longbow. Jiang brings down a Yotian Soldier to stop the little Myr from applying anymore beats. A Myr Enforcer comes into play from Gordon's hand thanks to the affinity for artifacts. Stuck on three land Jiang plays a Deconstruct on the Enforcer and then uses the extra mana to play out Oblivion Stone.
 
 Tel-Jilad Archers joins the team for Gordon and once again Jiang cant find a land, as Gordon drops down One Dozen Eyes making it a 5/5 monster. Duplicant locks down the freshly summoned Jiang Yotian Soldier. Escaping from mana screw Jiang plays out an Iron Myr and drops to one life during the next attack phase, allowing him to explode the Stone during Gordon's next turn. When the Stone is finally blown up during the attack phase Gordon drops a Tel-Jilad Chosen and a Myr and its more than enough to deal the final point of damage.
 

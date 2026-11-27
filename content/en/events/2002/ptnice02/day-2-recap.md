@@ -53,7 +53,9 @@ archive_source:
   sha256: ddc1d953c0bd5489523806ac1bcd2bbae7d96bbb496f77ad4e8d7c1b90900995
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a804.jpg)Where to start... How about Kai?
+![](http://www.wizards.com/sideboard/images/ptnice02/a804.jpg)
+
+Where to start... How about Kai?
 
 Kai Budde had lost one match in this tournament. One. To Svend Geertsen, who he beat later on in a rematch. So it's safe to say that he's beaten everyone he's played. That spells bad news for the other Top 8 competitors. That, and the fact that he's five-for-five at winning Pro Tours once Sunday starts.
 

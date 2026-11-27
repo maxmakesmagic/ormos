@@ -141,7 +141,9 @@ Still, there's more going on in Lorwyn than the happy-go-lucky frolicking of elv
 
 So let's get started with Lorwyn's lineage.
 
-![](https://i.ormos.uk/7f/0d/7f0d408273bc2101197b96b425d516632c7391bee2d745b3536d82450489c81e.jpg)Lorwyn draws inspiration from the folklore and mythology of the British Isles. You'll find influences from Irish, English, Welsh, Scottish, and Celtic stories, languages and cultures in both the look and world details of the setting. That pedigree gives Lorwyn a built-in storybook feel, even as it diverges dramatically from that source material. The result is a world that feels original and unique to **Magic**, yet draws from long folklore traditions for an impression of rustic, well-worn history.
+![](https://i.ormos.uk/7f/0d/7f0d408273bc2101197b96b425d516632c7391bee2d745b3536d82450489c81e.jpg)
+
+Lorwyn draws inspiration from the folklore and mythology of the British Isles. You'll find influences from Irish, English, Welsh, Scottish, and Celtic stories, languages and cultures in both the look and world details of the setting. That pedigree gives Lorwyn a built-in storybook feel, even as it diverges dramatically from that source material. The result is a world that feels original and unique to **Magic**, yet draws from long folklore traditions for an impression of rustic, well-worn history.
 
 It's interesting to note that the folklore from which Lorwyn takes its inspiration makes very little distinction between these words:
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 60890d6062b6765e03393cea87cdd004c89f7cd5762caa0bb9451b382ca59434
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsea04/feat3_1.jpg)Protecting a draft strategy going into Day 2 can give a team enough of an advantage to put it over the top. With five rounds of drafting, the strategies that might seem best at the beginning of the day evolve as teams discover what the opposition is doing. Other teams don't wait around for evolution, and instead attempt to copy what the more successful teams have done
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsea04/feat3_1.jpg)
+
+Protecting a draft strategy going into Day 2 can give a team enough of an advantage to put it over the top. With five rounds of drafting, the strategies that might seem best at the beginning of the day evolve as teams discover what the opposition is doing. Other teams don't wait around for evolution, and instead attempt to copy what the more successful teams have done
 
 Dead Money (Radonjic, Lau, Thicke) decided that their plan would be to copy whatever strategy Phoenix Foundation (Blume, Baberowski, Budde) was using. When they found out that Phoenix Foundation didn't make Day 2, they were disappointed because they wouldn't be able to implement their plan. Dead Money joked around, saying that during the first draft they were going to only have two players draft while the third scouted other teams' strategies.
 

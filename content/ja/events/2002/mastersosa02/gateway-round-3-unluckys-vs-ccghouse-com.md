@@ -282,7 +282,9 @@ The Undertaker よろしく、ご自慢のロングヘアーをクルーカッ�
 
 そう、Freneau が握り締めていたのは《シートンの願望/Seton's Desire》であった。
 
-![](http://www.wizards.com/sideboard/images/mastersosa02/a496.jpg)長岡は《祝福された語り部/Blessed Orator》、《オーラ術師/Auramancer》と展開して防御陣を再構築し、にわかに状況は膠着したかのように見えた。しかし、Freneau は満を持して《野生の雑種犬/Wild Mongrel》に《シートンの願望/Seton's Desire》をエンチャントし、この 4/4 のアタックを通してライフを8 対 18 とした。
+![](http://www.wizards.com/sideboard/images/mastersosa02/a496.jpg)
+
+長岡は《祝福された語り部/Blessed Orator》、《オーラ術師/Auramancer》と展開して防御陣を再構築し、にわかに状況は膠着したかのように見えた。しかし、Freneau は満を持して《野生の雑種犬/Wild Mongrel》に《シートンの願望/Seton's Desire》をエンチャントし、この 4/4 のアタックを通してライフを8 対 18 とした。
 
 長岡は《祝福された語り部/Blessed Orator》に《孤立の力/Strength of Isolation》をエンチャントし、Freneau の突進をなんとかストップしようと試みた。長岡は6マナ、ハンド 3 枚、ライフ 8 点。対する Freneau は 5 枚のランド、ハンド 1 枚、ライフ 18 点。
 

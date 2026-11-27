@@ -44,7 +44,9 @@ archive_source:
   sha256: 8f37d7d5647cf1b29f8c7a891f3706b4adf0ebe74f9fe89b59e312375e0365d8
 render_recovery: []
 ---
-![Feature Match: Berkowitz vs. Humpherys](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/884.jpg)After his parting of the ways with CMU-TOGIT earlier this year, there were some rumors that put Jordan Berkowitz on wearing the red and black dragon for YMG. Love him or hate him, there is no denying that Jordan is one of the hottest young players on the tour. After his Top 8 performance at Pro Tour Venice he made the Top 8 a US Nationals and just missed the final cut at this past World Championships with a heartbreaking 10th place finish.
+![Feature Match: Berkowitz vs. Humpherys](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/884.jpg)
+
+After his parting of the ways with CMU-TOGIT earlier this year, there were some rumors that put Jordan Berkowitz on wearing the red and black dragon for YMG. Love him or hate him, there is no denying that Jordan is one of the hottest young players on the tour. After his Top 8 performance at Pro Tour Venice he made the Top 8 a US Nationals and just missed the final cut at this past World Championships with a heartbreaking 10th place finish.
 
 Jordan was expecting to hook up with YMG and was disappointed to find himself without a major team for this Pro Tour. He hooked up with a handful of other young players and retreated to Canada for playtesting. When Jordan made the Top 8 of Venice he did it with a deck designed by relatively unknown Pennsylvania based player Gregg Weiss. When Jordan was greeted in Canada by Rich Hoaen, Mark Zajdner, and Joshua Wagener he came bearing another Gregg Weiss creation-Mono-Brown. 
 
@@ -52,7 +54,9 @@ Only half of the team was playing the deck and the other player-Mark Zajdner-fai
 
 ### Game 1
 
-![Da Hump, now with 15% more beard](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/885.jpg)Theoretically, both players are aware of the others decklists but Jordan has not paid enough attention to the YMG list and when Dave played a [Chrome Mox](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chrome+Mox) and imprinted a [Moment's Peace](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace) he had to laugh, "This deck is crazy. You YMG guys have the craziest stuff!"
+![Da Hump, now with 15% more beard](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/885.jpg)
+
+Theoretically, both players are aware of the others decklists but Jordan has not paid enough attention to the YMG list and when Dave played a [Chrome Mox](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chrome+Mox) and imprinted a [Moment's Peace](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace) he had to laugh, "This deck is crazy. You YMG guys have the craziest stuff!"
 
 Jordan had led off the game with a [Rishadan Port](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rishadan+Port) and a [Voltaic Key](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voltaic+Key) had another Port for his next turn and tapped Dave's [Island](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) on his upkeep. Dave played a [Wooded Foothills](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wooded+Foothills) and imprinted a [Counterspell](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell) on a Scepter.
 
@@ -72,7 +76,9 @@ Dave 0 - Raw Talent 1
 
 ### Game 2
 
-![Somebody call the Toon Town Police!](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/883.jpg)Dave sided outmost of his creature control for [Dust Bowl](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dust+Bowl)s and [Naturalize](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Naturalize)s. He left in some Oaths and all but one of his [Moment's Peace](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace). Meanwhile, Jordan brought in four [Smokestack](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smokestack)s and [Mindslaver](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mindslaver)s.
+![Somebody call the Toon Town Police!](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/883.jpg)
+
+Dave sided outmost of his creature control for [Dust Bowl](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dust+Bowl)s and [Naturalize](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Naturalize)s. He left in some Oaths and all but one of his [Moment's Peace](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace). Meanwhile, Jordan brought in four [Smokestack](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smokestack)s and [Mindslaver](https://web.archive.org/web/20031101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mindslaver)s.
 
 While they shuffled Jordan talked about wanting to join YMG. "Justin told me they wanted me and I got pretty excited. I know a couple of guys didn't vote for me and it didn't happen. But then like you guys took ten other guys!"
 

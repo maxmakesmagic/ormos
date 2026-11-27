@@ -44,7 +44,9 @@ archive_source:
   sha256: 6c82692743b7a13b37f81cd8d963b64eeb826f937cd180b47f6ba21369783a93
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a991.jpg)This match was sad. The Ferrett won 2-0. The end.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a991.jpg)
+
+This match was sad. The Ferrett won 2-0. The end.
 
 This is what Brad Klabik told me to write as soon as he sat down. Brad was not the picture of confidence for his feature match. 
 
@@ -58,7 +60,9 @@ The Ferrett is known to the internet community as the editor of starcitygames.co
 
 Brad won . . .the die roll.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a993.jpg)Brad kept his hand, a solid red-green draw of Lavamancer and Wild Mongrel. The Ferrett followed up the 1 he rolled on the d20 with mulliganing a one island hand. The next hand was a keeper and he answered Brad's turn two Mongrel with his own. Brad started it up by Reckless Charging his Lavamancer and swinging with both his creatures. The Ferrett discarded a Rootwalla to his Mongrel. Then he blocked the Lavamancer with the Rootwalla and had Ferret.Mongrel stepped in front of Brad's. Brad proceeded to (after blocking) Fiery Temper the Rootwalla by discarding it to his Mongrel. Next Ferrett discarded a land. Then Brad discarded a land. Then Ferrett discarded a land. Both Mongrels died vicious deaths to each other. This left only a Charged Lavamancer who was probably pretty frustrated that he didn't get to serve for four. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a993.jpg)
+
+Brad kept his hand, a solid red-green draw of Lavamancer and Wild Mongrel. The Ferrett followed up the 1 he rolled on the d20 with mulliganing a one island hand. The next hand was a keeper and he answered Brad's turn two Mongrel with his own. Brad started it up by Reckless Charging his Lavamancer and swinging with both his creatures. The Ferrett discarded a Rootwalla to his Mongrel. Then he blocked the Lavamancer with the Rootwalla and had Ferret.Mongrel stepped in front of Brad's. Brad proceeded to (after blocking) Fiery Temper the Rootwalla by discarding it to his Mongrel. Next Ferrett discarded a land. Then Brad discarded a land. Then Ferrett discarded a land. Both Mongrels died vicious deaths to each other. This left only a Charged Lavamancer who was probably pretty frustrated that he didn't get to serve for four. 
 
 The Ferrett barely noticed losing the Mongrel. He played a Mongoose the next turn, which he later told me he had in his opening draw and forgot to play. He followed up the next turn with another Mongoose, and by the time Brad found a blocker, Ferret had Wonder and finished him off.
 

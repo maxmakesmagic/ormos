@@ -44,7 +44,9 @@ archive_source:
   sha256: 46a95c9b0bbf9177d9c0341267342b714ebae7f8852fd35324c17d149b99f331
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm122_1.jpg)Previously we covered the draft of the second pod and it was predicted that local amateur Hannes Scholz would 3-0 his draft with his affinity deck. So far he's been confirming the facts, having won both of his matches. His opponent, Michal Drahokoupil left the draft table with a less spectacular green-black-red deck, and few expected him to be playing for the victory in the draft, but it has served him well, since it has shortened the distance to the Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm122_1.jpg)
+
+Previously we covered the draft of the second pod and it was predicted that local amateur Hannes Scholz would 3-0 his draft with his affinity deck. So far he's been confirming the facts, having won both of his matches. His opponent, Michal Drahokoupil left the draft table with a less spectacular green-black-red deck, and few expected him to be playing for the victory in the draft, but it has served him well, since it has shortened the distance to the Top 8.
 
 ### Game 1
 

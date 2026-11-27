@@ -77,7 +77,9 @@ render_recovery:
 ---
 One of these two players is rude, and the other is stern. Get it?
 
-![](http://www.wizards.com/sideboard/images/canat02/a879.jpg)Both of these players are from Quebec (Stern is not from PEI as his name card indicates), and draft together regularly. Now they must face one another in a red/green mirror to see who gets the sure-fire seat on the National team, and who'll have to earn it in the 3rd/4th playoff.
+![](http://www.wizards.com/sideboard/images/canat02/a879.jpg)
+
+Both of these players are from Quebec (Stern is not from PEI as his name card indicates), and draft together regularly. Now they must face one another in a red/green mirror to see who gets the sure-fire seat on the National team, and who'll have to earn it in the 3rd/4th playoff.
 
 Rood lists Top 8 at GP Montreal as his highest accomplishment, but Stern did well at that tournament himself, finishing in the top 16. But the arena now is Standard, not draft, and Rood seems to have the clear edge. Rood was the lone 6-0 on day one; his red/green deck is quite a beating. Stern only managed 3-3 on the first day, and was overhead saying he "wanted to throw his deck away." Stern's deck contains a few cards that are not ideal in this match, such as Birds of Paradise and City of Brass.
 
@@ -106,7 +108,9 @@ But there was no Shivan Wurm to be found. All Stern could cast was a Lavamancer.
 
 Rood 2 – Stern 0
 
-![](http://www.wizards.com/sideboard/images/canat02/a880.jpg)Game 3 started out similarly – Bird/Call for Stern, and turn-2 Mongrel (the four hundredth game in a row) for Rood. Then Stern dropped the big hitter, Gorilla Warrior, um, I mean, Spellbane Centaur.
+![](http://www.wizards.com/sideboard/images/canat02/a880.jpg)
+
+Game 3 started out similarly – Bird/Call for Stern, and turn-2 Mongrel (the four hundredth game in a row) for Rood. Then Stern dropped the big hitter, Gorilla Warrior, um, I mean, Spellbane Centaur.
 
 Rood: "What?!"  
  Stern: "It's good against blue."  
@@ -136,7 +140,9 @@ Had Rood made the right play with his Mongrel and Lavamncer, he would have been 
 
 Rood 2 – Stern 2
 
-![](http://www.wizards.com/sideboard/images/canat02/a881.jpg)Rood had enough of Shivan Wurm and sided the four bridges back in for the final game.
+![](http://www.wizards.com/sideboard/images/canat02/a881.jpg)
+
+Rood had enough of Shivan Wurm and sided the four bridges back in for the final game.
 
 Deflated after his mistake, Rood kept a really bad hand in Game 5 – five land, a Firebolt, and a Violent Eruption.
 

@@ -148,7 +148,9 @@ Walamies 先手。《ゴブリンの群衆追い/Goblin Piledriver》からの�
 
 1 ターン目に出た《ゴブリンのそり乗り/Goblin Sledder》がお互いにぶつかって相打ちとなるスタート。続いて森田が出した《火花鍛冶》が生き残る。
 
-![](http://www.wizards.com/sideboard/images/ptven03/a927.jpg)Walamies は《つつき這い虫》で森田のライフを削りに行き、森田の出した《うすのろ》は《スカークの炎の司令官/Skirk Fire Marshal》でガッチリキャッチ。そして空から《刃の翼ロリックス/Rorix Bladewing》急襲！
+![](http://www.wizards.com/sideboard/images/ptven03/a927.jpg)
+
+Walamies は《つつき這い虫》で森田のライフを削りに行き、森田の出した《うすのろ》は《スカークの炎の司令官/Skirk Fire Marshal》でガッチリキャッチ。そして空から《刃の翼ロリックス/Rorix Bladewing》急襲！
 
 これで森田のライフは一気に 5 。さすがに今回はいかれたかな？と思ったのだが、森田は落ち着いて《宝石の手の焼却者》 3 点と、《ショック》の合わせ技でこのいかれたドラゴンを葬る。
 

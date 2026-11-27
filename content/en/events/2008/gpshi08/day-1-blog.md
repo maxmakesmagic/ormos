@@ -135,7 +135,9 @@ render_recovery:
 
 *By Tim Willoughby* 
 
-![](https://www.wizards.com/sideboard/images/gpshi08/DoubleHeader.JPG)I am writing the first leg of the coverage for GP Shizuoka from Heathrow Airport in England. There are those that have suggested that I am crazy for flying for a total of 24 hours to cover a Grand Prix, but the more I think about it the more I have come to the conclusion that given the opportunity, I would have been crazy not to. The one Standard Grand Prix before Pro Tour Hollywood? Located in the country that is not just a hotbed of innovation in constructed formats, but also one of my favourite places on the planet? I was always going to be a lock to be at this event when the opportunity arose. Next week I'll be in Vienna looking at Extended. In between I'll be back in England playing for my local shop in the first of a 'Grudge Match' style series, where the valiant heroes from Eclectic Games try to show those filthy curs at They Walk Among Us how to play Magic. I guess this must be what it feels like to be a Pro. 
+![](https://www.wizards.com/sideboard/images/gpshi08/DoubleHeader.JPG)
+
+I am writing the first leg of the coverage for GP Shizuoka from Heathrow Airport in England. There are those that have suggested that I am crazy for flying for a total of 24 hours to cover a Grand Prix, but the more I think about it the more I have come to the conclusion that given the opportunity, I would have been crazy not to. The one Standard Grand Prix before Pro Tour Hollywood? Located in the country that is not just a hotbed of innovation in constructed formats, but also one of my favourite places on the planet? I was always going to be a lock to be at this event when the opportunity arose. Next week I'll be in Vienna looking at Extended. In between I'll be back in England playing for my local shop in the first of a 'Grudge Match' style series, where the valiant heroes from Eclectic Games try to show those filthy curs at They Walk Among Us how to play Magic. I guess this must be what it feels like to be a Pro. 
 
 I have now flown all over the world on event coverage enough that I received a free upgrade to Club class on my 12 hour flight to Tokyo. Before I started all this the furthest I'd been out of England was France. I can't help but feel that I owe Magic a lot. 
 
@@ -161,7 +163,9 @@ If your traditional tournament report begins with the travel, then I can only re
 
 *By Tim Willoughby* 
 
-![](https://www.wizards.com/sideboard/images/gpshi08/Olivier1.jpg)While most of the players here in Shizuoka are relatively local, we do have one pro who has traveled slightly further for the event. Olivier Ruel made the big flight, and is staying with Masashiro Kuroda for the weekend to battle against Japan's best. When I asked him what he'd be doing for his three byes, he pulled out a book on how to write Japanese; following all his great experiences on the Pro Tour over here, he is now doing a degree in Japanese, and would be hard at work trying to get practice in between rounds. After having had a fairly easy semester studying English, a language in which he is already fluent, Oli is now working on something a little harder.
+![](https://www.wizards.com/sideboard/images/gpshi08/Olivier1.jpg)
+
+While most of the players here in Shizuoka are relatively local, we do have one pro who has traveled slightly further for the event. Olivier Ruel made the big flight, and is staying with Masashiro Kuroda for the weekend to battle against Japan's best. When I asked him what he'd be doing for his three byes, he pulled out a book on how to write Japanese; following all his great experiences on the Pro Tour over here, he is now doing a degree in Japanese, and would be hard at work trying to get practice in between rounds. After having had a fairly easy semester studying English, a language in which he is already fluent, Oli is now working on something a little harder.
 
 "Japanese is really tough, because even once you know all the words, you can't necessarily make them into a sentence" quipped Oli, who is already well versed in a few languages, but was looking for a special challenge for his degree. 
 
@@ -183,13 +187,17 @@ Nakano led off with a Treetop Village before powering out both Boreal Druid and 
 
 Heritage Druid? Fujita strikes again. 
 
-![](https://www.wizards.com/sideboard/images/gpshi08/R3_Yamaoka.jpg)While Yamaoka had a Bitterblossom off Island and Swamp, he looked a little on the back foot as Nakano played both Bramblewood Paragon, and Elvish Champion on turn 3. The Champion is exceptionally powerful against green decks, especially with a relatively low number of basic Forests in this variation on the elf deck. Against Yamaoka, the forestwalk would not be relevant, though the same could not be said for the size bonus that the champion granted.
+![](https://www.wizards.com/sideboard/images/gpshi08/R3_Yamaoka.jpg)
+
+While Yamaoka had a Bitterblossom off Island and Swamp, he looked a little on the back foot as Nakano played both Bramblewood Paragon, and Elvish Champion on turn 3. The Champion is exceptionally powerful against green decks, especially with a relatively low number of basic Forests in this variation on the elf deck. Against Yamaoka, the forestwalk would not be relevant, though the same could not be said for the size bonus that the champion granted.
 
 Prior to the Nakano's next attack step, Namaoka had Pestermite to tap down Bramblewood Paragon. Nakano shrugged, and played a Hunting Triad, which produced three Elf Warrior tokens, each of which would attack as a 3/3, given the help from Bramblewood Paragon and Elvish Champion. Nakano wasn't keen to attack initially, but once the beats started coming, they were savage. Imperious Perfect made those elves colossal, and as if they weren't enough, Nakano had a whopping three copies of Treetop Village with which to back them up. The very first swing was with Elvish Champion, Heritage Druid, Boreal Druid, Bramblewood Paragon, and three Elf Warrior tokens. A Pestermite and two Bitterblossom Faerie tokens blocked, and with help from Scion of Oona, even killed off a could of elves, but Namaoka was taken to 3 nonetheless. He quickly scooped things up for Game 2. 
 
 Yoshitaka Nakano 1 - 0 Naoki Yamaoka
 
-![](https://www.wizards.com/sideboard/images/gpshi08/R3_Nakano.jpg)While Yamaoka was on the play for Game 2, it was again Nakano who took the initiative, leading off with Boreal Druid, and following up with Heritage Druid and a second Boreal Druid. When he tried for an Elvish Champion as well, he was thwarted by Flash Freeze, but he still had a substantial amount of mana available fore future turns with which to deploy other threats. This new version of elves could definitely be explosive. 
+![](https://www.wizards.com/sideboard/images/gpshi08/R3_Nakano.jpg)
+
+While Yamaoka was on the play for Game 2, it was again Nakano who took the initiative, leading off with Boreal Druid, and following up with Heritage Druid and a second Boreal Druid. When he tried for an Elvish Champion as well, he was thwarted by Flash Freeze, but he still had a substantial amount of mana available fore future turns with which to deploy other threats. This new version of elves could definitely be explosive. 
 
 Yamaoka tried to proactively deal with these other threats with Verdillon Clique, hitting a Garruk Wildspeaker, who was unsurprisingly replaced by something rather less exciting ֠though the Treetop Village that came would be a threat that could get through any amount of countermagic from Yamaoka. 
 
@@ -243,7 +251,9 @@ The life totals were 20 to 15 in Shimizu's favour, but Kenji had a plan to redre
 
 ![](https://www.wizards.com/sideboard/images/gpshi08/R5_Shimizu.jpg) Naoki, looking dapper in a suit and tie, calmly cast Into the North, thinning his deck and building his mana base along the way. With the Mouth of Ronom that he fetched, he would be safer from whatever tricks were on the way from Tsumura. Kenji played Body Double, copying Mulldrifter, and was responded to by Shimizu with a Makeshift Mannequin to get back his Mulldrifter. Everyone drew a lot of cards, and generally felt quite pleased with themselves. Kenji was behind slightly on life (11 to 16) but had more damage on the board, along with a large stack of lands with which to cast the cards in his hand. Initially at least, he held back, allowing a Makeshift Mannequin to get back Mulldrifter again, and only playing Venser later, to kill it once it was in play. Nothing Kenji had was stopping the Shriekmaw, who would continue to rumble in for three, getting past Kenji's team thanks to its fear ability.
 
-![](https://www.wizards.com/sideboard/images/gpshi08/R5_Kenji.jpg)Naoki Evoked a second Shriekmaw, choosing not to play it so that presumably he could keep Mouth of Ronom mana up. This plan was thwarted though, by a Rune Snag, forcing Shimizu to pay if he wanted to off Venser. Shimizu did so, attacked, and passed the turn. Kenji cast Reveillark. While down on life, he was fast in a position to cause all manner of trouble, with both Reveillark and Body Double on the board. 
+![](https://www.wizards.com/sideboard/images/gpshi08/R5_Kenji.jpg)
+
+Naoki Evoked a second Shriekmaw, choosing not to play it so that presumably he could keep Mouth of Ronom mana up. This plan was thwarted though, by a Rune Snag, forcing Shimizu to pay if he wanted to off Venser. Shimizu did so, attacked, and passed the turn. Kenji cast Reveillark. While down on life, he was fast in a position to cause all manner of trouble, with both Reveillark and Body Double on the board. 
 
 Naoki tried an end of turn Makeshift Mannequin, only for Kenji to Momentary Blink his Reveillark, getting back Mulldrifter, and Venser, Shaper Savant to bounce Shimizu's spell from the stack. Naoki had to content himself with casting yet another Mulldrifter. It soon blocked and died to Reveillark, while Shimizu dropped to 4 on the swings. 
 

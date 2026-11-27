@@ -44,7 +44,9 @@ archive_source:
   sha256: 36eed3a2cdccc260f8cee56622fd7f6b37b45967aff41be5e8caed29fb3bef23
 render_recovery: []
 ---
-![](https://i.ormos.uk/99/51/9951de933a0f8d6a5b121aeccdeea6a46f5d79c018e4dd208334d6d422b2655c.jpg)Anton Jonsson is no stranger to this level of competition. He won GP Seville and has made multiple Pro Tour and Grand Prix top 8's. He drafted a mainly black red deck with a red splash for [Slice and Dice](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slice+and+Dice).
+![](https://i.ormos.uk/99/51/9951de933a0f8d6a5b121aeccdeea6a46f5d79c018e4dd208334d6d422b2655c.jpg)
+
+Anton Jonsson is no stranger to this level of competition. He won GP Seville and has made multiple Pro Tour and Grand Prix top 8's. He drafted a mainly black red deck with a red splash for [Slice and Dice](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slice+and+Dice).
 
 His opponent Jedlicka is less well-known but he has a very quick looking green-red deck to fight for.
 
@@ -82,7 +84,9 @@ Jonsson had to mulligan again. Jedlicka had another curve: [Wellwisher](https://
 
 When he only laid a land and passed on the fifth turn with a sigh it looked bad for the Swede. He had a [Cruel Revival](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cruel+Revival) of course. That took out the Savage while Vorine and [Severed Legion](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion) traded.
 
-![](https://i.ormos.uk/25/11/25114a1cb9a15d930d248f66b63b95a7b3e1611a354a41ad7b587d4d84000377.jpg)Jedlicka was still kicking. Morph and Invoker. Jonsson's [Sootfeather Flock](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sootfeather+Flock) was Blasted straight to the graveyard and Jedlicka smashed in again.
+![](https://i.ormos.uk/25/11/25114a1cb9a15d930d248f66b63b95a7b3e1611a354a41ad7b587d4d84000377.jpg)
+
+Jedlicka was still kicking. Morph and Invoker. Jonsson's [Sootfeather Flock](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sootfeather+Flock) was Blasted straight to the graveyard and Jedlicka smashed in again.
 
 Jonsson made a Legion and Courier and traded off for two of Jedlicka's attackers as the [Wellwisher](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) continued to nibble away.
 

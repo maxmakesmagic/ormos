@@ -61,7 +61,9 @@ archive_source:
   sha256: a26a4c2699c21fb4dd3fed1874ce7c41b961a5f4bfbea19d9f25b9741a526e00
 render_recovery: []
 ---
-![](https://i.ormos.uk/c3/0a/c30a22f69949d166a96cce84a73dab6a2b8c90abb3bf6a19ba852f7bc7090bf9.jpg)You haven’t been tuning in to the **magicthegathering.com** podcast, have you? Shame on you! If you had, you’d already know about the 2006 Standard Champs promo cards. You’d already know that the card you get for just participating in **2006 Standard Champs, October 21 or 28** (check the [schedule](https://web.archive.org/web/20061016000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs) for Champs in your area), is:
+![](https://i.ormos.uk/c3/0a/c30a22f69949d166a96cce84a73dab6a2b8c90abb3bf6a19ba852f7bc7090bf9.jpg)
+
+You haven’t been tuning in to the **magicthegathering.com** podcast, have you? Shame on you! If you had, you’d already know about the 2006 Standard Champs promo cards. You’d already know that the card you get for just participating in **2006 Standard Champs, October 21 or 28** (check the [schedule](https://web.archive.org/web/20061016000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs) for Champs in your area), is:
 
   
 

@@ -111,7 +111,9 @@ render_recovery:
   - Piety Charm
   occurrences: 76
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a795.jpg)I'm not sure I know how to write this article without cursing ...
+![](http://www.wizards.com/sideboard/images/worlds03/a795.jpg)
+
+I'm not sure I know how to write this article without cursing ...
 
 I watched table 1 for the final draft of the Rochester day. The first interesting thing I noticed about the table is that not a single American was sitting at it. The same thing had been true before the first draft, but all the Americans I talked to said that was just because the standings from the Standard constructed day were used to seed the pods. "Just wait for the second draft," they said. Well, after three rounds of draft, Finnish national team member Tuomo Niemenin was on top of the standings with a perfect 9-0 record. He was joined by a pair of German players, as Peer Kroger and Daniel Zink defended their home turf by posting perfect 3-0 records at their previous draft tables. Jeroen Remie (Netherlands), Sylvain Laurial (France), and Tuomas Kotiranta (Finland) brought the total of European drafters at the table up to 6. Rounding out the table were Jin Okamoto (Japan) and Han Yuen Soh (Malaysia).
 

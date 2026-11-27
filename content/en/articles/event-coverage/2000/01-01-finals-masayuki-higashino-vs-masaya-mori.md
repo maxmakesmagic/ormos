@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by James White* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270184.jpg)After twelve hours of intense mental battle, we were left with two great Japanese superstars to determine who would walk out 2001 Grand Prix Hiroshima Champion. The stage was set for a classic showdown between back to back and current APAC Champion Masaya Mori and 1999 National Champion Masayuki Higashino. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270184.jpg)
+
+After twelve hours of intense mental battle, we were left with two great Japanese superstars to determine who would walk out 2001 Grand Prix Hiroshima Champion. The stage was set for a classic showdown between back to back and current APAC Champion Masaya Mori and 1999 National Champion Masayuki Higashino. 
 
 It also faced the two most popular deck archetypes against each other, Higashino playing the same aggressive black/red/blue deck he has played all week-end and Mori playing green/white/blue. With a large audience Sideboard and Hobby Japan reporters watching the match, the pressure was on both these veterans of the spotlight, but the attention didn't seem to bother them at all. 
 
@@ -60,7 +62,9 @@ Higashino played the Vicious Kavu on his third turn and on the fourth turn cast 
 
 Higashino's fifth turn was about casting the Viashino Grappler and saying turn. Mori's defense was causing difficulty for Higashino's Kavus and red creatures. Mori sent the knight over on his next turn taking Higashino to 16 life and followed it up with the flying, first striking Razorfoot Griffin. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270185.jpg)Mori was looking good here with all three of his creatures able to block and kill Higashino's without dying themselves. Higashino was able to mount some offensive threat on turn six in the form of Duskwalker with kicker. The 3/3 'fear' creature would not be enough to race Mori at this rate though so he would have to pull something special out in the next few turns. Higashino certainly did have something up his sleeve, on turn seven casting Do or Die, separating Mori's three creatures into the following: A taped Galina's Knight and untapped Shoreline Raider in pile one, while pile two had the untapped Razorfoot Griffin. Mori naturally took pile one, but this opened the way for Viashino Grappler to attack along with the Duskwalker. Mori blocked the Grappler with the Shoreline Raider, both dying and he took three from the Duskwalker, taking Mori to 17 life. After the attack phase was over, Plague Spitter was cast and end of turn declared. During the end step Mori burned Aggressive Urge hoping to draw an answer to the looming threats next turn. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270185.jpg)
+
+Mori was looking good here with all three of his creatures able to block and kill Higashino's without dying themselves. Higashino was able to mount some offensive threat on turn six in the form of Duskwalker with kicker. The 3/3 'fear' creature would not be enough to race Mori at this rate though so he would have to pull something special out in the next few turns. Higashino certainly did have something up his sleeve, on turn seven casting Do or Die, separating Mori's three creatures into the following: A taped Galina's Knight and untapped Shoreline Raider in pile one, while pile two had the untapped Razorfoot Griffin. Mori naturally took pile one, but this opened the way for Viashino Grappler to attack along with the Duskwalker. Mori blocked the Grappler with the Shoreline Raider, both dying and he took three from the Duskwalker, taking Mori to 17 life. After the attack phase was over, Plague Spitter was cast and end of turn declared. During the end step Mori burned Aggressive Urge hoping to draw an answer to the looming threats next turn. 
 
 The best Mori could do was cast Angelic Shield and hold back with his Galina's Knight. During Higashino's upkeep, the Spitter did one point of damage to both players and all creatures. The attack was launched on Mori, taking him to twelve, a Shivan Zombie was summoned and with Mori seeing imminent death, conceded game one. 
 
@@ -74,7 +78,9 @@ Unfortunately, Mori had to discard again, this time Sulam Djinn, and the attack 
 
 The birds served as chump-blockers for the ninth-turn assault, but the attack was proceeded by a five point Soul Burn. This took Mori to two life and unknown to Mori, Higashino was sitting with another Soul Burn in hand. Despite Mori's best efforts next turn, Higashino untapped, drew, tapped all his lands and threw the second Soul Burn onto the table. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270186.jpg)The ever-gracious Mori extended his hand and congratulated Masayuki Higashino for his second Grand Prix win. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270186.jpg)
+
+The ever-gracious Mori extended his hand and congratulated Masayuki Higashino for his second Grand Prix win. 
 
 It was a shame to see the final end in an anti-climatic mana screw fashion, but a top performance from both of these fantastic Magic players made for a great spectacle none the less. 
 

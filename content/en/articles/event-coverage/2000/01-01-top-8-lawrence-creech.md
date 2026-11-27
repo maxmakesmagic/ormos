@@ -44,7 +44,9 @@ archive_source:
   sha256: 71a379ad68561c24bb5153999382fdd405cb8750654c6f3ba38e7df64d43117c
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/723.jpg)Like the veteran juggernaut Kyle Rose, Lawrence Creech lives in Chester, Virginia. The eighteen year old student of Colonial Heights High School has been doing very well for his fledgling Magic career, despite his young age; in only his second Pro Tour, this Top 8 finish is an impressive follow up to his 28th place finish at Pro Tour Chicago.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/723.jpg)
+
+Like the veteran juggernaut Kyle Rose, Lawrence Creech lives in Chester, Virginia. The eighteen year old student of Colonial Heights High School has been doing very well for his fledgling Magic career, despite his young age; in only his second Pro Tour, this Top 8 finish is an impressive follow up to his 28th place finish at Pro Tour Chicago.
 
 Luck can be a serious factor for any success at Magic, but even when pressed, Creech called his success in the previous Pro Tour and the four Rochester drafts for this tournament simple luck.
 
@@ -54,7 +56,9 @@ Maybe, but it takes a little more than a good shuffle to do well in 4 Pro Tour R
 
 "I had a lot of monsters. A lot of big ones - Dromar, Sabertooth Nishoba, that kind of thing. I even was able to get Armored Guardian more than once. I was really excited to get a shot at those creatures. But, I kept trying to get the creatures first. Things like Lancers and Serpents are great."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/691.jpg)Like Kyle Rose, Creech didn't do very much preparation for the event. He only had a few booster drafts of Invasion under his belt, and no Rochester drafts at all. This inexperience didn't seem to bother Creech too much.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/691.jpg)
+
+Like Kyle Rose, Creech didn't do very much preparation for the event. He only had a few booster drafts of Invasion under his belt, and no Rochester drafts at all. This inexperience didn't seem to bother Creech too much.
 
 "Well, there certainly is a lot of pressure. Nobody is really expecting anything that great from me in the first place, and I'm just sort of hoping that I can show them all up with a good finish."
 

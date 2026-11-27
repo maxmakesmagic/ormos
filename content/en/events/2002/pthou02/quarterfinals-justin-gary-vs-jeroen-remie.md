@@ -93,7 +93,9 @@ render_recovery:
   - Spike Feeder
   occurrences: 91
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a376.jpg)Justin Gary and his Your Move Games teammates have been the belles of the ball this weekend. Justin has been here before as a competitor and has an impressive career that anyone who follows competitive magic should be familiar with. His opponent Jeroen Remie from the Netherlands has been quietly having an incredible year. After a top 32 finish in San Diego, Jeroen skipped Osaka—because he doesn't care for constructed formats much. He followed up with another top 32 finish in Nice and then a 10th place performance at Worlds. Somewhere in there he nabbed a top 16 at Euros and now he is qualified for the Masters Series by virtue of his performance this weekend.
+![](http://www.wizards.com/sideboard/images/pthou02/a376.jpg)
+
+Justin Gary and his Your Move Games teammates have been the belles of the ball this weekend. Justin has been here before as a competitor and has an impressive career that anyone who follows competitive magic should be familiar with. His opponent Jeroen Remie from the Netherlands has been quietly having an incredible year. After a top 32 finish in San Diego, Jeroen skipped Osaka—because he doesn't care for constructed formats much. He followed up with another top 32 finish in Nice and then a 10th place performance at Worlds. Somewhere in there he nabbed a top 16 at Euros and now he is qualified for the Masters Series by virtue of his performance this weekend.
 
 Just before this match began, head Judge Rune Horvik handed out score pads for the competitors to use during the match. Jeroen took one look at the YMG score pad he had been prepared to use and tossed it aside. "I'm not going to use this one then. I think it would be stupid."
 
@@ -135,7 +137,9 @@ Justin patted his deck, "This has been known to draw more cards." He then cast A
 
 "I would take it back if I could."
 
-![](http://www.wizards.com/sideboard/images/pthou02/a377.jpg)Justin got in some beats with a Village until Jeroen played a Dustbowl and traded a Forest for it. Justin played a Pernicious Deed and Jeroen continued to attack his non-basics but he could not afford to play a creature thanks to the looming Oath of Druids.
+![](http://www.wizards.com/sideboard/images/pthou02/a377.jpg)
+
+Justin got in some beats with a Village until Jeroen played a Dustbowl and traded a Forest for it. Justin played a Pernicious Deed and Jeroen continued to attack his non-basics but he could not afford to play a creature thanks to the looming Oath of Druids.
 
 When he finally did play a Birds of Paradise it drew raised eyebrows from Justin but all was made clear when Jeroen cast Cabal Therapy and had it countered. He flashed it back sacrificing the mana bird and named Forbid but found only Fact or Fiction, Krosan Reclamation, and a Polluted Delta. The Fact or Fiction was cast and Justin took Oath, Oath, and Brainstorm over Forbid and Cognivore. 
 
@@ -161,7 +165,9 @@ Remie mulliganed once again and led off with a Cabal Therapy naming Oath of Drui
 
 Remie's third land was a Dustbowl that he Living Wished for and he used it to attempt Pernicious Deed but Justin used Mana Leak. Jeroen missed his next land drop and could not power up his Bowl. Justin beamed as he ripped his own Dustbowl off the top of his deck and he made a sound like a mortar shell landing behind enemy lines when he played it and ate Jeroen's only source of green, a Llanowar Wastes.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a378.jpg)Jeroen missed his next two land drops and Justin played back-to-back Treetop Villages aka The Back-up Plan. Justin had Intuitioned for AK's before his opponent found a third land but Justin let one of his Villages get its long awaited revenge when he used it eat his opponent's Dustbowl. To add insult to injury, Justin drew three cards EOT and FoF'd the next turn while Jeroen still sat on two lands. 
+![](http://www.wizards.com/sideboard/images/pthou02/a378.jpg)
+
+Jeroen missed his next two land drops and Justin played back-to-back Treetop Villages aka The Back-up Plan. Justin had Intuitioned for AK's before his opponent found a third land but Justin let one of his Villages get its long awaited revenge when he used it eat his opponent's Dustbowl. To add insult to injury, Justin drew three cards EOT and FoF'd the next turn while Jeroen still sat on two lands. 
 
 Jeroen was able to use those two lands to Naturalize a Wished-for Masticore but Justin was up so many card that he discarded an Oath of Druids. A Duress revealed that he was holding two Counterspells, Foil, Forbid, Deed, Living Wish—which was discarded—and a land. He mounted a little more resistance with a Planar Void but Justin had enough counters to win with the back up plan.
 

@@ -85,7 +85,9 @@ render_recovery:
   - Gravel Slinger
   occurrences: 38
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a883.jpg)Last year's finalist Eric Franz has already spent his fair share of time in the Feature Match Area this weekend, but this was a first appearance for Gerard Fabiano. He was pumping the fist when he knew he was going to be covered. The lynchpin of Pro Tour – Boston Top 4 finishers Slay-Pillage-Gerard, Fabiano is one hoopy frood, and is never seen without his towel.
+![](http://www.wizards.com/sideboard/images/natus03/a883.jpg)
+
+Last year's finalist Eric Franz has already spent his fair share of time in the Feature Match Area this weekend, but this was a first appearance for Gerard Fabiano. He was pumping the fist when he knew he was going to be covered. The lynchpin of Pro Tour – Boston Top 4 finishers Slay-Pillage-Gerard, Fabiano is one hoopy frood, and is never seen without his towel.
 
 Franz had to send back his first hand, and Fabiano immediately moved for an opening handshake.
 
@@ -103,7 +105,9 @@ Franz swung in again, and pumped twice to kill the Warhawk. He still had enough 
 
 "That was an insane rip." – Gerard Fabiano
 
-![](http://www.wizards.com/sideboard/images/natus03/a884.jpg)Fabiano sat back on his men. Franz erred again, swinging with both his creatures. Franz blocked the Vengeful Dead with his Stinger and cycled his Gempalm Avenger. After offing the Dead with first strike, he shot down the Basher. He was at a "comfortable" one. If Franz had swung with just the Basher, he would still have had the Dead to deal the final point of damage on its way out.
+![](http://www.wizards.com/sideboard/images/natus03/a884.jpg)
+
+Fabiano sat back on his men. Franz erred again, swinging with both his creatures. Franz blocked the Vengeful Dead with his Stinger and cycled his Gempalm Avenger. After offing the Dead with first strike, he shot down the Basher. He was at a "comfortable" one. If Franz had swung with just the Basher, he would still have had the Dead to deal the final point of damage on its way out.
 
 As it was, Fabiano got to swing for four and then play Decree of Justice for two Angels. Franz had a Graveborn Muse, but it only had one chance to give him the goods, and it failed.
 
@@ -119,7 +123,9 @@ Franz faced a hard decision with his first seven cards: Six swamps and a Death's
 
 Franz swung in with his Sliver, and Fabiano blocked with both Knight and Stinger. Franz pumped to kill the Stinger, then played a morph. Fabiano hit land number five to make a 3/3 Warhawk. Franz took control with Call to the Grave. Now he had Necropotence AND The Abyss.
 
-![](http://www.wizards.com/sideboard/images/natus03/a882.jpg)Fabiano sent his Silver Knight to the yard and hit with his men. Franz blocked morph with morph, but Fabiano revealed Daru Lancer to get rid of Franz's. Cloudreach Cavalry joined his team. Franz, now at just eight life, considered his options. The Muse hit for three. He waited.
+![](http://www.wizards.com/sideboard/images/natus03/a882.jpg)
+
+Fabiano sent his Silver Knight to the yard and hit with his men. Franz blocked morph with morph, but Fabiano revealed Daru Lancer to get rid of Franz's. Cloudreach Cavalry joined his team. Franz, now at just eight life, considered his options. The Muse hit for three. He waited.
 
 Fabiano fired his Cloudreach and swung with both creatures. Franz had Cruel Revival to kill the Lancer and get back his Cadaver. He fell to five. Fabiano made a Gempalm Avenger. Franz dwindled to four. Clutch of Undead killed the Warhawk, but he chose not to swing in with his Graveborn Muse and try to either get it off the table or get in three damage. 
 

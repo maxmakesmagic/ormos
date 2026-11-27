@@ -53,7 +53,9 @@ archive_source:
   sha256: 489f30ba54a6744e6ce73a93a86b2f6707ba3e5e1b7f7f4d514095851a00f92a
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a826.jpg)Victor has the home court advantage today, and is certainly the crowd favourite being the only Dutch in the Top 8. This is his first under the blazing lights of the cameras. Across the table he is facing a veteran of the center stage. Svend Geertsen knows all about the big spotlights, having played in a Worlds Top 8 while still in his early teens.
+![](http://www.wizards.com/sideboard/images/euro02/a826.jpg)
+
+Victor has the home court advantage today, and is certainly the crowd favourite being the only Dutch in the Top 8. This is his first under the blazing lights of the cameras. Across the table he is facing a veteran of the center stage. Svend Geertsen knows all about the big spotlights, having played in a Worlds Top 8 while still in his early teens.
 
 The match up is Green-Red Beatdown against Green-Blue Madness. According to Victor it looked awful on paper but after a night of testing his friends reported things look good for him.
 
@@ -127,7 +129,9 @@ Victor 2-0 Svend.
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/euro02/a823.jpg)The Danish now had his back against the wall, needing to win the three next games to win this quarterfinals. The Dutch were a very loud supporting crowd now further incensed by Gary Wise. Despite being up 2-0 Victor was visibly shaking as he pour himself a second glass of water.
+![](http://www.wizards.com/sideboard/images/euro02/a823.jpg)
+
+The Danish now had his back against the wall, needing to win the three next games to win this quarterfinals. The Dutch were a very loud supporting crowd now further incensed by Gary Wise. Despite being up 2-0 Victor was visibly shaking as he pour himself a second glass of water.
 
 Geertsen came out with first turn Basking Rootwalla followed by Aquamoeba and Victor answered with Grim Lavamancer and Wild Mongrel. Svend pumped out a second Rootwalla and sent them both in trading one for Wild Mongrel.
 

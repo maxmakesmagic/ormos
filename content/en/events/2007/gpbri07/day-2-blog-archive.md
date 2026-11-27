@@ -117,7 +117,9 @@ I wandered out on to the floor to find a name to stand behind in the draft. The 
 
 André's first pick was a Nova Chaser, over Pestermite, Dreamspoiler Witches and a Thorntooth Witch. He followed that with an Axegrinder Giant over Cloudcrown Oak and Woodland Changeling, and Consuming Bonfire over basically nothing of note. Fourth pick he was presented with Kithkin Greatheart and Mulldrifter. The Mulldrifter fourth pick is a pretty strong signal. André didn't fail to take the hint, and was immediately rewarded with a Pestermite in pack five.
 
-![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/02_draft_01_coimbra.jpg)By the end of the first pack, it wasn't clear if André was looking for any particular Tribal strategy or just scooping up powerful cardboard. His first pick of a Silvergill Douser in pack two meant he could still be in any combination of Faeries, Giants and Elementals. The second pick Hostility, despite being an Elemental could go anywhere Mountains exist so still didn't tie André to anything. The fourth pick Stinkdrinker Daredevil swung him back towards Giants, and another Douser fifth pick could be excused as yet another powerful piece of action. Sixth pick, he seemed very keen to slam down a Smokebraider, further confusing the matter for me. Could André just be toying with me? Keeping me on my toes?
+![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/02_draft_01_coimbra.jpg)
+
+By the end of the first pack, it wasn't clear if André was looking for any particular Tribal strategy or just scooping up powerful cardboard. His first pick of a Silvergill Douser in pack two meant he could still be in any combination of Faeries, Giants and Elementals. The second pick Hostility, despite being an Elemental could go anywhere Mountains exist so still didn't tie André to anything. The fourth pick Stinkdrinker Daredevil swung him back towards Giants, and another Douser fifth pick could be excused as yet another powerful piece of action. Sixth pick, he seemed very keen to slam down a Smokebraider, further confusing the matter for me. Could André just be toying with me? Keeping me on my toes?
 
 By the end of the draft, I still had no idea where he was headed with his picks. His Blue cards were a solid support color. A pair of Dousers and a couple of Pestermites and their Mulldrifter pal weren't unexpected in any deck with Islands, but after that the distinction between Giant and Elemental was considerably blurred. Being the intrepid reporterer that I am, I sat down with André to find out.
 
@@ -134,11 +136,15 @@ Apparently he wanted to draft Red/White Elementals, Kithkin and Giants, which wa
 
 André's draft has been covered already, but I had also spent some of the deck construction period snooping about the tables of Takuya Osawa and Tomoharu Saitou. The Japanese seemed to have a definite preference for drafting strong Blue/Black Faerie decks, a preference that had been echoed by Olivier Ruel earlier yesterday.
 
- ![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/02_coimbra.jpg)André lead Game 1 with a Flamekin Harbinger for the Nova Chaser in the face of Takuya's mulligan to six. Takuya tried to put up a defense, but André's Pestermite pushed aside a Sentinels of Glen Elendra, and all it takes is one slice of ten damage before a second attack from the Chaser, even a suicidal one, starts to look very threatening. André sealed the deal with an Æthersnipe.
+ ![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/02_coimbra.jpg)
+
+ André lead Game 1 with a Flamekin Harbinger for the Nova Chaser in the face of Takuya's mulligan to six. Takuya tried to put up a defense, but André's Pestermite pushed aside a Sentinels of Glen Elendra, and all it takes is one slice of ten damage before a second attack from the Chaser, even a suicidal one, starts to look very threatening. André sealed the deal with an Æthersnipe.
 
 A third turn Stinkdrinker Daredevil powered out a turn four Axegrinder Giant for André in Game 2, but don't stop reading there, my notes tell me Takuya actually won this game! He dealt with Giant with a Weed Strangle, and his Dreamspoiler Witches managed to dispatch a couple of Pestermites who attempted to join the fray as well. A Broken Ambitions on a Hostility later, and the Witches and an Oona's Prowler had flown over to even the match at one win apiece. 
 
-![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/02_osawa.jpg)Takuya again rolled out an Oona's Prowler and started attacking, while André swung back with a Pestermite. A Stinkdrinker Daredevil came down again, but was empty-handed - there were no Giants close on it's heels (click the Gatherer link and check out the picture!). André again deployed an Æthersnipe, but this time found a pair of Ghostly Changelings challenging its supremacy over the battlefield. Meanwhile, the Prowler continued to eat away at André's life total, who was forced to Flamekin Harbinger up a Flamekin Spitfire to take it down. Unfortunately, the damage was done, and Takuya turned the air blue with a Profane Command, taking life from André and granting fear to some of his attackers to win the match. 
+![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/02_osawa.jpg)
+
+Takuya again rolled out an Oona's Prowler and started attacking, while André swung back with a Pestermite. A Stinkdrinker Daredevil came down again, but was empty-handed - there were no Giants close on it's heels (click the Gatherer link and check out the picture!). André again deployed an Æthersnipe, but this time found a pair of Ghostly Changelings challenging its supremacy over the battlefield. Meanwhile, the Prowler continued to eat away at André's life total, who was forced to Flamekin Harbinger up a Flamekin Spitfire to take it down. Unfortunately, the damage was done, and Takuya turned the air blue with a Profane Command, taking life from André and granting fear to some of his attackers to win the match. 
 
 Takuya Osawa defeats André Coimbra 2-1
 
@@ -197,7 +203,9 @@ Slops:
 
 Anatoli has a bit of a thing with finishing second at limited Grand Prix in Australia. And as this is in fact, a limited Grand Prix in Australia, and he's yet again in contention for the top 8, I thought I'd plant myself behind him to see what would take his fancy, 
 
- ![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/02_lightfoot_draft.jpg)Many people I have asked have said that the number one common they would like to open in Lorwyn is Nameless Inversion, and evidently the same hold true for Anatoli, but not for David Crewe. Upstream of our protagonist, David first picked something else, shipping a second Inversion directly south to Anatoli. An Ashling the Pilgrim pushed Anatoli towards Red for his second color, and he didn't look back, picking up aggressive Red and Black cards wherever he could. However, by the time the end of the second pack rolled around, all he had was a passable collection of small men and tricks.
+ ![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/02_lightfoot_draft.jpg)
+
+ Many people I have asked have said that the number one common they would like to open in Lorwyn is Nameless Inversion, and evidently the same hold true for Anatoli, but not for David Crewe. Upstream of our protagonist, David first picked something else, shipping a second Inversion directly south to Anatoli. An Ashling the Pilgrim pushed Anatoli towards Red for his second color, and he didn't look back, picking up aggressive Red and Black cards wherever he could. However, by the time the end of the second pack rolled around, all he had was a passable collection of small men and tricks.
 
 The third pack delivered the goods. First pick Wort, Boggart Auntie followed by Chandra Nalaar, which would have admittedly, been out of place in David's Blue/White Merfolk deck. Next up was a Tar Pitcher, a Fodder Launch and a Tarfire. Suddenly he was cutting playables left right and center.
 
@@ -212,7 +220,9 @@ Before the draft I asked Anatoli what his plans were. "Just take whatever comes,
 
     *by Ray "blisterguy" Walkinshaw*
 
- ![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/02_lightfoot.jpg)Anatoli came out of the gates exactly as he would have liked, winning the clash on a turn two Adder-Staff Boggart by revealing a Wort, Boggart Auntie to Dave's Deeptread Merrow. A Spiderwig Boggart then turned up to push the Adder-Staff past a 2/2 Paperfin Rascal. Dave attacked back with the Rascal and passed the turn back with four mana open. Anatoli swung in with the clowns and had the Nameless Inversion ready to knock aside the clearly broadcast Sentinels of Glen Elendra. He then added a Soulbright Flamekin to his board. Dave Summoned the School to present opposition, but Caterwauling Boggart made things even harder for him. Anatoli's Chandra Nalaar finished off what the Boggarts started and they were off to Game 2. 
+ ![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/02_lightfoot.jpg)
+
+ Anatoli came out of the gates exactly as he would have liked, winning the clash on a turn two Adder-Staff Boggart by revealing a Wort, Boggart Auntie to Dave's Deeptread Merrow. A Spiderwig Boggart then turned up to push the Adder-Staff past a 2/2 Paperfin Rascal. Dave attacked back with the Rascal and passed the turn back with four mana open. Anatoli swung in with the clowns and had the Nameless Inversion ready to knock aside the clearly broadcast Sentinels of Glen Elendra. He then added a Soulbright Flamekin to his board. Dave Summoned the School to present opposition, but Caterwauling Boggart made things even harder for him. Anatoli's Chandra Nalaar finished off what the Boggarts started and they were off to Game 2. 
 
   
 

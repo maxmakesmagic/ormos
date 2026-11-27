@@ -97,7 +97,9 @@ Black/green's conflict is that it wants two different things. It fights to try t
 
 ### What does the guild care about? What is its end goal? What means does the guild use to achieve these ends?
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr199_picMain_en.jpg)So what exactly is this goal? To understand it, let's take a look at the two goals of each color. Black seeks power. Black wants the world to conform to its own selfish needs. Green seeks growth. It wants to allow nature to evolve unhindered. How do these two goals merge? Simple, by taking a black outlook of the forces of green. Black understands that there are many aspects of nature. If you want nature to succeed in its growth, you have to be selective in the parts of it you nurture.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr199_picMain_en.jpg)
+
+So what exactly is this goal? To understand it, let's take a look at the two goals of each color. Black seeks power. Black wants the world to conform to its own selfish needs. Green seeks growth. It wants to allow nature to evolve unhindered. How do these two goals merge? Simple, by taking a black outlook of the forces of green. Black understands that there are many aspects of nature. If you want nature to succeed in its growth, you have to be selective in the parts of it you nurture.
 
 The strongest elements of nature are those that are the most ruthless, be it a weed, a fungus or a plague. If nature is to fight back against the forces that oppose it, it doesn't have the luxury of subtlety or gentleness. To succeed nature has to get down and dirty, unleashing the most virulent weapons at its disposal. In addition, nature has to come to grips with one of the most primal forces at its fingertips, death. Nature can kill very easily. Don't be scared of it. Embrace it.
 
@@ -113,7 +115,9 @@ Black/green hates any desire to confine or restrain nature. As such, it uses its
 
 ### What is the color's greatest strength and biggest weakness?
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr199_pic1_en.jpg)Black/green's greatest strength is that it's virtually unstoppable. Its threats cannot be vanquished. Sure, you can destroy pieces of it, but others will always return to take its place. Like a weed or a virus, black/green constantly searches for new ways to continue spreading, adapting whenever necessary.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr199_pic1_en.jpg)
+
+Black/green's greatest strength is that it's virtually unstoppable. Its threats cannot be vanquished. Sure, you can destroy pieces of it, but others will always return to take its place. Like a weed or a virus, black/green constantly searches for new ways to continue spreading, adapting whenever necessary.
 
 Black/green's greatest weakness is its lack of control. The very qualities that make it so hard to contain also make it almost impossible to mastermind. The plague that is unleashed takes on a life of its own. This means that often black/green doesn't always accomplish what it sets out to get done. Sure, it gets in the ballpark, but the lack of pinpoint control keeps black/green from having the finesse of many of the other color combinations.
 
@@ -129,7 +133,9 @@ And now comes the fun (and controversial) part where I give examples from pop cu
 
 **Poison Ivy** – This is one of Batman's villains. She is an eco-terrorist that believes that mankind is detrimental to nature. As such, she uses nature to strike back at mankind. Her favorite weapon is poison (she's immune to poison for those that care). Her motives are a little less greedy than the average villain yet still follow a very selfish desire on her part. Mess with nature and she'll see to it that nature messes with you, most often killing you if she has her way.
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr199_pic2_en.jpg)**Venom** – This is one of Spider-man's main villains. He is an alien symbiote that attached itself to a human host. Both the alien symbiote and the human host hate Spider-man. Venom is very feral in nature, taking on many animalistic properties. At the same time, he is very self-centered, particularly in his hatred of Spider-man. Venom is vicious yet flexible. He is ruthless while also being tenacious. No matter what Spider-man throws at him, Venom keeps on with his almost mindless quest to destroy Spider-man. Venom is a force of nature bent on destruction.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr199_pic2_en.jpg)
+
+**Venom** – This is one of Spider-man's main villains. He is an alien symbiote that attached itself to a human host. Both the alien symbiote and the human host hate Spider-man. Venom is very feral in nature, taking on many animalistic properties. At the same time, he is very self-centered, particularly in his hatred of Spider-man. Venom is vicious yet flexible. He is ruthless while also being tenacious. No matter what Spider-man throws at him, Venom keeps on with his almost mindless quest to destroy Spider-man. Venom is a force of nature bent on destruction.
 
 **Villain from “The Twelve Monkeys”** – SPOILER – IF YOU HAVEN'T SEEN THE FILM “TWELVE MONKEYS”, STOP. GO SEE IT. IT'S VERY GOOD. COME BACK ONCE YOU'VE SEEN IT BECAUSE I WOULD HATE TO SPOIL THE MOVIE – Okay, everyone reading this part has seen the movie? Good. We can continue. The villain in the film purposefully exposes the world to a deadly plague. His motivation is never spelled out exactly but it appears, to me at least, that his actions are very purposeful. He is doing it not out of vengeance but rather for some agenda. I think he believes what he is doing is necessary. That the plague has a need to be released. If I'm correct, this is quite black/green.
 

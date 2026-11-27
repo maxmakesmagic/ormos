@@ -115,7 +115,9 @@ That left us with what you saw in the poll last week. I do think the winner is f
 
 ### The Windup
 
-![](https://i.ormos.uk/54/8b/548b2e38bc7cd3c03952b83ccee536cafbe5daaee2fe712175b576efd32fa198.jpg)If you read my article “[A-Proxy-Mation](/en/articles/latestdevelopments/2004/03-19-a-proxy-mation)” about the methods of making playtest cards here in R&D, you'll recall that we have access to **Magic** cards with normal backs and plain white fronts on which we can write whatever we want.
+![](https://i.ormos.uk/54/8b/548b2e38bc7cd3c03952b83ccee536cafbe5daaee2fe712175b576efd32fa198.jpg)
+
+If you read my article “[A-Proxy-Mation](/en/articles/latestdevelopments/2004/03-19-a-proxy-mation)” about the methods of making playtest cards here in R&D, you'll recall that we have access to **Magic** cards with normal backs and plain white fronts on which we can write whatever we want.
 
 I'm a visual-minded person, so I like my hand-written proxies to be legible across the table and to have some clear indicator of color. Almost two years ago, back when *Mirrodin* and *Darksteel* were in development and I was still working as Content Manager for this website, I bought a sweet 12-pack of various colored Sharpie markers at Target. The cool part was that there was a bonus silver Sharpie thrown in for free!
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: a9689e4e5ead92c1cb735b4925275a7e90d1284296374ca3b7114ea8bfdf4619
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r5fm1_1.jpg)It wouldn't be a Spanish Grand Prix without Roc. He's practically part of the staff around here. Although he might not have a lot of top finishes in his curriculum he is still a force to be reckoned with in his home country. Sam is known, of course, from his Pro Tour results.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r5fm1_1.jpg)
+
+It wouldn't be a Spanish Grand Prix without Roc. He's practically part of the staff around here. Although he might not have a lot of top finishes in his curriculum he is still a force to be reckoned with in his home country. Sam is known, of course, from his Pro Tour results.
 
 ### Game 1
 

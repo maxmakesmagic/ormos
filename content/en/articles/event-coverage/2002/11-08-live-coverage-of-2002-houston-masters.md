@@ -74,7 +74,9 @@ render_recovery:
 ---
 [日本語の取材へ](/en/events/2002/mastershou02/live-coverage-of-2002-masters-houston) 
 
-![](https://i.ormos.uk/80/41/8041faa29aeff077fd7dfed93400456d9a75a354bf44ab9cfb42af0761254431.jpg)Jens Thoren is the Houston Masters Champion! Sitting down at a final table that included such stars as Alex Shvartsman and Eivind Nitter, the Silent Killer assembled a red-black beatdown deck that would have been acceptable if it wasn't totally ridiculous. His rares were Starstorm, Butcher Orgg, Tephraderm and Menacing Ogre. He had little difficulty reaching the finals.
+![](https://i.ormos.uk/80/41/8041faa29aeff077fd7dfed93400456d9a75a354bf44ab9cfb42af0761254431.jpg)
+
+Jens Thoren is the Houston Masters Champion! Sitting down at a final table that included such stars as Alex Shvartsman and Eivind Nitter, the Silent Killer assembled a red-black beatdown deck that would have been acceptable if it wasn't totally ridiculous. His rares were Starstorm, Butcher Orgg, Tephraderm and Menacing Ogre. He had little difficulty reaching the finals.
 
 There he faced Canada's Gary Wise, who really wanted a title to call his own. Wise's blue-white deck was ill-equipped to handle Thoren's bombs Game 1, but after sideboarding he could bring in Crown of Awe and Discombobulate. It didn't quite turn out that way. Thoren mauled him with and without his answers. Congratulations to Jens Thoren, Houston Masters Champion!
 

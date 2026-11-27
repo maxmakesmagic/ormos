@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/931.jpg)In the second round of the Chicago Masters Series, the audience got to witness a rematch of last year's Pro Tour - Chicago finals when Bob Maher, Jr. sat down to play Brian Davis. Maher won the previous match, and he was playing an aggressive red, white and green deck with a lot of creatures and a few tricks as well. His deck also held an Obliterate, a pretty powerful reset button. Davis, who lost the finals last year, was with black and blue, a very popular color combination in Invasion limited. His deck included blue tricks, solid creatures and a Tsabo's Assassin. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/931.jpg)
+
+In the second round of the Chicago Masters Series, the audience got to witness a rematch of last year's Pro Tour - Chicago finals when Bob Maher, Jr. sat down to play Brian Davis. Maher won the previous match, and he was playing an aggressive red, white and green deck with a lot of creatures and a few tricks as well. His deck also held an Obliterate, a pretty powerful reset button. Davis, who lost the finals last year, was with black and blue, a very popular color combination in Invasion limited. His deck included blue tricks, solid creatures and a Tsabo's Assassin. 
 
 **Game 1** 
 

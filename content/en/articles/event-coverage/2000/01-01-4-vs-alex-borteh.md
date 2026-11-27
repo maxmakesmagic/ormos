@@ -98,7 +98,9 @@ Borteh の《苦悩/Afflict》も《避難/Shelter》し、《非物質化/Demat
 
 Borteh が《夢繰り/Dreamwinder》を展開した返しにも《聖餐式/Divine Sacrament》をエンチャントし、ビートダウン路線に鞍替えした Borteh が《樹上の歩哨/Treetop Sentinel》を召喚するも、《天使の壁/Angelic Wall》を出してガッチリ対応。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsd02/a728.jpg)Borteh は《セファリッドの家来/Cephalid Retainer》を召喚しつつこの《壁》を《霊気の噴出/AEther Burst》でバウンスし、アタック。安藤はそれを見届けた上でハンドから《霊気の噴出/AEther Burst》。言うまでも無いことだが、ジャンケンと同じで《焚きつけ/Kindle》系スペルは後だしが圧倒的に優位なのだ。ともあれ、安藤は《夢繰り/Dreamwinder》と《セファリッドの家来/Cephalid Retainer》をバウンス。その上で《くぐつ師/Puppeteer》を戦線に加えたのだった。安藤はさらに 2 体目の《尊い癒し手/Hallowed Healer》までを召喚し、防御基盤を安定させたのだった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsd02/a728.jpg)
+
+Borteh は《セファリッドの家来/Cephalid Retainer》を召喚しつつこの《壁》を《霊気の噴出/AEther Burst》でバウンスし、アタック。安藤はそれを見届けた上でハンドから《霊気の噴出/AEther Burst》。言うまでも無いことだが、ジャンケンと同じで《焚きつけ/Kindle》系スペルは後だしが圧倒的に優位なのだ。ともあれ、安藤は《夢繰り/Dreamwinder》と《セファリッドの家来/Cephalid Retainer》をバウンス。その上で《くぐつ師/Puppeteer》を戦線に加えたのだった。安藤はさらに 2 体目の《尊い癒し手/Hallowed Healer》までを召喚し、防御基盤を安定させたのだった。
 
 対するBorteh 、ここで《セファリッドの家来/Cephalid Retainer》再召喚から《公証人/Scrivener》で《処刑/Execute》を拾い、後患となりそうな《尊い癒し手/Hallowed Healer》を除去。そして、《のぞき見/Peek》。
 

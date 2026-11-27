@@ -107,7 +107,9 @@ render_recovery:
   - Think Tank
   occurrences: 72
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a994.jpg)The Singaporean version of Sam Lau has won his national championships (1999), and made Top 8 at APACs twice (1998 and 2001). He's suffered a mediocre run of limited events since then, and so finds himself with only two byes this weekend. He almost earned a third during a trial yesterday, but dropped his final match when he cast what he thought was a game-winning Upheaval. His opponent tapped five, and Lau realized there was a Beast Attack in his graveyard.
+![](http://www.wizards.com/sideboard/images/gpkl02/a994.jpg)
+
+The Singaporean version of Sam Lau has won his national championships (1999), and made Top 8 at APACs twice (1998 and 2001). He's suffered a mediocre run of limited events since then, and so finds himself with only two byes this weekend. He almost earned a third during a trial yesterday, but dropped his final match when he cast what he thought was a game-winning Upheaval. His opponent tapped five, and Lau realized there was a Beast Attack in his graveyard.
 
 Lau opened the starter containing his cards and immediately his attention was caught by Wild Mongrel, Arrogant Wurm and Roar of the Wurm. Perusing the rest of the Green cards he also found Nantuko Disciple and Acorn Harvest, so it was clear from the beginning Lau would use Green as a base for building his Sealed Deck.
 

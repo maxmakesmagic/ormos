@@ -81,7 +81,9 @@ Welcome to Easter Egg Week! I guess I should begin by explaining what we mean by
 
 ![Triassic_Egg](http://www.wizards.com/magic/images/cardart/LE/Triassic_Egg.jpg%0A%09%09%09)
 
-![Triassic_Egg](https://i.ormos.uk/70/fb/70fb072bcabf8c107646747f1f67e77c52269d33109e93abb801e197d7f0ae0b.jpg)As part of the festivities, the tradition began of hiding Easter eggs for children to find. Thus Easter eggs became associated with something that was hidden and needed to be found. Many, many years later along came the computer. Some early programmers found it entertaining to work messages into the code that could only be found by someone else looking through the code. Over time, this practice evolved to programmers hiding different elements in a program for the user to find. These elements often had inside jokes and were never announced in any official capacity. The idea was that user would stumble upon them or be told by others where to look.
+![Triassic_Egg](https://i.ormos.uk/70/fb/70fb072bcabf8c107646747f1f67e77c52269d33109e93abb801e197d7f0ae0b.jpg)
+
+As part of the festivities, the tradition began of hiding Easter eggs for children to find. Thus Easter eggs became associated with something that was hidden and needed to be found. Many, many years later along came the computer. Some early programmers found it entertaining to work messages into the code that could only be found by someone else looking through the code. Over time, this practice evolved to programmers hiding different elements in a program for the user to find. These elements often had inside jokes and were never announced in any official capacity. The idea was that user would stumble upon them or be told by others where to look.
 
 With time the concept of an Easter egg expanded beyond computers. Other complex properties that had a lot of detail would, much like the computer programs, have elements subtly added for the user to find. One such product is **Magic**. This week we’re going to be exploring some of the Easter eggs of **Magic**. The topic is especially timely as *Time Spiral* is the most Easter egg packed **Magic** set ever created. If you’ve come looking for specific references to Easter eggs, you come to the right site but the wrong column. While everyone else is going to spend the week pointing out lots of goodies that you may or may not have noticed, I thought I would take “Making Magic” to explain why **Magic** (or any game for that matter) has Easter eggs. I’m looking beyond the individual eggs for the motivation for hiding them in the first place.
 
@@ -93,7 +95,9 @@ First comes the time before the set is released. At this point, the players know
 
 ![Far_Wanderings](http://www.wizards.com/magic/images/cardart/TOR/Far_Wanderings.jpg%0A%09%09%09)
 
-![Far_Wanderings](https://i.ormos.uk/8f/be/8fbec01a46e67e14883c16871e12ac80f68da8b0bca0fe51c8d4eb44c15acec5.jpg)Next comes the period which starts at the prerelease and runs through the release. At this point, the players begin having access to the card list. (Many players even wait to learn the cards by opening packs – bless them.) This exploration is about what cards and mechanics actually exist. Rather than a time of speculation, this stage is about beginning to process the known. What are the cards exactly? What do they do? What do the new mechanics do? This is also the time of first impressions. A quite popular article theme during this time is card-by-card evaluations.
+![Far_Wanderings](https://i.ormos.uk/8f/be/8fbec01a46e67e14883c16871e12ac80f68da8b0bca0fe51c8d4eb44c15acec5.jpg)
+
+Next comes the period which starts at the prerelease and runs through the release. At this point, the players begin having access to the card list. (Many players even wait to learn the cards by opening packs – bless them.) This exploration is about what cards and mechanics actually exist. Rather than a time of speculation, this stage is about beginning to process the known. What are the cards exactly? What do they do? What do the new mechanics do? This is also the time of first impressions. A quite popular article theme during this time is card-by-card evaluations.
 
 The following period is defined by the players trying to understand how the cards relate to one another. They spent the previous period understanding what the cards were; now they being processing the interrelation between them. How do the cards work together? What cards and/or mechanics have synergy? How do the pieces of this set fit together? This stage is defined by the players trying to understand the cards as they relate to one another.
 
@@ -111,7 +115,9 @@ One of the ways to reward this behavior is with Easter eggs. Why? Because only t
 
 ![Emmessi_Tome](http://www.wizards.com/magic/images/cardart/TE/Emmessi_Tome.jpg%0A%09%09%09)
 
-![Emmessi_Tome](https://i.ormos.uk/10/50/1050ef1cd192cfe96fd38faee985af06bb7b1248a538aed95caf1e621dd2c26c.jpg)**#3: Show Off History/Reward Dedication** – This reason is an offshoot of the last one. Since only the dedicated player will find and understand the Easter egg, the people that generate them (R&D – particularly the Creative team) have to go to lengths to ensure that they mean something. Because we don’t look outward in the game (meaning that we don’t use our game to reference things outside the game – and yes, I know we’ve broken this rule, but it is the rare exception) we are forced to look within.
+![Emmessi_Tome](https://i.ormos.uk/10/50/1050ef1cd192cfe96fd38faee985af06bb7b1248a538aed95caf1e621dd2c26c.jpg)
+
+**#3: Show Off History/Reward Dedication** – This reason is an offshoot of the last one. Since only the dedicated player will find and understand the Easter egg, the people that generate them (R&D – particularly the Creative team) have to go to lengths to ensure that they mean something. Because we don’t look outward in the game (meaning that we don’t use our game to reference things outside the game – and yes, I know we’ve broken this rule, but it is the rare exception) we are forced to look within.
 
 This means that our Easter eggs have an in-game relevance, one that plays into the subset of players they are made for in the first place. The person who has dedicated years of his life to the game is the one happiest to see things referenced from the game, and thus his, past. This is, for instance, one of the reasons I believe *Time Spiral* is doing so well. It plays directly into the feel-good emotions of the audience. (This, incidentally, is why nostalgia is such a powerful force – it taps into pre-existing positive emotions and connects them to something new.)
 
@@ -129,7 +135,9 @@ How do we help this along? By giving this community lots of opportunity to bond 
 
 ![Whispers_of_the_Muse](http://www.wizards.com/magic/images/cardart/TE/Whispers_of_the_Muse.jpg%0A%09%09%09)
 
-![Whispers_of_the_Muse](https://i.ormos.uk/cb/bf/cbbf186376ce59c25bd6dc97c6e436d71ad00250f29f42a7849416ef8662dc55.jpg)**#5: Make Commentary Not Allowed In the Game** – Another interesting by-product of Easter eggs is that they unto themselves allow the creators to communicate ideas that cannot be communicated elsewhere. Because Easter eggs are hidden, they have a little more freedom to make commentary. **Magic** as a rule doesn’t self-reference itself as a game. That is, within the world of **Magic**, magic is magic and not a game of cards. 
+![Whispers_of_the_Muse](https://i.ormos.uk/cb/bf/cbbf186376ce59c25bd6dc97c6e436d71ad00250f29f42a7849416ef8662dc55.jpg)
+
+**#5: Make Commentary Not Allowed In the Game** – Another interesting by-product of Easter eggs is that they unto themselves allow the creators to communicate ideas that cannot be communicated elsewhere. Because Easter eggs are hidden, they have a little more freedom to make commentary. **Magic** as a rule doesn’t self-reference itself as a game. That is, within the world of **Magic**, magic is magic and not a game of cards. 
 
 I will admit that this benefit is a small one, but it does allow the people who make the game to say a few things we might never else get a chance to say (well, in the context of the game anyway).
 

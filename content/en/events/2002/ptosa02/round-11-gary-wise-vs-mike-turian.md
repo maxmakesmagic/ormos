@@ -199,7 +199,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/87/22/8722461767e9e46061dff029d6aa632764ea4bb83d6556e00f5f56f3e38e9025.jpg)You might remember these two smiling chucklebuckets from their Pro Tour - New York 2000 Champion team, Potato Nation. Together with Scott Johns they turned the Team Limited format on its ear. Gary Wise is known for his weekly series "Wise Words" on Sideboard.com, as well as for his blustering showmanship. 
+![](https://i.ormos.uk/87/22/8722461767e9e46061dff029d6aa632764ea4bb83d6556e00f5f56f3e38e9025.jpg)
+
+You might remember these two smiling chucklebuckets from their Pro Tour - New York 2000 Champion team, Potato Nation. Together with Scott Johns they turned the Team Limited format on its ear. Gary Wise is known for his weekly series "Wise Words" on Sideboard.com, as well as for his blustering showmanship. 
 
 Former CMU affiliate and now R&D powerhouse Randy Buehler was on hand to rib Wise about his supposed lesser impact on Potato Nation's Performance. Wise bristled visibly. Choking back the rage he shouted, "I went 11-1! I beat Maher twice! I beat Kibler! I beat Forsythe! I beat everyone!" to no-one in particular.
 
@@ -211,7 +213,9 @@ Not that it mattered. Wise played his second Shade and Earth. Turian couldn't an
 
 Wise 1 - Turian 0
 
-![](https://i.ormos.uk/b7/61/b761a9ecef23802a0aad43643ba8f642f190b3349e32c38145c555a0afc52dfb.jpg)During a flurry of between-game banter, Sideboard Content Coordinator Thomas Pannell wandered by to add his two cents.
+![](https://i.ormos.uk/b7/61/b761a9ecef23802a0aad43643ba8f642f190b3349e32c38145c555a0afc52dfb.jpg)
+
+During a flurry of between-game banter, Sideboard Content Coordinator Thomas Pannell wandered by to add his two cents.
 
 "This'll be a year \[without a title\] if an American does not win." - Thomas Pannell  
  "Yeah, and most of them are playing Spades right now." - Mike Turian
@@ -220,7 +224,9 @@ After a stutter-step that saw his Tainted Pact Syncopated, Wise managed a Rancid
 
 That island went very well with the Syncopates he continued to draw, stopping Braids and Mirari. Unfortunately, he had no immediate answer for Nantuko Shade. Wise smashed for fourteen! Together with an earlier Skeletal Scrying, that left Turian at four. He was desperate. He went to one from another Scrying. 
 
-![](https://i.ormos.uk/7c/2f/7c2f1f992223367de0c7d03125e6d0666c476345018f9de2a8aeebc0094c7ae7.jpg)Turian's deck served up Chainer's Edict! He started Predicting Wise, knocking Braids off the top of his deck. While Wise drew more swamps, Turian made a Zombie Infestation. A second Mirari managed to stay on the table, and now things were tight. 
+![](https://i.ormos.uk/7c/2f/7c2f1f992223367de0c7d03125e6d0666c476345018f9de2a8aeebc0094c7ae7.jpg)
+
+Turian's deck served up Chainer's Edict! He started Predicting Wise, knocking Braids off the top of his deck. While Wise drew more swamps, Turian made a Zombie Infestation. A second Mirari managed to stay on the table, and now things were tight. 
 
 Concentrate got Turian into the Zombie business, and another Predict milled Wise's Haunting Echoes. But eventually all slim chances must run out. Wise drew Diabolic Tutor and Forked it. With those he fetched Rancid Earths, casting one and Forking it. The one damage from its threshold ability was enough to put Turian out of his misery.
 

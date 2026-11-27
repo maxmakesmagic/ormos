@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/ee/b4/eeb4ea25c2ef7975be520a22c673008f56cd180eb8cb80ccad5b7d27413c2571.jpg)I got to interview this relaxed Dutchman, with a very warm character. Inspite of just finishing his last round there was no sense of nervousness or pumping adrenaline. In fact he got paired up against fellow countryman Jeroen Remie, which both men regretted, since only one of them could finish in Top 8. 
+![](https://i.ormos.uk/ee/b4/eeb4ea25c2ef7975be520a22c673008f56cd180eb8cb80ccad5b7d27413c2571.jpg)
+
+I got to interview this relaxed Dutchman, with a very warm character. Inspite of just finishing his last round there was no sense of nervousness or pumping adrenaline. In fact he got paired up against fellow countryman Jeroen Remie, which both men regretted, since only one of them could finish in Top 8. 
 
 Victor played like a bomb on Friday, finishing the seven rounds with a perfect record. He entered day two with a red-green beatdown deck that seemed like a very good choice for the metagame. Roar of the Wurm proved a big problem for his deck, and that will be his biggest fear tomorrow, as he suspects most players in top eight will play them. His only losses were to Marco Lombardi, Anton Jonsson and Amiel Tenenbaum, who will all attend tomorrow's Top 8. 
 

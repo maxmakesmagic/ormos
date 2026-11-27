@@ -44,7 +44,9 @@ archive_source:
   sha256: 64603cc72ef9bbf9e473f609ad12048668af65d80525b24e683cbd3aec02dcbc
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a929.jpg)After day one Pierre Malherbaud stands alone at the top of the rankings. Behind him 16 players are tied on a 6-1 record. While the first pod contains the experienced French player the second is perhaps more interesting:
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a929.jpg)
+
+After day one Pierre Malherbaud stands alone at the top of the rankings. Behind him 16 players are tied on a 6-1 record. While the first pod contains the experienced French player the second is perhaps more interesting:
 
 1.  Frederick Courtois (FRA)
 2.  Carl Thille (SWE)

@@ -44,7 +44,9 @@ archive_source:
   sha256: 7bdb5710d7414f922ec1930044a2bd12a939bc768474802e4748e05047b7ec1b
 render_recovery: []
 ---
-![](https://i.ormos.uk/13/71/1371d5e6fde4ce82d98173904bba57d9a63355c453c2216fefb0492b56dec371.jpg)David Petersen has broken the format straight open! Although he joins Ken Bearl, Trevor Jones and Justin Bing as one of the four 8-0 players at the end of the first day of Swiss, he was the only one of them to come into Grand Prix - Milwaukee with absolutely zero byes! Eight rounds later, eight defeated opponents, all with a four-color R/B/W/G deck. His deck runs the entire gamut of popular cards in type two, from Braids to Violent Eruption to Mystic Enforcer, all in the same deck! It will be most interesting to see if he can keep up his domination on day two.
+![](https://i.ormos.uk/13/71/1371d5e6fde4ce82d98173904bba57d9a63355c453c2216fefb0492b56dec371.jpg)
+
+David Petersen has broken the format straight open! Although he joins Ken Bearl, Trevor Jones and Justin Bing as one of the four 8-0 players at the end of the first day of Swiss, he was the only one of them to come into Grand Prix - Milwaukee with absolutely zero byes! Eight rounds later, eight defeated opponents, all with a four-color R/B/W/G deck. His deck runs the entire gamut of popular cards in type two, from Braids to Violent Eruption to Mystic Enforcer, all in the same deck! It will be most interesting to see if he can keep up his domination on day two.
 
 Speaking of domination, PT regular Chris Benafel might have only 22 match points (he intentionally drew in round seven), but his opponent have not won a single game yet! His game win percentage stands at an astounding 100%, a perfect record with the newly popularized Goblin Trenches deck. 
 

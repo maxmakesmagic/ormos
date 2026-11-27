@@ -44,7 +44,9 @@ archive_source:
   sha256: 511d5203d13ed0b85fa11ed8fc080bdd1fc9dc2c774f6b7c49e320c3c070fd7f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/aunat04/fm6_1.jpg)Tim He is a young player who many have tipped to go all the way at this years nationals. He plays a lot of modo and is recognized as one of the best drafters in the whole of the country. Patty Robertson is one of the easiest people to spot in the whole room as he is sporting a large 5 spike Mohawk. Both players are coming into this game with 5-0 records.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/aunat04/fm6_1.jpg)
+
+Tim He is a young player who many have tipped to go all the way at this years nationals. He plays a lot of modo and is recognized as one of the best drafters in the whole of the country. Patty Robertson is one of the easiest people to spot in the whole room as he is sporting a large 5 spike Mohawk. Both players are coming into this game with 5-0 records.
 
 ### Game 1
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM4Campbell.JPG)Stephen Campbell was pretty happy with the way his deck turned out. ([click here](https://web.archive.org/web/20000101000000/http://archive.wizards.com/eventarticle.asp?event=APAC00&name=971draft2) to read about his draft) Campbell believes in keeping his options open as long as possible since Prophecy is so strong. It worked out well for him this time as he drafted a red/blue deck with a surprising amount of beef. Kei Ikeda drafted an aggressive black/red deck that was almost mono-black. It turns out that he is not the Ikeda who made the Japanese National team this year, but this was left as the round four feature match anyway.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM4Campbell.JPG)
+
+Stephen Campbell was pretty happy with the way his deck turned out. ([click here](https://web.archive.org/web/20000101000000/http://archive.wizards.com/eventarticle.asp?event=APAC00&name=971draft2) to read about his draft) Campbell believes in keeping his options open as long as possible since Prophecy is so strong. It worked out well for him this time as he drafted a red/blue deck with a surprising amount of beef. Kei Ikeda drafted an aggressive black/red deck that was almost mono-black. It turns out that he is not the Ikeda who made the Japanese National team this year, but this was left as the round four feature match anyway.
 
 Ikeda led with a turn two Spineless Thug and Campbell started slowly - turn three Squee and turn 4 Glowing Anemone. However, Ikeda couldn't really punish him for his slow start since he had no other creatures. Ikeda attacked into the Anemone and then killed it with Seal of Fire. Ikeda then traded Lunge and Spineless Thug for Campbell's Windscouter. From this point, Campbell's creatures were just bigger than Ikeda's.
 
@@ -54,6 +56,8 @@ Scoria Cat applied a lot of pressure on Campbell's behalf, especially when Campb
 
 Game 2 was fast and bloody. Cloudskate traded with Spineless Thug and then Ikeda played back to back Fen Stalkers. Campbell had a Windscouter and an Oraxid of his own. While Campbell attacked with his Windscouter and replayed it a few times, Ikeda tried and failed to draw a Mountain. Ikeda did draw swamp #5, which allowed him to play a Primeval Shambler. Campbell knew he needed to win quickly at that point. When he activated Aerial Caravan to find and cast Lesser Gargadon, he saw his chance.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM4Ikeda.JPG)Ikeda declared his attack phase and then Campbell used Tidal Bore to tap Primeval Shambler. Ikeda went ahead and pumped it up to 8/8 anyway so his Fen Stalkers would be unblockable. However, Campbell needed to leave one Stalker back on defense. Campbell had been waiting all game for just the right chance to cast his Ancient Hydra and this was it - he had just enough mana to play the Hydra and use it twice to clear Fen Stalker out of his way. With no blockers left and only 8 life, Ikeda was helpless to stop any of Campbell's 12 points of beatdown. Ikeda threw down a hand full of red cards and shook his opponent's hand.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM4Ikeda.JPG)
+
+Ikeda declared his attack phase and then Campbell used Tidal Bore to tap Primeval Shambler. Ikeda went ahead and pumped it up to 8/8 anyway so his Fen Stalkers would be unblockable. However, Campbell needed to leave one Stalker back on defense. Campbell had been waiting all game for just the right chance to cast his Ancient Hydra and this was it - he had just enough mana to play the Hydra and use it twice to clear Fen Stalker out of his way. With no blockers left and only 8 life, Ikeda was helpless to stop any of Campbell's 12 points of beatdown. Ikeda threw down a hand full of red cards and shook his opponent's hand.
 
  

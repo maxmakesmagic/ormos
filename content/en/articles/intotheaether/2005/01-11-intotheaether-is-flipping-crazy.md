@@ -88,7 +88,9 @@ Today I'll revisit the cards from last time, add in new insights from last week,
 
 ### Life in the “Casual Decks” Room (or "A Plea From Me")
 
-![](https://i.ormos.uk/68/7f/687f727ff6a7002c03212d3a15bedb98bb81f8d4d3eaad11890f2e37d4a68fff.jpg)The decks I'm talking about today, just like the ones from last week, are meant exclusively for the “Casual Decks” room of ***Magic** Online*. I'm not saying these decks will win you a Friday Night **Magic**, play well in an online Standard tourney, or have any hope in a competitive setting of any kind. I'm also not saying these are decks you should copy. In my mind, the whole point of the Casual Decks room is to make your own decks and try them out against like-minded opponents. The goal of today's article is merely to inspire your personal deckbuilding genius and to motivate you to try your own kooky decks.
+![](https://i.ormos.uk/68/7f/687f727ff6a7002c03212d3a15bedb98bb81f8d4d3eaad11890f2e37d4a68fff.jpg)
+
+The decks I'm talking about today, just like the ones from last week, are meant exclusively for the “Casual Decks” room of ***Magic** Online*. I'm not saying these decks will win you a Friday Night **Magic**, play well in an online Standard tourney, or have any hope in a competitive setting of any kind. I'm also not saying these are decks you should copy. In my mind, the whole point of the Casual Decks room is to make your own decks and try them out against like-minded opponents. The goal of today's article is merely to inspire your personal deckbuilding genius and to motivate you to try your own kooky decks.
 
 Since this is the first real time I've talked about Standard in the Casual Decks room, I have a chance to offer my own perspective on some of the dynamics in the room. Moreover I get to peddle my own preferences and wishes, which is a nice perk of having a weekly column. Don't consider this an “official Wizards stance” by any means. This is all just my opinion.
 

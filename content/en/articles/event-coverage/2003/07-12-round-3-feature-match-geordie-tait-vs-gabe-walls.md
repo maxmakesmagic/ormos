@@ -44,7 +44,9 @@ archive_source:
   sha256: db155bb135bf5d1e628eba7ed4830645a347275126b1828bd62ee0e8ea52d736
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a983.jpg)This round saw internet personality Geordie Tait square off against U.S. National Finalist Gabe Walls. The charismatic Walls was in fine form, with many a “Yaus!” for his many spectators. Tait was more reserved, intent on victory. He, like so many others, is playing Goblins. Walls’s deck choice raised a few eyebrows. Boasting a ludicrous mana base, it is a blue-red control deck that splashes, SPLASHES mind you, for Explosive Vegetation. Board sweepers, Complicate and Discombobulate, and Future Sight and Form of the Dragon round things out. He claims Goblins is its best matchup, this would be an acid test.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a983.jpg)
+
+This round saw internet personality Geordie Tait square off against U.S. National Finalist Gabe Walls. The charismatic Walls was in fine form, with many a “Yaus!” for his many spectators. Tait was more reserved, intent on victory. He, like so many others, is playing Goblins. Walls’s deck choice raised a few eyebrows. Boasting a ludicrous mana base, it is a blue-red control deck that splashes, SPLASHES mind you, for Explosive Vegetation. Board sweepers, Complicate and Discombobulate, and Future Sight and Form of the Dragon round things out. He claims Goblins is its best matchup, this would be an acid test.
 
 Both players led with a mountain, and Walls acted innocent.
 
@@ -54,7 +56,9 @@ Tait followed up with another mountain and a Piledriver.
 
 “Oh, it’s the mirror alright!” – Gabe Walls
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a984.jpg)Tait didn’t bite. He hit for one and made another Piledriver. Walls continued to play lands. Tait played a Burrows and swung in with both. Walls showed him a Shock, and Tait decided to let it stay at just one damage. He cycled away a Gempalm Incinerator and gave it back to Walls. He continued to build his mana. Tait started hitting for three a turn. Soon Walls tired of the Piledriver and Sliced it away. Goblin Warchief put Walls to seven. Walls was “stuck” at six land, obviously anxious to get a Form into play. Chain of Vapor sent the Warchief home on the next attack.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a984.jpg)
+
+Tait didn’t bite. He hit for one and made another Piledriver. Walls continued to play lands. Tait played a Burrows and swung in with both. Walls showed him a Shock, and Tait decided to let it stay at just one damage. He cycled away a Gempalm Incinerator and gave it back to Walls. He continued to build his mana. Tait started hitting for three a turn. Soon Walls tired of the Piledriver and Sliced it away. Goblin Warchief put Walls to seven. Walls was “stuck” at six land, obviously anxious to get a Form into play. Chain of Vapor sent the Warchief home on the next attack.
 
 “Your deck has Decree of Silence, doesn’t it?” – Geordie Tait
 
@@ -84,7 +88,9 @@ They shuffled up for the second game, and Tait declined a cut on Walls’s deck.
 
 “That might be the biggest mistake of your life.” – Gabe Walls
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a985.jpg)Tait got the ball rolling with a Goblin Sledder on the second turn. He tried to hit for three on the third turn, but Walls Sliced it away. He untapped and showed the Vegetation, giggling at his excellent draw. Tait returned with Sulfuric Vortex, ahead on life thanks to Walls’s Grand Coliseum. Walls busted out a big Silklash Spider.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a985.jpg)
+
+Tait got the ball rolling with a Goblin Sledder on the second turn. He tried to hit for three on the third turn, but Walls Sliced it away. He untapped and showed the Vegetation, giggling at his excellent draw. Tait returned with Sulfuric Vortex, ahead on life thanks to Walls’s Grand Coliseum. Walls busted out a big Silklash Spider.
 
 Tait tried to answer with Siege-Gang Commander, but Walls had the Starstorm. He hit for two and gave it back. They played the same drama again on the next turn, but this time Walls had Naturalize for the Vortex. Goblin Goon forced Walls to sit home, and he played another Vegetation. Tait brought out another Vortex. Walls could do nothing but play another explosive Vegetation. 
 

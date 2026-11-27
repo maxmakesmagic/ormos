@@ -69,7 +69,9 @@ render_recovery:
   - Mistform Dreamer
   occurrences: 13
 ---
-![](https://i.ormos.uk/88/5a/885a3192e83b34c725fb35b108e23c56f92ccec2c5dce6ac2c0c2274433b49a8.jpg)Sam is the closest hope to a gravy trainer that Britain can boast of at the moment, and with 19pt points Sam only needs either top 16 here, or top 128 at Yokohama to stay qualified. His opponent the lively Frenchman Gabriel Nassif is renowned for his English crushing skills, and is one of the more flamboyant Frenchmen on the circuit.
+![](https://i.ormos.uk/88/5a/885a3192e83b34c725fb35b108e23c56f92ccec2c5dce6ac2c0c2274433b49a8.jpg)
+
+Sam is the closest hope to a gravy trainer that Britain can boast of at the moment, and with 19pt points Sam only needs either top 16 here, or top 128 at Yokohama to stay qualified. His opponent the lively Frenchman Gabriel Nassif is renowned for his English crushing skills, and is one of the more flamboyant Frenchmen on the circuit.
 
 Game 1 
 
@@ -83,7 +85,9 @@ In the run up to game 2 there were many Jokes made about Gabriel Nassif and his 
 
 Sam decided to play first, and kept his 7 card hand, as did Gabriel, who opened up play with a turn 1 Sledder. Sam busted out a Morph on his turn 3, and Gabriel played his 3rd land, and passed the turn. Sam attacked for 2 and made a Thoughtbound Primoc. Nassif answered in great fashion with a turn 4 Sage Aven, looking to either steal or block the Primoc.
 
-![](https://i.ormos.uk/22/23/2223fa7a7483ab1e12af9180f1579b68381aa61459b19bc6d8efcd9635d3286b.jpg)Sam thought long and hard at end of turn, but in the end untapped, and unmorphed his Nameless one with the Primoc Ability on the Stack. With nothing else to do, he passed the turn.
+![](https://i.ormos.uk/22/23/2223fa7a7483ab1e12af9180f1579b68381aa61459b19bc6d8efcd9635d3286b.jpg)
+
+Sam thought long and hard at end of turn, but in the end untapped, and unmorphed his Nameless one with the Primoc Ability on the Stack. With nothing else to do, he passed the turn.
 
 Gabriel's next turn was a peach, casting a Sparksmith and a Lavamancer's Skill on his Sage Aven to shoot the Nameless One. Sam cast pinpoint Avalanche on the Aven during his Upkeep to try and keep the Primoc, but Gabriel sacrificed both Goblins to keep it alive and stole the Bird Beast. On Sam's next turn he was forced to kill his own Primoc with the a Crested Craghorn to try and slow the beats from a Skirk Outrider Gabriel had summoned, but Nassif had a Battering Craghorn and on the next turn managed to attack Sam down to 11. 
 

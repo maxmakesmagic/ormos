@@ -96,7 +96,9 @@ render_recovery:
 ---
 ### 
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a769.jpg)同一シーズンでの GP & PT & Masters 優勝と有る意味でグランドスラムとも言える偉業を達成した Michael Pusilnik と、現在のプロプレイヤーレースをダントツ 1 位で突っ走る " German Juggernaut " Kai Budde 。
+![](http://www.wizards.com/sideboard/images/ptosa02/a769.jpg)
+
+同一シーズンでの GP & PT & Masters 優勝と有る意味でグランドスラムとも言える偉業を達成した Michael Pusilnik と、現在のプロプレイヤーレースをダントツ 1 位で突っ走る " German Juggernaut " Kai Budde 。
 
 今大会は珍しく両者とも調子が悪く、既に Best 8 への芽は絶たれてしまっている。しかし、世界でもトップクラスの 2 人のデュエルを楽しみに見ようではないか。
 

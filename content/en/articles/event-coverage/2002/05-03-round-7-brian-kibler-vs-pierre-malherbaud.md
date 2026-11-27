@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a871.jpg)"It's do or die time," Mark Rosewater commented, walking past.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a871.jpg)
+
+"It's do or die time," Mark Rosewater commented, walking past.
 
 "No, I'm already dead," Brian Kibler replied.
 

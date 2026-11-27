@@ -85,7 +85,9 @@ render_recovery:
 
 Eskeland won the roll and kept his hand but Gomersall decided to double mulligan. Eskeland's deck produced a turn two Merfolk Looter, turn three Wild Mongrel. An end of turn Looter activation got him another card and a Basking Rootwalla. Pumped to three the Rootwalla and Mongrel dealt five damage and then a Quiet Speculation stocked the graveyard. Gomersall could only laugh as he finally drew a third land which was the comes into play tapped Lonely Sandbar. 
 
-![](http://www.wizards.com/sideboard/images/euro03/a890.jpg)"I need a Choking Tethers" he quipped.
+![](http://www.wizards.com/sideboard/images/euro03/a890.jpg)
+
+"I need a Choking Tethers" he quipped.
 
 "You need a miracle" retorted Eskeland!
 
@@ -99,7 +101,9 @@ Gomersall decided to play and both players kept their opening hands. The first a
 
 First blood went to the Norwegian as his Rootwalla's attacked for two followed up by a Quiet Speculation for Roar of the Wurm, Deep Analysis and Ray of Revelation which was immediately used to destroy Compulsion. On his turn Gomersall flashed back Deep Analysis, played another land and cast Wrath of God. Eskeland decided to Counterspell the Wrath but even though he had mana open Gomersall had no response, suggesting he was fishing for the Counterspell. Eskeland attacked for two and cast Upheaval which was met by a Memory Lapse confirming the Englishman's plan. Now with the big Norwegian tapped out he could cast Mirari's Wake giving him lots of mana and great board position.
 
-![](http://www.wizards.com/sideboard/images/euro03/a892.jpg)Eskeland once again attacked for two and tried to Upheaval but again a Memory Lapse did it's job. Gomersall now just draws a card and passes. For the third time Eskeland casts Upheaval and it is met with yet another Memory Lapse. Gomersall Mirari's an Unsummon at EOT then drew and passed unable to find anything else to do. Eskeland casts Upheaval for the fourth time but it is finally counterspelled and the Englishman could sigh with relief that the danger had passed.
+![](http://www.wizards.com/sideboard/images/euro03/a892.jpg)
+
+Eskeland once again attacked for two and tried to Upheaval but again a Memory Lapse did it's job. Gomersall now just draws a card and passes. For the third time Eskeland casts Upheaval and it is met with yet another Memory Lapse. Gomersall Mirari's an Unsummon at EOT then drew and passed unable to find anything else to do. Eskeland casts Upheaval for the fourth time but it is finally counterspelled and the Englishman could sigh with relief that the danger had passed.
 
 Another turn for Eskeland, another attempt at Upheaval and of course another Memory Lapse from Gomersall who just could not seem to draw anything dangerous. Inevitably the next turn drew a sixth attempt at Upheaval which finally got through. The Norwegian played a land and discarded two Basking Rootwallas at the end of his turn and Gomersall scooped as there wouldn't be time for him to recover before being beaten to death by the two lizards.
 

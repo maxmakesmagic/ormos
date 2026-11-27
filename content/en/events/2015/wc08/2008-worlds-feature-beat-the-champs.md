@@ -62,7 +62,9 @@ render_recovery: []
 ---
 The Champion Challenge is a fixture at Pro Tours, and Worlds is no exception. Anyone is free to sign up and battle against Magic luminaries for fun and bragging rights. Here at Memphis players can duke it out with Magic creator Richard Garfield, R&D members Aaron Forsythe, Matt Place, and Mark Rosewater, and Hall of Famer Rob Dougherty. Some players come with the latest Standard tech, but the memorable losses are always to exciting homebrews.
 
-![](http://media.wizards.com/2015/events/wc08/place_rosewater.jpg)One player managed to sweep the entire gauntlet with an honest-to-goodness, no-changeling-cheats Goat Deck. His deck went crazy with [Springjack Shepherd](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Springjack+Shepherd) and [Flicker](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flicker) effects, then a played Liege or two to attack for ludicrous damage.
+![](http://media.wizards.com/2015/events/wc08/place_rosewater.jpg)
+
+One player managed to sweep the entire gauntlet with an honest-to-goodness, no-changeling-cheats Goat Deck. His deck went crazy with [Springjack Shepherd](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Springjack+Shepherd) and [Flicker](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flicker) effects, then a played Liege or two to attack for ludicrous damage.
 
 One new player managed to get the better of R&D’s Matt Place, even though he didn’t win their match. He had only learned the game the day before, and showed up with the planeswalker Standard Constructed deck. In the course of the match he killed one of Place’s creatures with Ajani Vengeant, then pointed at another. Matt Place stopped him, saying, “Oh, you can only use a planeswalker ability once on your turn,” and started to explain it in detail, thinking the new player needed a lesson.
 

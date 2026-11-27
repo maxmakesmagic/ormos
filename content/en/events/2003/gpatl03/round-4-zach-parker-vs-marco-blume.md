@@ -96,7 +96,9 @@ Parker is playing a strange homebrew green-red goblins deck, but only because he
 
 ### Game 1
 
-![](https://i.ormos.uk/16/55/1655f2134e302408503601f0ebe0ea65fa21ac081c6d7c8c100311049be7e399.jpg)They shuffled and drew their opening hands.
+![](https://i.ormos.uk/16/55/1655f2134e302408503601f0ebe0ea65fa21ac081c6d7c8c100311049be7e399.jpg)
+
+They shuffled and drew their opening hands.
 
 "Draw eight. That's the only way I can win." – Zach Parker
 
@@ -118,7 +120,9 @@ Parker had no first turn play, but Blume was on a slow mana draw with Verge and 
 
 "It's no Grappler, but it'll do!" – Zach Parker
 
-![](https://i.ormos.uk/ec/39/ec39db33eb915ee6264a916bed8cc822f4e8fd62cd0adb36919f826897ba8712.jpg)Blume played a morph and watched as Parker played a second Guide, turning his Piledriver into a huge beatstick. Blume calmly unmorphed his Angel and served climbing to thirteen. Parker didn't have the Firecat for the win, having to resign himself to dealing seven and adding a Goblin Sharpshooter.
+![](https://i.ormos.uk/ec/39/ec39db33eb915ee6264a916bed8cc822f4e8fd62cd0adb36919f826897ba8712.jpg)
+
+Blume played a morph and watched as Parker played a second Guide, turning his Piledriver into a huge beatstick. Blume calmly unmorphed his Angel and served climbing to thirteen. Parker didn't have the Firecat for the win, having to resign himself to dealing seven and adding a Goblin Sharpshooter.
 
 Blume drained for four and played a Brushhopper. Parker's attack cost him a Deep Analysis and a Wake, but that was fine. Unfortunately, Parker had Goblin Grappler ready to push through more damage. Blume made no move on his turn, and looked like he would take some pain. The Brushhopper was forced to tangle with the Grappler, but Blume wasn't out of tricks. Cunning Wish fetched Ray of Revelation from the sideboard, and Parker visibly sagged in his chair.
 

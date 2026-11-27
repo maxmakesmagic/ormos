@@ -159,7 +159,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds03/a584.jpg)Last year, the U.S. team didn't win the team competition at Worlds for the second time. After a brilliant comeback in the Team Rochester Draft portion of the event, Harvey, Franz and Ranks earned a spot in the finals, only to lose to the Germans. It was a disappointment for the Americans, who had traditionally dominated this event. Immediately, talk switched to coming into Worlds in Berlin the following year, and taking back the title. So far, Wagener, Walls and Gary have reached the same spot as last year's team, with one match away from them and the title. Would the Americans come so close only to settle for second place once again, or would the tradition of dominance continue?
+![](http://www.wizards.com/sideboard/images/worlds03/a584.jpg)
+
+Last year, the U.S. team didn't win the team competition at Worlds for the second time. After a brilliant comeback in the Team Rochester Draft portion of the event, Harvey, Franz and Ranks earned a spot in the finals, only to lose to the Germans. It was a disappointment for the Americans, who had traditionally dominated this event. Immediately, talk switched to coming into Worlds in Berlin the following year, and taking back the title. So far, Wagener, Walls and Gary have reached the same spot as last year's team, with one match away from them and the title. Would the Americans come so close only to settle for second place once again, or would the tradition of dominance continue?
 
 ### Game 1
 
@@ -176,7 +178,9 @@ Walamies- 1 Wagener- 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/worlds03/a737.jpg)Wagener mulliganed his opening hand. Walamies started with Carrion Feeder, and Wagener summoned Smokespew Invoker, which blocked and traded with the Feeder. Walamies played a morph, and Wagener had another Smokespew. The morph attacked and was not blocked, then flipped over to reveal Haunted Cadaver. Wagener lost his three card hand, which contained Gempalm Polluter, Reaping the Graves and a swamp. Walamies played a morph, and despite losing his hand, Wagener was still very much in the game thanks to drawing Corpse Harvester.
+![](http://www.wizards.com/sideboard/images/worlds03/a737.jpg)
+
+Wagener mulliganed his opening hand. Walamies started with Carrion Feeder, and Wagener summoned Smokespew Invoker, which blocked and traded with the Feeder. Walamies played a morph, and Wagener had another Smokespew. The morph attacked and was not blocked, then flipped over to reveal Haunted Cadaver. Wagener lost his three card hand, which contained Gempalm Polluter, Reaping the Graves and a swamp. Walamies played a morph, and despite losing his hand, Wagener was still very much in the game thanks to drawing Corpse Harvester.
 
 Walamies tapped out for Twisted Abomination, and Wagener decided to attack through with the Invoker for three damage. Interestingly, he sacrificed the Invoker to the Harvester right after, getting Shepherd of Rot and playing it. Walamies attacked with the Abomination and morph and the Shepherd did not chump block, bringing Wagener down to ten. Echo Tracer bounced the Harvester and Blackmail forced it out of Wagener's hand, getting a huge cheer out of the crowd, as the U.S. Champion simply looked at his teammates and shrugged. 
 

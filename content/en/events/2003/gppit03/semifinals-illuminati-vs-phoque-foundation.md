@@ -101,7 +101,9 @@ This is it – the part that these teams have worked so hard for all day. The dr
 
 Jairo Liquidano and Alex Shvartsman both play nothing but lands on their first few turns, and the first creature of the game is a morph on Alex's side. He attacked and unmorphed it, revealing Sootfeather Flock. 
 
-![](https://i.ormos.uk/0c/4b/0c4b48f6b6099d5ad7cfec1dfe3f6d6eaafb8a77a807449a20e751fea82242bc.jpg)Jairo's Callous Oppressor was already in play at this point, naming Bird. Jairo then played a morph and then Covert Operative. At the end of Jairo's fifth turn, Alex played Cruel Revival to kill the Oppressor. Alex played out a Putrid Raptor and takes the offensive.
+![](https://i.ormos.uk/0c/4b/0c4b48f6b6099d5ad7cfec1dfe3f6d6eaafb8a77a807449a20e751fea82242bc.jpg)
+
+Jairo's Callous Oppressor was already in play at this point, naming Bird. Jairo then played a morph and then Covert Operative. At the end of Jairo's fifth turn, Alex played Cruel Revival to kill the Oppressor. Alex played out a Putrid Raptor and takes the offensive.
 
 Even though Alex has been matching Jairo pretty evenly, he fell quickly when Jairo played a Sage Aven. Alex couldn't find any answers to Jairo's flying armada, and died shortly after to a well-timed Torrent of Fire.
 
@@ -139,7 +141,9 @@ Zvi attacked back with everything that he could muster and left Pasquale alone. 
 
 In this second game, Jean Charles began with amazing tempo; a rounds 2 and 3 Goblin Brigand. Justin found a Forgotten Ancient on turn 4, and blocked a Brigand with it; Jean Charles responded with Shock to kill the Ancient as quickly as possible. 
 
-![](https://i.ormos.uk/22/28/22287e69c64702cabc8e41ee3aea851a938835228a861c045361d0dcc06395b6.jpg)The tempo swung in Justin's favor when he got a Fierce Empath out and used it to pull an Ancient Ooze from his library. After Justin played the Ooze, Jean Charles simply conceded rather than suffer further beatings.
+![](https://i.ormos.uk/22/28/22287e69c64702cabc8e41ee3aea851a938835228a861c045361d0dcc06395b6.jpg)
+
+The tempo swung in Justin's favor when he got a Fierce Empath out and used it to pull an Ancient Ooze from his library. After Justin played the Ooze, Jean Charles simply conceded rather than suffer further beatings.
 
 "I made a lot of mistakes," Jean-Charles admitted after the match. "It wasn't my best game."
 

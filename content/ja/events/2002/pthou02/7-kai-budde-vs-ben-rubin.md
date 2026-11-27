@@ -280,7 +280,9 @@ Reanimater 対《サイカトグ/Psychatog》というマッチアップ的な�
 
 　しかし、くどいようだが彼はKai Buddeなのある。
 
-![](http://www.wizards.com/sideboard/images/pthou02/a527.jpg)彼はここで2枚目の《催眠の悪鬼/Mesmeric Fiend》を引き当て、Ben Rubinを完全に丸裸にした。そして、数ターン後には《影魔道士の浸透者/Shadowmage Infiltrator》を展開することとなったのだった。
+![](http://www.wizards.com/sideboard/images/pthou02/a527.jpg)
+
+彼はここで2枚目の《催眠の悪鬼/Mesmeric Fiend》を引き当て、Ben Rubinを完全に丸裸にした。そして、数ターン後には《影魔道士の浸透者/Shadowmage Infiltrator》を展開することとなったのだった。
 
 　無慈悲なるこの《知恵の蛇/Ophidian》はKai Buddeに《マローの魔術師ムルタニ/Multani, Maro-Sorcerer》と《再活性/Reanimate》をもたらし、それは《入念な研究/Careful Study》によって具現化した。もっとも、現段階では《ムルタニ》も3/3というサイズで致死級というわけではない。
 

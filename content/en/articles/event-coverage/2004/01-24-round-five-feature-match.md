@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/28/29/2829804a8fb40cb51b90ce82001e0c1f6033c2f525d0c9e4d9222855ae4a4993.jpg)As far as feature matches go, it doesn't get much better than this. Oiso and Mori have both captured the Rookie of the Year title, and are playing the exact same deck- all 75 cards between the maindeck and sideboard are identical. They're running blue-white [Mind's Desire](https://web.archive.org/web/20040124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mind%27s+Desire), an idea that Mori got on Magic Online from Antoine Ruel. He tweaked it a bit and gave the decklist to Oiso. Now, they're in round five against each other, and drawing quite an interested crowd. Not only is it a mirror match, but it features two of Japan's best players. Oiso is the only Japanese player to have two Pro Tour Top 8's, and is the reigning Rookie of the Year. Mori is a former Rookie of the Year who barely missed a Worlds Top 8 back in Toronto, coming in ninth.
+![](https://i.ormos.uk/28/29/2829804a8fb40cb51b90ce82001e0c1f6033c2f525d0c9e4d9222855ae4a4993.jpg)
+
+As far as feature matches go, it doesn't get much better than this. Oiso and Mori have both captured the Rookie of the Year title, and are playing the exact same deck- all 75 cards between the maindeck and sideboard are identical. They're running blue-white [Mind's Desire](https://web.archive.org/web/20040124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mind%27s+Desire), an idea that Mori got on Magic Online from Antoine Ruel. He tweaked it a bit and gave the decklist to Oiso. Now, they're in round five against each other, and drawing quite an interested crowd. Not only is it a mirror match, but it features two of Japan's best players. Oiso is the only Japanese player to have two Pro Tour Top 8's, and is the reigning Rookie of the Year. Mori is a former Rookie of the Year who barely missed a Worlds Top 8 back in Toronto, coming in ninth.
 
 ### Game 1
 

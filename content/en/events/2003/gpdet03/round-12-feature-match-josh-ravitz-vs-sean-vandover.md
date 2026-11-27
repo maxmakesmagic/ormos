@@ -53,7 +53,9 @@ archive_source:
   sha256: 47ed7453d68702d70acd56c990a43e169fb9bcfa0d453adbbf3206899c2cb081
 render_recovery: []
 ---
-![](https://www.wizards.com/sideboard/images/gpdet03/a936.jpg)Sean Vandover is flying high in his first GP Day 2. A casual player since the days of Revised, he’s only stepped up to tournament Magic this past year. He hails from Germantown, Maryland, and his only loss so far comes at the hands of Bob Maher, currently undefeated. He is playing Goblins, because it has draws that can beat even the decks designed to crush it. Now he faces the acerbic Josh Ravitz, playing Slide. 
+![](https://www.wizards.com/sideboard/images/gpdet03/a936.jpg)
+
+Sean Vandover is flying high in his first GP Day 2. A casual player since the days of Revised, he’s only stepped up to tournament Magic this past year. He hails from Germantown, Maryland, and his only loss so far comes at the hands of Bob Maher, currently undefeated. He is playing Goblins, because it has draws that can beat even the decks designed to crush it. Now he faces the acerbic Josh Ravitz, playing Slide. 
 
 Vandover shipped back his first hand, and kept his second. Ravitz answered a first turn Skirk Prospector with Lightning Rift.
 
@@ -71,7 +73,9 @@ Vandover battled back with Goblin Goon and a Piledriver. Ravitz swung overhead, 
 
 Ravitz 1 – Vandover 0
 
-![](https://www.wizards.com/sideboard/images/gpdet03/a935.jpg)Vandover had to mulligan again in the second game. He kicked things off with a Prospector and a Goblin Sledder. Ravitz cycled a Gempalm Incinerator to get rid of the Prospector, and then since Vandover had missed his third land drop, tried a turn-three morph. He tapped his deck, but no help was forthcoming.
+![](https://www.wizards.com/sideboard/images/gpdet03/a935.jpg)
+
+Vandover had to mulligan again in the second game. He kicked things off with a Prospector and a Goblin Sledder. Ravitz cycled a Gempalm Incinerator to get rid of the Prospector, and then since Vandover had missed his third land drop, tried a turn-three morph. He tapped his deck, but no help was forthcoming.
 
 Spark Spray got rid of the Sledder, but Vandover had a Prospector to replace it. Ravitz played a face-up Angel. Finally, Vandover found his third land, a Goblin Burrows. He swung in. Ravitz naturally blocked. Vandover pumped it up, put damage on the stack, then sacrificed his Prospector to Shock the Angel, neatly killing it. It seemed like a huge blunder by Ravitz, who was sitting at fifteen life.
 

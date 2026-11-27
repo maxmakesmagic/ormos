@@ -41,4 +41,6 @@ render_recovery: []
 
 Last year, I recorded a podcast where I had a carpool episode with my dad. That episode was so popular I decided to give it a try with a different parent. Yes, today you get to meet my mom.
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

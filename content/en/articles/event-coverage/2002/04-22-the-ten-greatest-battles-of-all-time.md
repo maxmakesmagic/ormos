@@ -728,11 +728,15 @@ Enjoy!
 
 ### 10\. Jonathan Becker (PT Junk) vs. Unknown Opponent (The Red Zone)
 
-![](https://i.ormos.uk/b4/6b/b46bb14699e51aa9d14c83a73ddc048b7f077fc33f94af47aaf675e80d373609.jpg)I wanted very much to post a Kai Budde match, but as I've never actually seen Kai Budde play (believe it or not), I decided to instead post a Kai Budde moment. The time was Regionals 2001; the matchup was the worst possible for Junk, with Becker somehow able to split the first two games. The opponent had sided in Scorching Lava, usually there for Nether Spirit, but equally effective against Ramosian Sergeant and that annoying snake, River Boa.
+![](https://i.ormos.uk/b4/6b/b46bb14699e51aa9d14c83a73ddc048b7f077fc33f94af47aaf675e80d373609.jpg)
+
+I wanted very much to post a Kai Budde match, but as I've never actually seen Kai Budde play (believe it or not), I decided to instead post a Kai Budde moment. The time was Regionals 2001; the matchup was the worst possible for Junk, with Becker somehow able to split the first two games. The opponent had sided in Scorching Lava, usually there for Nether Spirit, but equally effective against Ramosian Sergeant and that annoying snake, River Boa.
 
 I remember glancing over Jon's shoulder and wondering why when he passed his first turn, there was still a Sergeant in his hand... It was only after his second turn, when the opponent untapped, and gleefully sent a main-phase Scorching Lava at the "helpless" 1/1, did Becker's plan become obvious. He responded with Wax/Wane, and had just gone a long way in winning a difficult matchup.
 
-![](https://i.ormos.uk/a8/5a/a85aa02f032429e617c2191a68b0f391d636f4e5fad435c4e3c29c99a1939626.jpg)Much like Kai Budde figures out how to beat even the toughest matchups (admittedly by drawing his last Donate off the top of his deck, at times), Becker had figured out he would never win if that Sergeant traveled the bin. Just as his opponent overvauled a draw with a sideboard card in the hand, Becker went with the best plan to pull out the game... 
+![](https://i.ormos.uk/a8/5a/a85aa02f032429e617c2191a68b0f391d636f4e5fad435c4e3c29c99a1939626.jpg)
+
+Much like Kai Budde figures out how to beat even the toughest matchups (admittedly by drawing his last Donate off the top of his deck, at times), Becker had figured out he would never win if that Sergeant traveled the bin. Just as his opponent overvauled a draw with a sideboard card in the hand, Becker went with the best plan to pull out the game... 
 
 It was enough.
 
@@ -742,7 +746,9 @@ Little plays by our friends, especially where they diverge from what we would ch
 
 ### 9\. Jonathan Finkel (Napster) vs. Chris Benafel (Ponza Rotta Red)
 
-![](https://www.wizards.com/sideboard/USNAT00/images/USFFinkelProfile.JPG)You could make an argument for their U.S. Nationals Finals match, which had more on the line and certainly involved more yelling and cheering (including that famous Buehler/Hacker moment "Why is he cycling that Rapid Decay!?!") and Benafel's plea "You could at least make it look close...", but for my money, it was their clash in the Swiss rounds that the more fun to watch.
+![](https://www.wizards.com/sideboard/USNAT00/images/USFFinkelProfile.JPG)
+
+You could make an argument for their U.S. Nationals Finals match, which had more on the line and certainly involved more yelling and cheering (including that famous Buehler/Hacker moment "Why is he cycling that Rapid Decay!?!") and Benafel's plea "You could at least make it look close...", but for my money, it was their clash in the Swiss rounds that the more fun to watch.
 
 You see Napster was the perfect deck for Jonathan **Magic** at that point; it had the most raw power of any deck in the format (at least until Tinker's appearance at Worlds), and was full of complex decisions... The deck was particularly rewarding to the king of decision-makers and eventual champion. This game, on the other hand, showcased the awesome power of the unlikely draw, and saw the eventual champion on auto-pilot.
 
@@ -755,7 +761,9 @@ Jon opened up with...
 > Persecute,  
 > Skittering Horror!
 
-![](https://www.wizards.com/sideboard/USNAT00/images/USFBenafelProfile.JPG)... And his second turn play was Rishadan Port!
+![](https://www.wizards.com/sideboard/USNAT00/images/USFBenafelProfile.JPG)
+
+... And his second turn play was Rishadan Port!
 
 Benafel had been Mind Twisted, mana stunted, and was facing down a 4/3 before his first play! Quite understandably, he complained about Finkel's "you had to have exactly those cards" luck... but aloofly characteristic of Jon, he responded with "Well, if I had drawn one fewer Ritual, I would have just Persecuted you on the second turn."
 
@@ -793,7 +801,9 @@ Now at this point, certain undesirables ruin the spectacle for everyone. Cheerin
 
 "Your friend made a good run, but he's going to lose this one."
 
-![](https://i.ormos.uk/55/80/55805a7a379c52746dd51d69ca75e547b0e50177e19e8dd2b19a764fe8aa5cd5.jpg)"I think he's going to apply Choking Sands to a dual land, and then follow up with one of the most famous plays in PTQ history. Calling out 'Spring forth, burly protector, and save me!', altran will cast Demonic Consultation for his one Kaervek's Spite and then Spite the face."
+![](https://i.ormos.uk/55/80/55805a7a379c52746dd51d69ca75e547b0e50177e19e8dd2b19a764fe8aa5cd5.jpg)
+
+"I think he's going to apply Choking Sands to a dual land, and then follow up with one of the most famous plays in PTQ history. Calling out 'Spring forth, burly protector, and save me!', altran will cast Demonic Consultation for his one Kaervek's Spite and then Spite the face."
 
 "How many Spites?"
 
@@ -809,7 +819,9 @@ Before 1998, Consulting for singletons was unheard of; altran has been autograph
 
 ### 6\. Zvi Mowshowitz (ID19) vs. Steve McArthur (White Lightning)
 
-![](https://i.ormos.uk/4b/cc/4bccad490b92d12d0497c59a8a06396b41369660d4f6ff6e08ec0e13adadaf5b.jpg)It was the summer of 1999. It was the weekend of U.S. Nationals. Wild things were happening with the new Classic rules... the stack made Delusions of Mediocrity not just a powerful combination component, but an opportunity for an opponent with a Disenchant to play 10-point Lightning Bolt. The aptly named White Lightning deck, behind the power of a pre-errata Waylay, could play three 2/2 creatures at the end of the opponent's turn and swing for six like Ball Lightning, super-charging the white weenie deck.
+![](https://i.ormos.uk/4b/cc/4bccad490b92d12d0497c59a8a06396b41369660d4f6ff6e08ec0e13adadaf5b.jpg)
+
+It was the summer of 1999. It was the weekend of U.S. Nationals. Wild things were happening with the new Classic rules... the stack made Delusions of Mediocrity not just a powerful combination component, but an opportunity for an opponent with a Disenchant to play 10-point Lightning Bolt. The aptly named White Lightning deck, behind the power of a pre-errata Waylay, could play three 2/2 creatures at the end of the opponent's turn and swing for six like Ball Lightning, super-charging the white weenie deck.
 
 Zvi Mowshowitz was hot in the summer of 1999, coming off of a Top 8 loss to Casey McCarrel at PT-NY and a Top 8 performance at GP-DC. He had declared the power of Yawgmoth's Bargain and was playing for a spot on the U.S. National Team with young Steve McArthur, a Texan who idolized Bill Macey and was even playing his signature archetype.
 
@@ -833,7 +845,9 @@ I guess they're a problem unless the opponent opens with...
 
 McArthur played a Japanese Soul Warden to match his English one and passed the turn.
 
-![](https://www.wizards.com/sideboard/images/pttok01/652.jpg)A turn later, and firmly in control of the game behind Grim Monolith/Voltaic Key, Zvi poked the Japanese Soul Warden with his Masticore. McArthur moved the English one into his graveyard, when Zvi corrected him.
+![](https://www.wizards.com/sideboard/images/pttok01/652.jpg)
+
+A turn later, and firmly in control of the game behind Grim Monolith/Voltaic Key, Zvi poked the Japanese Soul Warden with his Masticore. McArthur moved the English one into his graveyard, when Zvi corrected him.
 
 A blank look from the hapless McArthur earned possibly the best trash talk response in the history of **Magic**:
 
@@ -845,7 +859,9 @@ The rest, as they say, is another Worlds win for Team U.S.A.
 
 ### 5\. Brian Kibler (Burned Alive) vs. Jon Finkel (Counterpost)
 
-![](https://www.wizards.com/sideboard/images/pttok01/929.jpg)If you are one Jonathan **Magic**, basically no one can defeat you on a consistent basis. To this day, after a year of Kai Budde dominance on the Pro Tour, you still have the best win percentage of anyone to play serious **Magic**. Unless your opponent is heavily armored there is nothing that can stop your blistering offense... but oddly enough, the proper set of armor for Protection from Jonathan **Magic** appears to be a pair of Tevas and a tie-dyed shirt.
+![](https://www.wizards.com/sideboard/images/pttok01/929.jpg)
+
+If you are one Jonathan **Magic**, basically no one can defeat you on a consistent basis. To this day, after a year of Kai Budde dominance on the Pro Tour, you still have the best win percentage of anyone to play serious **Magic**. Unless your opponent is heavily armored there is nothing that can stop your blistering offense... but oddly enough, the proper set of armor for Protection from Jonathan **Magic** appears to be a pair of Tevas and a tie-dyed shirt.
 
 Oh there are legends of the clashes between Dragonmaster and Shadowmage Infiltrator. There are those that would claim that against Finkel's Capsize.dec, Kibler once played a third-turn Rathi Dragon, sacrificing all his lands but one, and scored from twenty. Some would claim, with the tables turned, it was Finkel who, with monogreen, went all-out with a Narcissism alpha-strike, but was robbed of the kill by a timely Aether Burst from Kibler, in this version inexplicably cast as the blue mage. And there is Anthony Alongi who once wrote "For all of this reporter's expectations of writing for his first Pro Tour, he never imagined that he would be able to write the sentence, 'Brian Kibler came over with an Armadillo Cloaked Rith to smack Jon Finkel and force him to concede.'"
 
@@ -863,7 +879,9 @@ Losing to Kibler has over the years become common practice for Jonathan, but thi
 
 ### 4\. Steve OMS (Monoblack) vs. Mike Long (B-g)
 
-![](https://www.wizards.com/sideboard/images/PTCHI00/967.jpg)Even if you didn't know that Steve OMS is a popular guy on the Pro Tour, you would probably be able to infer that for yourself if you watched the Top 8 draft of 1999 PT-LA. *Urza's Saga* was a Limited set "blacker than *Torment*" according to some, but Steve OMS's monoblack deck was protected by what has been understated as "friendly drafting". With Deadguy friends Worth Wollpert and Jon Finkel dedicating themselves to g-r and u-w, Steve had free reign to pick up nothing but Befouls and Corrupts. History tells us that Steve and his perfect black deck prevailed over Jon Finkel in the finals, but along the way, his most impressive match was against Mike Long.
+![](https://www.wizards.com/sideboard/images/PTCHI00/967.jpg)
+
+Even if you didn't know that Steve OMS is a popular guy on the Pro Tour, you would probably be able to infer that for yourself if you watched the Top 8 draft of 1999 PT-LA. *Urza's Saga* was a Limited set "blacker than *Torment*" according to some, but Steve OMS's monoblack deck was protected by what has been understated as "friendly drafting". With Deadguy friends Worth Wollpert and Jon Finkel dedicating themselves to g-r and u-w, Steve had free reign to pick up nothing but Befouls and Corrupts. History tells us that Steve and his perfect black deck prevailed over Jon Finkel in the finals, but along the way, his most impressive match was against Mike Long.
 
 Mike had drafted some powerful black and green cards. In addition to the undisputed best color of *Urza's Saga*, Long had added some of green's fastest and most efficient creatures. Oddly, though, Mike left two copies of Befoul in his sideboard, starting off-color cycling cards instead of them... As flexible as Befoul normally was as a removal card, in order to get past his quarterfinals opponent, Long could not afford to have overcosted Stone Rains in his main deck. 
 
@@ -871,11 +889,15 @@ Steve's deck performed brilliantly in the first two games, but Mike battled back
 
 Steve played a swamp and passed the turn.
 
-![](https://i.ormos.uk/9a/18/9a18bd33e933357a999cb2939cb8a6859befd751a5dbc71d6000d519c7bc49a4.jpg)Mike played a forest, and threatened with a Pouncing Jaguar. The Jaguar, a 2/2 for only ![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif), would be a devastating clock against Steve's powerful - but slow - black deck... if only it would stay in play.
+![](https://i.ormos.uk/9a/18/9a18bd33e933357a999cb2939cb8a6859befd751a5dbc71d6000d519c7bc49a4.jpg)
+
+Mike played a forest, and threatened with a Pouncing Jaguar. The Jaguar, a 2/2 for only ![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif), would be a devastating clock against Steve's powerful - but slow - black deck... if only it would stay in play.
 
 Just as Mike played that Jaguar, I remember the thought passing through my head I wonder if Steve plays Dark Ritual...
 
-![](https://www.wizards.com/sideboard/WORLDS2000/images/257.jpg)My question was answered on OMS's second turn, as he played Dark Ritual, and cast the 4 mana Befoul on Mike's only land. Not only was his forest gone, but Mike would not be able to pay echo on the Pouncing Jaguar... he was down to no permanents! A couple of turns later, Mike had a forest once again, and played Acridian, another undercosted echo creature - a 2/4 for ![1 Mana](https://i.ormos.uk/6b/4c/6b4cf558eab279fb9414f146ebdd0e0705ec92984fec530597dd2a3bce43ce24.gif)![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif). Once again, Steve had the Befoul for Mike's only green source!
+![](https://www.wizards.com/sideboard/WORLDS2000/images/257.jpg)
+
+My question was answered on OMS's second turn, as he played Dark Ritual, and cast the 4 mana Befoul on Mike's only land. Not only was his forest gone, but Mike would not be able to pay echo on the Pouncing Jaguar... he was down to no permanents! A couple of turns later, Mike had a forest once again, and played Acridian, another undercosted echo creature - a 2/4 for ![1 Mana](https://i.ormos.uk/6b/4c/6b4cf558eab279fb9414f146ebdd0e0705ec92984fec530597dd2a3bce43ce24.gif)![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif). Once again, Steve had the Befoul for Mike's only green source!
 
 The next several turns... Steve's Duress on Mike's Corrupt, his taking complete control of the board with Pestilence and Hollow Dogs, simply formalized a game that was won in the first four turns. It is rare that you see that kind of domination in a Limited game.
 
@@ -885,23 +907,31 @@ Then again, it's pretty rare to see a draft deck nearly as good as Mr. OMS's.
 
 ### 3\. Bob Maher, Jr. (Maher Oath) vs. Brian Davis (Free Spell Necro)
 
-![](https://www.wizards.com/sideboard/images/Worlds2001/801.jpg)In the days before the discovery of Trix, PT-Chicago's Extended Top 8 was made up of eight great, eight different, decks. On one side of the finals, an unknown teenager from Memphis, TN had beaten Britain's "deck of the tournament", the Skull Catapult, and followed up by taking down France's five-color green. On the other side of the finals table, a hometown favorite had piloted a deck that would eventually be named for him past the previous year's Chicago champion in a pseudo-mirror match, and kept strong against Christian Luhrs's aggressive Sliver deck.
+![](https://www.wizards.com/sideboard/images/Worlds2001/801.jpg)
+
+In the days before the discovery of Trix, PT-Chicago's Extended Top 8 was made up of eight great, eight different, decks. On one side of the finals, an unknown teenager from Memphis, TN had beaten Britain's "deck of the tournament", the Skull Catapult, and followed up by taking down France's five-color green. On the other side of the finals table, a hometown favorite had piloted a deck that would eventually be named for him past the previous year's Chicago champion in a pseudo-mirror match, and kept strong against Christian Luhrs's aggressive Sliver deck.
 
 The age old battle would be fought once again in Chicago's finals, in what would briefly be called the greatest of Constructed formats. On one side, the rookie, wielding the power of death; on the other, the has-been - but born again - with Oath of Druids at his command. It was Davis vs. Maher. It was the most dramatic Pro Tour finals of all time.
 
-![](https://i.ormos.uk/c7/37/c7372c53a3011b6417106d5db0c6dc42750fceae731288ca8bb55dc09485b567.jpg)Game 1 looked to be all Davis. He opened with the best possible hand for Necropotence, including swamp, Dark Ritual, Duress, Unmask, and of course The Skull itself. Especially going first, he was almost guaranteed to destroy Bob's hand and force The Best Drawing Engine in the History of **Magic** into play.
+![](https://i.ormos.uk/c7/37/c7372c53a3011b6417106d5db0c6dc42750fceae731288ca8bb55dc09485b567.jpg)
+
+Game 1 looked to be all Davis. He opened with the best possible hand for Necropotence, including swamp, Dark Ritual, Duress, Unmask, and of course The Skull itself. Especially going first, he was almost guaranteed to destroy Bob's hand and force The Best Drawing Engine in the History of **Magic** into play.
 
 Though Davis claimed "good game" with his opening turn, Bob stuck it out, even as everything from Swords to Plowshares to Morphling was ripped out of his hand. It was a missed land drop for Davis on turn five - almost unheard of with Necropotence in play -- that gave Maher his opening. Counterspells and library manipulation kept Brian's eventual Drain Life attempts largely unresolved... though he was drawing a ton of cards, the rookie's life total was dwindling thanks to The Skull.
 
 And then the crowd roared.
 
-![](https://i.ormos.uk/4b/ba/4bba85c891dfebe819df4cd85422d559a2a8767fa30fe1c4f4e9197d5a5514fd.jpg)Maher had drawn Ivory Mask. Davis's Skittering Skirges were a non-issue against the Oath of Druids deck. As long as Brian couldn't actually target Bob, how the home town boy chose to win was just a formality... he already had.
+![](https://i.ormos.uk/4b/ba/4bba85c891dfebe819df4cd85422d559a2a8767fa30fe1c4f4e9197d5a5514fd.jpg)
+
+Maher had drawn Ivory Mask. Davis's Skittering Skirges were a non-issue against the Oath of Druids deck. As long as Brian couldn't actually target Bob, how the home town boy chose to win was just a formality... he already had.
 
 With Game 2, momentum was firmly with the home town favorite. Davis declared a mulligan, got off to a slow start, and ended up facing a Maher Compost despite a Duress on his Enlightened Tutor. After a late-game play error by the rookie, the title seemed all but in Maher's hands...
 
 But the next game changed all that.
 
-![](https://i.ormos.uk/47/8a/478a1be5866db098b3f47b96fae06a4dbc4876c341009197759ab04d9c6c1a20.jpg)Game 3 was all Davis. Another perfect opening hand saw him with turn-1 Necropotence, an opponent totally stripped of resources, and a fresh seven for turn two. Davis lost a pair of Nevinyrral's Disks to Maher's Counterspells, but the Oath player could not stop the flurry of Corrupts and Drain Lifes from young Davis. It is rare to see Morphling hit play and have no effect on the game, but all the Shapeshifter could do was look left and right as his master got tagged by Davis's kill cards.
+![](https://i.ormos.uk/47/8a/478a1be5866db098b3f47b96fae06a4dbc4876c341009197759ab04d9c6c1a20.jpg)
+
+Game 3 was all Davis. Another perfect opening hand saw him with turn-1 Necropotence, an opponent totally stripped of resources, and a fresh seven for turn two. Davis lost a pair of Nevinyrral's Disks to Maher's Counterspells, but the Oath player could not stop the flurry of Corrupts and Drain Lifes from young Davis. It is rare to see Morphling hit play and have no effect on the game, but all the Shapeshifter could do was look left and right as his master got tagged by Davis's kill cards.
 
 Game 4 was as odd as Game 1. This time Davis didn't get turn-1 Necropotence. In fact, he didn't get much of anything. One Unmask hit, another was countered. When Davis finally found a Demonic Consultation for Necropotence, Maher of course had the Counterspell. With Davis's draw so poor, it looked like Bob was in complete control. Nevertheless, even while getting slugged by Bob's Treetop Village, Brian played for the win with his vastly suboptimal draw. Making a desperation Drain Life, Davis was rewarded with a topdecked Dark Ritual the next turn, emptying Maher's life total with his other card... another Drain Life.
 
@@ -923,7 +953,9 @@ But something happened. Despite Davis's perfect opening, despite his opponent's 
 > Drain Life? *Force of Will*.  
 > Drain Life? *Disrupt*!
 
-![](https://www.wizards.com/sideboard/images/Worlds2001/699.jpg)Maher's miracle comeback was complete when Davis, now at one life due to a fickle Necropotence, sent his last Corrupt at the eventual champion... unsuccessfully.
+![](https://www.wizards.com/sideboard/images/Worlds2001/699.jpg)
+
+Maher's miracle comeback was complete when Davis, now at one life due to a fickle Necropotence, sent his last Corrupt at the eventual champion... unsuccessfully.
 
 Once again, the crowd roared. The local boy turned Pro Tour Champion, the has-been went on to become the Player of the Year. In one of the few true Kodak Moments of professional **Magic**, the victor caught his then-girlfriend in mid-air. 
 
@@ -935,11 +967,15 @@ Yep, he got the girl, too.
 
 Though it may seem anticlimactic in the face of the previous two matches, both the final battle and this gem from Round Seven of GP-Seattle stick in my mind as some of the most brilliant, eccentric, and eye-opening **Magic** matches I've ever witnessed.
 
-![](https://www.wizards.com/sideboard/images/MASTERSBAR01/541.jpg)Elarar, who would eventually make Top 8 in this Grand Prix, brought Seth Burn's Chicago deck, Pooh Burn, to Seattle, while Hacker played a "free spell" Necropotence deck similar to the one played by Brian Davis in our previous battle. Game 1 saw Hacker almost recklessly spend his hand on Elarar's creatures, and then Consult for a Dark Ritual with only 2 land and 3 cards in hand. Rather than playing The Skull, California's innovator of beatdown put into play a hand-depleting Masticore! Banking on the theory that Elarar's small creatures and burn would not be able to hang with the 4/4 regenerating monster, despite the fact that it would prevent any future development on the part of Hacker (locking him firmly under his own 'Core), his gambit was rewarded by a win that only Seth himself (later a fan of throwing away all possible resources to win close games with Blue Skies) could appreciate.
+![](https://www.wizards.com/sideboard/images/MASTERSBAR01/541.jpg)
+
+Elarar, who would eventually make Top 8 in this Grand Prix, brought Seth Burn's Chicago deck, Pooh Burn, to Seattle, while Hacker played a "free spell" Necropotence deck similar to the one played by Brian Davis in our previous battle. Game 1 saw Hacker almost recklessly spend his hand on Elarar's creatures, and then Consult for a Dark Ritual with only 2 land and 3 cards in hand. Rather than playing The Skull, California's innovator of beatdown put into play a hand-depleting Masticore! Banking on the theory that Elarar's small creatures and burn would not be able to hang with the 4/4 regenerating monster, despite the fact that it would prevent any future development on the part of Hacker (locking him firmly under his own 'Core), his gambit was rewarded by a win that only Seth himself (later a fan of throwing away all possible resources to win close games with Blue Skies) could appreciate.
 
 Jay came back for Game 2, taking the win with the rather humdrum Sligh draw of Ball Lightning and burn.
 
-![](https://www.wizards.com/sideboard/GPSD99/images/gpsd12.jpg)It was Game Three that showed off Hacker's magic. In a move that would have infuriated Erik Lauer, Hacker sided out half his Necropotences against the burn deck. Jay had shown him something in game one... so Hacker meant once again to win with the Masticore plan. Using his acceleration and manipulation to get a quick 'Core once again in play, Hacker wiped up Jay's board and had him on a clock. Hacker had figured out that Elarar didn't know that he could Incinerate the Masticore to death - the then-young Classic rules seemed to imply that Hacker could respond with a successful regeneration - so it was not likely that Elarar would even try to burn away the Masticore unless he had no other possible play; at that point, under next-to-no board pressure, the San Diego native would almost certainly have 2 mana open. Under Hacker's clock, Elarar drew a sideboard bomb - Spellshock - but unfortunately ended up locking himself under it, unable to Fireblast out his opponent without first killing himself!
+![](https://www.wizards.com/sideboard/GPSD99/images/gpsd12.jpg)
+
+It was Game Three that showed off Hacker's magic. In a move that would have infuriated Erik Lauer, Hacker sided out half his Necropotences against the burn deck. Jay had shown him something in game one... so Hacker meant once again to win with the Masticore plan. Using his acceleration and manipulation to get a quick 'Core once again in play, Hacker wiped up Jay's board and had him on a clock. Hacker had figured out that Elarar didn't know that he could Incinerate the Masticore to death - the then-young Classic rules seemed to imply that Hacker could respond with a successful regeneration - so it was not likely that Elarar would even try to burn away the Masticore unless he had no other possible play; at that point, under next-to-no board pressure, the San Diego native would almost certainly have 2 mana open. Under Hacker's clock, Elarar drew a sideboard bomb - Spellshock - but unfortunately ended up locking himself under it, unable to Fireblast out his opponent without first killing himself!
 
 Jay of course came back to earn a number of great finishes, not the least of which were a PT Top 8, Masters Finals, and JSS Championship... yet this match is a perfect example of how one of the greatest players of all time could play against his opponent - even a fine opponent - and not just his deck archetype. Hacker knew that Jay was too good a strategist to let him feed Necropotence with his Spinning Darknesses, so he simply had to play into the one opening his opponent did give him. Ironically, Jay lost in the GP-Seattle Top 8 to an almost identical inability to Incinerate a Masticore... at the hands of Dave Price's very different monoblack Hatred deck!
 
@@ -949,7 +985,9 @@ Jay of course came back to earn a number of great finishes, not the least of whi
 
 It may have not seemed like much; both of these great Pro Tour Champions was now just one match out of Top 8 contention at the 2000 U.S. Nationals. In the last round of Swiss, just one year before that vaunted expansion of prize money, with nothing on the line but some DCI points that would be ultimately meaningless for combatants of such standing, these players clashed for nothing but pride... and the opportunity to show off a perfect game.
 
-![](https://i.ormos.uk/50/25/5025b1019a911c6a6730fe3894ebc8d09ad7d805210f5864f8560b076a11091f.jpg)Steve knew that Dave was running Replenish. Going first, his hand was absolutely perfect... A couple of lands, a Dark Ritual, a Phyrexian Negator, a Stromgald Cabal, and that most miserly of mulligans, the Vampiric Tutor itself, stared back at the boy from Brooklyn.
+![](https://i.ormos.uk/50/25/5025b1019a911c6a6730fe3894ebc8d09ad7d805210f5864f8560b076a11091f.jpg)
+
+Steve knew that Dave was running Replenish. Going first, his hand was absolutely perfect... A couple of lands, a Dark Ritual, a Phyrexian Negator, a Stromgald Cabal, and that most miserly of mulligans, the Vampiric Tutor itself, stared back at the boy from Brooklyn.
 
 Think back at what you would have done with a grip like this.
 

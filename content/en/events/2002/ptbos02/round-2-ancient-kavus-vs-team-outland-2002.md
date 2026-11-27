@@ -131,7 +131,9 @@ Mike never drew the forest and the Krosan Archer got Mike to 4 when a Firebolt p
 
 Mike – 0 Lovre – 1
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a962.jpg)Gary and Nicolai were playing U/W vs. U/B respectively. Nicolai double mulliganed in Game 1 and Gary was up a game fairly quickly.
+![](http://www.wizards.com/sideboard/images/ptbos02/a962.jpg)
+
+Gary and Nicolai were playing U/W vs. U/B respectively. Nicolai double mulliganed in Game 1 and Gary was up a game fairly quickly.
 
 Matt and Eivind were playing the same match-up but the roles were reversed with the Ancient Kavu playing the U/B cards. Game 1 was looking very good for Matt with a Skywing Aven holding off a Phantom Flock. After his Cephalid Looter madnessed a Strength of Lunacy onto the flier's back things were looking very bright indeed. In fact the Looter was doing Yeoman's work as it allowed him to madness a Circular Logic that sent Phantom Nishoba to the bin instead of his dome. 
 
@@ -157,7 +159,9 @@ Mike was out of his own rips for the time being and peeled an underwhelming Moun
 
 Mike got back to the business of ripping good cards and drew a Muscle Burst. The Dwarf pinged the Centaur down a notch and Lava Dart was flashed back to clear the way for Genesis which dined on another squirrel. Lovre drew his sixth land and cast Liquid Fire...
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a963.jpg)There was some confusion about when targets were chosen for Liquid Fire at this point—upon announcement or resolution. Head Judge Nat Fairbanks explained that targets were chosen upon announcement but the damage was split up between the player and the creature upon resolution. Lovre turned his aim toward the Dwarf but Mike Muscle Burst it and Lovre sent all 5 points of damage at his opponent instead, reducing Mike's life to 8.
+![](http://www.wizards.com/sideboard/images/ptbos02/a963.jpg)
+
+There was some confusion about when targets were chosen for Liquid Fire at this point—upon announcement or resolution. Head Judge Nat Fairbanks explained that targets were chosen upon announcement but the damage was split up between the player and the creature upon resolution. Lovre turned his aim toward the Dwarf but Mike Muscle Burst it and Lovre sent all 5 points of damage at his opponent instead, reducing Mike's life to 8.
 
 Mike ripped yet another card in Sylvan Might, which was enough to force through the win.
 

@@ -834,7 +834,9 @@ Bleah.
 
 I was planning on running virtually the same deck as the previous week with more care given to the sideboard. I playtested quite a bit at Neutral Ground during the week and noticed a growing number of mirror matches. Not just g-u but my threshold version complete with Grizzly Fate and Centaur Chieftain. I quickly figured out that my Week One column had been posted. While I was happy that the deck was catching on, I began to question whether or not I should have been so open with the decklist.
 
-![](https://i.ormos.uk/2f/88/2f888d4536b43740814fb54aa2184b17e2e7bd1f0b98e4722ca74a9693d50be1.jpg)One person I played more than a few matches against is Jeremy Cash. I have no idea where this kid came from, but suddenly he is at Neutral Ground whenever I'm there (which I am sad to say is *waaay* too often) playing a good deck. He's smart, with a quick sense of humor and little respect for his elders (at least this elder, anyway). All in all he has the makings of a pretty good **Magic** player. He is playing a version of my deck that came to him via Matt Boccio - another up and coming Neutral Grounder. I won way more than I lost but he seemed unfamiliar with the deck and that may have contributed to the numbers. We discussed the idea of playing some sideboarded matches but the mirror grew tiresome and I played a bunch of games against Roy Badillo's monoblack control instead with positive results.
+![](https://i.ormos.uk/2f/88/2f888d4536b43740814fb54aa2184b17e2e7bd1f0b98e4722ca74a9693d50be1.jpg)
+
+One person I played more than a few matches against is Jeremy Cash. I have no idea where this kid came from, but suddenly he is at Neutral Ground whenever I'm there (which I am sad to say is *waaay* too often) playing a good deck. He's smart, with a quick sense of humor and little respect for his elders (at least this elder, anyway). All in all he has the makings of a pretty good **Magic** player. He is playing a version of my deck that came to him via Matt Boccio - another up and coming Neutral Grounder. I won way more than I lost but he seemed unfamiliar with the deck and that may have contributed to the numbers. We discussed the idea of playing some sideboarded matches but the mirror grew tiresome and I played a bunch of games against Roy Badillo's monoblack control instead with positive results.
 
 I also let Eric Kesselman-known for his unnatural love of single blue casting cost cantrips-take the deck for a test drive. He fell in love with the speed and raw power of the deck but disagreed with the numbers of the deck. He hated four copies of Grizzly Fate and wanted to find room for Aether Burst. He would eventually cut a land, a Wonder and two Grizzly Fates. Somehow he managed to squeeze four Bursts AND four Standstills into their place.
 
@@ -844,7 +846,9 @@ Boston seemed even further away than before. I spent the next couple of days loo
 
 Friday rolled around and I head into Neutral Ground for some last-minute testing and sideboard tuning. I want to say that sideboarding is crucial in this format. As I struggled with how to phrase this paragraph, I realized that this was my relative inexperience with Constructed play speaking. In the past I only played in Constructed formats to showcase a cool deck or bide my time until a Limited season. Now, I am actually trying to have sustained success over the course of a Constructed season. The real importance of a sideboard - and more importantly - a strategy to implement from the sideboard was hitting home for the first time.
 
-![](https://i.ormos.uk/1e/a8/1ea8daa1f3747af31cb1150410b0ac5c9028760f8cef2d55e932ca818f7df995.jpg)Dave Price was shuffling up his monoblack control deck that he was thinking about taking to Worlds and we play a bunch of games before and after sideboarding. I settle on bringing in Envelops and Upheavals - four each - in for Mental Notes and Roars of the Wurm. This seemed to swing the matchup considerably in my favor and I found the session very useful. It seemed even more useful when I started talking to Dave Price outside while he and Mike Short smoked. I told Mike about my desire to play in the Trial and then go to Harrisburg on Sunday and he enthusiastically signed on to drive with me to Harrisburg.
+![](https://i.ormos.uk/1e/a8/1ea8daa1f3747af31cb1150410b0ac5c9028760f8cef2d55e932ca818f7df995.jpg)
+
+Dave Price was shuffling up his monoblack control deck that he was thinking about taking to Worlds and we play a bunch of games before and after sideboarding. I settle on bringing in Envelops and Upheavals - four each - in for Mental Notes and Roars of the Wurm. This seemed to swing the matchup considerably in my favor and I found the session very useful. It seemed even more useful when I started talking to Dave Price outside while he and Mike Short smoked. I told Mike about my desire to play in the Trial and then go to Harrisburg on Sunday and he enthusiastically signed on to drive with me to Harrisburg.
 
 Yay!
 
@@ -852,7 +856,9 @@ I spoke with Justin later that night and informed him of the change in plans and
 
 Too perfect.
 
-![](https://i.ormos.uk/4a/67/4a67249037eb6546940914936d4c311f0323c4a5db6d7768548e30dab4165d97.jpg)I arrived at Neutral Ground that morning to find a better than expected turnout considering the Boston PTQ and the last minute announcement of the Trial. Among the 40 odd players waiting to play were Seth Burn and Adam Rubens. Just like the previous week in Providence, both of them are playing Wonderboys - a deck similar to mine but featuring more mana acceleration with Millikins. We were all discussing sideboard strategy and Adam and I argued for Krosan Reclamation while Seth did not value it as highly. I don't believe Seth was playing Quiet Speculation while Adam featured two or three. I don't run Spec either, but still liked the Reclamation for the Wonder wars. Eventually I settled on running my deck from the previous weekend with the following sideboard: 
+![](https://i.ormos.uk/4a/67/4a67249037eb6546940914936d4c311f0323c4a5db6d7768548e30dab4165d97.jpg)
+
+I arrived at Neutral Ground that morning to find a better than expected turnout considering the Boston PTQ and the last minute announcement of the Trial. Among the 40 odd players waiting to play were Seth Burn and Adam Rubens. Just like the previous week in Providence, both of them are playing Wonderboys - a deck similar to mine but featuring more mana acceleration with Millikins. We were all discussing sideboard strategy and Adam and I argued for Krosan Reclamation while Seth did not value it as highly. I don't believe Seth was playing Quiet Speculation while Adam featured two or three. I don't run Spec either, but still liked the Reclamation for the Wonder wars. Eventually I settled on running my deck from the previous weekend with the following sideboard: 
 
 4 Basking Rootwalla  
  4 Wild Mongrel  
@@ -939,7 +945,9 @@ Brian - 2 Jeremy - 1
 **Game one**  
  Chunk is a Neutral Ground fixture and former JSS-er. His main claim to fame is that he made the finals of the Neutral Ground half of the second Grudge Match against Zvi Mowshowitz. I admire his fearlessness. He will draft against anyone at anytime (providing he has packs, of course) in his pursuit of becoming a better **Magic** player. We have playtested countless matches against each other and were playing very similar decks-let's face it, better than 2/3 of the room were playing similar decks.
 
-![](https://i.ormos.uk/9c/06/9c062cb5ccb011fd191ab432aad39912f70ce5ccb5567bb9f02268f6e3d670c4.jpg)He doesn't seem to get much going in game one and I have him down to eleven with a Wild Mongrel, a Werebear without threshold, two cards in hand, and five land in play. I draw a Breakthrough and do some math. I pitch the other cards in my hand to Wild Mongrel making it a 4/4. I cast Breakthrough for 4 keeping all 4 cards that I drew and pitched them all to Wild Mongrel making my Werebear a 4/4 in the process and killing him that turn.
+![](https://i.ormos.uk/9c/06/9c062cb5ccb011fd191ab432aad39912f70ce5ccb5567bb9f02268f6e3d670c4.jpg)
+
+He doesn't seem to get much going in game one and I have him down to eleven with a Wild Mongrel, a Werebear without threshold, two cards in hand, and five land in play. I draw a Breakthrough and do some math. I pitch the other cards in my hand to Wild Mongrel making it a 4/4. I cast Breakthrough for 4 keeping all 4 cards that I drew and pitched them all to Wild Mongrel making my Werebear a 4/4 in the process and killing him that turn.
 
 Brian - 1 Chunk - 0
 
@@ -957,7 +965,9 @@ Brian - 2 Chunk - 1
 
 ### Round Five: Eric Kesselman playing u-g Standstill
 
-![](https://i.ormos.uk/b4/4c/b44ce2e1885179a8f7d50991de3151c9e6f258dc816b647b9d981f47fca451cc.jpg)Eric and I are 2/3's of Team Monkey Dog. We finished high at last year's Team Pro Tour and are qualified to play again this year in Boston. I asked Eric if he wanted to draw but he was looking to make it into PT-Houston on a ratings invite and a draw was not going to do much to further that goal. At that point I was hot, hungry and tired and wanted to take a break before the Top 8 so I conceded to Eric in order to grab a sandwich. 
+![](https://i.ormos.uk/b4/4c/b44ce2e1885179a8f7d50991de3151c9e6f258dc816b647b9d981f47fca451cc.jpg)
+
+Eric and I are 2/3's of Team Monkey Dog. We finished high at last year's Team Pro Tour and are qualified to play again this year in Boston. I asked Eric if he wanted to draw but he was looking to make it into PT-Houston on a ratings invite and a draw was not going to do much to further that goal. At that point I was hot, hungry and tired and wanted to take a break before the Top 8 so I conceded to Eric in order to grab a sandwich. 
 
 While eating, Eric and I play a couple of test games and he utterly smashes me with Standstill and Aether Burst. We also watched Tim McKenna play at the table next to ours. Tim was playing the same deck as Eric except he was running Quiet Spec over Breakthrough. Tim's opponent was u-b and had just Rancid Earthed Tim's only forest. To make matters worse, Tim's opponent cast a Puppeteer (?) and was attacking for 1 with it every turn. Poor Tim could do nothing but rail against the fates as he watched a game he didn't even want to play (he had asked his last round opponent to drop him) slip away in the most painful way possible.
 

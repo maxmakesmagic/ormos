@@ -268,7 +268,9 @@ The American team was trying to catch up in the standings to the front running F
 
 Gabe was largely kidding. The teams were fairly balanced. Tomi Walamies and Justin Gary have had comparable careers with an edge going to Justin. They were both paired up against the unknown player on the opposing team. Tomi's counterpart in captaining the team was Joshua Wagener. Justin was facing off against Arho Toikka. 
 
-![](http://www.wizards.com/sideboard/images/worlds03/a696.jpg)The most exciting match was the undercard to tomorrow's Top 8 match between Tuomo Nieminen and Gabe Walls. In less than 24 hours they would square off again in a highly debated match-up of Wake vs. Slide.
+![](http://www.wizards.com/sideboard/images/worlds03/a696.jpg)
+
+The most exciting match was the undercard to tomorrow's Top 8 match between Tuomo Nieminen and Gabe Walls. In less than 24 hours they would square off again in a highly debated match-up of Wake vs. Slide.
 
 After a little banter—mostly initiated from the American side of the table—the draft was underway. 
 
@@ -318,7 +320,9 @@ Tuomo's eyes bugged as Tomi insisted that he select Gustcloak Harrier over defen
 
 Justin spanked his pack before he opened it. This was USA's last chance to open any *Onslaught* lovin' and needed some card for his so-so blue-red collection of cards. Justin and Josh were rewarded with solid cards but they crossed their fingers at Gabe indicating a counter draft. They couldn't get on the same page as to Swat vs. Wellwisher but they finally arrived on the cycler and Justin's opponent got the stall generating elf.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a695.jpg)After the first set of packs the decks were starting to take shape. Tomi had the deepest deck at the table; a blue-black number with plenty of flying but no removal. He did have Cabal Executioner and a pair of Haunted Cadavers to help him exploit the Cover of Darkness-if Josh didn't go black as well. Josh was largely green with a few black cards but he could go with the flow in the next pack and take what came his way.
+![](http://www.wizards.com/sideboard/images/worlds03/a695.jpg)
+
+After the first set of packs the decks were starting to take shape. Tomi had the deepest deck at the table; a blue-black number with plenty of flying but no removal. He did have Cabal Executioner and a pair of Haunted Cadavers to help him exploit the Cover of Darkness-if Josh didn't go black as well. Josh was largely green with a few black cards but he could go with the flow in the next pack and take what came his way.
 
 Gabe Walls and Arho Toikka were building up their red-white arsenals for a bizarre mirror match but both of their colors could easily change in the coming packs—nothing was so amazing that they had to dig in their heels.
 

@@ -232,7 +232,9 @@ render_recovery:
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a892.jpg)　先手を選んだ石田は 1 ターン目から《朽ちゆくインプ/Putrid Imp》、《狂犬/Mad Dog》、《墓をこじ開けるもの/Gravegouger》と並べるが、 Comer はこれを《無垢の血/Innocent Blood》、《催眠の悪鬼/Mesmeric Fiend》、《総帥の願望/Patriarch's Desire》と石田より 1 ランク上のカードで全てを対処してくる。
+![](http://www.wizards.com/sideboard/images/ptnice02/a892.jpg)
+
+　先手を選んだ石田は 1 ターン目から《朽ちゆくインプ/Putrid Imp》、《狂犬/Mad Dog》、《墓をこじ開けるもの/Gravegouger》と並べるが、 Comer はこれを《無垢の血/Innocent Blood》、《催眠の悪鬼/Mesmeric Fiend》、《総帥の願望/Patriarch's Desire》と石田より 1 ランク上のカードで全てを対処してくる。
 
 　そこに続けて《クローサの報復者/Krosan Avenger》、《クローサの射手》、《苦痛をもたらす者/Painbringer》と並べ、 Comer の場は万全。
 

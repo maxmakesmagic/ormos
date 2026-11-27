@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/39/1e/391e2799afa7d106eeda2353d328a1ac00088864980083670594966aedfb1edf.jpg)The loudmouth Noah Boeken against a legend from the east. Katsuhiro Mori is Japan´s answer to Wild West cowboys: anyone who ever watched him play says he is way too fast for words. Boeken is no slouch either and his skill and results are the reason he is playing in his fourth Feature Match today.
+![](https://i.ormos.uk/39/1e/391e2799afa7d106eeda2353d328a1ac00088864980083670594966aedfb1edf.jpg)
+
+The loudmouth Noah Boeken against a legend from the east. Katsuhiro Mori is Japan´s answer to Wild West cowboys: anyone who ever watched him play says he is way too fast for words. Boeken is no slouch either and his skill and results are the reason he is playing in his fourth Feature Match today.
 
 This is the money round. The winner gets to play tomorrow while the loser can only hang around complaining about his bad luck.
 
@@ -63,7 +65,9 @@ Katsuhiro reached four mana and dropped [Possessed Centaur](https://web.archive.
 
 He did his best to stop Mori´s monsters but with Seton´s Desire now pumping the remaining squirrel things were looking very grim for the Dutch. A timely [Aether Burst](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst) turned a gang block into a disaster. In a few turns the Dutch was out of creatures and the game was over.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a869.jpg)It was that fast. The round had only started four minutes ago and they were already reaching for the sideboards. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a869.jpg)
+
+It was that fast. The round had only started four minutes ago and they were already reaching for the sideboards. 
 
 Katsuhiro 1-0 Noah.
 
@@ -75,7 +79,9 @@ The Aristocrat got ganged by [Skywing Aven](https://web.archive.org/web/20020503
 
 Flooded in lands Katsuhiro flashbacked Analysis before playing Squirrel´s Nest and Chatter of Squirrels. Boeken couldn´t sneak through on the ground so he played a [Gravedigger](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravedigger) preparing for the long battle.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a870.jpg)The hyperactive Japanese watched as Noah Boeken dropped creature after creature taking to the skies with [Skywing Aven](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skywing+Aven) and hoping to hold back the incoming flood of tokens.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a870.jpg)
+
+The hyperactive Japanese watched as Noah Boeken dropped creature after creature taking to the skies with [Skywing Aven](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skywing+Aven) and hoping to hold back the incoming flood of tokens.
 
 [Ghostly Wings](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghostly+Wings) helped [Gravedigger](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravedigger) joined the flying circus but Mori had a Moment´s Peace to slow things down. On the ground his squirrels now had a massive commander: [Metamorphic Wurm](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metamorphic+Wurm) with Seton´s Desire.
 

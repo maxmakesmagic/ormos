@@ -131,7 +131,9 @@ render_recovery:
   - Unified Strike
   occurrences: 98
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a851.jpg)Table one on day two generally features quite a number of name players. Today was no different, with Kai Budde, Eugene Harvey, Osyp Lebedowicz, Joseph Crosby and Alexander Witt all finding themselves at the top table. Kai was in seat number one, with Eugene behind him in seat two, and followed by Osyp, Stefan Fries, Derek Bruneau, Joseph Crosby, Alexander Witt and Fabio Reinhardt in seat eight.
+![](http://www.wizards.com/sideboard/images/ptchi03/a851.jpg)
+
+Table one on day two generally features quite a number of name players. Today was no different, with Kai Budde, Eugene Harvey, Osyp Lebedowicz, Joseph Crosby and Alexander Witt all finding themselves at the top table. Kai was in seat number one, with Eugene behind him in seat two, and followed by Osyp, Stefan Fries, Derek Bruneau, Joseph Crosby, Alexander Witt and Fabio Reinhardt in seat eight.
 
 From the first booster, Kai got a Lavamancer's Skill, signaling a preference for U-R. Eugene picked up a Wirewood Savage, looking to go B-G behind Kai, and Osyp took a Mistform Dreamer. Stefan took a Barkhide Mauler, Derek a Swat, Joseph a Foothill Guide signaling he wanted the white, and Alex took an aggressive pick by taking a Riptide Biologist – signaling he was willing to be the third blue mage on the table. Fabio wheeled a Headhunter and an Aphetto Dredging to show he was going to be black. 
 

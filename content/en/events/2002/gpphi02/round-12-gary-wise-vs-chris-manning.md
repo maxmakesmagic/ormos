@@ -128,7 +128,9 @@ render_recovery:
   - Trickery Charm
   occurrences: 101
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a884.jpg)"Every person here is rooting against you, Gary!"
+![](http://www.wizards.com/sideboard/images/gpphi02/a884.jpg)
+
+"Every person here is rooting against you, Gary!"
 
 As I sat to cover this match, this was the first thing I heard. Gary looked shocked for a second, but then quickly surveyed his surroundings and grinned.
 
@@ -148,7 +150,9 @@ First Gary mulliganed, and the Chris did the same.
 
 Gary: "This match is going to take longer to start than any other in history."
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a886.jpg)Each player kept their six card hands. Chris led his first few turns with elves, elves, and elves. Wellwisher, Birchlore Rangers, Taunting Elf, and Wirewood Elf all came into play by turn three. Meanwhile, Gary started out without one of his multiple Sparkcasters which would wreck Chris, and had to settle for a Gustcloak Courier and one of his three Daru Cavaliers. The Wellwisher kept the game as a wash while Gary played Cavalier after Cavalier from his deck.
+![](http://www.wizards.com/sideboard/images/gpphi02/a886.jpg)
+
+Each player kept their six card hands. Chris led his first few turns with elves, elves, and elves. Wellwisher, Birchlore Rangers, Taunting Elf, and Wirewood Elf all came into play by turn three. Meanwhile, Gary started out without one of his multiple Sparkcasters which would wreck Chris, and had to settle for a Gustcloak Courier and one of his three Daru Cavaliers. The Wellwisher kept the game as a wash while Gary played Cavalier after Cavalier from his deck.
 
 Wise dropped the hefty Tephraderm, while Manning had a morph creature. It turned out to be a Broodhatch Nantuko, which became four insects after it blocked the 4/5 beast. Gary finally played one of his Sparksmiths, and looked ready to absolutely dominate the game.
 
@@ -162,7 +166,9 @@ Chris Manning 1 – Gary Wise 0
 
 Chris couldn't believe he won the first game—he was visibly shaking while sideboarding for Game 2. He requested Islands for his deck (to side in Choking Tethers), which resulted in a warning for taking excessive time to sideboard. 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a885.jpg)Game 2 went much like the first, with Chris leading with multiple elves early. This time however, Gary played a turn two Sparksmith, which proceeded to take apart Manning's early team one by one. First Birchlore Ranger died. Gary attempted to shoot Wellwisher, but it survived due to a Wirewood Pride. Having no more of these shenanigans, Gary played a Goblin Sledder and started doing two to each of the Elves. Although Gary brought himself to only eight life over the course of the game with the Sparksmith, Manning couldn't keep any creatures on the board, and lost to a hoard of Cavaliers.
+![](http://www.wizards.com/sideboard/images/gpphi02/a885.jpg)
+
+Game 2 went much like the first, with Chris leading with multiple elves early. This time however, Gary played a turn two Sparksmith, which proceeded to take apart Manning's early team one by one. First Birchlore Ranger died. Gary attempted to shoot Wellwisher, but it survived due to a Wirewood Pride. Having no more of these shenanigans, Gary played a Goblin Sledder and started doing two to each of the Elves. Although Gary brought himself to only eight life over the course of the game with the Sparksmith, Manning couldn't keep any creatures on the board, and lost to a hoard of Cavaliers.
 
 Chris Manning 1 – Gary Wise 1
 

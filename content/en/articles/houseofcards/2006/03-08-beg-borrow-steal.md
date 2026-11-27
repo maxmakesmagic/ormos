@@ -719,7 +719,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/a2/0c/a20c3b17daad0be6646081be4461bfc0a3ca8fc8ea62df782460e243d3f08f3c.jpg)Welcome ladies, gentlemen, germs, and Johnnies! It's a non-theme week here at **magicthegathering.com**, and we all know what that means: Knock Knock jokes! 
+![](https://i.ormos.uk/a2/0c/a20c3b17daad0be6646081be4461bfc0a3ca8fc8ea62df782460e243d3f08f3c.jpg)
+
+Welcome ladies, gentlemen, germs, and Johnnies! It's a non-theme week here at **magicthegathering.com**, and we all know what that means: Knock Knock jokes! 
 
 Here's one I just wrote:
 

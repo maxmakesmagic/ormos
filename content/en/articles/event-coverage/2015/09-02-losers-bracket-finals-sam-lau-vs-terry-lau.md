@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Forrest Evans*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/LBFlaus.jpg)This matchup featured Terry Lau of Richmond, BC, against Sam Lau of Scarborough, Ontario, playing for a slot on the Canadian national team. These two players seemed very relaxed as they sat down for what was sure to be an interesting match of Sam's Accelerated Blue deck , against Terry's monoblue Tinker variant. This matchup seemed to be about which player got to play his game: either Terry would run over Sam with fast mana, or Sam would be able to counter key spells and ride Morphling to victory.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/LBFlaus.jpg)
+
+This matchup featured Terry Lau of Richmond, BC, against Sam Lau of Scarborough, Ontario, playing for a slot on the Canadian national team. These two players seemed very relaxed as they sat down for what was sure to be an interesting match of Sam's Accelerated Blue deck , against Terry's monoblue Tinker variant. This matchup seemed to be about which player got to play his game: either Terry would run over Sam with fast mana, or Sam would be able to counter key spells and ride Morphling to victory.
 
 ### Game 1
 
@@ -68,7 +70,9 @@ Terry Lau - 1 Sam Lau - 2
 
 ### Game 4
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/LBFsamlau.jpg)Sam Annulled a Grim Monolith and countered a Tangle Wire, but Terry still forced out a Defense Grid and another Tangle Wire. Shortly afterwards, Terry played a Helix, and it looked like Sam was going to lose. After Terry tinkered for a Phyrexian Processor and paid ten life, no one in the room felt Sam had more than a remote chance of surviving. But then Terry made a mistake, and when Terry went to untap a Dynamo with Voltaic Key so he could make a 10/10, Sam used his Powder Keg to destroy the Processor and Dynamo in response. This was devastating to Terry, as his main route to victory condition was gone, and now Sam was getting enough land to play around the Helix. He got out a Stronghold Machinist, and even though Terry still had control, he could not produce a threat. Seal of Removal and Grim Monolith came into play soon after, and Terry was in big trouble. In an attempt to delay the inevitable, he Tinkered for another Tangle Wire, but it didn't stop Sam from playing the Morphling in his hand, and Terry conceded with no way to deal with the Morph. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/LBFsamlau.jpg)
+
+Sam Annulled a Grim Monolith and countered a Tangle Wire, but Terry still forced out a Defense Grid and another Tangle Wire. Shortly afterwards, Terry played a Helix, and it looked like Sam was going to lose. After Terry tinkered for a Phyrexian Processor and paid ten life, no one in the room felt Sam had more than a remote chance of surviving. But then Terry made a mistake, and when Terry went to untap a Dynamo with Voltaic Key so he could make a 10/10, Sam used his Powder Keg to destroy the Processor and Dynamo in response. This was devastating to Terry, as his main route to victory condition was gone, and now Sam was getting enough land to play around the Helix. He got out a Stronghold Machinist, and even though Terry still had control, he could not produce a threat. Seal of Removal and Grim Monolith came into play soon after, and Terry was in big trouble. In an attempt to delay the inevitable, he Tinkered for another Tangle Wire, but it didn't stop Sam from playing the Morphling in his hand, and Terry conceded with no way to deal with the Morph. 
 
 Terry Lau - 1 Sam Lau - 3
 

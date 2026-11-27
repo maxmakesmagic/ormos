@@ -59,7 +59,9 @@ Ondrej Baudrys def. Trruc Bui, 2-0
 
 David Bachmann (USA) vs. Olle Råde (Sweden)
 
-![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/FriRadeBachmann.jpg)The two young and talented players met in the last round of the first draft. Bachmann was 2-1 with his heavy black deck with a splash of white, while Råde had managed to go 2-0-1 with his blue and green deck.
+![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/FriRadeBachmann.jpg)
+
+The two young and talented players met in the last round of the first draft. Bachmann was 2-1 with his heavy black deck with a splash of white, while Råde had managed to go 2-0-1 with his blue and green deck.
 
 Råde won the die roll, and chose to play. He summoned a second turn Albino Troll, while Bachmann played swamps and cycled. Bachmann cast a Looming Shade, a dangerous creatures when you play heavy black, but Råde had a Hermetic Study and enchanted his Troll to kill the Shade.
 

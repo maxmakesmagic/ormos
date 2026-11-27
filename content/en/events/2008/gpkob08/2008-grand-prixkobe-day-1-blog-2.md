@@ -1536,7 +1536,9 @@ Genki Taru defeats Ryouma Shiozu 2-0
 
     *By Tim Willoughby*
 
-![](http://www.wizards.com/sideboard/images/gpkob08/R7.jpg)I remember when there were just the basics. Fire Elemental, Earth Elemental, Air Elemental and Water Elemental. Somewhere along the line, things got a little more complicated. For round 7 we saw two different flavours of Elemental deck face off in a fight to be undefeated after 7 rounds. 
+![](http://www.wizards.com/sideboard/images/gpkob08/R7.jpg)
+
+I remember when there were just the basics. Fire Elemental, Earth Elemental, Air Elemental and Water Elemental. Somewhere along the line, things got a little more complicated. For round 7 we saw two different flavours of Elemental deck face off in a fight to be undefeated after 7 rounds. 
 
 Both Kazuya Mitamura and Shingo Kurihara have both got experience of a Pro Tour Sunday (in fact Mitamura made top 8 in both Charleston and Yokohama – both block constucted), and Kurihara felt that for this match, his opponent might have a substantial advantage.
 
@@ -1546,7 +1548,9 @@ As it turns out though, Mitamura was less lucky when it came to his opening hand
 
 This mana producer was soon replaced with another, in the form of Bloom Tender. After a little thought, Mitamura played a Fulminator Mage, and used it to destroy a Vivid land on Kurihara’s side of the board. Kurihara evoked a Mulldrifter and attacked for one. 
 
-![](http://www.wizards.com/sideboard/images/gpkob08/R7Kurihara.jpg)Mitamura struck back with Makeshift Mannequin on Fulminator Mage, using it to take out another Vivid land, leaving a Primal Beyond, Fetid Heath and Fire-Lit Thicket for Shingo. Kurihara’s mana was abundant, but a little awkward, and he played another Primal Beyond, before playing Chameleon Colossus. 
+![](http://www.wizards.com/sideboard/images/gpkob08/R7Kurihara.jpg)
+
+Mitamura struck back with Makeshift Mannequin on Fulminator Mage, using it to take out another Vivid land, leaving a Primal Beyond, Fetid Heath and Fire-Lit Thicket for Shingo. Kurihara’s mana was abundant, but a little awkward, and he played another Primal Beyond, before playing Chameleon Colossus. 
 
 Mitamura had Firespout to kill off Bloom Tender, but no way of dealing with the Colossus. Shingo was now in a strange position of barely being able to produce any mana for non-elemental spells, and after beating in with his Chameleon Colossus, he had to stare on as Horde of Notions came down for his opponent, and take the beats.
 
@@ -1558,7 +1562,9 @@ Both players started Game 2 with Primal Beyond, and while Mitamura followed with
 
 Nameless Inversion, Horde of Notions, Fulminator Mage, Mulldrifter, Makeshift Mannequin, Crib Swap
 
-![](https://i.ormos.uk/7c/ee/7cee1bcb1a660beeecb4906ed075389de50da621f080c8fd63d4a0fa0fff0391.jpg)He took the Mulldrifter. Mitamura seemed a little short on lands, which Kurihara capitalised on with a Puppeteer Clique to ensure that the Mulldrifter wouldn’t be coming back thanks to a Makeshift Mannequin at an inopportune moment. With a pair of Reflecting Pools alongside his Primal Beyonds, Kurihara’s mana was excellent, and helped still further by a Bloom Tender. 
+![](https://i.ormos.uk/7c/ee/7cee1bcb1a660beeecb4906ed075389de50da621f080c8fd63d4a0fa0fff0391.jpg)
+
+He took the Mulldrifter. Mitamura seemed a little short on lands, which Kurihara capitalised on with a Puppeteer Clique to ensure that the Mulldrifter wouldn’t be coming back thanks to a Makeshift Mannequin at an inopportune moment. With a pair of Reflecting Pools alongside his Primal Beyonds, Kurihara’s mana was excellent, and helped still further by a Bloom Tender. 
 
 Mitamura used that Crib Swap on Puppeteer Clique, and evoked Shriekmaw to kill Bloom Tender. before passing. Fortunately for him though, it seemed that Kurihara’s tank was running low too, as he had just a Smokebraider before he passed the turn. A Horde of Notions from Mitamura looked strong at this point, but Kurihara had a Crib Swap before the legend could get out of hand.
 
@@ -1604,7 +1610,9 @@ Ryuuichi Arita defeats Genki Taru
 
     *By Tim Willoughby*
 
-![](http://www.wizards.com/sideboard/images/gpkob08/GP%20KOBE%202008%20015.jpg)So far in the tournament, we have, on the coverage team, perhaps been a little hard on Faeries. The dominant deck from Standard, and a powerful choice for block, we have rather shied away from covering a lot of Faeries decks, when there are a variety of Japanese innovations being played at the top tables. Make no mistake, of the undefeated decks on day 1, you will see *at least* one Faeries deck. 
+![](http://www.wizards.com/sideboard/images/gpkob08/GP%20KOBE%202008%20015.jpg)
+
+So far in the tournament, we have, on the coverage team, perhaps been a little hard on Faeries. The dominant deck from Standard, and a powerful choice for block, we have rather shied away from covering a lot of Faeries decks, when there are a variety of Japanese innovations being played at the top tables. Make no mistake, of the undefeated decks on day 1, you will see *at least* one Faeries deck. 
 
 This round we address that. Yuuta Takahashi has been playing Faeries with great success this year. He won GP Shizuoka in a tense final against Olivier Ruel with them, and has continued to show all season that his finals finish at the two-headed giant Pro Tour in San Diego was no fluke. 
 
@@ -1640,7 +1648,9 @@ When he drew a land for his turn, Takahashi scooped up his cards. This was one m
 
 Yuuta Takahashi 1 – 1 Kazuya Hirabayashi
 
-![](https://i.ormos.uk/5b/77/5b77e425b3e3b908480549285cda63c6a2bb3a5176979ff1c3b1d52b3f0297cb.jpg)The decider would not be a game that either player would enter with a full hand of seven cards. A mulligan from Takahashi was quickly followed by the same from Hirabayashi. There was a turn one Thoughtseize from Takahashi, which revealed 3 lands, Spellstutter Sprite, Scion of Oona and Sower of Temptation. The Sower was deemed to be worth getting rid of and hit the graveyard without ever getting close to play. 
+![](https://i.ormos.uk/5b/77/5b77e425b3e3b908480549285cda63c6a2bb3a5176979ff1c3b1d52b3f0297cb.jpg)
+
+The decider would not be a game that either player would enter with a full hand of seven cards. A mulligan from Takahashi was quickly followed by the same from Hirabayashi. There was a turn one Thoughtseize from Takahashi, which revealed 3 lands, Spellstutter Sprite, Scion of Oona and Sower of Temptation. The Sower was deemed to be worth getting rid of and hit the graveyard without ever getting close to play. 
 
 After a turn or two a draw-go, a Thoughtseize came from Hirabayashi, taking Cryptic Command over Peppersmoke and Nameless Inversion. Takahashi topdecked a Bitterblossom immediately after, but angrily threw it away when he found that Hirabayashi had been holding onto a Cryptic Command since the early Thoughtseize. 
 
@@ -1665,6 +1675,8 @@ Yuuta Takahashi defeats Kazuya Hirabayashi 2 - 1!
 
     *By Ray “blisterguy” Walkinshaw*
 
-![](https://i.ormos.uk/63/df/63df6b087021aa17e2a2cd2021a4a80a454aefb65c2c89ce76fbc43d5a325ee9.jpg)While some names have already dropped off the standings, I figure it’s worth making a note here that many well-known players are still fighting it out in the last round of day one, looking for the huge success, that triumph that will push them towards the top 8. Or at least a few more Pro Points. With only one loss to their name so far, the most well known player would be Shuuhei Nakamura, joined by Ryuuichi Arita, Kazuya Hirabayahi, Ryouma Shiozu and Ren Ishikawa all looking to close in on Shingou Kurihara, who was undefeated at the start of this round. 
+![](https://i.ormos.uk/63/df/63df6b087021aa17e2a2cd2021a4a80a454aefb65c2c89ce76fbc43d5a325ee9.jpg)
+
+While some names have already dropped off the standings, I figure it’s worth making a note here that many well-known players are still fighting it out in the last round of day one, looking for the huge success, that triumph that will push them towards the top 8. Or at least a few more Pro Points. With only one loss to their name so far, the most well known player would be Shuuhei Nakamura, joined by Ryuuichi Arita, Kazuya Hirabayahi, Ryouma Shiozu and Ren Ishikawa all looking to close in on Shingou Kurihara, who was undefeated at the start of this round. 
 
 With two losses we have Akira Asahara, Shuu Komuro, Yuuya Watanabe, Makihito Mihara and the gentlemen’s gentleman, Masashiro Kuroda. Fighting near or on the bubble is Tsuyoshi Fujita, Tomoharu Saito and Tiago Chan, hoping to squeak into day two. The cake is a lie.

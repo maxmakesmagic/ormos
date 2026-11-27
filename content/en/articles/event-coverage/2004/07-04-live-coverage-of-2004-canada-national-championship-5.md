@@ -44,7 +44,9 @@ archive_source:
   sha256: 09831ad1c26928191a9ec6cff2d480c24c62ecf7dd69388596966ff2efeeb766
 render_recovery: []
 ---
-![](https://i.ormos.uk/0d/1a/0d1ac30f12b05be027efdaaf0ed8c56371f884ee6500ffeefac346592654bc71.jpg)Felix Tse is a PTQ circuit player from Ottawa. He has win his way to compete in Kobe and Amsterdam He did poorly in Amsterdam and did not go to Kobe. He finds it very difficult to playtest due to a shallow player pool of competitive players in Ottawa and saved the $2,000 he would have had to spend for a ticket. He qualified for this tournament on the back of his DCI rating and worked with one of Ottowa's better players, Shawn Davies, to hone his unusual looking [Tooth and Nail](https://web.archive.org/web/20040704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) build.
+![](https://i.ormos.uk/0d/1a/0d1ac30f12b05be027efdaaf0ed8c56371f884ee6500ffeefac346592654bc71.jpg)
+
+Felix Tse is a PTQ circuit player from Ottawa. He has win his way to compete in Kobe and Amsterdam He did poorly in Amsterdam and did not go to Kobe. He finds it very difficult to playtest due to a shallow player pool of competitive players in Ottawa and saved the $2,000 he would have had to spend for a ticket. He qualified for this tournament on the back of his DCI rating and worked with one of Ottowa's better players, Shawn Davies, to hone his unusual looking [Tooth and Nail](https://web.archive.org/web/20040704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) build.
 
 Mike Thicke faces similar challenges in Vancouver although as the community editor for brainburst.com he is in touch with players all over the world and has a unique vantage from which to view the metagame. He worked with his friends and they came up with a blue-red [Obliterate](https://web.archive.org/web/20040704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Obliterate) deck that they were not entirely happy with because it was having trouble beating [Tooth and Nail](https://web.archive.org/web/20040704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail). 
 

@@ -84,7 +84,9 @@ render_recovery:
   - Arcanis
   occurrences: 48
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a705.jpg)Rookie of the Year leader Masashi Ooiso drafted textbook U/R control in his first Top 8 – but by the looks of his run this tournament and this season so far, one cannot suspect that it won't be his last. His quarterfinal opponent Jose Barbero has more top-level experience under his belt, twice playing on the Argentinean National team, but looks to be the clear underdog in this matchup. His U/B deck is far from what one hopes to draft, and he has only Skinthinner and Smother to deal with Ooiso's pair of Lavamancer's Skills.
+![](http://www.wizards.com/sideboard/images/ptyok03/a705.jpg)
+
+Rookie of the Year leader Masashi Ooiso drafted textbook U/R control in his first Top 8 – but by the looks of his run this tournament and this season so far, one cannot suspect that it won't be his last. His quarterfinal opponent Jose Barbero has more top-level experience under his belt, twice playing on the Argentinean National team, but looks to be the clear underdog in this matchup. His U/B deck is far from what one hopes to draft, and he has only Skinthinner and Smother to deal with Ooiso's pair of Lavamancer's Skills.
 
 ### Game 1
 
@@ -100,7 +102,9 @@ Ooiso 1 Barbero 0
 
 If Game 1 was frustrating for Barbero, Game 2 was downright demoralizing. Once again Ooiso opened with Sledder and Alchemist, and once again Barbero dropped a morph. This time, however, it was not Embermage Goblin that combo'd with the Alchemist, but rather Lavamancer's Skill. Ooiso offed the morph and Barbero could do nothing but look dejectedly at a hand of two toughness creatures and pass the turn.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a714.jpg)He cycled a pair of Choking Tethers looking for an answer as Ooiso put him on a clock by adding a morph to the table. That clock quickened when the morph turned out to be Ascending Aven. Barbero finally found a Smother to kill the Alchemist when the Aven was turned face up, but when Ooiso added Covert Operative to the board, Barbero realized he was too far behind and scooped up his cards.
+![](http://www.wizards.com/sideboard/images/ptyok03/a714.jpg)
+
+He cycled a pair of Choking Tethers looking for an answer as Ooiso put him on a clock by adding a morph to the table. That clock quickened when the morph turned out to be Ascending Aven. Barbero finally found a Smother to kill the Alchemist when the Aven was turned face up, but when Ooiso added Covert Operative to the board, Barbero realized he was too far behind and scooped up his cards.
 
 Ooiso 2 Barbero 0 
 

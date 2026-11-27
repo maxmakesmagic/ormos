@@ -77,13 +77,17 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj04/garza.jpg)It was only a few months ago that if you found yourself facing Jeff Garza you might have used the term “some kid” to describe your opponent. After this weekend I don't know if there is anyone who can use that term without a subtle shift of emphasis and not a just a little awe considering what he has accomplished this summer. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj04/garza.jpg)
+
+It was only a few months ago that if you found yourself facing Jeff Garza you might have used the term “some kid” to describe your opponent. After this weekend I don't know if there is anyone who can use that term without a subtle shift of emphasis and not a just a little awe considering what he has accomplished this summer. 
 
 After looking like a lock for the Top 8 of the JSS Championships in 2003, Garza had a couple of disastrous final rounds and ended up placing in 31st, which was good for $1,000 but far shy of what he had expected after he was in seventh place after round seven of the Swiss. 
 
 He came back to the JSS Championships in 2004 for his final year of eligibility and looked to finish the job he had started the season before. He piloted his mono-green Tooth and Nail deck to emerge as the top finisher this year after sixteen rounds. Unlike previous years, the tournament was run as a straight Swiss affair with no elimination rounds. Jeff posted a 13-2-1 record and had things locked up a round before the tournament came to an official conclusion. There was a clean break in point totals between first and second as Kyle Goodman had a 13-3-0 record giving him 39 points to Jeff's 40. (By the way, keep an eye out for young Kyle Goodman who posted back to back Top 8s in the Championships!)
 
-![](https://i.ormos.uk/25/7c/257ce9f146dfd5d76d7a3e98126d9d20413e47fcbecb69eade72ef03e1e310c6.jpg)Jeff not only shrugged the monkey of last year off of his back but earned a cool $20,000 in scholarship money for his efforts. He also had to face the prospect of going from tournament champion to ‘some kid' at a PTQ. He didn't waste any time. His first major tournament in the big leagues was Grand Prix Orlando. If you scan the final standings you don't need to go very far to find his name. He finished in seventh place losing in the quarterfinals to eventual finalist Michael Kuhman in a Big Red mirror match.
+![](https://i.ormos.uk/25/7c/257ce9f146dfd5d76d7a3e98126d9d20413e47fcbecb69eade72ef03e1e310c6.jpg)
+
+Jeff not only shrugged the monkey of last year off of his back but earned a cool $20,000 in scholarship money for his efforts. He also had to face the prospect of going from tournament champion to ‘some kid' at a PTQ. He didn't waste any time. His first major tournament in the big leagues was Grand Prix Orlando. If you scan the final standings you don't need to go very far to find his name. He finished in seventh place losing in the quarterfinals to eventual finalist Michael Kuhman in a Big Red mirror match.
 
 Along the way young Jeff dispatched some big name talent to secure his playoff berth. He took down Craig Krempels and Brock Parker in back to back rounds on his way to qualifying for the Pro Tour right out of the gate. In addition to the $800 prize for Top 8 he also took home an extra $700 for being the third highest finishing Amateur in the event. It was an impressive showing in hindsight but with four amateurs placing in the Top 8 it was easy to overlook his finish. Let us not forget that Osyp winning a tournament can also distract attention away from other happenings. 
 
@@ -101,7 +105,9 @@ Jeff used to be a New Jersey resident and patron of TOGIT but when his family mo
 
 “Tom Shea, the owner of TJ Collectibles, helped me out in those areas, as did some of the higher level players (mostly by being arrogant and obnoxious and waaay overly confident, but thanks guys). Tom has always been helpful towards me, whether giving me cards, a ride to a tourney, or just a place to test at and draft, so wearing a shirt that promotes the store I play at so often is the least I can do.”
 
-![](https://i.ormos.uk/b8/48/b848373e0f26905547da473c1059cf897d52553633c44eef81da9508c3405e5a.jpg)Once he made the Top 8 Jeff found himself entering what had to be the most difficult gauntlet in his young career—and it was all Affinity all the time. First up was Adam Horvath, followed by Pro Tour Seattle winner Jeroen Remie. Jeroen handed Jeff one of his only two losses in the Swiss but Jeff got him back when it really counted. His final opponent was not going to be much easier but Jeff managed to take down nine time Grand Prix Top 8 competitor Brian Kibler in two games thanks in part to Kibler mulliganing three times in the two games. 
+![](https://i.ormos.uk/b8/48/b848373e0f26905547da473c1059cf897d52553633c44eef81da9508c3405e5a.jpg)
+
+Once he made the Top 8 Jeff found himself entering what had to be the most difficult gauntlet in his young career—and it was all Affinity all the time. First up was Adam Horvath, followed by Pro Tour Seattle winner Jeroen Remie. Jeroen handed Jeff one of his only two losses in the Swiss but Jeff got him back when it really counted. His final opponent was not going to be much easier but Jeff managed to take down nine time Grand Prix Top 8 competitor Brian Kibler in two games thanks in part to Kibler mulliganing three times in the two games. 
 
 You need a little luck to win any tournament but there is no denying that Jeff has been on a tremendous tear since June and the JSS Championships. It will be exciting to follow his career as he takes the next step up to the Pro level in Columbus. “I really don't expect anything for my first tour yet, I know it's going to be the toughest tourney I've ever played in, but I feel like I can perform well if I understand the format. I've never played much Extended, but I have some friends who are qualified for the tour, as well as some acquaintances on the train who will hopefully be willing to help me out. School is going to be a concern, but pretty much the only Magic I plan on playing is going to be Extended.”
 
@@ -111,7 +117,9 @@ He is *some* kid.
 
 While Jeff gears himself up for the new Pro Tour season and his run at the Rookie of the Year race, this year's race took on a new shape with the presence of dozens of European Pros at Grand Prix New Jersey. It is rare to see the likes of Kai Budde, Gabriel Nassif, and Olivier Ruel at a North American GP, but when you look at the summer convention schedule it makes some sense. Next weekend is Gen Con Indy and two weekends after that is the **Magic** World Championships in San Francisco. Three out of four weeks of gaming makes for the perfect European holiday.
 
-![](https://i.ormos.uk/c1/bc/c1bc93fcdd62b69fa812e85c9c3c0325779610b63c27ba7540e7924b6626f462.jpg)Among the European Pros in attendance was Alexandre Peset—one of the front-runners in this year's race for the Rookie crown. Alexandre played a deck similar to Jeff Garza's. Not surprising since he is teammates with Gabriel Nassif on the French National team for Worlds. Alexandre placed in the Top 8 of the GP and earned himself three points toward the Rookie title. This allowed him to pull out of his tie with Japanese player Kazumasa Shiki and gave him a little bit of wiggle room going into Worlds.
+![](https://i.ormos.uk/c1/bc/c1bc93fcdd62b69fa812e85c9c3c0325779610b63c27ba7540e7924b6626f462.jpg)
+
+Among the European Pros in attendance was Alexandre Peset—one of the front-runners in this year's race for the Rookie crown. Alexandre played a deck similar to Jeff Garza's. Not surprising since he is teammates with Gabriel Nassif on the French National team for Worlds. Alexandre placed in the Top 8 of the GP and earned himself three points toward the Rookie title. This allowed him to pull out of his tie with Japanese player Kazumasa Shiki and gave him a little bit of wiggle room going into Worlds.
 
 There is also a Japanese Grand Prix the weekend before Worlds and both Shiki and Tomohiro Kaji are vying to wrest the lead from Peset so the extra points may prove to be crucial. All three players are qualified for this year's Worlds although Peset has the advantage of being a member of the French National team which can earn him up to another six points depending on whether or not his team—a clear favorite to do so—can win the Team Challenge. 
 
@@ -179,7 +187,9 @@ And then I suddenly finished third. I think the deck is still really good. I loo
 
 ### Spotlight on German and Belgium PTQ results
 
-![](https://i.ormos.uk/b3/44/b3446d1b0bcd163fe6e968196943fc2ce193788f483543311c258b4073f4b72a.jpg)While the largest North American Grand Prix was taking place in New Jersey the largest constructed PTQ ever to be held in Germany was also taking place. Level three judge Justus Rönnau sent me the results for that event and the tournament held in Belgium that same weekend. 
+![](https://i.ormos.uk/b3/44/b3446d1b0bcd163fe6e968196943fc2ce193788f483543311c258b4073f4b72a.jpg)
+
+While the largest North American Grand Prix was taking place in New Jersey the largest constructed PTQ ever to be held in Germany was also taking place. Level three judge Justus Rönnau sent me the results for that event and the tournament held in Belgium that same weekend. 
 
 First up was the 137 player event that was held in Bremen, Germany. It was a two-slot qualifier, which came as a surprise to me. I didn't know they still ran any multiple slot QTs other than Grand Prix tournaments. Apparently all the German tournaments are two-slotters and the two players did not play out the finals after a grueling eight rounds of Swiss and two rounds of elimination. 
 

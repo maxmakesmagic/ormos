@@ -44,7 +44,9 @@ archive_source:
   sha256: 10f15b752a0683bda2b595d29eaa01e2a41c3d0518f96a1932598f09629eec6d
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm1_1.jpg)Reigning World Champion Daniel Zink sat down to his first round match against dragonmaster Brian Kibler (snug in his custom Battle School hoodie) under the watchful gaze of Zink's uncannily identical brother Sebastian. Both he and Kibler had drafted white, but Kibler's deck was predominantly green, while Zink went into red.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm1_1.jpg)
+
+Reigning World Champion Daniel Zink sat down to his first round match against dragonmaster Brian Kibler (snug in his custom Battle School hoodie) under the watchful gaze of Zink's uncannily identical brother Sebastian. Both he and Kibler had drafted white, but Kibler's deck was predominantly green, while Zink went into red.
 
 Kibler kicked things off with an [Auriok Transfixer](https://web.archive.org/web/20040116000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Auriok+Transfixer) that was ambushed by Zink's [Raise the Alarm](https://web.archive.org/web/20040116000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raise+the+Alarm). Zink then [Shatter](https://web.archive.org/web/20040116000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shatter)ed Kibler's [Gold Myr](https://web.archive.org/web/20040116000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gold+Myr) and swung in with a hasty [Vulshok Berserker](https://web.archive.org/web/20040116000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vulshok+Berserker). Kibler's [Viridian Joiner](https://web.archive.org/web/20040116000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Viridian+Joiner) let him speed into a [Fangren Hunter](https://web.archive.org/web/20040116000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fangren+Hunter), stopping Zink's assault.
 

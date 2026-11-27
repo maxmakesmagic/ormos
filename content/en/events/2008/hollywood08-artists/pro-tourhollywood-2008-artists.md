@@ -55,7 +55,9 @@ render_recovery: []
 ---
 ### rk post
 
-![](https://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/2008/pthollywood_rkpost.jpg)Just prior to graduation from Northern Illinois University in 1994, rk post started freelancing the fantasy gaming industry doing interior illustration for several major game companies, gradually teaching himself how to paint with acrylics and eventually oils. 
+![](https://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/2008/pthollywood_rkpost.jpg)
+
+Just prior to graduation from Northern Illinois University in 1994, rk post started freelancing the fantasy gaming industry doing interior illustration for several major game companies, gradually teaching himself how to paint with acrylics and eventually oils. 
 
 rk garnered a staff illustration position at TSR (a company purchased by Wizards of the Coast soon after) in the fall of 1996 painting cover illustrations for games and novels. WotC and rk parted company in the winter of 2000 and now he doubles as a full-time freelance illustrator still contracting assignments. He currently works full time as a senior environmental artist for Sony Online Entertainment on an MMO, The Agency.
 
@@ -67,7 +69,9 @@ rk post has his collected works available in a hard cover art book, Postmortem: 
 
 ### Rob Alexander
 
-![](https://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/2008/pthollywood_alexander.jpg)Rob Alexander is a Canadian-born artist who has spent the past 16 years working primarily in the publishing and gaming industries. He has recently written and illustrated two books, “Welcome to My Worlds”, a collection of his work released by Paper Tiger, and “Drawing and Painting Fantasy Landscapes and Cityscapes”, an educational book from Quarto / Barron’s. He has also done conceptual world design work for the likes of Sony, Microsoft, Hasbro, Nickleodeon and Warner Bros.
+![](https://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/2008/pthollywood_alexander.jpg)
+
+Rob Alexander is a Canadian-born artist who has spent the past 16 years working primarily in the publishing and gaming industries. He has recently written and illustrated two books, “Welcome to My Worlds”, a collection of his work released by Paper Tiger, and “Drawing and Painting Fantasy Landscapes and Cityscapes”, an educational book from Quarto / Barron’s. He has also done conceptual world design work for the likes of Sony, Microsoft, Hasbro, Nickleodeon and Warner Bros.
 
 An artist for the popular trading card game **Magic: The Gathering** since its inception, he has been a conceptual designer as well for the past several releases, in addition to working on 10 other card games, including 45 pieces for the Lord of the Rings card game from Iron Crown Enterprises. 
 

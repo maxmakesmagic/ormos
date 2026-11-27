@@ -240,7 +240,9 @@ Pour plus de questions de règles et leurs réponses, consultez la FAQ du *Pacte
 
 ### Frappez, rincez, répétez
 
-![](https://i.ormos.uk/1b/a9/1ba90ef44e04ca54c33719783131fb589b5f81d1a7f520236caa6d6b38a327ff.jpg)Avant de se concentrer sur la Ronéofabrication en détails, j'aimerai parler de la duplication en tant que stratégie générale. La duplication est le « mot-clé » de la guilde d'Izzet (![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)![Red Mana](https://i.ormos.uk/86/2f/862ffc3d21299d18f0315a3f77721a10737fb394e147b0987204ef0496ce1060.gif)), ce qui veut dire que vous trouverez surtout des cartes avec cette capacité dans le *Pacte des Guildes*. (Vous y verrez aussi un peu de technologie de duplication, hum, *lumineuse*.) 
+![](https://i.ormos.uk/1b/a9/1ba90ef44e04ca54c33719783131fb589b5f81d1a7f520236caa6d6b38a327ff.jpg)
+
+Avant de se concentrer sur la Ronéofabrication en détails, j'aimerai parler de la duplication en tant que stratégie générale. La duplication est le « mot-clé » de la guilde d'Izzet (![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)![Red Mana](https://i.ormos.uk/86/2f/862ffc3d21299d18f0315a3f77721a10737fb394e147b0987204ef0496ce1060.gif)), ce qui veut dire que vous trouverez surtout des cartes avec cette capacité dans le *Pacte des Guildes*. (Vous y verrez aussi un peu de technologie de duplication, hum, *lumineuse*.) 
 
 Je crois que la plupart des lecteurs seront immédiatement d'accord avec moi. *Un bon point pour la guilde ![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)![Red Mana](https://i.ormos.uk/86/2f/862ffc3d21299d18f0315a3f77721a10737fb394e147b0987204ef0496ce1060.gif). La duplication est fantastique en jeu multijoueurs*. Quand et à chaque fois que vous en avez la possibilité, vous devriez expérimenter la duplication dans vos parties en groupes. Qu'est-ce que ça veut dire ?
 

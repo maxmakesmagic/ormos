@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Craig Jones* 
 
-![](https://i.ormos.uk/58/83/5883198132adc8f5c50a0d91eaf6c542c99bdb1b86bc94d56f0feef6304739f5.jpg)Round 6 saw one of the few Americans to brave the journey over to wintry Helsinki, Justin Gary, play Frederic Courtois of France. Justin Gary was the US champion in '97 and has high Pro Tour finishes to his credit. Courtois has attended 4 Pro Tours and picked up money at some. Both had built aggressive decks using black, red and in Courtois' case mainly blue cards. 
+![](https://i.ormos.uk/58/83/5883198132adc8f5c50a0d91eaf6c542c99bdb1b86bc94d56f0feef6304739f5.jpg)
+
+Round 6 saw one of the few Americans to brave the journey over to wintry Helsinki, Justin Gary, play Frederic Courtois of France. Justin Gary was the US champion in '97 and has high Pro Tour finishes to his credit. Courtois has attended 4 Pro Tours and picked up money at some. Both had built aggressive decks using black, red and in Courtois' case mainly blue cards. 
 
 The first game:  
  Turn 1 Courtois makes Phyrexian Battleflies.  

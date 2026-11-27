@@ -53,7 +53,9 @@ archive_source:
   sha256: 06c2ad9a9e7359984995252b0688f0ed8d15c4726b001173b3450ec11fe80f15
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/natfra03/a998.jpg)C'est dans la capitale de la Savoie que se déroule le Championnat de France 2003. Dans le cadre de la salle du Manège, à proximité de la vieille ville, près de 234 joueurs qualifiés se sont donnés rendez vous pour en découdre. Hier, sous un soleil de plomb, la salle a été décorée aux couleurs de Magic, et un des prochains dragons de Fléau accueille les concurrents. 
+![](http://www.wizards.com/sideboard/images/natfra03/a998.jpg)
+
+C'est dans la capitale de la Savoie que se déroule le Championnat de France 2003. Dans le cadre de la salle du Manège, à proximité de la vieille ville, près de 234 joueurs qualifiés se sont donnés rendez vous pour en découdre. Hier, sous un soleil de plomb, la salle a été décorée aux couleurs de Magic, et un des prochains dragons de Fléau accueille les concurrents. 
 
 Le format de ce Championnat de France est un rochester draft pour la première journée, et un format Standard la seconde. Autant je crois le booster draft entré dans les habitudes, autant le rochester est un type de draft assez peu pratiqué (sauf peut être sur Magic Online). Autant dire que seuls les véritables puristes et acharnés risquent de tirer leur épingle du jeu, laissant sur le carreau tous ceux qui auraient fait l'impasse sur ce format un tantinet exotique. 
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Mark Wraith*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/272.JPG)Round Seven saw England's John Ormerod taking on Jean-Louis D'Hondt of Belgium. Both players were undefeated going into this round. Jean Louis has top Grand Prix top eight finishes to his credit at Lisbon and Birmingham and made the top sixteen in this years PT London. John has a top 8 finish at PT Mainz and finished ninth at PT Chicago. He is also a member of the European Alliance team.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/272.JPG)
+
+Round Seven saw England's John Ormerod taking on Jean-Louis D'Hondt of Belgium. Both players were undefeated going into this round. Jean Louis has top Grand Prix top eight finishes to his credit at Lisbon and Birmingham and made the top sixteen in this years PT London. John has a top 8 finish at PT Mainz and finished ninth at PT Chicago. He is also a member of the European Alliance team.
 
 John Ormerod has a Red Wildfire deck (for those of you who don't know this uses artifact mana combined with mass board control cards and finishers such as Covetous Dragon) whereas Jean went with a Black control deck featuring Persecute, artifact mana, Masticores, and the like.
 

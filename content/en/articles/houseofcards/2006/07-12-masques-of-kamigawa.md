@@ -853,7 +853,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/50/07/5007f011a69a5f4858f8f2c590f74cc503c25f3143418aadc768c921d98a8fcf.jpg)Since we've just passed the half-way mark of my first year here at **magicthegathering.com**, I thought I'd do something special. Something I've never done before. I'm going to make something up. Then I'm going to build some decks. I know. It's a little out there, a little wacky, but I know how much everyone likes curveballs and it seems like it might be fun to do.
+![](https://i.ormos.uk/50/07/5007f011a69a5f4858f8f2c590f74cc503c25f3143418aadc768c921d98a8fcf.jpg)
+
+Since we've just passed the half-way mark of my first year here at **magicthegathering.com**, I thought I'd do something special. Something I've never done before. I'm going to make something up. Then I'm going to build some decks. I know. It's a little out there, a little wacky, but I know how much everyone likes curveballs and it seems like it might be fun to do.
 
 Before I continue, I have a confession to make. It might be a Canadian thing, but I have a sentimental affection for the underpowered. Underpowered cards, underpowered Blocks. Apparently, I like my **Magic** cards the way the Toronto Blue Jays like their lead-off hitter: slow and without power. (Just kidding, guys!) *Mercadian Masques* and *Champions of Kamigawa* are two so-called underpowered Blocks following “overpowered” ones, Urza Block and *Mirrodin* Block, respectively. Always overshadowed by their broken predecessors, I wondered what would happen if they combined with, say, *9th Edition* to form their own Standard?
 

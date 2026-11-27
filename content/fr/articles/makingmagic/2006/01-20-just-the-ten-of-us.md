@@ -240,7 +240,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/b0/17/b017d9eece1419e3c38fe62217f0f8bef472583db07c412fea7ba1ad4a1552ec.jpg)Bienvenue aux avant-premières du *Pacte des Guildes*, deuxième semaine. Dites-vous que c'est la suite de la première semaine. Peut-être pas, en fait. On dit toujours que les suites sont moins bonnes. (Bien que personnellement, j'ai préféré *X-Men 2* à *X-Men 1*.) Et si on disait, la deuxième partie d'une trilogie ? Généralement, celles-là sont bonnes. Le seul problème, c'est que les petites extensions n'ont droit qu'à deux semaines d'avant-premières, alors l'aspect trilogie tombe un peu à l'eau. Ooh, pourquoi s'embêter ; appelons ça « la conclusion dramatique » ? C'est pas mal. Oui, utilisons ça. Et maintenant, la conclusion dramatique du *Monde merveilleux du Pacte des Guildes*.
+![](https://i.ormos.uk/b0/17/b017d9eece1419e3c38fe62217f0f8bef472583db07c412fea7ba1ad4a1552ec.jpg)
+
+Bienvenue aux avant-premières du *Pacte des Guildes*, deuxième semaine. Dites-vous que c'est la suite de la première semaine. Peut-être pas, en fait. On dit toujours que les suites sont moins bonnes. (Bien que personnellement, j'ai préféré *X-Men 2* à *X-Men 1*.) Et si on disait, la deuxième partie d'une trilogie ? Généralement, celles-là sont bonnes. Le seul problème, c'est que les petites extensions n'ont droit qu'à deux semaines d'avant-premières, alors l'aspect trilogie tombe un peu à l'eau. Ooh, pourquoi s'embêter ; appelons ça « la conclusion dramatique » ? C'est pas mal. Oui, utilisons ça. Et maintenant, la conclusion dramatique du *Monde merveilleux du Pacte des Guildes*.
 
 ### Et de dix
 
@@ -258,7 +260,9 @@ Pour comprendre le cycle de dix cartes, commençons pas étudier ses restriction
 
 ### 1 – Dix, ça fait beaucoup
 
-![](https://i.ormos.uk/66/5c/665cadcab792ac1913190115427785b10b4f8897613a1b95d2d09ed94508c9a7.jpg)Un des défis de construction d'un cycle est de trouver une idée qui a assez d'impact et d'espace de conception pour remplir cinq cartes. C'est assez difficile (et le fait que l'impact de certains cycles ne va pas jusqu'à cinq cartes le prouve : Oath of Mages, c'est à toi que je parle). Un cycle de dix cartes, cela représente le double. Et, étant père de jumeaux, je peux vous avouer un petit secret : le double, ça veut dire plus du double de travail. Quand vous arrivez au deuxième jumeau/à la deuxième série de cinq cartes, vous êtes déjà épuisé par le premier/la première série. 
+![](https://i.ormos.uk/66/5c/665cadcab792ac1913190115427785b10b4f8897613a1b95d2d09ed94508c9a7.jpg)
+
+Un des défis de construction d'un cycle est de trouver une idée qui a assez d'impact et d'espace de conception pour remplir cinq cartes. C'est assez difficile (et le fait que l'impact de certains cycles ne va pas jusqu'à cinq cartes le prouve : Oath of Mages, c'est à toi que je parle). Un cycle de dix cartes, cela représente le double. Et, étant père de jumeaux, je peux vous avouer un petit secret : le double, ça veut dire plus du double de travail. Quand vous arrivez au deuxième jumeau/à la deuxième série de cinq cartes, vous êtes déjà épuisé par le premier/la première série. 
 
 Il existe deux manière d'agir. La première, on crée les dix à l'identique (avec une légère différence due à la couleur). Dans *Ravnica*, les exemples de ce type de cycle sont les terrains doubles, les cachets et les « karoos » (les multi-terrains courants). La deuxième, on crée un cycle assez complexe et intéressant pour que les concepteurs aient suffisamment d'espace créatif. Dans le bloc *Ravnica*, les exemples seraient les sorts améliorés (vous gagnez un effet supplémentaire ou plus puissant si vous dépensez une autre couleur de mana précisée en jouant le sort), les ghildmages et les palais des guildes (le cycle de terrains inhabituels). Mais chacune des deux options a ses propres problèmes. Ce qui nous amène tout naturellement à…
 
@@ -304,7 +308,9 @@ Ce sont les terrains inhabituels qui représentent la base de chacune des guilde
 
 **Sorts améliorés**
 
-![](https://i.ormos.uk/b1/b5/b1b5ae34789142f8d66a8e57c48d8cb85da1f5f775a9e701e83ade277ef76c4d.jpg)Une fois de plus, ce sont des sorts qui ont un effet supplémentaire ou amélioré si une deuxième couleur spécifique est utilisée quand vous jouez le sort. Dans *Ravnica*, tous les sorts améliorés étaient des éphémères et des rituels. *Le Pacte des Guildes* rajoute au cycle une dimension en attachant la capacité améliorée aux créatures qui créent des effets d'arrivée en jeu. (Et c'est banal comparé à ce que *Discorde* fait avec sa portion de ce cycle.) 
+![](https://i.ormos.uk/b1/b5/b1b5ae34789142f8d66a8e57c48d8cb85da1f5f775a9e701e83ade277ef76c4d.jpg)
+
+Une fois de plus, ce sont des sorts qui ont un effet supplémentaire ou amélioré si une deuxième couleur spécifique est utilisée quand vous jouez le sort. Dans *Ravnica*, tous les sorts améliorés étaient des éphémères et des rituels. *Le Pacte des Guildes* rajoute au cycle une dimension en attachant la capacité améliorée aux créatures qui créent des effets d'arrivée en jeu. (Et c'est banal comparé à ce que *Discorde* fait avec sa portion de ce cycle.) 
 
 **Les créatures légendaires**
 
@@ -320,7 +326,9 @@ Ce groupe de cartes est lui aussi deux cycles de dix cartes. L'idée, c'est que 
 
 **Les artefacts de guilde**
 
-![](https://i.ormos.uk/81/a6/81a69ed586cd311323419611034e96c1b6da139ccb08233c6918ea2dd84b2f40.jpg)Les artefacts de guilde ont été conçu pour qu'ils aient une capacité de base que tout le monde pourrait utiliser et une deuxième capacité qui nécessite le mana des couleurs réservées à la guilde. L'idée, c'est que, ces artefacts appartenant à la guilde, leur utilisation n'est optimisée uniquement quand les combinaisons de couleurs adéquates sont utilisées. Comme la plupart des cycles de dix cartes, ils ont été conçu avec suffisamment de flexibilité pour permettra au *Pacte des Guildes* de renchérir sans les modifier.
+![](https://i.ormos.uk/81/a6/81a69ed586cd311323419611034e96c1b6da139ccb08233c6918ea2dd84b2f40.jpg)
+
+Les artefacts de guilde ont été conçu pour qu'ils aient une capacité de base que tout le monde pourrait utiliser et une deuxième capacité qui nécessite le mana des couleurs réservées à la guilde. L'idée, c'est que, ces artefacts appartenant à la guilde, leur utilisation n'est optimisée uniquement quand les combinaisons de couleurs adéquates sont utilisées. Comme la plupart des cycles de dix cartes, ils ont été conçu avec suffisamment de flexibilité pour permettra au *Pacte des Guildes* de renchérir sans les modifier.
 
 **Les ghildmages**
 
@@ -341,7 +349,9 @@ Non seulement c'est une super carte, mais cette créature a une belle petite his
 >  5U : Perdez la partie.  
 >  5R : Déchirez toutes vos cartes.
 
-![](https://i.ormos.uk/bf/d9/bfd91aeb384686222f3983b0167cdf96bbf777c9fb1da1729a57ef5ae6704d2a.jpg)En tant que fan d'Izzet, j'étais atterré. Le Ghildmage d'Izzet ne pouvait pas craindre autant. Encore pire, il ne pouvait pas être « pas cool ». Alors j'ai décidé de créer un meilleur Ghildmage d'Izzet. Alors, ai-je pensé, qu'est-ce qu'un mage d'Izzet voudrait bien pouvoir faire ? La réponse, comme je l'ai expliqué la semaine dernière, c'était jouer beaucoup d'éphémères et de rituels. OK, pourquoi le ghildmage serait content de pouvoir faire ça ? Parce que s'il avait deux capacités activées, il ne pourrait pas avoir des effets déclenchés par les éphémères et les rituels joués. Mais alors que je déjeunais, réfléchissant toujours à comment solutionner ce problème, je me suis penché et j'ai soudain vu une… cuiller. Et ça m'a rappelé le cri de guerre du Tick (une parodie de super-héros qui a été une bande dessinée, un dessin animé et une série télé) qui m'a rappelé à son tour Pleure, ô pays bien aimé (un roman très sérieux sur l'Afrique du Sud que j'avais lu au lycée), qui m'a lui-même rappelé Cry Baby (un excellent film de John Waters avec Johnny Depp) qui m'a rappelé Baby Blues (une BD sur la vie des parents) qui m'a rappelé à son tour Hill Street Blues (une excellente série policière des années 80) qui m'a ensuite rappelé Etroite surveillance (un gentil film policier avec Emilio Estevez et Richard Dreyfus) qui m'a alors illuminé et rappelé que je mangeais un steak et que je ne pouvais pas me servir d'une cuiller. Il me fallait une fourchette !
+![](https://i.ormos.uk/bf/d9/bfd91aeb384686222f3983b0167cdf96bbf777c9fb1da1729a57ef5ae6704d2a.jpg)
+
+En tant que fan d'Izzet, j'étais atterré. Le Ghildmage d'Izzet ne pouvait pas craindre autant. Encore pire, il ne pouvait pas être « pas cool ». Alors j'ai décidé de créer un meilleur Ghildmage d'Izzet. Alors, ai-je pensé, qu'est-ce qu'un mage d'Izzet voudrait bien pouvoir faire ? La réponse, comme je l'ai expliqué la semaine dernière, c'était jouer beaucoup d'éphémères et de rituels. OK, pourquoi le ghildmage serait content de pouvoir faire ça ? Parce que s'il avait deux capacités activées, il ne pourrait pas avoir des effets déclenchés par les éphémères et les rituels joués. Mais alors que je déjeunais, réfléchissant toujours à comment solutionner ce problème, je me suis penché et j'ai soudain vu une… cuiller. Et ça m'a rappelé le cri de guerre du Tick (une parodie de super-héros qui a été une bande dessinée, un dessin animé et une série télé) qui m'a rappelé à son tour Pleure, ô pays bien aimé (un roman très sérieux sur l'Afrique du Sud que j'avais lu au lycée), qui m'a lui-même rappelé Cry Baby (un excellent film de John Waters avec Johnny Depp) qui m'a rappelé Baby Blues (une BD sur la vie des parents) qui m'a rappelé à son tour Hill Street Blues (une excellente série policière des années 80) qui m'a ensuite rappelé Etroite surveillance (un gentil film policier avec Emilio Estevez et Richard Dreyfus) qui m'a alors illuminé et rappelé que je mangeais un steak et que je ne pouvais pas me servir d'une cuiller. Il me fallait une fourchette !
 
 OK, ça ne s'est peut-être pas exactement passé comme ça, mais c'est ainsi que mon cerveau fonctionne. Quoi qu'il en soit, j'ai réalisé qu'un bon moyen d'utiliser les éphémères et les rituels était de les copier. Alors j'ai pris la fourchette à répétition du Mirari et je l'ai combinée à la qualité « j'aime les petits sorts » du Isochron Scepter et je les ai mélangés pour fabriquer un bon petit ghildmage. 
 

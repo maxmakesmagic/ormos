@@ -88,7 +88,9 @@ Sound good? Then away we go.
 
 ### What do the two colors have in common?
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr196_picMain_en.jpg)For allied colors, there's an easy way to figure this out. Look at the shared enemy of the two colors. See what that color represents. The guild represents the opposite of that. As it's green/white week I guess I should use green/white as my example. Black is all about selfishness, doing whatever it takes to advance oneself. Green/white therefore is the opposite. It is the guild that is selfless. The guild that puts the needs of the group ahead of those of the individual. All decisions made by members of the green/white guild are made with the welfare of the group in mind.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr196_picMain_en.jpg)
+
+For allied colors, there's an easy way to figure this out. Look at the shared enemy of the two colors. See what that color represents. The guild represents the opposite of that. As it's green/white week I guess I should use green/white as my example. Black is all about selfishness, doing whatever it takes to advance oneself. Green/white therefore is the opposite. It is the guild that is selfless. The guild that puts the needs of the group ahead of those of the individual. All decisions made by members of the green/white guild are made with the welfare of the group in mind.
 
 This emphasis on the larger group stems from different places in each color. White is all about a structured society. It wants to make a safe environment for all its people. As such, it creates a complex series of rules/laws to protect its weakest citizen. Green, on the other hand, is focused on the natural order. The group it cares about is that which naturally exists in any eco-system. As such, green spends its energy to keep outside forces from affecting the natural growth of nature.
 
@@ -104,7 +106,9 @@ What this means is that while white and green share a common goal, the protectio
 
 ### What does the guild care about? What is its end goal? What means does the guild use to achieve these ends?
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr196_pic1_en.jpg)The key to understanding a guild's goal is to understand the overlap of the goals of its two colors. White wants peace. It wants to create a safe haven for everyone, a place where the group can thrive. Green, on the other hand, seeks growth. It wants the natural order to proceed unhindered by outside forces. It wants the cycle of life to do its thing without interference. Both colors are focused on the bigger picture of community. They dislike outside interference and as such seek to protect those that they feel fall within their purview.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr196_pic1_en.jpg)
+
+The key to understanding a guild's goal is to understand the overlap of the goals of its two colors. White wants peace. It wants to create a safe haven for everyone, a place where the group can thrive. Green, on the other hand, seeks growth. It wants the natural order to proceed unhindered by outside forces. It wants the cycle of life to do its thing without interference. Both colors are focused on the bigger picture of community. They dislike outside interference and as such seek to protect those that they feel fall within their purview.
 
 To achieve their goals, each color has a different tool. White makes use of structure, creating rules, laws, and/or covenants that protect the greater good through tight restraints. Green, on the other hand, taps into the power of nature, unleashing its fury on those forces causing it concern. White is subtle and nuanced in its execution. It plans ahead and carefully orchestrates a structure that will allow it to shape the environment to its will. White strategizes and plans. Green has a much more direct approach. It attacks anything it sees as a threat. That attack is not always brute force. Nature has a wide arsenal of weapons. Some are in your face while others are, in their own way, as subtle as white.
 
@@ -138,7 +142,9 @@ As with my columns on mono-color philosophies, I plan to end each column by givi
 
 **The Body Snatchers (from “The Invasion of the Body Snatchers”)** – Some people might want to make a claim that these guys are either black because they have a desire to take over the world or blue because they're control freaks. But I see these guys as more of aliens on a mission. They've come to Earth on a recruitment drive. They're emotionless (but intelligent) drones that seem focused on a single task, working together to grow their numbers. And hey, they're even plants. Green/white to me.
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr196_pic2_en.jpg)**Menudo** – I believe my reaction to include this reference is either a) Boy, Rosewater loves his out-there references or b) Who is Menudo? Menudo was (maybe still is, I don't know) a Latin American Pop Sensation. The gimmick was this. The group always had five boys. Whenever a boy got old enough that his voice changed, they would replace him with a new boy. For modern-day pop relevance, Ricky Martin was once in Menudo. This group was very green/white as the individuals in question were far less important than the whole of the group. It even allowed nature to dictate when it was time for someone to leave the group.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr196_pic2_en.jpg)
+
+**Menudo** – I believe my reaction to include this reference is either a) Boy, Rosewater loves his out-there references or b) Who is Menudo? Menudo was (maybe still is, I don't know) a Latin American Pop Sensation. The gimmick was this. The group always had five boys. Whenever a boy got old enough that his voice changed, they would replace him with a new boy. For modern-day pop relevance, Ricky Martin was once in Menudo. This group was very green/white as the individuals in question were far less important than the whole of the group. It even allowed nature to dictate when it was time for someone to leave the group.
 
 ### Group Hug
 

@@ -70,7 +70,9 @@ render_recovery:
   - Rotlung Reanimator
   occurrences: 13
 ---
-![](https://www.wizards.com/sideboard/images/gpbos03/a929.jpg)Brian Kibler, a fan of creatures called “So-and-so, the Such-and-such”, is trying to cement his hold as king of the North American Grand Prix. In the 2001-2002 season, he made Top 8 of all but one of them, and the student is looking to earn yet another here at Boston. At 10 – 1, armed with a very aggressive red/white deck, his chances are good.
+![](https://www.wizards.com/sideboard/images/gpbos03/a929.jpg)
+
+Brian Kibler, a fan of creatures called “So-and-so, the Such-and-such”, is trying to cement his hold as king of the North American Grand Prix. In the 2001-2002 season, he made Top 8 of all but one of them, and the student is looking to earn yet another here at Boston. At 10 – 1, armed with a very aggressive red/white deck, his chances are good.
 
 Unfortunately for him, he is staring across the table at his longtime playtest partner and friend, Ben Rubin. Ben has numerous high finishes, including a ridiculous two Masters titles in two different formats, something no-one else can claim. Ben has a red/black deck that is absolutely stuffed with power, topping off with Visara, the Dreadful.
 
@@ -78,7 +80,9 @@ They started off with some friendly banter, demanding that they get the most att
 
 ### Game One
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a932.jpg)Rubin won the die roll and chose to play. He kept his first seven, but Kibler had to mulligan his hand twice. His five card draw was borderline, giving him a turn one Goblin Taskmaster and turn three Wingbeat Warrior. 
+![](https://www.wizards.com/sideboard/images/gpbos03/a932.jpg)
+
+Rubin won the die roll and chose to play. He kept his first seven, but Kibler had to mulligan his hand twice. His five card draw was borderline, giving him a turn one Goblin Taskmaster and turn three Wingbeat Warrior. 
 
 Ben played a turn three Skirk Commando face up, indicating some trick, so Kibler was forced to leave both his creatures on defense. Rubin’s trick, though, was Crown of Fury, forcing Kibler to chump block with the taskmaster. 
 
@@ -92,7 +96,9 @@ Rubin – 1, Kibler – 0
 
 Kibler chose to play this game, but had to ship his opening seven. While most players would pump the fist at the mulligan, the third mulligan of the game was just too much. Kibler kept his second hand, and Rubin again stuck with his first seven. 
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a931.jpg)Kibler’s draw was very good for six cards. He opened with a turn three morph that was Shocked immediately. A turn three Thoughtbound Primoc from Ben drew first blood, but it was stalled by a Gustcloak Savior from Kibler.
+![](https://www.wizards.com/sideboard/images/gpbos03/a931.jpg)
+
+Kibler’s draw was very good for six cards. He opened with a turn three morph that was Shocked immediately. A turn three Thoughtbound Primoc from Ben drew first blood, but it was stalled by a Gustcloak Savior from Kibler.
 
 The savior was dealt with via Crested Craghorn and provoke while the board reached a standstill. 
 

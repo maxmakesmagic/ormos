@@ -109,7 +109,9 @@ render_recovery:
 ---
 Pod two of Day two were pro heavy; Antoine Ruel, Jelger Wiegersma, Raphael Levy, Sigurd Eskelard, Jonny ‘rare drafter’ Chapman, Simon Carlsson, Rudiser Klings and Dennis Nilsson. The draft managed to reflect the players’ combined experience, there was no hate-drafting, only one color conflict and as a whole things proceeded amiably.
 
-![](https://i.ormos.uk/d8/3d/d83d0ce9425e9f8c6704c1254e63ffb8511fbf330b3499fbf06a750ebd70a87a.jpg)Draft highlights include Ruel starting the draft busting a Reiver Demon, whilst Nilsson took the rather more dubious pick of Vorrac Battlehorns third, maybe he knows something we don’t. The second booster saw Sigurd popping the first of his two Spikeshot Goblins whilst Nilsson grabbed the first of his two Slith Ascendants, he could have had three but he valued a Somber Hoverguard higher than the third.
+![](https://i.ormos.uk/d8/3d/d83d0ce9425e9f8c6704c1254e63ffb8511fbf330b3499fbf06a750ebd70a87a.jpg)
+
+Draft highlights include Ruel starting the draft busting a Reiver Demon, whilst Nilsson took the rather more dubious pick of Vorrac Battlehorns third, maybe he knows something we don’t. The second booster saw Sigurd popping the first of his two Spikeshot Goblins whilst Nilsson grabbed the first of his two Slith Ascendants, he could have had three but he valued a Somber Hoverguard higher than the third.
 
 In booster four, Levy took a One Dozen Eyes from a comparatively poor card pool which left Jonny his first Chrome Mox fifth pick. Nilsson made a second miss pick a three boosters later, misidentifying a Rust Elemental as some other card, such are the skills needed for a 7-1 record. The last booster of the first set was a collection of fourteen dire cards and a Triskelion that slid its way into Jonny’s pile.
 
@@ -125,7 +127,9 @@ Levy’s RG deck was ultra fast. His two drops consisted of three Alpha Myr, a T
 
 Carlsson drafted a very solid UB deck. With an evasive creature base consisting of two Neurok Spys, two Nim Shriekers, a Somber Hoverguard and its big brother, the Looming Hoverguard, the deck had some good attacking power. Backed up by good removal in the form of a Crystal Shard, a Betrayal of the Flesh, a Terror, a Consume Spirit, a Wail of the Nim and an Annul, his deck had the punch needed to challenge the two superior decks. 
 
-![](https://i.ormos.uk/70/a4/70a49635c234722ef746d14e6ae7c8bd90f78f03b11b41f23176fff4988184ae.jpg)Klings’s deck ended up almost mono-Green. He splashed for a Crystal Shard, two Goblin Replicas and a Detonate. His deck had a solid creature base including the insane Molten Slug. He was a bit short on tricks with only a Bonesplitter, a Deconstruct and two Predator's Strikes but this is definitely not a deck to rule out.
+![](https://i.ormos.uk/70/a4/70a49635c234722ef746d14e6ae7c8bd90f78f03b11b41f23176fff4988184ae.jpg)
+
+Klings’s deck ended up almost mono-Green. He splashed for a Crystal Shard, two Goblin Replicas and a Detonate. His deck had a solid creature base including the insane Molten Slug. He was a bit short on tricks with only a Bonesplitter, a Deconstruct and two Predator's Strikes but this is definitely not a deck to rule out.
 
 Wiegersma had drafted a solid WR deck that was a bit short on men. His Isochron Scepter was very daunting along with his two Bolts and two Shatters; these went well with his Altar's Light and Pyrite Spellbomb. His deck is solid enough to do well but I would not fancy his chances against Antoine’s removal heavy beast.
 

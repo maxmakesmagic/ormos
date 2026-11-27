@@ -102,7 +102,9 @@ render_recovery:
 ---
 Neither of these two teammates wanted to be sitting across from each other right now. Both are 3-3 and need to win to still have a chance to play tomorrow. Gary even went so far as to state, "I hope I lose." Not a bad sentiment considering that Mike recently announced his engagement to Rachel Reynolds after proposing just last week. Congratulations Mike and Rachel!
 
-![](http://www.wizards.com/sideboard/images/ptno03/924.jpg)Gary tapped Mike's deck in lieu of shuffling it, while stating, "Probably the only player on the Pro Tour I'd do that with." When asked if they had played before, Mike recalled one time in Japan where Gary had beaten him, adding with a grin, "he topdecked very well."
+![](http://www.wizards.com/sideboard/images/ptno03/924.jpg)
+
+Gary tapped Mike's deck in lieu of shuffling it, while stating, "Probably the only player on the Pro Tour I'd do that with." When asked if they had played before, Mike recalled one time in Japan where Gary had beaten him, adding with a grin, "he topdecked very well."
 
 ### Game 1
 
@@ -140,7 +142,9 @@ Gary led with Seat of the Synod, followed by a turn 2 Rishadan Port and then sta
 
 Gary played Voltaic Key off the top, while Kai leaned over from the other table and made a comment about Mike's land base (which currently consisted of two Brushland, two City of Brass, and a Llanowar Wastes). Mike responded with, "I'm very afraid of, what's that Red card? Ruination."
 
-![](http://www.wizards.com/sideboard/images/ptno03/926.jpg)Gary then Tinkered away his Key and debated between Triskelion, Mindslaver, and Gilded Lotus, eventually settling on the former.
+![](http://www.wizards.com/sideboard/images/ptno03/926.jpg)
+
+Gary then Tinkered away his Key and debated between Triskelion, Mindslaver, and Gilded Lotus, eventually settling on the former.
 
 Rosewater: "Old school Triskelion!"  
  Gary: "Bent corner and all."  

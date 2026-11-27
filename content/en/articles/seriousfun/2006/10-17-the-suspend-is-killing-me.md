@@ -554,7 +554,9 @@ And I wrote this back:
 
 Because frankly, suspend made me worry. Generally, multiplayer works best if you can surprise your opponent – you have to hit him where he’s not looking. But my gut instincts said that whatever sort of mana costs you saved on the suspend cost would be eaten alive by the fact that your opponents could not *help* but see it coming. 
 
-![](https://i.ormos.uk/ba/a2/baa228de5d2d6916c1cee20b827d477927a240d9381c5117a25115dd95020c6a.jpg)I imagined Winston Churchill calling up Adolph Hitler. “Just an FYI,” he’d say. “In about a week, on June 6th, I am going to completely *swamp* the beaches of Normandy with an overwhelming attack. We’re sending in everyone by boat, tens of thousands of men. It’s gonna be awe-inspiring.”
+![](https://i.ormos.uk/ba/a2/baa228de5d2d6916c1cee20b827d477927a240d9381c5117a25115dd95020c6a.jpg)
+
+I imagined Winston Churchill calling up Adolph Hitler. “Just an FYI,” he’d say. “In about a week, on June 6th, I am going to completely *swamp* the beaches of Normandy with an overwhelming attack. We’re sending in everyone by boat, tens of thousands of men. It’s gonna be awe-inspiring.”
 
 “Wow,” Hitler says, as he gestures to his generals to get more soldiers to the beaches. “So why are you telling me this now?”
 
@@ -575,7 +577,9 @@ And I breathed a sigh of relief. I was terrified that I might have to quit Wizar
 
 With my mind freed, I started to think about the suspend mechanic with regards to multiplayer. Anthony Alongi had a way of rating a multiplayer card that he called the “Rattlesnake Factor” – there were cards so incredibly dangerous that they’d get people thinking, “Wow, I *really* don’t want to have that happen to me.” And after they looked around the table, they’d see that there were easier targets out there, and they’d go bother someone else. 
 
-![Stampede](https://i.ormos.uk/40/3c/403c0bac83f79cd2582ab06c24abccfc8ff40c15a2668b3d1e3d2bd196586d88.jpg)Unfortunately, suspend cards have a kind of reverse Rattlesnake effect – they’re like a big cattle call for everyone to come stomp your face before they take effect. If you die before a suspend spell goes off, they don’t have to worry about it resolving. Thus, any multiplayer deck design needs to compensate for that lack of surprise by providing either surprise or disruption.
+![Stampede](https://i.ormos.uk/40/3c/403c0bac83f79cd2582ab06c24abccfc8ff40c15a2668b3d1e3d2bd196586d88.jpg)
+
+Unfortunately, suspend cards have a kind of reverse Rattlesnake effect – they’re like a big cattle call for everyone to come stomp your face before they take effect. If you die before a suspend spell goes off, they don’t have to worry about it resolving. Thus, any multiplayer deck design needs to compensate for that lack of surprise by providing either surprise or disruption.
 
 In the end, I came up with two ways to do it:
 
@@ -654,7 +658,9 @@ But there is a hidden danger there. And that danger is this:
 
 (Looks around despairingly at his now-empty playfield.) 
 
-![](https://i.ormos.uk/26/ca/26cab6bcdbda487a16a0de16390571affee1a813f84719ecbcf95991d5bff44f.jpg)Nothing like getting caught with your pants down. Problem is, that deuced priority makes it really, *really* hard to judge when to sacrifice everything, because priority works like this: 
+![](https://i.ormos.uk/26/ca/26cab6bcdbda487a16a0de16390571affee1a813f84719ecbcf95991d5bff44f.jpg)
+
+Nothing like getting caught with your pants down. Problem is, that deuced priority makes it really, *really* hard to judge when to sacrifice everything, because priority works like this: 
 
 *   You cast a spell. You get first priority to respond to it.
 *   If you pass priority – as in, you do nothing – priority then passes to the next opponent, and the next opponent in turn.

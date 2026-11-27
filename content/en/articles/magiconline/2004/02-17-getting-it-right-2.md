@@ -72,7 +72,9 @@ render_recovery:
 
 There are several issues I know the ***Magic** Online* community is concerned about. First, you need to know exactly where we are in regards to repairing the game.
 
-![](https://i.ormos.uk/2b/65/2b65047e29c8353bb42d3e66a889c4fc995363e7fdb2110e49d0267374e944f2.jpg)When the big crashes happened during the *Mirrodin* Release Events, we had to make a hard decision regarding the **Premier Events** room. Obviously we don't want to have tournaments shut off; however, making ***Magic** Online* completely unstable was even more intolerable. So, tournaments were taken down and we've not made an attempt to bring them back up again until we're able to correct the underlying problem.
+![](https://i.ormos.uk/2b/65/2b65047e29c8353bb42d3e66a889c4fc995363e7fdb2110e49d0267374e944f2.jpg)
+
+When the big crashes happened during the *Mirrodin* Release Events, we had to make a hard decision regarding the **Premier Events** room. Obviously we don't want to have tournaments shut off; however, making ***Magic** Online* completely unstable was even more intolerable. So, tournaments were taken down and we've not made an attempt to bring them back up again until we're able to correct the underlying problem.
 
 After this disappointment, the whole team entered into what we called “Pause and Reflect” mode. I wish this were as Zen as it sounds. What it consisted of was everyone looking hard at the resources we have and what needs to be done to make ***Magic** Online* work the way we want. Let's just say that making tough calls on a game that so many people are invested in leads to some impassioned arguments.
 
@@ -104,7 +106,9 @@ In other news, according to Jess' risk assessment from the beginning of last wee
 
 You can get all the details of the *Darksteel* Release Leagues [here](/en/articles/uncategorised/2004/02-02-darksteel-release-event-announcement). However, during planning, something slipped our minds. Let's rectify that situation now.
 
-![](https://i.ormos.uk/2d/a3/2da3743fd8b681e88c8054f5d32ee9c1b2788f94a3855289b357470184dc8fbc.jpg)Beginning after the update on Thursday, March 4, you'll be able to play in limited triple-*Darksteel* drafts. Until the release leagues stop respawning on Monday, March 8, there will be a *Darksteel-Darksteel-Darksteel* draft queue available along with the regular ***Magic** Online* draft queues. These queues will have all *Darksteel* boosters as prizes.
+![](https://i.ormos.uk/2d/a3/2da3743fd8b681e88c8054f5d32ee9c1b2788f94a3855289b357470184dc8fbc.jpg)
+
+Beginning after the update on Thursday, March 4, you'll be able to play in limited triple-*Darksteel* drafts. Until the release leagues stop respawning on Monday, March 8, there will be a *Darksteel-Darksteel-Darksteel* draft queue available along with the regular ***Magic** Online* draft queues. These queues will have all *Darksteel* boosters as prizes.
 
 Enjoy them while you can—triple-*Darksteel* drafts will only be available while release leagues are spawning. (Regular *Mirrodin-Mirrodin-Darksteel* draft queues will remain.)
 

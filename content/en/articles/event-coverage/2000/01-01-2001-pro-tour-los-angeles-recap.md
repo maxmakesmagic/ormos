@@ -80,7 +80,9 @@ Rith may have ruled Chicago, but he met an ignoble end in the knock-down drag-ou
 
 ### To the Manor Born
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/987.jpg)Kamiel Cornelissen isn't well known on the Tour, but he will be soon. A professional player for only a year and a half, the Dutchman has competed in only three singles Pro Tours, and his finishes go: Eleventh, Second, Second. Soft-spoken and unassuming, he is easy to pass over in favor of some of the game's more flamboyant players. However, two finals in four months have a way of putting one on the map.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/987.jpg)
+
+Kamiel Cornelissen isn't well known on the Tour, but he will be soon. A professional player for only a year and a half, the Dutchman has competed in only three singles Pro Tours, and his finishes go: Eleventh, Second, Second. Soft-spoken and unassuming, he is easy to pass over in favor of some of the game's more flamboyant players. However, two finals in four months have a way of putting one on the map.
 
 ### Couldn't have happened to a nicer guy.
 
@@ -88,7 +90,9 @@ It's hard to imagine a better end for the last Pro Tour to be held aboard the Bo
 
 ### "Many people want \[Kenichi\] to win. A lot of Japanese players can't afford to come here, so they like us to do well." - Satoshi Nakamura
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/653.jpg)Japan was well represented on Day Two. Kenichi Fujita was one match win away from a Top Eight berth, against Pro Tour perennial Satoshi Nakamura. The two are longtime friends and it was unfortunate that they had to square off. Satoshi won, and his eleventh place finish is the highest posted by any player from Asia. If not for a rules oversight in his Round 4 match against Scott Johns, the Top Eight would have been his.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/653.jpg)
+
+Japan was well represented on Day Two. Kenichi Fujita was one match win away from a Top Eight berth, against Pro Tour perennial Satoshi Nakamura. The two are longtime friends and it was unfortunate that they had to square off. Satoshi won, and his eleventh place finish is the highest posted by any player from Asia. If not for a rules oversight in his Round 4 match against Scott Johns, the Top Eight would have been his.
 
 ### Fighting Below Decks
 

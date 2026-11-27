@@ -194,7 +194,9 @@ render_recovery:
 
 順調に白青のコントロールのペースを作って行く岡田は、ゆっくりとその場へ《賛美されし天使/Exalted Angel》を。
 
-![](http://www.wizards.com/sideboard/images/gpnag04/Round3FeatureMatch_GoAnan.jpg)カウンターマナを残さない姿勢で《賛美されし天使》を出してきた岡田に対して阿南は更なる《弧炎撒き/Arc-Slogger》を場へ放つ。
+![](http://www.wizards.com/sideboard/images/gpnag04/Round3FeatureMatch_GoAnan.jpg)
+
+カウンターマナを残さない姿勢で《賛美されし天使》を出してきた岡田に対して阿南は更なる《弧炎撒き/Arc-Slogger》を場へ放つ。
 
 さて、この《賛美されし天使》で阿南を攻撃する岡田がいれば、対抗して阿南も《弧炎撒き》で攻撃を。そのまま《静電気の稲妻/Electrostatic Bolt》を《賛美されし天使》に打ち、《弧炎撒き》の能力を 2 回起動する事によってなんとかこれを除去すれば、岡田も《神の怒り/Wrath of God》を持って場を一掃。
 

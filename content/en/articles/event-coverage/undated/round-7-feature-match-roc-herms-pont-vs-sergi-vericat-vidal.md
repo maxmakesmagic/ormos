@@ -37,7 +37,9 @@ archive_source:
   sha256: fc3bb0c0daccdf0add2f24ab3a81740efda7df5b6787d354c7a3305c366c55a7
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/951.jpg)While at other tables some players fought desperately for a spot in the second day, two very quiet - for a change - Spanish players sat down for a feature match in the final round of day one. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/951.jpg)
+
+While at other tables some players fought desperately for a spot in the second day, two very quiet - for a change - Spanish players sat down for a feature match in the final round of day one. 
 
 **Game 1** 
 
@@ -67,7 +69,9 @@ Roc played a Dromar's Attendant and when Sergi blocked with his freshly cast Hun
 
 Pont went on a rampage: Zapped an Emissary, dropped a Firescreamer, played Probe with kicker while Vidal could only look on in despair. In the end Sergi was left with no cards in hand and only lands in play while Roc's hand was so good he discarded a Dromar's Attendant and an Agonizing Demise to the Probe. That is simply how good is hand was. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/952.jpg)From then on it looked purely academic but they still had a small surprise in store for us. Sergi dropped a Vodalian Zombie to block the Firescreamer to which Roc responded with an Halam Djinn and a Terminate for the Zombie. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/952.jpg)
+
+From then on it looked purely academic but they still had a small surprise in store for us. Sergi dropped a Vodalian Zombie to block the Firescreamer to which Roc responded with an Halam Djinn and a Terminate for the Zombie. 
 
 Sergi had one draw phase to save himself. While he didn't achieved this, he managed to get everyone, apart from a few judges, around the table completely confused. To explain the situation I've recruited the invaluable help of Friedrich Rademacher: 
 

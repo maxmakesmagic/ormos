@@ -54,7 +54,9 @@ render_recovery: []
 ---
 Everybody knows that the people in South America are extremely friendly. Over there staying and talking with friends until sunrise is a way of being. 
 
-![](http://www.wizards.com/sideboard/images/MI01/798.jpg)I was born in New Zealand. Everybody knows that talking in New Zealand is the best way to get in trouble. You just keep things to yourself as much as you can. Of all **Magic** players, I think Gary Wise would blend into Uruguay quite better than I do, but he would be a real foreigner in New Zealand, if you know what I mean...
+![](http://www.wizards.com/sideboard/images/MI01/798.jpg)
+
+I was born in New Zealand. Everybody knows that talking in New Zealand is the best way to get in trouble. You just keep things to yourself as much as you can. Of all **Magic** players, I think Gary Wise would blend into Uruguay quite better than I do, but he would be a real foreigner in New Zealand, if you know what I mean...
 
 Anyway, here I am. A Kiwi-Uruguayan, Latin Champ, Southern Hemisphere type, representing the less-developed **Magic** communities, playing the Invitational in another Southern Hemisphere locale, trying to do my best with a real bicultural problem: THE NEED TO TALK ABOUT IT!
 
@@ -176,7 +178,9 @@ For the Uruguayan players:
 
 \- I'm sure Jon & I took the right colors though, we drafted green-red. Green was particularly strong. You get a bunch of cheap creatures for start and then you finish with Overrun.
 
-![](https://i.ormos.uk/37/14/371463f92c0f6b8efa20afe01950f9ee21288c12d00a0d351850e4893fb83356.jpg)\- I beat David Price with Seize the Day, which was effectively a Time Walk in that game.
+![](https://i.ormos.uk/37/14/371463f92c0f6b8efa20afe01950f9ee21288c12d00a0d351850e4893fb83356.jpg)
+
+\- I beat David Price with Seize the Day, which was effectively a Time Walk in that game.
 
 \- The match I enjoyed a lot was against Michael Pustilnik. It was very close! A real difficult match, with a lot of options. The type of game I like the most.
 
@@ -208,7 +212,9 @@ For the Uruguayan players:
 
 \- I beat the "big" Ruel that was playing Thallids and Gary Wise with his land deck. They just couldn't handle the power of the Dwarves.
 
-![](http://www.wizards.com/sideboard/images/MI01/797.jpg)\- Then, well, then there was Kai and I promise, he knows, I could have defeated him. I was just there, you know...
+![](http://www.wizards.com/sideboard/images/MI01/797.jpg)
+
+\- Then, well, then there was Kai and I promise, he knows, I could have defeated him. I was just there, you know...
 
 \- No, I wouldn't mind at all if Kai creamed me. That's what playing is about... I do mind my mistake!
 

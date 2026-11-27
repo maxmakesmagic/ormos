@@ -53,7 +53,9 @@ archive_source:
   sha256: 499c5793df8d62ea073755aea094aef67a58c9632d1554c746d4c64c46381632
 render_recovery: []
 ---
-![](https://i.ormos.uk/1a/9f/1a9f5cbcc4c40c78a93a012af8f35afc813bae26f826e5b9e4c4d3d2aa1feb4b.jpg)It’s the quarterfinals of the European Championships 2002. Roland Bode, from Germany, is facing off against Italian, Marco Lombardi. Both these players have fought through fourteen rounds of gruelling Swiss and just look relieved to have made it this far. Marco wins the coin toss and unsurprisingly, elects to play.
+![](https://i.ormos.uk/1a/9f/1a9f5cbcc4c40c78a93a012af8f35afc813bae26f826e5b9e4c4d3d2aa1feb4b.jpg)
+
+It’s the quarterfinals of the European Championships 2002. Roland Bode, from Germany, is facing off against Italian, Marco Lombardi. Both these players have fought through fourteen rounds of gruelling Swiss and just look relieved to have made it this far. Marco wins the coin toss and unsurprisingly, elects to play.
 
 ### Game 1
 
@@ -83,7 +85,9 @@ Marco 1 – Roland 1
 
 ### Game 3
 
-![](https://i.ormos.uk/53/5d/535de2c50a739f27f4a24eda4572e83c70024c0f125f21a19f17acfbec5cdb29.jpg)Roland puts the Lavamancers back in, switching them with three Basking Rootwallas.
+![](https://i.ormos.uk/53/5d/535de2c50a739f27f4a24eda4572e83c70024c0f125f21a19f17acfbec5cdb29.jpg)
+
+Roland puts the Lavamancers back in, switching them with three Basking Rootwallas.
 
 Predictably, Marco goes first, but it’s Roland that really gets the game underway with a Grim Lavamancer. Marco Time Walks his opponent with an upkeep Ice. Roland untaps again and makes a Blurred Mongoose. Marco does nothing but drop land.
 

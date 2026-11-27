@@ -1055,7 +1055,9 @@ Or, for an even more striking example, take a look at Jelger Wiegersma's nearly 
 
 ### Playing Magic is Like Riding a Bike
 
-![Augury_Adept](https://i.ormos.uk/c6/0e/c60e11914b126c8e74be7e31c089f5962e526bffa7d2dc0768361d9a5b102a75.jpg)If someone who is very good at Limited, such as, say Kamiel Cornelissen, decides to step away from the game, to pursue other things such as school, he can still immerse himself in the current format and dominate. Just as he would have been able to had he still been placing a lot of his focus on Magic.
+![Augury_Adept](https://i.ormos.uk/c6/0e/c60e11914b126c8e74be7e31c089f5962e526bffa7d2dc0768361d9a5b102a75.jpg)
+
+If someone who is very good at Limited, such as, say Kamiel Cornelissen, decides to step away from the game, to pursue other things such as school, he can still immerse himself in the current format and dominate. Just as he would have been able to had he still been placing a lot of his focus on Magic.
 
 I think that this is an important thing that a lot of people forget. 
 

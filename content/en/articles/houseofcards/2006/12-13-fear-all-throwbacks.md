@@ -832,7 +832,9 @@ The last couple cards are Triskelavus (a reference to both Tetravus and Triskeli
 
 Slivers are a veritable who's who (or what's what) of old card references. Some of them are near-exact remakes of famous creatures from **Magic's** past, right up to and including the Sliver's name. Psionic Sliver is a Psionic Entity and Fungus Sliver is a Fungusaur. Others are a little more subtle. Quilled Sliver is the Sliver-fied version of Crossbow Infantry. Instead of shooting arrows from a crossbow, this little guy flings quills from its spine, which makes sense if you've ever tried to pull a crossbow trigger with a one-fingered claw. Awkward.
 
-![](https://i.ormos.uk/a7/87/a7871cb0aff37e0fbd6a3c5be8a666fef45021e39cefbb407aa840326182c4a7.jpg)Pulmonic Sliver threw me for a loop initially. Pulmonic means “of or relating to the lungs,” and you can see that this Sliver gets airborne via the inflatable sacs on its body. Where did the inspiration for this self-inflating, large-lunged monster come from? The answer is obviously *Tempest's* Avenging Angel.
+![](https://i.ormos.uk/a7/87/a7871cb0aff37e0fbd6a3c5be8a666fef45021e39cefbb407aa840326182c4a7.jpg)
+
+Pulmonic Sliver threw me for a loop initially. Pulmonic means “of or relating to the lungs,” and you can see that this Sliver gets airborne via the inflatable sacs on its body. Where did the inspiration for this self-inflating, large-lunged monster come from? The answer is obviously *Tempest's* Avenging Angel.
 
 Other Slivers, meanwhile, have adopted the traits of one enchantment or another. Watcher Sliver is like Castle. Harmonic Sliver manages to squeeze the two banes of my existence (Slivers and Aura Shards) into a single card. Bravo! Meanwhile, Telekinetic Sliver is as fun as Opposition but half as consistent. That sounds like a recipe for … something that I probably wouldn't want to eat. Flavour-text fans will recognize that Opaline Sliver is a direct descendant of *Mirage's* Reparations. 
 

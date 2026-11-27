@@ -84,7 +84,9 @@ render_recovery:
   - Smother
   occurrences: 42
 ---
-![](http://www.wizards.com/sideboard/images/mi02/a499.jpg)These two European hotshots are living up to everyone's expectations of them. Both are just one win shy of Jens Thoren in first place. Nitter, resplendent in his Rockstar tanktop, is with green-white, having been savaged by Walamies in front of him during the draft. Walamies, in his trademark shiny red-and-black, is with green-black.
+![](http://www.wizards.com/sideboard/images/mi02/a499.jpg)
+
+These two European hotshots are living up to everyone's expectations of them. Both are just one win shy of Jens Thoren in first place. Nitter, resplendent in his Rockstar tanktop, is with green-white, having been savaged by Walamies in front of him during the draft. Walamies, in his trademark shiny red-and-black, is with green-black.
 
 Nitter played first and went for the explosive start of Birchlore Rangers and Wirewood Herald, getting ready for a fast Snarling Undorak. Walamies took gross advantage of that plan by playing a Wellwisher, something Nitter's white-green deck would be hard-pressed to remove. Walamies's Nantuko Husk was hardly helping.
 
@@ -106,7 +108,9 @@ Walamies curved out with Festering Goblin, Wellwisher (to Nitter's dismay) and W
 
 Both sides built their defenses. Nitter played a face-down Undorak, then Grassland Crusader and Everglove Courier. Elvish Guidance had given him a ridiculous amount of mana. Wirewood Herald chumped Treespring Lorian and got Taunting Elf, but then Cruel Revival from Walamies took out the Crusader. Nitter jazzed up his Courier, turned the Undorak face-up and pumped it. Walamies swung in with Treespring Lorian and Festering Goblin. 
 
-![](http://www.wizards.com/sideboard/images/mi02/a500.jpg)Nitter blocked the Lorian with just his Undorak. Wirewood Pride from Walamies made the save. Nitter returned the favor by sending in his Taunting Elf and playing a Pride of his own. Of course, Walamies knew what was coming and tapped all his guys that could. He lost a face-down Executioner and a Wirewood Savage. The Lorian traded with the Courier, and then Shepherd of Rot hit play.
+![](http://www.wizards.com/sideboard/images/mi02/a500.jpg)
+
+Nitter blocked the Lorian with just his Undorak. Wirewood Pride from Walamies made the save. Nitter returned the favor by sending in his Taunting Elf and playing a Pride of his own. Of course, Walamies knew what was coming and tapped all his guys that could. He lost a face-down Executioner and a Wirewood Savage. The Lorian traded with the Courier, and then Shepherd of Rot hit play.
 
 Nitter was despondant. His situation was made worse by a stream of lands. Walamies kept up a sluggish beatdown, but Shepherd of Rot sped things up. When Nitter drew Primal Boost to try more Taunting Elf chicanery, Walamies was ready with Smother. With agonizing slowness, he delivered the killing blow.
 

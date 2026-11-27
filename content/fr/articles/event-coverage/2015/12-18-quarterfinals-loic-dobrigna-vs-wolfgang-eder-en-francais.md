@@ -44,7 +44,9 @@ archive_source:
   sha256: 648b9716bb077ee9da8a78a440a84e662fa62c1fefcf2e7f3c8ad1614aba0d7d
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/371.JPG)Et au autre Français de plus dans le top 4 !
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/371.JPG)
+
+Et au autre Français de plus dans le top 4 !
 
 Loïc Dobrigna, fidèle joueur parisien, va donc affronter Wolfgang Eder, joueur en provenance d'Allemagne. 
 

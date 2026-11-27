@@ -44,7 +44,9 @@ archive_source:
   sha256: 503ff37d48ccb945766c1b99fa8dcd1a4a943e9b697f457a553c68a8945cc03e
 render_recovery: []
 ---
-[![](https://i.ormos.uk/e4/6f/e46fbe7d63fe05460e2ffee9f69814cf7b5ac5976218b0414517baa9cbdca257.jpg)](https://web.archive.org/web/20110714000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent/hof/welcome)A breakdown of the 67 candidates for induction in the 2011 **Magic** Pro Tour Hall of Fame.
+[![](https://i.ormos.uk/e4/6f/e46fbe7d63fe05460e2ffee9f69814cf7b5ac5976218b0414517baa9cbdca257.jpg)](https://web.archive.org/web/20110714000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent/hof/welcome)
+
+A breakdown of the 67 candidates for induction in the 2011 **Magic** Pro Tour Hall of Fame.
 
 **Key**  
 **Top 8 Avg:** Pro Tour Top 8s divided by Pro Tours attended  

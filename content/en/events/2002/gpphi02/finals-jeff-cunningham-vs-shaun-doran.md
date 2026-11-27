@@ -136,7 +136,9 @@ render_recovery:
   - Starlit Sanctum
   occurrences: 115
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a843.jpg)Jeff Cunningham came to this tournament with one goal in mind: make the Top 4 to get a slot in the next Masters Event. He accomplished that about an hour ago, and now he figures to win the whole event. Why not aim high? Cunningham's draft was rumored to be sketchy, due to many other players switching into black once he set himself in the dark color. But he got enough good cards, including an Infest and a pair of Wirewood Savages with tons of Beasts.
+![](http://www.wizards.com/sideboard/images/gpphi02/a843.jpg)
+
+Jeff Cunningham came to this tournament with one goal in mind: make the Top 4 to get a slot in the next Masters Event. He accomplished that about an hour ago, and now he figures to win the whole event. Why not aim high? Cunningham's draft was rumored to be sketchy, due to many other players switching into black once he set himself in the dark color. But he got enough good cards, including an Infest and a pair of Wirewood Savages with tons of Beasts.
 
 Jeff's unlikely opponent in this match is 24-year-old Shaun Doran of Rochester, NY. Shaun has never attended at Pro Tour, but he is technically not an amateur thanks to the lone PT point he earned by finishing exactly 32nd at GP Cleveland. Doran's deck has a couple high-quality bombs – Exalted Angel and Riptide Replicator. It also has lots of Pacifisms and fliers, the kind of cards that make blue/white – generally avoided in this format – work.
 
@@ -162,7 +164,9 @@ Cunningham 1 – Doran 1
 
 Cunningham sided in a Headhunter because he was going first, and wouldn't mind getting a quick hit in for a free card.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a842.jpg)Both players had two-drops in the critical third game: Jeff a Shepherd of Rot and Shaun a Glory Seeker. Jeff put out a Frightshroud Courier on turn three, but paused when Shaun played a morph. If it was the Angel, Jeff had no answer.
+![](http://www.wizards.com/sideboard/images/gpphi02/a842.jpg)
+
+Both players had two-drops in the critical third game: Jeff a Shepherd of Rot and Shaun a Glory Seeker. Jeff put out a Frightshroud Courier on turn three, but paused when Shaun played a morph. If it was the Angel, Jeff had no answer.
 
 Jeff attacked and dropped a Screeching Buzzard. Shaun played his second plains, but didn't morph his guy. Instead, he just attacked with Glory Seeker (bluffing Daru Healer) and cast Gustcloak Skirmisher. Jeff had a Swat ready for that bad boy, but had no more land, so he had to take a turn off from playing creatures.
 

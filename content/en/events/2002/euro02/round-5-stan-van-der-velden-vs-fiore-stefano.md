@@ -106,7 +106,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/euro02/a933.jpg)Stefano played an Aquamoeba on his second turn while Stan only dropped Swamps.
+![](http://www.wizards.com/sideboard/images/euro02/a933.jpg)
+
+Stefano played an Aquamoeba on his second turn while Stan only dropped Swamps.
 
 Next turn a Vigilant sentry teamed up with the Aquamoeba and the Dutch had to find an answer. He cast Whispering Shade with four Swamps in play. Only during his next turn did he find a Mountain but it didn't seem to be enough, as he only held land and no real threat. Fiore realised this and played Churning Eddy targeting the Shade and the Mountain. He was making way for his Aquamoeba to which he was constantly discarding to. Meanwhile van der Velden was able to play Arcane Teachings on his sole creature. Stefano summoned a Mirror Wall and attacked with it promptly. 
 
@@ -118,7 +120,9 @@ Stefano 1 – 0 van der Velden
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/euro02/a934.jpg)Once again Stefano started aggressively with a turn two Phantom Nomad. That time though, Stan had a Crypt Keeper and a Cabal Torturer, which he immediately played out.
+![](http://www.wizards.com/sideboard/images/euro02/a934.jpg)
+
+Once again Stefano started aggressively with a turn two Phantom Nomad. That time though, Stan had a Crypt Keeper and a Cabal Torturer, which he immediately played out.
 
 Stefano enchanted his Aquamoeba with floating shield naming black and attacked with both his creatures. Two Petravraks from van der Velden's side limited Stefano to two mana. The Italian got his third island out but held mostly white cards.
 
@@ -130,7 +134,9 @@ Stefano 1 –1 van der Velden
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/euro02/a935.jpg)Stan took a mulligan and was happier about his second hand. This game though both players just dropped lands. Only till the fourth turn where Sefano played Llavan Cephalid Empress and the turn after a Mystic Familiar. 
+![](http://www.wizards.com/sideboard/images/euro02/a935.jpg)
+
+Stan took a mulligan and was happier about his second hand. This game though both players just dropped lands. Only till the fourth turn where Sefano played Llavan Cephalid Empress and the turn after a Mystic Familiar. 
 
 On the other side of the table, the Dutchmen cast a Grotesque Hybrid, thereby stopping both creatures from attacking. 
 

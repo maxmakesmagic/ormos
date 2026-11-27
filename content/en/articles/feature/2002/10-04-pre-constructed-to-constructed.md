@@ -616,7 +616,9 @@ For the first variation on Armada, I designed a white weenie deck. This deck typ
 
   
 
-![](https://i.ormos.uk/8c/d0/8cd02b6bd97019a43bfc7c3527eecbb30e9a0bd01030854d0b9e34e752dc18a4.jpg)**Focus:** Attack as much as you can. Neutralize your opponent's creatures with Pacifism and finish your opponent off with flyers. Some of the cards have nice synergy: Patrol Hound allows you to discard Screeches and Strands so you can play them using their flashback abilities which don't cost any mana. It also helps you towards threshold, which is great for the Sacraments.
+![](https://i.ormos.uk/8c/d0/8cd02b6bd97019a43bfc7c3527eecbb30e9a0bd01030854d0b9e34e752dc18a4.jpg)
+
+**Focus:** Attack as much as you can. Neutralize your opponent's creatures with Pacifism and finish your opponent off with flyers. Some of the cards have nice synergy: Patrol Hound allows you to discard Screeches and Strands so you can play them using their flashback abilities which don't cost any mana. It also helps you towards threshold, which is great for the Sacraments.
 
   
 
@@ -633,7 +635,9 @@ Another, more defensive way to use white creatures is to use Clerics. The *Odyss
 
 Keep an eye on Cleric decks. They will become more powerful as the *OnslaughtTM* set brings in Tribal cards (cards that depend on having creatures of a certain type).
 
-![](https://i.ormos.uk/18/40/184040f37b5209b815f521d21c424dc295cb339de10e67781ef08e775a24608a.jpg)White is known for its defensive capabilities. However, it's quite hard to build a white-only defensive deck. White cannot effectively draw extra cards without the help of artifacts, and has no real way of dealing with mass destruction spells that do no damage (Obliterate, Wrath of God). To solve that problem, white players often add another color to their deck. The usual choice is blue for the counterspells and card drawing.
+![](https://i.ormos.uk/18/40/184040f37b5209b815f521d21c424dc295cb339de10e67781ef08e775a24608a.jpg)
+
+White is known for its defensive capabilities. However, it's quite hard to build a white-only defensive deck. White cannot effectively draw extra cards without the help of artifacts, and has no real way of dealing with mass destruction spells that do no damage (Obliterate, Wrath of God). To solve that problem, white players often add another color to their deck. The usual choice is blue for the counterspells and card drawing.
 
 A quite competitive white-blue deck that I played earlier this year was a creatureless Millstone deck based on another of white's themes: life gain. (Credit for the original deck goes to Shane Sams.)
 

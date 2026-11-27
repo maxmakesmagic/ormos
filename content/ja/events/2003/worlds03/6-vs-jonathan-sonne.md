@@ -177,7 +177,9 @@ render_recovery:
 
 しかし、このまま膠着してしまった段階で...岡本尋の優勢は確固たるものだったのかもしれない。たしかに岡本もSonneも対戦相手のターンエンドにひたすらサイクリングを繰り返して自ターンはドロー・ゴーという作業を繰り返しているだけなのだが、ともかく作業効率がまったく違うのである。すなわち、Sonneはサイクリング専用カードしか使用できないのに対して、岡本の側は不要牌すべてをすきなように交換できるのだから。
 
-![](http://www.wizards.com/sideboard/images/worlds03/a881.jpg)《行き詰まり/Standstill》状況下でX=4の《正義の命令/Decree of Justice》サイクリングでダメージクロックを作り出そうとSonneが動きを見せた瞬間に、岡本は3枚のカードを引かれてしまうことも厭わず《狡猾な願い/Cunning Wish》でサイドボードから《堂々巡り/Circular Logic》を調達。そして、《ミラーリの目覚め/Mirari's Wake》が二回の《マナ漏出/Mana Leak》で阻害されたものの...6マナを支払ったことでこれがあっさりと通ってしまい、実質的なマナの絶対量に大きな差が開いてしまったのだった。
+![](http://www.wizards.com/sideboard/images/worlds03/a881.jpg)
+
+《行き詰まり/Standstill》状況下でX=4の《正義の命令/Decree of Justice》サイクリングでダメージクロックを作り出そうとSonneが動きを見せた瞬間に、岡本は3枚のカードを引かれてしまうことも厭わず《狡猾な願い/Cunning Wish》でサイドボードから《堂々巡り/Circular Logic》を調達。そして、《ミラーリの目覚め/Mirari's Wake》が二回の《マナ漏出/Mana Leak》で阻害されたものの...6マナを支払ったことでこれがあっさりと通ってしまい、実質的なマナの絶対量に大きな差が開いてしまったのだった。
 
 結局、《神の怒り/Wrath of God》で小うるさいアタッカーを排除した上で《ミラーリ/Mirari》を設置。そして岡本が《綿密な分析/Deep Analysis》をコピーしはじめた段階で、Sonneは敗北を認めたのだった。
 
@@ -187,7 +189,9 @@ render_recovery:
 
 2戦目のSonneは一戦目が嘘のように手ごわかった。というのも、先手2ターン目に彼がプレイした《石臼/Millstone》がなかなかに対処できなかったからである。それでも、2ターン目に素直に《強制/Compulsion》を張らせてもらえたことは大きな助けとなった。
 
-![](http://www.wizards.com/sideboard/images/worlds03/a882.jpg)Sonneのすることといったら、ターン終了ステップの《石臼/Millstone》起動くらいのもので、《ミラーリ/Mirari》を《マナ漏出/Mana Leak》のおとりに使ったつかったことで《ねじれの光/Ray of Distortion》を通すこともかなった。タイミングをまったために岡本のライブラリーは相当に磨耗してしまったが...実のところ《狡猾な願い/Cunning Wish》から《クローサ流再利用/Krosan Reclamation》という手段もオプションとして存在しているわけだ。
+![](http://www.wizards.com/sideboard/images/worlds03/a882.jpg)
+
+Sonneのすることといったら、ターン終了ステップの《石臼/Millstone》起動くらいのもので、《ミラーリ/Mirari》を《マナ漏出/Mana Leak》のおとりに使ったつかったことで《ねじれの光/Ray of Distortion》を通すこともかなった。タイミングをまったために岡本のライブラリーは相当に磨耗してしまったが...実のところ《狡猾な願い/Cunning Wish》から《クローサ流再利用/Krosan Reclamation》という手段もオプションとして存在しているわけだ。
 
 結局、Sonneのメイン勝ち手段である《正義の命令/Decree of Justice》を一度は《もみ消し/Stifle》で対抗し、次は《行き詰まり/Standstill》をものともせず《神の怒り/Wrath of God》で強引に一掃してみせた。とにもかくにも...延々と《強制/Compulsion》が回り続けたのだ。
 

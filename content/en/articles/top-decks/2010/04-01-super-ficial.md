@@ -166,13 +166,19 @@ I would guess that "slow" leveling is a good design / development decision, and 
 
 Kargan Dragonlord is probably not the first leveler you have seen at this point. In fact, you can check the full *Rise of the Eldrazi* Visual Spoiler in the [Product Section](https://web.archive.org/web/20100401000000/https://magic.wizards.com/en/articles/archive/rise-eldrazi-product-section-2010-03-31) to see cards like Lighthouse Chronologist, Knight of Cliffhaven, and Guul Draz Assassin. It is probably worth walking through some of the things that set levelers apart visually (as well as in terms of mechanics), as they are going to be a new, different, and much-played part of the **Magic** landscape in the coming months and years.
 
-![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/td/td84_1.jpg)Like planeswalkers (and like the Eldrazi themselves), levelers *look* different from other "traditional" **Magic** cards.
+![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/td/td84_1.jpg)
 
-![](https://i.ormos.uk/7e/e3/7ee34ae45459a19edfa55c10ce57d5d94c958b0c17718fff73d037a134458a2a.jpg)Levelers, unlike most creatures, have three power/toughness boxes, delimited by three level-based striations. This might not be obvious, but the abilities described by the third striation will wholly supplant any abilities granted by the second striation (though the level up ability itself is level-independent).
+Like planeswalkers (and like the Eldrazi themselves), levelers *look* different from other "traditional" **Magic** cards.
+
+![](https://i.ormos.uk/7e/e3/7ee34ae45459a19edfa55c10ce57d5d94c958b0c17718fff73d037a134458a2a.jpg)
+
+Levelers, unlike most creatures, have three power/toughness boxes, delimited by three level-based striations. This might not be obvious, but the abilities described by the third striation will wholly supplant any abilities granted by the second striation (though the level up ability itself is level-independent).
 
 So in the case of Kargan Dragonlord, the ability "flying" is printed twice.
 
-![](https://i.ormos.uk/96/d9/96d987d75693122ceff8a3b415840d76f0c31a882dfbfb057b0bae89573ff150.jpg)Like I said, it's not obvious ... but a level 8 Kargan Dragonlord no longer has the correct number of counters to be level 4-7. Therefore if flying were earned at the second striation \[only\], it would no longer be relevant to the Dragonlord in its final form; Kargan Dragonlord would simply have the wrong number of counters at that point.
+![](https://i.ormos.uk/96/d9/96d987d75693122ceff8a3b415840d76f0c31a882dfbfb057b0bae89573ff150.jpg)
+
+Like I said, it's not obvious ... but a level 8 Kargan Dragonlord no longer has the correct number of counters to be level 4-7. Therefore if flying were earned at the second striation \[only\], it would no longer be relevant to the Dragonlord in its final form; Kargan Dragonlord would simply have the wrong number of counters at that point.
 
 [![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/td/td84_uytrd5f36d5bfgbs.jpg)](https://web.archive.org/web/20130924004621/http://www.wizards.com/Magic/TCG/Products.aspx?x=mtg/tcg/products/riseoftheeldrazi)
 

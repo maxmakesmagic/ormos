@@ -347,7 +347,9 @@ Matias started bemoaning his luck even before the match began. "I'm so unlucky, 
 
 ### Game 1
 
-![](https://i.ormos.uk/84/52/84526aa4550203e44f45c94295b51c569131586d8032c285e9be6f351131d6c0.jpg)Matt decided to play first and seemed content with his opening hand. Both players started the game off with Swamps, and Matt quickly added a Plains to his side of the table to cycle Renewed Faith.
+![](https://i.ormos.uk/84/52/84526aa4550203e44f45c94295b51c569131586d8032c285e9be6f351131d6c0.jpg)
+
+Matt decided to play first and seemed content with his opening hand. Both players started the game off with Swamps, and Matt quickly added a Plains to his side of the table to cycle Renewed Faith.
 
 Rotlung Reanimator hit the table turn three for Matias, but on the other side of the table was Exalted Angel from Matt. Matias tried to even things out a little by playing a Graveborn Muse, but the angel from Matt just kept swinging.
 
@@ -357,7 +359,9 @@ Matias swung with his army, but it had little effect, bringing Matt back down to
 
 A second Blackmail removed a second Wrath of God from Matt's hand.
 
-![](https://i.ormos.uk/5b/dc/5bdc4ca0c94f36c0ee004600c2ccaa5e058f4f55dd6291551a60711bf8322571.jpg)Eternal Dragon landed on the table for Matt as he pointed his finger back at Matias to signal "your turn."
+![](https://i.ormos.uk/5b/dc/5bdc4ca0c94f36c0ee004600c2ccaa5e058f4f55dd6291551a60711bf8322571.jpg)
+
+Eternal Dragon landed on the table for Matt as he pointed his finger back at Matias to signal "your turn."
 
 The next Blackmail from Matias catches a Haunting Echoes and a Decree of Justice in Matt's hand. Even after he took a card from Matt, Matias knew this one was over. He scooped up his cards and prepared for round two.
 
@@ -379,7 +383,9 @@ Matias took his four damage and played out a second Rotlung Reanimator. Matt too
 
 Matias had two Rotlungs, a Mesmeric Fiend and a Withered Wretch in play. If Matt waited until Wrath of God and then played the Echoes he would have been in better shape some people in the area thought. 
 
-![](https://i.ormos.uk/f8/3c/f83c847395388cf6cf3e260d91265ed418f2f91ed4bd8919f463240f8b188032.jpg)Braids finally joined the table for Matias, still with no sign of Wrath from Matt, which meant he made the right decision with the early Echoes. The Braids had been in Matias' hand for so long that it was gathering mold, sitting there since his opening hand.
+![](https://i.ormos.uk/f8/3c/f83c847395388cf6cf3e260d91265ed418f2f91ed4bd8919f463240f8b188032.jpg)
+
+Braids finally joined the table for Matias, still with no sign of Wrath from Matt, which meant he made the right decision with the early Echoes. The Braids had been in Matias' hand for so long that it was gathering mold, sitting there since his opening hand.
 
 The Exalted Angel was still on the table for Matt, but Matias has a growing army of guys as he added Withered Wretch to the table. The Wretch didn't help as Matias was left with no way to remove the Exalted Angel from play and lost the match because of her.
 

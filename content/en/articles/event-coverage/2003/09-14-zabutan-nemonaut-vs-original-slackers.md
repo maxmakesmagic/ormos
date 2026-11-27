@@ -53,7 +53,9 @@ render_recovery:
 ---
 今回PTQ からベスト4 まで勝ち上がってきたOriginal Slackers 。3 人ともノルウェーに在住しているが全員国籍が違うらしくInternational で登録されている。チーム体系的にはGP ワルシャワで優勝しているエースOsterberg のワンマンに近い形らしい。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a794.jpg)対するZabutan Nemonaut はGary Wise 、Eugene Harvey 、Mike Turianの名だたる3人。その中でもGary Wise は今回でチームプロツアー3 回目の日曜出勤となったわけだが不安点があるとするならば前回のプロツアーで無名だった2020 相手に準決勝で負けてしまったこと。ジンクスを破ることはできるのか？
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a794.jpg)
+
+対するZabutan Nemonaut はGary Wise 、Eugene Harvey 、Mike Turianの名だたる3人。その中でもGary Wise は今回でチームプロツアー3 回目の日曜出勤となったわけだが不安点があるとするならば前回のプロツアーで無名だった2020 相手に準決勝で負けてしまったこと。ジンクスを破ることはできるのか？
 
 デッキ的には  
  Zabutan Nemonaut  
@@ -75,7 +77,9 @@ Osterbergは《平和な心/[Pacifism](https://web.archive.org/web/2003091400000
 
 Harvey の先行で《エイヴンの遠見/[Aven Farseer](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Farseer)》からスタート。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a792.jpg)Osterberg は変異、変異と展開し対するHarvey は変異、《冷静なチャンピオン/[Stoic Champion](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stoic+Champion)》と出してオールアタック。どちらも変異でブロックしたOsterberg は1 枚を《ゾンビの殺し屋》に表返ししてHarvey の変異は《エイヴンの解放者/[Aven Liberator](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Liberator)》に変身。この戦闘によりOsterberg のライフは10 となる。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a792.jpg)
+
+Osterberg は変異、変異と展開し対するHarvey は変異、《冷静なチャンピオン/[Stoic Champion](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stoic+Champion)》と出してオールアタック。どちらも変異でブロックしたOsterberg は1 枚を《ゾンビの殺し屋》に表返ししてHarvey の変異は《エイヴンの解放者/[Aven Liberator](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Liberator)》に変身。この戦闘によりOsterberg のライフは10 となる。
 
 《冠毛の岩角獣/[Crested Craghorn](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crested+Craghorn)》と《エイヴンの遠見》を相打ちさせられたHarvey はそれならばと《エイヴンの解放者》に《ドラゴンの鱗》を着けて攻め立てたためOsterberg のライフは4 まで落ち込むのだが《急降下爆撃兵/[Dive Bomber](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber)》、《エイヴンの救い手》と連続で飛行をキャストでき、ついにHarvey の攻撃が止まる。
 

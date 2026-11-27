@@ -155,7 +155,9 @@ The Pro Tour is less than two weeks off! I can't wait to see what new decks show
 
 ### Super Duper Pro Tour Historian
 
-![Captain America: Red, White & Blue](https://i.ormos.uk/44/3a/443af7df36d8effef34ff31ac6f05795d0f3c54c48443eb5171408ca68ef3828.jpg)Wednesday is comics day in the United States; that's the day that comics specialty stores—the kinds of stores where I (and I would guess many of you) first saw **Magic** cards—get their weekly shipments of funny books. Last Wednesday I was in the store and was prompted to call my good friend [Brian David-Marshall](https://web.archive.org/web/20071004000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/authorarchive&author=BrianDavid-Marshall). I did so very loudly, in such a way that my fellow fan boys could not help but notice.
+![Captain America: Red, White & Blue](https://i.ormos.uk/44/3a/443af7df36d8effef34ff31ac6f05795d0f3c54c48443eb5171408ca68ef3828.jpg)
+
+Wednesday is comics day in the United States; that's the day that comics specialty stores—the kinds of stores where I (and I would guess many of you) first saw **Magic** cards—get their weekly shipments of funny books. Last Wednesday I was in the store and was prompted to call my good friend [Brian David-Marshall](https://web.archive.org/web/20071004000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/authorarchive&author=BrianDavid-Marshall). I did so very loudly, in such a way that my fellow fan boys could not help but notice.
 
 YT: Have you got any royalty checks from Marvel recently?
 

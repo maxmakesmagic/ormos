@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/155.jpg)In the twelfth round, Noah Boeken from the Netherlands faced Tomi Walamies from Finland. The two players were both at 28 points and needed one more win to make the top 8. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/155.jpg)
+
+In the twelfth round, Noah Boeken from the Netherlands faced Tomi Walamies from Finland. The two players were both at 28 points and needed one more win to make the top 8. 
 
 Noah chose to play and started by playing two islands and a plains. Tomi got out a turn two Shivan Zombie and attacked, and then he attempted to play a Viashino Grappler, but it was Absorbed. Noah then cast a Rainbow Crow that blocked the Shivan Zombie and cleared the table, but Tomi had an Ancient Kavu as well and he cast it and continued attacking. The Finn also got out a Phyrexian Slayer. 
 

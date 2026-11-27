@@ -775,7 +775,9 @@ render_recovery:
 ---
 ### Eugene Harvey vs. Matt Linde
 
-![](https://i.ormos.uk/57/06/570660e80c1b4569078e713284d993d626db20b4e99cc1042e0638e14a4c99c0.jpg)Matt Linde and Eugene Harvey are both names that need little introduction. Both are former U.S. National champs who have fared well in their Magic exploits over the last year. Harvey was in the Top 8 at Pro Tour: New Orleans, Top 4 of Team Pro Tour: Boston, and Top 16 Amsterdam, while Linde won Pro Tour: Boston with his team, was a finalist at Grand Prix: Atlanta, and made the Top 16 in Yokohama. Both players featured decks sporting Red, but Linde's was a lightning fast U/R Affinity creation, while Eugene's was a slower, but possibly more powerful R/G deck.
+![](https://i.ormos.uk/57/06/570660e80c1b4569078e713284d993d626db20b4e99cc1042e0638e14a4c99c0.jpg)
+
+Matt Linde and Eugene Harvey are both names that need little introduction. Both are former U.S. National champs who have fared well in their Magic exploits over the last year. Harvey was in the Top 8 at Pro Tour: New Orleans, Top 4 of Team Pro Tour: Boston, and Top 16 Amsterdam, while Linde won Pro Tour: Boston with his team, was a finalist at Grand Prix: Atlanta, and made the Top 16 in Yokohama. Both players featured decks sporting Red, but Linde's was a lightning fast U/R Affinity creation, while Eugene's was a slower, but possibly more powerful R/G deck.
 
 ### Game 1
 

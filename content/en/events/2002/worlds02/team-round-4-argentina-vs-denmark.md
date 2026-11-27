@@ -453,7 +453,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a605.jpg)The Argentinean team is riding high this weekend. Captain Diego Ostrovich is in the Top 8 of the singles competition, and now they are just a match win away from an appearance in the Team Finals as well. They, along with Top 8 competitor Carlos Romao of Brazil, are the symbol of the rise in skill among the Latin American pro community. 
+![](http://www.wizards.com/sideboard/images/worlds02/a605.jpg)
+
+The Argentinean team is riding high this weekend. Captain Diego Ostrovich is in the Top 8 of the singles competition, and now they are just a match win away from an appearance in the Team Finals as well. They, along with Top 8 competitor Carlos Romao of Brazil, are the symbol of the rise in skill among the Latin American pro community. 
 
 The Danish team is surprising everyone, surging past a lot of powerhouse teams to find themselves in contention for the second spot.
 
@@ -467,7 +469,9 @@ In the final seat Gabriel Caligaris of Argentina had his quick start of Phantom 
 
 Back in the first match Christiensen counterattacked, leaving Ostrovich at 5. He played a Petravark and passed it back. Ostrovich had just one card in hand. If it was removal, he would win. He swung with just Scourge and passed it back, signaling that he had nothing. Christensen swung in, and pumped the shade for lethal damage. First blood went to Denmark.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a606.jpg)Next door, Cleeman had played the tempo game, using Prismatic Strands to buy two turns of attacks, leaving Michelena at 4. Fortunately, Michelena had Repel to stop the lethal attack. However, he didn't have a permanent answer. At two, he swung in with all his creatures. Cleeman blunted the attack, and swung for the win. You could see the effect of the Danes' advantage on both teams. Denmark's spirits rose and high-fives were exchanged. The Argentineans redoubled their concentration.
+![](http://www.wizards.com/sideboard/images/worlds02/a606.jpg)
+
+Next door, Cleeman had played the tempo game, using Prismatic Strands to buy two turns of attacks, leaving Michelena at 4. Fortunately, Michelena had Repel to stop the lethal attack. However, he didn't have a permanent answer. At two, he swung in with all his creatures. Cleeman blunted the attack, and swung for the win. You could see the effect of the Danes' advantage on both teams. Denmark's spirits rose and high-fives were exchanged. The Argentineans redoubled their concentration.
 
 The time Laier bought with his Wormfang bore powerful fruit. He had Coral Net to dispatch Hallowed Healer, then Genesis to still the ground, and finally Beast Attack to bring the beats. Caligaris's attempt at Gallantry was stopped by Aether Burst, and then he was forced to use his Second Thoughts on a Beast token. The way was clear for Genesis to attack. Caligaris needed a perpetual blocker, and fast.
 
@@ -489,7 +493,9 @@ Cleeman was facing the same army of monsters he outraced in Game 1. Again he had
 
 The attrition game worked to Laier's advantage, and he eventually ran Caligaris out of blockers, taking the first game. Denmark had four unanswered game wins.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a607.jpg)The next game he had a quick start while Caligaris drew unspectacular creatures. He was firmly on the back foot, working his defense as best he could, but four power worth of fliers was making things difficult.
+![](http://www.wizards.com/sideboard/images/worlds02/a607.jpg)
+
+The next game he had a quick start while Caligaris drew unspectacular creatures. He was firmly on the back foot, working his defense as best he could, but four power worth of fliers was making things difficult.
 
 Cleeman finally found a Benevolent Bodyguard to let his Skywing Aven past Michelena's thresholded Seton's Scout, looking to deal the final two points. Michelena played Alter Reality before blockers. Cleeman informed him that he could not. Michelena argued that he had made the same play on Magic Online. Head Judge Collin Jackson was consulted, who then contacted Rules Manager Paul Barclay. It turns out that Michelena had, in fact, found a bug in Magic Online. Cards that alter other cards' text can only affect the text printed on the card. Abilities, though granted, do not actually get "written down". This was small comfort to Michelena.
 

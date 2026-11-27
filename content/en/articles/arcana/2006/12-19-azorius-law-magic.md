@@ -111,7 +111,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/cd/6c/cd6cc7139f92d5799b09b322e811e8bb2ebb4abbe2c7c8786cea9f9f4670e137.jpg)The Azorius are the embodiment of law in Ravnica, but enforcement can be a problem for them. They employ knights and hussars, but aside from a few powerful exceptions, they’re not much of a fighting guild. Their weaponry is beautiful but mostly decorative, and their armor ranges from “looks cool glinting in the sun” to “actively hinders movement.”
+![](https://i.ormos.uk/cd/6c/cd6cc7139f92d5799b09b322e811e8bb2ebb4abbe2c7c8786cea9f9f4670e137.jpg)
+
+The Azorius are the embodiment of law in Ravnica, but enforcement can be a problem for them. They employ knights and hussars, but aside from a few powerful exceptions, they’re not much of a fighting guild. Their weaponry is beautiful but mostly decorative, and their armor ranges from “looks cool glinting in the sun” to “actively hinders movement.”
 
 Luckily the Azorius are masters of a kind of authority magic. They aren’t all about the delaying power of bureaucracy, although that’s definitely part of their arsenal. At their strongest, the Azorius can compel obedience outright through the use of [law magic](https://web.archive.org/web/20070810025738/http://www.wizards.com/default.asp?x=magic/dissension/azoriusfiction1)—eliminating the need for combat and getting their way at the same time.
 

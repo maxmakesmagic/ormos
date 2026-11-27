@@ -721,7 +721,9 @@ During this step I figure out which of my playable cards I actually want to play
 
 In my final first run through step, I determine which of my cards are worth trying a little bit harder to play. This could mean a light splash for a banishing or two, or turning a somewhat weak color into a base color in order to support a double casting cost bomb.
 
-![](https://i.ormos.uk/da/ba/dabaf02e37057c75c0b8569b9a0bf2944a28271e8218ce24b658a3a537be5f9d.jpg)Sometimes this simple process will practically build my deck for me (especially if my deck is pretty bad or very good). However, the most frequent outcome that I get when using this sorting process is that I will be able to eliminate an entire color and reduce another color to, at most, a splash. This leaves me with an average of 3.5 colors worth of options to build from. And let me tell you, building a deck from 3.5 colors worth of options is about nine times easier then trying to build a deck while looking at all of the colors.
+![](https://i.ormos.uk/da/ba/dabaf02e37057c75c0b8569b9a0bf2944a28271e8218ce24b658a3a537be5f9d.jpg)
+
+Sometimes this simple process will practically build my deck for me (especially if my deck is pretty bad or very good). However, the most frequent outcome that I get when using this sorting process is that I will be able to eliminate an entire color and reduce another color to, at most, a splash. This leaves me with an average of 3.5 colors worth of options to build from. And let me tell you, building a deck from 3.5 colors worth of options is about nine times easier then trying to build a deck while looking at all of the colors.
 
 Even if I'm not able to eliminate many inefficient options, this color by color evaluation makes the rest of deck building easier for me as I am able to spend my time asking important questions about how I want my deck to look, instead of wasting lots of time asking myself things like "I wonder if I have enough cards to build a black-white deck?"
 

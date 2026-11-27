@@ -915,7 +915,9 @@ When I first saw Shattering Spree, I immediately knew it was going to be a power
 
 Some people saw Mycosynth Lattice and thought, “Man, this makes my affinity cards amazing – plus now I can hit my opponent with a Feedback Bolt for fifteen!” Others looked at the Lattice and mused, “With a Lattice in play, I can play all five colors in my deck and not worry about color requirements to cast my spells!”
 
-![](https://i.ormos.uk/a2/12/a21209575c10b0f720234ef6407b176669d8b9be1688f800b2745c0a823b0a7d.jpg)I thought to myself, “Self, I wish there was a card that would allow me to take advantage of turning all of my opponent's permanents into artifacts.” Two years later, the good folks at Wizards of the Coast finally gave me my wish – targeted, one-sided mass destruction and chaos.
+![](https://i.ormos.uk/a2/12/a21209575c10b0f720234ef6407b176669d8b9be1688f800b2745c0a823b0a7d.jpg)
+
+I thought to myself, “Self, I wish there was a card that would allow me to take advantage of turning all of my opponent's permanents into artifacts.” Two years later, the good folks at Wizards of the Coast finally gave me my wish – targeted, one-sided mass destruction and chaos.
 
 I set out to build a Lattice/Spree deck to play on ***Magic** Online*. I faced two decisions when laying out the beginnings of the deck:
 

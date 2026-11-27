@@ -78,7 +78,9 @@ render_recovery:
   - Phantom Centaur
   occurrences: 36
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/918.jpg)There are many French players here this weekend, and these two are currently the highest placed, with 30 points coming into the round. This puts them only one win away from a virtually certain top eight berth. Of the two, Christophe is a much better known player, with a top eight finish in Osaka. He is playing Blue-Green Madness while Gerard is playing Blue-Black: Control, rather than the Upheaval deck.
+![](https://www.wizards.com/sideboard/images/gplon02/918.jpg)
+
+There are many French players here this weekend, and these two are currently the highest placed, with 30 points coming into the round. This puts them only one win away from a virtually certain top eight berth. Of the two, Christophe is a much better known player, with a top eight finish in Osaka. He is playing Blue-Green Madness while Gerard is playing Blue-Black: Control, rather than the Upheaval deck.
 
 ### Game One
 

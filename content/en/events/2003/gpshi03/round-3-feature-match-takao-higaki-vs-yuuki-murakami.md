@@ -152,7 +152,9 @@ Yuuki has been a member of the Japanese National team and is from the Sendai are
 
 ### Game One
 
-![](https://i.ormos.uk/8e/90/8e909fc463c33a3cd3245e29dddf18abdc7af87e4720d80a3bb5f32324965701.jpg)Higaki kept his hand quickly but Murakami had to think for some time. He kept a one-lander with multiple Myr. Higaki opened with AEther Spellbomb and followed with a Crystal Shard. Murakami had the second land and was able to play his Myr. Murakami had a third land as well and played a Wizard Replica with Shard mana up. Higaki followed with Tel-Jilad Exile and then a Cobalt Golem while Murakami played another Wizard Replica and still had to be cautious to play around the Shard. His hand was chock full of goodies--Loxodon Warhammer, Battlegear and Fangren Hunter but he could not get anything going due to playing around the Shard. He played an Auriok Bladewarden.
+![](https://i.ormos.uk/8e/90/8e909fc463c33a3cd3245e29dddf18abdc7af87e4720d80a3bb5f32324965701.jpg)
+
+Higaki kept his hand quickly but Murakami had to think for some time. He kept a one-lander with multiple Myr. Higaki opened with AEther Spellbomb and followed with a Crystal Shard. Murakami had the second land and was able to play his Myr. Murakami had a third land as well and played a Wizard Replica with Shard mana up. Higaki followed with Tel-Jilad Exile and then a Cobalt Golem while Murakami played another Wizard Replica and still had to be cautious to play around the Shard. His hand was chock full of goodies--Loxodon Warhammer, Battlegear and Fangren Hunter but he could not get anything going due to playing around the Shard. He played an Auriok Bladewarden.
 
 Higaki had a Battlegear all his own which was going to be trouble on a regenerating Exile. The Exile picked up the equipment on schedule and bashed in for five. Murakami had to think. He had five lands and a pair of Myr. He wanted to play his Warhammer--or Battlegear for that matter--and attack but he did not want to lose the tempo to the Crystal Shard. He finally tried to equip the Bladewarden with the Warhammer and it was Spellbombed back to his hand. One card down but the pesky Spellbomb still loomed.
 
@@ -170,7 +172,9 @@ Murakami sided out most of his green for Barter in Blood, Muriok Scavenger and P
 
 ### Game Two
 
-![](https://i.ormos.uk/5d/f8/5df8df6da160a85ffb5e7288565ac5ceae9150ab9765e944747783425b73d7bb.jpg)Both players kept their opening hands--Murakami chose to draw. Higaki led off with a Mask and a Granite Shard. He had no fourth land but played a Crystal Shard--no blue mana in sight. Murakami was holding a Barter in Blood and was content to play lands. When Higaki put out a Tel-Jilad Archers he made as if to put it in the graveyard. With no threat from the equipment Murakami was content to let it stick and played a Myr.
+![](https://i.ormos.uk/5d/f8/5df8df6da160a85ffb5e7288565ac5ceae9150ab9765e944747783425b73d7bb.jpg)
+
+Both players kept their opening hands--Murakami chose to draw. Higaki led off with a Mask and a Granite Shard. He had no fourth land but played a Crystal Shard--no blue mana in sight. Murakami was holding a Barter in Blood and was content to play lands. When Higaki put out a Tel-Jilad Archers he made as if to put it in the graveyard. With no threat from the equipment Murakami was content to let it stick and played a Myr.
 
 Higaki followed with a Neurok Spy and when Murakami used Barter in Blood Mr. Ninth saved the Spy with three mana and the Shard. The Spy made a reappearance and Murakami played Leonin Abunas. Higaki had an AEther Spellbomb which earned a groan from his foe. A Skyhunter Patrol arrived for Murakami and he was pecked at with the Granite Shard. Neurok Spy picked up the Mask of Memory but the turn was passed with no artifacts on Abunas's team to protect.
 

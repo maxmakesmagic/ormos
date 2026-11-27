@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpsap02/a933.jpg)Frankly, this was the semifinal everyone was expecting. Itaru Ishida and Masahiko Morita are two of Japan's best pro players, and it just seemed a foregone conclusion that they would both advance past their quarterfinal opponents. Morita is running Blue-Green Speculation, complete with Catalyst Stones and Grizzly Fates. Ishida is playing Team Punisher's Worlds deck, a white weenie deck that touches blue for Speculation and other goodies. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpsap02/a933.jpg)
+
+Frankly, this was the semifinal everyone was expecting. Itaru Ishida and Masahiko Morita are two of Japan's best pro players, and it just seemed a foregone conclusion that they would both advance past their quarterfinal opponents. Morita is running Blue-Green Speculation, complete with Catalyst Stones and Grizzly Fates. Ishida is playing Team Punisher's Worlds deck, a white weenie deck that touches blue for Speculation and other goodies. 
 
 Ishida, playing first, mulliganed a one-land hand. His second was acceptable, and they were off. He got things going with a turn-two Patrol Hound. Morita answered with Werebear. Ishida pulled up a third mana and played Divine Sacrament, swinging for three. Morita made a Mongrel and gave it back. Ishida topdecked Skycloud Expanse, enabling Breakthrough for three. He pitched Glory, Deep Analysis and a land, keeping two more and a Tribe in hand.
 

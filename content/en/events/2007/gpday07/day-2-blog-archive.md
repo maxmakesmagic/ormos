@@ -1564,7 +1564,9 @@ That was enough for Ben who could only lament, "I should have killed the Judge."
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpday07/Rd-10-Lundquist.jpg)Springleaf Drum for Ben followed by Smokebraider gave him plenty of mana. Gab had Sygg but had to use counter from his Vivid Creek to find the white. Ben made a turn thee Lowland Oaf. Gab found the Plains a turn later and conjured up Judge of Currents and Goldmeadow Harrier. 
+![](http://www.wizards.com/sideboard/images/gpday07/Rd-10-Lundquist.jpg)
+
+Springleaf Drum for Ben followed by Smokebraider gave him plenty of mana. Gab had Sygg but had to use counter from his Vivid Creek to find the white. Ben made a turn thee Lowland Oaf. Gab found the Plains a turn later and conjured up Judge of Currents and Goldmeadow Harrier. 
 
 Dread came down on turn four for Ben and an onlooker whistled, "That seemed fast."
 
@@ -1614,7 +1616,9 @@ Game 1
 
 Chris, who led things off with Elvish HarbingerEyeblight's Ending, sounded horrible and raspy as he has been slowly succumbing to a bad cold that will no doubt have swept through the Magic community by the time Worlds rolls around. Paulo, who had mulliganed, had no play until a turn three Streambed Aquitects. Lys Alana Huntmaster came down for Chris. A turn later he tutored for Nameless Inversion with Treefolk Harbinger. 
 
-![](http://www.wizards.com/sideboard/images/gpday07/rd-12-Vitorb.jpg)Paulo passed the turn with five mana and no play. Chris punished the merfolk for its lack of elfiness and made a token. Elvish Branchbender made another on his turn. Paulo played Silvergill Douser and Merrow Harbinger for another Aquitect. Paulo could not fight off an 8/8 Forest and they were quickly on to Game 2. 
+![](http://www.wizards.com/sideboard/images/gpday07/rd-12-Vitorb.jpg)
+
+Paulo passed the turn with five mana and no play. Chris punished the merfolk for its lack of elfiness and made a token. Elvish Branchbender made another on his turn. Paulo played Silvergill Douser and Merrow Harbinger for another Aquitect. Paulo could not fight off an 8/8 Forest and they were quickly on to Game 2. 
 
 ### Game 2
 
@@ -1628,7 +1632,9 @@ Moonglove Extract killed the Douser before Chris made a 5/5 Forest which he sent
 
 Treefolk Harbinger for Timber Protector opened the game for Chris while Paulo had his traditional turn three Streambed Aquitects opening. He was able to Faerie Trickery a Bog-Strider Ash on turn four and had Shriekmaw at the ready for the Timber Protector
 
-![](http://www.wizards.com/sideboard/images/gpday07/rd-12-chris.jpg)Chris's Lys Alana Huntmaster yielded an elf token when Paulo attacked for three and forced Chris to use his Nameless Inversion. He made Chris' lone Swamp an Island during combat. He then played Consuming to kill the Huntmaster. Lowland Oaf was next for Paulo but it was quickly exchanged for a token and Moonglove Extract. 
+![](http://www.wizards.com/sideboard/images/gpday07/rd-12-chris.jpg)
+
+Chris's Lys Alana Huntmaster yielded an elf token when Paulo attacked for three and forced Chris to use his Nameless Inversion. He made Chris' lone Swamp an Island during combat. He then played Consuming to kill the Huntmaster. Lowland Oaf was next for Paulo but it was quickly exchanged for a token and Moonglove Extract. 
 
 Paulo seemed to have all gas while Chris was glowering at the top of his own deck. Sentinels of Glen Elendra and Inner-Flame Igniter joined the Brazillian team. When Paulo attacked with everyone Chris had Gilt-Leaf Ambush. Chris revealed Harninger on his clash while Paulo showed off his Chandra Nalaar. 
 
@@ -1654,7 +1660,9 @@ Yesterday we presented you Shingou Kurihara’s card pool for this tournament an
 
     *by Andre Coimbra*
 
-![](http://www.wizards.com/sideboard/images/gpday07/drafting-with-nassif.jpg)Drafting on the first table of a Grand Prix might be scary for some players, but not for Gabriel Nassif. He may be known as a Constructed master but it was in Limited where he earned both his first Pro Tour Top8 and his Pro Tour win, proving to be a real master of the game. 
+![](http://www.wizards.com/sideboard/images/gpday07/drafting-with-nassif.jpg)
+
+Drafting on the first table of a Grand Prix might be scary for some players, but not for Gabriel Nassif. He may be known as a Constructed master but it was in Limited where he earned both his first Pro Tour Top8 and his Pro Tour win, proving to be a real master of the game. 
 
 In the first draft of this event Nassif decided to take the best card in the booster with each pick. He ended up with some sort of 5-color deck with a super high average card quality, but not happy with a 1-1-1 score. It's common knowledge that at a poker table the best strategy to use is the opposite of the one other players are using. As a poker player himself, Nassif realized that his opponent's at this draft table would not play much green and in a pokerwise approach to the draft, he chose to pick green from the beginning to the end.
 
@@ -1696,7 +1704,9 @@ On one side of the Feature Match area, Tillman Bragg, playing his White/Red Kith
 
     *by Brian David-Marshall*
 
-![](http://www.wizards.com/sideboard/images/gpday07/rd-15-chambers.jpg)Andre Coimbra came up to me after covering a Feature Match and said, "That Adam Chambers is pretty good." Andre was impressed by how crisply the Pro Tour Atlanta semifinalist played while still having the ability to slow things down and think about the correct play when he needed to figure something out. 
+![](http://www.wizards.com/sideboard/images/gpday07/rd-15-chambers.jpg)
+
+Andre Coimbra came up to me after covering a Feature Match and said, "That Adam Chambers is pretty good." Andre was impressed by how crisply the Pro Tour Atlanta semifinalist played while still having the ability to slow things down and think about the correct play when he needed to figure something out. 
 
 What has always impressed me about him is his composure. Adam always maintains the same level while playing Magic. He never groans about his losses and never gloats over his victories. He just takes each match in stride and goes about his business. Despite his apparently emotionless response to wins and losses he still manages to have while fun playing the game and has often has pet cards and strategies. 
 
@@ -1736,7 +1746,9 @@ Adam used Perstermite to tap the Oaf after it was equipped and had another Peste
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpday07/rd-15-grace.jpg)"It's been a couple of blowouts...let's play some Magic this game," suggested Tannon before wishing Adam luck in the final game. 
+![](http://www.wizards.com/sideboard/images/gpday07/rd-15-grace.jpg)
+
+"It's been a couple of blowouts...let's play some Magic this game," suggested Tannon before wishing Adam luck in the final game. 
 
 There was a mulligan for Adam and the same Stalactite/Douser open for Tannon who then followed up with a clash-losing Paperfin Rascal after Adam's Boggart Sprite Chaser. Pestermite joined Tannon's team and he began attacking for three with an equipped Rascal until Faerie Harbinger supersized his goblin and found Peppersmoke. Tannon saved the Pestermite with his Douser, which was soon to be maced by the Faerie instant. Tannon added Lowland Oaf. 
 

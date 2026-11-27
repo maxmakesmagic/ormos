@@ -146,7 +146,9 @@ Pour résumer, l'information, c'est toujours très subjectif. Les erreurs de jug
 
 ### Ressources
 
-![Squandered_Resources](https://i.ormos.uk/9c/28/9c28f432a0c436b2a34d74725688ae0c76ae2c1060544d67e8fb12824f93cd3a.jpg)L'information est toujours constante. La plupart du temps, vous l'avez ou vous ne l'avez pas. (Mais de nouveaux renseignements sont introduits à chaque tour pendant l'étape de pioche.)
+![Squandered_Resources](https://i.ormos.uk/9c/28/9c28f432a0c436b2a34d74725688ae0c76ae2c1060544d67e8fb12824f93cd3a.jpg)
+
+L'information est toujours constante. La plupart du temps, vous l'avez ou vous ne l'avez pas. (Mais de nouveaux renseignements sont introduits à chaque tour pendant l'étape de pioche.)
 
 L'état des ressources, lui, change régulièrement. Chaque tour a son étape de dégagement et son étape de pioche. Un joueur a la capacité d'attaquer avec des créatures pendant son tour, mais pas celui de l'adversaire. La taille du deck diminue…
 
@@ -203,7 +205,9 @@ Vous pourriez jouer le Choc tôt pour voir si votre adversaire peut faire quelqu
 
 Vous pourriez attendre à la fois pour préserver l'information et en acquérir plus au cas où il jouerait un enchantement de créature ou une créature plus désirable à éliminer avant la phase de combat.
 
-![Intuition](https://i.ormos.uk/d2/02/d20217f615a8bffc1b527ee60afe9a943915afabd5b2c6d052c5390741415aed.jpg)Avez-vous une idée des cartes que votre adversaire pourrait jouer et qui pourraient influencer votre décision ? Si c'est une partie en Draft ou en Paquet scellé Édition de base, le noir n'a pas grand-chose — peut-être un enchantement de créature que vous savez que votre adversaire va jouer ? Le vert a des sorts de pompe et des enchantements de créature. Avez-vous une idée de ce que votre adversaire a le plus, ou de ce qu'il pourrait jouer dans ce style ?
+![Intuition](https://i.ormos.uk/d2/02/d20217f615a8bffc1b527ee60afe9a943915afabd5b2c6d052c5390741415aed.jpg)
+
+Avez-vous une idée des cartes que votre adversaire pourrait jouer et qui pourraient influencer votre décision ? Si c'est une partie en Draft ou en Paquet scellé Édition de base, le noir n'a pas grand-chose — peut-être un enchantement de créature que vous savez que votre adversaire va jouer ? Le vert a des sorts de pompe et des enchantements de créature. Avez-vous une idée de ce que votre adversaire a le plus, ou de ce qu'il pourrait jouer dans ce style ?
 
 Il a du mana dégagé, ce qui veut dire que s'il a un sort de pompe, il peut sauver les Grizzlis s'il le désire. Vous pouvez attendre son entretien pour interrompre un mana, mais cela vous coûterait 5 blessures et les ours s'il a une Croissance — ça n'a pas l'air d'être un bon plan. Vous pouvez attendre son étape de combat, et faire un '2 pour 1' s'il joue un enchantement de créature. Mais cette tactique, en plus de vous coûter potentiellement 5 blessures et les ours, donne l'occasion à votre adversaire de piocher la Croissance s'il ne l'a pas déjà fait.
 

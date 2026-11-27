@@ -44,7 +44,9 @@ archive_source:
   sha256: a630e022174e237e94f9113c6bd44cbc057f449081ccfd52f904154417b72c02
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpgen03/a986.jpg)The first three rounds have come and passed - in a flurry of Goblins, Angels and the like - and now the three-bye players finally get a chance to flex their muscles. Our first Feature Match revolves around an Italian player.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpgen03/a986.jpg)
+
+The first three rounds have come and passed - in a flurry of Goblins, Angels and the like - and now the three-bye players finally get a chance to flex their muscles. Our first Feature Match revolves around an Italian player.
 
 At Grand Prix London, two player stormed the field with what was then a nearly unknown archetype: Blue-White Control. One was Brian Kibler, who finished the GP in ninth. The other was an Italian who made the Top 8. Marco Pascoli.
 

@@ -91,7 +91,9 @@ Bram is playing a WU weenie deck played at Worlds by team Punisher. Christoph is
 
 ### Game One
 
-![](https://www.wizards.com/sideboard/images/gplon02/880.jpg)Bram went first, and kept his starting hand, as did Christoph. The first play was a Patrol Hound that survived Christoph’s turn to attack for two. Christoph Tainted Pacted through a Swamp, a sure symbol that he had enough mana, and took an Innocent Blood. Bram cast a Deep Analysis and ended his turn; Christoph cast Innocent Blood and the board was again free of creatures.
+![](https://www.wizards.com/sideboard/images/gplon02/880.jpg)
+
+Bram went first, and kept his starting hand, as did Christoph. The first play was a Patrol Hound that survived Christoph’s turn to attack for two. Christoph Tainted Pacted through a Swamp, a sure symbol that he had enough mana, and took an Innocent Blood. Bram cast a Deep Analysis and ended his turn; Christoph cast Innocent Blood and the board was again free of creatures.
 
 Bram made a Beloved Chaplain that was subsequently Chainer's Edicted. Bram Quiet Speculated for just a Deep Analysis and made a Shieldmage Advocate. Christoph seemed quite secure in this game as he Edicted the Advocate and cast a Diabolic Tutor off his recently played Cabal Coffers; the game is well under his control, Bram held a Divine Sacrament and an Envelop, and would have to really struggle to win.
 
@@ -110,7 +112,9 @@ Christoph: -1 Braids, Cabal Minion, -1 Mirari, +1 Faceless Butcher, +1 Slithery 
 
 ### Game Two
 
-![](https://www.wizards.com/sideboard/images/gplon02/879.jpg)Bram kept his opening hand, which was very good (Island, Plains, Tireless Tribe, Patrol Hound, Beloved Chaplain, Deep Analysis, Envelop), Christoph also kept his. The Tribe is joined by a Hound and Chrstophe could only muster a Shade in defense. Bram attacked and made a Beloved Chaplain. Christoph could do nothing but Bram halted his attack as the Shade held all but the Chaplain at bay. A discarded then cast Deep Analysis gave Bram the land he needed to make a second Chaplain. This game looks under Bram’s control as he hand contained an Envelop, a Battle Screech and a Glory. Christoph cast a Tutor and was done.
+![](https://www.wizards.com/sideboard/images/gplon02/879.jpg)
+
+Bram kept his opening hand, which was very good (Island, Plains, Tireless Tribe, Patrol Hound, Beloved Chaplain, Deep Analysis, Envelop), Christoph also kept his. The Tribe is joined by a Hound and Chrstophe could only muster a Shade in defense. Bram attacked and made a Beloved Chaplain. Christoph could do nothing but Bram halted his attack as the Shade held all but the Chaplain at bay. A discarded then cast Deep Analysis gave Bram the land he needed to make a second Chaplain. This game looks under Bram’s control as he hand contained an Envelop, a Battle Screech and a Glory. Christoph cast a Tutor and was done.
 
 All the two drops enter the Red Zone, the Chaplains went unblocked and a first-striking Hound took down the Shade; to make it worse, it was a Glory that had been discarded. Bram cast both halves of the Battle Screech and left the mana open to Envelop Christoph’s desperate Mutilate.
 
@@ -123,7 +127,9 @@ Christoph took out a Haunting Echoes and replaced the Mirari main deck; Bram mad
 
 ### Game Three
 
-![](https://www.wizards.com/sideboard/images/gplon02/878.jpg)Christoph elected to play and has a very strong hand that included two Mutilates, his best card in this matchup. Bram mulliganed. 
+![](https://www.wizards.com/sideboard/images/gplon02/878.jpg)
+
+Christoph elected to play and has a very strong hand that included two Mutilates, his best card in this matchup. Bram mulliganed. 
 
 The first play was Bram’s Tireless Tribe that again managed to survive Christoph’s second turn to attack for the first point of damage, but Bram did nothing else other than lay another land and said done. Christoph cast a Shade which chose not to block the Tribe after Bram cast a Divine Sacrament and instead spent his forth turn attacking for 6 with his Shade which took Bram to 14. Bram cast another Sacrament and attacked for three, which left Christoph on 14 also.
 

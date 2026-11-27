@@ -1245,7 +1245,9 @@ render_recovery:
 ---
 * * *
 
-![Master_Warcraft](https://i.ormos.uk/99/27/9927ff62c2725591032fa3df6a9c609b4e9a7fb076a8955cc2278241f4d26712.jpg)For those of you who have been asking, yes, Swimming with Sharks will \[once again\] take up at least some of the task of Constructed **Magic Online** coverage. At the time of this writing, though, we *still* don't have decks or playback from the post-*Lorwyn* Premiere Events... But we'll keep you posted! Check back next week! That is all about that!
+![Master_Warcraft](https://i.ormos.uk/99/27/9927ff62c2725591032fa3df6a9c609b4e9a7fb076a8955cc2278241f4d26712.jpg)
+
+For those of you who have been asking, yes, Swimming with Sharks will \[once again\] take up at least some of the task of Constructed **Magic Online** coverage. At the time of this writing, though, we *still* don't have decks or playback from the post-*Lorwyn* Premiere Events... But we'll keep you posted! Check back next week! That is all about that!
 
 So this week I decided to cover three basic strategic principles that even seasoned tournament players regularly fumble. I hope this one will be useful to you.
 

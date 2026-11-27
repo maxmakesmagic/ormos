@@ -83,7 +83,9 @@ render_recovery:
   - Lavamancer's Skill
   occurrences: 40
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a687.jpg)We've seen this before. At Pro Tour – Tokyo 2001, Tsuyoshi Fujita was the first-ever Japanese player to crack the Top 8, and he smashed his way to the finals. Now the rookie Masashi Ooiso sits at the final table, hoping to avenge Fujita's loss. It's like an impossible dream come true for Ooiso, who already had the lead in the Rookie of the Year Race going into the Top 8, now he stands a good chance of winning the event and putting a lock on that title. He already dispatched countryman Tsuyoshi Ikeda in the semis. Opposite him is Sweden's Mattias Jorstedt, who's on an indomitable hot streak. This is his third Pro Tour Top 8 in just four events, and now that he's shrugged off his quarterfinal jinx he's ready to take home the gold.
+![](http://www.wizards.com/sideboard/images/ptyok03/a687.jpg)
+
+We've seen this before. At Pro Tour – Tokyo 2001, Tsuyoshi Fujita was the first-ever Japanese player to crack the Top 8, and he smashed his way to the finals. Now the rookie Masashi Ooiso sits at the final table, hoping to avenge Fujita's loss. It's like an impossible dream come true for Ooiso, who already had the lead in the Rookie of the Year Race going into the Top 8, now he stands a good chance of winning the event and putting a lock on that title. He already dispatched countryman Tsuyoshi Ikeda in the semis. Opposite him is Sweden's Mattias Jorstedt, who's on an indomitable hot streak. This is his third Pro Tour Top 8 in just four events, and now that he's shrugged off his quarterfinal jinx he's ready to take home the gold.
 
 "I don't see too many Scandinavians in the crowd. They're probably off money-drafting." – Mattias Jorstedt
 
@@ -103,7 +105,9 @@ Jorstedt 1 – Ooiso 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a682.jpg)Jorstedt was happy to get rid of the dead weight from his deck. Thoughtbound Primoc and Anurid Murkdiver hit the bench in favor of Shaleskin Plower and Goblin Grappler. Ooiso kicked off the second game with Goblin Sledder, but that was undone when Jorstedt dropped a second-turn Sparksmith. Ooiso hit for one and played a morph.
+![](http://www.wizards.com/sideboard/images/ptyok03/a682.jpg)
+
+Jorstedt was happy to get rid of the dead weight from his deck. Thoughtbound Primoc and Anurid Murkdiver hit the bench in favor of Shaleskin Plower and Goblin Grappler. Ooiso kicked off the second game with Goblin Sledder, but that was undone when Jorstedt dropped a second-turn Sparksmith. Ooiso hit for one and played a morph.
 
 Jorstedt shot the morph to get the Sledder off the table and played a Blade Sliver. Ooiso ran his morph into it, and replaced it with another. He winced as Jorstedt tapped a single mountain, showing a Sledder of his own. The 'Smith shot the morph and Jorstedt added a Wretched Anurid, bringing the beats. Ooiso put his hopes on a Master of the Veil. Jorstedt crumbled them with Crested Craghorn.
 
@@ -117,7 +121,9 @@ Jorstedt 2 – Ooiso 0
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a683.jpg)It was the same early game as Ooiso led with Goblin Sledder only to be bested by Jorstedt's Sparksmith. In between he made a Riptide Biologist. Faced again with the mighty 'Smith, Ooiso played another goblin, a Flamewave Invoker. The 'Smith forced the Sledder off the table, and Jorstedt made a morph. 
+![](http://www.wizards.com/sideboard/images/ptyok03/a683.jpg)
+
+It was the same early game as Ooiso led with Goblin Sledder only to be bested by Jorstedt's Sparksmith. In between he made a Riptide Biologist. Faced again with the mighty 'Smith, Ooiso played another goblin, a Flamewave Invoker. The 'Smith forced the Sledder off the table, and Jorstedt made a morph. 
 
 Ooiso was stuck on three land and made no secret of how he felt about the situation. Unable to add anything to the board he was under heavy fire from Jorstedt's creatures while the 'Smith dismantled his board. Jorstedt could taste victory, sitting on a hand of two Shocks, Death Pulse and Chain of Plasma. Not even Lavamancer's Skill could save him. He suited up the Biologist regardless and took down a morph. Jorstedt dropped his hand on the table.
 

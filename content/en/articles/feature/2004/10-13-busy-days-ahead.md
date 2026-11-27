@@ -210,7 +210,9 @@ I learned a lot in that first *Champions of Kamigawa* Sealed Deck PTQ. The first
 
 ### Part II: Champs Primer
 
-[![](https://i.ormos.uk/c2/93/c29383094a1f73370bf327e0dee662b4e24e10af73ddf1a8234de1ac159928a0.jpg)](https://web.archive.org/web/20041013000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs)Champs is a Standard tournament -- series of tournaments, really -- that is held annually in or on States, Provinces, Territories, and Islands around the world. If you want to participate in Champs, you may be required to provide proof of residence in the specific geographic region wherein you are trying to compete. 
+[![](https://i.ormos.uk/c2/93/c29383094a1f73370bf327e0dee662b4e24e10af73ddf1a8234de1ac159928a0.jpg)](https://web.archive.org/web/20041013000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs)
+
+Champs is a Standard tournament -- series of tournaments, really -- that is held annually in or on States, Provinces, Territories, and Islands around the world. If you want to participate in Champs, you may be required to provide proof of residence in the specific geographic region wherein you are trying to compete. 
 
 Champs does not feed into the summer season the way that Regionals feeds into Nationals which then feeds into Worlds, but it remains an important event every fall. Besides the title of State (or Provincial or Territorial or Island) Champion, tournament organizers often sweeten the pot with valuable prizes that keep paying off down the line. Many TOs offer their respective Champions free PTQ entry for the rest of the year, and some of them even recognize the titles of Champions from neighboring areas! These prizes can add up to hundreds of dollars per year.
 

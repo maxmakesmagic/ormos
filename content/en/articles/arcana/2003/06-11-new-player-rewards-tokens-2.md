@@ -61,7 +61,9 @@ archive_source:
   sha256: b3841a567876665fc149c65ac85cf38df089bb856c1402c9b49583f4645d21ed
 render_recovery: []
 ---
-[![Player Rewards program (click for more info)](https://i.ormos.uk/bb/58/bb5837ceaa7e1394a9d29d1a1fb8bac68c4915f3ca99939e09e8e6c7db069316.jpg)](https://web.archive.org/web/20030611000000/http://archive.wizards.com/dci/rewards.asp?x=rewards)Two new tokens have been created for the Magic Player Rewards program, and those of you that have played in several tournaments lately may have gotten some in the mail already.
+[![Player Rewards program (click for more info)](https://i.ormos.uk/bb/58/bb5837ceaa7e1394a9d29d1a1fb8bac68c4915f3ca99939e09e8e6c7db069316.jpg)](https://web.archive.org/web/20030611000000/http://archive.wizards.com/dci/rewards.asp?x=rewards)
+
+Two new tokens have been created for the Magic Player Rewards program, and those of you that have played in several tournaments lately may have gotten some in the mail already.
 
 The first is an *Onslaught* Bear token by Glen Angus. It is mainly for use with the card [Words of Wilding](https://web.archive.org/web/20030611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Words+of+Wilding).
 

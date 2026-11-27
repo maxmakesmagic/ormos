@@ -41,4 +41,6 @@ render_recovery: []
 
 My first podcast this week is a continuation of my 20 Years in 20 Podcasts series. Today I focus on **Magic**'s fourth year—1996. 
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

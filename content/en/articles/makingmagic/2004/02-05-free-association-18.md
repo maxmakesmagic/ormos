@@ -61,4 +61,6 @@ archive_source:
   sha256: 53c1f6fc61a8bd0eb8201ad989d65d6c8dc372a6bca626af2880a10bdb6d5a86
 render_recovery: []
 ---
-![](https://i.ormos.uk/66/85/668567f86c50b632c8fcb2bb3368bfedeebe084d93e8a799f51947ad3b1f2099.jpg)I've been surprised how many people don't know what R&D stands for. Research & Development. Hey, what happened to design? I guess Design and Development might cause a problem. [Wizards](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr110-wotc) already has a **D&D**.
+![](https://i.ormos.uk/66/85/668567f86c50b632c8fcb2bb3368bfedeebe084d93e8a799f51947ad3b1f2099.jpg)
+
+I've been surprised how many people don't know what R&D stands for. Research & Development. Hey, what happened to design? I guess Design and Development might cause a problem. [Wizards](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr110-wotc) already has a **D&D**.

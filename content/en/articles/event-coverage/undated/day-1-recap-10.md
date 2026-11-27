@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/123.jpg)Holy Matt Vienneau! With his Grand Prix Dallas win still fresh in everyone's mind, Matt Vienneau ran the table on Day 1 of yet another Grand Prix. He claims that his white/blue/black deck was awful, that he misbuilt it, and that he just keeps getting lucky, but I'm not sure how much longer I'm going to buy the self-effacing act. Matt has indeed made some amazing mistakes over the years, but you've also got to give him credit for playing a pretty good game of Magic most of the time. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/123.jpg)
+
+Holy Matt Vienneau! With his Grand Prix Dallas win still fresh in everyone's mind, Matt Vienneau ran the table on Day 1 of yet another Grand Prix. He claims that his white/blue/black deck was awful, that he misbuilt it, and that he just keeps getting lucky, but I'm not sure how much longer I'm going to buy the self-effacing act. Matt has indeed made some amazing mistakes over the years, but you've also got to give him credit for playing a pretty good game of Magic most of the time. 
 
 50-year old Tom Swan (yes that's a five and a zero) went to bed Saturday night in second place. His son, Brad, also made Day 2. This father and son team have played four Pro Tours together over the past few years. Tom got handed a sealed deck with all the blue/black/red goods and he put them to proper use.![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/121.jpg)
 
@@ -58,4 +60,6 @@ Black/Red/Green 1
 
 Apparently, the ones who decided to splash blue (or the ones who had the cards to splash blue depending on how you look it) just did better than the ones who decided to splash green. On the other hand, only one of the three decks that wound up 8-0 was a blue/black/red design. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/122.jpg)Only seven people who were eligible for the 1700-flag money advanced to Day 2 and thus the 1700-flag money went all the way down to 95th. Two women were included among those 16 players - Melissa DeTora (who was proudly wearing a Your Move Games shirt) and Zhanna Davydova, a Russian citizen who understands English reasonably well, but doesn't speak it much at all. She was here with her boyfriend - an American citizen with parents in Nashua, New Hampshire who goes to university with her in Moscow.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/122.jpg)
+
+Only seven people who were eligible for the 1700-flag money advanced to Day 2 and thus the 1700-flag money went all the way down to 95th. Two women were included among those 16 players - Melissa DeTora (who was proudly wearing a Your Move Games shirt) and Zhanna Davydova, a Russian citizen who understands English reasonably well, but doesn't speak it much at all. She was here with her boyfriend - an American citizen with parents in Nashua, New Hampshire who goes to university with her in Moscow.

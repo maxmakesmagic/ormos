@@ -44,7 +44,9 @@ archive_source:
   sha256: 550bb393a85d418e5eb0b0048cd7a9ddc4135880db43ea81ebfe62a42e3090f4
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/qf3_1.jpg)Dirk Hein is no stranger to Grand Prix Top Eights. He had one in Munich just last season, in Limited as well. Gundersen is the last undefeated player of the tournament storming through the Swiss to end the fifteen rounds with an amazing forty points.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/qf3_1.jpg)
+
+Dirk Hein is no stranger to Grand Prix Top Eights. He had one in Munich just last season, in Limited as well. Gundersen is the last undefeated player of the tournament storming through the Swiss to end the fifteen rounds with an amazing forty points.
 
 ### Game 1
 

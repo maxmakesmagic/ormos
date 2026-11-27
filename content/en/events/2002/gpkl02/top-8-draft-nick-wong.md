@@ -112,7 +112,9 @@ render_recovery:
   - Accelerate
   occurrences: 79
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a938.jpg)Singapore's Nick Wong might be hard to recognize this weekend. His "lucky" stuffed duck, that had been by his side at so many Tours and Grand Prix had finally steered him wrong once too often, and got tossed like so much trash. Wong remains his flashy, effervescent self. Sporting silver and gold dyed hair (perhaps hoping for a lucrative weekend?) and rarely without a smile, Wong played hard this weekend, even overcoming his Feature Match Curse to make Top 8. The victory was bittersweet, however, coming as it did against a friend, and through manascrew.
+![](http://www.wizards.com/sideboard/images/gpkl02/a938.jpg)
+
+Singapore's Nick Wong might be hard to recognize this weekend. His "lucky" stuffed duck, that had been by his side at so many Tours and Grand Prix had finally steered him wrong once too often, and got tossed like so much trash. Wong remains his flashy, effervescent self. Sporting silver and gold dyed hair (perhaps hoping for a lucrative weekend?) and rarely without a smile, Wong played hard this weekend, even overcoming his Feature Match Curse to make Top 8. The victory was bittersweet, however, coming as it did against a friend, and through manascrew.
 
 Wong managed to put that behind him in time for the Top 8, and was all concentration as he sat down. He spent Day 2 drafting white-black, and rather successfully. Going into the Top 8 he thought that he would look for that combination, but not force it.
 
@@ -124,7 +126,9 @@ Then, nothing. Just a Filthy Cur. Then Engulfing Flames. Then Rites of Initiatio
 
 After the first pack, Shvartsman was black-green, which Wong had already sensed. To his left, Yujian Zhou was into black-white, but had leanings towards blue. That left red, and red alone, safe.
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a936.jpg)Wong passed up the brutal Bomb Squad in favor of Ember Beast to start the second set of packs. He justified this by saying that the Squad is only great against certain combinations. He'd rather have a card that would always serve him. Next he took Ghastly Demise, then Dusk Imp. Another Demise followed, and now Wong wouldn't be able to take advantagae of black's graveyard-stripping effects.
+![](http://www.wizards.com/sideboard/images/gpkl02/a936.jpg)
+
+Wong passed up the brutal Bomb Squad in favor of Ember Beast to start the second set of packs. He justified this by saying that the Squad is only great against certain combinations. He'd rather have a card that would always serve him. Next he took Ghastly Demise, then Dusk Imp. Another Demise followed, and now Wong wouldn't be able to take advantagae of black's graveyard-stripping effects.
 
 Short on creatures, he was happy to pick up Morgue Theft and Zombify, but then the packs seemed to run out. It was all up to Torment.
 

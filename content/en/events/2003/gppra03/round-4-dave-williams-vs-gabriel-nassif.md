@@ -73,7 +73,9 @@ render_recovery:
   - Shaleskin Plower
   occurrences: 17
 ---
-![](https://i.ormos.uk/cb/c4/cbc48e4e3b2ef41c2fc81088fee3ed51512422be028efadc2e027cc1c2fc8585.jpg)Dave Williams comes into this game with some disadvantages. Firstly his deck is awful. Secondly Nassif knows what's in it as Williams had asked him for some advice on tuning it during their wait for their bye rounds to finish. Unfortunately Williams doesn't have any idea what's in Nassif's deck.
+![](https://i.ormos.uk/cb/c4/cbc48e4e3b2ef41c2fc81088fee3ed51512422be028efadc2e027cc1c2fc8585.jpg)
+
+Dave Williams comes into this game with some disadvantages. Firstly his deck is awful. Secondly Nassif knows what's in it as Williams had asked him for some advice on tuning it during their wait for their bye rounds to finish. Unfortunately Williams doesn't have any idea what's in Nassif's deck.
 
 Dave Williams is one of a few Americans to make the journey over. Unfortunately the Sealed deck gods haven't been kind as he's been forced to play a bad green, blue, red concoction. In contrast Nassif has what looks like a draft quality black-red deck with Rotlung Reanimator and a bunch of clerics. This is not going to be easy for Williams.
 
@@ -91,7 +93,9 @@ Nassif 1-0 Williams
 
 ### Game 2
 
-![](https://i.ormos.uk/dc/04/dc049ceb0e864a26e2b8245d9c167258d30dfd76cec1dc47e2e31960b54f337e.jpg)Things didn't improve much for Williams as he needed to mulligan game 2. It looked better when Nassif passed turn 3 without putting a creature on the table. The reasoning became clearer when Nassif took out William's morphed Weaver of Lies with a Chain of Plasma. Williams didn't bounce it back and the Vile Deacon appeared again for Nassif.
+![](https://i.ormos.uk/dc/04/dc049ceb0e864a26e2b8245d9c167258d30dfd76cec1dc47e2e31960b54f337e.jpg)
+
+Things didn't improve much for Williams as he needed to mulligan game 2. It looked better when Nassif passed turn 3 without putting a creature on the table. The reasoning became clearer when Nassif took out William's morphed Weaver of Lies with a Chain of Plasma. Williams didn't bounce it back and the Vile Deacon appeared again for Nassif.
 
 Williams brought out a Berserk Murlodont and looked unhappy as he dropped a sixth land on the table and passed the turn. Currently he had 5 forests and 1 island. Nassif unmorphed a Shaleskin Plower to increase William's misery. The American was forced to cycle a Tusker to find a replacement rather than cast a potential blocker.
 

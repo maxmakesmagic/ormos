@@ -98,7 +98,9 @@ render_recovery:
   - Reprocess
   occurrences: 85
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a901.jpg)All four of the Round 6 Feature Matches are between undefeated players to see which four of them will get to go to sleep tonight without a loss in the Standard format. 
+![](http://www.wizards.com/sideboard/images/worlds02/a901.jpg)
+
+All four of the Round 6 Feature Matches are between undefeated players to see which four of them will get to go to sleep tonight without a loss in the Standard format. 
 
 The Americans are nowhere to be found; instead, players from France, Singapore, Hong Kong, the Netherlands, Malaysia, and Ireland are fighting it out at the top. This match features two competitors from two more countries, Jin Okamoto of Japan and Carlos Eduardo Romao from Brazil. (When it was pointed out that there are no Americans at 5-0, Carlos pointed out that he is a *South* American.) 
 
@@ -108,7 +110,9 @@ Both players are playing Psychatog decks—Carlos has the more traditional build
 
 Jin kept looking for land with cantrips, mainly two Repulses on the Nightscape Familiar Carlos kept playing, and another Ice on a land. Jin finally got his land situation straightened out, but not before Carlos got both the Familiar and a Psychatog in play.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a900.jpg)Jin got out his own Familiar to stem the bleeding, but his attempt at a Flametongue Kavu was nullified by a Circular Logic. On Carlos's following turn, Jin tapped out to Ice one of the Brazilian's seven lands, and then was forced to chumpblock the Psychatog with his own Familiar for fear of dying to a Fact or Fiction-fed monster. Had he simply tapped the 'Tog, he could have kept his Familiar.
+![](http://www.wizards.com/sideboard/images/worlds02/a900.jpg)
+
+Jin got out his own Familiar to stem the bleeding, but his attempt at a Flametongue Kavu was nullified by a Circular Logic. On Carlos's following turn, Jin tapped out to Ice one of the Brazilian's seven lands, and then was forced to chumpblock the Psychatog with his own Familiar for fear of dying to a Fact or Fiction-fed monster. Had he simply tapped the 'Tog, he could have kept his Familiar.
 
 Jin recovered somewhat with his own Psychatog on the following turn, and even managed to defend it from a surprise Chainer's Edict with a Circular Logic. He later put out a second 'Tog and the game ground to a halt.
 
@@ -116,7 +120,9 @@ Both players spent the next few turns trying to build ideal hands, playing in vi
 
 Carlos Eduardo Romao 1- Jin Okamoto 0
 
-![](http://www.wizards.com/sideboard/images/worlds02/a899.jpg)Romao sideboarded in a handful of Duresses for Game 2, and they came in handy. He cast one on each of the first two turns, nabbing a Counterspell and a Circular Logic. Jin put out a Nightscape Familiar, but the Carlos flipped over five cards in a nightmarish Fact or Fiction: two lands, two more Facts, and a Deep Analysis. Jin shook his head, sighed, and then split the piles. Carlos kept a Fact and the lands.
+![](http://www.wizards.com/sideboard/images/worlds02/a899.jpg)
+
+Romao sideboarded in a handful of Duresses for Game 2, and they came in handy. He cast one on each of the first two turns, nabbing a Counterspell and a Circular Logic. Jin put out a Nightscape Familiar, but the Carlos flipped over five cards in a nightmarish Fact or Fiction: two lands, two more Facts, and a Deep Analysis. Jin shook his head, sighed, and then split the piles. Carlos kept a Fact and the lands.
 
 Carlos put out his own Familiar, which was Edicted, but then resolved another devastating Fact or Fiction, netting two more spells and another Deep Analysis in the yard. Jin, on the other hand, was not drawing any card-drawing spells. With only a single card in hand, he could only look on in horror as Carlos cast Fact or Fiction again, then fed it to his 'Tog and Wished for it. With that kind of card advantage, one 'Tog hit was bound to be lethal, and that's precisely what happened.
 

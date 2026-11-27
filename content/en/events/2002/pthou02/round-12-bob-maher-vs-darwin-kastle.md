@@ -78,7 +78,9 @@ render_recovery:
   - Ray of Revelation
   occurrences: 37
 ---
-![](https://i.ormos.uk/62/35/623508371a93293dac77ddf2629fcd7ae001f10a1a65a3a6362f1439bab90895.jpg)PT Chicago 1999 champion Bob Maher has been on fire since his return to the Pro Tour a few months ago. He has a Grand Prix win and a Pro Tour top 4 under his belt so far this season, and is hot in pursuit of another Pro Tour top 8. Kastle has been a Pro Tour staple. In fact, he remains the only player who has played in all the PT's. He had a poor year and needed a top 32 finish in this tournament just to qualify for Chicago. Kastle started the weekend at 10-0 and is now guaranteed the top 32 he so much needed – the question is which of these players will be able to compete on Sunday. Maher is playing a Sutured Ghoul combo deck he and Neil Reeves got from the Dutch, while Kastle is running The Rock – one of four different decks brought to this tournament by Your Move Games. 
+![](https://i.ormos.uk/62/35/623508371a93293dac77ddf2629fcd7ae001f10a1a65a3a6362f1439bab90895.jpg)
+
+PT Chicago 1999 champion Bob Maher has been on fire since his return to the Pro Tour a few months ago. He has a Grand Prix win and a Pro Tour top 4 under his belt so far this season, and is hot in pursuit of another Pro Tour top 8. Kastle has been a Pro Tour staple. In fact, he remains the only player who has played in all the PT's. He had a poor year and needed a top 32 finish in this tournament just to qualify for Chicago. Kastle started the weekend at 10-0 and is now guaranteed the top 32 he so much needed – the question is which of these players will be able to compete on Sunday. Maher is playing a Sutured Ghoul combo deck he and Neil Reeves got from the Dutch, while Kastle is running The Rock – one of four different decks brought to this tournament by Your Move Games. 
 
 ### Game 1
 
@@ -91,7 +93,9 @@ During his upkeep, Maher cast Krosan Reclamation with flashback targeting two co
 
 ### Game 2
 
-![](https://i.ormos.uk/d4/f7/d4f7356642697a887ce0b47db1902002fb4e5c77a01b6838eb124c23823253a8.jpg)Kastle spent several minutes considering whether or not to keep his draw, consisting of Bird, Yavimaya Elder, and five lands. He finally chose to keep it and opened with Birds of Paradise. Maher's opening hand was much better. He pulled off its signature draw of land, Mox Diamond, Hermit Druid. When Kastle summoned a Yavimaya Elder, Maher tapped the Mox on his upkeep to Vampiric Tutor for Reanimate. After he drew that, Maher activated the Hermit, milling about half his library to get to the lone Mountain.
+![](https://i.ormos.uk/d4/f7/d4f7356642697a887ce0b47db1902002fb4e5c77a01b6838eb124c23823253a8.jpg)
+
+Kastle spent several minutes considering whether or not to keep his draw, consisting of Bird, Yavimaya Elder, and five lands. He finally chose to keep it and opened with Birds of Paradise. Maher's opening hand was much better. He pulled off its signature draw of land, Mox Diamond, Hermit Druid. When Kastle summoned a Yavimaya Elder, Maher tapped the Mox on his upkeep to Vampiric Tutor for Reanimate. After he drew that, Maher activated the Hermit, milling about half his library to get to the lone Mountain.
 
 Going down to nine life (after all the pain land damage), Maher Reanimated the Sutured Ghoul and made it 16/15. He removed Anger from the game as one of the creatures to feed the Ghoul nor did he lay the Mountain, so Kastle got one extra turn to try and deal with the giant monster. Kastle sacrificed Yavimaya Elder and was fortunate enough to draw an Edict off its ability. Edict took out the Hermit, but a 16/15 creature problem still remained. Kastle was a turn behind from being able to Deed away the board – but even if he wasn't, Maher had a Ray of Revelation in his graveyard. 
 

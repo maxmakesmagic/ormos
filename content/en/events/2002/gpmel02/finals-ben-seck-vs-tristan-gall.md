@@ -80,7 +80,9 @@ render_recovery:
   - Mistform Skyreaver
   occurrences: 32
 ---
-![](http://www.wizards.com/sideboard/images/gpmel02/a855.jpg)And so it comes down to this. After two days of competition between over 180 competitors, we are into the final match, where Canberra's Tristan Gall takes on Sydney's Ben Seck in the final.
+![](http://www.wizards.com/sideboard/images/gpmel02/a855.jpg)
+
+And so it comes down to this. After two days of competition between over 180 competitors, we are into the final match, where Canberra's Tristan Gall takes on Sydney's Ben Seck in the final.
 
 ### Game 1
 
@@ -90,7 +92,9 @@ In a world of 2/2's, a 2/3 is king – after attacking with the morphed creature
 
 Seck's 5th turn saw him drop an Imagecrafter and a Dive Bomber, but being tapped out Gall went in for an all out attack – morphing the Lancer into play for an addition point of damage (Seck - 9). A Mistform Wall and a Mistform Stalker were summoned in reply as the fearless face-down Nameless One went in for his third attack (Gall -14). The counter attack saw the wall block the lancer leaving the Harrier to come through for another 3 damage. Gall's second morph creature was revealed as being a Gravel Slinger, taking out the Mistform Wall.
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a853.jpg)A Unified Strike caught the Nameless One short, removing it from the game. Gall was now pushing hard with the lancer, making it hard for Seck to stay in the game. With Seck's life total so low it was merely a matter of time.
+![](http://www.wizards.com/sideboard/images/gpmel02/a853.jpg)
+
+A Unified Strike caught the Nameless One short, removing it from the game. Gall was now pushing hard with the lancer, making it hard for Seck to stay in the game. With Seck's life total so low it was merely a matter of time.
 
 From here Gall dropped a Whipcorder and was able to tap out Ben's blockers as he cruised to victory in the first.
 
@@ -104,7 +108,9 @@ Seck elected to play, opening with an Imagecrafter that was able to beat twice (
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a855.jpg)Gall began the decider with a third turn Pearlspear Courier, which was followed by Seck's Mistform Dreamer. Unwilling to trade, Gall simply placed a morph creature out – allowing Seck to again head to the skies in the Form of an ascending Aven. A Pacifism promptly shut down the Ascending Aven, but slowed Gall's momentum allowing Seck to bounce the courier and the face down Daru Lancer with an Essence Fracture. Gall wasted no time in recasting these but Seck pushed forward as he played a Dive Bomber. Seck now ruled the air, attacking again and again with Dreamer for early pressure. 
+![](http://www.wizards.com/sideboard/images/gpmel02/a855.jpg)
+
+Gall began the decider with a third turn Pearlspear Courier, which was followed by Seck's Mistform Dreamer. Unwilling to trade, Gall simply placed a morph creature out – allowing Seck to again head to the skies in the Form of an ascending Aven. A Pacifism promptly shut down the Ascending Aven, but slowed Gall's momentum allowing Seck to bounce the courier and the face down Daru Lancer with an Essence Fracture. Gall wasted no time in recasting these but Seck pushed forward as he played a Dive Bomber. Seck now ruled the air, attacking again and again with Dreamer for early pressure. 
 
 Gall played a Grassland Crusader on the 7th turn, but the match and championship was sealed when Seck played a Mistform Skyreaver. As Gall was down to 14 life from the Dreamer this gave him two turns to find an answer to the flying 6/6 bus.
 

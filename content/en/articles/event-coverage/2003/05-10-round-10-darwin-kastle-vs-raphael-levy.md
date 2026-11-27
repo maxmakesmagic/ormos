@@ -44,7 +44,9 @@ archive_source:
   sha256: e73bc95bc36fb569acaebc2189469a2ec39696772127569ae4e4d67e16ec0acc
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a831.jpg)Both players face a very slim chance for Day 3 at 5-3-1 but for the most part these two PT circuit mainstays are playing for pride, PT Points and a reasonable shot at some cash to offset exorbitant travel costs. A loss should knock the loser out of range of a 4-digit money finish. Darwin Kastle is playing a B/W cleric deck with a few zombies and soldiers thrown in for good measure. The highlights of his deck are three [Vile Deacon](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vile+Deacon)s. Raphael Levy's deck is all about the [Lightning Rift](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Rift). His deck cannot possibly lose if he gets an early Rift but he has trouble without it.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a831.jpg)
+
+Both players face a very slim chance for Day 3 at 5-3-1 but for the most part these two PT circuit mainstays are playing for pride, PT Points and a reasonable shot at some cash to offset exorbitant travel costs. A loss should knock the loser out of range of a 4-digit money finish. Darwin Kastle is playing a B/W cleric deck with a few zombies and soldiers thrown in for good measure. The highlights of his deck are three [Vile Deacon](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vile+Deacon)s. Raphael Levy's deck is all about the [Lightning Rift](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Rift). His deck cannot possibly lose if he gets an early Rift but he has trouble without it.
 
 ### Game 1
 
@@ -54,7 +56,9 @@ Kastle drew the land he wanted last turn and played the [Daunting Defender](http
 
 Levy was clearly disappointed with his deck when he had to make the anti-classic play of "[Avarax](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avarax)...go." Kastle was undeterred; he played a [Daru Healer](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Healer) face-up and sent his deacon in to drop Levy to 6. Levy was searching for answers and cycled twice during his main phase but had nothing.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a833.jpg)Kastle played a morph but Levy flipped up a [Voidmage Apprentice](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidmage+Apprentice) to counter the [Wingbeat Warrior](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wingbeat+Warrior) from sneaking into play. The Deacon and the Defender swung in and the Apprentice took one for the team and Levy was cling by his fingernails at 3 life. He played a morph and a [Flamewave Invoker](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamewave+Invoker) and sullenly passed back the turn.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a833.jpg)
+
+Kastle played a morph but Levy flipped up a [Voidmage Apprentice](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidmage+Apprentice) to counter the [Wingbeat Warrior](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wingbeat+Warrior) from sneaking into play. The Deacon and the Defender swung in and the Apprentice took one for the team and Levy was cling by his fingernails at 3 life. He played a morph and a [Flamewave Invoker](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamewave+Invoker) and sullenly passed back the turn.
 
 The Deacon ate the Flamewave—even if Levy threw everyone in the way he could not kill it thanks to [Daunting Defender](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daunting+Defender)—and when Kastle passed the turn back after playing a [Corpse Harvester](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Corpse+Harvester) he cycled yet again. He played some more chumps and finally killed the Deacon when he unmoprhed a skittish Valesk but when Kastle sac'd the dying Deacon to find a [Smokespew Invoker](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smokespew+Invoker) and the 8th land to activate it, Levy scooped.
 
@@ -76,7 +80,9 @@ It should be noted that although it probably didn't matter, Kastle neglected to 
 
 Kastle – 1 Levy – 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a832.jpg)Once again the Frenchman asked a judge to watch Kastle for stalling as the YMGer dallied with the idea of bringing in an [Astral Slide](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) and 5 or 6 cyclers. Kastle decided to keep his deck as was and the rubber game was on.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a832.jpg)
+
+Once again the Frenchman asked a judge to watch Kastle for stalling as the YMGer dallied with the idea of bringing in an [Astral Slide](https://web.archive.org/web/20030510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) and 5 or 6 cyclers. Kastle decided to keep his deck as was and the rubber game was on.
 
 ### Game 3
 

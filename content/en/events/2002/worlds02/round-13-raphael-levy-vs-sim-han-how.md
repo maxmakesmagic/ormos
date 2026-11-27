@@ -343,7 +343,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a781.jpg)Pro rivalries happen for a number of reasons, whether a clash of personalities or a sincere respect for a worthy opponent. At this Worlds competition, a friendly rivalry has sprung up entirely by chance. Malaysian National Champ Sim Han How and Raphael Levy of France have been hanging out at the top of the standings since the close of Day 1. They faced each other in Standard, and How won. Then they wound up in the same draft pod twice, and split a match apiece. Now they have to do battle in OBC, and Levy's eager to even the score at 2-2.
+![](http://www.wizards.com/sideboard/images/worlds02/a781.jpg)
+
+Pro rivalries happen for a number of reasons, whether a clash of personalities or a sincere respect for a worthy opponent. At this Worlds competition, a friendly rivalry has sprung up entirely by chance. Malaysian National Champ Sim Han How and Raphael Levy of France have been hanging out at the top of the standings since the close of Day 1. They faced each other in Standard, and How won. Then they wound up in the same draft pod twice, and split a match apiece. Now they have to do battle in OBC, and Levy's eager to even the score at 2-2.
 
 What makes it all the more amazing is that neither player has lost a match, except to the other.
 
@@ -355,7 +357,9 @@ Levy's only play was Werebear. How dropped a second Coffers, Edicted from the gr
 
 How 1 - Levy 0
 
-![](http://www.wizards.com/sideboard/images/worlds02/a783.jpg)Levy was unexcited about a hand of Wonder, Werebear and five lands, but kept all the same. His Werebear met an Innocent Blood. Mental Note powered up his graveyard, and he lost a forest to How's Rancid Earth. Seton's Scout survived only long enough to be Edicted away.
+![](http://www.wizards.com/sideboard/images/worlds02/a783.jpg)
+
+Levy was unexcited about a hand of Wonder, Werebear and five lands, but kept all the same. His Werebear met an Innocent Blood. Mental Note powered up his graveyard, and he lost a forest to How's Rancid Earth. Seton's Scout survived only long enough to be Edicted away.
 
 Levy played his Wonder. How answered with Butcher, and now neither player had anything to add. The Butcher hit twice and How Earthed a land. Levy had plenty to spare.
 
@@ -375,7 +379,9 @@ Werebear survived a second Edict thanks to Envelop, and that just let Levy ride 
 
 How cracked it immediately with a Sludge for five, leaving Levy with just one in hand. Unfortunately, that one was Breakthrough. Then he ripped Upheaval. Breakthrough for three got him another Breakthrough and a land.
 
-![](https://i.ormos.uk/03/de/03ded95a5eb7eba2c90fd24ccfca3a5a6e518fd8dcf1fd11429868778de074ef.jpg)How's hand of two Braids and a Rancid Earth wasn't doing the job. He pulled swamp #6 and played Rancid Earth. Just one more swamp and he'd be able to turn on his Edicts.
+![](https://i.ormos.uk/03/de/03ded95a5eb7eba2c90fd24ccfca3a5a6e518fd8dcf1fd11429868778de074ef.jpg)
+
+How's hand of two Braids and a Rancid Earth wasn't doing the job. He pulled swamp #6 and played Rancid Earth. Just one more swamp and he'd be able to turn on his Edicts.
 
 Levy busted him to eight and played Breakthrough for four. How held the fort with Innocent Blood and then Braids. Levy trumped with Seton's Scout and Standstill. How let Braids die and ripped his seventh swamp, Edicting away the Scout.
 

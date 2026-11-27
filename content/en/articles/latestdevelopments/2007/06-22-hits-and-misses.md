@@ -455,7 +455,9 @@ render_recovery:
 
 R&D loves data from large tournaments, as it lets us go back and compare how we thought cards were going to perform against how they actually do perform in the real world. Regionals, with its [buckets and buckets of decklists](/en/events/2007/regionals07/2007-regionals-12), presents the perfect opportunity for us to do a little post-game analysis.
 
-![Wistful_Thinking](https://i.ormos.uk/b2/df/b2df2c3d7a467c8cad353f108516ec2cdb51d581f8009e59f56419319209c3a5.jpg)For the purpose of this article, I'm going to stick to talking about cards from the *Time Spiral* expansion. *Ravnica* block and *Coldsnap* are a little too "last year" to make for interesting fodder, and *Planar Chaos* and *Future Sight* still have room for exploration by players, so I'm not keen on talking about R&D's picks for power cards when there's a chance some of them may emerge over the next several months on their own without me giving them an official endorsement. But *Time Spiral* has been around long enough to be mostly "solved," and it is far enough in R&D's rear-view mirror that I don't mind talking about stuff we misevaluated.
+![Wistful_Thinking](https://i.ormos.uk/b2/df/b2df2c3d7a467c8cad353f108516ec2cdb51d581f8009e59f56419319209c3a5.jpg)
+
+For the purpose of this article, I'm going to stick to talking about cards from the *Time Spiral* expansion. *Ravnica* block and *Coldsnap* are a little too "last year" to make for interesting fodder, and *Planar Chaos* and *Future Sight* still have room for exploration by players, so I'm not keen on talking about R&D's picks for power cards when there's a chance some of them may emerge over the next several months on their own without me giving them an official endorsement. But *Time Spiral* has been around long enough to be mostly "solved," and it is far enough in R&D's rear-view mirror that I don't mind talking about stuff we misevaluated.
 
 ### Five *Time Spiral* Cards That Were Better Than We Thought
 

@@ -901,7 +901,9 @@ Let me say it once again, just to drive it home:
 
 **You need to look at what people *assume* will happen, and then make sure it *doesn't* happen.** 
 
-![Wrath! of! God!](https://i.ormos.uk/eb/67/eb675bcf4087d959cf7448a07123dad4359539d466c8c33a46cf43fbbea99b87.jpg "Wrath! of! God!")After writing last week's "Living in a (Wrath of) Godless World" article, some folks seemed confused. "Don't you espouse laying low?" they asked. "A Wrath of God is a huge threat! It'll draw a lot of reaction from your fellow players. It's a terribly apolitical move. Aren't you contradicting your own statements?"
+![Wrath! of! God!](https://i.ormos.uk/eb/67/eb675bcf4087d959cf7448a07123dad4359539d466c8c33a46cf43fbbea99b87.jpg "Wrath! of! God!")
+
+After writing last week's "Living in a (Wrath of) Godless World" article, some folks seemed confused. "Don't you espouse laying low?" they asked. "A Wrath of God is a huge threat! It'll draw a lot of reaction from your fellow players. It's a terribly apolitical move. Aren't you contradicting your own statements?"
 
 Really, I'm not. I *am* a big fan of not attracting attention... But when you see an opening, you have to go for it. And if your group's assumption is, "I can play whatever creatures I want and they'll all stick around," removing that assumption will leave them so helpless that politics won't *matter*.
 

@@ -140,7 +140,9 @@ render_recovery:
   - Withered Wretch
   occurrences: 138
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a353.jpg)Just like all previous Team Masters there is a Japanese team in the finals. This time around it isn't Panzer Hunter though, as Poor Shark 2 took those down in the semifinals. Qualifying through winning Grand Prix Nagoya they have proven they're good at this team thing. Team 2020 qualified by placing second at Pro Tour Boston this season. Masashiro won the flip and decided to play first.
+![](http://www.wizards.com/sideboard/images/ptven03/a353.jpg)
+
+Just like all previous Team Masters there is a Japanese team in the finals. This time around it isn't Panzer Hunter though, as Poor Shark 2 took those down in the semifinals. Qualifying through winning Grand Prix Nagoya they have proven they're good at this team thing. Team 2020 qualified by placing second at Pro Tour Boston this season. Masashiro won the flip and decided to play first.
 
 ### Game 1
 
@@ -150,7 +152,9 @@ Masashiro 1 – David 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptven03/a354.jpg)David chose to play first but he had to trade in his opening hand, which only contained land. His new hand wasn't that much better but at least it had some cycling cards so he could hope to draw some business spells. It didn't matter much though as Masashiro didn't play anything until his third turn. He cast a Boneknitter (no more jokes allowed!) but didn't play his third land. David pumped the fist and attacked with his morph, which he brought in last turn. He morphed a Voidmage Apprentice and cycled a Lonely Sandbar. During Masashiro's turn he screamed "No sir!" hoping that Masashiro wouldn't draw a land. He didn't and had to pass the turn without doing anything again. David's morphs took him down to 16 life and he added a Blistering Firecat to his arsenal. Masashiro drew a land during his next turn and morphed his Quicksilver Dragon, which traded for David's morphed Voidmage Apprentice, going down to 12 life. Masashiro played an Aven Redeemer next turn, but David unmorphed his Firecat and Craghorn and finished Masashiro off with a Solar Blast after Masashiro chose not to block with his Redeemer. 
+![](http://www.wizards.com/sideboard/images/ptven03/a354.jpg)
+
+David chose to play first but he had to trade in his opening hand, which only contained land. His new hand wasn't that much better but at least it had some cycling cards so he could hope to draw some business spells. It didn't matter much though as Masashiro didn't play anything until his third turn. He cast a Boneknitter (no more jokes allowed!) but didn't play his third land. David pumped the fist and attacked with his morph, which he brought in last turn. He morphed a Voidmage Apprentice and cycled a Lonely Sandbar. During Masashiro's turn he screamed "No sir!" hoping that Masashiro wouldn't draw a land. He didn't and had to pass the turn without doing anything again. David's morphs took him down to 16 life and he added a Blistering Firecat to his arsenal. Masashiro drew a land during his next turn and morphed his Quicksilver Dragon, which traded for David's morphed Voidmage Apprentice, going down to 12 life. Masashiro played an Aven Redeemer next turn, but David unmorphed his Firecat and Craghorn and finished Masashiro off with a Solar Blast after Masashiro chose not to block with his Redeemer. 
 
 Masashiro 1 – David 1
 
@@ -160,7 +164,9 @@ Masashiro's opening was rather similar to those of the previous games. He played
 
 "No! No! Draw a dragon or something but not a land!!"
 
-![](http://www.wizards.com/sideboard/images/ptven03/a358.jpg)And indeed Masashiro didn't draw a land. He had to settle for just a morph, a Sootfeather Flock, on his turn. David morphed his Mistform Seaswift, keeping Meddle mana open. Masashiro drew into a land next turn and played a Vile Deacon. After unmorphing his Mistform Seaswift, David played Erratic Explosion on the Deacon and hit it for two. He had to put his Lightning Rift at the bottom of his library though, something he would rather not have to do at this point. Masashiro morphed his Boneknitter next turn, and David had to spend his turn doing nothing at all. Masashiro sent in his Gustcloak Harrier and his second morph. David blocks the morph with his morphed Snarling Undorak. Masashiro unmorphed his Boneknitter and regenerated it. David still killed it by cycling his Solar Blast on it though. Masashiro charged with all his creatures and David stopped the Headhunters, going down to 15 in the process. Exalted Angel came down in generic 2/2 form. Not knowing the threat Masashiro just played, David played out a Macetail Hystrodon.
+![](http://www.wizards.com/sideboard/images/ptven03/a358.jpg)
+
+And indeed Masashiro didn't draw a land. He had to settle for just a morph, a Sootfeather Flock, on his turn. David morphed his Mistform Seaswift, keeping Meddle mana open. Masashiro drew into a land next turn and played a Vile Deacon. After unmorphing his Mistform Seaswift, David played Erratic Explosion on the Deacon and hit it for two. He had to put his Lightning Rift at the bottom of his library though, something he would rather not have to do at this point. Masashiro morphed his Boneknitter next turn, and David had to spend his turn doing nothing at all. Masashiro sent in his Gustcloak Harrier and his second morph. David blocks the morph with his morphed Snarling Undorak. Masashiro unmorphed his Boneknitter and regenerated it. David still killed it by cycling his Solar Blast on it though. Masashiro charged with all his creatures and David stopped the Headhunters, going down to 15 in the process. Exalted Angel came down in generic 2/2 form. Not knowing the threat Masashiro just played, David played out a Macetail Hystrodon.
 
 Masashiro unmorphed his Exalted Angel next and made it next to impossible to race him. David tried to find a solution by cycling his second Macetail Hystrodon, he had to settle for morphing his Battering Craghorn. Masashiro then charged with all his creatures and unmorphed his Sootfeather Flock. On the Canadian's next turn he played out his Mistform Seaswift. After Masashiro attacked with his creatures, he activated the Seaswift saying ... "Faerie", "Ape", "Ali-from-Cairo" and "you win", giving the Japanese team the first ever Japanese Masters win.
 

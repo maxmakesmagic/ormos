@@ -373,7 +373,9 @@ render_recovery:
   - Upheaval
   occurrences: 1
 ---
-![](https://i.ormos.uk/d3/74/d374083efe52aef118dcca5d857a773dbd168b3392e3cb50ba8c7f5ae60ea3ab.jpg)With a concession by Brian Kibler to Jon Finkel, this year's Top 8 is shaping up to be one of the best Top 8s in the history of Magic. Already locked in were Neil Reeves, Brian Kibler and—pending a draw—Finkel. If Mike Turian won this match he would join this historic group. 
+![](https://i.ormos.uk/d3/74/d374083efe52aef118dcca5d857a773dbd168b3392e3cb50ba8c7f5ae60ea3ab.jpg)
+
+With a concession by Brian Kibler to Jon Finkel, this year's Top 8 is shaping up to be one of the best Top 8s in the history of Magic. Already locked in were Neil Reeves, Brian Kibler and—pending a draw—Finkel. If Mike Turian won this match he would join this historic group. 
 
 No great Top 8 would be complete without the Cinderella story—and the hometown favorite but that's a fairy tale for another feature match. Paul Rietzl flew here from Boston hoping to grind in. He came within a match of accomplishing it in the first limited grinder but was defeated in the final round. Impossibly, he dashed across the hall to sign up for the final grinder and managed to go 6-0 with his blue-green madness deck. 
 
@@ -385,7 +387,9 @@ The winner here can likely draw in while the loser must endure a do or die match
 
 Turian opened up with a Wooded Foothills into a Grim Lavamancer. Paul had the Careful Study and discarded Roar of the Wurm and an Island. Turian pecked for a point and played another of the red wizards. Wild Mongrel was the turn two play but Volcanic Hammer killed it. Aquamoeba could only stare idly as an Elephant Guided wizard lumbered by. On the fourth turn Paul was able to do something that had eluded him all tournament—he flashed back a Roar of the Wurm.
 
-![](https://i.ormos.uk/c3/66/c366b5653299da416a3fed76f3c7085fefb9755e3e71d306556ba1b1e6d5cf87.jpg)Turian continued to send in the beats and Paul thought long and hard about whether or not to block and ultimately he opted not to and fell to nine. Mike fortified with more 1/1s—a Llanowar Elf and a Rootwalla. Mike only had three lands—two were Mossfire Valleys and he was tapped out to make his men. Paul took advantage and swung in his Aquamoeba and made an Arrogant Wurm. The Wurm 'traded' with the enchanted creature and Mike got a 3/3 token. When Mike also tried a Wild Mongrel it was Circular Logic-ed through the Aquamoeba, giving Turian a window to kill it with a Lavamancer and he took advantage of it.
+![](https://i.ormos.uk/c3/66/c366b5653299da416a3fed76f3c7085fefb9755e3e71d306556ba1b1e6d5cf87.jpg)
+
+Turian continued to send in the beats and Paul thought long and hard about whether or not to block and ultimately he opted not to and fell to nine. Mike fortified with more 1/1s—a Llanowar Elf and a Rootwalla. Mike only had three lands—two were Mossfire Valleys and he was tapped out to make his men. Paul took advantage and swung in his Aquamoeba and made an Arrogant Wurm. The Wurm 'traded' with the enchanted creature and Mike got a 3/3 token. When Mike also tried a Wild Mongrel it was Circular Logic-ed through the Aquamoeba, giving Turian a window to kill it with a Lavamancer and he took advantage of it.
 
 Paul cast Deep Analysis looking for answers but found only Looters that could not hold the ground against Turian's mounting army.
 
@@ -399,7 +403,9 @@ Rietzl shrugged, "Blue-green..."
 
 ### Game 2
 
-![](https://i.ormos.uk/15/bc/15bc015ba000fd19791dda4d3726e0bd25b14f51b56f8690c1ee6bddadeab756.jpg)Paul opened with a careful Study but could only shake his head sadly and discard a Circular Logic and a Turbulent Dreams—hardly the textbook turn one for blue-green. Mike had the Wooded Foothills into Grim Lavamancer again, which did little to improve Paul's darkening mood. Aquamoeba was the turn two play and Mike had an elf and Grim Lavamancer number two.
+![](https://i.ormos.uk/15/bc/15bc015ba000fd19791dda4d3726e0bd25b14f51b56f8690c1ee6bddadeab756.jpg)
+
+Paul opened with a careful Study but could only shake his head sadly and discard a Circular Logic and a Turbulent Dreams—hardly the textbook turn one for blue-green. Mike had the Wooded Foothills into Grim Lavamancer again, which did little to improve Paul's darkening mood. Aquamoeba was the turn two play and Mike had an elf and Grim Lavamancer number two.
 
 Paul had nothing going on and his next play was a fifth turn Rootwalla. Mike Hammered the Aquadog and sent in the lizard. After a brief skirmish Paul unsummoned his fighter and replayed him next turn.
 

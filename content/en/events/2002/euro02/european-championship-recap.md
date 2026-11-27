@@ -53,7 +53,9 @@ archive_source:
   sha256: c8f7ce82e0a818fbb4739da4f9043e3f1bbac7e976ebcaaf4392f4397dda9ef6
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a898.jpg)It ended the same way a lot of Standard games have ended in the last few months: a huge Psychatog cruising through an Upheaval-swept table. In the last day of this Standard format, and despite all its naysayers, Mr. Teeth took yet another title. With the best **Magic** player looking over his shoulder the entire time David Brucker did not waver through the long games: he knew his deck would pull him through.
+![](http://www.wizards.com/sideboard/images/euro02/a898.jpg)
+
+It ended the same way a lot of Standard games have ended in the last few months: a huge Psychatog cruising through an Upheaval-swept table. In the last day of this Standard format, and despite all its naysayers, Mr. Teeth took yet another title. With the best **Magic** player looking over his shoulder the entire time David Brucker did not waver through the long games: he knew his deck would pull him through.
 
 First he took down the Swedish champion Anton Jonsson (who you might know from his Pro Tour results). In the other tables, local favourite Victor van den Broek—from The Netherlands obviously—defeated Denmark's Svend Geertsen, Christophe Haim won the "all-French" table against Amiel Tenebaum and Marco Lombardi got past the other German, Roland Bode.
 
@@ -61,7 +63,9 @@ The buzz going around the room right before the semi-finals wasn't about the mat
 
 Perhaps a bit shaken by his national football team result (not performance), Brucker didn't come back as impressive as in had been in the first two games of his match. He had taken those two from Victor van den Broek but stumbled in the next games. In a very dramatic ending he managed to find the perfect answers at the perfect time to take the last game.
 
-![](http://www.wizards.com/sideboard/images/euro02/a774.jpg)So we had one finalist. On the other table Christophe Haim tried what many thought was impossible: defeating Trenches with Green-Blue-Red Madness. Still, the Frenchman found a way to reach the finals.
+![](http://www.wizards.com/sideboard/images/euro02/a774.jpg)
+
+So we had one finalist. On the other table Christophe Haim tried what many thought was impossible: defeating Trenches with Green-Blue-Red Madness. Still, the Frenchman found a way to reach the finals.
 
 Things never went Christophe's way in the finals. He had to mulligan almost every game, some kind of curse Brucker seems to give while shuffling according to some, and Brucker's Tog was almost always ready for him.
 

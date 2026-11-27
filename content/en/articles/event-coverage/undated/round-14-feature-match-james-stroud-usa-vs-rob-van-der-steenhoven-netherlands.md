@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Mark Wraith* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/853.jpg)Each of these players needed to win this match to make the Top 8. James Stroud of the United States was on 32 points, and Rob van der Steenhoven of the Netherlands was on 31 points. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/853.jpg)
+
+Each of these players needed to win this match to make the Top 8. James Stroud of the United States was on 32 points, and Rob van der Steenhoven of the Netherlands was on 31 points. 
 
 Rob started off, and James was forced to mulligan. Rob played out early creatures in the form of Ardent Soldier, Quirion Sentinel, and Ardent Soldier. Stroud summoned a Phyrexian Slayer on his fourth turn, but opted not to block when the Dutchman attacked with his Quirion Sentinel and Pincer Spider. This brought the American down to 13 life, but still Stroud was in an aggressive frame of mind, swinging with the Slayer, and playing a Rith's Attendant to block. 
 
@@ -49,7 +51,9 @@ However, the one card that Rob had was ideal, as he enchanted his Glimmering Ang
 
 Two turns later, Stroud had to scoop to the 4/4 Angel. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/854.jpg)James went first in game two, and once again Rob attempted to go aggressive from the start. Despite his Llanowar Knight being Prohibited, he cast two Benalish Lancers (without kicker), although they only brought James down to 18 before the sturdy Rith's Attendant came into play to block. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/854.jpg)
+
+James went first in game two, and once again Rob attempted to go aggressive from the start. Despite his Llanowar Knight being Prohibited, he cast two Benalish Lancers (without kicker), although they only brought James down to 18 before the sturdy Rith's Attendant came into play to block. 
 
 The next few turns the players built up a flying force, Rob with an Angel of Mercy and an Ordered Migration for three, and James with a Faerie Squadron and a Phyrexian Slayer. 
 

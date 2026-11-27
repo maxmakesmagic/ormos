@@ -65,11 +65,15 @@ The last two undefeated, untied teams met in round 6. Tight Club (Bob Maher, Dav
 
 ### McKenna v Gilly
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSTLOUIS00/images/tightclubFM.jpg)Tim McKenna's green/white deck didn't have any answers to to Gilly's double Rathi Intimidator beatdown except racing. When his mediocre land draw prevented him from effectively racing, Gilly took a quick 1-0 lead. McKenna got off to a fast start in game 2 and his Crossbow Infantry shut down Gilly's Intimidator, but one Sam Gilly Seal of Doom later the game turned into a brawl. Gilly added green monster after green monster to his side of the board and McKenna couldn't deal with all that fat. Green fat with black removal has been a popular and successful choice all weekend.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSTLOUIS00/images/tightclubFM.jpg)
+
+Tim McKenna's green/white deck didn't have any answers to to Gilly's double Rathi Intimidator beatdown except racing. When his mediocre land draw prevented him from effectively racing, Gilly took a quick 1-0 lead. McKenna got off to a fast start in game 2 and his Crossbow Infantry shut down Gilly's Intimidator, but one Sam Gilly Seal of Doom later the game turned into a brawl. Gilly added green monster after green monster to his side of the board and McKenna couldn't deal with all that fat. Green fat with black removal has been a popular and successful choice all weekend.
 
 ### Williams v Jackson
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSTLOUIS00/images/sourgirlFM.jpg)Game 1 was ugly. Williams tried to be aggressive early, but Aaron Jackson stopped him cold with Squee/Waterfront Bouncer. After working him for a few turns with that, Jackson took a turn off so he could cast Bribery ([see movie](https://web.archive.org/web/20000101000000/http://archive.wizards.com/sideboard/article.asp?x=GPSTLOUIS00/images/briberyFM.MPG))! Bribery resulted in Delraich turning traitor. Williams tried to race Delraich with Kyren Negotiations, but Jackson sent it to the air with Balloon Peddler and then Jackson killed everything except Delraich with a Rupture.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSTLOUIS00/images/sourgirlFM.jpg)
+
+Game 1 was ugly. Williams tried to be aggressive early, but Aaron Jackson stopped him cold with Squee/Waterfront Bouncer. After working him for a few turns with that, Jackson took a turn off so he could cast Bribery ([see movie](https://web.archive.org/web/20000101000000/http://archive.wizards.com/sideboard/article.asp?x=GPSTLOUIS00/images/briberyFM.MPG))! Bribery resulted in Delraich turning traitor. Williams tried to race Delraich with Kyren Negotiations, but Jackson sent it to the air with Balloon Peddler and then Jackson killed everything except Delraich with a Rupture.
 
 Jackson's kept dropping bombs in game 2. Williams played a fast Negotiations, but Jackson had Bribery once again. Williams had sideboarded Delraich out of his deck so Jackson had to settle for Rock Badger. Williams played a Cave Sense on his Undertaker and the race was on. Jackson added Flowstone Thopter to his side and then used Ensnare to deliver the death blow. When the game ended Jackson still had Counterspell and Dehydration in his hand!
 

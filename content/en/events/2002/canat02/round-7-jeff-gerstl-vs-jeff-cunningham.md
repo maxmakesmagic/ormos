@@ -83,7 +83,9 @@ render_recovery:
   - Fiery Temper
   occurrences: 24
 ---
-![](http://www.wizards.com/sideboard/images/canat02/a945.jpg)There's just something about Canadian Jeffs. Not only are Gerstl and Cunningham enjoying the fruits of their skill with records that sent them to the Feature Match Area again and again, the same is true of Jeff Fung. Gerstl is a strong Ontario player on the road to his breakout performance, while Cunningham's fresh face smiles from portraits in every Canadian elementary school. Both are looking for 5-1 performances to secure their place in the final day.
+![](http://www.wizards.com/sideboard/images/canat02/a945.jpg)
+
+There's just something about Canadian Jeffs. Not only are Gerstl and Cunningham enjoying the fruits of their skill with records that sent them to the Feature Match Area again and again, the same is true of Jeff Fung. Gerstl is a strong Ontario player on the road to his breakout performance, while Cunningham's fresh face smiles from portraits in every Canadian elementary school. Both are looking for 5-1 performances to secure their place in the final day.
 
 Read about Jeff Cunningham's draft [here](/en/events/2002/canat02/draft-1-jeff-cunningham).
 
@@ -91,7 +93,9 @@ Cunningham brought early beats with Ironshell Beetle, but whatever joy he felt w
 
 The fates were kind, and Cunningham got a third land to bust out Nullmage Advocate. Gerstl Syncopated. But the hits kept coming. Two Cartographers were stopped by Cephalid Sage. Dematerialize bounced one and they traded hits. Cunningham came back with Springing Tiger. Gerstl went one better Wormfang Behemoth.
 
-![](http://www.wizards.com/sideboard/images/canat02/a943.jpg)Now Cunningham had his thinking cap on. He Demoralized to push through five more damage. Gerstl's counterattack left them both at seven. Dematerialize out of the graveyard left Cunningham with just a Cartographer. Things weren't looking great for him. Acorn Harvest gave him a couple of stand-ins. Churning Eddy sent one home. Gerstl swung with just the Behemoth. Cunningham took it and fell to two. He untapped, swung with his men, and when the lone squirrel brought Gerstl to four, he turned over Lightning Surge for the game.
+![](http://www.wizards.com/sideboard/images/canat02/a943.jpg)
+
+Now Cunningham had his thinking cap on. He Demoralized to push through five more damage. Gerstl's counterattack left them both at seven. Dematerialize out of the graveyard left Cunningham with just a Cartographer. Things weren't looking great for him. Acorn Harvest gave him a couple of stand-ins. Churning Eddy sent one home. Gerstl swung with just the Behemoth. Cunningham took it and fell to two. He untapped, swung with his men, and when the lone squirrel brought Gerstl to four, he turned over Lightning Surge for the game.
 
 Cunningham 1 - Gerstl 0
 
@@ -101,7 +105,9 @@ He swung in on the seemingly helpless Gerstl. He blocked the Tiger and played Mu
 
 Gerstl was feeling safe behind his nigh-unkillable monster. He refuelled with Deep Analysis, looking for more land. At end of turn, Cunningham took a counter off the Centaur with Engulfing Flames, then untapped and ran in with everyone. The Centaur ate the Lancer, then was finished off by the Flames. Ember Beast made it look like Gerstl was firmly on the back foot.
 
-![](http://www.wizards.com/sideboard/images/canat02/a942.jpg)Again Cunningham's troops charged the field. The Wurm ate the Tiger, and the Barkripper dove in front of the Beast. Lava Dart finished the Wurm. Gerstl refused to Yield. Not even Fledgling Dragon could convince him. He hired Wild Mongrel and braced for impact. Two pitches took out the Ember Beast. Gerstl had no further play. It looked like the end. Cunningham hit again.
+![](http://www.wizards.com/sideboard/images/canat02/a942.jpg)
+
+Again Cunningham's troops charged the field. The Wurm ate the Tiger, and the Barkripper dove in front of the Beast. Lava Dart finished the Wurm. Gerstl refused to Yield. Not even Fledgling Dragon could convince him. He hired Wild Mongrel and braced for impact. Two pitches took out the Ember Beast. Gerstl had no further play. It looked like the end. Cunningham hit again.
 
 But it was a ruse! First Elephant Ambush, then a pitch of Wonder to the Mongrel, and Cunningaham's team was destroyed except for the Advocate. Cunningham was momentarily stunned. He thought for a moment, then turned over Fiery Temper. Gerstl laughed, extending the hand in defeat.
 

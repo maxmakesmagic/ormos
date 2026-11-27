@@ -295,7 +295,9 @@ This is a bonus installment of my series analyzing the cards in *Judgment* for t
 
 ### Judgment Limited Revisited
 
-![](https://i.ormos.uk/74/b0/74b04c551d93ace2acc47fccf6d47151fd094429877af0d378931c4b57dbcb18.jpg)Everyone makes mistakes, and when I analyzed *Judgment* before actually holding the physical cards, I knew I wouldn't be infallible. I made a lot of mistakes in white, with a few in each of the other colors, and this is my attempt to correct that. What follows is a look at those card I overestimated and those I underestimated as well as revised lists that get as close as possible to ranking the cards in each color. Keep in mind that no such list can be absolute as the contents of your deck will invariably change card values, and that everything that follows considers *Judgment* the third pack of a draft following *Odyssey* and *Torment* respectively. Enjoy.
+![](https://i.ormos.uk/74/b0/74b04c551d93ace2acc47fccf6d47151fd094429877af0d378931c4b57dbcb18.jpg)
+
+Everyone makes mistakes, and when I analyzed *Judgment* before actually holding the physical cards, I knew I wouldn't be infallible. I made a lot of mistakes in white, with a few in each of the other colors, and this is my attempt to correct that. What follows is a look at those card I overestimated and those I underestimated as well as revised lists that get as close as possible to ranking the cards in each color. Keep in mind that no such list can be absolute as the contents of your deck will invariably change card values, and that everything that follows considers *Judgment* the third pack of a draft following *Odyssey* and *Torment* respectively. Enjoy.
 
 ### What Was I Thinking?
 

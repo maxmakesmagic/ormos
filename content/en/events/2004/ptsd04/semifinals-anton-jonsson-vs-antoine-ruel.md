@@ -735,7 +735,9 @@ render_recovery:
 ---
 * * *
 
-![Anton Jonsson](http://www.wizards.com/sideboard/images/ptsd04/sf2_1.jpg)Jonsson and Ruel are no strangers to the Top 8, but neither has ever won the whole thing. This is particularly significant for Jonsson, who is now playing in the Top 8 for the fourth time in his career. Another interesting aspect of this match-up is the level of effort both players have put in. Jonsson is notorious for practicing quite a bit, especially on Magic Online. Ruel visited practically every Grand Prix during the *Mirrodin* Block draft season, going on a two month tour of the world and perfecting his understanding of the format in the process. Obviously, the practice has paid off since they both made it to this point, although two more wins would mean a lot more for either player.
+![Anton Jonsson](http://www.wizards.com/sideboard/images/ptsd04/sf2_1.jpg)
+
+Jonsson and Ruel are no strangers to the Top 8, but neither has ever won the whole thing. This is particularly significant for Jonsson, who is now playing in the Top 8 for the fourth time in his career. Another interesting aspect of this match-up is the level of effort both players have put in. Jonsson is notorious for practicing quite a bit, especially on Magic Online. Ruel visited practically every Grand Prix during the *Mirrodin* Block draft season, going on a two month tour of the world and perfecting his understanding of the format in the process. Obviously, the practice has paid off since they both made it to this point, although two more wins would mean a lot more for either player.
 
 ### Game 1
 

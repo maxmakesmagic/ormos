@@ -790,7 +790,9 @@ Total Deck cost: 48.3 Tickets
 
 If we took out the Dark Confidants entirely, this would put the entire deck (including sideboard) into budget range. There is a similar problem here to the one I found when adapting the Rosewater Black deck. Taking out Dark Confidant / Phyrexian Arena neuters one of the greatest strengths of both of these decks—card advantage. 
 
-![Dark Confidant and Phyrexian Arena](https://i.ormos.uk/c0/c6/c0c6eae6b2bb45747a9027ac30d82cdcb35f3251cbb2c74beefe730ba49eed97.jpg)Both Dark Confidant and Phyrexian Arena are one-sided Howling Mines. Everyone loves Howling Mine—except that Howling Mine is strictly card disadvantage. It's all simple math. When you play a Howling Mine, you are down a card (the Howling Mine itself). Playing a Howling Mine in-and-of itself does *nothing*—you are putting out an artifact that will have no effect on your position until the following turn! This gets worse when your opponent draws for their turn. Suddenly, they are up a card from where they would have been otherwise. Even if they destroy the Howling Mine at that point, you are still down a card. 
+![Dark Confidant and Phyrexian Arena](https://i.ormos.uk/c0/c6/c0c6eae6b2bb45747a9027ac30d82cdcb35f3251cbb2c74beefe730ba49eed97.jpg)
+
+Both Dark Confidant and Phyrexian Arena are one-sided Howling Mines. Everyone loves Howling Mine—except that Howling Mine is strictly card disadvantage. It's all simple math. When you play a Howling Mine, you are down a card (the Howling Mine itself). Playing a Howling Mine in-and-of itself does *nothing*—you are putting out an artifact that will have no effect on your position until the following turn! This gets worse when your opponent draws for their turn. Suddenly, they are up a card from where they would have been otherwise. Even if they destroy the Howling Mine at that point, you are still down a card. 
 
 Best Case Scenario:  
  Your Turn: You play Howling Mine. (-1 Card Advantage)  

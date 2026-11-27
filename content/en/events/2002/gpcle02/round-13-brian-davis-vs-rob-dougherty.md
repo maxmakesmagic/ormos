@@ -102,7 +102,9 @@ render_recovery:
   - Squirrel Nest
   occurrences: 105
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a908.jpg)Dougherty and Davis are among some of the most successful North American pros at the moment. Today, they find themselves in the comfortable position of being able to Top 8 with a 1-1 record. Dougherty continues to use the blue-green tempo deck he's been playing for several tournaments now since the World Championships. Brian Davis is playing an Upheaval-Infestation deck he worked on together with Kenny Hsiung and Gerard Fabiano. At the end of day 1 Davis was undefeated at 8-0 and the combined result of his group was 23-0-1! 
+![](http://www.wizards.com/sideboard/images/gpcle02/a908.jpg)
+
+Dougherty and Davis are among some of the most successful North American pros at the moment. Today, they find themselves in the comfortable position of being able to Top 8 with a 1-1 record. Dougherty continues to use the blue-green tempo deck he's been playing for several tournaments now since the World Championships. Brian Davis is playing an Upheaval-Infestation deck he worked on together with Kenny Hsiung and Gerard Fabiano. At the end of day 1 Davis was undefeated at 8-0 and the combined result of his group was 23-0-1! 
 
 Doughery mulliganed away a very blue hand that had nothing but green mana sources only to draw a very similar hand. Down to six cards, he was forced to keep it. Unaware of Doughery's mana problems, Davis cast a turn 2 Standstill. Although Doughery was mana-hosed, casting Standstill really did not hurt Davis as his entire hand was defensive spells. Instead, it allowed him to play a land every single turn, preparing to eventually set up the Upheaval-Infestation combo.
 
@@ -112,7 +114,9 @@ Despite having plenty of powerful spells between his hand and graveyard, Dougher
 
 On his own turn, Davis attempted to remove Mongrel via Innocent Blood, only to have Dougherty play Basking Rootwalla as an instant. Chainer's Edict found a second Rootwalla to munch on. Out of removal spells, Davis used Aether Burst to bounce Wild Mongrel and then cast Zombie Infestation and Standstill. The game was stalled once again with both players drawing and passing the turn and with Dougherty discarding his eighth card every time.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a905.jpg)Finally, Doughery broke Stanstill with Careful Study. He played Basking Rootwalla via madness and then summoned Wild Mongrel and Werebear, with Davis allowing all those spells to resolve. At the end of turn, Davis Aether Bursted Mongrel and Rootwalla back to Doughery's hand and cast Flash of Insight with flashback for four. On his turn, Davis tapped out to cast Upheaval and used Infestation to Circular Logic Doughery's Envelop for one mana. He replayed Zombie Infestation and was able to make five tokens and keep seven cards in hand. Doughery chose not to play out the next few turns.
+![](http://www.wizards.com/sideboard/images/gpcle02/a905.jpg)
+
+Finally, Doughery broke Stanstill with Careful Study. He played Basking Rootwalla via madness and then summoned Wild Mongrel and Werebear, with Davis allowing all those spells to resolve. At the end of turn, Davis Aether Bursted Mongrel and Rootwalla back to Doughery's hand and cast Flash of Insight with flashback for four. On his turn, Davis tapped out to cast Upheaval and used Infestation to Circular Logic Doughery's Envelop for one mana. He replayed Zombie Infestation and was able to make five tokens and keep seven cards in hand. Doughery chose not to play out the next few turns.
 
 Davis 1 - Dougherty 0
 
@@ -120,7 +124,9 @@ The first spell of the second game was Dougherty's Quiet Speculation, putting tw
 
 Over the next few turns Dougherty would cast Roars out of his graveyard and Davis would remove the tokens with Innocent Blood or Chainer's Edict. Finally, Dougherty managed to keep a non-land permanent in play. He summoned Wild Mongrel and Davis did not do anything about that, choosing to take two damage next turn. When Dougherty cast another Roar, Davis used Aether Burst to remove the token and bounce Wild Mongrel back to Rob's hand. At this point, Dougherty was down to thirteen points because of Acorn Harvest's flashback and all the damage he had to take from a pair of Centaur Gardens. Davis countered Wild Mongrel with Circular Logic, discarding an excess Zombie Infestation to make a token and attacked for two on his turn. Dougherty attempted to reset the game with Upheaval, but Davis had Envelop ready. 
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a911.jpg)Down to five life points, Dougherty ended his turn with Phantom Centaur and Basking Rootwalla in play. Davis tapped out on his turn to re-cast Chainer's Edict out of his graveyard. Dougherty summoned another Rootwalla. With a blocker at hand, he was able to attack with a Centaur, bringing Davis down to thirteen life. Davis went down to nine in order to draw four cards with Skeletal Scrying. He drew an Aether Burst but chose to hold it, hoping to be able to attack Dougtherty for the win on the following turn. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a911.jpg)
+
+Down to five life points, Dougherty ended his turn with Phantom Centaur and Basking Rootwalla in play. Davis tapped out on his turn to re-cast Chainer's Edict out of his graveyard. Dougherty summoned another Rootwalla. With a blocker at hand, he was able to attack with a Centaur, bringing Davis down to thirteen life. Davis went down to nine in order to draw four cards with Skeletal Scrying. He drew an Aether Burst but chose to hold it, hoping to be able to attack Dougtherty for the win on the following turn. 
 
 Dougherty attacked with his two creatures. Unblocked, they brought Davis down to three life points. Davis Enveloped a Grizzly Fate and burst a pair of tapped creatures back to Dougherty's hand at the end of turn. Davis made two more Zombie tokens and attacked for the kill. Davis is now able to draw into the top 8 while Dougherty will need to win his next round.
 

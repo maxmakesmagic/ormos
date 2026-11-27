@@ -57,7 +57,9 @@ Everyone wants an easy matchup their first round, but someone's got to play Phoe
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a967.jpg)The first match off the blocks was Dirk Baberowski against Elijah Pollock. Pollock's red-black deck blazed out of the gates with Carrion Feeder and Festering Goblin leading a charge of morphs, but Baberowski shut him down with a mighty three-turn sequence. First it was turning up Wall of Deceit to ambush the 2/2 Feeder, then Crude Rampart, and finally Noble Templar. With the ground locked up, Baberowski's blue-white looked like it would have no trouble winning.
+![](http://www.wizards.com/sideboard/images/ptbos03/a967.jpg)
+
+The first match off the blocks was Dirk Baberowski against Elijah Pollock. Pollock's red-black deck blazed out of the gates with Carrion Feeder and Festering Goblin leading a charge of morphs, but Baberowski shut him down with a mighty three-turn sequence. First it was turning up Wall of Deceit to ambush the 2/2 Feeder, then Crude Rampart, and finally Noble Templar. With the ground locked up, Baberowski's blue-white looked like it would have no trouble winning.
 
 Next door, Kai Budde and David Rood were in a race. Budde had Wirewood Elf and Wirewood Savage, threats that Rood's blue-white couldn't answer. 
 
@@ -90,7 +92,9 @@ Blume and Wolfman were on to their second game, only this time after a few early
 Blume 1 - Wolfman 1  
  Phoenix Foundation 0 - 2020 0
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a966.jpg)Budde and Rood hit a midgame stall after Budde's Pinpoint Avalanche took care of a 3/3 Stinger. Rood broke it with Crowd Favorites and swung into Budde's pair of 1/1's. Budde blocked and hardcast Decree of Savagery. Rood turned over an Oblation for the big save. The cards were no good, and the Favorites went the distance.
+![](http://www.wizards.com/sideboard/images/ptbos03/a966.jpg)
+
+Budde and Rood hit a midgame stall after Budde's Pinpoint Avalanche took care of a 3/3 Stinger. Rood broke it with Crowd Favorites and swung into Budde's pair of 1/1's. Budde blocked and hardcast Decree of Savagery. Rood turned over an Oblation for the big save. The cards were no good, and the Favorites went the distance.
 
 Budde 1- Rood 1  
  Phoenix Foundation 0 - 2020 0
@@ -113,7 +117,9 @@ He was his usual model of confidence. He played a pair of morphs versus Rood's b
 
 "That thing has to go." -- Kai Budde
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a964.jpg)He piled on another morph. Rood suited his morph up with Dragon Scales and dropped Sandskin on one of Budde's morphs, earning a laugh from the German. He swung in and showed Venomspout Brackus when the Scales'd creature blocked. Shoreline Ranger brought back the enchantment, but Rood was unwilling to risk his beast against Budde's 5/5.
+![](http://www.wizards.com/sideboard/images/ptbos03/a964.jpg)
+
+He piled on another morph. Rood suited his morph up with Dragon Scales and dropped Sandskin on one of Budde's morphs, earning a laugh from the German. He swung in and showed Venomspout Brackus when the Scales'd creature blocked. Shoreline Ranger brought back the enchantment, but Rood was unwilling to risk his beast against Budde's 5/5.
 
 At the same time, Baberowski was stabilizing at a dicier life total. His Cutthroat caught a morph, but then Pollock took to the air with Sootfeather Flock, and by the time Baberowski put out a Wingbeat Warrior (augmented by Daru Warchief), Pollock had Threaten to drop him to three. He started churning his Undead Gladiator to look for some damage.
 

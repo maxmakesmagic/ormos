@@ -136,7 +136,9 @@ This was the seating plan:
 
 And so fate dictated that the two French brothers should sit down next to each other on their own turf – a situation that is deemed to be a huge advantage should the players know their own draft preferences. In this case of course, they did...
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a983.jpg)Olivier: " Antoine knew I liked drafting white/blue, so I thought it natural that he might end up black/green to my left.'
+![](http://www.wizards.com/sideboard/images/ptnice02/a983.jpg)
+
+Olivier: " Antoine knew I liked drafting white/blue, so I thought it natural that he might end up black/green to my left.'
 
 S.B.: " What would happen to the red then?"
 
@@ -180,7 +182,9 @@ Savage Firecat, Childhood Horror, Elephant Ambush, Nantuku Disciple, Barbarian L
 
 Booster 1: **Firebolt**, Beast Attack, Balshan Griffin, Mystic Zealot, Krosan Avenger, Patriarch's Desire, Muscle Burst. Yes, this booster was pretty nuts and Olivier spent quite some time wondering what the right pick was – his hand straying to the Zealot on numerous occasions.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a985.jpg)Booster 2: Ember Beast, **Flame Burst**, Millikin, Repel.
+![](http://www.wizards.com/sideboard/images/ptnice02/a985.jpg)
+
+Booster 2: Ember Beast, **Flame Burst**, Millikin, Repel.
 
 Booster 3: Gravedigger, Recoup, Angelic Wall, **Chainflinger**. I imagine at this stage Olivier resigned himself to being a three colour mage with slightly dodgy mana, but that has proven to be a typically French thing to do.
 

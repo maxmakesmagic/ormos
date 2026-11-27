@@ -933,7 +933,9 @@ Tomohiro Kaji
   
  
 
-![](http://www.wizards.com/sideboard/images/worlds05/f_karsten.jpg)Sharing Kaji's spot at 6-0 on Day One was eventual Finalist Frank Karsten. Karsten had many cards in common with the GhaziGlare 75 -- Yosei, Greater Good, and *Kamigawa* Block's dominant land, good old basic Forest -- but went with a Gifts Ungiven engine instead of focusing on weenie creatures, Jitte, and the beatdown. Karsten's deck incorporates many of the effects we have come to associate with one another in not dissimilar decks over the course of *Kamigawa* Block and Standard tournaments -- Sensei's Divining Top, Sakura-Tribe Elder, and other shuffle effects -- and can defend itself with tons of removal cards. After sideboarding, Karsten's Greater Gifts can switch into a more conventional Gifts Ungiven engine with Hana Kami and Arcane/Splice tricks.
+![](http://www.wizards.com/sideboard/images/worlds05/f_karsten.jpg)
+
+Sharing Kaji's spot at 6-0 on Day One was eventual Finalist Frank Karsten. Karsten had many cards in common with the GhaziGlare 75 -- Yosei, Greater Good, and *Kamigawa* Block's dominant land, good old basic Forest -- but went with a Gifts Ungiven engine instead of focusing on weenie creatures, Jitte, and the beatdown. Karsten's deck incorporates many of the effects we have come to associate with one another in not dissimilar decks over the course of *Kamigawa* Block and Standard tournaments -- Sensei's Divining Top, Sakura-Tribe Elder, and other shuffle effects -- and can defend itself with tons of removal cards. After sideboarding, Karsten's Greater Gifts can switch into a more conventional Gifts Ungiven engine with Hana Kami and Arcane/Splice tricks.
 
 Frank Karsten 
 
@@ -961,7 +963,9 @@ Javier Dominguez - 6-0
   
  
 
-![](https://i.ormos.uk/1f/a8/1fa8d317a9ea4d7b219817f0148157244cdef29aa9982db52721edf156c9b904.jpg)Javier Dominguez missed Top 8 on tiebreakers, finishing 11th, but his Extended deck was flawless in *its* performance. Dominguez's deck is a hybrid between perennial Extended favorite The Rock and Standard and Block Constructed powerhouse Gifts Ungiven. Gifts Ungiven (the card, rather than the deck) super charges The Rock, answering a lot of questions while accelerating the long game elements that the normally ponderous threat deck often has difficulty catalyzing. Case in point: Genesis. Genesis is often a dorky Durkwood Boars, at least initially... The Rock has to get Genesis killed somehow -- many times going down in cards in the short term -- in order to start reaping long term card advantage. Gifts Ungiven allows The Rock to "tutor" for both Genesis and Cabal Therapy (as well as two more targets), to get its machinery going a turn or more early.
+![](https://i.ormos.uk/1f/a8/1fa8d317a9ea4d7b219817f0148157244cdef29aa9982db52721edf156c9b904.jpg)
+
+Javier Dominguez missed Top 8 on tiebreakers, finishing 11th, but his Extended deck was flawless in *its* performance. Dominguez's deck is a hybrid between perennial Extended favorite The Rock and Standard and Block Constructed powerhouse Gifts Ungiven. Gifts Ungiven (the card, rather than the deck) super charges The Rock, answering a lot of questions while accelerating the long game elements that the normally ponderous threat deck often has difficulty catalyzing. Case in point: Genesis. Genesis is often a dorky Durkwood Boars, at least initially... The Rock has to get Genesis killed somehow -- many times going down in cards in the short term -- in order to start reaping long term card advantage. Gifts Ungiven allows The Rock to "tutor" for both Genesis and Cabal Therapy (as well as two more targets), to get its machinery going a turn or more early.
 
 It doesn't really matter where the opponent puts Cabal Therapy relative to Genesis. If both go to hand, Dominguez can play Genesis four-into-five and follow-up with Cabal Therapy and a flashback. If Cabal Therapy hits the graveyard, Genesis comes online a turn more quickly, and if Genesis goes to the graveyard for whatever reason… everything is great to begin with.
 

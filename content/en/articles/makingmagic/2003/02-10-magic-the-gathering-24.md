@@ -61,7 +61,9 @@ archive_source:
   sha256: 2892c842540849591312a45b1578cd0ae48e7bd8e3720b9c527f4263c7ed3df5
 render_recovery: []
 ---
-![Brian Schneider](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/making/58_ffl.jpg)You don’t get to play in the Future Future League as much as you like to due to time constraints. For the developers it's a job requirement, but for you it's a luxury. Every once in a while its fun to put a deck together and try out some of the cards you’ve made.
+![Brian Schneider](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/making/58_ffl.jpg)
+
+You don’t get to play in the Future Future League as much as you like to due to time constraints. For the developers it's a job requirement, but for you it's a luxury. Every once in a while its fun to put a deck together and try out some of the cards you’ve made.
 
 Brian Schneider is able to play and he beats the snot out of you. You lose two games straight. It wasn’t close. (Hey, you weren’t hired for your **Magic** playing skills.) But it was fun and it did give you a little insight into future constructed **Magic**.
 

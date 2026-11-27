@@ -55,7 +55,9 @@ Christian won the roll and elected to go first. Satoshi mulliganed once. Christi
 
 This time, Satoshi and his quirky snake hat came to play. Mr. Nakamura elected to go first. Some initial skirmishing between Christian's Stormscape Apprentice and Satoshi's Dream Thrush gave way to a more impressive standoff between an array of Nakamuran creatures (Shoreline Raider, Phyrexian Slayer, Vodalian Zombie, Ravenous Rats, Tower Drake) and Luhrian beasts - namely, Blind Seer, Dromar's Attendant, and Metathran Aerostat. The Aerostat was a mid-game MVP, keeping Satoshi's air force home.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/904.jpg)Phase two of this barnstormer started around turn 13, when Satoshi attempted to play a Vodalian Serpent with kicker, Christian Excluded it, and then Christian played a Benalish Heralds. The Heralds went shopping for four consecutive end-steps, and Christian was able to begin a combat push with creatures like Vodalian Zombie, backed up by the Blind Seer. He also uncovered two Mournings, which he used to confound Satoshi's blocking schemes.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/904.jpg)
+
+Phase two of this barnstormer started around turn 13, when Satoshi attempted to play a Vodalian Serpent with kicker, Christian Excluded it, and then Christian played a Benalish Heralds. The Heralds went shopping for four consecutive end-steps, and Christian was able to begin a combat push with creatures like Vodalian Zombie, backed up by the Blind Seer. He also uncovered two Mournings, which he used to confound Satoshi's blocking schemes.
 
 In the middle of all of this, Satoshi's Dream Thrush tapped to make white mana to pump the Tower Drake. Christian played Shackles on the Thrush. Sounds innocent, but remember this.
 
@@ -65,7 +67,9 @@ Christian, after consulting with a judge, activated the Metathran Aerostat's abi
 
 The next turn, the game got wilder as Satoshi played the Phyrexian Infiltrator, with eight mana still open afterward. With Christian tapped out of blue mana, he did the double-activation trick, leaving his opponent with a Shackled Dream Thrush and enjoying a shiny new Blind Seer. (And no, that's not the end of the Shackled Dream Thrush, people. I don't know about these other fancy Sideboard writers, but I won't lead you down the fabled Shackled Dream Thrush path unless there's a big payoff. Stay frosty.)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/905.jpg)Both sides still had impressive armies when Christian laid down Do or Die. He separated Satoshi's creatures as follows: Blind Seer (stolen), Phyrexian Infiltrator, and Phyrexian Slayer in one pile; a second (unshackled) Dream Thrush, Ravenous Rats, and Vodalian Zombie in the other. Satoshi selected the first pile. Christian then used his Apprentice to tap the Seer, and laid his Mournings down on the other two creatures. Attacking with his full army, he brought Satoshi down to five life.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/905.jpg)
+
+Both sides still had impressive armies when Christian laid down Do or Die. He separated Satoshi's creatures as follows: Blind Seer (stolen), Phyrexian Infiltrator, and Phyrexian Slayer in one pile; a second (unshackled) Dream Thrush, Ravenous Rats, and Vodalian Zombie in the other. Satoshi selected the first pile. Christian then used his Apprentice to tap the Seer, and laid his Mournings down on the other two creatures. Attacking with his full army, he brought Satoshi down to five life.
 
 Because the Benalish Heralds had been such an effective card advantage machine, Christian goes into his next turn (turn #24, for those keeping score at home) with only TWO cards left in his library. He attacks with Zombie, Heralds, Aerostat, Rats, and a newly unshackled Thrush. Satoshi blocks Zombie and Aerostat with creatures in Mourning (Infiltrator and Slayer), and then attempts Infiltrator tricks. He does manage to get the Heralds out of the deal, but Christian has mana open to interrupt the eight-mana trick and reclaim his Blind Seer. Satoshi takes damage from the Rats and Thrush: down to three life. Christian Shackles the traitorous Heralds to end his turn.
 
@@ -75,6 +79,8 @@ Christian turns over his last card: Agonizing Demise. He taps his Dream Thrush..
 
 Christian has a Zombie, Seer, Aerostat, and Rats to deal damage, as well as a Stormscape Apprentice to tap. He taps Satoshi's Infiltrator and announces his intention to attack.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/930.jpg)At this point, Satoshi made his only questionable call, letting the attack happen before choosing to exchange the Infiltrator for a creature. (Had he exchanged before combat, he would have had an untapped blocker and would have survived.) He takes the Blind Seer out of combat, but without a blocker, he takes lethal damage. Thus ends an incredibly hard-fought and entertaining game, from both sides.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/930.jpg)
+
+At this point, Satoshi made his only questionable call, letting the attack happen before choosing to exchange the Infiltrator for a creature. (Had he exchanged before combat, he would have had an untapped blocker and would have survived.) He takes the Blind Seer out of combat, but without a blocker, he takes lethal damage. Thus ends an incredibly hard-fought and entertaining game, from both sides.
 
 **Final Result:** Lührs wins match, two games to zero.

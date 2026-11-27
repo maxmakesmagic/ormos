@@ -60,7 +60,9 @@ Tony did manage to Prohibit a Rampant Elephant to stem the bleeding, and then ca
 
 Next turn Dobson played out a Cavern Harpy to go with his Faerie Squadron, and when Roc attacked he blocked with both of his flyers. Roc did indeed have Gerrard's Command and saved his other creature with a Pollen Remedy. 
 
-![](https://i.ormos.uk/8f/ab/8fab078bbb9e8cb6a7f9c54fa4e97a71cbe4e3e659ab315e582885dc6943109e.jpg)Tony managed to get rid of one of the attackers on his next turn by casting a Nightscape Battlemage, returning the Griffin and the Explorer since Roc made the Glimmering Angel untargetable in response. 
+![](https://i.ormos.uk/8f/ab/8fab078bbb9e8cb6a7f9c54fa4e97a71cbe4e3e659ab315e582885dc6943109e.jpg)
+
+Tony managed to get rid of one of the attackers on his next turn by casting a Nightscape Battlemage, returning the Griffin and the Explorer since Roc made the Glimmering Angel untargetable in response. 
 
 Herms replayed the Griffin on his next turn, and in response to Tony casting the Cavern Harpy made the Battlemage into a White creature, so that Dobson was forced to return the Harpy itself to his hand. The next flying attack by Herms brought Tony to four, so things were looking fairly bad for the Englishman. 
 
@@ -82,7 +84,9 @@ Tony cast a Kavu Aggressor, and a Viashino Grappler, seeming to be building up a
 
 Roc was out of good threats now, playing only another 1/1 Quirion Explorer. Roc held a Pollen Remedy which would be sufficient to keep him alive even if Tony launched an all-out attack. 
 
-![](https://i.ormos.uk/ff/85/ff8534bc974c148960dc9de0cdc42aa6e6096832541be4178713151b28848b10.jpg)Despite being in a seemingly strong board and hand position, Tony looked worried. He was on six and Roc had six power of creatures in play - which meant that if Roc launched an all-out attack, Tony couldn't wait to see if anything was the target of some form of creature-enhancement before casting the River. 
+![](https://i.ormos.uk/ff/85/ff8534bc974c148960dc9de0cdc42aa6e6096832541be4178713151b28848b10.jpg)
+
+Despite being in a seemingly strong board and hand position, Tony looked worried. He was on six and Roc had six power of creatures in play - which meant that if Roc launched an all-out attack, Tony couldn't wait to see if anything was the target of some form of creature-enhancement before casting the River. 
 
 Dobson decided to go for an attack of his own, which would reduce Roc to exactly zero if he didn't block if it wasn't for the Pollen Remedy in hand. Herms could use his 1/1 elf to deal with the Grappler, especially if he decided to use the Pollen Remedy with kicker. 
 

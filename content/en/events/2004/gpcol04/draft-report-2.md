@@ -727,7 +727,9 @@ render_recovery:
 ---
 ### Drafting With Kate Stavola
 
-![](https://i.ormos.uk/5e/ad/5eadb4da1542dc6113377b453b294c9e26792dc7574220aff2ca96e03e1213ff.jpg)Kate Stavola is a twenty-four year-old amateur Magic player, who currently hails from Summerville, New Jersey. She played in PTQs back in Urza and Masques blocks, but then joined up with Wizards of the Coast after college, where she worked until September of 2003. After that, she moved to Summerville, New Jersey (home of fiancé and TOGIT storeowner Patrick Sullivan), where she started playing Limited with some of the best Magic players America has to offer. She entered the Grand Prix with no Byes in spite of having made the Top 8 at two PTQs this season because, as she puts it, "My Limited rating was literally below 1600 at the ratings cutoff." It certainly isn't anymore, as she entered the final draft before the top 8 at 11-1, meaning she had gone through 12 rounds of an 854 person Grand Prix with only a single loss, quite a feat for someone who just picked up the game again last November.
+![](https://i.ormos.uk/5e/ad/5eadb4da1542dc6113377b453b294c9e26792dc7574220aff2ca96e03e1213ff.jpg)
+
+Kate Stavola is a twenty-four year-old amateur Magic player, who currently hails from Summerville, New Jersey. She played in PTQs back in Urza and Masques blocks, but then joined up with Wizards of the Coast after college, where she worked until September of 2003. After that, she moved to Summerville, New Jersey (home of fiancé and TOGIT storeowner Patrick Sullivan), where she started playing Limited with some of the best Magic players America has to offer. She entered the Grand Prix with no Byes in spite of having made the Top 8 at two PTQs this season because, as she puts it, "My Limited rating was literally below 1600 at the ratings cutoff." It certainly isn't anymore, as she entered the final draft before the top 8 at 11-1, meaning she had gone through 12 rounds of an 854 person Grand Prix with only a single loss, quite a feat for someone who just picked up the game again last November.
 
 (Cards in **Bold** are the cards Kate picked.)
 

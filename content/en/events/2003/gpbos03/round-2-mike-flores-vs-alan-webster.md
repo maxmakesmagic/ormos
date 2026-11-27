@@ -85,7 +85,9 @@ render_recovery:
   - Frenetic Raptor
   occurrences: 44
 ---
-![](https://www.wizards.com/sideboard/images/gpbos03/a987.jpg)Mike Flores is a showman first and a **Magic** player second. While he waited for his opponent, sometimes-writer and curmudgeon Alan Webster, his loud lamentations about the quality of his sealed deck drew a crowd of listeners. When Webster did finally show up, he insisted that he had the worse deck of the two. Flores would have none of it. The only solution was to fight for it.
+![](https://www.wizards.com/sideboard/images/gpbos03/a987.jpg)
+
+Mike Flores is a showman first and a **Magic** player second. While he waited for his opponent, sometimes-writer and curmudgeon Alan Webster, his loud lamentations about the quality of his sealed deck drew a crowd of listeners. When Webster did finally show up, he insisted that he had the worse deck of the two. Flores would have none of it. The only solution was to fight for it.
 
 *“You may not be impressed with my play here.”* – Mike Flores
 
@@ -95,13 +97,17 @@ Of course, he missed his next land drop and tried to bluff like his morph was a 
 
 *“You are AWFUL. I thought I was bad, you have a Pyknite theme deck.”* – Mike Flores
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a988.jpg)Webster took his barbs with a smile, threatening to bring out Supreme Inquisitor. Flores found another mountain and still couldn’t act, so he just waited while Webster played some more wizards. A fifth mountain hit the top of Flores’s deck, and Crested Craghorn tackled the Mangler. Information Dealer worked to get Webster to something that would affect the board. Flores obliged by playing nothing more than a morph.
+![](https://www.wizards.com/sideboard/images/gpbos03/a988.jpg)
+
+Webster took his barbs with a smile, threatening to bring out Supreme Inquisitor. Flores found another mountain and still couldn’t act, so he just waited while Webster played some more wizards. A fifth mountain hit the top of Flores’s deck, and Crested Craghorn tackled the Mangler. Information Dealer worked to get Webster to something that would affect the board. Flores obliged by playing nothing more than a morph.
 
 Down came the Lavamancer’s Skill. Webster shot the recent morph, but it was just Battering Craghorn. Flores turned his remaining morph sideways, and then misinterpreted “No effects” as “No blocks”. He tapped his six and showed Rockshard Elemental, mercilessly cutting down the Merchant of Secrets Webster pushed in the way. Webster fired back with a morph that was Skirk Commando, finishing off the Elemental with his Skilled wizard. Flores decided it was time for game two.
 
 Webster 1 – Flores 0
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a986.jpg)Flores swapped to his “B” deck, taking out his black and blue cards for a more streamlined red-white build. He shut down Webster’s early plays of Riptide Mangler and Keeper of the Nine Gales with Chain of Plasma and Shock. His morph was momentarily stopped by Mistform Wall before being joined by a friend. Merchant of Secrets wasn’t really earning his keep.
+![](https://www.wizards.com/sideboard/images/gpbos03/a986.jpg)
+
+Flores swapped to his “B” deck, taking out his black and blue cards for a more streamlined red-white build. He shut down Webster’s early plays of Riptide Mangler and Keeper of the Nine Gales with Chain of Plasma and Shock. His morph was momentarily stopped by Mistform Wall before being joined by a friend. Merchant of Secrets wasn’t really earning his keep.
 
 Flores had Goblin Sledder, and when the Wall and Merchant teamed up to take down a morph he showed it to be Battering Craghorn. Imagecrafter let Tribal Golem hit the ground running, but Flores shut it down with a Crested Craghorn. Another gang block went the wrong way when Flores turned over Daru Sanctifier. 
 

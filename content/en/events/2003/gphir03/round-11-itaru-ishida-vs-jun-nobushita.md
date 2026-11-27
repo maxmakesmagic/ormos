@@ -413,7 +413,9 @@ render_recovery:
   - Reckless Abandon
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gphir03/a954.jpg)7-3 is not the place you want to start running into buddies. Nothing short of winning out is acceptable, and that means crushing some dreams. Such is the fate of Panzer Hunters Brain Trust Itaru Ishida and Clown Prince Jun Nobushita. The matchup does not favor the smaller Ishida, whose Goblins are exactly the sort of thing Nobushita's black-green Contamination Control is fit to destroy.
+![](http://www.wizards.com/sideboard/images/gphir03/a954.jpg)
+
+7-3 is not the place you want to start running into buddies. Nothing short of winning out is acceptable, and that means crushing some dreams. Such is the fate of Panzer Hunters Brain Trust Itaru Ishida and Clown Prince Jun Nobushita. The matchup does not favor the smaller Ishida, whose Goblins are exactly the sort of thing Nobushita's black-green Contamination Control is fit to destroy.
 
 ### Game 1
 
@@ -427,7 +429,9 @@ Nobushita 1 – Ishida 1
 
 Ishida mulliganed for the second game, and had no play on his first turn. He made a Sparksmith on his second turn. Nobushita meanwhile Vampiric Tutored to set himself up, then spared himself some damage with Diabolic Edict. Ishida had just a Raging Goblin and Mogg Flunkies.
 
-![](http://www.wizards.com/sideboard/images/gphir03/a955.jpg)Nobushita went for the throat. On his third turn he Entombed Phantom Nishoba and then Reanimated it. Ishida just laughed. He untapped and dropped Threaten on the table. Nobshita blinked and looked at his life total. Double-checking the amount of incoming damage, he picked up his cards.
+![](http://www.wizards.com/sideboard/images/gphir03/a955.jpg)
+
+Nobushita went for the throat. On his third turn he Entombed Phantom Nishoba and then Reanimated it. Ishida just laughed. He untapped and dropped Threaten on the table. Nobshita blinked and looked at his life total. Double-checking the amount of incoming damage, he picked up his cards.
 
 ### Game 3
 

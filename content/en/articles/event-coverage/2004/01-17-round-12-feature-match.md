@@ -44,7 +44,9 @@ archive_source:
   sha256: db123efcc37e41c687dc78c0696046a566fdfd375ecc84db056d3c61b5622c38
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm22_1.jpg)Both of these players are on the bubble for Top 8- one more loss, and they don't play tomorrow. To say that Walls isn't confident would be a bit of an understatement.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm22_1.jpg)
+
+Both of these players are on the bubble for Top 8- one more loss, and they don't play tomorrow. To say that Walls isn't confident would be a bit of an understatement.
 
 Walls- "He's got three [Spikeshot Goblin](https://web.archive.org/web/20040117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin)s and I've got three [Molten Rain](https://web.archive.org/web/20040117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Molten+Rain)s, so it's evenly matched."
 

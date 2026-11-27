@@ -91,7 +91,9 @@ render_recovery:
   - Karona's Zealot
   occurrences: 53
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a939.jpg)Gary Wise is eager to put away Francis Cormier. He's been running well so far, but after dropping his first match today, he'd like to do some wining. Wise will also tell anyone who'll listen that people will think he's crazy for putting Dawning Purist in the main and Wing Shards in the board. He's right. His opponent is Francis Cormier, a strong Quebec player, though not nearly so known as Gary "Mouth of the North" Wise.
+![](http://www.wizards.com/sideboard/images/natcan03/a939.jpg)
+
+Gary Wise is eager to put away Francis Cormier. He's been running well so far, but after dropping his first match today, he'd like to do some wining. Wise will also tell anyone who'll listen that people will think he's crazy for putting Dawning Purist in the main and Wing Shards in the board. He's right. His opponent is Francis Cormier, a strong Quebec player, though not nearly so known as Gary "Mouth of the North" Wise.
 
 ### Game 1
 
@@ -99,7 +101,9 @@ Cormier mulled to start things off, then led with a face-up Skirk Marauder. That
 
 Now Wise started his offense with Keeneye Aven. Cormier shrugged and played a Rock Jockey. Wise hit for two and added Glory Seeker. Cormier played his fourth land, swung for three, and was done. Wise hit back for four and likewise made no play. Cormier tried Solar Blast, but Wise capitalized with Oblation, holding Dragon Scales and Mistform Skyreaver. All Cormier could do was make a Goblin Brigand, still stuck on four lands.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a941.jpg)Wise untapped and dropped the Skyreaver. Cormier just shook his head. He cycled Spark Spray at end of turn, then untapped, drew and looked for an answer to the Bus. He had none. He played Crested Craghorn and swung with all his guys, provoking the Skyreaver. Wise traded his Seeker for the Brigand and took three, falling to eleven. He swung back for six in the air, then tapped out for a morph, Dragon Scales on the morph and a face-up Wingbeat Warrior. Cormier had a Crown of Suspicion for the Warrior, but it didn't matter.
+![](http://www.wizards.com/sideboard/images/natcan03/a941.jpg)
+
+Wise untapped and dropped the Skyreaver. Cormier just shook his head. He cycled Spark Spray at end of turn, then untapped, drew and looked for an answer to the Bus. He had none. He played Crested Craghorn and swung with all his guys, provoking the Skyreaver. Wise traded his Seeker for the Brigand and took three, falling to eleven. He swung back for six in the air, then tapped out for a morph, Dragon Scales on the morph and a face-up Wingbeat Warrior. Cormier had a Crown of Suspicion for the Warrior, but it didn't matter.
 
 Wise 1 – Cormier 0
 
@@ -127,7 +131,9 @@ Wise 1 – Cormier 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/natcan03/a942.jpg)Wise led with Deftblade Elite that was quickly dispatched by Cormier's Crown of Suspicion. They matched morphs and Wise took to the air with Keeneye Aven. Cormier made a Smokespew Invoker and passed it back. Wise sighed before dropping Dragon Scales on his Keeneye and hitting for three. His land play was Lonely Sandbar, and he ended his turn.
+![](http://www.wizards.com/sideboard/images/natcan03/a942.jpg)
+
+Wise led with Deftblade Elite that was quickly dispatched by Cormier's Crown of Suspicion. They matched morphs and Wise took to the air with Keeneye Aven. Cormier made a Smokespew Invoker and passed it back. Wise sighed before dropping Dragon Scales on his Keeneye and hitting for three. His land play was Lonely Sandbar, and he ended his turn.
 
 Cormier's morph apparently wasn't Skinthinner, as he chose to play Festering Goblin and pass it back. Wise hit for another three and made a Mistform Dreamer. Cormier thought and thought at end of turn, then showed Spark Spray to get rid of it. He untapped, played his sixth land, and played Twisted Abomination.
 

@@ -103,7 +103,9 @@ Designed new, punch-friendly election cards for the Florida voting council.
 
 ### January 1997
 
-![How wude!](https://i.ormos.uk/d3/ef/d3ef5e4ccebfe23f6f050f53c97328a36677652cacb84a9cbc004629f38b16ea.jpg)After many years of argument, I finally convinced George Lucas that *Star Wars* was, at its heart, a kids' film, and that the next series of films really needed some comedic relief in the form of a flailing idiot. 
+![How wude!](https://i.ormos.uk/d3/ef/d3ef5e4ccebfe23f6f050f53c97328a36677652cacb84a9cbc004629f38b16ea.jpg)
+
+After many years of argument, I finally convinced George Lucas that *Star Wars* was, at its heart, a kids' film, and that the next series of films really needed some comedic relief in the form of a flailing idiot. 
 
 Sadly, could not convince him to cast Pauly Shore. 
 
@@ -133,7 +135,9 @@ Are they kind? Brave? Bold? Loving? All those things are forged in the fires of 
 
 So when he discovered that he had this longing for these fun games, he wanted to share it. And why not? Games are best when played with friends! And it came as a shock to discover that the "normal" world thought of his hobbies as something to be shunned. He went to share something he thought was pretty darned neat with strangers, and... it wasn't. To them, it was just *stupid*. 
 
-[![Ostracize](https://i.ormos.uk/e1/d8/e1d8fb7a95db7875c68c972cbb9b9b2b38ad7071dd23e92b80e19c5efa2ea76d.jpg)](https://web.archive.org/web/20080527000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ostracize)Yet they were absolutely *correct* to spend their days mocking him! Think of the arrogance it took for him to want to play D&D! There Ferrett was, in a world filled with cool, socially acceptable things like basketball and football and the hit songs playing endlessly on the radio and the latest cool trend in sneakers—things that *normal* people liked. 
+[![Ostracize](https://i.ormos.uk/e1/d8/e1d8fb7a95db7875c68c972cbb9b9b2b38ad7071dd23e92b80e19c5efa2ea76d.jpg)](https://web.archive.org/web/20080527000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ostracize)
+
+Yet they were absolutely *correct* to spend their days mocking him! Think of the arrogance it took for him to want to play D&D! There Ferrett was, in a world filled with cool, socially acceptable things like basketball and football and the hit songs playing endlessly on the radio and the latest cool trend in sneakers—things that *normal* people liked. 
 
 And here *he* was, reading crazy "science fiction" books that nobody had heard of! He was exploring games that nobody sane wanted to know about! Worse, he hung out with other dweebs and geeks and math slobs!
 
@@ -149,7 +153,9 @@ It was a *good* place for him to be. The whole point of society is that you *con
 
 He didn't stop playing, of course, that silly little addict. He kept at it. But he never brought it up at work because he didn't want his co-workers to think he was weird. And only if you knew him very well, after a long period where he vetted you and thought you *might* be okay, would he haul out this little secret. This tiny core of nerdiness. 
 
-[![Boggart_Shenanigans](https://i.ormos.uk/a9/f2/a9f2f83e347149adbad716967967df9f91987560847093451fa6f51a16330219.jpg)](https://web.archive.org/web/20080527000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Boggart%2BShenanigans)He cradled his loves like a baby bird in a nest, hidden far away where no predators would see. 
+[![Boggart_Shenanigans](https://i.ormos.uk/a9/f2/a9f2f83e347149adbad716967967df9f91987560847093451fa6f51a16330219.jpg)](https://web.archive.org/web/20080527000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Boggart%2BShenanigans)
+
+He cradled his loves like a baby bird in a nest, hidden far away where no predators would see. 
 
 That was good. If you have silly little affections for things like **Magic** or science fiction or anime, you *should* hide them. You're not normal. And normal is what you should strive for, you know? 
 
@@ -175,7 +181,9 @@ I sipped my cappuccino with disdain. "That's not true."
 
 I lost him that day. He never listened to me again. 
 
-![How wood!](https://i.ormos.uk/e4/ae/e4aeef717db31005451a53ffb20ce8214ac5a19354e8347512d21d13876884dd.jpg)Oh, he's not *entirely* crazy. He's socially adept enough to realize that not everyone wants to hear about his D&D campaign, and so he won't blather on for hours about how cool his characters are. (Or that he has a Matt Cavotta painting of his wife's character in his office, and an original DiTerlizzi *Planescape* painting hanging in his living room.) And he doesn't walk around being aggressively abnormal, flashing his dark trenchcoats and dyed hair like an angered Goth bull. 
+![How wood!](https://i.ormos.uk/e4/ae/e4aeef717db31005451a53ffb20ce8214ac5a19354e8347512d21d13876884dd.jpg)
+
+Oh, he's not *entirely* crazy. He's socially adept enough to realize that not everyone wants to hear about his D&D campaign, and so he won't blather on for hours about how cool his characters are. (Or that he has a Matt Cavotta painting of his wife's character in his office, and an original DiTerlizzi *Planescape* painting hanging in his living room.) And he doesn't walk around being aggressively abnormal, flashing his dark trenchcoats and dyed hair like an angered Goth bull. 
 
 But if you walk into his house, you'll find a shelf on the wall right in the dining room—out in the open!—where there are eighteen **Magic** decks and a pile of cards, right out in the open where anyone can see them! 
 

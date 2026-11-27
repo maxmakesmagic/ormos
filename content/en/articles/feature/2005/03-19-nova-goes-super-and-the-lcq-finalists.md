@@ -78,7 +78,9 @@ render_recovery:
 ---
 Send your rules questions to **Magic** Rules Manager John Carter. Can't find the answer to your question somewhere else, like the [**Magic** Comprehensive Rules](https://web.archive.org/web/20050319000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/rules/tourneyplayer)? Maybe he's already answered it! Try the [Saturday School Searchable Rules Database](https://web.archive.org/web/20050319000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/satschoolarchive).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptatl05/top4_nova.jpg)Pro Tour Atlanta was a blast. The whole shebang was won by Nova, and the finalists were a team that qualified the night before the tournament at the Last Chance Qualifier. That's $60,000 and payback for a few PT bridesmaids, and $30,000 for a bunch of guys that just wanted to have fun getting together for a weekend of **Magic**.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptatl05/top4_nova.jpg)
+
+Pro Tour Atlanta was a blast. The whole shebang was won by Nova, and the finalists were a team that qualified the night before the tournament at the Last Chance Qualifier. That's $60,000 and payback for a few PT bridesmaids, and $30,000 for a bunch of guys that just wanted to have fun getting together for a weekend of **Magic**.
 
 Here's a sampling of what was on the pros' minds for PT Atlanta:
 

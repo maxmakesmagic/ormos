@@ -55,7 +55,9 @@ render_recovery: []
 **B:Kai Budde vs Krzywicki**  
 **Game 1**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a844.jpg)　黒対決。先手の Kai は《萎縮した卑劣漢/[Withered Wretch](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Withered+Wretch)》からの好調な滑り出し。手札には《ゾンビの殺し屋/[Zombie Cutthroat](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zombie+Cutthroat)》《墓生まれの詩神/[Graveborn Muse](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Graveborn+Muse)》《死体の収穫者/[Corpse Harvester](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Corpse+Harvester)》が待機する万全の構え。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a844.jpg)
+
+　黒対決。先手の Kai は《萎縮した卑劣漢/[Withered Wretch](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Withered+Wretch)》からの好調な滑り出し。手札には《ゾンビの殺し屋/[Zombie Cutthroat](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zombie+Cutthroat)》《墓生まれの詩神/[Graveborn Muse](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Graveborn+Muse)》《死体の収穫者/[Corpse Harvester](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Corpse+Harvester)》が待機する万全の構え。
 
 　しかし、それも４マナ以上が揃えばの話。しばしの間互いの土地は三枚で止まり、変異と変異がぶつかりあっては墓地を肥やしていく。
 

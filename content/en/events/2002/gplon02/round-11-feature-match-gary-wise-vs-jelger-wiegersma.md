@@ -70,7 +70,9 @@ render_recovery:
   - Faceless Butcher
   occurrences: 30
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/923.jpg)Both of these names are familiar to both the Grand Prix and Pro Tour circuit. Formerly of Canada Gary Wise now lives at Hampton Court Palace and is part of the top English testing team that includes Ben Ronaldson and John Ormerod. Recently he's been tearing up day two's and day three's with perfect records. He's playing the mono-black control deck, a deck that has given him a lot of consistent high finishes recently. Jelger Wiegersma is also playing mono-black. The Dutch pro had a fantastic last year with multiple Pro Tour and Grand Prix top 8's.
+![](https://www.wizards.com/sideboard/images/gplon02/923.jpg)
+
+Both of these names are familiar to both the Grand Prix and Pro Tour circuit. Formerly of Canada Gary Wise now lives at Hampton Court Palace and is part of the top English testing team that includes Ben Ronaldson and John Ormerod. Recently he's been tearing up day two's and day three's with perfect records. He's playing the mono-black control deck, a deck that has given him a lot of consistent high finishes recently. Jelger Wiegersma is also playing mono-black. The Dutch pro had a fantastic last year with multiple Pro Tour and Grand Prix top 8's.
 
 Gary won the coin flip and elected to go first.
 
@@ -82,7 +84,9 @@ Both players had no cards but Gary had a Nantuko Shade. It knocked Jelger down t
 
 Wise 1-0 Wiegersma
 
-![](https://www.wizards.com/sideboard/images/gplon02/924.jpg)Jelger went first and chose to Scry for zero at the end of the first turn. He had another Scrying in hand and wanted to cast Rancid Earth and then Scry for two. Gary interrupted this plan by taking the Rancid Earth with a Mesmeric Fiend. Jelger then got out Braids to start attacking Gary's mana base, forcing the Englishman to scry for zero then one. He found an edict and cleared Braids out of the way so he could start nibbling with his two Mesmeric Fiends.
+![](https://www.wizards.com/sideboard/images/gplon02/924.jpg)
+
+Jelger went first and chose to Scry for zero at the end of the first turn. He had another Scrying in hand and wanted to cast Rancid Earth and then Scry for two. Gary interrupted this plan by taking the Rancid Earth with a Mesmeric Fiend. Jelger then got out Braids to start attacking Gary's mana base, forcing the Englishman to scry for zero then one. He found an edict and cleared Braids out of the way so he could start nibbling with his two Mesmeric Fiends.
 
 Jelger gained a few cards off a Scrying for three. An Edict got his Rancid Earth back and the Dutchman demolished Gary's mana base with two Rancid Earth's in succession to leave the Englishmen with only two swamps.
 
@@ -96,7 +100,9 @@ Gary Wise - "You know I don't lose game threes with this deck."
 
 Jelger Wiegersma - "I haven't lost much either."
 
-![](https://www.wizards.com/sideboard/images/gplon02/925.jpg)A turn two Mesmeric Fiend from Gary revealed Jelger had taken a risk on a very strong hand with double Braids, but only one swamp and two coffers. The Fiend took an Innocent Blood and then Gary had a tough call to make with a tutor on his fourth turn. He chose Faceless Butcher. Jelger had found a second swamp and made Infestation. The simple play of going for Braids to damage Jelger's indifferent mana base wasn't possible, especially if Jelger drew a swamp and made his own Braids did.
+![](https://www.wizards.com/sideboard/images/gplon02/925.jpg)
+
+A turn two Mesmeric Fiend from Gary revealed Jelger had taken a risk on a very strong hand with double Braids, but only one swamp and two coffers. The Fiend took an Innocent Blood and then Gary had a tough call to make with a tutor on his fourth turn. He chose Faceless Butcher. Jelger had found a second swamp and made Infestation. The simple play of going for Braids to damage Jelger's indifferent mana base wasn't possible, especially if Jelger drew a swamp and made his own Braids did.
 
 This he did, but Gary was able to let his Fiend go and then Sludge away Jelger's entire hand. This wasn't as catastrophic as Jelger could pitch his hand to the Infestation to make two zombies.
 

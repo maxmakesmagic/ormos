@@ -44,7 +44,9 @@ archive_source:
   sha256: 820d89c7cb39b4c8c94f1ec5431b94cdb15b5183c7349badace1abfbe59df795
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a829.jpg)This is the halfway point of the tournament, with these two competitors both battling their ways to 3-1 records. Zach hails from Alaska, while Harrison is a regular at Neutral Ground New York. Zach is running the popular Blue-Green madness deck, while Harrison chose to play with Trenches.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a829.jpg)
+
+This is the halfway point of the tournament, with these two competitors both battling their ways to 3-1 records. Zach hails from Alaska, while Harrison is a regular at Neutral Ground New York. Zach is running the popular Blue-Green madness deck, while Harrison chose to play with Trenches.
 
 Zach won the roll and started the ball rolling with one of the few plays you routinely see both in Limited and Constructed: the ever-mighty turn 2 Mongrel. His third turn he played Careful Study and forgot to play a land, which he realized during Harrison's turn. Harrison was content to make his land drops until turn 6, when he played out a Trenches. Zach had flashed back a Call of the Herd (it was discarded) and gotten some creatures ![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a830.jpg)Repulse'd in this time, including the vulnerable-to-bounce token. Zach swung with a Mongrel into potential Goblin-Soldiers, and sure enough there were some to block. Zach was ready with some Madness to save his Mongrel, in the form of Arrogant Wurm. Harrison was wise enough to leave enough mana to counter it though, and his tokens left play. The same thing happened the following turn, including the Arrogant Wurm and Counterspell parts, but this time a small counter war was fought and lost over the Wurm (it did not resolve). The Mongrel was Repulsed and then Prophetic Bolted when replayed, and Zach never drew more threats, dying to a swarm of 1/1 tokens.
 

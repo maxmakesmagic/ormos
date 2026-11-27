@@ -70,13 +70,19 @@ Joining the discussion were:
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_martell.jpg) Pro Tour *Gatecrash* Champion **Tom Martell** of Team CFB:(tbd), which includes its own share of Hall of Famers, such as Jon Finkel, Kai Budde, Patrick Chapin, Zvi Mowshowitz, Gabriel Nassif, and William Jensen, alongside the likes of Sam Black, Matt Costa, Andrew Cuneo, Reid Duke, Rich Hoaen, Brad Nelson, Paul Rietzl, Owen Turtenwald, and Gaudenis Vidugiris.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_detora.jpg)Pro Tour *Gatecrash* Top 8 competitor **Melissa DeTora** of Team Revolution, which includes Pro Tour Hall of Famer Raphaël Lévy with the most-recent PT Champion Jérémy Dezani, along with Pierre Dagen, Guillaume Wafo-Tapa, Roberto Gonzales, Kevin Chiche, Vidianto Wijaya, Rob Castellon, Samuele Estratti, Yann Guthmann, Timothee Simonot, Alexandre Aurejac, Olivier Lévy, Alexandre Bonneau, Guillaume Peret, Alexis Gallais, Mark Jacobson, Eliott Boussaud, Justin Robb, and Damian Mole.
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_detora.jpg)
+
+Pro Tour *Gatecrash* Top 8 competitor **Melissa DeTora** of Team Revolution, which includes Pro Tour Hall of Famer Raphaël Lévy with the most-recent PT Champion Jérémy Dezani, along with Pierre Dagen, Guillaume Wafo-Tapa, Roberto Gonzales, Kevin Chiche, Vidianto Wijaya, Rob Castellon, Samuele Estratti, Yann Guthmann, Timothee Simonot, Alexandre Aurejac, Olivier Lévy, Alexandre Bonneau, Guillaume Peret, Alexis Gallais, Mark Jacobson, Eliott Boussaud, Justin Robb, and Damian Mole.
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_hayne.jpg) Pro Tour *Avacyn Restored* Champion **Alexander Hayne** of Team [FacetoFaceGames](http://www.facetofacegames.com/), which is made up of Alex Majlaton, Jon Stern, Josh McClain, Steven Wolfman, Ben Moir, Glenn McIelwain, Lucas Siow, Dave Shiels, Todd Anderson, Brian Braun-Duin, Jacob Wilson, and Sam Pardee.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_zatlkaj.jpg)Pro Tour *Dragon's Maze* Top 8 competitor **Matej Zatlkaj** discussed working with Team Elaborate Ruse, which includes Hall of Famer Olle Råde, along with Simon Goertzen, Stanislav Cifka, Ivan Floch, Lukas Jaklovsky, Willy Edel, Juliano Gennari, Joel Larsson, Elias Watsfeldt, Denniz Rachid, and Ludde Londos.
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_zatlkaj.jpg)
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_sim.jpg)Grand Prix Singapore finalist and APAC coverage reporter **Chapman Sim** of Team [MTGMintCard](http://www.mtgmintcard.com/) is working with the likes of Kelvin Chew, Tzu Ching Kuo, Lee Shi Tian, Ken Yukuhiro, Zhang Meng Qiu, Jeffrey Chan, and Wong Weiquan. The team also sponsors Shouta Yasooka, who is working alone, and works with Jun'ya Iyanaga, who is not attending.
+Pro Tour *Dragon's Maze* Top 8 competitor **Matej Zatlkaj** discussed working with Team Elaborate Ruse, which includes Hall of Famer Olle Råde, along with Simon Goertzen, Stanislav Cifka, Ivan Floch, Lukas Jaklovsky, Willy Edel, Juliano Gennari, Joel Larsson, Elias Watsfeldt, Denniz Rachid, and Ludde Londos.
+
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_sim.jpg)
+
+Grand Prix Singapore finalist and APAC coverage reporter **Chapman Sim** of Team [MTGMintCard](http://www.mtgmintcard.com/) is working with the likes of Kelvin Chew, Tzu Ching Kuo, Lee Shi Tian, Ken Yukuhiro, Zhang Meng Qiu, Jeffrey Chan, and Wong Weiquan. The team also sponsors Shouta Yasooka, who is working alone, and works with Jun'ya Iyanaga, who is not attending.
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk05_285_mtgmintcard.jpg)
 
@@ -96,7 +102,9 @@ Some of the team is going to Grand Prix Paris, but I'm not among them. I do like
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_sim.jpg)**Sim:** All of us will arrive in Valencia on Monday, with Kuo Tzu-Ching, Wong Wei Quan, Li Bo, and myself rushing over from Grand Prix Paris. For this event, I had made arrangements for everyone to stay in a 180-meter square, four-bedroom apartment in the heart of Valencia, a stone's throw away from the Central Train Station and the magnificent Valencia Cathedral. Surrounded by restaurants, shops, and excellent transportation, we will have more time to focus on our preparation and still go out for some grocery shopping and have decent meals in between. It is no time for a vacation, though, and we all understand it will be a rather intense week.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What is the division of labor like on your team? Do you have someone who is a Limited specialist? Modern master? Analytics expert?**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What is the division of labor like on your team? Do you have someone who is a Limited specialist? Modern master? Analytics expert?**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_martell.jpg)**Martell:** We haven't formally split up tasks like this in the past but people gravitate toward their strengths. Sam spends a lot of time brewing offbeat decks, Patrick and Cuneo brew control lists, Rietzl builds a Boros deck, the Oath Brothers teach the rest of us how to draft, Kai cooks us dinner, and Jon sits in the corner goldfishing Storm all day.
 
@@ -112,7 +120,9 @@ Some of the team is going to Grand Prix Paris, but I'm not among them. I do like
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_hayne.jpg)**Hayne:** This is a bit of a hard question to answer, considering much of our team is new. Generally, we haven't really had anyone as specifically a Limited expert (is anyone besides Ben Stark?), but we do have many experts in various archetypes for Modern. In terms of having the best lists for the major archetypes, I expect us to be in good shape.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: How much attention were you paying to Modern before the B&R changes? Were you able to do work in advance of that or did you just have to put Modern on hold?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: How much attention were you paying to Modern before the B&R changes? Were you able to do work in advance of that or did you just have to put Modern on hold?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_hayne.jpg)**Hayne:** Jon and I definitely explored the format and worked on the foundation of existing decks. I know many other members did some pre-ban testing as well, mainly learning the format as a whole or testing decks and cards unlikely to be affected by bannings. Most work had to be put on hold, and now that the bannings have been announced we have all commenced brewing.
 
@@ -124,7 +134,9 @@ Some of the team is going to Grand Prix Paris, but I'm not among them. I do like
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_martell.jpg)**Martell:** We were paying a lot of attention as *Born of the Gods* doesn't look to really shake up the format, so the B&R list would have a much larger impact. We definitely got started earlier working with preexisting decks and stock lists as our assumptions were there wouldn't be a lot of bannings and knowing which decks are inherently good is still useful.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: How much of a monkey wrench do these changes represent?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: How much of a monkey wrench do these changes represent?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_martell.jpg)**Martell:** These changes are great—the format felt a little stale and we were hoping for the environment to get shaken up. Big changes benefit the larger, stronger teams as it invalidates some of the old tournament results that other groups might rely on for outsourcing their testing.
 
@@ -136,7 +148,9 @@ Some of the team is going to Grand Prix Paris, but I'm not among them. I do like
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_sim.jpg)**Sim:** It's been only a couple of days and we have yet to come to a conclusion. We are busy putting various Zoo and Faerie decks together, brewing new decks, and modifying old ones as we speak. We're sure that the format has changed, but only time will tell how much it has. I dare not speak for my team, but I personally believe that the format has been shaken up a fair bit and Modern won't be quite the same as before.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Any breakout players we should keep an eye out for on your team this time out?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Any breakout players we should keep an eye out for on your team this time out?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_zatlkaj.jpg)**Zatlkaj:** I'm confident that all players on our team have the potential to Top 8 the Pro Tour, but I will definitely single out Elias Watsfeldt as the youngest member who has bags of talent that I hope he can show on the big stage!
 
@@ -150,7 +164,9 @@ Some of the team is going to Grand Prix Paris, but I'm not among them. I do like
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_martell.jpg)**Martell:** Every player on our roster has the talent to win a PT and we have a lot of guys who are playing at or near their all-time best right now, so I wouldn't be surprised if we put three in the Top 8. In terms of a "breakout," Huey has been tearing up the GPs but hasn't crushed a PT since his return and Reid is probably the best player in the world without a PT Top 8.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: How difficult do you think it is to compete on the Pro Tour without a team supporting you? How much has that changed over the recent history of the game?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: How difficult do you think it is to compete on the Pro Tour without a team supporting you? How much has that changed over the recent history of the game?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_roundtablepic_lsv.jpg)**LSV:** From experience, I can say that it is very difficult. I didn't have a big team (or a team at all) for my first bunch of Pro Tours, and my Constructed results suffered because of that. It's probably tougher now, with less lead time from new sets to the Pro Tour, and because there are more large teams than there used to be. The good news is that Twitter and other social networking tools can help you make more connections than before. I got to know people by going to Pro Tours, losing, and doing side drafts, but that's not the easiest path. I'm not saying it's trivial to find a team, but there are more resources to do so than there were previously.
 

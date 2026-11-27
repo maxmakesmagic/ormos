@@ -213,7 +213,9 @@ Ah, burn. A deck practically everyone has sat across from at some point, and tha
 
 I'm here to dispel that myth. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/rc/rc217_finkel.jpg)Let me start with a brief story. Most of you know of Jon Finkel, the player many have called the best to ever play the game. I don't think anyone is willing to say that Finkel is a newbie or simpleton. Well, in 2008 Jon Finkel picked up a burn deck to play in a tournament. Or, to be more precise, to play in the World Championship.
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/rc/rc217_finkel.jpg)
+
+Let me start with a brief story. Most of you know of Jon Finkel, the player many have called the best to ever play the game. I don't think anyone is willing to say that Finkel is a newbie or simpleton. Well, in 2008 Jon Finkel picked up a burn deck to play in a tournament. Or, to be more precise, to play in the World Championship.
 
   
 

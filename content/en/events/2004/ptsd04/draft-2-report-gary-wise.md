@@ -407,7 +407,9 @@ render_recovery:
 ---
 * * *
 
-![Gary Wise](http://wizards.com/sideboard/images/ptsd04/dr3_1.jpg)Gary Wise sighed as he looked at the cards laid out in front of him that he would use to build his deck, "I know I did something wrong in that draft. That is the problem with not playing as much. In the past I would make mistakes but I would see them. Now I have no idea what went wrong. I guess it was my first pick--maybe I should have taken Looming Hoverguard."
+![Gary Wise](http://wizards.com/sideboard/images/ptsd04/dr3_1.jpg)
+
+Gary Wise sighed as he looked at the cards laid out in front of him that he would use to build his deck, "I know I did something wrong in that draft. That is the problem with not playing as much. In the past I would make mistakes but I would see them. Now I have no idea what went wrong. I guess it was my first pick--maybe I should have taken Looming Hoverguard."
 
 Gary has reached a point in his life where he does not feel he can dedicate as much time, money, and energy into Magic as he has in the past and is ready to move on to another chapter of his life. He is putting the professional Magic career behind him and preparing to move on to other pursuits--could a book be in Gary's future? He will continue to play as long as he is qualified--likely through Worlds this year--and collect whatever end of the year payout he may have earned along the way. In the meantime he is going to hope to string together a couple of strong finishes to cap his career and say his farewells to the community that he has embraced for the past ten years of his life.
 

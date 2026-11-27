@@ -693,7 +693,9 @@ render_recovery:
   - Viridian Acolyte
   occurrences: 1
 ---
-![Ben peers down at his deck with the Eye of the Tiger](http://www.wizards.com/sideboard/images/gpoak04/stark1.jpg)Ben Stark has not lost a match on Day One of a Grand Prix since *Mirrodin* was released. Without so much as seeing the cards since the Prerelease, prior to arriving at Grand Prix: Kansas City, he rolled off eight straight wins on Day One. He went on to parlay that performance into a Top 8 finish. He proved himself equally adept at Constructed when he mirrored his Kansas City feat with a 7-0 run on Day One and another Top 8. Granted he had three byes each time but that should take nothing away from the young man who is coming to be regarded as one of the elite American players.
+![Ben peers down at his deck with the Eye of the Tiger](http://www.wizards.com/sideboard/images/gpoak04/stark1.jpg)
+
+Ben Stark has not lost a match on Day One of a Grand Prix since *Mirrodin* was released. Without so much as seeing the cards since the Prerelease, prior to arriving at Grand Prix: Kansas City, he rolled off eight straight wins on Day One. He went on to parlay that performance into a Top 8 finish. He proved himself equally adept at Constructed when he mirrored his Kansas City feat with a 7-0 run on Day One and another Top 8. Granted he had three byes each time but that should take nothing away from the young man who is coming to be regarded as one of the elite American players.
 
 Ben sat down in the Feature Match area to construct the deck he would be wielding this weekend. Once again he had three byes and would not have to face live competition until the fourth round. He had not seen any Darksteel cards until last night and was relying on friends to help him understand how to value the cards. "I actually went to the *Mirrodin* Prerelease but no Darksteel. People told me what is good though."
 

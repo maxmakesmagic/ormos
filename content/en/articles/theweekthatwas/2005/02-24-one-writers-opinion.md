@@ -79,7 +79,9 @@ render_recovery: []
 ---
 This week is something of a two-fer in the Invitational category. After Osyp’s landslide victory in the North American balloting, the caucusing moves across the International Date Line for the APAC ballot. This ballot is heavily Japan-centric as players from that country have been experiencing success at every level of the game. 
 
-[![](https://i.ormos.uk/03/1e/031e234f8bdb8efdc4fbf3cc6dd82de1475935a3444a753bc871cc05c6d73058.jpg)](https://web.archive.org/web/20050224000000/https://magic.wizards.com/en/node/579501)If you look [here](https://web.archive.org/web/20050224000000/https://magic.wizards.com/en/node/579501), you can find this week’s ballot, so go ahead and pull back the curtain and vote anonymously. That luxury of anonymity is one I don’t enjoy this week as I also kick off the Writers' Ballot with my five votes from the following pool of players. 
+[![](https://i.ormos.uk/03/1e/031e234f8bdb8efdc4fbf3cc6dd82de1475935a3444a753bc871cc05c6d73058.jpg)](https://web.archive.org/web/20050224000000/https://magic.wizards.com/en/node/579501)
+
+If you look [here](https://web.archive.org/web/20050224000000/https://magic.wizards.com/en/node/579501), you can find this week’s ballot, so go ahead and pull back the curtain and vote anonymously. That luxury of anonymity is one I don’t enjoy this week as I also kick off the Writers' Ballot with my five votes from the following pool of players. 
 
 *   Osyp Lebedowicz
 *   Brian Kibler

@@ -75,7 +75,9 @@ render_recovery:
   - Envelop
   occurrences: 36
 ---
-![](http://www.wizards.com/sideboard/images/gpham02/898.jpg)Both Uli Hoenle and Lars Birch have competed on the Pro Tour although not to great success yet. German Hoenle scraped into day two by the slightest of margins. He finished 65th only for someone to drop out. Birch from Denmark also had tough start. He had one bye and after round three was 1-1-1.
+![](http://www.wizards.com/sideboard/images/gpham02/898.jpg)
+
+Both Uli Hoenle and Lars Birch have competed on the Pro Tour although not to great success yet. German Hoenle scraped into day two by the slightest of margins. He finished 65th only for someone to drop out. Birch from Denmark also had tough start. He had one bye and after round three was 1-1-1.
 
 Hoenle is playing blue-black Upheaval while Birch is running a Wake deck.
 
@@ -87,7 +89,9 @@ Hoenle’s first Tog vanished to Syncopate but a second stayed on the table. The
 
 Hoenle 1-0 Birch
 
-![](http://www.wizards.com/sideboard/images/gpham02/899.jpg)Game 2 saw another steady build up. Hoenle dropped an early Standstill but Birch didn’t feel the need to crack it as he used two Krosan Verges to ramp up his mana and then dropped a Nantuko Monastery. In his end step Birch started to hold back cards to discard to head towards threshold to get the monastery online.
+![](http://www.wizards.com/sideboard/images/gpham02/899.jpg)
+
+Game 2 saw another steady build up. Hoenle dropped an early Standstill but Birch didn’t feel the need to crack it as he used two Krosan Verges to ramp up his mana and then dropped a Nantuko Monastery. In his end step Birch started to hold back cards to discard to head towards threshold to get the monastery online.
 
 Seeing this Hoenle had to break his own Standstill. He went for Mirari, which Birch Syncopated. There was short Syncopate war over a Cunning Wish from Hoenle. Hoenle won and fetched a Skeletal Scrying from the board. This tapped him out and allowed Birch to drop a Mirari's Wake and have access to a ridiculous amount of mana. A second followed and then Mirari itself. With Compulsion on the table Birch was in a very strong position and kept knocking chunks out of Hoenle’s life total with the Monastery.
 
@@ -97,7 +101,9 @@ Birch - “Having uncounterable beatsticks is a good thing.”
 
 Hoenle 1-1 Birch
 
-![](http://www.wizards.com/sideboard/images/gpham02/900.jpg)Birch attempted turn two Compulsion only for Hoenle to Syncopate it. This time Standstill was much better for Hoenle as he got a Tog on the table. Birch broke it immediately to successfully resolve another Compulsion. 
+![](http://www.wizards.com/sideboard/images/gpham02/900.jpg)
+
+Birch attempted turn two Compulsion only for Hoenle to Syncopate it. This time Standstill was much better for Hoenle as he got a Tog on the table. Birch broke it immediately to successfully resolve another Compulsion. 
 
 Then the game descended into a massive stall as Hoenle got a Tog and then Standstill on the table but couldn’t attack as Birch would hit him back for more with a Nantuko Monastery. Birch was happy to sit back and cycle cards off his Compulsion. Hoenle ended up discarding Infiltrator, Infiltrator and a second Tog to his own Tog to reamin below seven cards. Eventually the Standstill was broken and the tog returned to Hoenle’s hand.
 

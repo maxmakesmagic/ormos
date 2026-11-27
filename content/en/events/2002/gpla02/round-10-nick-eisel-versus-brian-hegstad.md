@@ -135,7 +135,9 @@ Two Magic Online superstars faced off in round 10. Nick Eisel AKA “ThatsGameBo
 
 ### Game 1:
 
-![](https://www.wizards.com/sideboard/images/gpla02/940.jpg)Eisel came out blazing with turn one Festering Goblin and turn two Wretched Anurid. Hegstad simply laid islands for his first three turns. Eisel cycled Forgotten Cave and attempted a Shephard of Rot, but was met by Hegstad’s cycled Complicate. 
+![](https://www.wizards.com/sideboard/images/gpla02/940.jpg)
+
+Eisel came out blazing with turn one Festering Goblin and turn two Wretched Anurid. Hegstad simply laid islands for his first three turns. Eisel cycled Forgotten Cave and attempted a Shephard of Rot, but was met by Hegstad’s cycled Complicate. 
 
 Brian laid his first creature on turn four after cycling Slipstream Eel, an Alphetto Alchemist. Eisel put Crown of Suspicion on his Anurid and swung with the 4/2 and the Festering Goblin, which traded with Alchemist. Hegstad’s turn five saw Screaming Seahawk, and searched for another. Eisel chose not to trade his lone creature. Hegstad then played Ascending Aven and a cycled Tethers stopped the Anurid, who had been doing quite a bit of damage to Eisel. Eisel’s 6th turn had a Murkdiver hitting the board. 
 

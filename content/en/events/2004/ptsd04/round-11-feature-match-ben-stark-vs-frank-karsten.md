@@ -503,7 +503,9 @@ render_recovery:
 ---
 * * *
 
-![Ben Stark](http://wizards.com/sideboard/images/ptsd04/fm21_1.jpg)USA's Ben Stark and the Netherlands' Frank Karsten are both looking good at 8-2. Stark made the Top 8 of the most recent Pro Tout (Kobe) with an affinity deck, so it is fitting that he sits down with a draft version of the same deck. His opponent, Frank Karsten, is one of the best Dutch players and has had great success in the team format.
+![Ben Stark](http://wizards.com/sideboard/images/ptsd04/fm21_1.jpg)
+
+USA's Ben Stark and the Netherlands' Frank Karsten are both looking good at 8-2. Stark made the Top 8 of the most recent Pro Tout (Kobe) with an affinity deck, so it is fitting that he sits down with a draft version of the same deck. His opponent, Frank Karsten, is one of the best Dutch players and has had great success in the team format.
 
 "Have a die?" asked Stark as they shuffled up. Karsten said that he did, and Stark commented that Karsten was "the first pro ever to bring a die. Usually little kids have them…"
 

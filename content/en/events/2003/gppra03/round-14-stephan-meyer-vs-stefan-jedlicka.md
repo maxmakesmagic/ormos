@@ -72,7 +72,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](https://i.ormos.uk/20/c0/20c07ed4788ff4af2119264c2bae808ce12906d6b4c4550239a4e2574069bd21.jpg)After a deck check, Stephan Meyer got a game loss because he forgot to de-sideboard a card from the last round.
+![](https://i.ormos.uk/20/c0/20c07ed4788ff4af2119264c2bae808ce12906d6b4c4550239a4e2574069bd21.jpg)
+
+After a deck check, Stephan Meyer got a game loss because he forgot to de-sideboard a card from the last round.
 
 Meyer-Jedlicka 0-1
 

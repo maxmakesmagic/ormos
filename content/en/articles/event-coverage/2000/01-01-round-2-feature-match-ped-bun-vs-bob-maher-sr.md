@@ -51,17 +51,23 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/112fm2maher.jpg)The Father of "Maher Oath," Ped Bun, took on the Father of Bob Maher Jr., Bob Maher Senior. Despite a tremendous reputation with the Magic community, this is the first time Mr. Maher has gotten a featured match, mostly because this was his in fact his first sanctioned match since the 1995 US Nationals where he finished in the 30's. Mr. Bun is no stranger to the featured match pit, and just recently got back on the tour.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/112fm2maher.jpg)
+
+The Father of "Maher Oath," Ped Bun, took on the Father of Bob Maher Jr., Bob Maher Senior. Despite a tremendous reputation with the Magic community, this is the first time Mr. Maher has gotten a featured match, mostly because this was his in fact his first sanctioned match since the 1995 US Nationals where he finished in the 30's. Mr. Bun is no stranger to the featured match pit, and just recently got back on the tour.
 
 Ped Bun is with "Life", the nearly infinite loop deck. Mr. Maher is with an old school mono red burn deck. While this match-up can often seem horribly lopsided, (due to red's focus on dealing 20-25 damage vs. Life's well.. Life") mono Red can steal a few here and there through sheer ferocity. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/111fm2bun.jpg)Ped Bun started off slowly in the first game, just getting an early Seal of Cleansing. Meanwhile Mr Maher brought it down hard, slamming him with Ball Lightning, Hammer of Borgardin, Incinerate, Price of Progress and a pair of Fireblasts to put Ped into the very, very, crispy category. Turn 5 and it was all over. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/111fm2bun.jpg)
+
+Ped Bun started off slowly in the first game, just getting an early Seal of Cleansing. Meanwhile Mr Maher brought it down hard, slamming him with Ball Lightning, Hammer of Borgardin, Incinerate, Price of Progress and a pair of Fireblasts to put Ped into the very, very, crispy category. Turn 5 and it was all over. 
 
 The crowd gathered between rounds, both men very well liked and respected within the community. Maher the Younger, Zvi Moshiwitz, Mikey P and Steve OMS gathered 'round to watch two old schoolers duke it out. 
 
 Again Mr. Maher had the first play of the game with a Jackal Pup, but Ped Bun came back strong with a Turn 2 Duress, Plow and Nomad En-Kor (powered by his turn 1 Remote Farm). Bob Maher largely ignored the creatures and went for the throat again. This time it cost him as Ped found an Angelic Protector to cover him. Shortly there after the Protectors toughness topped the 3 million mark and brought a raised eyebrow from Mr. Maher, who had never seen the combo before. "So... you have 3 million life, is it appropriate to concede now?" With a smile Ped Bun and Bob Maher Sr. shuffled up for game three. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/113fm2maher.jpg)Ped Bun kicked off the third game with a double mulligan, Bob Maher Sr. decided to compound his mana problems with a double wasteland draw stripping Ped Bun down to just one basic plains for several turns. However, both players ran out of steam and started trying to top deck; Ped looking for land, Bob for burn to cap the game. (Ped is only at 1 life). A Tithe off the top brought Ped Bun some much-needed mana, but Mr. Maher could not find the crucial last point of damage. A top decked Firebolt, was met by a Worthy Cause, keeping the balance at one point of life, and the same thing the next turn. Finally the pieces fell into place for Mr. Bun. An En-Kor lent a hand to the Task Force, which suddenly did an About Face and served for 3 million damage and the game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/113fm2maher.jpg)
+
+Ped Bun kicked off the third game with a double mulligan, Bob Maher Sr. decided to compound his mana problems with a double wasteland draw stripping Ped Bun down to just one basic plains for several turns. However, both players ran out of steam and started trying to top deck; Ped looking for land, Bob for burn to cap the game. (Ped is only at 1 life). A Tithe off the top brought Ped Bun some much-needed mana, but Mr. Maher could not find the crucial last point of damage. A top decked Firebolt, was met by a Worthy Cause, keeping the balance at one point of life, and the same thing the next turn. Finally the pieces fell into place for Mr. Bun. An En-Kor lent a hand to the Task Force, which suddenly did an About Face and served for 3 million damage and the game.
 
 They shook hands and wished each other well. 
 

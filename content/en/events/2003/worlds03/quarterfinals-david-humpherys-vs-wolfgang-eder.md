@@ -417,7 +417,9 @@ render_recovery:
 
 Wolfgang Eder was one of three hometown heroes looking to take home the World Championship titles today in Berlin. He has been making quite a name for himself recently. He finished highly at the European Championships with the extremely powerful Goblin Bidding deck. The deck remained under the radar until the Japanese added Goblin Matron and tore up Thailand with the deck. The deck was backtracked to Eder and he is now credited with the original design. 
 
-![](https://i.ormos.uk/49/ad/49ad4141e37a7c3aa35423f096a0d2edd4f216cb146ed2f043929c68ae77bf68.jpg)The deck was pronounced dead in Standard with the rotation of Goblin Matron but Wolfgang Eder was not ready to give up on the deck—actually thirty-one other players were not either—and he backed it up with a Top 8 performance. Standing in his way was YMG's Dave Humpherys and Standard's workhorse—Blue-Green Madness. All of the pundits heavily favored the goblins to take the match.
+![](https://i.ormos.uk/49/ad/49ad4141e37a7c3aa35423f096a0d2edd4f216cb146ed2f043929c68ae77bf68.jpg)
+
+The deck was pronounced dead in Standard with the rotation of Goblin Matron but Wolfgang Eder was not ready to give up on the deck—actually thirty-one other players were not either—and he backed it up with a Top 8 performance. Standing in his way was YMG's Dave Humpherys and Standard's workhorse—Blue-Green Madness. All of the pundits heavily favored the goblins to take the match.
 
 Dave Humpherys had all the resources of YMG at his disposal last night to test for this match-up. They learned a valuable piece of information key to boost Dave Humpherys chances for victory...
 
@@ -450,7 +452,9 @@ Eder cycled a Gempalm on the next turn—he was out of land and hoped to "hymn' 
 
 Dave attacked with the Mongrel and Eder took two. Dave was also out of lands and passed the turn. He was obviously frustrated at his inability to press his advantage with the Arrogant Wurm he was holding. Eder made a Warchief and attacked with everyone. Dave tried to get Eder to provoke the Mongrel but Eder wasn't buying. Dave fell to fifteen.
 
-![](https://i.ormos.uk/fb/98/fb9874a5742d567c5fb5bdc9e6e93165886435b92883252efdb8a423e7cbacdc.jpg)An Island from Dave meant he could get in for three and make the Arrogant Wurm—and he did. Eder played his Goblin Sharphooter and a fourth land—he fell to fourteen from his Mire—and shot the Mongrel and Gempalmed the Wurm for four. Dave was tapped out and could do nothing about it. He shot the Mongrel and Dave had to think...he discarded Wonder to save it—for the time being. Eder attacked with everyone and provoked the 3/3 Mongrel that had two damage on it. Dave stacked damage and discarded another Wonder but Eder's Shooter untapped and pinged the Mongrel again. A third Wonder saved it and left the Sharpshooter tapped. Dave was holding three cards with the life totals 12-15 in his favor.
+![](https://i.ormos.uk/fb/98/fb9874a5742d567c5fb5bdc9e6e93165886435b92883252efdb8a423e7cbacdc.jpg)
+
+An Island from Dave meant he could get in for three and make the Arrogant Wurm—and he did. Eder played his Goblin Sharphooter and a fourth land—he fell to fourteen from his Mire—and shot the Mongrel and Gempalmed the Wurm for four. Dave was tapped out and could do nothing about it. He shot the Mongrel and Dave had to think...he discarded Wonder to save it—for the time being. Eder attacked with everyone and provoked the 3/3 Mongrel that had two damage on it. Dave stacked damage and discarded another Wonder but Eder's Shooter untapped and pinged the Mongrel again. A third Wonder saved it and left the Sharpshooter tapped. Dave was holding three cards with the life totals 12-15 in his favor.
 
 Dave attacked for two damage in the air and flashed back a 6/6 wurm. Gempalm, Smother, Banishing and Siege Gang were all in his hand and he chose to Gempalm the Mongrel—his Sharphooter was still jammed—Dave put it in the yard. Eder drew his fifth land and shot the Hump with his rare goblin. He Smothered the Wurm and attacked for three. The life totals were still in Humpherys favor at 8-12 but Eder ruled the board.
 
@@ -505,7 +509,9 @@ Dave sent in the Aquamoeba and dropped Eder to three by discarding a Quiet Specu
 
 Eder drew the Siege-Gang and for the first time all match his demeanor changed. He sighed audibly and leaned back in his seat. He went for it and played the Commander. Dave had two cards. Was one of them Circular Logic?
 
-![](https://i.ormos.uk/a7/f8/a7f8ba179de9f1e33d89d8174d29b56d0d6ec753467c6a2788c21d08c33e40d5.jpg)Out came the pen and paper and Dave did his math.
+![](https://i.ormos.uk/a7/f8/a7f8ba179de9f1e33d89d8174d29b56d0d6ec753467c6a2788c21d08c33e40d5.jpg)
+
+Out came the pen and paper and Dave did his math.
 
 Was the sum Circular Logic?
 

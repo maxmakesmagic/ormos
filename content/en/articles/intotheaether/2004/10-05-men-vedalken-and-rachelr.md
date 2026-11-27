@@ -1353,7 +1353,9 @@ But wait, there's more! I had a chance to ask Rachel a few questions as she slip
 > 
 > **IntoTheAether**: What is it like working at Wizards of the Coast?
 > 
-> ![](https://i.ormos.uk/b1/dd/b1dd95b0a0f9c4daff2cc6d170739bf9f5b1d994fd598178e1865d1f8ff3c4f9.jpg)**RachelR**: Wonderful. It is a great place to work, and I really enjoy my job. It's awesome to have a job where I like coming in to work and I'm not constantly looking forward to the end of the day. It's also very relaxed, in terms of both the dress code and the general atmosphere. I participate in a kickboxing class two times a week in our very own dojo, and there are always employee leagues taking place for various games. 
+> ![](https://i.ormos.uk/b1/dd/b1dd95b0a0f9c4daff2cc6d170739bf9f5b1d994fd598178e1865d1f8ff3c4f9.jpg)
+>
+> **RachelR**: Wonderful. It is a great place to work, and I really enjoy my job. It's awesome to have a job where I like coming in to work and I'm not constantly looking forward to the end of the day. It's also very relaxed, in terms of both the dress code and the general atmosphere. I participate in a kickboxing class two times a week in our very own dojo, and there are always employee leagues taking place for various games. 
 > 
 > Games are a big part of everyone's life here, and it definitely shows. I can't imagine I'll ever find another workplace where, one day each year, all four hundred people get the afternoon off to compete against each other with company-provided Nerf guns.
 > 

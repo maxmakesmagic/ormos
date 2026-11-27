@@ -52,7 +52,9 @@ render_recovery: []
 
 **Steve O'Mahoney-Shwartz vs. Darwin Kastle** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R3KastleOMS.JPG)With both Steve and Darwin still smarting over their first losses, these two titans were pitted against one another in the crucial third round. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R3KastleOMS.JPG)
+
+With both Steve and Darwin still smarting over their first losses, these two titans were pitted against one another in the crucial third round. 
 
 Steve started the match by winning the die roll, but won little else. Darwin's second turn Mother of Runes was followed by an Angelic Page, a Capashen Templar and Capashen Knight, solidifying his defense against Steve's slow UG deck. Every time Steve tried to mount an offense, Darwin had an answer, dropping Tormented Angels and killing Steve's Treetop Ranger and Blanchwood Treefolk, and added insult to injury by killing Steve with three Waylay tokens created during Steve's end phase (a new ruling made possible by sixth edition rules). The game lasted thirty-five minutes, but was never in doubt. 
 

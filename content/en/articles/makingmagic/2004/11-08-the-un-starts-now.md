@@ -104,17 +104,27 @@ The design began the day Randy Buehler approached me and said, “Okay, it's a g
 
 Here's the team Randy and I put together:
 
-![](https://i.ormos.uk/36/f7/36f721b7d86cd6baa42e539d43b8e75e0b0213a5a1b8570f547b0e9cfc889867.jpg)**Mark Rosewater** – I was Lead Designer for the set. This shouldn't come as a great surprise. I was also Lead Designer of *Unglued* (although for that project I was a team of one). I'm the only designer with a background in comedy writing. And I have unabashedly campaigned for this product for six years. So the second the project got the thumbs up, it was pretty clear that I was going to run it. 
+![](https://i.ormos.uk/36/f7/36f721b7d86cd6baa42e539d43b8e75e0b0213a5a1b8570f547b0e9cfc889867.jpg)
 
-![](https://i.ormos.uk/f2/ae/f2aea0fb690b7f7f802f2ef0b72f3460c274706fbfd7a9f4805ee2816888cf38.jpg)**Brady Dommermuth** – Brady is a member of the **Magic** Creative Team.. He is in charge of world development and card concepting. That means he's the guy who has to take all of design's odd ideas and turn them first into a world and then into individual cards. (Brady's job, by the way, is significantly harder than it sounds.) Because *Unhinged* design is so intertwined with the card concept, we felt it was important to have Brady on the team.
+**Mark Rosewater** – I was Lead Designer for the set. This shouldn't come as a great surprise. I was also Lead Designer of *Unglued* (although for that project I was a team of one). I'm the only designer with a background in comedy writing. And I have unabashedly campaigned for this product for six years. So the second the project got the thumbs up, it was pretty clear that I was going to run it. 
 
-![](https://i.ormos.uk/aa/f2/aaf221eec0dc304275a990510b5850b2ac4e6d69b2bb4d3a4675509ef15f7dc9.jpg)**Brandon Bozzi** – Brandon is another member of the **Magic** Creative Team. Brandon is responsible for the names and flavor text. As these were crucial elements of *Unhinged*, we felt it was important to have Brandon on the team. In addition, Brandon was interested in trying out some of his design skills.
+![](https://i.ormos.uk/f2/ae/f2aea0fb690b7f7f802f2ef0b72f3460c274706fbfd7a9f4805ee2816888cf38.jpg)
 
-![](https://i.ormos.uk/93/ca/93ca0da23fd3092bb699dfe770f311843430a3b4645df1519cedab0689486199.jpg)**Randy Buehler** – *Unhinged* is dissimilar to most **Magic** sets because it doesn't have a separate design and development team. As such, the design/development team needed someone that could develop the set. Randy ran through a list of possible candidates. In the end, he realized that he was the most qualified person with the least amount of his time already scheduled. 
+**Brady Dommermuth** – Brady is a member of the **Magic** Creative Team.. He is in charge of world development and card concepting. That means he's the guy who has to take all of design's odd ideas and turn them first into a world and then into individual cards. (Brady's job, by the way, is significantly harder than it sounds.) Because *Unhinged* design is so intertwined with the card concept, we felt it was important to have Brady on the team.
+
+![](https://i.ormos.uk/aa/f2/aaf221eec0dc304275a990510b5850b2ac4e6d69b2bb4d3a4675509ef15f7dc9.jpg)
+
+**Brandon Bozzi** – Brandon is another member of the **Magic** Creative Team. Brandon is responsible for the names and flavor text. As these were crucial elements of *Unhinged*, we felt it was important to have Brandon on the team. In addition, Brandon was interested in trying out some of his design skills.
+
+![](https://i.ormos.uk/93/ca/93ca0da23fd3092bb699dfe770f311843430a3b4645df1519cedab0689486199.jpg)
+
+**Randy Buehler** – *Unhinged* is dissimilar to most **Magic** sets because it doesn't have a separate design and development team. As such, the design/development team needed someone that could develop the set. Randy ran through a list of possible candidates. In the end, he realized that he was the most qualified person with the least amount of his time already scheduled. 
 
 ### Oh My Godbook
 
-![](https://i.ormos.uk/32/22/32226b4d3959b67596dba321918dc7ac6f82fc8f024d1d4ba92dd1927ba94d49.jpg)Once we had a team, it was time to start thinking about how we'd design our set. But before we could do that, we needed to first take a look back at the last *Un*-set, *Unglued*. To better understand what players did and did not like about *Unglued*, we did a godbook study. For those unfamiliar with the term, a godbook study is a research study where we show players all the cards from a particular set and gauge their reactions.
+![](https://i.ormos.uk/32/22/32226b4d3959b67596dba321918dc7ac6f82fc8f024d1d4ba92dd1927ba94d49.jpg)
+
+Once we had a team, it was time to start thinking about how we'd design our set. But before we could do that, we needed to first take a look back at the last *Un*-set, *Unglued*. To better understand what players did and did not like about *Unglued*, we did a godbook study. For those unfamiliar with the term, a godbook study is a research study where we show players all the cards from a particular set and gauge their reactions.
 
 Here's what we learned:
 
@@ -191,7 +201,9 @@ As this column is as much a preview as a history, I thought it would be fun to l
 
 ### All For Now
 
-![](https://i.ormos.uk/26/66/26666ad94ae82e16645f2c8097a41a64dab93b9007b8140f404b3b449feed3e0.jpg)I'm running out of space for today, but have no fear. There are a number of *Unhinged* design columns to come (it will get easier for me to write when you know all the cards). I thought I'd leave you today with an old-fashioned teaser like I used to do in *The Duelist*. Enjoy.
+![](https://i.ormos.uk/26/66/26666ad94ae82e16645f2c8097a41a64dab93b9007b8140f404b3b449feed3e0.jpg)
+
+I'm running out of space for today, but have no fear. There are a number of *Unhinged* design columns to come (it will get easier for me to write when you know all the cards). I thought I'd leave you today with an old-fashioned teaser like I used to do in *The Duelist*. Enjoy.
 
 *Unhinged* includes:
 

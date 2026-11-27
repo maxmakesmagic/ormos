@@ -69,7 +69,9 @@ render_recovery:
   - Arcanis, the Omnipotent
   occurrences: 14
 ---
-![](http://www.wizards.com/sideboard/images/mi02/a980.jpg)Initially derided as the format that received the least playtesting, Two-Headed Giant Sealed turned out to be a bigger success than any of the players expected. Even getting past the griping about monstrous card pools and the hassle of passing priority so often, it was far from a chore.
+![](http://www.wizards.com/sideboard/images/mi02/a980.jpg)
+
+Initially derided as the format that received the least playtesting, Two-Headed Giant Sealed turned out to be a bigger success than any of the players expected. Even getting past the griping about monstrous card pools and the hassle of passing priority so often, it was far from a chore.
 
 The rules are pretty straightforward. Two teams of two share forty life. Deckbuilding is as in regular Team Sealed, and teammates sit next to each other. Global effects (such as the mighty Shepherd of Rot) affect all players, and there are no targeting restrictions. The one odd rule is that you can only attack the person sitting opposite you. Not only could you not attack your partner out of spite, but also it was as if there were two separate battlefields. Of course, you could still sabotage your partner if you really wanted to. Chris Pikula openly lamented the fact that there wasn't anyone he hated enough in attendance that he would drag down into a loss.
 

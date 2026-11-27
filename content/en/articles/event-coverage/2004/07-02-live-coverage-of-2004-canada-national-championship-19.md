@@ -44,7 +44,9 @@ archive_source:
   sha256: 3184637a15fdd8deda54d7df1a51335c9543924db3e55d7225f24e175ea7c35f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm2_1.jpg)This is the part of Canadian Nationals that internet writer Geordie Tait can't stand: The obligatory writer-as-player Feature Match. Ideally the cameras would be turned on him as he completed a 6-0 run on Day 1. He's already on his way with a first-round win. His usually impeccable fashion sense has been shelved in favor of a T-shirt lampooning fellow competitor and the Maritimes' best kept secret.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm2_1.jpg)
+
+This is the part of Canadian Nationals that internet writer Geordie Tait can't stand: The obligatory writer-as-player Feature Match. Ideally the cameras would be turned on him as he completed a 6-0 run on Day 1. He's already on his way with a first-round win. His usually impeccable fashion sense has been shelved in favor of a T-shirt lampooning fellow competitor and the Maritimes' best kept secret.
 
 "Interesting Story: Phil Samms once played a [Stalking Stones](https://web.archive.org/web/20040702000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking+Stones) in a deck with [Fangren Firstborn](https://web.archive.org/web/20040702000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fangren+Firstborn), [Flamebreak](https://web.archive.org/web/20040702000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamebreak) and [Spire Golem](https://web.archive.org/web/20040702000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spire+Golem)." - Geordie Tait
 

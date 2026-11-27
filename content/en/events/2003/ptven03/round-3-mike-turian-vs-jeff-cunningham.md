@@ -73,13 +73,17 @@ render_recovery:
   - Blistering Firecat
   occurrences: 17
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a952.jpg)Away from the gaming table, Canadian pro Jeff Cunningham is the nice young man every mother hopes her daughter will end up with. Polite, but not to a fault, soft-spoken, clean-cut, in short, Cunningham is the perfect gentleman. That is, until he sits down at the table. Then his gentle charms and nonthreatening good looks give way to a champion's focus. When the game is on, he's all business. Mike Turian puts on a similar Jekyll and Hyde act, going from giggly Pillsbury Dough-Boy to well-oiled victory machine as soon as he starts to resolve a mulligan. Cunningham seemed more intense than ever thanks to a haircut you could set your watch to. After a quick dance involving Turian winning the die roll then choosing to orient the play mat rather than choose play or draw, the match was a go.
+![](http://www.wizards.com/sideboard/images/ptven03/a952.jpg)
+
+Away from the gaming table, Canadian pro Jeff Cunningham is the nice young man every mother hopes her daughter will end up with. Polite, but not to a fault, soft-spoken, clean-cut, in short, Cunningham is the perfect gentleman. That is, until he sits down at the table. Then his gentle charms and nonthreatening good looks give way to a champion's focus. When the game is on, he's all business. Mike Turian puts on a similar Jekyll and Hyde act, going from giggly Pillsbury Dough-Boy to well-oiled victory machine as soon as he starts to resolve a mulligan. Cunningham seemed more intense than ever thanks to a haircut you could set your watch to. After a quick dance involving Turian winning the die roll then choosing to orient the play mat rather than choose play or draw, the match was a go.
 
 "You know, you don't have to wear the badge." – Mike Turian
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptven03/a951.jpg)Cunningham's hopes for a good matchup were dashed when Turian showed a plains on his first turn. Suddenly his turn-one Sledder was staring down Astral Slide. He kept gamely at it, swinging for damage and adding Sparksmith and Goblin Burrows to the mix while Turian dug with Renewed Faith and then dropped Astral Slide. Cunningham brought out the Goon, but Turian's second Slide with one mana open predicted bad times.
+![](http://www.wizards.com/sideboard/images/ptven03/a951.jpg)
+
+Cunningham's hopes for a good matchup were dashed when Turian showed a plains on his first turn. Suddenly his turn-one Sledder was staring down Astral Slide. He kept gamely at it, swinging for damage and adding Sparksmith and Goblin Burrows to the mix while Turian dug with Renewed Faith and then dropped Astral Slide. Cunningham brought out the Goon, but Turian's second Slide with one mana open predicted bad times.
 
 Sure enough, Turian cycled Akroma's Blessing to minimize the pain. Next turn he had Starstorm and a cycler. Still, Cunningham wasn't out of it. Running out of gas, Turian was forced to drop an unprotected Jareth, gambling that Cunningham didn't have maindeck Threatens. He did, but not in hand. He swung with Goon and Piledriver, punching through seven damage thanks to two Burrows, leaving Turian at five. However, Turian had another Renewed Faith, and then dropped the Angel, removing all doubt.
 
@@ -87,7 +91,9 @@ Turian 1 – Cunningham 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptven03/a953.jpg)Cunningham's start for the second game was far from spectacular. He had a pair of Goblin Piledrivers with no one-drop support. Turian dropped Lightning Rift and gave Cunningham his fourth turn with three mana open.
+![](http://www.wizards.com/sideboard/images/ptven03/a953.jpg)
+
+Cunningham's start for the second game was far from spectacular. He had a pair of Goblin Piledrivers with no one-drop support. Turian dropped Lightning Rift and gave Cunningham his fourth turn with three mana open.
 
 Then he dropped the bomb: Gempalm Incinerator. Both Cunningham's incoming creatures were marked for death. Cunningham Shocked the one targeted by the Rift, saving the other. A cycled Akroma's Vengeance took out the other Piledriver. Cunningham rebuilt with a wave of goblins, but they were swept aside by Starstorm. Then Turian showed his Angel, comfortably eating seven from a Blistering Firecat. Cunningham scooped up his cards, showing only lands in hand.
 

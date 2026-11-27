@@ -77,7 +77,9 @@ archive_source:
   sha256: ab3baa8180545e6580e188a82f4bc55fc8eaa74a3d4455fcdd6d652ff582aa33
 render_recovery: []
 ---
-![](https://i.ormos.uk/9e/9f/9e9f97d017416bca2546a0dc61751ede14ddc86929bee51fc9de14b9fd85437f.jpg)I hope you all had a great time at the *Fifth Dawn* pre-releases that took place this past weekend. If you didn't get a chance to play with the new cards yet you don't have long to wait until the set becomes legal for limited play everywhere. New sets always tend to impact limited formats fairly significantly but I think *Fifth Dawn* may do so more than usual with its focus on colour in a format that previously had no such emphasis. Sunburst especially will require a lot of cards from *Mirrodin* and *Darksteel* to be re-evaluated.
+![](https://i.ormos.uk/9e/9f/9e9f97d017416bca2546a0dc61751ede14ddc86929bee51fc9de14b9fd85437f.jpg)
+
+I hope you all had a great time at the *Fifth Dawn* pre-releases that took place this past weekend. If you didn't get a chance to play with the new cards yet you don't have long to wait until the set becomes legal for limited play everywhere. New sets always tend to impact limited formats fairly significantly but I think *Fifth Dawn* may do so more than usual with its focus on colour in a format that previously had no such emphasis. Sunburst especially will require a lot of cards from *Mirrodin* and *Darksteel* to be re-evaluated.
 
 I'll be discussing *Fifth Dawn* a lot more over the coming months but this week we're still on the current format as it was a *Mirrodin-Mirrodin-Darksteel* draft pick that was the topic of last week's poll. For reference here is the situation I gave you to think about last week:
 
@@ -141,7 +143,9 @@ The cards that are left now are the cards that I think would actually be playabl
 
 The correct pick definitely comes from that selection in my opinion. Before I tell you which I'd go for let's get a couple of other opinions:
 
-> ![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptsd04/fin1_3.jpg)**Nicolai Herzog**: I'd take [Iron Myr](https://web.archive.org/web/20040524000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Iron+Myr). Without thinking. When you're green you REALLY need Myrs and Talismans. And you're not sure about your second color yet. [Somber Hoverguard](https://web.archive.org/web/20040524000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Somber+Hoverguard), arguably the strongest card in the pack, does not fit in with the cards you've already taken, and the rest are just not worth taking over a Myr that will definitely shine in your deck.
+> ![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptsd04/fin1_3.jpg)
+>
+> **Nicolai Herzog**: I'd take [Iron Myr](https://web.archive.org/web/20040524000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Iron+Myr). Without thinking. When you're green you REALLY need Myrs and Talismans. And you're not sure about your second color yet. [Somber Hoverguard](https://web.archive.org/web/20040524000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Somber+Hoverguard), arguably the strongest card in the pack, does not fit in with the cards you've already taken, and the rest are just not worth taking over a Myr that will definitely shine in your deck.
 > 
 > **Adrian Sullivan**: You can basically reduce this pack to:
 > 

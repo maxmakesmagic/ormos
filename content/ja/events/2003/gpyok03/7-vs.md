@@ -151,7 +151,9 @@ render_recovery:
 ---
 　1 敗ラインで迎えるラウンド 7 。
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a965.jpg)　赤白 Slide を駆使する長岡と、Goblin Bidding の林との対決。
+![](http://www.wizards.com/sideboard/images/gpyok03/a965.jpg)
+
+　赤白 Slide を駆使する長岡と、Goblin Bidding の林との対決。
 
 **Game 1**
 

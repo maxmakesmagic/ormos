@@ -44,7 +44,9 @@ archive_source:
   sha256: f2f94c149fd0d7c0bd5f8287451a2ed82d09b897f0806285ac6d925279d04787
 render_recovery: []
 ---
-![Those aren't ID cards, baby.](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoak04/qf2_1.jpg)Ben Rubin and Ken Ho are old friends from the Bay Area. They play together frequently although both players profess to have little more than a passing interest in professional Magic. While they were shuffling Patrick Sullivan walked by and laughed at the former Pro Tour Champion Ken Ho. "I told you you'd be back!"
+![Those aren't ID cards, baby.](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoak04/qf2_1.jpg)
+
+Ben Rubin and Ken Ho are old friends from the Bay Area. They play together frequently although both players profess to have little more than a passing interest in professional Magic. While they were shuffling Patrick Sullivan walked by and laughed at the former Pro Tour Champion Ken Ho. "I told you you'd be back!"
 
 Ken laughed and shook his head in denial. This was just a local tournament for him and if he avails himself of the Pro Tour slot it will only be because it is for San Diego. Ben is having a hard time backing up his claims of disinterest. After winning Anaheim he attended Amsterdam despite his assurances that he would not do so. He even went so far as to write an article for one of the major websites about his deck.
 

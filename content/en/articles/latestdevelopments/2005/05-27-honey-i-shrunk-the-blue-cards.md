@@ -408,7 +408,9 @@ As you can see, we haven't been using the ability that much; the last new card d
 
 ### Finding It a Place to Live
 
-![](https://i.ormos.uk/84/55/845533830809d489d99777b526f777517a0303de3bd149be64a2709f7dfcd18f.jpg)During early design for the *Ravnica: City of Guilds* set, I made a pair of cards that were mirrors of one another—the black one gave target creature -0/-X, and the green one gave target creature -X/-0. At some point one of my coworkers made the comment that “both of those abilities are black.” Hmm. I suppose he was right.
+![](https://i.ormos.uk/84/55/845533830809d489d99777b526f777517a0303de3bd149be64a2709f7dfcd18f.jpg)
+
+During early design for the *Ravnica: City of Guilds* set, I made a pair of cards that were mirrors of one another—the black one gave target creature -0/-X, and the green one gave target creature -X/-0. At some point one of my coworkers made the comment that “both of those abilities are black.” Hmm. I suppose he was right.
 
 That got me to thinking… why was Shrink black? I mean, sure, black is the best color at giving thing minuses, but why would it ever want to lower a creature's power when it could just lower its toughness—and kill it—instead?
 

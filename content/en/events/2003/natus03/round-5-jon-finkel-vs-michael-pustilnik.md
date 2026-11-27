@@ -94,7 +94,9 @@ render_recovery:
   - Fierce Empath
   occurrences: 88
 ---
-![](https://i.ormos.uk/04/08/0408aeb81d582df2d3a10c7c418bd4e9c65cc11c93edf5f259ec6e56a6f46ed0.jpg)If you've been reading Sideboard coverage of Pro Tours lately, you know the story with Jon Finkel. Posterboy is overshadowed by German Juggernaut, and almost fades into obscurity before finding redemption and returning to top form. Can Jon Finkel continue his winning ways? Can the intro to a Jon Finkel Feature Match actually *not* include the words "motivation", "potential", or the phrases "second best" and "it seems he wins when he cares enough"? Who knows, it's certainly something to strive for.
+![](https://i.ormos.uk/04/08/0408aeb81d582df2d3a10c7c418bd4e9c65cc11c93edf5f259ec6e56a6f46ed0.jpg)
+
+If you've been reading Sideboard coverage of Pro Tours lately, you know the story with Jon Finkel. Posterboy is overshadowed by German Juggernaut, and almost fades into obscurity before finding redemption and returning to top form. Can Jon Finkel continue his winning ways? Can the intro to a Jon Finkel Feature Match actually *not* include the words "motivation", "potential", or the phrases "second best" and "it seems he wins when he cares enough"? Who knows, it's certainly something to strive for.
 
 ### Game 1
 
@@ -124,7 +126,9 @@ Finkel- 1 Pustilnik- 1
 
 ### Game 3
 
-![](https://i.ormos.uk/c6/46/c646bb70f1fd116351dd74edbc5c791304d26ff7a2c497c829ad0368b1a05aeb.jpg)Finkel had a first turn Festering Goblin and a second turn Crypt Sliver, followed by a third turn Nantuko Husk. Pustilnik played a morph and the Husk attacked, running over the Herald and giving Pustilnik Timberwatch Elf. Finkel kept his curve going with Bladewing's Thrall, and Pustilnik summoned Timberwatch Elf. Festering Goblin was blocked and traded with a morph (Patron of the Wild) and Finkel played a morph, while Pustilnik made his Timberwatch better with Herald and Elvish Warrior. Finkel cast Cabal Archon, and Pustilnik played a morph. Finkel played a second morph, and Pustilnik flipped over Snarling Undorak on end step. At this point, both players kept putting creatures on the ground, and for the game to end, Pustilnik would need enough fat on the ground to break through, and Finkel would need evasion and/or a breakthrough card. Cabal Archon could potentially provide that, but Finkel needed to deal damage and/or draw a few more Clerics first.
+![](https://i.ormos.uk/c6/46/c646bb70f1fd116351dd74edbc5c791304d26ff7a2c497c829ad0368b1a05aeb.jpg)
+
+Finkel had a first turn Festering Goblin and a second turn Crypt Sliver, followed by a third turn Nantuko Husk. Pustilnik played a morph and the Husk attacked, running over the Herald and giving Pustilnik Timberwatch Elf. Finkel kept his curve going with Bladewing's Thrall, and Pustilnik summoned Timberwatch Elf. Festering Goblin was blocked and traded with a morph (Patron of the Wild) and Finkel played a morph, while Pustilnik made his Timberwatch better with Herald and Elvish Warrior. Finkel cast Cabal Archon, and Pustilnik played a morph. Finkel played a second morph, and Pustilnik flipped over Snarling Undorak on end step. At this point, both players kept putting creatures on the ground, and for the game to end, Pustilnik would need enough fat on the ground to break through, and Finkel would need evasion and/or a breakthrough card. Cabal Archon could potentially provide that, but Finkel needed to deal damage and/or draw a few more Clerics first.
 
 Thanks to Snarling Undorak, the first scenario was happening, with a little help from Symbiotic Beast and Kurgadon. Whipgrass Entangler stopped that plan, and Ward Sliver on green slowed things down even more. Finkel now had ten points of Archon damage on the table, and Pustilnik was at 12- one more Cleric, and the game would be over. Dragon Stalker came out instead, which was just as good. Pustilnik searched out Silvos with Fierce Empath, getting a sincere "Sure!" out of Finkel, which got a laugh out of the spectators. With no other options, Pustilnik went for an all out attack, which Finkel easily survived. Despite the Cleric kill on the table, Finkel revealed the Akroma waiting in his hand as well.
 

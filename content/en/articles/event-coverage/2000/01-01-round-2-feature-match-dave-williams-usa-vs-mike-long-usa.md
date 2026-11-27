@@ -44,7 +44,9 @@ archive_source:
   sha256: e630f67faad3d274b3a221c83f64beb966ed65a24a3b0cb4e12ac5521117309a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/906.jpg)Mike Long is the only person to attend all five Invitationals. He won the 1999 Barcelona Invitational that win made him famous, putting his cute little face on Rootwater Thief cards around the world. He has made the most money in Magic next to Jon Finkel. He continues to make money in the Magic community buying and selling cards, and with his store The End. By winning Round One, he made another four grand from Magic. He was hoping to make yet another two grand with his Green\\White splashing Red deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/906.jpg)
+
+Mike Long is the only person to attend all five Invitationals. He won the 1999 Barcelona Invitational that win made him famous, putting his cute little face on Rootwater Thief cards around the world. He has made the most money in Magic next to Jon Finkel. He continues to make money in the Magic community buying and selling cards, and with his store The End. By winning Round One, he made another four grand from Magic. He was hoping to make yet another two grand with his Green\\White splashing Red deck.
 
 Dave Williams was confident with his Blue\\Black Beatdown and said, "I'm going to smash him." If he wins it will allow him to pay off all of his debt, including student loans. Williams is doing great this year with a top four at GP Porto, top 32 at Buenos Aires, and ninth at GP Phoenix.
 

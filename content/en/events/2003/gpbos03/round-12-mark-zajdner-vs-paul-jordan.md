@@ -73,13 +73,17 @@ render_recovery:
   - Future Sight
   occurrences: 15
 ---
-![](https://www.wizards.com/sideboard/images/gpbos03/a927.jpg)Mark Zajdner is not well liked. He’ll be the first to tell you. His strident voice and constant shouted commentary do little to endear him to his peers. Of course, that arrogance has its roots in his ability at the game. His recent dedication has paid off, to the chagrin of his detractors. Quite the contrast to Paul Jordan of TOGIT, who’s skills have fostered an easygoing nature, while being nurtured by the TOGIT playgroup. Both have drafted decks packed with blastication. Zajdner’s is a green-black monstrosity, while Jordan’s is blue-black, choked with evasion.
+![](https://www.wizards.com/sideboard/images/gpbos03/a927.jpg)
+
+Mark Zajdner is not well liked. He’ll be the first to tell you. His strident voice and constant shouted commentary do little to endear him to his peers. Of course, that arrogance has its roots in his ability at the game. His recent dedication has paid off, to the chagrin of his detractors. Quite the contrast to Paul Jordan of TOGIT, who’s skills have fostered an easygoing nature, while being nurtured by the TOGIT playgroup. Both have drafted decks packed with blastication. Zajdner’s is a green-black monstrosity, while Jordan’s is blue-black, choked with evasion.
 
 Jordan’s opener of Imagecrafter, cycle Keeneye Aven, Severed Legion and Mistform Shrieker was slightly outclassed by the the three cards that Zajdner threw down. The classic combo of Festering Goblin and Nantuko Husk wasn’t enough for the Canadian. He went straight to the Graveborn Muse.
 
 *“During my Upkeep, Ancestral?”* – Mark Zajdner
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a930.jpg)Jordan thought for a minute about slowing the tide with Imagecrafter, but he put his hopes on racing with the Shrieker. Unfortunately, the first wave of the avalanche of card advantage brought with it Spitting Gourna, shutting down Jordan’s offense. Another turn brought two more monsters on the board, and Zajdner’s creatures swarmed his opponent.
+![](https://www.wizards.com/sideboard/images/gpbos03/a930.jpg)
+
+Jordan thought for a minute about slowing the tide with Imagecrafter, but he put his hopes on racing with the Shrieker. Unfortunately, the first wave of the avalanche of card advantage brought with it Spitting Gourna, shutting down Jordan’s offense. Another turn brought two more monsters on the board, and Zajdner’s creatures swarmed his opponent.
 
 *“I don’t think it really matters what I do.”* – Mark Zajdner
 
@@ -91,7 +95,9 @@ Zajdner 1 – Jordan 0
 
 The second game was all about tempo. Zajdner accelerated to Symbiotic Elf with Wirewood Elf as Jordan started with Spectral Sliver. He blocked the incoming Sliver, and Jordan gave up his fourth turn to save it, since he had no two-mana play. Zajdner meanwhile bashed back for three and made a Husk. Jordan answered with Mistform Dreamer and decided to swing with the Sliver.
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a928.jpg)Zajdner had no compunction about bashing back. The Husk was making life very difficult indeed for Jordan, and Zajdner had another morph. Jordan sat back on his Dreamer, Sliver, and seven mana. Zajdner swung in. The Sliver blocked the Husk and forced the eating of the remaining insects, and the Dreamer blocked the morph. Jordan didn’t pump, which was great when Zajdner turned over Broodhatch Nantuko.
+![](https://www.wizards.com/sideboard/images/gpbos03/a928.jpg)
+
+Zajdner had no compunction about bashing back. The Husk was making life very difficult indeed for Jordan, and Zajdner had another morph. Jordan sat back on his Dreamer, Sliver, and seven mana. Zajdner swung in. The Sliver blocked the Husk and forced the eating of the remaining insects, and the Dreamer blocked the morph. Jordan didn’t pump, which was great when Zajdner turned over Broodhatch Nantuko.
 
 *“Hey, I guessed right.”* – Paul Jordan
 

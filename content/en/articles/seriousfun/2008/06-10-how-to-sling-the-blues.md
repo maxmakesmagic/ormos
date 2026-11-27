@@ -598,7 +598,9 @@ When I'm playing a control deck, I find it's best to play a fun little subgame o
 
 Whenever I'm tempted to play a spell, I ask, "Do I *really* need to play this now... or can I save it for later?" Sometimes I do need to play it—you always require mana acceleration and early defense—but often, when I'm playing **Magic** with my goal to keep as many cards in hand as possible, I find out that I'm a little too quick on the draw to expend my personal power. And cards in hand *are* power. 
 
-![Mind_Games](https://i.ormos.uk/f0/95/f095046313e63ac8de161085f588dffa6838be3a1d63d8c6095a1210e5591d88.jpg)What I've discovered in playing the "How many cards?" game is that often, other players will handle things for you. Sure, I'm terrified of someone's Grim Poppet / Torture combo... but so is everyone else at the table! And they'll often helpfully Shatter the Poppet for me if I'm quiet enough, thus saving me a card.
+![Mind_Games](https://i.ormos.uk/f0/95/f095046313e63ac8de161085f588dffa6838be3a1d63d8c6095a1210e5591d88.jpg)
+
+What I've discovered in playing the "How many cards?" game is that often, other players will handle things for you. Sure, I'm terrified of someone's Grim Poppet / Torture combo... but so is everyone else at the table! And they'll often helpfully Shatter the Poppet for me if I'm quiet enough, thus saving me a card.
 
 When you're playing control in multiplayer, particularly of the Counterspell variety, you have to lay back and let others do as much of the work as possible. They will come for you, no doubt; that's how this game works. But ideally, you want them to come to you with weakened hands and depleted resources, while *you* have a fresh grip of seven killer spells. That's what you seek.
 
@@ -618,7 +620,9 @@ First off, remember that Counterspells don't win the game on their own. You need
 
 Secondly, you can't counter every spell. (Particularly in multiplayer, where opponents abound.) Every long-time blue player has had the frustration of having a hand full of stupid Counterspells when what they need is an answer to the 3/3 creature that's killing them *right now*. If you counter twelve spells, well, the thirteenth can still kill you.
 
-![Meddle](https://i.ormos.uk/63/e7/63e7242ce13a516983f51d46c10d970249eeffce80a84e90e240148a282edfc4.jpg)Counterspells are not a magic wand that will make your deck great. Not every deck needs counterspells, or wants them. 
+![Meddle](https://i.ormos.uk/63/e7/63e7242ce13a516983f51d46c10d970249eeffce80a84e90e240148a282edfc4.jpg)
+
+Counterspells are not a magic wand that will make your deck great. Not every deck needs counterspells, or wants them. 
 
 What you use counterspells *for* is to ensure that an otherwise-winning strategy will be able to get through to completion. A Standard Faeries deck will win the game with cards like Bitterblossom and Mistbind Clique, *if nobody interferes*. Reveillark is going to combo you out, *if nobody interferes*. Merfolk is going to beat you to death with fins and gills, *if* *nobody interferes*.
 

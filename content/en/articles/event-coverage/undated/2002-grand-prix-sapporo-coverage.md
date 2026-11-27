@@ -40,7 +40,9 @@ render_recovery:
 ---
 [日本語の取材へ](https://web.archive.org/web/20220818060424/https://magic.wizards.com/en/node/785921)
 
-![](https://i.ormos.uk/0c/d0/0cd0c475b69cb238c745c3aa46ccbdfb9e830e807a3c4d283e8d55e167ec3c31.jpg)Amateur Shinichi Kumagai has won Grand Prix - Sapporo! Fighting past a sea of pros with his blue-green Madness/Speculation hybrid, Kumagai managed 6-1-1 on Day 1 without the help of byes. Day 2 was just as spicy for the young man from Iwate. He won five straight and drew into the Top 8. His road to the finals was blocked by Satoshi Nakamura, one of the oldest names in Japanese pro Magic. He 2-0'd him. In the finals he faced Masahiko Morita, who lived up to his reputation as "Mr. Second Place". Kumagai, whose name is shockingly close to the Japanese name for the card [Bearscape](https://web.archive.org/web/20200803151944/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bearscape), continues the tradition of Japanese amateurs having breakout performances at domesting Grand Prix. Congratulations to Shinichi Kumagai, Grand Prix - Sapporo Champion!
+![](https://i.ormos.uk/0c/d0/0cd0c475b69cb238c745c3aa46ccbdfb9e830e807a3c4d283e8d55e167ec3c31.jpg)
+
+Amateur Shinichi Kumagai has won Grand Prix - Sapporo! Fighting past a sea of pros with his blue-green Madness/Speculation hybrid, Kumagai managed 6-1-1 on Day 1 without the help of byes. Day 2 was just as spicy for the young man from Iwate. He won five straight and drew into the Top 8. His road to the finals was blocked by Satoshi Nakamura, one of the oldest names in Japanese pro Magic. He 2-0'd him. In the finals he faced Masahiko Morita, who lived up to his reputation as "Mr. Second Place". Kumagai, whose name is shockingly close to the Japanese name for the card [Bearscape](https://web.archive.org/web/20200803151944/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bearscape), continues the tradition of Japanese amateurs having breakout performances at domesting Grand Prix. Congratulations to Shinichi Kumagai, Grand Prix - Sapporo Champion!
 
  
 

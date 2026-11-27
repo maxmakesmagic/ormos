@@ -624,17 +624,23 @@ These two guys, with eyes keenly directed towards Chicago, have been going back 
 
 How good is Elvish Warrior?
 
-![](https://i.ormos.uk/3f/06/3f0637410cfd6d2ce67ff1f7c5c9486dcfad264d370c3350dcf5a5cc0f4afbe4.jpg)It looks simple enough. 2/3 for ![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif)![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif). Elf. That is all. It’s no Mongrel, it doesn’t have the power. It’s no Grizzly Bear; it has a toughness of three in a 2/2 environment. It’s no fun to play with when you only have eight forests in your deck, and that’s what makes it so difficult to rate: it’s not quite like any other card that’s ever come down to us before, at least not in the context of its environment. 
+![](https://i.ormos.uk/3f/06/3f0637410cfd6d2ce67ff1f7c5c9486dcfad264d370c3350dcf5a5cc0f4afbe4.jpg)
+
+It looks simple enough. 2/3 for ![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif)![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif). Elf. That is all. It’s no Mongrel, it doesn’t have the power. It’s no Grizzly Bear; it has a toughness of three in a 2/2 environment. It’s no fun to play with when you only have eight forests in your deck, and that’s what makes it so difficult to rate: it’s not quite like any other card that’s ever come down to us before, at least not in the context of its environment. 
 
 Ken’s is the less-popular opinion. Banking on the wisdom of Joe Crosby, who Ken has referred to as possibly the strongest **Magic** theorist in the world (with no offense to Joe, who does have a keen appreciation and understanding of the game, I think Ken needs to have a few more conversations with misters Baberowski and Ormerod). Krouner, who admits in his articles he doesn’t especially like green, insists that the Warrior’s plusses with regards to tempo and mana curve are great enough to warrant taking it over such cards as Krosan Tusker (but not Dragon Roost, as many have mistakenly assumed). Eisel essentially calls Ken a moron for thinking this way.
 
-![](https://i.ormos.uk/70/bb/70bb75037137f019e6ac8b7ac8fecc270820885a640f8ed22b44d8b2b664647c.jpg)While Ken makes some valid points, such as the environment being tempo-based and the Warrior proving all powerful when cast on turn two, I can’t agree with his ranking of the card as high as he does in general situations. There are specific times where I’ll take the Warrior over the Tusker, namely packs two and three when I know I’ll be running green as my base color with an elf theme, but picking Warrior over Tusker in the first few picks of your draft limits your options and closes some doors. You don’t want to do that in Limited. Constructed play allows pickiness. You choose the cards, you know what you’ll be facing and you can build your deck accordingly. In Limited, Constructed kings become paupers, forced to feed off the scraps that others give them. The best way to ensure a solid-to-great deck is to leave your options open, see what patterns the draft is providing and ride those patterns’ coat tails. Tusker not only leaves your options open: it provides a few new ones. The Warrior, which really needs ten forests (or Tranquil Thickets) in a deck to be cast reliably on turn two when playing first (and reliably is a shaky term at best), ends speculation as to which direction your deck is heading. It’s not powerful enough to make doing so worthwhile.
+![](https://i.ormos.uk/70/bb/70bb75037137f019e6ac8b7ac8fecc270820885a640f8ed22b44d8b2b664647c.jpg)
+
+While Ken makes some valid points, such as the environment being tempo-based and the Warrior proving all powerful when cast on turn two, I can’t agree with his ranking of the card as high as he does in general situations. There are specific times where I’ll take the Warrior over the Tusker, namely packs two and three when I know I’ll be running green as my base color with an elf theme, but picking Warrior over Tusker in the first few picks of your draft limits your options and closes some doors. You don’t want to do that in Limited. Constructed play allows pickiness. You choose the cards, you know what you’ll be facing and you can build your deck accordingly. In Limited, Constructed kings become paupers, forced to feed off the scraps that others give them. The best way to ensure a solid-to-great deck is to leave your options open, see what patterns the draft is providing and ride those patterns’ coat tails. Tusker not only leaves your options open: it provides a few new ones. The Warrior, which really needs ten forests (or Tranquil Thickets) in a deck to be cast reliably on turn two when playing first (and reliably is a shaky term at best), ends speculation as to which direction your deck is heading. It’s not powerful enough to make doing so worthwhile.
 
 Regardless of the strength of a turn-two Warrior, which I am not debating, its weakness beyond turn five does matter more than Ken gives credit for. Nick goes a little further, suggesting it’s not as great on turn two as Ken wants it to be because of off-color one-drops, but in a format where there are usually four red and four black drafters at a given table, more often than not, your decks should be based in one of the other three colors with red or black as support and, as a result, you shouldn’t be worrying as much about casting the little men on turn one.
 
 Of course, with all that said, there are a lot of other cards with little trees in the upper right hand corner that should be addressed. Green doesn’t want to be paired with white unless the packs are insistent to the utmost, but otherwise can pair well with any of the other colors, almost always as your base. That means you want most of your creatures and 13-17 cards to be cast via the forest. Keep that and the fact this list concentrates on first pack value in mind when checking out the following ranking of the green cards in the set:
 
-![](https://i.ormos.uk/50/39/50398dde7d4a66cac33cee8ab38f72e06f19c3a00994ae9122de449a557913c9.jpg)Silvos, Rogue Elemental – How shocking to see a pit fighter topping this list! Pound for pound, Silvos is a ridiculous card. I’d always be happy with a generic 8/5 for six. The trample/regeneration is just gravy.
+![](https://i.ormos.uk/50/39/50398dde7d4a66cac33cee8ab38f72e06f19c3a00994ae9122de449a557913c9.jpg)
+
+Silvos, Rogue Elemental – How shocking to see a pit fighter topping this list! Pound for pound, Silvos is a ridiculous card. I’d always be happy with a generic 8/5 for six. The trample/regeneration is just gravy.
 
 Silklash Spider – Is the Spider really better than Kamahl? I can’t really say for sure, but it’s cheaper, less color intensive and harder to kill. I’ll take ‘em both.
 
@@ -646,7 +652,9 @@ Hystrodon – My logic for ranking the 3/4 behind Baloth is that it can become i
 
 Venomous Brackus – Without the morph, the Brackus would be a little small for its cost, but still very powerful against half the field. With the morph, it adds an element of surprise and speed that just don’t seem within the realm of good taste. Awesome.
 
-![](https://i.ormos.uk/3b/88/3b882bf1d2361e82793c09cafb9d3643e90bd9063c5390b57570b92d0c05c644.jpg)Mythic Proportions – If you cast it and it resolves, you generally win, but as a creature enchantment it comes with the card-disadvantage-if… drawback. I don’t think there’s been a spell made in the last few years I’d less like to have Meddled.
+![](https://i.ormos.uk/3b/88/3b882bf1d2361e82793c09cafb9d3643e90bd9063c5390b57570b92d0c05c644.jpg)
+
+Mythic Proportions – If you cast it and it resolves, you generally win, but as a creature enchantment it comes with the card-disadvantage-if… drawback. I don’t think there’s been a spell made in the last few years I’d less like to have Meddled.
 
 Snarling Undorak – While the Undorak isn’t as good as the best black, red or white commons, it not only provides the ultimate tempo jumpstart, but also proves a powerhouse in the late game if you have any number of beasts. A great all-around card.
 
@@ -660,7 +668,9 @@ Wirewood Savage – Funny how the Savage can never attack or block, but is still
 
 Gigapede – Obviously best in a high kill deck, the presence of Battering Craghorn and Daru Lancer limits its value.
 
-![](https://i.ormos.uk/1d/0b/1d0b3d6ba9e9eed9da5ebc21511bc8b23ad1a6ccd9ca4fd1400fef046db63a8b.jpg)Spitting Gourna – Gourna, Mauler, Mauler, Gourna. The Mauler is the better offensive threat, but the Gourna is one of those very rare green solutions to flying. That gives it the edge.
+![](https://i.ormos.uk/1d/0b/1d0b3d6ba9e9eed9da5ebc21511bc8b23ad1a6ccd9ca4fd1400fef046db63a8b.jpg)
+
+Spitting Gourna – Gourna, Mauler, Mauler, Gourna. The Mauler is the better offensive threat, but the Gourna is one of those very rare green solutions to flying. That gives it the edge.
 
 Barkhide Mauler – I’d rather play an off-color morph than an otherwise useless cycling card. Get yourself a Lightning Rift, Invigorating Boon or Astral Slide and this guy passes his double green brother.
 
@@ -672,7 +682,9 @@ Krosan Tusker – Glass is half full: solves mana problems, gives you a fatty. G
 
 Elvish Warrior – See the thousand words I wrote earlier.
 
-![](https://i.ormos.uk/c2/ba/c2ba4fffec27d6ea9338e0c0b74b088a1710449517608e6f52438705d5b704c6.jpg)Towering Baloth – The best of the ridiculously large green morph guys in my opinion, combines the Colossus’s hard-to-kill qualities with the Lorian’s can-actually-expect-to afford-morphing-it-this-game-ness.
+![](https://i.ormos.uk/c2/ba/c2ba4fffec27d6ea9338e0c0b74b088a1710449517608e6f52438705d5b704c6.jpg)
+
+Towering Baloth – The best of the ridiculously large green morph guys in my opinion, combines the Colossus’s hard-to-kill qualities with the Lorian’s can-actually-expect-to afford-morphing-it-this-game-ness.
 
 Krosan Colossus – It’s still close though. Too bad this guy stops on a dime.
 
@@ -684,7 +696,9 @@ Wirewood Elf – Once you start getting beasts, the Elf passes the big dumb morp
 
 Symbiotic Wurm – I really don’t know if this is right. It is huge but it’s so slow and I’m tempted to drop it way further down the list. Makes Sandskin a true beating.
 
-![](https://i.ormos.uk/3d/3e/3d3e1de2ca5f17e9bc2bebcfa991837075f5f28127efbaa80b97368565df79d8.jpg)Wellwisher – Tough one. It’s a common card that’s usually kind of pointless, but occasionally just wins a game. As a result, everyone knows they have to stop it, meaning it never wins the game, instead it trades for a kill spell. Guess that’s not a bad thing.
+![](https://i.ormos.uk/3d/3e/3d3e1de2ca5f17e9bc2bebcfa991837075f5f28127efbaa80b97368565df79d8.jpg)
+
+Wellwisher – Tough one. It’s a common card that’s usually kind of pointless, but occasionally just wins a game. As a result, everyone knows they have to stop it, meaning it never wins the game, instead it trades for a kill spell. Guess that’s not a bad thing.
 
 Krosan Groundshaker – This guy is why the Symbiotic Wurm is ranked where it is. Hard for me to love with so many similar creatures doubling over as three mana morphs.
 
@@ -692,7 +706,9 @@ Serpentine Basilisk – Any morph that survives combat collisions with other mor
 
 Symbiotic Elf – Moves way up in green-black. If nothing else, he can soak up 10-12 points of damage while you beat down with everyone else.
 
-![](https://i.ormos.uk/1f/9d/1f9dcc25f31e6219c90a0490b980d5fd5bddd19139bbdca65ca11af2059bb575.jpg)Tribal Unity – Eric Froelich first picks it. Kai Budde doesn’t play it. I belong to the Kai school on this one, but know I am underdrafting it, so I put it here. Use your discretion.
+![](https://i.ormos.uk/1f/9d/1f9dcc25f31e6219c90a0490b980d5fd5bddd19139bbdca65ca11af2059bb575.jpg)
+
+Tribal Unity – Eric Froelich first picks it. Kai Budde doesn’t play it. I belong to the Kai school on this one, but know I am underdrafting it, so I put it here. Use your discretion.
 
 Explosive Vegetation – The vegetables can move way up in a hurry with a bunch of sevens or a third color in your deck. The ranking is irrelevant: if you need it, take it.
 
@@ -700,7 +716,9 @@ Invigorating Boon – A very good sideboard card against the Rift deck, the Boon
 
 Heedless One – Keep in mind that ranking tribal cards is generally pointless because they depend on deck synergy by nature, while we judge them on individual merits. Also, if you’re heavily invested in elves, this could come back, as it’s not too likely anyone else is.
 
-![](https://i.ormos.uk/81/d4/81d41f65bf1d3f03bf3f11efb85d8d06f2a89eb7d3bf8d123a9a10c4bdfb9933.jpg)Broodhatch Nantuko – It’s sort of like Symbiotic Elf, though not really. I think I like the ‘Hatch more than most… it’s definitely won me its share of games. Nice to attack with while morphed into a big wall of creatures. If they gang block, it’s game over.
+![](https://i.ormos.uk/81/d4/81d41f65bf1d3f03bf3f11efb85d8d06f2a89eb7d3bf8d123a9a10c4bdfb9933.jpg)
+
+Broodhatch Nantuko – It’s sort of like Symbiotic Elf, though not really. I think I like the ‘Hatch more than most… it’s definitely won me its share of games. Nice to attack with while morphed into a big wall of creatures. If they gang block, it’s game over.
 
 Wirewood Herald – Moves way up and down accordingly with your deck. Get a Savage and it’s worth playing, giving you one of those always-nice two-drops. Especially good with Symbiotic Elf and Husk.
 
@@ -708,7 +726,9 @@ Tempting Wurm – Eisel said this card is plainly better than Barkhide Mauler. G
 
 Wall of Mulch – A very good card in the wrong color at the wrong time. Goes against everything green is about. Will always be one of your 23 best cards on its individual merits, but is seldom worth putting in your deck.
 
-![](https://i.ormos.uk/99/03/9903d8b1f58b229afbacc65f692b9d8f7e3dcfac7bf06fc95ec0b3f2b958472a.jpg)Wirewood Pride – Once the presence of elves in your deck is established, the value shoots upwards. One mana kill spells are a good thing. Especially strong in the green mirror.
+![](https://i.ormos.uk/99/03/9903d8b1f58b229afbacc65f692b9d8f7e3dcfac7bf06fc95ec0b3f2b958472a.jpg)
+
+Wirewood Pride – Once the presence of elves in your deck is established, the value shoots upwards. One mana kill spells are a good thing. Especially strong in the green mirror.
 
 Voice of the Woods – Don’t be one of those guys who takes this first then drafts stupid elves for the rest of the draft. They only get to play one match.
 
@@ -720,7 +740,9 @@ Everglove Courier – I’m not a huge fan of the Couriers, who aren’t much go
 
 Steely Resolve – Awful against blue, the Resolve can nevertheless be very annoying in a tribe-heavy deck. It’s hard to kill someone when you can’t target their two Wellwishers or five other elves.
 
-![](https://i.ormos.uk/e7/36/e736a7268d2127551b4def203f5bbc5df5176823f721d718346cea79d2d97ffa.jpg)Naturalize – I consider it crucial to get one of these for your sideboard if you’re green, good to get one if you aren’t. Fortunately, as the common belief is that it shouldn’t be main decked, acquiring one isn’t too difficult.
+![](https://i.ormos.uk/e7/36/e736a7268d2127551b4def203f5bbc5df5176823f721d718346cea79d2d97ffa.jpg)
+
+Naturalize – I consider it crucial to get one of these for your sideboard if you’re green, good to get one if you aren’t. Fortunately, as the common belief is that it shouldn’t be main decked, acquiring one isn’t too difficult.
 
 Chain of Acid – Same deal as Naturalize, Chain of Acid provides the added benefit of destroying Contested Cliffs. Just be careful with casting it when your own pretty baubles are in play.
 
@@ -736,7 +758,9 @@ Run Wild – I’ve never run this main deck, though with high power attributes,
 
 Taunting Elf – No Ken, you do not almost always have to run this thing. No Laura, this is not a sealed deck bomb. No the rest of you, you should not play this on turn 1. Generally speaking, a bad card. I try to not draft it so others will make the mistake of playing it, and yes, it is almost always a mistake. Its power is zero people! 
 
-![](https://i.ormos.uk/ce/77/ce77d38d8002faff9f0de2d0b03de30383ce40e455f34915f45726e7fe7fe4c6.jpg)Bloodline Shaman – Basic math here: if you luck out and have ten beasts in your deck, which is pretty unlikely, you’ll get an ‘extra’ card one in four turns, except that the original card is a 1/1 that does nothing, so it’s just bad. I’ll run it with two Wellwishers and a couple of Lavamancer’s Skills, but that’s about it.
+![](https://i.ormos.uk/ce/77/ce77d38d8002faff9f0de2d0b03de30383ce40e455f34915f45726e7fe7fe4c6.jpg)
+
+Bloodline Shaman – Basic math here: if you luck out and have ten beasts in your deck, which is pretty unlikely, you’ll get an ‘extra’ card one in four turns, except that the original card is a 1/1 that does nothing, so it’s just bad. I’ll run it with two Wellwishers and a couple of Lavamancer’s Skills, but that’s about it.
 
 Elvish Guidance – A good sideboard card for the elf mirror, I’ve experimented with it in the main deck of elf-heavy Glade decks. The experiments proved futile.
 
@@ -748,7 +772,9 @@ Words of Wilding – Early in the game, you need to draw more lands. Later in th
 
 Elvish Pioneer – This card can be very annoying to your opponents on turn one. This card can be very annoying to you on turns 2-33.
 
-![](https://i.ormos.uk/2b/78/2b78b0c547efcf5e1f5566104ae4805b8399546c3de79245fa0ae88660ac7214.jpg)Kamahl’s Summons – It gives your opponent creatures, costs you a card while they get the men for free and has a far from spectacular effect. If you plan on having your opponent mulligan three times though, board it in.
+![](https://i.ormos.uk/2b/78/2b78b0c547efcf5e1f5566104ae4805b8399546c3de79245fa0ae88660ac7214.jpg)
+
+Kamahl’s Summons – It gives your opponent creatures, costs you a card while they get the men for free and has a far from spectacular effect. If you plan on having your opponent mulligan three times though, board it in.
 
 Elvish Pathcutter – I have never, ever boarded this card in. I stand by that decision.
 

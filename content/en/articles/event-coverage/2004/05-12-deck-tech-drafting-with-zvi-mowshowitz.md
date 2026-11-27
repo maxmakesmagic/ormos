@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mi04/dt1_1.jpg)Mr. Zvi Mowshowitz (now half the man he used to be… literally) sat down this morning for an Eighth Edition Rochester draft tied for second place at 4-2. The table:
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mi04/dt1_1.jpg)
+
+Mr. Zvi Mowshowitz (now half the man he used to be… literally) sat down this morning for an Eighth Edition Rochester draft tied for second place at 4-2. The table:
 
 1\. Jens Thoren  
  2. Jon Finkel  

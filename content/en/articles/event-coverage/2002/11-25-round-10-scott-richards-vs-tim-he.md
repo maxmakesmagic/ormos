@@ -44,7 +44,9 @@ archive_source:
   sha256: 4b9a4a1b3c8ca1f58b7af894affc41b069beba961983cb49343bfb43f87a8940
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmel02/a905.jpg)Both players had 1-1 records in this pod coming into this match, the loser on theis match having a considerably more daunting task ahead of them. The winner would still have much to do but a 1-2 draft can be momentum destroying.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmel02/a905.jpg)
+
+Both players had 1-1 records in this pod coming into this match, the loser on theis match having a considerably more daunting task ahead of them. The winner would still have much to do but a 1-2 draft can be momentum destroying.
 
 ### Game 1
 

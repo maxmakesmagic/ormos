@@ -66,7 +66,9 @@ render_recovery: []
 
 ### Un nouveau genre de rubrique
 
-![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)Magic Academy est une nouvelle rubrique conçue spécialement pour aider les nouveaux joueurs à prendre du galon en leur apprenant les nuances du jeu et en leur présentant les vastes ressources qui leur sont disponibles sur internet. L'avantage de Magic Academy, c'est que les articles sont écrits dans l'ordre, comme les chapitres d'un livre. La rubrique commence avec le « B.A-ba », avec des sujets comme « Anatomie d'une carte **Magic** » et « Construire votre premier deck ». Comme tout est dans l'ordre, chaque nouvel article utilise ce que vous avez appris dans les rubriques précédentes de la série. Cette rubrique a commencé le 15 juillet 2006, et de nouveaux articles seront publiés régulièrement. Vous pouvez utiliser le sommaire ci-dessous pour commencer au début, ou choisir le sujet qui vous paraît correspondre le mieux à votre niveau d'expérience du jeu. 
+![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)
+
+Magic Academy est une nouvelle rubrique conçue spécialement pour aider les nouveaux joueurs à prendre du galon en leur apprenant les nuances du jeu et en leur présentant les vastes ressources qui leur sont disponibles sur internet. L'avantage de Magic Academy, c'est que les articles sont écrits dans l'ordre, comme les chapitres d'un livre. La rubrique commence avec le « B.A-ba », avec des sujets comme « Anatomie d'une carte **Magic** » et « Construire votre premier deck ». Comme tout est dans l'ordre, chaque nouvel article utilise ce que vous avez appris dans les rubriques précédentes de la série. Cette rubrique a commencé le 15 juillet 2006, et de nouveaux articles seront publiés régulièrement. Vous pouvez utiliser le sommaire ci-dessous pour commencer au début, ou choisir le sujet qui vous paraît correspondre le mieux à votre niveau d'expérience du jeu. 
 
 ### À qui s'adresse Magic Academy »?
 

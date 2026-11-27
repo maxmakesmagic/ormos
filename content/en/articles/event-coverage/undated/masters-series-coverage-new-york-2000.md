@@ -48,7 +48,9 @@ render_recovery:
 ---
 ## Masters Series Coverage: New York 2000
 
-![](https://i.ormos.uk/0e/5a/0e5a93108767717a839f620079675985c8a3fcb69b2069ed312981b76a74ef6c.jpg)William Jensen's Spike Weaver and Quirion Ranger began a steady assault on Jason Zila, and four turns later had put an end to Zila's hopes of becoming the first Masters winner. Jensen was crowned the Masters champion after the biggest and most unexpected upset of the Pro Tour New York weekend.
+![](https://i.ormos.uk/0e/5a/0e5a93108767717a839f620079675985c8a3fcb69b2069ed312981b76a74ef6c.jpg)
+
+William Jensen's Spike Weaver and Quirion Ranger began a steady assault on Jason Zila, and four turns later had put an end to Zila's hopes of becoming the first Masters winner. Jensen was crowned the Masters champion after the biggest and most unexpected upset of the Pro Tour New York weekend.
 
 Congratulations to both players for their great performance in the Masters, and especially to William Jensen, the 2000 New York Masters champion.
 

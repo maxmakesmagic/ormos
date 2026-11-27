@@ -73,7 +73,9 @@ render_recovery:
   - Null Brooch
   occurrences: 21
 ---
-![](http://www.wizards.com/sideboard/images/gphir03/a973.jpg)Japanese Magic speed demon Katsuhiro Mori was looking downright sedate compared to his usual pace of activity. With just two rounds of play left today he was forced to square off against friend and rival Akira Asahara. Widely considered the greatest force in Japanese constructed Magic, Asahara's influence is far-reaching. He shines at The Finals, with a Top 8 and Top 4 in recent years. At Pro Tour – Houston this year his talents earned him a Top 16 finish. Today he is with Tinker, a deck Mori's Psychatog fears. There was a brief discussion of an intentional draw, but they were soon shuffling up to play it out.
+![](http://www.wizards.com/sideboard/images/gphir03/a973.jpg)
+
+Japanese Magic speed demon Katsuhiro Mori was looking downright sedate compared to his usual pace of activity. With just two rounds of play left today he was forced to square off against friend and rival Akira Asahara. Widely considered the greatest force in Japanese constructed Magic, Asahara's influence is far-reaching. He shines at The Finals, with a Top 8 and Top 4 in recent years. At Pro Tour – Houston this year his talents earned him a Top 16 finish. Today he is with Tinker, a deck Mori's Psychatog fears. There was a brief discussion of an intentional draw, but they were soon shuffling up to play it out.
 
 ### Game 1
 
@@ -85,7 +87,9 @@ Asahara 1 – Mori 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gphir03/a976.jpg)Now it was Asahara's turn to mulligan. While Mori started with Urborg Volcano, Asahara one-upped him with Ancient Tomb, Grim Monolith and Voltaic Key. With Mori having played first, however, he had to wait for his next chance to act. Mori bought time by Icing Asahara's next play of Rshadan Port. However, he was still unable to stop Asahara's Tangle Wire.
+![](http://www.wizards.com/sideboard/images/gphir03/a976.jpg)
+
+Now it was Asahara's turn to mulligan. While Mori started with Urborg Volcano, Asahara one-upped him with Ancient Tomb, Grim Monolith and Voltaic Key. With Mori having played first, however, he had to wait for his next chance to act. Mori bought time by Icing Asahara's next play of Rshadan Port. However, he was still unable to stop Asahara's Tangle Wire.
 
 That gave Asahara free reign. He busted out Null Brooch with enough free to Port on Mori's next turn. Mori would have at most one untapped mana. Now all Asahara needed was something to kill him with. He did not get it. His Tangle Wire wore down and he replaced it with another, empty handed.
 

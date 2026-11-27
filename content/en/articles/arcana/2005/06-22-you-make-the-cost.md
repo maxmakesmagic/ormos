@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![Some white and white-blue instants and sorceries](https://i.ormos.uk/5f/b1/5fb19d9cf9327f7f2cdf231e3bb53fc0bef4e28b3899bd84b0a4f8eb320467aa.jpg)The mechanic is decided, and that means it's voting time again for **You Make the Card 3**! 
+![Some white and white-blue instants and sorceries](https://i.ormos.uk/5f/b1/5fb19d9cf9327f7f2cdf231e3bb53fc0bef4e28b3899bd84b0a4f8eb320467aa.jpg)
+
+The mechanic is decided, and that means it's voting time again for **You Make the Card 3**! 
 
 The showdown this time is between four type and mana cost options -- which will you pick? Sorcery or instant? White or white/blue?
 

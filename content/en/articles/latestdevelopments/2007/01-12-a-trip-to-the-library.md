@@ -118,7 +118,9 @@ render_recovery:
 
 The *Time Spiral* block is an odd duck in that each set plays to a theme that the other two do not. *Time Spiral* proper is about the past, *Planar Chaos* mainly focuses on alternate reality, and *Future Sight* is – well, let's not get into that now. Sure, the three sets have an overarching "nostalgia" theme, meaning they borrow heavily from **Magic's** past for most of their cards and mechanics, but the sets definitely ran the risk of feeling disjointed from one another because each executes on a theme so heavily.
 
-![Magus_of_the_Jar](https://i.ormos.uk/46/db/46dba8b4a5459da5dd86835df790f372205222101178ce1a0c4b491d24d97d47.jpg)The development team (well, most of it... replace Zvi with Rosewater and you have the right group) were having a day-long offsite meeting at a deli in Seattle, looking for ways to spruce the set up. And just as nostalgia guided many decisions in *Time Spiral*, the team looked to the past for possible answers. One way they came up to link the set to *Time Spiral* was to build on a popular cycle from that first set.
+![Magus_of_the_Jar](https://i.ormos.uk/46/db/46dba8b4a5459da5dd86835df790f372205222101178ce1a0c4b491d24d97d47.jpg)
+
+The development team (well, most of it... replace Zvi with Rosewater and you have the right group) were having a day-long offsite meeting at a deli in Seattle, looking for ways to spruce the set up. And just as nostalgia guided many decisions in *Time Spiral*, the team looked to the past for possible answers. One way they came up to link the set to *Time Spiral* was to build on a popular cycle from that first set.
 
 The Magus cycle in *Time Spiral* was a late addition, making popular, powerful old artifacts into creatures with identical converted mana costs and abilities, and they were a big hit. So *Planar Chaos* decided to take a crack at another cycle of Magi that mimicked old powerful colorless cards, but this time their source material was not artifacts, but rather lands.
 
@@ -140,7 +142,9 @@ And just think... this guy has four other friends!
 
 ### Announcing Noah
 
-![](https://i.ormos.uk/61/c0/61c0eeccc84bfc903567439d37fb82fa83e8c306844053de6bf1af792ba2a5d8.jpg)You've all heard that we're bringing all three finalists from the Great Designer Search out here to work as interns. Well, we've added a fourth from the list of top finishers. Noah Weil, author of Limited Information here on our website, will be coming to R&D as a development intern next week. Noah showed great design potential, but he has also shown us great development skills in his card submissions, his writing, and in previous job interviews (he was the runner-up to Zvi for the *Time Spiral* development intern position). However, because Noah will be an employee now, he won't be able to compete in sanctioned events or, for ***Magic** Online*, ticketed events, which will make it progressively harder to write the column. Scott Johns and Kelly Digges assure me that they intend to keep Limited Information around if at all possible, so that means they'll need to find another columnist to replace Noah within the next month or two. I imagine you'll hear more on that as we find it out.
+![](https://i.ormos.uk/61/c0/61c0eeccc84bfc903567439d37fb82fa83e8c306844053de6bf1af792ba2a5d8.jpg)
+
+You've all heard that we're bringing all three finalists from the Great Designer Search out here to work as interns. Well, we've added a fourth from the list of top finishers. Noah Weil, author of Limited Information here on our website, will be coming to R&D as a development intern next week. Noah showed great design potential, but he has also shown us great development skills in his card submissions, his writing, and in previous job interviews (he was the runner-up to Zvi for the *Time Spiral* development intern position). However, because Noah will be an employee now, he won't be able to compete in sanctioned events or, for ***Magic** Online*, ticketed events, which will make it progressively harder to write the column. Scott Johns and Kelly Digges assure me that they intend to keep Limited Information around if at all possible, so that means they'll need to find another columnist to replace Noah within the next month or two. I imagine you'll hear more on that as we find it out.
 
 Welcome, Noah!
 

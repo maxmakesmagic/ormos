@@ -277,7 +277,9 @@ render_recovery:
   - Ray of Revelation
   occurrences: 1
 ---
-![](https://i.ormos.uk/92/4b/924b7e463193c48773608d58316c9f5ee853a14b155cc04da8b890729165ed40.jpg)Ken Krouner is an old school player, and was a friend of Team Sped, which included players such as Jamie Parke and Ben Farkas. The team isn't exactly active, but they do exist as a clan on Magic Online. Krouner has had a string of good finishes lately, including ninth at US Nationals and multiple Top 16s at Grand Prixs. He started 0-3 this tournament, but has gone on a tear since then, losing no matches. Pustilnik of course has Masters, Pro Tour and Grand Prix titles under his belt, but has yet to get a Pro Tour Top 8 this season. He's certainly proven himself capable of doing it, and he has never played on Sunday at Worlds.
+![](https://i.ormos.uk/92/4b/924b7e463193c48773608d58316c9f5ee853a14b155cc04da8b890729165ed40.jpg)
+
+Ken Krouner is an old school player, and was a friend of Team Sped, which included players such as Jamie Parke and Ben Farkas. The team isn't exactly active, but they do exist as a clan on Magic Online. Krouner has had a string of good finishes lately, including ninth at US Nationals and multiple Top 16s at Grand Prixs. He started 0-3 this tournament, but has gone on a tear since then, losing no matches. Pustilnik of course has Masters, Pro Tour and Grand Prix titles under his belt, but has yet to get a Pro Tour Top 8 this season. He's certainly proven himself capable of doing it, and he has never played on Sunday at Worlds.
 
 ### Game 1
 
@@ -296,7 +298,9 @@ Krouner- "I've got some bad news Mike...I've yet to lose a match where I lost th
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/worlds02/a776.jpg)Pustilnik mulliganed his opening hand once again. Krouner started with Careful Study, discarding another Careful Study and Roar of the Wurm. Quiet Speculation on the following turn got the other three Roars into the graveyard, and Krouner was in prime position to start spitting out 6/6 monsters every turn once he got to four lands. 
+![](http://www.wizards.com/sideboard/images/worlds02/a776.jpg)
+
+Pustilnik mulliganed his opening hand once again. Krouner started with Careful Study, discarding another Careful Study and Roar of the Wurm. Quiet Speculation on the following turn got the other three Roars into the graveyard, and Krouner was in prime position to start spitting out 6/6 monsters every turn once he got to four lands. 
 
 Pustilnik- "I don't like the way this is going."  
  Krouner- "I have no idea what you're talking about."
@@ -312,7 +316,9 @@ Pustilnik- 1 Krouner- 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/worlds02/a777.jpg)Krouner's first turn Careful Study got Wonder in the graveyard, while Pustilnik cast Wild Mongrel. Krouner answered back with Werebear, and got threshold rather easily thanks to Mental Notes. A Mongrel joined his side, and Pustilnik gained some card advantage with Deep Analysis. Pustilnik then put Wonder and Roar into his graveyard with the help of Careful Study, and had just enough mana to flashback the Roar right away. Aether Burst killed it off, and Pustilnik was visibly frustrated; he had Sylvan Safekeeper in hand, and had taken a gamble that didn't pay off. 
+![](http://www.wizards.com/sideboard/images/worlds02/a777.jpg)
+
+Krouner's first turn Careful Study got Wonder in the graveyard, while Pustilnik cast Wild Mongrel. Krouner answered back with Werebear, and got threshold rather easily thanks to Mental Notes. A Mongrel joined his side, and Pustilnik gained some card advantage with Deep Analysis. Pustilnik then put Wonder and Roar into his graveyard with the help of Careful Study, and had just enough mana to flashback the Roar right away. Aether Burst killed it off, and Pustilnik was visibly frustrated; he had Sylvan Safekeeper in hand, and had taken a gamble that didn't pay off. 
 
 Meanwhile, Krouner flashed back a Roar, and had the board in his favor for the moment. Pustilnik went digging with Deep Analysis, and played the Safekeeper, followed by Wild Mongrel. Krouner's Quiet Speculation drew Circular Logic from Pustilnik, who had to discard two cards before casting it to make sure Krouner couldn't pay for it. Krosan Reclamation shuffled Pustilnik's Wonder back, and that cleared the way for a lethal attack.
 

@@ -113,7 +113,9 @@ Nothing drives Rakdos crazier than seeing others try to live up to white’s ide
 
 ### What is the color's greatest strength and biggest weakness?
 
-![Dread_Slag](https://i.ormos.uk/f9/15/f9155d1ac22472b0985193a50d36a7b89eab21bbf92db04ba8b1271f33d7ccbe.jpg)Black/red’s greatest strength is a complete uncaring of the consequences of its actions. Oftentimes, people are held back by their own self-imposed limitations. Rakdos doesn’t have this problem.
+![Dread_Slag](https://i.ormos.uk/f9/15/f9155d1ac22472b0985193a50d36a7b89eab21bbf92db04ba8b1271f33d7ccbe.jpg)
+
+Black/red’s greatest strength is a complete uncaring of the consequences of its actions. Oftentimes, people are held back by their own self-imposed limitations. Rakdos doesn’t have this problem.
 
 Black/red’s greatest weakness? No self-control. When you live day-to-day doing what you want, it’s hard to learn any sense of discipline. Black/red often gets mad at itself for later realizing that it did something stupid. Not that it really slows black/red down, it just makes them angry. This, of course, only perpetuates the cycle as Rakdos can do real stupid things when it’s upset.
 
@@ -133,7 +135,9 @@ While the two colors do have a lot in common, they are not made of the same clot
 
 Now comes the fun part where I illuminate the guild through pop culture references. Fun, fun, fun.
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr241_picMain_en.jpg)**The Joker** – I don’t know if a more black/red character exists. He’s selfish, yet still driven by a compulsion to entertain himself. He likes killing, but only if he can do it in the most chaotic way possible. He even has the telltale insanity.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr241_picMain_en.jpg)
+
+**The Joker** – I don’t know if a more black/red character exists. He’s selfish, yet still driven by a compulsion to entertain himself. He likes killing, but only if he can do it in the most chaotic way possible. He even has the telltale insanity.
 
 **Elaine Benes (from *Seinfeld*)** – I promised that before the series was done, I’d place all four of the main characters from Seinfeld. I got a number of letters reminding me that I forgot Elaine. I hadn’t forgotten her, we just hadn’t gotten to the right column yet. Elaine is clearly black, as she, like most the characters on *Seinfeld*, is driven by selfishness. Time and time again Elaine demonstrates that she is motivated by what helps Elaine. Unlike Jerry and George though, Elaine is very much driven by her emotions. Elaine just can’t keep them under control. And they constantly get her in trouble. Black/red all the way.
 

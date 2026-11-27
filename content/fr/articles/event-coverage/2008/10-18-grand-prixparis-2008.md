@@ -48,7 +48,9 @@ render_recovery: []
 
   
 
-![](https://i.ormos.uk/3b/f6/3bf6c293a74b68816d0391df3ab6922452bfc683234ee75c0c96a4c5151ce877.jpg)**Bienvenus au Grand Prix Paris 2008 !**
+![](https://i.ormos.uk/3b/f6/3bf6c293a74b68816d0391df3ab6922452bfc683234ee75c0c96a4c5151ce877.jpg)
+
+**Bienvenus au Grand Prix Paris 2008 !**
 
 La saison des Grand Prix s’achève en beauté avec ce Grand Prix Paris ayant lieu à Eurodisney et rassemblant près de 2000 joueurs dans un cadre d’exception. Ceux-ci sont prêts à en découdre tout le week-end dans un tournoi sans merci, et tandis que seuls les 128 meilleurs progresserons vers le second jour, les autres ne seront pas en reste avec de nombreuses animations et tournois secondaires. Restez avec nous pour une couverture totale (et bilingue) de ce tournoi !
 

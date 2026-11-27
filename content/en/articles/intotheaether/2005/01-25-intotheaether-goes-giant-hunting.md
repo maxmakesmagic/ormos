@@ -364,7 +364,9 @@ Speaking of partners in crime...
 
 ### Guest Columnist Update
 
-![](https://i.ormos.uk/6a/99/6a997168cf71ca488ecbe99b3f9690fb2d97337f359f563971ad009977f74885.jpg)Likely as you are reading this, my [future guest columnist](/en/articles/intotheaether/2005/01-11-intotheaether-is-flipping-crazy) is toiling away at his or her article. I mentioned last week that I had narrowed the field from a hundred or so initial entries to a final five. Each of the five finalists have already received their instructions from me, and the deadline for their final drafts is Monday, January 31st. After that I'll pick the winner, and my guess is you'll see the results sometime in February.
+![](https://i.ormos.uk/6a/99/6a997168cf71ca488ecbe99b3f9690fb2d97337f359f563971ad009977f74885.jpg)
+
+Likely as you are reading this, my [future guest columnist](/en/articles/intotheaether/2005/01-11-intotheaether-is-flipping-crazy) is toiling away at his or her article. I mentioned last week that I had narrowed the field from a hundred or so initial entries to a final five. Each of the five finalists have already received their instructions from me, and the deadline for their final drafts is Monday, January 31st. After that I'll pick the winner, and my guess is you'll see the results sometime in February.
 
 In case you see (or know) them online, below are the five finalists, in no particular order. I've also included an excerpt from their initial e-mail to me to give you a taste of what angle each author brings to the contest. Without further adieu...
 

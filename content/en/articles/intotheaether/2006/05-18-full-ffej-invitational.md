@@ -1030,7 +1030,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/mi06/final_jeff1.jpg)As I checked in on the [**Magic** Invitational coverage](/en/events/2006/mi06/ruel-invokes-invitationalists-for-victory) day by day, I grew more and more excited for Jeff Cunningham. Not only was he my #1 choice for Scrye magazine's Writer's Pick, but I thought his card design was by far the coolest of the bunch! Of course, I'm letting my bias for cool green utility creatures show, but what's wrong with that?
+![](http://www.wizards.com/sideboard/images/mi06/final_jeff1.jpg)
+
+As I checked in on the [**Magic** Invitational coverage](/en/events/2006/mi06/ruel-invokes-invitationalists-for-victory) day by day, I grew more and more excited for Jeff Cunningham. Not only was he my #1 choice for Scrye magazine's Writer's Pick, but I thought his card design was by far the coolest of the bunch! Of course, I'm letting my bias for cool green utility creatures show, but what's wrong with that?
 
 No offense to eventual champ Antoine Ruel, but I was a little disappointed when Cunningham lost in the finals. Since I'm sure Antoine will be getting plenty of attention in the wake of his victory (perhaps even in this week's BDM column), I thought I'd check in with Jeff and get his thoughts on the **Magic** Invitational and ***Magic** Online*.
 

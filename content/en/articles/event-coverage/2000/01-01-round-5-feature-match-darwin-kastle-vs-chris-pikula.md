@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Matthew Vienneau* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/832.jpg)Darwin Kastle, with an unspectacular 1-3 record, brought his Ice Age, Legacy, Exodus to the table against Chris "Always Cheerful" Pikula and his mirror Ice Age, Legacy, Exodus deck. Chris immediately began complaining about how unfair it was to have to play the "master of survival" in the mirror match-up. Chris kept up a constant barrage of self-recrimination and complaints as he continued the match, making for an entertaining battle. As Chris put it - "Darwin knows how to play this deck - I don't." 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/832.jpg)
+
+Darwin Kastle, with an unspectacular 1-3 record, brought his Ice Age, Legacy, Exodus to the table against Chris "Always Cheerful" Pikula and his mirror Ice Age, Legacy, Exodus deck. Chris immediately began complaining about how unfair it was to have to play the "master of survival" in the mirror match-up. Chris kept up a constant barrage of self-recrimination and complaints as he continued the match, making for an entertaining battle. As Chris put it - "Darwin knows how to play this deck - I don't." 
 
 **Game 1** 
 

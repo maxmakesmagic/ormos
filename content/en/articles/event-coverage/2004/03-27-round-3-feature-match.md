@@ -44,7 +44,9 @@ archive_source:
   sha256: af8e3778349cc10ce34a61e779c7bbde417771831543a451c16488e3ab5d8552
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm1_1.jpg)This match pits the current Irish national champion, Meaney, against the former English National Champion, Ben Ronaldson. Meaney is running blue-black-red while Ronaldson has a green-black-red deck with the always useful Glissa.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm1_1.jpg)
+
+This match pits the current Irish national champion, Meaney, against the former English National Champion, Ben Ronaldson. Meaney is running blue-black-red while Ronaldson has a green-black-red deck with the always useful Glissa.
 
 Ronaldson won the die roll and thought for a bit before deciding to draw. Meaney was forced to mulligan and started with a [Arcbound Stinger](https://web.archive.org/web/20040327000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Stinger) and [Gold Myr](https://web.archive.org/web/20040327000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gold+Myr) before petering out. Ronaldson opened with a [Tanglewalker](https://web.archive.org/web/20040327000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tanglewalker) and then a glitch in his mana where he had to cast a Talisman delayed Glissa arriving for a turn. The elf bomb didn't hang around for long as a [Terror](https://web.archive.org/web/20040327000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terror) sent her packing.
 

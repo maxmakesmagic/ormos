@@ -133,7 +133,9 @@ render_recovery:
   - Volcanic Spray
   occurrences: 128
 ---
-![](https://i.ormos.uk/e6/66/e6667e8f31de43233e9cf017edbc541ebce47b0eb12836fb4f800c194ab1dec8.jpg)Former European champion Noah Boeken broke a bit of a lean patch recently with a win in GP Barcelona. His opponent, "broken" Jens Thoren is on a charge at the moment with back-to-back Top 8 finishes in PT San Diego and PT Osaka. The Swede is currently second in the PT player of the year race.
+![](https://i.ormos.uk/e6/66/e6667e8f31de43233e9cf017edbc541ebce47b0eb12836fb4f800c194ab1dec8.jpg)
+
+Former European champion Noah Boeken broke a bit of a lean patch recently with a win in GP Barcelona. His opponent, "broken" Jens Thoren is on a charge at the moment with back-to-back Top 8 finishes in PT San Diego and PT Osaka. The Swede is currently second in the PT player of the year race.
 
 "I'm playing broken Jens with a broken deck," Boeken said, knowing his opponent had Overrun and other good green cards.
 
@@ -147,7 +149,9 @@ The Imp nibbled away and a Faceless Butcher was on hand to take care of the firs
 
 Scrivener fetched back the Logic and Boeken swung back with the Imp and Butcher to knock Thoren to 8 life.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a969.jpg)The Swede replied by nipping off the Scrivener with a Firebolt and sending the Beast in to knock his Dutch opponent down to 12.
+![](http://www.wizards.com/sideboard/images/ptnice02/a969.jpg)
+
+The Swede replied by nipping off the Scrivener with a Firebolt and sending the Beast in to knock his Dutch opponent down to 12.
 
 The all out attacking cooled as Thoren brought in a Mad Dog and Boeken made a Looter. This left Boeken with only a swmap and island open and at end of turn Thoren made the strange play of taking out the Imp with a Sonic Seizure.
 
@@ -179,7 +183,9 @@ Boeken was stuck with only one island and a choice.
 
 That guess proved horribly wrong as Thoren tapped 5 mana for the broken spell. But Boeken wasn't finished as he revealed what the forest was for.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a972.jpg)"There's the sideboard, right there!" Boeken whooped as he tapped the forest and played Moment's Peace, completely nullifying what should have been Thoren's match winning attack.
+![](http://www.wizards.com/sideboard/images/ptnice02/a972.jpg)
+
+"There's the sideboard, right there!" Boeken whooped as he tapped the forest and played Moment's Peace, completely nullifying what should have been Thoren's match winning attack.
 
 A return attack dropped Thoren to two and Boeken countered Thoren's flashback Firebolt with the logic. Thoren had to bounce the Aven and a Sonic Seizure did that. It only bought him one extra turn though and that wasn't enough.
 

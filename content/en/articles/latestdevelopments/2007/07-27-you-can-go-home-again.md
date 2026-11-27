@@ -122,7 +122,9 @@ In a nutshell, what this amounts to is playing Constructed where the only cards 
 
 Of course, we managed to talk Chris into waiting until *Tenth Edition* came out, as it's always more fun to play with newer cards.
 
-![Tenth Edition Booster Display Box](https://i.ormos.uk/53/c7/53c7ad4a4ca25dc0e1e126595bb1d845875e926962b37018572d2e85742b3b19.jpg)So far, the league—since renamed the "You Can Go Home Again" League—has been a smashing success. In between meetings and formal playtests, I see people trading and playing their 10E decks against one another. On Friday afternoons, a large meeting room is blocked off for people to gather and play. And the funny thing is, *no one is keeping score!* There are no recorded wins and losses, no ratings, no standings, no prizes for winning, no ante, no additional boosters given away once you have some number of losses. That's why it's fun for me—I don't have to be competitive. Sure, I want a deck that can and does win some number of games, but if I lose no one is writing it down.
+![Tenth Edition Booster Display Box](https://i.ormos.uk/53/c7/53c7ad4a4ca25dc0e1e126595bb1d845875e926962b37018572d2e85742b3b19.jpg)
+
+So far, the league—since renamed the "You Can Go Home Again" League—has been a smashing success. In between meetings and formal playtests, I see people trading and playing their 10E decks against one another. On Friday afternoons, a large meeting room is blocked off for people to gather and play. And the funny thing is, *no one is keeping score!* There are no recorded wins and losses, no ratings, no standings, no prizes for winning, no ante, no additional boosters given away once you have some number of losses. That's why it's fun for me—I don't have to be competitive. Sure, I want a deck that can and does win some number of games, but if I lose no one is writing it down.
 
 I asked Chris for his motivation for creating the league and his thoughts on its success.
 

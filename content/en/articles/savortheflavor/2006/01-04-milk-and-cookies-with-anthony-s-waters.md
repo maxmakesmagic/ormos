@@ -83,7 +83,9 @@ Being that this is the first **Milk and Cookies**, things may be a little rough 
 
 We're at a local watering hole/eatery where we have agreed to meet for our chat. It's a charming place with a kind barkeep and warm torch sconces. Unfortunately, it is overrun by loud and boisterous drunken dwarves! Anthony and I have our swords with us but, after all, we are just a couple of art dorks- we'd stand no chance against a frothing horde of axe-wielding belchers. So we decide to press on with the art chat, adjusting our volume to be heard over the cacophony of ill-performed war ballads and odes to stone. Imagine in your heads that we were yelling through this entire interview.
 
-![](https://i.ormos.uk/86/ab/86aba8b9aada4018dd17bc6214fadfda69b9677b18ee3b182a72acc837298cc4.jpg)**MC**: Here's a fat one; What inspired you to become an artist? And why, specifically, a fantasy artist?
+![](https://i.ormos.uk/86/ab/86aba8b9aada4018dd17bc6214fadfda69b9677b18ee3b182a72acc837298cc4.jpg)
+
+**MC**: Here's a fat one; What inspired you to become an artist? And why, specifically, a fantasy artist?
 
 **AW**: Honestly? I've no idea what set me on this course. According to mum I started drawing as soon as a crayon was put in my hand. Apparently I ate them too, so maybe there's something in Crayola wax that got me going. I'm told I started sketching around age three.
 
@@ -144,7 +146,9 @@ Somewhere in there, right around '81 or '82, I started playing **D&D**. Most of 
 
 This probably wouldn't go over well.
 
-![](https://i.ormos.uk/0d/bd/0dbda99e4d8e89e8c82fae59e101c2d28b6b7d57ad25a2cbfd8ea715416c677f.jpg)**MC**: You've been doing **Magic** art a lot longer than I might originally have guessed. What was your very first **Magic** illustration?
+![](https://i.ormos.uk/0d/bd/0dbda99e4d8e89e8c82fae59e101c2d28b6b7d57ad25a2cbfd8ea715416c677f.jpg)
+
+**MC**: You've been doing **Magic** art a lot longer than I might originally have guessed. What was your very first **Magic** illustration?
 
 **AW**: My very first **Magic** card was for the first iteration of *Ice Age*, about a zillion years ago. (I think it was 1992?) It was called [Pale Bears](https://web.archive.org/web/20060104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pale+Bears), and it was the very first painting I got paid to do. My first published work was for *Legends*, in 1994. Gad, that WAS a long time ago. There I go, I'm old again. Stench.
 
@@ -194,7 +198,9 @@ I love doing stuff like this, being given the latitude to get as wild as I dare.
 
 ![](https://i.ormos.uk/2f/07/2f07f7f89e68b2e8e8971363635161b1b389c4f671f6e1a973edb635c78acd7a.jpg)
 
-![](https://i.ormos.uk/1c/f3/1cf3008b35f11b689fcd1bacb4089b4c9add6061efcd52b3f8ed74108d0219ce.jpg)**AW**: [Seed the Land](https://web.archive.org/web/20060104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seed+the+Land): I should start by saying I LOVE Ittoku Seta's concept work. His Orochi-bito count as one of the coolest races ever to appear in **Magic**, as far as I'm concerned. I jumped at every chance to paint them that came my way.
+![](https://i.ormos.uk/1c/f3/1cf3008b35f11b689fcd1bacb4089b4c9add6061efcd52b3f8ed74108d0219ce.jpg)
+
+**AW**: [Seed the Land](https://web.archive.org/web/20060104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seed+the+Land): I should start by saying I LOVE Ittoku Seta's concept work. His Orochi-bito count as one of the coolest races ever to appear in **Magic**, as far as I'm concerned. I jumped at every chance to paint them that came my way.
 
 Jeremy gave me the task of designing the Snakefolk's architecture. Their homes are big, inverted egg shapes with vertically-aligned interiors. This made the most sense to me, given their prehensile feet and reptilian lineage. You climb up into their houses. They have a central shaft where we'd have a central hallway. All of this was meant to play on what I felt their philosophy and faith might be, since these things are major factors in how aesthetics get determined. Practicality is also important, naturally, but when you consider this is a Japanese-inspired block, I decided to pack as much of their design sense into my architecture as I could. Classical Asian architecture (like similar architecture all over the world) has a strong emphasis on beauty and, following the tenets of Zen Bhuddism, simplicity. The homes are egg-shaped to suggest the analog of a womb. Communities are clustered like clutches of eggs, held together with bamboo frames that were heavily influenced by Japanese wickerwork.
 

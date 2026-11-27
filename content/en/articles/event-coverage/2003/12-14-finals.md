@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/a4/1e/a41ed2983b5de7d64cc8ba2787a9a926cbe4f758c214f443ffc1b1cf7596ce02.jpg)Ben pulled off an upset victory last round when he defeated Peter 'PTR' Szegeti in a grueling three game match that had PTR as the heavy favorite several different times during games two and three. He was playing the deck he seems embarrassed to admit he has dubbed The Dump Truck. It is similar to the Fiends deck that made the Top 8 of GP: Reims last year and has numerous silver bullets for every match-up.
+![](https://i.ormos.uk/a4/1e/a41ed2983b5de7d64cc8ba2787a9a926cbe4f758c214f443ffc1b1cf7596ce02.jpg)
+
+Ben pulled off an upset victory last round when he defeated Peter 'PTR' Szegeti in a grueling three game match that had PTR as the heavy favorite several different times during games two and three. He was playing the deck he seems embarrassed to admit he has dubbed The Dump Truck. It is similar to the Fiends deck that made the Top 8 of GP: Reims last year and has numerous silver bullets for every match-up.
 
 His opponent was going to walk away form this match with the most money regardless the outcome of their games. He was an amateur coming into this weekend's action-his greatest achievement to date had been winning the Oregon State Championships. He was playing Red Deck Wins and had just defeated fellow amateur Nick Meves playing a similar deck. He was looking over the decklist for Ben Rubin's rogue build and was quite nervous about games two and three of the match-up.
 

@@ -97,7 +97,9 @@ We'll be executed within the hour, master," said the apprentice. "We've got to t
 
 "And the last one you'll ever take," the master said quietly, as if far away. He watched as a beetle made its way across the stone floor to the bowl of gruel. The beetle paused at the lip of the bowl, its antennae wiggled briefly, and then it waddled off into the darkness of the cell.
 
-[![Persecute](https://i.ormos.uk/2c/8b/2c8b93891d7153acef7abef1e513641836de4348177394eaf36c803e4ebe1fa1.jpg)](https://web.archive.org/web/20080206000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Persecute)The apprentice held his knees and rocked back and forth on the rough stone, causing the leg irons to clink against one another. He must get his master to help him think a way out of this. He couldn't let this truly be their last hour.
+[![Persecute](https://i.ormos.uk/2c/8b/2c8b93891d7153acef7abef1e513641836de4348177394eaf36c803e4ebe1fa1.jpg)](https://web.archive.org/web/20080206000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Persecute)
+
+The apprentice held his knees and rocked back and forth on the rough stone, causing the leg irons to clink against one another. He must get his master to help him think a way out of this. He couldn't let this truly be their last hour.
 
 "I remember my first bond quest," said the master, his eyes far away. "I wasn't too much older than you are now, but my master was *ancient*. Despite her age, she took me to the Tornadic Steppes, way up in the northeast. It was even storm season, but she said that made it a purer source of white mana, and that I needed to learn about pure sources like that. She said all the mana around the Lyceum was dull and lifeless, and that it would never lead to any decent magic. I had formed simple bonds to the lands near the campus, of course—Lyceum Forest, the Wetland Trail. 'Prosaic,' she called them. So she took me up to the Steppes, and wind tore at our skin and hair, and I formed my first true mana bond. It was the year she died."
 
@@ -121,7 +123,9 @@ The master and the apprentice fell silent for a while. The master stared into sp
 
 "So, master, tell me again. How does the mage summon up mana from a far-off land? How can one retain a connection to that land, long after one has left its location? And how—"
 
-[![Manabond](https://i.ormos.uk/53/11/53110aa9170c4b033e5a6c1257c98b86f40b60cb6be052ec713cab66fbbbaa3d.jpg)](https://web.archive.org/web/20080206000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Manabond)The master scowled, shaken from his reverie. "That's the magic of the mana bond, boy. It's the cord that ties a mage to a mana source. Once a mage learns enough about a place, it touches something deep within him. As his soul awakens to it, it aligns itself with the timbre and rhythm of the place. Some people think of it as the connection between the stars, or as the structure of music. Druids call it 'hearing the voice of the land.' That's a poor analogy, but it's as close as anything else."
+[![Manabond](https://i.ormos.uk/53/11/53110aa9170c4b033e5a6c1257c98b86f40b60cb6be052ec713cab66fbbbaa3d.jpg)](https://web.archive.org/web/20080206000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Manabond)
+
+The master scowled, shaken from his reverie. "That's the magic of the mana bond, boy. It's the cord that ties a mage to a mana source. Once a mage learns enough about a place, it touches something deep within him. As his soul awakens to it, it aligns itself with the timbre and rhythm of the place. Some people think of it as the connection between the stars, or as the structure of music. Druids call it 'hearing the voice of the land.' That's a poor analogy, but it's as close as anything else."
 
 Three beetles scuttled across the cell floor toward the bowl of gruel. They climbed into the bowl, gathered tiny morsels of food in their jaws, then marched off again into the darkness.
 
@@ -155,7 +159,9 @@ In moments he had revealed a dusty hole in the wall about the size of his head, 
 
 He gasped.
 
-[![Deathlace](https://i.ormos.uk/44/b6/44b653649bd1349ee847e757b17eb52b6b38b16253df653ce90a86d016f9f84f.jpg)](https://web.archive.org/web/20080206000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Deathlace)There, showing through the hole as the debris fell away, was a human skull.
+[![Deathlace](https://i.ormos.uk/44/b6/44b653649bd1349ee847e757b17eb52b6b38b16253df653ce90a86d016f9f84f.jpg)](https://web.archive.org/web/20080206000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Deathlace)
+
+There, showing through the hole as the debris fell away, was a human skull.
 
 It was upside-down and dented by rocks. It must have been a prisoner from the adjacent cell, who had tried long ago to tunnel into the old stone between the cells. It was an escape thwarted by a cave-in—and after the man died in the attempt, they must have just patched over the hole, walling him up in there rather than extracting him for proper burial. This prison wall was the would-be escapist's coffin.
 
@@ -177,7 +183,9 @@ They turned to the apprentice and performed the same procedure. Sword-edge to th
 
 The apprentice looked up with dark fire in his eyes. The guard holding the sword groaned horribly as his gut inexplicably slashed open and intestines spilled out onto the cell floor. His sword clattered to the floor, and he collapsed in a heap like a marionette.
 
-[![Dark_Banishing](https://i.ormos.uk/7e/68/7e68567292436599d247ad1a3e22cbe127dc7ecd18784f4312579d89de226c88.jpg)](https://web.archive.org/web/20080206000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Dark%2BBanishing)The other guard looked on with horror, the keys shaking in his hand. He moved to draw his sword—but beetles had swarmed up his legs and torso, and were covering him. He tried to scream, but beetles clogged his throat. Each of them tore tiny morsels of skin away from the guard, and he withered before the apprentice's eyes. The beetles skeletonized the guard as he fell to the floor next to his cohort.
+[![Dark_Banishing](https://i.ormos.uk/7e/68/7e68567292436599d247ad1a3e22cbe127dc7ecd18784f4312579d89de226c88.jpg)](https://web.archive.org/web/20080206000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Dark%2BBanishing)
+
+The other guard looked on with horror, the keys shaking in his hand. He moved to draw his sword—but beetles had swarmed up his legs and torso, and were covering him. He tried to scream, but beetles clogged his throat. Each of them tore tiny morsels of skin away from the guard, and he withered before the apprentice's eyes. The beetles skeletonized the guard as he fell to the floor next to his cohort.
 
 Free of the shackles, the apprentice rubbed the raw skin on his wrists. "Master," he said. "It's time to go. It's like you said, master—mana can flow from any location, as long as it's important. Meaningful, like this prison. It doesn't take time—only *meaning*." He glanced at the prisoner's skull embedded in the wall. "Thank you," he whispered. "I'll remember you. I'll be connected with this place of death forever."
 

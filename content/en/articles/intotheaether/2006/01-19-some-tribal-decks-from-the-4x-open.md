@@ -1203,7 +1203,9 @@ render_recovery:
 
 ### Tribal Wars 4x, January 14, 2006
 
-![](https://i.ormos.uk/5c/56/5c561a07bd549f4a2305503b0be29cc38206079d68c8d63d874154fa1dba9e00.jpg)[Two weeks back](/en/articles/intotheaether/2006/01-05-checking-out-the-opens), I listed cards from *Mirage* sorted by creature types to help those looking to enhance their Tribal Wars decks. Just this past Saturday was a 4x Tribal Wars event, so I was naturally curious to see how that went. Lion's Eye Diamond has made a small splash, enabling the Human tribe's Auriok Salvagers' combo to generate infinite mana, and Goblin Tinkerer has given the Goblin tribe a solid answer to Umezawa's Jitte. 104 players showed up and when the smoke cleared, Wizards and Clerics split in the finals. *Wizards and Clerics?* Since when do studious bookworms rule Tribal battlefields? 
+![](https://i.ormos.uk/5c/56/5c561a07bd549f4a2305503b0be29cc38206079d68c8d63d874154fa1dba9e00.jpg)
+
+[Two weeks back](/en/articles/intotheaether/2006/01-05-checking-out-the-opens), I listed cards from *Mirage* sorted by creature types to help those looking to enhance their Tribal Wars decks. Just this past Saturday was a 4x Tribal Wars event, so I was naturally curious to see how that went. Lion's Eye Diamond has made a small splash, enabling the Human tribe's Auriok Salvagers' combo to generate infinite mana, and Goblin Tinkerer has given the Goblin tribe a solid answer to Umezawa's Jitte. 104 players showed up and when the smoke cleared, Wizards and Clerics split in the finals. *Wizards and Clerics?* Since when do studious bookworms rule Tribal battlefields? 
 
 1st Place: SmokesMcCloaks, Monowhite Clerics  
  2nd Place: sibist, U/W/B No-Stick Wizards  

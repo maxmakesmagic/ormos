@@ -54,7 +54,9 @@ render_recovery: []
 ---
 Well, this year just keeps getting weirder and weirder. Eight months ago, I got rejected at the English border. Two months ago, I discovered while at the U.S. border that I couldn’t work for WotC while in the United States and now…
 
-![](https://i.ormos.uk/fc/e0/fce0b3f7362720d0a4a6db2bcb52f6c5723a2e944626e42badf6503296f86718.jpg)Oh man. You’re not going to believe this one. 
+![](https://i.ormos.uk/fc/e0/fce0b3f7362720d0a4a6db2bcb52f6c5723a2e944626e42badf6503296f86718.jpg)
+
+Oh man. You’re not going to believe this one. 
 
 On the afternoon of May 23rd, I went to North York General Hospital to pick up some medication. Of course, this being Toronto and SARS being the big deal it is, they forced me to go through a rigorous screening process in order to gain entrance to the building. I passed with flying colors, no big deal, attended to my business and was out of there in twenty minutes.
 
@@ -74,13 +76,17 @@ There they are folks, the Masters in all their glory. Each player on that list e
 
 ### The Winners
 
-![](http://www.wizards.com/sideboard/images/pthou02/528.jpg)Over the years, Ben Rubin has been accepted as the king of the Masters. The man won two of the things in the first year of the Masters run, sandwiching a 2-1 performance between the two of them. 12-1 in the Masters. Think about how good that must feel. Almost as good as receiving multiple $20,000 checks I’d imagine. Almost.
+![](http://www.wizards.com/sideboard/images/pthou02/528.jpg)
+
+Over the years, Ben Rubin has been accepted as the king of the Masters. The man won two of the things in the first year of the Masters run, sandwiching a 2-1 performance between the two of them. 12-1 in the Masters. Think about how good that must feel. Almost as good as receiving multiple $20,000 checks I’d imagine. Almost.
 
 Rubin’s numbers are pretty impressive: 12-4 over six events, and average income of over $10,000 from them, and yet, one can’t help but notice that those numbers pale by comparison in all aspects to Ryan Fuller’s.
 
 Now, those who are familiar with the Pro Tour’s personalities will likely point at Fuller’s numbers and scream “CHEATS!” After all, the man has been disqualified from two Pro Tours, served a suspension and hardly carries with him the most sterling of reputations, but think about what he did with those few opportunities he had: 13-3, $62,000 over five events. That’s over $12,000 (better than a Semifinal finish) per tournament. Yes, those numbers were aided by his win in the Team Masters in Tokyo, but that record came against some of the finest players in the world, most of them being experienced enough in tournament play that Fuller’s supposed tactics would definitely be handicapped, and if they lacked that experience, the abnormally high judge:player ratios of the Masters meant there was always someone watching, especially for a guy with a rep like Ryan’s. Of all the players to ever participate, he’ll be the saddest to see the Masters go.
 
-![](http://www.wizards.com/sideboard/images/Worlds2001/699.jpg)Third on the all-time Masters money list was Bob Maher, he of the win-to-finish-things-up in Yokohama. Before Japan, he was still averaging a little more than the average Masters payout of $5,000 for each performance, but the win at the end sent his numbers through the roof. Fuller’s teammate Chris Benafel comes fifth on the list with $45,000, thanks largely to his New Orleans Finals appearance and ABU’s Tokyo win.
+![](http://www.wizards.com/sideboard/images/Worlds2001/699.jpg)
+
+Third on the all-time Masters money list was Bob Maher, he of the win-to-finish-things-up in Yokohama. Before Japan, he was still averaging a little more than the average Masters payout of $5,000 for each performance, but the win at the end sent his numbers through the roof. Fuller’s teammate Chris Benafel comes fifth on the list with $45,000, thanks largely to his New Orleans Finals appearance and ABU’s Tokyo win.
 
 Among those with fewer appearances, it’s the members of Venice Champions PS2 who really came out of this thing shining. Katsuhiro Mori, Masahiko Morita and Masahiro Kuroda each played in exactly one Masters and walked away with $20,000 for their trouble. Rough life huh? Elijah Pollock, Steve Wolfman and Dave Rood, whose 2020 were defeated by PS2 in the finals, each came away with $10,000 apiece for their one Masters.
 

@@ -1964,7 +1964,9 @@ Pretty simple, right? Folks like Aaron Forsythe had been telling me how much the
 
 ### Strategy 1: The Archetype
 
-![](https://i.ormos.uk/f9/ff/f9ff246282415f7d96da0e7575e58a91bafe4a2d091b907ec560cd6d77bd9084.jpg)One natural way to think about building a Singleton deck is translating an existing decktype or strategy to the Singleton format. Aaron did something like this with [his Reanimator deck](/en/articles/latestdevelopments/2004/04-30-a-mixed-bag) a while back. The trick here is twofold.
+![](https://i.ormos.uk/f9/ff/f9ff246282415f7d96da0e7575e58a91bafe4a2d091b907ec560cd6d77bd9084.jpg)
+
+One natural way to think about building a Singleton deck is translating an existing decktype or strategy to the Singleton format. Aaron did something like this with [his Reanimator deck](/en/articles/latestdevelopments/2004/04-30-a-mixed-bag) a while back. The trick here is twofold.
 
 First, you have to identify which strategy you're pursuing. Is this a White Weenie deck? A Madness-Threshold deck? Affinity? Goblins? Pick a strategy, think through how decklists for that strategy have evolved over time, and then build your deck using these cards as a base. For my purposes, I decided to try a Monoblue Control deck to see if I could pull it off in Singleton.
 
@@ -1994,7 +1996,9 @@ Note that this deck isn't a lot of fun to play against. I got so caught up in th
 
 ### Strategy 2: Embrace The One
 
-![](https://i.ormos.uk/68/7f/687f8f0877dfe9be2dca104bc50ab6357a04a0212ebfa74536c1c0eed50e0919.jpg)A completely different strategy is to realize that Singleton is about variation in form and function. If you're only allowed one copy of each card, why not pick a very loose theme and go from there? It's no wonder that the best example of this approach comes from Mark Gottlieb, who took the idea of a 5-color Legacy Weapon deck and [applied it](/en/articles/houseofcards/2004/04-29-doctor-wombats-wild-ride) to Singleton. Note that Mark's deck has a consistent approach of a) getting access to all five colors of mana, and b) using five colors to his advantage. It's just that what he does with his five colors--from Legacy Weapon to Atogatog to Tribal Flames to Draco to Cromat to Global Ruin--varies tremendously. It's easy to anticipate that five games with Mark's deck would all play themselves out in very different ways.
+![](https://i.ormos.uk/68/7f/687f8f0877dfe9be2dca104bc50ab6357a04a0212ebfa74536c1c0eed50e0919.jpg)
+
+A completely different strategy is to realize that Singleton is about variation in form and function. If you're only allowed one copy of each card, why not pick a very loose theme and go from there? It's no wonder that the best example of this approach comes from Mark Gottlieb, who took the idea of a 5-color Legacy Weapon deck and [applied it](/en/articles/houseofcards/2004/04-29-doctor-wombats-wild-ride) to Singleton. Note that Mark's deck has a consistent approach of a) getting access to all five colors of mana, and b) using five colors to his advantage. It's just that what he does with his five colors--from Legacy Weapon to Atogatog to Tribal Flames to Draco to Cromat to Global Ruin--varies tremendously. It's easy to anticipate that five games with Mark's deck would all play themselves out in very different ways.
 
 This approach really taps into the heart of Singleton, it seems to me. The trick is finding a loose theme or mechanic capable of supporting a sixty-card Singleton deck. The theme I picked was +1/+1 counters. What are all of the fun things I can do with +1/+1 counters these days, I asked myself. Here is how myself answered:
 

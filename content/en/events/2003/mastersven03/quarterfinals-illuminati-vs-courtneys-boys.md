@@ -104,7 +104,9 @@ render_recovery:
   - Hundroog
   occurrences: 109
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a384.jpg)When Sideboard photographer Craig Cudnohufsky came over to photograph Courtney's Boys he sent Neil Reeves into a manic self-pat down. "Wait, wait, wait! I gotta find the toothpick, dagnabbit!" With toothpick in mouth and photo taken the two teams were still not ready to get down to the business of settling the pre-play trash talk.
+![](http://www.wizards.com/sideboard/images/ptven03/a384.jpg)
+
+When Sideboard photographer Craig Cudnohufsky came over to photograph Courtney's Boys he sent Neil Reeves into a manic self-pat down. "Wait, wait, wait! I gotta find the toothpick, dagnabbit!" With toothpick in mouth and photo taken the two teams were still not ready to get down to the business of settling the pre-play trash talk.
 
 Alex needed caffeine to fend off his jet lag and he tried to suck down a slug of European coffee but could not manage more than a disgusted sip. TOGIT member swung by with another cup for Gary Wise but it was intercepted by Bob Maher who wanted to add sweetener before it got to the—how shall we say...finicky?—Gary. Confused by the fuss over the coffee, Gary asked, "You're not spitting in it are you?" 
 
@@ -175,7 +177,9 @@ As the peanut gallery swelled to see if Bob could come back from the brink of el
 
 Alex came roaring out of the gate with one of his many Elvish Warriors but Bob had last game's MVP the Starlight Invoker to slow him down. Perhaps wanting to get revenge for that game Alex cycled his Primal Boost to kill the 1/3 cleric. Bob played a face down guy and Alex played another Warrior and a Starlight Invoker. "We tested this deck," quipped Gary. Bob made the 3/3 Daru Stinger that Alex professed no fear for prior to the beginning of the match showing a Dive Bomber and a Gempalm Avenger. 
 
-![](http://www.wizards.com/sideboard/images/ptven03/a385.jpg)Alex played a Krosan Vorine but he was stuck on four lands and had some expensive spells he wanted to cast including a Murlodont. Dive Bomber hit play on Bob's team and Alex went in search of a fifth land with a Sage Aven. There were none to be found in his next four draws and while he pondered the order to put them back in Bob offered a little bit of advice, "You really shouldn't wear glasses when you play Magic, Alex." Williams chimed in with, "They didn't call them Glasses of Urza for nothing." Alex took off his glasses but when he couldn't make out the cards in play clearly he put them back on.
+![](http://www.wizards.com/sideboard/images/ptven03/a385.jpg)
+
+Alex played a Krosan Vorine but he was stuck on four lands and had some expensive spells he wanted to cast including a Murlodont. Dive Bomber hit play on Bob's team and Alex went in search of a fifth land with a Sage Aven. There were none to be found in his next four draws and while he pondered the order to put them back in Bob offered a little bit of advice, "You really shouldn't wear glasses when you play Magic, Alex." Williams chimed in with, "They didn't call them Glasses of Urza for nothing." Alex took off his glasses but when he couldn't make out the cards in play clearly he put them back on.
 
 Bob went to work with his Dive Bomber and played his Flamewave Innvoker. Keeneye Aven joined Alex's team and when Bob swung in with Dive Bomber he double blocked with both Sage and Keeneye Avens. Bob shot Alex's Bird Soldier with his Stinger and finished it off with an umorphed marauder. With the soldier out of the way he then cycled the Gempalm and killed the Sage Aven as well.
 

@@ -423,7 +423,9 @@ render_recovery:
 ---
 * * *
 
-![Tim Aten](http://wizards.com/sideboard/images/ptsd04/fm27_1.jpg)If there's one thing beloved Internet curmudgeon Tim Aten can't stand, it's being in a Feature Match. He even came to the table armed with a statue of a young version of himself holding a sign reading "I Hate You". Opposite him, resplendent in his red Che Guevara T-shirt is none other than Ben Rubin, the two-time Masters Champion. Both players are at 9-4-1.
+![Tim Aten](http://wizards.com/sideboard/images/ptsd04/fm27_1.jpg)
+
+If there's one thing beloved Internet curmudgeon Tim Aten can't stand, it's being in a Feature Match. He even came to the table armed with a statue of a young version of himself holding a sign reading "I Hate You". Opposite him, resplendent in his red Che Guevara T-shirt is none other than Ben Rubin, the two-time Masters Champion. Both players are at 9-4-1.
 
 "See, in a way, I'm happy. Because one of you has to lose." - Worth Wollpert.
 

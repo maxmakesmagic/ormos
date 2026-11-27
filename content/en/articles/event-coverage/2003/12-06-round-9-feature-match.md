@@ -44,7 +44,9 @@ archive_source:
   sha256: b276aba9ca18c3d640452d71a5c87b649470de242bfdf60bd25969550ca778a7
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm9_1.jpg)So here we are, the deciding round. The winner gets six rounds and two drafts tomorrow but the loser gets the bitter taste of falling on the last possible hurdle. With such a large player field, cutting down to sixty-four contenders is very, very tough. Still, it's not surprising to find one of the few players who has won a GP, PT and Masters playing for the right to come back tomorrow.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm9_1.jpg)
+
+So here we are, the deciding round. The winner gets six rounds and two drafts tomorrow but the loser gets the bitter taste of falling on the last possible hurdle. With such a large player field, cutting down to sixty-four contenders is very, very tough. Still, it's not surprising to find one of the few players who has won a GP, PT and Masters playing for the right to come back tomorrow.
 
 Across the table sits Frank Karsten. He's Dutch. That means he is a good Magic player, probably drafting every single week against players as good as you expect in any Grand Prix Top 8. That kind of training only leads to good results.
 

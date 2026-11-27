@@ -57,7 +57,9 @@ These two players are both from Argentina, and are playing virtually the same go
 
 ### Game One
 
-![](http://www.wizards.com/sideboard/images/gplon03/a856.jpg)“Let’s roll to see who goes through to the semi-final”, joked Jose, as the dice roll is very important in the mirror match. Diego was the winner and both players made first turn Goblin Sledder, second turn Goblin Piledriver. Diego didn’t attack on his turn 3, instead just making Goblin Sharpshooter. Unfortunately Jose didn’t have any way of killing it, meaning that all of his guys were about to die.
+![](http://www.wizards.com/sideboard/images/gplon03/a856.jpg)
+
+“Let’s roll to see who goes through to the semi-final”, joked Jose, as the dice roll is very important in the mirror match. Diego was the winner and both players made first turn Goblin Sledder, second turn Goblin Piledriver. Diego didn’t attack on his turn 3, instead just making Goblin Sharpshooter. Unfortunately Jose didn’t have any way of killing it, meaning that all of his guys were about to die.
 
 He played a Sharpshooter and used it to pump his attack and knock Diego to 15. Ostrovich used a Gempalm Incinerator and the Sharpshooter to clear Barbero’s board, and the attack put Jose on 12. Barbero played Clickslither on his fourth turn and held it back to block.
 

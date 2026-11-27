@@ -68,7 +68,9 @@ render_recovery:
   - Decklist
   occurrences: 4
 ---
-![Saffi_Eriksdotter](https://i.ormos.uk/7d/25/7d257149a12747a24ca2451e90b6ae59f5d0c0c074c1ef4d0c4b983b02003813.jpg)Welcome to Legendary Creatures of *Time Spiral* Week! As Brady Dommermuth [explained on Monday](https://web.archive.org/web/20061115000000/http://archive.wizards.com/default.asp?x=mtgcom/feature/373), the Legends of *Time Spiral* (hereafter known as L.O.T.S.) are all very famous personalities from **Magic's** past. Some of them are brave and heroic, some of them are amusing cowards. One thing they all have in common is their commitment to charity. Before he was raising the dead as a necromancer, Lim-Dul was raising funds for various causes. His latest project, the 2007 Legends of *Time Spiral* Calendar, just came out. I got my copy in the mail the other day. It's extremely cool, even if it means I have to stare at [Saffi Eriksdotter](https://web.archive.org/web/20061115000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Saffi+Eriksdotter) for the entire month of December. What a bummer.
+![Saffi_Eriksdotter](https://i.ormos.uk/7d/25/7d257149a12747a24ca2451e90b6ae59f5d0c0c074c1ef4d0c4b983b02003813.jpg)
+
+Welcome to Legendary Creatures of *Time Spiral* Week! As Brady Dommermuth [explained on Monday](https://web.archive.org/web/20061115000000/http://archive.wizards.com/default.asp?x=mtgcom/feature/373), the Legends of *Time Spiral* (hereafter known as L.O.T.S.) are all very famous personalities from **Magic's** past. Some of them are brave and heroic, some of them are amusing cowards. One thing they all have in common is their commitment to charity. Before he was raising the dead as a necromancer, Lim-Dul was raising funds for various causes. His latest project, the 2007 Legends of *Time Spiral* Calendar, just came out. I got my copy in the mail the other day. It's extremely cool, even if it means I have to stare at [Saffi Eriksdotter](https://web.archive.org/web/20061115000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Saffi+Eriksdotter) for the entire month of December. What a bummer.
 
 ### The Dralnu Deck Challenge Revisited
 

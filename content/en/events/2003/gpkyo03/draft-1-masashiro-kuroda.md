@@ -105,7 +105,9 @@ render_recovery:
   - Wirewood Hivemaster
   occurrences: 77
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a949.jpg)No-one could dispute that the seating of Pod 1 looked like a fix. In a row you have Masahiko Morita, Masashiro Kuroda, Nobuaki Shikata and Osamu Fujita, all from the Osaka area, and good buddies to boot. There was bound to be some decidedly atypical (for Japan, anyway) co-operative drafting. Kuroda himself has enjoyed tremendous success in teams competition, but is still looking for that standout singles performance. This table seems tailor-made to help that happen, never mind that he finished Day 1 at 8-0.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a949.jpg)
+
+No-one could dispute that the seating of Pod 1 looked like a fix. In a row you have Masahiko Morita, Masashiro Kuroda, Nobuaki Shikata and Osamu Fujita, all from the Osaka area, and good buddies to boot. There was bound to be some decidedly atypical (for Japan, anyway) co-operative drafting. Kuroda himself has enjoyed tremendous success in teams competition, but is still looking for that standout singles performance. This table seems tailor-made to help that happen, never mind that he finished Day 1 at 8-0.
 
 Kuroda ripped open his first pack and sent Solar Blast to the front of the pack until he found Infest waiting for him at the back. He needed no time to decide on the mini-Wrath. Meanwhile, two players to his right, Tsuyoshi Shiwaku was taking Lavamancer's Skill and Morita on his immediate right was taking Sparksmith. Things were looking good. Kuroda solidified his black position with Soulless One (over Mistform Shrieker) while Morita and Shiwaku continued to go red.
 

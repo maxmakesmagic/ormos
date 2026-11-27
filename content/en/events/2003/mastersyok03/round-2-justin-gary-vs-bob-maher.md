@@ -87,7 +87,9 @@ render_recovery:
   - Treetop Village
   occurrences: 47
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a393.jpg)"After I wasn't featured round one, I figured that was it. These are the first games of extended I've played since Grand Prix – New Orleans." – Bob Maher
+![](http://www.wizards.com/sideboard/images/ptyok03/a393.jpg)
+
+"After I wasn't featured round one, I figured that was it. These are the first games of extended I've played since Grand Prix – New Orleans." – Bob Maher
 
 Maher is unconcerned with his lack of preparation. He's got tons of experience with Tinker from way back. His opponent, Justin Gary, is playing an updated version of the Oath deck that he used to win Pro Tour – Houston. He's playing it with every bit of the bombast he showed at that event. 
 
@@ -97,7 +99,9 @@ Gary mulliganed once, but kept his six. Maher led with island and Voltaic Key, a
 
 Gary played a Polluted Delta and passed it back. Maher drew Grim Monolith and resolved it, after Gary manipulated his hand with Brainstorm and the Delta. Maher was unwilling to risk anything further in the face of four untapped mana, though, so Gary got to cast Fact or Fiction. He took Moment's Peace, Accumulated Knowledge and island over land and Oath. That left Maher free to Stroke for six.
 
-![](https://i.ormos.uk/83/ce/83cea3d7ced130bfd414425f4c72b8be3728e98f42b538f138f08cd24d0ff408.jpg)Gassed up, Maher started to cast spells. Monolith resolved, and that fuelled a Tangle Wire that had Gary thinking. He eventually chose to Forbid it, buying it back. Maher took the opportunity to Tinker out Mishra's Helix, taking control of the game. Soon he'd locked down all of Gary's lands but two green, and played Upheaval with a blue and four colorless floating. He finished up by dropping Grim Monolith, two Keys, island, then Tinkered away a Key for Phyrexian Processor for eighteen, exactly Gary's life total. Maher was left at one.
+![](https://i.ormos.uk/83/ce/83cea3d7ced130bfd414425f4c72b8be3728e98f42b538f138f08cd24d0ff408.jpg)
+
+Gassed up, Maher started to cast spells. Monolith resolved, and that fuelled a Tangle Wire that had Gary thinking. He eventually chose to Forbid it, buying it back. Maher took the opportunity to Tinker out Mishra's Helix, taking control of the game. Soon he'd locked down all of Gary's lands but two green, and played Upheaval with a blue and four colorless floating. He finished up by dropping Grim Monolith, two Keys, island, then Tinkered away a Key for Phyrexian Processor for eighteen, exactly Gary's life total. Maher was left at one.
 
 "Hope I draw mountain for my Shock" was all Justin could say.
 
@@ -115,7 +119,9 @@ Gary again had to put on his thinking cap. After a few minutes contemplation he 
 
 He showed Arcane Laboratory. Maher just laughed. "Good beats."
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a395.jpg)He tried Tangle Wire. Gary Forbade it with buyback. Maher's Ports restricted his mana. He let a Grim Monolith through. Then the Ports paved the way for Defense Grid. After that, it was Upheaval. Maher floated five colorless, and after Gary floated four blue mana he added two more, falling to four.
+![](http://www.wizards.com/sideboard/images/ptyok03/a395.jpg)
+
+He tried Tangle Wire. Gary Forbade it with buyback. Maher's Ports restricted his mana. He let a Grim Monolith through. Then the Ports paved the way for Defense Grid. After that, it was Upheaval. Maher floated five colorless, and after Gary floated four blue mana he added two more, falling to four.
 
 Gary had Counterspell for the Defense Grid, then let Monolith resolve. Maher played an island and Metalworker, clearing his mana pool. That too was okay. He forced out Gary's mana by entering his attack phase, and added Seal of Removal. Gary played an island.
 

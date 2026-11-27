@@ -785,7 +785,9 @@ Seth Manfield 2 Tannon Grace 0
 
 As the players looked through each others decks Seth noted all of Paulo's removal, "Hmmmm... I doubt Imperious Perfect is going to stick against you."
 
-![](https://i.ormos.uk/c4/22/c422a17c0220499ed561fdd04ca3ad1431919e2b1859363d1af3e1da2661a7ae.jpg)Paulo looked at his opening hand and decided he could do better. He was able to play Skeletal Changeling off of his two Swamps and he was holding Final Revels but the remaining four cards were early red creatures and if he stumbled at all he would need to draw both lands and removal spells to fight through it. 
+![](https://i.ormos.uk/c4/22/c422a17c0220499ed561fdd04ca3ad1431919e2b1859363d1af3e1da2661a7ae.jpg)
+
+Paulo looked at his opening hand and decided he could do better. He was able to play Skeletal Changeling off of his two Swamps and he was holding Final Revels but the remaining four cards were early red creatures and if he stumbled at all he would need to draw both lands and removal spells to fight through it. 
 
 Skeletal Changeling came down and nibbled for a point. Elvish Branchbender and Marsh Flitter landed on each side of the table but Seth stymied the goblin munching faerie with Cloudcrown Oak. The match-up looked pretty bad for Paulo actually despite the ease with which he could kill Seth's Perfect. Maindeck Bog-Strider Ash was another example of the cards that Paulo had no easy answers for. Seth also added Moonglove extract to the board in case of an emergency. 
 
@@ -797,7 +799,9 @@ Seth searched for a black source with his Wanderer's Twig and showed where the D
 
 Paulo shook his head as he had to ship back two straight hands and go to five cards to start the game. As difficult as it was to believe for Paulo, Seth's friends watching along the rail were even more stunned that Seth was on the verge of winning a Grand Prix.
 
-![](https://i.ormos.uk/bd/59/bd5910258c2655118bb794c6a4f07d0a05a3a6e2b5b3b0080381e66c8457cd2c.jpg)"This is unbelievable," exclaimed Brad Taulbee. "Every prerelease he opens the best foils, the best rares...and now this?"
+![](https://i.ormos.uk/bd/59/bd5910258c2655118bb794c6a4f07d0a05a3a6e2b5b3b0080381e66c8457cd2c.jpg)
+
+"This is unbelievable," exclaimed Brad Taulbee. "Every prerelease he opens the best foils, the best rares...and now this?"
 
 Someone else added: "Did you know he is also a Bridge master?"
 

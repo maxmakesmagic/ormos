@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/979.jpg)Rob Dougherty: the owner of Your Move Games, a pro tour champion, and all around great guy. Rob had three byes today, so it gave him time to sit down with me and discuss his deck choice for the day. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/979.jpg)
+
+Rob Dougherty: the owner of Your Move Games, a pro tour champion, and all around great guy. Rob had three byes today, so it gave him time to sit down with me and discuss his deck choice for the day. 
 
 **Ben:** How are you doing today Rob?
 

@@ -106,7 +106,9 @@ Brian Davis has been on a tear lately, culminating with his top four finish at P
 
 ### Game One
 
-![](http://www.wizards.com/sideboard/images/gpmil02/973.jpg)Brian won the die roll and played first. Unfortunately for him, he had to take a mulligan. While shuffling, I commented that I hoped this match didn't take the full hour. Brian simply turned to me and said, "sorry."
+![](http://www.wizards.com/sideboard/images/gpmil02/973.jpg)
+
+Brian won the die roll and played first. Unfortunately for him, he had to take a mulligan. While shuffling, I commented that I hoped this match didn't take the full hour. Brian simply turned to me and said, "sorry."
 
 Zev stood focused on his opponent, not having taken a look at his own cards. Brian pile shuffled his deck a few times, as we all stood by waiting for the game to begin. To break the silence, we started a small conversation.
 
@@ -121,7 +123,9 @@ Me: Brian, did you drive or fly here?
  Brian: So you mean there were two randoms.  
  Zev: (smiles) I'm trying not to be a random.
 
-![](http://www.wizards.com/sideboard/images/gpmil02/974.jpg)By now Brian had gotten his six card hand, and kept it, and Zev kept his hand as well. The game progressed fairly slowly, as both players were horribly short on mana. Brian's Goblin Trenches deck stalled and had only five lands in play by turn eight, while Zev played six lands and virtually no spells in the same time period. Brian kept tapping Zev's lands with the Ice half of Fire/Ice, hoping to draw into lands. It didn't really work well, but Zev failed to capitalize on Brian's bad draw. Finally, around the 12th turn of this not-quite-thrilling game, Brian and Zev traded end of turn effects. Brian resolved a Prophetic Bolt at the end of Zev's turn, but Zev responded by playing a Fact or Fiction, netting him a Counterspell (and losing him two Aether Bursts and a Repulse, which were useless against the creatureless deck). This allowed Brian to play a Compulsion his following turn.
+![](http://www.wizards.com/sideboard/images/gpmil02/974.jpg)
+
+By now Brian had gotten his six card hand, and kept it, and Zev kept his hand as well. The game progressed fairly slowly, as both players were horribly short on mana. Brian's Goblin Trenches deck stalled and had only five lands in play by turn eight, while Zev played six lands and virtually no spells in the same time period. Brian kept tapping Zev's lands with the Ice half of Fire/Ice, hoping to draw into lands. It didn't really work well, but Zev failed to capitalize on Brian's bad draw. Finally, around the 12th turn of this not-quite-thrilling game, Brian and Zev traded end of turn effects. Brian resolved a Prophetic Bolt at the end of Zev's turn, but Zev responded by playing a Fact or Fiction, netting him a Counterspell (and losing him two Aether Bursts and a Repulse, which were useless against the creatureless deck). This allowed Brian to play a Compulsion his following turn.
 
 Slowly Brian began throwing burn straight at Zev's head. He burned the Tog player down with a second Prophetic Bolt, dropping Zev to a precarious 9 life (Zev had taken some earlier damage from pain lands). Gurwitz played his third Fact or Fiction of the game (his first had been Syncopated), untapped, and summoned forth his favorite creature in **Magic**, Psychatog. Brian Davis hesitated a second.
 
@@ -152,7 +156,9 @@ Kurt: Oh for the love of God, what are you doing with those babies?
 
 ### Game Two
 
-![](http://www.wizards.com/sideboard/images/gpmil02/975.jpg)Zev came screaming out of the gates with a turn four Nightscape Familiar. Brian answered with a Memory Lapse, which was Gainsayed. This opened Brian up for a Deep Analysis. Even with the card advantage, Zev seemed poised for a perfect draw, dropping a Psychatog next turn with Counterspell back-up still in hand. He came one turn away from winning by trying to resolve a Mana Short at the end of Brian's 6th turn, but Brian Absorbed it safely. Zev decided to try to reset the game with an Upheaval, but Brian Syncopated it for two, which Zev had to Circular Logic, using his one floating Blue mana by discarding it to Psychatog. Although Zev played his Familiar the next turn, the loss of that one mana set him back on getting his Psychatog out, allowing Brian enough time to set up his counter magic again.
+![](http://www.wizards.com/sideboard/images/gpmil02/975.jpg)
+
+Zev came screaming out of the gates with a turn four Nightscape Familiar. Brian answered with a Memory Lapse, which was Gainsayed. This opened Brian up for a Deep Analysis. Even with the card advantage, Zev seemed poised for a perfect draw, dropping a Psychatog next turn with Counterspell back-up still in hand. He came one turn away from winning by trying to resolve a Mana Short at the end of Brian's 6th turn, but Brian Absorbed it safely. Zev decided to try to reset the game with an Upheaval, but Brian Syncopated it for two, which Zev had to Circular Logic, using his one floating Blue mana by discarding it to Psychatog. Although Zev played his Familiar the next turn, the loss of that one mana set him back on getting his Psychatog out, allowing Brian enough time to set up his counter magic again.
 
 Each player traded lands back and forth, the zombie chipping away at Davis's life total turn by turn. On the 13th turn, the game picked back up in pace as Brian flashed back his Analysis, bringing him down to eleven life. Zev tried to FoF, but it was countered. Lastly, Brian thought a while, and then dropped a Meddling Mage into play, naming Psychatog.
 

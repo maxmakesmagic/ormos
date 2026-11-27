@@ -68,13 +68,17 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/329.jpg)Here was a crucial match between two competitors with an excellent shot at the top 8. Whoever wins this match has a guaranteed slot. The other will have to win the last round in order to achieve the goal of every competitive Magic player: making top 8 at Worlds.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/329.jpg)
+
+Here was a crucial match between two competitors with an excellent shot at the top 8. Whoever wins this match has a guaranteed slot. The other will have to win the last round in order to achieve the goal of every competitive Magic player: making top 8 at Worlds.
 
 We already know Levy and Van de Logt, so let's move on directly to the match. Raphael is playing a very aggressive version of Rising Waters, featuring many flyers, "Luftwaffe-like (even underrated cards like Cloudskate). Tom is running a Rebel deck with some control elements such as Story Circle and Mageta the Lion.
 
 Game one saw Raphael get into an interesting position very soon. After playing a Cloudskate and a Waterfront Bouncer, the Frenchman waited for Van de Logt to tap out casting Parallax Wave, Dazed it, and took advantage of it by casting Rising Waters. Not drawing any Disenchants, Tom was in trouble as Raphael put down flyers after flyer, countering the right cards with two Thwarts, eventually winning the game.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/330.jpg)Game two followed a very different route as Tom opened with a turn one Sergeant, and recruited a Steadfast Guard. He tried to play a Story Circle on turn 4 when Raphael was tapped out for casting a Rishadan Airship, but Raphael had the Thwart. All that land coming back to his hand handicapped the Frenchman a lot and forced him to defend versus a growing army of Steadfast Guards, using a lonely Waterfront Bouncer. Parallax Wave allowed Dutch national team member Van de Logt to make his creatures go all the way on the ground, racing one, then two Airships in the air. Raphael did get a last attack phase, taking the Dutchman down to 2 life, but Tom had perfectly managed his life total and counterattacked for the final blow.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/330.jpg)
+
+Game two followed a very different route as Tom opened with a turn one Sergeant, and recruited a Steadfast Guard. He tried to play a Story Circle on turn 4 when Raphael was tapped out for casting a Rishadan Airship, but Raphael had the Thwart. All that land coming back to his hand handicapped the Frenchman a lot and forced him to defend versus a growing army of Steadfast Guards, using a lonely Waterfront Bouncer. Parallax Wave allowed Dutch national team member Van de Logt to make his creatures go all the way on the ground, racing one, then two Airships in the air. Raphael did get a last attack phase, taking the Dutchman down to 2 life, but Tom had perfectly managed his life total and counterattacked for the final blow.
 
 Game three started badly for Raphael as he had to mulligan. His new hand contained two Islands and two Gushes, so he kept it. Tom had the perfect Rebel start. Turn one Ramosian Sergeant, turn two Steadfast Guard, both replayed on turn three after a Withdraw from Raphael. Tom then had Raphael's Drake blow his Last Breath. He then spent the next few turns recruiting like crazy, while Raphael could only watch and struggle with his own Mana and Gushes. Eventually, protected by a Story Circle, Tom could attack with a huge crowd of Rebels and win the game.
 

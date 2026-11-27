@@ -2089,7 +2089,9 @@ How can *you* get involved? We're glad you asked.
 
 ### Tribal Roster
 
-![](https://i.ormos.uk/2b/1e/2b1e67ad72cc38958d0ca843647f0b780d95ef7c042b568d9a01195b19b06d77.jpg)The first step is picking your tribe. You can fight for multiple tribes over the course of Tribal Wars, of course, but why do that when your favorite tribe is clearly the best?
+![](https://i.ormos.uk/2b/1e/2b1e67ad72cc38958d0ca843647f0b780d95ef7c042b568d9a01195b19b06d77.jpg)
+
+The first step is picking your tribe. You can fight for multiple tribes over the course of Tribal Wars, of course, but why do that when your favorite tribe is clearly the best?
 
 Here are the guidelines for deck construction:
 

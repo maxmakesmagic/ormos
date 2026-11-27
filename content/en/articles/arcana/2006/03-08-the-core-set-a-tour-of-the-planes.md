@@ -137,7 +137,9 @@ render_recovery:
 ---
 * * *
 
-[![Core Set](https://i.ormos.uk/bc/5b/bc5bd12c90c3fca751c9af380294de6047a700e1c673b2369c8a168ba5798b2d.jpg "Core Set")](https://web.archive.org/web/20080424040324/http://www.wizards.com/default.asp?x=magic/expansion/9e)R&D designs the Core Set (currently in its *[Ninth Edition](https://web.archive.org/web/20080424040324/http://www.wizards.com/default.asp?x=magic/expansion/9e)*) both as a learning tool for new **Magic** players and as a source of staple cards for both Constructed formats and casual play. But since it's packed with spells hailing from Alpha through (in the case of *Ninth*) *Betrayers of Kamigawa*, it's also a 350-card tour through the game's past. Take a look below at the art of some *Ninth Edition* cards (in no particular order), and enjoy a planeswalkers'-eye view of events in **Magic**'s history.
+[![Core Set](https://i.ormos.uk/bc/5b/bc5bd12c90c3fca751c9af380294de6047a700e1c673b2369c8a168ba5798b2d.jpg "Core Set")](https://web.archive.org/web/20080424040324/http://www.wizards.com/default.asp?x=magic/expansion/9e)
+
+R&D designs the Core Set (currently in its *[Ninth Edition](https://web.archive.org/web/20080424040324/http://www.wizards.com/default.asp?x=magic/expansion/9e)*) both as a learning tool for new **Magic** players and as a source of staple cards for both Constructed formats and casual play. But since it's packed with spells hailing from Alpha through (in the case of *Ninth*) *Betrayers of Kamigawa*, it's also a 350-card tour through the game's past. Take a look below at the art of some *Ninth Edition* cards (in no particular order), and enjoy a planeswalkers'-eye view of events in **Magic**'s history.
 
   
 

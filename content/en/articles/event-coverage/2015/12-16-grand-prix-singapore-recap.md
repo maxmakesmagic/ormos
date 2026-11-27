@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Omeed Dariani* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING00/982.jpg)Sam Lau, from Singapore, won GP Singapore, defeating Jonathan Chan in the finals, 2-0. He played Trix to a near perfect record in the Swiss, placing him as the fifth seed going into the Top 8. Jonathan Chan made 2,200 USD, while the runner up Sam Lau walked away with 1,700 USD. Runner up Chan, also from Singapore, played a Sligh/Ponza hybrid deck that performed well for him until he met Sam Lau in the finals. Grand Prix Singapore was very positive, with a large audience following the standings and observing the tournament. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING00/982.jpg)
+
+Sam Lau, from Singapore, won GP Singapore, defeating Jonathan Chan in the finals, 2-0. He played Trix to a near perfect record in the Swiss, placing him as the fifth seed going into the Top 8. Jonathan Chan made 2,200 USD, while the runner up Sam Lau walked away with 1,700 USD. Runner up Chan, also from Singapore, played a Sligh/Ponza hybrid deck that performed well for him until he met Sam Lau in the finals. Grand Prix Singapore was very positive, with a large audience following the standings and observing the tournament. 
 
 With the event being held in a mall, there was a steady stream of curious onlookers, who were interested in learning about the game. The demo areas were constantly packed with people trying it out for the first time. Gunslinger Henry Stern had a constant line of excited opponents, waiting to test their mettle against a member of R&D. 
 

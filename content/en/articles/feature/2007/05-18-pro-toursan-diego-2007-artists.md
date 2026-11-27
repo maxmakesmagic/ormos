@@ -55,7 +55,9 @@ render_recovery: []
 ---
 ### Lars Grant-West
 
-![Lars Grant-West](https://media.magic.wizards.com/image_legacy_migration/magic/images/tournamentcenter/2007/ptsd07_artist_grant-west.jpg)Lars Grant-West was born in Brooklyn, New York in 1968.
+![Lars Grant-West](https://media.magic.wizards.com/image_legacy_migration/magic/images/tournamentcenter/2007/ptsd07_artist_grant-west.jpg)
+
+Lars Grant-West was born in Brooklyn, New York in 1968.
 
 Childhood trips to the American Museum of Natural History, the Bronx Zoo and the Brooklyn Aquarium made an indelible mark on Lars' vision, instilling a deep affection for the natural world. He spent hours gazing at the giant skeletons of long-dead behemoths, and being amazed at the diversity of their modern successors.
 
@@ -75,7 +77,9 @@ Want to see [all Lars's cards via Gatherer](https://web.archive.org/web/20070518
 
 ### Alan Pollack
 
-![Alan Pollack](https://media.magic.wizards.com/image_legacy_migration/magic/images/tournamentcenter/2007/ptsd07_artist_pollack.jpg)Alan Pollack was born in New Jersey. He began drawing at an early age. Influenced by artists such as Frazetta, Boris ,The Hildebrandts and Michael Whelan, Alan decided that fantasy illustration was to be his career of choice.
+![Alan Pollack](https://media.magic.wizards.com/image_legacy_migration/magic/images/tournamentcenter/2007/ptsd07_artist_pollack.jpg)
+
+Alan Pollack was born in New Jersey. He began drawing at an early age. Influenced by artists such as Frazetta, Boris ,The Hildebrandts and Michael Whelan, Alan decided that fantasy illustration was to be his career of choice.
 
 After graduating from high school. He studied at several colleges. At the School of Visual Arts in NYC, the illustration team of Martucci and Greisbach convinced Alan to dabble in oils. He was so inspired by his first attempts that he began developing a portfolio of fantasy illustration.
 

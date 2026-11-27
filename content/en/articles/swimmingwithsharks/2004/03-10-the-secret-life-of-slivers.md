@@ -742,7 +742,9 @@ To this day they remain so popular to the bulk of the **Magic** playing audience
 
 Despite the long and seemingly happy marriage to the casual **Magic** community, Slivers have led a double life. They carried on a relationship with the professional (and aspiring professional) **Magic** community for much of that time as well
 
-![](https://i.ormos.uk/cb/df/cbdf62b821bc2fd8dc82ae91adb3c4b60e573758324ad824de4308d8f0c12e00.jpg)I was at Pro Tour Los Angeles in 1998--the year that Dave Price introduced the world to 4/3 Jackal Pups--when I first caught a whiff of the relationship. One of the decks I remember seeing during the Swiss rounds was something called Sliving Death. The deck was blue-black and featured Mindwhip Sliver and Mnemonic Sliver among others. The deck set up by stocking its graveyard with slivers—either by drawing cards or making the opponent discard cards. It would then finish them off with an army of flying Slivers coming back from beyond with a Living Death. 
+![](https://i.ormos.uk/cb/df/cbdf62b821bc2fd8dc82ae91adb3c4b60e573758324ad824de4308d8f0c12e00.jpg)
+
+I was at Pro Tour Los Angeles in 1998--the year that Dave Price introduced the world to 4/3 Jackal Pups--when I first caught a whiff of the relationship. One of the decks I remember seeing during the Swiss rounds was something called Sliving Death. The deck was blue-black and featured Mindwhip Sliver and Mnemonic Sliver among others. The deck set up by stocking its graveyard with slivers—either by drawing cards or making the opponent discard cards. It would then finish them off with an army of flying Slivers coming back from beyond with a Living Death. 
 
 I have never been able to quite puzzle out the decklist. The online coverage of events was not as thorough as it is today and any decklists below the Top 8 may be lost forever. That may be for the best in this case as the deck does not seem very good in hindsight, but the idea is an entertaining one. 
 

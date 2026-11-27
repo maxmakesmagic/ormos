@@ -89,7 +89,9 @@ The combination of explosive artifact mana and the powerful Tinker meant that wo
 
 ### Game 1
 
-![Antoine Ruel cuts](http://www.wizards.com/sideboard/images/ptno03/990.jpg "Antoine Ruel cuts")Antoine looked at his opening hand and then remembered to offer last season's rookie of the year good luck. Both players were content with their opening hands and Antoine opened with a Grim Monolith off of a City of Traitors and had a Voltaic Key. He rooted for his opponent to be playing something other than Tinker, "C'mon, Plains...go!"
+![Antoine Ruel cuts](http://www.wizards.com/sideboard/images/ptno03/990.jpg "Antoine Ruel cuts")
+
+Antoine looked at his opening hand and then remembered to offer last season's rookie of the year good luck. Both players were content with their opening hands and Antoine opened with a Grim Monolith off of a City of Traitors and had a Voltaic Key. He rooted for his opponent to be playing something other than Tinker, "C'mon, Plains...go!"
 
 Ooiso led off with an Island but had no action. Ruel had another Grim Monolith with his City, which went away when he played an Island. He was out of lands but he was sitting on a Stroke of Genius. Antoine had only an Island on his next turn and Antoine Stroked for six cards but had no lands even after he drew a card for his turn. 
 
@@ -113,7 +115,9 @@ Antoine sided out his Chalices and Masticores and brought in a Kill Switch, four
 
 The Ancient Tomb was locked down during his upkeep but Ruel had a City of Traitors and played a Thran Dynamo. Ooiso came back with a Metalworker. When the turn came back to Ruel it was his turn to go off. He played a key and was able to play and activate his Mindslaver. Ooiso had the Stifle though and it was a null turn for Ruel.
 
-![Rookie of the Year Masashi Ooiso](http://www.wizards.com/sideboard/images/ptno03/991.jpg "Rookie of the Year Masashi Ooiso")Ooiso was able to play and activate his own Mindslaver on his next turn and when he saw Ruel's hand he had a Tinker, Annul, and Null Brooch to work with. The draw added a Monolith to the mix. Ooiso's first item of business was to Tinker the Dynamo. Antoine watched him paw through his deck and gloated, "It is not in there." 
+![Rookie of the Year Masashi Ooiso](http://www.wizards.com/sideboard/images/ptno03/991.jpg "Rookie of the Year Masashi Ooiso")
+
+Ooiso was able to play and activate his own Mindslaver on his next turn and when he saw Ruel's hand he had a Tinker, Annul, and Null Brooch to work with. The draw added a Monolith to the mix. Ooiso's first item of business was to Tinker the Dynamo. Antoine watched him paw through his deck and gloated, "It is not in there." 
 
 Ooiso finally settled on a Myr Incubator and activated it to remove a Clockwork Dragon, Mindslaver and Masticore from the game for three 1/1s. He closed out the turn by casting the Null Brooch and Annulled it leaving Ruel without a hand.
 
@@ -121,4 +125,6 @@ On Ooiso's own turn he made eight mana with his Metalworker and showed a Tinker.
 
 Ruel 0 - Ooiso 2
 
-![MINDSLAVERED!](http://www.wizards.com/sideboard/images/ptno03/989.jpg "MINDSLAVERED!")Ruel shook his head at the main deck Processor in Ooiso's deck as the two players desideboarded. "You're playing that card main deck? It is so bad in the mirror. Like you take their turn with Mindslaver and Tinker it up and make them pay twenty. You are supposed to lose if you have that main!"
+![MINDSLAVERED!](http://www.wizards.com/sideboard/images/ptno03/989.jpg "MINDSLAVERED!")
+
+Ruel shook his head at the main deck Processor in Ooiso's deck as the two players desideboarded. "You're playing that card main deck? It is so bad in the mirror. Like you take their turn with Mindslaver and Tinker it up and make them pay twenty. You are supposed to lose if you have that main!"

@@ -192,7 +192,9 @@ Let's see what's in the news today.
 
 ### Grand Prix-Amsterdam
 
-![](https://i.ormos.uk/dc/03/dc0356306b29c40bfdfa2f9b37a0859c1f9ff19a92102b0dc0fa329882f01bf5.jpg)One hundred and ninety eight teams showed up for this year's Grand Prix-Amsterdam. Almost all of Europe's established teams were present: Pheonix Foundation (Kai Budde, Marco Blume, Dirk Baberowski), Les Plus Class (although renamed something ridiculous - Gabriel Nassif, Amiel Tenenbaum, Farid Meraghni), and Object of Affection (Tomi Walamies, Anton Jonsson and Jens Thoren). There were also several new pro squads: Rankko Bongo Wheshiwheshi (Carlos Romao, Wilfried Ranque, Jose Barbero), MagicCorporation.com (Christophe Haim, Franck Canu, Raphael Levy), and the JC Experience (John Larkin, Sam Gomersall, Patrick Mello). Finally, a few pro teams made the voyage from North America: Courtney's Men (Bob Maher, Neil Reeves, Dave Williams), Free Pat Chapin (Eddy Fear, Andy Stokinger, Mikey Pustilnik), Ace Ten Off (Jon Finkel, Eric Froelich, Kamiel Cornelissen), and TOBIT (Antonino De Rosa, Jon Sonne, Gerard Fabiano). 
+![](https://i.ormos.uk/dc/03/dc0356306b29c40bfdfa2f9b37a0859c1f9ff19a92102b0dc0fa329882f01bf5.jpg)
+
+One hundred and ninety eight teams showed up for this year's Grand Prix-Amsterdam. Almost all of Europe's established teams were present: Pheonix Foundation (Kai Budde, Marco Blume, Dirk Baberowski), Les Plus Class (although renamed something ridiculous - Gabriel Nassif, Amiel Tenenbaum, Farid Meraghni), and Object of Affection (Tomi Walamies, Anton Jonsson and Jens Thoren). There were also several new pro squads: Rankko Bongo Wheshiwheshi (Carlos Romao, Wilfried Ranque, Jose Barbero), MagicCorporation.com (Christophe Haim, Franck Canu, Raphael Levy), and the JC Experience (John Larkin, Sam Gomersall, Patrick Mello). Finally, a few pro teams made the voyage from North America: Courtney's Men (Bob Maher, Neil Reeves, Dave Williams), Free Pat Chapin (Eddy Fear, Andy Stokinger, Mikey Pustilnik), Ace Ten Off (Jon Finkel, Eric Froelich, Kamiel Cornelissen), and TOBIT (Antonino De Rosa, Jon Sonne, Gerard Fabiano). 
 
 At the end of the first day, Belgian unknowns (except for Mats Clay), Boys of Summer topped the standings, with Object of Affection, Ranko Bongo etc., and Ace Ten Off close behind. Notably absent from the Top 20 were Courtney's Men, Kai's Gonna Get It!, and LowlandGames.com. 
 
@@ -226,7 +228,9 @@ The 2003 Italian National team is Daniel Canavesi, Fabio Saviori, and Alessandro
 
 ### Event Horizon Invitational
 
-![](http://www.wizards.com/sideboard/images/ehi03/006.jpg)The Event Horizon Invitational, a semi-Premier invitational tournament organized to celebrate Texas Magic, took place the weekend before last. The tournament used a variety of interesting formats created solely for use in the event: 4-Way Solomon Draft, Build a Better Mousetrap, MQ, Your Own Set of Rules, and Complete the Block. Among those competing in the event were pro players David Williams, Neil Reeves, and Grand Prix-New Orleans Top 8er Carl Lobato. 
+![](http://www.wizards.com/sideboard/images/ehi03/006.jpg)
+
+The Event Horizon Invitational, a semi-Premier invitational tournament organized to celebrate Texas Magic, took place the weekend before last. The tournament used a variety of interesting formats created solely for use in the event: 4-Way Solomon Draft, Build a Better Mousetrap, MQ, Your Own Set of Rules, and Complete the Block. Among those competing in the event were pro players David Williams, Neil Reeves, and Grand Prix-New Orleans Top 8er Carl Lobato. 
 
 Neil Reeves, the most accomplished player competing in the tournament, eventually took the title in a one-on-one draft finals against Pro Tour-Chicago competitor Trent Boneau. It went to three games, but Mythic Proportions on a Wirewood Elf took it home. 
 

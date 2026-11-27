@@ -52,7 +52,9 @@ archive_source:
   sha256: 13280d4a6c1489b253693bee0ffa0be7b0395d656a611945775b15acf5f2e63b
 render_recovery: []
 ---
-![](http://media.wizards.com/2015/events/wc08/tf1_nicastri.jpg)Aaron Nicastri's Blue-Black Tron deck was similar to the one Sam Black had just dismantled in the Semifinals. But Black admitted it was luck. The large-scale Tron deck is specifically designed to take apart the little green mana hounds, and it's hard to believe a deck suited to beat Elves can still fall short. That's just the power of the Elf.
+![](http://media.wizards.com/2015/events/wc08/tf1_nicastri.jpg)
+
+Aaron Nicastri's Blue-Black Tron deck was similar to the one Sam Black had just dismantled in the Semifinals. But Black admitted it was luck. The large-scale Tron deck is specifically designed to take apart the little green mana hounds, and it's hard to believe a deck suited to beat Elves can still fall short. That's just the power of the Elf.
 
 Though Black had luck, Nicastri had something else: enthusiasm. After the results of the individual Semifinals, he had clinched the Rookie of the Year crown. Nicastri was clearly elated. And though he'd just picked up one title, he was eagerly awaiting number two.
 
@@ -75,7 +77,9 @@ Sam Black 1, Aaron Nicastri 0
 
 **Game 2**
 
-![](http://media.wizards.com/2015/events/wc08/tf1_black.jpg)The Australian captain thought long and hard about his decent seven-card hand. He asked Brandon Lau, who confirmed its decency: “It's OK.” But against Elves “OK” doesn't cut the mustard, and Nicastri agreed with the condiment analogy; he confidently and deliberately went down to six. Black did the same.
+![](http://media.wizards.com/2015/events/wc08/tf1_black.jpg)
+
+The Australian captain thought long and hard about his decent seven-card hand. He asked Brandon Lau, who confirmed its decency: “It's OK.” But against Elves “OK” doesn't cut the mustard, and Nicastri agreed with the condiment analogy; he confidently and deliberately went down to six. Black did the same.
 
 “That's pretty rancid,” teammate Michael Jacobs chimed in. Black agreed, throwing it back for six fresh ones. With disgust, he pitched the second back as well. “That draw featured all four [Birchlore Rangers](https://web.archive.org/web/20141215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birchlore+Rangers).”
 
@@ -89,7 +93,9 @@ The giddy Black (the person, not the color) had calmed a bit as he laid his thir
 
 Those questions were answered when his end-of-turn Thrist for Knowledge revealed exactly what he had (and also what he didn't). One of the two cards he discarded to the Thrist was the powerful [Night of Souls' Betrayal](https://web.archive.org/web/20141215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Night+of+Souls%27+Betrayal). Clearly he wouldn't discard such a beating for nothing, so he must have had the second one in hand. After he drew for the turn, Nicastri tapped for a Signet, and soon passed with two mana up. Sam brought his sideboarded beats as well—the reusable Nullmage Shepard. It fought though a Condescend (again bottoming two)—”You should blow up the Signet,” Jacobs chided—and then immediately blew up the Signet, just as Jacobs suggested. Three more damage came in, and it was 13–20.
 
-![](http://media.wizards.com/2015/events/wc08/tf1_black_nicastri.jpg)”Get there?” Black asked Nicastri. The discarded [Night of Souls' Betrayal](https://web.archive.org/web/20141215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Night+of+Souls%27%C2%A0Betrayal) was a big tell as far as the Americans were concerned. Nicastri had bottom four scryed cards, and he'd dug through three cards with [Thirst for Knowledge](https://web.archive.org/web/20141215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thirst%C2%A0for+Knowledge). The Australian needed black mana.
+![](http://media.wizards.com/2015/events/wc08/tf1_black_nicastri.jpg)
+
+”Get there?” Black asked Nicastri. The discarded [Night of Souls' Betrayal](https://web.archive.org/web/20141215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Night+of+Souls%27%C2%A0Betrayal) was a big tell as far as the Americans were concerned. Nicastri had bottom four scryed cards, and he'd dug through three cards with [Thirst for Knowledge](https://web.archive.org/web/20141215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thirst%C2%A0for+Knowledge). The Australian needed black mana.
 
 “I guess not,” said Black as Nicastri shipped the turn. After a Wirewood Symbiote, Black swung in for 9, taking Nicastri to 4. Before passing, Black returned a [Birchlore Rangers](https://web.archive.org/web/20141215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birchlore+Rangers) to his hand and then played it back morphed. A 2/2 does much better against a resolved [Night of Souls' Betrayal](https://web.archive.org/web/20141215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Night+of+Souls%27+Betrayal) than a 1/1.
 

@@ -996,7 +996,9 @@ Rounding out the parade of past Pro Tour winners playing on Day Two of Grand Pri
 
 ### Vote now for Constructed Master
 
-[![](https://i.ormos.uk/95/e1/95e1ecd747dd66faf2625bfb32f5b00a52e284ff8051513a353b6f7df8b5d20f.jpg)](/en/events/2007/mi07/gabriel-nassif-is-the-2007-constructed-master)To the surprise of pretty much nobody, Frank Karsten is the winner of [The Fanatic ballot](/en/events/2007/mi07/frank-karsten-is-the-2007-fanatic) for the second year running. If the combination of his column, strong performances, and Deck-o-Pedia were not enough to lock it down, the story of Frank and his trusty Yokohama slop bucket was the clincher. Just take a look at this one comment from the message boards where the poster explained who he voted for and why:
+[![](https://i.ormos.uk/95/e1/95e1ecd747dd66faf2625bfb32f5b00a52e284ff8051513a353b6f7df8b5d20f.jpg)](/en/events/2007/mi07/gabriel-nassif-is-the-2007-constructed-master)
+
+To the surprise of pretty much nobody, Frank Karsten is the winner of [The Fanatic ballot](/en/events/2007/mi07/frank-karsten-is-the-2007-fanatic) for the second year running. If the combination of his column, strong performances, and Deck-o-Pedia were not enough to lock it down, the story of Frank and his trusty Yokohama slop bucket was the clincher. Just take a look at this one comment from the message boards where the poster explained who he voted for and why:
 
 "Karsten. I have played in more than one game with my friends in which I've heard someone say: 'In response, I throw up in a bucket' (in reference to Yokohama)."
 

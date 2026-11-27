@@ -73,7 +73,9 @@ render_recovery:
   - Persecute
   occurrences: 32
 ---
-![](https://i.ormos.uk/67/ea/67ea67694fc96559d4927aeccadfa6867ca03c71889882176409b6d17dd708f0.jpg)Guillaume Daoust est maintenant le seul Québécois qui peut gagner le championnat. Nathon Braymore, le roi du PTQ ontarien l'oppose et le gagnant méritera une place dans les finales. Les decks sont deux mono-noirs, et le match miroir sera basée surtout sur qui peut résoudre une carte dévastatrice comme Haunting Echoes, Mirari, Mind Sludge ou Corrupt en premier. 
+![](https://i.ormos.uk/67/ea/67ea67694fc96559d4927aeccadfa6867ca03c71889882176409b6d17dd708f0.jpg)
+
+Guillaume Daoust est maintenant le seul Québécois qui peut gagner le championnat. Nathon Braymore, le roi du PTQ ontarien l'oppose et le gagnant méritera une place dans les finales. Les decks sont deux mono-noirs, et le match miroir sera basée surtout sur qui peut résoudre une carte dévastatrice comme Haunting Echoes, Mirari, Mind Sludge ou Corrupt en premier. 
 
 Nathon a un problème mineur avec ses plastiques, et ensuite il conte mal ses cartes mais après quelques instants le match débute. Guillaume gagne le roulement du dé et Nathon commenta : « Elijah a roulé 20 aussi, c'est pas juste. »
 
@@ -81,7 +83,9 @@ Nathon a un problème mineur avec ses plastiques, et ensuite il conte mal ses ca
 
 Nathon joue un Chainer's Edict sur rien, qui lui permet de jouer Skeletal Scrying pour un. Guillaume manque de land, il Diabolic Tutor pour un swamp au tour Quatre pour accompagner son Cabal Coffers. Daoust fera lui aussi un Edict pour donner un boni à son propre Scrying. Braymore aura la première grosse carte : une Mirari.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a899.jpg)Daoust utilise un deuxième Tutor pour trouver Mind Sludge, mais Braymore l'enlève avec Duress. Nathon tente un Haunting Echoes et Guillaume le neutralise avec Scrying pour 6. Cependant, ce Scrying rabaisse beaucoup ses points de vie, et un CorruptMirari le finira deux tours plus tard.
+![](http://www.wizards.com/sideboard/images/natcan03/a899.jpg)
+
+Daoust utilise un deuxième Tutor pour trouver Mind Sludge, mais Braymore l'enlève avec Duress. Nathon tente un Haunting Echoes et Guillaume le neutralise avec Scrying pour 6. Cependant, ce Scrying rabaisse beaucoup ses points de vie, et un CorruptMirari le finira deux tours plus tard.
 
 ### Deuxième Partie
 
@@ -91,7 +95,9 @@ Pendant que Guillaume joue que des lands, Nathon cherche Undead Gladiator avec D
 
 ### Troisième Partie
 
-![](http://www.wizards.com/sideboard/images/natcan03/a900.jpg)Guillaume et Nathon gardent toutes les deux des mains d'ouverture des 6 land, Corrupt. Guillaume agit en premier avec un Tainted Pact, pour Diabolic Tutor, pour Persecute. Persecute lui révèle 6 land et Corrupt.
+![](http://www.wizards.com/sideboard/images/natcan03/a900.jpg)
+
+Guillaume et Nathon gardent toutes les deux des mains d'ouverture des 6 land, Corrupt. Guillaume agit en premier avec un Tainted Pact, pour Diabolic Tutor, pour Persecute. Persecute lui révèle 6 land et Corrupt.
 
 Nathon pige un Mind Sludge et vide la main de Daoust. Un tour plus tard Guillaume n'a rien piger tandis que Nathon continue ses sauvageries avec Haunting Echoes et un Nantuko Shade qui le place bientôt dans le Top 2 du tournoi.
 

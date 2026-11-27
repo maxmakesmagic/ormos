@@ -387,7 +387,9 @@ render_recovery:
 ---
 * * *
 
-![Riptide Mangler... mmmmmmHey!](https://i.ormos.uk/56/8d/568da15e36b9851835cde91e15c4c61bdb43a510824aaf0fb44366662461e574.jpg)First, a confession. Blue beasts have always been a bit of a sticking point for me. When I think of "beasts", I think of primal forces of nature. That puts me in the mind of red and green, where brute strength has more value than rational thought. Blue beasts? Doesn't seem right. Blue beasts would think too much. You might as well put thick glasses on a Riptide Mangler and give him a physics textbook. 
+![Riptide Mangler... mmmmmmHey!](https://i.ormos.uk/56/8d/568da15e36b9851835cde91e15c4c61bdb43a510824aaf0fb44366662461e574.jpg)
+
+First, a confession. Blue beasts have always been a bit of a sticking point for me. When I think of "beasts", I think of primal forces of nature. That puts me in the mind of red and green, where brute strength has more value than rational thought. Blue beasts? Doesn't seem right. Blue beasts would think too much. You might as well put thick glasses on a Riptide Mangler and give him a physics textbook. 
 
 Wizards seems pretty intent on making some beasts blue, anyway – and since I rather like Riptide Mangler and his half-brother, Aquamoeba (where else can you find two casting cost beasts that aren't Skyshroud War Beast?), I suppose we should all cheer on the intellectual development of these fine fellows.
 

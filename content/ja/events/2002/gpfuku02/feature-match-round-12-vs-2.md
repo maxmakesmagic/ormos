@@ -157,7 +157,9 @@ render_recovery:
   - Gloomdrifter
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gpfuku02/915.jpg)前回の仙台 GP は惜しくも Best 8 止まりだったが予選ラウンドでの強さは他を圧倒するものがあり、依然としてその勢いは落ちていないと思われる石田格。
+![](http://www.wizards.com/sideboard/images/gpfuku02/915.jpg)
+
+前回の仙台 GP は惜しくも Best 8 止まりだったが予選ラウンドでの強さは他を圧倒するものがあり、依然としてその勢いは落ちていないと思われる石田格。
 
 そして、最近何かと話題の八王子四天王リーダー格とも言える中島主税。  
  彼自身も PTQ で大阪への権利を入手しており、勢いに乗って GP Best 8 への道を切り開きたい中島。だが、目の前に立ちはだかったのは日本最強と言っても過言では無い石田である。中島はこの高すぎる壁を塗り越えることが出来るだろうか？見守りたい。
@@ -169,7 +171,9 @@ render_recovery:
 
 両方ともマリガンから始まる。両方とも色から見ると速攻では無さそうなので一気に勝負が決まるようなことは無いだろう。
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/916.jpg)《くぐつ師/Puppeteer》は《無垢の血/Innocent Blood》で除去されたものの《秘教の盲信者/Mystic Zealot》と《優雅なアンテロープ/Graceful Antelope》で攻める中島、対する石田は《セファリッドの仲介人/Cephalid Broker》でデッキを回すことに専念しながらゆっくりと守りから固めていく。 石田は場に《精神を刻むもの/Mindslicer》が出ると 2 枚の《霊気の噴出/Aether Burst》でブロッカーを排除し《苛性タール/Caustic Tar》を張り、止めは《精神ヘドロ/Mind Sludge》で手札を空にして中島を殴りきった。
+![](http://www.wizards.com/sideboard/images/gpfuku02/916.jpg)
+
+《くぐつ師/Puppeteer》は《無垢の血/Innocent Blood》で除去されたものの《秘教の盲信者/Mystic Zealot》と《優雅なアンテロープ/Graceful Antelope》で攻める中島、対する石田は《セファリッドの仲介人/Cephalid Broker》でデッキを回すことに専念しながらゆっくりと守りから固めていく。 石田は場に《精神を刻むもの/Mindslicer》が出ると 2 枚の《霊気の噴出/Aether Burst》でブロッカーを排除し《苛性タール/Caustic Tar》を張り、止めは《精神ヘドロ/Mind Sludge》で手札を空にして中島を殴りきった。
 
 中島 0 - 1 石田
 
@@ -177,7 +181,9 @@ render_recovery:
 
 今度はマリガン無く順調な滑り出し、先に動けたのは中島で、《セファリッドの斥候/Cephalid Scout》《神秘の使い魔/Mystic Familiar》と順調に並べて石田に襲いかかる。
 
-![](https://i.ormos.uk/16/02/1602924ddc19f8e2d32254982ec6580f66cbe0b07a8b7f80601358071e3a98c3.jpg)《セファリッドの斥候/Cephalid Scout》は《苦悩/Afflict》されたものの《神秘の使い魔/Mystic Familiar》は継続して殴り順調に石田のライフを削っていくが後続が今一続かない。
+![](https://i.ormos.uk/16/02/1602924ddc19f8e2d32254982ec6580f66cbe0b07a8b7f80601358071e3a98c3.jpg)
+
+《セファリッドの斥候/Cephalid Scout》は《苦悩/Afflict》されたものの《神秘の使い魔/Mystic Familiar》は継続して殴り順調に石田のライフを削っていくが後続が今一続かない。
 
 遂にはライフレースでも追いつかれてきつい展開となり、《頭脳集団/Think Tank》によって高速スレッシュショルドを果たした石田の《薄暗がりを漂うもの/Gloomdrifter》で中島の場だけが一掃され、そのまま殴りきられてしまったのだった。
 

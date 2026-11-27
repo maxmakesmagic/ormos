@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/f7/c4/f7c4829ce2192efe9d1b2447879ebf98a24c81debcdae35e8526f76ac7458427.jpg)The two players seemed much more relaxed as this second round of the Top 8 began. The chatter went through all kinds of topics.
+![](https://i.ormos.uk/f7/c4/f7c4829ce2192efe9d1b2447879ebf98a24c81debcdae35e8526f76ac7458427.jpg)
+
+The two players seemed much more relaxed as this second round of the Top 8 began. The chatter went through all kinds of topics.
 
 "I'm going to draw," Mitch announced. He had won the choice and had to repeat it twice, table judge Mike Goodman either hadn't heard him or didn't believe the choice.
 
@@ -85,7 +87,9 @@ Mitch:
 
 ### Game 2
 
-![](https://i.ormos.uk/42/ea/42eaba9161515bd78305bcadafd34973509e48ed0facc62cf0208649958d4fb3.jpg)The two players shuffled up for Game 2 and with the blessing of Ken Krouner finally got it underway.
+![](https://i.ormos.uk/42/ea/42eaba9161515bd78305bcadafd34973509e48ed0facc62cf0208649958d4fb3.jpg)
+
+The two players shuffled up for Game 2 and with the blessing of Ken Krouner finally got it underway.
 
 Mitch played a turn three morph creature, which everyone again knew to be [Exalted Angel](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel). Kyle played an [Auramancer](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Auramancer), getting back the [Lightning Rift](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Rift) he had lost earlier in the game to [Ray of Revelation](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ray+of+Revelation). He lost it a second time immediately, as the [Ray of Revelation](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ray+of+Revelation) got flashed back from the yard.
 
@@ -95,7 +99,9 @@ The game degenerated at this point to a large staring contest between [Exalted A
 
 Kyle was able to use his two [Astral Slide](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide)s to keep Mitch's Angels from actually getting through the Red Zone. His hand was a little light on cyclers though after he cycled the [Tranquil Thicket](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tranquil+Thicket) he was holding. Down to only a [Krosan Tusker](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Tusker) in hand Kyle surveyed his options when the [Exalted Angel](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel)s attacked again.
 
-![](https://i.ormos.uk/39/66/3966de7f971ceff0e5136f3bba10f91f5574fc0725ea65d7b59084340655a517.jpg)"I take no damage," he stated after all of the combat tricks had been completed. Somehow the [Exalted Angel](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel)s were either removed from combat by [Astral Slide](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) or blocked by a different [Exalted Angel](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel). It seemed that the [Exalted Angel](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel) party was getting rather large.
+![](https://i.ormos.uk/39/66/3966de7f971ceff0e5136f3bba10f91f5574fc0725ea65d7b59084340655a517.jpg)
+
+"I take no damage," he stated after all of the combat tricks had been completed. Somehow the [Exalted Angel](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel)s were either removed from combat by [Astral Slide](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) or blocked by a different [Exalted Angel](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel). It seemed that the [Exalted Angel](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel) party was getting rather large.
 
 "Should he be searching?" Mitch asked the judges. Kyle had cycled a [Krosan Tusker](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Tusker) and then used the ability of both Slides and the [Lightning Rift](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Rift) before searching for a land, Mitch was wondering why it was that the [Krosan Tusker](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Tusker) ability wasn't the last one on the stack and therefore the first one off.
 

@@ -48,7 +48,9 @@ Both players are coming off of Top 8 finishes at Pro Tour Venice. Tomi made it a
 
 ### Game 1
 
-![](https://i.ormos.uk/ea/9e/ea9edddb1fcc6efa660d1de0a577f9f6b69a6068f4f474f02e9a881bc2b885f5.jpg)After some deliberation about what constituted heads and tails on Japanese coins, Gabriel lost the flip, which prompted the following exchange, "I have lost all of my coin tosses today."
+![](https://i.ormos.uk/ea/9e/ea9edddb1fcc6efa660d1de0a577f9f6b69a6068f4f474f02e9a881bc2b885f5.jpg)
+
+After some deliberation about what constituted heads and tails on Japanese coins, Gabriel lost the flip, which prompted the following exchange, "I have lost all of my coin tosses today."
 
 Tomi: "I'm sure you will get over it."
 
@@ -66,7 +68,9 @@ Tomi was still tight on mana—he had only four in play including his Bird and h
 
 Tomi played a land and was forced to discard two cards—[Visara](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Visara) and a Ghoul. Gabriel did nothing and sent the turn back to Tomi who still was missing a fourth land drop and he discarded a [Parallax Wave](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Parallax+Wave). Gabriel activated [Words of Wind](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Words+of+Wind) during his draw step and returned his [Wall of Blossoms](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Blossoms). When he played the Wall he activated the Words again and Tomi Deeded for 3 in response. Gabriel floated a boatload of mana and played Enchantress and Enchantress' Presence when the dust cleared. 
 
-![](https://i.ormos.uk/bb/f2/bbf2e6989878c6e97bf6380771da76cc4f905645f963b14479e6da68be11ada5.jpg)Tomi was still light on lands and the Words was going to be a problem if he didn't get something going soon. He played and Elf and a Bird and sent the turn back to Gabriel in pretty poor shape. Fertile ground yielded Gabriel two cards another [Words of Wind](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Words+of+Wind) found him two more and now he was in business. [Exploration](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exploration) drew him a card and bounced a permanent each. [Seal of Removal](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Removal) did the same and then Gabriel sac'd it and bounced the Bird. Tomi had nothing and scooped when Gabriel played another Enchantress and showed him that he was going to bounce up to three cards every time he played an enchantment.
+![](https://i.ormos.uk/bb/f2/bbf2e6989878c6e97bf6380771da76cc4f905645f963b14479e6da68be11ada5.jpg)
+
+Tomi was still light on lands and the Words was going to be a problem if he didn't get something going soon. He played and Elf and a Bird and sent the turn back to Gabriel in pretty poor shape. Fertile ground yielded Gabriel two cards another [Words of Wind](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Words+of+Wind) found him two more and now he was in business. [Exploration](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exploration) drew him a card and bounced a permanent each. [Seal of Removal](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Removal) did the same and then Gabriel sac'd it and bounced the Bird. Tomi had nothing and scooped when Gabriel played another Enchantress and showed him that he was going to bounce up to three cards every time he played an enchantment.
 
 Tomi – 0 Gabriel – 1
 
@@ -88,7 +92,9 @@ Gabriel seemed tense about his opening hand and thought about whether or not to 
 
 Gabriel kicked Game 3 off with [Forest](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest), [Exploration](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exploration) and a [Yavimaya Coast](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Yavimaya+Coast). Tomi took one form his [Llanowar Wastes](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Wastes) to play a Bird but Gabriel stunted his mana when he played an Enchantress and followed it up with a cantrip [Seal of Removal](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Removal) and used it to bounce the Bird. Tomi played another wastes and took another point to replay the mana bird.
 
-![](https://i.ormos.uk/19/67/19672c4c7ec813c76d43460c3e97cb2d70483e5276a82b655f8f3e9077cbf738.jpg)Victory was within Gabriel's grasp but he needed Tomi to not have a timely [Engineered Plague](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Plague) as he played a [Fertile Ground](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fertile+Ground), which found him his second Enchantress, 'Please Tomi. Don't have the Plague...please." 
+![](https://i.ormos.uk/19/67/19672c4c7ec813c76d43460c3e97cb2d70483e5276a82b655f8f3e9077cbf738.jpg)
+
+Victory was within Gabriel's grasp but he needed Tomi to not have a timely [Engineered Plague](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Plague) as he played a [Fertile Ground](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fertile+Ground), which found him his second Enchantress, 'Please Tomi. Don't have the Plague...please." 
 
 Tomi did not have the plague and he was missing land number three but he was able to use what he had to cast [Pernicious Deed](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pernicious+Deed). Tapped out—he sent the turn back to Gabriel who was tremendously relieved that his Enchantresses lived to see another turn.
 

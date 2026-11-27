@@ -53,7 +53,9 @@ render_recovery:
 ---
 *by Alex Shvartsman*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FDmikeyandWebguys.jpg)Mastering the booster draft format involves a variety of skills. The most obvious is your ability to rate the cards. Some choices are relatively simple - just about everyone realizes that Nomadic Elf is better than Quirion Sentinel, or that Benalish Heralds are far better in a U/W deck than Prison Barricade. Other choices aren't as simple. Is Repulse better than a Wash Out? Do you first-pick Plague Spores or Probe? These are difficult questions that you will find many of the better players disagree upon.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FDmikeyandWebguys.jpg)
+
+Mastering the booster draft format involves a variety of skills. The most obvious is your ability to rate the cards. Some choices are relatively simple - just about everyone realizes that Nomadic Elf is better than Quirion Sentinel, or that Benalish Heralds are far better in a U/W deck than Prison Barricade. Other choices aren't as simple. Is Repulse better than a Wash Out? Do you first-pick Plague Spores or Probe? These are difficult questions that you will find many of the better players disagree upon.
 
 The second most important skill is being able to "read the draft" and adjust your strategy. To oversimplify this, if you get a ninth pick Kavu Chameleon, there is a good chance that green is underdrafted at your table, and you might consider splashing this color or even drafting it heavily.
 
@@ -73,7 +75,9 @@ In pack 7, Maher can either pick a Metathran Zombie as the only card in his colo
 
 Pustilnik snatches up the Restraint, as expected. The rest of pack one are mostly poor cards or counterdrafts. Maher picks up a Coastal Tower, Hunting Kavu and Urborg Volcano. Pustilnik ends up with a Prison Barricade and several cards of no consequence such as Savage Offensive.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FDPustilnik.jpg)Now we go into the second pack. This is Pustilnik's big chance to pick up some high quality black and blue cards without being filtered by Maher. The pack Pustilnik opens is not that great. He gets Exotic Curse, and Maher takes Shoreline Raider out of this pack. Maher's own first pick is another Faerie Squadron. The second pack is far more amazing. Pustilnik has a choice between Soul Burn, Repulse and Sleeper's Robe. After some consideration, Pustilnik chooses Repulse. Maher is quite happy with Sleeper's Robe. In a black-red deck, Soul Burn is great, but neither of these two players can utilize it quite as well as the cards they took over it.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FDPustilnik.jpg)
+
+Now we go into the second pack. This is Pustilnik's big chance to pick up some high quality black and blue cards without being filtered by Maher. The pack Pustilnik opens is not that great. He gets Exotic Curse, and Maher takes Shoreline Raider out of this pack. Maher's own first pick is another Faerie Squadron. The second pack is far more amazing. Pustilnik has a choice between Soul Burn, Repulse and Sleeper's Robe. After some consideration, Pustilnik chooses Repulse. Maher is quite happy with Sleeper's Robe. In a black-red deck, Soul Burn is great, but neither of these two players can utilize it quite as well as the cards they took over it.
 
 The third pack is quite poor. Pustilnik takes a Salt Marsh - which isn't really that bad at all. Tap lands are drafted very highly, especially if the player might be splashing a third color, as they increase the deck's consistency. Maher is stuck picking a Hooded Kavu, as there aren't any good picks in his colors left in that pack. Next few packs are no better, with Pustilnik and Maher drafting Stand/Deliver and Mourning, then Slinking Serpent and Nightscape Apprentice respectively. At this point Pustilnik gets an unexpected gift in form of a Sleeper's Robe, then snatches up Phyrexian Battleflies, Urborg Phantom and Reviving Vapors. Maher is forced to settle for some solid off-color cards like Zap and Razortooth Griffin.
 

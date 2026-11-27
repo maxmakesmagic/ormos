@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *por Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/879.jpg)El primer juego el Winie de Emanuel fue implacable, y aunque el Turbo Black Jack de Hugo solo necesita de pocas cartas para hacer el combo, sin mná esta maniatado; las Guardianas del Alma y los Soltari Priest atacaron cada turno, llevando a este juego a un pronto final. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/879.jpg)
+
+El primer juego el Winie de Emanuel fue implacable, y aunque el Turbo Black Jack de Hugo solo necesita de pocas cartas para hacer el combo, sin mná esta maniatado; las Guardianas del Alma y los Soltari Priest atacaron cada turno, llevando a este juego a un pronto final. 
 
 0-1 
 

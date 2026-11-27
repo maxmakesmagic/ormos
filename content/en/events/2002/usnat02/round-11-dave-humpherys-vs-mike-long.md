@@ -53,7 +53,9 @@ archive_source:
   sha256: 45d48c8b846d80a911a71a24b4e7e6d8b63fc4dfb8cdfed4892ff13b64e0a3d5
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a804.jpg)Mike Long, a one-time fixture in US Nationals Top 8's, is in a bit of a fix. He has a record that would allow him to make the Top 8 with a win and a draw, but no one at his table can afford to draw with him. So he, like his opponent - YMG's Dave Humpherys, must win the last two rounds in order to have a shot at making the US Team.
+![](http://www.wizards.com/sideboard/images/usnat02/a804.jpg)
+
+Mike Long, a one-time fixture in US Nationals Top 8's, is in a bit of a fix. He has a record that would allow him to make the Top 8 with a win and a draw, but no one at his table can afford to draw with him. So he, like his opponent - YMG's Dave Humpherys, must win the last two rounds in order to have a shot at making the US Team.
 
 The action started when the Hump, playing black/white, summoned a Shieldmage Advocate on turn three that enabled a turn-4 double Battle Screech. Long, playing white/red answered with a Battlewise Aven that looked to be capable of playing "D" all by itself.
 
@@ -65,7 +67,9 @@ Long kept killing tokens, then went on the offensive in earnest with a Pardic Fi
 
 He stemmed things a little with a Screams of the Damned that killed the Halbardier, but he wasn't making any real progress... until Humpherys drew Chastise.
 
-![](https://i.ormos.uk/d5/97/d5979ef6901d523d0efa77070d1a04115041d53941c521dc20e0a6abe71e791a.jpg)One thing about Arcane Teachings is that it makes your guy large enough that it's worth attacking with it, which means it will occasionally fall prey to things like Chastise. Long look very upset that his flying monstrosity was dispatched thusly. But he had a backup plan, first Sonic Seizuring Humphery's (tapped) Advocate, then summoning the colossal Worldgorger Dragon, emptying his side of the table.
+![](https://i.ormos.uk/d5/97/d5979ef6901d523d0efa77070d1a04115041d53941c521dc20e0a6abe71e791a.jpg)
+
+One thing about Arcane Teachings is that it makes your guy large enough that it's worth attacking with it, which means it will occasionally fall prey to things like Chastise. Long look very upset that his flying monstrosity was dispatched thusly. But he had a backup plan, first Sonic Seizuring Humphery's (tapped) Advocate, then summoning the colossal Worldgorger Dragon, emptying his side of the table.
 
 The Hump valiantly tried to race the big Dragon's seven-point clock with a Shade's Form on his Teroh's Faithful, but at the last moment, Long played out enough new land to summon an Angelic Wall to stop the last hit from the Shady Faithful.
 
@@ -81,7 +85,9 @@ Humpherys remained the aggressor, casting his Bodyguard again and a Pilgrim of J
 
 Long Firebolted the Bodyguard (effectively), and Humpherys used his two flashback cards to duplicate his previous turn, killing the other Chieftain. Long was at 10 life.
 
-![](http://www.wizards.com/sideboard/images/usnat02/a805.jpg)Then Long drew a Plains - his hand was four white cards - and summoned the beefy Anurid Brushhopper. Angelic Wall and Border Patrol joined the team, and Long stabilized the board.
+![](http://www.wizards.com/sideboard/images/usnat02/a805.jpg)
+
+Then Long drew a Plains - his hand was four white cards - and summoned the beefy Anurid Brushhopper. Angelic Wall and Border Patrol joined the team, and Long stabilized the board.
 
 Long started attacking with the Brushhopper and a newly-summoned Battlewise Aven, and Humpherys drew six straight land and could only shake his head in disgust as his side of the board deteriorated.
 

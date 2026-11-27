@@ -44,7 +44,9 @@ archive_source:
   sha256: f528b6015cd49146b055314d1ea53f956c0b165b7abf72bafebe6f6d279f1c4f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a669.jpg)The first-place team after three days of individual play is not the US, not Kai Budde's Germany, and not the superstar-riddled Dutch team, but is instead the unheralded Argentineans, led by Diego Ostrovich. Ostrovich finished the individual part of the tournament in first place, and his two teammates Gabriel Michelena and Gabriel Caligaris did well enough to make that hold up.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a669.jpg)
+
+The first-place team after three days of individual play is not the US, not Kai Budde's Germany, and not the superstar-riddled Dutch team, but is instead the unheralded Argentineans, led by Diego Ostrovich. Ostrovich finished the individual part of the tournament in first place, and his two teammates Gabriel Michelena and Gabriel Caligaris did well enough to make that hold up.
 
 Their opponent's in the first round of team Rochester are the Germans, led not by Kai Budde, but rather by Mark Zeigner, who will be joining Ostrovich in the Top 8 on Sunday. Zeigner will be handing over the reins to Kai on this day, however, as Kai knows this format better than any player in this tournament, having won the last team draft Pro Tour as a member of the Phoenix Foundation.
 
@@ -83,7 +85,9 @@ Zeigner 2 – Ostrovich 1
 
 The second match was between Germany's Felix Schneiders (red/green) and Argentina's Gabriel Caligaris (white/green splash black).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a670.jpg)Gabriel was on the offensive in the first game; his shaky manabase cooperated enough to give him a [Vigilant Sentry](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vigilant+Sentry) and a [Soul Scourge](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge). Felix was swinging back with an [Elephant Guide](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Guide)d [Pardic Arsonist](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pardic+Arsonist) and a [Barbarian Lunatic](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barbarian+Lunatic).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a670.jpg)
+
+Gabriel was on the offensive in the first game; his shaky manabase cooperated enough to give him a [Vigilant Sentry](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vigilant+Sentry) and a [Soul Scourge](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge). Felix was swinging back with an [Elephant Guide](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Guide)d [Pardic Arsonist](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pardic+Arsonist) and a [Barbarian Lunatic](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barbarian+Lunatic).
 
 At one point Gabriel decided to block the Lunatic with the Sentry, allowing Felix to 2-for-1 him by throwing it at the [Soul Scourge](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge). But Gabriel was ready for such an obvious play, and used [Embolden](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Embolden) to keep both of his creatures alive.
 
@@ -106,7 +110,9 @@ At only seven life, Felix could only watch as Gabriel animated his Monastery, ca
 Caligaris 2 – Schneiders 0  
 **GERMANY 1 – ARGENTINA 1**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a671.jpg)So it would all come down to this – Gabriel Michelena vs. Kai Budde. Michelena has an aggressive blue/green deck, and Kai played blue/white splashing red for [Arcane Teachings](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcane+Teachings).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a671.jpg)
+
+So it would all come down to this – Gabriel Michelena vs. Kai Budde. Michelena has an aggressive blue/green deck, and Kai played blue/white splashing red for [Arcane Teachings](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcane+Teachings).
 
 Kai kept an opening hand of four white cards, a [Stupefying Touch](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stupefying+Touch), and two [Island](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s, but lucked into a plains on his second draw phase, allowing him to play [Patrol Hound](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patrol+Hound).
 
@@ -128,7 +134,9 @@ Michelena 1- Budde 1
 
 As time started running out, Game 3—the one for all the marbles—started grinding to a halt. Michelena had out a [Ghostly Wings](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghostly+Wings)'d [Aquamoeba](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba), a [Phantom Tiger](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Tiger), and a [Cephalid Looter](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cephalid+Looter) to Kai's [Aven Flock](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Flock), [Hallowed Healer](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hallowed+Healer), [Trained Pronghorn](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trained+Pronghorn) and [Major Teroh](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Major+Teroh). The [Aquamoeba](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba) was playing some serious "D."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a672.jpg)Michelena played his Warthog again, but Kai had a [Cagemail](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cagemail) for it. A [Stupefying Touch](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stupefying+Touch) shut down the Looter, and no one was going anywhere. Kai started to get frustrated at Michelena's pace of play, and judges started watching to make sure there was no stalling going on.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a672.jpg)
+
+Michelena played his Warthog again, but Kai had a [Cagemail](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cagemail) for it. A [Stupefying Touch](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stupefying+Touch) shut down the Looter, and no one was going anywhere. Kai started to get frustrated at Michelena's pace of play, and judges started watching to make sure there was no stalling going on.
 
 Michelena weighed all his options before casting [Acorn Harvest](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Acorn+Harvest) twice and passing the turn. Kai's teammate Mark Zeigner threw up his hands in outrage over the length of Michelena's turns. The Netherlands' Noah Boeken jumped to Michelena's defense from the audience.
 

@@ -583,4 +583,6 @@ Mimic Week is over! Did you guess who wrote this article?
 
 Click here to find out if you're right.
 
-![Kenneth Nagle](https://i.ormos.uk/3f/a1/3fa15c700ac00542fb32c2741ccc6f4383140be435e8925531d65e73878f05f0.jpg)This article was written by **magicthegathering.com** Editor in Chief Scott Johns!
+![Kenneth Nagle](https://i.ormos.uk/3f/a1/3fa15c700ac00542fb32c2741ccc6f4383140be435e8925531d65e73878f05f0.jpg)
+
+This article was written by **magicthegathering.com** Editor in Chief Scott Johns!

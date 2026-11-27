@@ -77,7 +77,9 @@ archive_source:
   sha256: f6d76bbf9fb70d5238377a8ab66cee19c6a696e3d783dddb03a319084c293538
 render_recovery: []
 ---
-[![Magic Hall of Fame](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg)](https://web.archive.org/web/20070806000000/https://magic.wizards.com/en/node/574031)This scene certainly played out at multiple locations two years ago...**Magic** fan looks at new [**Magic** Pro Tour Hall of Fame](https://web.archive.org/web/20070806000000/https://magic.wizards.com/en/node/574031). **Magic** fan looks to see who's eligible each year. **Magic** fan's jaw drops when looking at the gargantuan talent assembled on the Year Three ballot.
+[![Magic Hall of Fame](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg)](https://web.archive.org/web/20070806000000/https://magic.wizards.com/en/node/574031)
+
+This scene certainly played out at multiple locations two years ago...**Magic** fan looks at new [**Magic** Pro Tour Hall of Fame](https://web.archive.org/web/20070806000000/https://magic.wizards.com/en/node/574031). **Magic** fan looks to see who's eligible each year. **Magic** fan's jaw drops when looking at the gargantuan talent assembled on the Year Three ballot.
 
 After two years of constant debate, the time has arrived to sort out the stars.
 

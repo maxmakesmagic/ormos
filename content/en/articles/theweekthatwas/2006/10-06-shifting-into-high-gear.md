@@ -407,7 +407,9 @@ render_recovery:
 
 We are in a bubble of slow time for the purposes of this column. The Week That Was has been pretty slow as **Magic** hangs in a weird little limbo waiting for the last suspend counter to be removed from the new and old *Time Spiral* goodies that go on sale… any minute now. Things get going full speed this weekend with a buffet of events that will appeal to almost any **Magic** palette. 
 
-![](https://i.ormos.uk/b4/bd/b4bd39add3cff17f2559b58c73454a12badf1a2e1bbdad997c6aef2a0cd73887.jpg)For those of you who either missed your (sometimes not-so) local Prerelease or simply can't get enough of the timeshifted goodness, there are release tournaments going on all over the world at the retail-store level. Looking for a local tournament? You can find full schedules [here](https://web.archive.org/web/20061111103259/http://www.wizards.com/default.asp?x=mtgcom/release/timespiral). 
+![](https://i.ormos.uk/b4/bd/b4bd39add3cff17f2559b58c73454a12badf1a2e1bbdad997c6aef2a0cd73887.jpg)
+
+For those of you who either missed your (sometimes not-so) local Prerelease or simply can't get enough of the timeshifted goodness, there are release tournaments going on all over the world at the retail-store level. Looking for a local tournament? You can find full schedules [here](https://web.archive.org/web/20061111103259/http://www.wizards.com/default.asp?x=mtgcom/release/timespiral). 
 
 The format for these events is the same as Prerelease weekend – one Tournament Pack and two boosters of *Time Spiral* – and players have a chance to not only win additional boosters of the new set but life counters produced exclusively for these tournaments. On top of that, everyone who attends will receive a special foil Sudden Shock for attending the tournament. 
 

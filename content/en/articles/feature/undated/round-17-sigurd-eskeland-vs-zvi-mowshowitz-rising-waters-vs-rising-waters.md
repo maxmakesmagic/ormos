@@ -68,7 +68,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/326.jpg)In round 17 Norway's Sigurd Eskeland met USA's Zvi Mowshowitz. Eskeland won Pro Tour New York this year at this very same format. That deck was designed by Team Mogg Squad, of which Mowshowitz is also a member. Today Mogg Squad have brought another deck, another waters variant, but this one plays a lot differently...
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/326.jpg)
+
+In round 17 Norway's Sigurd Eskeland met USA's Zvi Mowshowitz. Eskeland won Pro Tour New York this year at this very same format. That deck was designed by Team Mogg Squad, of which Mowshowitz is also a member. Today Mogg Squad have brought another deck, another waters variant, but this one plays a lot differently...
 
 Game one saw both players trade off early bouncers. On both sides two bouncers each manage to bash themselves senseless. Mowshowitz has a third though, but he is facing down an airship and then Eskeland casts a troubled Spirit. This is exactly what Mowshowitz wants to see as he lays the edge, his 4th land, and proves he has it with a devastating rising waters. The ensuing counter war leaves Eskeland with no hand and Moshowitz no islands. But the waters is on the table and Eskeland's troublesome spirit looks especially troublesome for the wrong reasons. Obligingly, Mowshowitz sends Eskeland's airforce back to the hangar. Out comes the Chimeric Idol, and the tank crushes Eskeland.
 

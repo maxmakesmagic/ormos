@@ -269,13 +269,17 @@ render_recovery:
   - Vulshok Gauntlets
   occurrences: 1
 ---
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_sealed2_picMain_ja.jpg)初出場だった昨シーズンのPT横浜でBest 32 、先週行われた PT New Orleans では Best 8 と日本人の中でも特に活躍の目立つ横須賀智裕のシールドデッキ構築を取り上げてみることにしよう。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_sealed2_picMain_ja.jpg)
+
+初出場だった昨シーズンのPT横浜でBest 32 、先週行われた PT New Orleans では Best 8 と日本人の中でも特に活躍の目立つ横須賀智裕のシールドデッキ構築を取り上げてみることにしよう。
 
 パックを開封してみたところ…黒には除去が 4 枚有り、そのうち《魂の消耗/Consume Spirit》が 2 枚という具合に黒ベースのデッキとなりそうで、《解体/Deconstruct》や《ヴィリジアンのシャーマン/Viridian Shaman》といった緑のアーティファクト除去を散らして黒緑デッキになりそうな様相だった。マナバランス的には《マイアが》 2 体に《タリスマン》も 2 枚と十分整っており、好感触である。
 
 ここでの悩みどころは…赤唯一の強力カード、《トゲ撃ちゴブリン/ Spikeshot Goblin 》を入れるか入れないか。結局、上で書いた通り 2 枚の《魂の消耗》が除去の要となり、タリスマンを 2 枚投入する関係で出来るだけ土地は入れたくない横須賀は色マナ安定のために入れないことを選択した。
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_sealed2_pic1_ja.jpg)最後の選択はアーティファクトが多く、高速展開が出来るであろう《金属ガエル/ Frogmite 》とプロテクション : アーティファクトを持ち序盤から攻めにも守りにも使える《テル＝ジラードに選ばれし者/ Tel-Jilad Chosen 》の 2 択。ここで横須賀は後者を選択。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_sealed2_pic1_ja.jpg)
+
+最後の選択はアーティファクトが多く、高速展開が出来るであろう《金属ガエル/ Frogmite 》とプロテクション : アーティファクトを持ち序盤から攻めにも守りにも使える《テル＝ジラードに選ばれし者/ Tel-Jilad Chosen 》の 2 択。ここで横須賀は後者を選択。
 
 これは装備品がどれも重く別のクリーチャーに装備されていたり、装備品自体が割られる事が予想されるため、ただの 2 / 2 で終わってしまう可能性が高い《金属ガエル》より《テル＝ジラードに選ばれし者》を選ぶのは賢明と言えるだろう。
 

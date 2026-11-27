@@ -296,7 +296,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/f2/e9/f2e9f14fc19ee910cd72e9b312b713b4d4172db0e8763892736cb26fb0b9db54.jpg)A long time ago, in a galaxy far, far away…there was a card called Sleight of Mind. This card (lovingly known as ‘the brain’ to some) found a home in many rogue decks for years. Its close cousin, Magical Hack, also found a home in many of these decks. Between the two, people were changing their Circles of Protection and Karmas to whatever they happened to need at the moment. Sure, these two card combos were not that great, but they did certainly annoy lots of people – especially those who just happened to be playing the colors that the hoser cards were actually supposed to be good against. Imagine bringing your Necro deck to the table and watching your opponent play out a maindeck Karma.
+![](https://i.ormos.uk/f2/e9/f2e9f14fc19ee910cd72e9b312b713b4d4172db0e8763892736cb26fb0b9db54.jpg)
+
+A long time ago, in a galaxy far, far away…there was a card called Sleight of Mind. This card (lovingly known as ‘the brain’ to some) found a home in many rogue decks for years. Its close cousin, Magical Hack, also found a home in many of these decks. Between the two, people were changing their Circles of Protection and Karmas to whatever they happened to need at the moment. Sure, these two card combos were not that great, but they did certainly annoy lots of people – especially those who just happened to be playing the colors that the hoser cards were actually supposed to be good against. Imagine bringing your Necro deck to the table and watching your opponent play out a maindeck Karma.
 
 Ouch.
 

@@ -76,7 +76,9 @@ render_recovery:
   - robert.schuster@wizards.com
   occurrences: 1
 ---
-![](https://i.ormos.uk/61/f8/61f83bf78df7b3cd5a7ccc53772f71a8a88b6e38c29e1fbc9e0b575a09c455cc.jpg)Think you have the skill to be one of the best **Magic Online** players around and earn your share of a $100,000 USD prize pool? Find out by earning your chance to go head-to-head against the defending 2011 **Magic Online** champion, Reid Duke, and fifteen other competitors in the 2012 **Magic Online** Championship Series. 
+![](https://i.ormos.uk/61/f8/61f83bf78df7b3cd5a7ccc53772f71a8a88b6e38c29e1fbc9e0b575a09c455cc.jpg)
+
+Think you have the skill to be one of the best **Magic Online** players around and earn your share of a $100,000 USD prize pool? Find out by earning your chance to go head-to-head against the defending 2011 **Magic Online** champion, Reid Duke, and fifteen other competitors in the 2012 **Magic Online** Championship Series. 
 
 Increased to a field of sixteen finalists for 2012, the **Magic Online** Championship Series (MOCS) features more chances than ever for players to earn an invitation to the **Magic Online** Championship to be held in 2013. The sixteen 2012 **Magic Online** Championship finalists will include: 
 

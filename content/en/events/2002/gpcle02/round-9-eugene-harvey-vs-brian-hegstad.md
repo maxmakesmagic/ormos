@@ -109,7 +109,9 @@ render_recovery:
   - Morbid Hunger
   occurrences: 109
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a932.jpg)"I like your deck," said Brian Hegstad appreciatively. "We tried a couple of versions of that deck, but none of them worked."
+![](http://www.wizards.com/sideboard/images/gpcle02/a932.jpg)
+
+"I like your deck," said Brian Hegstad appreciatively. "We tried a couple of versions of that deck, but none of them worked."
 
 Eugene's deck was indeed working - and it was the talk of the town. Many had tried to break Holistic Wisdom and Mirari's Wake before him, but it wasn't until *Odyssey* Block that a competitive Wisdom deck was born... A three-color hodgepodge confection of formerly-janky cards like Compulsions, Far Wanderings, and Crush of Wurms mixed in with tournament staples like Quiet Speculations, Aether Bursts, Moment's Peaces and Deep Analysis, the idea is to use Wake to ramp up to Crush of Wurms, find the relevant cards with Compulsion, then take a couple of Time Stretches to smash with a triplet of Wurm tokens. 
 
@@ -127,7 +129,9 @@ Harvey used the Verge at the end of his fourth turn to get three colors; he had 
 
 Brian, seeing his opportunity, spent several minutes debating what to do. It was now turn 5, and fifteen minutes had passed. Finally, he decided to take advantage of the unexpected opportunity by Mind Sludging Eugene for five. Unfortunately, Eugene had wisely kept a full hand for just such an opportunity, and dropped all but the critical Wake and Holistic Wisdom after several long moments of consideration, casting the Wake the next turn. 
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a934.jpg)Hegstad wished for a Mutilate that could hit enchantments.
+![](http://www.wizards.com/sideboard/images/gpcle02/a934.jpg)
+
+Hegstad wished for a Mutilate that could hit enchantments.
 
 Hegstad took a long time to decide his next move, which isn't surprising; no doubt he had the U/G and monoblack matchups burned into the deepest recesses of his synapses by now, but *this*? He *had* to think about it. While he did, several generations of fruit flies were born, fell in love, grew old together, and died. Nobody said a word. 
 
@@ -163,7 +167,9 @@ Hegstad mulliganed in silence, then mulliganed down to five; not a good start fo
 
 Hegstad summoned Braids - his main hope of defeating the Wake deck. Unfortunately, Harvey sacked a plains the next turn, then dropped a Wake, thereby defeating Hegstad's strategy of attacking Harvey's mana base; when every land produces two mana, it's not nearly as painful to sacrifice one.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a936.jpg)Braids attacked; Eugene Living Wished for, of all things, Major Teroh, who seemed relieved to show up in a deck that might actually get to use him before he gets sacrificed. He Burst Braids back to Hegstad's hand during the attack phase, right after Hegstad had fed yet another a swamp to our favorite psycho; rather than recast her and sacrifice another much-needed swamp during his upkeep, Hegstad instead Scryed again at the end of Harvey's turn, this time for three, searching for anything that could stop this slow juggernaut of a deck. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a936.jpg)
+
+Braids attacked; Eugene Living Wished for, of all things, Major Teroh, who seemed relieved to show up in a deck that might actually get to use him before he gets sacrificed. He Burst Braids back to Hegstad's hand during the attack phase, right after Hegstad had fed yet another a swamp to our favorite psycho; rather than recast her and sacrifice another much-needed swamp during his upkeep, Hegstad instead Scryed again at the end of Harvey's turn, this time for three, searching for anything that could stop this slow juggernaut of a deck. 
 
 On his turn, he recast the Burst Braid and Diabolic Tutored; Eugene considered the Envelop, and opted to stop the Tutor in its tracks - mainly because Hegstad had only three cards, and Harvey wanted to keep him low. At the end of Hegstad's turn, Harvey broke open a Krosan Verge to get him two lands as extra Braids food, then laid the Wished-for Major Teroh to get rid of Braids. 
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![William Jensen](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsd04/fm7_1.jpg)Both of these accomplished players were in dire straits as Day 2 began in San Diego. Each had only four wins against three losses, and Cornelissen postulated that neither could afford a single loss today if they were to make Top 8. On top of that, both had lost the first round with these specific draft decks (last night), so neither was feeling confident--or particularly awake--as the opening bell sounded this morning.
+![William Jensen](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptsd04/fm7_1.jpg)
+
+Both of these accomplished players were in dire straits as Day 2 began in San Diego. Each had only four wins against three losses, and Cornelissen postulated that neither could afford a single loss today if they were to make Top 8. On top of that, both had lost the first round with these specific draft decks (last night), so neither was feeling confident--or particularly awake--as the opening bell sounded this morning.
 
 As Collin Jackson was announcing that the round began, Anton Jonsson tore into the Feature Match area, mere seconds from being late for his neighboring match against Antoine Ruel. It seems that 9 AM is too early for gamers around the globe.
 

@@ -86,7 +86,9 @@ render_recovery:
   - Ghostly Wings
   occurrences: 37
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a935.jpg)Everyone knows smilin' Alex Shvartsman, Grand Prix party-crasher. It's no surprise to find he managed to run his final table to get a seat in the Top 8. His deck is particularly nasty, a black-green bit of brutality headed by none other than Laquatus's Champion. Shvartsman's used to having that bad boy win Grand Prix for him.
+![](http://www.wizards.com/sideboard/images/gpkl02/a935.jpg)
+
+Everyone knows smilin' Alex Shvartsman, Grand Prix party-crasher. It's no surprise to find he managed to run his final table to get a seat in the Top 8. His deck is particularly nasty, a black-green bit of brutality headed by none other than Laquatus's Champion. Shvartsman's used to having that bad boy win Grand Prix for him.
 
 In his way is the more reserved Chang Chua of Singapore. Also no stranger to Grand Prix Top 8's, Chua does it on a more local scale. Today he has a textbook blue-white control deck. Despite Chua's skills, demonstrated again this weekend, Shvartsman remains a heavy favorite, and is brimming with confidence.
 

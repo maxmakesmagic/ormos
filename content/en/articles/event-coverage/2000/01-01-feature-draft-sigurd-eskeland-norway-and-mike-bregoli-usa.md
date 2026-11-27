@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/900.jpg)In the first Masters draft, Sigurd Eskeland and Mike Bregoli drafted at the same table. Bregoli was sitting to Eskeland's right, feeding him during the first and third pack. Stephan Valkyser was sitting to Bregoli's right, while Eskeland had Joe Weber to his left. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/900.jpg)
+
+In the first Masters draft, Sigurd Eskeland and Mike Bregoli drafted at the same table. Bregoli was sitting to Eskeland's right, feeding him during the first and third pack. Stephan Valkyser was sitting to Bregoli's right, while Eskeland had Joe Weber to his left. 
 
 Bregoli opened a pack that contained a couple of possible first picks - an Annihilate, a Tribal Flames, a Thornscape Apprentice and a Plague Spores. He chose the Annihilate. Meanwhile, Sigurd's pack held a Phyrexian Infiltrator and a Plague Spores, and the Norwegian chose the Spores, committing himself to red and black. He then picked up the second Spores while Bregoli went into blue and white after taking a Teferi's Moat. 
 

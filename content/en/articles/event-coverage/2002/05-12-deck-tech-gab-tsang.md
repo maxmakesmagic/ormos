@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/929.jpg)Long time pro player from Canada Gab Tsang showed up at GP Milwaukee with an exciting new deck called Zombies Online! On the surface it appears to be a typical BUG deck, but after further inspection you notice that it doesn't run cards typical of that deck such as [Pernicious Deed](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pernicious+Deed) and [Spiritmonger](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiritmonger). Instead, Zombies Online takes massive advantage of the madness mechanic from *Torment*. I sat down to discuss his deck build with him between rounds nine and ten.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/929.jpg)
+
+Long time pro player from Canada Gab Tsang showed up at GP Milwaukee with an exciting new deck called Zombies Online! On the surface it appears to be a typical BUG deck, but after further inspection you notice that it doesn't run cards typical of that deck such as [Pernicious Deed](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pernicious+Deed) and [Spiritmonger](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiritmonger). Instead, Zombies Online takes massive advantage of the madness mechanic from *Torment*. I sat down to discuss his deck build with him between rounds nine and ten.
 
 **Ben:** How'd you do this past round?
 

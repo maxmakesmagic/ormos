@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a735.jpg)Ireland has fallen to second place in the team standings behind the surging Argentinean team, and John Larkin blames Raphael Levy, who fell last round to the top Argentinean, Diego Ostrovich.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a735.jpg)
+
+Ireland has fallen to second place in the team standings behind the surging Argentinean team, and John Larkin blames Raphael Levy, who fell last round to the top Argentinean, Diego Ostrovich.
 
 Levy cast a [Mental Note](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mental+Note), and then Larkin cast a [Mesmeric Fiend](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend), taking a moment to decide to steal Levy's [Aether Burst](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst). Levy played a [Werebear](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear), and then Larkin one-upped him with a [Shadowmage Infiltrator](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowmage+Infiltrator). Levy tried putting out some small creatures like [Werebear](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear) and [Nimble Mongoose](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nimble+Mongoose), but Larkin had Edict's at the ready and the Infiltrator was drawing more.
 
@@ -68,7 +70,9 @@ He played out a [Werebear](https://web.archive.org/web/20020816000000/https://ga
 Levy: "This was a bad draw."  
  Larkin: "I thought it would be better than *this*."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a739.jpg)With an empty hand and six mana and a Mongoose in play, Levy topdecked an [Upheaval](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval). He cast it, replayed a [Forest](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) and dropped the Mongoose. He wasn't even close to threshold. Larkin passed the turn, and Levy played a [Werebear](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear). Larkin recast his [Mesmeric Fiend](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend) and was saddened to see that Levy had drawn a [Breakthrough](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Breakthrough) which would be capable of giving him threshold at a moment's notice, so he took that card.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a739.jpg)
+
+With an empty hand and six mana and a Mongoose in play, Levy topdecked an [Upheaval](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval). He cast it, replayed a [Forest](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) and dropped the Mongoose. He wasn't even close to threshold. Larkin passed the turn, and Levy played a [Werebear](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear). Larkin recast his [Mesmeric Fiend](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend) and was saddened to see that Levy had drawn a [Breakthrough](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Breakthrough) which would be capable of giving him threshold at a moment's notice, so he took that card.
 
 Unfortunately Levy drew another [Breakthrough](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Breakthrough) on his next turn and he cast it for two, discarding three [Wonder](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wonder)s and getting threshold. He attacked for seven with the Bear and the 'Goose.
 
@@ -76,7 +80,9 @@ Larkin had a [Coffin Purge](https://web.archive.org/web/20020816000000/https://g
 
 Larkin 1 – Levy 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a737.jpg)Both players started with 2/1's in the deciding game—Larkin played a [Nantuko Shade](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Shade) and Levy a [Seton's Scout](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seton%27s+Scout). Levy's was killed with an Edict, and he replaced it with a [Werebear](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear), fully thresholded thanks to a pair of Careful Studies.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a737.jpg)
+
+Both players started with 2/1's in the deciding game—Larkin played a [Nantuko Shade](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Shade) and Levy a [Seton's Scout](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seton%27s+Scout). Levy's was killed with an Edict, and he replaced it with a [Werebear](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear), fully thresholded thanks to a pair of Careful Studies.
 
 [Faceless Butcher](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) took care of that Bear, and then Larkin dropped the hammer in the form of [Rancid Earth](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rancid+Earth) on Levy's only forest. Levy was stuck with uncastable spells, and Larkin started playing out guys.
 

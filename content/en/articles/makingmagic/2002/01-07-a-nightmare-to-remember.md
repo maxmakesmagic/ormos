@@ -113,7 +113,9 @@ The reason these two jobs are separated is because they often work at odds with 
 
 Whew! We’ve made it through my intro. Anyway, welcome to Nightmare Week here at MagictheGathering.com. Here’s how this works. About twice a month, we pick a theme and toss it at all our columnists to see what cool stuff they can come up with. This week the theme is nightmares, one of the new mechanics from *Torment*.
 
-![](https://i.ormos.uk/f2/96/f296f756aad454ea4e72c871f13a292d5093ffbf73bed8074d465aec1bccc694.jpg)Nightmares are creatures with the following ability: When a nightmare comes into play, a player (most often your opponent) loses some resource (such as life, creatures in play, cards in hand, etc.). When the nightmare leaves play, that player gets the resource back. To the right is a sample card.
+![](https://i.ormos.uk/f2/96/f296f756aad454ea4e72c871f13a292d5093ffbf73bed8074d465aec1bccc694.jpg)
+
+Nightmares are creatures with the following ability: When a nightmare comes into play, a player (most often your opponent) loses some resource (such as life, creatures in play, cards in hand, etc.). When the nightmare leaves play, that player gets the resource back. To the right is a sample card.
 
 By the way, Anthony Alongi, Tuesday’s columnist, doesn’t know I’m showing you this card, so shhhhh! Don’t tell him.
 

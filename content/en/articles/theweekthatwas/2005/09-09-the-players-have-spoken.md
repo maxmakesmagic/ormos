@@ -369,7 +369,9 @@ render_recovery:
 ---
 * * *
 
-[![Magic Pro Tour Hall of Fame](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg "Magic Pro Tour Hall of Fame")](/en/articles/event-coverage/undated/tournaments-events-trading-card-game-magic-the-gathering-2)The results from the Players Committee are in and the first class of the Pro Tour Hall of Fame is now complete. Joining Jon Finkel, Darwin Kastle, Alan Comer, and Tommi Hovi on the dais in Yokohama will be Olle Råde, who finished in the unenviable fifth spot on the Hall of Fame Selection Committee ballot. 
+[![Magic Pro Tour Hall of Fame](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg "Magic Pro Tour Hall of Fame")](/en/articles/event-coverage/undated/tournaments-events-trading-card-game-magic-the-gathering-2)
+
+The results from the Players Committee are in and the first class of the Pro Tour Hall of Fame is now complete. Joining Jon Finkel, Darwin Kastle, Alan Comer, and Tommi Hovi on the dais in Yokohama will be Olle Råde, who finished in the unenviable fifth spot on the Hall of Fame Selection Committee ballot. 
 
 Råde received 16 votes, narrowly edging Chris Pikula (who received 15). Rounding out the top five were YMGers Dave Humpherys (9) and Rob Dougherty (7), and Mike Long (5). 
 

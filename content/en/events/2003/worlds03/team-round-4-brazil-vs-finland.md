@@ -391,7 +391,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds03/a544.jpg)Yesterday, Carlos Romao assumed that he was a lock for Top 8, only to find out that Tuomo Nieminen refused to draw. Nieminen was already guaranteed a spot on Sunday, and wanted to play out the match to get the Finnish team another match win. Nieminen won, denying Romao the chance to play for back-to-back world championships.
+![](http://www.wizards.com/sideboard/images/worlds03/a544.jpg)
+
+Yesterday, Carlos Romao assumed that he was a lock for Top 8, only to find out that Tuomo Nieminen refused to draw. Nieminen was already guaranteed a spot on Sunday, and wanted to play out the match to get the Finnish team another match win. Nieminen won, denying Romao the chance to play for back-to-back world championships.
 
 However, the story doesn't end there. About 24 hours later, the Brazilian National Team played against the Finnish team. This time, Finland was a lock for the finals tomorrow, and even though Brazil couldn't make the finals, Romao needed the win to clinch a spot in the Magic Invitational. Once again, he was denied. The Finns want to help out their friends from Norway and England, whose national champion is from Finland. So, Brazil was forced to play, and Romao needed the win to get the Pro Tour points necessary to attend the Invitational once again. If Brazil lost, there was potential for the slot to be decided by a ratings tiebreaker between Romao and Barbero.
 
@@ -407,7 +409,9 @@ Meanwhile, Vieira's turn four Forgotten Ancient carried the Brazilian champion t
 
 ### Game 2
 
-![](https://i.ormos.uk/2e/8f/2e8f05cff5f2dba6c0c059f649c1d727a93de3957e7bcbbcbd6926495cb12079.jpg)Both players had morphs on turn three, and Nieminen's was enchanted with Crown of Awe. Romao's morph attacked past it for two points of damage, and he continued to play colorless sources of damage with another morph. Nieminen's Daru Warchief came out on defense, but traded with Crested Craghorn right away. Nieminen couldn't block either of Romao's morphs with the Awed one, so he took four and swung back for two. Grassland Crusader came out to block, but fell to Skirk Marauder after combat damage. Nieminen's enchanted creature finally flipped over to reveal Rockshard Elemental, a huge threat that was impossible to deal with since it had protection from Romao's colors.
+![](https://i.ormos.uk/2e/8f/2e8f05cff5f2dba6c0c059f649c1d727a93de3957e7bcbbcbd6926495cb12079.jpg)
+
+Both players had morphs on turn three, and Nieminen's was enchanted with Crown of Awe. Romao's morph attacked past it for two points of damage, and he continued to play colorless sources of damage with another morph. Nieminen's Daru Warchief came out on defense, but traded with Crested Craghorn right away. Nieminen couldn't block either of Romao's morphs with the Awed one, so he took four and swung back for two. Grassland Crusader came out to block, but fell to Skirk Marauder after combat damage. Nieminen's enchanted creature finally flipped over to reveal Rockshard Elemental, a huge threat that was impossible to deal with since it had protection from Romao's colors.
 
 Romao- 1 Nieminen- 1
 
@@ -423,7 +427,9 @@ Motta had a great draw with a ton of fliers- Aven Warhawk, two Mercurial Kites, 
 
 In Game 2, Walamies had a great start, with Coast Watcher, Embalmed Brawler, Mistform Seaswift and Crypt Sliver. Vieira didn't have much going, and it seemed that the match would go to a third and deciding game. Walamies turned to Romao, and told him that if he wanted a concession, he should look to see how England and Norway were doing. If both of those teams lost, Finland's win wouldn't do anything to help them, and they would concede. Romao left the table to go find them, and Vieira lost the second game. He came back as Walamies and Vieira were shuffling up for Game 3, and told them that neither team was close to finishing. 
 
-![](http://www.wizards.com/sideboard/images/worlds03/a546.jpg)Walamies wanted to send greetings to Norway and Poland. In particular, Poland let the Finns borrow many of their cards for the tournament this weekend.
+![](http://www.wizards.com/sideboard/images/worlds03/a546.jpg)
+
+Walamies wanted to send greetings to Norway and Poland. In particular, Poland let the Finns borrow many of their cards for the tournament this weekend.
 
 Romao watched Vieira mulligan his hand, and could only be a spectator, as his fate would be decided by one game being played by someone else. 
 

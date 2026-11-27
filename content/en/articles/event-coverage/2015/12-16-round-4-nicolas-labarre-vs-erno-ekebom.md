@@ -56,7 +56,9 @@ The first game began with both players getting good draws. Ekebom began with Sea
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/234.JPG)Both players again had decent draws. Ekebom started with a Defender En-Vec and an Sailmonger. He used a daze on the fourth turn to counter a Keldon Beserker but on the fifth turn Ekebom dropped Jewelled Spirit. You might think that would be game, but Labarre had resources. He dropped a Silkenfist Order and then kept attackng. A Troubled Healer kept the troops alive, and Ekebom turned out to have a creature light draw, which Labarre exploited by going first and using the Healer to keep his creatures alive. Once the Troubled Healer was gone, a Mercadian Atlas gave Labarre a big advantage by drawing twice a turn. It was only a matter of time before Labarre mustered up enough pressure to win.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/234.JPG)
+
+Both players again had decent draws. Ekebom started with a Defender En-Vec and an Sailmonger. He used a daze on the fourth turn to counter a Keldon Beserker but on the fifth turn Ekebom dropped Jewelled Spirit. You might think that would be game, but Labarre had resources. He dropped a Silkenfist Order and then kept attackng. A Troubled Healer kept the troops alive, and Ekebom turned out to have a creature light draw, which Labarre exploited by going first and using the Healer to keep his creatures alive. Once the Troubled Healer was gone, a Mercadian Atlas gave Labarre a big advantage by drawing twice a turn. It was only a matter of time before Labarre mustered up enough pressure to win.
 
 ### Game 3
 

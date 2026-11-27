@@ -44,7 +44,9 @@ archive_source:
   sha256: 96d1f40bd12dcfb713c5be4c13d6033bb89531cb4ca035f8a1f58250b270faaa
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkyo03/a959.jpg)Bookish and earnest, Nobuaki Shikata was quite a contrast to the worldly and relaxed Satoshi "Hatman" Nakamura. Nakamura is one of Japan's graybeards, a player who's been pro from the very beginning. Recently he's been too busy designing games to play them, but he's been known to show up at Grand Prix when they're convenient. Shikata is new blood, but he's already got himself a pair of GP Top 8's.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkyo03/a959.jpg)
+
+Bookish and earnest, Nobuaki Shikata was quite a contrast to the worldly and relaxed Satoshi "Hatman" Nakamura. Nakamura is one of Japan's graybeards, a player who's been pro from the very beginning. Recently he's been too busy designing games to play them, but he's been known to show up at Grand Prix when they're convenient. Shikata is new blood, but he's already got himself a pair of GP Top 8's.
 
 ### Game 1
 
@@ -66,7 +68,9 @@ Nakamura 1 – Shikata 1
 
 Nakamura had all his colors on the table by turn three, but had drawn only four casting-cost fliers and [Shock](https://web.archive.org/web/20030329000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock). He held back on his burn when Shikata played a morph, instead untapping and playing [Keeneye Aven](https://web.archive.org/web/20030329000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Keeneye+Aven). Shikata kept his morph at home. Nakamura hit and added [Aven Redeemer](https://web.archive.org/web/20030329000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Redeemer).
 
-![](https://i.ormos.uk/80/7c/807cf8508707e36c85668663b4ddd6f3b3df86b17ecc5023829674a958496c04.jpg)Shikata tapped five and dropped [Silklash Spider](https://web.archive.org/web/20030329000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silklash+Spider). Nakamura practically collapsed on the table. 
+![](https://i.ormos.uk/80/7c/807cf8508707e36c85668663b4ddd6f3b3df86b17ecc5023829674a958496c04.jpg)
+
+Shikata tapped five and dropped [Silklash Spider](https://web.archive.org/web/20030329000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silklash+Spider). Nakamura practically collapsed on the table. 
 
 He dropped [Daunting Defender](https://web.archive.org/web/20030329000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daunting+Defender) and got in one more hit, but the Spider had him completely stymied. Shikata spent his next turn clearing the skies. Nakamura bounced back with a pair of morphs, but Shikata had [Sparksmith](https://web.archive.org/web/20030329000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) and [Ridgetop Raptor](https://web.archive.org/web/20030329000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ridgetop+Raptor). Nakamura thought hard, then held back.
 

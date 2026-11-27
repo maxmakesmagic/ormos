@@ -82,7 +82,9 @@ Battle like the best, right out of the box. Includes a tournament-ready 60-card 
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/e8/85/e8853a91c9907829da8f9512b8d49f546db0834c38dae29063e454707a6a8089.png)The **Magic** *2013 Core Set* features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set.
+![](https://i.ormos.uk/e8/85/e8853a91c9907829da8f9512b8d49f546db0834c38dae29063e454707a6a8089.png)
+
+The **Magic** *2013 Core Set* features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set.
 
 **Set Name:** *2013 Core Set*  
 **Number of Cards:** 249

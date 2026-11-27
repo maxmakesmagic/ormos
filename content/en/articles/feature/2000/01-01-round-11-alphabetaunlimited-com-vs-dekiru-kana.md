@@ -63,7 +63,9 @@ render_recovery: []
 ---
 Ryan Fuller vs. Masayuki Higashino
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPYOK01/872.jpg)Ryan Fuller, described by some as the "hottest player on the Pro Tour," had to face dual [Shivan Zombie](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Zombie)s with his green-white deck when former Japanese National Champion Masayuki Higashino got a quick start in the last swiss round of Grand Prix Yokohama. It's probably not relevant, but both of these players are known for constantly wearing baseball caps, although Ryan's is usually backwards.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPYOK01/872.jpg)
+
+Ryan Fuller, described by some as the "hottest player on the Pro Tour," had to face dual [Shivan Zombie](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Zombie)s with his green-white deck when former Japanese National Champion Masayuki Higashino got a quick start in the last swiss round of Grand Prix Yokohama. It's probably not relevant, but both of these players are known for constantly wearing baseball caps, although Ryan's is usually backwards.
 
 Luckily for him, Fuller's early creatures were all green, and he was able to help them along by washing some mana through his [Nomadic Elf](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nomadic+Elf) and casting an [Angelic Shield](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angelic+Shield). The insolence by the Elf got to Higashino, and he Repulsed the Elf, which Fuller commented was "better than [Recoil](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recoil)".
 

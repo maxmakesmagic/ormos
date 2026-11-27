@@ -431,7 +431,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/9f/fb/9ffbb658416800d8420e02f71de793a61004f8a60517d9fb004610b134c141a5.jpg)Remie has had a great week so far, and needs a win here to all but guarantee a spot in the Top 8. This round, he's playing one of Japan's best, Jin Okamoto. Okamoto has missed Top 8 on tiebreakers on numerous occasions, and seems well on his way to finally playing on a Sunday at a major global event. He is playing a Japanese Goblin deck with insane card advantage capability provided by the Goblin Ringleader/Goblin Recruiter combo. With the help of his Goblin tutoring capability, he can even search up wacky, narrow yet powerful options such as Goblin Assassin. This may seem odd, but Okamoto will always have more creatures out than his opponents, and will be able to toss away 1/1s while his opponents will eventually lose anything from Akroma to Silver Knight.
+![](https://i.ormos.uk/9f/fb/9ffbb658416800d8420e02f71de793a61004f8a60517d9fb004610b134c141a5.jpg)
+
+Remie has had a great week so far, and needs a win here to all but guarantee a spot in the Top 8. This round, he's playing one of Japan's best, Jin Okamoto. Okamoto has missed Top 8 on tiebreakers on numerous occasions, and seems well on his way to finally playing on a Sunday at a major global event. He is playing a Japanese Goblin deck with insane card advantage capability provided by the Goblin Ringleader/Goblin Recruiter combo. With the help of his Goblin tutoring capability, he can even search up wacky, narrow yet powerful options such as Goblin Assassin. This may seem odd, but Okamoto will always have more creatures out than his opponents, and will be able to toss away 1/1s while his opponents will eventually lose anything from Akroma to Silver Knight.
 
 ### Game 1
 
@@ -443,7 +445,9 @@ Game 2-
 
 Remie had a first turn Birds of Paradise, which died to Seal of Fire. A pair of Wall of Blossoms gave Remie a solid defense, while Okamoto summoned a Piledriver. A second Birds died to a cycled Incinerator, and Okamoto played Mogg Fanatic. Faceless Butcher dealt with the Piledriver, and Remie's board was definitely very favorable. Okamoto simply played a Lackey, while Remie cast his third Wall of Blossoms. Faceless Butcher attacked for two damage, and was joined by Yavimaya Elder.
 
-![](https://i.ormos.uk/f2/c1/f2c12369daa37939712a51831994479e122321c2053ce51cb61aa2e67109aa69.jpg)Goblin Recruiter came out to stack Okamoto's deck, and a cycled Incinerator killed the Butcher, bringing back the Piledriver. Mogg Fanatic flew at the Elder, which was sacrificed in response. On the following turn, Okamoto attacked with all his creatures, and Smother killed the Piledriver. Okamoto then played Goblin Matron, found a Recruiter, and played it. 
+![](https://i.ormos.uk/f2/c1/f2c12369daa37939712a51831994479e122321c2053ce51cb61aa2e67109aa69.jpg)
+
+Goblin Recruiter came out to stack Okamoto's deck, and a cycled Incinerator killed the Butcher, bringing back the Piledriver. Mogg Fanatic flew at the Elder, which was sacrificed in response. On the following turn, Okamoto attacked with all his creatures, and Smother killed the Piledriver. Okamoto then played Goblin Matron, found a Recruiter, and played it. 
 
 Remie- "Nice one Jin."
 
@@ -457,7 +461,9 @@ Okamoto- 1 Remie- 1
 
 ### Game 3
 
-![](https://i.ormos.uk/6a/cd/6acd6556003273b577cda97aae67908644e143865bac4da3036421a3efbd09ee.jpg)Okamoto's Mogg Fanatic attacked for a point, then took down a Llanowar Elves. This was followed by Goblin Piledriver, and Remie had Birds of Paradise, along with Festering Goblin. Seal of Fire killed the Birds, and Okamoto played another Piledriver. Warchief came out a turn later, and Remie responded with Diabolic Edict, forcing one of the Piledrivers to die. Remie now had Treetop Village and Festering Goblin back on defense, nullifying Okamoto's attackers for the time being. A Ringleader came out with no Recruiter assistance, and pulled up an Incinerator and Warchief. Remie tapped out for Ravenous Baloth, so Okamoto summoned a Warchief and did nothing else. Remie's board improved even more with Pernicious Deed, and Okamoto cycled an Incinerator to get the Baloth out of the way. Seal of Fire dealt with the Festering Goblin, clearing the path for an eight damage attack.
+![](https://i.ormos.uk/6a/cd/6acd6556003273b577cda97aae67908644e143865bac4da3036421a3efbd09ee.jpg)
+
+Okamoto's Mogg Fanatic attacked for a point, then took down a Llanowar Elves. This was followed by Goblin Piledriver, and Remie had Birds of Paradise, along with Festering Goblin. Seal of Fire killed the Birds, and Okamoto played another Piledriver. Warchief came out a turn later, and Remie responded with Diabolic Edict, forcing one of the Piledrivers to die. Remie now had Treetop Village and Festering Goblin back on defense, nullifying Okamoto's attackers for the time being. A Ringleader came out with no Recruiter assistance, and pulled up an Incinerator and Warchief. Remie tapped out for Ravenous Baloth, so Okamoto summoned a Warchief and did nothing else. Remie's board improved even more with Pernicious Deed, and Okamoto cycled an Incinerator to get the Baloth out of the way. Seal of Fire dealt with the Festering Goblin, clearing the path for an eight damage attack.
 
 With no fear of the Deed, Okamoto played a Prospector followed by Siege-Gang Commander. Remie set off the Deed, and Okamoto responded by sacrificing to the Prospector to make mana. This produced enough to allow Okamoto to throw four points of Commander damage to the dome, bringing Remie down to eight. A Ringleader later gave him a Commander, Ringleader and Recruiter. The only resources Remie had left were two Treetop Villages, and he attacked for six.
 

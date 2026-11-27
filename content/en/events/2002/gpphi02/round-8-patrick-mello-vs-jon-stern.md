@@ -171,7 +171,9 @@ render_recovery:
   - Wretched Anurid
   occurrences: 161
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a928.jpg)Both players are 5-1-1 at this point and need a win here to make day 2. Mello, making the trip in from Germany, is no stranger to day 2, having made multiple Grand Prix T8's as well as holding a record for most consecutive Pro Tour money finishes. He is also a member of the CMU soccer team. Jon Stern is a member of the Quebec team Carta Magica, and made the Canadian National Team this year.
+![](http://www.wizards.com/sideboard/images/gpphi02/a928.jpg)
+
+Both players are 5-1-1 at this point and need a win here to make day 2. Mello, making the trip in from Germany, is no stranger to day 2, having made multiple Grand Prix T8's as well as holding a record for most consecutive Pro Tour money finishes. He is also a member of the CMU soccer team. Jon Stern is a member of the Quebec team Carta Magica, and made the Canadian National Team this year.
 
 Game 1: Jon chose to play first and kept his opening hand, as did Mello. Both players laid land for the first few turns with the first play coming from Mello in the form of a Birchlore Ranger, unmorphed. Stern then cast a gust cloak harrier and the next turn enchanted it with an improvised armor, putting Mello on a serious clock. Mello tried to put some pressure on the ground in order to race the harrier but he simply didn't have any quality creatures. Elves and 4 casting cost 2/2's don't get the job done. Stern dropped Mello to 8 with the harrier and then glutted the ground with a Festering Goblin and a Gluttonous Zombie. The next turn Mello was able to drop an additional creature and kill off the Gluttonous Zombie with an inspirit. This was not enough though as Stern then dropped a Crowd Favorites, and that was enough to hold the ground as the Harrier finished Mello off.
 
@@ -179,7 +181,9 @@ Game 2: Stern came out fast with a Festering Goblin. Mello dropped a forest, and
 
 Stern was unable to commit more creatures to the board, as Sparksmith could do 3 damage to any creature. Without being on a fast clock, Mello was able to develop his board, and continue to drop creatures. Unfortunately, most of the creatures in Mello's hand were white and he had yet to draw a plains.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a930.jpg)Once he got Mello down to 15 with the Festering Goblin, Stern decided to drop a Severed Legion. This immediately died to Mello's Sparksmith, but brought Mello down to 12 in the process. Mello still had nothing else to commit to the board, and the next turn, Stern dropped a Crowd Favorites. It's 4 points of toughness was just out of Sparksmith's range. On the next turn, Mello was able to top-deck a Lavamancer's Skill, which combined with the Sparksmith, was enough to finish off the Crowd. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a930.jpg)
+
+Once he got Mello down to 15 with the Festering Goblin, Stern decided to drop a Severed Legion. This immediately died to Mello's Sparksmith, but brought Mello down to 12 in the process. Mello still had nothing else to commit to the board, and the next turn, Stern dropped a Crowd Favorites. It's 4 points of toughness was just out of Sparksmith's range. On the next turn, Mello was able to top-deck a Lavamancer's Skill, which combined with the Sparksmith, was enough to finish off the Crowd. 
 
 With Mello at 8, he was forced to block one of the Festering Goblins, giving Stern the chance to kill off the Sparksmith. Stern was now able to drop the Gustcloak Harrier he had been holding all game. The next turn Mello still was without White mana, but he had drawn a second Lavamancer's Skill. He tried casting it on his morphed Daru Lancer, but it was met with a Cruel Revival, bringing back Stern's Severed Legion. Mello dropped a Wirewood Savage and passed the turn.
 

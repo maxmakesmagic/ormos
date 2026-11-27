@@ -567,7 +567,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a711.jpg)The past few months of speculation leading up to Worlds were focused primarily on the German team, and the Dutch team. Felix Schneiders and Mark Ziegner are two very capable players, and being lead by the best player in history doesn't hurt much either. If things work out the way many predicted, Kai Budde many find himself in a very familiar situation- playing on stage in front of cameras on Sunday. The only difference is that this time, national pride will be on the line in addition to the glory of personal achievement. So far this plan is right on track, with Germany on top of the standings as the day begins.
+![](http://www.wizards.com/sideboard/images/worlds02/a711.jpg)
+
+The past few months of speculation leading up to Worlds were focused primarily on the German team, and the Dutch team. Felix Schneiders and Mark Ziegner are two very capable players, and being lead by the best player in history doesn't hurt much either. If things work out the way many predicted, Kai Budde many find himself in a very familiar situation- playing on stage in front of cameras on Sunday. The only difference is that this time, national pride will be on the line in addition to the glory of personal achievement. So far this plan is right on track, with Germany on top of the standings as the day begins.
 
 Argentina is only a point behind in second place, which certainly has to be a bit of a surprise. Make no mistake about it- Latin American Magic has arrived. With a boost from National Champion Diego Ostrovich's first seed Top 8 finish in the individual rounds, Argentina is looking to make a run for the finals as well. If all goes according to plan, Ostravich will pull double duty on Sunday, playing in the individual Top 8, and the Team Finals. With potential for that much money and prestige, this very well may be Ostrovich's week. However, that is just wishful thinking at the moment, as Argentina needs to get through a powerhouse German team led by The Juggernaut.
 
@@ -577,7 +579,9 @@ Caligaris opened the next pack and added to his Shelter with Embolden. Ziegner w
 
 Budde opened the next pack, and drafted Hallowed Healer over Divine Sacrament. The pack then came to Schneiders, and Budde signaled for his teammate to take Firebolt. Schneiders responded by showing that he wanted Gorilla Titan instead, which seemed to be okay with Kai. This was an odd choice, since Firebolt is one of the best commons available in *Odyssey*, and most players would certainly take it over the Titan. Argentina reaped the benefits of these odd picks, as Ostrovich got the Firebolt, and Caligaris took the Sacrament. In the following pack Michelena leaned into blue to supplement his green with Psionic Gift, and Caligaris got another great white card in Nomad Decoy. A late Aven Flock found its way to Budde.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a704.jpg)Ostrovich now opened his *Odyssey* booster, and took a first pick Last Rites. Michelena drafted Cephalid Looter, and Caligaris got a second Shelter. This left Schneiders with a great wheel of Krosan Archer and Nantuko Disciple. At this point in the draft, Schneiders was solid in red/green, Budde was white without a specific second color, and Ziegner was black/green. Ostrovich was locked into black/red, Michelena was essentially committed to blue/green, and Caligaris was white without a real second color.
+![](http://www.wizards.com/sideboard/images/worlds02/a704.jpg)
+
+Ostrovich now opened his *Odyssey* booster, and took a first pick Last Rites. Michelena drafted Cephalid Looter, and Caligaris got a second Shelter. This left Schneiders with a great wheel of Krosan Archer and Nantuko Disciple. At this point in the draft, Schneiders was solid in red/green, Budde was white without a specific second color, and Ziegner was black/green. Ostrovich was locked into black/red, Michelena was essentially committed to blue/green, and Caligaris was white without a real second color.
 
 It was now time for *Torment*, and the first pack was very kind to the Germans. Schneiders got Pardic Arsonist, Budde went solid into blue with Skywing Aven, and Ziegner gladly took another 4/4 trample creature in Arrogant Wurm. The next pack contained Possessed Centaur and Fiery Temper as potential picks for Schneiders. Budde signaled that he was scared to give the Argentineans the Centaur because it could be very good against Schneiders, but Felix responded by fanning his deck and showing his deck wasn't heavy in green creatures. This was good enough to convince Kai, and Schneiders took the Temper. Budde stayed on target with Compulsion, and Ziegner was very happy to add Faceless Butcher to his already impressive deck. 
 
@@ -585,7 +589,9 @@ Budde then opened his pack, and took Major Teroh, which wouldn't be incredible a
 
 Cornering yourself into a narrow set of options has potential to be horribly detrimental, and the next pack showed why. Ziegner took a second Butcher, and Caligaris took a second pick Teroh's Vanguard as he shook his head. He didn't want to commit to another color or leave the idea of drafting blue just yet, so he took a sub par card while Schneiders got Temporary Insanity and Budde took Waste Away. The next pack was a bit more kind, giving Caligaris the board dominating Hypochondria. *Torment* ended on a better note for Argentina, as Ostrovich picked up Mutilate. Still, when that same pack came around the table, Schneiders got Basking Rootwalla, Budde got Circular Logic to go with his Compulsion, and Ziegner got a second Mesmeric Fiend.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a703.jpg)The first *Judgment* pack brought some very odd choices by the Argentineans. Michelena took Swelter, which was either a counterdraft or a third color splash. Caligaris, who *still* had no clear second color, took Vigilant Sentry, giving Masked Gorgon to Ziegner. The Gorgon is an absolute monster against a black/red deck such as Ostrovich's, and it may have been a huge error to let Ziegner get it. An alternative plan would have been to let Michelena counterdraft the Gorgon, while Caligaris took the Swelter and hoped to get a few more good late red cards for the white/red archetype such as Barbarian Bully and Ember Shot.
+![](http://www.wizards.com/sideboard/images/worlds02/a703.jpg)
+
+The first *Judgment* pack brought some very odd choices by the Argentineans. Michelena took Swelter, which was either a counterdraft or a third color splash. Caligaris, who *still* had no clear second color, took Vigilant Sentry, giving Masked Gorgon to Ziegner. The Gorgon is an absolute monster against a black/red deck such as Ostrovich's, and it may have been a huge error to let Ziegner get it. An alternative plan would have been to let Michelena counterdraft the Gorgon, while Caligaris took the Swelter and hoped to get a few more good late red cards for the white/red archetype such as Barbarian Bully and Ember Shot.
 
 Caligaris opened the next pack, and Budde let out a laugh. It contained Genesis, but a ton of other great cards. The Genesis went to Caligaris, Budde drafted Shieldmage Advocate, and Schneiders took Arcane Teachings. There wasn't much left in the pack for the Argentineans, and when the pack came around Budde took Benevolent Bodyguard over Guided Strike and Prismatic Strands, which were both counterdrafted by his teammates. The next pack was great for the Germans, giving Budde Battle Screech and Schneiders Fledgling Dragon. Caligaris got the lion's share of white, taking Shieldmage Advocate and Battlewise Aven. 
 
@@ -618,7 +624,9 @@ Schneiders: I think at that point I had an Elephant Guide and a Teachings alread
 
 **Sideboard:** In one of the first packs you opened Firebolt and Gorilla Titan. Kai wanted Felix to take the Firebolt, but Felix wanted the Titan.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a686.jpg)Schneiders: It would have been a better decision actually. I didn't know that I would get so many four casting cost creatures, so I don't really need the Titan anymore. It's still okay, but Firebolt would have been better I think.
+![](http://www.wizards.com/sideboard/images/worlds02/a686.jpg)
+
+Schneiders: It would have been a better decision actually. I didn't know that I would get so many four casting cost creatures, so I don't really need the Titan anymore. It's still okay, but Firebolt would have been better I think.
 
 **Sideboard:** What was your reasoning behind taking the Titan over Firebolt in the first place?
 

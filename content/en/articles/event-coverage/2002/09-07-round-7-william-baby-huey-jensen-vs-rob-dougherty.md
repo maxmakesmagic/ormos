@@ -44,7 +44,9 @@ archive_source:
   sha256: c52947a7423f1ea84b5682240471cc0a9175f481b214adc4af3626f65192b889
 render_recovery: []
 ---
-![](https://i.ormos.uk/1a/68/1a688827bbab4345c88b4c0ce33edd74a9db73153c3cd3d2b771d746c6c0b905.jpg)"Have I ever beaten you?" Baby Huey mused. "I mean, in a real tournament. You beat me in Minnesota... You beat me on the boat in LA..."
+![](https://i.ormos.uk/1a/68/1a688827bbab4345c88b4c0ce33edd74a9db73153c3cd3d2b771d746c6c0b905.jpg)
+
+"Have I ever beaten you?" Baby Huey mused. "I mean, in a real tournament. You beat me in Minnesota... You beat me on the boat in LA..."
 
 Today was William "Baby Huey" Jensen's chance - but just a chance - to finally trounce Rob Dougherty, owner and founder of the famed pro sweatshop Your Move Games in Boston. Today, both of them are six and one - and with six hundred and seven people in attendance in Cleveland today, all probability the loser gets to finish out the day in ignominy, while the winner gets a chance to go to the fabled Day Two. The two of them have been playing for four years straight, but...
 
@@ -72,7 +74,9 @@ Dougherty drew a [Mental Note](https://web.archive.org/web/20020907000000/https:
 
 Jensen wasn't impressed. He cast [Tainted Pact](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tainted+Pact), blitzing past [Earth Rift](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Earth+Rift), [Innocent Blood](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Innocent+Blood), [Tainted Peak](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tainted+Peak), and [Shadowblood Ridge](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowblood+Ridge)... And finally picked a [Burning Wish](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Burning+Wish), with which he snagged a [Recoup](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recoup) and then [Recoup](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recoup)ed his [Chainer's Edict](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chainer%27s+Edict) with no mana to spare.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a952.jpg)Rob picked up [Recoup](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recoup) and read it very carefully, for which no one in the room had the heart to blame him.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a952.jpg)
+
+Rob picked up [Recoup](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recoup) and read it very carefully, for which no one in the room had the heart to blame him.
 
 The [Magnivore](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magnivore) drops Dougherty to six, setting the clock at one turn unless he can block. Rob swung his mighty wurm across the table to smack Jensen and put him at four, then Quietly Speculated for a couple of Roars and an [Acorn Harvest](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Acorn+Harvest), paying three life for some much-needed chump blockers but causing Jensen to crack a grin. 
 
@@ -94,7 +98,9 @@ Dougherty, stuck on three land, used the turn to Quietly Speculate all the uncas
 
 Jensen would have loved to cast a huge [Magnivore](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magnivore) right then, but unfortunately he only had one red mana. Instead, he simply [Recoup](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recoup)ed the [Innocent Blood](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Innocent+Blood) in his graveyard and offed the Mongrel. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a953.jpg)Rob drew a fourth mana source - a [Centaur Garden](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Garden) - and paid the three life for the Harvest, taking one from the Garden. "A bargain," he said, throwing two 1/1 chumpers into play; unfortunately, Jensen had [Mirari](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari) out, and after a small squeak for two damage, a double-Edict the next sent the tokens to squirrel heaven. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a953.jpg)
+
+Rob drew a fourth mana source - a [Centaur Garden](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Garden) - and paid the three life for the Harvest, taking one from the Garden. "A bargain," he said, throwing two 1/1 chumpers into play; unfortunately, Jensen had [Mirari](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari) out, and after a small squeak for two damage, a double-Edict the next sent the tokens to squirrel heaven. 
 
 "Dead squirrels," he dryly observed.
 

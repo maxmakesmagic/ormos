@@ -599,7 +599,9 @@ render_recovery:
 ---
 * * *
 
-![Anthony Alongi, Bureaucrat](https://i.ormos.uk/50/b1/50b1b9a9334dcbb5320fe701ce7020e5eec0c307b28e6de20efc03fdb1bb2e34.jpg)It should surprise none of you that I am a man devoted to public service.
+![Anthony Alongi, Bureaucrat](https://i.ormos.uk/50/b1/50b1b9a9334dcbb5320fe701ce7020e5eec0c307b28e6de20efc03fdb1bb2e34.jpg)
+
+It should surprise none of you that I am a man devoted to public service.
 
 Yes, public service. What other value would compel me to bring you the latest in kitchen table technology? And to find the latest combos with Jangling Automaton? (HINT: provoke.) And to warm up Jay Mutton-Spiceloaf's audience, 48 hours early? That's right—public service.
 

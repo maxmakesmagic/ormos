@@ -77,7 +77,9 @@ In fact, I can think of five distinct reasons to be excited about the weekend's 
 
 ### 5\. Premiere Events... Lots and Lots of Premiere Events
 
-![](https://i.ormos.uk/9c/68/9c68141814b83b440ce01c787cb19e9b0160e0e401db2aad7d5247c1f6f2c190.jpg)Everyone knows by now that the only thing better than getting to play new cards is an endless opportunity to play in low-key tournaments *with* new cards. Any time of day, from the morning of March 3rd until the morning of March 8th, you can sign on and find a *Betrayers*-related tournament starting up, filled with people of all skill levels and familiarity with the new set. Personally, my longest marathons of online play happen during Release Events for precisely this reason. It's about the only time my Limited rating moves up or down, too.
+![](https://i.ormos.uk/9c/68/9c68141814b83b440ce01c787cb19e9b0160e0e401db2aad7d5247c1f6f2c190.jpg)
+
+Everyone knows by now that the only thing better than getting to play new cards is an endless opportunity to play in low-key tournaments *with* new cards. Any time of day, from the morning of March 3rd until the morning of March 8th, you can sign on and find a *Betrayers*-related tournament starting up, filled with people of all skill levels and familiarity with the new set. Personally, my longest marathons of online play happen during Release Events for precisely this reason. It's about the only time my Limited rating moves up or down, too.
 
 There are essentially four different ways to get involved in the Release Events. First, you can join a week-long, 2x prizes Sealed League using a *Champions of Kamigawa* tournament pack and three *Betrayers* boosters.
 
@@ -189,7 +191,9 @@ An ability like Ninjutsu on the other hand is something totally different. Being
 
 **IntoTheAether**: Anything else you'd like readers to know?
 
-![](https://i.ormos.uk/70/82/70826d0910c5ff0ea561e8869c4be5911781d3b2361a1c544b562d77acf06aa2.jpg)**elf**: Whenever I play ***Magic** Online*, I always seem to attract a crowd of spectators in my games. Not because I'm a level 3 judge, not because I have the Wizards logo next to my name, not because I'm one of the game developers. No, I get all these people popping in to ask me about my avatar. When I got online I scrolled through the list of all the avatars available and just really liked the toothy guy. My avatar is the Lithatog. To the best of my knowledge I'm the only person online that uses that avatar other than Scott Johns, though technically any of the other Wizards staff could as well.
+![](https://i.ormos.uk/70/82/70826d0910c5ff0ea561e8869c4be5911781d3b2361a1c544b562d77acf06aa2.jpg)
+
+**elf**: Whenever I play ***Magic** Online*, I always seem to attract a crowd of spectators in my games. Not because I'm a level 3 judge, not because I have the Wizards logo next to my name, not because I'm one of the game developers. No, I get all these people popping in to ask me about my avatar. When I got online I scrolled through the list of all the avatars available and just really liked the toothy guy. My avatar is the Lithatog. To the best of my knowledge I'm the only person online that uses that avatar other than Scott Johns, though technically any of the other Wizards staff could as well.
 
 **IntoTheAether**: As someone who has drawn a crowd with his [Birds of Paradise](https://web.archive.org/web/20050222000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birds+of+Paradise) and [Bloodshot Cyclops](https://web.archive.org/web/20050222000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bloodshot+Cyclops) avatars, I completely understand. One last thing, though... Um, why “elf”?
 

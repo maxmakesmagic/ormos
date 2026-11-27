@@ -359,7 +359,9 @@ render_recovery:
 ---
 ### Quarterfinals: Kamiel Cornelissen vs. Manuel Bevand
 
-![](https://i.ormos.uk/42/1e/421e54278108867a59407f9847975e9f79d434ebba30dad622e6bc4a503b6fc8.jpg)Riding a dominating run through the first three days, Kamiel Cornelissen came into this Top 8 quarterfinal looking to add to his impressive recent Pro Tour resume. Part of Von Dutch, the winners of Pro Tour-Seattle, Cornelissen had his sights set on going back-to-back with a Worlds individual title. Standing in the way was veteran Manuel Bevand, who credited **Magic Online** with helping him get back into the game.
+![](https://i.ormos.uk/42/1e/421e54278108867a59407f9847975e9f79d434ebba30dad622e6bc4a503b6fc8.jpg)
+
+Riding a dominating run through the first three days, Kamiel Cornelissen came into this Top 8 quarterfinal looking to add to his impressive recent Pro Tour resume. Part of Von Dutch, the winners of Pro Tour-Seattle, Cornelissen had his sights set on going back-to-back with a Worlds individual title. Standing in the way was veteran Manuel Bevand, who credited **Magic Online** with helping him get back into the game.
 
 Cornelissen had the power of Affinity in his hands, while Bevand made it to Top 8 behind Krark-Clan Ironworks.
 

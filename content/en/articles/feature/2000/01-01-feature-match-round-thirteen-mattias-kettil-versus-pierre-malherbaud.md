@@ -52,7 +52,9 @@ archive_source:
   sha256: 339c6ffeaa0374c6d1723368abcb0acb854a5e31949aedc2a534b485ddc0d233
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/905.jpg)This is actually Mattias' first feature match of the weekend. You may remember him from the top eight of Pro Tour New York 1999, where he played Rebels along with everyone else in the tournament. Amazingly this is his first Day Two of a Grand Prix, although he has made Day Two in more than half of his Pro Tour appearances. Hopefully you know who Pierre is now, as this is his fourth feature match of the weekend. In case you missed it the first three times, he's the two-time French National Champion, and made top eight in Grand Prix London, playing the same deck as he is here, last weekend.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/905.jpg)
+
+This is actually Mattias' first feature match of the weekend. You may remember him from the top eight of Pro Tour New York 1999, where he played Rebels along with everyone else in the tournament. Amazingly this is his first Day Two of a Grand Prix, although he has made Day Two in more than half of his Pro Tour appearances. Hopefully you know who Pierre is now, as this is his fourth feature match of the weekend. In case you missed it the first three times, he's the two-time French National Champion, and made top eight in Grand Prix London, playing the same deck as he is here, last weekend.
 
 ### Game One
 

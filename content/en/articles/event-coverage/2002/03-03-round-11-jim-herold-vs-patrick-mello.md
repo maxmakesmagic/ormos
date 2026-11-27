@@ -44,7 +44,9 @@ archive_source:
   sha256: ee2e1658bbdedce8e2a113fa76e6e050d22b7a376b9666bf3f18e1962d5c7439
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpant02/a914.jpg)This round pits two strong Germans against each other. Patrick Mello is a member of Team Godzilla and has both Pro Tour and Grand Prix top 8's to his credit. Jim Herold has won three Grand Prix, one as part of team Three Heroes and two individual titles.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpant02/a914.jpg)
+
+This round pits two strong Germans against each other. Patrick Mello is a member of Team Godzilla and has both Pro Tour and Grand Prix top 8's to his credit. Jim Herold has won three Grand Prix, one as part of team Three Heroes and two individual titles.
 
 ### Game 1
 

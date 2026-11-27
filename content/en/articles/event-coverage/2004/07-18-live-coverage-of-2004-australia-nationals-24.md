@@ -44,7 +44,9 @@ archive_source:
   sha256: c3cc3789e3f4622cd13098caa729bf5d980ac155caa9e3a8d620f41c468be433
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/aunat04/fm4_1.jpg)Bryce Trevilyan is one of the returning members from last year's nationals team. Joe Connolly seems to think that his deck is terrible and that the only redeeming feature is that soon he will be able to leave the tournament and go to the local casino that is located nearby.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/aunat04/fm4_1.jpg)
+
+Bryce Trevilyan is one of the returning members from last year's nationals team. Joe Connolly seems to think that his deck is terrible and that the only redeeming feature is that soon he will be able to leave the tournament and go to the local casino that is located nearby.
 
 ### Game 1
 

@@ -95,7 +95,9 @@ render_recovery:
 ---
 This is it. Eighteen rounds. Three formats. Weeks of preparation. Everything crystallized into this one match. Best of five games, winner take all.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a454.jpg)It'll be a doozy, too. The dreaded Wake mirror. A war of attrition of card-drawing and mana. Both these two know their way around it. Daniel Zink bested Jeroen Remie in the quarters, and Okamoto got the better of Nieminen in the semis. It's been a tough haul. Never mind that these two players have been working their hardest mental game all weekend, and have spent the day under the hot stage lights, they've got to dig deep and come up with the concentration to pull out just one more win.
+![](http://www.wizards.com/sideboard/images/worlds03/a454.jpg)
+
+It'll be a doozy, too. The dreaded Wake mirror. A war of attrition of card-drawing and mana. Both these two know their way around it. Daniel Zink bested Jeroen Remie in the quarters, and Okamoto got the better of Nieminen in the semis. It's been a tough haul. Never mind that these two players have been working their hardest mental game all weekend, and have spent the day under the hot stage lights, they've got to dig deep and come up with the concentration to pull out just one more win.
 
 Both have their strong resumes. Zink is a former German National Champion with a Top 4 at Euros under his belt. Okamoto is a former Asia-Pacific Champion. Both are enjoying their first Tour Top 8, something all the sweeter for Okamoto after his heartbreaking near misses at 2001 Worlds and 2002 Los Angeles.
 
@@ -149,7 +151,9 @@ Zink:
 
 One of Zink's sideboarded Brushhoppers got into play on the third turn and started beating. Both players played Deep Analysis, and Okamoto's Wake was busted up by Ray of Revelation. Okamoto played another Analysis from hand. Zink did the same, bashing while he did so. Okamoto, at ten, resolved a Compulsion. Zink brought him to seven, then matched his enchantment. It looked like his prophecy would come true, to the delight of the local fans.
 
-![](https://i.ormos.uk/7c/e7/7ce707edb1b164132fda83ffb2f7544bd5dca538d52847dd1e92db7ca772b019.jpg)Okamoto played a Wrath, and then Stifled the Brushhopper's activation. It was a reprieve. He flashed back a Deep Analysis to go to four. Zink played a morphed Angel, but he only had one Mana Leak, not enough to stop Okamoto's Wrath of God. Zink made no move on his turn. Okamoto flashed back his Deep Analysis, falling to three. Zink cycled a Decree of Justice, nervously licking his lips while Okamoto dug with Compulsion for a Stifle. When none came, Okamoto simply picked up his cards. 
+![](https://i.ormos.uk/7c/e7/7ce707edb1b164132fda83ffb2f7544bd5dca538d52847dd1e92db7ca772b019.jpg)
+
+Okamoto played a Wrath, and then Stifled the Brushhopper's activation. It was a reprieve. He flashed back a Deep Analysis to go to four. Zink played a morphed Angel, but he only had one Mana Leak, not enough to stop Okamoto's Wrath of God. Zink made no move on his turn. Okamoto flashed back his Deep Analysis, falling to three. Zink cycled a Decree of Justice, nervously licking his lips while Okamoto dug with Compulsion for a Stifle. When none came, Okamoto simply picked up his cards. 
 
 Zink 2 – Okamoto 0
 
@@ -169,7 +173,9 @@ He tried to speed things up with a cycled Decree of Justice, but Okamoto had the
 
 Okamoto flashed back his Flash of Insight, then untapped and played an Analysis from hand. He flashed it back, going to one. Zink tried to end the game then and there with Decree of Justice, but it was Stifled. He played and replayed a Deep Analysis, then thought hard about his situation. He attacked with a single Angel, trading it for one of Okamoto's. Okamoto played a Wake, but Zink had the Ray of Revelation.
 
-![](https://i.ormos.uk/70/74/70742f66eb14369e8741fedf01fb6e34f224bf613ac444e3462f46de7ee3572b.jpg)He hit again, with the remaining Angel. Okamoto chumped. He Wrathed on his turn. Zink tried a Cunning Wish, but it was Logic'd. He untapped and made Compulsion. Okamoto dropped a Ray at end of turn. Okamoto wouldn't go quietly. He rose to seven with a Renewed Faith on his turn, and then flashed back the remaining Analysis.
+![](https://i.ormos.uk/70/74/70742f66eb14369e8741fedf01fb6e34f224bf613ac444e3462f46de7ee3572b.jpg)
+
+He hit again, with the remaining Angel. Okamoto chumped. He Wrathed on his turn. Zink tried a Cunning Wish, but it was Logic'd. He untapped and made Compulsion. Okamoto dropped a Ray at end of turn. Okamoto wouldn't go quietly. He rose to seven with a Renewed Faith on his turn, and then flashed back the remaining Analysis.
 
 Zink was ready to end it. He tapped three for Anurid Brushhopper. Okamoto dusted it with Circular Logic. Zink tapped five for Mirari, leaving eight remaining. Okamoto Leaked. Zink paid. He Leaked again. Zink paid. As Okamoto tapped all but one lands to Mana Leak a third time, a murmur went through the crowd. Before it could take hold, Zink snapped down a Leak of his own, tapping his last two mana. The murmurs became applause, and then cheers.
 

@@ -231,7 +231,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a910.jpg)In a rematch of the Barcelona Block Constructed Masters Series Finals, Ben "Superman" Rubin played Jay Elarar of Vancouver, Canada. Ben was wielding the deck he co-designed with Brian Kibler, while Jay was playing a mono-black variant including a healthy complement of Caustic Tars, Morbid Hungers and Nantuko Shades.
+![](http://www.wizards.com/sideboard/images/ptosa02/a910.jpg)
+
+In a rematch of the Barcelona Block Constructed Masters Series Finals, Ben "Superman" Rubin played Jay Elarar of Vancouver, Canada. Ben was wielding the deck he co-designed with Brian Kibler, while Jay was playing a mono-black variant including a healthy complement of Caustic Tars, Morbid Hungers and Nantuko Shades.
 
 ### Game 1
 
@@ -241,12 +243,16 @@ Jay Elarar 1 – Ben Rubin 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a909.jpg)Rubin started out with a fourth turn Compulsion. Jay tried to cast Mirari, but Ben responded with a Circular Logic. The San Franciscan Diverted Elarar's Mind Sludge making him discard four cards. Rubin discarded his Violent Eruption to Compulsion and dealt four to Jay. Elarar once again attempted to Mind Sludge Rubin, but Ben had ample cards in his graveyard to fuel a Circular Logic. Jay cast Haunting Echoes targeting Ben, Rubin responded with a Circular Logic for 12, which Elarar paid, then the two-time Master's Champion responded with a Divert, and Elarar promptly scooped.
+![](http://www.wizards.com/sideboard/images/ptosa02/a909.jpg)
+
+Rubin started out with a fourth turn Compulsion. Jay tried to cast Mirari, but Ben responded with a Circular Logic. The San Franciscan Diverted Elarar's Mind Sludge making him discard four cards. Rubin discarded his Violent Eruption to Compulsion and dealt four to Jay. Elarar once again attempted to Mind Sludge Rubin, but Ben had ample cards in his graveyard to fuel a Circular Logic. Jay cast Haunting Echoes targeting Ben, Rubin responded with a Circular Logic for 12, which Elarar paid, then the two-time Master's Champion responded with a Divert, and Elarar promptly scooped.
 
 Jay Elarar 1 – Ben Rubin 1
 
 ### Game 3
 
-![](https://i.ormos.uk/92/88/92882108b0c36a570bfb872d1d9b096ae56a0620562d070cd58fa273a6c28034.jpg)With twenty minutes left on the clock, the two decided they needed to speed up their play a little bit going into the final game. Jay elected to play first, and Rubin was forced to mulligan his opening hand. Elarar started out with two Tainted Pacts, getting a Haunting Echoes and a Mind Sludge. He then cast Rancid Earth on Ben's only blue source forcing Ben to cast Skeletal Scrying for one in desperation to try and Divert either of Jay's spells. His efforts were futile, and Jay took out a good portion of Ben's power spells, including Upheaval, Chainer's Edict, Skeletal Scrying, Divert and Compulsion. Ben was left with a Mountain and Shadowblood Ridge in play with Fiery Temper and Divert in his hand. He drew an Island to give him a bit better footing on the game. Jay cast Mirari, then cast Tainted Pact twice, getting Nantuko Shade and Swamp. The next turn Elarar cast Diabolic Tutor twice, and then Rancid Earth twice killing both of Ben's islands. Jay attacked for five with the shade leaving been at 12 life. The situation looking grim for Ben as Elarar had 15 activations of Nantuko Shade on the stack, he said, "So, they're all on the stack, and if I had a Fiery Temper or something that would be really good here." He didn't so he scooped.
+![](https://i.ormos.uk/92/88/92882108b0c36a570bfb872d1d9b096ae56a0620562d070cd58fa273a6c28034.jpg)
+
+With twenty minutes left on the clock, the two decided they needed to speed up their play a little bit going into the final game. Jay elected to play first, and Rubin was forced to mulligan his opening hand. Elarar started out with two Tainted Pacts, getting a Haunting Echoes and a Mind Sludge. He then cast Rancid Earth on Ben's only blue source forcing Ben to cast Skeletal Scrying for one in desperation to try and Divert either of Jay's spells. His efforts were futile, and Jay took out a good portion of Ben's power spells, including Upheaval, Chainer's Edict, Skeletal Scrying, Divert and Compulsion. Ben was left with a Mountain and Shadowblood Ridge in play with Fiery Temper and Divert in his hand. He drew an Island to give him a bit better footing on the game. Jay cast Mirari, then cast Tainted Pact twice, getting Nantuko Shade and Swamp. The next turn Elarar cast Diabolic Tutor twice, and then Rancid Earth twice killing both of Ben's islands. Jay attacked for five with the shade leaving been at 12 life. The situation looking grim for Ben as Elarar had 15 activations of Nantuko Shade on the stack, he said, "So, they're all on the stack, and if I had a Fiery Temper or something that would be really good here." He didn't so he scooped.
 
 Jay Elarar 2 – Ben Rubin 1

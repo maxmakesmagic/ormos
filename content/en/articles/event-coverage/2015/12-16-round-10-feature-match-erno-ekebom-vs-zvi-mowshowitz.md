@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Alex Shvartsman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/151.jpg)One of the top local players in the tournament, Ekebom finished in the top 8 of Pro Tour Los Angeles last season. He is defending against one of the only four US players to attend this tournament, Zvi Mowshowitz. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/151.jpg)
+
+One of the top local players in the tournament, Ekebom finished in the top 8 of Pro Tour Los Angeles last season. He is defending against one of the only four US players to attend this tournament, Zvi Mowshowitz. 
 
 Before the beginning of the round, Ekebom offered Mowshowitz an intentional draw. Ekebom's deck was not very good and he felt taking a draw against a stronger deck this early was a worthwhile gamble. This is Rochester draft though, and Zvi was probably aware of Ekebom's deck. In either case, he immediately declined. 
 

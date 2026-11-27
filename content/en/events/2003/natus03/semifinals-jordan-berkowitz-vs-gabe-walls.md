@@ -128,7 +128,9 @@ It's worth noting that during this game and all through the match, there was ple
 
 ### Game 2
 
-![](https://i.ormos.uk/04/17/0417fffb1ef09c5f07ea34212532a7d0dead0d49bac2cc0a4b013394da746c08.jpg)Berkowitz mulliganed down to six, and had a first turn Llanowar Elves. It attacked for a point, and Berkowitz dropped Wild Mongrel. Walls untapped and went for it, playing Exalted Angel face down, leaving it open to burn. Berkowitz didn't have any, and played another Elves along with a face down Blistering Firecat. Walls played a fourth land and ended his turn, staying back on the Angel to block. Berkowitz attacked with everything but the Firecat- the Angel blocked an elf, and Wild Mongrel was pumped with Violent Eruption, which dealt the other four necessary to take out the Angel. Another attack saw Walls cycle Slice and Dice so that the Firecat couldn't be unmorphed, and Walls cast Wrath of God to kill the Mongrel and Firecat.
+![](https://i.ormos.uk/04/17/0417fffb1ef09c5f07ea34212532a7d0dead0d49bac2cc0a4b013394da746c08.jpg)
+
+Berkowitz mulliganed down to six, and had a first turn Llanowar Elves. It attacked for a point, and Berkowitz dropped Wild Mongrel. Walls untapped and went for it, playing Exalted Angel face down, leaving it open to burn. Berkowitz didn't have any, and played another Elves along with a face down Blistering Firecat. Walls played a fourth land and ended his turn, staying back on the Angel to block. Berkowitz attacked with everything but the Firecat- the Angel blocked an elf, and Wild Mongrel was pumped with Violent Eruption, which dealt the other four necessary to take out the Angel. Another attack saw Walls cycle Slice and Dice so that the Firecat couldn't be unmorphed, and Walls cast Wrath of God to kill the Mongrel and Firecat.
 
 Berkowitz - "So I can't win now, right?  
  Walls- "No sir!"
@@ -161,7 +163,9 @@ Walls- 2 Berkowitz- 1
 
 Berkowitz- "That was the most frustrating thing I've ever experienced in my entire life. I played perfectly, and you ripped a Wrath. You're such a buffoon."
 
-![](https://i.ormos.uk/c6/c3/c6c38c6af2ab2142f6a6d693a3278fb568e86cb8b4096a4db46d12b11899403c.jpg)Walls seemed to revel in frustrating Berkowitz, playing the "I'm so terrible, but I beat you anyway" act to further antagonize him.
+![](https://i.ormos.uk/c6/c3/c6c38c6af2ab2142f6a6d693a3278fb568e86cb8b4096a4db46d12b11899403c.jpg)
+
+Walls seemed to revel in frustrating Berkowitz, playing the "I'm so terrible, but I beat you anyway" act to further antagonize him.
 
 ### Game 4
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 2ba49fbba301d3955fef1e8a6369dba7179218ddaa9fc87dc911915be50e3fc6
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a959.jpg)Still more All-Taiwan Action, as the best locals step up to the challenge. This round sees Yue-Wei Yang square off against Bruce Pai. Pai is running a Green-White-Black goodstuff deck, while Yang is with a red-green burn-heavy deck. He's made the most of his single bye, fighting through to within striking distance of the Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a959.jpg)
+
+Still more All-Taiwan Action, as the best locals step up to the challenge. This round sees Yue-Wei Yang square off against Bruce Pai. Pai is running a Green-White-Black goodstuff deck, while Yang is with a red-green burn-heavy deck. He's made the most of his single bye, fighting through to within striking distance of the Top 8.
 
 Both players sent back their initial hands. Yang drew up a six with Wild Mongrel and Blurred Mongoose, but just one land. He couldn't say no. He paid dearly. He had just a Rootwalla and forest in play on turn three. Pai showed him Vindicate.
 
@@ -54,7 +56,9 @@ Yang allowed himself a glance at his next few cards. There wasn't a land in the 
 
 Pai 1 - Yang 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a960.jpg)Yang started out with Grim Lavamancer and watched as Pai played out City of Brass and Bird of Paradise, then answered his Blurred Mongoose with Caves of Koilos and Anurid Brushhopper. Yang had two Fiery Tempers in hand. He could kill the Birds, sabotaging Pai's pain-free mana. Instead he held back, trading his Temper and Mongoose for Pai's pitches of Glory and Wild Mongrel.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a960.jpg)
+
+Yang started out with Grim Lavamancer and watched as Pai played out City of Brass and Bird of Paradise, then answered his Blurred Mongoose with Caves of Koilos and Anurid Brushhopper. Yang had two Fiery Tempers in hand. He could kill the Birds, sabotaging Pai's pain-free mana. Instead he held back, trading his Temper and Mongoose for Pai's pitches of Glory and Wild Mongrel.
 
 Ah Glory, what a beating. Pai developed his mana further with Llanowar Elves and added a Wild Mongrel to the mix. Yang made a Mongrel and pitched Fiery Temper to kill Pai's. His Lavamancer took out the Birds. Still, he was losing ground.
 

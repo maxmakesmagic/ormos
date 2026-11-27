@@ -74,19 +74,25 @@ render_recovery:
   - Mind Sludge
   occurrences: 35
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/908.jpg)Both of these players are near the top of the standings, and a win would put them in a great position to make the top eight. Gabriel, who is playing Blue-Black Upheaval has had a breakout year on the PT, finishing the season with more than 40 pro points. Rickard is running black control, and his best results include a win at GP Warsaw last year.
+![](https://www.wizards.com/sideboard/images/gplon02/908.jpg)
+
+Both of these players are near the top of the standings, and a win would put them in a great position to make the top eight. Gabriel, who is playing Blue-Black Upheaval has had a breakout year on the PT, finishing the season with more than 40 pro points. Rickard is running black control, and his best results include a win at GP Warsaw last year.
 
 Game One
 
 Gabriel had to take two mulligans at the start of this game. “That evens the game out”, said Rickard, as the match-up was heavily in favor of Gabriel’s Upheaval deck. Nassif was still fine, even with a five card hand, since he went first and dropped a second turn Standstill. Rickard was going to be forced to break it at some point, so he dropped a Fiend, taking Innocent Blood, which also showed that Nassif had a second Standstill.
 
-![](https://www.wizards.com/sideboard/images/gplon02/909.jpg)Gabriel played Chainer's Edict on the Fiend and said go. After Rickard played a Shade on his next turn, Gabriel used the Innocent Blood and dropped Standstill number two. Once again it was broken by a Fiend. When this ran into yet another Innocent Blood it looked like Gabriel was in a very comfortable position, as he was able to drop Standstill and Infestation. This Standstill was broken by a Faceless Butcher, but Gabriel was easily able to deal with it with Chainer's Edict. The Frenchman had drawn nine extra cards from Standstill at that point. With a handful of useless cards, Rickard conceded to save time rather than wait for the Zombies to kill him.
+![](https://www.wizards.com/sideboard/images/gplon02/909.jpg)
+
+Gabriel played Chainer's Edict on the Fiend and said go. After Rickard played a Shade on his next turn, Gabriel used the Innocent Blood and dropped Standstill number two. Once again it was broken by a Fiend. When this ran into yet another Innocent Blood it looked like Gabriel was in a very comfortable position, as he was able to drop Standstill and Infestation. This Standstill was broken by a Faceless Butcher, but Gabriel was easily able to deal with it with Chainer's Edict. The Frenchman had drawn nine extra cards from Standstill at that point. With a handful of useless cards, Rickard conceded to save time rather than wait for the Zombies to kill him.
 
 Game Two
 
 This time it was Rickard who had to mulligan twice, but unfortunately for him, he isn’t running Standstills to get his cards back. He played Cabal Therapy on his first turn, and hit a Standstill. The Swede played Braids, Cabal Minion which was Innocent Blooded. Gabriel played a Zombie Infestation, and once again looked to be in control.
 
-![](https://www.wizards.com/sideboard/images/gplon02/910.jpg)Rickard played a second Braids, but it didn’t last long since Gabriel had a second Blood, and then played Standstill. Osterberg would have broken the Standstill if he had anything worth playing, but instead he just kept passing the turn while Nassif looked for a seventh land needed to cast Upheaval and Infestation in the same turn.
+![](https://www.wizards.com/sideboard/images/gplon02/910.jpg)
+
+Rickard played a second Braids, but it didn’t last long since Gabriel had a second Blood, and then played Standstill. Osterberg would have broken the Standstill if he had anything worth playing, but instead he just kept passing the turn while Nassif looked for a seventh land needed to cast Upheaval and Infestation in the same turn.
 
 Finally Osterberg drew a Rancid Earth and used that to break the Standstill, then dropped Braids. Gabriel tapped out to Blood and Deep Analysis, so the Swede took the opportunity to drop a Screams of the Damned. Rickard used Cabal Therapy to see that Gabriel had Upheaval (which he probably should have named over Circular Logic) and was about to combo on the next turn. Nassif also had a Skeletal Scrying which he used in response to Mind Sludge. This gave him enough cards so that the Frenchman was able to Upheaval and drop Infestation next turn, and Rickard scooped in response.
 

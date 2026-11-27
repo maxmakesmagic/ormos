@@ -65,7 +65,9 @@ Jon shrugged and wanted to focus on a late gift Ken received during the draft. �
 
 ### Game One
 
-![](https://i.ormos.uk/e1/ed/e1ed7322c9f1cb48965e00847e5e9a606a7f60e54a42c3044f899bf61f42db07.jpg)Jon opened with a Pyrite Spellbomb but that was all the action until Ken played a Skyhunter Cub. Jon smoked the cub with his Spellbomb and Ken shrugged, “Man down”
+![](https://i.ormos.uk/e1/ed/e1ed7322c9f1cb48965e00847e5e9a606a7f60e54a42c3044f899bf61f42db07.jpg)
+
+Jon opened with a Pyrite Spellbomb but that was all the action until Ken played a Skyhunter Cub. Jon smoked the cub with his Spellbomb and Ken shrugged, “Man down”
 
 Ken played a Sky Patrol and Jon came back with Pewter Golem. Ken soared over the red zone for two and played a Quicksilver Elemental, which prompted Jon to comment, “Seems busty.”
 
@@ -93,7 +95,9 @@ Ken agreed, “Terror is just ridiculous in this format!”
 
 ### Game Two
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a881.jpg)Jon was on the draw but had a Pyrite Spellbomb. Ken made a turn two Myr over a Den Guard. Jon followed with a Myr of his own.
+![](http://www.wizards.com/sideboard/images/gpkc03/a881.jpg)
+
+Jon was on the draw but had a Pyrite Spellbomb. Ken made a turn two Myr over a Den Guard. Jon followed with a Myr of his own.
 
 Ken got in with his Myr and Jon chose not to trade. Ken followed with a Wizard replica. Jon had no turn three play and passed it back to Ken who made a turn four Quicksilver Elemental. “Already? Dear God”
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: 51eb79bf3c2361f27b9e0e43035d967d9cf3e3bd2efdcf965520230df7667f36
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a919.jpg)It started to get dark in Amsterdam and the weather got chillier by the minute.
+![](http://www.wizards.com/sideboard/images/euro02/a919.jpg)
+
+It started to get dark in Amsterdam and the weather got chillier by the minute.
 
 ### Game 1
 
@@ -73,7 +75,9 @@ Chiera 1 – 0 Lührs
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/euro02/a920.jpg)This time Lührs decided to play first because of the Italian's speedy deck.
+![](http://www.wizards.com/sideboard/images/euro02/a920.jpg)
+
+This time Lührs decided to play first because of the Italian's speedy deck.
 
 The roles seemed to have switched as Christian was the first one to attack with his stompy creature. Luca cast a Pardic Firecat to stay in the damage race with Lührs. But Christian wasn't impressed and cast two Anurid Barkripper. When Luca cast Ember Beast it all seemed to have ended but Christian seemed to have a solution and he used Diabolic Tutor to go and get it. He went to get Elephant Guide.
 

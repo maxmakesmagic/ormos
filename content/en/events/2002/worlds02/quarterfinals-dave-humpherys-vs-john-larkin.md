@@ -94,7 +94,9 @@ render_recovery:
   - Undermine
   occurrences: 202
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a576.jpg)Before you consider the individual decklists, you've got to figure that David Humpherys, in untimed rounds, in a Psychatog mirror-match, is at a distinct advantage. The icon of Team Your Move Games's succes, Humpherys has many Pro Tour Top 8's to his name, and is considered one of the best minds in the game. 
+![](http://www.wizards.com/sideboard/images/worlds02/a576.jpg)
+
+Before you consider the individual decklists, you've got to figure that David Humpherys, in untimed rounds, in a Psychatog mirror-match, is at a distinct advantage. The icon of Team Your Move Games's succes, Humpherys has many Pro Tour Top 8's to his name, and is considered one of the best minds in the game. 
 
 His opponent, John Larkin, is the reigning and three-time Irish National Champion. Larkin went 5-1 in the Standard Constructed portion of the event, despite considering it his weakest format. He's cautious about his chances in this quarterfinal match.
 
@@ -120,7 +122,9 @@ Larkin had a tough decision. He finally chose to pitch all his Familiars, the Sa
 
 Humpherys played an island and passed it back. Larkin did the same. And then again. On the fourth exchange Larkin showed an Underground River. Humpherys's fifth land was Sulfur Vent. Soon they were at six land apiece, neither able to make a move. At seven mana Humpherys struck, playing another Deep Analysis from hand. Larkin let it ride. Humpherys discarded Chainer's Edict.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a566.jpg)Larkin resolved a Nightscape Familiar. Humpherys went one better and tried Psychatog.
+![](http://www.wizards.com/sideboard/images/worlds02/a566.jpg)
+
+Larkin resolved a Nightscape Familiar. Humpherys went one better and tried Psychatog.
 
 "You're attempting to kill me." - John Larkin
 
@@ -194,7 +198,9 @@ Cunning Wish at end of turn got Humpherys his Fact or Fiction. Still with no six
 
 Larkin was close. He had six cards in hand and four in the graveyard. Humpherys was at seventeen. Larkin cast Fact or Fiction. A 3-2 split would put him at eight cards in hand and seven in the graveyard, one point shy of killing his opponent. Four land on board meant he couldn't squeeze the extra point out of Deep Analysis. The cards came down two islands, Memory Lapse, Fact or Fiction and Psychatog. Larkin scored Fact or Fiction and Psychatog. He played a land, swung in and pitched Deep Analysis for damage, leaving himself with seven cards in hand.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a567.jpg)Humpherys played his seventh land and an Edict from the gravyeard. Larkin untapped and played Fact or Fiction. This time it was Repulse, Familiar, 'Tog, Catacombs and island. Humpherys split them lands and spells. Larkin took the lands. Humpherys Analyzed. Larkin flashed his back. Humpherys Lapsed. Larkin let it resolve. He tried his 'Tog. Humpherys Counterspelled.
+![](http://www.wizards.com/sideboard/images/worlds02/a567.jpg)
+
+Humpherys played his seventh land and an Edict from the gravyeard. Larkin untapped and played Fact or Fiction. This time it was Repulse, Familiar, 'Tog, Catacombs and island. Humpherys split them lands and spells. Larkin took the lands. Humpherys Analyzed. Larkin flashed his back. Humpherys Lapsed. Larkin let it resolve. He tried his 'Tog. Humpherys Counterspelled.
 
 Humpherys got busy. Nightscape Familiar and a flashed-back Analysis. Larkin with two blue up had no Counterspell. Psychatog also joined the party. Humpherys ended the turn with three mana available. He let a Larkin Edict resolve. Larkin held back on his six mana. His hand was Upheaval, Edict, Deep Analysis, and Fact or Fiction.
 

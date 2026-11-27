@@ -83,7 +83,9 @@ Sound good? Then on with the show.
 
 ### What do the two colors have in common?
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr205_picMain_en.jpg)The key to understanding an enemy color pair is to examine what conflict defines them. For red and white that is the eternal conflict of chaos and order. White is all about structure. White wants peace and harmony for everybody. To ensure this happens, white lays down the law, quite literally. White knows that its rules upon rules will make sure that everyone is doing what they should to guarantee a peaceful community. Red, on the other hand, is very much about following its heart. Red does what it feels it should do. Now, when everyone acts on their own wants and desires it causes some conflict. Red's okay with that. Conflict is an essential part of life. If two people disagree let them smack each other around. Ideas like this lead to chaos. Once again, red's okay with that.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr205_picMain_en.jpg)
+
+The key to understanding an enemy color pair is to examine what conflict defines them. For red and white that is the eternal conflict of chaos and order. White is all about structure. White wants peace and harmony for everybody. To ensure this happens, white lays down the law, quite literally. White knows that its rules upon rules will make sure that everyone is doing what they should to guarantee a peaceful community. Red, on the other hand, is very much about following its heart. Red does what it feels it should do. Now, when everyone acts on their own wants and desires it causes some conflict. Red's okay with that. Conflict is an essential part of life. If two people disagree let them smack each other around. Ideas like this lead to chaos. Once again, red's okay with that.
 
 So how does the force working towards order commingle with the force working towards chaos? The answer is to let each part have its role in how the guild functions. One half picks the goal while the other half chooses the tools to accomplish the task. This leads to two possibilities. A group with a moral center using whatever it feels is necessary to get the job done (this is the Boros for those that care). Or a group bent on creating anarchy that uses careful planning to bring it about.
 
@@ -93,7 +95,9 @@ White and red might be on two different sides but they do share the same coin. T
 
 ### How do the two colors differ? What is the guild's internal conflict?
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr205_pic1_en.jpg)As stated above, red and white want diametrically opposed things. White acts as a means to bring the community together. To safeguard the needs of the many. Red acts to ensure that each individual has the freedom to do whatever it wants even if that freedom imposes on others. White makes rules. Red breaks rules. White carefully builds structure. Red breaks down structure wherever it can find it.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr205_pic1_en.jpg)
+
+As stated above, red and white want diametrically opposed things. White acts as a means to bring the community together. To safeguard the needs of the many. Red acts to ensure that each individual has the freedom to do whatever it wants even if that freedom imposes on others. White makes rules. Red breaks rules. White carefully builds structure. Red breaks down structure wherever it can find it.
 
 The internal conflict of the guild stems from this divergence. Red/white is always focused on its goal but its ends don't always match its means. Red/white often finds itself breaking the very rules it has set out to create. To create peace, it will kill. To ensure freedom, it will enslave. Its long term strategy and short term tactics are constantly at odds with one another.
 
@@ -109,7 +113,9 @@ While red/white is conflicted in what it wants, it is not conflicted in how it h
 
 ### What does the guild despise? What negatively drives the guild?
 
-![](http://archive.wizards.com/magic/images/mtgcom/products/ravnica/guild_boros_pic.jpg)The key to understanding what an enemy color pair despises is to look at the other enemies of the two colors and see what those two colors have in common. Red's other enemy is blue while white's other enemy is black. What do blue and black have in common? Sneakiness. Indirectly and subtly accomplishing one's goal. Red/white hates that. Red/white is all about being open and honest about what you're doing. If I'm planning to cave in your skull, I tell you to your face what I'm going to do.
+![](http://archive.wizards.com/magic/images/mtgcom/products/ravnica/guild_boros_pic.jpg)
+
+The key to understanding what an enemy color pair despises is to look at the other enemies of the two colors and see what those two colors have in common. Red's other enemy is blue while white's other enemy is black. What do blue and black have in common? Sneakiness. Indirectly and subtly accomplishing one's goal. Red/white hates that. Red/white is all about being open and honest about what you're doing. If I'm planning to cave in your skull, I tell you to your face what I'm going to do.
 
 Red/white is all about being focused and direct. It doesn't get subtlety. It wants to see its enemies coming because it enjoys a good fight. Being sucker punched or stabbed in the back is so not what red/white wants to have happen. Red/white wants things played by the rules. You know, the rules it made. If its enemies don't understand its rules, that's okay. But at least red/white has them. Playing without clear-cut rules is cheating. And red/white does not condone cheating. At least not what it defines as cheating.
 
@@ -133,7 +139,9 @@ I couldn't end without the ever-so-controversial examples from pop culture.
 
 **The Punisher** – For those of you that don't read comics (or see really bad movies), the Punisher is a man named Frank Castle whose family was gunned down by mobsters (they were accidentally caught in some crossfire). To make amends, he has vowed to stop all people like those that took his loved ones. How? By killing them, of course. Aha, you say, he kills, doesn't that make him black? No, killing for selfish gain is black. What the Punisher does is not for himself but for society as a whole (yeah, yeah, I know that can be debated but it's how the character is written). The Punisher is guided by a very strict set of ethics. He truly believes he is making the world a better place. (That's the white part.) But he feels he is above the law and he accomplishes his task as he sees fit most often by blowing the bad guys away. (That's the red part.)
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr205_pic2_en.jpg)**The A Team** – As you can see vigilantes feel right at home in red/white. The A Team is no exception. The A Team is out to do good. They have a strong moral center and are clearly guided by the desire to right wrongs. That said, they are in no way constrained by anyone else's rules. They do what it takes to accomplish their task (and other than BA getting shot every eighth episode no one ever seems to get hurt).
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr205_pic2_en.jpg)
+
+**The A Team** – As you can see vigilantes feel right at home in red/white. The A Team is no exception. The A Team is out to do good. They have a strong moral center and are clearly guided by the desire to right wrongs. That said, they are in no way constrained by anyone else's rules. They do what it takes to accomplish their task (and other than BA getting shot every eighth episode no one ever seems to get hurt).
 
 **Worf** – Worf is a Klingon (heavy red) raised by humans (heavy white). He has great respect for structure as a member of the Federation yet still understands the primal emotions that guide his people. His whole character is based on the internal conflict of these two forces.
 

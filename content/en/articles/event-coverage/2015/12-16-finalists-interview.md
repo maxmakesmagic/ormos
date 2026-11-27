@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/175.jpg)Noah Boeken got his international breakthrough when he became the 2000 European Champion. But since then he has had a lot of strong results, including a top 8 performance in Grand Prix Manchester. And when he got a second chance at the Invasion limited format in the capital of Finland, 'Broken Boeken' went all the way to become the Grand Prix Helsinki Champion. "It felt good and it was fun," Noah smiles after taking home 2400 dollars and six Pro Tour points. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/175.jpg)
+
+Noah Boeken got his international breakthrough when he became the 2000 European Champion. But since then he has had a lot of strong results, including a top 8 performance in Grand Prix Manchester. And when he got a second chance at the Invasion limited format in the capital of Finland, 'Broken Boeken' went all the way to become the Grand Prix Helsinki Champion. "It felt good and it was fun," Noah smiles after taking home 2400 dollars and six Pro Tour points. 
 
 The 19-year old player from the Netherlands had a really good run in Helsinki. He started off by going undefeated through the Sealed portion of the Grand Prix event, so him making it to the top 8 wasn't really surprising. And Noah wasn't particularly surprised. "I expected to make top 16 or top 8 because I practiced twice a week. Besides, I did well in Manchester which was the same format," he explains. Noah believes that being an experienced player is an advantage in a new format. "You adapt easier to a new set than the not so good players. There are some tricks they don't know," he says. 
 

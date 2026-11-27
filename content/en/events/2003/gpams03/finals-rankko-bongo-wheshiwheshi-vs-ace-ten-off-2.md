@@ -247,7 +247,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/gpams03/a873.jpg)One more match to go. Will it be the multinational Rankko Bongo Wheshiwheshi (Brazil, Argentina, France) or the equally multinational Ace Ten Off (USA, Netherlands)?
+![](http://www.wizards.com/sideboard/images/gpams03/a873.jpg)
+
+One more match to go. Will it be the multinational Rankko Bongo Wheshiwheshi (Brazil, Argentina, France) or the equally multinational Ace Ten Off (USA, Netherlands)?
 
 Seat B pitted current World Champion Carlos Romao against American legend Jon Finkel. Before Kai there was Finkel and with a couple of recent PT top 8's it seems like the American wants a slice of the pie again.
 
@@ -275,7 +277,9 @@ I left to take the pictures I needed of the finals.
 
 It wasn't quite over though. It turned out Finkel was badly flooded as the only other threat he could muster was an Elvish Aberration. Romao came out of the screw with some morphs and Starlight Invoker, but the Timberwatch Elf meant all he could do was throw them in the way of the Aberration.
 
-![](http://www.wizards.com/sideboard/images/gpams03/a864.jpg)Finkel forced it through and gave it steroids in the form of an Accelerated Mutation. Romao tried to counter it by flipping over an Aven Liberator. Finkel shook his head and after reading the card more carefully Romao scooped.
+![](http://www.wizards.com/sideboard/images/gpams03/a864.jpg)
+
+Finkel forced it through and gave it steroids in the form of an Accelerated Mutation. Romao tried to counter it by flipping over an Aven Liberator. Finkel shook his head and after reading the card more carefully Romao scooped.
 
 Romao 1-1 Finkel
 

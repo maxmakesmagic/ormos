@@ -104,11 +104,15 @@ Now, I'm ready to field some questions. Yes, you at your computer eating Diet Co
 
 I assumed the first question would be about the card, but sure I have no problem talking about the design team.
 
-![](https://i.ormos.uk/39/f5/39f527a46007458cea99a766a3e8bf9c9c8428992055b2abee07b9f0c37b389e.jpg)**Mike Elliott (Lead)** – In my column during Top Ten Week (“[Top Ten of the Morning](/en/articles/makingmagic/2004/10-25-top-ten-of-the-morning)”) I had a Top Ten List of the R&D members that had worked on the most expansions. In it Mike was listed at number 2 with myself listed at number 3. (Current VP of R&D and former Head **Magic** Designer Bill Rose was number 1.) Now I made the list counting in my head. Henry Stern (number 4) was curious to see the list based on official design and development credits. The end result was that Bill slipped down to number 4 and Mike, Henry and I each slipped up a slot. This means that Mike holds the record for having worked on the most **Magic** design and development teams (I'm currently two behind him for anyone who cares.)
+![](https://i.ormos.uk/39/f5/39f527a46007458cea99a766a3e8bf9c9c8428992055b2abee07b9f0c37b389e.jpg)
+
+**Mike Elliott (Lead)** – In my column during Top Ten Week (“[Top Ten of the Morning](/en/articles/makingmagic/2004/10-25-top-ten-of-the-morning)”) I had a Top Ten List of the R&D members that had worked on the most expansions. In it Mike was listed at number 2 with myself listed at number 3. (Current VP of R&D and former Head **Magic** Designer Bill Rose was number 1.) Now I made the list counting in my head. Henry Stern (number 4) was curious to see the list based on official design and development credits. The end result was that Bill slipped down to number 4 and Mike, Henry and I each slipped up a slot. This means that Mike holds the record for having worked on the most **Magic** design and development teams (I'm currently two behind him for anyone who cares.)
 
 Mike has worked on so many design teams that I'm starting to run out of new things to say about him. He's been working on Magic for nine years and has had about as much influence on the game as anyone (well, save Richard). I talk about newcomers quite often. Mike is an oldcomer. If you don't know Mike's accomplishments then you simply aren't a fan of the game's history. (For those that don't know he was Lead Designer of *Stronghold*, *Exodus*, *Urza's Saga*, *Urza's Legacy*, *Mercadian Masques*, *Nemesis*, *Planeshift*, *Onslaught*, *Legions*, *Betrayers of Kamiagawa* and probably one or two more sets that I've forgotten. Plus, he's been on over half of the design teams from *Mirage* forward.)
 
-![](https://i.ormos.uk/93/ca/93ca0da23fd3092bb699dfe770f311843430a3b4645df1519cedab0689486199.jpg)**Randy Buehler** – Shortly after Randy showed up at Wizards he worked on the design team for *Apocalypse*. And then he started doing a lot of development. Then one year, he started popping up on design teams again, working on *Fifth Dawn*, *Unhinged* and *Betrayers of Kamigawa* right in a row. Randy's value to the design team is not really card design (although you'll find a few of his cards in *Betrayers*). Randy is very good at giving the team perspective and helping find the strengths and weaknesses in a design.
+![](https://i.ormos.uk/93/ca/93ca0da23fd3092bb699dfe770f311843430a3b4645df1519cedab0689486199.jpg)
+
+**Randy Buehler** – Shortly after Randy showed up at Wizards he worked on the design team for *Apocalypse*. And then he started doing a lot of development. Then one year, he started popping up on design teams again, working on *Fifth Dawn*, *Unhinged* and *Betrayers of Kamigawa* right in a row. Randy's value to the design team is not really card design (although you'll find a few of his cards in *Betrayers*). Randy is very good at giving the team perspective and helping find the strengths and weaknesses in a design.
 
 And… that's it. Yes, *Betrayers* had a design team of two. While this isn't the first time it's happened (*Legions*, for example had a design team of two – one of which being Mike) it's far from a common occurrence.
 
@@ -122,7 +126,9 @@ Next, you reading this column in between taking your turn on ***Magic** Online*.
 
 **Q: Why weren't there any ninjas in *Champions*? You mentioned it above, so I figured someone had to ask.**
 
-![](https://i.ormos.uk/e2/66/e266303e95a40f64b8aba46392afc9ca363af3aa6fa8d0b90614e1895584927f.jpg)To answer this question, I have to pull everyone back a few steps. **Magic** sets aren't designed in a vacuum. They're designed in blocks. This means that the first set in a block has to think about the other sets in the block. During *Champions'* design we realized how cool ninjas were. So much so, that they seemed worth saving. So we introduced the samurai and then the next set – enter the ninja!
+![](https://i.ormos.uk/e2/66/e266303e95a40f64b8aba46392afc9ca363af3aa6fa8d0b90614e1895584927f.jpg)
+
+To answer this question, I have to pull everyone back a few steps. **Magic** sets aren't designed in a vacuum. They're designed in blocks. This means that the first set in a block has to think about the other sets in the block. During *Champions'* design we realized how cool ninjas were. So much so, that they seemed worth saving. So we introduced the samurai and then the next set – enter the ninja!
 
 Next, the young girl with the silver glasses.
 

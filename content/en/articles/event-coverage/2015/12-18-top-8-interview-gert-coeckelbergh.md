@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Mark Wraith*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/345.JPG)Gert Coeckelbergh's main ambition coming into this tournament was to qualify for the World Championship, and he's already done that. Tomorrow he'll find out if he can go that step further and win the European Championships. He was disappointed to finish in fifth place at his National Championship, narrowly missing out on the Worlds Team.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/345.JPG)
+
+Gert Coeckelbergh's main ambition coming into this tournament was to qualify for the World Championship, and he's already done that. Tomorrow he'll find out if he can go that step further and win the European Championships. He was disappointed to finish in fifth place at his National Championship, narrowly missing out on the Worlds Team.
 
 This fifth place finish earned him the right to play in these championships. Coming up to them he did a lot of testing with his favorite deck, Trinity Green. He build a slightly strange version of the deck with four Vine Trellis and four Blastoderms. Even more unusual is the fact that his Tangle Wires are in his sideboard. He explained � I got the metagame totally wrong. I thought that there would be lots of Stompy and Rebel decks, but instead today I played only Wildfire and Replenish decks. � Still this didn't seem to hurt him at all as he won his first five matches in the type two and then could intentionally draw into the top eight.
 

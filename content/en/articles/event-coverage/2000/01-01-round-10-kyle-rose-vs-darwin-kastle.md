@@ -60,7 +60,9 @@ Eventually a Samite Archer resolved to turn off some of Darwin's heat. Then Kyle
 
 Dual 2 (Darwin 0 Kyle 1) 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/130.jpg)Kyle told me that he "hates to mulligan." I guess he had a lot of faith in the top of his library (and his scouting). This time, Darwin was determined not to be defeated by the Crimson Acolyte and so he boarded in his Shifting Sky, which he drew in the next game to nullify Kyle's Acolytes and negating the gating effect of his own creatures, by making all nonland permanents in play white. So this reduced the game to a straight race between an Angel of Mercy on Kyle's side and a Lava Zombie on Darwin's. A late Traveller's Cloak broke the Zombie through for the win. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/130.jpg)
+
+Kyle told me that he "hates to mulligan." I guess he had a lot of faith in the top of his library (and his scouting). This time, Darwin was determined not to be defeated by the Crimson Acolyte and so he boarded in his Shifting Sky, which he drew in the next game to nullify Kyle's Acolytes and negating the gating effect of his own creatures, by making all nonland permanents in play white. So this reduced the game to a straight race between an Angel of Mercy on Kyle's side and a Lava Zombie on Darwin's. A late Traveller's Cloak broke the Zombie through for the win. 
 
 Dual 3 (Darwin 1 Kyle 1) 
 

@@ -93,7 +93,9 @@ Let us jump right into my findings. Mr. Cavotta was kind enough to advise me on 
 
 The first find included three different specimens, the [Loxodon Hierarch](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Hierarch), the [Watchwolf](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Watchwolf), and the [Centaur Safeguard](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Safeguard). They were each unearthed at different locations, but they were found at the same depth and their similarities led me to grouping them together.
 
-> ![](https://i.ormos.uk/23/e8/23e8c2ef8a78124dd4cebb4773dded2c824765604b9b3cb794e2f4bcb99ded71.jpg)[Loxodon Hierarch](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Hierarch) • *I have lived long, and I remember how this city once was. If my death serves to bring back the Ravnica in my memory, then so be it*
+> ![](https://i.ormos.uk/23/e8/23e8c2ef8a78124dd4cebb4773dded2c824765604b9b3cb794e2f4bcb99ded71.jpg)
+>
+> [Loxodon Hierarch](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Hierarch) • *I have lived long, and I remember how this city once was. If my death serves to bring back the Ravnica in my memory, then so be it*
 > 
 > [Watchwolf](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Watchwolf) • *Only in Ravnica do the wolves watch the flock.*
 > 
@@ -107,7 +109,9 @@ Whether it's swift centaurs, loyal canines, or elephant-headed martyrs, the Conc
 
 The deeper we went, the more we found that supports my theory that the Conclave was a cooperative culture. 
 
-> ![](https://i.ormos.uk/dc/0b/dc0bd7257f01cde87ce295b391a0de36ee2bce2cdd3a1d9c7cfce1fb4d591353.jpg)[Chorus of the Conclave](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chorus+of+the+Conclave) • *“We are many, yet one. We are separate in body, yet speak with a single voice. Join us in our chorus.”*
+> ![](https://i.ormos.uk/dc/0b/dc0bd7257f01cde87ce295b391a0de36ee2bce2cdd3a1d9c7cfce1fb4d591353.jpg)
+>
+> [Chorus of the Conclave](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chorus+of+the+Conclave) • *“We are many, yet one. We are separate in body, yet speak with a single voice. Join us in our chorus.”*
 > 
 > [Selesnya Evangel](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Selesnya+Evangel) • *The clamor of the city drowns all voices. But together we can sing a harmony that will resonate from Ravnica's tallest spires to her deepest wells.*
 > 
@@ -145,7 +149,9 @@ That's a lot of seeds. I think there's a little something here that is doing mor
 
 Well, from all this unity and seeds and trees stuff, I was beginning to paint a mental picture of this guild that seemed familiar. I was getting the idea that this was a culture similar to ones I have dug up wherein whole societies are found petrified in relaxed, lounging, or hugging positions near trees or fossilized plant forms known to have considerable hallucinogenic properties. Thankfully, this flavor text dig started to reveal some things that were not so old news.
 
-> ![](https://i.ormos.uk/a6/6b/a66b1215ebf857a2ab4d128df911f25a86f284f630292de2728698d1a4ede396.jpg)[Siege Wurm](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Siege+Wurm) • *The Rubblefield was once among the wealthiest districts in Ravnica. All it took was a single wurm to reduce it to ruins.*
+> ![](https://i.ormos.uk/a6/6b/a66b1215ebf857a2ab4d128df911f25a86f284f630292de2728698d1a4ede396.jpg)
+>
+> [Siege Wurm](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Siege+Wurm) • *The Rubblefield was once among the wealthiest districts in Ravnica. All it took was a single wurm to reduce it to ruins.*
 > 
 > [Sundering Vitae](https://web.archive.org/web/20051228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sundering+Vitae) • *Centuries of wind, rain, and roots compressed into an instant of destruction: such is the power of Selesnya.*
 > 
@@ -176,7 +182,9 @@ Many thanks to Professor Tad for his effort and insight. With the exception of t
 
 I am glad that I asked the Professor to do this. It would have been easy for me to come out and tell you all the stuff that Professor Tad found. But what is important here is that everything he discovered was right there on the cards. They're your own personal dig site, a little anthropology study that you get to interpret on your own. You don't have to listen to me to know everything you need to know about the Selesnya Conclave. All you need to do is look at the cards! 
 
-![](https://i.ormos.uk/46/01/4601008c36460ed4214044398efce0cc18c8b61b9499286bc05347956dbe0e46.jpg)Oh, there is one thing you might not be able to get from the cards, and for that we welcome back our pal Sekki, Pronunciation's Guide. There are a few words upon Selesnya cards, including the guild name itself, that may be tricky on the tongue.
+![](https://i.ormos.uk/46/01/4601008c36460ed4214044398efce0cc18c8b61b9499286bc05347956dbe0e46.jpg)
+
+Oh, there is one thing you might not be able to get from the cards, and for that we welcome back our pal Sekki, Pronunciation's Guide. There are a few words upon Selesnya cards, including the guild name itself, that may be tricky on the tongue.
 
 **Selesnya** - suh•LES•nee•ah. Yup, it's pretty important that we know how to say this word, since it appears on 15 cards in the set!
 

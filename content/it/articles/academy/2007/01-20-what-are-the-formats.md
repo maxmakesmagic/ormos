@@ -112,7 +112,9 @@ render_recovery:
 
 Ciao e benvenuti alla Magic Academy! Oggi scopriremo i vari formati Constructed che vengono giocati ai tornei.
 
-![Reshape](https://i.ormos.uk/a9/f0/a9f06011389bc9b57beca230cba49d10fd8caa166850aa5a12064cfc4e21528e.jpg)Come abbiamo già visto, giochi i tornei Constructed con il mazzo che hai costruito tu stesso precedentemente (mentre ai tornei Limited, usi le carte che ti vengono date il giorno stesso del torneo). A seconda del formato del torneo, per costruire il tuo mazzo potrai utilizzare carte da diverse espansioni. Alcuni formati ti permettono di giocare solo le carte delle espansioni, mentre alti formati ti permettono di giocarne molte di più.
+![Reshape](https://i.ormos.uk/a9/f0/a9f06011389bc9b57beca230cba49d10fd8caa166850aa5a12064cfc4e21528e.jpg)
+
+Come abbiamo già visto, giochi i tornei Constructed con il mazzo che hai costruito tu stesso precedentemente (mentre ai tornei Limited, usi le carte che ti vengono date il giorno stesso del torneo). A seconda del formato del torneo, per costruire il tuo mazzo potrai utilizzare carte da diverse espansioni. Alcuni formati ti permettono di giocare solo le carte delle espansioni, mentre alti formati ti permettono di giocarne molte di più.
 
 I formati che permettono di giocare le carte di un elevato numero di espansioni non cambiano molto quando esce una nuova espansione. I formati che permettono di giocare solo le carte più nuove, invece, cambiano continuamente. Man mano che vengono pubblicate e possono essere giocate le nuove espansioni, le espansioni più vecchie escono dal formato.
 
@@ -138,7 +140,9 @@ Puoi trovare l’elenco aggiornato delle espansioni legali nel formato Standard 
 
 ### Blocco
 
-![Blockbuster](https://i.ormos.uk/7c/00/7c0050e3dce5ec6d72e9451535b6e87e3327afbff3a61c22b96a734b3f73b5c0.jpg)Il formato Blocco Costruito ti permette di giocare l’ultimo blocco di espansioni (da 1 a 3 espansioni). Per quanto riguarda il gioco competitivo, una stagione di Pro Tour Qualifier all’anno è in formato Blocco Costruito (di solito quando sono disponibili tutte le 3 espansioni). Il formato può essere giocato tutto l’anno su ***Magic** Online*, e si trovano anche tornei nei negozi locali.
+![Blockbuster](https://i.ormos.uk/7c/00/7c0050e3dce5ec6d72e9451535b6e87e3327afbff3a61c22b96a734b3f73b5c0.jpg)
+
+Il formato Blocco Costruito ti permette di giocare l’ultimo blocco di espansioni (da 1 a 3 espansioni). Per quanto riguarda il gioco competitivo, una stagione di Pro Tour Qualifier all’anno è in formato Blocco Costruito (di solito quando sono disponibili tutte le 3 espansioni). Il formato può essere giocato tutto l’anno su ***Magic** Online*, e si trovano anche tornei nei negozi locali.
 
 Il formato Blocco Costruito è unico, nel senso che può essere sempre nuovo. Gli altri formati possono cambiare drasticamente con una rotazione, ma si hanno sempre delle espansioni che sono conosciute; il Blocco Costruito, invece, ti porta sempre un insieme di carte disponibili completamente nuovo. Un vantaggio del formato Blocco Costruito è che ti trovi davanti sempre delle tematiche ben definite. Qualsiasi siano queste tematiche – *Mirrodin* aveva gli artefatti, *Odyssey* l’interazione con il cimitero – avranno sempre un senso in Blocco, cosa che ti porterà a fare nuove e diverse esperienze di gioco.
 
@@ -158,7 +162,9 @@ Puoi trovare l’elenco aggiornato delle espansioni legali nel formato Blocco [q
 
 ### Extended
 
-![Long_Term_Plans](https://i.ormos.uk/bf/99/bf99dea88c8ee9cd6a3949028e9634da678694eabe3529e0bc33d450744a12a4.jpg)Il formato Esteso ruota solo ogni *3 blocchi.* In ogni momento, il formato Esteso avrà gli ultimi 6-8 blocchi (quindi tra 16 e 24 espansioni) e 3 set base. I set base escono dall’esteso insieme al blocco dopo il quale sono stati pubblicati. Il formato Esteso è giocato un po’ più regolarmente del Blocco, con una stagione Pro Tour Qualifier all’anno e qualche torneo locale e online in più.
+![Long_Term_Plans](https://i.ormos.uk/bf/99/bf99dea88c8ee9cd6a3949028e9634da678694eabe3529e0bc33d450744a12a4.jpg)
+
+Il formato Esteso ruota solo ogni *3 blocchi.* In ogni momento, il formato Esteso avrà gli ultimi 6-8 blocchi (quindi tra 16 e 24 espansioni) e 3 set base. I set base escono dall’esteso insieme al blocco dopo il quale sono stati pubblicati. Il formato Esteso è giocato un po’ più regolarmente del Blocco, con una stagione Pro Tour Qualifier all’anno e qualche torneo locale e online in più.
 
 L’Esteso, con il suo enorme insieme di carte e i suoi rari grandi cambiamenti, può essere un formato difficile da affrontare. Ci sono tanti mazzi giocati e questi mazzi usano un sacco di carte diverse e un sacco di strategie diverse. Il bello è che, dato che i grandi cambiamenti del formato sono così rari, imparare queste strategie può essere utile per un tempo ben più lungo rispetto agli altri formati.
 
@@ -220,7 +226,9 @@ Il formato Team Constructed ha un discreto supporto a livello competitivo, con u
 
 ### Note
 
-![Accumulated_Knowledge](https://i.ormos.uk/de/e4/dee403c3b725c9a503d4a21427dc32d815c97735f9ee0a04bb90655a3fa35f54.jpg)**Date di uscita delle espansioni**: Una nuova espansione diventa legale ai tornei (e, se è la prima espansione di un nuovo blocco o un nuovo set base, può portare a una rotazione) il giorno 20 del mese. Per esempio, un’espansione pubblicata il 2 febbraio diventa legale ai tornei il 20 febbraio, mentre un’espansione pubblicata il 22 febbraio diventerebbe legale ai tornei il 20 marzo. Le date in cui diventano valide le prossime espansioni sono elencate nel documento”Floor Rules” (Regole da Torneo) di **Magic**.
+![Accumulated_Knowledge](https://i.ormos.uk/de/e4/dee403c3b725c9a503d4a21427dc32d815c97735f9ee0a04bb90655a3fa35f54.jpg)
+
+**Date di uscita delle espansioni**: Una nuova espansione diventa legale ai tornei (e, se è la prima espansione di un nuovo blocco o un nuovo set base, può portare a una rotazione) il giorno 20 del mese. Per esempio, un’espansione pubblicata il 2 febbraio diventa legale ai tornei il 20 febbraio, mentre un’espansione pubblicata il 22 febbraio diventerebbe legale ai tornei il 20 marzo. Le date in cui diventano valide le prossime espansioni sono elencate nel documento”Floor Rules” (Regole da Torneo) di **Magic**.
 
 **Classifiche**: I tornei ufficiali Wizards of the Coast sono tornei sanzionati e i risultati vengono utilizzati per stilare le classifiche. I tornei Blocco, Standard ed Esteso sono raggruppati nella classifica “Constructed”, mentre i tornei Vintage e Legacy sono raggruppati nella categoria “Eternal”. I tornei online hanno le stesse classifiche, ma separate da quelle del gioco reale.
 

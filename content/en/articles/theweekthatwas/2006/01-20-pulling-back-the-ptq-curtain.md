@@ -1403,11 +1403,15 @@ render_recovery:
 
 How many of you out there have played in a PTQ? Now, out of that group how many of you have reached the Top 8 of a PTQ? One last cull. How many of you have won the whole thing?
 
-[![](http://www.wizards.com/protour/images/qt_lg.jpg)](/en/events/2006/prague06/pro-tourprague-06-qualifiers-4)I would imagine that not many of you stepped up after the last call. I am not asking this to belittle anyone, but instead to point out how hard it is to step up from the ranks of the Swiss rounds to the boarding gate of an airplane bound for Honolulu, Prague, Charlston, Kobe, or Paris. Patrick Sullivan, Bill Stead, and Justin Gary are just a few of name players who reached the Top 8 in the opening weeks of the [current PTQ season](/en/events/2006/prague06/pro-tourprague-06-qualifiers-4) but were not issued an airline ticket bound for Prague. 
+[![](http://www.wizards.com/protour/images/qt_lg.jpg)](/en/events/2006/prague06/pro-tourprague-06-qualifiers-4)
+
+I would imagine that not many of you stepped up after the last call. I am not asking this to belittle anyone, but instead to point out how hard it is to step up from the ranks of the Swiss rounds to the boarding gate of an airplane bound for Honolulu, Prague, Charlston, Kobe, or Paris. Patrick Sullivan, Bill Stead, and Justin Gary are just a few of name players who reached the Top 8 in the opening weeks of the [current PTQ season](/en/events/2006/prague06/pro-tourprague-06-qualifiers-4) but were not issued an airline ticket bound for Prague. 
 
 So what does it take to win a PTQ in this Limited format? And what will change over the coming weeks as Guildpact is introduced into the mix? Last week, I highlighted the [Sealed Deck builds from a handful of events](/en/articles/theweekthatwas/2006/01-13-its-easy-being-green). This week I caught up with the winners from three of those tournaments for a roundtable discussion about their Top 8 draft decks and winning the whole shebang. 
 
-[![](https://i.ormos.uk/d0/b4/d0b452f4e6558bc98698840b5f08bf0a7f9ed9f04d330d3e60784da31ab73731.jpg)](/en/events/2006/prague06ptq/pro-tourprague-qualifying-season-sealed-deck-top-8-decklists)Stuart Kovinsky won in [Toronto](/en/events/2006/prague06ptq/pro-tourprague-qualifying-season-top-8-decklists-20), David Feinstein won [Standish, Maine](/en/events/2006/prague06ptq/pro-tourprague-qualifying-season-top-8-decklists-11), and Nathan Waxer won the [Los Angeles](/en/events/2006/prague06ptq/pro-tourprague-qualifying-season-top-8-decklists-27) PTQ with Pro Tour-Houston Champion Justin Gary seated to his left in the draft. 
+[![](https://i.ormos.uk/d0/b4/d0b452f4e6558bc98698840b5f08bf0a7f9ed9f04d330d3e60784da31ab73731.jpg)](/en/events/2006/prague06ptq/pro-tourprague-qualifying-season-sealed-deck-top-8-decklists)
+
+Stuart Kovinsky won in [Toronto](/en/events/2006/prague06ptq/pro-tourprague-qualifying-season-top-8-decklists-20), David Feinstein won [Standish, Maine](/en/events/2006/prague06ptq/pro-tourprague-qualifying-season-top-8-decklists-11), and Nathan Waxer won the [Los Angeles](/en/events/2006/prague06ptq/pro-tourprague-qualifying-season-top-8-decklists-27) PTQ with Pro Tour-Houston Champion Justin Gary seated to his left in the draft. 
 
 Here's a quick introduction to our panel:
 
@@ -1479,7 +1483,9 @@ My third opponent was green-black-white. He had some good cards, but the 1/4s, 4
 
 ***BDM**: Will you be going to Prague? How do you feel about winning airfare to the Pro Tour?*
 
-![](https://i.ormos.uk/d7/f8/d7f8158f58dd41e651ea7c6c870419728a71ae6ef788912b6d07ceb76766f34e.jpg)**Stuart**: Definitely going to Prague. Without the free airfare, I'm not sure I would have even played in a qualifier for a European Pro Tour event, so I love it.
+![](https://i.ormos.uk/d7/f8/d7f8158f58dd41e651ea7c6c870419728a71ae6ef788912b6d07ceb76766f34e.jpg)
+
+**Stuart**: Definitely going to Prague. Without the free airfare, I'm not sure I would have even played in a qualifier for a European Pro Tour event, so I love it.
 
 The last time I was in Prague was the summer of '94 (when most of my current **Magic** opponents were probably in Junior Kindergarten), while backpacking through Europe. I was there for the first free elections since the Russian tanks rolled in and got to see a free Paul Simon concert in the Central Square. Also, I had to get a root canal done! 
 
@@ -1493,7 +1499,9 @@ I'm hoping that this trip is just as much fun but a lot less painful!
 
 **David**: With the new guilds coming out, I feel that the approach to drafting the guilds will be the same in that you will usually want to draft one of the already established archetypes in *Ravnica*, as opposed to forcing a *Guildpact* guild. This is mainly because *Guildpact* offers one pack rotation, while Ravnica still offers drafters two pack rotations. With that said, you certainly could still force a guild from Guildpact. All three guilds look extremely strong. I feel Convolute and Remand will be drafted more aggressively due to Izzet. I expect cheap, efficient attackers to also be drafted higher because of Gruul. Sell-Sword Brute is a good example of this.
 
-![](https://i.ormos.uk/f6/54/f654d41873b4db169d4131f9c9d4e09bf22888e80e5a4008fd04a6ca9a3dd3d4.jpg)**Nathan**: I think the new guilds will definitely add a lot, but not as much as people might think. We still have two packs of *Ravnica* compared to one pack of *Guildpact* to fill our decks with. So I still see all four *Ravnica* guilds still being very viable. Although I have seen some very good cards in Guildpact, in particular the blue-red guild, I feel that people will initially overdraft blue-red, which are already the thinnest two colors in *Ravnica*. Also, if you look closely, most of the outstanding blue-red cards in *Guildpact* are uncommon, meaning that we won't see them as much as we would expect. Personally I feel that the black-white decks and green-red decks are not as exciting to most players, and if I were to do a *Ravnica-Ravnica-Guildpact* draft today I would look toward drafting either of those archetypes because I wouldn't want to fight for blue-red. 
+![](https://i.ormos.uk/f6/54/f654d41873b4db169d4131f9c9d4e09bf22888e80e5a4008fd04a6ca9a3dd3d4.jpg)
+
+**Nathan**: I think the new guilds will definitely add a lot, but not as much as people might think. We still have two packs of *Ravnica* compared to one pack of *Guildpact* to fill our decks with. So I still see all four *Ravnica* guilds still being very viable. Although I have seen some very good cards in Guildpact, in particular the blue-red guild, I feel that people will initially overdraft blue-red, which are already the thinnest two colors in *Ravnica*. Also, if you look closely, most of the outstanding blue-red cards in *Guildpact* are uncommon, meaning that we won't see them as much as we would expect. Personally I feel that the black-white decks and green-red decks are not as exciting to most players, and if I were to do a *Ravnica-Ravnica-Guildpact* draft today I would look toward drafting either of those archetypes because I wouldn't want to fight for blue-red. 
 
 **Stuart**: I think that we'll see a lot of three/four-colour madness when the next set comes out –and I have very mixed feelings. Generally, players who are more disciplined will stick to two colours (with maybe a gold splash) and do better; on the other hand, I expect a lot of random drafting as people change colours in the third pack. So, I think I'll do well (since I won't get seduced into bad splashes), but I'll also get frustrated by random drafting.
 

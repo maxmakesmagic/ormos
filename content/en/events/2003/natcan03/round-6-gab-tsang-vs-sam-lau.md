@@ -85,7 +85,9 @@ Gab and Sam played on the same Canadian Nationals team three seasons ago. That t
 
 Sam made the first play of Crypt Sliver—despite being on the draw. Gab's third turn yielded a Wirewood Elf but no land. Sam's third turn was similarly barren. "We are terrible!" exclaimed Gab when Sam missed his drop. When he found a land waiting for him on his next turn he amended the statement, "You are terrible!" Gab played his Swamp and made a Wirewood Savage. Barren Moor was Sam's next draw and when he complained it prompted a taunting outburst from Ruckish spectator Mark Zajdner, "Don't be greedy Sam!" Sam shrugged him off and played Lingering Death on the Savage.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a956.jpg)Elvish Riders joined Gab's team while a Bladewing's Thrall came down for Sam. The next turn for Gab saw Nefashu hit play. Once Gab saved the Nefashu in combat—using Wirewood Pride—and an 11/11 Ancient Ooze joined the team, Sam conceded.
+![](http://www.wizards.com/sideboard/images/natcan03/a956.jpg)
+
+Elvish Riders joined Gab's team while a Bladewing's Thrall came down for Sam. The next turn for Gab saw Nefashu hit play. Once Gab saved the Nefashu in combat—using Wirewood Pride—and an 11/11 Ancient Ooze joined the team, Sam conceded.
 
 Gab – 1 Sam – 0
 

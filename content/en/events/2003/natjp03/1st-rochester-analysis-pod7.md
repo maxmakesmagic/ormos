@@ -1059,7 +1059,9 @@ render_recovery:
 
 畠は上のプレイヤーと協調すべく、赤か黒のカードを取りたい所だったが、黒に丁度良いカードが無いために《焦熱の火猫/Blistering Firecat》で赤緑に。
 
-![](https://www.wizards.com/sideboard/images/natjp03/a980.jpg)藤野はあくまで点数重視。《急降下爆撃兵/Dive Bomber》で緑白になるよりはと《アヴァラックス/Avarax》をとって上との抗争を予感させる。
+![](https://www.wizards.com/sideboard/images/natjp03/a980.jpg)
+
+藤野はあくまで点数重視。《急降下爆撃兵/Dive Bomber》で緑白になるよりはと《アヴァラックス/Avarax》をとって上との抗争を予感させる。
 
 西村は隙間のある白に参入し、加藤は態度を保留。
 

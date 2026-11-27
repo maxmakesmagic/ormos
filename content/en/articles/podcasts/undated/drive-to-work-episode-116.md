@@ -41,4 +41,6 @@ render_recovery: []
 
 For many years, I was in charge of producing the video coverage of the Pro Tour. In today's first podcast, I share a bunch of stories about my time doing it.
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

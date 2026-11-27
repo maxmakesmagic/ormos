@@ -53,7 +53,9 @@ render_recovery:
 ---
 *by Mark Wraith*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/994.jpg)As most of you will be aware, day one of Grand Prix Amsterdam is Sealed Deck format. Many players dislike this format for the luck element inherent in it, but despite being one of the world's top Magic players, Kai Budde still enjoys playing this format.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/994.jpg)
+
+As most of you will be aware, day one of Grand Prix Amsterdam is Sealed Deck format. Many players dislike this format for the luck element inherent in it, but despite being one of the world's top Magic players, Kai Budde still enjoys playing this format.
 
 Kai has had a good start to his Pro Tour Season, leading the way in the Player of the Year race after winning the most recent Pro Tour, in Chicago. He is very well known as a Constructed player, along with his team-mates such as Warren Marsh and Ben Ronaldson. As a whole this team tends to concentrate on deck-building rather than Limited play, but Kai told me that he had done around five hundred net-drafts. On the other hand, he hadn't done very much testing for Sealed, so he'd have to get through eight rounds of play before he could see how his net-drafting skills translated to the real thing.
 

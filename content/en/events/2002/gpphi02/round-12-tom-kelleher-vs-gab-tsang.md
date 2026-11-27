@@ -129,7 +129,9 @@ render_recovery:
   - Withering Hex
   occurrences: 124
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a887.jpg)The crowd around Kelleher was hooting and hollering. "Go, Kelleher! *Go Kelleher!*" 
+![](http://www.wizards.com/sideboard/images/gpphi02/a887.jpg)
+
+The crowd around Kelleher was hooting and hollering. "Go, Kelleher! *Go Kelleher!*" 
 
 Tom's a local favorite, a 280-pound lawyer from Philly who's renowned for his sharp eye for money drafts, his unconventional picks in drafts, and his ability to drink any man in town under the table. He's currently 9-1-1, and on top of the world; friends have long said that he had the skillz to pay the billz, but if he does it well today he may prove himself a champion.
 
@@ -157,7 +159,9 @@ Gab gritted his teeth.
 
 He swung the Buzzard and the Soulless one in, and the Soulless One bit deep... But the Buzzard ran into the Specter and was gobbled up, forcing Tom to discard his only card and putting him into topdeck mode. Admittedly, this was topdeck mode with a Mobilization, so it wasn't entirely unpainful. Gab created another blocker in the form of a Glory Seeker.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a888.jpg)Gab counted the zombies; "Yeah, he's pretty big," Tom said, acknowledging that the Soulless One was now an 8/8. Gab sent in the Soulless and morph, while Tom made two soldier tokens... And blocked the morph with the Specter in a move that made the crowd gasp. The morph turned out to be a Daru Lancer, one of white's famed big morph creatures, which snuffed the Specter and Tom's immediate offense. Undaunted, a Frightshroud Courier and a Shepherd of Rot leapt to Tom's defense. Gab tried to swing in, but a lowly soldier token stopped the Cavalier's *Onslaught* the next turn... And the Cavalier met a Cruel Revival, dispatching it handily while retrieving the long-lost Anurid Murkdiver.
+![](http://www.wizards.com/sideboard/images/gpphi02/a888.jpg)
+
+Gab counted the zombies; "Yeah, he's pretty big," Tom said, acknowledging that the Soulless One was now an 8/8. Gab sent in the Soulless and morph, while Tom made two soldier tokens... And blocked the morph with the Specter in a move that made the crowd gasp. The morph turned out to be a Daru Lancer, one of white's famed big morph creatures, which snuffed the Specter and Tom's immediate offense. Undaunted, a Frightshroud Courier and a Shepherd of Rot leapt to Tom's defense. Gab tried to swing in, but a lowly soldier token stopped the Cavalier's *Onslaught* the next turn... And the Cavalier met a Cruel Revival, dispatching it handily while retrieving the long-lost Anurid Murkdiver.
 
 All Gab could manage in response was a Glory Seeker.
 
@@ -185,7 +189,9 @@ Tsang kept his second hand, and both of them had a slow opening, with Kelleher f
 
 So early, so ugly.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a889.jpg)Gab made a morph while Kelleher sent in the Basher, summoning a goblin and a morph of his own. Gab decided whether it was worth it to attack in, but ultimately decided he should cast his own Cruel Revival... Sending the Fallen Cleric tumbling back to the grave. Clerics were falling like flies....
+![](http://www.wizards.com/sideboard/images/gpphi02/a889.jpg)
+
+Gab made a morph while Kelleher sent in the Basher, summoning a goblin and a morph of his own. Gab decided whether it was worth it to attack in, but ultimately decided he should cast his own Cruel Revival... Sending the Fallen Cleric tumbling back to the grave. Clerics were falling like flies....
 
 The Spined Basher went in, only to discover that a morphed Gravel Slinger doesn't like one-toughness creatures a whole lot. Kelleher then summoned his Anurid Murkdiver, which repeated the beating of the last game, dispatching Gab within three swings. 
 

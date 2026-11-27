@@ -1127,7 +1127,9 @@ render_recovery:
 ---
 ### Jon Sonne vs. Nate Heiss
 
-![He really doesn't have any Islands. Or DOES he?!](http://www.wizards.com/sideboard/images/gpoak04/r7fm1_1.jpg)Nate Heiss and his teammate Jon Sonne were both sitting on a single loss. Another loss would drop the recipient perilously close to elimination. Nate was not the picture of optimism as he asked, "Do you want help with Feature matches tomorrow?"
+![He really doesn't have any Islands. Or DOES he?!](http://www.wizards.com/sideboard/images/gpoak04/r7fm1_1.jpg)
+
+Nate Heiss and his teammate Jon Sonne were both sitting on a single loss. Another loss would drop the recipient perilously close to elimination. Nate was not the picture of optimism as he asked, "Do you want help with Feature matches tomorrow?"
 
 Josh Ravitz came over to watch the match and asked Nate about his deck. "Its okay…it has a lot of colors."
 

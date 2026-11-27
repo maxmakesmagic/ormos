@@ -95,7 +95,9 @@ render_recovery:
   - Opportunity
   occurrences: 131
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a875.jpg)Kelly hails from Ogden, Utah, and was already qualified through his participation in a JSS qualifier. Dan is from Woodbury, Connecticut, and also qualified through a JSS qualifier. "I'd like to say hi to my mother, who's back home in Utah this weekend," Kelly said. Dan also sent out similar greetings. "Hi, Mom!" he added.
+![](http://www.wizards.com/sideboard/images/natus03/a875.jpg)
+
+Kelly hails from Ogden, Utah, and was already qualified through his participation in a JSS qualifier. Dan is from Woodbury, Connecticut, and also qualified through a JSS qualifier. "I'd like to say hi to my mother, who's back home in Utah this weekend," Kelly said. Dan also sent out similar greetings. "Hi, Mom!" he added.
 
 ### Game 1
 
@@ -115,7 +117,9 @@ Dan opted to return Phantom Centaur to his hand during his upkeep, then played t
 
 "Declare my attack step?" Dan asked tentatively as he swung his creatures into the Red Zone. Kelly just smiled and played his Moment's Peace. When Dan had nothing else to do, Kelly cast Cunning Wish and copied it with Mirari. He chose to find Flash of Insight (which Dan read quickly) and a Ray of Revelation. Kelly cast the Ray at Dan's Cemetery and cycled Renewed Faith, going back up to 7 life.
 
-![](http://www.wizards.com/sideboard/images/natus03/a877.jpg)What had seemed like almost a lock for Dan has slowly swung back the other way. With eight mana, Kelly cast another Mirari's Wake and then a face-down morph creature. He then unmorphed Exalted Angel, and passed the turn to Dan.
+![](http://www.wizards.com/sideboard/images/natus03/a877.jpg)
+
+What had seemed like almost a lock for Dan has slowly swung back the other way. With eight mana, Kelly cast another Mirari's Wake and then a face-down morph creature. He then unmorphed Exalted Angel, and passed the turn to Dan.
 
 Dan shook his head as he drew his card. He attempted to cast Cabal Therapy, naming Cunning Wish. Kelly revealed his hand to be that Flash of Insight and the named Cunning Wish. Dan cast a Nantuko Husk, and Kelly then played the remaining Flash of Insight and copied it through Mirari. 
 
@@ -157,7 +161,9 @@ Dan sacrificed a Birds of Paradise to Braids and returned a Nantuko Husk to his 
 
 Kelly played a Deep Analysis, and also opted to flash it back, going to 12 life. He discarded a Moment's Peace during his discard phase. On his next turn, Dan attacked with Braids and the Assassin, then played a Nantuko Husk and passed the turn. 
 
-![](http://www.wizards.com/sideboard/images/natus03/a876.jpg)Kelly kept trying to keep up with Dan's assault by playing one of those Moment's Peaces he'd been holding on to the whole game. He then played a Ray of Revelation on Dan's Oversold Cemetery, and followed it with a Wrath of God. With a thoroughly clean board, Kelly played Deep Analysis, then passed the turn back to Dan.
+![](http://www.wizards.com/sideboard/images/natus03/a876.jpg)
+
+Kelly kept trying to keep up with Dan's assault by playing one of those Moment's Peaces he'd been holding on to the whole game. He then played a Ray of Revelation on Dan's Oversold Cemetery, and followed it with a Wrath of God. With a thoroughly clean board, Kelly played Deep Analysis, then passed the turn back to Dan.
 
 Dan played a Nantuko Husk, then stared at the last card in his hand and passed the turn. Kelly played a Compulsion, then passed the turn as time was called. Dan played another Nantuko Husk on his first extra turn, then attacked with the previous Husk and sacrificed the new one for two extra points.
 

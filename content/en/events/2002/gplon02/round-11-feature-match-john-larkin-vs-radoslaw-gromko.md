@@ -80,7 +80,9 @@ Neither player was very talkative before the beginning of the game and after a f
 
 ### Game 1:
 
-![](https://www.wizards.com/sideboard/images/gplon02/926.jpg)John was unhappy with his opening hand and had to mulligan down to six. Radoslaw on the other hand kept a hand with four swamps double fiend and an edict. Radoslaw made the first play with a turn 2 fiend taking away Johns Envelop. John responded with a turn 2 shade that he had drawn off the top.
+![](https://www.wizards.com/sideboard/images/gplon02/926.jpg)
+
+John was unhappy with his opening hand and had to mulligan down to six. Radoslaw on the other hand kept a hand with four swamps double fiend and an edict. Radoslaw made the first play with a turn 2 fiend taking away Johns Envelop. John responded with a turn 2 shade that he had drawn off the top.
 
 On his third turn Radoslaw cast Rancid Earth targeting John’s only swamp, which resolved making John’s Tainted Isle seem quite weak. John’s mana problems were compounded by the fact that his next 3 land drops was also islands. John continued to be unable to make a swamp and looked as if the match was going to end very quickly when Radoslaw made a shade on his seventh turn with 6 swamps on the table. However John was able to Aether Burst both of the fiends at the end of turn and then make a swamp and a Chainer's Edict on his turn snagging the shade. Radoslaw however was able to butcher John’s shade and remake both of his fiends taking away John’s Envelop and Faceless Butcher.
 

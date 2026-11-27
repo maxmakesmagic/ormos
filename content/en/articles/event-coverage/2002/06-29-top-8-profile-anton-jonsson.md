@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/7a/e0/7ae063adebc2bae5f6f8dc6e341cd6d554a79df6b6416249ef1efa4befe2772a.jpg)Team Punisher, consisting of some Finns, some Swedes and a token Canadian, has done really well lately, placing a lot of its team members in the Top 8 of many international tournaments. Anton Jonsson, coming straight from a Top 8 finish in 2002 Pro Tour-Nice, finished second after the Swiss and made sure Team Punisher would be represented in the Top 8 of the 2002 European Championship as well.
+![](https://i.ormos.uk/7a/e0/7ae063adebc2bae5f6f8dc6e341cd6d554a79df6b6416249ef1efa4befe2772a.jpg)
+
+Team Punisher, consisting of some Finns, some Swedes and a token Canadian, has done really well lately, placing a lot of its team members in the Top 8 of many international tournaments. Anton Jonsson, coming straight from a Top 8 finish in 2002 Pro Tour-Nice, finished second after the Swiss and made sure Team Punisher would be represented in the Top 8 of the 2002 European Championship as well.
 
 "It's fun of course," the 24-year-old says. The computer science student from Umeå, Sweden, didn't expect the good finish. He never does. In fact, he doesn't believe in high expectations. "It is pretty bad to expect to make the Top 8. I don't think it helps you play better. So I just take each game at a time," he explains.
 

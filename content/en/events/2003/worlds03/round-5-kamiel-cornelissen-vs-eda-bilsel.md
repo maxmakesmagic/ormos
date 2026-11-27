@@ -193,7 +193,9 @@ render_recovery:
 
 Kamiel Cornelissen had a breakout season on the Pro Tour a few years back, making back-to-back finals. Even though he had difficulty winning that one last match in both events to become a Pro Tour Champion, his performances earned him plenty of respect within the Magic community. Although Cornelissen's finishes have yet to match the two that put him on the map, he's still a strong presence on the Grand Prix and Pro Tour circuits. 
 
-![](http://www.wizards.com/sideboard/images/worlds03/a889.jpg)When the Magic historians at Worlds today were consulted, the common consensus was that Eda Bilsel is very likely the first female Magic National Champion. When she carried the Turkish flag in today's opening, many in the crowd did a double take. Turkey does not have a high profile within the Magic community, so this was the first time that most became aware of Bilsel. Needless to say, she's drawing attention from the spectators and players in attendance, as well as from local media who have come to see what Magic and the World Championships are all about. Cornelissen, like the rest of the Dutch players, is playing Wake while Bilsel has blue/green.
+![](http://www.wizards.com/sideboard/images/worlds03/a889.jpg)
+
+When the Magic historians at Worlds today were consulted, the common consensus was that Eda Bilsel is very likely the first female Magic National Champion. When she carried the Turkish flag in today's opening, many in the crowd did a double take. Turkey does not have a high profile within the Magic community, so this was the first time that most became aware of Bilsel. Needless to say, she's drawing attention from the spectators and players in attendance, as well as from local media who have come to see what Magic and the World Championships are all about. Cornelissen, like the rest of the Dutch players, is playing Wake while Bilsel has blue/green.
 
 ### Game 1
 
@@ -205,7 +207,9 @@ Cornelissen- 1 Bilsel- 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/worlds03/a891.jpg)Bilsel mulliganed her opening hand, but started strong with Rootwalla and Mongrel. Deep Analysis was discarded to pump the Mongrel on an attack, and flashed back. The next attack brought Cornelissen to seven, and Quiet Speculation was countered with Mana Leak. One more attack brought Cornelissen to two, and he cycled a Decree on end step to make three Soldiers. Deep Analysis gave him more to work with, and Bilsel's next two attacks were nullified by Moment's Peace.
+![](http://www.wizards.com/sideboard/images/worlds03/a891.jpg)
+
+Bilsel mulliganed her opening hand, but started strong with Rootwalla and Mongrel. Deep Analysis was discarded to pump the Mongrel on an attack, and flashed back. The next attack brought Cornelissen to seven, and Quiet Speculation was countered with Mana Leak. One more attack brought Cornelissen to two, and he cycled a Decree on end step to make three Soldiers. Deep Analysis gave him more to work with, and Bilsel's next two attacks were nullified by Moment's Peace.
 
 Yet another attack brought out a second Moment's Peace, as Cornelissen continued to get more lands into play. A cycled Decree of Justice put seven Soldier tokens into play, and they attacked to bring Bilsel down to six. Only the Rootwalla swung back, and Bilsel summoned two Aquamoebas. Cornelissen cycled another Decree on end step to bring his Soldier count to fourteen, and that was enough to take the match.
 

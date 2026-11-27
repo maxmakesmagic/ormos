@@ -104,7 +104,9 @@ Mello chump-blocked with Gravedigger, then cast Centaur and attacked for the win
 
 Wiegersma chose to play second, but his draw was not nearly as slow this time. Although Mello was the one to play the first spell, summoning a Dilligent Farmhand, Wiegersma matched with Werebear. Mello Afflicted, and Wiegersma summoned a Krosan Avenger. Mello's draw seemed tailor-made for this as he cast Cabal Torturer. Wiegermsa failed to play the fourth land in order to cast the Patriarch's Desire he was holding, and that was the end of Krosan Avenger. 
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a919.jpg)On the following turn, Mello summoned Centaur Chieftain, increasing the pressure against the Dutch player. Having finally drawn his fourth land, Wiegersma cast a Dirty Wererat, but he was still lacking a way to stop his opponent's threats. When the Rat blocked a Dilligent Farmhand, Mello used his second Afflict and the Torturer to finish it off. Wiegersma used Patriarch's Desire to kill the Torturer and went down to seven life points.
+![](http://www.wizards.com/sideboard/images/gpnap02/a919.jpg)
+
+On the following turn, Mello summoned Centaur Chieftain, increasing the pressure against the Dutch player. Having finally drawn his fourth land, Wiegersma cast a Dirty Wererat, but he was still lacking a way to stop his opponent's threats. When the Rat blocked a Dilligent Farmhand, Mello used his second Afflict and the Torturer to finish it off. Wiegersma used Patriarch's Desire to kill the Torturer and went down to seven life points.
 
 Mello attempted to get back Cabal Torturer with Gravedigger, but Wiegersma had the Coffin Purge he boarded in at the ready. He also managed to draw a sixth land and cast Morbid Hunger to take out the Chieftain, going back up to ten life points. It helped Wiegersma that his opponent was playing around Mutilate, not summoning all the creatures in his hand. On his turn Mello cast an Anurid Scavenger, but did not also play a Crypt Creeper. In answer, Wiegersma cast a Farnished Ghoul. 
 

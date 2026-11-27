@@ -47,7 +47,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/3f/1b/3f1bf0f4058948c2db3e6beac0f833b88b19d139ec7f2fce417fd015648fbbc5.png)These two 60-card decks showcase some of the best spells that green and black have in their arsenal as well as eight rare cards and six cards with new artwork, including foil art versions of two Planeswalker cards. Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
+![](https://i.ormos.uk/3f/1b/3f1bf0f4058948c2db3e6beac0f833b88b19d139ec7f2fce417fd015648fbbc5.png)
+
+These two 60-card decks showcase some of the best spells that green and black have in their arsenal as well as eight rare cards and six cards with new artwork, including foil art versions of two Planeswalker cards. Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
 
 **Set Name:** *Duel Decks: Garruk vs. Liliana*  
 **Number of Cards:** 120

@@ -100,7 +100,9 @@ render_recovery:
 ---
 * * *
 
-![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)Bonjour  **et bienvenue à Magic Academy !** Comme il s'agit de la 49ème et dernière semaine de Magic Academy, il est temps pour nous de revoir tout ce que nous avons appris cette dernière année.
+![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)
+
+Bonjour  **et bienvenue à Magic Academy !** Comme il s'agit de la 49ème et dernière semaine de Magic Academy, il est temps pour nous de revoir tout ce que nous avons appris cette dernière année.
 
 Quand Scott Johns m'a contacté pour me proposer cette rubrique, il me l'a présentée comme étant une des plus importantes de toute l'histoire du jeu. Les rubriques générales et éducatives Magic précédentes étaient obsolètes ou incomplètes (saluons cependant les vaillants efforts de Joe Crosby et Andrew Johnson), alors que **Magic** Academy se devait d'être à la fois complet et moderne. La rubrique devrait aussi être fondamentalement pratique, avec pour objectif de donner des leçons à la fois claires et importantes, et de constituer une base de référence organisée pour les débutants. Plus précisément, Scott voulait ouvrir une passerelle d'information pour les nouveaux joueurs qui avaient déjà fait quelques parties, mais qui avaient besoin trouver un endroit sympa sur Internet pour apprendre à faire évoluer leur stratégie et arriver au niveau des joueurs aguerris. 
 

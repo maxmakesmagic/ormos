@@ -44,7 +44,9 @@ archive_source:
   sha256: 0584922e2f13e1b7122d7b165c102bf7ec20a703f29bb21633d0859c9d9a3ec7
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/aunat04/fm5_1.jpg)Greg Romans sure did cut it fine last night making it into the nationals in the very last grinder of the evening. Tristan Gall has been a solid player for many a year now posting consistent results in almost every tournament he goes to. Romans admits that he's pretty happy with the draft and Gall was surprised that no one at all was really drafting green yet the one green deck he did see was really bad. "I'm playing green too," laughed Romans, "As you'll soon see".
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/aunat04/fm5_1.jpg)
+
+Greg Romans sure did cut it fine last night making it into the nationals in the very last grinder of the evening. Tristan Gall has been a solid player for many a year now posting consistent results in almost every tournament he goes to. Romans admits that he's pretty happy with the draft and Gall was surprised that no one at all was really drafting green yet the one green deck he did see was really bad. "I'm playing green too," laughed Romans, "As you'll soon see".
 
 ### Game 1
 

@@ -48,7 +48,9 @@ Grand Prix - Singapore is Chang Chua's debut. Although well known locally for hi
 
 In his ways is Akuma Leong, fresh from his performance at World Championships and every bit as threatening as his slight frame allows. He plays with a quick confidence, and is hungry for a win today.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/912.jpg)Chua kept a hand with island and Crosis's Catacombs going second, but was punished for his decision not to paris. He made a Ravenous Rat on the second turn, but was soon on the wrong side of a pair of Galina's Knights. He Probed desperately, and found an Urborg Volcano
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/912.jpg)
+
+Chua kept a hand with island and Crosis's Catacombs going second, but was punished for his decision not to paris. He made a Ravenous Rat on the second turn, but was soon on the wrong side of a pair of Galina's Knights. He Probed desperately, and found an Urborg Volcano
 
 Meanwhile, Leong added a Lashknife Barrier to his side of the table, complicating matters. Chua slowed the beats with a Nightscape Familiar and Ice. The Familiar was Repulsed, and Leong was firmly in control of the game, with Absorb mana up. He allowed Chua to buy time with Repulse, making a pro-red Voice of All to take his fight to the streets.
 
@@ -58,7 +60,9 @@ Chua kept his hand again in game two, but this time there was no question. Three
 
 A Void for four took care of the probelem but Chua balked when he saw that three would have been a better choice. Leong's hand held two Absorbs, a Repulse and an Exclude. Leong was stuck at just one blue source, however, and so Chua was free to go to town. His Fact or Fiction met Gainsay, but he took care of the Knight with Malice.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/911.jpg)Two turns later he tried another Fact or Fiction, this time protecting it from Leong's Absorb with Undermine. He got Salt Marsh, Swamp and Fact or Fiction over Exclude and Fire/Ice. He untapped and played his newly found Fact or Fiction, and this one was gangbusters. Crosis, the Purger, Void, Gainsay, Probe and island.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/911.jpg)
+
+Two turns later he tried another Fact or Fiction, this time protecting it from Leong's Absorb with Undermine. He got Salt Marsh, Swamp and Fact or Fiction over Exclude and Fire/Ice. He untapped and played his newly found Fact or Fiction, and this one was gangbusters. Crosis, the Purger, Void, Gainsay, Probe and island.
 
 Leong took his sweet time separating, trying to find a split that didn't just ruin him. He eventually gave away Crosis, Probe and island, which Chua was all too happy to have. The Purger came down right away. Leong Repulsed it. Chua brought him back down, and had Gainsay for Leong's Exclude. He then tapped out to Probe with kicker, taking away an Absorb and Spectral Lynx, but bringing him only more land.
 

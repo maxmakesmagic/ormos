@@ -57,7 +57,9 @@ Masahiko Morita is here to crush some dreams. The consummate silver medallist ha
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a909.jpg)Both players matched facedown Angels, but Ishihara only swung for two, preferring to wait on his mana. Morita yielded to Wing Shards and stayed home. Soon they were both unmorphed and staring at each other. They both started to work their Eternal Dragons. Morita swung in with his Angel and drew out the Wing Shards. He tapped seven to replace it with Eternal Dragon.
+![](http://www.wizards.com/sideboard/images/gpyok03/a909.jpg)
+
+Both players matched facedown Angels, but Ishihara only swung for two, preferring to wait on his mana. Morita yielded to Wing Shards and stayed home. Soon they were both unmorphed and staring at each other. They both started to work their Eternal Dragons. Morita swung in with his Angel and drew out the Wing Shards. He tapped seven to replace it with Eternal Dragon.
 
 Ishihara played a second Angel. Traded his Dragon for one of them in combat and then dropped Akroma. Ishihara had the Vengeance to set things back. Morita regrew and cycled his Dragon, then played out a Lightning Rift. Ishihara made an Akroma and swung. Morita took it and then Vengeanced.
 

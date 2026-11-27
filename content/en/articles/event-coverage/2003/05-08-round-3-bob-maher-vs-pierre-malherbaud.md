@@ -44,7 +44,9 @@ archive_source:
   sha256: 27ea13dd610a8e61d7b97cdb76f9f6191b39aae095c48a74a9a87f4be6b131ff
 render_recovery: []
 ---
-![](https://i.ormos.uk/3a/05/3a058d1ee6e17db25e1a5097f51c27637468cb8e71b80bd194b915a1e6ffa85b.jpg)Pro Tour Champion and Player of the Year Bob Maher's had plenty of success in his career, and he shows no sign of stopping. In his way is Pierre "Caribou" Malherbaud, one of France's best. Malherbaud bested William Jensen in the first round, who was playing [Tinker](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) just like Maher. He's confident in his Sligh deck. 
+![](https://i.ormos.uk/3a/05/3a058d1ee6e17db25e1a5097f51c27637468cb8e71b80bd194b915a1e6ffa85b.jpg)
+
+Pro Tour Champion and Player of the Year Bob Maher's had plenty of success in his career, and he shows no sign of stopping. In his way is Pierre "Caribou" Malherbaud, one of France's best. Malherbaud bested William Jensen in the first round, who was playing [Tinker](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) just like Maher. He's confident in his Sligh deck. 
 
 ### Game 1
 
@@ -56,7 +58,9 @@ Malherbaud bashed in and dropped Fanatic and Port. Maher untapped, drew, and cal
 
 Malherbaud gave him a golf clap for his accomplishment. With a million mana on board, Maher was able to ride [Masticore](https://web.archive.org/web/20030508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Masticore) to victory.
 
-![](https://i.ormos.uk/d8/9e/d89e19573e48c5aac3ca57834ca7db502ab98c890c6be258a35e96c47c654316.jpg)"You're much better than Jensen, he never drew that one." – Pierre Malherbaud
+![](https://i.ormos.uk/d8/9e/d89e19573e48c5aac3ca57834ca7db502ab98c890c6be258a35e96c47c654316.jpg)
+
+"You're much better than Jensen, he never drew that one." – Pierre Malherbaud
 
 Maher 1 – Malherbaud 0
 

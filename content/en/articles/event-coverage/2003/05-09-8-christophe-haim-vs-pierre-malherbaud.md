@@ -48,7 +48,9 @@ render_recovery: []
 
 **Game 1**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a860.jpg)　Haim が《ゴブリンのそり乗り/[Goblin Sledder](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder)》、変異と召還し、Pierreも変異から《金切り声のノスリ/[Screeching Buzzard](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Screeching+Buzzard)》へと。Pierre はマリガンを感じさせない立ち上がり。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a860.jpg)
+
+　Haim が《ゴブリンのそり乗り/[Goblin Sledder](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder)》、変異と召還し、Pierreも変異から《金切り声のノスリ/[Screeching Buzzard](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Screeching+Buzzard)》へと。Pierre はマリガンを感じさせない立ち上がり。
 
 　ここで Haim の変異が攻撃。使用可能なマナは赤赤緑緑、それに加えて《ゴブリンのそり乗り/[Goblin Sledder](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder)》だ。これを通しているようでは先が無いと感じたのか、Pierre はこれを二体でブロックする。これが仮に《乱打する岩角獣/[Battering Craghorn](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battering+Craghorn)》だったりするとナチュラルに劣勢な気もする。しかし、事態は想像を超えた。赤赤で表返ったそれは、なんと《焦熱の火猫/[Blistering Firecat](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blistering+Firecat)》！　ダメージのおまけつきだ。  
  　しかも、墓地に落ちた《金切り声のノスリ/[Screeching Buzzard](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Screeching+Buzzard)》の効果で捨てた手札が《プラズマの連鎖/[Chain of Plasma](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chain+of+Plasma)》。どんな手札やねん。

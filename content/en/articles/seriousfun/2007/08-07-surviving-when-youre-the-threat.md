@@ -93,7 +93,9 @@ Every group has *a* Threat, although not every group has *The* Threat. Every gro
 
 Now, if you're the Guy To Beat and people can't beat you, then it's not a problem. You've learned how to build decks that can handle multiple opponents, and that's awesome. (Well, your friends might get frustrated and leave, but that's a whole other article.) 
 
-[![Fervent_Charge](https://i.ormos.uk/6e/85/6e85f153fba934f21a77e12a54c9d99a01bc9cb93858dac20be61b9db1f7141e.jpg)](https://web.archive.org/web/20070807000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Fervent%2BCharge)But what frequently happens is that as the Guy To Beat, you hit the tipping point and slide straight into the Guy Who *Must* Be Beaten territory. Everyone knows that unless you're stopped, you'll win—so by default, everyone attacks you first just to get you out of the way. 
+[![Fervent_Charge](https://i.ormos.uk/6e/85/6e85f153fba934f21a77e12a54c9d99a01bc9cb93858dac20be61b9db1f7141e.jpg)](https://web.archive.org/web/20070807000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Fervent%2BCharge)
+
+But what frequently happens is that as the Guy To Beat, you hit the tipping point and slide straight into the Guy Who *Must* Be Beaten territory. Everyone knows that unless you're stopped, you'll win—so by default, everyone attacks you first just to get you out of the way. 
 
 You have become The Threat. 
 
@@ -216,7 +218,9 @@ If they don't ask, don't tell. Just start aiming your spells at Ben, trying to s
 
 "No. What does that mean?"
 
-![](https://i.ormos.uk/9a/9f/9a9fdde11e2b024f93907d4e9b64089a2dda9fbcc5377623718e1b7ac03e2b56.jpg)At which point you explain that Ben, since he's playing [Island](https://web.archive.org/web/20070807000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s, is obviously playing Pickles, with a [Brine Elemental](https://web.archive.org/web/20070807000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brine+Elemental) / [Vesuvan Shapeshifter](https://web.archive.org/web/20070807000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter) combo, and will soon launch into an infinite-lockdown loop that will swallow you whole. Your deck doesn't have much hope against a deck like that... and if it's not stopped, everyone will die. 
+![](https://i.ormos.uk/9a/9f/9a9fdde11e2b024f93907d4e9b64089a2dda9fbcc5377623718e1b7ac03e2b56.jpg)
+
+At which point you explain that Ben, since he's playing [Island](https://web.archive.org/web/20070807000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s, is obviously playing Pickles, with a [Brine Elemental](https://web.archive.org/web/20070807000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brine+Elemental) / [Vesuvan Shapeshifter](https://web.archive.org/web/20070807000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter) combo, and will soon launch into an infinite-lockdown loop that will swallow you whole. Your deck doesn't have much hope against a deck like that... and if it's not stopped, everyone will die. 
 
 Do not lie. If Ben's not playing that, don't try to fool them. But the strange thing is that if *you* fear a threat, and ignore them in order to try to head Ben off, sometimes they'll take your lead. They'll go, "Well, jeez, if The Threat's worried about that, then maybe *I* should be." 
 

@@ -72,13 +72,17 @@ render_recovery: []
 
 *Profiles by Brian David-Marshall*
 
-[![](https://i.ormos.uk/da/32/da326216e7fa098a91f8f4e1f34666e7365fb854d7e2199ff9fda1bfe8ce5bf6.jpg)](https://web.archive.org/web/20070705000000/http://boards1.wizards.com/showthread.php?t=880354)Welcome to the voting for the 11th annual **Magic** Invitational!
+[![](https://i.ormos.uk/da/32/da326216e7fa098a91f8f4e1f34666e7365fb854d7e2199ff9fda1bfe8ce5bf6.jpg)](https://web.archive.org/web/20070705000000/http://boards1.wizards.com/showthread.php?t=880354)
+
+Welcome to the voting for the 11th annual **Magic** Invitational!
 
 Forty cards is the order of day as the hunt for the game’s masters switches from Constructed to Limited. The ballot is rather surprising, with plenty of names appearing on an Invitational ballot for the first time and multiple Limited Powerhouses from ballots past getting bumped by the surging youngbloods. 
 
 ### Winner: Kenji Tsumura (43.6% of votes)
 
-![](https://i.ormos.uk/75/3c/753c5b044becb099bff6bb6b38748d774364c9b72eb41a3e60445ddd9ed1b8c1.jpg)Oh what a difference a year makes! After his 2005 turn as Player of the Year, Kenji Tsumura vowed to improve his Limited game by studying at the feet of Limited powerhouse Richie Hoaen. He studied hard and grew strong…strong to the tune of two Grand Prix victories, another GP Top 8 and back-to-back Top 8 appearances in individual Limited Pro Tours in Kobe and Geneva. At the two Two-Headed Giant Grand Prix this season, Richie and Kenji teamed up and it was the Japanese player calling the shots. This past weekend Kenji rode herd over his friend Yuuta Hirosawa to a fifth-place finish in San Diego…will it be enough for him to emerge as the Limited Master? 
+![](https://i.ormos.uk/75/3c/753c5b044becb099bff6bb6b38748d774364c9b72eb41a3e60445ddd9ed1b8c1.jpg)
+
+Oh what a difference a year makes! After his 2005 turn as Player of the Year, Kenji Tsumura vowed to improve his Limited game by studying at the feet of Limited powerhouse Richie Hoaen. He studied hard and grew strong…strong to the tune of two Grand Prix victories, another GP Top 8 and back-to-back Top 8 appearances in individual Limited Pro Tours in Kobe and Geneva. At the two Two-Headed Giant Grand Prix this season, Richie and Kenji teamed up and it was the Japanese player calling the shots. This past weekend Kenji rode herd over his friend Yuuta Hirosawa to a fifth-place finish in San Diego…will it be enough for him to emerge as the Limited Master? 
 
 ### Willy Edel (42.2%)
 

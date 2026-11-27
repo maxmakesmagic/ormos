@@ -785,7 +785,9 @@ render_recovery:
 
 ### First, Your Attention Please!
 
-![](https://i.ormos.uk/ba/be/babe6c814316baa00245f6d9eab191666f6ea450eb29501ecac280860d7a9833.jpg)As if the Inshiftalypse (AKA, IPA/*Invasion-Planeshift-Apocalypse*) events weren't already cool enough, Scott Larabee recently announced “upgrades” to make it even easier to get your hands on the coveted online Old School packs. In case you hadn't seen the announcement, I wanted to make sure you all were aware of the changes for [IPA III](/en/articles/feature/2005/07-05-invasiontm-block-ipa-sealed-deck-tournament-iii):
+![](https://i.ormos.uk/ba/be/babe6c814316baa00245f6d9eab191666f6ea450eb29501ecac280860d7a9833.jpg)
+
+As if the Inshiftalypse (AKA, IPA/*Invasion-Planeshift-Apocalypse*) events weren't already cool enough, Scott Larabee recently announced “upgrades” to make it even easier to get your hands on the coveted online Old School packs. In case you hadn't seen the announcement, I wanted to make sure you all were aware of the changes for [IPA III](/en/articles/feature/2005/07-05-invasiontm-block-ipa-sealed-deck-tournament-iii):
 
 *   Top 8 from each qualifier will now get invited to final tournament instead of Top 4.
 *   Final event will be 256 players instead of 128

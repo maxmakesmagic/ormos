@@ -55,6 +55,8 @@ render_recovery: []
 ---
 Always a popular player as soon as Swannack entered the tournament site on Friday afternoon he was swamped by people shaking his hand and checking to see how his flight was. Swannack is the reigning New Zealand Magic card champion and impressed the whole of the world with his finish at the recent World Championships in Sydney, Australia. There's not much to say about Swannack that hasn't already been said before. 
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a976.jpg)Swannack's main form of testing was Magic Online, which is becoming increasingly popular with the "Pros". Without leaving your home its possible to get a draft at any hour on just about any day of the year within about 5 minutes. Hailing from team 604, which is currently ranked 2nd on the server, Swannack gets a chance to discuss draft strategy and refine his pick list with some exceptional magic players giving him a distinct advantage.
+![](http://www.wizards.com/sideboard/images/gpmel02/a976.jpg)
+
+Swannack's main form of testing was Magic Online, which is becoming increasingly popular with the "Pros". Without leaving your home its possible to get a draft at any hour on just about any day of the year within about 5 minutes. Hailing from team 604, which is currently ranked 2nd on the server, Swannack gets a chance to discuss draft strategy and refine his pick list with some exceptional magic players giving him a distinct advantage.
 
 Swannack said that he normally played about 3 hours a day on modo, mostly in drafts, and crammed in a few extra hours whenever his busy schedule would let him. He has also had the chance to play in a few sealed tournaments online as well giving him a thorough understanding of both portions of todays GP. With a slight preference for U/R in the draft portion, it's possible that he could obtain an extremely powerful deck with many Australians reluctant to take the somewhat weaker blue cards.

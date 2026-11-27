@@ -381,7 +381,9 @@ There is something immensely satisfying in watching your theories grow and becom
 
 ### Your First Sealed Deck
 
-![](https://i.ormos.uk/f0/b7/f0b7f2ba0e883d212aa2f8a77d4d2a8b680b652d75b7c2f0cdda12b33ffde5a1.jpg)Sealed deck is a prehistoric format. It is the format that most closely emulates what playing **Magic** was like around the time of its inception. Nowadays the constructed formats have been divided into Standard, Classic, and everything in-between, are highly evolved, and often viciously quick. Because of the Internet, everyone knows which cards are available, and uses them to their fullest. I'm not knocking this—it's great—but what I like about Sealed Deck is that it's pretty much the same experience it was when I began playing. 
+![](https://i.ormos.uk/f0/b7/f0b7f2ba0e883d212aa2f8a77d4d2a8b680b652d75b7c2f0cdda12b33ffde5a1.jpg)
+
+Sealed deck is a prehistoric format. It is the format that most closely emulates what playing **Magic** was like around the time of its inception. Nowadays the constructed formats have been divided into Standard, Classic, and everything in-between, are highly evolved, and often viciously quick. Because of the Internet, everyone knows which cards are available, and uses them to their fullest. I'm not knocking this—it's great—but what I like about Sealed Deck is that it's pretty much the same experience it was when I began playing. 
 
 Sealed Deck is a sort of microcosm of the original **Magic** experience. The playing field is level but diverse. Everyone is given a certain amount of sealed product, usually one Tournament Pack and two Booster Packs. From that pool of cards, and adding in as many basic land as desired, each player must build a deck of at least 40 cards. Any opened cards not put in the main deck count as part of the sideboard. (We'll get to sideboards and sideboarding later.)
 
@@ -541,7 +543,9 @@ Once you have an idea of something that might work, assuming you have some time 
 
 **8\. Mana Curve** 
 
-![](https://i.ormos.uk/8f/8d/8f8db1c4b6502af34639e1a614201d68131fc93d027f65ada56a5cdbb68ea292.jpg)We place a high emphasis on managing cards' mana costs, and being able to play our spells regularly and efficiently. The best way to appreciate these things when looking over a potential deck is by laying it out according to the turns on which we would cast spells.
+![](https://i.ormos.uk/8f/8d/8f8db1c4b6502af34639e1a614201d68131fc93d027f65ada56a5cdbb68ea292.jpg)
+
+We place a high emphasis on managing cards' mana costs, and being able to play our spells regularly and efficiently. The best way to appreciate these things when looking over a potential deck is by laying it out according to the turns on which we would cast spells.
 
 Here, we can clearly see which areas are overstocked and understocked, motivating deck building decisions. Even if, in a vacuum, a certain 4-drop is better than a certain 3-drop, if you have 7 4-drops and only 2 3-drops, you'll want to play the 3-drop instead.
 

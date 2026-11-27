@@ -74,11 +74,15 @@ Everything’s different now. Now, when you sit down across from a Latin America
 
 Bandana, in case you don’t know, is the amalgamation of the Chilean, Brazilian, Argentinean, Uruguayan and Venezuelan National teams. Individually, players like Romao, Ostrovich and Raphael Le Saux haven’t been up to the task of taking on the Budde’s, Thoren’s and even Wise’s of the world. Finally, though they came to their senses and put it all together for Worlds, using numbers, will, an intensive two-month testing period and that natural talent that is latent everywhere.
 
-![](http://www.wizards.com/sideboard/images/worlds02/574.jpg)So what does this mean? Well, coupled with Sim Han How’s unbelievable Swiss, nationality can never be a determining factor for the player looking to discern an easy match. How’s tournament was unbelievable, with his first thirteen rounds producing an 11-2 record, with both losses coming to Raphael Levy, who he also defeated twice in that time. Going into Day 3, it was Raphael whose name stood out as the experienced Pro at the top of the standings, but while he faded, the usurpers stayed true and strong all the way to the Top 8. Got to give respect where it’s due folks: There is no **Magic** third world any more.
+![](http://www.wizards.com/sideboard/images/worlds02/574.jpg)
+
+So what does this mean? Well, coupled with Sim Han How’s unbelievable Swiss, nationality can never be a determining factor for the player looking to discern an easy match. How’s tournament was unbelievable, with his first thirteen rounds producing an 11-2 record, with both losses coming to Raphael Levy, who he also defeated twice in that time. Going into Day 3, it was Raphael whose name stood out as the experienced Pro at the top of the standings, but while he faded, the usurpers stayed true and strong all the way to the Top 8. Got to give respect where it’s due folks: There is no **Magic** third world any more.
 
 With all of these unknowns having power tourneys, the power players were having a power outage. Midway through round 18, it looked as if the United States, whose players it seems the world has finally caught up to after the many-year head start granted by WotC’s American roots, wouldn’t have a player in the Top 8. Fortunately for them, two of Europe’s powerhouses, Tom Van de Logt and Anton Jonsson, each made mistakes in their final round matches against Dave Humphreys and Ken Krouner respectively, granting the two Americans Sunday berths. Many were predicting that Humphreys’s match with John Larkin, which pitted the only two players in the Top 8 with previous Sunday appearances, would produce the eventual champ, but Kartin’ Ken was felled by Ostrovich in the quarters and the Hump lost to Mark Zeigner (who I must admit I thought was Germany’s weak link coming into the tournament. Good call JGW) in the semis, ending American hopes and signaling a changing of the guard.
 
-![](http://www.wizards.com/worlds/images/flag_mex.jpg)With this newfound South American unity, I’m forced to wonder what’s going to happen to Mexico. For years, they’ve been the kings of Latin American **Magic**, with Gerardo Godinez, Damien Brown-Santirso and the like proving to be the biggest names in the area, but they hid from those South of them, seeking to maintain their advantage. Now, the tables have turned, with the South Americans having obviously surged past Mexico with their Worlds success. It’ll be interesting to see if the Mexicans are allowed to work with Bandana, even want to work with Bandana or get left behind as the gravy train pulls away. 
+![](http://www.wizards.com/worlds/images/flag_mex.jpg)
+
+With this newfound South American unity, I’m forced to wonder what’s going to happen to Mexico. For years, they’ve been the kings of Latin American **Magic**, with Gerardo Godinez, Damien Brown-Santirso and the like proving to be the biggest names in the area, but they hid from those South of them, seeking to maintain their advantage. Now, the tables have turned, with the South Americans having obviously surged past Mexico with their Worlds success. It’ll be interesting to see if the Mexicans are allowed to work with Bandana, even want to work with Bandana or get left behind as the gravy train pulls away. 
 
 Meanwhile, in the team portion, the U.S.A. put a lot of fear into a lot of hearts with what would have been the greatest comeback of all time if they’d managed to pull the victory out in their final versus Germany. Do you realize how improbable their appearance in that final was? After 18 rounds, they were in fourteenth place, behind Malaysia, New Zealand and Scotland. Merely going 4-0 wasn’t going to be good enough, with the stars needing to align themselves in a very particular way for another Team Rochester. They got two.
 
@@ -100,13 +104,17 @@ I’m wrecked and it’s only 6:50 PM, so I’m going to sign off soon, but befo
 
 **Mark Zeigner** – What a weekend: Team victory, singles finals. Not bad for a guy who closed his eyes and ran monored at German Nationals.
 
-![](http://www.wizards.com/sideboard/images/worlds02/728.jpg)**Cole Swanack** – The little man beat Anton Jonsson, Jens Thoren, Dan Clegg, Albertus Law and yours truly in a great first Pro Tour that left him in 17th place when the dust settled. Cole proved some things to some doubters (me included) and it’s generally agreed he’s going to be a force in years to come. 
+![](http://www.wizards.com/sideboard/images/worlds02/728.jpg)
+
+**Cole Swanack** – The little man beat Anton Jonsson, Jens Thoren, Dan Clegg, Albertus Law and yours truly in a great first Pro Tour that left him in 17th place when the dust settled. Cole proved some things to some doubters (me included) and it’s generally agreed he’s going to be a force in years to come. 
 
 **Dr. The Hump** – Dave Humphreys is in the middle of a three-month trip around the world, having recently earned a new mailing title along with a PhD from MIT. Still, he found time to drop by Australia and come really close to winning his first Pro Tour, appearing in his second semifinal of the season. Humphreys will be settling down in San Diego soon: what happens to YMG then is anyone’s guess.
 
 **Sim Han How** – Malaysia’s first Top 8 finisher, How was masterful all week with the exception of his quarterfinal loss to Zeigner. Seems like a really nice kid too.
 
-![](http://www.wizards.com/sideboard/images/worlds02/588.jpg)**Good Man of the Week** – Ken Krouner started 0-3 and looked to be out of the tournament before it even started, but he made a monster comeback, reeling off twelve wins in a row from the doldrums en route to the quarterfinals.
+![](http://www.wizards.com/sideboard/images/worlds02/588.jpg)
+
+**Good Man of the Week** – Ken Krouner started 0-3 and looked to be out of the tournament before it even started, but he made a monster comeback, reeling off twelve wins in a row from the doldrums en route to the quarterfinals.
 
 **Jeroen Remie** – One of Holland’s lesser-known players, this long time pro finally broke out, with his taking of the Block Constructed trophy boosting him to 10th place.
 
@@ -116,7 +124,9 @@ I’m wrecked and it’s only 6:50 PM, so I’m going to sign off soon, but befo
 
 ### Losers
 
-![](http://www.wizards.com/sideboard/images/worlds02/729.jpg)**France** – Amiel Tenenbaum and Raphael Levy faced off for what they thought was a Top 8 slot in the final round of the tourney, with Amiel knocking off the two-time Top 8 finisher only to come ninth. Had he made 8th, he likely would have taken the Rookie of the Year title, but his 6-0 day three wasn’t enough, leaving him, and France, out of Day 5.
+![](http://www.wizards.com/sideboard/images/worlds02/729.jpg)
+
+**France** – Amiel Tenenbaum and Raphael Levy faced off for what they thought was a Top 8 slot in the final round of the tourney, with Amiel knocking off the two-time Top 8 finisher only to come ninth. Had he made 8th, he likely would have taken the Rookie of the Year title, but his 6-0 day three wasn’t enough, leaving him, and France, out of Day 5.
 
 **The Netherlands** – These guys looked so powerful coming in, but were really never in it at or near the end. Tom Van de Logt did almost make it three Worlds Top 8s in a row though.
 

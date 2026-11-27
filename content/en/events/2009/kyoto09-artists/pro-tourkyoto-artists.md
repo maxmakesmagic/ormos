@@ -47,7 +47,9 @@ render_recovery: []
 ---
 ### Todd Lockwood
 
-![](http://www.wizards.com/sideboard/images/gpmats05/b_lockwood.jpg)When Todd Lockwood attended his first Sci Fi and Fantasy convention, a door was opened that led to a staff position at TSR. With an impressive body of fantasy images, Todd helped to redefine the look of the popular Dungeons and Dragons game for the Third Edition release. 
+![](http://www.wizards.com/sideboard/images/gpmats05/b_lockwood.jpg)
+
+When Todd Lockwood attended his first Sci Fi and Fantasy convention, a door was opened that led to a staff position at TSR. With an impressive body of fantasy images, Todd helped to redefine the look of the popular Dungeons and Dragons game for the Third Edition release. 
 
 His work has been honored with appearances in Spectrum and the Communication Arts Illustration Annual, twelve Chesleys, two World Fantasy Art Show awards, a Silver Medal in the Spectrum Annual, and numerous industry awards. Now he finds himself in Washington State freelancing again, doing the kind of work he enjoys, with fans all over the planet. You can see more of his work at [www.toddlockwood.com](https://web.archive.org/web/20090602113708/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.toddlockwood.com&origin=).
 
@@ -55,7 +57,9 @@ His work has been honored with appearances in Spectrum and the Communication Art
 
 ### Jeremy Jarvis
 
-![](https://i.ormos.uk/6f/73/6f73707c0d24238f7048ea54ee37d137450a8477edc9c854009459aa85cea6df.jpg)Jeremy Jarvis grew up in Alabama and moved to New York City right after high school. There he attended Pratt Institute as a Fine Arts major, intending to work in comics upon graduation. He survived Pratt, graduating Summa Cum Laude, but the desire to pencil comics had been slapped from Jeremy’s hand by his dark, demanding mistress... watercolor.
+![](https://i.ormos.uk/6f/73/6f73707c0d24238f7048ea54ee37d137450a8477edc9c854009459aa85cea6df.jpg)
+
+Jeremy Jarvis grew up in Alabama and moved to New York City right after high school. There he attended Pratt Institute as a Fine Arts major, intending to work in comics upon graduation. He survived Pratt, graduating Summa Cum Laude, but the desire to pencil comics had been slapped from Jeremy’s hand by his dark, demanding mistress... watercolor.
 
 Off-center, often tongue-in-cheek concepting, an eye for detail, and the tragic ability to render that detail in unforgiving watercolor have landed Jeremy squarely in the Fantasy/Gaming Industry’s good graces. His work has been included in The Spectrum Awards and The Society of Illustrators’ prestigious Annual Exhibition.
 

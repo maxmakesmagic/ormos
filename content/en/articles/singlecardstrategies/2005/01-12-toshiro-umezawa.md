@@ -614,7 +614,9 @@ Certainly, creatures can die as a result of normal wear and tear (like combat), 
 
 ### Finding the right moment
 
-![](https://i.ormos.uk/75/2c/752ca4b575522f166ebd64fb4d0b5f737eea427cc3d2dcc096a5f4623a6f5645.jpg)There are a *ton* of [instants](https://web.archive.org/web/20050112000000/http://gatherer.wizards.com/default.asp?term=instant&fields=%7Ctype&format=Allsets&color=All&output=summary&sort=name&first=1). In fact, 897 instants have been printed so far. Thankfully, you don't have to go looking at every instant in existence to figure out which ones you'll want to play. There are a couple of simple ways to figure this out.
+![](https://i.ormos.uk/75/2c/752ca4b575522f166ebd64fb4d0b5f737eea427cc3d2dcc096a5f4623a6f5645.jpg)
+
+There are a *ton* of [instants](https://web.archive.org/web/20050112000000/http://gatherer.wizards.com/default.asp?term=instant&fields=%7Ctype&format=Allsets&color=All&output=summary&sort=name&first=1). In fact, 897 instants have been printed so far. Thankfully, you don't have to go looking at every instant in existence to figure out which ones you'll want to play. There are a couple of simple ways to figure this out.
 
 *Be cheap* – Creatures can die at any odd time. It's a fact of life, and that sucks, but you have to be ready when the moment comes. If you have a lot of cheap instants, you can be ready. One thing to realize is that if an opposing creature dies, your instant has to *already be in the yard* to be a legal target for Toshiro Umezawa's ability. Choosing targets happens immediately when abilities trigger.
 

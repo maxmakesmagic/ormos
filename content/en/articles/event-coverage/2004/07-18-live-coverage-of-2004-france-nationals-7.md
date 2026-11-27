@@ -44,7 +44,9 @@ archive_source:
   sha256: 665d8801c9e12efeede5d569ffd29c80275478ebfd84ce591d826c73affc5b0a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/frnat04/qf3_1.jpg)Sylvain has an interesting deck, which was also played by a few others. Bastien Perez lost in a feature match to Thomas Shaw with this crazy red-green deck featuring a generous selcection of morphs. Olivier is playing a much more standard Goblin-Bidding deck. Despite the hype given to [Tooth and Nail](https://web.archive.org/web/20040718000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail), all eight of the deck is the top eight contain at least some red cards. [Tooth and Nail](https://web.archive.org/web/20040718000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail)s demise can perhaps be attributed to the number of Blastminers in sideboard's (and Nassif's main-deck)
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/frnat04/qf3_1.jpg)
+
+Sylvain has an interesting deck, which was also played by a few others. Bastien Perez lost in a feature match to Thomas Shaw with this crazy red-green deck featuring a generous selcection of morphs. Olivier is playing a much more standard Goblin-Bidding deck. Despite the hype given to [Tooth and Nail](https://web.archive.org/web/20040718000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail), all eight of the deck is the top eight contain at least some red cards. [Tooth and Nail](https://web.archive.org/web/20040718000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail)s demise can perhaps be attributed to the number of Blastminers in sideboard's (and Nassif's main-deck)
 
 ### Game 1
 

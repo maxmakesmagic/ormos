@@ -92,7 +92,9 @@ Fiori 1-0 Budde
 
 Fiori tried to get a quick start in Game 2 but his turn two Myr was Annulled and he skipped a land drop and had to go with the slower Talisman option. Meanwhile Budde looked ominous as Loxodon Punisher picked up some Vulshok Gauntlets.
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a873.jpg)It was a bit slow to switch the Gauntlets around though and Fiori could come back into the game with a Spikeshot Goblin and then a Pyrite Spellbomb on the Punisher in response to Budde giving them the Gauntlets. Fiori also made a Nuisance Engine and started spitting out some pests.
+![](http://www.wizards.com/sideboard/images/gplyo03/a873.jpg)
+
+It was a bit slow to switch the Gauntlets around though and Fiori could come back into the game with a Spikeshot Goblin and then a Pyrite Spellbomb on the Punisher in response to Budde giving them the Gauntlets. Fiori also made a Nuisance Engine and started spitting out some pests.
 
 Budde would have some trouble getting through, but also so would Fiori – he had to get past Bottle Gnomes with Gauntlets and Scythe of the Wretched.
 
@@ -103,7 +105,9 @@ The game still looked to be returning in Budde's favour as his deck started drop
 
 Fiori 1-1 Budde
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a874.jpg)With a sigh Budde was forced to throw back his first hand. Then there was a slight delay as Budde noticed one of his sleeves was marked and had to desleeve his deck. He drew his six cards, announced he was fine and the game could resume. As in the game before Fiori had his second turn mana acceleration Annulled. He found a third land for a Spikeshot Goblin but then his deck got a little stubborn as no more land was forthcoming.
+![](http://www.wizards.com/sideboard/images/gplyo03/a874.jpg)
+
+With a sigh Budde was forced to throw back his first hand. Then there was a slight delay as Budde noticed one of his sleeves was marked and had to desleeve his deck. He drew his six cards, announced he was fine and the game could resume. As in the game before Fiori had his second turn mana acceleration Annulled. He found a third land for a Spikeshot Goblin but then his deck got a little stubborn as no more land was forthcoming.
 
 Budde started beating down with a Soldier Replica and Skyhunter Patrol. His Punisher met an Electrostatic Bolt.
 

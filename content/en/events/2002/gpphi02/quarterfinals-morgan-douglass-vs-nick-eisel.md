@@ -128,19 +128,25 @@ render_recovery:
   - Words of Wind
   occurrences: 115
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a849.jpg)Online Magic was brought to life in this quarterfinal matchup when #1 ranked Limited Magic Online player Nick Eisel (ThatsGameBoys) squared off against Magic Online's top ranked player in the Beta testing stage, Morgan Douglass (mdouglass). Eisel is a regular in the Team CMU crowd, and when he enters the room, the drafting usually begins. He was 11-0 earlier today and is one of the favored players in the top 8. Morgan is a DC area player who been doing most of his practicing online due to his school workload.
+![](http://www.wizards.com/sideboard/images/gpphi02/a849.jpg)
+
+Online Magic was brought to life in this quarterfinal matchup when #1 ranked Limited Magic Online player Nick Eisel (ThatsGameBoys) squared off against Magic Online's top ranked player in the Beta testing stage, Morgan Douglass (mdouglass). Eisel is a regular in the Team CMU crowd, and when he enters the room, the drafting usually begins. He was 11-0 earlier today and is one of the favored players in the top 8. Morgan is a DC area player who been doing most of his practicing online due to his school workload.
 
 Nick wins the die roll and opts to play, starting things off with a Birchlore Ranger. Morgan counters this with a Festering Goblin followed by a Sparksmith – a devastating play that left nick knocking the top of his deck as soon as turn three.
 
 Nick throws a Skirk Commando into the Sparksmith while watching the opposing army grow by a Severed Legion and a Screeching Buzzard on turns three and four. Nick attempts to combat the sligh-like draw by putting a Lightning Rift on the table, but all it gets him was a swing for 10 to the dome, followed by a Nantuko Husk. Nick rips a Symbiotic Beast that may buy him enough time to topdeck his way into a win, but Morgan counters with a Crown of Fury on the Severed Legion, and swinging into the Beast with a bunch of First Strike Zombies. The 3/2 Husk takes down the beast with aid from the Sparksmith and Nick goes down to three life, hoping to hide behind his insect tokens for a while.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a850.jpg)Nick plays a morph creature (Treespring Lorian) and Cycles a land to Rift the Severed Legion. However, in the next turn Morgan Pinpoint Avalanches the Morph creature and sends in the team to put nick at one life – nick draws his next card and packs it in.
+![](http://www.wizards.com/sideboard/images/gpphi02/a850.jpg)
+
+Nick plays a morph creature (Treespring Lorian) and Cycles a land to Rift the Severed Legion. However, in the next turn Morgan Pinpoint Avalanches the Morph creature and sends in the team to put nick at one life – nick draws his next card and packs it in.
 
 In Game 2, Nick starts off strong with a Lightning Rift, but Morgan has no fear and plays out his Sparksmith. Nick casually Cycles a Lay Waste on the Goblin, sending him to an early grave. Morgan plays out a Spitfire Handler that ends up squaring off against an unmorphed Battering Craghorn – at least until it gets hit by an Erratic Explosion from Morgan's hand. Nick doesn't miss a beat and drop down his Menacing Ogre, a lucky pick that came to him late in the draft. After some contemplation, Morgan bids zero and Nick bids three, giving the Ogre his counters and swinging for Nick first five points of damage in the game. Morgan slaps down a Cruel Revival on the Ogre and swings with the Spitfire Handler sending Nick's life total to fourteen.
 
 Nick tries to keep his tempo up by playing out a morph (Skirk Commando), but Douglass is off to the races with his newly played Prowling Pangolin. In a fascinating play, Nick morphs the Skirk at the end of the turn, then follows up with a threaten on the Pangolin and a big swing with the two creatures. The Skirk kills the Spitfire Handler and Nick plays a new morph (Treespring Lorian), but after that impressive turn, the Pangolin decides to go home to daddy, and Morgan is proud to have it back. 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a844.jpg)Morgan wastes no time and Pinpoint Avalanches the morph and swings. Nick draws and Pinpoint Avalanches the Pangolin, hoping to stabilize – at this point Nick is ahead on the life total count at seven to five. Unfortunately, he can only draw land as Morgan follows up with a Crown of Fury on a newly cast Wretched Anurid to hold of the Skirk. After a few more land draws from Nick and another Pinpoint Avalanche from Morgan, Eisel concedes while staring down the Anurid beats.
+![](http://www.wizards.com/sideboard/images/gpphi02/a844.jpg)
+
+Morgan wastes no time and Pinpoint Avalanches the morph and swings. Nick draws and Pinpoint Avalanches the Pangolin, hoping to stabilize – at this point Nick is ahead on the life total count at seven to five. Unfortunately, he can only draw land as Morgan follows up with a Crown of Fury on a newly cast Wretched Anurid to hold of the Skirk. After a few more land draws from Nick and another Pinpoint Avalanche from Morgan, Eisel concedes while staring down the Anurid beats.
 
 **Final Result:** Mdouglass defeats ThatsGameBoys 2-0
 

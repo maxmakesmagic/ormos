@@ -436,7 +436,9 @@ Jun-Wei – 1 Tsuyoshi – 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gphir03/a952.jpg)Jun kept his opening hand but Tsuyoshi double mulliganed. It was Tsuyoshi's third and fourth mulligan of the match. "I feel bad," said an obviously lying Hew.
+![](http://www.wizards.com/sideboard/images/gphir03/a952.jpg)
+
+Jun kept his opening hand but Tsuyoshi double mulliganed. It was Tsuyoshi's third and fourth mulligan of the match. "I feel bad," said an obviously lying Hew.
 
 With no creatures to fear, Fujita opened with Mountain and Firebolt. He followed up with a Piledriver and during his EOT, Hew cast Tainted Pact. Not wanting to remove an Early Harvest from the game he stopped on it rather than continue in search of his much needed third land.
 

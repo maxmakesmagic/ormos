@@ -285,7 +285,9 @@ render_recovery:
   - Plague Spitter
   occurrences: 1
 ---
-![](https://i.ormos.uk/43/f0/43f049a595200fc48bd7173bb9988679847fbe036ff7d3f87c6c07353ce804fd.jpg)At the top table in Round 10 sat the last two 9-0 competitors: Justin Bing, 22, and Ken Bearl, 23. Both are from Minnesota and have played each other before on the PTQ circuit, with Justin usually winning. Justin is an amateur that came into the tournament with 3 byes; he won a trial in Madison. Ken has a few Pro Points to his name; he played in PT London, PT New Orleans, and made the Top 16 at GP Minneapolis. At Minneapolis, Bearl was the last undefeated player at the beginning of Day 2, and he's hoping to duplicate that feat here.
+![](https://i.ormos.uk/43/f0/43f049a595200fc48bd7173bb9988679847fbe036ff7d3f87c6c07353ce804fd.jpg)
+
+At the top table in Round 10 sat the last two 9-0 competitors: Justin Bing, 22, and Ken Bearl, 23. Both are from Minnesota and have played each other before on the PTQ circuit, with Justin usually winning. Justin is an amateur that came into the tournament with 3 byes; he won a trial in Madison. Ken has a few Pro Points to his name; he played in PT London, PT New Orleans, and made the Top 16 at GP Minneapolis. At Minneapolis, Bearl was the last undefeated player at the beginning of Day 2, and he's hoping to duplicate that feat here.
 
 Both players are running Psychatog decks, but Bing's eschews Upheaval, opting instead for maindeck Chainer's Edicts and Recoils. Bearl's version is fairly typical aside from the two Disrupts.
 
@@ -315,7 +317,9 @@ Ah, the Upheaval card.
 
 Bing 1 - Bearl 1
 
-![](http://www.wizards.com/sideboard/images/gpmil02/923.jpg)Bing kept a hand with double Coliseum as his only blue sources, but drew into an Island early. He put out a quick Familiar which started attacking for 1. Across the table, Bearl was having mana issues - only three Islands, holding stuff like Fact or Fiction and Chainer's Edict. He had to discard once, then Bing decided to test the waters with a Fact or Fiction. He won the permission was easily, mostly because his Gainsays only cost 1 thanks to "Sexual Chocolate," the Nightscape Familiar.
+![](http://www.wizards.com/sideboard/images/gpmil02/923.jpg)
+
+Bing kept a hand with double Coliseum as his only blue sources, but drew into an Island early. He put out a quick Familiar which started attacking for 1. Across the table, Bearl was having mana issues - only three Islands, holding stuff like Fact or Fiction and Chainer's Edict. He had to discard once, then Bing decided to test the waters with a Fact or Fiction. He won the permission was easily, mostly because his Gainsays only cost 1 thanks to "Sexual Chocolate," the Nightscape Familiar.
 
 The Familiar wasn't exactly pummeling Bearl, giving him time to draw black mana. Another counter war ensued over a Bing atog, but Bearl untapped and drew his second Edict, killing the Familiar and the Psychatog.
 

@@ -100,17 +100,23 @@ render_recovery:
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a878.jpg)Pinter summoned an Anurid Brushhopper and pitched the not-so-useful Vengeful Dreams and Krosan Reclamation to save it from an Innocent Blood. On his turn he enchanted it with Elephant Guide and attacked for six. During his end step, Moskovich cash Tainted Pact. Usually this card simply cycles or goes 2-3 cards deep at most. However, it appears that Moskovich is a gambling man. He kept declining cards all the way until he found Chainer's Edict – seven cards later! There was an incredible amount of luck involved, but Moskovich knew he would need luck to win this matchup.
+![](http://www.wizards.com/sideboard/images/gpcle02/a878.jpg)
+
+Pinter summoned an Anurid Brushhopper and pitched the not-so-useful Vengeful Dreams and Krosan Reclamation to save it from an Innocent Blood. On his turn he enchanted it with Elephant Guide and attacked for six. During his end step, Moskovich cash Tainted Pact. Usually this card simply cycles or goes 2-3 cards deep at most. However, it appears that Moskovich is a gambling man. He kept declining cards all the way until he found Chainer's Edict – seven cards later! There was an incredible amount of luck involved, but Moskovich knew he would need luck to win this matchup.
 
 First Edict killed a Brushopper and allowed an Elephant token to come into play, only to be removed by a second Edict. Mind Sludge took out the rest of Pinter's hand, but not before Pinter summoned another Brushhopper. A Mutilate took it out as Pinter had only one card in hand. However, Pinter was not out of threats – he drew and cast Glory, while still hanging on to a Roar of the Wurm in his graveyard. Moskovich let Glory hit him in order to spend the turn to Diabolic Tutor for Skeletal Scrying and use it to draw five cards.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a881.jpg)Moskovich summoned a Nantuko Shade and cleared the path for it with an Edict, removing the Roar token and attacking for fourteen. Pinter used Krosan Reclamation to put the Edict back into Moskovich's library and played an Arrogant Wurm. As he was tapped out, it would only be a chump-blocker. Moskovich however would not allow his opponent to buy himself another turn – he cast yet another Edict from hand and won with the Shade.
+![](http://www.wizards.com/sideboard/images/gpcle02/a881.jpg)
+
+Moskovich summoned a Nantuko Shade and cleared the path for it with an Edict, removing the Roar token and attacking for fourteen. Pinter used Krosan Reclamation to put the Edict back into Moskovich's library and played an Arrogant Wurm. As he was tapped out, it would only be a chump-blocker. Moskovich however would not allow his opponent to buy himself another turn – he cast yet another Edict from hand and won with the Shade.
 
 ### Game 2
 
 Pinter's opening hand featured Plains, Sungrass Prairie, Basking Rootwalla, and a few larger creatures – but no Forests. He did not risk keeping this draw, opting for something better. New hand featured green mana only, but he had spells he could cast with it. He summoned Basking Rootwalla but lost it to an Innocent Blood. Moskovich cast a turn two Shade and attacked for five on turn 3. In the meantime, his opponent cast Bearscape and a Wild Mongrel.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a880.jpg)Moskovich was willing to race. He played a fourth Swamped and attacked. When Pinter did not block, he used all his land to pump up the Shade and bring his opponent down to nine life points. Pinter's retaliatory attack was for three – he pumped Wild Mongrel with Arrogant Wurm and put it into play. Pinter did not block again on the following turn. Moskovich could bring him down to as low as one life point if he chose to pump the Shade. Instead, he dealt two points of damage only, cast Rancid Earth of his opponent's Plains and summoned a second Shade. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a880.jpg)
+
+Moskovich was willing to race. He played a fourth Swamped and attacked. When Pinter did not block, he used all his land to pump up the Shade and bring his opponent down to nine life points. Pinter's retaliatory attack was for three – he pumped Wild Mongrel with Arrogant Wurm and put it into play. Pinter did not block again on the following turn. Moskovich could bring him down to as low as one life point if he chose to pump the Shade. Instead, he dealt two points of damage only, cast Rancid Earth of his opponent's Plains and summoned a second Shade. 
 
 Pinter could no longer attack. He was forced to block the pair of Shades as either of them getting through would finish the game. A Faceless Butcher took out one of the Bear tokens and another Bear died chump-blocking. Two angry Shades came over again on the following turn, forcing Pinter to lose both of his Wild Mongrels. Pinter drew Glory, but had no white mana and no way to discard it. Two more attacks, and the Shades were triumphant.
 

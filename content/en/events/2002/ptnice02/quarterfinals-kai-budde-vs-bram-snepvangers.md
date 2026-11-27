@@ -95,7 +95,9 @@ render_recovery:
   - Second Thoughts
   occurrences: 90
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a715.jpg)Kai Budde is the best player in the world. He's won five Pro Tours, countless other events and perhaps most impressively, fifteen consecutive matches on Sunday at the PT. Very few players can claim to have ever defeated Kai in those rare moments where he's shown weakness in Grand Prix top 8s. Bram Snepvangers is one of them.
+![](http://www.wizards.com/sideboard/images/ptnice02/a715.jpg)
+
+Kai Budde is the best player in the world. He's won five Pro Tours, countless other events and perhaps most impressively, fifteen consecutive matches on Sunday at the PT. Very few players can claim to have ever defeated Kai in those rare moments where he's shown weakness in Grand Prix top 8s. Bram Snepvangers is one of them.
 
 Playing in the final of GP Florence, Snepvangers, known for his unusual deck builds, beat Kai with a four color Oath deck based off of Maher Oath, but despite that success hasn't seen the glory of top 8 play since. Today that all changes, as he faces the greatest of all time in the quarter-finals.
 
@@ -125,7 +127,9 @@ The players exchanged land drops until Bram's second turn Aquamoeba, to which Ka
 
 Unfortunately for Bram, he was out of options also, passing his turn without a play despite having all his mana. Kai then discarded Luminous Guardian before Bram played a land and passed the turn in what was quickly becoming one of the less eventful games in top 8 history. The next discard though was Deep Analysis, providing Kai the option of action in his next turn, but with his life total at nine after Bram pumped the Aquamoeba, that option looked dubious. Kai drew and played Nomad Decoy, but he knew it was too little too late, with Bram taking Kai to six on the next turn, casting Psionic Gift on the Wall then playing a seemingly huge Mystic Zealot. Kai finally drew his fourth land, playing Dreamwinder with it.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a726.jpg)Bram's turn saw him ask for Kai's life total, and when it was verified that Kai was at five, he attacked with the Torturer, Moeba and Zealot, and when that attack did three damage thanks to the blue beast pumped for three, Kai asked 'Soul Scourge?', Bram responded 'just a Morbid Hunger'.
+![](http://www.wizards.com/sideboard/images/ptnice02/a726.jpg)
+
+Bram's turn saw him ask for Kai's life total, and when it was verified that Kai was at five, he attacked with the Torturer, Moeba and Zealot, and when that attack did three damage thanks to the blue beast pumped for three, Kai asked 'Soul Scourge?', Bram responded 'just a Morbid Hunger'.
 
 Snepvangers 2, Kai Budde 0
 

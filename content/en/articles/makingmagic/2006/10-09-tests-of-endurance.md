@@ -133,7 +133,9 @@ render_recovery:
 ---
 Welcome to Suspend Week! Join me next week when the column actually begins…
 
-![](https://i.ormos.uk/9f/a8/9fa8b01e1dab4da767cd1ed68761755942e161c20f110ff25c022f87ade5c983.jpg)While we wait for the time counters to come off, I had another fun excursion for this week. A little over a month ago, I let you all in on our plan to hire one of you to be the new design intern. I said that ten to twelve applicants would be chosen for an online version of a reality show a la “The Apprentice” called The Great Designer Search where we put designers through their paces each week slowly eliminating people until we got down to a final three that would all then get formal interviews. In the end, one of the three would get a PAID, SIX MONTH DESIGN INTERNSHIP! (I’m still too excited not to capitalize it.) 
+![](https://i.ormos.uk/9f/a8/9fa8b01e1dab4da767cd1ed68761755942e161c20f110ff25c022f87ade5c983.jpg)
+
+While we wait for the time counters to come off, I had another fun excursion for this week. A little over a month ago, I let you all in on our plan to hire one of you to be the new design intern. I said that ten to twelve applicants would be chosen for an online version of a reality show a la “The Apprentice” called The Great Designer Search where we put designers through their paces each week slowly eliminating people until we got down to a final three that would all then get formal interviews. In the end, one of the three would get a PAID, SIX MONTH DESIGN INTERNSHIP! (I’m still too excited not to capitalize it.) 
 
 The problem was a lot of people wanted to be one of those “ten to twelve”. This meant that we had to narrow down the field. To do this, we created three tests. Each would test a different set of skills and would progressively narrow down the field. Today I’m going to walk you through the three tests. Actually, just two of them as the third is [this week’s feature article](/en/articles/feature/2006/10-09-the-great-designer-search-the-test). Not only will I show you the test, I’ll let you in on what we were looking for, give some behind-the-scenes glimpses on the tests themselves, and even share an answer or two of my own.
 
@@ -212,7 +214,9 @@ The problem is that I can’t talk about this topic without giving away many of 
 
 **4\. From a design standpoint, what was the best thing about the *Champions of Kamigawa* block?** 
 
-![](https://i.ormos.uk/b5/f0/b5f06db6fec7fe575b77360cca8ce674c5fd602eef4051629b0fd162db126799.jpg)This question examined the applicants’ ability to find success among failure. While this block was far from **Magic’s** all-time low point, it's not up to the design level of the sets you've seen since then. So what did *Champions of Kamigawa* do right?
+![](https://i.ormos.uk/b5/f0/b5f06db6fec7fe575b77360cca8ce674c5fd602eef4051629b0fd162db126799.jpg)
+
+This question examined the applicants’ ability to find success among failure. While this block was far from **Magic’s** all-time low point, it's not up to the design level of the sets you've seen since then. So what did *Champions of Kamigawa* do right?
 
 There a number of good answers. Here are my top ones (in no particular order other than what popped into my head).
 
@@ -232,7 +236,9 @@ If the last question was about finding success in failure, this question was abo
 
 **6\. We design cards for three player psychographics: Timmy, Johnny and Spike. In the average set, who should the most cards be designed for? Why? Who should the fewest cards be designed for? Why?** 
 
-![Johnny_Combo_Player](https://i.ormos.uk/1e/4d/1e4ddaa9f7c4e7f13ec347393f88238334388c502a94020f58bbc1213a630aeb.jpg)This question was both examining the applicants’ understanding of the three psychographics and getting a sense of their ability to gauge their role in the big picture. Note that I’ve never touched upon the second issue so the question was really trying to see if the applicants could reason their way to an answer. 
+![Johnny_Combo_Player](https://i.ormos.uk/1e/4d/1e4ddaa9f7c4e7f13ec347393f88238334388c502a94020f58bbc1213a630aeb.jpg)
+
+This question was both examining the applicants’ understanding of the three psychographics and getting a sense of their ability to gauge their role in the big picture. Note that I’ve never touched upon the second issue so the question was really trying to see if the applicants could reason their way to an answer. 
 
 Let me start by stressing that many applicants answered a question other than what we asked. The question is not which psychographic exists in the largest number; it’s which one should we be designing the most cards for. Those are actually two very different questions. For today I’m going to answer what we asked. Perhaps I’ll broach the other one in a column one of these days. 
 
@@ -256,7 +262,9 @@ The instant and sorcery argument boil down to using one to represent them both. 
 
 **8\. You stumble upon a time machine and travel back to the early 90's. What is the one change you would recommend Richard Garfield make with Alpha? (You must recommend a change.)** 
 
-![Time_Machine](https://i.ormos.uk/52/96/52960331046cc0369d0837b99bec70c8f28d4948dc5aa105a675a492ba95600a.jpg)As a time traveler buff, I know this: don’t make any suggestions that would threaten **Magic’s** existence. For example, I wouldn’t mess with the power level of Alpha as clearly having crazy broken cards was part of what helped the game build to where it did. No, the answers I would look at are more about fixing things that make a better game without taking away any excitement. Here are a few possible choices:
+![Time_Machine](https://i.ormos.uk/52/96/52960331046cc0369d0837b99bec70c8f28d4948dc5aa105a675a492ba95600a.jpg)
+
+As a time traveler buff, I know this: don’t make any suggestions that would threaten **Magic’s** existence. For example, I wouldn’t mess with the power level of Alpha as clearly having crazy broken cards was part of what helped the game build to where it did. No, the answers I would look at are more about fixing things that make a better game without taking away any excitement. Here are a few possible choices:
 
 *   **The stack** – The early days of **Magic** were very painful because no one (not even Richard himself) really knew how all the interactions worked. In addition, the structure wasn't there yet to help people who were confused. No official judging program, no Orcale, no rules databases. There weren’t even complete rules. If I were traveling back to the early days, I might clue Richard in to the idea of the stack. I think it would add a little structure while still keeping some of the chaos of the early days.
 *   **Rarity symbols** – In the beginning, **Magic** was created to be mysterious. So mysterious that the players didn’t even know things like rarity. This is another example of early confusion that I don’t think helped the game, thus a good choice for a time travel tip.
@@ -265,7 +273,9 @@ The instant and sorcery argument boil down to using one to represent them both. 
 
 **9\. You are forced to move counterspelling out of blue. What color do you move it to and why?** 
 
-![Cancel](https://i.ormos.uk/da/47/da4700613fbbe61016468d907711054e622f06e5733c624dd88d3fb2e99e09c3.jpg)This question was both a look at the applicant’s understanding of the color pie (especially color philosophy) and their flexibility to make something fit somewhere new. There is an argument for any of the four colors although some have an easier case than others. Here’s how I think you would approach each of the four colors (and for once this is actually in order from best choice to worst).
+![Cancel](https://i.ormos.uk/da/47/da4700613fbbe61016468d907711054e622f06e5733c624dd88d3fb2e99e09c3.jpg)
+
+This question was both a look at the applicant’s understanding of the color pie (especially color philosophy) and their flexibility to make something fit somewhere new. There is an argument for any of the four colors although some have an easier case than others. Here’s how I think you would approach each of the four colors (and for once this is actually in order from best choice to worst).
 
 *   **White** – White is the most obvious choice for counterspelling as it’s not too far away from white’s “stall and protect” mindset. To give white counterspelling would be a refocus from white as reactive to becoming proactive. White would also want to have more enchantments like Presence of the Master that created this feeling that it took away options from the opponent. In order to make this shift, there are two things you would have to do. First, you need to move some of the core aggro elements out of white, as counterspelling and efficient agro are a potent combination. Second, you would need to find a home for the reactive spells that you are shifting out of white. I’m not sure who picks up the first baton (maybe red), but blue seems the definite candidate for the second.
 *   **Red** – Putting counterspelling in red requires a closer embracing of the trickster quality that R&D has been pushing the last few years. (This is where temporary stealing and spell redirection come from.) The counterspells would need to have a more Gotcha approach. Probably this would entail giving red a lot of conditional counterspells rather than a glut of hard counters. This would help to keep the chaos feeling that red wants. The net result would be that permission strategies would be much less consistent.

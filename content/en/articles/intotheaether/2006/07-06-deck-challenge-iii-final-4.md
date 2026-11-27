@@ -2189,7 +2189,9 @@ The Standard 4x Top 8 featured a lot of aggressive decks, with the Black/White a
 
 Fcormier: 
 
-> ![ninja_of_the_deep_hours](http://www.wizards.com/magic/images/cardart/BOK/ninja_of_the_deep_hours.jpg)“I got the deck last minute from Pierre Canali and it was quite untested on his part but it seemed to destroy U/R decks of any variety and that's what I was looking for, so I sleeved it up...
+> ![ninja_of_the_deep_hours](http://www.wizards.com/magic/images/cardart/BOK/ninja_of_the_deep_hours.jpg)
+>
+> “I got the deck last minute from Pierre Canali and it was quite untested on his part but it seemed to destroy U/R decks of any variety and that's what I was looking for, so I sleeved it up...
 > 
 > “I went 6-0 in the Swiss before double drawing... beating 2 Tron decks and 2 Magnivore along the way, so I guess it was a good choice. Lost in top 4 to Hand in hand because I can't draw enough Electrolyzes!
 > 

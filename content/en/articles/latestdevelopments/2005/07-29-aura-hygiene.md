@@ -105,7 +105,9 @@ Which means…
 
 ### The Reign of Terror Begins
 
-![](https://i.ormos.uk/2e/b1/2eb18b55ad83049d4a64f5b9589aeafd498c531bf0f09db548c702b7600c1d88.jpg)And when I say “NOOOOOOOOOO!!!!!!!!” I really mean “Yes.” My supervillainous tendencies must've been looked upon favorably by my corporate masters, because they appointed me to the most evil position imaginable. It's like how the girl who loves to dance in her spare time winds up as the head cheerleader in high school… not that I'm still bitter about *that*… but that's a story for a different time. Or never. Yeah, let's go with never.
+![](https://i.ormos.uk/2e/b1/2eb18b55ad83049d4a64f5b9589aeafd498c531bf0f09db548c702b7600c1d88.jpg)
+
+And when I say “NOOOOOOOOOO!!!!!!!!” I really mean “Yes.” My supervillainous tendencies must've been looked upon favorably by my corporate masters, because they appointed me to the most evil position imaginable. It's like how the girl who loves to dance in her spare time winds up as the head cheerleader in high school… not that I'm still bitter about *that*… but that's a story for a different time. Or never. Yeah, let's go with never.
 
 As should be apparent, I just recently became the Rules Manager, so I had very little to do with the *Ninth Edition* changes. Or did I? In fact, the biggest change to the cards this time out was a revision I had been championing for years. Back when I was a **Magic** editor, I tried to get this revision pushed through for *Eighth Edition* but failed. This time, two years later—thanks to the precedent set by Equipment and the “equip” keyword—my initiative succeeded. That change, of course, is the Auras.
 

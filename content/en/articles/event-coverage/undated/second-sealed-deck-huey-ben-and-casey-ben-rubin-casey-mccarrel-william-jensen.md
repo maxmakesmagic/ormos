@@ -42,7 +42,9 @@ render_recovery: []
 
 *   [The Card Pool](https://web.archive.org/web/20211207211439/http://archive.wizards.com/eventarticle.asp?event=PTNY0001&name=942sd2decks#hbc)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/815.jpg)Ben, Casey, and Huey went 1-0-1 in the first two rounds, drawing the first round after a staggering match between Casey and Pete Leiher. They opened their packs in this second Sealed construction period, and separated the colors out for initial inspection. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/815.jpg)
+
+Ben, Casey, and Huey went 1-0-1 in the first two rounds, drawing the first round after a staggering match between Casey and Pete Leiher. They opened their packs in this second Sealed construction period, and separated the colors out for initial inspection. 
 
 The first pass shows that the White and Red are both strong, but the Blue is weak and the Green is low on playable creatures. The White includes an impressive Rebel chain, starting with Ramosian Sergeant, including one of each Glider and one of each Bringer, and ending with Ramosian Sky Marshall and Jhovall Riders. The Red has a solid creature base and good removal in Lunge, Rupture, Thunderclap - and also has Kyren Negotiations for a finisher. The Black is fair, with good removal and a fair creature base with Highway Robbers and Scandalmonger. 
 

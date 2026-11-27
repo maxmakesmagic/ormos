@@ -44,7 +44,9 @@ archive_source:
   sha256: 61f3f31db750cfe73bec8f70b8df8bedc0ac41d7659ba895c6f7b7ac6c9c6699
 render_recovery: []
 ---
-![](https://i.ormos.uk/f5/2e/f52e52904d549e35ff3d1da917d731caf6e2f9e7bfed29f9dd5b2326c0c48b92.jpg)This is Richard Hoaen's tournament to lose. After making the Top 8 of Canadian Nationals in 2002, Rich posted a Top 8 at Pro Tour Yokohama. He made the Canadian National team in 2003 and has had a solid Pro Tour season with a pair of Top 16 finishes in the two Limited Pro Tours.
+![](https://i.ormos.uk/f5/2e/f52e52904d549e35ff3d1da917d731caf6e2f9e7bfed29f9dd5b2326c0c48b92.jpg)
+
+This is Richard Hoaen's tournament to lose. After making the Top 8 of Canadian Nationals in 2002, Rich posted a Top 8 at Pro Tour Yokohama. He made the Canadian National team in 2003 and has had a solid Pro Tour season with a pair of Top 16 finishes in the two Limited Pro Tours.
 
 Rich took one loss during the Constructed rounds and was looking to sweep through the limited rounds this afternoon and tomorrow morning. From that position he will likely only need to win one match. "If I lose it will be my first Limited loss at Nationals in three years. I lost a match once for misregistration but I have never taken forty points of damage in a Limited match."
 

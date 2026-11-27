@@ -44,7 +44,9 @@ archive_source:
   sha256: 06671783e02db3fe0208fbcac30c38d2df7ed21376f27d75f818cc03441e6833
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a929.jpg)Brian Kibler, a fan of creatures called “So-and-so, the Such-and-such”, is trying to cement his hold as king of the North American Grand Prix. In the 2001-2002 season, he made Top 8 of all but one of them, and the student is looking to earn yet another here at Boston. At 10 – 1, armed with a very aggressive red/white deck, his chances are good.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a929.jpg)
+
+Brian Kibler, a fan of creatures called “So-and-so, the Such-and-such”, is trying to cement his hold as king of the North American Grand Prix. In the 2001-2002 season, he made Top 8 of all but one of them, and the student is looking to earn yet another here at Boston. At 10 – 1, armed with a very aggressive red/white deck, his chances are good.
 
 Unfortunately for him, he is staring across the table at his longtime playtest partner and friend, Ben Rubin. Ben has numerous high finishes, including a ridiculous two Masters titles in two different formats, something no-one else can claim. Ben has a red/black deck that is absolutely stuffed with power, topping off with Visara, the Dreadful.
 
@@ -52,7 +54,9 @@ They started off with some friendly banter, demanding that they get the most att
 
 ### Game One
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a932.jpg)Rubin won the die roll and chose to play. He kept his first seven, but Kibler had to mulligan his hand twice. His five card draw was borderline, giving him a turn one [Goblin Taskmaster](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Taskmaster) and turn three [Wingbeat Warrior](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wingbeat+Warrior). 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a932.jpg)
+
+Rubin won the die roll and chose to play. He kept his first seven, but Kibler had to mulligan his hand twice. His five card draw was borderline, giving him a turn one [Goblin Taskmaster](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Taskmaster) and turn three [Wingbeat Warrior](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wingbeat+Warrior). 
 
 Ben played a turn three [Skirk Commando](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando) face up, indicating some trick, so Kibler was forced to leave both his creatures on defense. Rubin’s trick, though, was [Crown of Fury](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Fury), forcing Kibler to chump block with the taskmaster. 
 
@@ -66,7 +70,9 @@ Rubin – 1, Kibler – 0
 
 Kibler chose to play this game, but had to ship his opening seven. While most players would pump the fist at the mulligan, the third mulligan of the game was just too much. Kibler kept his second hand, and Rubin again stuck with his first seven. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a931.jpg)Kibler’s draw was very good for six cards. He opened with a turn three morph that was [Shock](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)ed immediately. A turn three [Thoughtbound Primoc](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtbound+Primoc) from Ben drew first blood, but it was stalled by a [Gustcloak Savior](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Savior) from Kibler.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a931.jpg)
+
+Kibler’s draw was very good for six cards. He opened with a turn three morph that was [Shock](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)ed immediately. A turn three [Thoughtbound Primoc](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtbound+Primoc) from Ben drew first blood, but it was stalled by a [Gustcloak Savior](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Savior) from Kibler.
 
 The savior was dealt with via [Crested Craghorn](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crested+Craghorn) and provoke while the board reached a standstill. 
 

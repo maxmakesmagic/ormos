@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/db/72/db727598d833a23e6c301f0c8dc42dc8bb882cc559b4e395eb166a11c9a8f0f7.jpg)This was a compelling battle of magic veterans. Eric Taylor-or EDT as his is known to most of the Magic community-was one of the game's earliest voices on the internet. He helped to codify many of the theories and strategies of the game that are simply accepted as fact today. Eric has continued to play competively over the years but has found himself chasing after his qualifications of late. EDT was playing the explosive Twiddle Desire deck.
+![](https://i.ormos.uk/db/72/db727598d833a23e6c301f0c8dc42dc8bb882cc559b4e395eb166a11c9a8f0f7.jpg)
+
+This was a compelling battle of magic veterans. Eric Taylor-or EDT as his is known to most of the Magic community-was one of the game's earliest voices on the internet. He helped to codify many of the theories and strategies of the game that are simply accepted as fact today. Eric has continued to play competively over the years but has found himself chasing after his qualifications of late. EDT was playing the explosive Twiddle Desire deck.
 
 Mark Shick is an old California stand-by who was last heard from at Grand Prix San Francisco where placed second behind the notorious Trey Van Cleave. Shick has not been played for some time but is apparently mounting a comeback. He was sporting an interesting Ben Rubin homebrew called The Dump Truck that sported [Shadowmage Infiltrator](https://web.archive.org/web/20031213000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowmage+Infiltrator), [Meddling Mage](https://web.archive.org/web/20031213000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Mage) and an array of silver bullets.
 

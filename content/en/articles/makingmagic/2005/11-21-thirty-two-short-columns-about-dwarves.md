@@ -518,7 +518,9 @@ The lesson here? I understand why dwarves have such a gruff demeanor. They don't
 
 *How many goblins could you take in a fight?*
 
-![](https://i.ormos.uk/69/96/699651e4ba5eb7b588fe3d5c05e8d6ebba190e98d85fa3c70911a7e05920e21b.jpg)**Balthor**: Dead or alive? I mean me.
+![](https://i.ormos.uk/69/96/699651e4ba5eb7b588fe3d5c05e8d6ebba190e98d85fa3c70911a7e05920e21b.jpg)
+
+**Balthor**: Dead or alive? I mean me.
 
 **Bloodfire Dwarf**: Six. Maybe seven if they're small.
 
@@ -546,7 +548,9 @@ The lesson here? I understand why dwarves have such a gruff demeanor. They don't
 
 ### What Was Joe Thinking?
 
-![](https://i.ormos.uk/69/31/69315c435cda4234677449ac7fbdc96e5c638525f73ef35f22f1dbc8d27416b5.jpg)From time to time I like to tell stories not about the game itself but about the people behind the game. R&D stories if you will. As luck would have it, I have one of these stories that involves dwarves. One of the fun parts of being in R&D is you get to help playtest other R&D members' games. This story is about one of those times. This was many years ago back when Richard (Garfield) worked in the office full time (he still pokes his head in from time to time but this was when he worked at Wizards full time). 
+![](https://i.ormos.uk/69/31/69315c435cda4234677449ac7fbdc96e5c638525f73ef35f22f1dbc8d27416b5.jpg)
+
+From time to time I like to tell stories not about the game itself but about the people behind the game. R&D stories if you will. As luck would have it, I have one of these stories that involves dwarves. One of the fun parts of being in R&D is you get to help playtest other R&D members' games. This story is about one of those times. This was many years ago back when Richard (Garfield) worked in the office full time (he still pokes his head in from time to time but this was when he worked at Wizards full time). 
 
 Richard wanted to design a family/party game. Inspired by a German game, he came up with a cool little game he called Hive Mind (it would later be released with the name What Were You Thinking – while Wizards no longer produces it if you can find a copy on ebay or see a used copy at a game shop, definitely pick it up). The idea of the game was this: you get asked questions and your goal was to write down the answer that you thought matched as many other player's answers as possible. The key to the game is to try and guess what the group thinks is the most obvious answer. 
 
@@ -646,7 +650,9 @@ Once again, the topic was Name Three Dwarves. And the goal was to match the answ
 
 Last time I talked about the physical dangers of being the smallest one around. Now let's get into the emotional ones. You'd think being small was so apparent that no one would feel compelled to point out how small you are. (If it's any consolation, I've had some very tall friends that inform me that they get the same treatment on the opposite end of the spectrum.) My height became a big issue to me because it appeared to be a big issue to everyone else. And while I understood that I was going to be teased by many of the other kids, I was not prepared for the same to be done by the adults. 
 
-![](https://i.ormos.uk/46/b7/46b73c361884dfd000eec763f9668ea663430c5bad2c5f5cfb69a39ec9771d3d.jpg)You see, I assumed that the adults were supposed to be on my side. I was the underdog (by the way, I believe this led to my being a big fan of Underdog). Wasn't the authority figures suppose to help me? Aren't the adults supposed to act like adults? One would think. They seemed to find my height as funny as everyone else. Somehow picking on height doesn't get special harassment status. I mean, really, would these same adults pick on the fat kid? (Maybe they would – it just saddens me that kids can't rely on the adults to act maturely.)
+![](https://i.ormos.uk/46/b7/46b73c361884dfd000eec763f9668ea663430c5bad2c5f5cfb69a39ec9771d3d.jpg)
+
+You see, I assumed that the adults were supposed to be on my side. I was the underdog (by the way, I believe this led to my being a big fan of Underdog). Wasn't the authority figures suppose to help me? Aren't the adults supposed to act like adults? One would think. They seemed to find my height as funny as everyone else. Somehow picking on height doesn't get special harassment status. I mean, really, would these same adults pick on the fat kid? (Maybe they would – it just saddens me that kids can't rely on the adults to act maturely.)
 
 But the worst of all of the adult tormenting was saved for a special evening. My first school dance. I think it was sixth grade (puberty decided to take its time for me – you know let me have as much short time as it could allow). To bring everyone up to speed that doesn't remember (or blacked out) sixth grade dances, it's a bit removed from what you might think of as a dance. (As I'm an old fogey, this might have completely changed, but this was how it was back in the day.) Most people don't have dates and the adults feel a great need to spur things on. 
 
@@ -726,7 +732,9 @@ And that is how Goblin Scouts came to be.
 
 *How realistic is Snow White and the Seven Dwarves?*
 
-![](https://i.ormos.uk/05/18/0518a29aba6f6d11963aa9c045df19f322640893e016b80865ea2620b5c04610.jpg)**Dwarven Berserker**: A fine woman like Snow White stays in a house with seven little dudes and no hanky panky happens? I don't think so.
+![](https://i.ormos.uk/05/18/0518a29aba6f6d11963aa9c045df19f322640893e016b80865ea2620b5c04610.jpg)
+
+**Dwarven Berserker**: A fine woman like Snow White stays in a house with seven little dudes and no hanky panky happens? I don't think so.
 
 **Dwarven Nomad**: They work all alone in a diamond mine and they have to shack up together in a tiny cottage in the middle of nowhere?
 
@@ -734,7 +742,9 @@ And that is how Goblin Scouts came to be.
 
 **Enslaved Dwarf**: Dwarves don't have stupid names like Sleepy and Sneezy. Doc, maybe.
 
-![](https://i.ormos.uk/e0/c5/e0c59cd74a403d4c027ca617dba86346a14cf06859ac8da6c2effcaf109d4a13.jpg)**Pardic Miner**: I thought it was quite realistic.
+![](https://i.ormos.uk/e0/c5/e0c59cd74a403d4c027ca617dba86346a14cf06859ac8da6c2effcaf109d4a13.jpg)
+
+**Pardic Miner**: I thought it was quite realistic.
 
 **Dwarven Thaumaturgist**: I didn't buy that Dopey character. I've never met a dwarf that can shut up for longer than thirty seconds.
 
@@ -980,7 +990,9 @@ How can a 3'11" boy ever hope of defeating the clown? The answer rested in weste
 
 **Dwarven Scorcher**: Unless it's messing with me, I really don't give it much thought.
 
-![](https://i.ormos.uk/92/65/9265f041e93ef0352a672b91d3b86f6239f9dcec8d2ab2b0fe86d5a03240ad7e.jpg)**Dwarven Driller**: Non-basic, basic. I hate 'em all.
+![](https://i.ormos.uk/92/65/9265f041e93ef0352a672b91d3b86f6239f9dcec8d2ab2b0fe86d5a03240ad7e.jpg)
+
+**Dwarven Driller**: Non-basic, basic. I hate 'em all.
 
 **Enslaved Dwarf**: I don't really feel one way or another.
 

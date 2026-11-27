@@ -687,7 +687,9 @@ render_recovery:
 ---
 ### Albertus Law vs. Jin Okamoto
 
-![](http://www.wizards.com/sideboard/images/gphk04/r10fm1_1.jpg)Jin Okamoto is known as the Last Emperor. The Japanese player was the last winner of the now defunct APAC championships. When they canceled that tournament he was given his royal nickname. Jin has kept a low profile since his finals appearance at Worlds at the end of last season and was hoping to nab a Top 8 this weekend.
+![](http://www.wizards.com/sideboard/images/gphk04/r10fm1_1.jpg)
+
+Jin Okamoto is known as the Last Emperor. The Japanese player was the last winner of the now defunct APAC championships. When they canceled that tournament he was given his royal nickname. Jin has kept a low profile since his finals appearance at Worlds at the end of last season and was hoping to nab a Top 8 this weekend.
 
 Albertus Law made the Top 8 at Pro Tour Barcelona. When asked about it the Singapore player rolled his eyes, "It was a long time ago…Invasion block booster draft." Albertus was coming off of a money finish in Kobe where he piloted a Big Red deck. He and Nick Wong were responsible for introducing the deck to the YMG team the day before the Pro Tour and it resulted in a money finish for Jordan Berkowitz as well.
 

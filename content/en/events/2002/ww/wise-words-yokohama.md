@@ -51,7 +51,9 @@ Chapter four of the Japanese Pro Tour story is in the books. We could wax poetic
 
 ### The Champ
 
-![](http://www.wizards.com/sideboard/images/ptyok03/672.jpg)For years, Mattias Jorstedt has been attending Pro Tours, landing Top 16s and other solid finishes, but without the all-important Top 8 on his resume, he’d gone overlooked. Now, graduated from University and a card-carrying member of one of the planet’s better teams, Mattias has done something no other Punisher had done before this weekend: win a Pro Tour. Tomi Walamies had two finals, Jens Thoren one, and Anton Jonsson always seemed on the verge, but Mattias, after two near misses with Top 8 finishes in Houston and Venice, finally did it in Booster Draft, a format I’d guess he’d admit isn’t as close to his heart as the 60-card variants. 
+![](http://www.wizards.com/sideboard/images/ptyok03/672.jpg)
+
+For years, Mattias Jorstedt has been attending Pro Tours, landing Top 16s and other solid finishes, but without the all-important Top 8 on his resume, he’d gone overlooked. Now, graduated from University and a card-carrying member of one of the planet’s better teams, Mattias has done something no other Punisher had done before this weekend: win a Pro Tour. Tomi Walamies had two finals, Jens Thoren one, and Anton Jonsson always seemed on the verge, but Mattias, after two near misses with Top 8 finishes in Houston and Venice, finally did it in Booster Draft, a format I’d guess he’d admit isn’t as close to his heart as the 60-card variants. 
 
 This is a blatant out-and-out case of good things coming to those who wait, and there can be no doubt Jorstedt has taken his game to an entirely new level. My guess is that getting over the Top 8 hump in Houston has allowed Mattias to shed some psychological bonds, as reflected in his recent results. From those results, I think you’ll agree that the rest of us need to get to therapists as quickly as possible. 
 
@@ -85,7 +87,9 @@ He got his one match point of the tournament. The sad thing is that the seventh 
 
 ### Quake!!!
 
-![](https://i.ormos.uk/e6/36/e636e64646a780304bc2129a5742cdd88649d3d47c59711240975eec3a20cdd6.jpg)At 2:30 AM Monday morning, Mike Turian, Eugene Harvey, Eric Froehlich, Paul Sottosanti, Ben Stark, Ben Seck and I were playing poker in my 22nd floor room while Bill Stead and Osyp Lebeidowcz watched, when the room suddenly started swaying back and forth. After Osyp accused us of shaking his bed, I suggested it might have been an earthquake. We all looked at one another, stunned, just for a moment, before a round of yells and high fives filled the room. Super cool experience.
+![](https://i.ormos.uk/e6/36/e636e64646a780304bc2129a5742cdd88649d3d47c59711240975eec3a20cdd6.jpg)
+
+At 2:30 AM Monday morning, Mike Turian, Eugene Harvey, Eric Froehlich, Paul Sottosanti, Ben Stark, Ben Seck and I were playing poker in my 22nd floor room while Bill Stead and Osyp Lebeidowcz watched, when the room suddenly started swaying back and forth. After Osyp accused us of shaking his bed, I suggested it might have been an earthquake. We all looked at one another, stunned, just for a moment, before a round of yells and high fives filled the room. Super cool experience.
 
   
 
@@ -123,7 +127,9 @@ If it ended there, it would be merely crushing, but Krempals woes were heightene
 
 ### Oh Canada
 
-![](http://www.wizards.com/sideboard/images/ptyok03/753.jpg)Okay, okay, I’m biased, but it has to be said that my home country is enjoying a resurgence to heights unseen over the last half decade. Rich Hoaen’s Top 8 finish (which he arrived at by going undefeated in three drafts with black-white clerics, by the way. His record with other decks? 1-3) coincided with 2002 National Team member John Stern’s near-missing with his final round loss to Ooiso and Mark Zajdner’s Top 32 placing to follow his GP-Boston Top 4.
+![](http://www.wizards.com/sideboard/images/ptyok03/753.jpg)
+
+Okay, okay, I’m biased, but it has to be said that my home country is enjoying a resurgence to heights unseen over the last half decade. Rich Hoaen’s Top 8 finish (which he arrived at by going undefeated in three drafts with black-white clerics, by the way. His record with other decks? 1-3) coincided with 2002 National Team member John Stern’s near-missing with his final round loss to Ooiso and Mark Zajdner’s Top 32 placing to follow his GP-Boston Top 4.
 
 Not since the days of Terry Borer, Eric Tam and Paul McCabe have so many Canadians found their names among the Top 50 in the Player of the Year race. Elijah Pollock, Steve Wolfman, Dave Rood, Gab Tsang, Jeff Cunningham and I all sat above twenty points on the season before Yokohama, with their performances there bringing Hoaen, Zajdner and Stern to 25 and 19 points respectively (Zajdner’s and Stern’s ratings will likely qualify them for World Championships, bringing them both to threshold status). National Championships looks to have as competitive a field as can be remembered, especially with old-timers Terry Lau and Pete Radonjic making Magic Online-fueled comebacks.
 

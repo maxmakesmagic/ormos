@@ -44,7 +44,9 @@ archive_source:
   sha256: 3f7528769e8d4a0f152bef882efdd78db806d2cbeed32a10467e6a3f80dcc8e6
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fin1.jpg)They were the two names you could instantly recognize from the Top 8 list. Blech won Grand Prix Genova a while ago and Hamon has been on a Kamiel-or-Kai-like rampage lately, winning a Grand Prix in this exact format and coming pretty close to taking the whole thing again in another Grand Prix and in the Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fin1.jpg)
+
+They were the two names you could instantly recognize from the Top 8 list. Blech won Grand Prix Genova a while ago and Hamon has been on a Kamiel-or-Kai-like rampage lately, winning a Grand Prix in this exact format and coming pretty close to taking the whole thing again in another Grand Prix and in the Top 8.
 
 If anyone in this room can stop the French its Reinhard Blech. He won Grand Prix Genova in incredible fashion with a perfect control of the matches. He always seems to be several steps ahead of his opponent. Playing in his home country he has the unconditional support of the crowd.
 

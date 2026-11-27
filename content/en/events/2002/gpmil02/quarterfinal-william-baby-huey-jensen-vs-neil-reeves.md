@@ -130,13 +130,17 @@ render_recovery:
 "I think this is my best matchup in the Top 8." - Baby Huey  
  "Those sleeves have got to be marked. Can I get a game win?"- Neil Reeves
 
-![](http://www.wizards.com/sideboard/images/gpmil02/884.jpg)You can tell who was supposed to win this match before it even started, but games get played on beaten-up wooden tables with nice cloth covers with spectators standing around, not on paper.
+![](http://www.wizards.com/sideboard/images/gpmil02/884.jpg)
+
+You can tell who was supposed to win this match before it even started, but games get played on beaten-up wooden tables with nice cloth covers with spectators standing around, not on paper.
 
 Reeves won the roll, though Huey suspiciously used a different die than him. Jensen turned up a "1." "That's what you get," said Reeves, and the match was underway.
 
 The first play came from Huey with a turn-four Duress that took a Fact or Fiction revealing Probe, 2x Logic, Force Spike, and Cephalid Coliseum. The following turn Reeves dropped a Psychatog. Huey tried a Flametongue to which Reeves pitched a Force Spike so he could have enough cards in graveyard to Circular Logic the FTK.
 
-![](http://www.wizards.com/sideboard/images/gpmil02/886.jpg)Pyschatog got in only one hit before it was Hobbled. Reeves went for a Probe the next turn and had it Memory Lapsed. Huey saw his opening and cast Battle of Wits. Reeves used his last mana to Circular Logic, but Huey had Counterspell backup, and they were off to game two.
+![](http://www.wizards.com/sideboard/images/gpmil02/886.jpg)
+
+Pyschatog got in only one hit before it was Hobbled. Reeves went for a Probe the next turn and had it Memory Lapsed. Huey saw his opening and cast Battle of Wits. Reeves used his last mana to Circular Logic, but Huey had Counterspell backup, and they were off to game two.
 
 Baby Huey 1- Neil Reeves 0
 
@@ -146,7 +150,9 @@ The Psychatog stayed on the table, and Huey had no white mana to play his Absorb
 
 Baby Huey 1- Neil Reeves 1
 
-![](http://www.wizards.com/sideboard/images/gpmil02/885.jpg)Game three, while there was much written on my notes, very little happened. Duresses traded, two from Reeves one from Huey, and Huey added an Addle for good measure. 
+![](http://www.wizards.com/sideboard/images/gpmil02/885.jpg)
+
+Game three, while there was much written on my notes, very little happened. Duresses traded, two from Reeves one from Huey, and Huey added an Addle for good measure. 
 
 Huey tossed down a Shadowmage Infiltrator and began the swinging. Reeves took point after point from Finkel until Reeves was able to force through a Fact or Fiction. 'Tog or no was the split, and Reeves opted for two lands, Gainsay and Counterspell. Reeves' next Fact or Fiction came a couple turns later, after he had fallen to 12 from the Infiltrator. This FoF was split the same way but Reeves felt it was time to run the 'Tog.
 

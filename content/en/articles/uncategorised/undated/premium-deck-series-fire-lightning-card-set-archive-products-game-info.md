@@ -48,7 +48,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/88/31/8831b34530e19975319e324aec335717721c49c1ee043f8e9f9b8aabbe3529d6.png)This set features sixty premium cards, including six rares. You also get a special-edition Spindown™ life counter, foil deck box, strategy insert, and a Magic learn-to-play guide. Each card is foil, black-bordered, and tournament-legal for any format in which it's legal.
+![](https://i.ormos.uk/88/31/8831b34530e19975319e324aec335717721c49c1ee043f8e9f9b8aabbe3529d6.png)
+
+This set features sixty premium cards, including six rares. You also get a special-edition Spindown™ life counter, foil deck box, strategy insert, and a Magic learn-to-play guide. Each card is foil, black-bordered, and tournament-legal for any format in which it's legal.
 
 **Set Name:** *Premium Deck Series: Fire & Lightning*  
 **Number of Cards:** 60

@@ -86,7 +86,9 @@ Round 7.
 
 A Chromatic Sphere squared off against a Bonesplitter on turn 1 and Frank accelerated his mana with a Talisman while Wilfried filtered some mana through his Sphere to cast Spikeshot Goblin off his Islands and Plains.
 
-![Wilfried Ranque](https://www.wizards.com/sideboard/images/gplyo03/935.jpg "Wilfried Ranque")A Needlebug tried to ambush the Spikeshot Goblin the next turn but a timely Shatter kept the pinger alive, although it did waste Wilfried's turn. Frank's next creature was a Yotian Soldier which he immediately equipped with the Bonesplitter. Next up were Soldier Replica's on both sides as the players were still jockeying for position in this slow paced game. Frank finally got some damage in the next turn with the 3/4 Soldier.
+![Wilfried Ranque](https://www.wizards.com/sideboard/images/gplyo03/935.jpg "Wilfried Ranque")
+
+A Needlebug tried to ambush the Spikeshot Goblin the next turn but a timely Shatter kept the pinger alive, although it did waste Wilfried's turn. Frank's next creature was a Yotian Soldier which he immediately equipped with the Bonesplitter. Next up were Soldier Replica's on both sides as the players were still jockeying for position in this slow paced game. Frank finally got some damage in the next turn with the 3/4 Soldier.
 
 The game got a little more interesting over the next few turns as Frank got on the board with the Clockwork Lava Axe and Wilfried played a second mountain with a second Spikeshot Goblin to go with it. The Goblins were having a hard time actually dealing with Frank's creatures though as they both had a toughness of 3.
 
@@ -96,6 +98,8 @@ Wilfried 1 - Frank 0
 
 ### Game 2
 
-![Frank Karsten](https://www.wizards.com/sideboard/images/gplyo03/934.jpg "Frank Karsten")This game didn't start out quite as fast paced as Wilfried didn't play anything till turn four when he got his Goblin ReplicaElectrostatic Bolted. Frank in the meanwhile wasn't doing much of anything off his mulligan either. Clockwork Condor came down again with a Greaves to back it up. Wilfried's slow start turned out ok when he played a Cathodion and then equipped it with Empyrial Plate the turn after to attack for 7. Another attack for 8 and Frank had to come up with something fast. Although, if he found a way to deal with the Cathodion he was looking great against Wilfried's hand of five assorted basic lands. A Skeleton Shard could provide him with an endess stream of chumpers but Wilfried topdecked the Shatter. He drew another land the turn after but Frank eventually ran out of chumpers and succumbed to the enormous Cathodion.
+![Frank Karsten](https://www.wizards.com/sideboard/images/gplyo03/934.jpg "Frank Karsten")
+
+This game didn't start out quite as fast paced as Wilfried didn't play anything till turn four when he got his Goblin ReplicaElectrostatic Bolted. Frank in the meanwhile wasn't doing much of anything off his mulligan either. Clockwork Condor came down again with a Greaves to back it up. Wilfried's slow start turned out ok when he played a Cathodion and then equipped it with Empyrial Plate the turn after to attack for 7. Another attack for 8 and Frank had to come up with something fast. Although, if he found a way to deal with the Cathodion he was looking great against Wilfried's hand of five assorted basic lands. A Skeleton Shard could provide him with an endess stream of chumpers but Wilfried topdecked the Shatter. He drew another land the turn after but Frank eventually ran out of chumpers and succumbed to the enormous Cathodion.
 
 Wilfried 2 - Frank 0

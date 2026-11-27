@@ -169,7 +169,9 @@ Schneider の変異を《ゴブリンの盗賊》をプレイした上で《火�
 　沼二枚、山一枚と事後り気味だった長岡を、一気に崖から突き落とす《不毛化》が  
  炸裂する。これが実に効いた。効いてしまった。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a870.jpg)　満を持して《岩乗り》が攻撃。長岡は違和感を感じたのか《墓所スリヴァー》を残し、《ゴブリンの裏切り者》と《ただれたゴブリン》でブロック。Long は無念気味に《ゴブリンの裏切り者》に《陽光の突風/[Solar Blast](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)》のサイクリング効果を叩き込むが、《ゴブリンの裏切り者》は《ただれたゴブリン》を生け贄に再生を行い、特に何事も起こらず。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a870.jpg)
+
+　満を持して《岩乗り》が攻撃。長岡は違和感を感じたのか《墓所スリヴァー》を残し、《ゴブリンの裏切り者》と《ただれたゴブリン》でブロック。Long は無念気味に《ゴブリンの裏切り者》に《陽光の突風/[Solar Blast](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)》のサイクリング効果を叩き込むが、《ゴブリンの裏切り者》は《ただれたゴブリン》を生け贄に再生を行い、特に何事も起こらず。
 
 　Long は《海辺のレインジャー/[Shoreline Ranger](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shoreline+Ranger)》を召還する。
 

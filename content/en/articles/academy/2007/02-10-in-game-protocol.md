@@ -146,7 +146,9 @@ There are different reasons (both are fairly marginal... I outlined a case for t
 
 *5\. End Phase*
 
-![Time_Stop](https://i.ormos.uk/86/f3/86f3fc6013a4a1fe7b234cdd037864cc42f43e27f29bf699f6ec7dfca74c3998.jpg)End of Turn step: Of course, barring any mandatory effects, or an opponent’s intention to play a spell or ability, you can end your turn whenever you wish simply by saying “go”, or “done.” Careful; once you vocalize your intention to end your turn, there’s no turning back if your opponent doesn’t do anything either.
+![Time_Stop](https://i.ormos.uk/86/f3/86f3fc6013a4a1fe7b234cdd037864cc42f43e27f29bf699f6ec7dfca74c3998.jpg)
+
+End of Turn step: Of course, barring any mandatory effects, or an opponent’s intention to play a spell or ability, you can end your turn whenever you wish simply by saying “go”, or “done.” Careful; once you vocalize your intention to end your turn, there’s no turning back if your opponent doesn’t do anything either.
 
 While sometimes you will want to play an effect during your own End of Turn step, it is rare. If you wish to do so, announce that as you come into the phase. Generally, this step is reserved for your opponent, who now has a chance to play instants knowing that you can no longer play sorceries or creatures, and that they will get to untap soon. 
 

@@ -221,7 +221,9 @@ render_recovery:
   - Skirk Drill Sergeant
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a830.jpg)　ドラフトといえば Gary Wise とそういうイメージがあるがそのドラフト界の大御所に挑むのはフィーチャーマッチは初めてだというアメリカの新鋭 Matthew Cory 。経験が勝つか勢いが勝つか興味深いところである。
+![](http://www.wizards.com/sideboard/images/ptyok03/a830.jpg)
+
+　ドラフトといえば Gary Wise とそういうイメージがあるがそのドラフト界の大御所に挑むのはフィーチャーマッチは初めてだというアメリカの新鋭 Matthew Cory 。経験が勝つか勢いが勝つか興味深いところである。
 
 　Wise は黒緑のゾンビデック Cory は《貪欲なるベイロス/Ravenous Baloth》が入った赤緑のビーストデッキである。
 
@@ -239,7 +241,9 @@ Cory も《樹を跳ねるロリアン/Treespring Lorian》《乱打する岩角
 
 **Game 2**
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a829.jpg)　先手 Cory は《岩石樹の発動者/Stonewood Invoker》でスタート。これは Wiseの《ゴブリンの裏切り者/Goblin Turncoat》と相打ちになるが、さらに変異を呼んで Gary が召喚した《ワイアウッドの野人/Wirewood Savage》をさきほど呼んでいた変異の《スカークの匪賊/Skirk Marauder》を表に向けて除去。序盤は Cory のペースで進む。
+![](http://www.wizards.com/sideboard/images/ptyok03/a829.jpg)
+
+　先手 Cory は《岩石樹の発動者/Stonewood Invoker》でスタート。これは Wiseの《ゴブリンの裏切り者/Goblin Turncoat》と相打ちになるが、さらに変異を呼んで Gary が召喚した《ワイアウッドの野人/Wirewood Savage》をさきほど呼んでいた変異の《スカークの匪賊/Skirk Marauder》を表に向けて除去。序盤は Cory のペースで進む。
 
 　Wise のほうは《金切り声のノスリ/Screeching Buzzard》、《煤羽の群れ/Sootfeather Flock》と呼び飛行での早期決着を狙うが、《煤羽の群れ/Sootfeather Flock》は《狙いすましたなだれ/Pinpoint Avalanche》で除去されてしまいうまくいかない。
 
@@ -253,7 +257,9 @@ Cory も《樹を跳ねるロリアン/Treespring Lorian》《乱打する岩角
 
 先行のWise は《墓所スリヴァー/Crypt Sliver》を呼ぶが、Cory は2ターン目に《岩石樹の発動者/Stonewood Invoker》をあえて呼ばず《墓所スリヴァー》のアタックを誘う。そして、《活力の魔除け/Vitality Charm》のトークンで相打ちにとることに見事成功する。
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a828.jpg)Wise のデッキはサイズの小さなクリーチャーが多く、Cory のビースト軍団を止めることができる数少ないクリーチャーである《墓所スリヴァー/Crypt Sliver》をこのうまいプレイで除去したことはこの3本目の勝敗に大きく影響することとなった。
+![](http://www.wizards.com/sideboard/images/ptyok03/a828.jpg)
+
+Wise のデッキはサイズの小さなクリーチャーが多く、Cory のビースト軍団を止めることができる数少ないクリーチャーである《墓所スリヴァー/Crypt Sliver》をこのうまいプレイで除去したことはこの3本目の勝敗に大きく影響することとなった。
 
 この後はお互い変異を出し合うが、Wise の《皮を剥ぐ者/Skinthinner》を変異のうちに相打ちを取り Cory 有利かと思われたが次のターン Wise は5マナ残したままターンを Cory に返す。もちろん《残酷な蘇生/Cruel Revival》をもっているという意思表示であり Cory の《樹を跳ねるロリアン/Treespring Lorian》は除去され《皮を剥ぐ者/Skinthinner》を回収されてしまう。
 

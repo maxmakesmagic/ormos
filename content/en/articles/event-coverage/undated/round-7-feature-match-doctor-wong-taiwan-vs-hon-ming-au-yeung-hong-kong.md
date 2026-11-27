@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Josh Bennett* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/images/PortWong.jpg)Hon Ming Au Yeung has a reputation as an incredible drafter. This is evidenced by his consistently strong finishes in the draft portion of Worlds. He matches up this round against the exciting Doctor Wong, who made Top 8 at last year's APAC Championships. The winner of this match will advance to Day Two. The loser will have to be content with offering congratulations. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/images/PortWong.jpg)
+
+Hon Ming Au Yeung has a reputation as an incredible drafter. This is evidenced by his consistently strong finishes in the draft portion of Worlds. He matches up this round against the exciting Doctor Wong, who made Top 8 at last year's APAC Championships. The winner of this match will advance to Day Two. The loser will have to be content with offering congratulations. 
 
 Doctor Wong had a perfect mana draw, but was light on threats. His Phyrexian Slayer was Shackled. His Caldera Kavu traded with one of the Serpentine persuasion. Au Yeung hit his sixth mana and started to drop houses. First there was Sulam Djinn, then a slim-by-comparison Wayfaring Giant. It was a mere 3/5 owing to an absence of Islands for Au Yeung. 
 

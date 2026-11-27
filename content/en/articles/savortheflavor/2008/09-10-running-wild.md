@@ -96,7 +96,9 @@ Aggressive to the core, Wild Nacatl plays well with lands that are both Plains a
 
 World-Building Basics
 
-![](http://wizards.com//mtg/images/daily/stf/stf3_tgjdfzse.jpg)At the end of last summer, creative lead Brady Dommermuth and the rest of the **Magic** creative team had already done a lot of world-building on the Alara setting when additional writers were set loose on the set. I wasn't on the creative team yet, but working as an outside writer, I was assigned the jungle shard of Naya and given these precepts as a starting line:
+![](http://wizards.com//mtg/images/daily/stf/stf3_tgjdfzse.jpg)
+
+At the end of last summer, creative lead Brady Dommermuth and the rest of the **Magic** creative team had already done a lot of world-building on the Alara setting when additional writers were set loose on the set. I wasn't on the creative team yet, but working as an outside writer, I was assigned the jungle shard of Naya and given these precepts as a starting line:
 
 *   Naya is a glorious jungle empire where huge behemoths roam and are worshiped by the inhabitants.
 *   Unifying concept: Abundance—of life, of wealth, of emotion

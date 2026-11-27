@@ -186,7 +186,9 @@ What do you get when you cross a tree with a mutant wizard?
 
 Time to get a new watch.
 
-![Sheltering_Ancient](https://i.ormos.uk/8e/fa/8efa790418639a6b2ef6d2801efbac3ee1835006c0f99867aa09b043fd23d9d8.jpg)Hmm. I don't think I did that right. How about I turn things over to Geo, who had a better answer. Here's what Geo had to say:
+![Sheltering_Ancient](https://i.ormos.uk/8e/fa/8efa790418639a6b2ef6d2801efbac3ee1835006c0f99867aa09b043fd23d9d8.jpg)
+
+Hmm. I don't think I did that right. How about I turn things over to Geo, who had a better answer. Here's what Geo had to say:
 
 “Anyway, I was reading your last article, and I felt in the mood to build a deck around some 'bad' cards. I quickly remembered [Sheltering Ancient](https://web.archive.org/web/20060823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sheltering+Ancient) ... that card nearly drove me insane, trying to figure out a way to get all those counters on to my own creatures. I gave up on that and figured, if I can't put them on my creatures, I'll just take my opponent's creatures. How? [Cytoplast Manipulator](https://web.archive.org/web/20060823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cytoplast+Manipulator), of course. With that many +1/+1 counters on the other side of the field, what else could I use? With a little work, I got a decklist up and running.”
 

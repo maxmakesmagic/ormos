@@ -301,7 +301,9 @@ Rob brought Angry Hermit to the table, a deck that was weakened by the loss of E
 
 ### Game 1
 
-![Jin Okamoto vs Rob Dougherty](http://www.wizards.com/sideboard/images/ptno03/979.jpg "Jin Okamoto vs Rob Dougherty")The players shuffled up in silence. In between them, flanking the red zone, sit two small pumpkins in honor of Halloween. They rolled for first, with Jin taking it with a 17 and duly choosing to play. Good lucks were exchanged, and the players dealt out their hands.
+![Jin Okamoto vs Rob Dougherty](http://www.wizards.com/sideboard/images/ptno03/979.jpg "Jin Okamoto vs Rob Dougherty")
+
+The players shuffled up in silence. In between them, flanking the red zone, sit two small pumpkins in honor of Halloween. They rolled for first, with Jin taking it with a 17 and duly choosing to play. Good lucks were exchanged, and the players dealt out their hands.
 
 Jin looked thoughtfully at his hand for a while before choosing to keep. On his first turn he proceeded to use most of it: Mountain, Chrome Mox (pitching Goblin Ringleader), leading into Skirk Prospector, Mogg Fanatic. Dougherty's first turn consisted of simply a Llanowar Wastes.
 
@@ -319,7 +321,9 @@ While sideboarding, Jin pulled out an assortment of Goblins (Gempalm Incinerator
 
 ### Game 2
 
-![Rob Dougherty ships it back](http://www.wizards.com/sideboard/images/ptno03/980.jpg "Rob Dougherty ships it back")Rob checked out his hand, sighed, and then announced that he'd keep it. Jin, staring at a hand of lands, Chrome Mox, Oblivion Stone and Goblin Piledriver, opted to ship his hand back for a new six.
+![Rob Dougherty ships it back](http://www.wizards.com/sideboard/images/ptno03/980.jpg "Rob Dougherty ships it back")
+
+Rob checked out his hand, sighed, and then announced that he'd keep it. Jin, staring at a hand of lands, Chrome Mox, Oblivion Stone and Goblin Piledriver, opted to ship his hand back for a new six.
 
 Rob again started off with only a land, while Jin mirrored his first turn from last game with Mountain, Chrome Mox, Skirk Prospector, Mogg Fanatic. On end step, however, Rob Vampiric Tutored, fetching Engineered Plague. He imprinted a Chrome Mox with Reanimate and dropped a Plague on Goblins, putting a serious dent in Okamoto's strategy.
 
@@ -339,7 +343,9 @@ Dougherty 1 - Okamoto 1
 
 ### Game 3
 
-![The indomitable Jin Okamoto](http://www.wizards.com/sideboard/images/ptno03/981.jpg "The indomitable Jin Okamoto")Again the players shuffled their decks in silence. Jin drew up and kept a hand of two Goblin Matrons, Chrome Mox, Goblin Charbelcher, and land. Rob was forced to mulligan but kept his next hand of Vampiric Tutor, Reanimate, Chrome Mox, Exhume, and two lands.
+![The indomitable Jin Okamoto](http://www.wizards.com/sideboard/images/ptno03/981.jpg "The indomitable Jin Okamoto")
+
+Again the players shuffled their decks in silence. Jin drew up and kept a hand of two Goblin Matrons, Chrome Mox, Goblin Charbelcher, and land. Rob was forced to mulligan but kept his next hand of Vampiric Tutor, Reanimate, Chrome Mox, Exhume, and two lands.
 
 Jin played Ancient Tomb, Chrome Mox, Goblin Matron, and fetched a Goblin Recruiter. Rob simply lead with his usual start of Llanowar Wastes, go.
 

@@ -335,7 +335,9 @@ I'm much more of a Selesnya guy these days, but hey, this is Gruul Week after al
 
 ### Developing the Gruul
 
-![](https://i.ormos.uk/52/e2/52e2bc522b1a8aa3bc226866e7cee070d9ad34a55180a7d4ffd9b18befab4306.jpg)The Gruul cards came in from design with one goal—bash opponents to death with an array of ever-larger brutes. While it was a refreshing change—the beatdown in *Ravnica* was a combination of Boros's tiny speed and Selesnya's steady growth—it lacked the robustness of the other guilds.
+![](https://i.ormos.uk/52/e2/52e2bc522b1a8aa3bc226866e7cee070d9ad34a55180a7d4ffd9b18befab4306.jpg)
+
+The Gruul cards came in from design with one goal—bash opponents to death with an array of ever-larger brutes. While it was a refreshing change—the beatdown in *Ravnica* was a combination of Boros's tiny speed and Selesnya's steady growth—it lacked the robustness of the other guilds.
 
 Generally we tried to give deckbuilders different routes to take within each guild. Dimir, for example, could try to be a milling deck, a tempo aggro deck, or—assuming it incorporated lots of cards from previous sets—a control deck. Similarly, Orzhov can go the beatdown route, the aggro-control route, the slow bleeder route, or maybe even something else, like reanimator. We want our cards and themes to hint at potential decks, not blatantly spell them out. But Gruul… Gruul wanted to do one thing, and it wanted to do it very well—attack with fatties. It is quite ironic that the least structured of the seven guilds released so far is also the most focused.
 

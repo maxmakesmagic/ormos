@@ -170,7 +170,9 @@ render_recovery:
   - Wall of Blood
   occurrences: 133
 ---
-![](http://www.wizards.com/sideboard/images/gpkc03/a955.jpg)Jon is a relative newcomer to the pro tour after a highly successful career at the JSS level. Jon played at PT Chicago and finished in the money at Nationals.
+![](http://www.wizards.com/sideboard/images/gpkc03/a955.jpg)
+
+Jon is a relative newcomer to the pro tour after a highly successful career at the JSS level. Jon played at PT Chicago and finished in the money at Nationals.
 
 Ken says his fifteen minutes of fame passed a long time ago, as evidenced by his having only two byes at this event. He had three byes not too long ago, the last time limited was played actually.
 
@@ -182,7 +184,9 @@ Ken was unable to find any threats and just kept playing land until his fifth on
 
 Jon did make sure the Slug wouldn’t be used as an attacker or blocker though, slowing it down with Arrest. Ken played a Tel-Jilad Archers to keep his Slug company, as Jon’s quick start appeared to have run out.
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a960.jpg)Ken followed his Archers with a Fangren Hunter, and the 4/4 trampler set out to do what he does best, dominate games. The game appeared to have swung completely in Ken’s favor as he put the Hunter back in the red zone. Serum Tank, Leaden Myr and Clockwork Condor all hit the table for Ken, with him using first the Myr then the Condor to protect the Tank from the ability of his own Slug.
+![](http://www.wizards.com/sideboard/images/gpkc03/a960.jpg)
+
+Ken followed his Archers with a Fangren Hunter, and the 4/4 trampler set out to do what he does best, dominate games. The game appeared to have swung completely in Ken’s favor as he put the Hunter back in the red zone. Serum Tank, Leaden Myr and Clockwork Condor all hit the table for Ken, with him using first the Myr then the Condor to protect the Tank from the ability of his own Slug.
 
 With the card advantage provided by the Tank Ken set out to finish the game quickly. A Sword of Kaldra was attached to the Hunter and he went into the red zone to do nine more damage. Jon’s life total fell to one, but he was ready when the Hunter attacked again.
 
@@ -194,7 +198,9 @@ Jonathan Cassidy 1 – Ken Krouner 0
 
 Ken elected to play to start game two and kept his initial hand of seven cards. Jon seemed displeased with his seven cards and elected to treat them as he would a small trout, he threw them back.
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a958.jpg)The six cards seemed to please him a little more and he led things off with a Golem-Skin Gauntlets. He followed it up with a Hematite Golem.
+![](http://www.wizards.com/sideboard/images/gpkc03/a958.jpg)
+
+The six cards seemed to please him a little more and he led things off with a Golem-Skin Gauntlets. He followed it up with a Hematite Golem.
 
 Ken in the meantime played a lot of Swamps and used them to put a Goblin War Wagon and a Pewter Golem on the table. Shrapnel Blast eliminated the Golem and the War Wagon died when it blocked Jon’s Hematite Golem and he cast Predator’s Strike.
 

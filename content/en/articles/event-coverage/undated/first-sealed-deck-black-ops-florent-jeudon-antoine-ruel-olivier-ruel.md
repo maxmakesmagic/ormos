@@ -41,7 +41,9 @@ render_recovery: []
 
 *   [The Card Pool](https://web.archive.org/web/20211202080925/http://archive.wizards.com/eventarticle.asp?event=PTNY0001&name=943sd1decks#blackops)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/811.jpg)Team Black Ops, consisting of Antoine Ruel, Olivier Ruel and Florent Jeudon, are very experienced when it comes to limited Team Events. They have won the Team Challenge, won this year's Team Grand Prix in Cannes and are current French National Team Champions. In addition to this, the Ruel brothers are on a recent high from last weeks Grand Prix in Porto where Antoine and Olivier faced off against each other in the championship match to decide the winner of the tournament. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/811.jpg)
+
+Team Black Ops, consisting of Antoine Ruel, Olivier Ruel and Florent Jeudon, are very experienced when it comes to limited Team Events. They have won the Team Challenge, won this year's Team Grand Prix in Cannes and are current French National Team Champions. In addition to this, the Ruel brothers are on a recent high from last weeks Grand Prix in Porto where Antoine and Olivier faced off against each other in the championship match to decide the winner of the tournament. 
 
 Team Black Ops was in a jovial mood as they opened their first set of sealed decks. Their moods only improved as they looked at the cards they had been given. They immediately started sorting cards by color, with members of the team announcing any outstanding cards. Power Matrix, Cateran Overlord and Kyren Negotiations were the highlights in Masques. They'd also opened some very solid Rebels although had only a Commander to search. The searchers improved significantly with Nemesis as Olivier pulled a Defiant Falcon and the ultimate Rebel searcher Lin Sivvi. Prophecy's highlight was Jolrael, Empress of Beasts which was added to an already solid Green selection. Black Ops were extremely happy with their selection and didn't try to contain their excitement. 
 

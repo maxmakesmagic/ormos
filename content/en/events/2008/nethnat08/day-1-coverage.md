@@ -199,7 +199,9 @@ Last but not least: The organization of the event is in the hands of the Dutch O
 
     *by Erik van der Laan*
 
-![](https://www.wizards.com/sideboard/images/nethnat08/Dutch-Nats-FM-r1-Boeken-Cornelissen-Photo-3-See-article------for-caption.jpg)Stijn’s name should ring a bell – his brother Kamiel has made quite a name for himself with outstanding results over the years. Stijn is no slouch either and brings a mono-white Kithkin deck to the table. On the other side of the table is another name that should ring a bell: Noah Boeken was an accomplished Magic player, winning the European Championships among other big results, but then decided to try his luck at poker. Having been successful as well in that area of card play, he’s now a ‘famous Dutchman’ due to poker results and related television shows, and after feeling the itch to play those other cards at a high level again he received a special invite to compete. Noah tags a mono-red deck along he build himself but admitted not to have tested properly.
+![](https://www.wizards.com/sideboard/images/nethnat08/Dutch-Nats-FM-r1-Boeken-Cornelissen-Photo-3-See-article------for-caption.jpg)
+
+Stijn’s name should ring a bell – his brother Kamiel has made quite a name for himself with outstanding results over the years. Stijn is no slouch either and brings a mono-white Kithkin deck to the table. On the other side of the table is another name that should ring a bell: Noah Boeken was an accomplished Magic player, winning the European Championships among other big results, but then decided to try his luck at poker. Having been successful as well in that area of card play, he’s now a ‘famous Dutchman’ due to poker results and related television shows, and after feeling the itch to play those other cards at a high level again he received a special invite to compete. Noah tags a mono-red deck along he build himself but admitted not to have tested properly.
 
 Noah rolls a 3 which Stijn trumps by the minimal amount – “Good luck” Noah responds to Stijn’s 4 and the game is underway.
 

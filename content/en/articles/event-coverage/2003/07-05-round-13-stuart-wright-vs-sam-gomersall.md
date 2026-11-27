@@ -44,7 +44,9 @@ archive_source:
   sha256: a20a793a02cfec135d9cdb2755dd68cffa00681e208ddf845fdc7735389b0bae
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a881.jpg)Two more rounds to go and England actually stands a chance of placing someone not named John Ormerod into the Top 8 of a major event for the first time in about a billion years. Sam Gomersall has been quietly racking up a number of money finishes at GP's and PT's, but is still lacking that breakout performance, despite making it onto the train earlier this year. Stuart Wright is a solid English player looking for a chance to prove himself on the international circuit. Gomersall needs to win out to make Top 8 whereas a win here would make it close to a lock for Wright. It will be tough though, as he's running Red-Green against Gomersall's Wake deck. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a881.jpg)
+
+Two more rounds to go and England actually stands a chance of placing someone not named John Ormerod into the Top 8 of a major event for the first time in about a billion years. Sam Gomersall has been quietly racking up a number of money finishes at GP's and PT's, but is still lacking that breakout performance, despite making it onto the train earlier this year. Stuart Wright is a solid English player looking for a chance to prove himself on the international circuit. Gomersall needs to win out to make Top 8 whereas a win here would make it close to a lock for Wright. It will be tough though, as he's running Red-Green against Gomersall's Wake deck. 
 
 ### Game 1
 
@@ -62,7 +64,9 @@ Gomersall [Compulsion](https://web.archive.org/web/20030705000000/https://gather
 
 Wright came back with a second Centaur and then had to try and beat his way through Gomersall's [Moment's Peace](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace). Gomersall was looking strong as [Compulsion](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion) and other card drawing dug through his deck.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a883.jpg)Wright stuck a Guide on the Centaur and bashed. Gomersall hampered his efforts with a [Renewed Faith](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Renewed+Faith). Wright sent a [Hammer](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hammer) to the head.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a883.jpg)
+
+Wright stuck a Guide on the Centaur and bashed. Gomersall hampered his efforts with a [Renewed Faith](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Renewed+Faith). Wright sent a [Hammer](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hammer) to the head.
 
 "Sod it," Gomersall said, flashing back the [Deep Analysis](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) and dropping to precarious 1 life.
 
@@ -76,7 +80,9 @@ Wright came haring in again in the second game: Lavamancer followed by Rootwalla
 
 Wright swung again and the damage was negated with [Moment's Peace](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace). Wright added an Elephant to the mix with [Call of the Herd](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd), giving Gomersall something to ponder. He let it in and gained 5 life with [Renewed Faith](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Renewed+Faith).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a882.jpg)Next turn Gomersall tapped 5 mana for [Mirari](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari) giving Wright a window to batter with his forces. [Unsummon](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unsummon) sent the Guided Lavamancer packing and Gomersall took six plus another off his [City of Brass](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=City+of+Brass) to drop back to 10 life.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a882.jpg)
+
+Next turn Gomersall tapped 5 mana for [Mirari](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari) giving Wright a window to batter with his forces. [Unsummon](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unsummon) sent the Guided Lavamancer packing and Gomersall took six plus another off his [City of Brass](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=City+of+Brass) to drop back to 10 life.
 
 Gomersall laid another land and passed turn with a [Mirari](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari) looking threatening. Wright surged forward again and the damage was prevented by a flashed back [Moment's Peace](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace).
 

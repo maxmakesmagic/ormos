@@ -61,7 +61,9 @@ archive_source:
   sha256: d66e91030802dae135a8b9ad38f389700a98d22f6c836d3d9fe7ec3c67c7b08b
 render_recovery: []
 ---
-![Skaff](https://i.ormos.uk/49/5a/495a99737ec3251de4ae2218efade561549167a25944f77cf106cbca15a56b6b.jpg)“That’s it? Do you have any idea what you could do with five feet of vertical leap?”
+![Skaff](https://i.ormos.uk/49/5a/495a99737ec3251de4ae2218efade561549167a25944f77cf106cbca15a56b6b.jpg)
+
+“That’s it? Do you have any idea what you could do with five feet of vertical leap?”
 
  **[Say a large number.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=48)  
 [Politely try to leave.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=49)**

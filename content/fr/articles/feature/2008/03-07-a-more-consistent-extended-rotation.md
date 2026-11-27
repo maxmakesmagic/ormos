@@ -160,7 +160,9 @@ Vous avez pu remarquer que ce tableau contient quelques noms de code des prochai
 
 *’L’Étendu est composé des sept dernières années d’extensions **Magic** et d’éditions de base.’*
 
-![Crop_Rotation](https://i.ormos.uk/6d/58/6d58a80553d85d518ca52cc0d3f1b010f76c6ccb0f27ddd74a45a22f5cc66335.jpg)Chaque année, quand une nouvelle extension principale sera lancée en automne et deviendra légale en Étendu, les blocs de l’année la plus ancienne encore en Étendu en sortent.
+![Crop_Rotation](https://i.ormos.uk/6d/58/6d58a80553d85d518ca52cc0d3f1b010f76c6ccb0f27ddd74a45a22f5cc66335.jpg)
+
+Chaque année, quand une nouvelle extension principale sera lancée en automne et deviendra légale en Étendu, les blocs de l’année la plus ancienne encore en Étendu en sortent.
 
 *Souffle glaciaire* sortira de l’Étendu en même temps que le bloc *Spirale Temporelle* en 2013, sept ans après l’entrée de *Spirale Temporelle* dans l’Étendu. (La rotation de *Souffle glaciaire* est attachée à celle du bloc *Spirale Temporelle*, comme en Standard.) 
 
@@ -190,7 +192,9 @@ La nouvelle politique de rotation est plus consistance et plus équitable pour c
 
 Après avoir décidé de donner à chaque bloc la même durée de légalité en Étendu, la question devint ‘Combien de temps chaque bloc devrait-il être légal ?’ La popularité de l’Étendu n’a cessé de grandir durant les six dernières années, depuis qu’il s’est séparé il y a plusieurs années de ses racines datant de l’Âge de Pierre, le format ‘Type 1.X’ semblable au Legacy.
 
-![Incremental_Growth](https://i.ormos.uk/77/50/7750dc3b6295087259d93586a6b40a76e1c2dd627b1f7d4f50a689bc8752e6a0.jpg)Durant les six dernières années, le contenu de l’Étendu a oscillé entre six années de cartes et huit années de cartes, et les joueurs ont signalé que cette taille semblait correcte. Il est important pour nous et pour les joueurs que l’Étendu soit très différent du Standard, et très différent du Legacy et du Vintage. L’Étendu s’est vraiment forgé sa propre personnalité.
+![Incremental_Growth](https://i.ormos.uk/77/50/7750dc3b6295087259d93586a6b40a76e1c2dd627b1f7d4f50a689bc8752e6a0.jpg)
+
+Durant les six dernières années, le contenu de l’Étendu a oscillé entre six années de cartes et huit années de cartes, et les joueurs ont signalé que cette taille semblait correcte. Il est important pour nous et pour les joueurs que l’Étendu soit très différent du Standard, et très différent du Legacy et du Vintage. L’Étendu s’est vraiment forgé sa propre personnalité.
 
 La durée de vie moyenne d’un bloc en Étendu a été de sept années, et nous pensons que c’est la bonne durée. Pour maintenir le niveau de jouabilité, puissance, vitesse, équilibre entre les types de decks et le niveau d’interaction de l’Étendu de ces dernières années, nous pensons que nous devrions rester à cette durée de vie moyenne de sept ans qui a bien fonctionné pour le format jusqu’à présent. Le meilleur moyen de garder à l’identique les sensations de l’Étendu est de garder à l’identique la durée de vie moyenne d’un bloc en Étendu : sept ans. 
 

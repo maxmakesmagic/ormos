@@ -676,7 +676,9 @@ So back to red. I'm torn about red decks: On the one hand, red is the color of c
 
 ### Taking the Bull by the Horns
 
-![](https://i.ormos.uk/e0/3a/e03a47800e08105665adf35e99eb4d32a277c341c88e764f90a93191ecb8ddbc.jpg)In response to last week's [character-based decks](/en/articles/houseofcards/2004/07-15-character-building), Cabalist sent in a mono-red Tahngarth deck. Just in time! In total, I could find 32 cards with Tahngarth in the name, flavor text, or art. A good case could be made for a blue-red deck: Fog Elemental goes well with Brawl, while Phantom Warrior and Avizoa go well with Maniacal Rage and Tahngarth's Rage. But that didn't feel right for red week. So instead, I decided to plow straight ahead and smash things. Yeah, that seems red.
+![](https://i.ormos.uk/e0/3a/e03a47800e08105665adf35e99eb4d32a277c341c88e764f90a93191ecb8ddbc.jpg)
+
+In response to last week's [character-based decks](/en/articles/houseofcards/2004/07-15-character-building), Cabalist sent in a mono-red Tahngarth deck. Just in time! In total, I could find 32 cards with Tahngarth in the name, flavor text, or art. A good case could be made for a blue-red deck: Fog Elemental goes well with Brawl, while Phantom Warrior and Avizoa go well with Maniacal Rage and Tahngarth's Rage. But that didn't feel right for red week. So instead, I decided to plow straight ahead and smash things. Yeah, that seems red.
 
 My Tahngarth deck wound up very similar to Cabalist's version. I have more weird one-ofs, like a Squee and a Smash for no particularly compelling reason, while Cabalist's deck went with fours across the board. The main difference in card choice was that I don't include any Tahngarth's Rages (why? WHY? *WHY?!?*), opting for Brawls instead. Brawl is very Tahngarthy in terms of ability, and it interacts well with size-boosting enchantments and creatures with attack restrictions—both of which are included in the deck. Who cares if a Maniacally Raged creature can't block or Mogg Conscripts can't attack if they've already picked off your opponent's creatures in a chair-throwin', nose-punchin', barn-burnin' scrum?
 

@@ -152,7 +152,9 @@ Another interesting quirk is that everyone's votes are made public. There is no 
 
 Here are the first four people I cast votes for - my votes are already logged and final… no going back now!
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/WORLDS2000/images/471.jpg)**Jon Finkel**. The no-brainer. I first met Finkel when I was still a PTQ-playing scrub and Randy Buehler brought him by the student union at the University of Pittsburgh for some practice drafts prior to US Nationals one year. My circle of **Magic** playing friends and I were pretty awe-stricken that Jon Finkel was in our building playing with us, and we were even more impressed when he fanned through his second pack and announced that the guy to his right had taken either Muscle Sliver or Pacifism, and he was right. We hadn't heard of print runs yet.
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/WORLDS2000/images/471.jpg)
+
+**Jon Finkel**. The no-brainer. I first met Finkel when I was still a PTQ-playing scrub and Randy Buehler brought him by the student union at the University of Pittsburgh for some practice drafts prior to US Nationals one year. My circle of **Magic** playing friends and I were pretty awe-stricken that Jon Finkel was in our building playing with us, and we were even more impressed when he fanned through his second pack and announced that the guy to his right had taken either Muscle Sliver or Pacifism, and he was right. We hadn't heard of print runs yet.
 
 Years later I lost to Finkel at Nationals, but ended up winning a slot next to him on the US Team. It was amazing to watch Finkel mow through the competition on the way to becoming World Champion, and it was an honor being on the winning team with him. 
 
@@ -162,7 +164,9 @@ Hovi has played in big events as recently as 2004, and even though he's not fini
 
 **Darwin Kastle**. Tons of points, tons of events played. Lots of Top 8's and a team Pro Tour win. Hard to argue against him in any way. I can appreciate the “body of work,” and feel the need to reward longevity of Darwin's degree.
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/usnat02/911.jpg)**Rob Dougherty**. Rob, like Darwin, has a long fantastic career. Plus, he's a wonderful tournament organizer and store owner. He's everything I want a Hall of Famer to be.
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/usnat02/911.jpg)
+
+**Rob Dougherty**. Rob, like Darwin, has a long fantastic career. Plus, he's a wonderful tournament organizer and store owner. He's everything I want a Hall of Famer to be.
 
 Is it weird voting for two members of the same team? Heck, I almost voted for all three. Although my roots are with Team CMU and our relationship with Your Move Games was competitive and sometimes antagonistic, YMG have been pillars of the pro community. I can see myself voting for Dave Humpherys next year.
 
@@ -182,7 +186,9 @@ From a meeting between then-Deputy Commissioner of Baseball Fay Vincent and Reuv
 
 * * *
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/usnat02/807.jpg)How does the company stand on the issue of Mike Long—a man who has transcended mortality and become the Essence of Cheating in many players' eyes—getting into the Hall of Fame?
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/usnat02/807.jpg)
+
+How does the company stand on the issue of Mike Long—a man who has transcended mortality and become the Essence of Cheating in many players' eyes—getting into the Hall of Fame?
 
 The company allowed him to be eligible. The powers-that-be could have easily said that anyone ever suspended by the DCI is ineligible for the Hall of Fame, much like how the powers-that-be in baseball said that Rose and Shoeless Joe Jackson are ineligible for the Baseball Hall of Fame based on their actions. The issue of Rose and Jackson never gets to be decided by the voters, although many baseball writers swear they'd vote for him if given the chance.
 
@@ -194,7 +200,9 @@ It's not that I like his cheating—far from it. I actually despise that. What I
 
 Shawn “Hammer” Regnier taunting Tommy Guevin to the point where Guevin allegedly throws up is hardly sportsmanlike. Dave Price's “death stare” or refusal to ever wish an opponent good luck are hardly sportsmanlike. Chris Pikula's “pumping the fist” at his opponent's mulligans is hardly sportsmanlike. But we'd all vote for those guys in a heartbeat, claiming they were all great sports.
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/ptnag05/b4.jpg)I like antics. Even when I was playing, I could appreciate a good piece of showmanship, even at my own expense. Incidents like Randy Buehler flipping out on Sigurd Eskeland at Worlds or Osyp Lebedowicz tearing a card in half during a draft would never be confused with cheating, and they make for fantastic stories that anyone who was there will remember for a long time. As I said in BDM's forums, “When the PT is a bunch of bookish silent prudes, I no longer care what happens.” Where art thou, Peter Szigeti?
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/ptnag05/b4.jpg)
+
+I like antics. Even when I was playing, I could appreciate a good piece of showmanship, even at my own expense. Incidents like Randy Buehler flipping out on Sigurd Eskeland at Worlds or Osyp Lebedowicz tearing a card in half during a draft would never be confused with cheating, and they make for fantastic stories that anyone who was there will remember for a long time. As I said in BDM's forums, “When the PT is a bunch of bookish silent prudes, I no longer care what happens.” Where art thou, Peter Szigeti?
 
 Long was good at that stuff. I had to play him in the Top 8 of Nationals 2000 and it was memorable in every way. As a bonus, there was no cheating. If every match everyone had to play against Mike Long was like that one, I'm certain he'd be in the Hall of Fame.
 

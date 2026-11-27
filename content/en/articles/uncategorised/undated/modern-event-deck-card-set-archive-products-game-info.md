@@ -47,7 +47,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/02/20/0220e6ba78d77f4fca7bbd171e5cb77d69f0aa1cf382703fbe62c74cbd8bb913.png)Get started with the deep-strategy Modern format in style! Draw on rare, high-powered Magic cards from past sets with this tightly constructed 60-card deck. Also includes a 15-card sideboard, strategy guide, Spindown life counter, 80 exclusive card sleeves, 5 double-sided tokens, and a deck box.
+![](https://i.ormos.uk/02/20/0220e6ba78d77f4fca7bbd171e5cb77d69f0aa1cf382703fbe62c74cbd8bb913.png)
+
+Get started with the deep-strategy Modern format in style! Draw on rare, high-powered Magic cards from past sets with this tightly constructed 60-card deck. Also includes a 15-card sideboard, strategy guide, Spindown life counter, 80 exclusive card sleeves, 5 double-sided tokens, and a deck box.
 
 **Set Name:** *Modern Event Deck*
 

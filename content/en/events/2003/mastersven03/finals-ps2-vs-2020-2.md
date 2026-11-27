@@ -139,7 +139,9 @@ render_recovery:
   - Trickery Charm
   occurrences: 132
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a352.jpg)Elijah Pollock likes to project an easygoing attitude. He's certainly friendly to everyone he meets and rarely gets broken up about a loss. Even after 2020 got beaten in the finals of Pro Tour – Boston, he was wearing his usual grin. Now, though, once again so close to a big title, he's a little nervous. Not so for Masahiko Morita. He's been through four Japanese Grand Prix finals and has grown used to the sting of defeat. Which isn't to say that he's not excited to be here. He'd like nothing better than to have a Japanese team win the Masters. His hair drooped over his face, hiding his quick, observant eyes. Pollock's fast red-green deck is thought to be 2020's best, but Morita's black-green has more than his fair share of beats. If the game goes long, Pollock will need to pull a falter before Morita's fat overwhelms him.
+![](http://www.wizards.com/sideboard/images/ptven03/a352.jpg)
+
+Elijah Pollock likes to project an easygoing attitude. He's certainly friendly to everyone he meets and rarely gets broken up about a loss. Even after 2020 got beaten in the finals of Pro Tour – Boston, he was wearing his usual grin. Now, though, once again so close to a big title, he's a little nervous. Not so for Masahiko Morita. He's been through four Japanese Grand Prix finals and has grown used to the sting of defeat. Which isn't to say that he's not excited to be here. He'd like nothing better than to have a Japanese team win the Masters. His hair drooped over his face, hiding his quick, observant eyes. Pollock's fast red-green deck is thought to be 2020's best, but Morita's black-green has more than his fair share of beats. If the game goes long, Pollock will need to pull a falter before Morita's fat overwhelms him.
 
 ### Game 1
 
@@ -157,7 +159,9 @@ Morita 1 – Pollock 0
 
 Things were looking bad for Pollock early in Game 2. He had gambled on a two-forest hand and stalled on his third turn. Morita meanwhile had a Wretched Anurid, Nantuko Husk opener. Pollock ate three, then ripped a mountain. Flamewave Invoker stepped up to bat. Morita matched it with Smokespew, then served with Husk and Anurid. The Invokers wound up trading, indirectly.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a351.jpg)Then, another mountain from the top of Pollock's deck. He planted Skirk Drill Sergeant and Sparksmith. Morita dropped Wirewood Savage and then swung in. He traded the Husk for the Sergeant. Pollock untapped and dropped Goblin Grappler, shooting the Savage and replacing it with one of his own. Morita hit for another three and played Screeching Buzzard. Pollock worked his life total, shooting down the Buzzard and discarding his sideboarded Thunder of Hooves (tech!), then played Elvish Warrior. It looked like he was stabilizing.
+![](http://www.wizards.com/sideboard/images/ptven03/a351.jpg)
+
+Then, another mountain from the top of Pollock's deck. He planted Skirk Drill Sergeant and Sparksmith. Morita dropped Wirewood Savage and then swung in. He traded the Husk for the Sergeant. Pollock untapped and dropped Goblin Grappler, shooting the Savage and replacing it with one of his own. Morita hit for another three and played Screeching Buzzard. Pollock worked his life total, shooting down the Buzzard and discarding his sideboarded Thunder of Hooves (tech!), then played Elvish Warrior. It looked like he was stabilizing.
 
 Morita's Anurid swung in again, and this time Pollock chumped with the Grappler. Glowering Rogon hit the table as a 6/6, showing Symbiotic Beast and Krosan Vorine while handing Pollock land number six to go with the Searing Flesh already in hand. The Crown of Fury rip that followed was excellent, effectively giving him six power in first-striking elves.
 

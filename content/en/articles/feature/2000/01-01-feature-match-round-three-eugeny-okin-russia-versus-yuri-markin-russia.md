@@ -63,7 +63,9 @@ Both of these players made top eight in the last Eastern European Grand Prix - i
 
 ### Game One
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/975.jpg)Both players played at an absolutely blinding pace, hardly stopping for a second's thought at any point, which could certainly lead to mistakes.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/975.jpg)
+
+Both players played at an absolutely blinding pace, hardly stopping for a second's thought at any point, which could certainly lead to mistakes.
 
 Yuri started and neither player did anything until turn four, where Yuri had chance to play a [Lightning Angel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel). Eugeny didn't have the mana to counter it as he had drawn only come-into-play-tapped land. The Angel hit three times until it was removed by a [Rout](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rout).
 
@@ -75,7 +77,9 @@ Eugeny Okin 1 - Yuri Markov 0
 
 ### Game Two
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/976.jpg)Yuri brought in a full complement of [Gainsay](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gainsay)s, as did his opponent. Markov completed his sideboarding with a [Disrupt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disrupt), while Okin had two Lobotomies.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/976.jpg)
+
+Yuri brought in a full complement of [Gainsay](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gainsay)s, as did his opponent. Markov completed his sideboarding with a [Disrupt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disrupt), while Okin had two Lobotomies.
 
 Markov took advantage of his opponent's slow start in the second game, by playing a turn two [Meddling Mage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Mage). Okin had to play a [Dromar's Cavern](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dromar%27s+Cavern) on the second turn as it was his only other land, but his [Spectral Lynx](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Lynx) was Fired.
 
@@ -87,7 +91,9 @@ Yuri Markov 1 - Eugeny Okin 1
 
 ### Game Three
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/974.jpg)Both players had good draws in the third game, with bears on the second turn from each. Okin had started and gained tempo advantage with his third turn [Vindicate](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vindicate). He should have attacked with his Lynx first though, as the [Vindicate](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vindicate) tapped him out and he chose not to block Yuri's Legionnaire.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/974.jpg)
+
+Both players had good draws in the third game, with bears on the second turn from each. Okin had started and gained tempo advantage with his third turn [Vindicate](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vindicate). He should have attacked with his Lynx first though, as the [Vindicate](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vindicate) tapped him out and he chose not to block Yuri's Legionnaire.
 
 As it happened he gained little from the [Vindicate](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vindicate) because he had to play a [Dromar's Cavern](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dromar%27s+Cavern) as his fourth land. Removing the Goblin with [Dromar's Charm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dromar%27s+Charm) caused Yuri to play a second Legionnaire and a [Galina's Knight](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Galina%27s+Knight) as well. With the Lynx not attacking the game went through a period where both players only laid lands. Okin tried to clear a path for the Lynx with [Dromar's Charm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dromar%27s+Charm) and [Vindicate](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vindicate), but the [Vindicate](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vindicate) was [Absorb](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Absorb)ed.
 

@@ -88,7 +88,9 @@ render_recovery:
   - Neurok Hoversail
   occurrences: 63
 ---
-![](https://i.ormos.uk/21/87/2187bbf9e223bfbdb12773ae04e6ab4995b84a58cfbe363d1ef4f38d835b6973.jpg)Another three wins and these players will be in the ever-elusive top 8. A position Levy is used to; he had an impressive start yesterday, going 6-0, but he could not sustain it and fell to 7-1. Jonny seems to be a name doing well this weekend, first Wilkinson in the rugby and now the infamous Chapman. Jonny’s deck was very solid topped off with five very good rares whilst the Frenchman’s was very fast.
+![](https://i.ormos.uk/21/87/2187bbf9e223bfbdb12773ae04e6ab4995b84a58cfbe363d1ef4f38d835b6973.jpg)
+
+Another three wins and these players will be in the ever-elusive top 8. A position Levy is used to; he had an impressive start yesterday, going 6-0, but he could not sustain it and fell to 7-1. Jonny seems to be a name doing well this weekend, first Wilkinson in the rugby and now the infamous Chapman. Jonny’s deck was very solid topped off with five very good rares whilst the Frenchman’s was very fast.
 
 Levy won the dice roll and broke out of the blocks stomping. Turn one Bonesplitter followed up by an Alpha Myr and then an Iron Myr. Jonny nullified it with a first turn Leonin Elder, backed up by an AEther Spellbomb. The Elder gained the Englishman four life before attacking and trading with the Iron Myr; it might have been better to have held back and block the equipped Alpha Myr. Levy kept swinging with a Splitted Myr, which dropped Chapman to 15. 
 
@@ -102,7 +104,9 @@ Levy 1 – Chapman 0
 
 Chapman considered boarding in Gary Wises’ choice for second best blue card in the set, Inertia Bubble, but wisdom decided against it.
 
-![](https://i.ormos.uk/1c/17/1c175f292852658102dc77f00889b7ec9d8c29d056975a59811c0e4b694101ec.jpg)Levy kept a one Forest hand going second containing two Alpha Myr and a Frogmite. His first two draws were Longbow and a Mountain. Tight. His board position by turn three consisted of all already mentioned cards. His next draw was another land.
+![](https://i.ormos.uk/1c/17/1c175f292852658102dc77f00889b7ec9d8c29d056975a59811c0e4b694101ec.jpg)
+
+Levy kept a one Forest hand going second containing two Alpha Myr and a Frogmite. His first two draws were Longbow and a Mountain. Tight. His board position by turn three consisted of all already mentioned cards. His next draw was another land.
 
 Jonny started out on defense - a Wizard Replica, followed by its white counterpart, stabilizing the board. The Soldier Replica traded with Levy’s Frogmite, and the board was peaceful again. Levy played a Granite Shard and Jonny tapped out for a Thoughtcast before playing an Island whilst holding Annul. The Frenchan used the Shard, the longbow, all of his mana and all of his men to shoot down the Replica in his next turn.
 
@@ -120,7 +124,9 @@ Heeding Gary’s ‘advice’, Chapman brought the Inertia Bubble in to deal wit
 
 Raphael kept a much slower hand this game – four land, a Scimitar, a Longbow and a Yotian Soldier. Jonny muliganned and kept three land, Bubble, Arrest, Razor Barrier.
 
-![](https://i.ormos.uk/05/60/056033f431be78b5495cf85031b46f365bb3ff636df0fefb8e0ff7c00845e119.jpg)The Frenchman sure drew well, making Alpha Myr and Frogmite on turn three, Chapman replied with a Soldier Replica. The Frogmite was equipped with the Scimitar and swung unheeded and the Yotian was played. Jonny Inerted the Frogmite and passed his turn.
+![](https://i.ormos.uk/05/60/056033f431be78b5495cf85031b46f365bb3ff636df0fefb8e0ff7c00845e119.jpg)
+
+The Frenchman sure drew well, making Alpha Myr and Frogmite on turn three, Chapman replied with a Soldier Replica. The Frogmite was equipped with the Scimitar and swung unheeded and the Yotian was played. Jonny Inerted the Frogmite and passed his turn.
 
 Chapman blocked the Scimitared Yotian with his Replica and sacrificed it to kill he the attacking creature before realizing his miscalculation; the Yotian stayed around. Jonny Arrested the Yotian and made a Spellbomb. A topped Titanium Golem left him back in the game at 13 life to the Frenchman’s untouched 20.
 

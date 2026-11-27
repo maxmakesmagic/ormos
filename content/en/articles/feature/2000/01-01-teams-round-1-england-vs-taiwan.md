@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/400.jpg)Individually the English Team performance had been mixed. One member, Ben Ronaldson, had placed in the top 32 and while Scott Wills would be taking the world standard championship plaque home, poor performances in days 2 and 3 had seen him slip to a lowly 205th. In contrast the Taiwanese performance had been more consistent if uninspiring. Most of their team finished around the 100 mark.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/400.jpg)
+
+Individually the English Team performance had been mixed. One member, Ben Ronaldson, had placed in the top 32 and while Scott Wills would be taking the world standard championship plaque home, poor performances in days 2 and 3 had seen him slip to a lowly 205th. In contrast the Taiwanese performance had been more consistent if uninspiring. Most of their team finished around the 100 mark.
 
 The English champion, Ben Ronaldson, faced off against his counterpart Doctor Wong. Playing White with a splash of Green, Ronaldson started recruiting rebels while his opponent laid mountains and began offence with a lightning hound. A Ridgeline Rager got too angry for its own good and charged in. Rather than deal with it himself a Defiant Vanguard sent for the boss, Cho Manno, to punish the beast's impertinence. The presence of Cho Manno prevented any thought of a ground war so Wong switched to politics and dropped a Kyren Negotiations. Not having a deck quick enough to race Ronaldson was in no mood to negotiate and abolished Wong's enchantment.
 

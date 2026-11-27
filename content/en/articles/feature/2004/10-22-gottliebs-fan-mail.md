@@ -126,7 +126,9 @@ Okay, I know this isn't the most relevant thing to a column supposedly about dev
 
 I admit to taking the random potshot at ol' Gottlieb every now and then, but it's more to get a rise out of him the next morning at work than to undermine any credibility he's building with you, the web audience. You see, I know something many of you may not: Mark Gottlieb is very good at **Magic**.
 
-![](https://i.ormos.uk/c4/6b/c46bde326ce5eeeb499fc3c07ac4cef9b02149be5bdfb5eb4ef291c0c71893f6.jpg)Early last year, when I was running this very website, a certain Mr. Jay Moldenhauer-Salazar informed me that he had had enough of my tyrannical ways and was moving on to greener pastures. With a heavy heart, I sent out the call for replacements for the talented JMS. The best audition came from one Mark L. Gottlieb, former Wizards of the Coast technical editor. As you know now, he got the job. And then he got a different, more important job as a developer in R&D to boot.
+![](https://i.ormos.uk/c4/6b/c46bde326ce5eeeb499fc3c07ac4cef9b02149be5bdfb5eb4ef291c0c71893f6.jpg)
+
+Early last year, when I was running this very website, a certain Mr. Jay Moldenhauer-Salazar informed me that he had had enough of my tyrannical ways and was moving on to greener pastures. With a heavy heart, I sent out the call for replacements for the talented JMS. The best audition came from one Mark L. Gottlieb, former Wizards of the Coast technical editor. As you know now, he got the job. And then he got a different, more important job as a developer in R&D to boot.
 
 Mark, a graduate from MIT with a joint major in Creative Writing and Electrical Engineering (upon hearing this, coworker Worth Wollpert exclaimed, “Get the f#%\* out, for real?!”), worked for a couple of years as an editor for the crossword puzzle department at Random House before getting his first job here at Wizards. And he thinks like the Gamers' Gamer, winning two MIT Mystery Hunts; he also *wrote* two of the darned things, and did his thesis on puzzles as well. If Creativity and Analysis had a kid, it would look like Mark Gottlieb (poor thing). In other words, the guy's no dummy, and that “lack of dumbness” is evident in his deckbuilding.
 
@@ -138,7 +140,9 @@ So there. Moving on…
 
 > 2) You have to be a Pro-level player to work on **Magic**
 
-![](https://i.ormos.uk/b3/53/b353a9c8477f9044d19c17e786db311c96998fbba85b9f9b5e3c5594128f0ded.jpg)You've heard all the names of the players that have been hired here at Wizards. Henry Stern--Top 8 at Worlds 1996. Randy Buehler--Winner, PT Chicago 1997. Worth Wollpert--Top 8, PTLA 1999. Brian Schneider--championship-level deck builder. Matt Place--Winner, PT Mainz. And walking around the halls are Alan Comer (***Magic** Online* programmer), Scott Johns (website manager), and Mike Turian (R&D contractor), who combined have something in the neighborhood of 15 PT Top 8's. There is some serious card-playing talent at this company.
+![](https://i.ormos.uk/b3/53/b353a9c8477f9044d19c17e786db311c96998fbba85b9f9b5e3c5594128f0ded.jpg)
+
+You've heard all the names of the players that have been hired here at Wizards. Henry Stern--Top 8 at Worlds 1996. Randy Buehler--Winner, PT Chicago 1997. Worth Wollpert--Top 8, PTLA 1999. Brian Schneider--championship-level deck builder. Matt Place--Winner, PT Mainz. And walking around the halls are Alan Comer (***Magic** Online* programmer), Scott Johns (website manager), and Mike Turian (R&D contractor), who combined have something in the neighborhood of 15 PT Top 8's. There is some serious card-playing talent at this company.
 
 But none of those people have the position “Designer.” Yes, each of the first five names listed has had at least one card of their devising printed, and most of them have many. But they are all “Developers,” the people that test and fix and massage and clean up the cards that the designers make.
 

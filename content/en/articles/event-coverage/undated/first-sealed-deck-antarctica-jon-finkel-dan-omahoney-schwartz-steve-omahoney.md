@@ -42,7 +42,9 @@ render_recovery: []
 
 *   [The Card Pool](https://web.archive.org/web/20211128032415/http://archive.wizards.com/eventarticle.asp?event=PTNY0001&name=943sd1decks#antarctica)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/938.jpg)Team Antarctica needs no introduction, as it has the world's most famous Magic player: World Champion John Finkel. The other two members of the team, the brothers O'Mahoney-Schwartz (Dan and Steve), are no slouches themselves, as Steve won Pro Tour LA in 1999 and Dan has finished second at Grand Prix Copenhagen. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/938.jpg)
+
+Team Antarctica needs no introduction, as it has the world's most famous Magic player: World Champion John Finkel. The other two members of the team, the brothers O'Mahoney-Schwartz (Dan and Steve), are no slouches themselves, as Steve won Pro Tour LA in 1999 and Dan has finished second at Grand Prix Copenhagen. 
 
 They cracked open the packs and quickly sorted the cards, cutting out immediately unplayable cards (i.e. Whipstiched Zombie) and sorting out the remaining playable cards by color and casting cost. They weren't particularly happy with their cards, as it seemed they got a lot of chaff and only a few great cards. Among the highlights of each color: 
 

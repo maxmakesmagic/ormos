@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 5
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a779.jpg)If Gerard Fabiano was nervous at the start of the match it did not show on his face or in his demeanor as he bantered back and forth with the leader of the team that has never lost a match in sanctioned Team Rochester Draft...
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a779.jpg)
+
+If Gerard Fabiano was nervous at the start of the match it did not show on his face or in his demeanor as he bantered back and forth with the leader of the team that has never lost a match in sanctioned Team Rochester Draft...
 
 ...*ever.*
 
@@ -141,7 +143,9 @@ Kai almost forgot the upkeep effect for his Ernie again but everything was cool.
 
 Kai = 16 Gerard = 1
 
-![](https://i.ormos.uk/1a/d5/1ad5658eaef526d4b205fae39a8bb4b14290755a5dc1151705a6ede138206567.jpg)Gerard was still struggling to manage his limited supply of mana and could not afford to tap his [Werebear](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear). Instead he used [Churning Eddy](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Churning+Eddy) to return the [Erhnam Djinn](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erhnam+Djinn) and *his own* [Island](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) to their respective owner's hands. He replayed the [Island](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) and used it to cast Coral net on the [Rabid Elephant](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rabid+Elephant). Kai chose to pay for the elephant and discarded [Island](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island). When the Elephant came over for the attack Gerard looked sadly at his six card graveyard. If he had threshold he could double block with the 4/4's but his [Werebear](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear) remained a 1/1 and [Ivy Elemental](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ivy+Elemental) took one for the team and gave Gerard threshold. Kai played another [Rabid Elephant](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rabid+Elephant). Gerard made a [Hydromorph Gull](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hydromorph+Gull) and passed the turn.
+![](https://i.ormos.uk/1a/d5/1ad5658eaef526d4b205fae39a8bb4b14290755a5dc1151705a6ede138206567.jpg)
+
+Gerard was still struggling to manage his limited supply of mana and could not afford to tap his [Werebear](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear). Instead he used [Churning Eddy](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Churning+Eddy) to return the [Erhnam Djinn](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erhnam+Djinn) and *his own* [Island](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) to their respective owner's hands. He replayed the [Island](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) and used it to cast Coral net on the [Rabid Elephant](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rabid+Elephant). Kai chose to pay for the elephant and discarded [Island](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island). When the Elephant came over for the attack Gerard looked sadly at his six card graveyard. If he had threshold he could double block with the 4/4's but his [Werebear](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear) remained a 1/1 and [Ivy Elemental](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ivy+Elemental) took one for the team and gave Gerard threshold. Kai played another [Rabid Elephant](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rabid+Elephant). Gerard made a [Hydromorph Gull](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hydromorph+Gull) and passed the turn.
 
 Kai played [Elephant Guide](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Guide) on his [Phantom Tiger](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Tiger) and swung with the team.  
  3 attackers + 2 blockers + 1 point of life = Game 3.
@@ -218,7 +222,9 @@ Kai attacked with his [Rabid Elephant](https://web.archive.org/web/2002092900000
 
 Gerard: "I'm on 5? No blocks."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a780.jpg)Kai added a Stone Tongue Basilisk to his ever-growing army.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a780.jpg)
+
+Kai added a Stone Tongue Basilisk to his ever-growing army.
 
 Kai = 3 Gerard = 2
 

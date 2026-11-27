@@ -82,7 +82,9 @@ render_recovery:
   - Exalted Angel
   occurrences: 38
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a758.jpg)Kyle and Brian are friends from around the Detroit area, so they think it sucks to be sitting here in the feature match area together. Kyle came to the event from Detroit, where he's been playing Magic about three years, or around the time of Mercadian Masques. He qualified at a JSS Challenge Qualifier in Grand Rapids, Michigan with only thirteen people in attendance.
+![](http://www.wizards.com/sideboard/images/natus03/a758.jpg)
+
+Kyle and Brian are friends from around the Detroit area, so they think it sucks to be sitting here in the feature match area together. Kyle came to the event from Detroit, where he's been playing Magic about three years, or around the time of Mercadian Masques. He qualified at a JSS Challenge Qualifier in Grand Rapids, Michigan with only thirteen people in attendance.
 
 Brian is actually from Grand Rapids, where he also qualified for this event. Brian has also been playing since Masques. These two guys are good friends, and right now they're in a weird situation. One of them can draw into the Top 8 after this, the other one is going to need help.
 
@@ -94,7 +96,9 @@ Brian has shown quite clearly that he's playing with blue-green madness. The Mon
 
 Life total down to five, Kyle drew his card. He tapped his mana to play Wrath of God, and Brian responded by tapping one blue mana. Kyle held his breath in trepidation. If that single blue mana was for Circular Logic then this game was over. It wasn't, as Brian cast an Unsummon on his Mongrel. Kyle followed the Wrath with an Astral Slide and appeared to be taking control. A Slice and Dice was cast to kill the Arrogant Wurm that was played through the Mongrel. Mongrel and Wurm went to the graveyard, and a Roar of the Wurm token was killed through the judicious use of Astral Slide.
 
-![](http://www.wizards.com/sideboard/images/natus03/a760.jpg)A second Slide cinched it. There appeared to be no way that Brian could play threats fast enough that they would matter. He placed a Rootwalla and a Merfolk Looter on the table as chump blockers, but they got removed by a cycled Slice and Dice. Game 1 ended with Kyle in complete control.
+![](http://www.wizards.com/sideboard/images/natus03/a760.jpg)
+
+A second Slide cinched it. There appeared to be no way that Brian could play threats fast enough that they would matter. He placed a Rootwalla and a Merfolk Looter on the table as chump blockers, but they got removed by a cycled Slice and Dice. Game 1 ended with Kyle in complete control.
 
 "That's game," Brian remarked as he picked up his cards.
 
@@ -104,7 +108,9 @@ Kyle pulled two copies of Cartographer and one Teroh's Faithful. Two copies of B
 
 "I didn't do well here last year," Kyle commented. "I was playing that bad Wild Research deck. The kid who gave it to me was winning all the time with it, then he got banned for three years."
 
-![](http://www.wizards.com/sideboard/images/natus03/a759.jpg)"Yeah, makes you wonder how it worked for him," Brian joked.
+![](http://www.wizards.com/sideboard/images/natus03/a759.jpg)
+
+"Yeah, makes you wonder how it worked for him," Brian joked.
 
 The game started very slowly. "No turn three play," Kyle commented. "I'm playing control," Brian quipped.
 

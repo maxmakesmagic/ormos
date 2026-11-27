@@ -99,7 +99,9 @@ render_recovery:
   - Pacifism
   occurrences: 93
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a940.jpg)Sooner or later every Sideboard reporter has to do it...
+![](http://www.wizards.com/sideboard/images/ptven03/a940.jpg)
+
+Sooner or later every Sideboard reporter has to do it...
 
 The dreaded Dave Humpherys feature match. In addition to being one of the best players/deck designers Dave is also renowned as one of the slowest players in the world. I took a quick peek at his decklist and saw that he was playing a Patriarch's Bidding/Beast deck. His opponent, Star City columnist Nicolas Labarre flashed me a Withered Wretch and I knew I could be in for a long deliberate match between these 3-0 players.
 
@@ -109,7 +111,9 @@ Many non-basic lands saw play in the first few turns and Nicolas cast Rotlung Re
 
 Rotlung began swinging and Nicolas dropped the combo-licious Cabal Archon. Dave played a Swamp and passed the turn back to the French player. After bringing Dave to 13 Nicolas played the Withered Wretch and passed the turn back with a highly confident, "Go!" Dave cycled a Krosan Tusker at the end of his turn and played a Ravenous Baloth on his turn. Nicolas removed both Maulers and the Tusker from Dave's bin EOT.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a941.jpg)Nicolas played a French printing of Celestial Gatekeeper, which required a translation for Dave, "And it flies...wow!" The parade of the unexpected continued when Dave cast Head Games shuffling Read the Runes, Exalted Angel and Akroma's Vengenace back into Nicolas's deck in favor of three Plains. Dave: "Let's start by giving you a new hand." Nicolas: "That was very surprising..."
+![](http://www.wizards.com/sideboard/images/ptven03/a941.jpg)
+
+Nicolas played a French printing of Celestial Gatekeeper, which required a translation for Dave, "And it flies...wow!" The parade of the unexpected continued when Dave cast Head Games shuffling Read the Runes, Exalted Angel and Akroma's Vengenace back into Nicolas's deck in favor of three Plains. Dave: "Let's start by giving you a new hand." Nicolas: "That was very surprising..."
 
 Nicolas surprised nobody when he played a Plains. He elicited something of a reaction when he played a Graveborn Muse—with Rotlung and Wretch on his team—right off the top of his deck, "C'mon!!! Enough with the cheating already!" Dave also could not do anything about the 2/2 flier, "You tell me it flies...I guess I'm taking it."
 
@@ -129,7 +133,9 @@ Dave – 1 Nicolas –1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptven03/a942.jpg)Nicolas mulliganed a three land hand—only one land making colored mana and a plains with multiple double black spells—but kept his next one with only two plains. Dave was fine and cast a second turn Withered Wretch with the help of Grand Coliseum. Nicolas missed land number three and once he made it he had three plains in play with black cards sitting in hand. Dave cast Read the Runes for two and and pitched another Runes and Infest keeping Baloth and Tusker among other cards. Nicolas was stuck on three plains and cycled an Akroma's Vengenace during Dave's EOT and again during his main phase. He found land #4 but it was an Unholy Grotto. 
+![](http://www.wizards.com/sideboard/images/ptven03/a942.jpg)
+
+Nicolas mulliganed a three land hand—only one land making colored mana and a plains with multiple double black spells—but kept his next one with only two plains. Dave was fine and cast a second turn Withered Wretch with the help of Grand Coliseum. Nicolas missed land number three and once he made it he had three plains in play with black cards sitting in hand. Dave cast Read the Runes for two and and pitched another Runes and Infest keeping Baloth and Tusker among other cards. Nicolas was stuck on three plains and cycled an Akroma's Vengenace during Dave's EOT and again during his main phase. He found land #4 but it was an Unholy Grotto. 
 
 Dave cycled a Tusker and utapped and played a Baloth—his Wretch had done 6 points of damage so far it was time for the big guys to take over. Black mana continued to elude Nicolas and he just passed the turn back to Dave who played Visara. Nicolas had no outs with four land in play and 8 eight life. He played a Starlit Sanctum, which prompted Dave to comment, "And people rode me for playing four colors!" The Sanctum failed to make him forget to attack with everything and Nicolas extended the hand. 
 

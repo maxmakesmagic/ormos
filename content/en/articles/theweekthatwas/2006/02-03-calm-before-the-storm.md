@@ -87,7 +87,9 @@ render_recovery:
 ---
 As you read this, I'm preparing for an exciting **Magic** weekend covering Grand Prix-Richmond – and the debut of *Guildpact* on the tournament scene. Not only is a cadre of Japan's finest currently flying toward Richmond, but there is going to be a car coming straight from Origins 1997 to the venue.
 
-![](https://i.ormos.uk/f6/54/f654d41873b4db169d4131f9c9d4e09bf22888e80e5a4008fd04a6ca9a3dd3d4.jpg)Player of the Year Kenji Tsumura will be looking to shake off his limited Limited reputation with a strong U.S. showing this weekend. Joining him on the flight from Japan are World Champion Katsuhiro Mori, as well as two-time Top 8 competitors Shuhei Nakamura and Tomohiro Kaji. They will be looking for a repeat of last year's Grand Prix-Boston when three Japanese players made the Top 8 and Masashi Oiso hoisted the trophy.
+![](https://i.ormos.uk/f6/54/f654d41873b4db169d4131f9c9d4e09bf22888e80e5a4008fd04a6ca9a3dd3d4.jpg)
+
+Player of the Year Kenji Tsumura will be looking to shake off his limited Limited reputation with a strong U.S. showing this weekend. Joining him on the flight from Japan are World Champion Katsuhiro Mori, as well as two-time Top 8 competitors Shuhei Nakamura and Tomohiro Kaji. They will be looking for a repeat of last year's Grand Prix-Boston when three Japanese players made the Top 8 and Masashi Oiso hoisted the trophy.
 
 Not content with how the young turks have been defending the home turf of late, a group of time travelers are heading to Richmond to show the kids how they did it back in the '90s. Grand Prix-Washington D.C. winner Ben Farkas leads a pack of '90s all-stars that includes Worlds '99 Top 8 competitor Jamie Parke (both former members of Team Sped), the Type II King himself Jason Opalka, Mark Le Pine, and Dan and Steve OMS. Dave Williams and Ken Krouner will also be helping the weary travelers adjust to customs and mores of the future (and no doubt lining up some late night drafts).
 

@@ -678,7 +678,9 @@ It's important to bluff early and often when you're playing "Superabundance." Af
 
 ### Ask and Ye Shall Receive
 
-[![Trash_for_Treasure](https://i.ormos.uk/77/c7/77c7a15c1712bbadcf0febfab19d272e03b4283e343e895af3bb85d40fa9ec4c.jpg)](https://web.archive.org/web/20080804000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Trash%2Bfor%2BTreasure)When you've just played [Friday Night Magic](https://web.archive.org/web/20080804000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/fnm) at your local store and everyone is packing up their fresh Sealed or Draft decks after four rounds of battle, it never hurts to ask the people you've spoken to throughout the night if they have any of the commons you're looking for to fill out your theme deck. A lot of players have been playing the game for years, and these commons will just get lost in a pile of laundry, food, or empty Red Bull cans. One man's trash is another man's treasure!
+[![Trash_for_Treasure](https://i.ormos.uk/77/c7/77c7a15c1712bbadcf0febfab19d272e03b4283e343e895af3bb85d40fa9ec4c.jpg)](https://web.archive.org/web/20080804000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Trash%2Bfor%2BTreasure)
+
+When you've just played [Friday Night Magic](https://web.archive.org/web/20080804000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/fnm) at your local store and everyone is packing up their fresh Sealed or Draft decks after four rounds of battle, it never hurts to ask the people you've spoken to throughout the night if they have any of the commons you're looking for to fill out your theme deck. A lot of players have been playing the game for years, and these commons will just get lost in a pile of laundry, food, or empty Red Bull cans. One man's trash is another man's treasure!
 
 ### Casual *Eventide* Enthusiast
 

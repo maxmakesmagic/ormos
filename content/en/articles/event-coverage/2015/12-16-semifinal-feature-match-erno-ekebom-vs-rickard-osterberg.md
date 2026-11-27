@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/170.jpg)In the semifinals, Erno Ekebom from Finland faced Rickard Österberg from Sweden. Erno has a Pro Tour top 8 performance from 2000 Pro Tour Los Angeles, while Rickard made top 8 in the 2000 Euro Champions - so both are among the best players of their respective countries. "Don't worry if I just pass out," Rickard smiled before starting. The Swede had been fever-ridden throughout the tournament and felt slightly dizzy. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/170.jpg)
+
+In the semifinals, Erno Ekebom from Finland faced Rickard Österberg from Sweden. Erno has a Pro Tour top 8 performance from 2000 Pro Tour Los Angeles, while Rickard made top 8 in the 2000 Euro Champions - so both are among the best players of their respective countries. "Don't worry if I just pass out," Rickard smiled before starting. The Swede had been fever-ridden throughout the tournament and felt slightly dizzy. 
 
 Erno won the die roll and chose to play, and he certainly managed to accelerate his mana. After a turn two Fertile Ground he continued by playing a Harrow so that he had six mana available on turn four - by far enough to play a Duskwalker with kicker. Rickard on the other hand, got a slower start. He played a turn two Rogue Kavu and started attacking, and then he dropped a Hooded Kavu that just hung around by his lands while its Rogue relative did all the work. A Firescreamer also came into play on Rickard's side of the table. 
 

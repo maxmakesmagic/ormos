@@ -48,7 +48,9 @@ render_recovery: []
 
 **Game 1**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a825.jpg)　長い長いデッキチェッキの後に勝負が始まる。大礒のデッキは赤白、対する Benjamin は赤緑。先行を取り、まず《戦場の衛生兵/[Battlefield Medic](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlefield+Medic)》を召還した大礒だが、3 ターン目に土地がとまってしまう。逆に Benjamin は《エルフの戦士/[Elvish Warrior](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior)》から変異と好調な滑り出し。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a825.jpg)
+
+　長い長いデッキチェッキの後に勝負が始まる。大礒のデッキは赤白、対する Benjamin は赤緑。先行を取り、まず《戦場の衛生兵/[Battlefield Medic](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlefield+Medic)》を召還した大礒だが、3 ターン目に土地がとまってしまう。逆に Benjamin は《エルフの戦士/[Elvish Warrior](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior)》から変異と好調な滑り出し。
 
 　だが、1 ターン遅れの土地に出会えた大礒は変異を召還しなんとかキャッチアップ。だが、Benjamin はその隙を見逃さず、すかさず高速展開を行う。《幸運を祈る者/[Wellwisher](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher)》に続けて《樺の知識のレインジャー/[Birchlore Rangers](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birchlore+Rangers)》《エルフの騎手/[Elven Riders](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elven+Riders)》と召還し、この時点で既に場に四体のエルフが。未だ攻撃手段を持たない大礒。二体目となる《戦場の衛生兵/[Battlefield Medic](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlefield+Medic)》を召還し、とりあえずライフを減らせないが減らさない体勢を作ろうと努力する。
 
@@ -62,7 +64,9 @@ render_recovery: []
 
 　ここからは逆に Benjamin が我慢の時だ。序盤の攻勢が嘘のようにただただ土地を引き続ける。《幸運を祈る者/[Wellwisher](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher)》のおかげでライフこそ未だ 40 以上と余裕があるものの、場を完全に制圧され、ライフを減らす一方だ。あげくに、《猛士の襲撃/[Commando Raid](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Commando+Raid)》によって《幸運を祈る者/[Wellwisher](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher)》の命運も尽きてしまう。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a827.jpg)　こうなると力強いのが大礒を守る二体の《戦場の衛生兵/[Battlefield Medic](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlefield+Medic)》。この医療チームの活躍が、Benjamin の動きを縛りに縛る。何しろいくらブロックしようとも、瞬時の治療が行われ、大礒の陣営が減らないのである。《ワイアウッドの伝令/[Wirewood Herald](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Herald)》から《鉤爪の統率者/[Caller of the Claw](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Caller+of+the+Claw)》を取得し、ただひたすら時を待つ。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a827.jpg)
+
+　こうなると力強いのが大礒を守る二体の《戦場の衛生兵/[Battlefield Medic](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlefield+Medic)》。この医療チームの活躍が、Benjamin の動きを縛りに縛る。何しろいくらブロックしようとも、瞬時の治療が行われ、大礒の陣営が減らないのである。《ワイアウッドの伝令/[Wirewood Herald](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Herald)》から《鉤爪の統率者/[Caller of the Claw](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Caller+of+the+Claw)》を取得し、ただひたすら時を待つ。
 
 　そして、エルフ達はついに主君を迎える。《森林の声/[Voice of the Woods](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voice+of+the+Woods)》！　場に並ぶ五体のエルフ。祈りの声が巨大な虫を呼び寄せる。
 
@@ -100,7 +104,9 @@ render_recovery: []
 
 　一方の Benjamin は《幸運を祈る者/[Wellwisher](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher)》から変異、でこの変異が表返って大礒の変異を殺す。そう《スカークの匪賊/[Skirk Marauder](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Marauder)》だ。とても《森林の声/[Voice of the Woods](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voice+of+the+Woods)》とは思えない立ち上がり。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a826.jpg)　だが、大礒もようやく平地を。《炎波の発動者/[Flamewave Invoker](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamewave+Invoker)》《ゴブリンの乱伐者/[Goblin Clearcutter](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Clearcutter)》《戦場の衛生兵/[Battlefield Medic](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlefield+Medic)》から《共同の功績/[Shared Triumph](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shared+Triumph)》（ゴブリン）と並べる。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a826.jpg)
+
+　だが、大礒もようやく平地を。《炎波の発動者/[Flamewave Invoker](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamewave+Invoker)》《ゴブリンの乱伐者/[Goblin Clearcutter](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Clearcutter)》《戦場の衛生兵/[Battlefield Medic](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlefield+Medic)》から《共同の功績/[Shared Triumph](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shared+Triumph)》（ゴブリン）と並べる。
 
 　Benjamin 側にも、二体の《クローサのむさぼり獣/[Krosan Vorine](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Vorine)》、《エルフの騎手/[Elven Riders](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elven+Riders)》と並ぶ。
 

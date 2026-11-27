@@ -53,11 +53,15 @@ archive_source:
   sha256: 3d895ae5e469d8f64f4b0312438daf104b77a3bfde4b35a5abc5d51ada6ee1e8
 render_recovery: []
 ---
-![](https://i.ormos.uk/21/f5/21f5568ad42c87a506228b58f9bf9c31c7a3e8b81fe80154ace21dcb28a0c628.jpg)It's been a long, successful trip for William "Baby Huey" Jensen since his 1998 Top 16 finish at the Junior Super Series, including a Pro Tour Top 8 and a Masters Championship. His Top 8 at last year's Nationals has people thinking this might be his year to make the team. He's certainly an imposing figure, thanks equally to his large physical size and a completely dispassionate attitude to the game at hand.
+![](https://i.ormos.uk/21/f5/21f5568ad42c87a506228b58f9bf9c31c7a3e8b81fe80154ace21dcb28a0c628.jpg)
+
+It's been a long, successful trip for William "Baby Huey" Jensen since his 1998 Top 16 finish at the Junior Super Series, including a Pro Tour Top 8 and a Masters Championship. His Top 8 at last year's Nationals has people thinking this might be his year to make the team. He's certainly an imposing figure, thanks equally to his large physical size and a completely dispassionate attitude to the game at hand.
 
 That's a trait he shares with his opponent this round, Sol Malka. Called "The People's Champion" by some, Malka prefers to let his actions speak of his ability, and he recently did just that at Grand Prix - Tampa, walking away with the title. Today he is with a signature deck "The Million Dollar Man", a black-blue-green goodstuff deck. Jensen is with Psychatog, the most popular deck in the tournament.
 
-![](https://i.ormos.uk/31/b9/31b9cbb09f0d0a72890267d68e8a270aa32cc4eb1e5daef8502e2a56a46aaa0a.jpg)Jensen's secrets were revealed early on by Duress, stealing Duress and seeing a pair of Circular Logics, Gainsay, and Duress, which Malka took. It didn't much matter, as Jensen found another two turns later, and used it to take Fact or Fiction. Shadowmage Infiltrator from Malka drew out the Gainsay, and then the two settled in for some serious Draw-Go.
+![](https://i.ormos.uk/31/b9/31b9cbb09f0d0a72890267d68e8a270aa32cc4eb1e5daef8502e2a56a46aaa0a.jpg)
+
+Jensen's secrets were revealed early on by Duress, stealing Duress and seeing a pair of Circular Logics, Gainsay, and Duress, which Malka took. It didn't much matter, as Jensen found another two turns later, and used it to take Fact or Fiction. Shadowmage Infiltrator from Malka drew out the Gainsay, and then the two settled in for some serious Draw-Go.
 
 Jensen never missed a land drop, bringing Possessed Aven into play on turn nine. He Gainsaid a Fact or Fiction from Malka, but let Pernicious Deed by. It axed the Aven on Jensen's upkeep. Jensen passed it back and Malka decided to strike. He played Call of the Herd. Jensen let it go. He tried a Finkel. Jensen, completely blasé, turned the tables by Recoiling the Call token and stopping the Finkel with Circular Logic. 
 
@@ -67,7 +71,9 @@ Tapping nine, he put down Upheaval. The remaining three let Psychatog rule the e
 
 Jensen 1 - Malka 0
 
-![](http://www.wizards.com/sideboard/images/usnat02/a941.jpg)Malka's deck hit the ground running in the second game. Duress caught Fact or Fiction, and Chainer's Edict stopped Nightscape Familiar. Call of the Herd provided pressure while Jensen laid lands. He even had to let Finkel resolve. But all was not lost. Fact or Fiction gave him Nightscape Familiar and Psychatog. They both came down the next turn.
+![](http://www.wizards.com/sideboard/images/usnat02/a941.jpg)
+
+Malka's deck hit the ground running in the second game. Duress caught Fact or Fiction, and Chainer's Edict stopped Nightscape Familiar. Call of the Herd provided pressure while Jensen laid lands. He even had to let Finkel resolve. But all was not lost. Fact or Fiction gave him Nightscape Familiar and Psychatog. They both came down the next turn.
 
 Malka swung with both his creatures, trading his Infiltrator for four cards in Jensen's graveyard and three more damage. Jensen was far from worried. He matched the flashed back Call with another Psychatog. Still, he had just two cards left in hand. Malka's Disrupting Scepter seemed a coup, particularly when it stripped Upheaval. 
 

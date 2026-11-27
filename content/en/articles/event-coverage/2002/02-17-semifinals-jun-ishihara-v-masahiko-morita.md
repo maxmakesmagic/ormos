@@ -44,7 +44,9 @@ archive_source:
   sha256: e7cdb5dbc5ded6c97726f1817464e6deb1dddf9547ae39f8c56abd0732170554
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpfuku02/885.jpg)Tradition is on amateur Jun Ishihara's side this round. Both of the last two Japanese Grand Prix have been won by amateurs, and Ishihara is gunning to make it three. He squares off against one of Japan's top limited players, Masahiko Morita. Morita is thirsty for a title after losing in the finals of Grand Prix - Shizuoka. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpfuku02/885.jpg)
+
+Tradition is on amateur Jun Ishihara's side this round. Both of the last two Japanese Grand Prix have been won by amateurs, and Ishihara is gunning to make it three. He squares off against one of Japan's top limited players, Masahiko Morita. Morita is thirsty for a title after losing in the finals of Grand Prix - Shizuoka. 
 
 Morita won the right to play first, and powered out [Krosan Archer](https://web.archive.org/web/20020217000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Archer) with [Werebear](https://web.archive.org/web/20020217000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear). He was unwilling to block Ishihara's [Mad Dog](https://web.archive.org/web/20020217000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mad+Dog), fearing his plentiful removal. He Butchered away Ishihara's next play of [Cabal Torturer](https://web.archive.org/web/20020217000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Torturer) before it could mess with his plans.
 

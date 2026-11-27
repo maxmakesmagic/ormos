@@ -253,7 +253,9 @@ render_recovery:
   - Web of Inertia
   occurrences: 332
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a773.jpg)To be frank, 2020 was not favored to take this match. Courtney's Boys had drafted them into three terrible matchups, and it was only the cards they opened that kept it from being a blowout. They knew their position. Sitting down to the table they were not the model of resolve. This did not escape the notice of Reeves, Wise and Maher, who started to work their nerves. They seemed to sap the confidence right out of the Canadians.
+![](http://www.wizards.com/sideboard/images/ptbos02/a773.jpg)
+
+To be frank, 2020 was not favored to take this match. Courtney's Boys had drafted them into three terrible matchups, and it was only the cards they opened that kept it from being a blowout. They knew their position. Sitting down to the table they were not the model of resolve. This did not escape the notice of Reeves, Wise and Maher, who started to work their nerves. They seemed to sap the confidence right out of the Canadians.
 
 Wise versus Wolfman was the first match off the blocks. Wolfman led with his combo of Trained Pronghorn and Spirit Cairn. Wise was without green mana, but still managed a Barbarian Lunatic. Wolfman pounded through and madnessed a Strength of Lunacy for extra damage and a flyer. Petravark removed his only plains. Then came Acorn Harvest to summon attackers, but Wise was behind in the race.
 
@@ -271,7 +273,9 @@ Before their spirits could collapse completely, Wolfman swung for lethal damage 
 
 Maher started his second game with a less-than-spectacular draw. Pollock had Firebolt for Beloved Chaplain, then Twigwaler and Anurid Swarmsnapper. Maher got rid of the big blocker with Coral Net, but Pollock came right back with Grizzly Fate. Patrol Hound caught the second half of Firebolt and then Maher had just Angelic Wall for defense. He was at fourteen and falling fast.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a783.jpg)Wolfman kicked off his Game 2 with Mesmeric Fiend, stealing Petravark over Fiery Temper and Acorn Harvest, then Spirit Cairn. The Harvest started the beats, and the Temper took out Wolfman's Fledgling Imp. He tried Whispering Shade, but Wise hammered again with Seton's Desire and Sonic Seizure for the blocker, leaving Wolfman at twelve. Wise was out of gas, and Wolfman came back with a huge Earsplitting Rats. Wise's plucked Genesis was no use, and then he found two land waiting for him at the top of his deck. Wolfman drew Organ Grinder, speeding up the inevitable, and giving 2020 the first match.
+![](http://www.wizards.com/sideboard/images/ptbos02/a783.jpg)
+
+Wolfman kicked off his Game 2 with Mesmeric Fiend, stealing Petravark over Fiery Temper and Acorn Harvest, then Spirit Cairn. The Harvest started the beats, and the Temper took out Wolfman's Fledgling Imp. He tried Whispering Shade, but Wise hammered again with Seton's Desire and Sonic Seizure for the blocker, leaving Wolfman at twelve. Wise was out of gas, and Wolfman came back with a huge Earsplitting Rats. Wise's plucked Genesis was no use, and then he found two land waiting for him at the top of his deck. Wolfman drew Organ Grinder, speeding up the inevitable, and giving 2020 the first match.
 
 2020 1 - Courtney's Boys 0
 
@@ -289,7 +293,9 @@ The outstanding matches had to wait for the Budde - Fabiano match to end, since 
 
 "I'm out a hundred fifty if I'm out a dime! Have you SEEN me money draft?" - Neil Reeves
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a782.jpg)Rood's match would play out first. Pollock left the Feature Match area. He couldn't bear to watch.
+![](http://www.wizards.com/sideboard/images/ptbos02/a782.jpg)
+
+Rood's match would play out first. Pollock left the Feature Match area. He couldn't bear to watch.
 
 Rood was first on the board with Skywing Aven. Reeves answered with Cephalid Looter. Rood followed up with Hydromorph Guardian. Reeves's Organ Grinder traded with it in combat, and Rood busted out Cephalid Aristocrat. Reeves made a Whispering Shade with one mana up and took five more to fall to eleven. Rood added Aven Fisher and, holding shelter, tried to stay cool.
 

@@ -144,7 +144,9 @@ render_recovery:
   - Zoologist
   occurrences: 91
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a973.jpg)Jon Finkel might be getting all the press, but his partner in crime, Steve OMS, is in the same proverbial boat. Both need 3 Pro Tour points – a top 128 finish – to qualify for Worlds. Steve OMS has been to every PT except for the first three World Championships, and he has no intention of missing any more in the near future.
+![](http://www.wizards.com/sideboard/images/ptnice02/a973.jpg)
+
+Jon Finkel might be getting all the press, but his partner in crime, Steve OMS, is in the same proverbial boat. Both need 3 Pro Tour points – a top 128 finish – to qualify for Worlds. Steve OMS has been to every PT except for the first three World Championships, and he has no intention of missing any more in the near future.
 
 His first round opponent is Brian Hegstad, formerly of Team ABU, but now sponsored by ccghouse.com. Apparently his talent is in high demand.
 
@@ -164,7 +166,9 @@ Hegstad then went on the offensive with Grotesque Hybrid and Dusk Imp. SteveO th
 
 OMS 1 – Hegstad 1
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a974.jpg)SteveO opted to draw, and Hegstad started off with a turn two Mesmeric Fiend, getting to choose from Narcissism, Morbid Hunger, Zombie Assassin, Muscle Burst, and Krosan Avenger. He chose the Avenger, hoping to prevent Steve from getting off to a fast start. It worked; Hegstad had deployed a Famished Ghoul, a Pilgrim, and an Auramancer before Steve got out his Assassin.
+![](http://www.wizards.com/sideboard/images/ptnice02/a974.jpg)
+
+SteveO opted to draw, and Hegstad started off with a turn two Mesmeric Fiend, getting to choose from Narcissism, Morbid Hunger, Zombie Assassin, Muscle Burst, and Krosan Avenger. He chose the Avenger, hoping to prevent Steve from getting off to a fast start. It worked; Hegstad had deployed a Famished Ghoul, a Pilgrim, and an Auramancer before Steve got out his Assassin.
 
 Hegstad cast Tainted Pact and bypassed a Swamp in favor of Patriarch's Desire, which spelled doom for the Assassin.
 

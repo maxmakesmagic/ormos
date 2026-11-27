@@ -663,7 +663,9 @@ These tournaments took place in an environment with access to Wayfarer's Bauble,
 
 I would bet a sizeable amount of money that next year's Nationals will be filled with multicolor decks, even if *Ravnica* and its fabled multicolor themes never arrives. Why? For one simple reason: *9th Edition's* painlands make them possible. 
 
-![](https://i.ormos.uk/0c/3f/0c3f99eb08732f0e29cf4e06dc5cd1bd30f929b721e1f6ba295b7d06230cc5b0.jpg)Of course it's not a fair bet, since *Ravnica* will be arriving, along with another set of [great multi-lands](/en/articles/arcana/2005/08-18-a-special-ravnica-preview). Standard is about to be flooded with deck possibilities that are unheard of prior to *9th Edition's* release. 
+![](https://i.ormos.uk/0c/3f/0c3f99eb08732f0e29cf4e06dc5cd1bd30f929b721e1f6ba295b7d06230cc5b0.jpg)
+
+Of course it's not a fair bet, since *Ravnica* will be arriving, along with another set of [great multi-lands](/en/articles/arcana/2005/08-18-a-special-ravnica-preview). Standard is about to be flooded with deck possibilities that are unheard of prior to *9th Edition's* release. 
 
 “Wait a minute,” you're probably thinking. “I'm a casual gamer, man. I don't need my deck to survive through ten rounds of Swiss pairings. I don't care about being a State Champion. I'm perfectly happy with Coastal Tower over Adarkar Wastes. My Black/White deck is fine with basic land. Take your painland fascism and stuff it. You must not be talking to me.”
 
@@ -757,7 +759,9 @@ So ends my painland plea.
 
 ### Speaking of 9th Edition...
 
-![](https://i.ormos.uk/38/c7/38c7afa9f0688ebbdf4466b0140d2cdc8ebd670662d3335f6aa8ee7468b9bd05.jpg)Not only has *9th Edition* changed the face of multicolor deck possibilities, it has also now reached ***Magic** Online*. As a result, it's time to try out evolving a *9th Edition* preconstructed deck into a fun, respectable deck. 
+![](https://i.ormos.uk/38/c7/38c7afa9f0688ebbdf4466b0140d2cdc8ebd670662d3335f6aa8ee7468b9bd05.jpg)
+
+Not only has *9th Edition* changed the face of multicolor deck possibilities, it has also now reached ***Magic** Online*. As a result, it's time to try out evolving a *9th Edition* preconstructed deck into a fun, respectable deck. 
 
 The problem of course is that *9th Edition* precons are only forty cards. That's twenty cards short of a “normal” constructed deck. I asked Aaron Forsythe why Core Sets had forty-card preconstructed decks instead of the usual sixty-card ones. Here is his response: “They are forty cards mainly to keep the price down. Each is a good intro to the color, and we'd like people to try several out, so we want them to be cheaper. Plus, they *force* you to alter them to have a legal deck, unlike our other precons.”
 

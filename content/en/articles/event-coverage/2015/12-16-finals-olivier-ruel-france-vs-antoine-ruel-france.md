@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Ben Ronaldson* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/218.jpg)If ever there was a great atmosphere for a match it was right here. The tensa-barriers were released so the crowd could move in and the two brothers faced off in deadly silence. Well, in fact they faced off with a barrage of light hearted abuse and I guess we can only be thankful that most of the crowd could not understand French too well. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/218.jpg)
+
+If ever there was a great atmosphere for a match it was right here. The tensa-barriers were released so the crowd could move in and the two brothers faced off in deadly silence. Well, in fact they faced off with a barrage of light hearted abuse and I guess we can only be thankful that most of the crowd could not understand French too well. 
 
 The younger brother, Olivier, was the favourite going into the final with a load of red removal and Alexi, but Antoine had a solid deck too as they had both love drafted next to each other. The elder brother (and shorter) was playing black/white. 
 
@@ -87,7 +89,9 @@ Still knowing he is the underdog Antoine jumps up again and claims that Olivier 
 
 **Game 3** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/219.jpg)This game was over in a flash. By the end all Olivier had drawn was a Fault Riders, a Wandering Eye and a Lunge. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/219.jpg)
+
+This game was over in a flash. By the end all Olivier had drawn was a Fault Riders, a Wandering Eye and a Lunge. 
 
 This is how it went: 
 

@@ -75,7 +75,9 @@ render_recovery:
   - Gravedigger
   occurrences: 18
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a910.jpg)Kai Budde is unbeaten and three points clear of the rest of the field. Unfortunately this means he can't get the one point he needs for Top 8 by simply drawing in, as no one else can afford to yet. He was hoping to be drawn against Patrick Mello so he could concede against his team-mate and then ID in the next round, probably with Olivier Ruel. Unfortunately this round paired him against Ruel. The Frenchman will be a tough prospect as his blue-green deck contains three Wild Mongrel and three Basking Rootwalla. Budde's black-blue deck is pretty solid also and has Jon Finkel himself to help out.
+![](http://www.wizards.com/sideboard/images/gpnap02/a910.jpg)
+
+Kai Budde is unbeaten and three points clear of the rest of the field. Unfortunately this means he can't get the one point he needs for Top 8 by simply drawing in, as no one else can afford to yet. He was hoping to be drawn against Patrick Mello so he could concede against his team-mate and then ID in the next round, probably with Olivier Ruel. Unfortunately this round paired him against Ruel. The Frenchman will be a tough prospect as his blue-green deck contains three Wild Mongrel and three Basking Rootwalla. Budde's black-blue deck is pretty solid also and has Jon Finkel himself to help out.
 
 ### Game 1
 

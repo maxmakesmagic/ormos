@@ -293,7 +293,9 @@ What was once a minor player in the Extended metagame became an eternal fixture 
  1 Savannah  
  4 Flood Plain
 
-![](https://i.ormos.uk/6a/7b/6a7b1a0a7e40ee409e92ea0787c2857fdb8fdc3ccf7bbcd9ef20e2e371f71ca9.jpg)One of Oath's few weaknesses has always been its precarious mana base, solidly four colors and usually composed of nonbasic lands. Flood Plain helped to smooth out the colors, as well as providing powerful interactions with Brainstorm.
+![](https://i.ormos.uk/6a/7b/6a7b1a0a7e40ee409e92ea0787c2857fdb8fdc3ccf7bbcd9ef20e2e371f71ca9.jpg)
+
+One of Oath's few weaknesses has always been its precarious mana base, solidly four colors and usually composed of nonbasic lands. Flood Plain helped to smooth out the colors, as well as providing powerful interactions with Brainstorm.
 
 2 Treetop Village  
  4 Wasteland
@@ -304,7 +306,9 @@ The deck's utility lands are just as important as its mana base, as Treetop Vill
  1 Spike Weaver  
  1 Spike Feeder
 
-![](https://i.ormos.uk/40/b3/40b3cca43c57dd01cef837a9cc894192b2f689c19cc87f29db4bcd19292d570c.jpg)This was the standard Oath package of creatures. Morphling needs little explanation, as it's perhaps the closest to an unstoppable creature **Magic** has ever seen. Spike Weaver served to shut down the opponent's attack phase, and Spike Feeder fended off burn spells by keeping the Oath player's life total high. All three creatures can be sacrificed at a moment's notice to keep Oath of Druids working properly. 
+![](https://i.ormos.uk/40/b3/40b3cca43c57dd01cef837a9cc894192b2f689c19cc87f29db4bcd19292d570c.jpg)
+
+This was the standard Oath package of creatures. Morphling needs little explanation, as it's perhaps the closest to an unstoppable creature **Magic** has ever seen. Spike Weaver served to shut down the opponent's attack phase, and Spike Feeder fended off burn spells by keeping the Oath player's life total high. All three creatures can be sacrificed at a moment's notice to keep Oath of Druids working properly. 
 
 4 Brainstorm  
  4 Impulse
@@ -315,12 +319,16 @@ These two blue instants are far more powerful than first glance might have you b
  4 Force of Will  
  1 Forbid
 
-![](https://i.ormos.uk/02/af/02af3898eaf3df8950fe7d34bee36b0488330045a33c1f2c7bccffbd394acb4d.jpg)Countermagic, plain and simple. Force of Will was particularly powerful in this deck due to its ability to protect an early Oath of Druids from opposing counters or enchantment destruction.
+![](https://i.ormos.uk/02/af/02af3898eaf3df8950fe7d34bee36b0488330045a33c1f2c7bccffbd394acb4d.jpg)
+
+Countermagic, plain and simple. Force of Will was particularly powerful in this deck due to its ability to protect an early Oath of Druids from opposing counters or enchantment destruction.
 
 4 Oath of Druids  
  2 Gaea's Blessing
 
-![](https://i.ormos.uk/8d/96/8d96b3bfdf6b0eb6f3ecdf3d7da73b059182c0663c82595a8bb82668ff3af9ef.jpg)The combination around which the deck was based, Oath of Druids and Gaea's Blessing allow for an infinite creature loop. The Oath can single-handedly shut down opposing creature strategies. Gaea's Blessing not only allowed for Oath recursion, but was also a powerful tool in the control game, allowing for important cards to be recycled back into the deck.
+![](https://i.ormos.uk/8d/96/8d96b3bfdf6b0eb6f3ecdf3d7da73b059182c0663c82595a8bb82668ff3af9ef.jpg)
+
+The combination around which the deck was based, Oath of Druids and Gaea's Blessing allow for an infinite creature loop. The Oath can single-handedly shut down opposing creature strategies. Gaea's Blessing not only allowed for Oath recursion, but was also a powerful tool in the control game, allowing for important cards to be recycled back into the deck.
 
 4 Swords to Plowshares  
  3 Powder Keg  
@@ -346,7 +354,9 @@ Stop Price of Progress Oath of Druids does not. These two cards shore up the hol
 
 4 Call of the Herd
 
-![](https://i.ormos.uk/f6/d0/f6d0e7f3bd2dde245daa5930ce7b41061d8ece55498f7a59c63c51562895ff8f.jpg)When your Oaths aren't getting you anywhere, or you just need to put your opponent on a clock, it's time to call in the Elephants. Also useful against Sligh decks for drawing burn away from your life total, not to mention eating Jackal Pups for lunch.
+![](https://i.ormos.uk/f6/d0/f6d0e7f3bd2dde245daa5930ce7b41061d8ece55498f7a59c63c51562895ff8f.jpg)
+
+When your Oaths aren't getting you anywhere, or you just need to put your opponent on a clock, it's time to call in the Elephants. Also useful against Sligh decks for drawing burn away from your life total, not to mention eating Jackal Pups for lunch.
 
 ### Variations:
 

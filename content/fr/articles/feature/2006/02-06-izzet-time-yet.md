@@ -223,7 +223,9 @@ render_recovery:
 ---
 * * *
 
-[![Guildpact Prerelease Tournaments](https://i.ormos.uk/50/0d/500dff89d00e0bfa5ed95c2f842c63bc15e3c2e17184af9e184ffcc9e7b21a96.jpg)](https://web.archive.org/web/20070812021340/http://www.wizards.com/default.asp?x=mtgcom/prerelease/guildpact)Il est difficile de croire qu'il ne reste plus qu'une semaine de vie aux tournois en format Limité *Ravnica-Ravnica-Ravnica*. Les guildes vont monter à sept quand les portes se seront ouvertes pour les [tournois en avant-première du *Pacte des Guildes*](https://web.archive.org/web/20070812021340/http://www.wizards.com/default.asp?x=mtgcom/prerelease/guildpact) partout dans le monde. Les amateurs de noir-blanc vont faire une Death Grasp sur les cartes de la guilde d'Orzhov tandis que les fans de rouge-vert vont oublier leur Kird Ape pour baver sur les cartes du clan Gruul.
+[![Guildpact Prerelease Tournaments](https://i.ormos.uk/50/0d/500dff89d00e0bfa5ed95c2f842c63bc15e3c2e17184af9e184ffcc9e7b21a96.jpg)](https://web.archive.org/web/20070812021340/http://www.wizards.com/default.asp?x=mtgcom/prerelease/guildpact)
+
+Il est difficile de croire qu'il ne reste plus qu'une semaine de vie aux tournois en format Limité *Ravnica-Ravnica-Ravnica*. Les guildes vont monter à sept quand les portes se seront ouvertes pour les [tournois en avant-première du *Pacte des Guildes*](https://web.archive.org/web/20070812021340/http://www.wizards.com/default.asp?x=mtgcom/prerelease/guildpact) partout dans le monde. Les amateurs de noir-blanc vont faire une Death Grasp sur les cartes de la guilde d'Orzhov tandis que les fans de rouge-vert vont oublier leur Kird Ape pour baver sur les cartes du clan Gruul.
 
 Personnellement, ce que j'attends le plus, ce sont les cartes Izzet. Au fond de moi, j'ai toujours été un mage bleu-rouge. Mon premier (ou presque) véritable deck construit contenait à la fois Lightning Bolt et Counterspell, j'avais un jeu de Frenetic Efreets au tournoi en avant-première de *Mirage*, et à chaque saison en Étendu, je ressors Wild Research et je le mets dans le mixer-test de nouveau deck.
 

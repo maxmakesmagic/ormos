@@ -77,7 +77,9 @@ archive_source:
   sha256: 51527c242abd15f23a798e6806fc3b230fc321d60f5d5d35878db534c3d7f691
 render_recovery: []
 ---
-![Nacatl War-Pride proxy](https://i.ormos.uk/05/17/0517c9abba4d02d2d65e9828500dd3dde0c6481b014d339980280075b9a4aba0.jpg)One of the nice things about writing for **magicthegathering.com** is that I am the only one at my gaming table who gets to use proxies *without* being made fun of. I'll whip out some [Island](https://web.archive.org/web/20070508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) with "NACLATAL WARPRIDE 3GGG 3/3 MAKES DUDES WHOAH" scrawled on it in smeared Sharpie, and they'll glare at it with suspicion. 
+![Nacatl War-Pride proxy](https://i.ormos.uk/05/17/0517c9abba4d02d2d65e9828500dd3dde0c6481b014d339980280075b9a4aba0.jpg)
+
+One of the nice things about writing for **magicthegathering.com** is that I am the only one at my gaming table who gets to use proxies *without* being made fun of. I'll whip out some [Island](https://web.archive.org/web/20070508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) with "NACLATAL WARPRIDE 3GGG 3/3 MAKES DUDES WHOAH" scrawled on it in smeared Sharpie, and they'll glare at it with suspicion. 
 
 "Can't you just wait until the cards come out, Ferrett?" they'll ask pointedly. "And then, you know, *buy* some?" 
 
@@ -113,7 +115,9 @@ People critiqued my selection of [Teferi, Mage of Zhalfir](https://web.archive.o
 
 The importance of this can't be understated. I watched a poor friend of mine play a Teferi just before his turn six began as his first play of the game—and by turn seven, we'd wiped him out. I felt bad for participating in his slaughter, but his Teferi was indeed hampering my style. 
 
-![Teferi, Mage of Zhalfir and Stuffy Doll](https://i.ormos.uk/73/65/7365164c1241026de31034543b137c3ca87f5a855cfccbac776989afc84e8334.jpg)That doesn't mean that Teferi's not powerful, of course. It means that he's *so* powerful that he causes an instant response from everyone else at the table. But if you can back him up with, say, [Seedborn Muse](https://web.archive.org/web/20070508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seedborn+Muse) and buyback counterspells and instant-speed [Stuffy Doll](https://web.archive.org/web/20070508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stuffy+Doll)s to ward off gratuitous attacks, then Teferi *is* strong. 
+![Teferi, Mage of Zhalfir and Stuffy Doll](https://i.ormos.uk/73/65/7365164c1241026de31034543b137c3ca87f5a855cfccbac776989afc84e8334.jpg)
+
+That doesn't mean that Teferi's not powerful, of course. It means that he's *so* powerful that he causes an instant response from everyone else at the table. But if you can back him up with, say, [Seedborn Muse](https://web.archive.org/web/20070508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seedborn+Muse) and buyback counterspells and instant-speed [Stuffy Doll](https://web.archive.org/web/20070508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stuffy+Doll)s to ward off gratuitous attacks, then Teferi *is* strong. 
 
 But he's not *necessarily* as strong as, say, [Stuffy Doll](https://web.archive.org/web/20070508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stuffy+Doll) by himself. [Stuffy Doll](https://web.archive.org/web/20070508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stuffy+Doll) does less than Teferi; whereas Teferi interferes with everyone's plans, the Doll only hampers one player (and it may not work at all if that player has either trampling guys or -X/-X effects in his deck). 
 
@@ -147,7 +151,9 @@ So is [Stuffy Doll](https://web.archive.org/web/20070508000000/https://gatherer.
 
 When Teferi wins, it *wins*, carrying out a strategy in a way that no other card can. Whereas [Stuffy Doll](https://web.archive.org/web/20070508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stuffy+Doll) generally wins because people underestimated it, or because you got better cards than they did. 
 
-![Backlash](https://i.ormos.uk/1f/e1/1fe1e6738b118e20b870021ae2ceb1a6807ff8381790f36f8a3d0810dc7c5cb6.jpg)Backlash is something you *have* to take into account if you want to win... And worse, as I've already noted, the Backlash factor changes from table to table. It all depends on what your opponents hate and fear the most... But if you're smart, you can anticipate Backlash, and realize that even though that Teferi-based deck is *really bitchin*', you don't have the power to face the concentrated might of everyone ganging up on you. (And let's be honest; few decks *are* able to withstand a full-on onslaught from four players.) 
+![Backlash](https://i.ormos.uk/1f/e1/1fe1e6738b118e20b870021ae2ceb1a6807ff8381790f36f8a3d0810dc7c5cb6.jpg)
+
+Backlash is something you *have* to take into account if you want to win... And worse, as I've already noted, the Backlash factor changes from table to table. It all depends on what your opponents hate and fear the most... But if you're smart, you can anticipate Backlash, and realize that even though that Teferi-based deck is *really bitchin*', you don't have the power to face the concentrated might of everyone ganging up on you. (And let's be honest; few decks *are* able to withstand a full-on onslaught from four players.) 
 
 Thus, some cards are so powerful they're *not* powerful. Or, as is the case with Teferi, they're only powerful when they're backed by equally powerful cards, in a deck specifically designed to protect Teferi and to abuse it so badly that nobody *can* mess with you. 
 
@@ -173,7 +179,9 @@ So now, with that in mind, I'm going to ask you a question. The answer to this q
 
 Here are the rules: 
 
-![Nacatl War-Pride with a red X](https://i.ormos.uk/1d/22/1d2229c5b8f339f5d2fce3427a2d2af42260feea808d4f135eaeaceae6715f6a.jpg)1\. Pick a card in *Future Sight* that is *not* [Nacatl War-Pride](https://web.archive.org/web/20070508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nacatl+War-Pride). 
+![Nacatl War-Pride with a red X](https://i.ormos.uk/1d/22/1d2229c5b8f339f5d2fce3427a2d2af42260feea808d4f135eaeaceae6715f6a.jpg)
+
+1\. Pick a card in *Future Sight* that is *not* [Nacatl War-Pride](https://web.archive.org/web/20070508000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nacatl+War-Pride). 
 
 2\. Write up *your reason* why this is the most powerful multiplayer card in *Future Sight*. Since this is a smaller set, please keep in mind that someone else will almost certainly choose your card, so backing up your choice with a deck that actually shows how to utilize this card in psychotic ways would help. Alternatively, you can discuss what sorts of problems this card fixes, or entertain me with the reasons why "Heroes" isn't out on DVD yet, because I'd really like to watch it from the beginning but I'm not jumping in halfway through the show, and by the way Hiro's an awful lot like timeshifted cards because he goes to the future and back. 
 

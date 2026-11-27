@@ -44,7 +44,9 @@ archive_source:
   sha256: f3b3b050710bb63c15bb0285fc1d0eade5b3ab6b4e2ba5089cbf14e20d925753
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm6_1.jpg)Antoine Ruel is one of the few pro's who made the trip down to Rimini today. His opponent, Enrico Nai, finished 6th in this year's Italian nationals. Nai is running Affinity while Ruel has a [Tooth and Nail](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) deck splashing one plain to cast Abunas.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm6_1.jpg)
+
+Antoine Ruel is one of the few pro's who made the trip down to Rimini today. His opponent, Enrico Nai, finished 6th in this year's Italian nationals. Nai is running Affinity while Ruel has a [Tooth and Nail](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) deck splashing one plain to cast Abunas.
 
 Nai thought a while whether to keep his hands. Ruel mocked out his first couple of turns with face down cards while he waited. Nai's first turn Aether Vial was met with a Tel-Jihad Justice. Nai had a lot of gas in the tank and exploded out of the blocks with an [Arcbound Worker](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Worker) and two [Frogmite](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frogmite)s. A second Justice dispatched one of the frogs and then Ruel fetched a plains out of his deck with a [Solemn Simulacrum](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solemn+Simulacrum).
 

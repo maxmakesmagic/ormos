@@ -807,7 +807,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/dc/11/dc110387d2ea83e1564ad37422fa3723920c9ff57ef6736abefdeb998060ea44.jpg)On Wednesday, Paul Sottasanti profiled Gabriel Nassif and his pursuit of the Player of the Year title. Gabriel Nassif posted a 5-1 record for the Standard portion of the event. Considering his prodigious achievements in Constructed events over the past couple of years, nobody was terribly surprised by his strong start to Worlds.
+![](https://i.ormos.uk/dc/11/dc110387d2ea83e1564ad37422fa3723920c9ff57ef6736abefdeb998060ea44.jpg)
+
+On Wednesday, Paul Sottasanti profiled Gabriel Nassif and his pursuit of the Player of the Year title. Gabriel Nassif posted a 5-1 record for the Standard portion of the event. Considering his prodigious achievements in Constructed events over the past couple of years, nobody was terribly surprised by his strong start to Worlds.
 
 Nicolai Herzog -- the player that Gabriel is chasing -- was somewhat surprised by his own performance with a blue-white control deck. He finished 4-2 despite feeling out of his element in the constructed end of the pool. 
 

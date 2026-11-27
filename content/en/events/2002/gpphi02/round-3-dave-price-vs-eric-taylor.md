@@ -172,7 +172,9 @@ render_recovery:
   - Words of Wind
   occurrences: 159
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a980.jpg)Two men who need no introduction are going to get one anyway. Dave Price, fan favorite and perennial Invitationalist, squared off against good ol' fossilized Eric "Danger" Taylor, winner of GP Milwaukee. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a980.jpg)
+
+Two men who need no introduction are going to get one anyway. Dave Price, fan favorite and perennial Invitationalist, squared off against good ol' fossilized Eric "Danger" Taylor, winner of GP Milwaukee. 
 
 Eric seemed dangerously morose over his deck. "My deck is so bad!" he exclaimed, shuffling up his pile of cards with lackluster energy. "I'm not sure how my deck is. It's either really good or really bad." 
 
@@ -190,7 +192,9 @@ EDT got frisky with a Daru Cavalier, which searched out a brother-in-arms. The t
 
 Taylor continued to bring the beats, starting an air force and air defense with Spitting Gourna and Dive Bomber. The Bomber ended up dying to the Slateback during combat, and Dave sought to hold off the attack with a Wellwisher and Gustcloak harrier.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a982.jpg)Dave sensed danger as Danger went large and in charge with a Symbiotic Beast and Daru Lancer. He Gaseous Formed the first striker, and cast his sole Embermage Goblin. Eric was ready with a Lavamancer's Skill on his Sandskinned creature, making the soldier quite adept at being the head Tim.
+![](http://www.wizards.com/sideboard/images/gpphi02/a982.jpg)
+
+Dave sensed danger as Danger went large and in charge with a Symbiotic Beast and Daru Lancer. He Gaseous Formed the first striker, and cast his sole Embermage Goblin. Eric was ready with a Lavamancer's Skill on his Sandskinned creature, making the soldier quite adept at being the head Tim.
 
 The Beast died on the next combat phase, littering the playfield with 1/1 insects. Eric spent two turns shooting creatures: Embermage Goblin and Gustcloak Harrier. This allowed Dave to gain enough life with the Wellwisher to put himself back in relative safety—because very quickly the game shifted because of one card:
 

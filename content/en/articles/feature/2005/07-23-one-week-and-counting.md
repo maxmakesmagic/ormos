@@ -118,7 +118,9 @@ Send your rules questions to Level Four Judge John Carter. Can't find the answer
 
 **A**: The Queen's ability is applied in the same layer as the counters' effect \[CR 418.5a\], however, the effect of counters within that layer is applied first, then continuous effects are applied \[CR Glossary: Counter (2)\]. Even if you added counters after the Queen's effect, the result remains a 0/2 creature until end of turn.
 
-![](https://i.ormos.uk/2b/a4/2ba4c553b267b3f17fbdca432be87448dae8c892c014c60bbb887ce22f1bd3eb.jpg)**Q**: If my opponent has a creature in play with a [Loxodon Warhammer](https://web.archive.org/web/20050723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Warhammer) attached to it. I copy it using [Clone](https://web.archive.org/web/20050723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clone), does the [Clone](https://web.archive.org/web/20050723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clone) copy the power bonus and other abilities from the equipment? --Ben B
+![](https://i.ormos.uk/2b/a4/2ba4c553b267b3f17fbdca432be87448dae8c892c014c60bbb887ce22f1bd3eb.jpg)
+
+**Q**: If my opponent has a creature in play with a [Loxodon Warhammer](https://web.archive.org/web/20050723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Warhammer) attached to it. I copy it using [Clone](https://web.archive.org/web/20050723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clone), does the [Clone](https://web.archive.org/web/20050723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clone) copy the power bonus and other abilities from the equipment? --Ben B
 
 **A**: The effects from the [Loxodon Warhammer](https://web.archive.org/web/20050723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Warhammer) aren't copied. Copiable values are an objects normal characteristics plus copy effects (and face-down values if the object is face-down and choices made while playing the object if it's on the stack). Since the Warhammer bonuses aren't copy effects, they're not copied.
 

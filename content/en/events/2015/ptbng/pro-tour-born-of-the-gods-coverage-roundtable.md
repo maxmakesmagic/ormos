@@ -60,7 +60,9 @@ Players are not the only ones getting ready for the big weekend. Equipment is *e
 
 Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Blake Rasmussen, two stalwarts of the both GP and PT coverage. Text coverage can be a thankless job in this era of video coverage, but time and time again each year it is their work I return to, to revisit old events, and they are the Wolverines of their craft. On the video side, I am joined by Pro Tour Statistician Rich Hagon and Pro Tour Hall of Famer Randy Buehler—who returns to the Pro Tour scene for the first time in too many years—as well as Limited Information author Marshall Sutcliffe and former **Magic** R&D member Zac Hill.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Looking out my window at another foot of snow setting over the gray icy sludge of the past few weeks I am wishing I had gone to Valencia a week ago. When are you getting to Spain and do you plan to do any sightseeing or extra traveling in conjunction with this trip?**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Looking out my window at another foot of snow setting over the gray icy sludge of the past few weeks I am wishing I had gone to Valencia a week ago. When are you getting to Spain and do you plan to do any sightseeing or extra traveling in conjunction with this trip?**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw246_rasmussen.jpg)
 
@@ -77,7 +79,9 @@ Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Bl
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_hagon.jpg)**Hagon:** Pro Tour weeks are always high intensity, so I'm looking forward to staying on for a couple of days in Valencia to decompress before going on to the Team Grand Prix in Barcelona. Which, by the way, is going to be one of the Grand Prix highlights of 2014.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Teams have become an increasingly important component of Pro Tour preparation. Just last week, I talked to representatives from six teams that will make up more than 25% of the field. What has changed in the last couple of years to make what once seemed like such an exception—the super team—into the rule?**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Teams have become an increasingly important component of Pro Tour preparation. Just last week, I talked to representatives from six teams that will make up more than 25% of the field. What has changed in the last couple of years to make what once seemed like such an exception—the super team—into the rule?**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk06_286_buehler.jpg)**Buehler:** I'm sure the success of [ChannelFireball](http://www.channelfireball.com/) inspired a lot of folks, but I also think the way Wizards has synched up the Pro Tours with new set releases has pushed things beyond the tipping point: you can no longer rely on **Magic Online** as your primary form of preparation for either Limited or Constructed, so there's a lot more pressure to find a team that can potentially solve the new formats in a very limited amount of time.
 
@@ -91,7 +95,9 @@ Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Bl
 
 **Rasmussen:** I also think you have a bit of maturing of the Pro Tour happening. As players play on more and more Pro Tours, they make more friends, and those friends tend to start sticking and working together. And smaller groups start having success and join up with other smaller groups. Look at Team [FacetoFaceGames](http://facetofacegames.com/). Prior to Alexander Hayne's [Pro Tour win](https://web.archive.org/web/20140214000000/https://magic.wizards.com/en/events/coverage/ptars12) and subsequent Grand Prix tear, that team might not have existed. But as people have succeeded or started looking for teams based on their past success, they've joined up to form this giant team. In the early days of **Magic**, that happened regionally. Now, because of the Internet, you can lash together any number of people who have played on the Pro Tour, no matter where they're from.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: We actually had a little bit of a hot stove season leading up to this Pro Tour, with several players moving around to new teams. I am excited to see what Team [TCGPlayer.com](http://www.tcgplayer.com/) (formerly Team Luxurious Hair) does with the addition of Constructed mad scientist Conley Woods and Limited specialist Chris Fennell. What was the biggest offseason move in terms of teams in your mind?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: We actually had a little bit of a hot stove season leading up to this Pro Tour, with several players moving around to new teams. I am excited to see what Team [TCGPlayer.com](http://www.tcgplayer.com/) (formerly Team Luxurious Hair) does with the addition of Constructed mad scientist Conley Woods and Limited specialist Chris Fennell. What was the biggest offseason move in terms of teams in your mind?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk06_286_buehler.jpg)**Buehler:** While I'm as excited as anyone to see what sort of a brew Conley Woods comes up with in his new environment, I think the expansion and organization of FacetoFaceGames—the "Canadian" team that isn't just Canadian any more—is going to have the biggest impact on this Pro Tour.
 
@@ -99,7 +105,9 @@ Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Bl
 
 **Rasmussen:** I feel like everyone is going to say the ChannelFireball: The Pantheon shift, but that's really just the same Kai/Jon/Zvi/a-million-other-insane-players team that it was before. The biggest move has to be the creation and/or consolidation of all of the newer teams. It's virtually impossible to compete with the two ChannelFireball teams in terms of star power—there are only so many active Hall of Famers to go around—but it's always interesting to see how teams fair when we get to the Pro Tour. Team Revolution, for example, proved its chops at [Pro Tour *Theros*](https://web.archive.org/web/20140214000000/https://magic.wizards.com/en/events/coverage/ptthr13). It's possible another team could step up as well.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: There was a while where it was just Team ChannelFireball vs. the field, but now there is not even just one team CFB anymore! Which team are you most excited to see in action when the tournament is finally underway?**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: There was a while where it was just Team ChannelFireball vs. the field, but now there is not even just one team CFB anymore! Which team are you most excited to see in action when the tournament is finally underway?**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_sutcliffe.jpg)**Sutcliffe:** The original Team ChannelFireball. It seems as though the new Team ChannelFireball has taken the reins as the most successful team over the past few Pro Tours. The tools are still in place for Luis Scott-Vargas, Ben Stark, Josh Utter-Leyton, David Ochoa, Brian Kibler, and company to put up dominating performances. I'm looking for a big move to regain the throne.
 
@@ -111,7 +119,9 @@ Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Bl
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk06_286_buehler.jpg)**Buehler:** I'm a sucker for nostalgia and historical context, so I'm always interested in watching the guys I used to play against back in the day, and that means CFB: Pantheon. Can Kai improve on his 17th-place finish at PT *Theros*? Can Huey finally get the breakthrough performance he needs to put himself into the Top 25 Rankings where we all know he belongs? Does Jon have another Top 8 in him? Oh, by the way, they are also the team that has been consistently putting up the best results at recent Pro Tours, so there's plenty more reasons to watch than just nostalgia.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Of course, individual players have to draft the cards and play the decks. Pro Tour week is a big one for shaking up the Top 25 Rankings with a big showing. Just look at Jérémy Dezani after PT *Theros*. What player currently on the outside of the Top 25 rankings do you have earmarked for a big tournament?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Of course, individual players have to draft the cards and play the decks. Pro Tour week is a big one for shaking up the Top 25 Rankings with a big showing. Just look at Jérémy Dezani after PT *Theros*. What player currently on the outside of the Top 25 rankings do you have earmarked for a big tournament?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw246_rasmussen.jpg)**Rasmussen:** Paulo Vitor Damo da Rosa, which feels a bit like cheating. He had a poor season last year and he certainly seems determined to undo that. And it just so happens that Faeries is now legal again.... My backup would be Jon Finkel, but I suppose that depends on how good of a deck Storm is right now.
 
@@ -125,7 +135,9 @@ Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Bl
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw257_rosenberg.jpg)**Rosenberg:** William Jensen is certainly on my list of players to watch, but that's probably the obvious answer for a lot of pros. My underdog vote goes to Tim Rivera. I knew Tim from another game's competitive scene, and even despite him recently picking up **Magic** again, I still think he will be one of the best Limited players in the room next weekend. His first event after coming back from retirement involved a PTQ win, and his fourth sanctioned event since returning to the game had him winning the StarCityGames Standard Open in Las Vegas. A Pro Tour Top 8 seems like the perfect thing to follow up his already impressive return.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: I have really come to admire the way Dezani handles himself with a sixty-card deck. I feel like his best might still be to come. Which of the Top 25 players do you expect to finish this next mile-marker in the race to Player of the Year with a strong Pro Tour?**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: I have really come to admire the way Dezani handles himself with a sixty-card deck. I feel like his best might still be to come. Which of the Top 25 players do you expect to finish this next mile-marker in the race to Player of the Year with a strong Pro Tour?**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_sutcliffe.jpg)**Sutcliffe:** Josh Utter-Leyton. Josh is a machine. Looking at him, you may not be able to tell if he is winning a tournament or losing one. Super hint: He's probably winning.
 
@@ -137,7 +149,9 @@ Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Bl
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw257_rosenberg.jpg)**Rosenberg:** Not taking any risky bets here. I'm picking Owen Turtenwald. That dude's been on fire this season.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: *Born of the Gods* is still a riddle that that the players need to solve and they will get right to it when the first thing we see on camera is a *Born of the Gods* pack being opened. My favorite new card in early testing has been [Oracle's Insight](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oracle%27s+Insight)—have you gotten this on a creature with inspired yet? What are the cards that will have the biggest impact on this Draft format? Are there new decks that you are angling for when you draft with this set that were not possible in triple-*Theros*?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: *Born of the Gods* is still a riddle that that the players need to solve and they will get right to it when the first thing we see on camera is a *Born of the Gods* pack being opened. My favorite new card in early testing has been [Oracle's Insight](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oracle%27s+Insight)—have you gotten this on a creature with inspired yet? What are the cards that will have the biggest impact on this Draft format? Are there new decks that you are angling for when you draft with this set that were not possible in triple-*Theros*?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_sutcliffe.jpg)**Sutcliffe:** *Born of the Gods* is more of an evolution of the format rather than a revolution. Many of the same themes from *Theros* are carried over, and the players who recognize which cards help the existing archetypes the most will be most successful. I'm not looking to reinvent the wheel, give me my black-green or white-blue deck all day. Unless we open [Phenax, God of Deception](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phenax%2C+God+of+Deception)...
 
@@ -159,7 +173,9 @@ Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Bl
 
 ![Akroan Skyguard](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Akroan+Skyguard)
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Most of the rounds will pit the players against each other in Modern combat—a format that has been monkey wrenched with the recent bannings and unbannings. How viable do you think Zoo and Faeries are going to be in this new modern Modern format?**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Most of the rounds will pit the players against each other in Modern combat—a format that has been monkey wrenched with the recent bannings and unbannings. How viable do you think Zoo and Faeries are going to be in this new modern Modern format?**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk06_286_buehler.jpg)**Buehler:** They will both show up, although in order to be successful they're going to need to figure out a good plan for beating the various [Birthing Pod](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birthing+Pod) decks. Zoo in particular may struggle to slog through the never-ending stream of two-for-ones and lifegain that Pod can put in its way.
 
@@ -173,7 +189,9 @@ Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Bl
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_sutcliffe.jpg)**Sutcliffe:** I think Zoo will be potentially viable, with Faeries less so. An aggressive domain-based five-color deck already existed before the unbanning of [Wild Nacatl](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Nacatl), and it gets a big boost with everyone's favorite Cat Warrior. I think we will see plenty of [Bitterblossom](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom)s over the course of the weekend, but my guess is that they won't be in the traditional Faeries shell.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What does booting [Deathrite Shaman](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deathrite+Shaman) mean for some decks that might have been sitting on the sidelines? I would love to see the Mono-Green Devotion deck with [Genesis Wave](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Genesis+Wave) find some room to thrive in a less Jundy metagame. Is there a pet deck you are rooting for to emerge in this shaken up format?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What does booting [Deathrite Shaman](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deathrite+Shaman) mean for some decks that might have been sitting on the sidelines? I would love to see the Mono-Green Devotion deck with [Genesis Wave](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Genesis+Wave) find some room to thrive in a less Jundy metagame. Is there a pet deck you are rooting for to emerge in this shaken up format?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw257_hill.jpg)**Hill:** I think Raph Lévy's Dredge deck from [PT *Return to Ravnica*](https://web.archive.org/web/20140214000000/https://magic.wizards.com/en/events/coverage/ptrtr12) will look a LOT better when the best deck doesn't get four free hate cards.
 
@@ -185,7 +203,9 @@ Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Bl
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk06_286_buehler.jpg)**Buehler:** It's clearly good news for graveyard strategies, including reanimator decks and [Snapcaster Mage](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snapcaster+Mage) decks. I definitely expect both [Goryo's Vengeance](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goryo%27s+Vengeance) decks and Gifts/[Unburial Rites](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unburial+Rites) decks to show up in bigger numbers than we have seen at recent events.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: There is also the matter of *Born of the Gods* to factor into the Modern format. It is always hard for new cards to crack a large format but are there any cards you expect to shake things up in Modern?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: There is also the matter of *Born of the Gods* to factor into the Modern format. It is always hard for new cards to crack a large format but are there any cards you expect to shake things up in Modern?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw257_hill.jpg)**Hill:** I'm already brewing decks with [Searing Blood](https://web.archive.org/web/20140214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Searing+Blood) now that Deathrite isn't offsetting the life loss from Ravnica [shocklands](https://web.archive.org/web/20140214000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&format=+%5B%22Return+to+Ravnica+Block%22%5D&type=+%5B%22Land%22%5D&text=+%5Bpay%5D+%5B2%5D)!
 
@@ -207,7 +227,9 @@ Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Bl
 
 ![Brimaz, King of Oreskos](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Brimaz%2C+King+of+Oreskos)
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Finally, what is up next for you as far as coverage over the next month to six weeks?**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Finally, what is up next for you as far as coverage over the next month to six weeks?**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk06_286_buehler.jpg)**Buehler:** The Pro Tour begins a string of five events in six weekends for me that includes GPs in Melbourne, Montreal, and Cincinnati, plus the **Magic Online** Championships in San Francisco.
 
@@ -219,7 +241,9 @@ Joining me for the Roundtable were text coverage reporters Mike Rosenberg and Bl
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw246_rasmussen.jpg)**Rasmussen:** After this minor diversion through Europe I'll be at GP Cincinnati with the crew. Beyond that? Only God and Greg Collins know.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Thanks guys! Can't wait to work, draft and hangout with you all in (hopefully) sunny Valencia!**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Thanks guys! Can't wait to work, draft and hangout with you all in (hopefully) sunny Valencia!**
 
 ### January Player of the Month ([#MTGPoM](https://twitter.com/hashtag/mtgpom)): Alexander Hayne
 

@@ -503,7 +503,9 @@ render_recovery:
 ---
 * * *
 
-![Ben Seck](http://wizards.com/sideboard/images/ptsd04/dr4_1.jpg)Australian Ben Seck, his continent's best player, made the Top 8 of last year's booster draft PT. The year since was not particularly kind to him, and he had to qualify for this event via a PTQ. He spent the previous two days at E3 hanging out with the participants in the Magic Invitational discussing strategy and seems quite well prepared for another run at the top.
+![Ben Seck](http://wizards.com/sideboard/images/ptsd04/dr4_1.jpg)
+
+Australian Ben Seck, his continent's best player, made the Top 8 of last year's booster draft PT. The year since was not particularly kind to him, and he had to qualify for this event via a PTQ. He spent the previous two days at E3 hanging out with the participants in the Magic Invitational discussing strategy and seems quite well prepared for another run at the top.
 
 Before the draft began, Seck said that his preferences in the format were to avoid white and green almost exclusively, and try to draft cards that cost less than five mana. Black is his favorite color by far, and he ran his first table with a blue-black deck. He gave much of his credit in draft 1 to where he was sitting--fourth in a row of established pros.
 

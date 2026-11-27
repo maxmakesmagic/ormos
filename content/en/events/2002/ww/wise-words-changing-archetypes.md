@@ -524,7 +524,9 @@ render_recovery:
   - Auramancer
   occurrences: 1
 ---
-![](https://i.ormos.uk/95/3a/953aaa26f6d1188de23ebcef4844b80fe703f98308387bc929f179d337890751.jpg)Invariably, with the release of new sets into already established environments, be they Limited or Constructed, the contents of those sets are bound to not only introduce new archetypes but also to change those that already exist. This week's Wise Words examines the Limited archetypes that *Odyssey* left us with, and how they'll have changed with the addition of *Torment*.
+![](https://i.ormos.uk/95/3a/953aaa26f6d1188de23ebcef4844b80fe703f98308387bc929f179d337890751.jpg)
+
+Invariably, with the release of new sets into already established environments, be they Limited or Constructed, the contents of those sets are bound to not only introduce new archetypes but also to change those that already exist. This week's Wise Words examines the Limited archetypes that *Odyssey* left us with, and how they'll have changed with the addition of *Torment*.
 
 With the abundance of black and resulting deficiency of white and green in *Torment*, everyone seems to be jostling for position on the dark side in *Odyssey-Odyssey-Torment* drafts, which has a number of effects ranging from a limit on how many players can run each archetype effectively, to the way we value assorted sideboard cards and main-deck color hosers and what attitude we approach our first few picks with. Here's hoping that what follows helps you gain a rudimentary understanding of the changes that have occurred and how you should be adjusting yourself accordingly.
 
@@ -562,7 +564,9 @@ The red-green deck licks its lips when paired against blue-black but has some pr
 
 *Crucial cards (Torment): Fiery Temper, Acorn Harvest*
 
-![](https://i.ormos.uk/dc/b4/dcb41a2de60b08bbca5b28d17b7bb034595c4ce2f07b224f3a8602fdb8fb9a75.jpg)With blue-black's popularity and the diminishing value of green in its wake, this deck should remain viable as its waning popularity should make up for the loss of an *Odyssey* pack. Unfortunately, *Torment* doesn't offer as much in the way of aggression as players of this deck would like, but if you're planning on putting together some kind of swarm, Acorn Harvest will do you well. Try it with Rites of Initiation for a good laugh.
+![](https://i.ormos.uk/dc/b4/dcb41a2de60b08bbca5b28d17b7bb034595c4ce2f07b224f3a8602fdb8fb9a75.jpg)
+
+With blue-black's popularity and the diminishing value of green in its wake, this deck should remain viable as its waning popularity should make up for the loss of an *Odyssey* pack. Unfortunately, *Torment* doesn't offer as much in the way of aggression as players of this deck would like, but if you're planning on putting together some kind of swarm, Acorn Harvest will do you well. Try it with Rites of Initiation for a good laugh.
 
 In addition to Basking Rootwalla, *Torment* offers an assortment of effective burn, with Fiery Temper being well complimented by Sonic Seizure, and even Longhorn Firebeast offering itself as a viable option either way your opponent sees it (this may be the only archetype for the card so don't draft it too high). The key to this deck is keeping your mana curve low: if you're building your deck and you have a lot of fours and fives, you probably aren't in good shape.
 
@@ -594,7 +598,9 @@ With seven good commons in the set (Ghastly Demise, Patriarch's Desire, Morbid H
 
 *Crucial cards (Torment): Aquamoeba, Obsessive Search.*
 
-![](https://i.ormos.uk/83/36/8336d5b10c98a9c7d8de1152b00700bfbc16fcd49fc21cf96b8212d0765eb7c9.jpg)Well, things have certainly changed for this archetype, easily the strongest coming out of *Torment*. Black offers all kinds of amazing goodies in the set, ranging from Faceless Butcher to Crippling Fatigue to Cabal Torturer, and they all require ![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif) to cast, meaning people won't often be tempted to splash them. On top of that, blue got some more good stuff in the form of the aforementioned Aven, Obsessive Search and Aquamoeba, the great two-drop this archetype desperately needed.
+![](https://i.ormos.uk/83/36/8336d5b10c98a9c7d8de1152b00700bfbc16fcd49fc21cf96b8212d0765eb7c9.jpg)
+
+Well, things have certainly changed for this archetype, easily the strongest coming out of *Torment*. Black offers all kinds of amazing goodies in the set, ranging from Faceless Butcher to Crippling Fatigue to Cabal Torturer, and they all require ![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif) to cast, meaning people won't often be tempted to splash them. On top of that, blue got some more good stuff in the form of the aforementioned Aven, Obsessive Search and Aquamoeba, the great two-drop this archetype desperately needed.
 
 The one problem you'll face drafting blue-black now is that everyone else wants to also. Yes, there's a lot to go around, but there will be tables where six or seven players end up playing the skull, and that could mean that your deck will be watered down quite a bit. As a result, I would draft cards like Peek, Predict and Eggs a little higher. If nothing else, they'll get you to your power cards and fill your graveyard quickly, a must for this deck.
 
@@ -602,7 +608,9 @@ The one problem you'll face drafting blue-black now is that everyone else wants 
 
 *Crucial cards (Odyssey): Firebolt, Morbid Hunger, Innocent Blood*
 
-![](https://i.ormos.uk/a5/32/a53291520cb17a08eb5984d8133ff6688161b4f12219660238e5b3438db863b7.jpg)I was never a huge fan of this deck. Green had the flashback creatures and white had Shelter, and when your goal is to kill every creature an opponent puts into play, protective cards that cause you card disadvantage are a real problem.
+![](https://i.ormos.uk/a5/32/a53291520cb17a08eb5984d8133ff6688161b4f12219660238e5b3438db863b7.jpg)
+
+I was never a huge fan of this deck. Green had the flashback creatures and white had Shelter, and when your goal is to kill every creature an opponent puts into play, protective cards that cause you card disadvantage are a real problem.
 
 The idea behind this deck is to use cards like Firebolt and Hunger to take out smaller creatures, leaving that one big critter on the table for Innocent Blood to take out. The deck shouldn't beat down too much, preferring creatures like Zombie Assassin and Chainflinger to add to its quantity of kill in a format where everyone has creatures.
 
@@ -620,7 +628,9 @@ Blue-red was never a very popular color combo in *Odyssey* block, and I wouldn't
 
 White-red takes a big hit this time around, losing a pack's worth of white *Odyssey* bears and having them replaced with a series of more defensive cards. This deck really wants to be aggressive, but I don't think the creatures exist to draft good red-white consistently.
 
-![](https://i.ormos.uk/af/f2/aff2f307522d72fec4f074f3d21fda068bb3206caff15dc251279b860ef76b48.jpg)White-black obviously receives a bit of a boost in the black department and takes a hit in the white, but the real problem here is that triple *Odyssey* white-black was built around Auramancer, Patriarch's Desire and the ability to recur the former, meaning that you'd also recur the latter. While losing out on the combo aspect, the black in *Torment* is so strong that you shouldn't have problems getting cards, and that means you could conceivably build an excellent metagame deck.
+![](https://i.ormos.uk/af/f2/aff2f307522d72fec4f074f3d21fda068bb3206caff15dc251279b860ef76b48.jpg)
+
+White-black obviously receives a bit of a boost in the black department and takes a hit in the white, but the real problem here is that triple *Odyssey* white-black was built around Auramancer, Patriarch's Desire and the ability to recur the former, meaning that you'd also recur the latter. While losing out on the combo aspect, the black in *Torment* is so strong that you shouldn't have problems getting cards, and that means you could conceivably build an excellent metagame deck.
 
 Green-black is a deck I'm not especially fond of in that green and black share a number of strengths and weaknesses, but you can't argue with getting the best color from each set. When drafting this deck, be sure to put an emphasis on your early drops, as in *Torment* they're few and far between.
 

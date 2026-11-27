@@ -585,7 +585,9 @@ One curious card possibility to run with Seizan is Uba Mask. Uba Mask punishes p
 
 Your opponent is going to be able to cast a large amount of spells too. The damage that another player can wreak with a steady supply of cards can be quite huge. Expect that you're going to be quite bruised by their barrage of spells, if not outright bleeding. Having your own fast spells is one way to best take advantage of the situation, but it isn't the only one. Another option is to make it harder for opponents to cast their own spells. Land destruction, long a most favorite/least favorite method of playing the game, is a great choice here.
 
-![](https://i.ormos.uk/b8/ce/b8ce240d685ee90ec89e05524ca06703bc2f0cc516fa5bb5cd3c1881839125aa.jpg)Playing a land is a heck of a lot cheaper than destroying it. However, barring abilities that allow people to play more, you are limited to only playing a single land a turn. There is no limitation on the number of land destruction spells that you are allowed to play. If you can afford it, you can cast it.
+![](https://i.ormos.uk/b8/ce/b8ce240d685ee90ec89e05524ca06703bc2f0cc516fa5bb5cd3c1881839125aa.jpg)
+
+Playing a land is a heck of a lot cheaper than destroying it. However, barring abilities that allow people to play more, you are limited to only playing a single land a turn. There is no limitation on the number of land destruction spells that you are allowed to play. If you can afford it, you can cast it.
 
 I used to run an annoying Howling Mine Land Destruction deck. It ran Boomerangs and Stone Rains among its huge amount of mana disruption. Here, your Howling Mine is big, black, and can do up to 7 damage a turn all by itself. If nothing else, it can block while you knock out their land with one-for-one spells. Some cards (Rancid Earth, for example) can actually have a useful effect on the board besides removing a land. Take Avalanche Riders, for example – in a racing position, these can really cause a huge change in tempo.
 
@@ -595,7 +597,9 @@ But none of this compares to my favorite choice, Cataclysm. Here, we destroy nea
 
 ### An element of control
 
-![](https://i.ormos.uk/80/3e/803ee167ea06cbb03454b508dc5388593c436749acc5b36dd0fd113db098f330.jpg)It isn't very controlling to have a Seizan out. Generally speaking, you don't want to have your opponent drawing cards if you're going to try to control them. However, maybe you can attempt to keep just enough of a hold on things long enough that you are able to kill them.
+![](https://i.ormos.uk/80/3e/803ee167ea06cbb03454b508dc5388593c436749acc5b36dd0fd113db098f330.jpg)
+
+It isn't very controlling to have a Seizan out. Generally speaking, you don't want to have your opponent drawing cards if you're going to try to control them. However, maybe you can attempt to keep just enough of a hold on things long enough that you are able to kill them.
 
 Here, you aren't attempting to be able to counterspell every little thing. You have a 6/5. Just run enough counterspells, creature-kill, or bounce to make sure that it kills them. If they drop a guy in the way, you don't necessarily have to kill it. If they chump block Seizan with it, they've done that job for you. You're drawing an additional 2 cards a turn, so if you run controlling cards, you'll likely see them.
 

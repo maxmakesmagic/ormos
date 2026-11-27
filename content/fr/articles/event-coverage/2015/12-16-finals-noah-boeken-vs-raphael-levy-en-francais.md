@@ -52,7 +52,9 @@ La deuxième et troisième partie sont à l'avantage du Français, grâce aux Pa
 
 On ne parlera pas de la quatrième ,partie qui s'est faite tellement vite par la sortie de Noah que l'on a à peine eu le temps de la commenter :)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/407.JPG)La dernière partie est très tendue. En effet, les deux joueurs possèdent des mains très fortes. Cependant un Tangle Wire bien placé suivit d'une attaque de Deepwood Legate renforcée par Wild Might et Giant Growth signait l'avènement du nouveau champion d'Europe.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/407.JPG)
+
+La dernière partie est très tendue. En effet, les deux joueurs possèdent des mains très fortes. Cependant un Tangle Wire bien placé suivit d'une attaque de Deepwood Legate renforcée par Wild Might et Giant Growth signait l'avènement du nouveau champion d'Europe.
 
 Malgré cette déception, les performances françaises furent remarquable lors de ce tournoi. Deux Français dans le Top 8 avec Loïc Dobrigna qui cède en demi-finale contre Noah Boeken (encore lui ! !) et évidemment Raphaël. Une place de deuxième et une de troisième, c'est tout de même très satisfaisant si l'on rajoute à cela Nicolas Olivieri qui échoue de peu. En bref, cette année 2000 restera dans les mémoires ! !
 
@@ -62,7 +64,9 @@ Pour toujours se faire un petit cocorico, on pourra aussi dire que les Français
 
 Avant de conclure, remercion aussi tous les joueurs venus de si loin pour jouer dans cette prestigieuse compétition, ainsi que tous les arbitres (ceux du tournoi principal et ceux des side events) pour avoir permis tout cela. Je sais, ça fait Jean Claude Brialy, mais c'est tellement vrai !
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/411.JPG)Pour conclure ces petits reports, nous tenons encore mille fois à remercier le nez rouge, la salle lumineuse et surtout Jeff et son jus d'orange qui nous ont permis de rebondir là où tout espoir était perdu. L'équipe Capillaire sera à nouveau opérationnelle pour les Championnats du Monde dans deux semaines. Et chose promise chose due, vous aurez droit de suivre les performances de nos compatriotes et de l'équipe de France en particulier, mais aussi pourquoi pas une équipe venu de très loin, comme les Philippins ou peut être les Turcs :)
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/411.JPG)
+
+Pour conclure ces petits reports, nous tenons encore mille fois à remercier le nez rouge, la salle lumineuse et surtout Jeff et son jus d'orange qui nous ont permis de rebondir là où tout espoir était perdu. L'équipe Capillaire sera à nouveau opérationnelle pour les Championnats du Monde dans deux semaines. Et chose promise chose due, vous aurez droit de suivre les performances de nos compatriotes et de l'équipe de France en particulier, mais aussi pourquoi pas une équipe venu de très loin, comme les Philippins ou peut être les Turcs :)
 
 Signes secrets à tous ! Encore merci de nous avoir suivi !
 

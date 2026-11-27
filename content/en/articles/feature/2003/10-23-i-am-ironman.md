@@ -88,7 +88,9 @@ render_recovery: []
 *We'll just pass him there*  
 *why should we even care?* (because he's writing an Ironman article!)  
 
-!['I' is for 'Iron-non-gender-specific-person'](https://i.ormos.uk/a5/54/a55461c6a270146522bb3d6d68a06dad7b7ee72c87ace02fa11890fb31cc8f40.jpg)Yes, this past Monday, I orchestrated the first (and almost certainly last) Wizards of the Coast *Mirrodin* Ironman tournament. Ironman, renamed Iron-non-gender-specific-person, then renamed Ironmyr, is a nerve-testing, gut-wrenching format dating back to the earliest days of **Magic**. It was a time when playing for ante was in the rulebook. It was a time when people ripped up their [Chaos Orb](https://web.archive.org/web/20031023000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chaos+Orb)s. It was a time when Ironmen roamed the earth.
+!['I' is for 'Iron-non-gender-specific-person'](https://i.ormos.uk/a5/54/a55461c6a270146522bb3d6d68a06dad7b7ee72c87ace02fa11890fb31cc8f40.jpg)
+
+Yes, this past Monday, I orchestrated the first (and almost certainly last) Wizards of the Coast *Mirrodin* Ironman tournament. Ironman, renamed Iron-non-gender-specific-person, then renamed Ironmyr, is a nerve-testing, gut-wrenching format dating back to the earliest days of **Magic**. It was a time when playing for ante was in the rulebook. It was a time when people ripped up their [Chaos Orb](https://web.archive.org/web/20031023000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chaos+Orb)s. It was a time when Ironmen roamed the earth.
 
 The idea behind the Ironman format is simple. When a card goes to your graveyard, it really goes to your graveyard. It's dead. It's never coming back. It's ripped into pieces. 
 

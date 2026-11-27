@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/01/72/0172833b34cb4149ef927203d1667874e9fe97b45c1ee08c03c718dc4a3fec76.jpg)"Ach Rob, run! It's the Lhurgoyf!"
+![](https://i.ormos.uk/01/72/0172833b34cb4149ef927203d1667874e9fe97b45c1ee08c03c718dc4a3fec76.jpg)
+
+"Ach Rob, run! It's the Lhurgoyf!"
 
 Anyone who ever badmouthed Cognivore as another unplayable junk rare just got proven wrong to the tune of thirty thousand dollars. In Oath of Druids, and in a format where Morphling was legal, it is the eight-mana flying Lhurgoyf that's the creature of choice. In the finals against his teammate Rob Dougherty, in the fifth and deciding game, Justin Gary tapped eight mana to summon a 12/12 flying beast. Shortly thereafter Rob was extending the hand.
 

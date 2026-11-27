@@ -45,7 +45,9 @@ So what are you waiting for? Find a location near you and take your game to the 
 
 ### [Friday Night Magic](/en/articles/event-coverage/undated/friday-night-magic-6)
 
-![](https://i.ormos.uk/26/f0/26f05112c19c1d38fa8c9ef439b34195c26d1cd7081bf8b83f832c6985876886.jpg)Are you looking for a way to play **Magic** while meeting new friends and winning cool foil prize cards? Then the Friday Night **Magic** (FNM) program is exactly what you're looking for! 
+![](https://i.ormos.uk/26/f0/26f05112c19c1d38fa8c9ef439b34195c26d1cd7081bf8b83f832c6985876886.jpg)
+
+Are you looking for a way to play **Magic** while meeting new friends and winning cool foil prize cards? Then the Friday Night **Magic** (FNM) program is exactly what you're looking for! 
 
 To make it easier to participate, Friday Night***Magic*** events are open to anyone and feature the Standard Constructed, Sealed Deck or Booster formats. Stores may also choose to run one Two-Headed Giant tournament (Standard or Sealed) each month. Keeping these formats makes it easier for new players to participate, and you only have to remember three things: Pack your Standard deck; remember where the tournament is happening, and what time it starts. You can find out more about each format [here](https://web.archive.org/web/20140415053259/http://www.wizards.com/Magic/TCG/Resources.aspx?x=mtg/tcg/resources/formats-sanctioned). 
 

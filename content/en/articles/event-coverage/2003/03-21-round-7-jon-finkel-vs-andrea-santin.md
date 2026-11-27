@@ -48,7 +48,9 @@ Jon Finkel needs no introduction but his opponent is a hometown hero. To the res
 
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a904.jpg)After a lengthy wait for a deck check it was revealed that Jon had misregistered his deck. Rather than listing his [Akroma's Vengeance](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance)s he had listed [Akroma's Blessing](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Blessing) twice. His penalty? A game loss and fix the decklist.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a904.jpg)
+
+After a lengthy wait for a deck check it was revealed that Jon had misregistered his deck. Rather than listing his [Akroma's Vengeance](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance)s he had listed [Akroma's Blessing](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Blessing) twice. His penalty? A game loss and fix the decklist.
 
 ### Game 2
 

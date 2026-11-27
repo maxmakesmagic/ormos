@@ -44,7 +44,9 @@ archive_source:
   sha256: 15ca26acd62852d21f3c0d2ca27aa82533bfabe96c45718286d908fbd0aa6be2
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a792.jpg)The winner of this match will play tomorrow. If Seck wins, it will be the first time an Australian has made Top 8 of a Pro Tour since Tom Champheng's Worlds Championship. Seck was quick to point out that he has never won money on the Pro Tour before this event, much less played for Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a792.jpg)
+
+The winner of this match will play tomorrow. If Seck wins, it will be the first time an Australian has made Top 8 of a Pro Tour since Tom Champheng's Worlds Championship. Seck was quick to point out that he has never won money on the Pro Tour before this event, much less played for Top 8.
 
 ### Game 1
 

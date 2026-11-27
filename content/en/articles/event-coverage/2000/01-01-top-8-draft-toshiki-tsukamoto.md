@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270173.jpg)The finals of Grand Prix Hiroshima were Invasion booster draft and it was time to sort out the business end of the tournament. With over $9,000 up for grabs this would be the most important and toughest draft of the day.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270173.jpg)
+
+The finals of Grand Prix Hiroshima were Invasion booster draft and it was time to sort out the business end of the tournament. With over $9,000 up for grabs this would be the most important and toughest draft of the day.
 
 The seating arrangement saw Katsuhiro Mori to Toshiki Tsukamoto's right and Tsuyoshi Fujita (winner of GP Kyoto) to his left. Two to Toshiki's right was former Japanese National Champion Masayuki Higashino.
 

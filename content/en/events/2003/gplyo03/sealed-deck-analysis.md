@@ -343,7 +343,9 @@ render_recovery:
 ---
 ### Gabriel Nassif
 
-![Gabriel Nassif - Prepares To Build](http://www.wizards.com/sideboard/images/gplyo03/gabriel_nassif_160w.jpg)As soon as Gabriel heard his sealed deck was going to be featured he warned me that this would be his first individual sealed deck - he had played team sealed with *Mirrodin* already in the French Team Cup. His sealed deck would prove to be rather tough, with removal concentrated in black and red, and his creatures concentrated in white and blue.
+![Gabriel Nassif - Prepares To Build](http://www.wizards.com/sideboard/images/gplyo03/gabriel_nassif_160w.jpg)
+
+As soon as Gabriel heard his sealed deck was going to be featured he warned me that this would be his first individual sealed deck - he had played team sealed with *Mirrodin* already in the French Team Cup. His sealed deck would prove to be rather tough, with removal concentrated in black and red, and his creatures concentrated in white and blue.
 
   
 

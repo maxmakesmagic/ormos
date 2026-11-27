@@ -92,7 +92,9 @@ render_recovery:
   - Frozen Solid
   occurrences: 41
 ---
-![](http://www.wizards.com/sideboard/images/gppit03/a975.jpg)"I never ever beat Ben. Ever." Those were the words muttered by Kyle Rose to his teammates as they sat down for their must-win Round 7 Feature Match.
+![](http://www.wizards.com/sideboard/images/gppit03/a975.jpg)
+
+"I never ever beat Ben. Ever." Those were the words muttered by Kyle Rose to his teammates as they sat down for their must-win Round 7 Feature Match.
 
 Rose, a former US National Champion, heads up The Jokas—a team of his local pals Norman Woods and Eric James that stormed GP New Jersey last year in this same three-man limited format. That win earned them a trip to the Masters series and a whole pocket of loot. They're back looking for a second GP win at the format and find themselves facing some tough opposition as the day draws to a close.
 
@@ -106,7 +108,9 @@ Kibler came out with the nice start of Elvish Warrior and Wirewood Savage agains
 
 In seat B, Rubin and Rose were waging a war of attrition. A big pile-up involving Death's-Head Buzzard, Festering Goblin, and several other attacking and blocking creatures left Rose's Zombie Cutthroat as the only creature in play, but Rubin simply tapped all his lands and added Soul Collector to the table.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a974.jpg)Ho and Woods were locked in a very interesting fight in the C seat. Ho had blue-white, and Woods had the rarely-seen green-white combination. Both decks were full of high-toughness defensive creatures, but Woods had the upper hand with a Timberwatch Elf and a Dragonstalker, among others, against Ho's Whipcorder-led ground defenses.
+![](http://www.wizards.com/sideboard/images/gppit03/a974.jpg)
+
+Ho and Woods were locked in a very interesting fight in the C seat. Ho had blue-white, and Woods had the rarely-seen green-white combination. Both decks were full of high-toughness defensive creatures, but Woods had the upper hand with a Timberwatch Elf and a Dragonstalker, among others, against Ho's Whipcorder-led ground defenses.
 
 In the middle, Rubin's Soul Collector did the dirty work, killing Rose in a few attacks and giving the first game to the Ubermenschen.
 
@@ -120,7 +124,9 @@ In seat B, the red-black mirror, Rubin was making quick work of Rose again; the 
 
 In Game 3 in the A seat, James got set up quickly with a Skilled Wall and Mistform Ultimus. Kibler was a little short on land and the few small creatures he could put out were no match. Skirk Commando and Mistform Dreamer sped things along for James, and it quickly came down to the Ho-Woods match.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a973.jpg)Game 2 in the ultra-slow white-on-white A match was in full stall mode when the crowd's attention turned to it. Ho had seven creatures in play, including a one-counter Daru Stinger, and Woods had eleven creatures out, one of which was Taunting Elf, which needed a reliable way around the Stinger.
+![](http://www.wizards.com/sideboard/images/gppit03/a973.jpg)
+
+Game 2 in the ultra-slow white-on-white A match was in full stall mode when the crowd's attention turned to it. Ho had seven creatures in play, including a one-counter Daru Stinger, and Woods had eleven creatures out, one of which was Taunting Elf, which needed a reliable way around the Stinger.
 
 Ho went proactive against the Taunter, targeting it with his Deftblade Elite's provoke ability. The Stinger shot the Elf, and the Elite fogged to avoid dying to the additional blockers assigned to it.
 

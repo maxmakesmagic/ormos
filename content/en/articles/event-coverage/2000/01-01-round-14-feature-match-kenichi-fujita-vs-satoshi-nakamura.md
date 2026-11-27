@@ -44,7 +44,9 @@ archive_source:
   sha256: 86283ff882a342c977f436a7a032e810c384a8c72108c14be4a1249b103361b4
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/738.jpg)There's a world of support behind Kenichi Fujita. A victory in this final Swiss round could make him the first Japanese player to make Top Eight at a Pro Tour. Unfortunately, to do it he'll have to best longtime friend and Pro Tour veteran Satoshi Nakamura.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/738.jpg)
+
+There's a world of support behind Kenichi Fujita. A victory in this final Swiss round could make him the first Japanese player to make Top Eight at a Pro Tour. Unfortunately, to do it he'll have to best longtime friend and Pro Tour veteran Satoshi Nakamura.
 
 Both players had turn-one tappers, but Nakamura's draw was fast, with Quirion Sentinel and Llanowar Knight. The Knight traded with Fujita's Shoreline Raider, and Fujita Prohibited a kicked Ardent Soldier.
 

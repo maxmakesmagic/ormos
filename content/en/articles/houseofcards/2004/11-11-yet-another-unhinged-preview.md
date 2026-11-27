@@ -525,7 +525,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/81/a4/81a4f30664a37c2efcf761348a5043b799797810a21999a4a6da9f2d87d17735.jpg)How would you fine folks like an *Unhinged* preview card today? You wouldn't? OK, on to Plan B.
+![](https://i.ormos.uk/81/a4/81a4f30664a37c2efcf761348a5043b799797810a21999a4a6da9f2d87d17735.jpg)
+
+How would you fine folks like an *Unhinged* preview card today? You wouldn't? OK, on to Plan B.
 
 Although overshadowed by its media darling cousins the kangaroo and the koala, the wombat is one wicked cool marsupial. Notoriously shy, this critter (which is closer to being a living teddy bear than any other animal on earth) lives in burrows *and* is nocturnal. Talk about avoiding the spotlight! But a spotlight is exactly what you need to see one in the wild, as I found out in the back of a pickup truck barreling along the Outback underbrush…
 

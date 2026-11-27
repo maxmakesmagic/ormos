@@ -44,7 +44,9 @@ archive_source:
   sha256: cba86f20269f48d0f6610424c08d41bcaf300973fabd3db6e4ad597d19c8c1be
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/LAC01/929.jpg)Marcos Tanaka was pointed out by many as a man to watch, and after going 3-0 in his first pod, it seemed they were right. He sat down in seat six, under the influence of Gerardo Godinez.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/LAC01/929.jpg)
+
+Marcos Tanaka was pointed out by many as a man to watch, and after going 3-0 in his first pod, it seemed they were right. He sat down in seat six, under the influence of Gerardo Godinez.
 
 With the first packs opened so far from him, Tanaka was going to need to be flexible. He took [Metathran Zombie](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metathran+Zombie) behind Godinez's [Benalish Trapper](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Benalish+Trapper), while after him, Julio Silva Maciel doubled-up on white cards. Though the set-up was good, the next pack did not co-operate. The three playable blue and black cards were swept up. Godinez got [Shackles](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shackles). Tanaka signalled with [Thunderscape Apprentice](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thunderscape+Apprentice).
 

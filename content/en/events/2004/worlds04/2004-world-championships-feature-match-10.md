@@ -975,7 +975,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/62/f0/62f0aeb16acc60c5a98ec2c58915a1d75fb2a375e9355500edd8f9aa5e983943.jpg)After 20 rounds of battling, Japan and the Netherlands found themselves in a tie for third place with two rounds to go. A long look at the standings and some simple math showed that each team could make the finals by winning both remaining rounds. To do so, they'd have to get by each other.
+![](https://i.ormos.uk/62/f0/62f0aeb16acc60c5a98ec2c58915a1d75fb2a375e9355500edd8f9aa5e983943.jpg)
+
+After 20 rounds of battling, Japan and the Netherlands found themselves in a tie for third place with two rounds to go. A long look at the standings and some simple math showed that each team could make the finals by winning both remaining rounds. To do so, they'd have to get by each other.
 
 ### The Draft
 

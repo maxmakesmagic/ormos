@@ -40,7 +40,9 @@ render_recovery:
 ---
 ![](https://i.ormos.uk/79/ef/79efc38385ea69f583a897569946246f9757c63953700977d5267746ea308257.gif)
 
-![](https://i.ormos.uk/6a/78/6a78956eac1d2cb3ddfb1fe57056784be4fcedce26824cafe0f9ead21c5a82c3.jpg)The last Masters Series has come and gone, and how fitting that the champion should be former Pro Tour Champion and Player of the Year Bob Maher. Playing a [Tinker](https://web.archive.org/web/20201025202814/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) deck that harkened back to the finals of Worlds 2000, Maher came to the event with minimal preparation. He had literally played no games of extended since Grand Prix – New Orleans in January. Still, he steamrolled the competition on his way to the finals.
+![](https://i.ormos.uk/6a/78/6a78956eac1d2cb3ddfb1fe57056784be4fcedce26824cafe0f9ead21c5a82c3.jpg)
+
+The last Masters Series has come and gone, and how fitting that the champion should be former Pro Tour Champion and Player of the Year Bob Maher. Playing a [Tinker](https://web.archive.org/web/20201025202814/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) deck that harkened back to the finals of Worlds 2000, Maher came to the event with minimal preparation. He had literally played no games of extended since Grand Prix – New Orleans in January. Still, he steamrolled the competition on his way to the finals.
 
 There he faced Gabriel Nassif of France, himself a Pro Tour Finalist. Nassif got to the big show the hard way, through the Grinder on Thursday. 5-0 got him to the big tables, and he didn't stop winning once he was there. Playing Enchantress, he caught most of his opponents with their pants down, even beating Tomi Walamies and his wacky [Pattern of Rebirth](https://web.archive.org/web/20201025202814/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pattern+of+Rebirth) deck to get to the finals.
 

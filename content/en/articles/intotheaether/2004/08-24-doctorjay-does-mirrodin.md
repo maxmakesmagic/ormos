@@ -1037,7 +1037,9 @@ Moving on.
 
 ### Sealed in a Metal World
 
-![](https://i.ormos.uk/e5/0d/e50dd5f29251745e2607d9c10fdc4318148800562801f4da2e7adca6c2e85795.jpg)I don't play in many non-Premier Sanctioned Tournaments because, quite frankly, I play ***Magic** Online* while I'm watching television, or knowing I may need to leave to pick up my son from daycare, or in the wee hours of the morning. On the tournament-casual spectrum, I suppose you could say I'm decidedly on the "casual" end of things. Make me play in a lot of tournaments that can affect my rating, and I will show you a rating that's in the toilet.
+![](https://i.ormos.uk/e5/0d/e50dd5f29251745e2607d9c10fdc4318148800562801f4da2e7adca6c2e85795.jpg)
+
+I don't play in many non-Premier Sanctioned Tournaments because, quite frankly, I play ***Magic** Online* while I'm watching television, or knowing I may need to leave to pick up my son from daycare, or in the wee hours of the morning. On the tournament-casual spectrum, I suppose you could say I'm decidedly on the "casual" end of things. Make me play in a lot of tournaments that can affect my rating, and I will show you a rating that's in the toilet.
 
 Enter online Sealed Leagues. What I love about Leagues is that they are competitive while also being stress-free. They don't affect my Limited Rating, they're cost efficient (meaning that you pay relatively little over the course of the month-long League and can usually win a prize), and there is a high tolerance for people of varied skill level. Chad hit on a lot of these benefits in his own [article on leagues](/en/articles/onlineandenjoyingit/2004/07-27-a-league-of-ones-own), so my article will be hitting a bit more on my experience of actually playing in leagues. 
 
@@ -1229,7 +1231,9 @@ So what happened in the last match if my deck is so good? In the first game, I t
 
 ### Pause. Reflect. Play Standard.
 
-![](https://i.ormos.uk/8d/4b/8d4b64ca22c72542936438800d7b37e61b4e4c7cc72c9a01b9dcf65e301bdb94.jpg)Tomorrow begins Week 3 of my League. If you have advice, either on aspects of Sealed Play I didn't discuss or on cards I should try from my pool, speak up on the Message Boards and I'll see what I can do.
+![](https://i.ormos.uk/8d/4b/8d4b64ca22c72542936438800d7b37e61b4e4c7cc72c9a01b9dcf65e301bdb94.jpg)
+
+Tomorrow begins Week 3 of my League. If you have advice, either on aspects of Sealed Play I didn't discuss or on cards I should try from my pool, speak up on the Message Boards and I'll see what I can do.
 
 I also wanted to mention that I'm still cruising the Casual Constructed room, playing Standard. When *Fifth Dawn* first hit ***Magic** Online*, I bought two copies of the [Nuts and Bolts](https://web.archive.org/web/20050413074629/http://www.wizards.com/magic/displaythemedeck.asp?set=5dn&decknum=1&lang=en) preconstructed decks. Each week, I played the deck and slowly swapped cards out for other cards until I had a stable, fun decklist. You can read about the full process over at StarCity's website, in which I document the changes in a daily blog. I let you know now because it's something I'll probably do again within this column when *Champions of Kamigawa* hits ***Magic** Online* around November 1st. 
 

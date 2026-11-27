@@ -51,13 +51,17 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/48/d8/48d85863230e3e0a2c8b1bc3e471c5e0d0756199748d062226792b4bf442bdd7.jpg)Trevor Blackwell is the defending national champion and is playing R/G with a healthy amount of direct damage. [Urza's Rage](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Rage), [Volcanic Hammer](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Hammer), and [Firebolt](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) along with [Violent Eruption](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Violent+Eruption) makes sure that his opponent's creatures, and their life totals, are short-lived.
+![](https://i.ormos.uk/48/d8/48d85863230e3e0a2c8b1bc3e471c5e0d0756199748d062226792b4bf442bdd7.jpg)
+
+Trevor Blackwell is the defending national champion and is playing R/G with a healthy amount of direct damage. [Urza's Rage](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Rage), [Volcanic Hammer](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Hammer), and [Firebolt](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) along with [Violent Eruption](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Violent+Eruption) makes sure that his opponent's creatures, and their life totals, are short-lived.
 
 Anthony Justice of Kentucky need not worry about his creatures... he's not playing any in his maindeck.
 
 "You're playing already?" questioned Brian Kibler to Blackwell wondering why he had only two byes instead of three. "Yeah," Blackwell responded with a smile. Kibler took a quick glimpse at Blackwell's sideboard. "Haha. I see why you only have two byes."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/987.jpg)Blackwell played first, and mulliganed into Mountain, 2x Rootwalla, and some burn. Anthony Justice is playing a counter-burn deck that longs for [Hammer of Bogardan](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hammer+of+Bogardan). His no non-land permanent maindeck makes opposing Flametongues and other removal useless.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/987.jpg)
+
+Blackwell played first, and mulliganed into Mountain, 2x Rootwalla, and some burn. Anthony Justice is playing a counter-burn deck that longs for [Hammer of Bogardan](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hammer+of+Bogardan). His no non-land permanent maindeck makes opposing Flametongues and other removal useless.
 
 Justice's opening hand had 2x Mountain, [Sleight of Hand](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sleight+of+Hand), [Firebolt](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt), [Counterspell](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell), [Fire/Ice](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fire%2FIce), and [Earthquake](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Earthquake). With an Island his hand is potent against Blackwell's. Justice wasted no time, and ripped the Island like an old-school pro and started with Sleight.
 
@@ -68,7 +72,9 @@ Blackwell got his first two Rootwallas killed after not hitting a green-producin
 Blackwell In: [Kavu Chameleon](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Chameleon), [Kavu Titan](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan), 3x [Spellbane Centaur](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellbane+Centaur).  
  Blackwell Out: 2x FTK, 2x [Volcanic Hammer](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Hammer), [Violent Eruption](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Violent+Eruption)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/988.jpg)I really thought Blackwell would sideboard in the [Obliterate](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Obliterate). Against a slow, controlling deck, Blackwell should be able to recover faster and push through the final few points of damage. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/988.jpg)
+
+I really thought Blackwell would sideboard in the [Obliterate](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Obliterate). Against a slow, controlling deck, Blackwell should be able to recover faster and push through the final few points of damage. 
 
 This game Justice showed a different deck. The sideboard included FTK and [Glacial Wall](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glacial+Wall), slowing the early game even further for Blackwell. [Yavimaya Barbarian](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Yavimaya+Barbarian) came out for Blackwell, and then a second, but were quickly disposed of with FTK and [Firebolt](https://web.archive.org/web/20020511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt).
 

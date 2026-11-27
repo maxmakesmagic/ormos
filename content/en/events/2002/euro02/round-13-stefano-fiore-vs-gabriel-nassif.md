@@ -53,7 +53,9 @@ archive_source:
   sha256: 6233193fa37416219590847fbae65ace5d86125b00cd187435c8021c676f0f54
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a840.jpg)Stefano Fiore has been having a great year. He had a Top 8 at Grand Prix-Lisbon and recently became the Italian National Champion. Across the table sits Gabriel Nassif, one the good young French players in the Pro Tour circuit (and a Team Pro Tour finalist this year). They are both 3-2 in this moment and a win here could push them further up for some extra cash.
+![](http://www.wizards.com/sideboard/images/euro02/a840.jpg)
+
+Stefano Fiore has been having a great year. He had a Top 8 at Grand Prix-Lisbon and recently became the Italian National Champion. Across the table sits Gabriel Nassif, one the good young French players in the Pro Tour circuit (and a Team Pro Tour finalist this year). They are both 3-2 in this moment and a win here could push them further up for some extra cash.
 
 Game 1 
 
@@ -93,7 +95,9 @@ Stefano 1-1 Gabriel
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/euro02/a841.jpg)This time Fiore was the one playing Merfolk Looter on the second turn and this time the Looter survived. All Gabriel Nassif could do was play Wild Mongrel. On the next turn Arrogant Wurm came in but Fiore was ready for it, with Flametongue Kavu.
+![](http://www.wizards.com/sideboard/images/euro02/a841.jpg)
+
+This time Fiore was the one playing Merfolk Looter on the second turn and this time the Looter survived. All Gabriel Nassif could do was play Wild Mongrel. On the next turn Arrogant Wurm came in but Fiore was ready for it, with Flametongue Kavu.
 
 The French thought for a long time before playing the perfect answer: Violent Eruption. Not only did Fiore lose both creatures but he went down to fourteen. The Italian needed some defense and he got it the little shape of Sunscape Familiar, combined with Opposition.
 

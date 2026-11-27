@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Collin Jackson*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/396.JPG)Loic Dobrigna was 4-2 after the draft portion of this event, and he needed to go undefeated the next day in order to assure a spot in the finals.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/396.JPG)
+
+Loic Dobrigna was 4-2 after the draft portion of this event, and he needed to go undefeated the next day in order to assure a spot in the finals.
 
 "I asked myself, 'What deck could go 6-0?'" the Frenchman recounted. "I needed something that could beat Replenish, Trinity Green, and Angry Hermit, which were the dominant decks in the European metagame."
 

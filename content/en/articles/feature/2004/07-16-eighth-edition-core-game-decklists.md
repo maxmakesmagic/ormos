@@ -255,7 +255,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/a7/8d/a78d5e8a3b874bdbe80270fbbdffd5b4326cb8c9d77cfa85ca3443c6a2116fc9.jpg)The Eighth Edition Core Game comes packaged with two decks designed to teach new players how to play: the Silver Player's Deck and the Gold Player's Deck.
+![](https://i.ormos.uk/a7/8d/a78d5e8a3b874bdbe80270fbbdffd5b4326cb8c9d77cfa85ca3443c6a2116fc9.jpg)
+
+The Eighth Edition Core Game comes packaged with two decks designed to teach new players how to play: the Silver Player's Deck and the Gold Player's Deck.
 
 If you want to play the guided game again or you shuffled your decks by mistake, but the cards in the following order, from the top of the deck down. Only the order of the boldface cards matter; the others can be in any order. They are included here in their original order as a matter of historical interest.
 

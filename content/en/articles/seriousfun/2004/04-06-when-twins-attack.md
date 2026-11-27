@@ -401,7 +401,9 @@ A few words on each:
 
 Let's move on to a card that can tie these two crazy kids together – and quite frankly, I haven't heard much about this one either, beyond some initial “gee whiz” discussion on a board or two…
 
-![](https://i.ormos.uk/be/81/be8136c6c5f8d24165290229b7e1f5436543c50209889d44e6aa79251a36c343.jpg)**The cross-cutting card: Savage Beating.** While expensive, this is the card that will help both the Engine and the Binder shine. It doesn't have to be the Engine equipped with the Spellbinder, to be sure: but I like the idea of equipping a Twin token. (Yes, you'll have to find a way to do this at instant speed. Looks like we have two colors for our deck – red and white.)
+![](https://i.ormos.uk/be/81/be8136c6c5f8d24165290229b7e1f5436543c50209889d44e6aa79251a36c343.jpg)
+
+**The cross-cutting card: Savage Beating.** While expensive, this is the card that will help both the Engine and the Binder shine. It doesn't have to be the Engine equipped with the Spellbinder, to be sure: but I like the idea of equipping a Twin token. (Yes, you'll have to find a way to do this at instant speed. Looks like we have two colors for our deck – red and white.)
 
 An interesting rules question arising from group play: when Gemini Engine attacks and the “attacking Twin” is put into play, whom is the Twin attacking? Does it have to be the same player as the Gemini Engine, or can it be a different player?
 

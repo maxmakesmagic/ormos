@@ -103,7 +103,9 @@ Matt Ranks was squaring off against someone playing the Aluren combo deck. He st
 
 ### Okay, One More Beating
 
-![](https://i.ormos.uk/bb/fe/bbfe255662f4fb04bbbafcdbcab894352b960c633e93759a027632a33efd8e0b.jpg)Ken Krouner faced Itaru Ishida in a round three Feature Match. He was worried about his chances because he was with Rock, and Ishida had spent his first two rounds dismantling Rock decks. Still, things were looking good for Krouner. Despite Ishida's using two Wishes to find Intuition for Accumulated Knowledge as well as Stroke of Genius to stock up on card advantage, he had no answer for Krouner's Treetop Village and Pernicious Deed took care of his Psychatog. At two life, he untapped with five land in play, thanks to a Thwart staving off a second Deed. He played his third Wish, and pulled out Corpse Dance. The sixth land came down and Krouner was suddenly very dead. Said Krouner "That is the coolest thing that's ever happened to me in a match I lost."
+![](https://i.ormos.uk/bb/fe/bbfe255662f4fb04bbbafcdbcab894352b960c633e93759a027632a33efd8e0b.jpg)
+
+Ken Krouner faced Itaru Ishida in a round three Feature Match. He was worried about his chances because he was with Rock, and Ishida had spent his first two rounds dismantling Rock decks. Still, things were looking good for Krouner. Despite Ishida's using two Wishes to find Intuition for Accumulated Knowledge as well as Stroke of Genius to stock up on card advantage, he had no answer for Krouner's Treetop Village and Pernicious Deed took care of his Psychatog. At two life, he untapped with five land in play, thanks to a Thwart staving off a second Deed. He played his third Wish, and pulled out Corpse Dance. The sixth land came down and Krouner was suddenly very dead. Said Krouner "That is the coolest thing that's ever happened to me in a match I lost."
 
 ### Welcome to the Big Leagues
 

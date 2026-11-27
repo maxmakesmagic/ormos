@@ -82,7 +82,9 @@ render_recovery:
   - Compost
   occurrences: 37
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a905.jpg)Ces deux joueurs québécois sont peut reconnus hors de la province. Vincent s'est qualifié au régionaux et il est parvenu au Top 8 lors d'une victoire en dernière ronde contre Jeff Fung. Guillaume Daoust joue mono-noir depuis qu'il a fait Top 16 à Osaka avec le deck. Il a passé toute la fin de semaine haut dans le classement et il était troisième après 12 rondes. 
+![](http://www.wizards.com/sideboard/images/natcan03/a905.jpg)
+
+Ces deux joueurs québécois sont peut reconnus hors de la province. Vincent s'est qualifié au régionaux et il est parvenu au Top 8 lors d'une victoire en dernière ronde contre Jeff Fung. Guillaume Daoust joue mono-noir depuis qu'il a fait Top 16 à Osaka avec le deck. Il a passé toute la fin de semaine haut dans le classement et il était troisième après 12 rondes. 
 
 ### Première Partie
 
@@ -92,7 +94,9 @@ Vincent passe à l'offensive avec un Rootwalla madnessé d'un deuxième Study et
 
 Vincent reste agressif, jouant Wild Mongrel et un Rootwalla. Guillaume ne comprend pas pourquoi Vincent a voulu payer un mana pour le lézard, et Vincent n'a pas d'explication.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a913.jpg)Un troisième Mutilate tuera la Mongrel, mais le Rootwalla est retourner avec Unsummon. Il revient au prochain tour accompagné d'un Phantom Centaur. Guillaume pose son huitième swamp, joue Diabolic Tutor et Mutilate numéro 4. Vincent voit que sa situation empire et il flash un deuxième Analysis et joue une Mongrel. Ses City of Brass lui ont fait plusieurs dégâts et il est maintenant à 6 vies. Guillaume essaye un Edict qui se fait Logicé, suivi d'un Corrupt qui lui gagne la première partie. 
+![](http://www.wizards.com/sideboard/images/natcan03/a913.jpg)
+
+Un troisième Mutilate tuera la Mongrel, mais le Rootwalla est retourner avec Unsummon. Il revient au prochain tour accompagné d'un Phantom Centaur. Guillaume pose son huitième swamp, joue Diabolic Tutor et Mutilate numéro 4. Vincent voit que sa situation empire et il flash un deuxième Analysis et joue une Mongrel. Ses City of Brass lui ont fait plusieurs dégâts et il est maintenant à 6 vies. Guillaume essaye un Edict qui se fait Logicé, suivi d'un Corrupt qui lui gagne la première partie. 
 
 ### Deuxième Partie
 
@@ -100,7 +104,9 @@ Vincent garde une main de une land et ne trouvera jamais une deuxième. Visara j
 
 ### Troisième Partie.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a912.jpg)Cette fois Vincent a trois îles, pas de Study ni d'Analyse. Guillaume Duressera son seul Logic au premier tour. Heureusement pour Vincent il en trouve un deuxième à temps pour arrêter un Persecute qui suit peu après. Vincent trouvera une forêt et jouera quelques créatures mais Guillaume s'en sort vite avec des Smothers et des Mutilates.
+![](http://www.wizards.com/sideboard/images/natcan03/a912.jpg)
+
+Cette fois Vincent a trois îles, pas de Study ni d'Analyse. Guillaume Duressera son seul Logic au premier tour. Heureusement pour Vincent il en trouve un deuxième à temps pour arrêter un Persecute qui suit peu après. Vincent trouvera une forêt et jouera quelques créatures mais Guillaume s'en sort vite avec des Smothers et des Mutilates.
 
 Suite à un Corrupt réussi par Guillaume, Vincent joue vite un Upheaval défensif, suivi d'un Rootwalla et d'un Compost. Quand Vincent ajoute un Phantom Centaur, Guillaume en a assez et déclenche un troisième Mutilate. Ceci incite le deuxième Upheaval de Vincent, suivi encore d'un Rootwalla. Vincent ne réussi pas à établir une situation menaçante et Guillaume gagne avec Visara et Corrupt
 

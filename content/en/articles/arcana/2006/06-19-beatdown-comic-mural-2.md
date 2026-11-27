@@ -79,7 +79,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/8d/87/8d87fa69c8e8ef4749e6b4bb372627e8facd13ef6bb9b89755cdff221762d8ff.jpg)We've already seen that mural-master Greg Stapes created the [*Ravnica* block mural](/en/articles/arcana/2006/05-11-ravnica-block-mural), but there was an earlier piece of Staples mural mastery. The [*Beatdown Gift Box*](https://web.archive.org/web/20080426084832/http://www.wizards.com/default.asp?x=magic/expansion/beatdown) featured two prebuilt decks, one in green and red centered around Ehrnam Djinn, and the other decked out in black and blue with Sengir Vampire at the helm.
+![](https://i.ormos.uk/8d/87/8d87fa69c8e8ef4749e6b4bb372627e8facd13ef6bb9b89755cdff221762d8ff.jpg)
+
+We've already seen that mural-master Greg Stapes created the [*Ravnica* block mural](/en/articles/arcana/2006/05-11-ravnica-block-mural), but there was an earlier piece of Staples mural mastery. The [*Beatdown Gift Box*](https://web.archive.org/web/20080426084832/http://www.wizards.com/default.asp?x=magic/expansion/beatdown) featured two prebuilt decks, one in green and red centered around Ehrnam Djinn, and the other decked out in black and blue with Sengir Vampire at the helm.
 
 For that product, Greg had the assignment of illustrating these two iconic beasties battling it out. He painted a full mural-style “comic” of the entire fight. Ready to scroll?
 

@@ -391,7 +391,9 @@ Right now, “star” is our five-player format. I don't recall how it began –
 
 ### How It Works
 
-![](https://i.ormos.uk/dc/87/dc874d8ec01a36ee459c64584f8abeb257c3a90a8cb2da9e8714fd8583ce77a8.jpg)Your objective in a star game is simple: you win when the two players furthest from you (i.e., not adjacent) are out. 
+![](https://i.ormos.uk/dc/87/dc874d8ec01a36ee459c64584f8abeb257c3a90a8cb2da9e8714fd8583ce77a8.jpg)
+
+Your objective in a star game is simple: you win when the two players furthest from you (i.e., not adjacent) are out. 
 
 You may not attack either adjacent player. You may target them or their permanents. They are still “opponents” when it comes to interpreting cards (so they discard to Unnerve, etc.).
 

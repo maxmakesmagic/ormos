@@ -429,7 +429,9 @@ render_recovery:
   - Inspirit
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a821.jpg)Brian Kibler has been testing with YMG for this tournament and it seems to be paying off in spades for both sides in that deal. Brian and Dave were the only remaining undefeated players coming into this round—Brian was 7-0 while Dave had a draw (insert joke here). Both players were involved in a few controversial picks but each had extremely solid white decks. Apparently the preferred strategy for YMG was to try to go nearly mono-white and supplement the color from the most under drafted of the remaining colors.
+![](http://www.wizards.com/sideboard/images/natus03/a821.jpg)
+
+Brian Kibler has been testing with YMG for this tournament and it seems to be paying off in spades for both sides in that deal. Brian and Dave were the only remaining undefeated players coming into this round—Brian was 7-0 while Dave had a draw (insert joke here). Both players were involved in a few controversial picks but each had extremely solid white decks. Apparently the preferred strategy for YMG was to try to go nearly mono-white and supplement the color from the most under drafted of the remaining colors.
 
 Dave is red-white with the controversial Slice and Dice as the centerpiece. Brian is not without a wrath of his own—in this case Decree of Pain. Brian also has Eternal Dragon to smooth out his early mana and dominate the late game.
 
@@ -439,7 +441,9 @@ Both players led of with morphs—Kibler cycled an Eternal Dragon to find his th
 
 Despite a brief land stumble, Brian was aggressively eating into Dave's life total. Dragonstalker came down but traded with a morph thanks to a cycled Slice and Dice. Brian kept the pressure up with a Gluttonous Zombie and a Dive Bomber the next turn—Dave's Noble Templar could only look on as the fear creature zipped by. 
 
-![](https://i.ormos.uk/34/23/342372d1ac7a1c7b1dba8ca61939b43af7ac185dcb303463b192633765c16637.jpg)Dave threatened to stabilize with a big Aven Warhawk but a Skinthinner removed him from the equation and Dave fell to two. Brian had seen Dave's whole hand of soldiers and when Dave started looking for outs he pointed out that Dave would need to have drawn a Wing Shards AND a instant to avoid a lethal attack.
+![](https://i.ormos.uk/34/23/342372d1ac7a1c7b1dba8ca61939b43af7ac185dcb303463b192633765c16637.jpg)
+
+Dave threatened to stabilize with a big Aven Warhawk but a Skinthinner removed him from the equation and Dave fell to two. Brian had seen Dave's whole hand of soldiers and when Dave started looking for outs he pointed out that Dave would need to have drawn a Wing Shards AND a instant to avoid a lethal attack.
 
 Brian – 1 Dave – 0
 
@@ -461,7 +465,9 @@ Dave mulliganed his openers and didn't seem thrilled with his next six but decid
 
 Kibler opened with Deftblade Elite and neither player did anything else until Brian's turn four Screeching Buzzard. Lowland Tracker came down for Kibler against Dave's empty board with the Hump at fourteen. Humpherys played an Aven Warhawk revealing a Frontline Strategist, Noble Templar and Grassland Crusader.
 
-![](http://www.wizards.com/sideboard/images/natus03/a818.jpg)Kibler provoked the flier with his Elite and banged Dave down to ten. Humpherys did not attack with his flier and played a Grassland Crusader. Brian continued to get in two in the air thanks to Deftblade Elite tying up the Warhawk. He added a Dive Bomber. Dave thought for a while before deciding to play his Noble Templar and a face-up Strategist while swinging for seven with his flier that was useless as a blocker.
+![](http://www.wizards.com/sideboard/images/natus03/a818.jpg)
+
+Kibler provoked the flier with his Elite and banged Dave down to ten. Humpherys did not attack with his flier and played a Grassland Crusader. Brian continued to get in two in the air thanks to Deftblade Elite tying up the Warhawk. He added a Dive Bomber. Dave thought for a while before deciding to play his Noble Templar and a face-up Strategist while swinging for seven with his flier that was useless as a blocker.
 
 Brian got in for four and Dave fell to four life. He added a Dragonstalker and pitched the turn back to Humpherys who was trying to figure out if he had missed a chance to win by attacking with the Warhawk a turn earlier. He got in for seven more and played a Zealous Inquisitor.
 

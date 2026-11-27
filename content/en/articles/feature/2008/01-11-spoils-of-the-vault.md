@@ -565,7 +565,9 @@ One of *Lorwyn*'s big innovations over *Onslaught* block is adding creature type
 > 
 > Even worse, if we made the lands count as creature types, some of the benefits we had planted in the set to benefit Elves and Elf decks would suddenly be somewhat accessible to black control decks that didn't include any Elf creatures at all. That would be super lame. As the last straw, if you're wondering what could be the harm of putting the block's relevant subtypes onto a ton of no-mana-cost lands, I've got three words for you: *Mirrodin* artifact lands. Let's just say we've learned our lesson from that little debacle. The *Lorwyn* lands have no subtypes.
 
-![](https://i.ormos.uk/15/ca/15ca106238ddfb1a69642ea4588535b2c628ffcd256dcc1d4e4b698cfa513df3.jpg)The case seemed closed. But the *Morningtide* design team brimmed with the curiosity of Wizards and the courage of Warriors, and the team started the exploration again. Adding creature types to noncreature cards was such a huge part of the design of the block that leaving lands completely uninvolved seemed wrong from a perspective of design aesthetics. So how could they combine the two without running into the problems described above? Here's their first try:
+![](https://i.ormos.uk/15/ca/15ca106238ddfb1a69642ea4588535b2c628ffcd256dcc1d4e4b698cfa513df3.jpg)
+
+The case seemed closed. But the *Morningtide* design team brimmed with the curiosity of Wizards and the courage of Warriors, and the team started the exploration again. Adding creature types to noncreature cards was such a huge part of the design of the block that leaving lands completely uninvolved seemed wrong from a perspective of design aesthetics. So how could they combine the two without running into the problems described above? Here's their first try:
 
 > Changecave  
 >  Land  
@@ -660,7 +662,9 @@ So the question becomes: How were we willing to make a card this good? After all
 
 When developers tweak cards' numbers, our goal is not to act like a costing computer and calculate the "mathematically fair cost" for every card. Instead, developers work hard on hammering out philosophies about what elements of the game we want to empower or fall back on in any given year. A big part of those philosophical discussions is Pendulum Theory: If burn spells are really really powerful in a given year of sets, we're more likely to swing the pendulum back in the other direction, and be less aggressive with burn spells in the following year. Another big part of developers' philosophies is deciding what themes to promote, which deck types to boost, and which deck types need more enemies.
 
-![Damnation and Wrath of God](https://i.ormos.uk/5b/a2/5ba24d3b29dadf7dbbcc14e53dc8c4d2d57af715d2e009f189beaf8dc998b67c.jpg)In *Planar Chaos*, the developers agreed to make Damnation, the most powerful board sweeper black has ever had, and still keep Wrath of God in *Tenth Edition* as well. This is a pretty big deal. Tribal decks are based fundamentally on the idea "Put four different Merfolk (or Goblins or Elves) on the board, and they'll work together to do something awesome." Damnation and Wrath of God are incredibly powerful against decks that try to put four creatures in play at once. So before *Lorwyn* design began, the tribes theoretically faced a big obstacle. 
+![Damnation and Wrath of God](https://i.ormos.uk/5b/a2/5ba24d3b29dadf7dbbcc14e53dc8c4d2d57af715d2e009f189beaf8dc998b67c.jpg)
+
+In *Planar Chaos*, the developers agreed to make Damnation, the most powerful board sweeper black has ever had, and still keep Wrath of God in *Tenth Edition* as well. This is a pretty big deal. Tribal decks are based fundamentally on the idea "Put four different Merfolk (or Goblins or Elves) on the board, and they'll work together to do something awesome." Damnation and Wrath of God are incredibly powerful against decks that try to put four creatures in play at once. So before *Lorwyn* design began, the tribes theoretically faced a big obstacle. 
 
 Since tribal decks were the main focus of the *Lorwyn* block, the developers agreed to work hard to help tribal decks overcome those inherent obstacles to be powerful, effective, and fun. We decided to focus *Lorwyn* / *Morningtide* **Magic** a little more on creatures fighting each other and on powerful tribes, rather than decks with tons of spells and not many creatures. 
 

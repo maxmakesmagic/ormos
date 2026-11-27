@@ -52,7 +52,9 @@ render_recovery: []
 
 **Brian Hacker vs John Yoo** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R10Hacker.JPG)Now here's a feature match worth watching. Long time members of DKLA/Hitmen Yoo and Hacker go back a long ways, but this is only the second time they've played one another in a major event, and the first time they've played in constructed. As the two friends sat down for their match, it was apparent that this wouldn't be your usual set of duels, as trash talk and laughter came in abundance. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R10Hacker.JPG)
+
+Now here's a feature match worth watching. Long time members of DKLA/Hitmen Yoo and Hacker go back a long ways, but this is only the second time they've played one another in a major event, and the first time they've played in constructed. As the two friends sat down for their match, it was apparent that this wouldn't be your usual set of duels, as trash talk and laughter came in abundance. 
 
 After winning the die roll, John responded to Brian's first turn Pouncing Jaguar with a second turn Peace of Mind, which immediately prompted an 'uh oh' from Hacker. Despite dropping a rash of creatures and attacking as aggressively as possible Brian could only watch as John Tutored and Intuitioned for his Replenish-Yawgmoth's Bargain-Abundance-Seismic Assault combo, and when he saw that John had four mana, he quickly conceded. 
 

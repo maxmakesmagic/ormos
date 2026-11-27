@@ -79,7 +79,9 @@ render_recovery:
   - Pacifism
   occurrences: 32
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a970.jpg)Masashiro Kuroda may have shown some intimidating stares en route to his Team Masters victory with PS2 in Venice last weekend, but there's only one thug in Japanese pro Magic, and that's Masayuki Higashino. A fixture from way back, Higashino can always be seen wearing all black and lingering at the top of the standings. Today he's added a bomber jacket to his ensemble.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a970.jpg)
+
+Masashiro Kuroda may have shown some intimidating stares en route to his Team Masters victory with PS2 in Venice last weekend, but there's only one thug in Japanese pro Magic, and that's Masayuki Higashino. A fixture from way back, Higashino can always be seen wearing all black and lingering at the top of the standings. Today he's added a bomber jacket to his ensemble.
 
 ### Game 1
 
@@ -95,7 +97,9 @@ Kuroda 1 – Higashino 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a969.jpg)The first play of the second game was Kuroda's Smokespew Invoker. Higashino had just three swamps and no play. Kuroda hit for three and added a morph. Higashino cycled Hundroog, and then dropped Vile Deacon. Kuroda played his fifth land and attacked immediately. Higashino traded his Deacon for the Invoker. Kuroda added another morph. Higashino dropped Screeching Buzzard, and traded it for the newer morph, which turned out to be Haunted Cadaver, as well as a land from Kuroda. Kuroda dropped Snarling Undorak, relentless.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a969.jpg)
+
+The first play of the second game was Kuroda's Smokespew Invoker. Higashino had just three swamps and no play. Kuroda hit for three and added a morph. Higashino cycled Hundroog, and then dropped Vile Deacon. Kuroda played his fifth land and attacked immediately. Higashino traded his Deacon for the Invoker. Kuroda added another morph. Higashino dropped Screeching Buzzard, and traded it for the newer morph, which turned out to be Haunted Cadaver, as well as a land from Kuroda. Kuroda dropped Snarling Undorak, relentless.
 
 When Higashino showed Glowering Rogon it looked like it might be the end of the line for Kuroda's pressure, but it went unamplified. The Undorak was free to swing for three, and Kuroda added a Needleshot Gourna to the table. Higashino dropped Wirewood Savage with four mana open. The Gourna dropped Higashino to seven, and Kuroda added a Screeching Buzzard. The top of his deck refused to let him run out of gas.
 

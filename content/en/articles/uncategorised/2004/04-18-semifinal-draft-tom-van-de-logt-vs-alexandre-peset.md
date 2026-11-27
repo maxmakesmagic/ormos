@@ -53,7 +53,9 @@ archive_source:
   sha256: 1348f6a85565a830eb8e3d00ca69e866f24e484e0a66e62628731bb99ddbe19d
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/sf3_1.jpg)Tom, member of Schietkoe, is a former World Champion. Peset is coming fresh of a top 8 in Pro Tour Kobe, and is playing on NPC All Stars. Tom drafted an amazing black/white deck featuring 2 [Leonin Battlemage](https://web.archive.org/web/20040418000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leonin+Battlemage), [Sword of Light and Shadow](https://web.archive.org/web/20040418000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sword+of+Light+and+Shadow), and other assorted goodies. Alexandre got a seemingly suboptimal mono-black deck with a very low manacurve.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/sf3_1.jpg)
+
+Tom, member of Schietkoe, is a former World Champion. Peset is coming fresh of a top 8 in Pro Tour Kobe, and is playing on NPC All Stars. Tom drafted an amazing black/white deck featuring 2 [Leonin Battlemage](https://web.archive.org/web/20040418000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leonin+Battlemage), [Sword of Light and Shadow](https://web.archive.org/web/20040418000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sword+of+Light+and+Shadow), and other assorted goodies. Alexandre got a seemingly suboptimal mono-black deck with a very low manacurve.
 
 ### Game 1
 

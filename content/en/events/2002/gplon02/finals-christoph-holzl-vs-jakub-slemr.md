@@ -79,7 +79,9 @@ Christophe has won every match he has played so far, and if he wins this he’ll
 
 ### Game One
 
-![](https://www.wizards.com/sideboard/images/gplon02/872.jpg)Jakub went first but he didn’t have a good draw by any means, and his first play was a Careful Study, although he just discarded a couple of lands. He then made a Werebear which was Edicted. Jakub played a Basking Rootwalla and a Wild Mongrel, but they both died to a Mutilate.
+![](https://www.wizards.com/sideboard/images/gplon02/872.jpg)
+
+Jakub went first but he didn’t have a good draw by any means, and his first play was a Careful Study, although he just discarded a couple of lands. He then made a Werebear which was Edicted. Jakub played a Basking Rootwalla and a Wild Mongrel, but they both died to a Mutilate.
 
 The Czech played a Wonder, which was also Edicted, and then another Mongrel. Hölzl wasn’t worried as he had Nantuko Shade, and Haunting Echoes which removed a very decent portion of Jakub’s deck from the game. Undaunted Slemr used his Mongrel to put a Rootwalla and a Roar of the Wurm token into play. They were Mutilated. The German then cast another Haunting Echoes, which left Jakub with only a very small amount of ways to win left in his deck.
 
@@ -87,7 +89,9 @@ Christoph Tutored for a Nantuko Shade and won the game in two attacks as unsurpr
 
 ### Game Two
 
-![](https://www.wizards.com/sideboard/images/gplon02/871.jpg)Jakub summoned a turn two Wild Mongrel which was Edicted, and then a third turn Werebear, which met the same fate. After Enveloping an attempted Rancid Earth by Christoph, he played a Squirrel Nest and followed it up with a Standstill.
+![](https://www.wizards.com/sideboard/images/gplon02/871.jpg)
+
+Jakub summoned a turn two Wild Mongrel which was Edicted, and then a third turn Werebear, which met the same fate. After Enveloping an attempted Rancid Earth by Christoph, he played a Squirrel Nest and followed it up with a Standstill.
 
 Hölzl had another Rancid Earth, though, so only one Squirrel was produced. Jakub was on the offensive as he cast a pair of Basking Rootwallas and a Wild Mongrel. The German attempted to Mutilate but it was Enveloped. Jakub’s next attack brought Christoph to seven, and since he didn’t have a Mutilate it was on to game three.
 
@@ -95,7 +99,9 @@ Hölzl had another Rancid Earth, though, so only one Squirrel was produced. Jaku
 
 The Czech player had a poor hand in game three. When he cast Careful Study on the first turn he discarded two Careful Studies. He then waited an extra turn before casting his Wild Mongrel, presumably so he had Envelop back up, although he didn’t use it when Christoph cast Innocent Blood. This was so that he could play Squirrel Nest with Envelop back up on his fourth turn.
 
-![](https://www.wizards.com/sideboard/images/gplon02/873.jpg)Hölzl played Diabolic Tutor and passed the turn. It looked as though he was in serious trouble when Jakub made a Werebear and a Standstill. Hölzl cast Mutilate, but it wasn’t important enough to bother Enveloping. Slemr made a second Standstill and when Christoph attempted Rancid Earth, that was Enveloped.
+![](https://www.wizards.com/sideboard/images/gplon02/873.jpg)
+
+Hölzl played Diabolic Tutor and passed the turn. It looked as though he was in serious trouble when Jakub made a Werebear and a Standstill. Hölzl cast Mutilate, but it wasn’t important enough to bother Enveloping. Slemr made a second Standstill and when Christoph attempted Rancid Earth, that was Enveloped.
 
 Hölzl played another Rancid Earth but again it was Enveloped. Then he cast a Grotesque Hybrid but since Slemr already had three Squirrels in play, that wasn’t important either. When Jakub played a Wild Mongrel they had to trade, but now Slemr had four squirrels in play. Slemr added a second Squirrel Nest, so now even the threshold on the Rancid Earth didn’t matter, and Christop had to admit defeat.
 

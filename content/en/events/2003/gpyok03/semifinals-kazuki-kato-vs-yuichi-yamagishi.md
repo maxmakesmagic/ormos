@@ -81,7 +81,9 @@ Kazuki Kato is from one of Japan's fastest growing pro hotpots: Nagoya. Home to 
 
 ### Game 1
 
-![](https://i.ormos.uk/d5/27/d5279a5e834ddee669c92f3bd8fe5ec310fa2345c8a53167cf2b1cec8bbd52cb.jpg)Yamagishi's Skirk Prospector enabled a third-turn Goon, but Kato had the Silver Knight just in time to stem the beats. A second Prospector was able to push past for three with the help of Goblin Burrows. Kato morphed an Angel, but Gempalm Incinerator got rid of it, and Goblin Warchief and Goblin Sharpshooter joined in on the fun.
+![](https://i.ormos.uk/d5/27/d5279a5e834ddee669c92f3bd8fe5ec310fa2345c8a53167cf2b1cec8bbd52cb.jpg)
+
+Yamagishi's Skirk Prospector enabled a third-turn Goon, but Kato had the Silver Knight just in time to stem the beats. A second Prospector was able to push past for three with the help of Goblin Burrows. Kato morphed an Angel, but Gempalm Incinerator got rid of it, and Goblin Warchief and Goblin Sharpshooter joined in on the fun.
 
 Kato started cycling, trying to find a second red for the Starstorm in his hand. Instead he found only the most expensive spells in his deck, uncastable Akroma's and Decrees of Annihilation. His life total started to fall rapidly. Yamagishi added a second Goon to the table, giving Kato one last draw. It was a second Starstorm, mocking him. He scooped up his cards, and eagerly went to his sideboard.
 
@@ -99,7 +101,9 @@ Yamagishi 1 – Kato 1
 
 Kato frowned at his one-lander, but decided to risk his quarterfinals on his draws. They gave him lands, but they were Forgotten Cave and Secluded Steppe, so Yamagishi's double Piledriver opener had him at thirteen before he could get a man on the board. Goblin Goon showed up on turn three, and now Kato needed some serious help.
 
-![](https://i.ormos.uk/b7/77/b77748019f4e3982c8825dbe50c41aedb5fe771f50b6000ca636166a2421ef9b.jpg)He cycled Eternal Dragon and untapped with four mana at his disposal. He played Silver Knight and waited on Gempalm Incinerator. He blew up one of the Piledrivers and blocked the other, falling to seven. Yamagishi played out another Piledriver and a Prospector. They got blown up by Starstorm on his next attack. All he could muster was a Goblin Warchief.
+![](https://i.ormos.uk/b7/77/b77748019f4e3982c8825dbe50c41aedb5fe771f50b6000ca636166a2421ef9b.jpg)
+
+He cycled Eternal Dragon and untapped with four mana at his disposal. He played Silver Knight and waited on Gempalm Incinerator. He blew up one of the Piledrivers and blocked the other, falling to seven. Yamagishi played out another Piledriver and a Prospector. They got blown up by Starstorm on his next attack. All he could muster was a Goblin Warchief.
 
 Again, Kato made no move. Yamagishi threw down a Siege-Gang Commander and bashed, but Kato had the second Starstorm to ruin his day. Kato finally tapped out for an Exalted Angel, but land number six for Yamagishi let him have Rorix, taking Kato to a dangerous one life. He fought back to five and sat on his Wing Shards. Yamagishi sensed it, and held back.
 

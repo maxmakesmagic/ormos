@@ -62,7 +62,9 @@ This 60-card deck includes a random mix of basic land cards, creature cards, and
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/29/6b/296b2eb1cfd6f5c7f86c0f4535bc3f58f2b55e06d5c66cbc71f4e143ce47eefa.png)The twelfth **Magic** expansion, *Tempest* features 350 cards and continues the storyline started in *Weatherlight*.
+![](https://i.ormos.uk/29/6b/296b2eb1cfd6f5c7f86c0f4535bc3f58f2b55e06d5c66cbc71f4e143ce47eefa.png)
+
+The twelfth **Magic** expansion, *Tempest* features 350 cards and continues the storyline started in *Weatherlight*.
 
 **Set Name:** *Tempest*  
 **Block:** Set 1 of 3 in the *Tempest* Block  

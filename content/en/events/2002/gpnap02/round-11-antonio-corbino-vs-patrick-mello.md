@@ -85,7 +85,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a912.jpg)Mello won the die roll and, despite being the control player in this matchup, he was the first one to play a creature, summoning a Cephalid Looter on turn 3. Corbino killed it with Firebolt, which stalled him from playing a creature of his own for a turn. On the following turn the Italian player cast Leaf Dancer and attempted to make up the speed by casting Reckless Charge, but Mello was ready with Liquify. 
+![](http://www.wizards.com/sideboard/images/gpnap02/a912.jpg)
+
+Mello won the die roll and, despite being the control player in this matchup, he was the first one to play a creature, summoning a Cephalid Looter on turn 3. Corbino killed it with Firebolt, which stalled him from playing a creature of his own for a turn. On the following turn the Italian player cast Leaf Dancer and attempted to make up the speed by casting Reckless Charge, but Mello was ready with Liquify. 
 
 Mello was holding loads of four and five casting cost creatures, but got stuck on three mana watching helplessly as Corbino summoned another Leaf Dancer . On the following turn, as he attacked with a pair of 2/2 creatures, he cast Rites of Initiation discarding his entire hand and choosing to cast Fiery Temper rather than an Arrogant Wurm via its madness cost. Down to three life points, Mello needed to draw a land on the very next turn, or lose the first game.
 

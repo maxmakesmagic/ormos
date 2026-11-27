@@ -258,7 +258,9 @@ I’m about to say something I almost never do: Mark’s right. I mean about thi
 
 ### Psychological Foible #1 – Players Assume Things Work
 
-![Dash_Hopes](https://i.ormos.uk/c4/75/c475d0eeb521ef1c45877eb1877988b68aeb8632a352547ccc6175e9f101f5f8.jpg)There are a lot of unspoken rules in society. One of them is that things are supposed to work. If you buy a product, the expectation is that it will work. If you purchase food, the expectation is that it's edible. If you get a **Magic** card, the expectation is that it can do what it says it can do. Humans are disgustingly trusting. Here's how you get to abuse that trust.
+![Dash_Hopes](https://i.ormos.uk/c4/75/c475d0eeb521ef1c45877eb1877988b68aeb8632a352547ccc6175e9f101f5f8.jpg)
+
+There are a lot of unspoken rules in society. One of them is that things are supposed to work. If you buy a product, the expectation is that it will work. If you purchase food, the expectation is that it's edible. If you get a **Magic** card, the expectation is that it can do what it says it can do. Humans are disgustingly trusting. Here's how you get to abuse that trust.
 
 First, you can design a card that simply doesn't work. The rules just don't allow it. The player will assume it works because they always assume it works and play it. At some point they'll run into a person with enough rules knowledge that they'll be informed it doesn't work, but they won't believe this person because it's written on the card so, of course, it has to work. The rules lawyer will start explaining the rules and the owner of the card will just keep pointing to the card. This cycle will go on for quite a while. Hours of entertainment. But this is the blunt use of this tool. I don't want you thinking that evil never uses any nuance. 
 
@@ -285,7 +287,9 @@ Let's move on. We have much more evil to do.
 
 ### Psychological Foible #2 – Players Need Every Piece of Text to Mean Something
 
-![Fools_Tome](http://www.wizards.com/magic/images/cardart/TE/Fools_Tome.jpg)Now that we're limiting ourselves to cards that actually work, the next area ripe for abuse is the text. Here's how human nature works. If there's text on the card, it must mean something. All text has meaning. Why would the designers put text on the card that doesn't have value? 
+![Fools_Tome](http://www.wizards.com/magic/images/cardart/TE/Fools_Tome.jpg)
+
+Now that we're limiting ourselves to cards that actually work, the next area ripe for abuse is the text. Here's how human nature works. If there's text on the card, it must mean something. All text has meaning. Why would the designers put text on the card that doesn't have value? 
 
 Now there are a number of ways to take advantage of this. First is to include meaningless text. I don't mean text that doesn't work; that was the last section. I mean text that works but will just never ever be meaningful. For example, protection from Dwarves in a set with no Dwarves. You should have seen the angry letters Mark got when people first saw Goatnapper before they figured out that all of the Shapeshifters in the set had changeling and thus were Goats. Players will search and search for the answer, getting angrier and angrier. Once they figure out that there isn't an answer, they'll gripe about the text every time they use the card. Oh yeah, make sure to make the rest of the card good enough that they feel compelled to use it.
 
@@ -330,7 +334,9 @@ Which brings us to the next foible.
 
 ### Psychological Foible #3 – Players Assume Similar Things Work the Same
 
-![Morphling](https://i.ormos.uk/69/5c/695c911ea9005e9ad68e376aace6e38a2d63cd770125457b547d272f2651cb0c.jpg)Humans are fundamentally lazy. They want to think as little as possible. As such, society has been set up to lessen thinking whenever it can. One of the ways it does this is standardization. Similar things are designed to work similarly. No matter what phone you buy, it plugs into the same outlet in the wall. All devices that need batteries use the same small pool of batteries. All stoplights use the same three colors.
+![Morphling](https://i.ormos.uk/69/5c/695c911ea9005e9ad68e376aace6e38a2d63cd770125457b547d272f2651cb0c.jpg)
+
+Humans are fundamentally lazy. They want to think as little as possible. As such, society has been set up to lessen thinking whenever it can. One of the ways it does this is standardization. Similar things are designed to work similarly. No matter what phone you buy, it plugs into the same outlet in the wall. All devices that need batteries use the same small pool of batteries. All stoplights use the same three colors.
 
 **Magic** is no different. When players learn that a particular kind of card works a certain way, they just assume that similar ones will have the same functionality. So much so that players will stop reading the newer cards once they get hints that it looks the same. Whenever people stop paying attention to the details, that's when evil can strike. Just ask the devil. It's his shtick.
 
@@ -364,7 +370,9 @@ One more.
 
 ### Psychological Foible #4 – Players Need Patterns to Be Complete
 
-![Recycle](https://i.ormos.uk/38/60/3860af8ae7ef74183ce8df70971e53cf4e3bb234a45d9ed1202963dd3cfc0e83.jpg)Humans are structure junkies. It's just the way our brains are wired. We crave our patterns. Things have to work in a certain way. One of those things is called pattern completion. When people see things start to fit together, they are compelled to keep looking until they find them all. We can take advantage of that.
+![Recycle](https://i.ormos.uk/38/60/3860af8ae7ef74183ce8df70971e53cf4e3bb234a45d9ed1202963dd3cfc0e83.jpg)
+
+Humans are structure junkies. It's just the way our brains are wired. We crave our patterns. Things have to work in a certain way. One of those things is called pattern completion. When people see things start to fit together, they are compelled to keep looking until they find them all. We can take advantage of that.
 
 The simplest way to do this is make incomplete cycles. Not one or two cards—those might not be seen as a pattern. I'm talking about making four out of five. Make a cycle with four colors. You don't even have to put them in the same rarity or even name them alike. If they're close enough mechanically, the players will find them. 
 
@@ -390,7 +398,9 @@ The point is that players want to complete the pattern. If you set it up and alm
 
 ### Live Backwards
 
-![Infernal_Spawn_of_Evil](https://i.ormos.uk/ac/37/ac3783c1b7a3caf778625b96dc5b5d15ffcf652a194672b171158df69594a157.jpg)I feel like I've spread enough evil for one day. That's the thing about evil. You really have to pace yourself. It feels good at first, but it catches up with you. 
+![Infernal_Spawn_of_Evil](https://i.ormos.uk/ac/37/ac3783c1b7a3caf778625b96dc5b5d15ffcf652a194672b171158df69594a157.jpg)
+
+I feel like I've spread enough evil for one day. That's the thing about evil. You really have to pace yourself. It feels good at first, but it catches up with you. 
 
 Anyway, take my teachings and go forth, my minions! Cause pain and suffering. Annoy others. Don't return library books. Participate in flame wars. Quote Pauly Shore. (Wait, I already said to cause pain and suffering.) Just do evil. 
 

@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes 60 cards, a foil premium ra
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/d5/71/d571af7e9af673c1dea36369152a5ef43a300515dbe336d1ed9e3278edef0b38.png)**Magic: The Gathering** *2011 Core Set* features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set.
+![](https://i.ormos.uk/d5/71/d571af7e9af673c1dea36369152a5ef43a300515dbe336d1ed9e3278edef0b38.png)
+
+**Magic: The Gathering** *2011 Core Set* features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set.
 
 **Set Name:** *2011 Core Set*  
 **Number of Cards:** 249

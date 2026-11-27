@@ -242,7 +242,9 @@ Cornelissen 1 - 0 Herzog
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a836.jpg)　先手は Herzog に移り、調子よく 2 ターン目に《巡視犬/Patrol Hound》を出すが、そこで土地が平地 2 枚で止まり、次にキャストするのは《神秘の使い魔》。
+![](http://www.wizards.com/sideboard/images/ptnice02/a836.jpg)
+
+　先手は Herzog に移り、調子よく 2 ターン目に《巡視犬/Patrol Hound》を出すが、そこで土地が平地 2 枚で止まり、次にキャストするのは《神秘の使い魔》。
 
 　Cornelissen も初手に沼しかなく、緑のカードを展開できない状態だったのだが、 2 ターン目に出した《ミリキン人形》が能力を使うと墓地に森が移動。  
  　落ちて行った森を恨めしそうに眺めていた Cornelissen パッと表情を変え、手札を確認。  
@@ -263,7 +265,9 @@ Cornelissen 1 - 1 Herzog
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a837.jpg)　今回も 2 ターン目に《ミリキン人形》を置き、デッキのスピードアップを図る Cornelissen に対し、少しでも動きを遅らせようと《ミリキン人形》を《霊気の噴出》する Herzog 。
+![](http://www.wizards.com/sideboard/images/ptnice02/a837.jpg)
+
+　今回も 2 ターン目に《ミリキン人形》を置き、デッキのスピードアップを図る Cornelissen に対し、少しでも動きを遅らせようと《ミリキン人形》を《霊気の噴出》する Herzog 。
 
 　Cornelissen は再び《ミリキン人形》を出し、次のターンに《蝶番はずし/Unhinge》と《朽ちゆく巨人》を連発してキャストし、そのまま《朽ちゆく巨人》に《シートンの願望》を付けて攻撃を開始。
 

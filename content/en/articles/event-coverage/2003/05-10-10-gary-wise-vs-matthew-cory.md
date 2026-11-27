@@ -44,7 +44,9 @@ archive_source:
   sha256: 2a1946d24656d9d2a5df5477b42ba970a8092243c1a3f841c0835d75902bcada
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a830.jpg)　ドラフトといえば Gary Wise とそういうイメージがあるがそのドラフト界の大御所に挑むのはフィーチャーマッチは初めてだというアメリカの新鋭 Matthew Cory 。経験が勝つか勢いが勝つか興味深いところである。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a830.jpg)
+
+　ドラフトといえば Gary Wise とそういうイメージがあるがそのドラフト界の大御所に挑むのはフィーチャーマッチは初めてだというアメリカの新鋭 Matthew Cory 。経験が勝つか勢いが勝つか興味深いところである。
 
 　Wise は黒緑のゾンビデック Cory は《貪欲なるベイロス/[Ravenous Baloth](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ravenous+Baloth)》が入った赤緑のビーストデッキである。
 
@@ -62,7 +64,9 @@ Cory も《樹を跳ねるロリアン/[Treespring Lorian](https://web.archive.o
 
 **Game 2**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a829.jpg)　先手 Cory は《岩石樹の発動者/Stonewood Invoker》でスタート。これは Wiseの《ゴブリンの裏切り者/[Goblin Turncoat](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Turncoat)》と相打ちになるが、さらに変異を呼んで Gary が召喚した《ワイアウッドの野人/[Wirewood Savage](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Savage)》をさきほど呼んでいた変異の《スカークの匪賊/[Skirk Marauder](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Marauder)》を表に向けて除去。序盤は Cory のペースで進む。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a829.jpg)
+
+　先手 Cory は《岩石樹の発動者/Stonewood Invoker》でスタート。これは Wiseの《ゴブリンの裏切り者/[Goblin Turncoat](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Turncoat)》と相打ちになるが、さらに変異を呼んで Gary が召喚した《ワイアウッドの野人/[Wirewood Savage](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Savage)》をさきほど呼んでいた変異の《スカークの匪賊/[Skirk Marauder](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Marauder)》を表に向けて除去。序盤は Cory のペースで進む。
 
 　Wise のほうは《金切り声のノスリ/[Screeching Buzzard](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Screeching+Buzzard)》、《煤羽の群れ/[Sootfeather Flock](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sootfeather+Flock)》と呼び飛行での早期決着を狙うが、《煤羽の群れ/Sootfeather Flock》は《狙いすましたなだれ/[Pinpoint Avalanche](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pinpoint+Avalanche)》で除去されてしまいうまくいかない。
 
@@ -76,7 +80,9 @@ Cory も《樹を跳ねるロリアン/[Treespring Lorian](https://web.archive.o
 
 先行のWise は《墓所スリヴァー/[Crypt Sliver](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crypt+Sliver)》を呼ぶが、Cory は2ターン目に《岩石樹の発動者/[Stonewood Invoker](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker)》をあえて呼ばず《墓所スリヴァー》のアタックを誘う。そして、《活力の魔除け/[Vitality Charm](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vitality+Charm)》のトークンで相打ちにとることに見事成功する。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a828.jpg)Wise のデッキはサイズの小さなクリーチャーが多く、Cory のビースト軍団を止めることができる数少ないクリーチャーである《墓所スリヴァー/[Crypt Sliver](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crypt+Sliver)》をこのうまいプレイで除去したことはこの3本目の勝敗に大きく影響することとなった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a828.jpg)
+
+Wise のデッキはサイズの小さなクリーチャーが多く、Cory のビースト軍団を止めることができる数少ないクリーチャーである《墓所スリヴァー/[Crypt Sliver](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crypt+Sliver)》をこのうまいプレイで除去したことはこの3本目の勝敗に大きく影響することとなった。
 
 この後はお互い変異を出し合うが、Wise の《皮を剥ぐ者/[Skinthinner](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner)》を変異のうちに相打ちを取り Cory 有利かと思われたが次のターン Wise は5マナ残したままターンを Cory に返す。もちろん《残酷な蘇生/[Cruel Revival](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cruel+Revival)》をもっているという意思表示であり Cory の《樹を跳ねるロリアン/[Treespring Lorian](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treespring+Lorian)》は除去され《皮を剥ぐ者/[Skinthinner](https://web.archive.org/web/20030510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner)》を回収されてしまう。
 

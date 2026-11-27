@@ -626,7 +626,9 @@ I once again put into perspective the fact that this was just a tournament and r
 
 If I had caught a few more breaks in this tournament I could have had a very good finish. Sure that’s not immediately obvious from a 1-3 finish, but I was doing very well in my practice drafts, and I know that I have a very good grasp on how to draft the format. After I calmed down, I realized that the biggest mistake that I made going into this tournament was not knowing exactly how fast most Sealed decks are.
 
-![Sinking_Feeling](https://i.ormos.uk/14/e0/14e00420a2f52dfecb3eb2248dd0b782b6d0da3f168a0701c62d82fbe7ed2bae.jpg)For those of you who have played a lot of *Shadowmoor* Sealed, you have probably already noticed that Sealed decks are noticeably faster than Sealed decks in formats past.
+![Sinking_Feeling](https://i.ormos.uk/14/e0/14e00420a2f52dfecb3eb2248dd0b782b6d0da3f168a0701c62d82fbe7ed2bae.jpg)
+
+For those of you who have played a lot of *Shadowmoor* Sealed, you have probably already noticed that Sealed decks are noticeably faster than Sealed decks in formats past.
 
 I built a bunch of practice Sealed decks before the tournament, but I only played a handful of games with them against other Sealed decks.
 

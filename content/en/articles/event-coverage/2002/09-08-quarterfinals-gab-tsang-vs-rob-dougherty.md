@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a896.jpg)Rob Dougherty, owner and proprietor of Your Move Games, has been successful in team events, winning a Pro Tour and a Grand Prix, but has been the bridesmaid in his single matches. He has handfuls of Pro Tour Top 4s and Grand Prix Top 8s around America, including Pro Tour - Osaka and Chicago 2000, but has never actually finished up first by himself. He's looking to change that today.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a896.jpg)
+
+Rob Dougherty, owner and proprietor of Your Move Games, has been successful in team events, winning a Pro Tour and a Grand Prix, but has been the bridesmaid in his single matches. He has handfuls of Pro Tour Top 4s and Grand Prix Top 8s around America, including Pro Tour - Osaka and Chicago 2000, but has never actually finished up first by himself. He's looking to change that today.
 
 On the other side of the table? Gab Tsang, also a team-based monster without a big win to his name; Gab's come in third at Team events from all the way back in Worlds 97, to top 8 team finishes at Grand Prix - Columbus and Pro Tour – New York, but has never gotten the brass ring for himself. 
 
@@ -75,7 +77,9 @@ Dougherty 1 – Tsang 0
 
 Tsang sideboarded and shuffled like a madman, cramming an additional complete pile shuffle into less than ten seconds, beating the three-minute deadline with three seconds to spare. This earned a brief smatter of applause from Rob.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a891.jpg)Gab looked at his hand and said confidently, "I'm gonna keep this one." Rob looked somewhat less certain, but kept as well. Gab laid the eternal first-turn [Careful Study](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study), dropping Reclamation and Roar; Rob matched that Study with his own, dropping Roar and Garden. They then spent their next turn casting their decks' poster-boy creatures: Gab cast Mongrel, while Dougherty cast [Werebear](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a891.jpg)
+
+Gab looked at his hand and said confidently, "I'm gonna keep this one." Rob looked somewhat less certain, but kept as well. Gab laid the eternal first-turn [Careful Study](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study), dropping Reclamation and Roar; Rob matched that Study with his own, dropping Roar and Garden. They then spent their next turn casting their decks' poster-boy creatures: Gab cast Mongrel, while Dougherty cast [Werebear](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear).
 
 Gab Studied again, dropping Roar and [Envelop](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Envelop), hoping to lure Rob into a false sense of security... Or, as Rob most likely (and correctly) figured, he had an extra [Envelop](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Envelop) in his hand and could afford to throw one away. Gab then tapped out, giving Rob a one-turn opportunity to cast a sorcery – but it wasn't going to be that Roar, since Gab cast a [Catalyst Stone](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Catalyst+Stone). 
 

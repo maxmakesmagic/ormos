@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Alex Shvartsman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/858.jpg)At Pro Tour: LA, DCI adopted a zero tolerance policy toward sleep. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/858.jpg)
+
+At Pro Tour: LA, DCI adopted a zero tolerance policy toward sleep. 
 
 We pretty much knew this was going to happen when they announced that we are going to play sixty-minute rounds. By itself, that adds over an hour to an already very long Day 1. Despite that, it was welcome news. No one likes having his or her match end up in a draw because the time runs out. 
 
@@ -58,7 +60,9 @@ Toward the middle of the second draft pod, players who were no longer in content
 
 I was among those players. During the five rounds I actually played, I drew so many lands, they could have lasted me throughout the entire three-day tournament. I arranged with the rest of the Sideboard reporters that they would wake me up after the end of the last round, so all of us could go to dinner, and went to catch an hour or so of sleep at 9 pm. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/857.jpg)I woke up, the clock showing 10:30. I wandered at what could possibly be keeping the guys, got dressed, and went looking for them. When I came outside, I discovered that it was actually 10:30 in the morning (though I did not feel like I just slept for over twelve hours). Apparently, the guys did not wake me up because they were at the tournament area till past one o'clock in the morning. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/857.jpg)
+
+I woke up, the clock showing 10:30. I wandered at what could possibly be keeping the guys, got dressed, and went looking for them. When I came outside, I discovered that it was actually 10:30 in the morning (though I did not feel like I just slept for over twelve hours). Apparently, the guys did not wake me up because they were at the tournament area till past one o'clock in the morning. 
 
 Many players, like myself, ended up dropping out of the tournament. So many in fact, that the computers seemed unable to handle pairing everybody up. Last round pairings had many of the players paired against opponents they already played in that bracket. Judges had to re-do the pairings by hand, and the last round lasted till close to 1 am. 
 
@@ -72,4 +76,6 @@ Players, judges, and staff did not get very much time to rest. Draft 1 of Day 2 
 
 Some were in better shape than others. Warren Marsh complained that his "play and drafting were so shoddy." He ended up with a very poor deck for the first draft, which he blamed partly on the lack of good sleep. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/968.jpg)Battling fatigue is an extra challenge for the competitors on their way to the goal of making the Top 8. It will certainly play a role in who advances, and watching the rest of the matches today should prove even more interesting.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/968.jpg)
+
+Battling fatigue is an extra challenge for the competitors on their way to the goal of making the Top 8. It will certainly play a role in who advances, and watching the rest of the matches today should prove even more interesting.

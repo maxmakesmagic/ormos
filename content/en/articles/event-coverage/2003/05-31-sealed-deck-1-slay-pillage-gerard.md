@@ -53,7 +53,9 @@ render_recovery:
 ---
 Scott McCord, Jon Sonne, and Gerard Fabiano make up the New York-based team Slay-Pillage-Gerard (a play on Slay-Pillage-Massacre, which was comprised of McCord, Sonne, and Eric Zeigler). The trio put up an impressive fourth place finish at Pro Tour – Boston, and have been enjoying the "gravy train" ever since, although jobs and other responsibilities have been keeping them from attending all the Pro Tours. All of them had to skip Yokohama, and McCord skipped Venice as well, putting him in danger of losing his qualified status.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a989.jpg)McCord is simply using all that as fuel for the fire. He's known as one of the best team limited players in the US, and is intent on leading his team onto Sunday play and beyond.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a989.jpg)
+
+McCord is simply using all that as fuel for the fire. He's known as one of the best team limited players in the US, and is intent on leading his team onto Sunday play and beyond.
 
 The team opened their product and were immediately dismayed when the cards weren't alphabetized by the registering team—a problem that slowed down their double-checking considerably. A decklist error was also found, and after a quick conference with a judge, they set off building.
 

@@ -120,7 +120,9 @@ Thanks, Eric! It looks like [Pithing Needle](https://web.archive.org/web/2005061
 
 ### Flavors of Seshiro
 
-![](https://i.ormos.uk/d5/34/d5348411057053add4764b86c8e043fa98098d4e086527e54c60b62745984a29.jpg)Last week, when going over the changes to some of the Vanguard avatars, [I was curious](/en/articles/intotheaether/2005/06-09-mtgo-gumbo-a-little-of-this-a-little-of-that) about the Seshiro combo decks that Justin Ziran expressed some concern about. I received a lot of email from many of you that were much more knowledgeable of the topic than I was, and I thought I would share what I found out for those of you who might be in the same boat as I was.
+![](https://i.ormos.uk/d5/34/d5348411057053add4764b86c8e043fa98098d4e086527e54c60b62745984a29.jpg)
+
+Last week, when going over the changes to some of the Vanguard avatars, [I was curious](/en/articles/intotheaether/2005/06-09-mtgo-gumbo-a-little-of-this-a-little-of-that) about the Seshiro combo decks that Justin Ziran expressed some concern about. I received a lot of email from many of you that were much more knowledgeable of the topic than I was, and I thought I would share what I found out for those of you who might be in the same boat as I was.
 
 Here are a few of the more powerful combos using the Vanguard avatar Seshiro the Anointed:
 

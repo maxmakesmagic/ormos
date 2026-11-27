@@ -107,7 +107,9 @@ Just two wins separate local hero Takao Higaki and his first title. One of the r
 
 ### Game 1
 
-![](https://i.ormos.uk/b4/cc/b4cc5b515f306f1fd378173cecbeb603110927706ed6918b039f5d4588702ad3.jpg)Higaki kept a suspect hand and hoped it would develop. He led with City of Traitors and Grim Monolith. Azuma played a forest. Higaki's next draw was a dud so he just played another Monolith. Azuma Wished for an Argothian Enchantress. Again Higaki drew a blank, and decided his best out was action. He tapped all his mana and played Phyrexian Processor for ten, making a token.
+![](https://i.ormos.uk/b4/cc/b4cc5b515f306f1fd378173cecbeb603110927706ed6918b039f5d4588702ad3.jpg)
+
+Higaki kept a suspect hand and hoped it would develop. He led with City of Traitors and Grim Monolith. Azuma played a forest. Higaki's next draw was a dud so he just played another Monolith. Azuma Wished for an Argothian Enchantress. Again Higaki drew a blank, and decided his best out was action. He tapped all his mana and played Phyrexian Processor for ten, making a token.
 
 Azuma was undaunted. He played out his Enchantress and drew for Wild Growth. He fell to ten from Higaki's incoming token. He continued to fly through his deck with Fertile Ground and Frantic Search. A second Enchantress helped immensely, and he Living Wished for Serra's Sanctum. Trade Routes was his last play before giving it to Higaki.
 
@@ -125,7 +127,9 @@ Higaki drew Upheaval. He Tinkered out a Mishra's Helix to lock up Azuma's land. 
 
 Higaki continued the lock. Azuma dropped island and Seal of Removal. Higaki finally drew a Grim Monolith, and so busted it out with a pair of keys. He tapped Azuma's lands and watched as Azuma put down Serra's Sanctum and Seal of Cleansing.
 
-![](http://www.wizards.com/sideboard/images/gphir03/a925.jpg)That was when the big turns started happening. Higaki Upheavaled and dropped Dynamo, Key, Monolith, Metalworker and Rishadan Port. Azuma played forest, Exploration, Island, Seal of Removal, able to drop his Seal of Cleansing no matter what on his next turn. 
+![](http://www.wizards.com/sideboard/images/gphir03/a925.jpg)
+
+That was when the big turns started happening. Higaki Upheavaled and dropped Dynamo, Key, Monolith, Metalworker and Rishadan Port. Azuma played forest, Exploration, Island, Seal of Removal, able to drop his Seal of Cleansing no matter what on his next turn. 
 
 Higaki had more mana than he knew what to do with. He chose to make the Mishra's Helix and lock Azuma up. Azuma dropped the Sanctum and Seal. Higaki Tinkered up a Processor for five, leaving himself at one, made a token passed it back. Azuma smashed the Helix. Higaki had Ports ready to keep him pinned. Azuma made an Enchantress and passed it back. Higaki made another token and then bashed in. Azuma accepted his beats.
 

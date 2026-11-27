@@ -44,7 +44,9 @@ archive_source:
   sha256: c4781fc544482f2f2704a52dd3dcc1f2f0de2398bf4d8e760f8a4ff9e8a92639
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/frnat04/qf1_1.jpg)Ce quart de finale n'inclut comme land basique que des montagnes : Damien Réaubourg joue en effet Mono Rouge Land Destruction alors que Pierre joue un deck gobelin dans une version un petit peu plus lourde que la version " classique ". Les deux joueurs jouent la carte " star " de ce top 8 : Arc Slogger.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/frnat04/qf1_1.jpg)
+
+Ce quart de finale n'inclut comme land basique que des montagnes : Damien Réaubourg joue en effet Mono Rouge Land Destruction alors que Pierre joue un deck gobelin dans une version un petit peu plus lourde que la version " classique ". Les deux joueurs jouent la carte " star " de ce top 8 : Arc Slogger.
 
 Partie 1
 

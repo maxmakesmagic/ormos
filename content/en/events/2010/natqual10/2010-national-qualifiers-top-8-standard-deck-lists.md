@@ -50,7 +50,9 @@ render_recovery:
   reason: The link uses a JavaScript placeholder. The preview kept any visible label.
   occurrences: 3
 ---
-![](https://i.ormos.uk/81/af/81af163a7d6dc95561f7c033dfb1cb680277c4165bea0ccc77cc8b54a08126fb.jpg)Looking for the new Standard tech? Want to see who the best and brightest players are in your area? Wondering who has taken the first steps on the Road to Worlds? Let the Top 8 deck lists from National Qualifiers be your guide as you explore the new Standard environment.
+![](https://i.ormos.uk/81/af/81af163a7d6dc95561f7c033dfb1cb680277c4165bea0ccc77cc8b54a08126fb.jpg)
+
+Looking for the new Standard tech? Want to see who the best and brightest players are in your area? Wondering who has taken the first steps on the Road to Worlds? Let the Top 8 deck lists from National Qualifiers be your guide as you explore the new Standard environment.
 
 You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20130710150318/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each deck list and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw.
 

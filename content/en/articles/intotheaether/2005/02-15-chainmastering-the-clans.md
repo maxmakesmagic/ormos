@@ -91,7 +91,9 @@ Welcome to my first appearance here on **magicthegathering.com**. I'm here today
 
 ### What is a clan?
 
-![](https://i.ormos.uk/ba/fa/bafa66d48e620c375b82d6c461a210618283d4626e08bb18843261dcf805e3c1.jpg)That's really the big question, isn't it? And for the big answer I'm going to start with a bit of the definition provided to us by the MtGO help files.
+![](https://i.ormos.uk/ba/fa/bafa66d48e620c375b82d6c461a210618283d4626e08bb18843261dcf805e3c1.jpg)
+
+That's really the big question, isn't it? And for the big answer I'm going to start with a bit of the definition provided to us by the MtGO help files.
 
 *A clan is a group of up to 20 players who band together*
 

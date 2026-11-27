@@ -675,7 +675,9 @@ Let's find out.
 
 ### Day 1: A Cursed Idea?
 
-![Curse_of_the_Cabal](https://i.ormos.uk/51/ac/51ac738f5c9ee89fa7f3f6bf7386691db68cd26e4d179d6a311d93aac7f7ba31.jpg)The inspiration for a new deck comes from many places. My personal muses tend to be single cards, two-card interactions, new mechanics, old school archetypes, and, honestly, reading about other people's decks. By far the most common of these, however, is the single card. 
+![Curse_of_the_Cabal](https://i.ormos.uk/51/ac/51ac738f5c9ee89fa7f3f6bf7386691db68cd26e4d179d6a311d93aac7f7ba31.jpg)
+
+The inspiration for a new deck comes from many places. My personal muses tend to be single cards, two-card interactions, new mechanics, old school archetypes, and, honestly, reading about other people's decks. By far the most common of these, however, is the single card. 
 
 Whenever a new set is released, I jot down a list of cards that intrigue me and around which I'd like to build a deck. I call these my “menus,” and when it comes time to make a new deck I take out the menu and decide which cards are pulling most on my attention. Time Spiral was no exception, and I had ready a long list of cards I thought would be fun to showcase.
 
@@ -705,7 +707,9 @@ I've spent all evening picking a card and reading others' opinions on this card.
 
 ### Day 2: A Slow Start
 
-![Apathy](https://i.ormos.uk/73/e6/73e681bab7570e9ed3a4f5a69248d606f02a31b0782f6c1c039217f261f10c9a.jpg)It's the Wednesday evening before Thanksgiving. My daughter is asleep upstairs. My wife has taken our son, who had a rare afternoon nap, to see a 7pm showing of “Happy Feet.” This gives me two hours to finally put together my disparate thoughts on Curse of the Cabal.
+![Apathy](https://i.ormos.uk/73/e6/73e681bab7570e9ed3a4f5a69248d606f02a31b0782f6c1c039217f261f10c9a.jpg)
+
+It's the Wednesday evening before Thanksgiving. My daughter is asleep upstairs. My wife has taken our son, who had a rare afternoon nap, to see a 7pm showing of “Happy Feet.” This gives me two hours to finally put together my disparate thoughts on Curse of the Cabal.
 
 The truth is that I'm fairly conservative and systematic when it comes to deckbuilding. Since both Curse and Smallpox are Black, I don't feel a huge need to think of two- and three-color decklists right away. Instead, my inclination is to build a mono-black deck, figure out its relative strengths and weaknesses, then address the weaknesses with a second color if, and only if, I need it. I know that Ravnica Block has made mono-colored decks nearly obsolete, but I appreciate the elegance of at least trying mono-black. This is why Tadashi's deck from Champs particularly interested me.
 
@@ -771,7 +775,9 @@ In three quick games in the Casual Decks room, I crushed a Black/Blue milling de
 
 ### Day 4: A Crossroads
 
-![](https://i.ormos.uk/13/0b/130b512873b9d48a4cc979bc61f12533403052240416a00e643e72e6c01042db.jpg)So what's up with completely changing my deck? Well, like I said, I was feeling that I wasn't putting enough pressure on my opponent so I wanted some quick creatures. Since I had the whole “Smallpox-Haakon” urge earlier, I decided to give the Black Knights thing a try, and if you notice my observations from the previous day you'll see that this idea meshes well with my conclusions. The idea is to drop some weenies, then disrupt my opponent with discard, Edict, Smallpox, and Curse of the Cabal. The result is a Mono-black Aggro-Control deck. 
+![](https://i.ormos.uk/13/0b/130b512873b9d48a4cc979bc61f12533403052240416a00e643e72e6c01042db.jpg)
+
+So what's up with completely changing my deck? Well, like I said, I was feeling that I wasn't putting enough pressure on my opponent so I wanted some quick creatures. Since I had the whole “Smallpox-Haakon” urge earlier, I decided to give the Black Knights thing a try, and if you notice my observations from the previous day you'll see that this idea meshes well with my conclusions. The idea is to drop some weenies, then disrupt my opponent with discard, Edict, Smallpox, and Curse of the Cabal. The result is a Mono-black Aggro-Control deck. 
 
 Still intrigued, I fired up the ‘ole Tournament Practice room with the Knights version instead of the Control version. I was very aware that I might be wasting time if what I wanted to do was pursue the Control deck, but somehow this deck felt more up my alley and smoother. 
 
@@ -787,7 +793,9 @@ After a break I lost 1-2 to Rakdos aggro where in both losses he ended at one li
 
 Time to pause and reflect. 
 
-![Twincast](https://i.ormos.uk/79/02/790263365df9e5813c47e7b19d41f3acc54c964722f16721e00a1dfbc3c50119.jpg)I'm at a crossroads, the kind that makes sweat collect between my shoulder blades. The Control deck better uses Curse of the Cabal and has a decent winning percentage, but is less fun to play and needs, in my estimation, a lot more work (and likely a second color). The Knights deck is really more of a Smallpox-Haakon deck, and thus means I probably drop Curse altogether. Do I stay loyal to Curse and experiment with splashing a second color or do I go with a deck I've enjoyed playing more? Given more time, I'd do both. Given that I'm now one day away from my deadline (the article's due Monday, but I know that I won't have time at all Sunday to play or write), I can only pick one. These are the sorts of dilemmas that plague deckbuilders with limited time and/or budget. I have often felt this way with a Friday or Saturday tournament looming and me struggling with a few half-finished decks.
+![Twincast](https://i.ormos.uk/79/02/790263365df9e5813c47e7b19d41f3acc54c964722f16721e00a1dfbc3c50119.jpg)
+
+I'm at a crossroads, the kind that makes sweat collect between my shoulder blades. The Control deck better uses Curse of the Cabal and has a decent winning percentage, but is less fun to play and needs, in my estimation, a lot more work (and likely a second color). The Knights deck is really more of a Smallpox-Haakon deck, and thus means I probably drop Curse altogether. Do I stay loyal to Curse and experiment with splashing a second color or do I go with a deck I've enjoyed playing more? Given more time, I'd do both. Given that I'm now one day away from my deadline (the article's due Monday, but I know that I won't have time at all Sunday to play or write), I can only pick one. These are the sorts of dilemmas that plague deckbuilders with limited time and/or budget. I have often felt this way with a Friday or Saturday tournament looming and me struggling with a few half-finished decks.
 
 I decided to go for the deck that feels smoother to play and likely has fewer revisions needed. I think that if I make a few modifications to the Smallpox-Haakon deck, it might be scary. That's a risk, but hey... I figure even if I flame out at the tournament, that's a good lesson in deckbuilding.
 

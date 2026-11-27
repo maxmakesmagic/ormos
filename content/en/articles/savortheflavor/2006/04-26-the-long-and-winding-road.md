@@ -314,7 +314,9 @@ And that led to (or did it follow?) Wreak Havoc:
 > *“Crush them!”  
 >  —Borborygmos*
 
-![](https://i.ormos.uk/37/7c/377ce1db3ab1281dcfe1a62a259703bd23f7a9fed9b1603d1422525a14d208d0.jpg)I thought it would be cool to give a little nod to one of my favorite pieces of *Guildpact* flavor text, but decided to leave it at just one card - Wreak Havoc. But then my editor, Del, crept over to my desk and asked where the rest of the Borborygmos quote was. I was surprised and pleased that she noticed and wanted to finish up the “Crush them!” and “We eat!” triptych. But it was late in the game and I could not find a place for it. I considered swapping it in on Gristleback, but I liked its flavor too much. So we resolved to find a home for it in *Dissension*. It was not easy. I had almost given up, and then I saw it. I saw it, in fact, for many many hours. I was staring at the burly chunk of green eggs and ham for days as I painted the Protean Hulk. I had found my “We eat!” card.
+![](https://i.ormos.uk/37/7c/377ce1db3ab1281dcfe1a62a259703bd23f7a9fed9b1603d1422525a14d208d0.jpg)
+
+I thought it would be cool to give a little nod to one of my favorite pieces of *Guildpact* flavor text, but decided to leave it at just one card - Wreak Havoc. But then my editor, Del, crept over to my desk and asked where the rest of the Borborygmos quote was. I was surprised and pleased that she noticed and wanted to finish up the “Crush them!” and “We eat!” triptych. But it was late in the game and I could not find a place for it. I considered swapping it in on Gristleback, but I liked its flavor too much. So we resolved to find a home for it in *Dissension*. It was not easy. I had almost given up, and then I saw it. I saw it, in fact, for many many hours. I was staring at the burly chunk of green eggs and ham for days as I painted the Protean Hulk. I had found my “We eat!” card.
 
 > *“Meat* and *eggs. We eat!”  
 >  —Borborygmos*

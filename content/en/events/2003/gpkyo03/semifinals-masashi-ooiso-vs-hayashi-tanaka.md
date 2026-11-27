@@ -138,7 +138,9 @@ render_recovery:
   - Words of Waste
   occurrences: 122
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a901.jpg)Masashi Ooiso always seems to be in a bit of a fog. It might just be his own success getting to him. He recently edged ahead of Craig Krempels in the Rookie of the Year Race, and now he's poised to extend his lead. Facing him is Hayashi Tanaka, one of Japan's top-ranked players. Ooiso was one of only two white drafters at the table, and ended up with a near-mono deck. Tanaka went for the safe road, drafting red-green.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a901.jpg)
+
+Masashi Ooiso always seems to be in a bit of a fog. It might just be his own success getting to him. He recently edged ahead of Craig Krempels in the Rookie of the Year Race, and now he's poised to extend his lead. Facing him is Hayashi Tanaka, one of Japan's top-ranked players. Ooiso was one of only two white drafters at the table, and ended up with a near-mono deck. Tanaka went for the safe road, drafting red-green.
 
 ### Game 1
 
@@ -154,7 +156,9 @@ Tanaka 1 – Ooiso 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a900.jpg)Game 2 opened in a very similar vein. Tanaka had Goblin Sledder and Wellwisher, then the two made morphs. Oosio was happy to take to the air with Dive Bomber, but Tanaka's next play was Timberwatch Elf, sending Ooiso back into his chair. His deck was short on ways to handle the green Sparksmith. He played his fifth land and thought. He decided on Improvised Armor for his Dive Bomber. Tanaka tapped his five for something much more impressive: Menacing Ogre. He won the bid five to zero and swung in for seven. Daru Healer made it six.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a900.jpg)
+
+Game 2 opened in a very similar vein. Tanaka had Goblin Sledder and Wellwisher, then the two made morphs. Oosio was happy to take to the air with Dive Bomber, but Tanaka's next play was Timberwatch Elf, sending Ooiso back into his chair. His deck was short on ways to handle the green Sparksmith. He played his fifth land and thought. He decided on Improvised Armor for his Dive Bomber. Tanaka tapped his five for something much more impressive: Menacing Ogre. He won the bid five to zero and swung in for seven. Daru Healer made it six.
 
 Ooiso once again took a defensive position. Even Tanaka forgetting to activate Wellwisher wasn't giving him enough of an edge to race. Pacifism shut down the Ogre, and he played a Shared Triumph for Soldiers. Tanaka made a Wirewood Herald, and when Oosio played Grassland Crusader, finally remembered to use his Wellwisher.
 

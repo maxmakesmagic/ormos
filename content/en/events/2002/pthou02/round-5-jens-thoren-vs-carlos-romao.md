@@ -90,7 +90,9 @@ render_recovery:
   - Underground River
   occurrences: 89
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a543.jpg)Jens Thoren and Carlos Romao have only faced each other twice before in tournament Magic. Each time the winner of the match went on to win the tournament. For Jens it was the Invitational and for Carlos the World Championship.
+![](http://www.wizards.com/sideboard/images/pthou02/a543.jpg)
+
+Jens Thoren and Carlos Romao have only faced each other twice before in tournament Magic. Each time the winner of the match went on to win the tournament. For Jens it was the Invitational and for Carlos the World Championship.
 
 Jens is running an Aluren deck with plentiful search and hand disruption in the form of Cabal Therapy—a surprise standout thus far in the tournament. Another surprise is the Atog Dance deck that Carlos is piloting, so named for the Psychatog and the Corpse Dance that is accessible from the sideboard thanks to Cunning Wish. Both players are 2-2-0 and the loser of this match will not advance to day 2.
 
@@ -110,7 +112,9 @@ Carlos put two blue into his pool and payed Gush's alternative casting cost and 
 
 Carlos continued to play Draw-go and when Jens attempted an Aluren it drew another Leak from the World Champ. Jens peeled an Aluren on the next turn but it was met with Counterspell. Finally, Jens got a spell to resolve and he played a Wirewood Savage sac'ing his Woodlot along the way. Carlos began the process of rebuilding his resources when he cast AK at the end of the turn.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a544.jpg)Carlos cast his second main phase spell of the game in Sapphire Medallion. Jens attacked for 2 with the Savage and then attempted the card he had just drawn...
+![](http://www.wizards.com/sideboard/images/pthou02/a544.jpg)
+
+Carlos cast his second main phase spell of the game in Sapphire Medallion. Jens attacked for 2 with the Savage and then attempted the card he had just drawn...
 
 ...his third Aluren in a row! Carlos allowed it to resolve despite being able to Cunning Wish for Annul. Instead he used the Wish to get Gainsay when the Invitational winner attempted to cast Cavern Harpy. 
 
@@ -134,7 +138,9 @@ Both players kept their openers and Jens led off with Hickory Woodlot. Carlos pl
 
 Carlos went back to his Draw-go ways and played an Underground River and passed the turn. Raven Familiar finished off the Woodlot and Jens took a Brainstorm with it. He then found another Woodlot and played it. Carlos just stayed his course.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a545.jpg)Jens payed for the echo on the Raven Familiar at the cost of a counter on his second Woodlot and swung in for a point of damage. Carlos took another point when he tapped his painland to Edict the Familiar. Carlos seemed happy with the pace of the game and started saying "Go" again. Brainstorm put the whole combo in Jens's hands but he could not comfortably just go for it. He sac'd a Delta to find a Swamp—shuffling his unwanted Brainstorm cards in the process—and cast Cabal Therapy naming Counterspell. He found instead: Annul, Mana Leak, Intuition, Fact or Fiction, Tog, and a fist pumping World Champion. When Jens reluctantly passed the turn Carlos cast FoF and yielded a Medlalion and AK. The Medallion hit the table and the turn went back to Jens. 
+![](http://www.wizards.com/sideboard/images/pthou02/a545.jpg)
+
+Jens payed for the echo on the Raven Familiar at the cost of a counter on his second Woodlot and swung in for a point of damage. Carlos took another point when he tapped his painland to Edict the Familiar. Carlos seemed happy with the pace of the game and started saying "Go" again. Brainstorm put the whole combo in Jens's hands but he could not comfortably just go for it. He sac'd a Delta to find a Swamp—shuffling his unwanted Brainstorm cards in the process—and cast Cabal Therapy naming Counterspell. He found instead: Annul, Mana Leak, Intuition, Fact or Fiction, Tog, and a fist pumping World Champion. When Jens reluctantly passed the turn Carlos cast FoF and yielded a Medlalion and AK. The Medallion hit the table and the turn went back to Jens. 
 
 Jens cast Cabal Therapy and it was countered with Mana Leak. Jens gave up his Woodlot to play a Familiar and found a Brainstorm. He flashed the Therapy back and named Intuition and left his opponent with Annul and AK the latter of which Carlos used to draw a card at the end of the turn. Two just-drawn Togs hit the table and Carlos was looking good. Jens was playing the wrong kind of Draw-go and could only take 2 a turn from the grinning Atogs until the World Champ was able to finish him off with the big turn.
 

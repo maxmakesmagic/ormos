@@ -197,7 +197,9 @@ Kotiranta blinked first, playing a Fact or Fiction which sparked a small counter
 
 This pattern continued for some time, with stretches of land being played interrupted by end of turn permission fights over Fact or Fiction.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a577.jpg)However, Romao was able to force through more card drawing cards than his opponent, and slowly built up hand advantage, patiently gathering in his hand his key cards as well as permission cards to protect them.
+![](http://www.wizards.com/sideboard/images/worlds02/a577.jpg)
+
+However, Romao was able to force through more card drawing cards than his opponent, and slowly built up hand advantage, patiently gathering in his hand his key cards as well as permission cards to protect them.
 
 The game ended when, after a Fact or Fiction garnered him an Upheaval and Psychatog, Romao used Cunning Wish to fetch Mana Short, drawing a concession from Kotiranta.
 
@@ -215,7 +217,9 @@ Carlos Romao wins 2-0
 
 With his back against the wall, Kotiranta came out swinging, producing an early Psychatog and attacking aggressively while using counters to stop Romao's attempts to remove the 'tog or produce a blocker.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a578.jpg)His counters spent stopping Romao from setting up any kind of defense, Kotiranta couldn't stop his opponent from using his card drawing cards to gain hand advantage. The Brazilian Huey started playing Fact or Fiction and Deep Analysis successively. Realizing Kotiranta had abandoned any attempt at getting the combo, instead going for a beatdown win, Romao even started flashing back Deep Analysis from his graveyard.
+![](http://www.wizards.com/sideboard/images/worlds02/a578.jpg)
+
+His counters spent stopping Romao from setting up any kind of defense, Kotiranta couldn't stop his opponent from using his card drawing cards to gain hand advantage. The Brazilian Huey started playing Fact or Fiction and Deep Analysis successively. Realizing Kotiranta had abandoned any attempt at getting the combo, instead going for a beatdown win, Romao even started flashing back Deep Analysis from his graveyard.
 
 Eventually finding a Nightscape Familiar, Romao was able to stop Kotiranta's attacks. Using Duress to confirm that Kotiranta had no surprises left, Romao produced his own Psychatog.
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![What extra half chin are you referring to?](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoak04/r9fm1_1.jpg)Alex Alepin was not happy with how his deck turned out. He had many solid black-green cards but was worried about getting run over. "I was looking for Myr and I just did not get them. My deck is kind of slow."
+![What extra half chin are you referring to?](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoak04/r9fm1_1.jpg)
+
+Alex Alepin was not happy with how his deck turned out. He had many solid black-green cards but was worried about getting run over. "I was looking for Myr and I just did not get them. My deck is kind of slow."
 
 He was also concerned about his first pick [Skeleton Shard](https://web.archive.org/web/20040208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeleton+Shard). "I probably did not get enough guys to make this good. It was either Shard or [Domineer](https://web.archive.org/web/20040208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Domineer) and I don't like to be blue."
 

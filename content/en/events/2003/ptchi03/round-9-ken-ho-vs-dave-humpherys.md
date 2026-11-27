@@ -138,7 +138,9 @@ render_recovery:
   - Wirewood Herald
   occurrences: 125
 ---
-![](https://i.ormos.uk/af/ec/afecae83422d722de815e5ad46fcabc249c8cc81ab72950e669c0213ff700b16.jpg)Ken Ho won Pro Tour Osaka last year when the format was *Odyssey* Block Constructed, thanks to his blue-green deck and the mana consistency that one Tarnished Citadel provided! Dave Humpherys has a staggering list of accomplishments from Grand Prix and Pro Tour Championships to multiple strong finishes on Sunday. He is a member of Your Move Games, a team well known for dominating Constructed events, but not exactly synonymous with success in Limited outside of Team Rochester. Both players came into this match at 5-2-1.
+![](https://i.ormos.uk/af/ec/afecae83422d722de815e5ad46fcabc249c8cc81ab72950e669c0213ff700b16.jpg)
+
+Ken Ho won Pro Tour Osaka last year when the format was *Odyssey* Block Constructed, thanks to his blue-green deck and the mana consistency that one Tarnished Citadel provided! Dave Humpherys has a staggering list of accomplishments from Grand Prix and Pro Tour Championships to multiple strong finishes on Sunday. He is a member of Your Move Games, a team well known for dominating Constructed events, but not exactly synonymous with success in Limited outside of Team Rochester. Both players came into this match at 5-2-1.
 
 ### Game 1
 
@@ -156,7 +158,9 @@ Ho- 1 Humpherys- 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a809.jpg)Ho curved up to start with a first turn Festering Goblin and a second turn Glory Seeker. The Seeker died to Shock, and Ho played Gustcloak Harrier on turn three. Humpherys cast a morph, and Ho attacked with his team for three damage. Ho played his own morph, and missed his fourth land drop. Humpherys' morph was not blocked, and flipped over to reveal Skirk Commando. It took down Ho's morph as Humpherys was probably hoping to hit Exalted Angel, but it was a Daru Healer. Ho swung back for three, and played Shepard of Rot and Disciple of Grace. Humpherys summoned Goblin Sharpshooter, and ended his turn. Ho got through for two more damage, bringing Humpherys to nine life points. He then tapped out for Doubtless One, which was 3/3. The Sharpshooter took out the Shepard, which was activated before it headed to the graveyard. Leery Fogbeast and a morph added to Humpherys' side, and Ho got through the air with his Harrier for an attack.
+![](http://www.wizards.com/sideboard/images/ptchi03/a809.jpg)
+
+Ho curved up to start with a first turn Festering Goblin and a second turn Glory Seeker. The Seeker died to Shock, and Ho played Gustcloak Harrier on turn three. Humpherys cast a morph, and Ho attacked with his team for three damage. Ho played his own morph, and missed his fourth land drop. Humpherys' morph was not blocked, and flipped over to reveal Skirk Commando. It took down Ho's morph as Humpherys was probably hoping to hit Exalted Angel, but it was a Daru Healer. Ho swung back for three, and played Shepard of Rot and Disciple of Grace. Humpherys summoned Goblin Sharpshooter, and ended his turn. Ho got through for two more damage, bringing Humpherys to nine life points. He then tapped out for Doubtless One, which was 3/3. The Sharpshooter took out the Shepard, which was activated before it headed to the graveyard. Leery Fogbeast and a morph added to Humpherys' side, and Ho got through the air with his Harrier for an attack.
 
 A cycled Solar Blast threatened to kill the Harrier with the help of the Sharpshooter, but Ho had Akroma's Blessing to save it; he was left with no cards in hand. Symbiotic Beast gave Humpherys even more fat on the ground. Festering Goblin and the Harrier attacked, and the Goblin was blocked by the Beast. It headed to the graveyard, and took down the Sharpshooter. This left Humpherys at one, and Ho tapped out for Exalted Angel. Humpherys played Avarax, and attacked with all his creatures in a last ditch effort. It didn't work and Humpherys conceded, showing the Pacifism he sided in, but didn't have the white mana to cast.
 

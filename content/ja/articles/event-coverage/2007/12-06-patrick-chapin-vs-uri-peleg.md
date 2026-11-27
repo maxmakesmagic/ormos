@@ -93,7 +93,9 @@ Pelegは、《ラノワールのエルフ》が残したマナでX=5の《不敬
 
 Chapinの初手には、《十二足獣/[Dodecapod](https://web.archive.org/web/20071206000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dodecapod)》。
 
-![](https://media.magic.wizards.com/image_legacy_migration//sideboard/images/worlds07/f_chapin1.jpg)だが、Pelegは手札破壊をうってこない。《極楽鳥/[Birds of Paradise](https://web.archive.org/web/20071206000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birds+of+Paradise)》から《包囲の搭、ドラン》をキャスト。《ロクソドンの戦槌/[Loxodon Warhammer](https://web.archive.org/web/20071206000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Warhammer)》を装備させ、Chapinのライフを削りつつ、《ドラゴンの嵐》圏外へとライフを引き上げる。
+![](https://media.magic.wizards.com/image_legacy_migration//sideboard/images/worlds07/f_chapin1.jpg)
+
+だが、Pelegは手札破壊をうってこない。《極楽鳥/[Birds of Paradise](https://web.archive.org/web/20071206000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birds+of+Paradise)》から《包囲の搭、ドラン》をキャスト。《ロクソドンの戦槌/[Loxodon Warhammer](https://web.archive.org/web/20071206000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Warhammer)》を装備させ、Chapinのライフを削りつつ、《ドラゴンの嵐》圏外へとライフを引き上げる。
 
 次のアタックでライフを削りきられてしまうものの、《ボガーダンのヘルカイト》までは1マナ足りないChapin。しかたなく《十二足獣/[Dodecapod](https://web.archive.org/web/20071206000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dodecapod)》をマナを支払って場に送り出す。
 
@@ -117,7 +119,9 @@ Chapinの初手には、《十二足獣/[Dodecapod](https://web.archive.org/web/
 
 だが、Pelegは《裂け目掃き/[Riftsweeper](https://web.archive.org/web/20071206000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftsweeper)》をキャスト。この《睡蓮の花》をライブラリーへと送り返す。そして、《野生語りのガラク》を追加し、忠誠カウンターを乗せて着々と勝利への準備を続ける。
 
-![](https://media.magic.wizards.com/image_legacy_migration//sideboard/images/worlds07/f_peleg2.jpg)もはや残されたターンが少ないChapin。《ぶどう弾》をドローしたことで、意を決して《裂け目の稲妻》を待機。だが、再び突き刺さる《裂け目掃き》。
+![](https://media.magic.wizards.com/image_legacy_migration//sideboard/images/worlds07/f_peleg2.jpg)
+
+もはや残されたターンが少ないChapin。《ぶどう弾》をドローしたことで、意を決して《裂け目の稲妻》を待機。だが、再び突き刺さる《裂け目掃き》。
 
 《火葬》で忠誠カウンターを減らし時間を稼ぐChapin。だが、それならばとPelegはプランを変更し、《野生語りのガラク》の役割は《踏み荒らし》から《獣群の呼び声/[Call of the Herd](https://web.archive.org/web/20071206000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd)》へと。
 

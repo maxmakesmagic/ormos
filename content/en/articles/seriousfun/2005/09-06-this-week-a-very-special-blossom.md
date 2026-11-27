@@ -156,7 +156,9 @@ Speaking of spirits, I also like the odd trick that something like [Mannichi, th
 
 ### Okay, You *Really* Won't Notice This Immediately
 
-![](https://i.ormos.uk/7e/85/7e856a463470b5f5c0be7b52f3284344d5006fc33d5b8f493e5e8ef733013450.jpg)Of all the alternative, non-sanctioned formats out there, some of the most time-intensive are those based on artwork. I don't mean art*ist* – those names are searchable in most databases – I mean art*work*.
+![](https://i.ormos.uk/7e/85/7e856a463470b5f5c0be7b52f3284344d5006fc33d5b8f493e5e8ef733013450.jpg)
+
+Of all the alternative, non-sanctioned formats out there, some of the most time-intensive are those based on artwork. I don't mean art*ist* – those names are searchable in most databases – I mean art*work*.
 
 Try a format where every card must have an aircraft in the artwork – but to make it challenging (and push people away from mono-blue), ban flying. (No flying creatures allowed, and ignore abilities that bestow flying.)
 

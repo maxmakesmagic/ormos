@@ -702,7 +702,9 @@ This is the fifth installment of my series analyzing the cards of *Odyssey* for 
 
 ### Green
 
-![](https://i.ormos.uk/6f/d7/6fd7071710dce1c801f9658701fc2ba0f9a72c38a913713dc54a1cd728a49b5d.jpg)Historically, the green mage has always gotten the short end of the stick. Because of its ability to diversify and speed up your mana, green seemed to lose out, forced to watch as the other mages got all the creature kill and evasion and rare bombs. "Green has no rare bombs" complained the green mage. Fortunately, R&D, without breaking any of their templating rules, found a way to even the score in *Odyssey*:
+![](https://i.ormos.uk/6f/d7/6fd7071710dce1c801f9658701fc2ba0f9a72c38a913713dc54a1cd728a49b5d.jpg)
+
+Historically, the green mage has always gotten the short end of the stick. Because of its ability to diversify and speed up your mana, green seemed to lose out, forced to watch as the other mages got all the creature kill and evasion and rare bombs. "Green has no rare bombs" complained the green mage. Fortunately, R&D, without breaking any of their templating rules, found a way to even the score in *Odyssey*:
 
 Make a ton of green common cards, and make them all amazing.
 

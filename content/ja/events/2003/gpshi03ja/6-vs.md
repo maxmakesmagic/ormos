@@ -260,7 +260,9 @@ render_recovery:
 
 始めた時点で残りあと 7分、だが両者共に強力な装備品と低マナクリーチャーで構成されているため、一気に勝負が着くことも考えられる。デッキに二人の願いが届いたのか両者共に装備を並べていく展開でゲームははじまり、そしてライフを攻め立てるのは藤田だった。
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_fm6a_pic1_ja.jpg)2 ターン目に出た《金のマイア/Gold Myr》が《骨断ちの矛槍/Bonesplitter》を持って殴りかかり、出てくるクリーチャーは《粉砕/Shatter》《拘引/Arrest》と封じてライフを 11 にして後続を待つが…引けども、引けどもランドばかりでしかも沼が無く手札の《恐怖/Terror》も《肉体の裏切り/Betrayal of Flesh》も撃てない。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_fm6a_pic1_ja.jpg)
+
+2 ターン目に出た《金のマイア/Gold Myr》が《骨断ちの矛槍/Bonesplitter》を持って殴りかかり、出てくるクリーチャーは《粉砕/Shatter》《拘引/Arrest》と封じてライフを 11 にして後続を待つが…引けども、引けどもランドばかりでしかも沼が無く手札の《恐怖/Terror》も《肉体の裏切り/Betrayal of Flesh》も撃てない。
 
 そしてついに《金のマイア/Gold Myr》も相打ちで死んでしまい、ようやく《マイアの試作品/Myr Prototype》が登場して《ヴァルショクの篭手/Vulshok Gauntlets》と《骨断ちの矛槍/Bonesplitter》をつけて、がっちりと《屍賊のシャンブラー/Nim Shambler》を迎え撃つ体制が出来たが、ここで池田のミラクルプレイが炸裂する。
 

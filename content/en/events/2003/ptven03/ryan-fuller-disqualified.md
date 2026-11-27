@@ -47,7 +47,9 @@ render_recovery: []
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptven03/a974.jpg)Ryan Fuller has been disqualified from Pro Tour – Venice. Fresh off his year long ban for various infractions, Fuller came back to the game as eager as ever, posting a Day 2 finish at Grand Prix – Boston before returning to the Tour at Venice. 
+![](http://www.wizards.com/sideboard/images/ptven03/a974.jpg)
+
+Ryan Fuller has been disqualified from Pro Tour – Venice. Fresh off his year long ban for various infractions, Fuller came back to the game as eager as ever, posting a Day 2 finish at Grand Prix – Boston before returning to the Tour at Venice. 
 
 However, Fuller was selected for a round one deck check. Scorekeeper Gordon Culp used the random table selector feature in the tournament software, and Ryan Fuller was the lucky winner. During the deck check, a judge observed that the deck could easily be separated into lands and spells just by looking at the backs of his sleeves.
 

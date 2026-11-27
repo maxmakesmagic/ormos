@@ -63,7 +63,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/13/2f/132f52bc89c147539f2f2f95f92c550c6f45febcb59cf28090a08142023f7ad1.png)Turn the tables on your opponents with Ninja, Patrons, and Genju—yes, even the land gets into the act!
+![](https://i.ormos.uk/13/2f/132f52bc89c147539f2f2f95f92c550c6f45febcb59cf28090a08142023f7ad1.png)
+
+Turn the tables on your opponents with Ninja, Patrons, and Genju—yes, even the land gets into the act!
 
 **Set Name:** *Betrayers of Kamigawa*  
 **Block:** Set 2 of 3 of the *Kamigawa* Block  

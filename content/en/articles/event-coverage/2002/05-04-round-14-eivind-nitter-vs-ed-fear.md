@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a759.jpg)Neither of these players has made a Pro Tour Top 8. Norway's Eivind Nitter has a more impressive resume – two Grand Prix Top 8's and a European Championship win. But Ed Fear is what we in the business call a "personality" – he talks the talk, and now he needs to walk the walk. Fear, fresh off a one-year DCI suspension for some shady goings-on at Pro Tour – Chicago, is in the spotlight once again, but this time for good reasons.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a759.jpg)
+
+Neither of these players has made a Pro Tour Top 8. Norway's Eivind Nitter has a more impressive resume – two Grand Prix Top 8's and a European Championship win. But Ed Fear is what we in the business call a "personality" – he talks the talk, and now he needs to walk the walk. Fear, fresh off a one-year DCI suspension for some shady goings-on at Pro Tour – Chicago, is in the spotlight once again, but this time for good reasons.
 
 Fear drafted an "amazing deck" and won in Round 12 before intentionally drawing in Round 13. It was a calculated risk – he figured he'd be able to draw again in the lat round if everything fell correctly. Had he been paired against Brian Davis, Fear could have just drawn into the final day. But the fates (aka DCI Reporter) were unkind to him, pairing him down against Nitter, who cannot afford a draw. So it will be settled in the Red Zone.
 
@@ -95,7 +97,9 @@ Fear: "I went to the Chris Benafel School of Stalling."
 
 Nitter started off very slowly – a turn three [Hypochondria](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hypochondria) and a turn 4 [Repel](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repel) on Fear's [Aven Fisher](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Fisher). He then [Syncopate](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Syncopate)d the Fisher when Fear tried to re-deploy it, and [Firebolt](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt)ed a [Cabal Torturer](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Torturer). On turn six, he put out everyone's favorite 3/3 flier, [Aven Windreader](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Windreader).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a774.jpg)On Fear's turn he tapped four mana and announced his spell: "You know what's better than Windreader? [Concentrate](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Concentrate)."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a774.jpg)
+
+On Fear's turn he tapped four mana and announced his spell: "You know what's better than Windreader? [Concentrate](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Concentrate)."
 
 Nitter: "Hahaha! My ass! Draw three lands!"
 

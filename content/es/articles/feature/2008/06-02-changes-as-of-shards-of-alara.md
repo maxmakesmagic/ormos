@@ -95,7 +95,9 @@ Versiones premium de las cartas raras míticas serán distribuidas en los sobres
 
 También reemplazaremos una carta común de cada sobre con una carta de tierra básica. La composición esperada de un sobre debería ser ahora: 1 rara, 3 poco comunes, 10 comunes, 1 tierra básica y una carta de consejos y trucos (con la carta rara mítica reemplazando la rara en aproximadamente 1 de cada 8 sobres).
 
-![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)Junto con todos estos cambios, un nuevo producto será introducido en la línea de **Magic**. El "pack de inicio" será la mejor manera para que los actuales jugadores conozcan las nuevas mecánicas y el entorno de la colección. También será la mejor herramienta para introducir nuevos jugadores al juego permitiéndoles aprender con las cartas más actuales. El contenido de un pack de inicio incluye: 
+![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)
+
+Junto con todos estos cambios, un nuevo producto será introducido en la línea de **Magic**. El "pack de inicio" será la mejor manera para que los actuales jugadores conozcan las nuevas mecánicas y el entorno de la colección. También será la mejor herramienta para introducir nuevos jugadores al juego permitiéndoles aprender con las cartas más actuales. El contenido de un pack de inicio incluye: 
 
 *   Un mazo preconstruido de 41 cartas, que incluye 1 rara premium y una rara normal
 *   1 sobre de la colección actual

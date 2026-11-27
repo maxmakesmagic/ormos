@@ -75,7 +75,9 @@ Got it? Good, on with the show.
 
 ### What do the two colors have in common?
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr201_picMain_en.jpg)The trick for allied colors is to examine the shared enemy of the two colors. For blue/black that would be green. Green desires to preserve the natural order. While every other color is trying to change the world, green fights hard to keep the status quo. Green wants things to progress as they would if it wasn't there. In addition, green is the most open and honest color. It has no need to keep secrets. Green wears its agenda on its sleeve for all to see.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr201_picMain_en.jpg)
+
+The trick for allied colors is to examine the shared enemy of the two colors. For blue/black that would be green. Green desires to preserve the natural order. While every other color is trying to change the world, green fights hard to keep the status quo. Green wants things to progress as they would if it wasn't there. In addition, green is the most open and honest color. It has no need to keep secrets. Green wears its agenda on its sleeve for all to see.
 
 Blue/black is the exact opposite. Blue/black wants to subvert the status quo. The selfishness of black combined with blue's desire to adapt the world around it creates a guild bent on shaping the world for its own means. In addition, blue/black has none of green's openness. Blue/black is the most secretive of the guilds. Blue/black understands that other people having knowledge of what you are up to is only a negative.
 
@@ -97,7 +99,9 @@ The one other major difference between the two colors is their motives. Blue cra
 
 To understand the guild's goal we need to look at the overlap of the goals of the two colors. Blue is driven by its quest for knowledge. It wants to understand everything. Why? Because it believes that everything can be improved upon. With knowledge comes the answer of not only how to transform it but what to transform it into. Black, on the other hand, is driven by selfishness. Black wants to change the world to make its own life as good as possible. As such, black seeks power because the ultimate security is having the ability to do whatever you want whenever you want.
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr201_pic1_en.jpg)So what happens when you mix the desire to change the world with the desire to control it? You get blue/black, the tribe whose key goal is to subvert the world to its own means. (As secretly as possible, of course.) Blue/black's end goal? Unrestricted knowledge and absolute power. That's all.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr201_pic1_en.jpg)
+
+So what happens when you mix the desire to change the world with the desire to control it? You get blue/black, the tribe whose key goal is to subvert the world to its own means. (As secretly as possible, of course.) Blue/black's end goal? Unrestricted knowledge and absolute power. That's all.
 
 How does blue/black achieve this? First and foremost by being very, very secretive. Blue/black doesn't want to meet resistance. So it attacks its enemies slowly, subtly and at the worst time for the opponent to respond. Second, blue/black doesn't restrict itself with silly things like ethics or emotion. Blue/black is willing to do what is needed to accomplish their task. This includes removing any obstacles (living or otherwise) in its way. Third, blue/black is intelligent and it chooses its battles very carefully.
 
@@ -111,7 +115,9 @@ Blue/black hates seeing the world as others want it to be. It is this threat of 
 
 ### What is the color's greatest strength and biggest weakness?
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr201_pic2_en.jpg)Blue/black's greatest strength is its sneakiness. No one sees it coming. If there were one guild you'd least want to upset it would be blue/black, because they'll definitely strike back but not in a way that you'd ever be able to anticipate.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr201_pic2_en.jpg)
+
+Blue/black's greatest strength is its sneakiness. No one sees it coming. If there were one guild you'd least want to upset it would be blue/black, because they'll definitely strike back but not in a way that you'd ever be able to anticipate.
 
 Blue/black's greatest weakness is its complete lack of trust. Even amongst itself. Blue/black's need for secrecy means that its left hand almost never knows what the right hand is doing. It doesn't even know if there is a right hand. Blue/black's biggest obstacle is often itself because its secrecy keeps it from realizing that the enemy is actually another part of the guild.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: ffa1ad81376eb773a6172bbb842dce3f6a64790256b8e1b68d6ebd011a010f51
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm14_1.jpg)With two rounds to go it's crunch time for the competitors. Barbero was undefeated at one point with only a draw to keep him from the top as they went into day two. Courtois quietly won his way up to draft on the top pod. But now an early loss this draft has turned this into a straight knockout. Both players need to win to have a chance of advancing.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm14_1.jpg)
+
+With two rounds to go it's crunch time for the competitors. Barbero was undefeated at one point with only a draw to keep him from the top as they went into day two. Courtois quietly won his way up to draft on the top pod. But now an early loss this draft has turned this into a straight knockout. Both players need to win to have a chance of advancing.
 
 ### Game 1
 

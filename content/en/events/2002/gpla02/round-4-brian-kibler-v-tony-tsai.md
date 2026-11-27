@@ -174,7 +174,9 @@ render_recovery:
   - Words of Wilding
   occurrences: 166
 ---
-![](https://www.wizards.com/sideboard/images/gpla02/985.jpg)Constructed kingpin Brian Kibler faced down the Shockingly famous Tony Tsai in this, their first round wihtout byes. Tsai asked if Kibler wanted to arm-wrestle for choice, but after sizing him up, thought better of it and went to the dice. Kibler lost the roll, but had the first play of the game: Sparksmith. Tsai responded with a pout. That expression deepened when he failed to play a third land. He shrugged. "Kept the two-lander."
+![](https://www.wizards.com/sideboard/images/gpla02/985.jpg)
+
+Constructed kingpin Brian Kibler faced down the Shockingly famous Tony Tsai in this, their first round wihtout byes. Tsai asked if Kibler wanted to arm-wrestle for choice, but after sizing him up, thought better of it and went to the dice. Kibler lost the roll, but had the first play of the game: Sparksmith. Tsai responded with a pout. That expression deepened when he failed to play a third land. He shrugged. "Kept the two-lander."
 
 Kibler's draw was unsympathetic. He curved out with Husk, Wretched Anurid and Barkhide Mauler. Tsai finally drew a swamp, in time to make Rotlung Reanimator and block to fall to two. Before Kibler could comment on his chances Tsai was already shuffling for game two.
 

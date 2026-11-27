@@ -751,7 +751,9 @@ Lots of permanents doesn't make the Smokestack any less costly in a literal sens
 
 ### Sweeping up (or locking down) the board
 
-![](https://i.ormos.uk/44/79/4479ecd174d7e33bda0a579d19964fa7f199fdaea1cd447cea03461a5b965cd9.jpg)This, in a lot of ways, is almost a corollary to the “have more permanents” point. Here, the idea is to sweep up the things that are already in play, giving your opponent less choices about what to sacrifice when it comes to their turn. Another variant on this is locking down the permanents that they have already in play.
+![](https://i.ormos.uk/44/79/4479ecd174d7e33bda0a579d19964fa7f199fdaea1cd447cea03461a5b965cd9.jpg)
+
+This, in a lot of ways, is almost a corollary to the “have more permanents” point. Here, the idea is to sweep up the things that are already in play, giving your opponent less choices about what to sacrifice when it comes to their turn. Another variant on this is locking down the permanents that they have already in play.
 
 A lot of people usually love to say at this point “That's why I love Tanglewire with Smokestack! It's a combo!” Well, they are both individually powerful cards, but they are *not* a combo. Essentially, they both put their disruptive abilities on the stack. However, whichever one is the most potent is going to be the only one that your opponent notices on their turn. If you have more tokens on Tanglewire, your opponent won't be any further disrupted by it – they can just sacrifice their tapped permanents. Better examples of cards that lock up the board that are actually relevant are cards like Opposition, Propaganda, or Icy Manipulator.
 
@@ -763,7 +765,9 @@ When I started working on the deck myself, I added in some more “sweep up” c
 
 ### Cards you *want* to sack
 
-![](https://i.ormos.uk/58/3f/583fb5547cd977999663a389c2931c85a598436089e6247f97d7f941e5d019f6.jpg)There aren't many of these, but they do exist. Pretty much every card with the phrase “When *this* card is put into a graveyard from play” is a good place to start. Losing a Rukh Egg is not so painful, nor is losing a Yavimaya Elder. To truly start getting something potent look at Academy Rector – sacrificing him can let you go get a card like Future Sight into play!
+![](https://i.ormos.uk/58/3f/583fb5547cd977999663a389c2931c85a598436089e6247f97d7f941e5d019f6.jpg)
+
+There aren't many of these, but they do exist. Pretty much every card with the phrase “When *this* card is put into a graveyard from play” is a good place to start. Losing a Rukh Egg is not so painful, nor is losing a Yavimaya Elder. To truly start getting something potent look at Academy Rector – sacrificing him can let you go get a card like Future Sight into play!
 
 If you run a card like Vedalken Shackles or Old Man of the Sea, sacrificing your opponent's creature is a great deal. On the next turn, steal another creature to sacrifice and give them even less choices for what to lose. 
 

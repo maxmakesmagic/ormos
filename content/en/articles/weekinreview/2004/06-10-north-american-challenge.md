@@ -655,7 +655,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/0c/4d/0c4d1ba3c470f4f4b6fd219182629fc3c00ffbd8ab48b36bd1c185bd0f5b6095.jpg)Although there were no Premier tournaments this weekend, the North American Challenge finals held in Milford, MA certainly felt like a Grand Prix. With about $10,000 in prize money, professional-looking t-shirts, feature matches and a highly experienced judging staff, it really made the players feel they were competing in a very high class tournament.
+![](https://i.ormos.uk/0c/4d/0c4d1ba3c470f4f4b6fd219182629fc3c00ffbd8ab48b36bd1c185bd0f5b6095.jpg)
+
+Although there were no Premier tournaments this weekend, the North American Challenge finals held in Milford, MA certainly felt like a Grand Prix. With about $10,000 in prize money, professional-looking t-shirts, feature matches and a highly experienced judging staff, it really made the players feel they were competing in a very high class tournament.
 
 All this is a far cry from this tournament circuit's humble beginnings. Started four years ago as a New England Challenge, it involved only a dozen or so stores back then, all located within a couple of hours of Boston. Tom Guevin emerged the winner of the very first NEC. It was Kush Patel who got the top prize in 2002. A few weeks later he went on to make top 8 at the JSS Finals. Last year the circuit was upgraded to a North East Challenge to accommodate for a larger variety of stores eager to participate. Adam Chambers was last year's champion.
 
@@ -679,7 +681,9 @@ There are a lot of different ways to build an Elf and Nail deck. Guevin's choice
 
 Paul Rietzl's version of Affinity was fairly standard, but very solid. I have watched game after game – including the final game of the Guevin-Rietzl match – where things looked all but hopeless and yet the sheer power of the Affinity deck would come to the rescue and allow Rietzl to pull through.
 
-![](https://i.ormos.uk/40/2f/402f9b846b91de51b3f271a74320a22e14528b7d6d34f4406292eb2082a58280.jpg)Which is not to detract from his skill or ability. Rietzl has been playing **Magic** in New England for over five years. Nicknamed “Little Darwin”, Rietzl hung out with the YMG crew and has been getting better and better at the game with each year. His breakthrough finally came after he moved to California for college. This year Rietzl earned back to back top 8 finishes on the Grand Prix circuit at Anaheim and Oakland. That combined with a string of solid Pro Tour finishes has earned Rietzl a spot on the gravy train. He is qualified for the foreseeable future as he currently has 26 Pro points this season. I would not at all be surprised to see Rietzl make a Pro Tour top 8 sometime within the next year.
+![](https://i.ormos.uk/40/2f/402f9b846b91de51b3f271a74320a22e14528b7d6d34f4406292eb2082a58280.jpg)
+
+Which is not to detract from his skill or ability. Rietzl has been playing **Magic** in New England for over five years. Nicknamed “Little Darwin”, Rietzl hung out with the YMG crew and has been getting better and better at the game with each year. His breakthrough finally came after he moved to California for college. This year Rietzl earned back to back top 8 finishes on the Grand Prix circuit at Anaheim and Oakland. That combined with a string of solid Pro Tour finishes has earned Rietzl a spot on the gravy train. He is qualified for the foreseeable future as he currently has 26 Pro points this season. I would not at all be surprised to see Rietzl make a Pro Tour top 8 sometime within the next year.
 
 Rietzl was not the only one to bring an Affinity deck to the table in this tournament. In fact, you could hardly fling a Skullclamp in the room without it landing on someone's Arcbound Ravager. Surprisingly only two Affinity decks fought their way into the top 8 (with Peter Ceprano's Affinity missing the cut on tiebreakers). The rest of top 8 was two Goblin decks (one mono-red and one Bidding), two Tooth and Nail decks, a Beasts deck and a black Clerics deck. Jacon Bruce's Clerics was clearly the most rogue strategy in the top 8. He felt confident it could beat the field and gave the eventual finialst Minicucci a real run for his money in the quarterfinals.
 

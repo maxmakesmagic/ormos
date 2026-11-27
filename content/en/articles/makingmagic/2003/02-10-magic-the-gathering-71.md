@@ -61,7 +61,9 @@ archive_source:
   sha256: 53b06b53d110b662f822a130465fd67c91f2571151537143c8d718bcb7bcf4b9
 render_recovery: []
 ---
-![Skaff](https://i.ormos.uk/0a/62/0a62e2671ac53d7ae720fed51bd8495bca86e0c85d258adef59602e5e8e8d643.jpg)Skaff wants your opinion on a topic that he and several other members of R&D have been discussing. “If you could give up 5 I.Q. points for a foot of vertical leap, how many I.Q. points would you give up?”
+![Skaff](https://i.ormos.uk/0a/62/0a62e2671ac53d7ae720fed51bd8495bca86e0c85d258adef59602e5e8e8d643.jpg)
+
+Skaff wants your opinion on a topic that he and several other members of R&D have been discussing. “If you could give up 5 I.Q. points for a foot of vertical leap, how many I.Q. points would you give up?”
 
  **[Say none.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=46)  
 [Say a small number.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=47)  

@@ -185,7 +185,9 @@ render_recovery:
 
 森田先手マリガン。しかし普通に《ゴブリンのそり乗り/Goblin Sledder》からスタートし、 Mark の《火花鍛冶/Sparksmith》を《ショック/Shock》で除去しつつ、《スカークの探鉱者/Skirk Prospector》につなげる。
 
-![](http://www.wizards.com/sideboard/images/ptven03/a911.jpg)Mark は 3 マナの時点で《ゴブリンの群衆追い/Goblin Piledriver》、《そり乗り》と並べる。
+![](http://www.wizards.com/sideboard/images/ptven03/a911.jpg)
+
+Mark は 3 マナの時点で《ゴブリンの群衆追い/Goblin Piledriver》、《そり乗り》と並べる。
 
 森田も同様に《群衆追い》《そり乗り》を。 Mark は若干後手に回ったため、《つつき這い虫/Clickslither》を出してアタックせずにエンド。
 

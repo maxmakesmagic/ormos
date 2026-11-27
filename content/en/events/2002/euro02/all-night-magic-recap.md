@@ -53,7 +53,9 @@ archive_source:
   sha256: 77c0d6f5aca493a617e6821d5bd6258e46e47071569a3a7993e9c095f0be4b62
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a896.jpg)With the Beurs van Berlage almost deserted, **Magic** players from all over Europe went to the ABCTreehouse, an art-gallery where the nightly action would soon start. While there weren't that many players at midnight, it soon became quite a happy bunch. The presence of drinks and some of the other treats a city like Amsterdam has to offer created a really laid-back atmosphere, the keyword was definitely 'fun'. This was also reflected in the formats they came up with. Ever played a *Revised* draft in 2002 or participated in a *Saga/Mirage/Alliances* Sealed Deck tournament?
+![](http://www.wizards.com/sideboard/images/euro02/a896.jpg)
+
+With the Beurs van Berlage almost deserted, **Magic** players from all over Europe went to the ABCTreehouse, an art-gallery where the nightly action would soon start. While there weren't that many players at midnight, it soon became quite a happy bunch. The presence of drinks and some of the other treats a city like Amsterdam has to offer created a really laid-back atmosphere, the keyword was definitely 'fun'. This was also reflected in the formats they came up with. Ever played a *Revised* draft in 2002 or participated in a *Saga/Mirage/Alliances* Sealed Deck tournament?
 
 The players saw this Sealed Deck monstrosity as the funniest format, because it created a lot of weird new card interactions that probably no one ever tried out before! Instead of figuring out all kinds of new combo's, other players just did a draft or two and then fell asleep on a couch. 
 

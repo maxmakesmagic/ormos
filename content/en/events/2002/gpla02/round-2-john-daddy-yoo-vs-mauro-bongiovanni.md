@@ -177,7 +177,9 @@ render_recovery:
   - Withering Hex
   occurrences: 183
 ---
-![](https://www.wizards.com/sideboard/images/gpla02/992.jpg)John “Daddy” Yoo, perennial competitor for California team DKLA, fell out of the Magic scene for quite a while. Considered the best west coast drafter for many a year, he disappeared from the game for a number of years, but not before making his mark by finishing in the Top 4 of Pro Tour - Atlanta and the second Pro Tour Los Angeles. Mauro Bongiovanni recently won the last chance qualifier for Pro Tour Houston, and runs many events as a tournament organizer in the Montreal area.
+![](https://www.wizards.com/sideboard/images/gpla02/992.jpg)
+
+John “Daddy” Yoo, perennial competitor for California team DKLA, fell out of the Magic scene for quite a while. Considered the best west coast drafter for many a year, he disappeared from the game for a number of years, but not before making his mark by finishing in the Top 4 of Pro Tour - Atlanta and the second Pro Tour Los Angeles. Mauro Bongiovanni recently won the last chance qualifier for Pro Tour Houston, and runs many events as a tournament organizer in the Montreal area.
 
 John Yoo: “I haven’t played for years, I’m not a serious player anymore. I pretty much finished third, third and second at limited pro tours the year of PT Atlanta, but stopped playing.”  
  Mauro: “That’s pretty impressive.”  
@@ -197,7 +199,9 @@ Mauro: (reading the enchantment) When Cover of Darkness comes into play, name a 
 
 This allowed John to swing with his Haunted Cadaver to knock the remaining three cards out of Mauro’s hand-land, Disciple of Grace and Pacifism as it turns out. Mauro counterattacked with his Machinist and Courier, activating the Machinist twice after no blocks. This turned up seven mana cost worth of cards, doing a total of nine damage to Yoo for the turn. Yoo counterattacked with his two creatures, bringing the life totals to 10-9 in Mauro’s favor. He played his third morph of the game, but faced the Machinist, the Courier, and the 2/2 flying soldier which had yet to be pumped. 
 
-![](https://www.wizards.com/sideboard/images/gpla02/993.jpg)Mauro activated the Machinist, revealing a Daru Cavalier to make the big goblin a 4/5. He decided that was enough pumpage to warrant using his second Pacifism of the game to neutralize the untapped blocker, knocking Yoo down two one. 
+![](https://www.wizards.com/sideboard/images/gpla02/993.jpg)
+
+Mauro activated the Machinist, revealing a Daru Cavalier to make the big goblin a 4/5. He decided that was enough pumpage to warrant using his second Pacifism of the game to neutralize the untapped blocker, knocking Yoo down two one. 
 
 John declined to attack, but had Cruel Revival in hand ready to stop the fatal damage from the Courier the following turn, bringing back his Haunted Cadaver. Mauro played a second Cavalier, fetching the first one that had been banished to the bottom of his library.
 
@@ -211,7 +215,9 @@ Between games, I confirmed with Mauro that he was indeed Canadian. He agreed. I 
 
 Mauro elected to play first, and both players again decided to keep their initial seven cards. This game, John led with a turn two Wirewood Elf, which served for a single point of damage on turn three as he summoned morphBB face down. Mauro gingerly played a fourth turn Cavalier, fuelled by a Daru Encampment. 
 
-![](https://www.wizards.com/sideboard/images/gpla02/994.jpg)The game went into overdrive stall mode, as John, adorned in the native clothes of his parent company Blizzard Software, summoned a second morph creature and a Wall of Morph. Mauro could only answer with his second Cavalier, as he cycled away Secluded Steppe against John morphing his Ascending Aven to beat for three. Mauro cast Gustcloak Skirmisher to block with John responding by morphing his Haunted Cadaver. He promptly untapped and murdered the white flyer with a Cruel Revival, allowing his aven to come in for another three. Mauro decided he’d taken enough damage from the blue creature and Pacified it, freeing John to cast a 3/3 unblockable Gluttonous Zombie against his white/red opponent. 
+![](https://www.wizards.com/sideboard/images/gpla02/994.jpg)
+
+The game went into overdrive stall mode, as John, adorned in the native clothes of his parent company Blizzard Software, summoned a second morph creature and a Wall of Morph. Mauro could only answer with his second Cavalier, as he cycled away Secluded Steppe against John morphing his Ascending Aven to beat for three. Mauro cast Gustcloak Skirmisher to block with John responding by morphing his Haunted Cadaver. He promptly untapped and murdered the white flyer with a Cruel Revival, allowing his aven to come in for another three. Mauro decided he’d taken enough damage from the blue creature and Pacified it, freeing John to cast a 3/3 unblockable Gluttonous Zombie against his white/red opponent. 
 
 Mauro went on full offensive, swinging with his two first striking twins. One hit the wall, while the other beat down for two. Mauro plunked down Gustcloak Harrier, which died the following turn to a second Cruel Revival.
 

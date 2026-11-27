@@ -70,17 +70,23 @@ render_recovery:
   - Memory Lapse
   occurrences: 20
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a997.jpg)La première ronde du championnat national voit l'affrontement de deux joueurs très reconnus au Canada. Steven Wolfman est membre de l'équipe 2020 qui a fini deuxième au Pro Tour Boston et au Masters de Venise. Murray Evans a connu du succès au Nationaux dans le passé, il était deuxième en 1999. Evans a choisi de jouer mono-noir, deck consistant de sorts anti-créatures et de cartes puissantes comme Visara et Mirari joués à l'aide de Cabal Coffers. Steven joue Cunning Wake, un deck de contrôle que certains considèrent le meilleur du format standard. 
+![](http://www.wizards.com/sideboard/images/natcan03/a997.jpg)
+
+La première ronde du championnat national voit l'affrontement de deux joueurs très reconnus au Canada. Steven Wolfman est membre de l'équipe 2020 qui a fini deuxième au Pro Tour Boston et au Masters de Venise. Murray Evans a connu du succès au Nationaux dans le passé, il était deuxième en 1999. Evans a choisi de jouer mono-noir, deck consistant de sorts anti-créatures et de cartes puissantes comme Visara et Mirari joués à l'aide de Cabal Coffers. Steven joue Cunning Wake, un deck de contrôle que certains considèrent le meilleur du format standard. 
 
 Première Partie
 
-![](http://www.wizards.com/sideboard/images/natcan03/a998.jpg)La partie débute avec des lands des deux joueurs pour quelques tours. Wolfman active un Krosan Verge, mais n'a pas la Compulsion dangereuse pour le suivre. Evans joue le premier sort, c'est un Diabolic Tutor qui est Lapsé. Evans réessaye au tour suivant, mais cette fois il rencontre un contresort. Wolfman trouve finalement sa Compulsion après un Deep Analysis. Evans semble ne plus avoir de gaz tandis que Wolfman réussit un Cunning Wish sur Opportunité, qu'il joue suivi d'un deuxième Deep Analysis. Evans sait qu'il n'a plus de chance, et décide de concéder.
+![](http://www.wizards.com/sideboard/images/natcan03/a998.jpg)
+
+La partie débute avec des lands des deux joueurs pour quelques tours. Wolfman active un Krosan Verge, mais n'a pas la Compulsion dangereuse pour le suivre. Evans joue le premier sort, c'est un Diabolic Tutor qui est Lapsé. Evans réessaye au tour suivant, mais cette fois il rencontre un contresort. Wolfman trouve finalement sa Compulsion après un Deep Analysis. Evans semble ne plus avoir de gaz tandis que Wolfman réussit un Cunning Wish sur Opportunité, qu'il joue suivi d'un deuxième Deep Analysis. Evans sait qu'il n'a plus de chance, et décide de concéder.
 
 Murray enlève ses cartes anti-bêtes inutiles et les remplace par des Cabal Thérapy et des Nantuko Shades. Wolfman a choisit de changer un Moments Peace pour le quatrième Exalted Angel. 
 
 Deuxième Partie
 
-![](https://i.ormos.uk/c7/4e/c74e2baeeab6486f2e5d9981efedea6a82b831f67e39dd8509a566e1e01f487b.jpg)Evans commence la deuxième avec une Thérapie sans effet sur Compulsion. Il tente ensuite un Nantuko Shade, que Wolfman Memory Lapse. Le Shade revient au prochain tour, mais Wolfman n'est pas intéressé, il le contre. Murray lâche un soupir de désespoir quand Steven résout une Compulsion au prochain tour. Mais cela n'est pas tout pour Steven, il a aussi le Wake. Evans, qui est coincé avec 4 Lands, joue un Diabolic Tutor qui est Lapsé. Wolfman joue la dernière partie du casse-tête : Mirari.
+![](https://i.ormos.uk/c7/4e/c74e2baeeab6486f2e5d9981efedea6a82b831f67e39dd8509a566e1e01f487b.jpg)
+
+Evans commence la deuxième avec une Thérapie sans effet sur Compulsion. Il tente ensuite un Nantuko Shade, que Wolfman Memory Lapse. Le Shade revient au prochain tour, mais Wolfman n'est pas intéressé, il le contre. Murray lâche un soupir de désespoir quand Steven résout une Compulsion au prochain tour. Mais cela n'est pas tout pour Steven, il a aussi le Wake. Evans, qui est coincé avec 4 Lands, joue un Diabolic Tutor qui est Lapsé. Wolfman joue la dernière partie du casse-tête : Mirari.
 
 Evans sait qu'il est dans une situation dangereuse, il décide de remettre son Tutorat à plus tard en faveur d'un Cabal Thérapy sur Cunning Wish. Heureusement que Wolfman n'en avait pas. Cependant il a un Exalted Angel qu'il pose au tour suivant. Murray, voyant que son adversaire a plusieurs cartes an main, et que lui il ne peut trouver un cinquième land, ramasse ses cartes.
 

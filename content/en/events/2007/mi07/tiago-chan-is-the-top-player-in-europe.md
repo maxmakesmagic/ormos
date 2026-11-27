@@ -72,7 +72,9 @@ render_recovery: []
 
 *Profiles by Brian David-Marshall*
 
-[![](https://i.ormos.uk/8b/8f/8b8fe3d6dc90f100f9eaafadb259467ffdf95f1cf5adc0544419ab92ebd7870a.jpg)](https://web.archive.org/web/20070719000000/http://boards1.wizards.com/showthread.php?t=889684)Welcome to the voting for the 11th annual **Magic** Invitational!
+[![](https://i.ormos.uk/8b/8f/8b8fe3d6dc90f100f9eaafadb259467ffdf95f1cf5adc0544419ab92ebd7870a.jpg)](https://web.archive.org/web/20070719000000/http://boards1.wizards.com/showthread.php?t=889684)
+
+Welcome to the voting for the 11th annual **Magic** Invitational!
 
 The Invitational ballot continues its trip around the globe from Asia to Europe with another star-studded ballot. Even though five Europeans are already invited from other ballots and championships, these five stack up with any players in the world. The list includes the reigning Rookie of the Year, a possible Player of the Year, two of the game's top columnists, and a rising star. Which member of this all-star cast gets to go to **Magic**'s All-Star game is up to you. Head to the forums and vote for your favorite European player now. 
 
@@ -82,7 +84,9 @@ The Invitational ballot continues its trip around the globe from Asia to Europe 
 
 ### Marijn Lybaert (8.2%)
 
-![](https://i.ormos.uk/26/8a/268a6bfb891309d4ae33153c627927e3f052fd729cb989d8ff948ad7155b40b4.jpg)Don't look now Sebastian, but Marijn Lybaert is breathing down your neck in the Player of the Year race. The bespectled Belgian seemingly came from nowhere when he lost to Kenji on the finals of Grand Prix–Tolouse but has shown no signs of returning there since then. He made his Pro Tour elmination bracket debut in Geneva despite dodging feature match attention all weekend long. That trend continued when he got to Yokohama, even as he was fighting for a second Top 8 berth right up until the final round. The lack of press did not stop everyone from making his Gargadon/Disintegrate tandem from that event standard issue in the wake of that tournament. Look for plenty of Feature Matches in this young man's future. 
+![](https://i.ormos.uk/26/8a/268a6bfb891309d4ae33153c627927e3f052fd729cb989d8ff948ad7155b40b4.jpg)
+
+Don't look now Sebastian, but Marijn Lybaert is breathing down your neck in the Player of the Year race. The bespectled Belgian seemingly came from nowhere when he lost to Kenji on the finals of Grand Prix–Tolouse but has shown no signs of returning there since then. He made his Pro Tour elmination bracket debut in Geneva despite dodging feature match attention all weekend long. That trend continued when he got to Yokohama, even as he was fighting for a second Top 8 berth right up until the final round. The lack of press did not stop everyone from making his Gargadon/Disintegrate tandem from that event standard issue in the wake of that tournament. Look for plenty of Feature Matches in this young man's future. 
 
 ### Quentin Martin (7.5%)
 

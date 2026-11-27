@@ -61,7 +61,9 @@ render_recovery:
 ---
 ### Grand Prix-Kyoto
 
-![](https://i.ormos.uk/71/d2/71d2e930db6dd56e55491d43e7c2000f13c4378a9f30b79738a011651edf1498.jpg)This should have been the biggest Grand Prix of all time. A tournament held in Japan that is feeding a Pro Tour in Japan, located in a heavily populated area of Kyoto. It was quite a surprise to me that under 700 players showed up. A very solid performance for a GP anywhere in the world – even Japan – to be sure, but far from what I’d expected.
+![](https://i.ormos.uk/71/d2/71d2e930db6dd56e55491d43e7c2000f13c4378a9f30b79738a011651edf1498.jpg)
+
+This should have been the biggest Grand Prix of all time. A tournament held in Japan that is feeding a Pro Tour in Japan, located in a heavily populated area of Kyoto. It was quite a surprise to me that under 700 players showed up. A very solid performance for a GP anywhere in the world – even Japan – to be sure, but far from what I’d expected.
 
 What did meet my expectations was the lack of international participation. Most Asian pros from outside of Japan had Grand Prix-Singapore keeping them busy that same weekend. Others may not have wanted to travel amid the SARS scare and the war. In either case, the only prominent pro from outside of the country to attend the tournament was Olivier Ruel, who made Day 2 but failed to finish in the money.
 
@@ -71,7 +73,9 @@ The champion title went to Akira Asahara. A virtual unknown to world community, 
 
 ### Grand Prix-Singapore
 
-![](https://i.ormos.uk/e7/b3/e7b32964daffeed4759b8eac034b4f2f25879801b16ec43618d809ee69c1bf92.jpg)This is the third time the Grand Prix circuit returns to Singapore. While Japanese players did not travel to Singapore as they had a Grand Prix of their own to attend, it seemed like the rest of the world showed up, and they got a Top 8 with players from three continents of four represented at the tournament to prove it.
+![](https://i.ormos.uk/e7/b3/e7b32964daffeed4759b8eac034b4f2f25879801b16ec43618d809ee69c1bf92.jpg)
+
+This is the third time the Grand Prix circuit returns to Singapore. While Japanese players did not travel to Singapore as they had a Grand Prix of their own to attend, it seemed like the rest of the world showed up, and they got a Top 8 with players from three continents of four represented at the tournament to prove it.
 
 It was a much smaller tournament than Kyoto, at 231 players. Beside the Top 8 finishers, it featured pros such as Albertus Law, Peter Szigeti, Ben Seck and Rob Nadebaum. The Top 8 included two of the four Americans in attendance – Gary Talim and Antonino de Rosa. Local players weren’t shamed, as they earned three slots in the Top 8 – the original GP-Singapore champion Sam Lau, GP-Singapore #2 finalist Kelvin Hoon and Kuala Lumpur finalist Chang Chua. As is the case with Akira Asahara, these are players who may be below the international community’s radar, but they are very well known in their region.
 

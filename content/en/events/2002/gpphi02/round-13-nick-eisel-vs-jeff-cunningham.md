@@ -128,7 +128,9 @@ render_recovery:
   - Spy Network
   occurrences: 119
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a880.jpg)Nick Eisel has been making waves in the Grand Prix today, both for his success as the #1 ranked player on Magic Online, but for his sometimes-startling Rochester picks that have ruffled the feathers of more than a few pods. Still, it's really hard to argue with success - and success is his watchword today, with a 12-0-1 record. He's almost certainly guaranteed a berth in the Top 8, win or lose - he's just in it for the ratings points.
+![](http://www.wizards.com/sideboard/images/gpphi02/a880.jpg)
+
+Nick Eisel has been making waves in the Grand Prix today, both for his success as the #1 ranked player on Magic Online, but for his sometimes-startling Rochester picks that have ruffled the feathers of more than a few pods. Still, it's really hard to argue with success - and success is his watchword today, with a 12-0-1 record. He's almost certainly guaranteed a berth in the Top 8, win or lose - he's just in it for the ratings points.
 
 Jeff Cunningham has had a handful of top 8s at places around the country, with good showings at Canadian Nationals and particularly Grand Prix: Tampa, but the ultimate prize has yet eluded him. 
 
@@ -154,7 +156,9 @@ Cunningham laid a Nantuko Husk and began to cast another spell, hoping to throw 
 
 "You could still make it," Eisel said with the air of a coach bucking up his players for the Homecoming game, convincing Cunningham that the Top 8 didn't really depend on pulling out a win here. "You *could!*" 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a881.jpg)Cunningham chose to go first, and led off with the ever-popular Wretched Anurid; Eisel responded with a Wirewood Herald, which chumped and died the next turn, only to go fetch a Wellwisher to stave off the early beats. Cunningham created a Nantuko Husk, fetching an appreciative "Nice" from Eisel.
+![](http://www.wizards.com/sideboard/images/gpphi02/a881.jpg)
+
+Cunningham chose to go first, and led off with the ever-popular Wretched Anurid; Eisel responded with a Wirewood Herald, which chumped and died the next turn, only to go fetch a Wellwisher to stave off the early beats. Cunningham created a Nantuko Husk, fetching an appreciative "Nice" from Eisel.
 
 Unfortunately, Nick got to three lands, all of them forests, and saw no blue. Cunningham laid a Symbiotic Elf, causing Eisel to exclaim, "Sheesh, what a curve!" He cycled his Tusker and fetched, not surprisingly, an island. Now up to a semifunctional four mana, where he could begin to mount a defense, he cast the Wellwisher and passed; Cunningham robbed him of that defense by casting a Festering Goblin, sacrificing it to the Husk, then swinging - or starting to. A cycled Choking Tethers staved off the Husk that turn. However, the next turn presented no additional defense, and was his undoing.
 
@@ -168,7 +172,9 @@ Cunningham sacrificed the Goblin to the Husk to remove the last creature, the lo
 
 Eisel laid a morph, and the Husk became a wall come Cunningham's next attack phase. The two morphs traded without the slightest sign of demorphing, while Mauler and Elf dropped Eisel to eight; he thumped his deck, looking for an answer. He laid a Spitting Gourna, which may not have been the answer he wanted; Cunningham sent with just the beast, daring Eisel to lose his only defense. Eisel declined, dipping into four life. 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a882.jpg)The long stare of life then came, as it was Eisel's turn to decide if there was a way of could survive the next turn, let alone win. He laid a Mistform Wall, passing straight into Cunningham's combat phase; the Gourna and Wall blocked the Mauler, leaving a very lonely wall of defense - a defense that looked even smaller when Cunningham created a Symbiotic Elf. Eisel decided that he didn't want a lonely wall, so he summoned an Arcanis to go along with it; the next attack brought the *second* Symbiotic Elf, making things very difficult - as Eisel was now at a slender one, with only two blockers between himself and certain death.
+![](http://www.wizards.com/sideboard/images/gpphi02/a882.jpg)
+
+The long stare of life then came, as it was Eisel's turn to decide if there was a way of could survive the next turn, let alone win. He laid a Mistform Wall, passing straight into Cunningham's combat phase; the Gourna and Wall blocked the Mauler, leaving a very lonely wall of defense - a defense that looked even smaller when Cunningham created a Symbiotic Elf. Eisel decided that he didn't want a lonely wall, so he summoned an Arcanis to go along with it; the next attack brought the *second* Symbiotic Elf, making things very difficult - as Eisel was now at a slender one, with only two blockers between himself and certain death.
 
 A Treespring Lorian brought some hope, but the Husk ate both Elves, creating four 1/1 tokens to swarm past the defense. Admittedly, Cunningham could have done that the turn before... But he still twigged to the strategy in time. Game over - and in a rare event in the top matches at high-level events, both players left happy. They're both at 34 points for the day, and if one gets in, the other is sure to follow. Not bad. 
 

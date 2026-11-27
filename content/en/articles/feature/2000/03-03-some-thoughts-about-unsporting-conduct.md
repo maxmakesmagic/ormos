@@ -70,7 +70,9 @@ render_recovery:
 ---
 *Cedric Nouveau*
 
-![](http://www.wizards.com/dci/judge/jcfiles/images/cedric.jpg)A few months ago, while I was head judging a preview, the shop owner I was working with asked me to watch for unsportmanlike conduct. Of course, my judging team immediately asked guidelines about what they should consider to be unsportmanlike conduct, and while I was answering them I realised it was perhaps one of the most difficult area for novice judges.
+![](http://www.wizards.com/dci/judge/jcfiles/images/cedric.jpg)
+
+A few months ago, while I was head judging a preview, the shop owner I was working with asked me to watch for unsportmanlike conduct. Of course, my judging team immediately asked guidelines about what they should consider to be unsportmanlike conduct, and while I was answering them I realised it was perhaps one of the most difficult area for novice judges.
 
 So here are some thoughts about what can be considered unsportmanlike conduct and when a judge should intervene.
 
@@ -78,7 +80,9 @@ First of all, I would like to talk about a common form of unsportmanlike conduct
 
 Trashtalking is making your opponent lose his concentration by some kind of speech or behaviour that is not game related. But this is very player dependant: I witnessed matches were both players were enjoying being very "talkative", and others were a young player was really overwhelmed by an obnoxious opponent, and didn't dare to say anything. I think a good way to handle this kind of situation waiting until a player complain or seem annoyed. In the former case ask the other player to be quieter, and if he persist don't hesitate to issue warnings. In the latter case I would tell the player he can ask his opponent to be quieter, which give him an occasion to complain if he was too timid to do so in the first place. In case of extremely tense match you may prevent players from communicating on any non technical game related topic, but you should try to avoid this situation, (In fact, when you have to resort to this method it usually means that you failed to keep the tournament under control: I used this method only once in my whole judging career, in last year national, when two players where on the verge of fighting :-(
 
-![](http://www.wizards.com/dci/judge/jcfiles/images/vaudou.jpg)In the same way, lucky devices are rarely disturbing, and should be allowed unless the opponent is complaining: plants, plush pigs or hedgehog, living redfishs are usually welcomed on the play table. Should I issue a warning to the smiling guy on the left, who is doing some kind of witchcraft with his candle ? I don't think so…
+![](http://www.wizards.com/dci/judge/jcfiles/images/vaudou.jpg)
+
+In the same way, lucky devices are rarely disturbing, and should be allowed unless the opponent is complaining: plants, plush pigs or hedgehog, living redfishs are usually welcomed on the play table. Should I issue a warning to the smiling guy on the left, who is doing some kind of witchcraft with his candle ? I don't think so…
 
 Of course, this paragraph about trashtalking doesn't take into account any rude behaviour, such as this story I heard about a few years ago (I don't know if it's true or not): a player was taking his young opponents of balance by putting a pornographic gay mag on the table and touching their feet with his own during gameplay... I would clearly eject this player from the tournament !
 
@@ -106,7 +110,9 @@ In this case, A talked B into doing a rule mistake (drawing while necro was in p
 
 In my opinion, as B had already declared his blockers so this does not falls in the "jedi mind trick" area (remember you are not allowed to take back a move in tournament magic) but rather into unsportmanlike conduct.
 
-![](http://www.wizards.com/dci/judge/jcfiles/images/cartes.jpg)Nevertheless, things are not always that easy, here is an example which is a bit more difficult: Player A is playing an old school prison deck (icy manipulator, winter orb) and cast icy manipulator with orb in play, leaving him with an untapped land. B takes the winter orb, reads it, makes a comment about those 6th edition artefact rules, and go on playing… obviously not aware of the winter orb errata. Is A supposed to say anything ? I don't think so, as a tournament player is supposed to know the rules and erratas… Now let's suppose the winter orb is in a foreign language, that B ask A the text of the card… and that A answers that this artifact allows you to untap only one land a turn. In this situation, I think that A, intentionally or not, gets a huge advantage by not mentioning the errata, which I would equal to talking the opponent into doing a rule mistake. (by the way, A may decline to answer and tell B to ask a judge the wording of the card). So I won't hesitate to issue A a warning.
+![](http://www.wizards.com/dci/judge/jcfiles/images/cartes.jpg)
+
+Nevertheless, things are not always that easy, here is an example which is a bit more difficult: Player A is playing an old school prison deck (icy manipulator, winter orb) and cast icy manipulator with orb in play, leaving him with an untapped land. B takes the winter orb, reads it, makes a comment about those 6th edition artefact rules, and go on playing… obviously not aware of the winter orb errata. Is A supposed to say anything ? I don't think so, as a tournament player is supposed to know the rules and erratas… Now let's suppose the winter orb is in a foreign language, that B ask A the text of the card… and that A answers that this artifact allows you to untap only one land a turn. In this situation, I think that A, intentionally or not, gets a huge advantage by not mentioning the errata, which I would equal to talking the opponent into doing a rule mistake. (by the way, A may decline to answer and tell B to ask a judge the wording of the card). So I won't hesitate to issue A a warning.
 
 (On a side note, if you, as a judge, witnessed the first part of this scenario, where B reads the card, would you intervene, considering that he was doing a move to get the text of the card ? My actions would depend of the rule enforcement, but discussion is open…)
 

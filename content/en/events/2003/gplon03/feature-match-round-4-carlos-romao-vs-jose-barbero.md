@@ -53,7 +53,9 @@ archive_source:
   sha256: 679b366445fe6d9337fef5b8e09946d39bfc91bc1bb65ec7ee87fb978880daab
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gplon03/a959.jpg)Carlos Romao is the World Champion from last year and was only a match short of a chance to defend his title in the top 8 of this year. The Brazilian champion last year, he had to content himself with runner-up this year. His opponent is also far from home. Jose Barbero is the current Argentinean Champion. They played together as part of the GP Amsterdam winning Rankko team and know exactly what the other is playing today.
+![](http://www.wizards.com/sideboard/images/gplon03/a959.jpg)
+
+Carlos Romao is the World Champion from last year and was only a match short of a chance to defend his title in the top 8 of this year. The Brazilian champion last year, he had to content himself with runner-up this year. His opponent is also far from home. Jose Barbero is the current Argentinean Champion. They played together as part of the GP Amsterdam winning Rankko team and know exactly what the other is playing today.
 
 Romao is running RW while Barbero has Goblins. They reckon the matchup is 50/50 depending on the draws.
 
@@ -61,7 +63,9 @@ Barbero won the coin flip and opted to go first. Romao was forced to mulligan an
 
 “He Paris’ed 3 Silver Knights even though he knows I’m playing Goblins,” Barbero translated.
 
-![](http://www.wizards.com/sideboard/images/gplon03/a960.jpg)Barbero came haring out of the blocks with the turn 2 Piledriver, turn 3 Warchief combo while Romao was slowed by having to play a cycle land. The Brazilian laid a plains and showed Wing Shards mana. Barbero didn’t care as his perfect curve sent a Siege Gang Commander and 3 little buddies into the red zone.
+![](http://www.wizards.com/sideboard/images/gplon03/a960.jpg)
+
+Barbero came haring out of the blocks with the turn 2 Piledriver, turn 3 Warchief combo while Romao was slowed by having to play a cycle land. The Brazilian laid a plains and showed Wing Shards mana. Barbero didn’t care as his perfect curve sent a Siege Gang Commander and 3 little buddies into the red zone.
 
 Romao had to cast Renewed Faith just to stay alive, and that only left him on 3 life. The next draw step wasn’t any help and as quickly as that game 1 was over.
 
@@ -73,7 +77,9 @@ Romao had more fight in him this time. Renewed Faith clawed back some life and t
 
 Barbero replenished his forces with a second Siege Gang Commander only for Akroma to dish out her Vengeance again.
 
-![](http://www.wizards.com/sideboard/images/gplon03/a961.jpg)The Goblins kept coming. War Chief and Sledder poured into the red zone. A Sulfuric Vortex added to the clock.
+![](http://www.wizards.com/sideboard/images/gplon03/a961.jpg)
+
+The Goblins kept coming. War Chief and Sledder poured into the red zone. A Sulfuric Vortex added to the clock.
 
 Romao seemed to have all the answers. He Wiped Clean the Vortex and stormed up Wing Shards to take care of the little red dudes. A third Siege Gang Commander was Starstormed away.
 

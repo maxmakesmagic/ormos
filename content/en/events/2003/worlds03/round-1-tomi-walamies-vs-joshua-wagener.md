@@ -92,7 +92,9 @@ render_recovery:
   - Mistform Wall
   occurrences: 55
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a584.jpg)Tomi Walamies and Josh Wagener are the captains of their respective countries squads this weekend. They are the National Champions. Tomi Walamies has the Pro Tour pedigree that you look for in these situations and directed his team through the draft with only a few minor stumbles.
+![](http://www.wizards.com/sideboard/images/worlds03/a584.jpg)
+
+Tomi Walamies and Josh Wagener are the captains of their respective countries squads this weekend. They are the National Champions. Tomi Walamies has the Pro Tour pedigree that you look for in these situations and directed his team through the draft with only a few minor stumbles.
 
 Josh is unfamiliar with this rarified air and he has deferred to the much more experienced Justin Gary in the leadership department. He obviously has the skills to compete—he is just lacking the experience. 
 

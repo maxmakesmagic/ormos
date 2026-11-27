@@ -87,7 +87,9 @@ render_recovery:
   - Exhume
   occurrences: 60
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a471.jpg)This would prove to be a match of very unlikely events. Unfortunately they don't happen until the second and third games. Sit back, and enjoy.
+![](http://www.wizards.com/sideboard/images/pthou02/a471.jpg)
+
+This would prove to be a match of very unlikely events. Unfortunately they don't happen until the second and third games. Sit back, and enjoy.
 
 ### Game 1
 
@@ -101,13 +103,17 @@ Ken brings in a full arsenal for this: 4 Phyrexian Negator, 2 Coffin Purge, 2 Di
 
 He has to mulligan his hand, and Kamiel keeps his cards after some thought. Ken brings out a Bird first turn, and Kamiel gets a peek in with Duress. He gets to take away Ken's Pernicious Deed, leaving a Ravenous Baloth and some land in there. Ken has no turn two play, and Kamiel takes away the Baloth with a Cabal Therapy, only to Reanimate the Baloth himself. Ken draws and plays a Yavimaya Elder, Kamiel answers with a Mighty Mystery Morphguy and continues to play land.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a468.jpg)Kamiel's Baloth charges in and brings Ken to 15 life. Ken attacks back with the Elder, bringing Kamiel to 10, but he's losing the beatdown race to the Hermit deck as it is... Next turn Kamiel Duresses Ken, taking the lone Diabolic Edict in there. Ken just thought it was a land, so Kamiel got to keep his morph guy. 
+![](http://www.wizards.com/sideboard/images/pthou02/a468.jpg)
+
+Kamiel's Baloth charges in and brings Ken to 15 life. Ken attacks back with the Elder, bringing Kamiel to 10, but he's losing the beatdown race to the Hermit deck as it is... Next turn Kamiel Duresses Ken, taking the lone Diabolic Edict in there. Ken just thought it was a land, so Kamiel got to keep his morph guy. 
 
 Ken: "Wow that was really bad"
 
 Ken sacs the Elder at the end of his turn, looking for more business spells. He got one in the incarnation of Recurring Nightmare, and got back his Yavimaya Elder by sacrificing his Birds of Paradise. Kamiel just attacks with his Baloth and plays a land. Ken gets a Cabal Therapy in next turn, but finds only land in Kamiel's hand. Then a Spike Feeder joins the Recurring Nightmare madness, and Ken fetches a Spiritmonger with a Vampiric Tutor next. Kamiel blocks the Spiritmonger with the Ravenous Baloth to give him some more time, as he was at 6 mana so far. He plays land and Mox Diamond on his next turn, attacking with his morph guy. Ken blocks with the Elder, knowing well what the morph guy is. Kamiel taps 8 mana, and UNMORPHS the Krosan Colossus.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a470.jpg)Now just think about that for a moment – how often are you going to see a Krosan Colossus being unmorphed the hard way in a Constructed Tournament. At the same time at the table next to us, Jon Finkel cast a Life to swarm John Larkin to death with 1/1s.
+![](http://www.wizards.com/sideboard/images/pthou02/a470.jpg)
+
+Now just think about that for a moment – how often are you going to see a Krosan Colossus being unmorphed the hard way in a Constructed Tournament. At the same time at the table next to us, Jon Finkel cast a Life to swarm John Larkin to death with 1/1s.
 
 Unfortunately for Kamiel, he died two turns after his Krosan Colossus got Diabolic Edicted next turn.
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a957.jpg)It could be said that England's Gary Wise has more personality than he knows what to do with. Outgoing and outspoken, his love of the game is matched only by his fierce competitiveness. That intensity combines with a talent that has given him strong finishes this season.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a957.jpg)
+
+It could be said that England's Gary Wise has more personality than he knows what to do with. Outgoing and outspoken, his love of the game is matched only by his fierce competitiveness. That intensity combines with a talent that has given him strong finishes this season.
 
 His opponent, Noah Boeken, seems quite the opposite. Laid-back and sometimes goofy, his distracted attitude only serves to conceal his great skill at the game. Between him, reigning World Champion Tom van de Logt, and Kamiel "The Glacier" Cornelissen, it's no wonder the Dutch are the odds-on favorites to take the National Team Competition.
 
@@ -65,7 +67,9 @@ Boeken tapped three on his third turn for [Fact or Fiction](https://web.archive.
 
 Wise smashed in and made an [Arrogant Wurm](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrogant+Wurm). Flametongue took it down. Boeken had the mana left over for [Psychatog](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog). All Wise could manage was [Merfolk Looter](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a958.jpg)Boeken's next turn was brutal. The Flametongue walked in and traded with the Mongrel. [Deep Analysis](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) gassed him up twice, leaving just enough left over for [Fire](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fire) to wreck the Looter.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a958.jpg)
+
+Boeken's next turn was brutal. The Flametongue walked in and traded with the Mongrel. [Deep Analysis](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) gassed him up twice, leaving just enough left over for [Fire](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fire) to wreck the Looter.
 
 Wise's last gasp was a [Deep Analysis](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) targeting himself. Boeken's [Cunning Wish](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cunning+Wish) fetched [Divert](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Divert), and Wise conceded.
 
@@ -91,7 +95,9 @@ His stuck with his next six. Wise also frowned at his opening draw, five lands, 
 
 While Boeken dropped a pair of [Urborg Volcano](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urborg+Volcano)es, Wise was getting busy with [Basking Rootwalla](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla) and [Aquamoeba](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba). However, he didn't have a third land. He made a Mongrel and passed it back. Boeken, having found an island, was able to [Repulse](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse) at end of turn. He then dropped Flametongue to dispatch the Mongrel.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a959.jpg)Wise tried [Careful Study](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study), but still didn't find lands, putting Looter and [Wonder](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wonder) in the graveyard. Boeken brought out Familiar. [Circular Logic](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circular+Logic) stopped the [Aquamoeba](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a959.jpg)
+
+Wise tried [Careful Study](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study), but still didn't find lands, putting Looter and [Wonder](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wonder) in the graveyard. Boeken brought out Familiar. [Circular Logic](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circular+Logic) stopped the [Aquamoeba](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba).
 
 Then things got unfair. [Fact or Fiction](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fact+or+Fiction) turned over [Psychatog](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog), [Hibernation](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hibernation), [Terminate](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terminate), [Deep Analysis](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis), [Memory Lapse](https://web.archive.org/web/20020813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Lapse). Wise was taken aback.
 

@@ -485,7 +485,9 @@ Doughertyはなんとか《陰謀団式療法》によって《破滅的な行�
 
 ここで《悪魔の布告/Diabolic Edict》を警戒したKastleが2/3一体でのアタックを行ってDoughertyは残りライフ5。･･･Dougherty、絶体絶命。
 
-![](http://www.wizards.com/sideboard/images/pthou02/a405.jpg)しかし、ここでDoughertyは起死回生の《顔なしの解体者/Faceless Butcher》!　しかし、戻ってきた《新緑の魔力/Verdant Force》は《悪魔の布告/Diabolic Edict》によって生贄にささげられることに。
+![](http://www.wizards.com/sideboard/images/pthou02/a405.jpg)
+
+しかし、ここでDoughertyは起死回生の《顔なしの解体者/Faceless Butcher》!　しかし、戻ってきた《新緑の魔力/Verdant Force》は《悪魔の布告/Diabolic Edict》によって生贄にささげられることに。
 
 Darwinの《樹上の村》がアタック。Dougherty:2。
 

@@ -1061,7 +1061,9 @@ render_recovery:
 
 Welcome back to Building on a Budget! This week marks the halfway point through the 10 Decks in 10 Weeks project. In this week's article, I take the blue out of the Grim Outlook deck, and use the remaining cards as the starting point for a White/Black deck based on the Rescue mechanic from *Planar Chaos*! Before we get started, just a quick note.
 
-![](https://i.ormos.uk/ce/17/ce17ed7b2d1ea108ad0cbe796ed4fb7347dd80e06614d364ebdd1a73e145830a.jpg)I often end up hitting a pretty hefty word count in these articles each week. Because the meat and potatoes of Building on a Budget is teaching people how to build decks, I sometimes run out of room to talk about topics peripheral to the article at hand – such as deck ideas I thought about while testing that I didn't have time to build, or in-depth explanations about cards I chose not to use at all. If you read Building on a Budget each week and want a little insight into what goes on outside of the article itself, check out the forums of this week's article for an extra helping of my thoughts and writing.
+![](https://i.ormos.uk/ce/17/ce17ed7b2d1ea108ad0cbe796ed4fb7347dd80e06614d364ebdd1a73e145830a.jpg)
+
+I often end up hitting a pretty hefty word count in these articles each week. Because the meat and potatoes of Building on a Budget is teaching people how to build decks, I sometimes run out of room to talk about topics peripheral to the article at hand – such as deck ideas I thought about while testing that I didn't have time to build, or in-depth explanations about cards I chose not to use at all. If you read Building on a Budget each week and want a little insight into what goes on outside of the article itself, check out the forums of this week's article for an extra helping of my thoughts and writing.
 
 There are four rescue creatures in *Planar Chaos* – Dust Elemental, Stonecloaker, Stormfront Riders, and Whitemane Lion. These creatures all have a common ability: When they come into play, they return X number of creatures you control back to your hand. Why would you want to return your own creatures back to your hand?
 

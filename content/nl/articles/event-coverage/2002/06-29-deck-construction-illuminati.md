@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 3
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj02/933.jpg)Illuminati consists of Grand Prix aficionado and store owner Alex Shvartsman, former US National Champion Justin Gary, and PT Champion Zvi Mowshowitz.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj02/933.jpg)
+
+Illuminati consists of Grand Prix aficionado and store owner Alex Shvartsman, former US National Champion Justin Gary, and PT Champion Zvi Mowshowitz.
 
 J(ustin) G(ary): Oooh, two Chatters. (Opening cards). Come on, give me two drops. Woohoo! Two drops! (Sorts [Werebear](https://web.archive.org/web/20020629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear)s).  
  A(lex) S(hvartsman): Uh oh. Decklist problems. They registered two [Wild Mongrel](https://web.archive.org/web/20020629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel)s, not two [Werebear](https://web.archive.org/web/20020629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear)s.  

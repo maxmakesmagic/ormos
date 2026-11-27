@@ -40,7 +40,9 @@ render_recovery:
 ---
 <table><tbody><tr><td><img alt="" src="https://i.ormos.uk/fd/df/fddfee672c07d16fbb35b69d1c892b2453f3a711d8f9fb6f318517601453edca.gif"></td>&#10;			<td>&#10;			<h2>2000 Grand Prix Kyoto Coverage</h2>&#10;			</td>&#10;			<td> </td>&#10;		</tr></tbody></table>
 
-![](https://i.ormos.uk/5c/78/5c78b3edd0df4bb5b916e10fd067bd089f2d0c06a70ec87acb96be0a2427e79c.jpg)Congratulations to Tsuyoshi Fujita, Grand Prix Kyoto champion! Tsuyoshi walks away with a $2,400 prize, while runner up Yuki Murakami receives $1,700. The other Top 8 competitors each receive between $800 and $1200. After fourteen rounds of tough competition with some of the best players in the world, these players have earned their prizes.
+![](https://i.ormos.uk/5c/78/5c78b3edd0df4bb5b916e10fd067bd089f2d0c06a70ec87acb96be0a2427e79c.jpg)
+
+Congratulations to Tsuyoshi Fujita, Grand Prix Kyoto champion! Tsuyoshi walks away with a $2,400 prize, while runner up Yuki Murakami receives $1,700. The other Top 8 competitors each receive between $800 and $1200. After fourteen rounds of tough competition with some of the best players in the world, these players have earned their prizes.
 
 ## Top 8 Final Standing
 

@@ -249,7 +249,9 @@ I am looking forward to seeing PTQ results in the next few weeks to see how many
 
 Kenji Tsumura won this week's Invitational ballot, narrowly eking past Willy Edel in the [category of Limited Expert](https://web.archive.org/web/20070713000000/https://magic.wizards.com/en/node/580471)—quite the accomplishment for someone who felt his Limited game was not up to snuff when he won Player of the Year two years ago. 
 
-[![](https://i.ormos.uk/9c/b3/9cb39a305aca6137054cde8bf87bae99f90c60f9432f53be68c4abd637f4b67b.jpg)](https://web.archive.org/web/20070713000000/https://magic.wizards.com/en/node/580381)This week's ballot is a change from our regularly scheduled programming, which was supposed to be the Storyteller ballot. A funny thing happened on the way to the polling place and the Storyteller ballot became much, much cooler than was originally planned. It has been moved back on the schedule until after the regional ballots and it should be worth the wait. 
+[![](https://i.ormos.uk/9c/b3/9cb39a305aca6137054cde8bf87bae99f90c60f9432f53be68c4abd637f4b67b.jpg)](https://web.archive.org/web/20070713000000/https://magic.wizards.com/en/node/580381)
+
+This week's ballot is a change from our regularly scheduled programming, which was supposed to be the Storyteller ballot. A funny thing happened on the way to the polling place and the Storyteller ballot became much, much cooler than was originally planned. It has been moved back on the schedule until after the regional ballots and it should be worth the wait. 
 
 This week's ballot is for the [APAC region](https://web.archive.org/web/20070713000000/https://magic.wizards.com/en/node/580381) and features a handful of players who have appeared on the previous ballots but remain on the sidelines. You can choose which one of these formidable players will join the festivities in Essen by voting in the forums for your favorite player. 
 

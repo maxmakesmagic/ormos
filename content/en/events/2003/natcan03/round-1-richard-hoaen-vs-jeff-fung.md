@@ -91,7 +91,9 @@ render_recovery:
   - Haunting Echoes
   occurrences: 74
 ---
-![](https://i.ormos.uk/fd/97/fd97c3ae6cbce7098ad50a581ba7a657ce5a93967dd91c9b32c9d3ac47174465.jpg)Rich Hoaen can't wait to draft. While he claims to "hate" constructed Magic he loves Limited and who could blame him. He is fresh off of a Top 8 performance in Yokohama and barely lost any matches when drafting his trademark b/w cleric deck. As the feature match shuffling got started he groused at me about an inaccuracy in his Yokohama coverage. "You said I took Vile Deacon over Aven Redeemer!" 
+![](https://i.ormos.uk/fd/97/fd97c3ae6cbce7098ad50a581ba7a657ce5a93967dd91c9b32c9d3ac47174465.jpg)
+
+Rich Hoaen can't wait to draft. While he claims to "hate" constructed Magic he loves Limited and who could blame him. He is fresh off of a Top 8 performance in Yokohama and barely lost any matches when drafting his trademark b/w cleric deck. As the feature match shuffling got started he groused at me about an inaccuracy in his Yokohama coverage. "You said I took Vile Deacon over Aven Redeemer!" 
 
 Jeff Fung has a Pro Tour Top 8 under his belt as well. Granted it was 1998 but still. He asked Rich if he was included in Gary Wise's preview of the event. The preview was not up yet but Jeff doubted he was included, "I am kind of washed up..."
 
@@ -109,7 +111,9 @@ Rich – 1 Jeff – 0
 
 Jeff mulliganed a two-lander. He was staring at late plays of Visara and Mirari and couldn't keep it even with Duress and Skeletal Scrying staring at him seductively. Rich kept his hand and had his optimal turn two Compulsions. Jeff kicked things off with a cold Cabal Therapy on turn three naming Circular Logic. He found none and saw Blood, Spike and a couple of Concentrates. "Of course!" exclaimed Jeff. Rich drew another Force Spike and cycled one way looking for a second blue source to trick Jeff into running into the second Spike but he did not find one and sullenly played a Swamp.
 
-![](https://i.ormos.uk/c7/4e/c74e2baeeab6486f2e5d9981efedea6a82b831f67e39dd8509a566e1e01f487b.jpg)Jeff cast Diabolic Tutor and agonized over what card to choose. Finally he settled on a card that last saw play when he was drafting on a Sunday—Disrupting Scepter. While he was making his choice and shuffling up he let Rich go ahead with his next turn. Rich did not have a fourth land, "When you are done shuffling it is your turn."
+![](https://i.ormos.uk/c7/4e/c74e2baeeab6486f2e5d9981efedea6a82b831f67e39dd8509a566e1e01f487b.jpg)
+
+Jeff cast Diabolic Tutor and agonized over what card to choose. Finally he settled on a card that last saw play when he was drafting on a Sunday—Disrupting Scepter. While he was making his choice and shuffling up he let Rich go ahead with his next turn. Rich did not have a fourth land, "When you are done shuffling it is your turn."
 
 Jeff played a Cabal Coffers and used another Tutor to find a Cabal Therapy and cast it. Rich 'cycled' away a Concentrate but Jeff named the card anyway and was tickled to find two of them sitting in Rich's hand, "You ripped one! How nice." Rich played his fourth land and passed the turn back to Jeff who had his Scepter ready to hit the board.
 

@@ -79,7 +79,9 @@ render_recovery:
   - Scythe of the Wretched
   occurrences: 42
 ---
-![](https://www.wizards.com/sideboard/images/gplyo03/919.jpg)Both Amiel and Daniel are unbeaten today and the winner of the match will have a lot less problems on day 2, that's for sure. Daniel has amateur status, probably for the last time in his life after this weekend and Amiel is what they call a money finisher and always makes his top-16 or 32 here and there. Quite a lot of spectators are joining me to watch this game and Amiel gets to demonstrate that he actually masters some dutch sentences: "Jouw kont is niet te breed.", is a well meant compliment for this writer and we are all looking forward to the end of this round for more than 1 reason. Will we end the 9th round before midnight ?
+![](https://www.wizards.com/sideboard/images/gplyo03/919.jpg)
+
+Both Amiel and Daniel are unbeaten today and the winner of the match will have a lot less problems on day 2, that's for sure. Daniel has amateur status, probably for the last time in his life after this weekend and Amiel is what they call a money finisher and always makes his top-16 or 32 here and there. Quite a lot of spectators are joining me to watch this game and Amiel gets to demonstrate that he actually masters some dutch sentences: "Jouw kont is niet te breed.", is a well meant compliment for this writer and we are all looking forward to the end of this round for more than 1 reason. Will we end the 9th round before midnight ?
 
 ### Game 1
 
@@ -89,7 +91,9 @@ Sphere and Bonesplitter were the first plays for Amiel and Daniel.
 
 Although Amiel began the game, Daniel got to resolve the first real creature of the match; Neurok Familiar. 
 
-![](https://www.wizards.com/sideboard/images/gplyo03/921.jpg)Amiel could only build a Silver Myr.
+![](https://www.wizards.com/sideboard/images/gplyo03/921.jpg)
+
+Amiel could only build a Silver Myr.
 
 Daniel copied that trick and made a Silver Myr on his own, attached the Bonesplitter to the Familiar and started beating Amiel with it.
 
@@ -129,7 +133,9 @@ Daniel 1 - Amiel 1
 
 ### Game 3
 
-![](https://www.wizards.com/sideboard/images/gplyo03/920.jpg)Daniel got to play first and added a Scimitar to the empty board. Spikeshot Goblin in combination with the Scimitar provided Amiel with a threath on turn 3. An early Silver Myr died, but Amiel replaced it with an Iron Myr. While Daniel added another Spikeshot Goblin, Amiel could only make a Neurok Spy. 
+![](https://www.wizards.com/sideboard/images/gplyo03/920.jpg)
+
+Daniel got to play first and added a Scimitar to the empty board. Spikeshot Goblin in combination with the Scimitar provided Amiel with a threath on turn 3. An early Silver Myr died, but Amiel replaced it with an Iron Myr. While Daniel added another Spikeshot Goblin, Amiel could only make a Neurok Spy. 
 
 Not too much later, the board on Amiels side was empty and Daniel had 2 active Goblins and 2 pieces of equipment: Leonin Scimitar and Bonesplitter. Alpha Myr got to help the Goblins, but the Goblins seemed to be doing fine for themselves.
 

@@ -40,7 +40,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/3e/8a/3e8ad505e6b9155ade18274b717d0ca802087e01aa6cd68a2a5305d3bae42eb2.png)Available only on **Magic Online**, *Masters Edition IV* features 269 cards with randomly inserted premium cards. Each booster pack contains 15 randomly sorted cards (1 rare, 3 uncommon, 10 common, and 1 of the following lands: Urza's Mine, Urza's Power Plant, or Urza's Tower).
+![](https://i.ormos.uk/3e/8a/3e8ad505e6b9155ade18274b717d0ca802087e01aa6cd68a2a5305d3bae42eb2.png)
+
+Available only on **Magic Online**, *Masters Edition IV* features 269 cards with randomly inserted premium cards. Each booster pack contains 15 randomly sorted cards (1 rare, 3 uncommon, 10 common, and 1 of the following lands: Urza's Mine, Urza's Power Plant, or Urza's Tower).
 
 **Set Name:** *Masters Edition IV*  
 **Number of Cards:** 269

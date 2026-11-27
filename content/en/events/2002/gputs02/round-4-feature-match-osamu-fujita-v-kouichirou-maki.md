@@ -76,7 +76,9 @@ render_recovery:
   - Skirk Commando
   occurrences: 30
 ---
-![](https://www.wizards.com/sideboard/images/gputs02/985.jpg)Sideboard Japan mainstay Kouichirou Maki hopes to be taking the whole weekend off, but with his current Sealed Deck, he fears he'll be back in the reporter's chair come Sunday. He won't have it easy this round, facing Osamu Fujita, ex of Anchans. Fujita always has the same things about him: Jean jacket, a grimace, and a winning record.
+![](https://www.wizards.com/sideboard/images/gputs02/985.jpg)
+
+Sideboard Japan mainstay Kouichirou Maki hopes to be taking the whole weekend off, but with his current Sealed Deck, he fears he'll be back in the reporter's chair come Sunday. He won't have it easy this round, facing Osamu Fujita, ex of Anchans. Fujita always has the same things about him: Jean jacket, a grimace, and a winning record.
 
 Maki was forced to send back a one-lander, and Fujita's face twisted into a sinister smile. He had a pretty good start, considering. He led with Sparksmith and a morphed creature, shutting down Fujita's Goblin Taskmaster. He suicided his Taskmaster to make the Sparksmith a little more reasonable, and started making mystery men of his own.
 
@@ -86,7 +88,9 @@ Unfortunately for Fujita, he found out that the new morph creature was, in fact,
 
 Maki 1 - Fujita 0
 
-![](https://www.wizards.com/sideboard/images/gputs02/986.jpg)Maki showed no mercy for Fujita's mulligan in the second game, opening with back-to-back Elvish Warriors. Fujita had Nantuko Husk and Frightshroud Courier, but decided to eat damage for a while. Sparksmith made things that much worse. Fujita decided to hold his mana open and pass it back.
+![](https://www.wizards.com/sideboard/images/gputs02/986.jpg)
+
+Maki showed no mercy for Fujita's mulligan in the second game, opening with back-to-back Elvish Warriors. Fujita had Nantuko Husk and Frightshroud Courier, but decided to eat damage for a while. Sparksmith made things that much worse. Fujita decided to hold his mana open and pass it back.
 
 Maki swung with his Warriors. He ended up trading one for the Courier, via the Husk. Spitting Gourna joined his team. Fujita answered with Gluttonous Zombie. Maki swung for two, then dropped Nosy Goblin and offed the Husk. Fujita was in a bad way. Another Gluttonous Zombie helped a bit, tag-teaming the Gourna on the next attack, but Maki continued to Threaten with Symbiotic Beast.
 

@@ -110,7 +110,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](https://i.ormos.uk/f6/78/f6788c5cbdc874d12beae9476ae3c9086bba4a72753107f4144448f7f831f85a.jpg)De Rosa started with Llanowar Elves, and Mowshowitz had Duress. He saw a hand of Firebolt, Volcanic Hammer, Elephant Guide, Basking Rootwalla and a land- Elephant Guide went to the graveyard. The Elf attacked for one, and De Rosa played the Rootwalla followed by Grim Lavamancer. Chainer's Edict caused De Rosa to lose his Lavamancer, and the resulting attack dealt four damage to Mowshowitz as De Rosa missed his third land drop.
+![](https://i.ormos.uk/f6/78/f6788c5cbdc874d12beae9476ae3c9086bba4a72753107f4144448f7f831f85a.jpg)
+
+De Rosa started with Llanowar Elves, and Mowshowitz had Duress. He saw a hand of Firebolt, Volcanic Hammer, Elephant Guide, Basking Rootwalla and a land- Elephant Guide went to the graveyard. The Elf attacked for one, and De Rosa played the Rootwalla followed by Grim Lavamancer. Chainer's Edict caused De Rosa to lose his Lavamancer, and the resulting attack dealt four damage to Mowshowitz as De Rosa missed his third land drop.
 
 He continued to simply attack with his Rootwalla and Elf, until Mowshowitz cast Mutilate to kill both creatures. De Rosa came back by summoning another Lavamancer, and sent Firebolt to the dome. Duress forced Volcanic Hammer to the graveyard, and De Rosa was holding Phantom Centaur and Violent Eruption. Innocent Blood dealt with the Lavamancer, and Visara came out on turn six.
 
@@ -134,7 +136,9 @@ Mowshowitz- 1 De Rosa- 1
 
 ### Game 3
 
-![](https://i.ormos.uk/f6/01/f601ce770bd2ba0a15dbe1740166c5bf6130df9944fe399c9e76dabebd6c4f35.jpg)A second turn Compost spelled bad news for Mowshowitz. Call of the Herd made an elephant, which died to Smother on end step as De Rosa drew a card. Wild Mongrel was followed by a Volcanic Hammer to the dome, and Mowshowitz cycled Undead Gladiator, letting De Rosa draw another card. Chainer's Edict would have killed the Mongrel, but De Rosa discarded a Rootwalla into play to be the sacrificial lamb.
+![](https://i.ormos.uk/f6/01/f601ce770bd2ba0a15dbe1740166c5bf6130df9944fe399c9e76dabebd6c4f35.jpg)
+
+A second turn Compost spelled bad news for Mowshowitz. Call of the Herd made an elephant, which died to Smother on end step as De Rosa drew a card. Wild Mongrel was followed by a Volcanic Hammer to the dome, and Mowshowitz cycled Undead Gladiator, letting De Rosa draw another card. Chainer's Edict would have killed the Mongrel, but De Rosa discarded a Rootwalla into play to be the sacrificial lamb.
 
 De Rosa kept getting ahead with every 1-for-1 trade, and flashed back the Call. Mowshowitz cast Diabolic Tutor, and De Rosa attacked with the Mongrel and elephant token. Two madness Violent Eruptions pumped the Mongrel twice and dealt an extra ten damage to Mowshowitz, giving De Rosa the match.
 

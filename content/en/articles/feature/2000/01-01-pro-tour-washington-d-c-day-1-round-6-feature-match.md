@@ -61,4 +61,6 @@ archive_source:
   sha256: 85ddac9b3c4e866ca00afdcd745d73e8c3f570b016453fc5030150ee47a2e949
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTDC99/images/R6FeaturePic.jpg)Game Empire defeated Operation Mise to go 6-0 on day one. The Top 32 teams advance to tomorrow's Rochester Drafts.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTDC99/images/R6FeaturePic.jpg)
+
+Game Empire defeated Operation Mise to go 6-0 on day one. The Top 32 teams advance to tomorrow's Rochester Drafts.

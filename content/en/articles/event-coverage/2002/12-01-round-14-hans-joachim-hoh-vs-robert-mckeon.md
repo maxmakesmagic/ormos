@@ -44,7 +44,9 @@ archive_source:
   sha256: c5a0234713a5a90aa4c598e02a1e5bca97e43700734d4f027d62a22eca647c8a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a898.jpg)Hans-Joachim Höh is a German player with a previous best of a 32nd finish at GP Antwerp. He's also been on the tour a couple of times without much success. Rob McKeon is an experienced Irish player who's played on the tour a lot but without finding much success. With 31 pts each both are just two wins away from the top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a898.jpg)
+
+Hans-Joachim Höh is a German player with a previous best of a 32nd finish at GP Antwerp. He's also been on the tour a couple of times without much success. Rob McKeon is an experienced Irish player who's played on the tour a lot but without finding much success. With 31 pts each both are just two wins away from the top 8.
 
 Höh is running Rebels while McKeon is playing the [Aluren](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aluren) combo deck.
 
@@ -56,7 +58,9 @@ McKeon cast [Living Wish](https://web.archive.org/web/20021201000000/https://gat
 
 "Maybe I should have looked at the new set" – McKeon.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a900.jpg)A bit fazed McKeon cast Cloud of Fairies to try and soak up the extra mana but tapped too many and mana-burned anyway.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a900.jpg)
+
+A bit fazed McKeon cast Cloud of Fairies to try and soak up the extra mana but tapped too many and mana-burned anyway.
 
 Höh forced him into a situation where he needed to go off or die. McKeon [Intuition](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Intuition)ed for [Aluren](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aluren) but he needed to draw a forest because he was only down to 1 life.
 
@@ -68,7 +72,9 @@ McKeon went first and had to mulligan. He managed a quick turn 1 [Birds of Parad
 
 Höh opened with a [Ramosian Sergeant](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ramosian+Sergeant) and then a [Seal of Cleansing](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Cleansing) to make things awkward for the Irishman. A [Whipcorder](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whipcorder) was added to the assault.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a899.jpg)McKeon [Intuition](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Intuition)ed end of turn, fetching a [Cavern Harpy](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cavern+Harpy). He then complicated things for the German by casting a [Pernicious Deed](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pernicious+Deed).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a899.jpg)
+
+McKeon [Intuition](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Intuition)ed end of turn, fetching a [Cavern Harpy](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cavern+Harpy). He then complicated things for the German by casting a [Pernicious Deed](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pernicious+Deed).
 
 Höh [Brainstorm](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm)ed in his turn and shuffled the unwanted cards back into the deck with a [Flooded Strand](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flooded+Strand). He didn't find anything useful, tapping out to make [Divine Sacrament](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Divine+Sacrament).
 

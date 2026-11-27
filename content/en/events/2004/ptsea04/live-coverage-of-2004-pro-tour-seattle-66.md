@@ -703,7 +703,9 @@ render_recovery:
 ---
 * * *
 
-![Team Geddes and friends at GP Washington, DC this year.](https://i.ormos.uk/25/7a/257aac750bda03f32bd1c96c445f11440f11b620f6c9997935bf0f1e0f0cc47f.jpg)Team Geddes is comprised of rising superstar Ben Stark (two top 8 appearances so far this year), Canadian pro Rich Hoaen, and the lovable Antonino De Rosa. They played together on day 2 of Grand Prix: DC, but finished out of the money. Today they started out 1-1 with their first sealed pool and were looking to improve on that with their next set of decks. BenS, as he is commonly referred to (pronounced Ben Ess), is considered the strongest player on the team and the nominal leader, although he hasn't played with any *Fifth Dawn* cards, so his knowledge of the format is a little lacking.
+![Team Geddes and friends at GP Washington, DC this year.](https://i.ormos.uk/25/7a/257aac750bda03f32bd1c96c445f11440f11b620f6c9997935bf0f1e0f0cc47f.jpg)
+
+Team Geddes is comprised of rising superstar Ben Stark (two top 8 appearances so far this year), Canadian pro Rich Hoaen, and the lovable Antonino De Rosa. They played together on day 2 of Grand Prix: DC, but finished out of the money. Today they started out 1-1 with their first sealed pool and were looking to improve on that with their next set of decks. BenS, as he is commonly referred to (pronounced Ben Ess), is considered the strongest player on the team and the nominal leader, although he hasn't played with any *Fifth Dawn* cards, so his knowledge of the format is a little lacking.
 
 As I sat down at the table, the players were busy shuffling around colors to try and figure out "which decks are less stainsy." The cards were quickly separated into piles of green/x with sunburst, white plus equipment, and everything else. At first, Stark was pairing the blue and the black cards together, but De Rosa (also known as Ant) exclaimed, "Ben, that's *awful.* Put the red cards in there." 
 

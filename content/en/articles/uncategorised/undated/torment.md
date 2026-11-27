@@ -63,7 +63,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/bc/fd/bcfd29492a37affc63b096a12ea2433f413ddb699dc049befae9060f4f56ecaf.png)This 143-card set includes two new game mechanics (Madness and Nightmares) as well as additional cards for the Flashback and Threshold mechanics of *Odyssey*.
+![](https://i.ormos.uk/bc/fd/bcfd29492a37affc63b096a12ea2433f413ddb699dc049befae9060f4f56ecaf.png)
+
+This 143-card set includes two new game mechanics (Madness and Nightmares) as well as additional cards for the Flashback and Threshold mechanics of *Odyssey*.
 
 **Set Name:** *Torment*  
 **Block:** Set 2 of 3 of the *Odyssey* Block  

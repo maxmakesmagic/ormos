@@ -66,7 +66,9 @@ CMU is a great and storied team, from the early years of Buehler and Lauer, to t
 
 These last six months have convinced me more than ever of the importance of having a strong team around you. Yes, ***Magic** Online* is a powerful tool, one that allows you to practice with some of the game’s best (or at least, learn hard lessons from them), but if you’re like me and need the big bucks as incentive to really bear down and focus, the program will turn you lazy. It does everything for you, reminding you of upkeeps, cards in the graveyard and so on and frankly, it’s the equivalent of playing **Magic** with a maid service: When you play tournament **Magic**, you don’t want to have learned to rely on anyone else in the mechanical capacities of the game, and if you aren’t up to doing it yourself, you might as well go home.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/911.jpg)For the last half year, more or less, I’ve been working with a core team whose members, Budde, Baberowski, Blume, Mello and Larkin, I consider to be the finest group of players in the world. Gentlemen one and all, they’re also good friends, each of whom I’d love to have as a teammate living in my town because of the good times and good minds they bring to every gaming experience. As much as I love them though, there’s little they can do to help my individual game. They each live an ocean away and while I appreciate the sometimes dead weight I’ve asked them to carry from time to time, it’s a burden I’m not too happy with. In other words, if I want to keep, or start, playing this game at a professional level, it’s time to move on to livelier pastures. That, one very good friend, good players, cheap rent, O fries and relative peace and quiet are the reasons I’ve decided to move to the Pitt. 
+![](http://www.wizards.com/sideboard/images/ptbos02/911.jpg)
+
+For the last half year, more or less, I’ve been working with a core team whose members, Budde, Baberowski, Blume, Mello and Larkin, I consider to be the finest group of players in the world. Gentlemen one and all, they’re also good friends, each of whom I’d love to have as a teammate living in my town because of the good times and good minds they bring to every gaming experience. As much as I love them though, there’s little they can do to help my individual game. They each live an ocean away and while I appreciate the sometimes dead weight I’ve asked them to carry from time to time, it’s a burden I’m not too happy with. In other words, if I want to keep, or start, playing this game at a professional level, it’s time to move on to livelier pastures. That, one very good friend, good players, cheap rent, O fries and relative peace and quiet are the reasons I’ve decided to move to the Pitt. 
 
 With these team-oriented ponderings so constantly at the forefront of my thoughts of late, this seems a suitable time to look at how the field for Pro Tour-Boston seems to be shaping up. Teams for the PT are more than just a convenient one-tourney hook up. Instead, they’re a look at the political landscape of the Pro Tour, with each team worth a thousand words of who’s with who and why. The question though, is why do we care about such things now?
 
@@ -74,7 +76,9 @@ Simple: this is the time where those players without teams are still scurrying a
 
 **Kai Budde, Dirk Baberowski and Marco Blume** – No big surprises here. Sure the streak is over, but that doesn’t mean these guys are anything short of the best team of all time. Regardless of what other team ups arise, they’re the favorites.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/920.jpg)**Osyp Lebedowicz, Antonino De Rosa, Morgan Douglass** – Osyp and Morgan were to team with Nick Eisel until the suspension ended that hope. They quickly picked up Antonino, who not only fills those shoes but overflows them.
+![](http://www.wizards.com/sideboard/images/gpcle02/920.jpg)
+
+**Osyp Lebedowicz, Antonino De Rosa, Morgan Douglass** – Osyp and Morgan were to team with Nick Eisel until the suspension ended that hope. They quickly picked up Antonino, who not only fills those shoes but overflows them.
 
 **Justin Gary, Zvi Mowshowitz, Alex Shvartsman** – Illuminati have been one of the stronger teams in the world over the last two years and their grinding into the Masters in Venice proved that they still have what it takes.
 
@@ -94,7 +98,9 @@ Simple: this is the time where those players without teams are still scurrying a
 
 **Jelger Wiegersma, Frank Karsten, Victor van den Broek** – The second best team on the planet? Karsten has been called “the European Turian” and the reputation is deserved. These guys have been together for a long time and are presently third in the rankings. That, by the way, is the lowest they’ve been for some time.
 
-![](http://www.wizards.com/sideboard/images/usnat02/925.jpg)**Gary Wise, Mike Turian, Eugene Harvey** – Hey, Mike and I won a PT in the format once. Might as well try it again. With the move to Pittsburgh, I’ll be able to test regularly with the boys. I like our chances. This team up, by the way, was decided upon long before my match with Neil Reeves in Chicago.
+![](http://www.wizards.com/sideboard/images/usnat02/925.jpg)
+
+**Gary Wise, Mike Turian, Eugene Harvey** – Hey, Mike and I won a PT in the format once. Might as well try it again. With the move to Pittsburgh, I’ll be able to test regularly with the boys. I like our chances. This team up, by the way, was decided upon long before my match with Neil Reeves in Chicago.
 
 **Dave Rood, Steve Wolfman, Elijah Pollock** – There was a lot of talk of switching up the team here, but the success in Venice has put those thoughts to rest. Wolfman was looking at the possibility of quitting after the Masters with his University career soon to come to an end, but with that nice five figure check, he’ll be receiving from WotC, he’s reconsidered.
 
@@ -106,7 +112,9 @@ Simple: this is the time where those players without teams are still scurrying a
 
 Gabriel Nassif, Amiel Tenenbaum, Farid Meraghni – The French whiz kids, these three aren’t 100%, especially with Farid having fallen off the train. If Canu, Haim and Levy are together, that wouldn’t leave too many options for that third chair.
 
-![](http://www.wizards.com/sideboard/images/mi02/986.jpg)**Diego Ostrovich, Carlos Romao** – Latin America’s two favorite sons are very likely teaming up with one another, but with no clue as to who their third is. Fortunately, Diego’s having a good season since their mutually strong finish at Worlds a year ago, so they should manage the points requirement regardless of who fills seat C.
+![](http://www.wizards.com/sideboard/images/mi02/986.jpg)
+
+**Diego Ostrovich, Carlos Romao** – Latin America’s two favorite sons are very likely teaming up with one another, but with no clue as to who their third is. Fortunately, Diego’s having a good season since their mutually strong finish at Worlds a year ago, so they should manage the points requirement regardless of who fills seat C.
 
 **Bram Snepvangers, Menno Dolstra and Jos Schreurs** – Despite having a great year, Bram is apparently sticking with his long-lived team. He, Menno and Jos have been together for three years now.
 
@@ -128,11 +136,15 @@ Ben Rubin, Brian Kibler, Ken Ho – Ho was targeted as a potential third by Jeff
 
 ### Free Agents
 
-![](http://www.wizards.com/sideboard/images/PTNOR01/712.jpg)**Tomi Walamies** – The best of this crop, Walamies was headed towards retirement before finishing second at Venice, but the positive aspects of that experience have him on the comeback trail. His options at the moment seem limited at best and it’s almost a certainty he’ll be the best player on his team.
+![](http://www.wizards.com/sideboard/images/PTNOR01/712.jpg)
+
+**Tomi Walamies** – The best of this crop, Walamies was headed towards retirement before finishing second at Venice, but the positive aspects of that experience have him on the comeback trail. His options at the moment seem limited at best and it’s almost a certainty he’ll be the best player on his team.
 
 **Brian Davis** – Having only recently fallen off of the Masters, BDavis now actually needs three points to qualify for Worlds, but he’s still undoubtedly one of the better players out there right now. With his teammates from a year ago (The OMS brothers) retired, he needs a new squad.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/856.jpg)**Jeff Cunningham** – While the plan all along was to team up with Shears, the two have been denied by so many potential thirds that the possibility of a split is eminent. Cunningham wasn’t too pleased with teammate Brian Hacker falling asleep at the table a year ago, so it will be interesting to see if he and Gab Tsang can come to some kind of an agreement.
+![](http://www.wizards.com/sideboard/images/gpphi02/856.jpg)
+
+**Jeff Cunningham** – While the plan all along was to team up with Shears, the two have been denied by so many potential thirds that the possibility of a split is eminent. Cunningham wasn’t too pleased with teammate Brian Hacker falling asleep at the table a year ago, so it will be interesting to see if he and Gab Tsang can come to some kind of an agreement.
 
 **Jordan Berkowitz** – Fresh off the Semifinal finish at Venice, Jordan suddenly has a whole lot of love and points to spread around, the question being who wants to take advantage. His dream team up would be with buddy Billy Jensen, but the likelihood of the big man’s Huey, Brock and Linde falling through is about equivalent to Saddam’s chances of winning the war.
 
@@ -140,7 +152,9 @@ Ben Rubin, Brian Kibler, Ken Ho – Ho was targeted as a potential third by Jeff
 
 **Markus Joebstl** – A potential third for the Brucker/Lippert team up, Joebstl has quietly ascended to the title of Austria’s best player in the wake of Ben Klauser’s disappearance from the Pro Tour.
 
-![](http://www.wizards.com/sideboard/WORLDS2000/images/126.jpg)**Gab Tsang** – The original Juggernaut kind of missed the boat on team politicking, leaving himself without options among established pros when really, he should have many after holding onto his teammate with Hacker for one year too many. The guess here is that he teams with Toronto’s newest gravy trainer Richard Hoaen, possibly picking up Cunningham as their third.
+![](http://www.wizards.com/sideboard/WORLDS2000/images/126.jpg)
+
+**Gab Tsang** – The original Juggernaut kind of missed the boat on team politicking, leaving himself without options among established pros when really, he should have many after holding onto his teammate with Hacker for one year too many. The guess here is that he teams with Toronto’s newest gravy trainer Richard Hoaen, possibly picking up Cunningham as their third.
 
 Well, that’s it for now. Hopefully my heavily packed ’89 Nissan Maxima and I will arrive in Pittsburgh within 24 hours of this conclusion and if not? Well, hey, call it another adventure. May all your road trips be long ones.
 

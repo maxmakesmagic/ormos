@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Jamie Lynn* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/895.jpg)These two have both been qualified for a number of Pro Tours. John Ou (pronounced Oh) was playing an Oath of Druids deck against Stu Gillard's Counter Sliver deck. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/895.jpg)
+
+These two have both been qualified for a number of Pro Tours. John Ou (pronounced Oh) was playing an Oath of Druids deck against Stu Gillard's Counter Sliver deck. 
 
 **Game 1** 
 

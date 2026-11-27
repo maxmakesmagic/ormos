@@ -277,11 +277,15 @@ render_recovery:
   - Roar of the Wurm
   occurrences: 1
 ---
-![](https://i.ormos.uk/df/e9/dfe99d0aa2adf575132f56f35fc145e54c14e1643b4cd4e131770fabc8981341.jpg)Puff Daddy would have you believe that it's all about the Benjamins, but in this feature match it was all about the Mikes. Living Legend 'BP' Michael Flores has redefined the lexicon of **Magic** and caused unmeasurable suffering to English teachers worldwide. While he hasn't made a very high finish in recent high level events, he has acquired a wedding band and wanted to say hello to Katherine. On the other side of the Cosmic Mandala of Fate sat Mike Turian, winner of GP Montreal, a Pro Tour, and current Pennsylvania State Champion. Both men have aligned themselves with Liquid Tempo, the blue-green-red deck that sports Squirrel Nest, Opposition, Wild Mongrel, Flametongue Kavu, and a host of other good cards.
+![](https://i.ormos.uk/df/e9/dfe99d0aa2adf575132f56f35fc145e54c14e1643b4cd4e131770fabc8981341.jpg)
+
+Puff Daddy would have you believe that it's all about the Benjamins, but in this feature match it was all about the Mikes. Living Legend 'BP' Michael Flores has redefined the lexicon of **Magic** and caused unmeasurable suffering to English teachers worldwide. While he hasn't made a very high finish in recent high level events, he has acquired a wedding band and wanted to say hello to Katherine. On the other side of the Cosmic Mandala of Fate sat Mike Turian, winner of GP Montreal, a Pro Tour, and current Pennsylvania State Champion. Both men have aligned themselves with Liquid Tempo, the blue-green-red deck that sports Squirrel Nest, Opposition, Wild Mongrel, Flametongue Kavu, and a host of other good cards.
 
 Flores won the roll and chose to play. Turian played Birds of Paradise on his first turn, then a Call of the Herd. The noisy Elephant started its offensive, and Turian decided to reward it by using flashback to give it a mate. But a Flores Flametongue Kavu slew the great beast's companion. In revenge, Turian used a Flametongue of his own to destroy the first. 
 
-![](http://www.wizards.com/sideboard/images/gpmil02/902.jpg)Despondent, Flores could do nothing but draw land. He managed to play an Arrogant Wurm, but had to pay full retail price for it. Turian threw down a Merfolk Looter and a Wild Mongrel. Flores dropped down Opposition and a Wild Mongrel. But Turian got his mojo and Squirrel Nest working, and managed to overrun Turian's defenses after amassing a force of 3 Merfolk Looter, 2 Wild Mongrels, and scads of squirrels. Turian wasn't really sure how many squirrels he had.
+![](http://www.wizards.com/sideboard/images/gpmil02/902.jpg)
+
+Despondent, Flores could do nothing but draw land. He managed to play an Arrogant Wurm, but had to pay full retail price for it. Turian threw down a Merfolk Looter and a Wild Mongrel. Flores dropped down Opposition and a Wild Mongrel. But Turian got his mojo and Squirrel Nest working, and managed to overrun Turian's defenses after amassing a force of 3 Merfolk Looter, 2 Wild Mongrels, and scads of squirrels. Turian wasn't really sure how many squirrels he had.
 
 Flores: "Just because you're winning doesn't mean you don't have to pay attention to the game!"
 
@@ -289,7 +293,9 @@ Turian 1-0 over Flores.
 
 Flores elected to play first, drew his seven cards, and mulliganed. After taking the forbidden peek at the top of the deck, he uttered many words that would never be published in a family publication like the *Sideboard*. He was unhappy with his second hand, which had Fire/Ice, Squirrel Nest, and a lot of land. 
 
-![](http://www.wizards.com/sideboard/images/gpmil02/903.jpg)Flores used fire to burn Turian's first turn Birds of Paradise, but Turian let it fall off like water off a duck's back and played a Llanowar Elves and more Birds. Flores built a Squirrel Nest, but Turian outdid Flores by playing Deep Analysis and flashing it back. Flores did manage an Opposition, but Turian just had too much mana and, through a Squirrel Nest, too many creatures to handle the situation. 
+![](http://www.wizards.com/sideboard/images/gpmil02/903.jpg)
+
+Flores used fire to burn Turian's first turn Birds of Paradise, but Turian let it fall off like water off a duck's back and played a Llanowar Elves and more Birds. Flores built a Squirrel Nest, but Turian outdid Flores by playing Deep Analysis and flashing it back. Flores did manage an Opposition, but Turian just had too much mana and, through a Squirrel Nest, too many creatures to handle the situation. 
 
 The next ten turns saw an impressive army of chittering squirrels, but in the end Flores just couldn't stop drawing land. It seemed as if the Forests and Islands loved Flores and pushed all the good cards out of the way to jump into his hand. A Turian Opposition broke the game in half. 
 

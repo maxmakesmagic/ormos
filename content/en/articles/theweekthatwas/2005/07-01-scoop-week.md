@@ -468,13 +468,17 @@ And the format is … Legacy.
 
 Grand Prix-Philadelphia (November 12-13, 2005) to be held at the Valley Forge Convention Center in King of Prussia, Pennsylvania and Grand Prix-Lille (December 17-18, 2005) to be held at the Lille Grand Palais in Lille, France will be Constructed tournaments using the Legacy format. This format (also known as Type 1.5) includes cards from every set legal in Vintage (Type 1) except that there is no restricted list – just a banned list which can be found [here](https://web.archive.org/web/20070302210054/http://www.wizards.com/default.asp?x=judge/resources/sfrtype15). 
 
-![](https://i.ormos.uk/68/6c/686cc64a20490834b1b3e7268c9b4a6c2e7e4bebc764cde23e31e7f4515f3b10.jpg)Before the two Grand Prix events, the format will also recieve additonal support in the form of the Legacy Championships at Gen Con this August. The winner of the Championship will nab a full play set of dual lands – four of each – along with a trophy. The decklists from the event will show up on this website and should provide plenty of grist for the Grand Prix mill. 
+![](https://i.ormos.uk/68/6c/686cc64a20490834b1b3e7268c9b4a6c2e7e4bebc764cde23e31e7f4515f3b10.jpg)
+
+Before the two Grand Prix events, the format will also recieve additonal support in the form of the Legacy Championships at Gen Con this August. The winner of the Championship will nab a full play set of dual lands – four of each – along with a trophy. The decklists from the event will show up on this website and should provide plenty of grist for the Grand Prix mill. 
 
 “We have had many contacts from players asking what we were going to do with the Legacy format,” explained DCI Program Manager Scott Larabee. “With the Extended rotation happening in October, we felt that it is the perfect time to promote this format. The Legacy format will provide a place for players to play with their older cards after they rotate out of Extended. At the same time, Legacy-format Grand Prix will provide a new challenge for the advanced players that attend Grand Prix.”
 
 It is important to point out that these are the only two events for that season to utilize this format. The PTQs themselves will not be Legacy format.
 
-![](https://i.ormos.uk/b5/0c/b50c37547a5edc2079000e7b2cade1493622882b07a21648a65e267b4149dd63.jpg)“These will feed the first Pro Tour in 2006,” Larabee continued. “The date and location have not been fully confirmed yet. The associated PTQs will be Extended. Much like we have done with Standard Grand Prix during Block Constructed PTQ rounds in past years, this will be a means of showcasing a different format than players might normally play during a Qualifier round. It also gives us a chance to see what this new, exciting format can do.”
+![](https://i.ormos.uk/b5/0c/b50c37547a5edc2079000e7b2cade1493622882b07a21648a65e267b4149dd63.jpg)
+
+“These will feed the first Pro Tour in 2006,” Larabee continued. “The date and location have not been fully confirmed yet. The associated PTQs will be Extended. Much like we have done with Standard Grand Prix during Block Constructed PTQ rounds in past years, this will be a means of showcasing a different format than players might normally play during a Qualifier round. It also gives us a chance to see what this new, exciting format can do.”
 
 One of the problems with making a game that is as beloved as **Magic** is that Wizards can't make any kind of announcement without some hue and cry from the masses, and this one should be no different. The expense of some of the older cards – notably the dual lands and Force of Will – will give some newer players pause. I asked Randy Buehler how much consideration was given to the format's costs to entry and what involvement R&D has had in the decision to move forward with these high profile events. He explained that they would be paying careful attention to the attendance at both tournaments to determine how to proceed in the future.
 

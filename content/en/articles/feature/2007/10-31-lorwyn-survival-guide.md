@@ -89,7 +89,9 @@ render_recovery: []
 
 **Travel Routes**
 
-[![Dolmen_Gate](https://i.ormos.uk/9a/f7/9af78711f9fe2a5173b4429e264bd1f9fb7a255041dca76a282bc1d307808922.jpg)](https://web.archive.org/web/20071031000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Dolmen%2BGate)Planeswalking to Lorwyn is thought to be difficult, but that reputation need not dissuade the dedicated traveler. Lorwyn is remote from many large, established planar hubs and is poorly documented in the parageographical literature. Furthermore, Lorwyn does not stand out in the void; it resides in a region of dream and æther that obscures it from most travelers. However, some planeswalkers have had success traveling there by first preparing spells that attune the mind to patterns of nature. With this groundwork done, many planeswalkers find their spark naturally drawn through the Blind Eternities to the edges of the plane.
+[![Dolmen_Gate](https://i.ormos.uk/9a/f7/9af78711f9fe2a5173b4429e264bd1f9fb7a255041dca76a282bc1d307808922.jpg)](https://web.archive.org/web/20071031000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Dolmen%2BGate)
+
+Planeswalking to Lorwyn is thought to be difficult, but that reputation need not dissuade the dedicated traveler. Lorwyn is remote from many large, established planar hubs and is poorly documented in the parageographical literature. Furthermore, Lorwyn does not stand out in the void; it resides in a region of dream and æther that obscures it from most travelers. However, some planeswalkers have had success traveling there by first preparing spells that attune the mind to patterns of nature. With this groundwork done, many planeswalkers find their spark naturally drawn through the Blind Eternities to the edges of the plane.
 
 **Lack of Humanity**
 
@@ -149,7 +151,9 @@ The treefolk of Lorwyn have the longest lives and longest memories of any of its
 
 Treefolk character and roles are largely determined by their plant species. Ash, birch, oak, rowan, and black poplar all have different roles in treefolk society. Treefolk risen from poisonous yew trees have all but vanished on Lorwyn, but at this writing, there is still one yew treefolk remaining on the plane: an immensely ancient and knowledgeable treefolk named Colfenor.
 
-[![Battlewand_Oak](https://i.ormos.uk/69/a9/69a9e5dd6ea1fa90770e9604a163e2d6620f24c057d2e7eb804a26069b69cb24.jpg)](https://web.archive.org/web/20071031000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Battlewand%2BOak)Interestingly, treefolk do not consider the use of wood taboo. While they would consider it wrong to kill a living tree, they have no qualms about crafting and using tools made from trees that died. Furthermore, many species of tree are perfectly capable of regenerating from careful harvesting of branches, and treefolk use such wood extensively. Treefolk warriors can often be seen using armor and cudgels made from tough wood, sometimes even crafted from their own bodies.
+[![Battlewand_Oak](https://i.ormos.uk/69/a9/69a9e5dd6ea1fa90770e9604a163e2d6620f24c057d2e7eb804a26069b69cb24.jpg)](https://web.archive.org/web/20071031000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Battlewand%2BOak)
+
+Interestingly, treefolk do not consider the use of wood taboo. While they would consider it wrong to kill a living tree, they have no qualms about crafting and using tools made from trees that died. Furthermore, many species of tree are perfectly capable of regenerating from careful harvesting of branches, and treefolk use such wood extensively. Treefolk warriors can often be seen using armor and cudgels made from tough wood, sometimes even crafted from their own bodies.
 
 Planar travelers would do well to seek out the mighty treefolk. With few exceptions, their philosophy and mystic knowledge is given freely—but their wisdom comes in the form of deceptively simple aphorisms. Unwrapping a kernel of treefolk wisdom can take even a devoted thinker decades, but it's usually well worth the patience required. Treefolk have simply seen more of Lorwyn, and for a longer time, than the humanoid races, and treasure their centuries of experience as much as boggarts treasure their hoards. Just as Lorwyn's natural resources have not been touched, the wisdom of its treefolk has also, so far, gone largely unmined.
 
@@ -191,7 +195,9 @@ This mazelike stretch of forest is considered to be the finest hunting ground on
 
 **Wanderwine River**
 
-[![Wanderwine_Hub](https://i.ormos.uk/6c/47/6c47601c06da69ab85a70eacb4f882374732ba99dd5339c634825eb8baaf20e5.jpg)](https://web.archive.org/web/20071031000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wanderwine%2BHub)All of the Merrow Lanes are worth exploring. But if you must only see one river, visit the Wanderwine. It is the most merrow-trafficked of Lorwyn's rivers, and as such is always teeming with conversation and aquatic commerce. Some tunnels to the Dark Meanders begin in the bed of the Wanderwine.
+[![Wanderwine_Hub](https://i.ormos.uk/6c/47/6c47601c06da69ab85a70eacb4f882374732ba99dd5339c634825eb8baaf20e5.jpg)](https://web.archive.org/web/20071031000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wanderwine%2BHub)
+
+All of the Merrow Lanes are worth exploring. But if you must only see one river, visit the Wanderwine. It is the most merrow-trafficked of Lorwyn's rivers, and as such is always teeming with conversation and aquatic commerce. Some tunnels to the Dark Meanders begin in the bed of the Wanderwine.
 
 **Kinsbaile**
 
@@ -203,7 +209,9 @@ The inhabited portions of Lorwyn are ringed by meandering, seemingly ever-distan
 
 **Glen Elendra**
 
-[![Secluded_Glen](https://i.ormos.uk/5e/22/5e222db27f35ac81695f961261def0638608db440abc0078e7c82cdb0c72eee2.jpg)](https://web.archive.org/web/20071031000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Secluded%2BGlen)It's said that in the heart of Lorwyn's mountains lies a mystical valley known as Glen Elendra, and that vast treasures of magic are hidden there. Several attempts have been made to locate Glen Elendra, and although many deep valleys have been found and charted in the mountains, none match the descriptions from the legend. The suspicion is that powerful glamers protect the Glen from prying eyes; in fact, it could be that one of the empty valleys charted thus far actually *is* the Glen. Although many theories have been proposed about what lies there, and what force might be working to conceal it, Glen Elendra's true significance is unknown.
+[![Secluded_Glen](https://i.ormos.uk/5e/22/5e222db27f35ac81695f961261def0638608db440abc0078e7c82cdb0c72eee2.jpg)](https://web.archive.org/web/20071031000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Secluded%2BGlen)
+
+It's said that in the heart of Lorwyn's mountains lies a mystical valley known as Glen Elendra, and that vast treasures of magic are hidden there. Several attempts have been made to locate Glen Elendra, and although many deep valleys have been found and charted in the mountains, none match the descriptions from the legend. The suspicion is that powerful glamers protect the Glen from prying eyes; in fact, it could be that one of the empty valleys charted thus far actually *is* the Glen. Although many theories have been proposed about what lies there, and what force might be working to conceal it, Glen Elendra's true significance is unknown.
 
 **The Murmuring Bosk**
 
@@ -211,7 +219,9 @@ Deep in the heart of Lorwyn's single largest contiguous forest lies the Murmurin
 
 **Amphitheater of Galanda Feudkiller**
 
-[![Ancient_Amphitheater](https://i.ormos.uk/eb/0a/eb0a8caa7c50c539a107f9711e0fa01f6238c03e9aae1e7bee0ca91c667da7e7.jpg)](https://web.archive.org/web/20071031000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ancient%2BAmphitheater)Foremost among giant arbiters, Galanda Feudkiller holds court in an enormous bowl-shaped amphitheater in Lorwyn's mountains. This is the last court some conflicting parties ever see. If Galanda decides to hear the testimony of the two sides, her judgment is swift and absolute—the case winner is allowed to leave peacefully, and the guilty party is often killed for wasting the arbiter's time. Look for gigantic dolmen stones that form a bowl shape, and keep your eyes open.
+[![Ancient_Amphitheater](https://i.ormos.uk/eb/0a/eb0a8caa7c50c539a107f9711e0fa01f6238c03e9aae1e7bee0ca91c667da7e7.jpg)](https://web.archive.org/web/20071031000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ancient%2BAmphitheater)
+
+Foremost among giant arbiters, Galanda Feudkiller holds court in an enormous bowl-shaped amphitheater in Lorwyn's mountains. This is the last court some conflicting parties ever see. If Galanda decides to hear the testimony of the two sides, her judgment is swift and absolute—the case winner is allowed to leave peacefully, and the guilty party is often killed for wasting the arbiter's time. Look for gigantic dolmen stones that form a bowl shape, and keep your eyes open.
 
 **Velis Vel**
 

@@ -90,7 +90,9 @@ Eugene was his usual quiet self.
 
 ### Game 1
 
-![Bill Stead, the Ladies' Choice](http://www.wizards.com/sideboard/images/ptno03/903.jpg "Bill Stead, the Ladies' Choice")Bill's first hand was a nice one except that it included only one land, a Llanowar Wastes. It also had two Cabal Therapies, a Hermit Druid, and other goodies, but he had to ship it back. The forbidden peek showed that he had a mana source on top of his deck. Ah well.
+![Bill Stead, the Ladies' Choice](http://www.wizards.com/sideboard/images/ptno03/903.jpg "Bill Stead, the Ladies' Choice")
+
+Bill's first hand was a nice one except that it included only one land, a Llanowar Wastes. It also had two Cabal Therapies, a Hermit Druid, and other goodies, but he had to ship it back. The forbidden peek showed that he had a mana source on top of his deck. Ah well.
 
 The next one resembled a good Poker hand, in that it only included three copies each of two different cards. Only Underground Rivers and Cities of Brass showed up from the top of his deck. Down to five. Two lands, Sliver Queen, Mox Diamond, Akroma. Pretty terrible, but he had to choose to keep.
 
@@ -112,7 +114,9 @@ Eugene Harvey 1 - Bill Stead 0
 
 ### Game 2
 
-![Eugene Harvey, mastermind](http://www.wizards.com/sideboard/images/ptno03/902.jpg "Eugene Harvey, mastermind")Both players kept their initial seven in this game. Bill led with Vault of Whispers, then Vampiric Tutored for Hermit Druid on Eugene's end step. Island followed by Hermit Druid hit the play mat, but a Chain of Vapor immediately sent the creature home. Eugene then played a second Island and a Grim Monolith.
+![Eugene Harvey, mastermind](http://www.wizards.com/sideboard/images/ptno03/902.jpg "Eugene Harvey, mastermind")
+
+Both players kept their initial seven in this game. Bill led with Vault of Whispers, then Vampiric Tutored for Hermit Druid on Eugene's end step. Island followed by Hermit Druid hit the play mat, but a Chain of Vapor immediately sent the creature home. Eugene then played a second Island and a Grim Monolith.
 
 Bill Duressed and didn't like what he saw. Seat of the Synod, two Chalices of the Void, Stroke of Genius, and Masticore meant that Eugene would definitely be able to kill the Hermit Druid next turn. He couldn't afford to give Eugene time to play a Chalice on two, so he took one of the Chalices and played out his Hermit Druid anyway.
 

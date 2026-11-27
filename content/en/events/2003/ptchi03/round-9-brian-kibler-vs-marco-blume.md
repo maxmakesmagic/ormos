@@ -131,7 +131,9 @@ render_recovery:
   - Vitality Charm
   occurrences: 130
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a811.jpg)"We could wrestle to see who goes first. He's way out of my weight class but I'd wrestle Marco" – Brian
+![](http://www.wizards.com/sideboard/images/ptchi03/a811.jpg)
+
+"We could wrestle to see who goes first. He's way out of my weight class but I'd wrestle Marco" – Brian
 
 "I'd probably lose horribly though" – Marco
 
@@ -145,7 +147,9 @@ Marco just played a morphed creature and returned his Gladiator to his hand.
 
 "You're not a goblin. Time to go off!" – Brian
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a812.jpg)The American played a Treespring Lorian on his turn and drew two cards off the Savages. Marco cycled his Gladiator and returned it to his hand again. He then played Festering Goblin, finally enabling him to finish off the first of the two Savages with the Sparksmith. The poor Festering Goblin got Death Pulsed by Brian, the SparksmithSmothered and a Wellwisher hit play to stop the bleeding by the Buzzard a bit. Marco cycled his Gladiator again, finding a Pinpoint Avalanche to destroy the Treespring Lorian. Marco's morph fell next turn to Brian's Savage that got a Wirewood Pride. Another Morph was added to Brian's forces, along with an Anurid Murkdiver on his next turn. The Murkdiver got hit by an Erratic Explosion for 6, revealing Slice and Dice but one Symbiotic Elf and Treespring Lorian later the German had to scoop up his cards for Game 2.
+![](http://www.wizards.com/sideboard/images/ptchi03/a812.jpg)
+
+The American played a Treespring Lorian on his turn and drew two cards off the Savages. Marco cycled his Gladiator and returned it to his hand again. He then played Festering Goblin, finally enabling him to finish off the first of the two Savages with the Sparksmith. The poor Festering Goblin got Death Pulsed by Brian, the SparksmithSmothered and a Wellwisher hit play to stop the bleeding by the Buzzard a bit. Marco cycled his Gladiator again, finding a Pinpoint Avalanche to destroy the Treespring Lorian. Marco's morph fell next turn to Brian's Savage that got a Wirewood Pride. Another Morph was added to Brian's forces, along with an Anurid Murkdiver on his next turn. The Murkdiver got hit by an Erratic Explosion for 6, revealing Slice and Dice but one Symbiotic Elf and Treespring Lorian later the German had to scoop up his cards for Game 2.
 
 Brian 1 – Marco 0
 
@@ -157,7 +161,9 @@ Brian 1 – Marco 0
 
 "Make something GIGANTIC!" – Brian
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a813.jpg)It wouldn't make an appearance this match though. Marco opened with a Festering Goblin (Uncle Fester as many people call him) and a Shepherd of Rot. Brian only had a turn 2 Wirewood Elf together with a turn 3 Wirewood Savage. Marco added a Flamestick Courier to the mix to make combat a bit more difficult. Brian made a Wellwisher and a Wretched Anurid and blocked Marco's incoming Festering Goblin with his Wirewood Elf. The Courier pumped the goblin while the Wirewood Elf received a Wirewood Pride, allowing the two to trade. Brian's Anurid served on his turn and was joined by a Serpentine Basilisk. In the meanwhile, Marco had been whittling away both lifetotals with the Shepherd of Rot, and he cycled a Death Pulse on the Wellwisher. A Severed Legion hit his side of the board to put on some more pressure. Regardless, the American attacked with all his creatures, and his Wirewood Savage traded with the Severed Legion. He then morphed a Towering Baloth, which got Pinpoint Avalanched before there was an opportunity to unmorph it. Marco chumpblocked the Wretched Anurid and had to scoop up his cards on his next turn. 
+![](http://www.wizards.com/sideboard/images/ptchi03/a813.jpg)
+
+It wouldn't make an appearance this match though. Marco opened with a Festering Goblin (Uncle Fester as many people call him) and a Shepherd of Rot. Brian only had a turn 2 Wirewood Elf together with a turn 3 Wirewood Savage. Marco added a Flamestick Courier to the mix to make combat a bit more difficult. Brian made a Wellwisher and a Wretched Anurid and blocked Marco's incoming Festering Goblin with his Wirewood Elf. The Courier pumped the goblin while the Wirewood Elf received a Wirewood Pride, allowing the two to trade. Brian's Anurid served on his turn and was joined by a Serpentine Basilisk. In the meanwhile, Marco had been whittling away both lifetotals with the Shepherd of Rot, and he cycled a Death Pulse on the Wellwisher. A Severed Legion hit his side of the board to put on some more pressure. Regardless, the American attacked with all his creatures, and his Wirewood Savage traded with the Severed Legion. He then morphed a Towering Baloth, which got Pinpoint Avalanched before there was an opportunity to unmorph it. Marco chumpblocked the Wretched Anurid and had to scoop up his cards on his next turn. 
 
 **Final Result:** Brian 2 – Marco 0
 

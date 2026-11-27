@@ -68,7 +68,9 @@ render_recovery:
   - email form
   occurrences: 1
 ---
-![](https://i.ormos.uk/95/ae/95ae9976083e146053cab388d45cb5421d3f664835c322cea6928ddba9898c11.jpg)During the investigation and after the announcement of his six-month suspension, Olivier Ruel received many emails about his situation. Now that the investigation has concluded, here are answers to several types of emails showing up frequently in his email box, serving as a conclusion to Olivier's run on this feature.
+![](https://i.ormos.uk/95/ae/95ae9976083e146053cab388d45cb5421d3f664835c322cea6928ddba9898c11.jpg)
+
+During the investigation and after the announcement of his six-month suspension, Olivier Ruel received many emails about his situation. Now that the investigation has concluded, here are answers to several types of emails showing up frequently in his email box, serving as a conclusion to Olivier's run on this feature.
 
 In keeping with the European flavor of this feature, Raphaël Lévy has been selected as the new "Ask the Pro" columnist. Seventh on the lifetime Pro Points list, Lévy began his Pro Tour career back at Pro Tour-Paris in 1997. He became a regular on the tour starting at the 1998 World Championships. Since then he hasn't missed a Pro Tour, an astounding streak of 47 consecutive events. Send your question, along with your name and location, via this email form. Answers will be posted every Tuesday, Thursday, and Saturday.
 

@@ -47,7 +47,9 @@ render_recovery: []
 ---
 ¡Es un placer poder decir por fin bienvenidos al Pro Tour Valencia! Lo cierto es que éste ha sido uno de los torneos más accidentados en la historia del juego, y eso que realmente no ha empezado hasta la mañana de hoy (sábado). Los más de 150 litros por metro cuadrado que cayeron en la noche del jueves desbordaron los estanques ornamentales que hay alrededor del sitio y el salón quedó completamente inundado.
 
-![](https://i.ormos.uk/48/87/4887a0ae9be0675cebbbefcb397dc1cdc7436a77f116daae8cbb24467f11b1d7.jpg)Hasta ayer a las 18 horas no se pudo abrir el recinto, una vez que el suelo se había acondicionado de nuevo y las instalaciones eléctricas habían sido aseguradas. Entonces, una marabunta de jugadores invadió el recinto y comenzó a jugar Booster Draft y Friday Night Magic. Es admirable el buen talante con el que los aficionados se tomaron el retraso: la inmensa mayoría comprendió que se debía a causas de fuerza mayor y esperó pacientemente.
+![](https://i.ormos.uk/48/87/4887a0ae9be0675cebbbefcb397dc1cdc7436a77f116daae8cbb24467f11b1d7.jpg)
+
+Hasta ayer a las 18 horas no se pudo abrir el recinto, una vez que el suelo se había acondicionado de nuevo y las instalaciones eléctricas habían sido aseguradas. Entonces, una marabunta de jugadores invadió el recinto y comenzó a jugar Booster Draft y Friday Night Magic. Es admirable el buen talante con el que los aficionados se tomaron el retraso: la inmensa mayoría comprendió que se debía a causas de fuerza mayor y esperó pacientemente.
 
 La buena noticia es que no se han perdido demasiados eventos paralelos: el programa de hoy sábado está intacto y, del de ayer, se rescató el FNM además de los Drafts, trasladando el clasificatorio para el Pro Tour de Kuala Lumpur al domingo. 
 

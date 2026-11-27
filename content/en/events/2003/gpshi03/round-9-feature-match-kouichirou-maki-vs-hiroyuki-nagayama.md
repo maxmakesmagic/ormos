@@ -119,7 +119,9 @@ The freshly dubbed Mikey K and Editor-in-Chief of the Japanese Sideboard was run
 
 ### Game One
 
-![](https://i.ormos.uk/a1/da/a1dad22169b9043fcabbd8503d7168f244e0e78e4f0c8b1a094c7a35d59db9a2.jpg)Maki had a turn two Banshee's Blade while Hiro had Chromatic Sphere. Maki's third turn brought about a Cathodion while Hiro's brought headaches--he played a Fatespinner. Maki had to think about his fourth turn and skipped his combat phase. He had no fourth land but took the opportunity to equip his Cathodion. 
+![](https://i.ormos.uk/a1/da/a1dad22169b9043fcabbd8503d7168f244e0e78e4f0c8b1a094c7a35d59db9a2.jpg)
+
+Maki had a turn two Banshee's Blade while Hiro had Chromatic Sphere. Maki's third turn brought about a Cathodion while Hiro's brought headaches--he played a Fatespinner. Maki had to think about his fourth turn and skipped his combat phase. He had no fourth land but took the opportunity to equip his Cathodion. 
 
 Hiro played a Wizard Replica with a blue mana up should it become necessary and passed the turn to Maki who skipped his mainphase. When he attacked, Hiro funneled the blue into his Sphere to Electrostatic Bolt the Cathodion and force Maki to burn for three in the process. Maki got in for one with his Wizard Replica but it was unclear why the Fatespinner stayed back with nothing to block it.
 

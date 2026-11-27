@@ -110,7 +110,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpno03/a948.jpg)Despite a mulligan, Burt was at a considerable advantage early in the match. He was able to Force Spike Douglass' Metalworker and resolved a Fact or Fiction to make up for the loss of card economy accrued when going first and mulliganing. Douglass resolved a Grim Monolith and Thran Dynamo but did not manage to present any threats at this time. Burt cast Cunning Wish and took a while finally choosing Fact or Fiction over Vampiric Tutor. Douglass forestalled the second Fact or Fiction casting a Masticore, so that Burt had to spend some of his mana to counter it, but FoF resolved next turn, further beefing up Burt's hand.
+![](http://www.wizards.com/sideboard/images/gpno03/a948.jpg)
+
+Despite a mulligan, Burt was at a considerable advantage early in the match. He was able to Force Spike Douglass' Metalworker and resolved a Fact or Fiction to make up for the loss of card economy accrued when going first and mulliganing. Douglass resolved a Grim Monolith and Thran Dynamo but did not manage to present any threats at this time. Burt cast Cunning Wish and took a while finally choosing Fact or Fiction over Vampiric Tutor. Douglass forestalled the second Fact or Fiction casting a Masticore, so that Burt had to spend some of his mana to counter it, but FoF resolved next turn, further beefing up Burt's hand.
 
 Douglass cast Tangle Wire, but at this time there were enough lands in play to make it only a minor inconvenience – Burt allowed it to resolve. He cast a second Cunning Wish to find Mana Short. On his turn, Burt was forced to tap four lands under Tangle Wire and then had one more land tapped by Douglass' Rishadan Port. On the following turn, Douglass used his Port to tap another land, leaving Burt with only an Underground River and Dust Bowl untapped, then cast Upheaval floating three colorless mana in his pool. Burt could do no better than Accumulated Knowledge for two in response.
 
@@ -126,7 +128,9 @@ Douglass took out his Masticores and a Crumbling Sanctuary to bring in a second 
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpno03/a947.jpg)Unlike the previous game, Douglass' strategy was very aggressive this time around. He used Ancient Tomb to get both Grim Monolith and Voltaic Key into play on his first turn. He proceeded to cast Thran Dynamo and Tangle Wire, leaving his opponent defenseless for whatever would come next. Burt cast Accumulated Knowledge at the end of that turn and another on his upkeep, utilizing the lands that would get tapped anyway and drawing plenty of cards. 
+![](http://www.wizards.com/sideboard/images/gpno03/a947.jpg)
+
+Unlike the previous game, Douglass' strategy was very aggressive this time around. He used Ancient Tomb to get both Grim Monolith and Voltaic Key into play on his first turn. He proceeded to cast Thran Dynamo and Tangle Wire, leaving his opponent defenseless for whatever would come next. Burt cast Accumulated Knowledge at the end of that turn and another on his upkeep, utilizing the lands that would get tapped anyway and drawing plenty of cards. 
 
 Douglass was able to cast his Mishra's Helix. Burt was now in trouble, and would probably never have access to more than one untapped land during his main phase. However, he was not completely out of the game yet. He used Cunning Wish to tutor for Corpse Dance and discarded a Psychatog at the end of his turn. With enough cards between hand and graveyard, he would now have a chance to win by reanimating his 'Tog. Douglass cast Stroke of Genius for six and triumphantly slammed a Seal of Removal on the table, putting an end to that plan. 
 

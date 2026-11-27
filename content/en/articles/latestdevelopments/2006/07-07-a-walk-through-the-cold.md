@@ -91,7 +91,9 @@ Here, then, is my very own condensed, annotated *Coldsnap* FAQ, complete with la
 
 ### Snow and the Snow Mana Symbol
 
-> ![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af126_forest.jpg)The snow-covered supertype has been renamed "snow." All \_Ice Age\_ and \_Alliances\_ cards that used the term snow-covered are receiving updated wordings in Oracle.
+> ![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af126_forest.jpg)
+>
+> The snow-covered supertype has been renamed "snow." All \_Ice Age\_ and \_Alliances\_ cards that used the term snow-covered are receiving updated wordings in Oracle.
 
 Snow-covered land was one of the bizarre new things that debuted in *Ice Age* and never realized its full potential. We aimed to rectify that by having snow matter in a whole slew of new ways, including letting other kinds of permanents besides lands be “snowy.” Of course, our creative team blanched at the idea of having things be labeled “Snow-covered creatures” (“Why don't they just shake the snow off themselves?” they asked.), so we changed the supertype to the much shorter—and much more vague—“snow.” So there are snow lands, snow creatures, snow artifacts, and snow enchantments in *Coldsnap*, including reprints of the original five Snow-covered lands.
 
@@ -103,7 +105,9 @@ Snow-covered land was one of the bizarre new things that debuted in *Ice Age* an
 > 
 > \* Effects that target nonbasic lands can't target basic snow lands.
 > 
-> ![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af126_yeti.jpg)The \_Coldsnap\_ set features a new mana symbol. The snow mana symbol is denoted as {S} and resembles a snowflake. It is used only in abilities, not in cards' mana costs.
+> ![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af126_yeti.jpg)
+>
+> The \_Coldsnap\_ set features a new mana symbol. The snow mana symbol is denoted as {S} and resembles a snowflake. It is used only in abilities, not in cards' mana costs.
 > 
 > \* {S} in a cost represents a single generic mana, similar to the symbol {1} in a cost. It can be paid with one mana of any color, or one colorless mana, as long as that mana was produced by a snow permanent.
 
@@ -115,7 +119,9 @@ The snow mana symbol is my pick for the coolest new thing in the set. It functio
 
 ### Snow and the Snow Mana Symbol
 
-> ![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af126_forest.jpg)The snow-covered supertype has been renamed "snow." All \_Ice Age\_ and \_Alliances\_ cards that used the term snow-covered are receiving updated wordings in Oracle.
+> ![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af126_forest.jpg)
+>
+> The snow-covered supertype has been renamed "snow." All \_Ice Age\_ and \_Alliances\_ cards that used the term snow-covered are receiving updated wordings in Oracle.
 
 Snow-covered land was one of the bizarre new things that debuted in *Ice Age* and never realized its full potential. We aimed to rectify that by having snow matter in a whole slew of new ways, including letting other kinds of permanents besides lands be “snowy.” Of course, our creative team blanched at the idea of having things be labeled “Snow-covered creatures” (“Why don't they just shake the snow off themselves?” they asked.), so we changed the supertype to the much shorter—and much more vague—“snow.” So there are snow lands, snow creatures, snow artifacts, and snow enchantments in *Coldsnap*, including reprints of the original five Snow-covered lands.
 
@@ -127,7 +133,9 @@ Snow-covered land was one of the bizarre new things that debuted in *Ice Age* an
 > 
 > \* Effects that target nonbasic lands can't target basic snow lands.
 > 
-> ![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af126_yeti.jpg)The \_Coldsnap\_ set features a new mana symbol. The snow mana symbol is denoted as {S} and resembles a snowflake. It is used only in abilities, not in cards' mana costs.
+> ![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af126_yeti.jpg)
+>
+> The \_Coldsnap\_ set features a new mana symbol. The snow mana symbol is denoted as {S} and resembles a snowflake. It is used only in abilities, not in cards' mana costs.
 > 
 > \* {S} in a cost represents a single generic mana, similar to the symbol {1} in a cost. It can be paid with one mana of any color, or one colorless mana, as long as that mana was produced by a snow permanent.
 
@@ -181,7 +189,9 @@ As I discussed last week, the recover mechanic is a nod to old “graveyard orde
 > 
 > 502.55. Recover
 > 
-> ![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af126_resize.jpg)502.55a Recover is a triggered ability that functions only while the card with recover is in a player's graveyard. "Recover \[cost\]" means "When a creature is put into your graveyard from play, you may pay \[cost\]. If you do, return this card from your graveyard to your hand. Otherwise, remove this card from the game."
+> ![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af126_resize.jpg)
+>
+> 502.55a Recover is a triggered ability that functions only while the card with recover is in a player's graveyard. "Recover \[cost\]" means "When a creature is put into your graveyard from play, you may pay \[cost\]. If you do, return this card from your graveyard to your hand. Otherwise, remove this card from the game."
 > 
 > \* You get only one chance to use a card's recover ability. After a card with recover is put into your graveyard, any creature put into your graveyard from play causes the recover ability to trigger. When the ability resolves, either you pay the recover cost and return the card to your hand, or you don't pay and the card is removed from the game.
 > 

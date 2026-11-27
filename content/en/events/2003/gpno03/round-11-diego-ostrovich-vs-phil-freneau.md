@@ -381,7 +381,9 @@ render_recovery:
   - Ensnaring Bridge
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gpno03/a950.jpg)Phil Freneau's been doing pretty well for himself since abandoning thoughts of retiring from the game. His victory and Grand Prix - Los Angeles last year was all the incentive he needed to stay, and he admits with a smile that leaving was "probably never possible". Now he's tearing up the swiss this weekend, with Red Deck Wins 2K2. He's facing a nightmare match in Argentina's Diego Ostrovich. The Magic Invitationalist and Worlds Top 4 competitor is playing his own version of Big Green, a deck that powers out the likes of Deranged Hermit with Rofellos and Gaea's Cradle. It also features Call of the Herd and Ravenous Baloth, trouble for the red mage. 
+![](http://www.wizards.com/sideboard/images/gpno03/a950.jpg)
+
+Phil Freneau's been doing pretty well for himself since abandoning thoughts of retiring from the game. His victory and Grand Prix - Los Angeles last year was all the incentive he needed to stay, and he admits with a smile that leaving was "probably never possible". Now he's tearing up the swiss this weekend, with Red Deck Wins 2K2. He's facing a nightmare match in Argentina's Diego Ostrovich. The Magic Invitationalist and Worlds Top 4 competitor is playing his own version of Big Green, a deck that powers out the likes of Deranged Hermit with Rofellos and Gaea's Cradle. It also features Call of the Herd and Ravenous Baloth, trouble for the red mage. 
 
 ### Game 1
 
@@ -397,7 +399,9 @@ Ostrovich 1 - Freneau 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpno03/a949.jpg)Freneau boarded in the land destruction package for Game 2. He played first, but didn't have a kill spell for Ostrovich's Rofellos. Stone Rain made sure it couldn't enable more than Ravenous Baloth. The next turn he tried Pillage, and this time Ostrovich had no additional land. Unfortunately, that meant that he was bashing for six. Freneau Pillaged again. Ostrovich hit again and played a forest.
+![](http://www.wizards.com/sideboard/images/gpno03/a949.jpg)
+
+Freneau boarded in the land destruction package for Game 2. He played first, but didn't have a kill spell for Ostrovich's Rofellos. Stone Rain made sure it couldn't enable more than Ravenous Baloth. The next turn he tried Pillage, and this time Ostrovich had no additional land. Unfortunately, that meant that he was bashing for six. Freneau Pillaged again. Ostrovich hit again and played a forest.
 
 Too late, Freneau drew his Volcanic Hammer. He Hammered Rofellos and hoped to survive to hide behind his Fledgling Dragons. Ostrovich bashed him to two, then played another Rofellos. Freneau drew, and scooped.
 

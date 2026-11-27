@@ -172,7 +172,9 @@ render_recovery:
   - Wirewood Pride
   occurrences: 165
 ---
-![](https://www.wizards.com/sideboard/images/gpla02/989.jpg)Top eight PT Tokyo competitor Phil Freneau, formerly of team Alpha-Beta-Unlimited, sat down across from GP Milwaukee winner and old dinosaur Eric Taylor. 
+![](https://www.wizards.com/sideboard/images/gpla02/989.jpg)
+
+Top eight PT Tokyo competitor Phil Freneau, formerly of team Alpha-Beta-Unlimited, sat down across from GP Milwaukee winner and old dinosaur Eric Taylor. 
 
 Gerard Fabiano: “Hey Eric, you always get a round three feature match!”  
  Eric Taylor: “That’s because they know I won’t be around by the end of the day.”
@@ -187,7 +189,9 @@ The board didn’t stay at neutral for long. Freneau summoned Aven Soulgazer and
 
 Taylor seemed confident as the game progressed, even though his life total was being reduced quickly by the 3/3 flyer. He steadily employed a stream of Centaurs aided by a Skirk Commando, even in the face of a newly summoned True Believer across the table. The life totals stood at 17-4 in Phillip’s favor, as he held Wave of Indifference and a Mountain in his hand.
 
-![](https://www.wizards.com/sideboard/images/gpla02/990.jpg)EDT swung for six, trading the goblin for the cleric. He summoned Leery Fogbeast and passed the turn. Freneau drew, and pondered the board. Unhappily, he was forced to hold back. EDT took advantage of this momentum to cast a game-winning Gratuitous Violence, allowing his guys to swing for infinite damage.
+![](https://www.wizards.com/sideboard/images/gpla02/990.jpg)
+
+EDT swung for six, trading the goblin for the cleric. He summoned Leery Fogbeast and passed the turn. Freneau drew, and pondered the board. Unhappily, he was forced to hold back. EDT took advantage of this momentum to cast a game-winning Gratuitous Violence, allowing his guys to swing for infinite damage.
 
 Eric Taylor 1 – Phil Freneau 0.
 

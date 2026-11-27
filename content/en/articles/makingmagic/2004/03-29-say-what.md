@@ -105,7 +105,9 @@ Now comes the first piece of constructive criticism. R&D is doing a good job of 
 
 ### Message #4 – You Prefer Bad Commons To Bad Rares
 
-![](https://i.ormos.uk/9e/f1/9ef1cd344621be91bbd276e46284cf6c945e13e2e61949e7b56bf7c2a338ccec.jpg)Another interesting message to come out of the survey was your thoughts on where the majority of “bad” cards should lie. It seems you dislike opening a bad rare more than you mind seeing the same bad commons, limited game after limited game. Another factoid for R&D to chew on.
+![](https://i.ormos.uk/9e/f1/9ef1cd344621be91bbd276e46284cf6c945e13e2e61949e7b56bf7c2a338ccec.jpg)
+
+Another interesting message to come out of the survey was your thoughts on where the majority of “bad” cards should lie. It seems you dislike opening a bad rare more than you mind seeing the same bad commons, limited game after limited game. Another factoid for R&D to chew on.
 
 ### Message #5 – Flavor Is Very Important To Mechanics
 
@@ -117,7 +119,9 @@ This is one of those topics that split you all in half. Some of you really enjoy
 
 ### Message #7 – You Like Repeats
 
-![](https://i.ormos.uk/21/9f/219ff5f77e66689bc5cc4951067fe305260a55bfa644549d889fa8aea1be9dc7.jpg)R&D's major use of repeats has always been more out of necessity than anything else. There's only so many times you can cleanly do an effect or mechanic. Thus, R&D often chooses to redo things rather than awkwardly tweak them. Up until this survey, I always thought of this practice as a necessary evil (although I was aware that the occasional return of a card like [Juggernaut](https://web.archive.org/web/20040329000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Juggernaut) could be exciting). But the message that came clearly through was that the vast majority of you consider repeats a positive thing (especially when we bring back something that has been absent for a few years).
+![](https://i.ormos.uk/21/9f/219ff5f77e66689bc5cc4951067fe305260a55bfa644549d889fa8aea1be9dc7.jpg)
+
+R&D's major use of repeats has always been more out of necessity than anything else. There's only so many times you can cleanly do an effect or mechanic. Thus, R&D often chooses to redo things rather than awkwardly tweak them. Up until this survey, I always thought of this practice as a necessary evil (although I was aware that the occasional return of a card like [Juggernaut](https://web.archive.org/web/20040329000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Juggernaut) could be exciting). But the message that came clearly through was that the vast majority of you consider repeats a positive thing (especially when we bring back something that has been absent for a few years).
 
 Not only do you most of you enjoy us bringing back old cards and mechanics, you seem to be willing to bring them back much sooner than we have traditionally chosen to do so. R&D, for example, thought we were bringing back cycling very quickly only four years after it first appeared. More than half of the people that responded felt that anything after two years was fair game. This survey has completely changed how I think about repeats. I now see them as a tool that, if used properly, can be used to bring excitement to a set.
 
@@ -181,7 +185,9 @@ This isn't to say that you do not like the current names. In fact, most of you t
 
 ### Message #20 – There Is Great Conflict Over Humor In Flavor Text
 
-![](https://i.ormos.uk/c2/f9/c2f9d56700569f2130b2b2088c443931c17c9af9e6f9f1d76f6d5f3cbed7b61c.jpg)The biggest issue in flavor text was over how much humor is the right amount. About half of you (that chimed in on the topic) felt that humor was the most important type of flavor text and you wanted to see us raise the percentage of it used. The other half enjoyed the many other types of flavor text (from the poetic to the descriptive) and wished to keep the humor at its current level. Ask about puns and you're opinions move even more to the extremes.
+![](https://i.ormos.uk/c2/f9/c2f9d56700569f2130b2b2088c443931c17c9af9e6f9f1d76f6d5f3cbed7b61c.jpg)
+
+The biggest issue in flavor text was over how much humor is the right amount. About half of you (that chimed in on the topic) felt that humor was the most important type of flavor text and you wanted to see us raise the percentage of it used. The other half enjoyed the many other types of flavor text (from the poetic to the descriptive) and wished to keep the humor at its current level. Ask about puns and you're opinions move even more to the extremes.
 
 I'm not sure there's an easy answer to this feedback as the two groups are somewhat opposed in what they want. But I promise this is a topic the Creative Text team will spend more time studying.
 

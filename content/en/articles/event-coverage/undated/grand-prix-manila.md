@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/7a/b7/7ab7fde24a71d54ae8e21ec3938fe27eabfba3ed7613444d4ef2fb10f8c75707.jpg)Grand Prix-Manila wrapped up at 11:30 pm Sunday night. The finals were played by two Philippine competitors, Christopher Parreña and Frederick Salazar. Although the hour was late when the Grand Prix concluded, there was still a crowd of spectators watching and cheering the players on.
+![](https://i.ormos.uk/7a/b7/7ab7fde24a71d54ae8e21ec3938fe27eabfba3ed7613444d4ef2fb10f8c75707.jpg)
+
+Grand Prix-Manila wrapped up at 11:30 pm Sunday night. The finals were played by two Philippine competitors, Christopher Parreña and Frederick Salazar. Although the hour was late when the Grand Prix concluded, there was still a crowd of spectators watching and cheering the players on.
 
 Congratulations to both Christopher Parreñas and Frederick Salazar. The rest of the Top 8 finished in this order:  
  Third Place - Francis Robert Profeta, Fourth Place - Lawrence Lagman, Fifth Place - Au Yeung, Hon Ming, Sixth Place - Andrew Buchanan, Seventh Place - Dino Eric Yu and Eighth Place - Ramon Allan Oca Jr.

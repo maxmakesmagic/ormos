@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/892.jpg)This match was between the experienced Michael Pustilnik, who has played almost 20 Pro Tours and won GP-Memphis, faced a very difficult match against the 2000 Argentinean star and Nationals runner-up Jose Ignacio Barbero. They were both playing NecroDonate or "Trix." 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/892.jpg)
+
+This match was between the experienced Michael Pustilnik, who has played almost 20 Pro Tours and won GP-Memphis, faced a very difficult match against the 2000 Argentinean star and Nationals runner-up Jose Ignacio Barbero. They were both playing NecroDonate or "Trix." 
 
 In the first game, Mike took a mulligan. Then he just played a Swamp. Barbero instead played a Swamp and a Mox Diamond. On his next turn, Pustilnik cast a Mox and tried to play a Necropotence, but Barbero played a Demonic Consultation in response naming Force of Will and playing it. After this, Jose played a Necro which incredibly made it into play and he drew 10 cards. After this, Mike didn't play anything, letting Jose play two Duress and discarding one Illusions of Grandeur and one Donate leaving in Pustilnik's hand one Mox, so he decided to return the one which was already in play to his hand using a Hoodwink. After that, Barbero cast his Illusions and Donated it. 
 

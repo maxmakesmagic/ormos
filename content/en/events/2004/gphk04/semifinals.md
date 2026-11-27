@@ -727,7 +727,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/gphk04/sf1_1.jpg)With Olivier Ruel already secure in his spot in the finals there was the potential for a rematch between France and Japan in the finals of the Grand Prix. Ruel would be looking to avenge the loss of his countryman Gabriel Nassif last weekend in Kobe's finals.
+![](http://www.wizards.com/sideboard/images/gphk04/sf1_1.jpg)
+
+With Olivier Ruel already secure in his spot in the finals there was the potential for a rematch between France and Japan in the finals of the Grand Prix. Ruel would be looking to avenge the loss of his countryman Gabriel Nassif last weekend in Kobe's finals.
 
 Chuen Hwa Tan had other plans. He had all the black cards that were missing from Gabe Walls' Top 8 deck. He even had the Blinding Beam that Walls' values so dearly. 
 

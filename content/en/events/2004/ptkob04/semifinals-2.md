@@ -383,7 +383,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/a8/69/a8696b8e17a5f55079b7a2cefbcfda078b27f6795337dc6b7fbf61c3e99c8a09.jpg)Neither player had to do much play testing for this match-up after they became aware of their potential clash in the bracket. The two players are on friendly terms and spent much time over the weekend playing their decks against one another. Gabriel was not excited about facing this deck as he lad lost about eighty percent of the games they had played.
+![](https://i.ormos.uk/a8/69/a8696b8e17a5f55079b7a2cefbcfda078b27f6795337dc6b7fbf61c3e99c8a09.jpg)
+
+Neither player had to do much play testing for this match-up after they became aware of their potential clash in the bracket. The two players are on friendly terms and spent much time over the weekend playing their decks against one another. Gabriel was not excited about facing this deck as he lad lost about eighty percent of the games they had played.
 
 Gabriel was playing the TwelvePost deck that he and several other French players worked on. The deck was the talk of the tournament--most of the talk seemed to revolve around how the deck could ever beat an Affinity deck. Yet Gabriel went 2-1 against Affinity in the Swiss and had just dispatched Ben Stark with Affinity in the quarters.
 

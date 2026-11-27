@@ -97,7 +97,9 @@ To understand where we went and how the choices were made, let me take you back 
 
 At the time, I didn't know what *Time Spiral*'s block was going to be; I just knew it wasn't going to be the same structure. That's when I stumbled onto the idea of using a motif as a connector. What if the block as a whole was about something, but that each set played into a different part of that thing? Each expansion would have its own unique viewpoint. The sets would be connected yet not similar. Each set would have its own subtheme, yet there would be a through line that connected all three expansions. The idea was great. The only problem was I needed “the thing”.
 
-![](https://i.ormos.uk/ff/fe/fffef0112ca342b514fee0963c3e1cc9d96b433dd1dea080209c09a0b3d92d5c.jpg)That's when the event I talked about last week (you know, where all these different ideas started flowing together) happened. At the heart of everything was one simple idea, a “thing” if you will. And that thing was: time. Let me tell you, there are few themes that excite me more than time. I'm an avid science fiction fan. My favorite science fiction subgenre? Time travel. I love, love time travel. I've watched so many movies (and read so many books), a lot I probably shouldn't have, just because I'm a sucker for time travel stories. Something about being able to point out how the climax to *Timecop* can't actually work under the movie's established rules of time travel or knowing to yell at the screen every time I watch *Back to the Future III* (“The gas is in the car in the cave!”) brings such joy.
+![](https://i.ormos.uk/ff/fe/fffef0112ca342b514fee0963c3e1cc9d96b433dd1dea080209c09a0b3d92d5c.jpg)
+
+That's when the event I talked about last week (you know, where all these different ideas started flowing together) happened. At the heart of everything was one simple idea, a “thing” if you will. And that thing was: time. Let me tell you, there are few themes that excite me more than time. I'm an avid science fiction fan. My favorite science fiction subgenre? Time travel. I love, love time travel. I've watched so many movies (and read so many books), a lot I probably shouldn't have, just because I'm a sucker for time travel stories. Something about being able to point out how the climax to *Timecop* can't actually work under the movie's established rules of time travel or knowing to yell at the screen every time I watch *Back to the Future III* (“The gas is in the car in the cave!”) brings such joy.
 
 I was very optimistic about time when I started playing with the concept. What I soon found was that it was even more flexible than I had imagined. For starters, as I explained last week, it worked perfectly as a structure to build the block around. Past, present, and future was just the type of hook I wanted. Each fit with the other two yet was distinctive by itself. Trust me when I say that this block will be one where each expansion is remembered unto itself. Twenty years from now, you might not know which of the three *Ravnica* sets Izzet was in, but you'll know which *Time Spiral* expansion a certain concept came from.
 
@@ -115,7 +117,9 @@ Click here to see such a card. (And yes, I know [we already previewed](https://w
 
 ![](https://i.ormos.uk/cd/1d/cd1dd97eb2a10ee26bb2ce2638788e5be92f1173f0d425b0a813c6c66e24ced8.jpg)
 
-![](https://i.ormos.uk/61/64/6164409a080947cde6f4e06450cce875f6dbc25220245bd0c314b2b8b5dec5e2.jpg)Yes, it's Ith, man of mazes and wands. (He's from *The Dark* back story, if you have no idea what I'm talking about.) The important part (for this column anyway) is the last line on the card. Yes, the “Suspend 4 – ![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/white.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)” part. What makes things even more confusing is the fact that the reminder text had to be dropped from this card to make space for the other abilities. So, I guess I can start with the basics on suspend, the reminder text. For creatures:
+![](https://i.ormos.uk/61/64/6164409a080947cde6f4e06450cce875f6dbc25220245bd0c314b2b8b5dec5e2.jpg)
+
+Yes, it's Ith, man of mazes and wands. (He's from *The Dark* back story, if you have no idea what I'm talking about.) The important part (for this column anyway) is the last line on the card. Yes, the “Suspend 4 – ![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/white.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)” part. What makes things even more confusing is the fact that the reminder text had to be dropped from this card to make space for the other abilities. So, I guess I can start with the basics on suspend, the reminder text. For creatures:
 
 > *(Rather than play this card from your hand, you may pay \[some mana cost\] and remove it from the game with \[some number\] time counters on it. At the beginning of your upkeep, remove a time counter. When you remove the last, play it without paying its mana cost. It has haste.)*
 
@@ -133,7 +137,9 @@ Suspend is odd in that it is both very simple and very complex at the same time.
 
 ![Undying_Flames](http://www.wizards.com/magic/images/cardart/SOK/Undying_Flames.jpg%0A%09%09%09)
 
-![Undying_Flames](https://i.ormos.uk/08/c7/08c7807f4e18be26f1cb5e0f6448f8447c077d8be172b79f12c922a44ea099f7.jpg)Normally, I start with the story behind the mechanic before I show off what the mechanic is. For suspend, I felt it was better to start the other way around. Why? Because the story is a lot harder to follow if you don't understand what the mechanic is.
+![Undying_Flames](https://i.ormos.uk/08/c7/08c7807f4e18be26f1cb5e0f6448f8447c077d8be172b79f12c922a44ea099f7.jpg)
+
+Normally, I start with the story behind the mechanic before I show off what the mechanic is. For suspend, I felt it was better to start the other way around. Why? Because the story is a lot harder to follow if you don't understand what the mechanic is.
 
 As I said last week, this story begins in *Saviors of Kamigawa* design. The design team was lead by Brian Tinsman and included Devin Low, Brian Schneider and Brandon Bozzi. Trying to finish up the *Kamigawa* block, the team became obsessed with the idea of doing legendary spells. The block had already made the legendary supertype applicable to all other card types. Why stop at just the permanents?
 
@@ -157,7 +163,9 @@ There's a whole lot more story about how the cards changed, but since much of it
 
 ### The Nick of Time
 
-![](https://i.ormos.uk/75/ce/75ce3056c71ad1956d14c455ed7a64c3a90d8fba455a4b1e583a785358392aeb.jpg)I'd like to end the column by focusing in on the thing that most drew me in as a designer to suspend. And wouldn't you know it, it ties right back into my theme of innovation. **Magic** has a number of resources. These resources are so fundamental to the game that we've spent years exploring them. In fact, I think one of the common themes in how we design is trying to find new ways to look at resources. This is why the idea of time is so exciting. It's a resource that we've barely touched.
+![](https://i.ormos.uk/75/ce/75ce3056c71ad1956d14c455ed7a64c3a90d8fba455a4b1e583a785358392aeb.jpg)
+
+I'd like to end the column by focusing in on the thing that most drew me in as a designer to suspend. And wouldn't you know it, it ties right back into my theme of innovation. **Magic** has a number of resources. These resources are so fundamental to the game that we've spent years exploring them. In fact, I think one of the common themes in how we design is trying to find new ways to look at resources. This is why the idea of time is so exciting. It's a resource that we've barely touched.
 
 This means three very cool things. First, it's something brand spanking new. Players walk into the set with no preconceived notions about it. Ith costs five less mana if you are willing to wait four extra turns for it. Is that good? When is it good? What can you do to maximize how you're using it? Players will have to actually figure it out. They will have to come face to face with the unknown. Which is exactly what a set about nostalgia wants to balance it out.
 

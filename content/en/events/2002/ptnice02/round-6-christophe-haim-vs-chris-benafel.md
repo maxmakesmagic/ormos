@@ -134,7 +134,9 @@ render_recovery:
   - Timberland Ruins
   occurrences: 118
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a881.jpg)Christophe Haim is a Frenchman on a good run. He finished in the Top 8 at Pro Tour Osaka and has made the French National team with a third place finish at their nationals last week. Benafel is one of the best American players with numerous high Pro Tour and Grand Prix Finishes as well as good runs on the Masters both as an individual and part of the ABU team. Although mainly famous for coming second he has an individual win at Grand Prix Amsterdam to his credit.
+![](http://www.wizards.com/sideboard/images/ptnice02/a881.jpg)
+
+Christophe Haim is a Frenchman on a good run. He finished in the Top 8 at Pro Tour Osaka and has made the French National team with a third place finish at their nationals last week. Benafel is one of the best American players with numerous high Pro Tour and Grand Prix Finishes as well as good runs on the Masters both as an individual and part of the ABU team. Although mainly famous for coming second he has an individual win at Grand Prix Amsterdam to his credit.
 
 Benafel is playing red-black while Haim has a blue-white deck splashing red for removal.
 
@@ -144,7 +146,9 @@ Haim went first and immediately got the defences down with an Angelic Wall. He f
 
 Benafel summoned a Cabal Torturer and then a Petravark to steal Haim's only island. It didn't look like he would be the beatdown player this game as Haim added a Patrol Hound to his side. Benafel added a Halberdier to his side to match.
 
-![](https://i.ormos.uk/f7/d2/f7d2a37d9461c6ca2153bdfc34051fc030d34015c0b49fb71ecc70304d597cc1.jpg)Haim still hadn't found a replacement island and it looked like Benafel might turn it around when he killed the Patrol Hound with a Flame Burst. A Whispering Shade with a lot of swamps put the Crusader on defensive duties and Benafel then took the initiative as he started to fly over with a Soul Scourge.
+![](https://i.ormos.uk/f7/d2/f7d2a37d9461c6ca2153bdfc34051fc030d34015c0b49fb71ecc70304d597cc1.jpg)
+
+Haim still hadn't found a replacement island and it looked like Benafel might turn it around when he killed the Patrol Hound with a Flame Burst. A Whispering Shade with a lot of swamps put the Crusader on defensive duties and Benafel then took the initiative as he started to fly over with a Soul Scourge.
 
 Auramancer and Mystic Familiar did not quite match the quality of Haim's earlier monsters. With threshold a mile off Haim felt it better to chump the Scourge for a turn with a Mystic Familiar. This made Benafel a little suspicious but he summoned a second Soul Scourge anyway.
 
@@ -164,7 +168,9 @@ Haim's draw was equally unexciting as an Auramancer was followed by a Pilgrim of
 
 With a pro-red guy on the other side of the table the Firecat wasn't anything useful but Benafel found a use for it on an important 5th turn when he summoned a Sadistic Hypnotist. Benafel sacrificed both to gut Haim's hand.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a882.jpg)With his opponent's resources badly depleted Benafel cruised into a strong position with two consecutive Soul Scourge.
+![](http://www.wizards.com/sideboard/images/ptnice02/a882.jpg)
+
+With his opponent's resources badly depleted Benafel cruised into a strong position with two consecutive Soul Scourge.
 
 Haim pulled a Mystic Crusader to hope for a fight back but he was now down to 3 and Benafel made a Screams of the Damned.
 

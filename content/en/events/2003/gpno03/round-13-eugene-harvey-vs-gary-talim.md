@@ -104,7 +104,9 @@ render_recovery:
   - Stone Rain
   occurrences: 80
 ---
-![](http://www.wizards.com/sideboard/images/gpno03/a944.jpg)Harvey has quite an uphill battle ahead of him. His Psychatog deck is traditionally an excellent matchup for Talim's Sligh strategy. However, Magic would not be the same game if it did not feature its number of upsets, and Harvey is definitely not out of the running.
+![](http://www.wizards.com/sideboard/images/gpno03/a944.jpg)
+
+Harvey has quite an uphill battle ahead of him. His Psychatog deck is traditionally an excellent matchup for Talim's Sligh strategy. However, Magic would not be the same game if it did not feature its number of upsets, and Harvey is definitely not out of the running.
 
 Harvey offered his opponent an intentional draw, but Talim, confident in the matchup, refused. 
 
@@ -112,11 +114,15 @@ Harvey offered his opponent an intentional draw, but Talim, confident in the mat
 
 Harvey won the die roll and forestalled the inevitable damage he would be taking later in this match by Smothering Talim's first turn goblin and then casting Psychatog to block Grim Lavamancer and Jackal Pup on the other side of the table. Talim got out a Cursed Scroll and dropped his hand down to one card, casting the abovementioned Pup and dealing two points of damage with Firebolt to Harvey. Psychatog was doing an excellent job stopping the little creatures, but Harvey was now down to sixteen life points after a second Firebolt, facing down an active Cursed Scroll. He would have to play a land every turn and go off with an Upheaval-Tog combo quickly to win this game.
 
-![](http://www.wizards.com/sideboard/images/gpno03/a942.jpg)Harvey dug into his library with Brainstorms and ended the turn at twelve life points, thanks to Cursed Scroll and a pair of Polluted Deltas he sacrificed. Talim summoned a morph creature – clearly a Blistering Firecat – leaving one mana untapped with an active Grim Lavamancer. Harvey cast Fact or Fiction at the end of that turn, ending up with Thwart and Counterspell over Wonder, Smother and land. Harvey used another Smother to take out Blistering Firecat, but also providing Talim with two non-Firebolt cards to remove from the game with Lavamancer. 
+![](http://www.wizards.com/sideboard/images/gpno03/a942.jpg)
+
+Harvey dug into his library with Brainstorms and ended the turn at twelve life points, thanks to Cursed Scroll and a pair of Polluted Deltas he sacrificed. Talim summoned a morph creature – clearly a Blistering Firecat – leaving one mana untapped with an active Grim Lavamancer. Harvey cast Fact or Fiction at the end of that turn, ending up with Thwart and Counterspell over Wonder, Smother and land. Harvey used another Smother to take out Blistering Firecat, but also providing Talim with two non-Firebolt cards to remove from the game with Lavamancer. 
 
 Talim brought Harvey down to eight with Cursed Scroll and then cast the last card in his hand – Volcanic Hammer. Harvey responded by using Accumulated Knowledge to draw two cards and then paying the alternative cast cost to Thwart that spell. He now had three extra cards in hand, but still not enough to win the game in one attack. He sent in Psychatog for one point of damage, despite the fact that he would let Jackal Pup through. Talim was showing only six points of damage on the board instead of the eight he needed, and Harvey would be able to attack for the win next turn. Talim attacked with both of his creatures, used Cursed Scroll to bring Harvey down to three life points and then cast Volcanic Hammer. He knew of Counterspell in Harvey's hand but had no other play. Harvey used a Force Spike to counter it and attacked with lethal 'Tog on his own turn. 
 
-![](http://www.wizards.com/sideboard/images/gpno03/a943.jpg)Despite winning the first game, Harvey offered a draw again, convinced that he would make it into the top 8 with two draws. Down a game, Talim now had to consider the offer a lot more seriously. He asked the judge if he would be allowed to get up and look at the standings, or have someone bring the standings to them, but the judge refused explaining that the two players needed to be playing out their match, and doing anything else, such as tiebreaker math, would be a form of stalling. Talim reluctantly accepted the draw, hoping that a win in the next round would be enough to reach the top 8.
+![](http://www.wizards.com/sideboard/images/gpno03/a943.jpg)
+
+Despite winning the first game, Harvey offered a draw again, convinced that he would make it into the top 8 with two draws. Down a game, Talim now had to consider the offer a lot more seriously. He asked the judge if he would be allowed to get up and look at the standings, or have someone bring the standings to them, but the judge refused explaining that the two players needed to be playing out their match, and doing anything else, such as tiebreaker math, would be a form of stalling. Talim reluctantly accepted the draw, hoping that a win in the next round would be enough to reach the top 8.
 
 **Final Result:** Harvey 1 – Talim 1
 

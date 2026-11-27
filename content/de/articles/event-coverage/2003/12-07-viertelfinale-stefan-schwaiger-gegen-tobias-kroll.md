@@ -44,7 +44,9 @@ archive_source:
   sha256: 2929373b38ae777c5ee4359df6a76c698ccada4faf45acf8cf391308dcc6aae6
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/qf2.jpg)Im Viertelfinale treffen hier zwei deutsche Amateure aufeinander, die sich somit über doppeltes Preisgeld freuen können. Der Sieger dieser Partie trifft entweder auf Hannes Scholz oder Reinhard Blech, so dass ein deutscher Finalist bereits garantiert ist!
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/qf2.jpg)
+
+Im Viertelfinale treffen hier zwei deutsche Amateure aufeinander, die sich somit über doppeltes Preisgeld freuen können. Der Sieger dieser Partie trifft entweder auf Hannes Scholz oder Reinhard Blech, so dass ein deutscher Finalist bereits garantiert ist!
 
 Das Spiel findet in lockerer Atmosphäre statt. Beide Spieler freuen sich über das, was sie bereits erreicht haben, insbesondere über die Qualifikation für Amsterdam.
 

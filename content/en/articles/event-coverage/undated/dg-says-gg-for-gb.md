@@ -54,7 +54,9 @@ render_recovery:
 ---
 ## 2009 Great Britain National Championship
 
-![](https://i.ormos.uk/c9/d3/c9d3b8a0eff1177d7b07ea1828d84db68899a962893d840df64fa631e70b7425.jpg)And so we've reached the end of the line. With Great Britain Nationals coming at the end of the season, it looked as if there might not be much room for innovative deckbuilding. Perhaps Limited would hold the key to the title? Not so, as the hard work of Dan Gardner paid the highest of dividends. After twelve rounds of Swiss action, he bested Mark Glenister, Mick Edwards, and finally Chris Rossiter, to take the title. He's joined on the official GB Team by Rossiter and Peter Mottram, who defeated Edwards in the 3rd/4th Playoff. Edwards' consolation prize is a spot in the Worlds starting lineup. Congratulations to Edwards, Mottram, Rossiter, and of course to Dan Gardner, the Great Britain Champion of 2009!
+![](https://i.ormos.uk/c9/d3/c9d3b8a0eff1177d7b07ea1828d84db68899a962893d840df64fa631e70b7425.jpg)
+
+And so we've reached the end of the line. With Great Britain Nationals coming at the end of the season, it looked as if there might not be much room for innovative deckbuilding. Perhaps Limited would hold the key to the title? Not so, as the hard work of Dan Gardner paid the highest of dividends. After twelve rounds of Swiss action, he bested Mark Glenister, Mick Edwards, and finally Chris Rossiter, to take the title. He's joined on the official GB Team by Rossiter and Peter Mottram, who defeated Edwards in the 3rd/4th Playoff. Edwards' consolation prize is a spot in the Worlds starting lineup. Congratulations to Edwards, Mottram, Rossiter, and of course to Dan Gardner, the Great Britain Champion of 2009!
 
 ## TOP 8 BRACKET
 

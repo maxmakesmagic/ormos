@@ -83,7 +83,9 @@ render_recovery:
   - Anurid Murkdiver
   occurrences: 33
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a970.jpg)Among men who don't need introductions, Budde and Mowshowitz are near the top of the list. Virtual household names, their résumés speak volumes about their skill. These two giants sat next to each other in the first draft, with Budde feeding Mowshowitz. Unfortunately for him, Mowshowitz cracked some hits and was give the hookup of two Cruel Revivals in the second pack. His black-red deck is very good. Budde is running a mostly-green elf deck, backed by some seriously big butts.
+![](http://www.wizards.com/sideboard/images/ptyok03/a970.jpg)
+
+Among men who don't need introductions, Budde and Mowshowitz are near the top of the list. Virtual household names, their résumés speak volumes about their skill. These two giants sat next to each other in the first draft, with Budde feeding Mowshowitz. Unfortunately for him, Mowshowitz cracked some hits and was give the hookup of two Cruel Revivals in the second pack. His black-red deck is very good. Budde is running a mostly-green elf deck, backed by some seriously big butts.
 
 ### Game 1
 
@@ -93,7 +95,9 @@ Budde's Rangers and Strider helped power out Spitting Gourna on turn four. Mowsh
 
 He smashed in with his two biggies, dropping Mowshowitz to nine. Mowshowitz hit back for two and sat on his mana. Budde brought the noise again. This time Mowshowitz chumped the Needleshot with the Sledder and doubled up on the Spitting Gourna with Withered Wretch and Prelate. Budde let damage go on the stack and rescued his Gourna with Primal Boost. Mowshowitz saved the Prelate with Sledder. 
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a968.jpg)On his turn Mowshowitz assassinated the Needleshot with the Prelate. Budde sent the Gourna and earned a chump block from Sparksmith, who took down the Rangers on his way out. He added Wirewood Hivemaster and a morph to the table. Mowshowitz hit the Gourna with Pinpoint Avalanche and was done. Budde drew Treespring Lorian and put it into play. Mowshowitz dropped his seventh land and started tapping. Budde just shook his head.
+![](http://www.wizards.com/sideboard/images/ptyok03/a968.jpg)
+
+On his turn Mowshowitz assassinated the Needleshot with the Prelate. Budde sent the Gourna and earned a chump block from Sparksmith, who took down the Rangers on his way out. He added Wirewood Hivemaster and a morph to the table. Mowshowitz hit the Gourna with Pinpoint Avalanche and was done. Budde drew Treespring Lorian and put it into play. Mowshowitz dropped his seventh land and started tapping. Budde just shook his head.
 
 "The Dragon." – Kai Budde.
 

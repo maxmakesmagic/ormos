@@ -86,7 +86,9 @@ render_recovery:
   - Pacifism
   occurrences: 54
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a969.jpg)The penultimate round of the Masters Gateway tournament pit Peter Szigeti against Kamiel Cornelissen, two players notorious for their distinctive playstyles. Kamiel is quiet and reserved, and his "cautious" play style inspired the institution of time limits at this year's invitational. PTR is anything but reserved, having drawn more attention for his antics than for his tournament results. Both players are certainly drawing notice for their play today, however, as the winner of this match stands only one round away from a Masters berth. 
+![](http://www.wizards.com/sideboard/images/pthou02/a969.jpg)
+
+The penultimate round of the Masters Gateway tournament pit Peter Szigeti against Kamiel Cornelissen, two players notorious for their distinctive playstyles. Kamiel is quiet and reserved, and his "cautious" play style inspired the institution of time limits at this year's invitational. PTR is anything but reserved, having drawn more attention for his antics than for his tournament results. Both players are certainly drawing notice for their play today, however, as the winner of this match stands only one round away from a Masters berth. 
 
 Peter wins the die roll and chooses to play first in Game 1. The game starts as so many do in this format, with morph creatures staring each other down on turn three. Peter plays a land and attacks with his, sending Kamiel to eighteen, and furthers his board position with a Screeching Buzzard. Kamiel sends back, and Peter chooses not to block – a dangerous proposition against an opponent with mountains – but Kamiel's morph creature apparently isn't a Skirk Commando, as the Dutchman merely plays another man face down. Peter sends both of his creatures on his turn, and when Kamiel chooses not to block, flips over Fallen Cleric, sending to twelve.
 

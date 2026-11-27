@@ -44,7 +44,9 @@ archive_source:
   sha256: 9dee897ab611b478c82b617a1a63b18c3c710342e6890f8ff08a0d64e8565855
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fin1_1.jpg)The tournament has been all Domingo Ottati's so far. The young Italian player finished day one at the top of the standings. The first points he dropped was a draw in round 13 that guaranteed to put him into the top 8. Now one match is all that's stands between him taking the whole title. Florian Pils of Germany might have something to say about that though. Despite the dominance of Affinity, once again - as in Zurich - it is blue-green control versus [Tooth and Nail](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fin1_1.jpg)
+
+The tournament has been all Domingo Ottati's so far. The young Italian player finished day one at the top of the standings. The first points he dropped was a draw in round 13 that guaranteed to put him into the top 8. Now one match is all that's stands between him taking the whole title. Florian Pils of Germany might have something to say about that though. Despite the dominance of Affinity, once again - as in Zurich - it is blue-green control versus [Tooth and Nail](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail).
 
 Ottati went first and nothing happened for the first few turns as both players laid out lands. Pils went for a [Solemn Simulacrum](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solemn+Simulacrum) on turn 4, only for it to run foul of a [Condescend](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Condescend). A second [Serum Visions](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serum+Visions) gave Ottati control over his card quality.
 

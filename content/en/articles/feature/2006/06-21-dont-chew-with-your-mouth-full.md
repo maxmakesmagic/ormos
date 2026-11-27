@@ -77,7 +77,9 @@ archive_source:
   sha256: 982fc554fc88bff5671d2046f4decdeb53cd41396fea0cff708c456b80b3459c
 render_recovery: []
 ---
-![](https://i.ormos.uk/98/ad/98ad168ae3f6129b2e39d5079d1bf5933b39c3d0137d02f73994194429665aa3.jpg)I received an email this week that suggested an article topic that I probably should have addressed long ago. But it is better late than never. The email, from Thiago Miranda, asked these questions before going on to ask that I write an article on the subject:
+![](https://i.ormos.uk/98/ad/98ad168ae3f6129b2e39d5079d1bf5933b39c3d0137d02f73994194429665aa3.jpg)
+
+I received an email this week that suggested an article topic that I probably should have addressed long ago. But it is better late than never. The email, from Thiago Miranda, asked these questions before going on to ask that I write an article on the subject:
 
 1.  What is the etiquette for getting your cards signed at **Magic** events or Gaming/Comic Book conventions? That is:
 

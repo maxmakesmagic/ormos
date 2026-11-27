@@ -599,7 +599,9 @@ render_recovery:
 ---
 ### Player of the Year Race - Gabriel Nassif
 
-![](https://i.ormos.uk/57/b8/57b8e2d23a0fdff3a51eb6a456f9154aeb77673627ccc47f982a5de08b7db35a.jpg)If there is one player in the world who has been consistently proving himself in constructed events in recent years, it is Gabriel Nassif.
+![](https://i.ormos.uk/57/b8/57b8e2d23a0fdff3a51eb6a456f9154aeb77673627ccc47f982a5de08b7db35a.jpg)
+
+If there is one player in the world who has been consistently proving himself in constructed events in recent years, it is Gabriel Nassif.
 
 The Frenchman first started his run at Pro Tour-Venice in 2003, where he played an *Onslaught* block Goblins deck to a fifth-place finish. At the next constructed event (Pro Tour-New Orleans), he piloted "The Clock" all the way to the finals before falling to Rickard Österberg and his Tinker deck. Then in Kobe, he made it three in a row with another finals appearance bearing a deck of his own design. The central card? A certain seven-mana sorcery that almost all the other players had dismissed: Tooth and Nail.
 

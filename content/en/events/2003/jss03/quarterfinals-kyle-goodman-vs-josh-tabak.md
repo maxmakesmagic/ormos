@@ -99,7 +99,9 @@ render_recovery:
   - Threaten
   occurrences: 107
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a721.jpg)Josh is no stranger to the Feature Match tables, but neither player has seen Feature Match tables like this. There are lights and cameras everywhere, and both players comment on the theme music that played before the match. But if they're nervous, it sure isn't showing as the players shuffle their cards.
+![](http://www.wizards.com/sideboard/images/natus03/a721.jpg)
+
+Josh is no stranger to the Feature Match tables, but neither player has seen Feature Match tables like this. There are lights and cameras everywhere, and both players comment on the theme music that played before the match. But if they're nervous, it sure isn't showing as the players shuffle their cards.
 
 ### Game 1
 
@@ -117,7 +119,9 @@ Kyle played a face-down morph, which promptly was forced to block an attacking W
 
 Kyle attacked with his Exalted Angel, then cast a Cartographer to return a Forgotten Cave to his hand. He then cycled away the Cave, removing Cartographer and Exalted Angel from the game. And, when the Cartographer came back, Kyle returned a Secluded Steppe to his hand. 
 
-![](http://www.wizards.com/sideboard/images/natus03/a723.jpg)Josh attacked with all his creatures – 2 Wild Mongrels, Llanowar Elf, and an Elephant token from Call of the Herd. Kyle blocked the Elephant with the Angel and the Wild Mongrel with the Cartographer, then cycled away the Steppe and removed the Angel and the Cartographer from the game. Kyle's life total fell to 7.
+![](http://www.wizards.com/sideboard/images/natus03/a723.jpg)
+
+Josh attacked with all his creatures – 2 Wild Mongrels, Llanowar Elf, and an Elephant token from Call of the Herd. Kyle blocked the Elephant with the Angel and the Wild Mongrel with the Cartographer, then cycled away the Steppe and removed the Angel and the Cartographer from the game. Kyle's life total fell to 7.
 
 Kyle attacked with the Cartographer and the Angel, taking Josh to a perilous 8 life. Kyle then played a Teroh's Faithful to go back up to 15 life, and played and sacrificed a Wooded Foothills. With one more mountain on the table, he must have felt much more confident. He cycled away the Secluded Steppe again to remove his creatures, then returned Forgotten Cave to his hand at the end of the turn.
 
@@ -131,7 +135,9 @@ Josh Tabak 0 – Kyle Goodman 1
 
 Josh led this game with a Mountain and a Grim Lavamancer. He attacked on his second turn, but did not follow it up with a second-turn play (such as a Wild Mongrel). Kyle, meanwhile, was simply playing more lands – he ended his second turn with a plains, a mountain, and a Lightning Rift in play. 
 
-![](http://www.wizards.com/sideboard/images/natus03/a708.jpg)Josh attacked with the Lavamancer again and then cast a Volcanic Hammer at Kyle, who went down to 14. Kyle then cycled away a Slice and Dice to slay the Lavamancer. Josh kept the offense going, though, with a Violent Eruption at Kyle's head, taking him to 10 life.
+![](http://www.wizards.com/sideboard/images/natus03/a708.jpg)
+
+Josh attacked with the Lavamancer again and then cast a Volcanic Hammer at Kyle, who went down to 14. Kyle then cycled away a Slice and Dice to slay the Lavamancer. Josh kept the offense going, though, with a Violent Eruption at Kyle's head, taking him to 10 life.
 
 "You don't have anything?" Kyle asked as he cycled away Krosan Tusker, dealt two points of damage, got a forest, and drew a card. Somehow, that felt like cheating, even though all plays were perfectly legal. Josh shook his head and kept throwing burn at Kyle's face, following up his previous Violent Eruption with another. 
 

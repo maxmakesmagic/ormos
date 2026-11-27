@@ -145,7 +145,9 @@ L’extension *Mirrodin*TM introduit des cartes de **Magic**® inédites: Les ca
 
 Les Artefacts qui sont aussi des “Equipements” sont une catégorie spécifique d’Artefacts. Généralement, un Equipement ne produit aucun effet avant d’âtre attaché à une créature. Les Equipement fonctionne à peu près de la même manière que les enchantements, mais ils présentent tout de même quelques différences importantes. Les plus grandes différences sont (1) qu’un Equipement n’équipe rien quand il arrive en jeu et (2) que l’Equipement reste en jeu quand la créature qu’il équipe quitte le jeu.
 
-![Loxodon Warhammer](https://i.ormos.uk/4f/c4/4fc4e71929b6db851b3d88f66972abfa50131f828031d705b9f613a191d3b4de.jpg "Loxodon Warhammer")Voici un exemple d’Equipement : La Marteau de Guerre Loxodon. Notez que le sous-type de la carte est “Equipement”. Vous pouvez donc utiliser cette capacité pour attacher l’Equipement à des créatures.
+![Loxodon Warhammer](https://i.ormos.uk/4f/c4/4fc4e71929b6db851b3d88f66972abfa50131f828031d705b9f613a191d3b4de.jpg "Loxodon Warhammer")
+
+Voici un exemple d’Equipement : La Marteau de Guerre Loxodon. Notez que le sous-type de la carte est “Equipement”. Vous pouvez donc utiliser cette capacité pour attacher l’Equipement à des créatures.
 
 La capacité d’Equipement est simple. Elle ne peut cibler qu’une créature que vous contrôlez. C’est valable aussi si la carte équipe une créature que votre adversaire contrôle (comme par exemple lorsque votre adversaire joue une Confiscate sur votre créature équipée : l’Equipement et ses capacité restent en votre contrôle, pas la créature), mais vous ne pouvez pas cibler une créature contrôlée par l’adversaire avec cette capacité d’équipement. De plus, vous ne pouvez jouer cette capacité qu’au moment où vous pourriez jouer un Rituel. 
 

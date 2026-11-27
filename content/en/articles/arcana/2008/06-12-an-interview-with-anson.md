@@ -101,7 +101,9 @@ Yes, that's how it was originally, and it was really exciting to him, I think. H
 
 *How is collectable cad game art different from book illustrations paintings? What makes it different, other than its smaller size?*
 
-![Anson Maddocks](https://i.ormos.uk/97/90/97904ada5aadff04ad4b38a1c61282c6a83f30c4ad6b027052c1d18ab79bab0d.jpg)That's actually a major factor right here. Since books and paintings are larger, you have to put a bit more care into them. (Don't tell Jesper that.) What I mean is that the **Magic** card is going to be reduced so much from the original. You kind of have a sense of what's going to be lost in the reduction, so you know where you can take liberties, where you can leave spaces a little rougher than you would on something that you know is going to be sent at actual size. That's why I am a little hesitant to sell the originals for **Magic**; some of them I just don't like the looks of at actual size.
+![Anson Maddocks](https://i.ormos.uk/97/90/97904ada5aadff04ad4b38a1c61282c6a83f30c4ad6b027052c1d18ab79bab0d.jpg)
+
+That's actually a major factor right here. Since books and paintings are larger, you have to put a bit more care into them. (Don't tell Jesper that.) What I mean is that the **Magic** card is going to be reduced so much from the original. You kind of have a sense of what's going to be lost in the reduction, so you know where you can take liberties, where you can leave spaces a little rougher than you would on something that you know is going to be sent at actual size. That's why I am a little hesitant to sell the originals for **Magic**; some of them I just don't like the looks of at actual size.
 
 *Is fantasy your genre, generally? What other types of things do you work on?*
 
@@ -141,7 +143,9 @@ No, it never works. It ends up flattening out the entire piece if you have every
 
 *Do you know when you've struck that balance?*
 
-![A page of the interview, featuring early sketches for the Hurloon Minotaur](https://i.ormos.uk/40/f0/40f05d909f0be5b7086a1244998b85735717c3d86201646c2bc29d5c759fe2b7.jpg)I usually notice it in a sketch. Because I look at a sketch as just that; I never try to refine it, or make it more than it was to begin with. So usually I'll make a sketch and then look at it and say 'Wow, I got the idea across that I wanted to, I focused on what I wanted to.' That's the beauty of a sketch; it's very raw, and it defines what it needs to define. If I work on a piece for too long, then I tend to flatten it out to excess.
+![A page of the interview, featuring early sketches for the Hurloon Minotaur](https://i.ormos.uk/40/f0/40f05d909f0be5b7086a1244998b85735717c3d86201646c2bc29d5c759fe2b7.jpg)
+
+I usually notice it in a sketch. Because I look at a sketch as just that; I never try to refine it, or make it more than it was to begin with. So usually I'll make a sketch and then look at it and say 'Wow, I got the idea across that I wanted to, I focused on what I wanted to.' That's the beauty of a sketch; it's very raw, and it defines what it needs to define. If I work on a piece for too long, then I tend to flatten it out to excess.
 
 *How do you work? How fast?*
 
@@ -199,7 +203,9 @@ Yes. Making artistic or moralistic sacrifices--I think about that a lot. A lot o
 
 *What's the worst thing that's ever happened to your art? (Groan.) Have people taken your work and done dastardly deeds?*
 
-![Jester](https://i.ormos.uk/a2/b3/a2b336a08075e56f372e2b103ca80aecc81af5f273532b2997a63bbf4c9ce53d.jpg)I had a piece in Lolapalusa (*Jester, originally pictured on the center spread of the magazine, now positioned to the right of this paragraph*) which someone climbed up to get on top of a fence. So there are black shoe marks on it which I had to paint over because they wouldn't come out. I had a piece stolen from The Center On Contemporary Arts; that was sort of a back-handed compliment, I guess. Actually I'd like it back. There are some pieces...the people who brought them were so strange I don't know that I'd want to know what happened to them.
+![Jester](https://i.ormos.uk/a2/b3/a2b336a08075e56f372e2b103ca80aecc81af5f273532b2997a63bbf4c9ce53d.jpg)
+
+I had a piece in Lolapalusa (*Jester, originally pictured on the center spread of the magazine, now positioned to the right of this paragraph*) which someone climbed up to get on top of a fence. So there are black shoe marks on it which I had to paint over because they wouldn't come out. I had a piece stolen from The Center On Contemporary Arts; that was sort of a back-handed compliment, I guess. Actually I'd like it back. There are some pieces...the people who brought them were so strange I don't know that I'd want to know what happened to them.
 
 *Do you keep a lot of your art for yourself?*
 

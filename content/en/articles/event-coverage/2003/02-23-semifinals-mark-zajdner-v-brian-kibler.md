@@ -50,7 +50,9 @@ Before the match started, Kibler declared that he would not lose to Dragons… i
 
 ### Game One:
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a878.jpg)Kibler went first, and both players kept their hands.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a878.jpg)
+
+Kibler went first, and both players kept their hands.
 
 Kibler got a quick start, and hit [Whipcorder](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whipcorder) on turn two.
 
@@ -78,7 +80,9 @@ Seeing that the board was slipping away, and that his life was at a precarious s
 
 On the last turn of the game, Brian tapped two of Mark’s fliers, but had nothing to say about the [Sage Aven](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sage+Aven).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a879.jpg)“I WILL NOT lose to Dragons!” exclaimed Kibler.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a879.jpg)
+
+“I WILL NOT lose to Dragons!” exclaimed Kibler.
 
 “Actually,” I commented, “you lost *that* game to [Sage Aven](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sage+Aven).”
 
@@ -120,7 +124,9 @@ Zajdner opened up game three with a [Goblin Taskmaster](https://web.archive.org/
 
 Kibler got a second turn [Whipcorder](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whipcorder), and was obviously unwilling to trade with Zajdner’s one-drop goblin.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a884.jpg)Zajdner started to pull way ahead on the board with a morph, his [Flamewave Invoker](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamewave+Invoker), and a [Mistform Seaswift](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Seaswift) one after another.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a884.jpg)
+
+Zajdner started to pull way ahead on the board with a morph, his [Flamewave Invoker](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamewave+Invoker), and a [Mistform Seaswift](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Seaswift) one after another.
 
 Kibler, though behind numerically, had the advantage in quality with his [Whipcorder](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whipcorder) and a [Daru Stinger](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Stinger) who had revealed [Wingbeat Warrior](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wingbeat+Warrior) and [Gustcloak Sentinel](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Sentinel).
 

@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-[![Dissension](https://i.ormos.uk/cc/f0/ccf066f28be2c9f3ff4c1005c25213e595cf50560277f5f1cb1620864f97dcbc.jpg "Dissension")](https://web.archive.org/web/20080622180628/http://www.wizards.com/default.asp?x=magic/dissension/home)On Monday, *Dissension* previews hit **magicthegathering.com** like a ton of info-crammed, preview-riffic, excitedly-written bricks.
+[![Dissension](https://i.ormos.uk/cc/f0/ccf066f28be2c9f3ff4c1005c25213e595cf50560277f5f1cb1620864f97dcbc.jpg "Dissension")](https://web.archive.org/web/20080622180628/http://www.wizards.com/default.asp?x=magic/dissension/home)
+
+On Monday, *Dissension* previews hit **magicthegathering.com** like a ton of info-crammed, preview-riffic, excitedly-written bricks.
 
 We're **magicthegathering.com**. We have very special bricks here.
 

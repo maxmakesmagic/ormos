@@ -117,7 +117,9 @@ render_recovery:
   - Trickery Charm
   occurrences: 112
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a734.jpg)Nicolai Herzog hasn't been to the Top 8 since Worlds 1999, but he lost in the final round with a trip to Sunday on the line three times since then. For Derek Bruneau, this is an entirely new experience. In just his very first Pro Tour, Bruneau finds himself playing one match to earn the right to be in the Top 8- an achievement many players spend their whole careers aiming for, and never realize. 
+![](http://www.wizards.com/sideboard/images/ptchi03/a734.jpg)
+
+Nicolai Herzog hasn't been to the Top 8 since Worlds 1999, but he lost in the final round with a trip to Sunday on the line three times since then. For Derek Bruneau, this is an entirely new experience. In just his very first Pro Tour, Bruneau finds himself playing one match to earn the right to be in the Top 8- an achievement many players spend their whole careers aiming for, and never realize. 
 
 Gary Wise mentioned from the crowd "This is the monster red-blue versus the monster red-blue. Both decks are insane."
 
@@ -131,7 +133,9 @@ Both players opened with Imagecrafters. Bruneau played a turn three morph creatu
 
 Bruneau played a second turn Aphetto Alchemist, followed by Goblin Sharpshooter. Erratic Explosion took down the Sharpshooter, as Herzog flipped over Aven Fateshaper. Seven damage makes for one dead Goblin. Bruneau's Ascending Aven died to another Explosion, but he kept the pressure on with Mistform Dreamer, while Herzog cycled Slipstream Eel and Mage's Guile. Bruneau summoned a morph creature, and Herzog made an Ascending Aven. Faceless One flipped over on Bruneau's side to provide a little more pressure, and Herzog cast Slice and Dice to wipe out the board. On the following turn Herzog played two morph creatures, and Bruneau Shocked each (Ascending Aven and Charging Slateback). Herzog wasn't out of gas, and came right back with Mistform Wall and Sparksmith. 
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a736.jpg)Bruneau's own Mistform Wall was shot by Sparksmith, and Lavamancer's Skill on the Wall looked to finish the job, but Bruneau had Meddle to switch the target to his Wall. The crowd gasped at this tremendous play, but Herzog seemed unconcerned and asked "You only played that Wall last turn right?" He calmly played a *second* Skill on his Wall, and took care of Bruneau's Wall that had just been enchanted with the stolen Skill. Bruneau summoned Riptide Shapeshifter, and Herzog shot it down. It was sacrificed in response naming Goblin, and pulled up a Sparksmith. Essence Fracture bounced back Herzog's Skilled Wall and Sparksmith, and suddenly Bruneau was back in the game. It's interesting to note that the Essence Fracture over Pinpoint Avalanche pick Bruneau made during the draft was mocked, but the Avalanche wouldn't have gotten him out of the situation, while Essence Fracture did. Regardless, Herzog had Pinpoint Avalanche to take out the Sparksmith and easily won the game from that point.
+![](http://www.wizards.com/sideboard/images/ptchi03/a736.jpg)
+
+Bruneau's own Mistform Wall was shot by Sparksmith, and Lavamancer's Skill on the Wall looked to finish the job, but Bruneau had Meddle to switch the target to his Wall. The crowd gasped at this tremendous play, but Herzog seemed unconcerned and asked "You only played that Wall last turn right?" He calmly played a *second* Skill on his Wall, and took care of Bruneau's Wall that had just been enchanted with the stolen Skill. Bruneau summoned Riptide Shapeshifter, and Herzog shot it down. It was sacrificed in response naming Goblin, and pulled up a Sparksmith. Essence Fracture bounced back Herzog's Skilled Wall and Sparksmith, and suddenly Bruneau was back in the game. It's interesting to note that the Essence Fracture over Pinpoint Avalanche pick Bruneau made during the draft was mocked, but the Avalanche wouldn't have gotten him out of the situation, while Essence Fracture did. Regardless, Herzog had Pinpoint Avalanche to take out the Sparksmith and easily won the game from that point.
 
 **Final Result:** Herzog- 2 Bruneau- 0 
 

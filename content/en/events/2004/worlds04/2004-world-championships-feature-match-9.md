@@ -1016,7 +1016,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/6d/6e/6d6ee2f0a10f098ce18f44b89f11a20ed2b86f85bfe80e742270874471e4794e.jpg)The Belgians sat down at this draft table after a heartbreaking loss to Germany in the previous round. Win and they were in the finals; lose and they could finish as low as fifth. The Danish situation was similar, although a finals appearance would require a Japanese victory as well a victory and a loss could mean a disastrous ninth place. Both teams seemed comfortable with drafting at this point on the day, though had slightly different strategies. The Danish seemed to divide responsibility evenly throughout the team, while the Belgians often relied heavily on Geoffrey Siron to decide the picks.
+![](https://i.ormos.uk/6d/6e/6d6ee2f0a10f098ce18f44b89f11a20ed2b86f85bfe80e742270874471e4794e.jpg)
+
+The Belgians sat down at this draft table after a heartbreaking loss to Germany in the previous round. Win and they were in the finals; lose and they could finish as low as fifth. The Danish situation was similar, although a finals appearance would require a Japanese victory as well a victory and a loss could mean a disastrous ninth place. Both teams seemed comfortable with drafting at this point on the day, though had slightly different strategies. The Danish seemed to divide responsibility evenly throughout the team, while the Belgians often relied heavily on Geoffrey Siron to decide the picks.
 
 ### Pack One - *Mirrodin*
 

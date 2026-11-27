@@ -137,7 +137,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/bigcup02/962.jpg)先攻の藤田が《古き泉/Ancient Spring》、大塚が《日を浴びるルートワラ/Basking Rootwalla》という切り出し。
+![](http://www.wizards.com/sideboard/images/bigcup02/962.jpg)
+
+先攻の藤田が《古き泉/Ancient Spring》、大塚が《日を浴びるルートワラ/Basking Rootwalla》という切り出し。
 
 大塚の《熊人間/Werebear》を《対抗呪文/Counterspell》し、そのまま藤田は手札に唸る《夜景学院の使い魔》を展開したいところだが肝心の黒マナがない。  
  意を決して《古き泉》を使い《夜景学院の使い魔》《行き詰まり/Standstill》と防御体制を築く。  
@@ -156,7 +158,9 @@ render_recovery:
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/bigcup02/963.jpg)藤田が第 2 ターン《夜景学院の使い魔》から、遅れて大塚 4 ターン目に《マーフォークの物あさり》。
+![](http://www.wizards.com/sideboard/images/bigcup02/963.jpg)
+
+藤田が第 2 ターン《夜景学院の使い魔》から、遅れて大塚 4 ターン目に《マーフォークの物あさり》。
 
 藤田が《嘘か真か》2 枚の《行き詰まり》と強引に進むのを大塚は必死に抵抗するが、結局《行き詰まり》は成就する。
 

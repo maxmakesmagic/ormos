@@ -57,7 +57,9 @@ Before the match, both Jon and Tim discuss the other matches in their draft. The
 
 ### Game One
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a877.jpg)Jon decided to play first. He led with a Mountain and a Leonin Scimitar. Tim, unfazed, played a Mountain and a Viridian Longbow. Jon's first creature of the game was a Copper Myr, and Tim countered with a Silver Myr of his own. Jon played another forest and pondered his options, and finally played a Viridian Shaman to kill Tim's Myr creature. Jon attacked with his Myr to bring Tim to 19, and passed the turn. Tim's next play was a Neurok Spy, looking lonesome out there by itself. Jon equipped the Myr with the Scimitar and attacked, and Tim declined to block, going to 15. Jon playe an Elf Replica and passed the turn.
+![](http://www.wizards.com/sideboard/images/gpkc03/a877.jpg)
+
+Jon decided to play first. He led with a Mountain and a Leonin Scimitar. Tim, unfazed, played a Mountain and a Viridian Longbow. Jon's first creature of the game was a Copper Myr, and Tim countered with a Silver Myr of his own. Jon played another forest and pondered his options, and finally played a Viridian Shaman to kill Tim's Myr creature. Jon attacked with his Myr to bring Tim to 19, and passed the turn. Tim's next play was a Neurok Spy, looking lonesome out there by itself. Jon equipped the Myr with the Scimitar and attacked, and Tim declined to block, going to 15. Jon playe an Elf Replica and passed the turn.
 
 Tim attacked back with his Neurok Spy and rounded out his turn with a Spikeshot Goblin. On Jon's turn, the intrepid Sonne tapped everything (including his Myr) to play a Triskelion. He removed two counters to kill he Spikeshot Goblin before Tim could activate it, and swung with his creatures, bringing Tim to 11. Tim, for his part, swung with his Spy again and played a Cobalt Golem. Jon drew his card and thought, but after a short period of consideration, sent all his dudes into the Red Zone.
 

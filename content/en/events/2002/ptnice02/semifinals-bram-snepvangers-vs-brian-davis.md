@@ -96,7 +96,9 @@ render_recovery:
   - Savage Firecat
   occurrences: 118
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a678.jpg)This is a first Pro Tour top 8 for Bram Snepvangers but he has already made Tour history by defeating Kai Budde on Sunday. Now he wants to see just how far he can take it. Davis is hoping to match or outdo his performance at Pro Tour-Chicago 1999 where he lost to Bob Maher in the final match.
+![](http://www.wizards.com/sideboard/images/ptnice02/a678.jpg)
+
+This is a first Pro Tour top 8 for Bram Snepvangers but he has already made Tour history by defeating Kai Budde on Sunday. Now he wants to see just how far he can take it. Davis is hoping to match or outdo his performance at Pro Tour-Chicago 1999 where he lost to Bob Maher in the final match.
 
 ### Game 1
 
@@ -155,7 +157,9 @@ Snepvangers made sure he would not be taking any combat damage early by playing 
 
 Snepvangers enchanted one of his Walls with Psionic Gift, taking out the Healer. The two Tims could now race against each other. This went on for many turns, with occasional extra creatures entering play to muddy up the waters even further. Finally, Snepvangers made his move, casting Ghastly Demise on the Chainflinger. 
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a674.jpg)"There goes the game, boys" commented Davis, who did not have a Shelter in hand. Aven Flock was very helpful at holding off Snepvanger's flyers, but Psionic Gift was doing its job, one point at the time. Davis cast another "Tim" of sorts – Stern Judge. Snepvangers had one Swamp in play, so the Judge could match Psionic Gift damage for damage. Snepvangers had many more creatures in play at this point but Davis could buy time with Hypochondria, so the game remained as complicated as ever. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a674.jpg)
+
+"There goes the game, boys" commented Davis, who did not have a Shelter in hand. Aven Flock was very helpful at holding off Snepvanger's flyers, but Psionic Gift was doing its job, one point at the time. Davis cast another "Tim" of sorts – Stern Judge. Snepvangers had one Swamp in play, so the Judge could match Psionic Gift damage for damage. Snepvangers had many more creatures in play at this point but Davis could buy time with Hypochondria, so the game remained as complicated as ever. 
 
 After a few more turns, Snepvangers cast Aven Cloudchaser. Both players realized that both of their annoying enchantments would be going away – Davis would sacrifice Hypochondria in response and force the Cloudchaser ability to destroy the only enchantment remaining in play – Psionic Gift. Snepvangers's numerous creatures were far more of a threat now that the super Healing Salve generator was out of the equation.  
  Snepvangers attacked with four flyers and a Psychatog, leaving back just a pair of Walls. Davis blocked a Cloudchaser with Aven Flock and threw several creatures in front of Psychatog. Snepvangers discarded several cards and removed almost his entire graveyard from the game to kill the blockers, and used Embolden to make sure he'd lose no creatures. Suddenly, the game was swinging heavily in his favor.

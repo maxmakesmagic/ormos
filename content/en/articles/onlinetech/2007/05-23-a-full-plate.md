@@ -1171,7 +1171,9 @@ render_recovery:
 ---
 * * *
 
-![Overwhelm](http://wizards.com/magic/images/cardart/RAV/Overwhelm.jpg)Welcome back to Online Tech! Today I have a lot of different topics in store for you. I will start by covering the online Tribal Wars 4x Premier Event. Then I will zoom in on Standard, show a new blue-red storm deck, and talk about the impact of *Future Sight* on Standard. I will also discuss my [Grand Prix–Strasbourg](/en/events/2007/gpstra07/saitou-seizes-strasbourg) experience shortly. And I'll finish by announcing the *Future Sight* release events on **Magic Online** and the associated new Vanguard avatars. 
+![Overwhelm](http://wizards.com/magic/images/cardart/RAV/Overwhelm.jpg)
+
+Welcome back to Online Tech! Today I have a lot of different topics in store for you. I will start by covering the online Tribal Wars 4x Premier Event. Then I will zoom in on Standard, show a new blue-red storm deck, and talk about the impact of *Future Sight* on Standard. I will also discuss my [Grand Prix–Strasbourg](/en/events/2007/gpstra07/saitou-seizes-strasbourg) experience shortly. And I'll finish by announcing the *Future Sight* release events on **Magic Online** and the associated new Vanguard avatars. 
 
 ### Tribal Wars 4x Open Premier Event
 
@@ -1209,7 +1211,9 @@ The latest new Standard tech (good for 7%) is blue-red and plays Seething Song, 
 
 We've seen Empty the Warrens / Ignite Memories storm decks before, but they used to be red-black. Instead of Dark Confidant and Infernal Tutor, we now have a new deck that has Hatching Plans and Perilous Research. Obviously a nice combo that will get you closer to the Rite of Flames you need for a high storm count. Perilous Research also works well with Chromatic Star (sacrifice it to draw a card). Hatching Plans also works well with Claws of Gix (as it gives you another sac outlet). It's a lot of nice little synergies. All of these cards have very low mana costs, so they can easily jack up the storm count, especially when a Locket of Yesterdays is in play.
 
-![Hatching Plans and Perilous Research](http://wizards.com/magic/images/mtgcom/fcpics/online/fk40_cardfan.jpg)The above list runs just 16 lands, which seems a bit on the low side, and I have my doubts about the consistency of the deck. At some point you will get draws where you get infinite Hatching Plans without a way to sacrifice it, or you have to start sacrificing lands to Perilous Research. But I admit that if it works, you can get insanely big and fun turns, and you can easily make 10 Ignite Memories copies in one turn. The advantage of this deck over Dragonstorm is that it's better versus the hate; instead of having to go all-in on one big turn you can distribute your key cards over various turns. Turn-four Empty the Warrens for four, turn-five Ignite Memories for a couple, then turn six another Empty the Warrens is not an uncommon sight with the amount of card draw in this deck. I don't think the deck breaks the format by any means (yet...), but it is a fine choice if rogue decks are your thing.
+![Hatching Plans and Perilous Research](http://wizards.com/magic/images/mtgcom/fcpics/online/fk40_cardfan.jpg)
+
+The above list runs just 16 lands, which seems a bit on the low side, and I have my doubts about the consistency of the deck. At some point you will get draws where you get infinite Hatching Plans without a way to sacrifice it, or you have to start sacrificing lands to Perilous Research. But I admit that if it works, you can get insanely big and fun turns, and you can easily make 10 Ignite Memories copies in one turn. The advantage of this deck over Dragonstorm is that it's better versus the hate; instead of having to go all-in on one big turn you can distribute your key cards over various turns. Turn-four Empty the Warrens for four, turn-five Ignite Memories for a couple, then turn six another Empty the Warrens is not an uncommon sight with the amount of card draw in this deck. I don't think the deck breaks the format by any means (yet...), but it is a fine choice if rogue decks are your thing.
 
 ### What does *Future Sight* bring to Standard?
 
@@ -1239,7 +1243,9 @@ Another interesting story is Tomoharu Saito. He was lamenting his deck choice du
 
 ### Magic Online *Future Sight* Release Events
 
-![Magus_of_the_Future](http://wizards.com/magic/images/cardart/FUT/Magus_of_the_Future.jpg)On Tuesday, May 29 at 9:00 a.m. Pacific, *Future Sight* goes on sale in the **Magic Online** store. *Future Sight* becomes legal in all online Constructed formats the day it goes on sale, so all casual rooms and Constructed queues will use Future Sight starting that date. Constructed Premier events, however, will not run until Tuesday, June 12 and will use *Future Sight* starting on that date. *Future Sight* draft queues (TPF as well as FFF) begin on Tuesday, June 5, at 10:00 a.m. *Future Sight* Release events begin Thursday, May 31, and will last until Monday, June 11. Detailed information is posted [here](/en/articles/feature/2007/05-10-future-sight-release-events), but let me just quickly highlight the different kind of tournaments you can enter. 
+![Magus_of_the_Future](http://wizards.com/magic/images/cardart/FUT/Magus_of_the_Future.jpg)
+
+On Tuesday, May 29 at 9:00 a.m. Pacific, *Future Sight* goes on sale in the **Magic Online** store. *Future Sight* becomes legal in all online Constructed formats the day it goes on sale, so all casual rooms and Constructed queues will use Future Sight starting that date. Constructed Premier events, however, will not run until Tuesday, June 12 and will use *Future Sight* starting on that date. *Future Sight* draft queues (TPF as well as FFF) begin on Tuesday, June 5, at 10:00 a.m. *Future Sight* Release events begin Thursday, May 31, and will last until Monday, June 11. Detailed information is posted [here](/en/articles/feature/2007/05-10-future-sight-release-events), but let me just quickly highlight the different kind of tournaments you can enter. 
 
 *   Release leagues. These special leagues have a duration of one week.
 *   Premier Event 2x Sealed Deck flights. They will start every half hour. The 1st-place finisher will qualify for one of the *Future Sight* Release Event 2x Championships.

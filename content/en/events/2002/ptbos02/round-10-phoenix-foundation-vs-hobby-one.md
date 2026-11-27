@@ -77,7 +77,9 @@ render_recovery:
   - Caustic Tar
   occurrences: 19
 ---
-![](https://i.ormos.uk/93/7a/937a599b192a74d308eb7dd366665a7afe4577228297417ec6d98c17c2400d15.jpg)Phoenix Foundation has been playing in a single elimination tournament since the fifth round of day one. After starting out 2-2-0, Kai, Marco, and Dirk have torn off five straight matches to give themselves a chance at defending their title as the Team Pro Tour Champions.
+![](https://i.ormos.uk/93/7a/937a599b192a74d308eb7dd366665a7afe4577228297417ec6d98c17c2400d15.jpg)
+
+Phoenix Foundation has been playing in a single elimination tournament since the fifth round of day one. After starting out 2-2-0, Kai, Marco, and Dirk have torn off five straight matches to give themselves a chance at defending their title as the Team Pro Tour Champions.
 
 Hobby One—formerly know as Black Ops—might have a thing or two to say about whether or not they get that chance. Florent Jeudon, Antoine Ruel, and Olivier Ruel have a Grand Prix victory and a Pro Tour top 6 in this format.
 
@@ -112,7 +114,9 @@ Kai swung into the red zone and played a Standstill. Kyle had to break it but he
 
 Kai – 1 Antoine – 0
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a937.jpg)I looked over to see what was happening in Marco and Olivier's match. Marco had a Savage Firecat in play with Benevolent Bodyguard for back up. If Olivier somehow managed to deal with both of those cards, Marco was holding enough burn to kill his opponent.
+![](http://www.wizards.com/sideboard/images/ptbos02/a937.jpg)
+
+I looked over to see what was happening in Marco and Olivier's match. Marco had a Savage Firecat in play with Benevolent Bodyguard for back up. If Olivier somehow managed to deal with both of those cards, Marco was holding enough burn to kill his opponent.
 
 Marco – 1 Olivier – 0
 

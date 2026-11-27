@@ -47,7 +47,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/ae/0b/ae0bd38f7ebd915cc1e63568c9a29bb7beaa4cc09ac8f374064db8d12e7fb95c.png)These two 60-card decks showcase some of the best spells white and blue have in their arsenal. The decks include twelve rares and six cards with new artwork, including foil art versions of two Planeswalker cards. Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
+![](https://i.ormos.uk/ae/0b/ae0bd38f7ebd915cc1e63568c9a29bb7beaa4cc09ac8f374064db8d12e7fb95c.png)
+
+These two 60-card decks showcase some of the best spells white and blue have in their arsenal. The decks include twelve rares and six cards with new artwork, including foil art versions of two Planeswalker cards. Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
 
 **Set Name: Duel Decks:** *Elspeth vs. Tezzeret*  
 **Number of Cards:** 120

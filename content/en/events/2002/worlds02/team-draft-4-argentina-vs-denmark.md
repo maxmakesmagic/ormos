@@ -1751,7 +1751,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a613.jpg)The winner of this draft should have a very good shot at making Top 2. Aside from that, a win by Denmark would put the United States in contention for Top 2 if they won.
+![](http://www.wizards.com/sideboard/images/worlds02/a613.jpg)
+
+The winner of this draft should have a very good shot at making Top 2. Aside from that, a win by Denmark would put the United States in contention for Top 2 if they won.
 
 The first pack went very well for Denmark, as Cleeman got Balshan Griffin and Beast Attack went to Laier. Ostrovich went right into the "A" seat red/black plan with Flame Burst, and Michelena took Repel. The second pack gave Laier another great green pick in Wild Mongrel. Ostrovich drafted Engulfing Flames, Michelena took Elephant Ambush to go into his familiar green/blue spot, and Aven Smokeweaver went to Caligaris. Cleeman got some great late picks in the pack as well, wheeling Syncopate and Kirtar's Desire to lean heavily into white/blue. Ostrovich opened and took Patriarch's Desire to lock into black/red, Michelena picked Gorilla Titan, and Caligaris drafted Hallowed Healer to lock into white/blue. As the pack came around Laier went into blue as a second color, wheeling Aether Burst and Dreamwinder. This may have thrown off the Argentineans, since Dreamwinder went from a 4/3 wall to a 4/3 attacker that Caligaris would have to deal with. Before the pack was over, Cleeman got a second Kirtar's Desire.
 

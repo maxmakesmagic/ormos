@@ -85,7 +85,9 @@ Jun-Wei – 1 Tsuyoshi – 1
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gphir03/a952.jpg)Jun kept his opening hand but Tsuyoshi double mulliganed. It was Tsuyoshi's third and fourth mulligan of the match. "I feel bad," said an obviously lying Hew.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gphir03/a952.jpg)
+
+Jun kept his opening hand but Tsuyoshi double mulliganed. It was Tsuyoshi's third and fourth mulligan of the match. "I feel bad," said an obviously lying Hew.
 
 With no creatures to fear, Fujita opened with [Mountain](https://web.archive.org/web/20030712000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain) and [Firebolt](https://web.archive.org/web/20030712000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt). He followed up with a Piledriver and during his EOT, Hew cast [Tainted Pact](https://web.archive.org/web/20030712000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tainted+Pact). Not wanting to remove an [Early Harvest](https://web.archive.org/web/20030712000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Early+Harvest) from the game he stopped on it rather than continue in search of his much needed third land.
 

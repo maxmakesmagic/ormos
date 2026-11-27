@@ -1755,7 +1755,9 @@ render_recovery:
 
 The 2005 Auction of the People decks have been chosen! Recapping the format: Each deck is build around a specific word. That word (or an inflected form) must appear in the name, type line, rules text (including reminder text), or flavor text of an Online Extended version of every card in the deck. Basic lands are free, and each deck must contain at least 24 lands.
 
-![](https://i.ormos.uk/a7/fb/a7fb55856d46833ac61288256a983488f21c326295b5e627899fdc4a4e58267a.jpg)We received over 3 billion deck submissions covering every word in the English language (including all the fake words in the OED), plus some new ones that Wizards of the Coast made up themselves. “Nonland”? That's not a word! After a long, grueling process that in no way involved blindfolds or marmosets, the 17 selections have been made.
+![](https://i.ormos.uk/a7/fb/a7fb55856d46833ac61288256a983488f21c326295b5e627899fdc4a4e58267a.jpg)
+
+We received over 3 billion deck submissions covering every word in the English language (including all the fake words in the OED), plus some new ones that Wizards of the Coast made up themselves. “Nonland”? That's not a word! After a long, grueling process that in no way involved blindfolds or marmosets, the 17 selections have been made.
 
 But first, a word about the decks that didn't make it. Far too many good decks were dashed against the rocky shoals of disqualification. The most common pitfalls were:
 

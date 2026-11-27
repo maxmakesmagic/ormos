@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Mark Wraith* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/999.jpg)Welcome to the first European Grand Prix of the new year. We were expecting a big turnout, but not as many as we got. Six hundred and forty-one players registered either last night or this morning - making it the third biggest Grand Prix we have had in Europe. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/999.jpg)
+
+Welcome to the first European Grand Prix of the new year. We were expecting a big turnout, but not as many as we got. Six hundred and forty-one players registered either last night or this morning - making it the third biggest Grand Prix we have had in Europe. 
 
 The format for the tournament is Limited, with eight rounds of Sealed Deck on the first day, followed by six rounds of booster draft on day two, both using only Invasion cards. 
 
@@ -56,7 +58,9 @@ A surprising number of Americans made the trip over; hopefully you will recogniz
 
 Dave Price also made the trip over. He has played in every single Pro Tour since the circuit's inception, but he is not qualified for Barcelona, so he is traveling to every Grand Prix event in the hope of picking up the three Pro Tour points he needs to maintain his record. Of course, if he makes Top 8 here this weekend, he will qualify anyway, as Grand Prix Amsterdam is a large scale qualifier for this years European Tour. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/992.jpg)A lot of players will be looking forward to day two to show off their drafting skills - Invasion booster draft is an old format now, and many players are very good at it after practicing many times over. It will be interesting to see which colors do well in both the Sealed and the Draft. My own personal prediction is that black/blue/red decks will do well, with green and white struggling. Of course, the players may have other ideas. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/992.jpg)
+
+A lot of players will be looking forward to day two to show off their drafting skills - Invasion booster draft is an old format now, and many players are very good at it after practicing many times over. It will be interesting to see which colors do well in both the Sealed and the Draft. My own personal prediction is that black/blue/red decks will do well, with green and white struggling. Of course, the players may have other ideas. 
 
 The event has a prize purse of $25,000 - with $17,500 going to the top 32 players, and $7,500 going to the best sixteen players who have a Limited Ranking of below 1700. 
 

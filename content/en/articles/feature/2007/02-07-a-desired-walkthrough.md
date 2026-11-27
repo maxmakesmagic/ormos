@@ -694,7 +694,9 @@ render_recovery:
 ---
 * * *
 
-![walk_the_aeons](http://www.wizards.com/magic/images/cardart/TSP/walk_the_aeons.jpg)Hey everyone! Welcome back to Online Tech. Today I'll touch on Standard and Extended, and then sprinkle in a new type of content. My plan is to go through a couple of games with a popular Extended deck (TEPS Desire) turn-by-turn, explaining the thought process behind certain plays along the way. I chose interesting games with some debate-worthy decisions. This was inspired by Noah Weil's recent "[Walk of Ages](/en/articles/limitedinformation/2007/01-16-walk-of-ages-vol-2)" articles. I loved his idea of writing detailed game walkthroughs using various Magic Online screenshots to communicate the game state, as there is a lot to learn from them.
+![walk_the_aeons](http://www.wizards.com/magic/images/cardart/TSP/walk_the_aeons.jpg)
+
+Hey everyone! Welcome back to Online Tech. Today I'll touch on Standard and Extended, and then sprinkle in a new type of content. My plan is to go through a couple of games with a popular Extended deck (TEPS Desire) turn-by-turn, explaining the thought process behind certain plays along the way. I chose interesting games with some debate-worthy decisions. This was inspired by Noah Weil's recent "[Walk of Ages](/en/articles/limitedinformation/2007/01-16-walk-of-ages-vol-2)" articles. I loved his idea of writing detailed game walkthroughs using various Magic Online screenshots to communicate the game state, as there is a lot to learn from them.
 
 The purpose of presenting walkthroughs of this kind is twofold. First of all, you get to see a popular deck in real action. I can imagine it happens way too frequently that you hear the name of a certain deck, but otherwise know very little concrete about it. By going over an example game with me, it will improve your understanding of the deck and the format. The second purpose is to make you a better Magic player, and the best way to get better is to analyze Magic games. By constantly trying to find the optimal play, considering all the options, and reflecting back on your decisions afterwards, you will improve quickly. 
 

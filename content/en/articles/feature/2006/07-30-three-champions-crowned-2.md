@@ -63,7 +63,9 @@ render_recovery: []
 ---
 ### [Cheon Conquers All at U.S. Nationals](https://web.archive.org/web/20060730000000/http://magic.wizards.com/en/events/coverage/cheon-conquers-all-us-nationals)
 
-![](https://i.ormos.uk/5d/90/5d900fa7274001047fb57d66da169c0fb509e7e6bcec763418bf57ecb839bbff.jpg)**Magic** Weekend didn't disappoint as Paul Cheon won the 2006 U.S. National Championship. Joining him on the national team will be close friend and playtest partner Luis Scott-Vargas and Ben Lundquist. Congratulations also to Arthur Stewart, the 2006 Junior Super Series champion! 
+![](https://i.ormos.uk/5d/90/5d900fa7274001047fb57d66da169c0fb509e7e6bcec763418bf57ecb839bbff.jpg)
+
+**Magic** Weekend didn't disappoint as Paul Cheon won the 2006 U.S. National Championship. Joining him on the national team will be close friend and playtest partner Luis Scott-Vargas and Ben Lundquist. Congratulations also to Arthur Stewart, the 2006 Junior Super Series champion! 
 
   
 

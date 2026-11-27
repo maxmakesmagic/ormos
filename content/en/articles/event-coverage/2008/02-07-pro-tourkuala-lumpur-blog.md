@@ -179,7 +179,9 @@ Despite the homeground advantage of being accustomed to the climate and time zon
 
 *by Noel Neo*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptkl08/krish.jpg)Yesterday's Last Chance Qualifier (LCQ) attracted hordes of players eager for the last slots in the Pro Tour and saw some brutal competition that stretched to the wee hours of the morning. With the bulk of the competitors coming from Singapore, it is not surprising that the top two finishers were Singaporeans.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptkl08/krish.jpg)
+
+Yesterday's Last Chance Qualifier (LCQ) attracted hordes of players eager for the last slots in the Pro Tour and saw some brutal competition that stretched to the wee hours of the morning. With the bulk of the competitors coming from Singapore, it is not surprising that the top two finishers were Singaporeans.
 
 The top finisher was Rondy Krish, who has been involved in the game since 1997 and attended Pro Tour–San Diego and Pro Tour–Valencia last year.
 

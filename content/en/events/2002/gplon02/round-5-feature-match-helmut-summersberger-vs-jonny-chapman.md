@@ -87,7 +87,9 @@ Most of you are probably only acquainted with one of these competitors. Helmut f
 
 ### Game One
 
-![](https://i.ormos.uk/c2/07/c2070d267ae6045fb1163b891fc714048f1f5c061c427724a00362231f627e34.jpg)Helmut won the toss and began with a Careful Study, putting Roar of the Wurm in the graveyard. That's not such a threat for the deck with four Faceless Butchers and three Slithery Stalkers. The Austrian followed it up with a Catalyst Stone and the Wurm hit play on turn three, facing down a Nantuko Shade. Jonny was obviously prepared for his opponents playing tokens, and bizarrely gave Helmut a 'Boy Crazy' card to represent it, featuring a gentleman called Rigel. Sometimes it's better not to ask why people use the tokens they do.
+![](https://i.ormos.uk/c2/07/c2070d267ae6045fb1163b891fc714048f1f5c061c427724a00362231f627e34.jpg)
+
+Helmut won the toss and began with a Careful Study, putting Roar of the Wurm in the graveyard. That's not such a threat for the deck with four Faceless Butchers and three Slithery Stalkers. The Austrian followed it up with a Catalyst Stone and the Wurm hit play on turn three, facing down a Nantuko Shade. Jonny was obviously prepared for his opponents playing tokens, and bizarrely gave Helmut a 'Boy Crazy' card to represent it, featuring a gentleman called Rigel. Sometimes it's better not to ask why people use the tokens they do.
 
 When on his third turn the Englishman summoned a Crypt Creeper, Helmut couldn't resist asking if it was a proxy. Assured that it wasn't, the Austrian played Mental Note, and put Wonder into the graveyard. A flying 6/6 attacked, but Jonny had a Faceless Butcher in his hand, so it wasn't that much of a problem. Instead he decided to play a Braids, Cabal Minion. The Wurm attacked, bringing Jonny to 8, and Helmut cast Grizzly Fate, although it was only for two Bears. Facing lethal damage Jonny had to use his Butcher on the Wurm. Because of Chapman's laughable Crypt Creeper, the Bears were unable to attack since Wonder could be removed from the game. The Austrian was stuck with Roar of the Wurm in his hand, and had to concede after two turns of being beaten with Crypt Creeper and friends.
 
@@ -95,13 +97,17 @@ Helmut sided out Catalyst Stone and Wonder for Grizzly Fate and Bearscape, altho
 
 ### Game Two
 
-![](https://www.wizards.com/sideboard/images/gplon02/967.jpg)Summersberger went first and again there were no mulligans. The first plays were a Catalyst Stone from the Austrian and a Nantuko Shade for the Englishman. Helmut cast Quiet Speculation, but he didn't have Grizzly Fate instead getting two Roar of the Wurm and a Deep Analysis. Jonny cast his Crypt Creeper again and had a Slithery Stalker for Summersberger's Roar of the Wurm.
+![](https://www.wizards.com/sideboard/images/gplon02/967.jpg)
+
+Summersberger went first and again there were no mulligans. The first plays were a Catalyst Stone from the Austrian and a Nantuko Shade for the Englishman. Helmut cast Quiet Speculation, but he didn't have Grizzly Fate instead getting two Roar of the Wurm and a Deep Analysis. Jonny cast his Crypt Creeper again and had a Slithery Stalker for Summersberger's Roar of the Wurm.
 
 His attack and the life lost to Deep Analysis had put Helmut on nine, and now he was under serious pressure, fearing that Chapman might have another way of dealing with a 6/6 token. Instead he opted to cast Wild Mongrel and leave two mana open. He didn't block the Shade and went down to five. Jonny followed the attack up with a Braids, Cabal Minion, which was immediately Aether Bursted. 
 
 The Austrian decided to attack with his Mongrel and flashed back another Wurm. Chapman attacked with Nantuko Shade, Slithery Stalker, and a Crypt Creeper. Unsurprisingly, Helmut had another Aether Burst which dealt with the Shade and Creeper, and he went down to four. Jonny just replayed the Shade. This time Helmut attacked with his Wurm, and flashed back another, putting him right back in the game. The board position was two Roar tokens and a Mongrel against a Slithery Stalker and a Nantuko Shade.
 
-![](https://i.ormos.uk/86/fe/86fea91c291b2b36e1237a1c5b852957e466030c1cec8cbe74be21700729e822.jpg)The English player once again had the goods with another Slithery Stalker and he once again attacked. Helmut had to discard three cards (two Grizzly Fate and a Bearscape) to trade with Jonny's Shade. The Fate was flashed back next turn putting four 2/2s into play and Chapman had to scoop facing a horde of tokens.
+![](https://i.ormos.uk/86/fe/86fea91c291b2b36e1237a1c5b852957e466030c1cec8cbe74be21700729e822.jpg)
+
+The English player once again had the goods with another Slithery Stalker and he once again attacked. Helmut had to discard three cards (two Grizzly Fate and a Bearscape) to trade with Jonny's Shade. The Fate was flashed back next turn putting four 2/2s into play and Chapman had to scoop facing a horde of tokens.
 
 It seemed like Jonny would have done better to have played the Slithery Stalker a turn earlier, and perhaps the correct play was to not attack with the Shade on the penultimate turn, instead playing Screams of the Damned and giving Helmut only one turn to find an answer. He was concerned about Circular Logic, but he should have realized that Helmut's deck was very unlikely to have them. There was a point where Jonny could have blocked a Roar of the Wurm with his Slithery Stalker but chose not to, which might have cost him the life points he needed to survive long enough to activate his Screams.
 

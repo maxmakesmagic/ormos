@@ -97,7 +97,9 @@ render_recovery:
 ---
 Whine and Cheese's Chris Cade is one of the forum moderators for the popular Magic parody site MiseTings. "I also used to write a lot of strategy articles," Chris comments. "Some people think I got Hymn to Tourach restricted in Type 2 back in 1995."
 
-![](http://www.wizards.com/sideboard/images/gppit03/a997.jpg)Marari boasts a Turian in its ranks. Not the famous Mike Turian who may resemble a potato, but his father Rich. Also, they have one of the only female players in the tournament: the lovely Rachel Reynolds. "I'm 0-1 lifetime versus Rachel," Tom Martell remarks from Whine and Cheese's B seat. 
+![](http://www.wizards.com/sideboard/images/gppit03/a997.jpg)
+
+Marari boasts a Turian in its ranks. Not the famous Mike Turian who may resemble a potato, but his father Rich. Also, they have one of the only female players in the tournament: the lovely Rachel Reynolds. "I'm 0-1 lifetime versus Rachel," Tom Martell remarks from Whine and Cheese's B seat. 
 
 "Let's have some fun!" Chris remarks as the judge begins the round.
 
@@ -150,7 +152,9 @@ Whine and Cheese 1 – Marari 1
 
 On Mark and Tom's Game 3, Tom finds a mountain on the fourth turn. He has a couple of blue creatures in play, and they're joined by an Ascending Aven. Mark's keeping up very well, though, with a morph creature and a veritable red army. That morph creature turns out to be a Spitting Gourna, but Mark's only managing to play catch-up all game. "I missed my third land drop and he beat me down with flyers," Mark said after the match.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a996.jpg)Chris and Rich are on a pivotal Game 3, where, oddly enough, nothing happens until Rich plays Grinning Demon face-down and Chris Shocks it. I guess Rachel didn't get all the red removal after all! I have to wonder where Chris' offensive Beast army is, since we're not seeing any of it this game. He does unmorph Treespring Lorian after it attacks, which is a good start, but Rich has a Screeching Buzzard that's making short work of Chris' life total.
+![](http://www.wizards.com/sideboard/images/gppit03/a996.jpg)
+
+Chris and Rich are on a pivotal Game 3, where, oddly enough, nothing happens until Rich plays Grinning Demon face-down and Chris Shocks it. I guess Rachel didn't get all the red removal after all! I have to wonder where Chris' offensive Beast army is, since we're not seeing any of it this game. He does unmorph Treespring Lorian after it attacks, which is a good start, but Rich has a Screeching Buzzard that's making short work of Chris' life total.
 
 Checking back in with Rich and Chris, Chris plays everyone's favorite Hundroog to keep up the offense. However, Rich is firmly entrenched with plenty of creatures, and when he plays Cruel Revival on Chris' Timberwatch Elf, it only serves to strengthen his advantage.
 

@@ -86,7 +86,9 @@ render_recovery:
   - Commander Eesha
   occurrences: 62
 ---
-![](http://www.wizards.com/sideboard/images/gpsap02/a959.jpg)Itaru Ishida is best recognized as the brains behind the Japanese Team Masters demolition crew known as Panzer Hunters. He's also widely considered among the top five Japanese pros. His opponent is amateur Takahiro Fukuchi, who's been ripping up the tournament. He's sitting pretty at 8-0-1.
+![](http://www.wizards.com/sideboard/images/gpsap02/a959.jpg)
+
+Itaru Ishida is best recognized as the brains behind the Japanese Team Masters demolition crew known as Panzer Hunters. He's also widely considered among the top five Japanese pros. His opponent is amateur Takahiro Fukuchi, who's been ripping up the tournament. He's sitting pretty at 8-0-1.
 
 Fukuchi won the die roll and started things going. It was soon crowded on the playing field. With just two plains apiece they had eleven creatures on the table. Fukuchi had all four of his Spurnmage Advocates and Tireless Tribe, while Ishida had a Tribe, a Suntail Hawk, an Advocate, a Beloved Chaplain and two bird tokens from a pitched Battle Screech.
 
@@ -96,7 +98,9 @@ That was enough to convince Fukuchi to hold back. Ishida's three fliers and two 
 
 Ishida 1 - Fukuchi 0
 
-![](http://www.wizards.com/sideboard/images/gpsap02/a960.jpg)Fukuchi's all-action opening hand in Game 2 was tragically short on lands. His next was packed with three Prismatic Strands. He had to keep.
+![](http://www.wizards.com/sideboard/images/gpsap02/a960.jpg)
+
+Fukuchi's all-action opening hand in Game 2 was tragically short on lands. His next was packed with three Prismatic Strands. He had to keep.
 
 What followed was nothing short of brutality. Ishida started with Chaplain and then Tireless Tribe before firing off a pair of Battle Screeches for eight fliers. Fukuchi's Strands kept it from being a complete massacre. Ishida played a third Battle Screech, and why not?
 

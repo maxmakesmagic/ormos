@@ -42,21 +42,27 @@ Team Loyalties are one thing, but as we've seen on the Pro Tour, nothing is fore
 **P.S.2**  
  (Masashiro Kuroda, Katsuhiro Mori, Masahiko Morita)
 
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a998.jpg)A play on the popular video game console, their name actually stands for "Poor Shark 2", as they are two thirds of the "Classic" Poor Shark team. Unfortunately, Masashiro Kuroda and Masahiko Morita could not be joined by their third, Tomomi Ootsuka (one of Japan's best female players). In her stead they have the one-man blitzkrieg: Katsuhiro Mori. Last year's Rookie of the Year is as strong as he ever was, and if the original Poor Shark could make the finals of Grand Prix - Yokohama, then they are poised to take the title this weekend.
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a998.jpg)
+
+A play on the popular video game console, their name actually stands for "Poor Shark 2", as they are two thirds of the "Classic" Poor Shark team. Unfortunately, Masashiro Kuroda and Masahiko Morita could not be joined by their third, Tomomi Ootsuka (one of Japan's best female players). In her stead they have the one-man blitzkrieg: Katsuhiro Mori. Last year's Rookie of the Year is as strong as he ever was, and if the original Poor Shark could make the finals of Grand Prix - Yokohama, then they are poised to take the title this weekend.
 
   
 
 **Team Butchers**  
  (Sam Lau, Royce Chai, Yujian Zhou)
 
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a992.jpg)What's this? A Singaporean team without Nick Wong or Albertus Law? It's true. It seems that Lau, Chai and Zhou were the only players willing to make the trip this weekend. Forunately, they're among the best. None are strangers to Grand Prix Top 8's. They've got a hard road ahead, though, what with only one bye on the first day. 
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a992.jpg)
+
+What's this? A Singaporean team without Nick Wong or Albertus Law? It's true. It seems that Lau, Chai and Zhou were the only players willing to make the trip this weekend. Forunately, they're among the best. None are strangers to Grand Prix Top 8's. They've got a hard road ahead, though, what with only one bye on the first day. 
 
   
 
 **The Beautiful World**  
  (Itaru Ishida, Masaya Mori, Reiji Andou)
 
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a986.jpg)Remember Panzer Hunters? The Japanese team that has reservations at the finals of the Team Masters? Well, it seems that Kazuyuki Momose doesn't like to play as regularly as his teammates, and so brainiac Itaru Ishida and class clown Reiji Andou have had to find a third man. From the shadows of retirement came Masaya Mori, the back-to-back APAC Champion. Sporting a new "electrocuted" hairstyle, Mori's alliance with Ishida and Andou has a lot of pro's worried.
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a986.jpg)
+
+Remember Panzer Hunters? The Japanese team that has reservations at the finals of the Team Masters? Well, it seems that Kazuyuki Momose doesn't like to play as regularly as his teammates, and so brainiac Itaru Ishida and class clown Reiji Andou have had to find a third man. From the shadows of retirement came Masaya Mori, the back-to-back APAC Champion. Sporting a new "electrocuted" hairstyle, Mori's alliance with Ishida and Andou has a lot of pro's worried.
 
   
 
@@ -70,11 +76,15 @@ Affectionately known as "Team Sideboard", Unchain are the best Magic talents tha
 **www.shop-fireball.com**  
  (Jun Nobushita, Tsuyoshi Ikeda, Jin Okamoto)
 
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a977.jpg)Nobushita and Ikeda used to team with Toshiki Tsukamoto, the original Japanese Pro. Then they were called FireBeat, a play on their two stores: Fireball and Off-Beat. With Tsukamoto absent, Nobushita and Ikeda are free to toot their own horn, ABU style. Subbing in is Jin Okamoto, whose tenth at Worlds last year was followed by a heartbreaking ninth on tiebreakers at Pro Tour - San Diego. If there's one Japanese player who's not getting enough notice, it's Okamoto. This weekend is his chance to step back into the spotlight.
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a977.jpg)
+
+Nobushita and Ikeda used to team with Toshiki Tsukamoto, the original Japanese Pro. Then they were called FireBeat, a play on their two stores: Fireball and Off-Beat. With Tsukamoto absent, Nobushita and Ikeda are free to toot their own horn, ABU style. Subbing in is Jin Okamoto, whose tenth at Worlds last year was followed by a heartbreaking ninth on tiebreakers at Pro Tour - San Diego. If there's one Japanese player who's not getting enough notice, it's Okamoto. This weekend is his chance to step back into the spotlight.
 
   
 
 **Breaking the Ruels**  
  (Olivier Ruel, Antoine Ruel, Alex Shvartsman)
 
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a990.jpg)It's really a marriage of convenience. The Ruels love Japan. Alex Shvartsman loves Japan. They also all happen to be top pros. Shvartsman recently became the first foreign player to take a singles title at a Japanese Grand Prix. Olivier Ruel made Top 8 at Pro Tour - Osaka just recently. They're certainly the team that everyone's watching out for. Will they be able to fill the Team GP shoes that ABU have left behind?
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a990.jpg)
+
+It's really a marriage of convenience. The Ruels love Japan. Alex Shvartsman loves Japan. They also all happen to be top pros. Shvartsman recently became the first foreign player to take a singles title at a Japanese Grand Prix. Olivier Ruel made Top 8 at Pro Tour - Osaka just recently. They're certainly the team that everyone's watching out for. Will they be able to fill the Team GP shoes that ABU have left behind?

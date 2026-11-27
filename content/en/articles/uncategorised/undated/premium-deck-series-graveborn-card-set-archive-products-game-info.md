@@ -47,7 +47,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/aa/bd/aabd6de28716798d57a54c1117693cbcefa9c94dcbdf85b40955d5dc10ed9d83.png)This set features sixty premium cards, including eight rares. You also get a special-edition Spindown™ life counter, foil deck box, strategy insert, and Magic learn-to-play guide. Each card is foil, black-bordered, and tournament-legal for any format in which it's legal.
+![](https://i.ormos.uk/aa/bd/aabd6de28716798d57a54c1117693cbcefa9c94dcbdf85b40955d5dc10ed9d83.png)
+
+This set features sixty premium cards, including eight rares. You also get a special-edition Spindown™ life counter, foil deck box, strategy insert, and Magic learn-to-play guide. Each card is foil, black-bordered, and tournament-legal for any format in which it's legal.
 
 **Set Name:** *Premium Deck Series: Graveborn*  
 **Number of Cards:** 60

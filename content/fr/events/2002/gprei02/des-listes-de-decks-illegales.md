@@ -53,7 +53,9 @@ archive_source:
   sha256: ee23a77c75d9c2f1813845359041244ab2cbd6c4a188d58fcaa49c310e8c923e
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gprei02/a992.jpg)C'était à prévoir. Le format Etendu venant de changer, de nombreux joueurs sont venus avec des decks illégaux. 
+![](http://www.wizards.com/sideboard/images/gprei02/a992.jpg)
+
+C'était à prévoir. Le format Etendu venant de changer, de nombreux joueurs sont venus avec des decks illégaux. 
 
 Lors de la préparation des listes de decks, de nombreux joueurs étaient encore en train de demander aux arbitres si telle carte était ou non rééditée. 
 

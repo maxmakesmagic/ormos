@@ -44,7 +44,9 @@ archive_source:
   sha256: 62f73682fd0d72f2a8b08cad6f0942f7169b64441ef276c61ab72158f0408600
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm20_1.jpg)Akihiro Takakuwa is a Limited specialist out of Tokyo, whose draft skills are highly acclaimed. In fact, he will be teaming with Koichiro Maki and Akira Asahara at the next team Pro Tour, which should speak volumes about how well respected his talents are. A win here would guarantee him a spot in the Top 8, while a win will only put Kakumae in contention via tiebreakers.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm20_1.jpg)
+
+Akihiro Takakuwa is a Limited specialist out of Tokyo, whose draft skills are highly acclaimed. In fact, he will be teaming with Koichiro Maki and Akira Asahara at the next team Pro Tour, which should speak volumes about how well respected his talents are. A win here would guarantee him a spot in the Top 8, while a win will only put Kakumae in contention via tiebreakers.
 
 ### Game 1
 

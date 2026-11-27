@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/60/bb/60bbcb588996aeb5612b61d2c28410a095d4e3e468cf771d324c66b42e927c5a.jpg)Amongst chants of "Penta" an Argentinean won it all. Proving that Psychatog is still the king of South America, Gabriel Caligaris took the trophy, the check and the original art. Not a bad weekend for someone who is thinking of taking a year off to play **Magic**.
+![](https://i.ormos.uk/60/bb/60bbcb588996aeb5612b61d2c28410a095d4e3e468cf771d324c66b42e927c5a.jpg)
+
+Amongst chants of "Penta" an Argentinean won it all. Proving that Psychatog is still the king of South America, Gabriel Caligaris took the trophy, the check and the original art. Not a bad weekend for someone who is thinking of taking a year off to play **Magic**.
 
  
 

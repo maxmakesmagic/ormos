@@ -169,7 +169,9 @@ render_recovery:
 
 Approximately 400 players traveled to Minneapolis for the last opportunity to qualify for New Orleans, or simply their last chance to play IBC at a Grand Prix. It is difficult to estimate whether the September 11 tragedy affected the turnout significantly, but tournament organizer Steve Port was satisfied with the numbers he got. Variants of black-white-blue control decks dominated the field, with Domain and red-blue-white strategies approximately tied for second. Craig Wescoe dominated the top of the standings throughout much of the tournament, using some unorthodox cards such as Jilt in his r-w-u deck. 
 
-![](http://www.wizards.com/sideboard/images/GPMINN01/898.jpg)In the end, the deck that hated the metagame the most won - adding Dodecapods to his main deck won more than one game for Dave Humpherys, and eventually helped pave his way to victory. Dodecapod is an extremely potent weapon against discard. So much so, that most b-w-u decks board out their Recoils, Gerrard's Verdict, and Probe regardless of who they are facing in the second game. Humpherys took a chance by playing what could amount to Hill Giants in his deck, and the chance paid off. Of course, he could not have done it without three byes - a card that was excellent against the well-honed decks wielded by pros, Dodecapod could be too much of a liability against weaker players who might have brought red-green or other aggressive decks to the table.
+![](http://www.wizards.com/sideboard/images/GPMINN01/898.jpg)
+
+In the end, the deck that hated the metagame the most won - adding Dodecapods to his main deck won more than one game for Dave Humpherys, and eventually helped pave his way to victory. Dodecapod is an extremely potent weapon against discard. So much so, that most b-w-u decks board out their Recoils, Gerrard's Verdict, and Probe regardless of who they are facing in the second game. Humpherys took a chance by playing what could amount to Hill Giants in his deck, and the chance paid off. Of course, he could not have done it without three byes - a card that was excellent against the well-honed decks wielded by pros, Dodecapod could be too much of a liability against weaker players who might have brought red-green or other aggressive decks to the table.
 
 Humpherys is a core member of team Your Move Games. He has a number of impressive tournament finishes such as sharing first prize with teammates Kastle and Dougherty at Pro Tour-Washington, as well as deck design credits, such as an interesting Whale-Recurring Nightmare variant he navigated to a good finish at PT-Rome. Humpherys defeated Atlanta's Andy Wolf in the finals. Although Wolf does not have the same kind of a resume, he is relatively well known as an "old school" member of pro community, and many of us are quite happy to see him return to the Tour.
 
@@ -191,7 +193,9 @@ Last week's question:
 
 *What card did Finkel originally submit at the **Magic** Invitational in Sydney?*
 
-![](https://i.ormos.uk/8c/79/8c790dcd10c74051fa2f0acabe8ab5ec8f131ad0fb459c58df3042fa8a656f1a.jpg)Wrath of Leknif. For ![1 Mana](https://i.ormos.uk/6b/4c/6b4cf558eab279fb9414f146ebdd0e0705ec92984fec530597dd2a3bce43ce24.gif)![White Mana](https://i.ormos.uk/55/78/55785924f8cda9ab2a85364f807ba172c7530e43d94b14aad222ec4bbf2589ca.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif), it destroyed all creatures and untapped up to four lands. R&D immediately vetoed the card as far too broken. Finkel thought some more, and eventually came up with a prototype of what became Shadowmage Infiltrator. For complete story, told by Finkel himself, check out the latest issue of printed *Sideboard*.
+![](https://i.ormos.uk/8c/79/8c790dcd10c74051fa2f0acabe8ab5ec8f131ad0fb459c58df3042fa8a656f1a.jpg)
+
+Wrath of Leknif. For ![1 Mana](https://i.ormos.uk/6b/4c/6b4cf558eab279fb9414f146ebdd0e0705ec92984fec530597dd2a3bce43ce24.gif)![White Mana](https://i.ormos.uk/55/78/55785924f8cda9ab2a85364f807ba172c7530e43d94b14aad222ec4bbf2589ca.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif), it destroyed all creatures and untapped up to four lands. R&D immediately vetoed the card as far too broken. Finkel thought some more, and eventually came up with a prototype of what became Shadowmage Infiltrator. For complete story, told by Finkel himself, check out the latest issue of printed *Sideboard*.
 
 New Question
 
@@ -201,7 +205,9 @@ Please do not email answers to me. Correct answer will be posted in the next col
 
 ### Play of the Week
 
-![](https://i.ormos.uk/d6/a9/d6a9d0a350f5263314b1840c8dd961adaeaa1353f231305a0f5ddb7ae08dbfe9.jpg)Brian Davis played his way to the Top 4 of GP Minneapolis with a "Sunny-D" version of Domain, designed by Adrian Sullivan. "Sunny-D" refers to the Sunscape Familiars, which are the key part of the deck. Why are they so important? Consider the following play Davis managed to pull off during the tournament and you might agree.
+![](https://i.ormos.uk/d6/a9/d6a9d0a350f5263314b1840c8dd961adaeaa1353f231305a0f5ddb7ae08dbfe9.jpg)
+
+Brian Davis played his way to the Top 4 of GP Minneapolis with a "Sunny-D" version of Domain, designed by Adrian Sullivan. "Sunny-D" refers to the Sunscape Familiars, which are the key part of the deck. Why are they so important? Consider the following play Davis managed to pull off during the tournament and you might agree.
 
 Time was just called, and Davis was facing an almost inevitable draw. He had nine lands in play, nothing much in his hand, and all of his win conditions in the graveyard. It did not look much better for his opponent, who just tapped out to win a counter war over Vindicate that took out a Sabertooth Nishoba. Davis was at about fifteen life with his oppnent at eighteen. His only non-land permanents in play - three Sunscape Familiars.
 
@@ -222,7 +228,9 @@ Brian Davis was facing Craig Wescoe in the Top 8 of the Grand Prix. Wescoe was t
 
 Wescoe was at significant disadvantage in the matchup. His u-w-r deck had few ways of dealing with Domain. Even so, he pulled out game 1, and Davis came back to win game 2. In the final game, Wescoe managed to reduce Davis's life total down to two, and destroy some of his lands, leaving Davis with only three land types. Despite that, Davis slowly regained control of the game and was now attacking Wescoe with his large monsters. Down to only a few life points himself, Wescoe had one last draw step remaining to find a burn spell. 
 
-![](https://i.ormos.uk/4e/d5/4ed5dd7d641dacbd8de67676d6a2a1479888aab22f2630de2b9eeb6a77f9282f.jpg)Wescoe had six lands in play. His hand consisted of Shivan Reef and Gainsay. He knocked on top of his deck and drew... Fire/Ice! All of a sudden, a lost game turned into a win. All he had to do was play a land and throw two points of damage at Davis. Instead, Wescoe just cast Fire. 
+![](https://i.ormos.uk/4e/d5/4ed5dd7d641dacbd8de67676d6a2a1479888aab22f2630de2b9eeb6a77f9282f.jpg)
+
+Wescoe had six lands in play. His hand consisted of Shivan Reef and Gainsay. He knocked on top of his deck and drew... Fire/Ice! All of a sudden, a lost game turned into a win. All he had to do was play a land and throw two points of damage at Davis. Instead, Wescoe just cast Fire. 
 
 Davis, like most Domain players, relied on Evasive Action as the only counterspell in his deck. He cast an Action, to counter Fire. Wescoe used Gainsay to counter the Action. Davis used his last remaining Action to counter Fire again. Had Wescoe played out his land first, he would now have three mana to pay for Evasive Action, have Fire resolve, and advance to the semifinals. Instead, jumping the gun cost him an important match and several hundred dollars in prize money.
 

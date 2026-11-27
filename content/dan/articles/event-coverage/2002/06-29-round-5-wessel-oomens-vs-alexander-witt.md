@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a927.jpg)Alexander Witt won the Masters in Nice last May after going completely undefeated. Wessel played Top 8 in the very first Grand Prix ever held, which was in his hometown in Amsterdam, and he keeps on putting up great records.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a927.jpg)
+
+Alexander Witt won the Masters in Nice last May after going completely undefeated. Wessel played Top 8 in the very first Grand Prix ever held, which was in his hometown in Amsterdam, and he keeps on putting up great records.
 
 Both are playing white and blue although Wessel just splashes the blue for four cards among which Ghostly Wings. His deck relies more on green spells. 
 
@@ -61,7 +63,9 @@ Alexander cast Suntail Hawk on turn one, next turn he enchanted it with Skywing 
 
 Both players started taking a little more time, as the situation demanded more careful studying. However both players played a similar deck, Alexander's was more focused on flyers. And they proved very a troublesome factor for Wessel. Alexander continued 'abusing' spells like Ghostly Wings enchanting his Militant Monk. At one time both players had a Monk with a Wings and when Wessel's Monk blocked Alexander's, it was Wessel who got forced to bounce his, since Alexander could play Guided Strike. The fact that Ironshell beetle had made Wessel a 4/3 Monk did not make a difference. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a929.jpg)Wessel took a fresh breath casting Nomad Decoy. Still he went down to 9 life from all flyers he could not stop. Next turn the activated Decoy denied Hydromorph Gull from entering battle. Yet Wessel kept getting severe beatings lowering down to 1 life. In a final attempt to draw a lifesaving card he hit the top of his deck. It didn't help him out though.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a929.jpg)
+
+Wessel took a fresh breath casting Nomad Decoy. Still he went down to 9 life from all flyers he could not stop. Next turn the activated Decoy denied Hydromorph Gull from entering battle. Yet Wessel kept getting severe beatings lowering down to 1 life. In a final attempt to draw a lifesaving card he hit the top of his deck. It didn't help him out though.
 
 Game 1: Alexander wins.
 
@@ -77,7 +81,9 @@ Still, a few turns later Wessel created a monstrous Basking Rootwalla, as it rec
 
 The fact that Wessel only kept seeing one plains made the choice tougher between keeping his mana available to activate the Decoy, or cast spells. This loss of tempo was one of the reasons Wessel had difficulty taking control of the game. Alexander cast Tattoo Ward on his Guardian resulting in Wessel to take a good look at the enchantment.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a928.jpg)Unable to use the Decoy this turn in order to slow down Alexander's attacks Wessel got down at four life. It now became more challenging for Wessel to plan his attacks. He chose Rootwalla, changed his mind, and started rethinking his options. Next turn Decoy could be insufficient to survive the second game, and the match. He sent the Rootwalla to attack. Alexander responded by disenchanting the Elephant Guide sacking his Ward and diminishing the impact of Wessel's attack. A Nantuko Cultivator then appeared on his side leaving open his plains.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a928.jpg)
+
+Unable to use the Decoy this turn in order to slow down Alexander's attacks Wessel got down at four life. It now became more challenging for Wessel to plan his attacks. He chose Rootwalla, changed his mind, and started rethinking his options. Next turn Decoy could be insufficient to survive the second game, and the match. He sent the Rootwalla to attack. Alexander responded by disenchanting the Elephant Guide sacking his Ward and diminishing the impact of Wessel's attack. A Nantuko Cultivator then appeared on his side leaving open his plains.
 
 Alexander attacked with everything putting Wessel at one life, then cast Wonder.  
  Wessel was a bit off-guard and attacked with Nantuko Cultivator and then realised if Wonder got in the graveyard he would die the next turn. Indeed the Wonder blocked but then Alexander had his Militant Monk prevent one damage to Wonder so it stayed in the game.

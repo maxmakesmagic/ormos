@@ -205,7 +205,9 @@ render_recovery:
   - Trained Pronghorn
   occurrences: 178
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a987.jpg)If you've been keeping up with Gary Wise's "[Wise Words](/en/events/2002/ww/wise-words-boston-teams)" column here on the Sideboard, you're aware that he's playing in this event with Neil Reeves and Bob Maher.
+![](http://www.wizards.com/sideboard/images/ptbos02/a987.jpg)
+
+If you've been keeping up with Gary Wise's "[Wise Words](/en/events/2002/ww/wise-words-boston-teams)" column here on the Sideboard, you're aware that he's playing in this event with Neil Reeves and Bob Maher.
 
 Wise and Maher are both Pro Tour champions, with Wise's win coming in this very format two years ago with Potato Nation. But it is Reeves, whose southern brashness makes him the PT's version of Bubba Sparxx, who has the potential to make this team great, as opposed to very good, and his two teammates know it.
 

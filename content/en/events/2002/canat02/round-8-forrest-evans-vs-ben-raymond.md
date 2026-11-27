@@ -82,7 +82,9 @@ render_recovery:
 Round 8 Feature Match: Forrest Evans vs. Ben Raymond  
  by Josh Bennett
 
-![](http://www.wizards.com/sideboard/images/canat02/a936.jpg)Forrest Evans is trying to escape the shadow of his more successful brother Murray "The Mauler" Evans. Certainly the lack of a delightful nickname of his own is hindering things. Today, however, he has the best currency to buy his way out: Match points. He's in a strong position to make a run at the Top 8. That's familiar territory to Ben Raymond, who wowed the competition with his "Digger" deck that took him to the quarters last year.
+![](http://www.wizards.com/sideboard/images/canat02/a936.jpg)
+
+Forrest Evans is trying to escape the shadow of his more successful brother Murray "The Mauler" Evans. Certainly the lack of a delightful nickname of his own is hindering things. Today, however, he has the best currency to buy his way out: Match points. He's in a strong position to make a run at the Top 8. That's familiar territory to Ben Raymond, who wowed the competition with his "Digger" deck that took him to the quarters last year.
 
 Evans led with Mesmeric Fiend, stealing Ghostly Wings. After Raymond busted out Seton's Scout, he thought the Fiend would serve him better by trading. Deep Reconnaissance got a forest while Raymond got Aquamoeba. It inherited the Ghostly Wings, and a pitched land made it four damage. Escape Artist upped the beats. Evans got in there with Phantom Tiger.
 
@@ -92,13 +94,17 @@ Evans flashed back the Reconnaissance, and could barely contain his delight at n
 
 Raymond 1 - Evans 0
 
-![](http://www.wizards.com/sideboard/images/canat02/a940.jpg)Again, Evans got Mesmeric Fiend to steal Ghostly Wings. Raymond Peeked at two Battlefield Scroungers and a Crush of Wurms. Werebear and Wormfang Turtle got ready to bring the noise. Patriarch's Desire took down the Werebear, but the dreaded Aquamoeba made its reappearance. Battlefield Scrounger held Evans's fort.
+![](http://www.wizards.com/sideboard/images/canat02/a940.jpg)
+
+Again, Evans got Mesmeric Fiend to steal Ghostly Wings. Raymond Peeked at two Battlefield Scroungers and a Crush of Wurms. Werebear and Wormfang Turtle got ready to bring the noise. Patriarch's Desire took down the Werebear, but the dreaded Aquamoeba made its reappearance. Battlefield Scrounger held Evans's fort.
 
 Raymond got on the offensive, swinging with both his creatures. Evans blocked the Aquamoeba. Raymond's Keep Watch gave him more cards, and a pitch killed the Scrounger. Evans made another. Centaur Chieftain hit the ground running and got through for three more. Evans calmed the ground down with Phantom Tiger. Raymond could only manage an Escape Artist.
 
 Evans seized this opportunity, attacking with his Scrounger. When Raymond blocked with his Chieftain, Evans showed him Sylvan Might. Krosan Constrictor further solidified Evans's defenses. Seton's Scout was still a couple of cards shy of threshold. Evans hit again, and reused his Might to take down the Turtle.
 
-![](http://www.wizards.com/sideboard/images/canat02/a941.jpg)Raymond realized time was running out. Aven Smokeweaver threatened to make it a race, but Evans went one better with Nullmage Advocate and Squirrel Nest. They traded blows and the scores were ten to nine for Evans. Raymond hit for three. The Scrounger and Tiger struck. The now-thresholded Scout ate the Scrounger. Seven to six.
+![](http://www.wizards.com/sideboard/images/canat02/a941.jpg)
+
+Raymond realized time was running out. Aven Smokeweaver threatened to make it a race, but Evans went one better with Nullmage Advocate and Squirrel Nest. They traded blows and the scores were ten to nine for Evans. Raymond hit for three. The Scrounger and Tiger struck. The now-thresholded Scout ate the Scrounger. Seven to six.
 
 Raymond played a Rootwalla and seemed to be out of gas. He hit for two only. Evans decided that was his cue and swung with the team, leaving only Mesmeric Fiend back to block. It left Raymond at two with just Rootwalla and Artis. Unfortunately, his Nullmage Advocate was tapped, and so couldn't stop the other Ghostly Wings from bringing the Rootwalla to the air, allowing Raymond to attack for the win exactly.
 

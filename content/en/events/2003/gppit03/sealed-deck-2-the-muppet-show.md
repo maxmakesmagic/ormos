@@ -205,7 +205,9 @@ render_recovery:
   - Trickery Charm
   occurrences: 166
 ---
-![](http://www.wizards.com/sideboard/images/gppit03/a983.jpg)Mike Turian swears the name "The Muppet Show" wasn't his idea, although it is goofy enough to be his. He claims Jeff Cunningham and Eugene Harvey came up with it, and now each of them is supposed to be one of the Muppets. Mike was originally Fozzie Bear, but he really wanted to be Gonzo. So now Jeff has assumed the role of Fozzie. Eugene, of course, is Kermit the Frog.
+![](http://www.wizards.com/sideboard/images/gppit03/a983.jpg)
+
+Mike Turian swears the name "The Muppet Show" wasn't his idea, although it is goofy enough to be his. He claims Jeff Cunningham and Eugene Harvey came up with it, and now each of them is supposed to be one of the Muppets. Mike was originally Fozzie Bear, but he really wanted to be Gonzo. So now Jeff has assumed the role of Fozzie. Eugene, of course, is Kermit the Frog.
 
 This team arose out of necessity. Cunningham's Pro Tour team consists of himself, Tomi Walamies, and Brett Shears. Shears couldn't afford to come to this event, and Walamies is still living in Finland. So Cunningham showed up on a lark looking for a team. Luckily for him, Turian and Harvey were going to be without Gary Wise, their teammate for the upcoming Team PT. Wise was in the wrong place at the wrong time a few weeks ago (or so I've heard), and he was "asked" to take place in a voluntary quarantine of people that might have seen someone that heard about someone that talked to some guy with SARS. So, not wanting to ruffle any more feathers with the border and immigration people, he stayed home. Harvey and Turian's original choice for a replacement was fellow CMU'er Andrew Cuneo, but Cuneo had band practice and couldn't come. So Cunningham volunteered.
 
@@ -217,7 +219,9 @@ They immediately discounted black-white Clerics since there were no good black C
 
 They did have 24 playable black cards, including big beaters like Nefashu and Phage. Turian wanted to put blue with the black, keep red-green, and make red-white as well. Cunningham felt they'd be better of splitting the white with black and blue to make a Soldier deck and a Cleric deck, and keeping the red-green. They tried those combinations.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a982.jpg)With the three decks partially built, Mike asked Jeff how the white-black deck looked.
+![](http://www.wizards.com/sideboard/images/gppit03/a982.jpg)
+
+With the three decks partially built, Mike asked Jeff how the white-black deck looked.
 
 "Nothing special," said Cunningham.  
  "I don't think any of the decks we've built are anything special; I just want to build decks with lots of synergy that have good chances of winning," replied Turian.  
@@ -236,7 +240,9 @@ They turned their attention to the blue-black deck.
 
 Lacking confidence in all their current builds, they agreed to switch again. This time black-red, red-white, and blue-green. Convention be damned.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a981.jpg)Turian's newest deck was black with five red cards; it tried to be a fast deck, but it really wasn't. Eugene, meanwhile, was cobbling together a red-white Goblin theme with an out-of-place Cloudreach Cavalry, and a blue splash of just Aven Fateshaper.
+![](http://www.wizards.com/sideboard/images/gppit03/a981.jpg)
+
+Turian's newest deck was black with five red cards; it tried to be a fast deck, but it really wasn't. Eugene, meanwhile, was cobbling together a red-white Goblin theme with an out-of-place Cloudreach Cavalry, and a blue splash of just Aven Fateshaper.
 
 Turian made his deck slower and more controlling with Temple of the False God, then worked in Nefashu, Anurid Murkdiver, Phage, and two big landcyclers. Now it was a late game deck. Jeff had a typical blue-green deck that stalled the ground and won in the air, but would lose to an opposing Gourna. But these three decks looked as good as any they had built thus far.
 

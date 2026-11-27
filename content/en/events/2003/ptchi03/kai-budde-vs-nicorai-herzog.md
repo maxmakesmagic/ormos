@@ -605,7 +605,9 @@ render_recovery:
   - Wretched Anurid
   occurrences: 1
 ---
-![](https://i.ormos.uk/2a/49/2a49520af64346aca0c21e222e8810a311c731b08bcfb9f841b3ef4f46582de1.jpg)　黒赤。誰もが欲する除去色二つを組み合わせた、禁断の果実とでも呼ぶべきアーキタイプだ。全てのピックが全員の監視の元に行われるロチェスタードラフトでは、強力だが協力を得られない諸刃の剣。だが、Kai は難なくこの武器を使いこなし、William Jensen を、Jon Finkel を一刀両断の元に切り捨て決勝まで進出した。
+![](https://i.ormos.uk/2a/49/2a49520af64346aca0c21e222e8810a311c731b08bcfb9f841b3ef4f46582de1.jpg)
+
+　黒赤。誰もが欲する除去色二つを組み合わせた、禁断の果実とでも呼ぶべきアーキタイプだ。全てのピックが全員の監視の元に行われるロチェスタードラフトでは、強力だが協力を得られない諸刃の剣。だが、Kai は難なくこの武器を使いこなし、William Jensen を、Jon Finkel を一刀両断の元に切り捨て決勝まで進出した。
 
 　Elves! デッキのどこを切ってもエルフ・エルフ・エルフ。準々決勝の相手が攻撃軽減天使ドラゴンデッキという意味不明な異能デッキであったがために、通常とは異なる偏ったアプローチを要求されてしまったのが Nicorai だ。
 
@@ -683,7 +685,9 @@ Kai 2 - Nicorai 0
 
 　Nicorai も《ワイアウッドの伝令/Wirewood Herald》、《常籠手の急使/Everglove Courier》と展開するが Kai は止まらない。《切り刻まれた軍勢/Severed Legion》、《ゴブリンの監督官/Goblin Taskmaster》、《腐れ肺の再生術師/Rotlung Reanimator》、《堕ちたる僧侶/Fallen Cleric》と並べ続ける。
 
-![](https://i.ormos.uk/26/38/263890df4d25dfce724b30126b43484a520f7daf80809cd61c75cb27f181108d.jpg)　Nicorai も《疑い深い濃霧獣/Leery Fogbeast》を出すものの、正直なんとか防衛できているだけというレベル。この間も《切り刻まれた軍勢/Severed Legion》の攻撃は止まらずライフは刻一刻と減り続ける。
+![](https://i.ormos.uk/26/38/263890df4d25dfce724b30126b43484a520f7daf80809cd61c75cb27f181108d.jpg)
+
+　Nicorai も《疑い深い濃霧獣/Leery Fogbeast》を出すものの、正直なんとか防衛できているだけというレベル。この間も《切り刻まれた軍勢/Severed Legion》の攻撃は止まらずライフは刻一刻と減り続ける。
 
 　詰め将棋。
 

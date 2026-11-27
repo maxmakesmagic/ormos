@@ -153,7 +153,9 @@ Bruneau mullinganed twice to start the match but added that he couldn't complain
 
 Bruneau's five-card hand gave him three lands, but nothing to play on the first few turns. Harvey, ever lucky, played forest-swamp-plains on the first three turns and dropped a Wirewood Savage. Bruneau went to the air with a pair of Screeching Buzzards, while Harvey put out a Birchlore Rangers and a facedown creature.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a810.jpg)The key moment in the game came when Harvey sent the face-down 2/2 in, and then used the Rangers' ability to morph it into its true form: Silent Specter. A savaging ensued, especially when Tribal Unity allowed the Specter to survive being double blocked by two Buzzards.
+![](http://www.wizards.com/sideboard/images/ptchi03/a810.jpg)
+
+The key moment in the game came when Harvey sent the face-down 2/2 in, and then used the Rangers' ability to morph it into its true form: Silent Specter. A savaging ensued, especially when Tribal Unity allowed the Specter to survive being double blocked by two Buzzards.
 
 Harvey 1 – Bruneau 0
 
@@ -167,7 +169,9 @@ Harvey 1 – Bruneau 1
 
 Harvey breathed a sigh of relief when it was evident Bruneau had no turn-2 play. With no Sparksmith in sight, he played out a Wirewood Savage. Bruneau Swatted it, but Eugene had a replacement one, plus Improvised Armor to suit it up.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a805.jpg)Bruneau deployed his standard air force of two Screeching Buzzards (he had 3 in his deck), and the race was on. But Harvey had his own little racer, Mobilization with six land in play.
+![](http://www.wizards.com/sideboard/images/ptchi03/a805.jpg)
+
+Bruneau deployed his standard air force of two Screeching Buzzards (he had 3 in his deck), and the race was on. But Harvey had his own little racer, Mobilization with six land in play.
 
 The Buzzards kept swinging in the air, and Bruneau started playing creatures—including Sparksmith—for the sole reason of chump-blocking the 4/7 Wirewood Savage. Eugene kept making Soldier tokens, and eventually he won the game with a Tribal Unity, turning all the Soldiers into 4/4's.
 

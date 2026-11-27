@@ -44,7 +44,9 @@ archive_source:
   sha256: e267d032f9951ca2a61f77290be6c1396adc8b3187e3d9b4625cdab62888f90f
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a957.jpg)Many of the Magic: The Gathering artists don't play the game themselves, which means that their perception of the power of a card stems from the feedback from the players. Matt Cavotta, however, has played the game since The Dark. "I don't know if a card will stink until after I have made the art. If it does, then I get disappointed, especially when the art is something I'm proud of," he admits.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a957.jpg)
+
+Many of the Magic: The Gathering artists don't play the game themselves, which means that their perception of the power of a card stems from the feedback from the players. Matt Cavotta, however, has played the game since The Dark. "I don't know if a card will stink until after I have made the art. If it does, then I get disappointed, especially when the art is something I'm proud of," he admits.
 
 The 31-year-old from Cleveland, Ohio was already an artist when he discovered Magic. "I played the game, so I didn't see any reason why I shouldn't try to do some art also," he says. The very first piece of art he did for Magic was Subterranean Hangar, not exactly the strongest card of Mercadian Masques. Since then, he has often experienced to see his cards become weak cards that rarely see play at all. "Quicksilver Wall is one of my favourite paintings, but the card is terrible. In drafts, I pass my own cards all the time," Cavotta chuckles.
 

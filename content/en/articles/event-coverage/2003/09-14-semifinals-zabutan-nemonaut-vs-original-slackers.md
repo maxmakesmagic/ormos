@@ -53,7 +53,9 @@ render_recovery:
 ---
 For Gary Wise, the Sunday of a Team Pro Tour is familiar territory. This is his third appearance in a team Top 4 in the last four years, so to say he's good at this format would be an understatement. He won the whole thing in 2000, but lost in the first round last year to an undermatched 2020 team in an upset.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a806.jpg)This has been somewhat of a theme on the Team Pro Tour, as there is always one "relatively unknown" squad that beats a veteran team to advance to the finals. In 2001, it was Les Plus Class beating Illuminati, and last year 2020 defeated Wise, Maher and Reeves. With three intimidating veteran teams in the Top 4 it would be easy to dismiss Original Slackers, but history has shown they can pull it off. After all, they did beat Maher, Reeves and Williams to get here, so they can certainly be competitive against the best. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a806.jpg)
+
+This has been somewhat of a theme on the Team Pro Tour, as there is always one "relatively unknown" squad that beats a veteran team to advance to the finals. In 2001, it was Les Plus Class beating Illuminati, and last year 2020 defeated Wise, Maher and Reeves. With three intimidating veteran teams in the Top 4 it would be easy to dismiss Original Slackers, but history has shown they can pull it off. After all, they did beat Maher, Reeves and Williams to get here, so they can certainly be competitive against the best. 
 
 Jake Smith vs. Gary Wise
 
@@ -67,7 +69,9 @@ Smith- 1 Wise- 0
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a805.jpg)This time, it was Smith who mulliganed to six. Wise played Elvish Warrior, and Smith made a Riptide Mauler. A third turn Timberwatch Elf gave Wise a great position to work from, and Wirewood Elf put another Elf on the table on the following turn. Elvish Warrior attacked and was pumped to deal five damage, which let Smith set his Mauler to have a power of five. Wise summoned Sparksmith, but his Timberwatch got locked down with Frozen Solid. Play slowed down as Wise didn't produce any new threats, which gave Smith time to swing the game in his favor. Twisted Abomination hit the table, and got through for five damage a turn later. Wise played Skirk Commando face-up to power his Sparksmith, taking down Smith's morph (Ascending Aven).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a805.jpg)
+
+This time, it was Smith who mulliganed to six. Wise played Elvish Warrior, and Smith made a Riptide Mauler. A third turn Timberwatch Elf gave Wise a great position to work from, and Wirewood Elf put another Elf on the table on the following turn. Elvish Warrior attacked and was pumped to deal five damage, which let Smith set his Mauler to have a power of five. Wise summoned Sparksmith, but his Timberwatch got locked down with Frozen Solid. Play slowed down as Wise didn't produce any new threats, which gave Smith time to swing the game in his favor. Twisted Abomination hit the table, and got through for five damage a turn later. Wise played Skirk Commando face-up to power his Sparksmith, taking down Smith's morph (Ascending Aven).
 
 Another Abomination attack got Wirewood Elf to chump block; lacking options, Smith played two Smokespew Invokers, which could at least force through a little more damage. Wise put Extra Arms on his Skirk Commando, attacked with it to kill an Invoker, and Smith blocked and killed it with his Mauler. This put the Goblin count back at one, so Wise only took one damage to destroy Smith's other Invoker. Still, Smith was in control of the game, with a 5/3 Mauler and Twisted Abomination. As Wise chump blocked to stay alive and the end became apparent, Smith found out that one of his teammates had already won, and got high fives all around as he won his own match a moment later to put Original Slackers in the finals.
 

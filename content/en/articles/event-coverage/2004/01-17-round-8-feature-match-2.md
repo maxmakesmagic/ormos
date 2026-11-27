@@ -44,7 +44,9 @@ archive_source:
   sha256: b59b66e6738a387f74d953939fa393102f7d4b4a70c369665618325eefd697ec
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm15_1.jpg)It was a classic matchup. One half of the Fabulous Ruel Brothers, versus gangster extraordinaire Tomi Walamies. Or at least, it would have been, with maximum witty banter, were it not for the early hour. When asked for their record, they had the following to say.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm15_1.jpg)
+
+It was a classic matchup. One half of the Fabulous Ruel Brothers, versus gangster extraordinaire Tomi Walamies. Or at least, it would have been, with maximum witty banter, were it not for the early hour. When asked for their record, they had the following to say.
 
 "5-2. We both just lost." - Tomi Walamies
 

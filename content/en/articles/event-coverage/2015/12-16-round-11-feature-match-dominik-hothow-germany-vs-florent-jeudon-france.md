@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Craig Jones* 
 
-![](https://i.ormos.uk/01/c2/01c2d7a58589aa2d3a468cc87e2d802640337f6650fd36d41f30bbfe0fe7feec.jpg)Round 11 and two up and coming European players met each other in a battle to see who could edge that little bit closer to a top 8 slot. Dominik Hothow, from Germany, made the top 8 at the World Championships this year and Florent Jeudon is part of the successful French Team, Black Ops, that won GP Cannes and the Team Challenge in NY earlier this year. Jeudon again chose to draft black/red while Hothow had managed to draft blue/white with 5 creature tappers. 
+![](https://i.ormos.uk/01/c2/01c2d7a58589aa2d3a468cc87e2d802640337f6650fd36d41f30bbfe0fe7feec.jpg)
+
+Round 11 and two up and coming European players met each other in a battle to see who could edge that little bit closer to a top 8 slot. Dominik Hothow, from Germany, made the top 8 at the World Championships this year and Florent Jeudon is part of the successful French Team, Black Ops, that won GP Cannes and the Team Challenge in NY earlier this year. Jeudon again chose to draft black/red while Hothow had managed to draft blue/white with 5 creature tappers. 
 
 Game 1 was all about the tappers. Land for Jeudon seemed to be slow coming but he was able to deal with Hothow's early threats by first zapping a Samite Archer and then using Exotic Curse on a Glimmering Angel. Hothow was able to cast both of these despite only drawing islands because of a Dream Thrush. Once he lay a Coastal Tower then the Thrush went on a mission to peck. Hothow added a Benalish Trapper to his Stormscape Apprentice and then excluded Jeudon's first real threat, a Trench Wurm. A second Apprentice and second Trapper made a staggering 4 tappers on the table. Jeudon couldn't do anything about this army of tappers, and without blockers even 1/1's were enough to quickly kill him. 
 

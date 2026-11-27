@@ -69,7 +69,9 @@ render_recovery:
   - Skywing Aven
   occurrences: 14
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a987.jpg)With just two rounds left in Pro Tour Boston, nobody had yet clinched an invitation to Day 3. The first team through would be the winner of this feature match, between Courtney's Boys and 2020.
+![](http://www.wizards.com/sideboard/images/ptbos02/a987.jpg)
+
+With just two rounds left in Pro Tour Boston, nobody had yet clinched an invitation to Day 3. The first team through would be the winner of this feature match, between Courtney's Boys and 2020.
 
 David Rood has been putting up good finishes at seemingly every North American Grand Prix this year, most recently with an 11th-place finish in Cleveland where his deck also claimed 2nd place in the hands of Gab Tsang. Rood is primed for a breakout on the game's biggest stage and he team up with long-time on-again, off-again Pro Tour players Steve Wolfman and Elijah Pollock for this event. The three Canadians have been doing their fellow caucus proud all weekend. They never gave me an answer I believed about were their team name comes from, but their most interesting answer was that they rolled two dice to determine it.
 
@@ -83,7 +85,9 @@ Pack #2 gave 2020 their second Cephalid Looter. Pollock took it to go with his M
 
 The most interesting pack of the draft was Pollock's *Torment* pack, which contained Violent Eruption, Balshan Collaborator, *and*Mutilate. The Canadians got to take three cards, but their colors simply weren't set up to take advantage of any two of these. They wound up having Pollock D-up the Eruption, Rood took the Collaborator, and Wolfman got to put Mutilate into his deck for the black-red mirror match. The Boys were flabbergasted at how badly 2020 flubbed up this pack. Rood was blue-white so the Collaborator was really just a bad Aven Fisher and Skywing Aven would have been a much better pick, especially since none of the Boys were blue-black either so they're making good use of the Skywing whereas the Collaborator wouldn't have helped them much at all. Worse still, Wise was actually more afraid of playing against Violent Eruption than Mutilate, so they felt 2020 didn't even draft or D-up the right cards.
 
-![](https://i.ormos.uk/b5/34/b534f2cd55f18b4cefc3027c049df8c9866a2c6848d7a2469b48c256e1ae5115.jpg)There really wasn't much moving around in colors during the draft. Each team came in with a plan and the packs let them stick to it. The middle seats will pit Rood's blue-white against Reeves' blue-green. The A-seat sports a black-red mirror match and the C seat battle is between Maher's red-white and Pollock's green-blue.
+![](https://i.ormos.uk/b5/34/b534f2cd55f18b4cefc3027c049df8c9866a2c6848d7a2469b48c256e1ae5115.jpg)
+
+There really wasn't much moving around in colors during the draft. Each team came in with a plan and the packs let them stick to it. The middle seats will pit Rood's blue-white against Reeves' blue-green. The A-seat sports a black-red mirror match and the C seat battle is between Maher's red-white and Pollock's green-blue.
 
 The uneven color distribution in *Torment* in *Judgment* seems to be limiting players' options in this draft format. You pretty much have to draft black on the right, since it's so good in *Torment*, and *Judgment* demands either green on white on the left. Blue is so good in all three packs that most teams put it in the middle, though many decide to put it in two places. Within those constraints there are still a bunch of decisions to make, though, and it is those decisions that will make the difference between winning and losing this weekend.
 

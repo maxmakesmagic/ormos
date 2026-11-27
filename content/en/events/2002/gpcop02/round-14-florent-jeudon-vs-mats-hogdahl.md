@@ -72,7 +72,9 @@ render_recovery:
   - Wave of Indifference
   occurrences: 16
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a869.jpg)In the last round of GP Copenhagen, we have competing for top 8 Florent Jeudon from France and Mats Högdahl from Sweden. As no local player or international superstar is playing, the crowd doesn't seem very interested by the game.
+![](http://www.wizards.com/sideboard/images/gpcop02/a869.jpg)
+
+In the last round of GP Copenhagen, we have competing for top 8 Florent Jeudon from France and Mats Högdahl from Sweden. As no local player or international superstar is playing, the crowd doesn't seem very interested by the game.
 
 The Frenchman finished 6th two weeks ago in New York and lost in final of the last GP he has played in.  
  Mats was in his National's Top 4 but couldn't make the trip to Sydney. So it's only half of a surprise to see them playing in a decisive game.
@@ -82,7 +84,9 @@ Florent wins the toss and chooses to play first.
 
 Severed Legion arrives on turn three as the first threat for Jeudon. Florent plays Barkhide Mauler on his first main phase and trades his 2/2 for his opponent's. The Swede's next creature is not what can be called a perfect blocker. Of course 3/3 is good enough to slow down attaackers, but Wretched Anurid is not the best creature he can get at that time.
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a870.jpg)Florent attacks with Mauler and plays a Wall of Mulch that he sacrifices to draw a card (Jeudon 20-15), the Anurid stikes back, and on the Frenchman's next turn Cruel Revival gets the annoying Mauler out of the red zone, also allowing Mats to get his Legion back to his hand. At this time, it seems like the situation is about to stabilize (Jeudon 14-12).
+![](http://www.wizards.com/sideboard/images/gpcop02/a870.jpg)
+
+Florent attacks with Mauler and plays a Wall of Mulch that he sacrifices to draw a card (Jeudon 20-15), the Anurid stikes back, and on the Frenchman's next turn Cruel Revival gets the annoying Mauler out of the red zone, also allowing Mats to get his Legion back to his hand. At this time, it seems like the situation is about to stabilize (Jeudon 14-12).
 
 But Florent kept a little surprise for his last round opponent as Tusker joins the elvish beatdown squad. Högdahl reacted with an amazing suprising mysterious card he chose to play face down. The game was in Jeudon's hands at that time. He added Gigapede as one more six power creature threat (14-7), exploded the last creature in his way erratically and attacked for the win.
 
@@ -90,7 +94,9 @@ Jeudon 1- Högdahl 0
 
 Mats elects to play first and takes a mulligan. Despites the handicap his start is far more impressive than on Game 1. He plays Wretched Anurid on turn 2 and hides Skirk Commando on the following turn. Florent tries to resist the beadown blocking the goblin with his own face down creature.
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a871.jpg)On the turn four of this incredibly myserious game, a third creature is played face down, the second on Högdahl's side.
+![](http://www.wizards.com/sideboard/images/gpcop02/a871.jpg)
+
+On the turn four of this incredibly myserious game, a third creature is played face down, the second on Högdahl's side.
 
 Wirewood Savage is played on Florent's turn four to slow down the beating. As he survives a fight with a faced down creature (Vitality Charm), Jeudon's defensive action is starting to pay. As he plays Snarling Undorak on the next turn, the fire of Mats hope seems to fade away. On each turn his turn his life is getting lower and Jeudon's advantage on the game more obvious. Wave of Indifference puts the Swede down to one, and on his second main phase Florent's Birchlore Ranger gives him the win as a Wretched Anurid was still on the table.
 

@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-[![Knowledge Arcana - Wizards.Community's Online Gamer Zine](https://i.ormos.uk/60/10/6010d01c323b9a3d388867fe23468c19435ac8f0bdcfd0904476ab2c68557b90.jpg "Knowledge Arcana - Wizards.Community's Online Gamer Zine")](https://web.archive.org/web/20060417000000/http://wizo.wizards.com/ka)K**nowledge Arcana**'s fifth issue hits the web! Click over to [KA's homepage](https://web.archive.org/web/20060417000000/http://wizo.wizards.com/ka) and download the latest issue of our online 'zine for gamers by gamers. This quarter we bring you a **Magic** mana puzzle that will break your brain and interviews with R&D’s MaRo and BraDo. (That’s Mark Rosewater and Brady Dommermuth to the uninitiated.) There's also new short fiction “The Dreamer and the Fiend” and a big helping of amazing illustrations from Wizards.Community members. 
+[![Knowledge Arcana - Wizards.Community's Online Gamer Zine](https://i.ormos.uk/60/10/6010d01c323b9a3d388867fe23468c19435ac8f0bdcfd0904476ab2c68557b90.jpg "Knowledge Arcana - Wizards.Community's Online Gamer Zine")](https://web.archive.org/web/20060417000000/http://wizo.wizards.com/ka)
+
+K**nowledge Arcana**'s fifth issue hits the web! Click over to [KA's homepage](https://web.archive.org/web/20060417000000/http://wizo.wizards.com/ka) and download the latest issue of our online 'zine for gamers by gamers. This quarter we bring you a **Magic** mana puzzle that will break your brain and interviews with R&D’s MaRo and BraDo. (That’s Mark Rosewater and Brady Dommermuth to the uninitiated.) There's also new short fiction “The Dreamer and the Fiend” and a big helping of amazing illustrations from Wizards.Community members. 
 
 Once you've had your fill, [send in your feedback](https://web.archive.org/web/20060417000000/http://boards1.wizards.com/showthread.php?t=578882) on what you thought of this latest issue. 
 

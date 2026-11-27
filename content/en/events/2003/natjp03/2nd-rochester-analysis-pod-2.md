@@ -1259,7 +1259,9 @@ render_recovery:
 
 ### ●レギオン
 
-![](http://www.wizards.com/sideboard/images/natjp03/a970.jpg)１パック目で各人が大体の色を確定させたが、１番の三原がオンスロートの最終パックで《暴動/Insurrection》をピックしたことから、今後どう動くかが注目される。
+![](http://www.wizards.com/sideboard/images/natjp03/a970.jpg)
+
+１パック目で各人が大体の色を確定させたが、１番の三原がオンスロートの最終パックで《暴動/Insurrection》をピックしたことから、今後どう動くかが注目される。
 
 また、黒をピックした高桑と藤田の二人は２色目を確定できずにいるため、周りとの関係を見ながら２色目を確定させていくことになる。
 

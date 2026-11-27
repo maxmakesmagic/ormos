@@ -44,7 +44,9 @@ archive_source:
   sha256: b72e39ee960bef9d8080d361f268c4057462d3a24b725fbc799780c9ce0b16a9
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/Kiblerdeckback.jpg)When registering his deck, Brian Kibler wasn't sure he would want it back. He saw a few really powerful white cards (Samite Archer and Armored Guardian), but the deck did not appear to have enough depth in white to support those bombs. Kibler did in fact get his deck back and upon further review there really weren't enough good white cards to play white. However, the deck was quite easy to build. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/Kiblerdeckback.jpg)
+
+When registering his deck, Brian Kibler wasn't sure he would want it back. He saw a few really powerful white cards (Samite Archer and Armored Guardian), but the deck did not appear to have enough depth in white to support those bombs. Kibler did in fact get his deck back and upon further review there really weren't enough good white cards to play white. However, the deck was quite easy to build. 
 
 Kibler's normal plan in Invasion sealed deck is to play black/blue/white. The thing he looks for the most is a good, aggressive creature set. He likes to have a solid mana curve of creatures with some early beatdown and some evasion and he's certainly willing to also look at red if it gives him that. "People really underestimate cards like Kavu Aggressor and Shivan Zombie." 
 

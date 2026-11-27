@@ -711,7 +711,9 @@ render_recovery:
 ---
 * * *
 
-![Wellwisher with a big red X](https://i.ormos.uk/50/23/5023b8f84024facaf854b96b9d0c2c2946c92944573a40f330b6287484ea91c5.jpg)Welcome to Elf Week 2! The first Elf Week was such an unexpected success that you just knew there would be a hastily made sequel with half the original cast. I talked about every last one of the *Future Sight* Elves except for Llanowar Mentor, Llanowar Augur, and Thornweald Archer. This week, I figured I'd build some totally wacky, totally off-the-wall elf beatdown decks. What could be zanier than swinging for two?
+![Wellwisher with a big red X](https://i.ormos.uk/50/23/5023b8f84024facaf854b96b9d0c2c2946c92944573a40f330b6287484ea91c5.jpg)
+
+Welcome to Elf Week 2! The first Elf Week was such an unexpected success that you just knew there would be a hastily made sequel with half the original cast. I talked about every last one of the *Future Sight* Elves except for Llanowar Mentor, Llanowar Augur, and Thornweald Archer. This week, I figured I'd build some totally wacky, totally off-the-wall elf beatdown decks. What could be zanier than swinging for two?
 
 Okay, I'm just kidding. Despite my half- to no-hearted efforts to convince Scott and Kelly to let me do a second Elf Week, I will be moving on to something new and exciting, something with only the smallest amount of Elves in it. Every set has some rares that take a while (sometimes forever) to get the respect they deserve. It's my job to help speed up that process. Let's rock and roll, shall we? (Feel free to rhythm and blues or country and western if that's more your style.)
 

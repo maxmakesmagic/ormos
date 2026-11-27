@@ -88,7 +88,9 @@ render_recovery:
   - Chainer's Edict
   occurrences: 90
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a853.jpg)James won the JSS Qualifier that took place at Grand Prix Boston. James has been playing for almost a third of his life, somewhere between five and six years. Ian qualified through the local JSS Challenge near Carbondale, CO. "It was small," he said. "Only about forty people or so were there."
+![](http://www.wizards.com/sideboard/images/natus03/a853.jpg)
+
+James won the JSS Qualifier that took place at Grand Prix Boston. James has been playing for almost a third of his life, somewhere between five and six years. Ian qualified through the local JSS Challenge near Carbondale, CO. "It was small," he said. "Only about forty people or so were there."
 
 ### Game 1
 
@@ -100,7 +102,9 @@ At the end of James turn, Ian did some cycling. The cards that went toward the g
 
 The Counterspell from Ian met one from James, and the Compulsion got to stay. Ian chose not to fight over it because he wanted to hold a little counter backup for his own turn, and during his turn he was able to muscle an Astral Slide into play after a brief counter war. The two players each had a single non-land permanent on the table at this point, but the Compulsion from James seemed to offer more of an advantage at this point. Ian cycled away another Choking Tethers, but his table is still relatively clean.
 
-![](http://www.wizards.com/sideboard/images/natus03/a854.jpg)At the end of Ian's turn, James had some more things he wanted to do. He cast Cunning Wish to go and get Mana Short, and then cast the Short. Ian tried to Memory Lapse the Mana Short, and James responded with Counterspell. Ian then cast Complicate on the Counterspell, allowing James to just pick up the Mana Short again during his main phase.
+![](http://www.wizards.com/sideboard/images/natus03/a854.jpg)
+
+At the end of Ian's turn, James had some more things he wanted to do. He cast Cunning Wish to go and get Mana Short, and then cast the Short. Ian tried to Memory Lapse the Mana Short, and James responded with Counterspell. Ian then cast Complicate on the Counterspell, allowing James to just pick up the Mana Short again during his main phase.
 
 "I'll just concede," Ian said in disgust. He was clearly not happy with his play in Game 1.
 
@@ -150,7 +154,9 @@ An Astral Slide from Ian is met with Counterspell. Ian asked the same graveyard 
 
 "How many 'togs in those two piles," Ian asked. The two piles he was referring to were the graveyard and the removed from game zone. 
 
-![](http://www.wizards.com/sideboard/images/natus03/a855.jpg)"Two 'togs," James responded. Having seen two 'togs and an Upheaval James is running out of things that work in his library.
+![](http://www.wizards.com/sideboard/images/natus03/a855.jpg)
+
+"Two 'togs," James responded. Having seen two 'togs and an Upheaval James is running out of things that work in his library.
 
 "Scrivener," Ian announced. Before deciding what card he wanted from his graveyard he perused the huge piles of graveyard and removed from game that James had sitting on the play mat. He finally decided on an Envelop. The Scrivener was short lived as James first used the Chainer's Edict out of his graveyard, then played from his hand to make sure it was dead. James used Compulsion twice more, bringing his library all the way down to three cards.
 

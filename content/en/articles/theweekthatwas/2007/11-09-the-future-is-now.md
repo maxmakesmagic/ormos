@@ -352,7 +352,9 @@ a:34:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";s:9
 
 "I always felt that I had what it takes to be competitive at the higher levels of **Magic** but I just had to get there first," said Paul of the confidence boost he got from his win at Nationals. "Then I finished 12th at Worlds in Paris and since then I knew I could compete with the big boys. At least in my mind it proved that Nationals was not a fluke and that I could continue doing well in bigger events. It gave me the confidence that I needed to take on the 2007 season, but I must admit I still do get nervous every now and then when I play against the big name players that I used to read about before I played on the Tour."
 
-![Paul first got a taste of victory at the 2006 U.S. National Championship.](https://i.ormos.uk/aa/39/aa39d43241b7aa6c19e039486c421f43ad7157003a1c2f9980d502c8e6a7a0e5.jpg)For Paul getting his game up to the level of...well, up to Level 6 was a two-pronged attack. The first part of the equation is something that is available to just about every **Magic** player and has been a well-publicized tool for Paul.
+![Paul first got a taste of victory at the 2006 U.S. National Championship.](https://i.ormos.uk/aa/39/aa39d43241b7aa6c19e039486c421f43ad7157003a1c2f9980d502c8e6a7a0e5.jpg)
+
+For Paul getting his game up to the level of...well, up to Level 6 was a two-pronged attack. The first part of the equation is something that is available to just about every **Magic** player and has been a well-publicized tool for Paul.
 
 "Practice, practice, and more practice," explained the Krakow winner. "The best place to be able to get as many hours into the game as possible is through **Magic Online** and the countless hours that I devoted to the game paid off. Immerse yourself in the game and do whatever you can to improve your game and that includes reading strategy articles, practicing, and surrounding yourself with other players who have the same drive to do well as you do."
 

@@ -87,7 +87,9 @@ We'll start, as we always should, with some rules.
 
 ### Challenge #1 – The Rules
 
-![](https://i.ormos.uk/cf/07/cf07480c1ceca64c72857920a97059ba2b34f86a8047a369a0d7053c5b8b07c6.jpg)Before you read any further, go to the [comprehensive rules](https://web.archive.org/web/20050815000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/rules/tourneyplayer) and reference the section on Two-Headed Giant. Print it out. (It's only a couple pages long.) Read it.
+![](https://i.ormos.uk/cf/07/cf07480c1ceca64c72857920a97059ba2b34f86a8047a369a0d7053c5b8b07c6.jpg)
+
+Before you read any further, go to the [comprehensive rules](https://web.archive.org/web/20050815000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/rules/tourneyplayer) and reference the section on Two-Headed Giant. Print it out. (It's only a couple pages long.) Read it.
 
 You didn't do it, did you? You completely ignored me. That's okay – but realize I won't be answering any rules questions on this format via email. The answers you seek are either in those comprehensive rules, the [floor rules for Two-Headed Giant and Two-Headed Giant FAQ](https://web.archive.org/web/20050815000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=dci/doccenter/home), or they're in the [Saturday rules column](https://web.archive.org/web/20050815000000/http://archive.wizards.com/default.asp?x=mtgcom/columnarchive&column=SaturdaySchool), or they're (gasp) in Mark Gottlieb's head. Seriously – that's not a joke. Some rulings are *literally in his head*. Go ahead – ask his head. It'll tell you – I speak truth.
 

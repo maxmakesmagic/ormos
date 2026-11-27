@@ -115,7 +115,9 @@ render_recovery:
 
 At first glance, it looked like the teams had lined up in order of chattiness. The animated Paul Rietzl and "Efro" on the end, the stern-to-sassy Jon Finkel and Peter Guevin in the middle, and silent seething Tom Guevin versus a typically silent Kamiel Cornelissen. Formerly Ace-Ten Off, "Kameel, John, and Erik" decided to mix things up after winning Grand Prix - Amsterdam. Last year, the Guevins were with Danny Mandel, but he went on to bigger and better things, and so they hired Rietzl.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a928.jpg)Froehlich and Rietzl were the first to start, with Froehlich's red-blue serving up three Islands and nothing else. He was playing, though, and his opener of morph, morph, morph got past Rietzl's Spectral Sliver and Severed Legion. After Rietzl added a Nantuko Husk, Froehlich hit him down to 8 and cycled Lonely Sandbar into the mountain he needed for Thoughtbound Primoc.
+![](http://www.wizards.com/sideboard/images/ptbos03/a928.jpg)
+
+Froehlich and Rietzl were the first to start, with Froehlich's red-blue serving up three Islands and nothing else. He was playing, though, and his opener of morph, morph, morph got past Rietzl's Spectral Sliver and Severed Legion. After Rietzl added a Nantuko Husk, Froehlich hit him down to 8 and cycled Lonely Sandbar into the mountain he needed for Thoughtbound Primoc.
 
 Rietzl hit back to leave Froehlich at 9. Paul dropped Lingering Death on the Primoc and played a morph. Froehlich hit in with two morphs and a flier. Rietzl blocked with Husk and morph. Froehlich stacked damage and Rietzl's eyes goggled as Froehlich flipped up Raven Guild Initiate to save the Primoc. He replayed it and passed it back to Rietzl.
 
@@ -145,7 +147,9 @@ Things hadn't gotten closer to resolving between Finkel and Peter Guevin. Finkel
 
 It looked like another quick game for Rietzl. Froehlich got some early beats but his attackers kept getting wiped out. Lingering Death and Pinpoint Avalanche kept the board clean, but a Riptide Shapeshifter slipped through. Rietzl dropped a Dragon Roost and waited. Froehlich hit and waited on his mana. Rietzl passed it back, and Froehlich searched up Arcanis the Omnipotent, along the way showing his two Sparksmiths. Cruel Revival shut the Legend down.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a929.jpg)Froehlich dealt a quick 4 with Crested Craghorn while he could. Rietzl made a Husk and a Severed Legion. He was getting low on life. Froehlich made a morph and Sledder. Rietzl bought some insurance with a Festering Goblin and got ready for a Dragon. Froehlich flipped up his Mistform Seaswift.
+![](http://www.wizards.com/sideboard/images/ptbos03/a929.jpg)
+
+Froehlich dealt a quick 4 with Crested Craghorn while he could. Rietzl made a Husk and a Severed Legion. He was getting low on life. Froehlich made a morph and Sledder. Rietzl bought some insurance with a Festering Goblin and got ready for a Dragon. Froehlich flipped up his Mistform Seaswift.
 
 Froehlich made no play. Rietzl waited. Finally, a second mountain from Froehlich, who played morph before swinging in with his Goblin, Craghorn, and Seaswift, provoking the Dragon token. Rietzl made a second token, but it was shot down by a Shock and a turned-up Volcanist. Now Froehlich had a second Goblin to sacrifice to his Sledder, and was able to dodge the Festering Goblin's ability to hit for the win.
 
@@ -175,7 +179,9 @@ Finally, Finkel was able to win his lockdown game. Skinthinner took out the Shie
 Finkel 1 - Peter Guevin 0  
  Kameel, John, and Erik 1 - Watch Out for Timberwatch 0
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a930.jpg)Just fourteen minutes remained for the match.
+![](http://www.wizards.com/sideboard/images/ptbos03/a930.jpg)
+
+Just fourteen minutes remained for the match.
 
 "I've run people in three minutes before, but probably no one of Jon's caliber." -- Peter Guevin
 

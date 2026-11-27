@@ -44,7 +44,9 @@ archive_source:
   sha256: f3ccc62fecca8471ba69b7066582836a4e6ee77b48989256a23b897da4e21b9c
 render_recovery: []
 ---
-![](https://i.ormos.uk/34/52/345213c0ea795b71d0749e50e6c07fa25333aa63c276d82f23493bcbebc7e46b.jpg)Svend Geertsen finally broke his 9-0 curse. Time and time again he has blasted out of the gates at a Pro Tour only to fall in the last rounds. This time he held on and made the Top 8, becoming one of only a handful of players who have had two Top 8 finishes with five or more years between them (his first was in Worlds 1997 and this one is his fourth).
+![](https://i.ormos.uk/34/52/345213c0ea795b71d0749e50e6c07fa25333aa63c276d82f23493bcbebc7e46b.jpg)
+
+Svend Geertsen finally broke his 9-0 curse. Time and time again he has blasted out of the gates at a Pro Tour only to fall in the last rounds. This time he held on and made the Top 8, becoming one of only a handful of players who have had two Top 8 finishes with five or more years between them (his first was in Worlds 1997 and this one is his fourth).
 
 Across the table Benjamin Niedrig is probably fighting back the jitters. In his first Pro Tour ever he reached this Top 8. Now far can he carried his Cinderella story?
 
@@ -76,7 +78,9 @@ In came the Wurm and Svend [Peek](https://web.archive.org/web/20020505000000/htt
 
 Again the Danish sent the Swarm and Imp. The Torturer jumped in front of the Swarm to minimize the damage and Geertsen played [Organ Grinder](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Organ+Grinder). Knowing he would probably have to win the damage race fast Geertsen decided not to remove any extra cards to the [Gravestorm](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravestorm).
 
-![](https://i.ormos.uk/cc/c5/ccc56fda95938feb04bbf920ac119d414f68fb1bc064368d95f4e76693e2cec9.jpg)This would power up his Grinder and hopefully get Niedrig within the Champion's six point range. On the other hand it would give Niedrig an extra card each turn. It was a tough gambit but probably the best available plan for the Danish.
+![](https://i.ormos.uk/cc/c5/ccc56fda95938feb04bbf920ac119d414f68fb1bc064368d95f4e76693e2cec9.jpg)
+
+This would power up his Grinder and hopefully get Niedrig within the Champion's six point range. On the other hand it would give Niedrig an extra card each turn. It was a tough gambit but probably the best available plan for the Danish.
 
 After a very long deliberation Benjamin decided to let the Collaborator and the Wurm played defense instead of attacking and Mutilating the table away. Svend Geertsen leaned forward studying the table with great care.
 
@@ -121,7 +125,9 @@ Svend: "I'm SO glad I didn't win this game. I've been up 2-0 in quarterfinals tw
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a709.jpg)Before sideboarding for the third game Geertsen consulted his copious notes hoping to compile his opponent's complete decklist or at least get a very clear picture of what to expect.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a709.jpg)
+
+Before sideboarding for the third game Geertsen consulted his copious notes hoping to compile his opponent's complete decklist or at least get a very clear picture of what to expect.
 
 Again Svend [Peek](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peek)ed, this time with a "Guess what? [Peek](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peek)", seeing [Cabal Torturer](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Torturer), [Dreamwinder](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dreamwinder), [Balshan Collaborator](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Balshan+Collaborator) and [Obsessive Search](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Obsessive+Search). He followed that with [Cephalid Scout](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cephalid+Scout) and Fledging Imp before Niedrig dropped his first creature: [Cabal Torturer](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Torturer). 
 
@@ -167,7 +173,9 @@ The Danish laughed, as his troubles just keep getting worse. He stared at his ha
 
 The crowd let out a collective "ouch". Niedrig's dream hand was about to go away. Out went [Carrion Wurm](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carrion+Wurm), [Innocent Blood](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Innocent+Blood), [Gravestorm](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravestorm) and [Balshan Griffin](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Balshan+Griffin). Niedrig was now down to [Mutilate](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutilate).
 
-![](https://i.ormos.uk/9f/d6/9fd66ac0d870c4f4d724227a4648df9611a61b44e5de5634f392a3695d74fa54.jpg)[Balshan Collaborator](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Balshan+Collaborator) came back but Geertsen had the [Patriarch's Desire](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patriarch%27s+Desire). A second [Peek](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peek) and [Concentrate](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Concentrate) helped the Danish dig deeper. Still the [Think Tank](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Think+Tank) kept Benjamin in business giving him [Dreamwinder](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dreamwinder) and [Organ Grinder](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Organ+Grinder) to keep churning out creatures.
+![](https://i.ormos.uk/9f/d6/9fd66ac0d870c4f4d724227a4648df9611a61b44e5de5634f392a3695d74fa54.jpg)
+
+[Balshan Collaborator](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Balshan+Collaborator) came back but Geertsen had the [Patriarch's Desire](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patriarch%27s+Desire). A second [Peek](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peek) and [Concentrate](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Concentrate) helped the Danish dig deeper. Still the [Think Tank](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Think+Tank) kept Benjamin in business giving him [Dreamwinder](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dreamwinder) and [Organ Grinder](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Organ+Grinder) to keep churning out creatures.
 
 Laquatus' Champion showed up providing Svend Geertsen with a stellar blocker. He thus stabilized the Red Zone but he was pressed to keep up with the [Think Tank](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Think+Tank). The Swiss was getting the lands out of the way and just buying spell after spell.
 

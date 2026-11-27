@@ -202,7 +202,9 @@ render_recovery:
   - Unifying Theory
   occurrences: 195
 ---
-![](https://www.wizards.com/sideboard/images/gpnj02/933.jpg)Illuminati consists of Grand Prix aficionado and store owner Alex Shvartsman, former US National Champion Justin Gary, and PT Champion Zvi Mowshowitz.
+![](https://www.wizards.com/sideboard/images/gpnj02/933.jpg)
+
+Illuminati consists of Grand Prix aficionado and store owner Alex Shvartsman, former US National Champion Justin Gary, and PT Champion Zvi Mowshowitz.
 
 J(ustin) G(ary): Oooh, two Chatters. (Opening cards). Come on, give me two drops. Woohoo! Two drops! (Sorts Werebears).  
  A(lex) S(hvartsman): Uh oh. Decklist problems. They registered two Wild Mongrels, not two Werebears.  

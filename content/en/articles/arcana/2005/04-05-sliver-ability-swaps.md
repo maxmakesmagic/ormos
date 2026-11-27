@@ -121,14 +121,20 @@ render_recovery:
 
 The [*Legions* slivers](https://web.archive.org/web/20050405000000/http://gatherer.wizards.com/default.asp?first=1&last=100&term=sliver&Field_Type=on&setfilter=Legions&colorfilter=All&output=summary&sort=name&x=43&y=17) took a lot of tinkering to reach their final forms -- they spent a lot of time on the Riptide Project drawing board, as it were. 
 
-![Blade Sliver art by David Martin](https://i.ormos.uk/68/c9/68c94fd2c62890cf7c5277542b1e0c1f70ccf9faf0541de066263bce942d854d.jpg)In most cases, the slivers' art corresponds in some way to its ability. For example, Blade Sliver, which pumps slivers' offensive capabilities, has two claws instead of one.
+![Blade Sliver art by David Martin](https://i.ormos.uk/68/c9/68c94fd2c62890cf7c5277542b1e0c1f70ccf9faf0541de066263bce942d854d.jpg)
+
+In most cases, the slivers' art corresponds in some way to its ability. For example, Blade Sliver, which pumps slivers' offensive capabilities, has two claws instead of one.
 
   
   
 
-![Crypt Sliver art by Edward P. Beard, Jr.](https://i.ormos.uk/db/e6/dbe633088fc6058d766e144a793085e037abd69b3b0b488c12814249dbd7de7a.jpg)But many of the slivers' abilities were still being hammered out *after* their art was commissioned. For example, the oily form of Crypt Sliver originally had a Fear-like evasion ability. The art was originally intended to show a sliver that could dive down into the muck to avoid being seen. During development, Crypt Sliver's ability was seen as redundant with Shifting Sliver's near-unblockability, so was changed to a regeneration ability.
+![Crypt Sliver art by Edward P. Beard, Jr.](https://i.ormos.uk/db/e6/dbe633088fc6058d766e144a793085e037abd69b3b0b488c12814249dbd7de7a.jpg)
+
+But many of the slivers' abilities were still being hammered out *after* their art was commissioned. For example, the oily form of Crypt Sliver originally had a Fear-like evasion ability. The art was originally intended to show a sliver that could dive down into the muck to avoid being seen. During development, Crypt Sliver's ability was seen as redundant with Shifting Sliver's near-unblockability, so was changed to a regeneration ability.
 
   
   
 
-![Hunter Sliver art by Kev Walker](https://i.ormos.uk/45/95/459554670147a28cf7f30ab8c1e35b5c626128594d92af5b0175f62aa53cafec.jpg)Hunter Sliver was originally slated to have another difficult-to-block ability, similar to Goblin War Drums or Vine Kami. It has two heads, which originally was meant to indicate its ability to engage multiple blockers. Its ability was swapped out for first strike and then eventually to *Legions'* new provoke mechanic.
+![Hunter Sliver art by Kev Walker](https://i.ormos.uk/45/95/459554670147a28cf7f30ab8c1e35b5c626128594d92af5b0175f62aa53cafec.jpg)
+
+Hunter Sliver was originally slated to have another difficult-to-block ability, similar to Goblin War Drums or Vine Kami. It has two heads, which originally was meant to indicate its ability to engage multiple blockers. Its ability was swapped out for first strike and then eventually to *Legions'* new provoke mechanic.

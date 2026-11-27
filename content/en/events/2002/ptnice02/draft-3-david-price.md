@@ -113,7 +113,9 @@ render_recovery:
   - Gorilla Titan
   occurrences: 85
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a820.jpg)The King of Beatdown sits down at his seven person table between Alex Shvartsman and Frederic Courtois. With a 4-2-1 record, he needs a good deck to remain in contention for top 8. Price drafted R/G in both drafts yesterday, and shows a high inclination towards the beatdown. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a820.jpg)
+
+The King of Beatdown sits down at his seven person table between Alex Shvartsman and Frederic Courtois. With a 4-2-1 record, he needs a good deck to remain in contention for top 8. Price drafted R/G in both drafts yesterday, and shows a high inclination towards the beatdown. 
 
 The first pack goes decently as he starts with a Roar of the Wurm. Price is given several chances to delve into Black, with a Morbid Hunger, Crypt Keeper and Skeletal Scrying, but stays firm in mono Green. He seems to want to force Red, but with only a reckless charge and seeing no other good Red cards from the right it may not be the best of ideas. He also shows how high he values Muscle Burst by taking it over the board controlling Nantuko Disciple. 
 

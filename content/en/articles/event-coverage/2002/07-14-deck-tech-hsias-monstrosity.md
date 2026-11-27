@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/73/85/7385b7ed4dedfab931e94ee3f2c3e043cba9f9813e2762b9dd56a982a7a62053.jpg)It almost never happens that the most creative deck at the tournament walks away with the whole thing. More often than not, creativity is just deviation from what countless hours of playtesting and endless tournaments have shown to be the best cards within given decktypes. At the start of Grand Prix - Taipei, it seemed like Sheng Hsun Hsia was just another deckbuilder out to demonstrate his difference. He had no byes, and a deck that had so much *Judgment* in it that it just couldn't be good.
+![](https://i.ormos.uk/73/85/7385b7ed4dedfab931e94ee3f2c3e043cba9f9813e2762b9dd56a982a7a62053.jpg)
+
+It almost never happens that the most creative deck at the tournament walks away with the whole thing. More often than not, creativity is just deviation from what countless hours of playtesting and endless tournaments have shown to be the best cards within given decktypes. At the start of Grand Prix - Taipei, it seemed like Sheng Hsun Hsia was just another deckbuilder out to demonstrate his difference. He had no byes, and a deck that had so much *Judgment* in it that it just couldn't be good.
 
 Thirteen rounds later he'd proven his point, taking first place. And at first glance it's hard to understand why.
 

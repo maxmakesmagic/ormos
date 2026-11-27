@@ -84,17 +84,23 @@ render_recovery:
   - Ensnaring Bridge
   occurrences: 53
 ---
-![](http://www.wizards.com/sideboard/images/canat02/a961.jpg)On one side of this match was David Rood of Quebec, whose top finishes at northeast Grand Prix have people talking. On the other was Jeff Gerstl, a strong Ontarian, who is as surpsied as anyone to see himself at 4-0, but he's not complaining. Rood is playing the deck of choice for all Quebecers this weekend: red-green beats. Gerstl is also with red-green, but his deck sports some unorthodox choices.
+![](http://www.wizards.com/sideboard/images/canat02/a961.jpg)
+
+On one side of this match was David Rood of Quebec, whose top finishes at northeast Grand Prix have people talking. On the other was Jeff Gerstl, a strong Ontarian, who is as surpsied as anyone to see himself at 4-0, but he's not complaining. Rood is playing the deck of choice for all Quebecers this weekend: red-green beats. Gerstl is also with red-green, but his deck sports some unorthodox choices.
 
 Rood opened with Grim Lavamancer, and he was matched by Gerstl. Gerstl was uninterested in trading, but soon thought better of it, seeing trouble in the form of Rood's second Lavamancer and Basking Rootwalla. Gerstl made a Call of the Herd token to stand in the way. Rood built up a force of two Yavimaya Barbarians.
 
-![](http://www.wizards.com/sideboard/images/canat02/a963.jpg)Now Gerstl was faced with a choice. He was holding Violent Eruption but was one red mana short. He could play a Birds and hope it survived, or he could flash back his Call and hope to draw red mana. He played the Birds. Rood came overtop and wrecked him with an Eruption of his own, leaving his board bare.
+![](http://www.wizards.com/sideboard/images/canat02/a963.jpg)
+
+Now Gerstl was faced with a choice. He was holding Violent Eruption but was one red mana short. He could play a Birds and hope it survived, or he could flash back his Call and hope to draw red mana. He played the Birds. Rood came overtop and wrecked him with an Eruption of his own, leaving his board bare.
 
 But Gerstl was not out. Like a champ he ripped Karplusan Forest and offed Barbarian, Rootwalla and Lavamancer. He even had a Rootwalla to match the remaining Barbarian. Rood showed complete disregard by playing a second Eruption and swinging for two. The second Call token showed up just in time to meet Flametongue Kavu, and they were on to Game 2.
 
 Rood 1 - Gerstl 0 
 
-![](http://www.wizards.com/sideboard/images/canat02/a962.jpg)If the seven-minute Game 1 was brisk, then the second game was like lightning. Gerstl got in with Wild Mongrel and seemed to be doing fine when Rood could only muster Basking Rootwalla. He ate an Urza's Rage, but things seemed to be going according to plan. Then he missed his fourth land drop.
+![](http://www.wizards.com/sideboard/images/canat02/a962.jpg)
+
+If the seven-minute Game 1 was brisk, then the second game was like lightning. Gerstl got in with Wild Mongrel and seemed to be doing fine when Rood could only muster Basking Rootwalla. He ate an Urza's Rage, but things seemed to be going according to plan. Then he missed his fourth land drop.
 
 Rood busted out Flametongue Kavu on the Mongrel. A madnessed Temper took it out, and Gerstl pitched Meteor Storm and Jade Leech for the save. He was holding yet another Leech as well as a Flametongue of his own. If he could only peel a land. It was not to be. Engulfing Flames took down the Rootwalla, but Rood just came back with another Flametongue. It beat Gerstl senseless with a quickness.
 

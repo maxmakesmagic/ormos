@@ -115,7 +115,9 @@ Be clear on one point: the goal of a theme deck is creativity. While you should 
 
 (Insider's note: paragraphs like those serve as convenient barriers to those players who must win at all costs. See, they never read this far. So we can poke fun at them all we like, without worrying about upsetting them too much. Catty, but convenient.)
 
-![](https://i.ormos.uk/ab/90/ab90b359c8c091830dc7db05827f4072c25789d44f9fb69b4517e83719f1a998.jpg)This week, those of us who celebrate Halloween have an extra-special reason to think about theme decks. The holiday comes with certain imagery, and one of my favorite types of theme deck is an "imagery" deck: one that tells a story through the card titles and/or artwork.
+![](https://i.ormos.uk/ab/90/ab90b359c8c091830dc7db05827f4072c25789d44f9fb69b4517e83719f1a998.jpg)
+
+This week, those of us who celebrate Halloween have an extra-special reason to think about theme decks. The holiday comes with certain imagery, and one of my favorite types of theme deck is an "imagery" deck: one that tells a story through the card titles and/or artwork.
 
 So I smell a natural competition brewing: who can out-smook everyone else? Who can come up with the most smook-tastic idea? Who smooks better than a smook in a smook? And will I ever get tired of that word, even as my readers are completely smooked out?
 

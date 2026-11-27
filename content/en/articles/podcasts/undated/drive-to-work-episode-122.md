@@ -41,4 +41,6 @@ render_recovery: []
 
 I spend a lot of time talking about all the new and different things we do in design, but today's podcast talks about the other end of the spectrum—doing things we've done before. Repetition is a big and important part of **Magic** design. 
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

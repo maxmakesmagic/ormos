@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/90/87/90874f5b29497d4feac3d4082ee02e1e7f0398e3dccdaca6ac8794582cdc5ce5.jpg)For only the fourth time in the history of the Pro Tour Feature Matches a player chose to flip the playmat around instead of choosing to who plays or draws first. Alex Shvartsman just couldn't make up his mind and despite being in contention for the Top 8 felt confident in taking that chance.
+![](https://i.ormos.uk/90/87/90874f5b29497d4feac3d4082ee02e1e7f0398e3dccdaca6ac8794582cdc5ce5.jpg)
+
+For only the fourth time in the history of the Pro Tour Feature Matches a player chose to flip the playmat around instead of choosing to who plays or draws first. Alex Shvartsman just couldn't make up his mind and despite being in contention for the Top 8 felt confident in taking that chance.
 
 ### Game 1
 
@@ -75,7 +77,9 @@ Terry: "Psychatog?!"
 
 He took the Shade again and braced himself for trouble. Shvartsman played Zombie Trailblazer but couldn't stop Tsang from dropping Cephalid Looter. He attacked dropping his opponent to nine and played the big muncher himself: Psychatog.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a766.jpg)Terry Tsang considered his options for a few moments and dropped Otarian Juggernaut. Still the Zombie Trailblazer was more than enough to let the Psychatog through. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a766.jpg)
+
+Terry Tsang considered his options for a few moments and dropped Otarian Juggernaut. Still the Zombie Trailblazer was more than enough to let the Psychatog through. 
 
 Alex: "You are at nine? Lets do math!"
 
@@ -89,7 +93,9 @@ Shvartsman took a mulligan but was ready to Syncopate Tsang's second turn Mesmer
 
 The American hit his deck but still didn't get another land. Tsang tried to help him out with Words of Wisdom before dropping Dirty Wererat. Shvartsman did indeed find his fourth land and dropped a Patriarch's Desire to take out the annoying Looter.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a760.jpg)The Wererat started doing damage and Gloomdrifter showed up. But Alex had a bigger creature to drop when he found his fifth land: Aven Windreader. The Whelp and Gloomdrifter traded and Terry Tsang played Childhood Horror two cards away from Threshold.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a760.jpg)
+
+The Wererat started doing damage and Gloomdrifter showed up. But Alex had a bigger creature to drop when he found his fifth land: Aven Windreader. The Whelp and Gloomdrifter traded and Terry Tsang played Childhood Horror two cards away from Threshold.
 
 Svhartsman stared at his hand for quite a while before coming up with a plan. He dropped Wererat on his own and passed the turn over with the table stabilized.
 

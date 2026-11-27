@@ -172,7 +172,9 @@ Mandel: "That's what I said from the beginning...I was gonna draw both both Butc
 
 Lindemann begins with a turn 3 Phantom Tiger that is met with Crippling Fatigue. Mandel follows it up with a Barbarian Bully but Lindemann returns the favor with Anurid Brushhopper. Mandel brings down the turn five Carrion Wurm and suddenly Lindemann is in a bit of trouble, but it only gets worse when next turn a Lost in Thought is resolved on the Brushhopper and Mandel attacks Lindemann down to 12. Lindemann digs for an answer with a cycled Sudden Strength at end of turn but can only come up with Earth Rift for the one mountain that Mandel has on the table.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a884.jpg)Mandel attacks with both creatures and Lindemann removes his graveyard to allow his Brushhopper to block the Barbarian Bully. Mandel activates the Bully, randomly pitching Island, which results in Lindemann paying four life down to 8 so that the Bully will die. The Carrion Wurm then brings Lindemann down to the precarious life total of 2. Mandel Morgue Thefts back the Bully and brings it into play. Lindemann flips the Hopper during Mandel's second main phase, with the Lost In Thought falling off. He untaps and plays Narcissism with a Forest untapped and two cards in the graveyard.
+![](http://www.wizards.com/sideboard/images/ptbos02/a884.jpg)
+
+Mandel attacks with both creatures and Lindemann removes his graveyard to allow his Brushhopper to block the Barbarian Bully. Mandel activates the Bully, randomly pitching Island, which results in Lindemann paying four life down to 8 so that the Bully will die. The Carrion Wurm then brings Lindemann down to the precarious life total of 2. Mandel Morgue Thefts back the Bully and brings it into play. Lindemann flips the Hopper during Mandel's second main phase, with the Lost In Thought falling off. He untaps and plays Narcissism with a Forest untapped and two cards in the graveyard.
 
 Mandel flashes back Fatigue on the Brushhopper and swings then activates the Barbarian Bully, forcing Lindemann to both remove his graveyard to survive the Wurm and flip the Brushhopper again with his last two cards in hand. From there on it was elementary for Mandel to untap and attack for the win.
 
@@ -200,7 +202,9 @@ Both players start with one drops as Druid Lyrist stares down Hapless Researcher
 
 Guevin: "Not today."
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a885.jpg)Cowley then taps out to play Balshan Griffin. Guevin sends with the Lyrist for a point and flashes back the Harvest, leaving the life totals at 17 to 15. Cowley plays Skywing Aven leaving up WW, but Guevin only attacks with the squirrels and the Lyrist. Cowley declares no blocks and takes the three. Cowley draws another land and now has four in his hand, so he passes the turn but Guevin casts Beast Attack on end step. The 1/1s send again and Skywing Aven blocks the Lyrist with the Griffin blocking a squirrel. Skywing Aven returns to the hand and then the Club is sacrificed to finish the Griffin, which also retreats back to Cowley's hand.
+![](http://www.wizards.com/sideboard/images/ptbos02/a885.jpg)
+
+Cowley then taps out to play Balshan Griffin. Guevin sends with the Lyrist for a point and flashes back the Harvest, leaving the life totals at 17 to 15. Cowley plays Skywing Aven leaving up WW, but Guevin only attacks with the squirrels and the Lyrist. Cowley declares no blocks and takes the three. Cowley draws another land and now has four in his hand, so he passes the turn but Guevin casts Beast Attack on end step. The 1/1s send again and Skywing Aven blocks the Lyrist with the Griffin blocking a squirrel. Skywing Aven returns to the hand and then the Club is sacrificed to finish the Griffin, which also retreats back to Cowley's hand.
 
 Cowley simply replays Skywing Aven on his turn and Guevin flashes back the Beast Attack. He attacks with a squirrel and a beast so Cowley takes five and goes to 6. Guevin plays Arcane Teachings on the Nullmage with 30 seconds left on the time clock. Cowley plays Balshan Griffin and passes the turn, with Skywing Aven dying to the Teachings. Vengeful Dreams steps in to remove the beast and the squirrel and Cowley plays Pronghorn with an empty hand, but it too dies to the Teachings. Guevin then quickly does the match and swings with the entire team for the win.
 

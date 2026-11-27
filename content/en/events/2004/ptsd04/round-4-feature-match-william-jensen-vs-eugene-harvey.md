@@ -439,7 +439,9 @@ render_recovery:
 ---
 * * *
 
-![William Jensen](http://wizards.com/sideboard/images/ptsd04/fm7_1.jpg)These two were quick with the banter, starting their match-up with smiles and conversation.
+![William Jensen](http://wizards.com/sideboard/images/ptsd04/fm7_1.jpg)
+
+These two were quick with the banter, starting their match-up with smiles and conversation.
 
 "My deck is so awful!" - William Jensen
 

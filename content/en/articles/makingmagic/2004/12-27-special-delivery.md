@@ -224,7 +224,9 @@ Yes, I was all prepared to write a very odd column (and once again, it is coming
 
 ### Birth of a Notion
 
-![](https://i.ormos.uk/58/32/58324f60ea84c75ec6edac86fbf8b0f1e132ad02b2d4e69868a725e6a207cd48.jpg)Don't worry, I know this is a **Magic** design column, so you won't have to hear any stories that include words like meconium or colostrum. Instead, I'm going to explain how being a **Magic** designer is often like being a new parent. You see, creative endeavors take on a very personal element. It's my belief that the best creative works require an emotional investment. You can't create truly inspired art (and yes, I actually consider **Magic** design an art form) unless you've invested part of yourself in it. To make something great, you really have to care at a deep, deep level about the thing you're working on. Luckily for me (and I hope for all of you), **Magic** and I have been having a torrid love affair for years (please don't tell Richard Garfield).
+![](https://i.ormos.uk/58/32/58324f60ea84c75ec6edac86fbf8b0f1e132ad02b2d4e69868a725e6a207cd48.jpg)
+
+Don't worry, I know this is a **Magic** design column, so you won't have to hear any stories that include words like meconium or colostrum. Instead, I'm going to explain how being a **Magic** designer is often like being a new parent. You see, creative endeavors take on a very personal element. It's my belief that the best creative works require an emotional investment. You can't create truly inspired art (and yes, I actually consider **Magic** design an art form) unless you've invested part of yourself in it. To make something great, you really have to care at a deep, deep level about the thing you're working on. Luckily for me (and I hope for all of you), **Magic** and I have been having a torrid love affair for years (please don't tell Richard Garfield).
 
 As the theme of today's column is birth, I thought I'd share some stories about the birth of some of the sets I was mostly closely connected with. So what is the birth of a **Magic** expansion? Is it the days or weeks or months that it's first put together? No, that's conception. (Which, to follow my metaphor, is also quite fun.) The birth of a set is the day it comes out for the world to see. After months and months of gestation, it is the day that the **Magic** expansion becomes one with the rest of the game.
 
@@ -294,7 +296,9 @@ The moment I uttered the words, the brainstorming stopped. There was ten seconds
 
 During the next few months, I had no idea whether or not anyone had actually taken me seriously. I wasn't even sure how much I took me seriously. Then one day, Tina showed up with a chicken outfit. “Try this on,” she said.
 
-![](https://i.ormos.uk/7e/2f/7e2f77016c64c766e02abc5c686fa6f190bbd5b7315a01b5efecd5d3aeb40872.jpg)Cut to GenCon. I start the first prerelease tournament in full chicken regalia (I would later remove the head for most of the tournament as I was unable to actually see out of it making for some rough judging):
+![](https://i.ormos.uk/7e/2f/7e2f77016c64c766e02abc5c686fa6f190bbd5b7315a01b5efecd5d3aeb40872.jpg)
+
+Cut to GenCon. I start the first prerelease tournament in full chicken regalia (I would later remove the head for most of the tournament as I was unable to actually see out of it making for some rough judging):
 
 > I guess I should begin by saying… bock, bock, bock. I'm your head judge Mark Rosewater. You might notice that I am not wearing standard judging gear. You should take this as a sign that this tournament might not be run as a traditional tournament. To begin: the purpose of this tournament is for all of you to have fun. While winning is not pointless, it is not the driving force it is in most tournaments. If you look over my shoulder you will see a table stock full of prizes. How do you win these prizes? By having the proper raffle ticket. How do you get raffle tickets? Boy, you guys ask a lot of questions. You get raffle tickets by doing one of numerous things. Winning a match, for example, wins you one ticket. Doing the hokey pokey at the top of your lungs while standing on the table? Two tickets. I think you'll see where this is going.
 
@@ -306,7 +310,9 @@ The prereleases (and there were several of them as there were flights all weeken
 
 ### *Urza's Destiny* (May 29, 1999)
 
-![](https://i.ormos.uk/c7/73/c773e7afe145846365b817af5f1bd5f3f178e13fa5a74cbae384ab6bc9131339.jpg)Every set has its defining trait. For *Urza's Destiny* it was that it is the only set where I truly (remember, everyone and their brother submitted cards for *Unglued*) did a solo design. While I do not recommend doing this all the time, it was an interesting experience for me. And I was happy with how it turned out (although with 20/20 hindsight, perhaps development could have caught a few more of my “crazy broken” cards). 
+![](https://i.ormos.uk/c7/73/c773e7afe145846365b817af5f1bd5f3f178e13fa5a74cbae384ab6bc9131339.jpg)
+
+Every set has its defining trait. For *Urza's Destiny* it was that it is the only set where I truly (remember, everyone and their brother submitted cards for *Unglued*) did a solo design. While I do not recommend doing this all the time, it was an interesting experience for me. And I was happy with how it turned out (although with 20/20 hindsight, perhaps development could have caught a few more of my “crazy broken” cards). 
 
 For the *Urza's Destiny* prerelease I was in Florida. At The Walt Disney's Wide World of Sports complex to be exact. I was there for the Junior Super Series. The main side event was the *Urza's Destiny* prerelease. As I was busy judging, I didn't have time to walk the aisles as I normally do, but I did schedule breaks during all the pack openings. To be honest, the *Urza's Destiny* prerelease wasn't as special to me as *Tempest* or *Unglued*. Most of my memories of the event were of attendees playing a game of “That's crazy, but can you believe they printed this?”
 
@@ -372,7 +378,9 @@ As the saying goes, failure is the world's best teacher. And I learned a lot fro
 
 ### *Mirrodin* (September 20, 2003)
 
-![](https://i.ormos.uk/0d/e3/0de3920ecd1750e527943e9b3444aabd02badce0edb38f56b0c8d69d4e189b64.jpg)While everyone in R&D knew “artifacts” was worthy of a block theme, there were some doubts about how popular a theme it was. But I always had faith. I knew artifacts was a theme up there with multi-color and tribal. If we did it right, the set (heck, the block) was going to be a hit. And I knew many, many months before the prerelease that we did it right. 
+![](https://i.ormos.uk/0d/e3/0de3920ecd1750e527943e9b3444aabd02badce0edb38f56b0c8d69d4e189b64.jpg)
+
+While everyone in R&D knew “artifacts” was worthy of a block theme, there were some doubts about how popular a theme it was. But I always had faith. I knew artifacts was a theme up there with multi-color and tribal. If we did it right, the set (heck, the block) was going to be a hit. And I knew many, many months before the prerelease that we did it right. 
 
 I'd been hyping the set for months because I knew it could deliver. So, of course, I was dying for the prerelease. And then came the fateful news, I'd have to miss it? What?! You see, I'd promised my wife for five years that we'd celebrate our fifth anniversary with a cruise (we went on a cruise for our honeymoon). The cruise was booked for the 21st. The day after the pre-release. But as we were working out the flight schedules, it became clear that to make the boat, we had to travel the day before. 
 
@@ -384,7 +392,9 @@ A lot of the information had to be read between the lines (players upset that th
 
 ### More Babies On The Way
 
-![](https://i.ormos.uk/70/6d/706db74697245432b0d8adce5a3a11eca1426eb3c01e5d518891dac891fd0f0d.jpg)While my wife and I are personally calling it quits (we were planning to stop at two – we always joked that it would allow us to play man-on-man defense and now we were forced into zone), I plan on having many more **Magic** babies. I'm already done with *Fifth Dawn*. *Control* (the codename for the large set for 2005) has just started up (with an all-star design team incidentally). And a few projects to be named later are in the wings.
+![](https://i.ormos.uk/70/6d/706db74697245432b0d8adce5a3a11eca1426eb3c01e5d518891dac891fd0f0d.jpg)
+
+While my wife and I are personally calling it quits (we were planning to stop at two – we always joked that it would allow us to play man-on-man defense and now we were forced into zone), I plan on having many more **Magic** babies. I'm already done with *Fifth Dawn*. *Control* (the codename for the large set for 2005) has just started up (with an all-star design team incidentally). And a few projects to be named later are in the wings.
 
 I hope my little “birth” recap was enjoyable (it ended up being a little longer than I anticipated) and showed a different side of the designer. Join me next week, when I'll be back in black.
 

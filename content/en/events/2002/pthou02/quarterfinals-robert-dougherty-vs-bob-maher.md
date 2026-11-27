@@ -90,7 +90,9 @@ render_recovery:
   - Engineered Plague
   occurrences: 84
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a380.jpg)There is certainly no lack of experience and skill at this table. 
+![](http://www.wizards.com/sideboard/images/pthou02/a380.jpg)
+
+There is certainly no lack of experience and skill at this table. 
 
 Bob Maher's breakthrough event was Pro Tour: Chicago – also an Extended tournament where he won with an Oath of Druids deck. Maher has earned a Player of the Year title once since then. Although he was forced to take a sabbatical from the game for six months, Maher's return to the Tour at the beginning of this season was nothing short of triumphant. He teamed up with Neil Reeves and Gary Wise to make top 4 at Pro Tour: Boston, won Grand Prix: Copenhagen and finished in top 16 of GP Philadelphia. All of those were limited events. This weekend Maher proved that he is on top of his constructed game as well.
 
@@ -109,7 +111,9 @@ Maher paid three life points with Tainted Citadel to set off Duress of his own. 
 The game was looking grim for Dougherty. Maher would be able to mill his entire deck on the following turn and then ExhumeSutured Ghoul and attack for the kill with Anger in graveyard. Fortunately for Dougherty he top-decked an answer in form of Reanimate.  
  His options included getting either Visara or Petradon into play. Petradon would take out Maher's two lands and, more importantly, get rid of the only Mountain.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a379.jpg)It might take Maher several turns to draw into enough mana to set off his combo and he was already at thirteen with all the damage he's been taking from his lands. The other path would be to animate Visara. That way, if Maher did not have Exhume in hand, he would no longer be able to win as Visara could just assassinate Sutured Ghoul once it shook off summoning sickness.
+![](http://www.wizards.com/sideboard/images/pthou02/a379.jpg)
+
+It might take Maher several turns to draw into enough mana to set off his combo and he was already at thirteen with all the damage he's been taking from his lands. The other path would be to animate Visara. That way, if Maher did not have Exhume in hand, he would no longer be able to win as Visara could just assassinate Sutured Ghoul once it shook off summoning sickness.
 
 Dougherty cast Entomb placing Petradon into his graveyard and reanimated it, going down to twelve points. His decision worked out as Maher failed to play a land on his following turn. Dougherty attacked with Petradon bringing Maher down to eight life points. Maher now had just two more draw steps to solve the problem before he would be forced to chump block with his Hermit. Rather than go down to three life points, Maher blocked with Hermit Druid on the following turn. He then finally drew a land – Llanowar Wastes – tapped it for black mana and cast Cabal Therapy, prompting Dougherty to Entomb and fetch Faceless Butcher in response. Maher named Cabal Therapy, but found only some lands and a Symbiotic Wurm.
 
@@ -125,7 +129,9 @@ Maher had no play, passing the turn back to Dougherty who wasted no time buildin
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/pthou02/a387.jpg)Maher's misfortunes were continuing as he was forced to mulligan into a five card hand. Dougherty's hand was just fine. Maher cast Duress to take out Planar Void. Dougherty reciprocated by using Cabal Therapy to discard Hermit Druid, but Maher did not have one. Instead, he revealed a hand of land, Entomb, Exhume. This was not quite as scary because Dougherty would still have an opportunity to Duress before Maher could set off the combo.
+![](http://www.wizards.com/sideboard/images/pthou02/a387.jpg)
+
+Maher's misfortunes were continuing as he was forced to mulligan into a five card hand. Dougherty's hand was just fine. Maher cast Duress to take out Planar Void. Dougherty reciprocated by using Cabal Therapy to discard Hermit Druid, but Maher did not have one. Instead, he revealed a hand of land, Entomb, Exhume. This was not quite as scary because Dougherty would still have an opportunity to Duress before Maher could set off the combo.
 
 On the following turn Maher cast his Entomb in response to the Duress, placing Verdant Force into the graveyard and leaving Maher with nothing but a land in hand. Phyrexian Negator came out on turn three. Maher emptied his hand to summon Hermit Druid, only to have Dougherty remove it with Engineered Plague. Maher drew no answers over the next several turns, with game and match going to Rob Dougherty.
 

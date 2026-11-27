@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/protour/images/qt_lg.jpg)Based on the tremendous response from posting Top 8 decklists from the [2004 Magic State/Province/Territory/Island Champs](https://web.archive.org/web/20220927203955/https://magic.wizards.com/en/events/coverage/2004-champs-decklists) events and the [Pro Tour-Philadelphia Extended Qualifier Season](https://web.archive.org/web/20220524184646/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent/phi05ptq/welcome), we'll be doing the same with the Top 8 decklists from the current Pro Tour Qualifier season. The format is *Kamigawa* Booster Draft (two *Champions of Kamigawa* and one *Betrayers of Kamigawa* booster packs will be used for drafting), so check here to find the best cards out of the *Kamigawa* block for your drafting needs.
+![](https://media.magic.wizards.com/image_legacy_migration/protour/images/qt_lg.jpg)
+
+Based on the tremendous response from posting Top 8 decklists from the [2004 Magic State/Province/Territory/Island Champs](https://web.archive.org/web/20220927203955/https://magic.wizards.com/en/events/coverage/2004-champs-decklists) events and the [Pro Tour-Philadelphia Extended Qualifier Season](https://web.archive.org/web/20220524184646/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent/phi05ptq/welcome), we'll be doing the same with the Top 8 decklists from the current Pro Tour Qualifier season. The format is *Kamigawa* Booster Draft (two *Champions of Kamigawa* and one *Betrayers of Kamigawa* booster packs will be used for drafting), so check here to find the best cards out of the *Kamigawa* block for your drafting needs.
 
 Decklists will be updated every Tuesday during the PTQ season. To find a PTQ near you, [click here](https://web.archive.org/web/20220524184646/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=protour/london05/qualifiers).
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 6
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a600.jpg)They weren't supposed to be here, right? I mean, come on, this US Team was the worst ever by far. Sure, Eugene Harvey has been to the top of the Worlds Team mountain, but this team is even less experienced than the Justin Gary-led squad that fell in '97.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a600.jpg)
+
+They weren't supposed to be here, right? I mean, come on, this US Team was the worst ever by far. Sure, Eugene Harvey has been to the top of the Worlds Team mountain, but this team is even less experienced than the Justin Gary-led squad that fell in '97.
 
 Someone forget to tell them just what kind of underdogs they were supposed to be. After 18 rounds of individual play and four perfect team drafts, the USA is now in a do-or-die playoff with Denmark to see who gets to battle Kai Budde and the Germans in the finals tomorrow.
 
@@ -77,7 +79,9 @@ The first *Judgment* pack gave Harvey a [Wormfang Drake](https://web.archive.org
 
 The Danes made a bad pick when they gave Laier a [Fledgling Dragon](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fledgling+Dragon), and allowed [Filth](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Filth) to get to Ranks. [Filth](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Filth) is insane in the black mirror, and is clearly better than a 2/2 flier.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a601.jpg)Franz ended up with a few [Arcane Teachings](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcane+Teachings)—key to the white/red archetype. The Danes ended up with some real hefty rares by draft's end—[Silver Seraph](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silver+Seraph) for Cleeman and [Thriss, Nantuko Primus](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thriss%2C+Nantuko+Primus) for Laier.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a601.jpg)
+
+Franz ended up with a few [Arcane Teachings](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcane+Teachings)—key to the white/red archetype. The Danes ended up with some real hefty rares by draft's end—[Silver Seraph](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silver+Seraph) for Cleeman and [Thriss, Nantuko Primus](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thriss%2C+Nantuko+Primus) for Laier.
 
 [Predict](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Predict)ion: Harvey has better cards than Cleeman and should win the middle match. The one wild card will be Cleeman's maindeck [Dogged Hunter](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dogged+Hunter) against Harvey's double Ambush and [Beast Attack](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beast+Attack).
 

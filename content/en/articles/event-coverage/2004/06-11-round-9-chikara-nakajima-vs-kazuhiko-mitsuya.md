@@ -44,7 +44,9 @@ archive_source:
   sha256: dea49037683a5832d3189a940087de5a1e9e980d1ea81c14db2202aae1c836d8
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm15_1.jpg)Mr.Kazuhiko Mitsuya has been here before. He has won the National Championship and is seeking to represent Japan again. But he's pitting off against his good friend Chikara Nakajima. Both players were smiling and jovial, though both wish they weren't facing each other. Mitsuya's Black/Blue deck has many of Fifth Dawn's powerful Sunburst Cards, as does Nakajima. With such a recent release, this match will be a good opportunity to see the mechanic at its best.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm15_1.jpg)
+
+Mr.Kazuhiko Mitsuya has been here before. He has won the National Championship and is seeking to represent Japan again. But he's pitting off against his good friend Chikara Nakajima. Both players were smiling and jovial, though both wish they weren't facing each other. Mitsuya's Black/Blue deck has many of Fifth Dawn's powerful Sunburst Cards, as does Nakajima. With such a recent release, this match will be a good opportunity to see the mechanic at its best.
 
 Nakajima won the die roll and took a mulligan, and kept a hand that included two Blind Creepers, but only a single swamp and no forests. He rapped his deck and drew a Forest, playing a Blind Crawler. Mitsuya played a Vault of Whispers and Talisman of Domination. Nakajima attacked for 3 and played the second Creeper. Mitsuya's face fell. "Sugoi, ne!" ("Wow, that's good!") 
 

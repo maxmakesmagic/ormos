@@ -151,7 +151,9 @@ render_recovery:
 ---
 * * *
 
-![You Make the Mirage Theme Deck](https://i.ormos.uk/d1/72/d1727ae3697fa06f35f02874c5057ac6c2acf8b4a87697047451d18195855d92.jpg)Thank you all for your [theme votes](/en/articles/feature/2005/10-10-you-make-the-mirage-theme-deck-part-2)!
+![You Make the Mirage Theme Deck](https://i.ormos.uk/d1/72/d1727ae3697fa06f35f02874c5057ac6c2acf8b4a87697047451d18195855d92.jpg)
+
+Thank you all for your [theme votes](/en/articles/feature/2005/10-10-you-make-the-mirage-theme-deck-part-2)!
 
 <table><tbody><tr><td colspan="3"><b> Theme deck theme vote </b></td>&#10;</tr>&#10;<tr><td>Two Elements</td>&#10;<td>2059</td>&#10;<td>34.3%</td>&#10;</tr>&#10;<tr><td>Control</td>&#10;<td>1991</td>&#10;<td>33.2%</td>&#10;</tr>&#10;<tr><td>Phasing</td>&#10;<td>1952</td>&#10;<td>32.5%</td>&#10;</tr>&#10;<tr><td><b>Total</b></td>&#10;<td><b>6002</b></td>&#10;<td><b>100.0%</b></td>&#10;</tr>&#10;</tbody></table>
 

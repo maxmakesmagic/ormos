@@ -44,7 +44,9 @@ archive_source:
   sha256: 204ee8a625bcfea0c14412ecd218a6d18ca48889e02e5e2932173837f3e27029
 render_recovery: []
 ---
-![](https://i.ormos.uk/00/74/0074cc22064a814c23ad7b7026d18d19646badfb913f9fae6adf38b7a8952bfe.jpg)Both these mainstays of the Australian Magic community were about a match out of contention, but it gives us the chance to look at a couple of decks that we haven't seen much of today – looter/green madness (Muir) & domain (Corney).
+![](https://i.ormos.uk/00/74/0074cc22064a814c23ad7b7026d18d19646badfb913f9fae6adf38b7a8952bfe.jpg)
+
+Both these mainstays of the Australian Magic community were about a match out of contention, but it gives us the chance to look at a couple of decks that we haven't seen much of today – looter/green madness (Muir) & domain (Corney).
 
 ### Game 1
 
@@ -58,7 +60,9 @@ Board
 
 ### Game 2
 
-![](https://i.ormos.uk/58/4e/584effb2bf9445a0adb17d66cb64ade8b04e1213ff590b610d5d01dc4e34795d.jpg)The land doesn't come as easy this time for Andrew as Justin gets a very quick start cast a Basking Rootwalla on the first and second turns. Andrew knows he must resolve a Collective Restraint and when it lapsed twice he fears a repeat of the first game. His fears are unfounded as all the lapses serve is to get another couple of attacks in with the 'wallas. When a 4th turn looter is followed by a Fact or Fiction, Justin is able to take 4 land over a Circular Logic, knowing he can filter them through his looter. Followed by another FOF, this time in his own main phase, both he and Andrew know that the Opposition taken on its own will mean Andrew's next play maybe his last.
+![](https://i.ormos.uk/58/4e/584effb2bf9445a0adb17d66cb64ade8b04e1213ff590b610d5d01dc4e34795d.jpg)
+
+The land doesn't come as easy this time for Andrew as Justin gets a very quick start cast a Basking Rootwalla on the first and second turns. Andrew knows he must resolve a Collective Restraint and when it lapsed twice he fears a repeat of the first game. His fears are unfounded as all the lapses serve is to get another couple of attacks in with the 'wallas. When a 4th turn looter is followed by a Fact or Fiction, Justin is able to take 4 land over a Circular Logic, knowing he can filter them through his looter. Followed by another FOF, this time in his own main phase, both he and Andrew know that the Opposition taken on its own will mean Andrew's next play maybe his last.
 
 Andrew ponders for some time on this decision as he finally decides to play Ordered Migration (for 3), and Justin responds with an Arrogant Wurm and the pending Opposition - enabling him to lock 3 (eventually 4 with another looter) of Andrew's lands. With no more land coming and his 3 1/1 birds giving a 4/4 trampler a 7 life head start Andrew falls in 4 turns, this time a lack of land being his downfall.
 

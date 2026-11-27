@@ -113,7 +113,9 @@ Through some curse unknown to him, Muggtoth was given a second life. Every day o
 
 Vissk led his apprentice through the impossible halls of his home. Pinaphet walked as close to his master as propriety would allow. Each turn was a wonder to him, stepping from hallway to ceiling to inverted staircase. They redefined up and down at every turn.
 
- ![magus_of_the_future](https://i.ormos.uk/83/3c/833cb318f04af49bb640162f8812c16cdc9a5bf4d634c4ee9a0213bbb7384635.jpg)"Are we really walking on the wall, or do your eyes play tricks?" quizzed Vissk.
+ ![magus_of_the_future](https://i.ormos.uk/83/3c/833cb318f04af49bb640162f8812c16cdc9a5bf4d634c4ee9a0213bbb7384635.jpg)
+
+ "Are we really walking on the wall, or do your eyes play tricks?" quizzed Vissk.
 
 Pinaphet could hardly spare the concentration to consider the question. His every thought was on not falling off the wall.
 
@@ -155,7 +157,9 @@ Muggtoth sat up as quickly as his aching body could. So this pain, this torturou
 
 "It is important for you to note, young one, that everyone can see beyond the now. Well, everyone with the wisdom to do so. What I speak of is the past. The past is your guide in the now. Do what you can now to avoid the pitfalls and recreate the boons of the past.
 
- ![ophidian_eye](https://i.ormos.uk/91/4f/914fcd455256216d365e76570c41a8fc3a0042ba39d2b1a6730bc628f06b6da1.jpg)"Future sight takes wisdom as well. It, too can guide our actions in the present. With it, a Magus can prepare for what is coming. We can affect what will happen before it happens, redirect timelines that have not even begun yet. With a mind on the past, awareness of the present, and visions of the future, a Magus can see...all. All without reliance on an *eye*."
+ ![ophidian_eye](https://i.ormos.uk/91/4f/914fcd455256216d365e76570c41a8fc3a0042ba39d2b1a6730bc628f06b6da1.jpg)
+
+ "Future sight takes wisdom as well. It, too can guide our actions in the present. With it, a Magus can prepare for what is coming. We can affect what will happen before it happens, redirect timelines that have not even begun yet. With a mind on the past, awareness of the present, and visions of the future, a Magus can see...all. All without reliance on an *eye*."
 
 Pinaphet was wide-eyed and rapt by his master's words. He wanted, more than anything, to see the way his master saw. He fought hard the desire to rush the process, to cut corners and open his ey...to *see*. But he knew that the process was long and arduous. He saw, in his future, much, much study. But he was curious. "Master," Pinaphet asked sheepishly, "can you show me?"
 

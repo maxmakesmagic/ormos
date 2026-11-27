@@ -610,7 +610,9 @@ render_recovery:
 
 ### This Is Not Your Father's Souldrinker
 
-![Unspeakable Symbol](https://i.ormos.uk/ca/4b/ca4be96f60e2a82756738fb55dd768e9e10a743b94ac20c4e63b00419c4448ad.jpg)When you first saw Unspeakable Symbol it may have seemed familiar to some of you. If you made the connection of "3 Life = +1/+1 counter" to a little ol' uncommon from *Tempest* named Souldrinker you may have groaned and tossed Unspeakable Symbol into the depths of your closet. Not so fast, mister! While the mechanic was grafted to a rather unimpressive creature before, the fact that it's now attached to an enchantment that lets you target *any* creature opens up a whole realm of possibilities.
+![Unspeakable Symbol](https://i.ormos.uk/ca/4b/ca4be96f60e2a82756738fb55dd768e9e10a743b94ac20c4e63b00419c4448ad.jpg)
+
+When you first saw Unspeakable Symbol it may have seemed familiar to some of you. If you made the connection of "3 Life = +1/+1 counter" to a little ol' uncommon from *Tempest* named Souldrinker you may have groaned and tossed Unspeakable Symbol into the depths of your closet. Not so fast, mister! While the mechanic was grafted to a rather unimpressive creature before, the fact that it's now attached to an enchantment that lets you target *any* creature opens up a whole realm of possibilities.
 
 ### The Game of Life
 

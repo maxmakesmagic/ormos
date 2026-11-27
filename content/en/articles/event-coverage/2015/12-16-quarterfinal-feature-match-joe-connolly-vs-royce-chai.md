@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/806.jpg)Coming into the game, Connolly had confessed that he didn't have much chance to win this matchup and that he'd need lots of luck to progress to the semis. But as the games progressed it would appear that Sister Luck was on his side. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/806.jpg)
+
+Coming into the game, Connolly had confessed that he didn't have much chance to win this matchup and that he'd need lots of luck to progress to the semis. But as the games progressed it would appear that Sister Luck was on his side. 
 
 **Game 1** 
 

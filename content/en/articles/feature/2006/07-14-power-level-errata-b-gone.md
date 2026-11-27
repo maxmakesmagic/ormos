@@ -121,7 +121,9 @@ You can type any card name into the search box in the Gatherer window to see the
 
 ### Why Did We Make This Latest Batch of Changes?
 
-![Etched Oracle](http://media.wizards.com/legacy/magic/images/cardart/5dn/etched_oracle.jpg)Over the years, the sheer number of rules revisions and changes of rules managers the game has undergone—as well as unintended consequences that arise when new mechanics and card abilities are unleashed each set—has led to cards slipping through the cracks. As the evil genius currently in charge of maintaining Oracle, *Magic* rules manager and former cult-leading columnist Mark Gottlieb is a strong, strong believer that cards should have functionality that matches their *printed intent* as often as possible.
+![Etched Oracle](http://media.wizards.com/legacy/magic/images/cardart/5dn/etched_oracle.jpg)
+
+Over the years, the sheer number of rules revisions and changes of rules managers the game has undergone—as well as unintended consequences that arise when new mechanics and card abilities are unleashed each set—has led to cards slipping through the cracks. As the evil genius currently in charge of maintaining Oracle, *Magic* rules manager and former cult-leading columnist Mark Gottlieb is a strong, strong believer that cards should have functionality that matches their *printed intent* as often as possible.
 
 To that end, Mark rather famously changed the functionality of [Time Vault](https://web.archive.org/web/20060714000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Time+Vault) right out from under the then-popular [Time Vault](https://web.archive.org/web/20060714000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Time+Vault)-[Flame Fusillade](https://web.archive.org/web/20060714000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Fusillade) combo, as detailed in [this Ask Wizards](/en/articles/askwizards/2006/04-03-ask-wizards-april-2006#042106).
 

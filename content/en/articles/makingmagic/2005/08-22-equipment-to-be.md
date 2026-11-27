@@ -89,13 +89,17 @@ Ready? Here we go.
 
 ### Topic #1 – The Quest to Make a Better Creature Enchantment
 
-![](https://i.ormos.uk/43/f9/43f9bbf6bafdb5e97b94db0374ff02e0e771d25c0cae7574ae85772b75f6c5ce.jpg)In the beginning there was [Holy Armor](https://web.archive.org/web/20050822000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Holy+Armor). Okay, and Unholy Armor (which may or may not have had a five pointed upside down star in it). By the way, have you ever looked at the guy on [Unholy Strength](https://web.archive.org/web/20050822000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unholy+Strength)? What is he doing? Waking up from a nap? You didn't notice it in Alpha because the pentagram drew you're eye, but once that was “[Censorship](https://web.archive.org/web/20050822000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Censorship)” left off the art, there was nothing else to look at. 
+![](https://i.ormos.uk/43/f9/43f9bbf6bafdb5e97b94db0374ff02e0e771d25c0cae7574ae85772b75f6c5ce.jpg)
+
+In the beginning there was [Holy Armor](https://web.archive.org/web/20050822000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Holy+Armor). Okay, and Unholy Armor (which may or may not have had a five pointed upside down star in it). By the way, have you ever looked at the guy on [Unholy Strength](https://web.archive.org/web/20050822000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unholy+Strength)? What is he doing? Waking up from a nap? You didn't notice it in Alpha because the pentagram drew you're eye, but once that was “[Censorship](https://web.archive.org/web/20050822000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Censorship)” left off the art, there was nothing else to look at. 
 
 In fact, one of my favorite *Unglued II* cards was called White Out (which turned out to be a problem as there's already a card called [Whiteout](https://web.archive.org/web/20050822000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whiteout) in *Ice Age* – the set got put on hiatus before I solved the issue but I was thinking about calling it Correctional Fluid) and made fun of this very fact. And, you know, the whole “lose the pentagram” thing. 
 
 Sorry, tangent spasm. Anyway, in the beginning there was the creature enchantment and it was good. Okay, maybe not good. Bad actually. Horrible really. Perhaps horrible is a bit much. But they were bad (okay, not [Control Magic](https://web.archive.org/web/20050822000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Control+Magic)). The major problem with creature enchantments is, well, that they have to enchant creatures. This makes them very vulnerable to the “two for one” problem. When you enchant a creature, you allow your opponent to use his creature destruction to get rid of two of your cards (or more if you can't resist the urge to keep enchanting the same creature). 
 
-![](https://i.ormos.uk/f9/49/f9496fcd4d56c20a292186d6935f085c0cef0ac4de35cab9b7fb4bfb0e51ed96.jpg)But here's the kooky part. As bad as creature enchantments are strategically, many players seemed to love them. For example, I used to do what is called “deck doctor” at conventions where I would look at random people's decks and tell them how they could improve them. One of my tips: you want to have more creatures than creature enchantments. This tip came from the fact that a lot of novice players cannot resist the allure of building the better creature. That is, putting out a creature and repeatedly enchanting it until it turns into something awesome.
+![](https://i.ormos.uk/f9/49/f9496fcd4d56c20a292186d6935f085c0cef0ac4de35cab9b7fb4bfb0e51ed96.jpg)
+
+But here's the kooky part. As bad as creature enchantments are strategically, many players seemed to love them. For example, I used to do what is called “deck doctor” at conventions where I would look at random people's decks and tell them how they could improve them. One of my tips: you want to have more creatures than creature enchantments. This tip came from the fact that a lot of novice players cannot resist the allure of building the better creature. That is, putting out a creature and repeatedly enchanting it until it turns into something awesome.
 
 So R&D had this little dilemma. Creature enchantments were popular but sucked. What was a research and development team to do? Why “fix” it, of course. If the world can build a better mousetrap, why couldn't R&D build a better creature enchantment? And thus began R&D's long obsession with improving the creature enchantment. Some noble attempts:
 
@@ -128,7 +132,9 @@ This means that the vast majority of our equipment is made with some real world 
 
 ### Topic #4 – The “Voltron Effect”
 
-![](https://i.ormos.uk/49/16/491650af3f0ccd4e70e3f4302c3794a97d82f73a6cffbe0ef8e59a78205945af.jpg)In the first topic I explained the phenomenon that surrounds the popularity of creature enchantments. Players just seem to enjoy building their own monster out of random parts (hmm, perhaps this should have been called the “Frankenstein Effect”). As is the case with R&D, we cannot observe something without the overwhelming urge to name it. During *Mirrodin* design as we realized that equipment was going to allow us to create an environment where this kind of behavior was not only acceptable but much of the time strategically sound. We dubbed the phenomenon the “Voltron Effect”.
+![](https://i.ormos.uk/49/16/491650af3f0ccd4e70e3f4302c3794a97d82f73a6cffbe0ef8e59a78205945af.jpg)
+
+In the first topic I explained the phenomenon that surrounds the popularity of creature enchantments. Players just seem to enjoy building their own monster out of random parts (hmm, perhaps this should have been called the “Frankenstein Effect”). As is the case with R&D, we cannot observe something without the overwhelming urge to name it. During *Mirrodin* design as we realized that equipment was going to allow us to create an environment where this kind of behavior was not only acceptable but much of the time strategically sound. We dubbed the phenomenon the “Voltron Effect”.
 
 “Voltron” is a Japanese import cartoon about a giant robot that can break apart into five lion shaped pieces. Which are then piloted by our heroes. (Hey, I don't write this stuff.) Putting the various equipment pieces onto the creature was kind of like the building of Voltron that happens at least once every episode when the five lions come together to make the title character.
 
@@ -190,7 +196,9 @@ Yes, equipment started life as equipment. In fact, *Mirrodin* has the distinctio
 
 ### Topic #8 – The Problem Area
 
-![](https://i.ormos.uk/be/7f/be7fb2c9047e475403517f54c5c28aa146b855df77286600c312184af563f440.jpg)Two of the most broken cards in recent years are pieces of equipment. So how did that happen? No creature enchantment has ever defined an environment. (Yeah, yeah I know that's not completely true, but close enough.) What makes equipment so different?
+![](https://i.ormos.uk/be/7f/be7fb2c9047e475403517f54c5c28aa146b855df77286600c312184af563f440.jpg)
+
+Two of the most broken cards in recent years are pieces of equipment. So how did that happen? No creature enchantment has ever defined an environment. (Yeah, yeah I know that's not completely true, but close enough.) What makes equipment so different?
 
 Two major things. First is colorlessness. The fact that any piece of equipment can be used on any card regardless of color is huge. One of the most important properties of the color pie is that it segregates the “good stuff”. But artifacts throw this safety net to the wind. A good artifact has the luxury of going in just about any deck. A good creature enchantment might not see play simply because it doesn't have the right cards to support it. A good piece of equipment almost never has this problem.
 
@@ -206,7 +214,9 @@ R&D is still planning to support equipment as an ongoing rule (note how two equi
 
 ### Topic #10 – Does the Rise of Equipment Spell the Doom of Auras (Specifically Creature Enchantments)?
 
-![](https://i.ormos.uk/49/83/4983ad3c532eec9c2f59671f7e51250ec8d2f18b9e4d9d7d366cdef6bf1f6932.jpg)One of the concerns I've heard about equipment was that it was designed to replace creature enchantments. This is one hundred percent false. While the lessons of creature enchantments clearly affected the design of equipment, the artifact subtype was never introduced as a replacement. Creature enchantments (and auras in general) are cool. Maybe they're not the most competitive card type, but that doesn't mean R&D's given up the fight. As I hinted above, *Ravnica* continues the fight with a simple idea by none other than Richard Garfield. 
+![](https://i.ormos.uk/49/83/4983ad3c532eec9c2f59671f7e51250ec8d2f18b9e4d9d7d366cdef6bf1f6932.jpg)
+
+One of the concerns I've heard about equipment was that it was designed to replace creature enchantments. This is one hundred percent false. While the lessons of creature enchantments clearly affected the design of equipment, the artifact subtype was never introduced as a replacement. Creature enchantments (and auras in general) are cool. Maybe they're not the most competitive card type, but that doesn't mean R&D's given up the fight. As I hinted above, *Ravnica* continues the fight with a simple idea by none other than Richard Garfield. 
 
 Creature enchantments have different functionality than equipment (as listed above). They allow different kinds of designs. They offer a different type of flavor. And most importantly, people like them. They really, really like them. And as it's our job to give the people what they want (actually, it's to make the game enjoyable – sometimes you all ask for things that you might later regret), creature enchantments aren't going anywhere. Besides, R&D loves a good challenge.
 

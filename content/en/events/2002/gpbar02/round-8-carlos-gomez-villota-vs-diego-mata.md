@@ -85,7 +85,9 @@ render_recovery:
   - Painbringer
   occurrences: 47
 ---
-![](http://www.wizards.com/sideboard/images/gpbar02/a944.jpg)Diego Mata is a very visible example of how it only takes a little bit of commitment to be able to play amongst the pros. He is yet undefeated as is his opponent. He started out with three byes through a trial at Santander, Spain. And as you may have guessed until now he is flagged.
+![](http://www.wizards.com/sideboard/images/gpbar02/a944.jpg)
+
+Diego Mata is a very visible example of how it only takes a little bit of commitment to be able to play amongst the pros. He is yet undefeated as is his opponent. He started out with three byes through a trial at Santander, Spain. And as you may have guessed until now he is flagged.
 
 Carlos Villota on the other hand only had one bye and is also undefeated. 
 

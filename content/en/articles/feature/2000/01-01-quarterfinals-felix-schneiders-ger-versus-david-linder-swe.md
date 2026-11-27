@@ -58,7 +58,9 @@ Both players met before in round 13, where David's beatdown was too much for Fel
 
 ### Game One
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/885.jpg)David won the die roll and after both players decided to keep their opening hands, he started out strong with a Yavimaya Barbarian and a Raging Kavu, which met the hot end of a Fire/Ice. The next turn David played a kicked Thornscape Battlemage, which Felix was unable to counter due to the amount of taplands he was drawing. He did however Rage the Barbarian.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/885.jpg)
+
+David won the die roll and after both players decided to keep their opening hands, he started out strong with a Yavimaya Barbarian and a Raging Kavu, which met the hot end of a Fire/Ice. The next turn David played a kicked Thornscape Battlemage, which Felix was unable to counter due to the amount of taplands he was drawing. He did however Rage the Barbarian.
 
 David attacked the German again on turn five down to ten when the Battlemage met an end of turn Malice. A Penumbra Bobcat was Undermined, a Blurred Mongoose resolved a turn later and Felix Prophetic Bolted the Swede to search for an to answer to it. Void resolved the next main phase and revealed two Ghitu Fires and a Flametongue. The first Ghitu Fire brought Felix to three, the second one was Undermined. Another Battlemage put Felix on 1, but a Fire took care of him. When a Flametongue resolved he had to concede to the power of Keldon Necropolis.
 
@@ -66,7 +68,9 @@ Felix Schneiders 0 - David Linder 1
 
 ### Game Two
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/884.jpg)In the second game, Felix was, after a mulligan, definitely the beatdown with a strike team composed of two Nightscape Familiars and an Emblazened Golem. After Firing away a bear-sized Kavu Titan the only thing David could produce was a Planeswalker's Fury, which was rather unimpressive at the moment. A Penumbra Bobcat tag-team could only halt the assault, and an Undermined Kavu Titan didn't help much either.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/884.jpg)
+
+In the second game, Felix was, after a mulligan, definitely the beatdown with a strike team composed of two Nightscape Familiars and an Emblazened Golem. After Firing away a bear-sized Kavu Titan the only thing David could produce was a Planeswalker's Fury, which was rather unimpressive at the moment. A Penumbra Bobcat tag-team could only halt the assault, and an Undermined Kavu Titan didn't help much either.
 
 But then things started to change... The 3/4 Golem was Ghitu Fired and a Skizzik resolved and commenced to beat down. A second Skizzik was played, but met a topdecked Undermine, bringing David to three, while Felix went to ten. With both players at three the next turn, David tried to burn Felix with a second Ghitu Fire, which was again Undermined, again off the top.
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm18_1.jpg)Everyone knows that "Eugenius" has been one of the top US players for several years now. What people don't know, however, is that his intelligence is matched only by his willingness to party. Unfortunately, he does well at Magic events so consistently that he's always going to sleep early, preparing for the next day of crushing all who oppose him. As former National champion, he would never let his country down.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm18_1.jpg)
+
+Everyone knows that "Eugenius" has been one of the top US players for several years now. What people don't know, however, is that his intelligence is matched only by his willingness to party. Unfortunately, he does well at Magic events so consistently that he's always going to sleep early, preparing for the next day of crushing all who oppose him. As former National champion, he would never let his country down.
 
 There was speculation that even Eugene would fall to the lure of Amsterdam's nightlife, but on the contrary, he seems more alert than ever. When asked if he had a better deck, he would only say, "The draft was very strange. Everyone took the same colors as the guy to their right, and that…continued, even after people switched."
 

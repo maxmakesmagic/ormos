@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/c6/bf/c6bf81ec256a7752ca36b1b2b07a6b89c290d491ab3765b7f570e3702210d80b.jpg)In a Top Eight full of famous faces, it's a pair of amateurs who square off in this semi-final match. Saunders took down the seemingly unstoppable Ben Stark in his quarterfinal match, while Meves ran over Blake Quelle. Both players have been proving "Red Deck Wins" more than worthy of its name so far this weekend.
+![](https://i.ormos.uk/c6/bf/c6bf81ec256a7752ca36b1b2b07a6b89c290d491ab3765b7f570e3702210d80b.jpg)
+
+In a Top Eight full of famous faces, it's a pair of amateurs who square off in this semi-final match. Saunders took down the seemingly unstoppable Ben Stark in his quarterfinal match, while Meves ran over Blake Quelle. Both players have been proving "Red Deck Wins" more than worthy of its name so far this weekend.
 
 Nathan won the right to play first with an impressive twenty on the roll of a die. It seemed as if that result may have been a portent of things to come, as Nick took not one, but two mulligans to start the game, while Saunders stuck with his seven. Nathan came out quickly, playing a pair of [Grim Lavamancer](https://web.archive.org/web/20031214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Lavamancer)s and a [Seal of Fire](https://web.archive.org/web/20031214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Fire) by his second turn courtesy of [Chrome Mox](https://web.archive.org/web/20031214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chrome+Mox), while Meves merely sat back with hardly any action of his own. What Meves lacked for spells he made up for in land, with a trio of [Rishadan Port](https://web.archive.org/web/20031214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rishadan+Port)s and a [Stone Rain](https://web.archive.org/web/20031214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stone+Rain) punishing a mana-light draw on Saunders' part.
 

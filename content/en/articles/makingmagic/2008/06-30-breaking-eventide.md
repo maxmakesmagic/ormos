@@ -130,7 +130,9 @@ I hope you all enjoy it.
 
 ### Doing the Math
 
-[![Number_Crunch](https://i.ormos.uk/80/bb/80bb4844aaf19f95855b48e680e85bbe9799cf3b5add4cf1ab83d7530ad5966b.jpg)](https://web.archive.org/web/20080630000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Number%2BCrunch)With that business out of the way, let’s get down to the meat of this article. How exactly did *Eventide* end up as the enemy-color hybrid set? The answer is very straightforward: It was the math. Math does not lie. Yes, there are those who use math to mislead, but at its core math is a logical constant. Much of design is understanding and following the dictates of the math. *Eventide* was no exception. In this article, I am going to walk you through the math and explain how the outcome was the only rational option.
+[![Number_Crunch](https://i.ormos.uk/80/bb/80bb4844aaf19f95855b48e680e85bbe9799cf3b5add4cf1ab83d7530ad5966b.jpg)](https://web.archive.org/web/20080630000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Number%2BCrunch)
+
+With that business out of the way, let’s get down to the meat of this article. How exactly did *Eventide* end up as the enemy-color hybrid set? The answer is very straightforward: It was the math. Math does not lie. Yes, there are those who use math to mislead, but at its core math is a logical constant. Much of design is understanding and following the dictates of the math. *Eventide* was no exception. In this article, I am going to walk you through the math and explain how the outcome was the only rational option.
 
 While Making Magic does not often talk about the math in design, make no mistake, it is a vital component. In fact, every design starts with its lead designer sitting down and doing the necessary math. This entails the lead designer figuring out how the themes he or she is looking to use fits in with the size of the set.
 
@@ -167,7 +169,9 @@ In an average eight-person booster draft, there would be, on average, sixteen to
 
 ### Enemy of the People
 
-![tKazAFl5Zh85mEAMyL90](https://i.ormos.uk/e9/c4/e9c4ce25e38d4bc9f88ecf812cd965fd2e4c78df92706d3b1d651935e2ba04bb.jpg)The logical split is between ally and enemy color pairs. This is balanced and seems like a natural breaking point. This decision was obviously the one made in early *Shadowmoor* design (and I do mean early, as the math is one of the first things done on a design), but this doesn’t answer a secondary question: why does *Eventide* have only enemy-color hybrid combinations? The answer is because it has to. Once again, it boils down to the math.
+![tKazAFl5Zh85mEAMyL90](https://i.ormos.uk/e9/c4/e9c4ce25e38d4bc9f88ecf812cd965fd2e4c78df92706d3b1d651935e2ba04bb.jpg)
+
+The logical split is between ally and enemy color pairs. This is balanced and seems like a natural breaking point. This decision was obviously the one made in early *Shadowmoor* design (and I do mean early, as the math is one of the first things done on a design), but this doesn’t answer a secondary question: why does *Eventide* have only enemy-color hybrid combinations? The answer is because it has to. Once again, it boils down to the math.
 
 As I explained above, *Eventide* has one hundred eighty cards: sixty commons, sixty uncommons, and sixty rares. Let’s assume hybrid is still at 50%. With five color combinations, each one would get eighteen cards (six at each rarity). Now let’s look back at *Shadowmoor*‘s ally hybrid combinations. The allied-color hybrid cards get twenty-eight cards (actually, with the slightly lower percentages, they end up with twenty-two).
 
@@ -197,7 +201,9 @@ Okay, to understand what *Shadowmoor* and *Eventide* were up to, let’s take a 
 
 Add to that the need for each expansion to have its own identity. The old model of big set, more of the big set, more of the big set with a little twist is passé. Small expansions have to be able to stand on their own, both to give them a focus and to allow them to change up the block play experience.
 
-[![Mind_Shatter](https://i.ormos.uk/2a/f3/2af3ca8aa2e602fda43ffcfa4f4242b2ddb997084ecaf55b4d16dab067c6eb78.jpg)](https://web.archive.org/web/20080630000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mind%2BShatter)Which brings us to *Shadowmoor* block. We knew going in that it was going to be a hybrid set and that it was only going to have a single small expansion. This meant that the block would shift once rather than twice.
+[![Mind_Shatter](https://i.ormos.uk/2a/f3/2af3ca8aa2e602fda43ffcfa4f4242b2ddb997084ecaf55b4d16dab067c6eb78.jpg)](https://web.archive.org/web/20080630000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mind%2BShatter)
+
+Which brings us to *Shadowmoor* block. We knew going in that it was going to be a hybrid set and that it was only going to have a single small expansion. This meant that the block would shift once rather than twice.
 
 Next we add in the experience we had designing *Ravnica*. Remember that in the early days, hybrid was going to be a large part of the block. In [City Planning, Part I](https://web.archive.org/web/20080630000000/https://magic.wizards.com/en/node/616126) (the first of a three-part column about *Ravnica*‘s design) I told the story of an early *Ravnica* playtest where we had all ten two-color combinations of gold cards and all ten two-color combinations of hybrid cards. The results were brain-melting. And this is among high caliber **Magic** players (most of **Magic** R&D started off on the Pro Tour). It was just too much information to process.
 

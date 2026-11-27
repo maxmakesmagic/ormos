@@ -44,7 +44,9 @@ archive_source:
   sha256: ea61318bb3c09ff8cae065f878218bf94deb4a9273dc84269fac1b24df9c86b6
 render_recovery: []
 ---
-![Feature Match: Gabriel Nassif vs. Pierre Malherbaud](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/976.jpg)This match saw two of France's top Pro Tour players face off in a Charbelcher mirror match. Their decks aren't quite the same, as Malherbaud is splashing black for the consistency of [Vampiric Tutor](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampiric+Tutor), while Nassif is mono-blue. 
+![Feature Match: Gabriel Nassif vs. Pierre Malherbaud](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/976.jpg)
+
+This match saw two of France's top Pro Tour players face off in a Charbelcher mirror match. Their decks aren't quite the same, as Malherbaud is splashing black for the consistency of [Vampiric Tutor](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampiric+Tutor), while Nassif is mono-blue. 
 
 ### Game 1
 
@@ -54,7 +56,9 @@ Malherbaud 0 - Nassif 1
 
 ### Game 2
 
-![Pierre Malherbaud gets ready to belch](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/978.jpg)This time, Nassif mulliganed his opening hand. Malherbaud started with [Chrome Mox](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chrome+Mox), [City of Traitors](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=City+of+Traitors) and [Talisman of Dominance](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Talisman+of+Dominance), and cast [Mana Severance](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Severance) to rid his deck of lands on the first turn. [Vampiric Tutor](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampiric+Tutor) led to [Tinker](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) and the Charbelcher, and a third turn kill.
+![Pierre Malherbaud gets ready to belch](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/978.jpg)
+
+This time, Nassif mulliganed his opening hand. Malherbaud started with [Chrome Mox](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chrome+Mox), [City of Traitors](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=City+of+Traitors) and [Talisman of Dominance](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Talisman+of+Dominance), and cast [Mana Severance](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Severance) to rid his deck of lands on the first turn. [Vampiric Tutor](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampiric+Tutor) led to [Tinker](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) and the Charbelcher, and a third turn kill.
 
 Malherbaud 1 - Nassif 1
 

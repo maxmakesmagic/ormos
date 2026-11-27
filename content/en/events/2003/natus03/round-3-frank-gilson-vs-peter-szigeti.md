@@ -88,7 +88,9 @@ Frank Gilson was a member of the famed Pacific Coast Legends back in the day, an
 
 ### Game 1
 
-![](https://i.ormos.uk/6e/43/6e43073a69c64de1d22b9851fbd70c260489895f0764ea20434d3fffecf03eed.jpg)Szigeti had a second turn Nantuko Shade, and Gilson played Withered Wretch. Szigeti summoned Rotlung Reanimator. Gilson's Duress got a Duress, and Szigeti attacked with his team- the Wretch blocked the Reanimator, forcing a trade.
+![](https://i.ormos.uk/6e/43/6e43073a69c64de1d22b9851fbd70c260489895f0764ea20434d3fffecf03eed.jpg)
+
+Szigeti had a second turn Nantuko Shade, and Gilson played Withered Wretch. Szigeti summoned Rotlung Reanimator. Gilson's Duress got a Duress, and Szigeti attacked with his team- the Wretch blocked the Reanimator, forcing a trade.
 
 Szigeti, to a judge- "What happens? I get two guys?"  
  Gilson- "I get a guy and you get a guy."  
@@ -102,7 +104,9 @@ Szigeti- "Hey Mark, if I win Nationals, I'm going to turn the trophy into a crow
 
 ### Game 2
 
-![](https://i.ormos.uk/1e/4b/1e4be6abcfad49dd9582e6fdd87794e2119dee506bbe1fe1a2b302c82910bd30.jpg)Gilson played a first turn Cabal Therapy, naming Rotlung Reanimator. He saw two swamps, Unholy Grotto, double Corrupt, Cabal Therapy and Nantuko Shade. Szigeti's Mesmeric Fiend took Smother, leaving Gilson with an unimpressive hand containing lands and Shambling Swarm. The Swarm went away thanks to Cabal Therapy, and just when things seemed hopeless, Gilson drew Smother. It killed the Fiend to get back the other Smother, which killed the Shade. Gilson untapped and played Rotlung Reanimator, sacrificing it to flash back Cabal Therapy and take the two Corrupts out of Szigeti's hand. This left him with a 2/2 Zombie token, which Szigeti killed with Smother.
+![](https://i.ormos.uk/1e/4b/1e4be6abcfad49dd9582e6fdd87794e2119dee506bbe1fe1a2b302c82910bd30.jpg)
+
+Gilson played a first turn Cabal Therapy, naming Rotlung Reanimator. He saw two swamps, Unholy Grotto, double Corrupt, Cabal Therapy and Nantuko Shade. Szigeti's Mesmeric Fiend took Smother, leaving Gilson with an unimpressive hand containing lands and Shambling Swarm. The Swarm went away thanks to Cabal Therapy, and just when things seemed hopeless, Gilson drew Smother. It killed the Fiend to get back the other Smother, which killed the Shade. Gilson untapped and played Rotlung Reanimator, sacrificing it to flash back Cabal Therapy and take the two Corrupts out of Szigeti's hand. This left him with a 2/2 Zombie token, which Szigeti killed with Smother.
 
 Szigeti played a morph creature followed by Mesmeric Fiend, which saw only a land in Gilson's hand. Smother killed the morph (Headhunter), and Szigeti summoned Braids, Cabal Minion. It traded with a Rotlung in combat, and Gilson's Shade died to Smother. Szigeti played another morph creature, and it traded with Gilson's token. Another morph creature came out, and once again Szigeti had Visara. Gilson played two Engineered Plagues set to Legends, but they merely delayed the inevitable.
 

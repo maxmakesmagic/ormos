@@ -122,7 +122,9 @@ All the players stuck to their colors in the next pack except Shvartsman who too
 
 In pack six, Shvartsman took Prowling Pangolin over Nantuko Husk, shipping the Husk to Duguid. It was a tough pick, especially since the Husk is very good in green-black, but Gary had no problem letting Duguid have the 2/2.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a932.jpg)Gary opened the first *Legions* pack and had a slew of good blue-white cards to choose from. He took the rare Essence Sliver, giving Duguid a White Knight and Gindy an Echo Tracer. The next pack was more goods for Prodigy: a Windborn Muse for Orellana and a Frenetic Raptor for Gindy that should be amazing against Zvi's red-green Beasts.
+![](http://www.wizards.com/sideboard/images/gppit03/a932.jpg)
+
+Gary opened the first *Legions* pack and had a slew of good blue-white cards to choose from. He took the rare Essence Sliver, giving Duguid a White Knight and Gindy an Echo Tracer. The next pack was more goods for Prodigy: a Windborn Muse for Orellana and a Frenetic Raptor for Gindy that should be amazing against Zvi's red-green Beasts.
 
 Later, Gindy passed on a second Raptor, perhaps not appreciating how nuts it is. Instead he took a Macetail Hystrodon, allowing Shvartsman to get the 6/6.
 

@@ -294,7 +294,9 @@ Week in Reviewへようこそ。
 
 「スタンダード３回戦、ドラフト６回戦、スタンダード３回戦」のフォーマットの、おもしろい変形版がこのトーナメントでは用いられた……「スタンダード３回戦、ドラフト７回戦、スタンダード４回戦」だ。
 
-![](http://www.wizards.com/sideboard/images/euro03/826.jpg)このトーナメントは構築でスカージが使用される最初の大きなトーナメントであり、いくつかの興味深い新機軸が見られた。Gabriel Nassifは脳味噌をこねくり回した結果、６枚のドデカい《命令/Decree》を使用する「漆黒と象牙色」デッキを彼の最新作として作り出した。Kai BuddeとDirk Baberowskiは目もくらむばかりの《精神の願望/Mind's Desire》コンボデッキを披露し、Jan Doiseはスカージによる修正済みの血気盛んなゴブリンデッキを作り上げた。すべてのデッキリストは[ここ](/en/events/2003/euro03/2003-european-championship-all-standard-decks)で見ることが出来る。
+![](http://www.wizards.com/sideboard/images/euro03/826.jpg)
+
+このトーナメントは構築でスカージが使用される最初の大きなトーナメントであり、いくつかの興味深い新機軸が見られた。Gabriel Nassifは脳味噌をこねくり回した結果、６枚のドデカい《命令/Decree》を使用する「漆黒と象牙色」デッキを彼の最新作として作り出した。Kai BuddeとDirk Baberowskiは目もくらむばかりの《精神の願望/Mind's Desire》コンボデッキを披露し、Jan Doiseはスカージによる修正済みの血気盛んなゴブリンデッキを作り上げた。すべてのデッキリストは[ここ](/en/events/2003/euro03/2003-european-championship-all-standard-decks)で見ることが出来る。
 
 Pierre Mahlerbaudのグループが1日目の戦いを制圧した。Mahlerbaud自身が7勝0敗で、チームメイトであるKarim Aouidadが6勝1敗となったのだ。プロツアー・ニューヨークで優勝したSigurd Eskeland、かつてのヨーロッパチャンピオンNicolai Herzog、シカゴ・マスターズで優勝したFranck Canu、そして過去２回プロツアーで優勝したことのあるTommi Hoviなどが強力な6勝1敗グループの残りを構成していた。
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 28babc1bd5a15405be9fa509313a142bbc513822292ea87b2778bf8e30a44bbb
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a961.jpg)It's what the Dutch seem to do for a living these days: making a killing at tournaments. Jelger is no exception, and he's hoping to add another Grand Prix Top 8, at least, to his already bulged curriculum. Juan is another example of people who go to Grand Prix and have to work their way through with little, or none at all, byes.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a961.jpg)
+
+It's what the Dutch seem to do for a living these days: making a killing at tournaments. Jelger is no exception, and he's hoping to add another Grand Prix Top 8, at least, to his already bulged curriculum. Juan is another example of people who go to Grand Prix and have to work their way through with little, or none at all, byes.
 
 A fight between proven experience and rookie hard work.
 
@@ -74,7 +76,9 @@ Jelger 1-0 Juan
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a962.jpg)Again the Farmhand showed up on the first turn but Jelger has a first turn play of his won as well: [Basking Rootwalla](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla). He even followed that with Chatter of Squirrels to show everyone he could play a fast game as well.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a962.jpg)
+
+Again the Farmhand showed up on the first turn but Jelger has a first turn play of his won as well: [Basking Rootwalla](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla). He even followed that with Chatter of Squirrels to show everyone he could play a fast game as well.
 
 The Farmhand departed to help balance Vidal's mana and a Crippiling Fatigue took out the Rootwalla. A [Wild Mongrel](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) tried to stop the squirrel's attacks but a [Chainer's Edict](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chainer%27s+Edict) sent it away. Vidal used the Mongrel, before its demise, to discard a [Roar of the Wurm](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm).
 

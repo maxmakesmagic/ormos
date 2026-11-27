@@ -1316,7 +1316,9 @@ We might be seeing more of this deck again soon….
 
 From hyperwebman's post: “The strategy is really easy, even for beginners: Use mana acceleration to play 5/4 Tangle Golems for 0 (!) on turn 4, and then boost them so on turn 5 you can have a 12/11 trample flying common ready to attack!”
 
-![](https://i.ormos.uk/09/74/0974cb1227b8c9a059a91ec64274ddff141c9fcd4a12f17b51cdb5dd1087effc.jpg)In order to fulfill this goal, this deck needs to be focused more. If the goal of the deck is to get a Tangle Golem into play quickly, focus on that theme – add in more cards that can ensure you draw a Tangle Golem (such as a fourth Fierce Empath, or Weird Harvests), add in more acceleration (such as bringing the Rampant Growth total up to four), and cut cards that don't help you achieve your goals (Vorrac Battlehorns won't matter if your Golems are already trampling because of Loxodon Warhammer, Horned Helm, or Dragon Fangs). 
+![](https://i.ormos.uk/09/74/0974cb1227b8c9a059a91ec64274ddff141c9fcd4a12f17b51cdb5dd1087effc.jpg)
+
+In order to fulfill this goal, this deck needs to be focused more. If the goal of the deck is to get a Tangle Golem into play quickly, focus on that theme – add in more cards that can ensure you draw a Tangle Golem (such as a fourth Fierce Empath, or Weird Harvests), add in more acceleration (such as bringing the Rampant Growth total up to four), and cut cards that don't help you achieve your goals (Vorrac Battlehorns won't matter if your Golems are already trampling because of Loxodon Warhammer, Horned Helm, or Dragon Fangs). 
 
 Try running four-of the best cards in your deck, when possible. If Fierce Empath is important to your deck, run four of them. If you need your Golems to trample, run a higher count on Horned Helms, and cut out cards like Alpha Status and Serpent Skin. Remember, once you decide a deck's goal, focus your deck on achieving that goal. The more focused your deck becomes, the more likely you are to have your deck perform as intended. 
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: e584bbd7aadd5c89aa6022be0393cc0ff49c61333afc4930bdb40018ee521516
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/930.jpg)It's just getting to nine and this is the only the start of round seven. Surviving to day two will take endurance as well as luck and skill. French pro Franck Canu was fought to a draw in the last round while his opponent, the relatively unknown Damien Lacroix is on a precarious 5-1. With only one bye another loss will probably put Lacroix out of the tournament.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/930.jpg)
+
+It's just getting to nine and this is the only the start of round seven. Surviving to day two will take endurance as well as luck and skill. French pro Franck Canu was fought to a draw in the last round while his opponent, the relatively unknown Damien Lacroix is on a precarious 5-1. With only one bye another loss will probably put Lacroix out of the tournament.
 
 ### Game 1
 
@@ -52,7 +54,9 @@ Lacroix won the coin toss and chose to make Canu go first. He got what he hoped 
 
 With five mane available Canu dropped a [Skyhunter Cub](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skyhunter+Cub) and another piece of equipment - a [Mask of Memory](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mask+of+Memory). Lacroix smashed with the Ascetic and added an Enforcer.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/931.jpg)Canu tried to equib his cub, but Lacroix had an [Aether Spellbomb](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Spellbomb) sitting around for that eventuality and used it to effectively time walk his opponent. Lacroix started to seize control of the game, swinging for seven and then bringing out [Tel-Jilad Archers](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tel-Jilad+Archers) to hold the fort.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/931.jpg)
+
+Canu tried to equib his cub, but Lacroix had an [Aether Spellbomb](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Spellbomb) sitting around for that eventuality and used it to effectively time walk his opponent. Lacroix started to seize control of the game, swinging for seven and then bringing out [Tel-Jilad Archers](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tel-Jilad+Archers) to hold the fort.
 
 Canu got to equip his cub and sent it in, looking for an answer with the Mask. Not much help came. Lacroix tried to win the game as [Goblin Replica](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Replica) appeared with [Lightning Greaves](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Greaves) to zip in. Canu survived as [Raise the Alarm](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raise+the+Alarm) produced enough soldiers to keep him in the game by his fingertips.
 
@@ -66,7 +70,9 @@ Canu 1-0 Lacroix
 
 Lacroix chose to go first this time. In a surprise move mountains and swamps started hitting the table rather than the forests and plains of last game. Otherwise it was relatively unchanged as both players found Myrs. Unfortunately Lacroix didn't have anything to ramp up to and got smashed by a [Vulshok Berserker](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vulshok+Berserker).
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/932.jpg)[Mask of Memory](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mask+of+Memory) exacerbated the situation as Lacroix dropped some fatties to try and rescue the situation. [Bonesplitter](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter) made the Berserker trade with an Enforcer and Canu turned the screw as he summoned a scary [Loxodon Punisher](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Punisher).
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/932.jpg)
+
+[Mask of Memory](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mask+of+Memory) exacerbated the situation as Lacroix dropped some fatties to try and rescue the situation. [Bonesplitter](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter) made the Berserker trade with an Enforcer and Canu turned the screw as he summoned a scary [Loxodon Punisher](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Punisher).
 
 Then Canu made a horrible blunder. He equipped the Punisher with a [Bonesplitter](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter) and sent it straight into Lacroix's freshly summoned [Rustmouth Ogre](https://web.archive.org/web/20031025000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rustmouth+Ogre). Canu had the Mask on the table and a Warhammer in hand but sent the Punisher in first. He could only shake his head as he put the Punisher into the bin.
 

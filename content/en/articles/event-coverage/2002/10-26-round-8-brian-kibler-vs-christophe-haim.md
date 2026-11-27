@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a931.jpg)Brian "Dreamboat" Kibler is one of the more prominent players in Magic today; not only is he a respected deckbuilder, internet writer, and the man who ushered Dragons into Standard, but he is also the only known Pro Tour regular who has a fan website that talks about how good-looking he is. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a931.jpg)
+
+Brian "Dreamboat" Kibler is one of the more prominent players in Magic today; not only is he a respected deckbuilder, internet writer, and the man who ushered Dragons into Standard, but he is also the only known Pro Tour regular who has a fan website that talks about how good-looking he is. 
 
 Christophe Haim is well respected for his skills thanks to Top 8s at Pro Tour Osaka and Grand Prix London, as well as his excellent finish at the Euros, and is one of a handful of European players to make Grand Prix: Philadelphia. Word on the street is that he's in America for a month to playtest and to learn to speak English better; he's staying with internet bad lad Peter Szigeti, which would make for a fascinating linguistics course by anyone's standards. 
 
@@ -85,7 +87,9 @@ Kibler conceded.
 
 "That's actually the second time I've died when I flipped a fourth-turn Demon," Kibler said. "Actually, it's about the second time I've died." Haim remained quiet, wearing a blue scarf and staring at his cards seriously.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a933.jpg)Kibler went first and kept... But once again, Haim was looking at a two-land hand, this time both plains. Kibler cycled his [Barren Moor](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barren+Moor)e and laid a [Mountain](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a933.jpg)
+
+Kibler went first and kept... But once again, Haim was looking at a two-land hand, this time both plains. Kibler cycled his [Barren Moor](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barren+Moor)e and laid a [Mountain](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain).
 
 But Haim drew a swamp just in time to lay a [Wretched Anurid](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wretched+Anurid) of his own; Kibler responded with a Morph, his 2/2 looking mighty small in the face of the 3/3 Anurid. But was it The Demon, which seemed to have so much love for Kibler that it leapt eagerly to the top of his deck for every match?
 
@@ -95,7 +99,9 @@ Haim laid a [Nantuko Husk](https://web.archive.org/web/20021026000000/https://ga
 
 Haim hesitated briefly before attacking his Anurid, turning it back and forth but not letting his fingers slip off of it - before he finally twitched the Husk into place next to it and flicked them forward. The Craghorn nearly first-struck the Anurid out of existence, but it was sacrificed in the nick of time to save the Husk from the Buzzard.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a932.jpg)He laid [Catapult Squad](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Catapult+Squad) and J. Random Morph. Brian shrugged and sent in the Slateback, which Haim met with another shrug, throwing the Squad in front of it. Life totals were two to seven now... And Haim attacked, presenting damage that, no matter how he blocked, would still leave Kibler as demonfood the next turn. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a932.jpg)
+
+He laid [Catapult Squad](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Catapult+Squad) and J. Random Morph. Brian shrugged and sent in the Slateback, which Haim met with another shrug, throwing the Squad in front of it. Life totals were two to seven now... And Haim attacked, presenting damage that, no matter how he blocked, would still leave Kibler as demonfood the next turn. 
 
 Wisely, Kibler packed it in.
 

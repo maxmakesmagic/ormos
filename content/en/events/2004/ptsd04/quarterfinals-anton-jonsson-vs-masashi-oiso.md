@@ -743,7 +743,9 @@ render_recovery:
 ---
 * * *
 
-![Anton Jonsson](http://wizards.com/sideboard/images/ptsd04/qf1_1.jpg)A very interesting aspect of this match-up is the similarity between Jonsson and Oiso, specifically where consistency is concerned. Jonsson had made day two of the Pro Tour eight times, and on four of those occasions he made Top 8. That's a pretty amazing accomplishment, and shows that if Jonsson is put in a position to make a run for Sunday, odds are the same as a coin flip that he'll be there. By the same token, despite the fact that this is only Oiso's second season on the Pro Tour, he already has three Pro Tour Top 8 finishes, two of which were this season. In fact, his last Top 8 was in New Orleans, which was Extended. It's one thing to be a fixture on Sunday, but it's something entirely different to do it in two formats.
+![Anton Jonsson](http://wizards.com/sideboard/images/ptsd04/qf1_1.jpg)
+
+A very interesting aspect of this match-up is the similarity between Jonsson and Oiso, specifically where consistency is concerned. Jonsson had made day two of the Pro Tour eight times, and on four of those occasions he made Top 8. That's a pretty amazing accomplishment, and shows that if Jonsson is put in a position to make a run for Sunday, odds are the same as a coin flip that he'll be there. By the same token, despite the fact that this is only Oiso's second season on the Pro Tour, he already has three Pro Tour Top 8 finishes, two of which were this season. In fact, his last Top 8 was in New Orleans, which was Extended. It's one thing to be a fixture on Sunday, but it's something entirely different to do it in two formats.
 
 With these kinds of track records, Jonsson and Oiso are arguably the two most consistent players from their respective regions. The only thing missing from their accomplishments thus far is a Pro Tour victory, and one of them is going to come one step closer, while the other will have to wait. 
 

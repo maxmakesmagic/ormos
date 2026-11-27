@@ -136,7 +136,9 @@ In this all-European Quarterfinals PT veterans Nicolai Herzog and Bram Snepvange
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a704.jpg)With Herzog winning the toss and Snepvangers having to mulligan a 7-land hand, things started off well for the Norwegian. Snepvangers' second hand contained almost all the ingredients to make for a broken hand – except it only had forests, and his spells were white and blue. He kept it though and was facing down an Elvish Warrior, Wirewood Herald and Elven Riders by turn 5. Snepvangers played Forest after Forest, along with a 3rd turn morph and 4th turn morph. Those morphs actually were Exalted Angel and Quicksilver Dragon, but not all too threatening for Herzog. 
+![](http://www.wizards.com/sideboard/images/ptchi03/a704.jpg)
+
+With Herzog winning the toss and Snepvangers having to mulligan a 7-land hand, things started off well for the Norwegian. Snepvangers' second hand contained almost all the ingredients to make for a broken hand – except it only had forests, and his spells were white and blue. He kept it though and was facing down an Elvish Warrior, Wirewood Herald and Elven Riders by turn 5. Snepvangers played Forest after Forest, along with a 3rd turn morph and 4th turn morph. Those morphs actually were Exalted Angel and Quicksilver Dragon, but not all too threatening for Herzog. 
 
 On his sixth turn, Elvish Warrior stayed home for defense but Herzog's Elven Riders and Wirewood Herald hit the Red Zone. The Herald died but made sure Herzog's new play for that turn was another Elven Riders. Snepvangers finally found a Plains after cycling his Improvised Armor, electing a "How lucky!" from Herzog. He played it and summoned a Glory Seeker. Herzog's Elven Riders brought Snepvangers down to 3 life and even though the Dutchman cycled a Krosan Tusker to fetch a Plains, unmorph his Exalted Angel the game was over next turn as Herzog had a Dirge of the Dead. 
 
@@ -178,7 +180,9 @@ Herzog 2 – Snepvangers 1
 
 ### Game 4
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a699.jpg)The next game wasn't to be any less savage though. Herzog tried his best with a second turn Elvish Warrior and Crown of Vigoring it up on his third. Snepvangers played his Exalted Angel face down on turn 3 and unmorphed it the next though. As if the game wasn't going badly for Herzog yet anyway, he missed his fourth landdrop and had to morph his Spitting Gourna into play. In order to stop whatever offense the Norwegian could muster Bram made a Crude Rampart. Herzog cycled his Barkhide Mauler to find a 4th land and failed to do so. Snepvangers morphed his Quicksilver Dragon and unmorphed it the next turn to serve for a fatal 9 in the sky.
+![](http://www.wizards.com/sideboard/images/ptchi03/a699.jpg)
+
+The next game wasn't to be any less savage though. Herzog tried his best with a second turn Elvish Warrior and Crown of Vigoring it up on his third. Snepvangers played his Exalted Angel face down on turn 3 and unmorphed it the next though. As if the game wasn't going badly for Herzog yet anyway, he missed his fourth landdrop and had to morph his Spitting Gourna into play. In order to stop whatever offense the Norwegian could muster Bram made a Crude Rampart. Herzog cycled his Barkhide Mauler to find a 4th land and failed to do so. Snepvangers morphed his Quicksilver Dragon and unmorphed it the next turn to serve for a fatal 9 in the sky.
 
 Herzog 2 – Snepvangers 2
 

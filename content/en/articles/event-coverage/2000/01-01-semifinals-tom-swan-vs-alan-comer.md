@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Alex Shvartsman*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/172.jpg)Tom Swan is among the oldest Magic players to ever compete on the Pro Tour. He has qualified a number of times but has not achieved a title finish until now. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/172.jpg)
+
+Tom Swan is among the oldest Magic players to ever compete on the Pro Tour. He has qualified a number of times but has not achieved a title finish until now. 
 
 Alan Comer has been dedicating most of his time to his job, which has seriously impeded his ability to prepare for tournaments, and thereby his results. Comer fell off the 'Gravy Train' just recently, and is happy to be qualified for Pro Tour: Barcelona. 
 
@@ -92,7 +94,9 @@ Swan drew a card and cast Armadillo Cloak. Knight attacked Comer bringing him do
 
 Swan cast a Razorfoot Griffin and attacked, bringing Comer down to 8 life. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/173.jpg)Comer drew his card and triumphantly cast Magma Burst with kicker, targeting Griffin and Swan. Swan tapped a land, sacrificed another land and cast Pollen Remedy! He prevented three points to his flyer and three to himself, therefore not allowing Blazing Specter to attack him, and only losing three life to Phyrexian Reaper. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/173.jpg)
+
+Comer drew his card and triumphantly cast Magma Burst with kicker, targeting Griffin and Swan. Swan tapped a land, sacrificed another land and cast Pollen Remedy! He prevented three points to his flyer and three to himself, therefore not allowing Blazing Specter to attack him, and only losing three life to Phyrexian Reaper. 
 
 In fact, Swan made a mistake. He could have prevented only two points of damage to the Griffin, which would still keep it alive, and four to himself. That one point of damage will become relevant later in the game. 
 
@@ -110,7 +114,9 @@ Swan's hand consisted of five lands, a Razorfoot Griffin and Rith the Awakener. 
 
 Comer cast a Nightscape Apprentice and a Phyrexian Battleflies. He failed to draw a third land for several turns, although he did draw it in time to Magma Burst a Razorfoot Griffin. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/174.jpg)Unfortunately for Comer, Rith came out on turn 5, as Swan sacrificed Tinder Farm to summon it. Comer had no answer, other than to enchant Battleflies with Keldon Mantle, thus able to block Rith with a regenerator. Problem with this strategy was that it was only going to work for a single turn. Swan had a Crimson Acolyte in play, and was going to off the Mantle shortly. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/174.jpg)
+
+Unfortunately for Comer, Rith came out on turn 5, as Swan sacrificed Tinder Farm to summon it. Comer had no answer, other than to enchant Battleflies with Keldon Mantle, thus able to block Rith with a regenerator. Problem with this strategy was that it was only going to work for a single turn. Swan had a Crimson Acolyte in play, and was going to off the Mantle shortly. 
 
 Rather than do that, Swan opted for a "slightly" better option - he enchanted Rith with Armadillo Cloak, and attacked for eight! 
 

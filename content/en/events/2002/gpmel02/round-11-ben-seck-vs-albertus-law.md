@@ -82,7 +82,9 @@ With the winner of this game assured of a berth in the Top 8 due to an ID in one
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a900.jpg)Law got out of the blocks with a flying start casting a turn 2 Wretched Anurid and then a turn 3 Gustcloak Harrier. Seck went straight onto the defensive, swatting the Harrier and then netting a Krosan Colossus off an Erratic Explosion aimed at the Anurid. Law continued to lay creatures though dropping down two morph creatures one turn after the other. When Seck attempted to block one with his freshly cast Symbiotic Elf Law let the damage stack then flipped over a Gravel Slinger and a Haunted Cadaver, stripping Seck's hand down to a single card. The lone card in Seck's hand came out at the end of the turn when he cycled a Tusker and then played two morph creatures.
+![](http://www.wizards.com/sideboard/images/gpmel02/a900.jpg)
+
+Law got out of the blocks with a flying start casting a turn 2 Wretched Anurid and then a turn 3 Gustcloak Harrier. Seck went straight onto the defensive, swatting the Harrier and then netting a Krosan Colossus off an Erratic Explosion aimed at the Anurid. Law continued to lay creatures though dropping down two morph creatures one turn after the other. When Seck attempted to block one with his freshly cast Symbiotic Elf Law let the damage stack then flipped over a Gravel Slinger and a Haunted Cadaver, stripping Seck's hand down to a single card. The lone card in Seck's hand came out at the end of the turn when he cycled a Tusker and then played two morph creatures.
 
 Law was on fire though and played an infest clearing all of Seck's board, insects and all and left him with a Gravel Slinger and a Lancer. He then played another Lancer a turn later and all Seck could do was concede in response.
 
@@ -102,7 +104,9 @@ Tied 1-1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a903.jpg)Law began game 3 with a turn 2 seeker but his turn three land drop of a Plains, giving him 2 plains and a swamp failed to yield any creatures, not even a morph. Seck was a little confused and played a morph of his own, trading it for the Glory Seeker. Law played a Dive bomber and passed the turn back to Seck who played down a Symbiotic Elf. Law finally played his second swamp but again he refused to play any spells, which tipped Seck off to an Infest. Seck squashed any chance of that spell clearing his board, playing out a Silklash Spider which Law was forced to Pacify. Seck was unphased and simply used the ability on the Spider to kill the Dive bomber, playing out an Elven Rider as well.
+![](http://www.wizards.com/sideboard/images/gpmel02/a903.jpg)
+
+Law began game 3 with a turn 2 seeker but his turn three land drop of a Plains, giving him 2 plains and a swamp failed to yield any creatures, not even a morph. Seck was a little confused and played a morph of his own, trading it for the Glory Seeker. Law played a Dive bomber and passed the turn back to Seck who played down a Symbiotic Elf. Law finally played his second swamp but again he refused to play any spells, which tipped Seck off to an Infest. Seck squashed any chance of that spell clearing his board, playing out a Silklash Spider which Law was forced to Pacify. Seck was unphased and simply used the ability on the Spider to kill the Dive bomber, playing out an Elven Rider as well.
 
 All these three toughness creatures were terrible for Law who did, in fact, have the Infest in his hand, but the lack of early double black had cost him as his hand was littered with spells like Severed Legion. Seck simply continued to attack with his Symbiotic Elf and his Elven Riders, forcing Law to Infest  
  During the attack phase to prevent a whole pile of damage. To add insult to injury Seck managed to draw his Naturalize so that he could remove the Pacifism and beat down with his Spider. Law tried in vein to stay in the match casting an Overflowing Cemetery but it was no use, and he soon died to the *Onslaught* of creatures on Seck's side of the board.

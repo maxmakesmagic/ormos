@@ -44,7 +44,9 @@ archive_source:
   sha256: c13a39e08ce5b93e277f81ed57737d93613ff36642c09ee8e7b7abfbc850b5a3
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm16_1.jpg)Fujita is one of Japan's true veteran players, having been around since long before the game was even released in Japan. He's come very close to making the Top 8 of a Pro Tour on numerous occasions, and came in ninth on tiebreakers at Japanese Nationals last summer. He's in position to make a run at that elusive Top 8 once again, coming into this round with a 6-2 record. Japanese players have made the Top 8 of the last four individual Pro Tours, but it would be nice to see one of the old guard get his due. Remie made Top 8 of Worlds in Berlin back in August, and so far has a 5-2-1 record in his native country's Pro Tour.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm16_1.jpg)
+
+Fujita is one of Japan's true veteran players, having been around since long before the game was even released in Japan. He's come very close to making the Top 8 of a Pro Tour on numerous occasions, and came in ninth on tiebreakers at Japanese Nationals last summer. He's in position to make a run at that elusive Top 8 once again, coming into this round with a 6-2 record. Japanese players have made the Top 8 of the last four individual Pro Tours, but it would be nice to see one of the old guard get his due. Remie made Top 8 of Worlds in Berlin back in August, and so far has a 5-2-1 record in his native country's Pro Tour.
 
 ### Game 1
 

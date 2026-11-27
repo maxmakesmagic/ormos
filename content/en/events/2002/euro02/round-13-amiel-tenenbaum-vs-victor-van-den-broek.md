@@ -53,7 +53,9 @@ archive_source:
   sha256: 496b44a433e6983e2ddba8b350afd5fcf087466e8d6ed43e61a7c0a6af2b9eb1
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a842.jpg)Victor van den Broek has made Top 4 in Osaka during the Masters. Amiel Tenenbaum is a known Pro Tour player. This match doesn't lack titles but it will be important as to the possible addition of a new one: European Champion.
+![](http://www.wizards.com/sideboard/images/euro02/a842.jpg)
+
+Victor van den Broek has made Top 4 in Osaka during the Masters. Amiel Tenenbaum is a known Pro Tour player. This match doesn't lack titles but it will be important as to the possible addition of a new one: European Champion.
 
 Game 1 
 

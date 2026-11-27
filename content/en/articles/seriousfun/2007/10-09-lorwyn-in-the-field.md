@@ -311,7 +311,9 @@ So I took this deck out for a spin around the block, playing four games on our u
 
 *The* biggest disappointment of the deck. He may be great in duels, but in multiplayer, he generally serves as enough of an irritant that people attack you to get rid of him, but he doesn't actually stop enough from *happening*. 
 
-![Sword of Kaldra? No!](https://i.ormos.uk/c7/86/c78690932208797f6fe8d77037e6c1dfc1336196dd58e438673351574497d7a6.jpg)Case in point: In the final game, I had [Gaddock Teeg](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaddock+Teeg) out. Jack, that fire-lovin', attack-happy crazyman, was playing his white-red Knights deck, and he had a [Sword of Kaldra](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sword+of+Kaldra) that he wanted to play. I, on the other hand, had [Gaddock Teeg](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaddock+Teeg). 
+![Sword of Kaldra? No!](https://i.ormos.uk/c7/86/c78690932208797f6fe8d77037e6c1dfc1336196dd58e438673351574497d7a6.jpg)
+
+Case in point: In the final game, I had [Gaddock Teeg](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaddock+Teeg) out. Jack, that fire-lovin', attack-happy crazyman, was playing his white-red Knights deck, and he had a [Sword of Kaldra](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sword+of+Kaldra) that he wanted to play. I, on the other hand, had [Gaddock Teeg](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaddock+Teeg). 
 
 His only out was attacking me until I died. 
 
@@ -424,7 +426,9 @@ The deck played in four games, and won none of them. Part of that is because the
 
 Some of the games flatly weren't winnable. For example, there was the one game where Josh played first-turn [Black Vise](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Black+Vise) and [Welding Jar](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Welding+Jar), then [Howling Mine](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Howling+Mine)—a classic combo that could have been taken care of by my [Nullmage Shepherd](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nullmage+Shepherd), which I had in hand. 
 
-![Black Vise and Howling Mine](https://i.ormos.uk/7c/35/7c35130b9f98878eab06c4a3200c45face1bc40d8cef8e6547faab8a0b72c720.jpg)(Why Nullmage? Reusability. Certainly, it could be argued I should go with 2 [Viridian Shaman](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Viridian+Shaman), 1 Nullmage, or 1 and 2; it wouldn't have changed this game, though, as you'd soon see.) 
+![Black Vise and Howling Mine](https://i.ormos.uk/7c/35/7c35130b9f98878eab06c4a3200c45face1bc40d8cef8e6547faab8a0b72c720.jpg)
+
+(Why Nullmage? Reusability. Certainly, it could be argued I should go with 2 [Viridian Shaman](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Viridian+Shaman), 1 Nullmage, or 1 and 2; it wouldn't have changed this game, though, as you'd soon see.) 
 
 But then, for whatever reason (and losing 3 life a turn himself), Jack decided to play [Blood Moon](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blood+Moon), nerfing my Savannah and [Selesnya Sanctuary](https://web.archive.org/web/20071009000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Selesnya+Sanctuary) and hosing pretty much everyone else in the process, ensuring that nobody could apply enough pressure to Josh to take him out in time. 
 

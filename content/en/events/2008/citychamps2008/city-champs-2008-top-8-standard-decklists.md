@@ -58,7 +58,9 @@ render_recovery:
   reason: The link uses a JavaScript placeholder. The preview kept any visible label.
   occurrences: 1
 ---
-![](http://ww2.wizards.com/magic/images/tournamentcenter/2007/citychamps_logo.jpg)Congratulations to all the winners of the 2008 City Championships Finals! 
+![](http://ww2.wizards.com/magic/images/tournamentcenter/2007/citychamps_logo.jpg)
+
+Congratulations to all the winners of the 2008 City Championships Finals! 
 
 Each winner earned a berth to their respective National Championship (either United States or Canada). All other Top 8 finishers earned byes at Regionals. Check out the Top 8 Standard decklists for each city below.
 

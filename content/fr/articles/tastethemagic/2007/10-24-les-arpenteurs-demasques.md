@@ -137,7 +137,9 @@ Oh, Jace. J'ai hâte de voir comment tu te sortiras de ce genre de situation, mo
 
 Alors pourquoi diable faire apparaître les cartes d'arpenteur pour la première fois dans *Lorwyn*, une extension tribale située sur un plan inspiré par le folklore des Îles Britanniques ?
 
-![Island](https://i.ormos.uk/e2/8d/e28dded06c236b5dd14f24a3c2d46ed05a3d5e3f50e7d235bbbaa94ec710c47f.jpg)Pour être honnête, l'intention de l'équipe créative était de publier la première carte d'arpenteur dans *Vision de l'avenir*, au point culminant des événements des romans du bloc *Spirale temporelle*. Nous pensions que *Vision de l'avenir* serait l'extension parfaite pour les introduire, présentant un premier regard sur l'avenir de **Magic**, ainsi que la conclusion logique de l'histoire de la fermeture des failles. Téfeiri et d'autres arpenteurs y faisaient de grands sacrifices pour éliminer les dégâts créés par leur propre pouvoir, et la nature de l'étincelle en était altérée ; en gros, tout était mis en place pour la grande introduction des cartes d'arpenteur.
+![Island](https://i.ormos.uk/e2/8d/e28dded06c236b5dd14f24a3c2d46ed05a3d5e3f50e7d235bbbaa94ec710c47f.jpg)
+
+Pour être honnête, l'intention de l'équipe créative était de publier la première carte d'arpenteur dans *Vision de l'avenir*, au point culminant des événements des romans du bloc *Spirale temporelle*. Nous pensions que *Vision de l'avenir* serait l'extension parfaite pour les introduire, présentant un premier regard sur l'avenir de **Magic**, ainsi que la conclusion logique de l'histoire de la fermeture des failles. Téfeiri et d'autres arpenteurs y faisaient de grands sacrifices pour éliminer les dégâts créés par leur propre pouvoir, et la nature de l'étincelle en était altérée ; en gros, tout était mis en place pour la grande introduction des cartes d'arpenteur.
 
 Mais le service de conception et de développement fut formel : ce nouveau type de carte était si difficile à évaluer et si révolutionnaire dans les règles du jeu qu'il serait impossible que les cartes soient prêtes à temps pour être incorporées dans *Vision de l'avenir*. Les cartes et les règles gouvernant les arpenteurs changeaient encore tous les jours, et les cartes résultantes passaient sans cesse du ‘trop bon’ au pire — ce qui était inacceptable pour un nouveau type de carte aussi important. Et il fallait plus de temps pour s’assurer qu'elles fonctionneraient comme prévu. Par conséquent, il a été décidé que les arpenteurs apparaîtraient seulement dans l'extension suivante, *Lorwyn*.
 
@@ -208,7 +210,9 @@ Garruk est l'incarnation-même du chasseur. Il utilise ses dons d'arpenteurs com
 
 *'Les gens croient qu'un diable à pinces est facile à pister. Qu’il suffit de trouver son sentier et ses empreintes, et de sentir les vibrations du sol. Mais la jungle est vivante. Partout, il y a des choses qui rampent, des plantes qui bougent. Le diable à pinces est camouflé par cette vie. Il se cache dans la vivacité.'*
 
-![Garruk_Wildspeaker](https://i.ormos.uk/8e/41/8e41bc873df5f0d989cd94895ba28070534eaa1ede29ce540cd4faae0effe62b.jpg)On ne sait que peu de choses sur Garruk, mais ceux qui l'ont vu le jugent par ses capacités. Nous avons qu'il a un passé druidique — peut-être est-il parti avant d'avoir terminé ses études ? Ou peut-être en savait-il tellement que ses maîtres n'avaient plus rien à lui apprendre. Autant vous dire qu'il est autant en contact avec la nature que les elfes de Llanowar. Garruk a toujours du mana vert au bout des doigts, qu'il utilise pour alimenter ses autres talents.
+![Garruk_Wildspeaker](https://i.ormos.uk/8e/41/8e41bc873df5f0d989cd94895ba28070534eaa1ede29ce540cd4faae0effe62b.jpg)
+
+On ne sait que peu de choses sur Garruk, mais ceux qui l'ont vu le jugent par ses capacités. Nous avons qu'il a un passé druidique — peut-être est-il parti avant d'avoir terminé ses études ? Ou peut-être en savait-il tellement que ses maîtres n'avaient plus rien à lui apprendre. Autant vous dire qu'il est autant en contact avec la nature que les elfes de Llanowar. Garruk a toujours du mana vert au bout des doigts, qu'il utilise pour alimenter ses autres talents.
 
 *'La traque n'a rien à voir avec ce qui reste en arrière. Ce n'est pas la même chose que la poursuite. La traque, c'est savoir anticiper.'*
 

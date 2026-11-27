@@ -89,7 +89,9 @@ render_recovery:
   - Dragon
   occurrences: 65
 ---
-![](http://www.wizards.com/sideboard/images/euro03/a876.jpg)This is the big round. Winner makes the Top 8, loser settles for the Top 16 and a bit of cash. The whole weekend boils down to the next two – or three – games for these two players.
+![](http://www.wizards.com/sideboard/images/euro03/a876.jpg)
+
+This is the big round. Winner makes the Top 8, loser settles for the Top 16 and a bit of cash. The whole weekend boils down to the next two – or three – games for these two players.
 
 ### Game 1
 
@@ -138,7 +140,9 @@ Helmut: "Perfect!"
 
 In came the turn one Elves, turn two Lavamancer. Nassif played Circle of Protection: Red after hesitating a bit. Four mana gave Helmut Phantom Centaur. Chastise took care of that on the next swing, leaving Gabriel at twenty-two.
 
-![](http://www.wizards.com/sideboard/images/euro03/a877.jpg)Helmut played another Elves and attacked with it a couple of times. Nassif took his own sweet time and eventually fired Duress seeing only land and Violent Eruption. For once Duress was glad to meet Eruption: the COP: Red too care of it.
+![](http://www.wizards.com/sideboard/images/euro03/a877.jpg)
+
+Helmut played another Elves and attacked with it a couple of times. Nassif took his own sweet time and eventually fired Duress seeing only land and Violent Eruption. For once Duress was glad to meet Eruption: the COP: Red too care of it.
 
 The Austrian's army was too small to put Gabriel Nassif under considerable pressure. Even with an added Basking Rootwalla, Nassif had a lot of life to work with. When Helmut pumped the Rootwalla the Frenchman had his second Chastise. Again, Helmut rebuilt. This time with Wild Mongrel.
 

@@ -63,7 +63,9 @@ render_recovery: []
 ---
 *by Luke Hancock*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AUSNAT00/images/stephencampbell.jpg)Steven Campbell is probably the most accomplished player in this year's Australian Nationals Meatgrinders. He has been playing Magic: the Gathering since early August 1994 and has placed 12th at the 1998 APAC Championships and won the 1997 Lasseters Indoor Challenge featuring some of Australia's best players. He is attempting to qualify through the Meatgrinder due to his 3-3 match record at Victorian Regionals 2000, playing in the first sealed grinder.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AUSNAT00/images/stephencampbell.jpg)
+
+Steven Campbell is probably the most accomplished player in this year's Australian Nationals Meatgrinders. He has been playing Magic: the Gathering since early August 1994 and has placed 12th at the 1998 APAC Championships and won the 1997 Lasseters Indoor Challenge featuring some of Australia's best players. He is attempting to qualify through the Meatgrinder due to his 3-3 match record at Victorian Regionals 2000, playing in the first sealed grinder.
 
 After the deck construction period, Steven had built an extremely solid U/W/G deck featuring a huge amount of big green creatures including Spitting Spider and a number of control-oriented cards in blue and white such as Ensnare, Trap Runner and Waterfront Bouncer. Steven was going to drop from the tournament if the cards he received were of an average quality, but he was confident that the quality of his deck would carry him through.
 

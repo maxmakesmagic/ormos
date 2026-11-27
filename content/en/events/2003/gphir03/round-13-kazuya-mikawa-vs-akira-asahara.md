@@ -110,7 +110,9 @@ render_recovery:
   - Smoke Stack
   occurrences: 102
 ---
-![](https://i.ormos.uk/ae/d8/aed808f3d24ca5f45209cdd72271519b90068295f1c6500dd7a069e915a782a5.jpg)Akira Asahara is respected both as a player and as one of the masters of Japanese constructed Magic. His decks are always the hottest things around. Today his choice is a little more pedestrian: Tinker. Asahara squares off against hometown hero Kazuya Mikawa, resplendent in his flaming red leather jumpsuit. Mikawa is with blue-green madness.
+![](https://i.ormos.uk/ae/d8/aed808f3d24ca5f45209cdd72271519b90068295f1c6500dd7a069e915a782a5.jpg)
+
+Akira Asahara is respected both as a player and as one of the masters of Japanese constructed Magic. His decks are always the hottest things around. Today his choice is a little more pedestrian: Tinker. Asahara squares off against hometown hero Kazuya Mikawa, resplendent in his flaming red leather jumpsuit. Mikawa is with blue-green madness.
 
 ### Game 1
 
@@ -134,7 +136,9 @@ Mikawa 1 – Asahara 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gphir03/a941.jpg)Mikawa started with Careful Study, pitching Circular Logic and land, then added Merfolk Looter to the table. Asahara's line of play was a little bit better. Island, Voltaic Key, then City of Traitors, Grim Monolith, Thran Dynamo, setting up a third turn of Masticore and Tangle Wire.
+![](http://www.wizards.com/sideboard/images/gphir03/a941.jpg)
+
+Mikawa started with Careful Study, pitching Circular Logic and land, then added Merfolk Looter to the table. Asahara's line of play was a little bit better. Island, Voltaic Key, then City of Traitors, Grim Monolith, Thran Dynamo, setting up a third turn of Masticore and Tangle Wire.
 
 Mikawa took some beats, then escaped for one turn with Frantic Search. All he could muster was an Arrogant Wurm. Asahara had enough mana to assassinate it. He hit again and added another Wire, 'Core-locking himself. Mikawa had a Naturalize to get rid of it on his next upkeep, but Asahara was free to hit again, bringing him to one. Without a Wonder in his graveyard, Gilded Drake was no solution. Roar of the Wurm provided a speedbump. Then he passed a turn with seven mana open. Asahara swung, and Mikawa bounced the Masticore with Rushing River. He had Circular Logic to stop it for good.
 

@@ -500,7 +500,9 @@ This is the first instalment in my series evaluating the cards of Odyssey and th
 
 ### White
 
-![](https://i.ormos.uk/9b/eb/9bebb4c00f64efb5d444817fe4d0e9fd976c13dbee82a867affa1ab8c6904a6e.jpg)Is white the most underrated color in Odyssey? Seems like everyone is talking about green, or how everyone else wanting green makes blue the color to draft, but no one is talking about white in the glowing terms it may deserve.
+![](https://i.ormos.uk/9b/eb/9bebb4c00f64efb5d444817fe4d0e9fd976c13dbee82a867affa1ab8c6904a6e.jpg)
+
+Is white the most underrated color in Odyssey? Seems like everyone is talking about green, or how everyone else wanting green makes blue the color to draft, but no one is talking about white in the glowing terms it may deserve.
 
 With damage prevention, flyers and enchantment destruction flowing out the ears, white is a strong color for control whose strong creature base can also lend towards an offensive-minded deck. While the removal isn't as versatile as one might like, cards like Shelter, Second Thoughts and Embolden not only have a hand in killing opposing critters, but also gain you card advantage while doing do. 
 

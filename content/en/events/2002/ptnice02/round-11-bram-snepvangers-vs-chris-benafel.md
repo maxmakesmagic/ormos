@@ -91,7 +91,9 @@ render_recovery:
   - Ghostly Wings
   occurrences: 80
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a790.jpg)At this stage neither player could reach top 8, and Chris had suffered a bit of a raw deal this round as he had been paired up against the winner of the draft having gone 1-2 himself.
+![](http://www.wizards.com/sideboard/images/ptnice02/a790.jpg)
+
+At this stage neither player could reach top 8, and Chris had suffered a bit of a raw deal this round as he had been paired up against the winner of the draft having gone 1-2 himself.
 
 Chris won the toss and asked Bram to play first.
 
@@ -108,7 +110,9 @@ Despite this huge card advantage the Wererat was doing a good job of stabilizing
 
 Unfortunately for the American his Wererat had approached threshold and became unable to block, so he started swinging with it instead – realizing he had to start racing. This rapidly became an unrealistic prospect though as Bram had summoned a Skywing Aven and a Chamber of Manipulation which was making things incredibly difficult for Benefal. When Chris tried to cast Gallantry on his Patrol Hound, Bram used the Chamber to remove it from combat – so Chris was not entitled to draw the card as the Patrol was no longer blocking.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a791.jpg)Once again the Chamber of Manipulation was used to great effect as an attempted Shelter on a freshly laid Auramancer was effectively countered as Chris no longer had control of the creature when the Chamber was used.
+![](http://www.wizards.com/sideboard/images/ptnice02/a791.jpg)
+
+Once again the Chamber of Manipulation was used to great effect as an attempted Shelter on a freshly laid Auramancer was effectively countered as Chris no longer had control of the creature when the Chamber was used.
 
 One would have thought that the Mind Sludge would have given the Dutchman enough advantage to control the game, but Chris' draws had been pretty good from that point onwards. The Auramancer had brought back the Patriarch's Desire, which then killed an Aqamoeba, and the life scores were balanced precariously at 3 to 2 in the American's favour as he prepared for his attack. The Chamber of Manipulation managed to deter him from swinging, but Chris had drawn an Angelic Wall to stop the Skywing Aven from finishing him off.. Snepvangers was faced with a difficult choice. Chris had one card in hand and mana open. Bram decided he would risk the possible Embolden or other trick and took control of the Angelic Wall with his last remaining card in hand, then swung across with his 1/1 Frightcrawler and his Aven. Should this attack have failed Chris would have won, but he did not have a trick in hand.
 
@@ -128,7 +132,9 @@ Deciding it was time for the beats to commence, Chris swung across with two 2/3 
 
 At this stage Bram had 3 cards in his hand to Chris's none, but was facing down two 4/5 regenerators. He rallied with a Gravedigger, which fetched an Organ Grinder. Chris swung again with the rats – one of which was double blocked, but he had drawn a great card for the situation – a Shelter, so no cards were lost from his hand as the Rotting Giant sailed to his opponent's bin.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a792.jpg)Still on heavy defense Bram made a Thought Eater and a second Aquamoeba, then chumped a rat with a Gravedigger.
+![](http://www.wizards.com/sideboard/images/ptnice02/a792.jpg)
+
+Still on heavy defense Bram made a Thought Eater and a second Aquamoeba, then chumped a rat with a Gravedigger.
 
 Chris: "These guys are savage!"  
  Bram: "Yes they certainly are."

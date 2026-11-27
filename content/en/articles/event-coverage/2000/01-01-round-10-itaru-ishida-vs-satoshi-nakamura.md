@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/Rd10Feature.jpg)Among the 6-3 players who were hoping to put together an afternoon run were a pair of Japanese stars who met in a round 10 feature match: 1998 APAC champion Satoshi Nakamura and PT regular Itaru Ishida.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/Rd10Feature.jpg)
+
+Among the 6-3 players who were hoping to put together an afternoon run were a pair of Japanese stars who met in a round 10 feature match: 1998 APAC champion Satoshi Nakamura and PT regular Itaru Ishida.
 
 Nakamura is running Squirrel Prison (more or less) while Ishida is playing Ponza. Nakamura won the die roll and had about the best start you can possible have against Ponza: Bird of Paradise, Yavimaya Elder, Yavimaya Granger. Then Ishida got his third turn ![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM10Nakamura.jpg)and could start blowing up land. Nakamura had so much land that he just kept attacking with the Elder and eventually Ishida was forced to sweep the board wit an Earthquake for two. Ishida then played a Lightning Dragon, but Nakamura stole it with Treachery (it then died when Nakamura couldn't pay the echo). One Rising Waters later, Ishida was in prison, unable to do anything. Three attacks with a new Granger later, Ishida conceded.
 

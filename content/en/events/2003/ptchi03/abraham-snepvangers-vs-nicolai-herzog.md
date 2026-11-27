@@ -655,7 +655,9 @@ Nicolaiが順調に《エルフの戦士/Elvish Warrior》、《ワイアウッ�
 
 次のターンも引いたランドは森なので仕方なく《賛美されし天使》をまた《変異/Morph》で召喚。一方のNicolaiはさらに追撃として《エルフの騎手/Elven Riders》を召喚し、《変異/Morph》しかコントロールしてないAbrahamは一気に苦しくなった。
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a699.jpg)前のターン《天然の城塞/Crude Rampart》を引き込んでいたAbrahamだったが《平地/Plains》を引けない。仕方なく《間に合わせの鎧/Improvised Armor》をメインフェイズにサイクリング、このドローが1手遅い《クローサの大牙獣/Krosan Tusker》...。何かうまく噛み合わない。
+![](http://www.wizards.com/sideboard/images/ptchi03/a699.jpg)
+
+前のターン《天然の城塞/Crude Rampart》を引き込んでいたAbrahamだったが《平地/Plains》を引けない。仕方なく《間に合わせの鎧/Improvised Armor》をメインフェイズにサイクリング、このドローが1手遅い《クローサの大牙獣/Krosan Tusker》...。何かうまく噛み合わない。
 
 次のターンの《ワイアウッドの伝令/Wirewood Herald》のアタックを仕方なくブロックすると勿論追加の《エルフの騎手/Elven Riders》がNicolaiの陣容に追加され、ますますAbrahamには苦しい場になった。ちなみにこの時点でライフは１１。
 

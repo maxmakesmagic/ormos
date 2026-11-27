@@ -46,7 +46,9 @@ render_recovery: []
 ---
 At the end of day one two decks were left with perfect records at the top of the standings. Both of them were the same red deck. Experienced German pros Patrick Mello and Dirk Baberowski had confessed to not testing much and turned up with sligh decks based around lots of goblins and the Piledriver. With a lot of the French opting for Suicide Black and Reanimator not putting in much of an appearance it turned out to be a good metagame choice.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a932.jpg)"Ah, first blood," Baberowski announced running in his [Raging Goblin](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin). He followed it with a Piledriver.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a932.jpg)
+
+"Ah, first blood," Baberowski announced running in his [Raging Goblin](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin). He followed it with a Piledriver.
 
 Mello, going first had dropped [Seal of Fire](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Fire) and [Mogg Flunkies](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+Flunkies). On his third turn he summoned more Flunkies and a [Goblin Lackey](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Lackey) to dissuade Baberowski from attacking.
 
@@ -60,7 +62,9 @@ The next turn seemed to turn it for Baberowski. A Flunkies came into play on his
 
 Baberowski 1-0 Mello
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a934.jpg)Mello made Baberowski go first and soon [Raging Goblin](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin)s were zooming past each other into the red zone. Unfortunately both of Baberowski's lands were painful [Barbarian Ring](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barbarian+Ring)s as he followed his Goblin with some Flunkies. Mello had to lay a Ring of his own but a Dart on Baberowski's [Raging Goblin](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin) kept the Flunkies cowering at home.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a934.jpg)
+
+Mello made Baberowski go first and soon [Raging Goblin](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin)s were zooming past each other into the red zone. Unfortunately both of Baberowski's lands were painful [Barbarian Ring](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barbarian+Ring)s as he followed his Goblin with some Flunkies. Mello had to lay a Ring of his own but a Dart on Baberowski's [Raging Goblin](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin) kept the Flunkies cowering at home.
 
 More goblins appeared and they stood and pulled faces at each other on either side of the red zone. Mello had more and they charged into the red zone. Another brawl and one [Raging Goblin](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin) was left standing from the carnage. A Piledriver came out to give it company only for a hail of removal to send both to the graveyard.
 
@@ -74,7 +78,9 @@ Game 3 Baberowski got to the Scroll first again but he was stuck at two land, a 
 
 Mello kept the screw up with his port but Baberowski seemed to have a never-ending stream of [Lava Dart](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lava+Dart)s to annihilate Mello's little Goblins.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a933.jpg)Finally Baberowski found a third land to bring his port into control. He chose to summon a cadet instead, looking to empty his hand and bring the Scroll into play.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a933.jpg)
+
+Finally Baberowski found a third land to bring his port into control. He chose to summon a cadet instead, looking to empty his hand and bring the Scroll into play.
 
 [Raging Goblin](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin) plus Flunkies raided a few life points out Baberowski's total. He didn't have many to play with. Mello had three [Seal of Fire](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Fire) and a [Barbarian Ring](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barbarian+Ring) on the table so Baberowski didn't have a lot to play with. A Fanatic took out a [Raging Goblin](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin) only for Mello to replace it with one of his own. Baberowski Sealed that and again Mello had nothing to support his Flunkies.
 

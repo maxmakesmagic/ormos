@@ -55,9 +55,13 @@ render_recovery: []
 ---
 **An Introduction by Mark Rosewater**
 
-![Mark Rosewater](https://i.ormos.uk/36/f7/36f721b7d86cd6baa42e539d43b8e75e0b0213a5a1b8570f547b0e9cfc889867.jpg)In honor of the release of the *Weatherlight* expansion on **Magic Online**, we've dedicated this week to all things *Weatherlight*. That includes the Weatherlight Saga. For those of you that might not have been around for it, the Weatherlight Saga was a single ongoing story that ran for five years' worth of expansions. The story began, appropriately enough, in the set *Weatherlight* (okay, there are elements in the story that preexist *Weatherlight*, but this was the jumping-off point of the Saga).
+![Mark Rosewater](https://i.ormos.uk/36/f7/36f721b7d86cd6baa42e539d43b8e75e0b0213a5a1b8570f547b0e9cfc889867.jpg)
 
-![Duelist Issues 17 and 18](https://i.ormos.uk/e6/9c/e69c3a9cf83c937f1d181ea64401ef465e9ed4e6109f66de5a63969e39a275e8.jpg)As someone knee-deep in its creation, I thought it would be cool to share a few things with all of you. What follows is four different articles/stories from *The Duelist* (the **Magic** magazine that was the precursor to **magicthegathering.com**, for those that might not recognize its name). Here you'll learn all about how the Weatherlight Saga came to be, catch up on how the story started, and read some Weatherlight Saga fiction. Then if you're up to it, check out [Making Magic this week](/en/articles/makingmagic/2007/12-03-weather-light-report), where I'll fill in some holes and explain a number of decisions we made when creating the story.
+In honor of the release of the *Weatherlight* expansion on **Magic Online**, we've dedicated this week to all things *Weatherlight*. That includes the Weatherlight Saga. For those of you that might not have been around for it, the Weatherlight Saga was a single ongoing story that ran for five years' worth of expansions. The story began, appropriately enough, in the set *Weatherlight* (okay, there are elements in the story that preexist *Weatherlight*, but this was the jumping-off point of the Saga).
+
+![Duelist Issues 17 and 18](https://i.ormos.uk/e6/9c/e69c3a9cf83c937f1d181ea64401ef465e9ed4e6109f66de5a63969e39a275e8.jpg)
+
+As someone knee-deep in its creation, I thought it would be cool to share a few things with all of you. What follows is four different articles/stories from *The Duelist* (the **Magic** magazine that was the precursor to **magicthegathering.com**, for those that might not recognize its name). Here you'll learn all about how the Weatherlight Saga came to be, catch up on how the story started, and read some Weatherlight Saga fiction. Then if you're up to it, check out [Making Magic this week](/en/articles/makingmagic/2007/12-03-weather-light-report), where I'll fill in some holes and explain a number of decisions we made when creating the story.
 
 I hope you all have as much fun reading about it as I did making it.
 

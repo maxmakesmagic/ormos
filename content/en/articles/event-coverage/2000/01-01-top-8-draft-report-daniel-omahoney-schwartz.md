@@ -101,7 +101,9 @@ From here on in, I will use CAPITALS to denote which card Dan picked of the rema
 **Booster 7:** Simoon, Metathran Zombie, Hypnotic Cloud, Shoreline Raider.  
 **Booster 8:** Metathran Zombie, Firebrand Ranger, Thornscape Apprentice.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/852.jpg)Then he managed to pick up Recover, Salt Marsh and a Traveler's Cloak.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/852.jpg)
+
+Then he managed to pick up Recover, Salt Marsh and a Traveler's Cloak.
 
 The third set of boosters went dry, fairly quickly for Dan because he was at the end of a long line of black players. He took an Exotic Curse, Soul Burn, Recoil, Ravenous Rat, Shoreline Raider and an Urborg Phantom.
 

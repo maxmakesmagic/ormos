@@ -77,7 +77,9 @@ archive_source:
   sha256: 2df1e933b501e9daf001522d10ba1d275f5d5fe43d83b6dfd9d85e6d15ecb86f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthon06/hs_dancing2.jpg)It has been a rough adjustment getting reacquainted with the East Coast Winter after spending nine days in Hawaii. Between the cold weather and the jet lag it has been a struggle to get myself in front of a keyboard despite having such an interesting and exciting Pro Tour to follow-up on. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthon06/hs_dancing2.jpg)
+
+It has been a rough adjustment getting reacquainted with the East Coast Winter after spending nine days in Hawaii. Between the cold weather and the jet lag it has been a struggle to get myself in front of a keyboard despite having such an interesting and exciting Pro Tour to follow-up on. 
 
 One of the most interesting things about my trip to Hawaii was my hat. I have never, ever owned a hat that I could not crumple up and stuff in my back pocket before. Except for a knit winter hat I have never found headwear that could accommodate my skull before my trip to the Royal Hawaiian Hotel gift shop. I was apparently the beneficiary of being in a part of the world frequented by massive Fijian, Samoan, and Hawaiian hat racks. The irony of the whole situation is that finding my hat came only days after having one of the few haircuts I have ever liked in my adult life. 
 
@@ -87,7 +89,9 @@ The problem is that if you keep your hand on the front of your hat people think 
 
 As my wife and I were getting ready to go home I realized I would have to wear the hat home, having no way to pack it other than on top of my head. I looked at the outerwear I was also going to be sporting as we approached the colder climes and quickly realized that while the Panama hat works pretty well (and if you disagree keep it to yourself) with shorts, Hawaiian shirts, and sandals you pretty much look like a horse's hindquarters wearing it with a long black trench coat. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthon06/b_bdm.jpg)My solution was to buy a case of clearly marked Hawaiian pineapples in the airport and carry them at all times until I climbed into my cab home -- and it worked. I had several people point and stare to their significant other as I walked through Newark only to have my pineapples pointed out followed by an understanding nod. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthon06/b_bdm.jpg)
+
+My solution was to buy a case of clearly marked Hawaiian pineapples in the airport and carry them at all times until I climbed into my cab home -- and it worked. I had several people point and stare to their significant other as I walked through Newark only to have my pineapples pointed out followed by an understanding nod. 
 
 I reached home with a minimum of ridicule and the hat, Hawaiian shirts, shorts, and sandals have all been tucked away until summer. The pineapple was delicious and has also been tucked away as well. 
 
@@ -113,7 +117,9 @@ None of the top finishing Japanese players were names that you would pick in a f
 
 ### Writer's Ballot Results
 
-![](https://i.ormos.uk/01/3e/013edff47bd97e3c72fb36a4fbc6d45d9a6e5314777b1593d752fee4e4354b9b.jpg)The North American Ballot was thought by many to be sitting in Osyp's back pocket but the man they call Joe Black pulled past Jeff Cunningham to win [the Writer's Ballot](/en/events/2006/mi06/osyp-lebedowicz-is-the-writers-pick) instead, despite five first place votes for the Canadian to the American's two. Despite the five first place votes Jeff did not even finish second with Tsuyoshi, Oiso, De Rosa, and Walamies finishing ahead of him. If it prompts Jeff to tell more untold tales of the Pro Tour it will all be worth it. In the meanwhile Osyp Lebedowicz appeared on more ballots than any other candidate, making the North American ballot much more interesting. 
+![](https://i.ormos.uk/01/3e/013edff47bd97e3c72fb36a4fbc6d45d9a6e5314777b1593d752fee4e4354b9b.jpg)
+
+The North American Ballot was thought by many to be sitting in Osyp's back pocket but the man they call Joe Black pulled past Jeff Cunningham to win [the Writer's Ballot](/en/events/2006/mi06/osyp-lebedowicz-is-the-writers-pick) instead, despite five first place votes for the Canadian to the American's two. Despite the five first place votes Jeff did not even finish second with Tsuyoshi, Oiso, De Rosa, and Walamies finishing ahead of him. If it prompts Jeff to tell more untold tales of the Pro Tour it will all be worth it. In the meanwhile Osyp Lebedowicz appeared on more ballots than any other candidate, making the North American ballot much more interesting. 
 
 ### North American Election
 

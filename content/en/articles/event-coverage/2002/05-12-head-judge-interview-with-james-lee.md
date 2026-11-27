@@ -44,7 +44,9 @@ archive_source:
   sha256: e96b328efa6f10388909935c6a3de440a645a5172f75a7ae86a43818d4c26305
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmil02/946.jpg)**James Lee:** Head Judge of Grand Prix Milwaukee, Level three DCI Judge, and Global Judge Manager for the DCI. I sat down with Mr. Lee at the beginning of the top eight to gather his thoughts about life, the universe, and Magic.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmil02/946.jpg)
+
+**James Lee:** Head Judge of Grand Prix Milwaukee, Level three DCI Judge, and Global Judge Manager for the DCI. I sat down with Mr. Lee at the beginning of the top eight to gather his thoughts about life, the universe, and Magic.
 
 **Ben:** So what were your impressions of Grand Prix Milwaukee?
 
@@ -56,7 +58,9 @@ render_recovery: []
 
 **Ben:** Were you happy with your judges?
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmil02/982.jpg)**James:** We had a really good staff. There were a minimum of judges for this size event, but they were all competent enough to keep it going. It really helped that the players and judges were very cooperative.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmil02/982.jpg)
+
+**James:** We had a really good staff. There were a minimum of judges for this size event, but they were all competent enough to keep it going. It really helped that the players and judges were very cooperative.
 
 **Ben:** Were there any major incidents that happened during the tournament?
 

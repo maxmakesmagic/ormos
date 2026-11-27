@@ -901,7 +901,9 @@ Before we look at the Top 8 (which I listed in [my article last week](https://we
 
 ### The End of Affinity?
 
-![](https://i.ormos.uk/7a/c9/7ac95dd8666bc42c105a3ee0bebb2cf2d75ccc87a79e15dddba11fd700f72e8f.jpg)What leaps out from this table is the relative failure of Affinity to live up to the hopes of its players. Nearly one in three decks in the tournament were Affinity and yet only one made it to the Top 8. Usually when the most popular deck does so poorly it's time to abandon it, both because the results suggest it has problems against the field and the popularity means people will still be gunning for it. Does this mean that Affinity has finally passed its sell-by date and is now the sort of deck you should prepare to beat (because it's still popular) but should no longer play?
+![](https://i.ormos.uk/7a/c9/7ac95dd8666bc42c105a3ee0bebb2cf2d75ccc87a79e15dddba11fd700f72e8f.jpg)
+
+What leaps out from this table is the relative failure of Affinity to live up to the hopes of its players. Nearly one in three decks in the tournament were Affinity and yet only one made it to the Top 8. Usually when the most popular deck does so poorly it's time to abandon it, both because the results suggest it has problems against the field and the popularity means people will still be gunning for it. Does this mean that Affinity has finally passed its sell-by date and is now the sort of deck you should prepare to beat (because it's still popular) but should no longer play?
 
 Not necessarily. First of all, Affinity held up just fine overall, comprising 34% of the top 32 decks. It may be that the field is unfriendly to Affinity when crunch time comes – i.e. Affinity's raw power lets it do well enough against the mass of decks but it falls short in later rounds against more tuned or skilled opposition – but it would be risky to assume that from a single Top 8.
 
@@ -973,7 +975,9 @@ It's also worth noting that Ponza is an interesting metagame choice, particularl
 
 ### U/W Control
 
-![](https://i.ormos.uk/2d/ca/2dca8c758aebe15e1c4020e5a533b66eda5f139198dd75f461081a577822bb21.jpg)At 6% of the overall field, 13% of the top 32 and 25% of the top 8, U/W control also performed very well – and despite the presence of four Flashfires in Dweam's sideboard, this is not an archetype a land destruction deck wants to face. With 25 land, 2-3 Wayfarer's Baubles, Eternal Dragon and Thirst for Knowledge to dig for land, and Mana Leak and Condescend to handle early landkill if needed, it's very unlikely that Ponza can keep the U/W deck from playing its game, and with only expensive creatures as threats, it's even more unlikely that the Ponza deck can win a fair fight.
+![](https://i.ormos.uk/2d/ca/2dca8c758aebe15e1c4020e5a533b66eda5f139198dd75f461081a577822bb21.jpg)
+
+At 6% of the overall field, 13% of the top 32 and 25% of the top 8, U/W control also performed very well – and despite the presence of four Flashfires in Dweam's sideboard, this is not an archetype a land destruction deck wants to face. With 25 land, 2-3 Wayfarer's Baubles, Eternal Dragon and Thirst for Knowledge to dig for land, and Mana Leak and Condescend to handle early landkill if needed, it's very unlikely that Ponza can keep the U/W deck from playing its game, and with only expensive creatures as threats, it's even more unlikely that the Ponza deck can win a fair fight.
 
 There isn't much to be said about this archetype that hasn't been said before. It relies on the standard control tools of card advantage, selective permission, board sweepers and durable finishers. Decree of Justice and Eternal Dragon are wonderful finishers in the deck, each of them providing card advantage and dangerous threats, and both players left Exalted Angel in the sideboard.
 

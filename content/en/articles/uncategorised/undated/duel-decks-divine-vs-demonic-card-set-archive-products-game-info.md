@@ -47,7 +47,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/65/45/6545ef4687735b440e6236a78d25560c048337e17689a146281a3eba0ca734ff.png)These two 60-card decks showcase some of the best and most beloved Magic cards that the forces of light and dark have to offer. The deck set includes ten rare cards, seven cards with new artwork (including foil art versions of Akroma, Angel of Wrath, and Lord of the Pit). Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
+![](https://i.ormos.uk/65/45/6545ef4687735b440e6236a78d25560c048337e17689a146281a3eba0ca734ff.png)
+
+These two 60-card decks showcase some of the best and most beloved Magic cards that the forces of light and dark have to offer. The deck set includes ten rare cards, seven cards with new artwork (including foil art versions of Akroma, Angel of Wrath, and Lord of the Pit). Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
 
 **Set Name:** *Duel Decks: Divine vs. Demonic*  
 **Number of Cards:** 120

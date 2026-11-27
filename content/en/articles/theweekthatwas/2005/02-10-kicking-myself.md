@@ -123,7 +123,9 @@ For people considering this flexible breakfast buffet of combos, Lucas advises t
 
 ### Lifetime Achievement Award
 
-[![](https://i.ormos.uk/ae/5b/ae5bc11f50b00f36832c4e9bcaa95c1415fdb5eddcd6c316b919cf2134cf1d7e.jpg)](https://web.archive.org/web/20050210000000/https://magic.wizards.com/en/node/579941)That’s what **Magicthegathering.com** readers gave to Kai Budde this past week when they voted him into this year’s Invitational as the European representative. Despite his fantastic resume, Kai was far behind all the other candidates in current Pro Standings after Nagoya. Kai was sitting in 40th place, almost 30 spots behind the next lowest possible candidate. 
+[![](https://i.ormos.uk/ae/5b/ae5bc11f50b00f36832c4e9bcaa95c1415fdb5eddcd6c316b919cf2134cf1d7e.jpg)](https://web.archive.org/web/20050210000000/https://magic.wizards.com/en/node/579941)
+
+That’s what **Magicthegathering.com** readers gave to Kai Budde this past week when they voted him into this year’s Invitational as the European representative. Despite his fantastic resume, Kai was far behind all the other candidates in current Pro Standings after Nagoya. Kai was sitting in 40th place, almost 30 spots behind the next lowest possible candidate. 
 
 At the same time it is very hard to argue with Kai’s lifetime achievements. Despite a slow start to the current season, I wouldn’t be at all surprised to see Kai high on the Player of the Year payout -- or on another Invitational card.
 

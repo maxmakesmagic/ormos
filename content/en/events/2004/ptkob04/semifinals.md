@@ -263,7 +263,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/c1/bc/c1bc93fcdd62b69fa812e85c9c3c0325779610b63c27ba7540e7924b6626f462.jpg)For both of these players, being in the Semifinals is the culmination of a great deal of effort. It took Peset 59 straight PTQs (with 25 Top 8s), three GP day twos and a French Nationals Top 8 to finally make it to Kobe and his first Pro Tour. As if he was inspired to make this event count after trying so hard to get here, he's found himself one match from the finals. Masashiro Kuroda has exorcised the ghosts of being unable to make the Top 8 after tremendous day one finishes, and is now two match wins away from becoming the first Japanese Pro Tour Champion. This table is a milestone for both players' careers, but only one will be able to take the next step and earn the right to play for a Pro Tour title.
+![](https://i.ormos.uk/c1/bc/c1bc93fcdd62b69fa812e85c9c3c0325779610b63c27ba7540e7924b6626f462.jpg)
+
+For both of these players, being in the Semifinals is the culmination of a great deal of effort. It took Peset 59 straight PTQs (with 25 Top 8s), three GP day twos and a French Nationals Top 8 to finally make it to Kobe and his first Pro Tour. As if he was inspired to make this event count after trying so hard to get here, he's found himself one match from the finals. Masashiro Kuroda has exorcised the ghosts of being unable to make the Top 8 after tremendous day one finishes, and is now two match wins away from becoming the first Japanese Pro Tour Champion. This table is a milestone for both players' careers, but only one will be able to take the next step and earn the right to play for a Pro Tour title.
 
 ### Game 1
 

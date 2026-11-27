@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/Bagashev.JPG)"I started to play the Microprose game, so at first I played on the PC, then I found the real cards. The computer game is not very challenging, but it is nice in the beginning because you can play without an opponent," Yuri Bagashev says. The 29 year old software engineer has now advanced even further. He finished as number eight in the Russian nationals, and qualified for the European Championship.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/Bagashev.JPG)
+
+"I started to play the Microprose game, so at first I played on the PC, then I found the real cards. The computer game is not very challenging, but it is nice in the beginning because you can play without an opponent," Yuri Bagashev says. The 29 year old software engineer has now advanced even further. He finished as number eight in the Russian nationals, and qualified for the European Championship.
 
 When Yuri started playing Magic about two and a half year ago, around Tempest, he wasn't new to computer games. But Magic was different; it was bigger and he could compete with real people. "I like the competition and the interaction," Yuri says. Now, he lives and works in San Francisco, and he plays regularly at Neutral Ground. He has also attended a few Grand Prix, and he traveled back to Russia to play in the nationals. That gave him a trip to Paris.
 

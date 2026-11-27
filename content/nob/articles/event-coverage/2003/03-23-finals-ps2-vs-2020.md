@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a355.jpg)Wolfman wanted to confirm that he won the flip and looked to Rune Horvik for confirmation, "So I will play first?"
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a355.jpg)
+
+Wolfman wanted to confirm that he won the flip and looked to Rune Horvik for confirmation, "So I will play first?"
 
 "You will choose to play or draw," said Rune, laying down the law early.
 
@@ -65,7 +67,9 @@ Wolfman – 0 Mori – 1
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a357.jpg)Wolfman sided out an [Anurid Murkdiver](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anurid+Murkdiver) in favor of a [Spined Basher](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spined+Basher). 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a357.jpg)
+
+Wolfman sided out an [Anurid Murkdiver](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anurid+Murkdiver) in favor of a [Spined Basher](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spined+Basher). 
 
 This game went much better for Wolfman as he was able to make a 4/4 Brawler on the third turn. Mori did little more than play morphs to clog up the ground. [Dirge of Dread](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dirge+of+Dread) allowed Wolfman to break the stalemate with fatal results for the Converse-clad Mori.
 
@@ -77,7 +81,9 @@ Mori went first but Wolfman got ahead on the morph front with a 2/2 [Withered Wr
 
 Wolfman played an [Aven Redeemer](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Redeemer) and Mori came back with [Glintwing Invoker](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glintwing+Invoker). Wolfman paid no heed to the Marauder in hand and swung his Redeemer in for 2 points in the air. Mori used six mana to kill the healer and attacked for 3.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a359.jpg)[Clickslither](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clickslither) took Wolfman to 11 on the next turn and he played out [Gravel Slinger](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravel+Slinger) and [Grassland Crusader](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grassland+Crusader) over his next turns. [Skirk Commando](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando) face-up made blocking the [Clickslither](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clickslither) problematic and Wolfman slid to 8. [Fleeting Aven](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fleeting+Aven) fortified the air force but Wolfman [Swat](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat)ted it and played a morph. [Aven Fateshaper](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Fateshaper) threatened to make short work of Wolfman but he ripped a [Celestial Gatekeeper](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Celestial+Gatekeeper) with Aven redeemer and [Withered Wretch](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Withered+Wretch) in the bin. He didn't realize that Gatekeeper put them directly into play and was in better shape—or not quite as bad shape—than he originally thought. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a359.jpg)
+
+[Clickslither](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clickslither) took Wolfman to 11 on the next turn and he played out [Gravel Slinger](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravel+Slinger) and [Grassland Crusader](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grassland+Crusader) over his next turns. [Skirk Commando](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando) face-up made blocking the [Clickslither](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clickslither) problematic and Wolfman slid to 8. [Fleeting Aven](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fleeting+Aven) fortified the air force but Wolfman [Swat](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat)ted it and played a morph. [Aven Fateshaper](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Fateshaper) threatened to make short work of Wolfman but he ripped a [Celestial Gatekeeper](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Celestial+Gatekeeper) with Aven redeemer and [Withered Wretch](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Withered+Wretch) in the bin. He didn't realize that Gatekeeper put them directly into play and was in better shape—or not quite as bad shape—than he originally thought. 
 
 He had cycled his [Dirge of Dread](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dirge+of+Dread) earlier and had no way to break though unless Mori over-committed on an attack. Mori made sure he could never fall below one and it was up to Elijah to carry the team to victory.
 

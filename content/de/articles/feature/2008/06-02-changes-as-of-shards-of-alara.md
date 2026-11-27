@@ -95,7 +95,9 @@ Premium-Versionen der sagenhaften Karten haben die gleiche Verteilung innerhalb 
 
 Wir werden außerdem eine häufige Karte in jeder Boosterpackung durch ein Standardland ersetzen. Daraus ergibt sich folgende Zusammenstellung einer Boosterpackung: 1 seltene Karte, 3 nicht ganz so häufige Karten, 10 häufige Karten, 1 Standardland und eine Karte mit Tipps und Tricks (wobei in ungefähr jeder achten Boosterpackung eine sagenhafte Karte die seltene Karte ersetzt).
 
-![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)Zusätzlich zu diesen Änderungen wird ein neues Produkt der MTG-Reihe vorgestellt: Das „Intro-Pack" ist die beste Methode für **Magic**-Spieler, um sich mit den neuen Mechanismen und dem Hintergrund eines Sets vertraut zu machen. Außerdem ist es auch das beste Hilfsmittel, um neue Spieler an das Spiel heranzuführen, so dass sie es mit den aktuellen Karten lernen können. Ein Intro-Pack enthält: 
+![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)
+
+Zusätzlich zu diesen Änderungen wird ein neues Produkt der MTG-Reihe vorgestellt: Das „Intro-Pack" ist die beste Methode für **Magic**-Spieler, um sich mit den neuen Mechanismen und dem Hintergrund eines Sets vertraut zu machen. Außerdem ist es auch das beste Hilfsmittel, um neue Spieler an das Spiel heranzuführen, so dass sie es mit den aktuellen Karten lernen können. Ein Intro-Pack enthält: 
 
 *   Ein vorkonstruiertes Deck mit 41 Karten, einschließlich einer seltenen Karte in Premiumversion und 1 „normalen" seltenen Karte
 *   1 Boosterpackung des aktuellen Sets

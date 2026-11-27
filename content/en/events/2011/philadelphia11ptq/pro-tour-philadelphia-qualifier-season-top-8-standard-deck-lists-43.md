@@ -45,7 +45,9 @@ archive_source:
   sha256: 9e523b0948314d669415706d39fde1f430da4f376e8a90f7e8ba3c0fe29f8b0d
 render_recovery: []
 ---
-![](http://www.wizards.com/protour/images/qt_lg.jpg)Get your Standard skills warmed up, because tickets to Philadelphia are up for grabs this Pro Tour Qualifier season! 
+![](http://www.wizards.com/protour/images/qt_lg.jpg)
+
+Get your Standard skills warmed up, because tickets to Philadelphia are up for grabs this Pro Tour Qualifier season! 
 
 You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20130710150318/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each decklist and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw.
 

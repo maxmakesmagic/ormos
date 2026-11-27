@@ -1048,7 +1048,9 @@ One of the things that really surprised me was the amount of time that some of y
 
 ### Sliding Titan
 
-![](https://i.ormos.uk/09/26/0926886b28e3b7374549ff06a95150480a54d8d7a16c0ba03f3b721e614674bd.jpg)By far the most common idea (with nearly 100 people sending in something similar) was using Astral Slide with Sundering Titan. Astral Slide has been a staple card in tournaments for quite some time. People have already been using Astral Slide in conjunction with cards like Solemn Simulacrum and Cartographer to make use of those cards' come into play abilities. If an Astral Slide and a Sundering Titan are both out, your opponent is in for a pretty terrible time; the Astral Slide removes the Titan from the game for a short while, triggering its ability once, and when it returns the ability triggers again. Clearly this is incredibly abusive and a bunch of you wrote in with your versions of this approach.
+![](https://i.ormos.uk/09/26/0926886b28e3b7374549ff06a95150480a54d8d7a16c0ba03f3b721e614674bd.jpg)
+
+By far the most common idea (with nearly 100 people sending in something similar) was using Astral Slide with Sundering Titan. Astral Slide has been a staple card in tournaments for quite some time. People have already been using Astral Slide in conjunction with cards like Solemn Simulacrum and Cartographer to make use of those cards' come into play abilities. If an Astral Slide and a Sundering Titan are both out, your opponent is in for a pretty terrible time; the Astral Slide removes the Titan from the game for a short while, triggering its ability once, and when it returns the ability triggers again. Clearly this is incredibly abusive and a bunch of you wrote in with your versions of this approach.
 
 For me the one that most stands out is this deck by Jared Bouquet:
 
@@ -1090,7 +1092,9 @@ Matt's deck is all about mana. Grim Monolith, Metalworker, and Voltaic Key can g
 
   
 
-![](https://i.ormos.uk/94/dd/94dd921babcdea42a4101d5ce0692ed78525690ff4130db1805dd6c7ed5fb629.jpg)This deck is pretty classic. Using Cabal Therapy, Last Rites, and Buried Alive to get some creatures in the grave, it pops them back out with a whole variety of things. 4 Exhume do the job the easiest, but Corpse Dance and Shallow Grave are able to get things going a bit faster. Shallow Grave can be especially exciting, with Dennis pointed out that the deck can do crazy things like cast a Dark Ritual to cast a Cabal Therapy on yourself (naming, say, Nicol Bolas) and then using Shallow Grave to empty the entire hand of your opponent on turn 1!
+![](https://i.ormos.uk/94/dd/94dd921babcdea42a4101d5ce0692ed78525690ff4130db1805dd6c7ed5fb629.jpg)
+
+This deck is pretty classic. Using Cabal Therapy, Last Rites, and Buried Alive to get some creatures in the grave, it pops them back out with a whole variety of things. 4 Exhume do the job the easiest, but Corpse Dance and Shallow Grave are able to get things going a bit faster. Shallow Grave can be especially exciting, with Dennis pointed out that the deck can do crazy things like cast a Dark Ritual to cast a Cabal Therapy on yourself (naming, say, Nicol Bolas) and then using Shallow Grave to empty the entire hand of your opponent on turn 1!
 
 Sundering Titan fits the bill here as a great reanimation target. I know that in the 5-color games that we play here in Madison, local player Adam Kugler quickly inserted 4 Sundering Titans into his Reanimation deck to great effect. This deck is much like the previous deck, where it has a backup plan in case it can't get to the Titan. One card that seems like it would be an incredibly good fit here is Entomb, making it far easier to get the combo going.
 
@@ -1118,7 +1122,9 @@ It's not all that surprising to me that the person that wrote me a nearly 4 page
 
   
 
-![](https://i.ormos.uk/b2/11/b211190060bf459834ea4c5386f6a6623a5c917550f0dd591ef13c6f4984de0e.jpg)One of the first things that this deck does that I like is that it runs a sizable amount of cards to improve its hand quality. Careful Study, Tolarian Winds, and Gamble all help you find a card that you're looking for. They also have the great potential to drop a Sundering Titan into the grave. Combine that with Goblin Welder and the weaker but equally useful Trash for Treasure, and you have a lot of ways to get the Titan into play from your graveyard.
+![](https://i.ormos.uk/b2/11/b211190060bf459834ea4c5386f6a6623a5c917550f0dd591ef13c6f4984de0e.jpg)
+
+One of the first things that this deck does that I like is that it runs a sizable amount of cards to improve its hand quality. Careful Study, Tolarian Winds, and Gamble all help you find a card that you're looking for. They also have the great potential to drop a Sundering Titan into the grave. Combine that with Goblin Welder and the weaker but equally useful Trash for Treasure, and you have a lot of ways to get the Titan into play from your graveyard.
 
 Jörg points out that the big problem with decks like this is that Goblin Welder tends to be pretty easy to kill, and he uses Lightning Greaves to help get around this problem. Another fine bonus of the Greaves is that once you drop a Sundering Titan into play, if you want to, you can drop the Greaves onto it briefly to start attacking before you bring it back onto your Welder to protect it.
 

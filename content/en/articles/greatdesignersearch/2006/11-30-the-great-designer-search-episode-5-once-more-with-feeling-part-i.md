@@ -614,7 +614,9 @@ Arduous Task. This [Peel from Reality](https://web.archive.org/web/2006113000000
 
 ### Ryan Sutherland
 
-![](https://i.ormos.uk/b7/8e/b78e7b125ba59b82812262e0fbd79714b6a1bd753f186f2182d1fcc11a9ca071.jpg)I'll take the physical challenge, Mark.
+![](https://i.ormos.uk/b7/8e/b78e7b125ba59b82812262e0fbd79714b6a1bd753f186f2182d1fcc11a9ca071.jpg)
+
+I'll take the physical challenge, Mark.
 
 **Card #1 (Conrad Corbett) “Do twice” instant or sorcery** 
 

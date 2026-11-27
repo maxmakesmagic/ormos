@@ -44,7 +44,9 @@ archive_source:
   sha256: 3efe1c67cad5b652f0320b2e90fd21c1af7cca83c43485596db071e01c6ec72c
 render_recovery: []
 ---
-[![](https://i.ormos.uk/e4/6f/e46fbe7d63fe05460e2ffee9f69814cf7b5ac5976218b0414517baa9cbdca257.jpg)](https://web.archive.org/web/20120621000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent/hof/welcome)A breakdown of the 74 candidates for induction in the 2012 **Magic** Pro Tour Hall of Fame.
+[![](https://i.ormos.uk/e4/6f/e46fbe7d63fe05460e2ffee9f69814cf7b5ac5976218b0414517baa9cbdca257.jpg)](https://web.archive.org/web/20120621000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent/hof/welcome)
+
+A breakdown of the 74 candidates for induction in the 2012 **Magic** Pro Tour Hall of Fame.
 
 **Key**  
 **Median Finish:** Midpoint of career Pro Tour finishes (half above, half below)  

@@ -349,7 +349,9 @@ render_recovery:
   - Starstorm
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/jpnat04/fin1_1.jpg)Despite appearances by a handful of surprising decks in the Top 8, the tournament has appropriately come down to Goblins vs. Affinity. However, Fujita's Goblin deck is no mere one-dimensional aggressive creation. By splashing green, Fujita has been able to combine the aggressive nature of Goblins with the disruption of efficient artifact removal. Fujita has had a great deal of success with Goblins in major events, including a win at Grand Prix Bangkok where he popularized Goblin Bidding. With the Japanese National Championship on the line, there's probably no other deck he'd rather be playing.
+![](http://www.wizards.com/sideboard/images/jpnat04/fin1_1.jpg)
+
+Despite appearances by a handful of surprising decks in the Top 8, the tournament has appropriately come down to Goblins vs. Affinity. However, Fujita's Goblin deck is no mere one-dimensional aggressive creation. By splashing green, Fujita has been able to combine the aggressive nature of Goblins with the disruption of efficient artifact removal. Fujita has had a great deal of success with Goblins in major events, including a win at Grand Prix Bangkok where he popularized Goblin Bidding. With the Japanese National Championship on the line, there's probably no other deck he'd rather be playing.
 
 ### Game 1
 

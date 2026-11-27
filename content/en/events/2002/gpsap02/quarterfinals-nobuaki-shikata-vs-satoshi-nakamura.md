@@ -88,7 +88,9 @@ render_recovery:
   - Spellbane Centaur
   occurrences: 96
 ---
-![](http://www.wizards.com/sideboard/images/gpsap02/a941.jpg)Sapporo has to be a lucky city for Satoshi Nakamura. He won the first Grand Prix - Sapporo, and now he's ended a lengthy shortage of top finishes with a Top 8 appearance this weekend. His opponent is Nobuaki Shikata, a powerful Constructed player who has Top 8's at Grand Prix - Hiroshima and "The Finals". He teams with Masashiro Kuroda and Masahiko Morita, and all three brought the same deck to this event. Morita and Shikata made Top 8, with Kuroda finishing in the Top 32. Now he's got a shot to win it all, and take his first premiere title.
+![](http://www.wizards.com/sideboard/images/gpsap02/a941.jpg)
+
+Sapporo has to be a lucky city for Satoshi Nakamura. He won the first Grand Prix - Sapporo, and now he's ended a lengthy shortage of top finishes with a Top 8 appearance this weekend. His opponent is Nobuaki Shikata, a powerful Constructed player who has Top 8's at Grand Prix - Hiroshima and "The Finals". He teams with Masashiro Kuroda and Masahiko Morita, and all three brought the same deck to this event. Morita and Shikata made Top 8, with Kuroda finishing in the Top 32. Now he's got a shot to win it all, and take his first premiere title.
 
 Nakamura won the right to go first, and his hand was a good one. Careful Study got rid of Krosan Reclamation and island while setting up Wild Mongrel on the second turn. Shikata came back with a Study of his own, putting Rootwalla into play and Grizzly Fate in the graveyard. Nakamura made his Mongrel and Shikata matched him.
 
@@ -104,7 +106,9 @@ Nakamura drew Aether Burst, and waited. Shikata was already counting on it. He s
 
 Shikata 1 - Nakamura 0
 
-![](http://www.wizards.com/sideboard/images/gpsap02/a940.jpg)Nakamura mulliganed a five land, Aether Burst, Envelop hand to start. He kept three land, Wonder, Envelop and Aquamoeba. Shikata kept his hand quickly.
+![](http://www.wizards.com/sideboard/images/gpsap02/a940.jpg)
+
+Nakamura mulliganed a five land, Aether Burst, Envelop hand to start. He kept three land, Wonder, Envelop and Aquamoeba. Shikata kept his hand quickly.
 
 Shikata started with Careful Study. Nakamura allowed it. It pitched Roar of the Wurm and Deep Analysis. Nakamura made an Aquamoeba. Shikata Analyzed and passed it back. Nakamura pitched Wonder to hit for three. Shikata had no play. Nakamura hit for three more. Finally, at four land, Shikata could play Stone and Wurm. Nakamura's Envelop was ready for it.
 

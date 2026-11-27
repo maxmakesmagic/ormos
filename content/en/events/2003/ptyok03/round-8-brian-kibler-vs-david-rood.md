@@ -86,7 +86,9 @@ render_recovery:
   - Barkhide Mauler
   occurrences: 46
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a855.jpg)There were some snickers in the back room over Brian Kibler's first pick Battlefield Medic but the Dragonmaster is confident in the cleric archetype. He looks very confident clad in Superman t-shirt with his high-end headphones blaring what could be virtually any style of music. Rood is also confident and no one is making fun of his first picks in *Onslaught*—Exalted Angel and Insurrection. 
+![](http://www.wizards.com/sideboard/images/ptyok03/a855.jpg)
+
+There were some snickers in the back room over Brian Kibler's first pick Battlefield Medic but the Dragonmaster is confident in the cleric archetype. He looks very confident clad in Superman t-shirt with his high-end headphones blaring what could be virtually any style of music. Rood is also confident and no one is making fun of his first picks in *Onslaught*—Exalted Angel and Insurrection. 
 
 ### Game 1
 
@@ -100,7 +102,9 @@ Kibler – 1 Rood – 0
 
 There were no mulligans this time and Rood played a third turn morph as did Kibler. Dive Bomber and Vile Deacon were the fourth turn plays and Rood dealt first blood with his flier and followed it up with Snapping Thragg. Kibler played an Akroma's Devoted and sent his Vile Deacon upright into the red zone. 
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a857.jpg)Rood sent his Thragg and a morph at Kibler. The Dive Bomber stayed back to deal with the Deacon. Kibler put his morph and Devoted in the way of the beast and it ate the mystery man—a Wingbeat Warrior. Rood followed up with a pair of morphs. Daunting Defender negated the Dive Bomber and the Devoted and Deacon—can you call it swinging if they don't tap?—swung into the red zone.
+![](http://www.wizards.com/sideboard/images/ptyok03/a857.jpg)
+
+Rood sent his Thragg and a morph at Kibler. The Dive Bomber stayed back to deal with the Deacon. Kibler put his morph and Devoted in the way of the beast and it ate the mystery man—a Wingbeat Warrior. Rood followed up with a pair of morphs. Daunting Defender negated the Dive Bomber and the Devoted and Deacon—can you call it swinging if they don't tap?—swung into the red zone.
 
 Rood kept the pressure on Kibler and swung with three morphs and a Dive Bomber. Kibler thought long and hard about his blocks and went over the math multiple times before putting a Daunting Defender in front of one morph and Akroma's Devoted in front of another. Letting a morph and the flier though unimpeded. "No Searing Flesh for you!" exclaimed Kibler."  
  Rood nodded, "There were sooooo many in that draft."
@@ -115,7 +119,9 @@ Kibler clearly had something up his sleeve when he attacked with his Sandskinned
 
 Rood was concerned about the Entangler and was playing out all of his lands leaving him devoid of cards in hand to mount a bluff. With the Deacon gone he was able to get in for two with the Bomber and took Kibler to a tantalizing six. Kibler couldn't break through and played another Deacon rather than trying, which prompted a "Dear God" form Rood. A Battering Craghorn was unveiled EOT.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a856.jpg)During his next turn's upkeep Rood invoked the Canadian patron saint of topdecks with a, "C'mon Fung!" his deck only offered Mountain, which he played to keep up with the Entangler. Kibler played Sootfeather flock.
+![](http://www.wizards.com/sideboard/images/ptyok03/a856.jpg)
+
+During his next turn's upkeep Rood invoked the Canadian patron saint of topdecks with a, "C'mon Fung!" his deck only offered Mountain, which he played to keep up with the Entangler. Kibler played Sootfeather flock.
 
 Rood was finally rewarded with a topdecked Crested Craghorn, which traded with the Entangler. Kibler had been holding the Cruel Revival—it was his ace up the sleeve when he attacked with the devoted earlier—and killed the Dive Bomber and finished off the young Canadian.
 

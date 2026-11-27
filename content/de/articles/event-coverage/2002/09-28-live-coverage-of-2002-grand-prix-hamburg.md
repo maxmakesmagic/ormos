@@ -60,7 +60,9 @@ archive_source:
   sha256: 1cb2be6f7774c583a5dbaf20b4d666c630afa5cd7613ef96612f0b7e44273dc0
 render_recovery: []
 ---
-![](https://i.ormos.uk/58/ea/58ea44a0632d2193518d26952f0a1c6565033bd3c6c1277250aafe8e2321f9b7.jpg)Simon Hockwin is the champion of Grand Prix Hamburg!
+![](https://i.ormos.uk/58/ea/58ea44a0632d2193518d26952f0a1c6565033bd3c6c1277250aafe8e2321f9b7.jpg)
+
+Simon Hockwin is the champion of Grand Prix Hamburg!
 
 His blue-green Quiet Speculation deck fought its way through a relatively inexperienced Top 8 that included only one non-green deck and two non-German players. Blue-green again proved dominant as four of the top 8 decks ran this strategy. Three others, including finalist Arndt Meier, ran a green-white beatdown deck. The sole mono-black control deck was run by Piotr Sienko and didn't progress further than the quarter-finals.
 

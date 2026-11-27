@@ -41,6 +41,8 @@ render_recovery: []
 
 This week's two podcasts are the second and third (of three) in my series on the design of *Torment*, the second set in the *Odyssey* block—known to some as "The Black Set."
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
 
  

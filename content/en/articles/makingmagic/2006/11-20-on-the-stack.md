@@ -91,7 +91,9 @@ You see, the very first week of the GDS, the judges were reviewing the applicant
 
 ![Time_Machine](http://www.wizards.com/magic/images/cardart/UNH/Time_Machine.jpg%0A%09%09%09)
 
-![Time_Machine](https://i.ormos.uk/52/96/52960331046cc0369d0837b99bec70c8f28d4948dc5aa105a675a492ba95600a.jpg)The Stack is one of the most important parts of the game. I even said that if I could go back through time and suggest one thing for Richard Garfield to change about **Magic** it would be the addition of The Stack (see my column "[Test of Endurance](https://web.archive.org/web/20061120000000/http://archive.wizards.com/default.asp?x=mtgcom/daily/mr249)" if you want to know how that topic came up). Noah Weil, **magicthegathering.com** columnist and GDS candidate, has been sitting in on a class on game design that Richard Garfield is currently teaching and after class one day, he asked Richard what he would change about Alpha if he could go back in time. Richard's answer? He'd add The Stack.
+![Time_Machine](https://i.ormos.uk/52/96/52960331046cc0369d0837b99bec70c8f28d4948dc5aa105a675a492ba95600a.jpg)
+
+The Stack is one of the most important parts of the game. I even said that if I could go back through time and suggest one thing for Richard Garfield to change about **Magic** it would be the addition of The Stack (see my column "[Test of Endurance](https://web.archive.org/web/20061120000000/http://archive.wizards.com/default.asp?x=mtgcom/daily/mr249)" if you want to know how that topic came up). Noah Weil, **magicthegathering.com** columnist and GDS candidate, has been sitting in on a class on game design that Richard Garfield is currently teaching and after class one day, he asked Richard what he would change about Alpha if he could go back in time. Richard's answer? He'd add The Stack.
 
 So The Stack is one of the most important parts of the game. Why are you instructing designers not to talk about it? That, my faithful readers, is the topic of today's column. I've "stacked" it, if you will. (If you don't like bad puns, Making **Magic** might not be the column for you.)
 

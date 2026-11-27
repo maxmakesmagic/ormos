@@ -73,7 +73,9 @@ render_recovery: []
 
 Brian Schneider is a well liked and respected player who has been away from Magic for a while. He takes he game less seriously these days, but is still definitely a force to be reckoned with. David Price has also been having a quiet period of late, he was the winner of Pro Tour LA back in 1998. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/MASTERSNY00/Images/978.jpg)David was going with his old favorite of Sligh. It seems that apart from a period where he played mono-black Hatred, he has used this deck nearly all the time for the last four years. He didn't have such a good match-up in this round, though, against Brian's mono-green deck. This deck uses Natural Order to fetch large creatures such as Verdant Force, and controls the game with Plow Unders and Deranged Hermits. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/MASTERSNY00/Images/978.jpg)
+
+David was going with his old favorite of Sligh. It seems that apart from a period where he played mono-black Hatred, he has used this deck nearly all the time for the last four years. He didn't have such a good match-up in this round, though, against Brian's mono-green deck. This deck uses Natural Order to fetch large creatures such as Verdant Force, and controls the game with Plow Unders and Deranged Hermits. 
 
 Dave went first and got a good, typical Sligh draw, with a first turn Jackal Pup, and a second turn Mogg Fanatic and Cursed Scroll. Unfortunately for David, Brian's draw was better. A Wall of Roots is difficult for Sligh to deal with, and with a little help from a Natural Order, it metamorphosed into a Verdant Force. David tried to use burn spells to race the Force, but it's a hopeless task as the Force turned out two 1/1 tokens every turn. Brian was on a fairly safe seven life when the Force finishes the game. 
 

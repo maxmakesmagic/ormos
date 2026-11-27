@@ -44,7 +44,9 @@ archive_source:
   sha256: c9835352fb15fea19d5849da9cdf76c25de7fb4f9b02ac1565b22fd339aa781e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm10_1.jpg)Three years ago, these two players were "young stars on the rise". After proving themselves, they've become mainstays of the Canadian pro scene. They've already rumbled this weekend, facing each other in the first constructed portion yesterday, with Evans emerging the victor. He needled Boileau about a suspect play in an attempt to get a mental edge, but Boileau would have none of it.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm10_1.jpg)
+
+Three years ago, these two players were "young stars on the rise". After proving themselves, they've become mainstays of the Canadian pro scene. They've already rumbled this weekend, facing each other in the first constructed portion yesterday, with Evans emerging the victor. He needled Boileau about a suspect play in an attempt to get a mental edge, but Boileau would have none of it.
 
 "So, why are you still getting Feature Matches?" - Louis Boileau
 

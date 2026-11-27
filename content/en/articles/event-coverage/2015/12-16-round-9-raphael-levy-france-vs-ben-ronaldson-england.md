@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Mark Wraith*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/297.JPG)Raphael is a familiar face at this level, he lost in the semi-finals of last years event. He also has a Pro Tour top 8 finish at Chicago 1999 and at Worlds in 1998. He also won Grand Prix Lyon. Ben is the reigning English National Champion and a member of the European Alliance. Ben is one of only two undefeated players going into this round, he has six wins and two draws. The other undefeated player is Noah Boeken.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/297.JPG)
+
+Raphael is a familiar face at this level, he lost in the semi-finals of last years event. He also has a Pro Tour top 8 finish at Chicago 1999 and at Worlds in 1998. He also won Grand Prix Lyon. Ben is the reigning English National Champion and a member of the European Alliance. Ben is one of only two undefeated players going into this round, he has six wins and two draws. The other undefeated player is Noah Boeken.
 
 Ben has a Wildfire deck similar to the one used by John Ormerod whereas Raphael is playing a Replenish deck which brings Opalescence and the Parallax enchantments back from the graveyard to lock up the opponent and quickly attack with 4/4 creatures.
 

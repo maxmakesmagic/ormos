@@ -783,7 +783,9 @@ The auction room definitely has its good points as well, particularly for bargai
 
 ### The Basics
 
-![](https://i.ormos.uk/0c/e2/0ce2494f5de38e68c1c8a2366db81e1bf23bf8beffcdea3349d75b0bec94cbb1.jpg)First, what is probably obvious: if you want to join auction, type "/join auction" in the message bar of any window on MTGO (without the quote marks). That will open the auction room in a new window.
+![](https://i.ormos.uk/0c/e2/0ce2494f5de38e68c1c8a2366db81e1bf23bf8beffcdea3349d75b0bec94cbb1.jpg)
+
+First, what is probably obvious: if you want to join auction, type "/join auction" in the message bar of any window on MTGO (without the quote marks). That will open the auction room in a new window.
 
 There are two people "on duty" in the auction room at any time. They are the Lister and the Neer (short for auctioneer). If you have cards to sell, you pm the Lister and tell him what you want to auction and whether there's a minimum price. The Lister coordinates with the Neer, who handles the auction in turn. The Lister will say who he is from time to time, and will post in blue. The Neer types IN CAPS and is the only person allowed to do so. Quite a difference from the Message Board, where lots of people seem to have their CAPS LOCK on. :)
 

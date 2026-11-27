@@ -543,7 +543,9 @@ render_recovery:
 ---
 ### Kazumasa Shiki vs. Itaru Ishida
 
-![](https://i.ormos.uk/42/be/42beefe32a96fb3ecf41857c2bfaad2b640332dda9d45c984613284ca1e925cc.jpg)Itaru Ishida has practically owned this tournament from the start, going through the first day undefeated before clinching his Top 8 spot. All that's left now is one more match win to put the cap on a great weekend of Magic for one of Japan's best. Making this finals match a little more interesting is the fact Ishida conceded to Kazumasa Shiki in the last round to let him into the Top 8. Shiki is playing Goblins against Ishida's Reanimate deck, and is going to need his draws to be a little fast, and Ishida's draws to be a little slow. The last thing he wants is to have his Goblins staring across the table at a Phantom Nishoba, and the quicker his offense comes out, the less time Ishida will have to make that happen.
+![](https://i.ormos.uk/42/be/42beefe32a96fb3ecf41857c2bfaad2b640332dda9d45c984613284ca1e925cc.jpg)
+
+Itaru Ishida has practically owned this tournament from the start, going through the first day undefeated before clinching his Top 8 spot. All that's left now is one more match win to put the cap on a great weekend of Magic for one of Japan's best. Making this finals match a little more interesting is the fact Ishida conceded to Kazumasa Shiki in the last round to let him into the Top 8. Shiki is playing Goblins against Ishida's Reanimate deck, and is going to need his draws to be a little fast, and Ishida's draws to be a little slow. The last thing he wants is to have his Goblins staring across the table at a Phantom Nishoba, and the quicker his offense comes out, the less time Ishida will have to make that happen.
 
 ### Game 1
 

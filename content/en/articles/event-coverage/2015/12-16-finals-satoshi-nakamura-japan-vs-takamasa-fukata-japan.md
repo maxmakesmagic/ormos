@@ -46,13 +46,17 @@ render_recovery: []
 ---
 *by Alex Shvartsman*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/finals1.jpg)Fukata studied his opening hand and chose to keep the draw despite having two Swamps as the only lands in his predominantly green deck. Nakamura had plenty of Swamps and Mountains, and kept his draw as well. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/finals1.jpg)
+
+Fukata studied his opening hand and chose to keep the draw despite having two Swamps as the only lands in his predominantly green deck. Nakamura had plenty of Swamps and Mountains, and kept his draw as well. 
 
 Fukata drew into a Forest and was able to cast a second turn Pygmy Razorback. He did not hesitate to use a Vendetta to destroy Nakamura's first creature - a Spur Grappler. Although normally spot removal is precious in draft and not often used frivolously, Fukata's draw justified this play. His plan was to win the game very quickly on the strength of his hand, that included several more green creatures and a Treetop Bracers. 
 
 Fukata followed his plan by casting a Giant Caterpillar and enchanting it with a Treetop Bracers to avoid Nakamura's Carrion Wall. Unfortunately for Fukata, he also got greedy and tapped out that turn to cast a second Razorback. Nakamura cast his Seal of Doom and used it that turn, so Fukata did not end up with a 1/1 Butterfly token. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/finals2.jpg)Fukata cast Thrive on his two Razorbacks and played a Seal of Strength. This allowed him to attack for a lot of damage, save the blocked Razorback and trample through for a lot of damage in the process. Nakamura was able make a comeback by unloading more removal spells than most draft decks are lucky to have over the next few turns. Seal of Fire and Vicious Hunger took care of the two Razorbacks while Maggot Therapy took out a Belbe's Percher that Fukata summoned. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/finals2.jpg)
+
+Fukata cast Thrive on his two Razorbacks and played a Seal of Strength. This allowed him to attack for a lot of damage, save the blocked Razorback and trample through for a lot of damage in the process. Nakamura was able make a comeback by unloading more removal spells than most draft decks are lucky to have over the next few turns. Seal of Fire and Vicious Hunger took care of the two Razorbacks while Maggot Therapy took out a Belbe's Percher that Fukata summoned. 
 
 Up until this point Nakamura drew a total of two creatures - the Spur Grappler that was destroyed very early on and Carrion Wall. Fortunately for Nakamura, he drew plenty of removal. Fukata had an excellent draw early on. At this point in the game their roles changed. Fukata went on to draw a lot of lands mixed with an occasional 1/1 creature, while Nakamura cast Plague Witch, Cateran Brute and Pit Raptor one after another. With Fukata controlling no creatures to attack with, Nakamura's low life total did not prevent him from "alpha-striking" every turn to finish the game before his opponent could recover. 
 
@@ -62,10 +66,14 @@ Nakamura cast a turn 2 Plague Witch and used it to destroy the Razorback. Mogg T
 
 With his life total diminishing fast, Fukata was faced with a difficult decision. He finally got to four mana and could either cast Skyshroud Claim, planning for the long game, or cast a Snorting Gahr which he knew would get removed via Seal of Doom immediately. Casting the Gahr at some point could not be avoided. Fukata had a handful of green creatures and one of them would have to "take it for the team" before he could manage a blocker. Fukata elected to play a Skyshroud Claim first. This allowed him to both cast the Gahr and remove the Toady with Vicious Hunger on the following turn, gaining two precious life points in the process. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/finals4.jpg)Having fought his way out of manascrew, Fukata began to slowly establish control of the game. He cast Erithizon which, while not an amazing offensive creature, acts as a very good wall. He went on to play a few more creatures and reduce Nakamura's life total down to ten. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/finals4.jpg)
+
+Having fought his way out of manascrew, Fukata began to slowly establish control of the game. He cast Erithizon which, while not an amazing offensive creature, acts as a very good wall. He went on to play a few more creatures and reduce Nakamura's life total down to ten. 
 
 Fukata elected to play very defensively and did not attack with his Thresher Beast several turns down the line because Nakamura could potentially retaliate by attacking him down to one. Beast on the other hand was unblockable (enchanted with Treetop Bracers) and could end the game in two turns. Keeping this creature back proved to be a critical error in judgement for Fukata. On the following turn Nakamura drew and cast a Pit Raptor, once again coming within a turn of being able to win the game. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/finals5.jpg)Fukata was forced to attack with all of his creatures, hoping that Nakamura would suspect a trick and trade his Pit Raptor in combat. Nakamura did not bite. He used his other creatures to block and went down to five life. Unable to stop the 4/3 flying Mercenary, Fukata was defeated on the following turn. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/finals5.jpg)
+
+Fukata was forced to attack with all of his creatures, hoping that Nakamura would suspect a trick and trade his Pit Raptor in combat. Nakamura did not bite. He used his other creatures to block and went down to five life. Unable to stop the 4/3 flying Mercenary, Fukata was defeated on the following turn. 
 
 Nakamura 2 - Fukata 0

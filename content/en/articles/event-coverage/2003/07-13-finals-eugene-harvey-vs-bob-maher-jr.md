@@ -44,7 +44,9 @@ archive_source:
   sha256: 60c95b3c7aff71ac9faa02cb25a2f487ddfa228f22941736f29d548e40df6903
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a908.jpg)There’s not much more you could ask for from a Grand Prix Top 8 than to see two goliaths such as these slugging it out. Eugene Harvey, former US Champion, Grand Prix – Atlanta Champion, and earlier this year a runner-up at Grand Prix – New Orleans. Maher’s credentials are even more impressive, but both of these guys have been lauded enough for a lifetime. Suffice it to say it’s no fluke they got this far. Harvey is with Slide, and Maher is with Red-White Control. It’s not quite a mirror, but it’s close.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a908.jpg)
+
+There’s not much more you could ask for from a Grand Prix Top 8 than to see two goliaths such as these slugging it out. Eugene Harvey, former US Champion, Grand Prix – Atlanta Champion, and earlier this year a runner-up at Grand Prix – New Orleans. Maher’s credentials are even more impressive, but both of these guys have been lauded enough for a lifetime. Suffice it to say it’s no fluke they got this far. Harvey is with Slide, and Maher is with Red-White Control. It’s not quite a mirror, but it’s close.
 
 “This is best of three. No cheating, no biting, no kicking under the table.” – Head Judge Rune Horvik
 
@@ -60,7 +62,9 @@ Maher got the first rip. Neither drew a land off the top, but then they each fou
 
 “A little late.” – Bob Maher, Jr.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a910.jpg)Maher got land number four and shot Harvey with his Rift. Harvey made one of his own while at ten life, and got another two to the face in response. Harvey bashed him to nine. Another hit brought him to four, and Maher gained six life at the end of Harvey’s turn. He untapped with only one white mana in play. He tapped four and cycled Vengeance, docking them both two life points. The plains off the top gave him just enough mana for a Wing Shards. Harvey drew and thought. The life totals were eight to six in Maher’s favor.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a910.jpg)
+
+Maher got land number four and shot Harvey with his Rift. Harvey made one of his own while at ten life, and got another two to the face in response. Harvey bashed him to nine. Another hit brought him to four, and Maher gained six life at the end of Harvey’s turn. He untapped with only one white mana in play. He tapped four and cycled Vengeance, docking them both two life points. The plains off the top gave him just enough mana for a Wing Shards. Harvey drew and thought. The life totals were eight to six in Maher’s favor.
 
 He swung. Maher tapped out to Shards away the Dragon. Harvey had no cyclers to punish him. Maher made no move. Harvey played a Slide. Maher consulted and re-consulted the removed from game piles. He cycled a Vengeance and the totals dropped to six and four. He untapped and played Rift. Harvey had no response. He cycled Harvey out of the game.
 
@@ -76,7 +80,9 @@ He played an Astral Slide. Maher Plainscycled his Eternal Dragon, and then a Ste
 
 He played a second Silver Knight. Maher tapped seven to put up a big Dragon Wall. Harvey declined to attack. Maher made no play and passed it back to him. Harvey brought out his Exalted Angel. Maher cycled Decree of Justice and made four soldiers. Then he played his eighth land and sent Akroma, Angel of Wrath into the Red Zone. Harvey fell to fourteen. On his endstep, Harvey cycled a Forgotten Cave and made sure the legend would be out of play on his turn. That meant that he could play one of his own and bring the beats. The crowd gasped. Maher fell to twelve. His legend died as soon as it came back into play.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a909.jpg)Maher untapped and played Wipe Clean on the Astral Slide. That meant that his Vengeance would catch all of Harvey’s creatures. Maher was suddenly at a huge advantage. Harvey made a Silver Knight and gave it back to him. He had just two cards in hand. Maher regrew his Dragon and was done. Harvey swung into Wing Shards, and then replaced his Knight. Maher dropped Rift and Dragon.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a909.jpg)
+
+Maher untapped and played Wipe Clean on the Astral Slide. That meant that his Vengeance would catch all of Harvey’s creatures. Maher was suddenly at a huge advantage. Harvey made a Silver Knight and gave it back to him. He had just two cards in hand. Maher regrew his Dragon and was done. Harvey swung into Wing Shards, and then replaced his Knight. Maher dropped Rift and Dragon.
 
 “What could you possibly have? I’m pretty sure I can block here. Alright, I’ll take it, you got me.” – Bob Maher
 

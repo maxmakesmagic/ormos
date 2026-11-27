@@ -44,7 +44,9 @@ archive_source:
   sha256: 3e1f4c6da0deeb7c8964130c1ea26fd7853cd855398afa7954bd32c7d82f7f79
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpham02/907.jpg)With three rounds to go both of these German players are in very strong positions. Arndt Meier stands at 10-1 while his opponent Dennis Schmitz is on 9-1-1. Meier is running G/W while Schmitz is running a U/G deck focused around threshold.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpham02/907.jpg)
+
+With three rounds to go both of these German players are in very strong positions. Arndt Meier stands at 10-1 while his opponent Dennis Schmitz is on 9-1-1. Meier is running G/W while Schmitz is running a U/G deck focused around threshold.
 
 Both got a strong start with Mongrels and Rootwallas on turn two. Meier laid a plains and added an [Anurid Brushhopper](https://web.archive.org/web/20020929000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anurid+Brushhopper) while Schmitz summoned a [Werebear](https://web.archive.org/web/20020929000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear) that didn’t quite match, for the moment.
 
@@ -64,7 +66,9 @@ Schmitz got off to a flier game two with Rootwalla, and two successive [Wild Mon
 
 “What is that?” Schmitz said turning the card to read it.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpham02/906.jpg)He attacked anyway, happy to trade an excess Island in his hand to keep the damage going. His deck was running out of steam as he could only summon a [Wonder](https://web.archive.org/web/20020929000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wonder). Meanwhile Meier had found the fat flier portion of his deck as his own incarnation, [Glory](https://web.archive.org/web/20020929000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory), entered play.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpham02/906.jpg)
+
+He attacked anyway, happy to trade an excess Island in his hand to keep the damage going. His deck was running out of steam as he could only summon a [Wonder](https://web.archive.org/web/20020929000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wonder). Meanwhile Meier had found the fat flier portion of his deck as his own incarnation, [Glory](https://web.archive.org/web/20020929000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory), entered play.
 
 Schmitz still kept sending his Hounds into the red zone, trading two cards for [Glory](https://web.archive.org/web/20020929000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory) and bouncing [Commander Eesha](https://web.archive.org/web/20020929000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Commander+Eesha) with an [Aether Burst](https://web.archive.org/web/20020929000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst). Meier didn’t replay it dropping Mongrel instead with mana open to use [Glory](https://web.archive.org/web/20020929000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory).
 

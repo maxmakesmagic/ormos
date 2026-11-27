@@ -178,7 +178,9 @@ The *Betrayers of Kamigawa* previews have started, and the [prereleases](https:/
 
 ### Tourney Tech, Etc.
 
-![](https://i.ormos.uk/e8/5e/e85e9782f8ceea766155ab591ccbb3a0ab2b865190a8814ad948195583e30c3f.jpg)**Q**: I was recently at a tournament, and was told that gold-bordered [World Championship cards](https://web.archive.org/web/20050115000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/expansion/worldchampionshipdecks2004) could be played… I was just wondering if it was actually legal to use these as replacement cards to avoid damage to the real one, or if I was informed incorrectly? --Derek S.
+![](https://i.ormos.uk/e8/5e/e85e9782f8ceea766155ab591ccbb3a0ab2b865190a8814ad948195583e30c3f.jpg)
+
+**Q**: I was recently at a tournament, and was told that gold-bordered [World Championship cards](https://web.archive.org/web/20050115000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/expansion/worldchampionshipdecks2004) could be played… I was just wondering if it was actually legal to use these as replacement cards to avoid damage to the real one, or if I was informed incorrectly? --Derek S.
 
 **A**: The World Championship decks are not allowed in sanctioned play at any level. \[[DCI MtG Floor Rules 102](https://web.archive.org/web/20050115000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=dci/downloads/Magic_FLR_20dec04_EN.doc)\] It doesn't matter what type of sleeves the cards are in or whether you own other copies.
 

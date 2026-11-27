@@ -44,7 +44,9 @@ archive_source:
   sha256: bfb7152f6291e3ed6d70cd90449b38cfb35036d6e1dd9baead393ea900146950
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a914.jpg)Coming into the match, Barcelona top 8 finisher Brad Swan of Delaware and defending US Nationals runner up Brian Hegstad both had an eye on the possibility of entering the draft portion of the tournament with just one loss. Brad won the coin flip, the combatants wished one another luck and they were underway.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a914.jpg)
+
+Coming into the match, Barcelona top 8 finisher Brad Swan of Delaware and defending US Nationals runner up Brian Hegstad both had an eye on the possibility of entering the draft portion of the tournament with just one loss. Brad won the coin flip, the combatants wished one another luck and they were underway.
 
 ### Game 1
 
@@ -56,7 +58,9 @@ Still looking for his second land, Brad Looted unsuccessfully and ended his turn
 
 Brian's turn saw a fourth land enter play, and when Brad Looted at the end of turn, Brian asked for a pause in play to consider his options, finally telling Swan to untap, then casting Arrogant Wurm in the Easterner's upkeep. Swan let it resolve, drew, declared 'how lucky!' and played the fresh Island as the game began anew.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a915.jpg)Brian's turn saw the Mongrel and Wurm attack, taking Brad to eleven. Swan then tried to cast Arrogant Wurm at the end of the turn, but found that not only was it to be countered by Circular Logic, but also that Hegstad had another Wurm ready to come to the forefront. Swan then cast Wild Mongrel and Birds of Paradise, but it was too late, and a turn later, with yet another Wurm facing him down, Swan scooped.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a915.jpg)
+
+Brian's turn saw the Mongrel and Wurm attack, taking Brad to eleven. Swan then tried to cast Arrogant Wurm at the end of the turn, but found that not only was it to be countered by Circular Logic, but also that Hegstad had another Wurm ready to come to the forefront. Swan then cast Wild Mongrel and Birds of Paradise, but it was too late, and a turn later, with yet another Wurm facing him down, Swan scooped.
 
 Hegstad 1, Swan 0
 
@@ -72,7 +76,9 @@ Brian played Stupefying Touch, leaving the Looter to attack next turn as Arrogan
 
 Brian's next draw forces a smile from his face. After thinking for a moment, the smile broadened, with Brian saying 'that was a very good card to draw' before casting Unnatural Selection, as good a response he could find to Swan's newly cast Merfolk Looter. Brian's Looter became legendary, then the new Swan Looter did the same, dying. Brad knocked on his deck, then let out a yelp of joy, playing his own Selection, leaving him with three mana.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a916.jpg)At this point, both player started to realize just how complex a situation they were facing. With Selections facing off, there would be stacks upon stacks of creature name changes and more possible end scenarios than any one person could count, and both players sat stunned for the next seven minutes or so trying to figure out the best tactic to take. Finally, with Swan passing the turn, Hegstad drew, Looted, played a land and sprung into action with his superior mana reserves ensuring that he'd be able to 'out-legend' Brad. The two engaged in a length stack of fast effects, with brad's disappearing mana pool leaving his Merfolk Legendary an instant-speed-effect too late.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a916.jpg)
+
+At this point, both player started to realize just how complex a situation they were facing. With Selections facing off, there would be stacks upon stacks of creature name changes and more possible end scenarios than any one person could count, and both players sat stunned for the next seven minutes or so trying to figure out the best tactic to take. Finally, with Swan passing the turn, Hegstad drew, Looted, played a land and sprung into action with his superior mana reserves ensuring that he'd be able to 'out-legend' Brad. The two engaged in a length stack of fast effects, with brad's disappearing mana pool leaving his Merfolk Legendary an instant-speed-effect too late.
 
 From there, barring topdecks, it was all elementary. Brad could only muster an elf on his next turn, which could hardly be enough against Hegstad's active Looter. Brian piled up the counters in his hand, leading up to the successful resolution of Spellbane Centaur, which nullified Swan's Unnatural Selection once and for all. Brad tried to use it, at which point Brian pointed out the Centaur's effect, then countered Brian's counter when Fire targeted merfolk Looter and a Rootwalla, but he was too far behind. With no cards in Swan's hand and only a freshly cast Mongrel to go with the Bird and Elf, it was only a matter of time. Eventually, it was two Rootwallas and the elapsed clock, that did the Philadelphian in. 
 

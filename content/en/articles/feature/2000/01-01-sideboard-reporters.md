@@ -52,7 +52,9 @@ archive_source:
   sha256: 5b6335ddd4e26b0d4fa0f63d60397f0275a4c9e82c7518bd923cd241da0675c1
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/291.JPG)The following is a list of all the reporters in Paris contributing to this coverage. Their names link to their profiles.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/291.JPG)
+
+The following is a list of all the reporters in Paris contributing to this coverage. Their names link to their profiles.
 
 *   [Kim Eikefet](https://web.archive.org/web/20000101000000/http://archive.wizards.com/sideboard/eventarticle.asp?event=EURO00&name=860profwriters#eikefet) (Norway)
 *   [Collin Jackson](https://web.archive.org/web/20000101000000/http://archive.wizards.com/sideboard/eventarticle.asp?event=EURO00&name=860profwriters#jackson) (USA)

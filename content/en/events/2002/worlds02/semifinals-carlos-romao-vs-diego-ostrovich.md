@@ -89,7 +89,9 @@ render_recovery:
   - Psychotic Haze
   occurrences: 244
 ---
-![](https://i.ormos.uk/99/66/9966f02fb1886f392be42f22f875d8011dee39d9e6282735cd3ff30e60a6add3.jpg)Carlos Romao of Brazil and Argentinean National Champion Diego Ostrovich became the first Latin American Players to make Top 8 of a Pro Tour. They did so with equal parts teamwork and resolve. They collaborated with the rest of what has become the Latin Alliance, a group of pros from Venezuala, Chile, Argentina, Brazil and Uruguay. They tested endlessly for the three formats, and now their reward is that one must knock out the other on the way to the finals.
+![](https://i.ormos.uk/99/66/9966f02fb1886f392be42f22f875d8011dee39d9e6282735cd3ff30e60a6add3.jpg)
+
+Carlos Romao of Brazil and Argentinean National Champion Diego Ostrovich became the first Latin American Players to make Top 8 of a Pro Tour. They did so with equal parts teamwork and resolve. They collaborated with the rest of what has become the Latin Alliance, a group of pros from Venezuala, Chile, Argentina, Brazil and Uruguay. They tested endlessly for the three formats, and now their reward is that one must knock out the other on the way to the finals.
 
 Ostrovich and the rest of the Argentinean team came within a match win of the team finals, but were eliminated by Denmark. Ostrovich carries that drive into this match.
 
@@ -128,7 +130,9 @@ Ostrovich's board for game 2
 
 Ostrovich started Game 2 with Duress for Memory Lapse over Circular Logic and Upheaval. Romao built his mana base, and suffered another Duress two turns later. It stole the Logic and left behind Cunning Wish and Upheaval.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a546.jpg)Ostrovich kept his control up with Fact or Fiction. He got a Familiar and two islands over Cunning Wish and Circular Logic. The Familiar hit play, and Romao fetched Repulse with the Wish. He untapped and pulled Duress. It earned a Counterspell. He made no further play. He Repulsed the Familiar at the end of turn. Ostrovich played Fact or Fiction in response. 
+![](http://www.wizards.com/sideboard/images/worlds02/a546.jpg)
+
+Ostrovich kept his control up with Fact or Fiction. He got a Familiar and two islands over Cunning Wish and Circular Logic. The Familiar hit play, and Romao fetched Repulse with the Wish. He untapped and pulled Duress. It earned a Counterspell. He made no further play. He Repulsed the Familiar at the end of turn. Ostrovich played Fact or Fiction in response. 
 
 He got two Counterspells over Edict, Logic and Underground river. Repulse resolved. Romao found another Duress and a Nightscape Familiar. Duress was Counterspelled. The Familiar fell to an Edict. Ostrovich's got to stay. Then he Probed with kicker, removing Romao's hand of two cards. He also played Psychatog with two mana open.  
   
@@ -164,7 +168,9 @@ He untapped. He stared at his hand and tried Fact or Fiction. It turned over Cha
 
 The third Duress stole Upheaval and left Ostrovich with just Psychatog and land in hand. Another attack brought Carlos to four. Psychatog met Circular Logic. Romao untapped and made a Nightscape Familiar and Deep Analysis. OStrovich attacked and brought him two three life and one available mana. He ended his turn.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a545.jpg)Romao played Fact or Fiction. It scored him Coliseum and Familiar over two Analyses and an Endict. He untapped, played both, and swung with his active Familiar. Ostrovich fired back to put him at 1. Romao let it through. Chainer's Edict forced his Coliseum, but it just gave him what he needed. He played Upheaval, then Familiar and Psychatog to take the game.
+![](http://www.wizards.com/sideboard/images/worlds02/a545.jpg)
+
+Romao played Fact or Fiction. It scored him Coliseum and Familiar over two Analyses and an Endict. He untapped, played both, and swung with his active Familiar. Ostrovich fired back to put him at 1. Romao let it through. Chainer's Edict forced his Coliseum, but it just gave him what he needed. He played Upheaval, then Familiar and Psychatog to take the game.
 
 Ostrovich 2 - Romao 2
 

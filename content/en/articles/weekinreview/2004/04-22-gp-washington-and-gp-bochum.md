@@ -399,7 +399,9 @@ This is really a double play of the week and it happened in the same match. Nich
 
 In the first game he led off with Leonin Boa and followed it up with a turn two Lightning Greaves. I played out some creatures and kept attacking as Nicholas would do nothing but play land after land. He had six lands in play and still not a single creature! I attacked, bringing him down to five life, and used one of the two Consume Spirits I was holding to burn him down to three – ready to either attack for the win or burn him to death if I drew another land on the next turn. 
 
-![](https://i.ormos.uk/02/8e/028e2afbaf939f8eb9a0f1ef9687b36e8805957bbc91cb4b81c5eb0c0c0f6ced.jpg)On turn seven Neary tapped out and cast… Platinum Angel! He then equipped it with Lightning Greaves and proceeded to bash me for many turns. My mono-black deck had only one answer to an untargetable Angel – Barter In Blood – and I failed to draw it in time.
+![](https://i.ormos.uk/02/8e/028e2afbaf939f8eb9a0f1ef9687b36e8805957bbc91cb4b81c5eb0c0c0f6ced.jpg)
+
+On turn seven Neary tapped out and cast… Platinum Angel! He then equipped it with Lightning Greaves and proceeded to bash me for many turns. My mono-black deck had only one answer to an untargetable Angel – Barter In Blood – and I failed to draw it in time.
 
 Keeping a Greaves/Angel hand may have been somewhat risky, but it certainly made for a flashy win.
 

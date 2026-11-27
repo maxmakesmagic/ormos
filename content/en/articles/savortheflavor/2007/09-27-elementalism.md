@@ -147,13 +147,17 @@ This has some odd implications, to say the least. Elementals only exist insofar 
 
   
 
-![](https://i.ormos.uk/cb/23/cb23edbbaf653ab29b9ddfe6bbd32fc118ffaddefac206b688eed2f8564aac2c.jpg)Under normal circumstances, an elemental is as wild as a Montana mustang. They’re forces of nature; nothing tames the elementals just like nothing tames grains of gravel, or grief, or gravity. But of course, planeswalkers are a different story; with enough mana and effort, they can not only call on the *essences* of greater elementals, but also summon the elementals themselves, along with the power they bring. (That’s the vibe of the evoke keyword—check out the sidebar for more.) 
+![](https://i.ormos.uk/cb/23/cb23edbbaf653ab29b9ddfe6bbd32fc118ffaddefac206b688eed2f8564aac2c.jpg)
+
+Under normal circumstances, an elemental is as wild as a Montana mustang. They’re forces of nature; nothing tames the elementals just like nothing tames grains of gravel, or grief, or gravity. But of course, planeswalkers are a different story; with enough mana and effort, they can not only call on the *essences* of greater elementals, but also summon the elementals themselves, along with the power they bring. (That’s the vibe of the evoke keyword—check out the sidebar for more.) 
 
   
 
 ### Elementals as a Tribe
 
-![](https://i.ormos.uk/e9/d7/e9d7ff0a1580abc646608f67172f3f99cf418c8f4103fa76836ec6c32a6da46f.jpg)In addition to being nicely flavorful for a storybook world, the Elemental creature type served a practical function in the creative design of Lorwyn. The Creative Team knew that *Lorwyn* was going to be a thoroughly tribal set, that all of its creatures would fall into one of the "creature type matters" tribes. But most of the races conceived for the set—kithkin, elves, goblins, merfolk, faeries—were small, and most of them lacked flying. The Creative Team knew that design and development would likely create creatures—such as huge fatties, or flyers—that didn’t fit comfortably into any of those tribal boxes. A 5/5 blue ground creature, for example, would be too huge to be a Merfolk, and couldn’t be a Faerie due to its inability to fly. The Elemental type provided a way for *Lorwyn* to cover those creatures of unusual or hefty profile without violating the set’s tribal-matters theme. 
+![](https://i.ormos.uk/e9/d7/e9d7ff0a1580abc646608f67172f3f99cf418c8f4103fa76836ec6c32a6da46f.jpg)
+
+In addition to being nicely flavorful for a storybook world, the Elemental creature type served a practical function in the creative design of Lorwyn. The Creative Team knew that *Lorwyn* was going to be a thoroughly tribal set, that all of its creatures would fall into one of the "creature type matters" tribes. But most of the races conceived for the set—kithkin, elves, goblins, merfolk, faeries—were small, and most of them lacked flying. The Creative Team knew that design and development would likely create creatures—such as huge fatties, or flyers—that didn’t fit comfortably into any of those tribal boxes. A 5/5 blue ground creature, for example, would be too huge to be a Merfolk, and couldn’t be a Faerie due to its inability to fly. The Elemental type provided a way for *Lorwyn* to cover those creatures of unusual or hefty profile without violating the set’s tribal-matters theme. 
 
 As a bonus, doing this fleshed out a tribe that had very little tribal support in the past, one I was particularly fond of. *Lorwyn* is full of ways to make all kinds of Elemental tribal decks; they occur across all five colors and many shapes and sizes. The funky twist is that the Elemental tribe in *Lorwyn* also supports a humanoid race centered in red. 
 

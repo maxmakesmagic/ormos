@@ -130,7 +130,9 @@ render_recovery:
 
 ### Game One:
 
-![](https://www.wizards.com/sideboard/images/gpla02/942.jpg)Ken started off the festivities by cycling Choking Tethers, which led him to a not quite strong turn three play of Goblin Sledder. Meanwhile, Trevor simply played swamp after swamp. On the fourth turn, Blackwell faced down Ascending Aven and the goblin, but his nearly mono-black deck Swatted away the Sledder. 
+![](https://www.wizards.com/sideboard/images/gpla02/942.jpg)
+
+Ken started off the festivities by cycling Choking Tethers, which led him to a not quite strong turn three play of Goblin Sledder. Meanwhile, Trevor simply played swamp after swamp. On the fourth turn, Blackwell faced down Ascending Aven and the goblin, but his nearly mono-black deck Swatted away the Sledder. 
 
 Trevor’s deck contained a ton of removal, highlighted by Cruel Revival, Death Pulse, Crown of Suspicion, Feeding Frenzy, double Infest, and quadruple Swat (give or take the Solar Blast in his red). He faced immediate problems with popular internet writer Krouner dropped Charging Slateback, as his hand consisted of multiple Swat. He cycled one away, and used a third to kill a face-down Skittish Valesk.
 

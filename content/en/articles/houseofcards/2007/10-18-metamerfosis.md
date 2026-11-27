@@ -673,7 +673,9 @@ render_recovery:
 ---
 * * *
 
-![Lord of Atlantis](https://i.ormos.uk/6e/45/6e4507e2247b3aadd01670f1e3f8bd99c47f4b1a2974ab5bcb180582d9843d15.jpg)Until*Time Spiral*‘s temporal craziness changed everything, there had not been a new Merfolk card since *Apocalypse* (except, of course, for Mistform Ultimus). What's the deal with that? For that matter, what's the deal with airline food? While I'm at it, what's the deal with *Deal or No Deal*? Basically, there are a lot of deals that I'm questioning right now.
+![Lord of Atlantis](https://i.ormos.uk/6e/45/6e4507e2247b3aadd01670f1e3f8bd99c47f4b1a2974ab5bcb180582d9843d15.jpg)
+
+Until*Time Spiral*‘s temporal craziness changed everything, there had not been a new Merfolk card since *Apocalypse* (except, of course, for Mistform Ultimus). What's the deal with that? For that matter, what's the deal with airline food? While I'm at it, what's the deal with *Deal or No Deal*? Basically, there are a lot of deals that I'm questioning right now.
 
 Maybe they were on strike, fighting to raise their pay scale. Maybe they were finding themselves while backpacking through Europe (mostly Venice, I assume). Maybe they've spent the last few years recording their much-anticipated album, *Phyrexian Democracy*. I don't know and I don't particularly care what has prevented the likes of Gill McHalibut, Catfish Hunter, or even the Lord Cod Almighty from showing their finny faces. The important thing is they're back and they're better than... recently.
 
@@ -705,7 +707,9 @@ Ancient magicians are no doubt screaming out for *Fallen Empires*'s Vodalian War
 
 ### They Are Are Tokens
 
-![Merfolk Token Image](https://i.ormos.uk/fc/6f/fc6fdbc38a01544bc943601feb9f4085c24bb3eb0e101036cd82b57c5bd688cf.jpg)I've waited for this day for many years. Finally, we have Wizard tokens! Sure, you could make them yourself with Volrath's Laboratory, Riptide Laboratory, Soul Foundry, or some Artificially Evolved token-maker. Ignoring for a moment [my attempts](/en/articles/houseofcards/2006/11-01-the-man-behind-the-curtain) to start a Wizard Conspiracy with Endrek Sahr, Master Breeder, this method of producing Wizards has always seemed like a lot of work to me, and I'm unfathomably lazy. You would need Captain Nemo to plumb the depths of my laziness. That's why I love Summon the School so much. If you want a Wizard token, you just pay your four mana and get it over with. They even throw in a bonus Wizard for being such a loyal customer.
+![Merfolk Token Image](https://i.ormos.uk/fc/6f/fc6fdbc38a01544bc943601feb9f4085c24bb3eb0e101036cd82b57c5bd688cf.jpg)
+
+I've waited for this day for many years. Finally, we have Wizard tokens! Sure, you could make them yourself with Volrath's Laboratory, Riptide Laboratory, Soul Foundry, or some Artificially Evolved token-maker. Ignoring for a moment [my attempts](/en/articles/houseofcards/2006/11-01-the-man-behind-the-curtain) to start a Wizard Conspiracy with Endrek Sahr, Master Breeder, this method of producing Wizards has always seemed like a lot of work to me, and I'm unfathomably lazy. You would need Captain Nemo to plumb the depths of my laziness. That's why I love Summon the School so much. If you want a Wizard token, you just pay your four mana and get it over with. They even throw in a bonus Wizard for being such a loyal customer.
 
 Oh, yeah. They're Merfolk, too.
 

@@ -173,7 +173,9 @@ The second most popular deck was Psychatog - this time deservedly so. A difficul
 
 Blue-red-green made a comeback this weekend. Most of these decks were not Snaketongue variants. Rather, they heavily utilized the madness mechanic, splashing red for Flametongue Kavu, madness cards and Fire/Ice. Almost as successful were the straight blue-green decks that made their transition almost unchanged from the OBC decks seen at Pro Tour-Osaka. 
 
-![](https://i.ormos.uk/04/d7/04d72164c3fe7ac43dc3b5a578612b446f34892be4c724744ab9a27d16fb796d.jpg)Braids variants were in prominent, but did not perform quite as well as I thought. I know of great many people who finished within just one match win out of the Top 8 with Braids decks, but it qualified a lesser number of people for Nationals that I would have expected. A variety of other decks broke into the Top 8s of various regions, but they either succeeded in a single region (such as team TOGIT's black-blue-green deck in New York) or did not show up in sufficient numbers to warrant a second look (such as blue-red Wild Research decks). 
+![](https://i.ormos.uk/04/d7/04d72164c3fe7ac43dc3b5a578612b446f34892be4c724744ab9a27d16fb796d.jpg)
+
+Braids variants were in prominent, but did not perform quite as well as I thought. I know of great many people who finished within just one match win out of the Top 8 with Braids decks, but it qualified a lesser number of people for Nationals that I would have expected. A variety of other decks broke into the Top 8s of various regions, but they either succeeded in a single region (such as team TOGIT's black-blue-green deck in New York) or did not show up in sufficient numbers to warrant a second look (such as blue-red Wild Research decks). 
 
 Some of those who finished just out of Top 8 were rewarded for their performance when rating-based invitations were announced this week. It allowed a number of players who picked up the extra 20-30 points they needed at Regionals to qualify for the National championship.
 
@@ -181,7 +183,9 @@ Some of those who finished just out of Top 8 were rewarded for their performance
 
 Thomas Johansen is the new Norwegian National Champion, having defeated the internationally recognized Oyvind Odegaard in the finals. Outside of the National team but in the Top 8 were such players as Oyvind Harding, Nicolai Herzog, and "Go-Mar" creator Lovre Crnobori. 
 
-![](https://i.ormos.uk/d8/8f/d88f40ae484c8b378ef6e83cc6240953cce5a4bab379eaf97390063dcecb3ee3.jpg)While the winner used a very weird variant of a blue-red-green "Junta" deck, copied from the Online Championships, it was a blue-green variant with unorthodox maindeck cards such as Unsummon and Thought Devourer. Four Oslo players used this deck to place in the Top 8, while two more used a very similar deck, but splashed red for Flametongue Kavu. Although they gave up much in a way of mana consistency, this provided a considerable advantage in the mirror match. The deck is attributed to European champion Eivind Nitter. Of all the Oslo players, Nitter ironically had one of the worst records with the deck, unable to follow a very strong draft day finish with a good enough record to break into the Top 8. 
+![](https://i.ormos.uk/d8/8f/d88f40ae484c8b378ef6e83cc6240953cce5a4bab379eaf97390063dcecb3ee3.jpg)
+
+While the winner used a very weird variant of a blue-red-green "Junta" deck, copied from the Online Championships, it was a blue-green variant with unorthodox maindeck cards such as Unsummon and Thought Devourer. Four Oslo players used this deck to place in the Top 8, while two more used a very similar deck, but splashed red for Flametongue Kavu. Although they gave up much in a way of mana consistency, this provided a considerable advantage in the mirror match. The deck is attributed to European champion Eivind Nitter. Of all the Oslo players, Nitter ironically had one of the worst records with the deck, unable to follow a very strong draft day finish with a good enough record to break into the Top 8. 
 
 You can find the results and coverage of this tournament on head judge Rune Horvik's web site at [http://infinity.kirenet.com/~rhorvik/](http://infinity.kirenet.com/~rhorvik/). The coverage is in Norwegian, but the deck lists are in English.
 

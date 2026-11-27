@@ -52,7 +52,9 @@ archive_source:
   sha256: bb8bcc695de2f619f5e7ff07e4f5fe7f15a1b565e66533298ddd6465fb051c62
 render_recovery: []
 ---
-![](http://media.wizards.com/2015/events/wc08/tsf1_aus_bra.jpg)Willy Edel and Aaron Nicastri are both players whose early success helped to propel their countries into the *Magic* spotlight, and they met this weekend on the team Semifinals stage.
+![](http://media.wizards.com/2015/events/wc08/tsf1_aus_bra.jpg)
+
+Willy Edel and Aaron Nicastri are both players whose early success helped to propel their countries into the *Magic* spotlight, and they met this weekend on the team Semifinals stage.
 
 Between Paulo Vitor Damo da Rosa’s Top 8 on the individual side of Worlds and Brazil’s spot in the team Semifinals, it’s clear that Brazil is just as much a force on the *Magic* scene as it has been for the last few years. A win in the teams portion at Worlds for Willy Edel, Luiz Guilherme De Michielli, and Vagner Casatti would certainly cement that.
 
@@ -74,7 +76,9 @@ Standard – Lau (AUS) 1, Edel (BRA) 0
 
 **Extended – Vagner Casatti (BRA) vs. Aaron Nicastri (AUS)**
 
-![](http://media.wizards.com/2015/events/wc08/tsf1_bra.jpg)In the Extended matchup, Casatti opened on a Raven’s Crime, which is normally his best Game 1 tool against Nicastri’s Blue-Black Urzatron deck. Unfortunately for the Brazilians, Nicastri drew and played his singleton [Crucible of Worlds](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crucible+of+Worlds) on turn three. Not only is [Crucible of World](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crucible+of+World)s an excellent card against Casatti’s Death Clouddeck, it’s also a nearly perfect answer to Raven’s Crime.
+![](http://media.wizards.com/2015/events/wc08/tsf1_bra.jpg)
+
+In the Extended matchup, Casatti opened on a Raven’s Crime, which is normally his best Game 1 tool against Nicastri’s Blue-Black Urzatron deck. Unfortunately for the Brazilians, Nicastri drew and played his singleton [Crucible of Worlds](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crucible+of+Worlds) on turn three. Not only is [Crucible of World](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crucible+of+World)s an excellent card against Casatti’s Death Clouddeck, it’s also a nearly perfect answer to Raven’s Crime.
 
 Casatti still had a trick up his sleeve. On Casatti’s third turn he retraced his Raven’s Crime and played a Life From the Loam to get back three lands. Nicastri simply played a land and passed.
 
@@ -92,7 +96,9 @@ Standard – Lau (AUS) 2, Edel (BRA) 0
 
 Australia 1, Brazil 0
 
-![](http://media.wizards.com/2015/events/wc08/tsf1_aus.jpg)In Extended, Casatti had a fairly quick, disruptive draw with aKitchen Finks, a Ravenous Balothand a Choke. Nicastri wasn’t able to get anything going fast enough, and when he tried a last-ditch, main phase, [Gifts Ungiven](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gifts+Ungiven) he gave Casatti the opportunity to resolve a lethal Death Cloud, sending them into Game 3.
+![](http://media.wizards.com/2015/events/wc08/tsf1_aus.jpg)
+
+In Extended, Casatti had a fairly quick, disruptive draw with aKitchen Finks, a Ravenous Balothand a Choke. Nicastri wasn’t able to get anything going fast enough, and when he tried a last-ditch, main phase, [Gifts Ungiven](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gifts+Ungiven) he gave Casatti the opportunity to resolve a lethal Death Cloud, sending them into Game 3.
 
 Extended – Casatti (BRA) 1, Nicastri (AUS) 1
 
@@ -110,7 +116,9 @@ Meanwhile, in the Legacy match, Cheung played a [Tarmogoyf](https://web.archive.
 
 Cheung attacked with [Tarmogoyf](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) and passed the turn without playing a land. De Michielli played aCountryside Crusher that was looking awfully threatening against Cheung’s board of [Wasteland](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wasteland) andTarmogoyf.
 
-![](http://media.wizards.com/2015/events/wc08/tsf1_nicastri.jpg)For a moment, things were looking somewhat grim for the Australians, but their luck turned when Cheung drew an [Underground Sea](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Underground+Sea) that turned on his hand full of Snuff Outs and Diabolic Edicts.
+![](http://media.wizards.com/2015/events/wc08/tsf1_nicastri.jpg)
+
+For a moment, things were looking somewhat grim for the Australians, but their luck turned when Cheung drew an [Underground Sea](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Underground+Sea) that turned on his hand full of Snuff Outs and Diabolic Edicts.
 
 A few turns and a few attacks from [Tarmogoyf](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) later and the Australians were on their way to face the United States in the team Finals.
 

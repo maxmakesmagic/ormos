@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/402.jpg)A match-up akin to England versus the US, this match-up pits a country that once ruled another. This match-up would settle, at least for this year, who rules who.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/402.jpg)
+
+A match-up akin to England versus the US, this match-up pits a country that once ruled another. This match-up would settle, at least for this year, who rules who.
 
 Team Canada is made up of Pro Tour veterans Ryan Fuller and Gab Tsang who have split the blue cards up, with Fuller having a Rebel deck that splashes Blue and Tsang a heavier Blue deck splashing Black. The other members of Team Canada are teen sensation, Murray Evans, sporting a Green/Black fatty deck and Sam Lau who has Red/Black. It's interesting to see Canada split the Black cards three ways, but they did it because it wasn't deep enough on its own and filled holes in their decks (Sam has Snuff Outs, Gab has Cackling Witches and Murray has some Mercs).
 

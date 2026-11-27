@@ -44,7 +44,9 @@ archive_source:
   sha256: 5062fe9227f7e34e514db94b12a340101fccb33bcbbcfabe7807d59f966ab85a
 render_recovery: []
 ---
-[![](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg)](https://web.archive.org/web/20050617000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent/hof/welcome)A breakdown of the 47 candidates for induction in the 2006 **Magic** Pro Tour Hall of Fame.
+[![](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg)](https://web.archive.org/web/20050617000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent/hof/welcome)
+
+A breakdown of the 47 candidates for induction in the 2006 **Magic** Pro Tour Hall of Fame.
 
 **Key**  
 **Top 8 Avg:** Pro Tour Top 8s divided by Pro Tours attended  

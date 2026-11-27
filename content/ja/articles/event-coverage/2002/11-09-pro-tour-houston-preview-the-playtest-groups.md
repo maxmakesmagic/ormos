@@ -86,7 +86,9 @@ John Larkinは構築のスペシャリストとして知られる人物ですし
 
 ### Punisher
 
-![](https://www.wizards.com/sideboard/images/PTOSA02/856.jpg)　Jens Thoren, Anton Jonsson, Tomi Walamies, Johan Sadeghpour, Mattias Kettil, Mattias Jorstedt。こちらも現在の構築戦線では素晴らしい戦果を挙げているグループですね。
+![](https://www.wizards.com/sideboard/images/PTOSA02/856.jpg)
+
+　Jens Thoren, Anton Jonsson, Tomi Walamies, Johan Sadeghpour, Mattias Kettil, Mattias Jorstedt。こちらも現在の構築戦線では素晴らしい戦果を挙げているグループですね。
 
 ちょうど一年前、Tomiはエレファント・コントロールデッキによって大成功をおさめ、決勝戦ではあのKaiをあと一歩というところまでたしかに追い詰めています。また、彼らはOBCフォーマットに関する「黒か緑のどちらかを含まないデッキは通用しない」という批評をピシャリと黙らせた（註：世界選手権で![White Mana](https://i.ormos.uk/55/78/55785924f8cda9ab2a85364f807ba172c7530e43d94b14aad222ec4bbf2589ca.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)の”Punisher White”デッキを披露している）ことでも記憶に新たしいでしょう。
 
@@ -102,7 +104,9 @@ John Larkinは構築のスペシャリストとして知られる人物ですし
 
 ### TOGIT, CMU
 
-![](https://www.wizards.com/sideboard/images/STC01/976.jpg)　Osyp Lebedowicz, Mike Turian, Brian Davis, Eugene Harvey, Gerrard Fabiano, Antonino Derosa, Ben Stark, Peter Szigeti, Ken Krouner, Ed Fear, Adam Fischer, Craig Kremples, Adam Horvath, Patrick Sullivan, Franck Canu, Christophe Haim, Tom Martel, Andrew Cuneo, Carlos Chada, Jeff Magid, Jon Sonne, Andy Stokinger, Chris Leather, Brett Shears。 もうちょっといるのかもしれませんが、私は把握していません。このグループは大所帯がすぎて身動きがとりにくそうに見えるかもしれませんが、居並ぶ面々はそうそうたるものです。
+![](https://www.wizards.com/sideboard/images/STC01/976.jpg)
+
+　Osyp Lebedowicz, Mike Turian, Brian Davis, Eugene Harvey, Gerrard Fabiano, Antonino Derosa, Ben Stark, Peter Szigeti, Ken Krouner, Ed Fear, Adam Fischer, Craig Kremples, Adam Horvath, Patrick Sullivan, Franck Canu, Christophe Haim, Tom Martel, Andrew Cuneo, Carlos Chada, Jeff Magid, Jon Sonne, Andy Stokinger, Chris Leather, Brett Shears。 もうちょっといるのかもしれませんが、私は把握していません。このグループは大所帯がすぎて身動きがとりにくそうに見えるかもしれませんが、居並ぶ面々はそうそうたるものです。
 
 今季の開幕にあたって、TOGITとCMUはWorldsとNationalsで共闘しようという合意を結びました。事実、我々は協力しあうことによって一定の成功をおさめてきたからです。もっとも、ひたすらメンバーを増やす一方では集団としてのまとまりにかけてしまうことになる恐れもあるわけで、われわれは分割して作業にあたりました。TOGITはTOGITで、我々は我々のやりかたで。 
 
@@ -114,7 +118,9 @@ John Larkinは構築のスペシャリストとして知られる人物ですし
 
 ### The Usual Suspects
 
-![](https://www.wizards.com/sideboard/images/MASTERSBAR01/543.jpg)　Brian Kibler, Ben Rubin, Baby Huey（William Jensen）, Matt Linde, Zack Parker, Brock Parker, Eric Froelich。いうなれば、かつてのMini-Colonyの生き残りです。Huey、Brock、Lindeといったメンバーを勘定しないなら、もはや存続していないも同然のチームかもしれません。
+![](https://www.wizards.com/sideboard/images/MASTERSBAR01/543.jpg)
+
+　Brian Kibler, Ben Rubin, Baby Huey（William Jensen）, Matt Linde, Zack Parker, Brock Parker, Eric Froelich。いうなれば、かつてのMini-Colonyの生き残りです。Huey、Brock、Lindeといったメンバーを勘定しないなら、もはや存続していないも同然のチームかもしれません。
 
 KiblerとRubinは昨シーズン来ずっとプレイテストをともにしてきた仲であるわけですが、ここにきてRubinはオンラインでマジックをプレイすることが難しくなってしまいました。それゆえ、かつてほどの密度でプレイテストを行うことは出来ていないようです。
 
@@ -124,7 +130,9 @@ Hueyの話では、彼らのプレイテストはだいぶ進んでいるよう�
 
   
 
-![](https://www.wizards.com/sideboard/images/Worlds2001/713.jpg)　Noah Boeken, Jelger Wiegersma, Kamiel Cornelissen, Victor van den Broek, Frank Karsten。
+![](https://www.wizards.com/sideboard/images/Worlds2001/713.jpg)
+
+　Noah Boeken, Jelger Wiegersma, Kamiel Cornelissen, Victor van den Broek, Frank Karsten。
 
 たしかに彼らは素晴らしいプレイヤーばかりなのですが、このグループに関しては･･･世界選手権で可能な限りのデッキ情報を聞き出し、もしくは借りだし、それどころか盗み出そうとしているところを目撃されています。証言によれば、Jelger Weigersma が「e-mailをチェックさせてもらう」という名目でAlex Bortehのラップトップ・コンピューターを借りだし、隙をみて彼のハードディスク内を”.dec”という項目でサーチしたとかしないとか。まあ、強豪プレイヤーにまつわる強烈なエピソード、というのはどんなフォーマットにも必ずあるものなのです。
 
@@ -134,7 +142,9 @@ Hueyの話では、彼らのプレイテストはだいぶ進んでいるよう�
 
   
 
-![](https://www.wizards.com/sideboard/images/ptnor01/a897.jpg)　中村聡、岡本尋、石田格、森勝洋、藤田剛史。彼らは世界最高水準のプレイスキルを持つプレイヤーではないものの、常にゲームのテクノロジーという意味では一歩先を行く存在です。
+![](https://www.wizards.com/sideboard/images/ptnor01/a897.jpg)
+
+　中村聡、岡本尋、石田格、森勝洋、藤田剛史。彼らは世界最高水準のプレイスキルを持つプレイヤーではないものの、常にゲームのテクノロジーという意味では一歩先を行く存在です。
 
 OBCのグランプリ・シーズン終盤を彩った二つのデッキタイプを思い出してみてください。そう、「Upheaval-Infestation」と「Pirates」です。日本勢は世界選手権の段階でそれらのデッキへと到達しています。また、Kai Buddeが昨年のニューオリンズでプレイしていた「Trix」デッキにしても同じことで、日本人はこれを一年も前からプレイしています。もっとも、それは《ネクロポーテンス/Necropotence》と《魔力の柩/Mana Vault》が使用できた時代のことですが。
 
@@ -144,7 +154,9 @@ OBCのグランプリ・シーズン終盤を彩った二つのデッキタイ�
 
   
 
-![](https://www.wizards.com/sideboard/images/GPMOS01/944.jpg)Bob Maher, Neil Reeves, Dave Williams。
+![](https://www.wizards.com/sideboard/images/GPMOS01/944.jpg)
+
+Bob Maher, Neil Reeves, Dave Williams。
 
 この集団に対する最終的な評価はまだくだせませんが、少なくとも彼らが共闘していることだけは事実です。彼らはほかのトッププレイヤーたちがそうしたように、仲の良い友人同士で組んでプレイテストにあたっています。ともかく私最初に言うべきことは、彼らはリミテッドにおけるスペシャリストであるということです。
 
@@ -152,7 +164,9 @@ OBCのグランプリ・シーズン終盤を彩った二つのデッキタイ�
 
   
 
-![](https://www.wizards.com/sideboard/images/ptnor01/a740.jpg)　Chris Pikula, Dave Price, Tony Tsai, Jon Finkel, Steve OMS。ほかにもNeutral Groundを根城とするプレイヤーが何名か合流しているそうですが、彼らの名前までは把握できておりません。
+![](https://www.wizards.com/sideboard/images/ptnor01/a740.jpg)
+
+　Chris Pikula, Dave Price, Tony Tsai, Jon Finkel, Steve OMS。ほかにもNeutral Groundを根城とするプレイヤーが何名か合流しているそうですが、彼らの名前までは把握できておりません。
 
 彼らはその全盛期ほどの脅威ではないと一般に考えられているようですが、私個人はそこまで彼らを侮ってはならないだろうと考えています。なぜなら、私の世界選手権における戦いを振り返ったとき、やはり誰が何と言おうともDave Priceこそがもっとも強力な対戦相手だったからです。
 
@@ -172,7 +186,9 @@ OBCのグランプリ・シーズン終盤を彩った二つのデッキタイ�
 
   
 
-![](https://www.wizards.com/sideboard/WORLDS2000/images/126.jpg)　David Rood, Elijah Pollack, Gab Tsang, Jason Howden, Jon Stern。彼らもまたリミテッド・フォーマットにおける腕前で知られる強豪プレイヤーということになるでしょうか。
+![](https://www.wizards.com/sideboard/WORLDS2000/images/126.jpg)
+
+　David Rood, Elijah Pollack, Gab Tsang, Jason Howden, Jon Stern。彼らもまたリミテッド・フォーマットにおける腕前で知られる強豪プレイヤーということになるでしょうか。
 
 特に、Gab Tsangには注目が集まるところでしょう。はたして、北米グランプリ2大会で残している戦績はフロックなのか、それとも、この黒装束の男の本来あるべき姿なのでしょうか？　また、Bostonで準優勝という素晴らしい戦果をあげたチーム2020のメンバーがシングルプレイヤーとしてどれほどのものなのか、ということにも着目したいところですね。
 
@@ -180,7 +196,9 @@ OBCのグランプリ・シーズン終盤を彩った二つのデッキタイ�
 
   
 
-![](https://www.wizards.com/sideboard/images/Worlds2001/719.jpg)　Gabriel Nassif, Raphael Levy, Pierre Malherbaud, Amiel Tannenbaum, Olivier Ruel, Antoine Ruel。
+![](https://www.wizards.com/sideboard/images/Worlds2001/719.jpg)
+
+　Gabriel Nassif, Raphael Levy, Pierre Malherbaud, Amiel Tannenbaum, Olivier Ruel, Antoine Ruel。
 
 ChristopheとFranckが北米勢に取り込まれてしまった状況でも、やはりフランスには素晴らしいタレントが数多く残っています。フランス産のデッキはどちらかというと風変わりなデザインが多いわけですが、それでも素晴らしい結果を出し続けているという事実があります。
 

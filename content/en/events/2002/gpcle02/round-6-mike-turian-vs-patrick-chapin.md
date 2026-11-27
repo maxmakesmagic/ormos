@@ -82,7 +82,9 @@ render_recovery:
   - Ambassador Laquatus
   occurrences: 36
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a962.jpg)Pat Chapin has been touting the virtues of his four-color Mirari's Wake deck since this tournament began, and he has left himself with little breathing room after losing in round 4. His opponent this round is his former teammate, Mike Turian. Turian also has one loss with his Battle Screech deck, which "splashes" two Cabal Therapies as some tasty targets for Quiet Speculation.
+![](http://www.wizards.com/sideboard/images/gpcle02/a962.jpg)
+
+Pat Chapin has been touting the virtues of his four-color Mirari's Wake deck since this tournament began, and he has left himself with little breathing room after losing in round 4. His opponent this round is his former teammate, Mike Turian. Turian also has one loss with his Battle Screech deck, which "splashes" two Cabal Therapies as some tasty targets for Quiet Speculation.
 
 As they shuffled, Chapin tried to deduce what deck Turian was playing. "You're not playing Upheaval-Infestation, are you?"  
  "I wish," said Turian. "I'd smash you."
@@ -97,7 +99,9 @@ His new hand gave him a turn-2 Patrol Hound and a turn-3 Divine Sacrament, then 
 
 Turian attacked for three with his Hound, the sacrificed to the Therapy and named Mirari's Wake. Chapin's hand contained no such card, just a Moment's Peace, two Deep Analysis, and a land.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a958.jpg)Turian cast Breakthrough for two, discarding two Prismatic Strands, a Glory, and another Therapy, then cast and flashed back two Screeches to fill his side of the table. Chapin, meanwhile, had drawn two more Moment's Peace and was using them to buy himself a nice amount of time. Eventually he found the elusive Wake, fogged again, then uptapped and cast Burning Wish for Kirtar's Wrath. The sorcery killed all of Turian's army, and gave Chapin two 4/4 flying Spirits (their size owed to the Wake and Turian's thresholded Sacrament.) With Chapin's hand full, Turian conceded.
+![](http://www.wizards.com/sideboard/images/gpcle02/a958.jpg)
+
+Turian cast Breakthrough for two, discarding two Prismatic Strands, a Glory, and another Therapy, then cast and flashed back two Screeches to fill his side of the table. Chapin, meanwhile, had drawn two more Moment's Peace and was using them to buy himself a nice amount of time. Eventually he found the elusive Wake, fogged again, then uptapped and cast Burning Wish for Kirtar's Wrath. The sorcery killed all of Turian's army, and gave Chapin two 4/4 flying Spirits (their size owed to the Wake and Turian's thresholded Sacrament.) With Chapin's hand full, Turian conceded.
 
 Chapin 1 – Turian 2
 
@@ -105,7 +109,9 @@ Turian started in with the weenies again in game 2: Tireless Tribe, Beloved Chap
 
 Chapin hadn't cast a single spell until turn five, when he used a Moment's Peace to protect his life total. Turian used his second Therapy to steal Chapin's Kirtar's Wrath, but was dismayed to find another Moment's Peace in Chapin's hand.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a959.jpg)Pat didn't do much other than fog over the next few turns, but he managed to stay alive until he could Speculate for two MORE Moment's Peace and a Deep Analysis. The fog was thick, and Turian's creatures couldn't see well enough to ever damage Chapin.
+![](http://www.wizards.com/sideboard/images/gpcle02/a959.jpg)
+
+Pat didn't do much other than fog over the next few turns, but he managed to stay alive until he could Speculate for two MORE Moment's Peace and a Deep Analysis. The fog was thick, and Turian's creatures couldn't see well enough to ever damage Chapin.
 
 Chapin fogged again, and Speculated all the Deep Analysis out of his library, just to get threshold for his Far Wanderings. He fogged again, and cast another thresholded Wanderings, going up to 15 lands, He then cast a Flash of Insight out of his graveyard for three. He found his bomb: Time Stretch,
 

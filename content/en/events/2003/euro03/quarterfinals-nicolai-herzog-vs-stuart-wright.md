@@ -372,7 +372,9 @@ render_recovery:
 ---
 Quarterfinals are here and England has someone in the top 8 of a European Championships for the first time since Milan in 2001. That time John Ormerod fell to the eventual winner Eivind Nitter. This year the English hope is young up-and-coming player Stuart Wright. Standing in his way is another Norwegian, the highly experienced Nicolai Herzog. Herzog is a former Champion from back in 1999 and also made the finals of Pro Tour Chicago last year, falling to Kai Budde in the final.
 
-![](http://www.wizards.com/sideboard/images/euro03/a900.jpg)The Englishman's task will be a difficult one as the creatures in Herzog's blue-green deck are much bigger and just as fast. Wright's best hope will be to hide behind Ensnaring Bridge after boarding and try and pick his opponent off with burn. Herzog will be counteracting this by bringing in ravenous Baloth to buy him time to clear the artifacts off the board with a big Upheaval.
+![](http://www.wizards.com/sideboard/images/euro03/a900.jpg)
+
+The Englishman's task will be a difficult one as the creatures in Herzog's blue-green deck are much bigger and just as fast. Wright's best hope will be to hide behind Ensnaring Bridge after boarding and try and pick his opponent off with burn. Herzog will be counteracting this by bringing in ravenous Baloth to buy him time to clear the artifacts off the board with a big Upheaval.
 
 ### Game 1
 
@@ -450,7 +452,9 @@ Herzog needed a land. He found one, summoned an Aquamoeba and sent the Mongrel b
 
 Wright recovered from the setback with a Call of the Herd, but it started to look bad as Herzog drew his 4th land and brought a 6/6 Wurm token into play. Wright was stuck on 3 land again and brought the Mongrel back into play.
 
-![](http://www.wizards.com/sideboard/images/euro03/a963.jpg)Herzog cast Quiet Speculation and loaded up the graveyard with two more Roar of the Wurms and cast a second Aquamoeba. An Ensnaring Bridge neutralized the Wurm's but Wright as again stuck with a glut of cards in hand. A pitched Wonder sent both Aquamoeba's flying over the top but it was the last attack they made as Wright sent an Eruption to Herzog's head and pitched his remaining cards to the mongrel to hold even the 1 power Aquamoeba's away.
+![](http://www.wizards.com/sideboard/images/euro03/a963.jpg)
+
+Herzog cast Quiet Speculation and loaded up the graveyard with two more Roar of the Wurms and cast a second Aquamoeba. An Ensnaring Bridge neutralized the Wurm's but Wright as again stuck with a glut of cards in hand. A pitched Wonder sent both Aquamoeba's flying over the top but it was the last attack they made as Wright sent an Eruption to Herzog's head and pitched his remaining cards to the mongrel to hold even the 1 power Aquamoeba's away.
 
 The life totals stood at 7 for Herzog to 15 for Wright. The game had slotted into the expected pattern. Wright had shut out Herzog's attack with the Bridge, but a Baloth and two Aquamoeba's on the Norwegian's side gave him a nice reservoir of life to withstand Wright's direct damage.
 

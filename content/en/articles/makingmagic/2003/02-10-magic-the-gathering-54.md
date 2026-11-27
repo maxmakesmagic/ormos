@@ -61,7 +61,9 @@ archive_source:
   sha256: 7eb7110aee12bc3009db4da5b81270ca8dc92d111522defbfa1584a58e829aa6
 render_recovery: []
 ---
-![Public email](https://i.ormos.uk/fe/d1/fed1dd5a1bcff8f62c4dcb238c7a4c18efaec083aae6d319ea92845469ef8cb1.jpg)You have a hundred new messages.
+![Public email](https://i.ormos.uk/fe/d1/fed1dd5a1bcff8f62c4dcb238c7a4c18efaec083aae6d319ea92845469ef8cb1.jpg)
+
+You have a hundred new messages.
 
 **[Read the first message.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=18)  
 [Read the second message.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=19)  

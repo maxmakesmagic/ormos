@@ -564,7 +564,9 @@ render_recovery:
 ---
 ### 
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a953.jpg)　Masters 優勝メンバーにして、初日全勝。ここ最近神がかり的な強さを発揮している黒田。1st Pod の彼に注目してみてみたい。
+![](http://www.wizards.com/sideboard/images/gpkyo03/a953.jpg)
+
+　Masters 優勝メンバーにして、初日全勝。ここ最近神がかり的な強さを発揮している黒田。1st Pod の彼に注目してみてみたい。
 
 　ちなみに右の写真は初日全勝の黒田と浅原だが、二人の口元をちらっと見て欲しい。  
  二人が咥えている爪楊枝は、PT Venice で日本人を殺しまくった Jordan Berkowitz にあやかったものらしい。咥えた二人だけが全勝しているのだから、このおまじない、相当の神通力があったようだ。

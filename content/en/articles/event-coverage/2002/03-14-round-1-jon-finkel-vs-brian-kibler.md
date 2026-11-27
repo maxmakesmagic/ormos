@@ -44,7 +44,9 @@ archive_source:
   sha256: 422c89a429f5dd99834c0c3e6a0c76162bdc49cb3a48298ce2ea05bb14dcd3a0
 render_recovery: []
 ---
-![](https://i.ormos.uk/9c/5b/9c5b5f64e844622cc66a2cb13eafca7b3d61a701e53d8dcf145892a56ec539a8.jpg)Brian Kibler has a reputation as a bit of a deckbuilder, so its no surprise that he has something special for Osaka. Flashing the contents of his deck during shuffling, he showed Shower of Coals, Haunting Echoes AND Aboshan, Cephalid Emperor. Apparently shaky mana is a small price to pay for stockpiling bombs. Across from him was no less a celebrity than Jon "Jonny Magic" Finkel himself. Finkel's distaste for heavy preparation was shown in his rather pedestrian deck choice: Mono-green beatdown.
+![](https://i.ormos.uk/9c/5b/9c5b5f64e844622cc66a2cb13eafca7b3d61a701e53d8dcf145892a56ec539a8.jpg)
+
+Brian Kibler has a reputation as a bit of a deckbuilder, so its no surprise that he has something special for Osaka. Flashing the contents of his deck during shuffling, he showed Shower of Coals, Haunting Echoes AND Aboshan, Cephalid Emperor. Apparently shaky mana is a small price to pay for stockpiling bombs. Across from him was no less a celebrity than Jon "Jonny Magic" Finkel himself. Finkel's distaste for heavy preparation was shown in his rather pedestrian deck choice: Mono-green beatdown.
 
 Finkel opened with Basking Rootwalla and Wild Mongrel. Kibler slowed the assault with Aether Burst, but by his fourth turn still had not committed anything to the board. Finkel made a second Mongrel. Kibler showed him Violent Eruption in a bid to kill Mongrel and Rootwalla, but Finkel pitched Squirrel Mob and Roar of the Wurm.
 

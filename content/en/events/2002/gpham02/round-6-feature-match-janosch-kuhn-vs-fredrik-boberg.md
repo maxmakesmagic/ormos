@@ -78,7 +78,9 @@ render_recovery:
   - Gravedigger
   occurrences: 37
 ---
-![](http://www.wizards.com/%20/sideboard/images/gpham02/950.jpg)Janosch Kühn is one of many solid German players. He has two World Championship top 8’s to his credit, one in 1997 the other in 2000. His opponent Fredrick Boberg has travelled down from Sweden and is already qualified for PT Houston. Both are on four wins and a draw.
+![](http://www.wizards.com/%20/sideboard/images/gpham02/950.jpg)
+
+Janosch Kühn is one of many solid German players. He has two World Championship top 8’s to his credit, one in 1997 the other in 2000. His opponent Fredrick Boberg has travelled down from Sweden and is already qualified for PT Houston. Both are on four wins and a draw.
 
 Kühn is playing a black-blue Braids deck while Boberg is running a Mirari’s Wake deck with Living Wish.
 
@@ -90,7 +92,9 @@ A Rancid Earth provided the nail in the coffin.
 
 Kühn 1-0 Boberg
 
-![](http://www.wizards.com/sideboard/images/gpham02/951.jpg)Boberg started game two with two Krosan Verge while Kühn came roaring out of the gates with a Nantuko Shade and Rancid Earth, although a Verge soon wiped out that deficit. The next turn Kühn attacked for three with the Shade and then sat on his remaining land to Syncopate any possible Wake.
+![](http://www.wizards.com/sideboard/images/gpham02/951.jpg)
+
+Boberg started game two with two Krosan Verge while Kühn came roaring out of the gates with a Nantuko Shade and Rancid Earth, although a Verge soon wiped out that deficit. The next turn Kühn attacked for three with the Shade and then sat on his remaining land to Syncopate any possible Wake.
 
 Boberg didn’t fall for it and so next turn Kühn attacked for four and summoned an Infiltrator. Boberg didn’t have it as he passed the next turn as well. A Fiend revealed he wasn’t holding much: a couple of Aether Bursts, Moment's Peace, Syncopate and Crush of Wurms. Boberg used the Peace in response and flashed it back again the next turn.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 5d364f8a811ad31e055dc426c8cde2f94ef7c5992f2a5856dd3352e390a5d2d0
 render_recovery: []
 ---
-![](https://i.ormos.uk/cb/c4/cbc48e4e3b2ef41c2fc81088fee3ed51512422be028efadc2e027cc1c2fc8585.jpg)Dave Williams comes into this game with some disadvantages. Firstly his deck is awful. Secondly Nassif knows what's in it as Williams had asked him for some advice on tuning it during their wait for their bye rounds to finish. Unfortunately Williams doesn't have any idea what's in Nassif's deck.
+![](https://i.ormos.uk/cb/c4/cbc48e4e3b2ef41c2fc81088fee3ed51512422be028efadc2e027cc1c2fc8585.jpg)
+
+Dave Williams comes into this game with some disadvantages. Firstly his deck is awful. Secondly Nassif knows what's in it as Williams had asked him for some advice on tuning it during their wait for their bye rounds to finish. Unfortunately Williams doesn't have any idea what's in Nassif's deck.
 
 Dave Williams is one of a few Americans to make the journey over. Unfortunately the Sealed deck gods haven't been kind as he's been forced to play a bad green, blue, red concoction. In contrast Nassif has what looks like a draft quality black-red deck with [Rotlung Reanimator](https://web.archive.org/web/20030412000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rotlung+Reanimator) and a bunch of clerics. This is not going to be easy for Williams.
 
@@ -62,7 +64,9 @@ Nassif 1-0 Williams
 
 ### Game 2
 
-![](https://i.ormos.uk/dc/04/dc049ceb0e864a26e2b8245d9c167258d30dfd76cec1dc47e2e31960b54f337e.jpg)Things didn't improve much for Williams as he needed to mulligan game 2. It looked better when Nassif passed turn 3 without putting a creature on the table. The reasoning became clearer when Nassif took out William's morphed [Weaver of Lies](https://web.archive.org/web/20030412000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Weaver+of+Lies) with a [Chain of Plasma](https://web.archive.org/web/20030412000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chain+of+Plasma). Williams didn't bounce it back and the [Vile Deacon](https://web.archive.org/web/20030412000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vile+Deacon) appeared again for Nassif.
+![](https://i.ormos.uk/dc/04/dc049ceb0e864a26e2b8245d9c167258d30dfd76cec1dc47e2e31960b54f337e.jpg)
+
+Things didn't improve much for Williams as he needed to mulligan game 2. It looked better when Nassif passed turn 3 without putting a creature on the table. The reasoning became clearer when Nassif took out William's morphed [Weaver of Lies](https://web.archive.org/web/20030412000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Weaver+of+Lies) with a [Chain of Plasma](https://web.archive.org/web/20030412000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chain+of+Plasma). Williams didn't bounce it back and the [Vile Deacon](https://web.archive.org/web/20030412000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vile+Deacon) appeared again for Nassif.
 
 Williams brought out a [Berserk Murlodont](https://web.archive.org/web/20030412000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Berserk+Murlodont) and looked unhappy as he dropped a sixth land on the table and passed the turn. Currently he had 5 forests and 1 island. Nassif unmorphed a [Shaleskin Plower](https://web.archive.org/web/20030412000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shaleskin+Plower) to increase William's misery. The American was forced to cycle a Tusker to find a replacement rather than cast a potential blocker.
 

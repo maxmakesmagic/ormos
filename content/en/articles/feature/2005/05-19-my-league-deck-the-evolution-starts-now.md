@@ -70,7 +70,9 @@ render_recovery:
 ---
 ### League Play: Bang for Your Buck
 
-![](https://i.ormos.uk/c8/aa/c8aa601cf6e56dc3a376f15112cfe945445409a6f87e264de0f1dc8381ed162f.jpg)One of the most satisfying parts of writing for **magicthegathering.com** is getting email from people who are just starting to tiptoe around the notion of “diving in” to the **Magic** waters. I've been playing **Magic** since very close to its beginning and have watched the game and the community grow by leaps and bounds, so it's great to get the perspective of a person who's discovering this brand new world for the first time.
+![](https://i.ormos.uk/c8/aa/c8aa601cf6e56dc3a376f15112cfe945445409a6f87e264de0f1dc8381ed162f.jpg)
+
+One of the most satisfying parts of writing for **magicthegathering.com** is getting email from people who are just starting to tiptoe around the notion of “diving in” to the **Magic** waters. I've been playing **Magic** since very close to its beginning and have watched the game and the community grow by leaps and bounds, so it's great to get the perspective of a person who's discovering this brand new world for the first time.
 
 A lot of the letters that come in ask about advice for trying out ***Magic** Online*; they express concern about the costs involved and wonder *where do I begin?* The answer I always give—*try playing in a League*. This was even before I had even tried League play online, but I was familiar with how leagues functioned in paper **Magic** down at your local game shop. The concepts are the same.
 
@@ -452,7 +454,9 @@ a:19:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9
 
   
 
-![](https://i.ormos.uk/90/d6/90d6e4504d867bc27ed67df549c610587486348339d49767fd2b33985fa50100.jpg)The [Cabal Therapy](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy) synergy with Ink-Eyes' initial hand-peek, discard ability is just too good not to play if you can help it. To complement the hand destruction, I also liked [Gerrard's Verdict](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gerrard%27s+Verdict) from Paul's deck (and the incidental life gain that sometimes comes is golden for Ink-Eyes) and a couple [Ravenous Rats](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ravenous+Rats) (who then typically get sacrificed to flashback Therapy). [Pulse of the Fields](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pulse+of+the+Fields) helps recoup the initial life handicap and fuels the reanimation ability quite nicely. 
+![](https://i.ormos.uk/90/d6/90d6e4504d867bc27ed67df549c610587486348339d49767fd2b33985fa50100.jpg)
+
+The [Cabal Therapy](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy) synergy with Ink-Eyes' initial hand-peek, discard ability is just too good not to play if you can help it. To complement the hand destruction, I also liked [Gerrard's Verdict](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gerrard%27s+Verdict) from Paul's deck (and the incidental life gain that sometimes comes is golden for Ink-Eyes) and a couple [Ravenous Rats](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ravenous+Rats) (who then typically get sacrificed to flashback Therapy). [Pulse of the Fields](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pulse+of+the+Fields) helps recoup the initial life handicap and fuels the reanimation ability quite nicely. 
 
 For creature control, [Smother](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother), [Chainer's Edict](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chainer%27s+Edict) and [Wrath of God](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) keep the heat off while providing you with plenty of reanimation targets. And speaking of reanimation targets, my favorite has got to be the ubiquitous [Sakura-Tribe Elder](https://web.archive.org/web/20050519000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sakura-Tribe+Elder). Everyone is playing it, so for two life you can scare up a chump blocker, accelerate your mana and thin lands out of your deck, every turn. In a deck as mana hungry as this one, that's just golden.
 
@@ -462,7 +466,9 @@ I've gone 1-2 with this deck so far, but I felt the deck was much more competiti
 
 ### Tips & Tricks
 
-![](https://i.ormos.uk/27/18/2718b7fe077b7847fbe21b8377d279c5ffdec420ca88a7752d3f3ad16175ad45.jpg)My call for time-saving tips got a nice response from people, many of whom wrote in with similar suggestions. I've talked about stops here before, but there's a fine line between stops being helpful and hurtful and I thought the subject warranted expanding on. Here are a few emails I wanted to share:
+![](https://i.ormos.uk/27/18/2718b7fe077b7847fbe21b8377d279c5ffdec420ca88a7752d3f3ad16175ad45.jpg)
+
+My call for time-saving tips got a nice response from people, many of whom wrote in with similar suggestions. I've talked about stops here before, but there's a fine line between stops being helpful and hurtful and I thought the subject warranted expanding on. Here are a few emails I wanted to share:
 
 Sam Royes writes:
 
@@ -480,4 +486,6 @@ Thanks everyone for the great advice, and keep sending in your tips and tricks!
 
 ### Stars on Aether!
 
-[![](https://i.ormos.uk/88/1c/881ce5c8248dba2e75033be5b0e978f6abc9f42635ae73cb68dca2bceaa017aa.jpg)](https://web.archive.org/web/20050519000000/https://magic.wizards.com/en/events/coverage/soh-rides-online-skills-victory)If it's Thursday, May 19th when you're reading this, the **Magic** Invitational is already underway! [Click](https://web.archive.org/web/20050519000000/https://magic.wizards.com/en/events/coverage/soh-rides-online-skills-victory) for web coverage, and make sure to check out the happenings live on ***Magic** Online*. See what hoops Mark Rosewater is going to make the Stars of **Magic** jump through for the privilege of having their image and card idea added to the game we all love!
+[![](https://i.ormos.uk/88/1c/881ce5c8248dba2e75033be5b0e978f6abc9f42635ae73cb68dca2bceaa017aa.jpg)](https://web.archive.org/web/20050519000000/https://magic.wizards.com/en/events/coverage/soh-rides-online-skills-victory)
+
+If it's Thursday, May 19th when you're reading this, the **Magic** Invitational is already underway! [Click](https://web.archive.org/web/20050519000000/https://magic.wizards.com/en/events/coverage/soh-rides-online-skills-victory) for web coverage, and make sure to check out the happenings live on ***Magic** Online*. See what hoops Mark Rosewater is going to make the Stars of **Magic** jump through for the privilege of having their image and card idea added to the game we all love!

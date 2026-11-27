@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/110.jpg)In the fourth round of Grand Prix Helsinki, Sigurd Eskeland from Norway and Erno Ekebom from Finland faced each other at the feature match table. They both had three byes, and so the match was the first test for their decks. Sigurd was with a five-coloured deck with a lot of strong spells but a tad light on removal, while Erno had a typical black, red and blue deck with plenty of creature removal in addition to strong creatures. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/110.jpg)
+
+In the fourth round of Grand Prix Helsinki, Sigurd Eskeland from Norway and Erno Ekebom from Finland faced each other at the feature match table. They both had three byes, and so the match was the first test for their decks. Sigurd was with a five-coloured deck with a lot of strong spells but a tad light on removal, while Erno had a typical black, red and blue deck with plenty of creature removal in addition to strong creatures. 
 
 Erno won the die roll and chose to play, and he spent the first turns simply removing Sigurd's creatures from the table. First, he Tribal Flamed a Llanowar Knight, then he Zapped a Samite Archer, and finally he Annihilated a Glimmering Angel - still holding an Agonizing Demise in his hand. Then, he cast his first creature of the game, a Sparring Golem. 
 

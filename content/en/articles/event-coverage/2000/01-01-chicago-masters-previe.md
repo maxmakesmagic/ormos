@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Sideboard Staff*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/MASTERSNY00/Images/553.jpg)The field for the Masters Series event at Pro Tour Chicago is taking shape and it's a really great field. The Masters Series will pit 32 of the top players in the world in a single-elimination Invasion booster draft. Thirty of the prestigious invitations have been given away (and are included below). The final two spots will be given to the winners of a Gateway tournament to be held on Thursday, November 30th and open to anyone with 6 or more Pro Tour points in the New York '00-'01 professional standings. The Gateway will start with 3 or 4 rounds of *Invasion* sealed deck (depending on the number of competitors). Once the field has been narrowed to the "Sweet Sixteen," those players will be randomly divided into two tables for an *Invasion* booster draft where the winner of the table will win a Masters series invitation.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/MASTERSNY00/Images/553.jpg)
+
+The field for the Masters Series event at Pro Tour Chicago is taking shape and it's a really great field. The Masters Series will pit 32 of the top players in the world in a single-elimination Invasion booster draft. Thirty of the prestigious invitations have been given away (and are included below). The final two spots will be given to the winners of a Gateway tournament to be held on Thursday, November 30th and open to anyone with 6 or more Pro Tour points in the New York '00-'01 professional standings. The Gateway will start with 3 or 4 rounds of *Invasion* sealed deck (depending on the number of competitors). Once the field has been narrowed to the "Sweet Sixteen," those players will be randomly divided into two tables for an *Invasion* booster draft where the winner of the table will win a Masters series invitation.
 
 Here's the field:
 

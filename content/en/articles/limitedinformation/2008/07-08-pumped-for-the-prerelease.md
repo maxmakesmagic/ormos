@@ -274,7 +274,9 @@ But if you hit the nail on the head with something, then you will be miles ahead
 
 ### The Visual Spoiler Is Awesome
 
-![Evershrike](https://i.ormos.uk/13/5d/135d0b29ded359dadd73feb284d98a466cf2aacc632f212580a1afc79e0f5557.jpg)If you've been keeping up with the *Eventide* [Visual Spoiler](https://web.archive.org/web/20080628092222/http://www.wizards.com/default.asp?x=magic/eventide/spoiler) on the [Minisite](https://web.archive.org/web/20080628092201/http://www.wizards.com/default.asp?x=magic/eventide/home), then you are probably already familiar with most of the *Eventide* cards I mentioned above, if not, do yourself a favor and take a peek at what the Visual Spoiler has to offer. 
+![Evershrike](https://i.ormos.uk/13/5d/135d0b29ded359dadd73feb284d98a466cf2aacc632f212580a1afc79e0f5557.jpg)
+
+If you've been keeping up with the *Eventide* [Visual Spoiler](https://web.archive.org/web/20080628092222/http://www.wizards.com/default.asp?x=magic/eventide/spoiler) on the [Minisite](https://web.archive.org/web/20080628092201/http://www.wizards.com/default.asp?x=magic/eventide/home), then you are probably already familiar with most of the *Eventide* cards I mentioned above, if not, do yourself a favor and take a peek at what the Visual Spoiler has to offer. 
 
 I think that the Visual Spoiler is one of the most useful tools for understanding and getting a feel for a Limited format. I check it daily in the weeks leading up to the Prerelease, and as soon as Prerelease weekend ends, when the entire set is visible, I spend a few hours studying all of the cards in the set. 
 

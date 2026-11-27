@@ -1227,7 +1227,9 @@ render_recovery:
 
 I am going to assume that if you are reading my column that you are already aware of the events that transpired this past week in France at the 2006 **Magic** World Championships. If you are not please take a moment to review the coverage [here](/en/events/2006/worlds06/mihara-dutch-crowned-world-champions) – there is a buffet of audio, video, and text coverage to satisfy any appetite.
 
-![](https://i.ormos.uk/8b/64/8b64a446739b2d75f4be9e25c0aac29d67c7c5745bd7e1f79683d9b3f3b6e403.jpg)In Frank's column as well as Mike's there has been ample examination (with much more to come no doubt) of the decks that were played. As has become the custom after each Pro Tour this season, I caught up with the winner of the tournament, Makihito Mihara, moments after he Dragonstormed his way to victory past Paulo Vitor Damo da Rosa, Gabriel Nassif, and Ryo Ogura. 
+![](https://i.ormos.uk/8b/64/8b64a446739b2d75f4be9e25c0aac29d67c7c5745bd7e1f79683d9b3f3b6e403.jpg)
+
+In Frank's column as well as Mike's there has been ample examination (with much more to come no doubt) of the decks that were played. As has become the custom after each Pro Tour this season, I caught up with the winner of the tournament, Makihito Mihara, moments after he Dragonstormed his way to victory past Paulo Vitor Damo da Rosa, Gabriel Nassif, and Ryo Ogura. 
 
 The finals match was a bloodbath, with Mihara taking it in three straight games – including an amazing Gigadrowse-fueled win through an in-play Teferi. The Quarter- and Semifinals were both five-game affairs with plenty of dramatic highs and lows against two of the three most recognizable names playing that Sunday. 
 

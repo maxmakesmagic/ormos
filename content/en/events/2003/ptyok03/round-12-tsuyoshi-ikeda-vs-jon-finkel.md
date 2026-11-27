@@ -78,7 +78,9 @@ render_recovery:
   - Goblin Sledder
   occurrences: 36
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a795.jpg)Ikeda is one of Japan's Pro Tour veterans, and has been around for quite some time, playing at most Pro Tours. His opponent this round is Jon Finkel, who seems to be back to his old form. There is a lot riding on this match, since the winner can probably draw into Top 8. For Ikeda, it would be a chance to be in the Top 8 of a Pro Tour in his native country, while for Finkel it would be a second Limited Top 8 in a row, and an affirmation that he is still a major force to be reckoned with.
+![](http://www.wizards.com/sideboard/images/ptyok03/a795.jpg)
+
+Ikeda is one of Japan's Pro Tour veterans, and has been around for quite some time, playing at most Pro Tours. His opponent this round is Jon Finkel, who seems to be back to his old form. There is a lot riding on this match, since the winner can probably draw into Top 8. For Ikeda, it would be a chance to be in the Top 8 of a Pro Tour in his native country, while for Finkel it would be a second Limited Top 8 in a row, and an affirmation that he is still a major force to be reckoned with.
 
 ### Game 1
 
@@ -90,7 +92,9 @@ Ikeda had a first turn Imagecrafter, and Finkel summoned Flamewave Invoker on tu
 
 Ikeda got to six mana and played Crookclaw Elder. Finkel attacked with everyone but the Wall, and Ikeda's Marauder blocked Finkel's morph creature. When damage was put on the stack, Imagecrafter made Marauder a Bird, and the Elder's ability was used to draw a card. Finkel kept adding creatures to the sky, bringing out Mistform Dreamer. Ikeda played a great blocker in Sage Aven, which also gave him the other bird he needed to draw extra cards. Flamewave Invoker followed, and with seven lands in play and a Sage Aven that had just searched, it was apparent that Finkel was living on borrowed time.
 
-![](https://i.ormos.uk/8c/50/8c50d70c6f002efa4ae77383b7151a92fcdbd28f1a792277aaa72c5bbace20f5.jpg)Finkel targeted the Elder with Threaten, activated his Wall, and attacked with all his creatures. The resulting attack brought Ikeda down to one life point, and things looked bad until Ikeda stabilized, killing Keeneye Aven with Pinpoint Avalanche, and Riptide Biologist with Fever Charm. The game was at a stalemate on the board, which meant that Ikeda was free to use his Elder and Aven to draw an extra card every turn. It didn't matter, as Finkel drew Searing Flesh to end the game.
+![](https://i.ormos.uk/8c/50/8c50d70c6f002efa4ae77383b7151a92fcdbd28f1a792277aaa72c5bbace20f5.jpg)
+
+Finkel targeted the Elder with Threaten, activated his Wall, and attacked with all his creatures. The resulting attack brought Ikeda down to one life point, and things looked bad until Ikeda stabilized, killing Keeneye Aven with Pinpoint Avalanche, and Riptide Biologist with Fever Charm. The game was at a stalemate on the board, which meant that Ikeda was free to use his Elder and Aven to draw an extra card every turn. It didn't matter, as Finkel drew Searing Flesh to end the game.
 
 Ikeda- 0 Finkel- 1
 
@@ -100,7 +104,9 @@ Once again, Ikeda had a first turn Imagecrafter, as well as a third turn Flamewa
 
 Both of Finkel's morphs attacked, and after damage went on the stack, an unblocked Skirk Commando flipped over and threatened to kill the Aven, which was blocking the other morph. Ikeda made the Commando into a Wizard and tried to kill it with Fever Charm, but Finkel countered that with Ixidor's Will, getting a few laughs and camera flashes from the crowd. Ikeda added Pinpoint Avalanche to the stack, sending the Commando to the graveyard. 
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a796.jpg)Finkel's morph attacked into Ikeda's, and after damage went on the stack, it flipped over to reveal Riptide Biologist, and Imagecrafter turned Finkel's morph into a beast. At this point the game went into full race mode, with Finkel playing Ascending Aven and Mistform Dreamer. Ikeda's Operative continued to attack, while Finkel swung for five with his flyers, then added a second Dreamer and Mistform Wall to his team. It was too late, however, and Ikeda's unblockable creature was able to finish the job in time.
+![](http://www.wizards.com/sideboard/images/ptyok03/a796.jpg)
+
+Finkel's morph attacked into Ikeda's, and after damage went on the stack, it flipped over to reveal Riptide Biologist, and Imagecrafter turned Finkel's morph into a beast. At this point the game went into full race mode, with Finkel playing Ascending Aven and Mistform Dreamer. Ikeda's Operative continued to attack, while Finkel swung for five with his flyers, then added a second Dreamer and Mistform Wall to his team. It was too late, however, and Ikeda's unblockable creature was able to finish the job in time.
 
 Ikeda- 1 Finkel- 1
 

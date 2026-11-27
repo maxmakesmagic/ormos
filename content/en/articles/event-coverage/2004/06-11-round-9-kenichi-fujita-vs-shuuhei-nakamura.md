@@ -44,7 +44,9 @@ archive_source:
   sha256: 6814f4d59c4bfc54deeb59bd98dfa757e929cf8588490bd49a3631287c782c81
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm14_1.jpg)Mr. Ken'ichi Fujita is not just old school- he's ancient. The "Boss" has been playing Magic since before the game had been translated to Japanese, and is still kicking around today, putting up solid finishes in tournaments all the while. He's collected a few Grand Prix trophies and was looking to add a Nationals one to his mantle last year, but he came in ninth on tiebreakers. This time around he's started off at 7-1, and is on his way to taking that extra step towards Sunday. His opponent, Shuuhei Nakamura, is the only player remaining with no losses. Nakamura is another veteran, who has Grand Prix success under his belt, in addition to winning the traditional end of the year tournament in Japan.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm14_1.jpg)
+
+Mr. Ken'ichi Fujita is not just old school- he's ancient. The "Boss" has been playing Magic since before the game had been translated to Japanese, and is still kicking around today, putting up solid finishes in tournaments all the while. He's collected a few Grand Prix trophies and was looking to add a Nationals one to his mantle last year, but he came in ninth on tiebreakers. This time around he's started off at 7-1, and is on his way to taking that extra step towards Sunday. His opponent, Shuuhei Nakamura, is the only player remaining with no losses. Nakamura is another veteran, who has Grand Prix success under his belt, in addition to winning the traditional end of the year tournament in Japan.
 
 ### Game 1
 

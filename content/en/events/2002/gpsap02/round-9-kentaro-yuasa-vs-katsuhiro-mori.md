@@ -94,7 +94,9 @@ render_recovery:
   - Sylvan Safekeeper
   occurrences: 79
 ---
-![](http://www.wizards.com/sideboard/images/gpsap02/a964.jpg)Katsuhiro "Silver Age Flash" Mori may have finally met his nemesis in fellow Worlds 2002 competitor Kentaro Yuasa. Where Mori's pace of play is blinding, Yuasa has an almost glacial deliberation of action. Will forcing Mori to take his time throw him off his game?
+![](http://www.wizards.com/sideboard/images/gpsap02/a964.jpg)
+
+Katsuhiro "Silver Age Flash" Mori may have finally met his nemesis in fellow Worlds 2002 competitor Kentaro Yuasa. Where Mori's pace of play is blinding, Yuasa has an almost glacial deliberation of action. Will forcing Mori to take his time throw him off his game?
 
 Yuasa kicked off with a Suntail Hawk. Mori played his single Sungrass Prairie and hoped for the best. Yuasa Speculated, fetching a pair of Analyses and Prismatic Strands. Mori didn't even need to knock his deck to be served up the land he needed to cast Wild Mongrel. Yuasa's rejoinder was to Analyze and play Tireless Tribe.
 
@@ -106,7 +108,9 @@ Mori pitched a Glory of his own as well as a second Centaur to his Mongrel, turn
 
 Mori 1 - Yuasa 0
 
-![](http://www.wizards.com/sideboard/images/gpsap02/a963.jpg)Yuasa opened Game 2 with a pair of Beloved Chaplains, blunting Mori's initial Rootwalla. They soon became a trio, and things were looking dire indeed for the former Rookie of the Year. He made a Phantom Centaur and handed it back. When Yuasa dropped Patrol Hound and not Divine Sacrament, a glimmer of hope flickered.
+![](http://www.wizards.com/sideboard/images/gpsap02/a963.jpg)
+
+Yuasa opened Game 2 with a pair of Beloved Chaplains, blunting Mori's initial Rootwalla. They soon became a trio, and things were looking dire indeed for the former Rookie of the Year. He made a Phantom Centaur and handed it back. When Yuasa dropped Patrol Hound and not Divine Sacrament, a glimmer of hope flickered.
 
 Mori tapped out for Arrogant Wurm, which could combine well with the Elephant Guide in his hand, punching damage past the Chaplains. Yuasa dropped Spurnmage Advocate. Mori drew a second Wurm, and swung in with the first, attempting to trade for the Patrol Hound. Instead he forced out Prismatic Strands. He replaced his Wurm.
 

@@ -85,7 +85,9 @@ render_recovery:
   - Mistform Dreamer
   occurrences: 41
 ---
-![](https://i.ormos.uk/42/8c/428c613f80e32e9b8589720b29237cddd1f86492fbfef34e1ab9d840bd4dc416.jpg)As these 2 PT Top 8'ers sat down Anton opened up the pleasantries with "Do you want to scoop?" 
+![](https://i.ormos.uk/42/8c/428c613f80e32e9b8589720b29237cddd1f86492fbfef34e1ab9d840bd4dc416.jpg)
+
+As these 2 PT Top 8'ers sat down Anton opened up the pleasantries with "Do you want to scoop?" 
 
 Jelger laughed and declined, to which Anton replied, "There's just no gratitude... you know I gave him the draw in New Orleans."
 
@@ -109,7 +111,9 @@ Jelger unmorphed his Echo Tracer and bounced a Voidmage Prodigy, then Cast the 2
 
 Anton commented "wow, that was nice"
 
-![](https://i.ormos.uk/4e/cd/4ecdaaab94b5497f857c5d5f1a170d69f1935af51a1c7d8b19d9f5b006babc13.jpg)Anton could only answer with 2 Morphs and hope Jelger shot the wrong one, Jelger shot the Voidmage Prodigy, and made a Morph of his own. Anton attacked with his morph, Jelger Blocked with his, and Anton unmorphed the Snapping Thragg. 
+![](https://i.ormos.uk/4e/cd/4ecdaaab94b5497f857c5d5f1a170d69f1935af51a1c7d8b19d9f5b006babc13.jpg)
+
+Anton could only answer with 2 Morphs and hope Jelger shot the wrong one, Jelger shot the Voidmage Prodigy, and made a Morph of his own. Anton attacked with his morph, Jelger Blocked with his, and Anton unmorphed the Snapping Thragg. 
 
 Jelger targeted it with an Erratic Explosion on his turn, flipping the Skittish Valesk, and smiling "It's enough"
 
@@ -135,7 +139,9 @@ Jelger Beat Anton down to 8 Life, and re-made the Shrieker, which was again boun
 
 Anton finally drew a Mountain on his turn, and cast Lavamancer's skill on his wall, and using the alchemist killed an Echo Tracer and an Ascending Aven. It looked good, but was too late since Jelger attacked Anton to 2, then cast Erratic Explosion for the kill.
 
-![](https://i.ormos.uk/e8/d7/e8d77a1e353035bbbd6c0d040e8e384465eff339f72ccb47a93a2e65ce18a640.jpg)"Stupid Red Lands" Anton moaned as they shuffled up for game 2, knowing that if he'd had the mountain on any of 5 turns earlier, he could have stabilized fairly comfortably.
+![](https://i.ormos.uk/e8/d7/e8d77a1e353035bbbd6c0d040e8e384465eff339f72ccb47a93a2e65ce18a640.jpg)
+
+"Stupid Red Lands" Anton moaned as they shuffled up for game 2, knowing that if he'd had the mountain on any of 5 turns earlier, he could have stabilized fairly comfortably.
 
 ### Game 3
 

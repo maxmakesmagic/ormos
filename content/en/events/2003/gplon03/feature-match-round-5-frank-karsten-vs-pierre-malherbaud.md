@@ -53,13 +53,17 @@ archive_source:
   sha256: 37303888372006c15a38b0ee3acb1f2699bc9699e5e27120844b3d4c53faf142
 render_recovery: []
 ---
-![](https://i.ormos.uk/85/4f/854ff292c06cf87b27b8d0a204fb1cda2f6b0b1d25680789519e6e5633f0fbac.jpg)Frank Karsten is one of the top Dutch players. His opponent, Pierre Malherbaud, is a highly experienced French Player. Malherbaud has a long record of consistent finishes on the tour and nearly went all the way at this year’s European Championships before being halted by Nicolai Herzog in the finals.
+![](https://i.ormos.uk/85/4f/854ff292c06cf87b27b8d0a204fb1cda2f6b0b1d25680789519e6e5633f0fbac.jpg)
+
+Frank Karsten is one of the top Dutch players. His opponent, Pierre Malherbaud, is a highly experienced French Player. Malherbaud has a long record of consistent finishes on the tour and nearly went all the way at this year’s European Championships before being halted by Nicolai Herzog in the finals.
 
 Karsten won the die roll and elected to go first. He immediately threw the first hand back. A Mountain followed by a Grand Coliseum on Karsten’s side and Plains followed by Mountain for Malherbaud signalled they were both playing RW control. We might be here for some time.
 
 Both players cycled a few cards as they developed their hands. Karsten made the first move by accelerating out an Exalted Angel with a Temple of the False God. Wing Shards took care of that as the Dragon recursion began on both sides. Karsten had two Dragons though and could afford to cast on while cycling the other. Malherbaud summoned his to match.
 
-![](http://www.wizards.com/sideboard/images/gplon03/a957.jpg)Dragons bounced and Karsten brought out a third. He had the clear dragon advantage for this match. He then summoned an Astral Slide. Malherbaud had the answer for it with a maindeck Wipe Clean.
+![](http://www.wizards.com/sideboard/images/gplon03/a957.jpg)
+
+Dragons bounced and Karsten brought out a third. He had the clear dragon advantage for this match. He then summoned an Astral Slide. Malherbaud had the answer for it with a maindeck Wipe Clean.
 
 Karsten seemed to be steadily gaining advantage. A second Temple of the False God gave him mana to both recurse and play a Dragon in the same turn. Wing Shards took down one while Malherbaud tried to hit enough land to keep up. He cycled Decree, putting a few Soldiers into play.
 
@@ -77,7 +81,9 @@ An attack with the Knight dropped Karsten to 2 and a replacement Rift plus cycle
 
 Karsten 1-1 Malherbaud
 
-![](http://www.wizards.com/sideboard/images/gplon03/a958.jpg)The decider and this time Malherbaud had to mulligan. The start of the game had a similar feel to the last one. Karsten opened with Lightning Rift, Malherbaud matched it with Silver Knight. Karsten took the upperhand with an Astral Slide and then cranked up the wrench with an Exalted Angel. Malherbaud brought out his own Slide in answer to the threat.
+![](http://www.wizards.com/sideboard/images/gplon03/a958.jpg)
+
+The decider and this time Malherbaud had to mulligan. The start of the game had a similar feel to the last one. Karsten opened with Lightning Rift, Malherbaud matched it with Silver Knight. Karsten took the upperhand with an Astral Slide and then cranked up the wrench with an Exalted Angel. Malherbaud brought out his own Slide in answer to the threat.
 
 Karsten was land light though, missing land drops despite cycling. Malherbaud fogged with a Wing Shards. His hand wasn’t developing though and when Karsten Wiped Clean the Slide it didn’t look good for the Frenchman. He was at 6 and the knight was only making sure Karsten’s life increased by two rather than four a turn.
 

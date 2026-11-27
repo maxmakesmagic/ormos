@@ -194,7 +194,9 @@ Part of design is recognizing strong ideas and expanding on them.
 
 ### Graeme Hopkins
 
-![](https://i.ormos.uk/1c/b6/1cb650edf3801367b5eb73e98cc84c08ede467dd8d2b1cabe1e1a0c9e686ec78.jpg)Please note: Because the assumed common land cycle is quite significant, all 12 "black" commons are included below. If only 11 are to be allowed, please exclude the last common, "Sulrathi Depths."
+![](https://i.ormos.uk/1c/b6/1cb650edf3801367b5eb73e98cc84c08ede467dd8d2b1cabe1e1a0c9e686ec78.jpg)
+
+Please note: Because the assumed common land cycle is quite significant, all 12 "black" commons are included below. If only 11 are to be allowed, please exclude the last common, "Sulrathi Depths."
 
 "Terralon" 180 card set
 

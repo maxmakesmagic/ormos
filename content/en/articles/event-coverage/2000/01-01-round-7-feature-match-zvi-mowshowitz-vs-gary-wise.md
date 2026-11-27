@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Early Nguyen* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/787.jpg)The third format of the Invitational featured Solomon Draft. Players received 12 pre-designed eight cards packs. One player then opened the pack and divided the cards into two piles of any size. Once finished the receiving player chose which pile he/she kept, the other pile going to the other player. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/787.jpg)
+
+The third format of the Invitational featured Solomon Draft. Players received 12 pre-designed eight cards packs. One player then opened the pack and divided the cards into two piles of any size. Once finished the receiving player chose which pile he/she kept, the other pile going to the other player. 
 
 Round seven of the Invitational featured New York's Zvi Mowshowitz vs. Toronto's Gary Wise. The two were recently involved in the well-known Team Mogg Squad, which recently broke up. Gary Wise drafted a Black, Blue, Red deck, the only three color deck in the Invitational. Going into the match confident and sure of himself, Gary seemed more positive than Zvi Mowshowitz who opted to build a five-color deck, considering that over 90% of the cards in Solomon draft was gold cards. 
 

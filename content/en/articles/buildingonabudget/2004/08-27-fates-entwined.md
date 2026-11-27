@@ -301,7 +301,9 @@ There are almost no decks that can win if you can get Shared Fate out with contr
 
 ### Adding Money to the Deck
 
-![](https://i.ormos.uk/ea/fd/eafd0e7c7d895976b5ed6b0dd6b0d1a301494e65c2eb698d3efd6791596dc1f0.jpg)Polluted Deltas would be awesome, since your opponent can't really use them to full effect and they fix your mana! City of Brass can be really helpful since it will also provide mana to use cards from your opponent's deck right away. Barter in Blood might be a good card to add, since it helps sweep the board and gives some card advantage. Basically there is not a whole lot you can do to add money to this deck because you want it to be really bad for your opponent to top-deck from! The cheaper the better!
+![](https://i.ormos.uk/ea/fd/eafd0e7c7d895976b5ed6b0dd6b0d1a301494e65c2eb698d3efd6791596dc1f0.jpg)
+
+Polluted Deltas would be awesome, since your opponent can't really use them to full effect and they fix your mana! City of Brass can be really helpful since it will also provide mana to use cards from your opponent's deck right away. Barter in Blood might be a good card to add, since it helps sweep the board and gives some card advantage. Basically there is not a whole lot you can do to add money to this deck because you want it to be really bad for your opponent to top-deck from! The cheaper the better!
 
 Note that Wizards was kind enough to allow me to use a new special account to test these budget decks from. This will make them better in the future! Thanks Wizards!
 

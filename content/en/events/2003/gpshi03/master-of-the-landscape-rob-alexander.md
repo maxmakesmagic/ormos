@@ -69,7 +69,9 @@ render_recovery:
   - Divergent Growth
   occurrences: 14
 ---
-![](https://i.ormos.uk/08/c8/08c8a0a0942c79e2c8ec4309f62021a121d0dffc28fd4aee40b8d05eb3765f0b.jpg)There is nobody who has illustrated as many tournament-significant lands as Rob Alexander. Going all the way back to his masterful takes on the dual lands up to his stunning oil painting for Flooded Strand, Alexander has put his deft brush to some of the most desirable cards in the game's history--and those are just the rares! He has also done beautiful renditions of the basic lands including the new Arena lands to debut later this year. 
+![](https://i.ormos.uk/08/c8/08c8a0a0942c79e2c8ec4309f62021a121d0dffc28fd4aee40b8d05eb3765f0b.jpg)
+
+There is nobody who has illustrated as many tournament-significant lands as Rob Alexander. Going all the way back to his masterful takes on the dual lands up to his stunning oil painting for Flooded Strand, Alexander has put his deft brush to some of the most desirable cards in the game's history--and those are just the rares! He has also done beautiful renditions of the basic lands including the new Arena lands to debut later this year. 
 
 A long line of Japanese fans awaited him when he arrived this morning with binders plump with his most famous pieces. I saw at least one binder stuffed with page after page of Alpha/Beta Taigas and Underground Seas that was slowly getting autographed--eight items at a time, thank you very much! Occasional *Sideboard* reporter Eli Kaplan was cheated out his obligatory round two feature match when his opponent failed a deck check. He took his win and high-tailed it over the line to get his fetch lands and dual lands signed--one of each that Alexander painted. "His work really depicts a sense of majesty. His landscapes are a nice contrast to the recent change in art direction toward more aggressive pieces. He and Rebecca Guay are important contributors in that regard."
 
@@ -79,7 +81,9 @@ Alexander was exceedingly gracious with each person and was even doing quick ske
 
 His first creations for **Magic** were his dual lands as well as Lance, Web and Twiddle for the Alpha edition. While Twiddle had to wait until New Orleans to get its due--Rob was surprised by how many of those he was asked to sign--the dual lands are among the most significant cards in the game's history. A history that Rob had no inkling would come to pass when he first accepted the assignments from then art director Jesper Meyfors.
 
-![](https://i.ormos.uk/d3/6c/d36c6df276f28ed8d993a9d770c6dbc81ac7227e4ef5d5e9d7391bd07d7c2776.jpg)"I had no clue how big the game would become. I actually turned down Jesper several times. Fortunately he was very persistent!" At the time Rob was pretty new to the field of illustration. He had a few book covers and magazine illustrations to his credit but **Magic** really launched his career and he has become one of the premiere artists in the fantasy gaming field. 
+![](https://i.ormos.uk/d3/6c/d36c6df276f28ed8d993a9d770c6dbc81ac7227e4ef5d5e9d7391bd07d7c2776.jpg)
+
+"I had no clue how big the game would become. I actually turned down Jesper several times. Fortunately he was very persistent!" At the time Rob was pretty new to the field of illustration. He had a few book covers and magazine illustrations to his credit but **Magic** really launched his career and he has become one of the premiere artists in the fantasy gaming field. 
 
 While Alexander is mostly known as a landscape artist, his figurative work is equally stunning. His work on Jinxed Choker stands out as one of the finest pieces in *Mirrodin*. When asked for his favorite **Magic** piece, Rob was quick to answer, "Spectral Cloak. I loved doing that piece. I also loved the stuff for Metalworld--I mean *Mirrodin*, sorry. That work was very challenging but also very rewarding."
 

@@ -55,7 +55,9 @@ render_recovery: []
 ---
 ### Game 1
 
-![](https://i.ormos.uk/03/63/036359d06a91d6d4ce75ba76e3b63c125619d7d0608fa0cb10709b5401267b88.jpg)Pro Tour Osaka started off with one of Singapore's top players squaring off against one of America's best. Law muliganned his opening hand after winning the coin flip. Law was playing U/G, the deck most pros predicted would be the most played in the tournament. Benafel played a U/R/b deck designed by Brian Kibler and Ben Rubin that most of the Magic Colony is playing in the tournament.
+![](https://i.ormos.uk/03/63/036359d06a91d6d4ce75ba76e3b63c125619d7d0608fa0cb10709b5401267b88.jpg)
+
+Pro Tour Osaka started off with one of Singapore's top players squaring off against one of America's best. Law muliganned his opening hand after winning the coin flip. Law was playing U/G, the deck most pros predicted would be the most played in the tournament. Benafel played a U/R/b deck designed by Brian Kibler and Ben Rubin that most of the Magic Colony is playing in the tournament.
 
 Albertus got out the quick start with a turn two Basking Rootwalla and a turn three Aquamoeba. Chris attempted to cast Chainer's Edict, but Law quickly countered with Circular Logic. The Singaporean played a Roar of the Wurm out of his graveyard, but Benafel had Aether Burst to deal with it. Chris failed to deal with the Aquamoeba, and he eventually succumbed to the 1/3 monster.
 

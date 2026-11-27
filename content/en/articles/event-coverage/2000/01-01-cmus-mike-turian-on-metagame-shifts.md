@@ -53,7 +53,9 @@ render_recovery:
 ---
 Mike Turian, the unquestioned nicest guy on the tour, and one heck of a solid competitor, is coming off a limited win at GP Montreal. I got a chance to sit with him for a few minutes this morning to discuss how the metagame had shifted since New Orleans, and why Zombie Nation was no longer a solid choice at present. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/135FM6turian.jpg)Mike informed me that a quick trip to Detroit opened his eyes to the current metagame. With a sea of Kai Budde sympathizers carrying red/blue Trix, he held an experiment, heading down, table after table to see when he would not see a Trix deck. It took him 12 tables before he could find a clear one. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/135FM6turian.jpg)
+
+Mike informed me that a quick trip to Detroit opened his eyes to the current metagame. With a sea of Kai Budde sympathizers carrying red/blue Trix, he held an experiment, heading down, table after table to see when he would not see a Trix deck. It took him 12 tables before he could find a clear one. 
 
 While this is a different direction from they way Godzilla or Your Move Games arrived at this conclusion, it was obvious to him that Trix is the "best" deck right now. It's very common for the Top Eight of a Pro Tour to define the early weeks of the new PTQ season. 
 

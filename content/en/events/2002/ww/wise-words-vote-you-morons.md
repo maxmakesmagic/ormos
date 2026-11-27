@@ -84,7 +84,9 @@ I hope you single-ply types got the message. Every vote counts, and what’s mor
 
 The thing is, I can understand players being driven to skip the process. After all, sixteen votes for four slots seems a little silly in that a lot of the time, in a field of competitors who don’t get the benefit of television or otherwise constant exposure, often those votes will be reduced to name recognition. ‘Finkel, Mowshowitz, Kibler, Wise’ make a little more sense now?
 
-![](http://www.wizards.com/sideboard/images/worlds03/a822.jpg)Jonny Magic is only the last Greatest Player Ever before our present Greatest Player Ever, and his name is synonymous with the game. Zvi provides strategic advice and insight unmatched in the Constructed arena. Kibs is playing better than ever before while constantly contributing in communal ways, at the same time holding a place in the minds and hearts of all children thanks to one Rith, the Awakener, while I, well, I guess I write sometimes and got carried to a Top 4 finish in Boston…crashed and burned at Yokohama and Berlin…um…well, the others are all certainly solid citizens.
+![](http://www.wizards.com/sideboard/images/worlds03/a822.jpg)
+
+Jonny Magic is only the last Greatest Player Ever before our present Greatest Player Ever, and his name is synonymous with the game. Zvi provides strategic advice and insight unmatched in the Constructed arena. Kibs is playing better than ever before while constantly contributing in communal ways, at the same time holding a place in the minds and hearts of all children thanks to one Rith, the Awakener, while I, well, I guess I write sometimes and got carried to a Top 4 finish in Boston…crashed and burned at Yokohama and Berlin…um…well, the others are all certainly solid citizens.
 
 Be that as it may though, while I do believe the contributions the ‘automatics’ have made combined with consistency over the years makes each viable for your vote in their own way, there are other names that must be considered before you cast that final tally, which, assuming you aren’t from Florida, will most certainly count (sorry, couldn’t resist… Florida vote jokes… I’ve been reduced to late night talk show banter… someone shoot me? Anyone? Next thing you know, Wise Words will feature stupid **Magic** tricks and me throwing pencils at a television camera). Here’s a look at some of names who do or don’t deserve your votes, at least from this man’s point of view:
 
@@ -99,7 +101,9 @@ Sincerely,
 
 ### Tomi Walamies
 
-![](http://www.wizards.com/sideboard/images/worlds03/a737.jpg)Tomi’s was one of the first boxes I checked when filling out my Invitational ballot, voting for players who I felt had combined strong years with communal contributions and/or been teammates of mine at some point over the millennia. Tomi finished second in last year’s Invitational in Seattle, after which he managed to finish second in Venice and win his third National Championship in a row before advancing to the finals of the team competition at Worlds. Beyond his playing accomplishments, Tomi also writes some of the funnier material on the web as far as **Magic** goes over at Star City, which usually means there’ll be some pretty good post-Invitational storytelling going on should get the invite.
+![](http://www.wizards.com/sideboard/images/worlds03/a737.jpg)
+
+Tomi’s was one of the first boxes I checked when filling out my Invitational ballot, voting for players who I felt had combined strong years with communal contributions and/or been teammates of mine at some point over the millennia. Tomi finished second in last year’s Invitational in Seattle, after which he managed to finish second in Venice and win his third National Championship in a row before advancing to the finals of the team competition at Worlds. Beyond his playing accomplishments, Tomi also writes some of the funnier material on the web as far as **Magic** goes over at Star City, which usually means there’ll be some pretty good post-Invitational storytelling going on should get the invite.
 
 ### Jon Finkel
 
@@ -107,7 +111,9 @@ For the first time since 2000, Jon brings to the table vote-worthy merits aside 
 
 ### Brian Kibler
 
-![](http://www.wizards.com/sideboard/images/worlds03/a845.jpg)Recently graduated from University, Kibler is playing better **Magic** now than he ever has, as evidenced by his victory in Boston and a number of near-misses. That said, he still hasn’t found that one big jewel for his Top 8 crown this year, and his writings have slowed to a crawl. If you’re looking to vote purely on play accomplishment, I think next year is Brian’s year, but for now, solid play, deck building and communal contributions make him worthy of your check mark. Then again, I don’t think I needed to tell you that.
+![](http://www.wizards.com/sideboard/images/worlds03/a845.jpg)
+
+Recently graduated from University, Kibler is playing better **Magic** now than he ever has, as evidenced by his victory in Boston and a number of near-misses. That said, he still hasn’t found that one big jewel for his Top 8 crown this year, and his writings have slowed to a crawl. If you’re looking to vote purely on play accomplishment, I think next year is Brian’s year, but for now, solid play, deck building and communal contributions make him worthy of your check mark. Then again, I don’t think I needed to tell you that.
 
 ### Gabriel Nassif
 
@@ -123,7 +129,9 @@ Alex and I aren’t getting along too well right now, but I can stay objective i
 
 ### Jin Okamoto
 
-![](http://www.wizards.com/sideboard/images/worlds03/a454.jpg)Well, you know his name now thanks to his coming second at Worlds, but what you may not know is that most Japanese players were calling Okamoto their country’s best before Berlin. The winner of the last APAC Championships in 2001, Jin has since been posting strong finishes, earning enough pro points to qualify him repeatedly for the Masters despite not having that one Top 8 finish that usually is instrumental in qualifying players for those payout tourneys. Okamoto, whose writing for *Sideboard Japan* goes unrecognized on this side of the ocean thanks to translation issues, had more pro points in 2002-03 than any other player not already qualified. Probably among the Top 4 in terms of most deserving, his was the second name I checked off in casting my ballot (you’ll never guess who number one was).
+![](http://www.wizards.com/sideboard/images/worlds03/a454.jpg)
+
+Well, you know his name now thanks to his coming second at Worlds, but what you may not know is that most Japanese players were calling Okamoto their country’s best before Berlin. The winner of the last APAC Championships in 2001, Jin has since been posting strong finishes, earning enough pro points to qualify him repeatedly for the Masters despite not having that one Top 8 finish that usually is instrumental in qualifying players for those payout tourneys. Okamoto, whose writing for *Sideboard Japan* goes unrecognized on this side of the ocean thanks to translation issues, had more pro points in 2002-03 than any other player not already qualified. Probably among the Top 4 in terms of most deserving, his was the second name I checked off in casting my ballot (you’ll never guess who number one was).
 
 PS: If Okamoto doesn’t make the Invitational, it seems far less likely that Okamoto Djinn will be one of the submissions.
 
@@ -141,7 +149,9 @@ Okay, I’m fully aware that Jeroen’s chances of making the Invitational, to c
 
 ### Zvi Mowshowitz
 
-![](https://i.ormos.uk/74/72/7472bb3c7eea55c0eec299ffde45f7275dc181183306c4c15b0bf6411b00ef3c.jpg)Zvi’s a strange guy. Most everyone who meets him can agree that the term “status quo” doesn’t really apply, but you know what? **Magic** is the field where strange comes to play. Whether you’re accepting of this fact or one of the morons who searches for self-fulfillment in the making fun of others, you have to admit that as both a player and a writer, Zvi has been remarkably consistent making unequaled contributions to the community in sharing his understanding of Constructed and deck building, all the while serving as a skilled teacher who bestows knowledge both through spoken word and action. I have closer friends who I voted for over Zvi, but if I were filling out my ballot without knowing any of the players in question (a reflection on my feelings towards others, not a slam on Zvi), he’s have to be one of the first choices I’d make. 
+![](https://i.ormos.uk/74/72/7472bb3c7eea55c0eec299ffde45f7275dc181183306c4c15b0bf6411b00ef3c.jpg)
+
+Zvi’s a strange guy. Most everyone who meets him can agree that the term “status quo” doesn’t really apply, but you know what? **Magic** is the field where strange comes to play. Whether you’re accepting of this fact or one of the morons who searches for self-fulfillment in the making fun of others, you have to admit that as both a player and a writer, Zvi has been remarkably consistent making unequaled contributions to the community in sharing his understanding of Constructed and deck building, all the while serving as a skilled teacher who bestows knowledge both through spoken word and action. I have closer friends who I voted for over Zvi, but if I were filling out my ballot without knowing any of the players in question (a reflection on my feelings towards others, not a slam on Zvi), he’s have to be one of the first choices I’d make. 
 
 ### Peter Szigeti
 

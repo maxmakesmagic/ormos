@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a747.jpg)Bram Snepvangers and Chris Benafel are both trying desperately to make the Top 8. Brian Kibler has been helping Benafel along, first by passing him the ultimate red-green deck, then by getting a match loss in their meeting last round by misregistering his deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a747.jpg)
+
+Bram Snepvangers and Chris Benafel are both trying desperately to make the Top 8. Brian Kibler has been helping Benafel along, first by passing him the ultimate red-green deck, then by getting a match loss in their meeting last round by misregistering his deck.
 
 Bram has had no such help, and has had to earn every win. His red-green deck will have it's work cut out for it against Benafel's deck full of [Sparksmith](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith)s and [Wirewood Savage](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Savage)s.
 
@@ -95,7 +97,9 @@ Snepvangers had to mulligan to start the final game, and Benafel did, in fact, p
 
 Again, Bram's mulligan hand gave him the Sharpshooter, but this time Benafel had the tempo advantage due to going first. The American's [Elvish Warrior](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior) and [Wirewood Savage](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Savage) had dropped Bram to 14, and then Benafel dropped a [Tephraderm](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tephraderm)—a bad target for the Sharpshooter—to complicate matters.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a748.jpg)Time became an issue at this point, as it often does in Benafel's matches, and he called over the table judge to make sure Bram was playing at a reasonable pace. Granted, Snepvangers is a "deliberate" player, but Benafel's actions probably were more to rattle the Dutchman than to accuse him of stalling.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a748.jpg)
+
+Time became an issue at this point, as it often does in Benafel's matches, and he called over the table judge to make sure Bram was playing at a reasonable pace. Granted, Snepvangers is a "deliberate" player, but Benafel's actions probably were more to rattle the Dutchman than to accuse him of stalling.
 
 Bram played a couple of face down guys, and then Benafel sent the [Tephraderm](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tephraderm) in. A triple-block took down the derm, but good damage assignment allowed Benafel to kill all of Bram's blockers thanks to the 'Derm's ability. But all the carnage set off a chain of Sharpshooter triggers, and the next thing Benafel knew, his [Barkhide Mauler](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barkhide+Mauler) and [Elvish Warrior](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior) joined the 'Derm in the bin.
 

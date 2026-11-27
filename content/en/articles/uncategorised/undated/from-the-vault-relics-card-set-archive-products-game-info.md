@@ -40,7 +40,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/76/9d/769d8cb0f968778001eda9ad485e35aca695c9bee3184dc85b934ca03e05ff34.png)This limited-edition set includes 15 foil artifact cards, a special-edition life counter, and a collector's guide. Each card has been printed using a foil process unique to the "From the Vault" series, all are black-bordered and tournament-legal, and nine have new art.
+![](https://i.ormos.uk/76/9d/769d8cb0f968778001eda9ad485e35aca695c9bee3184dc85b934ca03e05ff34.png)
+
+This limited-edition set includes 15 foil artifact cards, a special-edition life counter, and a collector's guide. Each card has been printed using a foil process unique to the "From the Vault" series, all are black-bordered and tournament-legal, and nine have new art.
 
 **Set Name:** *From the Vault: Relics*  
 **Number of Cards:** 15

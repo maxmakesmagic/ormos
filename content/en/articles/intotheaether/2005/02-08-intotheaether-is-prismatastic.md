@@ -1217,7 +1217,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/4b/41/4b4102fbf00853a6387007255308a787d8fde65c906db663a011620c8a54d1d7.jpg)I've played a lot of Prismatic recently. I loved the format after I [first explored it](/en/articles/intotheaether/2004/12-21-intotheaether-and-the-really-big-door), playing game after game with my fledgling Door to Nothingness deck. The problem was that by December I still only had one Prismatic deck built, which made my enthusiasm to play games begin to slow. Then [new Bannings](https://web.archive.org/web/20071029153657/http://www.wizards.com/default.asp?x=dci/announce/dci20041201a) hit, causing me either to retool the Door deck or come up with a new deck altogether. No prize for guessing which option appealed to me.
+![](https://i.ormos.uk/4b/41/4b4102fbf00853a6387007255308a787d8fde65c906db663a011620c8a54d1d7.jpg)
+
+I've played a lot of Prismatic recently. I loved the format after I [first explored it](/en/articles/intotheaether/2004/12-21-intotheaether-and-the-really-big-door), playing game after game with my fledgling Door to Nothingness deck. The problem was that by December I still only had one Prismatic deck built, which made my enthusiasm to play games begin to slow. Then [new Bannings](https://web.archive.org/web/20071029153657/http://www.wizards.com/default.asp?x=dci/announce/dci20041201a) hit, causing me either to retool the Door deck or come up with a new deck altogether. No prize for guessing which option appealed to me.
 
 For those unfamiliar with my earlier articles on Prismatic, the basic rules are:
 
@@ -1238,7 +1240,9 @@ One caveat first: Recently ***Magic** Online* has begun to offer sanctioned tour
 
 ### Note #1: Prismatic is not a budget format.
 
-![](https://i.ormos.uk/d7/8a/d78a9f80732269474c2ab910f4a2df10657cdae72a97329b13a82f87e6853a75.jpg)I'm very sensitive to making **Magic** a beginner-friendly game. It's why I enjoy things like my [preconstructed experiment](/en/articles/intotheaether/2004/11-23-way-of-intotheaether) so much and explore formats like [PDC](/en/articles/intotheaether/2004/09-28-poor-intotheaether). All things being equal, I enjoy talking about budget-friendly formats more than others because I think they are formats that the widest audience can enjoy.
+![](https://i.ormos.uk/d7/8a/d78a9f80732269474c2ab910f4a2df10657cdae72a97329b13a82f87e6853a75.jpg)
+
+I'm very sensitive to making **Magic** a beginner-friendly game. It's why I enjoy things like my [preconstructed experiment](/en/articles/intotheaether/2004/11-23-way-of-intotheaether) so much and explore formats like [PDC](/en/articles/intotheaether/2004/09-28-poor-intotheaether). All things being equal, I enjoy talking about budget-friendly formats more than others because I think they are formats that the widest audience can enjoy.
 
 That said, Prismatic is not a budget-friendly format. Can you make an inexpensive Prismatic deck? Absolutely. Will you win a lot of games with such a deck? Unlikely. Prismatic is a lot like [Vintage](/en/articles/feature/2005/01-04-a-vintage-year-in-review-2) in that it begs you to make a sizeable commitment for your first deck. Once you have a deck, though, you can spend months--or even years--tinkering and tuning it without a huge amount of incremental investment. This makes Prismatic a great format for those who adopt pet decks and refuse to let them go. It also makes Prismatic a format in which you (and your deck) gain mastery the longer you're in it.
 

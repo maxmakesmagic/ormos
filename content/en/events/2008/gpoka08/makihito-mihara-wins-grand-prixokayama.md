@@ -652,13 +652,17 @@ GP Okayama 08/Top 8
 
 “My plan is to not play against Guillaume,” laughed Olivier when asked about his strategy for the Top 8 draft. “My real plan is to not draft artifacts. I love 5-color so if I open a spoiler – a bomb rare – I will do that. If I get an Oblivion Ring or Wild Nacatl in my pack I will go aggro.”
 
-![](https://i.ormos.uk/e4/18/e418c5c9e7f908e919526570329f805fbd53285da4b380af732ad6897099faf8.jpg)Olivier sat down for the draft and saw that Guillaume was sitting a few seats away, headed for a quarterfinal rematch of the Pro Tour Yokohama finals with Kazuya Mitamura. That part of the plan was taken care of, Olivier would be playing Pro Tour Charleston Top 4 competitor – and a teammate at that event with Mitamura – Chikara Nakajima. He was being fed by Tsuyoshi Ikeda and passing to Daisuke Muramatsu, one of only two players in the Top 8 without any experience on the Sunday stage on the Pro Tour. 
+![](https://i.ormos.uk/e4/18/e418c5c9e7f908e919526570329f805fbd53285da4b380af732ad6897099faf8.jpg)
+
+Olivier sat down for the draft and saw that Guillaume was sitting a few seats away, headed for a quarterfinal rematch of the Pro Tour Yokohama finals with Kazuya Mitamura. That part of the plan was taken care of, Olivier would be playing Pro Tour Charleston Top 4 competitor – and a teammate at that event with Mitamura – Chikara Nakajima. He was being fed by Tsuyoshi Ikeda and passing to Daisuke Muramatsu, one of only two players in the Top 8 without any experience on the Sunday stage on the Pro Tour. 
 
 Olivier opened his first pack and saw a bounty of cards including Oblivion Ring, Vithian Stinger, Executioner’s Capsule, Deft Duelist, and Hissing Iguanar. He took the Ring, which many pros consider to be the best common in the set. Ikeda passed him a pack with Godsire, Kiss of the Amesha,. Tidehollow Strix, Metalurgeon, and an uncommon missing. Olivier happily took the mythic rare without knowing that the missing uncommon from Ikeda’s pack was a Wooly Thoctar. Olivier considered a Rockslide Elemental for his third pick but opted for Sigil’s Blessing instead. 
 
 He took another Blessing with his fourth pick but seemed to be getting an uneasy feeling about the way the packs were coming, with few Naya cards and plenty of Jund and Grixis goodies. Mosstodon joined the Hall of Famer’s team with pick number five and Oli also took note of a Behemoth’s Herald that he clearly expected to lap the table. He rounded out the pack with an uneasy sixth pick Welkin Guide, a couple of Obelisks, and the Hissing Iguanar from his opening pack – the Herald did not come back to him. 
 
-![](https://i.ormos.uk/1e/6c/1e6cb9d5ea1a2ecf55c924f2f3e2cf424e5be9f4a21a77bcc44cdc3aeed740a1.jpg)Olivier was happy to see Magma Spray in pack two but shuffled it to the back as soon as he saw Sigil of Distinction. He seriously considered taking Dragon Fodder over Magma Spray and loudly flipped back and forth between the two of them for the maximum amount of time allowed for deliberation before taking the removal spell. The next pack was chock full of on-Shard goodness with Realm Razer, Rhox Charger, Quasali Ambusher, Druid of the Anima, and Rakeclaw Garagntuan – he took the Charger. The hits kept coming from the left as he was passed in the next few packs Branching Bolt, Soul’s Fire, Rakeclaw Gargantuan, and Elvish Visionary. He debated between Jungle Weaver and Rip-Clan Crasher in the next pack and reluctantly took the hasty beater. Druid of the Anima was the only notable card in the later packs, returning from the Naya heavy pack he had seen earlier. Despite a very solid second pack Oli was light on playable and was considering two Goblin Mountaineers for his maindeck at this point. 
+![](https://i.ormos.uk/1e/6c/1e6cb9d5ea1a2ecf55c924f2f3e2cf424e5be9f4a21a77bcc44cdc3aeed740a1.jpg)
+
+Olivier was happy to see Magma Spray in pack two but shuffled it to the back as soon as he saw Sigil of Distinction. He seriously considered taking Dragon Fodder over Magma Spray and loudly flipped back and forth between the two of them for the maximum amount of time allowed for deliberation before taking the removal spell. The next pack was chock full of on-Shard goodness with Realm Razer, Rhox Charger, Quasali Ambusher, Druid of the Anima, and Rakeclaw Garagntuan – he took the Charger. The hits kept coming from the left as he was passed in the next few packs Branching Bolt, Soul’s Fire, Rakeclaw Gargantuan, and Elvish Visionary. He debated between Jungle Weaver and Rip-Clan Crasher in the next pack and reluctantly took the hasty beater. Druid of the Anima was the only notable card in the later packs, returning from the Naya heavy pack he had seen earlier. Despite a very solid second pack Oli was light on playable and was considering two Goblin Mountaineers for his maindeck at this point. 
 
 The third wave of packs kicked off with Wooly Thoctar, Bloodpyre Elemental, Naya Panorama, and Skelotinize before drying up to almost nothing by pick five. It was obvious that not only had he been hooked into Naya by Ikeda but there were clearly more Naya drafters than the table could support. 
 
@@ -681,7 +685,9 @@ There has never been two non-Japanese in the finals of a Japanese Grand Prix and
 
 ### Game 1
 
-![](https://i.ormos.uk/ab/34/ab34ca22645cbfaff3d9035fac56e860f6388af56daca58494ffaf53b7b5819a.jpg)Nakajima led off with Wild Nacatl and almost made a hasty attack before playing Mountain. He managed to catch himself in time and got in for two then followed up with Goblin Mountaineer. There were way too many Naya drafters at this table if that guy was making a maindeck appearance – either out of a canny read or desperation. 
+![](https://i.ormos.uk/ab/34/ab34ca22645cbfaff3d9035fac56e860f6388af56daca58494ffaf53b7b5819a.jpg)
+
+Nakajima led off with Wild Nacatl and almost made a hasty attack before playing Mountain. He managed to catch himself in time and got in for two then followed up with Goblin Mountaineer. There were way too many Naya drafters at this table if that guy was making a maindeck appearance – either out of a canny read or desperation. 
 
 Olivier had an Obelisk into Magma Spray for the Nacatl but Nakajima just smiled and played another. Olivier sent a member of the Rip-Clan crashing in for two and braced to take three back from the Plains-less Nakajima. 
 
@@ -701,7 +707,9 @@ Elvish Visionary and Druid of the Anima came down from the now green-enabled Oli
 
 The Hall of Famer played Magma Spray to kill the Welkin Guide mid-combat and fell to two. Nakajima played Vithian Stinger. It was now or never for Olivier who attacked Nakajima down to four with his Thorn-Thrash. Nakajima attacked with everyone except the Stinger and Oli asked if he wanted to send him as well. Nakajima wagged a finger at him. Olivier played Angelsong to fog and Nakajima called for Dragon Fodder. Olivier knocked on his deck. “I need one card!”
 
-![](https://i.ormos.uk/1c/90/1c907d4e075541a58e46e0c6010d419ce8c34196bb08d7d15ed22ccdb10128d2.jpg)He played the Rhox Charger that his deck offered but Nakajima was ready to put everything in the path of the 5/5 trampler, which was not enough for Olivier to force Game 3. He extended his hand and congratulated Nakajima on going to the semifinals against Mitamura who had apparently blown out his Yokohama rival in two brutally quick games. 
+![](https://i.ormos.uk/1c/90/1c907d4e075541a58e46e0c6010d419ce8c34196bb08d7d15ed22ccdb10128d2.jpg)
+
+He played the Rhox Charger that his deck offered but Nakajima was ready to put everything in the path of the 5/5 trampler, which was not enough for Olivier to force Game 3. He extended his hand and congratulated Nakajima on going to the semifinals against Mitamura who had apparently blown out his Yokohama rival in two brutally quick games. 
 
 “I actually had two cards I could draw there,” sighed Olivier as he showed off the Sigil of Distinction and Welkin Guide, either of which would have won him the game. “I should also not have Magma Sprayed the flier in case I drew a Branching Bolt,” he clucked at himself, thinking about how he could have played the match differently.
 
@@ -720,7 +728,9 @@ There was a good time vibe in the air as Pro Tour Charleston teammates Mitamura 
 
 ### Game 1
 
-![](https://i.ormos.uk/08/0c/080ce2e3912755f8893771e700cacbb815011b20186ca46edcc1fb4a89e4c417.jpg)Nakajima led off with Nacatl while Mitamura played Knight of the Skyward Eye into Court Archers and attacked for three. Nakajima – who had started the game with only six cards and did not have the right array of lands to make his Nacatl big. Mitamura sent in the Knight and Nakajima took three. He was representing a Resounding Roar but with four mana available to pump the exalted Knight to 6/6 he would just be throwing away two cards to tap Mitamura out. 
+![](https://i.ormos.uk/08/0c/080ce2e3912755f8893771e700cacbb815011b20186ca46edcc1fb4a89e4c417.jpg)
+
+Nakajima led off with Nacatl while Mitamura played Knight of the Skyward Eye into Court Archers and attacked for three. Nakajima – who had started the game with only six cards and did not have the right array of lands to make his Nacatl big. Mitamura sent in the Knight and Nakajima took three. He was representing a Resounding Roar but with four mana available to pump the exalted Knight to 6/6 he would just be throwing away two cards to tap Mitamura out. 
 
 Mitamura played Manaplasm and was having a good time when he got to flash out Quasali Ambusher and make it a 4/4. Nakajima – laughing with his teammate the whole time – went to his sideboard for Game 2. 
 
@@ -730,7 +740,9 @@ Mitamura played Manaplasm and was having a good time when he got to flash out Qu
 
 Nakajima had to mulligan a hand that was land heavy and did not support the spells he did have in hand. He kept the second. Mitamura played Akrasan Squire which attacked past two Dragon Fodder tokens. He added Steward of Valeron before Nakajima made a 7/7 Thunder-Thrash Elder, which I hear is pretty good against a green-white deck. 
 
-![](https://i.ormos.uk/66/be/66be7b81f6ca3af6ab97a7e6ff6c325a6f4f247018e18a746fa2c510a48fdc6b.jpg)Mitamura made a Knight and another Steward. Nakajima got in for seven and played Bant Battlmage. Mitamura sent in the two Stewards and the Knight and played a turn four Cavern Thoctar. Optimistically, Mitamura nudged his Squire in the way of the Elder but Bant Battlemage gave it trample. Soul’s Fire did the remaining damage. It was a turn five kill for Nakajima. The crowd roared and the good times draft moved onto one more game.
+![](https://i.ormos.uk/66/be/66be7b81f6ca3af6ab97a7e6ff6c325a6f4f247018e18a746fa2c510a48fdc6b.jpg)
+
+Mitamura made a Knight and another Steward. Nakajima got in for seven and played Bant Battlmage. Mitamura sent in the two Stewards and the Knight and played a turn four Cavern Thoctar. Optimistically, Mitamura nudged his Squire in the way of the Elder but Bant Battlemage gave it trample. Soul’s Fire did the remaining damage. It was a turn five kill for Nakajima. The crowd roared and the good times draft moved onto one more game.
 
   
 
@@ -740,7 +752,9 @@ It was not a good sign for Mitamura’s deck when he had no turn two play. Nakaj
 
 Mitamura played a Steward and the two friends traded pokes for two until Mitamura dropped a Yoked Plowbeast onto the field of battle. Nakajima sighed. He had his sixth land for the Realm Razer but was behind on the board. He sent his Canonist in and used Naya Charm to finish off the fatty when it blocked. Bant Battlemage blocked the Steward but Mitamura was at seven mana the hard way and launched another Yoked fatty. 
 
-![](https://i.ormos.uk/84/62/84622e4292d2e534969bbbd053035653f47d716b49dc16418b6ea22bcc4f2a2f.jpg)All Nakajima drew were lands while Mitamura was playing Topan Ascetic and Knight of Skyward Eye. Nakajima knew his time in the Top 8 was up and if he felt bad about losing to a deck playing Soul’s Might, Keeper of Progenitus, and an Ooze Garden it was not showing on his smiling face. 
+![](https://i.ormos.uk/84/62/84622e4292d2e534969bbbd053035653f47d716b49dc16418b6ea22bcc4f2a2f.jpg)
+
+All Nakajima drew were lands while Mitamura was playing Topan Ascetic and Knight of Skyward Eye. Nakajima knew his time in the Top 8 was up and if he felt bad about losing to a deck playing Soul’s Might, Keeper of Progenitus, and an Ooze Garden it was not showing on his smiling face. 
 
 Mitamura explained his unusual card choices by showing that there was nothing else playable in green and white in his sideboard: “I think it is better than basic land.”
 
@@ -759,7 +773,9 @@ Pro Tour Yokohama finalist Kazuya Mitamura was at a huge disadvantage in this ma
 
 Mitamura led off with Akrasan Squire and then faced his deck’s worst nightmare – Tidehollow Sculler – his hand’s contents would be laid bare. Mihara tried to contain his laughter and disbelief as he took Naya Battlemage and left a bashful Mitamura with lands and Keeper of Progenitus. 
 
-![](https://i.ormos.uk/0b/08/0b08e9a1da95889c40257c6f7b8d0471de732fd474a89899ce2f72a874d3a212.jpg)Mihara attacked with his Sculler and was stunned – nay shocked beyond belief – when he was waylaid by a Quasali Ambusher. The crowd roared with delight at this unseemly turn of events. Mihara double checked his notations to make sure he had not seen the card and finally he let reality sink in and Mitamura would get his card back. Mihara made a Battlemage of his own – Esper flavored – and took three from the Ambusher before Mitamura played his savagely salvaged Battlemage.
+![](https://i.ormos.uk/0b/08/0b08e9a1da95889c40257c6f7b8d0471de732fd474a89899ce2f72a874d3a212.jpg)
+
+Mihara attacked with his Sculler and was stunned – nay shocked beyond belief – when he was waylaid by a Quasali Ambusher. The crowd roared with delight at this unseemly turn of events. Mihara double checked his notations to make sure he had not seen the card and finally he let reality sink in and Mitamura would get his card back. Mihara made a Battlemage of his own – Esper flavored – and took three from the Ambusher before Mitamura played his savagely salvaged Battlemage.
 
 Tidehollow Strix but no fourth land came down for Mihara who still had white open to use the gentler side of the Battlemage. Quasali Ambusher attacked and traded with the Strix. Even though it was known to everyone Mitamura did not want to play his walking Mana Flare which would help Mihara more than it would help his mana-glutted self.
 
@@ -787,7 +803,9 @@ Game 2
 
 Mitamura could not get to his sideboard fast enough as the Keeper and Ooze Garden came out for two Dispeller’s Capsules. Mitamura leaned over to show the Japanese coverage staff the cards he was bringing out and Mihara asked if he could see as well. Mitamura rolled his eyes and showed him the Mana Flare guy – he kept the Ooze Garden a secret garden until the deck lists were published. 
 
-![](https://i.ormos.uk/60/b0/60b0a50ec49a25ebd0cf2de7bd4e0c00a6ba28e1f341395f1f4156d3b1fc4c6a.jpg)Mitamura quickly shipped his opening hand back to a roar of laughter from the crowd behind him – who knows what unlikely cards it could have contained. He kept the next six and played Dispeller’s Capsule on turn two and Manaplasm on turn three. With Court Archers he attacked for five on the next turn. 
+![](https://i.ormos.uk/60/b0/60b0a50ec49a25ebd0cf2de7bd4e0c00a6ba28e1f341395f1f4156d3b1fc4c6a.jpg)
+
+Mitamura quickly shipped his opening hand back to a roar of laughter from the crowd behind him – who knows what unlikely cards it could have contained. He kept the next six and played Dispeller’s Capsule on turn two and Manaplasm on turn three. With Court Archers he attacked for five on the next turn. 
 
 Etherium Sculpter and Tower Gargoyle came down but a Godtoucher allowed the Manaplasm to attack a flabbergasted Mihara down to 9. Puppet Conjurer was fed to a Bone Splinters to kill the Manaplasm. Sanctum Gargoyle brought it back and he was able to play it all on the same turn thanks to the Sculpter. Mihara could see this game slipping away very quickly when he played Sigiled Paladin and Miharas chumped the Godtoucher with Sanctum Gargoyle.
 

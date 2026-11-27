@@ -73,7 +73,9 @@ Unless you were in Italy this past weekend, **Magic** has been a waiting game fo
 
 [Grand Prix–Rimini](/en/articles/event-coverage/undated/domingo-ottati-gives-rimini-a-rude-awakening-2) closed the books on *Mirrodin* block, at least as far as major tournaments are concerned. There are still a smattering of Pro Tour Qualifiers on the ledger, but the next time a Grand Prix event rolls around it will be a Limited tournament that introduces the world to the newest block. 
 
-![](https://i.ormos.uk/df/2b/df2bff2e02fed8a10e8463b28688867d7b83efac10d9871b10c8bb390d33a45e.jpg)DCI overlord Ilja Rotelli had to be pleased as five of his countrymen made the quarterfinals in Rimini, the last *Mirrodin* Block Constructed Grand Prix. In the end, it was Italian Domingo Ottati who hoisted the trophy by playing blue-green control, taking out Tooth and Nail in the finals. 
+![](https://i.ormos.uk/df/2b/df2bff2e02fed8a10e8463b28688867d7b83efac10d9871b10c8bb390d33a45e.jpg)
+
+DCI overlord Ilja Rotelli had to be pleased as five of his countrymen made the quarterfinals in Rimini, the last *Mirrodin* Block Constructed Grand Prix. In the end, it was Italian Domingo Ottati who hoisted the trophy by playing blue-green control, taking out Tooth and Nail in the finals. 
 
 Despite what would seem like an optimistic finals that featured Tooth and Nail and blue-green, there were four Affinity decks in the Top 8, which has to leave players looking in the new set for answers to the deck in Standard format. R&D apparently has tried to create a flavor-based set in Champions and offered none of the mechanical hooks that have been a prominent feature in recent block releases. In previous seasons, Madness, Astral Slide, and Affinity have all dominated and then been supplanted by the next mechanic in previous seasons. 
 
@@ -83,7 +85,9 @@ There will be no decks served up quite as obviously in the new set. Will players
 
 That is the question Aeo Paquette is asking himself about Pro Tour–Columbus. The 19-year-old Canadian has made the Top 8 in both Pro Tours he has ever played, but he is unsure about which event he will be attending next. After making the Top 8 of Pro Tour–Amsterdam, Aeo -- a self-proclaimed "Professional Slacker" -- did not attend the next few events that he found himself qualified to play in. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds04/aeo_wtw.jpg)“I didn't want to go to Kobe because it was far/expensive and I didn't test very much…I was starting to play less at the time," he explained. “After that I quit for several months. So I didn't go to the next limited PT that Herzog won 'cause I wasn't playing at the time.”
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds04/aeo_wtw.jpg)
+
+“I didn't want to go to Kobe because it was far/expensive and I didn't test very much…I was starting to play less at the time," he explained. “After that I quit for several months. So I didn't go to the next limited PT that Herzog won 'cause I wasn't playing at the time.”
 
 He eventually squandered his PT points and was actually not qualified for Worlds on the basis of his Amsterdam experience. Paquette had finished second to Andrew Cuneo last year in the first ***Magic** Online* Worlds Qualifier and in some way it got him to Worlds this year. They say nobody ever actually quits the game, and the avid MTGO player soon found himself being drawn back.
 
@@ -97,7 +101,9 @@ His Standard deck build was interesting for a number of reasons. In addition to 
 
 As for the absence of the [Myr Enforcer](https://web.archive.org/web/20040916000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myr+Enforcer)s, “I played [Somber Hoverguard](https://web.archive.org/web/20040916000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Somber+Hoverguard)s instead, mostly because I needed cards to imprint on the Mox but I think it was just better in my deck also because of the four [Cranial Plating](https://web.archive.org/web/20040916000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cranial+Plating).”
 
-![](https://i.ormos.uk/42/e4/42e46fd50c27acc369ea5fe3d67b62141042161685830f2e9c9dd588cac41326.jpg)Paquette piloted his deck through two rounds of the Top 8 and met up with Nuijten in the finals. Between the prize differential and the standings in the Player-of-the-Year race for the end-of-year payout, there was more money on the line than there had ever been before in a single match of **Magic**. 
+![](https://i.ormos.uk/42/e4/42e46fd50c27acc369ea5fe3d67b62141042161685830f2e9c9dd588cac41326.jpg)
+
+Paquette piloted his deck through two rounds of the Top 8 and met up with Nuijten in the finals. Between the prize differential and the standings in the Player-of-the-Year race for the end-of-year payout, there was more money on the line than there had ever been before in a single match of **Magic**. 
 
 “A lot of things were going through my mind," Paquette said. "I was already very happy to come so far and I knew how bad the match up was, but still the idea of being World Champion and all of the extra money kept popping onto my head. All I can say is I've never been so nervous in my life. I've never even come close to being as nervous as I was there before in my life so I didn't really know what to do myself.”
 
@@ -109,7 +115,9 @@ Still it marked an improvement from his last Pro Tour Top 8, when Paquette did n
 
 “I'm not completely sure but currently I'm thinking I'm not going to go to the Extended one because I've never played Extended before and I know absolutely nothing about the format. So if I go I would like to be prepared and that means a *lot* of play testing which I have never done.”
 
-![](https://i.ormos.uk/ff/5c/ff5c8e0de5fb2840d51a58f29ac47c5f35131022a3f5fdda219492a947808dba.jpg)Personally, I think success may have come to easily for young Aeo. He does not seem to have a sense of what a prodigious achievement making the Top 8 of his first two Pro Tours actually is. I am not completely sure, but I think you need to go back as far as Shawn “Hammer” Regnier and Preston Poulter who accomplished the feat in the first two PTs. I believe Kamiel was playing in his second Pro Tour when he made his first Top 8, and even if there is one or two more examples it is a remarkable and rare feat.
+![](https://i.ormos.uk/ff/5c/ff5c8e0de5fb2840d51a58f29ac47c5f35131022a3f5fdda219492a947808dba.jpg)
+
+Personally, I think success may have come to easily for young Aeo. He does not seem to have a sense of what a prodigious achievement making the Top 8 of his first two Pro Tours actually is. I am not completely sure, but I think you need to go back as far as Shawn “Hammer” Regnier and Preston Poulter who accomplished the feat in the first two PTs. I believe Kamiel was playing in his second Pro Tour when he made his first Top 8, and even if there is one or two more examples it is a remarkable and rare feat.
 
 Amazingly, Paquette does not have the sense of entitlement many players with consecutive Top 8 berths would find themselves saddled with. Despite winning $40,000 and coming a match shy of almost $60,000, he is reluctant to anticipate similar success in the future -- although he will not dismiss it as possibility. 
 

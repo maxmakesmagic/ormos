@@ -48,7 +48,9 @@ Both these Pro Teams scraped into day two with two losses. The pressure is on no
 
 <table><thead><tr><th></th>&#10;		<th></th>&#10;	</tr></thead><tbody><tr><td>A Mike Pustilnik</td>&#10;			<td>vs.</td>&#10;			<td>Franck Canu</td>&#10;		</tr><tr><td>B Ed Fear</td>&#10;			<td>vs.</td>&#10;			<td>Raphael Levy</td>&#10;		</tr><tr><td>C Andrew Stokinger</td>&#10;			<td>vs.</td>&#10;			<td>Christophe Haim</td>&#10;		</tr></tbody></table>
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a919.jpg)Mikey P has an unwinnable matchup and Andy Stokinger shouldn't lose so the key match is the black-white mirror between Ed Fear and Raphael Levy. Last time these met was at World's 2000 where Levy came out the better.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a919.jpg)
+
+Mikey P has an unwinnable matchup and Andy Stokinger shouldn't lose so the key match is the black-white mirror between Ed Fear and Raphael Levy. Last time these met was at World's 2000 where Levy came out the better.
 
 ### Game 1
 
@@ -72,7 +74,9 @@ Fear attacked with his morph anyway and Levy made it a little smaller and his Go
 
 Both Stokinger and Pustilnik went 1-0 up at this point to give Free Pat Chapin a lead across the board.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a918.jpg)Levy Gooed the Feeder and nailed the Wretch with a [Misery Charm](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Misery+Charm) before bolstering his defenses with a [Starlight Invoker](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Starlight+Invoker).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a918.jpg)
+
+Levy Gooed the Feeder and nailed the Wretch with a [Misery Charm](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Misery+Charm) before bolstering his defenses with a [Starlight Invoker](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Starlight+Invoker).
 
 Fear ran three morphs in only for Levy to pick the right blocks and send a [Skinthinner](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner) and [Wingbeat Warrior](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wingbeat+Warrior) to the graveyard for no loss. Fear had to finish the Goo off with [Profane Prayers](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Profane+Prayers) before it got to dangerous.
 
@@ -86,7 +90,9 @@ Haim and Canu both leveled their matches to keep the overall match alive.
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a917.jpg)Game 3 of the seat C match between Haim and Stokinger saw Haim's white-blue deck holding off Stokinger's [Mistform Warchief](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Warchief), morph and a [Callous Oppressor](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Callous+Oppressor) with a [Noble Templar](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noble+Templar) and [Aven Redeemer](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Redeemer). Haim was also playing red and when he found a mountain he was able to get rid of the Oppressor with [Scattershot](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scattershot).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a917.jpg)
+
+Game 3 of the seat C match between Haim and Stokinger saw Haim's white-blue deck holding off Stokinger's [Mistform Warchief](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Warchief), morph and a [Callous Oppressor](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Callous+Oppressor) with a [Noble Templar](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noble+Templar) and [Aven Redeemer](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Redeemer). Haim was also playing red and when he found a mountain he was able to get rid of the Oppressor with [Scattershot](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scattershot).
 
 This was starting to look like the key match as Canu had just summoned a turn 4 [Forgotten Ancient](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forgotten+Ancient) to give Pustilnik real worries in his game.
 

@@ -574,7 +574,9 @@ Is Dark Ritual one of the most explosive mana cards ever printed? Yes. Does my d
 
 All fine reasons for its inclusion, but I'm not using it. Not a single copy.
 
-![](https://i.ormos.uk/24/ec/24eceb78558d679b1d919a2514540de4509a70ab32b631a8b5b1ee1ce223185f.jpg)Talk about agonizing over a decision. I've read all of the Message Boards posts concerning Dark Ritual, both for and against. Look, I know Dark Ritual is a classic and an iconic card for Black. I know people are worried about the secondary market prices on ***Magic** Online*. As a result, I know people are going to scream bloody murder at my leaving Dark Ritual on the sidelines.
+![](https://i.ormos.uk/24/ec/24eceb78558d679b1d919a2514540de4509a70ab32b631a8b5b1ee1ce223185f.jpg)
+
+Talk about agonizing over a decision. I've read all of the Message Boards posts concerning Dark Ritual, both for and against. Look, I know Dark Ritual is a classic and an iconic card for Black. I know people are worried about the secondary market prices on ***Magic** Online*. As a result, I know people are going to scream bloody murder at my leaving Dark Ritual on the sidelines.
 
 My first instinct was to leave Dark Ritual out for three reasons: 1) I felt like my mana was fine with Charcoal Diamond and twenty-three Swamps, 2) I need creatures in my deck more than anything, and my non-creature slots should either be creature removal or something that messes with the graveyard, and 3) It's not a particularly strong thematic choice. 
 

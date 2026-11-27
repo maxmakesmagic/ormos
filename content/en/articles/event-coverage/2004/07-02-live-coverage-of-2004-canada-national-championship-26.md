@@ -44,7 +44,9 @@ archive_source:
   sha256: 373bbd9281122fa94cbe28b3b238c8fbf3ee8e46c8f5a9c6d6409b2fb4ba9250
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/dr1_1.jpg)Mark Zajdner is probably best known for his lack of an Inside Voice.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/dr1_1.jpg)
+
+Mark Zajdner is probably best known for his lack of an Inside Voice.
 
 After doing no testing, Zajdner and visiting ex-American Champ Josh Wagener decided that he should play mono-black in anticipation of a huge blue-white presence this weekend. That intuition paid off big time, handing him a 3-0 performance in the first half of Day 1. Now he just needs to draft a spicy deck and he'll be well on his way to making Top 8 this weekend. Zajdner is confident of his chances. He's constantly drafting on Magic Online, and has played with *Fifth Dawn* a fair amount.
 

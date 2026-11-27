@@ -93,7 +93,9 @@ render_recovery:
   - Nostalgic Dreams
   occurrences: 96
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a874.jpg)Playing off in this quarterfinal were Kai Budde and Raphaël Lévy. They have played multiple times before and generally, Lévy has not been very lucky. Raphaël exclaimed "OK, let's hope I can break the curse," after having won the die-roll. Then he started pondering whether to play or draw.
+![](http://www.wizards.com/sideboard/images/gpnap02/a874.jpg)
+
+Playing off in this quarterfinal were Kai Budde and Raphaël Lévy. They have played multiple times before and generally, Lévy has not been very lucky. Raphaël exclaimed "OK, let's hope I can break the curse," after having won the die-roll. Then he started pondering whether to play or draw.
 
 "So, your deck is \[terrible\], and you're playing... red-green probably... I'll play."
 
@@ -159,7 +161,9 @@ Kai tried to replay the Wild Mongrel and Raphaël Syncopated. Kai played a Halbe
 
 Kai chose to play first, hoping for his combo. "Come on, Mongrel Wurm, time to go."
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a873.jpg)There was indeed a turn two Wild Mongrel, and everybody at the table - including the table judge - said "Of course." However, nothing happened turn three. Raphaël played a Reborn Hero and Kai Flamebursted it at end of turn. Then Kai played a Nantuko Disciple. Raphaël played an Aven Fisher and passed the turn. Kai sent in the Mongrel and pumped it up with the Disciple. Raphaël dropped to 12 and Kai played a Halberdier. Raphaël Psionic Gifted his Aven Fisher and killed the Halberdier. Then played a land and a Gray Ogre/Auramancer.
+![](http://www.wizards.com/sideboard/images/gpnap02/a873.jpg)
+
+There was indeed a turn two Wild Mongrel, and everybody at the table - including the table judge - said "Of course." However, nothing happened turn three. Raphaël played a Reborn Hero and Kai Flamebursted it at end of turn. Then Kai played a Nantuko Disciple. Raphaël played an Aven Fisher and passed the turn. Kai sent in the Mongrel and pumped it up with the Disciple. Raphaël dropped to 12 and Kai played a Halberdier. Raphaël Psionic Gifted his Aven Fisher and killed the Halberdier. Then played a land and a Gray Ogre/Auramancer.
 
 Once again the Mongrel came over and was pumped by the Disciple. Kai tapped four lands and played Chainflinger. Raphaël untapped. He finally attacked with the Auramancer. Kai shrugged and adjusted his life total to 18. Raphaël did nothing but pass the turn with four islands and a Plains untapped. It was no secret what was in his hand. And it was no secret that Kai Budde was the biggest miser ever when he drew Petravark from the top of his deck.
 

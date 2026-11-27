@@ -101,7 +101,9 @@ Kelly, unfortunately, was busy in Baltimore covering U.S. Nationals and forgot h
 
 ### Something Old, Something New
 
-[![Recycle](https://i.ormos.uk/38/60/3860af8ae7ef74183ce8df70971e53cf4e3bb234a45d9ed1202963dd3cfc0e83.jpg)](https://web.archive.org/web/20070806000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Recycle)The center of today's topic is an age-old design dilemma. **Magic** is currently in its fourteenth year. We make three to four sets a year. That's a lot of cards. And it's a lot of ideas. What this means is that often when you approach a problem you discover that you've visited the same problem in the past. When you do, you are always tempted to see what choices you made last time. Which, of course, brings up the idea of reusing what you did before rather than coming up with something new.
+[![Recycle](https://i.ormos.uk/38/60/3860af8ae7ef74183ce8df70971e53cf4e3bb234a45d9ed1202963dd3cfc0e83.jpg)](https://web.archive.org/web/20070806000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Recycle)
+
+The center of today's topic is an age-old design dilemma. **Magic** is currently in its fourteenth year. We make three to four sets a year. That's a lot of cards. And it's a lot of ideas. What this means is that often when you approach a problem you discover that you've visited the same problem in the past. When you do, you are always tempted to see what choices you made last time. Which, of course, brings up the idea of reusing what you did before rather than coming up with something new.
 
 Today, I'd thought I'd look at the pros and cons of reusing old ideas and then give a few tips on how exactly R&D decides to choose old over new. We'll begin with the pros:
 
@@ -125,7 +127,9 @@ My point is that a new card has the ability to create new memories, but an old o
 
 **Pro #3 – You Don't Have To Reinvent the Wheel**
 
-[![Goblin_Tinkerer](https://i.ormos.uk/d3/b1/d3b1778a773d5a26b9caa9a2e681d24493089fcfb500dfba0808f29144d53ec8.jpg)](https://web.archive.org/web/20070806000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Goblin%2BTinkerer)I've talked often (such as [Last week](/en/articles/makingmagic/2007/07-30-whats-the-problem), for instance) about how **Magic** design requires a lot of problem solving. So when designers come across a problem that we've already solved the following thought does cross our mind: we already solved it! Yes, we are gluttons for punishment and a wee bit stubborn, so we do try to find other answers. But in the end, it's important for us to remember that one of the viable answers is to use the known solution.
+[![Goblin_Tinkerer](https://i.ormos.uk/d3/b1/d3b1778a773d5a26b9caa9a2e681d24493089fcfb500dfba0808f29144d53ec8.jpg)](https://web.archive.org/web/20070806000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Goblin%2BTinkerer)
+
+I've talked often (such as [Last week](/en/articles/makingmagic/2007/07-30-whats-the-problem), for instance) about how **Magic** design requires a lot of problem solving. So when designers come across a problem that we've already solved the following thought does cross our mind: we already solved it! Yes, we are gluttons for punishment and a wee bit stubborn, so we do try to find other answers. But in the end, it's important for us to remember that one of the viable answers is to use the known solution.
 
 **Pro #4 – Magic** **Design Is a Finite Resource**
 
@@ -181,7 +185,9 @@ How do we do that? I'm glad you asked:
 
 **#1 – Be Picky When and Where You Use Old Material**
 
-[![Vigean_Intuition](https://i.ormos.uk/c7/7e/c77e78baab7d603452b0aa2d0c42ebce1e92cd059ac78d0bf90d364eeaf96f3a.jpg)](https://web.archive.org/web/20070806000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Vigean%2BIntuition)The metaphor I'll use is that of spices. Used properly. spices can add great value to a dish. Overused, they can ruin it. Old material works best in small portions. (And yes, there are exceptions such as the bonus sheet—but then **Magic** design is all about exceptions.) This means that the designers have to be frugal with its usage. Choose times when bringing back the old item will add value to the set rather than distract for little gain.
+[![Vigean_Intuition](https://i.ormos.uk/c7/7e/c77e78baab7d603452b0aa2d0c42ebce1e92cd059ac78d0bf90d364eeaf96f3a.jpg)](https://web.archive.org/web/20070806000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Vigean%2BIntuition)
+
+The metaphor I'll use is that of spices. Used properly. spices can add great value to a dish. Overused, they can ruin it. Old material works best in small portions. (And yes, there are exceptions such as the bonus sheet—but then **Magic** design is all about exceptions.) This means that the designers have to be frugal with its usage. Choose times when bringing back the old item will add value to the set rather than distract for little gain.
 
 **#2 – Show the Old Material in a New Light**
 

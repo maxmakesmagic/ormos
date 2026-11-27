@@ -253,7 +253,9 @@ render_recovery:
   - Llawan, Cephalid Empress
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/979.jpg)Rob Dougherty: the owner of Your Move Games, a pro tour champion, and all around great guy. Rob had three byes today, so it gave him time to sit down with me and discuss his deck choice for the day. 
+![](http://www.wizards.com/sideboard/images/gpmil02/979.jpg)
+
+Rob Dougherty: the owner of Your Move Games, a pro tour champion, and all around great guy. Rob had three byes today, so it gave him time to sit down with me and discuss his deck choice for the day. 
 
 **Ben:** How are you doing today Rob?
 
@@ -277,7 +279,9 @@ render_recovery:
 
 **B:** You didn't run Chatter of the Squirrel though.
 
-![](https://i.ormos.uk/6e/ca/6ecab2258035d473a572637fa7e4caf0448db2dcaef1ea343778693d259967b2.jpg)**R:** No, I like the larger beefy creatures. The last change I made to the deck was to replace Werebear with Llanowar Elves. Yesterday, I decided to run the (Spellbane) Centaurs main deck. Since I had so many three drop spells, it was more important to me to have eight one drop mana creatures than to have the Bear, since I wanted the best chance of dropping a three drop on turn two.
+![](https://i.ormos.uk/6e/ca/6ecab2258035d473a572637fa7e4caf0448db2dcaef1ea343778693d259967b2.jpg)
+
+**R:** No, I like the larger beefy creatures. The last change I made to the deck was to replace Werebear with Llanowar Elves. Yesterday, I decided to run the (Spellbane) Centaurs main deck. Since I had so many three drop spells, it was more important to me to have eight one drop mana creatures than to have the Bear, since I wanted the best chance of dropping a three drop on turn two.
 
 **B:** So how much did you test this deck in the last few days?
 

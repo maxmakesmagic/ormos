@@ -47,7 +47,9 @@ I mentioned Joe Crosby in my Limited articles on StarCityGames.com. Joe is an in
 
 ### Nick Eisel 5 points
 
-![](http://www.wizards.com/sideboard/images/gpla02/895.jpg)Sooo, ThatsGameBoys. Nick has been showing the world what it means to draft Onslaught Limited. He Top 8’d both Grand Prix-LA and Grand Prix-Philly, which were virtually the same format as Chicago (there is no sealed portion in Chicago). He writes a lot and makes his theories known and you know he puts a lot of time into being number one on Magic Online. Nick knows his Onslaught and for five points, you could do a lot worse. The only thing holding him back is his lack of ability to follow my Limited theories…
+![](http://www.wizards.com/sideboard/images/gpla02/895.jpg)
+
+Sooo, ThatsGameBoys. Nick has been showing the world what it means to draft Onslaught Limited. He Top 8’d both Grand Prix-LA and Grand Prix-Philly, which were virtually the same format as Chicago (there is no sealed portion in Chicago). He writes a lot and makes his theories known and you know he puts a lot of time into being number one on Magic Online. Nick knows his Onslaught and for five points, you could do a lot worse. The only thing holding him back is his lack of ability to follow my Limited theories…
 
 ### Sigurd Eskeland 6 points
 
@@ -55,7 +57,9 @@ The man won a Pro Tour. Granted, it was Constructed and Lin Sivvi was the broken
 
 ### Jon Finkel 16 points
 
-![](http://www.wizards.com/sideboard/images/MI01/969.jpg)Here is one of three players on this list that will cost you more than 10 points. Jon’s game may have faltered a little, but Rochester Draft has always been his best format. He is one of the best to ever pick up the cards and I am sure he doesn’t want his star burning out just yet. Expect to see him at the top of the standings in this event.
+![](http://www.wizards.com/sideboard/images/MI01/969.jpg)
+
+Here is one of three players on this list that will cost you more than 10 points. Jon’s game may have faltered a little, but Rochester Draft has always been his best format. He is one of the best to ever pick up the cards and I am sure he doesn’t want his star burning out just yet. Expect to see him at the top of the standings in this event.
 
 ### Jürgen Hahn 0 points
 
@@ -75,7 +79,9 @@ Down, but not out. That seems to be the story of Mike Long’s career. Every tim
 
 I am not that familiar with Christian either, so I will again let my esteemed colleague Kai field this one: 
 
-![](http://www.wizards.com/sideboard/images/Worlds2001/837.jpg)“Christian Lührs got frustrated with the Magical cards roughly two years ago. He posted excellent finishes by making the Top 8 at 1999 New York, the Top 4 at 1999 Chicago and Top 4 with Patrick Mello and Stephan Valkyser at the Team PT in 2000 New York. He decided to stop going to overseas events he was qualified for, concentrated on university and fell off the gravy train. He wouldn’t even travel to PTQs outside of Hamburg. The local shop had a PTQ for PT-Chicago and he attended that one – and won, unsurprisingly. He did work on the format with Patrick Mello, Marco Blume, me and other locals and is well-prepared, which makes this three-time Top 8 finisher quite a bargain for just 3 points.” 
+![](http://www.wizards.com/sideboard/images/Worlds2001/837.jpg)
+
+“Christian Lührs got frustrated with the Magical cards roughly two years ago. He posted excellent finishes by making the Top 8 at 1999 New York, the Top 4 at 1999 Chicago and Top 4 with Patrick Mello and Stephan Valkyser at the Team PT in 2000 New York. He decided to stop going to overseas events he was qualified for, concentrated on university and fell off the gravy train. He wouldn’t even travel to PTQs outside of Hamburg. The local shop had a PTQ for PT-Chicago and he attended that one – and won, unsurprisingly. He did work on the format with Patrick Mello, Marco Blume, me and other locals and is well-prepared, which makes this three-time Top 8 finisher quite a bargain for just 3 points.” 
 
 ### Zachary Parker 5 points
 
@@ -87,7 +93,9 @@ Ben decided to focus more on tennis than Magic, but he still knows how to game. 
 
 ### Ben Stark 15 points
 
-![](http://www.wizards.com/sideboard/images/GPDET01/186fm13Stark.jpg)This Ben, while less well known, is one of the most complete gamers I have met in my time on the Pro Tour. Ben is another Southeastern phenomenon. He has given up slots in the finals of more PTQs than I have attended. He usually is capable of riding his rating to PTs. This year, Ben is finally starting to come into his own. He had a fantastic 8-1 start at PT-Houston and this was after winning the Last Chance PTQ to make it. Expect a lot more to come from this player. The one thing you have to ask yourself: the whole world agrees he is one of the best drafters in the world. Why does he not do better in Pro Tours? Hopefully he can overcome this psychological hump.
+![](http://www.wizards.com/sideboard/images/GPDET01/186fm13Stark.jpg)
+
+This Ben, while less well known, is one of the most complete gamers I have met in my time on the Pro Tour. Ben is another Southeastern phenomenon. He has given up slots in the finals of more PTQs than I have attended. He usually is capable of riding his rating to PTs. This year, Ben is finally starting to come into his own. He had a fantastic 8-1 start at PT-Houston and this was after winning the Last Chance PTQ to make it. Expect a lot more to come from this player. The one thing you have to ask yourself: the whole world agrees he is one of the best drafters in the world. Why does he not do better in Pro Tours? Hopefully he can overcome this psychological hump.
 
 ### James Stroud 0 points
 
@@ -95,7 +103,9 @@ I need a zero, I’m holdin on for a zero… okay, I’ll stop now. James Stroud
 
 ### Cole Swannack 9 points
 
-![](http://www.wizards.com/sideboard/images/GPBRI01/a927.jpg)Speaking of young phenomenon, Cole has turned the continent of Australia on its head. He won his National Championships in New Zealand and he finished Top 24 at Worlds. He games constantly on Magic Online and is frequently seen chatting it up with some of the top pros in the game. Cole has the poise and talent of someone several years older than he. A fine pick at 9 points.
+![](http://www.wizards.com/sideboard/images/GPBRI01/a927.jpg)
+
+Speaking of young phenomenon, Cole has turned the continent of Australia on its head. He won his National Championships in New Zealand and he finished Top 24 at Worlds. He games constantly on Magic Online and is frequently seen chatting it up with some of the top pros in the game. Cole has the poise and talent of someone several years older than he. A fine pick at 9 points.
 
 ### Michael Thomas 0 points
 
@@ -107,7 +117,9 @@ The last surviving member of Team Sped keeps hanging around. Joe was always the 
 
 ### David Williams 7 points
 
-![](http://www.wizards.com/sideboard/images/Worlds2001/693.jpg)Last, and far from least, is Dave Williams. Dave, as we all know, has taken some time off from the game. He kept up with Magic Online, and his comeback has reflected his practice. He hasn’t missed a Pro Tour since his return, and has been at the top of the Grand Prix circuit. Dave was forced out of the game in his prime, but it seems as though he still has some fight left.
+![](http://www.wizards.com/sideboard/images/Worlds2001/693.jpg)
+
+Last, and far from least, is Dave Williams. Dave, as we all know, has taken some time off from the game. He kept up with Magic Online, and his comeback has reflected his practice. He hasn’t missed a Pro Tour since his return, and has been at the top of the Grand Prix circuit. Dave was forced out of the game in his prime, but it seems as though he still has some fight left.
 
 Now, you obviously can’t include all of these, but once you have your all-stars, look at how many points you have left and check this list to fill in the holes. This may look like a list of has-beens and wannabes, but this is a list of some of the best players you may not have heard of. If you sit down across from them, you will soon learn they are neither has-beens nor wannabes.
 

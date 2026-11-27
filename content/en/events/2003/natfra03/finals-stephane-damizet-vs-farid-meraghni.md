@@ -102,7 +102,9 @@ Fourteen rounds in total have been played, and these two players are all that re
 
 ### Game 1
 
-![](https://i.ormos.uk/55/cd/55cd0ad35a4a74552f69027a0009d0c69128cb82addbb763e5c5a2028d9f8d24.jpg)Once again Farid has a good draw. "I always get a good draw with this deck." He led off with a Cabal Therapy – "I really should have looked at your decklist more," he said. He asked for and was given a pen. "These things cost 1 euro normally, but I guess when you are going to make 2,000 euros they give you one for free."
+![](https://i.ormos.uk/55/cd/55cd0ad35a4a74552f69027a0009d0c69128cb82addbb763e5c5a2028d9f8d24.jpg)
+
+Once again Farid has a good draw. "I always get a good draw with this deck." He led off with a Cabal Therapy – "I really should have looked at your decklist more," he said. He asked for and was given a pen. "These things cost 1 euro normally, but I guess when you are going to make 2,000 euros they give you one for free."
 
 Meanwhile Stephane was trying to ignore Meraghni's banter and made a pair of Nantuko Shades. Farid Smothered one and made a Squirrel Nest and a Wild Mongrel as well. The matchup certainly did appear to be in his favor.
 
@@ -128,7 +130,9 @@ Damizet played a Graveborn Muse. Farid replied with a Llanowar Elf and Quiet Spe
 
 Stephane could only play a Rotlung Reanimator and pass the turn. Farid attacked him down to 12 and said go. It appeared that Stephane needed either a Mutilate or a Cabal Archon immediately. He drew neither and attacked, knocking Farid to twelve and killing a couple of squirrels.
 
-![](https://i.ormos.uk/2d/90/2d9069c95c008cad3e51944c16602dd1c449e741a962df665a3e91edb1ca4835.jpg)Farid's attack knocked Stephane to four. With four Zombies in play and Graveborn Muse in play he had to get rid of one, so he used Stronghold Assassin to sacrifice Rotlung Reanimator at end of turn, and then the token in his upkeep. The cards he drew gave him the card he needed – Cabal Archon. His attack killed all of Farid's men except Phantom Centaur, and Stephane had also drawn Chainer's Edict. Farid drew his last card and scooped.
+![](https://i.ormos.uk/2d/90/2d9069c95c008cad3e51944c16602dd1c449e741a962df665a3e91edb1ca4835.jpg)
+
+Farid's attack knocked Stephane to four. With four Zombies in play and Graveborn Muse in play he had to get rid of one, so he used Stronghold Assassin to sacrifice Rotlung Reanimator at end of turn, and then the token in his upkeep. The cards he drew gave him the card he needed – Cabal Archon. His attack killed all of Farid's men except Phantom Centaur, and Stephane had also drawn Chainer's Edict. Farid drew his last card and scooped.
 
 **Final Result:** Stéphane Damizet def. Farid Meraghni, 2-1
 

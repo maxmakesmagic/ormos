@@ -44,7 +44,9 @@ archive_source:
   sha256: 285e4c85f1eaa2ee1e55627058c3b5c39cc0322aa76f87afaed14d9186794f0a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/731.jpg)What better way to learn about a draft format than watch the eight players who proved to be most successful at it duke it out for the top prize.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/731.jpg)
+
+What better way to learn about a draft format than watch the eight players who proved to be most successful at it duke it out for the top prize.
 
 Going into the Top 8 as the #1 seed, Mike Pustilnik had an opportunity to choose where the draft is going to begin. He made an interesting decision. Conventional wisdom says that seats #3 and #4 are best, seat 5-7 are solid and 8-1 are pretty bad. Pustilnik chose to place his first round opponent Lawrence Creech into the much undesirable seat one, ending up in a decent seat 5, rather than take the best possible seat for himself.
 
@@ -76,7 +78,9 @@ The players cooperated with each other most of the time. Although Gurney and Eke
 
 Creech and Rose are from the same city, and play at the same store. Creech was well aware of Rose's liking for black-red. This may well have been part of the reason for him drafting a white card first, setting himself up perfectly in between two black-red players.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/729.jpg)Cornelissen and Pustilnik cooperated fully, never taking a card away from each other throughout the draft. This well may have resulted in them having the best two decks on the table. Gurney and Finkel both drafted very solid decks that will result in their match being very, very close.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/729.jpg)
+
+Cornelissen and Pustilnik cooperated fully, never taking a card away from each other throughout the draft. This well may have resulted in them having the best two decks on the table. Gurney and Finkel both drafted very solid decks that will result in their match being very, very close.
 
 Ekebom drafted a number of very solid spells, but his creature base is weak, against Klauser's moderately aggressive deck with a number of protection creatures. This match could go either way, but Klauser has an advantage, especially in the best 3 out of 5 games.
 

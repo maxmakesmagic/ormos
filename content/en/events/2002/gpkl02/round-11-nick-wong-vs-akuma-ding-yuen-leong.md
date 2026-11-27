@@ -104,7 +104,9 @@ render_recovery:
   - Refresh
   occurrences: 96
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a950.jpg)Two of Singapore's best, Nick Wong and Akuma Leong met in the first round of the second draft. Both were in high spirits, having just 3-0'd their previous pod. Naturally both wanted the trend to continue, but you know what they say: Two men enter, one man leaves.
+![](http://www.wizards.com/sideboard/images/gpkl02/a950.jpg)
+
+Two of Singapore's best, Nick Wong and Akuma Leong met in the first round of the second draft. Both were in high spirits, having just 3-0'd their previous pod. Naturally both wanted the trend to continue, but you know what they say: Two men enter, one man leaves.
 
 Nick's deck is best described as White Weenie. He has a bunch of white dorks and Divine Sacrament. Black is his second colour and provides him with extensive removal options - from Mutilate right down to Afflict.
 
@@ -116,7 +118,9 @@ Nick brought a Mystic Familiar into play turn two and this was answered by Leong
 
 Nick made a Soul Scourge and Aven Flock. Akuma replied another Seton's Scout and Dirty Wererat. Nick cast Mutilate taking out all of Akuma's team leaving him with the Faithful and his Flock. It was not the back breaking move it should have been, as Akuma's next play of Carrion Wurm kept him in the game. At this point Nick had the option of enchanting his Flock with Patriarch's Desire, and in four attacks Leong would be dead. He held it back for use as removal. When Leong played Springing Tiger (at threshold) Nick went on the defensive and held back the Flock, and played his second Teroh's Faithful. He used all his troops to block the Tiger the next turn with the Tireless Tribe he summoned earlier it would just be enough to get rid of it. 
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a954.jpg)Unfortunately Akuma had Afflict, the Flock went away and the Tiger stayed in play. Nick lost the option of racing through the air and it cost him. To add insult to injury Leong drew and played Fledgling Imp, and Dusk Imp over the next few turns, both doing about ten points of damage throughout the course of the game. Being at threshold, it did not take long for Akuma to find Werebear and Possessed Centaur. Nick fought valiantly to remain in the game, he made Slithery Stalker to remove the Tiger and Zombie Assassin to nuke the Werebear but it was too little too late. Akuma turned all his creatures sideways for a few turns, and Nick scooped up his cards.
+![](http://www.wizards.com/sideboard/images/gpkl02/a954.jpg)
+
+Unfortunately Akuma had Afflict, the Flock went away and the Tiger stayed in play. Nick lost the option of racing through the air and it cost him. To add insult to injury Leong drew and played Fledgling Imp, and Dusk Imp over the next few turns, both doing about ten points of damage throughout the course of the game. Being at threshold, it did not take long for Akuma to find Werebear and Possessed Centaur. Nick fought valiantly to remain in the game, he made Slithery Stalker to remove the Tiger and Zombie Assassin to nuke the Werebear but it was too little too late. Akuma turned all his creatures sideways for a few turns, and Nick scooped up his cards.
 
 Leong 1 - Wong 0
 
@@ -125,7 +129,9 @@ Sideboarding: Wong +1 Sphere of Grace -1 Pilgrim of Justice
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a955.jpg)Nick started out strong with an early Patrol Hound and Akuma could only reply with Fledgling Imp. It did not even let Akuama trade blows - Nick made Angelic Wall, holding Sphere of Grace. This was going to be a long game too. Basically Leong's Black creatures were on defence (Dusk Imp, Dirty Wererat, Carrion Wurm) and Nick couldn't exploit his position, only managing to gum up the works more with Teroh's Faithful. It was a while before he found Aven Flock. By then Akuma had Wild Mongrel enchanted with Seton's Desire. Nick played ANOTHER Teroh's Faithful. To cut the story short Divine Sacrament and Embolden kept Nick's team alive long after Akuma reached Threshold with the Desire/Mongrel combo. 
+![](http://www.wizards.com/sideboard/images/gpkl02/a955.jpg)
+
+Nick started out strong with an early Patrol Hound and Akuma could only reply with Fledgling Imp. It did not even let Akuama trade blows - Nick made Angelic Wall, holding Sphere of Grace. This was going to be a long game too. Basically Leong's Black creatures were on defence (Dusk Imp, Dirty Wererat, Carrion Wurm) and Nick couldn't exploit his position, only managing to gum up the works more with Teroh's Faithful. It was a while before he found Aven Flock. By then Akuma had Wild Mongrel enchanted with Seton's Desire. Nick played ANOTHER Teroh's Faithful. To cut the story short Divine Sacrament and Embolden kept Nick's team alive long after Akuma reached Threshold with the Desire/Mongrel combo. 
 
 Leong cleverly chose White as the colour his Mongrel would be each time he activated its ability and kept it alive throughout the game. Pressure from the Mongrel, and Carrion Wurm enchanted with Shade's Form kept Nick from counterattacking and when the time ran out he could not deal enough damage to draw the match.
 

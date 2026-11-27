@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Mason Peatross* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM7SteveO.jpg)Round Seven of Grand Prix New Orleans saw quite a number of draws amongst the higher ranked players. It's odd that in such a competitive sport, the friendly fraternity of Pro players isn't interested in trying to defeat their opponent at the end of the day, but rather to retire early, get some rest, and enjoy the beautiful scenery of the jewel of the Mississippi. This made picking feature matches quite torturous, as the first two picks both decided to draw their ways into Day 2. Finally, a match where both players were guaranteed Day 2 was located, and they were invited to the center of the room for some mortal combat. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM7SteveO.jpg)
+
+Round Seven of Grand Prix New Orleans saw quite a number of draws amongst the higher ranked players. It's odd that in such a competitive sport, the friendly fraternity of Pro players isn't interested in trying to defeat their opponent at the end of the day, but rather to retire early, get some rest, and enjoy the beautiful scenery of the jewel of the Mississippi. This made picking feature matches quite torturous, as the first two picks both decided to draw their ways into Day 2. Finally, a match where both players were guaranteed Day 2 was located, and they were invited to the center of the room for some mortal combat. 
 
 **Game 1** 
 

@@ -118,7 +118,9 @@ render_recovery:
   - Swamp
   occurrences: 253
 ---
-![](https://www.wizards.com/sideboard/images/gpcop08/venue-shot.jpg)Day one of Grand Prix Copenhagen is at an end!
+![](https://www.wizards.com/sideboard/images/gpcop08/venue-shot.jpg)
+
+Day one of Grand Prix Copenhagen is at an end!
 
 610 players rocked up to Grand Prix Copenhagen, and now our field has been cut to the ten percenters - the top 64 of that number, who will come back to compete for the title of Champion on Sunday. 
 
@@ -273,7 +275,9 @@ Saito-san dropped Magus of the Moon, which was left un-countered by Ruel, who in
 
 Olivier Ruel 0 - 1 Tomoharu Saito
 
-![](https://www.wizards.com/sideboard/images/gpcop08/three-beats-two.jpg)Both players appearently had a sideboard plan for this particular matchup as they sideboarded quite a bit, briskly preparing for game 2.
+![](https://www.wizards.com/sideboard/images/gpcop08/three-beats-two.jpg)
+
+Both players appearently had a sideboard plan for this particular matchup as they sideboarded quite a bit, briskly preparing for game 2.
 
 Ruel began the game by going to Paris ahead of the Grand Prix, but kept his next six.
 

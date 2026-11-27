@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/db1.jpg)Sam "the Brit" Gomersall has become a well-known and well-travelled face on the Grand Prix circuit. As well as travelling to most of the European events Sam also crosses the Atlantic and turns up to the US GP's as well. Recently he's just completed a whirlwind tour of Asia, starting with PT Kobe and culminating in a 17th place finish at GP Sendai last weekend.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/db1.jpg)
+
+Sam "the Brit" Gomersall has become a well-known and well-travelled face on the Grand Prix circuit. As well as travelling to most of the European events Sam also crosses the Atlantic and turns up to the US GP's as well. Recently he's just completed a whirlwind tour of Asia, starting with PT Kobe and culminating in a 17th place finish at GP Sendai last weekend.
 
 The hard work and experience has paid off as Sam is currently on the train and quietly picking up Pro Points with a succession of solid, if unspectacular finishes. A breakout top 8 finish was finally achieved at GP Göteborg last year after man close calls. A title on home soil would be just the thing he needs to really propel himself forward.
 

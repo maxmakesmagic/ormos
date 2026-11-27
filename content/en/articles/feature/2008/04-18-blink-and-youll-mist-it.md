@@ -147,7 +147,9 @@ Of course, besides adding two-color rewards, another option was to remove some o
 
 ### Card Color Matters vs. Mana Color Matters
 
-![Torrent of Souls](http://archive.wizards.com/magic/images/mtgcom/products/shadowmoor/images/1snbm16nzd_EN.jpg)Since *Shadowmoor* is a "color matters" set, most of its rewards for two-color decks focus on the color of your cards, like the common Shield of the Oversoul. Since *Shadowmoor* is also a hybrid set, your "mono-green" decks whose only lands are forests can still play green-white hybrid creatures and get the most out of Shield of the Oversoul. Those combinations are a key part of the set.
+![Torrent of Souls](http://archive.wizards.com/magic/images/mtgcom/products/shadowmoor/images/1snbm16nzd_EN.jpg)
+
+Since *Shadowmoor* is a "color matters" set, most of its rewards for two-color decks focus on the color of your cards, like the common Shield of the Oversoul. Since *Shadowmoor* is also a hybrid set, your "mono-green" decks whose only lands are forests can still play green-white hybrid creatures and get the most out of Shield of the Oversoul. Those combinations are a key part of the set.
 
 But in giving more rewards to two-color decks, we needed to make sure that some of those rewards could be used only by two-colored decks with actual two-color land bases, and wouldn't be kidnapped by monocolored decks along the way.
 

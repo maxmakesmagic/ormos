@@ -44,7 +44,9 @@ archive_source:
   sha256: ca020dadf51722a75b8d8378a5e0115a5a7801c7972e867d4ef8cf9d79893e5b
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gputs02/967.jpg)This was easily the most high-powered table of the first draft. Ikeda, Fujita and Okamoto would be a safe bet to run an average table, and now they had to contend with each other. Rochester Draft is easily derailed, and there were bound to be some shenanigans what with Onslaught being so new. At least Okamoto could rely on Tsuyoshi Fujita on his right to co-operate. Jin Okamoto, the last APAC Champion, is one of Japan's hot commodities and an odds-on favorite to be the next Japanese player to crack a Pro Tour Top 8. It's his draft that I'll focus on.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gputs02/967.jpg)
+
+This was easily the most high-powered table of the first draft. Ikeda, Fujita and Okamoto would be a safe bet to run an average table, and now they had to contend with each other. Rochester Draft is easily derailed, and there were bound to be some shenanigans what with Onslaught being so new. At least Okamoto could rely on Tsuyoshi Fujita on his right to co-operate. Jin Okamoto, the last APAC Champion, is one of Japan's hot commodities and an odds-on favorite to be the next Japanese player to crack a Pro Tour Top 8. It's his draft that I'll focus on.
 
 The draft started two to his left, so he got to see how things were shaping up. He started in on black early when he saw just two players on the opposite side drafting it. On his right, Fujita was signalling for white, and Kubota on his left wanted the same. A very late [Barkhide Mauler](https://web.archive.org/web/20021012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barkhide+Mauler) in the second pack convinced him that green would be his second color.
 

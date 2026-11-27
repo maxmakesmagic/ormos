@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Ben Ronaldson*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/344.JPG)For a very long time, Raphael Levy has dominated the French Magic scene. He won his first Grand Prix in Lyon playing land destruction when he was a mere two year old, and now he appears regularly in major tournament top eights. Raphael (18 in fact) has only lost one match over the course of the weekend, going 5-1 in the draft and 4 and 2 draws in the standard part. So, undefeated with his Replenish deck, how does he view his semi-final match-up against Johan Franzén's Ponza/red burn deck?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/344.JPG)
+
+For a very long time, Raphael Levy has dominated the French Magic scene. He won his first Grand Prix in Lyon playing land destruction when he was a mere two year old, and now he appears regularly in major tournament top eights. Raphael (18 in fact) has only lost one match over the course of the weekend, going 5-1 in the draft and 4 and 2 draws in the standard part. So, undefeated with his Replenish deck, how does he view his semi-final match-up against Johan Franzén's Ponza/red burn deck?
 
 "Well, I played against him earlier today and I won 2-0, but the matches were quite close. The Chill in my sideboard was a real problem for him."
 

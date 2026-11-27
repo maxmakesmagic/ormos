@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/456.jpg)This match pits two "youngsters", in a striking contrast of deck styles. Evans' Stompy is a fast aggressive deck designed to maximize damage on the opponent. Benafel's Ponza is a control deck designed to disrupt the opponent by destroying critical resources like lands and mana producing creatures.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/456.jpg)
+
+This match pits two "youngsters", in a striking contrast of deck styles. Evans' Stompy is a fast aggressive deck designed to maximize damage on the opponent. Benafel's Ponza is a control deck designed to disrupt the opponent by destroying critical resources like lands and mana producing creatures.
 
 Both players, though young, have shown incredible poise in their National Championships (both finishing 2nd), the World Championship and the Teams competition. Benafel finished 12th at Worlds, while Murray finished just out of the money at 74th. Benafel also took 2nd at Pro Tour LA 2000.
 
@@ -83,7 +85,9 @@ Murray has been a crowd favorite this weekend, for showing so much maturity at s
 
 Game 1, Murray won the flip and played a Vine Dryad (discarding a Lyrist) and a Rancor on it. Chris played a Seal of Fire, while Murray attacked and played Wild Dog. Chris Shocked Murray and Sealed him down to 16 to steal the Dogs and then chump block the Dryad for a turn. Murray played a River Boa that was met with Shock. Benafel then dropped a Keg. This was huge because then Murray played Tangle Wire. The keg was an additional permanent to tap under wire. Murray continued to attack with the Dryad, but Chris Stone Rained the Cradle. Murray played a Lyrist, but Chris dropped Masticore. Murray said go as did Benafel, getting his Keg up to 4 along the way. Murray attacked, showing Giant Growth and the Dryad was blocked by the Core. The Growth went off, but Chris Kegged the Dryad and Regenerated his Core. Benafel then shot the Lyrist, clearing Murray's board. He attacked for 4 and played a Ghitu Encampment. Murray played a Wire, but with Chris at 6 land he simply tapped his land and attacked with the Core. Finally when it looks like Murray will go down, he pops an end step Vine Dryad and with Chris at 5 looks for a miracle. He draws a second Rancor and double Rancors the Dryad. He had 5 trample damage and thought he had the win. But the Ghitu was back to chump for a point, so Murray couldn't attack. Instead he had to chump the Core. He had a chance to draw a land and cast Blastoderm, but didn't and lost the first.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/457.jpg)Benafel's sideboard (4 Boil, 3 Foundry, 3 Mogg Salvage, 3 Pulverize, and 2 Tec Breaks) was designed to beat Blue, Replenish and Tinker. He didn't sideboard anything. Murray took out 4 Wild Dogs, a Lyrist and 2 Wires for Orangutans and Splinter.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/457.jpg)
+
+Benafel's sideboard (4 Boil, 3 Foundry, 3 Mogg Salvage, 3 Pulverize, and 2 Tec Breaks) was designed to beat Blue, Replenish and Tinker. He didn't sideboard anything. Murray took out 4 Wild Dogs, a Lyrist and 2 Wires for Orangutans and Splinter.
 
 Game 2, Murray opened with Treetop Village, while Chris played an Encampment. Murray played turn 2 Albino Troll, while Benafel played another Ghitu and a Seal of Fire. Murray Rancored the Troll and sent for 5. Benafel could only say go and Port the Village. Murray hit for 5, and Benafel Avalanche Ridered the Village and chumped the Troll, taking Chris to 7. Chris Tec Breaked for 2, but forgot to play a land afterwards. Murray played a Lyrist and hit Chris to 2. Chris was holding off Murray with the Seal/Ghitu combo until Murray drew Giant Growth and dealt lethal damage with the 8/6 Troll.
 

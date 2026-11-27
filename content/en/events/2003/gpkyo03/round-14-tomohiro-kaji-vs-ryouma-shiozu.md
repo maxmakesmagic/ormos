@@ -83,7 +83,9 @@ render_recovery:
   - Krosan Vorine
   occurrences: 27
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a920.jpg)The stoic Ryouma Shiozu has a pair of Grand Prix Top 8's to his name, once with his teammates in NAGOYAN, and a solo Top 4 at Shizuoka. His opponent, Tomohiro Kaji boasts no such resume. Both are within a match win of Top 8, but the smart money is on Shiozu, whose deck has apparently dialed "R" for "Ridiculousness".
+![](http://www.wizards.com/sideboard/images/gpkyo03/a920.jpg)
+
+The stoic Ryouma Shiozu has a pair of Grand Prix Top 8's to his name, once with his teammates in NAGOYAN, and a solo Top 4 at Shizuoka. His opponent, Tomohiro Kaji boasts no such resume. Both are within a match win of Top 8, but the smart money is on Shiozu, whose deck has apparently dialed "R" for "Ridiculousness".
 
 ### Game 1
 

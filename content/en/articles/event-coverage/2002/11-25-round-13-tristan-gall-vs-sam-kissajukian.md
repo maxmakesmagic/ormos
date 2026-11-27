@@ -44,7 +44,9 @@ archive_source:
   sha256: 319510b66e9e745973f1319f2b41f718f9e611c04167f6b86c0350a3716455b4
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmel02/a876.jpg)This matchup features Canberra's Tristan Gall and Sydney's Sam Kissajukian – the winner would progressing to the top 8 final. Both players are nervous and a deck check deal of 8 minutes doesn't help. The judges come back and inform Tristan that he has failed to de-sideboard and has received a game loss. A tough way to win the right to go first.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmel02/a876.jpg)
+
+This matchup features Canberra's Tristan Gall and Sydney's Sam Kissajukian – the winner would progressing to the top 8 final. Both players are nervous and a deck check deal of 8 minutes doesn't help. The judges come back and inform Tristan that he has failed to de-sideboard and has received a game loss. A tough way to win the right to go first.
 
 Kissajukian 1 Gall 0
 
@@ -55,7 +57,9 @@ Tristan opens, his red green deck racing out of the blocks with A [Goblin Sledde
 Sam thinks he can out-race by enchanting his [Glory Seeker](https://web.archive.org/web/20021125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory+Seeker) with [Improvised Armor](https://web.archive.org/web/20021125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Improvised+Armor) making it a 4/7. They trade beats as a goblin raider is enhanced by a second [Goblin Burrows](https://web.archive.org/web/20021125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Burrows). Sam continued to push with a [Severed Legion](https://web.archive.org/web/20021125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion), a morph creature, a Nightglove Courier and a [Nantuko Husk](https://web.archive.org/web/20021125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Husk). .Down to only 5 life, with the 5/2 goblin flier swinging, Sam morphed the healer into play leaving himself at 1 life.  
  With Tristan on 11 life he made his play....
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmel02/a874.jpg)He cast a Festering goblin, which Tristan asked to responded to with the [Wellwisher](https://web.archive.org/web/20021125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) putting him on 13 life. He then activated the courier (targeting the husk) and declared an alpha strike, doing 12 points of damage. The [Wellwisher](https://web.archive.org/web/20021125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) responding to the goblin proved to be the game as the goblin swung for lethal next turn.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmel02/a874.jpg)
+
+He cast a Festering goblin, which Tristan asked to responded to with the [Wellwisher](https://web.archive.org/web/20021125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) putting him on 13 life. He then activated the courier (targeting the husk) and declared an alpha strike, doing 12 points of damage. The [Wellwisher](https://web.archive.org/web/20021125000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) responding to the goblin proved to be the game as the goblin swung for lethal next turn.
 
 1 game all.
 

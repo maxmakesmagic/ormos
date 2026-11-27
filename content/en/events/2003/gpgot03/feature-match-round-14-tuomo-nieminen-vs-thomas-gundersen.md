@@ -93,7 +93,9 @@ render_recovery:
   - Oblivion Stone
   occurrences: 67
 ---
-![](https://i.ormos.uk/b5/1d/b51d2d50d9822374b8698dc5329639a3ca3dc5d3b46c4952a51e6c0093cd9a2a.jpg)Gundersen is in the unfortunate position of being paired down for the last round. Meaning he will have to play for the top 8 rather than ID in. Nieminen needs a win and some luck to make the last eight but there are plenty of dollars to play for.
+![](https://i.ormos.uk/b5/1d/b51d2d50d9822374b8698dc5329639a3ca3dc5d3b46c4952a51e6c0093cd9a2a.jpg)
+
+Gundersen is in the unfortunate position of being paired down for the last round. Meaning he will have to play for the top 8 rather than ID in. Nieminen needs a win and some luck to make the last eight but there are plenty of dollars to play for.
 
 Nieminen mulliganed and shuffled a lot before presenting his deck for a second time. He kept a one land, Chromatic Sphere, Silver Myr, Talisman of Dominance, Vedalken Archmage hand and peeled the second and third lands that he needed straight off the top without even needing the Sphere. Gundersen, meanwhile, ramped up to a Vulshok Berserker off a Copper Myr. The Archmage entered play. The following turn Tuomo used a Journey of Discovery to find him two additional land which let him cast his Silver Myr to draw a card.
 
@@ -107,7 +109,9 @@ Niemen looked to his sideboard to find answers to Gundersen’s incredibly fast 
 
 Gundersen’s opening hand did not contain a creature. He had an Electrostatic Bolt, a Shatter and a Deconstruct. Tuomo’s first play was a Viridian Joiner that was immediately Bolted, it was followed a turn later by a Lodestone Myr that was Shattered. Meanwhile, Thomas had found a creature – an Alpha Myr.
 
-![](https://i.ormos.uk/9a/24/9a2401aa76055bf4f016b3600efab3d91b15d8e937bf6f51d10c28e841321a2a.jpg)Nieminen made a Silver Myr and a Cathodion. Gundersen recklessly Deconstructing the Cathodion and attacked with his Myr, making both players manaburn for three. The Cathodion was replaced by a Clockwork Vorrac. Now stabilized behind the Vorrac’s huge behind, Tuomo was safe to play his Archmage and cantripping Enforcer.
+![](https://i.ormos.uk/9a/24/9a2401aa76055bf4f016b3600efab3d91b15d8e937bf6f51d10c28e841321a2a.jpg)
+
+Nieminen made a Silver Myr and a Cathodion. Gundersen recklessly Deconstructing the Cathodion and attacked with his Myr, making both players manaburn for three. The Cathodion was replaced by a Clockwork Vorrac. Now stabilized behind the Vorrac’s huge behind, Tuomo was safe to play his Archmage and cantripping Enforcer.
 
 Not to be outdone, Gundersen had made a Trolls of Tel-Jilad, but Nieminen did not seem to care, making a Cobalt Golem which kept the card drawing flowing. The Trolls attacked, knocking Tuomo to thirteen. Nieminen passed his next turn doing nothing, whilst Gundersen topdecked a Viridian Shaman to take out the growing Vorrac. The Trolls kept swinging; Tuomo decided to chump block with his Myr.
 
@@ -123,7 +127,9 @@ Nieminen started out with an AEther Spellbomb, Gundersen trumped with a Chosen. 
 
 Another Forest later and Nieminen made his all-powerful Molten Slug. The board position changed. The Alpha Myr was sacrificed, being Thomas’ only artifact. Tuomo made a Viridian Joiner that was Bolted at the end of turn, but the Molten Slug was now enjoying free rein of the red zone, dropping Gundersen to twelve.
 
-![](https://i.ormos.uk/43/25/43255272982915eee772136b160624f830079506c2dae35f4f983e0a5a631d78.jpg)Thomas made a second Chosen and held back. Tuomo found his seventh land, a soon to die Tree of Tales, and cast the search part of Tooth and Nail, finding Nim Replica and Wurmskin Forger, holding back with the Slug.
+![](https://i.ormos.uk/43/25/43255272982915eee772136b160624f830079506c2dae35f4f983e0a5a631d78.jpg)
+
+Thomas made a second Chosen and held back. Tuomo found his seventh land, a soon to die Tree of Tales, and cast the search part of Tooth and Nail, finding Nim Replica and Wurmskin Forger, holding back with the Slug.
 
 The two Chosen swung in the next turn, the Slug blocked one, but the little guy was Battlegrowthed and Predator Struck and the Slug hit the bin. Nieminen fell to nine, Gundersen followed up with a Nim Replica. Nieminen made a Replica of his own, leaving four mana open. The Replica’s traded and Tuomo’s Irradiate took down the now 3/2 Chosen. Nieminen took two. 
 

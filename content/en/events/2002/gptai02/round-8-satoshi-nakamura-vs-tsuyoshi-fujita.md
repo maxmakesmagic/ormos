@@ -53,7 +53,9 @@ archive_source:
   sha256: 35a5adf3b4feefd5379eb84014e13340e01108dd2593bcaaae5d03d208449ff0
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gptai02/a969.jpg)These two represent different parts of Japan's Magic history. Nakamura is the Old School, the first Japanese player to garner widespread recognition, thanks equally to his talent for the game and flamboyant style of dress. Fujita is the New School. The first Japanese player to break into a Pro Tour Top 8, drawing more attention to the strong Japanese pro community. Both breezed into Day 2 at 6-0-1 on the backs of Quiet Speculation. Their builds differ slightly, particularly in the sideboard.
+![](http://www.wizards.com/sideboard/images/gptai02/a969.jpg)
+
+These two represent different parts of Japan's Magic history. Nakamura is the Old School, the first Japanese player to garner widespread recognition, thanks equally to his talent for the game and flamboyant style of dress. Fujita is the New School. The first Japanese player to break into a Pro Tour Top 8, drawing more attention to the strong Japanese pro community. Both breezed into Day 2 at 6-0-1 on the backs of Quiet Speculation. Their builds differ slightly, particularly in the sideboard.
 
 Nakamura won the die roll and started the beats with a Basking Rootwalla, answering Fujita's Bird of Paradise with Wild Mongrel. Fujita played Call of the Herd, and traded with the Rootwalla. Short on mana, Fujita made a second Birds and a Mongrel.
 
@@ -63,7 +65,9 @@ Fujita started making 6/6's. Nakamura plucked Quiet Speculation and got three Ro
 
 Fujita 1 - Nakamura 0
 
-![](http://www.wizards.com/sideboard/images/gptai02/a970.jpg)Nakamura had a potent opening in Game 2. He started with werebear, and when Fujita answered with Looter, he played Wild Mongrel and Quiet Speculation. This time he got Krosan Reclamation, Roar of the Wurm and Deep Analysis, showing the strength of his sideboard.
+![](http://www.wizards.com/sideboard/images/gptai02/a970.jpg)
+
+Nakamura had a potent opening in Game 2. He started with werebear, and when Fujita answered with Looter, he played Wild Mongrel and Quiet Speculation. This time he got Krosan Reclamation, Roar of the Wurm and Deep Analysis, showing the strength of his sideboard.
 
 Fujita came back with Bird and Merfolk Looter. Three Mongrel pitches, including two Wonders, put Nakamura at threshold and he hit for nine in the air. It looked like the game would be over quickly. 
 
@@ -75,7 +79,9 @@ Meanwhile, Fujita drew another Speculation, getting the last Roar and some Calls
 
 Fujita 1 - Nakamura 1
 
-![](http://www.wizards.com/sideboard/images/gptai02/a971.jpg)In the deciding game, Fujita mulliganed away an unexciting draw of four land, Ray of Revelation and two Arrogant Wurms. Fujita came off the blocks like gangbusters. First Elf, then Call, then Mongrel and Elf. Nakamura played defensive, using Careful Study to get rid of Wonder and Roar of the Wurm, then setting up a turn-three Roar with Werebear.
+![](http://www.wizards.com/sideboard/images/gptai02/a971.jpg)
+
+In the deciding game, Fujita mulliganed away an unexciting draw of four land, Ray of Revelation and two Arrogant Wurms. Fujita came off the blocks like gangbusters. First Elf, then Call, then Mongrel and Elf. Nakamura played defensive, using Careful Study to get rid of Wonder and Roar of the Wurm, then setting up a turn-three Roar with Werebear.
 
 Fujita matched his Roar, and ran it into Nakamura's. A second Roar was stopped in the graveyard by Krosan Reclamation. Nakamura, however, had very little action. Fujita finally ripped island and broke the game open with Quiet Speculation. The Reclamation softened the blow, but things were still bad.
 

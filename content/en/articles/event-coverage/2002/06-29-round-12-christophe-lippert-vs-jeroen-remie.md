@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a849.jpg)In the 12th round of the 2002 European Championship, Christophe Lippert from Germany faced Jeroen Remie from the Netherlands. The two players were both at an 8-3 record, and another loss would effectively throw them out of contention for the Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a849.jpg)
+
+In the 12th round of the 2002 European Championship, Christophe Lippert from Germany faced Jeroen Remie from the Netherlands. The two players were both at an 8-3 record, and another loss would effectively throw them out of contention for the Top 8.
 
 ### Game 1
 
@@ -77,7 +79,9 @@ During the following attack, Lippert played a Fact or Fiction, flipping over Uph
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a850.jpg)Lippert got to play first in the deciding game, and finally, he got to keep the first seven cards he drew. Remie bust out a turn one Basking Rootwalla that started attacking, while Lippert summoned a turn three Psychatog. However, Remie answered by playing a Nantuko Blightcutter, which resolved.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a850.jpg)
+
+Lippert got to play first in the deciding game, and finally, he got to keep the first seven cards he drew. Remie bust out a turn one Basking Rootwalla that started attacking, while Lippert summoned a turn three Psychatog. However, Remie answered by playing a Nantuko Blightcutter, which resolved.
 
 The German cast a Probe without the kicker, and dumped an Atog and a Memory Lapse into his Graveyard. Meanwhile, the Dutchman had to keep up some pressure, and he started attacking with the Blightcutter, taking Lippert down to 15 life. He also played a Grim Lavamancer and a Yavimaya Barbarian, but the Barbarian was countered by a Circular Logic.
 

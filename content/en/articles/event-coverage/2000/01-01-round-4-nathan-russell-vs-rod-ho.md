@@ -57,7 +57,9 @@ Nathan spends a while sideboarding presumably looking for answers to the Dedicat
 
 ### Game 2
 
-![](https://i.ormos.uk/08/9b/089bfe19c41b370ad5119808533584a58b549d5e0604ed11159e56cece35f164.jpg)Rod chooses to play, but is forced to mulligan a hand that is too passive, containing five land and no creatures. He accepts his second hand but there are no plays until turn three, when Rod casts Ember Beast followed on turn four by its best friend Pardic Firecat, starting the race well. Meanwhile Nathan is excited by his Krosan Restorer, which allows him to untap his sole island to play Balshan Griffin. Rod refuses to take back his declaration of Werebear's superiority. Rod adds to his forces with Patchwork Gnomes, and uses them to kill the Balshan Griffin with Fiery Temper before Nathan can save it. Suddenly Nathan has only a meagre 1/ creature while Rod has seven points of damage on the table. Nathan casts Narcissism but has no more creatures to use it with and Rod Aven Cloudchasers it then quicly Reckless Charges it with flashback to attack through the air for the win.
+![](https://i.ormos.uk/08/9b/089bfe19c41b370ad5119808533584a58b549d5e0604ed11159e56cece35f164.jpg)
+
+Rod chooses to play, but is forced to mulligan a hand that is too passive, containing five land and no creatures. He accepts his second hand but there are no plays until turn three, when Rod casts Ember Beast followed on turn four by its best friend Pardic Firecat, starting the race well. Meanwhile Nathan is excited by his Krosan Restorer, which allows him to untap his sole island to play Balshan Griffin. Rod refuses to take back his declaration of Werebear's superiority. Rod adds to his forces with Patchwork Gnomes, and uses them to kill the Balshan Griffin with Fiery Temper before Nathan can save it. Suddenly Nathan has only a meagre 1/ creature while Rod has seven points of damage on the table. Nathan casts Narcissism but has no more creatures to use it with and Rod Aven Cloudchasers it then quicly Reckless Charges it with flashback to attack through the air for the win.
 
 Nathan Russel 1 Rod Ho 1
 

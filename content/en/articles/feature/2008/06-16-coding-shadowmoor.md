@@ -93,7 +93,9 @@ As I write this, we're currently finishing up card coding for *Eventide*. We'll 
 
 During the *Shadowmoor* development process a few months ago, I collected some screenshots and stories that I'd like to share. When you take a look at the screenshots in this article, you're sure to notice something strange. *Shadowmoor* in 2.5! Even though it was never seen outside the walls of Wizards, the majority of the *Shadowmoor* rules coding was done in 2.5 long before **Magic Online** 3.0 was launched. Because the rules engine is shared between the two systems, it was an easy transition to move it over to 3.0 when the time came. 
 
-[![Air_Elemental](https://i.ormos.uk/f7/be/f7bed7325d288afbf2e9e3d0383f914ebe85ce553dc4f86a13b6a804277ea610.jpg)](https://web.archive.org/web/20080616000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Air%2BElemental)You will also notice a strange card with alpha [Air Elemental](https://web.archive.org/web/20080616000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Air+Elemental) art on a land. That's a special card called Library of Congress that we have to aid development and testing. We use it to quickly set up a game state when we're testing something by hand. Its full card text is:
+[![Air_Elemental](https://i.ormos.uk/f7/be/f7bed7325d288afbf2e9e3d0383f914ebe85ce553dc4f86a13b6a804277ea610.jpg)](https://web.archive.org/web/20080616000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Air%2BElemental)
+
+You will also notice a strange card with alpha [Air Elemental](https://web.archive.org/web/20080616000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Air+Elemental) art on a land. That's a special card called Library of Congress that we have to aid development and testing. We use it to quickly set up a game state when we're testing something by hand. Its full card text is:
 
 Library of Congress counts as a basic land.  
  You may pay ![](http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless0.gif) rather than pay the mana cost for spells that you play.  

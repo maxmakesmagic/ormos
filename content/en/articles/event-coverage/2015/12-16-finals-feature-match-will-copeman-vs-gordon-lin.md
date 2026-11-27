@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Matthew Vienneau* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/794.jpg)The Grand Prix Sydney finals was a battle of giants as one-time PTQ winner Will Copeman of Australia, who announced "I'm not looking forward to this matchup" faced off against recent PTQ top 8 finisher and budding architect Gordon Lin. Copeman was playing an Australian-Style Tradewind/Survival deck with maindeck Mother of Runes while Lin was about to make big under-1700 flag money with a Pandeburst Replenish deck. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/794.jpg)
+
+The Grand Prix Sydney finals was a battle of giants as one-time PTQ winner Will Copeman of Australia, who announced "I'm not looking forward to this matchup" faced off against recent PTQ top 8 finisher and budding architect Gordon Lin. Copeman was playing an Australian-Style Tradewind/Survival deck with maindeck Mother of Runes while Lin was about to make big under-1700 flag money with a Pandeburst Replenish deck. 
 
 **Game 1** 
 
@@ -58,7 +60,9 @@ Copeman stopped the match and insisted that Lin had cast the Intuition and Tutor
 
 **Game 2** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/795.jpg)Copeman's second game opening hand of Monk Realist, two Land Grant, Tradewind Rider, Uktabi Orangutan and two lands did not contain enough threats or counterspells to be worth keeping and he chose to mulligan. His second hand was even worse with a Forest, Back to Basics, Survival of the Fittest, Squee, Tradewind Rider and Masticore. He mulliganed again and was slightly better off with a Tropical Island, Forest, Masticore, Tradewind and Counterspell. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/795.jpg)
+
+Copeman's second game opening hand of Monk Realist, two Land Grant, Tradewind Rider, Uktabi Orangutan and two lands did not contain enough threats or counterspells to be worth keeping and he chose to mulligan. His second hand was even worse with a Forest, Back to Basics, Survival of the Fittest, Squee, Tradewind Rider and Masticore. He mulliganed again and was slightly better off with a Tropical Island, Forest, Masticore, Tradewind and Counterspell. 
 
 Copeman drew and played a second turn Birds of Paradise and was faced with the choice of Back to Basics or holding mana open for Counterspell on his third turn. Knowing that Pandeburst can do little with three mana, he chose to cast Back to Basics and it was Pyroblasted. The following turn he faced a similar decision - cast Tradewind Rider or Masticore or keep two blue open for a Counterspell? Pandeburst decks are much more dangerous with four mana than they are with three but Copeman decided to go for it and cast Masticore. Lin didn't have a counter and instead cast Saproling Burst to both block and attack. 
 
@@ -74,7 +78,9 @@ In the deciding game, Copeman's opening hand consisted of two Birds of Paradise,
 
 Lin attacked with the Negator assuming that Copeman would use the Weaver to prevent the damage. Instead the Weaver blocked and Lin was forced to destroy three of his lands. Lin's game was all Negator at this point as if it died he just wouldn't have the permanents to do anything. Copeman Brainstormed at the end of Lin's turn and was able to cast Quirion Ranger and Masticore. Lin had an Annul for the Masticore and with only a land and a Negator in play he Consulted for City of Brass during his upkeep. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/793.jpg)The Negator attacked and trampled over the Quirion Ranger, forcing Lin's other land to be destroyed. Copeman then had a choice of what to play. He was at nine life, and could cast Tradewind Rider or Soldevi Machinist. But Lin just Consulted for a City of Brass which was very suspicious as if there's one land most people don't want it's City of Brass. Obviously Lin wanted to have off-color mana available and having cast no active spells in the early game, it seemed apparent that he was likely holding a Pyroblast. So the correct play was probably to cast the Machinist to suck out the Pyroblast, and play the Tradewind the following turn to absorb more of the trample damage as all Copeman needed was one or two creatures off the top destroy all of Lin's permanents if the Negator attacked. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/793.jpg)
+
+The Negator attacked and trampled over the Quirion Ranger, forcing Lin's other land to be destroyed. Copeman then had a choice of what to play. He was at nine life, and could cast Tradewind Rider or Soldevi Machinist. But Lin just Consulted for a City of Brass which was very suspicious as if there's one land most people don't want it's City of Brass. Obviously Lin wanted to have off-color mana available and having cast no active spells in the early game, it seemed apparent that he was likely holding a Pyroblast. So the correct play was probably to cast the Machinist to suck out the Pyroblast, and play the Tradewind the following turn to absorb more of the trample damage as all Copeman needed was one or two creatures off the top destroy all of Lin's permanents if the Negator attacked. 
 
 But Copeman went with the Tradewind play, which if it got through could unsummon the Negator the following turn with the help of the two Birds of Paradise. Lin had the Pyroblast and Copeman took five from Negator. Copeman played the Machinist the next turn and double-blocked the Negator with a Birds of Paradise, leaving him at one, but was unable to draw another answer as he fell under the mighty beast one turn later. 
 

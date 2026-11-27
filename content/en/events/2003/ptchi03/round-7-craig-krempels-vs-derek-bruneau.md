@@ -82,7 +82,9 @@ render_recovery:
   - Dive Bomber
   occurrences: 39
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a868.jpg)Thanks in part to a ninth place finish at Pro Tour - Boston and a Top 8 at Grand Prix Philly, Craig Krempels came to Chicago as the leader in the Rookie of the Year race. He is a part of the New Jersey based TOGIT wave that has been progressively gaining more momentum on the Pro Tour and Grand Prix circuit, but today has seen the group dominate. Krempels is undefeated, along with fellow TOGIT members Osyp Lebedwicz and Eugene Harvey. This is Derek Bruneau's first Pro Tour, and with a 6-0 start he's obviously doing very well. A win here will let the Boston native go to sleep tonight with the confidence that must come with not losing a match your first day on the Pro Tour.
+![](http://www.wizards.com/sideboard/images/ptchi03/a868.jpg)
+
+Thanks in part to a ninth place finish at Pro Tour - Boston and a Top 8 at Grand Prix Philly, Craig Krempels came to Chicago as the leader in the Rookie of the Year race. He is a part of the New Jersey based TOGIT wave that has been progressively gaining more momentum on the Pro Tour and Grand Prix circuit, but today has seen the group dominate. Krempels is undefeated, along with fellow TOGIT members Osyp Lebedwicz and Eugene Harvey. This is Derek Bruneau's first Pro Tour, and with a 6-0 start he's obviously doing very well. A win here will let the Boston native go to sleep tonight with the confidence that must come with not losing a match your first day on the Pro Tour.
 
 ### Game 1
 
@@ -94,13 +96,17 @@ Krempels- 1 Bruneau- 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a870.jpg)This time, Krempels started off with a mulligan. He had a second turn Wirewood Elf, and Bruneau summoned Gustcloak Harrier. It died to Shock, and Krempels made an Elvish Warrior. Bruneau came back with Gustcloak Sentinel. It attacked the following turn and was blocked by the Elf. Bruneau was not willing to call Krempels' bluff, and untapped and removed the 3/3 from combat. Bruneau built up his side a bit with Daru Healer and Gravel Slinger. Krempels played Wirewood Savage, and a second Gravel Slinger locked up the board a little more. Quite a few land found their way to Krempels' hand, as he waited to draw a significant threat; hopefully a Beast so he could draw a card. Aven Brigadier made Bruneau's board dominating, and Severed Legion provided more pressure. From this point, it was only a matter of time before Bruneau won.
+![](http://www.wizards.com/sideboard/images/ptchi03/a870.jpg)
+
+This time, Krempels started off with a mulligan. He had a second turn Wirewood Elf, and Bruneau summoned Gustcloak Harrier. It died to Shock, and Krempels made an Elvish Warrior. Bruneau came back with Gustcloak Sentinel. It attacked the following turn and was blocked by the Elf. Bruneau was not willing to call Krempels' bluff, and untapped and removed the 3/3 from combat. Bruneau built up his side a bit with Daru Healer and Gravel Slinger. Krempels played Wirewood Savage, and a second Gravel Slinger locked up the board a little more. Quite a few land found their way to Krempels' hand, as he waited to draw a significant threat; hopefully a Beast so he could draw a card. Aven Brigadier made Bruneau's board dominating, and Severed Legion provided more pressure. From this point, it was only a matter of time before Bruneau won.
 
 Krempels- 1 Bruneau- 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a869.jpg)For the second time this match, Krempels started a game with six cards. His opening didn't suffer much as he brought out a second turn Elvish Warrior, while Bruneau played Catapult Squad. Krempels attacked for two, played a third land, and had no morph creature; Bruneau did. Symbiotic Elf gave Krempels more to work with. At this point the board was at a stalemate, and Krempels played a morph creature while Bruneau brought out the Sentinel. Krempels sent his morph creature into the Red Zone, and Bruneau blocked with his. Catapult Squad took a shot at the 2/2 before damage, but Krempels paid five to flip it over, revealing Charging Slateback. It traded with Bruneau's blocking morph creature, which turned out to be Gravel Slinger. The Sentinel was now able to get through for three points of damage, and Krempels got some size on the table with Barkhide Mauler. 
+![](http://www.wizards.com/sideboard/images/ptchi03/a869.jpg)
+
+For the second time this match, Krempels started a game with six cards. His opening didn't suffer much as he brought out a second turn Elvish Warrior, while Bruneau played Catapult Squad. Krempels attacked for two, played a third land, and had no morph creature; Bruneau did. Symbiotic Elf gave Krempels more to work with. At this point the board was at a stalemate, and Krempels played a morph creature while Bruneau brought out the Sentinel. Krempels sent his morph creature into the Red Zone, and Bruneau blocked with his. Catapult Squad took a shot at the 2/2 before damage, but Krempels paid five to flip it over, revealing Charging Slateback. It traded with Bruneau's blocking morph creature, which turned out to be Gravel Slinger. The Sentinel was now able to get through for three points of damage, and Krempels got some size on the table with Barkhide Mauler. 
 
 Just when things seemed about back to even, Bruneau played Astral Slide, which had potential to make things very scary. A Disciple was cycled to take away the Mauler for a while, and Krempels had Naturalize ready to make sure things didn't get out of hand. Dive Bomber gave Bruneau a way to get through for damage, and Krempels further solidified the ground with Barkhide Mauler. Once again, Aven Brigadier showed up to shift the game entirely in Bruneau's favor, and he flew over for the win.
 

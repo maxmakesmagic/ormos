@@ -98,7 +98,9 @@ render_recovery:
   - Howling Gale
   occurrences: 82
 ---
-![](https://i.ormos.uk/4b/2b/4b2b2b1c396b243e0b17a153503afe4c67636586792453fcee45af435c1dc078.jpg)What it comes down to is that everyone loves Gab Tsang. Easygoing and from the Tour since way back, he's the player that most of the spectators hope will walk away with the title. There's a small, but vocal, group rooting for amateur Valentin Moskovich. He got this far without benefit of byes, and is playing mono-black control, demonstrated to be the most popular choice among Day 2 players. Tsang is with Speculation, designed and handed to him by David Rood. He played his first match of OBC on Day 1.
+![](https://i.ormos.uk/4b/2b/4b2b2b1c396b243e0b17a153503afe4c67636586792453fcee45af435c1dc078.jpg)
+
+What it comes down to is that everyone loves Gab Tsang. Easygoing and from the Tour since way back, he's the player that most of the spectators hope will walk away with the title. There's a small, but vocal, group rooting for amateur Valentin Moskovich. He got this far without benefit of byes, and is playing mono-black control, demonstrated to be the most popular choice among Day 2 players. Tsang is with Speculation, designed and handed to him by David Rood. He played his first match of OBC on Day 1.
 
 Moskovich started with swamp. Tsang answered with Study and thought hard. His hand was two Rootwallas, Deep Analysis, two Roars, Envelop, Wonder and forest. He pitched Rootwalla and Analysis and handed it back. Moskovich Edicted. Tsang dropped his forest and Analyzed into Catalyst Stone and another Forest. He thought hard at end of turn, but ended up discarding Rootwalla instead of Roar of the Wurm.
 
@@ -114,7 +116,9 @@ He pumped his Shade six times and Mutilated with six Swamps in play. Tsang Envel
 
 "For six, right?" - Gab Tsang
 
-![](https://i.ormos.uk/60/24/6024e9a1fde90001bd753a8fb45257afa8dc376e2f691897f9a20c645f381f32.jpg)It shipped his whole team to the graveyard, and topdecked Wonder didn't even buy him a turn.
+![](https://i.ormos.uk/60/24/6024e9a1fde90001bd753a8fb45257afa8dc376e2f691897f9a20c645f381f32.jpg)
+
+It shipped his whole team to the graveyard, and topdecked Wonder didn't even buy him a turn.
 
 Moskovich 1 - Tsang 0
 
@@ -126,7 +130,9 @@ He untapped and pondered. His team crashed in to bring Moskovich to eight. Flash
 
 Moskovich 1 - Tsang 1
 
-![](https://i.ormos.uk/26/e1/26e1fa88a9198cf53e4b4e286072e225450f2f6e838c96af2baaa08c0841afe2.jpg)For the deciding game, Tsang sent back a hand of Upheaval, Speculation, Roar, Sylvan Safekeeper, Acorn Harvest and two forests. His next was acceptable, featuring both green and blue mana, a pair of Careful Studies and a Safekeeper. The first Study turned up a pair of islands that went straight to the bin. Tsang drew another island, then studied into an island and forest. Another pair of islands got lost. The Safekeeper showed up just long enought to be Blooded away. A topdecked Wild Mongrel fell to Edict, and then Tsang has only lands in hand.
+![](https://i.ormos.uk/26/e1/26e1fa88a9198cf53e4b4e286072e225450f2f6e838c96af2baaa08c0841afe2.jpg)
+
+For the deciding game, Tsang sent back a hand of Upheaval, Speculation, Roar, Sylvan Safekeeper, Acorn Harvest and two forests. His next was acceptable, featuring both green and blue mana, a pair of Careful Studies and a Safekeeper. The first Study turned up a pair of islands that went straight to the bin. Tsang drew another island, then studied into an island and forest. Another pair of islands got lost. The Safekeeper showed up just long enought to be Blooded away. A topdecked Wild Mongrel fell to Edict, and then Tsang has only lands in hand.
 
 Moskovich was thrilled, though not visibly so, to be under so little pressure. He resolved Diabolic Tutor, picking up Skeletal Scrying. Tsang drew another dud and passed it back. Moskovich Scryed for three and Tutored up Nantuko Shade. Tsang hit another land.
 

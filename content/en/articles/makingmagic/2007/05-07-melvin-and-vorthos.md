@@ -228,7 +228,9 @@ Vorthos is not a separation from Timmy, Johnny and Spike. It's a layer that can 
 
 ### The Road To Discovery
 
-![Journey_of_Discovery](https://i.ormos.uk/f5/4d/f54dbb77374491f1084615a8b91bb1db2e19cd8bbad260dba30ef4ff47cb4f5b.jpg)The reason that this column took so long to write is that I needed time to think through how I felt Vorthos and Melvin worked. Figuring out the Timmy, Johnny and Spike psychographics didn't happen overnight. I actually took several years to slowly work through the different factors I was noticing in how players reacted to the game and how they wrote and spoke about it. 
+![Journey_of_Discovery](https://i.ormos.uk/f5/4d/f54dbb77374491f1084615a8b91bb1db2e19cd8bbad260dba30ef4ff47cb4f5b.jpg)
+
+The reason that this column took so long to write is that I needed time to think through how I felt Vorthos and Melvin worked. Figuring out the Timmy, Johnny and Spike psychographics didn't happen overnight. I actually took several years to slowly work through the different factors I was noticing in how players reacted to the game and how they wrote and spoke about it. 
 
 When Matt introduced the idea of Vorthos I spent many months trying to understand what part of the game he felt the current model was missing. Ultimately what I realized was that the gap wasn't a hole in the psychographic but in what I had chosen to focus the psychographics on. You see, I created Timmy, Johnny and Spike to help card design and development. As such, I explained the psychographics in a way that helped foster design and development. I didn't talk about why and how creative was received by the psychographics because it wasn't my focus. 
 
@@ -288,7 +290,9 @@ I don't have a lot to say about Melthos as he is just the cross section of the t
 
 ### Is Your Brain Full Yet?
 
-![Braingeyser](https://i.ormos.uk/81/5a/815a55e39235f6912c30e20abff5d4f23037186b8671ddcafe93690ee08c9f4e.jpg)I'll be honest that I didn't have any idea how deep this subject was when I first decided to write it all down. There is an expression that says, "to truly learn you must first teach." Never did this expression hit closer to home than with this column. Because of this I really hope there is some in-depth discussion in the forums and some heartfelt responses in my email on today's topic. 
+![Braingeyser](https://i.ormos.uk/81/5a/815a55e39235f6912c30e20abff5d4f23037186b8671ddcafe93690ee08c9f4e.jpg)
+
+I'll be honest that I didn't have any idea how deep this subject was when I first decided to write it all down. There is an expression that says, "to truly learn you must first teach." Never did this expression hit closer to home than with this column. Because of this I really hope there is some in-depth discussion in the forums and some heartfelt responses in my email on today's topic. 
 
 I know that my interpretation of Vorthos is much broader than what I think Matt originally intended, although I do feel that my interpretation does encompass the stuff Matt was trying to shine a light on. Matt, on the other hand, might completely disagree. I'm also curious to see what he has to say on the subject. (Yet another reason to read [Taste the Magic](https://web.archive.org/web/20080421095734/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=TastetheMagic) each Thursday.) 
 

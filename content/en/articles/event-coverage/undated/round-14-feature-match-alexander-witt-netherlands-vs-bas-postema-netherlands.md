@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Craig Jones* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/915.jpg)The last round created an all-Dutch battle for one of the remaining Top 8 places. While not exceptionally well known Alexander Witt and Bas Postema have both been on the Pro Tour. In fact they usually end up playing each other in the finals of PTQs in Holland. Witt was the Dutch Champion in 1999. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/915.jpg)
+
+The last round created an all-Dutch battle for one of the remaining Top 8 places. While not exceptionally well known Alexander Witt and Bas Postema have both been on the Pro Tour. In fact they usually end up playing each other in the finals of PTQs in Holland. Witt was the Dutch Champion in 1999. 
 
 Witt had drafted a white/green deck with harrows and a splash of red. Postema had drafted blue/black. Witt won the coin flip and elected to start. 
 

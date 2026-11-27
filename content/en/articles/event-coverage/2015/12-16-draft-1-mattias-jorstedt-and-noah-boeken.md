@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Pete Norris* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/128.jpg)Pod 1 of day 2 involved some of Europe's big name players as well as international jet setter Ryan Fuller. European champion Noah Boeken, and European Alliance team member Mattias Jorstedt were sat in positions 3 and 4, with Arto Hiltunen in position 1. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/128.jpg)
+
+Pod 1 of day 2 involved some of Europe's big name players as well as international jet setter Ryan Fuller. European champion Noah Boeken, and European Alliance team member Mattias Jorstedt were sat in positions 3 and 4, with Arto Hiltunen in position 1. 
 
 **The Pod** 
 

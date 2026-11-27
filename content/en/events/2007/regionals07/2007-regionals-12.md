@@ -58,7 +58,9 @@ render_recovery:
   reason: The link uses a JavaScript placeholder. The preview kept any visible label.
   occurrences: 2
 ---
-![](http://www.wizards.com/protour/images/reg_lg.jpg)Looking for the new Standard tech? Want to see who the best and brightest players are in your region? Wondering who has taken the first steps on the [Road to Worlds](https://web.archive.org/web/20130624130340/https://www.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/worlds)? Let the decklists from Regionals be your guide as you explore the new Standard environment.
+![](http://www.wizards.com/protour/images/reg_lg.jpg)
+
+Looking for the new Standard tech? Want to see who the best and brightest players are in your region? Wondering who has taken the first steps on the [Road to Worlds](https://web.archive.org/web/20130624130340/https://www.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/worlds)? Let the decklists from Regionals be your guide as you explore the new Standard environment.
 
 You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20130624094147/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each decklist and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw.
 

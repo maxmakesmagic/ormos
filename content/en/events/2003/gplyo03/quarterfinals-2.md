@@ -79,7 +79,9 @@ render_recovery:
   - Skyhunter Cub
   occurrences: 25
 ---
-![](http://www.wizards.com/sideboard/images/gplyo03/a832.jpg)This quarter final sees two amateurs meeting in the quarterfinals. Daniel Madan sporting an aggressive red white build with such favorites as Loxodon Warhammer and Spikeshot Goblin versus Sebastien Bernaud piloting a much more controlling black Blue build featuring a number of expensive bombs including a Reiver Demon.
+![](http://www.wizards.com/sideboard/images/gplyo03/a832.jpg)
+
+This quarter final sees two amateurs meeting in the quarterfinals. Daniel Madan sporting an aggressive red white build with such favorites as Loxodon Warhammer and Spikeshot Goblin versus Sebastien Bernaud piloting a much more controlling black Blue build featuring a number of expensive bombs including a Reiver Demon.
 
 ### Game 1
 
@@ -87,7 +89,9 @@ Both players seemed happy with their opening hands and Daniel opened up with a P
 
 Daniel had yet to find any of his equipment cards however and this meant that the Loxodon Punisher he cast on turn 5 was not as large a threat as it could have been. Daniel however seemed to still be searching for gas as he was forced to tap out for Thoughtcast on his fifth turn and was less than impressed when his attempt to trade the spy for the punisher was thwarted by a Call of the Kha.
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a833.jpg)Sebastien played a Serum Tank which would give him a constant stream of cards and should be enough to win the game if he could survive long enough however he was only at 11 and so he needed to improve his board quickly. The board position further swung against him when a Leonin Den Guard joined Daniel's team. Sebastien's deck sprung into life on his next turn with a Nim Lasher and a Rustspore Ram coming into play and looking to stabilize the board however everything changed when Daniel busted out a Mindslaver and after some surprisingly sub optimal plays from Sebastien including playing Inertia Bubble on his own Clockwork Condor he was forced to scoop up his cards.
+![](http://www.wizards.com/sideboard/images/gplyo03/a833.jpg)
+
+Sebastien played a Serum Tank which would give him a constant stream of cards and should be enough to win the game if he could survive long enough however he was only at 11 and so he needed to improve his board quickly. The board position further swung against him when a Leonin Den Guard joined Daniel's team. Sebastien's deck sprung into life on his next turn with a Nim Lasher and a Rustspore Ram coming into play and looking to stabilize the board however everything changed when Daniel busted out a Mindslaver and after some surprisingly sub optimal plays from Sebastien including playing Inertia Bubble on his own Clockwork Condor he was forced to scoop up his cards.
 
 Daniel Madan 1 – 0 Sebastien Bernaud 
 

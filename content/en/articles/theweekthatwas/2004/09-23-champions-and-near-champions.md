@@ -920,7 +920,9 @@ My next flight presented me with another challenging card pool, which I will pre
 
 The first time I met Dave Williams was at Worlds 1997. There used to be this side-event tournament series at Pro Tours that was called the Merchant Team Challenge. Stores would sponsor a team of players and they would play in side events all weekend, with points awarded for top finishes. I was there with Rob Nieves, Bruce Johnson, and Steve O'Mahoney-Schwartz. Steve introduced us to two of his friends, Dan Burdick and Dave Williams, and they joined our team for the Challenge.
 
-![](https://i.ormos.uk/5c/0d/5c0d79bbf9c4ccee054f98fb6dfa581bfa50ce4b8670aa9758addc402739036e.jpg)Steve O's domination of the Standard side events and my good fortune in opening Thawing Glaciers in two separate *Ice Age/Alliances* Sealed Deck sides put us in a good position, but Dave was a monster. He played in every event he could sign up for and won more than his fair share of them. I remember being impressed with his play skill but more than anything I was taken with the joy with which he and Dan Burdick gamed, which buoyed all of us throughout the weekend. In the end, we won the title in a rather contentious battle with Pete Leiher and a squad from the Virginia area. 
+![](https://i.ormos.uk/5c/0d/5c0d79bbf9c4ccee054f98fb6dfa581bfa50ce4b8670aa9758addc402739036e.jpg)
+
+Steve O's domination of the Standard side events and my good fortune in opening Thawing Glaciers in two separate *Ice Age/Alliances* Sealed Deck sides put us in a good position, but Dave was a monster. He played in every event he could sign up for and won more than his fair share of them. I remember being impressed with his play skill but more than anything I was taken with the joy with which he and Dan Burdick gamed, which buoyed all of us throughout the weekend. In the end, we won the title in a rather contentious battle with Pete Leiher and a squad from the Virginia area. 
 
 Among the prizes we won were a box each of *Legends* and *Antiquities* -- although I cannot remember the exact prizes, I will never forget that weekend as one of the best times I ever had playing the game of **Magic**. I ran into Dan this past summer at U.S. Nationals and he echoed that sentiment. Dan, who is the brother of Wizards R&D's Matt Place, fell away from the competitive aspect of the game years ago, and of the original team only Williams and I still played (although Steve OMS does duck his head back in periodically). Dan and I were pondering whether or not Dave would ever play again as he had just earned his $3.5 million for his second-place finish at the 2004 World Series of Poker. 
 
@@ -940,7 +942,9 @@ I caught up with Dave as he prepared for a poker tournament in Atlantic City and
 
 **BDM**: Most people in the **Magic** community assumed you would never set foot inside another tournament site. Was there any point you considered not playing "low-stake" card games again?
 
-![](https://i.ormos.uk/19/c5/19c5687ae91fa902e3209e557950303471bb6faef390a737c0d58004167fc638.jpg)**Williams**: Not at all. I am a true gamer and love to game regardless of the stakes. I am not a game player for the money, but for the love of the game. 
+![](https://i.ormos.uk/19/c5/19c5687ae91fa902e3209e557950303471bb6faef390a737c0d58004167fc638.jpg)
+
+**Williams**: Not at all. I am a true gamer and love to game regardless of the stakes. I am not a game player for the money, but for the love of the game. 
 
 **BDM**: I was intrigued by your comments to Justin Gary during Worlds about not wanting to sit on a beach with your winnings -- can you elaborate on that a little for me?
 
@@ -966,7 +970,9 @@ I caught up with Dave as he prepared for a poker tournament in Atlantic City and
 
 **Williams**: Not really. I still feel like the same person, and my friends say I haven't changed a bit. 
 
-![](https://i.ormos.uk/0f/d9/0fd9c1845c3d39962d890f4f9562f5204bd864f28b72f1655ee1db3ffc776c85.jpg)**BDM**: How has it changed the people around you?
+![](https://i.ormos.uk/0f/d9/0fd9c1845c3d39962d890f4f9562f5204bd864f28b72f1655ee1db3ffc776c85.jpg)
+
+**BDM**: How has it changed the people around you?
 
 **Williams**: Again, since I haven't changed most of the people around me haven't either. Everyone is pretty much cool about it. Once they get the “congratulations” out of the way things go back to the way they've always been.
 

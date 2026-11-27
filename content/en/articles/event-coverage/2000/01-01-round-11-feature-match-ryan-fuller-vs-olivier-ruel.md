@@ -64,7 +64,9 @@ Ryan 1 - 0 Olivier
 
 Olivier first plays was an Skyscape Familiar while Ryan used a Vodalian Merchant to draw a card discarding an island. He joked about being mana-screwed and that he shouldn't have discarded the island and for a second the Frenchman took it seriously. Ruel played a Prison Barricade and Fuller did the Crocodile thing again discarding a swamp while Olivier grudgingly threw away a swamp. The Crocodile got bounced by a Repulse pushing Fuller back to square one. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/920.jpg)After replaying the Merchant and doing his trademark Ghitu Fire discard, Ryan played Dranul's Pet (no kicker). That was no match for Ruel's Vodalian Serpent (with kicker) that joined the fray a turn later. Suddenly the Pet donned a Sleeper's Robe and got a Ryan a free card and the Serpent was bounced by a Repulse. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/920.jpg)
+
+After replaying the Merchant and doing his trademark Ghitu Fire discard, Ryan played Dranul's Pet (no kicker). That was no match for Ruel's Vodalian Serpent (with kicker) that joined the fray a turn later. Suddenly the Pet donned a Sleeper's Robe and got a Ryan a free card and the Serpent was bounced by a Repulse. 
 
 Olivier replayed the Serpent and after some consideration Fuller played a Ravenous Rats (getting rid of an Artic Merfolk). Finally the Serpent was able to attack, along with the Barricade but a Death Bomb sent the confused snake into the graveyard, along with the sacrificed Merfolk. 
 

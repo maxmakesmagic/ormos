@@ -95,13 +95,17 @@ Before I jump into the thick of it, let me begin by introducing you to the *Diss
 
 **Matt Place**
 
-![](https://i.ormos.uk/3d/d4/3dd458e4ffc2ff85d5fa278d0ce011053e5cbf45dba76b6c93dbdf63ad209dde.jpg)While Matt has been on a number of development teams, this was Matt's first time leading a team. (Just as it was Aaron's first time leading a design team. – not too shabby for two first timers.) I've known Matt for years. He and I first became friends back in the early days of the Pro Tour. In fact, Matt attended the very first **Magic** Invitational (at the time known as the Duelist Invitational) in Hong Kong. (By the way, the 10th Annual **Magic** Invitational is going on as we speak, check it out [here](https://web.archive.org/web/20060512000000/https://magic.wizards.com/en/events/coverage/ruel-invokes-invitationalists-victory).) I was there when Matt won Pro Tour--Mainz. Matt disappeared for a number of years, but then resurfaced a few Pro Tour seasons back. 
+![](https://i.ormos.uk/3d/d4/3dd458e4ffc2ff85d5fa278d0ce011053e5cbf45dba76b6c93dbdf63ad209dde.jpg)
+
+While Matt has been on a number of development teams, this was Matt's first time leading a team. (Just as it was Aaron's first time leading a design team. – not too shabby for two first timers.) I've known Matt for years. He and I first became friends back in the early days of the Pro Tour. In fact, Matt attended the very first **Magic** Invitational (at the time known as the Duelist Invitational) in Hong Kong. (By the way, the 10th Annual **Magic** Invitational is going on as we speak, check it out [here](https://web.archive.org/web/20060512000000/https://magic.wizards.com/en/events/coverage/ruel-invokes-invitationalists-victory).) I was there when Matt won Pro Tour--Mainz. Matt disappeared for a number of years, but then resurfaced a few Pro Tour seasons back. 
 
 Matt had heard that there was an internship opening up in R&D and he told me he was thinking about applying for it. I heartily encouraged him and gave a ringing endorsement for him back in R&D. Cut to present day. Matt has become a key R&D developer. I was quite excited when he asked me to be on his team (Brian and I both like to let our team leads have some input into who will be on their team). The development process was relatively painless and I'm quite happy with the set we turned out. 
 
 **Brian Schneider**
 
-![](https://i.ormos.uk/48/ac/48ac800712c71f7b79008df15c95c3c7f96dd347371d8981786cd6cb5b95e103.jpg)Brian is my equivalent on development. I don't envy him. While design is a lot of work, it has a lot less drudgery than development. As I always say, design's job is to make it fun and development's job is to make it fair. Making things fun is a lot more fun than making things fair. (Well, at least that's my perspective – good thing I run design, huh?) Creating a balanced environment takes a lot of work. I think so much focus has gone into how much fun *Ravnica* block is that many people overlook what a good job Brian and the developers have done to keep everything balanced. I don't know if I can remember another time in **Magic** where *every* format was running smoothly with significant diversity. This is Brian's doing.
+![](https://i.ormos.uk/48/ac/48ac800712c71f7b79008df15c95c3c7f96dd347371d8981786cd6cb5b95e103.jpg)
+
+Brian is my equivalent on development. I don't envy him. While design is a lot of work, it has a lot less drudgery than development. As I always say, design's job is to make it fun and development's job is to make it fair. Making things fun is a lot more fun than making things fair. (Well, at least that's my perspective – good thing I run design, huh?) Creating a balanced environment takes a lot of work. I think so much focus has gone into how much fun *Ravnica* block is that many people overlook what a good job Brian and the developers have done to keep everything balanced. I don't know if I can remember another time in **Magic** where *every* format was running smoothly with significant diversity. This is Brian's doing.
 
 In addition, I enjoy working with Brian. While our roles occasionally force us to butt heads, in general we get along great. *Dissension* development was no exception.
 
@@ -111,7 +115,9 @@ So much focus goes on some of the higher-up people in R&D that I think the avera
 
 **Mark Rosewater**
 
-![](https://i.ormos.uk/36/f7/36f721b7d86cd6baa42e539d43b8e75e0b0213a5a1b8570f547b0e9cfc889867.jpg)And then there's me. But I already talked about me, so you'll just have to enjoy the lovely picture.
+![](https://i.ormos.uk/36/f7/36f721b7d86cd6baa42e539d43b8e75e0b0213a5a1b8570f547b0e9cfc889867.jpg)
+
+And then there's me. But I already talked about me, so you'll just have to enjoy the lovely picture.
 
 So here's what I'm going to do for my one and only development column. At the beginning of development, the design team hands off a file known as the Handoff File (a.k.a. the 0.0 File). Today, I'm going to show you a few cards as they came into development. Then I'll show you the final card and I'll explain how the card got from State A to State B. (By the way, there's no rhyme and reason for the order other than my whim.) Sound fun? Then away we go.
 

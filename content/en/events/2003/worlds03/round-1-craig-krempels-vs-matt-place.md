@@ -255,7 +255,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds03/a950.jpg)CMU/TOGIT member Craig Krempels has an outside shot of winning this year's Rookie of the Year race. It would involve a 1st or 2nd place finish this weekend and for Rookie race frontrunner Masashi Oiso to be abducted by aliens. Craig was playing a Mirari's Wake deck with Exalted Angels and Decree of Justice. 
+![](http://www.wizards.com/sideboard/images/worlds03/a950.jpg)
+
+CMU/TOGIT member Craig Krempels has an outside shot of winning this year's Rookie of the Year race. It would involve a 1st or 2nd place finish this weekend and for Rookie race frontrunner Masashi Oiso to be abducted by aliens. Craig was playing a Mirari's Wake deck with Exalted Angels and Decree of Justice. 
 
 Standing in his way was Matt Place. Matt was last seen winning Pro Tour Mainz in 1998. He left the game shortly thereafter, resurfacing periodically at large events—most recently at Pro Tour Barcelona. Long enough ago that he was unfamiliar with the red Zone mats in the feature match area and Mark Rosewater reviewed the peculiarities of using it.
 
@@ -269,7 +271,9 @@ Matt is a big fan of the current block and credits it as the reason he has taken
 
 Matt could not keep his opening hand and shipped it back for a more acceptable six. His hand did not contain much in the way of action and he got nothing going until a turn three Goblin Warchief after fetch lands on the first two turns. He played out a Gempalm Incinerator on the next turn and was able to drop Craig—who had cycled renewed Faith along the way--to sixteen. 
 
-![](https://i.ormos.uk/87/52/875202b8912fbefdfd820be1da3260f6d84cce2bae36ad68d87cf3b7153decb4.jpg)Craig had the turn four Wrath and took out the two creatures. A lonely Goblin Sharpshooter was Matt's post-Wrath play and Craig saw a window to play his Mirari's Wake.
+![](https://i.ormos.uk/87/52/875202b8912fbefdfd820be1da3260f6d84cce2bae36ad68d87cf3b7153decb4.jpg)
+
+Craig had the turn four Wrath and took out the two creatures. A lonely Goblin Sharpshooter was Matt's post-Wrath play and Craig saw a window to play his Mirari's Wake.
 
 Matt sent a Clickslither into the red zone and the Sharpshooter got his ping on briefly before being sacrificed to the goblin-hungry insect and he dropped Craig to ten. The CMU/TOGITer went one for one with another Wrath on the next turn. Matt played a Piledriver off of the top of his deck but Craig's deck was beginning to fire on all cylinders. He cycled another Renewed Faith and cracked his Verge EOT and untapped top plop a 5/6 Exalted Angel on the board.
 
@@ -297,7 +301,9 @@ Craig: "I'm pretty sure I would have won...awful Goblins."
 
 Matt opened with Piledrivers on turns two and three. When Craig tried Moment's Peace, Matt had the Flaring Pain at the ready. A post-attack Volcanic hammer was sent domeward and the New Jersey native fell to ten. He hopped back up to 12 on the basis of Renewed Faith and killed the Piledriver with a Wrath of God.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a952.jpg)Matt played deliberately and did some mental math. When it summed in his favor he acted quickly and played out a Barbarian Ring, Sulfuric Vortex and a Goblin Sledder. Craig slipped back to ten and faced-up an Exalted Angel. 
+![](http://www.wizards.com/sideboard/images/worlds03/a952.jpg)
+
+Matt played deliberately and did some mental math. When it summed in his favor he acted quickly and played out a Barbarian Ring, Sulfuric Vortex and a Goblin Sledder. Craig slipped back to ten and faced-up an Exalted Angel. 
 
 Once again Matt ran his figures. After weighing his options he played a Clickslither. Matt may not have been familiar with the red zone prior to this event but he adapted quickly. He pushed both his creatures toward the exalted Angel in the center of the table and stylishly split them to either side as if to make them run around her. 
 

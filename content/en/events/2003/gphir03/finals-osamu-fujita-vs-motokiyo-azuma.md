@@ -98,13 +98,17 @@ render_recovery:
   - Ravenous Baloth
   occurrences: 79
 ---
-![](https://i.ormos.uk/09/65/09654233bfb64fab63181135e0f48ca076eb8f9fdf5edb9c7ad89ed4cbe95deb.jpg)Everybody's rooting for Osamu Fujita right now. He'll need all the support he can get. His metagamed red-green deck took all the oomph from mono-red and added Rancor, River Boa and Wild Mongrel to smash opposing red decks. He calls it "Two Deuce", or if you prefer, the Double Deuce. Unfortunately, his opponent, rookie Motokiyo Azuma is playing Enchantress, and is expecting an easy match.
+![](https://i.ormos.uk/09/65/09654233bfb64fab63181135e0f48ca076eb8f9fdf5edb9c7ad89ed4cbe95deb.jpg)
+
+Everybody's rooting for Osamu Fujita right now. He'll need all the support he can get. His metagamed red-green deck took all the oomph from mono-red and added Rancor, River Boa and Wild Mongrel to smash opposing red decks. He calls it "Two Deuce", or if you prefer, the Double Deuce. Unfortunately, his opponent, rookie Motokiyo Azuma is playing Enchantress, and is expecting an easy match.
 
 ### Game 1
 
 Azuma won the die roll, putting the odds firmly in his favor. Both players declined a mulligan, and the finals were underway. Azuma answered Fujita's Jackal Pup with Fertile Ground. Fujita hit it with Rancor and dropped Azuma to sixteen. Azuma played out Enchantress's Presence and Wild Growth before giving it back. Fujita dropped hijm to eleven and then played out River Boa and another Pup. He had ten damage on the table. In all likelihood, this would be Azuma's last turn.
 
-![](https://i.ormos.uk/84/06/84062b19686adc85c6edab5f39b1686a8ca1fb24e247d5a05b92a7805e6e1e45.jpg)He started with a second Enchantress's Presence. His mana was a little tight, though. He needed to draw some good spells. Exploration got him two cards. Another got him two more, while allowing him to play more lands. Still no Cloud of Faeries. His last bet was a Wild Growth on his island, and that finally gave him what he wanted. He Living Wished for Serra's Sanctum and then dropped Words of Wind with plenty of mana floating. Fujita shot down the Cloud, but Azuma drew Frantic Search off the Words, so he was clear to go off.
+![](https://i.ormos.uk/84/06/84062b19686adc85c6edab5f39b1686a8ca1fb24e247d5a05b92a7805e6e1e45.jpg)
+
+He started with a second Enchantress's Presence. His mana was a little tight, though. He needed to draw some good spells. Exploration got him two cards. Another got him two more, while allowing him to play more lands. Still no Cloud of Faeries. His last bet was a Wild Growth on his island, and that finally gave him what he wanted. He Living Wished for Serra's Sanctum and then dropped Words of Wind with plenty of mana floating. Fujita shot down the Cloud, but Azuma drew Frantic Search off the Words, so he was clear to go off.
 
 Azuma 1 – Fujita 0
 
@@ -112,7 +116,9 @@ Azuma 1 – Fujita 0
 
 Both players grudgingly kept their hands for Game 2. Fujita led with Mogg Fanatic. Azuma had two forests thanks to Exploration. River Boa came next on Fujita's side. Azuma played Enchantress's Presence and drew for his second Exploration, ending his turn. Fujita smashed for three, dropped Treetop Village, and sent Firebolt to the face. His usual glower darkened.
 
-![](https://i.ormos.uk/8d/ad/8dadf990b0bde9085f96879c9cd29b9a4e5f8b4e7c84351600c3b86696056951.jpg)A pair of Fertile Grounds suited up Azuma's island. Frantic Search gave him a second Presence, as well as Serra's Sanctum. He played the Presence and gave it back to Fujita, feeling safe about his fourteen life.
+![](https://i.ormos.uk/8d/ad/8dadf990b0bde9085f96879c9cd29b9a4e5f8b4e7c84351600c3b86696056951.jpg)
+
+A pair of Fertile Grounds suited up Azuma's island. Frantic Search gave him a second Presence, as well as Serra's Sanctum. He played the Presence and gave it back to Fujita, feeling safe about his fourteen life.
 
 Fujita just stared at him. In his hand was Blood Oath. If he could catch Azuma being reckless, the Oath could take the game for him. He knocked Azuma to eleven. Azuma wouldn't bite. He played a pair of Seals of Removal, an Argothian Enchantress, and a bunch of land. He spent both his Seals on Fujita's creatures. Fujita played a mountain and Grim Lavamancer.
 

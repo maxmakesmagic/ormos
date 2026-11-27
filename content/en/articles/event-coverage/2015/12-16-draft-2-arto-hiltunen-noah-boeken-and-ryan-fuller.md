@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Scott Wills* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/153.jpg)The top table featured a good mixture of well-known and relatively unknown players. It was everything Ryan Fuller and Noah Boeken could have hoped for coming into this event as these two close friends found themselves sitting next to each other in the last draft of the day. Cooperating with the players sitting next to you is a typical essential to a good Rochester draft and with Ryan and Noah splitting whatever money they may end up winning these two players were obviously not even considering drafting against each other. Arto Hiltunen was sitting on Noah's right and these three together made up most infamous players on the table. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/153.jpg)
+
+The top table featured a good mixture of well-known and relatively unknown players. It was everything Ryan Fuller and Noah Boeken could have hoped for coming into this event as these two close friends found themselves sitting next to each other in the last draft of the day. Cooperating with the players sitting next to you is a typical essential to a good Rochester draft and with Ryan and Noah splitting whatever money they may end up winning these two players were obviously not even considering drafting against each other. Arto Hiltunen was sitting on Noah's right and these three together made up most infamous players on the table. 
 
 Before the draft had even started, as the players chatted to each other, Arto made his intention to draft black-red very clear by stating it directly to Noah. Arto held true on this promise as sitting in seat number five his first pick of the draft was a Viashino Grappler. Noah respected this and took a Vodalian Serpent, leaving a Kavu Aggressor for Ryan. 
 

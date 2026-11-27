@@ -44,7 +44,9 @@ archive_source:
   sha256: fad3a2bdc89813aa27edeace83101d430bd7f3698647becf8cdac1b7fbd7fb88
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a849.jpg)Stalking Tiger came into round nine with only one loss and sitting in second place in the overall standings. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a849.jpg)
+
+Stalking Tiger came into round nine with only one loss and sitting in second place in the overall standings. 
 
 The team that stands percentage points ahead of them? Bob Maher, Gary Wise, and Neil Reeves—Courtney's Boys. They are also the only team that has handed Matt Urban, Paul Jordan, and Josh Ravitz a loss, way back in the fifth round yesterday.
 
@@ -78,7 +80,9 @@ Gary drew another land and attacked into the Bully. When Josh activated it, Gary
 
 Gary made a [Krosan Avenger](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Avenger) and Josh had no land and no play in the bottom half of the turn. Gary swung his Avenger into the Tiger and they traded. Josh was till without land or play on his turn. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a851.jpg)Gary attacked down to 12 and attempted a longhorn Firebeast which came into play. Josh finally drew a [Swamp](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp) and was able to play a [Whispering Shade](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whispering+Shade) with a [Tainted Wood](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tainted+Wood)s open in case of lava dart..
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a851.jpg)
+
+Gary attacked down to 12 and attempted a longhorn Firebeast which came into play. Josh finally drew a [Swamp](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp) and was able to play a [Whispering Shade](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whispering+Shade) with a [Tainted Wood](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tainted+Wood)s open in case of lava dart..
 
 Gary cast an Iron shell Beetle and pumped his Tiger. [Sonic Seizure](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sonic+Seizure) dispatched the Shade with a [Sonic Seizure](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sonic+Seizure). Josh made a Warthog but Gary had [Temporary Insanity](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temporary+Insanity) to steal it for the win.
 
@@ -104,7 +108,9 @@ Gary – 1 Josh – 2
 
 By now Bob was up a game on Paul Jordan and things were looking good for Maher in Game 2.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a852.jpg)Matt and Neil were caught up in a nail biter of a third game. Back on his heels for most of the game—Matt was finally stabilizing and had a real chance of pulling this one—
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a852.jpg)
+
+Matt and Neil were caught up in a nail biter of a third game. Back on his heels for most of the game—Matt was finally stabilizing and had a real chance of pulling this one—
 
 --never mind. Neil had the [Aether Burst](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst) for the win.
 

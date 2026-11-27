@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/d9/5e/d95e20337cfc10b304dba7c7868643f5f838cc1a67bd8208c086548e63bffd20.jpg)Making the first table in the last draft of a Grand Prix normally means you are very close to the top 8. In Valencia two of Europe's top players, Olivier Ruel and Bram Snepvangers, breezed through the first day and did really well during the first draft to earn a spot at the top table.
+![](https://i.ormos.uk/d9/5e/d95e20337cfc10b304dba7c7868643f5f838cc1a67bd8208c086548e63bffd20.jpg)
+
+Making the first table in the last draft of a Grand Prix normally means you are very close to the top 8. In Valencia two of Europe's top players, Olivier Ruel and Bram Snepvangers, breezed through the first day and did really well during the first draft to earn a spot at the top table.
 
 Before we start the draft report I would like to take a few moments to thank both players. As we sat down for the draft I told them I was going to record their drafts and asked them, if possible, to show me clearly what they were drafting. They were incredibly conscious of this during the draft and it made my life a lot simpler. I'm sure it didn't distract them too much, especially Bram who simply added it to his drafting routine, and it makes the reporting much faster and certainly much smoother.
 

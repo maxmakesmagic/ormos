@@ -44,13 +44,17 @@ archive_source:
   sha256: a8f391b4ef5732af91b0ce4c75cabc1e308eafdb67a24bc1b69dd431c52313fc
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/849.jpg)The final round of Duplicate Limited saw San Francisco's Ben Rubin against the Netherlands' Noah Boeken. Playing a White/Blue/Green deck, Ben's main strategy was the underused Winter Orb with Waterfront Bouncer. Noah Boeken utilized a Black/Red/Green deck. The main feature being the combo of Living Plane, Goblin Bombardment and Groundskeeper, effectively destroying all of the opponent's lands while recovering your own.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/849.jpg)
+
+The final round of Duplicate Limited saw San Francisco's Ben Rubin against the Netherlands' Noah Boeken. Playing a White/Blue/Green deck, Ben's main strategy was the underused Winter Orb with Waterfront Bouncer. Noah Boeken utilized a Black/Red/Green deck. The main feature being the combo of Living Plane, Goblin Bombardment and Groundskeeper, effectively destroying all of the opponent's lands while recovering your own.
 
 Game 1 started with Noah electing to draw. The first several turns saw lands being played until the fourth turn came. Ben played a Tracker (3G) while Noah responded with a Spidersilk Armor (3G). Following was Ben's Maro (4G) to complement his Tracker. Noah played his own Maro, which was regrettably bigger by one toughness due to the Spidersilk Armor. A minor standoff ensued until Noah played Demonic Tutor (3BB) for Bone Shredder (5B). Ben on the other hand played an Arctic Wolves (4GG) to join his Maro and Tracker. Noah then Bone Shredded Ben's Maro before being forced to go on the defensive. Attacking with the Arctic Wolves, Noah blocked with his 5/6 Maro, to finish off the Maro Ben Trackered the Maro, finally playing a Winter Orb. This slowed the game down considerably as Winter Orb usually does.
 
 Ben proceeded to play Waterfront Bouncer (3U) to Noah's Groundskeeper (1G), until Noah played a Keldron Firebombers, reducing all players land to three. Overall this had little effect on the game with a Winter Orb in play, ultimately in the end the Bombers hurt Noah more.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/850.jpg)With an active Waterfront Bouncer in play, Noah's creatures where effectively useless until he could deal with the Bouncer. With Noah's creatures at bay, Ben played a Devout Witness (3W) and proceeded to attack for several turns until Noah found an answer for Ben's Waterfront Bouncer in the form of Goblin Bombardment and a sacrificial creature (Groundskeeper). But by this time it was too late as a Wild Mammoth (1G) and Devout Witness came in the win.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/850.jpg)
+
+With an active Waterfront Bouncer in play, Noah's creatures where effectively useless until he could deal with the Bouncer. With Noah's creatures at bay, Ben played a Devout Witness (3W) and proceeded to attack for several turns until Noah found an answer for Ben's Waterfront Bouncer in the form of Goblin Bombardment and a sacrificial creature (Groundskeeper). But by this time it was too late as a Wild Mammoth (1G) and Devout Witness came in the win.
 
 The highlight of the game being the unexpected play of Winter Orb as Noah was completely unprepared for it.
 

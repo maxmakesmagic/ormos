@@ -148,7 +148,9 @@ render_recovery:
   - Whipkeeper
   occurrences: 142
 ---
-![](http://www.wizards.com/sideboard/images/canat02/a951.jpg)Thousands of miles normally separate these two players – Jeff Fung from Vancouver and Loius Boileau from Quebec – but today they are side-by-side at table 1. The battleground is *Odyssey*/*Torment*/*Judgment* booster draft, a format still in its infancy. Have these two figured it out in time?
+![](http://www.wizards.com/sideboard/images/canat02/a951.jpg)
+
+Thousands of miles normally separate these two players – Jeff Fung from Vancouver and Loius Boileau from Quebec – but today they are side-by-side at table 1. The battleground is *Odyssey*/*Torment*/*Judgment* booster draft, a format still in its infancy. Have these two figured it out in time?
 
 The table was situated as such:
 

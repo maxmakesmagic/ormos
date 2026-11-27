@@ -78,7 +78,9 @@ render_recovery:
 ---
 **Magic** isn't just about the current block. It's a game, deep and complex, with trees of possibility, tactical maneuvers, and strategic considerations. A lot of people talk about luck's role in **Magic**, and I think I understand why.
 
-![](http://www.wizards.com/images/magic.jpg)It's pretty much accepted that in the classic game of rock-paper-scissors, only luck is involved. But many would also be surprised to learn that there are people in the world that can beat you and almost everyone else 80% of the time. Maybe not 4 times out of 5, but in that very important long run, you have already lost.
+![](http://www.wizards.com/images/magic.jpg)
+
+It's pretty much accepted that in the classic game of rock-paper-scissors, only luck is involved. But many would also be surprised to learn that there are people in the world that can beat you and almost everyone else 80% of the time. Maybe not 4 times out of 5, but in that very important long run, you have already lost.
 
 So leave whatever preconceptions you may have on the doorstep, because in my world, when you lose it's your fault. Did you get too many bad matchups? Pick a different deck. Too many bad draws? Mulligan more. Sit next to a hate-drafter in Rochester? Adapt.
 

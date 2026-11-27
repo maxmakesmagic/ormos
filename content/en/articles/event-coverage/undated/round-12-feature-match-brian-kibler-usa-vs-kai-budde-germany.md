@@ -65,6 +65,8 @@ With two seven-turn games under their belt, the next game was set up to be somew
 
 This time, both players came out of the gate swinging. Kai kept a Defiant Falcon in the air for the first half of the game, and a Steadfast Guard and Defiant Vanguard soon joined it in play. Brian played a turn three Armageddon while the Falcon was alone; with a Bird of Paradise and Llanowar Elf on the table (and managing his lands right) he was still able to pull off a turn four Jade Leech. With a River Boa coming on board soon afterward, the momentum seemed to be Brian's. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/733.jpg)Then, on turn nine, Kai finally topdecked the fourth land he needed to play Wrath of God. What followed next was a series of Chimeric Idols (at least two on each side); Kai managed to poke through three times with at least one. When he played a Sky Marshal on turn 13, Brian had no choice on his subsequent draw but to concede. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/733.jpg)
+
+Then, on turn nine, Kai finally topdecked the fourth land he needed to play Wrath of God. What followed next was a series of Chimeric Idols (at least two on each side); Kai managed to poke through three times with at least one. When he played a Sky Marshal on turn 13, Brian had no choice on his subsequent draw but to concede. 
 
 While the Flashfires Brian had sideboarded in for games two and three did make a splash in game two; neither they nor the Tsabo's Decree he had splashed in showed for game three. Kai had set aside his Wax/Wanes, Longbow Archers, and a few random rebels to make room for three Wraths of God, three Magetas, and two Seals of Cleansing (anti-Idol tech that did work once).

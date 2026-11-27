@@ -47,7 +47,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/e1/bd/e1bd89c91910b293f0bba1f3cc50117aae9e298dd9aae81d3baaef2dbab5031f.png)Each card in these two decks is black-bordered and tournament legal. They were designed to be played right out of the box, with no deckbuilding required.
+![](https://i.ormos.uk/e1/bd/e1bd89c91910b293f0bba1f3cc50117aae9e298dd9aae81d3baaef2dbab5031f.png)
+
+Each card in these two decks is black-bordered and tournament legal. They were designed to be played right out of the box, with no deckbuilding required.
 
 **Set Name: Duel Decks:** *Sorin vs. Tibalt*  
 **Number of Cards:** 120

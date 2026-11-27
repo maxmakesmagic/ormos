@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM13diazparke.jpg)In round 13, it's all about making the Top 8 or playing for money. Jamie Parke and Andrew Diaz-Matos both entered round 13 looking to make the Top 8, and finish with a big paycheck in their wallets. Both players are from New York, Diaz-Matos is from New York City, and Parke is from upstate. Andrew won the coin flip and opted to play first. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM13diazparke.jpg)
+
+In round 13, it's all about making the Top 8 or playing for money. Jamie Parke and Andrew Diaz-Matos both entered round 13 looking to make the Top 8, and finish with a big paycheck in their wallets. Both players are from New York, Diaz-Matos is from New York City, and Parke is from upstate. Andrew won the coin flip and opted to play first. 
 
 **Game 1** 
 
@@ -58,6 +60,8 @@ Jamie wins game one after thirty minutes.
 
 **Game 2** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM12-13Diazmatos.jpg)Game 2 had similar plays and tones as game one, with similar results, even taking nearly as much time - 20 minutes plus the additional five turns. Had the game gone on, it's possible that Parke would have outright won the match, but the game ended on time, giving Parke the win and a berth into the top 8. The crucial play of the match was when Parke Stunned his own Pouncing Kavu after Andrew had Spinal Embraced it and was planning on using it to block his attacking Treva's Attendant. Andrew also Scorched the Pyre Zombie out of this game, and was also to play an Urborg Shambler again, netting three card advantage again. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM12-13Diazmatos.jpg)
+
+Game 2 had similar plays and tones as game one, with similar results, even taking nearly as much time - 20 minutes plus the additional five turns. Had the game gone on, it's possible that Parke would have outright won the match, but the game ended on time, giving Parke the win and a berth into the top 8. The crucial play of the match was when Parke Stunned his own Pouncing Kavu after Andrew had Spinal Embraced it and was planning on using it to block his attacking Treva's Attendant. Andrew also Scorched the Pyre Zombie out of this game, and was also to play an Urborg Shambler again, netting three card advantage again. 
 
 **Final Result:** Jamie Parke 2 - Andrew Diaz-Matos 0

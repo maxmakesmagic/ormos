@@ -141,7 +141,9 @@ render_recovery:
   - Tower of Murmurs
   occurrences: 114
 ---
-![](https://i.ormos.uk/0c/15/0c157b0af33646739ee902f903977ab9e918f7b808cd69515b441d203076da03.jpg)Much has been made this weekend of the Japanese **Magic** community's tendency toward nicknames. Yesterday when a typo referred to the Japanese Sideboard Editor-in-Chief as "Mike", Kouichirou Maki was immediately dubbed "Mikey K". 
+![](https://i.ormos.uk/0c/15/0c157b0af33646739ee902f903977ab9e918f7b808cd69515b441d203076da03.jpg)
+
+Much has been made this weekend of the Japanese **Magic** community's tendency toward nicknames. Yesterday when a typo referred to the Japanese Sideboard Editor-in-Chief as "Mike", Kouichirou Maki was immediately dubbed "Mikey K". 
 
 Maki found himself sitting at Table One this morning for the draft. He was also going to be opening first. The pick order going right to left for the first pack was as follows:
 
@@ -164,7 +166,9 @@ Royce took a Cobalt Golem with his first pick from pack four and Iwano's deck wa
 
 As the draft progressed he picked up a Skyhunter Cub and ended up with a pair of Den-Guards. He had a rough go of it with Arrests, Soul Novas, and Cubs going to his table mates to the left and right of him. He did open well with another Bonesplitter awaiting him in the third pack. 
 
-![](https://i.ormos.uk/fb/ee/fbee58128f09ddc778b8d57e0b3685d113e5647aaba1745be261a0d79b3b727c.jpg)There were three Grab the Reins opened at the table but Maki could not get his mitts on any of them with two of them going to his right in Nagayama's deck. He did manage to pick up some modest red with an Electrostatic Bolt and an Ogre Leadfoot. 
+![](https://i.ormos.uk/fb/ee/fbee58128f09ddc778b8d57e0b3685d113e5647aaba1745be261a0d79b3b727c.jpg)
+
+There were three Grab the Reins opened at the table but Maki could not get his mitts on any of them with two of them going to his right in Nagayama's deck. He did manage to pick up some modest red with an Electrostatic Bolt and an Ogre Leadfoot. 
 
 Maki also ended up with three Cathodions, something he was very happy about, "I am a very slow player so I wanted to draft a very fast deck. I need to give myself less to think about besides attacking."
 

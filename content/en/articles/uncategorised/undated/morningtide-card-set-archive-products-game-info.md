@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/f3/d9/f3d9b93c72ed5ea9982801b63ad8935f4c0cc4daac79b606fd329b1b98de9463.png)This second set in the *Lorwyn-Shadowmoor* block features 150 cards with randomly inserted premium cards. *Morningtide* expands on the themes introduced in Lorwyn and unveils three new mechanics: Kinship, Reinforce, and Prowl.
+![](https://i.ormos.uk/f3/d9/f3d9b93c72ed5ea9982801b63ad8935f4c0cc4daac79b606fd329b1b98de9463.png)
+
+This second set in the *Lorwyn-Shadowmoor* block features 150 cards with randomly inserted premium cards. *Morningtide* expands on the themes introduced in Lorwyn and unveils three new mechanics: Kinship, Reinforce, and Prowl.
 
 **Set Name:** *Morningtide*  
 **Block:** Set 2 of 4 of the *Lorwyn-Shadowmoor* Block  

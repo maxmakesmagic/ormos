@@ -124,7 +124,9 @@ render_recovery:
   - Spark Spray
   occurrences: 85
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a878.jpg)The second day of Nationals kicked off with a bang. The top table of undefeated and 5-1 players were all playing nicely until Dave Humpherys took an unexpected Slice and Dice in the sixth *Onslaught* pack with two red drafters downstream of him. It had little effect on Adam Horvath but it left teammate Paul Rietzl without a real card for his blue-red deck. One pack later, Paul was thinking about switching into blue-white and took an Aven Brigadier while seven stunned faces looked on. Brian Kibler had practically licked the Brigadier to mark it as his and he seemed completely baffled by the pick. Interestingly, Humpherys, Kibler and Rietzl had extensively playtested this format together as part of the YMG squad.
+![](http://www.wizards.com/sideboard/images/natus03/a878.jpg)
+
+The second day of Nationals kicked off with a bang. The top table of undefeated and 5-1 players were all playing nicely until Dave Humpherys took an unexpected Slice and Dice in the sixth *Onslaught* pack with two red drafters downstream of him. It had little effect on Adam Horvath but it left teammate Paul Rietzl without a real card for his blue-red deck. One pack later, Paul was thinking about switching into blue-white and took an Aven Brigadier while seven stunned faces looked on. Brian Kibler had practically licked the Brigadier to mark it as his and he seemed completely baffled by the pick. Interestingly, Humpherys, Kibler and Rietzl had extensively playtested this format together as part of the YMG squad.
 
 Things seemed to degenerate after that. Mike McGee—who has never seen a counter draft he didn't love—took a few cards. James Cross took a Zealous Inquisitor—rather deliberately—from Dave Humpherys over a Chartooth Cougar that would certainly have made his deck.
 
@@ -132,7 +134,9 @@ By the time *Scourge* was ready to wrap up things had settled back to a relative
 
 Paul was sitting at 5-1 after Day one, which is really a record of 16-2 after losing in the last round of one Grinder and winning the next. "My deck is great—it's absolutely fantastic! It's so good I'm thinking of cutting one of the Rushes." Paul had to settle on the final seven cards or so in his deck. "My cards are not terribly synergistic but they are all SO good!"
 
-![](http://www.wizards.com/sideboard/images/natus03/a818.jpg)He was trying to decide if Covert Operative was going to make the deck, "I HATE this guy. The Hump LOVES this guy. I can't believe Humpherys cut my Slice and Dice. I had no cards after that—just some blue cards and a Skill. I know I took the Brigadier but at the time it wasn't a cut—I thought I was going to switch into blue-white.
+![](http://www.wizards.com/sideboard/images/natus03/a818.jpg)
+
+He was trying to decide if Covert Operative was going to make the deck, "I HATE this guy. The Hump LOVES this guy. I can't believe Humpherys cut my Slice and Dice. I had no cards after that—just some blue cards and a Skill. I know I took the Brigadier but at the time it wasn't a cut—I thought I was going to switch into blue-white.
 
 "After *Onslaught* I was really hurting for cards but *Scourge* really made my deck. That is why I decided to force blue before the tournament—once I qualified of course."
 
@@ -144,7 +148,9 @@ While Paul was bitter about Dave's Slice and Dice, Dave did it for Paul's own go
 
 "Of course, him taking the Brigadier made things crazy. Kibler kept going back and forth between black and blue and I couldn't gauge which one would be the under drafted color. I probably could be the guy with three Rush of Knowledge in my deck—I would have a better deck I think.
 
-![](http://www.wizards.com/sideboard/images/natus03/a865.jpg)"It was no fun having my white bombs opened on either side of me—the Brigadier and Dragon to the right and Akroma to the left. My deck is fine—its just not one of the best at the table. I would be amazed to 3-0 but the card quality is definitely there to go 2-1."
+![](http://www.wizards.com/sideboard/images/natus03/a865.jpg)
+
+"It was no fun having my white bombs opened on either side of me—the Brigadier and Dragon to the right and Akroma to the left. My deck is fine—its just not one of the best at the table. I would be amazed to 3-0 but the card quality is definitely there to go 2-1."
 
 Kibler was also pleased with his deck and disappointed with Paul. "I actually tested with YMG before this tournament and Dave, Paul and I had a pretty good idea of what we both wanted." Things would have worked out better for him had the packs featured more white cards. "I wish I had like two or three more soldiers instead of Dawning Purist and Starlight Invoker—*Scourge* was just very light in white cards."
 

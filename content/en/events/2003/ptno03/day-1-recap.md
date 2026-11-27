@@ -185,7 +185,9 @@ render_recovery:
 
 318 players came to New Orleans today to compete in an Extended format that was entirely unexplored. Since Worlds, Goblin Lackey, Frantic Search and Entomb were banned in an effort to slow the game down. 
 
-![](http://www.wizards.com/sideboard/images/ptno03/996.jpg)On the other hand, *Mirrodin* was printed.
+![](http://www.wizards.com/sideboard/images/ptno03/996.jpg)
+
+On the other hand, *Mirrodin* was printed.
 
 Thanks to the mana acceleration of Grim Monolith, Voltaic Key and Thran Dynamo, the set's most powerful cards can come out much faster than in other formats, which tends to break them in half. On top of that, Goblin Welder and Tinker allow players to abuse cards such as Mindslaver, Goblin Charbelcher and Myr Incubator to insane lengths. 
 

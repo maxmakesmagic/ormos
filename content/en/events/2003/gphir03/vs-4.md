@@ -389,7 +389,9 @@ render_recovery:
   - Thran Foundry
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gphir03/a932.jpg)Burn vs. Eternal Wind ( Enchantress-Combo Deck )
+![](http://www.wizards.com/sideboard/images/gphir03/a932.jpg)
+
+Burn vs. Eternal Wind ( Enchantress-Combo Deck )
 
 相性で言えば圧倒的に東が有利と言えるが、相手は日本人で唯一プロツアー準優勝を果たしている藤田御大。大舞台でのプレッシャー慣れがない東は思わぬミスが出るかも知れない。
 
@@ -415,7 +417,9 @@ render_recovery:
 
 **Game 2** 
 
-![](http://www.wizards.com/sideboard/images/gphir03/a931.jpg)《山》が 1 枚も無いハンドでどうしようも無い藤田は、ここでも 1 マリガンして開始。《ジャッカルの仔》や《ウルザの激怒/Urza's Rage》が有り、そこそこのハンドと言えるがこの相性差をひっくり返すにはやや物足りないか？
+![](http://www.wizards.com/sideboard/images/gphir03/a931.jpg)
+
+《山》が 1 枚も無いハンドでどうしようも無い藤田は、ここでも 1 マリガンして開始。《ジャッカルの仔》や《ウルザの激怒/Urza's Rage》が有り、そこそこのハンドと言えるがこの相性差をひっくり返すにはやや物足りないか？
 
 対する東のハンドは《フェアリーの大群/Cloud of Faeries》と《交易路/Trade Routes》とランド 5 枚だけで、先程に比べれば余り良くない。
 

@@ -79,7 +79,9 @@ render_recovery: []
 ---
 *Coldsnap* is right around the corner, and *Time Spiral* is just around the bend. But you know what, I am not ready to pack my bags and leave *Ravnica* yet. We do still have Rakdos week coming up soon, but it's sandwiched in between *Coldsnap*'s release and *Time Spiral* previews. So today we're going to pay some much deserved respect to one of **Magic's** greatest blocks ever.
 
-![Island4](https://i.ormos.uk/09/87/0987f58d7d1ec878850562d880e8cca7bbdb9c8c3bb47235039268b1026d7238.jpg)Since my first guild week article, I have wanted to do an article like this one, an article in which we pit the flavor of each guild against the other. I would write something about how cool I thought a particular guildmage illustration was, but could not weigh it against other cool ones that had not yet been released. It just has not seemed right to do, until now. At this point, we have all had time to come to know and love all of the guilds—so the *Ravnica* guilds do not have any measurable advantage over the more recent *Guildpact* or *Dissension* guilds. 
+![Island4](https://i.ormos.uk/09/87/0987f58d7d1ec878850562d880e8cca7bbdb9c8c3bb47235039268b1026d7238.jpg)
+
+Since my first guild week article, I have wanted to do an article like this one, an article in which we pit the flavor of each guild against the other. I would write something about how cool I thought a particular guildmage illustration was, but could not weigh it against other cool ones that had not yet been released. It just has not seemed right to do, until now. At this point, we have all had time to come to know and love all of the guilds—so the *Ravnica* guilds do not have any measurable advantage over the more recent *Guildpact* or *Dissension* guilds. 
 
 As I run through what I believe to be the coolest X, Y, or Z of all the guilds, remember that it's all just my educated, insider's opinion. I'll give my reasons for my choices, but it's all really there to stir up thought and conversation about the best **Magic** theme since…well, ever: The guilds. *Ravnica* was a joy to work on, is a ball to play, and inspiring just to talk about. So do not let it go gently into that Cold night. “Rage, rage,” howls the [Gruul Guildmage](https://web.archive.org/web/20060712000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gruul+Guildmage). Speaking of guildmages…
 
@@ -147,7 +149,9 @@ But it's not enough to redeem the art. For me, Novijen seems like it should have
 
 That's some ‘tude, ladies and gentlemen!
 
-![orzhova_the_church_of_deals](https://i.ormos.uk/a0/7b/a07b1fd9646f0bca1ee2be83ab873e1adff9234f608cb60e0e0004e087f0fb2d.jpg)1\. [Orzhova, the Church of Deals](https://web.archive.org/web/20060712000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orzhova%2C+the+Church+of+Deals) – Whatever Orzhov flavor the guildmage lacked, the guildhall packs in bulk. Right from the first two syllables the flavor starts seeping out. “Orzhova” tells us from where the guild name originates. “Church of Deals” lays out the conflicted goals of the guild in three words. The flavor text is a winner as well;
+![orzhova_the_church_of_deals](https://i.ormos.uk/a0/7b/a07b1fd9646f0bca1ee2be83ab873e1adff9234f608cb60e0e0004e087f0fb2d.jpg)
+
+1\. [Orzhova, the Church of Deals](https://web.archive.org/web/20060712000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orzhova%2C+the+Church+of+Deals) – Whatever Orzhov flavor the guildmage lacked, the guildhall packs in bulk. Right from the first two syllables the flavor starts seeping out. “Orzhova” tells us from where the guild name originates. “Church of Deals” lays out the conflicted goals of the guild in three words. The flavor text is a winner as well;
 
 > *Unlike most churches, at Orzhova it's best to pray before you arrive.*
 
@@ -175,7 +179,9 @@ Before we continue, I just want to say how excruciating this list was to do. All
 
 7\. [Ghost Council of Orzhova](https://web.archive.org/web/20060712000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghost+Council+of+Orzhova) – Possibly the best card of the bunch, but that's not what we're here for. My beef with the Council is that they ended up looking a little too zombie and not quite enough extremely wealthy dead guy. The execution of the art is superb, and the mood is appropriately creepy, but here they are at #7.
 
-![Borborygmos](https://i.ormos.uk/d9/14/d914a6c55e9a861900d53c0f1a41564c40081d3eb4202bef0f006104eb4c0933.jpg)6\. [Borborygmos](https://web.archive.org/web/20060712000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Borborygmos) – I think this guy is awesome. And yet, somehow he tops out at 6. His name is a riot (look up borborygmus in the dictionary) and his art is great too. Check out his armored bracer on his left hand—those are the shields of his fallen foes, some of them with guild signets upon them! This, plus some dandy flavor text, still only earns Ol' One-Eye a top 6 finish.
+![Borborygmos](https://i.ormos.uk/d9/14/d914a6c55e9a861900d53c0f1a41564c40081d3eb4202bef0f006104eb4c0933.jpg)
+
+6\. [Borborygmos](https://web.archive.org/web/20060712000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Borborygmos) – I think this guy is awesome. And yet, somehow he tops out at 6. His name is a riot (look up borborygmus in the dictionary) and his art is great too. Check out his armored bracer on his left hand—those are the shields of his fallen foes, some of them with guild signets upon them! This, plus some dandy flavor text, still only earns Ol' One-Eye a top 6 finish.
 
 5\. [Rakdos the Defiler](https://web.archive.org/web/20060712000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rakdos+the+Defiler) – Rakdos is what you call a lob. We pitched the artists a nice slow one and they did what great artists do with it - they smashed it. Rakdos is the demon we all want to see when we think of demons. (We all think of demons, right?) If only Rakdos was a bit more than the demon we all want to see—then it could have cracked the top 2. If only there was a little hint of carnival or theatre in there…
 

@@ -85,7 +85,9 @@ render_recovery:
   - Ravenous Baloth
   occurrences: 27
 ---
-![](http://www.wizards.com/sideboard/images/gppit03/a966.jpg)If you pay attention to Magic, you'll know the members of Supernova. Mike Hron, Matt Severa, and Bob Allbright are part of the bustling Madison, Wisconsin scene, and—to no one's surprise—all three were seen playing the casual 5-color format at various times during the day.
+![](http://www.wizards.com/sideboard/images/gppit03/a966.jpg)
+
+If you pay attention to Magic, you'll know the members of Supernova. Mike Hron, Matt Severa, and Bob Allbright are part of the bustling Madison, Wisconsin scene, and—to no one's surprise—all three were seen playing the casual 5-color format at various times during the day.
 
 Their opponents are three fellows you probably don't know. James Duguid, Charles Gindy, and Manny Orellana are from Florida and decided to come up and play in this event on a lark. Although not truly amateurs thanks to Gindy's three PT points, this team will quickly admit to not having played much on this level. That hasn't stopped them this weekend; after making the Top 4 in last night's trial, Prodigy has rattled off seven straight wins today.
 
@@ -97,7 +99,9 @@ Orellana, meanwhile, ran into a bad matchup. His Goblin Brigand was forced to ru
 
 Across the table, Duguid was trying to sandbag it with his red-green deck so that he could wreck Allbright with Slice and Dice. His plan worked. Allbright attacked Duguid down to 11 and then played the last two creatures in his hand. Duguid knocked on his deck, drew land #6, and played the nasty red Wrath. Allbright realized he should have seen it coming. Duguid followed that with a doubly amplified Glowering Rogon and a slew of other Beasts and was up a game.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a965.jpg)In the middle, Gindy was perplexed by Severa's now two Venomspout Brackuses, but Severa's low life total was keeping him on the defensive. Eventually Gindy played the devastating "combo" of Dragon Scales and Jareth, Leonine Titan, and the non-tapping pro-color Lion brought it home.
+![](http://www.wizards.com/sideboard/images/gppit03/a965.jpg)
+
+In the middle, Gindy was perplexed by Severa's now two Venomspout Brackuses, but Severa's low life total was keeping him on the defensive. Eventually Gindy played the devastating "combo" of Dragon Scales and Jareth, Leonine Titan, and the non-tapping pro-color Lion brought it home.
 
 Hron salvaged one win for Supernova in the opening salvo, and it was on two Game 2 up and down the table.
 
@@ -108,7 +112,9 @@ The first match went to Supernova, but both of Hron's teammates were down a game
 "I won," he said, leaning over.  
  "Trying to raise their confidence, get them to play smarter?" Orellana kidded.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a964.jpg)Down near seat C, the crowd erupted when Allbright flipped a 7-mana Slipstream Eel when resolving Erratic Explosion against Duguid's potentially game-ending Silklash Spider. Allbright's fliers were free to wreak havoc from then on, and a Lavamancer's Skilled Wizard kept Duguid backpedaling. The Floridian tried to mount a comeback using Ambush Commander, but when Allbright used his Willbender to redirect the +3/+3 ability to his own Mistform Seaswift, the game was over.
+![](http://www.wizards.com/sideboard/images/gppit03/a964.jpg)
+
+Down near seat C, the crowd erupted when Allbright flipped a 7-mana Slipstream Eel when resolving Erratic Explosion against Duguid's potentially game-ending Silklash Spider. Allbright's fliers were free to wreak havoc from then on, and a Lavamancer's Skilled Wizard kept Duguid backpedaling. The Floridian tried to mount a comeback using Ambush Commander, but when Allbright used his Willbender to redirect the +3/+3 ability to his own Mistform Seaswift, the game was over.
 
 In the middle seat, Severa and Gindy were in a dead race of green monsters vs. blue fliers. Choking Tethers swung the race decisively in the favor of team Prodigy, and the match score was even at 1.
 

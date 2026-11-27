@@ -44,7 +44,9 @@ archive_source:
   sha256: f1ebf557dc0500cfc4700f776a4359c5b986ed36d296bf72ec87d070ef5799fb
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a943.jpg)This is how things work out. After such a tough day Ricardo Guerra is 5-1-1. Which means a draw would probably see him through the second day. Tiago, on the other hand, is 5-2. Which means he needs to do two things: win, and pray for his tiebreakers to hold. By being paired down Guerra is forced to play.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a943.jpg)
+
+This is how things work out. After such a tough day Ricardo Guerra is 5-1-1. Which means a draw would probably see him through the second day. Tiago, on the other hand, is 5-2. Which means he needs to do two things: win, and pray for his tiebreakers to hold. By being paired down Guerra is forced to play.
 
 ### Game 1
 

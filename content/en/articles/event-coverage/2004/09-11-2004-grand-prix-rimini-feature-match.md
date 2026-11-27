@@ -44,7 +44,9 @@ archive_source:
   sha256: a6313b9b03276af8384853940efd3f4d9862811173803fb45b088f4b658834f0
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm8_1.jpg)Matteo Cirigliano made it to the finals in GP Zurich, piloting a then kind of original blue-green deck featuring [Crystal Shard](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crystal+Shard) and [Eternal Witness](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eternal+Witness). Both players are 5-2 right now meaning the loser will be out while the winner still will have to win his last round to advance to day two.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm8_1.jpg)
+
+Matteo Cirigliano made it to the finals in GP Zurich, piloting a then kind of original blue-green deck featuring [Crystal Shard](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crystal+Shard) and [Eternal Witness](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eternal+Witness). Both players are 5-2 right now meaning the loser will be out while the winner still will have to win his last round to advance to day two.
 
 Delere was wondering why they had been featured as he seemed to ignore the recent accomplishment of his Italian opponent.
 

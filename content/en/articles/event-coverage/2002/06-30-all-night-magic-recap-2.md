@@ -44,7 +44,9 @@ archive_source:
   sha256: a322f2254078159b7518b6c44c6539e002a5ad559bfd7c16b2271f876d77aa7f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a895.jpg)The second night of night side events attracted a lot more people than the first one. The reason for this was probably twofold; the main event ended earlier than yesterday, so there were more players lingering around at the site eager to play some side events and secondly, this night would be the night of the Power 9 tournament...
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a895.jpg)
+
+The second night of night side events attracted a lot more people than the first one. The reason for this was probably twofold; the main event ended earlier than yesterday, so there were more players lingering around at the site eager to play some side events and secondly, this night would be the night of the Power 9 tournament...
 
 The problem however, was that there were at least 40 players necessary to compensate for the investment organiser PS-Games made to provide the Power 9 set. While many players wanted to play, a lot of them also would like to see more of the city of Amsterdam, especially the nightlife. So at the time the tournament was supposed to start, there just weren't enough players and they had to settle for a draft or two.
 

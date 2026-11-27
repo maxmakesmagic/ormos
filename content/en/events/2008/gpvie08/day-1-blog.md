@@ -1364,7 +1364,9 @@ render_recovery:
 
     *By Tim Willoughby*
 
-![](http://www.wizards.com/sideboard/images/gpvie08/Top-of-Trades.jpg)At constructed Grand Prixs there can be only one winner, except for the other winners, the traders. Both on registration day, and this morning, there was more or less constant traffic at the trade stand. Good for them, and good for us too, as it gives us the first idea of cards and archetypes to be looking out for this weekend.
+![](http://www.wizards.com/sideboard/images/gpvie08/Top-of-Trades.jpg)
+
+At constructed Grand Prixs there can be only one winner, except for the other winners, the traders. Both on registration day, and this morning, there was more or less constant traffic at the trade stand. Good for them, and good for us too, as it gives us the first idea of cards and archetypes to be looking out for this weekend.
 
 Cards for the new Spirit Stompy deck (the deck which abuses Tallowisp in new and naughty fashion to live the dream and Armadillo Cloak up fat monsters) were gone early on Friday, perhaps unsurprisingly, as the traders didn't have as many Tallowisps on them as, for example, Mutavaults. 
 
@@ -1608,7 +1610,9 @@ As the Pros enter the fray, the Metagame develops. By the end of Round 6, we kno
 
 Last year's Player of the Year is here today with Dredge, while Dinko Sulicic is playing Death Cloud, which – in this match-up – is really just another Rock deck. Both were 5-1 at this point.
 
-![](http://www.wizards.com/sideboard/images/gpvie08/TheSaitouStaredown.jpg)Sulicic won the die-roll, but only had Windswept Heath on his first turn, while Saitou had Cephalid Coliseum and Careful Study, discarding Golgari Grave-Troll and Narcomoeba. Sulicic fetched Overgrown Tomb, played another land and tapped out for Tarmogoyf.
+![](http://www.wizards.com/sideboard/images/gpvie08/TheSaitouStaredown.jpg)
+
+Sulicic won the die-roll, but only had Windswept Heath on his first turn, while Saitou had Cephalid Coliseum and Careful Study, discarding Golgari Grave-Troll and Narcomoeba. Sulicic fetched Overgrown Tomb, played another land and tapped out for Tarmogoyf.
 
 Saitou dredged in his draw step, hitting two Narcomoebas, a Bridge from Below and a Cabal Therapy, but no additional dredge card. Another Careful Study, however, found a second Troll and put both of them back where they belong. Breakthrough followed, dredging a total of sixteen cards but *not* the fourth Narcomoeba. This only proved to be a minor inconvenience, as Saitou used his Cabal Therapy, not so much for the discard, but to turn one of his two Moebas into two Zombies to then be able to flashback Dread Return. While Saitou was still contemplating what to name for the Therapy, Sulicic packed his cards for Game 2. A classic turn two kill.
 
@@ -1620,7 +1624,9 @@ Dinko, once again, started with a fetchland and passed his turn, while Tomoharu 
 
 On his next turn, however, Saitou tried to activate his own Delta and received a warning, while apologizing about a hundred times to his opponent. Also, he played Putrid Imp and then a Breakthrough, keeping one card in hand, and finally managing to at least get one Stinkweed Imp into his graveyard. Not for long, it turned out. All Stinkweed Imps were removed by Extirpate, further decreasing his chances of finding a much needed dredge card.
 
-![](http://www.wizards.com/sideboard/images/gpvie08/DinkoSulicic.jpg)Meanwhile Sulicic played lands, activated his Divining Top a couple of times, but was still trying to come up with anything like an actual clock. Eventually he found Tarmogoyf and Saitou's Putrip Imp beatdown was instantly out-classed. A Cabal Therapy revealed Ravenous Baloth and Damnation and things weren't looking too good for the Japanese. Looking at his next card, he conceded.
+![](http://www.wizards.com/sideboard/images/gpvie08/DinkoSulicic.jpg)
+
+Meanwhile Sulicic played lands, activated his Divining Top a couple of times, but was still trying to come up with anything like an actual clock. Eventually he found Tarmogoyf and Saitou's Putrip Imp beatdown was instantly out-classed. A Cabal Therapy revealed Ravenous Baloth and Damnation and things weren't looking too good for the Japanese. Looking at his next card, he conceded.
 
 Saitou 1 – 1 Sulicic
 
@@ -1644,7 +1650,9 @@ Tomoharu Saitou wins 2 - 1
 
 As a coverage reporter, one of the perks is having the opportunity to look through decklists as the tournament goes on. This post is one you will want to check back on tomorrow, when you will see a decklist that leaves me fractured in my thoughts. I am both confused, and profoundly impressed.
 
-![](http://www.wizards.com/sideboard/images/gpvie08/HappyStPatricksDay.jpg)Stewart Shinkins, and the Irish contingent that are here in Vienna, are celebrating the (moved) St. Patrick's day in special style. Stewarts deck is an intricate concoction that makes full use of the colour fixing in Extended right now to play a different brand of control. It turns out that it's not just Domain Zoo that can make the most of the synergy between Ravnica duals and Onslaught fetch-lands.
+![](http://www.wizards.com/sideboard/images/gpvie08/HappyStPatricksDay.jpg)
+
+Stewart Shinkins, and the Irish contingent that are here in Vienna, are celebrating the (moved) St. Patrick's day in special style. Stewarts deck is an intricate concoction that makes full use of the colour fixing in Extended right now to play a different brand of control. It turns out that it's not just Domain Zoo that can make the most of the synergy between Ravnica duals and Onslaught fetch-lands.
 
 With access to every colour but black, Shinkin's deck is a rather clever control deck, that is more pro-active than many of the more blue-centric control decks in the room today. Designed by Steve Rouane, and tweaked by Stewart, it is full of creatures that feel like spells. With either Meddling Mage or Gaddock Teeg it can hit at the weak points of the various decks in the metagame while committing a threat to the board. There are some unusual cards in it, but they all work rather well together. Against combo, resolving Sylvan Safekeeper and either Meddling Mage or Gaddock Teeg can make life very difficult for opponents, while in control matchups the eventual payoff in cards from Vexing Sphinx is just as welcome as the 4/4 flying body. Stifle is a strong answer to many of the more powerful cards in the format (not least fetchlands), but does double duty on keeping the Sphinx around. 
 
@@ -1666,7 +1674,9 @@ At the start of the tournament, Olivier Ruel came up to me and said that I had t
 
 Well, it's round 8, and thus far, Antoine has only picked up a single loss, putting him in good shape for the event so far. Against blue/green Tron in round eight, piloted by Ivan Floch of Sweden, it would be time to see what it could do.
 
-![](http://www.wizards.com/sideboard/images/gpvie08/Antoine8.jpg)Antoine had a mulligan for on the play, and led with Sakura Tribe Elder, off a Plains and a Temple Garden. His opponent had acceleration of his own, in both Chrome Mox and Simic Signet. 
+![](http://www.wizards.com/sideboard/images/gpvie08/Antoine8.jpg)
+
+Antoine had a mulligan for on the play, and led with Sakura Tribe Elder, off a Plains and a Temple Garden. His opponent had acceleration of his own, in both Chrome Mox and Simic Signet. 
 
 Tron parts were a little slow showing up for Floch, who could only muster a wistful nod when he saw Isochron Scepter, imprinting Orim's Chant. He had an end of turn Repeal for it, leading to a similarly pained expression from Antoine. Tarmogoyf was Antoine's next threat, which was hit by Remand before making it to the table on the return visit. 
 
@@ -1684,7 +1694,9 @@ Antoine's deck had not been able to fire on all cylinders in Game 1, following i
 
 An Orim's Chant was imprinted in the second game, but this was on a Chrome Mox. Antoine had no big plays before Floch could go for an end of turn Gifts Ungiven, revealing Tolaria West, Life From the Loam, and the two remaining Urzatron pieces he required. Floch got one Tron piece and Life From the Loam, but lost his only green source, a Breeding Pool, to a Boil from Antoine. 
 
-![](https://i.ormos.uk/11/89/11890f6b960981529fbcca0665114cfe1e7674d95e1a390bc6137b9d5ee6b94c.jpg)Now Ivan was digging, to get his engine going. He had an end of turn Thirst for Knowledge, discarding Moments Peace and Flooded Strand. Antoine wasn't happy to see that he had naturally completed his Urzatron, and had a Simic Signet to get him back on blue mana. 
+![](https://i.ormos.uk/11/89/11890f6b960981529fbcca0665114cfe1e7674d95e1a390bc6137b9d5ee6b94c.jpg)
+
+Now Ivan was digging, to get his engine going. He had an end of turn Thirst for Knowledge, discarding Moments Peace and Flooded Strand. Antoine wasn't happy to see that he had naturally completed his Urzatron, and had a Simic Signet to get him back on blue mana. 
 
 Ruel responded to the signet with a cycled Decree of Justice for three tokens. While he could start beating, he would be facing a Life From the Loam engine that would be hard to fight. Floch had a Triskelavus, while Antoine pumped the fist at having drawn a Sensei's Divining Top. The Top did draw him Destructive Flow (a million turns too late), but the enchantment was hit by Remand, to make sure that it would be even later. 
 
@@ -1734,13 +1746,17 @@ So, there you are, sitting at 6-2, almost 11 hours after you started playing Mag
 
 The two friends, Austria's top pro Helmut Summersberger, and the 2006 Rookie of the Year Sebastian Thaler from Germany are both 7-1 and will be making day two even with a loss in the last round. Nevertheless they were discussing the possibility of an intentional draw, instead of playing, but luckily decided against it, and now we're actually *having* a match to cover.
 
-![](https://i.ormos.uk/1d/0c/1d0cbc98c73ced1e2bef596752600b3f50cfbd71c8898c54cc25704301d3dee4.jpg)Thaler lost the die-roll and kept his opening...– six. After all the first thing he did was putting a free Leyline of the Void into play. Consequently, Summersberger's turn one Mogg Fanatic seemed a little bit less exciting. Careful Study discarded Stinkweed Imp and Golgari Grave-Troll and as we have seen before, Thaler's Breakthrough scheduled for his second turn might really be enough to win the game. Summersberger was not to be defeated that easily however, and played Meddling Mage naming Dread Return. To make matters worse, his Breakthrough netted him one Narcomoeba only and not even enough dredge cards to avoid drawing actual cards... *into his hand!*
+![](https://i.ormos.uk/1d/0c/1d0cbc98c73ced1e2bef596752600b3f50cfbd71c8898c54cc25704301d3dee4.jpg)
+
+Thaler lost the die-roll and kept his opening...– six. After all the first thing he did was putting a free Leyline of the Void into play. Consequently, Summersberger's turn one Mogg Fanatic seemed a little bit less exciting. Careful Study discarded Stinkweed Imp and Golgari Grave-Troll and as we have seen before, Thaler's Breakthrough scheduled for his second turn might really be enough to win the game. Summersberger was not to be defeated that easily however, and played Meddling Mage naming Dread Return. To make matters worse, his Breakthrough netted him one Narcomoeba only and not even enough dredge cards to avoid drawing actual cards... *into his hand!*
 
 Instead he flashbacked Cabal Therapy (missing) but getting one zombie token in the process. Summersberger played Tarmogoyf, another land and passed right back to Thaler, who in his upkeep returned one Ichorid to play. In his draw he dredged into more Bridge from Below and more Cabal Therapy... He then played the Breakthrough he was holding on to after the first one: All of his Narcomoebas and the remaining Bridges entered play and graveyard respectively. Next up, the Cabal Therapy was flashbacked, this time hitting Lightning Helix, all the while producing four zombie tokens. With the impending departure of Ichorid about to issue another four complimentary zombies (for a total of eight) Sumersberger just shrugged and shuffled up for Game 2.
 
 Thaler 1 – 0 Summersberger
 
-![](http://www.wizards.com/sideboard/images/gpvie08/Summersburger9.jpg)Summersberger started with a mulligan, while Thaler again had the Leyline on turn zero.
+![](http://www.wizards.com/sideboard/images/gpvie08/Summersburger9.jpg)
+
+Summersberger started with a mulligan, while Thaler again had the Leyline on turn zero.
 
 Bloodstained Mire from Summersberger fetched Steam Vents into Mogg Fanatic yet again. This time though, Cabal Therapy on Meddling Mage, revealed a hand that was lacking pressure, defense, and also Meddling Mage. Summersberger just attacked and passed his turn without any play. Thaler played Pithing Needle (naming Tormod's Crypt), but couldn't expand on his graveyard plans.
 

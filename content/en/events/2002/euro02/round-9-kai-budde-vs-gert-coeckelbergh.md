@@ -53,7 +53,9 @@ archive_source:
   sha256: b73c4f519b561e9f76acccb196ebdb8780222e54e0e4a7db4c9ad70b2f03ba48
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a879.jpg)We are finally covering a Kai Budde match. Probably the best player of the world. Leading the race for Player of the Year to achieve this title for the third time. The only person in the world to have won five Pro Tours.
+![](http://www.wizards.com/sideboard/images/euro02/a879.jpg)
+
+We are finally covering a Kai Budde match. Probably the best player of the world. Leading the race for Player of the Year to achieve this title for the third time. The only person in the world to have won five Pro Tours.
 
 Gert Coeckelbergh is no newcomer to the game. Between many achievements his most notable are Top 8 at the 2000 European Championship, three-times national team member and 18th at Worlds 2000.
 
@@ -78,7 +80,9 @@ Budde 1 – 0 Coeckelbergh
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/euro02/a881.jpg)Both players acted more controllish this game and the first play was Coeckelbergh's Duress revealing a brutal hand but with no more land other than the three already in play. Only 3 turns after did Budde find a fourth land to be able to cast his Fact or Fiction. So he did and it revealed :
+![](http://www.wizards.com/sideboard/images/euro02/a881.jpg)
+
+Both players acted more controllish this game and the first play was Coeckelbergh's Duress revealing a brutal hand but with no more land other than the three already in play. Only 3 turns after did Budde find a fourth land to be able to cast his Fact or Fiction. So he did and it revealed :
 
 Chainer's Edict Psychatog 2 islands and Salt Marsh.
 

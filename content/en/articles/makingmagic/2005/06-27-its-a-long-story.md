@@ -113,7 +113,9 @@ My thread clearly illustrated that many of my readers do not share my interpreta
 
 ### #3 – The Criteria Are Purposefully Subjective
 
-![](https://i.ormos.uk/8b/51/8b51d8c59a9d306ad4b7fb80efd0768b960b80646ba1653ce41bd5e45b1f43d4.jpg)Many readers seem appalled that I am not following the set criteria. My response is that I am. The problem is that the criteria, by design mind you, are very subjective. So much so that I don't think any two members of the selection committee view them the same. To refresh everyone's memory, here is the sentence that everyone keeps referencing:
+![](https://i.ormos.uk/8b/51/8b51d8c59a9d306ad4b7fb80efd0768b960b80646ba1653ce41bd5e45b1f43d4.jpg)
+
+Many readers seem appalled that I am not following the set criteria. My response is that I am. The problem is that the criteria, by design mind you, are very subjective. So much so that I don't think any two members of the selection committee view them the same. To refresh everyone's memory, here is the sentence that everyone keeps referencing:
 
 > **Voting shall be based upon the player's performances, playing ability, integrity, sportsmanship, and contributions to the game in general.**
 
@@ -160,7 +162,9 @@ The easiest way to explain is to just go through the five criteria:
 
 Let's start with the surface level. Mike has a very good resume. He's won a Pro Tour, a Grand Prix, and an Invitational. He holds the record for being on the most winning national teams (that record being three). For a long time, he was the number two lifetime money winner. On this ballot, he's probably number three in performance trailing only Jon Finkel and Darwin Kastle.
 
-![](https://i.ormos.uk/dc/a2/dca2f980aebe0c8338c462bc0f4052e970399584a1a9b9692e5e544ffdc8ed36.jpg)But where Mike blows this category out of the water for me is in what I called charisma last week and today will call “star power”. You see, I spent almost ten years working on the Pro Tour. My primary job was star building. I'm the guy who came up with the idea for feature matches. I'm the one who chose who was featured. It was also my call who was put on camera during the final rounds on Sunday. And I had input into how the Pro Tours were covered in print and online.
+![](https://i.ormos.uk/dc/a2/dca2f980aebe0c8338c462bc0f4052e970399584a1a9b9692e5e544ffdc8ed36.jpg)
+
+But where Mike blows this category out of the water for me is in what I called charisma last week and today will call “star power”. You see, I spent almost ten years working on the Pro Tour. My primary job was star building. I'm the guy who came up with the idea for feature matches. I'm the one who chose who was featured. It was also my call who was put on camera during the final rounds on Sunday. And I had input into how the Pro Tours were covered in print and online.
 
 In short, my job was to make the Pro Tour interesting and exciting. I had to make all of you care about it. And in the history of the Pro Tour three players blew everyone else out of the water. Interest in them dwarfs all the other players combined. Those players were Jon Finkel, Kai Budde and Mike Long. (Notice I voted for Jon as well and I vow right now to vote for Kai in two years.)
 

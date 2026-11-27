@@ -44,7 +44,9 @@ archive_source:
   sha256: 131578b42da7b86d2b1ca2b5726e409a9cfa2b084737ba4300dd09532761b6bc
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a908.jpg)As Jan went 2-2 in the first rounds of draft, he decided he might as well draft for fun. He was hoping to draft a cool blue-red deck but plans turned out the wrong way as the players to his right completely cut him off of blue. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a908.jpg)
+
+As Jan went 2-2 in the first rounds of draft, he decided he might as well draft for fun. He was hoping to draft a cool blue-red deck but plans turned out the wrong way as the players to his right completely cut him off of blue. 
 
 ### Game 1
 
@@ -68,7 +70,9 @@ Jan could not respond to the attack of the black creature for the next two turns
 Jan finally found an answer to the Grinder, eliminating it with a Sonic Seizure. This gave him some time to get back in the game. A Cephalid Sage told him otherwise and the Pardic Firecat Jan played disappeared with a Faceless Butcher coming into play.  
  Jan had taken a beating and was low on life as he cast a Wild Dog. In spite of Ember Beast now being able to block, Patrick attacked with his Faceless Butcher and the Sage. Jan took the obvious choice double-blocking Butcher. As both Butcher and Mad Dog died Jan got back his Pardic Firecat. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a907.jpg)Deep Analysis and Hapless Researcher were Patrick's next spells and Jan seemed to get back in the game casting a Nullmage Advocate. Patrick cast Stupefying Touch and Coral Net on the Advocate. A flashbacked Deep Analysis got Patrick a Morgue Theft returning the Faceless Butcher. Gorilla Titan joined Jan's defenses but then something strange happened. Patrick played Faceless Butcher on a creature of his own rather than on one of Jan's, then cast Aven Fogbringer.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a907.jpg)
+
+Deep Analysis and Hapless Researcher were Patrick's next spells and Jan seemed to get back in the game casting a Nullmage Advocate. Patrick cast Stupefying Touch and Coral Net on the Advocate. A flashbacked Deep Analysis got Patrick a Morgue Theft returning the Faceless Butcher. Gorilla Titan joined Jan's defenses but then something strange happened. Patrick played Faceless Butcher on a creature of his own rather than on one of Jan's, then cast Aven Fogbringer.
 
 Jan yawned out loud, sensing the situation would get out of hand and so it did. Patrick now cast Upheaval gaining threshold in the process and returned the Sage which got cleared from the Faceless Butcher's hiding maneuver. He had enough mana in the pool to cast an Organ Grinder and a Thought Nibbler. "You are at four life right?" said Patrick.
 

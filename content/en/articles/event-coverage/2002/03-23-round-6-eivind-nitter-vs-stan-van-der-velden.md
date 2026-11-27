@@ -44,7 +44,9 @@ archive_source:
   sha256: f3283bd6a073cb90d4bb073e65df682f5ea89774e7cdda3a745253caa356e739
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a958.jpg)This round featured the unstoppable party machine, known to mere mortals as current European Champion Eivind Nitter, fighting against Stan van der Velden. An up-and-coming Dutch player looking for a serious ranking boost to qualify for the European Championship, Stan went as far as giving up his one bye in Antwerp to squeeze out a few extra ranking points.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a958.jpg)
+
+This round featured the unstoppable party machine, known to mere mortals as current European Champion Eivind Nitter, fighting against Stan van der Velden. An up-and-coming Dutch player looking for a serious ranking boost to qualify for the European Championship, Stan went as far as giving up his one bye in Antwerp to squeeze out a few extra ranking points.
 
 ### Game 1
 
@@ -97,7 +99,9 @@ Eivind: "He drew Words again..."
 
 The Gnomes came in to fuel the Giant's attacks while Stan played a Looter. Together they attacked several times while the Dutch tried to come with a business spell. When Eivind tried to [Muscle Burst](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muscle+Burst) one of the attackers Stan was ready with a [Divert](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Divert).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a959.jpg)Finally van der Velden found a good blocker: [Soul Scourge](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge)r. The problem was Nitter had the [Circular Logic](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circular+Logic) and happily lost two cards to counter it with the help of the overworked Gnomes.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a959.jpg)
+
+Finally van der Velden found a good blocker: [Soul Scourge](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge)r. The problem was Nitter had the [Circular Logic](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circular+Logic) and happily lost two cards to counter it with the help of the overworked Gnomes.
 
 On the next swing van der Velden was forced to take desperate measures, chumping with his Fiend and thus releasing the [Whispering Shade](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whispering+Shade) while dropping down to one. Then on the next turn things changed a lot. The kind of change that only an [Iridescent Angel](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Iridescent+Angel) can provoke.
 

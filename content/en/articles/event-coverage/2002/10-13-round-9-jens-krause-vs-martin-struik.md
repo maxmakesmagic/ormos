@@ -44,7 +44,9 @@ archive_source:
   sha256: 9c74de288f5c6ae653ff31b6c92affd1dc99778847b14464a6faf12596a44d51
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a915.jpg)While Jens Krause and Martin Struik may not be the most well known of players both have found themselves unbeaten at the top of the rankings with 8-0 records. Dutch player Struik finished 9th in GP Antwerp way back in 1998 and hasn't had much success since. Krause is having a good time of it recently after making top 8 in GP Hamburg a couple of weeks ago.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a915.jpg)
+
+While Jens Krause and Martin Struik may not be the most well known of players both have found themselves unbeaten at the top of the rankings with 8-0 records. Dutch player Struik finished 9th in GP Antwerp way back in 1998 and hasn't had much success since. Krause is having a good time of it recently after making top 8 in GP Hamburg a couple of weeks ago.
 
 Krause managed to carve out most of the blue cards to himself in the draft and started game 1 with a number of janky wizards. [Imagecrafter](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Imagecrafter) and [Aphetto Alchemist](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphetto+Alchemist) swung for a little early damage although he had to cycle an early [Choking Tethers](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Choking+Tethers) to compensate for a missed land drop. Struik snuck a morph card onto the table. Krause let it through only to see a [Haunted Cadaver](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Haunted+Cadaver) detonate most of his hand.
 
@@ -52,7 +54,9 @@ The German still looked solid as he summoned a [Mistform Dreamer](https://web.ar
 
 Krause 1-0 Struik
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a916.jpg)Krause missed his third land in Game 2 but an [Information Dealer](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Information+Dealer) soon arranged the top of his library in a manner to pull out. Struik's deck was only chucking out janky little dudes as well and a [Mistform Wall](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Wall) was perfectly adequate to hold off a [Nosy Goblin](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nosy+Goblin) and a couple of its Festering brethren. Struik was still able to pick away for one a turn with a [Goblin Sky Raider](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sky+Raider).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a916.jpg)
+
+Krause missed his third land in Game 2 but an [Information Dealer](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Information+Dealer) soon arranged the top of his library in a manner to pull out. Struik's deck was only chucking out janky little dudes as well and a [Mistform Wall](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Wall) was perfectly adequate to hold off a [Nosy Goblin](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nosy+Goblin) and a couple of its Festering brethren. Struik was still able to pick away for one a turn with a [Goblin Sky Raider](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sky+Raider).
 
 Krause added a mystery morph guy to his team and continued to use the [Information Dealer](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Information+Dealer) to try and find something useful. [Riptide Shapeshifter](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Shapeshifter) seemed to fulfil that criteria quite nicely.
 

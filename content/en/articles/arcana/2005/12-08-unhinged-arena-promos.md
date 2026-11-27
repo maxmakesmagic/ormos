@@ -101,7 +101,9 @@ render_recovery:
 ---
 * * *
 
-[![Arena League](https://i.ormos.uk/30/18/3018e82f4a50947bd2b807b81bb2eefd135ec0aef3a8ce63e369ec292d1778d2.jpg)](https://web.archive.org/web/20080513034421/http://www.wizards.com/default.asp?x=events/magic/arena)As we've seen in [past](/en/articles/arcana/2004/11-09-unglued-2-veggie-creatures-2) [Arcanas](/en/articles/arcana/2005/08-08-punny-djinns-2), the *Unhinged* set resurrected some of the ideas of the never-released set *Unglued 2*, but a lot of art was still commissioned for *Unglued 2* and never used.
+[![Arena League](https://i.ormos.uk/30/18/3018e82f4a50947bd2b807b81bb2eefd135ec0aef3a8ce63e369ec292d1778d2.jpg)](https://web.archive.org/web/20080513034421/http://www.wizards.com/default.asp?x=events/magic/arena)
+
+As we've seen in [past](/en/articles/arcana/2004/11-09-unglued-2-veggie-creatures-2) [Arcanas](/en/articles/arcana/2005/08-08-punny-djinns-2), the *Unhinged* set resurrected some of the ideas of the never-released set *Unglued 2*, but a lot of art was still commissioned for *Unglued 2* and never used.
 
 The [Arena League](https://web.archive.org/web/20051208000000/http://www.wizards.com/arena) found a handy use for some of that art -- a set of *Unhinged* promotional cards featuring the original *Unglued 2* art. These cards were in the *Unglued 2* design file and made it to print in *Unhinged*. There's even alternate flavor text on four of them. Check it out.
 

@@ -203,7 +203,9 @@ render_recovery:
 
 When “the past returns,” it isn’t always for a Core Set or for past-matters sets like *Time Spiral*. Reprinted cards may appear to repeat similar themes, but in fact they often serve as a way to highlight how **Magic** themes *change* over time. 
 
-![](https://i.ormos.uk/6e/7c/6e7cf08b957c1b7a417db3c533f4c75cb105ffe7cc72df7f06df8fb02760a5eb.jpg)Shatter, for example, was a rather clunky utility spell in *Ice Age* or *Tempest*. But in the environment of *Mirrodin*, it was a brutal, all-purpose dream-crusher. In contrast, Terror was very powerful creature kill *except* on that artifact-heavy plane. Those strategic reprints served to highlight the shift in importance of artifacts.
+![](https://i.ormos.uk/6e/7c/6e7cf08b957c1b7a417db3c533f4c75cb105ffe7cc72df7f06df8fb02760a5eb.jpg)
+
+Shatter, for example, was a rather clunky utility spell in *Ice Age* or *Tempest*. But in the environment of *Mirrodin*, it was a brutal, all-purpose dream-crusher. In contrast, Terror was very powerful creature kill *except* on that artifact-heavy plane. Those strategic reprints served to highlight the shift in importance of artifacts.
 
 Consider Dark Heart of the Wood or Savage Twister in *Ravnica* Block—powerful gold spells of old brought to a new multicolored home. Elves of Deep Shadow (welcome to the Golgari!) and Goblin Spelunkers (now with Sacred Foundry-walk!) also gain new talents in *Ravnica*, showing off the new value of their color-specific focus.
 

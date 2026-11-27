@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Alex Shvartsman* 
 
-![](https://i.ormos.uk/59/0b/590ba8af1005dd31f5c6026876533554d8907bb188df51cb9c962a9f4549928d.jpg)This quarterfinal match features a classic East/West coast grudge match between California's Gary Rush and Boston's Michelle Bush. 
+![](https://i.ormos.uk/59/0b/590ba8af1005dd31f5c6026876533554d8907bb188df51cb9c962a9f4549928d.jpg)
+
+This quarterfinal match features a classic East/West coast grudge match between California's Gary Rush and Boston's Michelle Bush. 
 
 Rush has played in several Pro Tours but had no high finishes up until now. This tournament really went his way though - he has not lost a match up until now, winning enough matches to intentionally draw twice into the Top 8 - with only one bye! Michelle Bush dominated the sealed deck portion of the tournament as one of the few undefeated players on day one - with no byes at all. She then won several draft rounds and was also able to draw in. 
 
@@ -56,7 +58,9 @@ In the first game, Rush did not have a very good start. Although he was able to 
 
 Rush was holding a pair of Galina's Knights and had a Stormscape Apprentice in play for a very long time, but did not draw Plains until very late into the game. Just when the situation was looking truly desperate for Rush, he drew one of his very best cards - a Distorting Wake. With seven mana in play, he was able to unsummon all of Bush's creatures and attack with his Djinn and Galina's Knight, bringing her down to eight life points. 
 
-![](https://i.ormos.uk/f9/fa/f9faaeb9f2ef758c5d54af862dabfc87cb01c80010e48dd4115e369b68d13c28.jpg)With plenty of mana in play, Michelle replayed a bunch of creatures on the following turn. She chump-blocked the Djinn just long enough to find a way to remove Rush's only flying creature - a Metathran Transport. With Rush at five, she was able to attack with the Battleflies yet again, then Zap and Tribal Flames him out of the game. 
+![](https://i.ormos.uk/f9/fa/f9faaeb9f2ef758c5d54af862dabfc87cb01c80010e48dd4115e369b68d13c28.jpg)
+
+With plenty of mana in play, Michelle replayed a bunch of creatures on the following turn. She chump-blocked the Djinn just long enough to find a way to remove Rush's only flying creature - a Metathran Transport. With Rush at five, she was able to attack with the Battleflies yet again, then Zap and Tribal Flames him out of the game. 
 
 The second game started in an almost identical way to the first. Rush played a first turn Tidal Visionary yet again and neither player cast a creature till turn four, when Rush used a Prohibit to counter a Firescreamer. Bush summoned a Duskwalker and an Ancient Kavu. Rush took some damage while getting a Vodalian Serpent, a Dream Thrush and a Goham Djinn into play. Bush used her Soul Burn to remove Goham Djinn while Rush was still tapped out. She then summoned a Pouncing Kavu, holding back the Serpent and attacked with Duskwalker. 
 
@@ -66,7 +70,9 @@ At this point Bush surprised her opponent by casting Stun on his Serpent (with o
 
 Apparently, yes. He drew Dromar! 
 
-![](https://i.ormos.uk/86/bb/86bb19a0de699dca5a04c99e889d658871391757c954f503ab17682e04b2f16c.jpg)Bush only had four black mana, so she could not pump the Shade enough to take out the Dragon, so Rush would be able to attack for the kill on the following turn. He cast the Dragon, hoping fervently that Bush will not draw a Swamp. No such luck. 
+![](https://i.ormos.uk/86/bb/86bb19a0de699dca5a04c99e889d658871391757c954f503ab17682e04b2f16c.jpg)
+
+Bush only had four black mana, so she could not pump the Shade enough to take out the Dragon, so Rush would be able to attack for the kill on the following turn. He cast the Dragon, hoping fervently that Bush will not draw a Swamp. No such luck. 
 
 Bush drew that Swamp, causing Rush to literally cry out in despair. Although the spectators have been very respectfully quiet during the entire long match, this drew quite a bit of laughter and jokes about losing to a topdecked Swamp. To give credit where it is due, Gary Rush was far from a sore loser. In fact, he initiated some of the jokes. 
 

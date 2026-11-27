@@ -83,7 +83,9 @@ render_recovery:
   - Unnatural Selection
   occurrences: 26
 ---
-![](https://i.ormos.uk/57/8c/578c1714946aa913b1369bd835c7d8798b6a0cc0f00d558a01846e04c6a2b299.jpg)When sitting down with one of the two Frenchmen in this Top 8 I noticed his laid-back attitude for the first time. He just seems to take life the way it comes. Only six months ago, Christophe Haim was selling shoes in Paris to make a living. Now he makes enough money playing **Magic** and "doesn't really do anything". A 13th place finish in Grand Prix-Barcelona, a Top 8 at Pro Tour-Osaka, a third place in French Nationals and now Top 8 at the European Championships, mark 2002 as the breakthrough year of Christophe Haim. 
+![](https://i.ormos.uk/57/8c/578c1714946aa913b1369bd835c7d8798b6a0cc0f00d558a01846e04c6a2b299.jpg)
+
+When sitting down with one of the two Frenchmen in this Top 8 I noticed his laid-back attitude for the first time. He just seems to take life the way it comes. Only six months ago, Christophe Haim was selling shoes in Paris to make a living. Now he makes enough money playing **Magic** and "doesn't really do anything". A 13th place finish in Grand Prix-Barcelona, a Top 8 at Pro Tour-Osaka, a third place in French Nationals and now Top 8 at the European Championships, mark 2002 as the breakthrough year of Christophe Haim. 
 
 Playing a blue-red-green madness deck to a 6-1 record in the Standard portion of the event, losing only to fellow countryman Pierre Malherbaud, Christophe made Top 8 while beating name players such as Raphaël Lévy and Bram Snepvangers. Combined with the 5-2 draft record he managed yesterday, this was just enough for 8th place. 
 

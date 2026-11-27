@@ -86,7 +86,9 @@ render_recovery:
   - Mad Dog
   occurrences: 44
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a963.jpg)Chang Chua is on-pace for a second Grand Prix Top 8. In his way is Ben Seck, Australian and rakish gadabout. Chua is running a straightforward blue-white deck. Seck's deck runs a ridiculous assortment of little beaters backed by enhancers and the Rites of Initiation - Demoralize kill. 
+![](http://www.wizards.com/sideboard/images/gpkl02/a963.jpg)
+
+Chang Chua is on-pace for a second Grand Prix Top 8. In his way is Ben Seck, Australian and rakish gadabout. Chua is running a straightforward blue-white deck. Seck's deck runs a ridiculous assortment of little beaters backed by enhancers and the Rites of Initiation - Demoralize kill. 
 
 Seck started things off with a mulligan and pulled up a mediocre six. He brought nothing to the table until a turn-three Hell-Bent Raider. Chua had meanwhile mustered Testament of Faith, Escape Artist and Angelic Wall.
 
@@ -100,7 +102,9 @@ Chua 1 - Seck 0
 
 Both sideboarded in four cards. Seck brought in Crackling Clubs to take out Chua's one-toughness dudes as well as Pardic Lancers for some extra fat. Chua traded in some of his more expensive spells for early blockers like more Stern Judges.
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a964.jpg)Seck answered an early Cephalid Scout with Blazing Salvo. Chua didn't want to risk eating five from a Salvo so early, so he let his Scout die. His Stern Judge shut Woodland Druid down completely. Seck tried Posessed Barbarian, but Chua was ready with Rites of Refusal, discarding Gallantry. Seck, in turn, stopped Aven Flock with Fiery Temper.
+![](http://www.wizards.com/sideboard/images/gpkl02/a964.jpg)
+
+Seck answered an early Cephalid Scout with Blazing Salvo. Chua didn't want to risk eating five from a Salvo so early, so he let his Scout die. His Stern Judge shut Woodland Druid down completely. Seck tried Posessed Barbarian, but Chua was ready with Rites of Refusal, discarding Gallantry. Seck, in turn, stopped Aven Flock with Fiery Temper.
 
 But then Chua brought out the fustigation with Psionic Gift on the Judge, completely jamming up Seck's Werebear and Acorn Harvest plans. He cast the Harvest anyways, just to spare himself some damage. Chua took to the skies with Treetop Sentinel. Seck held back, giving Woody a Crackling Club.
 
@@ -108,7 +112,9 @@ His next draw was high octane, however. Balthor the Stout made his Hell-Bent Rai
 
 Seck decided it was time to ruin his day. He cast Demoralize, pitching to make his Raider pro-white and achieving threshold. He swung with all his guys. Chua tried Spirit Flare on the Judge to shoot Balthor, but Seck just used his Barbarian Ring in response. Chua fell to three.
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a965.jpg)He fought gamely, chump blocking turn after turn with Escape Artist. However, since he was locked at one card, it was only a matter of time. Eventually Seck attacked with more men than Chua had blockers, and Muscle Burst sealed the deal.
+![](http://www.wizards.com/sideboard/images/gpkl02/a965.jpg)
+
+He fought gamely, chump blocking turn after turn with Escape Artist. However, since he was locked at one card, it was only a matter of time. Eventually Seck attacked with more men than Chua had blockers, and Muscle Burst sealed the deal.
 
 Chua 1 - Seck 1
 

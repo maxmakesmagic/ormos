@@ -44,7 +44,9 @@ archive_source:
   sha256: e9d1180ad7c11b5f9dabb444419af5a7a2af02a6d468a2d925655a41d13717fd
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a998.jpg)When I covered this draft pod I focused on Mike Turian, Craig Krempals and Osyp Lebedowicz—all three of them lost in the first round. Ben Rubin was all the way on the other side of table drafting under the Sideboard radar. Mentioned in the coverage was Osyp's pick of [Sparksmith](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) over [Insurrection](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Insurrection)—a card that ended up in Allan Shuldiner's deck. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a998.jpg)
+
+When I covered this draft pod I focused on Mike Turian, Craig Krempals and Osyp Lebedowicz—all three of them lost in the first round. Ben Rubin was all the way on the other side of table drafting under the Sideboard radar. Mentioned in the coverage was Osyp's pick of [Sparksmith](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) over [Insurrection](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Insurrection)—a card that ended up in Allan Shuldiner's deck. 
 
 Both players show the pressure of this high stakes match. One player will advance to the 32-person Masters and be guaranteed a minimum payday of $2,000 with an upside of $25,000! The loser walks away with the rares they drafted and a story about "The one that got away". Ben was deliberately aloof, listening to his headphones after Allan suggested some kind of prize split for the loser of the match. Allan was visibly nervous. His nerves were probably justified, after all here he was playing Ben Rubin winner of two previous Masters and finalist of two Pro Tours and Allan will not play in his first Pro Tour until tomorrow morning.
 

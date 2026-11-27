@@ -149,7 +149,9 @@ For the first time since September, there was a large group of American players 
 
 Competition for Day 2 was extremely stiff, prompting many players to complain that a ninth round was not added. Current tournament policy suggests that any Grand Prix with 513 to 1024 players should feature eight rounds on Day 1. As is, some players went 6-1-1 and still missed Day 2. Many pros, myself included, missed out by going 6-2. The story of Day 1 was Thomas Bisballe, the level 4 judge who has not played in a major tournament for almost four years. Despite this, he managed to go 6-1-1, intentionally drawing with Chris Benafel to make Day 2. Although Bisballe had a mediocre Day 2 and finished 45th overall. It was certainly a noteworthy effort.
 
-![](http://www.wizards.com/sideboard/images/GPHEI02/869.jpg)Jim Herold, a German player who is among the very few pros to win three Grand Prix tournaments missed out on tiebreakers this time, finishing ninth. The only German player to make Top 8 was Patrick Mello, continuing his success streak after a second place finish in Lisbon. Joining him were Grand Prix Top 8 regulars Franck Canu, Jelger Wiegersma, and Joost Vollebregt. Thomas Preyer seems on the way to a comeback. The Pro Tour-London and GP-Cannes finalist fell off the Pro Tour for a time. This top finish gives the Austrian player another chance. Also in the Top 8 was Ukranian Yuri Kolomeyko. The only player from the former Soviet Union to earn a Pro Tour Top 8 finish (in Barcelona last year), Kolomeyko now added a Grand Prix Top 8 to his resume. Players from Russia and Ukraine are becoming more of a common sight at European GPs. Several are expected at GP-Antwerp, as well as at PT-Nice itself.
+![](http://www.wizards.com/sideboard/images/GPHEI02/869.jpg)
+
+Jim Herold, a German player who is among the very few pros to win three Grand Prix tournaments missed out on tiebreakers this time, finishing ninth. The only German player to make Top 8 was Patrick Mello, continuing his success streak after a second place finish in Lisbon. Joining him were Grand Prix Top 8 regulars Franck Canu, Jelger Wiegersma, and Joost Vollebregt. Thomas Preyer seems on the way to a comeback. The Pro Tour-London and GP-Cannes finalist fell off the Pro Tour for a time. This top finish gives the Austrian player another chance. Also in the Top 8 was Ukranian Yuri Kolomeyko. The only player from the former Soviet Union to earn a Pro Tour Top 8 finish (in Barcelona last year), Kolomeyko now added a Grand Prix Top 8 to his resume. Players from Russia and Ukraine are becoming more of a common sight at European GPs. Several are expected at GP-Antwerp, as well as at PT-Nice itself.
 
 In the finals American Chris Benafel and Dutchman Kamiel Cornelissen battled it out to see which of them could manage to avoid yet another second place finish. Both are well known for finishing just one round away from the gold. Benafel earned 2nd place finishes in U.S. Nationals, New Orleans Masters and 2000 Pro Tour-LA. He did win one individual Grand Prix in Amsterdam about a year ago. Cornelissen is best known for his back to back Pro Tour second place finishes. When finalists were announced, I joked that the match would take about four hours (both players are known to play rather slowly) and then both of them would finish second. In fact, it was a rather quick match, with Cornelissen walking away the winner. Cornelissen went undefeated on Day 1 of Pro Tour-San Diego, only to match it with a winless record on Day 2. I am sure he is glad to put that tournament behind him and make up for it with a winner's trophy.
 
@@ -165,7 +167,9 @@ The next Grand Prix will take place in Fukuoka, Japan on the southern island of 
 
 ### Neutral Ground Under New Management
 
-![](http://www.wizards.com/sideboard/images/ngonline.jpg)Neutral Ground spokesman and majority owner Brian-David Marshall posted a surprise announcement early this week, stating that the store has been sold to an NG regular Matt Blank. [Full text](https://web.archive.org/web/20020214000000/http://www.wizards.com/leaving.asp?url=http://www.neutralground.net/Forums/ForumItem.asp?NewsID=1883&BackupLink=Main.asp&origin=sideboard_wir_20020214) of this announcement can be found on NeutralGround.net.
+![](http://www.wizards.com/sideboard/images/ngonline.jpg)
+
+Neutral Ground spokesman and majority owner Brian-David Marshall posted a surprise announcement early this week, stating that the store has been sold to an NG regular Matt Blank. [Full text](https://web.archive.org/web/20020214000000/http://www.wizards.com/leaving.asp?url=http://www.neutralground.net/Forums/ForumItem.asp?NewsID=1883&BackupLink=Main.asp&origin=sideboard_wir_20020214) of this announcement can be found on NeutralGround.net.
 
 ### Brainburst Editor Quits
 
@@ -198,7 +202,9 @@ European Sideboard editor Nele Vanderborght, Zvi Mowshowitz, Chris Knecht and I 
 
 ### Play of the Week
 
-![](https://i.ormos.uk/7d/49/7d49759ba80738be45cea4113d5136771a424a1ade137310b2bb47507cb0b782.jpg)This has happened a number of times and been submitted by several players, so I might as well publish it to make you people stop sending this one in.
+![](https://i.ormos.uk/7d/49/7d49759ba80738be45cea4113d5136771a424a1ade137310b2bb47507cb0b782.jpg)
+
+This has happened a number of times and been submitted by several players, so I might as well publish it to make you people stop sending this one in.
 
 One of the players casts Ice, and then a player responds by targeting it with Radiate, and drawing 10-20 cards for spending five or seven mana. Another interesting application of this card comes from Leonid Cheorny. He had a pair of Roar of the Wurm tokens holding back a large army of creatures. At the end of his opponent's turn, he cast Blazing Salvo and then Radiate. While he could afford to allow it to resolve dealing three damage to each of his Wurms, his opponent was forced to let most of the team die, and eventually succumbed to the angry Wurms. 
 
@@ -208,7 +214,9 @@ In last week's Play of the Week I mistakenly wrote "Mind Swords" instead of "Unm
 
 ### Bad Play of the Week
 
-![](https://i.ormos.uk/0f/03/0f031a16236e426a0317ff09e228444d9854cf06ba9538e81c684fcc4eefd38b.jpg)Wolfgang Eder was playing against Kai Budde at Grand Prix-Heidelberg. Things looked grim for Budde as he was about to die to Eder's superior attackers on the following turn. Budde drew and cast the one card that could give him a chance to win the game - Overrun! He cast it, and attacked with all of his creatures. Eder immediately cast Second Thoughts, removing Budde's largest creature from the game. He was now about to take fifteen points of damage, while at sixteen life. After this, he could attack the tapped out Budde at leisure with several of his own creatures to claim the win.
+![](https://i.ormos.uk/0f/03/0f031a16236e426a0317ff09e228444d9854cf06ba9538e81c684fcc4eefd38b.jpg)
+
+Wolfgang Eder was playing against Kai Budde at Grand Prix-Heidelberg. Things looked grim for Budde as he was about to die to Eder's superior attackers on the following turn. Budde drew and cast the one card that could give him a chance to win the game - Overrun! He cast it, and attacked with all of his creatures. Eder immediately cast Second Thoughts, removing Budde's largest creature from the game. He was now about to take fifteen points of damage, while at sixteen life. After this, he could attack the tapped out Budde at leisure with several of his own creatures to claim the win.
 
 After deliberating the board for a few momente, Eder chose to block one of Budde's creatures instead. Not only did he choose to block with Halberdier, letting Budde trample all but one point of damage through, but he blocked... a Rabid Elephant! An Elephant got +2/+2, letting Budde deal 16 points of damage to Eder instead - just enough to win the game he was surely going to lose otherwise.
 

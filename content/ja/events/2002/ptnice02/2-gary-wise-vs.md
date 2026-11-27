@@ -298,7 +298,9 @@ render_recovery:
  　  
 **Game 2**
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a944.jpg)　またしても後手をとった Wise を前に、森は《モスファイアの卵》経由の《狂犬》からスタート。Wise の《セファリッドの仲介人/Cephalid Broker》召喚にあわせて《象の待ち伏せ》で応戦し、もちろん、返すメインステップで《仲介人》も即座に《集中砲火/Flame Burst》。赤緑の命綱であるテンポをガッチリとキープしてみせた。
+![](http://www.wizards.com/sideboard/images/ptnice02/a944.jpg)
+
+　またしても後手をとった Wise を前に、森は《モスファイアの卵》経由の《狂犬》からスタート。Wise の《セファリッドの仲介人/Cephalid Broker》召喚にあわせて《象の待ち伏せ》で応戦し、もちろん、返すメインステップで《仲介人》も即座に《集中砲火/Flame Burst》。赤緑の命綱であるテンポをガッチリとキープしてみせた。
 
 　しかし、ここで Wise もなんとか踏みとどまった。 3/3 の象トークンに《炎熱の突風/Thermal Blast》を叩き込み、続く《クローサの射手／Krosan Archer》を《追い返し/Repel》しつつ、《チェイナーの布告/Chainer's Edict》で《クローサの締めつけ蛇/Krosan Constrictor》も除去。
 
@@ -316,7 +318,9 @@ Gary Wise 1-1
 　そして、ここからは Wise と森とで綱引きとなる。  
  　そう、1:1 でのリソース交換が淡々と行われるのだ。
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a945.jpg)　森が　《ミノタウルスの探検者/Minotaur Explorer》でようやくビートダウンを開始したかと思えば、Wise も負けじと《セファリッドの仲介人/Cephalid Broker》。森はこれを即《癇しゃく/Fiery Temper》してみせたのだが、《探索者》も《魂の災い魔/Soul Scourge》と相打ちにとられてしまう。
+![](http://www.wizards.com/sideboard/images/ptnice02/a945.jpg)
+
+　森が　《ミノタウルスの探検者/Minotaur Explorer》でようやくビートダウンを開始したかと思えば、Wise も負けじと《セファリッドの仲介人/Cephalid Broker》。森はこれを即《癇しゃく/Fiery Temper》してみせたのだが、《探索者》も《魂の災い魔/Soul Scourge》と相打ちにとられてしまう。
 
 　Wise が《蛮族ののけ者》と《薄汚いネズミ人間/Dirty Wererat》をならべ、森はフラッシュバックで 2 体の《象の待ち伏せ》トークン、《クローサの射手/Krosan Archer》、《クローサの締めつけ蛇/Krosan Constrictor》と展開した。ただ、トークンの一体はただちに《珊瑚の網/Coral Net》され、やはり盤面は決定的なものにはならなかった。Wise が火力で《クローサの締めつけ蛇》と《クローサの射手》を除去してみせたからだ。長引けば長引くほど状況はコントロールデッキの Wise に有利に働くであろうわけで、森としては嫌なムードが漂ってきた。一体、2 体の《野生の雑種犬/Wild Mongrel》はどこにいってしまったのだろう？
 

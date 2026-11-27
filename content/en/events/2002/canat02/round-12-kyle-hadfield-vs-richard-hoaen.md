@@ -86,7 +86,9 @@ render_recovery:
   - Devoted Caretaker
   occurrences: 29
 ---
-![](http://www.wizards.com/sideboard/images/canat02/a911.jpg)Kyle Hadfield, David Rood, and Jurgen Hahn are all staying at Richard Hoaen's house here in Toronto this weekend, and it looks like that house is the technology center for Canadian Magic. They all regularly chat on the IRC, and when Nationals came around, Hoaen volunteered his place. Something clicked. Going into the last round, all four were either stone locks for the Top 8, or in the case of Hadfield and Hoaen, playing against one another for the right to play Sunday.
+![](http://www.wizards.com/sideboard/images/canat02/a911.jpg)
+
+Kyle Hadfield, David Rood, and Jurgen Hahn are all staying at Richard Hoaen's house here in Toronto this weekend, and it looks like that house is the technology center for Canadian Magic. They all regularly chat on the IRC, and when Nationals came around, Hoaen volunteered his place. Something clicked. Going into the last round, all four were either stone locks for the Top 8, or in the case of Hadfield and Hoaen, playing against one another for the right to play Sunday.
 
 Hoaen, running the 22-land deck-registration-error special, started out with an Angelic Wall and an Aven Fogbringer. Hadfield put out some sub-standard ground-pounders – Reborn Hero, Whispering Shade, and Treacherous Werewolf. Hoaen seemed to be predictable land-flooded and was having trouble defending himself. Over his next two turns, Hadfield played out two Earsplitting Rats, discarding a Selfless Exorcist and a Vigilant Sentry, while Hoaen discarded land. Hoaen eventually drew Amugaba, but Hadfield had Faceless Butcher. The army of bad creatures finished Hoaen off.
 
@@ -102,7 +104,9 @@ The problem was that Hadfield had no black mana and stopped after playing four s
 
 Hadfield 1 – Hoaen 1
 
-![](http://www.wizards.com/sideboard/images/canat02/a912.jpg)Between matches, the two competitors were trying to figure out how in the world Hoaen got Amugaba 4th in the draft. The answer was Hahn took a Wild Mongrel, Sam Lau a Cephalid Looter, and Jeff Cunningham – a diehard red/green mage – a Firebolt. How perfect. Hadfield got a Zealot 5th out of that pack.
+![](http://www.wizards.com/sideboard/images/canat02/a912.jpg)
+
+Between matches, the two competitors were trying to figure out how in the world Hoaen got Amugaba 4th in the draft. The answer was Hahn took a Wild Mongrel, Sam Lau a Cephalid Looter, and Jeff Cunningham – a diehard red/green mage – a Firebolt. How perfect. Hadfield got a Zealot 5th out of that pack.
 
 Hoaen's deck delivered the goods in Game 3. Obsessive Search. Then Angelic Wall. Skywing Aven. Aven Fogbringer. Mirror Wall. Deep Analysis.
 
@@ -115,7 +119,9 @@ Hadfield: "Judge, if I block and put damage on the stack, does he get priority f
 
 At this point, the game degenerated into some sort of comedy of errors. Hoean put out a Stern Judge and started using it, and then gave Hadfield his Morbid Hunger back with his Advocate during some random combat. Hadfield then set up a complex maneuver with Floating Shield to get the Hunger past the Devoted Caretaker, but when he hit the Stern Judge with the Hunger, Hoaen just forgot to use the Advocate at all.
 
-![](http://www.wizards.com/sideboard/images/canat02/a913.jpg)That didn't really matter, though. Hoaen started cluttering the skies with fliers, and Hadfield had no real defense. So he started to slow the pace down considerably. Once Amugaba came down on Hoaen's side, your could hear Hadfield's blood thicken.
+![](http://www.wizards.com/sideboard/images/canat02/a913.jpg)
+
+That didn't really matter, though. Hoaen started cluttering the skies with fliers, and Hadfield had no real defense. So he started to slow the pace down considerably. Once Amugaba came down on Hoaen's side, your could hear Hadfield's blood thicken.
 
 After three or four turns of slow nothingness, the crowd started getting anxious, and some of them went to fetch more judges. About five of them arrived (since just about every other match was over), including Head Judge Mike Guptil.
 

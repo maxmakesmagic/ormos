@@ -53,7 +53,9 @@ archive_source:
   sha256: 973c30f233ff2a33ee1fae513d74b677deab6fdeeae22e7daf87ecd8f1422cac
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/sf1_1.jpg)This match pits the Dutch Schietkoe team against the French NPC All Stars. Tom Van De Logt heads the team of two Cornelissen brothers, while the French team consists of Alexandre peset, Sylvain Lehoux and Loic Degrou, the former fresh off a PT Top 8 in Kobe.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/sf1_1.jpg)
+
+This match pits the Dutch Schietkoe team against the French NPC All Stars. Tom Van De Logt heads the team of two Cornelissen brothers, while the French team consists of Alexandre peset, Sylvain Lehoux and Loic Degrou, the former fresh off a PT Top 8 in Kobe.
 
 The Dutch team won the coin flip and chose to kick off the draft. 
 

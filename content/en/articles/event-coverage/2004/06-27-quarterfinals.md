@@ -46,7 +46,9 @@ render_recovery: []
 ---
 ## Manuel Bucher vs. Bertrand Fagnoni
 
-![](https://i.ormos.uk/9e/e7/9ee7c9910fbc4827fd64007a587067471e478e5bf2597396955697874d0519bd.jpg)The lone [Tooth and Nail](https://web.archive.org/web/20040627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) player against the lone Red-Blue player in the Top 8. In a sea of Green with the two Affinity playing against each other one of the Swiss players faces on a French.
+![](https://i.ormos.uk/9e/e7/9ee7c9910fbc4827fd64007a587067471e478e5bf2597396955697874d0519bd.jpg)
+
+The lone [Tooth and Nail](https://web.archive.org/web/20040627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) player against the lone Red-Blue player in the Top 8. In a sea of Green with the two Affinity playing against each other one of the Swiss players faces on a French.
 
 ### Game 1
 

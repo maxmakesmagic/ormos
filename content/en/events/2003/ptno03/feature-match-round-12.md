@@ -207,11 +207,15 @@ render_recovery:
 ---
 * * *
 
-![Feature Match: Remie vs. Thoren](http://www.wizards.com/sideboard/images/ptno03/886.jpg "Feature Match: Remie vs. Thoren")Jens Thoren is the kind of player who is all business at the table. He doesn't make a lot of waves, doesn't need to talk trash, and odds are he'll beat you without feeling the need to make much noise about it. Just recently, he's reaped the rewards of winning the Magic Invitational, as his Soldevi Simulacrum appeared in Mirrodin. Jeroen Remie made his big impact on the Tour with a Top 8 at Worlds, and is playing his old standby, The Rock. Even though the deck may seem underpowered in this environment, Duress and Cabal Therapy can disrupt combo decks extremely well, and Pernicious Deed can destroy a full board of artifacts.
+![Feature Match: Remie vs. Thoren](http://www.wizards.com/sideboard/images/ptno03/886.jpg "Feature Match: Remie vs. Thoren")
+
+Jens Thoren is the kind of player who is all business at the table. He doesn't make a lot of waves, doesn't need to talk trash, and odds are he'll beat you without feeling the need to make much noise about it. Just recently, he's reaped the rewards of winning the Magic Invitational, as his Soldevi Simulacrum appeared in Mirrodin. Jeroen Remie made his big impact on the Tour with a Top 8 at Worlds, and is playing his old standby, The Rock. Even though the deck may seem underpowered in this environment, Duress and Cabal Therapy can disrupt combo decks extremely well, and Pernicious Deed can destroy a full board of artifacts.
 
 ### Game 1
 
-![Meticulous Jens Thoren](http://www.wizards.com/sideboard/images/ptno03/887.jpg "Meticulous Jens Thoren")Remie's first turn play was Birds of Paradise, and Thoren played Goblin Welder. Remie's Cabal Therapy named Grim Monolith and missed, as Thoren's hand contained Pentavus, Voltaic Key, Mindslaver, Masticore and Metalworker. Wall of Blossoms came into play, and was sacrificed to flash back the Therapy and kill Metalworker. Thoren untapped and played Tangle Wire, but Remie was still able to cast Duress on his turn, taking Voltaic Key. All this disruption didn't mean too much, as Thoren's Welder assured he could get the artifacts he wanted. The Tangle Wire was welded into a Metalworker, and Thoren played a second. Smother killed the Welder, but it traded a Tangle Wire for Pentavus before dying. With that on the table and the knowledge that Thoren was about to produce a massive amount of mana and take complete control of the game, Remie conceded.
+![Meticulous Jens Thoren](http://www.wizards.com/sideboard/images/ptno03/887.jpg "Meticulous Jens Thoren")
+
+Remie's first turn play was Birds of Paradise, and Thoren played Goblin Welder. Remie's Cabal Therapy named Grim Monolith and missed, as Thoren's hand contained Pentavus, Voltaic Key, Mindslaver, Masticore and Metalworker. Wall of Blossoms came into play, and was sacrificed to flash back the Therapy and kill Metalworker. Thoren untapped and played Tangle Wire, but Remie was still able to cast Duress on his turn, taking Voltaic Key. All this disruption didn't mean too much, as Thoren's Welder assured he could get the artifacts he wanted. The Tangle Wire was welded into a Metalworker, and Thoren played a second. Smother killed the Welder, but it traded a Tangle Wire for Pentavus before dying. With that on the table and the knowledge that Thoren was about to produce a massive amount of mana and take complete control of the game, Remie conceded.
 
 Thoren 1 - Remie 0
 
@@ -223,6 +227,8 @@ Thoren 1 - Remie 1
 
 ### Game 3
 
-![Jeroen Remie packs it in for the day](http://www.wizards.com/sideboard/images/ptno03/888.jpg "Jeroen Remie packs it in for the day")This time around Thoren's opening was much better, as he started with Grim Monolith and Metalworker. Unfortunately, he didn't have much to do with the mana, as Remie's Duress took away Chromatic Sphere, leaving nothing but land. Luckily, Tinker showed up and provided a Pentavus. It made fliers on end step and the whole team along with Metalworker attacked for six damage, and Thoren played Tangle Wire to lock things down. Remie cast Vampiric Tutor on end step, floated mana, and Nautralized Pentavus, but not before it made two more tokens. Tangle Wire kept Remie against the ropes, as he revealed the Deed in his hand before conceding.
+![Jeroen Remie packs it in for the day](http://www.wizards.com/sideboard/images/ptno03/888.jpg "Jeroen Remie packs it in for the day")
+
+This time around Thoren's opening was much better, as he started with Grim Monolith and Metalworker. Unfortunately, he didn't have much to do with the mana, as Remie's Duress took away Chromatic Sphere, leaving nothing but land. Luckily, Tinker showed up and provided a Pentavus. It made fliers on end step and the whole team along with Metalworker attacked for six damage, and Thoren played Tangle Wire to lock things down. Remie cast Vampiric Tutor on end step, floated mana, and Nautralized Pentavus, but not before it made two more tokens. Tangle Wire kept Remie against the ropes, as he revealed the Deed in his hand before conceding.
 
 Thoren 2 - Remie 1

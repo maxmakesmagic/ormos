@@ -343,7 +343,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/bf/c9/bfc93deda5ee1a3d8bd349ead535f59a958e569916d2feeb1a0d604690ae559f.jpg)It didn't take long for Manuel Bevand to knock the rust off his game, defeating top-seeded Kamiel Cornelissen 3-1 in the quarterfinals. Rookie Aeo Paquette also knocked off a favored player -- soon-to-be-crowned Player of the Year Gabriel Nassif.
+![](https://i.ormos.uk/bf/c9/bfc93deda5ee1a3d8bd349ead535f59a958e569916d2feeb1a0d604690ae559f.jpg)
+
+It didn't take long for Manuel Bevand to knock the rust off his game, defeating top-seeded Kamiel Cornelissen 3-1 in the quarterfinals. Rookie Aeo Paquette also knocked off a favored player -- soon-to-be-crowned Player of the Year Gabriel Nassif.
 
 Bevand went 6-0 during the Standard portion while Paquette went 5-1, proving there was some serious juice behind these darkhorses' pursuit of the individual title.
 

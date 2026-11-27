@@ -53,7 +53,9 @@ archive_source:
   sha256: 97545022535552dacc5503e190f3b14ab5759ba34255aaae65eb69eb673c7102
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gptai02/a979.jpg)The fix is apparently in this weekend. Following on the heels of the unfortunate friendship matchup of Doctor Wong and Tzu Ching Kuo, we have a pair of Singapore's brightest lights fighting against each other. Sam Lau is a former National Champion as well as Grand Prix Champion, and Chang Chua recently finished second at Grand Prix - Kuala Lumpur.
+![](http://www.wizards.com/sideboard/images/gptai02/a979.jpg)
+
+The fix is apparently in this weekend. Following on the heels of the unfortunate friendship matchup of Doctor Wong and Tzu Ching Kuo, we have a pair of Singapore's brightest lights fighting against each other. Sam Lau is a former National Champion as well as Grand Prix Champion, and Chang Chua recently finished second at Grand Prix - Kuala Lumpur.
 
 Both players got the early Familiar in the first game, but Chua kept the tempo in his favor with Repulse and Fire keeping Lau's mana tied up. In the meantime he resolved a main-phase Fact or Fiction taking spells over three land. All Lau had was a Deep Analysis. He left one blue open to for his Memory Lapse. Chua penalized his land-light draw with a Flametongue for his Familiar, stopping the Lapse with one of his own.
 
@@ -61,7 +63,9 @@ Now Lau was in a bind. He got set back when his Burning Wish met Memory Lapse. T
 
 He tried to tie up all of Chua's mana with a Fire on each of his Familiars. Chua stopped him with Circular Logic. Lau's Logic played Force Spike, so he only had three mana left when Lau untapped and played Burning Wish. Chua let it go. Lau fetched Pyroclasm, and Chua's only response was to rescue a Familiar. He drew a second to keep things even. But he hadn't drawn any more land, and was pinched for blue.
 
-![](http://www.wizards.com/sideboard/images/gptai02/a977.jpg)Lau kept things going, resolving Fact or Fiction with a Memory Lapse on Chua's Counterspell. He scored Circular Logic, Island and Flametongue Kavu over Psychatog and Memory Lapse. Overuse of painlands and Deep Analysis had taken its toll, however. Lau's life total was just four. Chua hit with both Familiars to bring him to three, holding Fire/Ice. Lau dissolved that idea by playing out a second 'Tog and a Familiar of his own, with painless mana to regenerate it.
+![](http://www.wizards.com/sideboard/images/gptai02/a977.jpg)
+
+Lau kept things going, resolving Fact or Fiction with a Memory Lapse on Chua's Counterspell. He scored Circular Logic, Island and Flametongue Kavu over Psychatog and Memory Lapse. Overuse of painlands and Deep Analysis had taken its toll, however. Lau's life total was just four. Chua hit with both Familiars to bring him to three, holding Fire/Ice. Lau dissolved that idea by playing out a second 'Tog and a Familiar of his own, with painless mana to regenerate it.
 
 It was still a tightrope. He was to short on resources to bring Chua from nineteen to zero. Chua drew more black mana, able to block and regenerate with both Familiars, then regenerate again from the Flametongue he knew Lau had. But once Lau had two Flametongues and two Psychatogs on board, he could gouge at Chua's lifetotal. An eleventh-hour Flametongue wasn't enough.
 
@@ -69,7 +73,9 @@ Lau 1 - Chua 0
 
 With just eleven minutes remaining in the round, Chua was forced to move at light speed. Lau, naturally, remained leisurely. Chua kept a two island draw, and was rewarded with two Shivan Reefs off the top. That allowed him a fourth-turn Fact or Fiction in response to Lau's endstep Ice. He scored Merfolk Looter and two desperately needed black-producing lands.
 
-![](http://www.wizards.com/sideboard/images/gptai02/a978.jpg)He followed up with Nightscape Familiar. Lau tried to Fire it. Chua Memory Lapsed. Lau tried again. This time, Chua saved with Repulse. On the way back down, Lau stopped it with Counterspell and Memory Lapse getting past Counterspell. Chua kept up with Merfolk Looter. Lau had had about enough. Chainer's Edict sent it packing, and he got a Familiar working.
+![](http://www.wizards.com/sideboard/images/gptai02/a978.jpg)
+
+He followed up with Nightscape Familiar. Lau tried to Fire it. Chua Memory Lapsed. Lau tried again. This time, Chua saved with Repulse. On the way back down, Lau stopped it with Counterspell and Memory Lapse getting past Counterspell. Chua kept up with Merfolk Looter. Lau had had about enough. Chainer's Edict sent it packing, and he got a Familiar working.
 
 Chua had Flametongue at the ready, catching Lau without black mana. Fact or Fiction got Lau Psychatog and Memory Lapse, and his position seemed indominable. If anything, it seemed that Chua simply didn't have the time to kill him. He allowed Chua a Fact or Fiction that got him two Familiars, Duress and a land over Burning Wish.
 

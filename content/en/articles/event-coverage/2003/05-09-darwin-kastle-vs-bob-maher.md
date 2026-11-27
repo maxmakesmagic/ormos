@@ -62,7 +62,9 @@ render_recovery:
 
 **Game 2**
 
-![](https://i.ormos.uk/bd/c1/bdc1de842b25adde4c25eb6492450fe4f18ce290a1df33ee2e2ed6dbd5aa6592.jpg)　先手 Kastle の《強迫/[Duress](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress)》で Maher の《厳かなモノリス/[Grim Monolith](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Monolith)》を抜き去り、 3 ターン目に出してきた《金属細工師/[Metalworker](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metalworker)》を《悪魔の布告/[Diabolic Edict](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diabolic+Edict)》で除去と、 Maher に十分なマナを与えさせない。
+![](https://i.ormos.uk/bd/c1/bdc1de842b25adde4c25eb6492450fe4f18ce290a1df33ee2e2ed6dbd5aa6592.jpg)
+
+　先手 Kastle の《強迫/[Duress](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress)》で Maher の《厳かなモノリス/[Grim Monolith](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Monolith)》を抜き去り、 3 ターン目に出してきた《金属細工師/[Metalworker](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metalworker)》を《悪魔の布告/[Diabolic Edict](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diabolic+Edict)》で除去と、 Maher に十分なマナを与えさせない。
 
 　だが、これだけ見事にゲームを進めているにもかかわらず、攻める手段を持たない Kastle は Maher に反撃の体制を整える時間を与えてしまい、結局 Maher が引き当てた《ミシュラのらせん/[Mishra's Helix](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mishra%27s+Helix)》でマナロックを食らって時間を稼がれ、マナアーティファクトが 1 枚ずつ場に展開されていく。
 

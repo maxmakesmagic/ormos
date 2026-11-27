@@ -53,7 +53,9 @@ archive_source:
   sha256: 13c618c3efaf9ea597157e1c1e9ff1b6068ff9d1ee48c0b02994ea8653f8167b
 render_recovery: []
 ---
-![Aleksi Briclot](https://www.wizards.com/grandprix/images/Briclot.jpg)A concept artist and art director in the videogame industry for 9 years, Aleksi was lead artist on *ColdFear*, the horror-action game developed by DarkWorks for Ubisoft, then on *Splinter Cell Double Agent* from the hit series and more recently on the big upcoming titles *Haze* (still Ubisoft) and *Dungeon Runners* (NCsoft). He also contributed to the trailer for *Heroes of Might & Magic 4* trailer and the booth banner for *Prince of Persia 3* at E3 in 2005. 
+![Aleksi Briclot](https://www.wizards.com/grandprix/images/Briclot.jpg)
+
+A concept artist and art director in the videogame industry for 9 years, Aleksi was lead artist on *ColdFear*, the horror-action game developed by DarkWorks for Ubisoft, then on *Splinter Cell Double Agent* from the hit series and more recently on the big upcoming titles *Haze* (still Ubisoft) and *Dungeon Runners* (NCsoft). He also contributed to the trailer for *Heroes of Might & Magic 4* trailer and the booth banner for *Prince of Persia 3* at E3 in 2005. 
 
 Also an illustrator, he has drawn pieces for RPG books (hundreds of interior illustrations), magazines, and comics. He did covers for *Mage*, *Vampire* , *C.O.P.S*. Rpgs, Tolkien, J.V.Jones, Bradley Books, WizKids' Horrorclix packaging, Privateer Press, the *World of Warcraft* CCG, and is also one of the main card and packaging artists for Wizards of the Coast (**Magic: The Gathering** and *Dreamblade*,). As for comic-books, his early works were the comics adaptation of the videogame *Alone in the Dark 4*, then the graphic novel *Spawn: Simony* for Todd McFarlane Productions (the best-selling trade paper back in the US for May 2004). He has also taken part in the Legends of the Round Table, a comic-book for the European market. He is also a cover artist for Marvel on the "Annihilation: Conquest" saga and for "Hellgate", a Dark Horse limited comic-book series. 
 

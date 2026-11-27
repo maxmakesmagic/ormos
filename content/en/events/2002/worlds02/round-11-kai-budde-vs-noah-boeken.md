@@ -137,7 +137,9 @@ render_recovery:
   - Trained Pronghorn
   occurrences: 112
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a810.jpg)Even under normal circumstances, a feature match between these two is interesting, but seeing as how this is Worlds, there's an added element. Kai is the German National Champion, and Boeken is on the Dutch team. Both teams were heavily favored to take it all coming into this event, and this match will give one team some extra help towards the Finals stage on Sunday.
+![](http://www.wizards.com/sideboard/images/worlds02/a810.jpg)
+
+Even under normal circumstances, a feature match between these two is interesting, but seeing as how this is Worlds, there's an added element. Kai is the German National Champion, and Boeken is on the Dutch team. Both teams were heavily favored to take it all coming into this event, and this match will give one team some extra help towards the Finals stage on Sunday.
 
 ### Game 1
 
@@ -149,7 +151,9 @@ Budde- 0 Boeken- 1
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/worlds02/a812.jpg)Budde dropped a first turn Mossfire Egg, and Boeken played Benevolent Bodyguard. Toxic Stench killed the Bodyguard, and Boeken cast Aquamoeba and a Phantatog. Aven Fogbringer provided Budde with some tempo advantage, and Spirit Carin gave Boeken a great card to go along with his discard-ready creatures. Repel sent back Phantatog, while the Fogbringer smashed for two. Aquamoeba attacked for three, as Boeken discarded Valor and made a Spirit token along the way. Budde played Wormfang Crab, which removed his Fogbringer. Budde's Looter wasn't nearly as good as it usually is due to Boeken's Carin, and Eesha made a second appearance to make the board even more lopsided. Vigilant Sentry threatened to make things even rougher once Boeken got threshold. 
+![](http://www.wizards.com/sideboard/images/worlds02/a812.jpg)
+
+Budde dropped a first turn Mossfire Egg, and Boeken played Benevolent Bodyguard. Toxic Stench killed the Bodyguard, and Boeken cast Aquamoeba and a Phantatog. Aven Fogbringer provided Budde with some tempo advantage, and Spirit Carin gave Boeken a great card to go along with his discard-ready creatures. Repel sent back Phantatog, while the Fogbringer smashed for two. Aquamoeba attacked for three, as Boeken discarded Valor and made a Spirit token along the way. Budde played Wormfang Crab, which removed his Fogbringer. Budde's Looter wasn't nearly as good as it usually is due to Boeken's Carin, and Eesha made a second appearance to make the board even more lopsided. Vigilant Sentry threatened to make things even rougher once Boeken got threshold. 
 
 Boeken pitched away a Militank Monk to make a bird, and attacked with his whole team on the following turn. Budde had a second Repel for Eesha, but it didn't matter, as Boeken's birds finished up the game a turn later.
 

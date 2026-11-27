@@ -129,7 +129,9 @@ All right, you want *real* strategy? You've certainly waited long enough. Try th
 
 ### Step 4: Play Slivers
 
-![Essence Sliver, Might Sliver, and Crystalline Sliver](https://i.ormos.uk/06/13/0613423cb23d64d93203c0446a8bc0ddbf0c30c99c19b240bc59c3295e4b1ac7.jpg)In a [Wrath of God](https://web.archive.org/web/20080212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wrath%2Bof%2BGod)less world, the Slivers are king. They grow in might with each additional Sliver, gaining abilities, and when you get four or five they become pretty unstoppable. Our rule at the table is "Shoot the Slivers," because even with a [Wrath of God](https://web.archive.org/web/20080212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wrath%2Bof%2BGod), they sometimes become overwhelming. 
+![Essence Sliver, Might Sliver, and Crystalline Sliver](https://i.ormos.uk/06/13/0613423cb23d64d93203c0446a8bc0ddbf0c30c99c19b240bc59c3295e4b1ac7.jpg)
+
+In a [Wrath of God](https://web.archive.org/web/20080212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wrath%2Bof%2BGod)less world, the Slivers are king. They grow in might with each additional Sliver, gaining abilities, and when you get four or five they become pretty unstoppable. Our rule at the table is "Shoot the Slivers," because even with a [Wrath of God](https://web.archive.org/web/20080212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wrath%2Bof%2BGod), they sometimes become overwhelming. 
 
 See, [Wrath of God](https://web.archive.org/web/20080212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wrath%2Bof%2BGod)s are sorcery-speed. And a well-timed [Might Sliver](https://web.archive.org/web/20080212000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Might+Sliver) or [Essence Sliver](https://web.archive.org/web/20080212000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Essence+Sliver) can destroy you before your next main phase arrives. 
 

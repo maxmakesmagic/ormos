@@ -941,7 +941,9 @@ render_recovery:
   - Barbed Lightning
   occurrences: 1
 ---
-![](https://i.ormos.uk/20/80/2080e62232d0015ee5b44aa08125bab6f8deada04bf990dcc8a8e3215a2e4ed3.jpg)The Mike Turian farewell tour has rolled into the nation's capitol. His opening acts for this gig include Gary Wise and the future of CMU. Along with Turian going to Seattle to join his future wife Rachel and Nate Heiss going to the DC area to move in with Mike Flores' favorite magician John Shuler, Eugene Harvey is done with his education at Carnegie Mellon and is returning to be a New Jersey resident full time. The once venerable CMU powerhouse will soon be bereft of their leadership and experience. Gary has also announced that he is going to move onto other pursuits once his current string of qualifications plays itself out.
+![](https://i.ormos.uk/20/80/2080e62232d0015ee5b44aa08125bab6f8deada04bf990dcc8a8e3215a2e4ed3.jpg)
+
+The Mike Turian farewell tour has rolled into the nation's capitol. His opening acts for this gig include Gary Wise and the future of CMU. Along with Turian going to Seattle to join his future wife Rachel and Nate Heiss going to the DC area to move in with Mike Flores' favorite magician John Shuler, Eugene Harvey is done with his education at Carnegie Mellon and is returning to be a New Jersey resident full time. The once venerable CMU powerhouse will soon be bereft of their leadership and experience. Gary has also announced that he is going to move onto other pursuits once his current string of qualifications plays itself out.
 
 This is the same team that made it to the quarter-finals of the last team Pro Tour. They were sitting across the table from David Rood--one third of 2020 the team that made it the finals against Phoenix Foundation the team Pro Tour before that one. With Elijah Pollak no longer playing Magic he and Steven Wolfman were left to their own devices to find new teams. David turned to two names from Canada's past--a pair of players who have quit Magic and come back again long before it was fashionable--Terry Tsang and Gab Tsang.
 

@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes a 41-card preconstructed de
 
 ## PRODUCT INFORMATION
 
-![](http://magic.wizards.com/sites/default/files/EN_GAMEINFO_PRODUCTS_SetIcon_T_WWK_131025_0.png)Worldwake features 145 black-bordered cards, including randomly inserted premium versions of all cards in the set.
+![](http://magic.wizards.com/sites/default/files/EN_GAMEINFO_PRODUCTS_SetIcon_T_WWK_131025_0.png)
+
+Worldwake features 145 black-bordered cards, including randomly inserted premium versions of all cards in the set.
 
 **Set Name:** *Worldwake*  
 **Block:** Set 2 of 3 of the *Zendikar* Block  

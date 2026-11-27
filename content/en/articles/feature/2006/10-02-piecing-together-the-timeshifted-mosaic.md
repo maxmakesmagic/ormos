@@ -105,7 +105,9 @@ What does this have to do with anything? Ah, yes. The Timeshifted cards. The goa
 
 A key thing to remember about the first pass was that the intent of the Timeshifted cards in design was that they *weren’t Standard legal*. A bit of backstory…
 
-![Arena](https://i.ormos.uk/0f/8a/0f8a873a5aacf30b242c992d1c1234ab790b9b13b5999bfccbb6d9f24a11f024.jpg)When designing *Time Spiral*, we (Tinsman, Mark Rosewater, Devin Low, and myself) knew we wanted the three sets in the block to have a "past, present, future" feel, and the first set, obviously, was going to be based on the past. We knew we wanted to bring back lots of old mechanics for certain, but we wanted other means of evoking feeling of the past. We made a list of things on a white board that could accomplish such goals, a list including:
+![Arena](https://i.ormos.uk/0f/8a/0f8a873a5aacf30b242c992d1c1234ab790b9b13b5999bfccbb6d9f24a11f024.jpg)
+
+When designing *Time Spiral*, we (Tinsman, Mark Rosewater, Devin Low, and myself) knew we wanted the three sets in the block to have a "past, present, future" feel, and the first set, obviously, was going to be based on the past. We knew we wanted to bring back lots of old mechanics for certain, but we wanted other means of evoking feeling of the past. We made a list of things on a white board that could accomplish such goals, a list including:
 
 *   Old card frames
 *   Dinosaurs and cavemen
@@ -233,7 +235,9 @@ From a PR standpoint, [Squire](https://web.archive.org/web/20061002000000/https:
 
 ### [Jasmine Boreal](https://web.archive.org/web/20061002000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jasmine+Boreal)
 
-![Jasmine_Boreal](https://i.ormos.uk/44/1e/441ec1267ee25f9d9c701ccea4778c22ece2dbffdc63a9418ab34e1d80902f49.jpg)Speaking of vanilla creatures… I actually think vanilla legends are an important, if forgettable, part of the game’s past. The *Legends* set was absolutely full of them, and they oozed flavor even though there was nary a word in their text boxes. On top of that, Devin Low and I are both madly in love with Jasmine, or at least with Richard Kane-Ferguson’s rendition of her.
+![Jasmine_Boreal](https://i.ormos.uk/44/1e/441ec1267ee25f9d9c701ccea4778c22ece2dbffdc63a9418ab34e1d80902f49.jpg)
+
+Speaking of vanilla creatures… I actually think vanilla legends are an important, if forgettable, part of the game’s past. The *Legends* set was absolutely full of them, and they oozed flavor even though there was nary a word in their text boxes. On top of that, Devin Low and I are both madly in love with Jasmine, or at least with Richard Kane-Ferguson’s rendition of her.
 
 ### [Serrated Arrows](https://web.archive.org/web/20061002000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serrated+Arrows) and [Desert](https://web.archive.org/web/20061002000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Desert)
 

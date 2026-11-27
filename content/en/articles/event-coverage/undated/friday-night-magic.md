@@ -100,19 +100,27 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 ![What's being said about us...](http://www.wizards.com/mtg/images/widgets/twitter/header.png)
 
-[![](http://a0.twimg.com/profile_images/617917752/david_normal.jpg)](http://twitter.com/David_Leavitt)[**David\_Leavitt**](http://twitter.com/David_Leavitt) Scars of Mirrodin keyword revealed: Infect - Poison returns! [http://exm.nr/d8lhk8](http://exm.nr/d8lhk8) [#mtg](http://search.twitter.com/search?q=%23mtg) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) [#som](http://search.twitter.com/search?q=%23som) [#game](http://search.twitter.com/search?q=%23game) [#games](http://search.twitter.com/search?q=%23games) [#magic](http://search.twitter.com/search?q=%23magic) [#poison](http://search.twitter.com/search?q=%23poison) [#boston](http://search.twitter.com/search?q=%23boston) [#ma](http://search.twitter.com/search?q=%23ma)
+[![](http://a0.twimg.com/profile_images/617917752/david_normal.jpg)](http://twitter.com/David_Leavitt)
+
+[**David\_Leavitt**](http://twitter.com/David_Leavitt) Scars of Mirrodin keyword revealed: Infect - Poison returns! [http://exm.nr/d8lhk8](http://exm.nr/d8lhk8) [#mtg](http://search.twitter.com/search?q=%23mtg) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) [#som](http://search.twitter.com/search?q=%23som) [#game](http://search.twitter.com/search?q=%23game) [#games](http://search.twitter.com/search?q=%23games) [#magic](http://search.twitter.com/search?q=%23magic) [#poison](http://search.twitter.com/search?q=%23poison) [#boston](http://search.twitter.com/search?q=%23boston) [#ma](http://search.twitter.com/search?q=%23ma)
 
 8/19/2010 9:31:40 AM
 
-[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)[**g\_remix**](http://twitter.com/g_remix) 明晩のフライデーナイトマジックはスタンダードです。皆様のご参加をおまちしています。 [http://bit.ly/dulPpD](http://bit.ly/dulPpD) [#MTGJP](http://search.twitter.com/search?q=%23MTGJP) [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM)
+[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)
+
+[**g\_remix**](http://twitter.com/g_remix) 明晩のフライデーナイトマジックはスタンダードです。皆様のご参加をおまちしています。 [http://bit.ly/dulPpD](http://bit.ly/dulPpD) [#MTGJP](http://search.twitter.com/search?q=%23MTGJP) [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM)
 
 8/19/2010 12:22:43 AM
 
-[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)[**g\_remix**](http://twitter.com/g_remix) \[MTG\]8/20(金)はFNMです。 [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) [#MTGJP](http://search.twitter.com/search?q=%23MTGJP) - G!ReMix/ジーリミックス日日 [http://bit.ly/byyeVJ](http://bit.ly/byyeVJ) [#twitbackr](http://search.twitter.com/search?q=%23twitbackr)
+[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)
+
+[**g\_remix**](http://twitter.com/g_remix) \[MTG\]8/20(金)はFNMです。 [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) [#MTGJP](http://search.twitter.com/search?q=%23MTGJP) - G!ReMix/ジーリミックス日日 [http://bit.ly/byyeVJ](http://bit.ly/byyeVJ) [#twitbackr](http://search.twitter.com/search?q=%23twitbackr)
 
 8/19/2010 12:01:01 AM
 
-[![](http://a0.twimg.com/profile_images/617917752/david_normal.jpg)](http://twitter.com/David_Leavitt)[**David\_Leavitt**](http://twitter.com/David_Leavitt) Magic: the Gathering Cakes! [http://exm.nr/cNlio5](http://exm.nr/cNlio5) [#mtg](http://search.twitter.com/search?q=%23mtg) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) [#cake](http://search.twitter.com/search?q=%23cake) [#baking](http://search.twitter.com/search?q=%23baking) [#cooking](http://search.twitter.com/search?q=%23cooking) [#cookies](http://search.twitter.com/search?q=%23cookies) [#birthday](http://search.twitter.com/search?q=%23birthday) [#magic](http://search.twitter.com/search?q=%23magic) [#magicthegathering](http://search.twitter.com/search?q=%23magicthegathering) [#boston](http://search.twitter.com/search?q=%23boston)
+[![](http://a0.twimg.com/profile_images/617917752/david_normal.jpg)](http://twitter.com/David_Leavitt)
+
+[**David\_Leavitt**](http://twitter.com/David_Leavitt) Magic: the Gathering Cakes! [http://exm.nr/cNlio5](http://exm.nr/cNlio5) [#mtg](http://search.twitter.com/search?q=%23mtg) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) [#cake](http://search.twitter.com/search?q=%23cake) [#baking](http://search.twitter.com/search?q=%23baking) [#cooking](http://search.twitter.com/search?q=%23cooking) [#cookies](http://search.twitter.com/search?q=%23cookies) [#birthday](http://search.twitter.com/search?q=%23birthday) [#magic](http://search.twitter.com/search?q=%23magic) [#magicthegathering](http://search.twitter.com/search?q=%23magicthegathering) [#boston](http://search.twitter.com/search?q=%23boston)
 
 8/18/2010 10:49:37 PM
 

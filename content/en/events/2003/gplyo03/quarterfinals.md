@@ -82,7 +82,9 @@ render_recovery:
   - Predator's Strike
   occurrences: 43
 ---
-![](http://www.wizards.com/sideboard/images/gplyo03/a829.jpg)Both these players had rather good decks. Loic had a removal heavy black red deck, featuring Triskelion, Megatog, Grab the Reins, Terror and double Consume Spirit while Jeroen had a fat red/green/black deck, containing a Grab the Reins of his own, coupled with an Arc Slogger and Glissa Sunseeker. 
+![](http://www.wizards.com/sideboard/images/gplyo03/a829.jpg)
+
+Both these players had rather good decks. Loic had a removal heavy black red deck, featuring Triskelion, Megatog, Grab the Reins, Terror and double Consume Spirit while Jeroen had a fat red/green/black deck, containing a Grab the Reins of his own, coupled with an Arc Slogger and Glissa Sunseeker. 
 
 ### Game 1
 
@@ -98,7 +100,9 @@ Remie 1 – Degrou 0
 
 Loic started off rather well with a first turn Pyrite Spellbomb and a Nim Lasher that was 4/1 already due to two Vault of Whispers. Jeroen had a Pyrite Spellbomb of his own to deal with the Lasher and cast Journey of Discovery to thin out his deck and fix his mana. Loic played another Nim Lasher and still had mana open to deal with Jeroen's Goblin Replica. The Dutchman had other plans for that however, as he cast Battlegrowth to save his Grey Ogre. Nim Lasher hit and Loic passed the turn without playing a creature. Jeroen decided that that wasn't his kind of a plan and cast a Tel-Jilad Archers. Loic cycled a Necrogen Spellbomb in order to try and find some extra land for his expensive hand. 
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a831.jpg)Jeroen just did what he does best, attack and play creatures. He added another Goblin Replica to the board and a Bottle Gnomes, and the subsequent attack took Loic down to 12. The Frenchman mustered a pretty good answer with his Triskelion. Jeroen played a Leaden Myr and destroyed the Triskelion with one of his Replicas during his next turn. Loic responded by killing off the 3/3 Replica and that finished off one of Loic's artifact lands. Jeroen's creatures came in once again, dropping Loic to 8.
+![](http://www.wizards.com/sideboard/images/gplyo03/a831.jpg)
+
+Jeroen just did what he does best, attack and play creatures. He added another Goblin Replica to the board and a Bottle Gnomes, and the subsequent attack took Loic down to 12. The Frenchman mustered a pretty good answer with his Triskelion. Jeroen played a Leaden Myr and destroyed the Triskelion with one of his Replicas during his next turn. Loic responded by killing off the 3/3 Replica and that finished off one of Loic's artifact lands. Jeroen's creatures came in once again, dropping Loic to 8.
 
 The Frenchman only had an Iron Myr to cast during his turn and attacked with his Lasher, trying to get back into the damage race. As it only dropped Jeroen to 10 life, it didn't seem to be doing much good. Jeroen had a Myr Enforcer and played that after his attack took Loic down to 4. Loic cast Grab the Reins with Entwine, killing off both the Myr Enforcer and Tel-Jilad Archers, but it wasn't enough as Jeroen drew a Predator's Strike off his library to seal his spot in the semifinals.
 

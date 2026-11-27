@@ -72,7 +72,9 @@ I’m a big fan of lists like this. When I was a kid, I knew that Hank Aaron had
  2) **Jon Finkel**: 342  
  3) **Darwin Kastle**: 301
 
-![](https://i.ormos.uk/ae/8f/ae8fca572977169f220146ec72a12a4aaa66fcc58297c4af164fb292aa8ba29a.jpg)Anyone shocked? Without a doubt, Kai and Jon have been the two most dominant players in the Pro Tour’s history and it shows in the numbers. Kai needs 12 points to create a club all his own, a total he’ll achieve if he can manage a Quarterfinals appearance in Yokohama. Darwin, whose excellence on Pro Tour has been a little more subtle than the two men he trails, has managed to rack up 300 points despite his inability to win an individual Pro Tour. His number is in part a product of longevity, but the consistency required to qualify for all those Pro Tours and the ability to change with the game, at least enough to continue succeeding, should be recognized. Where these three will finish up is anyone’s guess really. I don’t see Jon or Darwin getting much beyond 450 or so, but the only real challenge left in the game for Budde may be making the 1000 pro point mark. Don’t know if that’s realistic, but the fact is he could be at 500 in a year.
+![](https://i.ormos.uk/ae/8f/ae8fca572977169f220146ec72a12a4aaa66fcc58297c4af164fb292aa8ba29a.jpg)
+
+Anyone shocked? Without a doubt, Kai and Jon have been the two most dominant players in the Pro Tour’s history and it shows in the numbers. Kai needs 12 points to create a club all his own, a total he’ll achieve if he can manage a Quarterfinals appearance in Yokohama. Darwin, whose excellence on Pro Tour has been a little more subtle than the two men he trails, has managed to rack up 300 points despite his inability to win an individual Pro Tour. His number is in part a product of longevity, but the consistency required to qualify for all those Pro Tours and the ability to change with the game, at least enough to continue succeeding, should be recognized. Where these three will finish up is anyone’s guess really. I don’t see Jon or Darwin getting much beyond 450 or so, but the only real challenge left in the game for Budde may be making the 1000 pro point mark. Don’t know if that’s realistic, but the fact is he could be at 500 in a year.
 
 ### *Yokohama Watch*
 
@@ -90,7 +92,9 @@ Kai needs Top 8 for 500
  t8) **Rob Dougherty**: 202  
  t8) **Justin Gary**: 202
 
-![](http://www.wizards.com/sideboard/images/PTCHI00/967.jpg)There would have been a 250 club had anyone managed to clear the mark without moving onwards, but instead the gap between Darwin and Steve OMS (who, combined with brother Dan has 315 points, beating out the Ruels at 278 for the best all-time brother combination), our first retired player, is enormous, showing what an accomplishment Darwin’s reaching 300 in Venice really was. Equally remarkable is the total dominance Your Move Games has on this list: nine players in, we have four lifetime members in Darwin, Humphreys, Dougherty and Justin Gary, as well as recent convert Zvi Mowshowitz. No wonder these guys win. Not only are they all great players, but they’re so comfortable with their testing environment that they don’t go through the rigors involved with less-familiar groups. They know their jobs and know they can trust their teammates; that has to lend to their success.
+![](http://www.wizards.com/sideboard/images/PTCHI00/967.jpg)
+
+There would have been a 250 club had anyone managed to clear the mark without moving onwards, but instead the gap between Darwin and Steve OMS (who, combined with brother Dan has 315 points, beating out the Ruels at 278 for the best all-time brother combination), our first retired player, is enormous, showing what an accomplishment Darwin’s reaching 300 in Venice really was. Equally remarkable is the total dominance Your Move Games has on this list: nine players in, we have four lifetime members in Darwin, Humphreys, Dougherty and Justin Gary, as well as recent convert Zvi Mowshowitz. No wonder these guys win. Not only are they all great players, but they’re so comfortable with their testing environment that they don’t go through the rigors involved with less-familiar groups. They know their jobs and know they can trust their teammates; that has to lend to their success.
 
 * * *
 
@@ -136,7 +140,9 @@ Rubin needs Top 128 for 200
  t28) **Chris Benafel**: 151  
  t28) **Dan Clegg**: 151
 
-![](http://www.wizards.com/sideboard/images/usnat02/877.jpg)Turian leads off this group buoyed by his very strong 2000-01 season, where he won PT-NY and made the Quarterfinals at the World Championships. His spot in the Top 20 looks safe for the moment, if only because the next couple of guys on the list have been less active in recent years, but right behind Johns and Rose is Bill Jensen, who is looking likely to be a rapid climber over the next little while.
+![](http://www.wizards.com/sideboard/images/usnat02/877.jpg)
+
+Turian leads off this group buoyed by his very strong 2000-01 season, where he won PT-NY and made the Quarterfinals at the World Championships. His spot in the Top 20 looks safe for the moment, if only because the next couple of guys on the list have been less active in recent years, but right behind Johns and Rose is Bill Jensen, who is looking likely to be a rapid climber over the next little while.
 
 This sub-section is interesting in that it has a lot of names that either appear to be on the downside of their careers or have stopped playing in the competitive arena. Rose and Johns have both slowed in their PT dedication, though Kyle did just play in a Masters while the grapevine says Scott will be making yet another comeback soon. Dave Price just chose to miss his first PT ever, after announcing he was retiring more or less in his Invitational report this year. Slemr and Rade are European powerhouses of the past who, while making the occasional appearance at local GPs, just don’t play the game much anymore, while Benafel and Clegg, two road warriors of the GP circuit, can look back on this past year as the worst of their respective careers. This could mean that with the exception of Jensen, it’ll be a while until a new name makes its way into the Top 20.
 
@@ -220,7 +226,9 @@ This list is where longevity really starts to play a role. Canu, Krakower, Leihe
 
 ### Other Notes
 
-![](http://www.wizards.com/sideboard/images/pthou02/a905.jpg)Just missing this list are John Larkin (who I sure hope will finally get this particular monkey off his back in Yokohama), Brock Parker (who will not be making the trip) and Toshiki Tsukamoto, the first Japanese player invited to the Invitational. After that though, there’s a major expanse: the next active player on the list is Pierre Malherbaud at 95 and he’s the only player attending this week’s Pro Tour aside from Larkin needing anything less than a Top 4 finish in Yokohama to reach 100.
+![](http://www.wizards.com/sideboard/images/pthou02/a905.jpg)
+
+Just missing this list are John Larkin (who I sure hope will finally get this particular monkey off his back in Yokohama), Brock Parker (who will not be making the trip) and Toshiki Tsukamoto, the first Japanese player invited to the Invitational. After that though, there’s a major expanse: the next active player on the list is Pierre Malherbaud at 95 and he’s the only player attending this week’s Pro Tour aside from Larkin needing anything less than a Top 4 finish in Yokohama to reach 100.
 
 So what does this prove? Not much really, it’s just number crunching for the sake of number crunching. If nothing else, the players on this list, or at least some of them, will keep an eye on their position within, if only for bragging rights or something to aim for. Of course, this all changes very, very soon. Then you get to crunch all over again.
 

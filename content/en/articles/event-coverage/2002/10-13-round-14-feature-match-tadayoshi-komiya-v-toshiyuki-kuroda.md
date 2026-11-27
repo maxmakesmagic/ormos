@@ -44,7 +44,9 @@ archive_source:
   sha256: 397c65ba23749bd319d9fa778fe5effe02fdd21d0b0253131a2237a6106a5ebe
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gputs02/939.jpg)This match is for a glimmer of hope. The winner will be one of four players with thirty-three points, one of whom will advance to the Top 8. Well, for amateur Toshiyuki Kuroda it's for a lot more than that, since that'll put him even further up in the amateur rankings. But Tadayoshi Komiya has his eyes firmly on the prize, and he will not waver.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gputs02/939.jpg)
+
+This match is for a glimmer of hope. The winner will be one of four players with thirty-three points, one of whom will advance to the Top 8. Well, for amateur Toshiyuki Kuroda it's for a lot more than that, since that'll put him even further up in the amateur rankings. But Tadayoshi Komiya has his eyes firmly on the prize, and he will not waver.
 
 The first game was decided when Kuroda stopped playing lands after the first two mountains. Komiya's plays went: [Goblin Sledder](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder), [Gustcloak Harrier](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Harrier), morph, morph. When Kuroda found his island to make a [Mistform Dreamer](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Dreamer), Komiya was ready with [Pacifism](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism). Komiya didn't even need to see his next card to convince himself to scoop.
 

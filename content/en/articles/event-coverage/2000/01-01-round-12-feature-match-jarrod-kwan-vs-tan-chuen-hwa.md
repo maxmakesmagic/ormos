@@ -55,7 +55,9 @@ R-B-U Control の Tan 対 Neo Solution の Jarrod という 8-2-1 ライン上�
 
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/937.jpg)秒殺劇にて Neo Solution の Jarrod が圧勝。 特筆事項はゼロで、マリガンして事故った相手を殴り続ける"Bear"がただの"Bear"ではなくて Invitational Winner である Chris Pikula にそっくりの顔をもった魔術師であったことくらいだろうか。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/937.jpg)
+
+秒殺劇にて Neo Solution の Jarrod が圧勝。 特筆事項はゼロで、マリガンして事故った相手を殴り続ける"Bear"がただの"Bear"ではなくて Invitational Winner である Chris Pikula にそっくりの顔をもった魔術師であったことくらいだろうか。
 
 Jarrod Kwan 1-0
 
@@ -65,7 +67,9 @@ Jarrod Kwan 1-0
 
 しかし、2 体目の [Pyre Zombie](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyre+Zombie) を引当ててこれにカウンターを使わせておいて [Fact or Fiction](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fact+or+Fiction) を通す Tan。ここで Tan は [Lobotomy](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lobotomy) と [Urza's Rage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Rage) 、[Void](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Void) と 2 枚のランドという選択で 2 枚のスペルの方を得たのであった。早速続くターンにもこの [Lobotomy](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lobotomy) を [Dromar's Charm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dromar%27s+Charm) でカウンターさせておいて、ハンドに温存しておいた [Void](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Void) を通して、X=3 と指定。これによって [Pyre Zombie](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyre+Zombie) を一時的に失ったかわりに [Dromar's Charm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dromar%27s+Charm) と [Absorb](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Absorb) を失わせたのだった。しかし、ここで Jarrod も [Fact or Fiction](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fact+or+Fiction) をトップデッキし、[Vindicate](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vindicate) と [Meddling Mage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Mage) を入手したのであった。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/936.jpg)しかし、Tan もついに待望の一枚であった [Yawgnoth's Agenda](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Yawgnoth%27s+Agenda) をトップデッキからキャスト。しかし、これは [Lobotomy](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lobotomy) で覗いたときには手札に無かった [Undermine](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Undermine) でカウンターされてしまったのだった。そう、Jarrod のデッキには [Absorb](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Absorb) と [Undermine](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Undermine) が共存しているのである。2 体目の [Galina's Knight](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Galina%27s+Knight) と [Meddling Mage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Mage) とを展開した Jarrod がここからのビートダウンで鮮やかな逆転勝利を決めるかに見えた。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/936.jpg)
+
+しかし、Tan もついに待望の一枚であった [Yawgnoth's Agenda](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Yawgnoth%27s+Agenda) をトップデッキからキャスト。しかし、これは [Lobotomy](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lobotomy) で覗いたときには手札に無かった [Undermine](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Undermine) でカウンターされてしまったのだった。そう、Jarrod のデッキには [Absorb](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Absorb) と [Undermine](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Undermine) が共存しているのである。2 体目の [Galina's Knight](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Galina%27s+Knight) と [Meddling Mage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Mage) とを展開した Jarrod がここからのビートダウンで鮮やかな逆転勝利を決めるかに見えた。
 
 ・・・しかし、11 ライフしか残っていない Jarrod はなぜか Name a Card:[Recoil](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recoil)・・・ ハンドに [Undermine](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Undermine) 1 枚を握り締めてなぜか自信満々の表情だ・・・。
 
@@ -75,7 +79,9 @@ Tan Chuen Hua 1-1
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/935.jpg)Tan の [Nightscape Familar](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nightscape+Familar) がファーストインパクト。 Familiar がアタックを黙々と繰り返す中をお互いが Draw Go モードである。 6 発ものアタックを Familiar に許してから Jarrod は [Galina's Knight](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Galina%27s+Knight) をドローして状況は膠着。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/935.jpg)
+
+Tan の [Nightscape Familar](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nightscape+Familar) がファーストインパクト。 Familiar がアタックを黙々と繰り返す中をお互いが Draw Go モードである。 6 発ものアタックを Familiar に許してから Jarrod は [Galina's Knight](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Galina%27s+Knight) をドローして状況は膠着。
 
 ![desolation angel](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=desolation+angel)
 

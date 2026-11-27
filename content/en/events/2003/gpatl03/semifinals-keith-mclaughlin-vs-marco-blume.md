@@ -108,7 +108,9 @@ Despite all of his accomplishments in Magic, Marco has never won a Grand Prix. T
 
 ### Game 1
 
-![](https://i.ormos.uk/ec/45/ec457e962fa44803ae9bc82a1ca961941efabb4ff006df1c74bc713c446f59c4.jpg)Keith opened up with a Goblin Sledder, and the beatings were on. A turn two Piledriver and turn three Sparksmith accelerated the beatings a little more. Turn three came and went, as did turn four. Marco looked dejected each time he looked down at the table. 
+![](https://i.ormos.uk/ec/45/ec457e962fa44803ae9bc82a1ca961941efabb4ff006df1c74bc713c446f59c4.jpg)
+
+Keith opened up with a Goblin Sledder, and the beatings were on. A turn two Piledriver and turn three Sparksmith accelerated the beatings a little more. Turn three came and went, as did turn four. Marco looked dejected each time he looked down at the table. 
 
 "I'm on two lands too," Keith said. "Don't worry about it."
 
@@ -120,7 +122,9 @@ Marco Blume 0 - Keith McLaughlin 1
 
 Marco started off the second game with good mana. He was able to Leak a Goblin Warchief, gaining valuable tempo. Keith tried to climb back into the game, casting several goblins but never being allowed anything that might turn the game around. Each time that a Warchief came up Marco had the counter for it.
 
-![](https://i.ormos.uk/27/af/27afa3fc81337e73c84a31159ababa52897835f6fd6a992763e35f966bbdd6a4.jpg)Marco also had brought in some of the ultimate anti-goblin tech: Brushhoppers. Once Marco played out his first one the game became doubtful for Keith. When Marco played out his second one, the game was over. 
+![](https://i.ormos.uk/27/af/27afa3fc81337e73c84a31159ababa52897835f6fd6a992763e35f966bbdd6a4.jpg)
+
+Marco also had brought in some of the ultimate anti-goblin tech: Brushhoppers. Once Marco played out his first one the game became doubtful for Keith. When Marco played out his second one, the game was over. 
 
 He tried to burn one Brushhopper off the table, only to have Marco discard two cards to it. The second one he also tried to burn off the table, but Marco cast Mana Leak on the Violent Eruption.
 
@@ -132,7 +136,9 @@ Marco Blume 1 – Keith McLaughlin 1
 
 Keith started quickly, getting a turn two Warchief onto the table, and then trying to add a turn three Piledriver. He got away with the Warchief, but by the time he tried the Piledriver Marco had enough land in play to cast Mana Leak on it.
 
-![](https://i.ormos.uk/f3/40/f340b523b84bb983667c229702e254d41be320c26a610ad222c7b5089172c69a.jpg)Nothing else went Keith's way the rest of the match. He was unable to find anything to help him, so when Marco cycled a Decree of Justice he was able to just laugh about it.
+![](https://i.ormos.uk/f3/40/f340b523b84bb983667c229702e254d41be320c26a610ad222c7b5089172c69a.jpg)
+
+Nothing else went Keith's way the rest of the match. He was unable to find anything to help him, so when Marco cycled a Decree of Justice he was able to just laugh about it.
 
 "That's my conciliation prize, right?"
 

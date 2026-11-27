@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/IntJorstedt.jpg)Mattias Jorstedt from Gothenburg in Sweden has a reputation for always coming in second. Maybe not exactly second, but still, he has had an awful lot of almosts for one player. Right now, he is struggling to qualify for Worlds. In the Swedish nationals, for instance, he finished seventh - close, but not quite. His ranking was good enough for him to get an invitation for Worlds, though. But a two and half month old side event went into the ratings one week before the cut was made, and Mattias barely missed his invite.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/IntJorstedt.jpg)
+
+Mattias Jorstedt from Gothenburg in Sweden has a reputation for always coming in second. Maybe not exactly second, but still, he has had an awful lot of almosts for one player. Right now, he is struggling to qualify for Worlds. In the Swedish nationals, for instance, he finished seventh - close, but not quite. His ranking was good enough for him to get an invitation for Worlds, though. But a two and half month old side event went into the ratings one week before the cut was made, and Mattias barely missed his invite.
 
 "I've been annoyingly close," Mattias admits - a fact that makes him even more determined to try and make it this time. And naturally, he is really happy that the slots for Worlds will be passed down if the top 8 is qualified already. Last year, it wasn't so. The Swede fought his way to the top 8, playing his own version of the Iridescent Drake deck. Mattias was the only one among the eight who wasn't already qualified for Worlds, but he finished fifth and ended up with another almost.
 

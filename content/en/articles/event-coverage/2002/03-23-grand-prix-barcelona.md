@@ -44,7 +44,9 @@ archive_source:
   sha256: 2afb49ef0d735c685e9615d88319e50351a6f96396f978047965ae1258015bd2
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a992.jpg)Barcelona's Maritime Museum is a perfect backdrop for another Spanish Grand Prix. Not only does it have a dazzling medieval look on the inside but it's right under the very watchful eye of the huge Christopher Columbus statue. Barcelona is indeed a city of contrasting styles and looks.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a992.jpg)
+
+Barcelona's Maritime Museum is a perfect backdrop for another Spanish Grand Prix. Not only does it have a dazzling medieval look on the inside but it's right under the very watchful eye of the huge Christopher Columbus statue. Barcelona is indeed a city of contrasting styles and looks.
 
 Which fits right in with the tournament. This Grand Prix will hand out eight slots for the European Pro Tour (Nice). Since Nice is so close (a few hours drive away) attendance is very high with everyone working hard to play a Pro Tour in their own backyard. Nice and Barcelona also share another important factor: *Odyssey* Block booster draft.
 

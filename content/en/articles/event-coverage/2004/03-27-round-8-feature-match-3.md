@@ -44,7 +44,9 @@ archive_source:
   sha256: 95a9b85d411691d9033d77bcef5d4da351d0bb6ede7ceb6cb80a86fcc13bab80
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm7_1.jpg)With both players on 5-1-1 and both needing a win to advance to day two, this promised to be an adrenaline-pumping, jaw-dropping action-fest between these two British superstars. Craig Stevenson of team Leeds is a frequent Pro-Tour attendee, and top-eighted *Odyssey* Block Constructed GP London last year. Simon Marshall-Unit is a rising English contender with a good record in a several previous events, and is looking to punch through to day two and make a name for himself at a major international event.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm7_1.jpg)
+
+With both players on 5-1-1 and both needing a win to advance to day two, this promised to be an adrenaline-pumping, jaw-dropping action-fest between these two British superstars. Craig Stevenson of team Leeds is a frequent Pro-Tour attendee, and top-eighted *Odyssey* Block Constructed GP London last year. Simon Marshall-Unit is a rising English contender with a good record in a several previous events, and is looking to punch through to day two and make a name for himself at a major international event.
 
 ### Game 1
 

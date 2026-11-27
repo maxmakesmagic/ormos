@@ -289,7 +289,9 @@ I'd love to play in overseas events if the opportunity presents itself, but in o
 
 ### Magic Invitational: The North American Ballot
 
-[![](https://i.ormos.uk/85/fc/85fcb876ab780af1e8f6d8be791999749f9d91225059f46f3acd3367e04c333c.jpg)](https://web.archive.org/web/20050217000000/https://magic.wizards.com/en/node/579941)The votes from the Latin American ballot have been tabulated and former World Champion Carlos Romao is your choice to go to the **Magic** Invitational. This week’s vote heads North and focuses on the Canadian and American **Magic** scene. Go [here](https://web.archive.org/web/20050217000000/https://magic.wizards.com/en/node/579941) and vote for your favorite player.
+[![](https://i.ormos.uk/85/fc/85fcb876ab780af1e8f6d8be791999749f9d91225059f46f3acd3367e04c333c.jpg)](https://web.archive.org/web/20050217000000/https://magic.wizards.com/en/node/579941)
+
+The votes from the Latin American ballot have been tabulated and former World Champion Carlos Romao is your choice to go to the **Magic** Invitational. This week’s vote heads North and focuses on the Canadian and American **Magic** scene. Go [here](https://web.archive.org/web/20050217000000/https://magic.wizards.com/en/node/579941) and vote for your favorite player.
 
 ### Firestarter: What have you done for me lately?
 

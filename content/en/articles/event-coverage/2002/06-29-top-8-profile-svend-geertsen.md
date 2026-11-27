@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/38/1f/381fb541d9102484be137a37ac4f89f920d8cac81143eaa408868b97e02da681.jpg)Five minutes before the decklists for the Standard portion of the 2002 European Championship had to be handed in, Svend Geertsen was given a blue and green madness deck made by the other Danes. Quite a few hours later, the 21-year-old had played that deck well enough to secure himself a spot in the Top 8 playoff. "I haven't played since Nice," Svend reveals.
+![](https://i.ormos.uk/38/1f/381fb541d9102484be137a37ac4f89f920d8cac81143eaa408868b97e02da681.jpg)
+
+Five minutes before the decklists for the Standard portion of the 2002 European Championship had to be handed in, Svend Geertsen was given a blue and green madness deck made by the other Danes. Quite a few hours later, the 21-year-old had played that deck well enough to secure himself a spot in the Top 8 playoff. "I haven't played since Nice," Svend reveals.
 
 The sports student didn't have much time to prepare for the event. Instead, he had to concentrate on several exams over the past weeks, and he didn't get his summer vacation until the Monday before the European Championship. In fact, he only played one single draft with *Judgment* before the tournament. "There were lots of *Judgment* cards I hadn't played, so I was happy we weren't using them for Type II," Svend says, and explains that he didn't even know all the cards. In fact, Svend didn't playtest much before 2002 Pro Tour-Nice either, but he made the Top 8 there as well. "If I playtest, then I do badly," he chuckles, and while that may or may not be correct, at least Geertsen has made a definite comeback after being more or less absent from the **Magic** scene for a while.
 

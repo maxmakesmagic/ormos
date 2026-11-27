@@ -99,7 +99,9 @@ Dictionary.com tells me that *cantrip* is a Scots word meaning a magical spell o
 
 In **D&D**, “cantrips” were zero-level Magic-User spells—little spells that did little things and had funny names like *flavor*, *yawn*, and *giggle*. They debuted in the 1985 book *Unearthed Arcana*, and were considered equal to about one-fourth of a first-level spell in power. The *Ice Age* designers, long fans of **D&D**, borrowed this name for their own collection of little spells that did little things and then replaced themselves.
 
-![Benediction_of_Moons](https://i.ormos.uk/31/8f/318f2e5b4f30445a885489603d46142020f0eaee8fb78724e783223f6d493966.jpg)Through repeated use in publications like *The Duelist*, the name caught on in the general public, and remains in heavy use today, both inside R&D and among players.
+![Benediction_of_Moons](https://i.ormos.uk/31/8f/318f2e5b4f30445a885489603d46142020f0eaee8fb78724e783223f6d493966.jpg)
+
+Through repeated use in publications like *The Duelist*, the name caught on in the general public, and remains in heavy use today, both inside R&D and among players.
 
 As a player, designer, and developer, I love what cantrips do for the game. Most of the time, when cards are chosen for decks, some care must be paid to efficiency—*What am I getting from this card? Is it worth it?* In general, the card invested in something with a small, inefficient effect—[Mons's Goblin Raiders](https://web.archive.org/web/20060804000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mons%27s+Goblin+Raiders), for example, or [Benediction of Moons](https://web.archive.org/web/20060804000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Benediction+of+Moons)—turns out not to be worth it over many games played, and as such cards with minor effects on the game start to be ignored by most players. That's where the cantrip comes in; it offers you a deal: I'll give you a small, generally inefficient effect, but *I won't cost you a card!*
 

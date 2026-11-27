@@ -235,7 +235,9 @@ render_recovery:
 
 * * *
 
-[![Obligatory link to Saviors prerelease info :)](https://i.ormos.uk/78/b8/78b8ee7dd282cd02d726196a2f668e84a10b300e1b12b256ba1449646867baab.jpg "Obligatory link to Saviors prerelease info :)")](https://web.archive.org/web/20080416125625/http://www.wizards.com/default.asp?x=events/magic/prereleases)Welcome to another edition of [Sketches](https://web.archive.org/web/20080520181337/http://www.wizards.com/default.asp?x=mtgcom/fullarchive&tablefilter=sketches:)! As you crack open packs at prerelease tournaments this Saturday and/or Sunday, you'll get to stare in person at the amazing art of *Saviors of Kamigawa*. Until then, you'll have to drool at images on magicthegathering.com's previews.
+[![Obligatory link to Saviors prerelease info :)](https://i.ormos.uk/78/b8/78b8ee7dd282cd02d726196a2f668e84a10b300e1b12b256ba1449646867baab.jpg "Obligatory link to Saviors prerelease info :)")](https://web.archive.org/web/20080416125625/http://www.wizards.com/default.asp?x=events/magic/prereleases)
+
+Welcome to another edition of [Sketches](https://web.archive.org/web/20080520181337/http://www.wizards.com/default.asp?x=mtgcom/fullarchive&tablefilter=sketches:)! As you crack open packs at prerelease tournaments this Saturday and/or Sunday, you'll get to stare in person at the amazing art of *Saviors of Kamigawa*. Until then, you'll have to drool at images on magicthegathering.com's previews.
 
 One particularly impressive piece is attached to the ridiculously good *Saviors* creature **Kagemaro, First to Suffer**, [previewed yesterday](/en/articles/makingmagic/2005/05-16-the-sunll-come-out-to-maro) in Mark Rosewater's column. Kagemaro also appears on some *Saviors* deck box [packaging](/en/articles/feature/2005/03-21-past-present-future). Well, lucky you: today we take a look behind the scenes of the illustration of this bombtastic demon. But first, some background on the artist, Adam Rex.
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: 4763cdda6691aa22bf5ed49b5782f9b651ef0314705a1461e7f3788d2d33a07d
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a998.jpg)No, that's not just copyright infringement. In this case it also stands for "Poor Shark 2". The original Poor Shark were Masashiro Kuroda, Tomomi Ootsuka and Masahiko Morita, and on the strength of their three talents they took Grand Prix - Yokohama by storm last year, losing in the finals to ABU. Ootsuka scored a moral victory there, defeating Dave Williams after he scoffed that his would be the easiest match because he was playing a girl. She took him down a peg.
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a998.jpg)
+
+No, that's not just copyright infringement. In this case it also stands for "Poor Shark 2". The original Poor Shark were Masashiro Kuroda, Tomomi Ootsuka and Masahiko Morita, and on the strength of their three talents they took Grand Prix - Yokohama by storm last year, losing in the finals to ABU. Ootsuka scored a moral victory there, defeating Dave Williams after he scoffed that his would be the easiest match because he was playing a girl. She took him down a peg.
 
 She couldn't be sure that she'd have this weekend free, however, so Kuroda and Morita needed a third. How about last year's Rookie of the Year? If they were strong before, the presence of Katsuhiro "Lightning" Mori has made them downright dangerous. 
 

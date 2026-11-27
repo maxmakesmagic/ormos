@@ -40,7 +40,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/b9/3e/b93ebfeb6c0729ff55db7a5e390267a9081447d90a2e6f0df360eb448d8575af.png)Features 18 premium foil cards, 10 oversized premium foil cards, 120 UltraPRO foil card sleeves exclusive to Commander’s Arsenal, 20 double-sided Battle Marks, and a life counter that goes up to 99.
+![](https://i.ormos.uk/b9/3e/b93ebfeb6c0729ff55db7a5e390267a9081447d90a2e6f0df360eb448d8575af.png)
+
+Features 18 premium foil cards, 10 oversized premium foil cards, 120 UltraPRO foil card sleeves exclusive to Commander’s Arsenal, 20 double-sided Battle Marks, and a life counter that goes up to 99.
 
 **Set Name:** Commander’s Arsenal  
 **Number of Cards:** 18  

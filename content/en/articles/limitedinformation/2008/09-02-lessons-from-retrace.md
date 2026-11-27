@@ -173,7 +173,9 @@ A lot of times when you are choosing between playing two cards you know that you
 
 We have to deal with these types of questions all the time.
 
-[![Jawbone_Skulkin](https://i.ormos.uk/01/d6/01d61abd63f099d878aea4c098f322ab102bbb9b03817ff60e69ee78d693d8fd.jpg)](https://web.archive.org/web/20080902000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Jawbone%2BSkulkin)But what happens when you have to choose between two playing two different retrace cards? This type of question, while completely unique to *Eventide*, has countless parallels that you can compare it to. 
+[![Jawbone_Skulkin](https://i.ormos.uk/01/d6/01d61abd63f099d878aea4c098f322ab102bbb9b03817ff60e69ee78d693d8fd.jpg)](https://web.archive.org/web/20080902000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Jawbone%2BSkulkin)
+
+But what happens when you have to choose between two playing two different retrace cards? This type of question, while completely unique to *Eventide*, has countless parallels that you can compare it to. 
 
 Choosing between retracing a [Cenn's Enlistment](https://web.archive.org/web/20080902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cenn%27s+Enlistment) or an [Oona's Grace](https://web.archive.org/web/20080902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oona%27s+Grace) is a question of whether you'd rather have two 1/1 creatures or a new card. This is exactly the type of question that people have been asking themselves for years. And to be perfectly honest with you, this is exactly the type of question that keeps me glued to a game that I've been playing since I was a small child.
 

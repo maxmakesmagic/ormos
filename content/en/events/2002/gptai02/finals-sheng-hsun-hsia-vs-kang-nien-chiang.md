@@ -53,7 +53,9 @@ archive_source:
   sha256: 975363dde7f8f54cb6261a9d6d4b18e7d373924530adbf9e7a6d2ec35f82ca62
 render_recovery: []
 ---
-![](https://i.ormos.uk/26/8b/268b8c228f9981b0ca2c5c393a6c015ff5c8dcacc04175a05e66818cd446e3df.jpg)The strains of "The Final Countdown" playing in the background were all-too fitting. The all-Taiwan finals had everyone's attention. On one side sat Kang Nien Chiang, playing Squirrel-Opposition, an update of a proven deck. Across from him was amateur Sheng Hsun Hsia, playing the tournament's most creative deck, a blue-white-green control deck that abused Living Wish and Hunting Grounds.
+![](https://i.ormos.uk/26/8b/268b8c228f9981b0ca2c5c393a6c015ff5c8dcacc04175a05e66818cd446e3df.jpg)
+
+The strains of "The Final Countdown" playing in the background were all-too fitting. The all-Taiwan finals had everyone's attention. On one side sat Kang Nien Chiang, playing Squirrel-Opposition, an update of a proven deck. Across from him was amateur Sheng Hsun Hsia, playing the tournament's most creative deck, a blue-white-green control deck that abused Living Wish and Hunting Grounds.
 
 Winning the die-roll wasn't enough acceleration for Chiang, whose Bird rifled through Call of the Herd. He Iced a land to push through more damage, but he was Worried by Hsia's lack of concern. Things worsened when he failed to find a fourth land to bust out Opposition.
 
@@ -67,7 +69,9 @@ Living Wish fetched Cloudchaser Eagle, and the writing was on the wall. The fina
 
 Hsia 1 - Chiang 0
 
-![](https://i.ormos.uk/62/e7/62e7e70323bd05147cd8c137e04fb8f6599f44ac65f094599fad17e071a4e4fa.jpg)Chiang opened the second game with a Bird, then a Call, then another Bird and a Nest, countering Hsia's Counterspell. He scored a hit and then lost his team to Wrath of God. Meddling Mage drew another of his counters, and he started working his Nest.
+![](https://i.ormos.uk/62/e7/62e7e70323bd05147cd8c137e04fb8f6599f44ac65f094599fad17e071a4e4fa.jpg)
+
+Chiang opened the second game with a Bird, then a Call, then another Bird and a Nest, countering Hsia's Counterspell. He scored a hit and then lost his team to Wrath of God. Meddling Mage drew another of his counters, and he started working his Nest.
 
 Hsia went for a main-phase Fact or Fiction. He took three lands over Deep Analysis and Living Wish. Chiang knocked his deck, looking for the land that would enable his Opposition and wrap up the game. It didn't come. He continued to punish with his tokens, bringing Hsia to seven. The fourth land showed up when Hsia had six mana open. However, Hsia had no wrath. Repulse took care of one. He fell to four.
 
@@ -77,7 +81,9 @@ Hsia's control of the situation fed his hubris. He showed complete disregard for
 
 Hsia 1 - Chiang 1
 
-![](https://i.ormos.uk/01/74/0174f8a30b8760266ad84b1a34acfbc224113ed36c8e09d7da8b628f928fafe3.jpg)Game 3 would be all the harder for Chiang with Hsia going first. Chiang started with Bird and Call. Hsia Lapsed. Chiang tried again. This time it met Repulse. He flashed it back. Hsia dropped his Circle. Phantom Centaur entered play just fine.
+![](https://i.ormos.uk/01/74/0174f8a30b8760266ad84b1a34acfbc224113ed36c8e09d7da8b628f928fafe3.jpg)
+
+Game 3 would be all the harder for Chiang with Hsia going first. Chiang started with Bird and Call. Hsia Lapsed. Chiang tried again. This time it met Repulse. He flashed it back. Hsia dropped his Circle. Phantom Centaur entered play just fine.
 
 Fact or Fiction handed Hsia Wrath of God, Mystic Snake and Deep Analysis over Memory Lapse and Counter. He had all the tools he need to dismantle Chiang. Particularly that Wrath. Chiang was working with two land and two Birds for mana.
 

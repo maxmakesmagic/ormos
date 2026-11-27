@@ -723,7 +723,9 @@ render_recovery:
 
 ### Interview with Scott Larabee
 
-![](https://i.ormos.uk/bb/eb/bbeb7db1b05552790a9c8948c1254a344d823ed51dbebdc7d20ded9d30cdc768.jpg)Even if you're not sure what he does, Scott Larabee is a name that is bound to sound familiar. He shows up in various Into The Aether and other columns quite frequently. Since his [**Magic Dossier**](/en/articles/arcana/2003/09-03-magic-dossier-scott-larabee-2) is a bit out of date, I thought it would be nice to reintroduce everyone to Scott and find out all of what he does for this game we love. If we're lucky, and don't rough him up too much, maybe we can squeeze some information out of him about MTGO 3.0!
+![](https://i.ormos.uk/bb/eb/bbeb7db1b05552790a9c8948c1254a344d823ed51dbebdc7d20ded9d30cdc768.jpg)
+
+Even if you're not sure what he does, Scott Larabee is a name that is bound to sound familiar. He shows up in various Into The Aether and other columns quite frequently. Since his [**Magic Dossier**](/en/articles/arcana/2003/09-03-magic-dossier-scott-larabee-2) is a bit out of date, I thought it would be nice to reintroduce everyone to Scott and find out all of what he does for this game we love. If we're lucky, and don't rough him up too much, maybe we can squeeze some information out of him about MTGO 3.0!
 
 **ITA: I was checking out your “Magic Dossier” and was wondering if there were any updates you'd add now that 3 years have gone by since then?**  
  SL: Well...I am 38 -- as of December 27 :)
@@ -798,7 +800,9 @@ Various folks involved in the 3.0 project will be talking about the various chan
 
 ### Justin Ziran on PayPal for MTGO
 
-![](http://www.wizards.com/global/images/mtgcom_daily_bs39_picMain_en.jpg)Before we break for the holidays, Justin Ziran wanted to give us some more information on the PayPal program for purchasing product in the ***Magic** Online* store that some of you may have noticed has rolled out. Take it away, Justin!
+![](http://www.wizards.com/global/images/mtgcom_daily_bs39_picMain_en.jpg)
+
+Before we break for the holidays, Justin Ziran wanted to give us some more information on the PayPal program for purchasing product in the ***Magic** Online* store that some of you may have noticed has rolled out. Take it away, Justin!
 
 > *Justin\_Ziran*: I am extremely excited to announce we will be conducting a series of tests for Paypal in the ***Magic** Online* store. As you know, you can only use Visa, Master Card and American Express in the store right now but, if all goes well during testing, you'll soon have the option to use your PayPal account to make purchases too.
 > 

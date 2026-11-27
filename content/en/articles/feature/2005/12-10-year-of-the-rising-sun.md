@@ -209,7 +209,9 @@ The year is swiftly drawing to a close, and in case you've been out to early hol
 
 **A**: No, they're named Cobra and have the creature type Cobra. (Creature types on cards typically aren't updated unless the card is reprinted in new sets.) 
 
-![](https://i.ormos.uk/3d/9b/3d9bbcebeb34a28f7554252a795acf616dbd491501e32768b0d386c0eff05d2f.jpg)If you've been playing ***Magic** Online* much lately you might have seen a [Snake Basket](https://web.archive.org/web/20051210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snake+Basket), [Dream Fighter](https://web.archive.org/web/20051210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dream+Fighter), or [Soul Echo](https://web.archive.org/web/20051210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Echo) this past week. Last Monday marked the successful launch of *Mirage* in the electronic world. The electronic versions of *Mirage* cards are still sporting their old frames, but you can get online foils even though *Mirage* originally never had foils. Judging by the response so far, the release of *Mirage* online looks to be a big hit with the players. 
+![](https://i.ormos.uk/3d/9b/3d9bbcebeb34a28f7554252a795acf616dbd491501e32768b0d386c0eff05d2f.jpg)
+
+If you've been playing ***Magic** Online* much lately you might have seen a [Snake Basket](https://web.archive.org/web/20051210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snake+Basket), [Dream Fighter](https://web.archive.org/web/20051210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dream+Fighter), or [Soul Echo](https://web.archive.org/web/20051210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Echo) this past week. Last Monday marked the successful launch of *Mirage* in the electronic world. The electronic versions of *Mirage* cards are still sporting their old frames, but you can get online foils even though *Mirage* originally never had foils. Judging by the response so far, the release of *Mirage* online looks to be a big hit with the players. 
 
 Class dismissed.
 

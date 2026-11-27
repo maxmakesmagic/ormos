@@ -46,9 +46,13 @@ render_recovery: []
 ---
 *by Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPITT00/Images/FM6Farkas.jpg)With one round to go on Saturday there were four teams left with perfect records. Your Move Games was no surprise, but the other three were somewhat more surprising. Just For Men had no byes and only one real "name" (Chris Pikula), but a lot of raw talent. Tenacious D 3D includes Matt Linde, Bock Parker, and Dan Clegg - no strangers to PT-level competition. The fourth team at the top was Look Out Bello. Terry Tsang, Ben Farkas, and Hashim Bello only have 1 PT Top 8 between them, but PT regulars know all three of them. Defense apparently doesn't win championships since Your Move took hem out and quickly.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPITT00/Images/FM6Farkas.jpg)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPITT00/Images/FM6Pikula.jpg)Chris Pikula announced before his match with Ben Farkas "I'd like to apologize ahead of time for the beating we're about to give you." Farkas used Tiger Claws to save his Waterfront Bouncer from Pikula's Noxious Field during game 1, but Farkas still lost 2 fliers and never really recovered. Between Belbe's Percher and the Noxious Field, Pikula finished him off in short order.
+With one round to go on Saturday there were four teams left with perfect records. Your Move Games was no surprise, but the other three were somewhat more surprising. Just For Men had no byes and only one real "name" (Chris Pikula), but a lot of raw talent. Tenacious D 3D includes Matt Linde, Bock Parker, and Dan Clegg - no strangers to PT-level competition. The fourth team at the top was Look Out Bello. Terry Tsang, Ben Farkas, and Hashim Bello only have 1 PT Top 8 between them, but PT regulars know all three of them. Defense apparently doesn't win championships since Your Move took hem out and quickly.
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPITT00/Images/FM6Pikula.jpg)
+
+Chris Pikula announced before his match with Ben Farkas "I'd like to apologize ahead of time for the beating we're about to give you." Farkas used Tiger Claws to save his Waterfront Bouncer from Pikula's Noxious Field during game 1, but Farkas still lost 2 fliers and never really recovered. Between Belbe's Percher and the Noxious Field, Pikula finished him off in short order.
 
 Terry Tsang and Ben Murray played an incredibly close game 1. Both players were at 1 with a stalemated board when Tsang drew Kris Mage. "Ping!" On table 3 Hashim Bello had Crooked Scales, Ballista Squad, and 7 mana BUT Alex Balandin dropped the greatest Keldon Firebombers of all time. Bello was forced to go down to just three land and that bought Balandin enough time to swarm him with red and green weenies. Meanwhile Tsang took out Murray in two straight and Farkas mised both game 2 and game 3. Balandin did manage to win his match, but Look Out Bello won the overall team match and gets to take on Your Move Games first thing tomorrow morning.
 

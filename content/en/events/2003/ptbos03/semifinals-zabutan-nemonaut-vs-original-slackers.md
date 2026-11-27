@@ -145,7 +145,9 @@ Osterberg's opponent this round, Eugene Harvey, is widely respected as a Limited
 
 "English only, please," Gary Wise told his Swedish-speaking opponents before the playing started. Interestingly enough, those were the exact same words spoken to Gary by the English deportation agency some months ago.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a792.jpg)Eugene played first, and Rickard took a mulligan. Eugene dropped Farseer and morph, while Rickard had a morph. Eugene played Stoic Champion, and Rickard followed with another morph. The next turn Eugene all-out attacked; morphs blocked the morph and Champ. After damage was on the stack, Eugene flipped the Liberator to save itself, and his opponent showed a Zombie Cutthroat. The Swede was dangerously low on life facing a 3/3 and a 2/3 flier, but managed to dispose of the former with a Crested Craghorn. Scales beefed up the Liberator and enabled it to do double-duty on offense and defense. Rickard dropped a Dive Bomber but was still in serious trouble.
+![](http://www.wizards.com/sideboard/images/ptbos03/a792.jpg)
+
+Eugene played first, and Rickard took a mulligan. Eugene dropped Farseer and morph, while Rickard had a morph. Eugene played Stoic Champion, and Rickard followed with another morph. The next turn Eugene all-out attacked; morphs blocked the morph and Champ. After damage was on the stack, Eugene flipped the Liberator to save itself, and his opponent showed a Zombie Cutthroat. The Swede was dangerously low on life facing a 3/3 and a 2/3 flier, but managed to dispose of the former with a Crested Craghorn. Scales beefed up the Liberator and enabled it to do double-duty on offense and defense. Rickard dropped a Dive Bomber but was still in serious trouble.
 
 But then something weird happened. Eugene stopped hitting with the 3/5 flier and merely put Lingering Death on the Bomber. Wipe Clean took care of that, and the 3/4 kept attacking. Eugene was just standing there while Rickard dropped more guys in the form of Daru Spiritualist and Aven Redeemer. The American had way too many lands, and Rickard put out an Aven Farseer. 
 

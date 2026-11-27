@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Liam Coltman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/887.jpg)With both players having two byes, round 3 saw their introduction to the GP Sydney tournament. Fong is well known for his ability in Constructed events, having an amazing record at Australian Nationals, while Hart is no slouch either. He played a Mind Over Matter deck in 1999, taking him to Worlds on the Australian national team. In this match we see a common pairing in the extended environment, Trix vs. Counter-Sliver. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/887.jpg)
+
+With both players having two byes, round 3 saw their introduction to the GP Sydney tournament. Fong is well known for his ability in Constructed events, having an amazing record at Australian Nationals, while Hart is no slouch either. He played a Mind Over Matter deck in 1999, taking him to Worlds on the Australian national team. In this match we see a common pairing in the extended environment, Trix vs. Counter-Sliver. 
 
 **Game 1** 
 

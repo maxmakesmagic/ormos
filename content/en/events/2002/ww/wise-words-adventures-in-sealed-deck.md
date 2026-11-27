@@ -519,7 +519,9 @@ Stop reading Court. My apologies.
 
 We all have our good tournaments and our bad ones. Grand Prix-LA was the latter for me, as I received a strong sealed deck, used all of the time available to me to build it and ran out of it, wishing for an hour and a half more. Despite the strong cards, I managed only a meager 1-3 record in those rounds where I was actually forced to play for my wins, leaving me to watch on Day 2, the day I’d really come to play.
 
-![](https://i.ormos.uk/53/12/5312ffae830f21e9a4afa3c7718c5f67063035a467ec4b780ce5e346a88b46fc.jpg)See, LA’s Day 2 was *Onslaught* Rochester, the same format as the upcoming Pro Tour-Chicago, and it’s always been my experience that Limited GPs sharing a format with an upcoming Pro Tour provide the best learning tools available to those players looking to do well on Tour. So much so, in fact, that I was willing to pay Thanksgiving week airfare and hotel prices just for the chance to risk all in the sealed deck portion, but I made decisions that can definitely be argued to be mistakes, and was duly punished. The thing is, though, that while I didn’t get the chance to draft much, there were a few lessons to be learned that weekend. This week, we look at my sealed deck, one of the hardest to build I’ve ever encountered and see what I could have done differently.
+![](https://i.ormos.uk/53/12/5312ffae830f21e9a4afa3c7718c5f67063035a467ec4b780ce5e346a88b46fc.jpg)
+
+See, LA’s Day 2 was *Onslaught* Rochester, the same format as the upcoming Pro Tour-Chicago, and it’s always been my experience that Limited GPs sharing a format with an upcoming Pro Tour provide the best learning tools available to those players looking to do well on Tour. So much so, in fact, that I was willing to pay Thanksgiving week airfare and hotel prices just for the chance to risk all in the sealed deck portion, but I made decisions that can definitely be argued to be mistakes, and was duly punished. The thing is, though, that while I didn’t get the chance to draft much, there were a few lessons to be learned that weekend. This week, we look at my sealed deck, one of the hardest to build I’ve ever encountered and see what I could have done differently.
 
 After registering decks and waiting impatiently for the building to begin, here’s the card pool I was handed:
 
@@ -560,7 +562,9 @@ In the end, here’s the build I went with:
 
 My logic for this build went like this: It isn’t the most powerful deck that this card pool was capable of, but it was the most consistent, with the Whipcorders and Medic complimenting the red creatures, giving me a strong mana curve from turn two on. Thirteen creatures and ten spells is hardly the worst thing in the world, and the deck’s two-color aspect should relieve me of the mana difficulties that can bring even the best players down.
 
-![](https://i.ormos.uk/d3/5b/d35b87fa2c81ddf9991c7a96b4fe2fcad71c4369f92746cd0e2348a411b74fb4.jpg)The negatives to this build mostly involve what I wasn’t playing, namely three of my four best cards (Slice and Dice being the fourth) in Silent Specter, Infest and Hystrodon. The problem with green was that there were only nine or ten cards I wanted to be playing, which wasn’t enough to couple it alone with red. Needing to go just 3-2 on the day, I figured that with a strong deck either way, the last thing I wanted to do was screw around with my mana base. According to a few friends, my desire to do so was misguided.
+![](https://i.ormos.uk/d3/5b/d35b87fa2c81ddf9991c7a96b4fe2fcad71c4369f92746cd0e2348a411b74fb4.jpg)
+
+The negatives to this build mostly involve what I wasn’t playing, namely three of my four best cards (Slice and Dice being the fourth) in Silent Specter, Infest and Hystrodon. The problem with green was that there were only nine or ten cards I wanted to be playing, which wasn’t enough to couple it alone with red. Needing to go just 3-2 on the day, I figured that with a strong deck either way, the last thing I wanted to do was screw around with my mana base. According to a few friends, my desire to do so was misguided.
 
 I asked some of the top Limited minds in the world — Bob Maher, Mike Turian, Mike Pustilnik, Neil Reeves and Dave Humphreys — all of whom were present in LA, to give my cards a look and tell me how they’d have constructed the deck. Each was forced to sit down, start from scratch and sort things out on their own, and two interesting patterns emerged.
 
@@ -593,7 +597,9 @@ Solar Blast
 
 Bob’s build was the most powerful of the aggro options, with the green cards replacing Piety Charm, Dawning Purist, Daunting Defender and Crown of Fury, leaving the deck more like a sealed deck than the ‘draft deck’ I’d built, at the same time offering a lot of brute force, with 14 creatures, 9 spells and 17 land.
 
-![](https://i.ormos.uk/75/4c/754ce95a211202e36922a8ce93e4facf60d567b48a81fb76bfc7708e808089f8.jpg)My first contention here is that the deck would likely need one more land in this configuration, but with that said, Bob’s build does offer a lot more strength heading into the late game while at the same time utilizing one more bomb (Hystrodon) than mine, even if its use isn’t optimal (good luck morphing on turn four). The other thing this version has going for it, of course, is that Bob built it this way: seems like he can do no wrong of late.
+![](https://i.ormos.uk/75/4c/754ce95a211202e36922a8ce93e4facf60d567b48a81fb76bfc7708e808089f8.jpg)
+
+My first contention here is that the deck would likely need one more land in this configuration, but with that said, Bob’s build does offer a lot more strength heading into the late game while at the same time utilizing one more bomb (Hystrodon) than mine, even if its use isn’t optimal (good luck morphing on turn four). The other thing this version has going for it, of course, is that Bob built it this way: seems like he can do no wrong of late.
 
 Turian’s build took a similar philosophy to Maher’s, but chose a different route:
 
@@ -618,7 +624,9 @@ Crown of Fury
 Slice and Dice  
 Solar Blast
 
-![](https://i.ormos.uk/70/ac/70acdf90fdce0248b887e64a50e504253b03e18452c46a649fb2df19f10784cc.jpg)Mike never gave me the specifics on the mana base, but my guess would be three plains and fifteen combined forests and mountains. This version attacks a little more than Maher’s while better using Hystrodon and Savage, at the same time losing the evasive services of the twin Bombers and the tricks white offered. Both Mike and Bob sought powerful builds, with Bob’s being more capable of allowing the opportunity to outplay an opponent while Mike’s offered the better chance to run an opponent over. By stark contrast, here’s Dave Humphreys’s build:
+![](https://i.ormos.uk/70/ac/70acdf90fdce0248b887e64a50e504253b03e18452c46a649fb2df19f10784cc.jpg)
+
+Mike never gave me the specifics on the mana base, but my guess would be three plains and fifteen combined forests and mountains. This version attacks a little more than Maher’s while better using Hystrodon and Savage, at the same time losing the evasive services of the twin Bombers and the tricks white offered. Both Mike and Bob sought powerful builds, with Bob’s being more capable of allowing the opportunity to outplay an opponent while Mike’s offered the better chance to run an opponent over. By stark contrast, here’s Dave Humphreys’s build:
 
 Thoughtbound Primoc  
 Battering Craghorn  
@@ -643,14 +651,20 @@ Dirge of Dread
  7 Swamp  
  4 Plains
 
-![](https://i.ormos.uk/3e/8a/3e8aafd6c72e5aef1449836af823e467efbea029d106d22cc0a13a7841b36b81.jpg)This build is pure DaHump. In case you haven’t made a habit of studying Mr. Humphreys’s deck choices over the years, I don’t think the man has actually attacked as of yet in his Pro Tour appearances. Humphreys is a control player, pure and simple, and this build reflects that, offering a lot of power in the spells and forgiving a weaker creature base than the Maher and Turian versions as a result. The most interesting card here may be Gravel Slinger, which doesn’t appear especially powerful, but the idea behind this deck is to get card advantage and keep it, and without Green’s fat guys, the deck is low on Infest survivors, so the Slinger fits in nicely there too.
+![](https://i.ormos.uk/3e/8a/3e8aafd6c72e5aef1449836af823e467efbea029d106d22cc0a13a7841b36b81.jpg)
+
+This build is pure DaHump. In case you haven’t made a habit of studying Mr. Humphreys’s deck choices over the years, I don’t think the man has actually attacked as of yet in his Pro Tour appearances. Humphreys is a control player, pure and simple, and this build reflects that, offering a lot of power in the spells and forgiving a weaker creature base than the Maher and Turian versions as a result. The most interesting card here may be Gravel Slinger, which doesn’t appear especially powerful, but the idea behind this deck is to get card advantage and keep it, and without Green’s fat guys, the deck is low on Infest survivors, so the Slinger fits in nicely there too.
 
 Humphreys’s build concentrates on one of the oldest rules in the game: card advantage wins. No Crowns of Fury or other similar cards that could ever inspire card disadvantage, Dave wants to trade card for card until one of Infest, Slice or Specter finishes things off. Again, as compared to my original build, this deck risks mana issues, especially when confronted with a lot of double red costs, but morph has a funny way of forgiving mana problems until they’ve passed. 
 
-![](https://i.ormos.uk/63/a8/63a80c7bbe43c7970d14b155cffd948a7e9e512c1d3fadaf3d504a1be99b8e43.jpg)Reeves’s and Pustilnik’s builds were very similar to Humphreys’s. Neil went with a thinner splash, omitting the Gravel Slinger and only running two plains to ensure that he drew the mana needed to cast his red and black spells, while Mikey P’s build included Wretched Anurid instead of the Slinger, opting with the four plains build Dave had used.
+![](https://i.ormos.uk/63/a8/63a80c7bbe43c7970d14b155cffd948a7e9e512c1d3fadaf3d504a1be99b8e43.jpg)
+
+Reeves’s and Pustilnik’s builds were very similar to Humphreys’s. Neil went with a thinner splash, omitting the Gravel Slinger and only running two plains to ensure that he drew the mana needed to cast his red and black spells, while Mikey P’s build included Wretched Anurid instead of the Slinger, opting with the four plains build Dave had used.
 
 In the end, I guess the point is this: there are a lot of things to worry about while building your sealed deck, from mana curve to having enough creatures to having good mana, but in the end we learn two things from this demonstration: one, sometimes there is no right way to construct your sealed deck, as evidenced by the players listed here and their inability to agree on a perfect build, and two, most of the top players in the world value power before synergy in building their sealed decks. Who am I to call them wrong?
 
-![](http://www.wizards.com/sideboard/images/gpmel02/853.jpg)That’s about it for this week. Before I go, I want to throw out a congratulations to THE Ben Seck, winner of GP-Melbourne. With this second win, Ben, a long-time regular on Tour, shows his win last year in South Africa was no fluke, at the same time showing himself to be among the best players in the Southern Hemisphere. Good job, TBS!
+![](http://www.wizards.com/sideboard/images/gpmel02/853.jpg)
+
+That’s about it for this week. Before I go, I want to throw out a congratulations to THE Ben Seck, winner of GP-Melbourne. With this second win, Ben, a long-time regular on Tour, shows his win last year in South Africa was no fluke, at the same time showing himself to be among the best players in the Southern Hemisphere. Good job, TBS!
 
 That’s it for this week. Have a good one.

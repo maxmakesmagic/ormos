@@ -44,7 +44,9 @@ archive_source:
   sha256: f119e33e73bacc6dcf93085456d4519e944a5564d5e9d30db7d20625781e0cc0
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a968.jpg)Nicolaï was pretty confident about his deck. He even showed it to Olivier Ruel who was also playing in a feature match next to him and both burst out in laughter as they realized how good Nicolai's deck was. The Norwegian's smiling face would only make anybody who would sit before him more nervous. By the time the Head Judge announced the beginning of round 4, Helmut sat down and had a nice chat with the Herzog.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a968.jpg)
+
+Nicolaï was pretty confident about his deck. He even showed it to Olivier Ruel who was also playing in a feature match next to him and both burst out in laughter as they realized how good Nicolai's deck was. The Norwegian's smiling face would only make anybody who would sit before him more nervous. By the time the Head Judge announced the beginning of round 4, Helmut sat down and had a nice chat with the Herzog.
 
 Helmut Summersberger has a World's Top 8 while Nicolaï Herzog was European Champion. After shuffling their decks they started to play. 
 
@@ -86,7 +88,9 @@ Herzog 1- 1 Summersberger
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a969.jpg)Only six minutes remained on the clock and none of the players wanted to draw. With amazing speed Herzog made a mulligan. Meantime there are only five minutes left.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a969.jpg)
+
+Only six minutes remained on the clock and none of the players wanted to draw. With amazing speed Herzog made a mulligan. Meantime there are only five minutes left.
 
 Both players frenetically and dropped lands the first few turns. Then Helmut dropped a Milkin while his opponent did nothing. He then cast a looter that got Aether Bursted. Nicolaï finally dropped a creature: Wererat. An Elephant hit the table on the other side and both forces kept getting bigger. 
 

@@ -1469,33 +1469,61 @@ a:19:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"
 
 Here's what the first day of Grand Prix Atlanta looked like around the hall here in Georgia!
 
-![](https://i.ormos.uk/f0/77/f077fd32bb27b979d9a9daac492f9f1bfe568ecc73b0e23ce1187b417c2aee8e.jpg)Martin Juza and Lucas Blohon (R-L) are two players who traveled all the way from Europe to compete. Juza is a perennial contender for the Player of the Year award, and Lucas has been hot over the past Pro Tour season.
+![](https://i.ormos.uk/f0/77/f077fd32bb27b979d9a9daac492f9f1bfe568ecc73b0e23ce1187b417c2aee8e.jpg)
 
-![](https://i.ormos.uk/4a/d9/4ad9e9c2968ba3a0f95c9ab4dbfd3c4331d44b31571a41623f3c2c0b88c7201f.jpg)Zaiem Beg, Travis Woo, and Matt Nass enjoy some down time in between rounds. One of the great things about the competitive circuit is getting to see friends from far away while you battle. In this case, Zaiem and Travis of Seattle, Washington get to visit with their fellow [Channel](https://web.archive.org/web/20110122000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Channel)[Fireball](https://web.archive.org/web/20110122000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fireball).com alum Matt Nass, who lives in California.
+Martin Juza and Lucas Blohon (R-L) are two players who traveled all the way from Europe to compete. Juza is a perennial contender for the Player of the Year award, and Lucas has been hot over the past Pro Tour season.
 
-![](https://i.ormos.uk/1f/e1/1fe1de7ceb09b95bb78b2467388adc4c9f5e470ed7e25aafcff0130ccdf7a34f.jpg)You don't have to play in the Feature Match area to enjoy it. Here a crowd gathers to watch their favorite pros battle one another under the bright lights.
+![](https://i.ormos.uk/4a/d9/4ad9e9c2968ba3a0f95c9ab4dbfd3c4331d44b31571a41623f3c2c0b88c7201f.jpg)
 
-![](https://media.magic.wizards.com/image_legacy_migration//mtg/images/daily/events/gpatl11/Photo%20Essay%20-%20Eric%20Deschamps.JPG)Guest artist Eric Deschamps is happy to sign or sketch for you in between rounds or after you're finished competing for the day. You can even buy his prints and other special offerings for your wall and to show off to your friends.
+Zaiem Beg, Travis Woo, and Matt Nass enjoy some down time in between rounds. One of the great things about the competitive circuit is getting to see friends from far away while you battle. In this case, Zaiem and Travis of Seattle, Washington get to visit with their fellow [Channel](https://web.archive.org/web/20110122000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Channel)[Fireball](https://web.archive.org/web/20110122000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fireball).com alum Matt Nass, who lives in California.
 
-![](https://i.ormos.uk/1a/be/1abeb8eecfc1c5e726f8f6f7ec74866676700ebaa99100948d2d0305a434a656.jpg)This collection of friends includes two former Pro Tour champions. They were hanging out and chatting with one another in between rounds.
+![](https://i.ormos.uk/1f/e1/1fe1de7ceb09b95bb78b2467388adc4c9f5e470ed7e25aafcff0130ccdf7a34f.jpg)
 
-![](https://i.ormos.uk/64/1c/641c5db3c0cd5af04b29d5166c01ad907d59c60b4b889aebbcd65115a8f495e1.jpg)The crew from GGsLive.com broadcasting from Grand Prix Atlanta. From left to right, Patrick Sullivan, Ray Punzalan, and Rashad Miller.
+You don't have to play in the Feature Match area to enjoy it. Here a crowd gathers to watch their favorite pros battle one another under the bright lights.
 
-![](https://media.magic.wizards.com/image_legacy_migration//mtg/images/daily/events/gpatl11/Photo%20Essay%20-%20Japan.JPG)Three players came to this tournament from Japan and a full two-thirds of them are former Players of the Year. That is pretty insane.
+![](https://media.magic.wizards.com/image_legacy_migration//mtg/images/daily/events/gpatl11/Photo%20Essay%20-%20Eric%20Deschamps.JPG)
 
-![](https://i.ormos.uk/a9/06/a906917042505b161ca62df7a942651de3a8d595124209f8e304ccab03972f35.jpg)Jared Sylva, head judge of the pink flight, counsels fellow judge Nick Sabin about a rules question.
+Guest artist Eric Deschamps is happy to sign or sketch for you in between rounds or after you're finished competing for the day. You can even buy his prints and other special offerings for your wall and to show off to your friends.
 
-![](https://i.ormos.uk/e5/a6/e5a6bfd8b2db1e28760e8d1cbd87a6dc41fbd03f1e470e8e40bc3889c0bb1765.jpg)The head judge of the white flight, Jason Lemahieu, knows a critical part of his job is interacting with other judges to help them improve at judging and to ensure the tournament runs smoothly.
+![](https://i.ormos.uk/1a/be/1abeb8eecfc1c5e726f8f6f7ec74866676700ebaa99100948d2d0305a434a656.jpg)
 
-![](https://i.ormos.uk/5c/2f/5c2fdc789a2d2d7b722dee0afc58a326ecc36a0a677b50ac8eb05c82048791f9.jpg)The Grand Prix Atlanta tournament organizer Jeff Williams (left) meets with players in between rounds to discuss the day's happenings.
+This collection of friends includes two former Pro Tour champions. They were hanging out and chatting with one another in between rounds.
 
-![](https://i.ormos.uk/e4/9f/e49f6213c1b00565c4e157eac6d2a076871f79e89a6c2411b76547b9547c7c6b.jpg)Rules manager Matt Tabak is a special VIP here in Atlanta as the spellslinger. In between your rounds or if you're done playing for the day, he's happy to play against you in your favorite format. Plus, he gives away booster packs and deck boxes!
+![](https://i.ormos.uk/64/1c/641c5db3c0cd5af04b29d5166c01ad907d59c60b4b889aebbcd65115a8f495e1.jpg)
 
-![](https://media.magic.wizards.com/image_legacy_migration//mtg/images/daily/events/gpatl11/Photo%20Essay%20-%20Mike%20Bierek.JPG)Grand Prix Atlanta is host to two artists in residence. Mike Bieren joins Eric Deschamps (who is shown previously in this Photo Essay).
+The crew from GGsLive.com broadcasting from Grand Prix Atlanta. From left to right, Patrick Sullivan, Ray Punzalan, and Rashad Miller.
 
-![](https://i.ormos.uk/e2/b6/e2b6328618cfde1cd7068534986e9080eb371078e199856b712bb1c93bd5285c.jpg)The dapper looking Peter Knudson who opted to suit up for Grand Prix Atlanta.
+![](https://media.magic.wizards.com/image_legacy_migration//mtg/images/daily/events/gpatl11/Photo%20Essay%20-%20Japan.JPG)
 
-![](https://i.ormos.uk/e4/f8/e4f8f3191e23a4c024c8880e2c72897c2205b06a8aa9240e524e21492526f252.jpg)A host of the game's top pros look in on a Vintage funsies match featuring David Ochoa.
+Three players came to this tournament from Japan and a full two-thirds of them are former Players of the Year. That is pretty insane.
+
+![](https://i.ormos.uk/a9/06/a906917042505b161ca62df7a942651de3a8d595124209f8e304ccab03972f35.jpg)
+
+Jared Sylva, head judge of the pink flight, counsels fellow judge Nick Sabin about a rules question.
+
+![](https://i.ormos.uk/e5/a6/e5a6bfd8b2db1e28760e8d1cbd87a6dc41fbd03f1e470e8e40bc3889c0bb1765.jpg)
+
+The head judge of the white flight, Jason Lemahieu, knows a critical part of his job is interacting with other judges to help them improve at judging and to ensure the tournament runs smoothly.
+
+![](https://i.ormos.uk/5c/2f/5c2fdc789a2d2d7b722dee0afc58a326ecc36a0a677b50ac8eb05c82048791f9.jpg)
+
+The Grand Prix Atlanta tournament organizer Jeff Williams (left) meets with players in between rounds to discuss the day's happenings.
+
+![](https://i.ormos.uk/e4/9f/e49f6213c1b00565c4e157eac6d2a076871f79e89a6c2411b76547b9547c7c6b.jpg)
+
+Rules manager Matt Tabak is a special VIP here in Atlanta as the spellslinger. In between your rounds or if you're done playing for the day, he's happy to play against you in your favorite format. Plus, he gives away booster packs and deck boxes!
+
+![](https://media.magic.wizards.com/image_legacy_migration//mtg/images/daily/events/gpatl11/Photo%20Essay%20-%20Mike%20Bierek.JPG)
+
+Grand Prix Atlanta is host to two artists in residence. Mike Bieren joins Eric Deschamps (who is shown previously in this Photo Essay).
+
+![](https://i.ormos.uk/e2/b6/e2b6328618cfde1cd7068534986e9080eb371078e199856b712bb1c93bd5285c.jpg)
+
+The dapper looking Peter Knudson who opted to suit up for Grand Prix Atlanta.
+
+![](https://i.ormos.uk/e4/f8/e4f8f3191e23a4c024c8880e2c72897c2205b06a8aa9240e524e21492526f252.jpg)
+
+A host of the game's top pros look in on a Vintage funsies match featuring David Ochoa.
 
   
 

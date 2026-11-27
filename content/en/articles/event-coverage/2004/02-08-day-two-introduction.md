@@ -44,7 +44,9 @@ archive_source:
   sha256: e2abc079f85a691cfda2a108aaa8515c6f1e1b64b7b14fe665f7a84bfec6dff2
 render_recovery: []
 ---
-![](https://i.ormos.uk/db/23/db2326792e6712088662f84d091d48327492471182329ce65c13537d6525d5c4.jpg)The second day of Grand Prix Oakland is underway. For many players with only a small handful of Darksteel drafts to their credit this was the first time they saw many of the cards. Many players griped about their picks because they were still reading cards for the first time when they were forced to make a selection.
+![](https://i.ormos.uk/db/23/db2326792e6712088662f84d091d48327492471182329ce65c13537d6525d5c4.jpg)
+
+The second day of Grand Prix Oakland is underway. For many players with only a small handful of Darksteel drafts to their credit this was the first time they saw many of the cards. Many players griped about their picks because they were still reading cards for the first time when they were forced to make a selection.
 
 In Paul Rietzl's case he took at least two cards on reputation alone. He highly picked a [Darksteel Brute](https://web.archive.org/web/20040208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Darksteel+Brute) based on the card's hype. He also took a [Test of Faith](https://web.archive.org/web/20040208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Test+of+Faith) solely on Chad Ellis's recommendation from yesterday. He was quite pleased with the latter but dubious about the former.
 

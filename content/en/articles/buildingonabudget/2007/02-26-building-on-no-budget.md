@@ -584,7 +584,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/67/0f/670f05375fb1c93989e836c6c03e84e5c7e2a3fe37565e08505cf2a3bcee1ead.jpg)Hello everyone, and welcome back to another edition of Building on a Budget! I'm Ben Bleiweiss…
+![](https://i.ormos.uk/67/0f/670f05375fb1c93989e836c6c03e84e5c7e2a3fe37565e08505cf2a3bcee1ead.jpg)
+
+Hello everyone, and welcome back to another edition of Building on a Budget! I'm Ben Bleiweiss…
 
 *And I am BoaB, the budget-friendly robot…*
 

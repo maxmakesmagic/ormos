@@ -44,7 +44,9 @@ archive_source:
   sha256: bf234787a95eafa8dccbce1ab5eb8b96da8e84760e356cc879504f28f8a460cb
 render_recovery: []
 ---
-![](https://i.ormos.uk/a9/f0/a9f083668affa788a3c5b43e5bb4c41f15634df6b510bb85095927bad71b4699.jpg)Day one of the Grand Prix Barcelona is at an end!
+![](https://i.ormos.uk/a9/f0/a9f083668affa788a3c5b43e5bb4c41f15634df6b510bb85095927bad71b4699.jpg)
+
+Day one of the Grand Prix Barcelona is at an end!
 
 With 1,495 players, Barcelona has hosted the largest constructed Magic tournament of all time, and we've had a wild ride. Standard is the hot format of the moment, with PTQs and Nationals qualifiers making it important to players of every level. Coming into the weekend, Black White tokens was the most hotly tipped deck of the moment. While it was certainly well represented, one of the interesting stories of day one was how few pros seemed to have taken to the deck. A whole variety of decks started the day, and it look like this is something that has carried through to Sunday.
 
@@ -301,7 +303,9 @@ Ha! Yes it's been pretty good... pretty good indeed!
 
 We've sold a lot of those, maybe 15 or so. But [Anathemancer](https://web.archive.org/web/20090523000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anathemancer) is the one that has been most popular, we've sold maybe 60 or 70 of them! It's not always the rares that people are after. We've also sold lots of [Zealous Persecution](https://web.archive.org/web/20090523000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zealous+Persecution), for instance - I think we've sold out of them in fact.
 
-![](https://i.ormos.uk/ce/f0/cef0e368b5c01b816823b8164b38ba28ef46f6e9ac664e93fcce1c93f2c2e1d9.jpg)**Completely sold out? Those are the hot Alara Reborn cards but what about older cards, do players have any love for those?**
+![](https://i.ormos.uk/ce/f0/cef0e368b5c01b816823b8164b38ba28ef46f6e9ac664e93fcce1c93f2c2e1d9.jpg)
+
+**Completely sold out? Those are the hot Alara Reborn cards but what about older cards, do players have any love for those?**
 
 Oh yes, it's been great for us. Windbrisk Heights sold out very quickly, but then it was all the cards from the Turbofog deck. Cards like Howling Mine for instance. That's a card that has been around forever and which we usually can't even give away, but we completely sold out of them at about five times it's old price. Pretty much anything from the Turbofog deck we sold out of, like [Font of Mythos](https://web.archive.org/web/20090523000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Font+of+Mythos) – that one deck alone has sold so many cards. Pretty much any card which goes in that deck we've sold out of completely.
 

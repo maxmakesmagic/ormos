@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Matthew Vienneau* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/877.jpg)Dave Humpherys is known for many things but one thing about him that few people know is that he defeated Terry Borer in the first ever Pre-Release tournament in Toronto, Canada. The set was Ice Age and Dave fondly remembers beating Terry down with an Arctic Fox. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/877.jpg)
+
+Dave Humpherys is known for many things but one thing about him that few people know is that he defeated Terry Borer in the first ever Pre-Release tournament in Toronto, Canada. The set was Ice Age and Dave fondly remembers beating Terry down with an Arctic Fox. 
 
 And speaking of Arctic Fox, Dave's opponent - Australian party boy Sam Ward - is sporting a new blonde hairstyle and has been getting little sleep each night at a local hostel as he chats with other travelers into the wee hours. Rumor has it that the large crowds of young women screaming outside the Grand Prix are Sam's personal retinue and loyal fans, but they may just be waiting for the Backstreet Boys to make an appearance later this afternoon. 
 
@@ -64,7 +66,9 @@ The Oath on Oath matchup is all about creature lands, as neither player really w
 
 **Game 2** 
 
-![](https://i.ormos.uk/ea/13/ea13de0d0e9efa988b35f772d2e79524cda87580cd1d41e4b4f5d3b48b20bf1d.jpg)Sam took three Oath of Druids, three Enlightened Tutors, a Circle of Protection: Red and the Crater Hellion out of his deck for more potent, but unrevealed, sideboard cards. Dave, who was in a big hurry to begin the first game and played very quickly as he didn't think he could defeat Sam's maindeck Pyroblasts, was in a lot less of a rush for the second go at it. As usual, both players did nothing but put lands into play for the first five turns whereupon Dave laid a Powder Keg followed by a Seal of Cleansing. 
+![](https://i.ormos.uk/ea/13/ea13de0d0e9efa988b35f772d2e79524cda87580cd1d41e4b4f5d3b48b20bf1d.jpg)
+
+Sam took three Oath of Druids, three Enlightened Tutors, a Circle of Protection: Red and the Crater Hellion out of his deck for more potent, but unrevealed, sideboard cards. Dave, who was in a big hurry to begin the first game and played very quickly as he didn't think he could defeat Sam's maindeck Pyroblasts, was in a lot less of a rush for the second go at it. As usual, both players did nothing but put lands into play for the first five turns whereupon Dave laid a Powder Keg followed by a Seal of Cleansing. 
 
 Sam's first play to Wasteland a Treetop Village allowed Dave to reveal a surprise sideboard card - Teferi's Response! Sam wisely decided to Pyroblast to prevent Dave from keeping his Village as well as drawing two extra cards. Dave never drew into any counterspells but Annul and continued to tap out each turn in an attempt to get a threat down. Sam countered a Spike Weaver, Abundance and Spike Feeder before casting a Spike Weaver of his own. Dave attempted the Plow but it was Counterspelled, which he Force of Willed, but Sam had a Force of Will of his own to retain board control. 
 

@@ -42,7 +42,9 @@ Planeswalker cards are shuffled into your deck at the start of the game, just li
 
 ## Anatomy of a Planeswalker Card
 
-![](https://i.ormos.uk/14/35/1435bdd78b0752dc49cabacd57ca139d7cb5466ea2db664c67739086c8b21c86.png)Planeswalker cards differ from most other cards. Taking a look at a card, you'll see:
+![](https://i.ormos.uk/14/35/1435bdd78b0752dc49cabacd57ca139d7cb5466ea2db664c67739086c8b21c86.png)
+
+Planeswalker cards differ from most other cards. Taking a look at a card, you'll see:
 
 1.  As with other cards, the name appears at the top of the card, next to…
 2.  The casting cost.

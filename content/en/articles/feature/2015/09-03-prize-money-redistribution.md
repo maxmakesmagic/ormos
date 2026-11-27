@@ -71,9 +71,13 @@ To alleviate the deluge of events next summer, Wizards has decided to eliminate 
 
 As we announced earlier this year, we plan to invest more heavily in tournaments starting in 2001. We plan to take the $200,000 in prize money we're saving by eliminating the sixth Pro Tour event and invest it in other tournaments.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/Worlds_Logo.jpg)The 2001 **Magic** World Championships will be the most-affected event. A total of $400,000 in prize money will be awarded between the individual and team portions of the World Championships. This amount represents a $100,000 increase over the previous Worlds competition. Most of the additional money will go to the national team portion of Worlds. Each member of the national teams who competes at Worlds will receive a minimum of $1,000. With pro points now awarded for the national team portion of Worlds and the large increase in prize money, the competition for national team spots should be more intense than ever.
+![](https://media.magic.wizards.com/image_legacy_migration/images/Worlds_Logo.jpg)
 
-![](https://i.ormos.uk/f4/ba/f4ba6aef94c7658baffbce5f5521932e3dca2d970aea04478ab45fa1b1c470e8.jpg)In addition to the existing support of National Championship events worldwide, the remainder of the saved prize money will supplement some Nationals events with additional prize money. Detailed payout structures for Nationals events will become available in the coming months.
+The 2001 **Magic** World Championships will be the most-affected event. A total of $400,000 in prize money will be awarded between the individual and team portions of the World Championships. This amount represents a $100,000 increase over the previous Worlds competition. Most of the additional money will go to the national team portion of Worlds. Each member of the national teams who competes at Worlds will receive a minimum of $1,000. With pro points now awarded for the national team portion of Worlds and the large increase in prize money, the competition for national team spots should be more intense than ever.
+
+![](https://i.ormos.uk/f4/ba/f4ba6aef94c7658baffbce5f5521932e3dca2d970aea04478ab45fa1b1c470e8.jpg)
+
+In addition to the existing support of National Championship events worldwide, the remainder of the saved prize money will supplement some Nationals events with additional prize money. Detailed payout structures for Nationals events will become available in the coming months.
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/ptlogo.jpg)Other improvements to the 2000-2001 **Magic** tournament season include:
 

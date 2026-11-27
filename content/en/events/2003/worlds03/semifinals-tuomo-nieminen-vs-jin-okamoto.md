@@ -94,7 +94,9 @@ render_recovery:
   - 'Circle of Protection: Red'
   occurrences: 140
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a481.jpg)Today, Nieminen is looking to accomplish something that has only been done once, by Jon Finkel in 2000- winning the team event and the individual competition at Worlds. This would put him up $45,000, which isn't bad for a week of playing Magic. In his way, however, is "The Last Emperor", Jin Okamoto. Okamoto has long been considered one of Japan's top players, and after two near misses on tiebreakers, he finally made the Top 8 of a Pro Tour event this weekend.
+![](http://www.wizards.com/sideboard/images/worlds03/a481.jpg)
+
+Today, Nieminen is looking to accomplish something that has only been done once, by Jon Finkel in 2000- winning the team event and the individual competition at Worlds. This would put him up $45,000, which isn't bad for a week of playing Magic. In his way, however, is "The Last Emperor", Jin Okamoto. Okamoto has long been considered one of Japan's top players, and after two near misses on tiebreakers, he finally made the Top 8 of a Pro Tour event this weekend.
 
 It's certainly an appropriate time for Okamoto to make his debut on the Sunday stage, as Japan had a tremendous breakout year. He represents the fourth player from the country to make a Top 8 on the tour this season, but he's looking to do one better, and win it all. Tsuyoshi Fujita made the finals of Pro Tour Tokyo, and Masashi Ooiso also came one match short of a championship trophy in Yokohama. Japan certainly wants to finally have a champion, and if Jin Okamoto has his way, he'll do his country one better and come home a world champion.
 
@@ -116,7 +118,9 @@ Nieminen wished to "send greetings to Olkku and 'PV'"
 
 Nieminen mulliganed down to six, and both players opened with a Verge. When Nieminen activated his, Okamoto cast Cunning Wish to get a Ray. Unfortunately for Nieminen, he was lacking a fifth land (or a second blue source), and had to cycle Decree of Justice for one, looking to not miss a land drop. One didn't arrive, although Flooded Strand showed up a turn later to put Nieminen back in the game. Okamoto tapped out to sacrifice his Verge, and Nieminen used the opportunity to cast his own Wish, getting a Ray to put things at about even. The one Soldier Nieminen made was attacking for one point of damage a turn, and when he tried to cast Concentrate.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a500.jpg)Okamoto had Mana Leak. Nieminen was on five lands, and Okamoto hadn't missed a drop. He was able to get Compulsion down without a problem, and even though Nieminen had Ray of Revelation, Okamoto was able to get a few activations out of the enchantment before it was destroyed, and then sacrificed it to gain another card. Deep Analysis put him a little further ahead, and Nieminen drew a Verge to put the lands at about even on each side. 
+![](http://www.wizards.com/sideboard/images/worlds03/a500.jpg)
+
+Okamoto had Mana Leak. Nieminen was on five lands, and Okamoto hadn't missed a drop. He was able to get Compulsion down without a problem, and even though Nieminen had Ray of Revelation, Okamoto was able to get a few activations out of the enchantment before it was destroyed, and then sacrificed it to gain another card. Deep Analysis put him a little further ahead, and Nieminen drew a Verge to put the lands at about even on each side. 
 
 Okamoto cycled a Decree on end step, getting six Soldiers. Nieminen played Compulsion, and Okamoto targeted it with his Ray. It was sacrificed in response, and Nieminen still didn't have an answer to Okamoto's Soldiers. Another Decree was cycled to bring Okamoto's number of 1/1's up to ten, and with Nieminen's blue mana all tapped, two Wakes came out to make them 3/3. They all attacked, and Nieminen flashed back a Ray to destroy one Wake. Another one from the hand drew two countermagic spells from Okamoto, which protected the Wake, left his Soldiers at 2/2, and forced through lethal damage.
 

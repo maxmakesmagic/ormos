@@ -44,7 +44,9 @@ archive_source:
   sha256: 8b04651bbd5dca5b70c12d490c3920032353561972a07887394149c701e8737e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mi02/869.jpg)When professional Magic players talk about playing on Day 3 of a Pro Tour they are talking about playing for a significant amount of money. Today there are two players who are playing for to see if they will continue to play Magic at all.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mi02/869.jpg)
+
+When professional Magic players talk about playing on Day 3 of a Pro Tour they are talking about playing for a significant amount of money. Today there are two players who are playing for to see if they will continue to play Magic at all.
 
 David Price and Tomi Walamies were both competitors at the recent Magic Invitational but neither one did well enough this weekend to earn an invite to Pro Tour Chicago. Both players are playing in the PTQ in order to stave off the end of their professional careers. 
 
@@ -64,7 +66,9 @@ While he will miss Chicago, Venice is marked on his itinerary. "I'm going to be 
 
 Dave on the other hand was 4-1-0 and if he won his sixth round would be in a position to draw into the Top 8. As they sat down, Dave's opponent—in the same position to either be eliminated or advance—seemed glum at the prospect of playing one of the most recognized and intimidating players in the game. Dave was gracious as they shuffled although he did add, "I would appreciate it if you would lose this round."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mi02/a873.jpg)Dave won the first game rather handily despite a menagerie of beasts on his opponent's side of the table. Two Goblin Embermages, [Death Pulse](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death+Pulse), [Cruel Revival](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cruel+Revival), [Erratic Explosion](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion), and a [Shock](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock) quickly moved things along to Game 2. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mi02/a873.jpg)
+
+Dave won the first game rather handily despite a menagerie of beasts on his opponent's side of the table. Two Goblin Embermages, [Death Pulse](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death+Pulse), [Cruel Revival](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cruel+Revival), [Erratic Explosion](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion), and a [Shock](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock) quickly moved things along to Game 2. 
 
 A small crowd gathered around Dave for the second game to urge him on and he would need all of the help he could get as he was trying to hold off a [Snapping Thragg](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snapping+Thragg), a 9/9 [Stag Beetle](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stag+Beetle), and two elves—one of which was the infuriating [Wellwisher](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher). Dave had only a mystery man, [Festering Goblin](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Festering+Goblin) and an [Embermage Goblin](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Embermage+Goblin) to work with.
 

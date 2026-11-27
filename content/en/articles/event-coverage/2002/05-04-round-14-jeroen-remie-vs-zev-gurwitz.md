@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a741.jpg)Last round of the Swiss portion of the Pro Tour. On one side Zev Gurwitz, the New Yorker who fine-tuned the [Psychatog](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) deck into perfection creating a monster that refuses to step down from the top of the Standard hill. On the other side Jeroen Remie, another great player from the Netherlands.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a741.jpg)
+
+Last round of the Swiss portion of the Pro Tour. On one side Zev Gurwitz, the New Yorker who fine-tuned the [Psychatog](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) deck into perfection creating a monster that refuses to step down from the top of the Standard hill. On the other side Jeroen Remie, another great player from the Netherlands.
 
 Jeroen: "This is what you get. Build a deck and get a feature match."
 
@@ -72,7 +74,9 @@ Jeroen 1-0 Zev.
 
 Again Remie came out smoking with a second turn Mongrel and again Gurwitz answered with a turn three Looter. The Hound took a bite and [Cartographer](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cartographer) showed up.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a742.jpg)The American threw a [Scorching Missile](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scorching+Missile) at Remie who attacked him down to twelve on the next turn. In the process he discarded Roar to the Mongrel and brought a huge token into play.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a742.jpg)
+
+The American threw a [Scorching Missile](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scorching+Missile) at Remie who attacked him down to twelve on the next turn. In the process he discarded Roar to the Mongrel and brought a huge token into play.
 
 Zev Gurwitz was in trouble. He played [Pardic Firecat](https://web.archive.org/web/20020504000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pardic+Firecat) with Temper in hand ready to use, through the Looter. Unafraid, or unsuspecting, Remie sent the token and the Hound in.
 

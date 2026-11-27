@@ -380,7 +380,9 @@ I haven't been to school in quite a while, so I don't write papers anymore. I've
 
 Winning isn't what this tournament is truly about though. Granted, I wanted to win. I wanted to win bad. When Kai drew that Tinker in the last game of the tournament, my heart sunk. The main reason I wanted to win, though, was so I could come back next year. The whole experience was so much fun; I definitely recommend it to each and every one of you. The good folks showing us around Cape Town did everything they could to make it great, and they succeeded. Thanks a lot, guys.
 
-![](http://www.wizards.com/sideboard/images/MI01/795.jpg)It all started off in the Atlanta airport, where I was to meet Brian Kibler and Chris Benafel. When I got there they were playing their 5-Color decks. At this point, I didn't yet have a 5-Color deck. Peter Szigeti (you may know him as ptr, the baddest man on the planet) sent me a 5C deck to play in the tournament, but it didn't get there in time. So I was going to have to do some serious scrounging in order to get a deck, but as Chris Benafel says, things tend to work out. I tried not to worry about that too much, and had a great breakfast and chatted with Brian and Chris. If you're ever in the international terminal of the Atlanta Airport, head over to the Chinese food place there for some killer egg sandwiches; they are truly the best in the world (and I think my man Brian will back me up on this).
+![](http://www.wizards.com/sideboard/images/MI01/795.jpg)
+
+It all started off in the Atlanta airport, where I was to meet Brian Kibler and Chris Benafel. When I got there they were playing their 5-Color decks. At this point, I didn't yet have a 5-Color deck. Peter Szigeti (you may know him as ptr, the baddest man on the planet) sent me a 5C deck to play in the tournament, but it didn't get there in time. So I was going to have to do some serious scrounging in order to get a deck, but as Chris Benafel says, things tend to work out. I tried not to worry about that too much, and had a great breakfast and chatted with Brian and Chris. If you're ever in the international terminal of the Atlanta Airport, head over to the Chinese food place there for some killer egg sandwiches; they are truly the best in the world (and I think my man Brian will back me up on this).
 
 The plane flight: long, long, long. That's all I really remember. 20-something hours. Not much else to say. When we finally arrived at the airport, we were greeted by Peter and Keith, our main guides to Cape Town. They told us all about what we were going to be doing that week, and how much our money was worth. To give you an idea of how much it was worth, most alcohol was about the same price as a soda is here in the USA, and steaks were 4 or 5 dollars. It was going to be tough to spend all the money we had brought along, but we were all determined to give it our best shot.
 
@@ -406,7 +408,9 @@ Now on to the tournament! The first three rounds were Duplicate Sealed. We had a
 
 ### Round 1: Scott Richards
 
-![](https://i.ormos.uk/68/b1/68b1b9b5275f2fb6bb0a77f370ce64811c9798ae54f3d97ae7375e602db6c917.jpg)Scott had chosen to build a g-u-b deck, which he told me was a mistake after the match. I don't remember exactly what happened during the games, only that it went to two games, and that he had mana problems in the second game, where my turn one Carnophage went nearly all the way.
+![](https://i.ormos.uk/68/b1/68b1b9b5275f2fb6bb0a77f370ce64811c9798ae54f3d97ae7375e602db6c917.jpg)
+
+Scott had chosen to build a g-u-b deck, which he told me was a mistake after the match. I don't remember exactly what happened during the games, only that it went to two games, and that he had mana problems in the second game, where my turn one Carnophage went nearly all the way.
 
 1-0
 
@@ -418,7 +422,9 @@ Chris went with the w-b strategy as well, and he beat me 2-1. Mirror matchup, ca
 
 ### Round 3: Olivier Ruel
 
-![](https://i.ormos.uk/14/f6/14f6bb69923b30d18f507ccfa5991efbdf12f24cb4e98f4d5965ee968b9d6a4f.jpg)Olivier had an army of stuffed animals with him at the table, but I tried to remain unfazed. Still, they made me laugh. Our match went to three games, and I remember him having to Smite my Sleeper Agent (yeah I was running that beast) that I kept blocking with a Nomads en-Kor and redirecting to a big Vebulid. Ha HA! That was pretty funny. I ended up winning our match 2-1. 
+![](https://i.ormos.uk/14/f6/14f6bb69923b30d18f507ccfa5991efbdf12f24cb4e98f4d5965ee968b9d6a4f.jpg)
+
+Olivier had an army of stuffed animals with him at the table, but I tried to remain unfazed. Still, they made me laugh. Our match went to three games, and I remember him having to Smite my Sleeper Agent (yeah I was running that beast) that I kept blocking with a Nomads en-Kor and redirecting to a big Vebulid. Ha HA! That was pretty funny. I ended up winning our match 2-1. 
 
 2-1
 
@@ -426,7 +432,9 @@ Next was the 5-Color format. Fortunately for myself, I had been able to scrounge
 
 ### Round 4: Chris Benafel
 
-![](https://i.ormos.uk/ba/97/ba975cffdc24ed6537e727e969ef2ad559c540874c01588d8cac80a0d2428e03.jpg)Chris was playing a Recur deck that used cards like Bazaar of Baghdad, Squee, Krovikan Horror, and Living Death among other things to gain a lot of card advantage and eventually win. The match went to three games, with the highlights being him beating me to a pulp the first game, him anteing a Moat in the second game and Intuitioning for Jeweled Bird rather than Firestorm (which would have killed my three creatures; I had four cards left in my hand), which let me win that game (they were all lands in my hand), and one turn in the last game where I Firestormed away his Birds of Paradise and Hermit Druid, cast Dark Ritual, Armageddon, and Contract from Below all in one turn, leaving me with seven cards to his one. Finally I beat Chris, which is pretty hard to do (yeah, he owns me). 3-1
+![](https://i.ormos.uk/ba/97/ba975cffdc24ed6537e727e969ef2ad559c540874c01588d8cac80a0d2428e03.jpg)
+
+Chris was playing a Recur deck that used cards like Bazaar of Baghdad, Squee, Krovikan Horror, and Living Death among other things to gain a lot of card advantage and eventually win. The match went to three games, with the highlights being him beating me to a pulp the first game, him anteing a Moat in the second game and Intuitioning for Jeweled Bird rather than Firestorm (which would have killed my three creatures; I had four cards left in my hand), which let me win that game (they were all lands in my hand), and one turn in the last game where I Firestormed away his Birds of Paradise and Hermit Druid, cast Dark Ritual, Armageddon, and Contract from Below all in one turn, leaving me with seven cards to his one. Finally I beat Chris, which is pretty hard to do (yeah, he owns me). 3-1
 
 ### Round 5: Gary Wise
 
@@ -440,7 +448,9 @@ But it usually doesn't happen. Anyhow, our match went to three games, and I won 
 
 Tom is a funny guy who was playing a funny deck. No dual lands. No power cards. It was a domain deck, actually. He beat me in two games, mostly due to Blood Moon. Ouch. So I ended up at 4-2 after Day 1.
 
-![](https://i.ormos.uk/ec/2c/ec2caa7dd6d39c183ed344a14788ab363bda27aa0e3fe7912cd49639a115d853.jpg)The second day started off with the Rotisserie Draft. All the cards from *Odyssey* were laid out on the table, and we took turns picking, with the drafting starting like a Rochester draft, wheeling with the 8th player, then coming back the other way and wheeling with the 1st player. Antoine Ruel started off by picking Aboshan, and as the 2nd player I took Cabal Patriarch. I had decided that I wanted to go b-u, so when it came around to me again, I took Shadowmage Infiltrator, and ended up with a deck I was very happy with.
+![](https://i.ormos.uk/ec/2c/ec2caa7dd6d39c183ed344a14788ab363bda27aa0e3fe7912cd49639a115d853.jpg)
+
+The second day started off with the Rotisserie Draft. All the cards from *Odyssey* were laid out on the table, and we took turns picking, with the drafting starting like a Rochester draft, wheeling with the 8th player, then coming back the other way and wheeling with the 1st player. Antoine Ruel started off by picking Aboshan, and as the 2nd player I took Cabal Patriarch. I had decided that I wanted to go b-u, so when it came around to me again, I took Shadowmage Infiltrator, and ended up with a deck I was very happy with.
 
 ### Round 7: Antoine Ruel
 
@@ -472,7 +482,9 @@ Tsuyoshi was playing a combo deck based around Early Harvest, lots of mana, and 
 
 ### Round 11: Kai Budde
 
-![](https://i.ormos.uk/af/17/af174cdd51a8786f663fd647a31c9c8b49979630d9cf20dc73f9014abbddea97.jpg)Kai was playing a u-b Opposition deck (though I didn't know it had Opposition in it at the time). First game he got out the first Infiltrator and I had nothing, so it was over fairly quickly. Second game I didn't have much, but he only had Memory Lapses for my Dromar. Eventually I got it into play, and it was holding off his medium-sized army of card-drawing creatures. A turn or two later I cast a Fact or Fiction, and the piles he chose were something like Vindicate and Fact or Fiction vs. Dromar and two other cards. So obviously I took the Dromar and played it next turn. Hold on, what's that you say? Dromar is a legend? Oops. That's what I get for not reading the card. Kai won, and was now in first place at 9-2, while I went to 8-3.
+![](https://i.ormos.uk/af/17/af174cdd51a8786f663fd647a31c9c8b49979630d9cf20dc73f9014abbddea97.jpg)
+
+Kai was playing a u-b Opposition deck (though I didn't know it had Opposition in it at the time). First game he got out the first Infiltrator and I had nothing, so it was over fairly quickly. Second game I didn't have much, but he only had Memory Lapses for my Dromar. Eventually I got it into play, and it was holding off his medium-sized army of card-drawing creatures. A turn or two later I cast a Fact or Fiction, and the piles he chose were something like Vindicate and Fact or Fiction vs. Dromar and two other cards. So obviously I took the Dromar and played it next turn. Hold on, what's that you say? Dromar is a legend? Oops. That's what I get for not reading the card. Kai won, and was now in first place at 9-2, while I went to 8-3.
 
 ### Round 12: Mike Pustilnik
 

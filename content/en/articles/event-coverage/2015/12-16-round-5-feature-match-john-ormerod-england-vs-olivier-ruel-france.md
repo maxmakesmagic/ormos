@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Craig Jones* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/120.jpg)Round 5 and one of the UK hopes (John Ormerod) met one of the top French players (Olivier Ruel). Ruel is one of the members of the successful Black Ops team that won Grand Prix Cannes and the Team challenge in New York earlier this year. He is also making a name for himself as an individual player, taking 2nd place In Porto (incidentally losing to his brother Antoine in the final). John Ormerod is a respected UK player with a PT top 8 credit and twice coming 9th. Ruel won and elected to draw first. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/120.jpg)
+
+Round 5 and one of the UK hopes (John Ormerod) met one of the top French players (Olivier Ruel). Ruel is one of the members of the successful Black Ops team that won Grand Prix Cannes and the Team challenge in New York earlier this year. He is also making a name for himself as an individual player, taking 2nd place In Porto (incidentally losing to his brother Antoine in the final). John Ormerod is a respected UK player with a PT top 8 credit and twice coming 9th. Ruel won and elected to draw first. 
 
 Game 1 proved pretty much a non-event as Ruel's 5 colour deck gave him only 3 mountains and a swamp. The two Kavu Scouts he could cast were effectively nullified by Ormerod's Shoreline Raider. John niggled him with a Dream Thrush then cast a Ruham Djinn to at least make the defeat look respectable. 
 

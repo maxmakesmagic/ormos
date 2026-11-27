@@ -84,7 +84,9 @@ The cream has definitely risen to the top of the standings this weekend. The onl
 
 ### Game 1
 
-![](https://i.ormos.uk/91/09/9109be5a83fe36b7060df008d387a447c2c1bef498957d7823ee2549d7576b6a.jpg)Fujita stayed on a hand of three Angels, Rift, Silver Knight and two lands. Morita mulliganed, and then kept his six. Unfortunately, his second land was a Temple of the False God, so it looked like Fujita would get a chance to draw out of his predicament. However, after a second turn Rift, Fujita's third land was Temple as well, and they both needed help to draw out of it.
+![](https://i.ormos.uk/91/09/9109be5a83fe36b7060df008d387a447c2c1bef498957d7823ee2549d7576b6a.jpg)
+
+Fujita stayed on a hand of three Angels, Rift, Silver Knight and two lands. Morita mulliganed, and then kept his six. Unfortunately, his second land was a Temple of the False God, so it looked like Fujita would get a chance to draw out of his predicament. However, after a second turn Rift, Fujita's third land was Temple as well, and they both needed help to draw out of it.
 
 Morita ripped land number three, and Chartooth Cougar gave him a fourth. Fujita drew another Temple. Morita dropped a Rift of his own, and then a second Temple, hitting five land first. Fujita followed suit, but had only a single white to work with. They Rifted each other as they cycled for action. The life totals were soon fourteen to ten for Morita.
 
@@ -96,7 +98,9 @@ Morita 1 - Fujita 0
 
 Both players matched third-turn morphs in the second game. Fujita drew his fourth-turn card slowly, but it refused to be a land. He hit for two and played a Temple of the False God. Morita had no such difficulty, and after worrying about the threat of Wing Shards, flipped up his Angel and swung in. Fujita found a Secluded Steppe the turn after, switching on his Temple and letting him return fire.
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a945.jpg)Fujita kept his Angel home and then Fujita did the same. They built still more mana. Finally, Morita hit eight land and dropped Akroma, Angel of Wrath, swinging in. Fujita took it, then weighed his options at end of turn. He needed one more land to cast an Akroma of his own. He could cycle Akroma's Vengeance to get rid of Morita's legend, and hope to draw the land he needed. He could Oblate his own Astral Slide to increase his odds. He even had a second Slide in hand.
+![](http://www.wizards.com/sideboard/images/gpyok03/a945.jpg)
+
+Fujita kept his Angel home and then Fujita did the same. They built still more mana. Finally, Morita hit eight land and dropped Akroma, Angel of Wrath, swinging in. Fujita took it, then weighed his options at end of turn. He needed one more land to cast an Akroma of his own. He could cycle Akroma's Vengeance to get rid of Morita's legend, and hope to draw the land he needed. He could Oblate his own Astral Slide to increase his odds. He even had a second Slide in hand.
 
 He chose not to, playing the safe route of Vengeancing away the board. Morita tapped out for another copy of the Legend, bringing Fujita to twelve life. He played out his Astral Slide, and took another hit, falling to six. At end of turn he struck, sending out Eternal Dragon and removing Akroma, then untapping and playing his own version. He chose not to risk the chance of Wing Shards. Morita lost his Akroma and had to sweep the board with Vengeance.
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: 79a90317d920cc2f5e84cfaee1c940bbeee57d86e9fe7a1a7026f900833e7dfc
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a731.jpg)Not too long ago, Umeå was uncharted territory on the Magic map. The players mostly didn't bother going to Stockholm to play. However, after Umeå got their share of Pro Tour Qualifiers, Jens Thorén surfaced, and in 2002 Pro Tour Nice, Anton Jonsson stepped forward to claim his second Pro Tour top 8 finish in one season. "We have a good draft table every week, which I think helps a lot," the 24-year-old player explains.
+![](http://www.wizards.com/sideboard/images/ptnice02/a731.jpg)
+
+Not too long ago, Umeå was uncharted territory on the Magic map. The players mostly didn't bother going to Stockholm to play. However, after Umeå got their share of Pro Tour Qualifiers, Jens Thorén surfaced, and in 2002 Pro Tour Nice, Anton Jonsson stepped forward to claim his second Pro Tour top 8 finish in one season. "We have a good draft table every week, which I think helps a lot," the 24-year-old player explains.
 
 Anton Jonsson was rather unknown when he made it all the way to the top 8 of 2001 Pro Tour New Orleans. He is still not one of the most profiled players, quite on the contrary he seems to stay a little in the background, much like his friend Jens Thorén. Along with Jens and Johan Sadeghpour, Anton makes up the Pro Tour regulars of Umeå, and the three of them frequently get together to play. "We draft a lot just because it is fun to draft. In addition, I talk to Jens and Johan about stuff, and we discuss picks," he says, revealing the practice strategy that has taken Umeå to the top of Magic.
 

@@ -51,7 +51,9 @@ render_recovery:
   - alongi@usinternet.com
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/820.jpg)On Thursday night, as many Pros were preparing for their rigorous test of skill, ability, and (consult thesaurus for additionally redundant noun) acumen, six strange little folk gathered together in one of the practice rooms and started what may be a new feature at certain Pro Tour events: an informal Multiplayer Invitational.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/820.jpg)
+
+On Thursday night, as many Pros were preparing for their rigorous test of skill, ability, and (consult thesaurus for additionally redundant noun) acumen, six strange little folk gathered together in one of the practice rooms and started what may be a new feature at certain Pro Tour events: an informal Multiplayer Invitational.
 
 The Invitational was begun as a friendly challenge between myself and The Ferrett, my editor at Star City. We always figured when we found ourselves at the same event, we ought to gather some people together and do something that might be fun for our readers to read about. We wanted to make sure that more tournament-oriented players were also involved, because both The Ferrett and I believe that there's much that the multiplayer and duel cultures can teach each other.
 
@@ -88,7 +90,9 @@ My opening hand contained an island, a swamp, and a mountain, along with Spinal 
 
 The game starts. Nobody does an incredible amount the first couple of turns. Randy shows random lands, Sheldon shows white-green, The Ferrett shows swamps, Michelle shows forests and islands, and Chad shows mountains and islands. When Sheldon lays down a River Boa, at least three of us are slightly concerned.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/817.jpg)First blood was through the Boa: Sheldon showed fourth-grade style how much he likes Michelle by pestering her. Shortly afterward, Randy set down a Ley Line. (You don't remember what that does, either? I'll remind you: each upkeep, the active player can decide to put a +1/+1 counter on whatever creature they want.) Soon, Ferrett has a Marauding Knight, Michelle has a Collective Restraint, Chad has a Blind Seer...and Anthony...
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/817.jpg)
+
+First blood was through the Boa: Sheldon showed fourth-grade style how much he likes Michelle by pestering her. Shortly afterward, Randy set down a Ley Line. (You don't remember what that does, either? I'll remind you: each upkeep, the active player can decide to put a +1/+1 counter on whatever creature they want.) Soon, Ferrett has a Marauding Knight, Michelle has a Collective Restraint, Chad has a Blind Seer...and Anthony...
 
 ...discards on his fourth turn!
 
@@ -141,7 +145,9 @@ First, Randy tried to cast Thieves' Auction. This was fifteen or so rounds deep 
 
 Second, about two or three rounds after that, Michelle looked at the board before her, including two different younger dragon legends and Sisay, as well as a full complement of basic lands . . . and cast Coalition Victory.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/819.jpg)Chad did not counter this one; he seemed inclined to let Michelle win in this most excellent fashion. But before I could even take priority to turn her Darigaaz blue and sack my Seal of Doom, The Ferrett stepped in and cast Tsabo's Decree, naming legends. This completely wrecked Michelle, as she was holding two additional Dragon Legends and another Coalition Victory (now useless).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/819.jpg)
+
+Chad did not counter this one; he seemed inclined to let Michelle win in this most excellent fashion. But before I could even take priority to turn her Darigaaz blue and sack my Seal of Doom, The Ferrett stepped in and cast Tsabo's Decree, naming legends. This completely wrecked Michelle, as she was holding two additional Dragon Legends and another Coalition Victory (now useless).
 
 Third, Chad did a little beatdown with borrowed fatties, using Sheldon's Rhox to slam The Ferrett out of the game, and then Randy. Neither Sheldon nor I felt like doing much to help either of them. The Ferrett seemed certain that with another turn's grace, he might have been able to burn Chad out; but I'll let him tell that story himself.
 

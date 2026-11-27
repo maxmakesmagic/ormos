@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/104.jpg)In the last round of the Sealed Deck portion of Grand Prix Helsinki, the old-timer Olle Råde faced the unknown Norwegian player Ole Christian Fjeld. They were both at 3-3 and had no way of making the cut to the second day, however, Ole didn't want to draw and so the match was played out - on the feature match table. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/104.jpg)
+
+In the last round of the Sealed Deck portion of Grand Prix Helsinki, the old-timer Olle Råde faced the unknown Norwegian player Ole Christian Fjeld. They were both at 3-3 and had no way of making the cut to the second day, however, Ole didn't want to draw and so the match was played out - on the feature match table. 
 
 Olle Råde got to play first, and he cast a turn one Thornscape Apprentice and started attacking. Ole got out a Dream Thrush that he tRåded for the Apprentice, and he then cast a Razorfoot Griffin to stop a Hooded Kavu that had come into play on Olle's side of the table. Olle dropped a Kavu Scout as well, but Ole had yet another flyer, an Angel of Mercy. The flyers got Olle down to 13 life, and when Ole cast an Ardent Soldier with kicker, things looked good for him. 
 

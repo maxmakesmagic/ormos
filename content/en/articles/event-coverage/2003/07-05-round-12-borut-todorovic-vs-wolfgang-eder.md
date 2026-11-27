@@ -44,7 +44,9 @@ archive_source:
   sha256: 27d51fe29473bab328d1388f7d0eee8113fd6686f0ce0bf83f2c6a8adf0e9f53
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a887.jpg)It's nice to see that Magic players don't forget their loved ones in their moments of success. As Borut sat down for his first Featured Match ever he didn't forget to send a "Hello" to his mum.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a887.jpg)
+
+It's nice to see that Magic players don't forget their loved ones in their moments of success. As Borut sat down for his first Featured Match ever he didn't forget to send a "Hello" to his mum.
 
 Eder is no stranger to these "winner has a shot at the Top 8" rounds, since he already made Euros Top 8 before.
 
@@ -66,7 +68,9 @@ A second [Forest](https://web.archive.org/web/20030705000000/https://gatherer.wi
 
 Bu that gave Wolfgang Eder the opening he needed. He played a second [Patriarch's Bidding](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patriarch%27s+Bidding) and the Warchief powered in just enough damage to finish the game before the Angel could help the stunned Todorovic out.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a888.jpg)Maybe he was nervous about his first Featured Match but Borut forgot to name Beast when Eder played Bidding. That would have returned his cycled Tusker to help block the incoming horde.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a888.jpg)
+
+Maybe he was nervous about his first Featured Match but Borut forgot to name Beast when Eder played Bidding. That would have returned his cycled Tusker to help block the incoming horde.
 
 Wolfgang 1-0 Borut.
 
@@ -92,7 +96,9 @@ Eder had another though decision, but he kept his hand. Borut didn't seem very h
 
 [Astral Slide](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) popped up across the table, Eder thought long and hard about it and decided he was safe enough to drop the Vortex this early. Borut played a morphed and buckled down for the race once again.
 
-![](https://i.ormos.uk/ff/d6/ffd6a338d388bc4813972e2fe7ba56407cd22a39d9d1404bf092adef95db64cf.jpg)Wolfgang Eder wasn't about to lose this race to an Angel. He dropped Siege-gang Commander and sent the whole crew in. The morph iced the Commander and the upkeep left Todorovic at seven.
+![](https://i.ormos.uk/ff/d6/ffd6a338d388bc4813972e2fe7ba56407cd22a39d9d1404bf092adef95db64cf.jpg)
+
+Wolfgang Eder wasn't about to lose this race to an Angel. He dropped Siege-gang Commander and sent the whole crew in. The morph iced the Commander and the upkeep left Todorovic at seven.
 
 He played a Rift and did the math a few times before cycling a useless [Renewed Faith](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Renewed+Faith) to kill Warchief and a token, but he kept his Angel in defensive duty. Eder's Vortex left the German at fifteen.
 

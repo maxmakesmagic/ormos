@@ -607,13 +607,17 @@ The big story of this tournament was that of German amateur Johannes Mitsios. Mi
 
   
 
-![](https://i.ormos.uk/a2/7e/a27e178dde8ffa82c87941a64dd712865e59639bcd68c7eec7dddcaccd88a8f6.jpg)Mitsios played some cards that have not seen the light of high level tournament play before. Pristine Angel seems an unlikely choice in a format where Exalted Angel exists (which Mitsios used only in his sideboard). Worship is an extremely powerful and under-used card in this environment, as many decks simply do not have a way to kill your creatures easily, particularly if you have Pristine Angel out. In fact, that strategy alone gives most Tooth and Nail builds an unsolvable problem. Chrome Mox is another surprise – a card rarely seen in a control strategy. Then there is Pulse of the Grid – this card is extremely interesting but many felt it was a touch too slow for constructed. Still, Mitsios uses it instead of the generally popular white Pulse.
+![](https://i.ormos.uk/a2/7e/a27e178dde8ffa82c87941a64dd712865e59639bcd68c7eec7dddcaccd88a8f6.jpg)
+
+Mitsios played some cards that have not seen the light of high level tournament play before. Pristine Angel seems an unlikely choice in a format where Exalted Angel exists (which Mitsios used only in his sideboard). Worship is an extremely powerful and under-used card in this environment, as many decks simply do not have a way to kill your creatures easily, particularly if you have Pristine Angel out. In fact, that strategy alone gives most Tooth and Nail builds an unsolvable problem. Chrome Mox is another surprise – a card rarely seen in a control strategy. Then there is Pulse of the Grid – this card is extremely interesting but many felt it was a touch too slow for constructed. Still, Mitsios uses it instead of the generally popular white Pulse.
 
 The question now is, how or why was this new metagame deck so successful in this tournament? Was it a fluke, or did Mitsios succeed by seeing what many other players have missed? One sure way to find out is to see whether any other players will be able to duplicate his success over the next few weeks, now that his deck list is posted.
 
 ### Coming Up: NAC
 
-![](https://i.ormos.uk/2d/93/2d9317df864f00e19c0e80bf218bfbfe219328e8f07d3cb57084c8d7928ccefd.jpg)Next Saturday, the North American Challenge finals will take place in Milford, MA. Over 100 players qualified to compete in this tournament that will award over $10,000 in cash and product prizes, with $2500 of it going to the winner. Check [here](https://web.archive.org/web/20040603000000/http://www.wizards.com/leaving.asp?url=http://www.tjcollect.com/NAC%202004/north%20american%20challenge.htm&origin=mtgcom_daily_ash17) for more details.
+![](https://i.ormos.uk/2d/93/2d9317df864f00e19c0e80bf218bfbfe219328e8f07d3cb57084c8d7928ccefd.jpg)
+
+Next Saturday, the North American Challenge finals will take place in Milford, MA. Over 100 players qualified to compete in this tournament that will award over $10,000 in cash and product prizes, with $2500 of it going to the winner. Check [here](https://web.archive.org/web/20040603000000/http://www.wizards.com/leaving.asp?url=http://www.tjcollect.com/NAC%202004/north%20american%20challenge.htm&origin=mtgcom_daily_ash17) for more details.
 
 ### Magic Trivia
 

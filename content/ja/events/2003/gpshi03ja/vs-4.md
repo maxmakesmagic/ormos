@@ -196,7 +196,9 @@ Game 2
 
 　再び先手は笹川。
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_sf2a_pic1_ja.jpg)　またも 4 ターン目には《水晶の破片》を用意し、そのまま《厳粛な空護り/Somber Hoverguard》までキャストしてこのまま自分の環境を作って行く用意は出来たようだ。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_sf2a_pic1_ja.jpg)
+
+　またも 4 ターン目には《水晶の破片》を用意し、そのまま《厳粛な空護り/Somber Hoverguard》までキャストしてこのまま自分の環境を作って行く用意は出来たようだ。
 
 　さて、おちついて加藤の行動。  
  　  

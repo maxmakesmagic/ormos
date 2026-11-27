@@ -455,7 +455,9 @@ render_recovery:
 ---
 * * *
 
-![Antoine Ruel](http://wizards.com/sideboard/images/ptsd04/fm16_1.jpg)Antoine Ruel is one half of France's Fabulous Ruel Brothers, two Pro Players who have been ripping up the Tour since their humble beginnings as two-thirds of Team Black Ops. Antoine is currently doing the family name proudest, since he's undefeated after two drafts. The slacking Olivier slouched into Day 2 with a 4-2 record, and will have to put the jets on if he wants to catch his brother.
+![Antoine Ruel](http://wizards.com/sideboard/images/ptsd04/fm16_1.jpg)
+
+Antoine Ruel is one half of France's Fabulous Ruel Brothers, two Pro Players who have been ripping up the Tour since their humble beginnings as two-thirds of Team Black Ops. Antoine is currently doing the family name proudest, since he's undefeated after two drafts. The slacking Olivier slouched into Day 2 with a 4-2 record, and will have to put the jets on if he wants to catch his brother.
 
 Right now Ruel faces Gerard Fabiano, armed with his ubiquitous hand-towel in a bid to reach 7-0. A Team TOGIT player of some distinction, Fabiano first grabbed the public eye when he, Scott McCord and Jon Sonne (together, Slay-Pillage-Gerard) finished fourth at Pro Tour Boston 2002.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Mark Wraith*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/309.JPG)We met John Ormerod and his Wildfire deck in the round Seven feature Match. Carlos is playing a Mono-Blue control deck - often called Accelerated Blue - which has Grim Monoliths to speed up the casting of Morphlings and large Strokes of Genius. He won Grand Prix Madrid this year and has made the Spanish team on the last two occasions.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/309.JPG)
+
+We met John Ormerod and his Wildfire deck in the round Seven feature Match. Carlos is playing a Mono-Blue control deck - often called Accelerated Blue - which has Grim Monoliths to speed up the casting of Morphlings and large Strokes of Genius. He won Grand Prix Madrid this year and has made the Spanish team on the last two occasions.
 
 John chooses to first and while they both build up the lands in play, Carlos frustrates John's attempts to build a good mana base by countering two Thran Dynamos. He doesn't counterspell a less important pair of Fire Diamonds, as he has a Powder Keg.
 

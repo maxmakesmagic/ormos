@@ -179,7 +179,9 @@ render_recovery:
 
 **Game 1**
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a974.jpg)　先手森田が 2 ターン目から《稲妻の裂け目/Lightning Rift》、《霊体の地滑り/Astral Slide》と重ね、その間に Shin は《曙光の精霊/Dawn Elemental》で攻撃を開始。
+![](http://www.wizards.com/sideboard/images/gpyok03/a974.jpg)
+
+　先手森田が 2 ターン目から《稲妻の裂け目/Lightning Rift》、《霊体の地滑り/Astral Slide》と重ね、その間に Shin は《曙光の精霊/Dawn Elemental》で攻撃を開始。
 
 　攻撃を開始するも、森田の 2 枚のエンチャントは危険だと、《アクローマの復讐/Akroma's Vengeance》で自身のクリーチャー諸共墓地へ送る Shin 。
 

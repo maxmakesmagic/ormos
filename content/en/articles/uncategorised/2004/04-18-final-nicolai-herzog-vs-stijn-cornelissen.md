@@ -53,7 +53,9 @@ archive_source:
   sha256: 43b21585302746bfd881a023630b55895c0ca27631d50332dcf78ea38485cb9f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/fin4_1.jpg)Nicolai is certainly the most experienced player in this matchup, having just won GP Amsterdam a few months ago. Cornelissen is a veteran team player, though, having played in various Dutch teams in the last few Team Pro Tours. Both have green decks, but got slim pickings in the draft. Nicolai's creatures are slightly better, but Stijn has the powerful [Grab the Reins](https://web.archive.org/web/20040418000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grab+the+Reins) to swing games.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/fin4_1.jpg)
+
+Nicolai is certainly the most experienced player in this matchup, having just won GP Amsterdam a few months ago. Cornelissen is a veteran team player, though, having played in various Dutch teams in the last few Team Pro Tours. Both have green decks, but got slim pickings in the draft. Nicolai's creatures are slightly better, but Stijn has the powerful [Grab the Reins](https://web.archive.org/web/20040418000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grab+the+Reins) to swing games.
 
 ### Game 1
 

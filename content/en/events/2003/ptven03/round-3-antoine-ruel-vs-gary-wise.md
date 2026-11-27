@@ -87,7 +87,9 @@ render_recovery:
   - Cruel Revival
   occurrences: 54
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a949.jpg)This matchup is between two innovative and colorful decks. Antoine is playing a black/white Cleric deck that splashes blue for Read the Runes and features such nuttiness as Celestial Gatekeeper. Gary is playing a green-red-white fatty-filled Biorhythm concoction with an Island in the sideboard to support three Chromeshell Crabs.
+![](http://www.wizards.com/sideboard/images/ptven03/a949.jpg)
+
+This matchup is between two innovative and colorful decks. Antoine is playing a black/white Cleric deck that splashes blue for Read the Runes and features such nuttiness as Celestial Gatekeeper. Gary is playing a green-red-white fatty-filled Biorhythm concoction with an Island in the sideboard to support three Chromeshell Crabs.
 
 ### Game 1
 
@@ -109,7 +111,9 @@ Wise 1 – Ruel 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptven03/a948.jpg)Antoine got the jump in game 2 with a turn-3 Rotlung Reanimator. Wise cycled a Tusker and dropped a turn-4 Baloth, which was felled by a Death Pulse. Wise continued to develop his mana with Explosive Vegetaion, and then dropped Kamahl. He used the Legend's power immediately, turning Ruel's Grand Coliseum into a 1/1 and then Shocking it. If Wise was holding a Slice and Dice or a Starstorm, all of Ruel's lands would be going away soon.
+![](http://www.wizards.com/sideboard/images/ptven03/a948.jpg)
+
+Antoine got the jump in game 2 with a turn-3 Rotlung Reanimator. Wise cycled a Tusker and dropped a turn-4 Baloth, which was felled by a Death Pulse. Wise continued to develop his mana with Explosive Vegetaion, and then dropped Kamahl. He used the Legend's power immediately, turning Ruel's Grand Coliseum into a 1/1 and then Shocking it. If Wise was holding a Slice and Dice or a Starstorm, all of Ruel's lands would be going away soon.
 
 Ruel had put out an Exalted Angel, and had a Pacifism for the green Legend. He would win the damage race, but was still at the mercy of any of Gary's mass removal.
 
@@ -121,7 +125,9 @@ Wise 1 – Ruel 1
 
 Ruel started Game 3 under a Root Maze, playing three Grand Coliseums and a Barren Moor. Wise, on the other hand, had no such problems, using a fetchland, a Tusker, and an Explosive Vegetation to build the perfect mana. Antoine had answers for Gary's monsters, though: Kamahl was hit with Cruel Revival, and Silvos was Pacified. Antoine goaded Gary to play a second one. "I promise I won't do that," said the Canadian. Ravenous Baloth was also hit with a Pacifism, and Wise was looking a little frustrated.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a950.jpg)Ruel put out some offense in the form of two Rotlung Reanimators, which made Gary's mass removal all but worthless. Exalted Angel and Celestial Gatekeeper complicated things even more for Wise. Gary made what looked to be a desperation "Fog" play with a Starstorm for two, which basically turned Antoine's Gatekeeper and two Reanimators into six tokens and... two Reanimators. But he was still alive. Ruel simply shrugged an played a face-down creature.
+![](http://www.wizards.com/sideboard/images/ptven03/a950.jpg)
+
+Ruel put out some offense in the form of two Rotlung Reanimators, which made Gary's mass removal all but worthless. Exalted Angel and Celestial Gatekeeper complicated things even more for Wise. Gary made what looked to be a desperation "Fog" play with a Starstorm for two, which basically turned Antoine's Gatekeeper and two Reanimators into six tokens and... two Reanimators. But he was still alive. Ruel simply shrugged an played a face-down creature.
 
 Wise had exactly what he needed, however—two more mass-removal spells. He played Slice and Dice. Ruel flipped up his Daru Sanctifier to give himself another Cleric, and winced when he realized that by doing so, he was forced to destroy the Pacifism on Silvos (the Pacified Baloth had long-ago been sacrificed for life). The Slice killed the Reanimators and gave Antoine a fresh batch of tokens. Starstorm for two took care of the tokens, and the Exalted Angel, leaving Silvos as the last man standing. Somehow Gary worked his way out of what looked like a hopeless situation.
 

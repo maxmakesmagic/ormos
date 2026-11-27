@@ -53,7 +53,9 @@ archive_source:
   sha256: 603f4f14021a5bb6900dce25cbe7a2b9a905ffed5807a57e39ca90a3b38c9611
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a793.jpg)Christophe had an amazing game in the quarterfinals against Amiel Tenenbaum, when he drew four Flametongue Kavus, four Circular Logics and was able to finish with an amazing two Violent Eruptions.
+![](http://www.wizards.com/sideboard/images/euro02/a793.jpg)
+
+Christophe had an amazing game in the quarterfinals against Amiel Tenenbaum, when he drew four Flametongue Kavus, four Circular Logics and was able to finish with an amazing two Violent Eruptions.
 
 ### Game 1
 
@@ -101,7 +103,9 @@ The Frenchman still wasn't able to cast anything during his second turn but tapp
 
 With four mana open at the end of his turn he tried to go for an Arrogant Wurm threatening with one untapped Island to counter any opposition that could come. His opponent cast Fire/Ice targeting the blue creature and Haim used his blue mana and countered the Fire, thereby allowing his opponent to use Counterspell on his Arrogant Wurm.
 
-![](https://i.ormos.uk/c1/a7/c1a705ae12c069275b0ef8030bd8ad28c67a07f935e1e7edd98eb1988b0eb63e.jpg)A few turns later, in response to a Fact or Fiction an Arrogant Wurm hit the table. The Fact or Fiction revealed a Flametongue Kavu, a Wrath of God, a Mountain, one Counterspell and a Battlefield Forge.
+![](https://i.ormos.uk/c1/a7/c1a705ae12c069275b0ef8030bd8ad28c67a07f935e1e7edd98eb1988b0eb63e.jpg)
+
+A few turns later, in response to a Fact or Fiction an Arrogant Wurm hit the table. The Fact or Fiction revealed a Flametongue Kavu, a Wrath of God, a Mountain, one Counterspell and a Battlefield Forge.
 
 And this was how Haim split them up:  
  Pile 1 Flametongue Kavu and Wrath of God  
@@ -141,7 +145,9 @@ The Italian decided to take the lands in pile 2. And cast a Flametongue Kavu to 
 
 Haim was finally able to cast the Asian Wild Mongrel, that had won him the last match and ended his turn, being able to cast Arrogant Wurm. He decided not to play it. Some turns went by until he summoned an Arrogant Wurm during the end of Marco's turn. Of course, Marco had a counter ready but the Frenchman had one more than him. To clear the path to start hitting his opponent, Christophe used Fire on the Kavu and swung for six.
 
-![](https://i.ormos.uk/54/a5/54a5d921c7f6c5d2f559eafddd90443f13bd9ae63b75edcaa4b6b974888da5b4.jpg)The Italian thought a while and cast yet another Fact or Fiction during his main phase revealing Flametongue Kavu, Fire/Ice, Memory Lapse, Fact or Fiction and Memory Lapse.
+![](https://i.ormos.uk/54/a5/54a5d921c7f6c5d2f559eafddd90443f13bd9ae63b75edcaa4b6b974888da5b4.jpg)
+
+The Italian thought a while and cast yet another Fact or Fiction during his main phase revealing Flametongue Kavu, Fire/Ice, Memory Lapse, Fact or Fiction and Memory Lapse.
 
 After a while it looked like this:  
  Pile 1: Flametongue and Fact or Fiction  

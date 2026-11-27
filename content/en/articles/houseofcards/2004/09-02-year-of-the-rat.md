@@ -343,7 +343,9 @@ So, like I said, I get to preview a legendary creature today. As we've learned f
 
 ### Relentlessness
 
-![](https://i.ormos.uk/e3/85/e38552a338fc0962243052b136c11106342879011ba6fbe52ad6d9352a20ff9e.jpg)Over the past couple of weeks, I've received via electronic Pony Express (or “the E-mail,” as you kids call it) a pair of decks that take very weird advantage of Relentless Rats. These decks don't simply throw Relentless Rats on the table and beat down—they exploit its “any number of copies” exception to use the card as a combo engine. I'm going to shamelessly corrupt these decks by adding Marrow-Gnawer to them. (Hey—it's what Marrow-Gnawer would have wanted me to do.) No, no, really, the legendary Rat Rogue is synergistic.
+![](https://i.ormos.uk/e3/85/e38552a338fc0962243052b136c11106342879011ba6fbe52ad6d9352a20ff9e.jpg)
+
+Over the past couple of weeks, I've received via electronic Pony Express (or “the E-mail,” as you kids call it) a pair of decks that take very weird advantage of Relentless Rats. These decks don't simply throw Relentless Rats on the table and beat down—they exploit its “any number of copies” exception to use the card as a combo engine. I'm going to shamelessly corrupt these decks by adding Marrow-Gnawer to them. (Hey—it's what Marrow-Gnawer would have wanted me to do.) No, no, really, the legendary Rat Rogue is synergistic.
 
 Pippo Pappo had the inspired idea of pairing Relentless Rats with Nantuko Shrine. Load up your graveyard with Relentless Rats, continue to cast Relentless Rats, and you'll quickly amass oodles of Squirrel tokens. You get one Squirrel per Shrine per Relentless Rats in your graveyard, so 3 or 6 or even 12 Squirrels a pop isn't crazy. But just because I can, I'm adding Marrow-Gnawer and Conspiracy to the mix. Twelve 1/1 tokens at once isn't enough! Turn all your Squirrels into fear-endowed Rats and let Marrow-Gnawer keep sending Relentless Rats to your graveyard. Hey, a rodent is a rodent, right?
 
@@ -351,7 +353,9 @@ Pippo Pappo had the inspired idea of pairing Relentless Rats with Nantuko Shrine
 
   
 
-![](https://i.ormos.uk/2c/60/2c607abd9f1153f121b04118a72a8b9310bc3a5c88a8dc4d133f3923c359af93.jpg)Chris Young's fractured take on Relentless Rats involves Verdant Succession, Blasting Station, and some color-changing. He suggests using Alter Reality to hack Verdant Succession to say “black.” Let Blasting Station fire a Rat at your opponent's head and Verdant Succession will fetch another one into play—which untaps Blasting Station. Repeat 19 more times! If you run out of steam, a mass reanimator like Patriarch's Bidding should finish the job.
+![](https://i.ormos.uk/2c/60/2c607abd9f1153f121b04118a72a8b9310bc3a5c88a8dc4d133f3923c359af93.jpg)
+
+Chris Young's fractured take on Relentless Rats involves Verdant Succession, Blasting Station, and some color-changing. He suggests using Alter Reality to hack Verdant Succession to say “black.” Let Blasting Station fire a Rat at your opponent's head and Verdant Succession will fetch another one into play—which untaps Blasting Station. Repeat 19 more times! If you run out of steam, a mass reanimator like Patriarch's Bidding should finish the job.
 
 That's a great plan, and Marrow-Gnawer wants to help. Instead of using Alter Reality, I'm going to use Shifting Sky to make all nonland permanents green. The Verdant Succession combo still works, and (as a plan B) Marrow-Gnawer's fear ability is enhanced. Since there are no black creatures anymore, Rats are unblockable except by artifact creatures. And who plays *those*? Marrow-Gnawer + green Relentless Rats + Verdant Succession is good; Marrow-Gnawer + some Rats + Blasting Station is good. (When X Rat tokens come into play, Blasting Station's untap trigger triggers X times.)
 

@@ -110,7 +110,9 @@ Last year, Wizards of the Coast changed offices to our new palatial sweet across
 
 Hailing from the *Homelands* release event, these particular socks were pinned to a picture of a man wearing a Hurloon Minotaur suit (at least, I think it was a man in a suit). The weirdest thing about the socks was not their golden glow, but rather their freshly cracked booster pack smell. Before you think I’m a sock-sniffin’ weirdo, I would like to point out that the socks had been marinating under lock and key for approximately 8 years. Anyway…
 
-![](https://i.ormos.uk/50/f7/50f7b7e1a9d9e3ab21cc0efda48a729245d2ba276eb3e3f2a909c34c4f3d573f.jpg)I want to give these socks away. The only thing we were using them for was to clone more Richards. Now that a Garfield army exists, it’s time to set these puppies free. The winner will have a one-of-the-kind collectible, and one of the ultimate **Magic** items in history. I told you this was the Contest of the Year! 
+![](https://i.ormos.uk/50/f7/50f7b7e1a9d9e3ab21cc0efda48a729245d2ba276eb3e3f2a909c34c4f3d573f.jpg)
+
+I want to give these socks away. The only thing we were using them for was to clone more Richards. Now that a Garfield army exists, it’s time to set these puppies free. The winner will have a one-of-the-kind collectible, and one of the ultimate **Magic** items in history. I told you this was the Contest of the Year! 
 
 The second prize is for the true gamers out there. One of R&D’s goals with *Coldsnap* was making it jibe with and feel like the *Ice Age* and *Alliances* sets, while incorporating modern card development. I believe that R&D hit the ball out of the park, but who better to determine if they truly did their job than you? The winner of this prize will win 4x *Ice Age* block. What does this mean? 
 

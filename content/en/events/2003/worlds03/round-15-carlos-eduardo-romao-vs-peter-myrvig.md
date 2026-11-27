@@ -109,7 +109,9 @@ render_recovery:
   - Threaten
   occurrences: 123
 ---
-![](https://i.ormos.uk/ed/1e/ed1e5a4d38efbb69ffc9f8c2f065b4655abf1da05c5e5a53049db66d667733d9.jpg)The cream is certainly rising to the top as we near the end of the individual swiss rounds. With just four rounds of play remaining, former World Champion Carlos Romao had to face Pro Tour – Houston Top 8er Peter Myrvig. Romao was with the much-hyped Mind's Desire, and Myrvig was with its nemesis Sligh.
+![](https://i.ormos.uk/ed/1e/ed1e5a4d38efbb69ffc9f8c2f065b4655abf1da05c5e5a53049db66d667733d9.jpg)
+
+The cream is certainly rising to the top as we near the end of the individual swiss rounds. With just four rounds of play remaining, former World Champion Carlos Romao had to face Pro Tour – Houston Top 8er Peter Myrvig. Romao was with the much-hyped Mind's Desire, and Myrvig was with its nemesis Sligh.
 
 ### Game 1
 
@@ -117,7 +119,9 @@ Myrvig won the die roll, something that always makes a Goblin player smile, and 
 
 He drew his card and sighed. He looked at a hand of Brainstorm, Snap, Mind's Desire, Sapphire Medallion, Cunning Wish, Merchant Scroll and Ancient Tomb. He thought hard before playing his Brainstorm. It turned up another Brainstorm, Flooded Strand, and Accumulated Knowledge. The Knowledge and Tomb headed back on top of his library. He played the Strand and fetched out an island. Myrvig looked thoroughly bored, but it was probably just the oppressive heat getting to him. The table was thronged with spectators.
 
-![](https://i.ormos.uk/42/c6/42c62a28af9833a8d571a88501387938a347253a8a1a1984fb6975ca15e6cf51.jpg)Romao deliberately tapped an island and laid Snap on the table, getting rid of one of the Raging Goblins. Then he Merchant Scrolled, and then Brainstormed in response, getting another Snap and looking at Ancient Tomb and Sapphire Medallion before putting them back. His Scroll got him a Frantic Search and he passed it back to Myrvig with one island up.
+![](https://i.ormos.uk/42/c6/42c62a28af9833a8d571a88501387938a347253a8a1a1984fb6975ca15e6cf51.jpg)
+
+Romao deliberately tapped an island and laid Snap on the table, getting rid of one of the Raging Goblins. Then he Merchant Scrolled, and then Brainstormed in response, getting another Snap and looking at Ancient Tomb and Sapphire Medallion before putting them back. His Scroll got him a Frantic Search and he passed it back to Myrvig with one island up.
 
 Myrvig tapped three and played Goblin Warchief, then thought and added his Raging Goblin and swung in. Romao Snapped the Warchief then Wished for a Stifle for the Piledriver's Ability. He fell to six. His back was against the wall. He untapped and drew. Accumulated Knowledge was waiting for him. He cast it for a blue and drew a Frantic search! With the City of Traitors in his hand, he was able to Search away two lands and play a Mind's Desire for three.
 
@@ -137,7 +141,9 @@ Romao 1 – Myrvig 1
 
 ### Game 3
 
-![](https://i.ormos.uk/22/32/2232480d46431baf5310c608bef38c2222657642cc3d1488d91241a20c07541d.jpg)Just nine minutes remained for the decisive third game, which was good news for Myrvig's goblins. Better still, Romao mulliganed and Myrvig had a Lackey on the first turn. On the fourth turn Romao was facing some serious pain from a horde across the table. Lucky for him Mind's Desire can do some ridiculous things.
+![](https://i.ormos.uk/22/32/2232480d46431baf5310c608bef38c2222657642cc3d1488d91241a20c07541d.jpg)
+
+Just nine minutes remained for the decisive third game, which was good news for Myrvig's goblins. Better still, Romao mulliganed and Myrvig had a Lackey on the first turn. On the fourth turn Romao was facing some serious pain from a horde across the table. Lucky for him Mind's Desire can do some ridiculous things.
 
 He started out with a small burst of spells, netting mana from Cloud of Faeries and Frantic Search. A couple spells later he was busting out a Mind's Desire for five. He didn't get the degenerate second Mind's Desire, but he did have a Frantic Search and a Snap, as well as a Brainstorm. He drew into a second Mind's Desire and fired it off, this time for twelve. The first card was Turnabout, signaling the end was very probably near, but then came the Tendrils of Agony, and it was over.
 

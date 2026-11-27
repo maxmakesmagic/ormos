@@ -101,7 +101,9 @@ Take a look at these Azorius figures: from left to right, a human wizard, an adv
 ![Dissension style guide image](https://i.ormos.uk/d1/e1/d1e12ee58b1d9c73fb57ff8a623d42ac33e93b795d573726e857a744f71dd7f2.jpg "Dissension style guide image")  
 *Azorius wizard, ghost advisor/counselor, and knight*
 
-![Dissension style guide image](https://i.ormos.uk/cd/6c/cd6cc7139f92d5799b09b322e811e8bb2ebb4abbe2c7c8786cea9f9f4670e137.jpg "Dissension style guide image")Azorius weaponry: simple but beautiful, unscratched and again, largely ceremonial. But, as an Azorius Sky Hussar might ask, shouldn't a sword's edge be used as a last resort? Most of the time, shouldn't the blade serve its main purpose: to shine gloriously as you fly griffinback out of the disk of the sun? 
+![Dissension style guide image](https://i.ormos.uk/cd/6c/cd6cc7139f92d5799b09b322e811e8bb2ebb4abbe2c7c8786cea9f9f4670e137.jpg "Dissension style guide image")
+
+Azorius weaponry: simple but beautiful, unscratched and again, largely ceremonial. But, as an Azorius Sky Hussar might ask, shouldn't a sword's edge be used as a last resort? Most of the time, shouldn't the blade serve its main purpose: to shine gloriously as you fly griffinback out of the disk of the sun? 
 
   
 

@@ -76,7 +76,9 @@ render_recovery:
 
 * * *
 
-[![You Make the Card 3 - Art by Rebekah Lynn Osorio](https://i.ormos.uk/55/aa/55aa583ddab7a99570af5c030fd7ed73d0af29ee9255560d8efda1e47d5524d4.jpg)](https://web.archive.org/web/20080509053251/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=YouMaketheCard3)　皆さんの意見を集めた結果、メカニズムJが最多得票を得ました。以下は投票の結果です（メカニズムのデザイナー名も同時に発表します。同じアイデアの場合は、最初に投稿してきた人に栄誉が行くのをお忘れなく）。
+[![You Make the Card 3 - Art by Rebekah Lynn Osorio](https://i.ormos.uk/55/aa/55aa583ddab7a99570af5c030fd7ed73d0af29ee9255560d8efda1e47d5524d4.jpg)](https://web.archive.org/web/20080509053251/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=YouMaketheCard3)
+
+　皆さんの意見を集めた結果、メカニズムJが最多得票を得ました。以下は投票の結果です（メカニズムのデザイナー名も同時に発表します。同じアイデアの場合は、最初に投稿してきた人に栄誉が行くのをお忘れなく）。
 
   
 

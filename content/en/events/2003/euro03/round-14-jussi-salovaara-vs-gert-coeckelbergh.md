@@ -77,7 +77,9 @@ render_recovery:
   - Graveborn Muse
   occurrences: 37
 ---
-![](http://www.wizards.com/sideboard/images/euro03/a872.jpg)This is it! The final round of the swiss section of European Championships 2003 and it was winner takes all for these two players with one going on to Sundays top eight and one going home having just missed out. Both players were on 30 points with Jussi lying in 6th with a mono black zombie deck and Gert in 10th with a R/G variant.
+![](http://www.wizards.com/sideboard/images/euro03/a872.jpg)
+
+This is it! The final round of the swiss section of European Championships 2003 and it was winner takes all for these two players with one going on to Sundays top eight and one going home having just missed out. Both players were on 30 points with Jussi lying in 6th with a mono black zombie deck and Gert in 10th with a R/G variant.
 
 ### Game 1
 
@@ -85,7 +87,9 @@ Both players drew and kept their opening hands and soon Salovaara's Withered Wre
 
 Another Withered Wretch from Salovaara is played which removes a Call of the Herd from the Dutchman's graveyard straight away. Chainer's Edict kills Coeckelbergh's Llanowar Elf but after getting down to twelve life apiece fairly quickly neither player could get a breakthrough. A second Call of the Herd token for the Dutchman and Salovaara activated his Withered Wretch to remove the spell from the graveyard immediately. Salovaara attacked with everything and the Wretch is blocked allowing four damage from zombie tokens through. 12-8. 
 
-![](http://www.wizards.com/sideboard/images/euro03/a873.jpg)Coeckelbergh only had a Call of the Herd token and a Llanowar Elf in play and so another four goes through on the next attack. 12-4. Yet again Coeckelbergh drew and found nothing to help so he scooped unable to prevent the next attack from doing the final four damage.
+![](http://www.wizards.com/sideboard/images/euro03/a873.jpg)
+
+Coeckelbergh only had a Call of the Herd token and a Llanowar Elf in play and so another four goes through on the next attack. 12-4. Yet again Coeckelbergh drew and found nothing to help so he scooped unable to prevent the next attack from doing the final four damage.
 
 Salovaara 1 – Coeckelbergh 0
 
@@ -93,7 +97,9 @@ Salovaara 1 – Coeckelbergh 0
 
 Both players sideboarded before Game 2 and after shuffling both decided to keep their hands. Coeckelbergh's land, Llanowar Elf start was met with a Duress from Salovaara which removed the Compost in the Dutchman's hand. The Elf was Smothered and was shortly followed by another Duress removing Volcanic Hammer. Chainer's Edict again attempted to slow the mana development of the G/R player and keep the Phantom Centaur in his handoff of the table.
 
-![](http://www.wizards.com/sideboard/images/euro03/a874.jpg)Salovaara played a Nantuko Shade and got in an unblocked five damage before it was Violent Eruptioned away. A Faceless Butcher took Coeckelbergh's freshly cast Mongrel and Salovaara attacked with a Faceless Butcher and Withered Wretch. Another Violent Eruption killed the Butcher and the Mongrel was used to block and kill the Wretch. With the table now cleared the Finn cast Graveborn Muse and Coeckelbergh played Compost followed one turn later by Basking Rootwalla and Phantom centaur.
+![](http://www.wizards.com/sideboard/images/euro03/a874.jpg)
+
+Salovaara played a Nantuko Shade and got in an unblocked five damage before it was Violent Eruptioned away. A Faceless Butcher took Coeckelbergh's freshly cast Mongrel and Salovaara attacked with a Faceless Butcher and Withered Wretch. Another Violent Eruption killed the Butcher and the Mongrel was used to block and kill the Wretch. With the table now cleared the Finn cast Graveborn Muse and Coeckelbergh played Compost followed one turn later by Basking Rootwalla and Phantom centaur.
 
 A Chainer's Edict cast and flash backed put paid to the two green creatures and over three turns Salovaara merely draws and attacks with his Muse. Coeckelbergh was clearly frustrated as even with extra draws from the Compost he is unable to draw anything to help. 12-8, 11-5, 10-2, scoop. 
 

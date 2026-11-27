@@ -207,7 +207,9 @@ On top of all that, with the new activation, you sometimes randomly show your op
 
 **Resolution**: Don't get too caught up in the “rules du juor.”
 
-![](https://i.ormos.uk/ef/a4/efa47bd89c149f3477163becf0be4b0e1e278aa76722ed769dc3313fea1d7514.jpg)The last rerun article of mine that was posted over the holiday break was “[Ninth Time's a Charm: Part 2](/en/articles/latestdevelopments/2005/12-30-ninth-times-a-charm-part-2),” which went over some of the finer points of the most recent Core Set, including blue's poor showing therein.
+![](https://i.ormos.uk/ef/a4/efa47bd89c149f3477163becf0be4b0e1e278aa76722ed769dc3313fea1d7514.jpg)
+
+The last rerun article of mine that was posted over the holiday break was “[Ninth Time's a Charm: Part 2](/en/articles/latestdevelopments/2005/12-30-ninth-times-a-charm-part-2),” which went over some of the finer points of the most recent Core Set, including blue's poor showing therein.
 
 I regret some of those choices now, I really do. Not the fact that Counterspell isn't there, but the fact that some of the decent middle-of-the-road cards like Spiketail Hatchling and Curiosity and Inspiration are gone. We kind of got caught up in a bit of blue-bashing back then, with a lot of “Blue can't get this,” and “Blue shouldn't have that any more” being bandied about in R&D. We were definitely on the right track with reigning in its tournament power, especially in the control card category, but I think our vicious housecleaning hurt a lot of other more innocuous blue strategies as well. Overall, I don't think *Ninth* is a particularly flattering picture of what blue is capable of, and I honestly expect that to be fixed—at least a little bit—with *Tenth*.
 

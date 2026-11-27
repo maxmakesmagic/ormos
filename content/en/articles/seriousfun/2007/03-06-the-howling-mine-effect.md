@@ -1080,7 +1080,9 @@ And there's no guarantee that their goodies won't kill your chance. Try this!
 
 And here is where, perhaps, the people you've played with and the people that I've played with differ. Because let's talk about *The Howling Mine Effect*. 
 
-![howling_mine](https://i.ormos.uk/6b/55/6b554a50f5ea6d805e986479b2d9bc5f4f45976a0dfc1200b76d59402a8350b3.jpg)Howling Mine is the card that beginning players *love*, and it's usually their first (and most disastrous) flirtation with the politics of multiplayer. And if you're playing with a table full of relative novices, they will *adore* the Howling Mine. 
+![howling_mine](https://i.ormos.uk/6b/55/6b554a50f5ea6d805e986479b2d9bc5f4f45976a0dfc1200b76d59402a8350b3.jpg)
+
+Howling Mine is the card that beginning players *love*, and it's usually their first (and most disastrous) flirtation with the politics of multiplayer. And if you're playing with a table full of relative novices, they will *adore* the Howling Mine. 
 
 But Howling Mine goes in two styles of decks, and neither is particularly good against opponents with a decent level of experience: 
 

@@ -96,7 +96,9 @@ render_recovery:
   - Arrogant Wurm
   occurrences: 46
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a918.jpg)Advancing to day 2 requires a 4-2 record at this event, and both of the illustrious teams decided to pick up their two losses early just to make things interesting, and are now playing for their lives.
+![](http://www.wizards.com/sideboard/images/ptbos02/a918.jpg)
+
+Advancing to day 2 requires a 4-2 record at this event, and both of the illustrious teams decided to pick up their two losses early just to make things interesting, and are now playing for their lives.
 
 Team Guam (named in honor of the dearly departed Dan Clegg, who is rumored to be living in Guam) is comprised of American Eric Froehlich and two-thirds of the Dutch National team, Noah Boeken and Kamiel Cornelissen. Their opponents, Ubermensch (some sort of Kiblerersque pseudo-intellectual Nietzche reference), are Brian Kibler, Ben Rubin, and Ken Ho, all formerly of the Magic Colony.
 
@@ -106,7 +108,9 @@ The middle match was over the quickest. Kibler's deck was not at all built to ha
 
 Things went poorly for Kibler when Kamiel Syncopated his turn-3 Cephalid Looter. Kamiel then untapped and played a Think Tank, sort of a poor man's Looter, but card filtering nonetheless. The filtering made all the difference; as the game progressed, Kamiel had out three fliers and a Gifted Shieldmage Advocate to Kibler's random ground creatures. Kibler fell quickly.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a920.jpg)Kibler had a good defensive opening in the second game, with a Kirtar's Desire for Kamiel's Dreamwinder, a Syncopate for his Aven Cloudchaser, and a Fervent Denial (from the sideboard) for his Skywing Aven. But when it came time to put out his own creatures, he had nothing left. Kamiel eventually drew a couple little guys, two Psionic Gifts, and a Battle Screech, and Kibler was left holding a bunch of tricks like Embolden and Aven Warcraft. It wasn't even close.
+![](http://www.wizards.com/sideboard/images/ptbos02/a920.jpg)
+
+Kibler had a good defensive opening in the second game, with a Kirtar's Desire for Kamiel's Dreamwinder, a Syncopate for his Aven Cloudchaser, and a Fervent Denial (from the sideboard) for his Skywing Aven. But when it came time to put out his own creatures, he had nothing left. Kamiel eventually drew a couple little guys, two Psionic Gifts, and a Battle Screech, and Kibler was left holding a bunch of tricks like Embolden and Aven Warcraft. It wasn't even close.
 
 Kamiel 2 – Kibler 0, Team Guam 1-0
 
@@ -128,7 +132,9 @@ Back in the black/blue match, Froehlich started off with a bomb – Possessed Av
 
 Froehlich 1 – Ho 1
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a919.jpg)Game 2 in the red green match came down to one player drawing good cards and the other not. Rubin put out a Krosan Archer, Brawn, and a Dwarven Strike Force and got a free one-for-zero when Noah bluffed and attacked with a Nantuko Tracer into the Archer and didn't have a combat trick to back it up.
+![](http://www.wizards.com/sideboard/images/ptbos02/a919.jpg)
+
+Game 2 in the red green match came down to one player drawing good cards and the other not. Rubin put out a Krosan Archer, Brawn, and a Dwarven Strike Force and got a free one-for-zero when Noah bluffed and attacked with a Nantuko Tracer into the Archer and didn't have a combat trick to back it up.
 
 But those weren't the good cards. Noah killed just about everything Ben had with Firebolt, Flame Burst, Violent Eruption, and Lightning Surge. Eventually a thresholded Springing Tiger came over an put Rubin, and the Ubermensch, out of their misery.
 

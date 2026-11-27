@@ -108,7 +108,9 @@ render_recovery:
   - Stioc Champion
   occurrences: 100
 ---
-![](https://i.ormos.uk/18/0f/180f5c75d8523242a8fac19a76965fd4e9c017aa64cafdb9aa240fab0b351773.jpg)Zev Gurwitz is best known as the creator of Zevatog, although he's likely better at Limited than Constructed. He went 5-1 in the draft portion of Nationals two years ago, and his only money finish at a Pro Tour was 24th at Nice, which was *Odyssey* Booster Draft. He went 3-0 in yesterday's draft portion, and drafted a deck today that has everyone talking. Call to the Grave, Visara and Starstorm highlight it, along with many first pick quality commons. So far he's gone 2-0 with it, and all that stands between him and a perfect 6-0 record in draft on the weekend is Justin Gary, a Pro Tour Champion from this season. Gary is no stranger to Nationals success, and won this tournament back in 1997. Of course, this match features a Neutral Ground player against a Your Move Games member as well.
+![](https://i.ormos.uk/18/0f/180f5c75d8523242a8fac19a76965fd4e9c017aa64cafdb9aa240fab0b351773.jpg)
+
+Zev Gurwitz is best known as the creator of Zevatog, although he's likely better at Limited than Constructed. He went 5-1 in the draft portion of Nationals two years ago, and his only money finish at a Pro Tour was 24th at Nice, which was *Odyssey* Booster Draft. He went 3-0 in yesterday's draft portion, and drafted a deck today that has everyone talking. Call to the Grave, Visara and Starstorm highlight it, along with many first pick quality commons. So far he's gone 2-0 with it, and all that stands between him and a perfect 6-0 record in draft on the weekend is Justin Gary, a Pro Tour Champion from this season. Gary is no stranger to Nationals success, and won this tournament back in 1997. Of course, this match features a Neutral Ground player against a Your Move Games member as well.
 
 ### Game 1
 
@@ -122,7 +124,9 @@ Gary- "If you never hit six lands, you ain't never castin' Visara!"
 
 ### Game 2
 
-![](https://i.ormos.uk/da/25/da2565d161b1851c9f675dd46c1503756055baf16b5fb9a3ab53463eba931282.jpg)Gurwitz had a turn two Crypt Sliver, and Gary brought out Aven Farseer. There was no turn three play for Gurwitz, and Gary attacked for one damage with his Farseer, then summoned Mistform Dreamer. Crypt Sliver offered a trade with the Dreamer but Gary didn't bite, and Gurwitz played Goblin Clearcutter. Gary's air team came over for three while Gurwitz swung back with his Clearcutter, and said go sitting back on five lands, which signaled Starstorm. Gary didn't want to take the risk, and simply attacked with his creatures, then ended his turn.
+![](https://i.ormos.uk/da/25/da2565d161b1851c9f675dd46c1503756055baf16b5fb9a3ab53463eba931282.jpg)
+
+Gurwitz had a turn two Crypt Sliver, and Gary brought out Aven Farseer. There was no turn three play for Gurwitz, and Gary attacked for one damage with his Farseer, then summoned Mistform Dreamer. Crypt Sliver offered a trade with the Dreamer but Gary didn't bite, and Gurwitz played Goblin Clearcutter. Gary's air team came over for three while Gurwitz swung back with his Clearcutter, and said go sitting back on five lands, which signaled Starstorm. Gary didn't want to take the risk, and simply attacked with his creatures, then ended his turn.
 
 Erratic Explosion targeted Mistform Dreamer, and Gary responded with Inspirit\- Spark Spray was turned over, and the 2/1 survived. Once again, Gary attacked for three in the air and ended his turn, not willing to overextend. Gurwitz swung back, this time with his Sliver and well, and played a morph. Gary's counterattack brought Gurwitz to seven life points, while Gary was at nine. He found a creature he didn't mind putting out there in Stoic Champion, and ended his turn. Gurwitz attacked with the Clearcutter and morph, and the Champion blocked the face-down creature. Vengeful Dead was discarded to reveal Putrid Raptor, and Akroma's Blessing was cycled before damage.
 

@@ -114,7 +114,9 @@ render_recovery: []
 
 **Game 2**
 
-![](https://i.ormos.uk/84/50/845049708cf0e72afdde97cbe51446cc130c80e5425aa4d71d9c49626656f013.jpg)中村はダブルマリガンの末に《平地》が2枚に《変わり谷/[Mutavault](https://web.archive.org/web/20090228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutavault)》《幽体の行列》《雲山羊のレインジャー》という手札をキープする。Adamもマリガン。
+![](https://i.ormos.uk/84/50/845049708cf0e72afdde97cbe51446cc130c80e5425aa4d71d9c49626656f013.jpg)
+
+中村はダブルマリガンの末に《平地》が2枚に《変わり谷/[Mutavault](https://web.archive.org/web/20090228000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutavault)》《幽体の行列》《雲山羊のレインジャー》という手札をキープする。Adamもマリガン。
 
 第1ターンから中村は白マナの引きにかけるか、それとも《変わり谷》でのアタックを優先するかという選択を突きつけられ、結局前者を選択する。
 

@@ -63,7 +63,9 @@ render_recovery: []
 ---
 Remember *Unglued*? If you do, don't admit to it, you are showing your age.
 
-[![](https://i.ormos.uk/56/f1/56f174a2b54a9d35f86279adb2ebeec88a8b2540faebfee4f8bc4f7c132a8a89.jpg)](/en/articles/feature/2002/11-12-worldwide-prerelease-fact-sheet)The first funny **Magic** set was introduced at Gen Con gaming convention, where they hosted a pre-release tournament for it. It was one of the most fun experiences playing **Magic** one could ask for. Mark Rosewater was there, wearing a chicken suit. Players enjoyed hours of forcing each other to fetch drinks, doing the hokey-pokey, and occasionally removing their pants. 
+[![](https://i.ormos.uk/56/f1/56f174a2b54a9d35f86279adb2ebeec88a8b2540faebfee4f8bc4f7c132a8a89.jpg)](/en/articles/feature/2002/11-12-worldwide-prerelease-fact-sheet)
+
+The first funny **Magic** set was introduced at Gen Con gaming convention, where they hosted a pre-release tournament for it. It was one of the most fun experiences playing **Magic** one could ask for. Mark Rosewater was there, wearing a chicken suit. Players enjoyed hours of forcing each other to fetch drinks, doing the hokey-pokey, and occasionally removing their pants. 
 
 Yes, I did say removing their pants. One of the creatures in *Unglued* had the “denimwalk” ability – it was unblockable as long as your opponent was wearing any clothing made out of denim. It did not take players to figure out that they can take off their jeans, announce blocking, and put them back on. Perplexed judges ruled that it was okay, as long as a player was wearing a clean pair of boxers.
 

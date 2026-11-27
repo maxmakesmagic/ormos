@@ -95,7 +95,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/cc/f0/ccf066f28be2c9f3ff4c1005c25213e595cf50560277f5f1cb1620864f97dcbc.jpg)Magic's creators put in long hours to make sure the essence of the cards leaps off the cardboard, right into your brain. The art director, for example, chooses art for maximum impact—a way to get you thinking about slinging spells in *Ravnica* despite only having a couple square centimeters to work with.
+![](https://i.ormos.uk/cc/f0/ccf066f28be2c9f3ff4c1005c25213e595cf50560277f5f1cb1620864f97dcbc.jpg)
+
+Magic's creators put in long hours to make sure the essence of the cards leaps off the cardboard, right into your brain. The art director, for example, chooses art for maximum impact—a way to get you thinking about slinging spells in *Ravnica* despite only having a couple square centimeters to work with.
 
 One of the best parts of any **Magic** art director's day is when the final art for a card comes in. We like to show off a lot of sketches in **Magic** Arcana so that you can follow along in the step-by-step creative process, but today it's all about straight-up eye candy. We'd like *you* to feel some of the impact Jeremy Jarvis feels when that final art appears out of the FedEx bubble-wrap.
 

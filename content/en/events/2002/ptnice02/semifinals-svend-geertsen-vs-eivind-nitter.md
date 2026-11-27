@@ -101,7 +101,9 @@ render_recovery:
   - Rancid Earth
   occurrences: 104
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a675.jpg)Svend Geertsen burst onto the Pro Tour scene six years ago with his top 8 finish at the World Championships. Since then, he's made two other top 8s, but the last one was at PTLA '99. Since then, he's come back sporadically, making a number of impressive runs at Pro Tours only to fall just short of the top 8, but yesterday the frustration ended as he finally made it back to the Sunday stage.
+![](http://www.wizards.com/sideboard/images/ptnice02/a675.jpg)
+
+Svend Geertsen burst onto the Pro Tour scene six years ago with his top 8 finish at the World Championships. Since then, he's made two other top 8s, but the last one was at PTLA '99. Since then, he's come back sporadically, making a number of impressive runs at Pro Tours only to fall just short of the top 8, but yesterday the frustration ended as he finally made it back to the Sunday stage.
 
 Svend's opponent is Norway's enigmatic European Champion and character Eivind Nitter. The twenty three year old, appearing in his first Pro Tour top 8 has put up more than a couple of strong finishes, but like Svend, he'd come close too many times, with this weekend signaling the end of a lot of frustration. Now, these two European giants would face off for the right to go to the finals of Pro Tour Nice.
 
@@ -129,7 +131,9 @@ Eivind's creatures took the score to 19-14 before he cast both Diligent Farmhand
 
 Eivind's next attack saw the Dane almost make a mistake, going to block the Centaur with the Sage and Scout before realizing that the Skyshooter would create a 2 for 1, with the pre-emptive realization sending Eivind into hysterics. Svend took the three then untapped and Wasted the Centaur Away, but Muscle Burst saved it, leaving Eivind with no cards in hand. The Norwegian sacrificed the Farmand to thin out his deck and drew, with the ensuing attack taking Geertsen to eight before ending his turn without a spell being cast.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a676.jpg)Svend's turn was the antithesis, casting one of the best spells in the format. Laquata's Champion entered play and immediately changed the complexion of the game, with Svend leaving one swamp untapped to potentially regenerate it. The Centaur attacked with the Champion blocking, but much to Svend's displeasure, Eivind had top decked Sonic Seizure, killing the champion. Unfortunately that was the only good news. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a676.jpg)
+
+Svend's turn was the antithesis, casting one of the best spells in the format. Laquata's Champion entered play and immediately changed the complexion of the game, with Svend leaving one swamp untapped to potentially regenerate it. The Centaur attacked with the Champion blocking, but much to Svend's displeasure, Eivind had top decked Sonic Seizure, killing the champion. Unfortunately that was the only good news. 
 
 Svend drew, cast Morgue Theft and recast the Champion. Then, a turn later, he tapped six mana for Scrivener, and when table judge Paul Barclay pointed out that Geertsen should take a point of mana burn, Eivind asked if he could play both lands in his hand and conceded.
 
@@ -165,7 +169,9 @@ Svend elected to draw first, causing Eivind to fist pump and do a little dance. 
 
 The two, chatting away while waiting for the go ahead, lowered the volume until Eivind began moaning with a smile about not playing a Mongrel 'not even in this game', finally playing Cartographer on turn three. Svend played a third land and thought for some time before playing Coral Net on the 2/2. This time, Eivind let it go and went to draw.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a669.jpg)Playing his first Mountain, Eivind cast Krosan Constrictor, and when Svend looked up from his concentration, he found Nitter playing and growling with a Beast token. Svend failed to play a fourth land, while Eivind had no problems with number five, and the youngster cast Squirrel's Nest, leaving Geertsen only to shake his head. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a669.jpg)
+
+Playing his first Mountain, Eivind cast Krosan Constrictor, and when Svend looked up from his concentration, he found Nitter playing and growling with a Beast token. Svend failed to play a fourth land, while Eivind had no problems with number five, and the youngster cast Squirrel's Nest, leaving Geertsen only to shake his head. 
 
 Svend drew, played a second Swamp and slammed a Rancid Earth on the enchanted Forest, leaving one Squirrel behind from the destroyed Nest. Eivind played a fifth land and after Svend played a Cephalid Sage that could only block the Squirrel, Beast Attack hit the table, with the Constrictor and Beast taking Svend to nine life.
 

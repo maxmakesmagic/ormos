@@ -63,7 +63,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/95/a7/95a7760fdd1be2f7411294aa773c791ff6db3d9125e2b067415d617d33d231ab.png)This 143-card, black-bordered set features the mechanics of the *Invasion* block and cycles of Familiars, Battlemages, and “Dragon Lairs.”
+![](https://i.ormos.uk/95/a7/95a7760fdd1be2f7411294aa773c791ff6db3d9125e2b067415d617d33d231ab.png)
+
+This 143-card, black-bordered set features the mechanics of the *Invasion* block and cycles of Familiars, Battlemages, and “Dragon Lairs.”
 
 **Set Name:** *Planeshift*  
 **Block:** Set 2 of 3 of the *Invasion* Block  

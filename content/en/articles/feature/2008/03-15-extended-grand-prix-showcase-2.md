@@ -73,11 +73,15 @@ We've dispatched some of our top reporters across the world to bring you all the
 
 ### [Grand Prix–Vienna](/en/events/2008/gpvie08/polish-level-blue-polishes-off-dredge)
 
-![](https://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/2008/gp_vienna_fp.jpg)Tim Willoughby, Tobias Henke, Richard Hagon, and Ben Coleman will be on location to bring you inside the second European Grand Prix of the season.
+![](https://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/2008/gp_vienna_fp.jpg)
+
+Tim Willoughby, Tobias Henke, Richard Hagon, and Ben Coleman will be on location to bring you inside the second European Grand Prix of the season.
 
   
   
 
 ### [Grand Prix–Philadelphia](/en/events/2008/gpphi08/gerard-fabiano-wins-grand-prixphiladelphia)
 
-![](https://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/2008/gp_philadelphia_fp.jpg)Pro Tour Historian and The Week That Was columnist Brian David-Marshall heads up the coverage team, with select video features to be provided by Evan Erwin.
+![](https://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/2008/gp_philadelphia_fp.jpg)
+
+Pro Tour Historian and The Week That Was columnist Brian David-Marshall heads up the coverage team, with select video features to be provided by Evan Erwin.

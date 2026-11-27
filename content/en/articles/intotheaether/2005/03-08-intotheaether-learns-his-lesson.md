@@ -1633,7 +1633,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/7c/84/7c84f452748892d014127408bfb3cab995291991f7d779556d187f42f50aeb78.jpg)Greetings! I hope you all had fun this weekend at the [*Betrayers of Kamigawa* Release Weekend](/en/articles/intotheaether/2005/02-22-betrayers-ink-eyes-and-wotc-elf). I know that I... 
+![](https://i.ormos.uk/7c/84/7c84f452748892d014127408bfb3cab995291991f7d779556d187f42f50aeb78.jpg)
+
+Greetings! I hope you all had fun this weekend at the [*Betrayers of Kamigawa* Release Weekend](/en/articles/intotheaether/2005/02-22-betrayers-ink-eyes-and-wotc-elf). I know that I... 
 
 Well. Actually...
 
@@ -1687,7 +1689,9 @@ It was a relatively easy deck to play, and I had the almighty Jitte, so I clearl
 
 Why the poor performance? Would you believe it was Angelina Jolie's fault? 
 
-![](https://i.ormos.uk/e2/15/e215a569bb50d0c667ab00baede3b4231b2d782163276a5658e994f3f9c39dfd.jpg)It's a little known fact, but when I play in the evenings I'm usually camped out on my wireless laptop in front of the television. My wife is a reality-tv junkie (if you knew my wife--all three Master's degress of her--you would find this hilarious), so she relaxes watching shows like “The Bachelor,” “America's Next Top Model,” “What Not To Wear,” and “Extreme Makeover” while I battle Japanese-inspired Spirits with my legendary Snakefolk. Basically she watches her shows and ignores my sporadic whoops of triumph or gasps of defeat, and I never--ever--look up at the tv screen. It's a peculiar balance that allows us to pretend we're spending time with one another while rubbing knees. 
+![](https://i.ormos.uk/e2/15/e215a569bb50d0c667ab00baede3b4231b2d782163276a5658e994f3f9c39dfd.jpg)
+
+It's a little known fact, but when I play in the evenings I'm usually camped out on my wireless laptop in front of the television. My wife is a reality-tv junkie (if you knew my wife--all three Master's degress of her--you would find this hilarious), so she relaxes watching shows like “The Bachelor,” “America's Next Top Model,” “What Not To Wear,” and “Extreme Makeover” while I battle Japanese-inspired Spirits with my legendary Snakefolk. Basically she watches her shows and ignores my sporadic whoops of triumph or gasps of defeat, and I never--ever--look up at the tv screen. It's a peculiar balance that allows us to pretend we're spending time with one another while rubbing knees. 
 
 Anyway, Friday night she decided to forgo her trashy tv and rent a movie: “Sky Captain and the World of Tomorrow.” Now, this is by no means a *good* movie, but it is a movie with fairly stunning visuals. I found myself caught up in the action, watching the movie half-time while I played. 
 

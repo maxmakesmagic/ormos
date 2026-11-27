@@ -112,7 +112,9 @@ render_recovery:
   - Worship
   occurrences: 113
 ---
-![](http://www.wizards.com/sideboard/images/gpno03/a975.jpg)The eternal question: Oath versus.....Ghoul Burst? It's the battle of the deck that won PT Houston versus the deck that had an awful showing at PT Houston. Ben Stark himself piloted the Academy Rector based deck to a 33rd place finish at that tournament, and he swears that the deck performs better than its history would suggest. Matt won the die roll and chose to play first.
+![](http://www.wizards.com/sideboard/images/gpno03/a975.jpg)
+
+The eternal question: Oath versus.....Ghoul Burst? It's the battle of the deck that won PT Houston versus the deck that had an awful showing at PT Houston. Ben Stark himself piloted the Academy Rector based deck to a 33rd place finish at that tournament, and he swears that the deck performs better than its history would suggest. Matt won the die roll and chose to play first.
 
 ### Game 1
 
@@ -133,7 +135,9 @@ Ben came out full throttle next turn, summoning Nantuko Husk and Llanowar Elves 
 Matt: "So you've got a green floating, right?"  
  Ben: (Smiling) "I was hoping to be the Trickster Mage. I hope that one point of mana burn doesn't come back to bite me."
 
-![](https://i.ormos.uk/34/65/34658eaa5861439db4882254f9ca0df4655e564be2967a93048048295c7a9f98.jpg)Stark kept on drawing lands, emptying his hand to play both Phyrexian Ghoul and Nantuko Husk, against a full grip including Moment's Peace and several card drawers. Ben's second Brainstorm of the game revealed the choices of Cabal Therapy, Birds of Paradise and flotsam, none of which would help him over the next few turns.
+![](https://i.ormos.uk/34/65/34658eaa5861439db4882254f9ca0df4655e564be2967a93048048295c7a9f98.jpg)
+
+Stark kept on drawing lands, emptying his hand to play both Phyrexian Ghoul and Nantuko Husk, against a full grip including Moment's Peace and several card drawers. Ben's second Brainstorm of the game revealed the choices of Cabal Therapy, Birds of Paradise and flotsam, none of which would help him over the next few turns.
 
 Pernicious Deed wiped the board clear of zombies, and then the control player cast Intuition to nab a Counterspell. Ben used Windswept Heath to get rid of the his upcoming useless cards, and promptly drew two straight lands. He attempted to cast his Therapy, but it was countered—as Ben extended his hand to concede, Matt flashed me a hand of double Forbid and Mana Leak.
 

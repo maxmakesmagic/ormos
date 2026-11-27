@@ -94,7 +94,9 @@ render_recovery:
   - Pemmin's Aura
   occurrences: 56
 ---
-![](http://www.wizards.com/sideboard/images/gppit03/a960.jpg)2020 is the second highest ranked team in the world, but "we kind of sucked at the last two Team events," Elijah comments. Their team name comes from the players' average Limited rating when they formed the team, but according to Elijah, their ratings have fallen a bit since the team was formed.
+![](http://www.wizards.com/sideboard/images/gppit03/a960.jpg)
+
+2020 is the second highest ranked team in the world, but "we kind of sucked at the last two Team events," Elijah comments. Their team name comes from the players' average Limited rating when they formed the team, but according to Elijah, their ratings have fallen a bit since the team was formed.
 
 The Fun Police are named after a mean store owner that the players used to know. 
 
@@ -118,7 +120,9 @@ Quite a few creatures later, Steve maintained control of the game. But John's de
 
 Mike swung with Macetail Hystrodon and another morph creature, which took Elijah down to twelve. He played out the last cards in his hand in an effort to stop the bleeding, but Goblins Turncoat and Machinist are not nearly enough to keep up. 
 
-![](http://www.wizards.com/sideboard/images/gppit03/a958.jpg)When Mike attacked with a morph creature and Elijah tried to kill it, Mike flipped over Warbreak Trumpeter. Five Goblins in play wasn't terrible for Mike, but Elijah shook his head and shuffled his cards around as he tried his best to deal with it. He cast Erratic Explosion on Mike's Goblin Machinist, which was activated in response, but Elijah flipped over three mountains and a Skirk Drill Sergeant. He was obviously bothered by this turn of events. 
+![](http://www.wizards.com/sideboard/images/gppit03/a958.jpg)
+
+When Mike attacked with a morph creature and Elijah tried to kill it, Mike flipped over Warbreak Trumpeter. Five Goblins in play wasn't terrible for Mike, but Elijah shook his head and shuffled his cards around as he tried his best to deal with it. He cast Erratic Explosion on Mike's Goblin Machinist, which was activated in response, but Elijah flipped over three mountains and a Skirk Drill Sergeant. He was obviously bothered by this turn of events. 
 
 Elijah played a Lingering Death on the Machinist, which Mike kept activating in order to set up some better draws for the next few turns. He did turn over quite a few lands, but couldn't find enough creatures to get back into the game.
 
@@ -138,7 +142,9 @@ Goblin Turncoat and Warbreak Trumpeter are the first creatures in play this game
 
 Mike runs out of creatures quickly, but then played a Berserk Murlodont in order to stop Elijah's deck from getting out of hand. Erratic Explosion found a Savage Firecat to kill the Murlodont quickly, and Elijah maintained near-complete control of the board for a few minutes.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a959.jpg)Until Mike played Krosan Tusker, as huge beasts tend to give black/red decks major problems. Mike ends up on the winning end of a combat phase, as he unmorphed Battering Craghorn to try and kill Elijah's remaining Goblin Turncoat. Elijah played a bunch of smaller creatures, and Mike just couldn't keep up. Elijah's horde quickly overwhelmed Mike's creatures, even though they were much larger.
+![](http://www.wizards.com/sideboard/images/gppit03/a959.jpg)
+
+Until Mike played Krosan Tusker, as huge beasts tend to give black/red decks major problems. Mike ends up on the winning end of a combat phase, as he unmorphed Battering Craghorn to try and kill Elijah's remaining Goblin Turncoat. Elijah played a bunch of smaller creatures, and Mike just couldn't keep up. Elijah's horde quickly overwhelmed Mike's creatures, even though they were much larger.
 
 In the third game of the match at the end of the table, John's Serpentine Basilisk faced down Steve's Krosan Vorine. Steve played a Barkhide Mauler, but John's Elvish Aberration made an appearance and was swiftly enchanted with Dragon Wings. 
 

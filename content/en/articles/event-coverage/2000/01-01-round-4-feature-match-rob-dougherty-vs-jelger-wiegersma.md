@@ -44,7 +44,9 @@ archive_source:
   sha256: 24efbc16f557d1aae734450ba1502f21708e74bfb2b4790d13d4fbcb7d85b3f2
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/973.jpg)Rob is one of only five North American players here this weekend, along with his Your Move Games team-mates - Chad Ellis and Darwin Kastle - and Ryan Fuller who is originally from Canada, but is now resident in the Netherlands. This makes him a country-man of Rob's opponent, Jelger Wiegersma. Rob is way up there in the Pro Player of the Year race right now, while Jelger is best known for his tenth place finish at Pro Tour Chicago last year. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/973.jpg)
+
+Rob is one of only five North American players here this weekend, along with his Your Move Games team-mates - Chad Ellis and Darwin Kastle - and Ryan Fuller who is originally from Canada, but is now resident in the Netherlands. This makes him a country-man of Rob's opponent, Jelger Wiegersma. Rob is way up there in the Pro Player of the Year race right now, while Jelger is best known for his tenth place finish at Pro Tour Chicago last year. 
 
 **Game One** 
 
@@ -64,7 +66,9 @@ Despite going second, Rob managed to accelerate his mana base considerably with 
 
 Rob's two extra mana meant that on turn four he was able to play a Serpentine Kavu and give it Haste. Blows were exchanged, but the Kavu seemed to be winning the race as Rob held back his Quirion Explorers to block the Rogue Kavu and an Urborg Phantom Wiegersma had summoned, and reduced Jelger to twelve with the 4/4 creature. The Serpentine Kavu was destroyed next turn however, by a Shivan Emissary, leaving the American with only a Crosis's Attendant for offence. With five lands in play it looked like the Quirion Explorers were a little redundant. This turned out not be the case as they facilitated him in summoning a Sparkcaster, and suddenly Dougherty's offence looked pretty threatening. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/975.jpg)In a match-up like this though, such an advantage rarely lasts for long, as Jelger had the Terminate for the Sparkcaster. A Shivan Emissary and a Scorching Lava were sufficient to kill the Attendant however. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/975.jpg)
+
+In a match-up like this though, such an advantage rarely lasts for long, as Jelger had the Terminate for the Sparkcaster. A Shivan Emissary and a Scorching Lava were sufficient to kill the Attendant however. 
 
 With Jelger on eight, and Rob on nine, Rob attempted to remove Jelger's only blocker - a Shivan Zombie - with a Scorching Lava. Jelger took this opportunity to cast Rushing River, returning the Zombie and Rob's Kavu Aggressor to their respective hands. 
 
@@ -78,7 +82,9 @@ Jelger stuck on three land for a while - but this didn't stop him from playing a
 
 The board was cleared on turn five as Rob played Soul Burn on the Caldera Kavu, and followed it up right away with a Hasty Serpentine Kavu. The Kavu was killed by a great sideboard card for this match-up - Slay, which allowed Jelger to kill the Kavu and draw a card. He then started to attack with a Volcanic Imp, and after that was destroyed by Canopy Surge, with a Rogue Kavu. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/974.jpg)Rob was far from finished though - swinging the momentum once more with a Thornscape Battlemage. However here it got nasty for Rob as the Battlemage met with an Agonizing Demise and he was forced to cast Aggressive Urge randomly on Jelger's Shivan Zombie to try and draw an answer. For a brief moment it looked like the card he drew - Crosis' Attendant, might be sufficient to the task, but Jelger had Tahngarth again, and unlike in the first game, Rob was unable to deal with it immediately. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/974.jpg)
+
+Rob was far from finished though - swinging the momentum once more with a Thornscape Battlemage. However here it got nasty for Rob as the Battlemage met with an Agonizing Demise and he was forced to cast Aggressive Urge randomly on Jelger's Shivan Zombie to try and draw an answer. For a brief moment it looked like the card he drew - Crosis' Attendant, might be sufficient to the task, but Jelger had Tahngarth again, and unlike in the first game, Rob was unable to deal with it immediately. 
 
 Jelger's next attack dropped Rob to two, despite him chump-blocking the Tahngarth, and he was forced to concede on the following turn. 
 

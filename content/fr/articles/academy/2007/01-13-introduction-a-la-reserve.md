@@ -93,7 +93,9 @@ render_recovery:
 ---
 * * *
 
-![Sleight_of_Hand](https://i.ormos.uk/e4/bc/e4bc53b0fdb9bb8e3dacc1671eea4ebe777bea2e4126f25f456b1e15b77fb950.jpg)Salut tout le monde, et bienvenue à Magic Academy ! Cette semaine, nous allons étudier un aspect de Magic en format Construit appelé la *réserve*, ou 'sideboard'.
+![Sleight_of_Hand](https://i.ormos.uk/e4/bc/e4bc53b0fdb9bb8e3dacc1671eea4ebe777bea2e4126f25f456b1e15b77fb950.jpg)
+
+Salut tout le monde, et bienvenue à Magic Academy ! Cette semaine, nous allons étudier un aspect de Magic en format Construit appelé la *réserve*, ou 'sideboard'.
 
 Un match de Magic en tournoi se gagne en remportant deux parties sur les trois, et les decks de tournoi doivent contenir 60 cartes au minimum. En plus, une réserve de 15 cartes est autorisée. Après la première et la deuxième partie, un joueur peut échanger le nombre de cartes de son choix de son deck principal contre le même nombre de cartes de sa réserve.
 
@@ -111,7 +113,9 @@ Il y a trois manières différentes d'aborder la constitution de votre réserve 
 
 **Contre (presque) tous les decks :** Rappelez-vous que vous ne piochez pas dans votre réserve uniquement contre le deck de l'adversaire dans sa première partie. Lui aussi fait de même et son deck sera à présent modifié. Votre cible, c'est ce deck modifié, et pas le deck d'origine.
 
-![](https://i.ormos.uk/a2/74/a274aa0b2426535dda3765ae3882537136e744c4bafe02d5f869217df0d1ce01.jpg)Parfois, quel que soit le jeu adverse, vous pouvez anticiper certaines modifications et ajuster la composition de votre deck en fonction de vos instincts. Prenons par exemple un deck Combo fragile, qui nécessite la mise en jeu d'un certain enchantement. En partie 1, cette stratégie pourrait être viable : il est peu probable que vos adversaires décident de jouer l'interruption contre ce deck (Naturalisation et Coercition) et risquent par conséquent d'avoir des cartes inférieures contre l'environnement général. Mais après un échange avec la réserve, vous devriez pouvoir anticiper que *tout le monde* aura une réponse à cette stratégie. 
+![](https://i.ormos.uk/a2/74/a274aa0b2426535dda3765ae3882537136e744c4bafe02d5f869217df0d1ce01.jpg)
+
+Parfois, quel que soit le jeu adverse, vous pouvez anticiper certaines modifications et ajuster la composition de votre deck en fonction de vos instincts. Prenons par exemple un deck Combo fragile, qui nécessite la mise en jeu d'un certain enchantement. En partie 1, cette stratégie pourrait être viable : il est peu probable que vos adversaires décident de jouer l'interruption contre ce deck (Naturalisation et Coercition) et risquent par conséquent d'avoir des cartes inférieures contre l'environnement général. Mais après un échange avec la réserve, vous devriez pouvoir anticiper que *tout le monde* aura une réponse à cette stratégie. 
 
 Une bonne approche est de changer complètement de stratégie dans la réserve (par exemple, retirer la combo fragile et importer une nouvelle stratégie), ou encore, de rendre votre combo plus robuste en général (en échangeant des éléments de combo contre 4 Coercitions pour éliminer toute interruption). C'est ce qu'on appelle souvent une réserve de *transformation*.
 
@@ -123,7 +127,9 @@ Quels facteurs devez-vous prendre en compte quand vous construisez une réserve 
 
 **La nécessité** : *Quelles cartes sont les plus importantes à avoir ?*
 
-![Patriarchs_Desire](https://i.ormos.uk/89/93/899342a27e8ef6cb9a6ba22c33c35e598047966e101239afd5b34d970ac6bc9b.jpg)En règle générale, vous voudrez concentrer votre réserve sur les stratégies contre lesquelles vous avez le plus besoin d'aide. Si vous estimez que votre pourcentage naturel de victoire sur une stratégie spécifique est uniquement de 30%, c'est un champ qu'il faut améliorer. En revanche, si vous êtes déjà à 70%, c'est largement suffisant.
+![Patriarchs_Desire](https://i.ormos.uk/89/93/899342a27e8ef6cb9a6ba22c33c35e598047966e101239afd5b34d970ac6bc9b.jpg)
+
+En règle générale, vous voudrez concentrer votre réserve sur les stratégies contre lesquelles vous avez le plus besoin d'aide. Si vous estimez que votre pourcentage naturel de victoire sur une stratégie spécifique est uniquement de 30%, c'est un champ qu'il faut améliorer. En revanche, si vous êtes déjà à 70%, c'est largement suffisant.
 
 Bien entendu, vous voulez aussi de la place pour des cartes qui vous assurent de garder la même qualité de jeu dans les stratégies où vous êtes déjà fort. Cependant, n'oubliez jamais que dans un tournoi, un match se gagne en remportant deux parties sur trois. Si votre deck est déjà naturellement efficace contre un autre, il y a de fortes chances qu'il gagne la première partie. Dans ce cas, il vous suffit d'en gagner une deuxième pour remporter le match. Vous pouvez donc vous permettre d'avoir un pourcentage de victoire un peu inférieur. 
 
@@ -133,7 +139,9 @@ Une autre note concernant la nécessité : utilisez votre réserve pour répondr
 
 **Puissance :** *Quelles cartes sont les plus puissantes ?*
 
-![](https://i.ormos.uk/76/78/76781c54a22497d7652d530a08fb8064b27447246d3ee21ec3927892f06d644c.jpg)Pendant longtemps, je n'ai pas compris pourquoi des gens mettent des cartes comme le Désenchantement ou la Terreur dans leur réserve. Bien sûr, elles sont peut-être meilleures contre certaines stratégies que d'autres, voir même être franchement intéressantes... *mais l'important pour moi, c'est que les cartes de ma réserve fassent mal quand elles sont jouées*. Une Mutation d'aura, bien sûr ! Mais un Désenchantement ? Est-ce qu'un échange carte contre care (une des miennes contre une de l'adversaire) est vraiment méchant au point d'avoir sa place dans une réserve ? Bon, je peux comprendre que dans certains cas, il vaut mieux jouer la carte la plus versatile, mais je ne crois pas faire erreur avec ma philosophie générale.
+![](https://i.ormos.uk/76/78/76781c54a22497d7652d530a08fb8064b27447246d3ee21ec3927892f06d644c.jpg)
+
+Pendant longtemps, je n'ai pas compris pourquoi des gens mettent des cartes comme le Désenchantement ou la Terreur dans leur réserve. Bien sûr, elles sont peut-être meilleures contre certaines stratégies que d'autres, voir même être franchement intéressantes... *mais l'important pour moi, c'est que les cartes de ma réserve fassent mal quand elles sont jouées*. Une Mutation d'aura, bien sûr ! Mais un Désenchantement ? Est-ce qu'un échange carte contre care (une des miennes contre une de l'adversaire) est vraiment méchant au point d'avoir sa place dans une réserve ? Bon, je peux comprendre que dans certains cas, il vaut mieux jouer la carte la plus versatile, mais je ne crois pas faire erreur avec ma philosophie générale.
 
 Avoir une carte comme Péril dans votre deck principal serait idiot. Dans la majorité des cas, c'est une carte qui serait complètement inutile. Cependant, dans quelques cas, elle a des effets dévastateurs.
 
@@ -147,7 +155,9 @@ Il est parfois possible de concevoir un plan de réserve - parfois avec une cart
 
 Lors des finales des Championnats du Monde 2006, Makihito Mihara a vaincu Ryo Ogura 3-0 dans un match où, j'en suis sûr, Ogura avait pensé avoir le dessus au début du tournoi. Cependant, dans la deuxième et la troisième partie, le deck Contrôle d'Ogura, même avec sa réserve, n'avait aucune défense contre le plan de deck Combo de terrains de stockage (Bassins calciformes) et de Gigatorpeur, générant une énorme quantité de mana et engageant tous les terrains d'Ogura.
 
-![](https://i.ormos.uk/a4/29/a4292eac7856b828472e43c9758e24d9a61e451b08f04acfb53c8fc7d87873ee.jpg)Comme carte de réserve, Bassins calciformes ne paraît pas très puissante à elle seule. Mais dans une *stratégie*, elle devient brutalement efficace.
+![](https://i.ormos.uk/a4/29/a4292eac7856b828472e43c9758e24d9a61e451b08f04acfb53c8fc7d87873ee.jpg)
+
+Comme carte de réserve, Bassins calciformes ne paraît pas très puissante à elle seule. Mais dans une *stratégie*, elle devient brutalement efficace.
 
 Si vous voulez un autre exemple, au dernier Pro Tour - Charleston, j'ai joué un deck GWu (vert et blanc avec un soupçon de bleu) Éblouissement de subjugation. J'étais particulièrement inquiet à l'idée de me retrouver face à un miroir. Tout le monde savait que le tournoi se limitait à l'Éblouissement de subjugation : trouver le sien dans son deck ou détruire celui de l'adversaire. Mais en fait, j'ai réalisé que la plupart des decks Éblouissement ne pouvaient pas détruire de créatures. Ayant cela en tête, ainsi que 4 Cordes d'adjuration dans ma réserve, il m'a suffi d'ajouter un Archonte brûlant pour me donner l'avantage, quel que soit le nombre de cartes de retrait que mon adversaire me lancerait.
 
@@ -189,7 +199,9 @@ Grâce aux précepteurs, prendre une carte en un exemplaire équivalait à en av
 
 **Espace** : *Quelles sont les cartes auxquelles je peux réserver de la place ?*
 
-![Heavy_Fog](https://i.ormos.uk/d4/cc/d4ccbc44debb0a8caf15b7ef0fb1272f665168fa2ebac56f98c6b98c39e262c5.jpg)La notion d'*espace* de la réserve est souvent ignorée, même par des joueurs de tournoi chevronnés.
+![Heavy_Fog](https://i.ormos.uk/d4/cc/d4ccbc44debb0a8caf15b7ef0fb1272f665168fa2ebac56f98c6b98c39e262c5.jpg)
+
+La notion d'*espace* de la réserve est souvent ignorée, même par des joueurs de tournoi chevronnés.
 
 L'espace est gouverné par deux facteurs : la densité naturelle du deck et le deck adverse.
 
@@ -203,7 +215,9 @@ Certains joueurs ajoutent des cartes à leur réserve (disons 4 Périls) sans r�
 
 Parfois, dépasser ces limites en vaut la peine si les cartes auxquelles vous laissez la place sont assez puissantes, mais les indices naturels de votre deck sont toujours des règles à suivre pour déterminer la quantité de cartes dont vous avez besoin pour u archétype ou un deck particulier. 
 
-![Master_Warcraft](https://i.ormos.uk/99/27/9927ff62c2725591032fa3df6a9c609b4e9a7fb076a8955cc2278241f4d26712.jpg)Un bon moyen de se prépare à un tournoi et de prévoir à l'avance vos plans de réserve. Que pouvez-vous échanger dans tous les cas que vous pouvez anticiper (même ceux qui ne représentent qu'une fraction du metagame) ? Il est plus facile de se poser cette question chez vous que pendant les deux minutes séparant deux parties d'un match de tournoi. C'est aussi un bon moyen d'identifier les cartes qui ne sont pas si puissantes que ça. Croyez-le ou non, beaucoup de joueurs de tournoi ne le font pas parce qu'ils pensent que c'est du travail inutile. Pourtant, je me suis rendu compte moi-même un jour, en plein tournoi, que j'avais dans ma réserve une carte totalement inutile parce que je n'avais pas l'espace de l'importer dans mon deck (mon deck aurait été moins bon si je lui retirais une carte) dans le cas spécifique pour lequel je l'avais prévue.
+![Master_Warcraft](https://i.ormos.uk/99/27/9927ff62c2725591032fa3df6a9c609b4e9a7fb076a8955cc2278241f4d26712.jpg)
+
+Un bon moyen de se prépare à un tournoi et de prévoir à l'avance vos plans de réserve. Que pouvez-vous échanger dans tous les cas que vous pouvez anticiper (même ceux qui ne représentent qu'une fraction du metagame) ? Il est plus facile de se poser cette question chez vous que pendant les deux minutes séparant deux parties d'un match de tournoi. C'est aussi un bon moyen d'identifier les cartes qui ne sont pas si puissantes que ça. Croyez-le ou non, beaucoup de joueurs de tournoi ne le font pas parce qu'ils pensent que c'est du travail inutile. Pourtant, je me suis rendu compte moi-même un jour, en plein tournoi, que j'avais dans ma réserve une carte totalement inutile parce que je n'avais pas l'espace de l'importer dans mon deck (mon deck aurait été moins bon si je lui retirais une carte) dans le cas spécifique pour lequel je l'avais prévue.
 
 Il est donc possible qu'en plein tournoi, votre plan de réserve ne fonctionne pas, ou que vous affrontiez un deck auquel vous n'aviez pas songé ou une version que vous n'aviez pas anticipée. Vous aurez toujours à prendre des décisions de dernière minute, mais comprendre votre deck et prendre autant que possible des décisions à l'avance, vous permet d'augmenter vos chances de victoire.
 

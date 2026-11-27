@@ -110,7 +110,9 @@ render_recovery:
   - Worship
   occurrences: 75
 ---
-![](https://i.ormos.uk/90/74/907469e41a3c4e10d9d4943fb8d08018e8fab3a2a987ee92c79deffb9db6b6af.jpg)Courtney's Boys went head to head in the third round of the Chicago Masters—Gary Wise, sporting the unexpected Beasts deck took on Neil Reeves, who was running Psychatog. Representing team namesake Courtney Maher at the table was her father-in-law, Robert Sr.
+![](https://i.ormos.uk/90/74/907469e41a3c4e10d9d4943fb8d08018e8fab3a2a987ee92c79deffb9db6b6af.jpg)
+
+Courtney's Boys went head to head in the third round of the Chicago Masters—Gary Wise, sporting the unexpected Beasts deck took on Neil Reeves, who was running Psychatog. Representing team namesake Courtney Maher at the table was her father-in-law, Robert Sr.
 
 Mr. Maher asked that the match be played as a single game in the interest of time, but the competitors had other ideas, and decided to do it the old-fashioned way, best 2 of 3.
 

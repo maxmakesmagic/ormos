@@ -109,7 +109,9 @@ What will happen after that? It depends on what I hear. If the format looks good
 
 ### Two-Heading For Glory
 
-![](https://i.ormos.uk/e7/3b/e73b659f51491ed3fcb63d4112ec7f6814fa1ced3360a2f151fd68856d429bca.jpg)My brother-in-law Paul and I decided to head into Minneapolis for the Two-Headed Giant event at the *Ravnica* Prerelease. The event was put on by The Legion, owned by Steve Port of Misty Mountain Games. This was the first Minneapolis Prerelease where Steve was unable to lead the organization; but his capable lieutenants did a fine job of keeping things organized. The sole blemish was beyond their control – a glitch in the tournament software. (Two-Headed Giant poses a unique twist on seating and matchups, since two players play the exact same game, but take up two seats on each side of the table. No doubt this will get fixed for next time.)
+![](https://i.ormos.uk/e7/3b/e73b659f51491ed3fcb63d4112ec7f6814fa1ced3360a2f151fd68856d429bca.jpg)
+
+My brother-in-law Paul and I decided to head into Minneapolis for the Two-Headed Giant event at the *Ravnica* Prerelease. The event was put on by The Legion, owned by Steve Port of Misty Mountain Games. This was the first Minneapolis Prerelease where Steve was unable to lead the organization; but his capable lieutenants did a fine job of keeping things organized. The sole blemish was beyond their control – a glitch in the tournament software. (Two-Headed Giant poses a unique twist on seating and matchups, since two players play the exact same game, but take up two seats on each side of the table. No doubt this will get fixed for next time.)
 
 The card pool Paul and I opened was good along several elements – but spectacular on none. Green, in particular, was uninspiring in either guild (Golgari or Selesnya). Here is what we played:
 

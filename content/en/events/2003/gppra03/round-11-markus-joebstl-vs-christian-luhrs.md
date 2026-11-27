@@ -72,7 +72,9 @@ render_recovery:
 ---
 These two German speaking giants of the game have bizarrely never played in the top flight of competition. Both have put in big results on the world stage, and yet through 4 years of PT Top 8's, Masters and innumerable Grand Prix, the two have never been asked to play spells in anger against one another.
 
-![](https://i.ormos.uk/8c/9e/8c9e91b35d2cb3bb00ed6ed69eee46542c0a53eaf89b78c7c646e87b84fe6ef0.jpg)During the shuffling Christian talked about his deck, saying that he thought it was light on removal, and that he had passed some excellent picks during *Legions*, including Akroma, 2 Daru Stingers etc.
+![](https://i.ormos.uk/8c/9e/8c9e91b35d2cb3bb00ed6ed69eee46542c0a53eaf89b78c7c646e87b84fe6ef0.jpg)
+
+During the shuffling Christian talked about his deck, saying that he thought it was light on removal, and that he had passed some excellent picks during *Legions*, including Akroma, 2 Daru Stingers etc.
 
 Markus won the dice roll and chose to begin...
 
@@ -92,7 +94,9 @@ Neither player even looked at his sideboard before presenting his deck for game 
 
 Markus came out quicker with a turn 2 Turncoat, but missed his crucial 3rd land drop. Meanwhile Christian developed his board with a Morph and Symbiotic Elf. Markus did find the land the next turn, and made a Morph. Christian's draw was able to capitalize on the missed land drop however, and on his turn 5, he had a Morphed Undorak, a Berserk Murlodont and a Symbiotic Elf in play.
 
-![](https://i.ormos.uk/3d/66/3d667e1f34bb6d0f3f0ceae78be5aab2d0f90c60818e3ec141686beabb268a3a.jpg)Markus ripped land number 4 off the top and Death Pulsed the Murlodont, before attacking Christian down to 12. Christian unmorphed his Undorak and attacked, before playing a Sparksmith. Markus made a joke about his Turncoat being no good and attacking into the monsters opposite, and in the end Christian decided not to block so his Sparksmith would be better. Markus had the crown of suspicion though, and had bluffed through 2 crucial points of damage to leave Christian on 10.
+![](https://i.ormos.uk/3d/66/3d667e1f34bb6d0f3f0ceae78be5aab2d0f90c60818e3ec141686beabb268a3a.jpg)
+
+Markus ripped land number 4 off the top and Death Pulsed the Murlodont, before attacking Christian down to 12. Christian unmorphed his Undorak and attacked, before playing a Sparksmith. Markus made a joke about his Turncoat being no good and attacking into the monsters opposite, and in the end Christian decided not to block so his Sparksmith would be better. Markus had the crown of suspicion though, and had bluffed through 2 crucial points of damage to leave Christian on 10.
 
 Christian attacked for 4 with his Undorak before casting Crown of Fury on the Symbiotic Elf. Markus had 4 cards in hand, but a removal spell wouldn't let him force through damage. He attacked with his morph, Christian blocked, and smiled when Markus tapped his 6 mana, to unmorph Skittish Valesk. Markus had not missed a land drop from turn 4 onwards.
 

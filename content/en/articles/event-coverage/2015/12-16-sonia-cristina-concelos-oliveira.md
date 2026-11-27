@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/SoniaOliveira.JPG)Magic is definitely a male-dominated activity, and the European Championship this year is no exception. However, Sonia Cristina Concelos Oliveira finished seventh in the Portuguese nationals to be the only female to make the cut. "This is a big tournament, and it's my first time here. I hope I did a good job," Sonia smiles.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/SoniaOliveira.JPG)
+
+Magic is definitely a male-dominated activity, and the European Championship this year is no exception. However, Sonia Cristina Concelos Oliveira finished seventh in the Portuguese nationals to be the only female to make the cut. "This is a big tournament, and it's my first time here. I hope I did a good job," Sonia smiles.
 
 Sonia was nervous before getting to Paris, and circumstances before the second day made her even more nervous. "We were a little bit late," she says. "So we took a taxi, but the taxi driver let us off ten minutes away from the site, it was nine o'clock and we had to run. It was so bad." Fortunately, they made it to the site in time.
 

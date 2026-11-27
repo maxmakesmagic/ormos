@@ -206,7 +206,9 @@ En la esquina superior derecha está lo que llamamos el coste de maná. Es un co
 
 Para poder invocar a esta bestia, necesitamos generar dos manás rojos y seis manás incoloros. “Maná incoloro” significa que puedes usar maná de cualquier color para esa parte. 
 
-![](https://i.ormos.uk/38/b3/38b3360d09039a07d443df60dbc6a1217b63b727709b2eaf31660adc82a20839.jpg)Con eso en mente, este es un buen sitio para introducir la idea de coste de maná convertido o CMC. El coste de maná convertido es simplemente la suma de todos los costes de maná, sean del *tipo* que sean. Para averiguar el CMC del Coloso, sumaremos los 2 rojos y los 6 incoloros para un total de 8. Añade todo el maná necesario y suma. ¿Fácil, no? 
+![](https://i.ormos.uk/38/b3/38b3360d09039a07d443df60dbc6a1217b63b727709b2eaf31660adc82a20839.jpg)
+
+Con eso en mente, este es un buen sitio para introducir la idea de coste de maná convertido o CMC. El coste de maná convertido es simplemente la suma de todos los costes de maná, sean del *tipo* que sean. Para averiguar el CMC del Coloso, sumaremos los 2 rojos y los 6 incoloros para un total de 8. Añade todo el maná necesario y suma. ¿Fácil, no? 
 
 Cuando escribimos sobre maná, solemos usar letras para reflejar sobre que símbolos hablamos. He incluido una pequeña traducción para aquellos que empiezan a meterse en la comunidad. 
 
@@ -222,13 +224,17 @@ Todo esto puede parecer mucha información para empezar, pero rápidamente se co
 
 ### Línea de tipo
 
-![](https://i.ormos.uk/60/cb/60cbcf47072ddffd9ab3f3b168fa1394a2cce9e28af774b7cbb44f2e5079df8c.jpg)Este área te muestra el tipo de carta que es. Hay seis tipos de carta básica: tierras, criaturas, encantamientos, artefactos, instantáneos y conjuros. Esta línea puede contener también información más específica. Si hablamos de una carta de criatura, aquí es donde encontrarás qué tipo de criatura es (Trasgo, Ninja, etc.), por ejemplo. 
+![](https://i.ormos.uk/60/cb/60cbcf47072ddffd9ab3f3b168fa1394a2cce9e28af774b7cbb44f2e5079df8c.jpg)
+
+Este área te muestra el tipo de carta que es. Hay seis tipos de carta básica: tierras, criaturas, encantamientos, artefactos, instantáneos y conjuros. Esta línea puede contener también información más específica. Si hablamos de una carta de criatura, aquí es donde encontrarás qué tipo de criatura es (Trasgo, Ninja, etc.), por ejemplo. 
 
 Esta línea es más complicada de lo que vamos a comentar ahora, pero las buenas noticias son que a tu nivel actual, en la mayoría de casos estos es lo único que necesitas saber para jugar una partida de **Magic**. Si tienes una carta que dice que todos tus trasgos obtienen un bono, y la carta en cuestión dice que es un trasgo *en la línea de tipo*, ya sabes que está todo bien. (Cuando nos metamos más a fondo con las reglas, volveremos a hablar sobre esto y sobre cosas como subtipos, supertipos y más temas.) 
 
 ### Símbolo de la expansión
 
-![](https://i.ormos.uk/ad/fb/adfba72c7a35f30a997052f1ff0dd125eed5b8b0feb7ae60e365ba2a6c0fa42e.jpg)A la derecha de la línea de tipo está el símbolo de la expansión, que es una pieza de información que te dice en que colección en concreto fue impresa esa carta. En las últimas ampliaciones te cuenta además la frecuencia de la carta. Si el símbolo es dorado significa que la carta es rara, si es plateado es infrecuente y si es negro, que es común. 
+![](https://i.ormos.uk/ad/fb/adfba72c7a35f30a997052f1ff0dd125eed5b8b0feb7ae60e365ba2a6c0fa42e.jpg)
+
+A la derecha de la línea de tipo está el símbolo de la expansión, que es una pieza de información que te dice en que colección en concreto fue impresa esa carta. En las últimas ampliaciones te cuenta además la frecuencia de la carta. Si el símbolo es dorado significa que la carta es rara, si es plateado es infrecuente y si es negro, que es común. 
 
 Por tanto, basándonos en eso, ya sabes que nuestro amigo el Coloso viene de *Novena Edición* (el símbolo) y que es una carta rara (por el color dorado). Puedes encontrar más información sobre las cartas en el [gigantesca-pero-aún-así-fácil-de-usar base de datos de cartas (Gatherer)](https://web.archive.org/web/20061021000000/http://gatherer.wizards.com/) . Para saber más sobre las diferentes ampliaciones de **Magic**, puedes pulsar en "[Productos](https://web.archive.org/web/20080518071123/http://www.wizards.com/default.asp?x=magic/products/cardsets)" en la barra de navegación derecha de la página. Eso te llevará a la página de productos de **Magic**, en donde hay un listado con todas las ampliaciones editadas en orden cronológico y que incluye tanto el nombre como el símbolo de ampliación. Pulsa en cualquiera de las ampliaciones y obtendrás información detallada sobre esa ampliación en concreto. Esa es de hecho una de las áreas más visitadas de la página tras los artículos, por lo que es una buena sección para conocer más cosas sobre el juego. 
 
@@ -260,7 +266,9 @@ Finalmente, un poco de información adicional sobre todo esto por si quieres sab
 
 ### Información del artista
 
-![](https://i.ormos.uk/fa/af/faafcb10ded01badd0afe741005e5807c4e1ebe952733ed5b3fb2c9ce9c13c68.jpg)Justo debajo del recuadro de texto, en el lado izquierdo, está el nombre del artista que dibujó la ilustración de la carta. Las ilustraciones de **Magic** han avanzado considerablemente desde que el juego empezó en 1993 y ahora tienen algunas de las mejores imágenes de fantasía existentes. 
+![](https://i.ormos.uk/fa/af/faafcb10ded01badd0afe741005e5807c4e1ebe952733ed5b3fb2c9ce9c13c68.jpg)
+
+Justo debajo del recuadro de texto, en el lado izquierdo, está el nombre del artista que dibujó la ilustración de la carta. Las ilustraciones de **Magic** han avanzado considerablemente desde que el juego empezó en 1993 y ahora tienen algunas de las mejores imágenes de fantasía existentes. 
 
 ### Fuerza/Resistencia
 
@@ -276,7 +284,9 @@ Cuando escribo esto, las cartas de *Ola de Frío* acaban de hacerse públicas e 
 
 ### Número en la colección
 
-![](https://i.ormos.uk/f6/2d/f62d872b2e4a6a01244a78e8b9c4c3493126ed3b853fc0035b54ed1b3c072b2f.jpg)En letra pequeña y justo por encima del borde de la carta, verás un símbolo de marca registrada, algunas fechas, Wizards of the Coast y algunos números y letras más escritos. La mayoría de todo eso es información de copyright, pero a la derecha de esa línea hay lo que se conoce como número en la colección, y te dice que puesto ocupa esa carta en la ampliación, por si quieres organizar tu colección de esa forma. Para desesperación de mi mujer, suelo organizar mi colección con el método "tirar las cartas en la caja que tengas más a mano", cosa que no recomiendo. 
+![](https://i.ormos.uk/f6/2d/f62d872b2e4a6a01244a78e8b9c4c3493126ed3b853fc0035b54ed1b3c072b2f.jpg)
+
+En letra pequeña y justo por encima del borde de la carta, verás un símbolo de marca registrada, algunas fechas, Wizards of the Coast y algunos números y letras más escritos. La mayoría de todo eso es información de copyright, pero a la derecha de esa línea hay lo que se conoce como número en la colección, y te dice que puesto ocupa esa carta en la ampliación, por si quieres organizar tu colección de esa forma. Para desesperación de mi mujer, suelo organizar mi colección con el método "tirar las cartas en la caja que tengas más a mano", cosa que no recomiendo. 
 
 ### Borde de carta
 

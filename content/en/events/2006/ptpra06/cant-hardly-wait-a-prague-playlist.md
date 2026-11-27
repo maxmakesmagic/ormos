@@ -62,7 +62,9 @@ render_recovery:
 ---
 The second leg of the 2006 Pro Tour season gets under way May 5 with [Pro Tour-Prague](https://web.archive.org/web/20130630084650/http://www.wizards.com/default.asp?x=mtgcom/events/protour?x=protour/prague06/facts). I decided to steal a page from Bill Simmons, who recently did an NBA playoff preview using the music of Pearl Jam. I always find myself associating songs with **Magic** cards and this seemed like a good opportunity to shake off the standard Pro Tour preview format and trot out some songs that would be ineligible for JSS competition. 
 
-![](https://i.ormos.uk/b9/5f/b95f5ed431cefe612bd3839b25ef5cd9126a9459c93daf16b17e2a91015c13c9.jpg)The title of the preview comes from my all-time favorite band, The Replacements. I actually found myself thinking about Prague when this came up on my shuffle rotation the other day and was actually the inspiration for this format. I really cannot wait for Prague, having been looking forward to the city and format for months. 
+![](https://i.ormos.uk/b9/5f/b95f5ed431cefe612bd3839b25ef5cd9126a9459c93daf16b17e2a91015c13c9.jpg)
+
+The title of the preview comes from my all-time favorite band, The Replacements. I actually found myself thinking about Prague when this came up on my shuffle rotation the other day and was actually the inspiration for this format. I really cannot wait for Prague, having been looking forward to the city and format for months. 
 
 This event is remarkable because of its proximity to the release of *Dissension*. *Dissension* does not actually go on sale until Day One of the Pro Tour. This is the narrowest margin of time between the release of the product and its incorporation into a Limited Pro Tour since the fabled Pro Tour-Atlanta, which was also the *Mirage* Prerelease. 
 

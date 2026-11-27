@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Alex Shvartsman*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/166.JPG)European Championships head judge Thomas Bisballe is a well-known presence around the tournament scene in Europe. Having head judged 10+ large tournaments (Grand Prix, National Championships, etc.) he is one of the more experienced members of the DCI.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/166.JPG)
+
+European Championships head judge Thomas Bisballe is a well-known presence around the tournament scene in Europe. Having head judged 10+ large tournaments (Grand Prix, National Championships, etc.) he is one of the more experienced members of the DCI.
 
 30 year old Bisballe works for the Magic distributor in Denmark as an Organized Play manager. He is currently one of the very few level 4 judges in Europe.
 

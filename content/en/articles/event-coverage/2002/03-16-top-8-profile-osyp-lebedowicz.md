@@ -44,7 +44,9 @@ archive_source:
   sha256: c5f5c36cbc197e310b4bef0e7323bed0df5c42b55dee4a933dc647167b83bc67
 render_recovery: []
 ---
-![](https://i.ormos.uk/2c/a2/2ca27a689babca3a9021906dde81c0ecc40241074ff1ab738c2052ccd4f27709.jpg)Osyp Lebedowicz (pronounced Lehb-Ihd-Oh-Wits) hails from New Jersey, USA. He's a member of the New Jersey Death Squad, a team which placed several members in the second day here in Osaka. This rising star first started playing Magic during Ice Age, where he attended more casual tournaments at the Outer Limits card shop. This, of course, is the store where many Pro Tour luminaries of past and present got their start in the game, including Jon Finkel, Eric Phillips, and Dave Bachmann. 
+![](https://i.ormos.uk/2c/a2/2ca27a689babca3a9021906dde81c0ecc40241074ff1ab738c2052ccd4f27709.jpg)
+
+Osyp Lebedowicz (pronounced Lehb-Ihd-Oh-Wits) hails from New Jersey, USA. He's a member of the New Jersey Death Squad, a team which placed several members in the second day here in Osaka. This rising star first started playing Magic during Ice Age, where he attended more casual tournaments at the Outer Limits card shop. This, of course, is the store where many Pro Tour luminaries of past and present got their start in the game, including Jon Finkel, Eric Phillips, and Dave Bachmann. 
 
 Osyp decided to make the move to professional Magic during the Mercadian Masques block, and hasn't looked back since. At his first Pro Tour, in New Orleans, he tallied up an impressive 17th place finish. Although he considers himself more of a constructed player than a limited one, Osyp 'managed' to end up in 36th place in San Diego. This competition has made him a front runner in the rookie of the year race for the 2001/2002 season. 
 

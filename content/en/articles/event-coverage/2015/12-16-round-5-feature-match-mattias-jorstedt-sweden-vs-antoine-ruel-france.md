@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Jamielynn* 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/140.jpg)Mattias Jorstedt is a solid player from Sweden. He won this year's Nordic Championship, made top 16 at 2000 GP Manchester, and came fifth at the 1999 European Championship. Jorstedt thinks that Trix is the best deck right now, and since he "always plays the best deck," he's playing Trix this weekend. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/140.jpg)
+
+Mattias Jorstedt is a solid player from Sweden. He won this year's Nordic Championship, made top 16 at 2000 GP Manchester, and came fifth at the 1999 European Championship. Jorstedt thinks that Trix is the best deck right now, and since he "always plays the best deck," he's playing Trix this weekend. 
 
 From France is the opposition, Antoine Ruel. Ruel has an impressive history in team events with a first place at 2000 GP Porto, another win at 1999 Team GP Cannes, yet another win at 1999 Team Invitational in New York, and sixth at this year's Team PT New York. You may be thinking that Porto wasn't a team event. You're right; however, he sat beside his brother in the Top 8 draft and it looked a lot like a team draft. Ruel hasn't tested for today's event and was given his PandeBurst deck by fellow Frenchman Alexis Dumay. 
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 67edb9cabe8570ba23434153ab77c17d8b73e3b48f716824ae7d3dccf59cdd57
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a871.jpg)Only one match left to decide the champion of Grand Prix-Naples. On one side is an in form Dutch player – Jelger Wiegersma, with a Top 8 in Grand Prix-Heidelberg already in this format. On the other is the two-time French Champion Pierre Malherbaud, who has already completed the difficult task of knocking Kai Budde out of a Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a871.jpg)
+
+Only one match left to decide the champion of Grand Prix-Naples. On one side is an in form Dutch player – Jelger Wiegersma, with a Top 8 in Grand Prix-Heidelberg already in this format. On the other is the two-time French Champion Pierre Malherbaud, who has already completed the difficult task of knocking Kai Budde out of a Top 8.
 
 "You like the matchup?" Wiegersma asked.  
  "Yep," Malherbaud replied.  
@@ -88,7 +90,9 @@ This time Wiegersma had an [Afflict](https://web.archive.org/web/20020407000000/
 
 Malherbaud summoned a [Crashing Centaur](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crashing+Centaur) and now Wiegersma had only one nervous looking [Dreamwinder](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dreamwinder) to hold off that, a [Wild Mongrel](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) and two chattering Squirrels.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a866.jpg)Wiegersma wasn't afraid to use massive overkill as [Waste Away](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Waste+Away) sent the annoying Torturer to the graveyard and also gave Wiegersma Threshold to improve a [Seton's Scout](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seton%27s+Scout) that galloped out of his hand.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a866.jpg)
+
+Wiegersma wasn't afraid to use massive overkill as [Waste Away](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Waste+Away) sent the annoying Torturer to the graveyard and also gave Wiegersma Threshold to improve a [Seton's Scout](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seton%27s+Scout) that galloped out of his hand.
 
 Malherbaud cast [Tainted Pact](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tainted+Pact) and took the first card it turned over – a [Famished Ghoul](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Famished+Ghoul).
 

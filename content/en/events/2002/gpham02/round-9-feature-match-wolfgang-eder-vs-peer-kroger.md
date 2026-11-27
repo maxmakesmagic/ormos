@@ -80,7 +80,9 @@ render_recovery:
   - Prismatic Strands
   occurrences: 43
 ---
-![](http://www.wizards.com/sideboard/images/gpham02/925.jpg)Wolfgang Eder and Peer Kröger are both accomplished German players. Both have previous GP Top 8's and both have been on the National Team. Both safely drew into day two yesterday and are now looking to get a good start to begin Day 2 with.
+![](http://www.wizards.com/sideboard/images/gpham02/925.jpg)
+
+Wolfgang Eder and Peer Kröger are both accomplished German players. Both have previous GP Top 8's and both have been on the National Team. Both safely drew into day two yesterday and are now looking to get a good start to begin Day 2 with.
 
 Eder is running blue-black Upheaval/Infestation and has a tricky matchup against Kröger's white/green beatdown deck.
 
@@ -92,7 +94,9 @@ Eder calmly wished for a Psychotic Haze and then completed the destruction of Kr
 
 Eder 1-0 Kröger
 
-![](http://www.wizards.com/sideboard/images/gpham02/927.jpg)Kröger started strongly with Suntail Hawk and Spurnmage Advocate on turn two and then a Divine Sacrament on turn three. Unfortunately turn 4 didn't give him the fourth land for his Battle Screech and he lost a little tempo while Eder picked off his team with Blood and Edicts.
+![](http://www.wizards.com/sideboard/images/gpham02/927.jpg)
+
+Kröger started strongly with Suntail Hawk and Spurnmage Advocate on turn two and then a Divine Sacrament on turn three. Unfortunately turn 4 didn't give him the fourth land for his Battle Screech and he lost a little tempo while Eder picked off his team with Blood and Edicts.
 
 Eder caught up from a mulligan with a couple of Deep Analysis and then started attacking back with a Psychatog. Kröger had one bird token remaining and boosted that with Elephant Guide to take chunks out of Eder's life total.
 
@@ -110,7 +114,9 @@ Eder's next card was not Upheaval so it was time for a decider.
 
 Eder 1-1 Kröger
 
-![](http://www.wizards.com/sideboard/images/gpham02/926.jpg)Kröger started game 3 with a couple of weenies, Spurnmage Advocate and Suntail Hawk. No land on turns 3 and 4 so Kröger could only make another Hawk and a Tireless Tribe.
+![](http://www.wizards.com/sideboard/images/gpham02/926.jpg)
+
+Kröger started game 3 with a couple of weenies, Spurnmage Advocate and Suntail Hawk. No land on turns 3 and 4 so Kröger could only make another Hawk and a Tireless Tribe.
 
 Eder started racing with a 'Tog and then countering the Tribe by madnessing a Logic through an Infestation.
 

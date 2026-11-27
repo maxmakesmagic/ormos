@@ -95,7 +95,9 @@ render_recovery: []
 
 There are thousands of cards to choose from when building a deck, and assuming you want the tightest fit possible, you only get to have sixty cards in that deck. Not only that, but you can play up to four copies of most cards, which means you can get away with a deck that only runs fifteen different unique cards (or fewer, with basic lands accounted for) if you'd like. Considering that there are 1,872 different non–basic land cards available in Standard alone right now (plus ten basics—five snow and five nonsnow), it's a daunting task to make any deck from scratch.
 
-[![Stop_That](https://i.ormos.uk/e0/ff/e0fffd56ea941ca8b7cc5e2f65471f39b480bebbc34b2f3ff87c35914471c2c1.jpg)](https://web.archive.org/web/20070625000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Stop%2BThat)Imagine for a second that you haven't been playing **Magic** for a couple of years—or maybe that you're a first time player. Imagine further that you're given a pile of 7,488 cards (four of each Standard-legal card) and a box of basic lands and are told to build a good, solid sixty-card deck. Can you imagine how long it would take to get through all of the cards, much less find a configuration of sixty cards that would work well together? How would someone even *start* such a feat?
+[![Stop_That](https://i.ormos.uk/e0/ff/e0fffd56ea941ca8b7cc5e2f65471f39b480bebbc34b2f3ff87c35914471c2c1.jpg)](https://web.archive.org/web/20070625000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Stop%2BThat)
+
+Imagine for a second that you haven't been playing **Magic** for a couple of years—or maybe that you're a first time player. Imagine further that you're given a pile of 7,488 cards (four of each Standard-legal card) and a box of basic lands and are told to build a good, solid sixty-card deck. Can you imagine how long it would take to get through all of the cards, much less find a configuration of sixty cards that would work well together? How would someone even *start* such a feat?
 
 ### Step One: Read The Cards (Know What is Available)
 
@@ -165,7 +167,9 @@ I did just that, and here were the prices I found on the cards in question:
 [Horizon Canopy](https://web.archive.org/web/20070625000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Horizon+Canopy): 6 Tickets  
 [Scrying Sheets](https://web.archive.org/web/20070625000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scrying+Sheets): 4 Tickets
 
-![Ohran Viper with a large red X](https://i.ormos.uk/73/7c/737c17b6936b85de65c6e6f895ba2e27e1e787cc81a95b3a915f9721c052e517.jpg)This eliminated [Ohran Viper](https://web.archive.org/web/20070625000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ohran+Viper) and [Tarmogoyf](https://web.archive.org/web/20070625000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) entirely, and cast doubt on several other possibilities—unless I wanted to build around something like [Bridge from Below](https://web.archive.org/web/20070625000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bridge+from+Below), and have the rest of the deck be mostly commons and uncommons.
+![Ohran Viper with a large red X](https://i.ormos.uk/73/7c/737c17b6936b85de65c6e6f895ba2e27e1e787cc81a95b3a915f9721c052e517.jpg)
+
+This eliminated [Ohran Viper](https://web.archive.org/web/20070625000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ohran+Viper) and [Tarmogoyf](https://web.archive.org/web/20070625000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) entirely, and cast doubt on several other possibilities—unless I wanted to build around something like [Bridge from Below](https://web.archive.org/web/20070625000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bridge+from+Below), and have the rest of the deck be mostly commons and uncommons.
 
 ### Step Six: The Nuances (60 Card Limit)
 
@@ -175,7 +179,9 @@ It might seem like [Vigor Mortis](https://web.archive.org/web/20070625000000/htt
 
 ### Step Seven: The Contest! (You Build on a Budget!)
 
-[![Magus_of_the_Scroll](https://i.ormos.uk/d1/24/d1240df47f79738b10a0e12f12252cfab900234ea9f44e1f731e496ef157ef0e.jpg)](https://web.archive.org/web/20070625000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Magus%2Bof%2Bthe%2BScroll)So here's the challenge: I want *you* to try your hand at building the best dredge deck possible using the cards on the list below. The rules are as follows:
+[![Magus_of_the_Scroll](https://i.ormos.uk/d1/24/d1240df47f79738b10a0e12f12252cfab900234ea9f44e1f731e496ef157ef0e.jpg)](https://web.archive.org/web/20070625000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Magus%2Bof%2Bthe%2BScroll)
+
+So here's the challenge: I want *you* to try your hand at building the best dredge deck possible using the cards on the list below. The rules are as follows:
 
 1) You may only use the cards on the list below!  
  2) All decks must cost, at most, 30 tickets using the prices listed below.  

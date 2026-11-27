@@ -53,6 +53,8 @@ Dans la première partie, ce sont les Powder Keg qui auront aidés Loic a gérer
 
 Avant le deuxième duel, pendant que les deux joueurs utilisent leur sideboard, Noah va commencer un petit numéro de trash talking un peu� inutile dans le but de déstabiliser un Loic Dobrigna qui, de toute façon, ne comprend pas beaucoup l'anglais. Bref, le deuxième duel va de toute façon être remporté par Noah qui va tuer Loic à coup de Boa aidés par un Orang Outang qui se débarassait d'un Keg de Loic. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/400.JPG)La troisième va être gagnée grâce aux topdeck insolents de Noah qui va par deux fois sortir des Orang Outangs dans des moments difficiles. Loic va être tout au long de la partie sur la défensive, tentant de se prémunir des assauts du Jaguar, du Troll et du Légat de Noah. Le coup final va être porté sur un double Giant Growth sur une des deux créatures attaquantes. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/400.JPG)
+
+La troisième va être gagnée grâce aux topdeck insolents de Noah qui va par deux fois sortir des Orang Outangs dans des moments difficiles. Loic va être tout au long de la partie sur la défensive, tentant de se prémunir des assauts du Jaguar, du Troll et du Légat de Noah. Le coup final va être porté sur un double Giant Growth sur une des deux créatures attaquantes. 
 
 La quatrième partie commence par un début fracassant de Noah qui commence en posant 2 Légats et un Jaguar. Ceci sera suivi par une Ranc�ur et un Troll. En fait, même l'Hibernation de Loic ne servira à rien puisque les Legats reviendront gratuitement. Au moment où Noah joue Ranc�ur sur un Legat, Loic la contre mais Noah en repose une immédiatement. Il enchaîne par un Tanglewire et Loic n'a pas d'autre choix que de concéder.

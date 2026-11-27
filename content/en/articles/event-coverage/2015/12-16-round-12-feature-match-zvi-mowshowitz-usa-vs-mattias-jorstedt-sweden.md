@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Pete Norris* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/156.jpg)Zvi is widely regarded as one of the hardest working players on the Pro Tour, posting impressive perfomances including a top 4 at PTNY '99, and finishing 9th at Worlds 2000. Mattias Jorstedt is a member of the European Alliance, and while he has yet to post any really impressive finishes, he is widely regarded as one of the more impressive European players, and has a good grasp of limited strategy. Zvi was playing a fat green beats deck, while Mattias was playing a Black Blue deck with tempo control, and green hating creatures. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/156.jpg)
+
+Zvi is widely regarded as one of the hardest working players on the Pro Tour, posting impressive perfomances including a top 4 at PTNY '99, and finishing 9th at Worlds 2000. Mattias Jorstedt is a member of the European Alliance, and while he has yet to post any really impressive finishes, he is widely regarded as one of the more impressive European players, and has a good grasp of limited strategy. Zvi was playing a fat green beats deck, while Mattias was playing a Black Blue deck with tempo control, and green hating creatures. 
 
 **Game 1** 
 

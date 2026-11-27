@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a967.jpg)"Since Krakower isn't here, I'm the old guy," said Sam Lau. This match is the young vs. the not-so-young; Louis Boileau is all of 19, whereas Lau is a more-worldly 33. Boileau has the more impressive overall resume, including multiple top 8's at Grand Prix and a top 8 at Nationals last year. But Lau has accomplished what Boileau is trying to do today – secure a seat on the Canadian National team.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a967.jpg)
+
+"Since Krakower isn't here, I'm the old guy," said Sam Lau. This match is the young vs. the not-so-young; Louis Boileau is all of 19, whereas Lau is a more-worldly 33. Boileau has the more impressive overall resume, including multiple top 8's at Grand Prix and a top 8 at Nationals last year. But Lau has accomplished what Boileau is trying to do today – secure a seat on the Canadian National team.
 
 Both players are a saucy 4-0 and looking to land seats at the top table for tomorrow's draft action. Lau is playing Psychatog, and Boileau is with red/green beats. That is the match-up of the tournament.
 
@@ -63,7 +65,9 @@ Boileau took advantage of Lau tapping out, dropping a Flametongue Kavu on the Fa
 
 Lau Probed with kicker again on his next turn, and Boileau let it resolve without pitching his two cards to the Mongrel. Were this Game 2, Lau could have made him pay by laying a black land and Ghastly Demising it after Probe resolved, but Boileau's mistake made no difference.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a969.jpg)Boileau attacked for four and played another land, lamenting that 10 of his first 13 cards were land. But one of them was a Keldon Necropolis, which may come into play, considering Lau was down to 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a969.jpg)
+
+Boileau attacked for four and played another land, lamenting that 10 of his first 13 cards were land. But one of them was a Keldon Necropolis, which may come into play, considering Lau was down to 8.
 
 Lau Fact or Fictioned at the end of Boileau's turn, and took a Psychatog vs. four other cards, since he needed defense. That played directly in Lau's plan... he tapped seven mana, cast Upheaval, played another land, and dropped the 'Tog. Boileau drew a card and scooped.
 
@@ -73,7 +77,9 @@ Louis kept a hand with only a Karplusan Forest and a Keldon Necropolis for land,
 
 The trouble was that Lau was also stuck on two. He debated for a while before playing a Familiar, which would force Boileau to Firebolt it. Louis obliged and attacked again.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a968.jpg)Lau found his third land first and played a 'Tog. Boileau inhaled, knocked on his deck, and drew a Karplusan Forest. He played it and attacked with the Mongrel. When Lau didn't block, Boileau madnessed a Violent Eruption at him, taking him to 7. Both players did nothing for a turn, then Lau cast Repulse on the Mongrel. Lau responded with another madnessed Eruption, taking him to 3.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a968.jpg)
+
+Lau found his third land first and played a 'Tog. Boileau inhaled, knocked on his deck, and drew a Karplusan Forest. He played it and attacked with the Mongrel. When Lau didn't block, Boileau madnessed a Violent Eruption at him, taking him to 7. Both players did nothing for a turn, then Lau cast Repulse on the Mongrel. Lau responded with another madnessed Eruption, taking him to 3.
 
 Lau swung in with the 'Tog, and was very close to killing Boileau thanks to the amount of he'd been taking from the Karplusans. Boileau had one more turn.
 

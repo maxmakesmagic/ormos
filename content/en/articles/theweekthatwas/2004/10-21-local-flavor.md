@@ -434,7 +434,9 @@ render_recovery:
 
 That was how Nikolaus Eigner, the 23-year old student of Politics and Communication Studies at the University of Vienna, described his victory over nearly 1,000 other players two weekends ago at Grand Prix–Vienna.
 
-![](https://i.ormos.uk/ff/ee/ffee9434b20c54ed03c815c52fbe88506d67d67d8a3c5b4c7b9dac820362cba8.jpg)"Its amazing! It was already a dream coming true to finish Top 8 and qualifying for another PT," Eigner said. "But winning the whole thing? Unbelievable!"
+![](https://i.ormos.uk/ff/ee/ffee9434b20c54ed03c815c52fbe88506d67d67d8a3c5b4c7b9dac820362cba8.jpg)
+
+"Its amazing! It was already a dream coming true to finish Top 8 and qualifying for another PT," Eigner said. "But winning the whole thing? Unbelievable!"
 
 In addition to winning $2,400, Eigner also qualified for the Pro Tour for the second time in his career. He started playing shortly after the release of *Stronghold* and his first tournament was Grand Prix–Vienna during the 1998-99 season (when Kai Budde was on his remarkable Grand Prix tear). Refreshingly, Eigner was eager to take advantage of his invite and was looking to follow up an impressive debut at Pro Tour–Amsterdam.
 
@@ -464,7 +466,9 @@ Despite the comparisons to Masticore, the red legend was not the most important 
 
 "Sorry Master Kumano, but talking about wins, Devouring Greed easily outraced you," he joked. "There were only two black drafters at the table, a fact that allowed me to draft an extremely powerful deck that went 6-0 games, regardless of four mulligans and some early discarding." 
 
-![](http://www.wizards.com/global/images/mtgcom_daily_bd146_picMain_en.jpg)While Devouring Greed's stock has been on a steady rise for the past two weeks, it came into that weekend with a relatively low profile, which helped Eigner during the draft. "I got the first one really late. The second one I picked very high since I already had drafted lots of spirits. I didn't have a specific draft strategy, except that I wanted to have either red or black cards in my deck."
+![](http://www.wizards.com/global/images/mtgcom_daily_bd146_picMain_en.jpg)
+
+While Devouring Greed's stock has been on a steady rise for the past two weeks, it came into that weekend with a relatively low profile, which helped Eigner during the draft. "I got the first one really late. The second one I picked very high since I already had drafted lots of spirits. I didn't have a specific draft strategy, except that I wanted to have either red or black cards in my deck."
 
 With an 11-1 record going into the second draft he needed only one win and two intentional draws to make it to the final draft table and the Top 8. All of his practice at MAGICCORNER paid off at the Top 8 draft as he managed to get the black he was looking for again. 
 
@@ -494,7 +498,9 @@ With a short but impressive resume that includes a GP Top 16, Pro Tour Top 64, a
 
 Next week is going to be very exciting at **magicthegathering.com** -- we'll get to see literally hundreds of Champs decklists. In years past, the tournament organizers of the various Champs tournaments would fax or email their Top 8 decklists to Wizards of the Coast and then the information would have to be entered and compiled by hand -- a process which could exceed the patience of a **Magic** community clamoring for a thorough examination of the new Standard metagame with *Champions of Kamigawa* cards included. 
 
-![](http://www.wizards.com/global/images/magic_faq_champsdeckentry_pic1_en.jpg)This year deck lists are going to be handled in a new way that should provide more decklists than ever before, sooner than ever before. Each tournament organizer will be entering their Top 8 decklists directly via the Internet using the **Magic: The Gathering** Deck Builder, greatly speeding up the process of posting the decklists online for the public to see. 
+![](http://www.wizards.com/global/images/magic_faq_champsdeckentry_pic1_en.jpg)
+
+This year deck lists are going to be handled in a new way that should provide more decklists than ever before, sooner than ever before. Each tournament organizer will be entering their Top 8 decklists directly via the Internet using the **Magic: The Gathering** Deck Builder, greatly speeding up the process of posting the decklists online for the public to see. 
 
 Uber-coder Doug Beyer was the man responsible for developing the deck submission interface. "Basically the main motivations for the deck submission tool were (1) quicker turnaround, (2) greater accuracy of the decklists, and (3) greater ease of creating downloadable MTGO versions of all the decks. If the tool is a success in helping us do those things for States, I think you'll see it in use again for future events."
 

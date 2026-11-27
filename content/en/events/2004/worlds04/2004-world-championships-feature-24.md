@@ -1071,7 +1071,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/81/a9/81a955e0f6d8373b34e3ae5373a16270ca1921aae6fd29caffd1e07852edb389.jpg)A tough choice was presented to the Germans right off the bat in the Team Finals draft. They opened a pack with Duplicant, Grab the Reins, Neurok Spy and Granite Shard. The Germans had Torben Twiefel take Grab the Reins while Roland Bode took the Granite Shard. This left Duplicant for Belgium's Geoffrey Siron. Sebastian Zink went right into his normal black-blue color configuration as he received a late Aether Spellbomb while Lemoine took Skyhunter Cub and Raise the Alarm establishing himself as the white drafter on Belgium.
+![](https://i.ormos.uk/81/a9/81a955e0f6d8373b34e3ae5373a16270ca1921aae6fd29caffd1e07852edb389.jpg)
+
+A tough choice was presented to the Germans right off the bat in the Team Finals draft. They opened a pack with Duplicant, Grab the Reins, Neurok Spy and Granite Shard. The Germans had Torben Twiefel take Grab the Reins while Roland Bode took the Granite Shard. This left Duplicant for Belgium's Geoffrey Siron. Sebastian Zink went right into his normal black-blue color configuration as he received a late Aether Spellbomb while Lemoine took Skyhunter Cub and Raise the Alarm establishing himself as the white drafter on Belgium.
 
 The first time that Belgium opened their pack they made a surprising pick taking a Leonin Scimitar second out of a weak pack. Also they had Dilson Ramos Da Fonseca take Irradiate over Consume Spirit, leaving the X spell to fall into Zink's hands.
 

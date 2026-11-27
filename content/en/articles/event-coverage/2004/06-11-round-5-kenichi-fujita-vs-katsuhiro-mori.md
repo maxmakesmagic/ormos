@@ -44,7 +44,9 @@ archive_source:
   sha256: 30c3f3d7c19132bb611b18934aee4c07ad0ead284ca72a4211b525d5065be39d
 render_recovery: []
 ---
-![](https://i.ormos.uk/d2/34/d23486051e12b81fb7ab7874743db060391e80bdadd7602753107be57c85b444.jpg)The concept of coming full circle may be cliché, but it's fitting for Kenichi Fujita and Katsuhiro Mori this weekend. Last year at this tournament, Mori announced that it would be his last Magic event. Of course, he's now back in the same place, unable to stay away from the game. On the other hand, Fujita came in ninth at this tournament last year, missing Top 8 on tiebreakers. The old school hero "Boss Fujita" has plenty of top finishes to his credit, and it fully capable of some justice and redemption after last year's heartbreaker. Both players came into this round with 4-1 records, and are on a good run to earn the right to play on Sunday.
+![](https://i.ormos.uk/d2/34/d23486051e12b81fb7ab7874743db060391e80bdadd7602753107be57c85b444.jpg)
+
+The concept of coming full circle may be cliché, but it's fitting for Kenichi Fujita and Katsuhiro Mori this weekend. Last year at this tournament, Mori announced that it would be his last Magic event. Of course, he's now back in the same place, unable to stay away from the game. On the other hand, Fujita came in ninth at this tournament last year, missing Top 8 on tiebreakers. The old school hero "Boss Fujita" has plenty of top finishes to his credit, and it fully capable of some justice and redemption after last year's heartbreaker. Both players came into this round with 4-1 records, and are on a good run to earn the right to play on Sunday.
 
 ### Game 1
 

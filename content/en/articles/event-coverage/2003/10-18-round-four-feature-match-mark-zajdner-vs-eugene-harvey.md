@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkc03/962.jpg)All the byes are out the way and the options for feature matches each round get better and better. This round offers a compelling study in contrasts. Former US National champion Eugene Harvey is one of the most composed players on the tour. His opponent is rising Canadian star Mark Zajdner. Mark is anything but composed. He is a frenzy of motion with a full range of facial gestures and body tics to punctuate every sentence.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkc03/962.jpg)
+
+All the byes are out the way and the options for feature matches each round get better and better. This round offers a compelling study in contrasts. Former US National champion Eugene Harvey is one of the most composed players on the tour. His opponent is rising Canadian star Mark Zajdner. Mark is anything but composed. He is a frenzy of motion with a full range of facial gestures and body tics to punctuate every sentence.
 
 As the two players sat down in the feature match area Zajdner was pessimistic about his chances. “Eugene is going to smash me…my deck is so bad.” 
 
@@ -69,7 +71,9 @@ The Transfixer got in for two points and was joined by a Wizard Replica. Mark’
 
 Eugene played an Alpha Myr and equippedthe Wizard Replica with the Gauntlets but had no attacks. “Go? So that doesn’t untap?” Mark played an Icy Manipulator and promptly tapped down the Alpha Myr. Eugene took four from the Yotian and the Cathodian. “This is probably the best card I could draw against that equipment.”
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkc03/a961.jpg)Eugene took advantage of a the tapped out Canadian and put his equiptment on the Alpha Myr and took Mark down to eleven with his attack. He was able to keep the Cathodian at bay with the transfixer and he was taking a point a turn from the Yotian. Mark played another artifact creature in Soldier Replica.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkc03/a961.jpg)
+
+Eugene took advantage of a the tapped out Canadian and put his equiptment on the Alpha Myr and took Mark down to eleven with his attack. He was able to keep the Cathodian at bay with the transfixer and he was taking a point a turn from the Yotian. Mark played another artifact creature in Soldier Replica.
 
 Mark was able to tap the 1/3 flier with his Icy while Eugene’s Myr was till locked down under the Gauntlets. Eugene played a Goblin Warwagon which would be able to get around the drawback of the Gauntlets for two mana each upkeep. Eugene was holding Shatter but had nothing but Plains and a Stalking Stones in the board.
 
@@ -99,7 +103,9 @@ Both players put Myr into play on turn two. Eugene was unwilling to attack with 
 
 Eugene played the Vulshok’s Gauntlets on the next turn along with a Wizard Replica. Mark played another Soldier Replica and then windmill slammed another onto the table next turn. In between, Eugene played his second Wizard Replica.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkc03/a966.jpg)Eugene slammed eight points of damage into the red zone on the next turn when he enchanted his Myr with the Guantlets. “I don’t have any cards I can draw to help me here,” complained Zajdner although he may have been playing possum. When Eugene pushed all of his guys into the red zone on the next turn Mark chided him, “You don’t even declare your attck phase?” Blinding Beam tapped down Eugene’s team but he had more wainting in the wings and played an Atog and Yotian Soldier. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkc03/a966.jpg)
+
+Eugene slammed eight points of damage into the red zone on the next turn when he enchanted his Myr with the Guantlets. “I don’t have any cards I can draw to help me here,” complained Zajdner although he may have been playing possum. When Eugene pushed all of his guys into the red zone on the next turn Mark chided him, “You don’t even declare your attck phase?” Blinding Beam tapped down Eugene’s team but he had more wainting in the wings and played an Atog and Yotian Soldier. 
 
 Mark tapped out to play a Goblin Dirigible to stand on the frontlines alongside his two surviving Soldier Replicas. Eugene pondered his best course of action and Mark played to the crowd, “Holy cow is my deck bad!” He pointed to his Soldier Replica and explained, “This guy is good. Three of him…not so good.”
 

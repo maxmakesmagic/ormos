@@ -44,7 +44,9 @@ archive_source:
   sha256: 4d64c4a3a803547b91c18e6c5acd8f3a0cea932d56a3dc9a00553602245920e3
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a965.jpg)On one side, the one, the only, Mike Turian. CMU mainstay. Brain Trust. All around great guy. On the other, Canada’s rising star, David Rood. Still feeling the flush of his Pro Tour finals appearance at Boston last year. The battleground: Sealed deck. Turian was confident. Rood, less so. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a965.jpg)
+
+On one side, the one, the only, Mike Turian. CMU mainstay. Brain Trust. All around great guy. On the other, Canada’s rising star, David Rood. Still feeling the flush of his Pro Tour finals appearance at Boston last year. The battleground: Sealed deck. Turian was confident. Rood, less so. 
 
 As Rood played a second land to go with his island, he made the following proclamation:
 
@@ -62,7 +64,9 @@ He tried to turn that around with Arcanis, the Omnipotent. Turian was unfazed. H
 
 Turian 1 – Rood 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a966.jpg)Rood opened up a hand of Mages Guile, four land and Fateshaper and [Crowd Favorites](https://web.archive.org/web/20030222000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crowd+Favorites). He kept, and cycled into [Glory Seeker](https://web.archive.org/web/20030222000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory+Seeker) and morph to bring the beats. Turian was behind, with just a morph of his own. He tried to trade morphs, but Rood’s was Defender of Order. Turian’s [Aven Redeemer](https://web.archive.org/web/20030222000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Redeemer) got ready to hold the fort.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a966.jpg)
+
+Rood opened up a hand of Mages Guile, four land and Fateshaper and [Crowd Favorites](https://web.archive.org/web/20030222000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crowd+Favorites). He kept, and cycled into [Glory Seeker](https://web.archive.org/web/20030222000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory+Seeker) and morph to bring the beats. Turian was behind, with just a morph of his own. He tried to trade morphs, but Rood’s was Defender of Order. Turian’s [Aven Redeemer](https://web.archive.org/web/20030222000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Redeemer) got ready to hold the fort.
 
 Rood started tapping mana.
 

@@ -116,7 +116,9 @@ In Limited tournaments (only the bigger ones, and usually only Sealed Deck), you
 
 Decklist errors are penalized, so take care.
 
-![Wild_Pair](https://i.ormos.uk/82/d6/82d6c61cc88da53d04332c428b3845f701fd8f852701e6608819d0b96837677b.jpg)**Pairings**: Five minutes before a round starts, a judge will post the round’s pairings sheets and announce that they have been posted. The pairings sheets will direct every player to a given table number, where they will meet their opponent for the round.
+![Wild_Pair](https://i.ormos.uk/82/d6/82d6c61cc88da53d04332c428b3845f701fd8f852701e6608819d0b96837677b.jpg)
+
+**Pairings**: Five minutes before a round starts, a judge will post the round’s pairings sheets and announce that they have been posted. The pairings sheets will direct every player to a given table number, where they will meet their opponent for the round.
 
 Lateness is, again, penalized, so make sure you don’t stray too far after a round ends and another is about to start.
 
@@ -128,7 +130,9 @@ As for applying the rules, every tournament will have at least one judge on hand
 
 If you have any questions, are confused about something, or believe your opponent to be doing something not allowed by the rules, don’t hesitate to call a judge.
 
-![Stitch_in_Time](https://i.ormos.uk/7a/8a/7a8a8626e1e99be63ce3b5b8747c2aa668742c9776d8a39d82007711b14101c3.jpg)**Speed of Play**: A certain pace of play is expected at tournaments. It is difficult to define what exactly this pace is – some turns will of course be longer, and others faster – but it is usually described simply as “reasonable.” One may think things out to a degree, but should aim to play briskly in general. If you are playing too slowly, you will usually be given a few verbal prompts to pick up the pace before any formal warnings are given.
+![Stitch_in_Time](https://i.ormos.uk/7a/8a/7a8a8626e1e99be63ce3b5b8747c2aa668742c9776d8a39d82007711b14101c3.jpg)
+
+**Speed of Play**: A certain pace of play is expected at tournaments. It is difficult to define what exactly this pace is – some turns will of course be longer, and others faster – but it is usually described simply as “reasonable.” One may think things out to a degree, but should aim to play briskly in general. If you are playing too slowly, you will usually be given a few verbal prompts to pick up the pace before any formal warnings are given.
 
 Additionally, intentionally playing slower than you normally would in order to gain a strategic advantage (most often, *stalling* until the round ends in order to get a 1-0 win or a draw), is not allowed and is heavily penalized.
 

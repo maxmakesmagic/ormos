@@ -44,7 +44,9 @@ archive_source:
   sha256: 35a88e7ea99d59a20828eb134bc6c9c0b24a585a3dfd237ad214f9a68ef00824
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a848.jpg)We all know there are a lot of ways to qualify for a European Championship. Some people get here through the golden road: Pro Tour points. They had a great year on the Tour and this is just another part of their reward. Some get here on ranking. They have worked hard, some of them in the last few possible weeks, to win a place in the top places of the European ranking.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a848.jpg)
+
+We all know there are a lot of ways to qualify for a European Championship. Some people get here through the golden road: Pro Tour points. They had a great year on the Tour and this is just another part of their reward. Some get here on ranking. They have worked hard, some of them in the last few possible weeks, to win a place in the top places of the European ranking.
 
 And then we have Nationals. Those are always special tournaments in every country that qualify eight players for Euros. In each of the thirty-something countries represented in this room, all of them having their flags up above them have someone here who they call National Champion. (Sorry, Wales and Poland, your countries are so popular the flag suppliers had run out of stock...)
 

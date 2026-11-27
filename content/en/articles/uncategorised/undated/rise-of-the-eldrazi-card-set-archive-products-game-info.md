@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes a 41-card preconstructed de
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/2a/bc/2abcdf19e35747bac299b6fc4ba041eb4a36ac54e7b07843b9d9e03fdc50cadc.png)This set features 248 black-bordered cards and marks the debut of colorless non-artifact creatures, instants, and sorceries, which can complement almost any deck.
+![](https://i.ormos.uk/2a/bc/2abcdf19e35747bac299b6fc4ba041eb4a36ac54e7b07843b9d9e03fdc50cadc.png)
+
+This set features 248 black-bordered cards and marks the debut of colorless non-artifact creatures, instants, and sorceries, which can complement almost any deck.
 
 **Set Name:** *Rise of the Eldrazi*  
 **Block:** Set 3 of 3 of the *Zendikar* Block  

@@ -63,7 +63,9 @@ render_recovery: []
 ---
 The Gruul will kick you in the face. That's no news. Red/Green has been the face-booter for years before the Gruul came along. But, and this is a big but, the *reason* the Gruul smash face is not the same as all the rest of the random mindless beaters in **Magic**'s history. 
 
-![Angry!](https://i.ormos.uk/19/04/1904d58c902f483b8eec1c30acd124cbe710a7d437791daeaac2ae9ac50b80ed.jpg)The Gruul will kick you in the face because they are angry. They will kick you in the face because they've had enough. They will kick you in the face because they are sick of it all.
+![Angry!](https://i.ormos.uk/19/04/1904d58c902f483b8eec1c30acd124cbe710a7d437791daeaac2ae9ac50b80ed.jpg)
+
+The Gruul will kick you in the face because they are angry. They will kick you in the face because they've had enough. They will kick you in the face because they are sick of it all.
 
 The Gruul are not a gang of thick-headed fools with nothing better to do than to beat people up. They are also not a pack of wild animals with running on attack instinct. They are exploited, downtrodden, disenfranchised and brushed aside. They have an axe to grind and they choose to do it on your skull.
 

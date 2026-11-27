@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Jamielynn* 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/PTCHI00/967.jpg)Frank Adler returns to the tour after a two-year hiatus, sporting a Nether-Go deck of atypical construction. Steve O'Mahoney-Schwartz is a Pro Tour regular and is playing a fairly standard Fires of Yavimaya deck that dips into white for Wax/Wane. Adler won the opening die roll, electing to play, and the two shook hands in hopes of a good match. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/PTCHI00/967.jpg)
+
+Frank Adler returns to the tour after a two-year hiatus, sporting a Nether-Go deck of atypical construction. Steve O'Mahoney-Schwartz is a Pro Tour regular and is playing a fairly standard Fires of Yavimaya deck that dips into white for Wax/Wane. Adler won the opening die roll, electing to play, and the two shook hands in hopes of a good match. 
 
 OMS played an early Port to tie up Adler's blue mana, and was helped in this cause by Salt Marsh's drawback. This provided a window for him to play Chimeric Idol. Adler answered with Nether Spirit, forcing OMS to develop his board if he wanted to get through. 
 
@@ -53,7 +55,9 @@ OMS got a Fires of Yavimaya into play, which looked great when followed up by an
 
 Next in line to be topdecked by OMS was Blastoderm. It made it into play and attacked, but Adler had a second Decree. In his eagerness to cast it, however, he misannounced his target, naming "Blastoderm" instead of "Beast." This meant the Blastoderm survived to hit him, as well as forcing his Spirit to stay back to block. OMS' good fortune continued when a Kavu Chameleon rose to the top of his library. Adler's Undermine in hand was of no use. The Spirit chumped and returned, but the damage was adding up quickly. OMS' Wax was countered, but he sacrificed the Fires to pump up his Birds of Paradise, and Adler could not survive. 
 
-![](https://i.ormos.uk/5e/a2/5ea27729c53b7d477020fb5de64ed6eede68d1e85c958477632e3a0efa65fd2d.jpg)Adler was more reserved going into game two, and who can blame him? Technical errors sting so much more than play errors, particularly when the player's intention is so clear. 
+![](https://i.ormos.uk/5e/a2/5ea27729c53b7d477020fb5de64ed6eede68d1e85c958477632e3a0efa65fd2d.jpg)
+
+Adler was more reserved going into game two, and who can blame him? Technical errors sting so much more than play errors, particularly when the player's intention is so clear. 
 
 OMS' game two hand stood in stark contrast to his previous one. Rich in threats, it also boasted a Bird to support a turn-two Fires. Adler had the counter, but had to contend with a pair of Idols. 
 

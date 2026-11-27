@@ -77,7 +77,9 @@ render_recovery:
   - Cloudreach Cavalry
   occurrences: 26
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a931.jpg)You would hard pressed to find two brasher players anywhere in the world. While constant readers of Sideboard coverage may have gotten used to Justin's—what's the polite word for it?—confidence, they haven't seen anything yet. Jordan Berkowitz is quickly making a name and a reputation form himself on the Pro Tour. He is as loved by his supporters as he is vilified by his detractors. Their problem with the rising young star from the Philadelphia area? His confidence. Not only is Jordan better than you, he damn well knows it and wants you to know it as well.
+![](http://www.wizards.com/sideboard/images/ptyok03/a931.jpg)
+
+You would hard pressed to find two brasher players anywhere in the world. While constant readers of Sideboard coverage may have gotten used to Justin's—what's the polite word for it?—confidence, they haven't seen anything yet. Jordan Berkowitz is quickly making a name and a reputation form himself on the Pro Tour. He is as loved by his supporters as he is vilified by his detractors. Their problem with the rising young star from the Philadelphia area? His confidence. Not only is Jordan better than you, he damn well knows it and wants you to know it as well.
 
 ### Game 1
 
@@ -101,7 +103,9 @@ A couple of weeks back I lost in the Top 4 of a GP Trial to a team of Jordan, Os
 
 Justin's day didn't get any better when he had to send back a seven card hand that was devoid of land. He kept his next set and it was Jordan's turn to send it back, "Wanna see mine?" He revealed a hand of six land a lone Daru Stinger. While he was shuffling he mused about keeping it, "Maybe I should have kept it and raw dogged four soldiers."
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a933.jpg)Neither player had exciting openings—Jordan had the turn two Grappler followed by Justin's turn three Wirewood Herald. The Grappler was Crowned with Fury and took down the Herald and Jordan waited to see what goodies Justin's deck had to offer. He shrugged at Symbiotic Elf and then upon reflection, "That's pretty good actually. Best elf you could get there.'
+![](http://www.wizards.com/sideboard/images/ptyok03/a933.jpg)
+
+Neither player had exciting openings—Jordan had the turn two Grappler followed by Justin's turn three Wirewood Herald. The Grappler was Crowned with Fury and took down the Herald and Jordan waited to see what goodies Justin's deck had to offer. He shrugged at Symbiotic Elf and then upon reflection, "That's pretty good actually. Best elf you could get there.'
 
 Justin was less than enthused but had to agree, "Pretty good but not outstanding."
 
@@ -125,7 +129,9 @@ Justin had no play and traded his Soultiller for the Slateback and used its abil
 
 Jordan began to keep Justin's morph at bay by tapping it during Justin's upkeep. The Legionnaire would untap if Justin played a creature. Eventually Jordan got to eight land with a Flamewave Invoker on the board. "Flamewave might be a little hard for U/G to deal with," smirked Jordan.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a932.jpg)"He's saucy," agreed the man in the YMG shirt. "I actually cut one off in the draft."
+![](http://www.wizards.com/sideboard/images/ptyok03/a932.jpg)
+
+"He's saucy," agreed the man in the YMG shirt. "I actually cut one off in the draft."
 
 The sauciest of goblins dealt five to Justin and then belle of the Venice ball hit the table—Akroma came across and dealt six to the shell shocked Justin. "I guess I'm taking six and going to 3." 
 

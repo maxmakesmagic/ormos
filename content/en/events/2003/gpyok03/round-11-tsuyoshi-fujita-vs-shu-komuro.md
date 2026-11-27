@@ -78,7 +78,9 @@ The cavalcade of Red-White mirrors continues in this, the eleventh round of comp
 
 Fujita led with a pair of Silver Knights that got in for early beats. Komuro slowed them with an Astral Slide, and Fujita complicated matters with a morphed Angel. Komuro's fifth land was a Temple of the False God, letting him play his Angel face-up. Fujita swung in with his crew, and after Komuro blocked one of the Knights, Starstormed for three, clearing out both Angels.
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a940.jpg)Komuro was getting low on life, and tapped out for Eternal Dragon. Fujita made a Lightning Rift. Komuro went for a backbreaking cycled Decree of Annihilation. Fujita could only shoot him and cycle an Eternal Dragon for a second shot, leaving him at four. Fujita was at fifteen. He drew a second land, but had no cyclers, and the Dragon was beating down overhead. His Silver Knight fell to Wing Shards, and then he had no outs.
+![](http://www.wizards.com/sideboard/images/gpyok03/a940.jpg)
+
+Komuro was getting low on life, and tapped out for Eternal Dragon. Fujita made a Lightning Rift. Komuro went for a backbreaking cycled Decree of Annihilation. Fujita could only shoot him and cycle an Eternal Dragon for a second shot, leaving him at four. Fujita was at fifteen. He drew a second land, but had no cyclers, and the Dragon was beating down overhead. His Silver Knight fell to Wing Shards, and then he had no outs.
 
 Komuro 1 – Fujita 0
 
@@ -94,7 +96,9 @@ Komuro 1 – Fujita 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a941.jpg)Komuro was first on the board with a Lightning Rift, and Fujita held back on his Astral Slide. They played land after land, and then matched amplified Kilnmouth Dragons. Komuro offered the trade and Fujita accepted. He played out a replacement Eternal Dragon. Komuro cycled Decree of Justice for four soldiers and two damage. He untapped and swung in, then passed it back. Fujita held his ground and played a face-down Angel.
+![](http://www.wizards.com/sideboard/images/gpyok03/a941.jpg)
+
+Komuro was first on the board with a Lightning Rift, and Fujita held back on his Astral Slide. They played land after land, and then matched amplified Kilnmouth Dragons. Komuro offered the trade and Fujita accepted. He played out a replacement Eternal Dragon. Komuro cycled Decree of Justice for four soldiers and two damage. He untapped and swung in, then passed it back. Fujita held his ground and played a face-down Angel.
 
 Komuro Vengeanced it all away. Fujita brought back his Eternal Dragon and made an Astral Slide. Soon the Dragon was in play, and Fujita was just waiting for an opening to cycle his Decree of Annihilation. Komuro didn't give up easy. Akroma joined his side, and made the Decree a losing option.
 

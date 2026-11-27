@@ -56,7 +56,9 @@ Local players' greatest fear was the repeat of Grand Prix-Toronto, where players
 
 There are several young players in Top 8 of this Grand Prix that are worth watching closely. Louis Boileau finished second in this tournament, and recently made Top 8 in Detroit. These are the only two Grand Prix tournaments he ever played in. Boileau also has a Top 8 in Canadian Nationals - a very impressive beginning to his Pro career. Brett Shears won Grand Prix-Denver after taking a sabbatical from **Magic** for over a year and now Top 8'ed here, showing he can play Limited as well as Constructed. Peter Szigeti earned his first individual Top 8 after winning GP-Turin with Dan Clegg, who incidentally also finished in Top 8 here. Tim McKenna has played a number of Pro Tours and even earned a Top 16 finish in LA, but this is his first career Top 8 as well. All of these players are among the latest generation of pros who will challenge the Finkels and Buddes of professional **Magic** in the upcoming Pro Tours this season.
 
-![](https://i.ormos.uk/b5/20/b520f2c7fb4711db31dbc380f0ebeccf927b7ab4712b12bf1aa259610d9dd101.jpg)This Top 8 was not without high profile finishers either. Dan Clegg, who can easily be counted among the top 10 players in the world based on his performance in recent months, did not disappoint here, earning a Top 8 finish. Bob Maher showed that he is still a major force by earning a Top 8 finish as well. But it was Mike Turian, possibly the best-liked player on the Pro Tour by his peers, who took home the gold. Turian is a member of PT-NY winning team Potato Nation and has earned a number of Top 16 finishes in individual Pro Tours. This is his first individual win, and a third Grand Prix Top 8 finish to date.
+![](https://i.ormos.uk/b5/20/b520f2c7fb4711db31dbc380f0ebeccf927b7ab4712b12bf1aa259610d9dd101.jpg)
+
+This Top 8 was not without high profile finishers either. Dan Clegg, who can easily be counted among the top 10 players in the world based on his performance in recent months, did not disappoint here, earning a Top 8 finish. Bob Maher showed that he is still a major force by earning a Top 8 finish as well. But it was Mike Turian, possibly the best-liked player on the Pro Tour by his peers, who took home the gold. Turian is a member of PT-NY winning team Potato Nation and has earned a number of Top 16 finishes in individual Pro Tours. This is his first individual win, and a third Grand Prix Top 8 finish to date.
 
 Brian Davis and David Humphreys finished ninth and tenth respectively, both continuing their success streaks from Grand Prix-Minneapolis.
 
@@ -80,13 +82,17 @@ I managed a 3rd place finish, breaking an almost year-long dry streak of missing
 
 ### Aaron Forsythe to Join Wizards of the Coast Staff
 
-![](http://www.wizards.com/sideboard/images/PTNY01/782.jpg)Team CMU's Aaron Forsythe is putting an end to his Pro Tour career in order to start a new life as a Media Content Manager at Wizards of the Coast. Forsythe's career highlights include making Top 4 of two Team Pro Tours in a row with teammates Andrew Johnson and Andrew Cuneo, and making Top 8 of the U.S. Nationals two years ago. Forsythe will certainly be missed from the Tour, but he is likely to remain an active part of the online **Magic** community as his new job will involve running an upcoming **Magic** web site, the details of which will be revealed in the near future.
+![](http://www.wizards.com/sideboard/images/PTNY01/782.jpg)
+
+Team CMU's Aaron Forsythe is putting an end to his Pro Tour career in order to start a new life as a Media Content Manager at Wizards of the Coast. Forsythe's career highlights include making Top 4 of two Team Pro Tours in a row with teammates Andrew Johnson and Andrew Cuneo, and making Top 8 of the U.S. Nationals two years ago. Forsythe will certainly be missed from the Tour, but he is likely to remain an active part of the online **Magic** community as his new job will involve running an upcoming **Magic** web site, the details of which will be revealed in the near future.
 
 ### Meridian Magic Closing Its Doors
 
 On a sadder note, **Magic's** premier digest site MeridianMagic.com has closed its doors for the second time. 
 
-![](http://www.wizards.com/sideboard/images/meridian_logo.jpg)MTGNews.com editor Ray Yu, as a free service to the **Magic** community, hosted Meridian Magic. Ray was no longer able to provide his resources to MM, and the site's owner Cathy Nicoloff decided to close it for now rather than move to a different server. Meridian Magic was closed once before, then returned after about a six-month sabbatical. There is some possibility of it making another comeback in the future.
+![](http://www.wizards.com/sideboard/images/meridian_logo.jpg)
+
+MTGNews.com editor Ray Yu, as a free service to the **Magic** community, hosted Meridian Magic. Ray was no longer able to provide his resources to MM, and the site's owner Cathy Nicoloff decided to close it for now rather than move to a different server. Meridian Magic was closed once before, then returned after about a six-month sabbatical. There is some possibility of it making another comeback in the future.
 
 ### Magic Trivia
 
@@ -128,6 +134,8 @@ He also recommended the following web site for a comprehensive list of available
 
 Reported by Sheldon Menery:
 
-![](https://i.ormos.uk/1f/fb/1ffb1acb5b37655f20b3b1d3270186e555dc1f9b492990c4c1cffd9564140b46.jpg)"I was playing in Alaska's final Standard tournament before *Odyssey* becomes legal. I was playing a Fires variant. My opponent was playing a white-black good stuff deck. A few turns before, he had played Yawgmoth's Agenda, and was just beginning to gain control of the board. If I couldn't kill him next turn, I would probably lose. He had a Death Grasp in his graveyard and 10 land in play. It wouldn't kill me, but it would give him the life he needed to survive a few more turns. Then he decided to turn up the heat and get a few extra points of life. He played Dark Ritual, then tapped the rest of his mana. He then announced Death Grasp (from his hand - come to find out he had two more), bringing me down to 1 (or so he thought). I reminded him of the Agenda's restriction on one spell per turn. He got rather red and conceded the game."
+![](https://i.ormos.uk/1f/fb/1ffb1acb5b37655f20b3b1d3270186e555dc1f9b492990c4c1cffd9564140b46.jpg)
+
+"I was playing in Alaska's final Standard tournament before *Odyssey* becomes legal. I was playing a Fires variant. My opponent was playing a white-black good stuff deck. A few turns before, he had played Yawgmoth's Agenda, and was just beginning to gain control of the board. If I couldn't kill him next turn, I would probably lose. He had a Death Grasp in his graveyard and 10 land in play. It wouldn't kill me, but it would give him the life he needed to survive a few more turns. Then he decided to turn up the heat and get a few extra points of life. He played Dark Ritual, then tapped the rest of his mana. He then announced Death Grasp (from his hand - come to find out he had two more), bringing me down to 1 (or so he thought). I reminded him of the Agenda's restriction on one spell per turn. He got rather red and conceded the game."
 
 Got an interesting news story, comment, play of the week, or **Magic** trivia to report? Please e-mail me at ashv80@hotmail.com.

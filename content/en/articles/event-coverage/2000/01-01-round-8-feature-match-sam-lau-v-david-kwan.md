@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/958.jpg)When this Feature Match was announced, a loud "Oooh!" rose up from the competitors. Kwan was on last year's Singapore National Team, and Lau was its champion. Even better, the two are playing nearly identical decks.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/958.jpg)
+
+When this Feature Match was announced, a loud "Oooh!" rose up from the competitors. Kwan was on last year's Singapore National Team, and Lau was its champion. Even better, the two are playing nearly identical decks.
 
 Kwan did his best voodoo-cut to force a mulligan from Lau. Lau would have none of that dirty pool, and his taking of the high ground reaped a karmic reward. His opening hand was jim dandy.
 
@@ -61,7 +63,9 @@ Kwan sighed audibly as he split [Prophetic Bolt](https://web.archive.org/web/200
 
 The silence was broken when Kwan hit a [Fact or Fiction](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fact+or+Fiction) of his own, despite Lau's five open mana. Lau cagily put [Shivan Reef](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Reef) with [Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan), offering a larger pile of [Exclude](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exclude), island and [Mystic Snake](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Snake). However, Kwan was desperate for red mana, and took the smaller pile.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/957.jpg)Now it was Lau's turn to brave disaster. Kwan had plenty of mana at his disposal, and Lau went for an end-of-turn [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt). Kwan's only response was a Bolt of his own, which was good news for Lau. He untapped and his Skyfolk knocked Kwan to seven. He kicked up a [Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan) and passed the turn.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/957.jpg)
+
+Now it was Lau's turn to brave disaster. Kwan had plenty of mana at his disposal, and Lau went for an end-of-turn [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt). Kwan's only response was a Bolt of his own, which was good news for Lau. He untapped and his Skyfolk knocked Kwan to seven. He kicked up a [Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan) and passed the turn.
 
 Kwan's back was really against the wall. Lau had a mittful of cards and a rather nasty 5/5. Kwan kicked up a Titan of his own and crossed his fingers. Fortune was not with him. Lau turned over a [Repulse](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse), and they were on to game two.
 
@@ -69,7 +73,9 @@ Game two was Kwan's time to shine. Back-to-back [Gaea's Skyfolk](https://web.arc
 
 Kwan had no shortage of creatures, and was all too please to run his Titan into the Mongoose. It was replaced by another, more kicked, Titan. Lau was clearly in a bad way, Icing the beast to slow it down. Kwan replayed his Skyfolk and passed the turn, Icing Lau's only blue source.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/956.jpg)Lau had to pass it back without a play of his own. He Raged an incoming Skyfolk, but still fell to two. Kwan dug for a finisher with [Jungle Barrier](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jungle+Barrier). But then Lau untapped and threw down [Jilt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jilt) with kicker to axe the Skyfolk and bounce the Titan! He even had the [Exclude](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exclude) when Kwan tried to replay it, though he fell to one in the process.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/956.jpg)
+
+Lau had to pass it back without a play of his own. He Raged an incoming Skyfolk, but still fell to two. Kwan dug for a finisher with [Jungle Barrier](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jungle+Barrier). But then Lau untapped and threw down [Jilt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jilt) with kicker to axe the Skyfolk and bounce the Titan! He even had the [Exclude](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exclude) when Kwan tried to replay it, though he fell to one in the process.
 
 With renewed vigor Lau dropped [Gaea's Skyfolk](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaea%27s+Skyfolk) and a kicked Titan of his own. Kwan's Flametongue ate the airbear. Lau had no answer. Kwan [Repulse](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse)d the lone Titan to make way for his 4/2. Lau tried to off the attacker with [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt). Kwan played [Gainsay](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gainsay). Lau was about to respond, but realized that he only had one painless source of blue, and he'd already used it. Laughing, he scooped.
 

@@ -793,7 +793,9 @@ I get hit by Rise // Fall (discarding a card drawing spell, and revealing a land
 
 Don't worry – Ferrethater doesn't hate Ferrets – it's his wife who has an intense dislike for weasely rodents. Ferrethater gets off to a fast start thanks to Sakura-Tribe Elder. The Rampant-Growth on scales accelerates him into turn 3, 4 *and* 5 Blind Hunters.
 
-![](https://i.ormos.uk/30/ab/30aba6e90f4d2e5d755e49bff26733c7f5241f6f151d3b7fa8818da582cd518d.jpg)Unluckily for him, my draw is nearly perfect for this deck. Here's how the game looks on my side of the board.
+![](https://i.ormos.uk/30/ab/30aba6e90f4d2e5d755e49bff26733c7f5241f6f151d3b7fa8818da582cd518d.jpg)
+
+Unluckily for him, my draw is nearly perfect for this deck. Here's how the game looks on my side of the board.
 
 **Turn 1**: Island.  
 **Turn 2**: Swamp, Signet.  

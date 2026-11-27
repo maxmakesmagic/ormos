@@ -60,7 +60,9 @@ archive_source:
   sha256: 8a2e6c8b0c983fed860f197a9e41249e7e92f73a46ed2c479a37b8ea1fb37620
 render_recovery: []
 ---
-![](https://i.ormos.uk/80/41/8041faa29aeff077fd7dfed93400456d9a75a354bf44ab9cfb42af0761254431.jpg)Jens Thoren is our Masters Houston Champion!
+![](https://i.ormos.uk/80/41/8041faa29aeff077fd7dfed93400456d9a75a354bf44ab9cfb42af0761254431.jpg)
+
+Jens Thoren is our Masters Houston Champion!
 
 《星の嵐/Starstorm》、《脅迫するオーガ/Menacing Ogre》、《テフラダーム/Tephraderm》、《解体するオーグ/Butcher Orgg》といった魅 力的なレアたちをちりばめた素晴らしいデッキをドラフトすることに成功し、順当に勝利を飾ったのだ。かくて、先ごろのInvitationalで王座を 掴み取ったばかりの"Broken Jens"は、続けざまに彼の履歴書を更新することとなったのである。
 

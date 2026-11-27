@@ -113,7 +113,9 @@ render_recovery:
 ---
 Jeff Cunningham, father of Wild Mongrel in the Extended format, is a beatdown mage if there ever was one. His deck of choice for this event, red/green beatdown, is similar to the one he played at Canadian Nationals: Mongrels, madness, and tons of burn.
 
-![](https://i.ormos.uk/e1/da/e1dabbc5ac0dc5c899b8bb100b1199059aa47e778195cb8fb68b090f0b4e8f4f.jpg)Opposite him in this, the opening round of the Standard Masters, is Ireland's top player, three-time PT Top 8'er John Larkin. Larkin is playing the Mirari's Wake combo deck that came up at the end of the *Odyssey* Block constructed format. The deck generates tons of mana and card advantage, eventually winning via decking with Krosan Reclamation or damage with a recurred Elephant Ambush.
+![](https://i.ormos.uk/e1/da/e1dabbc5ac0dc5c899b8bb100b1199059aa47e778195cb8fb68b090f0b4e8f4f.jpg)
+
+Opposite him in this, the opening round of the Standard Masters, is Ireland's top player, three-time PT Top 8'er John Larkin. Larkin is playing the Mirari's Wake combo deck that came up at the end of the *Odyssey* Block constructed format. The deck generates tons of mana and card advantage, eventually winning via decking with Krosan Reclamation or damage with a recurred Elephant Ambush.
 
 ### Game 1
 

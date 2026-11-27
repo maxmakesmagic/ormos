@@ -70,7 +70,9 @@ Includes two 30-card decks, one 14-card booster, a collectable premium card, two
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/87/83/878317764720dd5c8e4fb961a641542873ed908d80a45e3ab7d007a6e03096d0.png)Ninth Edition features 350 cards, including some of the greatest **Magic** cards of all time. It also features randomly inserted premium black-bordered versions of all cards in the set.
+![](https://i.ormos.uk/87/83/878317764720dd5c8e4fb961a641542873ed908d80a45e3ab7d007a6e03096d0.png)
+
+Ninth Edition features 350 cards, including some of the greatest **Magic** cards of all time. It also features randomly inserted premium black-bordered versions of all cards in the set.
 
 **Set Name:** *Core Set Ninth Edition*  
 **Number of Cards:** 350

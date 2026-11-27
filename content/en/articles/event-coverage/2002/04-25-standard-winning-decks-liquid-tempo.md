@@ -342,64 +342,88 @@ In the early days of OBC testing, this archetype was referred to as "Liquid Temp
 
 First, let us take a look at the very basic cards of the deck - the ones that belong in virtually every version. Then we can move on to examine some of the more interesting decisions made by the Norwegians. 
 
-![](https://i.ormos.uk/c9/07/c907675a7eb027009b9b82c14778b1313f325e25d765cb479da1b293b37c2e79.jpg)**Basking Rootwalla** - The best madness creature printed, Rootwalla is as good an aggressive one-drop as you can ask for. Usually, you have to trade away speed for size. As in, the creatures you play over the first few turns will get shut down once your opponent plays a somewhat larger monster. Rootwalla gets around that by moonlighting as a Hill Giant. That in itself makes it a very good card, but the ability to be played for free pushes it over the top and guarantees it a slot in any u-g madness build. Rootwalla combos with Wild Mongrel, Careful Study, and Merfolk Looter to provide additional card economy, or jump in front of a Chainer's Edict to save your turn 2 Mongrel. Since you can cast madness spells as instants, it is important to cast Rootwalla at the right time if you are getting it into play via Wild Mongrel. If your opponent has global removal effects such as Wrath of God or Mutilate, you want to hold on to it until end of turn. At other times, you might want to deal an extra point of damage, discarding it to Wild Mongrel. 
+![](https://i.ormos.uk/c9/07/c907675a7eb027009b9b82c14778b1313f325e25d765cb479da1b293b37c2e79.jpg)
+
+**Basking Rootwalla** - The best madness creature printed, Rootwalla is as good an aggressive one-drop as you can ask for. Usually, you have to trade away speed for size. As in, the creatures you play over the first few turns will get shut down once your opponent plays a somewhat larger monster. Rootwalla gets around that by moonlighting as a Hill Giant. That in itself makes it a very good card, but the ability to be played for free pushes it over the top and guarantees it a slot in any u-g madness build. Rootwalla combos with Wild Mongrel, Careful Study, and Merfolk Looter to provide additional card economy, or jump in front of a Chainer's Edict to save your turn 2 Mongrel. Since you can cast madness spells as instants, it is important to cast Rootwalla at the right time if you are getting it into play via Wild Mongrel. If your opponent has global removal effects such as Wrath of God or Mutilate, you want to hold on to it until end of turn. At other times, you might want to deal an extra point of damage, discarding it to Wild Mongrel. 
 
   
   
 
-![](https://i.ormos.uk/a4/66/a4662692f3afa80eeff7f490ee71b304fa3ed34e3ba37073f1d18a90fdcef4f8.jpg)**Wild Mongrel** - Another excellent combat creature, Mongrel shares Rootwalla's attributes in that it can often keep attacking even after your opponent plays a 3/3 creature, without relying on any additional tricks in your hand. It definitely belongs in this deck because of its ability to help put Arrogant Wurms and Basking Rootwallas into play, as well as discard Roar of the Wurm early so that you can end up with a 6/6 Wurm token on your fourth turn.
+![](https://i.ormos.uk/a4/66/a4662692f3afa80eeff7f490ee71b304fa3ed34e3ba37073f1d18a90fdcef4f8.jpg)
+
+**Wild Mongrel** - Another excellent combat creature, Mongrel shares Rootwalla's attributes in that it can often keep attacking even after your opponent plays a 3/3 creature, without relying on any additional tricks in your hand. It definitely belongs in this deck because of its ability to help put Arrogant Wurms and Basking Rootwallas into play, as well as discard Roar of the Wurm early so that you can end up with a 6/6 Wurm token on your fourth turn.
 
   
   
 
-![](https://i.ormos.uk/21/f1/21f13577e08dfabe36fd570de5c856a0b3774e0041f5772454e5377bcc26861c.jpg)**Merfolk Looter** - A key component of the deck, it too can be served to put creatures into play for free - not to mention to throw away excess lands and find cards relevant to the matchup. It is usually best to Loot during your opponent's turn - that way you can discard Circular Logic to madness, avoid your creature dying to a global removal spell, or simply keep your opponent in suspense as to what your resources are.
+![](https://i.ormos.uk/21/f1/21f13577e08dfabe36fd570de5c856a0b3774e0041f5772454e5377bcc26861c.jpg)
+
+**Merfolk Looter** - A key component of the deck, it too can be served to put creatures into play for free - not to mention to throw away excess lands and find cards relevant to the matchup. It is usually best to Loot during your opponent's turn - that way you can discard Circular Logic to madness, avoid your creature dying to a global removal spell, or simply keep your opponent in suspense as to what your resources are.
 
   
   
 
-![](https://i.ormos.uk/d8/87/d887fd1e83bdc0da0fb55c38d7d2bfeee6ffa8ff89e3cdcb613fe76f78198978.jpg)**Circular Logic** - This is the only counterspell in the deck, so use it wisely. Of course, using it wisely will often mean countering the first spell your opponent casts when you have one - or three - mana to cast it, as you are trying to overwhelm an opponent in the early game. If Logic was simply a card you would use to counter whatever you can as early as you can, it really would not belong in this deck though. In some matchups you can certainly afford to hold onto it and counter really important spells - such as Wrath of God or Upheaval.
+![](https://i.ormos.uk/d8/87/d887fd1e83bdc0da0fb55c38d7d2bfeee6ffa8ff89e3cdcb613fe76f78198978.jpg)
+
+**Circular Logic** - This is the only counterspell in the deck, so use it wisely. Of course, using it wisely will often mean countering the first spell your opponent casts when you have one - or three - mana to cast it, as you are trying to overwhelm an opponent in the early game. If Logic was simply a card you would use to counter whatever you can as early as you can, it really would not belong in this deck though. In some matchups you can certainly afford to hold onto it and counter really important spells - such as Wrath of God or Upheaval.
 
   
   
 
-![](https://i.ormos.uk/60/81/608126616a8d5705f1c1005d5b5fe95283d63e28379bd7bf75806e0835611080.jpg)**Careful Study** - Another staple, this card will often allow you to break even or even gain card economy. There are eleven cards you would like to discard (between madness cards and Roar of the Wurm), not to mention replacing excess land with spells later in the game or ditching Standstills when you are behind. Study is best when cast either on turn 1 (find mana, a good turn 2 play, discard Basking Rootwalla), or on turn 4 (cast Arrogant Wurm) - it is certainly not a card to cast any time you draw it. Unless you are in trouble and need to find answers right away, try to wait until you can avoid the loss of card economy by discarding at least one of the abovementioned cards. 
+![](https://i.ormos.uk/60/81/608126616a8d5705f1c1005d5b5fe95283d63e28379bd7bf75806e0835611080.jpg)
+
+**Careful Study** - Another staple, this card will often allow you to break even or even gain card economy. There are eleven cards you would like to discard (between madness cards and Roar of the Wurm), not to mention replacing excess land with spells later in the game or ditching Standstills when you are behind. Study is best when cast either on turn 1 (find mana, a good turn 2 play, discard Basking Rootwalla), or on turn 4 (cast Arrogant Wurm) - it is certainly not a card to cast any time you draw it. Unless you are in trouble and need to find answers right away, try to wait until you can avoid the loss of card economy by discarding at least one of the abovementioned cards. 
 
   
   
 
-![](https://i.ormos.uk/ef/3a/ef3aacde0c53dc2658bceb93cdb3b8742c6761fa3c2997859c71bf0927ede392.jpg)**Roar of the Wurm** - This is the card that is there mostly to beat r-g. They won't like the prospect of a 6/6 creature coming into play on turn 4 - and will not have very many ways to deal with it. Even against decks with Repulse and Aether Burst, Roar of the Wurm is far from the worst card. How can you say no to a 6/6 for ![3 Mana](https://i.ormos.uk/7f/5d/7f5d2f1e55eaa9d19a9a23027b63bfbb5b39dbf8642160dda1a477a03df23a6a.gif)![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif)? Occasionally your games will even last long enough to cast it out of your hand. Either way, Roar of the Wurm certainly belongs in the deck. In fact, the Norwegian players using only three copies of this card may raise a few eyebrows. The reason is certainly that their deck is at the fastest end of Liquid Tempo and they want to free up as much room as possible for cheaper cards to combo with Standstill.
+![](https://i.ormos.uk/ef/3a/ef3aacde0c53dc2658bceb93cdb3b8742c6761fa3c2997859c71bf0927ede392.jpg)
+
+**Roar of the Wurm** - This is the card that is there mostly to beat r-g. They won't like the prospect of a 6/6 creature coming into play on turn 4 - and will not have very many ways to deal with it. Even against decks with Repulse and Aether Burst, Roar of the Wurm is far from the worst card. How can you say no to a 6/6 for ![3 Mana](https://i.ormos.uk/7f/5d/7f5d2f1e55eaa9d19a9a23027b63bfbb5b39dbf8642160dda1a477a03df23a6a.gif)![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif)? Occasionally your games will even last long enough to cast it out of your hand. Either way, Roar of the Wurm certainly belongs in the deck. In fact, the Norwegian players using only three copies of this card may raise a few eyebrows. The reason is certainly that their deck is at the fastest end of Liquid Tempo and they want to free up as much room as possible for cheaper cards to combo with Standstill.
 
   
   
 
-![](https://i.ormos.uk/e6/63/e6632160b19524e012f85bdedfa2e88a5cdaf93852c1aec52d72bcf04b4210b2.jpg)**Arrogant Wurm** - Another large creature that can be cast unreasonably early via Looter or Mongrel, it is still not quite as good as Roar of the Wurm. Although it does not die to a bounce spell, I find Roar to be slightly superior overall. Obviously the builders of this deck disagree, as they use four Arrogant Wurms but only three Roars.
+![](https://i.ormos.uk/e6/63/e6632160b19524e012f85bdedfa2e88a5cdaf93852c1aec52d72bcf04b4210b2.jpg)
+
+**Arrogant Wurm** - Another large creature that can be cast unreasonably early via Looter or Mongrel, it is still not quite as good as Roar of the Wurm. Although it does not die to a bounce spell, I find Roar to be slightly superior overall. Obviously the builders of this deck disagree, as they use four Arrogant Wurms but only three Roars.
 
   
   
 
-![](https://i.ormos.uk/05/14/0514938b416bd98a5cb7450a0bf5d98d1ce3ba6529ebd74435424c90e4cc1d72.jpg)**Upheaval** - The most powerful reset button since Nevinyrral's Disk, Upheaval is especially good against decks that need a lot of mana to operate, such as the monoblack control. Since this deck is at its best in the early turns of the game, it subsequently stands the most to gain from resetting the game back to that state as often as possible. This deck plays one copy of Upheaval main deck but several more in the sideboard. The numbers to maindeck should really depend on what decks you expect to face in your tournament, but anywhere between 1-3 is a good idea.
+![](https://i.ormos.uk/05/14/0514938b416bd98a5cb7450a0bf5d98d1ce3ba6529ebd74435424c90e4cc1d72.jpg)
+
+**Upheaval** - The most powerful reset button since Nevinyrral's Disk, Upheaval is especially good against decks that need a lot of mana to operate, such as the monoblack control. Since this deck is at its best in the early turns of the game, it subsequently stands the most to gain from resetting the game back to that state as often as possible. This deck plays one copy of Upheaval main deck but several more in the sideboard. The numbers to maindeck should really depend on what decks you expect to face in your tournament, but anywhere between 1-3 is a good idea.
 
 Now on to some of the less orthodox, and therefore more interesting choices made by the Oslo players:
 
   
   
 
-![](https://i.ormos.uk/6f/cf/6fcfbafb18d48d3b1a2eb77b1c01346402aa4d6ed66aef76e6f29db74cff72f8.jpg)**Standstill** - I have to admit that I like this card less than it deserves. The concept of a card that is only good when you are ahead does not sit well with me, which is why I've never been a fan of Zev's version of Psychatog. When I think "Standstill", I have visions of sitting there facing down a Flametongue Kavu and a Wild Mongrel with a mere Basking Rootwalla, and top-decking it - at the time when I could use just about anything else. The Standstill proponents argue that when the card does work - and it will at least half the time - it is an incredible kick in your opponent's deckbox. The deck has enough creatures that cost one or two mana that it can often drop one of them into play and follow it up with Standstill before an opponent has a chance to do anything about it. In most cases an opponent will have no choice but to break Standstill quickly, giving you three cards and still allowing you to continue developing your board.
+![](https://i.ormos.uk/6f/cf/6fcfbafb18d48d3b1a2eb77b1c01346402aa4d6ed66aef76e6f29db74cff72f8.jpg)
+
+**Standstill** - I have to admit that I like this card less than it deserves. The concept of a card that is only good when you are ahead does not sit well with me, which is why I've never been a fan of Zev's version of Psychatog. When I think "Standstill", I have visions of sitting there facing down a Flametongue Kavu and a Wild Mongrel with a mere Basking Rootwalla, and top-decking it - at the time when I could use just about anything else. The Standstill proponents argue that when the card does work - and it will at least half the time - it is an incredible kick in your opponent's deckbox. The deck has enough creatures that cost one or two mana that it can often drop one of them into play and follow it up with Standstill before an opponent has a chance to do anything about it. In most cases an opponent will have no choice but to break Standstill quickly, giving you three cards and still allowing you to continue developing your board.
 
   
   
 
-![](https://i.ormos.uk/54/5b/545b79c5638c4fde768793acc0457332584b2a318764fff1dde1857d51050d8e.jpg)**Nimble Mongoose** - Although this creature works under the same principle as Basking Rootwalla, it certainly isn't anywhere as good. Even in a deck like this one, it takes a while to achieve threshold. In several of my test games, I lost because three 1/1 Mongooses are unable to do much about the larger attacking monsters. Being untargetable does help, but only after you reach threshold. Mongoose is usually bait for opposing Chainer's Edict and, like Standstill, can occasionally be great but often sub-par.
+![](https://i.ormos.uk/54/5b/545b79c5638c4fde768793acc0457332584b2a318764fff1dde1857d51050d8e.jpg)
+
+**Nimble Mongoose** - Although this creature works under the same principle as Basking Rootwalla, it certainly isn't anywhere as good. Even in a deck like this one, it takes a while to achieve threshold. In several of my test games, I lost because three 1/1 Mongooses are unable to do much about the larger attacking monsters. Being untargetable does help, but only after you reach threshold. Mongoose is usually bait for opposing Chainer's Edict and, like Standstill, can occasionally be great but often sub-par.
 
   
   
 
-![](https://i.ormos.uk/ec/29/ec29bf0b70d22c8fe5d5b48c2f187808a2f68cfab1f97858822c4e89936122cd.jpg)**Unsummon** - Playing bounce spells in this deck is not controversial, but the choice of Unsummon over Aether Burst or Repulse certainly is. The argument in favor of Unsummon is that it's the only card of the three that costs one mana. It becomes much easier to cast, and many opponents simply will not expect the first one. Furthermore, you do not want to fuel your opponent's Aether Bursts by using yours early, and Repulse costs too much to be viable in this deck. On the other hand, Unsummon does not provide an extra card the way a Repulse does, and you cannot clear your opponent's board by drawing that second or third Burst. Finally, you can run only 3 Unsummons the way this deck does, but it is hard to justify anything less than four Aether Burst. 
+![](https://i.ormos.uk/ec/29/ec29bf0b70d22c8fe5d5b48c2f187808a2f68cfab1f97858822c4e89936122cd.jpg)
+
+**Unsummon** - Playing bounce spells in this deck is not controversial, but the choice of Unsummon over Aether Burst or Repulse certainly is. The argument in favor of Unsummon is that it's the only card of the three that costs one mana. It becomes much easier to cast, and many opponents simply will not expect the first one. Furthermore, you do not want to fuel your opponent's Aether Bursts by using yours early, and Repulse costs too much to be viable in this deck. On the other hand, Unsummon does not provide an extra card the way a Repulse does, and you cannot clear your opponent's board by drawing that second or third Burst. Finally, you can run only 3 Unsummons the way this deck does, but it is hard to justify anything less than four Aether Burst. 
 
   
   
 
-![](https://i.ormos.uk/d8/8f/d88f40ae484c8b378ef6e83cc6240953cce5a4bab379eaf97390063dcecb3ee3.jpg)**Thought Devourer** - What's up with a single copy of this 4/4 flyer in this deck? During OBC testing, I played 2 Devourers in my Liquid Tempo version because they broke the creature stall that occasionally could take place in the mirror match. I imagine it is played for roughly the same reasons in this deck, but I do not see it as at all necessary. Mirror match in this version is far less likely to get bogged down in a creature standoff. Even if it could, Persuasion would be a far more powerful card in mirror among other matchups. 
+![](https://i.ormos.uk/d8/8f/d88f40ae484c8b378ef6e83cc6240953cce5a4bab379eaf97390063dcecb3ee3.jpg)
+
+**Thought Devourer** - What's up with a single copy of this 4/4 flyer in this deck? During OBC testing, I played 2 Devourers in my Liquid Tempo version because they broke the creature stall that occasionally could take place in the mirror match. I imagine it is played for roughly the same reasons in this deck, but I do not see it as at all necessary. Mirror match in this version is far less likely to get bogged down in a creature standoff. Even if it could, Persuasion would be a far more powerful card in mirror among other matchups. 
 
 I have played a bunch of matches on **Magic** Online with the deck build exactly the way it was played in Norwegian Nationals and then began modifying it. To be fair, the version I finally arrived at seems to win about as much as the original - but it is always a better idea to play the version of the deck you are most comfortable with. For me, the current version looks like this:
 

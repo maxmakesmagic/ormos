@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/12/bd/12bd805d7449b7117f1e318ff76e77e162f0e769bf0484e86768008d1179595e.jpg)Lauriol is the current French National Champion, and his team is in the running for Sunday. In his way is Pro Tour mainstay Zvi Mowshowitz. Unfortunately, Lauriol's deck is four colors, and so far it has brought him to a 0-2 record. 
+![](https://i.ormos.uk/12/bd/12bd805d7449b7117f1e318ff76e77e162f0e769bf0484e86768008d1179595e.jpg)
+
+Lauriol is the current French National Champion, and his team is in the running for Sunday. In his way is Pro Tour mainstay Zvi Mowshowitz. Unfortunately, Lauriol's deck is four colors, and so far it has brought him to a 0-2 record. 
 
 ### Game 1
 

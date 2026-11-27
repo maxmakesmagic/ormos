@@ -44,7 +44,9 @@ archive_source:
   sha256: 6ca8a4a37b44190ca164e52df898e2743c2fc7321770e6412c30f658c34d0297
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersnice02/a290.jpg)Kai Budde is the German superstar who has won pretty much everything more times than anyone else. A Masters individual title still eludes him although he has won the Team event with Dirk Baberowski and Marco Blume. Alexander Witt is one of many strong Dutch players. He wasn't actually qualified for the Masters and instead had to grind his way through the Gateway.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersnice02/a290.jpg)
+
+Kai Budde is the German superstar who has won pretty much everything more times than anyone else. A Masters individual title still eludes him although he has won the Team event with Dirk Baberowski and Marco Blume. Alexander Witt is one of many strong Dutch players. He wasn't actually qualified for the Masters and instead had to grind his way through the Gateway.
 
 This matchup is really bad for Budde as Super-gro has so much disruption to prevent his Illusions-Donate combo from going off.
 
@@ -68,7 +70,9 @@ Budde untapped and Witt found himself the proud recipient of an Illusions of Gra
 
 It wasn't over yet as the last card in the Dutchman's hand was a second Swords. The upkeep went on the stack and Witt sent a Dryad farming before deciding he could afford to lose twenty life. Even after gaining twenty life it didn't take long for two Werebears at threshold to bash that away and game 1 went to Witt.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersnice02/a297.jpg)"What was the Meddling Mage about?" Budde asked.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersnice02/a297.jpg)
+
+"What was the Meddling Mage about?" Budde asked.
 
 "I only tested after sideboarding," Witt smiled.
 
@@ -98,7 +102,9 @@ This time Budde didn't have to mulligan. Witt tried twice to get a Meddling Mage
 
 A Land Grant revealed Witt didn't have a strong hand: two Quirion Dryad, Werebear, Daze, Gush.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersnice02/a295.jpg)Another Fire and the third Mage headed off to the graveyard. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersnice02/a295.jpg)
+
+Another Fire and the third Mage headed off to the graveyard. 
 
 Budde had a much stronger hand with two Force, thwart and a Pyroblast.
 

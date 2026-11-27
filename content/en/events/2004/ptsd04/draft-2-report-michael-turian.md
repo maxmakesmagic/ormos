@@ -311,7 +311,9 @@ render_recovery:
 ---
 * * *
 
-![Michael Turian](http://wizards.com/sideboard/images/ptsd04/dr2_1.jpg)This is Mike Turian's swan song. After a long career with plenty of impressive finishes on the Pro Tour and Grand Prix circuits, he's "hanging up the wand". This is not to say that success is all that defines him, as Turian's significance on the tour has been relevant far beyond just his finishes. In fact, he was a member of the old and new CMU teams, from the old group featuring Randy Buehler and Erik Lauer to the CMU/TOGIT conglomerate that included Osyp Lebedowicz and Eugene Harvey. With that kind of history and a resume of money finishes Turian has nothing to prove. Still, he'd certainly like to finish on a high note this weekend.
+![Michael Turian](http://wizards.com/sideboard/images/ptsd04/dr2_1.jpg)
+
+This is Mike Turian's swan song. After a long career with plenty of impressive finishes on the Pro Tour and Grand Prix circuits, he's "hanging up the wand". This is not to say that success is all that defines him, as Turian's significance on the tour has been relevant far beyond just his finishes. In fact, he was a member of the old and new CMU teams, from the old group featuring Randy Buehler and Erik Lauer to the CMU/TOGIT conglomerate that included Osyp Lebedowicz and Eugene Harvey. With that kind of history and a resume of money finishes Turian has nothing to prove. Still, he'd certainly like to finish on a high note this weekend.
 
 Turian's first pack wasn't too impressive. He took Fireshrieker, passing Vulshok Berserker, Relic Bane, Tel-Jilad Chosen and Consume Strength. He stayed away from committing to a color with his second pick, taking Clockwork Condor over Leonin Scimitar and another Chosen. Pick three saw him make a decision, taking Leonin Skyhunter over Viridian Longbow. He went deeper into white afterwards, taking Leonin Den-Guard, followed by Roar of the Kha. Altar's Light was picked over Soldier Replica, and Auriok Transfixer over Scythe of the Wretched. White was obviously underdrafted at this point, as Pearl Shard came around as a late gift.
 

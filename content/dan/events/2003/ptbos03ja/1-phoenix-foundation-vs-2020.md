@@ -340,7 +340,9 @@ Roodが《砂の皮膚/Sandskin》を貼り付けた変異クリーチャーの�
 
 **■Blume(赤黒) vs. Wolfman(赤緑)-Game 1, 2, 3**
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a966.jpg)なんというか、緒戦は非常に単純だった。赤黒のMarco Blumeよりも赤緑のSteve Wolfmanから展開されるクリーチャーのほうがとにかくサイズで勝っていたのだ。本当にあっという間の出来事だった。しかしながら、そんなMarcoも二戦目は《朽ちゆく猛禽/Putrid Raptor》の奮闘でなんとかダメージレース上では互角の戦いを展開し、返すターンのWolfmanの総攻撃では確実に負けてしまうという...一見するとやぶれかぶれなアタックを敢行し、そこで「博打敢行！」とばかりに《うつろう爆発/Erratic Explosion》によって残り4点のライフをなんとか削りきるという勝負師ぶりを見せ付けた。...サイズ勝負となったら勝ち目の無いBlumeにとっては、ここで大勝負といくしかなかったのだろう。そして、Blumeは賭けに勝ったのだ。
+![](http://www.wizards.com/sideboard/images/ptbos03/a966.jpg)
+
+なんというか、緒戦は非常に単純だった。赤黒のMarco Blumeよりも赤緑のSteve Wolfmanから展開されるクリーチャーのほうがとにかくサイズで勝っていたのだ。本当にあっという間の出来事だった。しかしながら、そんなMarcoも二戦目は《朽ちゆく猛禽/Putrid Raptor》の奮闘でなんとかダメージレース上では互角の戦いを展開し、返すターンのWolfmanの総攻撃では確実に負けてしまうという...一見するとやぶれかぶれなアタックを敢行し、そこで「博打敢行！」とばかりに《うつろう爆発/Erratic Explosion》によって残り4点のライフをなんとか削りきるという勝負師ぶりを見せ付けた。...サイズ勝負となったら勝ち目の無いBlumeにとっては、ここで大勝負といくしかなかったのだろう。そして、Blumeは賭けに勝ったのだ。
 
 こうなると流れはBlumeのもの。3本目では、3ターン目に変異でプレイした《沈黙の死霊/Silent Specter》が最速パターンで5ターン目に表がえり...脅威のアドバンテージをもたらすこととなった。
 
@@ -357,7 +359,9 @@ Wolfmanもトップデッキした《針撃ちゴルナ/Needleshot Gourna》を�
 
 中盤にいたって《霧衣の金切り魔/Mistform Shrieker》を展開できたBaberowskiは《草原の十字軍/Grassland Crusader》のサポートもあって一方的なダメージクロックをつくりあげることとなる。しかし、攻め手を欠いていたにせよPollockはひたすら無駄カードを《アンデッドの剣闘士/Undead Gladiator》のサイクリングを媒介して新鮮なドローと交換し続けてきたわけであり、これも間も無く《ナントゥーコの鞘虫/Nantuko Husk》をコントロールした上での《脅しつけ/Threaten》という手段によって除去されてしまう。
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a964.jpg)Pollockがとにかくサイクリングし続けたのは、彼のデッキに隠れ潜んでいる二枚の爆弾カードを調達するためだった。しかし、《包囲攻撃の司令官/Siege-Gang Commander》も《沈黙の死霊/Silent Specter》も、《間に合わせの鎧/Improvised Armor》をまとった《疾風衣の侵略者/Gustcloak Harrier》という確固たるダメージクロックをBaberowskiが先に確立してしまってからの降臨となり...状況の好転には寄与できなかった。
+![](http://www.wizards.com/sideboard/images/ptbos03/a964.jpg)
+
+Pollockがとにかくサイクリングし続けたのは、彼のデッキに隠れ潜んでいる二枚の爆弾カードを調達するためだった。しかし、《包囲攻撃の司令官/Siege-Gang Commander》も《沈黙の死霊/Silent Specter》も、《間に合わせの鎧/Improvised Armor》をまとった《疾風衣の侵略者/Gustcloak Harrier》という確固たるダメージクロックをBaberowskiが先に確立してしまってからの降臨となり...状況の好転には寄与できなかった。
 
 **Baberowski-1 Pollock-0**
 

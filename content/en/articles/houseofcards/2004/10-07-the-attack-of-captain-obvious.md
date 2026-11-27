@@ -98,7 +98,9 @@ Hmmm, that was reasonably obvious, wasn't it? Some fun things within the deck: S
 
 ### Equip Quip
 
-![](https://i.ormos.uk/aa/74/aa74806766ff87b511ce1d9e2460ff666534a613b38aa64a79841d6e103e0556.jpg)The problem with these superhero-supervillain showdowns is that the superhero always seems to win. Have you noticed that? Who's rigging these things? I can't possibly be doomed to obviosity. I won't stand for it! And why do we always talk in slow motion whenever the adversary takes the edge in a fight? That's the stupidest—ack… caught… within… grip… of… Duh… Ray… can't… resist…
+![](https://i.ormos.uk/aa/74/aa74806766ff87b511ce1d9e2460ff666534a613b38aa64a79841d6e103e0556.jpg)
+
+The problem with these superhero-supervillain showdowns is that the superhero always seems to win. Have you noticed that? Who's rigging these things? I can't possibly be doomed to obviosity. I won't stand for it! And why do we always talk in slow motion whenever the adversary takes the edge in a fight? That's the stupidest—ack… caught… within… grip… of… Duh… Ray… can't… resist…
 
 So, let's make the Kaldra deck, shall we? This has been one of my most frequently requested subjects since *Fifth Dawn* was released. And sure, while the combo of putting the three legendary Equipment together is spelled out pretty plainly in the card file, it's what you do with it afterwards that sets it apart.
 

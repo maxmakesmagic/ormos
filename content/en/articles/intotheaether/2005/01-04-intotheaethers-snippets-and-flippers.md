@@ -151,7 +151,9 @@ These new options make it easy to see a deck someone else has made online (eithe
 
 ### Snippet: Stops
 
-![](https://i.ormos.uk/77/12/77126cd3109c669385f4355c1a56658a5b20543d3b010f60d113a5acf0bd62fd.jpg)When ***Magic** Online* was but a babe, there was a lot of attention paid to stops. Now it seems there are enough newer players that it may help to get a stops refresher.
+![](https://i.ormos.uk/77/12/77126cd3109c669385f4355c1a56658a5b20543d3b010f60d113a5acf0bd62fd.jpg)
+
+When ***Magic** Online* was but a babe, there was a lot of attention paid to stops. Now it seems there are enough newer players that it may help to get a stops refresher.
 
 So what are “stops”? To answer that question, I direct you to the aforementioned resources, all by [Daniel Myers](https://web.archive.org/web/20050104000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/authorarchive&author=DanielMyers). Check out [part one](https://web.archive.org/web/20050104000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline/articledm011003), [part two](https://web.archive.org/web/20050104000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline/articledm012003), [part three](https://web.archive.org/web/20050104000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline/yields1), and [part four](https://web.archive.org/web/20050104000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline/articledm031303) of Dan's series. Between those four articles, you literally have more than you ever need to know about the fine art of stops.
 

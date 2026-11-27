@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-[![Magic Pro Tour Hall of Fame](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg "Magic Pro Tour Hall of Fame")](/en/articles/event-coverage/undated/tournaments-events-trading-card-game-magic-the-gathering-2)We're less than two weeks away from the announcement of the first four members of the [**Magic** Pro Tour Hall of Fame](/en/articles/event-coverage/undated/tournaments-events-trading-card-game-magic-the-gathering-2). Votes from the 69 members of the Selection Committee are due Friday, so here's one last blast of ballot analysis, including ballots from Richard Garfield and Randy Buehler. Click on each name to see their ballot and read the reasoning behind their votes.
+[![Magic Pro Tour Hall of Fame](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg "Magic Pro Tour Hall of Fame")](/en/articles/event-coverage/undated/tournaments-events-trading-card-game-magic-the-gathering-2)
+
+We're less than two weeks away from the announcement of the first four members of the [**Magic** Pro Tour Hall of Fame](/en/articles/event-coverage/undated/tournaments-events-trading-card-game-magic-the-gathering-2). Votes from the 69 members of the Selection Committee are due Friday, so here's one last blast of ballot analysis, including ballots from Richard Garfield and Randy Buehler. Click on each name to see their ballot and read the reasoning behind their votes.
 
 ### [Richard Garfield, Inventor of Magic](https://web.archive.org/web/20050720000000/http://www.wizards.com/default.asp?x=mtgevent/hof/ballot11)
 

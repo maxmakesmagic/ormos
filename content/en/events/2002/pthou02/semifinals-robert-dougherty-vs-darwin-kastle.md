@@ -90,7 +90,9 @@ render_recovery:
   - Nether Spirit
   occurrences: 85
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a903.jpg)This has to be a storeowner's dream.
+![](http://www.wizards.com/sideboard/images/pthou02/a903.jpg)
+
+This has to be a storeowner's dream.
 
 Here you are, in the top 4 of a professional Magic tournament, and the guy across from you and the guy behind you are both wearing your T-shirts. Rob Dougherty is the one in such an enviable position; he is the owner of Your Move Games, the game shops that lend their name to his Magic team, a team that makes up 75% of this event's top 4.
 
@@ -132,7 +134,9 @@ Both were dispatched via Edicts, and a Treetop Village joined the Elders for a l
 
 Dougherty 2 – Kastle 1
 
-![](http://www.wizards.com/sideboard/images/pthou02/a902.jpg)Dougherty went back into full Reanimator mode for game 4, putting the three Exhumes and one Engineered Plague into his deck and pulling 2 Negators and 2 Edicts.
+![](http://www.wizards.com/sideboard/images/pthou02/a902.jpg)
+
+Dougherty went back into full Reanimator mode for game 4, putting the three Exhumes and one Engineered Plague into his deck and pulling 2 Negators and 2 Edicts.
 
 Game 4 was wild and woolly. The cameras were on these two, and the crowd was certainly in for an entertaining game.
 
@@ -150,7 +154,9 @@ Darwin drew a Diabolic Edict and was looking good. But Rob's draw was better: hi
 
 No sweat. Rob still had Exhume in his hand and put the Verdant Force back out. Darwin brought back an Elder, which he sacrificed to get the second forest necessary to animate both Treetop Villages.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a899.jpg)Rob was at two life, with a Force, one token, and a Butcher (holding a Butcher) in play. Darwin took the opportunity to attack with both Villages. Dougherty was forced to block with the Butcher, lest he die from trample. Both Villages died, but Verdant Force ended up under the Butcher. Dougherty was left with a single Saproling.
+![](http://www.wizards.com/sideboard/images/pthou02/a899.jpg)
+
+Rob was at two life, with a Force, one token, and a Butcher (holding a Butcher) in play. Darwin took the opportunity to attack with both Villages. Dougherty was forced to block with the Butcher, lest he die from trample. Both Villages died, but Verdant Force ended up under the Butcher. Dougherty was left with a single Saproling.
 
 Luckily, he drew and played Nether Spirit. Suddenly, Darwin couldn't attack or Verdant Force would be coming back. Neither player budged for a few turns, and Darwin drew a couple Elves to flesh out his army. Dougherty cast Cabal Therapy naming Duress, taking two of them from Darwin. That would prove crucial.
 

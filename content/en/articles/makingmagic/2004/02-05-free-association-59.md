@@ -61,4 +61,6 @@ archive_source:
   sha256: a097f473c95588e7345896c860b167a9602e9de5a5ec6ad806912e4fa2c13fdd
 render_recovery: []
 ---
-![](https://i.ormos.uk/11/c7/11c7ae0cb00eeccbc6d1b485056734fa1539186a442a2f192e10f1872a551900.jpg)If you ever have a chance to have me sign a Maro (and it's the number one card I sign; #2 is Look at Me, I'm the DCI and #3 is Multani, Maro-sorcerer) you'll notice that I always draw something on the face. I've signed thousands of Maros so I've come up with a [variety](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/mr110.asp) of face accoutrements: glasses, facial hair, scars, various hats, eye patches, arrow through the head.
+![](https://i.ormos.uk/11/c7/11c7ae0cb00eeccbc6d1b485056734fa1539186a442a2f192e10f1872a551900.jpg)
+
+If you ever have a chance to have me sign a Maro (and it's the number one card I sign; #2 is Look at Me, I'm the DCI and #3 is Multani, Maro-sorcerer) you'll notice that I always draw something on the face. I've signed thousands of Maros so I've come up with a [variety](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/mr110.asp) of face accoutrements: glasses, facial hair, scars, various hats, eye patches, arrow through the head.

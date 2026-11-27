@@ -96,13 +96,17 @@ Much like the development of corsets, **Magic** also went under a fundamental sh
 
 The basic difference, from the customer standpoint? The core sets would contain no new cards, just white-bordered reprints of cards previously released with black borders.
 
-![](https://i.ormos.uk/00/33/0033afaab75a7c43cb8a9dc0f3e8e0bd4de0d90708e7d2c3e4191bb31586449b.jpg)Getting back to corsets – much like **Magic** cards would come in at least two varieties now, corsets have at least two basic shapes. The first (Tudor & Elizabethan) corsets were actually quite comfortable, though I admittedly have no firsthand experience to draw on here. According to Ms. Leed, the first corsets were designed to mold the torso into a cylindrical shape, and then flatten and raise the bustline. Sort of an original Serra Angel approach. Some modern top-heavy women actually wear similar garmets today, because it works much like a back brace.
+![](https://i.ormos.uk/00/33/0033afaab75a7c43cb8a9dc0f3e8e0bd4de0d90708e7d2c3e4191bb31586449b.jpg)
+
+Getting back to corsets – much like **Magic** cards would come in at least two varieties now, corsets have at least two basic shapes. The first (Tudor & Elizabethan) corsets were actually quite comfortable, though I admittedly have no firsthand experience to draw on here. According to Ms. Leed, the first corsets were designed to mold the torso into a cylindrical shape, and then flatten and raise the bustline. Sort of an original Serra Angel approach. Some modern top-heavy women actually wear similar garmets today, because it works much like a back brace.
 
 Compare that to the 19th century corsets that came later. They forced an hourglass shape and pretty much made women miserable all over Europe. (Thank goodness there was something around besides men to do so. Must have taken some of the pressure off. "Well, at least he's not as bad as my corset.")
 
 Many players – especially casual players, who on average don't follow the Core Set as carefully as tournament-minded players – feel a similar difference between white and black-bordered cards. Black-bordered cards came first. They were comfortable to players and collectors alike, and folks expected this sort of thing to go on for a few hundred years.
 
-![](https://i.ormos.uk/f8/b5/f8b5d55fcfa3fa087d271def4d8578a68061363ae53025540a96f588c857b2dd.jpg)Imagine their disappointment with the next generation of cards! Like hourglass-shaped corsets, white-bordered core sets forced some people into a space where they weren't completely comfortable. These surly customers shook their fists at Wizards and cursed the obsession with tiny waists – er, I mean, with preserving the value of black-bordered cards.
+![](https://i.ormos.uk/f8/b5/f8b5d55fcfa3fa087d271def4d8578a68061363ae53025540a96f588c857b2dd.jpg)
+
+Imagine their disappointment with the next generation of cards! Like hourglass-shaped corsets, white-bordered core sets forced some people into a space where they weren't completely comfortable. These surly customers shook their fists at Wizards and cursed the obsession with tiny waists – er, I mean, with preserving the value of black-bordered cards.
 
 But with whalebone-like firmness, Wizards did not yield their approach to the core sets. This is, ultimately, a good thing for casual players.
 
@@ -128,7 +132,9 @@ Notice how the two formats, both based on the hourglass shape, do two different 
 
 ### The End Of Core Sets?
 
-![](https://i.ormos.uk/de/d0/ded06b851b3e49ccdbbab7917756fb060ac71def34123d40972e1f8b9cda1637.jpg)As the 20th century approached, medical evidence against corsets mounted. Fashion, which demanded more and more of an hourglass shape, put women's bodies through incredible hardship. Slowly, men began to figure out that their taste in women's shapes might be hurting the very people they were attracted to. So a few doctors began to speak out. Brilliant.
+![](https://i.ormos.uk/de/d0/ded06b851b3e49ccdbbab7917756fb060ac71def34123d40972e1f8b9cda1637.jpg)
+
+As the 20th century approached, medical evidence against corsets mounted. Fashion, which demanded more and more of an hourglass shape, put women's bodies through incredible hardship. Slowly, men began to figure out that their taste in women's shapes might be hurting the very people they were attracted to. So a few doctors began to speak out. Brilliant.
 
 Will the same thing happen with white-bordered sets? Will we learn someday that white-bordered sets don't let us "breathe" enough as collectors and players?
 

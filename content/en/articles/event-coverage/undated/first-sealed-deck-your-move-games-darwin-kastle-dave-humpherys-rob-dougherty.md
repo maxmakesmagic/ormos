@@ -41,7 +41,9 @@ render_recovery: []
 
 *   [The Card Pool](https://web.archive.org/web/20211201225038/http://archive.wizards.com/eventarticle.asp?event=PTNY0001&name=943sd1decks#ymg)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/947.jpg)Team Your Move Games is comprised of Darwin Kastle, Dave Humpherys, and Rob Dougherty. They are the defending Team PT champions, from Washington DC last year. They have also placed third in GP St. Louis and GP Pittsburgh. They are old friends, and have been playing together for years. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/947.jpg)
+
+Team Your Move Games is comprised of Darwin Kastle, Dave Humpherys, and Rob Dougherty. They are the defending Team PT champions, from Washington DC last year. They have also placed third in GP St. Louis and GP Pittsburgh. They are old friends, and have been playing together for years. 
 
 A heavy amount of Black removal and a complete lack of Red removal marked the initial Sealed packs opened by Team Your Move Games. The creature base in Green was solid, relying on the heavier casting-cost creatures, and White and Blue also had a solid amount of creatures. 
 

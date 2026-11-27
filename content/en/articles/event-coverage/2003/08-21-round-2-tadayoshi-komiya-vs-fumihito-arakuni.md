@@ -44,7 +44,9 @@ archive_source:
   sha256: a7a3c67f04e2330cd759a5eeba52d4e2506c234961b7ad81861a474aa1bfa4c9
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpyok03/a986.jpg)It's strange to see a former National Champion playing in the second round of a Grand Prix. After all, the mighty usually stay that way, holding onto their three byes with an iron grip. Well, Komiya took a bit of an enforced break from the game, after he was hired by Hobby Japan and therefore unable to compete in sanctioned events. He's back now, and looking to pick up where he left off. Today he is playing Goblins. His opponent is Fumihito Arakuni, who is more than a little intimidated to be playing a champ so early. Arakuni is with Goblin Bidding.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpyok03/a986.jpg)
+
+It's strange to see a former National Champion playing in the second round of a Grand Prix. After all, the mighty usually stay that way, holding onto their three byes with an iron grip. Well, Komiya took a bit of an enforced break from the game, after he was hired by Hobby Japan and therefore unable to compete in sanctioned events. He's back now, and looking to pick up where he left off. Today he is playing Goblins. His opponent is Fumihito Arakuni, who is more than a little intimidated to be playing a champ so early. Arakuni is with Goblin Bidding.
 
 ### Game 1
 

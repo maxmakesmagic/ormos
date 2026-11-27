@@ -88,7 +88,9 @@ render_recovery:
   - Wing Shards
   occurrences: 47
 ---
-![](http://www.wizards.com/sideboard/images/euro03/a962.jpg)With four English players on nine points after the first three rounds of standard today is shaping up quite well for the home nation but it remains to be seen whether they can maintain their form over the next four rounds of Rochester draft.
+![](http://www.wizards.com/sideboard/images/euro03/a962.jpg)
+
+With four English players on nine points after the first three rounds of standard today is shaping up quite well for the home nation but it remains to be seen whether they can maintain their form over the next four rounds of Rochester draft.
 
 ### Game 1
 
@@ -98,7 +100,9 @@ After a handshake Clapton, who has drafted a W/B deck, decides to keep but Wrigh
 
 First action comes from Wright's Deftblade Elite which hits unopposed a couple of times while Clapton misses land drops three and four. After using it's provoke ability to trade the Elite for a Battlefield Medic Wright makes a Keeneye Aven and a Covert Operative. These attack the next turn and are joined by a Screaming Seahawk which increases the pressure on an opponent already hampered by tempo problems. Clapton has a morph and a Graveborn Muse which he needed to cast to alleviate his mana problems and after attacking his opponent down to thirteen he Cruel Revivals the unblockable Operative. Wright's birds continue to attack his opponent down to five and they are joined by another morph creature.
 
-![](http://www.wizards.com/sideboard/images/euro03/a963.jpg)"I'll be pretty impressed if you don't die" says Wright and after his opponent attempts to Swat the Aven which is saved by a Piety Charm he is proved right.
+![](http://www.wizards.com/sideboard/images/euro03/a963.jpg)
+
+"I'll be pretty impressed if you don't die" says Wright and after his opponent attempts to Swat the Aven which is saved by a Piety Charm he is proved right.
 
 These two old rivals share some good hearted banter during sideboarding as Clapton complains about his poor land draw.
 
@@ -116,7 +120,9 @@ Wright makes a Covert Operative but it acquires a Lingering Death immediately an
 
 Chris Clapton starts the deciding game with a Withered Wretch and a morph while Stuart Wright has to wait until turn four, having laid four Plains, to enter the game with a Daru Stinger amplified with two counters. The Wretch attacks but it is killed by a blocking Stinger which in turn is destroyed by a Crown of Suspicion.
 
-![](http://www.wizards.com/sideboard/images/euro03/a964.jpg)The board develops quickly with a Glory Seeker, two morphs and a Beacon of Destiny for Clapton facing off against Wright's Gustcloak Sentinel, Deftblade Elite and Covert Operative. Clapton unmorphs an Aphetto Exterminator killing the Sentinel and then swings with everything except the Beacon to bring Wright to nine. Wright attacks with the Covert Operative and plays a morph. Clapton unmorphs a Sootfeather Flock and swings but the Sentinel and Exterminator are blocked and a Frontline Strategist revealed to mess up the combat math. Lingering Death on the Covert Operative (again) looks to put paid to that threat but a Wipe Clean removes the offending enchantment from the game and the unblockable one lives to fight another day. Clapton continues to hit in the air with the Sootfeather Flock.
+![](http://www.wizards.com/sideboard/images/euro03/a964.jpg)
+
+The board develops quickly with a Glory Seeker, two morphs and a Beacon of Destiny for Clapton facing off against Wright's Gustcloak Sentinel, Deftblade Elite and Covert Operative. Clapton unmorphs an Aphetto Exterminator killing the Sentinel and then swings with everything except the Beacon to bring Wright to nine. Wright attacks with the Covert Operative and plays a morph. Clapton unmorphs a Sootfeather Flock and swings but the Sentinel and Exterminator are blocked and a Frontline Strategist revealed to mess up the combat math. Lingering Death on the Covert Operative (again) looks to put paid to that threat but a Wipe Clean removes the offending enchantment from the game and the unblockable one lives to fight another day. Clapton continues to hit in the air with the Sootfeather Flock.
 
 Both players have plenty of land and creatures but Wright has the advantage as his Covert Operative is now pumped up with Dragon Scales. Clapton is now on seven life compared to Wright's six but needs to find an answer to the non-tapping, unblockable 4/4 quickly or his unbeaten record will disappear. He takes quite long time thinking about the situation and gets chivvied along by the table judge. The Operative does another four damage and Clapton knows it is now or never so he attacks with his Twisted Abomination and Zealous Inquisitor and gets through for two but when Wright attacks with just the Operative next turn Clapton shows him the Wing Shards which is the last card in his hand. Wright concedes as Clapton now has more than enough damage on the table to kill him next turn.
 

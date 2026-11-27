@@ -79,7 +79,9 @@ Some have billed this match as a battle of the Grand Prix's best dressed, but th
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a934.jpg)Mori busted out a traditional red-white opening of cycling Eternal Dragon, playing a morph, and then flipping up Exalted Angel to start the race. He was without red mana, but seemed no worse for it. Meanwhile Osaka had a slow start of turn three morph and then missed his fourth land drop. He was forced to Read the Runes for just two in order to find the land he needed. Worse, he had no Bidding. He turned over his Putrid Raptor and played a Carrion Feeder. He was severely outclassed in the race.
+![](http://www.wizards.com/sideboard/images/gpyok03/a934.jpg)
+
+Mori busted out a traditional red-white opening of cycling Eternal Dragon, playing a morph, and then flipping up Exalted Angel to start the race. He was without red mana, but seemed no worse for it. Meanwhile Osaka had a slow start of turn three morph and then missed his fourth land drop. He was forced to Read the Runes for just two in order to find the land he needed. Worse, he had no Bidding. He turned over his Putrid Raptor and played a Carrion Feeder. He was severely outclassed in the race.
 
 While Mori readied another Angel, Osaka dug with a second Read the Runes. It too turned up a blank. Mori came across for eight. Osaka had one more shot. It was not to be. Mori's Angels cruised to victory.
 
@@ -91,7 +93,9 @@ The first play of the game was Osaka's morph, a sideboarded Chromeshell Crab. Mo
 
 Osaka bashed for three and played a second Muse, as well as a Carrion Feeder. Mori had quite a conundrum on his hands. He swung in, and when Osaka declined to block, let the damage stand at two. He Shocked the Carrion Feeder, and Slid out one of the Muses on his own end step, denying Osaka three more cards. Osaka played his sixth land and waited.
 
-![](https://i.ormos.uk/22/38/22384ffd9c7e28651ab48a8cc3954277986efc5cc56556853a605803fde529e6.jpg)Mori finally turned up his Angel and hit for four, but it looked like it would be too late. Osaka had Read the Runes for five, sending a pair of Vengeful Dead to the yard among others. He untapped, hit for six, and played a mighty Bidding, with Carrion Feeders and Vengeful Dead providing the immediate kill.
+![](https://i.ormos.uk/22/38/22384ffd9c7e28651ab48a8cc3954277986efc5cc56556853a605803fde529e6.jpg)
+
+Mori finally turned up his Angel and hit for four, but it looked like it would be too late. Osaka had Read the Runes for five, sending a pair of Vengeful Dead to the yard among others. He untapped, hit for six, and played a mighty Bidding, with Carrion Feeders and Vengeful Dead providing the immediate kill.
 
 Mori 1 – Osaka 1
 

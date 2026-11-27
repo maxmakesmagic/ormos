@@ -57,7 +57,9 @@ render_recovery: []
 
 　Bradley はここから《波止場の用心棒/[Waterfront Bouncer](https://web.archive.org/web/20030808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Waterfront+Bouncer)》を連続で出すが、クリーチャーはエンジンとして使用する《ゴブリンの太守スクイー/[Squee, Goblin Nabob](https://web.archive.org/web/20030808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squee%2C+Goblin+Nabob)》以外に存在しない Jordan のデッキ相手では単なる貧弱小僧。せっかく Jordan が事故っているものの、そこにつけいる事が出来ない。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a704.jpg)　しかし、ちっちゃくてもそこには五分の魂。継続は力なりとこつこつ殴ったパンチがじわじわとボディに入り、気付けば Jordan は瀕死の状況。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a704.jpg)
+
+　しかし、ちっちゃくてもそこには五分の魂。継続は力なりとこつこつ殴ったパンチがじわじわとボディに入り、気付けば Jordan は瀕死の状況。
 
 　Jordan 、覚悟完了。
 

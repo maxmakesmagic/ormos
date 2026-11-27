@@ -108,7 +108,9 @@ Et donc voilà ce qui nous amène à la chronique d’aujourd'hui. Alors restez 
 
 **'Tout acte de création est avant tout un acte de destruction.'**
 
-![Demolish](https://i.ormos.uk/2b/c7/2bc7661ee90a735c33231ac5c48876cae8c5a80355a37aed055021cc5e34e2ac.jpg)J'ai fait des études de cinéma et de télévision spécialisées dans l'écriture de scénario. Par conséquent, j'ai suivi un certain nombre de cours d'écriture. De tous ces cours, la citation suivante est une des leçons que j'ai retenues le plus et qui, je crois, a influencé grandement la manière dont j'écris et conçois des cartes. Voici la citation :
+![Demolish](https://i.ormos.uk/2b/c7/2bc7661ee90a735c33231ac5c48876cae8c5a80355a37aed055021cc5e34e2ac.jpg)
+
+J'ai fait des études de cinéma et de télévision spécialisées dans l'écriture de scénario. Par conséquent, j'ai suivi un certain nombre de cours d'écriture. De tous ces cours, la citation suivante est une des leçons que j'ai retenues le plus et qui, je crois, a influencé grandement la manière dont j'écris et conçois des cartes. Voici la citation :
 
 > ***Aucune scène ne doit souffrir d'un dialogue ; aucun film ne doit souffrir d'une scène.***
 
@@ -122,7 +124,9 @@ Alors qu'est-ce que tout ça vient faire dans la conception des cartes à jouer 
 
 **'Au royaume des aveugles, les borgnes sont roi.'**
 
-![Borborygmos](https://i.ormos.uk/d9/14/d914a6c55e9a861900d53c0f1a41564c40081d3eb4202bef0f006104eb4c0933.jpg)Expliquons à présent comment tout ceci s'applique à la conception des cartes. Quand ils évaluent une extension, la plupart des gens commencent par regarder des cartes individuelles. En fait, la plupart des articles qui annoncent la sortie d'une extension commencent par l'étude de ses cartes une à une. C'est pour cette raison que, je pense, bon nombre de gens en arrivent à la conclusion suivante : la qualité d'une extension est déterminée par la qualité de ses cartes individuelles. Ceux qui sont d'accord avec cette affirmation, levez la main ! Qui n'est pas d'accord ? Groupe deux, vous gagnez une médaille en chocolat. La qualité d'une extension (à mon humble avis) n'est pas déterminée par la qualité de ses cartes prises séparément.
+![Borborygmos](https://i.ormos.uk/d9/14/d914a6c55e9a861900d53c0f1a41564c40081d3eb4202bef0f006104eb4c0933.jpg)
+
+Expliquons à présent comment tout ceci s'applique à la conception des cartes. Quand ils évaluent une extension, la plupart des gens commencent par regarder des cartes individuelles. En fait, la plupart des articles qui annoncent la sortie d'une extension commencent par l'étude de ses cartes une à une. C'est pour cette raison que, je pense, bon nombre de gens en arrivent à la conclusion suivante : la qualité d'une extension est déterminée par la qualité de ses cartes individuelles. Ceux qui sont d'accord avec cette affirmation, levez la main ! Qui n'est pas d'accord ? Groupe deux, vous gagnez une médaille en chocolat. La qualité d'une extension (à mon humble avis) n'est pas déterminée par la qualité de ses cartes prises séparément.
 
 Pour prouver ce que j'avance, faisons une expérience hypothétique. Supposons que je sois le directeur de conception d'une extension et que le mette en place une structure qui explique quel rôle chaque carte va devoir y jouer. Cette carte est une petite créature blanche courante. Cette carte est un sort de blessures directes rouge inhabituelle. Cette carte est un enchantement de base de construction de deck noir rare. Ensuite, j'embauche X des meilleurs concepteurs de cartes au monde, X étant le nombre de cartes dans l'extension. Chacun d'eux a une carte et six mois pour la concevoir. Pendant ces six mois, je fais aussi le design de l'ensemble des cartes de l'extension. Une fois les six mois écoulés, je me retrouve avec deux extensions, une conçue par un groupe des meilleurs designers de cartes, et l'autre, par mes soins. Laquelle devrait être la meilleure ?
 
@@ -140,7 +144,9 @@ Ce qui nous ramène à la citation de mon professeur. Appliquons-la à la concep
 
 **'La découverte, c'est voir ce que tout le monde a vu et penser ce à quoi personne n'a pensé.'**
 
-![Train_of_Thought](https://i.ormos.uk/e5/a4/e5a40658a839397dbc5a3121f195b30a5efe5669b9d6a58518837eddfa941c51.jpg)Mais quel est le rapport avec ce que le système race/classe offre à la conception ? Pour commencer, cette réflexion montre que ma vision du jeu est très différente quand je prends en compte le système race/classe. Je ne cherche pas à déterminer ce qu'une carte individuelle peut créer, mais plutôt quel style d'*environnement* elle peut créer. Que peut-on faire avec cette race/classe sans avoir un état d'esprit concepteur de carte individuelle, mais un état d'esprit de synergie collective ? Quel type d'environnement le système race/classe pourra créer qu'un type de créature unique ne pourra pas ?
+![Train_of_Thought](https://i.ormos.uk/e5/a4/e5a40658a839397dbc5a3121f195b30a5efe5669b9d6a58518837eddfa941c51.jpg)
+
+Mais quel est le rapport avec ce que le système race/classe offre à la conception ? Pour commencer, cette réflexion montre que ma vision du jeu est très différente quand je prends en compte le système race/classe. Je ne cherche pas à déterminer ce qu'une carte individuelle peut créer, mais plutôt quel style d'*environnement* elle peut créer. Que peut-on faire avec cette race/classe sans avoir un état d'esprit concepteur de carte individuelle, mais un état d'esprit de synergie collective ? Quel type d'environnement le système race/classe pourra créer qu'un type de créature unique ne pourra pas ?
 
 Pour le comprendre, examinons quatre types de créature que j'appellerai Type de créature A, Type de créature B, Type de créature C et Type de créature D. Quels genres de cartes puis-je concevoir en me basant sur un monde de types de créature uniques ? Je peux créer des cartes 'Type de créature A délire', des cartes 'Type de créature B délire', des cartes 'type de créature C délire' et des cartes 'Type de créature D délire'. Quels decks permettront de jouer ces créatures ? Quatre types de deck : les decks de type de créature A, les decks de type de créature B, les decks de type de créature C et les decks de type de créature D.
 
@@ -240,7 +246,9 @@ Vous vous rappelez l'importance de la synergie expliquée un peu plus tôt ? Plu
 
 ### Bonne nuit les petits
 
-![Voice_of_Grace](https://i.ormos.uk/33/1a/331a819dce61d28761a393d0a66d3a66d003830bed6a091a649f8aea8eac0898.jpg)J'espère que la chronique d'aujourd'hui vous aura donné matière à réfléchir. Je suis impatient de lire vos réactions sur le forum et dans ma boîte email. Et si quelqu'un a envie de m'envoyer un méchant email, faites donc ! J'ai toujours besoin de matière pour alimenter ma chronique. 
+![Voice_of_Grace](https://i.ormos.uk/33/1a/331a819dce61d28761a393d0a66d3a66d003830bed6a091a649f8aea8eac0898.jpg)
+
+J'espère que la chronique d'aujourd'hui vous aura donné matière à réfléchir. Je suis impatient de lire vos réactions sur le forum et dans ma boîte email. Et si quelqu'un a envie de m'envoyer un méchant email, faites donc ! J'ai toujours besoin de matière pour alimenter ma chronique. 
 
 Retrouvez-moi la semaine prochaine ; je serai encore plus marquant que d'habitude.
 

@@ -110,7 +110,9 @@ render_recovery:
   - Rushing River
   occurrences: 128
 ---
-![](https://i.ormos.uk/ce/6a/ce6a218b1842541a2cbf4b45cf887e85b939312e7e4fa8dce4a4f776d1b65bea.jpg)Daniel Zink was the 2001 German National Champion and was in the midst of an impressive run toward another title on Sunday. He sat atop the standings with a stunning 13-2 record. Breathing down his neck was the last APAC Champion, Jon Okamoto at 12-2-1. Both players were likely to make the Top 8 but Jin needed a win to assure breaking his streak.
+![](https://i.ormos.uk/ce/6a/ce6a218b1842541a2cbf4b45cf887e85b939312e7e4fa8dce4a4f776d1b65bea.jpg)
+
+Daniel Zink was the 2001 German National Champion and was in the midst of an impressive run toward another title on Sunday. He sat atop the standings with a stunning 13-2 record. Breathing down his neck was the last APAC Champion, Jon Okamoto at 12-2-1. Both players were likely to make the Top 8 but Jin needed a win to assure breaking his streak.
 
 The same year that Zink was wearing the sash of the German Nationals Championship, Jin fell one match short of making the Top 8 at Worlds. He finished an excruciating tenth. One year layer, he climbed a spot to finish an even more painful ninth at Pro Tour Los Angeles. If he hoped to assure himself of a Top 8 berth he would need one more victory.
 
@@ -144,7 +146,9 @@ Honest.
 
 Not a joke.
 
-![](https://i.ormos.uk/ac/ec/acec20b7340ead6c87fdb2aa9ba378deae4f248b95b6260be16e599464166cb5.jpg)Zink's hand of Wumpus, Entomb, Cabal Therapy, Polluted Delta, Vamp Tutor, Visara, and Vendetta was solid but he needed to have another land to cast Entomb EOT, upkeep Vampiric Tutor for Reanimate and play a land to cast it. Without that second land he would be off by a turn and he wasn't sure how much time he had to spare. Despite those concerns he kept his hand. 
+![](https://i.ormos.uk/ac/ec/acec20b7340ead6c87fdb2aa9ba378deae4f248b95b6260be16e599464166cb5.jpg)
+
+Zink's hand of Wumpus, Entomb, Cabal Therapy, Polluted Delta, Vamp Tutor, Visara, and Vendetta was solid but he needed to have another land to cast Entomb EOT, upkeep Vampiric Tutor for Reanimate and play a land to cast it. Without that second land he would be off by a turn and he wasn't sure how much time he had to spare. Despite those concerns he kept his hand. 
 
 Jin on the other hand could not keep a five-lander with only Fanatic and Rites of Initiation as his spells. His second hand was better but had not explosive and he kept it. Zink decided to see what Join had going on and cast Cabal Therapy for Goblin Lackey. He whiffed but saw a Piledriver, Fanatic and a Goblin Assassin. 
 
@@ -176,7 +180,9 @@ His second hand was fine and Jin led off with Lackey. Zink smoked it with a Vend
 
 Zink cast Therapy on himself naming Symbiotic Wurm and revealed a hand of Exhume Vamp Tutor and Island. Jin played a Warchief and swung in for three. Zink kept fingering his two lands—one tapped and one untapped. When he touched the untapped one he was undoubtedly considering the Tutor but the tapped one meant he wanted to untap and see a fresh card. He chose the latter and Exhumed the Wurm and Jin's Lackey. He flashed back the Cabal Therapy as time was called and named Goblin Sharpshooter. He saw a Siege-Gang Commander, Skirk Prospector and a Gempalm. 
 
-![](https://i.ormos.uk/6f/76/6f76869b8132456cb002bf3e451fb1cc9bc7e2702a37faeefe5c5bb3af075d7f.jpg)With time called Jin was playing to win into Top 8 and Zink was playing for the tie he needed to get there himself. On the first extra turn, Jin cast a Ringleader and scooped up a pair of Piledrivers and two other goblins. He was not prepared to attack into Zink's army of insect tokens and passed the turn. During the end of the turn, Zink cast Vampiric Tutor and narrowed his choice down to two cards—Engineered Plague and Contamination. After much debate he took the latter and played it on his turn.
+![](https://i.ormos.uk/6f/76/6f76869b8132456cb002bf3e451fb1cc9bc7e2702a37faeefe5c5bb3af075d7f.jpg)
+
+With time called Jin was playing to win into Top 8 and Zink was playing for the tie he needed to get there himself. On the first extra turn, Jin cast a Ringleader and scooped up a pair of Piledrivers and two other goblins. He was not prepared to attack into Zink's army of insect tokens and passed the turn. During the end of the turn, Zink cast Vampiric Tutor and narrowed his choice down to two cards—Engineered Plague and Contamination. After much debate he took the latter and played it on his turn.
 
 Jin was puzzled and thought for a long time about how to play his turn with his lands only making black mana. He did have the Prospector and the Warchief so he could maneuver pretty well. He started by sacrificing the Ringleader to play a Goblin Matron, which found a Sharpshooter. The Sharpshooter was played with the aid of a sacrificed Lackey.
 

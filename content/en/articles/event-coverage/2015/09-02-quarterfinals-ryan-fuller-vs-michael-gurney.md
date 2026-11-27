@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Terry Tsang*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/QFFulerGurn.jpg)This Quarterfinal matchup pitted two of B.C.'s finest in Ryan Fuller and Michael Gurney. Fuller, who has had a great deal of Pro Tour success, was making a return to the Magic scene after a six-month hiatus. Gurney also recently returned back to the Magic scene after leaving the game in frustration. The deck match-up looked favorable for Fuller as he was playing Stompy against Accelerated Blue. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/QFFulerGurn.jpg)
+
+This Quarterfinal matchup pitted two of B.C.'s finest in Ryan Fuller and Michael Gurney. Fuller, who has had a great deal of Pro Tour success, was making a return to the Magic scene after a six-month hiatus. Gurney also recently returned back to the Magic scene after leaving the game in frustration. The deck match-up looked favorable for Fuller as he was playing Stompy against Accelerated Blue. 
 
 ### Game 1
 
@@ -62,7 +64,9 @@ Fuller 1 Gurney 1
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/QFFulGur.jpg)Fuller started off this game with yet another mulligan. Fuller seemed rather upset about this as he had mulliganed all three games. Fuller started out fast once again with forest, Wild Dogs. Gurney played a Keg and Fuller played added another creature to his force. Gurney was forced to Keg away the Dog and Treachery a Pouncing Jaguar to slow down Fuller's attack. Gurney opted not to cast a Morphling on the next turn opting to keep mana available to bluff a counterspell. A couple more Dogs joined Ryan's side and Gurney decided to use Stroke of Genius to get three cards. A Keg and the Morphling came down a few turns later. Fuller was able to get Gurney down to 1 but Morphling was able to do what he does best and held off a Rancored Dogs while attacking for 5.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/QFFulGur.jpg)
+
+Fuller started off this game with yet another mulligan. Fuller seemed rather upset about this as he had mulliganed all three games. Fuller started out fast once again with forest, Wild Dogs. Gurney played a Keg and Fuller played added another creature to his force. Gurney was forced to Keg away the Dog and Treachery a Pouncing Jaguar to slow down Fuller's attack. Gurney opted not to cast a Morphling on the next turn opting to keep mana available to bluff a counterspell. A couple more Dogs joined Ryan's side and Gurney decided to use Stroke of Genius to get three cards. A Keg and the Morphling came down a few turns later. Fuller was able to get Gurney down to 1 but Morphling was able to do what he does best and held off a Rancored Dogs while attacking for 5.
 
 Fuller 1 Gurney 2
 
@@ -74,7 +78,9 @@ Fuller 2 Gurney 2
 
 ### Game 5
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/QFGurn.jpg)Fuller was finally able to start with 7 cards in hand and one of the best hands he has had all event. It included two forests, Elvish Lyrist, Gaea's Cradle, two Rushwood Legate and Tangle Wire. Gurney started off with a Faerie Conclave, then a Port and a Keg. Fuller meanwhile had drawn another Legate and an Uktabi Orangutan. Gurney laid an Island and said go. Fuller then drew a Boa and attempted to play it, but Gurney had a Counterspell. Fuller then went off, dropping all 3 Legates and a Tangle Wire. Gurney put a second counter on his Keg and tapped all of his lands for the Tangle Wire. Gurney didn't have a fourth land and was forced to say go. Fuller then drops the monkey on the Keg, played a Village and attacked for 7. Gurney played Hibernation during his upkeep to survive a little longer. Fuller Rancored up the Village served then replayed his 3 Legates. Gurney dropped a Keg, but is about to lose when Fuller decided to try and play Rancor on the Village. Gurney used the Keg to stop that plan. Fuller's bad play did not cost him the match though as his Legates were just too much for Gurney.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/QFGurn.jpg)
+
+Fuller was finally able to start with 7 cards in hand and one of the best hands he has had all event. It included two forests, Elvish Lyrist, Gaea's Cradle, two Rushwood Legate and Tangle Wire. Gurney started off with a Faerie Conclave, then a Port and a Keg. Fuller meanwhile had drawn another Legate and an Uktabi Orangutan. Gurney laid an Island and said go. Fuller then drew a Boa and attempted to play it, but Gurney had a Counterspell. Fuller then went off, dropping all 3 Legates and a Tangle Wire. Gurney put a second counter on his Keg and tapped all of his lands for the Tangle Wire. Gurney didn't have a fourth land and was forced to say go. Fuller then drops the monkey on the Keg, played a Village and attacked for 7. Gurney played Hibernation during his upkeep to survive a little longer. Fuller Rancored up the Village served then replayed his 3 Legates. Gurney dropped a Keg, but is about to lose when Fuller decided to try and play Rancor on the Village. Gurney used the Keg to stop that plan. Fuller's bad play did not cost him the match though as his Legates were just too much for Gurney.
 
 Fuller 3 Gurney 2
 

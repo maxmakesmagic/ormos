@@ -138,7 +138,9 @@ render_recovery:
   - Turn to Dust
   occurrences: 121
 ---
-![](https://i.ormos.uk/e9/6e/e96e45c0a2f12568d5f4af5bb0bde5bd748565484b7720fe413ca8ab61c9f36f.jpg)One of the big stories today has been the surge of the old guard. Leading that charge has been the Godfather of Japanese Magic Ken'ichi Fujita and Japanese Sideboard honcho Kouichirou Maki--or the "Twentieth Century Boys" as the younger players refer to them. The found themselves sitting down at Table One along with Japanese National Team member Osamu Fujita. Only two other players at the the top table had any pro points coming into this event. Tomohide Sasakawa and and Kazuki Katou did not have the same degree of success but they had managed to pick up some Pro Points along the way.
+![](https://i.ormos.uk/e9/6e/e96e45c0a2f12568d5f4af5bb0bde5bd748565484b7720fe413ca8ab61c9f36f.jpg)
+
+One of the big stories today has been the surge of the old guard. Leading that charge has been the Godfather of Japanese Magic Ken'ichi Fujita and Japanese Sideboard honcho Kouichirou Maki--or the "Twentieth Century Boys" as the younger players refer to them. The found themselves sitting down at Table One along with Japanese National Team member Osamu Fujita. Only two other players at the the top table had any pro points coming into this event. Tomohide Sasakawa and and Kazuki Katou did not have the same degree of success but they had managed to pick up some Pro Points along the way.
 
 That was more than the three rookies who rounded out the pod. Satoshi Harada was a well regarded local PTQ player coming into this tournament. He was in an excellent position to push through to the Top 8 with only one more win needed at 10-0-1 and resting atop the standings. Likewise Tetsuya Kitano but with a 9-1-1 record he could not afford more than one more loss. Shuzo Iwano was undefeated coming into today's play but he could not manage more than a single win in his previous draft pod despite his broken Molder Slug draft.
 
@@ -167,7 +169,9 @@ If Sasagawa's blood was freezing he did not show it and he calmly took a Goblin 
 
 When the packs swung around he took a Cobalt Golem fourth pick and a Spikeshot Goblin as his third--not only sticking to his blue guns but trying to muscle in on red as well. He took a Regress as his second pick and was happy to find a Duplicant awaiting him for the second pack that he go tot open.
 
-![](https://i.ormos.uk/76/24/762483c823cc0d2a210560aaa0c621a4a60e3538b3542de37865a694d5af59fc.jpg)His draft went along in similar fashion with no breakout cards or good equipment until he opened his final pack. It contained a Bonesplitter and a Myr Enforcer but he had to take the Oblivion Stone despite feeliong the understandable lure of the equipment.
+![](https://i.ormos.uk/76/24/762483c823cc0d2a210560aaa0c621a4a60e3538b3542de37865a694d5af59fc.jpg)
+
+His draft went along in similar fashion with no breakout cards or good equipment until he opened his final pack. It contained a Bonesplitter and a Myr Enforcer but he had to take the Oblivion Stone despite feeliong the understandable lure of the equipment.
 
 When asked after the draft to give his deck a thumbs up or a thumbs down he instead chose to lay his head down on the feature match playmat whewre he was registering his deck. "Just looking at the cards--laying them out like this--it looks like a good deck. If you look at it in relation to the other decks that are likely to be built at the table it is not so strong."
 

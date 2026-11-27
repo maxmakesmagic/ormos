@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsin03/a994.jpg)The first thing you notice when you speak to the Mild-mannered Sam Lau is that he is so easy going. The winner at the 2000 Singapore Grand Prix comes acroos as someone who is genuinely hap tobe here having fun.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsin03/a994.jpg)
+
+The first thing you notice when you speak to the Mild-mannered Sam Lau is that he is so easy going. The winner at the 2000 Singapore Grand Prix comes acroos as someone who is genuinely hap tobe here having fun.
 
 As for his deck, it seems to be tight , running of a veryy strong mana curve.
 

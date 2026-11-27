@@ -55,7 +55,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/19/78/1978a8ad86e938271b567f41b67f464bb8e8024896894d8fc1c9af7e1a1658eb.jpg)Pro Tour competitor Ken Ho burst onto the Magic scene with a 17th place finish at Pro Tour Chicago in 2000. He nearly won the 2000/2001 season rookie of the year award, with another top 32 finish in PT LA that year. Although the San Francisco player hasn't had very many high finishes since then, he obviously ended that drought with his top 8 finish here in Osaka.
+![](https://i.ormos.uk/19/78/1978a8ad86e938271b567f41b67f464bb8e8024896894d8fc1c9af7e1a1658eb.jpg)
+
+Pro Tour competitor Ken Ho burst onto the Magic scene with a 17th place finish at Pro Tour Chicago in 2000. He nearly won the 2000/2001 season rookie of the year award, with another top 32 finish in PT LA that year. Although the San Francisco player hasn't had very many high finishes since then, he obviously ended that drought with his top 8 finish here in Osaka.
 
 For this Tour, Ken Ho signed up for the Magic Colony in order to playtest for *Odyssey* Block Constructed with a group of his peers. While most of the other members of the Colony played a Red/Blue/Black deck, Ken designed a Blue/Green deck of his own. Unlike nearly every other deck of this type in the field, Ken's featured Squirrel Nest and multiple Upheavals main deck. It also shunned such cards as Careful Study and Aether Burst. It did sport a very high-tech Tarnished Citadel!
 

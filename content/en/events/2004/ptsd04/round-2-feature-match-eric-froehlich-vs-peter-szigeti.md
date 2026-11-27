@@ -519,7 +519,9 @@ render_recovery:
 ---
 * * *
 
-![Eric Froehlich](http://www.wizards.com/sideboard/images/ptsd04/fm6_1.jpg)Eric Froehlich, or EFro as he's often called, at one point seemed to be making a run at being one of the top American players. He was playing all the time and was well on his way to becoming a consistent player on the Tour. At some point though he stopped taking the game as seriously, and his results began to reflect that. Recently he made top 4 at Grand Prix: DC as part of Re-Elect Gore, which seems to have rekindled his desire to do well.
+![Eric Froehlich](http://www.wizards.com/sideboard/images/ptsd04/fm6_1.jpg)
+
+Eric Froehlich, or EFro as he's often called, at one point seemed to be making a run at being one of the top American players. He was playing all the time and was well on his way to becoming a consistent player on the Tour. At some point though he stopped taking the game as seriously, and his results began to reflect that. Recently he made top 4 at Grand Prix: DC as part of Re-Elect Gore, which seems to have rekindled his desire to do well.
 
 Peter, otherwise known as PTR, is a notorious bad boy of the game who has had a good degree of success at points, but he seems to be fading out as his passion for Magic wanes.
 

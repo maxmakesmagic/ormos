@@ -114,7 +114,9 @@ Both of these players, two of Korea's finest, are within a match win of a Top 8 
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gphir03/a937.jpg)Lee opened with Llanowar Wastes, readying Entomb. Kang dropped Yavimaya Coast and Birds of Paradise. Lee sent Visara the Dreadful to the graveyard. His next draw yielded no third land, but he had Vampiric Tutor to fetch Reanimate. Kang dropped a land and waited. Lee brought back the Gorgon Legend.
+![](http://www.wizards.com/sideboard/images/gphir03/a937.jpg)
+
+Lee opened with Llanowar Wastes, readying Entomb. Kang dropped Yavimaya Coast and Birds of Paradise. Lee sent Visara the Dreadful to the graveyard. His next draw yielded no third land, but he had Vampiric Tutor to fetch Reanimate. Kang dropped a land and waited. Lee brought back the Gorgon Legend.
 
 Kang was ready for this. Living Wish got him Gilded Drake, turning the tables. Lee tried a Cabal Therapy for Aluren, but missed. His Drake died on the next turn, but the top of his deck had served him another Reanimate, switching the Gorgon's side again. Kang smiled as he showed yet another Living Wish for a second Drake. Lee drew, and conceded.
 
@@ -126,7 +128,9 @@ Again Lee had the Entomb for an Early Visara, but he waited on the Reanimate he 
 
 Next he tried Cabal Therapy for Aluren, missing and seeing a handful of goodies. He bashed Kang to twelve and gave it over to him. Kang Living Wished again, this time for Soul Warden, but did nothing further. Lee Tutored up a Cabal Therapy to strip his Cavern Harpy. He activated his Treetop to flash it back, stealing Raven Familiar after Kang Tutored up Faceless Butcher, and held Visara at the ready to shut down any Gilded Drakes. 
 
-![](http://www.wizards.com/sideboard/images/gphir03/a938.jpg)The Butcher came down and Lee had nothing to say about it. Kang's anemic beatdown of Butcher and Cloud of Faeries brought them to seven all. Lee ripped Oath of Druids and put it down. Kang swung, and then Living Wished for Maggot Carrier, one mana short of the Monk Realist that would save him. Lee's Oath gave him Faceless Butcher, swinging things firmly in his favor. Kang had two draws to find an answer before Visara would cut down the Faeries and swing for the win. He drew nothing.
+![](http://www.wizards.com/sideboard/images/gphir03/a938.jpg)
+
+The Butcher came down and Lee had nothing to say about it. Kang's anemic beatdown of Butcher and Cloud of Faeries brought them to seven all. Lee ripped Oath of Druids and put it down. Kang swung, and then Living Wished for Maggot Carrier, one mana short of the Monk Realist that would save him. Lee's Oath gave him Faceless Butcher, swinging things firmly in his favor. Kang had two draws to find an answer before Visara would cut down the Faeries and swing for the win. He drew nothing.
 
 Kang 1 – Lee 1
 

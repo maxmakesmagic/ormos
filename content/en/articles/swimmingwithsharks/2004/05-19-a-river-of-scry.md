@@ -580,7 +580,9 @@ Kai Budde
   
  
 
-![](https://i.ormos.uk/bd/47/bd477b58b1bac26880990f98def64221dd5fff45f864864296f043b46cb4ea61.jpg)I think you could fit the card into Kai's build, perhaps by replacing one Memory Lapse and one Future Sight for a pair of Eyes. The Sunscape Familiar and the Eyes of the Watcher have some funny interactions, reducing the cost of the blue or green spells so you can pay one more to activate your Eyes. The card is clearly ridiculous if it is in play at the same time as a Future Sight. I can't even imagine how broken it must feel to cast Rampant Growth off the top of your deck and then Scry into an Early Harvest and Scry into Mind's Desire and then Scry into… Well, I am sure you get the idea.
+![](https://i.ormos.uk/bd/47/bd477b58b1bac26880990f98def64221dd5fff45f864864296f043b46cb4ea61.jpg)
+
+I think you could fit the card into Kai's build, perhaps by replacing one Memory Lapse and one Future Sight for a pair of Eyes. The Sunscape Familiar and the Eyes of the Watcher have some funny interactions, reducing the cost of the blue or green spells so you can pay one more to activate your Eyes. The card is clearly ridiculous if it is in play at the same time as a Future Sight. I can't even imagine how broken it must feel to cast Rampant Growth off the top of your deck and then Scry into an Early Harvest and Scry into Mind's Desire and then Scry into… Well, I am sure you get the idea.
 
 While we are talking Extended—online or otherwise—I can easily see this card fitting into a Psychatog deck or any blue-black control deck. Innocent Blood and Ghastly Demise are still easy to cast at two mana and a Counterspell for three is still cheaper than any of the current Standard options for a hard counter. Basically any deck with a specific kill card and plenty of spells would be an ideal home for this enchantment. 
 

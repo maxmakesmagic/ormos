@@ -53,7 +53,9 @@ archive_source:
   sha256: 18e3bf8fc1e1fb2998186a7443bc37dfd3d5ab7fd3431651faceb39bf69e748d
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gplon03/a859.jpg)Top 8, this is what the weekend has been all about. The field has been cut down from 525 players to just eight. These two are part of that privileged few and they know it. There’s a very relaxed atmosphere, a lot of early joking and jovialities. Josh Rider and Eivind Nitter have torn their way through the tournament playing almost exactly the same deck, WR Control. Their versions differ little, Eivind has the slight advantage main, having a fourth Astral Slide and two Wing Shards instead of Rider’s three Gempalm Incinerators, but after sideboarding the decks are identical.
+![](http://www.wizards.com/sideboard/images/gplon03/a859.jpg)
+
+Top 8, this is what the weekend has been all about. The field has been cut down from 525 players to just eight. These two are part of that privileged few and they know it. There’s a very relaxed atmosphere, a lot of early joking and jovialities. Josh Rider and Eivind Nitter have torn their way through the tournament playing almost exactly the same deck, WR Control. Their versions differ little, Eivind has the slight advantage main, having a fourth Astral Slide and two Wing Shards instead of Rider’s three Gempalm Incinerators, but after sideboarding the decks are identical.
 
 Rider won the coin flip and elected to play. Nitter was the first one with a non-land permanent, a turn two Rift. He backed it up the following turn with a morphed Exalted Angel. It flipped over and swung at the first opportunity.
 

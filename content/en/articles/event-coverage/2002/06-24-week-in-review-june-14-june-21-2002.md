@@ -142,7 +142,9 @@ In related news, Mike Turian accepted a position as editor-in-chief of [www.Grim
 
 ### Canada Nationals
 
-![](http://www.wizards.com/sideboard/images/canat02/883.jpg)The metagame at this tournament followed a simple formula. "Dominance of Psychatog and Opposition at U.S. Nationals equals red-green Anti-Tog being a good deck." Three of the Top 8 decks belonged to this archetype, with two Opposition and one Psychatog deck also making the cut. But it was the blue-red-green archetype, represented by two different decks in the Top 8, that ended up at the top. 
+![](http://www.wizards.com/sideboard/images/canat02/883.jpg)
+
+The metagame at this tournament followed a simple formula. "Dominance of Psychatog and Opposition at U.S. Nationals equals red-green Anti-Tog being a good deck." Three of the Top 8 decks belonged to this archetype, with two Opposition and one Psychatog deck also making the cut. But it was the blue-red-green archetype, represented by two different decks in the Top 8, that ended up at the top. 
 
 Jurgen Hahn's deck takes a step back several months, when red-blue-green first emerged as an archetype around the time of U.S. Regionals. It had what it takes to take down two Anti-Tog decks and an Opposition, to earn Hahn $3200 and the title of the National Champion. Hahn defeated Jon Stern in the finals. Stern only managed a 3-3 performance with his r-g deck on Day 1, but made Top 8 thanks to a strong showing in the draft portion of the tournament, and fought his way into the finals, and onto the national team. Ray Weiss and David Rood duked it out for the remaining spot on the team. Weiss defeated Rood, but knew he would be unable to attend Worlds, and forfeited the slot on his team to Rood. His victory over Rood netted him an additional $600 in prize money.
 
@@ -150,7 +152,9 @@ A wildcard team represents Canada this year. Can they live up to the tradition o
 
 ### Coming Up: Team Grand Prix-New Jersey
 
-![](https://i.ormos.uk/41/ec/41eca202de4e516b06754ce34fd4d4dcf551260fd3dedaf603f6585fafc3bbf2.jpg)East Coast players are getting ready for what may become yet another record-breaking Grand Prix this season. On top of the pro points and prize money, this tournament is a one-slot qualified for next year's Team Masters - which means every pro team worth its salt will at least consider attending. Several of the top European players - including Kai Budde - have considered attending this tournament over the European Championship, but were unable to find inexpensive airfare.
+![](https://i.ormos.uk/41/ec/41eca202de4e516b06754ce34fd4d4dcf551260fd3dedaf603f6585fafc3bbf2.jpg)
+
+East Coast players are getting ready for what may become yet another record-breaking Grand Prix this season. On top of the pro points and prize money, this tournament is a one-slot qualified for next year's Team Masters - which means every pro team worth its salt will at least consider attending. Several of the top European players - including Kai Budde - have considered attending this tournament over the European Championship, but were unable to find inexpensive airfare.
 
 With a large competitive player base in the tri-state area, there will be plenty of amateur teams as well. Just about every competitive player here in Brooklyn plans to attend - even the ones who tend to show up to only half or so of New York qualifiers. 
 
@@ -170,7 +174,9 @@ Last week's question:
 
 *Where will the U.S. National Championships be held next year?*
 
-![](http://www.wizards.com/tournaments/images/nationals_sm.jpg)At Nationals this year, we found out that after several years in Florida, the event will be picking up and moving to the other coast. It seems that the next Nationals and JSS Finals will be held in San Diego. Well, at least the new location is just as sunny and warm.
+![](http://www.wizards.com/tournaments/images/nationals_sm.jpg)
+
+At Nationals this year, we found out that after several years in Florida, the event will be picking up and moving to the other coast. It seems that the next Nationals and JSS Finals will be held in San Diego. Well, at least the new location is just as sunny and warm.
 
 New question:
 

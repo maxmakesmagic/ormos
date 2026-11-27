@@ -48,13 +48,17 @@ render_recovery: []
 
 Final result: 2-1 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/Redi-Gregorich.jpg)The two players went through a relaxed match, that went smooth for both player's land affluence: no mana-screws or -floods, just the good old Magic game. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/Redi-Gregorich.jpg)
+
+The two players went through a relaxed match, that went smooth for both player's land affluence: no mana-screws or -floods, just the good old Magic game. 
 
 Redi is an oldtimer by Magic standards: twice second place in the Italian Championship, an 'abitué' of the PT scene ever since the 1st PT New York where he got to the 8th place. Gregorich's main achivement was a second place at GP Amsterdam, losing only to Kai Budde in the final match. 
 
 The first game stated like this: Redi goes first, Plains, Ramosian Sergeant; Gregorich answers by playing Swamp, Plague Witch; Redi goes Plains, attack with the Sergeant and is done, leaving his two plains untapped. This is the first key point in the game: Gregorich fears Redi's third plains, for that is the activation cost of the Rebel's ability. So he activates the Witch targeting the Sergeant. Redi responds by casting Rhystic Shield to save the Rebel. Gregorich chooses to sacrifice the Seal of Doom and finally kills the Sergeant. The key point is this: Redi does not have Rebels in his deck, except for another Sergeant and a Ramosian Marshal (not recrutable by the 1/1 rebel. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/Gregorich.jpg)A different chioce by Gregorich probably whould have changed the final result of the first game, as he conceded several turns later when he was in a superior position but unable to kill his opponent. Redi was in fact gaining life with the Well of Life, and Gregorich attackers could only slip through by removing Redi's main blocker via Waterfront Bouncer. That Seal of Doom would have probably made the difference. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/Gregorich.jpg)
+
+A different chioce by Gregorich probably whould have changed the final result of the first game, as he conceded several turns later when he was in a superior position but unable to kill his opponent. Redi was in fact gaining life with the Well of Life, and Gregorich attackers could only slip through by removing Redi's main blocker via Waterfront Bouncer. That Seal of Doom would have probably made the difference. 
 
 The second game took the same road: Gregorich casts Seal of Doom by the third turn and again kills the hated rebel. The two keep on casting creatures in a stall position until a Wandering Eye hits the table on Gregorich side. At that point, the game plunges in an even deeper stall situation (Redi has a Diving Griffin out to prevent Wandering Eye from attacking). Then a Pit Raptor (Gregorich's) and a Silkenfist Order (Redi's) hit the table, and a Damage race begin. Redi seems on the losing side of it, but then he topdecks the Well of Life again, and that card wins the game. 
 

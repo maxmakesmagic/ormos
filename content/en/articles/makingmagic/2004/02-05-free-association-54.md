@@ -61,4 +61,6 @@ archive_source:
   sha256: eeac9df0eb826dfb47475319f4ea72e5243ee0dd00698e55edc3edbb86cf40c4
 render_recovery: []
 ---
-![](https://i.ormos.uk/e2/5b/e25bacf7b6d47a158dd676bb8e80235d9f85d53aea20cdd4cf29d4b3b5381dfa.jpg)For a long time employees referred to Wizards of the Coast as “watzee”. This came from pronouncing the first letter in each word (WotC). Eventually, we realized that “watzee” was [confusing](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/mr110.asp) to the public and started shortening Wizards of the Coast to just Wizards.
+![](https://i.ormos.uk/e2/5b/e25bacf7b6d47a158dd676bb8e80235d9f85d53aea20cdd4cf29d4b3b5381dfa.jpg)
+
+For a long time employees referred to Wizards of the Coast as “watzee”. This came from pronouncing the first letter in each word (WotC). Eventually, we realized that “watzee” was [confusing](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/mr110.asp) to the public and started shortening Wizards of the Coast to just Wizards.

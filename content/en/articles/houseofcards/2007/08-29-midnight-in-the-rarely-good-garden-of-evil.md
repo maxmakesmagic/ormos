@@ -897,7 +897,9 @@ render_recovery:
 
 Welcome to another edition of House of Cards! Before I begin this week's deck-stivities with arguably the worst coinage ever (oops, too late.), I'd like to spend a little time discussing something near and dear to all of our hearts. No, not our bicuspid valves. I'm talking about baseball.
 
-![](https://i.ormos.uk/c9/53/c9535a9243363e8099c45a77c59b3fb6e54861afc7dd1a3791bfd1b9691477eb.jpg)Ah, baseball. Will your laidback rhythms ever cease to be the source of frustration? Will your adorable jargon, your dingers, taters, and back-to-back jacks, ever cease to confuse? Instead of using baseball as my framing device for [last week's article](/en/articles/houseofcards/2007/08-22-tribal-play), I should've used something with more universal appeal, like superhero comics or [**Dungeons and Dragons**](/en/articles/makingmagic/2007/08-27-topical-blend-3-sessions-2). Ah, well. Next time.
+![](https://i.ormos.uk/c9/53/c9535a9243363e8099c45a77c59b3fb6e54861afc7dd1a3791bfd1b9691477eb.jpg)
+
+Ah, baseball. Will your laidback rhythms ever cease to be the source of frustration? Will your adorable jargon, your dingers, taters, and back-to-back jacks, ever cease to confuse? Instead of using baseball as my framing device for [last week's article](/en/articles/houseofcards/2007/08-22-tribal-play), I should've used something with more universal appeal, like superhero comics or [**Dungeons and Dragons**](/en/articles/makingmagic/2007/08-27-topical-blend-3-sessions-2). Ah, well. Next time.
 
 As many of you are well aware, the *Lorwyn* preview season is almost upon us. Crafty acrosticians might have already gotten [a sneak peek](https://web.archive.org/web/20071020225100/http://www.wizards.com/default.asp?x=magic/planeswalkers/home) at the newest (and perhaps exciting-est) way to pump your opponents' Tarmogoyfs. While we're in this sort of calm before the preview storm, I thought I'd take the opportunity to reminisce about some past previews I've done. Join me as I travel back in time, all the way to *Future Sight*.
 

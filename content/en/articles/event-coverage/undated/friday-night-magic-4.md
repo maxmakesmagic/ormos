@@ -103,7 +103,9 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 5/14/2010 12:59:43 PM
 
-[![](http://a1.twimg.com/profile_images/605780658/l_c75e7d4a00b8edefef501c4691012a10_normal.jpg)](http://twitter.com/tjsharrock)[**tjsharrock**](http://twitter.com/tjsharrock) In Zanesville for neurologist appt, then to the Bargain Box for [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) a lil early.
+[![](http://a1.twimg.com/profile_images/605780658/l_c75e7d4a00b8edefef501c4691012a10_normal.jpg)](http://twitter.com/tjsharrock)
+
+[**tjsharrock**](http://twitter.com/tjsharrock) In Zanesville for neurologist appt, then to the Bargain Box for [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) a lil early.
 
 5/14/2010 12:41:52 PM
 
@@ -111,7 +113,9 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 5/14/2010 11:21:11 AM
 
-[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)[**g\_remix**](http://twitter.com/g_remix) 今晩のフライデーナイトマジックは、参加者16名。ま、普通ですねｗ では、かんぱーい！ [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) [#WANNABEER](http://search.twitter.com/search?q=%23WANNABEER) [http://twitpic.com/1np71u](http://twitpic.com/1np71u)
+[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)
+
+[**g\_remix**](http://twitter.com/g_remix) 今晩のフライデーナイトマジックは、参加者16名。ま、普通ですねｗ では、かんぱーい！ [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) [#WANNABEER](http://search.twitter.com/search?q=%23WANNABEER) [http://twitpic.com/1np71u](http://twitpic.com/1np71u)
 
 5/14/2010 10:58:52 AM
 
@@ -119,7 +123,9 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 5/14/2010 8:13:06 AM
 
-[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)[**g\_remix**](http://twitter.com/g_remix) 今晩のフライデーナイトマジックはスタンダードです。みなさまのご参加をお待ち申し上げております。 絶賛カード収集中。あとは白黒フェッチを入手すれば白単完成！ [http://bit.ly/daRCC9](http://bit.ly/daRCC9) [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM)
+[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)
+
+[**g\_remix**](http://twitter.com/g_remix) 今晩のフライデーナイトマジックはスタンダードです。みなさまのご参加をお待ち申し上げております。 絶賛カード収集中。あとは白黒フェッチを入手すれば白単完成！ [http://bit.ly/daRCC9](http://bit.ly/daRCC9) [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM)
 
 5/13/2010 11:15:31 PM
 
@@ -143,7 +149,9 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 5/10/2010 12:50:58 PM
 
-[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)[**g\_remix**](http://twitter.com/g_remix) \[MTG\]5/14(金)はFNMです。 [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) - G!ReMix/ジーリミックス日日 [http://bit.ly/diQbTu](http://bit.ly/diQbTu) [#twitbackr](http://search.twitter.com/search?q=%23twitbackr)
+[![](http://a3.twimg.com/profile_images/885634927/kenny_normal.jpg)](http://twitter.com/g_remix)
+
+[**g\_remix**](http://twitter.com/g_remix) \[MTG\]5/14(金)はFNMです。 [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) - G!ReMix/ジーリミックス日日 [http://bit.ly/diQbTu](http://bit.ly/diQbTu) [#twitbackr](http://search.twitter.com/search?q=%23twitbackr)
 
 5/10/2010 12:30:51 AM
 

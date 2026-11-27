@@ -83,7 +83,9 @@ render_recovery:
 
 Bonjour et bienvenue à Magic Academy ! Aujourd'hui, nous allons étudier les différents formats Construits utilisés en compétition.
 
-![Reshape](https://i.ormos.uk/a9/f0/a9f06011389bc9b57beca230cba49d10fd8caa166850aa5a12064cfc4e21528e.jpg)Comme nous l'avons déjà expliqué, les tournois en format Construit nécessitent que vous construisiez votre deck à l'avance. (Pour les tournois en Limité, les cartes sont fournies.) Selon le format utilisé pendant un tournoi donné, vous aurez l'option de sélectionner vos cartes dans plusieurs extensions. Certains formats n'autorisent que les extensions plus récentes ; d'autres vont plus loin dans le temps. 
+![Reshape](https://i.ormos.uk/a9/f0/a9f06011389bc9b57beca230cba49d10fd8caa166850aa5a12064cfc4e21528e.jpg)
+
+Comme nous l'avons déjà expliqué, les tournois en format Construit nécessitent que vous construisiez votre deck à l'avance. (Pour les tournois en Limité, les cartes sont fournies.) Selon le format utilisé pendant un tournoi donné, vous aurez l'option de sélectionner vos cartes dans plusieurs extensions. Certains formats n'autorisent que les extensions plus récentes ; d'autres vont plus loin dans le temps. 
 
 Les formats qui autorisent une plus grande quantité d'extensions restent généralement familiers, même quand de nouvelles extensions sont introduites. Les formats qui n'autorisent que les cartes les plus récentes, en revanche, sont en flux constant. À mesure que les nouvelles extensions sont publiées et qu'elles deviennent légales dans ces formats, les séries plus anciennes sont retirées.
 
@@ -109,7 +111,9 @@ Vous pouvez consulter la liste des extensions légales en Standard [ici](https:/
 
 ### Bloc
 
-![Blockbuster](https://i.ormos.uk/7c/00/7c0050e3dce5ec6d72e9451535b6e87e3327afbff3a61c22b96a734b3f73b5c0.jpg)Bloc Construit permet uniquement l'utilisation du bloc en cours (1-3 extensions). En ce qui concerne le jeu en compétition, une saison de Pro Tour Qualifier par an en moyenne est en Bloc Construit (généralement quand les trois extensions sont disponibles). Ce format est jouable toute l'année sur Magic Online, et parfois, des tournois spéciaux sont organisés dans des magasins locaux.
+![Blockbuster](https://i.ormos.uk/7c/00/7c0050e3dce5ec6d72e9451535b6e87e3327afbff3a61c22b96a734b3f73b5c0.jpg)
+
+Bloc Construit permet uniquement l'utilisation du bloc en cours (1-3 extensions). En ce qui concerne le jeu en compétition, une saison de Pro Tour Qualifier par an en moyenne est en Bloc Construit (généralement quand les trois extensions sont disponibles). Ce format est jouable toute l'année sur Magic Online, et parfois, des tournois spéciaux sont organisés dans des magasins locaux.
 
 Le format Bloc Construit est unique dans le sens où il est sans cesse renouvelé. Même si d'autres formats peuvent changer radicalement lors d’une rotation, plusieurs extensions familières restent néanmoins en place. Avec le format Bloc Construit, vous êtes régulièrement confronté à une sélection de cartes totalement nouvelle. Un des aspects intéressants du jeu en bloc unique, c'est qu'il représente toujours une unité thématique. Quels que soient les thèmes principaux du bloc -- *Mirrodin* et ses artefact, ou *Odyssée* et le cimetière --, ils représentent une part importante du format Bloc Construit, ce qui vous permet de renouveler constamment votre expérience de jeu.
 
@@ -129,7 +133,9 @@ Vous pouvez consulter la liste des extensions en format Bloc [ici](https://web.a
 
 ### Étendu
 
-![Long_Term_Plans](https://i.ormos.uk/bf/99/bf99dea88c8ee9cd6a3949028e9634da678694eabe3529e0bc33d450744a12a4.jpg)Le format Standard change après 3 extensions. Le format Étendu ne change qu'après *3 blocs.* À n'importe quel moment, le format Étendu permet de jouer les 6-8 blocs les plus récents (16-24 extensions), et environ trois éditions de base. Les éditions de base sont retirées en même temps que les blocs avec lesquels elles ont été publiées. Étendu est joué un peu plus régulièrement que le Bloc, avec une saison de Pro Tour Qualifier par an, et plus de suivi local et en ligne.
+![Long_Term_Plans](https://i.ormos.uk/bf/99/bf99dea88c8ee9cd6a3949028e9634da678694eabe3529e0bc33d450744a12a4.jpg)
+
+Le format Standard change après 3 extensions. Le format Étendu ne change qu'après *3 blocs.* À n'importe quel moment, le format Étendu permet de jouer les 6-8 blocs les plus récents (16-24 extensions), et environ trois éditions de base. Les éditions de base sont retirées en même temps que les blocs avec lesquels elles ont été publiées. Étendu est joué un peu plus régulièrement que le Bloc, avec une saison de Pro Tour Qualifier par an, et plus de suivi local et en ligne.
 
 Le format Étendu, avec son importante sélection de cartes et ses changements massifs occasionnels, peut être un format intimidateur. Les decks populaires sont nombreux, et ils utilisent des cartes très différentes et des stratégies extrêmement variées. L'avantage, c'est que vu que le format ne change pas si souvent, il est très avantageux d'apprendre ces stratégies car c'est un investissement à plus long terme que d'autres formats.
 
@@ -191,7 +197,9 @@ Ce format est très présent en tournois, avec une saison de Pro Tour Qualifier 
 
 ### Notes
 
-![Accumulated_Knowledge](https://i.ormos.uk/de/e4/dee403c3b725c9a503d4a21427dc32d815c97735f9ee0a04bb90655a3fa35f54.jpg)**Dates de sortie des extensions** : Une nouvelle extension devient généralement légale en tournoi (et, si c'est la première extension d'un nouveau bloc ou une nouvelle édition de base, elle peut aussi provoquer une rotation) le 20 du mois de sa sortie. Par exemple, une extension sortie le 2 février devient légale le 20 février, mais une extension qui sort le 22 février devient légale le 20 mars. Les règles de tournoi de Magic indiquent les dates auxquelles les extensions à paraître deviendront légales.
+![Accumulated_Knowledge](https://i.ormos.uk/de/e4/dee403c3b725c9a503d4a21427dc32d815c97735f9ee0a04bb90655a3fa35f54.jpg)
+
+**Dates de sortie des extensions** : Une nouvelle extension devient généralement légale en tournoi (et, si c'est la première extension d'un nouveau bloc ou une nouvelle édition de base, elle peut aussi provoquer une rotation) le 20 du mois de sa sortie. Par exemple, une extension sortie le 2 février devient légale le 20 février, mais une extension qui sort le 22 février devient légale le 20 mars. Les règles de tournoi de Magic indiquent les dates auxquelles les extensions à paraître deviendront légales.
 
 **Classements** : Les tournois officiels Wizards of the Coast sont homologués, et les résultats individuels sont gardés et classés par la DCI. Les tournois en format Bloc, Standard et Étendu sont réunis dans le classement format 'Construit', et les tournois Vintage et Legacy sont en classement dit 'Éternel'. Les tournois en ligne on leur propre classement distinct.
 

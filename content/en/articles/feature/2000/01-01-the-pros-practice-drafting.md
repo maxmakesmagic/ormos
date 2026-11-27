@@ -63,7 +63,9 @@ render_recovery: []
 ---
 *by Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT00/images/ProDraft.jpg)With Meatgrinder #1 starting in the main tournament area, many American Pro Tour regulars began arriving at the tournament site. Everyone wants to take a look at the constructed decks being played in the 'Grinders. And there's no better way to pass time between laps through the 'Grinder tables than by doing 8-man booster drafts.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT00/images/ProDraft.jpg)
+
+With Meatgrinder #1 starting in the main tournament area, many American Pro Tour regulars began arriving at the tournament site. Everyone wants to take a look at the constructed decks being played in the 'Grinders. And there's no better way to pass time between laps through the 'Grinder tables than by doing 8-man booster drafts.
 
 Dave Price, Alan Comer, Elliot Fung, and Justin Gary were looking for a players to round out a draft. A couple of Florida players who are qualified for nationals jumped in -- Lee Steht and Antonio Derosa. Gary Wise is Canadian, of course, so he's not playing this weekend, but he's here to help out with Sideboard coverage and he joined too. They needed an 8th and I've been known to duel with the magical cards so this article is actually a first person account.
 

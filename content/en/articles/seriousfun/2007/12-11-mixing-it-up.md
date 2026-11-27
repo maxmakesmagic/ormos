@@ -85,7 +85,9 @@ archive_source:
   sha256: 8067e5de1157847c2b864af438851acfb2a09e73eee36faebde6662b4c76a196
 render_recovery: []
 ---
-[![Old_Fogey](https://i.ormos.uk/7f/47/7f4779244528f165ebb7160a77c5f9fad8d2fa7d0c7a49d69ecfd9ab7002e155.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Old%2BFogey)Alas, I am a fuddy-duddy. When people come around with their cool **Magic** variants, I just shake my head.
+[![Old_Fogey](https://i.ormos.uk/7f/47/7f4779244528f165ebb7160a77c5f9fad8d2fa7d0c7a49d69ecfd9ab7002e155.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Old%2BFogey)
+
+Alas, I am a fuddy-duddy. When people come around with their cool **Magic** variants, I just shake my head.
 
 "No thanks," say I. "I like Free-For-All."
 
@@ -111,7 +113,9 @@ Even if I am a stick-in-the-mud.
 
 ### Chaos Magic
 
-[![Grip_of_Chaos](https://i.ormos.uk/a1/08/a108c2c2c63cef5a218ccd1b76bd9a1ed2bed7cb699ee1ccb8de97dbb1bf44e5.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Grip%2Bof%2BChaos)If you delight in creating long-term plans and then carrying them out... Well, this format's not for you.
+[![Grip_of_Chaos](https://i.ormos.uk/a1/08/a108c2c2c63cef5a218ccd1b76bd9a1ed2bed7cb699ee1ccb8de97dbb1bf44e5.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Grip%2Bof%2BChaos)
+
+If you delight in creating long-term plans and then carrying them out... Well, this format's not for you.
 
 The rules of this format are pretty simple: Get a stack of various enchantments, instants, and sorceries that you think would make the game more interesting if they happened. This is called the Chaos Deck. Shuffle them up, and put them in a big ol' pile in the middle of the table.
 
@@ -143,7 +147,9 @@ The interesting thing in casual **Magic** is that Constructed formats wax and wa
 
 The rise of Elder Dragon Highlander, however, is no surprise. It has an ambassador in the form of Level 5 Judge Sheldon Menery, who has gone to great lengths to export it to every Pro Tour and Grand Prix he arrives at. (And, as an extra-special bonus for me, it was created by two friends of mine in Anchorage.)
 
-[![Nicol_Bolas](https://i.ormos.uk/7d/aa/7daa92c6ca3b4ac00d0d1a47599da06a9520e5871b9e47aa9ae7dcd26057664b.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Nicol%2BBolas)There are a fair number of rules.... but fortunately, EDH is one of the most flavor-heavy **Magic** variants around. You'll find it pretty intuitive as long as you get that you're in command of a legendary general who's commanding his army.
+[![Nicol_Bolas](https://i.ormos.uk/7d/aa/7daa92c6ca3b4ac00d0d1a47599da06a9520e5871b9e47aa9ae7dcd26057664b.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Nicol%2BBolas)
+
+There are a fair number of rules.... but fortunately, EDH is one of the most flavor-heavy **Magic** variants around. You'll find it pretty intuitive as long as you get that you're in command of a legendary general who's commanding his army.
 
  
 
@@ -166,7 +172,9 @@ EDH is played with Vintage-legal cards, with a smattering of officially banned c
 
 ### Type 4
 
-[![Infinite_Hourglass](https://i.ormos.uk/1d/25/1d25b1e63fde081e73d144c2aff33e9fd73469e76cc48c93d59425c6556960b6.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Infinite%2BHourglass)Nobody likes being mana-screwed. So how would you like a game where you start with *infinite* mana in your deck? That's right; if you've got that spell in hand, you can cast it every time.
+[![Infinite_Hourglass](https://i.ormos.uk/1d/25/1d25b1e63fde081e73d144c2aff33e9fd73469e76cc48c93d59425c6556960b6.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Infinite%2BHourglass)
+
+Nobody likes being mana-screwed. So how would you like a game where you start with *infinite* mana in your deck? That's right; if you've got that spell in hand, you can cast it every time.
 
 Well, that's Type 4 for you, a.k.a. "Limited Infinity." Like Chaos **Magic**, it involves a stack of cards that you create in advance – but unlike Chaos **Magic**, everyone drafts from this stack, creating a deck from their best picks. (Also, to prevent abuse, you can only play one spell per turn.)
 
@@ -180,7 +188,9 @@ The only slightly tricky thing is developing a good stack, as Stephen notes. For
 
  
 
-[![Intrepid_Hero](https://i.ormos.uk/29/fd/29fda02adf1606a38b44bc4133f70813c87f8f8418476ca4f68519cd6e955784.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Intrepid%2BHero)Abe Sargent has been one of the stalwarts of the Casual **Magic** community, chronicling rare and obscure formats for over two hundred articles now. (Seriously. Check his [archives](http://www.starcitygames.com/php/news/archive.php?Article=Abe%20Sargent).) But a couple of weeks ago, he came out with what seemed like a truly fun idea: [**Magic** the RPG](http://www.starcitygames.com/php/news/article/15084.html) .
+[![Intrepid_Hero](https://i.ormos.uk/29/fd/29fda02adf1606a38b44bc4133f70813c87f8f8418476ca4f68519cd6e955784.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Intrepid%2BHero)
+
+Abe Sargent has been one of the stalwarts of the Casual **Magic** community, chronicling rare and obscure formats for over two hundred articles now. (Seriously. Check his [archives](http://www.starcitygames.com/php/news/archive.php?Article=Abe%20Sargent).) But a couple of weeks ago, he came out with what seemed like a truly fun idea: [**Magic** the RPG](http://www.starcitygames.com/php/news/article/15084.html) .
 
 That's right; if you're familiar with **Dungeons and Dragons**, you'll get the gist of it right away. You choose a name for your "character," and you start with twelve Mage points. You then use your Mage points to give your character "stats" and "skills."
 
@@ -196,6 +206,8 @@ I think it's a clever variant. I haven't had time to play it, natch, but the she
 
 ### Other Formats
 
-[![Doubling_Cube](https://i.ormos.uk/fd/fb/fdfb3007bd3576488944358a21f6230b90b04003e89eb146c5e78044101c454a.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Doubling%2BCube)There are a host of awesome formats for you to try, if you'd like – this just skims the surface. There's [Cube Draft](http://www.cubedrafting.com/) (which is amazingly fun when you draft a Mox), [Peasant **Magic**](http://www.geocities.com/peasantmagic/), [Rainbow Stairwell](http://www.starcitygames.com/php/news/article/9497.html), [Mental **Magic**](https://web.archive.org/web/20071211000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/129), [Secret Alliances](http://www.starcitygames.com/php/news/article/13781.html), and of course **Magic Online** fan favorites Tribal and Prismatic and Vanguard and Donner and Blitzen. (Click [here](https://web.archive.org/web/20071211000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=judge/resources/banned) for the list of official Constructed formats.)
+[![Doubling_Cube](https://i.ormos.uk/fd/fb/fdfb3007bd3576488944358a21f6230b90b04003e89eb146c5e78044101c454a.jpg)](https://web.archive.org/web/20071211000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Doubling%2BCube)
+
+There are a host of awesome formats for you to try, if you'd like – this just skims the surface. There's [Cube Draft](http://www.cubedrafting.com/) (which is amazingly fun when you draft a Mox), [Peasant **Magic**](http://www.geocities.com/peasantmagic/), [Rainbow Stairwell](http://www.starcitygames.com/php/news/article/9497.html), [Mental **Magic**](https://web.archive.org/web/20071211000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/129), [Secret Alliances](http://www.starcitygames.com/php/news/article/13781.html), and of course **Magic Online** fan favorites Tribal and Prismatic and Vanguard and Donner and Blitzen. (Click [here](https://web.archive.org/web/20071211000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=judge/resources/banned) for the list of official Constructed formats.)
 
 There are a lot of ways to mix up your **Magic**. Delve deep, if you're so inclined!

@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/252.jpg)1997 world champion Jakub Slemr is one of only three players who have made the Top 8 at Worlds in two different years. With a 7-2 record and a seat at table 3 for the second draft on Thursday, Slemr was in prime position to beak the tie with Mark Justice and Henry Stern. His table included Zvi Mowshowitz, French national champion Yann Hamon, Dan Clegg, and Euros runner-up Raphael Levy, but Slemr's neighbors were less well known members of the Turkish and Swiss national teams.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/252.jpg)
+
+1997 world champion Jakub Slemr is one of only three players who have made the Top 8 at Worlds in two different years. With a 7-2 record and a seat at table 3 for the second draft on Thursday, Slemr was in prime position to beak the tie with Mark Justice and Henry Stern. His table included Zvi Mowshowitz, French national champion Yann Hamon, Dan Clegg, and Euros runner-up Raphael Levy, but Slemr's neighbors were less well known members of the Turkish and Swiss national teams.
 
 It was hard for Slemr to go wrong in his first pack: Power Matrix, Noble Purpose, or Waterfront Bouncer? Slemr "went gold", drafting the rare artifact and then taking careful note of what he was passing to his left. Pick number two was similarly easy: Lunge (over Brawl and Cho-Manno's Blessing). He shook his head after looking through his third pack - all that was left was Thwart, Tidal Kraken, and Cho-Manno's Blessing. He took the Blessing. Pack four gave him a Wild Jhovall (over Steadfast Guard and Counterspell), and then things really got interesting.
 

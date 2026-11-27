@@ -144,7 +144,9 @@ I know we can't use a number of these. That doesn't mean they're not my favorite
 
 ### Top Ten List #8 - Top Ten “Making Magic” Columns To Receive the Most Mail
 
-![](https://i.ormos.uk/a2/2a/a22a1b33f7875563bfbf323f5b596062491f1caba02537d3f2028ac3feb900fc.jpg)As a columnist, I'm very receptive to feedback, both good and bad. Here are the ten columns that spawned the most mail:
+![](https://i.ormos.uk/a2/2a/a22a1b33f7875563bfbf323f5b596062491f1caba02537d3f2028ac3feb900fc.jpg)
+
+As a columnist, I'm very receptive to feedback, both good and bad. Here are the ten columns that spawned the most mail:
 
 **10) “[Inquiring Minds Want to Know I](https://web.archive.org/web/20041025000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr62) & [II](https://web.archive.org/web/20041025000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr64)”**  
 This was the interview where I answered questions posed by the readers. It's on this list because you guys sent a lot of questions.

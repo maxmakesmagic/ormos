@@ -695,7 +695,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/50/07/5007f011a69a5f4858f8f2c590f74cc503c25f3143418aadc768c921d98a8fcf.jpg)Howdy, all. It's preview time, so throw away your crystal balls and prepare to fast-forward. The future is nigh. And by "nigh," I mean four paragraphs away. Does it get any nigher than that?
+![](https://i.ormos.uk/50/07/5007f011a69a5f4858f8f2c590f74cc503c25f3143418aadc768c921d98a8fcf.jpg)
+
+Howdy, all. It's preview time, so throw away your crystal balls and prepare to fast-forward. The future is nigh. And by "nigh," I mean four paragraphs away. Does it get any nigher than that?
 
 A little while ago, in my [Masques of Kamigawa article](/en/articles/houseofcards/2006/07-12-masques-of-kamigawa) and then later in [my "What If?" Week article](/en/articles/houseofcards/2007/02-28-by-invitation-only), I had a grand old time imagining what a Standard composed of two non-adjacent sets could look like. It was quite eye-opening to discover exactly how much synergy there was between blocks as different as *Mercadian Masques* and *Champions of Kamigawa*. Kiki-Jiki, Mirror Breaker and the *Betrayers of Kamigawa* ninjas teamed up with the Rishadan pirates to form what is arguably the greatest ninja-pirate deck ever featured in my column. Cards like Gush, Ensnare, and the "Howling Wolf" cycle fit in perfectly with the "hand-size matters" theme of *Saviors of Kamigawa*. Territorial Dispute, one of the most busted cards ever printed if you only read the first half of the card, is a perfect match for Sakura-Tribe Scout and Budoka Gardener, as well as Terrain Generator and Groundskeeper from its own block.
 
@@ -713,7 +715,9 @@ One of the tricky things about building Madness decks has always been striking t
 
 ### Wake Up, Baby, 'Cause I'm Coming to you from the Future
 
-![Merfolk Assassin and War Barge](https://i.ormos.uk/71/55/715529bdaa8326ae48e873f474764a1945967ef6b4827fa64621d53a19ce5b61.jpg)As I've mentioned before in this column, I stopped playing **Magic** for a few years, roughly from *Mirage* through to *Mercadian Masques*. This happened for a number of reasons. Most importantly, though, I moved far away from all of my **Magic**-playing cronies, and despite the fact that my younger brothers played (and we conveniently shared a residence), they were eventually turned off the game by the dominance of my Merfolk Assassin / War Barge deck. To this day, we often refer to that dark time as War Barge Winter.
+![Merfolk Assassin and War Barge](https://i.ormos.uk/71/55/715529bdaa8326ae48e873f474764a1945967ef6b4827fa64621d53a19ce5b61.jpg)
+
+As I've mentioned before in this column, I stopped playing **Magic** for a few years, roughly from *Mirage* through to *Mercadian Masques*. This happened for a number of reasons. Most importantly, though, I moved far away from all of my **Magic**-playing cronies, and despite the fact that my younger brothers played (and we conveniently shared a residence), they were eventually turned off the game by the dominance of my Merfolk Assassin / War Barge deck. To this day, we often refer to that dark time as War Barge Winter.
 
 Skip ahead a few years to *Invasion* block. Through a series of freak coincidences, I discovered that all of my college roommates were also lapsed **Magic** players. In no time at all, our CCG fires were rekindled and quickly became a five-alarm fireball straight to our collective domes. Soon after that, I learned that my poor old War Barge deck lost to just about everything. I got crushed by blue/black decks using cards like Hypnotic Specter, which hadn't ever impressed me until that point. I got stomped by red/green decks that operated on the principle that it's the last fatty that kills you, even if that fatty happens to be Shambling Strider, Wiitigo, or Marhault Elsdragon. Heck, I even lost to a deck full of Griffins, and these weren't a bunch of fun-loving Griffins from Rhode Island, either. My poor aquatic assassin was having trouble offing the 2/2's for four due to a week's detention in a Serra Bestiary. My deck was shielded from errant pizza-toppings by some always-classy penny sleeves, but it had no protection whatsoever from round-after-round of humiliating defeat. Sadly, it fared even worse in group games.
 

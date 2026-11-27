@@ -101,7 +101,9 @@ render_recovery:
   - Wasteland
   occurrences: 3
 ---
-![](https://i.ormos.uk/4c/cd/4ccd461ae0ea62090853a088ed1e205e2bdbb78cb9e456e105873887a0f9aefb.jpg)　先のラウンドで Nassif の神懸かりな引きによってストレート負けをきっしてしまった Kai。だが、世界最強の名にかけても連敗は許されないところ。対する Jens Thoren も Invitatonal 王者として譲れない一戦だ。
+![](https://i.ormos.uk/4c/cd/4ccd461ae0ea62090853a088ed1e205e2bdbb78cb9e456e105873887a0f9aefb.jpg)
+
+　先のラウンドで Nassif の神懸かりな引きによってストレート負けをきっしてしまった Kai。だが、世界最強の名にかけても連敗は許されないところ。対する Jens Thoren も Invitatonal 王者として譲れない一戦だ。
 
 　Kai はドイツの定番である青黒リアニメイト。Thoren は赤単スライを。
 

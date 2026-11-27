@@ -44,7 +44,9 @@ archive_source:
   sha256: f4cbf6f199cfa136efd941b473f4d7ff824c8c4f5f2f265f35ca166f9587b8b9
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a593.jpg)Ever had one of those weeks? The sun's always shining, the girl waits on your beck and call, you get a promotion with extended vacation time and everything is good with the world. Right now, that's what its like to be Tuomas Kontiranta.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a593.jpg)
+
+Ever had one of those weeks? The sun's always shining, the girl waits on your beck and call, you get a promotion with extended vacation time and everything is good with the world. Right now, that's what its like to be Tuomas Kontiranta.
 
 It's a whole new world for this 18-year old Finn. Three months ago, it looked like he wouldn't be going to Nationals, let alone the top 8 of Worlds. Ranked thirty-third in Finland when the top thirty-two qualified for the National tourney, Tuomas managed to advance from the final qualifyer to Nationals, where a third place finish earned him a spot at Worlds. Once in, Tuomas had no time to playtest because of a summer job, but Finnish Champion Tomi Walamies and his Punisher teammates decided to furnish both the Swedish and Finnish teams with decks for Standard and Block constructed. 
 

@@ -47,7 +47,9 @@ render_recovery: []
 ---
 *by Caroline Kert* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/fitzgerald.jpg)Fitzgerald entered the semi-finals after a quick 2-0 win against Chris Demaci. In contrast, Johns had just finished a match that had run for three games and about 110 minutes. So, Johns was geared up to fight a long tough fight. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/fitzgerald.jpg)
+
+Fitzgerald entered the semi-finals after a quick 2-0 win against Chris Demaci. In contrast, Johns had just finished a match that had run for three games and about 110 minutes. So, Johns was geared up to fight a long tough fight. 
 
 **Game One:** Sometimes your deck just doesn't want to get up and fight and your opponent has all the answers. 
 

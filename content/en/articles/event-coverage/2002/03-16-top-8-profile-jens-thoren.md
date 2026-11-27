@@ -44,7 +44,9 @@ archive_source:
   sha256: 7705e850f32bb00dc0af1f4f5a49efc4ee22b5f3cba79aa76cc410d442511997
 render_recovery: []
 ---
-![](https://i.ormos.uk/4c/9f/4c9f39fe93010cb6e1100a84c0fc9c8dbb06d8d41d7fbe4f4fa6b6d410bff21f.jpg)If you want to talk about rising stars in the game of Magic, look no further than Jens Thoren. Coming off of a second place finish in San Diego, Jens conquered the swiss field in Osaka, completing day one with a perfect 7-0 record. He completed his dominance by finishing the swiss rounds in 2nd place with a record of 11-2-1.
+![](https://i.ormos.uk/4c/9f/4c9f39fe93010cb6e1100a84c0fc9c8dbb06d8d41d7fbe4f4fa6b6d410bff21f.jpg)
+
+If you want to talk about rising stars in the game of Magic, look no further than Jens Thoren. Coming off of a second place finish in San Diego, Jens conquered the swiss field in Osaka, completing day one with a perfect 7-0 record. He completed his dominance by finishing the swiss rounds in 2nd place with a record of 11-2-1.
 
 Hailing from Sweden, this affable man only started competing professionally two years ago. Although he played Magic since Ice Age, only recently did he enter into the Pro Tour circuit. His finishes include 2nd place at Pro Tour San Diego, 5th place at Pro Tour NY 2001, Top 32 at PT Barcelona, and 5th at this year's Euros. Quite an impressive resume for someone who became serious about the game less than 24 months ago!
 

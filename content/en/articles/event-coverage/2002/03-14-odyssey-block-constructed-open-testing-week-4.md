@@ -448,7 +448,9 @@ A month ago I posted my initial deck designs for *Odyssey* Block Constructed - a
 
 I am assured by other Pros who are testing in teams that these decks are not particularly good. Still, I believe that while you will see better Constructed versions of these in Osaka, many similar decks will be played. When I get back from Osaka, I will write a final article in this series, covering the decks that actually did well in Osaka and comparing them to what is posted below.
 
-![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)One of the most interesting parts of this experiment for me was to see how much the email input would affect my decks. The impact was not tremendous. While there was any number of solid ideas in the mail, few of them would not have been arrived at by any dedicated testing group of 3-4 players. With notable exception of the Psychatog deck (only slightly modified from the version sent to me by Scott Seville) these versions were of my design. Many alternatives were proposed. For example, there are many proponents of Nimble Mongoose or Seton's Scout in the u-g deck. However, after much testing I still found my version to be either superior, or at least better-suited to my play style. 
+![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)
+
+One of the most interesting parts of this experiment for me was to see how much the email input would affect my decks. The impact was not tremendous. While there was any number of solid ideas in the mail, few of them would not have been arrived at by any dedicated testing group of 3-4 players. With notable exception of the Psychatog deck (only slightly modified from the version sent to me by Scott Seville) these versions were of my design. Many alternatives were proposed. For example, there are many proponents of Nimble Mongoose or Seton's Scout in the u-g deck. However, after much testing I still found my version to be either superior, or at least better-suited to my play style. 
 
 I do not want to sound ungrateful to those who sent me ideas and deck lists - I reviewed them all carefully and found plenty of solid ideas - but my concept of creating an uber-deck by combining efforts of a large group of players never materialized.
 
@@ -526,7 +528,9 @@ The Squirrel version I posted untested a few weeks ago has been working out extr
  12 Islands  
  8 Swamp 
 
-![](https://i.ormos.uk/49/86/4986ac8ab0f3112f19a8490352d5fd8d6b2abb0a6f33f4329051a0dcdcc1d82f.jpg)Seville's version was using way too many cheap cantrips, especially for a deck with 25 lands in it. Out went Peeks, in 2 Innocent Bloods and an Upheaval. I might replace Innocent Bloods with more creatures - Possessed Aven is a possibility.
+![](https://i.ormos.uk/49/86/4986ac8ab0f3112f19a8490352d5fd8d6b2abb0a6f33f4329051a0dcdcc1d82f.jpg)
+
+Seville's version was using way too many cheap cantrips, especially for a deck with 25 lands in it. Out went Peeks, in 2 Innocent Bloods and an Upheaval. I might replace Innocent Bloods with more creatures - Possessed Aven is a possibility.
 
 Other ideas to try that I never got a chance to test thoroughly enough due to time constraints:
 

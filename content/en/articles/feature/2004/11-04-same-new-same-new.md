@@ -68,7 +68,9 @@ render_recovery:
   - Decklist
   occurrences: 3
 ---
-![](https://i.ormos.uk/cf/07/cf07480c1ceca64c72857920a97059ba2b34f86a8047a369a0d7053c5b8b07c6.jpg)Welcome, once again, to House of Cards. This week I thought I'd do something different and mercilessly mock a number of players who a) Aren't rocket scientists, and have therefore not memorized all 86 pages of [the Comprehensive Rules](https://web.archive.org/web/20041104000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/rules/tourneyplayer), and b) Were foolishly thoughtful enough to send me email with their personal combo creations. What? I did that last week? Oh. I'll have to think of something else then.
+![](https://i.ormos.uk/cf/07/cf07480c1ceca64c72857920a97059ba2b34f86a8047a369a0d7053c5b8b07c6.jpg)
+
+Welcome, once again, to House of Cards. This week I thought I'd do something different and mercilessly mock a number of players who a) Aren't rocket scientists, and have therefore not memorized all 86 pages of [the Comprehensive Rules](https://web.archive.org/web/20041104000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/rules/tourneyplayer), and b) Were foolishly thoughtful enough to send me email with their personal combo creations. What? I did that last week? Oh. I'll have to think of something else then.
 
 Thinking…
 

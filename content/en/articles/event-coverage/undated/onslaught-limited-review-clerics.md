@@ -253,7 +253,9 @@ This is the first installment in my series looking at the cards of *Onslaught* f
 
 ### Introduction
 
-![](https://i.ormos.uk/53/12/5312ffae830f21e9a4afa3c7718c5f67063035a467ec4b780ce5e346a88b46fc.jpg)The winds of change have blown in, ladies and gentlemen. As I headed to Pro Tour Boston, the white installment of this series was all but done, when Randy Buehler informed me that an eight article series would be more appropriate for *Onslaught* than the customary six-article series due to the importance of tribal cards in the set. The man was absolutely right.
+![](https://i.ormos.uk/53/12/5312ffae830f21e9a4afa3c7718c5f67063035a467ec4b780ce5e346a88b46fc.jpg)
+
+The winds of change have blown in, ladies and gentlemen. As I headed to Pro Tour Boston, the white installment of this series was all but done, when Randy Buehler informed me that an eight article series would be more appropriate for *Onslaught* than the customary six-article series due to the importance of tribal cards in the set. The man was absolutely right.
 
 Tribal is the all-powerful, sweeping theme of this set. It promotes deck uniformity and solidarity, bringing Limited play a little closer to Constructed. In *Onslaught*, it's not the random collection of good cards that will win, but the deck with the best construction. You don't play Fact or Fiction in your Sligh deck. Now, the same idea will apply to the forty card formats. 
 

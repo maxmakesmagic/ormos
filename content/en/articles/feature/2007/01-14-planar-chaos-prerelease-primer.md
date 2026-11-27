@@ -85,13 +85,17 @@ archive_source:
   sha256: 4f8ec2e8c6cf4ee58ba01a0958eb40cdd46f2db36e1328bc3f4b8bff27b9a594
 render_recovery: []
 ---
-![](https://i.ormos.uk/54/2a/542a6472a4ff0d0160dedaa4c7123c96cd437a68259296d6231dd049b4eec324.jpg)Did you happen to visit this website on New Year’s Day? All the columnists from this site were sent a mysterious email from content manager Scott Johns telling us to tune in for a New Year’s surprise. It is unclear whether he wanted to treat us or take us down a notch by demonstrating that they could still catch us unawares. (I was actually shocked twice so far. The second time was the [Timbermare preview on Star City](http://www.starcitygames.com/php/news/article/13483.html).) Either way, the preview for Damnation meant that with *Planar Chaos*, up is down, down is right, right is black, and black has Wrath of God. The nostalgic craziness that began with *Time Spiral* is followed up by deconstructing the color pie and reassembling it with a what-if look at all of the colors – timeshifted gets timetwisted.
+![](https://i.ormos.uk/54/2a/542a6472a4ff0d0160dedaa4c7123c96cd437a68259296d6231dd049b4eec324.jpg)
+
+Did you happen to visit this website on New Year’s Day? All the columnists from this site were sent a mysterious email from content manager Scott Johns telling us to tune in for a New Year’s surprise. It is unclear whether he wanted to treat us or take us down a notch by demonstrating that they could still catch us unawares. (I was actually shocked twice so far. The second time was the [Timbermare preview on Star City](http://www.starcitygames.com/php/news/article/13483.html).) Either way, the preview for Damnation meant that with *Planar Chaos*, up is down, down is right, right is black, and black has Wrath of God. The nostalgic craziness that began with *Time Spiral* is followed up by deconstructing the color pie and reassembling it with a what-if look at all of the colors – timeshifted gets timetwisted.
 
 Just on the basis of the small handful of cards we have already seen I can’t see how you can possibly skip the *Planar Chaos* Prerelease tournaments that are coming up this weekend all around the world. Assuming of course there is one near where you live, but I think that in light of this set I might redefine the parameters of “near where I live.” Let’s stay in flavor of the new set and take a what-if look at your upcoming weekend as I make my thrice yearly effort to get you to out the door this Saturday and playing in a Prerelease tournament.
 
 ### What if… I have never played in a sanctioned Magic tournament?
 
-![](https://i.ormos.uk/f0/b6/f0b67b1758806c53963d146641165772f1405b32de62eefc50ade1a4e99535c9.jpg)Many people who never play in a sanctioned **Magic** tournament go on to lead normal, happy, and productive lives. Despite this, those people do not have a DCI number, which means that they cannot check their rating online, track their progress as a player, receive a special online newsletter, or periodically receive cool stuff like exclusive foils, textless cards, and nifty token cards in the mail.
+![](https://i.ormos.uk/f0/b6/f0b67b1758806c53963d146641165772f1405b32de62eefc50ade1a4e99535c9.jpg)
+
+Many people who never play in a sanctioned **Magic** tournament go on to lead normal, happy, and productive lives. Despite this, those people do not have a DCI number, which means that they cannot check their rating online, track their progress as a player, receive a special online newsletter, or periodically receive cool stuff like exclusive foils, textless cards, and nifty token cards in the mail.
 
 Your DCI number is free and waiting for you at your local *Planar Chaos* Prerelease (or at any sanctioned tournament for that matter). All you need to do is take a few seconds when you arrive at the location and fill out a form that will assign you a PIN used to track your tournament results. (This is a good time to suggest bringing a pen – heck, bring two just in case.)
 
@@ -139,7 +143,9 @@ One of the players is designated as the dominant head and gets final say on all 
 
 ### What if… I can’t wait for Saturday?
 
-![Clockspinning](https://i.ormos.uk/a5/cd/a5cd2684a63bd62315f40306fd398e1cbda6df2bec71bd0f64f78377d954e0aa.jpg)Many of you will just have to wait. In some areas tournament organizers run special tournaments as soon as Friday becomes Saturday at the stroke of midnight. You should definitely check with your local tournament organizer to see if they have anything special planned for the witching hour. While you are there, you should look and see what times everything starts throughout the weekend. There are plenty of chances to play in events all weekend – many organizers run events on Saturday and Sunday – and even if you can’t be there Friday at midnight or when the doors open on Saturday morning, you should find something that suits your schedule.
+![Clockspinning](https://i.ormos.uk/a5/cd/a5cd2684a63bd62315f40306fd398e1cbda6df2bec71bd0f64f78377d954e0aa.jpg)
+
+Many of you will just have to wait. In some areas tournament organizers run special tournaments as soon as Friday becomes Saturday at the stroke of midnight. You should definitely check with your local tournament organizer to see if they have anything special planned for the witching hour. While you are there, you should look and see what times everything starts throughout the weekend. There are plenty of chances to play in events all weekend – many organizers run events on Saturday and Sunday – and even if you can’t be there Friday at midnight or when the doors open on Saturday morning, you should find something that suits your schedule.
 
 The way most organizers run things is to have one big tournament at the beginning of the day with a prize pool tied to the number of players. This tournament usually runs all day long and is best suited for people not signing up for their DCI number before the start of the event.
 
@@ -155,6 +161,8 @@ There are plenty of things to do even if you don’t want to play – although i
 
 ### What if… I win?
 
-![](https://i.ormos.uk/80/f2/80f2942457b596429175c5af5c130374c6eb12b6fe8c79fe5ece3c97cf028103.jpg)I want to hear from you no matter what, but I am especially interested in hearing from players who attended their first event this weekend. I want to hear about your victories, your experience building a deck, and even your losses. I will be doing a column in the near future about *Planar Chaos* and I would love to include your experiences whenever possible.
+![](https://i.ormos.uk/80/f2/80f2942457b596429175c5af5c130374c6eb12b6fe8c79fe5ece3c97cf028103.jpg)
+
+I want to hear from you no matter what, but I am especially interested in hearing from players who attended their first event this weekend. I want to hear about your victories, your experience building a deck, and even your losses. I will be doing a column in the near future about *Planar Chaos* and I would love to include your experiences whenever possible.
 
 Try and make it to a Prerelease if you can. Don’t sit around asking yourself, “What if…?”

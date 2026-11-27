@@ -60,7 +60,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![Cry_of_Contrition](https://i.ormos.uk/a8/44/a844e6eb7867c3fb80ee94c4374503398d9408085fe94b54ce420e612db2cb3d.jpg)Hello everybody! Welcome to House of Cards. Before I get to the business at hand, I'd like to issue a heartfelt cry of contrition. Four of them, in fact.
+![Cry_of_Contrition](https://i.ormos.uk/a8/44/a844e6eb7867c3fb80ee94c4374503398d9408085fe94b54ce420e612db2cb3d.jpg)
+
+Hello everybody! Welcome to House of Cards. Before I get to the business at hand, I'd like to issue a heartfelt cry of contrition. Four of them, in fact.
 
 Apology 1: [Last week](https://web.archive.org/web/20070117000000/https://magic.wizards.com/en/articles/archive/wash-rinse-retether-2007-01-10), I hinted that Aaron Forsythe would be previewing a purple [Horseshoe Crab](https://web.archive.org/web/20070117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Horseshoe+Crab). This couldn't be further from the truth. In reality, even on such a chaotic plane as this one, Aaron [previewed a much cooler card](/en/articles/latestdevelopments/2007/01-12-a-trip-to-the-library): Magus of the Library. (Apology 1a: I'm extra sorry to the Horseshoe and/or Crab lovers for getting your hopes up.)
 
@@ -138,7 +140,9 @@ For decks with a combo kill, I expect this little clause to be largely irrelevan
 
 ### The Kill, or Lieutenant No-Brainer Drops by for Tea
 
-![Extract](https://i.ormos.uk/1c/18/1c18a3f73d0c22a173dce1660628bd59c99f4d3f854a7bd9b99b6d4b5bef5d5c.jpg)When I started writing this column just over a year ago, I planned to introduce you to a cast of wholly original, completely non-imitative characters, such as the creatively-challenged Lieutenant No-Brainer, the diabolical M.E. Phistopheles, and the semi-deranged, anthropomorphic beaver who would occasionally write my column (he's much more industrious than I am). Unfortunately, these very real characters abandoned me from the get-go. Fortunately, I got to talking with the reclusive Lt. No-Brainer the other day, and when I showed him my preview card he said the first and only thing that came into his head:
+![Extract](https://i.ormos.uk/1c/18/1c18a3f73d0c22a173dce1660628bd59c99f4d3f854a7bd9b99b6d4b5bef5d5c.jpg)
+
+When I started writing this column just over a year ago, I planned to introduce you to a cast of wholly original, completely non-imitative characters, such as the creatively-challenged Lieutenant No-Brainer, the diabolical M.E. Phistopheles, and the semi-deranged, anthropomorphic beaver who would occasionally write my column (he's much more industrious than I am). Unfortunately, these very real characters abandoned me from the get-go. Fortunately, I got to talking with the reclusive Lt. No-Brainer the other day, and when I showed him my preview card he said the first and only thing that came into his head:
 
 Storm.
 

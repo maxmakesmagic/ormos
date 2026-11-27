@@ -80,7 +80,9 @@ render_recovery:
   - Tribal Forcemage
   occurrences: 40
 ---
-![](https://www.wizards.com/sideboard/images/gpbos03/a963.jpg)Mike Pustilnik is a consummate professional player, having played in almost every event. He is the only player to have won a Grand Prix (two), and Pro Tour (one), and a Masters event (one). He came into the event with three byes and stands at 5 – 1. He has a White/Green deck with a splash of Red for removal. It features Exalted Angel as its power card.
+![](https://www.wizards.com/sideboard/images/gpbos03/a963.jpg)
+
+Mike Pustilnik is a consummate professional player, having played in almost every event. He is the only player to have won a Grand Prix (two), and Pro Tour (one), and a Masters event (one). He came into the event with three byes and stands at 5 – 1. He has a White/Green deck with a splash of Red for removal. It features Exalted Angel as its power card.
 
 Toby Wachter is known as a writer for Sideboard.com, but he takes the opportunity to play the occasional event. An event at Neutral Ground featuring drafts of *Masques* block followed by *Invasion* block followed by *Odyssey* block got him enough rating points for two byes. He has played in several pro tours over the years, and has had success in Junior Pro Tours. This is the first feature match he has played in since 1999. His deck is a Red/Green machine, featuring a bunch of big green men backed by Slice and Dice.
 
@@ -130,7 +132,9 @@ Mikey P – 1, Wachter – 1
 
 ### Game 3
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a964.jpg)Knowing about the Exalted Angel, Toby chose to sideboard in black for a Cruel Revival, sacrificing mana consistency for some solution to the angel. Knowing he was going to draw first helped that option somewhat.
+![](https://www.wizards.com/sideboard/images/gpbos03/a964.jpg)
+
+Knowing about the Exalted Angel, Toby chose to sideboard in black for a Cruel Revival, sacrificing mana consistency for some solution to the angel. Knowing he was going to draw first helped that option somewhat.
 
 Mikey P started off with a mulligan. His seven-card hand had the Exalted Angel, but it had only one forest for land. His six-card hand was only slightly better. It had Renewed Faith, a Secluded Steppe, and four other lands. 
 

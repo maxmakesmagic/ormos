@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Mark Wriath* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/165.jpg)The Grand Prix has finally been reduced to just two competitors. Fifteen gruelling rounds lie behind these players, and only this match remains between one of them and their first Grand Prix title. Darwin has made top eights on a few occasions before, but hasn't managed to win one yet. This is England's John Ormerod's first Grand Prix top eight, although he does have a Pro Tour top eight to his credit. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/165.jpg)
+
+The Grand Prix has finally been reduced to just two competitors. Fifteen gruelling rounds lie behind these players, and only this match remains between one of them and their first Grand Prix title. Darwin has made top eights on a few occasions before, but hasn't managed to win one yet. This is England's John Ormerod's first Grand Prix top eight, although he does have a Pro Tour top eight to his credit. 
 
 Both players drafted very well, with John playing a mainly blue/black deck, with just a splash of White for Glimmering Angel, Dromar the Banisher, and to activate a Stormscape Apprentice. Darwin had a Blue/Red/Black deck with lots of very powerful cards - including Cinder Seer, and Pyre Zombie. He also had a Wash Out which he used to good effect throughout the top eight. 
 

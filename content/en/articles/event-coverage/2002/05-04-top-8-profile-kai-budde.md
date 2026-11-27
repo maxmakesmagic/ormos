@@ -44,7 +44,9 @@ archive_source:
   sha256: 56f5c60361ff187dcaa0192b239366d69284d12a7993b18b63592d80003f462a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a730.jpg)"I'm not as excited as earlier, but I am happy. This top 8 will put me in the Masters for another year, and that makes me very, very happy," Kai Budde says after doing it again. Thirteen rounds into the 2002 Pro Tour Nice, Budde drew his way straight into the playoff, adding another astonishing result to his already impressive resume.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a730.jpg)
+
+"I'm not as excited as earlier, but I am happy. This top 8 will put me in the Masters for another year, and that makes me very, very happy," Kai Budde says after doing it again. Thirteen rounds into the 2002 Pro Tour Nice, Budde drew his way straight into the playoff, adding another astonishing result to his already impressive resume.
 
 The 22-year-old student from Hamburg just never seems to stop. He has five Pro Tour wins under his belt, and yet he continues to absolutely dominate a game where luck is an important factor. His merits are frequently a subject of discussion, and people have commented that either Kai has to be really, really lucky, or, he is just really good at cheating. "I am definitely not cheating," Kai laughs, but admits that he has been really lucky. "Of course I am lucky. We draw cards. More than once I've drawn cards from the top of my deck. But you have to be in a position to be lucky. If you aren't a good player, then you won't get lucky multiple times in a row."
 

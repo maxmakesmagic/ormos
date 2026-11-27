@@ -99,7 +99,9 @@ Now, how can I put this delicately?
 
 You're wrong. 
 
-[![Gainsay](https://i.ormos.uk/9a/02/9a0217e5f4981a250215d68d85dc53ecf5c8478a64cb42229a3314a8f5442aef.jpg)](https://web.archive.org/web/20080304000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Gainsay)Okay, that's funny to say, but it's also *not true*. You get more enjoyment out of team play, which for you provides a "better understanding of strategy"... And it is worth noting that in 1997 when you wrote those words, Wizards didn't provide rules support for multiplayer anything like what it does now—multiplayer games really were the Wild West. But for me, the lack of politics leaves me cold and it seems depressingly obvious. The great thing is that *neither* of us is right *or* wrong, because the great thing about gaming is that enjoyment *is* subjective. There's enough room for preferences of all kinds!
+[![Gainsay](https://i.ormos.uk/9a/02/9a0217e5f4981a250215d68d85dc53ecf5c8478a64cb42229a3314a8f5442aef.jpg)](https://web.archive.org/web/20080304000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Gainsay)
+
+Okay, that's funny to say, but it's also *not true*. You get more enjoyment out of team play, which for you provides a "better understanding of strategy"... And it is worth noting that in 1997 when you wrote those words, Wizards didn't provide rules support for multiplayer anything like what it does now—multiplayer games really were the Wild West. But for me, the lack of politics leaves me cold and it seems depressingly obvious. The great thing is that *neither* of us is right *or* wrong, because the great thing about gaming is that enjoyment *is* subjective. There's enough room for preferences of all kinds!
 
 However, like George Lucas before you, I think that you don't *quite* understand all the reasons why your brainchild **Magic** succeeded as well as it did... and the fact that you see politics as lessening the strategy in the game confirms that for me. I don't think you understand why **Magic** appeals to *my* style of gaming, so I'm going to try to explain why I think politics does *not* lessen the overall strategy.
 
@@ -125,7 +127,9 @@ In fact, I'm willing to bet that you, Mr. Garfield, probably think the metagame 
 
 But if so, then what *else* falls into the nebulous realm of "**Magic**" strategy? After all, there are a lot of things that go into **Magic** that also don't, technically speaking, have a lot to do with **Magic** *specifically*. Good card shuffling technique is something that also applies to other card games... so can that also be good ***Magic*** strategy? It may not be, but if you don't know how to sufficiently randomize your deck, you're in trouble. 
 
-[![Aven_Warcraft](https://i.ormos.uk/3c/9d/3c9d6233ff79b0540178477a7339a85bae7b6bcfede1f0178240e3b1ef2be2e1.jpg)](https://web.archive.org/web/20080304000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Aven%2BWarcraft)What about Jedi mind tricks? Observing your opponent closely to make sure he doesn't cheat? Those aren't part of **Magic** proper, since they're also a part of many *other* games. 
+[![Aven_Warcraft](https://i.ormos.uk/3c/9d/3c9d6233ff79b0540178477a7339a85bae7b6bcfede1f0178240e3b1ef2be2e1.jpg)](https://web.archive.org/web/20080304000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Aven%2BWarcraft)
+
+What about Jedi mind tricks? Observing your opponent closely to make sure he doesn't cheat? Those aren't part of **Magic** proper, since they're also a part of many *other* games. 
 
 If you 0-4'd a tournament because you had superior skill at the "relevant" elements of **Magic** but failed to shuffle properly, brought a deck that everyone anticipated, and fell for people's silly mind tricks, would you argue that your ***Magic*** strategy is superior....
 
@@ -187,7 +191,9 @@ You may disagree. But I think brushing it off because it's not "a better underst
 
 **Conclusions**
 
-[![Political_Trickery](https://i.ormos.uk/a4/6c/a46cf136447bfd871744235956700730ad30f21f6ad271f8dba9a6a52741a247.jpg)](https://web.archive.org/web/20080304000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Political%2BTrickery)You *are* right about one thing, though; politics isn't always fun. I agree with you that too much politics can encourage players to be passive, and that's why I try to encourage gaming cultures where aggression isn't frowned upon. Sometimes, you have to give up a little strategy for a little fun. 
+[![Political_Trickery](https://i.ormos.uk/a4/6c/a46cf136447bfd871744235956700730ad30f21f6ad271f8dba9a6a52741a247.jpg)](https://web.archive.org/web/20080304000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Political%2BTrickery)
+
+You *are* right about one thing, though; politics isn't always fun. I agree with you that too much politics can encourage players to be passive, and that's why I try to encourage gaming cultures where aggression isn't frowned upon. Sometimes, you have to give up a little strategy for a little fun. 
 
 And some people just don't enjoy politics! Thank God they have other formats to turn to. **Magic**'s a big field thanks to your phenomenal design, Mr. Garfield, and there's so much room for players of all kinds to stand around and go, "Wow, that part of **Magic** sucks, but the rest here is *awesome*." 
 

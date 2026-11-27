@@ -40,7 +40,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/6c/de/6cdead46b762a320db03a0613222e29d9e8d872118880ead8a9ef84f2264dc53.png)This set includes 140 silver-bordered cards and randomly inserted premium foil cards. *Unhinged* introduces three new Magic mechanics: Gotcha, Fractions, and Donkeys.
+![](https://i.ormos.uk/6c/de/6cdead46b762a320db03a0613222e29d9e8d872118880ead8a9ef84f2264dc53.png)
+
+This set includes 140 silver-bordered cards and randomly inserted premium foil cards. *Unhinged* introduces three new Magic mechanics: Gotcha, Fractions, and Donkeys.
 
 **Set Name:** *Unhinged*  
 **Number of Cards:** 141

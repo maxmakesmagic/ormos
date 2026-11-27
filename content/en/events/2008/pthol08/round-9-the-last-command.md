@@ -459,7 +459,9 @@ The Finks beatdown began that same turn, with Stan’s life total going down by 
 
 Was this a mistake from the great Wafo-Tapa? Rich Hagon, the #1 fan of Wafo-Tapa in the world and chairman of the Guillaume Wafo-Tapa Fan Club (he may have even written Wafo-Tapa’s theme song—think "Crazy Train" but not crazy and very French) would be appalled. 
 
-![](http://www.wizards.com/sideboard/images/pthol08/r9_van-der-velden.jpg)In reality, Guillaume felt that he would simply lose if the Clique resolved, so with Careful Consideration in hand, he decided to take the risk that he would not draw any black mana sources the next turn in order to give himself a chance to win the game. He didn’t find what he needed from Consideration and his next draw and lost, but he said he probably would have lost the other way as well, so it was better to take the chance.
+![](http://www.wizards.com/sideboard/images/pthol08/r9_van-der-velden.jpg)
+
+In reality, Guillaume felt that he would simply lose if the Clique resolved, so with Careful Consideration in hand, he decided to take the risk that he would not draw any black mana sources the next turn in order to give himself a chance to win the game. He didn’t find what he needed from Consideration and his next draw and lost, but he said he probably would have lost the other way as well, so it was better to take the chance.
 
 **van der Velden 1, Wafo-Tapa 0**
 

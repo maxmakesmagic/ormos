@@ -291,7 +291,9 @@ render_recovery:
 
 大礒はマリガンし、マリガン後のハンドは沼1枚のみだがスタート。早速森を引く強運ぶりをみせつけ、《戦慄の葬送歌/Dirge of Dread》サイクリングから3枚目も無事引くが最初に出した《腐れざる喧嘩屋/Embalmed Brawler》は田代の《羽ばたく戦士/Wingbeat Warrior》が表帰り除去される。
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a886.jpg)大礒は《ワイアウッドの伝令/Wirewood Herald》から《幸運を祈る者/Wellwisher》、変異を呼ぶが田代の陣営は《羽ばたく戦士/Wingbeat Warrior》、《栄光の探求者/Glory Seeker》、《運命の標を示す者/Beacon of Destiny》しかいないためいまいち押し切れない。
+![](http://www.wizards.com/sideboard/images/ptyok03/a886.jpg)
+
+大礒は《ワイアウッドの伝令/Wirewood Herald》から《幸運を祈る者/Wellwisher》、変異を呼ぶが田代の陣営は《羽ばたく戦士/Wingbeat Warrior》、《栄光の探求者/Glory Seeker》、《運命の標を示す者/Beacon of Destiny》しかいないためいまいち押し切れない。
 
 大礒はハンドに《毒吐きゴルナ/Spitting Gourna》、《虚ろの死霊/Hollow Specter》といるが森３、沼１のためどちらもだせないうちに《羽ばたく戦士/Wingbeat Warrior》にライフを削られてしまうがついに２枚目の沼を引いて《毒吐きゴルナ/Spitting Gourna》をプレイ。
 
@@ -299,7 +301,9 @@ render_recovery:
 
 田代のほうは1本目と違い土地ばかり引いている間に、逆に大礒は《雄鹿クワガタ/Stag Beetle》 、《アフェット式底ざらい/Aphetto Dredging》でビーストを回収し、《にらむローガン/Glowering Rogon》を召喚と逆に盤面を押し返していく。
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a884.jpg)が、田代の場にいた変異が《開戦のラッパ吹き/Warbreak Trumpeter》で大礒のエンドに5で起動し総攻撃をするが《毒吐きゴルナ/Spitting Gourna》についていた《平和な心/Pacifism》が《帰化/Naturalize》され大礒のライフが1残ってしまうが次のターンに大礒が張った《ケンタウルスの地/Centaur Glade》を場にいた《ダールの奉納者/Daru Sanctifier》で割ると次のドローが《鞭草の絡め手/Whipgrass Entangler》で大礒はマナが残っていなかったので田代が2本目を取り返す。
+![](http://www.wizards.com/sideboard/images/ptyok03/a884.jpg)
+
+が、田代の場にいた変異が《開戦のラッパ吹き/Warbreak Trumpeter》で大礒のエンドに5で起動し総攻撃をするが《毒吐きゴルナ/Spitting Gourna》についていた《平和な心/Pacifism》が《帰化/Naturalize》され大礒のライフが1残ってしまうが次のターンに大礒が張った《ケンタウルスの地/Centaur Glade》を場にいた《ダールの奉納者/Daru Sanctifier》で割ると次のドローが《鞭草の絡め手/Whipgrass Entangler》で大礒はマナが残っていなかったので田代が2本目を取り返す。
 
 **大礒 1-1 田代**
 

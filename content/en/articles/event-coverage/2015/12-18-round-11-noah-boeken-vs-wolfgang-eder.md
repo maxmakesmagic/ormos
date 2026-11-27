@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Brian Hacker*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/319.JPG)Boeken had been the talk of the tournament. His perfect 9-0 record after nine rounds had everyone reeling. It seemed more a matter of how far in the top eight he would go then would he make the Top 8. Now, he's got to feel nervous. After a close loss in the tenth round, Boeken lost handily in the eleventh.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/319.JPG)
+
+Boeken had been the talk of the tournament. His perfect 9-0 record after nine rounds had everyone reeling. It seemed more a matter of how far in the top eight he would go then would he make the Top 8. Now, he's got to feel nervous. After a close loss in the tenth round, Boeken lost handily in the eleventh.
 
 Game one Boeken had a very good draw. Eder played first and at the end of Eder's turn, Boeken played a Vine Dryad losing a Wild Might. Boeken untapped and played a Gaea's Cradle and put out a Wild Dog. Eder's Steadfast Guard looked ok but Boeken followed with a Rancor and River Boa. Eder traded the Guard for the Wild Dog and then put out another Steadfast Guard. Still seemed like advantage Boeken. Fourth turn Cho-Manno from Eder looked like it would slow the game down a little, but Boeken still had a good attack with the Dryad and Rancor. Until turn five. The game nearly ended immediately when Eder played a forgotten card from Urza's Saga, Pariah on the Cho-Manno. Dirk Baberowski howled with laughter as did many of the spectators. With no Lyrist, Boeken had no way to do damage, and Eder's Rebel engine took over, winning a few turns later.
 

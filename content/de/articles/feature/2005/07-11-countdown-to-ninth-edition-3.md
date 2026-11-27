@@ -260,4 +260,6 @@ Hier ein paar Karten, bei denen es vielleicht ein bisschen schwierig ist, sie zu
   
   
 
-![Ninth Edition card image](https://i.ormos.uk/32/e0/32e014fb089e3482257929a6112e77222edf55c4897174cd7113f9cbaa80975e.jpg)Form des Drachens (aus *Scourge*) ist einfach klasse. Wer möchte nicht gerne ein Drachen werden und auf die gegnerischen Streitkräfte herabsehen, die auf dem Boden nicht angreifen können, anderem Fußvolk Feuer ins Gesicht pusten und allen kräftig einheizen?
+![Ninth Edition card image](https://i.ormos.uk/32/e0/32e014fb089e3482257929a6112e77222edf55c4897174cd7113f9cbaa80975e.jpg)
+
+Form des Drachens (aus *Scourge*) ist einfach klasse. Wer möchte nicht gerne ein Drachen werden und auf die gegnerischen Streitkräfte herabsehen, die auf dem Boden nicht angreifen können, anderem Fußvolk Feuer ins Gesicht pusten und allen kräftig einheizen?

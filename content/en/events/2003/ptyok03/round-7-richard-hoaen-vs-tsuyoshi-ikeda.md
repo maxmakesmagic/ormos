@@ -74,7 +74,9 @@ render_recovery:
   - Withered Wretch
   occurrences: 20
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a890.jpg)It's old school vs. new school even though neither player is very well known for their performances. It seems like Tsuyoshi has been playing since the dawn of time and Richard recently blipped onto people's radar with a Top 8 finish in the MODO World's Qualifier. Both players are 6-0 today and the winner will be the only undefeated player after a long day's work.
+![](http://www.wizards.com/sideboard/images/ptyok03/a890.jpg)
+
+It's old school vs. new school even though neither player is very well known for their performances. It seems like Tsuyoshi has been playing since the dawn of time and Richard recently blipped onto people's radar with a Top 8 finish in the MODO World's Qualifier. Both players are 6-0 today and the winner will be the only undefeated player after a long day's work.
 
 ### Game 1
 
@@ -92,7 +94,9 @@ Hoaen – 1 Ikeda – 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a879.jpg)Both players had land and spells this game. Hoaen played Battlefield Medics on the second and third turns while Ikeda played morphs. Screeching Buzzard came out for the Canadian and the Japanese player made a Slateback straight up. Things got interesting when Hoaen played a Corpse Harvester and a Festering Goblin. When Hoaen tried to kill a Mistform Seaswift EOT, an unmorphed Master of the Veil saved it by turning it face down. "Better than Willbender," laughed Hoaen.
+![](http://www.wizards.com/sideboard/images/ptyok03/a879.jpg)
+
+Both players had land and spells this game. Hoaen played Battlefield Medics on the second and third turns while Ikeda played morphs. Screeching Buzzard came out for the Canadian and the Japanese player made a Slateback straight up. Things got interesting when Hoaen played a Corpse Harvester and a Festering Goblin. When Hoaen tried to kill a Mistform Seaswift EOT, an unmorphed Master of the Veil saved it by turning it face down. "Better than Willbender," laughed Hoaen.
 
 Ikeda threw a Searing Flesh at Hoaen's dome dropping him to 10 but Battlefield Medic times two along with Whipgrass Entangler kept him form mounting an offense. Once Hoaen drew a Withered Wretch hew was able to use his Entangler for four a shot and he was able to 'Falter' his way to victory.
 

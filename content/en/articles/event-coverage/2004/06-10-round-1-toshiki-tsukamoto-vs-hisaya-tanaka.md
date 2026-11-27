@@ -44,7 +44,9 @@ archive_source:
   sha256: 2a978fae27cafd5bbf005460d60154463343552eb1dbaf1b4ee1ec969ecb0c1f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm1_1.jpg)Toshiki Tsukamoto was not only the first Japanese National Champion, but has held the title on two occasions. He had quit Magic for a while, but now he's back and looking to reclaim the tournament that once belonged to him. Hisaya Tanaka came in fourth at this tournament last year, and was able to play on the national team as an alternate when Toru Maegawa couldn't make the trip to Berlin. He's playing control white, while Tsukamoto is running Goblin Bidding with Obliterate, splashing for Read the Runes in maindeck, and [March of the Machines](https://web.archive.org/web/20040610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=March+of+the+Machines) in the sideboard.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm1_1.jpg)
+
+Toshiki Tsukamoto was not only the first Japanese National Champion, but has held the title on two occasions. He had quit Magic for a while, but now he's back and looking to reclaim the tournament that once belonged to him. Hisaya Tanaka came in fourth at this tournament last year, and was able to play on the national team as an alternate when Toru Maegawa couldn't make the trip to Berlin. He's playing control white, while Tsukamoto is running Goblin Bidding with Obliterate, splashing for Read the Runes in maindeck, and [March of the Machines](https://web.archive.org/web/20040610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=March+of+the+Machines) in the sideboard.
 
 ### Game 1
 

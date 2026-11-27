@@ -139,7 +139,9 @@ To which Mark (Gottlieb – I tend not to talk about myself in the third person 
 
 My reply: “Good. *Time Spiral* is definitely in need of keywords.”
 
-![](https://i.ormos.uk/77/2e/772e017ae1966bf34c63f5a5535325fe073d4f31b2dc933a5afb8dfe223cfffe.jpg)The last funny story about flash had to do with the naming of the keyword. In design, we had called it surprise. The creative team wasn’t too keen on the connotations of the word surprise. They liked better something that conveyed speed. (For some reason “haste” didn’t really work out.)
+![](https://i.ormos.uk/77/2e/772e017ae1966bf34c63f5a5535325fe073d4f31b2dc933a5afb8dfe223cfffe.jpg)
+
+The last funny story about flash had to do with the naming of the keyword. In design, we had called it surprise. The creative team wasn’t too keen on the connotations of the word surprise. They liked better something that conveyed speed. (For some reason “haste” didn’t really work out.)
 
 The problem was that our goals for the name were a bit complex. For starters, the name had to imply speed. Second, we wanted a verb so that you could describe how you were playing your card with the keyword. (“I’ll VERB my [King Cheetah](https://web.archive.org/web/20060918000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=King+Cheetah) into play.”) Third, we wanted a noun so that we could talk about it on cards in a way that sounded grammatically correct. (“All creature cards in your hand gain flash.”) Fourth, it had to have a nice simple name, as this is a mechanic that can show up in the basic set and many expert expansions. Yes, all we needed was a word that was simple, both a noun and a verb, and implied speed.
 
@@ -151,7 +153,9 @@ And thus does my plan to name as many keyword mechanics after superheroes begin 
 
 Once I started on my search to find mechanics that were already part of **Magic** that had a time feel, I couldn’t stop with flash. Here are a few I found:
 
-![](https://i.ormos.uk/65/f3/65f309325ec22bc7056c0b3f5df0cf53d34f93b8abf8b2084642bbc6714e59ff.jpg)**Haste** – The mechanics that have the most time feel are the ones that seem to speed up or slow down the game in some regard. Haste is a perfect example of the former. Creatures with haste just skip ahead a turn right to the attack. Realizing this, we made sure to have haste appear more than normal. A big help to this goal was the fact that all the creatures with suspend come into play with haste.
+![](https://i.ormos.uk/65/f3/65f309325ec22bc7056c0b3f5df0cf53d34f93b8abf8b2084642bbc6714e59ff.jpg)
+
+**Haste** – The mechanics that have the most time feel are the ones that seem to speed up or slow down the game in some regard. Haste is a perfect example of the former. Creatures with haste just skip ahead a turn right to the attack. Realizing this, we made sure to have haste appear more than normal. A big help to this goal was the fact that all the creatures with suspend come into play with haste.
 
 **Comes into play tapped** – If haste speeds things up, “comes into play tapped” slows them down. The best part about this mechanic is that it’s simple, but has some nice play ramifications. Also, as the effect happens when you play it, there are no memory issues.
 

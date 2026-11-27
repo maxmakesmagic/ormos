@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/105.jpg)It was a "we're testing together for Tokyo" theme round in the Feature Match area during round 4. Alex Shvartsman and Brian Davis are among "the Rejects" while Warren Marsh and Scott Johns are members of "Godzilla" - the team made up of former European Alliance and former Mogg Squad members who rejected them in an effort to take Tokyo. London-based Warren Marsh is the only European pro to make the trip to Grand Prix Boston. It isn't because he thought Boston would be any easier than Cologne. Rather, he was in town visiting a friend and the Grand Prix happened to be in town too. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/105.jpg)
+
+It was a "we're testing together for Tokyo" theme round in the Feature Match area during round 4. Alex Shvartsman and Brian Davis are among "the Rejects" while Warren Marsh and Scott Johns are members of "Godzilla" - the team made up of former European Alliance and former Mogg Squad members who rejected them in an effort to take Tokyo. London-based Warren Marsh is the only European pro to make the trip to Grand Prix Boston. It isn't because he thought Boston would be any easier than Cologne. Rather, he was in town visiting a friend and the Grand Prix happened to be in town too. 
 
 Scott Johns is playing a black/red/green deck that I reported a bit about earlier. Scott no longer believes he made any deck building mistakes - Gary Wise was merely misleading him. After looking at his opening draw, Scott announced "nothing's better for a good crappy deck than a good crappy mulligan." Neither player seemed happy about his card quality with Marsh describing his own deck as "merely average - which means I won't make Day 2." If they both miss Day 2, they'll be able to spend the rest of the weekend testing IBC (Invasion Block Constructed) decks. A lot of the pros here have spent time thinking and talking about that format. 
 

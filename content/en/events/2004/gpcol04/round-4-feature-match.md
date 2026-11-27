@@ -1103,7 +1103,9 @@ render_recovery:
 ---
 ### Neil Reeves vs. Matt Vienneau
 
-![](http://www.wizards.com/sideboard/images/gpcol04/fm1_2.jpg)Matt Vienneau won Grand Prix: Toronto many years ago. More recently he made the finals of Grand Prix Boston during *Odyssey* block. Once a vocal advocate for the players of the game, Matt has been quiet of late and mostly plays online. An opportunity he pointed out he rarely has these days since Darksteel came online.
+![](http://www.wizards.com/sideboard/images/gpcol04/fm1_2.jpg)
+
+Matt Vienneau won Grand Prix: Toronto many years ago. More recently he made the finals of Grand Prix Boston during *Odyssey* block. Once a vocal advocate for the players of the game, Matt has been quiet of late and mostly plays online. An opportunity he pointed out he rarely has these days since Darksteel came online.
 
 While he has shown himself to be no slouch with the sixty card variety Neil Reeves is one of the most feared competitors in the game with a forty-card deck. Like Matt he is a witty and charming player who always adds value to a feature match. With so many players preparing to play--almost the full 850 were going at it this round--it was hard to hear the two players banter. 
 

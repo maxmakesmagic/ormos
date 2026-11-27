@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Victor van den Broek*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/220.JPG)A table with 8 undefeated players usually creates an interesting table to cover for a draft. Draft table 4 featured Bram Snepvangers, one of the Dutch top players, who will be fed by the 2000 French National Champion Yann Hamon. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/220.JPG)
+
+A table with 8 undefeated players usually creates an interesting table to cover for a draft. Draft table 4 featured Bram Snepvangers, one of the Dutch top players, who will be fed by the 2000 French National Champion Yann Hamon. 
 
 Bram's first booster was full of amazing cards. It contained a Volcanic Wind, Story Circle, Sever Soul, Vendetta, Aerial Caravan and Nightwind Glider. Bram picked the Volcanic Wind as it puts him in a perfect position to cut off red and get some amazing Nemesis red on the next booster. Yann passed Bram a booster full of good white as well. Picking an Arrest, Bram still had to pass up on an Orim's Cure and a Nightwind Glider, as well as an Ogre Taskmaster. Even though Bram is giving a confusing signal for white on his left, it might not be drafted there because both boosters contained more then one good white card. His next booster contained a Warmonger, Muzzle, a Deepwood Ghoul and a General's Regalia. Bram picked the Warmonger, which allowed him to also maintain his signal for red. Next pick was amazing again, adding a Ballista Squad to Bram's arsenal and he followed up with a Ramosian Lieutenant. The rest of the booster went without surprises except for the Story Circle making it back to Bram on his ninth pick. 
 

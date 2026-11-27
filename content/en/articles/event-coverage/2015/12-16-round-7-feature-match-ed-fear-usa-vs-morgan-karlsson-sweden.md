@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Ben Ronaldson*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/157.jpg)Both players had very strong two colour decks, but Ed's blue/green was a monstrosity. His Mercadian Masques blue was: Airship, Bouncer, Gush, Coastal Piracy, Barrier, Drake Hatchling, Counterspell! 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/157.jpg)
+
+Both players had very strong two colour decks, but Ed's blue/green was a monstrosity. His Mercadian Masques blue was: Airship, Bouncer, Gush, Coastal Piracy, Barrier, Drake Hatchling, Counterspell! 
 
 This was a great match to watch as both players were joking around and being light hearted about the whole thing. I guess they were both glad to have already secured a position in day two. Mr. Fear, of course, was spouting absolute rubbish in his own amusing fashion, but Karlsson just smiled and managed to play through it. 
 
@@ -62,7 +64,9 @@ Fear 1 - Karlsson 0
 
 **Game 2** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/158.jpg)This time Morgan elects to play first and makes a turn 3 Chilling Apparition. Ed has drawn 3 consecutive land though, and can only make a Wandering Eye to block the Spectre. The only other permanent in play at this stage is a Seal of Removal and Fear is amused to see that his opponent has a Topple, 2 Gliders and a Sever Soul, whilst he has a Stinging Barrier and some land (the eye reveals all). Karlsson Topples the Eye and forces the American to discard a land. The Barrier then hits and is immediately Sever Souled but the Seal of Removal sends it back, but the Apparition serves again and another land is placed in the bin. The Barrier is recast, then the Swede makes the first of his two gliders confidently - Ed notices the confidence with which it is played and assumes (correctly) that Morgan has Mageta's Boon, so he starts Pinging to the dome instead - the Boon is placed on the Glider in response. The Glider gets to attack just once before a Windscouter hits the table and stabilises the game. It looks like there will be a stand off until Ed draws a Coastal Piracy and starts to serve with the 3/3 flyer (forgetting that it returns to his hand at the end of combat - but hey - he was excited). 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/158.jpg)
+
+This time Morgan elects to play first and makes a turn 3 Chilling Apparition. Ed has drawn 3 consecutive land though, and can only make a Wandering Eye to block the Spectre. The only other permanent in play at this stage is a Seal of Removal and Fear is amused to see that his opponent has a Topple, 2 Gliders and a Sever Soul, whilst he has a Stinging Barrier and some land (the eye reveals all). Karlsson Topples the Eye and forces the American to discard a land. The Barrier then hits and is immediately Sever Souled but the Seal of Removal sends it back, but the Apparition serves again and another land is placed in the bin. The Barrier is recast, then the Swede makes the first of his two gliders confidently - Ed notices the confidence with which it is played and assumes (correctly) that Morgan has Mageta's Boon, so he starts Pinging to the dome instead - the Boon is placed on the Glider in response. The Glider gets to attack just once before a Windscouter hits the table and stabilises the game. It looks like there will be a stand off until Ed draws a Coastal Piracy and starts to serve with the 3/3 flyer (forgetting that it returns to his hand at the end of combat - but hey - he was excited). 
 
 Meanwhile the ground is starting to get ugly for Fear as a Bog Elemental and Silkenfist Order parade around the shop with an Oracles Attendants snooping around. However the American wins with exceptional playskill at the end. He manages to tap his opponent out, kill the Aparition with the barrier and then time an Alexi's Cloak very intelligently when the Oracles Attendants attempted to target the Thermal Glider with a Boon on it. The Glider subsequently could not survive and both 3/3 flyers die. When Ed then produces a Waterfront Bouncer the Swede concedes on 12 life knowing that his Bog Elemental (which was gradually eating his mana reserves) could not hold off the onslaught it was about to face. 
 

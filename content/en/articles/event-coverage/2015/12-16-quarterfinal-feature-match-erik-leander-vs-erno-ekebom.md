@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Alex Shvartsman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/168.jpg)Although Leander's deck seemed somewhat mediocre, it was also tailor-made to defat Ekebom's. Ekebom drafted a solid red-green base while splashing for some off-color cards thanks to a pair of Harrows and a Fertile Ground. Leander drafted a blue-white-green deck with a load of pro: red creatures capable of stopping the majority of Ekebom's own creatures and removal spells. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/168.jpg)
+
+Although Leander's deck seemed somewhat mediocre, it was also tailor-made to defat Ekebom's. Ekebom drafted a solid red-green base while splashing for some off-color cards thanks to a pair of Harrows and a Fertile Ground. Leander drafted a blue-white-green deck with a load of pro: red creatures capable of stopping the majority of Ekebom's own creatures and removal spells. 
 
 Leander was able to shut down his opponent's offense pretty early in the game. Ten minutes into game one he had a pair of tappers on the table backed up by a pair of pro: red creatures. He was holding an excellent defensive position while sneaking in an occasional point or two of damage. Although Ekebom had a number of solid creatures in play, they would get tapped or blocked any time he tried an attack. 
 
@@ -64,7 +66,9 @@ Leander realized his mistake about ten seconds later and was clearly distressed 
 
 In the second game Leander tried the same strategy. He would play a bunch of pro: red guys and tappers, shutting down Ekebom completely. He made a few mistakes in this game as well, such as allowing Plague Spores to resolve despite having white mana untapped, but it was not enough to help Ekebom make a comeback. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/162.jpg)Toward the end of the game Ekebom cast his sideboard tech - Ordered Migration - summoning four flying tokens. This was ALMOST enough to stop Leander's offense - but he "broke through" these non-red creatures for the win. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/162.jpg)
+
+Toward the end of the game Ekebom cast his sideboard tech - Ordered Migration - summoning four flying tokens. This was ALMOST enough to stop Leander's offense - but he "broke through" these non-red creatures for the win. 
 
 In the final game things finally went Ekebom's way. He drew his green creatures early and was able to get on the offensive quickly. Leander was forced to cast Wash Out early just to buy some breathing space but it was not enough. A horde of green creatures and those Ordered Migration tokens quickly reduced Leander's life total to zero. 
 

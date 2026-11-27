@@ -44,7 +44,9 @@ archive_source:
   sha256: 8e77afa736bbea5420b6627b84cec0d4883bba779a279b480452b24176b613d6
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a853.jpg)Jelger is a well-known pro player from the Netherlands with a Pro Tour top 8 and multiple Grand Prix top 8s. He also told me that he is especially proud of his 4-8 record in Masters series. Lionel is a relatively unknown player from France who is hoping to make his breakthrough here. Only the winner of this match will make top 8. For Lionel there is also qualification for PT Amsterdam at stake.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a853.jpg)
+
+Jelger is a well-known pro player from the Netherlands with a Pro Tour top 8 and multiple Grand Prix top 8s. He also told me that he is especially proud of his 4-8 record in Masters series. Lionel is a relatively unknown player from France who is hoping to make his breakthrough here. Only the winner of this match will make top 8. For Lionel there is also qualification for PT Amsterdam at stake.
 
 ### Game 1
 
@@ -63,7 +65,9 @@ Lionel: "Taking a mulligan makes people lucky"
 
 Jelger 1 – Lionel 1
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a855.jpg)Playing only one last game for a top 8 slot and lots of money made both players uncomfortable, so they agreed on a 20 percent money split.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a855.jpg)
+
+Playing only one last game for a top 8 slot and lots of money made both players uncomfortable, so they agreed on a 20 percent money split.
 
 ### Game 3
 

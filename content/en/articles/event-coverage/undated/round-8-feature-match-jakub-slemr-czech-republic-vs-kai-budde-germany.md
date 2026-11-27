@@ -57,7 +57,9 @@ Jakub won the roll and went first; both players kept their initial hands. Kai be
 
 Both players got the land they needed on their eighth turn; and since Jakub had both turn advantage and Lin Sivvi on the board, he was able to keep Kai on the defensive. Perhaps the key play came on Kai's eighth turn, when Jakub tapped out to "inform" the Falcon. In response, Kai used it to search for his Informer, and then used his last three mana to "inform" Jakub's Informer. Jakub used the alternate casting cost of Reverent Mantra (pitching Disenchant) to give all creatures protection from black. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/883.jpg)With momentum back on his side as he untapped for his ninth turn, Jakub informed Kai's Informer that for his information, only one Informer was informed enough to . . . er, inform. Then he played Parallax Wave, which is a lot simpler to write. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/883.jpg)
+
+With momentum back on his side as he untapped for his ninth turn, Jakub informed Kai's Informer that for his information, only one Informer was informed enough to . . . er, inform. Then he played Parallax Wave, which is a lot simpler to write. 
 
 The trickle of combat damage to this point began to turn into a flood. Kai valiantly continued to cast creatures, expecting a Wane on Parallax Wave to surprise Jakub in combat; but Jakub was ready with a Power Sink. Soon afterward, Kai conceded. 
 

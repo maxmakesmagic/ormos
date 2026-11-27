@@ -200,7 +200,9 @@ Antes de nada, hay que decir que sí, hay más jugadores españoles. Y todos mer
 
 ### Primera partida
 
-![](https://i.ormos.uk/ec/eb/ecebbcdcfa9769300c3fbd16630f82d377311af8e30cc3585edb69f3d36ed023.jpg)Siron elige salir. Juega el popular mazo de Enduring Ideal, que tanta guerra está dando en este torneo. Una baraja de combo bastante potente y, quizá, la más "segura", a salvo del mucho hate que se juega contra los mazos que abusan del cementerio. Sale con una tierra girada que se puede sacrificar para obtener dos manás.
+![](https://i.ormos.uk/ec/eb/ecebbcdcfa9769300c3fbd16630f82d377311af8e30cc3585edb69f3d36ed023.jpg)
+
+Siron elige salir. Juega el popular mazo de Enduring Ideal, que tanta guerra está dando en este torneo. Una baraja de combo bastante potente y, quizá, la más "segura", a salvo del mucho hate que se juega contra los mazos que abusan del cementerio. Sale con una tierra girada que se puede sacrificar para obtener dos manás.
 
 Emilio, por su parte, juega un Dark Confidant de primer turno, apoyándose en un Chrome Mox. Artefacto que también juega el belga para usar Burning Wish y localizar un Duress de su banquillo. Juega una nueva tierra girada. Cuando levanto la vista veo la gran cantidad de gente que está viendo el área de Feature Match, siguiendo especialmente este enfrentamiento: todos tienen ganas de que Emilio siga adelante con la buena racha.
 
@@ -218,7 +220,9 @@ El artefacto salva la partida del español, colocando una tierra en la parte sup
 
 ### Segunda partida
 
-![](https://i.ormos.uk/83/0e/830e19aae665fc359ecce5ba29161e26b507b45bbf5af75ce2c39c019c219ac3.jpg)López vuelve a hacer el cambio anti control/combo, metiendo Duress y quitando anticriaturas. Su baraja está especialmente diseñada para batir a mazos de combo, pero un torneo de tan alto nivel como éste requiere una concentración total y que además las cartas estén de tu lado. Y Emilio es un jugador que siempre mantiene la cabeza fría, aunque por fuera parezca estar muy excitado.
+![](https://i.ormos.uk/83/0e/830e19aae665fc359ecce5ba29161e26b507b45bbf5af75ce2c39c019c219ac3.jpg)
+
+López vuelve a hacer el cambio anti control/combo, metiendo Duress y quitando anticriaturas. Su baraja está especialmente diseñada para batir a mazos de combo, pero un torneo de tan alto nivel como éste requiere una concentración total y que además las cartas estén de tu lado. Y Emilio es un jugador que siempre mantiene la cabeza fría, aunque por fuera parezca estar muy excitado.
 
 Dark Confidant de primer turno otra vez. Bob Maher y el Chrome Mox están portándose genial con el español, que sabe sacar el máximo partido a la que es, de lejos, la mejor carta que un ganador del Magic Invitational haya diseñado jamás. Éste, además, le muestra un Duress con el que arrebata el Burning Wish de Siron. Por si fuera poco, un Tarmogoyf de pequeño tamaño (2/3) se une a la fiesta y Geoffrey tendrá que sudar para recuperarse de esta posición tan desfavorable. 
 

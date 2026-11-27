@@ -88,7 +88,9 @@ render_recovery:
   - Pyrite Spellbomb
   occurrences: 55
 ---
-![](https://i.ormos.uk/31/93/3193866e847c9115d321c80e639417ab54a2351af263a7ddcf89449838ff9fb6.jpg)Kai, as always, needs no introduction, he has been here before, and he is here now. This, on the other hand, is Sam’s first GP top 8. Probably not his choice of opponent…
+![](https://i.ormos.uk/31/93/3193866e847c9115d321c80e639417ab54a2351af263a7ddcf89449838ff9fb6.jpg)
+
+Kai, as always, needs no introduction, he has been here before, and he is here now. This, on the other hand, is Sam’s first GP top 8. Probably not his choice of opponent…
 
 Kai won the coin flip and elected to play. A turn three Hematite Golem was made thanks to a Talisman of Progress. Sam had made a turn two Tel-Jilad Chosen and a Granite Shard. The Shard was really important in this match as over a third of Kai’s creatures died to it.
 
@@ -104,7 +106,9 @@ Gomersall 1 – Budde 0
 
 The first play of the game was Kai’s Yotian Soldier. It stood overlooking the empty board until Sam’s Viridian Joiner joined it. A Hematite Golem found itself in play on Kai’s side, Gomersall replied by dropping a Talisman of Dominance and a War Wagon.
 
-![](https://i.ormos.uk/fa/30/fa30eafc7ebd127bcd4232547cada607f03cf9bd3e644518f4c43b66bcee4d21.jpg)The Golem attacked and was pumped for three damage; Kai dropped a Banshee Blade after combat and passed. Sam swung back with both of his men, the Yotian dived in front of the Wagon but a Predator Strike ensured its doom. Kai equipped the Golem and swung but the Englishman had a sideboarded Needlebug to block.
+![](https://i.ormos.uk/fa/30/fa30eafc7ebd127bcd4232547cada607f03cf9bd3e644518f4c43b66bcee4d21.jpg)
+
+The Golem attacked and was pumped for three damage; Kai dropped a Banshee Blade after combat and passed. Sam swung back with both of his men, the Yotian dived in front of the Wagon but a Predator Strike ensured its doom. Kai equipped the Golem and swung but the Englishman had a sideboarded Needlebug to block.
 
 Kai played a Goblin Replica and was done, all Sam could do was entwine a Journey of Discovery and make a Copper Myr. Kai failed to do anything in his next turn, he just sat, despondently shuffling the two cards in his hand around. Sam dropped a Granite Shard and swung in with his Goblin War Wagon and Needlebug. Budde blocked the Wagon with his Replica and shot down the Shard which, in return shot Kai to the dome. 
 
@@ -120,7 +124,9 @@ Gomersall kept his opening hand of four land, Fangren Hunter, Atog and Predator 
 
 Kai had found his Icy though which was a pretty good answer for Gomersall’s Fangren Hunter. However, Sam’s deck had been kind to him and he held in his grip another Hunter, a Rustmouth Ogre, a War Wagon and a Predator Strike. A second Hunter entered the fray after the first was tapped. Kai spent his turn Irradiating (for five) one of the Hunters. 
 
-![](https://i.ormos.uk/88/9a/889a88fb745820e2e3bc90372378c66d61aee3b86e98e9b890f3409cd6fde456.jpg)Again the Hunter was tapped down and this time a Rustmouth Ogre entered play. Kai looked like he was stabilizing when he made a Pewter Golem. Unheeded, Sam’s Hunter attacked unblocked, dropping Kai to thirteen. Sam made the Wagon and passed. 
+![](https://i.ormos.uk/88/9a/889a88fb745820e2e3bc90372378c66d61aee3b86e98e9b890f3409cd6fde456.jpg)
+
+Again the Hunter was tapped down and this time a Rustmouth Ogre entered play. Kai looked like he was stabilizing when he made a Pewter Golem. Unheeded, Sam’s Hunter attacked unblocked, dropping Kai to thirteen. Sam made the Wagon and passed. 
 
 It was now Kai’s turn to take the initiative, his Golem sung in, taking Sam to fifteen and made an Ogre Leadfoot. Sam attacked back with the Wagon and the Hunter after the Ogre was tapped down. The Hunter was double blocked by the Leadfoot and the Yotian and the Englishman’s Predator Strike took them both down, the Wagon nibbled Budde to ten.
 

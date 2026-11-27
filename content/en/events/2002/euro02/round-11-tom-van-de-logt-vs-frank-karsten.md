@@ -53,7 +53,9 @@ archive_source:
   sha256: 90016acf10bcd475582da327d6c6b083b62a132f0ce4c698e97bb48d984fd510
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a857.jpg)During the lunch break just before this round the two players had already played some games against each other, so it was a little anti-climatic that they would have to play each other for real this time. Tom played a blue-green madness deck with some late game through cards like Bearscape and Upheaval. This deck was originally built by a group of players for the Dutch Nationals, but it didn't really shine there because of a less than stellar match-up against decks like Psychatog and Kibler's red-blue-green. Frank played red-green like most of the Dutch players here. His only tech is two main deck Meteor Storm, otherwise it's a pretty standard version. Everybody knows Tom for his consistent finishes at Worlds and various other high level tournaments. Frank Karsten is a little less known even though he came ninth at Euros in 2000 and made several Grand Prix Top 8s. 
+![](http://www.wizards.com/sideboard/images/euro02/a857.jpg)
+
+During the lunch break just before this round the two players had already played some games against each other, so it was a little anti-climatic that they would have to play each other for real this time. Tom played a blue-green madness deck with some late game through cards like Bearscape and Upheaval. This deck was originally built by a group of players for the Dutch Nationals, but it didn't really shine there because of a less than stellar match-up against decks like Psychatog and Kibler's red-blue-green. Frank played red-green like most of the Dutch players here. His only tech is two main deck Meteor Storm, otherwise it's a pretty standard version. Everybody knows Tom for his consistent finishes at Worlds and various other high level tournaments. Frank Karsten is a little less known even though he came ninth at Euros in 2000 and made several Grand Prix Top 8s. 
 
 ### Game 1
 
@@ -86,7 +88,9 @@ Both players sideboarded as many "dikzakken" ("fatties" for those of you who don
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/euro02/a864.jpg)Frank had to mulligan again and kept a prety mediocre hand but did manage to play consecutive Mongrels and a Call of the Herd, but stalling on three lands. In the mean time Tom started pretty ideal with a turn 2 Mongrel and a turn 3 Arrogant Wurm which kept Franks forces at bay. 
+![](http://www.wizards.com/sideboard/images/euro02/a864.jpg)
+
+Frank had to mulligan again and kept a prety mediocre hand but did manage to play consecutive Mongrels and a Call of the Herd, but stalling on three lands. In the mean time Tom started pretty ideal with a turn 2 Mongrel and a turn 3 Arrogant Wurm which kept Franks forces at bay. 
 
 Tom cast a Fact or Fiction revealing Mongrel, Rootwalla, Unsummon and two lands. He got the Mongrel and two lands but being tapped out gave Frank the opportunity to kill the Arrogant Wurm. Then the first "dikzak" came to play on Tom's team: Gurzigost. Frank proceeded to Flametongue Kavu Tom's Mongrel but he would have none of it, discarding three cards to save it. 
 

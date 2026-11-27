@@ -309,7 +309,9 @@ If you are playing against a control deck, you are probably going to have to win
 
 ### Adding Money to the Deck
 
-![](https://i.ormos.uk/ab/04/ab0425c3d1a50500e04690885a10dfccdc8fb704bb32902454097daf7260ff6c.jpg)There are a lot of things you can add to this deck, such as Chrome Mox, Voidmage Prodigy, and Decree of Silence. You would probably want access to Annuls and Stifles in the sideboard, if you have one. Overall, with unlimited money, this deck is best changed into a blue-white deck with lots of good white rares, such as Decree of Justice, Akroma’s Vengeance, and the like. Still this deck performs OK with just the blue -- after all, it was blue that first said "no!"
+![](https://i.ormos.uk/ab/04/ab0425c3d1a50500e04690885a10dfccdc8fb704bb32902454097daf7260ff6c.jpg)
+
+There are a lot of things you can add to this deck, such as Chrome Mox, Voidmage Prodigy, and Decree of Silence. You would probably want access to Annuls and Stifles in the sideboard, if you have one. Overall, with unlimited money, this deck is best changed into a blue-white deck with lots of good white rares, such as Decree of Justice, Akroma’s Vengeance, and the like. Still this deck performs OK with just the blue -- after all, it was blue that first said "no!"
 
 Overall, this deck is a good way to learn how to play control decks. Most control decks are very forgiving to their players, allowing them to still win even if they make crucial mistakes. When you are building on a budget with Blue Control, mistakes are going to cost you. Letting a spell through that you shouldn’t have, or countering something inconsequential, can both be game-ending errors. 
 

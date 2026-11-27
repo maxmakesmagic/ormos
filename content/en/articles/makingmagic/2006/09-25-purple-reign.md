@@ -139,7 +139,9 @@ There are 121 purple cards and they appear one per pack. *Time Spiral* has 80 ra
 
 **Is there any way to tell how rare a purple card was in its prior printing?**
 
-![](https://i.ormos.uk/d5/1b/d51b2462a96b9d06d4773b145b14b4935182ed4ad65704a9acd9834aaa31d000.jpg)No. We talked about trying to use the expansion symbol to also convey the previous rarity, but all the versions we tried to show this information proved both confusing and ugly.
+![](https://i.ormos.uk/d5/1b/d51b2462a96b9d06d4773b145b14b4935182ed4ad65704a9acd9834aaa31d000.jpg)
+
+No. We talked about trying to use the expansion symbol to also convey the previous rarity, but all the versions we tried to show this information proved both confusing and ugly.
 
 **Since the purple cards have a *Time Spiral* expansion symbol, does that mean you can play them wherever *Time Spiral* is legal?**
 
@@ -205,7 +207,9 @@ That is a great question. So good, in fact that Aaron Forsythe has written next 
 
 ![Goblin_Snowman](http://www.wizards.com/magic/images/cardart/IA/Goblin_Snowman.jpg%0A%09%09%09)
 
-![Goblin_Snowman](https://i.ormos.uk/f1/11/f111506314e495dd0f683e366e28a63f726c99031270548cbcd9d46f31507cb4.jpg)And that’s what I’ll be writing about next Monday. I mean, it will be Timeshifted Week after all. In addition, as I hinted above there’s an interesting story about watching the rumors evolve from Wizards’ side of the wall. Definitely check back next week.
+![Goblin_Snowman](https://i.ormos.uk/f1/11/f111506314e495dd0f683e366e28a63f726c99031270548cbcd9d46f31507cb4.jpg)
+
+And that’s what I’ll be writing about next Monday. I mean, it will be Timeshifted Week after all. In addition, as I hinted above there’s an interesting story about watching the rumors evolve from Wizards’ side of the wall. Definitely check back next week.
 
 **Why didn’t you tell us about it until today?**
 
@@ -231,7 +235,9 @@ That said, I have to disagree with the players who claim that not having the inf
 
 ![Orcish_Librarian](http://www.wizards.com/magic/images/cardart/IA/Orcish_Librarian.jpg%0A%09%09%09)
 
-![Orcish_Librarian](https://i.ormos.uk/6c/48/6c485acddae3f2df2967a77240b06130c09376356287b1c682e6d840fb2bf8f3.jpg)Our goal was to surprise as many people as we could. It’s near impossible in this day and age to keep all information locked away (although I will say that almost all *Time Spiral* information not provided by Wizards or by outlets given the information by Wizards came much, much later in the process than other recent sets). We understand that the players who choose to frequent the rumor sites will know more information than those who do not. We also know that this is a tiny percentage of the players, even of those who frequently read about **Magic** on the internet. In short, we didn’t say anything because the majority of players didn’t know.
+![Orcish_Librarian](https://i.ormos.uk/6c/48/6c485acddae3f2df2967a77240b06130c09376356287b1c682e6d840fb2bf8f3.jpg)
+
+Our goal was to surprise as many people as we could. It’s near impossible in this day and age to keep all information locked away (although I will say that almost all *Time Spiral* information not provided by Wizards or by outlets given the information by Wizards came much, much later in the process than other recent sets). We understand that the players who choose to frequent the rumor sites will know more information than those who do not. We also know that this is a tiny percentage of the players, even of those who frequently read about **Magic** on the internet. In short, we didn’t say anything because the majority of players didn’t know.
 
 In addition, there are a lot of players that make the conscious choice not to know. They come to our site because they trust that we aren't going to ruin the surprise for them. It's hard for us to say that the set is more fun if you don't know everything if we then tell you everything. This is the second reason we didn't let the "timeshifted cat out of the bag", because we felt the prerelease would be more fun (notice you're seeing the word "fun" a lot today) if they didn't know. (As a quick aside, I'd love to hear from players that were surprised and how the experience felt.)
 

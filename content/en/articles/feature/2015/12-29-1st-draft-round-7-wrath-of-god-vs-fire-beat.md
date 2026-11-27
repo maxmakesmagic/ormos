@@ -96,7 +96,9 @@ Angel of Mercy 、Kavu Climber 、Pincer Spider 、Ancient Kavu 、Yavimaya Barb
 
 ### *Planeshift*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/948.jpg)　Flametongue Kavu 不在、Tahngarth, Talruum Hero と Magma Burst は一枚ずつしか出現しておらず、ともに Fire Beat がゲットというちょっと偏りすぎな Planeshift。果たして、Questing Phelddagrif が Wrath of God の救世主足り得るか？ 　正直、パックのカロリーは低めだった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/948.jpg)
+
+　Flametongue Kavu 不在、Tahngarth, Talruum Hero と Magma Burst は一枚ずつしか出現しておらず、ともに Fire Beat がゲットというちょっと偏りすぎな Planeshift。果たして、Questing Phelddagrif が Wrath of God の救世主足り得るか？ 　正直、パックのカロリーは低めだった。
 
 ＜ピックしたカードの一例＞
 
@@ -126,7 +128,9 @@ Fleetfoot Panther \*2 、Root Greevil、Gerrard's Command 、Rith's Charm
 
 ### *Apocalypse*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/947.jpg)果たして、対抗色のカード達は噛み合っていただろうか？ ちなみに、池田の対戦相手となる Yeung が 2 枚の Gerrard's Verdict をピックしていたところに、Dodecapod が池田自身のパックかた出現するというなかなかアツイ展開も見ることが出来たものだった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/947.jpg)
+
+果たして、対抗色のカード達は噛み合っていただろうか？ ちなみに、池田の対戦相手となる Yeung が 2 枚の Gerrard's Verdict をピックしていたところに、Dodecapod が池田自身のパックかた出現するというなかなかアツイ展開も見ることが出来たものだった。
 
 ＜ピックしたカードの一例＞
 

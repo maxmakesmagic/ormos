@@ -78,7 +78,9 @@ render_recovery:
   - Deep Analysis
   occurrences: 39
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a827.jpg)Austin qualified in Louisiana at a JSS Challenge. He's been playing for the last three years, having started with Invasion. He's playing a Blue-Green madness deck that features the semi-rare choice of Hapless Researcher as an additional madness engine. Kevyn won a JSS Qualifier that took place in Las Vegas. He's been playing around two years, having started with *Odyssey*. Kevyn brought along good old Red-Green beats for this event. 
+![](http://www.wizards.com/sideboard/images/natus03/a827.jpg)
+
+Austin qualified in Louisiana at a JSS Challenge. He's been playing for the last three years, having started with Invasion. He's playing a Blue-Green madness deck that features the semi-rare choice of Hapless Researcher as an additional madness engine. Kevyn won a JSS Qualifier that took place in Las Vegas. He's been playing around two years, having started with *Odyssey*. Kevyn brought along good old Red-Green beats for this event. 
 
 ### Game 1
 
@@ -86,7 +88,9 @@ render_recovery:
 
 "Attack," Austin said, as he turned the Hapless Researcher and the Rootwalla sideways, sending them into the Red Zone. The Rootwallas held a bloody exchange in the middle of the table, with both headed to their respective graveyards. Both players added more creatures to their table. An Arrogant Wurm and Wild Mongrel for Austin, a Call of the Herd token for Kevyn. The real problem was the Elephant Guide sitting on that elephant token. Austin solved that problem with a Roar of the Wurm token.
 
-![](http://www.wizards.com/sideboard/images/natus03/a826.jpg)The creature standoff continued. Kevyn added a Phantom Centaur to the table, then a second one, but he didn't turn them sideways. For some reason his horde of double Centaur and 6/6 Elephant was being kept at bay by a Wild Mongrel and a Wurm token. Kevyn added a second Call token, and put a second copy of Call of the Herd in his graveyard. As well as the army of green beasts he had on the table he still had access to two more elephants because of the flashback ability of the Call.
+![](http://www.wizards.com/sideboard/images/natus03/a826.jpg)
+
+The creature standoff continued. Kevyn added a Phantom Centaur to the table, then a second one, but he didn't turn them sideways. For some reason his horde of double Centaur and 6/6 Elephant was being kept at bay by a Wild Mongrel and a Wurm token. Kevyn added a second Call token, and put a second copy of Call of the Herd in his graveyard. As well as the army of green beasts he had on the table he still had access to two more elephants because of the flashback ability of the Call.
 
 Austin can only come up with a second Mongrel, and the table was badly balanced against him. His frown turned upside-down moments later though, as he mised into Wonder to win the game.
 
@@ -102,7 +106,9 @@ The two players were relatively silent until Kevyn made his play/draw decision. 
 
 Early creatures from both sides hit the table. Rootwalla from Kevyn was met by Mongrel from Austin. The creatures were rendered moot moments later though when Kevyn played an Ensnaring Bridge. The sideboard was at work, as the bridge holds back the Mongrel and the Arrogant Wurm that Austin had played.
 
-![](http://www.wizards.com/sideboard/images/natus03/a828.jpg)A Quiet Speculation from Austin put three copies of Deep Analysis in the graveyard. People around the feature match area were speculating that he planned on making Kevyn draw all those cards, just to get around the Ensnaring Bridge. The flaw in this plan was simple though, Kevyn could just dump those cards to the Mongrel.
+![](http://www.wizards.com/sideboard/images/natus03/a828.jpg)
+
+A Quiet Speculation from Austin put three copies of Deep Analysis in the graveyard. People around the feature match area were speculating that he planned on making Kevyn draw all those cards, just to get around the Ensnaring Bridge. The flaw in this plan was simple though, Kevyn could just dump those cards to the Mongrel.
 
 The plan worked out though a moment later. Austin cast Unsummon on the Mongrel, making Kevyn pick up his little card dumper.
 

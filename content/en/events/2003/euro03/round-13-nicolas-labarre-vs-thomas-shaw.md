@@ -93,7 +93,9 @@ render_recovery:
   - Corrupt
   occurrences: 80
 ---
-![](http://www.wizards.com/sideboard/images/euro03/a884.jpg)This is where going gets really tough. The last few rounds decide who comes back tomorrow to play under the spotlights and who will wander around London for a while before showing up to get some headphones to follow the Top 8.
+![](http://www.wizards.com/sideboard/images/euro03/a884.jpg)
+
+This is where going gets really tough. The last few rounds decide who comes back tomorrow to play under the spotlights and who will wander around London for a while before showing up to get some headphones to follow the Top 8.
 
 As usual in French mirror matches the shuffling period was filled with stories and jokes. My French isn't good enough to follow it all but they certainly had a lot to talk about. Thomas seemed to be under the impression that Feature Matches had a lot of public. 
 
@@ -121,7 +123,9 @@ That opened the way for Nantuko Shade. A two turns later Nicolas found his third
 
 Shaw decided to wait a bit and instead play Graveborn Muse. Nicolas answered with the potentially unstoppable Phantom Centaur. The Muse started pumping out cards – acting as a one-sided Howling Mine – and Shaw cycled Undead Gladiator.
 
-![](http://www.wizards.com/sideboard/images/euro03/a886.jpg)The Centaur entered the Red Zone, Labarre played Call of the Herd and a Volcanic Hammer got rid of the Muse.
+![](http://www.wizards.com/sideboard/images/euro03/a886.jpg)
+
+The Centaur entered the Red Zone, Labarre played Call of the Herd and a Volcanic Hammer got rid of the Muse.
 
 Shaw traded his Nantuko Shade for the Anger, played Mutilate to wipe the table and dropped Undead Gladiator. Labarre agonized over his options and finally settled on playing another Centaur and sending it in.
 
@@ -143,7 +147,9 @@ Thomas: "Nicolas, what kind of hand is that? Are you playing Burning Bridge?! Yo
 
 He settled for a Volcanic Hammer hoping Labarre would be locked on his two lands. It certainly worked for a while. But two turns later, Nicolas blew up the Wooded Foothills to play the second Hammer. Meanwhile Shaw was going anywhere as well. He was locked at three lands despite continuously cycling Undead Gladiator.
 
-![](http://www.wizards.com/sideboard/images/euro03/a885.jpg)Labarre played Wild Mongrel but Thomas had Innocent Blood. Then he found extra help: Twisted Abomination. That gave him the fourth Swamp. Fourth Swamp meant he could play Graveborn Muse.
+![](http://www.wizards.com/sideboard/images/euro03/a885.jpg)
+
+Labarre played Wild Mongrel but Thomas had Innocent Blood. Then he found extra help: Twisted Abomination. That gave him the fourth Swamp. Fourth Swamp meant he could play Graveborn Muse.
 
 But Nicolas wasn't about to be outdone. He had his third Hammer to stop he car-drawing nonsense. With a hand that included Visara and Corrupt Shaw used his Gladiator like a madmen hoping to find just two more Swamps.
 

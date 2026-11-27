@@ -86,7 +86,9 @@ render_recovery:
   - Llanowar Elves
   occurrences: 65
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a494.jpg)Rui Mariani has been long known as one of the best players in Portugal. He has numerous Grand Prix top 8 finishes and has played on the Tour a number of times, but this is the closest he's come to a Pro Tour top 8 so far. Much better known is his opponent, owner of Your Move Games stores Rob Dougherty. Dougherty pretty much invented Benzo (mono-black Reanimator) and very few people in the world have as much experience with the deck, so it is no surprise that his plan is to animate large men and attack with them this weekend. Mariani brought The Rock variant to the table.
+![](http://www.wizards.com/sideboard/images/pthou02/a494.jpg)
+
+Rui Mariani has been long known as one of the best players in Portugal. He has numerous Grand Prix top 8 finishes and has played on the Tour a number of times, but this is the closest he's come to a Pro Tour top 8 so far. Much better known is his opponent, owner of Your Move Games stores Rob Dougherty. Dougherty pretty much invented Benzo (mono-black Reanimator) and very few people in the world have as much experience with the deck, so it is no surprise that his plan is to animate large men and attack with them this weekend. Mariani brought The Rock variant to the table.
 
 ### Game 1
 
@@ -104,7 +106,9 @@ Doughery also made Mariani flash back Coffin Purge when he tried to reanimate hi
 
 He did not have to wait very long. The very next card was an Exhume – an excellent draw for the American, who was running low on the life points. Dougherty animated a Visara. Mariani had an option of sacrificing Baloth for four life and putting it back into play. Instead, he chose to put Birds of Paradise back into play, perhaps in order to ensure that he could Deed for enough if he ever drew one. 
 
-![](http://www.wizards.com/sideboard/images/GPLIS02/a957.jpg)Dougherty was quickly establishing control of the board. He cast Engineered Plague on Birds to take out a pair of them and used Visara to murder Ravenous Baloth. With Nether Spirit on defense, he was now able to race attacking for five points of damage against a single point of trample damage that Treetop Village could force through.
+![](http://www.wizards.com/sideboard/images/GPLIS02/a957.jpg)
+
+Dougherty was quickly establishing control of the board. He cast Engineered Plague on Birds to take out a pair of them and used Visara to murder Ravenous Baloth. With Nether Spirit on defense, he was now able to race attacking for five points of damage against a single point of trample damage that Treetop Village could force through.
 
 Mariani summoned Yavimaya Elder, only to have it trumped by Stronghold Taskmaster on Dougherty's side of the table. Although it made both Visara and Nether Spirit smaller, it forced Mariani to sacrifice the Elder right away and would be able to trade in combat with Treetop Village. That is precisely what Mariani did – attacking into the Stronghold Taskmaster. Dougherty had no problem trading. Dougherty's Duress got Mariani to cast Diabolic Edict in response, getting rid of Nether Spirit now that there were multiple creatures in the graveyard. 
 

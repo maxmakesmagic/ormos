@@ -71,7 +71,9 @@ render_recovery:
 
 * * *
 
-![](https://i.ormos.uk/99/bf/99bfe841bdeecddc79f28656b9af555af734365db361b76283a09da02812049a.jpg)On March 5, 2003, beginning at 12 midnight PST, *LegionsTM* product will be available at the [***Magic** Online* Store](https://web.archive.org/web/20030206000000/http://wizards.com/leaving.asp?url=http://magiconlinestore.wizards.com&origin=magic_magiconline_newslgnevents). One hour later, at 1 AM PST, the fun begins...
+![](https://i.ormos.uk/99/bf/99bfe841bdeecddc79f28656b9af555af734365db361b76283a09da02812049a.jpg)
+
+On March 5, 2003, beginning at 12 midnight PST, *LegionsTM* product will be available at the [***Magic** Online* Store](https://web.archive.org/web/20030206000000/http://wizards.com/leaving.asp?url=http://magiconlinestore.wizards.com&origin=magic_magiconline_newslgnevents). One hour later, at 1 AM PST, the fun begins...
 
 It's time for the ***Magic** Online Legions* Release Events! These include both Release Tournaments and new draft queues, and run from March 5 at 1 AM PST through March 6 at 10 PM PST.
 

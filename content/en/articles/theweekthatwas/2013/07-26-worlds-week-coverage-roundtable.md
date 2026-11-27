@@ -153,7 +153,9 @@ I gathered together just some of the people who will be breaking down all the fo
   
   
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw244_bdm.jpg)**BDM: Deck builders are going to face some very unique restrictions in Team Unified Standard since there cannot be more than four of anything other than basic lands across the three decks. I know you can try to puzzle out three existing decks that have little to no overlap but do you think we will see any decks in Unified Standard that we have not seen be a major part of traditional Standard?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw244_bdm.jpg)
+
+**BDM: Deck builders are going to face some very unique restrictions in Team Unified Standard since there cannot be more than four of anything other than basic lands across the three decks. I know you can try to puzzle out three existing decks that have little to no overlap but do you think we will see any decks in Unified Standard that we have not seen be a major part of traditional Standard?**
 
 ![](http://media.wizards.com/images/magic/daily/twtw/twtw246_sutcliffe_2.jpg)**Sutcliffe:** I think some of the fringe cards and strategies will become more mainstream as a result of the Unified format. Cards like [Advent of the Wurm](https://web.archive.org/web/20130726000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Advent+of+the+Wurm) and [Assemble the Legion](https://web.archive.org/web/20130726000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Assemble+the+Legion) have seen some play but might make a stand as the centerpiece for a deck given the Unified format restrictions.
 

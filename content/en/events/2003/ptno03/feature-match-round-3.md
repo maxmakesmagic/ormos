@@ -311,7 +311,9 @@ render_recovery:
 ---
 * * *
 
-![Round 3 Feature Match: Ken Krouner vs. Jeff Cunningham](http://www.wizards.com/sideboard/images/ptno03/967.jpg "Round 3 Feature Match: Ken Krouner vs. Jeff Cunningham")Each round in the feature match area the competitors were greeted with tiny candy pumpkins courtesy of Mark Rosewater. Jeff and Ken quietly ate theirs and settled in to listen to the antics of the others around them. By others I am of course referring to Osyp Lebedowicz and Antonino DeRosa. 
+![Round 3 Feature Match: Ken Krouner vs. Jeff Cunningham](http://www.wizards.com/sideboard/images/ptno03/967.jpg "Round 3 Feature Match: Ken Krouner vs. Jeff Cunningham")
+
+Each round in the feature match area the competitors were greeted with tiny candy pumpkins courtesy of Mark Rosewater. Jeff and Ken quietly ate theirs and settled in to listen to the antics of the others around them. By others I am of course referring to Osyp Lebedowicz and Antonino DeRosa. 
 
 Osyp: "Are the judges required to continually replace them?"
 
@@ -337,7 +339,9 @@ When he quietly contemplated his next set of cards Jeff suggested shipping it ba
 
 "That is not a question. The question is will these six cards kill me?"
 
-![Ken Krouner in Olde Tyme Styles](http://www.wizards.com/sideboard/images/ptno03/968.jpg "Ken Krouner in Olde Tyme Styles")Ken ultimately decided to keep his six and Jeff was content with his seven cards. Ken opened with a Rishadan Port but had no second land. Jeff cycled a Lonely Sandbar is if to taunt Ken with his abundance of lands and made a Psychatog on turn two courtesy of Chrome Mox.
+![Ken Krouner in Olde Tyme Styles](http://www.wizards.com/sideboard/images/ptno03/968.jpg "Ken Krouner in Olde Tyme Styles")
+
+Ken ultimately decided to keep his six and Jeff was content with his seven cards. Ken opened with a Rishadan Port but had no second land. Jeff cycled a Lonely Sandbar is if to taunt Ken with his abundance of lands and made a Psychatog on turn two courtesy of Chrome Mox.
 
 When Ken missed his next land drop he shook his head and looked over at Osyp, "This is going to be a good one." He had to discard on his next turn when he was still missing lands and Jeff cast Fact or Fiction taking a Daze and two lands over a Counterspell and one land. "Can I discard now, please?"
 
@@ -355,7 +359,9 @@ Jeff - 1 Ken - 0
 
 Ken mulliganed again this game but was comfortable keeping his six-card hand. Jeff was only holding one land himself but he did have a Chrome Mox and was on the draw. He kept as well.
 
-![Cunningham. A study in frustration](http://www.wizards.com/sideboard/images/ptno03/966.jpg "Cunningham. A study in frustration")Ken opened with a City of Traitors and a Grim Monolith. Jeff pitched a Tog to his Chrome Mox, which would allow him to cast either Vampiric Tutor or the Counterspell in his hand. Ken showed his rust on the next turn when he played an Island and forgot to tap his City of Traitors before he sacrificed it. Jeff countered the Thran Dynamo that Ken attempted and he drew another land to play on turn two.
+![Cunningham. A study in frustration](http://www.wizards.com/sideboard/images/ptno03/966.jpg "Cunningham. A study in frustration")
+
+Ken opened with a City of Traitors and a Grim Monolith. Jeff pitched a Tog to his Chrome Mox, which would allow him to cast either Vampiric Tutor or the Counterspell in his hand. Ken showed his rust on the next turn when he played an Island and forgot to tap his City of Traitors before he sacrificed it. Jeff countered the Thran Dynamo that Ken attempted and he drew another land to play on turn two.
 
 Ken played another City of Traitors and placed a Tangle Wire on the stack. When Jeff did not react, Ken nudged the card toward Jeff who was not ready to let it resolve, "Thinking..." When he determined that Ken was only holding two cards he let it resolve and Cunning Wished for Shattering Pulse. He Tutored for a Bloodstained Mire on his upkeep and sent the turn back to Ken.
 

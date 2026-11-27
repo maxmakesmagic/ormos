@@ -107,7 +107,9 @@ render_recovery:
   - Woodripper
   occurrences: 96
 ---
-![](https://i.ormos.uk/b3/a0/b3a0e05adb4e92fee05d183bc4e6f239a9887016fd1b3e1dee1e5adddb65befc.jpg)"Of course Rob's baby is cute, look at this guy!" - William Jensen
+![](https://i.ormos.uk/b3/a0/b3a0e05adb4e92fee05d183bc4e6f239a9887016fd1b3e1dee1e5adddb65befc.jpg)
+
+"Of course Rob's baby is cute, look at this guy!" - William Jensen
 
 "I can't believe I'm being called a baby face opposite William Jensen!" - Rob Dougherty
 
@@ -117,7 +119,9 @@ The fourth round is when the stars come out, and this event is no different. Wil
 
 After arguing the appearance of everyone at the table they rolled to see who would go first. It was Dougherty. He opened with a swamp, giving the first move to Jensen. Jensen's play was a big one: Mountain, Mox Diamond. Hermit Druid, setting up the kill the following turn. Dougherty was prepared. Having slow-rolled the Duress, he struck this turn. He saw a hand of Reanimate, Exhume and land. He took reanimate and sat on his Entomb. Jensen drew, tipped over his library with the Hermit, then sacrificed it to flash back Cabal Therapy, forcing out Dougherty's Entomb for Faceless Butcher.
 
-![](https://i.ormos.uk/39/1d/391dd78364cd6459eea6d64ae597ac0a3f67a1c9c6cbe78b856255a7b94632f1.jpg)Now he held back. Dougherty had nothing to add to the table. Jensen brought back two Reanimates with Krosan Reclamation. The first brought back Petradon, insurance against Diabolic Edict, and the second brought forth the Sutured Ghoul for the kill.
+![](https://i.ormos.uk/39/1d/391dd78364cd6459eea6d64ae597ac0a3f67a1c9c6cbe78b856255a7b94632f1.jpg)
+
+Now he held back. Dougherty had nothing to add to the table. Jensen brought back two Reanimates with Krosan Reclamation. The first brought back Petradon, insurance against Diabolic Edict, and the second brought forth the Sutured Ghoul for the kill.
 
 Jensen 1 - Dougherty 0
 
@@ -131,7 +135,9 @@ Jensen 1 - Dougherty 1
 
 Jensen opened the deciding game with Llanowar Wastes. Dougherty's Cabal Therapy on Hermit Druid hit, but Jensen just set himself up an Entomb with Vampiric Tutor, and spent his next turn putting Verdant Force into play. Dougherty put out City of Traitors and passed it back. Jensen brought him to twelve.
 
-![](https://i.ormos.uk/3f/c5/3fc56d1790adf8fde087fc5c6d0c5ee710a1a390b9e565afd0b762c92eb642d2.jpg)But Dougherty had an Entomb of his own, getting Faceless Butcher into his yard. He untapped and started thinking. He forgot to stop, though, and wound up with a warning for slow play. Eventually he found the line he was looking for. He Cabal Therapied Jensen's Gilded Drake, then played a swamp and Reanimated it, losing his City of Traitors in the process. He was at a comfortable ten life. Jensen swung in with all but one Saproling and brought him to six, but Dougherty had the hammer in hand: Engineered Plague on Saprolings to make passage for his Verdant Force and bring Jensen to one. Jensen held back on his Drake, and chumped. Stronghold Taskmaster made sure he had no outs. He checked with Entomb, and then scooped.
+![](https://i.ormos.uk/3f/c5/3fc56d1790adf8fde087fc5c6d0c5ee710a1a390b9e565afd0b762c92eb642d2.jpg)
+
+But Dougherty had an Entomb of his own, getting Faceless Butcher into his yard. He untapped and started thinking. He forgot to stop, though, and wound up with a warning for slow play. Eventually he found the line he was looking for. He Cabal Therapied Jensen's Gilded Drake, then played a swamp and Reanimated it, losing his City of Traitors in the process. He was at a comfortable ten life. Jensen swung in with all but one Saproling and brought him to six, but Dougherty had the hammer in hand: Engineered Plague on Saprolings to make passage for his Verdant Force and bring Jensen to one. Jensen held back on his Drake, and chumped. Stronghold Taskmaster made sure he had no outs. He checked with Entomb, and then scooped.
 
 **Final Result:** Rob Dougherty defeats William Jensen 2-1
 

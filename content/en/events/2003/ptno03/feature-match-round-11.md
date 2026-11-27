@@ -279,7 +279,9 @@ render_recovery:
 ---
 * * *
 
-![Feature Match: Osamu Fujita vs. Kai Budde](http://www.wizards.com/sideboard/images/ptno03/891.jpg "Feature Match: Osamu Fujita vs. Kai Budde")Kai Budde needs no introduction. He's largely considered to be the best Magic player of all time and he has the finishes and money winnings to back it up. Osamu Fujita isn't quite as well known, but he's running one of the most talked about decks of the tournament: Mind's Desire powered by Twiddle. Kai is running the German version of Tinker.
+![Feature Match: Osamu Fujita vs. Kai Budde](http://www.wizards.com/sideboard/images/ptno03/891.jpg "Feature Match: Osamu Fujita vs. Kai Budde")
+
+Kai Budde needs no introduction. He's largely considered to be the best Magic player of all time and he has the finishes and money winnings to back it up. Osamu Fujita isn't quite as well known, but he's running one of the most talked about decks of the tournament: Mind's Desire powered by Twiddle. Kai is running the German version of Tinker.
 
 Kai didn't seem to feel confident about his chances against this Japanese concoction. "This doesn't look good for me. I feel like I'm getting goldfished."
 
@@ -289,7 +291,9 @@ Good luck was exchanged, and the players began.
 
 Osamu drew a hand with Seat of the Synod, Meditate, Gilded Lotus, Tinker, Dream's Grip, Mystical Tutor, Tendrils of Agony and lapsed deep into thought. In the end, he had to send it back for a new six: Sarpazzan Skerry, Chrome Mox, Gilded Lotus, Twiddle, Dream's Grip, and Mind's Desire. He kept. Kai also mulliganed, and also liked his next six.
 
-![Osamu Fujita is up to something sneaky](http://www.wizards.com/sideboard/images/ptno03/894.jpg "Osamu Fujita is up to something sneaky")Osamu led with the Skerry and passed the turn. Kai had City of Traitors, Grim Monolith, Metalworker, which is certainly one of the better Tinker starts. Osamu still hadn't drawn a second land and had to pass the turn back. On his turn Kai tapped his City, played an Island, tapped that and Tinkered away Grim Monolith for a quick Clockwork Dragon. He then used his Metalworker to power out a Thran Dynamo.
+![Osamu Fujita is up to something sneaky](http://www.wizards.com/sideboard/images/ptno03/894.jpg "Osamu Fujita is up to something sneaky")
+
+Osamu led with the Skerry and passed the turn. Kai had City of Traitors, Grim Monolith, Metalworker, which is certainly one of the better Tinker starts. Osamu still hadn't drawn a second land and had to pass the turn back. On his turn Kai tapped his City, played an Island, tapped that and Tinkered away Grim Monolith for a quick Clockwork Dragon. He then used his Metalworker to power out a Thran Dynamo.
 
 On his third turn Osamu played Chrome Mox, imprinted Twiddle, and placed down the City of Traitors he had just drawn to power out a Gilded Lotus. The Lotus was tapped for blue mana three times (aided by two Dream's Grips), leading into a Mind's Desire for five floating one blue mana. It turned up the following cards: Ancient Tomb, Sarpazzan Skerry, Chrome Mox, Meditate, Diminishing Returns. The last one was cast first, so Osamu removed ten cards (including all three of his remaining Mind's Desires) and they shuffled up then drew new hands of seven.
 
@@ -315,7 +319,9 @@ Kai Budde 1 - Osamu Fujita 1
 
 ### Game 3
 
-![Winning is SUCH a chore](http://www.wizards.com/sideboard/images/ptno03/892.jpg "Winning is SUCH a chore")This time, though, Tinker was playing first. Kai kept his hand, which included a very important Annul, while Osamu kept a hand of Sarpazzan Skerry, City of Traitors, two Twiddles, two Mind's Desires, and Grim Monolith.
+![Winning is SUCH a chore](http://www.wizards.com/sideboard/images/ptno03/892.jpg "Winning is SUCH a chore")
+
+This time, though, Tinker was playing first. Kai kept his hand, which included a very important Annul, while Osamu kept a hand of Sarpazzan Skerry, City of Traitors, two Twiddles, two Mind's Desires, and Grim Monolith.
 
 Kai led off with Island, waiting on the Annul sitting in his hand. Osamu played out a Skerry and passed the turn.
 

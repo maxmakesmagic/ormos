@@ -263,7 +263,9 @@ Joel,
 
 I very much want to clarify. I was 100% in the wrong. Barry Reich was the fourth designer of *Invasion*. I simply forgot Barry’s involvement because it didn’t overlap with mine. Let me take a moment to set the record straight and give Barry his due.
 
-![](https://i.ormos.uk/c3/1a/c31a2c60d2b76e12dd4c261b32283f701455c34b3362c2a4a232153b7dec4b80.jpg)Barry Reich is an old friend of Richard Garfield. In fact, Barry has a very important honor in **Magic** history. Barry was the very first person to play **Magic**. When Richard first created the game, he came to Barry to try it out. Anyway, cut to several years later. **Magic** is on the road to being published and all the playtesters know that they have something truly great on their hands. So, in different groups, they approach Richard about designing expansions for the game. (Or to be precise, new versions. One of Richard’s original ideas was that **Magic** would simply change each year into a new game.)
+![](https://i.ormos.uk/c3/1a/c31a2c60d2b76e12dd4c261b32283f701455c34b3362c2a4a232153b7dec4b80.jpg)
+
+Barry Reich is an old friend of Richard Garfield. In fact, Barry has a very important honor in **Magic** history. Barry was the very first person to play **Magic**. When Richard first created the game, he came to Barry to try it out. Anyway, cut to several years later. **Magic** is on the road to being published and all the playtesters know that they have something truly great on their hands. So, in different groups, they approach Richard about designing expansions for the game. (Or to be precise, new versions. One of Richard’s original ideas was that **Magic** would simply change each year into a new game.)
 
 One group of playtesters designed a set codenamed *Menagerie*. That set would later be released as *Mirage* and *Visions*. Another group designed a set codenamed *Ice Age*. That set would later… well, you know. The last set was designed by Barry and it was called *Spectral Chaos*. Barry’s major theme – multi-color play.
 

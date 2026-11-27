@@ -151,7 +151,9 @@ So the Two-Headed thing hasn't happened.
 
 But my suspicions are good. Since these guys like building decks, and they defaulted to Two-Headed Giant for our first game, it may well be that I will *have some strategy for you*. Stay tuned.
 
-[![Formation](https://i.ormos.uk/6e/b2/6eb2d86cd38ce0a524b38963c2708557ac3353d018f30b2a88b3284e9ba31ca5.jpg)](https://web.archive.org/web/20070522000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Formation)But speaking of reader write-ins, today's column[\*\*\*\*\*](#footnote5) is about another topic I get constant emails about—and it's not about the cards, but your players. Namely:
+[![Formation](https://i.ormos.uk/6e/b2/6eb2d86cd38ce0a524b38963c2708557ac3353d018f30b2a88b3284e9ba31ca5.jpg)](https://web.archive.org/web/20070522000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Formation)
+
+But speaking of reader write-ins, today's column[\*\*\*\*\*](#footnote5) is about another topic I get constant emails about—and it's not about the cards, but your players. Namely:
 
 > *How do you form a group where people want to play **Magic**?*
 
@@ -318,7 +320,9 @@ You have to do your best to accommodate them. Talk to them and tell them that he
 
 If that doesn't bring them around, it may be time to say goodbye.
 
-[![Witch_Hunter](https://i.ormos.uk/36/73/36734068c23ec5c607607496902d9988aac6f389f5aae6f0c3e78a8d65a7c6af.jpg)](https://web.archive.org/web/20070522000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Witch%2BHunter)I'm not saying to witch hunt, but there will be times when someone says, "I'm not having fun here" and your only legitimate response is, "Well, I'm sorry, but I don't think we can change enough to make it fun for them." Wish them well, clap them on the back, but let them go.
+[![Witch_Hunter](https://i.ormos.uk/36/73/36734068c23ec5c607607496902d9988aac6f389f5aae6f0c3e78a8d65a7c6af.jpg)](https://web.archive.org/web/20070522000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Witch%2BHunter)
+
+I'm not saying to witch hunt, but there will be times when someone says, "I'm not having fun here" and your only legitimate response is, "Well, I'm sorry, but I don't think we can change enough to make it fun for them." Wish them well, clap them on the back, but let them go.
 
 Anthony, in fact, wrote [an excellent article on dealing with troublesome players](/en/articles/seriousfun/2005/12-27-multiplayer-monsters). I can only refer you to it again, because he says it better than I can.
 

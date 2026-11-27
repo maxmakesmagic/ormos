@@ -648,7 +648,9 @@ render_recovery:
 ---
 ### Ben Stark vs. Anton Jonsson
 
-![](http://www.wizards.com/sideboard/images/gphk04/r11fm1_1.jpg)After countless feature match photos where Ben Stark appeared stoic he attempted to change up his image this round, "I tried to think of something funny so I would smile in the picture."
+![](http://www.wizards.com/sideboard/images/gphk04/r11fm1_1.jpg)
+
+After countless feature match photos where Ben Stark appeared stoic he attempted to change up his image this round, "I tried to think of something funny so I would smile in the picture."
 
 Anton laughed and suggested "You should think of Gabe Walls."
 

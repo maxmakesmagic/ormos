@@ -84,7 +84,9 @@ render_recovery:
 ---
 When Zvi’s draft concluded, Seth Burn and I were left shaking our heads, thinking that the draft went horribly awry for the Pro Tour Champion. Zvi—as he usually does—had another opinion. “I got what I came for!”
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a902.jpg)Zvi’s first pick of the draft came down to a decision between two cards; Blistering Firecat or Infest. After making sure there were no other reasonable considerations, Zvi took the Firecat. Unfortunately for Zvi, Matthew Cory had just taken Shock and passed Zvi a Lavamancer's Skills. I say unfortunate because Zvi took this a signal that Matthew would not go U/R after passing the staple card of that archetype. 
+![](https://www.wizards.com/sideboard/images/gpbos03/a902.jpg)
+
+Zvi’s first pick of the draft came down to a decision between two cards; Blistering Firecat or Infest. After making sure there were no other reasonable considerations, Zvi took the Firecat. Unfortunately for Zvi, Matthew Cory had just taken Shock and passed Zvi a Lavamancer's Skills. I say unfortunate because Zvi took this a signal that Matthew would not go U/R after passing the staple card of that archetype. 
 
 But Zvi was keeping his options open and took a third pick Catapult Squad. His plan was to straddle two color combinations until he had enough information to commit to the right deck. Matthew was considering B/R and took a third pick Grinning Demon to go with his Shock and Pinpoint Avalanche. Each player took a Slateback with their next pick and a fifth pick Choking Tethers had Zvi drifting back toward U/R. Unbeknownst to him; Matthew took an Ascending Aven with his fifth selection. Zvi waffled between white cards and blue cards for the rest of the first pack but every time he took a blue card it meant Matthew had taken a red card OR a better blue one. 
 

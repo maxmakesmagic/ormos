@@ -89,7 +89,9 @@ So anyway, Ron (the artist who created Akroma) and I entered “Muffins” and b
 
 **MC**: Thanks for joining me, Ron. How about starting off with a little background info on Ron “Iron Leg” Spears?
 
-![](https://i.ormos.uk/6c/a6/6ca6937df1e2f6849e802bbe96b2637a4f1f212a0486141104ccbaf99c6c9c0d.jpg)**RS**: My wonderful wife, Karen and I recently relocated to Reno, Nevada from the Washington D.C. area. I'm originally from Bothell, Washington, where I met Karen in High School. She’s the brains of the operation and we’ve been married for 22 great years. We have 2 Beagles, a Camry, a Chevy S-10 and a G5.
+![](https://i.ormos.uk/6c/a6/6ca6937df1e2f6849e802bbe96b2637a4f1f212a0486141104ccbaf99c6c9c0d.jpg)
+
+**RS**: My wonderful wife, Karen and I recently relocated to Reno, Nevada from the Washington D.C. area. I'm originally from Bothell, Washington, where I met Karen in High School. She’s the brains of the operation and we’ve been married for 22 great years. We have 2 Beagles, a Camry, a Chevy S-10 and a G5.
 
 MC: Before we get to jump into the artsy-fartsy jabber about your artwork, let’s address some of the questions that the peeps have on their minds: What inspired you to become an artist?
 
@@ -109,7 +111,9 @@ Today I'm independent and doing work I enjoy.
 
 **MC**: Where else might we see your artistic handiwork?
 
-![](https://i.ormos.uk/64/7d/647d80f2a0e0cb95507e56476fb0dfedaa212c64262efe330564ed02f13bf573.jpg)**RS**: I had the pleasure of working with actor Jason Alexander (That’s Seinfeld’s “George Costanza, people!) on his children’s book “Dad, Are You The Tooth Fairy?” I did about 30 paintings for it. You can find it on the shelves in just about any bookstore. I had a fun time doing some **D&D** spots not too long ago and there are a few video games with my hand in them. 
+![](https://i.ormos.uk/64/7d/647d80f2a0e0cb95507e56476fb0dfedaa212c64262efe330564ed02f13bf573.jpg)
+
+**RS**: I had the pleasure of working with actor Jason Alexander (That’s Seinfeld’s “George Costanza, people!) on his children’s book “Dad, Are You The Tooth Fairy?” I did about 30 paintings for it. You can find it on the shelves in just about any bookstore. I had a fun time doing some **D&D** spots not too long ago and there are a few video games with my hand in them. 
 
 In addition to the fantasy work, I also do a lot of illustrations for Kid’s Discover Magazine, corporate publications and several projects that aren’t out yet. If you were in the D.C area around Halloween, you would see the murals I painted for the neighborhood kids. I documented the murals everyday on my website ( [www.ronspears.com](http://www.ronspears.com/) ) if you want to see how they developed. I also do a lot of personal work that nobody but the dogs see. 
 
@@ -139,7 +143,9 @@ As for the cards, I really didn’t assign myself cards, rather I was sort of a 
 
 **MC**: Switching gears a bit from totem poles - do you know how to play **Magic**?
 
-![](https://i.ormos.uk/b8/77/b8772af4f6f2f106475d47f22fa7d86d62b4ef61ae71567b8cec458d49f3b38c.jpg)**RS**: While at Wizards I learned the game and played when I could so I could understand how the universe worked. Today, my time is so limited I’m not able to play **Magic**, or golf, ski, bicycle, swim, or just about anything else it seems. I feel it’s important to know the game, however my focus is on the art these days rather than the play.
+![](https://i.ormos.uk/b8/77/b8772af4f6f2f106475d47f22fa7d86d62b4ef61ae71567b8cec458d49f3b38c.jpg)
+
+**RS**: While at Wizards I learned the game and played when I could so I could understand how the universe worked. Today, my time is so limited I’m not able to play **Magic**, or golf, ski, bicycle, swim, or just about anything else it seems. I feel it’s important to know the game, however my focus is on the art these days rather than the play.
 
 **MC**: What was your very first **Magic** illustration?
 

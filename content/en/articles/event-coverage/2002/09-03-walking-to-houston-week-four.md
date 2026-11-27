@@ -1045,7 +1045,9 @@ I had spent a considerable amount of time during the days building up to the tou
 
 We had more than enough time to finish his deck and my sideboard in the car after traffic on the Jersey Turnpike slowed to a crawl. We spent an hour inching along only to find out that an accident on the OTHER SIDE of a DIVIDED HIGHWAY was the culprit. Fortunately, we were able to make excellent time once we passed it and made it to the site in plenty of time. 
 
-![](https://i.ormos.uk/64/3b/643b70ac4b319fbc3ab52f0c7954b2a2d4df3cf9957f2729573f9b1aadac84cf.jpg)The Holiday Inn in King of Prussia, PA is probably the best site in the Gray Matter arsenal. It is a vast atrium with more than enough room to accommodate well over 200 players. In fact, the size of the room disguised the fact that there were 190 people signed up for the event. We all suspected half that number looking around the room. Most of the usual suspects were there except for the Young and the Restless. 
+![](https://i.ormos.uk/64/3b/643b70ac4b319fbc3ab52f0c7954b2a2d4df3cf9957f2729573f9b1aadac84cf.jpg)
+
+The Holiday Inn in King of Prussia, PA is probably the best site in the Gray Matter arsenal. It is a vast atrium with more than enough room to accommodate well over 200 players. In fact, the size of the room disguised the fact that there were 190 people signed up for the event. We all suspected half that number looking around the room. Most of the usual suspects were there except for the Young and the Restless. 
 
 Tim McKenna came over and asked if I had a deck he could borrow. I offered the Confinement deck and he accepted. When we discussed sideboard, he opted to build the same one Berkowitz used to win during week two. With Tim was Karl Schmidt, who was in town for a wedding. He borrowed a few cards from my box in order to complete his Zombie Infestation/Upheaval deck. I had played a similar deck at States in Standard only to be knocked out of contention for the Top 8 by Jon Sonne during the later rounds. I was intrigued to see how Karl would do today.
 
@@ -1376,7 +1378,9 @@ Dennis - 0 Matt - 2
 
 ### Finals Match Coverage: Matt Maderic (u-b Braids) vs. Douglas Conway (monoblack)
 
-![](https://i.ormos.uk/a4/11/a41188a7c965dbe3aaf8f08dba58ec503763bf74f7f81137e3871c7fea56cf15.jpg)This match was unusual in that there was no prize split. Both players rolled up their sleeves and began the match for an invitation to Pro Tour-Houston, $250, and booster packs, with the loser walking away with only booster packs.
+![](https://i.ormos.uk/a4/11/a41188a7c965dbe3aaf8f08dba58ec503763bf74f7f81137e3871c7fea56cf15.jpg)
+
+This match was unusual in that there was no prize split. Both players rolled up their sleeves and began the match for an invitation to Pro Tour-Houston, $250, and booster packs, with the loser walking away with only booster packs.
 
 **Game One**
 

@@ -199,7 +199,9 @@ So that was that—all ten pain lands were slated to come back in *Ravnica*. “
 
 The creative team kindly reminded us that Control would not be set in Dominaria, and our attachment to pain lands was not reason enough to change that. So there went option #1: **Change the setting of the block to accommodate the pain lands**.
 
-![](https://i.ormos.uk/dc/ee/dceec4b90b77ca459c3ea8bc83b278f754019c31de28ffe8da0fa6a716045cd6.jpg)We then discussed option #2: **Rename some of the pain lands**. The pain lands should be jealous of the *Onslaught* fetch lands—the latter are very powerful, playable, and have names that will allow them to come back someday in just about any setting we desire—after all, what world can't accommodate a place named “Polluted Delta” or “Wooded Foothills”? This was a conscious decision by the *Onslaught* naming team, and a good one at that. The pain lands have no such luxury. Let's assume we wanted to reprint all the pain lands that had names that were “setting-neutral”:
+![](https://i.ormos.uk/dc/ee/dceec4b90b77ca459c3ea8bc83b278f754019c31de28ffe8da0fa6a716045cd6.jpg)
+
+We then discussed option #2: **Rename some of the pain lands**. The pain lands should be jealous of the *Onslaught* fetch lands—the latter are very powerful, playable, and have names that will allow them to come back someday in just about any setting we desire—after all, what world can't accommodate a place named “Polluted Delta” or “Wooded Foothills”? This was a conscious decision by the *Onslaught* naming team, and a good one at that. The pain lands have no such luxury. Let's assume we wanted to reprint all the pain lands that had names that were “setting-neutral”:
 
 Pain lands that could theoretically go in *Ravnica*: 
 
@@ -227,7 +229,9 @@ But Randy Buehler, the Director of **Magic** R&D, and Brian Schneider, the game'
 
 So they suggested option #4: **Put them in the upcoming *Ninth Edition Core Set***.
 
-![](https://i.ormos.uk/a5/2a/a52af2287e8c21a2cfcf8e934af8e7571ed3b96f0c23c9e19d37c5fc2290aa95.jpg)Our more regular readers may remember all the stuff we said when we took the pain lands *out* last time around. “We want uncommon dual lands so that more people can have them.” “We think the *Invasion* ones are cleaner.” And the oldie-but-goodie “We don't do enemy color stuff in Core Sets because we want to teach the color relationships to new players.”
+![](https://i.ormos.uk/a5/2a/a52af2287e8c21a2cfcf8e934af8e7571ed3b96f0c23c9e19d37c5fc2290aa95.jpg)
+
+Our more regular readers may remember all the stuff we said when we took the pain lands *out* last time around. “We want uncommon dual lands so that more people can have them.” “We think the *Invasion* ones are cleaner.” And the oldie-but-goodie “We don't do enemy color stuff in Core Sets because we want to teach the color relationships to new players.”
 
 Eh, so we changed our minds. We do that a lot. I know Mark Rosewater and I both like to write about all these little rules and guidelines that R&D makes for ourselves and how those rules guide our philosophies and decisions. Well, I'll let you in on a little secret: those rules and guidelines tend to apply fully the day they were created, a little less the next day, then a little less, and so on, until we've changed our minds completely.
 

@@ -61,4 +61,6 @@ archive_source:
   sha256: 7d36c2553b56fd795271a2432513e100a41cd0cfd58377108c3aece1a830f0ba
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/magic/expert/dark/images/Logo_Dark.jpg)I still contend that this expansion has a bad name. Last time I said this I got quite a bit of e-mail. [Why](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr110-why)? I'm not sure.
+![](https://media.magic.wizards.com/image_legacy_migration/magic/expert/dark/images/Logo_Dark.jpg)
+
+I still contend that this expansion has a bad name. Last time I said this I got quite a bit of e-mail. [Why](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr110-why)? I'm not sure.

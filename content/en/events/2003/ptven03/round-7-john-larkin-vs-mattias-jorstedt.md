@@ -74,7 +74,9 @@ render_recovery:
   - Rorix Bladewing
   occurrences: 26
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a899.jpg)Both Mattias Jorstedt and John Larkin made the Top 8 at the last Constructed Pro Tour, and are both doing well here; each is 5-1. Larkin is running the same three-color Biorhythm deck that Kai Budde and Gary Wise are running, and Jorstedt is playing a Goblin deck with Thoughtbound Primoc.
+![](http://www.wizards.com/sideboard/images/ptven03/a899.jpg)
+
+Both Mattias Jorstedt and John Larkin made the Top 8 at the last Constructed Pro Tour, and are both doing well here; each is 5-1. Larkin is running the same three-color Biorhythm deck that Kai Budde and Gary Wise are running, and Jorstedt is playing a Goblin deck with Thoughtbound Primoc.
 
 Larkin had to mulligan a hand with multiple Biorhythms in Game 1. "Who wants to draw 8-casting-cost f\*\*\*in' sorceries against a Sligh deck?"
 
@@ -84,7 +86,9 @@ Mattias busted out of the gates with a Goblin Sledder and a Goblin Grappler. Lar
 
 Mattias would not overcommit. His three creatures brought Larkin to 10 and Larkin was forced to Slice and Dice. The Sledder allowed the Primoc to survive, and Mattias added a second to the table. Two Shocks from Larkin killed one of the 2/3's, but Mattias replaced it with a Gempalm Incinerator. Larkin countered with Silvos, Rogue Elemental, but Mattias had two Shocks of his own to take game 1.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a898.jpg)Larkin said afterwards that he made the wrong play with the Slice and Dice. He had Shock, so he could have dealt with the Sledder first, taken three more damage, and then Slice and Diced on his next turn. "I had already mentally lost the game at that point," he said.
+![](http://www.wizards.com/sideboard/images/ptven03/a898.jpg)
+
+Larkin said afterwards that he made the wrong play with the Slice and Dice. He had Shock, so he could have dealt with the Sledder first, taken three more damage, and then Slice and Diced on his next turn. "I had already mentally lost the game at that point," he said.
 
 Jorstedt 1 – Larkin 0
 
@@ -98,7 +102,9 @@ Larkin: "That's a large man."
 
 Larkin held the answer to the Goon however, and dropped it onto the board—Broodhatch Nantuko. Now if the Goon attacked, Larkin's side of the board would be loaded with 1/1 Insects, keeping the Goon permanently at home. Jorstedt was unfazed; he simply cycled a Gempalm Incinerator, and then Shocked the resulting token. The Goon plowed on.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a900.jpg)Larkin had another Broodhatch, but Mattias was careful not to attack into it with his Goon, instead opting to trade it with his Sledder. Mattias added a Thoughtbound Primoc to his team, but again Larkin had two Shocks for it.
+![](http://www.wizards.com/sideboard/images/ptven03/a900.jpg)
+
+Larkin had another Broodhatch, but Mattias was careful not to attack into it with his Goon, instead opting to trade it with his Sledder. Mattias added a Thoughtbound Primoc to his team, but again Larkin had two Shocks for it.
 
 Larkin finally drew the land he needed to Startstorm away the Goon, but—surprise, surprise—Jorstedt had another in his hand. Larkin played his third Broodhatch, but Jorstedt's deck was kind to him. He ripped land #6, allowing Rorix Bladewing to enter play and finish Larkin off.
 

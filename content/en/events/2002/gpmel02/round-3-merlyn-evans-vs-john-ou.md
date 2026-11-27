@@ -53,7 +53,9 @@ archive_source:
   sha256: c874f999cae822b99015667be3431fea4ccc6660ee6cf670d3b522c39087f4d8
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpmel02/a951.jpg)After a long absence from Magic John Ou decided that the perfect time to make his return would be his hometown GP. Ou has always been a consistent performer in Australian Magic with his one major victory being the Adelaide invitational a few years ago. Merlyn Evans is also another of Australia's most consistent magic players always appearing at the top of the standings and venturing to many of the overseas Pro Tours.
+![](http://www.wizards.com/sideboard/images/gpmel02/a951.jpg)
+
+After a long absence from Magic John Ou decided that the perfect time to make his return would be his hometown GP. Ou has always been a consistent performer in Australian Magic with his one major victory being the Adelaide invitational a few years ago. Merlyn Evans is also another of Australia's most consistent magic players always appearing at the top of the standings and venturing to many of the overseas Pro Tours.
 
 ### Game 1
 
@@ -69,7 +71,9 @@ Ou Leads 1-0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a950.jpg)With only 20 minutes left on the clock Evans knew that he would have to get his deck into top gear as fast as he could or he risked being timed out. Just like the first game the two dropped third turn morphs however Evans refused to trade and took four damage as Ou morphed up a Thrashing Mudspawn. The reason behind the move was clear on turn 4 when he attacked and morphed up an Exalted Angel. 
+![](http://www.wizards.com/sideboard/images/gpmel02/a950.jpg)
+
+With only 20 minutes left on the clock Evans knew that he would have to get his deck into top gear as fast as he could or he risked being timed out. Just like the first game the two dropped third turn morphs however Evans refused to trade and took four damage as Ou morphed up a Thrashing Mudspawn. The reason behind the move was clear on turn 4 when he attacked and morphed up an Exalted Angel. 
 
 Ou might have looked concerned but it was only for a second as he dropped pacifism onto the Angel and sent his Mudspwan into the redzone for another 4 damage. Evans returned the favor by pacifying the Mudspawn and dropping a Mistform Dreamer. On his next turn Ou had no play and watched as a Mistform Shrieker joined Evans team, shortening his clock to a mere 2 turns.
 
@@ -79,7 +83,9 @@ Tied 1-1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a952.jpg)The clock ticked over to 5:30 as the two players presented their decks and prepared for the third and final game. After seeing the speed of Ous deck in the first two games it appeared that he would have a severe disadvantage in this game as the flyers of Evans could easily and quickly tick away at the life of Ou. 
+![](http://www.wizards.com/sideboard/images/gpmel02/a952.jpg)
+
+The clock ticked over to 5:30 as the two players presented their decks and prepared for the third and final game. After seeing the speed of Ous deck in the first two games it appeared that he would have a severe disadvantage in this game as the flyers of Evans could easily and quickly tick away at the life of Ou. 
 
 Evans soon negated that advantage however when he was forced to mulligan his opening hand after accidentally drawing 8 cards. The two players played at an extremely fast pace agreeing that they'd rather see one player win than be forced to take a draw from the match. 
 

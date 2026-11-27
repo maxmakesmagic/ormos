@@ -94,7 +94,9 @@ render_recovery:
   - Scrivener
   occurrences: 130
 ---
-![](https://i.ormos.uk/34/52/345213c0ea795b71d0749e50e6c07fa25333aa63c276d82f23493bcbebc7e46b.jpg)Svend Geertsen finally broke his 9-0 curse. Time and time again he has blasted out of the gates at a Pro Tour only to fall in the last rounds. This time he held on and made the Top 8, becoming one of only a handful of players who have had two Top 8 finishes with five or more years between them (his first was in Worlds 1997 and this one is his fourth).
+![](https://i.ormos.uk/34/52/345213c0ea795b71d0749e50e6c07fa25333aa63c276d82f23493bcbebc7e46b.jpg)
+
+Svend Geertsen finally broke his 9-0 curse. Time and time again he has blasted out of the gates at a Pro Tour only to fall in the last rounds. This time he held on and made the Top 8, becoming one of only a handful of players who have had two Top 8 finishes with five or more years between them (his first was in Worlds 1997 and this one is his fourth).
 
 Across the table Benjamin Niedrig is probably fighting back the jitters. In his first Pro Tour ever he reached this Top 8. Now far can he carried his Cinderella story?
 
@@ -126,7 +128,9 @@ In came the Wurm and Svend Peeked hoping to draw another land. He had the Champi
 
 Again the Danish sent the Swarm and Imp. The Torturer jumped in front of the Swarm to minimize the damage and Geertsen played Organ Grinder. Knowing he would probably have to win the damage race fast Geertsen decided not to remove any extra cards to the Gravestorm.
 
-![](https://i.ormos.uk/cc/c5/ccc56fda95938feb04bbf920ac119d414f68fb1bc064368d95f4e76693e2cec9.jpg)This would power up his Grinder and hopefully get Niedrig within the Champion's six point range. On the other hand it would give Niedrig an extra card each turn. It was a tough gambit but probably the best available plan for the Danish.
+![](https://i.ormos.uk/cc/c5/ccc56fda95938feb04bbf920ac119d414f68fb1bc064368d95f4e76693e2cec9.jpg)
+
+This would power up his Grinder and hopefully get Niedrig within the Champion's six point range. On the other hand it would give Niedrig an extra card each turn. It was a tough gambit but probably the best available plan for the Danish.
 
 After a very long deliberation Benjamin decided to let the Collaborator and the Wurm played defense instead of attacking and Mutilating the table away. Svend Geertsen leaned forward studying the table with great care.
 
@@ -171,7 +175,9 @@ Svend: "I'm SO glad I didn't win this game. I've been up 2-0 in quarterfinals tw
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a709.jpg)Before sideboarding for the third game Geertsen consulted his copious notes hoping to compile his opponent's complete decklist or at least get a very clear picture of what to expect.
+![](http://www.wizards.com/sideboard/images/ptnice02/a709.jpg)
+
+Before sideboarding for the third game Geertsen consulted his copious notes hoping to compile his opponent's complete decklist or at least get a very clear picture of what to expect.
 
 Again Svend Peeked, this time with a "Guess what? Peek", seeing Cabal Torturer, Dreamwinder, Balshan Collaborator and Obsessive Search. He followed that with Cephalid Scout and Fledging Imp before Niedrig dropped his first creature: Cabal Torturer. 
 

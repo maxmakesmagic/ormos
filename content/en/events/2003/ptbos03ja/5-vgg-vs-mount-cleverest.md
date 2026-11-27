@@ -207,7 +207,9 @@ render_recovery:
 
 すぐにその《ゾンビの殺し屋/Zombie Cutthroat》は《長引く死/Lingering Death》で除去されてしまったものの、《黒焦げ牙のクーガー/Chartooth Cougar》と《エイヴンの賢人/Sage Aven》を展開して攻勢に出るJorstedt。まもなくShearsが《毒吐きゴルナ/Spitting Gourna》、《死神頭のノスリ/Death's-Head Buzzard》、《煤羽の群れ/Sootfeather Flock》と戦線を展開してきても、《エイヴンの賢人/Sage Aven》に《溶岩使いの技/Lavamancer's Skill》をまとわせてすぐさま対抗し、《毒吐きゴルナ/Spitting Gourna》を《陽光の突風/Solar Blast》と《死神頭のノスリ/Death's-Head Buzzard》を《溶岩使いの技》で撃ち殺しての-1/-1修正とのあわせ技で除去して見せた。
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a904.jpg)それでもShearsもしばらくして《悪辣な精霊シルヴォス/Silvos, Rogue Elemental》を召喚して逆転を試みたが、2体の《霧衣の夢幻/Mistform Dreamer》をアタッカーとして加えたJorstedtは航空戦力でのビートダウンからの《ショック/Shock》でダメージレースを制し、緒戦を飾ったのだった。
+![](http://www.wizards.com/sideboard/images/ptbos03/a904.jpg)
+
+それでもShearsもしばらくして《悪辣な精霊シルヴォス/Silvos, Rogue Elemental》を召喚して逆転を試みたが、2体の《霧衣の夢幻/Mistform Dreamer》をアタッカーとして加えたJorstedtは航空戦力でのビートダウンからの《ショック/Shock》でダメージレースを制し、緒戦を飾ったのだった。
 
 **Jorstedt-1, Shears-0**
 

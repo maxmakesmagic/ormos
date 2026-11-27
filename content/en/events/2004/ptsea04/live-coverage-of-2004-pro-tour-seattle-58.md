@@ -375,7 +375,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/gphei02/a916.jpg)For the first time since 1998, the Pro Tour has returned to the city of Seattle. Though it's been a while since the Emerald City hosted the tour, it was originally the ultimate destination for Magic competitors, as it was the location of the World Championships from 1995 to 1998. Here's a stroll down memory lane to see what past action has taken place in Seattle.
+![](http://www.wizards.com/sideboard/images/gphei02/a916.jpg)
+
+For the first time since 1998, the Pro Tour has returned to the city of Seattle. Though it's been a while since the Emerald City hosted the tour, it was originally the ultimate destination for Magic competitors, as it was the location of the World Championships from 1995 to 1998. Here's a stroll down memory lane to see what past action has taken place in Seattle.
 
 ### 1995 World Championships
 

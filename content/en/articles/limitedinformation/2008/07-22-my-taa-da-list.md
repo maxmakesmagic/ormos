@@ -410,4 +410,6 @@ Mimic Week is over! Did you guess who wrote this article?
 
 Click here to find out if you're right.
 
-![Kenneth Nagle](https://i.ormos.uk/11/d8/11d83670a730084b46b0b8f1b5bef2b4cebac0f58ab43537bda83b934d839695.jpg "Kenneth Nagle")This article was written by The Week That Was author Brian David-Marshall!
+![Kenneth Nagle](https://i.ormos.uk/11/d8/11d83670a730084b46b0b8f1b5bef2b4cebac0f58ab43537bda83b934d839695.jpg "Kenneth Nagle")
+
+This article was written by The Week That Was author Brian David-Marshall!

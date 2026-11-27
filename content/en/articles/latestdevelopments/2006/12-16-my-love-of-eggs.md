@@ -157,6 +157,8 @@ Those may be all the cycles, but they’re hardly all the little morsels we thre
 
 ### The Big Reveal
 
-[![](http://media.wizards.com/legacy/global/images/mtgcom_daily_af149_pic2_en.jpg)](https://web.archive.org/web/20061216000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/designersearch/home)This coming Monday is the zero-hour for our three remaining [Great Designer Search](https://web.archive.org/web/20061216000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/designersearch/home) contestants. They’ll be arriving here in Renton for some interviews, and then the winner will be announced at an exclusive club soiree at a hot night spot in the shadow of the Space Needle.
+[![](http://media.wizards.com/legacy/global/images/mtgcom_daily_af149_pic2_en.jpg)](https://web.archive.org/web/20061216000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/designersearch/home)
+
+This coming Monday is the zero-hour for our three remaining [Great Designer Search](https://web.archive.org/web/20061216000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/designersearch/home) contestants. They’ll be arriving here in Renton for some interviews, and then the winner will be announced at an exclusive club soiree at a hot night spot in the shadow of the Space Needle.
 
 We’ll have all kinds of goodies from that shindig – pictures, video, the whole nine yards, including the formal announcement of the deserving winner – up on our site on **Friday, December 22**. You’ll want to make sure to check out who will be joining our team after weeks of grueling competition. Plus, you may catch some video of our celebrity DJ for the party – Efren Ramirez, Napoleon Dynamite’s Pedro. Mark your calendars, and check back on the 22nd to put yourself in the middle of the party! I’ll be seeing you again with fresh content in 2007. Happy Holidays!

@@ -44,7 +44,9 @@ archive_source:
   sha256: f425c6ad3e855a78fba5fb4d72d339fe3be444c409d16f9f7d79cc7c36b17947
 render_recovery: []
 ---
-![](http://www.wizards.com/worlds/images/flag_aus.jpg)Justin West defeated Dante Rosati in the finals to become the 2002 Australian National Champion.
+![](http://www.wizards.com/worlds/images/flag_aus.jpg)
+
+Justin West defeated Dante Rosati in the finals to become the 2002 Australian National Champion.
 
   
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: a6697060996b4a7d88af79bfce5fc8c5621a1e9e99f35c72149c2c89321a190a
 render_recovery: []
 ---
-![](https://i.ormos.uk/87/71/8771cf1a153b09bef0796dcf88f22a21750d97d3e82ce1a6c92d35ef589783dd.jpg)The Fat Pack, that chunky little miracle of a **Magic** product, is always chock full of goodies. On top of all the **Magic** cards and storage, the fat pack contains a piece of original art that captures some of the highlights of the set.
+![](https://i.ormos.uk/87/71/8771cf1a153b09bef0796dcf88f22a21750d97d3e82ce1a6c92d35ef589783dd.jpg)
+
+The Fat Pack, that chunky little miracle of a **Magic** product, is always chock full of goodies. On top of all the **Magic** cards and storage, the fat pack contains a piece of original art that captures some of the highlights of the set.
 
 Every Fat Pack since *Ninth Edition* has had a mural that helps you understand some of the themes and mechanics of the set—HA. No, who are we kidding? They're pictures of giant monsters... who (in general) just FIGHT! Today we take a look at a few of these murals.
 

@@ -42,7 +42,9 @@ render_recovery: []
 
 *   [The Card Pool](https://web.archive.org/web/20211202031010/http://archive.wizards.com/eventarticle.asp?event=PTNY0001&name=941sd3decks#draften)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/795.jpg)Team Draften Und Speilen (Drafting and Playing) is (obviously) a German team. Its members are Stephan Valkyser, Christian Luhrs, and Patrick Mello. Christian Luhrs and Patrick Mello are from Munich, whereas Stephen is from Aachen. The team formed in April for the first Pro-Tour New York, and although they have not been able to practice together because of the distance between Munich and Aachen, they decided to keep the team together. Stephen Valkyser won Grand Prix Antwerp, Christian Luhrs made the Top 8 in Chicago last year, and Patrick Mello is famous for his Dojo article. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/795.jpg)
+
+Team Draften Und Speilen (Drafting and Playing) is (obviously) a German team. Its members are Stephan Valkyser, Christian Luhrs, and Patrick Mello. Christian Luhrs and Patrick Mello are from Munich, whereas Stephen is from Aachen. The team formed in April for the first Pro-Tour New York, and although they have not been able to practice together because of the distance between Munich and Aachen, they decided to keep the team together. Stephen Valkyser won Grand Prix Antwerp, Christian Luhrs made the Top 8 in Chicago last year, and Patrick Mello is famous for his Dojo article. 
 
 The team cracked open their packs. The cards were not particularly encouraging; there were almost no bombs, and there was remarkably little removal, even in the colors that are normally known for them, like red and black. Among the highlights: 
 

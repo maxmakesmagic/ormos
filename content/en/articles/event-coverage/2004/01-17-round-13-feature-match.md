@@ -44,7 +44,9 @@ archive_source:
   sha256: 6b142564fde1e8333d096c7db038cf12aa8b5cda7616cc0bf5005a50d5e9c019
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm27_1.jpg)The countdown to Mike Turian's retirement has begun. His fiancee Rachel took a job as a programmer at Wizards and by DCI rule he will no longer be able to play in sanctioned Magic tournaments once they move in together. Now that is love boys and girls!
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm27_1.jpg)
+
+The countdown to Mike Turian's retirement has begun. His fiancee Rachel took a job as a programmer at Wizards and by DCI rule he will no longer be able to play in sanctioned Magic tournaments once they move in together. Now that is love boys and girls!
 
 Many people have speculated that this menat Mike would have to win this Pro Tour. He had a tough road to climb, needing two wins in his final three rounds to even get a shot at winning the whole thing. His foe this round was no slouch.
 

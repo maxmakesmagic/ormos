@@ -51,7 +51,9 @@ Before the game the two players stated that the feature match was between two of
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ausnat03/a981.jpg)Jiang started off with a turn two crypt Sliver, sending it into the red zone and played out a morph creature. Nadebaum played out a Wirewood Savage and passed the turn back. Shun cast a second morph and sent them both into the red zone the turn after flipping up Grinning demon. Another Wirewood Savage on turn 4 helped net Nadebaum him some cards when Crested Craghorn came into play but he decided it was best not to make it attack. The Grinning Demon was double blocked by the Craghorn and a single Savage but Sunfire Balm was cycled which kept the demon alive. 
+![](http://www.wizards.com/sideboard/images/ausnat03/a981.jpg)
+
+Jiang started off with a turn two crypt Sliver, sending it into the red zone and played out a morph creature. Nadebaum played out a Wirewood Savage and passed the turn back. Shun cast a second morph and sent them both into the red zone the turn after flipping up Grinning demon. Another Wirewood Savage on turn 4 helped net Nadebaum him some cards when Crested Craghorn came into play but he decided it was best not to make it attack. The Grinning Demon was double blocked by the Craghorn and a single Savage but Sunfire Balm was cycled which kept the demon alive. 
 
 Nadebaum brought down a Skirk Commando and passed the turn back to Jiang. When Jiang sent in his team Skirk blocked the Demon and was saved from dying with Run Wild, a testimony to just how bad Nadebaums deck was, and Savage blocked a morph. Ward Sliver came into play giving protection from green to all Jiangs slivers. Skirk came back in and dealt two damage to the Grinning Demon, which was then pinpointed. Jiang crashes back with his two slivers and then drops down Swooping Talon. Nadebaum responded by scooping up his cards.
 
@@ -71,7 +73,9 @@ Tied 1-1
 
 Nadebaum starts off game 3 with a Goblin Sledder, which is met by a Crypt Sliver from Jiang. The two then sneak past each other in the red zone, with Jiang’s morph creature Shocked by Nadebaum at the end of the turn. Jiang brings down Vile Deacon and Nadebaum casts a Battering Craghorn. Once again Jiang casts Akroma’s Devoted but it meets the same fate it did in game two as it is provoked and traded with Nadebaums Crested Craghorn.
 
-![](http://www.wizards.com/sideboard/images/ausnat03/a980.jpg)Vile Deacon goes into the red zone and Nadebaum refuses to bite, simply taking the 3 points of damage. Nadebaum has no play on his turn and sends it back to Jiang. Jiang casts a Ward sliver, naming red, and sends his little Crypt Sliver into the red zone. Krosan Tusker is cast and Jiang has no answer with it, stopping him dead in his tracks. Tusker attacks and it is blocked by the Crypt Sliver and then regenerated. Nadebaum then brings down a Fog Beast and passes the turn. 
+![](http://www.wizards.com/sideboard/images/ausnat03/a980.jpg)
+
+Vile Deacon goes into the red zone and Nadebaum refuses to bite, simply taking the 3 points of damage. Nadebaum has no play on his turn and sends it back to Jiang. Jiang casts a Ward sliver, naming red, and sends his little Crypt Sliver into the red zone. Krosan Tusker is cast and Jiang has no answer with it, stopping him dead in his tracks. Tusker attacks and it is blocked by the Crypt Sliver and then regenerated. Nadebaum then brings down a Fog Beast and passes the turn. 
 
 Jiang casts an Essence sliver and the turn after sends it into the red zone. It gets blocked by Nadebam’s Tusker and Jiang uses the Crypt Sliver to regenerate it, gaining him 3 life. Nadebaum casts Needleshot Gourna and the two are into a stand off, with Jiang gaining three life per turn and Chris unable to attack because of the slivers. This stall continues on for several turns with both players drawing nothing but land and Jiang gaining life all the way up to 58 points. When Jiang attacks with all but 1 of his slivers something looks fishy and when the attack is over he casts Harsh Mercy, with Nadebaum naming beasts and Jiang naming clerics. Jiang finally gets a Cabal Archon from his deck and then simply throws cleric after cleric at Nadebaum, dealing the final points of damage with a Misery Charm.
 

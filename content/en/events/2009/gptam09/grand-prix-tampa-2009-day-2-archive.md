@@ -730,7 +730,9 @@ Both players did their coverage staff proud, just some more prouder than others,
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/05/50/055098e243abd5f3a35e296e7b3c2fdfb0828065ee9222664ca069fc78812dd3.jpg)“I drafted Martyr Proc,” laughed Conley Woods after the last Swiss draft of Grand Prix Tampa. He had drafted a Stax-like combo in the first pod around Nissa Revane and World Queller and once again drafted a combo deck around the white rare -- two white rares to be precise. Conley’s deck had a white allies package that consisted of 2 Makindi Shieldmates and 3 Ondu Clerics -- which could add up to a lot of life gain. He also had Felidar Sovereign on top of that to cash in all that life gain for a possible win. And just in case that was not enough he could also set up a life gain cycle where he was playing allies, sacrificing them to his World Queller, and returning them to play with Emeria, the Sky Ruin.
+![](https://i.ormos.uk/05/50/055098e243abd5f3a35e296e7b3c2fdfb0828065ee9222664ca069fc78812dd3.jpg)
+
+“I drafted Martyr Proc,” laughed Conley Woods after the last Swiss draft of Grand Prix Tampa. He had drafted a Stax-like combo in the first pod around Nissa Revane and World Queller and once again drafted a combo deck around the white rare -- two white rares to be precise. Conley’s deck had a white allies package that consisted of 2 Makindi Shieldmates and 3 Ondu Clerics -- which could add up to a lot of life gain. He also had Felidar Sovereign on top of that to cash in all that life gain for a possible win. And just in case that was not enough he could also set up a life gain cycle where he was playing allies, sacrificing them to his World Queller, and returning them to play with Emeria, the Sky Ruin.
 
   
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/244.JPG)A lot of people have probably heard about the Red Deck Wins 2000 deck (RDW) that took the British by surprise in the UK Nationals. But no-one was more surprised than the deck's designer, John Ormerod. "I built the deck in April, played a few games against Replenish and decided that it didn't beat it and that it was no good. So I left it lying in a box. Then Dan Paskins picked it up and played it, and I realized it was good," the Englishman says.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/244.JPG)
+
+A lot of people have probably heard about the Red Deck Wins 2000 deck (RDW) that took the British by surprise in the UK Nationals. But no-one was more surprised than the deck's designer, John Ormerod. "I built the deck in April, played a few games against Replenish and decided that it didn't beat it and that it was no good. So I left it lying in a box. Then Dan Paskins picked it up and played it, and I realized it was good," the Englishman says.
 
 A coincidence made Paskins play the deck. He wasn't happy with any of the others he had available, and started looking through John's deck boxes on search for something aggressive. One of the reasons why the deck was so successful was that no-one expected it. Red was almost non-existent in tournaments at the time of the nationals, and with few sideboard threats, the deck could do what it was best at: killing an opponent really fast. "I realized that there were lots of good burn spells in the format, and lots of small creatures that shot to the head. No-one had a strategy against it at that time," John explains.
 

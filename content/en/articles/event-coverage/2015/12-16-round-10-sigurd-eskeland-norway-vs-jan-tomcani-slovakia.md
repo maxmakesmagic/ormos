@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Alex Shvartsman*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/313.JPG)Pro Tour-New York winner Sigurd Eskeland is doing fairly well in this tournament. He is probably out of mathematical contention for the top 8, but doing well in the last few rounds will certainly give him a top 16 finish. This round he is facing Jan Tomcani from Slovakia. Tomcani is playing a Control Black version very similar to the original designed by Mike Flores. Eskeland is playing a copy of Red Deck Wins 2000 with maindeck Pillages.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/313.JPG)
+
+Pro Tour-New York winner Sigurd Eskeland is doing fairly well in this tournament. He is probably out of mathematical contention for the top 8, but doing well in the last few rounds will certainly give him a top 16 finish. This round he is facing Jan Tomcani from Slovakia. Tomcani is playing a Control Black version very similar to the original designed by Mike Flores. Eskeland is playing a copy of Red Deck Wins 2000 with maindeck Pillages.
 
 Tomcani was forced to mulligan in the first game, and Eskeland certainly had the draw to punish him for it. Eskeland cast Goblin Cadets and Goblin Patrol, which kept attacking until Tomcani got up to four mana in order to cast Massacre. Eskeland played carefully enough and kept another Patrol in his hand, which he cast after the Massacre. 
 

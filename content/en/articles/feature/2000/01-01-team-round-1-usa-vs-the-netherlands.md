@@ -66,7 +66,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/401.jpg)With a lead of 14 match points, the American team had to feel pretty confident going into the team day about their chances of advancing to the finals. With the world's best player Jon Finkel leading the way, with a second place finish in the Swiss, the American had been leading through most of the tournament.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/401.jpg)
+
+With a lead of 14 match points, the American team had to feel pretty confident going into the team day about their chances of advancing to the finals. With the world's best player Jon Finkel leading the way, with a second place finish in the Swiss, the American had been leading through most of the tournament.
 
 Today however is a new day, the most important as far as the teams competition is concerned. While during the Swiss an individual win was worth three points, today each individual match is worth six, making the Americans catchable. The team who started day four with the closest reach was the Netherlands, whose team included top 8 finisher Tom van de Logt.
 

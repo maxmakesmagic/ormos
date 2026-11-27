@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![You'd be smiling too if you were 10-0-1](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoak04/r10fm1_1.jpg)Dan Cahir is a young student from the Settle area who used to tear up the JSS circuit. He was also an intern in the Renton offices at Wizards a few summers ago. While he has qualified for a fair number of Pro Tours he has only recently started attending them. When asked if he was attending PT Kobe the young Washingtonian smiled, "I sold out in the finals of a PTQ."
+![You'd be smiling too if you were 10-0-1](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoak04/r10fm1_1.jpg)
+
+Dan Cahir is a young student from the Settle area who used to tear up the JSS circuit. He was also an intern in the Renton offices at Wizards a few summers ago. While he has qualified for a fair number of Pro Tours he has only recently started attending them. When asked if he was attending PT Kobe the young Washingtonian smiled, "I sold out in the finals of a PTQ."
 
 Mike Turian was homing in on yet another Top 8 appearance as his farewell tour rolled into Oakland. He was undefeated yesterday and his draw with Ben Rubin-of the unintentional variety-left only him and Rubin as the remaining undefeated players with a pair of 9-0-1 records.
 

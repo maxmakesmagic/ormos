@@ -160,7 +160,9 @@ render_recovery:
 
 　先手を取った森は 1 , 2 ターンに《リスのお喋り/Chatter of the Squirrel》を連発し、これに対して《チェイナーの布告/hainer's Edict》をしぶしぶ打つ Boeken 。
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a869.jpg)　森はこの勢いを失う事なく、《取り憑かれたケンタウルス/Possessed Centaur》、《変態するワーム/Metamorphic Wurm》と並べ、リストークンに《シートンの願望/Seton's Desire》をつけて総攻撃を開始。
+![](http://www.wizards.com/sideboard/images/ptnice02/a869.jpg)
+
+　森はこの勢いを失う事なく、《取り憑かれたケンタウルス/Possessed Centaur》、《変態するワーム/Metamorphic Wurm》と並べ、リストークンに《シートンの願望/Seton's Desire》をつけて総攻撃を開始。
 
 　もちろん、森がこの準備を行っている時に Boeken もブロッカーを出しているのだが、サイズ的に間に合わず、これをスルー。  
  　返すターンに《薄汚いネズミ人間/Dirty Wererat》を出し、これでまだ耐える事が出来るかと思った Boeken だが、森は Boeken の場にいる 3 体のクリーチャーを 2 枚の《霊気の噴出/AEther Burst》によって退け、ものの 3 分で森は 1 本目をモノにした。
@@ -178,7 +180,9 @@ Boeken 0 - 1 森
 　再び《薄汚いネズミ人間》をキャストし、大量のマナが立っている森に対して Boeken は攻撃すると、《獣の襲撃/Beast Attack》でブロックされるハメに。  
  　これをなんとか《総帥の願望/Patriarch's Desire》で除去するが、正直、 2 匹目の《獣の襲撃》まで出てくると手におえない Boeken 。
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a870.jpg)　テンポを完全につかんだ森は、そのまま《リスの巣/Squirrel Nest》と《変態するワーム》を並べ、返すターンに《獣の襲撃》をフラッシュバックでキャスト。
+![](http://www.wizards.com/sideboard/images/ptnice02/a870.jpg)
+
+　テンポを完全につかんだ森は、そのまま《リスの巣/Squirrel Nest》と《変態するワーム》を並べ、返すターンに《獣の襲撃》をフラッシュバックでキャスト。
 
 　カウンターやバウンスが無い為に、全く抵抗する事が出来ない Boeken は先程の《薄汚いネズミ人間》と、《セファリッドの賢者/Cephalid Sage》でお茶を濁そうとするが、森は 2 ターン程ターンを開け、一気に勝負に出る。
 

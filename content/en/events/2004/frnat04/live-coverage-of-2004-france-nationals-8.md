@@ -287,7 +287,9 @@ render_recovery:
 ---
 ### Round 12: Steven Gouin vs. Mathias Veron
 
-![](http://www.wizards.com/sideboard/images/frnat04/fm12_1.jpg)Both of these players were on 25 points facing the simple math that if they won they were in, but anything less would certainly knock them out. With everyone above them on 27 or more points intentionally drawing, this was the only match playing where both people could make it in. They were both playing affinity.
+![](http://www.wizards.com/sideboard/images/frnat04/fm12_1.jpg)
+
+Both of these players were on 25 points facing the simple math that if they won they were in, but anything less would certainly knock them out. With everyone above them on 27 or more points intentionally drawing, this was the only match playing where both people could make it in. They were both playing affinity.
 
 ### Game 1
 

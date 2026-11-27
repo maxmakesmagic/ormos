@@ -56,7 +56,9 @@ What Ryan did do was cast Sinister Strength on his Transport, hoping to at least
 
 Ryan started off in the second game as well, again with a hand containing only two Islands and no Swamps. Olivier looked unhappy about his opening draw, playing another turn one Stormscape Apprentice. Ryan in fact missed his second land drop, and Olivier seemed please with his second turn draw, slamming a Forest on the table and playing a Thornscape Apprentice. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/920.jpg)The two Apprentices, along with a turn three Pincer Spider, reduced Ryan to 13 before he found a Sulfur Vent and cast his Metathran Transport. Next turn Ruel cast Primal Growth with kicker, sacrificing his Thornscape Apprentice, and Ryan said "This can't be good". Olivier couldn't cast whatever he had fetched the lands for right away though, but he did cast a Silver Drake instead. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/920.jpg)
+
+The two Apprentices, along with a turn three Pincer Spider, reduced Ryan to 13 before he found a Sulfur Vent and cast his Metathran Transport. Next turn Ruel cast Primal Growth with kicker, sacrificing his Thornscape Apprentice, and Ryan said "This can't be good". Olivier couldn't cast whatever he had fetched the lands for right away though, but he did cast a Silver Drake instead. 
 
 The Drake attacked, bringing Ryan to 10, and Olivier showed why he had sacrificed a creature by casting Treva, the Renewer. "I love that guy," Ryan said. "So do I," replied Olivier. Ryan amused the spectators by casting a Sea Snidd, a much maligned card, and chump-blocking Treva with the Aerostat. He had to concede the next turn though, as he couldn't deal with nine power worth of flyers with a Snidd. 
 

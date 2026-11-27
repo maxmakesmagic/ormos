@@ -211,7 +211,9 @@ A third variant, parallel to one of the variants in the first format, is to give
 
 ### Other Tempo Format Considerations
 
-![](http://www.wizards.com/global/images/mtgcom_daily_aa228_picMain_en.jpg)While I believe tempo means less in the later stages of a multiplayer game than it does early on, the idea of timing can still have critical importance. Cards like Vedalken Dismisser and Tidespout Tyrant can be back-breakers, because they can remove key blockers at times when your opponent is just hoping to stabilize.
+![](http://www.wizards.com/global/images/mtgcom_daily_aa228_picMain_en.jpg)
+
+While I believe tempo means less in the later stages of a multiplayer game than it does early on, the idea of timing can still have critical importance. Cards like Vedalken Dismisser and Tidespout Tyrant can be back-breakers, because they can remove key blockers at times when your opponent is just hoping to stabilize.
 
 If you decide to design a format that emphasizes later tempo (and see [last week's article](/en/articles/seriousfun/2006/05-09-the-self-generating-format) on some advice on such an undertaking), you may want to try to isolate the "turn period" you want to emphasize. Restricting cards and/or action to, say, turns 6 to 10 can help you define the allowable card pool so that silly combos don't wreck the fun and/or learning experience. You can even set a restriction on the converted mana cost of each deck's spells.
 

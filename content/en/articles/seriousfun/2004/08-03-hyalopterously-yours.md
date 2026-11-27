@@ -311,7 +311,9 @@ render_recovery:
 
 Every **Magic** player has a favorite card – maybe the first artwork that captured our imagination when we were new to the game, or the topdeck that won us our first local tournament, or the beatstick that always seems to persevere on the battlefield against four other players.
 
-![](https://i.ormos.uk/bc/07/bc075c573d921f0816ec21e8338bf1b04da0e328eb226754b2e24ccaa4f5d126.jpg)My favorite card…is not in *Ice Age*. Shame, since it's *Ice Age* Week and all here at magicthegathering.com.
+![](https://i.ormos.uk/bc/07/bc075c573d921f0816ec21e8338bf1b04da0e328eb226754b2e24ccaa4f5d126.jpg)
+
+My favorite card…is not in *Ice Age*. Shame, since it's *Ice Age* Week and all here at magicthegathering.com.
 
 But my clip's not empty, folks! I hang around with people – *smart* people. More importantly, some of these people are people who like Ice Age cards.
 
@@ -367,7 +369,9 @@ It's been a while since Wizards has explicitly used a word as outrageous as *hya
 
 ### Reason #2: It's A Beatstick With Big, Pretty Eyes
 
-![](https://i.ormos.uk/20/2c/202c6e975ae79f0e9aea3e6ad1fbb2a21e512c98b12ae1a6160da965dae2fb94.jpg)Akin to Laura's “cute bunny” thesis, my second reason for liking the Lemure has to do with how outrageously fun the power/toughness stats are, when compared to the artwork.
+![](https://i.ormos.uk/20/2c/202c6e975ae79f0e9aea3e6ad1fbb2a21e512c98b12ae1a6160da965dae2fb94.jpg)
+
+Akin to Laura's “cute bunny” thesis, my second reason for liking the Lemure has to do with how outrageously fun the power/toughness stats are, when compared to the artwork.
 
 Think of other 4-power creatures. Thundering Giant. Ravenous Baloth. Air Elemental. Serra Angel. *Masticore*, for heaven's sake. Add to that pantheon of beef: a skinny mammal that leaps from tree to tree and looks like it's repeatedly losing bladder control. 
 
@@ -395,7 +399,9 @@ Then you'll mana-burn for one, just 'cuz. *That's* how cool this deck is.
 
 ### Reason #4: Lemurs Are An Important Part Of Madagascar's Fragile Ecosystem
 
-![](https://i.ormos.uk/12/8b/128b509044cd26b52b8ecfc58eae58929d5ddbd44d23014ffcce7417a5488ae4.jpg)While no (known) lemur in Madagascar has the ability to fly outright, they can leap long distances, excrete strong scents from their limbs to warn off sexual competition, and shoot out their long and sticky tongues to snag baby snakes out of the branches as they pass by in midair. Okay, I'm not so sure about that tongue-and-snake bit; but it sounds like something a mammal on Madagascar ought to be able to do, am I right? Animals in and around the Indian Ocean always seem to have a leg up on the rest of us – that's the ocean where they caught that coelacanth everyone thought was exinct; and there's some sort of “unusual large ocean snail” they keep talking about like it's something from Area 51. And Australia's just on the other side from Madagascar, and look at what *they've* got over there! Fire-breathing kangaroos, talking tarantulas, and that sinister-looking Opera House in Sydney. That thing's a secret habitat for government zoological experiments, if I ever saw one.
+![](https://i.ormos.uk/12/8b/128b509044cd26b52b8ecfc58eae58929d5ddbd44d23014ffcce7417a5488ae4.jpg)
+
+While no (known) lemur in Madagascar has the ability to fly outright, they can leap long distances, excrete strong scents from their limbs to warn off sexual competition, and shoot out their long and sticky tongues to snag baby snakes out of the branches as they pass by in midair. Okay, I'm not so sure about that tongue-and-snake bit; but it sounds like something a mammal on Madagascar ought to be able to do, am I right? Animals in and around the Indian Ocean always seem to have a leg up on the rest of us – that's the ocean where they caught that coelacanth everyone thought was exinct; and there's some sort of “unusual large ocean snail” they keep talking about like it's something from Area 51. And Australia's just on the other side from Madagascar, and look at what *they've* got over there! Fire-breathing kangaroos, talking tarantulas, and that sinister-looking Opera House in Sydney. That thing's a secret habitat for government zoological experiments, if I ever saw one.
 
 Speaking of biodiversity, how about the Lemure's place in this little tropical web of life:
 

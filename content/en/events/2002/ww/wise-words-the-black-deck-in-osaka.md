@@ -344,7 +344,9 @@ render_recovery:
   - Divert
   occurrences: 1
 ---
-![](https://i.ormos.uk/51/b4/51b4d8478c8c863f3276ca03cb3f2473cfa27365055379cbf2a48011322719d4.jpg)Black, Black, Black, Black, Black, Blue-Green, Black, Black, Blue-Green, Black Black, Black...
+![](https://i.ormos.uk/51/b4/51b4d8478c8c863f3276ca03cb3f2473cfa27365055379cbf2a48011322719d4.jpg)
+
+Black, Black, Black, Black, Black, Blue-Green, Black, Black, Blue-Green, Black Black, Black...
 
 In the early- to mid- part of Day 2 in Osaka, Olivier Ruel was carrying around a copy of the standings with the archetypes being played by the tournament's top competitors annotated beside each name. The purpose of his doing so was to warn him about what each potential opponent might be playing, but in completing the exercise, Olivier saw a pattern appear much like the one above that made one simple fact very clear: The black deck was everywhere.
 
@@ -412,7 +414,9 @@ With a main deck that felt so unyielding, the most important thing in picking ou
 **Mesmeric Fiend**  ![](http://www.wizards.com/sideboard/images/cardback.jpg)  
  This was likely the weakest card in our sideboard, but it worked well with Braids in the fact that it could be sacrificed early, could force it through by removing a counter or could protect the girlie legend from Chainer's Edict. Given another two weeks of **Magic** Colony-condition playtesting, I imagine the Fiends would eventually be reduced in number to zero.
 
-![](https://i.ormos.uk/23/4f/234f8b7e5205e440d3b53507451c49f950eca2015179f8d790554bcf607565f0.jpg)**Ghastly Demise, Innocent Blood**  ![](http://www.wizards.com/sideboard/images/cardback.jpg) Originally we only had the Demises, but Blood was better against light creature decks, fast starts and Braids, so we decided we should put them in. In retrospect, I'd likely go down to one Demise, replacing it with a Skeletal Scrying.
+![](https://i.ormos.uk/23/4f/234f8b7e5205e440d3b53507451c49f950eca2015179f8d790554bcf607565f0.jpg)
+
+**Ghastly Demise, Innocent Blood**  ![](http://www.wizards.com/sideboard/images/cardback.jpg) Originally we only had the Demises, but Blood was better against light creature decks, fast starts and Braids, so we decided we should put them in. In retrospect, I'd likely go down to one Demise, replacing it with a Skeletal Scrying.
 
 **Mind Sludge  ![](http://www.wizards.com/sideboard/images/cardback.jpg), Haunting Echoes  ![](http://www.wizards.com/sideboard/images/cardback.jpg), Shambling Swarm  ![](http://www.wizards.com/sideboard/images/cardback.jpg)**  
  These were in the sideboard in order to adjust the deck appropriately for each match up without needing to run 80 cards main. 
@@ -439,7 +443,9 @@ To conclude, a quick synopsis of how the big matchups work
 
 **Vs. Black:** Unfortunately, this is a bit random. The most important card here is Mind Sludge, with the first one's resolution a huge boost to the caster, but because almost everyone has four Sludges after boarding, you have to cast your spells rather than risk holding them. What this means is that in the extended game, whoever draws the Echoes first often loses, as they have to cast it then wait for the opponent to draw theirs, which later in the game is almost invariably more impressive. The Braids sideboard is an attempt to circumvent this eventuality, with the hopes being that the good draw will finish your opponent off before the game really gets going, or in the least that a couple of Stone Rain style effects will allow your Sludge to be the first one cast. Skeletal Scrying is also very big here, because of its ability to break the game open after being Sludged and because it protects your graveyard from Echoes.
 
-![](https://i.ormos.uk/28/4b/284b76dceeb20aeba721601cd2d9347ee1d26e97f641b0333e95602aa1410370.jpg)**Vs. blue-green:** The main reason we've retrospectively considered main decking Innocent blood is this match up, because if you can't kill the second turn Mongrel, you can be in trouble if an opponent follows with turn three Arrogant Wurm, turn four Roar of the Wurm. That said, the Swarms are very good here while there is likely not a matchup in which the Shades are more effective. In most match ups, I'd hold the Shade until after casting my first Mutilate, but here you let 'em rip as there's seldom any card in the format that can counter on your turn two.
+![](https://i.ormos.uk/28/4b/284b76dceeb20aeba721601cd2d9347ee1d26e97f641b0333e95602aa1410370.jpg)
+
+**Vs. blue-green:** The main reason we've retrospectively considered main decking Innocent blood is this match up, because if you can't kill the second turn Mongrel, you can be in trouble if an opponent follows with turn three Arrogant Wurm, turn four Roar of the Wurm. That said, the Swarms are very good here while there is likely not a matchup in which the Shades are more effective. In most match ups, I'd hold the Shade until after casting my first Mutilate, but here you let 'em rip as there's seldom any card in the format that can counter on your turn two.
 
 **Vs. blue-black:**Upheaval is the devil to your divinity, and this is the deck that best exploits that fact. The Braids sideboard is helpful here in making sure they haven't the mana to cast Upheaval/Infestation for a long time, and if they don't get to do that, Sludges and Echoes will finish them off. We thought this was one of the poorer match ups going in, but I went 3-0 against good players who ran blue-black.
 

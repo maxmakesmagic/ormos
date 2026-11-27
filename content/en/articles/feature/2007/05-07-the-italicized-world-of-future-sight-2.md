@@ -83,7 +83,9 @@ Nobun stared ahead, cold black eyes fixed upon the glowing seal on the opposite 
 
 The hellkite laughed, her voice rasping in pain. "This place is not for you. How can you dare to think that it is yours to claim? No. Go back unto your shadows. They wait for you. Even if you could proceed, you would only be destroyed by your own hubris."
 
-![Lumithread_Field](http://www.wizards.com/magic/images/cardart/FUT/Lumithread_Field.jpg)Nobun shook his head, and the ota quietly positioned themselves around the wounded dragon. "It is our test, the proof of our divine heritage. No more will we grope blindly in the endless darkness. These lamps you keep hidden, these *suns*, they were put here for us to find when we had learned the Word. They were put here for us to finally see the faces of our makers, once we learned to stop killing each other, once we had learned to join our strength and act as one. That we have even made it here is proof of our worth."
+![Lumithread_Field](http://www.wizards.com/magic/images/cardart/FUT/Lumithread_Field.jpg)
+
+Nobun shook his head, and the ota quietly positioned themselves around the wounded dragon. "It is our test, the proof of our divine heritage. No more will we grope blindly in the endless darkness. These lamps you keep hidden, these *suns*, they were put here for us to find when we had learned the Word. They were put here for us to finally see the faces of our makers, once we learned to stop killing each other, once we had learned to join our strength and act as one. That we have even made it here is proof of our worth."
 
 Ventaisen sneered. "Fine words, praetorian. You who claim to know the mind of the gods, tell me this! What do you intend to do with your prize? Think you that you can take these lamps back to your home, to mount as trophies above your darkened spires? If this is what you believe, you are sorely mistaken. Your lamps will slip through your fingers before you even leave this hallowed place. The gods did not make these *suns* to light the path of only one of their children!" Her tongue flicked out, lapping the precious silver fluid that leaked down her face.
 

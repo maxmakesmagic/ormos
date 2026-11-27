@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Collin Jackson*
 
-![](https://i.ormos.uk/03/41/03416f8ac7800987a04e83d28d1a5b63fad02e9c574d2a177d6daa3342883f2b.jpg)Thomas Felsberg of Sao Paulo, Brazil faced off against Gerardo Godinez-Estrada of Mexico City in the quarterfinals of the Latin America championships. Gerardo was playing a cross-breed between the Angry Hermit and Trinity Green decks, which presented a tough matchup for Thomas's Replenish deck. "I'm not ecstatic about my chances," Thomas admitted. "But I'll try my best."
+![](https://i.ormos.uk/03/41/03416f8ac7800987a04e83d28d1a5b63fad02e9c574d2a177d6daa3342883f2b.jpg)
+
+Thomas Felsberg of Sao Paulo, Brazil faced off against Gerardo Godinez-Estrada of Mexico City in the quarterfinals of the Latin America championships. Gerardo was playing a cross-breed between the Angry Hermit and Trinity Green decks, which presented a tough matchup for Thomas's Replenish deck. "I'm not ecstatic about my chances," Thomas admitted. "But I'll try my best."
 
 The first game was a short one. Thomas used a pair of Parallax Tides to shut down Gerardo's lands, and the two enchantments became 4/4 attackers once Opalescence hit the table. Although the Tides faded out quickly, Gerardo's lifespan was even shorter.
 

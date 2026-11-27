@@ -1314,7 +1314,9 @@ render_recovery:
 
 * * *
 
-![](https://i.ormos.uk/fa/75/fa75c03f23ba1d0dbe09246affbc4fd646c6c07222ef2989d507d279b97a5c8e.jpg)Okay, folks, I think it's time to formally close down the Multi-Lab lines. In the past couple of weeks, I'm down to a trickle of requests... and I'm still having a horrible time catching up. So let's make it official: I won't entertain any Multi-Lab requests as of the publishing of this article, until further notice. Likewise, I won't be able to help with any similar deck help requests.
+![](https://i.ormos.uk/fa/75/fa75c03f23ba1d0dbe09246affbc4fd646c6c07222ef2989d507d279b97a5c8e.jpg)
+
+Okay, folks, I think it's time to formally close down the Multi-Lab lines. In the past couple of weeks, I'm down to a trickle of requests... and I'm still having a horrible time catching up. So let's make it official: I won't entertain any Multi-Lab requests as of the publishing of this article, until further notice. Likewise, I won't be able to help with any similar deck help requests.
 
 I will eventually catch up with what I have already. And other topics are fair game, for email.
 

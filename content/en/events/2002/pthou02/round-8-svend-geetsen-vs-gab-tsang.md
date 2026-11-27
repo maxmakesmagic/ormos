@@ -82,7 +82,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/pthou02/a513.jpg)Svend won the flip, but had to mulligan his first hand, which only had a Mogg Flunkies as a creature in it, and some burn. His second hand wasn't much better though, with a Raging Goblin and a Shock as only non-land cards. After that he got another hand with just a Mogg Flunkies but had to keep that to have a shot at winning this game. It left him without a turn one play and had to settle with Mountain, go.
+![](http://www.wizards.com/sideboard/images/pthou02/a513.jpg)
+
+Svend won the flip, but had to mulligan his first hand, which only had a Mogg Flunkies as a creature in it, and some burn. His second hand wasn't much better though, with a Raging Goblin and a Shock as only non-land cards. After that he got another hand with just a Mogg Flunkies but had to keep that to have a shot at winning this game. It left him without a turn one play and had to settle with Mountain, go.
 
 Gabriel got a first turn Llanowar Elves that got Shocked by Svend, who drew and play Goblin Lackey next turn. A Treetop Village hit the board next turn on Gabriel's side, and when Svend attacked his Lackey summoned a Mogg Flunkies. Another Forest on Gabriel's side and his Treetop Village was now ready to do some blocking if needed. Svend peeled a Raging Goblin, and thought if it was right to play it now. He had Reckless Abandon and a Volcanic Hammer in his hand as well, so he wouldn't be able to kill off the Treetop if he played the Raging Goblin now. He settled for just attacking with his Lackey and Flunkies, taking Gabriel down to 15, who wanted to cycle a Krosan Tusker to get a Swamp. It's used to play a Pernicious Deed next turn. Svend on his turn plays his Reckless Abandon on Gabriel, who activates his Deed during Svend's attack phase.
 
@@ -90,6 +92,8 @@ Svend replaces the Lackey and Gab replaces his Pernicious Deed as well. He activ
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/pthou02/a514.jpg)No mulligans this time and a Goblin Cadets give Svend a pretty good start. Gab doesn't have an Elf or Bird, and Mogg Flunkies join the Goblin Cadets. In Svend's next attack step Gab plays a Diabolic Edict on Svend who sacrifices his Flunkies to it. Two Mogg Fanatics hit the board next and they get wiped away by an Engineered Plague on Goblins from Gab. Just a Seal of Fire is next for Svend, who gets to face a Ravenous Baloth on Gab's side. Svend himself answers that with a might 0/1 Piledriver and Gab just plays another Baloth after attacking. Svend plays another Piledriver but a second Engineered Plague on Goblins kills both of them off. From that point on the match was pretty much lost. Svend takes his time killing off the Baloths, but when a Spiritmonger pops up on Gab's side he knows it's all over.
+![](http://www.wizards.com/sideboard/images/pthou02/a514.jpg)
+
+No mulligans this time and a Goblin Cadets give Svend a pretty good start. Gab doesn't have an Elf or Bird, and Mogg Flunkies join the Goblin Cadets. In Svend's next attack step Gab plays a Diabolic Edict on Svend who sacrifices his Flunkies to it. Two Mogg Fanatics hit the board next and they get wiped away by an Engineered Plague on Goblins from Gab. Just a Seal of Fire is next for Svend, who gets to face a Ravenous Baloth on Gab's side. Svend himself answers that with a might 0/1 Piledriver and Gab just plays another Baloth after attacking. Svend plays another Piledriver but a second Engineered Plague on Goblins kills both of them off. From that point on the match was pretty much lost. Svend takes his time killing off the Baloths, but when a Spiritmonger pops up on Gab's side he knows it's all over.
 
 Gabriel Tsang 2 – Svend Geertsen 0

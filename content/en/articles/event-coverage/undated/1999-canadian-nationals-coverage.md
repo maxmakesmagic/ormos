@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/f1/99/f199204c769f41a13ef508907517ad5bc1f60a5aaada9f150c1212c292d30ad8.jpg)Welcome to Sideboard Online's ongoing coverage of the 1999 Canadian Nationals. We will be posting round-by-round pairings, standings and match reports. Keep checking back for updates.
+![](https://i.ormos.uk/f1/99/f199204c769f41a13ef508907517ad5bc1f60a5aaada9f150c1212c292d30ad8.jpg)
+
+Welcome to Sideboard Online's ongoing coverage of the 1999 Canadian Nationals. We will be posting round-by-round pairings, standings and match reports. Keep checking back for updates.
 
 *Last update: Saturday, 1:20 PM PST*
 

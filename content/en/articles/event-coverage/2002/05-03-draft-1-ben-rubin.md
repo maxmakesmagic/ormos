@@ -44,7 +44,9 @@ archive_source:
   sha256: 9ed70243f8a2bad3eb1055b2449cce57bd86d33e4c8aa345ac36f5ff98c2f2e5
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a984.jpg)Even though he's still relatively young, Ben Rubin is one of the Pro Tour's most experienced, accomplished and respected veterans. His first Top 8 appearance was back at Pro Tour Los Angeles 98, where he lost in the finals to eventual champion Dave Price. He went on to make yet another finals appearance that year at Worlds. Last season saw him win two Masters tournaments. Needless to say, with a resume like this, it's no surprise that Rubin is considered one of the best players in the world.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a984.jpg)
+
+Even though he's still relatively young, Ben Rubin is one of the Pro Tour's most experienced, accomplished and respected veterans. His first Top 8 appearance was back at Pro Tour Los Angeles 98, where he lost in the finals to eventual champion Dave Price. He went on to make yet another finals appearance that year at Worlds. Last season saw him win two Masters tournaments. Needless to say, with a resume like this, it's no surprise that Rubin is considered one of the best players in the world.
 
 Rubin's first pack contained Firebolt, Psychatog and Patriarch's Desire as potential picks. He took the 'Tog, and second picked a Werebear over a Shelter. He was now leaning towards three colors, but with the help of green's mana fixers he could manage to pull it off without much of a problem. The rest of the pack was very kind, and probably made Rubin happy that he went into green even though he had already started off blue/black. Rabid Elephant, Diligent Farmhand, and a fifth pick Werebear all came to him, along with a Syncopate, Sadistic Hypnotist and Darkwater Egg to help fix the mana.
 

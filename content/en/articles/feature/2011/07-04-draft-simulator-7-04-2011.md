@@ -61,7 +61,9 @@ archive_source:
   sha256: c2bd92ed96b73d925a6c0ceaaf8b8dcf2697dd54d1e1897420016bfaab03c150
 render_recovery: []
 ---
-![](https://i.ormos.uk/71/d6/71d6db5a1527309f8c37a9708fa24e68a5f45c6b6580364809690e506635ce57.jpg)Welcome to the Booster Draft Simulator! Practice your ***Magic** 2011* drafting skills right here every week by participating in a Booster Draft against seven AI drafters, powered by the collective intelligence of **Magic**'s R&D department.
+![](https://i.ormos.uk/71/d6/71d6db5a1527309f8c37a9708fa24e68a5f45c6b6580364809690e506635ce57.jpg)
+
+Welcome to the Booster Draft Simulator! Practice your ***Magic** 2011* drafting skills right here every week by participating in a Booster Draft against seven AI drafters, powered by the collective intelligence of **Magic**'s R&D department.
 
 When you're done with your draft, you can compare your picks with other readers in the Forums. Think you can draft a better deck? Want to know what would happen if you made a different first pick? You can keep drafting against the same pool all week and see how your picks change from strategy to strategy.
 

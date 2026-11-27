@@ -44,7 +44,9 @@ archive_source:
   sha256: aa578a577a95c843bf6d1ca2a32b45694ad446b8c19a5a52bd3c7b8e28bf0163
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a944.jpg)Antonino DeRosa is looking for a breakout finish. He's had top 32s at Pro Tours and at least one Top 8 in a Grand Prix, but he wants the finish that will put his name in everyone's heads – and making the US Team would do just that.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a944.jpg)
+
+Antonino DeRosa is looking for a breakout finish. He's had top 32s at Pro Tours and at least one Top 8 in a Grand Prix, but he wants the finish that will put his name in everyone's heads – and making the US Team would do just that.
 
 His opponent is Dave Price, a Top 8 finisher in this event last year as the beneficiary of Casey McCarrell's disqualification.
 

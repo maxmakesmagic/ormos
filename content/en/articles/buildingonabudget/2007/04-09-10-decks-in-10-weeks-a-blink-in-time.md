@@ -869,7 +869,9 @@ render_recovery:
 
 Welcome back to Building on a Budget! We're past the halfway point of the 10 Decks in 10 Weeks experiment (see a participating sidebar for details. Offer not valid in the contiguous 50 states, or anywhere else in the world. Ask your agent for details). We left off last week with a deck built around the black-white comes-into-play creatures combined with the *Planar Chaos* rescue creatures. In this week's article, we swap out the black, add in blue, and mix it all up with Momentary Blink.
 
-![](https://i.ormos.uk/ce/17/ce17ed7b2d1ea108ad0cbe796ed4fb7347dd80e06614d364ebdd1a73e145830a.jpg)Before we get started, you might have noticed that nine of the ten weeks are now chosen for 10 Decks in 10 Weeks! Every week past the third has been chosen by popular consent of you, the reader – and I thank you for your input. We're getting close to the red-black week, so it's time to decide the focus of that deck. I've gotten a lot of good ideas through the forums and via e-mail. To make this as democratic as possible, let's decide this by a poll!
+![](https://i.ormos.uk/ce/17/ce17ed7b2d1ea108ad0cbe796ed4fb7347dd80e06614d364ebdd1a73e145830a.jpg)
+
+Before we get started, you might have noticed that nine of the ten weeks are now chosen for 10 Decks in 10 Weeks! Every week past the third has been chosen by popular consent of you, the reader – and I thank you for your input. We're getting close to the red-black week, so it's time to decide the focus of that deck. I've gotten a lot of good ideas through the forums and via e-mail. To make this as democratic as possible, let's decide this by a poll!
 
 <table><tbody><tr><td>&#10;<table>&#10;<tbody><tr>&#10;<td>&#10;<table>&#10;<tbody><tr>&#10;<td>&#10;                 <b>What should be the focus of the black-red deck for Week 8 of 10?</b></td>&#10;<td> </td>&#10;<td><img alt="" src="https://i.ormos.uk/7d/ea/7deab367d2187ba6dc0e8758afb21d975578affe86883947e65fa45de83cb2e0.jpg"></td>&#10;</tr>&#10;<tr>&#10;<td colspan="3">&#10;<table>&#10;<tbody><tr>&#10;<td>&#10;<a>Null Profusion</a> – It flows well into Week 9!<br>Madness – In demand since <i>Time Spiral</i>!<br><a>Pyrohemia</a>/<a>Circle of Affliction</a> – The family that damages together stays together!<br>Haakon and Friends – Now fortified with <a>Blood Knight</a>!<br><a>Greater Gargadon</a> – Just add one part <a>Mindslicer</a> and two parts <a>Phyrexian Totem</a>!<br><div></div>&#10;&#10;</td>&#10;</tr>&#10;</tbody></table>&#10;</td>&#10;</tr>&#10;</tbody></table>&#10;</td>&#10;</tr>&#10;</tbody></table>&#10;</td>&#10;</tr>&#10;</tbody></table>
 
@@ -877,7 +879,9 @@ One of the concepts of the 10 Decks in 10 Weeks experiment is that you'd be able
 
 Look at it this way – I've already got a deck full of creatures that trigger when they come into play or leave play. Momentary Blink "forces" a creature to leave and come into play in one fell swoop, which triggers most of the comes-into-play and leaves-play effects in this deck. Momentary Blink and the Rescue creatures each have advantages and disadvantages in relation to one another.
 
-![Momentary Blink and Whitemane Lion](https://i.ormos.uk/7b/41/7b416332eb5964dd6e296ad19471984008864fd3266c1838af81a392b571be23.jpg "Momentary Blink and Whitemane Lion")Rescue saves your creatures from global removal, such as Wrath of God. Momentary Blink does not.
+![Momentary Blink and Whitemane Lion](https://i.ormos.uk/7b/41/7b416332eb5964dd6e296ad19471984008864fd3266c1838af81a392b571be23.jpg "Momentary Blink and Whitemane Lion")
+
+Rescue saves your creatures from global removal, such as Wrath of God. Momentary Blink does not.
 
 Momentary Blink puts your creature right back into play. If you do this at your opponent's end-of-turn, your creature will not have summoning sickness on your turn. Rescue puts the creature back in your hand, which means you need to recast it.
 

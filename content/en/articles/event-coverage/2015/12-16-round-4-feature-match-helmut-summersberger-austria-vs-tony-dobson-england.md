@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/138.jpg)In the fourth round, top 8 finisher from 2000 Worlds, Helmut Summersberger, was paired up against Tony Dobson from England. Both of them had three byes, and they were looking for a win in their first match of the day. Summersberger was with CounterSliver, while Tony had chosen a rather unusual deck - Obliterwhat. Based on Zvi Mowshowitz's Turboland deck, Obliterwhat was developed by "CoolGuy" on IRC. He added Obliterates to the deck, which enhanced it tremendously, and since then, David Williams played it to finish ninth at Grand Prix Phoenix. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/138.jpg)
+
+In the fourth round, top 8 finisher from 2000 Worlds, Helmut Summersberger, was paired up against Tony Dobson from England. Both of them had three byes, and they were looking for a win in their first match of the day. Summersberger was with CounterSliver, while Tony had chosen a rather unusual deck - Obliterwhat. Based on Zvi Mowshowitz's Turboland deck, Obliterwhat was developed by "CoolGuy" on IRC. He added Obliterates to the deck, which enhanced it tremendously, and since then, David Williams played it to finish ninth at Grand Prix Phoenix. 
 
 **Game 1** 
 

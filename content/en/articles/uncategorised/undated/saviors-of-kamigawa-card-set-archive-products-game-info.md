@@ -63,7 +63,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/45/81/458172633f021b9420c45ffc7bd7bc9aa78d2ce5085b663dfdd0dac2eb2208e5.png)The Kami War comes to a head with a bang. Take down your opponent with powerful new “hand size matters” cards and Epic spells.
+![](https://i.ormos.uk/45/81/458172633f021b9420c45ffc7bd7bc9aa78d2ce5085b663dfdd0dac2eb2208e5.png)
+
+The Kami War comes to a head with a bang. Take down your opponent with powerful new “hand size matters” cards and Epic spells.
 
 **Set Name:** *Saviors of Kamigawa*  
 **Block:** Set 3 of 3 of the *Kamigawa* Block  

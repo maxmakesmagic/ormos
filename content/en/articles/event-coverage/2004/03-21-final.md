@@ -44,7 +44,9 @@ archive_source:
   sha256: 969df1c3c0fe167aaa77a154912e59cd1897671651a0d7502e2630dd6b7d078c
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsen04/fin_1.jpg)Masahiko Morita was one third of PS2, a team that was Japan's most successful export in international Magic competition. They brought Japan its first major title with a Team Masters Championship, and won a Team Grand Prix too. His PS2 teammates, Katsuhiro Mori and Masashiro Kuroda, have achieved individual success- now it's time for Morita to be noticed on his own. Three times before he's made the finals of an individual Grand Prix only to come up short, and this time he's looking to break the habit. Across the table from him is Ichiro Shimura, a player who has been to a handful of Pro Tours but never made much of an impact. This weekend, he's made people take notice, and with one more win he'll walk away a Grand Prix Champion.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsen04/fin_1.jpg)
+
+Masahiko Morita was one third of PS2, a team that was Japan's most successful export in international Magic competition. They brought Japan its first major title with a Team Masters Championship, and won a Team Grand Prix too. His PS2 teammates, Katsuhiro Mori and Masashiro Kuroda, have achieved individual success- now it's time for Morita to be noticed on his own. Three times before he's made the finals of an individual Grand Prix only to come up short, and this time he's looking to break the habit. Across the table from him is Ichiro Shimura, a player who has been to a handful of Pro Tours but never made much of an impact. This weekend, he's made people take notice, and with one more win he'll walk away a Grand Prix Champion.
 
 ### Game 1
 

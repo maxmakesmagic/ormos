@@ -44,7 +44,9 @@ archive_source:
   sha256: ccc2bac7bf503324835c76b82ea10eebe1f6bad8de4d5553d19c36eafdf4ab14
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/fm10_1.jpg)The Dutch rampage at Grand Prix Bochum continues. Yesterday these two teams slugged it out in the last round to see who would go into day two as tournament leaders. Schietkoe were victorious that time and now it was time for a rematch. The winner would book a place in the top 4, the loser would have a second chance in the next round.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/fm10_1.jpg)
+
+The Dutch rampage at Grand Prix Bochum continues. Yesterday these two teams slugged it out in the last round to see who would go into day two as tournament leaders. Schietkoe were victorious that time and now it was time for a rematch. The winner would book a place in the top 4, the loser would have a second chance in the next round.
 
 Walking over and looking at the decks during construction my first thought was "That's a typical Bram deck".
 

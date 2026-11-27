@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/298.jpg)In the first round of the Masques Block Constructed (MBC), the French National Champion Yann Hamon faced the U.S. Nationals runner-up, Chris Benafel. Hamon was playing a white and blue control deck, while Benafel had chosen to go with Blue Beatdown.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/298.jpg)
+
+In the first round of the Masques Block Constructed (MBC), the French National Champion Yann Hamon faced the U.S. Nationals runner-up, Chris Benafel. Hamon was playing a white and blue control deck, while Benafel had chosen to go with Blue Beatdown.
 
 Unfortunately, the match didn't start out well for the Frenchman. He double mulliganed and failed to draw more than one land for the entire game, and Benafel won easily.
 

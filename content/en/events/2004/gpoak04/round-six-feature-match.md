@@ -1119,7 +1119,9 @@ render_recovery:
 ---
 ### Dave Humpherys vs. Ben Rubin
 
-![Don't worry. Ben is wearing a Che shirt under that sweater.](http://www.wizards.com/sideboard/images/gpoak04/r6fm1_1.jpg)Somewhere in America Toby Wachter is gnashing his teeth. One of the most painful events in his young life was covering an untimed match between these two competitors at a Masters event. Both players were with Psychatog and the match exceeded three hours. These were two veteran players with very deliberate play styles.
+![Don't worry. Ben is wearing a Che shirt under that sweater.](http://www.wizards.com/sideboard/images/gpoak04/r6fm1_1.jpg)
+
+Somewhere in America Toby Wachter is gnashing his teeth. One of the most painful events in his young life was covering an untimed match between these two competitors at a Masters event. Both players were with Psychatog and the match exceeded three hours. These were two veteran players with very deliberate play styles.
 
 Dave nodded to his opponent before the match and offered a friendly, "Good luck."
 

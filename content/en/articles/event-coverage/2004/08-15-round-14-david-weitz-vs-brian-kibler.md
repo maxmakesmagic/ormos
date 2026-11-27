@@ -44,7 +44,9 @@ archive_source:
   sha256: 3f19acaea714b5185bcd98c4a65fe7fa3d3497d39b477987fdf41be0c4c736d3
 render_recovery: []
 ---
-![David Weitz](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj04/fm14_1.jpg)David Weitz is a 28-year-old from Youngstown, Ohio who has been on the Pro Tour four times before -- mostly in the olden days. His opponent is none other than the Dragon Master, Brian Kibler. Kibler is one of the more prominent faces of Magic these days, and is coming off a strong Top 8 finish at U.S. Nationals. Lately he has been complaining about playing poorly, but as of right now he still has a chance to Top 8.
+![David Weitz](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj04/fm14_1.jpg)
+
+David Weitz is a 28-year-old from Youngstown, Ohio who has been on the Pro Tour four times before -- mostly in the olden days. His opponent is none other than the Dragon Master, Brian Kibler. Kibler is one of the more prominent faces of Magic these days, and is coming off a strong Top 8 finish at U.S. Nationals. Lately he has been complaining about playing poorly, but as of right now he still has a chance to Top 8.
 
 With two more rounds of swiss to go, each of these players probably need to win out in order to make the top 8 (the size of the tournament has definitely done a number on everyone's math calculations for the top 8). Interestingly, neither Weitz nor Kibler has a loss yet today. Both players won elimination matches to end Day 1 and have run the table ever since. Weitz was playing the G/R Freshmaker deck designed to hate away Affinity, while Kibler chose to run the pro's gold standard of Vial Affinity.
 

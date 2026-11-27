@@ -365,7 +365,9 @@ render_recovery:
   - Mana Leak
   occurrences: 1
 ---
-![](https://i.ormos.uk/f3/43/f3436b035953fc3dc44b55ee78b21e7a19040fbc752e2e9899e4363daef54084.jpg)Takuya Oosawa's traveled quite a bit, making a top 4 performance at this season's Grand Prix Hong Kong. He has a decent shot at making it into the top 8 this weekend. Tsuyoshi Fujita's credentials need not be repeated here. Today he's sporting a quite nice Hawaiian ensemble and looks quite relaxed. Oosawa is playing Ravager Affinity, while Fujita is playing the new Red/Green aggression deck with scads of removal. With Fujita's speed and artifact removal, Oosawa was going to fight an uphill battle.
+![](https://i.ormos.uk/f3/43/f3436b035953fc3dc44b55ee78b21e7a19040fbc752e2e9899e4363daef54084.jpg)
+
+Takuya Oosawa's traveled quite a bit, making a top 4 performance at this season's Grand Prix Hong Kong. He has a decent shot at making it into the top 8 this weekend. Tsuyoshi Fujita's credentials need not be repeated here. Today he's sporting a quite nice Hawaiian ensemble and looks quite relaxed. Oosawa is playing Ravager Affinity, while Fujita is playing the new Red/Green aggression deck with scads of removal. With Fujita's speed and artifact removal, Oosawa was going to fight an uphill battle.
 
 Oosawa won the die roll and played first. Finding his hand of four land, a Myr Enforcer, a Chromatic Sphere, and a Welding Jar to be inferior, he sent it back to get a hand with four artifact lands, a Myr Enforcer, and a Chromatic Sphere. Spectators witnessed this mulligan with surprise. (Oosawa was quite meticulous in shuffling.) He avoided going to five cards and kept the hand. Fujita liked his hand with Siege-Gang Commander, Sparksmith, and Oxidize. 
 

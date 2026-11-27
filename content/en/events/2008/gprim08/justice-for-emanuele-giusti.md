@@ -172,7 +172,9 @@ render_recovery:
   reason: The preview omitted the iframe that loads this separate page.
   occurrences: 3
 ---
-![](https://i.ormos.uk/7f/37/7f37504e91fc6d149fb3c4546b83f726a06e77b65694d00d2a4b02c92905488d.jpg)From 700 players to just one, and the young Italian, Emanuele Giusti, has vanquished them all. They came, he saw, he conquered!
+![](https://i.ormos.uk/7f/37/7f37504e91fc6d149fb3c4546b83f726a06e77b65694d00d2a4b02c92905488d.jpg)
+
+From 700 players to just one, and the young Italian, Emanuele Giusti, has vanquished them all. They came, he saw, he conquered!
 
 A theme of this weekend has been how strong Italian Magic is right now, and it seemed inevitable that we would have an Italian champion with three of the semi-finalists being Italians – and none of them the household names that you may already have heard of. After dominating the Swiss rounds Matthias Künzler’s long undefeated streak ended abruptly in the Quarter-Finals. The Japanese superstar Shuuhei Nakamura tried his best to upset the almost inevitable Italian homecoming win but fell to a shockingly swift defeat in the Final to the Kithkin armies of Emanuele Giusti, and we crown yet another new Grand Prix champion!
 
@@ -988,7 +990,9 @@ We have a Top 8, and the title of this show might give you a clue as to a major 
 
     *by Tobias Henke*
 
-![](https://i.ormos.uk/ea/a3/eaa3f806c493e82915c991641ca7cc6a06546330eabed202de61576ddc76e403.jpg)Apparently, 5-color Merfolk is all the rage now; two of them even meet in the quarterfinals!
+![](https://i.ormos.uk/ea/a3/eaa3f806c493e82915c991641ca7cc6a06546330eabed202de61576ddc76e403.jpg)
+
+Apparently, 5-color Merfolk is all the rage now; two of them even meet in the quarterfinals!
 
 The first game started fast and furious, with Renedo’s Stonybrook Banneret into Vendilion Clique. Nakamura answered both with Firespout, but Renedo redoubled his grip on the game with double Chaneleon Colossus.
 
@@ -1002,7 +1006,9 @@ Nakamura untapped, laid his eigth land... hesitated a second, but then shrugged 
 
 **Shuuhei Nakamura 1 – 0 Emanuele Guisti** 
 
-![](https://i.ormos.uk/ff/c1/ffc1d9873fa8d8dac33eaabf714dda3f011abfa5d02b675e1f585bc4e4505057.jpg)This time it was Renedo bringing on the Silvergill Adepts while Nakamura went off to a turn-three Chameleon Colossus, thanks to Stonybrook Banneret.
+![](https://i.ormos.uk/ff/c1/ffc1d9873fa8d8dac33eaabf714dda3f011abfa5d02b675e1f585bc4e4505057.jpg)
+
+This time it was Renedo bringing on the Silvergill Adepts while Nakamura went off to a turn-three Chameleon Colossus, thanks to Stonybrook Banneret.
 
 Nakamura got rid of the Silvergill Adepts and Renedo’s Cryptic Command bounced Chameleon Colossus. Unfortunately, the young Spaniard couldn’t do anything about Nakamura’s Jace Beleren that now followed. 
 
@@ -1019,7 +1025,9 @@ When Nakamura finally let his Planeswalker-ally die and then called upon another
 
     *by David Sutcliffe*
 
-![](https://i.ormos.uk/1e/7a/1e7adc520e9a99a5bbe0741993a7e9937d25c68b7a0e6acdccdaba971028a4d1.jpg)Matthias Künzler was on the verge of history, here. At Grand Prix-Copenhagen last month Tomaharo Saitou won every round of the Swiss until he lost the last round, but Künzler has gone one better and managed a draw instead of a loss. If he is able to win the Grand Prix he would become the first player to ever go undefeated on both days. Many years ago the British deckbuilding master, John Ormerod, made it into the Top-8 undefeated but failed to take the crown - having surpassed Saitou, history awaited Künzler’s next move. As did the 16 year old Italian Marcello Calvetto, who was hoping to upset the odds
+![](https://i.ormos.uk/1e/7a/1e7adc520e9a99a5bbe0741993a7e9937d25c68b7a0e6acdccdaba971028a4d1.jpg)
+
+Matthias Künzler was on the verge of history, here. At Grand Prix-Copenhagen last month Tomaharo Saitou won every round of the Swiss until he lost the last round, but Künzler has gone one better and managed a draw instead of a loss. If he is able to win the Grand Prix he would become the first player to ever go undefeated on both days. Many years ago the British deckbuilding master, John Ormerod, made it into the Top-8 undefeated but failed to take the crown - having surpassed Saitou, history awaited Künzler’s next move. As did the 16 year old Italian Marcello Calvetto, who was hoping to upset the odds
 
 Künzler spent a long while thinking over his second turn before casting Bitterblossom but Calvetto had the Broken Ambitions ready, and when he won the clash also managed to mill away both of Künzler’s Thoughtseize from his deck. It was early days but would that prove crucial? Calvetto played Scion of Oona but Künzler activated his Mutavault to give himself a Faerie, then Peppersmoked the Scion away and drew a card.
 
@@ -1043,7 +1051,9 @@ The pull of history had gotten fainter after his first game loss, and seemed to 
 
 With nothing better to do Künzler began the aerial assault but Calvetto followed up his devastating second turn with a Stillmoon Cavalier from his sideboard. Künzler Pondered into a Thoughtseize of his own, and left Calvetto with only a Broken Ambitions and land in hand, then attacked in with his faerie and a Mutavault, capitalising on the four life Calvetto had paid for his Thoughtseizes and dropping him to 11 life.
 
-![](https://i.ormos.uk/27/a4/27a469c8c7ed08caf296a5d0a030e57697f8ee70094a86e5ad6c599a0099cd28.jpg)With the Italian having mana available to give the Stillmoon Cavalier flying, Künzler sat back and allowed his Fae swarm to grow before attacking again. The Cavalier accounted for the Mutavault, but the faerie tokens got through and Calvetto mistakenly took a point of mana burn. He had given the Cavalier First Strike via a Sunken Ruins and forgot to sink the extra mana. Künzler followed up with a second Bitterblossom, and Calvetto fought right back with two Peppersmoke and a second Stillmoon Cavalier! 
+![](https://i.ormos.uk/27/a4/27a469c8c7ed08caf296a5d0a030e57697f8ee70094a86e5ad6c599a0099cd28.jpg)
+
+With the Italian having mana available to give the Stillmoon Cavalier flying, Künzler sat back and allowed his Fae swarm to grow before attacking again. The Cavalier accounted for the Mutavault, but the faerie tokens got through and Calvetto mistakenly took a point of mana burn. He had given the Cavalier First Strike via a Sunken Ruins and forgot to sink the extra mana. Künzler followed up with a second Bitterblossom, and Calvetto fought right back with two Peppersmoke and a second Stillmoon Cavalier! 
 
 Those two Peppersmoke had utterly transformed the damage race in Calvetto’s favour - Künzler was on 9 life, but the Cavaliers and the Bitterblossom upkeeps would get to him before his remaining Faeries could get to Calvetto... he attacked, putting Calvetto to 5 life but would only have 4 tokens the following turn. Calvetto attacked, reducing Künzler to 4 life.
 
@@ -1070,7 +1080,9 @@ When Nakamura played a Sygg, River Guide his opponent made a critical error, tho
 
 **Shuuhei Nakamura 1 - 0 Claudio Salemi** 
 
-![](https://i.ormos.uk/f4/c7/f4c79369b7ad6354cf884b19709e471551d154de28fcdf3b71a0572ef33ee68a.jpg)The second game started more brightly for Salemi, and he found a second turn Bitterblossom, only to have Nakamura remove it with a Wispmare before he could spawn a single Faerie from it. Shuuhei Nakamura found a little more of his classic Merfolk offense than he had in the first game and began to attack with a Stonybrook Banneret and Silvergill Adept. Salemi killed the Banneret with a Nameless Inversion and attacked back as best he could with a lone Scion of Oona, but his body language was suggesting a player resigned to his fate.
+![](https://i.ormos.uk/f4/c7/f4c79369b7ad6354cf884b19709e471551d154de28fcdf3b71a0572ef33ee68a.jpg)
+
+The second game started more brightly for Salemi, and he found a second turn Bitterblossom, only to have Nakamura remove it with a Wispmare before he could spawn a single Faerie from it. Shuuhei Nakamura found a little more of his classic Merfolk offense than he had in the first game and began to attack with a Stonybrook Banneret and Silvergill Adept. Salemi killed the Banneret with a Nameless Inversion and attacked back as best he could with a lone Scion of Oona, but his body language was suggesting a player resigned to his fate.
 
 Still, Salemi managed to counter a second Silvergill Adept with a Spellstutter Sprite and edge his way back into the damage race, but before he could capitalise on that a Nameless Inversion took down his Scion and after another Japanese attack the Italian was 10-14 down on life. Fighting back, Salemi hit Nakamura with a Thoughtseize but it revealed a host of power cards – two Cryptic Command and a Chameleon Colossus. He took a Command, and in Nakamura’s next attack traded away both of the attacking creatures for a Spellstutter Sprite and a Crib Swap. 
 
@@ -1096,7 +1108,9 @@ We are done here in Rimini and a blistering Top 8 has left us with a worthy cham
 
     *by Tobias Henke*
 
-![](https://i.ormos.uk/ef/12/ef12f2eff535b2dcade0e447de66210a9053eb94a2002c7ca36be25be50a2aaf.jpg)So this is it: The finals; seven-hundred players have been narrowed down to just these two and only one of them will walk away with the trophy. The match-up is one of extreme contrasts: 5-color Merfolk against mono-white Kithkin, far-traveled Pro Tour superstar against local hero...
+![](https://i.ormos.uk/ef/12/ef12f2eff535b2dcade0e447de66210a9053eb94a2002c7ca36be25be50a2aaf.jpg)
+
+So this is it: The finals; seven-hundred players have been narrowed down to just these two and only one of them will walk away with the trophy. The match-up is one of extreme contrasts: 5-color Merfolk against mono-white Kithkin, far-traveled Pro Tour superstar against local hero...
 
 Nakamura kept a one-land hand, on the draw: Nameless Inversion, Firespout, Jace Beleren, *three*Silvergill Adepts and a Vivid Creek...
 

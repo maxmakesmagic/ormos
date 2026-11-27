@@ -117,7 +117,9 @@ While red/white is conflicted in what it wants, it is not conflicted in how it h
 
 ### What does the guild despise? What negatively drives the guild?
 
-![](https://i.ormos.uk/26/15/261582b36fabc6a0a3bca725acaef4b2aac5321a69aca6f24072e656d57b8453.jpg)The key to understanding what an enemy color pair despises is to look at the other enemies of the two colors and see what those two colors have in common. Red's other enemy is blue while white's other enemy is black. What do blue and black have in common? Sneakiness. Indirectly and subtly accomplishing one's goal. Red/white hates that. Red/white is all about being open and honest about what you're doing. If I'm planning to cave in your skull, I tell you to your face what I'm going to do. 
+![](https://i.ormos.uk/26/15/261582b36fabc6a0a3bca725acaef4b2aac5321a69aca6f24072e656d57b8453.jpg)
+
+The key to understanding what an enemy color pair despises is to look at the other enemies of the two colors and see what those two colors have in common. Red's other enemy is blue while white's other enemy is black. What do blue and black have in common? Sneakiness. Indirectly and subtly accomplishing one's goal. Red/white hates that. Red/white is all about being open and honest about what you're doing. If I'm planning to cave in your skull, I tell you to your face what I'm going to do. 
 
 Red/white is all about being focused and direct. It doesn't get subtlety. It wants to see its enemies coming because it enjoys a good fight. Being sucker punched or stabbed in the back is so not what red/white wants to have happen. Red/white wants things played by the rules. You know, the rules it made. If its enemies don't understand its rules, that's okay. But at least red/white has them. Playing without clear-cut rules is cheating. And red/white does not condone cheating. At least not what it defines as cheating. 
 

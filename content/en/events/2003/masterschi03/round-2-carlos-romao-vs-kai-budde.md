@@ -101,7 +101,9 @@ render_recovery:
   - Possessed Aven
   occurrences: 126
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a238.jpg)This is the kind of battle of the titans that the Masters Series was designed for. At one end of the table, you have the current World Champion in Carlos Romao. Across from him is Kai Budde, the undisputed best Magic player in history. Needless to say, a match like this will gather a large crowd. Romao is playing what he carried to a World Championship- Psychatog. His version is running Shadowmage Infiltrator and Thieving Magpie to gain card advantage, as well as Deep Analysis. Playing these creatures also lets Romao use Cabal Therapy. Budde is playing Mirari's Wake.
+![](http://www.wizards.com/sideboard/images/ptchi03/a238.jpg)
+
+This is the kind of battle of the titans that the Masters Series was designed for. At one end of the table, you have the current World Champion in Carlos Romao. Across from him is Kai Budde, the undisputed best Magic player in history. Needless to say, a match like this will gather a large crowd. Romao is playing what he carried to a World Championship- Psychatog. His version is running Shadowmage Infiltrator and Thieving Magpie to gain card advantage, as well as Deep Analysis. Playing these creatures also lets Romao use Cabal Therapy. Budde is playing Mirari's Wake.
 
 ### Game 1
 
@@ -113,7 +115,9 @@ Romao- 0 Budde- 1
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a240.jpg)A first turn Duress stripped Cunning Wish From Budde's hand, leaving the German with nothing but land. That got a smile of surprise and confidence out of the World Champion. Another Duress was played on turn three, and Budde had drawn Wrath of God, Deep Analysis and Chastise; Analysis was sent to the graveyard. Budde's draw was less than stellar, but Romao's wasn't much better as he missed his fourth land drop. Meanwhile, Budde sacrificed a Verge and flashed back Deep Analysis to get some more resources. Romao found a fourth land, and tapped out for his own Analysis, which gave Budde an opportunity to resolve Compulsion.
+![](http://www.wizards.com/sideboard/images/ptchi03/a240.jpg)
+
+A first turn Duress stripped Cunning Wish From Budde's hand, leaving the German with nothing but land. That got a smile of surprise and confidence out of the World Champion. Another Duress was played on turn three, and Budde had drawn Wrath of God, Deep Analysis and Chastise; Analysis was sent to the graveyard. Budde's draw was less than stellar, but Romao's wasn't much better as he missed his fourth land drop. Meanwhile, Budde sacrificed a Verge and flashed back Deep Analysis to get some more resources. Romao found a fourth land, and tapped out for his own Analysis, which gave Budde an opportunity to resolve Compulsion.
 
 Romao untapped and played Cabal Therapy to take Wrath of God. He then flashed back Analysis. He played Duress on the following turn, and Budde had Counterspell. Shadowmage Infiltrator followed this, which was Memory Lapsed. Budde attempted Mirari's Wake, and Romao had Counterspell. Romao took his turn and tapped out for Haunting Echoes, to make victory a seemingly impossible goal for Kai. His expression didn't change, and he played Mirari. Cabal Therapy took Chastise, and Budde was left with only Seedtime in hand. Shadowmage Infiltrator came into play, and was joined by a Magpie. Budde cycled through some cards and cast Deep Analysis on Romao, adding a copy to the stack. It wasn't the most optimal victory condition, but Echoes had left Kai without many options. Regardless, Psychatog reared its ugly head to finish the job, and it was off to Game 3.
 
@@ -121,7 +125,9 @@ Romao- 1 Budde- 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a239.jpg)Romao mulliganed his opening hand, and had a first turn Duress. He saw two Compulsion, Forest, Mirari's Wake, Wrath of God and Deep Analysis. Budde jokingly pointed to Analysis, but Romao sent Wake to the graveyard. Budde's Compulsion resolved on turn two, and Cabal Therapy took care of Wrath of God. Once again, Romao had mana problems and was stuck at two lands. Budde cycled with Compulsion and drew cards with Analysis. Duress took away Mirari, leaving Budde with only lands in hand for the moment. Romao finally found a third land, and cast the third Duress of the game, taking Elephant Ambush. On the following turn Romao was desperate for lands and targeted himself with Cabal Therapy to discard and cast Deep Analysis. This left him tapped out, and Budde took full advantage, playing Mirari's Wake followed by Mirari. 
+![](http://www.wizards.com/sideboard/images/ptchi03/a239.jpg)
+
+Romao mulliganed his opening hand, and had a first turn Duress. He saw two Compulsion, Forest, Mirari's Wake, Wrath of God and Deep Analysis. Budde jokingly pointed to Analysis, but Romao sent Wake to the graveyard. Budde's Compulsion resolved on turn two, and Cabal Therapy took care of Wrath of God. Once again, Romao had mana problems and was stuck at two lands. Budde cycled with Compulsion and drew cards with Analysis. Duress took away Mirari, leaving Budde with only lands in hand for the moment. Romao finally found a third land, and cast the third Duress of the game, taking Elephant Ambush. On the following turn Romao was desperate for lands and targeted himself with Cabal Therapy to discard and cast Deep Analysis. This left him tapped out, and Budde took full advantage, playing Mirari's Wake followed by Mirari. 
 
 Haunting Echoes was attempted but shrugged off with Memory Lapse. On the next turn Romao flashed back an Analysis, and tapped out to hardcast another, leaving him with only a swamp left. This gave Budde the green light to start going off, and he got two elephants into play with Elephant Ambush. Psychatog wasn't going to help, and Romao conceded.
 

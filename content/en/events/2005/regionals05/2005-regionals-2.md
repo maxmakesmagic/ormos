@@ -53,7 +53,9 @@ archive_source:
   sha256: 43260c07c7ab4a9ed2b3920e1eb9d68798042e94c3d421bed3ec53b15cfb9e92
 render_recovery: []
 ---
-![](https://www.wizards.com/protour/images/reg_lg.jpg)Based on the tremendous response from posting Top 8 decklists from the [2004 Magic State/Province/Territory/Island Champs](/en/events/2004/champs04/2004-champs-decklists) events and the recent [Extended](/en/events/2005/phi05ptq/pro-tourphiladelphia-qualifying-season-extended-top-8-decklists-3) and [Sealed/Booster Draft](/en/events/2005/lon05ptq/pro-tourlondon-qualifying-season-booster-draft-top-8-decklists-58) Pro Tour Qualifier seasons, we've done the same with the Top 8 decklists from the 2005 Regionals events in the United States and Canada. The format is Standard with the complete *Mirrodin* and *Kamigawa* blocks (and post-Affinity bannings). For a review of the Regionals metagame, check out Mike Flores' [Swimming with Sharks](/en/articles/swimmingwithsharks/2005/06-30-resilient-at-regionals) from June 30.
+![](https://www.wizards.com/protour/images/reg_lg.jpg)
+
+Based on the tremendous response from posting Top 8 decklists from the [2004 Magic State/Province/Territory/Island Champs](/en/events/2004/champs04/2004-champs-decklists) events and the recent [Extended](/en/events/2005/phi05ptq/pro-tourphiladelphia-qualifying-season-extended-top-8-decklists-3) and [Sealed/Booster Draft](/en/events/2005/lon05ptq/pro-tourlondon-qualifying-season-booster-draft-top-8-decklists-58) Pro Tour Qualifier seasons, we've done the same with the Top 8 decklists from the 2005 Regionals events in the United States and Canada. The format is Standard with the complete *Mirrodin* and *Kamigawa* blocks (and post-Affinity bannings). For a review of the Regionals metagame, check out Mike Flores' [Swimming with Sharks](/en/articles/swimmingwithsharks/2005/06-30-resilient-at-regionals) from June 30.
 
 *   [Arizona - Phoenix](/en/events/2005/regionals05/2005-regionals-5)
 *   [British Columbia - Burnaby](https://web.archive.org/web/20090603200248/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/regionals05/burnaby)

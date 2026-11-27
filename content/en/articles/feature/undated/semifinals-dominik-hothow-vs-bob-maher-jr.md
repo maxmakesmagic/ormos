@@ -70,7 +70,9 @@ render_recovery: []
 
 ### Game Three
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/443.jpg)Dominik is down 0-2, and he chooses to play first. If Bob Maher, Jr. wins this game, he is the Pro Tour Player of the Year.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/443.jpg)
+
+Dominik is down 0-2, and he chooses to play first. If Bob Maher, Jr. wins this game, he is the Pro Tour Player of the Year.
 
 **Turn one** :  
  D: Play Karplusan Forest  

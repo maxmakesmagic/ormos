@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Warren Marsh*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/167.jpg)Scott has seen many a Top 8, even having a Pro Tour victory under his belt, while in contrast Brian sat opposite, making his first Top 8 appearance. Scott started the game with friendly banter and continued throughout, helping Brian ease into the role and I suspect this also helping Scott a little. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBOS01/167.jpg)
+
+Scott has seen many a Top 8, even having a Pro Tour victory under his belt, while in contrast Brian sat opposite, making his first Top 8 appearance. Scott started the game with friendly banter and continued throughout, helping Brian ease into the role and I suspect this also helping Scott a little. 
 
 Duel 1 
 

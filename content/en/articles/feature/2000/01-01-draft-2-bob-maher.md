@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/253.jpg)Bob Maher, a Pro Tour Veteran and "The Extended King," prefers control decks in both Constructed and Limited formats and seemed to follow this preference in both of his drafts. He drafted a blue/white deck in the first pod and aimed to do that again if luck was on his side.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/253.jpg)
+
+Bob Maher, a Pro Tour Veteran and "The Extended King," prefers control decks in both Constructed and Limited formats and seemed to follow this preference in both of his drafts. He drafted a blue/white deck in the first pod and aimed to do that again if luck was on his side.
 
 The draft:
 

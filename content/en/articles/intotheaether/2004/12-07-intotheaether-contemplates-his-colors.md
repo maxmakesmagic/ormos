@@ -830,7 +830,9 @@ His deck was bizarre and strangely cool. He started with Isamaru, Hound of Konda
 
 *Game 30: Monowhite Samurai*
 
-![](https://i.ormos.uk/b0/6d/b06d5c07918534721091328a3edb5cf11cec546276909e85bcb36008243378fb.jpg)Here was the first time it was clear I was playing against my own deck, especially since he said so. The difference was that he wasn't playing Reciprocate and was instead using Otherworldly Journey (note!). His logic was that this was a beatdown deck, so don't mess around with anything but beatdown. It looked prophetic, too, since he got out some quick Samurai and Nagao, Bound by Honor. When I tried my Reciprocate on his Nagao, he used Blessed Breath to stop me (note!). My saving grace, really, turned out to be Sensei Golden-Tail. I had Kitsune Blademaster and a few other Samurai and just kept loading them up with training counters to stop his assault. After that I played Mothrider Samurai to plink away at his life. He tried an all-out assault, which dropped me to eight life or so but killed his Nagao. Then he played another Nagao and I topdecked my own to kill it. One swing later with all of my guys plus Call to Glory and I had won the mirror match.
+![](https://i.ormos.uk/b0/6d/b06d5c07918534721091328a3edb5cf11cec546276909e85bcb36008243378fb.jpg)
+
+Here was the first time it was clear I was playing against my own deck, especially since he said so. The difference was that he wasn't playing Reciprocate and was instead using Otherworldly Journey (note!). His logic was that this was a beatdown deck, so don't mess around with anything but beatdown. It looked prophetic, too, since he got out some quick Samurai and Nagao, Bound by Honor. When I tried my Reciprocate on his Nagao, he used Blessed Breath to stop me (note!). My saving grace, really, turned out to be Sensei Golden-Tail. I had Kitsune Blademaster and a few other Samurai and just kept loading them up with training counters to stop his assault. After that I played Mothrider Samurai to plink away at his life. He tried an all-out assault, which dropped me to eight life or so but killed his Nagao. Then he played another Nagao and I topdecked my own to kill it. One swing later with all of my guys plus Call to Glory and I had won the mirror match.
 
 *Game 31: Monored Beatdown*
 
@@ -844,7 +846,9 @@ Okay, I've played enough games now to know the deck's relative strengths and wea
 
 ### To Splash Or Not To Splash
 
-![](https://i.ormos.uk/d5/a9/d5a99db7013fe7393890b0c9b1249b0b26d07926d600ddef46c3ed9cc2bc0068.jpg)In my mind, below are all of the cards I think have a place in my modified Way of the Warrior deck. These aren't all of the good cards in each color (remember: I'm talking just *Champions of Kamigawa* now), but rather they are cards I think either a) fit right into the deck's central themes, b) enhance the deck's central themes, c) compensate for one or more of the deck's weaknesses, or d) are just really cool and would make me happy in the deck. It's likely that any cards I add from here on out are on the below list, though of course you may talk me into some different options.
+![](https://i.ormos.uk/d5/a9/d5a99db7013fe7393890b0c9b1249b0b26d07926d600ddef46c3ed9cc2bc0068.jpg)
+
+In my mind, below are all of the cards I think have a place in my modified Way of the Warrior deck. These aren't all of the good cards in each color (remember: I'm talking just *Champions of Kamigawa* now), but rather they are cards I think either a) fit right into the deck's central themes, b) enhance the deck's central themes, c) compensate for one or more of the deck's weaknesses, or d) are just really cool and would make me happy in the deck. It's likely that any cards I add from here on out are on the below list, though of course you may talk me into some different options.
 
 Here is my list of “potentials,” along with perhaps some shocking revelations:
 

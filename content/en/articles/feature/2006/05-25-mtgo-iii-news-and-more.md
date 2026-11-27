@@ -374,7 +374,9 @@ Iron Phoenix was an old-school deck that utilized some of the old “empty hand�
 
 ### Przemek Wołowiec's Civilian-Eye Look at the Magic Invitational
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/mi06/photo11.jpg)[E3 Championship](https://web.archive.org/web/20060525000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline/article032006) [Winner Przemysław Wołowiec](https://web.archive.org/web/20060525000000/http://magic.wizards.com/en/articles/archive/aether-checks-e3-contest-champ-2006-04-13) is back home from the **Magic** Invitational, so I thought we could check in with him and see what he thought of the experience.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/mi06/photo11.jpg)
+
+[E3 Championship](https://web.archive.org/web/20060525000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline/article032006) [Winner Przemysław Wołowiec](https://web.archive.org/web/20060525000000/http://magic.wizards.com/en/articles/archive/aether-checks-e3-contest-champ-2006-04-13) is back home from the **Magic** Invitational, so I thought we could check in with him and see what he thought of the experience.
 
 ***ITA**: So, how was the trip over to L.A. from Poland?*  
 **Przemysław Wołowiec**: The trip was about 15 hours. First we flew to Munich then to L.A. The trip back was a bit longer because we had to wait 4 hours in Frankfurt for our plane. But it was definitely worth it.

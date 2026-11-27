@@ -112,7 +112,9 @@ render_recovery:
   - Kamahl's Sledge
   occurrences: 78
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a958.jpg)Asian Grand Prix fixture Alex Shvartsman is in a bit of a bind. After dropping the unlosable match to teammate Nick Wong last round he has to draft himself a 3-0 deck in order to make Top 8. He summoned his concentration, and set about that task with a look of grim determination.
+![](http://www.wizards.com/sideboard/images/gpkl02/a958.jpg)
+
+Asian Grand Prix fixture Alex Shvartsman is in a bit of a bind. After dropping the unlosable match to teammate Nick Wong last round he has to draft himself a 3-0 deck in order to make Top 8. He summoned his concentration, and set about that task with a look of grim determination.
 
 His first pack was virtually empty, with just a Rabid Elephant that Shvartsman happily took. Afterwards he would explain that this was an excellent turn of events. It dissuaded the drafter on his left hand, Zhengyan Yang, from drafting green, so that if Gerald Camangon on the other side let it through, Shvartsman would be completely hooked up.
 
@@ -126,7 +128,9 @@ Shvartsman was visibly frustrated by his inability to open bombs. He had to take
 
 He also scored Hallowed Healer, Blessed Orator and a crucial Psionic Gift. He was also very happy to see Graceful Antelope come around twelfth. The goods in this pack really helped make up for his dodgy start.
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a956.jpg)Torment again let Shvartsman down in the bomb department. His first-pick options were Balshan Collaborator or Skywing Aven. Shvartsman took the Collaborator hoping for some good black, but in the worst case he could splash the Desire and run a couple of swamps. That aside, he brightened when he was passed Angel of Retribution. It didn't even sting that much to pass Hydromorph Gull.
+![](http://www.wizards.com/sideboard/images/gpkl02/a956.jpg)
+
+Torment again let Shvartsman down in the bomb department. His first-pick options were Balshan Collaborator or Skywing Aven. Shvartsman took the Collaborator hoping for some good black, but in the worst case he could splash the Desire and run a couple of swamps. That aside, he brightened when he was passed Angel of Retribution. It didn't even sting that much to pass Hydromorph Gull.
 
 While there was no good black, the white and blue continued to show up. Militant Monk and Cephalid Sage signed up, joined by Deep Analysis. This last he had to take over Cabal Torturer, and Shvartsman even considered defensive drafting it. He couldn't pass up the card drawing, though. In the late picks he scored his pet card, Pay No Heed, as well as two Obsessive Searches that would go well with his Cephalids.
 

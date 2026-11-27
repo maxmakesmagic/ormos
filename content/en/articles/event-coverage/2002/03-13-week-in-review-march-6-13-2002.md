@@ -165,11 +165,15 @@ Please do not email answers to me. The correct answer will be posted in the next
 
 Courtesy of Scott Seville:
 
-![](https://i.ormos.uk/d5/ab/d5abb7025806e793d950e618910aa5a9666ff34bba98b0a294878f747efb9152.jpg)"I was playing in an online draft, and had a Cephalid Broker which had just become active. I passed the turn, and, on my opponent's upkeep, cast Plagiarize. I then activated Cephalid Broker, targeting him. I drew two cards, he discarded two cards, and then I drew a card for his draw step. Total card advantage: 5!"
+![](https://i.ormos.uk/d5/ab/d5abb7025806e793d950e618910aa5a9666ff34bba98b0a294878f747efb9152.jpg)
+
+"I was playing in an online draft, and had a Cephalid Broker which had just become active. I passed the turn, and, on my opponent's upkeep, cast Plagiarize. I then activated Cephalid Broker, targeting him. I drew two cards, he discarded two cards, and then I drew a card for his draw step. Total card advantage: 5!"
 
 ### Bad Play of the Week
 
-![](https://i.ormos.uk/ad/bc/adbce6d393dc52149c42dbc6f2325e181eb8a6f7241dd4760d591ee21195c996.jpg)Tony Tsai was playing in an early round of a PTQ last weekend. His opponent had Chainer, Dementia Master in play, so Tony was in a bit of trouble. He got very excited when he drew Faceless Butcher - so excited in fact, that he immediately cast the Butcher, choosing to remove Chainer from the game. Tony forgot that Butcher is a Nightmare! When Chainer left play, its effect triggered and removed all other Nightmares (aka Butcher) from the game! Chainer came right back, and Tsai was down four mana and one of his best creatures. 
+![](https://i.ormos.uk/ad/bc/adbce6d393dc52149c42dbc6f2325e181eb8a6f7241dd4760d591ee21195c996.jpg)
+
+Tony Tsai was playing in an early round of a PTQ last weekend. His opponent had Chainer, Dementia Master in play, so Tony was in a bit of trouble. He got very excited when he drew Faceless Butcher - so excited in fact, that he immediately cast the Butcher, choosing to remove Chainer from the game. Tony forgot that Butcher is a Nightmare! When Chainer left play, its effect triggered and removed all other Nightmares (aka Butcher) from the game! Chainer came right back, and Tsai was down four mana and one of his best creatures. 
 
 Despite this, Tsai won the match and went on to win the qualifier. Congratulations!
 

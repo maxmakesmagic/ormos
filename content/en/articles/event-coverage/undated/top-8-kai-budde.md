@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/697.jpg)Kai Budde came to 2000 Pro Tour Chicago directly after making Top 4 in Grand Prix Florence. But in between, he managed to wash his favorite gray striped sweater so that he could bring it to Chicago as well. "It worked in Italy and it worked here," Kai smiles, on the roll again after a year with rather mediocre results. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/697.jpg)
+
+Kai Budde came to 2000 Pro Tour Chicago directly after making Top 4 in Grand Prix Florence. But in between, he managed to wash his favorite gray striped sweater so that he could bring it to Chicago as well. "It worked in Italy and it worked here," Kai smiles, on the roll again after a year with rather mediocre results. 
 
 The 21-year old player from Hamburg, Germany took his mono-white rebel deck to a respectable 11-2-1 finish and went into the playoff as the first seed. "We practiced for about two months," Kai says. He and the rest of the English/German team came to the conclusion that there was no single best deck, and so most of the team members chose decks according to their preferences. "The other alternatives were blue/white control and Fires. I'm not much of a control player, and I'm not the guy who drops green creatures - so it wasn't much of a choice for me," he says in his charming, German-English accent. "I want to put pressure against the other player as I usually have the wrong answers." 
 

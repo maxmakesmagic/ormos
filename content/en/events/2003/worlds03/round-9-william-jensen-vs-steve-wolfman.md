@@ -84,7 +84,9 @@ render_recovery:
   - Insurrection
   occurrences: 42
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a802.jpg)There are few drafters in the world who command as much respect as William Jensen does. The man they call Huey has long been considered one of the best in the business, but this season he's built his resume with a pair of Pro Tour Top 8's. Draft is his specialty, though, and even with a deck he considers sub-optimal he's managed a 2-0 record so far. Up against all that is the self-effacing Steve Wolfman, the Canadian best known as one-third of 2020, the team that had the honor of losing to Phoenix Foundation at Pro Tour – Boston. Wolfman's managed a tough road, dispatching both Brian Kibler and Dirk Baberowski on his way to face the big man, and he hopes his blue-red deck can pull out one more win.
+![](http://www.wizards.com/sideboard/images/worlds03/a802.jpg)
+
+There are few drafters in the world who command as much respect as William Jensen does. The man they call Huey has long been considered one of the best in the business, but this season he's built his resume with a pair of Pro Tour Top 8's. Draft is his specialty, though, and even with a deck he considers sub-optimal he's managed a 2-0 record so far. Up against all that is the self-effacing Steve Wolfman, the Canadian best known as one-third of 2020, the team that had the honor of losing to Phoenix Foundation at Pro Tour – Boston. Wolfman's managed a tough road, dispatching both Brian Kibler and Dirk Baberowski on his way to face the big man, and he hopes his blue-red deck can pull out one more win.
 
 ### Game 1
 
@@ -98,7 +100,9 @@ Wolfman 1 – Jensen 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/worlds03/a803.jpg)Jensen had a quality curve against Wolfman for Game 2. He hit Lightning Rift on the second turn, then followed up with Blade Sliver and Serpentine Basilisk. Wolfman meantime found a Rift of his own, and hoped that Mistform Wall would hold the ground. Crested Craghorn ensured it would not.
+![](http://www.wizards.com/sideboard/images/worlds03/a803.jpg)
+
+Jensen had a quality curve against Wolfman for Game 2. He hit Lightning Rift on the second turn, then followed up with Blade Sliver and Serpentine Basilisk. Wolfman meantime found a Rift of his own, and hoped that Mistform Wall would hold the ground. Crested Craghorn ensured it would not.
 
 A Torrent of Fire from Wolfman finished the Blade Sliver thanks to Lightning Rift. Jensen continued to beat with Serpentine Basilisk. Wolfman bought a turn with Echo Tracer that died to a cycled Tranquil Thicket. The Basilisk came back down, and Wolfman finally got some offense from Skittish Valesk. He let the Basilisk beat him down to eight.
 
@@ -110,7 +114,9 @@ Wolfman 1 – Jensen 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/worlds03/a801.jpg)Jensen mulliganed his opening hand but stayed on his six. Wolfman's seven were slow. He made no play for the first four turns. Jensen cycled Break Asunder and thought his Serpentine Basilisk would fall to Hindering Touch, but it resolved. Wolfman finally got on the board with Covert Operative. Jensen cleared it out with Shock and played a morph.
+![](http://www.wizards.com/sideboard/images/worlds03/a801.jpg)
+
+Jensen mulliganed his opening hand but stayed on his six. Wolfman's seven were slow. He made no play for the first four turns. Jensen cycled Break Asunder and thought his Serpentine Basilisk would fall to Hindering Touch, but it resolved. Wolfman finally got on the board with Covert Operative. Jensen cleared it out with Shock and played a morph.
 
 However, Jensen's power faltered, while Wolfman started making Chartooth Cougars. Jensen had Symbiote and Timberwatch, but no other elves to power it up. He blunted The Wolf's attack for a turn and waited to draw some good cards. Wolfman turned on the beats with a second Cougar. He then added a morph, and Jensen decided it was time. He tapped all but one mana and pulled Insurrection out of his hand. Wolfman couldn't show him the Hindering Touch fast enough. With that, Jensen extended the hand.
 

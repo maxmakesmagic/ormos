@@ -76,7 +76,9 @@ render_recovery:
   - Guildpact Orb of Insight
   occurrences: 2
 ---
-![Guildpact Orb of Insight](https://i.ormos.uk/42/a5/42a5cde464173e88ea4272c3404553956c3d959842d3af8a63135565efcc3d83.jpg)The Orb of Insight has returned!
+![Guildpact Orb of Insight](https://i.ormos.uk/42/a5/42a5cde464173e88ea4272c3404553956c3d959842d3af8a63135565efcc3d83.jpg)
+
+The Orb of Insight has returned!
 
 And just in time for the new year, too, since we're going to start actual card previews on Monday, January 9. For now, though, you can occupy yourself by exploring the Orb. How does it work? Well, that's kind of trade secret, but we can let you know this much: It's *Magic*.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/863.jpg)These two giants of Grand Prixs faced with similar Green/Black base decks, with the exception that Kai played red for a few cards, in particular Goblin Bombardment and Fanning the Flames. Kai decided to play the Bombardment on particular due to the amazing synergy with such cards as Living Plane and Tombstone Stairwell. Alex was riding on what he called "Good Karma" after beating Mike Long the previous round. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/863.jpg)
+
+These two giants of Grand Prixs faced with similar Green/Black base decks, with the exception that Kai played red for a few cards, in particular Goblin Bombardment and Fanning the Flames. Kai decided to play the Bombardment on particular due to the amazing synergy with such cards as Living Plane and Tombstone Stairwell. Alex was riding on what he called "Good Karma" after beating Mike Long the previous round. 
 
 **Game 1** 
 

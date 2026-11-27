@@ -744,7 +744,9 @@ I've heard time and again how good Remand is against suspend cards (and it's tru
 
 <table><tbody><tr><td colspan="3"><b> Do you plan on attending a <i>Time Spiral</i> prerelease event? </b></td>&#10;</tr>&#10;<tr><td>Yes</td>&#10;<td>9361</td>&#10;<td>70.3%</td>&#10;</tr>&#10;<tr><td>No</td>&#10;<td>3950</td>&#10;<td>29.7%</td>&#10;</tr>&#10;<tr><td><b>Total</b></td>&#10;<td><b>13311</b></td>&#10;<td><b>100.0%</b></td>&#10;</tr>&#10;</tbody></table>
 
-[![](https://i.ormos.uk/42/4d/424d43604c60d62daffe91fcbee09c8115d5d7512f65f16bc6a8a1fa128d4558.jpg)](https://web.archive.org/web/20061111103259/http://www.wizards.com/default.asp?x=mtgcom/release/timespiral)Success! The *Time Spiral* round of prereleases was the biggest yet (at least in North America), breaking the record previously held by *Guildpact*. If you didn't go, you missed one heck of an event, but fear not… the store Release Events [are this weekend](https://web.archive.org/web/20061111103259/http://www.wizards.com/default.asp?x=mtgcom/release/timespiral)!
+[![](https://i.ormos.uk/42/4d/424d43604c60d62daffe91fcbee09c8115d5d7512f65f16bc6a8a1fa128d4558.jpg)](https://web.archive.org/web/20061111103259/http://www.wizards.com/default.asp?x=mtgcom/release/timespiral)
+
+Success! The *Time Spiral* round of prereleases was the biggest yet (at least in North America), breaking the record previously held by *Guildpact*. If you didn't go, you missed one heck of an event, but fear not… the store Release Events [are this weekend](https://web.archive.org/web/20061111103259/http://www.wizards.com/default.asp?x=mtgcom/release/timespiral)!
 
   
   

@@ -53,7 +53,9 @@ archive_source:
   sha256: b27c921785d705608a787d0066eccc7e0b107d5a41307768aaec6719ce616064
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gplon03/a962.jpg)When you’re looking to pick out a feature match, there are some names that stand head and shoulders above others, and Brian Kibler and Kai Budde stand taller than most. With both players starting the day with three byes, they’re both looking to get their first victim out of the way and make a good start to their respective campaigns.
+![](http://www.wizards.com/sideboard/images/gplon03/a962.jpg)
+
+When you’re looking to pick out a feature match, there are some names that stand head and shoulders above others, and Brian Kibler and Kai Budde stand taller than most. With both players starting the day with three byes, they’re both looking to get their first victim out of the way and make a good start to their respective campaigns.
 
 Brian played a Blue and White deck, with all the traditional white creature control tools and a little Blue control in Discombobulate and Complicate. Kai, to some surprise, played with Goblins but as he said “It’s not just Sligh, you have Siege Gang Commander.”
 
@@ -67,7 +69,9 @@ Kai took his time and decided to swing right back putting all his men into the R
 
 Kibbler reached for his deck box and started his boarding and his mid-game banter. “Very exciting game there.” “Well, that’s Goblins for you” Kai replied picking up his own sideboard. “I think I have a more predefined sideboard plan that you do” Kibbler shot back, knowing that the White Blue deck he was playing was a little rogue. “I pretty much know what you’re bringing in though” Kai smiled and started shuffling up for game two.
 
-![](http://www.wizards.com/sideboard/images/gplon03/a963.jpg)Brian bought in his Windborn Muses, taking out Stifles, Decree of Justice, and one Akroma. Hoping to slow Kai down and lower the overall cost of his spells. Kai bought in Shock, expecting Foothill Guides and other annoying, small critters. He took out a few goblins.
+![](http://www.wizards.com/sideboard/images/gplon03/a963.jpg)
+
+Brian bought in his Windborn Muses, taking out Stifles, Decree of Justice, and one Akroma. Hoping to slow Kai down and lower the overall cost of his spells. Kai bought in Shock, expecting Foothill Guides and other annoying, small critters. He took out a few goblins.
 
 Game two didn’t start too well for Brian. He had to take a mulligan as his opening hand only had a single Plains and most of his remaining high casting cost spells. Kai kept his. Brian stuck on six.
 

@@ -58,7 +58,9 @@ But Dave used the Seal of Removal to bounce it, and as he had enough creatures t
 
 **Game One Result: Williams 1 - Perez 0** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/144.jpg)The second game was just one huge beating from David Williams. Javier went first, played two lands but then he failed to draw the third land. Dave, on the other hand, got out a Distorting Lens and a Troubled Healer, and when Javier drew a third land on turn four to play a Kyren Sniper, the American got out a Trenching Steed as well. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/144.jpg)
+
+The second game was just one huge beating from David Williams. Javier went first, played two lands but then he failed to draw the third land. Dave, on the other hand, got out a Distorting Lens and a Troubled Healer, and when Javier drew a third land on turn four to play a Kyren Sniper, the American got out a Trenching Steed as well. 
 
 Over the next turns, Javier cast a Wild Jhovall, a Fen Stalker, an Ogre Taskmaster, a Crenullated Wall and a Flowstone Crusher. Sadly enough, those creatures weren't really useful as Williams cast an Oraxid to go with the Distorting Lens, then got out his Spiketail Drake to attack before casting a Steadfast Order and a Cho-Manno, Revolutionary. When a Blockade Runner joined the crew, Javier was dead in two turns. 
 

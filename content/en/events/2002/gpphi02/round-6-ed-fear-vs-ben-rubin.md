@@ -167,7 +167,9 @@ render_recovery:
   - Starlit Sanctum
   occurrences: 191
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a946.jpg)Reporting on a match with Ed Fear in it is almost redundant; Ed, back in the game after a year-long enforced absence thanks to some shady sideboard dealings, narrates his own matches like Don Pardo on acid, discussing every card with comments both obscene and amusing.
+![](http://www.wizards.com/sideboard/images/gpphi02/a946.jpg)
+
+Reporting on a match with Ed Fear in it is almost redundant; Ed, back in the game after a year-long enforced absence thanks to some shady sideboard dealings, narrates his own matches like Don Pardo on acid, discussing every card with comments both obscene and amusing.
 
 Ben Rubin, as usual, needs no introduction. You should know who he is by now. Shame on you. 
 
@@ -204,7 +206,9 @@ Rubin frowned... But only because he failed to draw a land the next turn, and gl
 
 "Okay. I could be."
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a947.jpg)Ed Fear used the time to cycle Lay Waste, and at the end of Ed's turn, Rubin flipped up a Treespring Lorian, then laid a Tribal Golem triumphantly during his next main phrase.
+![](http://www.wizards.com/sideboard/images/gpphi02/a947.jpg)
+
+Ed Fear used the time to cycle Lay Waste, and at the end of Ed's turn, Rubin flipped up a Treespring Lorian, then laid a Tribal Golem triumphantly during his next main phrase.
 
 Ed snatched the card up and read it, eyes wide. "Oh, Billy," he said in a voice not unlike a demonically-possessed Big Bopper. "Haste... TRAMPLE? A Regenerator?" 
 
@@ -237,7 +241,9 @@ He scooped, ending turn 6 at two land.
 
 Game 3, both players were fine. "In like Flynn," said Fear. "And I as well," replied Rubin.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a948.jpg)The game started slowly, as Rubin's first attempt at a creature, a morphed Treespring Lorian, died aborning thanks to a Fear-powered Smother. Rubin followed it up with a Mistform Dreamer.
+![](http://www.wizards.com/sideboard/images/gpphi02/a948.jpg)
+
+The game started slowly, as Rubin's first attempt at a creature, a morphed Treespring Lorian, died aborning thanks to a Fear-powered Smother. Rubin followed it up with a Mistform Dreamer.
 
 "Who splashes for that card?" asked Ed.
 

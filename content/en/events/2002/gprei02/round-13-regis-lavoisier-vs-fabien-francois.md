@@ -255,7 +255,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/gprei02/a907.jpg)Both Regis Lavoisier and Fabien Francois are good French players. Both are relatively unknown outside of their country as they don't often travel much. Today they are still in contention for top 8 with 10-2 records. Francois is running another deck popular with the French today, blue-green madness, while Lavoisier is running the crazy red-blue Draco explosion deck the Japanese debuted at PT Houston.
+![](http://www.wizards.com/sideboard/images/gprei02/a907.jpg)
+
+Both Regis Lavoisier and Fabien Francois are good French players. Both are relatively unknown outside of their country as they don't often travel much. Today they are still in contention for top 8 with 10-2 records. Francois is running another deck popular with the French today, blue-green madness, while Lavoisier is running the crazy red-blue Draco explosion deck the Japanese debuted at PT Houston.
 
 Francois started with a Brainstorm on turn 1 then shuffled away the card he didn't want with a Flooded Strand. He followed with a surprise visitor to the Extended arena – Aquamoeba.
 
@@ -271,7 +273,9 @@ While this didn't kill Francois it left him at a precarious 1 life. He countered
 
 Lavoisier 1-0 Francois
 
-![](http://www.wizards.com/sideboard/images/gprei02/a908.jpg)Francois found an early forest this time and started with the UG classic of turn two Wild Mongrel followed by turn 3 Arrogant Wurm.
+![](http://www.wizards.com/sideboard/images/gprei02/a908.jpg)
+
+Francois found an early forest this time and started with the UG classic of turn two Wild Mongrel followed by turn 3 Arrogant Wurm.
 
 Lavoisier switched 6 cards with a Scroll Rack. He made a Polluted Delta then passed turn. Francois asked if he could attack and Lavoisier got rid of the useless cards on top of his library with the Delta and Racked for the answer.
 
@@ -283,7 +287,9 @@ Game 3 Francois pulled off a Brainstorm/sac land trick of his own. He went for A
 
 Both players proceeded to build up their hands, Francois with Deep Analysis, Lavoisier with an amazing 3 Accumulated Knowledge. A Mongrel from Francois met with a Counterspell, but he could still make a Rootwalla.
 
-![](http://www.wizards.com/sideboard/images/gprei02/a909.jpg)The turn after Francois went to add an elephant token to the mix with Call of the Herd. This sparked an interesting exchange as Lavoisier went for his 4th Accumulated Knowledge in response. Francois attempted to Logic it, this was countered and then Lavoisier dealt with the elephant token with a Chain of Vapor. A Scroll Rack looked good for Lavoisier with all the cards he'd drawn.
+![](http://www.wizards.com/sideboard/images/gprei02/a909.jpg)
+
+The turn after Francois went to add an elephant token to the mix with Call of the Herd. This sparked an interesting exchange as Lavoisier went for his 4th Accumulated Knowledge in response. Francois attempted to Logic it, this was countered and then Lavoisier dealt with the elephant token with a Chain of Vapor. A Scroll Rack looked good for Lavoisier with all the cards he'd drawn.
 
 Francois wasn't getting any quick offence, just another Rootwalla as he flashed back Deep Analysis. He deliberately left himself 3 mana open for Circular Logic.
 

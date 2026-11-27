@@ -134,6 +134,8 @@ Of course, if a player is disqualified for bribery or other violations of the Co
 
 ### Conclusion
 
-![](https://i.ormos.uk/71/ae/71ae7150501a35e22356e7fcb3baa9d023620cddab5c65253203f0c9ae8fc19e.jpg)Will we catch everyone cheating in league play? Of course not. They don't catch everyone in paper **Magic** events, either. Are we sure this will make a huge difference in league behavior? Well, we think it's worth trying. I wouldn't be surprised to see a lot of DQ's during the *Darksteel* Release Leagues--we're likely to be somewhat heavy-handed with the disqualification tool initially. Given the concern many players have expressed about league behavior, we think you'd rather have us hitting the issue hard and adjust as necessary later.
+![](https://i.ormos.uk/71/ae/71ae7150501a35e22356e7fcb3baa9d023620cddab5c65253203f0c9ae8fc19e.jpg)
+
+Will we catch everyone cheating in league play? Of course not. They don't catch everyone in paper **Magic** events, either. Are we sure this will make a huge difference in league behavior? Well, we think it's worth trying. I wouldn't be surprised to see a lot of DQ's during the *Darksteel* Release Leagues--we're likely to be somewhat heavy-handed with the disqualification tool initially. Given the concern many players have expressed about league behavior, we think you'd rather have us hitting the issue hard and adjust as necessary later.
 
 Next week, I should be able to get to the problem child of the *Darksteel* set. I'm also hoping to have a bit more about the communication policy I'm working on and maybe something about what's being tested on the beta server *after* the *Darksteel* release.

@@ -728,7 +728,9 @@ Game 2: GattoV (R/W/G Slivers)
 
 No offense to Gatto V, but it is *never* a good sign for your deck when your opponent double mulligans, and then kills you with a trio of 1/1 creatures. Usually I'll wait a few games to tinker with a deck, but Profusion Confusion needed help, and stat.
 
-![Golgari Rot Farm with a large red X](https://i.ormos.uk/de/d4/ded42a465c73e7b2e78e9e991f8ead0138cce5a60c8513f49178a6fe71e047f5.jpg)First off—Golgari Rot Farm had to go. The entire deck is reliant on untapping lands with Early Harvest, and the Rot Farm did not work in this paradigm. I could definitely replace it with basic lands without any problems.
+![Golgari Rot Farm with a large red X](https://i.ormos.uk/de/d4/ded42a465c73e7b2e78e9e991f8ead0138cce5a60c8513f49178a6fe71e047f5.jpg)
+
+First off—Golgari Rot Farm had to go. The entire deck is reliant on untapping lands with Early Harvest, and the Rot Farm did not work in this paradigm. I could definitely replace it with basic lands without any problems.
 
 Secondly—Haakon and Smallpox didn't really have a place in this new deck. Smallpox was great when I could discard madness cards, but Profusion Confusion doesn't want to lose cards in hand or lands on the board. Aside from Smallpox or reaching three cards in hand with Null Profusion on the board, I didn't have a way to reliably get Haakon into the graveyard. Plus, the deck was either going to win with a massive Consume Spirit to the noggin', or not at all—attacking for three wasn't going to make a difference.
 

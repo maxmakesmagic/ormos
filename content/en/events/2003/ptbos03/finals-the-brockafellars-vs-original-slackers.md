@@ -141,7 +141,9 @@ render_recovery:
 ---
 It's been said by many players that in the OLS limited format, the color matchups are secondary, and it's the individual cards that matter. Nowhere is this more true than in the black on black matchup, where traditional card valuations can be thrown out the window. Gluttonous Zombie? A mere 3/3 for 4B. Severed Legion? A Grey Ogre. Skinthinner? The chances of it killing something crucial are much lower, ditto for Cruel Revival. Dragon Shadow is junk, Infernal Caretaker could backfire.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a778.jpg)Other cards go the other direction and get better- Anurid Murkdiver is an all-star, Shepherd of Rot can end games in an instant, Gempalm Polluter can cycle for surprisingly high amounts of damage, and Soulless One is totally insane. It's like a bizarro-world of Magic, where you wear a hats on your feet, and hamburgers eat people. 
+![](http://www.wizards.com/sideboard/images/ptbos03/a778.jpg)
+
+Other cards go the other direction and get better- Anurid Murkdiver is an all-star, Shepherd of Rot can end games in an instant, Gempalm Polluter can cycle for surprisingly high amounts of damage, and Soulless One is totally insane. It's like a bizarro-world of Magic, where you wear a hats on your feet, and hamburgers eat people. 
 
 William Jensen and Jake Smith sat down under the lights on Sunday to play one such matchup, with the biggest stakes imaginable on the line- a Pro Tour Championship. 
 
@@ -157,7 +159,9 @@ Smith blocked Legion with Polluter and the Corpse Harvester went to work as soon
 
 Suddenly, Smith's board looked awful- a lonely morph against Corpse Harvester, Nantuko Husk, and an enemy morph. The Original Slacker patched things up with Chartooth Cougar and passed the turn. Still, he was in big trouble without an answer to Jensen's Corpse Harvester, which would eventually win Huey the game given enough time. In fact, it was possible that the damage had already been done- the one activation so far had had devastating results.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a779.jpg)Smith's woes were amplified tenfold when Jensen played Soulless One, a card so ridiculous in the black on black matchup that it nearly defies description. For only four mana, it dropped onto the board at a lithe 7/7, leaving Jensen with deadly attackers, solid defenders, and the mana to use his Corpse Harvester. He passed the turn, and Smith tapped out for Macetail Hystrodon on his own turn in an attempt to stem the tide.
+![](http://www.wizards.com/sideboard/images/ptbos03/a779.jpg)
+
+Smith's woes were amplified tenfold when Jensen played Soulless One, a card so ridiculous in the black on black matchup that it nearly defies description. For only four mana, it dropped onto the board at a lithe 7/7, leaving Jensen with deadly attackers, solid defenders, and the mana to use his Corpse Harvester. He passed the turn, and Smith tapped out for Macetail Hystrodon on his own turn in an attempt to stem the tide.
 
 Huey, who had been holding two copies of Clutch of Undeath virtually the entire game, decided to use one to beef up his Soulless One, powering the Zombie Avatar up to 10/10. It was only a second before it was crashing through the red zone. There were no good options for poor Jake Smith, who could chump block and end up in an impossible board position, triple block and end up with nothing on the table (and possibly not even kill the Soulless One, if Jensen's morph was a Zombie) or take ten damage and fall to two. 
 

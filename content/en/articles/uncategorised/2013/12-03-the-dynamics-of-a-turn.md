@@ -61,7 +61,9 @@ Greetings and welcome back to the little column we like to call Magic Academy. O
 
 ### Just the FAQs, ma'am
 
-![](http://archive.wizards.com/magic/images/academy/4_rulebook.jpg)All right, to start this adventure, allow me to point to two handy resources that you may not have accessed before, but that you will want to be aware of now and in the future. The first handy resource is the [basic rulebook](http://archive.wizards.com/magic/rules/mtg9edrulebook_en.pdf) (1 MB pdf). This is what I expect you to have some knowledge of as we stride forward into the great unknown. While I am going to repeat some of the information contained therein, it's possible that what we discuss today will be moderately confusing if you haven't walked through the basic rulebook at least once. The rulebook is written in an easy-to-understand fashion, and the info there is still good for an occasional refresher course even for the more advanced player. If questions should arise during your early playing days, go to the section of the basic rulebook that talks about whatever subject you are having a problem with and see if the answer presents itself.
+![](http://archive.wizards.com/magic/images/academy/4_rulebook.jpg)
+
+All right, to start this adventure, allow me to point to two handy resources that you may not have accessed before, but that you will want to be aware of now and in the future. The first handy resource is the [basic rulebook](http://archive.wizards.com/magic/rules/mtg9edrulebook_en.pdf) (1 MB pdf). This is what I expect you to have some knowledge of as we stride forward into the great unknown. While I am going to repeat some of the information contained therein, it's possible that what we discuss today will be moderately confusing if you haven't walked through the basic rulebook at least once. The rulebook is written in an easy-to-understand fashion, and the info there is still good for an occasional refresher course even for the more advanced player. If questions should arise during your early playing days, go to the section of the basic rulebook that talks about whatever subject you are having a problem with and see if the answer presents itself.
 
 The next, slightly-more-daunting resource is the Comprehensive Rules, which [can be found here](https://web.archive.org/web/20131203000000/http://archive.wizards.com/Magic/TCG/Article.aspx?x=magic/rules/tourneyplayer). This is where the in-depth rules for tournament players can be found, and it's designed to answer pretty much any question that would arise in the course of *any* **Magic** game. Of course, when you are new to the game, it can also be like slapping you upside the head with a baseball bat of information overload, so for now just expect me to touch on the basics.
 
@@ -75,7 +77,9 @@ Created with the addition of the Sixth Edition rules, the stack is where spells 
 
 How does it work? Well, a player (we'll call him Ben) with priority plays a spell or ability, and it is added to the stack. At this point, Ben has the option of adding additional spells or abilities on top of the stack (note: this means you can respond to your own spells or abilities), or they can choose to pass priority to their opponent (we'll call him Opie) and see if the spell or ability resolves. Once Opie has priority, he can then add spells or abilities to the stack on top of Ben's, or he can pass. Priority goes back and forth until both players pass in a row. When both players pass, the spell or ability on top of the stack (the last card played) resolves. This is commonly referred to as "Last In, First Out" or LIFO. After each spell or ability resolves, the active player (the player whose turn it is) gets priority again.
 
-![](http://archive.wizards.com/magic/images/academy/4_stack.jpg)At first that may sound complicated, but as you get used to using it in practice it will become second nature. To show this using an example, Ben decides he wants to cast Grizzly Bears, so he adds the Grizzly Bears to the stack. Opie doesn't have any way of stopping the Bears from resolving, so he passes, meaning the Grizzly Bears are now in play and the stack is now empty.
+![](http://archive.wizards.com/magic/images/academy/4_stack.jpg)
+
+At first that may sound complicated, but as you get used to using it in practice it will become second nature. To show this using an example, Ben decides he wants to cast Grizzly Bears, so he adds the Grizzly Bears to the stack. Opie doesn't have any way of stopping the Bears from resolving, so he passes, meaning the Grizzly Bears are now in play and the stack is now empty.
 
 Ben says he is done casting spells for now. Opie has a deep-seated hatred of bears from a previous forest hike, and decides that the bears must die. Therefore, now that the bears are in play, he places a Shock onto the table, targeting the bears. Ben decides he wants the bears to live, so he casts Giant Growth, also targeting the bears. The Giant Growth goes on the stack, on top of the Shock.
 
@@ -237,7 +241,9 @@ That's all I've got for today, folks. Next week we'll discuss how you figure out
 
 ### Additional Reading
 
-![](http://archive.wizards.com/magic/images/academy/4_counterspell.jpg)Nothing yields an enormous stack quite like a counterspell war. For those of you interested in a sample mammoth stack, check out this monster from a match during German Nationals in 2003, pictured to the right.
+![](http://archive.wizards.com/magic/images/academy/4_counterspell.jpg)
+
+Nothing yields an enormous stack quite like a counterspell war. For those of you interested in a sample mammoth stack, check out this monster from a match during German Nationals in 2003, pictured to the right.
 
 One of the classic "end of turn" decks of all time was Astral Slide, piloted to a Pro Tour victory by Osyp "Joe Black" Lebedowicz. Here's a nasty [Astral Slide mirror match from round 13 of Pro Tour--Venice](https://web.archive.org/web/20131203000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptven03/fm13) where both players are doing tons of stacking and using end of turn triggers in a battle for a Top 8 slot, showing the kinds of things you'll be capable of as you get more comfortable with how turns work.
 

@@ -138,7 +138,9 @@ render_recovery:
   - Whipkeeper
   occurrences: 157
 ---
-![](https://i.ormos.uk/20/65/2065bfbfe8cff55c36d1806982e1126ceeac4af2140af1c67c9c16f7884ccdc5.jpg)Brian Davis is the American kid who stormed through Pro Tour Chicago before Bob Maher Jnr stopped his charge in the final and has been competing successfully on the Pro Tour since. Eivind Nitter is the current European Champion and is no slouch at this format after making the finals Grand Prix Vienna.
+![](https://i.ormos.uk/20/65/2065bfbfe8cff55c36d1806982e1126ceeac4af2140af1c67c9c16f7884ccdc5.jpg)
+
+Brian Davis is the American kid who stormed through Pro Tour Chicago before Bob Maher Jnr stopped his charge in the final and has been competing successfully on the Pro Tour since. Eivind Nitter is the current European Champion and is no slouch at this format after making the finals Grand Prix Vienna.
 
 Both are within touching distance of the top 8 with 10-2 records. Davis has a green-black deck splashing red and Nitter has a blue-white deck also splashing red although you wouldn't have guessed this from the first game.
 
@@ -166,7 +168,9 @@ Davis 1-0 Nitter
 
 In game 2 Nitter found land and held off Davis's early beats in the form of Organ Grinder and Crypt Creeper with a Phantom Whelp and Dreamwinder.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a759.jpg)Davis sac'ed off a Diligent Farmhand to find his second swamp so he could cast his Carrion Wurm. Normally it would be a problem but Nitter had the Kirtar's Desire to neutralise it.
+![](http://www.wizards.com/sideboard/images/ptnice02/a759.jpg)
+
+Davis sac'ed off a Diligent Farmhand to find his second swamp so he could cast his Carrion Wurm. Normally it would be a problem but Nitter had the Kirtar's Desire to neutralise it.
 
 Nitter brought out Hypochondria and they traded a couple of removal. Nitter Syncopated Davis's Nantuko Disciple and Davis used Crippling Fatigue to remove Nitter's Dreamwinder.
 
@@ -200,7 +204,9 @@ Davis continued to pose problems as a Painbringer appeared and was followed by a
 
 Finally Nitter found a 5th land and could think about offence as Hydromorph Gull swooped into play. Defence was more of a problem though as Davis sac'ed the Creeper to remove the Repel in Nitter's graveyard and give him a card in his own graveyard to feed the Painbringer so it could remove the Monk.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a762.jpg)The Carrion Wurm wandered into the red zone and was pumped by the Nantuko disciple for a fat 8 points of damage to drop Nitter to 3.
+![](http://www.wizards.com/sideboard/images/ptnice02/a762.jpg)
+
+The Carrion Wurm wandered into the red zone and was pumped by the Nantuko disciple for a fat 8 points of damage to drop Nitter to 3.
 
 The Norwegian wasn't done. Auramancer dug back a Desire to hold the Carrion Wurm and he sac'ed an Outpost for red mana so he could Firebolt the Disciple.
 

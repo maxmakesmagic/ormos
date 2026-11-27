@@ -108,7 +108,9 @@ Julie Baroh's Clone, from Alpha, was an interesting piece rendered in colored pe
 
 ![Cloning Clone](https://i.ormos.uk/cd/a3/cda357ab0f37d7228ffad38b19de76c42fbbd9501693f06991be0d77f95440ca.jpg)
 
-![Morphling](https://i.ormos.uk/52/5e/525e7d976e3ca0f6289774813feef2c2d70ba72ef55fbcd9ce9dd3178f6e3504.jpg)Another well-know piece of art, Morphling by rk post, is similar in appearance to Clone, even though it isn't a "copy" card per se. Morphling was actually designed to be a sort of "rules-friendly" Clone - a card that could simulate other creatures without actually copying them. That's why the art is similar to Clone's.
+![Morphling](https://i.ormos.uk/52/5e/525e7d976e3ca0f6289774813feef2c2d70ba72ef55fbcd9ce9dd3178f6e3504.jpg)
+
+Another well-know piece of art, Morphling by rk post, is similar in appearance to Clone, even though it isn't a "copy" card per se. Morphling was actually designed to be a sort of "rules-friendly" Clone - a card that could simulate other creatures without actually copying them. That's why the art is similar to Clone's.
 
   
   

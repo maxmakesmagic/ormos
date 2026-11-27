@@ -484,7 +484,9 @@ The game plans for both decks were quite different, but there are some obvious c
 
 For 2005 Champs, [choosing a Dredge deck](http://www.starcitygames.com/php/news/article/10708.html) happened to be a potent choice against the many control decks that had arisen to fight the Boros menace. [Wrath of God](https://web.archive.org/web/20060316000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) just wasn't that scary when I could “draw” a creature from my graveyard each turn afterwards. If all I'm looking for is good times and occasional success on a local level, there's nothing wrong with specializing in a color, colors, or type of deck. Some people prefer control decks, some prefer Red decks. The problem is that strength is also a weakness if you want to reach for something bigger.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds05/poy_kenji.jpg)As an illustration, let's look at 2005 Pro Tour Player of the Year Kenji Tsumura and the Constructed decks he's played over the past year or so. Here's a quick rundown:
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds05/poy_kenji.jpg)
+
+As an illustration, let's look at 2005 Pro Tour Player of the Year Kenji Tsumura and the Constructed decks he's played over the past year or so. Here's a quick rundown:
 
 2004 Oct PT Columbus (Extended) Black Desire  
  2005 Feb GP Boston (Extended) ScepterChant  

@@ -41,4 +41,6 @@ render_recovery: []
 
 In today's second podcast, I talk about a design topic near and dear to my heart: the importance of an emotional connection between the game and the players. If you enjoy my high-end design philosophy, this podcast is for you.
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

@@ -44,7 +44,9 @@ archive_source:
   sha256: 5c20f61331eef3461f6d0126896fd77f1a51e4c92c343da8f2a4aaae944b3c23
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a506.jpg)These players have been seeing a lot of each other this weekend. They met in the first round of the Team competition and Tuomo Nieminen eliminated Gabe Walls from the Top 8 prior to the start of this draft. This was the third time Gabe and Tuomo would face off in less than twenty-four hours.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a506.jpg)
+
+These players have been seeing a lot of each other this weekend. They met in the first round of the Team competition and Tuomo Nieminen eliminated Gabe Walls from the Top 8 prior to the start of this draft. This was the third time Gabe and Tuomo would face off in less than twenty-four hours.
 
 Yesterday's draft went slightly in the Finn's favor but Justin pulled out a stunning win when his opponent had lethal damage on the stack. He used a [Skirk Alarmist](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Alarmist) to flip up an off color [Frontline Strategist](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frontline+Strategist) and steal Game 2 from Arho Toikka. The American took Game 3. Gabe Walls had dropped two straight to Tuomo and the match came down to a National Champions battle.
 
@@ -166,7 +168,9 @@ Gabe: "Yeah but which ones are bad?"
 
 No one would go so far as to say they had a bad match-up but Justin did admit, "My opponent's deck is very good."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a505.jpg)Josh: "So is mine" Josh was excited about [Infest](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Infest) in his match although Tomi did not fear it very much. He was not sure whether or not he should run the [Lingering Death](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lingering+Death) when his opponent had two [Echo Tracer](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Tracer)s but his teammates reminded him about the Murkdiver. If Tomi had to bounce and replay his Murkdiver the tempo swing would be tremendous. Tomi was planning on saving the tempo swing for his opponent's [Twisted Abomination](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Twisted+Abomination)s.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a505.jpg)
+
+Josh: "So is mine" Josh was excited about [Infest](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Infest) in his match although Tomi did not fear it very much. He was not sure whether or not he should run the [Lingering Death](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lingering+Death) when his opponent had two [Echo Tracer](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Tracer)s but his teammates reminded him about the Murkdiver. If Tomi had to bounce and replay his Murkdiver the tempo swing would be tremendous. Tomi was planning on saving the tempo swing for his opponent's [Twisted Abomination](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Twisted+Abomination)s.
 
 Justin's only problem with his deck was a deficiency in the two-drop department. He values dirge-effects highly—[Wave of Indifference](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wave+of+Indifference), [Flamewave Invoker](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamewave+Invoker) and [Torrent of Fire](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Torrent+of+Fire)—and he did not want to lose in the early game when the late game was clearly his. "That Wave should have never come around."
 

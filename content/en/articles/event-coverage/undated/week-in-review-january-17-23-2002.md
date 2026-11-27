@@ -190,7 +190,9 @@ Budde now holds the unprecedented record with 5 Pro Tour wins AND 5 Grand Prix w
 
 ### Coming Up: *Torment* Prerelease
 
-![](https://i.ormos.uk/c6/87/c6879aba0b6705ead71983e04bd51195058a91d13c461fd5ae1f7c2fbc58f524.jpg)The new set is about to be unveiled this weekend. This has been probably the most previewed set in history, with so many cards uncovered on *The Sideboard*, on [MagicTheGathering.com](https://web.archive.org/web/20210125012938/http://www.wizards.com/default.asp?x=mtgcom) and in *InQuest*. There are even more cards revealed in the [*Torment* FAQ](/en/events/2002/sb20020123a/torment-faq), which you should definitely read before heading out to the Prerelease.
+![](https://i.ormos.uk/c6/87/c6879aba0b6705ead71983e04bd51195058a91d13c461fd5ae1f7c2fbc58f524.jpg)
+
+The new set is about to be unveiled this weekend. This has been probably the most previewed set in history, with so many cards uncovered on *The Sideboard*, on [MagicTheGathering.com](https://web.archive.org/web/20210125012938/http://www.wizards.com/default.asp?x=mtgcom) and in *InQuest*. There are even more cards revealed in the [*Torment* FAQ](/en/events/2002/sb20020123a/torment-faq), which you should definitely read before heading out to the Prerelease.
 
 ### New Pro Tour Locations
 
@@ -219,7 +221,9 @@ Please do not email answers to me. The correct answer will be posted in the next
 
 ### Play of the Week
 
-![](https://i.ormos.uk/3b/d7/3bd7604569e47eb48fb87171cfa52b8662bf2f0b3d87b63082817676c20766cd.jpg)It's Zombie Infestation week here at the Play/Bad Play section. 
+![](https://i.ormos.uk/3b/d7/3bd7604569e47eb48fb87171cfa52b8662bf2f0b3d87b63082817676c20766cd.jpg)
+
+It's Zombie Infestation week here at the Play/Bad Play section. 
 
 Courtesy of Tim Willoughby
 

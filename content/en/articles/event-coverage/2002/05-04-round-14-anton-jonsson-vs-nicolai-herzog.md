@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a738.jpg)The final round threw up an all-Scandinavian clash. At stake is one of the remaining places in the Top 8. Jonsson in a Swedish player who broke out with a Top 8 appearance a Pro Tour New Orleans. Nicolai Herzog is a former European Champion who was part of the Norwegian national team that finished runner-up to USA last year.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a738.jpg)
+
+The final round threw up an all-Scandinavian clash. At stake is one of the remaining places in the Top 8. Jonsson in a Swedish player who broke out with a Top 8 appearance a Pro Tour New Orleans. Nicolai Herzog is a former European Champion who was part of the Norwegian national team that finished runner-up to USA last year.
 
 Anton Jonsson has a very fast red-green deck while Nicolai Herzog has a white-black deck that received no help from *Torment*.
 

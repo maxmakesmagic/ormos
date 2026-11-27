@@ -52,6 +52,8 @@ archive_source:
   sha256: 3839c393e6680c89d3cfef3496b451363f59a62d6fb081d4a8b1df3b33092081
 render_recovery: []
 ---
-![Brian Tinsman](https://i.ormos.uk/22/7d/227ddd1c0c433ae4c7d52162e4dadc16037fdc5d5a9ca38188a539a7ac404c5b.jpg)You run into Brian Tinsman. You and he and are in the same meeting. Luckily, Brian knows that the meeting is in “Leomund’s Tiny Hut,” a little-known meeting room tucked in the back corner of the first floor. You follow Brian to the meeting room. You get there as the meeting is about to start.
+![Brian Tinsman](https://i.ormos.uk/22/7d/227ddd1c0c433ae4c7d52162e4dadc16037fdc5d5a9ca38188a539a7ac404c5b.jpg)
+
+You run into Brian Tinsman. You and he and are in the same meeting. Luckily, Brian knows that the meeting is in “Leomund’s Tiny Hut,” a little-known meeting room tucked in the back corner of the first floor. You follow Brian to the meeting room. You get there as the meeting is about to start.
 
  **[Start the meeting.](https://web.archive.org/web/20030210000000/https://www.wizards.com/magic/mr58process.asp?go=38)**

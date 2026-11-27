@@ -431,7 +431,9 @@ render_recovery:
 ---
 * * *
 
-![Mark Herberholz](http://wizards.com/sideboard/images/ptsd04/fm25_1.jpg)You might have heard people mention Mark Herberholz. A player from Ann Arbor, Herberholz was weaned on the skills of Pat Chapin and Eric "Danger" Taylor. This is definitely his breakout performance, as he's sitting pretty at 11-2. His opponent Masashi Oiso hasn't slowed down since picking up the Rookie of the Year title last season. Herberholz has every reason to be nervous.
+![Mark Herberholz](http://wizards.com/sideboard/images/ptsd04/fm25_1.jpg)
+
+You might have heard people mention Mark Herberholz. A player from Ann Arbor, Herberholz was weaned on the skills of Pat Chapin and Eric "Danger" Taylor. This is definitely his breakout performance, as he's sitting pretty at 11-2. His opponent Masashi Oiso hasn't slowed down since picking up the Rookie of the Year title last season. Herberholz has every reason to be nervous.
 
 "I'd also like to say that RIW Hobbies made it possible for me to be here." - Mark Herberholz
 

@@ -155,7 +155,9 @@ If you are in a very large draft, be on the lookout for wacky things. You could 
 
 Hate Drafting
 
-![](http://wizards.com//mtg/images/daily/li/li68_twin.jpg)For more on hate drafting in eight-person drafts, check out [this article](https://web.archive.org/web/20091208000000/https://magic.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/ss8) by Steve's evil twin.
+![](http://wizards.com//mtg/images/daily/li/li68_twin.jpg)
+
+For more on hate drafting in eight-person drafts, check out [this article](https://web.archive.org/web/20091208000000/https://magic.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/ss8) by Steve's evil twin.
 
 In an eight-plus-person draft I rarely hate-draft, as the costs typically far outweigh the benefits. In smaller drafts, however, you do have a sizable effect over the quality of your opponents' decks.
 

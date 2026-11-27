@@ -52,7 +52,9 @@ archive_source:
   sha256: f3c850c095df4e1fcbd6bffe73c2b0146919728841eea93b110882345d21c4f6
 render_recovery: []
 ---
-![Skaff](https://i.ormos.uk/7f/e4/7fe4523bbb222bad4de72d84ecebcf1f83eb8496b4f3a364586ff094d0520dd0.jpg)Skaff is a master in continuing an argument. He doesn’t give you a chance to get away. You are stuck here for the next several hours.
+![Skaff](https://i.ormos.uk/7f/e4/7fe4523bbb222bad4de72d84ecebcf1f83eb8496b4f3a364586ff094d0520dd0.jpg)
+
+Skaff is a master in continuing an argument. He doesn’t give you a chance to get away. You are stuck here for the next several hours.
 
 ### YOU LOSE!
 

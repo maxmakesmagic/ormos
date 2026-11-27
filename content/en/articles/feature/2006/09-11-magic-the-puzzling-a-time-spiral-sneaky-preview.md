@@ -169,7 +169,9 @@ To find out the first creature type, I've provided five groups below. For each g
 
 **Creature Type 2:**
 
-![Mistform_Ultimus](https://i.ormos.uk/32/31/32318da49cc6d0ed81d98ae94a5b7ced8455b3197bebcfc06f02c9a1af680a84.jpg)Since [Mistform Ultimus](https://web.archive.org/web/20060911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Ultimus) was excluded from the first part of the puzzle, it is only fair that a trivia question based on M.U. will reveal PREVIEW\_CARD's second creature type.
+![Mistform_Ultimus](https://i.ormos.uk/32/31/32318da49cc6d0ed81d98ae94a5b7ced8455b3197bebcfc06f02c9a1af680a84.jpg)
+
+Since [Mistform Ultimus](https://web.archive.org/web/20060911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Ultimus) was excluded from the first part of the puzzle, it is only fair that a trivia question based on M.U. will reveal PREVIEW\_CARD's second creature type.
 
 Readers of **magicthegathering.com** were asked to submit short stories celebrating the day that [Mistform Ultimus](https://web.archive.org/web/20060911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Ultimus) obtained what creature type? 
 

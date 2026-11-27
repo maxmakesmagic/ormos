@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/4f/5c/4f5ccf556e03be2dcea1957d7efa4fcb81009a8749b49ad391b6934fc0ac7b51.jpg)Planned for an on-sale date of September 10th, 2007, *Masters Edition* is a 195 card, **Magic Online** only set of some of the greatest cards from **Magic's** past. All cards in the set have appeared in pre-*Mirage***Magic** sets and will appear with their original artwork and old-style frames.
+![](https://i.ormos.uk/4f/5c/4f5ccf556e03be2dcea1957d7efa4fcb81009a8749b49ad391b6934fc0ac7b51.jpg)
+
+Planned for an on-sale date of September 10th, 2007, *Masters Edition* is a 195 card, **Magic Online** only set of some of the greatest cards from **Magic's** past. All cards in the set have appeared in pre-*Mirage***Magic** sets and will appear with their original artwork and old-style frames.
 
 Offered as a booster-only product, *Masters Edition* will be on sale for a limited time and then removed from our product offering. At least one month of notice with announcements here on the website and in forums will precede removing *Masters Edition* from the **Magic Online** store. Leagues, Premier Events and draft queues will begin offering *Masters Edition* product in events when release events begin on September 14th. 
 

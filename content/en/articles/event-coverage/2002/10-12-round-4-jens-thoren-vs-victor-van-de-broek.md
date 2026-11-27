@@ -44,7 +44,9 @@ archive_source:
   sha256: 09f0f0eb6690fa658de68c4fa227194564aafdc1e8f6a44f6803d88046062b9c
 render_recovery: []
 ---
-![](https://i.ormos.uk/4b/72/4b72eccd436cdea1e1b92e2fc6f429fc7c89973c29841ec4bb3e5d844ed2c1f4.jpg)Victor and Jens both had three byes today, so this was the first round they actually had to work for their points. Vic had been complaining about his deck all day and facing someone like Jens in round 4 is not the best start of your day.
+![](https://i.ormos.uk/4b/72/4b72eccd436cdea1e1b92e2fc6f429fc7c89973c29841ec4bb3e5d844ed2c1f4.jpg)
+
+Victor and Jens both had three byes today, so this was the first round they actually had to work for their points. Vic had been complaining about his deck all day and facing someone like Jens in round 4 is not the best start of your day.
 
 ### Game 1
 

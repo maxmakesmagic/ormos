@@ -239,13 +239,17 @@ render_recovery:
 ---
 "I can't believe this. First, I have to play my boyfriend, then I have to play the guy who made my deck!"
 
-![](http://www.wizards.com/sideboard/images/gpmil02/894.jpg)A lot was riding on the results of this match. If he won, uber-Potato and Pro Tour staple Mike Turian would be assured a berth in the Top 8. If Liz Lempicki won, she'd have a very good shot at making the Top 8. Lempicki, currently dating Chris Benafel, hasn't put up a great result in a big event, but she certainly has the play skills to vie with the best.
+![](http://www.wizards.com/sideboard/images/gpmil02/894.jpg)
+
+A lot was riding on the results of this match. If he won, uber-Potato and Pro Tour staple Mike Turian would be assured a berth in the Top 8. If Liz Lempicki won, she'd have a very good shot at making the Top 8. Lempicki, currently dating Chris Benafel, hasn't put up a great result in a big event, but she certainly has the play skills to vie with the best.
 
 Both players were running the blue-green-red Liquid Tempo deck: 74 out of 75 cards exactly the same. The deck wins by using Squirrel Nest to churn out a huge number of squirrels. Opposition provided the lock. In a mirror match, the key cards are Fire/Ice (which could kill mana critters, squirrels and Merfolk Looters), Merfolk Looters, and Deep Analysis. Turian had more time playtesting the mirror match, but it was anyone's ballgame.
 
 Lempicki won the roll and played first. She drew a hand with Squirrel Nest, Opposition, Flametongue Kavu, and 4 lands that would allow her to play all of her spells. Turian mulliganed a zero-land hand, and kept a hand with four land, a Birds of Paradise, and Fire/Ice.
 
-![](http://www.wizards.com/sideboard/images/gpmil02/892.jpg)Turian played a Bird on the first turn. Lempicki topdecked a Llanowar Elves, which would help her play her combo a turn earlier. Turian followed up with a Merfolk Looter. Lempicki played a Squirrel Nest on her untapped Yavimaya Coast. In the spirit of fair play, Turian matched her with a Nest of his own. 
+![](http://www.wizards.com/sideboard/images/gpmil02/892.jpg)
+
+Turian played a Bird on the first turn. Lempicki topdecked a Llanowar Elves, which would help her play her combo a turn earlier. Turian followed up with a Merfolk Looter. Lempicki played a Squirrel Nest on her untapped Yavimaya Coast. In the spirit of fair play, Turian matched her with a Nest of his own. 
 
 When Lempicki untapped and played Opposition, Turian showed why a pro of his stature got where he was. Most players would blanch when faced with the speed of the combo being played. In a pro wrestling match, a wrestler would normally 'sell' the devestating blow with expressions of great pain. Like the Undertaker or Hulk Hogan, however, Turian showed absolutely no ill effect at the solid play. Of course, he had an ace up his sleeve.
 
@@ -255,7 +259,9 @@ Mike Turian - Elizabeth Lempicki 1-0
 
 Lempicki: "Those early Fire/Ices. How lucky!" Turian: "How lucky, indeed!"
 
-![](http://www.wizards.com/sideboard/images/gpmil02/893.jpg)Sadly, Game 2 was a lackluster affair. Lempicki had a hand with Islands, Birds of Paradise, and many other good things, but no Forests. She played the three Islands, but failed to draw a Forest in her first 10 draws (aided by a flashbacked Deep Analysis she discarded). In the meantime, Turian took the opportunity to play out Birds, Merfolk Looters and play Deep Analysis five times. Two turns after Lempicki got her first Forest, Turian completely smashed her with a Static Orb. Lempicki extended the handshake.
+![](http://www.wizards.com/sideboard/images/gpmil02/893.jpg)
+
+Sadly, Game 2 was a lackluster affair. Lempicki had a hand with Islands, Birds of Paradise, and many other good things, but no Forests. She played the three Islands, but failed to draw a Forest in her first 10 draws (aided by a flashbacked Deep Analysis she discarded). In the meantime, Turian took the opportunity to play out Birds, Merfolk Looters and play Deep Analysis five times. Two turns after Lempicki got her first Forest, Turian completely smashed her with a Static Orb. Lempicki extended the handshake.
 
 Mike Turian defeats Elizabeth Lempicki 2-0
 

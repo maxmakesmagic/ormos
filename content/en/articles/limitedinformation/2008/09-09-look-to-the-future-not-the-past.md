@@ -105,7 +105,9 @@ You should always make the best play that you can think of, even if it feels a b
 
 ### But How Good Is it Right Now?
 
-[![Freed_from_the_Real](https://i.ormos.uk/9a/64/9a64e28e9d838026f25d32a1cfc04f254764ae9ef17ce1ae0b4a22311b7a4473.jpg)](https://web.archive.org/web/20080909000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Freed%2Bfrom%2Bthe%2BReal)I'll see people make the mistake of misevaluating cards that are in play, or in someone's hand, based on their abstract value instead of their real value all the time.
+[![Freed_from_the_Real](https://i.ormos.uk/9a/64/9a64e28e9d838026f25d32a1cfc04f254764ae9ef17ce1ae0b4a22311b7a4473.jpg)](https://web.archive.org/web/20080909000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Freed%2Bfrom%2Bthe%2BReal)
+
+I'll see people make the mistake of misevaluating cards that are in play, or in someone's hand, based on their abstract value instead of their real value all the time.
 
 How good a card (or a fraction of a card) is in the abstract doesn't actually matter when you're playing a game. While both players' potential for future output does matter a lot when you are trying to determine your plays, the source of the cards already in play shouldn't actually matter.
 
@@ -151,7 +153,9 @@ But if your opponent's [Lys Alana Huntmaster](https://web.archive.org/web/200809
 
 ### Both Players' Future Output Is Very Important
 
-[![Goldmeadow_Lookout](https://i.ormos.uk/24/52/24520c0915d8127c36d61705215d9e7187a22ac9901321a4ba76a7185cc844b2.jpg)](https://web.archive.org/web/20080909000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Goldmeadow%2BLookout)I've already mentioned that you want to be sure to treat 1/1 tokens as real creatures, but what happens when you know your opponent can make more of them? If your opponent is popping out a token every turn with [Selesnya Evangel](https://web.archive.org/web/20080909000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Selesnya+Evangel), or two tokens with [Cenn's Enlistment](https://web.archive.org/web/20080909000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cenn%27s+Enlistment) on a regular basis, then you need to take that into account when you are making your plays.
+[![Goldmeadow_Lookout](https://i.ormos.uk/24/52/24520c0915d8127c36d61705215d9e7187a22ac9901321a4ba76a7185cc844b2.jpg)](https://web.archive.org/web/20080909000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Goldmeadow%2BLookout)
+
+I've already mentioned that you want to be sure to treat 1/1 tokens as real creatures, but what happens when you know your opponent can make more of them? If your opponent is popping out a token every turn with [Selesnya Evangel](https://web.archive.org/web/20080909000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Selesnya+Evangel), or two tokens with [Cenn's Enlistment](https://web.archive.org/web/20080909000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cenn%27s+Enlistment) on a regular basis, then you need to take that into account when you are making your plays.
 
 So, if your opponent has no way of generating new tokens, and they have two 1/1s in play, then you will probably be more than happy to trade your 2/2 for the two 1/1s. But, if instead, your opponent is pumping out two 1/1s every other turn with [Cenn's Enlistment](https://web.archive.org/web/20080909000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cenn%27s+Enlistment), then you very well might want to leave your 2/2 back as a blocker to help discourage attacking.
 

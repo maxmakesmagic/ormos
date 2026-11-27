@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/919.jpg)The centerpieces of two respective **Magic** Online teams squared off this round (Mike from Team CMU and Neil from the board-leading Southeast Locals), each having fought to a 7-2-1 record. Both players were in joking moods, as evidenced by the first exchange after they sat down:
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/919.jpg)
+
+The centerpieces of two respective **Magic** Online teams squared off this round (Mike from Team CMU and Neil from the board-leading Southeast Locals), each having fought to a 7-2-1 record. Both players were in joking moods, as evidenced by the first exchange after they sat down:
 
 Neil: You hate me.  
  Mike: I don't hate you.  
@@ -66,7 +68,9 @@ Matt: Your crowd is just me and Bleiweiss.
 
 ### Game One
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/920.jpg)Mike won the die roll, and chose to play first. Mike also chose to mulligan first, keeping a slow hand with lands and high casting cost spells. Neil stayed with a risky hand, playing two pain lands and a [Crosis's Catacombs](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crosis%27s+Catacombs) by turn three. "This is going to be really embarrassing", Neil proclaimed, returning a land to his hand to play the dragon's lair. The Potato threw some steam in the pressure cooker with a [Call of the Herd](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd) and [Squirrel Nest](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squirrel+Nest).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/920.jpg)
+
+Mike won the die roll, and chose to play first. Mike also chose to mulligan first, keeping a slow hand with lands and high casting cost spells. Neil stayed with a risky hand, playing two pain lands and a [Crosis's Catacombs](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crosis%27s+Catacombs) by turn three. "This is going to be really embarrassing", Neil proclaimed, returning a land to his hand to play the dragon's lair. The Potato threw some steam in the pressure cooker with a [Call of the Herd](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd) and [Squirrel Nest](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squirrel+Nest).
 
 Finally, NeilR began drawing more consistent lands, sowing an Island, [Underground River](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Underground+River), [Shivan Reef](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Reef) and [Shadowblood Ridge](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowblood+Ridge) in successive turns. These were used to bring out a [Nightscape Familiar](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nightscape+Familiar), a [Psychatog](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) and to Repulse the token elephant out of the game. Spurred on by the toothsome visage of everyone's favorite 1/2 creature, Neil sang this song:
 

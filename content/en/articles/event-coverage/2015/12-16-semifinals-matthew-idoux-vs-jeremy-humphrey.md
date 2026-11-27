@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Omeed Dariani*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b29.JPG)After a long quarterfinal battle with a Replenish deck, Matthew Idoux was not very excited about the prospect of another long and drawn out game, though he was pleased with his chances in the matchup. Matthew had built his Draw-go deck (The Three Hour Tour) around a combination of situational and free counterspells, with the intent to protect a Thieving Magpie. Jeremy Humphrey's Replenish deck was very by the book and at a disadvantage in this match, since it was the design Matthew had prepared against. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b29.JPG)
+
+After a long quarterfinal battle with a Replenish deck, Matthew Idoux was not very excited about the prospect of another long and drawn out game, though he was pleased with his chances in the matchup. Matthew had built his Draw-go deck (The Three Hour Tour) around a combination of situational and free counterspells, with the intent to protect a Thieving Magpie. Jeremy Humphrey's Replenish deck was very by the book and at a disadvantage in this match, since it was the design Matthew had prepared against. 
 
 ### Game 1
 
@@ -56,6 +58,8 @@ Idoux 1, Humphrey 0
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b27.JPG)Both players began a slow build-up towards the turn four flashpoint that is the key to this matchup. Matthew had a trick up his sleeve, though - Temporal Adept. He was able to disrupt Jeremy completely, as all of Jeremy's key spells cost four. The Adept spent a lot of time bouncing things, until Matthew drew a Boomerang. In one turn, he bounced Jeremy's only two Plains, forever denying him the two white mana required for several key spells. This gave Idoux plenty to time to acquire mana, which he used to play Morphling. With Morphling in play, the game became a simply exercise for Idoux, who simply countered Humphrey's last three spells and won with the Morphling.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b27.JPG)
+
+Both players began a slow build-up towards the turn four flashpoint that is the key to this matchup. Matthew had a trick up his sleeve, though - Temporal Adept. He was able to disrupt Jeremy completely, as all of Jeremy's key spells cost four. The Adept spent a lot of time bouncing things, until Matthew drew a Boomerang. In one turn, he bounced Jeremy's only two Plains, forever denying him the two white mana required for several key spells. This gave Idoux plenty to time to acquire mana, which he used to play Morphling. With Morphling in play, the game became a simply exercise for Idoux, who simply countered Humphrey's last three spells and won with the Morphling.
 
 Idoux defeated Humphrey, 2-0

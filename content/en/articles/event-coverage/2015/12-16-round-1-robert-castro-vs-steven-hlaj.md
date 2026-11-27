@@ -56,7 +56,9 @@ Game 2
 
 Before game two began, the players had an opportunity to sideboard. Robert Castro sideboarded in a fourth Cave-in and three Powder Kegs for three Stone Rains and a Pillage. Steven Hlaj brought in two Absolute Laws to nullify red removal spells and two Seals of Cleansing to help deal with Masticore, Keg, and Chimeric Idol.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b05.JPG)Steven chose to go first this game and he began with a second turn Defiant Falcon, followed up by a third turn Steadfast Guard. Robert Castro cast a Seal of Fire and killed the Falcon before it could begin searching, but then Steven cast a Crusade and a Ramosian Lieutenant over the next two turns, putting the pressure on Robert to find an answer. Because of the Crusade, Robert had to use both a Cave-in and a Seal of Fire to kill the Ramosian Lieutenant, knocking Steven's life total down to 17 and his own life total down to 8. Steven then attacked for three, cast a Masticore, and quickly finished off Castro to win game two.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b05.JPG)
+
+Steven chose to go first this game and he began with a second turn Defiant Falcon, followed up by a third turn Steadfast Guard. Robert Castro cast a Seal of Fire and killed the Falcon before it could begin searching, but then Steven cast a Crusade and a Ramosian Lieutenant over the next two turns, putting the pressure on Robert to find an answer. Because of the Crusade, Robert had to use both a Cave-in and a Seal of Fire to kill the Ramosian Lieutenant, knocking Steven's life total down to 17 and his own life total down to 8. Steven then attacked for three, cast a Masticore, and quickly finished off Castro to win game two.
 
 Game 3
 

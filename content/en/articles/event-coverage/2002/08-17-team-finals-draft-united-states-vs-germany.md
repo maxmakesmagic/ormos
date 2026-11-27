@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 6
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a564.jpg)The Irish can play Standard. The Dutch can booster draft, and the Germans are great at block constructed.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a564.jpg)
+
+The Irish can play Standard. The Dutch can booster draft, and the Germans are great at block constructed.
 
 But no one, not even Kai "Phoenix Foundation" Budde, can top the Americans in three-man team Rochester. At least that's how it seemed after four rounds and a playoff yesterday. Even when the packs didn't break their way, or they made significant play errors, or they were faced with superior opponents, the Americans somehow found ways to win. None of them finished in the money of the individual event, but now they are in the team finals where they have dominated over the life of this event.
 

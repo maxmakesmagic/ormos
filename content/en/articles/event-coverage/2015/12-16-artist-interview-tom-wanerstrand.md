@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](https://i.ormos.uk/79/14/791459d3ed0c57a75283c378312a6de1699a66d2637d1b6f3964499a81fd10c5.jpg)Tomas Robert Wänerstrand is a first generation Swedish-American, and he grew up going to Sweden to visit relatives in the summertime. So he enjoyed being in Helsinki to sign cards at the Grand Prix event. "It's nice being here. The cool air is fantastic. It feels like home," Tom says. 
+![](https://i.ormos.uk/79/14/791459d3ed0c57a75283c378312a6de1699a66d2637d1b6f3964499a81fd10c5.jpg)
+
+Tomas Robert Wänerstrand is a first generation Swedish-American, and he grew up going to Sweden to visit relatives in the summertime. So he enjoyed being in Helsinki to sign cards at the Grand Prix event. "It's nice being here. The cool air is fantastic. It feels like home," Tom says. 
 
 The 34-year old artist has been making illustrations for Magic: the Gathering since the start in 1993. "Jesper Myrfors, who is friend of mine, was the art director for Magic. He started looking for illustrators for the first set, so he tapped into a lot of people he knew from art school or that he knew were artists. He asked me to do some pieces, and I did," Tom explains. 
 

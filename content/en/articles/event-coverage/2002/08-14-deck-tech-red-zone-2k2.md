@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/58/ee/58ee2fea1586775af28e09c4e07a79c92884583734a86df999bbfde1aca3ea15.jpg)Brian Kibler didn't get his reputation for being one of the best deck design minds in the game by sticking to the tried and true. He had his hands in some of the most influential designs of the last few years.
+![](https://i.ormos.uk/58/ee/58ee2fea1586775af28e09c4e07a79c92884583734a86df999bbfde1aca3ea15.jpg)
+
+Brian Kibler didn't get his reputation for being one of the best deck design minds in the game by sticking to the tried and true. He had his hands in some of the most influential designs of the last few years.
 
 At the 2000 World Championships he had helped work on the Tinker deck that shared the finals, as well as the Masques Block Constructed Nether Spirit deck. His fourth-place finish at Pro Tour Chicago in 2000 with his own Red Zone design confirmed his skills.
 

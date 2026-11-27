@@ -169,7 +169,9 @@ render_recovery:
 
 　先手は国吉。
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a882.jpg)　《クローサの境界/Krosan Verge》から安定してマナを並べ、《法の領域/Sphere of Law》を設置と、《赤の防御円/Circle of Protection: Red》よりも使い良いメタカードを早々にキャスト。
+![](http://www.wizards.com/sideboard/images/gpyok03/a882.jpg)
+
+　《クローサの境界/Krosan Verge》から安定してマナを並べ、《法の領域/Sphere of Law》を設置と、《赤の防御円/Circle of Protection: Red》よりも使い良いメタカードを早々にキャスト。
 
 　だが柳は怯まない。
 

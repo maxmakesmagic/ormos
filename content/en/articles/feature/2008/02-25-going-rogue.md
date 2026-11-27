@@ -779,7 +779,9 @@ In **Magic**, there are various ways to have an edge on the competition. Having 
 
 Rogues are fighting against good decks, but much more so, they are fighting against the knowledge and preparation of their opponents. Most of the time, this will be with a deck that opponents are unprepared for—ideally, a good deck, which has a good plan against the other good decks, while opponents have no plan against it. Add up those edges, and you start winning. 
 
-![Knowledge_Exploitation](https://i.ormos.uk/25/83/25836a5aec14c5fcef709cd032d7e6e006168ca7c8f401b29d8cae1a95882a37.jpg)Rogue play is more than just decklists though. Sometimes it comes down to innovating in what you do with your 75 cards as much as it does rather than what they might be. Carlos Romao became the World Champion playing Psychatog in a field full of people doing just the same. His list was far from standout in its construction. However, his plan, to fight over win conditions with his counterspells rather than over card drawing, was a step away from the norm, which was key in his dominating mirror matches both in the Swiss rounds and the Top 8. 
+![Knowledge_Exploitation](https://i.ormos.uk/25/83/25836a5aec14c5fcef709cd032d7e6e006168ca7c8f401b29d8cae1a95882a37.jpg)
+
+Rogue play is more than just decklists though. Sometimes it comes down to innovating in what you do with your 75 cards as much as it does rather than what they might be. Carlos Romao became the World Champion playing Psychatog in a field full of people doing just the same. His list was far from standout in its construction. However, his plan, to fight over win conditions with his counterspells rather than over card drawing, was a step away from the norm, which was key in his dominating mirror matches both in the Swiss rounds and the Top 8. 
 
 Should everyone try to play as a rogue all the time? No. Playing powerful decks from the Pro Tour is fun. These decks have been tuned and tweaked, and when you play with one, you get to make the most of the knowledge and experience of the best in the game. These decks *just work*. On top of that, the decks tend to be really powerful. It's hard to argue with success right?
 

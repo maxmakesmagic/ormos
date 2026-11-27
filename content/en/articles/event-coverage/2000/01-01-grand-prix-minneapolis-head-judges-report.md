@@ -46,7 +46,9 @@ render_recovery: []
 ---
 Grand Prix Minneapolis will go down as one of the smoothest events in the history of competitive **Magic**. After a rough start, the remainder of the season's final *Invasion* Block Constructed tournament went of without a hitch.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPMINN01/992.jpg)An administrative problem led to the event to start a bit late, but that was the end of the difficulties. The crowd of 410 players played through 13 rounds without a single disqualification or major incident. The players were extremely well-behaved, polite, and sportsmanlike.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPMINN01/992.jpg)
+
+An administrative problem led to the event to start a bit late, but that was the end of the difficulties. The crowd of 410 players played through 13 rounds without a single disqualification or major incident. The players were extremely well-behaved, polite, and sportsmanlike.
 
 Leading to the quality of the event was the quality of the Judging staff. We had only 9 other Judges for the Main Event, but the quality of their work more than compensated for the meager numbers. Team Leaders Darrell Wyatt (Level 3) and Nick Hable (Level 2) were ably assisted by Kevin Dolbeare (Level 2), Christian Sieber (Level 2), Chris Richter (Level 1), Marc Dudda (Level 1), Stephen Rufer (Level 1), Kurt Hahn (Level 1), and Ingrid Lind-John (who passed her Level 1 test with an outstanding score of 92%). The whole Judge team jelled together extremely well. The floor was always covered, and deck checks were done in a timely fashion. In fact, no check exceeded 10 minutes.
 

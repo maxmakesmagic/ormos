@@ -96,7 +96,9 @@ render_recovery:
   - Vengeful Dreams
   occurrences: 93
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a716.jpg)This situation is familiar ground for Anton Jonsson, who has had a breakout season with two Pro Tour Top 8s, and a Top 8 at Euros. A win here would put him in contention for Top 8, and would be a great way to cap off his season. On the other hand, Krouner has never played in front of the cameras, although he came very close at US Nationals where he came in ninth on tiebreakers. This is his opportunity to make it there for the first time, and in the most prestigious tournament of the year. Today's tournament has certainly been a roller coaster for Ken, as he started off 0-3 before going 12-0, which was followed by 0-2.
+![](http://www.wizards.com/sideboard/images/worlds02/a716.jpg)
+
+This situation is familiar ground for Anton Jonsson, who has had a breakout season with two Pro Tour Top 8s, and a Top 8 at Euros. A win here would put him in contention for Top 8, and would be a great way to cap off his season. On the other hand, Krouner has never played in front of the cameras, although he came very close at US Nationals where he came in ninth on tiebreakers. This is his opportunity to make it there for the first time, and in the most prestigious tournament of the year. Today's tournament has certainly been a roller coaster for Ken, as he started off 0-3 before going 12-0, which was followed by 0-2.
 
 Krouner- "I haven't planned for winning or losing. My reaction is going to be off the cuff."
 
@@ -110,7 +112,9 @@ Krouner- 0 Jonsson- 1
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/worlds02/a718.jpg)Krouner cast a second turn Mongrel, and Jonsson played a Quiet Speculation of his own, getting two Deep Analysis and Battle Screech. Krouner brought out Werebear, and Jonsson summoned Dogged Hunter. Mental Note put Grizzly Fate into Krouner's graveyard, and his team attacked for three. Jonsson cast a Deep Analysis out of the graveyard, played Suntail Hawk, and decided not to flash back the Screech. On end step, Aether Burst bounced the Hunter, and Krouner attacked for nine, discarding Roar, Moment's Peace and a land to his Mongrel to get threshold. Roar was flashed back right away, putting some significant pressure on Jonsson. The tempo advantage proved to be too much, and it was off to Game 3.
+![](http://www.wizards.com/sideboard/images/worlds02/a718.jpg)
+
+Krouner cast a second turn Mongrel, and Jonsson played a Quiet Speculation of his own, getting two Deep Analysis and Battle Screech. Krouner brought out Werebear, and Jonsson summoned Dogged Hunter. Mental Note put Grizzly Fate into Krouner's graveyard, and his team attacked for three. Jonsson cast a Deep Analysis out of the graveyard, played Suntail Hawk, and decided not to flash back the Screech. On end step, Aether Burst bounced the Hunter, and Krouner attacked for nine, discarding Roar, Moment's Peace and a land to his Mongrel to get threshold. Roar was flashed back right away, putting some significant pressure on Jonsson. The tempo advantage proved to be too much, and it was off to Game 3.
 
 Krouner- 1 Jonsson- 1
 
@@ -122,7 +126,9 @@ Krouner- (Points to Wonder) "It's a Wall of Wonder! Sorry, that was bad."
  (Jonsson discards Glory, swings for five damage)  
  Krouner- "...or you could just do that."
 
-![](http://www.wizards.com/sideboard/images/worlds02/a721.jpg)Luckily, Krouner had the answer in his graveyard. He untapped, flashed back the Reclamation on Glory, and made a Wurm. Jonsson had a third Hawk and still couldn't attack without devastating his side. It didn't help that Jonsson had yet to draw a fourth land. Krouner tapped seven and hard cast another Roar, and did not attack due to Jonsson's Advocate. This put Krouner into a weird position, where he could be forced to trade a Wurm for two Mental Notes. Both Wurms attacked, and all of Jonsson's creatures ganged up on one of the 6/6 monsters. Before damage, Krouner Aether Bursted Spurmage Advocate, and the other one killed off the unblocked Wurm. Jonsson had Prismatic Strands to save his creatures, and Krouner went back to work, making another Wurm. .
+![](http://www.wizards.com/sideboard/images/worlds02/a721.jpg)
+
+Luckily, Krouner had the answer in his graveyard. He untapped, flashed back the Reclamation on Glory, and made a Wurm. Jonsson had a third Hawk and still couldn't attack without devastating his side. It didn't help that Jonsson had yet to draw a fourth land. Krouner tapped seven and hard cast another Roar, and did not attack due to Jonsson's Advocate. This put Krouner into a weird position, where he could be forced to trade a Wurm for two Mental Notes. Both Wurms attacked, and all of Jonsson's creatures ganged up on one of the 6/6 monsters. Before damage, Krouner Aether Bursted Spurmage Advocate, and the other one killed off the unblocked Wurm. Jonsson had Prismatic Strands to save his creatures, and Krouner went back to work, making another Wurm. .
 
 Jonsson replayed the bounced Advocate and played another. He followed up by discarding Battle Screech and flashing it back. Oh, for want of a fourth land. Krouner untapped, thought for a bit, and cast Mental Note. It put Reclamation into his graveyard, and Aether Burst bounced the only untapped Advocate. This also gave Krouner threshold, making his two Werebears 4/4. Both Wurms attacked, and Prismatic Strands was flashed back to save Jonsson for at least a turn. This was followed by a threshold Grizzly Fate, putting Jonsson into a really bad position. 
 

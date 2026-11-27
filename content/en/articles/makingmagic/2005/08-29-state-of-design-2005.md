@@ -91,7 +91,9 @@ To understand where **Magi**c design stands today, I have to start with a little
 
 ### First Stage (from Alpha through *Alliances*)
 
-![](https://i.ormos.uk/c1/ad/c1adf9d39320b35267742230bfc809e7e1964965a5af6bdad17bad83df52cb6c.jpg)In the beginning, **Magic** design was very much about the individual card. That is, attention was paid to make each card as rich as possible. The cards were flavorful, evocative, and created a sense of awe. That was important, as the game was in its infancy. And remember, nature makes babies cute on purpose. **Magic** was beginning its phenomenal debut and to do that the game had to appeal on a visceral level, which meant it had to be cool. (Not to say that it doesn't have to be cool now – it does – but modern day **Magic** is more about the conglomerate of the design than just the individual card; although don't worry, we will still make individually cool cards – whew, this is a long parenthetical aside)
+![](https://i.ormos.uk/c1/ad/c1adf9d39320b35267742230bfc809e7e1964965a5af6bdad17bad83df52cb6c.jpg)
+
+In the beginning, **Magic** design was very much about the individual card. That is, attention was paid to make each card as rich as possible. The cards were flavorful, evocative, and created a sense of awe. That was important, as the game was in its infancy. And remember, nature makes babies cute on purpose. **Magic** was beginning its phenomenal debut and to do that the game had to appeal on a visceral level, which meant it had to be cool. (Not to say that it doesn't have to be cool now – it does – but modern day **Magic** is more about the conglomerate of the design than just the individual card; although don't worry, we will still make individually cool cards – whew, this is a long parenthetical aside)
 
 There was no official Head Designer title in this first stage but its function was filled by a combination of Richard Garfield and the East Coast Playtesters (Skaff Elias, Jim Lin, Dave Petty, and Chris Page – the designers of *Antiquities*, *Fallen Empires*, *Ice Age* and *Alliances*). The great success of the first stage was obviously its ability to turn **Magic** into a monster hit. Overnight it captured hundreds of thousands of gamers (later millions) and made the trading card game genre a core gaming staple.
 
@@ -99,7 +101,9 @@ The downside of this type of design is that it sacrificed larger connectivity. T
 
 ### Second Stage (from *Mirage* through *Prophecy*)
 
-![](https://i.ormos.uk/df/4f/df4f15a50ee174d3c40dbff03dbbbc71dbd213abf4598a95a259ee846daf0f5d.jpg)The second stage was defined by the creation of the block. Rather than design set by set, R&D would start to think of each year (well, “**Magic** year”) as its own entity. The three sets (one large and two small) would share mechanics and flavor and would be designed to be played together in limited. Ideas brought up in the first set would be expanded upon in the second and third sets, allowing the designers the freedom to evolve their designs over multiple sets. 
+![](https://i.ormos.uk/df/4f/df4f15a50ee174d3c40dbff03dbbbc71dbd213abf4598a95a259ee846daf0f5d.jpg)
+
+The second stage was defined by the creation of the block. Rather than design set by set, R&D would start to think of each year (well, “**Magic** year”) as its own entity. The three sets (one large and two small) would share mechanics and flavor and would be designed to be played together in limited. Ideas brought up in the first set would be expanded upon in the second and third sets, allowing the designers the freedom to evolve their designs over multiple sets. 
 
 The Head **Magic** Designer of this stage was Joel Mick. In addition to the creation of blocks, Joel did a lot of necessary housecleaning. For the rules, Joel pushed for a major clean-up and revamping which would lead to the *Sixth Edition* Rules that the game is now played with. Joel took steps to codify templates to make sure that each mechanic and ability not only read the same on every card but was worded in a manner to make sure players could figure out what it meant. The color pie was also cleaned up but as we will see the major work on that would come in the next stage.
 
@@ -107,7 +111,9 @@ The weakness of this stage was that it created blocks that were very undefined. 
 
 ### Third Stage (*Invasion* through *Saviors of Kamigawa*)
 
-![](https://i.ormos.uk/69/6f/696f288565f497d0c32f3015fd7f6b166499a87b0e1108ccc5fbdadaa8e88708.jpg)The third stage's innovation was the theme. Blocks were all given a crystal clear identity that not only made the sets easier to understand by the consumer but also made them easier to design by R&D. (For more on the importance of themes, feel free to check out my column on the importance of themes, “[Lions, Tigers and Bears](https://web.archive.org/web/20050829000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr55)”) 
+![](https://i.ormos.uk/69/6f/696f288565f497d0c32f3015fd7f6b166499a87b0e1108ccc5fbdadaa8e88708.jpg)
+
+The third stage's innovation was the theme. Blocks were all given a crystal clear identity that not only made the sets easier to understand by the consumer but also made them easier to design by R&D. (For more on the importance of themes, feel free to check out my column on the importance of themes, “[Lions, Tigers and Bears](https://web.archive.org/web/20050829000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr55)”) 
 
 The Head **Magic** Designer of this stage was Bill Rose. Besides creating themes, Bill took a great deal of time finding ways to improve on all aspects of the game from tweaking the sets to improve limited play (both in sealed and draft) to instituting loose quotas to make sure that the different styles of players received “their cards” each set to tightening and reevaluating the color pie. It is my opinion that the third wave was the wave of the most significant gains in design technologies.
 
@@ -131,7 +137,9 @@ Okay, okay, enough with the build-up. What am I going to do to bring **Magic** i
 
 ### Step #1 – Institute Block Design
 
-![](https://i.ormos.uk/9d/13/9d13fc00ad9d68b6570b64a9fc86b21f791ad38624f1876848db7b98c0c44224.jpg)If you trace the evolution of **Magic** design, you'll notice that it keeps expanding its focus. In the beginning the focus was on individual cards. Then sets. Then blocks. But while we've been creating themes for blocks for years, we haven't really been designing blocks. We've been designing sets that go together, but not really blocks as an entity.
+![](https://i.ormos.uk/9d/13/9d13fc00ad9d68b6570b64a9fc86b21f791ad38624f1876848db7b98c0c44224.jpg)
+
+If you trace the evolution of **Magic** design, you'll notice that it keeps expanding its focus. In the beginning the focus was on individual cards. Then sets. Then blocks. But while we've been creating themes for blocks for years, we haven't really been designing blocks. We've been designing sets that go together, but not really blocks as an entity.
 
 To explain this problem, I'm going to have to compare **Magic** design to television writing. (If I'd been a plumber before joining Wizards of the Coast, you see a lot of metaphors about pipes and, well, things plumbers do – what do I know about plumbing?) When you're writing an ongoing series, there are two ways to do it. First is the “loose ends” technique. The way this technique works is that you always write your stories to leave unresolved issues (aka loose ends). Then when you get to the next part of the story, you find a loose end you like and expand upon it, always, of course, leaving new loose ends.
 
@@ -149,7 +157,9 @@ There's not much else I can say other than you'll have to wait and see what I me
 
 ### #2 – Design Between Blocks
 
-![](https://i.ormos.uk/ca/34/ca347db54015bcd70fb274756052d610fec9ed62aa27559ae0453adf43301a6e.jpg)I feel that themes were a crucial advancement in **Magic** design. That said, time has shown us that themes carry some baggage. In R&D we've referred to this as the “block problem”. Our themes of recent years have been so insular and focused that we've created a world where decks evolve from a single block. Standard has devolved into decks from Block A fighting decks from Block B. This is bad. **Magic** design needs to fix it.
+![](https://i.ormos.uk/ca/34/ca347db54015bcd70fb274756052d610fec9ed62aa27559ae0453adf43301a6e.jpg)
+
+I feel that themes were a crucial advancement in **Magic** design. That said, time has shown us that themes carry some baggage. In R&D we've referred to this as the “block problem”. Our themes of recent years have been so insular and focused that we've created a world where decks evolve from a single block. Standard has devolved into decks from Block A fighting decks from Block B. This is bad. **Magic** design needs to fix it.
 
 So what do we do? Stop doing themes? Heavens no. The problem isn't themes. It's how themes are executed. We need to re-evaluate how we use our themes. “Theme X is important, play a lot of theme X”, for instance, has proven problematic. It forces players to so overload their decks on the theme that cards that aren't hyper-focused on the theme have no room in the deck. 
 

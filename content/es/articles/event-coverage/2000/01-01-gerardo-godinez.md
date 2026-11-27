@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *Por Alejo Zagalsky*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat146.jpg)Gerardo "Chicklick" Godinez estuvo todo el torneo en las primeras posiciones, y entro primero, con su mazo el Chicklick Trinity.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat146.jpg)
+
+Gerardo "Chicklick" Godinez estuvo todo el torneo en las primeras posiciones, y entro primero, con su mazo el Chicklick Trinity.
 
 Gerardo tomo dos de los mazos del momento, el Angry Hermit (que tuvo fue el Segundo mazo del torneo, detras del Replenish) y el Trinity green, tomando las mejores cosas de cada uno, y agregandole su toque personal.
 

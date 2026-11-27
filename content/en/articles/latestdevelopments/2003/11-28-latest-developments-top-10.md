@@ -203,7 +203,9 @@ This wasn’t a binding choice, but it was a debate that the *Eighth Edition* de
 
 ### [Should Starter-level cards be in the base set?](/en/articles/latestdevelopments/2002/07-19-the-new-reprint-policy)
 
-![](https://i.ormos.uk/ee/e9/eee95f90154ab858f1574350523b2672cd859185054a0d9fab472c65be33d5f2.jpg)I’m still not sure I understand why so many of you were so offended by the presence of a dozen simple, mediocre cards in the Core Set, but it became clear to us over the course of that conversation that you were. Based on your feedback, we introduced the “S-series” and now you’ll never be burdened by opening up Eager Cadet in a booster pack again.
+![](https://i.ormos.uk/ee/e9/eee95f90154ab858f1574350523b2672cd859185054a0d9fab472c65be33d5f2.jpg)
+
+I’m still not sure I understand why so many of you were so offended by the presence of a dozen simple, mediocre cards in the Core Set, but it became clear to us over the course of that conversation that you were. Based on your feedback, we introduced the “S-series” and now you’ll never be burdened by opening up Eager Cadet in a booster pack again.
 
 ### [Do you like to play with lifegain cards?](/en/articles/latestdevelopments/2002/06-28-life-is-not-for-everyone)
 

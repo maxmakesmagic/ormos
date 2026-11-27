@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a743.jpg)As Marco and Elijah settled into play their match the seasoned veteran explained to the rookie that he could not have paper on the table while the match was underway. Elijah was uncomfortable not tracking his own life totals but the judge put his concerns to rest by explaining how that he would keep track of the definitive life totals and both players would have constant access to the information.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a743.jpg)
+
+As Marco and Elijah settled into play their match the seasoned veteran explained to the rookie that he could not have paper on the table while the match was underway. Elijah was uncomfortable not tracking his own life totals but the judge put his concerns to rest by explaining how that he would keep track of the definitive life totals and both players would have constant access to the information.
 
 Before they could even begin playing, Dirk shocked the room by announcing that he was somehow down a game before Marco and Elijah had even flipped a coin.
 
@@ -99,7 +101,9 @@ Marco sent everyone in again except for a lone [Mystic Familiar](https://web.arc
 
 Marco = 4 Elijah = 4
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a741.jpg)Marco double blocked the Dragon and prevented a point of damage to himself and that folks was the ballgame.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a741.jpg)
+
+Marco double blocked the Dragon and prevented a point of damage to himself and that folks was the ballgame.
 
 Game score: Marco – 1 Elijah – 0
 
@@ -129,7 +133,9 @@ Marco = 20 Elijah = 14
 
 At this point we all found at that Dirk had lost his match. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a742.jpg)Elijah tried to keep advancing his board position and made two bear tokens with [Grizzly Fate](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Fate). Marco continued to send his collection of enchantments into the red zone and there was nothing that Elijah could do but watch his life slip away in fifths.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a742.jpg)
+
+Elijah tried to keep advancing his board position and made two bear tokens with [Grizzly Fate](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Fate). Marco continued to send his collection of enchantments into the red zone and there was nothing that Elijah could do but watch his life slip away in fifths.
 
 Marco = 20 Elijah = 10
 

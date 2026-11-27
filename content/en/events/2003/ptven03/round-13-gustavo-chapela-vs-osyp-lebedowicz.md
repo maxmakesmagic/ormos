@@ -68,7 +68,9 @@ render_recovery:
   - Jareth, Leonine Titan
   occurrences: 18
 ---
-![](https://i.ormos.uk/3c/be/3cbec2bd95e76abc190c0079f74883135f4380cbfbc349717256930f7b077fff.jpg)Gustavo Chapela was the Latin American Champion in 2000, and has kind of disappeared in the meantime. This tournament has been a resurgence for him, and at 8-2-2, if he wins out, he could be the first Mexican to make a Pro Tour Top 8. In his way is TOGIT's Osyp Lebedowicz, who also needs to win out to make the Top 8, which would be his second.
+![](https://i.ormos.uk/3c/be/3cbec2bd95e76abc190c0079f74883135f4380cbfbc349717256930f7b077fff.jpg)
+
+Gustavo Chapela was the Latin American Champion in 2000, and has kind of disappeared in the meantime. This tournament has been a resurgence for him, and at 8-2-2, if he wins out, he could be the first Mexican to make a Pro Tour Top 8. In his way is TOGIT's Osyp Lebedowicz, who also needs to win out to make the Top 8, which would be his second.
 
 ### Game 1
 
@@ -80,7 +82,9 @@ By turn 6, Chapela actually had more land than Osyp, five to four, and had his o
 
 Lebedowicz 1 – Chapela 0
 
-![](https://i.ormos.uk/bc/3d/bc3d4327496c085a3f858492b262fe3d150b0902d72a05025efbabf86bd8d6c9.jpg)The sideboarded games looked to be interesting; Osyp took out all four Slides and all four Rifts for big creatures (like Akroma and Avarax) and Demystifies. Chapela left his enchantments in.
+![](https://i.ormos.uk/bc/3d/bc3d4327496c085a3f858492b262fe3d150b0902d72a05025efbabf86bd8d6c9.jpg)
+
+The sideboarded games looked to be interesting; Osyp took out all four Slides and all four Rifts for big creatures (like Akroma and Avarax) and Demystifies. Chapela left his enchantments in.
 
 ### Game 2
 
@@ -88,7 +92,9 @@ Chapela played Lightning Rifts on turns two and three, but Osyp had Demystifies 
 
 Chapela then ran out of stuff to do, and then Osyp went on the offensive with Avarax. Chapela played an Astral Slide, but Osyp had the third Demystify and dropped a second Avarax. Chapela took one six-point attack then blew them away with his own Akroma's Vengeance.
 
-![](https://i.ormos.uk/a1/20/a1202a03e0793c182fbd78023649193032637055f265fbb2d1263145a069e773.jpg)Osyp deployed his last two Avarxes, but Chapela had two more Astral Slides. For the next few turns, Gustavo "cantrip Fogged" to prevent any damage from getting through, but at one point Osyp had a little surprise for him: Akroma's Blessing in response to the Astral Slide activations. No fear; Chapela had a second cycling card and removed the red Beasts anyway. And again. And again.
+![](https://i.ormos.uk/a1/20/a1202a03e0793c182fbd78023649193032637055f265fbb2d1263145a069e773.jpg)
+
+Osyp deployed his last two Avarxes, but Chapela had two more Astral Slides. For the next few turns, Gustavo "cantrip Fogged" to prevent any damage from getting through, but at one point Osyp had a little surprise for him: Akroma's Blessing in response to the Astral Slide activations. No fear; Chapela had a second cycling card and removed the red Beasts anyway. And again. And again.
 
 With neither player drawing what would be the back-breaking Akroma's Vengeance, they both had to keep committing permanents to the board. Chapela played an Angel, and Osyp played his own first down and then flipped it. Akroma, Angel of Wrath came down for Osyp and he followed it up with Jareth, Leonine Titan. Eventually Chapela would run out of cycling cards and die immediately.
 

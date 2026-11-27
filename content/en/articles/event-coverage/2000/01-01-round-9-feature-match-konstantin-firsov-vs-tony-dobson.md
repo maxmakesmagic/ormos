@@ -44,7 +44,9 @@ archive_source:
   sha256: a97a1da02d0078c259a1ea5f7542433f22eacc906a35a2cc8b12c2a8df23f4b1
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/929.jpg)Konstantin is the sole Russian in the event, and he is doing rather well. Despite having only one bye, he managed to go 6 - 1 on Day One, and so far today has defeated Mike Pustilnik, the winner of the most recent PT LA. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/929.jpg)
+
+Konstantin is the sole Russian in the event, and he is doing rather well. Despite having only one bye, he managed to go 6 - 1 on Day One, and so far today has defeated Mike Pustilnik, the winner of the most recent PT LA. 
 
 **Game One** 
 
@@ -60,7 +62,9 @@ Tony was happy with his opening hand in game two, despite not having a Mountain.
 
 Still it was the Russian who played the first creature, a Thunderscape Familiar. Tony could have left his mana open to use Exclude, but he decided to cast a Tower Drake instead. This meant that Konstantin could cast as Kavu Aggressor with impunity. 
 
-![](https://i.ormos.uk/5b/ea/5bea9e308c9fe9e1ebd8373cc72962b5d7f7a076dbf09e5cc94120e7c0f7bd84.jpg)Tony decided not to cast a creature on his next turn, but this could put him in serious trouble if Konstantin had a creature removal spell. He did, and cast Strafe on the Tower Drake, enchanted his Familiar with a Maniacal Rage, and attacked for six. Tony could only cast an Urborg Drake, which did not stop the 3/3 First-Striking Familiar from attacking. This brought Tony to 10, and Firsov followed up with a Duskwalker with kicker. Tony killed the Duskwalker by blocking it with both the Urborg Drake and Cavern Harpy, but it was immediately Recovered and summoned again. 
+![](https://i.ormos.uk/5b/ea/5bea9e308c9fe9e1ebd8373cc72962b5d7f7a076dbf09e5cc94120e7c0f7bd84.jpg)
+
+Tony decided not to cast a creature on his next turn, but this could put him in serious trouble if Konstantin had a creature removal spell. He did, and cast Strafe on the Tower Drake, enchanted his Familiar with a Maniacal Rage, and attacked for six. Tony could only cast an Urborg Drake, which did not stop the 3/3 First-Striking Familiar from attacking. This brought Tony to 10, and Firsov followed up with a Duskwalker with kicker. Tony killed the Duskwalker by blocking it with both the Urborg Drake and Cavern Harpy, but it was immediately Recovered and summoned again. 
 
 Tony was completely unable to deal with the multiple threats, and conceded on the next turn. 
 

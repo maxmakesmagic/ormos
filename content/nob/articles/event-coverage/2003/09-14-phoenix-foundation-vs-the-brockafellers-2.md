@@ -55,7 +55,9 @@ A:Marco Blume vs Brock Parker
  B:Kai Budde vs Wiliam Jensen  
  C:Dirk Baberowski vs Matt Linde
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a803.jpg)　Pro Tour 、Masters を通して実質的な敗北が僅か一敗。昨年の Boston 、一昨年の New York と二年連続 Team Pro Tour を優勝している現在世界最高峰のチームがドイツの Phoenix Foundation 。今回も初日のシールドを六戦全勝し、二日目も初めの三戦を全勝し一番手でトップ４入りを決めている。その後の二戦こそ敗北しているが、これは何れも勝者だからこそ可能な対戦チームへのトスだった。その恩恵を受けたのが、この準決勝の対戦相手 The Brockafellers と、もう片方の準決勝に残った Zabutan Nemonaut。つまり、Phoenix Foundation は自身が最終日に残っただけでは無く、残り三つのチームのうち二つの進出をも決めているのだ。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a803.jpg)
+
+　Pro Tour 、Masters を通して実質的な敗北が僅か一敗。昨年の Boston 、一昨年の New York と二年連続 Team Pro Tour を優勝している現在世界最高峰のチームがドイツの Phoenix Foundation 。今回も初日のシールドを六戦全勝し、二日目も初めの三戦を全勝し一番手でトップ４入りを決めている。その後の二戦こそ敗北しているが、これは何れも勝者だからこそ可能な対戦チームへのトスだった。その恩恵を受けたのが、この準決勝の対戦相手 The Brockafellers と、もう片方の準決勝に残った Zabutan Nemonaut。つまり、Phoenix Foundation は自身が最終日に残っただけでは無く、残り三つのチームのうち二つの進出をも決めているのだ。
 
 　チームを構成しているのは、2002シーズンも Pro Player of the Year を獲得し現在世界最強と称される Kai Budde、そして1998年 Pro Tour Chicago の優勝者 Dirk Baberowski、先の GP Atlanta で優勝し単なる第三の男では無い事を自ら証明した Marco Blume 。
 
@@ -90,7 +92,9 @@ A:Marco Blume vs Brock Parker
 
 　先手の Dirk は３ターン目に引いた《卑劣なアヌーリッド/[Wretched Anurid](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wretched+Anurid)》から。ここで Matt は相当に悩んでから変異を出した。手札には《平和な心/[Pacifism](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism)》が有り、装着させれば絶好のダメージソースとする事も出来る。しかし、他に対処手段がある以上無理する事は無いと変異を出した。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a797.jpg)　そう《ゾンビの殺し屋/[Zombie Cutthroat](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zombie+Cutthroat)》だ。Dirk はこのトリックによって《卑劣なアヌーリッド/[Wretched Anurid](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wretched+Anurid)》を失うが、ダメージ解決後には《陽光の突風/[Solar Blast](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)》のサイクリングでトリック返し。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a797.jpg)
+
+　そう《ゾンビの殺し屋/[Zombie Cutthroat](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zombie+Cutthroat)》だ。Dirk はこのトリックによって《卑劣なアヌーリッド/[Wretched Anurid](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wretched+Anurid)》を失うが、ダメージ解決後には《陽光の突風/[Solar Blast](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)》のサイクリングでトリック返し。
 
 　ここでしばらくお互いの足が止まる。それを打ち破ったのは Dirk の《冠毛の岩角獣/[Crested Craghorn](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crested+Craghorn)》だったが、これは《翼の破片/[Wing Shards](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wing+Shards)》によってあえなく昇天。続けて引いた《骨茨のヴァレスク/[Bonethorn Valesk](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonethorn+Valesk)》も《ペミンのオーラ/[Pemmin's Aura](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pemmin%27s+Aura)》によって即退場。
 
@@ -119,7 +123,9 @@ A:Marco Blume vs Brock Parker
 
 **Game 2**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a796.jpg)　青緑の両者にとって、Marco がピックした二枚の《ワイアウッドの共生虫/[Wirewood Symbiote](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Symbiote)》が持つ意味は大きい。一本目を先取している Marco 、Brock はイーブンに戻す事が出来るのだろうか。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a796.jpg)
+
+　青緑の両者にとって、Marco がピックした二枚の《ワイアウッドの共生虫/[Wirewood Symbiote](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Symbiote)》が持つ意味は大きい。一本目を先取している Marco 、Brock はイーブンに戻す事が出来るのだろうか。
 
 　エルフ・オン・パレード。
 
@@ -154,7 +160,9 @@ A:Marco Blume vs Brock Parker
 **Kai Budde vs William Jensen**  
 **Game 2**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a795.jpg)　一本目を落としてしまい必勝の体勢で臨んだ Game 2 、先手の Kai は対黒赤の秘密兵器《ダールの降霊者/[Daru Spiritualist](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Spiritualist)》から。対象に取られる度にクレリックのタフネスをパンプするこれは除去側から見て相当にうざい存在だ。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a795.jpg)
+
+　一本目を落としてしまい必勝の体勢で臨んだ Game 2 、先手の Kai は対黒赤の秘密兵器《ダールの降霊者/[Daru Spiritualist](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Spiritualist)》から。対象に取られる度にクレリックのタフネスをパンプするこれは除去側から見て相当にうざい存在だ。
 
 　続けて二人は共に変異を並べる。Kai は相手の変異をいぶかしみながら自身の《アフェットの駆除屋/[Aphetto Exterminator](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphetto+Exterminator)》を起動し、相手の変異を確認に出る。だが、Jensen はゾンビをコストに支払い《朽ちゆく猛禽/[Putrid Raptor](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Putrid+Raptor)》を表返す。死にはしないが、サイズを縮められたこのターンは単なる 1/1 。そこに Kai の二体が攻撃を加える。Jensen はこれを通し、ライフを 15 に。
 

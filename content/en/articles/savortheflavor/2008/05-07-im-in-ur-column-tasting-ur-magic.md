@@ -332,7 +332,9 @@ Wait, Rosheen Meanderer is NOT on the list of story characters for Shadowmoor! S
 
 ### Hijacking the Flavor
 
-![Titans_Revenge](https://i.ormos.uk/e7/83/e783bf834327f871521525bd216763cf13a44ad9d1003b86eef1bb86d50f5867.jpg)At the time, I had a card design backburnered since *Morningtide*. Believe it or not, this was the character description sent to hole-fillers during *Morningtide* (before *Shadowmoor!*):
+![Titans_Revenge](https://i.ormos.uk/e7/83/e783bf834327f871521525bd216763cf13a44ad9d1003b86eef1bb86d50f5867.jpg)
+
+At the time, I had a card design backburnered since *Morningtide*. Believe it or not, this was the character description sent to hole-fillers during *Morningtide* (before *Shadowmoor!*):
 
 > Rosheen Meanderer (R or RW) – Ancient, constantly babbling giantess who is one of only a few beings in the world who maintains her memory across the Aurora.
 
@@ -376,7 +378,9 @@ This excerpt from [the *Shadowmoor* anthology](https://web.archive.org/web/20080
 
 * * *
 
-![Kithkin_Rabble](https://i.ormos.uk/f1/87/f1874b7c2cb46634298ad458d72aa2dadef2a3030391cad80ca2f29e181c281f.jpg)Jack joined the hushed crowd of Mistmeadow dounsfolk huddled together in the town's broad central square. Two hundred or more of his fellow kithkin had effortlessly arranged themselves as close to one another as possible without actually touching. A line of overhead torches cast a sickly yellow glow over the area to create an irregular chamber of diffuse light amid the otherwise endless and perpetual dark. Hundreds of unblinking eyes stared, wide open and waiting, into the infinite night.
+![Kithkin_Rabble](https://i.ormos.uk/f1/87/f1874b7c2cb46634298ad458d72aa2dadef2a3030391cad80ca2f29e181c281f.jpg)
+
+Jack joined the hushed crowd of Mistmeadow dounsfolk huddled together in the town's broad central square. Two hundred or more of his fellow kithkin had effortlessly arranged themselves as close to one another as possible without actually touching. A line of overhead torches cast a sickly yellow glow over the area to create an irregular chamber of diffuse light amid the otherwise endless and perpetual dark. Hundreds of unblinking eyes stared, wide open and waiting, into the infinite night.
 
 The assembly didn't wait long. Not long after Jack arrived, Mistmeadow's leader, Cenn Molla Welk, strode to the center of the square. She was an older woman, gray and wizened, but her voice was sharp and her mind was even sharper.
 
@@ -428,7 +432,9 @@ Maralen waited for the heckling to subside then said, "A giant has been roused, 
 
 "And we fight them off three, maybe four times a year."
 
-![Rosheen_Meanderer](https://i.ormos.uk/0f/31/0f317b288ce91ce1903ae94e1bb8fe6bf3648f590c89c3b0f4f80349c1b202be.jpg)"This giant is unique," Maralen said, still unperturbed by the catcalls. "I would not have troubled you otherwise. Her name is Rosheen Meanderer."
+![Rosheen_Meanderer](https://i.ormos.uk/0f/31/0f317b288ce91ce1903ae94e1bb8fe6bf3648f590c89c3b0f4f80349c1b202be.jpg)
+
+"This giant is unique," Maralen said, still unperturbed by the catcalls. "I would not have troubled you otherwise. Her name is Rosheen Meanderer."
 
 Jack recognized the name, as did many others. A cold feeling of concern took hold of the assembly. Rosheen Meanderer was a name that commanded respect, even awe. Oldest and largest of the giants, she was blessed with the gift of prophecy and madder than a rabid weasel. For the first time since Maralen started speaking, everyone gave the elf their full and undivided attention.
 
@@ -452,7 +458,9 @@ Alloway was of average height, but extremely lean and wiry for a kithkin. A blac
 
 "You all know me," Donal Alloway said, and he was right, everyone did, "what I've accomplished, and what I'm capable of." His eyes darted back and forth across the crowd and his gaze was sharp and accusing. "I thought I knew the brave kithkin of Mistmeadow. But in listening to you scrape and grovel before this . . . elf . . . seeing how quickly you turn to them without once consulting us, your own kin . . . after all this, I wonder if I ever knew Mistmeadow at all." The unexpected scolding stunned and silenced the dounsfolk in an instant.
 
-![Repel_Intruders](https://i.ormos.uk/f8/a9/f8a98adb3f5bf95bf69bb0cda1d8e413b49e16d9f0950659fe8b002b39cdf0e0.jpg)"I am amazed," Alloway continued, "truly amazed, my cousins, and disappointed. Did you believe a threat to Mistmeadow would escape my notice? Or that having identified the threat I would simply abandon you to it? I too have heard of this giant, Rosheen Meanderer, and her rampage. I too recognized the danger she poses to Mistmeadow. I came to offer my help and my protection. All of your brothers and sisters in Kinscaer will stand with you against those who would destroy you, no matter how large or how numerous. But I must warn you, I will burn Mistmeadow to the ground and make war on Vigilant Eidren himself before I allow your noble kithkin doun to form an alliance with Wilt-Leaf."
+![Repel_Intruders](https://i.ormos.uk/f8/a9/f8a98adb3f5bf95bf69bb0cda1d8e413b49e16d9f0950659fe8b002b39cdf0e0.jpg)
+
+"I am amazed," Alloway continued, "truly amazed, my cousins, and disappointed. Did you believe a threat to Mistmeadow would escape my notice? Or that having identified the threat I would simply abandon you to it? I too have heard of this giant, Rosheen Meanderer, and her rampage. I too recognized the danger she poses to Mistmeadow. I came to offer my help and my protection. All of your brothers and sisters in Kinscaer will stand with you against those who would destroy you, no matter how large or how numerous. But I must warn you, I will burn Mistmeadow to the ground and make war on Vigilant Eidren himself before I allow your noble kithkin doun to form an alliance with Wilt-Leaf."
 
 Maralen stepped nimbly down from the stool. She faced Donal Alloway across ten feet of empty space. "This isn't a debate, Cenn."
 
@@ -476,7 +484,9 @@ Maralen's eyes narrowed. A thin, sharp smile curled the corners of her mouth and
 
 A soft, audible gasp floated up from a hundred kithkin throats. Maralen's hard, sharp eyes did not blink.
 
-![Wilt_Leaf_Cavaliers](https://i.ormos.uk/9e/21/9e21d38213dbc37dbab7f2e617625ada9fd134111874b46b2b5da37e4ba3b6d9.jpg)"No offer of aid from Wilt-Leaf," Alloway continued. "No promise of protection. No foundation for a long and lasting alliance. And no Wilt-Leaf maiden named Maralen." He slashed the air with his sword. "Who are you, stranger? Who are you really? Did you come here to exploit the giant's rampage? Or are you just the bad omen that precedes misfortune? Molla Welk did this doun no favors when she received you. Leave Mistmeadow before your presence brings us even worse luck."
+![Wilt_Leaf_Cavaliers](https://i.ormos.uk/9e/21/9e21d38213dbc37dbab7f2e617625ada9fd134111874b46b2b5da37e4ba3b6d9.jpg)
+
+"No offer of aid from Wilt-Leaf," Alloway continued. "No promise of protection. No foundation for a long and lasting alliance. And no Wilt-Leaf maiden named Maralen." He slashed the air with his sword. "Who are you, stranger? Who are you really? Did you come here to exploit the giant's rampage? Or are you just the bad omen that precedes misfortune? Molla Welk did this doun no favors when she received you. Leave Mistmeadow before your presence brings us even worse luck."
 
 Maralen glanced past Alloway. The crowd was quickly growing hostile and aggressive behind him. "You will regret this, Donal Alloway," she said. Then she turned to the throng and said, "As will Mistmeadow. The cenn of Kinscaer doesn't want to protect you from me, my suspicious friends—he wants to enslave you. Your tribe has a name for this, I'm told. A word to describe a relationship where one party has all the power and the other does all the work: lanamnas. That is what Donal Alloway offers Mistmeadow. Permanent lanamnas."
 
@@ -508,7 +518,9 @@ Someone voiced the crowd's first and most immediate hope. "Are your archers stan
 
 "How?" Jack said, and his voice was joined by a hundred others.
 
-![Giantbaiting](https://i.ormos.uk/65/d4/65d466df0b7b54e683d3d2933bb44879c115e067609fc616e50ba8851bcecdee.jpg)"By the same method that has kept your village safe for generations: misdirection. We can't allow the giant to come through here, or even near here. To keep her away, we just have to find the right lure. Once we have something she wants more than she wants to keep blundering in this direction, we can lead her somewhere else, somewhere she won't cause any harm."
+![Giantbaiting](https://i.ormos.uk/65/d4/65d466df0b7b54e683d3d2933bb44879c115e067609fc616e50ba8851bcecdee.jpg)
+
+"By the same method that has kept your village safe for generations: misdirection. We can't allow the giant to come through here, or even near here. To keep her away, we just have to find the right lure. Once we have something she wants more than she wants to keep blundering in this direction, we can lead her somewhere else, somewhere she won't cause any harm."
 
 A warm flush of hope swept through Jack. Donal Alloway was onto something. This was precisely the sort of magic at which Mistmeadow's adepts excelled. The doun knew at least a dozen spells to irresistibly draw an enemy's attention.
 
@@ -532,7 +544,9 @@ Donal Alloway smiled triumphantly at Jack. "Who is this fellow? Is he as capable
 
 "Come forward, Jack." Jack obligingly stepped closer to Alloway. "You understand what I'm asking you to do? Rosheen won't come to Mistmeadow but she will come after you. You'll have to find her, rob her, enchant her, and then stay ahead of her for some time. Can you do all that?"
 
-![Steel_of_the_Godhead](https://i.ormos.uk/f2/94/f2945a23b87210bf67741e24477fcab0a1a8f4bbb0391dbc348fcbb6797c01ba.jpg)For a moment Jack felt nothing from the mindweft. Then the full support and gratitude of the entire doun washed over him, surrounded him, and buoyed him up. It had been far too long since Mistmeadow had a proper hero, a fabled favorite son or daughter who adventured on behalf of the doun, served as its champion, its chief defender, and its standard-bearer. Be our hero, the mindweft told him, so that we'll be here to sing of your exploits for years to come.
+![Steel_of_the_Godhead](https://i.ormos.uk/f2/94/f2945a23b87210bf67741e24477fcab0a1a8f4bbb0391dbc348fcbb6797c01ba.jpg)
+
+For a moment Jack felt nothing from the mindweft. Then the full support and gratitude of the entire doun washed over him, surrounded him, and buoyed him up. It had been far too long since Mistmeadow had a proper hero, a fabled favorite son or daughter who adventured on behalf of the doun, served as its champion, its chief defender, and its standard-bearer. Be our hero, the mindweft told him, so that we'll be here to sing of your exploits for years to come.
 
 Donal Alloway must have felt the surge of support swirling around Jack. The cenn of Kinscaer threw his arms over his head dramatically and shouted again, "Can you do it, Jack?"
 

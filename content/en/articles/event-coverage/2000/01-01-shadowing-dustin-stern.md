@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Adrian Sullivan* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/991.jpg)Dustin Stern is characteristically soft-spoken about his first Pro-Tour. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/991.jpg)
+
+Dustin Stern is characteristically soft-spoken about his first Pro-Tour. 
 
 "I don't know hardly anyone around here." 
 

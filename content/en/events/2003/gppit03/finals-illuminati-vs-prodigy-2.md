@@ -79,7 +79,9 @@ render_recovery:
 ---
 As the competitors were warming up for this final match our illustrious Head Judge, Nat Fairbanks, comes by the table to quickly cover the rules. He reminded the players that this is the final match, best two out of three, untimed.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a934.jpg)"We'll have a nice four course meal, then come back and start this," Alex commented before the match started.
+![](http://www.wizards.com/sideboard/images/gppit03/a934.jpg)
+
+"We'll have a nice four course meal, then come back and start this," Alex commented before the match started.
 
 "I will play first, son," Manny says after Alex rolls a three on the twenty-sided dice. After Manny rolls eleven that becomes official.
 
@@ -97,7 +99,9 @@ The pace of the match slows considerably here, as Alex plays a morph and swings 
 
 "End of your turn I'll cycle Gempalm Polluter," Alex says as Manny passes the turn back. He draws for the cycle and then for his turn. "Oo, drawing cards is so good," he finishes.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a932.jpg)After Alex swings with his creatures a debate takes place. "Maybe I'm wrong," Manny finally concedes when the judge sides with Alex. A minor debate over life totals ends up in Alex's favor. Manny's life total is down to six.
+![](http://www.wizards.com/sideboard/images/gppit03/a932.jpg)
+
+After Alex swings with his creatures a debate takes place. "Maybe I'm wrong," Manny finally concedes when the judge sides with Alex. A minor debate over life totals ends up in Alex's favor. Manny's life total is down to six.
 
 "That was beautiful," Manny says. He was being sarcastic. He had just played Cruel Revival targeting a morph on Alex's side of the table. The morph turned out to be a zombie, Skinthinner to be exact. Skinthinner kills the morph on Manny's side and it's all over. 
 
@@ -129,7 +133,9 @@ On the following turn he plays Windborn Muse, which might slow down the one atta
 
 "So, I have to tap two mana to attack now, is that how that works," Alex asks. It seems almost playful as we're sure Alex already knew that. Instead of tapping only two lands Alex decides to tap five of them, casting Cruel Revival on the Muse.
 
-![](https://i.ormos.uk/48/ec/48ec05140acddd7d897f51139aa7a5ef0a9400f5365ddd7f8ee92dc1b182c1a4.jpg)Manny adds a Noble Templar and a Stoic Champion to the table, than gives them a clay spider for company. All of those creatures might help Alex out though, he's holding Scattershot. The Storm ability on that card means dead morph and Alex appears to be in control.
+![](https://i.ormos.uk/48/ec/48ec05140acddd7d897f51139aa7a5ef0a9400f5365ddd7f8ee92dc1b182c1a4.jpg)
+
+Manny adds a Noble Templar and a Stoic Champion to the table, than gives them a clay spider for company. All of those creatures might help Alex out though, he's holding Scattershot. The Storm ability on that card means dead morph and Alex appears to be in control.
 
 "You're at five," Alex asks. "Erratic Explosion," he finishes. Prowling Pangolin comes off the top of the deck.
 

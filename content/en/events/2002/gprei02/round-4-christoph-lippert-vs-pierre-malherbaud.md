@@ -79,7 +79,9 @@ render_recovery:
   - Dauthi Horror
   occurrences: 37
 ---
-![](http://www.wizards.com/sideboard/images/gprei02/a970.jpg)Both of these are accomplished pro players. Christoph Lippert from Germany has multiple GP top 8 appearances although he's been a little quiet of late. Two time French national champion Pierre Malherbaud has a very solid record on the Pro Tour and won GP Naples earlier this year. He's playing Suicide Black while Lippert is running a crazy three-color deck.
+![](http://www.wizards.com/sideboard/images/gprei02/a970.jpg)
+
+Both of these are accomplished pro players. Christoph Lippert from Germany has multiple GP top 8 appearances although he's been a little quiet of late. Two time French national champion Pierre Malherbaud has a very solid record on the Pro Tour and won GP Naples earlier this year. He's playing Suicide Black while Lippert is running a crazy three-color deck.
 
 Malherbaud won the die roll and elected to go first. His first turn Duress revealed Lippert was playing an unorthodox deck as he was shown two Duress, Whipcorder, Parallax Wave and Vindicate. Duress took the Vindicate and was followed by an Unmask taking the Whipcorder. Lippert's return Duress missed as did the second. Malherbaud's hand was empty by turn 3 as Dauthi Slayer was followed by Carnophage and Skittering Skirge. Lippert dropped a fat Negator to give him a chance of racing only for Malherbaud to rip a Diabolic Edict off the top to deal with it.
 
@@ -91,7 +93,9 @@ The Wave ran out but by which point Malherbaud was also desperately low on life.
 
 Lippert 1-0 Malherbaud
 
-![](http://www.wizards.com/sideboard/images/gprei02/a969.jpg)Malherbaud started strong game 2 with Duress and Unmask plucking a Vindicate and Meddling Mage out of Lippert's hand. He followed it with a Slayer and then a Nantuko Shade while Lippert summoned a Negator to try and keep up.
+![](http://www.wizards.com/sideboard/images/gprei02/a969.jpg)
+
+Malherbaud started strong game 2 with Duress and Unmask plucking a Vindicate and Meddling Mage out of Lippert's hand. He followed it with a Slayer and then a Nantuko Shade while Lippert summoned a Negator to try and keep up.
 
 Cabal Therapy missed on Parallax Wave but it did reveal an Exalted Angel in Lippert's hand, forcing Malherbaud to sac the Slayer and flashback the Therapy to get rid of it. The other cards were two land and a Brainstorm.
 

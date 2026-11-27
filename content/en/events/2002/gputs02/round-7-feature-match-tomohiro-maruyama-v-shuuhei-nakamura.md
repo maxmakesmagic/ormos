@@ -83,7 +83,9 @@ render_recovery:
   - Erratic Explosion
   occurrences: 36
 ---
-![](http://www.wizards.com/sideboard/images/gputs02/974.jpg)Shuuhei Nakamura is one of those players whose motions exude confidence. Between games he is calm, almost passive, but as soon as the game starts he is all deliberate action. Sometimes this comes across as recklessness, but in the pauses between plays, you can see him planning far ahead. He's earned a fair bit of success on the teams and singles circuits. Tomohiro Maruyama, his opponent, is somewhat less well-known, but posesses the skills that have brought him to 6-1.
+![](http://www.wizards.com/sideboard/images/gputs02/974.jpg)
+
+Shuuhei Nakamura is one of those players whose motions exude confidence. Between games he is calm, almost passive, but as soon as the game starts he is all deliberate action. Sometimes this comes across as recklessness, but in the pauses between plays, you can see him planning far ahead. He's earned a fair bit of success on the teams and singles circuits. Tomohiro Maruyama, his opponent, is somewhat less well-known, but posesses the skills that have brought him to 6-1.
 
 Things started with an ogre trade: Spitting Gourna for Dawning Purist. Nakamura's Sparksmith was the only action on the table. Maruyama made a Nantuko Husk, but missed his fourth land drop. Meanwhile Nakamura had found his third land type and started the beats with Gustcloak Skirmisher. Maruyama made Wirewood Savage and swung with the Husk. Nakamura traded his Skirmisher for the Savage.
 
@@ -91,7 +93,9 @@ Now Nakamura ratcheted up the pain. Mistform Shrieker got ready to go overtop. M
 
 Nakamura 1 - Maruyama 0
 
-![](http://www.wizards.com/sideboard/images/gputs02/975.jpg)Maruyama's Wirewood Elf accelerated him into turn-three Daru Cavalier, and it even got him a second one. Nakamura made a 2/2 surprise and passed it back. Maruyama swung for two and made Leery Fogbeast. Nakamura made no play, fronting the fact that his monster was a Lancer. Maruyama believed him, and a good thing too, since he uncovered it at end of turn. 
+![](http://www.wizards.com/sideboard/images/gputs02/975.jpg)
+
+Maruyama's Wirewood Elf accelerated him into turn-three Daru Cavalier, and it even got him a second one. Nakamura made a 2/2 surprise and passed it back. Maruyama swung for two and made Leery Fogbeast. Nakamura made no play, fronting the fact that his monster was a Lancer. Maruyama believed him, and a good thing too, since he uncovered it at end of turn. 
 
 They both made more mysteries, and then Murayama attacked. Nakamura double-blocked, trading his Lancer for the very big Venomspout Brackus. Maruyama continued his parade of fat with Spitting Gourna. Nakamura answered with Gustcloak Skirmisher. Maruyama got ready to breach Nakamura's defences with Grassland Crusader. Both players made Daru Cavaliers. Nakamura added a Dive Bomber, still without an mountain to enable his Shock and Solar Blast.
 

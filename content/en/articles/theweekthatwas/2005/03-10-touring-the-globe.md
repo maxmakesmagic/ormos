@@ -109,7 +109,9 @@ On the bright side, the vindication of being right may prompt to the dragon mast
 
 ### Too Close to Call
 
-[![](https://i.ormos.uk/80/cd/80cd5ef7a01d17a12c742589f67b4a52c53aa71c41ce3d5e0203e82e9e122ad7.jpg)](https://web.archive.org/web/20050310000000/https://magic.wizards.com/en/node/579816)This race for Rising Star has been one of the closest ones of all the ballots. The lead jockeyed back and forth all week and any of four player were near the top of the ballot at any given time. In the end you can chalk up one more win for Affinity -- Canali Affinity, that is. Pierre Canali nudged out occasional magician Aeo Paquette to ensure the Frenchman a seat in front of a computer monitor at E3 this May.
+[![](https://i.ormos.uk/80/cd/80cd5ef7a01d17a12c742589f67b4a52c53aa71c41ce3d5e0203e82e9e122ad7.jpg)](https://web.archive.org/web/20050310000000/https://magic.wizards.com/en/node/579816)
+
+This race for Rising Star has been one of the closest ones of all the ballots. The lead jockeyed back and forth all week and any of four player were near the top of the ballot at any given time. In the end you can chalk up one more win for Affinity -- Canali Affinity, that is. Pierre Canali nudged out occasional magician Aeo Paquette to ensure the Frenchman a seat in front of a computer monitor at E3 this May.
 
 This week's ballot is another intriguing new category that is sure to spark some debate. Resident Genius is reserved for the game's mad scientists -- great deck designers, Team Rochester generals, seemingly unbeatable foes, sound theorists, and the game's great minds. Each of the candidates fell into this category for pretty disparate reasons and it will be interesting to see how the **Magic** community ascribes value to those characteristics. I have a pretty good idea about who I think will win, but I have been surprised before during this series of ballots.
 

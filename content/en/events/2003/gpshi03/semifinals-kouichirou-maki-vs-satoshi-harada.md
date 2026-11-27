@@ -91,7 +91,9 @@ The two players engaged in some lively banter that seemed to amuse the crowd, ot
 
 ### Game One
 
-![](https://i.ormos.uk/2f/86/2f869654d8e2da4e45650f32887e46de0a27a5f4100c5abb844c9b31cbaa5e98.jpg)Maki chose to draw after much debate. Harada had no mulligans and neither did Maki. Turn two brought a Talisman for Maki while there was nothing coming out of Harada's hand anytime soon--he laid a Stalking Stones. Another Talisman from Maki gave him five mana on turn three and he used his remaining untapped mana to play a Lumengrid Sentinel. Harada played an Icy Manipulator. Maki got a laugh when he played a Seat of the Synod and tapped a the Icy with the Sentinel's ability.
+![](https://i.ormos.uk/2f/86/2f869654d8e2da4e45650f32887e46de0a27a5f4100c5abb844c9b31cbaa5e98.jpg)
+
+Maki chose to draw after much debate. Harada had no mulligans and neither did Maki. Turn two brought a Talisman for Maki while there was nothing coming out of Harada's hand anytime soon--he laid a Stalking Stones. Another Talisman from Maki gave him five mana on turn three and he used his remaining untapped mana to play a Lumengrid Sentinel. Harada played an Icy Manipulator. Maki got a laugh when he played a Seat of the Synod and tapped a the Icy with the Sentinel's ability.
 
 Harada passed the turn with no fifth land and another Seat of the Synod tapped the Icy again--Harada responded by tapping the Sentinel. Harada was stuck for black mana--he was playing a three-color deck--and played and cycled a Pyrite Spellbomb. He found land but it was another Forest. Meanwhile, Maki had plenty of land and no action. He passed the turn with eight mana in play.
 
@@ -109,7 +111,9 @@ Kouichirou Maki - 0 Satoshi Harada - 0
 
 Harada sided out his Slith Bloodletter and the Woebearer for a pair of Hematite Golems. Maki's deck underwent major renovations--he had geared it toward a tough quarterfinal match-up--and he took out dead cards like Turn to Dust and brought in additional creatures including a Slith Predator and a Titanium Golem.
 
-![](https://i.ormos.uk/b8/0c/b80c5f8f96b90f40d249404f6d1f25833fb16ee02f4f98f5770130339a7d3b4c.jpg)Maki chose to draw again and Harada kept his opening hand. Maki did as well and opened on AEther Spellbomb. Maki played a sideboarded Plains on the third turn but had no play. Harada's fourth turn saw the summoning of a Lodestone Myr. Maki cycled his Spellbomb but still had nothing on turn four. Harada played a Hematite Golem and a Vault of Whispers and tapped them both to send a 4/4 Myr into battle.
+![](https://i.ormos.uk/b8/0c/b80c5f8f96b90f40d249404f6d1f25833fb16ee02f4f98f5770130339a7d3b4c.jpg)
+
+Maki chose to draw again and Harada kept his opening hand. Maki did as well and opened on AEther Spellbomb. Maki played a sideboarded Plains on the third turn but had no play. Harada's fourth turn saw the summoning of a Lodestone Myr. Maki cycled his Spellbomb but still had nothing on turn four. Harada played a Hematite Golem and a Vault of Whispers and tapped them both to send a 4/4 Myr into battle.
 
 Maki had Glissa on turn five and passed the turn hoping she would live. Harada had Betrayal of the Flesh but chose to attack first with his two men. Maki could block the Myr and potentially kill it but he did not take any chances. Rather than kill the Glissa, Harada double pumped the Golem to a five power and boosted the Myr to 3/3 with his land.
 

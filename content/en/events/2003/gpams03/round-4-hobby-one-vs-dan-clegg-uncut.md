@@ -96,7 +96,9 @@ In Seat C Oliver Ruel's blue-white deck was matched against Alex Witt with green
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpams03/a971.jpg)Witt ramped up to a turn 3 face up Snarling Undorak with a Wirewood Elf while Olivier summoned a Callous Oppressor. Pinpoint Avalanche brought down the Cephalid. Olivier replaced it with an Aphetto Runecaster and toughened it up with Improvised Armor. It was needed on defense as Witt started building up an army of beasts. A Treespring Lorian and Brontotherium marched menacingly onto his side.
+![](http://www.wizards.com/sideboard/images/gpams03/a971.jpg)
+
+Witt ramped up to a turn 3 face up Snarling Undorak with a Wirewood Elf while Olivier summoned a Callous Oppressor. Pinpoint Avalanche brought down the Cephalid. Olivier replaced it with an Aphetto Runecaster and toughened it up with Improvised Armor. It was needed on defense as Witt started building up an army of beasts. A Treespring Lorian and Brontotherium marched menacingly onto his side.
 
 The next turn Witt sent in the Brontotherium, provoking the armored Runecaster. Witt pumped his Brontotherium enough to keep it alive and smashed Ruel down to 6 life with the other beasts
 
@@ -120,7 +122,9 @@ Dive Bomber and Quanar went to the graveyard after taking down an Undorak as Oli
 
 Witt 1-0 Olivier Ruel.
 
-![](http://www.wizards.com/sideboard/images/gpams03/a968.jpg)In the center Brock Parker beat Antoine Ruel 2-1 to give Dan Clegg Uncut a lead.
+![](http://www.wizards.com/sideboard/images/gpams03/a968.jpg)
+
+In the center Brock Parker beat Antoine Ruel 2-1 to give Dan Clegg Uncut a lead.
 
 Dan Clegg Uncut 1-0 Hobby One 
 
@@ -140,7 +144,9 @@ Jeudon leveled his match to leave the whole match open.
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpams03/a969.jpg)Olivier got caught out early in game 3 as he gambled running in a facedown Willbender against Witt's freshly summoned 3/3 Canopy Crawler. With 2 white and 2 blue open Olivier figured Witt couldn't afford to block. Unfortunately for him Witt made an excellent call, blocked it and sent the dangerous morph to graveyard for nothing.
+![](http://www.wizards.com/sideboard/images/gpams03/a969.jpg)
+
+Olivier got caught out early in game 3 as he gambled running in a facedown Willbender against Witt's freshly summoned 3/3 Canopy Crawler. With 2 white and 2 blue open Olivier figured Witt couldn't afford to block. Unfortunately for him Witt made an excellent call, blocked it and sent the dangerous morph to graveyard for nothing.
 
 From there the beats were pretty savage. Rogon (amplified once) joined the party and a facedown Towering Baloth. A Frontline Strategist kept Olivier in it when the giant Baloth flipped over but he couldn't drive the fat back. Alpha Status pumped up the Crawler even more and the game went to Witt.
 

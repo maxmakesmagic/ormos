@@ -70,7 +70,9 @@ render_recovery:
 
 《首を狩る者》の攻撃で土地をDiscardしている為、4ターン目も《変異/Morph》を召喚しただけにとどまったRoodに対して黒田は《首を狩る者》を攻撃に送り出して手札を攻めることを選択した。自分としては手に2体いる《不快な助祭/[Vile Deacon](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vile+Deacon)》の為に場にクレリックを残して欲しかったのだが、まぁありえる選択肢ではある。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a353.jpg)5ターン目黒田は１体目の《不快な助祭》を召喚して一気に押し切るかに見えた、しかしRoodの5ターン目は黒田にとって悪夢のターンになる。残っていた3枚の手札を一気にキャスト《変異/Morph》、《虚空魔道士の弟子/[Voidmage Apprentice](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidmage+Apprentice)》。そして《虚空魔道士の弟子/[Voidmage Apprentice](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidmage+Apprentice)》に《溶岩使いの技/[Lavamancer's Skill](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill)》をエンチャントして次のターンから黒田のクリーチャーを殲滅させられるようになったのだ。表情が歪む黒田。手札に除去もエンチャント破壊も無く...あれほど優勢だった黒田がいきなり劣勢に立たされてしまったのである。まさに青赤の真骨頂がここにきて炸裂しつつあった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a353.jpg)
+
+5ターン目黒田は１体目の《不快な助祭》を召喚して一気に押し切るかに見えた、しかしRoodの5ターン目は黒田にとって悪夢のターンになる。残っていた3枚の手札を一気にキャスト《変異/Morph》、《虚空魔道士の弟子/[Voidmage Apprentice](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidmage+Apprentice)》。そして《虚空魔道士の弟子/[Voidmage Apprentice](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidmage+Apprentice)》に《溶岩使いの技/[Lavamancer's Skill](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill)》をエンチャントして次のターンから黒田のクリーチャーを殲滅させられるようになったのだ。表情が歪む黒田。手札に除去もエンチャント破壊も無く...あれほど優勢だった黒田がいきなり劣勢に立たされてしまったのである。まさに青赤の真骨頂がここにきて炸裂しつつあった。
 
 6ターン目、気合を入れた黒田のドローは...  
  《畏敬の冠/[Crown of Awe](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Awe)》！！！！！
@@ -87,7 +89,9 @@ render_recovery:
 
 一方の黒田は《賛美されし天使/[Exalted Angel](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel)》《水銀のドラゴン/[Quicksilver Dragon](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Quicksilver+Dragon)》《畏敬の冠/[Crown of Awe](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Awe)》《不快な助祭/[Vile Deacon](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vile+Deacon)》《幽体スリヴァー/[Spectral Sliver](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Sliver)》に土地が2枚という絶好のハンド。この時点で勝利を予感したのだが、一方的な惨殺劇になってしまう。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a358.jpg)どういうことか勘のいい方ならおわかりと思うが、黒田の土地が5ターン目まで2枚のままで止まってしまったのだ。ようやく3枚目の土地を引いた時のRoodの場も《変異/Morph》が3体と芳しくなかったのだが、その内の1体が《焦熱の火猫/[Blistering Firecat](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blistering+Firecat)》だった為ライフが2まで落ち込み、Roodの手札に眠っていた《陽光の突風/[Solar Blast](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)》で黒田はとどめを刺された。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a358.jpg)
+
+どういうことか勘のいい方ならおわかりと思うが、黒田の土地が5ターン目まで2枚のままで止まってしまったのだ。ようやく3枚目の土地を引いた時のRoodの場も《変異/Morph》が3体と芳しくなかったのだが、その内の1体が《焦熱の火猫/[Blistering Firecat](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blistering+Firecat)》だった為ライフが2まで落ち込み、Roodの手札に眠っていた《陽光の突風/[Solar Blast](https://web.archive.org/web/20030323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)》で黒田はとどめを刺された。
 
 **Rood 1-1**
 

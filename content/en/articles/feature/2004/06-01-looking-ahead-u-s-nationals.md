@@ -67,7 +67,9 @@ U.S. Nationals is one of the oldest established Premier **Magic** events in the 
 
 One might expect that attending Nationals is only worth it if you are qualified for the main event. Nothing could be further from the truth. Nationals is just like a gaming convention, but it is focused around **Magic**.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/989.jpg)The action will begin late Wedensday night, kicking off the first of seven Last Chance Qualifiers. These tournaments often fill up to capacity of 256 players. Top 4 players from each tournament qualify for Nationals. Last Chance Qualifiers at Nationals are a long-standing tradition, implemented long before the idea of LCQ has been used at a Pro Tour. Because these tournaments usually sport a very high level of competition and are ran in a single elimination format, they earned a nickname of “meatgrinders” among the players.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/989.jpg)
+
+The action will begin late Wedensday night, kicking off the first of seven Last Chance Qualifiers. These tournaments often fill up to capacity of 256 players. Top 4 players from each tournament qualify for Nationals. Last Chance Qualifiers at Nationals are a long-standing tradition, implemented long before the idea of LCQ has been used at a Pro Tour. Because these tournaments usually sport a very high level of competition and are ran in a single elimination format, they earned a nickname of “meatgrinders” among the players.
 
 There is a total of seven Meatgrinders held throughout Thursday, alternating formats between Standard and Sealed Deck. In past years it was not unusual for the winners of the very last ‘Grinder to sit down for their first round at Nationals within an hour or two of winning the qualifier.
 
@@ -81,7 +83,9 @@ Nationals competitors will play out the rest of the Swiss rounds on Saturday whi
 
 If you have never attended a Premier **Magic** event before, Sunday will be especially interesting for you. This is the day when top 8 players from both Nationals and JSS will compete in a single elimination format for the top prizes. Wizards of the Coast will set up a stage-like area where spectators can watch the final matches either in person or on screen. Celebrity commentators such as Randy Buehler will do the play by play on the headsets that you will be able to borrow for the duration of the finals. This is an incredible experience for any player who is interested in the high-end strategy aspect of **Magic** and should not be missed.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/948.jpg)More casual players will find plenty of other activities to participate in during the finals. There are several interesting tournaments sponsored by the single card dealers set up at the event. My own store, Kings Games, will be sponsoring a Family Team Tournament. It is open to two-player teams as long as they are a team of brothers, husband and wife, or parent and child. Every team that enters will receive prizes. In the meantime, Academy Games will be sponsoring a “Femvitational” event – tournament open to female players only.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/948.jpg)
+
+More casual players will find plenty of other activities to participate in during the finals. There are several interesting tournaments sponsored by the single card dealers set up at the event. My own store, Kings Games, will be sponsoring a Family Team Tournament. It is open to two-player teams as long as they are a team of brothers, husband and wife, or parent and child. Every team that enters will receive prizes. In the meantime, Academy Games will be sponsoring a “Femvitational” event – tournament open to female players only.
 
 You will never have to wait very long to play some competitive **Magic** over the weekend. Wizards of the Coast will keep the hall running twenty four hours a day and they will run pick-up eight man booster drafts and constructed events all weekend long. One usually starts every twenty minutes or so.
 

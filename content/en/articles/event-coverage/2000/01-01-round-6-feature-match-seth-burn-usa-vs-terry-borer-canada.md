@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Josh Bennett* 
 
-![](https://i.ormos.uk/73/e2/73e211de0e0bd6b4dc64374d34035f099e17ce8c986156f1692b4dae31715353.jpg)Seth Burn was not a model of confidence going into this round. The competitors knew each other's decks, and Burn was certain that Terry Borer's control deck had an overwhelming advantage. Borer was unconvinced. He had tested a great deal for this, his first Pro Tour after a two-year absence, and thought the matchup skewed in the other direction. 
+![](https://i.ormos.uk/73/e2/73e211de0e0bd6b4dc64374d34035f099e17ce8c986156f1692b4dae31715353.jpg)
+
+Seth Burn was not a model of confidence going into this round. The competitors knew each other's decks, and Burn was certain that Terry Borer's control deck had an overwhelming advantage. Borer was unconvinced. He had tested a great deal for this, his first Pro Tour after a two-year absence, and thought the matchup skewed in the other direction. 
 
 Burn won the coin flip and naturally chose to play. A series of land drops from both men culminated in Burn's turn-three Fires of Yavimaya, which went uncountered by Borer. He had a Power Sink ready for Burn's next play of Blastoderm, and so was unscathed going into his fourth turn. Here he missed a land drop, a fact made up for by his hand full of goodies. 
 
@@ -56,7 +58,9 @@ The reason is as follows: Wizards of the Coast designed a standard playmat for t
 
 Terry Borer usually keeps his library at his left. Today, his library was on his right. Having no better place for his sideboard, he put it at his left side. It was so natural for him to draw from there that he didn't even notice until the middle of Burn's next turn. 
 
-![](https://i.ormos.uk/15/01/1501e6d5ce015c7f8cb88e2635c0f843b3c86b40125dbbd0296e4d78e668651d.jpg)This is ordinarily a game-loss offense, but because of the unusual play conditions, the judge ruled it as a minor procedural error, backing up the play of the game to the point the mistake was made. The correction benefited Borer: he drew his fourth land. 
+![](https://i.ormos.uk/15/01/1501e6d5ce015c7f8cb88e2635c0f843b3c86b40125dbbd0296e4d78e668651d.jpg)
+
+This is ordinarily a game-loss offense, but because of the unusual play conditions, the judge ruled it as a minor procedural error, backing up the play of the game to the point the mistake was made. The correction benefited Borer: he drew his fourth land. 
 
 The calamity undone, Burn drew and played Jade Leech. Borer used Dismantling Blow to remove the Fires, saving himself five damage. He untapped, drew and passed back to Burn, who brought out a Chimeric Idol. Borer had a second Blow, so Burn's Leech attacked alone. 
 
@@ -70,7 +74,9 @@ Between games, Mark Rosewater and Seth Burn treated onlookers to a spirited disc
 
 Burn mulliganed to start game two. Both men started out with mana sources, Burn's turn-three Fires got Disenchanted, and Borer again got stuck at three land. He joked that it followed from his "old-school" deckbuilding techniques, requiring decks to have a low land count. 
 
-![](https://i.ormos.uk/3d/a0/3da0644d543b7e55f9abb89eeff76e9f66eb8ba4e7239d4e6b28e793aebdd339.jpg)Burn made a Bird of Paradise, and then the uncounterable Kavu Chameleon. Borer found a fourth land, but had no Wrath. At the end of Burn's next turn, he cast Fact or Fiction. Burn split the cards into three land and a Tsabo's Web on one side, and Wrath of God on the other. Borer was quite pleased with his four-mana Impulse. He did not cast it the next turn, however, laughing as he proclaimed that good players always seek out card advantage. 
+![](https://i.ormos.uk/3d/a0/3da0644d543b7e55f9abb89eeff76e9f66eb8ba4e7239d4e6b28e793aebdd339.jpg)
+
+Burn made a Bird of Paradise, and then the uncounterable Kavu Chameleon. Borer found a fourth land, but had no Wrath. At the end of Burn's next turn, he cast Fact or Fiction. Burn split the cards into three land and a Tsabo's Web on one side, and Wrath of God on the other. Borer was quite pleased with his four-mana Impulse. He did not cast it the next turn, however, laughing as he proclaimed that good players always seek out card advantage. 
 
 "And I . . . am a good player. Write that down." - Terry Borer 
 

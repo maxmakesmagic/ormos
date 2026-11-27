@@ -553,7 +553,9 @@ Justin opened with Deftblade Elite, and Rob had the perfect answer in Festering 
 
 Meanwhile, Darwin had a great opening, curving out with Deftblade Elite, Silver Knight, and a morph. Zvi had Stonewood Invoker, Wellwisher and a morph, but Darwin put plenty of pressure in the air thanks to Ascending Aven and Gustcloak Harrier. A morph did flip over to reveal Spitting Gourna but it was too late, as Darwin was able to force through enough damage to take the first game.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a925.jpg)Alex struggled to withstand and nullify Dave's Beasts and was able to bring the game to parity, and put Clutch of Undeath on his Shepard of Rot to get a 4/4. Dave unmorphed Hystrodon, and used Accelerated Mutation to bust through.
+![](http://www.wizards.com/sideboard/images/ptbos03/a925.jpg)
+
+Alex struggled to withstand and nullify Dave's Beasts and was able to bring the game to parity, and put Clutch of Undeath on his Shepard of Rot to get a 4/4. Dave unmorphed Hystrodon, and used Accelerated Mutation to bust through.
 
 Zvi's next draw was much better, as he had out Wirewood Elf, Timberwatch Elf, Wirewood Savage, and Spitting Gourna a turn early thanks to the Elf acceleration. Kastle kept pace to the best of his ability, taking care of the Timberwatch with Frozen Solid and playing Dragon Scales on his Mistform Dreamer. A couple of morphs followed to make the board even, and Kastle played out Aven Fateshaper to give him a way to get through the Gourna in the air. This left him tapped out, however, and Zvi used Vitality Charm to force through lethal damage as Darwin revealed Echo Tracer and Frontline Strategist, lacking the mana to activate either. 
 

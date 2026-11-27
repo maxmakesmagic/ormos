@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/T8Kastle.jpg)Monday before Grand Prix Manchester, Darwin Kastle quit his job to play Magic full time. Then he flew to the Grand Prix, where his career as a professional Magic player got a kick-start - Darwin won the whole thing. "This is a good way to get started. It seems like the time I spent was worth it," he smiles after one week of practising Invasion limited. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/T8Kastle.jpg)
+
+Monday before Grand Prix Manchester, Darwin Kastle quit his job to play Magic full time. Then he flew to the Grand Prix, where his career as a professional Magic player got a kick-start - Darwin won the whole thing. "This is a good way to get started. It seems like the time I spent was worth it," he smiles after one week of practising Invasion limited. 
 
 Darwin is one of the Magic veterans. He has played Magic since The Dark, and he has had plenty of top performances; Darwin won the Rio Invitational, he finished second in Pro Tour Atlanta, third in Pro Tour Paris and third in the very first Pro Tour in Los Angeles. However, he had yet to win a major individual tournament, and he was getting tired of never winning. "I spent the whole week visualising myself winning, because I don't think about that often enough. I've been proud of myself for doing well, and I've thought that I'd eventually win something, but enough of this eventually \[stuff\]!" he smiles and glances down at his trophy. 
 

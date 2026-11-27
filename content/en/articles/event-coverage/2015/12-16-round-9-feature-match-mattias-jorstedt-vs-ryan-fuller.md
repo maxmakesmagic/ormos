@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Scott Wills* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/149.jpg)Both players were sitting pretty at the top of the standings coming into this round. With somewhere around 10-2-1 needed to make the finals a win this round for either player would give them a great chance of getting the Swiss points necessary to advance. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/149.jpg)
+
+Both players were sitting pretty at the top of the standings coming into this round. With somewhere around 10-2-1 needed to make the finals a win this round for either player would give them a great chance of getting the Swiss points necessary to advance. 
 
 Ryan Fuller has moved over to Europe from Canada just recently and is currently living in Amsterdam with his friend and drafting partner Noah Boeken. Noah was in the same pod as Ryan and Mattias for this draft and at one point drafted a Rout that Mattias felt should've gone into his deck. As a result of Noah switching colours Mattias' deck was comparatively weak and Ryan immediately started trash-talking Mattias' deck when he reached the table. 
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Randy Buehler* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/781.jpg)Svend Geertsen and his teammates were celebrating when Billy "Baby Huey" Jensen played a forest and a mountain on his first two turns. They thought Geertsen's red/green deck was ideal for the mirror match. However, in game 1 it was Huey's Kyren Negotiations that looked special. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/781.jpg)
+
+Svend Geertsen and his teammates were celebrating when Billy "Baby Huey" Jensen played a forest and a mountain on his first two turns. They thought Geertsen's red/green deck was ideal for the mirror match. However, in game 1 it was Huey's Kyren Negotiations that looked special. 
 
 At the next table Raphael Levy played out a Ramosian Sergeant, Defiant Falcon, and Fresh Volunteers while Casey McCarrel played two plains and was forced to start discarding. By the time McCarrel drew a swamp he was facing down Stinging Barrier as well and it was just too late. 
 

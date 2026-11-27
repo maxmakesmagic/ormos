@@ -70,7 +70,9 @@ Battle like the best, right out of the box. Includes a tournament-ready 60-card 
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/1d/b2/1db2dafdd4fc084a59bb00960e9506de91a958d70110f868fc0da52c43bfa0aa.png) The third in the Scars of Mirrodin block, this set features 175 black-bordered cards, randomly inserted premium versions of all cards in the set, new mechanics (Phyrexian Mana), and a new Planeswalker card.
+![](https://i.ormos.uk/1d/b2/1db2dafdd4fc084a59bb00960e9506de91a958d70110f868fc0da52c43bfa0aa.png)
+
+ The third in the Scars of Mirrodin block, this set features 175 black-bordered cards, randomly inserted premium versions of all cards in the set, new mechanics (Phyrexian Mana), and a new Planeswalker card.
 
 **Set Name:** *New Phyrexia*  
 **Block:** Set 3 of 3 of the *Scars of Mirrodin* Block  

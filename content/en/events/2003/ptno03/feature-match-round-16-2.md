@@ -287,7 +287,9 @@ render_recovery:
 ---
 * * *
 
-![Feature Match: Wright vs. Cato](http://www.wizards.com/sideboard/images/ptno03/835.jpg "Feature Match: Wright vs. Cato")Stuart Wright came into this match with an 11-3-1 record piloting the popular Mana Severance/Charbelcher combo deck. Dan Cato was also doing just fine at 11-4 with a new build of Red Deck Wins that uses a full complement of four Slith Firewalkers. The winner of this match would advance to the Top 8.
+![Feature Match: Wright vs. Cato](http://www.wizards.com/sideboard/images/ptno03/835.jpg "Feature Match: Wright vs. Cato")
+
+Stuart Wright came into this match with an 11-3-1 record piloting the popular Mana Severance/Charbelcher combo deck. Dan Cato was also doing just fine at 11-4 with a new build of Red Deck Wins that uses a full complement of four Slith Firewalkers. The winner of this match would advance to the Top 8.
 
 ### Game 1
 
@@ -297,7 +299,9 @@ Dan's next turn consisted of Bloodstained Mire, fetching a Mountain, an attack f
 
 "With your deck you actually have something to think about, with mine it's just cast guys, push them into the red zone…" - Dan
 
-![Stuart Wright gets ready to belch](http://www.wizards.com/sideboard/images/ptno03/837.jpg "Stuart Wright gets ready to belch")Stuart played an Ancient Tomb, tapped it to pay for a Talisman of Progress, and then tapped that and his Island for a Grim Monolith. Dan's response was to sacrifice another Bloodstained Mire, again for a Mountain, and place down a Tangle Wire.
+![Stuart Wright gets ready to belch](http://www.wizards.com/sideboard/images/ptno03/837.jpg "Stuart Wright gets ready to belch")
+
+Stuart played an Ancient Tomb, tapped it to pay for a Talisman of Progress, and then tapped that and his Island for a Grim Monolith. Dan's response was to sacrifice another Bloodstained Mire, again for a Mountain, and place down a Tangle Wire.
 
 "Seems fair." - Stuart
 
@@ -315,7 +319,9 @@ Dan Cato 1 - Stuart Wright 0
 
 Stuart stared at his hand thoughtfully for about a minute before he announced that he was willing to keep. Dan, on the other hand, mulliganed with, "I'm not \[keeping this\]…I'm not gonna beat you down with one Port."
 
-![Dan Cato slumps](http://www.wizards.com/sideboard/images/ptno03/836.jpg "Dan Cato slumps")Stuart started things off with Ancient Tomb that tapped for Talisman of Progress. Dan went straight for the dome with "Mountain, Firebolt you" to which Stuart responded, "Well I Firebolted myself on turn one, so it seems fair."
+![Dan Cato slumps](http://www.wizards.com/sideboard/images/ptno03/836.jpg "Dan Cato slumps")
+
+Stuart started things off with Ancient Tomb that tapped for Talisman of Progress. Dan went straight for the dome with "Mountain, Firebolt you" to which Stuart responded, "Well I Firebolted myself on turn one, so it seems fair."
 
 Mox Diamond and Crystal Vein hit the board, followed by an ominous Goblin Charbelcher.
 

@@ -61,7 +61,9 @@ archive_source:
   sha256: c900920a71c91d0c2a6403d8bbec9304da17446a1960ecf72dead65e60c1f7f4
 render_recovery: []
 ---
-![Playtest cards](https://i.ormos.uk/43/96/43967ef01c8e8d7a40017a812036c5d456061bccae7ad96c24e0f21301f7e95b.jpg)One of the perks of being in R&D is that part of your job is joining playtests. We have certain playtests at the same time every week. Others are put together spontaneously. Such a playtest has been put together this morning.
+![Playtest cards](https://i.ormos.uk/43/96/43967ef01c8e8d7a40017a812036c5d456061bccae7ad96c24e0f21301f7e95b.jpg)
+
+One of the perks of being in R&D is that part of your job is joining playtests. We have certain playtests at the same time every week. Others are put together spontaneously. Such a playtest has been put together this morning.
 
 The development team is testing out the latest set and they’re looking for other R&D members to join in. Sounds like fun. As you sit down to build your deck, you think, “I’m not goofing off. This is my job.”
 

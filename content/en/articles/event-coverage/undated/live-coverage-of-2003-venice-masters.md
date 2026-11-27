@@ -46,7 +46,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/2b/12/2b126f6abba7c83487cc39e7cbbe82de84d74a4bb3d500a50d22e200cbfef969.jpg)PS2 are the Venice Masters Series Champions! In a tight match against Pro Tour – Boston finalists 2020, the boys from Japan showed they have the skills that make a champion. They were ready ever since the semifinals when they dispatched Japan's old-guard Panzer Hunters, but 2020 were no less excited. They'd just repeated their defeat of Courtney's Boys from the Boston semifinals.
+![](https://i.ormos.uk/2b/12/2b126f6abba7c83487cc39e7cbbe82de84d74a4bb3d500a50d22e200cbfef969.jpg)
+
+PS2 are the Venice Masters Series Champions! In a tight match against Pro Tour – Boston finalists 2020, the boys from Japan showed they have the skills that make a champion. They were ready ever since the semifinals when they dispatched Japan's old-guard Panzer Hunters, but 2020 were no less excited. They'd just repeated their defeat of Courtney's Boys from the Boston semifinals.
 
 Both teams were feeling the drama as they sat down to the final draft. The Japanese used a reactive strategy, shifting their colors around during the early packs. The Canadians had a strategy and they stuck to it, and for a while things looked like they were in their favor. The packs started to turn, though, and once all the cards were collected no-one was sure who had the advantage.
 

@@ -61,7 +61,9 @@ archive_source:
   sha256: 154e775735731b609cc5f2a7a1649c76dfbdd39b47cdeb6dbba3f0904dd251fb
 render_recovery: []
 ---
-![Skaff](https://i.ormos.uk/4f/3d/4f3d2fb736d1e67203a0570a82cc3927f8b162a3646fc8563fc72f7a79b1118b.jpg)You begin by asking Skaff if he knows what room your meeting is in. As expected, he has no idea. He asks you if you have a minute.
+![Skaff](https://i.ormos.uk/4f/3d/4f3d2fb736d1e67203a0570a82cc3927f8b162a3646fc8563fc72f7a79b1118b.jpg)
+
+You begin by asking Skaff if he knows what room your meeting is in. As expected, he has no idea. He asks you if you have a minute.
 
  **[Give Skaff a minute.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=45)  
 [Keep looking.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=44)**

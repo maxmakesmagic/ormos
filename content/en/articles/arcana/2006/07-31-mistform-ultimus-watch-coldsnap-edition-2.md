@@ -167,7 +167,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/07/9e/079e25d137141a70f7f5b7282d7c1d233899caf3ea36a3d73f6a00725e8690f0.jpg)Welcome again to Mistform Ultimus Watch! In this recurring sub-feature of Magic Arcana we keep track of everybody's favorite bane of trivia to see what creature types it has gained and/or lost.
+![](https://i.ormos.uk/07/9e/079e25d137141a70f7f5b7282d7c1d233899caf3ea36a3d73f6a00725e8690f0.jpg)
+
+Welcome again to Mistform Ultimus Watch! In this recurring sub-feature of Magic Arcana we keep track of everybody's favorite bane of trivia to see what creature types it has gained and/or lost.
 
 Last time we checked in with the Ultimus [after the release of Ravnica](/en/articles/arcana/2006/01-05-mistform-ultimus-watch-ravnica-edition-2), just before *Guildpact* previews were getting ready to kick off. Since then *Guildpact*, *Dissension*, and *Coldsnap* have all joined the mix. On top of all that, *Visions* was released on ***Magic** Online* in April, which also brought some changes. So, since we last checked in, the Ultimus has also become a Construct, a Cyclops, a Nephilim, a Weird, and, at long last, a Juggernaut! (Thanks Gruul War Plow!) 
 

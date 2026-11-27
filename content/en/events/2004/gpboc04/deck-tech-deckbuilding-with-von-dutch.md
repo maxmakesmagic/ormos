@@ -1061,7 +1061,9 @@ render_recovery:
   - Myr Landhaper
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gpboc04/db1_1.jpg)The weekend started with me finding my way to sit down with team Von Dutch. Jeroen Remie, Jelger Wiegersma and Kamiel Cornelissen decided to team up when the various Dutch teams they were in stopped playing together. The most memorable team who hadn't survived the split-ups in Holland was Jelgers former team: team Starmaker.com/lap aka team Lowlands: Sideboard Online reporter Victor v/d Broek, Jelger and Frank Karsten were considered the # 2 team in the World, but failed to finish on top on some occasions.
+![](http://www.wizards.com/sideboard/images/gpboc04/db1_1.jpg)
+
+The weekend started with me finding my way to sit down with team Von Dutch. Jeroen Remie, Jelger Wiegersma and Kamiel Cornelissen decided to team up when the various Dutch teams they were in stopped playing together. The most memorable team who hadn't survived the split-ups in Holland was Jelgers former team: team Starmaker.com/lap aka team Lowlands: Sideboard Online reporter Victor v/d Broek, Jelger and Frank Karsten were considered the # 2 team in the World, but failed to finish on top on some occasions.
 
 Jelger, Jeroen and Kamiel had 2 byes because of the massive amount of Pro Tour points they share, almost breaking 100. Might as well be over 100, because Kamiel doesn't exactly know how many he's gathered so far. Last thing Sideboard found out about Von Dutch: Little Darwin (Paul Reitzl) donated them their name, so we know almost everything about them we had to know…
 

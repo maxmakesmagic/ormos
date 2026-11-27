@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a900.jpg)They were sitting right next to each other on the draft and now they get to play against each other. Former European Champion, and Team Masters' winner, Noah Boeken, one of the members of the ABU team faces of against one of the friendliest and nicest players in the Pro Tour.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a900.jpg)
+
+They were sitting right next to each other on the draft and now they get to play against each other. Former European Champion, and Team Masters' winner, Noah Boeken, one of the members of the ABU team faces of against one of the friendliest and nicest players in the Pro Tour.
 
 Michael Pustilnik is such a nice guy that most people can only call him Mikey. Apart from being a nice guy he is also a terrific player. He is the only player so far to win a Pro Tour and a Masters. He won both events in Limited formats.
 
@@ -70,7 +72,9 @@ By then Boeken had already protected his Imp with a [Ghostly Wings](https://web.
 
 The Dutch untapped and again sent his crew in crushing Mikey down to a precarious two life points before playing [Aven Windreader](https://web.archive.org/web/20020503000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Windreader). With the game winding down Pustilnik went for the throat sending everyone in.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a901.jpg)Laquatus and Windreader stepped in the way to stop the what seemed like the fatal blow but Pustilnik had the [Rites of Initiation](https://web.archive.org/web/20020503000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rites+of+Initiation) and enough extra cards to put the first game away.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a901.jpg)
+
+Laquatus and Windreader stepped in the way to stop the what seemed like the fatal blow but Pustilnik had the [Rites of Initiation](https://web.archive.org/web/20020503000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rites+of+Initiation) and enough extra cards to put the first game away.
 
 Mikey 1-0 Noah.
 

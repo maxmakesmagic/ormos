@@ -69,7 +69,9 @@ archive_source:
   sha256: 9f3b77742256f197dc0e8c49dba64d3efb3cb36c5a3cf7ec8e05da0586bdc2a9
 render_recovery: []
 ---
-[![Coldsnap Orb of Insight - Click to launch](https://i.ormos.uk/68/ba/68ba8842f41c93612b2c482d835e04e43ac5a28a7e8efe0607f5e9b41dee69ea.jpg)](#)The Orb of Insight is back!
+[![Coldsnap Orb of Insight - Click to launch](https://i.ormos.uk/68/ba/68ba8842f41c93612b2c482d835e04e43ac5a28a7e8efe0607f5e9b41dee69ea.jpg)](#)
+
+The Orb of Insight is back!
 
 The official spoiler list for *Coldsnap* doesn't publish until July 10th, and **magicthegathering.com's** two weeks of previews begin June 26, but the Orb of Insight knows the set *now*!
 

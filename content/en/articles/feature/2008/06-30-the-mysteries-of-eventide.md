@@ -112,7 +112,9 @@ All right then! Onward!
 
 ### Next Stop: *Eventide*
 
-![qA0MxJxJa0wPEnZmwWVC](https://i.ormos.uk/2f/79/2f79a545370d79bd88552c5f540ca4f7fe88df17bf6a1809726bd3fcd70b7b48.jpg)Even if you haven’t been following the story behind *Lorwyn* and *Shadowmoor* so far, this is a great opportunity to get caught up. Today we take a look at the movers and shakers of this four-set, two-plane backstorystravaganza, so you can be up to the proper literary cruising altitude by the time you [get your hands on the cards](https://web.archive.org/web/20080630000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/events/prereleases) and [the *Eventide* novel](https://web.archive.org/web/20080630000000/http://ww2.wizards.com/Books/Wizards/Products/default.aspx?doc=216377400). Ready? 
+![qA0MxJxJa0wPEnZmwWVC](https://i.ormos.uk/2f/79/2f79a545370d79bd88552c5f540ca4f7fe88df17bf6a1809726bd3fcd70b7b48.jpg)
+
+Even if you haven’t been following the story behind *Lorwyn* and *Shadowmoor* so far, this is a great opportunity to get caught up. Today we take a look at the movers and shakers of this four-set, two-plane backstorystravaganza, so you can be up to the proper literary cruising altitude by the time you [get your hands on the cards](https://web.archive.org/web/20080630000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/events/prereleases) and [the *Eventide* novel](https://web.archive.org/web/20080630000000/http://ww2.wizards.com/Books/Wizards/Products/default.aspx?doc=216377400). Ready? 
 
 **e•ven•tide**  
 *noun*  

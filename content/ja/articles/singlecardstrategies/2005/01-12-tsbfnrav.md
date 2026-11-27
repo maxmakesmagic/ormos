@@ -130,7 +130,9 @@ render_recovery:
 
 ### 正しいタイミング
 
-![](https://i.ormos.uk/75/2c/752ca4b575522f166ebd64fb4d0b5f737eea427cc3d2dcc096a5f4623a6f5645.jpg)　世の中にはものすごい枚数の[インスタント](https://web.archive.org/web/20050112000000/http://gatherer.wizards.com/default.asp?term=instant&fields=%7Ctype&format=Allsets&color=All&output=summary&sort=name&first=1)がある。事実、これまでに897種類ものインスタントが作られている。ありがたいことに、どのインスタントが使うに値するかを調べるためには、全部のインスタントを見るには及ばない。見つけるための簡単なコツがいくつかある。
+![](https://i.ormos.uk/75/2c/752ca4b575522f166ebd64fb4d0b5f737eea427cc3d2dcc096a5f4623a6f5645.jpg)
+
+　世の中にはものすごい枚数の[インスタント](https://web.archive.org/web/20050112000000/http://gatherer.wizards.com/default.asp?term=instant&fields=%7Ctype&format=Allsets&color=All&output=summary&sort=name&first=1)がある。事実、これまでに897種類ものインスタントが作られている。ありがたいことに、どのインスタントが使うに値するかを調べるためには、全部のインスタントを見るには及ばない。見つけるための簡単なコツがいくつかある。
 
 　*軽いもの*――クリーチャーはありえないタイミングで死ぬこともある。こいつは人生における真実であり、頭にくることでもあるが、その瞬間のために準備をしておかなくちゃいけない。君がの手元に軽いインスタントたくさんあるなら、準備ができているということだ。一つ把握していなくてはいけないのが、相手のクリーチャーが死んだときに、《梅澤俊郎》の能力の適切な対象となるインスタントはすでに墓地になければいけないということだ。対象の選択は、誘発した能力がスタックに置かれるときにしなくてはいけない。
 

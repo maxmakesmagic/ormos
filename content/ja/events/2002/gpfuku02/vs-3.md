@@ -208,7 +208,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/886.jpg)先手の森田は《熊人間/Werebear》から《クローサの射手／Krosan Archer》と始まり、石原も《狂犬/Mad Dog》、《陰謀団の拷問者/Cabal Torturer》と行くが、この《陰謀団の拷問者/Cabal Torturer》を《顔なしの解体者/Faceless Butcher》でキャッチし、序盤戦は森田側が圧倒。
+![](http://www.wizards.com/sideboard/images/gpfuku02/886.jpg)
+
+先手の森田は《熊人間/Werebear》から《クローサの射手／Krosan Archer》と始まり、石原も《狂犬/Mad Dog》、《陰謀団の拷問者/Cabal Torturer》と行くが、この《陰謀団の拷問者/Cabal Torturer》を《顔なしの解体者/Faceless Butcher》でキャッチし、序盤戦は森田側が圧倒。
 
 《顔なしの解体者/Faceless Butcher》に《影の形態/Shade's Form》も張り、《顔なしの解体者/Faceless Butcher》を補佐した上で《狂犬/Mad Dog》などを《降り注ぐ塊炭/Shower of Coals》で本体もまとめてダメージを入れ、次ターンに《病的な飢え/Morbid Hunger》をキャストし、石原がなにもする前に、森田は一本目を先取。  
  正に 5 分程の出来事であった。
@@ -222,7 +224,9 @@ render_recovery:
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/885.jpg)再び先手が森田の手に移り、 3 ターン目に《はるかなる放浪/Far Wanderings》でマナを加速させ、 4 ターン目に《凶暴象/Rabid Elephant》と、一気に勝負を決しに行く。
+![](http://www.wizards.com/sideboard/images/gpfuku02/885.jpg)
+
+再び先手が森田の手に移り、 3 ターン目に《はるかなる放浪/Far Wanderings》でマナを加速させ、 4 ターン目に《凶暴象/Rabid Elephant》と、一気に勝負を決しに行く。
 
 その間、石原は《陰謀団の拷問者/Cabal Torturer》、《矛槍兵/Halberdier》と並べるが、どうにも《凶暴象/Rabid Elephant》の処理に困り果てている。
 

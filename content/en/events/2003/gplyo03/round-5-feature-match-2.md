@@ -78,7 +78,9 @@ render_recovery:
   - Wizard Replica
   occurrences: 34
 ---
-![](https://www.wizards.com/sideboard/images/gplyo03/944.jpg)Round 5 and we are treated to a repeat of the [Pro Tour Chicago 2003 final](/en/events/2003/ptchi03/finals-nicolai-herzog-vs-kai-budde) as Kai Budde faces off against Nicolai Herzog. Both men have very impressive resumes. Budde has won something like twice as many Pro Tours as his nearest competitor while the Norwegian Herzog has something of a specialisation in the European Championships having won it twice.
+![](https://www.wizards.com/sideboard/images/gplyo03/944.jpg)
+
+Round 5 and we are treated to a repeat of the [Pro Tour Chicago 2003 final](/en/events/2003/ptchi03/finals-nicolai-herzog-vs-kai-budde) as Kai Budde faces off against Nicolai Herzog. Both men have very impressive resumes. Budde has won something like twice as many Pro Tours as his nearest competitor while the Norwegian Herzog has something of a specialisation in the European Championships having won it twice.
 
 ### Game 1
 
@@ -94,7 +96,9 @@ A Serum Tank for the Norwegian looked to take him ahead in the card advantage st
 
 A Goblin Replica took out the shard only for Budde to drop a second. Things were bad for Herzog. He had the Serum tank but otherwise was showing an empty board to Budde's Goblin, Nim Replica and Scavenger. Blinding Beam bought Herzog some time as the monsters kept coming. Herzog dropped a Pearl Shard and Myr Enforcer to try and fend off the attack. The Enforcer traded with Scavenger and Replica with a little help from Spikey. Herzog tried to pull back by Shrapnel Blasting a Hematite Golem. Skeletal Shard meant its stay in the graveyard was only a temporary affair. Herzog at least had an answer now to the Shard as the Retriever fetched the Replica back from the graveyard.
 
-![](https://www.wizards.com/sideboard/images/gplyo03/945.jpg)Herzog was clinging on with the Pearl Shard while Budde kept up the pressure with his inexhaustible supply of artifact creatures. Goblin Replica finally took down the Shard but Budde had Grab the Reins and ended the game when Herzog summoned out another Enforcer for defence.
+![](https://www.wizards.com/sideboard/images/gplyo03/945.jpg)
+
+Herzog was clinging on with the Pearl Shard while Budde kept up the pressure with his inexhaustible supply of artifact creatures. Goblin Replica finally took down the Shard but Budde had Grab the Reins and ended the game when Herzog summoned out another Enforcer for defence.
 
 Budde 1-0 Herzog
 
@@ -104,7 +108,9 @@ Things looked up in game two for Herzog as Budde mulliganed and then skipped his
 
 Next turn was fairly savage. Herzog arrested a Frogmite only for Budde to launch it at his Enforcer with a Shrapnel Blast. Herzog flung the Enforcer back at Budde's remaining Frogmite with a Blast of his own. The German was fighting back hard though. A third land brought in a Scavenger and a Frogmite came hopping back into the fray.
 
-![](https://www.wizards.com/sideboard/images/gplyo03/946.jpg)Now the Norwegian looked out of gas as Budde equipped the Scavenger and swung. A Spikeshot Goblin followed and also grabbed a 'splitter.
+![](https://www.wizards.com/sideboard/images/gplyo03/946.jpg)
+
+Now the Norwegian looked out of gas as Budde equipped the Scavenger and swung. A Spikeshot Goblin followed and also grabbed a 'splitter.
 
 Next turn was massive for Herzog. He bolted a Frogmite then wiped out Budde's two equipped monsters with the loss of none of his own with a Solar Tide.
 

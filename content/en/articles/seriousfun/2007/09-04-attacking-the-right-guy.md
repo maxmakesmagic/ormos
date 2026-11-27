@@ -106,7 +106,9 @@ Hey, you're the only guy with a creature out! Why not go nuts? Pound the heck ou
 
 Not so fast, Sparky. I said, *if there's no danger of payback*. 
 
-[![Mortal_Combat](https://i.ormos.uk/09/e8/09e881566d578b3e597169a3cdcbd790ee1a1abdb4cb7efc9eddeef1adf64721.jpg)](https://web.archive.org/web/20070904000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mortal%2BCombat)A frequent problem novice multiplayers face is the "shrug 'n' go" method of attack—as in, "It's turn three. I'm the first guy out with a [Mire Boa](https://web.archive.org/web/20070904000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mire+Boa). I'll pound whoever's open." 
+[![Mortal_Combat](https://i.ormos.uk/09/e8/09e881566d578b3e597169a3cdcbd790ee1a1abdb4cb7efc9eddeef1adf64721.jpg)](https://web.archive.org/web/20070904000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mortal%2BCombat)
+
+A frequent problem novice multiplayers face is the "shrug 'n' go" method of attack—as in, "It's turn three. I'm the first guy out with a [Mire Boa](https://web.archive.org/web/20070904000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mire+Boa). I'll pound whoever's open." 
 
 You know what happens? There's payback. Because the guy you just dropped is likely to remember who hit him, and then when he drops his 3/3 he comes right back at you. Next thing you know, you're engaged in a fistfight with the "helpless" guy you just picked on, and you're both burning cards and depleting each other's life totals as everyone looks on and laaaughs. 
 
@@ -152,7 +154,9 @@ In general, you should look for the biggest threat in this order:
 
 *Board position:* You want to think about taking down the guy who's got the stuff on the table that's the likeliest to kill you. That's pretty elementary.
 
-[![Backlash](https://i.ormos.uk/1f/e1/1fe1e6738b118e20b870021ae2ceb1a6807ff8381790f36f8a3d0810dc7c5cb6.jpg)](https://web.archive.org/web/20070904000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Backlash)But novice players frequently forget to take *their* position into account. If you have a pair of [Wrath of God](https://web.archive.org/web/20070904000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God)s in hand and enough defense to last through an attack—remember, you want to keep enough back to act as a deterrent—then you don't really have to worry as much about an army of large men. 
+[![Backlash](https://i.ormos.uk/1f/e1/1fe1e6738b118e20b870021ae2ceb1a6807ff8381790f36f8a3d0810dc7c5cb6.jpg)](https://web.archive.org/web/20070904000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Backlash)
+
+But novice players frequently forget to take *their* position into account. If you have a pair of [Wrath of God](https://web.archive.org/web/20070904000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God)s in hand and enough defense to last through an attack—remember, you want to keep enough back to act as a deterrent—then you don't really have to worry as much about an army of large men. 
 
 Remember, the more you can lay back and let other people do the dirty work, the better. That guy with the giant men may decide to attack someone else, taking an opponent out of the game while you do nothing... and then you Wrath. Or another opponent may flip out at the gigantic men and burn his own [Wrath of God](https://web.archive.org/web/20070904000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God), leaving you with yours still mercifully in hand. So if you can affect someone's board position, there's not necessarily a reason to go after him. 
 
@@ -172,7 +176,9 @@ It is what he *must* do. It is his nature.
 
 ***Make sure you're not killing your ally.***
 
-[![Phyrexian_Arena](https://i.ormos.uk/7b/c8/7bc8958d23e9260c165d4a40757692ea52be18bb1527faf975c9e4c30ce5a964.jpg)](https://web.archive.org/web/20070904000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Phyrexian%2BArena)Quite often, you will need to team up with others to deal with control decks, which by definition are geared to handle several players at once. 
+[![Phyrexian_Arena](https://i.ormos.uk/7b/c8/7bc8958d23e9260c165d4a40757692ea52be18bb1527faf975c9e4c30ce5a964.jpg)](https://web.archive.org/web/20070904000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Phyrexian%2BArena)
+
+Quite often, you will need to team up with others to deal with control decks, which by definition are geared to handle several players at once. 
 
 Let's say you're playing a red-black deck without any artifact removal and you're facing a guy with a deck that you know packs four [Vedalken Shackles](https://web.archive.org/web/20070904000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vedalken+Shackles). Yes, you probably *can* lay that [Rorix Bladewing](https://web.archive.org/web/20070904000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rorix+Bladewing) and beat on someone else... but you may also be taking out the green-red deck that has the [Splinter](https://web.archive.org/web/20070904000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Splinter) you desperately need to win. 
 
@@ -204,7 +210,9 @@ Also remember that when it comes to "reducing options," cards in hand count as o
 
 ***Decide whether you need to finish someone off.***
 
-[![Fatal_Blow](https://i.ormos.uk/a3/5c/a35c56554930e8ba2ac532d46f23cba6f65319ef83b8af211eeadc1c98b1ae6f.jpg)](https://web.archive.org/web/20070904000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Fatal%2BBlow)\]Assuming you're not in the pole position where everyone at the table is baying for your blood, you can often grind someone down to a place where you can easily finish them off... and then leave them there. 
+[![Fatal_Blow](https://i.ormos.uk/a3/5c/a35c56554930e8ba2ac532d46f23cba6f65319ef83b8af211eeadc1c98b1ae6f.jpg)](https://web.archive.org/web/20070904000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Fatal%2BBlow)
+
+\]Assuming you're not in the pole position where everyone at the table is baying for your blood, you can often grind someone down to a place where you can easily finish them off... and then leave them there. 
 
 The art of leaving survivors is another article in itself, but leaving someone alive and at 5 life is often a *great* move, as long as they're not a serious threat to you. Depending on how you play it, leaving someone on the board who's no longer a worry to you but is a concern to other players can be a valid stratagem. 
 

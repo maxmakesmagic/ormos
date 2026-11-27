@@ -119,7 +119,9 @@ render_recovery:
   - Deep Analysis
   occurrences: 88
 ---
-![](https://i.ormos.uk/04/ee/04ee82324a28dff89f7be3a9fbab5322031e8235b09f9a009020fdf1a41a20f0.jpg)Phoenix Foundation have so far met their goals. They survived the Sealed Deck rounds, and dismantled their first two opponents thus far on Day 2. Kai Budde's confidence about his skills in Team Rochester verges on arrogance, but it's hard to argue with three digits of pro points.
+![](https://i.ormos.uk/04/ee/04ee82324a28dff89f7be3a9fbab5322031e8235b09f9a009020fdf1a41a20f0.jpg)
+
+Phoenix Foundation have so far met their goals. They survived the Sealed Deck rounds, and dismantled their first two opponents thus far on Day 2. Kai Budde's confidence about his skills in Team Rochester verges on arrogance, but it's hard to argue with three digits of pro points.
 
 In the unenviable position sitting across from them are Blake Quelle, Matt Sperling and Rory Draxler: www.mtgplanet.com. Quelle rose to the public eye when he Top 8'd at U.S. Nationals this year. Draxler and Sperling are the unknown quantities.
 
@@ -147,7 +149,9 @@ Now it was Blume's turn to suffer mana problems. He stalled at two land, Firebol
 
 Phoenix Foundation 1 - www.mtgplanet.com 1
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a847.jpg)Then it was just Budde vs. Sperling. Sperling had solidified his defenses with the Wall and Shieldmage, adding a Nomad Decoy and Cephalid Looter to the mix. Budde minimized the threat of Swirling Sandstorm with Ironshell Beetle Armoring up his Giant Warthog. Sure enough, Sperling Looted away the Storm the following turn.
+![](http://www.wizards.com/sideboard/images/ptbos02/a847.jpg)
+
+Then it was just Budde vs. Sperling. Sperling had solidified his defenses with the Wall and Shieldmage, adding a Nomad Decoy and Cephalid Looter to the mix. Budde minimized the threat of Swirling Sandstorm with Ironshell Beetle Armoring up his Giant Warthog. Sure enough, Sperling Looted away the Storm the following turn.
 
 He was at threshold, however, and so his Decoy was working overtime. Budde played Escape Artist and waited. Coral Net devalued his Phantom Nantuko immensely. He let it die. All the advantage Sperling had amassed failed to disappear, and soon it was time to go to Game 3.
 
@@ -155,7 +159,9 @@ Sperling again had the early drops of Researcher and Spurnmage Advocate. Budde P
 
 Budde pitched Ghostly Wings to keep the Barkripper around and made Nantuko Disciple. Sperling's Researcher dug for more goods and turned up Vigilant Sentry. The Barkripper, having outlasted its usefulness, was replaced with Hydromorph Gull. Sperling pulled Angelic Wall off the top.
 
-![](https://i.ormos.uk/93/7a/937a599b192a74d308eb7dd366665a7afe4577228297417ec6d98c17c2400d15.jpg)Now his defenses were impenetrable. Budde played out Hapless Researcher and Skywing Aven, clearing his hand for Breakthrough for four. Sperling had finally run out of topdecks, so Budde had some room to struggle. Sperling found Cephalid Aristocrat, and decided to work toward threshold. Budde let him. The Decoy tapped it at end of turn and sent Deep Analysis to the graveyard. Sperling was polite about his fortune. Even when it happened twice. The life totals were eleven to ten in Sperling's favor.
+![](https://i.ormos.uk/93/7a/937a599b192a74d308eb7dd366665a7afe4577228297417ec6d98c17c2400d15.jpg)
+
+Now his defenses were impenetrable. Budde played out Hapless Researcher and Skywing Aven, clearing his hand for Breakthrough for four. Sperling had finally run out of topdecks, so Budde had some room to struggle. Sperling found Cephalid Aristocrat, and decided to work toward threshold. Budde let him. The Decoy tapped it at end of turn and sent Deep Analysis to the graveyard. Sperling was polite about his fortune. Even when it happened twice. The life totals were eleven to ten in Sperling's favor.
 
 If the threat of Nantuko Disciple was great, it got downright shocking with Budde's next play of Psionic Gift. The Aristocrat was suddenly a huge liability. And here, Sperling erred. Playing Defy Gravity to get to threshold, he attacked. Budde blocked with his Aven and bounced. Instead of Spurning his own Aristocrat, Sperling did nothing. Budde pumped it at end of turn, then pinged it, sending four more cards to Sperling's graveyard. He untapped and armored the Aristocrat up with Ironshell Beetle, wearing a wicked smile. Now Sperling didn't have enough time. He attacked with his Aristocrat and killed it, but Budde's responses left him without a library. Had he killed the Aristocrat earlier, he would have had seven cards left, probably enough to win the match.
 

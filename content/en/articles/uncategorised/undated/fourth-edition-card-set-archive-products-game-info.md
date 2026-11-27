@@ -54,7 +54,9 @@ Battle like the best. Includes 60 tournament-ready cards and a rulebook.
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/a7/5b/a75b58b3abac6356b75368c369b91d6fb1e0d122146a6a97774478e7f7c0ac91.png)The *Fourth Edition* set featured 378 cards, including 122 cards new to the basic set, taken from various expansions.
+![](https://i.ormos.uk/a7/5b/a75b58b3abac6356b75368c369b91d6fb1e0d122146a6a97774478e7f7c0ac91.png)
+
+The *Fourth Edition* set featured 378 cards, including 122 cards new to the basic set, taken from various expansions.
 
 **S**et** Name:** *Fourth Edition*  
 **Number of Cards:** 378

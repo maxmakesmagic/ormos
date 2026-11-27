@@ -349,7 +349,9 @@ This decklist played very similarly to the German build, but instead would accel
 
 Perhaps the most important thing to happen to the metagame as of January 1, 2004 was the restriction of Burning Wish and Lion's Eye Diamond. Very rarely does the DCI find something so abhorrent that it feels it necessary to restrict two parts to the deck. Well, that is precisely what happened to Long.dec. Randy Beuhler talked about the deck in his article on the bannings, [Classic Developments](/en/articles/latestdevelopments/2003/12-20-classic-developments).
 
-![Lion's Eye Diamond and Burning Wish](https://i.ormos.uk/dc/9d/dc9dad32ff5e2bef8f1fc984bd4f4a9d7ea1257f5cb8c9cb528221f4c5eb92df.jpg)Simply put, this deck was designed to win on turn one or two by casting Burning Wish (finding Yawgmoth's Will in the sideboard) while sacrificing Lion's Eye Diamond in response to pay for the Yawgmoth's Will. The Yawgmoth's Will would then permit you to replay the Lion's Eye Diamond, which would hopefully permit you to cast Tendrils of Agony. Since the Lion's Eye Diamond, Burning Wish, and Yawgmoth's Will combo costs four spells (you play the LED twice), you are halfway toward lethal storm at the same time. This is often how Long would play out, assuming a normal turn two kill:
+![Lion's Eye Diamond and Burning Wish](https://i.ormos.uk/dc/9d/dc9dad32ff5e2bef8f1fc984bd4f4a9d7ea1257f5cb8c9cb528221f4c5eb92df.jpg)
+
+Simply put, this deck was designed to win on turn one or two by casting Burning Wish (finding Yawgmoth's Will in the sideboard) while sacrificing Lion's Eye Diamond in response to pay for the Yawgmoth's Will. The Yawgmoth's Will would then permit you to replay the Lion's Eye Diamond, which would hopefully permit you to cast Tendrils of Agony. Since the Lion's Eye Diamond, Burning Wish, and Yawgmoth's Will combo costs four spells (you play the LED twice), you are halfway toward lethal storm at the same time. This is often how Long would play out, assuming a normal turn two kill:
 
 Turn One:
 

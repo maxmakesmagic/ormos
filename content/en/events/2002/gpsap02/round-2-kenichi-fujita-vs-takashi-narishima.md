@@ -86,7 +86,9 @@ render_recovery:
   - Screams of the Damned
   occurrences: 60
 ---
-![](http://www.wizards.com/sideboard/images/gpsap02/a989.jpg)Japan's Big Man of Magic, Ken'ichi Fujita has fallen on some hard times. Once a familiar, if imposing, figure on the Pro Tour, now he finds himself with only one bye at this Grand Prix. Woe to his opponent, Takashi Narishima, who didn't expect to face competition this fierce this early.
+![](http://www.wizards.com/sideboard/images/gpsap02/a989.jpg)
+
+Japan's Big Man of Magic, Ken'ichi Fujita has fallen on some hard times. Once a familiar, if imposing, figure on the Pro Tour, now he finds himself with only one bye at this Grand Prix. Woe to his opponent, Takashi Narishima, who didn't expect to face competition this fierce this early.
 
 Narashima started out with island and then Basking Rootwalla. Fujita's Innocent Blood took it down. Narashima tried another, protecting this one from a Blood with Envelop. Fujita had Chainer's Edict.
 
@@ -108,7 +110,9 @@ Narashima held on as best he could, throwing all his resources into staying aliv
 
 Narashima 1 - Fujita 1
 
-![](http://www.wizards.com/sideboard/images/gpsap02/a988.jpg)Game 3 was all Fujita early, when Narashima played back-to-back islands and then stopped playing lands altogether. Mesmeric Fiend revealed a terrible hand of Envelop, Aether Burst, Arrogant Wurm, two Squirrel Nests and two Persuasions. It snagged the Envelop.
+![](http://www.wizards.com/sideboard/images/gpsap02/a988.jpg)
+
+Game 3 was all Fujita early, when Narashima played back-to-back islands and then stopped playing lands altogether. Mesmeric Fiend revealed a terrible hand of Envelop, Aether Burst, Arrogant Wurm, two Squirrel Nests and two Persuasions. It snagged the Envelop.
 
 Things didn't go well for Narashima from there. His freshly-drawn Aquamoeba fell to an Edict, and he was forced to start discarding. Fujita dropped Mirari, setting up Cabal Therapy. Next turn he copied it. Aether Burst freed the Envelop to stop one. The other dispatches the Nests and sees two Wurms, Persuasion and Mongrel.
 

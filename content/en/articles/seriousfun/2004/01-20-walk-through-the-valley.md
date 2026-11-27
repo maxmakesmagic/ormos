@@ -692,7 +692,9 @@ In fact, if we’re using an army of tokens (e.g., [Myr Matrix](/en/articles/mak
 
 The power and toughness adjustment also helps some *Mirrodin* favorites, such as Spikeshot Goblin and Auriok Bladewarden, work a bit better and stay alive longer.
 
-![](https://i.ormos.uk/04/06/040621e6c03868d56f140802077c880bfdb6c6e9569d1a5e50f2832713cc4e71.jpg)**Protection from white.** I often feel that protection from this particular color is underrated. Wrath of God and its ilk have a lot to do with that – but white mages who run Wrath also like running spot removal like Swords to Plowshares, and they like blocking with big, fat white creatures. They also attack with horrific stuff like Serra Angel, and who hasn’t faced down one of those with an Ornithopter and wished they could do better?
+![](https://i.ormos.uk/04/06/040621e6c03868d56f140802077c880bfdb6c6e9569d1a5e50f2832713cc4e71.jpg)
+
+**Protection from white.** I often feel that protection from this particular color is underrated. Wrath of God and its ilk have a lot to do with that – but white mages who run Wrath also like running spot removal like Swords to Plowshares, and they like blocking with big, fat white creatures. They also attack with horrific stuff like Serra Angel, and who hasn’t faced down one of those with an Ornithopter and wished they could do better?
 
 **Protection from black.** This can be good, even if no one else is playing the color. After all, every player eventually makes (or meets) a Pestilence deck that “cleverly” protects its own creatures and life total. Here, in one card, we have both the protection *and* life gain aspect. Expect to see this the next time someone in your group plays that particular deck type. And, of course, so much spot removal is black it’s not funny. So no jokes here. Move on.
 

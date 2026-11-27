@@ -77,7 +77,9 @@ archive_source:
   sha256: d7608d56346d524c84138040f508601604acde0390acf7f05890cbbc7756b151
 render_recovery: []
 ---
-![](https://i.ormos.uk/46/01/4601008c36460ed4214044398efce0cc18c8b61b9499286bc05347956dbe0e46.jpg)I am over three thousand years old, and like a lot of Magic players who are getting along in age, I play a good portion of my games online these days. Not only do I find it extremely convenient, but it's also a welcome respite from the usual living hell I endure whilst playing Magic in person. You see, Magic Online gives me sweet, sweet relief from the phonetic butchery I witness when playing one random human or another. 
+![](https://i.ormos.uk/46/01/4601008c36460ed4214044398efce0cc18c8b61b9499286bc05347956dbe0e46.jpg)
+
+I am over three thousand years old, and like a lot of Magic players who are getting along in age, I play a good portion of my games online these days. Not only do I find it extremely convenient, but it's also a welcome respite from the usual living hell I endure whilst playing Magic in person. You see, Magic Online gives me sweet, sweet relief from the phonetic butchery I witness when playing one random human or another. 
 
 So I was playing a little Friday Night Magic recently and, after the one-millionth mispronunciation of the word "Magus," I quickly conceded the match to my opponent and fled... straight to Matt Cavotta's house, where I pleaded with him for another opportunity to squat on Taste The Magic and school some misguided humans. I should not have been surprised when he quickly agreed – humans are notoriously lazy, and he was happy to let me do his work for him. 
 
@@ -99,7 +101,9 @@ And here we are, Taste the Magic, commandeered by your old pal, Sekki. Today we'
 
 **[*en*-Kor/*en*-Dal/*en*-Vec](https://web.archive.org/web/20070322000000/http://ww2.wizards.com/gatherer/index.aspx?term=en-&Field_Name=on&Field_Rules=on&Field_Type=on&Field_Flavor=on&setfilter=All%20sets)** – These are all correctly spoken the same way, with the accent on the second part and the "en" pronounced like suburban Clevelanders annoyingly pronounce "on" (ahn). ahn•KOHR, ahn•DAHL, ahn•VEHK.
 
-![zealot_il_vec](https://i.ormos.uk/0f/ec/0fec88dcbc71234c0981c6d63a827e6f85b4143d4632b6e066e77453a7eaad93.jpg)**[*il*-Kor/*il*-Dal/*il*-Vec](https://web.archive.org/web/20070322000000/http://ww2.wizards.com/gatherer/index.aspx?term=il-&Field_Name=on&Field_Rules=on&Field_Type=on&Field_Flavor=on&setfilter=All%20sets)** – Same as above, but substituting "ill" (pronounced correctly by suburban Clevelanders) for "on." ihl•KOHR, ihl•DAHL, ihl•VEHK.
+![zealot_il_vec](https://i.ormos.uk/0f/ec/0fec88dcbc71234c0981c6d63a827e6f85b4143d4632b6e066e77453a7eaad93.jpg)
+
+**[*il*-Kor/*il*-Dal/*il*-Vec](https://web.archive.org/web/20070322000000/http://ww2.wizards.com/gatherer/index.aspx?term=il-&Field_Name=on&Field_Rules=on&Field_Type=on&Field_Flavor=on&setfilter=All%20sets)** – Same as above, but substituting "ill" (pronounced correctly by suburban Clevelanders) for "on." ihl•KOHR, ihl•DAHL, ihl•VEHK.
 
 **Ixidron –** This card is meant to give your opponent headaches, not cure them. It is not pronounced like Excedrin. The accent is on the first syllable, IX•ih•drohn. (Just like its namesake, Ixidor.)
 

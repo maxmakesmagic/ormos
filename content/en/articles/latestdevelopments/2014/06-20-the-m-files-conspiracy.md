@@ -74,7 +74,9 @@ But first, our cast of characters:
 
 ![](https://i.ormos.uk/f8/3b/f83b7c2d164a18a665378b13e7adec05a979b390fc07e360fae3fdfa6f560cab.jpg)**SM:** [Shawn Main](https://web.archive.org/web/20131126162723/http://www.wizards.com/magic/magazine/archive.aspx?author=Shawn%20Main)—*Magic* designer and lead designer of *Conspiracy*
 
-![](https://i.ormos.uk/10/d0/10d0efafaed92172c7bb146c04b6e71f82b6edbef0b7f8b7586ffbb4adaca9c1.jpg)**SPS:** [Sam Stoddard](https://web.archive.org/web/20130927012952/http://www.wizards.com/magic/magazine/archive.aspx?author=sam%20stoddard)—That's A-Me!
+![](https://i.ormos.uk/10/d0/10d0efafaed92172c7bb146c04b6e71f82b6edbef0b7f8b7586ffbb4adaca9c1.jpg)
+
+**SPS:** [Sam Stoddard](https://web.archive.org/web/20130927012952/http://www.wizards.com/magic/magazine/archive.aspx?author=sam%20stoddard)—That's A-Me!
 
 ![](https://i.ormos.uk/2c/11/2c11e3c83c00b431c9ce63bd3fec77756dcb56c64267c66df8a0bdfce240983d.jpg)**Tabak:** [Matt Tabak](https://web.archive.org/web/20140424061704/http://www.wizards.com/Magic/Magazine/Archive.aspx?author=Matt%20Tabak)—Rules manager
 

@@ -83,7 +83,9 @@ This brings up an important point. Using prize structures where winners get the 
 
 Not every format is about being tall, dark, and handsome! Let's take a look at three different options for stouter decks.
 
-![](https://i.ormos.uk/9d/13/9d13fc00ad9d68b6570b64a9fc86b21f791ad38624f1876848db7b98c0c44224.jpg)**Dwarf format #1: Pack Wars**. I should have mentioned this format [several weeks ago](https://web.archive.org/web/20051122000000/https://magic.wizards.com/en/articles/archive/serious-fun/better-cards-better-games-more-glory-2005-11-01) when I discussed how to get more enjoyment out of new booster packs. I compensated partially with a brief glimpse in last week's [Cosmic Larva Quiz](/en/articles/seriousfun/2005/11-15-take-our-cosmic-larva-quiz), but this is a neat enough format to get more full mention. 
+![](https://i.ormos.uk/9d/13/9d13fc00ad9d68b6570b64a9fc86b21f791ad38624f1876848db7b98c0c44224.jpg)
+
+**Dwarf format #1: Pack Wars**. I should have mentioned this format [several weeks ago](https://web.archive.org/web/20051122000000/https://magic.wizards.com/en/articles/archive/serious-fun/better-cards-better-games-more-glory-2005-11-01) when I discussed how to get more enjoyment out of new booster packs. I compensated partially with a brief glimpse in last week's [Cosmic Larva Quiz](/en/articles/seriousfun/2005/11-15-take-our-cosmic-larva-quiz), but this is a neat enough format to get more full mention. 
 
 While there are lots of local variations on Pack Wars, here's a basic description that can get you started. You and any number of friends you want start off with one booster pack. Each of you opens and shuffles your pack *without looking at what you have*. Draw *no* opening hand. 
 

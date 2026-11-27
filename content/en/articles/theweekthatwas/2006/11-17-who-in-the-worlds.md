@@ -85,7 +85,9 @@ I felt a twinge of guilt as I beat him but I am happy to report that Bernardo di
 
 Jelger Wiegersma had another quietly solid finish at 21st and inched another two points up the Player of the Year ladder. He has two more chances to put up a major performance that could propel him right near the top of the standings. He will be one of a handful of European players – and one Canadian – who will be playing this weekend in Grand Prix–Yamagata. Ted Knutson's on the scene ready to bring you action from the last Grand Prix of the season.
 
-![](https://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/worldslogo_166.jpg)Which brings us to the [2006 World Championships](https://web.archive.org/web/20080704141900/http://www.wizards.com/default.asp?x=events/magic/worlds).
+![](https://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/worldslogo_166.jpg)
+
+Which brings us to the [2006 World Championships](https://web.archive.org/web/20080704141900/http://www.wizards.com/default.asp?x=events/magic/worlds).
 
 With the North American Thanksgiving holiday dictating reprints here next week, this is my last opportunity to spill the beans about Worlds. I promised big news for my Worlds preview and I am pretty sure that this measures up as big news. (It also qualifies as burying the lead, I am sure.)
 

@@ -93,7 +93,9 @@ archive_source:
   sha256: 288b3f0e8d7d66fff71eaddba9947f60d14d6663de8d7fb6b1f728f447d973bb
 render_recovery: []
 ---
-![Invasion style guide cover image](https://i.ormos.uk/f9/15/f91522014832a12c1598adb25319740f1a40e0242b71a73b2dcb9c1fc9720fd2.jpg)I*nvasion* was destined to be great. Simple as that. I know it's a bold claim. The design came together near perfect. The few problems that occurred were solved leaving all happy in the end. Having worked on almost every **Magic** set in some capacity, I have experienced all the ups and downs of **Magic**. *Invasion* is second only to Alpha. (No set can beat Alpha.) The stars were aligned and the gods decided - *Invasion* would be great. 
+![Invasion style guide cover image](https://i.ormos.uk/f9/15/f91522014832a12c1598adb25319740f1a40e0242b71a73b2dcb9c1fc9720fd2.jpg)
+
+I*nvasion* was destined to be great. Simple as that. I know it's a bold claim. The design came together near perfect. The few problems that occurred were solved leaving all happy in the end. Having worked on almost every **Magic** set in some capacity, I have experienced all the ups and downs of **Magic**. *Invasion* is second only to Alpha. (No set can beat Alpha.) The stars were aligned and the gods decided - *Invasion* would be great. 
 
 Late winter 2000, Mark Rosewater, Mike Elliott, and I went on a "special offsite retreat" to design Invasion. Mark's dad Gene has a house in Tahoe. We spent five days in Tahoe designing Invasion, with a little skiing on the side, as Mark mentioned in his [article Monday](/en/articles/makingmagic/2005/08-08-body-snatchers-of-the-invasion). Large expansions like *Invasion* are typically designed over a six-month period. Designing a set in three months is fast. The bulk of *Invasion* design took only five days.
 

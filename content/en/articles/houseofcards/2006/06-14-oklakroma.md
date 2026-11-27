@@ -887,7 +887,9 @@ How do you build a deck around a tuber-loving vengeance-seeker? However she want
 
 ### Rock and Roll Lobster Girls
 
-![](https://i.ormos.uk/66/6d/666de4b60c740d7f997e63c5f82918b276eaebaea3839916b0ebd273d65659cf.jpg)Compare Akroma to, say, Trained Orgg. Each of them can flex some 6/6 muscle, but for one more mana, Akroma gets infinitely more abilities and is three times more photogenic. I'm not sure what happened to our Red friend after seeing that quack Orgg psychologist. Sure, he got over his crippling fear of Elves, his Llanophobia, but he lost his mean streak in the process. Trained Orgg's Beastly brother in Blue, Vizzerdrix, has the same stats, but without all the training, something I credit to home-schooling. Sadly, my math-major friends tell me, without hyperbole, that Akroma is a million times better than Vizzerdrix and Trained Orgg put together.
+![](https://i.ormos.uk/66/6d/666de4b60c740d7f997e63c5f82918b276eaebaea3839916b0ebd273d65659cf.jpg)
+
+Compare Akroma to, say, Trained Orgg. Each of them can flex some 6/6 muscle, but for one more mana, Akroma gets infinitely more abilities and is three times more photogenic. I'm not sure what happened to our Red friend after seeing that quack Orgg psychologist. Sure, he got over his crippling fear of Elves, his Llanophobia, but he lost his mean streak in the process. Trained Orgg's Beastly brother in Blue, Vizzerdrix, has the same stats, but without all the training, something I credit to home-schooling. Sadly, my math-major friends tell me, without hyperbole, that Akroma is a million times better than Vizzerdrix and Trained Orgg put together.
 
 Now compare Akroma to *Fallen Empires* favourite, Deep Spawn. One is arguably the best creature ever printed, while the other can be found on the menu at Big Daddy's Crab Shack (and Oyster Bar). Did you know that when Deep Spawn was a little craw-boy, he'd lie in his sea-bed and dream of becoming an Angel of Wrath?
 

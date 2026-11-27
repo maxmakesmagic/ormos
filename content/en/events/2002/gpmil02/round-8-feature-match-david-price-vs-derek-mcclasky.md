@@ -96,13 +96,17 @@ render_recovery:
   - Mind Sludge
   occurrences: 41
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/940.jpg)Not much is happening here in the final round. The folks at the top of the standings are all playing, but they're all guaranteed to advance. The middle bunch all played it safe - 22 matches intentionally drew. Only two matches are really on the cusp, and this is one of them.
+![](http://www.wizards.com/sideboard/images/gpmil02/940.jpg)
+
+Not much is happening here in the final round. The folks at the top of the standings are all playing, but they're all guaranteed to advance. The middle bunch all played it safe - 22 matches intentionally drew. Only two matches are really on the cusp, and this is one of them.
 
 David Price, playing mono-black control, is 5-1-1. He needs to win in order to make Day 2. His opponent is Derek McClasky, a solid player from Columbus, Ohio, without much of a resume. Derek is 5-0-2 and was paired down. He will need another win as well, and his blue/green threshold deck has its work cut out for it.
 
 ### Game 1
 
-![](https://i.ormos.uk/86/0e/860e86b780b1668fc165d0a9f24497dc4a020da5c66a27bbcf024b06559d1433.jpg)Derek started off with a Nimble Mongoose - not amazing, considering that all of Price's removal is non-targeted anyway. Price Duressed McClasky for Fact or Fiction, revealing a hand of Werebear, Merfolk Looter, and Upheaval. McClasky drew a Force Spike and used it to counter Price's first Chainer's Edict, but the second Edict went through and offed the 'Goose.
+![](https://i.ormos.uk/86/0e/860e86b780b1668fc165d0a9f24497dc4a020da5c66a27bbcf024b06559d1433.jpg)
+
+Derek started off with a Nimble Mongoose - not amazing, considering that all of Price's removal is non-targeted anyway. Price Duressed McClasky for Fact or Fiction, revealing a hand of Werebear, Merfolk Looter, and Upheaval. McClasky drew a Force Spike and used it to counter Price's first Chainer's Edict, but the second Edict went through and offed the 'Goose.
 
 McClasky, still short on business, dropped his Looter, and Price Soul Burned it for 1, biding his time. McClasky played a Werebear, trying to deal some damage, but Price had the nasty combo of Cabal Coffers and Planar Portal. After Duressing McClasky's Upheaval, Price started "Jayemdae Tutoring" for the goods: Chainer's Edict and Haunting Echoes. The Echoes forced a Concession from McClasky; he didn't want Price browsing his through his deck when the game was already way out of hand.
 
@@ -118,7 +122,9 @@ Price's opening hand in game 2 was very slow, and McClasky's turn-2 and 3 double
 
 Price 1 - McClasky 1
 
-![](http://www.wizards.com/sideboard/images/gpmil02/944.jpg)It was obvious from Price's face that he had no real answers to Compost, and he just had to hope McClasky didn't draw so many of them.
+![](http://www.wizards.com/sideboard/images/gpmil02/944.jpg)
+
+It was obvious from Price's face that he had no real answers to Compost, and he just had to hope McClasky didn't draw so many of them.
 
 Too bad for Price. McClasky busted out turn 2 and three Composts again in the deciding game, but Price had a little card-drawer of his own: Phyrexian Arena. Let the card drawing begin!
 

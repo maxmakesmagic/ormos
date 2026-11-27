@@ -76,14 +76,18 @@ render_recovery:
   - Deconstruct
   occurrences: 25
 ---
-![](https://i.ormos.uk/a9/86/a98677ecb18b6ad5d810d6bffeeffb178310a8ef0904f28537ef60b3168ac4ff.jpg)In the days before Kai Budde exploded, Tommi Hovi was the first guy to win two Pro Tours. That was a long time ago though and since then the Finn has been on the quiet side. Svante Landgraf is a Swedish player touted for big things but hasn’t quite had that break yet.
+![](https://i.ormos.uk/a9/86/a98677ecb18b6ad5d810d6bffeeffb178310a8ef0904f28537ef60b3168ac4ff.jpg)
+
+In the days before Kai Budde exploded, Tommi Hovi was the first guy to win two Pro Tours. That was a long time ago though and since then the Finn has been on the quiet side. Svante Landgraf is a Swedish player touted for big things but hasn’t quite had that break yet.
 
 Hovi won the die roll and opted to start. He tried to get a little card drawing engine going with Mask of Memory and Wizard Replica, but Landgraf was having none of that as an Electrostatic Bolt whipped in. Hovi brought out a Cathodion. That didn’t faze Landgraf though, he sent in his Goblin Replica regardless. Hovi didn’t block, fearing a trick. The only trick was Landgraf was going to sac the Replica to kill the Cathodionanyway and though he could sneak in a couple of damage first.
 
 Hovi soon came back as he summoned a Hoverguard and got some card drawing going off the Mask. Landgraf cast Fabricate, but the best he could pull out of his deck was Talisman of Unity. As it happened he needed that to cast the Leonin Abunas in his hand.  
  A Slith Firewalker came out with it, but didn’t look too exciting.
 
-![](https://i.ormos.uk/ec/a0/eca099878c60c00c1b3873dc34a389b3e5b839d7edb683d9a1ff2fc0a5053565.jpg)Hovi carried on drawing cards, dropping first Solemn Simulacrum and then the bomb: Oblivion Stone.
+![](https://i.ormos.uk/ec/a0/eca099878c60c00c1b3873dc34a389b3e5b839d7edb683d9a1ff2fc0a5053565.jpg)
+
+Hovi carried on drawing cards, dropping first Solemn Simulacrum and then the bomb: Oblivion Stone.
 
 All of a sudden the Bosh in Landgraf’s hand didn’t seem quite as invulnerable. He summoned it anyway, giving Hovi something to think about. Not about popping the stone as it happened. Hovi didn’t need to. Irradiate plus Bolt took care of Abunas, leaving Bosh open to be felled by a Shatter.
 
@@ -91,7 +95,9 @@ Landgraf brought out a Rust Elemental and Hematite Golem. Hovi stuck a fate coun
 
 Hovi 1-0 Landgraf
 
-![](https://i.ormos.uk/8d/42/8d42d52f46095cc2dc6126efbab1d75b71e954ded7a0e66c600ea8b4d4b037a7.jpg)Hovi Shattered Landgraf’s early Talisman and brought out a Cathodion. Cathodionwas a beatstick back in Saga, but *Mirrodin* has quite a few high toughness monsters. Landgraf summoned one of them, a Hematite Golem. Hovi doubled his Cathodioncount and Landgraf matched with a second Golem. Unfortunately for him a Looming Hoverguard sent that back to the top of his library and allowed the Cathodions in for six damage.
+![](https://i.ormos.uk/8d/42/8d42d52f46095cc2dc6126efbab1d75b71e954ded7a0e66c600ea8b4d4b037a7.jpg)
+
+Hovi Shattered Landgraf’s early Talisman and brought out a Cathodion. Cathodionwas a beatstick back in Saga, but *Mirrodin* has quite a few high toughness monsters. Landgraf summoned one of them, a Hematite Golem. Hovi doubled his Cathodioncount and Landgraf matched with a second Golem. Unfortunately for him a Looming Hoverguard sent that back to the top of his library and allowed the Cathodions in for six damage.
 
 The Swede found a third Golem but that too was rooted on the ground and once Hovi dropped a Mask of Memory on the Hoverguard it didn’t take long for the game to slip away from the Swede.
 

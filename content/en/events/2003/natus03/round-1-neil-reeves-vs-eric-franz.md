@@ -96,7 +96,9 @@ render_recovery:
   - Opportunity
   occurrences: 110
 ---
-![](https://i.ormos.uk/e2/79/e279b48b37e3eec1ad7d04a0ea8b6dee22e5be4bccdfa0af459bfe41ccda2f77.jpg)As soon as I sat down at the Feature Match table, Franz started joking about what he thought I'd write about him.
+![](https://i.ormos.uk/e2/79/e279b48b37e3eec1ad7d04a0ea8b6dee22e5be4bccdfa0af459bfe41ccda2f77.jpg)
+
+As soon as I sat down at the Feature Match table, Franz started joking about what he thought I'd write about him.
 
 Franz- "Let me guess, you're going to write something like 'Eric Franz is out to prove that last year was not a fluke'?"
 

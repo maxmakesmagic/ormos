@@ -253,7 +253,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/32/9b/329b5fff618457e73afad5a166ead1bf9fc84d8b245c29cb805ada09a1609b15.jpg)Welcome to Rainbow Week! Either the title gave that away or you never learned this particular mnemonic to remember the color order of the rainbow (**R**ed – **O**range – **Y**ellow – **G**reen – **B**lue – **I**ndigo – **V**iolet). Join me next week when I explain why my Very Educated Mother Just Served Us Nine Pizzas. But back to the topic of the week. Rainbows. As I explained two weeks ago, **magicthegathering.com's** illustrious editor Scott Johns found a clever way to avoid coming up with themes for a few months by letting external writers pick them. JMS chose Arcane Week two weeks back and today Scott Wills brings us Rainbow Week.
+![](https://i.ormos.uk/32/9b/329b5fff618457e73afad5a166ead1bf9fc84d8b245c29cb805ada09a1609b15.jpg)
+
+Welcome to Rainbow Week! Either the title gave that away or you never learned this particular mnemonic to remember the color order of the rainbow (**R**ed – **O**range – **Y**ellow – **G**reen – **B**lue – **I**ndigo – **V**iolet). Join me next week when I explain why my Very Educated Mother Just Served Us Nine Pizzas. But back to the topic of the week. Rainbows. As I explained two weeks ago, **magicthegathering.com's** illustrious editor Scott Johns found a clever way to avoid coming up with themes for a few months by letting external writers pick them. JMS chose Arcane Week two weeks back and today Scott Wills brings us Rainbow Week.
 
 Now I've always made it a point to stay on theme during theme weeks. And I'll be honest, I was a little thrown by Rainbow Week. I think Scott was trying to do something a little less focused that would allow each author their ability to interpret what the topic meant to them. In general I applaud this strategy, but I'll be honest that I've been a bit puzzled by the rainbow theme. Let me run you through my thought process as I tried to figure out my topic.
 

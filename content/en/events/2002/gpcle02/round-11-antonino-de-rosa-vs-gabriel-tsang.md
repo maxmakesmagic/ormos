@@ -87,13 +87,17 @@ render_recovery:
   - Phantom Centaur
   occurrences: 79
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a919.jpg)Antonino De Rosa is one of the rising stars on the Pro Tour circuit, continually doing better and better over the course of the last year, ever since he moved from his native Italy to Florida. Gab "The Juggernaut" Tsang is a Pro Tour veteran with a number of excellent tournament finishes. Both players are well liked on the Tour and known for an easy-going manner and friendliness, so this match promises to be extremely amicable. Both players brought Blue-Green Quiet Speculation decks to the table.
+![](http://www.wizards.com/sideboard/images/gpcle02/a919.jpg)
+
+Antonino De Rosa is one of the rising stars on the Pro Tour circuit, continually doing better and better over the course of the last year, ever since he moved from his native Italy to Florida. Gab "The Juggernaut" Tsang is a Pro Tour veteran with a number of excellent tournament finishes. Both players are well liked on the Tour and known for an easy-going manner and friendliness, so this match promises to be extremely amicable. Both players brought Blue-Green Quiet Speculation decks to the table.
 
 De Rosa was forced to take a mulligan in the first game. Although they were playing a mirror match, the two competitors got very different draws and pursued different strategies in the early turns of the game. Gab Tsang was working on building up a monster graveyard. He began by casting a first turn Careful Study to put Deep Analysis and Wonder into the graveyard. He then proceeded to cast Quiet Speculation to put three Roar of the Wurms into the bin. 
 
 In the meantime, De Rosa had that rare draw where no cards ended up in his graveyard at all over the first few turns. Instead, he summoned Wild Mongrel and Aquamoeba, hoping to beat Tsang down quickly. His plan appeared to be working as he used Aether Burst to take out the first Roar token Tsang got into play and attack his opponent down to ten life points, discarding some excess cards to Aquamoeba. 
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a922.jpg)Tsang was forced to keep mana open on his next turn and use it to cast Moment's Peace from his hand, rather than trying to cast another Wurm token. Secure behind a Circular Logic he was holding, De Rosa cast a second Aquamoeba. Tsang used Envelop to counter his opponents Quiet Speculation and used a Basking Rootwalla he summoned to block Wild Mongrel. The two creatures traded after De Rosa discarded a land to it, keeping only a single card in hand.
+![](http://www.wizards.com/sideboard/images/gpcle02/a922.jpg)
+
+Tsang was forced to keep mana open on his next turn and use it to cast Moment's Peace from his hand, rather than trying to cast another Wurm token. Secure behind a Circular Logic he was holding, De Rosa cast a second Aquamoeba. Tsang used Envelop to counter his opponents Quiet Speculation and used a Basking Rootwalla he summoned to block Wild Mongrel. The two creatures traded after De Rosa discarded a land to it, keeping only a single card in hand.
 
 Tsang was able to wrestle control of the game back from De Rosa as he resolved a Catalyst Stone and while a second Roar token was countered, a third one resolved. Tsang made some blockers via Acorn Harvest. Multiple Wonders in the graveyard allowed his creatures to rule the skies and suddenly De Rosa´s speedy draw crumbled as his much smaller creatures could not measure up against The Juggernaut´s monsters. De Rosa conceded the game.
 
@@ -101,7 +105,9 @@ Tsang 1 - De Rosa 0
 
 It was Tsang's turn to mulligan. However, De Rosa could not take advantage of that. Despite a turn 1 Careful Study he had no plays to make on turns 2 and 3. Mana-flooded De Rosa could only watch as Tsang summoned Wild Mongrel and Sylvan Safekeeper, and then cast a Catalyst Stone. De Rosa managed a turn 4 Qiuet Speculation, made far worse by Tsang's artifact. De Rosa would clearly have enough mana to flashback Roar on turn 6 - but Tsang would have none of that, casting a second Stone. 
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a923.jpg)De Rosa cast a turn five Arrogant Wurm, paying MSRP for it. His six lands weren't very useful and Tsang slammed a third Catalyst Stone onto the table. "So how much do my Roars cost - ten mana? Where is the fourth one, so I can hard-cast it!" complained De Rosa. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a923.jpg)
+
+De Rosa cast a turn five Arrogant Wurm, paying MSRP for it. His six lands weren't very useful and Tsang slammed a third Catalyst Stone onto the table. "So how much do my Roars cost - ten mana? Where is the fourth one, so I can hard-cast it!" complained De Rosa. 
 
 With Wonder being the only card in his graveyard, Tsang attacked with Wild Mongrel and Sylvan Safekeeper. Before declaring blockers De Rosa cast Krosan Reclamation, but Tsang discarded another Wonder and then a Roar of the Wurm to wild Mongrel, making it fly again. De Rosa could take only a small consolation in being able to Envelop that Roar. It was smooth sailing for Tsang's two creatures as De Rosa never found a Wonder of his own and did not have eight mana to pay for Krosan Reclamation out of the graveyard.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 9b03954160726951a4eeb8133dfe5bac371e012aa343f525deffcc55038271d2
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/qf2_1.jpg)The new guy versus the habitual quarterfinals loser. The mysterious, often talked-about Canada with its forestland mystique versus the beatiful Sweden. Which will prevail?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/qf2_1.jpg)
+
+The new guy versus the habitual quarterfinals loser. The mysterious, often talked-about Canada with its forestland mystique versus the beatiful Sweden. Which will prevail?
 
 Aeo ended up with a Red-Black deck running a lot of good removal like [Shatter](https://web.archive.org/web/20040118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shatter), [Electrostatic Bolt](https://web.archive.org/web/20040118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Electrostatic+Bolt), and Grab the Reigns. Anton´s Blue-Red Affinity deck has plenty of removal targets in the form of [Pentavus](https://web.archive.org/web/20040118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pentavus), [Platinum Angel](https://web.archive.org/web/20040118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Platinum+Angel), [Megatog](https://web.archive.org/web/20040118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Megatog) and two [Myr Enforcer](https://web.archive.org/web/20040118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myr+Enforcer)s. Anton drafted a [Terror](https://web.archive.org/web/20040118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terror) in order to deal with a potentially dangerous Spikeshot, but ended up not splashing it.
 

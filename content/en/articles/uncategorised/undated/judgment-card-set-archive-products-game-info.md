@@ -63,7 +63,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/ed/23/ed2332f2b8ce96233dae30915d854ad78deb40d7bf6cf5c8023ec249f83d69d1.png)This 143-card, black-bordered set includes the powerful new Wish mechanic, intriguing new creatures, and an old friend: Erhnam Djinn.
+![](https://i.ormos.uk/ed/23/ed2332f2b8ce96233dae30915d854ad78deb40d7bf6cf5c8023ec249f83d69d1.png)
+
+This 143-card, black-bordered set includes the powerful new Wish mechanic, intriguing new creatures, and an old friend: Erhnam Djinn.
 
 **Set Name:** *Judgment*  
 **Block:** Set 3 of 3 of the *Odyssey* Block  

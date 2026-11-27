@@ -125,7 +125,9 @@ render_recovery:
   - Kamahl
   occurrences: 1
 ---
-![](https://i.ormos.uk/dd/6e/dd6e7a75a26a42c153dce39f628217012e3d67c419a4ba78e360f608f04c587f.jpg)Have you ever woken in the middle of the night screaming, but you couldn't quite remember why? Welcome to the world of the Cabal.
+![](https://i.ormos.uk/dd/6e/dd6e7a75a26a42c153dce39f628217012e3d67c419a4ba78e360f608f04c587f.jpg)
+
+Have you ever woken in the middle of the night screaming, but you couldn't quite remember why? Welcome to the world of the Cabal.
 
 The Cabal makes your half-forgotten terrors real, solid, and eager to destroy you. These horrors are created by the Cabal's legion of dementia summoners – the backbone of the Cabal's martial and pit-fighting forces, and perhaps the most powerful mages on Otaria.
 
@@ -133,7 +135,9 @@ In *Torment*, you, the player, will be able to duplicate these powers and call f
 
 Dementia summoners are trained by the Cabal to reach into the deepest depths of their psyche and unleash horrific monsters based on their own innermost fears and darkest imagination. These magicians travel the world looking for animals and monsters to observe and later pull out of their memories as twisted mockeries of their original forms. Sometimes they can even absorb the life essence of creatures they kill, locking it in the back of their minds and using it as the basis for future grotesque summonings. Inevitably, spending so much time harnessing the dark side of their minds takes a terrible toll on the dementia summoners' sanity. The summoners are all mad; in fact, many become so insane that they are no longer able to function. But some, like Braids, keep enough of their wits about them to continue serving the Cabal and fighting in the pits. These dementia summoners are the most dangerous of all, because they combine intelligence, unpredictability, and psychosis in one terrible package.
 
-![](https://i.ormos.uk/43/57/4357cf3a43b8abe676068ec800793b19035aaf4616c60e4b390590264c6c77e0.jpg)The Cabal thrives on the trade and gambling that comes out of their pit fights, so it's in their best interest to create bigger and better monsters, to make the next horror even uglier and crueler than the last. Vicious monsters draw crowds, which makes for more bets, which earn the Cabal more money. They are always on the lookout for the next pit fighting star, the next summoner who'll take their profits to new heights.
+![](https://i.ormos.uk/43/57/4357cf3a43b8abe676068ec800793b19035aaf4616c60e4b390590264c6c77e0.jpg)
+
+The Cabal thrives on the trade and gambling that comes out of their pit fights, so it's in their best interest to create bigger and better monsters, to make the next horror even uglier and crueler than the last. Vicious monsters draw crowds, which makes for more bets, which earn the Cabal more money. They are always on the lookout for the next pit fighting star, the next summoner who'll take their profits to new heights.
 
 A man named Chainer had hopes of becoming one of the elite dementia summoners. He was at heart a decent fellow, but he simply had no place to go and no one to turn to for support. He came to the Cabal in hopes of finding employment and a family, and the Cabal took the young man in with open arms, feeding on his lonliness. Of course, the Cabal also welcomed the gift Chainer brought with him, a mysterious crystal orb that he found in some abandoned ruins.
 
@@ -141,7 +145,9 @@ The orb – later known as the Mirari – was filled with mystical power, a powe
 
 Chainer went through training as a summoner, learning to conjure hideous and powerful horrors while hanging on to his sanity. His talent quickly brought him to the forefront of the pit fights and earned him a good deal of prestige. During the course of his employment, Chainer met Kamahl, a barbarian from the Pardic Mountains who came to the pits eager to make a name for himself. The two quickly became friends and, later, allies in the pit fights. Chainer admired Kamahl's strength and bluntness, while Kamahl respected Chainer's ambition and talent.
 
-![](https://i.ormos.uk/2c/a2/2ca2b5a504456fb26890c06c55ceeff9e7275aaca10f128d97332f029be91958.jpg)After a few fights, the Patriarch let Chainer use the Mirari. The magical orb magnified Chainer's power a thousandfold, allowing him to create a new breed of monster: the Nightmare Horrors. All dementia summoners are able to create potent horrors, but Chainer's newest creations were something more hideously powerful than anyone else was even able to imagine. Nightmare Horrors are so terrifying that they're able to literally scare *something* out of those who see them. Sometimes this magically induced fear drains a wizard's mind of spells, or sucks away her life energy, or severs her connection to a summoned creature. Though the fear quickly recedes once the Horror is gone, the mental scars can last a lifetime. These Nightmares were the creations that earned Chainer his lofty position within the Cabal.
+![](https://i.ormos.uk/2c/a2/2ca2b5a504456fb26890c06c55ceeff9e7275aaca10f128d97332f029be91958.jpg)
+
+After a few fights, the Patriarch let Chainer use the Mirari. The magical orb magnified Chainer's power a thousandfold, allowing him to create a new breed of monster: the Nightmare Horrors. All dementia summoners are able to create potent horrors, but Chainer's newest creations were something more hideously powerful than anyone else was even able to imagine. Nightmare Horrors are so terrifying that they're able to literally scare *something* out of those who see them. Sometimes this magically induced fear drains a wizard's mind of spells, or sucks away her life energy, or severs her connection to a summoned creature. Though the fear quickly recedes once the Horror is gone, the mental scars can last a lifetime. These Nightmares were the creations that earned Chainer his lofty position within the Cabal.
 
 Over time, Chainer gained more and more power in the organization. He was even chosen to create a special Nightmare Horror as a familiar for the Cabal's newest ally, Ambassador Laquatus. Unfortunately, the mysterious Mirari quickly showed its corruptive influence once more.
 

@@ -70,7 +70,9 @@ render_recovery:
   - Viridian Shaman
   occurrences: 15
 ---
-![](https://www.wizards.com/sideboard/images/gpsyd03/a982.jpg)Fujita won the toss and elected to play, mulliganing away his first hand. Happy with his next 6, and with Haddy content to play, we began.
+![](https://www.wizards.com/sideboard/images/gpsyd03/a982.jpg)
+
+Fujita won the toss and elected to play, mulliganing away his first hand. Happy with his next 6, and with Haddy content to play, we began.
 
 ### Game One
 

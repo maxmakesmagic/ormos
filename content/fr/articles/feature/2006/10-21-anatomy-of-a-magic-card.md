@@ -199,7 +199,9 @@ Dans le coin supérieur droit, on trouve ce qu'on appelle communément le coût 
 
 Pour invoquer ce gros bébé, vous devez générer deux manas rouges et six manas incolores. Quand je parle de « mana incolore », cela veut dire que vous pouvez utiliser du mana de la couleur de votre choix pour payer cette partie du coût. 
 
-![](https://i.ormos.uk/38/b3/38b3360d09039a07d443df60dbc6a1217b63b727709b2eaf31660adc82a20839.jpg)Pendant qu'on y est, c'est probablement le moment de vous présenter le concept du coût converti de mana ou CCM. Le coût converti de mana est tout simplement la somme de tous les manas compris dans le coût d'invocation d'une carte, quel que soit leur *type* . Pour déterminer le CCM du Colosse, vous prenez les 2 rouges et vous les ajoutez aux 6 incolores, ce qui vous donne un total de 8. Ajoutez simplement tout le mana et vous obtenez un total. Simple, n'est-ce pas ?
+![](https://i.ormos.uk/38/b3/38b3360d09039a07d443df60dbc6a1217b63b727709b2eaf31660adc82a20839.jpg)
+
+Pendant qu'on y est, c'est probablement le moment de vous présenter le concept du coût converti de mana ou CCM. Le coût converti de mana est tout simplement la somme de tous les manas compris dans le coût d'invocation d'une carte, quel que soit leur *type* . Pour déterminer le CCM du Colosse, vous prenez les 2 rouges et vous les ajoutez aux 6 incolores, ce qui vous donne un total de 8. Ajoutez simplement tout le mana et vous obtenez un total. Simple, n'est-ce pas ?
 
 Quand nous parlons de mana dans un article, nous avons pour habitude d'utiliser des lettres pour représenter les symboles dont nous discutons. Voici une rapide explication pour ceux d'entre vous qui arrivent seulement dans la communauté des joueurs. 
 
@@ -215,13 +217,17 @@ Cela peut vous paraître compliqué au départ, mais vous verrez, rapidement, ce
 
 ### Ligne de type
 
-![](https://i.ormos.uk/60/cb/60cbcf47072ddffd9ab3f3b168fa1394a2cce9e28af774b7cbb44f2e5079df8c.jpg)Cette ligne vous explique le genre de carte que vous tenez en main. Il existe six types de carte de base : les terrains, les enchantements, les créatures, les artefacts, les éphémères et les rituels. Cette ligne contient aussi souvent des informations plus spécifiques. Si nous parlons d'une carte de créature, c'est là que vous découvrirez quel genre de créature vous avez (gobelin, ninja, etc), par exemple. 
+![](https://i.ormos.uk/60/cb/60cbcf47072ddffd9ab3f3b168fa1394a2cce9e28af774b7cbb44f2e5079df8c.jpg)
+
+Cette ligne vous explique le genre de carte que vous tenez en main. Il existe six types de carte de base : les terrains, les enchantements, les créatures, les artefacts, les éphémères et les rituels. Cette ligne contient aussi souvent des informations plus spécifiques. Si nous parlons d'une carte de créature, c'est là que vous découvrirez quel genre de créature vous avez (gobelin, ninja, etc), par exemple. 
 
 Cette ligne est en fait plus complexe que nous allons vous l'expliquer pour l'instant, mais rassurez-vous, à votre niveau actuel, la plupart du temps, vous en saurez suffisamment sur la carte quand vous ferez une partie de **Magic**. Si vous avez une carte qui indique que tous vos gobelins gagnent un bonus, et que la carte que vous avez en jeu indique que c'est un gobelin *sur sa ligne de type*, vous saurez ce que vous aurez à faire. (Quand nous entrerons plus en détails dans les règles, nous reprendrons l'étude de cette ligne et nous vous expliquerons les sous-types, les super-types et les autres problèmes qui y sont liés)
 
 ### Symbole d'extension
 
-![](https://i.ormos.uk/ad/fb/adfba72c7a35f30a997052f1ff0dd125eed5b8b0feb7ae60e365ba2a6c0fa42e.jpg)Dans le coin droit de la ligne de type, on trouve le symbole d'extension, un renseignement qui vous explique à quelle extension cette carte appartient. Pour les extensions plus récentes, il vous indique aussi la rareté de la carte. La couleur or symbolise les cartes rares, l'argent, les inhabituelles et le noir signifie que la carte est courante. 
+![](https://i.ormos.uk/ad/fb/adfba72c7a35f30a997052f1ff0dd125eed5b8b0feb7ae60e365ba2a6c0fa42e.jpg)
+
+Dans le coin droit de la ligne de type, on trouve le symbole d'extension, un renseignement qui vous explique à quelle extension cette carte appartient. Pour les extensions plus récentes, il vous indique aussi la rareté de la carte. La couleur or symbolise les cartes rares, l'argent, les inhabituelles et le noir signifie que la carte est courante. 
 
 Donc, en vous basant sur ce que vous venez d'apprendre, notre ami le Colosse vient de l'édition de base *Neuvième édition* (le symbole), et c'est une carte rare (symbole doré). Vous trouverez plus de renseignements sur les cartes dans notre [base de données de cartes énorme-mais-pratique Gatherer](https://web.archive.org/web/20060725000000/http://gatherer.wizards.com/). Pour en apprendre plus sur les différentes extensions de **Magic**, essayez de cliquer sur le mot « [Produits](https://web.archive.org/web/20080518071123/http://www.wizards.com/default.asp?x=magic/products/cardsets) » sur la barre de navigation située sur la droite de cette page. Ce lien vous conduira sur la page Produits de **Magic**, qui contient toutes les extensions jamais publiées, y compris leur nom et leur symbole d'extension. Une fois sur cette page, cliquez sur l'extension de votre choix et vous découvrirez toutes sortes de détails sur cette extension particulière. C'est en fait une des zones les plus visitées de ce site après les articles, alors c'est une bonne adresse à connaître pendant votre apprentissage. 
 
@@ -253,7 +259,9 @@ Enfin, pour ceux qui veulent récupérer quelques bons points supplémentaires s
 
 ### Crédit illustration
 
-![](https://i.ormos.uk/fa/af/faafcb10ded01badd0afe741005e5807c4e1ebe952733ed5b3fb2c9ce9c13c68.jpg)Juste en-dessous de l'encadré de texte, sur le côté gauche, vous trouvez le nom de l'illustrateur de la carte. Les illustrations de **Magic** ont considérablement évolué depuis les débuts du jeu en 1993 et elles font maintenant partie des plus belles images trouvées dans le monde de l'Heroic Fantasy.
+![](https://i.ormos.uk/fa/af/faafcb10ded01badd0afe741005e5807c4e1ebe952733ed5b3fb2c9ce9c13c68.jpg)
+
+Juste en-dessous de l'encadré de texte, sur le côté gauche, vous trouvez le nom de l'illustrateur de la carte. Les illustrations de **Magic** ont considérablement évolué depuis les débuts du jeu en 1993 et elles font maintenant partie des plus belles images trouvées dans le monde de l'Heroic Fantasy.
 
 ### Force/Endurance
 
@@ -269,7 +277,9 @@ Alors que j'écris ces lignes, les cartes de *Souffle glaciaire* viennent d'êtr
 
 ### Numéro de collection
 
-![](https://i.ormos.uk/f6/2d/f62d872b2e4a6a01244a78e8b9c4c3493126ed3b853fc0035b54ed1b3c072b2f.jpg)En tout petit, juste au-dessus de la bordure inférieure de la carte, vous trouverez un symbole de marque déposée, des dates, les mots Wizards of the Coast et quelques chiffres et/ou lettres supplémentaires. La plupart de ces renseignements concernent le copyright, mais à droite de cette ligne, on trouve ce qui est communément appelé le numéro de collection, qui vous indique la place de la carte dans l'extension si vous voulez organiser votre collection dans l'ordre. Malheureusement pour mon épouse, j'organise plutôt ma collection en utilisant la méthode pourtant si efficace du « lancer de carte dans la boîte la plus proche », ce que je ne saurais recommander à personne.
+![](https://i.ormos.uk/f6/2d/f62d872b2e4a6a01244a78e8b9c4c3493126ed3b853fc0035b54ed1b3c072b2f.jpg)
+
+En tout petit, juste au-dessus de la bordure inférieure de la carte, vous trouverez un symbole de marque déposée, des dates, les mots Wizards of the Coast et quelques chiffres et/ou lettres supplémentaires. La plupart de ces renseignements concernent le copyright, mais à droite de cette ligne, on trouve ce qui est communément appelé le numéro de collection, qui vous indique la place de la carte dans l'extension si vous voulez organiser votre collection dans l'ordre. Malheureusement pour mon épouse, j'organise plutôt ma collection en utilisant la méthode pourtant si efficace du « lancer de carte dans la boîte la plus proche », ce que je ne saurais recommander à personne.
 
 ### Bordure de carte
 

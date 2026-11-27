@@ -91,7 +91,9 @@ Planeswalker[Jace Beleren](https://web.archive.org/web/20080305000000/https://ga
 **Subject:** Calydd  
 **Bio:** Male kithkin farmer
 
-[![Kinsbaile_Cavalier](https://i.ormos.uk/71/3d/713db87bbec6db3c525d681ba0eb1fc69df3bcf577460d98ebc255e275405ae2.jpg)](https://web.archive.org/web/20080305000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Kinsbaile%2BCavalier)"What's this? Wind in my face, Goldmeadow fields rushing past, saddle under my seat? I'm on a springjack. A fierce one, that bounds like the wind. This isn't one of my plow nags. This is a *knight's* steed. And I'm holding—not trowels. Swords. The swords of a knight. *My* swords! I can sense the thoughtweft—I can feel the sword-arms of Kinsbaile's mightiest, their courage coursing through me! Of course I'm a knight, I'm Calydd the Brave, scourge of the wicked! Ride ahead, faithful steed—and lead the way, thoughtweft brethren! Together we shall vanquish evil this day!"
+[![Kinsbaile_Cavalier](https://i.ormos.uk/71/3d/713db87bbec6db3c525d681ba0eb1fc69df3bcf577460d98ebc255e275405ae2.jpg)](https://web.archive.org/web/20080305000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Kinsbaile%2BCavalier)
+
+"What's this? Wind in my face, Goldmeadow fields rushing past, saddle under my seat? I'm on a springjack. A fierce one, that bounds like the wind. This isn't one of my plow nags. This is a *knight's* steed. And I'm holding—not trowels. Swords. The swords of a knight. *My* swords! I can sense the thoughtweft—I can feel the sword-arms of Kinsbaile's mightiest, their courage coursing through me! Of course I'm a knight, I'm Calydd the Brave, scourge of the wicked! Ride ahead, faithful steed—and lead the way, thoughtweft brethren! Together we shall vanquish evil this day!"
 
 *Typical wish-fulfillment dream. The subject's mind is so dry with the routine of the fields, it's no wonder he's thrilled. If it weren't for the thoughtweft phenomenon I wouldn't even bother studying this little guy. It's peculiar he feels—or thinks he feels—the thoughtweft now, even while asleep.*
 
@@ -111,7 +113,9 @@ Planeswalker[Jace Beleren](https://web.archive.org/web/20080305000000/https://ga
 **Subject:** Etain  
 **Bio:** Female faerie gadabout
 
-[![Thieving_Sprite](https://i.ormos.uk/42/10/421073297907ae687a1fba7b46dd256997b9fa386ff861d3c9c4d27c77f242ca.jpg)](https://web.archive.org/web/20080305000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Thieving%2BSprite)"If this kithkin doesn't stop squirming, I'll pierce his stupid fat eardrum with my rapier. This better be worth it—I'm not slaving over a farmer's brain for wheat dreams and thoughtweft oozings. Oh, springjacks, lovely, yes. No, I'll spare the Queen this rustic rubbish. Sleep tight, squirmy head; I'll go next door and see what your wife has in *her* snoozy skull. ...Oh, but soft! Your little reverie is improving as I speak. What's this now? Oh, yes. The Queen will definitely want some of this. Congratulations, little kith! You'll be part of Oona's treasury after all."
+[![Thieving_Sprite](https://i.ormos.uk/42/10/421073297907ae687a1fba7b46dd256997b9fa386ff861d3c9c4d27c77f242ca.jpg)](https://web.archive.org/web/20080305000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Thieving%2BSprite)
+
+"If this kithkin doesn't stop squirming, I'll pierce his stupid fat eardrum with my rapier. This better be worth it—I'm not slaving over a farmer's brain for wheat dreams and thoughtweft oozings. Oh, springjacks, lovely, yes. No, I'll spare the Queen this rustic rubbish. Sleep tight, squirmy head; I'll go next door and see what your wife has in *her* snoozy skull. ...Oh, but soft! Your little reverie is improving as I speak. What's this now? Oh, yes. The Queen will definitely want some of this. Congratulations, little kith! You'll be part of Oona's treasury after all."
 
 *Treasury?*
 
@@ -161,7 +165,9 @@ Planeswalker[Jace Beleren](https://web.archive.org/web/20080305000000/https://ga
 **Subject:** Ashling  
 **Bio:** Female flamekin pilgrim
 
-[![Ashling_the_Pilgrim](https://i.ormos.uk/bb/e8/bbe8fdf3036e3f725eca5b11e83dda8abc9195cad8e0ee507342e2903563efa7.jpg)](https://web.archive.org/web/20080305000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ashling%2Bthe%2BPilgrim)"I sense it again. It's nearby. Hear me, great one..."
+[![Ashling_the_Pilgrim](https://i.ormos.uk/bb/e8/bbe8fdf3036e3f725eca5b11e83dda8abc9195cad8e0ee507342e2903563efa7.jpg)](https://web.archive.org/web/20080305000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ashling%2Bthe%2BPilgrim)
+
+"I sense it again. It's nearby. Hear me, great one..."
 
 *It's a flamekin, one of those humanoid fire elementals. Can they manipulate dreams directly? I didn't think so.*
 

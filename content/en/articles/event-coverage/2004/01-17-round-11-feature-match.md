@@ -44,7 +44,9 @@ archive_source:
   sha256: 6859413c9f999f5571a6c621ce3441b5bec16d76a88af7f21352314bc1792044
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm20_1.jpg)Both players came into this round at 8-2, and are inching closer to a seat at the Top 8 draft table.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm20_1.jpg)
+
+Both players came into this round at 8-2, and are inching closer to a seat at the Top 8 draft table.
 
 Me- "You haven't won a Pro Tour this season yet, have you?"  
  Budde- "This is only the third one."

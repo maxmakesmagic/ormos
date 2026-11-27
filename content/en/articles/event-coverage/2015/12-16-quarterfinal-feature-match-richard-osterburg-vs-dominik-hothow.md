@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Ben Ronaldson* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/167.jpg)Dominik went into the draft intending to go white/blue and was handed it on a plate: neither of the players to the side of him drafted blue and only one of them drafted white - and then only as a splash. The draft progressed well for him as he managed to pick up no less than 10 fliers and an Ordered Migration, with some good blue control cards. Two Probes and a Recoil tempted him to play a couple of swamps and Treva (the dragon!) also convinced him to play a forest. The only thing he felt was missing from his deck was the Master Decoys that were few and far between in the draft. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/167.jpg)
+
+Dominik went into the draft intending to go white/blue and was handed it on a plate: neither of the players to the side of him drafted blue and only one of them drafted white - and then only as a splash. The draft progressed well for him as he managed to pick up no less than 10 fliers and an Ordered Migration, with some good blue control cards. Two Probes and a Recoil tempted him to play a couple of swamps and Treva (the dragon!) also convinced him to play a forest. The only thing he felt was missing from his deck was the Master Decoys that were few and far between in the draft. 
 
 Richard had more trouble as the three colour deck he ended up with was not in adjoining colours: red/white/black. He explained that he had intended to go u/w/b, but his friend was playing blue to his right, so he didn't want to screw him over. "And I hate playing red!" His deck is a reasonable one though, but the beats do not really start fast enough for what is trying to be an aggressive red/black deck as he has too many turn 3 Kavus. Having said all this he does have some reasonable fliers and three Hooded Kavu which might be key in this match-up, not to mention his five removal spells. 
 
@@ -70,7 +72,9 @@ Richard does not sideboard at all. His deck was stretched and was already optima
 
 Dominik sideboards out the Dragon, which seems reasonable as he only has three ways to cast it and is facing a beatdown deck. As a result he also sides out his random forest for another land and he also chooses to take out Kangee, adding a Mourning and a Metethran Transport (to deal with the Phyrexian Slayers). However, he does not choose to side in his second Attendant which might have proved to be crucial in this match up as Osterberg had 3 Hooded Kavu which can only be blocked by those guys! I spoke to him afterwards and he was not aware that his opponent actually had three. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/165.jpg)Dominik elects to play first and surprisingly quickly chooses to keep his seven card hand which contained 6 land (none of which were white) and a Razorfoot Griffin (he figured that at least he would be able to cast anything he drew and his 2 Probes might be really good if he drew them). 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/165.jpg)
+
+Dominik elects to play first and surprisingly quickly chooses to keep his seven card hand which contained 6 land (none of which were white) and a Razorfoot Griffin (he figured that at least he would be able to cast anything he drew and his 2 Probes might be really good if he drew them). 
 
 No damage is dealt in this game till turn 7! A turn 2 Rogue Kavu is Repulsed and then traded with a Metathran Transport, then a Hooded Kavu is Recoiled and recast giving Dominik enough time to make a Vodalian Serpant with kicker. Unfortunatley for him this was no match for the un-blockable Kavu and a Phrexian Slayer. 
 

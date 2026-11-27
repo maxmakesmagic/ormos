@@ -65,7 +65,9 @@ Sternのデッキはソルジャーやゾンビによる良くできているビ
 
 **Game 1**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a672.jpg)Harveyの先手で始まった準々決勝。先に動いたのはHarvey、《エルフの戦士/[Elvish Warrior](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior)》を2ターン目に召還と幸先いい動きを見せる。Sternも負けじと返しで《栄光の探求者/[Glory Seeker](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory+Seeker)》を召還して対抗する。ところがHarveyは3枚目のランドが引けない。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a672.jpg)
+
+Harveyの先手で始まった準々決勝。先に動いたのはHarvey、《エルフの戦士/[Elvish Warrior](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior)》を2ターン目に召還と幸先いい動きを見せる。Sternも負けじと返しで《栄光の探求者/[Glory Seeker](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory+Seeker)》を召還して対抗する。ところがHarveyは3枚目のランドが引けない。
 
 そうこうしている間にSternの場には変異が2体と《金切り声のノスリ/[Screeching Buzzard](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Screeching+Buzzard)》が並んでしまう。さらにやっと事故を回避できたHarveyを《疑惑の冠/[Crown of Suspicion](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Suspicion)》をエンチャントした《金切り声のノスリ》と変異軍団が襲いかかる。フェイスアップした《ダールの槍騎兵/[Daru Lancer](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Lancer)》と新たに陣営に加えられた《疾風衣の散兵/[Gustcloak Skirmisher](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Skirmisher)》によりHarveyはマナトラブルを解消することもできずに一本目を落としてしまった。
 

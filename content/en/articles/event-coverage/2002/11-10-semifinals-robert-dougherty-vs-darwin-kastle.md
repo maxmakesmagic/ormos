@@ -44,7 +44,9 @@ archive_source:
   sha256: f2e438e8e4bd3880f7980a2b839d7ac0d7239756e0470edab1e34b43f181a51b
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/pthou02/a903.jpg)This has to be a storeowner's dream.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/pthou02/a903.jpg)
+
+This has to be a storeowner's dream.
 
 Here you are, in the top 4 of a professional Magic tournament, and the guy across from you and the guy behind you are both wearing your T-shirts. Rob Dougherty is the one in such an enviable position; he is the owner of Your Move Games, the game shops that lend their name to his Magic team, a team that makes up 75% of this event's top 4.
 
@@ -86,7 +88,9 @@ Both were dispatched via Edicts, and a [Treetop Village](https://web.archive.org
 
 Dougherty 2 – Kastle 1
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/pthou02/a902.jpg)Dougherty went back into full Reanimator mode for game 4, putting the three [Exhume](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exhume)s and one [Engineered Plague](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Plague) into his deck and pulling 2 Negators and 2 Edicts.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/pthou02/a902.jpg)
+
+Dougherty went back into full Reanimator mode for game 4, putting the three [Exhume](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exhume)s and one [Engineered Plague](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Plague) into his deck and pulling 2 Negators and 2 Edicts.
 
 Game 4 was wild and woolly. The cameras were on these two, and the crowd was certainly in for an entertaining game.
 
@@ -104,7 +108,9 @@ Darwin drew a [Diabolic Edict](https://web.archive.org/web/20021110000000/http:/
 
 No sweat. Rob still had [Exhume](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exhume) in his hand and put the [Verdant Force](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Verdant+Force) back out. Darwin brought back an Elder, which he sacrificed to get the second forest necessary to animate both [Treetop Village](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treetop+Village)s.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/pthou02/a899.jpg)Rob was at two life, with a Force, one token, and a [Butcher](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher) (holding a [Butcher](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher)) in play. Darwin took the opportunity to attack with both Villages. Dougherty was forced to block with the [Butcher](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher), lest he die from trample. Both Villages died, but [Verdant Force](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Verdant+Force) ended up under the [Butcher](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher). Dougherty was left with a single Saproling.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/pthou02/a899.jpg)
+
+Rob was at two life, with a Force, one token, and a [Butcher](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher) (holding a [Butcher](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher)) in play. Darwin took the opportunity to attack with both Villages. Dougherty was forced to block with the [Butcher](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher), lest he die from trample. Both Villages died, but [Verdant Force](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Verdant+Force) ended up under the [Butcher](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher). Dougherty was left with a single Saproling.
 
 Luckily, he drew and played [Nether Spirit](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nether+Spirit). Suddenly, Darwin couldn't attack or [Verdant Force](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Verdant+Force) would be coming back. Neither player budged for a few turns, and Darwin drew a couple Elves to flesh out his army. Dougherty cast [Cabal Therapy](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy) naming [Duress](https://web.archive.org/web/20021110000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress), taking two of them from Darwin. That would prove crucial.
 

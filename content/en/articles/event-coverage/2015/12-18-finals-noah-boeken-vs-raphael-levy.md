@@ -60,7 +60,9 @@ The Seals make into the graveyard, dealing with an Uktabi Orangutan and a Tangle
 
 Raphaël Levy 1 - 1 Noah Boeken
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/407.JPG)Noah's draw in game three is weak, he just doesn't have enough creatures. A Pouncing Jaguar and an Elvish Lyrist aren't much pressure by themselves, and his Thran Foundry turns out to be no good as Raphaël can simply cast his enchantments in hand. He plays two Seals of Removal followed by a Parallax Wave, and while Noah is drawing only land, Levy is doing much better, he draws two more Parallax Waves and an Opalescence. There's no way a green deck can deal with three 4/4s without and creatures in play, so Noah quickly scoops.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/407.JPG)
+
+Noah's draw in game three is weak, he just doesn't have enough creatures. A Pouncing Jaguar and an Elvish Lyrist aren't much pressure by themselves, and his Thran Foundry turns out to be no good as Raphaël can simply cast his enchantments in hand. He plays two Seals of Removal followed by a Parallax Wave, and while Noah is drawing only land, Levy is doing much better, he draws two more Parallax Waves and an Opalescence. There's no way a green deck can deal with three 4/4s without and creatures in play, so Noah quickly scoops.
 
 Raphaël Levy 2 - 1 Noah Boeken
 
@@ -68,6 +70,8 @@ It's Raphaël's turn to keep a poor draw in game four, he probably in hindsight 
 
 So the 2000 European Championships comes down to a fifth and final game.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/411.JPG)It seems at first that Noah's draw is not great, he only has two lands - although one of them is a Gaea's Cradle, and on turn three has a Wild Dogs and a Pouncing Jaguar as his creatures. His turn four is amazing though. Raphaël has been forced to put an Island in play, so even though Raphaël Seal of Removals the Pouncing Jaguar, out comes a free Rushwood Legate, the Pouncing Jaguar and a Tangle Wire. Raphaël thinks for a long time at this point, with an Enlightened Tutor in hand, and eventually decides to do nothing this turn, merely tapping his lands and hoping to do something next turn. There is no next turn though, as Noah shows off a Wild Might, and a Giant Growth to do exactly enough damage to win the game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/411.JPG)
+
+It seems at first that Noah's draw is not great, he only has two lands - although one of them is a Gaea's Cradle, and on turn three has a Wild Dogs and a Pouncing Jaguar as his creatures. His turn four is amazing though. Raphaël has been forced to put an Island in play, so even though Raphaël Seal of Removals the Pouncing Jaguar, out comes a free Rushwood Legate, the Pouncing Jaguar and a Tangle Wire. Raphaël thinks for a long time at this point, with an Enlightened Tutor in hand, and eventually decides to do nothing this turn, merely tapping his lands and hoping to do something next turn. There is no next turn though, as Noah shows off a Wild Might, and a Giant Growth to do exactly enough damage to win the game.
 
 Noah Boeken wins 3-2 and is the new European Champion. Congratulations to him.

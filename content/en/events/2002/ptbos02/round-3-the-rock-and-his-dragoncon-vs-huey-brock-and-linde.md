@@ -102,7 +102,9 @@ render_recovery:
   - Muscle Burst
   occurrences: 51
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a952.jpg)The members of The Rock and his DragonCon are preceded by a hefty reputation. Tomi "Jelly" Walamies smashed through to the finals at Pro Tour - New Orleans just last year. Jens Thoren's had a banner year, too, following up his second-place finish at Pro Tour - San Diego with a fourth at Pro Tour - Osaka.
+![](http://www.wizards.com/sideboard/images/ptbos02/a952.jpg)
+
+The members of The Rock and his DragonCon are preceded by a hefty reputation. Tomi "Jelly" Walamies smashed through to the finals at Pro Tour - New Orleans just last year. Jens Thoren's had a banner year, too, following up his second-place finish at Pro Tour - San Diego with a fourth at Pro Tour - Osaka.
 
 Those credentials will do little to unnerve their opponents, Huey Brock and Linde. Probably the most relaxed team in attendance, front man William "Baby Huey" Jensen's trademark shrug says it all. He, Brock Parker and Matt Linde have been playing together since forever. No sense mixing it up for the teams PT when you can just play with your friends. They also happen to have some talent for the cards. Linde's a former American National Champion, Parker took Grand Prix - Turin with Horse Thieves, and Jensen's résumé stretches to the horizon.
 
@@ -112,7 +114,9 @@ In the first seat, Linde was taking care of business against a land-stalled Thor
 
 Jensen was also on the wrong end of some quick beats. Walamies opened with Chatter of the Squirrel, Nantuko Tracer and then Flame Burst for Jensen's Puppeteer. Vigilant Sentry tried to hold things up. Walamies came back with Petravark, keeping Jensen to just one island. Psionic Gift answered the one-toughness guys, but Walamies had more power in reserve, thanks to Grizzly Fate. Still, Jensen was just starting to take control.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a951.jpg)Parker was short on red mana in his match against Sadeghpour, but Seton's Scout, Nullmage Advocate and Springing Tiger were excellent beatdown. Mountain showed up just in time to get rid of an offending Dreamwinder. Sadeghpour blocked and traded as best he could, but even with Gravedigger's help he was soon on an empty board at five life facing Rabid Elephant and Ember Beast.
+![](http://www.wizards.com/sideboard/images/ptbos02/a951.jpg)
+
+Parker was short on red mana in his match against Sadeghpour, but Seton's Scout, Nullmage Advocate and Springing Tiger were excellent beatdown. Mountain showed up just in time to get rid of an offending Dreamwinder. Sadeghpour blocked and traded as best he could, but even with Gravedigger's help he was soon on an empty board at five life facing Rabid Elephant and Ember Beast.
 
 Linde's hand for the second game was primed for racing, holding Repel and Churning Eddy. He resolved a turn-four Painbringer, a very bad situation for Thoren's blue-white. The next turn he threw down Soul Scourge, setting up a devastating turn where he Churning Eddied Thoren's Windreader with enough mana to Syncopate it on the way back down.
 
@@ -128,7 +132,9 @@ Parker untapped. He double-checked the math, then floated four and ate all his l
 
 Huey Brock and Linde 2 - The Rock and his DragonCon 0
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a953.jpg)That seemed to take the wind out of Walamies's sails, helped out by Huey's seeming stabilization at eleven life. 
+![](http://www.wizards.com/sideboard/images/ptbos02/a953.jpg)
+
+That seemed to take the wind out of Walamies's sails, helped out by Huey's seeming stabilization at eleven life. 
 
 "I've had more fun at the dentist." - Tomi Walamies
 

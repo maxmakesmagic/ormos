@@ -44,7 +44,9 @@ archive_source:
   sha256: fcbf45260cb985bea765217bf5ffb508506cdbe78e041a9e8356976a7da3c108
 render_recovery: []
 ---
-![](https://i.ormos.uk/6d/c4/6dc4e9db1256f64ac5585eeebe59a16a86845996651fdef2cf9b3f3b630c8a08.jpg)After an impressive showing at last years nationals making the top 8 playing a skies deck, Grain is looking to make the team this year playing a U/G/R madness deck. Wong is playing a deck that seems to have dropped out of the top decks of the format, B/R braids.
+![](https://i.ormos.uk/6d/c4/6dc4e9db1256f64ac5585eeebe59a16a86845996651fdef2cf9b3f3b630c8a08.jpg)
+
+After an impressive showing at last years nationals making the top 8 playing a skies deck, Grain is looking to make the team this year playing a U/G/R madness deck. Wong is playing a deck that seems to have dropped out of the top decks of the format, B/R braids.
 
 ### Game 1
 

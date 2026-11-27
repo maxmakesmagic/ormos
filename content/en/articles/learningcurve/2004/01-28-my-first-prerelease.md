@@ -1488,7 +1488,9 @@ If I won this round I would be 3-0 and able to draw with my fourth round opponen
 
 Michael played an Oblivion Stone on turn three or four of the first game but he had no real pressure and not many cards in hand when he played it. It did not matter though as my deck delivered one of its three artifact destruction spells before he could activate the Stone. 
 
-![](https://i.ormos.uk/b6/e4/b6e4a11a8500d9068747e0d0f8b1d8beb7dfba208e8e457812a938849360cc94.jpg)In game two Michael opened up with a Leonin Elder and followed it with a turn three Emissary of Hope. I had a somewhat slow draw and Michael was quickly up to thirty-nine life by the time I killed the flier. He still had the Leonin Elder and later played a foil one as well. He used the time afforded him by the extra life to play a Darksteel Gargoyle and a Darksteel Forge. The Forge negated two artifact destruction spells in my hand for the rest of the game.
+![](https://i.ormos.uk/b6/e4/b6e4a11a8500d9068747e0d0f8b1d8beb7dfba208e8e457812a938849360cc94.jpg)
+
+In game two Michael opened up with a Leonin Elder and followed it with a turn three Emissary of Hope. I had a somewhat slow draw and Michael was quickly up to thirty-nine life by the time I killed the flier. He still had the Leonin Elder and later played a foil one as well. He used the time afforded him by the extra life to play a Darksteel Gargoyle and a Darksteel Forge. The Forge negated two artifact destruction spells in my hand for the rest of the game.
 
 I had to draw all but one card in my deck with Serum Tank and an entwined Promise of Power in order to beat him. The second to last card in my deck was the Savage Beating and I had to entwine it. Because his artifact creatures were indestructible that was only enough to *almost* kill him. I still needed to polish him off with a large Consume Spirit.
 
@@ -1496,7 +1498,9 @@ I drew the next round with my opponent and took my nine packs to go find a draft
 
 I was surprised by how many people were playing with Surestrike Trident. The card does not seem very exciting to me as far as equipment in this set. I had it in my first sealed deck until I realized that it only does damage to players. Even coupled with first strike it was not enough for me to pump four mana into each turn. I can see the card being very powerful in the last act of a long game but who wants to draw this early? 
 
-![](https://i.ormos.uk/cb/7f/cb7f464ea9f51163a6aadc4c92ff18d00520c85e6d83a5dd134b968f0cdb2532.jpg)Leonin Bola on the other hand was very powerful and I saw many players ignore the common equipment despite the fact that it turns any creature into a tapper. It is cheap and easy to move around. It will definitely be an excellent complement to the Leonin Den-Guard.
+![](https://i.ormos.uk/cb/7f/cb7f464ea9f51163a6aadc4c92ff18d00520c85e6d83a5dd134b968f0cdb2532.jpg)
+
+Leonin Bola on the other hand was very powerful and I saw many players ignore the common equipment despite the fact that it turns any creature into a tapper. It is cheap and easy to move around. It will definitely be an excellent complement to the Leonin Den-Guard.
 
 Speaking of powerful, The Sword of Light and Shadow and the Sword of Fire and Ice were all that they were cracked up to be. I was lucky enough to not have to face either one all weekend but I was near games that were dominated by each on Saturday. I am glad to see that these guys are rare and not have to worry about them popping up constantly like the accursed Loxodon Warhammer.
 

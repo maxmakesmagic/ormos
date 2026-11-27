@@ -55,7 +55,9 @@ render_recovery: []
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a914.jpg)Without a doubt, Cole Swannack is the big story of the first day of competition. Some eyes were on the thirteen year old New Zealand National Champion coming into Worlds, but the novelty interest of a young National Champion has turned into serious surprise, as Swannack went 5-1 in today's Standard portion, beating accomplished Pro Tour players such as Gary Wise and Albertus Law. While it's still a bit early to jump to conclusions, the buzz around the venue today is that Cole would look great as a World Champion on the cover of Sideboard Magazine. Gary Wise even told Cole as he extended his hand in defeat, "You're going to make a great World Champion." I sat down with Cole after the first day of competition had ended to see what he thought about his impressive showing, and his chances for the rest of the tournament.
+![](http://www.wizards.com/sideboard/images/worlds02/a914.jpg)
+
+Without a doubt, Cole Swannack is the big story of the first day of competition. Some eyes were on the thirteen year old New Zealand National Champion coming into Worlds, but the novelty interest of a young National Champion has turned into serious surprise, as Swannack went 5-1 in today's Standard portion, beating accomplished Pro Tour players such as Gary Wise and Albertus Law. While it's still a bit early to jump to conclusions, the buzz around the venue today is that Cole would look great as a World Champion on the cover of Sideboard Magazine. Gary Wise even told Cole as he extended his hand in defeat, "You're going to make a great World Champion." I sat down with Cole after the first day of competition had ended to see what he thought about his impressive showing, and his chances for the rest of the tournament.
 
 **Sideboard:** How long have you been playing?  
 **Swannack:** I've been playing for about four years, and started playing when I was eight.

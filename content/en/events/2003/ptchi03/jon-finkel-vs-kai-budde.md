@@ -683,7 +683,9 @@ Buddeは次々と凶悪なビートダウンクリーチャーを展開しつつ
 
 一方のFinkelも《うつろう爆発/Erratic Explosion》で《切り刻まれた軍勢》を除去し、5ターン目には《激浪の多相の戦士/Riptide Shapeshifter》を召喚して対抗。しかし、《堕ちたる僧侶/Fallen Cleric》、《突進する石背獣/Charging Slateback》、《ナントゥーコの鞘虫/Nantuko Husk》、《針刺の殴り獣/Spined Basher》、《腐敗を導く者/Shepherd of Rot》...と次々にアタッカーとダメージソースを引き当ててくる絶好調のBudde。
 
-![](https://i.ormos.uk/ec/3c/ec3cf02993808b79f504b9b73bd6981e315bc465c0a0e0192862cb31566d2579.jpg)それでも...Finkelも《流水の長魚/Slipstream Eel》や《変異/Morph》を展開し、《戦慄の葬送歌/Dirge of Dread》からの総攻撃もなんとか《締めつける綱/Choking Tethers》で被害を小さくしようと善処した。
+![](https://i.ormos.uk/ec/3c/ec3cf02993808b79f504b9b73bd6981e315bc465c0a0e0192862cb31566d2579.jpg)
+
+それでも...Finkelも《流水の長魚/Slipstream Eel》や《変異/Morph》を展開し、《戦慄の葬送歌/Dirge of Dread》からの総攻撃もなんとか《締めつける綱/Choking Tethers》で被害を小さくしようと善処した。
 
 しかし...やはり、圧倒的な物量をどうしようもできないのだった。
 

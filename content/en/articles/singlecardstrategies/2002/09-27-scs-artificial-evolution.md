@@ -701,7 +701,9 @@ Artificial Evolution can be a nice defensive tool. Is your opponent's Bird deck 
 
 Wizards often makes Walls that would be fierce in combat... if only they could attack. Artificial Evolution can hack your favorite wall into a fighting machine. Wouldn't a 10/10 Shifting Wall be ugly if it were an Elf that could attack? Put some copies of Testament of Faith in your Soldier deck and enlist their help in battle. Illusionary Wall would be frightening as a 7/4 flying, first striking Merfolk. Sunweb wouldn't be too shabby as a 5/6 flying Archaeologist on offense. And for massive style points, turn your Wall of Wood into a Berserker and swing... followed by a Might of Oaks, Giant Growth, and Berserk for the win.
 
-![](https://i.ormos.uk/f7/4e/f74efc6fc520eebe51c557c2be182b592470f15b3f7691bddc2f8d0ddba6c151.jpg)Walls make good blockers, but sometimes your opponent just doesn't play them, making cards like Juggernaut, Rampart Crawler, Bog Rats, and Tower of Coireall less than impressive. Hack 'em to be unblockable by whatever creatures your opponent is playing and watch them start to sweat... well, at least they'll sweat your Juggernaut and Tower.
+![](https://i.ormos.uk/f7/4e/f74efc6fc520eebe51c557c2be182b592470f15b3f7691bddc2f8d0ddba6c151.jpg)
+
+Walls make good blockers, but sometimes your opponent just doesn't play them, making cards like Juggernaut, Rampart Crawler, Bog Rats, and Tower of Coireall less than impressive. Hack 'em to be unblockable by whatever creatures your opponent is playing and watch them start to sweat... well, at least they'll sweat your Juggernaut and Tower.
 
 ### MAKING BAD CARDS... NOT QUITE SO BAD
 

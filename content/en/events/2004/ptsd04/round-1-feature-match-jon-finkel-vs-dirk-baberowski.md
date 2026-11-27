@@ -503,7 +503,9 @@ render_recovery:
 ---
 * * *
 
-![Dirk Baberowski](http://wizards.com/sideboard/images/ptsd04/fm1_1.jpg)Round one of Pro Tour San Diego got underway with a bang. This round saw a match-up between the number two and number four players on the all-time money winners lists. Jon Finkel sits in second place with a staggering $290,000 in lifetime Magic winnings. Only Kai Budde is ahead of him. Kai's Phoenix Foundation teammate was his opponent this round. Dirk Baberowski is fourth on the money earner's list with just under $148,000 in winnings. Only Bob Maher separates the two on the list.
+![Dirk Baberowski](http://wizards.com/sideboard/images/ptsd04/fm1_1.jpg)
+
+Round one of Pro Tour San Diego got underway with a bang. This round saw a match-up between the number two and number four players on the all-time money winners lists. Jon Finkel sits in second place with a staggering $290,000 in lifetime Magic winnings. Only Kai Budde is ahead of him. Kai's Phoenix Foundation teammate was his opponent this round. Dirk Baberowski is fourth on the money earner's list with just under $148,000 in winnings. Only Bob Maher separates the two on the list.
 
 Jon and Dirk had already played a substantial amount of Magic this week. They were just back from E3, the site of the 2004 Magic Invitational, where they each played fifteen rounds of Magic. Jon was hoping for a more productive set of rounds as he finished dead last in the standings with a 3-12 record. Historically such a poor finish has almost always been followed by a Pro Tour win sometime over the course of the next season. Aside from that he was optimistic that his luck was about to change as he had drafted a deck that he was bragging about to Dirk as they wandered over to the feature match area.
 

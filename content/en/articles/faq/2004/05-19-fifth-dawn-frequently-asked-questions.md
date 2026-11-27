@@ -573,7 +573,9 @@ render_recovery:
 
 [Fifth Dawn FAQ in Rich Text format (74k)](https://web.archive.org/web/20040519000000/http://www.wizards.com/dci/downloads/FifthDawnFAQ051904.rtf)
 
-![](https://i.ormos.uk/9e/9f/9e9f97d017416bca2546a0dc61751ede14ddc86929bee51fc9de14b9fd85437f.jpg)This FAQ has two sections, each of which serves a different purpose.
+![](https://i.ormos.uk/9e/9f/9e9f97d017416bca2546a0dc61751ede14ddc86929bee51fc9de14b9fd85437f.jpg)
+
+This FAQ has two sections, each of which serves a different purpose.
 
 The first section ("[General Notes](#general)") explains the new mechanics and concepts in the set. The second section ("[Card-Specific Notes](#cardspecific)") contains answers to the most important questions players might ask about a given card.
 

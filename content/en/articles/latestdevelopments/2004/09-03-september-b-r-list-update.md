@@ -79,7 +79,9 @@ render_recovery: []
 ---
 Before I get into the meat of this article, I want to welcome John Carter to the **Magic** team. You'd never know it by reading [his Saturday School columns](https://web.archive.org/web/20040903000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/authorarchive&author=JohnCarter), but John was hired by Wizards of the Coast to replace Paul Barclay as the **Magic** Rules Manager. John moved into his new desk this past Monday.
 
-![](https://i.ormos.uk/2e/da/2eda7544b1dd8fea37d3f3b9d899bdb42260a3858109725b7ed7493f32208b3f.jpg)Carter, 29, has been a level 3 judge for almost five years, and has certified hundreds of judges during that time; the Mid-Atlantic region is populated almost exclusively with judges that John has trained. He worked on the infamous “Delphi” judge tests, and was on the governing body for the “5-color” format prior to being hired. He gave up an IT career to come work for us, and we're delighted to have him.
+![](https://i.ormos.uk/2e/da/2eda7544b1dd8fea37d3f3b9d899bdb42260a3858109725b7ed7493f32208b3f.jpg)
+
+Carter, 29, has been a level 3 judge for almost five years, and has certified hundreds of judges during that time; the Mid-Atlantic region is populated almost exclusively with judges that John has trained. He worked on the infamous “Delphi” judge tests, and was on the governing body for the “5-color” format prior to being hired. He gave up an IT career to come work for us, and we're delighted to have him.
 
 Paul Barclay, for those interested, is still working in R&D on what we call “New Business”--the part of the department responsible for coming up with new exciting products. Paul will certainly still have his hand in **Magic**.
 

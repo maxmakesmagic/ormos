@@ -304,7 +304,9 @@ And Techy.
 
 I didn't always feel this strongly about combos. Once upon a time, the dreaded combo winter descended upon **Magic**, teaching us that combos should never get out of hand. When combos get to the point of consistent non-interaction with your opponent, **Magic** is no longer **Magic**. So, beware when meddling with combos!
 
-![](https://i.ormos.uk/65/36/6536fe062e4dc420095cfd48434beae31b6778f59ef990384d5f7b4e9b6c1b77.jpg)At any rate, Jay Moldenhauer-Salazar contacted me at some point and asked me about doing a “combo article” between us for combo week, combining [Into the Aether](https://web.archive.org/web/20070810031838/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=IntotheAether) and [Building on a Budget](https://web.archive.org/web/20050404044639/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=BuildingOnABudget). The idea was to have me build a deck, and then he would write [an article about playing it](/en/articles/intotheaether/2004/09-28-poor-intotheaether), followed by a strategy article on the deck in my column. I am always up for cool ideas, so I was on board. Then, to my horror, he asked me to build an all commons combo deck.
+![](https://i.ormos.uk/65/36/6536fe062e4dc420095cfd48434beae31b6778f59ef990384d5f7b4e9b6c1b77.jpg)
+
+At any rate, Jay Moldenhauer-Salazar contacted me at some point and asked me about doing a “combo article” between us for combo week, combining [Into the Aether](https://web.archive.org/web/20070810031838/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=IntotheAether) and [Building on a Budget](https://web.archive.org/web/20050404044639/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=BuildingOnABudget). The idea was to have me build a deck, and then he would write [an article about playing it](/en/articles/intotheaether/2004/09-28-poor-intotheaether), followed by a strategy article on the deck in my column. I am always up for cool ideas, so I was on board. Then, to my horror, he asked me to build an all commons combo deck.
 
 Now, Budget decks I can do, but all common decks? That was a challenge. I had never even heard of anyone attempting such a feat. Some quick research got me nowhere, and I decided to grease my elbows and get into the fray. The best way to make a combo deck is to search the card lists for parts that make an engine. An engine is a combo-deck term that describes how you convert one resource into another. After you find a way to do that, you need to figure out how to profit on the transaction, thus netting you more stuff. Convert that stuff back at an equal rate via a second card, then run it back through the engine to get more! Rinse and repeat.
 
@@ -316,7 +318,9 @@ After an agonizing review of all the commons, this was the engine I could come u
 *   Untappers like Twiddle and Dream's Grip
 *   Card Drawers like Rush of Knowledge
 
-![](http://www.wizards.com/global/images/mtgcom_daily_nh34_picMain_en.jpg)So, once you get a couple enchant lands on one of your land (easier than playing out a Bargain at any rate), you can begin to produce a lot of mana by using cards like Twiddle and untapping it. This converts cards to mana.
+![](http://www.wizards.com/global/images/mtgcom_daily_nh34_picMain_en.jpg)
+
+So, once you get a couple enchant lands on one of your land (easier than playing out a Bargain at any rate), you can begin to produce a lot of mana by using cards like Twiddle and untapping it. This converts cards to mana.
 
 Then, you use the mana to cast a Rush of Knowledge, drawing a ton of cards. This converts mana back to cards.
 

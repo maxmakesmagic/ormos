@@ -44,7 +44,9 @@ archive_source:
   sha256: 08721772cfc9b73a3ee94d04129c94a24a2274c1b82179f143f905fb4261a733
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppra01/997.jpg)Prague is one of the most historic cities in Eastern Europe. First settled by the Slavs in the seventh and eighth centuries. Built on the banks of the river Vltava, it is one of the smallest capitals in Europe, and everything of any historical interest lies within walking distance of it's centre. In particular it is well known for it's many beautiful medieval buildings.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppra01/997.jpg)
+
+Prague is one of the most historic cities in Eastern Europe. First settled by the Slavs in the seventh and eighth centuries. Built on the banks of the river Vltava, it is one of the smallest capitals in Europe, and everything of any historical interest lies within walking distance of it's centre. In particular it is well known for it's many beautiful medieval buildings.
 
 All very pleasant no doubt, but not sufficient to explain why so many people have descended on the capital of the Czech Republic this weekend. For this we must look to another reason - the first Magic: the Gathering Grand Prix to be held in Eastern Europe. In fact the surprisingly large number of 618 players have turned up for a couple of days of Invasion/Planeshift Sealed Deck and Draft.
 

@@ -463,7 +463,9 @@ render_recovery:
 
 ![Single Card Strategy by Bennie Smith](https://i.ormos.uk/9a/78/9a7875c9d743a13dbd53eff3ad1e905227d4629d15c32bf43f0126299f76483e.jpg)
 
-![Elephant or Beast?](https://i.ormos.uk/df/a4/dfa43bc5a3ca5d2e8e5a4d26813fbe4630c330be44f84c5442aad6ac4471623a.jpg)I remember going over the *Odyssey* spoiler to pick *Scrye* magazine's top 10 cards for Constructed play. I knew that I wanted one of green's flashback creature spells in the top 10, but I was torn between which one to pick. Call of the Herd was cheaper and made 3/3 Elephant tokens, but Beast Attack, for just two more mana (and only one more for the flashback), could get you 4/4 Beast tokens—*at instant speed!* That did it for me, and I went with Beast Attack as the best green flashback creature in the set. 
+![Elephant or Beast?](https://i.ormos.uk/df/a4/dfa43bc5a3ca5d2e8e5a4d26813fbe4630c330be44f84c5442aad6ac4471623a.jpg)
+
+I remember going over the *Odyssey* spoiler to pick *Scrye* magazine's top 10 cards for Constructed play. I knew that I wanted one of green's flashback creature spells in the top 10, but I was torn between which one to pick. Call of the Herd was cheaper and made 3/3 Elephant tokens, but Beast Attack, for just two more mana (and only one more for the flashback), could get you 4/4 Beast tokens—*at instant speed!* That did it for me, and I went with Beast Attack as the best green flashback creature in the set. 
 
 Whoops. 
 

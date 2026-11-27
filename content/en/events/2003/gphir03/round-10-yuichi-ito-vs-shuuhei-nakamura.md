@@ -111,7 +111,9 @@ render_recovery:
   - Powder Keg
   occurrences: 113
 ---
-![](http://www.wizards.com/sideboard/images/gphir03/a959.jpg)Shuuhei Nakamura is no stranger to Grand Prix greatness. Whether alone or with his cronies in S.S.D., he's made a habit of winning and he isn't likely to break it soon. Today he's playing what many believe to be Extended's best deck: Psychatog. He's managed to avoid falling to mono-red so far, but he'll need a little luck to escape it entirely. This round he faces an easier matchup: The Rock. Its pilot, Yuichi Ito, is very much an unknown quantity.
+![](http://www.wizards.com/sideboard/images/gphir03/a959.jpg)
+
+Shuuhei Nakamura is no stranger to Grand Prix greatness. Whether alone or with his cronies in S.S.D., he's made a habit of winning and he isn't likely to break it soon. Today he's playing what many believe to be Extended's best deck: Psychatog. He's managed to avoid falling to mono-red so far, but he'll need a little luck to escape it entirely. This round he faces an easier matchup: The Rock. Its pilot, Yuichi Ito, is very much an unknown quantity.
 
 ### Game 1
 
@@ -127,7 +129,9 @@ Nakamura 1 – Ito 0
 
 Again, Ito's early game was Duress, this time on the second turn. He stripped Counterspell and left Nakamura with just a pair of Cunning Wishes and Circular Logic. He hoped for a masterstroke when he came down with Phyrexian Negator, but Nakamura laughed and showed off the Mana Leak he'd just drawn. Ito was understandably disappointed.
 
-![](http://www.wizards.com/sideboard/images/gphir03/a958.jpg)That meant that Nakamura was free to Wish for Fact or Fiction instead of Smother. Ito was again stuck on three land. Another Mana Leak from Nakamura kept him from Tutoring up a fourth. Ito Duressed again, forcing out the Fact or Fiction. Two Counterspells went to the graveyard while he stocked up on lands and Nightscape Familiar. The Duress took his second Fact or Fiction.
+![](http://www.wizards.com/sideboard/images/gphir03/a958.jpg)
+
+That meant that Nakamura was free to Wish for Fact or Fiction instead of Smother. Ito was again stuck on three land. Another Mana Leak from Nakamura kept him from Tutoring up a fourth. Ito Duressed again, forcing out the Fact or Fiction. Two Counterspells went to the graveyard while he stocked up on lands and Nightscape Familiar. The Duress took his second Fact or Fiction.
 
 Nakamura got his Familiar into play, ready to dig for more action. Mana Leak stopped a Smother. Duress took his Logic, but he still had Analysis and Cunning Wish. An Edict from Ito finally got rid of the Familiar. Nakamura Analyzed twice, tapping out and giving Ito the go-ahead. All he could manage was Yavimaya Elder.
 

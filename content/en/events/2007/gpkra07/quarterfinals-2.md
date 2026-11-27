@@ -137,7 +137,9 @@ The Slovac changes his sideboarding for Game 3 by removing 2 Profane Command and
 
 **Game 3** 
 
-![](http://www.wizards.com/sideboard/images/gpkra07/armin_birner_qf2.jpg)Armin choses to play and chooses the trip to Paris once before suspending Search for Tomorrow on turn one. Matej has a Thoughtseize on his first turn, seeing three lands and Cloudthresher: "That was easy." Armin just drops Treetop Village, adds Wall of Roots on his next turn and starts some beatdown with walking lands. The Slovac evokes Shriekmaw to kill Wall, going to ten after Armin's next attack with Treetop Village. Tarmogoyf meets Mannequin (targeting Maw), but Incinerate takes care of the blocker. Due to pain from Underground River, Matej drops to 6.
+![](http://www.wizards.com/sideboard/images/gpkra07/armin_birner_qf2.jpg)
+
+Armin choses to play and chooses the trip to Paris once before suspending Search for Tomorrow on turn one. Matej has a Thoughtseize on his first turn, seeing three lands and Cloudthresher: "That was easy." Armin just drops Treetop Village, adds Wall of Roots on his next turn and starts some beatdown with walking lands. The Slovac evokes Shriekmaw to kill Wall, going to ten after Armin's next attack with Treetop Village. Tarmogoyf meets Mannequin (targeting Maw), but Incinerate takes care of the blocker. Due to pain from Underground River, Matej drops to 6.
 
 Matej: Draw, go. Armin: Draw, go. No attack with Village, fearing another Mannequin. Venser temporarily neutralized the feared land, Armin just replays it and adds Fertile Ground to his board. 
 

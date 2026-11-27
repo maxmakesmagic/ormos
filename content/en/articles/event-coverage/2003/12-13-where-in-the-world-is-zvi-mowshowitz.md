@@ -44,7 +44,9 @@ archive_source:
   sha256: 741ade67b1d3a35435ce0a4f3fa0c31a9cb66953ccd32d743e253cedbe0a3812
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpana03/zvi_1.jpg)Keen-eyed observers will notice the absence of Zvi Mowshowitz in the tournament pairings despite the fact that he was announced as participating in the tournament in the introductory blurb. Zvi did indeed register for the tournament but dropped prior to the start of the second round-long before he had even used up his full complement of byes.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpana03/zvi_1.jpg)
+
+Keen-eyed observers will notice the absence of Zvi Mowshowitz in the tournament pairings despite the fact that he was announced as participating in the tournament in the introductory blurb. Zvi did indeed register for the tournament but dropped prior to the start of the second round-long before he had even used up his full complement of byes.
 
 The Grand Prix is taking place within the confines of GenCon SoCal. The event is the first attempt by Peter Adkinson's convention business to expand their sphere of influence beyond the borders of Indianapolis. (Traditionally, GenCon was held in Milwaukee but the mother of all gaming conventions outgrew the Milwaukee Convention Center.) There are many different events going on all weekend for a myriad of games. Wizards of the Coast premiered the English language edition of their new Duelmasters, Jeff Donais could be seen hawking Yu-Gi-Oh, the L5R tournament could be heard by all as the players shouted in unison at the beginning of each round (quickly followed by derisive snickers from the Grand Prix competitors, and-among much, much more than I could possibly recount--there was a prerelease for a new collectible game called CyberPunk.
 

@@ -503,7 +503,9 @@ render_recovery:
 ---
 * * *
 
-![You Make the Mirage Theme Deck](https://i.ormos.uk/d1/72/d1727ae3697fa06f35f02874c5057ac6c2acf8b4a87697047451d18195855d92.jpg)As a reminder, the color pair is red-blue and our theme is "Two Elements: Fire and Air". Our rare cards are Subterranean Spirit and Mist Dragon.
+![You Make the Mirage Theme Deck](https://i.ormos.uk/d1/72/d1727ae3697fa06f35f02874c5057ac6c2acf8b4a87697047451d18195855d92.jpg)
+
+As a reminder, the color pair is red-blue and our theme is "Two Elements: Fire and Air". Our rare cards are Subterranean Spirit and Mist Dragon.
 
 Thank you all for your [creature votes](https://web.archive.org/web/20051027000000/http://www.wizards.com/default.asp?x=mtgcom/daily/ymtmirage4)!
 

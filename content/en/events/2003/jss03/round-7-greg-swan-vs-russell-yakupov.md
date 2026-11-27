@@ -90,7 +90,9 @@ render_recovery:
   - Flash of Insight
   occurrences: 93
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a769.jpg)Greg Swan made the trip here from lower Pennsylvania, near Philly. He's been playing for eight years, more than half his life. He qualified through a JSS Challenge that "No one attended," he said. "There were about 23 players or so."
+![](http://www.wizards.com/sideboard/images/natus03/a769.jpg)
+
+Greg Swan made the trip here from lower Pennsylvania, near Philly. He's been playing for eight years, more than half his life. He qualified through a JSS Challenge that "No one attended," he said. "There were about 23 players or so."
 
 Russell Yakupov made the trip here from Denver on a plane with some friends. He qualified for this event through a JSS Challenge in Colorado Springs. He's been playing for about three years now. "Maybe four though," he remarked. "I started with Urza's Saga, but that wasn't for competitive Magic."
 
@@ -104,7 +106,9 @@ Russell threw a Withered Wretch and a Nantuko Shade onto the table, and starts s
 
 Well, he moved those two there. On his following turn he cast a Withered Wretch, and you guessed it, a Nantuko Shade. The Wrath of God bought him a turn though. Now with Mirari and the Wake on the table it looked like he could claw his way back into this game. 
 
-![](http://www.wizards.com/sideboard/images/natus03/a774.jpg)Russell agonized over the attack phase. "I'll declare an attack," he finally decided. Pushing the Wretch and the Shade into the Red Zone he was relieved to find that his opponent didn't have any way of preventing the damage. Pumping the shade all the way to 6/5 and adding the damage from the Wretch he brought Greg down to two life. Moments later Greg mana burned for one, oh that silly Wake math, and went down to one life.
+![](http://www.wizards.com/sideboard/images/natus03/a774.jpg)
+
+Russell agonized over the attack phase. "I'll declare an attack," he finally decided. Pushing the Wretch and the Shade into the Red Zone he was relieved to find that his opponent didn't have any way of preventing the damage. Pumping the shade all the way to 6/5 and adding the damage from the Wretch he brought Greg down to two life. Moments later Greg mana burned for one, oh that silly Wake math, and went down to one life.
 
 Greg put an Exalted Angel on the table and Russell had no way to get it off. His Graveborn Muse that he did draw provided very little in the way of immediate help. Greg felt comfortable enough with his board position that he even flashed back a Deep Analysis, sending his life total to only three, before taking another mana burn to drop to two life.
 
@@ -148,7 +152,9 @@ Both players were more subdued shuffling up for Game 3. The need to win has made
 
 With only three lands Russell looked unhappy. Greg had six lands on the table, as well as Mirari, the Wake and Exalted Angel. Russell did manage to Edict the Exalted Angel off the table, using his second Edict on that same Angel, before he made the questionable decision to cast Braids. With only four permanents on the table compared to the nine from Greg people wondered why he would take the risk of Braids.
 
-![](http://www.wizards.com/sideboard/images/natus03/a770.jpg)It didn't matter, as Greg countered it, using Cunning Wish through Mirari to go and get Cunning Wish and Circular Logic. He apparently saw something that the rest of the people here did not. Russell tried a Rotlung Reanimator, it got countered. He tried a Cabal Therapy, it got lapsed. He tried the same Cabal Therapy a second time, and Greg used Cunning Wish and Mirari to go get Cunning Wish and Circular Logic. The Therapy got hit with Circular Logic. The complete and total Wake lock was on, Greg appeared to be completely in control.
+![](http://www.wizards.com/sideboard/images/natus03/a770.jpg)
+
+It didn't matter, as Greg countered it, using Cunning Wish through Mirari to go and get Cunning Wish and Circular Logic. He apparently saw something that the rest of the people here did not. Russell tried a Rotlung Reanimator, it got countered. He tried a Cabal Therapy, it got lapsed. He tried the same Cabal Therapy a second time, and Greg used Cunning Wish and Mirari to go get Cunning Wish and Circular Logic. The Therapy got hit with Circular Logic. The complete and total Wake lock was on, Greg appeared to be completely in control.
 
 The counter party continued on Greg's side, even as time was called Russell was still trying to force through a Cabal Therapy. The Therapy did finally resolve, nabbing a Cunning Wish from Greg.
 

@@ -92,7 +92,9 @@ render_recovery:
   - Kirtar's Desire
   occurrences: 71
 ---
-![](https://i.ormos.uk/fe/9c/fe9cd7c77212b9b01cdceb961d99a956f30241cbb78851c6b51816e5c237d1bd.jpg)As you all know by now the format of this Pro Tour is Booster Draft. You might also know that Booster Draft was the format of the second day of every Grand Prix in the last qualifying season. What most of you might not have notice is Germany's Christoph Lippert is rather good at it. So good that in the last season he had three Grand Prix Top 8 in the European circuit.
+![](https://i.ormos.uk/fe/9c/fe9cd7c77212b9b01cdceb961d99a956f30241cbb78851c6b51816e5c237d1bd.jpg)
+
+As you all know by now the format of this Pro Tour is Booster Draft. You might also know that Booster Draft was the format of the second day of every Grand Prix in the last qualifying season. What most of you might not have notice is Germany's Christoph Lippert is rather good at it. So good that in the last season he had three Grand Prix Top 8 in the European circuit.
 
 The first difficulty at the table was having to face two Dutch players with the infamous MennoD's fan club t-shirts. With Jelger Wiegersma, Victor van der Broek, Tom van de Logt - sitting at Lippert's right - and a large of Europeans at the table Christoph must have felt right at home.
 

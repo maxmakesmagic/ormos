@@ -44,7 +44,9 @@ archive_source:
   sha256: 7f0b19ed60f2c33de57f898b35dfd7e413f93e2fe2b8addc3b781ea0adb1eb40
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm14.jpg)Dirk Hein, former German national champion (1998) started into the tournament with 3 Byes. He got those byes due to his high rating, which he got mainly at worlds. He didn't play in the main event, but played very many Side-events instead, winning all of them. Efkan Yueksel also started with 3 Byes, which he got in a Grand Prix Trial tournament. Even though he's been active since 1995 he is still an amateur without much experience in big tournaments, although he competed at German Nationals this year.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm14.jpg)
+
+Dirk Hein, former German national champion (1998) started into the tournament with 3 Byes. He got those byes due to his high rating, which he got mainly at worlds. He didn't play in the main event, but played very many Side-events instead, winning all of them. Efkan Yueksel also started with 3 Byes, which he got in a Grand Prix Trial tournament. Even though he's been active since 1995 he is still an amateur without much experience in big tournaments, although he competed at German Nationals this year.
 
 ### Game 1
 

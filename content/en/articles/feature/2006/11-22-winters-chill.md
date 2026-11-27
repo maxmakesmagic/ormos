@@ -68,7 +68,9 @@ render_recovery:
   - Decklist
   occurrences: 4
 ---
-![Winters_Chill](https://i.ormos.uk/b0/50/b0505b5906ee1d655f5c8dcb43492405cd1840451771d7347eabe7ebfc793226.jpg)Greetings, Johnnies! Way back in January, when I started writing this column, I expressed [a severe dislike for winter](https://web.archive.org/web/20061122000000/https://magic.wizards.com/en/articles/archive/medium-double-double-2006-01-17). It's one of my least favourite seasons. Bottom four, anyway. It's just so cold and miserable. I'm very sad to report that it's snowing a bit as write this. Right now, I can see the crisp little flakes fluttering to the ground from the window of my chalet and/or basement apartment. Sigh.
+![Winters_Chill](https://i.ormos.uk/b0/50/b0505b5906ee1d655f5c8dcb43492405cd1840451771d7347eabe7ebfc793226.jpg)
+
+Greetings, Johnnies! Way back in January, when I started writing this column, I expressed [a severe dislike for winter](https://web.archive.org/web/20061122000000/https://magic.wizards.com/en/articles/archive/medium-double-double-2006-01-17). It's one of my least favourite seasons. Bottom four, anyway. It's just so cold and miserable. I'm very sad to report that it's snowing a bit as write this. Right now, I can see the crisp little flakes fluttering to the ground from the window of my chalet and/or basement apartment. Sigh.
 
 The change in weather is a sign that the holiday season is nearly upon us. Many of my fellow columnists will be celebrating Thanksgiving this coming weekend. I bring this up not because the holiday affects my column in any way (it doesn't), but because *Time Spiral* has a bit of a “temporal chaos” theme. Since I pretty much live and breathe **Magic** (you should see my lungs!), I figured I'd run with this theme and celebrate Thanksgiving six weeks early. Luckily for me, everyone else in my country – the glorious nation of Canada – embraced the temporal chaos and did likewise.
 

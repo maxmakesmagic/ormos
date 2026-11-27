@@ -53,7 +53,9 @@ archive_source:
   sha256: e3cb698f5d9a835f1b3e3f4948e21ff5e436db35f80b9d8da1e9bcde571a8d82
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/fin1_1.jpg)Tuomo was playing a blue and red deck based on affinity, while his opponent Jesse took a black/blue artefact-build into the field.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/fin1_1.jpg)
+
+Tuomo was playing a blue and red deck based on affinity, while his opponent Jesse took a black/blue artefact-build into the field.
 
 ### Game 1
 

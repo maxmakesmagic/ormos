@@ -63,7 +63,9 @@ render_recovery: []
 ---
 **Voice of Soul:小宮忠義**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPYOK01/882.jpg)名うての「青使い」として知られる小宮忠義が対戦する事になったのは、対面の Robert Dougherty 。奇しくも、結果としては似通ったデッキ同士での対決となったものである。一番最初のパックを開封した小宮にとって、選択肢といえたカードは以下の 6 枚。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPYOK01/882.jpg)
+
+名うての「青使い」として知られる小宮忠義が対戦する事になったのは、対面の Robert Dougherty 。奇しくも、結果としては似通ったデッキ同士での対決となったものである。一番最初のパックを開封した小宮にとって、選択肢といえたカードは以下の 6 枚。
 
 [Armadillo Cloak](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Armadillo+Cloak) , [Fires of Yavimaya](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fires+of+Yavimaya) , [Exclude](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exclude) ,[Shackles](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shackles) , [Jade Leech](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jade+Leech) , [Power Armor](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Power+Armor)。
 

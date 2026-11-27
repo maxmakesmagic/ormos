@@ -57,7 +57,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/4f/8e/4f8ed17208a48bb8d595a7151a9336b8ee7f10a6b80ae36a2e109b7b44d50c50.png)This 167-card set continues the themes of the Mirage set, including phasing and flanking, and features creatures with enters-the battlefield abilities and spells with alternative casting costs.
+![](https://i.ormos.uk/4f/8e/4f8ed17208a48bb8d595a7151a9336b8ee7f10a6b80ae36a2e109b7b44d50c50.png)
+
+This 167-card set continues the themes of the Mirage set, including phasing and flanking, and features creatures with enters-the battlefield abilities and spells with alternative casting costs.
 
 **Set Name:** *Visions*  
 **Block:** Set 2 of 3 in the *Mirage* Block  

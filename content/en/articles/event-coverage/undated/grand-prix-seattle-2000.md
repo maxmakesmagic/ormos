@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/dd/fc/ddfc74aaf0f7b7b08be9259a83b4d2e3565d0308b583a84a1d9d71eff5fe205a.jpg)Fresh from his win at Pro Tour-Chicago, Bob Maher, Jr. won Grand Prix-Seattle with nearly the same Extended deck. Entering the Top 8 as the number eight seed, Maher swept his way to the championship and promptly called his girlfriend with the good news.
+![](https://i.ormos.uk/dd/fc/ddfc74aaf0f7b7b08be9259a83b4d2e3565d0308b583a84a1d9d71eff5fe205a.jpg)
+
+Fresh from his win at Pro Tour-Chicago, Bob Maher, Jr. won Grand Prix-Seattle with nearly the same Extended deck. Entering the Top 8 as the number eight seed, Maher swept his way to the championship and promptly called his girlfriend with the good news.
 
 ### Scenes from Grand Prix-Seattle
 

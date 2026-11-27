@@ -1217,7 +1217,9 @@ render_recovery:
 
 ### Pro Tour: San Diego
 
-![](https://i.ormos.uk/d4/f7/d4f7356642697a887ce0b47db1902002fb4e5c77a01b6838eb124c23823253a8.jpg)This Pro Tour began with the ending of an era. 
+![](https://i.ormos.uk/d4/f7/d4f7356642697a887ce0b47db1902002fb4e5c77a01b6838eb124c23823253a8.jpg)
+
+This Pro Tour began with the ending of an era. 
 
 Up until recently, there were several players who competed in every single Pro Tour since the inception of this tournament series. As of Pro Tour: Kobe, this impressive accomplishment belonged only to a single competitor – Darwin Kastle. Unfortunately though, Kastle was not qualified for San Diego. Nevertheless, he traveled to California in order to play in the Last Chance Qualifier, and although he won several rounds, he was unable to make it into the top 4. Thus, this was the first Pro Tour without Darwin, and the event that broke an amazing streak.
 
@@ -1249,7 +1251,9 @@ Playing at the Wizards of the Coast corporate offices last year may have been pr
 
 Perhaps the coolest moment of the Invitational was when Osyp Lebedowicz and Justin Gary were being interviewed by Playboy TV. I hear they wanted to know whether Skullclamp would be banned in Standard.
 
-![](https://i.ormos.uk/1c/ee/1cee869ed087da6d8b682ba8510f84ef51e68ac3717a13826ec4e5545243c383.jpg)Bob Maher dominated the tournament with a 14-1 record. His single loss came at the hands of Jin Okamoto during the *Mirrodin* Block Constructed portion of the tournament. Mattias Jorstedt and Zvi Mowshowitz were both contenders for the other slot in the finals. They actually faced each other in the last round, making the contest even more dramatic. Jorstedt's Ravager Affinity deck prevailed over Zvi's Psychatog, and the Swede advanced to the finals with an 11-4 record. 
+![](https://i.ormos.uk/1c/ee/1cee869ed087da6d8b682ba8510f84ef51e68ac3717a13826ec4e5545243c383.jpg)
+
+Bob Maher dominated the tournament with a 14-1 record. His single loss came at the hands of Jin Okamoto during the *Mirrodin* Block Constructed portion of the tournament. Mattias Jorstedt and Zvi Mowshowitz were both contenders for the other slot in the finals. They actually faced each other in the last round, making the contest even more dramatic. Jorstedt's Ravager Affinity deck prevailed over Zvi's Psychatog, and the Swede advanced to the finals with an 11-4 record. 
 
 Once the swiss rounds of the Invitational were over, the sixteen players boarded a bus and were transported to San Diego for the Pro Tour. Zvi Mowshowitz was not actually qualified for San Diego, but the DCI decided to continue the tradition of allowing the Invitational players to compete in the next Pro Tour, and he was able to play. 
 

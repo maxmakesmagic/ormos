@@ -494,7 +494,9 @@ render_recovery:
 
 **Dougherty:**･･･いったいどんなスペルを隠したっていうのさ
 
-![](http://www.wizards.com/sideboard/images/pthou02/a366.jpg)苦笑しながらDoughertyは《嘘か真か/Fact or Fiction》を選択。そしてDoughertyは続くターンにも《強迫》をプレイ。ここでもGaryはレスポンスで《蓄積した知識》をプレイしてデッキを掘り進み、Doughertyは《対抗呪文/Counterspell》をさらに墓地に送り込んだ。
+![](http://www.wizards.com/sideboard/images/pthou02/a366.jpg)
+
+苦笑しながらDoughertyは《嘘か真か/Fact or Fiction》を選択。そしてDoughertyは続くターンにも《強迫》をプレイ。ここでもGaryはレスポンスで《蓄積した知識》をプレイしてデッキを掘り進み、Doughertyは《対抗呪文/Counterspell》をさらに墓地に送り込んだ。
 
 ダブルマリガンながらも奮闘するDoughertyは続けて《最後の儀式/Last Rites》をも通そうとするが、これはTop Deckされたばかりの《魔力の乱れ/Force Spike》でかわされてしまう。
 

@@ -375,7 +375,9 @@ render_recovery:
 ---
 * * *
 
-!['Nico' Herzog](https://i.ormos.uk/2b/78/2b789c4ee2048f1b91fe9231cc9f19b79f42f97828f013f5fac40ab3ea886f5e.jpg)Nico Herzog sat down at today's last draft and grinned. The Norwegian stood alone at the top of the standings and needed at most one win--and perhaps only a draw--to clinch his second consecutive limited Top 8. "Magic is so easy, you know," he admitted. "I made the most ridiculous mistakes and was able to come back from them every time."
+!['Nico' Herzog](https://i.ormos.uk/2b/78/2b789c4ee2048f1b91fe9231cc9f19b79f42f97828f013f5fac40ab3ea886f5e.jpg)
+
+Nico Herzog sat down at today's last draft and grinned. The Norwegian stood alone at the top of the standings and needed at most one win--and perhaps only a draw--to clinch his second consecutive limited Top 8. "Magic is so easy, you know," he admitted. "I made the most ridiculous mistakes and was able to come back from them every time."
 
 The game didn't seem so easy to Herzog earlier this week at the Magic Invitational, where he was pummeled round after round and was lucky to not finish last. But that was merely the appetizer--this event is the main course, and the fuzzy-headed Scandinavian is surely eating his fill.
 

@@ -124,7 +124,9 @@ render_recovery:
   - Terravore
   occurrences: 69
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a785.jpg)Christian Luhrs is another good German player who has played in the Pro Tour for long enough to be a recognizable name. Just like the Netherlands, Germany seems to spawn new Magic playing machines every week.
+![](http://www.wizards.com/sideboard/images/ptnice02/a785.jpg)
+
+Christian Luhrs is another good German player who has played in the Pro Tour for long enough to be a recognizable name. Just like the Netherlands, Germany seems to spawn new Magic playing machines every week.
 
 Matt Linde once beat Mike Long in the finals of U.S. Nationals. That would be enough to make him pretty popular in the Pro Tour circuit back then. He also got a Worlds Top 8 a few years ago.
 
@@ -143,7 +145,9 @@ Matt 1-0 Christian.
 
 Again the American came out fast with Devoted Caretaker and Phantatog while Luhrs played Basking Rootwalla. The green creature locked the table up so they settle into "draw go" for a few turns.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a784.jpg)At five mana Linde used Scrivener to get his Search back. Luhrs played Nantuko Disciple and the Rootwalla traded swings with Phantatog and Scrivener. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a784.jpg)
+
+At five mana Linde used Scrivener to get his Search back. Luhrs played Nantuko Disciple and the Rootwalla traded swings with Phantatog and Scrivener. 
 
 While Linde sat behind Second Thoughts Luhrs played Hydromorph Gull to take the battle into the skies. When he sent it in, along with Rootwalla, Linde tried to get rid of the Rootwalla.
 
@@ -163,7 +167,9 @@ Matt 1-1 Christian.
 
 A Peek on the first turn showed Matt he had little to fear from Lurhs early on. The German returned the favour and saw that Linde had a very good hand including Hallowed Healer and Second Thoughts.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a786.jpg)Christian: "You had a good draw."
+![](http://www.wizards.com/sideboard/images/ptnice02/a786.jpg)
+
+Christian: "You had a good draw."
 
 By the time he got Seton's Desire on his Phantom Whelp Patrol Hound had already nibbled him twice and Arrogant Wurm was on the table. Shelter saved the Wurm from the big Whelp and Luhrs went spiralling downwards.
 

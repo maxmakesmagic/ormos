@@ -893,7 +893,9 @@ render_recovery:
   - Leonin Bola
   occurrences: 1
 ---
-![](https://i.ormos.uk/ee/f0/eef09b520cbb181d1e1c10592d892887a494d4a84b42e2db924f57416f563e03.jpg)Your Move Games and Aquamoebas Anonymous were the only undefeated teams coming into the final round of a very long Day One. There was zero talk of a draw--both teams were assured of making it in and the winner would be in an excellent position to make Top 4 with only three rounds of play tomorrow.
+![](https://i.ormos.uk/ee/f0/eef09b520cbb181d1e1c10592d892887a494d4a84b42e2db924f57416f563e03.jpg)
+
+Your Move Games and Aquamoebas Anonymous were the only undefeated teams coming into the final round of a very long Day One. There was zero talk of a draw--both teams were assured of making it in and the winner would be in an excellent position to make Top 4 with only three rounds of play tomorrow.
 
 Game 1  
  (Darwin Kastle vs. Jon Stern)

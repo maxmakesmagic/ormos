@@ -44,7 +44,9 @@ archive_source:
   sha256: 0c34ed0839c1a7c5d85efcc792663ff5a864909e00a211574d36093a17ea4010
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/879.jpg)"This is a dream come true" were te first words out of Hugo "Ocho" Araiza's mouth upon winning his final match against Chilean Walter Witt. "I'll never forget this day." At 27, Ocho, a native of Mexico City, Mexico, began late in the game, starting just three years ago in his hometown's top gaming store, Necro Tower. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/879.jpg)
+
+"This is a dream come true" were te first words out of Hugo "Ocho" Araiza's mouth upon winning his final match against Chilean Walter Witt. "I'll never forget this day." At 27, Ocho, a native of Mexico City, Mexico, began late in the game, starting just three years ago in his hometown's top gaming store, Necro Tower. 
 
 At 27, Ocho is the elder statesman of Mexico's top group of players, working with such Latin American luminaries as recent Invitationalist Gerardo Godinez, Latin American Champ Gustavo Chapela and 8-time pro Damian Brown. "I owe my teammates everything," says the long time Replenish player. Without a ticket until half an hour before their plane was to leave, Ocho borrowed money from a number of friends in order to make the trip. Once here, Ocho would only eat when his Mexican friends chipped in to buy him dinner. He plans on returning the favor in the form of a celebratory feast, to be held upon his receiving his prize money, the rest of which will go towards the realization of his dream to play at a PT, with Tokyo his destination. 
 

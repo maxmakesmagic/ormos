@@ -53,7 +53,9 @@ archive_source:
   sha256: 9a601763105bdee5b9d05a253cf2adb0419777355117361383c4b9bd1218d1f0
 render_recovery: []
 ---
-![](http://media.wizards.com/2015/events/wc08/tf2_lau2.jpg)America’s Michael Jacob played an energetic counterpoint to his opponent, Australia’s Brandon Lau. They were fighting it out in Standard: Jacob with the tournament’s second most popular deck (and worst kept secret,) Black-White Heights. Lau was playing a midrange / control build of Red-White Heights that his teammate and newly crowned Rookie of the Year Aaron Nicastri had played to a 6-0 record in the Individual portion. According to Nicastri, the matchup was firmly in Lau’s favor.
+![](http://media.wizards.com/2015/events/wc08/tf2_lau2.jpg)
+
+America’s Michael Jacob played an energetic counterpoint to his opponent, Australia’s Brandon Lau. They were fighting it out in Standard: Jacob with the tournament’s second most popular deck (and worst kept secret,) Black-White Heights. Lau was playing a midrange / control build of Red-White Heights that his teammate and newly crowned Rookie of the Year Aaron Nicastri had played to a 6-0 record in the Individual portion. According to Nicastri, the matchup was firmly in Lau’s favor.
 
 **Game 1**
 
@@ -73,7 +75,9 @@ Lau played Windbrisk Heights, hiding [Murderous Redcap](https://web.archive.org/
 
 Jacob thought out loud, “What’s the worst thing for me here? [Siege-Gang Commander](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Siege-Gang+Commander)?” Lau turned on his [Mutavault](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutavault) and hit. [Mogg Fanatic](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+Fanatic) absorbed 3, but Jacob fwas perilously low on life.
 
-![](http://media.wizards.com/2015/events/wc08/tf2_jacob.jpg)True to Jacob’s prediction, [Siege-Gang Commander](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Siege-Gang+Commander) was waiting from Lau. He put it out. Jacob considered his options, and decided to attack again with his team. All three were blocked, and the Commander and token took down one of the Scullers. This freed up [Ajani Vengeant](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ajani+Vengeant), and with seven mana on board, Lau was able to play him and the Finks after killing the second Sculler.
+![](http://media.wizards.com/2015/events/wc08/tf2_jacob.jpg)
+
+True to Jacob’s prediction, [Siege-Gang Commander](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Siege-Gang+Commander) was waiting from Lau. He put it out. Jacob considered his options, and decided to attack again with his team. All three were blocked, and the Commander and token took down one of the Scullers. This freed up [Ajani Vengeant](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ajani+Vengeant), and with seven mana on board, Lau was able to play him and the Finks after killing the second Sculler.
 
 Jacob played [Marsh Flitter](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Marsh+Flitter), then watched as Lau pulled up [Ranger of Eos](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ranger+of+Eos), fetching and playing two [Figure of Destiny](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Figure%C2%A0of+Destiny). Ajani locked down Jacob’s [Mutavault](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutavault) for the turn, and Lau passed it back. Jacob swung the Flitter at Ajani and sent him to the graveyard, then played [Ajani Goldmane](https://web.archive.org/web/20081215000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ajani+Goldmane) for his side of the board. He gained 2 life.
 

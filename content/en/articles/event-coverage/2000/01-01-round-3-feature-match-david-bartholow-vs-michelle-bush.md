@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Jon Becker* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM3BushBarth.jpg)Round 3 was designated the "old-timers feature match round" by Scott Larabee. While the other featured match was long time pro player Tony Tsai against East Texan Fletcher Peatross, this match involved David Bartholow, an original member of Team Deadguy, founded at Cornell University, and Michelle Bush, a long time member of Your Move Games, Boston's powerhouse magic team. Both have a half dozen Pro Tours under their belts. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM3BushBarth.jpg)
+
+Round 3 was designated the "old-timers feature match round" by Scott Larabee. While the other featured match was long time pro player Tony Tsai against East Texan Fletcher Peatross, this match involved David Bartholow, an original member of Team Deadguy, founded at Cornell University, and Michelle Bush, a long time member of Your Move Games, Boston's powerhouse magic team. Both have a half dozen Pro Tours under their belts. 
 
 **Game 1** 
 
@@ -60,7 +62,9 @@ After considering whether or not to Flesh/Zap the Vicious Kavu or play a blocker
 
 Bush drew into and cast a Faerie Squadron, played a second mountain and passed the turn. Bartholow removed the Squadron with a Tribal Flames and pressed the attack, bringing Bush to 4. Bush was in serious trouble. After momentarily holding her hand above her deck, perhaps in an effort to appease the topdeck gods, Bush drew Crosis the Purger. Bush played Crosis, and passed the turn. Bartholow, sitting pretty a few moments before, looked less than pleased. Bartholow had the option to attack, bringing Bush to 2 and losing the Griffin, or to hold back on defense to protect his hand from Crosis' discard ability. Looking at the Rout in his hand, and the single plain on the board, Bartholow decided that the Griffon should play defense. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM3Bartholow.jpg)Bush drew and passed the turn, holding Crosis back. Bartholow drew, looking for his second plains, but found only a non-white Cameo, and passed the turn. Bush responded by removing the Griffon with a kicked Agonizing Demise (Bartholow: 18). Bush continued to draw the platinum hits, dropping a Keldon Necropolis, and seemingly taking control of the game. To follow it up, Bush cast a Recover to get back the Firescreamer she had earlier discarded to the Probe, and cast the Firescreamer, again opting to keep Crosis on D. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM3Bartholow.jpg)
+
+Bush drew and passed the turn, holding Crosis back. Bartholow drew, looking for his second plains, but found only a non-white Cameo, and passed the turn. Bush responded by removing the Griffon with a kicked Agonizing Demise (Bartholow: 18). Bush continued to draw the platinum hits, dropping a Keldon Necropolis, and seemingly taking control of the game. To follow it up, Bush cast a Recover to get back the Firescreamer she had earlier discarded to the Probe, and cast the Firescreamer, again opting to keep Crosis on D. 
 
 Bartholow drew a Recover, and seeing that his time was beginning to run out, began to dig for the second plains. He cast the Recover to get back the Griffin, drawing a Mountain off the cantrip effect, and recast the Griffon to defend against the Firescreamer. Finally feeling comfortable with her hand, Bush attacked with Crosis. Bartholow gambled and decided not to block, and went to 12. Bush did not use Crosis' ability, and instead dropped a Pouncing Kavu without kicker, leaving mana open to use the Necropolis. Bartholow drew another mountain, and played it. Bush drew and attacked with Crosis, and Bartholow chump blocked with the Griffon. Again, Bush decided not to play a creature to leave mana open for the Keldon Necropolis. Bartholow finally drew his second plain and attacked with the Kavu, which traded with the Firescreamer (Bush threw the Firescreamer at Bartholow with the Necropolis to bring him to10). Bartholow was finally able to clear the board with a Rout, and passed the turn. 
 

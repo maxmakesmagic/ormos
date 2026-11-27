@@ -137,11 +137,15 @@ Robert “Brightstone” Bayardo became the talk of the entire tournament by dra
 
 ### Game One:
 
-![](https://www.wizards.com/sideboard/images/gpla02/915.jpg)Nick won the die roll and promptly took the first mulligan at one of my feature matches of this entire tournament. His new six card hand contained wizards, Lavamancer's Skill, and land. Bayardo also cashed in his initial hand, settling for two mountains, double Craghorn, Oversold Cemetery and Spurred Wolverine.
+![](https://www.wizards.com/sideboard/images/gpla02/915.jpg)
+
+Nick won the die roll and promptly took the first mulligan at one of my feature matches of this entire tournament. His new six card hand contained wizards, Lavamancer's Skill, and land. Bayardo also cashed in his initial hand, settling for two mountains, double Craghorn, Oversold Cemetery and Spurred Wolverine.
 
 Nick got the card-impaired game off to a roaring start with turn one Imagecrafter, turn two tapped cycling land. Bayardo, who had drawn his first forest by this point, traded casting morph creatures with Eisel on turn three. Eisel enchanted his Imagecrafter with Lavamancer's Skill, killing Bayardo’s morpher and bringing in the beats for two.
 
-![](https://www.wizards.com/sideboard/images/gpla02/914.jpg)Robert played a second morph guy, and saved it from the wizard strike with a Vitality Charm-or so he thought. Eisel tapped a blue, revealing his morph creature to be Aphetto Alchemist, which untapped his wizardly brethren and shot down the now-dead Spitting Gourna.
+![](https://www.wizards.com/sideboard/images/gpla02/914.jpg)
+
+Robert played a second morph guy, and saved it from the wizard strike with a Vitality Charm-or so he thought. Eisel tapped a blue, revealing his morph creature to be Aphetto Alchemist, which untapped his wizardly brethren and shot down the now-dead Spitting Gourna.
 
 Imagecrafter #2 hit the board, and two of the three wizards began their rather weak march into the red zone. Mistform Wall joined the party, making Eisel’s army of one power  
  beaters fourfold. 

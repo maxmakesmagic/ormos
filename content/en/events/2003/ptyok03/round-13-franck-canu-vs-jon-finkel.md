@@ -87,7 +87,9 @@ render_recovery:
   - Keeneye Aven
   occurrences: 59
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a772.jpg)These two players are facing off for the second time this weekend. It seems that Jon has been up at the Feature Match area more often than a normal seat this weekend. There is an electric buzz in the air as the crowd—French spectators aside—want to see the return of Jon Finkel. Back-to-back Top 8 limited finishes should silence his detractors—not that you could find any in the room today!
+![](http://www.wizards.com/sideboard/images/ptyok03/a772.jpg)
+
+These two players are facing off for the second time this weekend. It seems that Jon has been up at the Feature Match area more often than a normal seat this weekend. There is an electric buzz in the air as the crowd—French spectators aside—want to see the return of Jon Finkel. Back-to-back Top 8 limited finishes should silence his detractors—not that you could find any in the room today!
 
 ### Game 1
 
@@ -95,7 +97,9 @@ Both players kept their opening hands and Franck made the first play—he was go
 
 Jon made a morph on the fourth turn and Franck made an Aven Redeemer. You could hear the lock's tumblers falling into place. Jon did not have a fifth land but he did have a Lavamancer's Skills for the morph. Franck sent his Invoker into the breach and Jon blocked with his morph. When Franck attempted to Erratic Explosion it after combat the stack started piling up. Jon unmorphed a Willbender and aimed it at the Battlefield Medic instead. Franck then used a Shock on the annoying wizard who shot the Aven Redeemer, which used its ability to save itself. Willbender went to the yard and Franck used the Battlefield Medic to put a 3-point shield around itself. Finally...the explosion resolved and flipped over land, land...Pinpoint Avalanche and the Medic died as well. Jon arched his eyebrows at the amount of burn in Franck's deck and made some notations on his scorepad.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a784.jpg)Jon made a morph and Franck made another Starlight Invoker. Ascending Aven from Jon could not get through the Aven Redeemer but it did manage to keep the healer at bay. Franck proceeded to play out a Lowland Tracker, Gustcloak Savior and another Lowland Tracker. It was looking increasingly like Franck was going to win and he urged Jon to play faster, "Can you play with more speed" Jon snorted derisively, "You have been playing much slower than I have." As if to prove his point, when Franck played his third provoker, Jon conceded.
+![](http://www.wizards.com/sideboard/images/ptyok03/a784.jpg)
+
+Jon made a morph and Franck made another Starlight Invoker. Ascending Aven from Jon could not get through the Aven Redeemer but it did manage to keep the healer at bay. Franck proceeded to play out a Lowland Tracker, Gustcloak Savior and another Lowland Tracker. It was looking increasingly like Franck was going to win and he urged Jon to play faster, "Can you play with more speed" Jon snorted derisively, "You have been playing much slower than I have." As if to prove his point, when Franck played his third provoker, Jon conceded.
 
 Franck – 1 Jon – 0
 
@@ -121,7 +125,9 @@ Franck – 1 Jon –1
 
 ### Game 3
 
-![](https://i.ormos.uk/89/ae/89ae9f8977ff3135218c84b57f0d00349a51dcd50621d6525b1b61f4824ecc6e.jpg)Neither player made any changes to their decks and both kept their openers. Franck got things underway with Whipgrass Entangler while Jon made a Mistform Dreamer. Franck followed with a 3/3 Daru Stinger showing Gravel Slinger and Grassland Crusader. Jon got in for two with his illusion and played a Keeneye Aven. 
+![](https://i.ormos.uk/89/ae/89ae9f8977ff3135218c84b57f0d00349a51dcd50621d6525b1b61f4824ecc6e.jpg)
+
+Neither player made any changes to their decks and both kept their openers. Franck got things underway with Whipgrass Entangler while Jon made a Mistform Dreamer. Franck followed with a 3/3 Daru Stinger showing Gravel Slinger and Grassland Crusader. Jon got in for two with his illusion and played a Keeneye Aven. 
 
 Franck sent in the Stinger for three as time trickled away for the two players and Franck played an Aven Redeemer. With the Stinger on 'O' Jon was able to swing in for four with his fliers and made another morph. Franck kept his Stinger back and fortified with Grassland Crusader leaving two cards in his hand when Jon asked how many. "And you?" "4" was Jon's reply. He made an Ascending Aven and urged Franck to play faster, "A draw is no good for either of us." The judge agreed and as Franck lingered over his cards he issued a warning and a 3-minute time extension, which earned jeers form the French contingent. "Shut up, Nassif!" yelled Jon.
 

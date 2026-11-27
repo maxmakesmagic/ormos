@@ -139,7 +139,9 @@ render_recovery:
   - Sacred Rites
   occurrences: 105
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a897.jpg)When Jon Finkel sat down to the second draft of what could turn out to be his last Pro Tour, he didn't have any idea who Farid Meraghni was. Someone else had to tell him that he was drafting against another Pro Tour winner (the most recent limited Pro Tour winner, in fact). No one doubts that Finkel could still do well on Tour, but even the most talented player the game has ever seen can't win consistently when he doesn't practice, or even pay attention. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a897.jpg)
+
+When Jon Finkel sat down to the second draft of what could turn out to be his last Pro Tour, he didn't have any idea who Farid Meraghni was. Someone else had to tell him that he was drafting against another Pro Tour winner (the most recent limited Pro Tour winner, in fact). No one doubts that Finkel could still do well on Tour, but even the most talented player the game has ever seen can't win consistently when he doesn't practice, or even pay attention. 
 
 Finkel pumped his fist and celebrating the possibility of his "impossible dream" when Meraghni had to mulligan before the first game of their round 5 feature match. Narcissim and Reckless Charge then allowed Finkel to blast through Meraghni's Angelic Wall and Teroh's Faithful with Krosan Avenger and Mad Dog. Meraghni never did manage to stabilize the board and Finkel took a quick 1-0 lead.
 
@@ -147,7 +149,9 @@ Meraghni decided he needed to make his deck more consistent for game 2 and his b
 
 Finkel seemed like he had another nice draw in game 2, with a turn 2 Mad Dog and a turn 3 Narcissim, but Meraghni dropped Sphere of Law on his fourth turn and that really took the sting out of Finkel's attack. Finkel discarded his hand to his Frenetic Ogre in an attempt to get some damage through the Sphere, but Meraghni responded with Second Thoughts and the game was pretty much over right there and then. It took Meraghni a while to find any offense and that gave Finkel time to create an 8/8 Nantuko Cultivator, play Demoralize, and discard his hand to Narcissim, but Meraghni broke his heart with yet another copy of Second Thoughts. Childhood Horror came out to play for Meraghni's team a turn later and they were on to game 3 shortly after that.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a899.jpg)Finkel's game 3 draw was not nearly as exciting as the first two – his first creature was a turn 4 Petravark. By then, Meraghni had already hit him for 11 with Nantuko Shade. A sizable crowd was gathering to see if Finkel could battle his way through a Pro Toru champ to get to Worlds. Petravark number two made the Shade a bit less scary and prevented Meraghni from playing anything expensive for a while, but once Meraghni drew into more lands he was able to drop Soul Scourge and them Childhood Horror. Finkel had no answer for the fliers and suddenly found himself 2-3 and wondering if he could do well at U.S. Nationals.
+![](http://www.wizards.com/sideboard/images/ptnice02/a899.jpg)
+
+Finkel's game 3 draw was not nearly as exciting as the first two – his first creature was a turn 4 Petravark. By then, Meraghni had already hit him for 11 with Nantuko Shade. A sizable crowd was gathering to see if Finkel could battle his way through a Pro Toru champ to get to Worlds. Petravark number two made the Shade a bit less scary and prevented Meraghni from playing anything expensive for a while, but once Meraghni drew into more lands he was able to drop Soul Scourge and them Childhood Horror. Finkel had no answer for the fliers and suddenly found himself 2-3 and wondering if he could do well at U.S. Nationals.
 
 Pro Tour Nice, Second Booster Draft 
 

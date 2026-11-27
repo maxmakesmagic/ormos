@@ -139,7 +139,9 @@ render_recovery:
   - Zombie Infestation
   occurrences: 118
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a773.jpg)These two bad boys were once members of the Magic Colony, and they are both poised to make the Top 8 going into the round. I expect a fast and furious game as both are playing green/red (Szigeti is splashing black), and these two have played each other enough time to alleviate the need for mind games. Banter, however, will be plentiful. Szigeti is a little worried, claiming that his deck isn't very good. (You can read about his draft [here.](/en/events/2002/ptnice02/draft-4)
+![](http://www.wizards.com/sideboard/images/ptnice02/a773.jpg)
+
+These two bad boys were once members of the Magic Colony, and they are both poised to make the Top 8 going into the round. I expect a fast and furious game as both are playing green/red (Szigeti is splashing black), and these two have played each other enough time to alleviate the need for mind games. Banter, however, will be plentiful. Szigeti is a little worried, claiming that his deck isn't very good. (You can read about his draft [here.](/en/events/2002/ptnice02/draft-4)
 
 Szigeti won the roll, and after debating if the position of the playmat was important, chose to play first.
 

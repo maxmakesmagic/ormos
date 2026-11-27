@@ -233,7 +233,9 @@ render_recovery:
   - Naturalize
   occurrences: 364
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a863.jpg)The Top 8 Of Grand Prix Philly sat down to sort out some unopened packs, and grab some cash if they could. Sitting at the table was Pro Jeff Cunningham, for whom this was just another grand prix top 8, sitting on either side of Cunningham were two New Jersey players, both wearing "TOGIT" shirts, and hometown favorites Craig Krempals and Patrick Sullivan. Pittsburg local Nick Eisel, and Virginian Morgan Douglass are opposite each other, Eli Aden, a Knoxville, TN, gamer, Jacob Rabinowitz from Boston and Shawn Doran of Rochester, NY, round out this very young Top 8.
+![](http://www.wizards.com/sideboard/images/gpphi02/a863.jpg)
+
+The Top 8 Of Grand Prix Philly sat down to sort out some unopened packs, and grab some cash if they could. Sitting at the table was Pro Jeff Cunningham, for whom this was just another grand prix top 8, sitting on either side of Cunningham were two New Jersey players, both wearing "TOGIT" shirts, and hometown favorites Craig Krempals and Patrick Sullivan. Pittsburg local Nick Eisel, and Virginian Morgan Douglass are opposite each other, Eli Aden, a Knoxville, TN, gamer, Jacob Rabinowitz from Boston and Shawn Doran of Rochester, NY, round out this very young Top 8.
 
 The draft started out with Cunningham, first seeded after the Swiss electing to sit in seat four. I asked Cunningham before the draft what he would try for and he said "I won't draft anything but green/red or green/black." With that in mind, the first pack was opened. Shaw Doran was put into a difficult position being asked to open first, as he wouldn't really be able to safely declare his colors. The pack was laid out and some good cards were on the table, Sparksmith, Serpentine Basilisk and Anurid Murkdiver were probably the best colored cards in the pack. But Doran had a trump card. Riptide Replicator was the rare, and in one pick, Doran effectively negated the disadvantage of picking first, and since the Basilisk was picked by Sullivan, on pick from Cunningham, Cunningham's main draft strategy was shot.
 
@@ -254,7 +256,9 @@ The second round of packs kicked off in the other direction with Jacob Rabinowit
 
 The drafters settled into archetypes based on their colors and which ever creature type that those colors best support. The Blue white drafters were taking Clerics and Illusions, the black red players were picking up goblins, while the green drafters were taking beasts and the beasts best buddy Wirewood Savage. The red players were just hopping to open up the sets best common, Sparksmith, eventually. Krempals played red for Lavamancer's Skill in his blue white deck, Rabinowitz had multiple Solar Blasts and Skirk Commandos in his solid red green deck, Cunningham ended up with a Sparksmith and a solar blast but chose not to play them in his green black deck, and Morgan Douglas found double Pinpoint avalanche, double Erratic Explosion, and superstar Sparksmith in his tight black red deck. Eisel went bombalicious in the last few packs, slamming down Gigapede and Silvos, Rogue Elemental. Shawn Doran ended up with Triple Pacifism to go along with his Angel and Replicator.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a865.jpg)In the end the deck will shape up as follows...
+![](http://www.wizards.com/sideboard/images/gpphi02/a865.jpg)
+
+In the end the deck will shape up as follows...
 
 Sullivan in Green and White  
  Morgan with a smashing Black and Red deck  

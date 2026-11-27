@@ -311,7 +311,9 @@ Radzom needed a faster attack in Game 2, and he seemed to get it with a Figure o
 
 No, Radzom aimed a Path to Exile at the Swans when the first land was discarded to Seismic Assault. In response PV discarded another land, and Radzom aimed a second Path to Exile. This triggered a third land to be discarded - and Radzom sacrificed his Burrenton Forge Tender in response to prevent al the damage the Seismic Assault would deal this turn, including to PV’s own Swans.
 
-![](https://i.ormos.uk/ad/b7/adb78229df4bb61b4f21c2d6f423873021b595c3d7f363d750271921c16b5b23.jpg)Unfortunately Radzom hadn’t fully understood the rules about damage prevention – his Forge Tender had set up two similar damage prevention shields over the Swans. One of those shields prevented the damage and one prevented the damage but allowed PV to draw cards, and as PV owned the Swans of Bryn Argoll he would get to choose which of those shields he used. Naturally he used the one that allowed him to draw, and in response to the Path to Exiles he drew through his deck. The Brazilian wouldn’t be able to win the game this turn as the Swans would inevitably go away, and all the Seismic Assault damage for the turn would be prevented, but he was able to give himself the perfect set up to win on his next turn.
+![](https://i.ormos.uk/ad/b7/adb78229df4bb61b4f21c2d6f423873021b595c3d7f363d750271921c16b5b23.jpg)
+
+Unfortunately Radzom hadn’t fully understood the rules about damage prevention – his Forge Tender had set up two similar damage prevention shields over the Swans. One of those shields prevented the damage and one prevented the damage but allowed PV to draw cards, and as PV owned the Swans of Bryn Argoll he would get to choose which of those shields he used. Naturally he used the one that allowed him to draw, and in response to the Path to Exiles he drew through his deck. The Brazilian wouldn’t be able to win the game this turn as the Swans would inevitably go away, and all the Seismic Assault damage for the turn would be prevented, but he was able to give himself the perfect set up to win on his next turn.
 
 As Radzom tried to attack, his struggle now looking futile, the Brazilian pro hurled a few lands down from his hand, removing Radzom’s men from the game, then played a Swans again on his next turn, drew through his deck, and hurled another torrent of molten magma death at the German. It briefly looked as though PV would run out of enough land to do the lethal damage, having spent a lot of it the turn earlier in setting himself up, but a Primal Command put the lands back into his deck to go round again, and Radzom offered a handshake.
 
@@ -592,7 +594,9 @@ Boat Brew
 
     *by Tim Willoughby*
 
-![](https://i.ormos.uk/f3/93/f393bcd6ba1ca82b83adf519d778cd2dcdeb1647c644d2ee3be83f51c11c2959.jpg)Head judge Adam Cetnerowski joked it might be possible to give coverage staff warnings after I put Evangelos Papatsarouchas into the feature match area this round, forcing him to make the announcement. I simply asked him how to spell his name. 
+![](https://i.ormos.uk/f3/93/f393bcd6ba1ca82b83adf519d778cd2dcdeb1647c644d2ee3be83f51c11c2959.jpg)
+
+Head judge Adam Cetnerowski joked it might be possible to give coverage staff warnings after I put Evangelos Papatsarouchas into the feature match area this round, forcing him to make the announcement. I simply asked him how to spell his name. 
 
 As it turns out I know Van (as everyone calls him), as though this two time Greek national team member currently resides in Greece, he had lived in England for a number of years, and taught me a thing or two about magical cards. Known for playing his own decks, this time Van has shown up with an interesting 4 colour cascade deck, which has taken him to 9-2 thus far. 
 
@@ -951,7 +955,9 @@ Judge David Lyford-Smith reported from the Legacy event that in round 6 of 8, Re
 
     *by Tim Willoughby*
 
-![](https://i.ormos.uk/ab/4b/ab4bde84d495dd4650659cf3292f17cb32f94d4bfd36c952c519dd652f14c02d.jpg)In the final round before top 8, things look surprisingly clean in terms of who can make top 8. There are effectively 4 matches to decide the final 4 slots that haven’t been locked up. Paired up, Sam Black holds the key to what points make it. He has to win to have a shot. Playing Faeries, he has not taken the traditional route through this tournament, but with a huge amount of experience with Faeries, that hasn’t been a problem. 
+![](https://i.ormos.uk/ab/4b/ab4bde84d495dd4650659cf3292f17cb32f94d4bfd36c952c519dd652f14c02d.jpg)
+
+In the final round before top 8, things look surprisingly clean in terms of who can make top 8. There are effectively 4 matches to decide the final 4 slots that haven’t been locked up. Paired up, Sam Black holds the key to what points make it. He has to win to have a shot. Playing Faeries, he has not taken the traditional route through this tournament, but with a huge amount of experience with Faeries, that hasn’t been a problem. 
 
 His opponent, Frenchman Alexandre Aurejac, has more points going into the match but still needs at least one more, and with black white tokens, the popular choice of the event, he seemed confident. This confidence was shaken a little by a double mulligan on his part. While he had Windbrisk Heights on turn one, there was not any follow up, and a Bitterblossom from Sam soon put the hurt on. 
 

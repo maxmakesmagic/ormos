@@ -60,7 +60,9 @@ archive_source:
   sha256: 82ecc0e1aebebfad2473dbda690637524a5ddb541d9e19d4470ce16fadc7fa1d
 render_recovery: []
 ---
-![](https://i.ormos.uk/ce/2a/ce2a59958f7bad333a46a784ef3e8f4c90a28fb0dc7c830697715246dd421af9.jpg)Apparently, Kai was saving himself for the Masters. After limping through a truly terrible Day 2 that saw him fall far enough to earn a bye, many simply assumed it was Panzer Hunters's weekend. And after the first four games of the series went to the Japanese, it seemed like it was over. Blume was eliminated. Either Ishida or Momose had to win just ONE of their next four games. What followed was an object lesson in not counting Phoenix Foundation out. Budde battled back to take his match. Baberowski evened his match. It all came down to one game. Kai doesn't lose on Sundays. His first Masters finals appearance was no exception. Baberowski deftly ousted Ishida, giving the Foundation the title. Congratulations to Phoenix Foundation, Osaka Masters Champions!
+![](https://i.ormos.uk/ce/2a/ce2a59958f7bad333a46a784ef3e8f4c90a28fb0dc7c830697715246dd421af9.jpg)
+
+Apparently, Kai was saving himself for the Masters. After limping through a truly terrible Day 2 that saw him fall far enough to earn a bye, many simply assumed it was Panzer Hunters's weekend. And after the first four games of the series went to the Japanese, it seemed like it was over. Blume was eliminated. Either Ishida or Momose had to win just ONE of their next four games. What followed was an object lesson in not counting Phoenix Foundation out. Budde battled back to take his match. Baberowski evened his match. It all came down to one game. Kai doesn't lose on Sundays. His first Masters finals appearance was no exception. Baberowski deftly ousted Ishida, giving the Foundation the title. Congratulations to Phoenix Foundation, Osaka Masters Champions!
 
   
   

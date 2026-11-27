@@ -68,19 +68,25 @@ render_recovery:
   - Mutilate
   occurrences: 14
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a783.jpg)Usually, at a major event like U.S. Nationals, there's an opportunity for spectators to get up close and personal with some of Magic's big names. There's usually a Deck Doctor on-hand to give out free advice (this time around it's the eminent Dave Price), but also players will get to try their hand in constructed against the masters in a spot of Gunslinging. 
+![](http://www.wizards.com/sideboard/images/natus03/a783.jpg)
+
+Usually, at a major event like U.S. Nationals, there's an opportunity for spectators to get up close and personal with some of Magic's big names. There's usually a Deck Doctor on-hand to give out free advice (this time around it's the eminent Dave Price), but also players will get to try their hand in constructed against the masters in a spot of Gunslinging. 
 
 This Nationals was no different, but one bout of Gunslinging wasn't quite what you'd expect. Peter "PTR" Szigeti and William "Huey" Jensen put their two brains together and decided to let players throw down in a Two-Headed Giant spectacular, helping to garner interest in a Two-Headed Giant tournament tomorrow. Szigeti ran Zombies, and Jensen ran Wake. However, they weren't exactly stock versions.
 
 "We spiced things up a bit." – Peter Szigeti
 
-![](http://www.wizards.com/sideboard/images/natus03/a775.jpg)He flashed a Hypnox and Phage the Untouchable. Jensen also had some wreck-nology available to him, a Tribal Unity from the board that could crack down naming "Zombies" and perforate unsuspecting opposition. As soon as the announcement was made, a crowd began to form. No-one wanted to be the first to face these two Goliaths, though. Eventually two brave souls stepped forward, and the game was afoot.
+![](http://www.wizards.com/sideboard/images/natus03/a775.jpg)
+
+He flashed a Hypnox and Phage the Untouchable. Jensen also had some wreck-nology available to him, a Tribal Unity from the board that could crack down naming "Zombies" and perforate unsuspecting opposition. As soon as the announcement was made, a crowd began to form. No-one wanted to be the first to face these two Goliaths, though. Eventually two brave souls stepped forward, and the game was afoot.
 
 The mighty twosome did not start things out auspiciously. Both Jensen and Szigeti mulliganed to six, while their opponents, playing Wake and Red-Green, suffered no difficulty. The game went long, but the opposing Wake player was too stocked with countermagic. He was able to set up, and Szigeti and Jensen quickly fell to 0-1.
 
 After moving to a more open area, their luck turned around. Szigeti had a quick zombie army before their opponents could get their wits about them. In another, Jensen protected an early Visara. In the fourth, Szigeti got down Phage and then Jensen looped through three Unsummons with his non-infinite Cunning Wish – Early Harvest – Mirari combo to pave the way for the lethal strike.
 
-![](http://www.wizards.com/sideboard/images/natus03/a776.jpg)The real payoff came in their final match against a pair of Elf decks. After decimating their opponents forces, Szigeti had Jensen Early Harvest him and Mirari it, netting him enough mana to Mutilate and then drop the Hypnox, strangling the only cards the opposing team held. A turn later, Jensen went off, generating twenty mana for a huge forked Tribal Unity, naming Horror. The monstrous Hypnox flew over for a spectacular win.
+![](http://www.wizards.com/sideboard/images/natus03/a776.jpg)
+
+The real payoff came in their final match against a pair of Elf decks. After decimating their opponents forces, Szigeti had Jensen Early Harvest him and Mirari it, netting him enough mana to Mutilate and then drop the Hypnox, strangling the only cards the opposing team held. A turn later, Jensen went off, generating twenty mana for a huge forked Tribal Unity, naming Horror. The monstrous Hypnox flew over for a spectacular win.
 
 Both Jensen and Szigeti are excited to do it all again tomorrow.
 

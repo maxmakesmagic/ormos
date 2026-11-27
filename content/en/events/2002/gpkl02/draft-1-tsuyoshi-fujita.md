@@ -121,7 +121,9 @@ render_recovery:
   - Barbarian Outcast
   occurrences: 91
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a971.jpg)On or off the dance floor, there's no stopping Tsuyoshi "Mr. Rolly" Fujita. The celebrated Invitationalist first rose to the public eye as the Finalist at Pro Tour - Tokyo, the first Japanese player to make a Pro Tour Top 8. In the months that followed, he was dogged by a string of poor finishes, dismissed as a one-hit wonder. He's since pulled himself back together, evidenced by his fourteenth place finish at Pro Tour - Osaka. He hopes his good fortune will continue this weekend.
+![](http://www.wizards.com/sideboard/images/gpkl02/a971.jpg)
+
+On or off the dance floor, there's no stopping Tsuyoshi "Mr. Rolly" Fujita. The celebrated Invitationalist first rose to the public eye as the Finalist at Pro Tour - Tokyo, the first Japanese player to make a Pro Tour Top 8. In the months that followed, he was dogged by a string of poor finishes, dismissed as a one-hit wonder. He's since pulled himself back together, evidenced by his fourteenth place finish at Pro Tour - Osaka. He hopes his good fortune will continue this weekend.
 
 Fujita was less than wowed by the contents of his first pack. He saw Flame Burst, Skeletal Scrying and Second Thoughts. He looked briefly at Cartographer and Psionic Gift, but couldn't resist the pull of Second Thoughts.
 
@@ -135,7 +137,9 @@ Things looked up a bit in pack two. Fujita started with Nantuko Disciple over Ce
 
 Fanning out the next pack he sighed audibly. There were no green cards. The only blue card was Psionic Gift. He looked at Millikin, but chose Aven Flock instead. Assuming the worst, he was pleasantly surprised when he was shipped Cephalid Broker. He had to double-check to make sure it was the real deal.
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a972.jpg)Knowing his curve was high, Fujita nonetheless took Scrivener over Cephalid Scout. The packs began to fail him. He took Aven Archer, and then Careful Study. Another Scrivener mocked his earlier choice. He could only shake his head as he wrapped things up with Shelter and Mirari. He needed a miracle.
+![](http://www.wizards.com/sideboard/images/gpkl02/a972.jpg)
+
+Knowing his curve was high, Fujita nonetheless took Scrivener over Cephalid Scout. The packs began to fail him. He took Aven Archer, and then Careful Study. Another Scrivener mocked his earlier choice. He could only shake his head as he wrapped things up with Shelter and Mirari. He needed a miracle.
 
 Torment was not kind. Fujita started out with Ghostly Wings over Balshan Collaborator, then Stupefying Touch over Acorn Harvest. Deep Analysis got a smile out of him, and Breakthrough as well, but it was looking like Fujita just wouldn't have a way to win. He let a Compulsion go by in favor of Far Wanderings, presumably a nod to the three-color necessity he faced. A few green bodies showed up, but too many of them were Krosan Restorers.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Early Nguyen* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/895.jpg)Being Ryan's first Invitational and everyone's first Duplicate Limited, the format had everyone excited and in a buzz. All the cards are printed proxies so it took more time than usual to get reacquainted with the cards. In addition cards have modified casting cost. Three of the cards Ryan noted were: 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/895.jpg)
+
+Being Ryan's first Invitational and everyone's first Duplicate Limited, the format had everyone excited and in a buzz. All the cards are printed proxies so it took more time than usual to get reacquainted with the cards. In addition cards have modified casting cost. Three of the cards Ryan noted were: 
 
 *   Swords to Plowshares, 5 mana
 *   Bone Shredder, 6 mana

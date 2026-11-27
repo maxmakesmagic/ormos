@@ -223,7 +223,9 @@ render_recovery:
 ---
 ### Gabriel Nassif vs. Bernardo de Costa Cabral
 
-![](http://www.wizards.com/sideboard/images/ptkob04/r11fm3_1.jpg)Both competitors have respectable records, sitting at 7-3, and both are playing a respectable deck, TwelvePost. I haven't yet seen how the mirror match plays out, but I imagine it revolves around Duplicants imprinting indestructible monsters, Oblivion Stones blowing up the world, and Mindslavers making players throw the game away against their will.
+![](http://www.wizards.com/sideboard/images/ptkob04/r11fm3_1.jpg)
+
+Both competitors have respectable records, sitting at 7-3, and both are playing a respectable deck, TwelvePost. I haven't yet seen how the mirror match plays out, but I imagine it revolves around Duplicants imprinting indestructible monsters, Oblivion Stones blowing up the world, and Mindslavers making players throw the game away against their will.
 
 ### Game 1
 

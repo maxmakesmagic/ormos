@@ -88,7 +88,9 @@ As I looked again at the art on Boros cards, and as I read the flavor text and b
 
 ### Fists Like Hammers Fill The Air
 
-![](https://i.ormos.uk/82/d0/82d0886512c1c38f6fa0ff142efa85e7b5d7d7eeef7ff7b2be48bd6684895e01.jpg)The Boros Legion is a guild in name and civic function. But in reality it is a righteous army. It is unified, like the fingers of a fist. It burns with passion, like the blazing sun. Its signet embodies its essence, and all who see it on shield and standard know what power marches before them. It is the red's explosive fire focused by White's righteous aim. It is White's holy steel wielded by Red's raging hand. Whichever way you look at it, this fist packs a mean punch.
+![](https://i.ormos.uk/82/d0/82d0886512c1c38f6fa0ff142efa85e7b5d7d7eeef7ff7b2be48bd6684895e01.jpg)
+
+The Boros Legion is a guild in name and civic function. But in reality it is a righteous army. It is unified, like the fingers of a fist. It burns with passion, like the blazing sun. Its signet embodies its essence, and all who see it on shield and standard know what power marches before them. It is the red's explosive fire focused by White's righteous aim. It is White's holy steel wielded by Red's raging hand. Whichever way you look at it, this fist packs a mean punch.
 
 ### Hold True, Ye Sacred Army
 
@@ -162,7 +164,9 @@ Let's take a look at the Boros chain of command, starting at the top and working
 
 <table><tbody><tr><td><img src="https://i.ormos.uk/7e/90/7e90edddada9fb034162c75f5d0730be2dc56e5cd54c1c60037cd68ab8c66491.jpg"></td><td><p>The lowest ranks of the Legion are collectively referred to as “The Grunts.” The Grunts outnumber the rest of the legion's ranks put together. What they lack in might and skill they make up for in heart and numbers. These are the expendable, the freshly recruited, and the few beasts that the Legion trains. Grunts do not have the wisdom or skill to handle any magical ordnance.</p><p>Boros Swiftblade</p><p>Boros Recruit</p><p>Screeching Griffin<br> (The roc mounts that are ridden by Skyknights are not considered separate from their riders. The rocs hatchlings and those without riders are considered Grunts.)</p></td></tr></tbody></table>
 
-![](https://i.ormos.uk/46/01/4601008c36460ed4214044398efce0cc18c8b61b9499286bc05347956dbe0e46.jpg)The Boros are a matter-of-fact bunch. They do not use many words that you would hear at a competitive spelling bee. But, there are some names that I can clear up for you, starting with the big picture:
+![](https://i.ormos.uk/46/01/4601008c36460ed4214044398efce0cc18c8b61b9499286bc05347956dbe0e46.jpg)
+
+The Boros are a matter-of-fact bunch. They do not use many words that you would hear at a competitive spelling bee. But, there are some names that I can clear up for you, starting with the big picture:
 
 **Boros**\- BOHR•ose “Bor,” as in wild boar, and “os” as in cosmos. Pretty simple stuff. You might have noticed that Magic has a new artist whose name is that very same word, Boros. No, they did not name the guild after the artist, though he does hail from the same Eastern European area that inspires many of Ravnica's names.
 
@@ -232,4 +236,6 @@ Before I leave you all to continue your day shaking your fists and crying “War
 
 This Is A Sketch Of A *Guildpact* Card
 
-![](https://i.ormos.uk/ed/61/ed61268b42f62c6a9287a639c0f20a7e27aca0c671ae93278872ee293f1fbfc4.jpg)Um…it is not. In my post-turkey tryptophan funk I got my Magic sets confused. Anyway, this is Magic art, but is definitely NOT in *Guildpact*. I apologize for my bone-headed blunder. I doubly apologize to all of those who spent any time trying to justify this beast as Gruul or Izzet or Orzhov. While you may think you have wasted your time and energy, I will have you know that she, the lovely lady to the left, has truly enjoyed the attention. Anyways…let's hope I did not create any other dingbat falsehoods in this article. I don't think the Boros will go lightly on me if I did. I'll be busted down to grunt, no doubt about it.
+![](https://i.ormos.uk/ed/61/ed61268b42f62c6a9287a639c0f20a7e27aca0c671ae93278872ee293f1fbfc4.jpg)
+
+Um…it is not. In my post-turkey tryptophan funk I got my Magic sets confused. Anyway, this is Magic art, but is definitely NOT in *Guildpact*. I apologize for my bone-headed blunder. I doubly apologize to all of those who spent any time trying to justify this beast as Gruul or Izzet or Orzhov. While you may think you have wasted your time and energy, I will have you know that she, the lovely lady to the left, has truly enjoyed the attention. Anyways…let's hope I did not create any other dingbat falsehoods in this article. I don't think the Boros will go lightly on me if I did. I'll be busted down to grunt, no doubt about it.

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Mark Wraith* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/926.jpg)Both of these teams have well known players on them, with Just for Men including Chris Pikula, the current **Magic** Invitational Champion. His teammates are less well known; Alex Balandin and Ben Murray. Chris says that they are talented players who just don't get the time to test and play so much. Team Juggernaut consists of three top German players; Kai Budde, Dirk Barberowski, and Andre Konstanczer. All of these players have had success at the highest level with Dirk and Kai previous pro-tour winners, and Andre has played in previous Pro Tour top eights. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/926.jpg)
+
+Both of these teams have well known players on them, with Just for Men including Chris Pikula, the current **Magic** Invitational Champion. His teammates are less well known; Alex Balandin and Ben Murray. Chris says that they are talented players who just don't get the time to test and play so much. Team Juggernaut consists of three top German players; Kai Budde, Dirk Barberowski, and Andre Konstanczer. All of these players have had success at the highest level with Dirk and Kai previous pro-tour winners, and Andre has played in previous Pro Tour top eights. 
 
 The Germans were less than happy with their sealed decks, lacking really powerful cards. Dirk's deck in particular is one they were less than satisfied with, and Kai has the strongest of the three decks. Just for Men thought that their decks were average, Chris Pikula has a few breakers with a Latulla, Keldon Overseer, and a Troubled Healer. He also has a very strong rebel chain. Ben Murray's deck is Red/Blue with a good selection of creatures, and Chris Balandin is playing black and green. 
 

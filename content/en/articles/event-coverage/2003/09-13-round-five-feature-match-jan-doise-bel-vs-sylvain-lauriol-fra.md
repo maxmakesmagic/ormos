@@ -48,7 +48,9 @@ Two former National Champions who speak the same language. Thankfully I do under
 
 ### Game One
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpgen03/a981.jpg)Sylvain Had to send his first hand back. Still he was the first turn move with a second turn Piledriver. Doise played a first turn Island and went into "Vas-Y" ("Go") mode. He cycled Eternal Dragon for the second Plains to drop Sliver Knight and decided to sit behind it.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpgen03/a981.jpg)
+
+Sylvain Had to send his first hand back. Still he was the first turn move with a second turn Piledriver. Doise played a first turn Island and went into "Vas-Y" ("Go") mode. He cycled Eternal Dragon for the second Plains to drop Sliver Knight and decided to sit behind it.
 
 Across the table Lauriol dropped Incinerator and showed his true colors, fetching a Swamp and Smothering the blocker out of the way. Doise returned the favor with Wing Shards getting the Piledriver.
 
@@ -64,7 +66,9 @@ Sylvain 1-0 Jan.
 
 ### Game Two
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpgen03/a983.jpg)Sylvain's first turn Sledder quickly went to work on the Red Zone but his second creature was the real danger: Interrogator. Doise tried to fight back with a morphed Angel but as any good played Lauriol had the timely Smother.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpgen03/a983.jpg)
+
+Sylvain's first turn Sledder quickly went to work on the Red Zone but his second creature was the real danger: Interrogator. Doise tried to fight back with a morphed Angel but as any good played Lauriol had the timely Smother.
 
 Eager to stop the bleeding Jan Doise tapped four mana and played Windborn Muse. Almost locked out of the Red Zone Lauriol let his Interrogator do the talking, costing Doise two Akroma's Vengeance.
 

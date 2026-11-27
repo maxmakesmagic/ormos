@@ -90,7 +90,9 @@ Two, if you have no creatures when this resolves, but your opponent does, you wi
 
 ### Shocked and Aura-fied
 
-![Gerrards_Wisdom](https://i.ormos.uk/65/1c/651cdaf7dc502ae4222ecf0ad50981fcd8844370b0651d89453a9a38b5b45df7.jpg)Conventional wisdom suggests that playing with a lot of enchant creature Auras is a bad thing. By doing so, you run the risk of trading two of your cards (your creature and the Aura enchanting it) for a single removal spell from your opponent. Worse, if you can't keep a creature on the board, you run the risk of having more dead cards than the baseball hall of fame. Well, as I hope I've proved over the last year, you can have a lot of fun building and playing decks that are neither conventional nor, I guess, wise.
+![Gerrards_Wisdom](https://i.ormos.uk/65/1c/651cdaf7dc502ae4222ecf0ad50981fcd8844370b0651d89453a9a38b5b45df7.jpg)
+
+Conventional wisdom suggests that playing with a lot of enchant creature Auras is a bad thing. By doing so, you run the risk of trading two of your cards (your creature and the Aura enchanting it) for a single removal spell from your opponent. Worse, if you can't keep a creature on the board, you run the risk of having more dead cards than the baseball hall of fame. Well, as I hope I've proved over the last year, you can have a lot of fun building and playing decks that are neither conventional nor, I guess, wise.
 
 How can we build and/or play a Retether deck? Here's what I've been thinking: 
 

@@ -403,7 +403,9 @@ Stuart Wright wins 2-0!
 
 *by Tim Willoughby*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gbnat08/If-you-are-greedy-join-the-Q.jpg)Ever since the bizarrely named Quick 'n' Toast showed the way in terms of complicated mana bases using *Lorwyn* and *Shadowmoor*, we have seen decks that push things further and further in terms of mana. The latest iteration of this is Quentin Martin's 'Q and Toast', which he excitedly showed me while writing out his decklist prior to round one.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gbnat08/If-you-are-greedy-join-the-Q.jpg)
+
+Ever since the bizarrely named Quick 'n' Toast showed the way in terms of complicated mana bases using *Lorwyn* and *Shadowmoor*, we have seen decks that push things further and further in terms of mana. The latest iteration of this is Quentin Martin's 'Q and Toast', which he excitedly showed me while writing out his decklist prior to round one.
 
 On the face of things, there are elements of the five colour control that we know and love... the wacky manabase where casting [Cryptic Command](https://web.archive.org/web/20080817000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptic+Command) doesn't mean that you are remotely needing to be mono-blue. In fact though, there is quite a lot going on in here. Check it out
 
@@ -567,7 +569,9 @@ A suitably mad ending to a truly crazy event.
 
 *by Tim Willoughby*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gbnat08/Just-one-Moore.jpg)Richard Moore, previous National Champion came into the constructed stage today with 2 extra lives in effect, due to being just X-1. This standard portion has not gone well for him. Paired against Laura Dawes, he crossed his fingers as he rolled the die. The roll went in his favour, and he even had a keeper.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gbnat08/Just-one-Moore.jpg)
+
+Richard Moore, previous National Champion came into the constructed stage today with 2 extra lives in effect, due to being just X-1. This standard portion has not gone well for him. Paired against Laura Dawes, he crossed his fingers as he rolled the die. The roll went in his favour, and he even had a keeper.
 
 Laura looked at hers and just started laughing. She quickly went for a mulligan, and winced a little as she saw a [Vivid Creek](https://web.archive.org/web/20080817000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vivid+Creek) and [Lotus Bloom](https://web.archive.org/web/20080817000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lotus+Bloom) on turn one from Moore. There was a [Vivid Creek](https://web.archive.org/web/20080817000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vivid+Creek) from Dawes, who resolved the first spell of the game just a turn later with a [Prismatic Lens](https://web.archive.org/web/20080817000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prismatic+Lens).
 
@@ -585,7 +589,9 @@ When Laura played an [Epochrasite](https://web.archive.org/web/20080817000000/ht
 
 Richard Moore 0 - 1 Laura Dawes
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gbnat08/Laura-Dawes.jpg)At this point, Laura wasn't quite sure what Rich's deck was doing. This was some small consolation to Moore, who was a little flustered by not really drawing anything at all in the first game. His Swans combo had barely shown up in Game 1 against the Blink Riders Redux deck run by Dawes.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gbnat08/Laura-Dawes.jpg)
+
+At this point, Laura wasn't quite sure what Rich's deck was doing. This was some small consolation to Moore, who was a little flustered by not really drawing anything at all in the first game. His Swans combo had barely shown up in Game 1 against the Blink Riders Redux deck run by Dawes.
 
 Moore had a turn two [Telling Time](https://web.archive.org/web/20080817000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Telling+Time), but was taking the early beats - this time from [Burrenton Forge-Tender](https://web.archive.org/web/20080817000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Burrenton+Forge-Tender). On turn 3, he cast [Beseech the Queen](https://web.archive.org/web/20080817000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beseech+the+Queen), fetching a [Ponder](https://web.archive.org/web/20080817000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ponder), as he'd screwed up and forgotten quite how the Beseech worked.
 

@@ -85,7 +85,9 @@ archive_source:
   sha256: 0558f6d565707bd5b71e96bd085f62182248675b38f2bd00b5c9fcfc7a1a0c6c
 render_recovery: []
 ---
-![RDs_Secret_Lair](https://i.ormos.uk/b4/6b/b46b1e40a5cdbf4203dcd9f8b1f2566c908ea10347455e19660078cf414231d5.jpg)Ininterviews and in this very column I have given some clues about what *Lorwyn* has in store. My biggest and most cryptic clue is that *Lorwyn* is going to break a rule we've never broken before in the fourteen years we've been making **Magic**. A big rule. Something that will make this block unlike any other.
+![RDs_Secret_Lair](https://i.ormos.uk/b4/6b/b46b1e40a5cdbf4203dcd9f8b1f2566c908ea10347455e19660078cf414231d5.jpg)
+
+Ininterviews and in this very column I have given some clues about what *Lorwyn* has in store. My biggest and most cryptic clue is that *Lorwyn* is going to break a rule we've never broken before in the fourteen years we've been making **Magic**. A big rule. Something that will make this block unlike any other.
 
 How big? So big that later this month we have to tell our distributors because it's going to affect how they order the next year's worth of sets. What does us telling our distributors have to do with anything? Well, once the news goes out to our distributors, we know that the cat will be out of the proverbial bag. So we decided to tell all of you before we tell our distributors (okay, maybe one or two of them read my column). That's what I'll be doing today: spilling *Lorwyn* block's biggest secret. I'm guessing most of you didn't expect that when you turned in.
 
@@ -107,7 +109,9 @@ Two.
 
 That's one I was hoping you didn't see coming. This, of course, is the big twist. Next "year" (I'm talking in **Magic** years) there will be two mini-blocks each consisting of one large set and one small set (exact sizes will be announced later). The large sets will act like large sets (they'll both have tournament packs for example) and the small sets will act like small sets. Each block will have its own theme, its own mechanics, and its own Creative. So next year is comprised of two unconnected blocks? I wouldn't say unconnected.
 
-[![Foresee](https://i.ormos.uk/d7/9d/d79d53282972ba4d345793c808496d90f1146a68e641453d12a71a4c4f5bd1ed.jpg)](https://web.archive.org/web/20070716000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Foresee)To explain this let me take you on a little tangent on how this block came together in the first place. A few years back we decided that we wanted to put out four sets a year. The core sets have been coming out biannually for quite a while so we were essentially already doing four sets a year half the time. To fill in the "off" years, we started doing one-of projects like *Unhinged* or *Coldsnap*. I mentioned to Randy and Bill (at the time Randy was the Director of **Magic**, the title Aaron Forsythe now holds, and Bill was and still is VP of R&D) that I felt we could design a four-set year where all four sets were part of a single organic whole. Bill and Randy basically said, "Sounds good. Get on that."
+[![Foresee](https://i.ormos.uk/d7/9d/d79d53282972ba4d345793c808496d90f1146a68e641453d12a71a4c4f5bd1ed.jpg)](https://web.archive.org/web/20070716000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Foresee)
+
+To explain this let me take you on a little tangent on how this block came together in the first place. A few years back we decided that we wanted to put out four sets a year. The core sets have been coming out biannually for quite a while so we were essentially already doing four sets a year half the time. To fill in the "off" years, we started doing one-of projects like *Unhinged* or *Coldsnap*. I mentioned to Randy and Bill (at the time Randy was the Director of **Magic**, the title Aaron Forsythe now holds, and Bill was and still is VP of R&D) that I felt we could design a four-set year where all four sets were part of a single organic whole. Bill and Randy basically said, "Sounds good. Get on that."
 
 I began my brainstorming assuming that it would be a four-set block, but the more I looked into it the more I realized the uphill battle I was fighting. Traditionally, with a few exceptions, we've struggled to stretch blocks out to three sets. Getting to four seemed next to impossible. So I asked myself if there was a way to have a four-set block that wasn't four sets. This might sound like a crazy question, but it forced me to approach the problem from a different vantage point. I realized that there was a way. Instead of one four-set block, we could have two two-set blocks.
 
@@ -123,7 +127,9 @@ As both *Ravnica* and *Time Spiral* blocks demonstrated I have no qualms with th
 
 ### Codename that Tune
 
-![Lorwyn](https://i.ormos.uk/a3/82/a3820a27822a362c5e79fc963e14b7faae33538b4b95da35f073a35712c14fcd.jpg)As a tangent to my tangent, I wanted to quickly share a little story. So, long before we knew what we were doing, the *Lorwyn* block had been codenamed "Peanut," "Butter," and "Jelly." I even outed the codenames in a column ([Today and Tomorrow](/en/articles/makingmagic/2005/05-02-today-and-tomorrow)), making them public knowledge. When I realized that the block was going to have four sets in it (this was before I came up with the two mini-block plan) I was under the gun to come up with a codename for the fourth set. My clever solution was to call the set "Sandwich."
+![Lorwyn](https://i.ormos.uk/a3/82/a3820a27822a362c5e79fc963e14b7faae33538b4b95da35f073a35712c14fcd.jpg)
+
+As a tangent to my tangent, I wanted to quickly share a little story. So, long before we knew what we were doing, the *Lorwyn* block had been codenamed "Peanut," "Butter," and "Jelly." I even outed the codenames in a column ([Today and Tomorrow](/en/articles/makingmagic/2005/05-02-today-and-tomorrow)), making them public knowledge. When I realized that the block was going to have four sets in it (this was before I came up with the two mini-block plan) I was under the gun to come up with a codename for the fourth set. My clever solution was to call the set "Sandwich."
 
 And so we did. For a while anyway. But as the idea of doing two mini-blocks came about, the **Magic** Brand team suggested that perhaps the "Sandwich" codename was inappropriate, as it implied a four-set block when in fact it was two two-set blocks. I didn't personally think it mattered, but Brand seemed to care. They suggested we change "Jelly" and "Sandwich" to two other codenames, most likely two things that went together. Here I had a problem. For starters we'd already told the world that the third set in the block was named "Jelly." Yes, R&D had called the fourth one "Sandwich," but we had never publicly told anyone that. Plus, the two mini-block idea was a big secret. Codenames often get out. The last thing we wanted was for the codenames to give away the secret of the block.
 
@@ -143,7 +149,9 @@ If you want to try out *Lorwyn* / *Morningtide* / "Jelly" or *Lorwyn* / *Morning
 
 **So how exactly is Constructed going to work?**
 
-[![Shared_Fate](https://i.ormos.uk/ab/df/abdfc982f0936bd5c4c06c3f595088f777c45f9408e7702f857e8c9d59c3bcec.jpg)](https://web.archive.org/web/20070716000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Shared%2BFate)This is where things get a little strange. For purposes of Constructed you want to think of the two mini-blocks as one über-block. This means that, one, the *Lorwyn* mini-block and the "Jelly" mini-block will rotate out of formats at the same time. *Time Spiral*, for instance, will rotate out of Standard when "Rock" (the block after *Lorwyn* and "Jelly" is codenamed "Rock" / "Paper" / "Scissors") rotates in, not when "Jelly" rotates in. And two, *Lorwyn*, *Morningtide*, "Jelly" and "Doughnut" will all be together in the same Block Constructed format.
+[![Shared_Fate](https://i.ormos.uk/ab/df/abdfc982f0936bd5c4c06c3f595088f777c45f9408e7702f857e8c9d59c3bcec.jpg)](https://web.archive.org/web/20070716000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Shared%2BFate)
+
+This is where things get a little strange. For purposes of Constructed you want to think of the two mini-blocks as one über-block. This means that, one, the *Lorwyn* mini-block and the "Jelly" mini-block will rotate out of formats at the same time. *Time Spiral*, for instance, will rotate out of Standard when "Rock" (the block after *Lorwyn* and "Jelly" is codenamed "Rock" / "Paper" / "Scissors") rotates in, not when "Jelly" rotates in. And two, *Lorwyn*, *Morningtide*, "Jelly" and "Doughnut" will all be together in the same Block Constructed format.
 
 **When will the four sets come out?**
 

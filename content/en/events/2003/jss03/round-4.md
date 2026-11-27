@@ -83,7 +83,9 @@ render_recovery:
 ---
 Matt qualified for this event in Vancouver, WA through the JSS Challenge Series. He's been playing this game for three years. He's playing Blue-Green Madness in this event today.
 
-![](http://www.wizards.com/sideboard/images/natus03/a810.jpg)Brandon qualified through a JSS Qualifier he won in Mobile, AL. He's been playing for about a year and half, having started playing during the *Odyssey* block. Brandon is playing the Squirrel-Opposition deck that was popular a while back. 
+![](http://www.wizards.com/sideboard/images/natus03/a810.jpg)
+
+Brandon qualified through a JSS Qualifier he won in Mobile, AL. He's been playing for about a year and half, having started playing during the *Odyssey* block. Brandon is playing the Squirrel-Opposition deck that was popular a while back. 
 
 "I've got sponsors," Brandon mentioned during the pregame shuffling. He's wearing a really cool Ben & Jerry's hat that he picked up at the Plaza. "Write cool things about my style." Matt was a little more reserved during the shuffling, mostly silent while Brandon compared himself to Brian Kibler. "I want to be known as the mouth that rocked the pro tour as well," he mentioned during the shuffling. 
 
@@ -97,7 +99,9 @@ Stuck for too long with only four mana, and unable to resolve his Opposition, Br
 
 Matt decided to bring in three copies of Stupefying Touch, two Gigapede and two copies of Naturalize. The two copies of Naturalize are the only enchantment removal he can bring to bear in this match, and they could be key. The seven cards replaced were two Phantom Centaurs, Basking Rootwalla, Arrogant Wurm, Aquamoeba, Unsummon and Upheaval.
 
-![](http://www.wizards.com/sideboard/images/natus03/a811.jpg)Brandon decided to remove a Merfolk Looter, two copies of Squirrel Nest, a Deep Analysis and one of his Opposition. He replaced them with three copies of Engineered Plague and two copies of Krosan Reclamation. 
+![](http://www.wizards.com/sideboard/images/natus03/a811.jpg)
+
+Brandon decided to remove a Merfolk Looter, two copies of Squirrel Nest, a Deep Analysis and one of his Opposition. He replaced them with three copies of Engineered Plague and two copies of Krosan Reclamation. 
 
 As the players shuffled up Zvi Mowshowitz and Brian Hegstad sit down at the Nationals Feature Match table. Brandon and Matt looked over, a little bit of hero worship in their faces, until Brandon asked, "Which one is Zvi?"
 
@@ -110,7 +114,9 @@ Brandon only had one land on the table after three turns, but he had used that o
 
 Matt swung with his Mongrel, still complete with activated abilities, and it ran headlong into a Squirrel token. The Squirrel Nest sat on the one land that Brandon had played, and it appears to have decided that its mission in life is the production of chump blockers. It produced chump blocker after chump blocker, keeping the Mongrel on Matt's side of the table firmly away from the head of Brandon.
 
-![](http://www.wizards.com/sideboard/images/natus03/a809.jpg)The Mongrel made a swinging motion into the Red Zone from Matt's side again. He was joined though by an Arrogant Wurm that had been madnessed onto the table. The Mongrel and Wurm received further company in the form of another green hound. Brandon had fallen silent. The mouth had slowed down as the game got out of control. Still unable to find a second land, and forced to start blocking with his mana producing Birds and Elves, Brandon was left with few options.
+![](http://www.wizards.com/sideboard/images/natus03/a809.jpg)
+
+The Mongrel made a swinging motion into the Red Zone from Matt's side again. He was joined though by an Arrogant Wurm that had been madnessed onto the table. The Mongrel and Wurm received further company in the form of another green hound. Brandon had fallen silent. The mouth had slowed down as the game got out of control. Still unable to find a second land, and forced to start blocking with his mana producing Birds and Elves, Brandon was left with few options.
 
 Then, a change occurred. A large yellow rubber duck hit the table on Brandon's side. As he placed the duck on the table he joked about it being, as he called it, "tech." The rubber ducky made an amazing 6/6 Wurm token, but it didn't matter in this case. With an Arrogant Wurm and two Mongrels on the table Matt was still in control. Brandon had tapped out both of his mana producers and both of his lands to get that Wurm into play and now could only block one of the attacking creatures. Matt swung with all of his men and then sacrificed the Centaur Garden, forcing enough damage through to end the match.
 

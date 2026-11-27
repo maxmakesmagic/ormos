@@ -607,7 +607,9 @@ Jeroen Remie
   
  
 
-![](https://i.ormos.uk/16/6a/166ae031f7cc5fbc69a6676aec1ecc8edae369a44d99acb632aefad994346d29.jpg)Jeroen is one of the most decorated Malka players in recent years; he did not disappoint in Columbus, playing straight B/G once again to a money finish.
+![](https://i.ormos.uk/16/6a/166ae031f7cc5fbc69a6676aec1ecc8edae369a44d99acb632aefad994346d29.jpg)
+
+Jeroen is one of the most decorated Malka players in recent years; he did not disappoint in Columbus, playing straight B/G once again to a money finish.
 
 Even though his deck is straight B/G, Remie's deck is a far cry from what we would expect from a classic Rock. His deck brings back Spiritmonger -- albeit only two copies -- as the big finisher, but adds a ton of beats along the way.
 
@@ -636,7 +638,9 @@ Gabriel Nassif – The Rock
   
  
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/worlds04/trophy4.jpg)This is the example that breaks the rule. If The Rock is meant to be the noblest deck in Extended, steer any judges away from Nassif's version... it's full of broken cards! Intuition seems a natural addition to the deck, setting up Genesis, Recurring Nightmare, and other threats. Again, we see Nassif playing Cranial Extraction, setting that card up with Vampiric Tutor. Though he doesn't start Duress, Cabal Therapy is better in Nassif's deck than in either of the previous versions because of his Walls.
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/worlds04/trophy4.jpg)
+
+This is the example that breaks the rule. If The Rock is meant to be the noblest deck in Extended, steer any judges away from Nassif's version... it's full of broken cards! Intuition seems a natural addition to the deck, setting up Genesis, Recurring Nightmare, and other threats. Again, we see Nassif playing Cranial Extraction, setting that card up with Vampiric Tutor. Though he doesn't start Duress, Cabal Therapy is better in Nassif's deck than in either of the previous versions because of his Walls.
 
 One mistake too many of The Rock's adherents made in Columbus was to underrate Affinity. They assumed that with four Pernicious Deeds and a couple of Vampiric Tutors, they would have the Affinity matchup in the bag. Nassif is arguably worse against an Affinity deck because he only plays two Deeds... but his sideboard finishes off the set with Oxidize and, more importantly, Energy Flux. With Vampiric Tutor setting up Energy Flux and ready access to his Island, Nassif's version seems the best to me at fighting Canali's deck over the course of three games.
 

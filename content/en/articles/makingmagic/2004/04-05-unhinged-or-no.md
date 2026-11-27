@@ -150,7 +150,9 @@ The humor, key to the set, does not translate well to other languages.
 
 ### Will *Unhinged* be released on *Magic Online*?
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr118_picMain_en.jpg)No. Let's just say many of the mechanics will not work in an online game. ("I'm attacking. Are you wearing denim?")
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr118_picMain_en.jpg)
+
+No. Let's just say many of the mechanics will not work in an online game. ("I'm attacking. Are you wearing denim?")
 
 ### Who were the design and development teams for *Unhinged*?
 
@@ -198,7 +200,9 @@ We salvaged the best art and mechanics, but *Unhinged* is around eighty percent 
 
 ### How did you decide to announce it on April Fools Day?
 
-![](https://i.ormos.uk/27/c1/27c1df110ef9dc49bf3162212f85da41ac67349ec113c999d08ed1a85acf8f6d.jpg)When we were planning to announce *Unglued*, I mentioned that the perfect time would be on April 1st. Unfortunately, *Unglued’s* existence wasn’t announced in the spring. So, I kept the idea in my back pocket. During March 0f 2003 we were in serious discussion about doing *Unhinged*. I kept pushing for us to make up our mind so we could announce it on April 1st. I was told though that even if we made up our mind in time, it was way, way too early to tell anyone about it. That left April of 2004.
+![](https://i.ormos.uk/27/c1/27c1df110ef9dc49bf3162212f85da41ac67349ec113c999d08ed1a85acf8f6d.jpg)
+
+When we were planning to announce *Unglued*, I mentioned that the perfect time would be on April 1st. Unfortunately, *Unglued’s* existence wasn’t announced in the spring. So, I kept the idea in my back pocket. During March 0f 2003 we were in serious discussion about doing *Unhinged*. I kept pushing for us to make up our mind so we could announce it on April 1st. I was told though that even if we made up our mind in time, it was way, way too early to tell anyone about it. That left April of 2004.
 
 But the set would be deep in to development. An *Un* set is a hard set to hide. Could we make it until April without a leak spilling the secret? I was doubtful. But I didn’t take into account the “Boy Who Cried Wolf” effect.
 

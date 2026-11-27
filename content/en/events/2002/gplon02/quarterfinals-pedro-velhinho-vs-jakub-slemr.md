@@ -79,7 +79,9 @@ Jakub Slemr is an old school magic player who won the World Championships a coup
 
 ### Game 1
 
-![](https://www.wizards.com/sideboard/images/gplon02/891.jpg)Slemr won the die roll and decided to play first. He thought long and hard about his opening hand but he kept it in the end. Slemr led with a Nimble Mongoose that got killed by an Innocent Blood. He drew a blue source on turn 2 and proceeded to Careful Study away a Rootwalla and a Roar of the Wurm. A Werebear followed soon after and forced Pedro to Tutor for Mutilate.
+![](https://www.wizards.com/sideboard/images/gplon02/891.jpg)
+
+Slemr won the die roll and decided to play first. He thought long and hard about his opening hand but he kept it in the end. Slemr led with a Nimble Mongoose that got killed by an Innocent Blood. He drew a blue source on turn 2 and proceeded to Careful Study away a Rootwalla and a Roar of the Wurm. A Werebear followed soon after and forced Pedro to Tutor for Mutilate.
 
 Jakub got one big attack in before Pedro swept the board triggering Jakub’s Standstill. Slemr was stuck on 2 lands at this point and was unable to flashback his Roars so when Pedro played a Haunting Echoes the next turn he lost every single spell in his deck.
 

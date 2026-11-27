@@ -656,7 +656,9 @@ Look closely and you'll see what I mean.
 
 In the past, I've talked about one card or another having a "rattlesnake" value in multiplayer play. I make a lot out of this because I firmly believe that you can't win a multiplayer game unless you give your opponents a real reason *not* to attack you. Bargains, silence, and/or expressions of hurt feelings don't do diddly. Speak loudly and carry a big stick--that's what works.
 
-!['Misdir Spider'](https://i.ormos.uk/72/3d/723d86b5e40638aee070191dbebadf82b848f942035c766e32f6cd33624df3c7.jpg)But it wouldn't be completely honest of me to hammer a single note like that when there's usually a lot more going on in multiplayer. Depending on your group's culture--and the experience of its players--you may want to call upon the other animals/plants that your cards have to offer:
+!['Misdir Spider'](https://i.ormos.uk/72/3d/723d86b5e40638aee070191dbebadf82b848f942035c766e32f6cd33624df3c7.jpg)
+
+But it wouldn't be completely honest of me to hammer a single note like that when there's usually a lot more going on in multiplayer. Depending on your group's culture--and the experience of its players--you may want to call upon the other animals/plants that your cards have to offer:
 
 *   the **rattlesnake**, for its warning signal (think Bloodfire Colossus);
 *   the **gorilla**, for its impact on the board's permanents (think Wrath of God);

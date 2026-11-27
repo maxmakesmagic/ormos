@@ -447,7 +447,9 @@ Here on the East Coast of the United States, Rob Dougherty and the YMG gang were
 
 No, it wasn't me -- the first chance I will have to play in a PTQ this season falls on my wedding anniversary. I got my wife what she wanted, so hopefully I will be able to play. Had I been in Brighton it may have been a different outcome, but it was former **magicthegathering.com** columnist Chad Ellis making his triumphant return to the Pro Tour after a prolonged absence. 
 
-![](http://www.wizards.com/global/images/mtgcom_daily_bd144_picMain_en.jpg)Chad was a fixture on the Pro Tour for a couple of years and had an assigned seat on the so-called Gravy Train. He was a big part of the successful YMG team and wrote extremely popular columns mainstream **Magic** websites. He has one Pro Tour Top 8 to his credit, when he drafted his way to the final table of Pro Tour–Barcelona. 
+![](http://www.wizards.com/global/images/mtgcom_daily_bd144_picMain_en.jpg)
+
+Chad was a fixture on the Pro Tour for a couple of years and had an assigned seat on the so-called Gravy Train. He was a big part of the successful YMG team and wrote extremely popular columns mainstream **Magic** websites. He has one Pro Tour Top 8 to his credit, when he drafted his way to the final table of Pro Tour–Barcelona. 
 
 You know the story. The obligations of the post-college world beckoned and Chad drifted away from the game, living in Germany far away from his support network of New England gamers. As regular readers of **magicthegathering.com** know, Chad has been back for the past year or so and trying to get back on the Tour. I am happy to report that he was successful in his quest and even happier that he agreed to take some time to talk about his tournament and the current Limited format. 
 
@@ -467,7 +469,9 @@ You know the story. The obligations of the post-college world beckoned and Chad 
 
 **Chad**: We had about 100 players and seven rounds of Swiss. I managed to be one of two players starting off at 5-0 and then drew twice into the Top 8.
 
-![](http://www.wizards.com/sideboard/images/PTBAR01/668.jpg)**BDM**: How do you like the new set for Limited after the PTQ? 
+![](http://www.wizards.com/sideboard/images/PTBAR01/668.jpg)
+
+**BDM**: How do you like the new set for Limited after the PTQ? 
 
 **Chad**: Actually I like it a lot. There are tons of decisions to make all the way through and I really felt like I had room to outplay opponents rather than just dropping my best creature and smashing. Another thing I like is that most of the bombs in *Champions* can be answered by a variety of commons. 
 

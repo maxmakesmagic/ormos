@@ -138,7 +138,9 @@ The Danish decided to go for blue, picking Regress over Atog in the first pack. 
 
 ### Seat 6 Tuomo Nieminen
 
-![](https://i.ormos.uk/ba/96/ba9627de75224500a0969ded9b64841ab2792df7cf7b99751b9fba1100f47166.jpg)Tuomo didn't make this common mistake to pick the spells over the creatures systematically, which makes his deck the most aggressive at the table. Double Vulshok Berserker, and many early drops (including one Spikeshot Goblin) added to triple Predator's Strike don't make him a scary match up for deck as Dirk's or Jens's. Unfortunately he didn't get passed much removal and his results on this draft will depend on how the Strikes will compensate this lacking.
+![](https://i.ormos.uk/ba/96/ba9627de75224500a0969ded9b64841ab2792df7cf7b99751b9fba1100f47166.jpg)
+
+Tuomo didn't make this common mistake to pick the spells over the creatures systematically, which makes his deck the most aggressive at the table. Double Vulshok Berserker, and many early drops (including one Spikeshot Goblin) added to triple Predator's Strike don't make him a scary match up for deck as Dirk's or Jens's. Unfortunately he didn't get passed much removal and his results on this draft will depend on how the Strikes will compensate this lacking.
 
 \+ aggressive deck, Arc Slogger  
  - only one Bolt for removal

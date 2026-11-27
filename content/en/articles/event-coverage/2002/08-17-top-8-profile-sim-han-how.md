@@ -44,7 +44,9 @@ archive_source:
   sha256: e67eb97cd552bb9fe88ccde2db1258d9b8bbc0b869e902272691bf542c8ae08a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a590.jpg)There are always "firsts" at every Magic World Championship, and Sim Han How adds one to the list: first Malaysian to make a PT Top 8. And, oh, this is his first Pro Tour.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a590.jpg)
+
+There are always "firsts" at every Magic World Championship, and Sim Han How adds one to the list: first Malaysian to make a PT Top 8. And, oh, this is his first Pro Tour.
 
 Han How, an 18-year-old IT student at College Bandar Utama in Kuala Lumpur, Malaysia, came out of nowhere to dominate this tournament. He ran the table on Day 1 with a blue/green/red [Opposition](https://web.archive.org/web/20020817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Opposition) deck, and his 5-1 in draft kept him in first place in the standings. He stumbled a bit on Day 3, going 2-3-1, but the two wins were enough to let him intentionally draw in the last round to clinch a Top 8 berth.
 

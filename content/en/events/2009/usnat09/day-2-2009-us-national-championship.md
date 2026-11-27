@@ -514,7 +514,9 @@ Final result: Brad Nelson - 2 Sam Black - 0
 
     *by Kelly Digges*
 
-![](https://www.wizards.com/mtg/images/daily/events/usnat09/menger2.jpg)True to my word, I checked in with Matt at Legion Events to see how his level 2 [Menger sponge](/en/articles/arcana/2008/04-15-menger-sponge) was coming. True to his word, he’s been hard at work. (Matt’s last name, by the way, is Danner—apparently his friends hounded him last night for being just “Matt” in yesterday’s coverage.)
+![](https://www.wizards.com/mtg/images/daily/events/usnat09/menger2.jpg)
+
+True to my word, I checked in with Matt at Legion Events to see how his level 2 [Menger sponge](/en/articles/arcana/2008/04-15-menger-sponge) was coming. True to his word, he’s been hard at work. (Matt’s last name, by the way, is Danner—apparently his friends hounded him last night for being just “Matt” in yesterday’s coverage.)
 
 As you can see, he’s laid down the entire bottom row of Level 1 cubes and made some progress on the second row as well. He’s making good time, but the Saturday crowd is bound to put more actual work in front of him. It looks like he’ll have his level 2 sponge by the end of Sunday, but only time will tell.
 
@@ -568,7 +570,9 @@ I found Legion Events’ Steve Port behind the Public Events table to ask him a 
 
 After last year’s Game in the Gulf cruise, the players weren’t the only ones who came back ready for more. As soon as the cruise ended, Steve said, the universal sentiment was that “We’ve gotta do that again.” Did they take some time to mull it over? “Literally the day we got back,” said Steve, “we called Carnival to set it up for next year.”
 
-![](https://www.wizards.com/mtg/images/daily/events/usnat09/magic_lifesavor.jpg)The genesis for the original cruise came when a travel agent contacted Legion Events to see if they wanted to promote an upcoming board game cruise. As they looked over the event, said Steve, it dawned on them. “This could work for **Magic**.”
+![](https://www.wizards.com/mtg/images/daily/events/usnat09/magic_lifesavor.jpg)
+
+The genesis for the original cruise came when a travel agent contacted Legion Events to see if they wanted to promote an upcoming board game cruise. As they looked over the event, said Steve, it dawned on them. “This could work for **Magic**.”
 
 When Legion announced the 2010 cruise, they got an immediate and enthusiastic response. The cruise is still seven months away, but they’ve already booked more people than the total number who went on the cruise this year. More than half of the 70 or so slots have been filled.
 
@@ -783,7 +787,9 @@ I travel to a lot of **Magic** events, and I’ve gotten good at packing for the
 
 But there is one thing I can never seem to remember to bring: cards for artists to sign. Every major event I’ve ever been to (and at least one not-so-major one) has featured one of **Magic**‘s awesome illustrators signing, sketching, and chatting with fans, and I *never, ever* remember to bring any cards they’ve done.
 
-![](https://www.wizards.com/mtg/images/daily/events/usnat09/post.jpg)Here at **Magic** Weekend, our two illustrious illustrators are [rk post](https://web.archive.org/web/20090717000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5brk%5d+%5bpost%5d) and [Rob Alexander](https://web.archive.org/web/20090717000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&output=spoiler&method=visual&artist=+[rob]+[alexander]). Fortunately, they’re both prolific artists who’ve been with the game a long time, so I’ll still be able to pull some cards out of my EDH decks for them to sign.
+![](https://www.wizards.com/mtg/images/daily/events/usnat09/post.jpg)
+
+Here at **Magic** Weekend, our two illustrious illustrators are [rk post](https://web.archive.org/web/20090717000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5brk%5d+%5bpost%5d) and [Rob Alexander](https://web.archive.org/web/20090717000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&output=spoiler&method=visual&artist=+[rob]+[alexander]). Fortunately, they’re both prolific artists who’ve been with the game a long time, so I’ll still be able to pull some cards out of my EDH decks for them to sign.
 
 I first discovered the art of rk post through his work on *Alternity*, a now-discontinued Wizards RPG. I quickly recognized his distinct style on **Magic** cards like Acridian and Dawnstrider, and it was my pleasure to sit down and chat with him today.
 

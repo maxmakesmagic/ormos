@@ -53,7 +53,9 @@ archive_source:
   sha256: 53c3f2c84b58edf58d7ca41a674fe6b01e9c4c790314aba3c81ac940c11192aa
 render_recovery: []
 ---
-![](https://www.wizards.com/sideboard/images/gplon03/a893.jpg)Antonino and Brian have met a number of times before, and Antonino has won them all but as he said, “that was in Limited, and I fancy my chances better there.” This is the first time they’ll have played in a constructed format and Antonino is looking to extend his record whilst Brian is looked for payback.
+![](https://www.wizards.com/sideboard/images/gplon03/a893.jpg)
+
+Antonino and Brian have met a number of times before, and Antonino has won them all but as he said, “that was in Limited, and I fancy my chances better there.” This is the first time they’ll have played in a constructed format and Antonino is looking to extend his record whilst Brian is looked for payback.
 
 Brian is playing a Blue and White control deck, geared to beat Goblins before sideboarding with four Silver Knights in the main deck but transforming in games two and three to a deck that’s much better against control. Antonino is playing a Red and White Slide deck with Flamewave Invoker in the sideboard for this match up.
 
@@ -71,7 +73,9 @@ Antonino bought in Wing Shards, Flamewave Invoker, two Akromas, a Decree of Anni
 
 Brian chose to play first and kept his hand, and Antonino kept too. Kibler started well with a turn two Stabiliser. “That’s fair,” Antonino exclaimed – knowing he was in trouble. Both players dropped turn three morphs and Antonino turned his over and flew over for four with his Exalted Angel. Kibler attacked back, but didn’t unmorph his guy. “Maybe it’s not an Angel,” De Rosa offered.
 
-![](https://www.wizards.com/sideboard/images/gplon03/a894.jpg)The next turn he attacked again and played out a Flamewave Invoker and, in his end step Kibler unmorphed his Chromeshell Crab and swapped it with De Rosa’s foil Angel. “That’s very Shiny.” “Yeah, but you should have taken the Invoker,” Antonino said. “You think it’s distracting me, and that’s why I took it?” He untapped and sacrificed a Flooded Strand to fetch another Island – taking him to ten life. “Two kabooms from Invoker away,” Antonino noted. “I *may* get to attack you though,” Kibler replied and announced a Decree of Silence: “I get the talking stick, you don’t.” Antonino didn’t look too pleased, “firm but fair.” Kibler attacked with Antonino’s Angel to take him more than two ‘kabooms’ away from death.
+![](https://www.wizards.com/sideboard/images/gplon03/a894.jpg)
+
+The next turn he attacked again and played out a Flamewave Invoker and, in his end step Kibler unmorphed his Chromeshell Crab and swapped it with De Rosa’s foil Angel. “That’s very Shiny.” “Yeah, but you should have taken the Invoker,” Antonino said. “You think it’s distracting me, and that’s why I took it?” He untapped and sacrificed a Flooded Strand to fetch another Island – taking him to ten life. “Two kabooms from Invoker away,” Antonino noted. “I *may* get to attack you though,” Kibler replied and announced a Decree of Silence: “I get the talking stick, you don’t.” Antonino didn’t look too pleased, “firm but fair.” Kibler attacked with Antonino’s Angel to take him more than two ‘kabooms’ away from death.
 
 Antonino put a brave face on it and attacked again, knocking Brian to nine and passed. Brian attacked, went back up to 13 and cast an Angel of his own. In Kibler’s end step Antonino cast a Starstorm to add a counter to the Decree of Silence then cast an Invoker to add another counter in his own turn.
 

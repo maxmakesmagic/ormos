@@ -344,7 +344,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/c7/28/c7288be93ceabb955b788e91e929d7247e0a67c44684e80fc8e5a316550d6f87.jpg)My article from two weeks ago, which featured a combo Affinity deck revolving around Words of Wind and Vedalken Archmage, generated a substantial reader response. I posted a preliminary list and asked for suggestions and help in naming the newborn deck. I can’t remember a recent column that provoked so much feedback. The only other times I can remember getting a comparable volume of mail for a column was when I posted a Day of the Dragons deck and another when I posted pair of green-blue decks; Tradewind-Intruder Alarm and the Wirewood Channeler-Pemmin’s Aura combo.
+![](https://i.ormos.uk/c7/28/c7288be93ceabb955b788e91e929d7247e0a67c44684e80fc8e5a316550d6f87.jpg)
+
+My article from two weeks ago, which featured a combo Affinity deck revolving around Words of Wind and Vedalken Archmage, generated a substantial reader response. I posted a preliminary list and asked for suggestions and help in naming the newborn deck. I can’t remember a recent column that provoked so much feedback. The only other times I can remember getting a comparable volume of mail for a column was when I posted a Day of the Dragons deck and another when I posted pair of green-blue decks; Tradewind-Intruder Alarm and the Wirewood Channeler-Pemmin’s Aura combo.
 
 There were a number of suggestions and modifications, a smattering of deck names, and more than few lessons on the finer points of madness. In the original article I discussed an earlier blue-green attempt at abusing Words of Wind and mentioned that Compulsion, two Basking Rootwallas and a Words of Wind would allow you to create an ersatz Capsize with buyback…
 
@@ -374,7 +376,9 @@ In the case of the Ornithopter you get what you pay for. For zero mana you get a
 
 *The deck's other problem is that it has no win condition, other than the Enforcers.* 
 
-![](https://i.ormos.uk/98/0a/980a84391afcc46cf3c16dd717e4e248c6d28ec33896258fa95f7d19c09ccb26.jpg)When I was originally tinkering with the idea for this deck I considered both Tooth and Scale of Chiss-Goria. I like the idea of having an instant speed method of protecting my Archmage as Stefan suggested. You could go either of two routes. If burn spells were your concern then the Scale of Chiss-Goria would allow you to pump up the toughness of the Archmage to three at instant speed. If you were facing something more life-threatening you could just return the Archmage if you had a Words of Wind in play. In fact, you could protect any piece of the combo at instant speed—even the Words of Wind itself.
+![](https://i.ormos.uk/98/0a/980a84391afcc46cf3c16dd717e4e248c6d28ec33896258fa95f7d19c09ccb26.jpg)
+
+When I was originally tinkering with the idea for this deck I considered both Tooth and Scale of Chiss-Goria. I like the idea of having an instant speed method of protecting my Archmage as Stefan suggested. You could go either of two routes. If burn spells were your concern then the Scale of Chiss-Goria would allow you to pump up the toughness of the Archmage to three at instant speed. If you were facing something more life-threatening you could just return the Archmage if you had a Words of Wind in play. In fact, you could protect any piece of the combo at instant speed—even the Words of Wind itself.
 
 Since you could just use the Words of Wind to protect your Archmage I found myself leaning toward the Tooth of Chiss-Goria. I think this was mostly because I like the idea of cycling a pair of Teeth and sending my Archmage into the red zone with an arbitrarily large power. In the end they became Lightning Greaves. The Greaves is simply more powerful and versatile in the deck. It offers protection for my Archmage and allows me to send my Enforcers into combat the turn they see play. In fact, I find myself wanting at least more copy of Lightning Greaves with the potential of a fourth in the sideboard.
 

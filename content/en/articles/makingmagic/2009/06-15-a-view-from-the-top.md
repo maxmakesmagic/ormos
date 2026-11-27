@@ -97,7 +97,9 @@ To capture the experience I wanted—of walking through a top-down design—I fe
 
  
 
-> ![](https://i.ormos.uk/af/62/af62c7550bdc7668d3c8cd55fd920024d6097531614e1dbbc89c9b82349ffda5.jpg)[maro254](http://twitter.com/maro254) For my 6/15 top-down design column, I've decided to do a design based on a tweet from one of you. Please give me a cool top-down idea.
+> ![](https://i.ormos.uk/af/62/af62c7550bdc7668d3c8cd55fd920024d6097531614e1dbbc89c9b82349ffda5.jpg)
+>
+> [maro254](http://twitter.com/maro254) For my 6/15 top-down design column, I've decided to do a design based on a tweet from one of you. Please give me a cool top-down idea.
 
  
 

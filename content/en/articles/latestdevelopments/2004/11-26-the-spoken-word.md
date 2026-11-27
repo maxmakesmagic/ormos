@@ -156,7 +156,9 @@ Trust no one.
 
 ### Mix It Up
 
-![](https://i.ormos.uk/99/ba/99bae0ed7c606d3505741f28a0ac8e7edc2c5217203d339958841a71a6a0f894.jpg)When *Unglued* came out, many players built decks out of *Unglued* cards exclusively, and did drafts with *Unhinged* cards exclusively. While formats like that are brimming over with wackiness, I hope people will mix *Unhinged* in with “normal” **Magic** a little more, such as casual decks with 8 to 12 *Unhinged* cards, or sealed deck tournaments with a *Champions of Kamigawa* tournament pack and two *Unhinged* boosters. The crazy flavor and playstyle of *Unhinged* really shines when there are “normal” cards to play the straight man.
+![](https://i.ormos.uk/99/ba/99bae0ed7c606d3505741f28a0ac8e7edc2c5217203d339958841a71a6a0f894.jpg)
+
+When *Unglued* came out, many players built decks out of *Unglued* cards exclusively, and did drafts with *Unhinged* cards exclusively. While formats like that are brimming over with wackiness, I hope people will mix *Unhinged* in with “normal” **Magic** a little more, such as casual decks with 8 to 12 *Unhinged* cards, or sealed deck tournaments with a *Champions of Kamigawa* tournament pack and two *Unhinged* boosters. The crazy flavor and playstyle of *Unhinged* really shines when there are “normal” cards to play the straight man.
 
 The Gotcha mechanic in particular benefits from a mixed card pool. If you play with an all *Unhinged* deck, your opponents will probably be very focused on what they're saying, and will probably not tend to screw up very often. But if you throw a few copies of Deal Damage into your Samurai deck, the game will be much more relaxed, your opponent will probably forget what's in your graveyard, and the next thing you know… “GOTHCA!”
 

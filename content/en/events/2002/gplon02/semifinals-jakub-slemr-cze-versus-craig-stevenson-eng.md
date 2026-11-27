@@ -74,7 +74,9 @@ render_recovery:
   - Mutilate
   occurrences: 32
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/884.jpg)This match-up is probably in Jakub’s favor, especially after sideboarding since Craig has no way of dealing with the Squirrel Nest, but he showed that anything can happen in this game by defeating Christophe Haim in the quarter-finals sporting a very similar deck, except with Bearscape rather than Squirrel Nest.
+![](https://www.wizards.com/sideboard/images/gplon02/884.jpg)
+
+This match-up is probably in Jakub’s favor, especially after sideboarding since Craig has no way of dealing with the Squirrel Nest, but he showed that anything can happen in this game by defeating Christophe Haim in the quarter-finals sporting a very similar deck, except with Bearscape rather than Squirrel Nest.
 
 ### Game One
 
@@ -86,10 +88,14 @@ The Englishman played a second Braids; but he couldn’t deal with the threshold
 
 ### Game Two
 
-![](https://www.wizards.com/sideboard/images/gplon02/883.jpg)Once again Jakub had a first turn Basking Rootwalla via a Careful Study, the Englishman made a Millikin rather than a Mesmeric Fiend with a view to playing an early Braids. The only argument against this was that Craig had better to hope Jakub didn’t have a Squirrel Nest.
+![](https://www.wizards.com/sideboard/images/gplon02/883.jpg)
+
+Once again Jakub had a first turn Basking Rootwalla via a Careful Study, the Englishman made a Millikin rather than a Mesmeric Fiend with a view to playing an early Braids. The only argument against this was that Craig had better to hope Jakub didn’t have a Squirrel Nest.
 
 Slemr made a second turn Werebear and the Braids came into play. He Aether Bursted the Mesmeric Fiend while making a second Werebear. Craig could only replay his Millikin and when the Werebears attacked he didn’t block with Braids, fearing a Mental Note. That’s what happened anyway and the attack knocked Stevenson down to eleven.
 
-![](https://www.wizards.com/sideboard/images/gplon02/882.jpg)On his turn he played a Mesmeric Fiend taking Careful Study, and cast a Nantuko Shade, but he overlooked the fact that Jakub had a Centaur Garden in play, and didn’t block, taking lethal damage. It didn’t really matter as there was no way he could have stayed alive for more than a couple of turns – he only had three Swamps in play so if his next card had been Mutilate it still wouldn’t have killed the Werebears.
+![](https://www.wizards.com/sideboard/images/gplon02/882.jpg)
+
+On his turn he played a Mesmeric Fiend taking Careful Study, and cast a Nantuko Shade, but he overlooked the fact that Jakub had a Centaur Garden in play, and didn’t block, taking lethal damage. It didn’t really matter as there was no way he could have stayed alive for more than a couple of turns – he only had three Swamps in play so if his next card had been Mutilate it still wouldn’t have killed the Werebears.
 
 Jakub Slemr 2 – Craig Stevenson 0

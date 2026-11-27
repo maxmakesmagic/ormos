@@ -47,7 +47,9 @@ render_recovery: []
 ---
 ### 
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a956.jpg)Il est huit heures et quart, le premier jour touche à sa fin. Ce prodige est certainement le résultat d'une organisation irréprochable, mais hélas également du faible nombre d'inscrits. Non pas que l'Italie ait à rougir du nombre de participants (296 dont 218 locaux), mais plutôt que les derniers Grand Prix (Heidelberg en particulier) nous avaient habitués à mieux.
+![](http://www.wizards.com/sideboard/images/gpnap02/a956.jpg)
+
+Il est huit heures et quart, le premier jour touche à sa fin. Ce prodige est certainement le résultat d'une organisation irréprochable, mais hélas également du faible nombre d'inscrits. Non pas que l'Italie ait à rougir du nombre de participants (296 dont 218 locaux), mais plutôt que les derniers Grand Prix (Heidelberg en particulier) nous avaient habitués à mieux.
 
 La seconde nation la plus représentée est la France, avec 18 joueurs, majoritairement Parisiens en dépit d'une proximité géographique avantageant davantage les sudistes. Les Français aiment les Grand Prix, ça tombe plutôt bien, ils le leur rendent bien!
 

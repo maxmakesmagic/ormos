@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/f1/d2/f1d2c9ac81abeca23840fc983de5fbc256d1f0bcc503122c29268f6a2ad9b066.jpg)There’s gobs more content up today at the *Planar Chaos* minisite.
+![](https://i.ormos.uk/f1/d2/f1d2c9ac81abeca23840fc983de5fbc256d1f0bcc503122c29268f6a2ad9b066.jpg)
+
+There’s gobs more content up today at the *Planar Chaos* minisite.
 
 *   New and beautiful *Planar Chaos* preview art
 *   A new puzzle and wallpaper

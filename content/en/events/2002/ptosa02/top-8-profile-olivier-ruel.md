@@ -55,7 +55,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/51/64/5164c201f789cb60de5089c1873129e882d72277b42c899b973614a34f622947.jpg)The famous Frenchman Olivier Ruel loves Pengiuns, Winnie the Pooh and you! His unmistakable flair and enthusiastic style of play make him a Pro Tour favorite among players from all nations. Frequently seen with an army of stuffed animals at his side, Ruel finished highly at scores of Grand Prix tournaments, but never found much success at the Pro Tour until now. With this top 8, he finally gets bragging rights over his brother (Pro Tour competitor Antoine Ruel).
+![](https://i.ormos.uk/51/64/5164c201f789cb60de5089c1873129e882d72277b42c899b973614a34f622947.jpg)
+
+The famous Frenchman Olivier Ruel loves Pengiuns, Winnie the Pooh and you! His unmistakable flair and enthusiastic style of play make him a Pro Tour favorite among players from all nations. Frequently seen with an army of stuffed animals at his side, Ruel finished highly at scores of Grand Prix tournaments, but never found much success at the Pro Tour until now. With this top 8, he finally gets bragging rights over his brother (Pro Tour competitor Antoine Ruel).
 
 Should Olivier win this Pro Tour, he would also continue the streak of the Invitational Curse. Every single player who has finished last at the Duelist Invitational has gone on to either win a Pro Tour the following season, or never played in another Pro Tour again. Since Ruel came to play, and finished dead last in Cape Town this past year, it's only destiny should he emerge as the champion here at Osaka.
 

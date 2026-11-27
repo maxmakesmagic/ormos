@@ -57,7 +57,9 @@ Smith Leads 1-0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ausnat03/a964.jpg)The two chatted about the opening game with Allen stating that Smith “Had a great draw.” “Yeah it wasn’t bad” admitted Smith, “Yours seemed to lack a bit of burn though, I didn’t expect that Merfolk Looter to last a turn.”
+![](http://www.wizards.com/sideboard/images/ausnat03/a964.jpg)
+
+The two chatted about the opening game with Allen stating that Smith “Had a great draw.” “Yeah it wasn’t bad” admitted Smith, “Yours seemed to lack a bit of burn though, I didn’t expect that Merfolk Looter to last a turn.”
 
 Smith starts off with a first turn Llanowar Elf which is sent straight to the graveyard with Firebolt. A second turn Merfolk Looter meets the same fate, and Allen backs up his burn with a Wild Mongrel. Smith has another Looter and brings it into play while Allen is content to strap the Elephant Guide pants onto the Mongrel and sends it swinging into the red zone dealing 5 points of damage. Smith loots away again, summoning a Ravenous Baloth.
 
@@ -69,7 +71,9 @@ Tied 1-1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ausnat03/a962.jpg)Allen begins the deciding game with a mulligan and Smith starts off with a turn one Bird and a turn two Squirrel Nest. Allen plays out a turn two Mongrel and Smith drops down an opposition tapping down a mountain and a forest in Allens upkeep, trapping him short on mana. A squirrel taps down the Wild Mongrel in the attack phase and Allen uses his two available mana to cast Volcanic Hammer on the Bird. Smith continues to put Allen in a world of hurt, casting Worship. Once again Smith taps down Allens land leaving him with a lone Mossfire Valley but Allen summons a Grim Lavamancer off a Karplusan Forest. The Mongrel attacks for two and Smith simply plays out call of the Herd.
+![](http://www.wizards.com/sideboard/images/ausnat03/a962.jpg)
+
+Allen begins the deciding game with a mulligan and Smith starts off with a turn one Bird and a turn two Squirrel Nest. Allen plays out a turn two Mongrel and Smith drops down an opposition tapping down a mountain and a forest in Allens upkeep, trapping him short on mana. A squirrel taps down the Wild Mongrel in the attack phase and Allen uses his two available mana to cast Volcanic Hammer on the Bird. Smith continues to put Allen in a world of hurt, casting Worship. Once again Smith taps down Allens land leaving him with a lone Mossfire Valley but Allen summons a Grim Lavamancer off a Karplusan Forest. The Mongrel attacks for two and Smith simply plays out call of the Herd.
 
 More upkeep antics from both players result in the Lavamancer killing off a squirrel and during his main phase Allen casts Volcanic Hammer on the call token, sending his Mongrel into the red zone. Despite his land being constantly tapped Allen is making a game of it, Naturalising the nest. Realising that he would have to start going on the offensive Smith sends in the Call token for an attack. Lavamancer shoots down the Bird of Paradise during the tapping phase and Mongrel charges in. Smith decides to lock down Allen again but this time Allen draws a land and casts Volcanic Hammer on the call token. The two then pass turns for a while tapping down land and the Mongrel, with neither player playing any spells. Allen finally sends in a Lavamacer for an attack and Smith responds by tapping down the mongrel, Allen plays volcanic Erruption via madness and sprays out all the Squirrel tokens. It’s the last play of the game and Smith scoops up his cards.
 

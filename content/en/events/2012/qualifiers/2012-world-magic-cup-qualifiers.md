@@ -60,7 +60,9 @@ archive_source:
   sha256: 13dd89151eb72e2f07bdf86fbbed4b306a25c12593bc1f3398028ba71dbe340e
 render_recovery: []
 ---
-![](https://i.ormos.uk/71/5d/715d6aeaf2100f25708e57122234f2cb76b132f901283f65ba2902725904e050.jpg)If you dream of playing in the international [World **Magic** Cup](/en/articles/event-coverage/undated/2012-world-magic-cup), you'll want to start here. Each selected country will run three World **Magic** Cup Qualifiers, with the winner of each earning an invitation to the World **Magic** Cup. 
+![](https://i.ormos.uk/71/5d/715d6aeaf2100f25708e57122234f2cb76b132f901283f65ba2902725904e050.jpg)
+
+If you dream of playing in the international [World **Magic** Cup](/en/articles/event-coverage/undated/2012-world-magic-cup), you'll want to start here. Each selected country will run three World **Magic** Cup Qualifiers, with the winner of each earning an invitation to the World **Magic** Cup. 
 
 2012 World **Magic** Cup Qualifiers are invitation-only tournaments. These Premier Events will be held in countries that have been selected to have national teams compete at the [2012 World **Magic** Cup](/en/articles/event-coverage/undated/2012-world-magic-cup). The list of selected countries can be viewed at the [bottom of this page](#countries). 
 

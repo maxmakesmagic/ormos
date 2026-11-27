@@ -63,7 +63,9 @@ render_recovery: []
 ---
 Both of these teams have female players and they're paired against each other on Table 5 on the next-to-last round of the tournament.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPYOK01/887.jpg)Apprentice's Nobutoshi Yamazaki opened the first pack, taking an [Urborg Emissary](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urborg+Emissary), giving a [Shivan Emissary](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Emissary) to teammate Takahisa Yamaguchi. Poor Shark's Masahiro Kuroda got a [Benalish Heralds](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Benalish+Heralds) as the third card, suggesting a white control deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPYOK01/887.jpg)
+
+Apprentice's Nobutoshi Yamazaki opened the first pack, taking an [Urborg Emissary](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urborg+Emissary), giving a [Shivan Emissary](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Emissary) to teammate Takahisa Yamaguchi. Poor Shark's Masahiro Kuroda got a [Benalish Heralds](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Benalish+Heralds) as the third card, suggesting a white control deck.
 
 The second *Invasion* pack opened by Apprentice gave Takahisa a [Noble Panther](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noble+Panther) and Masahiro a [Kavu Chameleon](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Chameleon), solidifying a potential green-white deck for him, while Takahisa worked on a red-green deck.
 

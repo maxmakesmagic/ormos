@@ -62,7 +62,9 @@ render_recovery: []
 ---
 [日本語の取材へ](/en/events/2002/ptbos02/2002-pro-tour-boston-japanese-coverage) 
 
-![](https://i.ormos.uk/65/c2/65c2df95fc5a03d58b9df137d769ef1614afa6806b948c326008d5c76ef5ff6a.jpg)Deep down inside, none of us are surprised. After an undefeated Day 2, Phoenix Foundation reaffirmed their dominance of the Team Rochester Format. Last year they took the tournament by storm, and after claiming the Team Masters they were just accepted as the best in the business. Lifetime undefeated isn't just a fancy turn of phrase.
+![](https://i.ormos.uk/65/c2/65c2df95fc5a03d58b9df137d769ef1614afa6806b948c326008d5c76ef5ff6a.jpg)
+
+Deep down inside, none of us are surprised. After an undefeated Day 2, Phoenix Foundation reaffirmed their dominance of the Team Rochester Format. Last year they took the tournament by storm, and after claiming the Team Masters they were just accepted as the best in the business. Lifetime undefeated isn't just a fancy turn of phrase.
 
 This time around they faced Slay Pillage Gerard in the semis, and after Baberowski upset his match 2-0 Budde took Game 3 of his match against Fabiano to advance to the final round. There they met 2020, the Top 4's Cinderella story. They had just bested Courtney's Boys in a huge upset, entering the final draft eager, but knowing that they were the justified underdogs. The results confirmed that suspicion. Though Steve Wolfman was able to dispatch Baberowski quickly, Budde and Blume were not to be denied. David Rood had the honor of being taken down by Kai in the deciding match.
 

@@ -120,7 +120,9 @@ We played a draft and went out to dinner at, I think, a typical Texan restaurant
 
 This was the tour day. We woke up early and started things with a guided tour through WotC’s headquarters. Mark Rosewater, a great host throughout the trip, was our guide. Dakkon Blackblade welcomed us into the building. I always imagined the building to be smaller. It was nice to see where the game I play is developed.
 
-![](http://www.wizards.com/sideboard/images/mi02/597.jpg)Right after the tour, we hit downtown Seattle. It’s a great place, with a very diversified shopping market, even if I didn’t buy anything. We had lunch in a mall and I started the countdown to the eagerly awaited Invitational dinner. I’m not really into seafood, but as soon as I saw the menu, I knew there were plenty of other options.
+![](http://www.wizards.com/sideboard/images/mi02/597.jpg)
+
+Right after the tour, we hit downtown Seattle. It’s a great place, with a very diversified shopping market, even if I didn’t buy anything. We had lunch in a mall and I started the countdown to the eagerly awaited Invitational dinner. I’m not really into seafood, but as soon as I saw the menu, I knew there were plenty of other options.
 
 We sat around outside, with the Puget Sound as the background. When we finally went inside the restaurant, they divided us up into four groups. Gary Wise convinced me to order some chocolate cake dessert called Volcano (or something like that).
 

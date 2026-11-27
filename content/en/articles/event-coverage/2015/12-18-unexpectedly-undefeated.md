@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/247.JPG)After the draft portion of the 2000 European Championship, 20 year old Jean-Louis D'Hondt from Belgium unexpectedly found himself undefeated. "I hadn't expected this at all. I like draft, but I'd never thought I'd go 6-0. Maybe a good result like 4-2 or 5-1, but to go 6-0 you have to be lucky," he smiles.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/247.JPG)
+
+After the draft portion of the 2000 European Championship, 20 year old Jean-Louis D'Hondt from Belgium unexpectedly found himself undefeated. "I hadn't expected this at all. I like draft, but I'd never thought I'd go 6-0. Maybe a good result like 4-2 or 5-1, but to go 6-0 you have to be lucky," he smiles.
 
 The player from Brussels was both lucky and skilled. In the first draft, he got a really good deck that was well-balanced, it had good creatures and a lot of good removal. The black and green cards came to him, and his deck was simply better than the other decks on the table. But in the second draft, he ran into more problems choosing colours. He started out with an Undertaker, then he got a Bribery and an Aerial Caravan before getting passed an Intimidation. In the next boosters, however, he didn't get any blue nor black cards, so he had to take a Muzzle and two Invigorates before the blue got back to him. Then he opened a Dominate and got heavily into blue before a Blastoderm made him scrap the black and go for green. "The best cards were Bribery and Dominate, but my deck was really good. I had two Seals of Removal, and the Invigorates won me lots of games," he says.
 

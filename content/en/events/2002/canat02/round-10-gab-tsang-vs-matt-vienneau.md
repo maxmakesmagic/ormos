@@ -97,7 +97,9 @@ Gab flashed back the Harvest and put out a Twigwalker, making blocking a real ch
 
 Gab continued summoning creatures, putting out a Mystic Familiar and then an unusable Chainflinger via an Abandoned Outpost. Vienneau had a few more men of his own, including a Pilgrim of Justice and a Millikin with Floating Shield - green on it. Matt's blocking could only deal with some of the tokens, and the Familiar was whittling away at his life total.
 
-![](http://www.wizards.com/sideboard/images/canat02/a924.jpg)The big turn came when Gab attacked with everything. His plan was to get lethal damage (3) through via the Twigwalker and the Familiar, as Matt had no flying blockers. Matt cast Keep Watch before blockers, and drew four cards. He had two Chastises in his deck, and had he drawn one, he could have pulled out of it. But as it was, he couldn't stop three damage from coming through - two of Gab's creatures were unblocked, and the Twigwalker enhanced them. Matt's Floating Shield was not enough defense.
+![](http://www.wizards.com/sideboard/images/canat02/a924.jpg)
+
+The big turn came when Gab attacked with everything. His plan was to get lethal damage (3) through via the Twigwalker and the Familiar, as Matt had no flying blockers. Matt cast Keep Watch before blockers, and drew four cards. He had two Chastises in his deck, and had he drawn one, he could have pulled out of it. But as it was, he couldn't stop three damage from coming through - two of Gab's creatures were unblocked, and the Twigwalker enhanced them. Matt's Floating Shield was not enough defense.
 
 Tsang 1 - Vienneau 0
 
@@ -121,7 +123,9 @@ The sigh was supposed to mask the fact that he had drawn Chastise. Gab attacked 
 
 Vienneau: "Good card to have there."
 
-![](http://www.wizards.com/sideboard/images/canat02/a923.jpg)Gab put the Teachings on the Auramancer (as Churning Eddy protection), but Matt had a Sphere of Truth to slow the bleeding. The Auramancer could now no longer ping him to death, and had to attack.
+![](http://www.wizards.com/sideboard/images/canat02/a923.jpg)
+
+Gab put the Teachings on the Auramancer (as Churning Eddy protection), but Matt had a Sphere of Truth to slow the bleeding. The Auramancer could now no longer ping him to death, and had to attack.
 
 Attacking wasn't really an issue, as the Auramancer was a mighty 4/4, plus he had a Twigwalker out. Ironshell Beetle came down, and things got really hairy for Vienneau.
 

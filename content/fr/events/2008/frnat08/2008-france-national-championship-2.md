@@ -131,7 +131,9 @@ render_recovery:
 
 Ronde 1
 
-![](https://i.ormos.uk/ac/61/ac611bbd7473116c312d9b3cb053be3891ee1e490a53500978a41ababe7aa26a.jpg)Pierre Malherbaud a une sortie extrêmement agressive : au tour deux, un Blood Knight (Chevalier sanglant), à partir du tour trois et sans discontinuer, un Boggart Ram-Gang (Gang du bélier boggart) par tour, et au final une Figure of Destiny (Représentation de la destinée). Alexandre Rivière pose à lui quelques jetons via un Mogg War Marshal (Maréchal de guerre mogg) et une Bitterblossom (Âpre fleur), mais ils ne peuvent peut bloquer une telle offensive et Alexandre Rivière concède lorsque le troisième Ram-Gang touche la table, l'issue étant devenue évidente.
+![](https://i.ormos.uk/ac/61/ac611bbd7473116c312d9b3cb053be3891ee1e490a53500978a41ababe7aa26a.jpg)
+
+Pierre Malherbaud a une sortie extrêmement agressive : au tour deux, un Blood Knight (Chevalier sanglant), à partir du tour trois et sans discontinuer, un Boggart Ram-Gang (Gang du bélier boggart) par tour, et au final une Figure of Destiny (Représentation de la destinée). Alexandre Rivière pose à lui quelques jetons via un Mogg War Marshal (Maréchal de guerre mogg) et une Bitterblossom (Âpre fleur), mais ils ne peuvent peut bloquer une telle offensive et Alexandre Rivière concède lorsque le troisième Ram-Gang touche la table, l'issue étant devenue évidente.
 
 " C'est la grande quinzaine du Gang au bélier boggart " - Pierre Malherbaud
 
@@ -147,7 +149,9 @@ Pierre Malherbaud
 
 Ronde 2
 
-![](https://i.ormos.uk/ae/4a/ae4a9830aed1bd9c61cfd079cde95962161a0f72d9820dbec6d11bc261824662.jpg)Alexandre Rivière développe une armée de jetons via un Bitterblossom (Âpre fleur) et trois Mogg War Marshal (Maréchal de guerre mogg), mais Pierre Malherbaud arrive à maîtriser le flux en jouant successivement un Incinerate (Incinération) et deux Suflurous Blast (Salve sulfureuse), permettant de maintenir le statu quo avec un Figure of Destiny (Représentation de la destinée) améliorée deux fois, tandis qu'en face une Nantuko Husk (Ombre nantuko) reste désespérément en manque de jetons à manger. Un Demi-God of Revenge (Demi-dieu de la vengeance) du coté de Pierre Malherbaud permet de passer enfin à l'assaut en acculant Alexandre Rivière en défense, et un second arrive peu après. La Sudden Death (Mort soudaine) qui l'élimine n'est pas suffisante pour gérer les deux énormes créatures de Pierre Malherbaud qui lui permettent de gagner la partie.
+![](https://i.ormos.uk/ae/4a/ae4a9830aed1bd9c61cfd079cde95962161a0f72d9820dbec6d11bc261824662.jpg)
+
+Alexandre Rivière développe une armée de jetons via un Bitterblossom (Âpre fleur) et trois Mogg War Marshal (Maréchal de guerre mogg), mais Pierre Malherbaud arrive à maîtriser le flux en jouant successivement un Incinerate (Incinération) et deux Suflurous Blast (Salve sulfureuse), permettant de maintenir le statu quo avec un Figure of Destiny (Représentation de la destinée) améliorée deux fois, tandis qu'en face une Nantuko Husk (Ombre nantuko) reste désespérément en manque de jetons à manger. Un Demi-God of Revenge (Demi-dieu de la vengeance) du coté de Pierre Malherbaud permet de passer enfin à l'assaut en acculant Alexandre Rivière en défense, et un second arrive peu après. La Sudden Death (Mort soudaine) qui l'élimine n'est pas suffisante pour gérer les deux énormes créatures de Pierre Malherbaud qui lui permettent de gagner la partie.
 
   
   
@@ -158,7 +162,9 @@ Ronde 2
 
 Manche 1 :
 
-![](https://i.ormos.uk/6f/95/6f9552ef7ea026744dfbd56feddaaf0322483c567cacf16fb886cf0cdad8321e.jpg)Olivier Ruel prends un mulligan à cinq et se fait immédiatement agresser par une Burrenton Forge-Tender (Veilleuse de la forge Burrenton) et un Mutavault (Mutecaveau). Il évoque un Mulldrifter (Vagabond des pensées) pour tenter de refaire sa main, mais un second Mutavault arrive en jeu du coté de Stéphane Soubrier, et finalement un Lord of Atlantis (Seigneur de l'Atlantide) rend ses terrains animés trop puissants pour un Ruel dans les cordes qui concède.
+![](https://i.ormos.uk/6f/95/6f9552ef7ea026744dfbd56feddaaf0322483c567cacf16fb886cf0cdad8321e.jpg)
+
+Olivier Ruel prends un mulligan à cinq et se fait immédiatement agresser par une Burrenton Forge-Tender (Veilleuse de la forge Burrenton) et un Mutavault (Mutecaveau). Il évoque un Mulldrifter (Vagabond des pensées) pour tenter de refaire sa main, mais un second Mutavault arrive en jeu du coté de Stéphane Soubrier, et finalement un Lord of Atlantis (Seigneur de l'Atlantide) rend ses terrains animés trop puissants pour un Ruel dans les cordes qui concède.
 
 " Je fais une dédicace aux Murderous Redcap " - Stéphane Soubrier  
  " Et moi à ma maman que j'aime très fort " - Olivier Ruel
@@ -170,7 +176,9 @@ Sideboard :
 
 Manche 2 :
 
-![](https://i.ormos.uk/2e/fc/2efc00a124fbeaa56a99ae38b0a91f25544757b0eeb4e5eea4e9bae32f1c8997.jpg)Ruel commence par un mulligan à six ce qui n'est pas top, Soubrier par un Stonybrook Banneret (Bannerette de Pierreruisseau) et un Merrow Reejerey (Reejerey Suire), ce qui est mieux. Mais deux Firespout (Trombe de feu) successives d'Olivier remettent la table à zéro, même après la pose de deux nouveaux Rejeerey, et une Careful Consideration (Attention minutieuse) lui permet de se remplir la main.
+![](https://i.ormos.uk/2e/fc/2efc00a124fbeaa56a99ae38b0a91f25544757b0eeb4e5eea4e9bae32f1c8997.jpg)
+
+Ruel commence par un mulligan à six ce qui n'est pas top, Soubrier par un Stonybrook Banneret (Bannerette de Pierreruisseau) et un Merrow Reejerey (Reejerey Suire), ce qui est mieux. Mais deux Firespout (Trombe de feu) successives d'Olivier remettent la table à zéro, même après la pose de deux nouveaux Rejeerey, et une Careful Consideration (Attention minutieuse) lui permet de se remplir la main.
 
 L'assaut reprends avec deux Lord of Atlantis (l'un d'entre eux est Condemn (Condamnation)) et un Curse Catcher (Attrapeur de malédiction), mettant rapidement Ruel à 9, qui commence alors à poser des jetons avec son Urza's Factory (Usine d'Urza). Ruel stabilise puis passe alors à l'attaque, ses ouvriers spécialisés rééduquant Stéphane Soubrier par le travail, un Slaughter Pact (Pacte de tuerie) supprimant le Lord of Atlantis et rapetissant les ondins de Stéphane.
 
@@ -184,7 +192,9 @@ Stéphane fait passer une attaque via un Cryptic Command (Commandement Cryptique
 
 Stéphane pose deux Silvergill Adeptg (Adepte d'Ouidargent), augmentant la taille de son armée et creusant dans son *deck*, mais ne peut toujours pas passer à l'assaut, tandis qu'Olivier commence à poser ses jetons ouvriers spécialisés via une Usine d'Urza. Il attaque alors avec tout ce qu'il peut, faisant le ménage lors de la mêlée qui se déclenche - si ce n'est que ses propres Kitchen Finks (Fourbes de cuisine) reviennent du cimetière, à la différence des ondins de Stéphane. Mais ce dernier pose en masse ses créatuies : Rejeerey, Silvergill adapt, lord of atlantis... Lorsqu'il tente d'engager toutes les créatures d'Olivier, ce dernier contre avec un Pact of Negation. 
 
-![](https://i.ormos.uk/52/f8/52f8ae839b446d687a76a6fa60803f0b57798a90b423742e8b7d79007d001f5e.jpg)Et tandis que Stéphane compte de son doigt les blessures qu'il peut infliger, Olivier essaye alors de lui attraper, faisant semblant d'y voir une tentative de concession. Entre deux pitreries, il attaque régulièrement avec son Mulldrifter, et rapidement Stéphane est à 5. Olivier attaque alors avec tout, et ses créatures sont massacrées par celles de Stéphane, mais il rétabli l'équilibre avec une Wrath of God (Colère de Dieu), tuant le Mutavalut animé afin de bloquer.
+![](https://i.ormos.uk/52/f8/52f8ae839b446d687a76a6fa60803f0b57798a90b423742e8b7d79007d001f5e.jpg)
+
+Et tandis que Stéphane compte de son doigt les blessures qu'il peut infliger, Olivier essaye alors de lui attraper, faisant semblant d'y voir une tentative de concession. Entre deux pitreries, il attaque régulièrement avec son Mulldrifter, et rapidement Stéphane est à 5. Olivier attaque alors avec tout, et ses créatures sont massacrées par celles de Stéphane, mais il rétabli l'équilibre avec une Wrath of God (Colère de Dieu), tuant le Mutavalut animé afin de bloquer.
 
 Lorsqu'Olivier transmute Tolaria West pour un Pact of Negation, Stéphane sait qu'il ne pourra plus rien jouer avant de mourir sur les ouvriers, et concède.
 

@@ -385,7 +385,9 @@ render_recovery:
 
 Ah... La France...
 
-![Jeroen Remie - Gangsta Style!](http://www.wizards.com/sideboard/images/gplyo03/jeroen_remie_200w.jpg)Getting up early. Well, not too early, since some of our travel companions knocked on our door this morning in an attempt to wake us up.
+![Jeroen Remie - Gangsta Style!](http://www.wizards.com/sideboard/images/gplyo03/jeroen_remie_200w.jpg)
+
+Getting up early. Well, not too early, since some of our travel companions knocked on our door this morning in an attempt to wake us up.
 
 Getting breakfast. Well, I got some cookies from my best friend; that'll do for breakfast for the next few hours.
 

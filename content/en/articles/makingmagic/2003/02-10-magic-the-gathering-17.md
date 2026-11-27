@@ -61,7 +61,9 @@ archive_source:
   sha256: 141c82b0a91a657c86c35f3c5804dc0293bf4f7dba39331f6c446d0950671f17
 render_recovery: []
 ---
-![Skaff](https://i.ormos.uk/5b/8a/5b8a434fb81621e201e55adbb9341772d3794bee0d3bc7d63e6241c51ae3f62c.jpg)You try to leave but Skaff segues from this light argument into a more serious discussion on a topic that you and Skaff have disagreed upon for some time.
+![Skaff](https://i.ormos.uk/5b/8a/5b8a434fb81621e201e55adbb9341772d3794bee0d3bc7d63e6241c51ae3f62c.jpg)
+
+You try to leave but Skaff segues from this light argument into a more serious discussion on a topic that you and Skaff have disagreed upon for some time.
 
  **[Stay and listen.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=50)  
 [Politely try to leave again.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=51)**

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Yaro Starak*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm12pic1.jpg)Kiyoshi Sasanuma was on top of the Swiss when he met Kazuyuki Momose in the twelfth round. Kazuyuki Momose was in third place. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm12pic1.jpg)
+
+Kiyoshi Sasanuma was on top of the Swiss when he met Kazuyuki Momose in the twelfth round. Kazuyuki Momose was in third place. 
 
 **Game One** 
 
@@ -58,7 +60,9 @@ Game Result: Kiyoshi Won
 
 **Game Two** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm12pic2.jpg)The second game's early moments featured a third turn Lightbringer and a fourth turn Charmed Griffon on Kazuyuki's side of the table. Kiyoshi attempted to play a Hunted Wumpus and a Blaster Mage, but they are countered by a well placed Daze and Counterspell respectively. Kiyoshi managed to drop a Scoria Cat without it being countered, which left only the Charmed Griffin to deal with. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm12pic2.jpg)
+
+The second game's early moments featured a third turn Lightbringer and a fourth turn Charmed Griffon on Kazuyuki's side of the table. Kiyoshi attempted to play a Hunted Wumpus and a Blaster Mage, but they are countered by a well placed Daze and Counterspell respectively. Kiyoshi managed to drop a Scoria Cat without it being countered, which left only the Charmed Griffin to deal with. 
 
 Latulla came to play for Kiyoshi, which was used to take down the Griffon. Unfortunately for Kiyoshi the damage had already been done. During the next two turns Kazuyuki played a Cloudskate, Blockade Runner and Rishadan Airship, which was just too much flying for Kiyoshi to deal with. 
 
@@ -66,7 +70,9 @@ Game Result: Kazuyuki Won
 
 **Game Three** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm12pic3.jpg)Kazuyuki dropped a first turn Seal of Removal followed by Defiant Falcon and Trenching Steed. Kiyoshi opened with a second turn Pygmy Razorback. Kazuyuki followed up with a Lightbringer and started the beatdown with his Steed and Falcon. Next Kiyoshi attempted to play a Whip Sergeant, but Kazuyuki was quick to Counterspell it. This left the path open for Latulla to be safely played. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm12pic3.jpg)
+
+Kazuyuki dropped a first turn Seal of Removal followed by Defiant Falcon and Trenching Steed. Kiyoshi opened with a second turn Pygmy Razorback. Kazuyuki followed up with a Lightbringer and started the beatdown with his Steed and Falcon. Next Kiyoshi attempted to play a Whip Sergeant, but Kazuyuki was quick to Counterspell it. This left the path open for Latulla to be safely played. 
 
 The Seal of Removal and Submerge were used to good effect to keep Latulla inactive for a few turns. This allowed the Trenching Steed, Lighbringer and Defiant Falcon to apply maximum beatdown to Kiyoshi. Finally Latulla becomes active, but after some deep thinking and calculations, Kiyoshi determined that he could not win and conceded the game, and the match. 
 

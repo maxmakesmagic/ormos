@@ -317,7 +317,9 @@ render_recovery:
   - Skullclamp
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/jpnat04/fm17_1.jpg)Hiroshima's Kenji Tsuruma has managed to qualify for the Pro Tour not once, but five times before the age of 18. But he's never made it past day 1 at that stage. At 8-3, he needs to win to stay alive in the tournament. His opponent, Osaka local Teruya Kakumae, has had few major Magic accomplishments of late, but he'd like to change that. Both players are 17 and have yet to graduate high school. Tsuruma brought the much-loved and much-maligned Ravager Affinity to play while Kakumae has a Big Red deck similar to that of Masahiro Kuroda's at PT Osaka.
+![](http://www.wizards.com/sideboard/images/jpnat04/fm17_1.jpg)
+
+Hiroshima's Kenji Tsuruma has managed to qualify for the Pro Tour not once, but five times before the age of 18. But he's never made it past day 1 at that stage. At 8-3, he needs to win to stay alive in the tournament. His opponent, Osaka local Teruya Kakumae, has had few major Magic accomplishments of late, but he'd like to change that. Both players are 17 and have yet to graduate high school. Tsuruma brought the much-loved and much-maligned Ravager Affinity to play while Kakumae has a Big Red deck similar to that of Masahiro Kuroda's at PT Osaka.
 
 After a lengthy deck check, the players' decks were returned to them and the game started. Tsuruma won the die roll and went first after taking a mulligan. He led off with a Seat of the Synod and a Chromatic Sphere. Kakumae played a Blinkmoth Nexus. Tsuruma followed by sacrificing the Chromatic Sphere for black mana and playing a Disciple of the Vault. Kakumae could only play a Talisman of Impulse, and passed the turn. Tsuruma was still stuck at a single land, attacked with the Disciple, and played a Pyrite Spellbomb. Kakumae merely dropped a land on turn 3, and Tsuruma could do little more than play another Pyrite Spellbomb. 
 

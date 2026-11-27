@@ -727,7 +727,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/5a/93/5a933dc26ddf8acf407f0a2351aee89cf30db7094f0e653075a2c01226ed9d45.jpg)JB Smith is a Virginia area player who frequents the Dream Wizards PTQs in that neck of the woods. He was undefeated to this point--the hard way. He had no byes. His opponent this round was also undefeated without the benefit of byes. Kate Stavola is a former Wizards of the Coast employee and current fiancée of one Patrick Sullivan. Patrick was sitting just to her left in a match-up with Ken Krouner. It was perhaps the first side-by-side match-up of engaged/married players in feature match history.
+![](https://i.ormos.uk/5a/93/5a933dc26ddf8acf407f0a2351aee89cf30db7094f0e653075a2c01226ed9d45.jpg)
+
+JB Smith is a Virginia area player who frequents the Dream Wizards PTQs in that neck of the woods. He was undefeated to this point--the hard way. He had no byes. His opponent this round was also undefeated without the benefit of byes. Kate Stavola is a former Wizards of the Coast employee and current fiancée of one Patrick Sullivan. Patrick was sitting just to her left in a match-up with Ken Krouner. It was perhaps the first side-by-side match-up of engaged/married players in feature match history.
 
 Kate is among the best of the game's woefully small number of female players but she would hesitate to put herself at that top of that list. In her mind Melissa Del Toro holds the title. The competitive spirit that drives her also bristled at the sexist distinction. She was faring better than her betrothed who had one loss to this point--and he had the benefit of a three round pass.
 

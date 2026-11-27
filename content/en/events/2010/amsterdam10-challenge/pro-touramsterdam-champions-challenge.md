@@ -249,7 +249,9 @@ The following Pro Tour Hall of Famers and members of Wizards of the Coast R&D wi
 
 ### Mark Gottlieb, Advanced Developer, **Magic** R&D
 
-![](http://www.wizards.com/mtg/images/daily/events/ptams10/cc_gottlieb.jpg)I am, rather inexplicably, the newest, freshest face on the **Magic** Development team. Previously, I served as the **Magic** Rules Manager for all sets from *Guildpact* through the *Magic 2011* Core Set. I was also on the design teams of *Dissension*, *Future Sight*, *Shadowmoor*, *Conflux*, *Alara Reborn*, and *Scars of Mirrodin*, was the lead designer of the upcoming *Mirrodin Besieged*, was a member of the *Ravnica* development team, and led the development of *Masters Edition II*.
+![](http://www.wizards.com/mtg/images/daily/events/ptams10/cc_gottlieb.jpg)
+
+I am, rather inexplicably, the newest, freshest face on the **Magic** Development team. Previously, I served as the **Magic** Rules Manager for all sets from *Guildpact* through the *Magic 2011* Core Set. I was also on the design teams of *Dissension*, *Future Sight*, *Shadowmoor*, *Conflux*, *Alara Reborn*, and *Scars of Mirrodin*, was the lead designer of the upcoming *Mirrodin Besieged*, was a member of the *Ravnica* development team, and led the development of *Masters Edition II*.
 
 Cards I've designed include Erratic Explosion, Dimir Doppelganger, Warp World, Swans of Bryn Argoll, Scapeshift, Path to Exile, Dragon Broodmother, Sovereigns of Lost Alara, Progenitus, and Eldrazi Monument.
 
@@ -259,7 +261,9 @@ I joined Wizards of the Coast in 2000. An MIT graduate, I enjoy the constant opp
 
 ### Dave Guskin, Advanced Developer, **Magic** Digital R&D
 
-![](http://www.wizards.com/mtg/images/daily/events/ptams10/cc_guskin.jpg)Contrary to popular belief, **Magic** R&D is not all about the cards! As part of a new **Magic** Digital team within R&D, I hold brainstorms, coordinate projects and do playtesting / game design / game development for a number of digital products – some that you know and love like **Magic Online** or *Duels of the Planeswalkers*, and some new ones on the horizon!
+![](http://www.wizards.com/mtg/images/daily/events/ptams10/cc_guskin.jpg)
+
+Contrary to popular belief, **Magic** R&D is not all about the cards! As part of a new **Magic** Digital team within R&D, I hold brainstorms, coordinate projects and do playtesting / game design / game development for a number of digital products – some that you know and love like **Magic Online** or *Duels of the Planeswalkers*, and some new ones on the horizon!
 
 I've worked on many **Magic** Design and Development teams, including *Alara Reborn*, *Planechase, Archenemy,* *Magic 2011*, "Action" (the third set of *Scars of Mirrodin* block) and "Roll" (the third set of *"Shake"* block). In my previous role as a web developer, I also helped create Gatherer and did a bunch of work prototyping Facebook games.
 

@@ -145,7 +145,9 @@ Yes, even if it has haste. But if you kept your seat and suspended Wheel of Fate
 
 Now that you *have* everyone's attention, whatever in the world will you do with it? Which brings us to the second gift. The good thing about the second gift is, it's really a gift for you.
 
-![Gale_Force](https://i.ormos.uk/03/6f/036f5816cbfeca7bf7ad06655e9fba48d573c137184b8bd093b8d4db560ffda3.jpg)**The second gift, the *reason*, is all about force.** Let's talk incentives and motivations here. It's turn 2 and someone just told you you're going to lose your hand and draw seven new cards… in four turns. What do you do?
+![Gale_Force](https://i.ormos.uk/03/6f/036f5816cbfeca7bf7ad06655e9fba48d573c137184b8bd093b8d4db560ffda3.jpg)
+
+**The second gift, the *reason*, is all about force.** Let's talk incentives and motivations here. It's turn 2 and someone just told you you're going to lose your hand and draw seven new cards… in four turns. What do you do?
 
 Nine times out of ten, you're going to play out as much of your hand as possible and draw seven cards.
 
@@ -161,7 +163,9 @@ No matter which of the three scenarios you experience, you cannot deny that they
 
 Note that an early Wheel of Fate is much better than a late one. Why is this? Earlier on, people have more cards they'll want to play out. You'll see a bigger rush to the board, with more interesting results. Later on in the game, there's not much of a signal to send (beyond the card-drawing, which is certainly nice). No one will play very much out, since they're all holding extra lands anyway. Cards and action… signal and reason… force and mass.
 
-![Need_for_Speed](https://i.ormos.uk/a4/d3/a4d33f08421fa8c8e5495d4622e9b290fed510a75e34d8c99a956a3a562e2393.jpg)**The third gift, the *countdown*, is all about speed.** In this case, a pretty slow speed. Going back to my "animal elements" of multiplayer, Wheel of Fate isn't exactly what you'd call a "spider" card. It's a "gorilla" card with some "plankton" mixed in. But regardless of what animals we list, the bottom line is that you aren't surprising anyone with this card. You're not trying to. You're trying to set up a slow, methodical countdown.
+![Need_for_Speed](https://i.ormos.uk/a4/d3/a4d33f08421fa8c8e5495d4622e9b290fed510a75e34d8c99a956a3a562e2393.jpg)
+
+**The third gift, the *countdown*, is all about speed.** In this case, a pretty slow speed. Going back to my "animal elements" of multiplayer, Wheel of Fate isn't exactly what you'd call a "spider" card. It's a "gorilla" card with some "plankton" mixed in. But regardless of what animals we list, the bottom line is that you aren't surprising anyone with this card. You're not trying to. You're trying to set up a slow, methodical countdown.
 
 Why would you do this? Because in **Magic**, knowledge is power. Opponents holding back spells limits the information you have. Opponents with all their cards on the board (or better yet, in their graveyards) gives you all the information you need.
 

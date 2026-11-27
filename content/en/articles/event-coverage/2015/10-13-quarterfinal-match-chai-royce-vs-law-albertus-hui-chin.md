@@ -53,7 +53,9 @@ render_recovery:
 ---
 Do these two players really need any introduction? Ever since Royce Chai finished in the Top 16 of the 1999 World Championships, he's always been accepted as one of the best that Singapore has to offer, proving that more recently with a Top 8 finish at GP- Sydney and the 2001 APAC Championships. Albertus Law is a more recent star, having finished Top 16 at Pro Tour- Tokyo, and then being the third APAC player to break a Pro Tour Top 8 at Pro Tour- Barcelona. Since then, much of the Sideboard spotlight has been shining down on him. This is Law's second Top 8 finish in three Grand Prixes. The only time he has not made Top 8, he instead finished 11th place. Not too shabby, eh?
 
-![](https://i.ormos.uk/77/72/7772d0be31740f73fe2e7dd28d6888a00b9a33a9077897fc2fa9df99fac7c389.jpg)Law is playing his version of the Counter-Trench deck that first jumped on the tournament scene with Ben Seck's Top 8 finish at the Worlds PTQs, and has since then earned Itaru Ishida the championship prize in the largest Grand Prix event ever held. One notable addition in Law's deck is the inclusion of one maindeck Obliterate. Chai is using his rather unorthodox variant on David Price's 'Monkey, May I?' deck, using no Excludes and four Lay of the Land. Such an alteration cannot be terribly wrong, as shown by Royce's perfect 7-0 finish by the end of Day 1.
+![](https://i.ormos.uk/77/72/7772d0be31740f73fe2e7dd28d6888a00b9a33a9077897fc2fa9df99fac7c389.jpg)
+
+Law is playing his version of the Counter-Trench deck that first jumped on the tournament scene with Ben Seck's Top 8 finish at the Worlds PTQs, and has since then earned Itaru Ishida the championship prize in the largest Grand Prix event ever held. One notable addition in Law's deck is the inclusion of one maindeck Obliterate. Chai is using his rather unorthodox variant on David Price's 'Monkey, May I?' deck, using no Excludes and four Lay of the Land. Such an alteration cannot be terribly wrong, as shown by Royce's perfect 7-0 finish by the end of Day 1.
 
 Chai won the die roll, and chose to go first. His opening hand lacked the necessary two-drops which define the format, instead being heavy on land. Law similarly opened another land-heavy hand, but he had the Trenches to go along with it. Both players refused the mulligan.
 
@@ -67,7 +69,9 @@ Chai drew, and paused to think. His hand now held a pair of Urza's Rages. Anothe
 
 Chai 1 - Law 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/920.jpg)Both players instintively reached for their sideboards in preparation for the second game. Law brought in four Gainsays, four Meddling Mages and one Rakavolver, replacing a Goblin Trenches, the Obliterate, a plains and three copies each of Prophetic Bolt and Evasive Action. Chai brought in his four Gainsays, two Tranquilities, and his sideboard Urza's Rage, taking out three Fact or Fiction, a Mystic Snake, a Kavu Titan, a Dodecapod and a Repulse.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/920.jpg)
+
+Both players instintively reached for their sideboards in preparation for the second game. Law brought in four Gainsays, four Meddling Mages and one Rakavolver, replacing a Goblin Trenches, the Obliterate, a plains and three copies each of Prophetic Bolt and Evasive Action. Chai brought in his four Gainsays, two Tranquilities, and his sideboard Urza's Rage, taking out three Fact or Fiction, a Mystic Snake, a Kavu Titan, a Dodecapod and a Repulse.
 
 Law played first, and opened up with no early plays, despite the fact that he had used half of his transformational sideboard. Chai attempted a turn 2 Gaea's Skyfolk, but Law held a Gainsay at the ready. After that, it seemed as though Chai simply ran out of steam, without nothing to show on his third turn. When Chai Iced Law's Island, he drew Disrupt, and his draw step gave him Mystic Snake. It almost seemed as though Royce was now trying to assume the role of the control deck, although in the mind of Mike Flores, that would be suicide.
 
@@ -85,7 +89,9 @@ The Goblins came out marching two-by-two, which forced Chai to play a Mystic Sna
 
 Chai 1 - Law 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/919.jpg)For the final game, both players knew about the several hundred dollar ante match that they were playing, and neither wanted to be the first to mess up. This resulted in minor tweaking of their decks for the deciding game. With the knowledge of Law's Meddling Mages, Chai brought in a Flametongue Kavu from the sideboard and reclaimed his Kavu Titan, taking out his two Tranquilities which he sided in for game 2. Law brought in a single copy of Breath of Darigaaz, taking out an Urza's Rage.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/919.jpg)
+
+For the final game, both players knew about the several hundred dollar ante match that they were playing, and neither wanted to be the first to mess up. This resulted in minor tweaking of their decks for the deciding game. With the knowledge of Law's Meddling Mages, Chai brought in a Flametongue Kavu from the sideboard and reclaimed his Kavu Titan, taking out his two Tranquilities which he sided in for game 2. Law brought in a single copy of Breath of Darigaaz, taking out an Urza's Rage.
 
 Chai chose to play first, and immediately kept his hand. Law wasn't as fortunate, and was forced to take a mulligan. His next hand gave him Coastal Tower and a Mountain as his lands, which doesn't exactly go with the Meddling Mage that was in there as well. Chai came out fast with a turn 2 Blurred Mongoose, while Law topdecked the required island to cast the Meddling Mage, naming Tranquility. He missed by a mile - both of Chai's Tranquilities were in his sideboard. Regardless, Chai really felt like his Mongoose needed to attack, and cleared the way with an Urza's Rage for the Meddling Mage. Law being the incredible lucky guy that he is, topdecked a replacement but still named Tranquility. In the meantime, Chai's Mongoose farm increased by one.
 

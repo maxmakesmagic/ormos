@@ -44,7 +44,9 @@ archive_source:
   sha256: 4079148dff60153ad2a424278541cd3c2d866512767627d414b882d592821121
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a913.jpg)This match-up sees two control decks facing off. Marco has a [Psychatog](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) deck and Sam has the [Awakening](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Awakening) deck which was used by some members of Team Punisher at the Pro Tour in Houston. It's an incredibly favorable match for the German.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a913.jpg)
+
+This match-up sees two control decks facing off. Marco has a [Psychatog](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) deck and Sam has the [Awakening](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Awakening) deck which was used by some members of Team Punisher at the Pro Tour in Houston. It's an incredibly favorable match for the German.
 
 ### Game 1
 
@@ -56,7 +58,9 @@ Marco Blume 1 – Sam Gomersall
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a915.jpg)Sam had to take a mulligan going first, and stalled on two lands for a turn. Although he then managed to [Intuition](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Intuition) for [Accumulated Knowledge](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Accumulated+Knowledge), Blume had a [Counterspell](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell). Meanwhile the German was applying the one point beatdown with a [Psychatog](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a915.jpg)
+
+Sam had to take a mulligan going first, and stalled on two lands for a turn. Although he then managed to [Intuition](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Intuition) for [Accumulated Knowledge](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Accumulated+Knowledge), Blume had a [Counterspell](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell). Meanwhile the German was applying the one point beatdown with a [Psychatog](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog).
 
 Marco played his own Accumulate for four, then [Intuition](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Intuition)ed for three more. The Englishman had to [Intuition](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Intuition) for [Moment's Peace](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace) in the hope that Marco didn't have a [Counterspell](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell), but unsurprisingly the German's fifteen card hand did have one.
 

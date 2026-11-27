@@ -54,7 +54,9 @@ Kuo posed a serious problem to his opponent when he cast Planeswalker's Scorn a 
 
 Tamber lost a couple of smaller creatures he already had in play while waiting to draw his fifth mana. When he finally did that, he was able to begin playing creatures that would not automatically die to Scorn. Phyrexian Bloodstock and a Vodalian Zombie made their way into play, but Scorn was not the only removal spell in Kuo's arsenal. He sacrificed two of his lands to remove both creatures with Magma Burst. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPKAO01/a909.jpg)Although Kuo enjoyed total control of the table for many turns, he was unable to take advantage of it at all. His turns were spent trying to use Planeswalker's Scorn, rather than getting some attackers into play. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPKAO01/a909.jpg)
+
+Although Kuo enjoyed total control of the table for many turns, he was unable to take advantage of it at all. His turns were spent trying to use Planeswalker's Scorn, rather than getting some attackers into play. 
 
 Once the Scorn was no longer useful (Tamber played out all of his creatures that cost more than one mana), Tamber was able to quickly regain the advantage. He cast monstrosities such as Andradite Leech and Marsh Crocodile. Several turns later the game was over. 
 
@@ -68,7 +70,9 @@ Things were looking up for Tamber as he cast several more creatures - but quickl
 
 The situation looked grim for Tamber. He was at five life with only a Volcanic Imp in play. Kuo was at 20 life with a Verduran Emissary in play, and the card Tamber just drew was a Plague Spitter. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPKAO01/a908.jpg)Tamber took some time to think about his play. Eventually he decided that taking one per turn was better than taking two on the following turn, then simply hoping to top-deck. He cast the Plague Spitter, and attacked his opponent down to 18. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPKAO01/a908.jpg)
+
+Tamber took some time to think about his play. Eventually he decided that taking one per turn was better than taking two on the following turn, then simply hoping to top-deck. He cast the Plague Spitter, and attacked his opponent down to 18. 
 
 For the next several turns, Kuo patiently took the damage from Volcanic Imp, while letting Plague Spitter do his job for him. Down to three life, Tamber drew and cast Rainbow Crow. It now looked like he might at least have a chance at winning the damage race. 
 

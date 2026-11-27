@@ -114,7 +114,9 @@ render_recovery:
 
 Malherbaud won the toss and decided to play but a brief pause was caused by Eskeland who asked to change sides of the table so that he could draw from his right hand side. A sacland followed by Duress from the Frenchman showed four creatures, two lands and two spells from which he took Quiet Speculation.
 
-![](https://i.ormos.uk/ad/71/ad7153d302216be28d814c86b6b02737926369820a96f442949b66b863700c19.jpg)Turn two Mongrel from Eskeland was followed by a Buried Alive for Anger, Arcanis and Phantom Nishoba by Malherbaud. After a Mongrel attack a second dog hit the table but no land was forthcoming. Malherbaud did nothing but lay a land so Eskeland continued the early beatdown taking the Frenchman to thirteen but still couldn't find a third land.
+![](https://i.ormos.uk/ad/71/ad7153d302216be28d814c86b6b02737926369820a96f442949b66b863700c19.jpg)
+
+Turn two Mongrel from Eskeland was followed by a Buried Alive for Anger, Arcanis and Phantom Nishoba by Malherbaud. After a Mongrel attack a second dog hit the table but no land was forthcoming. Malherbaud did nothing but lay a land so Eskeland continued the early beatdown taking the Frenchman to thirteen but still couldn't find a third land.
 
 Doomed Necromancer entered play hasted by the Anger in the graveyard so it immediately sacrificed itself to produce a hasted Phantom Nishoba which managed a fourteen point life swing when it attacked. The life totals were now 13 – 20 in the Frenchman's favor.
 
@@ -124,7 +126,9 @@ Malherbaud 1 – Eskeland 0
 
 ### Game 2
 
-![](https://i.ormos.uk/ec/43/ec436ec6da1abbb25e915fe21240a08876c6ca90f722c27c9b44c26e58654e67.jpg)Both players sideboarded and Eskeland decided to play first. Both players kept their opening hands and Eskeland went for the aggro Basking Rootwalla start. Malherbaud duplicated his Game 1 start with Bloodstained Mire sacrificed for a Swamp which in turn was used to cast a Duress taking Quiet Speculation. Turn two and Malherbaud decided to Burning Wish for Zombify. Eskeland got a Compost into play but Last Rites to stock the Graveyard plus the Zombify put Akroma into play and a couple of hits ended the game.
+![](https://i.ormos.uk/ec/43/ec436ec6da1abbb25e915fe21240a08876c6ca90f722c27c9b44c26e58654e67.jpg)
+
+Both players sideboarded and Eskeland decided to play first. Both players kept their opening hands and Eskeland went for the aggro Basking Rootwalla start. Malherbaud duplicated his Game 1 start with Bloodstained Mire sacrificed for a Swamp which in turn was used to cast a Duress taking Quiet Speculation. Turn two and Malherbaud decided to Burning Wish for Zombify. Eskeland got a Compost into play but Last Rites to stock the Graveyard plus the Zombify put Akroma into play and a couple of hits ended the game.
 
 Malherbaud 2 – Eskeland 0
 
@@ -140,7 +144,9 @@ Malherbaud 2 – Eskeland 1
 
 ### Game 4
 
-![](https://i.ormos.uk/88/f3/88f3cd16c6054533cea280182c0164630ed304cb1d9f3d94340f623c09751c0f.jpg)Malherbaud decided to play first and both players kept their opening hands. After another turn one Duress the players discuss the odds of doing it eight times in a row as the Frenchman had managed so far in the top eight. Malherbaud removed a Counterspell then after only a land from Eskeland casts Entomb for Akroma on turn two.
+![](https://i.ormos.uk/88/f3/88f3cd16c6054533cea280182c0164630ed304cb1d9f3d94340f623c09751c0f.jpg)
+
+Malherbaud decided to play first and both players kept their opening hands. After another turn one Duress the players discuss the odds of doing it eight times in a row as the Frenchman had managed so far in the top eight. Malherbaud removed a Counterspell then after only a land from Eskeland casts Entomb for Akroma on turn two.
 
 Eskeland cast Quiet Speculation for Roar of the Wurm, Krosan Reclamation and Deep Analysis. Malherbaud summoned a Doomed Necromancer and passed and then Eskeland flashed back a Deep Analysis. Malherbaud cast a second Necromancer and attacks with the first. During the end of turn step Eskeland falls to fourteen life by using his City of Brass to cast Krosan Reclamation from the graveyard which returned Akroma to his opponents deck. He then cast Phantom Centaur next turn to prevent any more cheap shots from Malherbaud's Necromancers but a last Rites for three sent Anger and Arcanis to the Frenchman's graveyard and a Counterspell, Circular Logic and a Turbulent Dreams to the Norwegian's.
 

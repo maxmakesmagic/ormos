@@ -703,7 +703,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptsea04/dr1_1.jpg)When I sat down with Phoenix Foundation, the first thing I noticed was how excited Marco Blume was. While Kai Budde and Dirk Baberowski sat calmly on the other side of the table, Marco seemed like a kid in a candy store as he waited to open the Sealed Decks.
+![](http://www.wizards.com/sideboard/images/ptsea04/dr1_1.jpg)
+
+When I sat down with Phoenix Foundation, the first thing I noticed was how excited Marco Blume was. While Kai Budde and Dirk Baberowski sat calmly on the other side of the table, Marco seemed like a kid in a candy store as he waited to open the Sealed Decks.
 
 Two Pro Tour wins and a Top 4 in the past three seasons gave Phoenix Foundation a lot to be excited about. Bill Clinton was President of the United States the last time Phoenix Foundation was not in the Top 4 of a Team Pro Tour.
 

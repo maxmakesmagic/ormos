@@ -86,7 +86,9 @@ render_recovery:
   - Dive Bomber
   occurrences: 56
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a847.jpg)Craig Krempals is a Jersey boy making his first top 8 at a premiere event. As a member of Team TOGIT, he recently placed ninth at Pro Tour Boston, which was his first Pro Tour. He was obviously nervous, but his deck was very good for the matchup. It was a standard blue/white deck, featuring clerics to hold the ground while fliers take the game in the air. Craig's deck, though, also splashed red for two copies of Lavamancer's Skill and a Solar Blast, solving the standard blue/white problem of not being able to handle Sparksmith. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a847.jpg)
+
+Craig Krempals is a Jersey boy making his first top 8 at a premiere event. As a member of Team TOGIT, he recently placed ninth at Pro Tour Boston, which was his first Pro Tour. He was obviously nervous, but his deck was very good for the matchup. It was a standard blue/white deck, featuring clerics to hold the ground while fliers take the game in the air. Craig's deck, though, also splashed red for two copies of Lavamancer's Skill and a Solar Blast, solving the standard blue/white problem of not being able to handle Sparksmith. 
 
 Shaun Doran is a player from Rochester, New York. His finish here has qualified him for his first Pro Tour, but he is not eligible for the amateur prize. His 32nd place finish at GP Cleveland netted him his only pro point, eliminating his amateur status. Had his tiebreakers been slightly worse there, he would have been eligible for more than enough money to compensate for not winning the $250 that came from his finish at Cleveland. His deck is also blue/white. He has a Riptide Replicator to churn out men to go along with the standard complement of fliers and ground stall creatures.
 
@@ -110,7 +112,9 @@ Krempals – 1, Doran – 0
 
 Shaun chose to play game 2, and played nothing until turn three, when he summoned Aphetto Grifter. Craig had a turn three Morph, and he had all three colors of land in play when he cast it. 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a855.jpg)Shaun's turn four saw him summon a Gustcloak Skirmisher. The three toughness flier is huge in the matchup, as it is able to block and kill most of Craig's fliers and live to tell the tale. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a855.jpg)
+
+Shaun's turn four saw him summon a Gustcloak Skirmisher. The three toughness flier is huge in the matchup, as it is able to block and kill most of Craig's fliers and live to tell the tale. 
 
 The Skirmisher was put on defense by Craig's Mistform Shrieker and a second Morph. Shaun chose to Pacify the second Morph, which Craig unmorphed at end of turn to be Aphetto Alchemist.
 
@@ -132,7 +136,9 @@ Krempals – 1, Doran – 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a857.jpg)"In Game 1, you smash your opponent. In Game 2, your opponent smashes you. In Game 3 someone gets mana screwed." - Tom Guevin
+![](http://www.wizards.com/sideboard/images/gpphi02/a857.jpg)
+
+"In Game 1, you smash your opponent. In Game 2, your opponent smashes you. In Game 3 someone gets mana screwed." - Tom Guevin
 
 This quote sums up the match perfectly. Craig chose to play and keep his opening hand of Secluded Steppe, Plains, and five good spells. He discarded three timed before finally drawing a third land. That land was also a Secluded Steppe, possibly the worst land he could have drawn in that position. Shaun, though, came out quickly with Aphetto Grifter, Fleeting Aven, and Dive Bomber. He waited until he had seven lands in play to cast Gustcloak Skirmisher, advertising a Complicate, but it didn't even matter as he was able to Choking Tethers away Craig's weak defense and take the match.
 

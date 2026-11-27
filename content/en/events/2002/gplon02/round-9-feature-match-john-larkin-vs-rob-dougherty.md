@@ -89,7 +89,9 @@ render_recovery:
   - Centaur Garden
   occurrences: 78
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/937.jpg)It’s day two and both these players are in with a definite shot of the ever-elusive top 8. John Larkin, hot off a brilliant performance at Worlds, is playing UB Braids, the deck that did him so well in Sydney. Rob Dougherty, former owner of YMG, is playing Quiet Speculation, the most common deck in the field.
+![](https://www.wizards.com/sideboard/images/gplon02/937.jpg)
+
+It’s day two and both these players are in with a definite shot of the ever-elusive top 8. John Larkin, hot off a brilliant performance at Worlds, is playing UB Braids, the deck that did him so well in Sydney. Rob Dougherty, former owner of YMG, is playing Quiet Speculation, the most common deck in the field.
 
 After a very lengthy shuffling period and an even longer wait whilst the judges finished the deck check, the game got underway. Rob opted to play first and mulliganed his no-land hand, he stayed at six with 2 Island, Forest, Werebear, Basking Rootwalla and a Roar of the Wurm. John was content with his hand of 2 Swamp, 2 Braids, Cabal Minion, 2 Nantuko Shade and a Shadowmage Infiltrator.
 

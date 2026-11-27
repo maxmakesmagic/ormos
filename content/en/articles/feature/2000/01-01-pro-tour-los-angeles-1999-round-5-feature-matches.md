@@ -59,7 +59,9 @@ David Price dev. David Bachman, 2-0
 
 Brian Weissman (USA) vs. Lukas Ladra (Czech Republic)
 
-![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/FriWeissLadra.jpg)Brian Weissman wasn't automatically qualified for this Pro Tour, and had to play in qualifiers, something he hadn't really thought he would do after he fell off the gravy train. But he played in Grand Prix San Francisco, and qualified, and in the first round of the second draft, he faced off against Lukas Ladra.
+![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/FriWeissLadra.jpg)
+
+Brian Weissman wasn't automatically qualified for this Pro Tour, and had to play in qualifiers, something he hadn't really thought he would do after he fell off the gravy train. But he played in Grand Prix San Francisco, and qualified, and in the first round of the second draft, he faced off against Lukas Ladra.
 
 Weissman won the die roll, and chose to play. His blue and green deck didn't give him a good start, though. Four lands, a Windfall, a Fertile Ground and a Blanchwood Armor isn't exactly what you want to see in your opening hand. Still, Weissman kept his draw, mostly because of the Windfall, which he played in turn three. Discarding three lands and a Blanchwood Armor, he gained two cards and Lukas Ladra had to discard both a Corrupt and a Befoul.
 

@@ -79,7 +79,9 @@ render_recovery:
   - Crested Craghorn
   occurrences: 33
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a959.jpg)Ross and Daoust were among a small handful of players with perfect records to this point. While Daoust has played in a number of Pro Tours and was able to Q for this event on rating, Ross made here through the Saskatchewan Regionals. The same g/r deck had served him well to this point with a 3-0 record but now it all about the draft. Ross does have two Timberwatch Elves AND a Wirewood Symbiote to boot, so he seems to be in a good position against Daoust's U/R deck that is devoid of Lavamancer's Skills—although he did have two Torrent of Fire and a Scornful Egotist.
+![](http://www.wizards.com/sideboard/images/natcan03/a959.jpg)
+
+Ross and Daoust were among a small handful of players with perfect records to this point. While Daoust has played in a number of Pro Tours and was able to Q for this event on rating, Ross made here through the Saskatchewan Regionals. The same g/r deck had served him well to this point with a 3-0 record but now it all about the draft. Ross does have two Timberwatch Elves AND a Wirewood Symbiote to boot, so he seems to be in a good position against Daoust's U/R deck that is devoid of Lavamancer's Skills—although he did have two Torrent of Fire and a Scornful Egotist.
 
 "I knew everybody except you in the draft. Are you the one with the 1900 rating on MODO," asked Daoust. "My friend told me there was a player from Saskatchewan with such a rating."
 
@@ -91,7 +93,9 @@ Daoust opened with a Sledder and Ross came back with the more-impressive-in-batt
 
 Daoust got in for another point and played a face down guy. Ross played a third land and swung into the morph with his 1/1. Fully aware of the TWO Primal Boosts that He assumed were in Ross's deck—he drafted two—Daoust chose not to block. Keeneye Aven perched on Daoust's side of the table before he attacked and took Ross to 15.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a963.jpg)Feeder swung into the Keeneye and Ross did have one his two Boosts in hand but Daoust's morph was a Raven Guild Initiate and he used it to save his bird soldier. Ross fell to 13 from the Sledder and the 1/ 4 and replayed the Keeneye. Ross threatened to get back in the game with a Barkhide Mauler. The Keeneye flew over for two and Daoust tapped out to play a morph and another Sledder—he missed his fifth land drop for the second straight turn. The Mauler jumped into the red zone and there were no volunteers to do the same on the other side of the table and Daoust went to 15. Ross made his second obvious mistake of the match when he tapped out to play Twisted Abomination over another Barkhide Mauler. 
+![](http://www.wizards.com/sideboard/images/natcan03/a963.jpg)
+
+Feeder swung into the Keeneye and Ross did have one his two Boosts in hand but Daoust's morph was a Raven Guild Initiate and he used it to save his bird soldier. Ross fell to 13 from the Sledder and the 1/ 4 and replayed the Keeneye. Ross threatened to get back in the game with a Barkhide Mauler. The Keeneye flew over for two and Daoust tapped out to play a morph and another Sledder—he missed his fifth land drop for the second straight turn. The Mauler jumped into the red zone and there were no volunteers to do the same on the other side of the table and Daoust went to 15. Ross made his second obvious mistake of the match when he tapped out to play Twisted Abomination over another Barkhide Mauler. 
 
 He made matters worse when he blocked the morph—a Scornful Egotist—with the A Bomb and forgot to sacrifice it to the Feeder after Daoust sacrificed a Sledder to kill it. Twisted Abomination is at it best when it is the Abyss. It is not so good as an Expensive Diabolic Edict for goblins. Daoust played a Mistform Dreamer still without a fifth land. The Mauler got in for some more damage and the Mauler that should have been in play the previous turn joined him.
 
@@ -105,7 +109,9 @@ Daoust – 1 Ross – 0
 
 Ross had to mulligan and kept the next six. Daoust kept a one-land hand and made the first play with Goblin Sledder. Ross drew a Swamp for the turn two Carrion Feeder and gave Daoust a decision to make. He could kill the potentially unkillable zombie with a Spark Spray or he could cycle it to in hope of finding his second land. He chose the later option and was rewarded with a Mountain.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a964.jpg)Ross had no turn three play but he did remember to attack with the Feeder. Daoust ripped land number three—an Island and swung with the Sledder and played a Flamewave Invoker. Symbiotic Elf let Ross crack for two with the Feeder and have two bugs on guard duty. There was no land on top for Daoust but he did rip a Shoreline Ranger. First he played another Sledder and attacked with his Flamewave Invoker taking his opponent down to 16. He cycled the Ranger after combat and played his fourth land.
+![](http://www.wizards.com/sideboard/images/natcan03/a964.jpg)
+
+Ross had no turn three play but he did remember to attack with the Feeder. Daoust ripped land number three—an Island and swung with the Sledder and played a Flamewave Invoker. Symbiotic Elf let Ross crack for two with the Feeder and have two bugs on guard duty. There was no land on top for Daoust but he did rip a Shoreline Ranger. First he played another Sledder and attacked with his Flamewave Invoker taking his opponent down to 16. He cycled the Ranger after combat and played his fourth land.
 
 Carrion Feeder got in for two more and the bugs double blocked the Invoker on Daoust's next turn. Sledder saved the Invoker and the bugs made the Feeder a 4/4. I threatened to get much larger when Ross Reaped back his Symbiotic Elf at the end of the turn. He drew a fifth land and played a Barkhide Mauler instead taking the Quebecer down to 11 with his zombie. The Mauler was distracted from blocking a little goblin by the sight of a Crested Craghorn. Ross must have been distracted as well because he forgot to sac his Mauler after damage and just put it I his graveyard.
 

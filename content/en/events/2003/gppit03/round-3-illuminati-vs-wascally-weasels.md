@@ -91,7 +91,9 @@ render_recovery:
   - Celestial Gatekeeper
   occurrences: 40
 ---
-![](http://www.wizards.com/sideboard/images/gppit03/a993.jpg)Round 3 is when all the big-name pro teams enter the event. At the Feature Match area, Justin Gary, Zvi Mowshowitz, and Alex Shvartsman sat down against Eric Taylor, Aaron Breider, and Mark Zadjner. It was Illuminati vs. Wascally Weasels—one of the hottest teams in the world vs. the hottest team of last night. Illuminati, part of the wildly successful Your Move Games empire, have put up back-to-back great finishes at team PT's, whereas the Weasels—from the Michigan-Ontario area—were up until 4:30 last night winning their second bye at the Grand Prix Trial.
+![](http://www.wizards.com/sideboard/images/gppit03/a993.jpg)
+
+Round 3 is when all the big-name pro teams enter the event. At the Feature Match area, Justin Gary, Zvi Mowshowitz, and Alex Shvartsman sat down against Eric Taylor, Aaron Breider, and Mark Zadjner. It was Illuminati vs. Wascally Weasels—one of the hottest teams in the world vs. the hottest team of last night. Illuminati, part of the wildly successful Your Move Games empire, have put up back-to-back great finishes at team PT's, whereas the Weasels—from the Michigan-Ontario area—were up until 4:30 last night winning their second bye at the Grand Prix Trial.
 
 Taylor, one of the grand old man of the game, was showing a little weariness as he shuffled up, and his opponent Justin Gary questioned the decision to play seven rounds just to earn the right to sit out one later on in the day.
 
@@ -99,7 +101,9 @@ Zvi and Breider made it through their pre-game rituals first and the action bega
 
 In the A match, Taylor was showing the three-color special, using landcycling and Sprouting Vines to set up his mana. Gary was with black-red aggro Zombies, and put out a Shepherd of Rot and a Severed Legion—quickly offed with Lingering Death (well, as quickly as something can be offed with Lingering Death, anyway)—before dropping the big daddy Prowling Pangolin. Taylor put out a Berserk Murlodont and then a Treespring Lorian, and was dismayed when he realized that when his Lorian blocked the Pangolin, the Murlodont kept the Pangolin alive. Gary went for the throat with Gluttonous Zombie.
 
-![](https://i.ormos.uk/0c/4b/0c4b48f6b6099d5ad7cfec1dfe3f6d6eaafb8a77a807449a20e751fea82242bc.jpg)Across the table, Shvartsman quickly felt the sting of his own double mulligan, falling in about five turns to Zadjner's red-blue deck. Zvi was doing good work for the Illuminati, however, with a Lightning Rift in addition to his array of monsters.
+![](https://i.ormos.uk/0c/4b/0c4b48f6b6099d5ad7cfec1dfe3f6d6eaafb8a77a807449a20e751fea82242bc.jpg)
+
+Across the table, Shvartsman quickly felt the sting of his own double mulligan, falling in about five turns to Zadjner's red-blue deck. Zvi was doing good work for the Illuminati, however, with a Lightning Rift in addition to his array of monsters.
 
 In game 2 of the C matchup, Zadjner had the awesome draw of turn two Dispersing Shield for Shvartsman's morph, turn three Mistform Wall, and turn-4 Skill to whack the second morph, followed with a Mistform Shrieker. Shvartsman, distraught, untapped and busted the Skill with a Piety Charm and then passed, making Zadjner suspicious. The Canadian animated his Wall and attacked, which proved to be correct as Shvartsman had the Wing Shards. Zadjner then dropped a morph, which ended up being his last spell for a while. He drew land after land, allowing Shvartsman back into the game.
 
@@ -107,7 +111,9 @@ Shvartsman made a huge error when he thought his Aven Liberator morphed for thre
 
 Zvi was up a game against Breider and looking good in game 2. Gary, meanwhile, was facing a very angry Forgotten Ancient and its counter-spreading love.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a992.jpg)Taylor dropped an Elvish Warrior and attacked with a 4/7 Ancient and a 7/7 Berserk Murlodont. Gary tried hanging on by playing a bunch of little creatures, but he was only fueling the fire of Forgotten Ancient. Taylor dropped a Crested Craghorn on his next turn, and that was that. Two matches were now 1-1; only Zvi held any advantage on the scoreboard.
+![](http://www.wizards.com/sideboard/images/gppit03/a992.jpg)
+
+Taylor dropped an Elvish Warrior and attacked with a 4/7 Ancient and a 7/7 Berserk Murlodont. Gary tried hanging on by playing a bunch of little creatures, but he was only fueling the fire of Forgotten Ancient. Taylor dropped a Crested Craghorn on his next turn, and that was that. Two matches were now 1-1; only Zvi held any advantage on the scoreboard.
 
 Trying to seal the match for Illuminati, Shvartsman was pounding on Zadjner with an Essence Sliver backed up with an array of combat tricks. Zadjner was stuck on four lands holding a hand of expensive gas.
 

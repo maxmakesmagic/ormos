@@ -71,7 +71,9 @@ render_recovery:
 
 ### Hyatt Regency Century Plaza
 
-![](https://i.ormos.uk/55/6f/556f131d976b7f6504345ebbc3cc28885d9bcd27272d755657c82dd7c790fe9d.jpg)Get a full rundown of all the happenings at Pro Tour–Hollywood by downloading The Gazeteer! This full-color handout contains public event details, transportation and accomodation tips, and venue information. All files are pdf format.
+![](https://i.ormos.uk/55/6f/556f131d976b7f6504345ebbc3cc28885d9bcd27272d755657c82dd7c790fe9d.jpg)
+
+Get a full rundown of all the happenings at Pro Tour–Hollywood by downloading The Gazeteer! This full-color handout contains public event details, transportation and accomodation tips, and venue information. All files are pdf format.
 
 *   [Page 1](https://media.ormos.uk/a3/cb/a3cbc12ec1c5592fd10b04b77751e4ef544d472aa22b2525f743255ec38be2c2.pdf) | [Page 2](https://media.ormos.uk/86/93/8693c33fd2ad9d896a66be6209cd1be3f968b78afb27696220c369f6ac812457.pdf) | [Page 3](https://media.ormos.uk/d4/09/d409eafe187a62ff4f07ccef8a7c5a583c79b144f084a13a8f9178e0e7b954b5.pdf)
 

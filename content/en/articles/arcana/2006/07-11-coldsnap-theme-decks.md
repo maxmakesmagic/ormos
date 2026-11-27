@@ -86,7 +86,9 @@ render_recovery:
   - Decklist
   occurrences: 4
 ---
-![](https://i.ormos.uk/35/0f/350ff7a25730cf6fdc0c3d64e1a828a5823178144811236adeb85335bdc5b921.jpg)Want to get hip-deep in *Coldsna*p immediately? Check out the *Coldsnap* theme decks, hitting shelves along with booster packs and Fat Packs on [July 21](https://web.archive.org/web/20060711000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/events/releases). 
+![](https://i.ormos.uk/35/0f/350ff7a25730cf6fdc0c3d64e1a828a5823178144811236adeb85335bdc5b921.jpg)
+
+Want to get hip-deep in *Coldsna*p immediately? Check out the *Coldsnap* theme decks, hitting shelves along with booster packs and Fat Packs on [July 21](https://web.archive.org/web/20060711000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/events/releases). 
 
 ### *Ice Age* and *Alliances* cards?!
 

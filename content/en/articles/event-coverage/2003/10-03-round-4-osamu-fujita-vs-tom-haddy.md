@@ -44,7 +44,9 @@ archive_source:
   sha256: c5f36c3e94102457c96fd07677d00d79ce438b90201d23c8dc81d602efaf4965
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsyd03/a982.jpg)Fujita won the toss and elected to play, mulliganing away his first hand. Happy with his next 6, and with Haddy content to play, we began.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsyd03/a982.jpg)
+
+Fujita won the toss and elected to play, mulliganing away his first hand. Happy with his next 6, and with Haddy content to play, we began.
 
 ### Game One
 

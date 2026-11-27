@@ -445,7 +445,9 @@ render_recovery:
   - Inkfathom Divers
   occurrences: 1
 ---
-![](https://i.ormos.uk/60/12/60128e7fb40958d5b6f81eff9746cec45552a7afede9dbb00cc088b7d2e26303.jpg)Masahiko came, he drafted and he conquered, earning himself his fourth Grand Prix title in the process. His blue/white Merfolk deck, sporting no less than three huge AEthersnipes, bounced Player of the Year Race hopeful turned contender Shingou Kurihara out of the finals in two quick games. 
+![](https://i.ormos.uk/60/12/60128e7fb40958d5b6f81eff9746cec45552a7afede9dbb00cc088b7d2e26303.jpg)
+
+Masahiko came, he drafted and he conquered, earning himself his fourth Grand Prix title in the process. His blue/white Merfolk deck, sporting no less than three huge AEthersnipes, bounced Player of the Year Race hopeful turned contender Shingou Kurihara out of the finals in two quick games. 
 
 However, the Player of the Year race is far from over yet, with everyone now preparing their Standard decks for the showdown due to take place in Krakow, Poland next week. You want the news, the tech and the decks of the pros? Keep it locked here at Magicthegathering.com (now would be a good time to set it as your home page, I'm serious) and we'll be sure to keep you informed. I'll see you all in Kitakyuushuu, Japan in two weeks as we follow the build up to the World Championships in December!
 

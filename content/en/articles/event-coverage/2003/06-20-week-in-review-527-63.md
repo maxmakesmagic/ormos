@@ -611,13 +611,17 @@ render_recovery:
 
 ### Alex Shvartsman：ロシアへ愛をこめて
 
-![](http://wizards.com/sideboard/images/pthou02/923.jpg)君は私がロシア語訛りでないことにきっと気付いたかもしれない…それは正解だ。私はAlex Shvartsmanではなく、ロシア語もしゃべらない。グランプリの優勝と、そして彼の新しい店であるKing's Gamesをやりくりするのに忙殺されている為に、AlexはWeek in Reviewのチームから、しばらくの間はずれることになったわけだ（彼にとってはとても必要なことだ）。彼が戻ってくるまでの間、私が新たな真夜中の帝王として代役を果たすことになる。予定ではこんな感じだ：毎週更新する（毎週水曜日）、さらなるインタビューや企画、そして既にみんなが知っているイベントの結果をもっと掘り下げたもの。
+![](http://wizards.com/sideboard/images/pthou02/923.jpg)
+
+君は私がロシア語訛りでないことにきっと気付いたかもしれない…それは正解だ。私はAlex Shvartsmanではなく、ロシア語もしゃべらない。グランプリの優勝と、そして彼の新しい店であるKing's Gamesをやりくりするのに忙殺されている為に、AlexはWeek in Reviewのチームから、しばらくの間はずれることになったわけだ（彼にとってはとても必要なことだ）。彼が戻ってくるまでの間、私が新たな真夜中の帝王として代役を果たすことになる。予定ではこんな感じだ：毎週更新する（毎週水曜日）、さらなるインタビューや企画、そして既にみんなが知っているイベントの結果をもっと掘り下げたもの。
 
 Alexはマジックというゲームにおいてリポートという点で貢献をしていることで知られていて、また良いワインの愛好家としても知られている。彼の栄光の軌跡をさらに広げられるといいんだけどね。ありがとうAlex！
 
 ### グランプリ・ピッツバーグ
 
-![](https://i.ormos.uk/48/ec/48ec05140acddd7d897f51139aa7a5ef0a9400f5365ddd7f8ee92dc1b182c1a4.jpg)東海岸で行われるほとんどのグランプリと同じように、ピッツバーグには多くのプレイヤーが集まった：195チームがトーナメントに参加したのだ。これによって１日目はスイスドロー８回戦となり、２日目に進める最低ラインは６勝２敗となった。ほとんどの北アメリカのプロチームは参加していて、その中にはマスターズ準優勝が記憶に新しい2020（Dave Rood、Elijah Pollock、Steve Wolfman）、去年のディフェンディングチャンピオンで、プロツアー・ロンドンがフロックではないことを証明したいところであるThe Jokas（Kyle Rose、Norman Woods、Eric James）、そしてチーム戦においては常に好成績を残しているIlluminati（Zvi Mowshowitz、Alex Shvartsman、Justin Gary）などがあった。主なところで出場しなかったチームはというと、Bob Maher・Dave Williams・Neil Reeves（Bob'n for Apples）、Gary Talim・Brian Davis・Phil Freneau（Nut Low Alliance）、そしてKenny Hsiung・Geddes Cooper・Jason Opalka（FatHers）といったあたりだ。
+![](https://i.ormos.uk/48/ec/48ec05140acddd7d897f51139aa7a5ef0a9400f5365ddd7f8ee92dc1b182c1a4.jpg)
+
+東海岸で行われるほとんどのグランプリと同じように、ピッツバーグには多くのプレイヤーが集まった：195チームがトーナメントに参加したのだ。これによって１日目はスイスドロー８回戦となり、２日目に進める最低ラインは６勝２敗となった。ほとんどの北アメリカのプロチームは参加していて、その中にはマスターズ準優勝が記憶に新しい2020（Dave Rood、Elijah Pollock、Steve Wolfman）、去年のディフェンディングチャンピオンで、プロツアー・ロンドンがフロックではないことを証明したいところであるThe Jokas（Kyle Rose、Norman Woods、Eric James）、そしてチーム戦においては常に好成績を残しているIlluminati（Zvi Mowshowitz、Alex Shvartsman、Justin Gary）などがあった。主なところで出場しなかったチームはというと、Bob Maher・Dave Williams・Neil Reeves（Bob'n for Apples）、Gary Talim・Brian Davis・Phil Freneau（Nut Low Alliance）、そしてKenny Hsiung・Geddes Cooper・Jason Opalka（FatHers）といったあたりだ。
 
 私自身はといえば、Gary WiseがSARSによって隔離されてしまったということで、彼の代わりにピッツバーグへ赴き、Eugene HarveyとMike Turianのチームに入った。私は彼らの家に泊まったんだけど、そこはまさにゲーマーの住まいといった感じで、欠点といえば「何か知っておかないといけない事は無いのかな？」とお願いしたくなるようなシャワーくらいだったね。Mike、Eugeneとそして私はトーナメントを4勝0敗で滑り出したんだけど、次のデッキでは1勝2敗1分で、2日目には進めなかった。それでもこのトーナメントは同じフォーマットで行われるプロツアー・ボストンの良い練習になった。１日目の喧騒が終わった時点で、限定戦のスペシャリストであるCharlie Gindy率いるフロリダの地元チームProdigyがトップに立ち、それにわずか遅れてSuper-Rad Supernovaが続いた。ベスト20の残りを構成するチームのほとんどは有名どころ（Ubermenschen、Illuminati、Slay Pillage Gerard）だったが、いくつか驚きもあった。E.G.L（Peter Radonjic、Jeff Fung、Terry Tsang）という古のプロツアーからの先駆者であるカナダチームや、The Fun Police（Tim Aten、Mike Aten、John Hunka）という、Star CityのライターであるTim Atenと、かつてのアメリカ選手権準優勝者John Hunkaを擁するチーム、そして悪名高き名前がそろったチームであるNorthern Lights #5（Mike Long、Mike Kryzwicki、Justin Schneide）などだ。2日目ではドラフトがわずか3回戦しか行われないので、この週末に行われる2つのフォーマットでより技術に依存する方がチームの最終順位により少ない影響しか与えないということで、プロプレイヤーの間でちょっとしたフラストレーションを生むことにもなった。このトーナメントのベスト4になったのは、やっとのところで滑り込んだIlluminatiと、1日目8勝0敗ということで2日目をうまく1勝1分で終えたProdigyと、大接戦の上Ubermenschenを破ったNorthern Light #5、そして有望株のフランス系カナダ人チームPhoque Foundationだった。Mike Longの巧妙な心理戦があったにもかかわらずNorthern Light #5がProdigyに敗れ、驚きの大番狂わせとなった。もう一つの接戦では、IlluminatiがPhoque Foundationを敗った。決勝はさながら圧勝劇で、この組み合わせでどちらかといえば捨て駒役だったAlex Shvartsmanがあっさりと2本取るやいなや、彼のチームは勝利に向かって突き進んでいった。おめでとうIlluminati、明らかにこのチームはプロツアー・ボストンにおいて注目すべきトップチームのひとつになるだろう。良いチーム名ということで意見が一致するだろうチームを挙げると「Brock Bottom」「Zangeif, Dhahisiem and Eardle」「I Blame Bung」といったところだろう。私はこれらのチームの名前に関する内部事情を知る事が出来た。Brock Bottomは、Brock Parkerの個人的な旅行が最低（rock-bottom）なものになったということを表しているそうだ。Zangeif, Dhahisiem and Eardleは「ストリートファイター」から取ったもので、チームのメンバーはストリートファイターがとても好きなのだが、しかし彼らはそのキャラクターの名前の綴りを正確に知らないせいでこうなったのだそうだ。Bungという人物は、チーム名「I Blame Bung」の由来となった人物だ。私の調べによれば、こういうことらしい。「Bango、Bungo、BKC、Bungといろんな名前で呼ばれてるけど、本当の名前はByungさ。彼は数学の天才で、料理人を目指してる。かつて彼は寝椅子の中に閉じ込められたことがあってね。」ああ、可哀想なBung！
 
@@ -655,7 +659,9 @@ Alexはマジックというゲームにおいてリポートという点で貢�
 
 ### Gary Wise：SARSじゃあない（今のところは）
 
-![](https://i.ormos.uk/fc/e0/fce0b3f7362720d0a4a6db2bcb52f6c5723a2e944626e42badf6503296f86718.jpg)トロントの「SARS」発生地域である病院を訪れたその後日に、プロプレイヤーであるGary Wiseは自分が約１週間の隔離措置に処せられることを知らされ、グランプリ・ピッツバーグを欠席することになった。
+![](https://i.ormos.uk/fc/e0/fce0b3f7362720d0a4a6db2bcb52f6c5723a2e944626e42badf6503296f86718.jpg)
+
+トロントの「SARS」発生地域である病院を訪れたその後日に、プロプレイヤーであるGary Wiseは自分が約１週間の隔離措置に処せられることを知らされ、グランプリ・ピッツバーグを欠席することになった。
 
 最終的に隔離措置は終わり、正式に --- GaryはSARSにはかかっていないという事になった！「まあなんというか、自分がSARSにかかっていなくて良かったし、プロのマジックという激しい競争をしばらくの間休むことが出来たのは良かったかな。」ありがとうGary、健康に気をつけてね！
 

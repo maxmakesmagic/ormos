@@ -62,7 +62,9 @@ render_recovery:
 ---
 *Editor's note: We incorrectly identified the number of Nationals qualifiers from the Japan events. The tables below reflect the corrected data.*
 
-[![](https://i.ormos.uk/a1/e7/a1e772d5c787c059a068836eafd78ecf61cc71ec16f74a893bf2abcb7bdc7c50.jpg)](https://web.archive.org/web/20080612000000/https://magic.wizards.com/en/events/coverage/2008-regionals)This year we have a wide number of [deck lists and Top 8 data](https://web.archive.org/web/20080612000000/https://magic.wizards.com/en/events/coverage/2008-regionals) from Canada, Japan, and of course the United States to discuss. If the blue and white boxes (below) seem a little strange, remember that all eight participants in one of Canada's Top 8s will get the nod to Nationals, that here in the States only four players get invited per Top 8, and in Japan it’s four in some cases, while in others just two lucky players make the grade (it's variable by attendance). Based on the data I had available, for this article, I broke down the qualifying decks by country, then aggregated them for the long view on Standard.
+[![](https://i.ormos.uk/a1/e7/a1e772d5c787c059a068836eafd78ecf61cc71ec16f74a893bf2abcb7bdc7c50.jpg)](https://web.archive.org/web/20080612000000/https://magic.wizards.com/en/events/coverage/2008-regionals)
+
+This year we have a wide number of [deck lists and Top 8 data](https://web.archive.org/web/20080612000000/https://magic.wizards.com/en/events/coverage/2008-regionals) from Canada, Japan, and of course the United States to discuss. If the blue and white boxes (below) seem a little strange, remember that all eight participants in one of Canada's Top 8s will get the nod to Nationals, that here in the States only four players get invited per Top 8, and in Japan it’s four in some cases, while in others just two lucky players make the grade (it's variable by attendance). Based on the data I had available, for this article, I broke down the qualifying decks by country, then aggregated them for the long view on Standard.
 
 Here they go:
 

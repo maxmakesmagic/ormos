@@ -48,7 +48,9 @@ Each *Homelands* booster pack includes 8 cards to help customize and improve you
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/b6/05/b6053ff782164c1ad617d0b04bc565a45b5b46cc99077efd35d905a1aca67b2a.png)This 1995 expansion features 140 cards and explores the game's setting and initial characters more than any previous expansion.
+![](https://i.ormos.uk/b6/05/b6053ff782164c1ad617d0b04bc565a45b5b46cc99077efd35d905a1aca67b2a.png)
+
+This 1995 expansion features 140 cards and explores the game's setting and initial characters more than any previous expansion.
 
 **Set Name:** *Homelands*  
 **Number of Cards:** 140

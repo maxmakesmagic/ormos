@@ -557,7 +557,9 @@ As I returned to my computer, I walked two players sitting next to each other wh
 
 *by Tim Willoughby*
 
-![](https://i.ormos.uk/c9/ea/c9eac67022e8b0a41a810e10968092b79c922bbb48c963210a496c835cf29d33.jpg)In the Arena in Round 2, of a possible six, there were three Pro Tour Hall of Fame members. In those sorts of circumstances, it was hard for me not to find myself railbirding on Jon Finkel playing against Jelger Wiegersma. Wiegersma, who is well used to island living, sported a deep tan, and was comfortable in the Arena in shorts and a loose t-shirt, with no shoes.
+![](https://i.ormos.uk/c9/ea/c9eac67022e8b0a41a810e10968092b79c922bbb48c963210a496c835cf29d33.jpg)
+
+In the Arena in Round 2, of a possible six, there were three Pro Tour Hall of Fame members. In those sorts of circumstances, it was hard for me not to find myself railbirding on Jon Finkel playing against Jelger Wiegersma. Wiegersma, who is well used to island living, sported a deep tan, and was comfortable in the Arena in shorts and a loose t-shirt, with no shoes.
 
 Finkel admitted that he too liked the island lifestyle, and had been lured to Honolulu as much by the location as by the magical cards.
 

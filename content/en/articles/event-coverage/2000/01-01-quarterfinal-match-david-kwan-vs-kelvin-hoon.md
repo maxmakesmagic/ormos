@@ -44,13 +44,17 @@ archive_source:
   sha256: 0c5a9ba386e0829886c9450f9dd3134d379f58163c32fc6ea6f235a5a2820d62
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/915.jpg)Even though old friends and teammates David Kwan and Kelvin Hoon did not relish the idea of playing one another so soon in the Top 8, there was lots of friendly banter in the air as they shuffled up the decks that had brought them so far. David Kwan was a participant in PT NY 99 and had previously also made money by placing top 8 in the 1999 Singapore Open tournament which was held in conjunction with the APAC championships that year. Slightly newer to the limelight, Kelvin Hoon gained his fame earlier this year by winning the Malaysia open event in Kuala Lumpur, also in conjunction with the APAC Championships.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/915.jpg)
+
+Even though old friends and teammates David Kwan and Kelvin Hoon did not relish the idea of playing one another so soon in the Top 8, there was lots of friendly banter in the air as they shuffled up the decks that had brought them so far. David Kwan was a participant in PT NY 99 and had previously also made money by placing top 8 in the 1999 Singapore Open tournament which was held in conjunction with the APAC championships that year. Slightly newer to the limelight, Kelvin Hoon gained his fame earlier this year by winning the Malaysia open event in Kuala Lumpur, also in conjunction with the APAC Championships.
 
 Kwan was armed with Liquid Tempo, a deck similar in design to Dave Price's "Monkey, May I" which placed 9th in GP Denver while Hoon was playing a R/U/W beatdown deck most noted for it's maindeck Disrupts, which he ran over Absorb, a more common counterspell seen in this archetype.
 
 Winning to die roll which decided who would play first, Kwan brought out the first bear by summoning a Gaea's Skyfolk on turn two, which met a horrible demise by Fire. Kwan passed his third turn with an Exclude in hand hoping to nab some card advantage by countering Hoon's next play, a Goblin Legionnaire, only to have Hoon foil his plan by casting a Disrupt. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/914.jpg)Now on the defensive, Kwan summoned a Blurred Mongoose which was used to trade with the Legionnaire, however his problems were far from over, as Hoon had the beatdown advantage with a Lightning Angel on turn four. With the beatings from the skies beginning to worry him, Kwan tried to retaliate by summoning a kicked up Kavu Titan. Hoon however seemed to have an answer for whatever Kwan could dish out as he laid his 5th land on turn five and cast a Meddling Mage which was chanting so loudly that Kavu Titans could no longer be called to the fore and then followed that up by Repulsing Kwan's lone Titan. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/914.jpg)
+
+Now on the defensive, Kwan summoned a Blurred Mongoose which was used to trade with the Legionnaire, however his problems were far from over, as Hoon had the beatdown advantage with a Lightning Angel on turn four. With the beatings from the skies beginning to worry him, Kwan tried to retaliate by summoning a kicked up Kavu Titan. Hoon however seemed to have an answer for whatever Kwan could dish out as he laid his 5th land on turn five and cast a Meddling Mage which was chanting so loudly that Kavu Titans could no longer be called to the fore and then followed that up by Repulsing Kwan's lone Titan. 
 
 Kwan found his sixth turn a depressing affair as he could not recast the Titan and was facing what seemed to be angry Angel beatings assisted by the annoying little Pikula. He passed the turn and Hoon, seeing that his path to victory seemed open, attacked with both his creatures. Kwan managed to soften the beatings by casting the uncounterable Urza's Rage at Pikula, thus surviving the end of Hoon's turn with nine life left.
 
@@ -68,7 +72,9 @@ Hoon began the servings first by putting the Jungle Barrier on Ice and swinging 
 
 After a turn where Kwan played no spells and Hoon's Knight stared at the Jungle Barrier, the aggressive Hoon made another Knight. Kwan then took that chance to cast a Prophetic Bolt at Hoon's head which brought his opponent to 13 life and nabbed him a Flametongue Kavu, which was ultimately useless versus Hoon's pair of Galina's Knights. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/913.jpg)Kwan then untapped into his own turn where he once again threw a Bolt at Hoon bringing him down to nine. Hoon looked worriedly at his own dwindling life total and decided to press the damage by casting a Repulse on Kwan's Jungle Barrier and then swinging in for damage. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/913.jpg)
+
+Kwan then untapped into his own turn where he once again threw a Bolt at Hoon bringing him down to nine. Hoon looked worriedly at his own dwindling life total and decided to press the damage by casting a Repulse on Kwan's Jungle Barrier and then swinging in for damage. 
 
 With Kwan then at nine life, Hoon made a Meddling Mage that banned Jungle Barriers and thus causing his beatdown lane to once again be open. Kwan reacted the next turn by using the Flametongue Kavu on poor little Pikula and then recasting the wall, which was then tapped by Hoon with the help of some Ice. 
 

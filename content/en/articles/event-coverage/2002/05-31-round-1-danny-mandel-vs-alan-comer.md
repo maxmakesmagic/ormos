@@ -44,7 +44,9 @@ archive_source:
   sha256: 3b3e865e9f6414192b86d7bf18ecbd461309c30b9ea4be9ff38d1fc529c87bcf
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a991.jpg)Your Move Games' Danny Mandel is running a teched-out version of Psychatog with maindeck Duresses and a few Sulfur Vents among the mana base to facilitate faster Upheavals.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a991.jpg)
+
+Your Move Games' Danny Mandel is running a teched-out version of Psychatog with maindeck Duresses and a few Sulfur Vents among the mana base to facilitate faster Upheavals.
 
 Alan Comer, as he promised to his readers, is playing the Desolation Angel deck he tuned in his [Deck Doctor column](https://web.archive.org/web/20020531000000/http://archive.wizards.com/default.asp?x=sideboard/deckclinic/20020410) here on the Sideboard. Mandel does not read Comer's column, however, so he had no idea what was in Comer's deck, and immediately started kicking himself. "I should read it, I know, I know," lamented Mandel.
 
@@ -56,7 +58,9 @@ Comer cast the Verdict on the next turn, and Mandel discarded a land and a Deep 
 
 Comer started drawing the business, getting a Concentrate and a Fact of Fiction to resolve and Gerrard's Verdicting Mandel three more times. Comer couldn't find a Desolation Angel, though, and eventually Mandel drew a Fact or Fiction of his own and netted a Nightscape Familiar and a Duress. The Duress showed Comer to be holding two Wraths and a Plague, but "no way to stop an Upheaval, unfortunately." Mandel took a Plague, but didn't deploy his Familiar.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a993.jpg)After many turns of saying "go," both players had seven cards in hand. Mandel attempted a Duress. Comer didn't want to give him any information, so he responded with a Dromar's Charm. Mandel Counterspelled, but comer had another charm. Mandel didn't fight any more and let comer have his turn.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a993.jpg)
+
+After many turns of saying "go," both players had seven cards in hand. Mandel attempted a Duress. Comer didn't want to give him any information, so he responded with a Dromar's Charm. Mandel Counterspelled, but comer had another charm. Mandel didn't fight any more and let comer have his turn.
 
 Comer figured Mandel was out of permission and went for the kicked Desolation Angel. Mandel had a pair of Circular Logics in his hand, however, and tapped his last three mana to cast one of them. Comer had no back-up, and was forced to allow his Angel to not resolve.
 
@@ -68,7 +72,9 @@ Comer mulliganed in game 2 (he had to do so in game 1 as well), and kept hand of
 
 Comer didn't draw many goodies over the next few turns, and Mandel got out a Psychatog and a Compulsion, the combination of which looked to end Comer quickly. Comer put out a pair of Diamonds and hoped to draw some way to force his Angel through.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a992.jpg)Comer did draw back-to-back Fact or Fictions, which forced Mandel to use up all his countermagic. Mandel Duressed an Alter Reality from Comer's hand (sided in to counter a pair of Gainsays), but Comer got the kicked Desolation Angel to resolve.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a992.jpg)
+
+Comer did draw back-to-back Fact or Fictions, which forced Mandel to use up all his countermagic. Mandel Duressed an Alter Reality from Comer's hand (sided in to counter a pair of Gainsays), but Comer got the kicked Desolation Angel to resolve.
 
 The problem was that Mandel's Psychatog could now kill Comer in one hit thanks to all the land in his graveyard. So Comer was forced to chump block with his Desolation Angel. Mandel laid an Island.
 

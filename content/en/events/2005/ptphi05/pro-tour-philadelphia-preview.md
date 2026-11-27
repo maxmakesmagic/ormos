@@ -80,7 +80,9 @@ render_recovery:
 ---
 The Pro Tour pulls into the 30th Street Station in Philadelphia this Thursday, but before the first card is played, it's time to get the lowdown on the stories, players, cards, and decks you should watch for all weekend, from the LCQ to the finals webcast. 
 
-![](https://i.ormos.uk/7b/d6/7bd6083b4bd39196ca66b708cb41dacbe1215615c8ba81a6a10614ace483f6cf.jpg)The format for the Pro Tour is *Kamigawa* Block Constructed, which means that players this weekend will all be wielding decks made up from only cards contained in the *Champions of Kamigawa* and *Betrayers of Kamigawa* expansions. This will be the first Block Constructed event for this set of cards and it will send out ripples that affect players looking to partake in other Constructed events for the next year-and-a-half. 
+![](https://i.ormos.uk/7b/d6/7bd6083b4bd39196ca66b708cb41dacbe1215615c8ba81a6a10614ace483f6cf.jpg)
+
+The format for the Pro Tour is *Kamigawa* Block Constructed, which means that players this weekend will all be wielding decks made up from only cards contained in the *Champions of Kamigawa* and *Betrayers of Kamigawa* expansions. This will be the first Block Constructed event for this set of cards and it will send out ripples that affect players looking to partake in other Constructed events for the next year-and-a-half. 
 
 The next major Constructed tournaments that will be relevant for us rank-and-file **Magic** players are Regional tournaments. Although by the time my Regionals rolls around the format will also incorporate the upcoming *Saviors of Kamigawa* expansion, this weekend's Block Constructed decks will nonetheless set the stage for the Standard format for months to come. If you look back at the top decks from last year's Block [Pro Tour-Kobe](/en/events/2004/ptkob04/live-coverage-of-2004-pro-tour-kobe), you will see a couple of familiar decks in the Top 8. While the winning Big Red deck hasn't necessarily been popular in Standard, Affinity may have been a factor at your local Standard tournaments over the past year. Kobe was also the first sighting of TwelvePost decks, which are now more commonly known as Tooth and Nail. 
 

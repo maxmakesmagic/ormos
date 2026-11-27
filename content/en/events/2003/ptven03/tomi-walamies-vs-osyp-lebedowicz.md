@@ -484,7 +484,9 @@ render_recovery:
 
 Lebedowicz は 2 ターン目に《稲妻の裂け目/Lightning Rift》を置けなかったが、 3 ターン目の《霊体の地滑り/Astral Slide》でゴブリンを減速しにかかる。
 
-![](https://i.ormos.uk/6e/68/6e68eec7787e054b412d9658a74c5a3509c860882854bb1302592c42a4d6e636.jpg)Walamies は 2 体目の《ゴブリンのそり乗り》《ゴブリンのうすのろ/Goblin Goon》と続け、《ゴブリンのそり乗り》 2 体を《星の嵐/Starstorm》で流されながらも《脅迫するオーガ/Menacing Ogre》と怒涛の大攻勢。
+![](https://i.ormos.uk/6e/68/6e68eec7787e054b412d9658a74c5a3509c860882854bb1302592c42a4d6e636.jpg)
+
+Walamies は 2 体目の《ゴブリンのそり乗り》《ゴブリンのうすのろ/Goblin Goon》と続け、《ゴブリンのそり乗り》 2 体を《星の嵐/Starstorm》で流されながらも《脅迫するオーガ/Menacing Ogre》と怒涛の大攻勢。
 
 だが《霊体の地滑り》の大型クリーチャー処理能力は非常に高い。  
  《ゴブリンのうすのろ》《脅迫するオーガ》が並んでも Lebedowicz にダメージが通らず、しかも 6 ターン目にきっちり《獅子面のタイタン、ジャレス/Jareth， Leonine Titan》が登場。

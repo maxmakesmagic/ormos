@@ -296,7 +296,9 @@ render_recovery:
 
 2 戦目は共にマリガンなく順調な滑り出し、《液化/Liquify》から《飛びかかる虎/Springing Tiger》と行けた黒田の方が有利だと思われる。
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/891.jpg)更に《魂の災い魔/Soul Scourge》を出したところで《沼の漂流物/Bog Wreckage》と共に《逆巻く渦/Churning Eddy》で返されてまた出しても《追い返し/Repel》で戻す完全に黒田ペースで進む。
+![](http://www.wizards.com/sideboard/images/gpfuku02/891.jpg)
+
+更に《魂の災い魔/Soul Scourge》を出したところで《沼の漂流物/Bog Wreckage》と共に《逆巻く渦/Churning Eddy》で返されてまた出しても《追い返し/Repel》で戻す完全に黒田ペースで進む。
 
 だが卓最強と言われる石原のデッキも黙ってはいなかった、最後の決め手となる《操作室/Chamber of Manipulation》をサイドインした《土喰い豚/Petravark》で消し《エイヴンの魚捕り/Aven Fisher》も《集中砲火/Flame Burst》で殺しライフは 2 だがなんとかなりそうな状態までもってきた。
 

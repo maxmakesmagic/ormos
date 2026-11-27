@@ -67,7 +67,9 @@ Stay tuned for more exciting **Magic** novels promotions!
 
 ### Agents of Artifice Fan Art Contest
 
-![](https://i.ormos.uk/47/dc/47dc2cede0cc0176345518aef63217aaf5354e271ef12ec2846260191d79e1b9.jpg)They say a picture’s worth a thousand words. Give us your story and we could end up giving you $2,000!
+![](https://i.ormos.uk/47/dc/47dc2cede0cc0176345518aef63217aaf5354e271ef12ec2846260191d79e1b9.jpg)
+
+They say a picture’s worth a thousand words. Give us your story and we could end up giving you $2,000!
 
 Simply create a color work, either digitally or traditionally, depicting your favorite scene from the book [*Agents of Artifice*](/en/articles/feature/2009/01-15-agents-of-artifice) by Ari Marmell. It can be a comic, a drawing, a painting ... use your imagination – and have fun with it! Plus, there are prizes for second and third place, too!
 

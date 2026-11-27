@@ -171,18 +171,26 @@ Several cards show us how tumultuous Ravnica’s climate can be. What conditions
 
   
 
-![Caustic Rain](https://i.ormos.uk/29/ed/29ed65e4d8246e4d20c59fd5883ee6b45934fa206bb693147206c0c31e879237.jpg)Centuries of Ravnican business—powered in many cases by Izzet boilerworks and other guilds’ foundries—have saturated Ravnica’s atmosphere with all manner of industrial pollution. Smogsteed Riders may take advantage of this fact, but the **Caustic Rain** is a grim result that eats away not just umbrellas but entire districts.
+![Caustic Rain](https://i.ormos.uk/29/ed/29ed65e4d8246e4d20c59fd5883ee6b45934fa206bb693147206c0c31e879237.jpg)
+
+Centuries of Ravnican business—powered in many cases by Izzet boilerworks and other guilds’ foundries—have saturated Ravnica’s atmosphere with all manner of industrial pollution. Smogsteed Riders may take advantage of this fact, but the **Caustic Rain** is a grim result that eats away not just umbrellas but entire districts.
 
   
 
-![Thunderheads](https://i.ormos.uk/68/48/6848caebaa74f418995bbb2fbf3ae6e92865898d9d3662c416240d5ce6c43174.jpg)Izzet ingenuity is responsible for another type of weird weather—and we mean that literally. In the card **Thunderheads**, we see some of the sentries used to protect the entrances to Izzet steam tunnels and laboratories. These floating weirds (hybrid elementals originally invented by Niv-Mizzet, the Firemind) emerge out of nowhere as animated thunderclouds—a sight the weather forecasters would be hard-pressed to predict.
+![Thunderheads](https://i.ormos.uk/68/48/6848caebaa74f418995bbb2fbf3ae6e92865898d9d3662c416240d5ce6c43174.jpg)
+
+Izzet ingenuity is responsible for another type of weird weather—and we mean that literally. In the card **Thunderheads**, we see some of the sentries used to protect the entrances to Izzet steam tunnels and laboratories. These floating weirds (hybrid elementals originally invented by Niv-Mizzet, the Firemind) emerge out of nowhere as animated thunderclouds—a sight the weather forecasters would be hard-pressed to predict.
 
   
 
-![Storm Herd](https://i.ormos.uk/65/04/6504dc470addb6f185b597ae536e12282f701d082963699fee993fd512ea6d28.jpg)Hearing thunder doesn’t necessarily mean Izzet shenanigans, however—it could also mean horsefeathers. Long banished from their wildnerness homes, the herd of wild pegasus depicted in **Storm Herd** now roams Ravnica forever, searching for sky untainted by civilization. They won’t find that, but when they show up, a Ravnican citizen might close up his shop at the first drop of pegasus feathers.
+![Storm Herd](https://i.ormos.uk/65/04/6504dc470addb6f185b597ae536e12282f701d082963699fee993fd512ea6d28.jpg)
+
+Hearing thunder doesn’t necessarily mean Izzet shenanigans, however—it could also mean horsefeathers. Long banished from their wildnerness homes, the herd of wild pegasus depicted in **Storm Herd** now roams Ravnica forever, searching for sky untainted by civilization. They won’t find that, but when they show up, a Ravnican citizen might close up his shop at the first drop of pegasus feathers.
 
   
 
-![Culling Sun](https://i.ormos.uk/6d/96/6d962a91d21e47de61cc210a54f8f80bb9f5740f49d8512803b5ba17069a98a2.jpg "Culling Sun")Ravnica’s weather isn’t even necessarily pleasant when it’s *sunny*. Make sure you have on your SPF-45 when the midday sun rises on an Orzhov holiday: **Culling Sun**. In their religion, the meek shall certainly not inherit *anything*. 
+![Culling Sun](https://i.ormos.uk/6d/96/6d962a91d21e47de61cc210a54f8f80bb9f5740f49d8512803b5ba17069a98a2.jpg "Culling Sun")
+
+Ravnica’s weather isn’t even necessarily pleasant when it’s *sunny*. Make sure you have on your SPF-45 when the midday sun rises on an Orzhov holiday: **Culling Sun**. In their religion, the meek shall certainly not inherit *anything*. 
 
 With all that terrible weather, it’s unsurprising that the plane is covered in buildings. Who in their right mind (Gruul giant-shamans don’t count) would want to be caught *outside?*

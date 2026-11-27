@@ -145,7 +145,9 @@ render_recovery:
   - Wanderguard Sentry
   occurrences: 91
 ---
-![](http://www.wizards.com/sideboard/images/gpkc03/a963.jpg)It’s finally on. The pro players and the winners of the various trials have joined the massed players who have already fought through three rounds.
+![](http://www.wizards.com/sideboard/images/gpkc03/a963.jpg)
+
+It’s finally on. The pro players and the winners of the various trials have joined the massed players who have already fought through three rounds.
 
 Both players are starting their days here in the fourth round. Neil received his three byes from his rating and pro points. Brad earned his three byes last night at the final trial for Kansas City. Brad was here until 4:30am playing for those three byes.
 
@@ -175,7 +177,9 @@ Brad Taulbee 1 – Neil Reeves 0
 
 ### Game Two
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a965.jpg)Brad opened game two with Bonesplitter. “Oh, you got one of those too,” Neil said. Neil could only play a Talisman of Progress on turn two, then follow it up with Spikeshot Goblin.
+![](http://www.wizards.com/sideboard/images/gpkc03/a965.jpg)
+
+Brad opened game two with Bonesplitter. “Oh, you got one of those too,” Neil said. Neil could only play a Talisman of Progress on turn two, then follow it up with Spikeshot Goblin.
 
 Brad placed an Icy Manipulator on the table, an idea which Neil strongly opposed. He blew it off the table almost immediately with Detonate, dealing four damage to Brad in the process.
 
@@ -203,7 +207,9 @@ Brad seemed to be frozen on three lands, and Neil continued to keep one of Brad�
 
 Neil looked to slow down Brad a little further when he cast Regress on his Mountain. It didn’t matter to Brad as he sent the Transfixer into the red zone yet again, this time bringing Neil down to eight life.
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a964.jpg)Neil added a Cobalt Golem to his side of the table, then used all of those artifacts on the table to play Thoughtcast for the bargain basement price of one blue mana, almost Ancestral Recall like. The benefits of the Thoughtcast were not immediately known as Neil was unable to play anything else.
+![](http://www.wizards.com/sideboard/images/gpkc03/a964.jpg)
+
+Neil added a Cobalt Golem to his side of the table, then used all of those artifacts on the table to play Thoughtcast for the bargain basement price of one blue mana, almost Ancestral Recall like. The benefits of the Thoughtcast were not immediately known as Neil was unable to play anything else.
 
 Neil may not have had anything to play right away, but Brad did. He added a Slith Ascendant to his board, further increasing his advantage. The Slith didn’t stay long though as Neil played and then used a Pyrite Spellbomb to clean the table up a little.
 

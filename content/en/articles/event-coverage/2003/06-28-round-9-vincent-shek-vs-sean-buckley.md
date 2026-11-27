@@ -44,7 +44,9 @@ archive_source:
   sha256: 1d4745d2dc2c5d3d6048701679484ff0efe8ddd641c40465a09491b17b3d349e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a747.jpg)This match is pivotal. If Vincent wins, he has a chance at Top 8 tomorrow. If Sean wins, he may or may not make it in. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a747.jpg)
+
+This match is pivotal. If Vincent wins, he has a chance at Top 8 tomorrow. If Sean wins, he may or may not make it in. 
 
 Vincent is from Toronto, and is here with a bunch of his friends. "Hi, Mom," he said before the match. 
 
@@ -66,7 +68,9 @@ Vincent played and sacrificed a [Wooded Foothills](https://web.archive.org/web/2
 
 Sean played a [Plains](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains) – his fifth land of the game! He attacked with the Angel, bringing Vincent to 21. Sean played another [Wrath of God](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God), commenting, "I can't draw more than four lands this game!" Vincent, completely calm and cool, played a [Glory](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory) on his next turn.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a748.jpg)Sean played a face-down morph on his turn and passed to Vincent. Vincent played another [Living Wish](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Wish) and hunted out an [Anger](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anger), then played it. Sean unmorphed an [Exalted Angel](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel), then slammed down his first [Island](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) of the game. But he had no other plays this turn, and just passed to Vincent.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a748.jpg)
+
+Sean played a face-down morph on his turn and passed to Vincent. Vincent played another [Living Wish](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Wish) and hunted out an [Anger](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anger), then played it. Sean unmorphed an [Exalted Angel](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel), then slammed down his first [Island](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) of the game. But he had no other plays this turn, and just passed to Vincent.
 
 "Do you have [Elephant Guide](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Guide)?" Sean asked Vincent. Vincent nodded and showed him the Guide in his hand, and Sean conceded.
 
@@ -85,7 +89,9 @@ Sean played a [Mirari](https://web.archive.org/web/20030628000000/https://gather
 
 "[Memory Lapse](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Lapse)," Sean said, "and I'll cycle [Renewed Faith](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Renewed+Faith)."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a749.jpg)Sean then played an [Exalted Angel](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel) and a [Compulsion](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion), with two mana floating. He cycled away an [Island](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) and passed the turn. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a749.jpg)
+
+Sean then played an [Exalted Angel](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel) and a [Compulsion](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion), with two mana floating. He cycled away an [Island](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) and passed the turn. 
 
 Vincent discarded [Glory](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory) to pump his [Wild Mongrel](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel), then gave his entire team protection from white and swung with the same four creatures as the previous turn. Sean flashed back [Moment's Peace](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace), Vincent cast [Flaring Pain](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flaring+Pain), and Sean had another [Memory Lapse](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Lapse). This time on his turn, Sean attacked for 5 with the [Exalted Angel](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel), bringing Vincent to 14. 
 

@@ -137,7 +137,9 @@ render_recovery:
   - Venomous Vines
   occurrences: 106
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a745.jpg)A victory here will give Baberowski his third Pro Tour Championship, which would put him above Tommi Hovi and Jon Finkel, who each won two. The only man ahead of him in that scenario would be Kai Budde, with an unreal six Pro Tour Championships. As a team Phoenix Foundation has been unstoppable, winning every major tournament they have played in. They have also yet to lose a single draft. 
+![](http://www.wizards.com/sideboard/images/ptbos02/a745.jpg)
+
+A victory here will give Baberowski his third Pro Tour Championship, which would put him above Tommi Hovi and Jon Finkel, who each won two. The only man ahead of him in that scenario would be Kai Budde, with an unreal six Pro Tour Championships. As a team Phoenix Foundation has been unstoppable, winning every major tournament they have played in. They have also yet to lose a single draft. 
 
 ### Game 1
 
@@ -151,7 +153,9 @@ Baberowski- 0 Wolfman- 1
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a744.jpg)Game 2 saw Baberowski summon Barbarian Outcast, and Wolfman once again had a turn three Phantom Tiger. Baberowski played Barbarian Bully, and Wolfman sacrificed his Wreckage to Earth Rift Baberowski's only swamp. This killed the Outcast and provided some surprising tempo advantage. Unhinge caused Wolfman to discard Krosan Constrictor. The Tiger and Bully exchanged attacks across the field, and Wolfman made his board more impressive with Dirty Wererat. Both attacked for five on the following turn, and were joined by Nullmage Advocate. After some thought, Baberowski summoned Wormfang Crab, and Wolfman made the German lose the Bully. He then attacked with everyone, and the Crab blocked the Advocate. It died, and Baberowski took five on the chin to go to four life points. Wolfman was stuck at four lands due in part to his earlier Earth Rift play, and had nothing else.
+![](http://www.wizards.com/sideboard/images/ptbos02/a744.jpg)
+
+Game 2 saw Baberowski summon Barbarian Outcast, and Wolfman once again had a turn three Phantom Tiger. Baberowski played Barbarian Bully, and Wolfman sacrificed his Wreckage to Earth Rift Baberowski's only swamp. This killed the Outcast and provided some surprising tempo advantage. Unhinge caused Wolfman to discard Krosan Constrictor. The Tiger and Bully exchanged attacks across the field, and Wolfman made his board more impressive with Dirty Wererat. Both attacked for five on the following turn, and were joined by Nullmage Advocate. After some thought, Baberowski summoned Wormfang Crab, and Wolfman made the German lose the Bully. He then attacked with everyone, and the Crab blocked the Advocate. It died, and Baberowski took five on the chin to go to four life points. Wolfman was stuck at four lands due in part to his earlier Earth Rift play, and had nothing else.
 
 Balshan Collaborator would have put Baberowski in a more comfortable position, but it died to Ghastly Demise. The following attack brought Baberowski down to two life points, and he played Whispering Shade. Lava Dart killed the Tiger, and Baberowski was stabilized for the time being. He then summoned Boneyard Slasher. Wolfman's Treacherous Werewolf was very dangerous thanks to threshold, and it attacked along with the 4/5 Wererat on the following turn. The Shade chump blocked the Wererat, and the Crab teamed up with the Slasher to take out the Werewolf and deal for damage to Wolfman. The Canadian untapped and played Whispering Shade, which finished the job.
 

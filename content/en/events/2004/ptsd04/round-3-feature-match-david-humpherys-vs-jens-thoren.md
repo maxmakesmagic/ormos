@@ -447,7 +447,9 @@ render_recovery:
 ---
 * * *
 
-![Jens Thoren](http://wizards.com/sideboard/images/ptsd04/fm5_1.jpg)Jens Thoren's reign as the Invitational Champion will come to a close when Bob Maher and Mattias Jorstedt fight it out for the honor of designing the next invitational card on Sunday. They will have their work cut out for them to top Jens's card from last year--Solemn Simulacrum. Jens ended in the middle of a clump of players with 9-6 records that were tied for third but he fell one win short of having a chance to be the fist player to go back to back--or even win two for that matter--in the Invitational.
+![Jens Thoren](http://wizards.com/sideboard/images/ptsd04/fm5_1.jpg)
+
+Jens Thoren's reign as the Invitational Champion will come to a close when Bob Maher and Mattias Jorstedt fight it out for the honor of designing the next invitational card on Sunday. They will have their work cut out for them to top Jens's card from last year--Solemn Simulacrum. Jens ended in the middle of a clump of players with 9-6 records that were tied for third but he fell one win short of having a chance to be the fist player to go back to back--or even win two for that matter--in the Invitational.
 
 Dave Humpherys has been having a quiet year since his annual Top 8 finish at Worlds other than his second place finish at Grand Prix Oakland. Humpherys has joked that if it were not for the World Championships he would have fallen off the Pro Tour a long time ago but the YMG old schooler is always a threat to win and the format this weekend was the same as Oakland's Day Two draft. Both players were 2-0 and looking to sweep the table.
 

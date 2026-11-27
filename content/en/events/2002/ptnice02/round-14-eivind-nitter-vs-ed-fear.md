@@ -135,7 +135,9 @@ render_recovery:
   - Zombie Infestation
   occurrences: 126
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a759.jpg)Neither of these players has made a Pro Tour Top 8. Norway's Eivind Nitter has a more impressive resume – two Grand Prix Top 8's and a European Championship win. But Ed Fear is what we in the business call a "personality" – he talks the talk, and now he needs to walk the walk. Fear, fresh off a one-year DCI suspension for some shady goings-on at Pro Tour – Chicago, is in the spotlight once again, but this time for good reasons.
+![](http://www.wizards.com/sideboard/images/ptnice02/a759.jpg)
+
+Neither of these players has made a Pro Tour Top 8. Norway's Eivind Nitter has a more impressive resume – two Grand Prix Top 8's and a European Championship win. But Ed Fear is what we in the business call a "personality" – he talks the talk, and now he needs to walk the walk. Fear, fresh off a one-year DCI suspension for some shady goings-on at Pro Tour – Chicago, is in the spotlight once again, but this time for good reasons.
 
 Fear drafted an "amazing deck" and won in Round 12 before intentionally drawing in Round 13. It was a calculated risk – he figured he'd be able to draw again in the lat round if everything fell correctly. Had he been paired against Brian Davis, Fear could have just drawn into the final day. But the fates (aka DCI Reporter) were unkind to him, pairing him down against Nitter, who cannot afford a draw. So it will be settled in the Red Zone.
 
@@ -179,7 +181,9 @@ Fear: "I went to the Chris Benafel School of Stalling."
 
 Nitter started off very slowly – a turn three Hypochondria and a turn 4 Repel on Fear's Aven Fisher. He then Syncopated the Fisher when Fear tried to re-deploy it, and Firebolted a Cabal Torturer. On turn six, he put out everyone's favorite 3/3 flier, Aven Windreader.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a774.jpg)On Fear's turn he tapped four mana and announced his spell: "You know what's better than Windreader? Concentrate."
+![](http://www.wizards.com/sideboard/images/ptnice02/a774.jpg)
+
+On Fear's turn he tapped four mana and announced his spell: "You know what's better than Windreader? Concentrate."
 
 Nitter: "Hahaha! My ass! Draw three lands!"
 

@@ -74,7 +74,9 @@ render_recovery:
   - Rorix
   occurrences: 27
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a918.jpg)Both Jon and Elijah's Magic careers date back to the pre-JSS era Junior Pro Tour days. Since then they have both had some success although it has taken Elijah a little longer to bask in the bright day three lights when he finished in second place at Pro Tour Boston. Jon was in danger of falling off the Tour going into Chicago but his top four finish there has kept in on the tour for another year—much to his chagrin.
+![](http://www.wizards.com/sideboard/images/ptven03/a918.jpg)
+
+Both Jon and Elijah's Magic careers date back to the pre-JSS era Junior Pro Tour days. Since then they have both had some success although it has taken Elijah a little longer to bask in the bright day three lights when he finished in second place at Pro Tour Boston. Jon was in danger of falling off the Tour going into Chicago but his top four finish there has kept in on the tour for another year—much to his chagrin.
 
 Both players are playing in an elimination tournament at this point with 2-2-1 records. They each have to win their next two matches in order to advance to Saturday's competition—it goes without saying that only one of them can do so.
 
@@ -86,7 +88,9 @@ Jon; "I honestly don't rememember. I cannot remember matches anymore. I have pla
 
 Jon elected to mulligan and kept his next six and he was drawing. Many non-basic lands were played over the first few turns. Jon had the game's first 'action' when he cycled a Renewed Faith. Elijah attempted an Explosive Vegetation on turn four but Jon had a Complicate and cycled it targeting the stunned Elijah's spell. Jon: 'I assume you're done."
 
-![](http://www.wizards.com/sideboard/images/ptven03/a917.jpg)Elijah did not play a fifth land before attempting a Ravenous Baloth, which was also met with another Complicate. When he played a Tranquil Thicket the reason was clear. Jon played an Astral Slide on the next turn and seemed non-plussed when Elijah resolved Silklash Spider and a Ravenous Baloth. Akroma's Venngeance killed Elijah's team at the cost of Jon's enchantment. Both players started the game over with plenty of land in play at 22 life. 
+![](http://www.wizards.com/sideboard/images/ptven03/a917.jpg)
+
+Elijah did not play a fifth land before attempting a Ravenous Baloth, which was also met with another Complicate. When he played a Tranquil Thicket the reason was clear. Jon played an Astral Slide on the next turn and seemed non-plussed when Elijah resolved Silklash Spider and a Ravenous Baloth. Akroma's Venngeance killed Elijah's team at the cost of Jon's enchantment. Both players started the game over with plenty of land in play at 22 life. 
 
 Silvos brought a frown to Jon's face, "That seems unfortunate." He played another Astral Slide to buy time and began cycling. Silklash Spider joined the team next turn. While Elijah was playing bombs, Jon just kept playing lands. He used all of his land to Starstorm for 7 during the next attack phase killing the Spider and removing the Pitfighter from combat when it stopped to regenerate. Jon played an Exalted Angel and began removing Silvos during each of his opponent's attack steps. Eventually, Jon played a Lightning Rift and when Elijah cast Naturalize Jon showed him three cyclers and the mana necessary to do the final 6.
 
@@ -104,7 +108,9 @@ Jon – 1 Elijah – 1
 
 Elijah: "Is your version good in the mirror? 
 
-![](http://www.wizards.com/sideboard/images/ptven03/a916.jpg)Jon: "I don't know, I haven't played the deck very much before today. I'm bad at doing things that don't interest me and playtesting constructed formats does not interest me. I am phenomenally good at not doing thing that don't interest me."
+![](http://www.wizards.com/sideboard/images/ptven03/a916.jpg)
+
+Jon: "I don't know, I haven't played the deck very much before today. I'm bad at doing things that don't interest me and playtesting constructed formats does not interest me. I am phenomenally good at not doing thing that don't interest me."
 
 Jon nailed his fourth spell of the match when Elijah attempted another turn four Vegetation. The irony is that had Jon's fourth land not come into play tapped he would have cast his own Vegetation and not been able to counter it. Jon cast Vegetation on his next turn and followed it up with Rorix on the next turn. Elijah looked at the Rorix that could have been in his hand and had to content himself with a Silvos. Jon played an unmorphed exalted Angel on his next turn and Elijah could only offer the hand.
 

@@ -145,7 +145,9 @@ render_recovery:
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a965.jpg)　先手の藤田は 3 ターン目に出した《尊い癒し手/Hallowed Healer》が除去去れずに生き残った事が幸運と、そのまま《祝福された語り部/Blessed Orator》、《正義の巡礼者/Pilgrim of Justice》と赤黒に対して非常に固い戦線を築き上げたところで、中村は 4 ターン目まで何も行動できていない。
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a965.jpg)
+
+　先手の藤田は 3 ターン目に出した《尊い癒し手/Hallowed Healer》が除去去れずに生き残った事が幸運と、そのまま《祝福された語り部/Blessed Orator》、《正義の巡礼者/Pilgrim of Justice》と赤黒に対して非常に固い戦線を築き上げたところで、中村は 4 ターン目まで何も行動できていない。
 
 　このままガッチリ行きながら細かく殴り続けていれば大丈夫と思ったところで、中村の 6 ターン目に放った -5/-5 の《もぎとり/Mutilate》が炸裂！
 

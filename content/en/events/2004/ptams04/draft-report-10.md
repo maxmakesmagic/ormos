@@ -951,7 +951,9 @@ render_recovery:
 ---
 ### Matt Linde, Jelger Wiegersma, and Rafael Levy
 
-![](http://www.wizards.com/sideboard/images/ptams04/dr2_1.jpg)As the first draft of the weekend got underway table one table one featured an impressive array of name players from all over the globe. The most well-known players were a pair of Americans. Dave Williams and Matt Linde were separqted by two seats and both drafted green-white decks; Dave's sporting Molder Slug and Matt's featuring Glissa. Stefano Gattolin from England also had a green white deck with Glissa-it came to him as a fourth pick in the last set of packs-and the still potent Warhammer.
+![](http://www.wizards.com/sideboard/images/ptams04/dr2_1.jpg)
+
+As the first draft of the weekend got underway table one table one featured an impressive array of name players from all over the globe. The most well-known players were a pair of Americans. Dave Williams and Matt Linde were separqted by two seats and both drafted green-white decks; Dave's sporting Molder Slug and Matt's featuring Glissa. Stefano Gattolin from England also had a green white deck with Glissa-it came to him as a fourth pick in the last set of packs-and the still potent Warhammer.
 
 Linde was pleased with the draft although he was nervous about some of the other decks at the table, "I like it. Big guys and fliers. I wanted to get Blinding Beams but i had to take like Deconstruct over it. There were so many Myr Enforcers and Bonesplitters that I had to take Deconstruct-at that point the only artifact removal I had was a Shaman. I am even running Turn to Dust in my maindeck because of all the good equipment." In addtion to a multitude of Bonesplitters there was a Mask of Memory, Fireshrieker, Battlegear, and a Warhammer to worry about.
 

@@ -72,7 +72,9 @@ render_recovery:
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/3f/1b/3f1bf0f4058948c2db3e6beac0f833b88b19d139ec7f2fce417fd015648fbbc5.png)The new cards in this product are legal in Eternal formats (Vintage and Legacy), but not in Standard, Extended, or Block Constructed. Other cards are tournament-legal in all formats that include those cards. Each deck includes three premium oversized legendary commander cards.
+![](https://i.ormos.uk/3f/1b/3f1bf0f4058948c2db3e6beac0f833b88b19d139ec7f2fce417fd015648fbbc5.png)
+
+The new cards in this product are legal in Eternal formats (Vintage and Legacy), but not in Standard, Extended, or Block Constructed. Other cards are tournament-legal in all formats that include those cards. Each deck includes three premium oversized legendary commander cards.
 
 **Set Name:** *Magic: The Gathering—Commander* (2011 Edition)  
 **Number of Cards:** 100 per deck, 500 total  

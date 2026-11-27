@@ -239,7 +239,9 @@ render_recovery:
 ---
 「The Big Deck」。すなわち、《機知の戦い/Battle of Wits》をマジも大マジで世界選手権のエクステンデッドに持ち込んできたのがHueyことJensenだ。ちなみに彼は実際にこのアーキタイプでグランプリのベスト8に進出したりもしているわけで、どうやらそういうキャラがたっている模様。かくて堂々の251枚デッキである。
 
-![](https://i.ormos.uk/c0/41/c0412c287ab124d1a46bb0171372ddc29f2da539e59ef5f20a7a57c0575da25b.jpg)対するJustin Garyは今季のエクステンデッド・プロツアーであるヒューストンを《認識を食うもの/Cognivore》搭載型《ドルイドの誓い/Oath of Druids》デッキで優勝しているプレイヤーである。ヒューストンのトップ3を総舐めにしたYMGは、どうやらベルリンには改良型リアニメイターを持ち込んできたようだ。
+![](https://i.ormos.uk/c0/41/c0412c287ab124d1a46bb0171372ddc29f2da539e59ef5f20a7a57c0575da25b.jpg)
+
+対するJustin Garyは今季のエクステンデッド・プロツアーであるヒューストンを《認識を食うもの/Cognivore》搭載型《ドルイドの誓い/Oath of Druids》デッキで優勝しているプレイヤーである。ヒューストンのトップ3を総舐めにしたYMGは、どうやらベルリンには改良型リアニメイターを持ち込んできたようだ。
 
 **Game 1**
 
@@ -247,7 +249,9 @@ render_recovery:
 
 しかし、Jensenも《炭色のダイアモンド/Charcoal Diamond》でマナを加速し、致命傷となる前に《直観/Intuition》からの《悪魔の布告/Diabolic Edict》で事なきを得る。
 
-![](https://i.ormos.uk/64/b4/64b4fba362ff5e19ad28685fb4614e0b987197679b741d7274f7435db330f496.jpg)この応酬の直後、ハンドに《死体発掘/Exhume》をかかえているGaryは再度リアニメイトする前に安全確認しようと《吸血の教示者/Vampiric Tutor》で《強迫/Duress》をライブラリーに。
+![](https://i.ormos.uk/64/b4/64b4fba362ff5e19ad28685fb4614e0b987197679b741d7274f7435db330f496.jpg)
+
+この応酬の直後、ハンドに《死体発掘/Exhume》をかかえているGaryは再度リアニメイトする前に安全確認しようと《吸血の教示者/Vampiric Tutor》で《強迫/Duress》をライブラリーに。
 
 Jensenもこの《吸血の教示者/Vampiric Tutor》に対応するかたちで《狡猾な願い/Cunning Wish》。サイドボードから調達した《死体焼却/Cremate》で墓地の《怒りの天使アクローマ/Akroma, Angel of Wrath》をリムーブした。苦笑いのJustin Garyは積み込んだ《強迫/Duress》でJensenの《集中/Concentrate》をディスカードさせてターンを返す。
 
@@ -270,7 +274,9 @@ William Jensen：メインデッキ251枚で、今こんだけカードつかっ
 
 **Game 3**
 
-![](https://i.ormos.uk/8f/3c/8f3c062539e0ba2b0683b533452277229be18cc04737aecb37e7f4db73dbf805.jpg)オープニングハンドに《陰謀団式療法/Cabal Therapy》のあったJustin Gary。今度は開幕ターンの《納墓/Entomb》で《共生のワーム/Symbiotic Wurm》を埋め込む。2ターン目に早速これを《再活性/Reanimate》し、とりあえず《狡猾な願い/Cunning Wish》を指定しながら安全確認。《機知の戦い/Battle of Wits》やそれを直接チューターしてくる類のカードがないことを確認したものの、とりあえず《吸収/Absorb》が見えたのでこれをフラッシュバック時に指定してディスカードさせた。
+![](https://i.ormos.uk/8f/3c/8f3c062539e0ba2b0683b533452277229be18cc04737aecb37e7f4db73dbf805.jpg)
+
+オープニングハンドに《陰謀団式療法/Cabal Therapy》のあったJustin Gary。今度は開幕ターンの《納墓/Entomb》で《共生のワーム/Symbiotic Wurm》を埋め込む。2ターン目に早速これを《再活性/Reanimate》し、とりあえず《狡猾な願い/Cunning Wish》を指定しながら安全確認。《機知の戦い/Battle of Wits》やそれを直接チューターしてくる類のカードがないことを確認したものの、とりあえず《吸収/Absorb》が見えたのでこれをフラッシュバック時に指定してディスカードさせた。
 
 攻勢のGaryは、Jensenが第4ターンにタップアウトしつつ《集中/Concentrate》をプレイしたところをX=3の《最後の儀式/Last Rites》で直撃。《嘘か真か/Fact or Fiction》、《吸収/Absorb》、《悪魔の布告/Diabolic Edict》がここで叩き落されてしまい、Jensenは投了を宣言したのだった。
 

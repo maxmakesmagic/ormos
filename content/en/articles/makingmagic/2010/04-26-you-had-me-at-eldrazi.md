@@ -139,7 +139,9 @@ This all brings us to the question of the day: Why does design create mechanics 
 
 ### #1) Limited Is Important
 
-![](https://i.ormos.uk/c5/8e/c58ef0197a284cf6c0b58427f566d070037f176cb11da44b479cacbc86a11d4d.jpg)In the beginning, **Magic** was a Constructed game. Sealed Deck (and later Draft) was introduced as kind of a novelty. But something interesting has happened over the last seventeen years. What started as an alternative way to play has become the default way for a huge number of players. To many players, Limited is what **Magic** is about. As such, R&D spends a lot of time on it.
+![](https://i.ormos.uk/c5/8e/c58ef0197a284cf6c0b58427f566d070037f176cb11da44b479cacbc86a11d4d.jpg)
+
+In the beginning, **Magic** was a Constructed game. Sealed Deck (and later Draft) was introduced as kind of a novelty. But something interesting has happened over the last seventeen years. What started as an alternative way to play has become the default way for a huge number of players. To many players, Limited is what **Magic** is about. As such, R&D spends a lot of time on it.
 
 What does Limited have to offer? Here's what I think are the major advantages:
 

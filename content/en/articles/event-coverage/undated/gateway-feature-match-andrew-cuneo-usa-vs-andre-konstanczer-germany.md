@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Randy Buehler* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/994.jpg)Andrew Cuneo is a credit to this great game. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/994.jpg)
+
+Andrew Cuneo is a credit to this great game. 
 
 Cuneo, who was a member of the 2nd-place "Car Acrobatic Team" from the most recent Pro Tour, was paired against German National Champion Andre Konstanczer in the 4th round of the Masters Gateway tournament. He started out game 2 well with Ordered Migration (for 3), Armadillo Cloak on a token, and then Sabertooth Nishoba. However, Konstanczer was coming back with Benalish Trapper and Rith, the Awakener. When Konstanczer played a Faerie Squadron (with kicker) and traded it for the Cloaked Bird token, Cuneo played Shackles on Rith and was forced to try to go the distance with his last remaining Bird token. Konstanczer was at 3 when he decided to use his Dismantling Blow to force Cuneo to pick up his Shackles. 
 

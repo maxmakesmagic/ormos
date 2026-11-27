@@ -1218,7 +1218,9 @@ So now, which to pick from my culled list of removal cards above?
 
 *IN*: 3 Rend Flesh
 
-![](https://i.ormos.uk/a4/b9/a4b97bde1a7ef89d9971bf553053aed3714d1d05267e2513f9ee9274bff18b74.jpg)My gut from many, many games in the Casual Constructed room of ***Magic** Online* is that Rend Flesh is the most reliable, splashable creature removal I can find. It's not perfect, of course, but I think it will kill almost all of the cards I want dead. The primary exceptions are the *Champions of Kamigawa* Dragons, Hokori, Dust Drinker, and a few smaller threats such as Zuberas, Tallowisp, etc. Ironically, too, if I face another Demon deck I'm probably sunk. Still, I'm willing to use it as my primary creature elimination to see what frustrations, if any, it creates.
+![](https://i.ormos.uk/a4/b9/a4b97bde1a7ef89d9971bf553053aed3714d1d05267e2513f9ee9274bff18b74.jpg)
+
+My gut from many, many games in the Casual Constructed room of ***Magic** Online* is that Rend Flesh is the most reliable, splashable creature removal I can find. It's not perfect, of course, but I think it will kill almost all of the cards I want dead. The primary exceptions are the *Champions of Kamigawa* Dragons, Hokori, Dust Drinker, and a few smaller threats such as Zuberas, Tallowisp, etc. Ironically, too, if I face another Demon deck I'm probably sunk. Still, I'm willing to use it as my primary creature elimination to see what frustrations, if any, it creates.
 
 *IN*: 3 Fireball
 

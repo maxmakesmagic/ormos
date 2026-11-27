@@ -90,7 +90,9 @@ render_recovery:
   - Slice and Dice
   occurrences: 69
 ---
-![](https://i.ormos.uk/38/3a/383a14be2a2d141776b6de7bc044a2b6c034d30ed628aaab727b2df9cc8308f3.jpg)Darwin Kastle is almost twice as old as Jordan Berkowitz—31 to 16. The YMG'er also has quite a few inches and pounds on the former JSS star, and about 8 times as many Pro Tour Sunday appearances. It is definitely a match up between old blood and new.
+![](https://i.ormos.uk/38/3a/383a14be2a2d141776b6de7bc044a2b6c034d30ed628aaab727b2df9cc8308f3.jpg)
+
+Darwin Kastle is almost twice as old as Jordan Berkowitz—31 to 16. The YMG'er also has quite a few inches and pounds on the former JSS star, and about 8 times as many Pro Tour Sunday appearances. It is definitely a match up between old blood and new.
 
 Berkowitz and his red/green Beasts deck (designed by fellow East-Coaster Roger Sorino) played against Kastle's Dragon deck in the Swiss portion of this event, and Kastle swept 2-0. Further playtesting by both players before the Top 8 have shown Kastle's win to be an anomaly, with Berkowitz being the clear-cut favorite.
 
@@ -114,7 +116,9 @@ Berkowitz 1 – Kastle 0
 
 Kastle sided in his Shocks and Insurrections; Berkowitz faked like he was siding, but actually changed nothing.
 
-![](https://i.ormos.uk/d2/78/d27863ae516193e08b19b7a714b1761900b9931b9f59b58b9deecfcad7e3ef2c.jpg)Game 2 was not any better for Kastle. He played a Wirewood Elf that was eventually Shocked, and a face-down Imperial Hellkite as a chump blocker. That's it. Berkowitz, on the other hand, played a Wirewood Elf, accelerating to a turn-3 4/4 Canopy Crawler, then a Tephraderm, then a Ravenous Baloth. Game.
+![](https://i.ormos.uk/d2/78/d27863ae516193e08b19b7a714b1761900b9931b9f59b58b9deecfcad7e3ef2c.jpg)
+
+Game 2 was not any better for Kastle. He played a Wirewood Elf that was eventually Shocked, and a face-down Imperial Hellkite as a chump blocker. That's it. Berkowitz, on the other hand, played a Wirewood Elf, accelerating to a turn-3 4/4 Canopy Crawler, then a Tephraderm, then a Ravenous Baloth. Game.
 
 Kastle's deck had better start coughing up some Dragons if he's going to make a comeback.
 
@@ -139,7 +143,9 @@ Berkowitz 2 – Kastle 1
 
 ### Game 4
 
-![](https://i.ormos.uk/c3/a9/c3a90b1c3092153f647014ccf2d3cf8006205b0d4ed213bf79a1d06ffa45e181.jpg)Berkowitz kept a five-land hand in game 4, but it worked out well for him. Both players had Wirewood Elves on turn 2, but Kastle had a Shock. Berkowitz played a 4/4 Crawler on turn 4, amplified with two Krosan Tuskers. Darwin had no play.
+![](https://i.ormos.uk/c3/a9/c3a90b1c3092153f647014ccf2d3cf8006205b0d4ed213bf79a1d06ffa45e181.jpg)
+
+Berkowitz kept a five-land hand in game 4, but it worked out well for him. Both players had Wirewood Elves on turn 2, but Kastle had a Shock. Berkowitz played a 4/4 Crawler on turn 4, amplified with two Krosan Tuskers. Darwin had no play.
 
 Jordan played a Cliffs and killed Darwin's Elf, then swung in. Darwin had only an Explosive Vegetation to play.
 

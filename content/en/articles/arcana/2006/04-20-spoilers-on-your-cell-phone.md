@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-[![Magic Mobile Messaging](https://i.ormos.uk/34/c4/34c4ff5853ac36337fafa5d89e8c35fc6385287417b28649b8b6d9011c215cbf.jpg "Magic Mobile Messaging")](http://www.mtgmobile.com/)Want a spoiler card transmitted directly to your mobile phone? Want to get **Magic** fun facts, trivia, alerts, and exclusive polls and news?
+[![Magic Mobile Messaging](https://i.ormos.uk/34/c4/34c4ff5853ac36337fafa5d89e8c35fc6385287417b28649b8b6d9011c215cbf.jpg "Magic Mobile Messaging")](http://www.mtgmobile.com/)
+
+Want a spoiler card transmitted directly to your mobile phone? Want to get **Magic** fun facts, trivia, alerts, and exclusive polls and news?
 
 For just $3.99 a month, you can stay plugged in to the **Magic** community 24/7!
 

@@ -847,7 +847,9 @@ Now, let's say you build a deck around Cloudpost and Vesuva. What do you do with
 
 ### Step One: Searching for Land
 
-![](https://i.ormos.uk/1c/e9/1ce975c2472cbfa15e72a121cc2948189a4ef5fc6f3532ed69f84c66e7920e9e.jpg)In order to make sure you get Cloudposts and Vesuva, you need ways to search for these lands. Technically Eight-Post could start as any color deck, as Cloudpost produces colorless mana. Green has the best cards to search for non-basic lands, and the original duo of Sylvan Scrying and Reap and Sow seem fine for use as ways to search for Cloudpost. 
+![](https://i.ormos.uk/1c/e9/1ce975c2472cbfa15e72a121cc2948189a4ef5fc6f3532ed69f84c66e7920e9e.jpg)
+
+In order to make sure you get Cloudposts and Vesuva, you need ways to search for these lands. Technically Eight-Post could start as any color deck, as Cloudpost produces colorless mana. Green has the best cards to search for non-basic lands, and the original duo of Sylvan Scrying and Reap and Sow seem fine for use as ways to search for Cloudpost. 
 
 ### Step Two: Searching for Land, Part Two
 

@@ -215,7 +215,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/c7/38/c7383da62fd8d637de0a8bd04495e1e39849f77ece2487c3ac7c6a6a8eb8d18e.jpg)Pro Tour L.A. 2001 Champion Mike Pustilnik is not doing so hot this weekend. Already the mild mannered Doctor P has found his way to two losses. Sharing his misery is Grand Prix - Hong Kong Champion and Magic Colonist Jeff Fung. Unsurprisingly both have their titles in Limited formats.
+![](https://i.ormos.uk/c7/38/c7383da62fd8d637de0a8bd04495e1e39849f77ece2487c3ac7c6a6a8eb8d18e.jpg)
+
+Pro Tour L.A. 2001 Champion Mike Pustilnik is not doing so hot this weekend. Already the mild mannered Doctor P has found his way to two losses. Sharing his misery is Grand Prix - Hong Kong Champion and Magic Colonist Jeff Fung. Unsurprisingly both have their titles in Limited formats.
 
 The game started slow. Pustilnik found Mind Sludge with Tainted Pact, then busted out Nantuko Shade. Fung Aether Bursted it, but it came back the next turn. Fung's only defence was a meager Aquamoeba. Cabal Coffers gave Pustilnik fuel for Morbid Hunger on the Aquamoeba, but Fung had a second Aether Burst to save.
 
@@ -233,7 +235,9 @@ Pustilnik 1 - Fung 0
 
 Fung was amazed to find himself with a turn-two creature in the second game, but Pustilnik was quick to dispatch it with Innocent Blood. He had no answer for Call of the Herd. He had to spend his mana finding a swamp with Tainted Pact.
 
-![](https://i.ormos.uk/e1/b5/e1b5fdc1acde8f26f1eb71651f32e9aaecdd8413f72cfe88b4922f4e4cdb2b23.jpg)Fung compounded his difficulties with a Careful Study that put Roar of the Wurm in the graveyard, and a Standstill. Pustilnik looked at the board and said "Well, that went badly for me."
+![](https://i.ormos.uk/e1/b5/e1b5fdc1acde8f26f1eb71651f32e9aaecdd8413f72cfe88b4922f4e4cdb2b23.jpg)
+
+Fung compounded his difficulties with a Careful Study that put Roar of the Wurm in the graveyard, and a Standstill. Pustilnik looked at the board and said "Well, that went badly for me."
 
 He had to give Fung the cards Mutilating the token. Fung's next play was to flashback the Roar, and play a sacrificial Basking Rootwalla. However, Pustilnik was ready with Innocent Blood and another Edict. Nantuko Shade showed up ready to fight.
 
@@ -241,7 +245,9 @@ Fung decided it was time to act. He busted out Squirrels Nest and Standstill. Th
 
 Pustilnik used Tainted Pact to break the Standstill, following it up with a Skeletal Scrying for five. Fung discared Arrogant Wurm and Rootwalla into play, and pitched Roar of the Wurm. For all that power, things were not going Fung's way. Double-Coffers meant Pustilnik could Mutilate and save his shade, with enough mana left over to pay for Circular Logic.
 
-![](https://i.ormos.uk/3b/1f/3b1f64715909ce227d498e1145584c8a282f2b6660024422ac77a7ca8374ef1d.jpg)However, Jeff Fung plays for keeps. Down came the second Squirrels Nest, an endless supply of food for Pustilnik's Edict-based removal. Pustilnik had the gall to Mind Sludge.
+![](https://i.ormos.uk/3b/1f/3b1f64715909ce227d498e1145584c8a282f2b6660024422ac77a7ca8374ef1d.jpg)
+
+However, Jeff Fung plays for keeps. Down came the second Squirrels Nest, an endless supply of food for Pustilnik's Edict-based removal. Pustilnik had the gall to Mind Sludge.
 
 "Mind Sludge, targetting you." - Mike Pustilnik  
  "Targetting Me? Of all people!" - Jeff Fung  

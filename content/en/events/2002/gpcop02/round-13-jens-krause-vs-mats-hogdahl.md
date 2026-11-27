@@ -71,7 +71,9 @@ render_recovery:
   - Cruel Revival
   occurrences: 17
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a878.jpg)Mats and Jens are two players lacking the resume of people like Kai Budde or Antoine Ruel but they are proving they know how to game at this GP. Both are within striking distance of the top 8. Jens needs 3 more points to make it whereas Mats was actually hoping to double ID his way in. Jens would have nothing of that though and he was forced to play it out.
+![](http://www.wizards.com/sideboard/images/gpcop02/a878.jpg)
+
+Mats and Jens are two players lacking the resume of people like Kai Budde or Antoine Ruel but they are proving they know how to game at this GP. Both are within striking distance of the top 8. Jens needs 3 more points to make it whereas Mats was actually hoping to double ID his way in. Jens would have nothing of that though and he was forced to play it out.
 
 ### Game 1
 
@@ -81,7 +83,9 @@ Jens didn't exactly have a beatdown draw himself though and all he could come up
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a879.jpg)Jens thought a long time about keeping his hand frowning to himself all the way. In the end he decided to keep an all swamp hand, drawing first. His hand seemed fine as a Headhunter came down on turn 2 and a Swat on a morph creature forced Mats to discard to the little creature. Both players then made some Gray Ogres, some facedown some face up and they started racing.
+![](http://www.wizards.com/sideboard/images/gpcop02/a879.jpg)
+
+Jens thought a long time about keeping his hand frowning to himself all the way. In the end he decided to keep an all swamp hand, drawing first. His hand seemed fine as a Headhunter came down on turn 2 and a Swat on a morph creature forced Mats to discard to the little creature. Both players then made some Gray Ogres, some facedown some face up and they started racing.
 
 The race came to a sudden end when a Gangrenous Goliath entered the playing field. A Daunting Defenders and the Cleric Avatar further troubled Mats but two Cruel Revival kept him in the game. When Jens drew yet another Daunting Defenders it was all over though as the unkillable Gangrenous Goliath and the near unkillable Daunting Defenders first removed all Mats' creatures and, shortly after, his life points too.
 

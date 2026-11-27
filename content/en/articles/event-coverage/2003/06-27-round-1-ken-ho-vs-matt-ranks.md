@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/02/2f/022f5422f972ff6ca31180cae9f91432ba3ca95d0f0a298a8f131d0b80ff86a8.jpg)Ken Ho's been collecting some pretty large paychecks recently, and not just because they were novelty-sized. His win at Pro Tour – Osaka, followed by a finals appearance at the Chicago Masters ensured he'd have the money to follow the tour for some time. For this tournament he's chosen to run an OBC-styled Wake deck. His opponent is Matt Ranks, whom you might remember from his eleventh-place finish at Houston with Sligh. He's continuing his aggressive tendencies with red-green beats today.
+![](https://i.ormos.uk/02/2f/022f5422f972ff6ca31180cae9f91432ba3ca95d0f0a298a8f131d0b80ff86a8.jpg)
+
+Ken Ho's been collecting some pretty large paychecks recently, and not just because they were novelty-sized. His win at Pro Tour – Osaka, followed by a finals appearance at the Chicago Masters ensured he'd have the money to follow the tour for some time. For this tournament he's chosen to run an OBC-styled Wake deck. His opponent is Matt Ranks, whom you might remember from his eleventh-place finish at Houston with Sligh. He's continuing his aggressive tendencies with red-green beats today.
 
 ### Game 1
 
@@ -67,7 +69,9 @@ Ranks 1 – Ho 0
 
 Ranks had a relatively slow start for the second game, starting with [Grim Lavamancer](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Lavamancer) and [Basking Rootwalla](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla). Ho hit all his colors by the third turn, and was able to Lapse [Elephant Guide](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Guide) targeting the Rootwalla. Ranks tried again on the next turn, and was thwarted by [Counterspell](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell).
 
-![](https://i.ormos.uk/10/a9/10a93f3d0a8db7d89304d8b0fab0eec84b77580747becfde0cc5927f07d19dc1.jpg)Ho was at a comfortable fourteen when he tapped out for [Mirari's Wake](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari%27s+Wake). Ranks played a second Guide and dropped him to ten, waiting on his Lavamancer to deal two. Ho drew two off [Deep Analysis](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) and gave it back, still on five land. Ranks smashed, and when Ho showed the [Moment's Peace](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace), came back with [Flaring Pain](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flaring+Pain). Ho spent a [Memory Lapse](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Lapse).
+![](https://i.ormos.uk/10/a9/10a93f3d0a8db7d89304d8b0fab0eec84b77580747becfde0cc5927f07d19dc1.jpg)
+
+Ho was at a comfortable fourteen when he tapped out for [Mirari's Wake](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari%27s+Wake). Ranks played a second Guide and dropped him to ten, waiting on his Lavamancer to deal two. Ho drew two off [Deep Analysis](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) and gave it back, still on five land. Ranks smashed, and when Ho showed the [Moment's Peace](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace), came back with [Flaring Pain](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flaring+Pain). Ho spent a [Memory Lapse](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Lapse).
 
 Ho didn't like his options as he untapped. He went to five to get two more cards off [Deep Analysis](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis). [Kirtar's Wrath](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kirtar%27s+Wrath) left Ranks with an Elephant. He put Ho at two and tried [Violent Eruption](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Violent+Eruption). Ho took a point of mana burn to [Logic](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Logic) it.
 
@@ -87,7 +91,9 @@ Ranks 1 – Ho 1
 
 Ranks was slow off the blocks again in Game 3. He started with Lavamancer and Rootwalla, and when Ho played a Verge on turn two, hit for four and played a Llanowar Elf. Ho waited to search with his Verge, and fell to ten from Ranks's next assault. When he did Verge, he revealed that he'd drawn all his forests, and so only got a plains. That was enough, though, as he had [Wrath of God](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) in hand. 
 
-![](https://i.ormos.uk/3b/2e/3b2ec34613f3fa3fd05b02e5a00e2f29a6e6f829d9715e31efb3d35df6825593.jpg)Ranks rebuilt with Lavamancer, leaving four mana open. Ho tapped out for [Mirari's Wake](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari%27s+Wake). Ranks sent an Eruption to his face. 
+![](https://i.ormos.uk/3b/2e/3b2ec34613f3fa3fd05b02e5a00e2f29a6e6f829d9715e31efb3d35df6825593.jpg)
+
+Ranks rebuilt with Lavamancer, leaving four mana open. Ho tapped out for [Mirari's Wake](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari%27s+Wake). Ranks sent an Eruption to his face. 
 
 "Got another Eruption?" – Ken Ho
 

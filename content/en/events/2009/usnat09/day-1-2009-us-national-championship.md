@@ -822,7 +822,9 @@ Floridian Charlie Gindy, who came out of retirement to Elf his way to victory at
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/17/54/175496be01fc2d054883c5dc2e81ca67e7fd7d67ee7eb3f585572e9dcfe5711b.jpg)As the two players headed over to the Feature Match Steven Birklid was shaking his head. Conley was playing a home-brewed Jund Mannequin deck that a handful of other players had audibled into before the tournament. Birklid had seen the list and had considered a last minute switch to the Pro Tour Honolulu semifinalist’s list as well.
+![](https://i.ormos.uk/17/54/175496be01fc2d054883c5dc2e81ca67e7fd7d67ee7eb3f585572e9dcfe5711b.jpg)
+
+As the two players headed over to the Feature Match Steven Birklid was shaking his head. Conley was playing a home-brewed Jund Mannequin deck that a handful of other players had audibled into before the tournament. Birklid had seen the list and had considered a last minute switch to the Pro Tour Honolulu semifinalist’s list as well.
 
 “I can’t possibly win this match-up,” sighed Birklid, and up and coming Pro. “I know what he is playing -- a deck I can’t possibly beat.”
 
@@ -885,7 +887,9 @@ Shriekmaw to deal with the Heritage Druid. That was enough for Steven who had a 
 
 ### Game 3
 
-![](https://i.ormos.uk/be/6e/be6ecb9f122dc99268dc01bbf48fb269671a6058be7a365a2aaed8c57bc45c0b.jpg)Steven shipped back his hand but Conley was wavering about keeping his -- players have to decide at the same time under the new rules. He finally decided to ship his one-lander back as well.
+![](https://i.ormos.uk/be/6e/be6ecb9f122dc99268dc01bbf48fb269671a6058be7a365a2aaed8c57bc45c0b.jpg)
+
+Steven shipped back his hand but Conley was wavering about keeping his -- players have to decide at the same time under the new rules. He finally decided to ship his one-lander back as well.
 
 “This is the first time I have ever simultaneously mulliganed,” said Woods with an air of innuendo that drew a laugh from the spectators. He flashed me a hand that had plenty of action on turn two but only one Swamp. “I am shipping this back, I am not too greedy.”
 
@@ -999,7 +1003,9 @@ The final 2008 returning team member, Sam Black, back for a second chance at pla
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/c5/9b/c59b846b58d025563ecb5f188b3b5cd713ca7c2596a7c2985600eddc4ea8b185.jpg)As the two players headed to the feature match area it was the latest steps in very different paths. Kibler’s route has taken him through countless feature match area, most recently on the Sunday stage in Hawaii and has traveled the world playing competitive card games at the highest levels. Suydam was able to sit down against the Honolulu quarterfinalist by virtue of having been the top finisher at his Regionals with green-black Elves. Suydam, who had a throng of friends along the rail waiting to see how he would fare against Kibler was excited to use the play mat waiting for them on the table.
+![](https://i.ormos.uk/c5/9b/c59b846b58d025563ecb5f188b3b5cd713ca7c2596a7c2985600eddc4ea8b185.jpg)
+
+As the two players headed to the feature match area it was the latest steps in very different paths. Kibler’s route has taken him through countless feature match area, most recently on the Sunday stage in Hawaii and has traveled the world playing competitive card games at the highest levels. Suydam was able to sit down against the Honolulu quarterfinalist by virtue of having been the top finisher at his Regionals with green-black Elves. Suydam, who had a throng of friends along the rail waiting to see how he would fare against Kibler was excited to use the play mat waiting for them on the table.
 
 “I get to push my guys into the red zone,” grinned Suydam, who was playing an aggressive Jund Blood deck that specialized in red zone activities. “I have never done that before.”
 
@@ -1023,7 +1029,9 @@ Kibler laid a Vivid Marsh to go with his Creek from turn one. “I have Swamp pl
 
 Suydam found land and played Putrid Leech which ran into a Plumeveil on the next turn. Daniel drew two cards with Sign in Blood and passed the turn back to Kibler who stalled on three lands. Daniel offered up Kitchen Finks, clearly expecting to have his ambitions broken but Kibler kept his mana back to Esper Charm himself. The fourth land came but he had no play and announced his discard step a turn later and pitched Volcanic Fallout. Daniel was also stuck on three lands and Kibler used Cryptic Command EOT to bounce the persist creature and draw a card. He had another Cryptic Command for when Daniel tried to replay it. He had a third a turn later for Daniel’s Blightning. Kibler had two mana open when he played Baneslayer Angel and used it to Negate Daniel’s Maestom Pulse. Kibler then paid full price for a Mulldrifter and had mana to Doomblade a Boggart Ram-Gang off of a Bloodbraid Elf. Daniel had another Bloodbraid Elf but when Kibler Essence Scattered the resulting Kitchen Finks he conceded.
 
-![](https://i.ormos.uk/08/d8/08d800aa14f4932d03fae2b125b36a7152377dad9634b3c09443f5cdf3159cb7.jpg)“I was feeling okay there for a minute when you didn’t play a fourth land. Then Baneslayer Angel happened.”
+![](https://i.ormos.uk/08/d8/08d800aa14f4932d03fae2b125b36a7152377dad9634b3c09443f5cdf3159cb7.jpg)
+
+“I was feeling okay there for a minute when you didn’t play a fourth land. Then Baneslayer Angel happened.”
 
 “I am just letting Baneslayer Angel carry me this tournament.”
 
@@ -1138,7 +1146,9 @@ Facing down infinite damage, Tom cast Parallectric Feedback on one of the Leap o
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/c2/36/c23640e6bbdca4403e7d6d73f9fc83c3e8591292eb9ea875b388198638f5b40f.jpg)Sam Black propelled himself into a new Pro Point stratosphere with his National team membership and subsequent Team Championship trophy. The points he earned through those accomplishments have allowed him to travel around the globe this season attending GPs. With two GP Top 8 finishes and a deep-into-Day Two showing in Kyoto, Sam has put himself in the Top 10 of this year’s Player of the Year race. A strong performance this weekend could result in as many as 10 precious points that could help him leapfrog some of the players standing between him and a second half run at the Player of the Year title. He was off to a solid start with a 4-0 run through the opening rounds of Standard with his trusty Spellstutter Sprites. If he was going to continue his winning ways it would be at the helm of 40-card decks for the next six rounds. Sam sat down to draft Shards/Conflux/Reborn passing to Brian Kibler and getting fed by Russell Slack.
+![](https://i.ormos.uk/c2/36/c23640e6bbdca4403e7d6d73f9fc83c3e8591292eb9ea875b388198638f5b40f.jpg)
+
+Sam Black propelled himself into a new Pro Point stratosphere with his National team membership and subsequent Team Championship trophy. The points he earned through those accomplishments have allowed him to travel around the globe this season attending GPs. With two GP Top 8 finishes and a deep-into-Day Two showing in Kyoto, Sam has put himself in the Top 10 of this year’s Player of the Year race. A strong performance this weekend could result in as many as 10 precious points that could help him leapfrog some of the players standing between him and a second half run at the Player of the Year title. He was off to a solid start with a 4-0 run through the opening rounds of Standard with his trusty Spellstutter Sprites. If he was going to continue his winning ways it would be at the helm of 40-card decks for the next six rounds. Sam sat down to draft Shards/Conflux/Reborn passing to Brian Kibler and getting fed by Russell Slack.
 
 **Shards of Alara** kicked off with Tower Gargoyle for Sam, with no other similarly colored cards to speak of, while he was shipping Skullmulcher. Jungle Shrine, and Bloodpyre Elemental. Sam took a second pick Metallurgeon over his other considerations Soul’s Fire and Corpse Connoisseur. Russell, to Sam’s right, had opened Esper Battlemage and it looked like Esper might not be flowing for the former National team member. His third pick featured Puppet Conjurer, Vithian Stinger, and Sedraxis Specter and Sam did not hesitate to put the three drop flier on his drafted pile. His next couple of picks included Grixis Panorama, Resounding Silence, Krederekt Creeper, and a smattering of Obelisks with a super late Puppet Conjurer. Despite the first pick Tower Gargoyle it was not clear that Sam was aiming to be Esper - and with Russell picking off most of the options he may not have had a choice.
 
@@ -1196,7 +1206,9 @@ Overall his deck looked solid but not spectacular. Someone at the table was well
 
     *by Kelly Digges*
 
-![](https://i.ormos.uk/bd/51/bd5110bb5a9f5eb676822bfa6e01511bd4dd9196c9b31d9acc31aa06067960d9.jpg)Today I had the pleasure of kicking it old-school—the oldest school, in fact—in two games with Alpha League member Dave Williamson.
+![](https://i.ormos.uk/bd/51/bd5110bb5a9f5eb676822bfa6e01511bd4dd9196c9b31d9acc31aa06067960d9.jpg)
+
+Today I had the pleasure of kicking it old-school—the oldest school, in fact—in two games with Alpha League member Dave Williamson.
 
 Dave and the other members of Alpha League meet sporadically at big events to play each other with decks made exclusively of cards from **Magic**‘s very first set. They even play with original Alpha rules, courtesy of a well-preserved Alpha rulebook (signed by Richard Garfield, no less).
 
@@ -1212,7 +1224,9 @@ Maybe it’s just my own nostalgia for the time, not too long after Alpha, when 
 
 Dave’s white-black deck made an early start of things with a classic White Knight (recently reincarnated in M10). OK, time to read the Alpha protection rules. “A creature with protection from one or more colors of magic cannot be affected by any magic of those colors.” Can’t be *affected*? So, like .... “For example, a creature with protection from blue cannot be blocked by blue creatures, dealt damage by blue creatures, or enchanted, damaged, or otherwise affected by blue cards.” Whaaaaat?
 
-![](https://i.ormos.uk/21/78/217849f46efeb67bdab3e70c1d521b3a2c6f9d5d135b3932844f8b2f5151ca85.jpg)This actually boded well for me. I wasn’t playing black, and Dave was—and don’t forget, I had Control Magic in hand. It wasn’t long before that Knight came to fight on my side of the table, and Dave’s Pestilence—nice combo!—was powerless to stop it. An Icy Manipulator ensured that his *second* White Knight couldn’t block mine ... and then I stole that one, too.
+![](https://i.ormos.uk/21/78/217849f46efeb67bdab3e70c1d521b3a2c6f9d5d135b3932844f8b2f5151ca85.jpg)
+
+This actually boded well for me. I wasn’t playing black, and Dave was—and don’t forget, I had Control Magic in hand. It wasn’t long before that Knight came to fight on my side of the table, and Dave’s Pestilence—nice combo!—was powerless to stop it. An Icy Manipulator ensured that his *second* White Knight couldn’t block mine ... and then I stole that one, too.
 
 “My” White Knights were banging away at Dave’s life total, and when he played a *third* one, I looked at my hand, realized I could kill him that turn with Psionic Blast—and decided to steal his third White Knight instead, for a win the next turn.
 
@@ -1309,7 +1323,9 @@ Final result: Jacob Van Lunen - 2 Max Tietze - 0
 
     *by Kelly Digges*
 
-![](https://i.ormos.uk/51/03/5103be2e4849beba4cfa8e7048a387a9ec089affa38aae6ffb530a8a465dc2f4.jpg)You might be familiar with Momir Basic, a **Magic** Online format in which every player uses the Momir Vig Vanguard avatar and a deck made only of basic lands. But I’m guessing most of you have never gotten the chance to do what I did today: to play Momir Basic offline, unplugged, in the real world.
+![](https://i.ormos.uk/51/03/5103be2e4849beba4cfa8e7048a387a9ec089affa38aae6ffb530a8a465dc2f4.jpg)
+
+You might be familiar with Momir Basic, a **Magic** Online format in which every player uses the Momir Vig Vanguard avatar and a deck made only of basic lands. But I’m guessing most of you have never gotten the chance to do what I did today: to play Momir Basic offline, unplugged, in the real world.
 
 In addition to granting +4 life, the Momir Vig avatar lets you pay ![X Mana](https://i.ormos.uk/6b/b1/6bb1152b0a3305d0a7c2e2eb725b8ebd18620607efc62f6f38b0642b97c8501f.gif) and discard a card, as a sorcery, to get a token copy of a random creature with converted mana cost X. So if you pay ![1 Mana](https://i.ormos.uk/6b/4c/6b4cf558eab279fb9414f146ebdd0e0705ec92984fec530597dd2a3bce43ce24.gif) and discard a card, you get a random one-drop creature that’s on **Magic Online**. Since everyone’s playing Momir and running only basic lands, there are a lot of random tokens running around.
 
@@ -1334,7 +1350,9 @@ I left while the four of them were still locked in combat, but Tom later reporte
 
 As at any big event, the tournament hall this weekend is host to numerous events. In between the many Standard tournaments, Sealed Deck flights, and eight-person drafts, you can find a smattering of more unusual events. One such event is the Vintage Challenge Prelim, whose winner gets a first-round bye for Sunday’s Vintage Challenge.
 
-![](https://i.ormos.uk/bf/06/bf0668023e2a3066e03bdf2fcddf26d8942153c9322cee8252da0ec4a29a093e.jpg)One of the tables in the Vintage Challenge Prelim had drawn quite an assembly of viewers, including a table judge, so I stopped in to investigate. Now, I’m not really up on Vintage, but I was pretty sure that what I was seeing was not normal. One of the players had zero permanents and an increasingly stocked graveyard, and the other had a handful of lands that included Bazaar of Baghdad but otherwise seemed to be doing very little.
+![](https://i.ormos.uk/bf/06/bf0668023e2a3066e03bdf2fcddf26d8942153c9322cee8252da0ec4a29a093e.jpg)
+
+One of the tables in the Vintage Challenge Prelim had drawn quite an assembly of viewers, including a table judge, so I stopped in to investigate. Now, I’m not really up on Vintage, but I was pretty sure that what I was seeing was not normal. One of the players had zero permanents and an increasingly stocked graveyard, and the other had a handful of lands that included Bazaar of Baghdad but otherwise seemed to be doing very little.
 
 The cause of this strange circumstance was quickly explained to me: the gentleman with the Bazaar, a Dredge player, had mulliganed to two cards (looking for Bazaar, presumably). His opponent, whose deck archetype was difficult to discern, had kept a no-land hand with Leyline of the Void—not ideal, but possibly worth it against an opponent known to be playing Dredge. He then proceeded to miss an astonishing *nine* land drops and counting, while his opponent returned the unfortunate Leyline to its owner’s hand and finally started to get his Dredge engine going.
 
@@ -1409,7 +1427,9 @@ Wise words from former team members, but will they re-earn that title this weeke
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/3d/99/3d99adbcfceb781604c81b0c3c30a5a1fc623fe1dc550aa2a540b5e0a3bdc616.jpg)Adam Yurchick is an Ohio-based Magic player who has become a Pro Tour fixture. He finished 9th at Pro Tour Hollywood and second at Grand Prix Philadelphia last season but would no doubt love to add National team member to his growing resume. He was off to a good start with a 4-0 record in the Standard and a 2-0 start to a draft pod that included Brian Kibler and Sam Black...and Mark Hendrickson. Mark is a long-time Pro Tour player who’s experience on the Tour goes all the way back to the first PT Los Angeles, where he lived for the first 30 years of his life. He resides in Texas now and is a member of the Texas Guildmages. His best finish on the Tour was a couple of seasons back in Geneva when he finished in the Top 32. He has been qualified for the past two National Championships but for this one he had to get in the hard way, through a grinder. He played a red-white creatureless control deck that has yet to lose for him this weekend with nine straight Standard wins. He had not done too shabbily in Limited either as he was preparing to square off for the perfect record in Pod one.
+![](https://i.ormos.uk/3d/99/3d99adbcfceb781604c81b0c3c30a5a1fc623fe1dc550aa2a540b5e0a3bdc616.jpg)
+
+Adam Yurchick is an Ohio-based Magic player who has become a Pro Tour fixture. He finished 9th at Pro Tour Hollywood and second at Grand Prix Philadelphia last season but would no doubt love to add National team member to his growing resume. He was off to a good start with a 4-0 record in the Standard and a 2-0 start to a draft pod that included Brian Kibler and Sam Black...and Mark Hendrickson. Mark is a long-time Pro Tour player who’s experience on the Tour goes all the way back to the first PT Los Angeles, where he lived for the first 30 years of his life. He resides in Texas now and is a member of the Texas Guildmages. His best finish on the Tour was a couple of seasons back in Geneva when he finished in the Top 32. He has been qualified for the past two National Championships but for this one he had to get in the hard way, through a grinder. He played a red-white creatureless control deck that has yet to lose for him this weekend with nine straight Standard wins. He had not done too shabbily in Limited either as he was preparing to square off for the perfect record in Pod one.
 
 Mark’s deck was chock full of late-pick red and green goodness as he generally eschews Esper and lets everyone else at the table fight for it. He was paid off at his table with a fifth pick Dragon Broodmother and sixth pick Spellbreaker Behemoth. Adam’s deck was similarly colored and he also anticipated a tendency for others to overfish Esper with maindeck Filigree Fracture and Molten Frame. 
 
@@ -1421,7 +1441,9 @@ Mark killed the 3/2 with Sangrite Backlash but his six land hand could not hold 
 
 ### Game 2
 
-![](https://i.ormos.uk/87/0e/870e0fa9a4530b8a4976bf75ed61cd7d9db52ae044eb7d7349aba03a072ac1ac.jpg)Adam reached for a package of blue cards that included Drastic Revelation, Mistvein Borderpost, and Lorescale Coatl taking out his artifact destruction. Mark played two lands with no play but Adam had kept a one-land/Druid of Anima hand but did not find his second land even with a cycled Deadshot Minotaur. He discarded Macta Rioter one turn after Mark played a two-drop and then conceded when he was facing down a Rhox Brute a turn after that.
+![](https://i.ormos.uk/87/0e/870e0fa9a4530b8a4976bf75ed61cd7d9db52ae044eb7d7349aba03a072ac1ac.jpg)
+
+Adam reached for a package of blue cards that included Drastic Revelation, Mistvein Borderpost, and Lorescale Coatl taking out his artifact destruction. Mark played two lands with no play but Adam had kept a one-land/Druid of Anima hand but did not find his second land even with a cycled Deadshot Minotaur. He discarded Macta Rioter one turn after Mark played a two-drop and then conceded when he was facing down a Rhox Brute a turn after that.
 
 ### Game 3
 

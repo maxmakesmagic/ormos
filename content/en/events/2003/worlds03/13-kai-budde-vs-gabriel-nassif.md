@@ -224,7 +224,9 @@ render_recovery:
 
 　Nassif が二体目の《ナントゥーコの影/Nantuko Shade》を召還したところで Kai が動き出す。ターン終了時に《納墓/Entomb》を使用し、落としたのは、《のたうつウンパス/Thrashing Wumpus》。それがすぐさま《死体発掘/Exhume》で出現すると、二体並んだ《ナントゥーコの影/Nantuko Shade》を一気にその呪われた爪で蹂躙する。
 
-![](http://www.wizards.com/sideboard/images/worlds03/a760.jpg)　こうなると Nassif は苦しい。元々のクリーチャーサイズの線が細く、更には唯一手札に残った太いクリーチャーは《ファイレクシアの抹殺者/Phyrexian Negator》。とても出せる状況では無い。なんとか《呪われた巻物/Cursed Scroll》で《不可思議/Wonder》を殺し《腐れ肺の再生術師/Rotlung Reanimator》での攻撃を行う。
+![](http://www.wizards.com/sideboard/images/worlds03/a760.jpg)
+
+　こうなると Nassif は苦しい。元々のクリーチャーサイズの線が細く、更には唯一手札に残った太いクリーチャーは《ファイレクシアの抹殺者/Phyrexian Negator》。とても出せる状況では無い。なんとか《呪われた巻物/Cursed Scroll》で《不可思議/Wonder》を殺し《腐れ肺の再生術師/Rotlung Reanimator》での攻撃を行う。
 
 　しかし、場をコントロールしている Kai も苦しい。序盤のダメージと己のウンバスが吐き出す毒ガス、そして何よりも Nassif が最初に設置した《呪われた巻物/Cursed Scroll》が毎ターン体に突き刺さる。Kai のライフはみるみるうちに減少し。
 

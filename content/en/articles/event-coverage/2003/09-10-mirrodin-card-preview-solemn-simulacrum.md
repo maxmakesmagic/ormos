@@ -238,7 +238,9 @@ render_recovery:
 ---
 All of the cards that have come from Invitational winner designs seem to fall into one of two groups. They are either misses of limited popularity, like Rootwater Thief and Sylvan Safekeeper, or widely adopted staples, like Avalanche Riders and Meddling Mage. 
 
-![](https://i.ormos.uk/f0/62/f0622f62a1e9ec4bfe07d85bdf8535ba863725d0ea5570f0516e80847deded88.jpg)I think that when Jens Thorén won the Invitational, a lot of players were worried that his submission, Forestfolk, was going to join the former group.
+![](https://i.ormos.uk/f0/62/f0622f62a1e9ec4bfe07d85bdf8535ba863725d0ea5570f0516e80847deded88.jpg)
+
+I think that when Jens Thorén won the Invitational, a lot of players were worried that his submission, Forestfolk, was going to join the former group.
 
 Forestfolk is interesting, and it does a couple of different things reasonably well . . . but the overall package struck most players as a tad underwhelming.
 

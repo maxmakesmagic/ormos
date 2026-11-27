@@ -176,7 +176,9 @@ Game 2
 
 Game 3
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_finalsa_pic2_ja.jpg)少し悩んだ末先攻を選ぶ原田だが、大舞台の緊張感からか1ターン目に《大霊堂の信奉者/Disciple of the Vault》を出し忘れるミスを犯す。その上土地が《沼/Swamp》と《囁きの大霊堂/Vault of Whispers》の2枚で止まってしまい、にっちもさっちも行かなくなってしまう。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_finalsa_pic2_ja.jpg)
+
+少し悩んだ末先攻を選ぶ原田だが、大舞台の緊張感からか1ターン目に《大霊堂の信奉者/Disciple of the Vault》を出し忘れるミスを犯す。その上土地が《沼/Swamp》と《囁きの大霊堂/Vault of Whispers》の2枚で止まってしまい、にっちもさっちも行かなくなってしまう。
 
 加藤は涼しい顔で《ヴァルショクの狂戦士》、《ピューターのゴーレム/Pewter Golem》と繋げる。原田が《発見の旅路/Journey of Discovery》をプレイできたときには、既に加藤は上記の2体が《記憶の仮面》のサポート付きで殴り、《記憶の仮面》は《トゲ撃ちゴブリン/Spikeshot Goblin》を導くという、まさに加藤がドラフトしたときに思い描いたであろう理想形を描いていた。
 

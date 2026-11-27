@@ -58,13 +58,17 @@ Boston was a bit of a whirlwind for me, with emotional extremities likely blindi
 
 ### PHEONIX FOUNDATION
 
-![](http://www.wizards.com/sideboard/images/ptbos02/727.jpg)17-0 lifetime in Team Rochester at Pro level events. Is there any doubt now that this is the greatest team of all time? Marco Blume has never cracked a Top 8 as an individual, but he's tied for third all time in PT wins, trailing only his Foundation teammates while tied with luminaries like Jon Finkel and Tommi Hovi.
+![](http://www.wizards.com/sideboard/images/ptbos02/727.jpg)
+
+17-0 lifetime in Team Rochester at Pro level events. Is there any doubt now that this is the greatest team of all time? Marco Blume has never cracked a Top 8 as an individual, but he's tied for third all time in PT wins, trailing only his Foundation teammates while tied with luminaries like Jon Finkel and Tommi Hovi.
 
 The real question posed by the Foundation's remarkable run is whether this is the proof that Team Rochester is the most skill testing of all sanctioned formats. Yes, there has to be some luck involved in any streak as remarkable as this one, but think about it: Everyone agrees this is the best team in the world. They tell anyone who'll listen that they're going to keep winning and they show every time that they're more than just talk, and in doing so, they create the most responsible result one can find in any competitive endeavor: the better team wins. How can you argue with that? Sure, Kai wins more than his fair share in other formats: he's the best player and that's going to happen. But even the Juggernaut has his bad tournaments, regardless of whether he'd running the best deck, and that's got to be blamed in part on the luck factor of **Magic**.
 
 ### The Best Format Ever?
 
-![](http://www.wizards.com/sideboard/images/ptbos02/755.jpg)The Germans and their 17-0 record have found the proof that in Team Rochester, where not only are there so many opportunities to outdraft your opponent, but outplay them as well (if you know every card in the opposing deck, you know what to play around), the fact that mana screw can be beaten by your teammates covering your back makes this the ultimate skill-based format in a game fighting for respectability while its own legions continually bemoan the luck of the game. Right?
+![](http://www.wizards.com/sideboard/images/ptbos02/755.jpg)
+
+The Germans and their 17-0 record have found the proof that in Team Rochester, where not only are there so many opportunities to outdraft your opponent, but outplay them as well (if you know every card in the opposing deck, you know what to play around), the fact that mana screw can be beaten by your teammates covering your back makes this the ultimate skill-based format in a game fighting for respectability while its own legions continually bemoan the luck of the game. Right?
 
 Not necessarily. As you look down the standings, you'll see that there were a number of mercenary teams of pros that did poorly. Courtney's Boys seems to be the exception to that rule, but we differed from the norm by getting together for a week and a half before a PT, those flights apparently a good investment, and even then we only managed a generous 3-1-1 in the draft portion (20/20 were about to beat us when they offered the draw that clinched their Top 4 spot). 
 
@@ -100,7 +104,9 @@ While this paints a rather comical picture, there are two things about Neil you 
 
 Who???
 
-![](http://www.wizards.com/sideboard/images/ptbos02/728.jpg)Okay, okay, we all know their names, but really, this may be the story of the tournament. 20/20, a.k.a. Elijah Pollock, Dave Rood and Steve Wolfman, came out of nowhere to finish second in Boston, toppling what I think is a pretty solid team in the semis, much the same way they did in the Swiss until they offered us a draw while sitting on victory's doorstep with the realization the draw put them into Sunday.
+![](http://www.wizards.com/sideboard/images/ptbos02/728.jpg)
+
+Okay, okay, we all know their names, but really, this may be the story of the tournament. 20/20, a.k.a. Elijah Pollock, Dave Rood and Steve Wolfman, came out of nowhere to finish second in Boston, toppling what I think is a pretty solid team in the semis, much the same way they did in the Swiss until they offered us a draw while sitting on victory's doorstep with the realization the draw put them into Sunday.
 
 Both times we played, Steve Wolfman handed me my rear. The semifinal result feels like a bit of an aberration, but the Swiss beating was followed by a number of fun game beatings. In fact, Wolfman beat me in last year's tournament too as Potato Nation put up a less than spectacular showing. Yes, this man owns me. Funny thing… I've been getting paired up against Steve Wolfman for years.
 

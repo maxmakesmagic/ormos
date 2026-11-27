@@ -131,7 +131,9 @@ render_recovery:
   - Walking Descration
   occurrences: 139
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a868.jpg)Patrick Sullivan is one of the members of the hot up-and-coming Jersey team, TOGIT (The Only Game In Town). This group has produced both CMU'er Eugene Harvey and PT Top 8'er Osyp Lebedowicz, so Sullivan certainly runs with a good crowd, even if he isn't a big name himself.
+![](http://www.wizards.com/sideboard/images/gpphi02/a868.jpg)
+
+Patrick Sullivan is one of the members of the hot up-and-coming Jersey team, TOGIT (The Only Game In Town). This group has produced both CMU'er Eugene Harvey and PT Top 8'er Osyp Lebedowicz, so Sullivan certainly runs with a good crowd, even if he isn't a big name himself.
 
 Gary Wise should be known to all by this point and needs no further introductions.
 
@@ -171,7 +173,9 @@ Game 2:
 
 Gary and Patrick kept their hands, but Gary was forced to cycle Armor in order to get to some meat in his deck. Meanwhile, Patrick began strong with Disciple of Malice, Nantuko Husk and Dive Bomber, all unanswered. Finally, Gary played a Dive Bomber of his own, but Patrick swung through, trading flyers and playing Battlefield Medic and a morph creature.
 
-![](https://i.ormos.uk/3d/11/3d11901e8b4aac86b2ca2796f31cd574a27b05547f342358faaccf3d5b80171f.jpg)Gary seemed to stabilize with a Tephraderm, capable of stopping Patrick's entire force. Sullivan had four creatures on the board, and could keep momentum by hitting for at least four (possibly more if the Husk was unblocked), as Gary already was at 13. He picked up Tephraderm to read the abilities of the mighty beast, and shuffled his hand nervously, looking for a solution. He played a Plains, shook his head, tapped his fingers thoughtfully on the table, and passed the turn.
+![](https://i.ormos.uk/3d/11/3d11901e8b4aac86b2ca2796f31cd574a27b05547f342358faaccf3d5b80171f.jpg)
+
+Gary seemed to stabilize with a Tephraderm, capable of stopping Patrick's entire force. Sullivan had four creatures on the board, and could keep momentum by hitting for at least four (possibly more if the Husk was unblocked), as Gary already was at 13. He picked up Tephraderm to read the abilities of the mighty beast, and shuffled his hand nervously, looking for a solution. He played a Plains, shook his head, tapped his fingers thoughtfully on the table, and passed the turn.
 
 This allowed Gary time to play Daru Cavalier, and start up the Cavalier chain. Gary presented his deck for Patrick to cut (after he searched out the Cavalier) and then Patrick drew a card. Gary immediately called a judge—Patrick had thought Gary said go, but Gary still had spells to cast for the turn. Head judge Nat Fairbanks ruled that Patrick had drawn an extra card (both players agreed on the situation), and Patrick was given a game loss.
 
@@ -195,7 +199,9 @@ Patrick started up and air force with Dive Bomber and Screeching Buzzard. Gary w
 
 The Bomber swung, bringing the life totals more in line for the first time this game, with Gary leading 12-11. Daru Lancer entered the board for Sullivan, as Gary Shocked the flyer on the board. Gary then cast another Cavalier to get his third Cavalier of the game.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a870.jpg)Each player dropped morph creatures. Gary played Cavalier number three, but had not boarded in the fourth. Each player continued building up their forces, with Gary enchanting the Husk with Pacifism, and Patrick bringing out a Glory Seeker and unmorphing his Fallen Cleric.
+![](http://www.wizards.com/sideboard/images/gpphi02/a870.jpg)
+
+Each player dropped morph creatures. Gary played Cavalier number three, but had not boarded in the fourth. Each player continued building up their forces, with Gary enchanting the Husk with Pacifism, and Patrick bringing out a Glory Seeker and unmorphing his Fallen Cleric.
 
 Gary plopped down Sparksmith, which was quickly Smothered. Patrick hard cast Disciple of Malice, which faced down a board of white creatures plus a morph on Gary's side. The judges sounded the five minute warning, as Gary drew into his Pit Fighter Legend and swung for four—turning his Legend into a Legendary Wall. The swing reduced Patrick to seven. Gary cast Erratic Explosion to kill Fallen Cleric (so he would not die to a Dirged alpha strike). Patrick top decked and played Gluttonous Zombie, which ran past all of Gary's creatures to bring the life totals to 9-7. 
 

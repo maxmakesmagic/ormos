@@ -615,7 +615,9 @@ My point here is that we didn't talk specifically about whether development need
 
 **RandyB**: Yeah, this was actually a pretty tough decision because, as I pointed out in the previous answer, we have a lot of respect for history. However, the details of phasing are fairly arbitrary and make no sense if you think about them. Phasing out **does** trigger “leaves play” abilities, but phasing in does **not** trigger “comes into play abilities.” So it leaves play but doesn't come into play? Huh?! We've decided that was just too counter-intuitive to leave in place, so we're cleaning things up. Phasing will no longer trigger leaves play abilities. (The other potential change – having phasing trigger “comes into play” abilities – might have had a little better flavor, but it's way too big of a functional change to way too many cards so we're not doing that.) This change will be part of the *Ravnica* update to the *Comp Rules*, so it will go into effect on approximately October 1st.
 
-![](https://i.ormos.uk/49/34/49342c27ee0a9422de8e6d409564237c4dcd8100be713ff875dcbda0154a1258.jpg)**IntoTheAether**: We've seen some adjustment in creature types for *9th Edition*; are there going to be any changes to creature types in *Mirage*? (*Here's hoping Cobras become Snakes!*)
+![](https://i.ormos.uk/49/34/49342c27ee0a9422de8e6d409564237c4dcd8100be713ff875dcbda0154a1258.jpg)
+
+**IntoTheAether**: We've seen some adjustment in creature types for *9th Edition*; are there going to be any changes to creature types in *Mirage*? (*Here's hoping Cobras become Snakes!*)
 
 **RandyB**: Our current policy with creature types is to update them whenever we print new cards. This counts as us printing new cards, so yes we are going to modernize the creature types. Your last article actually generated a bunch of feedback – it's amazing what a good campaign poster can do – and we're listening. You can tell the Cobras to stop picketing … they will get to play with the *Kamigawa* snakes this winter! (*Snake fans can send their fan letters to the talented [Jen Page](/en/articles/arcana/2005/06-23-magic-dossier-jen-page) for said campaign poster*)
 
@@ -637,7 +639,9 @@ One of our plans for making a *Mirage* theme decks is to host a tournament serie
 
 Basically, we're going to treat this the same way we treat the cards that Invitational winners submit. I expect to exchange a lot of e-mails with whoever wins the tournament. [Click here](/en/articles/feature/2005/08-04-design-a-miragetm-theme-deck-tournament) to read the details of the event – qualifiers begin next week. Our plans for the other 3 are still secret, but I can say that each deck will be built in a completely different way. Keep your eyes glued to magicthegathering.com for more details!
 
-![](https://i.ormos.uk/bf/ae/bfaec620cb267acc3dadccd07c7ef298771c64ebc8e283bdf30b3c6d232ab3bc.jpg)**IntoTheAether**: Some people have expressed some concern about Dark Ritual being injected into the environment, fueling Storm decks and bringing back the dreaded turn 1 Hypnotic Specter (reprinted in *9th Edition*). Do you think it could be a problem that might need to be addressed by banning?
+![](https://i.ormos.uk/bf/ae/bfaec620cb267acc3dadccd07c7ef298771c64ebc8e283bdf30b3c6d232ab3bc.jpg)
+
+**IntoTheAether**: Some people have expressed some concern about Dark Ritual being injected into the environment, fueling Storm decks and bringing back the dreaded turn 1 Hypnotic Specter (reprinted in *9th Edition*). Do you think it could be a problem that might need to be addressed by banning?
 
 **RandyB**: Well, it's only going to be legal in the Classic format. Since the whole point of Classic is that no sets ever rotate out of it, the power-level of that format is going to inevitably rise over time. A couple years from now Ritual-Hippie might be the only way a cutthroat, competitive Classic deck has a chance against an Academy deck. I'm not sure exactly what the long-term fate of that format will be. It's nice to have a format where you can play with every card ever released online, but it's also nice to have a format where broken stuff doesn't happen. My best guess is that we'll eventually start restricting cards in Classic (making it the online equivalent of “Type 1”), but first we'll watch the format and ask around to try to figure out what players actually want.
 

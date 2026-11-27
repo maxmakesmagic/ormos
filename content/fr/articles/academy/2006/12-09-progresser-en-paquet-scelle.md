@@ -643,7 +643,9 @@ En gardant cela à l’esprit, voici 10 étapes générales que je suis lorsque 
 
 Étalez chaque couleur en colonne de façon à voir au moins le nom de chaque carte. 
 
-![Sift](https://i.ormos.uk/ef/b7/efb7b748d9c194f80113fd920942961ea86240e781fccfe12e1a337cf95297cf.jpg)**2\. Enlevez les mauvaises cartes :** Il faut concentrer son attention sur les cartes importantes. Mettez de côté toutes les cartes qui ont l’air mauvaises, et même celles qui sont à peine moyennes. Ne vous inquiétez pas, il n’y a rien de définitif, on reviendra sur ces cartes plus tard mais, pour le moment, nous voulons nous concentrer sur le haut du panier. 
+![Sift](https://i.ormos.uk/ef/b7/efb7b748d9c194f80113fd920942961ea86240e781fccfe12e1a337cf95297cf.jpg)
+
+**2\. Enlevez les mauvaises cartes :** Il faut concentrer son attention sur les cartes importantes. Mettez de côté toutes les cartes qui ont l’air mauvaises, et même celles qui sont à peine moyennes. Ne vous inquiétez pas, il n’y a rien de définitif, on reviendra sur ces cartes plus tard mais, pour le moment, nous voulons nous concentrer sur le haut du panier. 
 
 Ce processus n’a pas besoin d’être parfait, bien sûr. Son but n’est que de *vous* aider à penser.
 

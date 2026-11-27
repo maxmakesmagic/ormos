@@ -53,7 +53,9 @@ archive_source:
   sha256: b51ebe0456f98fcba3e5f3aa677508e3f4494affc81e25a5f5f1b1930a2e1499
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a874.jpg)Pro Tour and Grand Prix Champion Mike Turianand constant left-of-spotlight finisher Dan Clegg had no need for small talk as they shuffled up their decks. They discussed instead the previous day's Standard, and how their respective decks (Clegg with blue-green madness and Turian with green-blue-red Opposition) mulliganed better than most. With a friendly handshake, the match was underway.
+![](http://www.wizards.com/sideboard/images/usnat02/a874.jpg)
+
+Pro Tour and Grand Prix Champion Mike Turianand constant left-of-spotlight finisher Dan Clegg had no need for small talk as they shuffled up their decks. They discussed instead the previous day's Standard, and how their respective decks (Clegg with blue-green madness and Turian with green-blue-red Opposition) mulliganed better than most. With a friendly handshake, the match was underway.
 
 Turian mulliganed to start, but found six he liked a lot better. While Clegg opened with a pair of lands, Turian Insisted to smooth his draw, then hit for four with a Reckless Charged Woodland Druid. Clegg made a Shieldmage Advocate, getting ready to rule the combat phase. Turian Charged for four more while the getting was good. Clegg strengthened his position with Dirty Wererat.
 
@@ -73,7 +75,9 @@ The second game got underway on the third turn, but it was really busy. Turian h
 
 Turian realized just how bad things were, and started to chew on his pen in consternation. His Barbarian was locked down by the Decoy. He thought for a minute, then ran the Lithatog in for one. He pinned his hopes on Pardic Lancer.
 
-![](http://www.wizards.com/sideboard/images/usnat02/a877.jpg)Clegg agonized over his next play. He decided to play it safe, swinging with just the Carrion Wurm, dropping Turian to five and passing it back. He was waiting on Waste Away. It dispatched Possessed Barbarian when it tried something funny. Clegg was content to bide his time, waiting for the moment when Floating Shield could serve up the win. He added Pilgrim of Virtue for a bit of a clock.
+![](http://www.wizards.com/sideboard/images/usnat02/a877.jpg)
+
+Clegg agonized over his next play. He decided to play it safe, swinging with just the Carrion Wurm, dropping Turian to five and passing it back. He was waiting on Waste Away. It dispatched Possessed Barbarian when it tried something funny. Clegg was content to bide his time, waiting for the moment when Floating Shield could serve up the win. He added Pilgrim of Virtue for a bit of a clock.
 
 Just then, Tournament Organizer Jeff Donais barged into the Feature Match Area with reporters and photographers in tow. Donais was explaining how the Red Zone playmat worked, and using Clegg as an illustration. Clegg was having a hard enough time optimizing his line of play, and an extra pair of hands on his lands and creatures weren't helping things. Not to mention the barrage of extra dialogue about the game in question. And then Gary Wise showed up. This time, however, he was the voice of reason, and Clegg and Turian were able to resume their game in a more civilized atmosphere.
 
@@ -81,7 +85,9 @@ Turian built forces including Dwarven Scorcher and Chainflinger. Clegg tapped an
 
 Turian 1 - Clegg 1
 
-![](http://www.wizards.com/sideboard/images/usnat02/a875.jpg)While shuffling for the deciding game, Turian hoped aloud "Maybe this game Woodland Druid will come out and smash!" Well, he got his wish, and it was joined by Dwarven Scorcher. Clegg for his part managed a Mesmeric Fiend, seeing Sonic Seizure and Pardic Arsonist, but taking Chainflinger. 
+![](http://www.wizards.com/sideboard/images/usnat02/a875.jpg)
+
+While shuffling for the deciding game, Turian hoped aloud "Maybe this game Woodland Druid will come out and smash!" Well, he got his wish, and it was joined by Dwarven Scorcher. Clegg for his part managed a Mesmeric Fiend, seeing Sonic Seizure and Pardic Arsonist, but taking Chainflinger. 
 
 And just as onlooker Aaron Forsythe was whispering to Ben "Superman" Rubin "What Turian needs here is for Clegg to miss it", Clegg drew a card and passed it right back. Crackling Club off the top freed the Chainflinger as if to show Clegg how to draw lucky. He found a third land and made a Vigilant Sentry.
 

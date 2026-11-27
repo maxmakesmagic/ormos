@@ -109,7 +109,9 @@ We've already seen how the name and the flavor text mesh wonderfully with the ca
 
 ### Magic Mail-Bag
 
-![](https://i.ormos.uk/c4/fa/c4facdfbfb5516a8474a6ae0d44339973df7b7ee51b2f0c088b83c8dd35dd92b.jpg)Among the emails I received this past week was a special one. It was from someone many of us already know- [Sekki, Season's Guide](https://web.archive.org/web/20050831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sekki%2C+Season%27s+Guide).
+![](https://i.ormos.uk/c4/fa/c4facdfbfb5516a8474a6ae0d44339973df7b7ee51b2f0c088b83c8dd35dd92b.jpg)
+
+Among the emails I received this past week was a special one. It was from someone many of us already know- [Sekki, Season's Guide](https://web.archive.org/web/20050831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sekki%2C+Season%27s+Guide).
 
 > *Dear **Magic** Creative,  
 >  For a while I thought you guys were awesome. You took my bland life of guiding the seasons (Spring, Summer, Autumn, Winter, Spring, Summ…) and turned things upside down with the Kami War. During the war, all bets were off and I could get crazy and follow Spring with Winter, Summer with…more Summer. It was a madhouse! For the first time in a million years I was having fun. Then you go and end the War. Now it's back to the old grind. Anyway, I can guide these dumb seasons in my sleep. Is there anything you guys can do to give me something else to spice up my tedious existence?  

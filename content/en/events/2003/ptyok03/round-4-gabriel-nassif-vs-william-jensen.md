@@ -78,7 +78,9 @@ render_recovery:
   - Vitality Charm
   occurrences: 27
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a921.jpg)William "Baby Huey" Jensen has made Top 8 in the last two Pro Tours, and is looking to make it a three-peat this week. The only player to accomplish three Pro Tour Top 8s in a row so far is Scott Johns. Jensen has long been considered one of the best players in America, and lately he's putting up finishes to prove that he is indeed among the elite. So far he's deviated from his plan, and came into this Feature Match a disappointing 1-2. Nassif is in the same boat. He's had a pretty good weekend so far, advancing to the finals of the Masters. He's already guaranteed to leave Yokohama with a great deal of money, but would like to collect a second paycheck in the Pro Tour. Only one of these two can make that happen.
+![](http://www.wizards.com/sideboard/images/ptyok03/a921.jpg)
+
+William "Baby Huey" Jensen has made Top 8 in the last two Pro Tours, and is looking to make it a three-peat this week. The only player to accomplish three Pro Tour Top 8s in a row so far is Scott Johns. Jensen has long been considered one of the best players in America, and lately he's putting up finishes to prove that he is indeed among the elite. So far he's deviated from his plan, and came into this Feature Match a disappointing 1-2. Nassif is in the same boat. He's had a pretty good weekend so far, advancing to the finals of the Masters. He's already guaranteed to leave Yokohama with a great deal of money, but would like to collect a second paycheck in the Pro Tour. Only one of these two can make that happen.
 
 ### Game 1
 
@@ -92,7 +94,9 @@ Jensen had a second turn Biologist and third turn morph creature, while Nassif p
 
 However, Nassif was not out. He killed Sparksmith with Chain of Plasma, and Crested Craghorn dealt with the Mistform Wall. He had to cycle two off-color cards, showing that his deck was a bit less than optimal. Goblin Machinist gave him a potentially deadly creature with all the lands he had out, so Jensen simply played Primoc Escapee and ended his turn, 
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a925.jpg)Nassif- "Are the cards in your hand good?"
+![](http://www.wizards.com/sideboard/images/ptyok03/a925.jpg)
+
+Nassif- "Are the cards in your hand good?"
 
 Jensen- "Yeah. I'll bet you $20 that they are. Never mind, I don't want to take your money or hurt your pride."
 
