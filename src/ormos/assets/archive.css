@@ -234,7 +234,7 @@ th { background: #f0e9dc; }
 button, #query, #video-query { padding: .45rem .65rem; border-radius: .2rem; }
 .video-filter label { display: block; }
 #video-query { width: min(100%, 34rem); margin-top: .3rem; }
-.video-table td:first-child { overflow-wrap: anywhere; }
+.video-table td:not(.video-duration) { overflow-wrap: anywhere; }
 .video-duration { width: 5rem; white-space: nowrap; font-variant-numeric: tabular-nums; }
 .video-alternate { display: block; font-size: .85rem; }
 .video-player { display: block; width: 100%; max-height: 70vh; margin-top: .65rem; background: var(--header); }

@@ -4,17 +4,18 @@
 {% block content %}
 <h1>{{ title | escape_html }}</h1>
 <div class="video-filter" hidden>
-<label for="video-query">Filter by title, filename, or archive coverage</label>
+<label for="video-query">Filter by event, video, filename, or archive coverage</label>
 <input id="video-query" type="search" data-video-filter autocomplete="off">
 </div>
 <p class="count" role="status" data-video-count>{{ "{:,}".format(rows | length) }} {{ "video" if rows | length == 1 else "videos" }}</p>
 <table class="video-table">
 <caption class="visually-hidden">Videos</caption>
-<thead><tr><th scope="col">Video</th><th scope="col">Duration</th></tr></thead>
+<thead><tr><th scope="col">Event or series</th><th scope="col">Video</th><th scope="col">Duration</th></tr></thead>
 <tbody>
 {%- for video, terms in rows -%}
   <tr data-video-entry data-video-search="{{ terms | escape_html }}">
-    <td>{{ link(video.path, video.title, {"data-video-page": ""}) }}{% if video.alternate %}<span class="count video-alternate">Alternate encoding</span>{% endif %}</td>
+    <td>{{ video.event | escape_html }}</td>
+    <td>{{ link(video.path, video.segment_title, {"data-video-page": "", "aria-label": video.display_title}) }}{% if video.alternate %}<span class="count video-alternate">Alternate encoding</span>{% endif %}</td>
     <td class="video-duration">{% if video.duration_seconds is not none %}<time datetime="PT{{ video.duration_seconds }}S">{{ video.duration }}</time>{% else %}Unknown{% endif %}</td>
   </tr>
 {%- endfor -%}

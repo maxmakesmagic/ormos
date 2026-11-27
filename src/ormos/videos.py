@@ -60,6 +60,21 @@ class Video:
     filenames: tuple[str, ...]
     duration_seconds: int | None
     alternate: bool
+    event: str = ""
+    segment: str = ""
+
+    @property
+    def segment_title(self) -> str:
+        """Use the archived segment label when it is known."""
+        return self.segment or self.title
+
+    @property
+    def display_title(self) -> str:
+        """Include the event when the title appears outside the video list."""
+        title = self.segment_title
+        if self.event and self.event.casefold() != title.casefold():
+            return f"{self.event} · {title}"
+        return title
 
     @property
     def path(self) -> str:
@@ -96,6 +111,10 @@ class Video:
         if type(alternate) is not bool:
             raise ValueError(f"Invalid video encoding marker: {url}")
         article_ids, filenames = row["article_ids"], row["filenames"]
+        event, segment = row.get("event", ""), row.get("segment", "")
+        if not isinstance(event, str) or not isinstance(segment, str):
+            # The build reports malformed catalog data as a ValueError.
+            raise ValueError(f"Invalid video context: {url}")  # noqa: TRY004
         if not isinstance(article_ids, list):
             # A malformed JSON field is an archive data error.
             raise ValueError(f"Invalid video article IDs: {url}")  # noqa: TRY004
@@ -110,6 +129,8 @@ class Video:
             tuple(filenames),
             duration,
             alternate,
+            event.strip(),
+            segment.strip(),
         )
 
 
@@ -254,7 +275,13 @@ class VideoLibrary:
             return
         rows = []
         for video in sorted(
-            self.videos, key=lambda video: (video.title.casefold(), video.url)
+            self.videos,
+            key=lambda video: (
+                not video.event,
+                video.event.casefold(),
+                video.segment_title.casefold(),
+                video.url,
+            ),
         ):
             entries = sorted(
                 (site.entries[identifier] for identifier in video.article_ids),
@@ -262,10 +289,12 @@ class VideoLibrary:
             )
             terms = " ".join(
                 (
+                    video.event,
+                    video.title,
                     *video.filenames,
                     *(f"{entry.title} {entry.published}" for entry in entries),
                 )
-            )
+            ).strip()
             rows.append((video, terms))
             self._write_page(site, video, entries)
 
@@ -302,7 +331,7 @@ class VideoLibrary:
             video.path,
             render_page(
                 "video.html",
-                video.title,
+                video.display_title,
                 video.path,
                 script=f"/assets/{VIDEO_SCRIPT}" if captions_path else "",
                 video=video,
