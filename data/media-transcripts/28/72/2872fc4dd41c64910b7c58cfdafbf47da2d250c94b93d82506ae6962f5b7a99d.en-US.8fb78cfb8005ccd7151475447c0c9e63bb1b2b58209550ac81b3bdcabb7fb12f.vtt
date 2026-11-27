@@ -1,0 +1,497 @@
+WEBVTT
+
+00:00:04.670 --> 00:00:19.480
+<v Speaker 1>Hello Planeswalkers and welcome to another episode of the Daily in Teaching podcast. I'm your host trick chair here. One of my Co hosts, Gavin Verhey Chief was unfortunately not able to join us this week, but the company with another special guest from R&amp;D, Dave Guskin. Gavin, Dave, how you guys doing?</v>
+
+00:00:19.620 --> 00:00:20.710
+<v Speaker 2>Pretty good, pretty good.</v>
+
+00:00:20.750 --> 00:00:22.240
+<v Speaker 3>So what do you say? Take him down.</v>
+
+00:00:26.400 --> 00:00:27.340
+<v Speaker 2>Brand is that.</v>
+
+00:00:28.970 --> 00:00:31.720
+<v Speaker 1>He's only on loan. We'll give him back to you guys in a couple of.</v>
+
+00:00:31.730 --> 00:00:32.240
+<v Speaker 2>Weeks.</v>
+
+00:00:32.730 --> 00:00:48.130
+<v Speaker 1>For the next couple of weeks, comments up here with me and Tifa and brand the the marketing team to one of our brand managers on paternity leave. So he's turned his coat temporarily to 4th floor instead of the normal shiny third floor jacket he wears around the office.</v>
+
+00:00:48.140 --> 00:00:49.260
+<v Speaker 2>That's really nice. Jackets down.</v>
+
+00:00:49.270 --> 00:00:53.200
+<v Speaker 1>There, but to be fair, Dave, you're you're almost Brandon in a couple of.</v>
+
+00:00:53.210 --> 00:00:55.680
+<v Speaker 2>Ways, I guess I do work very closely with Brandon.</v>
+
+00:00:57.570 --> 00:00:58.780
+<v Speaker 1>Yes, yeah,</v>
+
+00:00:59.540 --> 00:01:05.660
+<v Speaker 1>but you're up here because A, you're awesome, but B, you were the lead developer on Magic 2014.</v>
+
+00:01:05.670 --> 00:01:08.810
+<v Speaker 2>That's true. Yeah. My first course at my first design. First lead design.</v>
+
+00:01:08.820 --> 00:01:13.560
+<v Speaker 1>First lead design, first lead development. Why you got confused? The listeners like that.</v>
+
+00:01:13.570 --> 00:01:16.430
+<v Speaker 2>Day. Well, it's technically final design and development.</v>
+
+00:01:16.440 --> 00:01:16.840
+<v Speaker 1>So just.</v>
+
+00:01:16.850 --> 00:01:18.360
+<v Speaker 2>Think of it as design, but yeah.</v>
+
+00:01:19.860 --> 00:01:28.450
+<v Speaker 1>So you said it was your first development. Well, you eventually got there, but let's talk about how you got to Wizards and what you did before and what you've done at Wizards before now. So.</v>
+
+00:01:28.460 --> 00:01:36.530
+<v Speaker 2>Sure. Yeah. So actually my path to Wizards was quite long and arduous. I started as a physicist, actually working in laboratories and.</v>
+
+00:01:36.610 --> 00:01:37.470
+<v Speaker 1>Totally, totally.</v>
+
+00:01:37.480 --> 00:01:39.470
+<v Speaker 2>Reasonable. It's definitely you imagine.</v>
+
+00:01:40.030 --> 00:01:45.050
+<v Speaker 3>Think about R&amp;D that does sound like have everyone like, you know, like something crazy in science.</v>
+
+00:01:45.060 --> 00:01:49.590
+<v Speaker 2>So, so actually for many years, almost seven I would say, I applied to basically every job.</v>
+
+00:01:49.660 --> 00:01:51.800
+<v Speaker 2>It's on the website. It was like a novel writing position guy.</v>
+
+00:01:53.740 --> 00:02:23.340
+<v Speaker 2>Yeah, no problem. Ohh, marketing. Yeah, let's do that. And eventually after I come transitioned into being a programmer in video games, when I went to after laboratory science, there was a position that was like, hey, be a programmer for words. Like that's exactly me. So I applied and got the job. And then of course, once I was inside the building is like, yes, I want to volunteer whatever magic stuff you have. So as I was doing my day job as a programmer, I playtested and Rd. for FFL standard play testing. I joined in for some drafts and eventually I was asked to be on the alarming Born development team</v>
+
+00:02:23.420 --> 00:02:24.390
+<v Speaker 2>in that place where you work.</v>
+
+00:02:24.400 --> 00:02:25.010
+<v Speaker 1>Here right?</v>
+
+00:02:25.060 --> 00:02:51.110
+<v Speaker 2>Which was, it was awesome. It was really cool to be on a team of people who just love designing cards, you know, making sure that the environment is fun to play. And then over time Vision became available in digital R&amp;D for Magic and I was working as the Ryan Spain at The Time Machine. And then I transitioned into working for duels, actually led the 2013 duels. And then I got offered this job to be the lead of 14.</v>
+
+00:02:52.020 --> 00:02:52.510
+<v Speaker 2>That's kind of.</v>
+
+00:02:52.800 --> 00:02:54.150
+<v Speaker 3>He also made gatherer too.</v>
+
+00:02:54.160 --> 00:03:01.810
+<v Speaker 2>Right. Ohh, yeah, sorry. Before I transition from being a programmer into R&amp;D, I moved on to programming gatherer with Eric Berglund and the two of us together made together as.</v>
+
+00:03:01.820 --> 00:03:02.860
+<v Speaker 1>It is today, right?</v>
+
+00:03:03.640 --> 00:03:06.150
+<v Speaker 3>I have that book tool every single day. Yeah.</v>
+
+00:03:07.640 --> 00:03:09.020
+<v Speaker 3>So whoever did that with a genius?</v>
+
+00:03:09.860 --> 00:03:11.230
+<v Speaker 1>Probably physicist contact.</v>
+
+00:03:12.740 --> 00:03:13.930
+<v Speaker 3>It's not rocket science.</v>
+
+00:03:16.840 --> 00:03:22.390
+<v Speaker 1>Magic card data is pretty close to rocket scientists when you start diving into the same.</v>
+
+00:03:22.400 --> 00:03:32.630
+<v Speaker 2>Kind of complex anatomy of Magic card. How many? I think we have something like 2020 sequel tables in our database just for just for holding all the characteristics of a card and all the possible configurations.</v>
+
+00:03:32.720 --> 00:03:33.070
+<v Speaker 1>Right.</v>
+
+00:03:34.000 --> 00:03:40.590
+<v Speaker 1>So that's all awesome stuff, but you also do something else which is experience design. Ohh yeah, let's let's talk a little bit about that.</v>
+
+00:03:40.600 --> 00:04:03.990
+<v Speaker 2>Sure, so that's my new job starting almost a year ago. I was working more and more on like how to make a set kind of pop when it first came out. That was a lot of the design work I was doing and then with Paul Levy brand manager, we ended up working on return around because block together. We did kind of this whole, let's make points or points into this thing where you choose your Guild and then you can fight for your Guild and all this kind of</v>
+
+00:04:04.060 --> 00:04:22.820
+<v Speaker 2>factionalized stuff. And that turns that led into being the experience designer for Rd. where every time a new product comes out and we want to make it, you know, pop and and have it be like a big event in the store. That's the kind of stuff I work on. So things like the hell ball, the the boxes for guilds, and then this upcoming thing, which I'm pretty excited to talk about eventually for Ferris.</v>
+
+00:04:22.910 --> 00:04:26.400
+<v Speaker 1>Yes, there is gonna be a lot of fun. We'll definitely have you back on and talk about it when it's.</v>
+
+00:04:26.410 --> 00:04:27.200
+<v Speaker 2>Time.</v>
+
+00:04:27.370 --> 00:04:34.620
+<v Speaker 1>But let's talk instead about what's coming out before Theros, and that is this upcoming weekend will be the M14 pre-release.</v>
+
+00:04:34.870 --> 00:04:38.820
+<v Speaker 1>And so let's talk about what you guys did on M14. This is your first lead.</v>
+
+00:04:38.870 --> 00:04:50.760
+<v Speaker 2>Yeah, yeah. So it was kind of terrifying. Sure. Personally, I I did have a really good Ally and Aaron Forsythe, director of who's amazing at both design and development.</v>
+
+00:04:50.770 --> 00:04:51.530
+<v Speaker 1>Kind of a smart.</v>
+
+00:04:51.540 --> 00:05:03.880
+<v Speaker 2>Guy, Yeah, yeah. So he helped me out. He was my strong second and then yeah, our our team. So initially it was just me and I worked with Mark Lewis and he's the designer of M14 and two of us spent</v>
+
+00:05:04.710 --> 00:05:34.810
+<v Speaker 2>maybe six hours of meetings in the early morning. We both get in to just talk through every part of the set and what his vision for the set was and like why things work the way they did. And we debated things. And that was initially when he kind of pitched to me why I have slurs in the said why to target certain things at new deck builders and kind of make M14 the stepping stone from just starting Magic into becoming debt builder, which I think there's a lot of really good stuff in the set for that. And then also just basically like talking about how it would play differently from previous corsets. Marco</v>
+
+00:05:34.970 --> 00:05:40.050
+<v Speaker 2>especially laid a previous course at 12, so have good discussions about how this might be different than 12.</v>
+
+00:05:40.520 --> 00:05:49.800
+<v Speaker 1>That's awesome. How did you feel? I mean, you've worked on teams before. Talk a little bit about what it's like to actually be in the lead position as opposed to being on this.</v>
+
+00:05:49.810 --> 00:06:05.360
+<v Speaker 2>List Yeah, that's a good question. So one of the things that I definitely found was needed to take a step back and saying like, OK, normally I would just want to design everything myself, but I have this four or five people depending on what day it was. Like they can help me out, like if I bring in people</v>
+
+00:06:05.460 --> 00:06:35.310
+<v Speaker 2>about, but these guys are here to take on some of the work that needs to be done. And, you know, building a set of 22129 cards that just have to play in a certain way and a bunch of across a bunch of different formats is a difficult task. And so identifying what the strengths weaknesses were of each of my team members, talking with each of them and kind of delegating tasks to them. That was something that I kind of had to learn on the job, I guess with M14. And it worked out really well because I really think even though our team was kind of a,</v>
+
+00:06:35.450 --> 00:06:59.280
+<v Speaker 2>I'll call it a ragtag team, because many people were on my team were not like dedicated design and development people or they, they weren't on that many teams. They were mostly on different kinds of products. Everyone had their thing that they did really well. And so it was easy to kind of be like, OK, cool, I need you to leave the slivers part for a little while and come back to me with suggestions. Ohh. And you to kind of think about preconstructed decks and like how we going to do the intro packs here and stuff. So.</v>
+
+00:06:59.510 --> 00:07:05.440
+<v Speaker 3>Why don't we run down your team real fast and tell us what they brought to the table for you? It's always interesting when on a development team because everybody does something.</v>
+
+00:07:05.510 --> 00:07:08.220
+<v Speaker 3>He brings a unique kind of bit of knowledge.</v>
+
+00:07:08.230 --> 00:07:35.490
+<v Speaker 2>To what's going on, that's true. So I'll talk about Aaron last because his role is kind of special. But so let's see Kelly Diggs, who's an editor, Magic Rod, he is like the casual construction guy in my head. Like whenever I had a question about like, do you think this is going to appeal to the more casual player or like how much you build the deck and a crazy, wacky format around this? That was super, super useful to have his input there. Max McCall, who's a developer. He's a digital developer. He was really helpful to have</v>
+
+00:07:35.560 --> 00:08:05.910
+<v Speaker 2>was like, hey, I need you to like eyeball this and tell me like, is this gonna work in terms of being able to build limited environment around it? Or do you think this card is powerful enough in context of the other cards have been talking about? And because he was also a lead of Duel's 2014, it was helpful for us to have like regular meetings about like, is this going to appeal the players coming from Duels? And then James Hoda, who works on Kaijudo Duel Masters, who's actually really helpful as I need you to, to kind of give me an outside perspective. Like he plays Magic, but he's not entrenched in Magic the way the rest of us were. So he gave me really good</v>
+
+00:08:05.980 --> 00:08:36.140
+<v Speaker 2>outside perspective and also just an idea of like what what is just instantaneously appealing this. He was never afraid to speak his mind, which like initially kind of was it got under my skin a little bit. But like, then I realized, no, no, he's just he cares so much about making this a great set that he's saying what he what he thinks. And that was really helpful, right to get. And then Aaron's role actually, I found, I mean, he's just an All Star all around. But what was most helpful for me was I would kind of take it in my head, there's something you need to focus on here. Like, oh, the tricky problem right now is slivers. And he would be like, take a step back</v>
+
+00:08:36.260 --> 00:08:52.950
+<v Speaker 2>and remember that there's this other stuff that's not finished. Like we need to talk about this. I'm like kind of help me lay out a road map for where the set needed to go over the next few weeks. And that was always helpful to have him there. Like, hey, Dave, we got it under. Not to forget to bring in the core developers and have them point our set or, you know, do some drafts. We haven't done that in a while.</v>
+
+00:08:52.960 --> 00:08:53.300
+<v Speaker 1>So</v>
+
+00:08:54.020 --> 00:09:04.730
+<v Speaker 1>that's awesome. Let's talk a little bit about, you know, how that team came together around the idea of slivers as a piece for Magic 2014. I mean, that's really one of the exciting things.</v>
+
+00:09:04.740 --> 00:09:23.970
+<v Speaker 2>In this set, yeah. Yeah. So is still returning mechanic. Mark Loomis, I think, put it best when he said, well, at level 1, when you're Magic player, you're just like, these are cool cards. I want to throw all the cards I have together or like, I'm a green player, just give me all the green cards. And then at like Level 3, you're starting to play limited. You know, many of the cards will dictate kind of deck your building or you're just like I've got</v>
+
+00:09:24.040 --> 00:09:54.020
+<v Speaker 2>the idea for the Internet puts together, you know, through Tusk and restoration Angel and make this sweet deck. But before that, before we get to that level, you don't really have the rails you need assaly, and that's where I think it's literally just are an amazing way to give the player a way to, you know, be on rails when they first make their there. They make their forays, the first forays and protect building and the slippers. It's is a tribal mechanic. The more than we have, the better they all get, which is awesome. And then it's also what kind of teaches, you know, you can branch out, like try more</v>
+
+00:09:54.100 --> 00:10:10.830
+<v Speaker 2>one color, figure out how you gonna make all of these cards in different colors interact. And it also gives you these hints like, hey, are you missing something? Blues got flying. That's really cool. Ohh, you miss a first strike and in red. So it really gives you this this stepping stone into becoming more of a Doppler on your own.</v>
+
+00:10:11.020 --> 00:10:13.390
+<v Speaker 3>Now when you say on Rails, what exactly do you mean by the?</v>
+
+00:10:13.400 --> 00:10:23.580
+<v Speaker 2>Way that's a good question So I think each magic card kind of is appealing in its own way and kind of says like this is this is don't really wanna play but</v>
+
+00:10:24.100 --> 00:10:54.080
+<v Speaker 2>say rails. What I mean is that you're given kind of a structure in which to build your deck, like maybe a framework or like the sketch of the deck. So with slippers, because they all say slivers you control get you're like, oh, I see why is more slivers as opposed to, for example, doom blade, which is like ohh, destroy target on black creature. Well, I guess I'll use that against nonblack creatures, but doesn't really give you a guide as to how to build a deck. So when I say rails here, what I really mean is like it's kind of a deck building guide or like a</v>
+
+00:10:54.190 --> 00:10:56.720
+<v Speaker 2>stepping stone to filling out the rest of a.</v>
+
+00:10:56.730 --> 00:10:59.420
+<v Speaker 1>Deck. It's a slightly more forcible hint to players.</v>
+
+00:10:59.430 --> 00:11:00.630
+<v Speaker 2>Yeah, hints would be a good way to.</v>
+
+00:11:00.640 --> 00:11:01.190
+<v Speaker 1>Put that actually.</v>
+
+00:11:01.200 --> 00:11:05.190
+<v Speaker 3>Yeah, the way I was kind of measured in my head is like you're in the mine cart level of video game if you.</v>
+
+00:11:05.200 --> 00:11:05.940
+<v Speaker 1>Jump into the line.</v>
+
+00:11:06.170 --> 00:11:10.380
+<v Speaker 3>Just on rails and you're like going on down like alright, well on my path, let's hope I picked the right direction.</v>
+
+00:11:10.390 --> 00:11:18.600
+<v Speaker 2>Right now, right? It's fun. It's fun to be, you know, being pushed into a certain direction you tried out and, you know, like, if you don't, but you learn something on the way, we hope.</v>
+
+00:11:18.610 --> 00:11:24.240
+<v Speaker 1>So right, let's talk also a little bit about one of the things with slivers that caused a lot of conversation is the change</v>
+
+00:11:24.330 --> 00:11:27.250
+<v Speaker 1>of the fact that slippers now only affect your side.</v>
+
+00:11:27.300 --> 00:11:54.450
+<v Speaker 2>Right, Yeah, we actually changed a few things bestsellers that that's one of them. So what we have done with about Laura went forward is well forward from Lauren is understand that like you can get mind numbingly complex on the board and it's helpful to just have things that you know you need to care about as opposed to always having to worry about what's going on in your opponents side, right. Especially when you have a card in your hand that you want to play</v>
+
+00:11:54.610 --> 00:12:24.190
+<v Speaker 2>and it's kind of subtly telling you not to play it sometimes because maybe it'll affect your own stuff. This is especially relevant in limited when you're drafting or playing seal because you don't have much, you don't necessarily have much selection. So like those guys are definitely going to your deck, those creatures slivers in this case, but then you're going to have to worry about as my opponent playing them, like how much worse are mine because they have theirs Everybody better. There's like there's definitely the way that it scales is bad because it just tilts over to one side really fast, right. And so</v>
+
+00:12:24.610 --> 00:12:30.970
+<v Speaker 2>doing well, yeah, we wanted to avoid that, both the brain melting part and also the I feel bad because I can't play my cards.</v>
+
+00:12:31.040 --> 00:12:31.310
+<v Speaker 1>Right.</v>
+
+00:12:32.280 --> 00:12:33.290
+<v Speaker 3>And slippers, which always.</v>
+
+00:12:33.300 --> 00:13:02.750
+<v Speaker 2>Slivers right, right. So and they actually there is in the design file they were kind of adventurers, heroes, I'll call them a very kind of does and Dragons trope. And you know the team really liked it and they made a bunch of kind of top down cards around that idea. But the issue was we have a place that's kind of adventure world that Zendikar and we also didn't really have a way to use exactly the trucks they wanted in magic terms, like as the creative team thought about, they're like,</v>
+
+00:13:02.820 --> 00:13:33.500
+<v Speaker 2>we can't really do this as well. So it fell to me as the lead developer to like, OK, explore this. If we like it mechanically, let's figure out we can do it. So I started play testing it with a lot of people outside the pit, you know, people outside of the company. We would do some play tests with with these heroes, which I renamed to make sure that people wouldn't think of them as here as everything them sleem as like a thing that felt alien, but wasn't hero and wasn't sliver, which I knew, you know, Mark and I talked about them as though they were slippers. So I wanted to make sure that it was a neutral word that's still conveyed</v>
+
+00:13:33.570 --> 00:13:44.850
+<v Speaker 2>the feeling of alienness, right? As we played, a lot of people were like, you know, this feels really familiar. Why? Why isn't this just slivers? And I said, well, no, it is. They are sliver that's in mechanic. I wanna just call them slivers.</v>
+
+00:13:44.900 --> 00:13:45.390
+<v Speaker 1>Right.</v>
+
+00:13:45.460 --> 00:14:03.890
+<v Speaker 2>OK, well, that's that's good feedback from everyone, right. So in the end I decided, OK, well, we should probably just call them slippers and then they'll interoperate properly with the previous slivers. So that's what we did and I think it worked out OK. I mean, I think they're they're very fine on their own. They fit into existing sliver decks, which is cool.</v>
+
+00:14:04.150 --> 00:14:13.200
+<v Speaker 2>And you know, there's also the chance that they'll teach a player, OK, there's more to Magic. You can explore and see like, hey, this, these guys have been Magic for awhile. And that's, that's kind of cool.</v>
+
+00:14:13.210 --> 00:14:31.550
+<v Speaker 1>Too. Absolutely. I want to transition now to some more interesting stories that we've gathered from you about Magic 2014. Let's talk about a car that I actually put on Reddit as the preview card, and that is Stronic Resonator. So Stronic Resonator for those of you who don't know, is A2 mana artifact and it's ability is 2 mana Tap</v>
+
+00:14:32.440 --> 00:14:50.830
+<v Speaker 1>copy target, triggered ability you control. You may choose new targets for the copy. And so at first glance I fell for the trap, which is I was expecting it to be activated buildings. That's largely what we've seen with this type of artifact. It's a triggered ability though, which is somewhat different and might I say quite Johnny Ish.</v>
+
+00:14:50.840 --> 00:15:02.440
+<v Speaker 2>Yes, it is actually. So this is one of the cards we talked about in our initial meetings and I we kind of frontloaded the cards that both of us were excited about. So he front loaded card that was in this,</v>
+
+00:15:02.520 --> 00:15:33.100
+<v Speaker 2>but previously, because he made some all the infinite and 12 and he just loves these crazy super nanny cards. And I also I I consider myself to be a big Johnny and I I really appreciate this first too. But the card I have the file was like ridiculously like did a bunch of exiling and then replaying the cars and just like Mark is never going to work. But I believe in your goal, like let's make a really fun, cool Jaguar and and to me, one of the things that was really appealing about sundial is just very elegant. But then as soon as you see it, you kind of cock your head, you're like, wait a minute, what exactly is going on here? And then</v>
+
+00:15:33.180 --> 00:16:01.210
+<v Speaker 2>potentially like the real start turning and you're like, OK, something cool is going to happen. And and we eventually came to this idea that like, what if we chose something that we've never really interacted with and just like what you interact with it. And so triggered ability is something I suggested to Mark really liked it. So we tried it out for awhile. And this this card kind of changed forms a little bit over time. But I think in the end, the promise of this card has you can build around it like you can find all these triggers and build some sort of crazy depth of it. And I think that's something that really shines through. And I'd love the reaction of Revit seem like they really.</v>
+
+00:16:01.220 --> 00:16:03.350
+<v Speaker 1>Love it. As as most</v>
+
+00:16:03.430 --> 00:16:19.740
+<v Speaker 1>you are aware, I have a Kiki Jiki Commander deck that I absolutely love and this deck fits perfectly into it. When I was telling someone the likeability is an activated ability, I'm triggered. I was like you're right, but my deck is built around largely triggered abilities that Kiki abuses by making copies of creatures or.</v>
+
+00:16:19.750 --> 00:16:21.880
+<v Speaker 2>Whatever like that kind of an extra.</v>
+
+00:16:21.890 --> 00:16:28.450
+<v Speaker 1>Right. And then someone pointed out also the interaction between it and bracers, because you just copy</v>
+
+00:16:30.140 --> 00:16:39.260
+<v Speaker 1>measures have a triggered ability which copies activated abilities. Yeah, so I could use the the resonator to copy the bracers and thus copy the activated ability anyways.</v>
+
+00:16:39.270 --> 00:16:41.960
+<v Speaker 3>There's the Johnny, get a creature.</v>
+
+00:16:42.010 --> 00:16:43.400
+<v Speaker 1>Get the bracers on it.</v>
+
+00:16:43.690 --> 00:16:47.290
+<v Speaker 3>Activate the ability. Copy the. Use the bracers. Copy the bracers.</v>
+
+00:16:47.300 --> 00:16:49.750
+<v Speaker 1>Right, it's I know I get excited.</v>
+
+00:16:49.760 --> 00:16:54.480
+<v Speaker 2>Yeah, it's pretty. Yeah. Sometimes joked about strangers. You're being the most resident card.</v>
+
+00:16:56.200 --> 00:16:57.320
+<v Speaker 1>Certainly the most recent.</v>
+
+00:16:57.330 --> 00:17:00.390
+<v Speaker 2>Yeah, perhaps not resident in the normal way we consider.</v>
+
+00:17:01.200 --> 00:17:13.600
+<v Speaker 1>So another interesting cycle that jumped out at us and we we previewed in serious fun was a cycle, a three card cycle. You guys did that's I'm gonna choose one of the cards to name the cycle and as the Bubbling Cauldron cycle.</v>
+
+00:17:13.610 --> 00:17:26.570
+<v Speaker 2>Right, right. Yeah. So originally. So one thing that Mark Robison I talked about was this is the fifth of the new series. Of course, that's right, 2010. And it's like, well, how many of these high fantasy</v>
+
+00:17:26.660 --> 00:17:56.600
+<v Speaker 2>approached me still have to talk about? And one thing that I think you did is really smart is while there's a lot of Trump's that are combination tropes, we haven't really talked about One example this would be like a dragon and a dragon slaying night, right? So in his file, he had a bunch of these and we said many of them. I love the idea of them. And one of them was 3 witches. So there was a rare witch and witch and come, but they were like a very loose cycle. I didn't feel like they were communicating this idea that like, you know, you can in, in many, you know, plays and kind of mythology, there's like 3 witches and they're, you know,</v>
+
+00:17:56.670 --> 00:18:26.700
+<v Speaker 2>debates is one way to think about this. So I I said, well, this stroke doesn't really feel like it's being communicated. Can we make it a slightly different which trope of like the witch and the ingredient and the bubbling brew? And he was like, yeah, that sounds interesting. Comes something. So we came up with this with the cycle or I guess it's kind of a vertical cycle across colors. At rare, we have the bogbrew witch who uses her bubbling cauldron to cook the festering nuts, right? So, you know, you kind of get all the pieces in there and it's kind of fun because you get some number of the pieces</v>
+
+00:18:26.770 --> 00:18:33.330
+<v Speaker 2>enough in limited that it kind of functions. And of course, you can build a casual constructed or maybe even competitive deck out of some of these pieces together.</v>
+
+00:18:33.460 --> 00:18:33.890
+<v Speaker 1>Right.</v>
+
+00:18:34.760 --> 00:18:44.580
+<v Speaker 3>And like we keep coming back to there, all these cool build arounds in the center. You have slivers, you've got this Bogbrew witch in black. You also have Shadowborn Apostle, which is kind of like a crazy car. And that was there from the beginning.</v>
+
+00:18:44.590 --> 00:18:56.970
+<v Speaker 2>Yeah, so Mark had in his original file he wanted the you complaining number of me cultists that some in some horrible monster. I think he did initially have it summoning a demon and one thing that I that I tried to do,</v>
+
+00:18:57.060 --> 00:19:27.470
+<v Speaker 2>there's only so much space for all this stuff and it's sad. We also needed to, you know, interact with standard in proper ways and build upon limited environment and all this stuff. So he have this card and one of the problems with the with the one man 11 is that it's not particularly powerful and limited, which is we need Commons to be powerful limited. But of course, I wanted to make sure that you could get enough of them that it would do something and making it rare is just not going to work. And that's where we normally put stuff we don't want to have effect on it. So the solution was to connect it to this awesome mythic demon. And by doing so, now you can</v>
+
+00:19:27.540 --> 00:19:41.200
+<v Speaker 2>see like, OK, now they are a pair together, the cultist and the demon that that's that that cult summons. But you can also get the fun. Feels like I could just fill a deck with cultists and all the demons. So I think that that really worked out and we saved a little bit of space and got everything to communicate there.</v>
+
+00:19:41.990 --> 00:19:57.410
+<v Speaker 1>You know, one thing that I don't think a lot of people think about in any direct sense, they think about it just because it's there is playing limited with a corset largely, you know, I think limited with expansions are with blocks. Let's talk a little bit about the challenge of designing a limited.</v>
+
+00:19:57.420 --> 00:20:11.980
+<v Speaker 2>Course, yeah that's to talk about so we're thing that's interesting about corsets is there roughly half reprints which kind of constrains us a little bit in terms of like we can't always find exactly the best card but we can find something that's close and then.</v>
+
+00:20:12.050 --> 00:20:42.160
+<v Speaker 2>Also, because they're a little bit simpler, more straightforward, even more accessible, there's a little bit less mechanical diversity. So like with something like in a straw, you get a lot of really cool stuff going on because you have these extra mechanics that flavor, like flashback, things like that. Here we have only the one returning, which in our case was, you know, a creature type really. So it's not like we got a lot of mechanical diversity there, but there are some things that we can focus on that make things a little more sideways, which is fun. So a couple of examples of this are we have this ORAS archetype and white</v>
+
+00:20:42.230 --> 00:21:12.300
+<v Speaker 2>black. We have a life game kind of archetype that green, white and a couple other kind of sideways archives. But then we have like good core magic game play, like for example, white blue Flyers, right? That's something you'll see everywhere, right? So to me, of course, that limited is about as much of the sideboard stuff as we can get away with while still maintaining a majority of the this is good magic gameplay. Like red card to what I expected to do. Black cars do I expect them to do. When I put the black and red cards together, I get an archetype that makes sense to me. So I think</v>
+
+00:21:12.370 --> 00:21:43.050
+<v Speaker 2>we did a pretty good job of it. It was a struggle. You know, I always prefer to have more tools so that I can, you know, sure, more interesting sculptures and whatnot. But it is really important that we maintain the corset is an accessible thing is like kind of the next step from duels and as a good entry point. And also just because it's good to kind of get a little palette cleanser in between two blocks that are, you know, somewhat complicated by the end of a block you've digested, you know, maybe 10 mechanics or or more in the case of return around the block, for example, right? So it's nice to kind of get a little bit of a pause,</v>
+
+00:21:43.220 --> 00:21:48.640
+<v Speaker 2>you know, go back to regular core Magic gameplay, and then you can be ready for the next set of mechanics.</v>
+
+00:21:48.690 --> 00:22:10.880
+<v Speaker 1>Right. You you brought up a a term that I think is important also for the listeners, and that is accessibility with the course that one of the things that's really important to the accessibility for new players is what they will often see on the shelves, which are intro packs. So you wanted to ask you something about the development and the ideas around these creatures that support the five planeswalkers of the.</v>
+
+00:22:10.890 --> 00:22:13.090
+<v Speaker 2>Set. Yeah. So initially actually those preachers</v>
+
+00:22:13.410 --> 00:22:43.130
+<v Speaker 2>that we added them in development and the reason they weren't there is again, it was a space issue, right? But one thing that actually discussions with brand we had was the success of the M13 intro packs and the D13 decks around, for example, Audrick and those legendary creatures at rare. It's just really powerful to have hers and deck in duels. And then there's an intro pack that is that characters deck. And we didn't have legendary disposal here because it wasn't kind of baked in the design from from,</v>
+
+00:22:43.830 --> 00:23:13.140
+<v Speaker 2>but we did have water 5 planes walkers as we usually do, and each plays order gets a deck in duels. So one one way that we figured we could kind of align them better was to create a cycle of five planeswalkers preachers. So in the course of kind of thinking about it, we decided that the best match for for Chandra and Garrick was just to reuse 2 of their creatures that have been popular and kind of sell the idea of those two planes. Walker characters, Phoenix and Derrick Sport.</v>
+
+00:23:13.320 --> 00:23:35.120
+<v Speaker 2>Yeah. But for a Johnny, Jason, Liliana, we came up with three new creatures which really kind of sold the the flavor of what that planeswalker was about or the kinds of things that planeswalker, the the magics they interacted with. And those cards became the face cards for those. Please Walker decks and which of course are the intro packs for the intro decks or M14?</v>
+
+00:23:35.800 --> 00:23:42.360
+<v Speaker 1>The planeswalkers, of course, play a big part in magic. They've become the heroes. They become the faces of sets.</v>
+
+00:23:43.130 --> 00:23:48.840
+<v Speaker 1>Magic 2014's phase is, I don't know if you know this or not, Chandra. I don't wanna spoil anything for the listeners out there.</v>
+
+00:23:48.850 --> 00:23:50.440
+<v Speaker 3>Yeah, it wasn't. It wasn't.</v>
+
+00:23:50.450 --> 00:23:58.860
+<v Speaker 1>Garrett Not, not, no. This is Chandra all the way. Let's talk a little about Chandra pyromancer. I mean, one of the big cars that come out of the set</v>
+
+00:24:00.210 --> 00:24:13.630
+<v Speaker 1>master is A2 Red. Red starts out with four loyalty. She has three abilities. It's plus one Chandra. Pyromancer deals one damage to target player and one damage to up to 1 target creature that player controls. That creature can't block this turn.</v>
+
+00:24:14.550 --> 00:24:33.040
+<v Speaker 1>Her second ability is 0. Exile the top part of your library. You may play it this turn, and then the last ability is -7 Exile the top 10 cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may casts copies without paying their mana costs. So where did Sandra come from in this set?</v>
+
+00:24:33.230 --> 00:24:44.020
+<v Speaker 2>So initially design new that they wanted a couple new planeswalkers. Can't remake all them every year but they knew that they wanted to try out making a new Chandra new Garrick</v>
+
+00:24:44.530 --> 00:25:14.590
+<v Speaker 2>and so as they kind of looked at it and and thought about you know which which of these characters might be a good face for the set or or be a good character to support with other cards inside the set they decided okay Chandra looks like we can we can do something cool with her everyone design team was excited about new Chandra and Alexandra. I think she's really cool character. So I agree. Yeah, let's let's try to make Chandra into something really special here. So I knew I wanted to make and I also had had some a little to do not with the original sender, but with Chandra ablaze and with</v>
+
+00:25:15.200 --> 00:25:44.890
+<v Speaker 2>under the fire, right. So I was excited to try to take another stab at a Chandra tried to get her into competitive level and possibly kind of build around card too, so that there's a lot of different ways she could she could hit right. So we started with the idea of can we make a we actually try to make a three man Chandra along with some more expensive Chandras. But one of the problems we've had with red planeswalkers in the past is that just doing straight direct damage is subtly powerful in a way that's not fun. Just having recurrent damage</v>
+
+00:25:44.960 --> 00:26:14.930
+<v Speaker 2>worse on your on your side of the table. It's just it's very frustrating to play against and it's not very, there's not a lot of decisions to make necessarily, right? So that that was frustrating because it was very difficult to get something in the right spot. So actually I got some of the designers together, just the core design team. And Mark Rosewater, along with Dan Evans suggested, Hey, one thing that we haven't really focused on the tundra is the fact that she's passionate. Like she really wants to like get things. She's impatient a little bit, right? She wants to get things done right now. And that's where this idea of drawing a card this turn, so to speak with her</v>
+
+00:26:15.000 --> 00:26:44.980
+<v Speaker 2>their own ability came from. And I was really excited. I think somebody could, you know, build around and make into a competitive card. And so we tried that out for quite a while and it worked out really well. Was lots of fun, the revisions to be made and it was kind of fun to have a pure red card that gave you some late game power, right. And then we built around that the idea that you construct your deck in a certain way to make her ultimate really powerful. And you can also be more aggressive so that her her mugging the style ability where she makes the creature animal block would be would be strong as well. So I feel like there's a lot of different ways to go with</v>
+
+00:26:45.050 --> 00:26:49.750
+<v Speaker 2>address. I'm really hoping that people will find some decks for her and we'll see. Time will tell.</v>
+
+00:26:49.880 --> 00:26:50.800
+<v Speaker 1>Great, great.</v>
+
+00:26:50.980 --> 00:26:59.460
+<v Speaker 3>How about Garrick? So you know you made this awesome new Chandra, but there's brand new vegans that too, and he's a six man of planeswalker. Tell me how he came into.</v>
+
+00:26:59.470 --> 00:27:15.390
+<v Speaker 2>Yeah, so we actually tried a couple lower mana cost cards as well to get 3 Magaric and another 4 Magarick. And what we found was the previous groups have actually just been so well designed, it's very difficult to find a space for Garrett to shine. You know, I know Garruk Wildspeaker is one of the most powerful</v>
+
+00:27:15.470 --> 00:27:43.310
+<v Speaker 2>and adored the original round 5 planeswalkers and then his updates of Garruk Primal Hunter and careless, the double faced version are both very powerful and very unique in their own ways. So we decided it was, well, Garrick is this beast master and we can just go over the top with him. Like what would a six man or even 7 in a Garrick look like? And one thing that we we thought was, well, he's really cool as a way to interact with creature cards. Is there a way we can kind of pull that out the top like make it really exciting and fun?</v>
+
+00:27:44.750 --> 00:28:16.360
+<v Speaker 2>I came up with this dramatic entrance ability, which is his. I guess I should just say what the Garrick is. So we're all talking about the same thing. Sure. So the Garrick and the set is Garrick color BC6 mana four and two green for starts at 4 loyalty. His plus one is revealing the top five cards of your library. And then you put all the creature cards you reveal in this way into your hand and the rest on the on the bottom, which is very powerful obviously. And then he has a -3 to put a green creature from your hand onto the battlefield. And then he has a -7 which lets you get</v>
+
+00:28:16.430 --> 00:28:46.290
+<v Speaker 2>emblem, which is when you cast a creature spell, you can search your library for other creature and put on the battlefield. So one of the things that's really cool about making a 6 minute plays Walker is you can just have a really powerful effect on the board right away, right? That's what is -3 does, obviously. But then he's just kind of a current damage machine, like churns through your getting more and more creatures with this plus one. So I feel like there's definitely a lot of space there for making kind of a big green deck. I would say like try to put the most powerful creature you can on the battlefield and there's also space for him to be at the top</v>
+
+00:28:46.450 --> 00:29:06.090
+<v Speaker 2>of kind of a curved at where throughout the early turns you're playing all creatures. Maybe your opponent is trying to get rid of them with their judgment or spring break or things like that. But you can always reload using his plus one, which is really fun. So I feel like he got into a good space and a six minute plays. Walker has a high hurdle to get over, but I think he has the tools that you need to make a deck work around there around.</v>
+
+00:29:06.980 --> 00:29:09.300
+<v Speaker 3>Definitely seems to hit a little harder than Chandra Ablaze did.</v>
+
+00:29:09.480 --> 00:29:10.610
+<v Speaker 2>Yeah, that's upset.</v>
+
+00:29:10.620 --> 00:29:11.680
+<v Speaker 3>Not to diss your planeswalker.</v>
+
+00:29:11.690 --> 00:29:18.850
+<v Speaker 2>Yeah, it's have your Blaze is a is a quirky playing soccer these two Chandra here certainly more in the competitive space, I think.</v>
+
+00:29:19.140 --> 00:29:22.090
+<v Speaker 1>Absolutely, first lead development, how to feel.</v>
+
+00:29:22.400 --> 00:29:29.610
+<v Speaker 2>Good. Really good. Yeah. It was kind of nail biting. Like it's definitely times when I felt like I was running out of time or I just</v>
+
+00:29:31.030 --> 00:29:43.950
+<v Speaker 2>that I felt like compared to Zach who made M13, like man, I just haven't done a play test. Like, I mean, he wasn't around for me to berate, but like, I definitely was like pulling, pulling it out. I guess not pulling my hair out because I'm bald.</v>
+
+00:29:45.940 --> 00:30:07.240
+<v Speaker 2>Feel like, wow, I just don't have time everything done. But in the end, like, we definitely, I had a lot of support from the other people and that really helped me kind of feel good about where the set was. And yeah, when I saw all the cards in the slide shows, like kind of relief. Like it was really exciting to see people like get like sad about the part of they saw and cheer when they saw Shawn dress. So yeah, it was.</v>
+
+00:30:07.310 --> 00:30:16.140
+<v Speaker 1>It was awesome. Even though you've been staring at the card file for months and you've seen, you know, proofs up to the slideshow, is there something special about seeing the slideshow with the members of R&amp;D?</v>
+
+00:30:16.350 --> 00:30:31.460
+<v Speaker 2>Yeah, there is. I mean, it's it's kind of a it's fun to see like when we're all just being or Magic player selves and like getting excited about particular cards. Like ohh, I'd really want to build the commander deck around that, right? Ohh, I'd really like to strap resonator. I can't wait to break it. And it's like,</v>
+
+00:30:34.370 --> 00:30:35.620
+<v Speaker 2>that's what I was saying in our meeting.</v>
+
+00:30:35.630 --> 00:30:36.220
+<v Speaker 1>About rules.</v>
+
+00:30:36.510 --> 00:30:48.320
+<v Speaker 2>Yeah, it's fun to just like get everyone because like we're all obviously Magic players and just love the game. So it's it's fun to be in a room with everyone who helped contribute and then just kind of get that feel like, yes, we accomplished it and this is this is a dumb set.</v>
+
+00:30:48.630 --> 00:30:52.940
+<v Speaker 1>Well, great. Thanks for coming on the podcast. We appreciate you taking the time.</v>
+
+00:30:54.170 --> 00:31:05.180
+<v Speaker 1>Thank you listeners for taking the time to listen to this podcast. You can find more on the daily MTG website youcancontactusemaildailymtgcast@wizards.com. You can find me on Twitter, I'm Trick MTG.</v>
+
+00:31:05.450 --> 00:31:07.620
+<v Speaker 3>I'm Gavin Verhey in this space in the middle.</v>
+
+00:31:07.910 --> 00:31:09.160
+<v Speaker 2>And I'm Daytron.</v>
+
+00:31:09.790 --> 00:31:13.300
+<v Speaker 1>And once again, Dave, thanks for coming and we will see you in a couple of months.</v>
+

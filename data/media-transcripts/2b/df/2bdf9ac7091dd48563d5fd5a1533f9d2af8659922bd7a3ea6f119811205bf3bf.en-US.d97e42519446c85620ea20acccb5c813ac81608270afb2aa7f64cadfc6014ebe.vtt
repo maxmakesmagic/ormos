@@ -1,0 +1,869 @@
+WEBVTT
+
+00:00:02.590 --> 00:00:05.860
+<v Speaker 1>Players, welcome to round one. You may begin.</v>
+
+00:00:24.160 --> 00:00:37.300
+<v Speaker 2>It's Wednesday afternoon. We're in Essen. That's in Germany, which is a country that apparently doesn't have rain that puts Pro Tools or invitationals in jeopardy, and we are just a couple of hours away from the auction of the people. I'm with the man who's more responsible</v>
+
+00:00:37.370 --> 00:00:52.490
+<v Speaker 2>than anyone for the Magic invitation. Mr. Mark Rosewater and Mark, welcome to Essen. And here we are again. Hello. How did it start? The Magic Invitational? A bit like the Pro Tour. It seems like an obvious idea once someone's thought of it, but where did it come?</v>
+
+00:00:52.500 --> 00:01:08.390
+<v Speaker 1>From and actually started as the Dualist Invitational. Basically what happened was at the time I was the editor in chief of the duelist and we were trying to come up with a way to do a promotional event for the Dualist. And so I was tasked with coming up with an idea that both was interesting,</v>
+
+00:01:08.510 --> 00:01:32.910
+<v Speaker 1>they provided good coverage and was cheap to do. Umm. And So what happened was the very first Invitational was planned to for San Diego. We were going to go to the Hotel del Coronado and then an event fell through. In fact, the very first Grand Prix fell through in Hong Kong and they were looking for a magic event. And they came to us and they said, would you mind having the first invitation on Hong Kong? And we said, OK, I guess we could do that.</v>
+
+00:01:34.110 --> 00:01:55.860
+<v Speaker 2>That seems pretty reasonable. So that's the the how and the why. Can you look at, looking back now, can you see, could you have foreseen the growth of it in terms of the importance within Magic, the fact that there are many thousands of people right now looking forward to seeing who comes up with what decks, who's playing against who, the big matchups, that live coverage, all that kind of stuff?</v>
+
+00:01:55.910 --> 00:02:04.240
+<v Speaker 1>Well, the idea behind it was we, we wanted people to treat the Pro Tour like, you know, a professional sport. And so I was working backwards.</v>
+
+00:02:04.310 --> 00:02:34.810
+<v Speaker 1>They said, well, you know, if we could have the things that pro sports have, it helps make us feel more like a pro sport. And the All Star game to me is one of my favorite things. And that, you know, it's the best of the best. It's sort of a fun chance to get the top players together. And because we were trying to make something that was coverage friendly, I thought we need to just do weird formats that you don't normally get to see the top players doing. And I mean, once we, once we realized we needed a small number of players, we came up the idea of a round Robin tournament and then originally actually 1A good trivia for you.</v>
+
+00:02:35.010 --> 00:02:46.840
+<v Speaker 1>The first Invitational had six formats. Every constructor format was 3 rounds and every limited format was 2 rounds. But eventually we decided just to have, you know, 5 three of every format.</v>
+
+00:02:47.310 --> 00:02:58.820
+<v Speaker 2>So we have 5 formats again at this time. And one of the big changes from last year is that we actually have the pen and paper systems back in full operation, none of these noughts and ones across the screens.</v>
+
+00:02:59.170 --> 00:03:05.350
+<v Speaker 1>We thought might be neat to play Magic with, I don't know actual cards. What happened was several years back,</v>
+
+00:03:05.420 --> 00:03:36.280
+<v Speaker 1>we were trying to find something to do with Invitational. Meanwhile, the exact same time Magic Online was looking for an event to do online. And the problem with online stuff is a lot of events that sort of robbing a lot of money. There's a lot of issues online and it's, it's hard to do them. And so the invitation was nice because it was a premier event, but it, it was different, you know, it's something that we could do that small number of people, it's, it was just more manageable, something we could make work. And then for the last four years we've been online,</v>
+
+00:03:36.360 --> 00:03:57.130
+<v Speaker 1>and while there's lots of positives to being online, I think it was really good for spectators about actually watch games. That was, I think the biggest plots. The minus was like, we were so busy sort of just getting basic Magic online to work and doing all the stuff we need to do for that. They didn't have time to program whacking new things for me. And so I was restricted that I only could pick formats that already worked within the system.</v>
+
+00:03:57.180 --> 00:04:00.310
+<v Speaker 2>I gotta say though, that duplicate sealed was a lot of fun.</v>
+
+00:04:00.560 --> 00:04:06.130
+<v Speaker 1>Ohh we used to duplicate every year. The first year we didn't do duplicate seals was actually the first year we were online,</v>
+
+00:04:06.360 --> 00:04:36.740
+<v Speaker 1>but at the time we couldn't do it. Sure. We actually didn't do duplicate seal this year because we decided to do something a little different. Although I'm a huge fan, duplicate sealed to me is one of my favorite formats because it's very still and test very skill intensive and that normally sealed people don't think of it as being skill intensive. That one of my favorite one of my favorite stories make fun of Randy just got I can so in Barcelona. It's the third Invitational in Barcelona. Facts. The last one held in Europe. This is only the second Invitational held in Europe.</v>
+
+00:04:37.620 --> 00:04:52.270
+<v Speaker 1>And so I built a duplicate limited and Randy went 03 in the format and so they asked him why and he and he blamed me. He said he felt like I didn't build it correctly. I don't know, like Randy, everybody has the same cards. It's.</v>
+
+00:04:52.680 --> 00:04:57.010
+<v Speaker 2>But a different set of cards would have played to his strengths and not the other 15. Maybe.</v>
+
+00:04:57.060 --> 00:05:06.930
+<v Speaker 1>Well, he was joking with, he thought I would have balanced the colours better cause the colors weren't balanced. And I said, well, you know, first of all, we do some play testing, but I'm like, yeah, I made the colors were all balanced, but</v>
+
+00:05:07.030 --> 00:05:10.480
+<v Speaker 1>that's that's offset by the fact that everybody knows the cards.</v>
+
+00:05:11.490 --> 00:05:37.200
+<v Speaker 2>All right, Well, that leads us a very neatly the fact that you've mentioned the idea of card balancing takes us very neatly into format one, which is the cube. Now the cube is a slightly nebulous idea because everyone has different ones that there is no definitive list and all the players have said all this week. Have you got a list of the cube? You got listed the cube. I'm currently like 2 1/2 thousand dollars up on the week</v>
+
+00:05:37.310 --> 00:05:42.820
+<v Speaker 2>with little bits of information just dribbling out from my cube list. So what's in the cube Might you can tell?</v>
+
+00:05:42.830 --> 00:06:07.390
+<v Speaker 1>Us everything that look, what we had is everything from Marxist to planeswalkers. Now we've we've play tested the cube. We built it. We had it for about a month back of Wizards and we played a lot of the queue back at home. In fact, I have two decklists that I'm going to share this week. I built the mono black deck with insane, insane cards in it, and then I build them on red deck with</v>
+
+00:06:07.490 --> 00:06:21.870
+<v Speaker 1>insane, insane guard for that. Although every there's something about the Cuba really is. It's just all the great powerful cards throughout magic all in one, one format. And you can like the decisions you make are just, they're just crazy decisions, you know?</v>
+
+00:06:22.600 --> 00:06:36.010
+<v Speaker 2>Yeah, we saw Frank Karsten last night in the bar going, well we'll in Tomb turn 1 and then we'll assume turn 2 and that's Angel of Despair and that's one of your two lands in the bin and it's your turn and then I've got a karmic guide in hand in case you kill.</v>
+
+00:06:36.020 --> 00:06:37.440
+<v Speaker 1>It. Ohh, yeah,</v>
+
+00:06:37.760 --> 00:07:04.050
+<v Speaker 1>basically the the cards in the mix are we try to pick all the exciting cards from throughout magic that we thought would really play well and limited and maybe a very exciting and the story I have to tell you. I mean, the other formats are also fun, but we were play testing this. I've not had more fun drafting magic and I don't know how long because just insane, insane thing. This is constantly happen like you're you're drafting and for example, week I was playing the mono red deck</v>
+
+00:07:05.580 --> 00:07:14.610
+<v Speaker 1>seal of fire tabled. I got it back, I got sealed fire back. It wasn't good enough to make anybody else's deck. You know, I got it out of 12 or 13 pick.</v>
+
+00:07:14.680 --> 00:07:22.490
+<v Speaker 2>Yeah. And and you sit there looking at Morphling and Masticore side by side and thinking, yeah, well, that's three cards have already gone from this booster.</v>
+
+00:07:22.750 --> 00:07:27.210
+<v Speaker 1>Remember Aaron? He got a in social recall 3rd or 4th in some pack.</v>
+
+00:07:27.250 --> 00:07:35.530
+<v Speaker 2>Yeah, that's that's a little bit a little bit naughty. Now the cube that we have has enough cards for two separate drafts. Are they being divided</v>
+
+00:07:35.630 --> 00:07:41.300
+<v Speaker 2>evenly so there will be the same number of white and blue and black and red and green cards in both halves if you will?</v>
+
+00:07:41.370 --> 00:07:55.050
+<v Speaker 1>Yeah. So the way that the draft was built was we balanced the colours and the packs will be balanced only by color. That's the only thing that will balance them by so that every pack has an equal number balance of color. But other than that, I mean it's sort of random.</v>
+
+00:07:55.270 --> 00:08:05.200
+<v Speaker 2>So that's format one at the cube today we're going into part one of two on the auction of the people. Now this is a traditional thing. We've had auction of the Geniuses auction of the</v>
+
+00:08:05.880 --> 00:08:22.810
+<v Speaker 2>auction of they and, and we're back to the people they make the decks. Chris Miller over at House of Cards on magicthegathering.com has come up with 17 lists. So even the guy who gets to pick last has his choice of two. Have you, have you cast your eye over these and there any that you're particularly excited to see what they go for?</v>
+
+00:08:24.440 --> 00:08:55.310
+<v Speaker 1>What to me, the auction itself is the funnest part of this particular format and that this really what the auction about, is trying to get the best bargain you can. It's not about getting the best deck, it's about getting the best deck at the best price. A lot of people I think are a little bit too much in trying to get one of the better decks, and usually the better decks are dangerous because they get bit down so much. What I think you want to do is find the hidden gem, find the deck that's better than people think, that lets you. You can get it at a price that's reasonable.</v>
+
+00:08:56.670 --> 00:09:06.420
+<v Speaker 1>I don't know. There's no debt particularly. My here's my favorite people watching the auction. And, and here's a bit of advice if you ever happen to be in an auction with people, which is don't listen to other players. Yeah.</v>
+
+00:09:06.460 --> 00:09:13.940
+<v Speaker 2>Yeah, because we had OSIP last year and he he was just mercilessly forcing people down and down and down.</v>
+
+00:09:14.030 --> 00:09:21.160
+<v Speaker 1>Yeah, I mean, I it's they sound friendly and, and, and on some level they're trying to help you, but down deep they're really not.</v>
+
+00:09:22.500 --> 00:09:33.250
+<v Speaker 1>And it's fun to watch because like the auction, there's a lot of peer pressure to try to get people to bid. And it's the the option itself is a lot of fun. I think maybe talk about filming this year so maybe the audience will get a chance to get baby.</v>
+
+00:09:33.360 --> 00:09:53.110
+<v Speaker 2>Yeah, we are going to do audio coverage right the way through the the auction. So you will hear every bid right here on magicthegathering.com. Then we're on to number three of our five formats. Now this is Winston Draft, and it always seems to me that one of the just dreadful sadnesses in the world</v>
+
+00:09:53.210 --> 00:10:11.470
+<v Speaker 2>is players with their three boosters that they won at the pre release going home and staring at them and going I've got nobody to play with, I'll never get a draft and they RIP them open. And now here's a format. You only need a friend, a relative, a random homeless person. Any of those and you're away for Winston.</v>
+
+00:10:11.480 --> 00:10:23.320
+<v Speaker 1>Draft So one of the points for the Invitational is we try to pick formats that we think are A fun to watch, but B, that people might and at home might have fun with. And So what</v>
+
+00:10:23.410 --> 00:10:52.530
+<v Speaker 1>prison draft was us saying, Hey, there's some fun ways to draft the two people. Now, one of the staples way back when was Solomon draft, which is one of my favorite draft formats. The problem with Solomon draft is it takes forever and it's a little it's very skill intensive, but it's almost intimidatingly skill intensive because there's so many decisions to make. All that's open information. And I think the same reason people like Bootstrap more than Rochester draft is it's fun. Not that everything on the open to sort of not of every decision picked apart by everybody else.</v>
+
+00:10:52.540 --> 00:10:53.950
+<v Speaker 2>Yeah, something that we've noticed</v>
+
+00:10:54.020 --> 00:11:07.620
+<v Speaker 2>both here over the last few days and we've been testing extensively with Craig Jones, it is that you generally find there's only 5 or 6 cards that you've seen that end up in your opponents deck. The 17 of them are going to be a surprise to you.</v>
+
+00:11:07.770 --> 00:11:24.210
+<v Speaker 1>On most of them, because usually if you leave a pile behind, it's because you don't want to take it. Every once in a while there's a car that maybe it's out of your color. That's the most common reason to leave some behind. But I the reason we picked this format was it's a fun format. Richard came up with this draft 10 years ago,</v>
+
+00:11:24.280 --> 00:11:54.300
+<v Speaker 1>11 years ago, in fact. Originally he called it Let's Make a Deal. That's the original name for the draft. Because it's kind of like there's a game show. Yeah, American game show. And some decided they wanted a real name for Richard, used to have these playing cards that were by the Winston cigarette company, and somehow it got the got the name. But anyway, the this is a nice draft in that simple. Two people can do it. There's a nice mix. While there's definitely still into it, it's not quite as skill intensive</v>
+
+00:11:54.370 --> 00:12:00.850
+<v Speaker 1>is Solomon is, and we definitely wanted people to have a chance to sort of try it out at home and see what they think.</v>
+
+00:12:00.900 --> 00:12:24.330
+<v Speaker 2>It's also a format that is relatively quick. If you have an hour spare and six boosters, that's enough to do a Winston draft and build your deck and play 345 games. Fantastic. From that point of view, it's the definitive format for travel Magic. When you're sitting next to each other on the airplane, you just got 6 boosters, You've got, you know, 70, you know, 6070 land, you're golden. 2 deck boxes,</v>
+
+00:12:24.430 --> 00:12:26.230
+<v Speaker 2>A complete Winston draft pack.</v>
+
+00:12:26.290 --> 00:12:43.060
+<v Speaker 1>Yeah. I mean, hopefully, I'm hoping the people at home actually tried. It is a fun format. Yeah. And also this is the form we're showing off lower wind. We always try to get the new thing in. And I think Lauren particularly is a very fun fact to to draft because it has a lot of, you know, hooks and things that sort of draft around.</v>
+
+00:12:43.070 --> 00:12:54.480
+<v Speaker 2>It's something that I talked about at at Pro Tour Valencia with Devon lower head developer, is the fantastic idea that so many of the cards in Lawin have essentially dual power levels. You have</v>
+
+00:12:54.580 --> 00:13:22.670
+<v Speaker 2>tutus for four, which are clearly awful, and then you have two twos for one, which are clearly fantastic. And it just depends whether you've got the right cards that link with it to hit reveal my Kithkin, reveal my Merfolk or whatever to get that fantastic power level. So there's this complete sort of duality to Law in, which means that drafts you end up with fantastically powerful things tabling because there are of no use to anyone else but you with your 13th Kickin. That's perfect.</v>
+
+00:13:22.720 --> 00:13:24.570
+<v Speaker 1>Yeah, so one of the things we found makes draft,</v>
+
+00:13:24.700 --> 00:13:54.570
+<v Speaker 1>you know, the fun is to have we called variance of power within the same card. So what you're talking about and that it's really cool if you have different cards of different values to different people so that somebody might be very excited for it, but somebody else will let it go by. And that it allows people to sort of pick up cards later than they normally would. Because I think traps are much more exciting if it's not all just the first and 2nd pick to decide everything. That people get really excited when there's a car that gets six or seven that really, really makes their deck good, but</v>
+
+00:13:54.700 --> 00:14:10.690
+<v Speaker 1>you know they're never going to get that card if it's universally good, it needs to be something that sort of situationally good. And Lauren definitely is US moving that direction. I like actually having formats where you know there's cards that in the right situations are awesome, but otherwise may not be good at all. So.</v>
+
+00:14:11.160 --> 00:14:24.640
+<v Speaker 2>Winston then is #3 we're heading towards the weekend. Bring your own standard. Now. I am guessing that this is the format that potentially if, if it really mattered that this would be a format that would give you fix.</v>
+
+00:14:24.750 --> 00:14:51.210
+<v Speaker 2>Because it's so hard to design in the sense of you've got to keep a vague eye on vintage, a little bit of an eye on Legacy. You're trying to make sure nothing's too busted for extended. Your main focus obviously is standard and unblocked. And now all of a sudden here are people who saying, well, we'll give you all the cards from tempers block and you can have all the cards from Onslaught block as well. What are you doing with those then? I mean, you can't know what's going to happen when these dudes come out, which I guess is really exciting.</v>
+
+00:14:51.280 --> 00:14:56.070
+<v Speaker 1>So here's where this format came from. Is right now if we want to let you use old</v>
+
+00:14:56.140 --> 00:15:27.120
+<v Speaker 1>cards, we kind of have to let you use everything up to the point where the cards are came from. And So what it means is the formats that use the other cards are crazy large in the number of cards they allow because we're letting you have cards from 8910 years ago. So I I wanted to make to get a format where you had accessed all the cards, but without the power level of having every old card. And so the idea behind choose your own standard was that we want to give people some choices of what to take but not have everything available to them. And so it and then once we knew that</v>
+
+00:15:28.400 --> 00:15:57.850
+<v Speaker 1>I like it, I like formats to have what I call sort of a lazy fall back to them. Meaning if I'm going to go play in this tournament and I don't want to spend a lot of time, there's some easy ways to do that. And the nice thing about choose your standard is assuming you avoid the band list, any standard deck from the history of time. I mean, don't go before 5th edition, I guess, but most standard acts for the last 10 years are all viable, you know, except for the band list. So if you want to be lazy, you can just go through time and find old standard list and you can play them. But for the creative deck builder that really wants to sort of</v>
+
+00:15:58.000 --> 00:16:24.500
+<v Speaker 1>do something new and different this format, like there's some stuff you can do they've never able to do before, you know, and that you can write, take something synergistic from one year and go 8 years away and find another set that mixes and matches with that. And so I like every invitation to have what I call a wacky deck building format. I want to make sure that we were one of the skills that I want to make sure we reward and that I want to say, look, here's a very open, very different kind of deck building. You've never done this before. What can you do with it?</v>
+
+00:16:24.700 --> 00:16:28.750
+<v Speaker 2>One of the things that's interesting about that is that Magic is always</v>
+
+00:16:28.820 --> 00:16:58.760
+<v Speaker 2>game where the answers for debt building are out there. Certainly I found like for a block constructed pro tour, and there's a sort of added pressure because you're looking at the same list that everyone else in the world is looking at trying to break the format. There are only 405 hundred cards, so you know that you're staring at the answers if only you can piece them together. And I suspect that when we come to this format here, there are people going to sit down with what they think is a perfectly good deck. And they're suddenly going to find that, like you say, 2 of the greatest acts of all time</v>
+
+00:16:58.860 --> 00:17:03.820
+<v Speaker 2>have been matched together with a little bit of synergy and suddenly going, ohh,</v>
+
+00:17:04.680 --> 00:17:10.030
+<v Speaker 2>all you can do that, can you? And you're just gonna see some ridiculous plays.</v>
+
+00:17:10.100 --> 00:17:34.720
+<v Speaker 1>Yeah, this is just from the format I expect to be the most surprised, hoping to be the most surprised where I have no idea what to expect. I haven't studied this format. Eric Lauer worked with me to help make sure that we want to make sure we pick the right band list because we didn't want the obvious thing to come out right. We know Infinity. We didn't want the Necro deck. We sort of wanted to take the powerhouses of the past and say, well, we don't want everyone just playing that. And so that's how we picked sort of the the band,</v>
+
+00:17:34.800 --> 00:17:42.330
+<v Speaker 1>yes. But I'm actually, I'm excited. Like I think there's real potential for this to be very open. I have no idea what they're going to do.</v>
+
+00:17:42.880 --> 00:18:06.450
+<v Speaker 2>Then we get to our final format. Now the final format is vintage and it's fair to say that probably starting with the Legacy GP in Leal at the back end of 2005, the last event of 2005, the eternal formats have been gradually on the rise and gradually more and more supported within Wizards. We've had the Leo GP, we have Legacy coming in Worlds in just a few months.</v>
+
+00:18:06.520 --> 00:18:34.560
+<v Speaker 2>Remember, we know the pros are busy trying to do something with that. We've had Columbus earlier this year with the Flash Hulk debt, which generated a huge amount of interest and excitement in that format. And of course, we have one of the the special wild card picks, indeed, the R&amp;D pick is Stephen Mendian, the Vintage World Champ. Now, if he can still be in contention after 12 rounds, he then sits down with Vintage and we're pretty certain that he's going to know more about that format than anybody else here.</v>
+
+00:18:34.870 --> 00:18:36.260
+<v Speaker 1>Yeah, the reason So</v>
+
+00:18:36.780 --> 00:19:05.990
+<v Speaker 1>no, no tournament has been kinder I feel to the vintage format than the Invitational. This is the 11th Invitational and we've had vintage in about half of them. Probably we didn't have was online obviously, so how much years we couldn't, but because we were back to real paper cards and I mean, we'd like vintage. The problem we have is the cards are very expensive. You know, it's there's not that many Black Lotus is floating around in the world. And so</v>
+
+00:19:06.690 --> 00:19:25.380
+<v Speaker 1>it's hard for us to run a lot of big tournaments, you know, using the Midget format. But we do want to support it. We're really glad it's play admin places. It is. And This Is Us saying we want to give a nod to it in a place where we could. And we felt like here's a chance to take the best players in the world and see how they can do with the format.</v>
+
+00:19:26.150 --> 00:19:38.090
+<v Speaker 2>One of the things that is good news is we've seen by talking to the players here, they do actually have genuine Vintage decks with them. We're a little concerned. We thought, yeah, we're going to see 15 Legacy Goblin decks</v>
+
+00:19:38.160 --> 00:19:53.940
+<v Speaker 2>running around because no one can access the Power 9. But no, they're all sitting there going turn 1, drop half my hand, do things, force of will that here's my merchant scroll, all kinds of nonsense going on. So it looks like they they've pulled their way and they've got their decks together.</v>
+
+00:19:54.050 --> 00:20:09.860
+<v Speaker 1>Well, the thing about the Invitational is it's 16 players and that obviously some players were concerned because it's not something that all of them have the cards. But it's a lot easier for a small number of people. Like when you're the one person coming from your country, it's a lot easier to sort of you have your country chip in and borrow the deck.</v>
+
+00:20:09.930 --> 00:20:21.050
+<v Speaker 1>The doctor got there so you can come and play it. But yeah, like I said, it's it would be hard for us to run a pro Tour with Vintage just cause I mean, just getting that many black Lotuses for that many decks, it would be really hard.</v>
+
+00:20:21.100 --> 00:20:40.090
+<v Speaker 2>Yeah, that's that's like 1600 by. No, no, no, you only need 400. It's only one each, isn't it? So 400 black lotuses in the same room. Yeah, it's almost worth holding the room to ransom, isn't it? With that many, Right. OK, well, enough of that. So there's your 5 formats with Mark. Give us 2 finalists. Who? Who do you</v>
+
+00:20:40.160 --> 00:20:45.240
+<v Speaker 2>be turning up on Sunday to actually go 2 out of three across the the three constructive formats?</v>
+
+00:20:45.630 --> 00:20:50.300
+<v Speaker 1>I believe the people that have the best score at the end of the 15 rounds is who I would pick.</v>
+
+00:20:50.570 --> 00:21:11.110
+<v Speaker 2>OK, that was that was very cunning. OK, let's see if Mark can be equally sly on this. Many of you know Mark writes every week on magicthegathering.com and he has a series occasionally called Topical Blend. And in Topical Blend, you merge two of the most popular things, one from magic, one from non magic. And I look through the non magic list</v>
+
+00:21:11.190 --> 00:21:35.750
+<v Speaker 2>and, and I wanted more votes than I got given because there are like 30-40 topics and they all seemed really good. So what we're gonna do, listeners, is we're gonna fire. I promise. He's not seen any of these questions before. Well, not from us anyway. So we're going to weigh down the Mark Rosewater topical blend non magic questions. Here we go. Mark Rosewater, Dungeons and Dragons. What's the best edition ever?</v>
+
+00:21:36.360 --> 00:21:36.820
+<v Speaker 1>4th.</v>
+
+00:21:36.830 --> 00:21:41.710
+<v Speaker 2>That is the correct answer. I thought I'd give you an easy one to start with. Okay, Picard V Kirk. Go on then, Picard,</v>
+
+00:21:41.780 --> 00:21:42.620
+<v Speaker 2>he took.</v>
+
+00:21:42.810 --> 00:21:48.640
+<v Speaker 1>My favorite Procardia Kirk is backwards. Never fathered a child, Kirk. Perhaps millions.</v>
+
+00:21:48.730 --> 00:21:52.120
+<v Speaker 2>Excellent. OK, Monty Python. Funniest member?</v>
+
+00:21:52.710 --> 00:21:54.230
+<v Speaker 1>Funniest member John Cleese.</v>
+
+00:21:54.310 --> 00:22:04.660
+<v Speaker 2>Find all things Josh, Joss Whedon. Serenity. It's a hideous film. Discuss. You're wrong. Fine, Harry Potter. Would you send your wizarding kids to Hogwarts?</v>
+
+00:22:05.170 --> 00:22:07.920
+<v Speaker 1>I wouldn't send my kids away, but let them visit I guess.</v>
+
+00:22:08.450 --> 00:22:12.110
+<v Speaker 2>The evil deeds of May go. He's the natural enemy of R&amp;D.</v>
+
+00:22:12.200 --> 00:22:13.530
+<v Speaker 2>Does it feel that way?</v>
+
+00:22:14.660 --> 00:22:16.450
+<v Speaker 1>I fight him on a daily basis.</v>
+
+00:22:16.520 --> 00:22:18.910
+<v Speaker 2>Lost. Will it ever make sense?</v>
+
+00:22:19.540 --> 00:22:20.690
+<v Speaker 1>In three years, supposedly.</v>
+
+00:22:20.700 --> 00:22:25.650
+<v Speaker 2>Yes, Wizards in jokes. Devin Lowe walks into a bar. Complete.</v>
+
+00:22:26.470 --> 00:22:27.890
+<v Speaker 1>And heard himself.</v>
+
+00:22:28.040 --> 00:22:32.010
+<v Speaker 2>Jim Henson and The Muppets Which Muppet do you wish you'd married instead of your wife?</v>
+
+00:22:33.210 --> 00:22:39.820
+<v Speaker 2>One correct answer again, Gleemax name because total fun. Didn't sound as cool.</v>
+
+00:22:40.450 --> 00:22:45.940
+<v Speaker 1>I don't know how we end up with Glee Maxwell that was very happy since I've been very Gleemax focused in my life.</v>
+
+00:22:46.010 --> 00:23:00.400
+<v Speaker 2>Seven deadly sins between under costing cards, over costing cards, color bleeding cards, printing cards, not printing cards, making chase rares, and using elements of past ideas. How do you sleep at night? Soundly censorship</v>
+
+00:23:03.290 --> 00:23:07.080
+<v Speaker 2>Richard Garfield, President, Pope or Secretary General of the UN.</v>
+
+00:23:08.130 --> 00:23:09.620
+<v Speaker 1>Secretary General of the UN.</v>
+
+00:23:09.730 --> 00:23:11.960
+<v Speaker 2>Seinfeld, were you good at your job?</v>
+
+00:23:13.250 --> 00:23:16.410
+<v Speaker 2>Yes, classic arcade games. Top three of all time.</v>
+
+00:23:17.340 --> 00:23:31.590
+<v Speaker 1>My favorite top three whole time. Yep. My favorite is Rock and Rope, a very obscure game. I also a big fan of Battle Zone and I'm a big fan of King Kong. Donkey Kong.</v>
+
+00:23:32.040 --> 00:23:36.650
+<v Speaker 2>Oxymorons. Central Intelligence Agency, President Bush. What's your favorite?</v>
+
+00:23:36.880 --> 00:23:37.740
+<v Speaker 1>Giant shrimp.</v>
+
+00:23:39.190 --> 00:23:43.050
+<v Speaker 2>Fantastic marriage does your relationship meet counselling mark?</v>
+
+00:23:43.380 --> 00:23:44.010
+<v Speaker 1>No.</v>
+
+00:23:44.060 --> 00:23:47.340
+<v Speaker 2>Time travel. How often do you use it in your day-to-day job?</v>
+
+00:23:47.820 --> 00:23:49.570
+<v Speaker 1>That's classified information.</v>
+
+00:23:49.640 --> 00:23:51.530
+<v Speaker 2>80s movies, The best you ever saw?</v>
+
+00:23:53.100 --> 00:23:58.390
+<v Speaker 2>Heathers comics and superheroes. The darkest comic, The funniest superhero.</v>
+
+00:23:58.960 --> 00:24:05.030
+<v Speaker 1>Are the funniest superhero has Matter Eater Lad from the Legion of Superheroes whose superpowers he can eat anything.</v>
+
+00:24:06.240 --> 00:24:07.800
+<v Speaker 1>The darkest comic</v>
+
+00:24:09.230 --> 00:24:14.500
+<v Speaker 1>Mark Millar wrote a comic called Wanted that they're making a movie out of that. I stopped reading because it was just too dark for me.</v>
+
+00:24:14.630 --> 00:24:16.620
+<v Speaker 2>Bad movie choices go on then.</v>
+
+00:24:17.570 --> 00:24:21.380
+<v Speaker 1>Bad movie choices, anything with Steven Seagal.</v>
+
+00:24:23.110 --> 00:24:30.440
+<v Speaker 2>Philistine, the famous people I've met in my current and past career, how many have been in jail and how many should be there right now?</v>
+
+00:24:31.680 --> 00:24:36.570
+<v Speaker 1>I've met a lot of people in Hollywood. I met a bunch of people. I don't know how many ended up in jail though.</v>
+
+00:24:36.580 --> 00:24:43.990
+<v Speaker 2>OK, fair enough. Board games explain in 10 words or less why Monopoly is the best board game in the world ever. Because it.</v>
+
+00:24:44.000 --> 00:24:44.660
+<v Speaker 1>Isn't.</v>
+
+00:24:45.870 --> 00:24:48.010
+<v Speaker 2>Ohh, I'm gonna edit that so you just say because of.</v>
+
+00:24:48.420 --> 00:24:58.890
+<v Speaker 1>Monopoly is the bumblebee of game design. Bumblebees, according aerodynamics, do not fly. Monopoly should not be a popular game according to game theory, yet somehow it's the most popular game, so go figure.</v>
+
+00:24:58.960 --> 00:25:05.250
+<v Speaker 2>OK, urban legends. Now that thing with the pencil and the banana I heard from Forsyth is Is that true?</v>
+
+00:25:06.280 --> 00:25:06.990
+<v Speaker 1>No comment.</v>
+
+00:25:07.060 --> 00:25:09.440
+<v Speaker 2>Stand up comedy, you're opening line.</v>
+
+00:25:10.220 --> 00:25:11.510
+<v Speaker 1>My opening line</v>
+
+00:25:13.860 --> 00:25:25.910
+<v Speaker 1>they were longer than a single. My jokes were sort of set up and I didn't do one line were lengthy processes. Here's what my one liner I'm so optimistic. My blood type is B positive.</v>
+
+00:25:26.620 --> 00:25:29.550
+<v Speaker 2>OK, science fiction, the number one author.</v>
+
+00:25:30.600 --> 00:25:31.990
+<v Speaker 1>Philip K Dick I'm a huge fan of.</v>
+
+00:25:32.660 --> 00:25:39.890
+<v Speaker 2>Pirates. Now you could take this anyway. I choose to do this should the willful removal of others property on the high seas be illegal.</v>
+
+00:25:41.160 --> 00:25:43.720
+<v Speaker 2>Life is a young rosewater. How old were you then?</v>
+
+00:25:44.790 --> 00:25:45.460
+<v Speaker 1>2.</v>
+
+00:25:45.550 --> 00:25:51.160
+<v Speaker 2>Puzzles. How long did those journalists puzzles take to put together? Did you wake up with them perfectly formed?</v>
+
+00:25:51.430 --> 00:25:58.660
+<v Speaker 1>Ohh no. They took a long, long time. They A usual puzzle would take anywhere from three to five hours, sometimes 10. Scary.</v>
+
+00:25:58.730 --> 00:26:06.720
+<v Speaker 2>Writing for TV My time on Roseanne. Do you use those skill sets from there in Magic Designer at all, or is that just another part of your life altogether?</v>
+
+00:26:07.130 --> 00:26:11.450
+<v Speaker 1>Well, dealing with Roseanne, who was an egomaniac, helped me deal with</v>
+
+00:26:11.530 --> 00:26:12.330
+<v Speaker 1>Rd.</v>
+
+00:26:13.800 --> 00:26:17.390
+<v Speaker 2>Office gossip Henry Stern. Have you ever seen him smile?</v>
+
+00:26:17.460 --> 00:26:18.290
+<v Speaker 1>I have, yes.</v>
+
+00:26:18.820 --> 00:26:29.950
+<v Speaker 2>I think that's a lie. The Internet Force for good, force for evil, or just force? Just force. College number of girlfriends versus number of semesters, which is higher?</v>
+
+00:26:30.400 --> 00:26:33.350
+<v Speaker 1>For me, I had one girlfriend I had more than one semester.</v>
+
+00:26:33.360 --> 00:26:41.890
+<v Speaker 2>OK, that wins. Raising children. 5 is the correct age to start them sorting magic cards. 8 is the right age for their first tournament. Discuss.</v>
+
+00:26:43.620 --> 00:26:45.630
+<v Speaker 1>My kids started eating their cards around 1:00</v>
+
+00:26:47.000 --> 00:26:49.560
+<v Speaker 1>and my daughter 7 and I haven't taught to play magic yet.</v>
+
+00:26:49.610 --> 00:26:56.440
+<v Speaker 2>OK, writing and the use of metaphors. When the trawler turns into the wind, why do the shoulders shrug?</v>
+
+00:26:57.170 --> 00:26:58.770
+<v Speaker 1>Because the fish jumped high.</v>
+
+00:26:59.010 --> 00:27:03.940
+<v Speaker 2>Things that start with the letter X. Why can't we have things that start with the letters triple X?</v>
+
+00:27:05.030 --> 00:27:06.290
+<v Speaker 1>Because we're a family game.</v>
+
+00:27:06.390 --> 00:27:13.760
+<v Speaker 2>Stick figures. Sorry listeners, it's outside my frame of reference. Don't know what he's talking about. Magic, David Blaine Genius or man in the box?</v>
+
+00:27:14.290 --> 00:27:14.920
+<v Speaker 1>Men in an ice.</v>
+
+00:27:14.930 --> 00:27:17.980
+<v Speaker 2>Cube My favorite books are.</v>
+
+00:27:19.030 --> 00:27:21.810
+<v Speaker 1>A Whack on the Side of the Head by Doctor Roger Vanek.</v>
+
+00:27:23.190 --> 00:27:26.500
+<v Speaker 1>And my favorite fiction book is Catch 22 by Joseph Heller.</v>
+
+00:27:26.750 --> 00:27:30.720
+<v Speaker 2>Dating with being a celebrity of sorts? Come on, admit it, you love it.</v>
+
+00:27:30.850 --> 00:27:31.840
+<v Speaker 1>Of course I love it.</v>
+
+00:27:32.190 --> 00:27:36.240
+<v Speaker 2>My favorite movies? What comes second behind The Sound of Music?</v>
+
+00:27:36.770 --> 00:27:39.190
+<v Speaker 1>My favorite movie is Harold and Maude.</v>
+
+00:27:40.290 --> 00:27:45.700
+<v Speaker 2>Shameful chocolate. OK, the world only gets one chocolate or magic choose.</v>
+
+00:27:46.490 --> 00:27:50.220
+<v Speaker 1>Oh, that's just mean. Can I carve Magic cards out of chocolate?</v>
+
+00:27:50.290 --> 00:27:52.640
+<v Speaker 2>That would work. Reality TV shows,</v>
+
+00:27:52.770 --> 00:28:02.730
+<v Speaker 2>the spawn of Satan or God's punishment for stupid people are both excellent. Good answer, I like that one. Interesting Tales from world travels. The longest journey you've ever made?</v>
+
+00:28:02.780 --> 00:28:06.980
+<v Speaker 1>Are Cape Town the Invitational in Cape Town? My travel was 30 hours.</v>
+
+00:28:07.070 --> 00:28:11.390
+<v Speaker 2>That's pretty impressive. Harry Houdini, Timmy, Johnny or Spike?</v>
+
+00:28:13.890 --> 00:28:15.840
+<v Speaker 1>He was a little Timmy, little Johnny.</v>
+
+00:28:16.170 --> 00:28:19.220
+<v Speaker 2>OK, my favorite TV shows. Name them.</v>
+
+00:28:19.730 --> 00:28:22.420
+<v Speaker 1>Of all time, my favorite TV show of all time is probably Taxi,</v>
+
+00:28:24.410 --> 00:28:30.480
+<v Speaker 1>my current favorite TV show. I'm a big fan of Heroes yeah, although the second season is not good at first, but I'm still enjoying it. Topic.</v>
+
+00:28:30.490 --> 00:28:36.530
+<v Speaker 2>Is San Diego Comic Con. Are you as much of A comic fan as most Magic fans are of Magic?</v>
+
+00:28:36.630 --> 00:28:43.780
+<v Speaker 1>I went to Comic Con this year and I would call home and talk to my wife and she was like, I, she goes. You sounded like a little school.</v>
+
+00:28:43.790 --> 00:28:53.570
+<v Speaker 2>Kid OK, so yes, part time jobs. Assuming that you have the time to squeeze a part time job in right now, what part time job would you do for choice?</v>
+
+00:28:54.720 --> 00:28:56.990
+<v Speaker 1>Advocate any part time job right now. Yeah,</v>
+
+00:28:59.310 --> 00:29:04.700
+<v Speaker 1>I don't know, write writing. I I guess it's kind of a part time job right now, but I do miss writing fiction.</v>
+
+00:29:04.770 --> 00:29:12.420
+<v Speaker 2>OK. So you've no desire to sort of go and do, I don't know, a day, a week as a police officer or, you know, a high wire act in the circus or anything?</v>
+
+00:29:12.570 --> 00:29:14.680
+<v Speaker 1>It would be a very bad police officer.</v>
+
+00:29:15.310 --> 00:29:19.520
+<v Speaker 2>OK, fair enough. Desserts. The best dessert you've ever had?</v>
+
+00:29:20.810 --> 00:29:35.990
+<v Speaker 1>There's a desert called Death by Chocolate and there's many different versions, but there was one death by chocolate at a place in Boston that I finished it and they wouldn't believe that I ate it by myself. They brought other people over and, and, and I said he ate a whole Death by chocolate. So that was my favorite.</v>
+
+00:29:36.000 --> 00:29:42.390
+<v Speaker 2>That's disgraceful writing articles. Don't you just wish the weekly deadline sometimes just go away?</v>
+
+00:29:42.620 --> 00:29:51.110
+<v Speaker 1>I actually enjoy the weekly deadline because it makes you right. One of the reasons I've been doing this for so long is I enjoy having just something that every week I have to write.</v>
+
+00:29:51.180 --> 00:29:52.320
+<v Speaker 1>I actually enjoy that.</v>
+
+00:29:52.990 --> 00:30:03.080
+<v Speaker 2>And that's all he could come up with for non magic topics. So we've got some magic to play. Mark Rosewater, the founder of the feast. We've got a great week ahead. Thanks for joining us here on Magic the Gathering dot.</v>
+
+00:30:03.090 --> 00:30:05.780
+<v Speaker 1>Com ohh you're welcome and enjoy this is gonna be a fun week.</v>
+
+00:30:07.860 --> 00:30:23.430
+<v Speaker 2>Blame Canada. Blame Canada. They're not even a real country anyway. The immortal words of the arbiter of all good taste and decency, South Park. And here is Canada's finest Mr. Ritchie Hone Rich. Why shouldn't we blame Canada?</v>
+
+00:30:24.930 --> 00:30:26.780
+<v Speaker 3>I don't understand the question.</v>
+
+00:30:27.230 --> 00:30:44.840
+<v Speaker 2>OK, that's a good start. All right. People will often lump together as a stereotype North America as as a region, but America and Canada are very, very different countries. And give us an outline of of what feels different to you being Canadian rather than American.</v>
+
+00:30:45.510 --> 00:30:55.360
+<v Speaker 3>Ohh, here we are in Europe where I think I'm generally treated worse than I would be if I spoke with the European accent because people assume I'm American.</v>
+
+00:30:55.490 --> 00:30:55.990
+<v Speaker 2>If you wouldn't.</v>
+
+00:30:58.260 --> 00:31:01.950
+<v Speaker 3>But there are definitely differences between Canada and the America.</v>
+
+00:31:03.840 --> 00:31:19.730
+<v Speaker 3>It's noticeable in like the political structure and things and actually the general cleanliness of the cities in Canada as opposed to the US But in a lot of ways they're very similar, like the economy and the cultures, basically the same.</v>
+
+00:31:20.500 --> 00:31:24.370
+<v Speaker 2>OK, you were born in Canada. Where?</v>
+
+00:31:25.020 --> 00:31:33.830
+<v Speaker 3>Toronto. My parents are British. They both immigrated to Canada about 10 years before I was born, so I suppose</v>
+
+00:31:33.900 --> 00:31:37.120
+<v Speaker 3>they have a cultural connection to the British, but.</v>
+
+00:31:37.330 --> 00:31:49.740
+<v Speaker 2>So you have some sort of British sensibilities, perhaps because you're a very reserved, very polite guy, you always come across that way. I mean, perhaps you go upstairs and like, break tables. I don't know, but you always seem that way.</v>
+
+00:31:49.750 --> 00:31:59.720
+<v Speaker 3>OK, yeah, pretty quiet. I suppose that's somewhat British sensibility. Yeah, well, I used to visit Britain all the time. This is my grandparents.</v>
+
+00:31:59.930 --> 00:32:03.920
+<v Speaker 2>So brothers and sisters, who's at home? You've got mom and dad and.</v>
+
+00:32:05.040 --> 00:32:09.750
+<v Speaker 3>I've no other direct family. Yeah, I don't. Yeah.</v>
+
+00:32:09.860 --> 00:32:12.240
+<v Speaker 2>So. So an only child, Yes. Alright,</v>
+
+00:32:13.690 --> 00:32:20.570
+<v Speaker 2>again, does that impact on on you as a person? 88 Do you feel you would have been a different person if you'd had brothers and sisters at home?</v>
+
+00:32:21.700 --> 00:32:27.150
+<v Speaker 3>Probably, but it's obviously very hard to say just had things would have gone differently.</v>
+
+00:32:27.660 --> 00:32:38.190
+<v Speaker 2>Were you a games player at home? Did Mom and dad? Are they like, you know, we finished tea. It's a Sunday afternoon. What are we going to do? Let's let's break out the Monopoly, the cards, whatever.</v>
+
+00:32:38.320 --> 00:32:44.250
+<v Speaker 3>Yeah, we played a lot of card games as a kid, played whist and a few other games.</v>
+
+00:32:44.370 --> 00:32:55.380
+<v Speaker 3>My parents have been trying to teach me bridge now that I've started playing cards and my I started playing a lot of poker and then my dad started playing again because of because I did.</v>
+
+00:32:56.900 --> 00:33:05.250
+<v Speaker 2>How competitive were they? Were they the kind of parents who would let you win because you were only 7? Or were they like, no, you made the wrong play kill you?</v>
+
+00:33:06.840 --> 00:33:16.130
+<v Speaker 3>Sometimes, like when my basically when they were trying to get me started on a game so I played more, they would let me win. But eventually my dad and I played a lot of gin and that was quite competitive.</v>
+
+00:33:17.950 --> 00:33:48.540
+<v Speaker 2>All Magic players have to be competitive if they want to be successful. The fact that you are sitting here at the Magic Invitational at quite apart from your resume of Grand Prix wins and doctos and you name it in the game indicates that competitiveness. But some players wear their competition on their sleeve. I think of Andrew Mueller, who finished second in the Pro Tour just this week. You can tell he wants to win. Geoffrey Serron of Belgium is a is another who crucifies himself</v>
+
+00:33:48.650 --> 00:34:05.210
+<v Speaker 2>when he makes a mistake. You, on the other hand, seem fairly sanguine about Yeah. Ohh, well, I lost one. No, not my day. Never mind. Is that true? Or is that just more the the person that you present to the outside world? Are you bleeding inside?</v>
+
+00:34:06.040 --> 00:34:16.130
+<v Speaker 3>I think I used when I first started on the pro tour, expected a lot more of myself. I was and got really angry when I made mistakes and in recent years I've just</v>
+
+00:34:17.400 --> 00:34:23.840
+<v Speaker 3>come to understand and expect that like others are better than me, I don't really expect to do at all that well anymore.</v>
+
+00:34:24.650 --> 00:34:47.620
+<v Speaker 2>That's interesting because in that sense there is a gap between your own perception of yourself and others because particularly through your work at Star City with the drafting, with Rich, the daily thing. I mean, that really was what in magic terms was appointment to view TV as it were. Frank Karstens online tech, I guess, would be the only thing I can</v>
+
+00:34:47.690 --> 00:35:03.620
+<v Speaker 2>think of where pretty much everyone knew that you had to read them. They were absolutely required. And it you say that. So in this company, for example, we're looking at, you know, a lot of the top players in the world. Do you think of yourself as I can hardly believe I'm asking you as an underdog?</v>
+
+00:35:04.700 --> 00:35:18.880
+<v Speaker 3>Well, I think, and I think I can definitely compete with this with this crowd, but just over the years I've come to realize that like I'm just not quite as, to be honest, smart as some of the people who are</v>
+
+00:35:19.070 --> 00:35:38.600
+<v Speaker 3>consistently doing very well and that's why they're doing better than me. Like I think in limited, I'm probably a favorite against pretty much anyone right now, probably anyone. But it just like over the course of the years, I've think I've come to realize that they're, you know, consistently doing better than me for a reason.</v>
+
+00:35:39.850 --> 00:35:59.830
+<v Speaker 2>Are an awful lot of smart people on the Proto, and one of my favorite quotes was from a German competitor who had travelled an awful long way to go to a Grand Prix and they weren't having a great season. Is ohh, you've made it all the way here. And he said, why would I not want to spend the weekend with the smartest 400 people I know?</v>
+
+00:36:00.500 --> 00:36:09.990
+<v Speaker 3>Yeah, it is a lot of fun. Like, yeah, the people are incredibly smart. I'm just amazed sometimes by not only the things they say, but things that are done</v>
+
+00:36:10.460 --> 00:36:15.120
+<v Speaker 3>but and yeah, it's really interesting to meet all these people. It's quite an opportunity.</v>
+
+00:36:15.410 --> 00:36:40.100
+<v Speaker 2>Something I've noticed this week because we we all wear our hats at the Pro Tour. So you are there as Canada's finest, the limited specialist, rich home and I'm there with my event coverage shirt on and I'm there to report and not have favourites and not want people to win, particular players to win and so on. Something I've noticed here is that for the very first time in my Magic experience, I've seen yourself and, and other big names</v>
+
+00:36:40.200 --> 00:37:05.090
+<v Speaker 2>take a step back from magic and actually look at sort of perspectives on the wider world. I'm thinking in particular looking at what people are reading, it's an astonishing range. We've got Craig Jones reading The Selfish Gene by Richard Dawkins. We've got Tiago Chan reading Jack Kerouac, We've got Yoga Vizma reading Anna Karenina, bit of Tolstoy just for a bit of light relief. And what have you got? What what's your your bit of light relief for the for the planes?</v>
+
+00:37:05.340 --> 00:37:10.250
+<v Speaker 3>I'm currently reading a book called The Shock Doctrine by Naomi Klein. It's</v>
+
+00:37:10.550 --> 00:37:14.140
+<v Speaker 3>just about political science and the.</v>
+
+00:37:16.480 --> 00:37:18.040
+<v Speaker 2>That globalisation and.</v>
+
+00:37:18.090 --> 00:37:26.280
+<v Speaker 3>Yeah, it makes sense. And the the way that, yeah, the way that countries are caught like a modern cult, the a modern form of colonization.</v>
+
+00:37:26.350 --> 00:37:45.180
+<v Speaker 2>Yeah, it's, it's an interesting rate. And like I say, it's just so great to see such a wide variety of reading out there. Now going back to the competitive thing, something you said in passing a couple of days ago, you said that magic attracts people with addictive personalities. Why?</v>
+
+00:37:45.730 --> 00:37:46.480
+<v Speaker 3>Well, to,</v>
+
+00:37:46.550 --> 00:38:12.350
+<v Speaker 3>well, the, the Pro Tour does maybe not of casually, but just like we all want to be as good as we can, They're the best in the world. That's something. And this is something that if you just put time into it, then you'll get better. And so the, the combination of like being addictive and it's such a great game that it's enjoyable to put so much time into it that it, you know, contracts all the competitiveness.</v>
+
+00:38:13.500 --> 00:38:44.170
+<v Speaker 2>Going back a few years, you could quite easily qualify for Pro Tool by knowing two or three rulings that your opponent didn't. And I don't necessarily mean, you know, I'm, I'm not talking about cheating. I'm talking about literally players going, well, I'm gonna attempt to do this and you go, well, I'm afraid it doesn't work like that. And actually your three men are dead. You can't regenerate them once they've, you know, whatever it turn out to be. With Magic Online, nearly all those errors have gone away. Is it the case now</v>
+
+00:38:44.270 --> 00:39:07.280
+<v Speaker 2>that you look at the new faces on the Pro Tour? And so basically the more you practice, the more likely it is that you will win because you're not. No one's going to get free wins by people not knowing the rules. No one's going to get free wins by people playing one ones for four that don't do anything because everyone knows they don't go in the decks.</v>
+
+00:39:08.820 --> 00:39:13.460
+<v Speaker 2>So is it literally a case of ours at the coalface equals success right now?</v>
+
+00:39:13.830 --> 00:39:39.120
+<v Speaker 3>I think in constructed it absolutely is. That's what makes constructive magic pretty miserable in my view, to be honest. But limited, I think like to get good at limited takes even more hours than in constructed and instructed. You have to devote all the great deal of hours to a certain format to get good at it. Whereas in limited like you learn a few lessons and then those can be applied to all formats. So</v>
+
+00:39:39.640 --> 00:39:48.470
+<v Speaker 3>like yeah, the the amount of time you put in now is directly related, whereas in the past or directly related to your success. In the past</v>
+
+00:39:50.030 --> 00:39:57.740
+<v Speaker 3>it would be the quality of your play testing, like the quality of the opponents you're playing against, whereas now everyone's playing against the same opponents on Magic Online.</v>
+
+00:39:59.610 --> 00:40:12.400
+<v Speaker 2>You used to do a draft today. We've already mentioned OnStar City, but how often do you draft in a in a typical week when when you're back at home, when you're not travelling to pro tours and GP's and invitationals, how often do you sit down in front of motor?</v>
+
+00:40:13.090 --> 00:40:28.760
+<v Speaker 3>It depends. Like when a new set comes out, I'll draft, you know, sometimes 20 times in a week or something. But when you know the format style like the End of Time Spiral was like hardly drafted at all. And</v>
+
+00:40:28.910 --> 00:40:32.510
+<v Speaker 3>and I'm actually doing a new drafting series on emptygchicago.com.</v>
+
+00:40:32.620 --> 00:40:39.930
+<v Speaker 2>Right, OK, Now tell us about that because we know that you, you took the decision to leave Star City because you got offered a new job, right?</v>
+
+00:40:40.000 --> 00:40:52.730
+<v Speaker 3>Yeah, I'm now the editor of mtgchicago.com and hopefully the site will be ready and up within the next week or so. It might actually be up now. I haven't been really had Internet contact, Internet access while I've been in Europe so.</v>
+
+00:40:52.960 --> 00:40:59.100
+<v Speaker 2>I'm what is the plan for that size? I mean, is it meant to be regional centric or is it based</v>
+
+00:40:59.170 --> 00:41:05.350
+<v Speaker 2>or or or is it just how will it be different from some of the other Big Magic sites that are out there?</v>
+
+00:41:05.740 --> 00:41:28.990
+<v Speaker 3>No, I think it's the same basic business model as the Star City or Brain Burst or just they would have articles as and then to bring people to the worst society and then they would buy cards from the site. But well, the first big thing is that it will never be premium. It'll everything will always be free. And also we have like a team of writers</v>
+
+00:41:29.180 --> 00:41:37.060
+<v Speaker 3>and the players working for the site. So you'll see people with empties of Chicago shirts at a lot of tournaments coming up and.</v>
+
+00:41:37.070 --> 00:41:47.480
+<v Speaker 2>So, so in that sense, there is going to be this sort of super team coming out of of of that notional place and presumably you'll be there in your shirt then when we come around to next season.</v>
+
+00:41:47.550 --> 00:41:56.780
+<v Speaker 3>Yep, that is the plan it the team I believe currently consists of myself, Jerry Thompson and Gabe Walls. I believe that's all but.</v>
+
+00:41:56.850 --> 00:41:58.740
+<v Speaker 2>Yeah, that that's enough to be going on with.</v>
+
+00:41:59.190 --> 00:42:00.490
+<v Speaker 3>Yeah, yeah.</v>
+
+00:42:01.020 --> 00:42:29.390
+<v Speaker 2>Well, obviously a very best of luck with mtgchicago.com. Now something that you and I don't have in common is the ability to win a pro tool. And that's something that we do have in common is a love of baseball. Now there is a perception amongst people who are not on the tour that presumably everyone with the greatest respect to him, looks like gay balls because we all sit around and we just sit lazily in our chairs playing magic all day everyday. And the idea of</v>
+
+00:42:29.460 --> 00:42:37.700
+<v Speaker 2>supporting excellence, no, cardboard excellence is all we do. But as a child you were quite heavily involved in baseball, weren't you, as a player?</v>
+
+00:42:37.970 --> 00:42:51.220
+<v Speaker 3>I was on I played until I was about 14 years old with my school and with extra like extracurricular leagues, but my career stopped when I fell down the ladder and broke my legs.</v>
+
+00:42:52.640 --> 00:42:55.840
+<v Speaker 2>Doesn't that doesn't sound good? Was was that a long recovery?</v>
+
+00:42:56.030 --> 00:43:06.690
+<v Speaker 3>It was it was about 3 weeks in hospital, another month in a wheelchair, another month on crutches, and then I had another surgery a few years later because my legs weren't aligned correctly.</v>
+
+00:43:06.930 --> 00:43:10.890
+<v Speaker 2>Nice. Why did you fall down the ladder, Rich?</v>
+
+00:43:11.650 --> 00:43:23.840
+<v Speaker 3>I was actually playing in like a jungle gym in the school across the Rd. from my house, but the jungle gym was still under construction and not finished so I got to the top of the ladder and there's nothing to really climb up onto.</v>
+
+00:43:24.120 --> 00:43:25.280
+<v Speaker 2>Nice.</v>
+
+00:43:25.400 --> 00:43:27.450
+<v Speaker 3>Yeah, it was not my finest hour.</v>
+
+00:43:27.520 --> 00:43:32.950
+<v Speaker 2>OK. So what have you done with the $170 million that you sued them for?</v>
+
+00:43:34.390 --> 00:43:41.020
+<v Speaker 3>Now didn't really sue like God it would the the area was roped off so it didn't seem like I had much of a case.</v>
+
+00:43:42.270 --> 00:43:56.880
+<v Speaker 2>You bad man. All right, let's come back to magic. What would you say is your finest achievement to date? Not necessarily your best result, but what is the thing that you went away from going? Yeah. Thank you so much. I'm quite good at this.</v>
+
+00:43:58.440 --> 00:44:28.410
+<v Speaker 3>I guess I had a rapid series of successes when I got onto the Pro Tour by making top 32 at Pro Tour Chicago and then and my next two tournaments I top aided Yokohama and then made the Canadian National team. It was at that point that I realized that I could really compete with everyone. But yeah, the real moment when I realized I could compete was at Pro Tour Chicago. I had played</v>
+
+00:44:28.510 --> 00:44:42.790
+<v Speaker 3>the best, the man Gabriel sang, who was the best Canadian player at the time, and he pretty much taught me how to play Magic. And so I played him and beat him in that pro tour. And that made me realize that I was good enough at that point to compete with the best players in the.</v>
+
+00:44:42.800 --> 00:44:56.350
+<v Speaker 2>World The Apprentice takes. So now I am the master as they say. All right, so this week we have 5 formats and we kick off with the cube draft. Now I'm guessing that's right up your street.</v>
+
+00:44:56.800 --> 00:44:58.270
+<v Speaker 3>Yeah, actually I think we</v>
+
+00:44:58.520 --> 00:45:26.640
+<v Speaker 3>pretty much invented the format in Toronto for years. We would play with Mark Zeidner's cube, although I think that might be his. The cube may be very different from the 1:00 they have here, because the cube I'm used to playing with is just all about counterspells and car drawing and making these abusable combos. Whereas this one, they might try to promote creature combat, which is, I mean, which is very interesting and regular draft, but not as interesting when you're playing with the best cards ever.</v>
+
+00:45:26.810 --> 00:45:28.920
+<v Speaker 2>All right, then we get the auction.</v>
+
+00:45:29.010 --> 00:45:38.150
+<v Speaker 2>Now, have you done any work on the auction? Have you looked at lists and gone? Well, here's a couple that I really quite like. And more importantly, here's a bunch I don't wanna touch.</v>
+
+00:45:39.060 --> 00:45:44.210
+<v Speaker 3>No, none whatsoever. When the auction dex first went up, there was</v>
+
+00:45:45.390 --> 00:45:53.010
+<v Speaker 3>like I looked at. I read through the article and looked at the decklists, but I didn't recognize half the cards, so I tried to look them up on Gatherer and it was down that day.</v>
+
+00:45:53.180 --> 00:45:56.390
+<v Speaker 2>Ohh, OK. And then since then, you've been away pretty much, right?</v>
+
+00:45:56.440 --> 00:45:58.690
+<v Speaker 3>Yeah, exactly. I haven't had a chance since then.</v>
+
+00:45:58.900 --> 00:46:09.010
+<v Speaker 2>So does that mean we're gonna see you later this afternoon? Being the 16th player, choosing between the last two decks and going? Well, at least I get 8 cards and 20 life. 25 I think it is.</v>
+
+00:46:09.180 --> 00:46:16.090
+<v Speaker 3>Maybe, but people have said that the decks, the bad decks are actually terrible. So probably, I'll probably</v>
+
+00:46:16.230 --> 00:46:17.410
+<v Speaker 3>fight for them at some point.</v>
+
+00:46:17.420 --> 00:46:30.390
+<v Speaker 2>So so we'll we'll see you getting your hands dirty in that. Then we're back to draft. And this is the purest draft format. It's law in its Winston. It's one-on-one. You've gotta be looking at three and oh in this ideally.</v>
+
+00:46:31.870 --> 00:46:38.300
+<v Speaker 3>I I think the formats vary luck based so I don't really have all that high expectations for it.</v>
+
+00:46:39.730 --> 00:46:45.090
+<v Speaker 2>Then we're on to bring your own standard. Have you brought your own standard? Have we got cards together? Are you still searching?</v>
+
+00:46:45.220 --> 00:46:58.060
+<v Speaker 3>Yeah, I've got my decks together. Actually the day before I left for the Pro Tour I got my roommate Steve Wolfman who owns pretty much every card to build 5 decks for ME3 Extended and a Type 1 and I bring your own Type 2.</v>
+
+00:46:58.340 --> 00:47:04.250
+<v Speaker 2>Excellent. That's what we like. It's it's always handy to have a lackey around just to do all the hard work.</v>
+
+00:47:04.340 --> 00:47:05.010
+<v Speaker 3>Exactly.</v>
+
+00:47:05.080 --> 00:47:09.110
+<v Speaker 2>Yeah, that's what we like. And then we're on to vintage. What are you running in Vintage?</v>
+
+00:47:09.280 --> 00:47:09.890
+<v Speaker 3>I'm playing</v>
+
+00:47:09.970 --> 00:47:18.680
+<v Speaker 3>Stack Stack. It's based on Mishra's Workshop and trying to lock your opponent with Sphere of Resistance, Smokestack and Crucible of Worlds</v>
+
+00:47:20.090 --> 00:47:23.740
+<v Speaker 3>and playing the playing the new Lorwyn cards Thorn of Amethyst.</v>
+
+00:47:24.010 --> 00:47:26.600
+<v Speaker 2>So that's all noncreature spells cost one more.</v>
+
+00:47:26.650 --> 00:47:32.060
+<v Speaker 3>Yeah, which and I just found out the format that was legal, so I'll to go find a few.</v>
+
+00:47:33.330 --> 00:48:01.650
+<v Speaker 2>Stairs. You should have asked. OK, so they're the five formats. Where do you look to come? We we talked over dinner last night with a bunch of the guys and saying look, it's obviously a fun event. Nothing is really on the line, although the chance to have your own card immortalised, having Rich Home opened up on Modo and opened up in packs all over the world I guess is a pretty exciting prospect. But where do you realistically see yourself finishing in in this field come Sunday?</v>
+
+00:48:02.420 --> 00:48:03.790
+<v Speaker 3>I mean, I think I have a reasonable</v>
+
+00:48:03.860 --> 00:48:09.740
+<v Speaker 3>chance of winning, but realistically probably I'm just hoping for the top half I guess.</v>
+
+00:48:09.890 --> 00:48:24.030
+<v Speaker 2>OK, fair enough. Well, you've got 1/2 chance of being right. Many thanks for all that insight, not just into Magic, but into the life of one of the great players, particularly for Limited. We'll see him this weekend, Mr. Richmond of Canada. Rich, thanks. Very.</v>
+
+00:48:24.040 --> 00:48:25.160
+<v Speaker 3>Much thank you.</v>
+

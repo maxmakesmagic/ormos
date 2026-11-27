@@ -126,7 +126,7 @@ class VideoTranscript:
 
     @classmethod
     def from_record(
-        cls, data: Path, video: Video, row: dict[str, Any]
+        cls, data: Path, row: dict[str, Any], *, url: str, media_stem: str
     ) -> VideoTranscript:
         """Read a catalog entry and match each transcript file to its checksum."""
         locale = row["locale"]
@@ -138,19 +138,19 @@ class VideoTranscript:
             or not isfinite(duration)
             or duration <= 0
         ):
-            raise ValueError(f"Invalid transcript metadata for {video.url}")
+            raise ValueError(f"Invalid transcript metadata for {url}")
 
         text_hash, captions_hash = row["text_sha256"], row["vtt_sha256"]
         status = row["status"]
         if status == "no_speech" and text_hash is None and captions_hash is None:
             return cls(locale, duration, "")
         if status != "transcribed":
-            raise ValueError(f"Invalid transcript status for {video.url}")
+            raise ValueError(f"Invalid transcript status for {url}")
 
         def read_asset(digest: object, suffix: str) -> tuple[str, bytes]:
             if not isinstance(digest, str) or not _CHECKSUM.fullmatch(digest):
-                raise ValueError(f"Invalid transcript checksum for {video.url}")
-            key = f"{video.media_stem}.{locale}.{digest}.{suffix}"
+                raise ValueError(f"Invalid transcript checksum for {url}")
+            key = f"{media_stem}.{locale}.{digest}.{suffix}"
             content = (data / "media-transcripts" / key).read_bytes()
             if sha256(content).hexdigest() != digest:
                 raise ValueError(f"Transcript file differs from its checksum: {key}")
@@ -160,9 +160,7 @@ class VideoTranscript:
         captions_key, captions = read_asset(captions_hash, "vtt")
         text = text_bytes.decode("utf-8")
         if not text.strip() or not captions.startswith(b"WEBVTT\n"):
-            raise ValueError(
-                f"Missing transcript text or WebVTT header for {video.url}"
-            )
+            raise ValueError(f"Missing transcript text or WebVTT header for {url}")
         return cls(locale, duration, text, text_key, captions_key, captions)
 
     def write_sidecars(self, output: Path) -> None:
@@ -243,7 +241,9 @@ class VideoLibrary:
         return cls(
             videos,
             {
-                video.url: VideoTranscript.from_record(data, video, by_url[video.url])
+                video.url: VideoTranscript.from_record(
+                    data, by_url[video.url], url=video.url, media_stem=video.media_stem
+                )
                 for video in videos
             },
         )

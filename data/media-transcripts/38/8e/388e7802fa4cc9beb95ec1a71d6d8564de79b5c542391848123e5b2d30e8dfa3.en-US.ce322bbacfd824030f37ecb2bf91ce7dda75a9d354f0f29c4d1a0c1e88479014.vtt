@@ -1,0 +1,350 @@
+WEBVTT
+
+00:00:01.230 --> 00:00:06.790
+<v Speaker 1>I'm pulling out my driveway so we know what that means. It's time for another drive to work.</v>
+
+00:00:07.790 --> 00:00:31.080
+<v Speaker 1>OK two weeks ago I started talking about the design of marriage and then last week I continue talking about the design of marriage but I was not yet done. So today is Part 3 of Mirage Design. So what I started doing last week is I started telling a bunch of stories about cards and the idea is I'm just jumping around. The stories are all over the place. The other thing to keep in mind is</v>
+
+00:00:32.000 --> 00:01:01.830
+<v Speaker 1>that I was not on the design team, I was on the development team for this one. And so I have plenty of design stories that happened during development, but a lot of my stories are more development oriented or changes that happen during development or the last week, for example, I talked about some and some flavor text. So these stories are all over the place. I what I've learned is I talked about what I know just because the stuff I experienced or saw is easy stuff for me to tell the stories. So I wasn't Privy really to what went on during the design of Mirage other than watching, you know,</v>
+
+00:01:01.900 --> 00:01:13.980
+<v Speaker 1>working on it with with Bill during development. But anyway, I got more stories to tell, so I'm going to tell them. OK, so today I'm going to start with the for Rexy in Dreadnought.</v>
+
+00:01:15.950 --> 00:01:46.200
+<v Speaker 1>OK, so here's that card came to be. So what happened is when Alpha came out, Richard made two cards. One was called Lord of the Pit that was a 7/7 and the other was called Force of Nature. That was an 88. Those were the largest creatures in magic or in you know, natural creatures. I mean Rock Hydra could get bigger. OK, so and then Antiquities 2 sets later, the second expansion antiquities header card called Phyrexian Colossus. That was a 99.</v>
+
+00:01:46.690 --> 00:01:53.260
+<v Speaker 1>And then a couple seconds later in the dark, there was a a card called Leviathan. It was a 10/10.</v>
+
+00:01:54.050 --> 00:02:24.050
+<v Speaker 1>Then the couple sets later in Ice Age, there was Polar Kraken 1111. So you can see where this was going. It was a little game we were playing where we kept one upping ourselves. So we got to Mirage. I said to Bill. I said Bill, Bill. We got to make it 12:12 and Bill was like, I don't know, you know, I'm not sure we should keep playing. This game was basically Bill said, you know, because I I don't want to make a 12 child just to make a 12/12. They said OK if you can make a 12/12.</v>
+
+00:02:24.130 --> 00:02:24.940
+<v Speaker 1>Interesting.</v>
+
+00:02:25.600 --> 00:02:36.890
+<v Speaker 1>I'll put it in the set. So the gauntlet thrown down. And so basically I had to go off and make a 12/12. That was interesting. And so I, I, I came back and I said, OK, Bill,</v>
+
+00:02:37.660 --> 00:02:38.960
+<v Speaker 1>I got 12 foot trampler</v>
+
+00:02:39.690 --> 00:03:09.770
+<v Speaker 1>cost one mana. Now, for those of you know, this card, it's a, it is a 12 year old trampler. It costs one man up when it comes into play. You must sacrifice up to 12 power worth of creatures or sacrifice the Francine right now. So it has a little extra cost. But bill was intrigued. Bills like, OK, mission accomplished, challenged, challenged, you know, achieved and he put it in the set. And that card is going on to have some notoriety because if you play it kind of</v>
+
+00:03:09.840 --> 00:03:13.720
+<v Speaker 1>honestly, the card is fine, but, uh, there's a lot of ways to sort of</v>
+
+00:03:14.900 --> 00:03:30.790
+<v Speaker 1>have no expectation of actually saving the raging right now where I pay 1, I get my 12:12 and yeah, it's going to go away because it's gonna end up being the 12 power you have to pay. But you know, it triggers things or anyway, there's all sorts of shenanigans. But the car just started with me kind of</v>
+
+00:03:31.590 --> 00:04:01.680
+<v Speaker 1>I don't know. I, as I talked about last week, I I like sort of having ongoing trends and things. I like little meta things. I like the a tags. I like the mega mega cycle. I might have had a lot to do with most of that stuff. But anyway, one of the things I've always enjoyed is I feel there's a when I say media game, I mean the R&amp;D term, the players talking about game about what to play a tournament and what's good. The R&amp;B media game, which is slightly different, talks about all the things that encompass magic. The magic is not just the playing of the game, but it's everything that comes with it. And a lot of</v>
+
+00:04:01.750 --> 00:04:30.410
+<v Speaker 1>the community building is. I like doing things where people can anticipate things or predict things, and I think it's important part of magic. OK, next we will talk about Cadaverous Bloom. So this was a card I made once again, I did not make tons and tons of carbs in Mirage, I made some. I'm just telling the stories because these are the ones I know. People are often like, why do you always talk about stuff you did? And I'm like, because I know what I did.</v>
+
+00:04:31.770 --> 00:05:01.860
+<v Speaker 1>And so anyway, I will tell some of these stories are not about cards they did, but hey, some of them are. OK. So cadaverous Bloom, what happened was we had a bunch of gold cards in the set and we didn't like the black green 1, so we killed it. And so there was a black green hole. Gold hole had to be rare black green. So what I did was I said, OK, we got to make a card and I said, OK, well what? What does black do and what does green do? And at the time, Black was very much about, still is</v>
+
+00:05:02.160 --> 00:05:13.970
+<v Speaker 1>giving up resources for advantage. You know that you pay life to draw cards. And I'm like, ohh, well, what if Black could discard cards and get something for it? And then I thought about, OK, well what,</v>
+
+00:05:15.680 --> 00:05:42.050
+<v Speaker 1>what could it get? And I said, well, OK, well that's the black part. You can discard cards is what's the green part? They said, well, the green part is getting mana, you know, and they're black was at the time was #2 in mana. So it had dark ritual and stuff at the time. But green could get you any color, man. It's like, OK, well black discards the card that it gets something. And normally it's just amount of black card. It would be maybe black man, ohh. But this is a black green card. You can get any color manner you want.</v>
+
+00:05:43.380 --> 00:05:56.390
+<v Speaker 1>And that's one of the things that I, I'm a Johnny at heart. For those not know this, I love making engine cards. So what an engine card is, is the card in which you take one resource and you turn into another resource. And</v>
+
+00:05:57.260 --> 00:06:11.950
+<v Speaker 1>they're fun. I mean, they make a giant cards cause, you know, shenanigans, but they also make good spike cards cause often converting resources can be very dangerous, especially as in the case of this card where it costs no mana, you're starting charging your hand into mana. So it allows you to</v>
+
+00:06:12.720 --> 00:06:42.780
+<v Speaker 1>well, this caused all sorts of the car did lots. So the most famous thing this card is for is a deck called Prosp Bloom or prosperous bloom, in which cadaverous bloom was played with prosperity as well with a few other carbs like squandered resources. And essentially what happened was but so before press was bloom, the thought about combo dex was people like, Oh, yeah, that's that's fine. You know, for the kids, you know, like like it was this goofy thing that people did, but it wasn't</v>
+
+00:06:42.870 --> 00:07:14.780
+<v Speaker 1>a serious thing. It wasn't something that you expect to see in tournaments or something. Well, anyway, Mike Long shows up at Pro Tour Paris with the pros bloom deck and wins it. And that really put combo on the map. You know, that really made a lot of the pros go. Maybe I'm not, maybe I'm not really thinking of, correctly. That combo has the potential if it's fast enough and has enough versatility or commander can be constructed. And anyway, it's funny. One of things the funny story is Mike lawn</v>
+
+00:07:14.860 --> 00:07:44.440
+<v Speaker 1>so PD pairs you had to use the format was you had to use mirage envisions. It was block constructed, but whether it hadn't come out yet and it just so happens that everything you need to make processes little work was in mirage and visions and Mike was convinced that R&amp;D made the deck chopped it up and put in the two sacks for like someone to find and I could not convince him otherwise. I'm like I'm like I all the pieces were made by different people like I made could ever bloom. I know Bill made prosperity, Elliot made a few of the cards like,</v>
+
+00:07:44.870 --> 00:08:14.780
+<v Speaker 1>you know, it's not all made by one person. I go and and it's funny because one of the things I is that the players always want to assume that we planned everything. And sometimes we did, but sometimes just we made open-ended interesting cards and they clicked together neat ways. You know, we didn't. We don't always necessarily plant things. I know, I know people like like to think we do, and I'm not saying we never do. We have, but it's funny. It's the expectation of players and sort of what they what they think we do.</v>
+
+00:08:15.510 --> 00:08:21.020
+<v Speaker 1>OK, Next up. OK, I'm gonna ask you some trivia questions now. Trivia Questions Trivia question #1</v>
+
+00:08:23.400 --> 00:08:25.560
+<v Speaker 1>Daring Apprentice is a card in Mirage.</v>
+
+00:08:26.470 --> 00:08:32.590
+<v Speaker 1>It is the first card to ever have something happen. Now this is not rules tax, Not the rule. It's not</v>
+
+00:08:33.330 --> 00:08:42.340
+<v Speaker 1>it's not about the card does it's about how the it's the question is more meta like this car did something in the grand scheme of magic that had never been done before.</v>
+
+00:08:43.360 --> 00:09:09.100
+<v Speaker 1>And the answer is it is the first card ever to be eroded before it came out. And here's why. So the card on it has an ability where you can use it to counterspell. And at the time, for those who might not know this, when magic first came out with alpha, there are actually three different kinds of cards that you could cast during your opponent. You could, sorry, three kind of non permanent cards.</v>
+
+00:09:10.350 --> 00:09:39.920
+<v Speaker 1>They were sorceries. There were instances and there were interrupts. So what interrupts were was before 6th edition rules. There was no stack in magic. The way it worked was you can cast your spells and certain spells interrupt said hey, if I if you cast an interrupt, nothing can be played in response except other interrupts. And in order for counterspells to do their thing, they needed to be interrupts. So during apprentice was supposed to say on it, hey, play me as an interrupt, but we forgot it</v>
+
+00:09:40.330 --> 00:10:02.520
+<v Speaker 1>and the card did not work. It counterspell and if it wasn't an interrupt didn't work as an interrupt, you couldn't come to the spell. So we knew that the card wasn't going to do what the card said. And so we put a rod up saying OK guys, it works, it works, it's an interrupt or you know, works as an interrupt. And The funny thing is after six edition, the card got to ride it back. So it was the first card ever to get Arata and now it doesn't even have a radius.</v>
+
+00:10:03.250 --> 00:10:06.240
+<v Speaker 1>Okay, trivia question #2</v>
+
+00:10:07.560 --> 00:10:37.610
+<v Speaker 1>what card in Mirage was called Mirage Up until the set officially got the name of Mirage and then we changed the name of the card. Now I know since then we have made sets in which we have, you know, the card in the set have the same name as the set, but at the time we didn't do that. So what card was it? Shimmer. The card Shimmer was called Mirage during I don't know all of design</v>
+
+00:10:37.680 --> 00:11:06.960
+<v Speaker 1>post development and we were going to keep the name until the set officially got called Mirage. So real quickly, I don't think I talked with the last time. So another interesting question is what set had two different code names and the answer is Mirage. OK, that one is too hard, but what our visitors from code names? Well, when Richard first got the set, when he first put it together, the team that made it nicknamed you gave it a name of Menagerie, which means like a, like a zoo.</v>
+
+00:11:07.660 --> 00:11:38.530
+<v Speaker 1>Um, and when it got to Wizards, it got a new nickname because all the code or code name, all the code names at the time were Macintosh sound files. The real quickly, the reason for that is when I first started working at Wizards back then, everybody had a map for the entire office has had Macs. And whenever you open a folder or back then you open the folder that had like the name of a Mac sound, it would go off. And so we named our code sets at the time after Mac files so that our folders will open them would make a sound,</v>
+
+00:11:38.630 --> 00:12:08.950
+<v Speaker 1>which sounds silly, even though, because it is silly, but we did that. So mirages code name once it got to Wizards was Susumi, which people thought was a joke, like, you know, so Sumi like somehow we were doing something illegal or something. But anyway, I think that might have even been the last well, Colts in that pad a Mac named to be retro. But I think the other than that, I think some he was the last Apple sound code name. But anyway, the set does have two</v>
+
+00:12:09.030 --> 00:12:13.180
+<v Speaker 1>name the little trick question. OK, let's do another trivia question for you.</v>
+
+00:12:14.980 --> 00:12:15.420
+<v Speaker 1>OK,</v>
+
+00:12:16.180 --> 00:12:25.700
+<v Speaker 1>Talim Tor is a guy in the set. He's a character. Kalimdor is an anagram, much like Mangara was an anagram of anagram.</v>
+
+00:12:26.920 --> 00:12:29.580
+<v Speaker 1>What is Telim Tor? An anagram of</v>
+
+00:12:31.780 --> 00:12:49.050
+<v Speaker 1>OK and the answer is Mr. Toilet. OK. Now the next trivia question is why? Why, what? Who is Mr. Toilet? And the best of my knowledge, Mr. Toilet was a nickname of Don Felice is my guess.</v>
+
+00:12:51.100 --> 00:12:56.490
+<v Speaker 1>I I know it wasn't Charlie or Bill or Joel. Theory could have been hard or</v>
+
+00:12:58.020 --> 00:13:28.310
+<v Speaker 1>Elliot, but I I believe it was Doug Flutie. Ohh. By the way, I made a comment in in Part 1 that I I realized was slightly incorrect. So when I said Don Feliz, an anagram of Don Felice's name was Feldon's Cane, that is not correct. The original name for Feldon's Cane was Feldon's Cane Ice Cane and that is an anagram of Don Feliz. But it got changed so it is no longer. Now there is another Magic card that has done Felice as an anagram and I think it is</v>
+
+00:13:28.750 --> 00:13:33.270
+<v Speaker 1>develops Cone is that's correct? Anyway, a little little side note, OK,</v>
+
+00:13:34.010 --> 00:14:03.650
+<v Speaker 1>any other trivia questions I can ask here? Ohh, before I get into that, it's Lintar. So there's a little funny thing about Terminator. So we are making a little joke about, or I mean, the telemeter came in from the design team. They're making a joke. But when the team members and one of the cards telling towards darts in play to earn design was called Telim Tor's Darts because it blinks. For one, it's a very weak thing. But we had no end. No, we had a lot of fun play tests going.</v>
+
+00:14:04.190 --> 00:14:15.840
+<v Speaker 1>I plug you with my Tiny dart. I think the name just didn't fit on the card. We were going to call it towards Tiny Darts, but I don't know whether continuities didn't like the name or I don't know, we changed it might not have fit.</v>
+
+00:14:17.120 --> 00:14:23.550
+<v Speaker 1>OK. So is there any other trivia or just move on some other? OK, I'm on talking to some other stuff. OK,</v>
+
+00:14:24.980 --> 00:14:34.810
+<v Speaker 1>so I from time to time I've mentioned the fact that I worked on Roseanne. I was on staff Roseanne, my big my my high point in my writing career for television,</v>
+
+00:14:36.200 --> 00:14:42.680
+<v Speaker 1>but I have never yet told the story of how my Roseanne days affected magic design.</v>
+
+00:14:44.620 --> 00:14:58.480
+<v Speaker 1>OK, so here's the story of how a card mirage was affected by my time on the staff of Roseanne. OK, so for those that might not know how how a sitcom writing staff works, what happens is</v>
+
+00:14:59.720 --> 00:15:05.280
+<v Speaker 1>you have a room and you have the script and basically you sit in the room called the writers room and justice, you</v>
+
+00:15:05.930 --> 00:15:36.140
+<v Speaker 1>go through the script many, many times trying to sort of up the jokes, just make the jokes funnier. And what will happen is the way it tends to work is you somebody writes a script, a couple people write a script. And the first week the actors acted out. And then the writers watch the actors and then they see what works and what doesn't work. And then they take notes where the jokes kind of aren't working or something. And they come back And then the room, the whole right, all the writers in the room try to fix the jokes. And in general, because we're trying to, you know, make humor, we're trying to keep the room pretty light.</v>
+
+00:15:36.320 --> 00:15:41.370
+<v Speaker 1>I'm saying you, you definitely want the if you're trying to make comedy, you want people that sort of,</v>
+
+00:15:42.090 --> 00:15:55.010
+<v Speaker 1>you know, have a you want, you wanted to to be fun. And so one of the things that often happens is, you know, people do things to entertain one another. They tell stories. So one of the writers</v>
+
+00:15:56.660 --> 00:16:26.590
+<v Speaker 1>one day tells the story he had been in the zoo with the previous day and he told us the story about the zoo. So add the zoo there is creature called meerkats. So a meerkat, a little tiny creatures. Have you ever seen The Lion King? I believe Timor is a meerkat like Timon and Pumba. Pumba is a big warthog. So Tamir is a timber makes this name up. He's a meerkat. So when a merkatz do actual honest meerkats at the zoo is</v>
+
+00:16:26.850 --> 00:16:57.370
+<v Speaker 1>he was watching them and one of the Miracast would see something and they would sit up, sit up on their hind legs and take their front legs and hold them in front of themselves. Now this is a recording. So me demonstrating that does not 2 legard. Imagine if you had your hands kind of held up against your chest, but sort of just sitting there and you know, just holding, holding down and like perched up. And So what happened is 1 meerkat would perch up and as soon as one meerkat would see another meerkat pushed up, he would hurt job</v>
+
+00:16:57.620 --> 00:17:03.760
+<v Speaker 1>and then that would keep going on until all the merchants would perch up. And then at one minute they sort of breaking all go back to their thing.</v>
+
+00:17:04.380 --> 00:17:07.500
+<v Speaker 1>And he was saying was very funny thing. So from that</v>
+
+00:17:08.930 --> 00:17:25.570
+<v Speaker 1>we would play games in the room. So we started this little game that said and any moment any member of the writing team could perch up like a meerkat. And if they did, whoever saw them must also perch like a meerkat until every single person in the room perched as a meerkat. And then we would just break.</v>
+
+00:17:26.170 --> 00:17:56.120
+<v Speaker 1>Now The funny thing about this is we didn't talk about it. It wasn't explained. It just kind of happened naturally happened one day and there was this little game we played. Now we're all got really fun was when somebody was in the room that wasn't on the writing staff and didn't know our little game. So for example, one day Martin Mull, who was on Roseanne, he played her boss for a while when she owned a diner. Anyway, he would occasionally come to the writers room and help out because he's very, very funny. He's a comedian and and, and he was awesome. And so we gladly had him in the writers room and</v>
+
+00:17:56.190 --> 00:18:05.080
+<v Speaker 1>whenever we could. So one day we're in there and we're talking about something and somebody, I don't know who, not me, somebody pierces. Pierces like a mercat.</v>
+
+00:18:05.730 --> 00:18:32.760
+<v Speaker 1>So I see it. I personally in America and one by one everybody purchased like Americat. But The thing is you can't break until every single person purchases like a mercat and Martin Mall, who has no idea, has never seen this do this is sitting there as everybody else in the room is silent, perched like a meerkat. And so he looks around. He's like trying to figure out what's going on. And so finally he makes them look he purchased like a mirror dad. And then we break and continue on and say nothing.</v>
+
+00:18:34.110 --> 00:18:49.720
+<v Speaker 1>There's a wonderful moment it just watching Martin Ball like what is going on? Anyway, I shared this story with R&amp;D and they thought it was very funny. We even played the Meerkat in R&amp;D for a little while back in the day. By the way, a little side note is when I first got to Wizards,</v>
+
+00:18:50.890 --> 00:19:21.000
+<v Speaker 1>there was a thing that we referred to as the game. And what the game was, is there was a series of rules about what you had to do. And if you didn't do those things, I don't think I punched the arm or something. And so basically there's a whole bunch of rules and the game was this multi layered complex thing like there's certain words you couldn't say. And when certain words, words said, you had to do certain things. And if you did something, if not, then you couldn't talk until someone said your name. And</v>
+
+00:19:21.600 --> 00:19:52.270
+<v Speaker 1>it was complex. It was just this little game. I think Scaffold designed this game. He and his friends are in college. And but anyway, for a little while, the Meerkat game got merged into the game. And Rd. did it for a little while. It was, it was, it entertained us. But anyway, when we were doing Mirage, the meerkat, because we were doing the Mirat thing, we decided to make a meerkat. And so the Meerkat, I don't even know that anything mechanically with the card, but as far as it being a Meerkat, the having a Meerkat in the set was 100%</v>
+
+00:19:52.350 --> 00:19:56.800
+<v Speaker 1>tied to the Roseanne Meerkat game that I brought to and</v>
+
+00:19:57.580 --> 00:19:59.070
+<v Speaker 1>OK next.</v>
+
+00:20:00.290 --> 00:20:02.150
+<v Speaker 1>Standing totem. OK, so</v>
+
+00:20:04.590 --> 00:20:05.140
+<v Speaker 1>I love</v>
+
+00:20:05.990 --> 00:20:35.980
+<v Speaker 1>I I get a lot of theories for those who read my column and hear about my theories. Many of my theories I think have proven to be pretty valid and had become a pretty a staple of how Rd. functions. But sometimes I come up with a theory that kind of doesn't quite work out the way I thought, you know, it doesn't quite prove itself. So I had a theory when I first got there of what I called the marquee card. The idea of a marquee card was I thought that every sat Well Ice Age had just come out before I got there and I</v>
+
+00:20:36.060 --> 00:20:45.490
+<v Speaker 1>she had called gestures cap. So for those who don't know, gestures caps the card that allows you to go into your opponents library and permanently remove 3 cards for the game.</v>
+
+00:20:46.820 --> 00:21:16.560
+<v Speaker 1>And before that card we had never allowed people to touch other people's libraries or take cards out of the game. Like we, we've never done that. And so the card was really eye-catching because people are like, Oh my God, this is amazing. Even whether it wasn't, it wasn't. It just was really out-of-the-box. And I said, you know, maybe when we want every set to do is have one card. And I thought it needed to be an artifact or a land, meaning it needed to be able to go in any deck. That part of being a marquee card was this crazy, did something you've never seen before, but that anybody could play.</v>
+
+00:21:16.910 --> 00:21:46.970
+<v Speaker 1>And so I decided that we should have a marquee cards. I want to build to build. I explained my theory go we need a marquee card and bill is like, well, if you make something good enough, I'll put it in the gauntlet thrown. So a lot of mirage has gotten the throwing and me trying to make cards and notice what happened. A lot of my design on mirage was we'd get a whole one of two things. Either we get a hole and I try to fill it Marrow example that or I felt we would need and I would say to Bill, here's our need. And Bill would say like, well, make</v>
+
+00:21:47.040 --> 00:22:17.160
+<v Speaker 1>card. And then if there's a if the card is good enough and if I could find a spot for it, I'll put it in. Sometimes I would I combine those. I go the thing I'd want to make and there's a whole I combine them together. But anyway, so I said we needed have marquee card bills, like we'll make a card. So I made grinning totem. And so for those who don't know, grinning totem is a card allows you important library and casts a spell out of your opponents library. You're casting their spells. We've never done that before. I mean, now it's funny because like whenever we do something, then later magic does more of it,</v>
+
+00:22:17.230 --> 00:22:48.740
+<v Speaker 1>you know, and now the idea of messing with opponents library, you know, taking cards out or doing some things with their cards or casting their cards don't seem quite as crazy. Now. Be aware, by the way, there was a card in alpha that allowed you to cast a spell out of your parents hand word of command. But we would never let you catch failure opponents deck. So anyway, I made grinning totem to be down. I mean, it definitely created some excitement, but it I later realized that the marquee card, I don't know, my theory didn't quite hold out. I did by the way. Well, I tried to make a marquee card for Tempest.</v>
+
+00:22:48.830 --> 00:23:17.490
+<v Speaker 1>Interestingly enough, Volrath helm or helmet Volrath, I think it's called. But the car they got put on, it didn't end up being the card that I meant to be the marquee card. The marquee card was supposed to be because of Volrath with his helm could control people's minds, was supposed to be mindslaver, but we couldn't work it out. There's some rules issues that managers causing the problems. But anyway, I would later go to do it mirrored in but that that card was made to be the marquee card of Tempest, although never ended up in Tempest.</v>
+
+00:23:18.760 --> 00:23:28.050
+<v Speaker 1>OK, next Goblin tinkerer. OK, there's three things that I love. I mean more than three but three of the matter for this case. And well as I love I mean</v>
+
+00:23:29.070 --> 00:23:32.460
+<v Speaker 1>magic wise, I love my family. OK #1</v>
+
+00:23:33.200 --> 00:24:00.690
+<v Speaker 1>I love artifacts like before I came to Wizards, my favorite set my bar none want me. I love the alphabet. My favorite expansion was antiquities. Why? Because it just artifacts. You know I loved artifacts. I I still do love artifacts. I did make mirrored in and I made esper and made scars of Mirrodin. So I I'm a fan of artifacts anyway, I love 881 I love artifact 2. I love changing things and other things.</v>
+
+00:24:02.140 --> 00:24:32.680
+<v Speaker 1>My favorite car, one of my favorite cards in antiquities was transmit artifact, which I would later go on to tweak with tinker. OK, I'll leave it going to break with tinker. But Tinker was just me trying to like take what I love transmit. In fact, just simplify it a little bit, AKA I guess break it now. But but anyway, I love changing things and other things. Three, I love the graveyard. Love the graveyard. So for example, by the way, if there ever was the following format never got made, the format is a designers choice</v>
+
+00:24:32.910 --> 00:25:03.610
+<v Speaker 1>where you pick a designer of magic and then you could play any card that designer made in your deck. The winning deck of that format I believe would be Rosewater Dredge because I now they make the dredge mechanic. I have made like 95% of the cards you would need to make the most awesome dredge deck ever because I love the graveyard. You know, Bridge from below, Narcomoeba, I don't name it. I've made a vast, vast majority of the cards that use the graveyard</v>
+
+00:25:03.700 --> 00:25:07.500
+<v Speaker 1>very powerfully and efficiently, including making the dredge mechanic.</v>
+
+00:25:09.070 --> 00:25:16.780
+<v Speaker 1>So anyway, take those three things together, take 11 of artifacts, a lot of changing things, a lot of the graveyard Walla goblin take tour.</v>
+
+00:25:18.380 --> 00:25:48.260
+<v Speaker 1>Anyway, that was definitely me kind of just making the kind of card that I would like to make. Also, another thing that I like about the card was it's what I used to call puzzle card, which was back in the day, I made magic the puzzling, which was, you know, like a chess puzzle that was magic and you were in game is like, you know, win the game or you have some objective usually winning. And Goblin Tinker was an awesome puzzle card because all you had to do was put a couple artifacts in, play a couple artifacts in graveyard and like night. All these interesting options. You know,</v>
+
+00:25:48.390 --> 00:25:49.010
+<v Speaker 1>it really</v>
+
+00:25:49.910 --> 00:26:06.820
+<v Speaker 1>with one card, you had all these different, you know, avenues for the, for the person saw the puzzle to go down and figure out what they could do. And so it's definitely both the kind of car I loved as a player and the kind of card I loved as a puzzle crafter. OK, what is next? Next is oh, another sort of question.</v>
+
+00:26:08.180 --> 00:26:12.360
+<v Speaker 1>What was the first Mirage card to be printed?</v>
+
+00:26:14.110 --> 00:26:44.660
+<v Speaker 1>Now there's a trick question, and probably not one, you know, unless, unless I talk about this during homelands, the answer is memory lapse, because memory lapse, although designed by The Mirage design team, actually came out during Homeland. How did that happen? Well, the way it happened was Bill Rose had come out to Wizards. I think he might have even been doing his interview for the job, but he came up for some reason, and while he was there, they were doing the final touches on Homeland. So he sat in and they had a whole for a counterspell. And so</v>
+
+00:26:46.060 --> 00:27:15.110
+<v Speaker 1>they might have even had the art of I'm not sure. But anyway, they had a contestant. I think in fact, it was late enough. They might have had the art, but they needed a counterspell. And so Bill said, ohh, I have a great counterspell. It's in my set, you know, in Menagerie. And so they ended up taking because they need it because it was like they needed something good and Bill had a good spell. So they put it in. So memory lapse ended up coming out before Mirage that said it was designed in there's some other cases that happening. We often will steal from the future one of the rules</v>
+
+00:27:15.180 --> 00:27:40.460
+<v Speaker 1>R&amp;D as whatever set is the chronologically coming out the next has prioritized. They really need something. So if you're desperate for something, the setting that's coming out after you has it. I mean, barring that thing being crucial to the upcoming set, you usually can take it. It's like because I said it some time to replace it where you're like under the gun and got to get out the door. And so we we borrow from the future quite a bit.</v>
+
+00:27:41.560 --> 00:28:11.570
+<v Speaker 1>OK, next, consuming ferocity. So this is an example of a card that was an awesome idea. Another card I did an awesome idea that didn't quite play out the way I hoped. So the idea I had about the garbage was very simple was you know, you, you enchant it and then the still was you make this you give this thing some magical energy and it gets stronger and stronger and stronger until the that merges burns them out and destroys them. And so the idea was that you casts</v>
+
+00:28:11.680 --> 00:28:35.750
+<v Speaker 1>the creature and it gets better and better, but in true red fashion, it kind of burns itself out like it's it's just red not not thinking the long game. And so I made the card, but what ended up happening was the IT just got more complicated than I really meant for it to be that just the this is what happens from time to time. It happened with suspend is when you make a card and you,</v>
+
+00:28:37.050 --> 00:29:06.620
+<v Speaker 1>you know, you like in your head, it's a very simple idea, but when you actually have to write it out and put words on cards, then it just gets a lot more complex. Meaning there's busy work that you have to do and make the player do that just like what what you know and customer for us is exactly 1 kind of cards were like in in theory, like in the mind space and the idea of it is pretty simple, right? But when you actually write it out and people reading it, it's the kind of thing you read twice. Go wait, what? What happens? I'm suspended</v>
+
+00:29:06.980 --> 00:29:37.100
+<v Speaker 1>worse, you know, we're like the idea of I get it for cheaper, but it takes four turns to play, but we have to manipulate all the counters and everything. It just, it confuses people. And so one of the things we do now in design is we actually will template things, I mean rough templates, but we will actually have the rules manager do rough templates early so we can look at something and understand that like, oh, is this going to be as easy as we think it's going to be? Because one of the things that happens a lot in design is you make something and you think it's going to be super, super simple and obvious intuitive. And then when you actually write it out,</v>
+
+00:29:37.200 --> 00:29:42.310
+<v Speaker 1>it's not that the what you need to do is the game mechanics to make it happen makes it, you know, not</v>
+
+00:29:43.070 --> 00:29:44.230
+<v Speaker 1>not as a</v>
+
+00:29:45.080 --> 00:30:05.810
+<v Speaker 1>it doesn't shine as much that. And and then one of the rules of of design is you have to understand the means by which you have to communicate your game mechanic to the audience, that you have to go through template, you have to go through the rules. And that sometimes what seems so obvious isn't when you actually have to communicate it. And that's a very important lesson to have.</v>
+
+00:30:07.930 --> 00:30:37.080
+<v Speaker 1>Another important lesson to have came from a card called Kundu Cyclops. So that was a card that whenever another creature attacked, it had to attack. And on the surface it seemed pretty cool. It's like, well, you know, it's a card. This is what people are attacking him attacking. And but here's the problem. It's the card that had to do something, but it cared about another card. And the problem is people would talk all the time and like, they just wouldn't look at their Country Club. They wouldn't look at it. And so</v>
+
+00:30:37.210 --> 00:31:07.730
+<v Speaker 1>like, they're nothing to remind them that, oh, by the way, you have to attack because the card said, hey, if something else happens, you have to do something and people would miss it all the time. And what we learned is that, you know, it's bad to make if be careful to make a card in which like, I must do something, but something else must happen. And that that we do do some triggers and stuff like that. We have to be careful. And usually we make the trigger big enough that it matters. But the problem, especially the Cyclops was sometimes like the player,</v>
+
+00:31:07.820 --> 00:31:08.400
+<v Speaker 1>you know,</v>
+
+00:31:09.090 --> 00:31:28.240
+<v Speaker 1>it wasn't that they were thinking about it. They just like, ohh, I can't attack with and put it aside and a new creature comes out. They're not even thinking about the Kuna cyclops. And once again, that's an example of a design like seems simple. And then in actual play, people keep messing up on it. And so we don't do that exactly anymore. What we'll do now is we'll make a card, for example, that says.</v>
+
+00:31:29.770 --> 00:31:30.420
+<v Speaker 1>So</v>
+
+00:31:31.900 --> 00:31:32.440
+<v Speaker 1>if</v>
+
+00:31:33.300 --> 00:31:37.890
+<v Speaker 1>you know I, if I attack, you know something else must attack. Or</v>
+
+00:31:39.420 --> 00:31:52.510
+<v Speaker 1>if you know I must attack with something else, or you know, things in which it sort of reminds you that the card itself says, hey, I must be involved with other things. And, and not like you must remember, even when you're not looking at me that I might have to do something.</v>
+
+00:31:54.320 --> 00:32:23.380
+<v Speaker 1>OK next. Uh, so one of the things that I talked about last time was how Mirage came up with some things that we hadn't done before and they were the first set to do them. I talked about stalking and skulking and one of the ones I forgot about was the card first. So what happens is in limited, it's important that every color at common has some way to deal with creatures. White obviously it passivism effects. Black has creature destruction, redirect damage.</v>
+
+00:32:24.230 --> 00:32:54.070
+<v Speaker 1>Green now has a a prey upon type effects. Before it would try to do more stuff with lure or things in which its creatures would try to make your creatures. I think prey upon is a better solution. But anyway, blue needed something like well, how could blue? Because blue doesn't destroy things. It's not Blues thing. And yeah, blue counter creatures, but what happens if people can't counter them? So we wanted to give blue some answer to it. And the idea we eventually came to, which is now become a pretty stable part of of blue and in common is the idea of a lockdown card.</v>
+
+00:32:54.240 --> 00:33:11.880
+<v Speaker 1>The Blue has it in China, says, well, you don't untap, you know, and sometimes it taps creature, sometimes it doesn't, but it gives blue kind of an answer. And 1st, I'm pretty sure it was the first time we had done this. It was the first card to do that. And one of the things about marriage that I like, I like to explain is that</v>
+
+00:33:13.650 --> 00:33:43.840
+<v Speaker 1>Mirage is, was I don't the 9th set to come out. I mean, it was a relatively early set. And what happens is whenever we make new sets, we always stumble across new things. And, and one of the things that makes the game awesome is we keep experimenting, we keep finding new things that work. We bring those things to the game proper and that each set kind of evolves our technology of learning what we could do. And I think Mirage was a big step technological wise, that there's a lot of individual things that done that went on to become how magic</v>
+
+00:33:43.920 --> 00:34:14.560
+<v Speaker 1>functions. You know, on top of that, marriage is the start of what I call the silver age of design, right? It was the first that really that had blocked design. It was the first set where, you know, limited. The thought of limited was a big part of how the set got designed and developed, you know, and that Mirage was a milestone. I mean, I think when you look back at it these days, it seems it seems a little on the bland side only because, like, for example, the story I tell was I was in film school and we saw film called The Great Train Robbery.</v>
+
+00:34:15.420 --> 00:34:44.530
+<v Speaker 1>And when you're watching this film, it seems like the goofiest, like, you know, it just seems so childish because like, you know, the, the, the the photography is, is, you know, we have none of the effects. It's all very silly, you know, and at the end, like, why are we watching? This is the dumbest thing. And my teacher is like, no, no, no, See how they were at the train station and then the next shot they're at the bank, you know, or, you know, that that meant that there one place. And if you cut now you're another place. And the audience goes,</v>
+
+00:34:44.720 --> 00:35:14.720
+<v Speaker 1>no, they're at the same place. We cut back and forth. The audience will believe that they're the same place because that didn't happen before this film. That didn't exist. Something that's so ingrained in your, you know, mental mapping of how you look at film, something that's just a given. Just that is how film works. This is the this is the stuff that did it, you know, and that you know. Yeah. Now it looks so simplistic because, well, it did. Something had been done before. Mirage did a lot of that. There are a lot of neat innovative things that like Mirage did</v>
+
+00:35:14.820 --> 00:35:24.660
+<v Speaker 1>that we look back, it might look a little on the bland side, but that's cause things you take for granted, they're just part of magic were, you know, a key element to being there. So anyway,</v>
+
+00:35:25.540 --> 00:35:35.030
+<v Speaker 1>that is I'm I'm not working. I'm parked that I've been parked for a minute. I wanted to finish up. So anyway, I, I hope this is my final part of my garage, my three-part.</v>
+
+00:35:36.290 --> 00:36:06.190
+<v Speaker 1>Like I said, I, I have great respect for Maraja's eye. And I think that Bill and Joel and Charlie and Don and Ellie and Howard made an awesome set. You know, I think the development team was coming into its own and really this was the first real set the four of us developed. And I'm very proud. I think like, you know, in the test of time, Maraj was a good set that led the way to a lot of things. It wasn't the most exciting set, but I think it laid a lot of groundwork and I think it did a lot of good solid things that got built upon.</v>
+
+00:36:06.370 --> 00:36:24.010
+<v Speaker 1>And I, I feel like it, it has in my, in my mind, a very central place in Magic history. Like I said, it's the start of the silver age of design that that's pretty big deal. So anyway, I gotta go make some magic cards now. So it was fun talking all about mirage design, but it's time to go make the Magic.</v>
+

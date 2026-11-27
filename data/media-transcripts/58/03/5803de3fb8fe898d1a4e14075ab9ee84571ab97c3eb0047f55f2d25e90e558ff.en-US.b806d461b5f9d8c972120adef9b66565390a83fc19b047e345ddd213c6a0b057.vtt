@@ -1,0 +1,332 @@
+WEBVTT
+
+00:00:00.890 --> 00:00:30.720
+<v Speaker 1>OK, I'm pulling out my driveway. We all know what that means. It's time for another drive to work. OK, so today is another design day, right? Talk about the design of a set I did or set that I was on. Although today I actually did it. Today we're going to talk about Odyssey, a set from long ago. So let me give a little context of where this fits in for me. So the first thing I ever did was Tempest, which I talked about in my very first podcast. The second set I ever did</v>
+
+00:00:30.840 --> 00:00:42.220
+<v Speaker 1>was Ursae's Destiny. Either that or unglued. I've tried to remember the order, but anyway, I did hers. Destiny I did unglued. The 4th set I did was</v>
+
+00:00:44.550 --> 00:01:12.740
+<v Speaker 1>Odyssey and at that point the only large that I had done was Tempest. And then So what was going on at the time was Mike Elliot and I were the two major people doing design and so we were constantly jockeying to try to get sets and every once in a while you know, Joel and Bill were giving sets to other people. But I definitely was in the mix and about once a year I got to do something. Although</v>
+
+00:01:14.810 --> 00:01:43.470
+<v Speaker 1>for the point of Odyssey, it actually had been a little while because I, I had done's Destiny and unglued, but I did not do anything in Mercadian masks block. And I, well, I was very involved in invasion block. I did not leave the design for any of the assets in invasion block. So I had not let a design in a little while and I was itching. So I was really excited for Odyssey. And so today I'm going to talk all about how Odyssey came to be. So let me start with the design team. So the design team for Odyssey is interesting because</v>
+
+00:01:43.540 --> 00:02:05.590
+<v Speaker 1>five people, Mike Donay, Richard Garfield, William Jockish, and Henry Stern. So I don't know how many those names you recognize. I'm going to talk about them. OK? Richard Garfield. I'm sure you guys know I've talked to Richard before. Maybe one of these days I'll do a whole podcast about Richard. But anyway, we've talked plenty about Richard, so let me talk about the other three. OK, We'll start with Mike Donahue. So Mike Donahue,</v>
+
+00:02:06.970 --> 00:02:29.120
+<v Speaker 1>I got to know Mike. His brother Jeff Donahue for a long time worked at Wizards doing organized play and in fact ran the pro tour for a while. He was the tournament organizer that ran the pro tour. And I got to know Mike through Jeff. So here's how the story goes. So we were at Origins. Origins is a game convention run by Gamma</v>
+
+00:02:30.530 --> 00:03:00.530
+<v Speaker 1>and Bill had asked me if there was anybody that I thought would be a good fit for R&amp;D and I said yes. I thought there were three people like him, three names. So the first was Randy Bueller, The second was Brian Weissman, who for those who know your pro tour history, was one of the first real deck builders. He built a deck called The Deck, which was the first real Magic deck that ever, in fact, the first Magic deck for starters. I mean it, it was really the first one</v>
+
+00:03:00.600 --> 00:03:31.080
+<v Speaker 1>that disseminated and it was the first, he was the first person really on a public level to to explain that concept of card advantage. And his death took great advantage of card advantage. In fact, one of my favorite stories is I lived in LA at the time and we were traveling up to San Francisco to go to A tournament. We were playing like the winner got a set of legends or something and we were buying moats in LA to take with us. Because down in LA motes cost like a dollar and up in San Francisco most cost like 3 or $4.</v>
+
+00:03:31.160 --> 00:04:01.260
+<v Speaker 1>So we could buy a bunch of motions and sell them. And the reason most expensive was this is in the early days where information wasn't disseminated quite as fast because the Internet was young and in in San Francisco everyone was playing the deck because of Brian and so most were very expensive because everyone wanted them. But down in LA, no one knew anything about that. So most weren't expensive. I also love the fact that when I say expensive, have 3-4 dollars anyway, there was important time by the way, where like I did not want to buy boxes because they were, they were like 4-5 dollars. Who pays $5</v>
+
+00:04:01.340 --> 00:04:01.930
+<v Speaker 1>for a card,</v>
+
+00:04:02.570 --> 00:04:18.060
+<v Speaker 1>anyway? A little, a little, a little History of Magic. The third person who I recommended was Mike Donate, so I don't remember quite what happened. I do know the following of the three people I recommended, only one, which was Randy Bueller, sat and talked with Bill.</v>
+
+00:04:18.710 --> 00:04:26.440
+<v Speaker 1>The other two basically didn't end up meeting with Bill at the end of the thing. Bills like so these people you recommended they they really wanna work at Wizards.</v>
+
+00:04:28.670 --> 00:04:33.560
+<v Speaker 1>What happened with Mike was Mike was the head judge of the US Nationals</v>
+
+00:04:35.090 --> 00:05:05.470
+<v Speaker 1>and so he ended up not being able to be with because he's just too busy all week running US Nationals. And so I explained this to Bill. And So what happened was Mike was in town visiting his brother Jeff. And so I got billed to my house and I got Mike to my house and the interview to interview Mike for the job was ended up doing in my house because I sort of got everybody together. In fact, one of the thieves today you'll see again with Henry is somehow I recommend people and then I have to go through a lot of energy to actually get them hired.</v>
+
+00:05:05.600 --> 00:05:35.550
+<v Speaker 1>So but anyway, it worked out well. Mike ended up getting hired. Now Mike was very much a developer. He was on a few design teams. He was on this team. I know for sure he was also on Onslaught, but he did much more development than design. He was much more of a developer. He also spent some time on Magic and then we're also spent some time on Dungeons and Dragons. But anyway, Mike was on this team and I think this was his first design team. So William Jockish was, so I talked about</v>
+
+00:05:35.620 --> 00:06:05.980
+<v Speaker 1>there being several waves of R&amp;D. So the first wave were the people that basically were the play testers that worked with Richard. So talking Scaffold, Elias, Jim Lynn, Dave Petty, obviously Richard himself. That was like the first wave. So the second wave of R&amp;D was the ones where they were all busy doing other things. Wizards was expanding and doing other games and stuff. And so they hired some people to take over the running of Magic, and that would be me, Bill Rose, William Jockish, Mike Elliott and Henry Stern, although Henry will come later.</v>
+
+00:06:06.060 --> 00:06:07.160
+<v Speaker 1>I'll explain that in a second.</v>
+
+00:06:08.580 --> 00:06:18.190
+<v Speaker 1>So Bill and William and I all started in October of 1995. Michael started in January of 96 and Henry would start in September of 96.</v>
+
+00:06:19.970 --> 00:06:37.440
+<v Speaker 1>So anyway, William got the job because he wrote a letter to Richard Garfield. Now William was a math professor and Richard also, if you know history, was Once Upon a time, a math professor. I think they both were in combinatorics, which is counting for those who don't know math</v>
+
+00:06:38.900 --> 00:06:43.240
+<v Speaker 1>and well, I mean, fancy, fancy Conan. And so</v>
+
+00:06:45.070 --> 00:06:55.140
+<v Speaker 1>William wrote a letter and it just, I don't even know what he wrote. I never saw a letter. But he impressed Richard. He does impressed him. And Richard knew they were looking for people. And so Richard has offered him a job and</v>
+
+00:06:56.740 --> 00:07:03.290
+<v Speaker 1>that's the only person I know who just like sort of blindly wrote a letter and ended up with the job in Rd.</v>
+
+00:07:04.640 --> 00:07:34.690
+<v Speaker 1>So William is interesting. William was definitely of the of that second wave of people was the most developer ready. I mean, I guess Henry was also very developer by but, but I mean, Mike and I were more designer types, even though we were hired as developers. Bill sort of split the middle, you know, did design development, you know, definitely kind of in the middle. But William was like a developer in the sense that like his head was like he knew numbers and he would crunch things. But the interesting about William was</v>
+
+00:07:34.810 --> 00:08:05.480
+<v Speaker 1>William has a very quirky ideas about deck building. And so one of his concepts was that you had to be careful if a card and number would be a problem. So he would allow himself to use as many of you wanted of a card because he was trying to figure out whether this idea in conglomerate would be a problem. And in fact one time, I forget which corset, but like he built a deck with some crazy number of psychic venoms. So psychic venom is a blue enchant land that whenever enchanted land is tapped, it does 2 damage. This controller</v>
+
+00:08:05.620 --> 00:08:19.090
+<v Speaker 1>and somehow he made a deck that was crazy good and won and convinced us not to protect the venom in a corset. Which is kind of funny because it's it's a weak guard. But somehow in in if you have enough of them, he he had some deck you couldn't beat.</v>
+
+00:08:20.450 --> 00:08:50.430
+<v Speaker 1>So once again, I should stress when I do my Rd. podcast about sort of the waves of R&amp;D this we the second wave was was not what we think of as modern day developers. Really that mostly happened starting in the third wave. I mean, William and Henry were the closest we had, you know, just sort of real developers. Sorry, Henry, I would argue the very first, like off the pro tour developer, William was kind of the pre us doing that. One thing happened in the early days is that imagine there wasn't</v>
+
+00:08:50.500 --> 00:09:03.180
+<v Speaker 1>just like right now our and are people who like grew up living and breathing magic and that just wasn't that didn't exist when I got hired. I mean, magic was only a couple years old. So mostly they hired people that were just kind of smart and that, you know, love magic. But</v>
+
+00:09:04.540 --> 00:09:09.240
+<v Speaker 1>we, we weren't as, as, I mean, it hasn't been as much a part of our lives because it just hadn't been up that long.</v>
+
+00:09:10.540 --> 00:09:12.350
+<v Speaker 1>So William was a hoot,</v>
+
+00:09:13.690 --> 00:09:35.670
+<v Speaker 1>my favorite William story. So I used to explain that when I used to go home, I'd have fun stories for each of the people so that I I could tell eccentric stories about my coworkers. The story to tell about William is William used to order pizza every day that they have been delivered to him. So one day we're in the pit talking or something and Williams phone rings and he picks it up and he goes, yeah,</v>
+
+00:09:36.310 --> 00:09:36.980
+<v Speaker 1>yeah, that's why I'm</v>
+
+00:09:37.940 --> 00:09:40.110
+<v Speaker 1>yeah, pepperoni. OK, bye.</v>
+
+00:09:40.820 --> 00:10:10.490
+<v Speaker 1>And like, what was that? He goes Ohh, is the pizza place. They hadn't heard from you. So they called me and we're like, you got the pizza place to call you. So anyway, that's that's like we were dedicated. He he managed to get the pizza. He didn't have to call the pizza place they called him. So anyway, I thought that was funny. OK, the last person in the design team was Henry Stern. So when I Once Upon a time I worked at a game store called the gamekeeper have talked about this and I was the one that got</v>
+
+00:10:10.870 --> 00:10:34.960
+<v Speaker 1>magic into the store. I learned about it and then I was very, I bought it at a convention and anyway I came back all gung hoes. We have to buy it. We have to buy it. This is the best game ever and I convinced my store to start carrying it. Now one of the things we did in the store was we used to always open one of the game so we can demo the game. Because what I learned is if you demo a game, it increases your ability to sell it. I mean,</v>
+
+00:10:35.640 --> 00:11:05.600
+<v Speaker 1>10/20/30 fold, for example, by the one thing I'm very, very proud of. So there's a game called Set, which is a pattern recognition game. If you've never played it, you basically that came to describe it. You have to kind of see it, but it's a neat game. It's this little card game, not too expensive. So there were 26 gamekeeper stores at the time I worked there. I was working part time at my store. So I started demoing Set because I found it was a really good. It was an easy game to sell because there's a neat game. A lot of people didn't know</v>
+
+00:11:06.020 --> 00:11:36.830
+<v Speaker 1>and if you've got something to play with you for a few minutes, they would buy it. All you have to do is show it to them. They play it go the school, they buy it. I managed to sell more set for our store and I was the only one in my store selling set. No one in my store was selling it. Our store sold more sets than me than the other 25 stores combined. So anyway, I thought it was funny that like part time I sold more to this game than everybody else in the entire business. And that's caused I demoed it. And so I had Magic and I'm a demo Magic. And one of the things I did</v>
+
+00:11:36.900 --> 00:12:06.880
+<v Speaker 1>was I started getting a hang of the rarities. I mean, they weren't official at the time, but I got a good sense of what cards were showing, of what rarity. And so I had a little thing I allowed, which was if people came in, I let them trade with the demo deck as long as they traded one for one. The cards had to not be in the deck that I had. So you couldn't duplicate things and you had to match rarity and I would the determiner of rarity. So anyway, Henry Stern came in my shop one day</v>
+
+00:12:07.020 --> 00:12:24.970
+<v Speaker 1>and I, he, I guess he already played Magic, but I let him trade stuff out of the deck and then he came back and he used to come back every once in awhile just to see, you know, if they're new cards in the starter deck. And so it's funny because we built up a rapport kind of just him stopping in and then at one point</v>
+
+00:12:26.050 --> 00:12:56.650
+<v Speaker 1>he invited me to something. And then we realized that we knew each other from the games. Like I guess I went on some magic net or something and, and looking for people to play magic with. And he responded. And then we figured out we knew each other from the game store. And then like he lived two blocks away from me. So anyway, Henry and I became friends. So when I moved up to LA, I'm sorry, move it from LA. At some point I was asked if I knew anybody. Is this common question of did I know anybody who make a good fit for R&amp;D?</v>
+
+00:12:56.810 --> 00:13:26.960
+<v Speaker 1>And I said, Oh yes, my friend Henry, I'd be a good fit. And so they asked Henry for stuff. And Henry dragged his feet for a while. I'm not sure why, but he took a while to get and finally he sent his stuff. And one day I was looking through something and I, I saw, I saw a bunch of papers and like, I realized that there was like a no pile and that Henry had been moved to the no pile and I didn't know why. And so around the same time,</v>
+
+00:13:27.080 --> 00:13:57.290
+<v Speaker 1>we had done the very first pro tour in New York. I talked about that on the podcast and we made a video, which by the way, deserves his own podcast because the making of the video is is quite the story. Anyway, we needed to redo the commentary on the video because it was all messed up. And so I want to do a color commentator, which I used a guy named Sean Carnes, who worked in R&amp;D at the time. Actually, he might have been and yet he might have still been in customer service. Anyway, Sean Karn was known as Captain Volume one point in the pit. By the way,</v>
+
+00:13:57.390 --> 00:13:59.770
+<v Speaker 1>I was the 3rd loudest member of the Pit.</v>
+
+00:14:00.580 --> 00:14:10.290
+<v Speaker 1>For those that don't know, I'm very loud and and number one with Sean Carnes, Captain Volume, who used to scream things at the top of his lungs. I'm really talked about the admin screen.</v>
+
+00:14:11.780 --> 00:14:26.920
+<v Speaker 1>Well, sometimes. OK, so I use Sean to be my color commentator. Sorry, using my play by play and I needed a color commentator and so I got Henry. I brought Henry up from LA because he was not too far away. He could stay in my</v>
+
+00:14:28.350 --> 00:14:57.700
+<v Speaker 1>good of watching times. Henry stayed at my place. But anyway, I brought Henry up and I had two goals in mind. One was I thought Henry be good, but the second was I wanted people to meet Henry. I felt like, you know, Henry's whatever his letter, whatever, whatever, his resume hadn't made a good first impression. Henry, by the way, is funny is before Henry worked for Wizards, he was an engineer that literally did made rockets for Hughes. And so we joked that Henry was literally a rocket scientist,</v>
+
+00:14:58.720 --> 00:15:28.970
+<v Speaker 1>that R&amp;D had hired rocket scientists or a rocket scientist. But anyway, I got Henry to meet everybody. And once Henry Metody, he's very personable that he really sort of turned it around and we got him off the no pile on to the maybe pile. And then eventually he ended up getting a job. Henry actually got the job at asked to play in worlds, like pushed back and starting on the job so he could play in worlds of 96 and he ended up top four. He actually did back-to-back top floors, which is a feat not too many people have done. So he he sort of left the pro tour on high,</v>
+
+00:15:29.040 --> 00:15:31.100
+<v Speaker 1>like doing really well in the left tournament.</v>
+
+00:15:32.620 --> 00:16:02.590
+<v Speaker 1>And so we brought Henry. So it's interesting, by the way, if you've noticed, as I'm talking about Mike and William and Henry were all developers and not really designers. Obviously Richard was the designer and I was a designer. So this was a development heavy team. Like I said, both Richard and I are pretty, pretty good at making lots of cards. So we were fine. And so one of the things about this design is I talk about Magic having ages of the design has ages. You see the R&amp;D have waves, but Magic</v>
+
+00:16:02.670 --> 00:16:11.240
+<v Speaker 1>ages. So the first age or the golden age is alpha through alliances and I'll do a podcast on this one at some point. But</v>
+
+00:16:12.500 --> 00:16:17.860
+<v Speaker 1>the first age is more about, um, focusing on cards and just having cards that resonate.</v>
+
+00:16:18.560 --> 00:16:23.970
+<v Speaker 1>The second age was, um, Mirage through Prophecy</v>
+
+00:16:24.660 --> 00:16:55.360
+<v Speaker 1>and that was more about making blocks sort of getting magic. We focused on the idea that blocks exist. So invasion was the start of the third wave, if you will or not wave. That wave is the people. It's age, third age. So invasion introduced the idea of a theme that the block was a multi colored block. It was about something before that. You know, it's sort of like, well, what's the block about? Well, here's the two new mechanics. That was the big thing. You know what's mirage about? Well, it's got African sort of</v>
+
+00:16:55.440 --> 00:17:10.930
+<v Speaker 1>setting and it's about flanking and phasing, you know, tempests. Well, there's a story going on and it's about shadowing buyback, you know, an echo or the side that was some more back story. And it's about cycling and echo, you know,</v>
+
+00:17:12.240 --> 00:17:32.640
+<v Speaker 1>and the, the, the innovation of invasion really was like, look, we're the block is going to have a, a theme and it's going to be about something sort of mechanically have mechanical identity. And so in invasion obviously had a multicolor identity. So when it came time to do Odyssey, I was like, OK, I want an identity. And the one I was very excited about was the idea of doing the graveyard</v>
+
+00:17:34.260 --> 00:17:46.770
+<v Speaker 1>I. So whether the light had messed around the graveyard and the dark had messed around a little bit with the graveyard, but there hadn't been a whole block on it just been individual sets and messed around a little bit. And I thought there was a lot of potential there</v>
+
+00:17:48.000 --> 00:18:17.430
+<v Speaker 1>also. So the interesting thing was at this time, um, while this was going on, we, the current, the current creative team kind of was dissolving. And so Bill came to me and said, OK, Mark, I have nobody to names and flavor text. Could you for Odyssey, could you do names and flavor taxes? And I said, sure, sure. I could do names and flavor text. And so during Odyssey was us building up the new creative team,</v>
+
+00:18:18.010 --> 00:18:39.780
+<v Speaker 1>which was a different creative team, the current team. But um, and so I wasn't charged story. Other people were doing story, but I wasn't charged with names and flavor tax. I did a lot of card concepting. I mean, I was in charge of sort of making the cards make sense. Now you'll notice that if you notice the Odyssey, for those that know Odyssey, I definitely pushed flavor attacks and names a little bit</v>
+
+00:18:41.230 --> 00:19:06.620
+<v Speaker 1>names like need for speed and this particular Gorilla Titan that had the flavor Taxi shows the grill holding up his hand and the flavor text was I wanna banana this pig. And The funny thing about that was that originally we had a very serious piece of flavor text and the art came in and it was a silly looking gorilla who, by the way, if you never noticed before, has a tail, never notices that, but he has a tail because, and obviously in</v>
+
+00:19:07.290 --> 00:19:32.560
+<v Speaker 1>Dominaria, giant gorillas have tails. And I needed a new caption. So I just put it up on the board and had people write captions. And that was my favorite caption. And I thought it was very funny. It's funny. It's one of the, there's a few pieces of facts in history that managed to make the top five and the bottom 5 for flavor texts in their own set. And that was one of them, that it was loved, as I like to say, beloved and beheaded.</v>
+
+00:19:33.950 --> 00:19:48.150
+<v Speaker 1>I'm still working on making behavior to work. I'm just using behavior until it becomes actually comes to English. One day Webster will call me up and go, Hello, Mr. Rosewater, we are proud to tell you that finally Be Hated is being added to the next edition. And then I'll have a little, a little, a little party,</v>
+
+00:19:48.930 --> 00:19:54.380
+<v Speaker 1>OK. I don't think they actually call people, but in my in my dreams they do. OK, so</v>
+
+00:19:55.760 --> 00:19:59.100
+<v Speaker 1>this is the follow me do my podcast. I'm just jumping around. I'm not sure.</v>
+
+00:20:00.020 --> 00:20:15.720
+<v Speaker 1>Anyway, this is on my mind works. So a little insight into my psyche. OK, so we had our designers. I knew I wanted to do a great top down graveyard theme. OK, so let me talk about the two main mechanics because we were still what's funny. So what happened was</v>
+
+00:20:17.070 --> 00:20:47.070
+<v Speaker 1>marriage the two main mechanics, Tempest 2 name mechanics or the Saga two name mechanics. So we get some Mercadian masks and Mercadian masks didn't name them. We had mechanics, you know, we had rebels and mercenaries and we had spell shapers and we had mechanics, but we didn't name them. There weren't, they didn't have a word. And everybody, I mean, almost almost everybody were like, yeah, why did you guys put mechanics for kids? Masks we're like, well, they're mechanics. There's new things like just not naming them. We realized that like players</v>
+
+00:20:47.160 --> 00:20:49.740
+<v Speaker 1>it is somehow mentally it wasn't there if they weren't named.</v>
+
+00:20:50.380 --> 00:20:56.480
+<v Speaker 1>And so after McKinney Mass was invasion. So we started naming stuff again. Are they invasion only had buyback did have</v>
+
+00:20:57.590 --> 00:21:27.660
+<v Speaker 1>funny thing is that demand we didn't name domain. So anyway, we decided the Odyssey would come back and having two named mechanics. So let me talk about them. The two game mechanics are flashback and threshold, both pretty influential in magic design, by the way. OK, so flashback. The history of flashback is this is Once Upon a time I used to run the feature match area, the pro tours. Now, I did the podcast on the feature, the very first pro Tour, and I explained that one of my probably my biggest contribution to the feature</v>
+
+00:21:27.730 --> 00:21:58.530
+<v Speaker 1>exact to the pro tour was the creation of feature matches and the feature match area. And So what I did for most of the pro tour, I went to about 8 years with the pro tours. Every pro tour for about 8 years was I ran the feature match area. So what that meant was I selected the matches and then I was one of the judges. Usually I had a second judge helping me out and the feature match was always four matches. And so I spent a lot of time watching feature matches and one of my little games. Sometimes, you know, Magic often has very dynamic</v>
+
+00:21:58.610 --> 00:22:27.860
+<v Speaker 1>setting games, but sometimes, you know, one person gets ahead. And in my head, whenever someone would get ahead, I would give little, little rules to the guy behind in my in my head to see what he could do. And I think this idea, I think Vanguard came out of this idea also, by the way, Vanguard and Flashback have a similar origin. But anyway, I would sit there and give them ability. So one of the abilities I gave them was you can cast cards out of your graveyard.</v>
+
+00:22:29.350 --> 00:22:36.340
+<v Speaker 1>And I always thought it was a neat idea. And so finally we got to the ground like, well, what if they're just cards that let you cast them out of the graveyard?</v>
+
+00:22:37.720 --> 00:22:38.090
+<v Speaker 1>And</v>
+
+00:22:39.000 --> 00:22:53.630
+<v Speaker 1>I think early on the the first version of it, they just had one cost. And the idea was you could plays on your hand or of your graveyard and they were a little expensive out of your hand, but the fact you get money graveyard made them good.</v>
+
+00:22:54.910 --> 00:23:10.730
+<v Speaker 1>This, by the way, is a very common thing we try and design or we try to have a singular casting cost like Bestow was the same way I did. There's a lot of sets where we always start there and then they didn't start like, well, we have, you know, more ability to, to have knobs to turn and development easier time if we break apart the things which we did here.</v>
+
+00:23:12.780 --> 00:23:41.740
+<v Speaker 1>And the, I think, I think the idea was always that they went away when you use in the second time because it felt kind of abusive, it felt to buy back. He just kept reusing them all the time. And so the idea flashback was you got a second use of your graveyard. Ohh, awesome. Here's a funny story. So we, we did a bunch of survey stuff. You know, we always do market research and we learned that at the time that the top 2 mechanics were buyback and flashback. And so we joked that the key to a popular mechanic is that you need the word back in it.</v>
+
+00:23:42.240 --> 00:24:00.730
+<v Speaker 1>And so for a while we would name all our mechanics with back in them as it like here's the name, but here's the name we're going to go with. And we'd have, you know, a name with back in it. By the way, the actual answer is players like doing things twice, but or more than once. OK, so I introduced that. Seemed liked it.</v>
+
+00:24:01.940 --> 00:24:33.230
+<v Speaker 1>It's turned out by the way, flashback is turned out to be. So we have what I call Evergreen mechanics, which means we use them all. We, we we're able to use them every second. Not all everyone could use every step, but we're allowed to use memory set. And then I don't know what to call this deciduous. I'm not sure whether the correct term for this is the idea of something that you could use And then all the time to like cycling and scry and flatbed was like, well, we're going to use these more often than we use most mechanics. But you know, in a five year. There's a decent chance you'll see it,</v>
+
+00:24:33.330 --> 00:24:40.750
+<v Speaker 1>you know, But it's not. It's not Evergreen, but it's one document. Semi Evergreen. I'm not going to what to call it. I need a name for it.</v>
+
+00:24:42.260 --> 00:25:12.430
+<v Speaker 1>And flashbacks definitely one of those mechanics that Justice had a lot of legs. I talked about lenticular design and the something I work a lot on is trying to figure out designs that don't throw the beginner but give the advanced player a lot of strategic depth. And flashback's been pretty good in that the beginning kind of gets it, you know, but they they're not as vigilant about watching the graveyard, understanding when to use it or understanding the value of having the second use. And so it has a lot of, you know, interesting game play for the advanced</v>
+
+00:25:12.500 --> 00:25:35.960
+<v Speaker 1>parents, not, you know, it's something the beginner has proven to be able to get anyway. Side note, OK, so the other mechanic was threshold. So Richard Garfield came up with threshold. So I think Richard was very interested in the idea of cars that had an AB state, meaning they were in in A state and they shifted to B state based upon a threshold. Some criteria that you had to me,</v>
+
+00:25:40.200 --> 00:25:43.980
+<v Speaker 1>I I think the idea started with the graveyard. I talked to Richard</v>
+
+00:25:45.150 --> 00:26:12.680
+<v Speaker 1>about how I was interested in the graveyard and so Richard been messing around the idea of having a threshold. And so the way it worked was originally the threshold would have a number and if you have that many cards in your graveyard, then it turned on. So for example, you might have thresholds 4 and threshold 6 and threshold 7. So the problem was when you played that, it was mine melted. I mean, because the problem was. So let's say for example, you have a four, six and seven in play,</v>
+
+00:26:13.440 --> 00:26:43.640
+<v Speaker 1>you know, or whatever. I have a forum playing. My point is simply they have 7 in play. And so it's like, OK, now I have 5 cards in my graveyard. OK, so my 4 is turned on, but it's 6 I turned off. My 7 is turned off, you know, but if he plays a card and I respond to it, then he'll have 6 and his things will turn on. But my 7 won't turn on yet. But I could get stolen if I do have like, hi, Yeah. What's going on? Who is what? You know, just it's hard enough to try AD states. So we finally came to the conclusion that we wanted things on and off. Well, first thing</v>
+
+00:26:43.710 --> 00:27:10.410
+<v Speaker 1>that the intermediary was we actually had little threshold and big threshold, like little, little threshold was like 4 cars and big threshold I think for seven. And what we found was even that was too much. And so we ended up having one threshold which was 7. And we did miss around the whole different thresholds. We tried a different numbers. I think the design actually handed it off at 7 and development again, like design messed around for awhile, figure out seven was correct, then development messed around with the while figure out seven was correct.</v>
+
+00:27:12.070 --> 00:27:19.900
+<v Speaker 1>And one of the problems about Threshold, for those that listen to my lessons learned podcast, we're talking about Odyssey, which I think the lesson learned one,</v>
+
+00:27:21.420 --> 00:27:26.450
+<v Speaker 1>one of the problems was it ended up being I made a classic mistake in which</v>
+
+00:27:27.670 --> 00:27:58.020
+<v Speaker 1>I was messing around with fundamentals to mess around with them because they were, it was intellectually interesting to do so. So for example, I talked about Brian Weissman introduced the idea of card advantage. So Odyssey said, you know what, let's turn card advantage on his ear. So for example, there was a cycle of cards that all there. In fact, they were dogs, their cycle of dogs. OK, quick aside. So Randy Bueller just started working. Randy Bueller was came was on the development for industry Rod for instruction. Sorry for Invasion</v>
+
+00:27:58.120 --> 00:28:01.680
+<v Speaker 1>and his first lead development I believe was Odyssey</v>
+
+00:28:02.760 --> 00:28:32.820
+<v Speaker 1>and his friend was a guy named Eric Lauer, who's now the head developer by the way, Eric just and this has happened many weeks ago because I'm I'm in the past, but Eric recently just officially got the titled head developer. So he's my opposite on development. He's essentially been there for a while, but he got the title, which is really nice. So congratulations Eric. Now Eric was a friend of Randy's. In fact, Randy would get Eric hired later on, but Eric at the time was not working for Wizards and Eric loved dogs.</v>
+
+00:28:33.060 --> 00:28:34.490
+<v Speaker 1>And so, um,</v>
+
+00:28:35.690 --> 00:28:52.640
+<v Speaker 1>Randy made the cycle and asked me if we could make them dogs and I said I was in charge of the creative at the time, you remember. So if my call with what the creature types were. So I said, OK, we can make them dogs. And that's where wild mongrel and patrol hound. And anyway, there's one in each color</v>
+
+00:28:53.940 --> 00:28:58.510
+<v Speaker 1>and the white one was famous because you would discard it to give things first, right?</v>
+
+00:28:59.200 --> 00:29:00.480
+<v Speaker 1>And, um,</v>
+
+00:29:01.510 --> 00:29:28.950
+<v Speaker 1>the one of the problems with with the set was the correct play was to discount with it. That was it. Discard your whole hand to patrol hound to give it first, right? Even though you didn't care head first, right. And I'm like, that's not really making sense to people. So I have a hand of cards that I want to play, but the correct move is throw them away and not play them. That gives an ability to make creatures that I don't even care if my creature has. Yeah, Wizards, that sounds fun</v>
+
+00:29:30.810 --> 00:29:51.020
+<v Speaker 1>and you know I don't want to throw my hand away to the hound so ohh, quick aside. Second aside, it's a side date. Although every day with me is a side date Hounds. So one of the things was when we first started making cards with dog on them, the first few were actually hounds. I think 1 was like</v>
+
+00:29:52.210 --> 00:30:22.180
+<v Speaker 1>Ice Age had like a Saint Bernard actually, if not even around, but there was an early ones that like hell hounds and stuff. And so there's this big fight whether to call them dog or call them hound. And because hellhound was more fantasy like they wanted to call them hounds. And I this big argument because I'm like hound or a subset of dog. Like we do cat, we do Panther, we do cat and so we should do dog. And I could not win that fight. And every once in a while comes back up and every I keep losing the fight. I don't know how</v>
+
+00:30:22.400 --> 00:30:40.750
+<v Speaker 1>it's a dog. How does a subset dog is the broad thing like Nah anyway, I cannot win this fight. It keeps coming up, but I keep losing and I I like it is so frustrating when like you, just like I I know I should win this. I know I'm in the right and I cannot win, but anyway, so hounds around and not dogs</v>
+
+00:30:42.200 --> 00:31:12.080
+<v Speaker 1>one day, one day I'm I'm stubborn, I'm not going anywhere. So anyway, one of the problems with Odyssey was it kind of made you do some stuff that if you understood what was going on, like I used to say that Odyssey might be one of the spiky sets we ever made. Because if you understood, oh, I see I need to throw away cards because that actually is advantageous. And oh, it's interesting Card advantage isn't doesn't work if you understand the nuances. But the problem was that I made a set that like, you know, you had to be very experienced even</v>
+
+00:31:12.210 --> 00:31:21.220
+<v Speaker 1>what's going on. And the the the low, the low end user was not fun for them. And so that was one of the big problems with Odyssey, one of the lessons of Odyssey.</v>
+
+00:31:22.920 --> 00:31:26.190
+<v Speaker 1>But at the time we were trying to enable</v>
+
+00:31:27.450 --> 00:31:34.550
+<v Speaker 1>threshold and flashback. And so one of the ways that we did that was gave you a lot of ways to get cards in your graveyard.</v>
+
+00:31:35.950 --> 00:32:06.450
+<v Speaker 1>And you know, this is going to be a 2 parter. So I decided I'm going to wait for next week to get into how we got because we started with graveyard. And what happened was that it spread from there. And so one of the things that I'm famous for or was in the early days I've got better was like when I turned into Tempest, it was chock full. I mean, Tempest for example, not only had shadow and buyback,</v>
+
+00:32:06.560 --> 00:32:35.890
+<v Speaker 1>it also had echo and cycling. Yes, both mechanics from the set that came after it were in it. And we had a whole bunch of other mechanics. It had cards, like there was a point in time where a card from Tempest design went what was in the finished product for like 3 years or something. And starting with why the lights have before it, whether like borrowed gemstone mine from it. She called three shot City of Brass. And anyway, so I was pretty well known at the time for overstuffing my sets.</v>
+
+00:32:36.910 --> 00:32:49.280
+<v Speaker 1>And by the way, this is a very common early designer thing, which is you get a set. Oh my God, you're so, Oh my God, I finally, I get to make magic. I get to make a magic set. I have so many ideas and you just use them all.</v>
+
+00:32:50.620 --> 00:33:15.390
+<v Speaker 1>And the weather is this fear that you don't know whether you have another chance. I don't know if you just so excited you want to demonstrate what you can do. But beginning designers like one of the things which is funny is what you really want to do is say what is the least I need to do to accomplish my task because designs are resource. You don't want to waste a resource. And that the way I sort of explained it is like, let's say I want to make my kids happy.</v>
+
+00:33:16.930 --> 00:33:42.400
+<v Speaker 1>And so I take them for some dessert and I give him some dessert, but I don't need to take them for ice cream and fudge and popsicles and Donuts. And, you know, I don't need, I need, I need to give them enough that they're happy and they have the reserve and they're filled. But I don't need like, you know, that you don't need to overdo it. And that with design, it's important. And this is true, by the way, any design which is I talk about how in writing that they say if you make a movie,</v>
+
+00:33:43.890 --> 00:34:13.720
+<v Speaker 1>if the line can be pulled from the movie, if the scene can be pulled from the movie, if if anything can be pulled from the movie, pull it. If the movie will exist without one portion of it, then it doesn't need it to survive, then it is not necessary in yank it, You know, and writing is all about getting the the bare minimum of what you need. Turns out game design in the same way game design is figure out what you need, do the minimum what you need and make it. I mean, it needs to deliver. 1 needs to deliver. I'm not saying do nothing, but I'm saying you have to figure out not is</v>
+
+00:34:13.890 --> 00:34:43.870
+<v Speaker 1>what's the least you need, you know, what's the least you need to accomplish the task at hand. And magic is a lot of things going on. It's complex. There's a lot of things he said. And it's not that we don't load up sets with things, but we're careful not to overload sets. But back in the day, way back in the day, because when I talk about Odyssey, by the way, Odyssey came out in 2001, the fall of 2001. So this was a while ago. Although interestingly enough, I had been in Wizards for a while before I did Odyssey. But I've been asked a long time. In fact, by the time you hear this,</v>
+
+00:34:43.960 --> 00:35:14.240
+<v Speaker 1>I will have been Wizards for 18 years, which still kind of boggles my mind that basically I couldn't graduate from Wizards High. OK, so I see my work. So the reason I didn't want to get into this part and I'm saving this for Part 2 is so we started with, we started with the graveyard. And from there we went everywhere. And so in my next installment, my next podcast, I want to talk about kind of how we started with a very simple task of doing graveyard set and ended up</v>
+
+00:35:14.340 --> 00:35:35.860
+<v Speaker 1>doing all sorts of crazy things. And also eventually I will talk about some cards and talk about how different things came to be. Also because this set I was in charge of the creative. I have a whole mess of stories about the creative. So I will share those with you as well. But right now I've got to go inside because it is time</v>
+
+00:35:36.530 --> 00:35:43.550
+<v Speaker 1>for me to be making magic. I'll talk to you. I'm sorry. I'll talk to you guys next time. It was fun having you.</v>
+

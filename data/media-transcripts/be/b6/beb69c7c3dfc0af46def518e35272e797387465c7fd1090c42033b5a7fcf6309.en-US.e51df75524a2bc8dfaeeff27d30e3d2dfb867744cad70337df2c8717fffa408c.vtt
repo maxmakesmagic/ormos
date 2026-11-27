@@ -1,0 +1,674 @@
+WEBVTT
+
+00:00:06.830 --> 00:00:09.850
+<v Speaker 1>Hello and welcome to another edition of the Pro Tour</v>
+
+00:00:10.950 --> 00:00:41.700
+<v Speaker 1>Podcast. I'm Randy Bueller. I am prowling the floor here in Pro Tour Kobe and we're in the home stretch of day 2. There's just three rounds of magic left. Nobody has clinched top 8 yet, although Bastian Perez is pretty close. He probably only needs a draw from this point, but there's nobody to draw with. A lot of people think 11/3 ones where the cuts going to be. That'd be 34 points. He's got 33. It may be that you need 12 and three, though. I'm I would not feel comfortable at 3434 and good tiebreakers</v>
+
+00:00:41.770 --> 00:01:11.820
+<v Speaker 1>maybe, but realistically, you've got to get to 36 points to feel safe. That's 12 and 3. And Bastion's the only guy above 30 right now. So still a lot of magic left to be played. There's a bunch of people in contention, a bunch of names that you've heard of. If you've been following the pro tour for any length at all, ranging from reigning player of the year Kenji Samura up to, you know, Quentin Martin, Jeffrey Cerone. Mark Herberholz is still in it. He's approached for Honolulu champ Tomoharu Saito is still in it. He's was on the Pro Tour Charleston</v>
+
+00:01:11.890 --> 00:01:13.020
+<v Speaker 1>Championship team</v>
+
+00:01:14.330 --> 00:01:40.840
+<v Speaker 1>and top table by the way, not an American anywhere. Insight and three players that speak Portuguese, Tiago Chan and Andre Coimbra from Portugal, Villy Edel from Brazil, throw in a Dutch in the form of Brahm, snap dangers, couple of Japanese players, Masami Yamamoto and Cito. A French player, of course, wouldn't be a top 8 without a French player, right? That's Jim Perez. It's kind of an interesting and very international mix.</v>
+
+00:01:41.690 --> 00:01:47.880
+<v Speaker 1>We'll see how it plays out. Three rounds left to determine who's going to get to play on Sunday of this pro tour.</v>
+
+00:01:50.270 --> 00:01:56.540
+<v Speaker 1>I, I'm, I'm standing next to a guy who's been on there watching his watching his boys play Magic. Why don't you introduce yourself?</v>
+
+00:01:56.550 --> 00:01:57.200
+<v Speaker 2>Please.</v>
+
+00:01:58.600 --> 00:02:00.370
+<v Speaker 3>Hello, my name is Naoki Shimizu.</v>
+
+00:02:01.820 --> 00:02:06.430
+<v Speaker 3>Unknown to everyone, as a creator of Solar Flare and.</v>
+
+00:02:07.100 --> 00:02:09.710
+<v Speaker 1>And you've been writing lately for Star City as well, right?</v>
+
+00:02:10.640 --> 00:02:16.770
+<v Speaker 3>I'm studying English in my university, so it's it's a very good nice chance to write this.</v>
+
+00:02:17.520 --> 00:02:21.750
+<v Speaker 1>You're doing quite well now. Who else helps you with solar flare?</v>
+
+00:02:23.220 --> 00:02:29.010
+<v Speaker 3>Takahiro Suzuki right there, my friend in my university, Shiraki Yamakawa.</v>
+
+00:02:30.060 --> 00:02:32.370
+<v Speaker 1>Now, Suzuki, how did you do in the Pro Tour?</v>
+
+00:02:33.720 --> 00:02:39.190
+<v Speaker 3>I'm at 3 three and couldn't get couldn't make it.</v>
+
+00:02:39.490 --> 00:02:40.790
+<v Speaker 1>Do you lose the last round?</v>
+
+00:02:42.650 --> 00:02:43.840
+<v Speaker 3>I will ask turn.</v>
+
+00:02:45.150 --> 00:02:55.050
+<v Speaker 1>Now your your friend Suzuki is doing very well. He just ran by got the high 5. He is playing for top eight in the next couple of rounds. Yeah,</v>
+
+00:02:56.720 --> 00:02:59.690
+<v Speaker 1>playing to try to make the top eight in these last couple of rounds.</v>
+
+00:03:01.050 --> 00:03:02.360
+<v Speaker 3>Like I think she can do,</v>
+
+00:03:03.000 --> 00:03:03.720
+<v Speaker 3>yeah.</v>
+
+00:03:03.860 --> 00:03:05.730
+<v Speaker 1>Did you guys practice draft together?</v>
+
+00:03:07.470 --> 00:03:07.980
+<v Speaker 3>A little.</v>
+
+00:03:09.410 --> 00:03:12.330
+<v Speaker 1>What's your what's your favorite draft strategy for time tomorrow?</v>
+
+00:03:12.840 --> 00:03:15.070
+<v Speaker 3>Blue Block madness, Yeah.</v>
+
+00:03:15.660 --> 00:03:18.430
+<v Speaker 1>Did you see his deck that he just drafted? Is it? Is it good?</v>
+
+00:03:18.480 --> 00:03:21.430
+<v Speaker 3>Yes, yes, his Dick was so great.</v>
+
+00:03:22.680 --> 00:03:23.330
+<v Speaker 1>Draft</v>
+
+00:03:25.970 --> 00:03:30.360
+<v Speaker 1>that's correct for the next 3 rounds. This draft 5 that just finished.</v>
+
+00:03:30.370 --> 00:03:35.890
+<v Speaker 3>I don't know that that that previous text was so good, yeah.</v>
+
+00:03:36.850 --> 00:03:39.920
+<v Speaker 1>Alright, well thanks for talking to us and and good luck watching the rest of the way.</v>
+
+00:03:40.190 --> 00:03:41.020
+<v Speaker 3>Thank you.</v>
+
+00:03:41.290 --> 00:03:41.880
+<v Speaker 1>Player</v>
+
+00:03:43.370 --> 00:03:59.350
+<v Speaker 1>wow. Brian Hegstad 2, Mark Herberholz 0 He sees now two and four on the day and eliminated from top 8 contention. So no, No 2 championship season for Mark Herberholz.</v>
+
+00:04:02.690 --> 00:04:06.460
+<v Speaker 1>So Villetti, you, you got the job done there. In the future match against Andre Cornbread.</v>
+
+00:04:06.610 --> 00:04:24.600
+<v Speaker 4>Yeah, I guess and always wanted to draw. I guess I didn't don't, don't do the math yet, but I hope Andrew Chang also do the top edge and hope I do top page rule. But I think everything's going OK too. Chinese changing the game now there and I'm very happy.</v>
+
+00:04:24.830 --> 00:04:26.140
+<v Speaker 1>How did the draft go for?</v>
+
+00:04:26.530 --> 00:04:30.850
+<v Speaker 4>It goes very good. I I really like drafty red blue I drive</v>
+
+00:04:30.930 --> 00:04:37.590
+<v Speaker 4>so all the day in yesterday too and she knows this and she passed all resin and a little blue to me.</v>
+
+00:04:37.640 --> 00:04:38.350
+<v Speaker 1>Who's this?</v>
+
+00:04:38.740 --> 00:04:53.340
+<v Speaker 4>Change, change, change. Sure, First back, but in the second pack and then no cars, no blue came to me and it starts left to black. Yeah, yeah. Also, I have a very strong black, black, black, red. The first time it drives a black. I never drafted before but I really like this.</v>
+
+00:04:53.840 --> 00:04:57.450
+<v Speaker 1>All right. Well, congratulations. Hopefully you do only need to draw and hopefully you get.</v>
+
+00:04:57.460 --> 00:04:58.510
+<v Speaker 4>It Mitchell.</v>
+
+00:05:03.500 --> 00:05:30.550
+<v Speaker 1>Meanwhile, we now have our first top 8 competitor guaranteed. Bastian Perez defeats Masami Yamamoto 2 games to 0. He's now sitting on 36 points, 12 and one and through to the top 8. Even Moto still in it, but now he's got lost #3 so probably has to win the next two. Yeah, I'm not sure I I hear really. I'm hoping for the draw. I know a lot of people think X31 is normally in. I'm positive that not everyone on X</v>
+
+00:05:30.620 --> 00:05:37.820
+<v Speaker 1>they want us in. I can actually imagine a scenario where an X in three misses. So I think these guys have still got gotta play next round.</v>
+
+00:05:42.670 --> 00:06:10.100
+<v Speaker 1>Big match on Table 1, Jan Meritz Merkel, a German player who's playing in his first pro tour ever, he took down Tomoharu Saito. So Saito picks up his third loss of the weekend. It's also got that draw so much. Maybe still in contention, probably thinks he's still in contention. We'll have to see how the math plays out. Meanwhile, Merkel gets himself to 33 points. So he's just one went away from clinching it might</v>
+
+00:06:10.170 --> 00:06:26.190
+<v Speaker 1>only need a draw. He's first pro tour. He's listed in the standings as being from the USA, but he's not. He's actually a German player. There's just a a bug. I'm sure we'll get his CI information updated and he'll show as a rookie German player.</v>
+
+00:06:29.910 --> 00:06:34.160
+<v Speaker 1>Brian David Marshall, you were watching the draft of Bastian Perez and that that last pot.</v>
+
+00:06:34.230 --> 00:06:42.980
+<v Speaker 2>Well, I mean, I was kind of, we're doing the draft viewer. So we had eight people sitting around the table, we recording everybody's draft picks. And I was positioned to the left, Andre Coimbra, whose draft I was covering.</v>
+
+00:06:44.310 --> 00:07:07.550
+<v Speaker 2>And it was just interesting because, you know, you keep an eye on what the other person's doing. And Andre just seemed so uncomfortable in the draft. And he was constantly switching colors and really just struggling for some kind of foothold in the draft. And Perez just was a machine. He was just drafting blue and red cards, drafting the Israeli efficient beaters, drafting these. He seemed he just.</v>
+
+00:07:07.560 --> 00:07:09.030
+<v Speaker 1>Seemed really seemed like anybody was doing.</v>
+
+00:07:09.040 --> 00:07:14.300
+<v Speaker 2>Totally understood what he wanted to do going in. Completely executed on his plan, you know, and,</v>
+
+00:07:14.380 --> 00:07:28.370
+<v Speaker 2>and it may be that his plan was I need to win one match. So he just built this deck that seemed like it was very difficult for to get manuscripted. Had a lot of what I call Velocity where he's drawing card with Fathom seers and other things and it just seemed like a great deck.</v>
+
+00:07:28.420 --> 00:07:36.240
+<v Speaker 1>Draft look kind of ugly on my side too. I was watching Saito and Saito was bouncing around. He has this like white red weenie aggro deck with No2.</v>
+
+00:07:36.250 --> 00:07:40.000
+<v Speaker 2>Drops that doesn't. That's an oxymoron then, right?</v>
+
+00:07:40.010 --> 00:07:44.680
+<v Speaker 1>Like yeah he had like 2 undying rage which he took really high. He actually first picked the +2.</v>
+
+00:07:44.750 --> 00:07:45.430
+<v Speaker 1>It's 2 enchantment.</v>
+
+00:07:45.440 --> 00:07:51.030
+<v Speaker 2>I think that's probably one of the defining limited cards in this format. A Undying Rage is just phenomenal.</v>
+
+00:07:51.200 --> 00:07:52.590
+<v Speaker 1>Not if you don't have a 2 drop though.</v>
+
+00:07:52.640 --> 00:07:54.490
+<v Speaker 2>No, I mean no sage of Epityr years.</v>
+
+00:07:54.540 --> 00:08:13.770
+<v Speaker 1>Yeah, that's a good point actually. He had children of cordless, multiple children of color. I don't know if they're in the deck, but like I was watching the deck come together and he's got like he's got like 5 cavalry masters or something, something like he just needed flank nights. If he just had was able to fill up his two spot with flights that could have been outstanding and they were just they were never there.</v>
+
+00:08:13.920 --> 00:08:16.030
+<v Speaker 2>So did he? Did he? Could he have done something else</v>
+
+00:08:16.100 --> 00:08:16.880
+<v Speaker 2>in the draft?</v>
+
+00:08:16.930 --> 00:08:29.810
+<v Speaker 1>He could have taken a thick skinned goblins like the two one that makes echo go away. He could have prioritized those early and like those were the 2 drops that we saw in the 1st 2 packs and the last pack. Like he second picked a goblin sky cutter just because he had to.</v>
+
+00:08:29.910 --> 00:08:31.660
+<v Speaker 2>Right. Well, in that course, fine, right? I mean.</v>
+
+00:08:31.670 --> 00:08:38.320
+<v Speaker 1>That's fine, I'm just taking it over clearly better cards to try to smooth this curve out, but it just never quite came together I don't think, and I saw he lost this round.</v>
+
+00:08:38.370 --> 00:08:43.940
+<v Speaker 2>Yeah, I'm, I'm not entirely. I haven't seen the necklace yet. Andre Coimbra might be splashing for a sage of appetizer.</v>
+
+00:08:44.630 --> 00:08:46.160
+<v Speaker 1>Yeah, then he lost that match to</v>
+
+00:08:46.290 --> 00:08:47.070
+<v Speaker 1>Willy Edel.</v>
+
+00:08:47.200 --> 00:08:49.760
+<v Speaker 2>What? What did what did Willy Edel end up playing? Do you know?</v>
+
+00:08:49.870 --> 00:08:52.090
+<v Speaker 1>I just interviewed him. What did he say?</v>
+
+00:08:52.710 --> 00:09:16.740
+<v Speaker 2>Well, you can, people can go back and listen to the previous section of the podcast and find that out. Also, I mean, all the drafts from the top table are going to be on the draft viewer, which is really exciting. So you can, I wish I, I kind of wish it wasn't such a messy draft. It was interesting. I interviewed Saido after the draft and he said that this was definitely the toughest table he drafted at all weekend, which seems fitting, makes sense, and felt that this was the weakest</v>
+
+00:09:16.820 --> 00:09:18.000
+<v Speaker 2>kid ever drafted.</v>
+
+00:09:18.060 --> 00:09:19.210
+<v Speaker 1>Is that did not look good to me.</v>
+
+00:09:19.280 --> 00:09:35.190
+<v Speaker 2>He had a really hard time. Bram snap fingers on the other hand, seemed thrilled with his deck. He seemed really happy with his deck despite you know, I don't like I just I don't know what cards people are passing. They just seem to be passing these really good cards in there. You know it's the storm cloud gym bed that suddenly even if you can't activate.</v>
+
+00:09:35.280 --> 00:09:37.890
+<v Speaker 1>The ticket if you can't. If you don't have red, it's not.</v>
+
+00:09:37.900 --> 00:09:46.910
+<v Speaker 2>Great, so just but like if suddenly Ferry Squadron was in the time shifted portion of the pack, she wouldn't take it. You can't block. Ohh yeah, I guess you're right.</v>
+
+00:09:47.050 --> 00:09:50.190
+<v Speaker 2>I mean, I never block. I mean, it's Mikes rubbed off on.</v>
+
+00:09:50.200 --> 00:09:52.580
+<v Speaker 1>3 threes need the block from time to time.</v>
+
+00:09:52.590 --> 00:10:05.360
+<v Speaker 2>You're right. You're right. OK, I forgot. I actually, I actually haven't really played with that card very often, so I didn't know that. OK, so, so I guess I guess it is bad. Scott was also talking about that, and he seemed kind of perplexed, but that's a really reasonable explanation.</v>
+
+00:10:05.410 --> 00:10:11.520
+<v Speaker 1>Yeah, bro. Meanwhile is in a tough game three against Tiago Chan back there. That's a huge match between the two of those guys.</v>
+
+00:10:11.950 --> 00:10:17.060
+<v Speaker 2>Ohh, is that right behind us? Yeah. It's weird. I thought I saw him over there. Is he in two places at once? Yeah,</v>
+
+00:10:17.150 --> 00:10:23.310
+<v Speaker 2>yeah, go Chan is someone who's his limited game has just been wasn't he in the I was top 16 Nagoya it's.</v>
+
+00:10:23.320 --> 00:10:28.750
+<v Speaker 1>Always in the top 16. Yeah. And he's like, he's always like 6 in morning day one I think was the stat that I read.</v>
+
+00:10:28.800 --> 00:10:37.250
+<v Speaker 2>Right. Well, big. A big finish for him would be top 16. Like obviously he would like to get to the top 8 but the top 16 finish would propel him to level.</v>
+
+00:10:37.260 --> 00:10:38.810
+<v Speaker 1>5 for the year, really.</v>
+
+00:10:38.880 --> 00:10:47.990
+<v Speaker 2>Yeah, that was what he that was his goal coming into this tournament was like at least a level a top 16 finish. He had a strong finish in Athens and that pushed him over</v>
+
+00:10:48.090 --> 00:10:52.380
+<v Speaker 2>1/2 and then a top 16 here would push him over the next hump into level 5.</v>
+
+00:10:52.430 --> 00:11:07.790
+<v Speaker 1>Wow, well Bron just resolved an ancestral visions so gotta like the board looks kind of stabilized. Brands attacking with a with a transmuter in the air. Not sure I like Tiago's chances here, but he's on, I mean drafting a Table 1. I think he's only got 2 losses. He'll still be in contention even with a loss here, right?</v>
+
+00:11:08.030 --> 00:11:10.180
+<v Speaker 2>What do you think of Ancestral Visions Unlimited?</v>
+
+00:11:10.890 --> 00:11:11.880
+<v Speaker 1>Of course you run it.</v>
+
+00:11:11.930 --> 00:11:13.850
+<v Speaker 2>Did you first pick first packet?</v>
+
+00:11:15.560 --> 00:11:21.120
+<v Speaker 1>Depends on the pack I guess. So I might, I mean, now I would've taken concentrate first, right? But.</v>
+
+00:11:21.130 --> 00:11:28.990
+<v Speaker 2>Concentrate, but you would take careful if careful Consideration and Ancestral Visions were in the pack, which would you take if those are your and you wanted to be blue and.</v>
+
+00:11:29.300 --> 00:11:31.590
+<v Speaker 1>Which would you take? I don't know the answer to that question.</v>
+
+00:11:31.640 --> 00:11:36.350
+<v Speaker 2>You would take careful consideration. Ancestral visions Is is clumsy if you don't.</v>
+
+00:11:36.360 --> 00:11:38.950
+<v Speaker 1>Draw. Obviously it's not the card you want to top deck.</v>
+
+00:11:39.200 --> 00:11:45.730
+<v Speaker 2>So yeah, it was just it was just interesting, my first draft that I covered this weekend, the first pack that I saw anyone open in the 1st,</v>
+
+00:11:46.350 --> 00:11:50.230
+<v Speaker 2>it was just like some guys, you know, windmill slamming the ancestral visions and I was.</v>
+
+00:11:50.240 --> 00:11:51.400
+<v Speaker 1>Just I don't think it's that good.</v>
+
+00:11:51.410 --> 00:11:52.900
+<v Speaker 2>Scratching my head over that.</v>
+
+00:11:54.200 --> 00:12:04.990
+<v Speaker 1>You've been enjoying the banter between DM and myself. You can tune into the top 8 webcast tomorrow. He, he and he'll be the. Are you the play by play guy or my the play by play guy? I can never get this figured.</v>
+
+00:12:05.000 --> 00:12:06.390
+<v Speaker 2>Out. It's really in flux.</v>
+
+00:12:06.820 --> 00:12:09.730
+<v Speaker 1>You're stealing the play by play role for me, turning me into a color guy, aren't you?</v>
+
+00:12:09.740 --> 00:12:23.770
+<v Speaker 2>Well, I mean, it makes a lot of sense to me since I've never played in the top eight. I've barely played in the top 8 of PTQ's, whereas you've played, you know, on the top, in the top eight of a pro tour, in the top 8 of grand prize. You may have even put acquitted yourself</v>
+
+00:12:23.840 --> 00:12:37.880
+<v Speaker 2>admirably under those circumstances. I feel like if we're gonna be able to really understand what it's like to be on that stage and what decisions and like decisions that are just way, way out of,</v>
+
+00:12:39.230 --> 00:12:56.400
+<v Speaker 2>uh, proportion with the decisions you have to make in a normal magic match, because you're, you're just, you have a strong competitors. I mean, I, I think you should really be doing the color there because I mean, the example I always think of is when we were covering Shoshi Fajita in London and he had this handful of lands. And I mean, it's like, what do you do there? Right that.</v>
+
+00:12:56.450 --> 00:12:57.460
+<v Speaker 1>You bought permission.</v>
+
+00:12:57.730 --> 00:13:03.500
+<v Speaker 2>And that's what he did. And I, you know, I think you're going to be in a better position to describe that than I am</v>
+
+00:13:04.740 --> 00:13:05.900
+<v Speaker 2>fluctuating thing.</v>
+
+00:13:05.950 --> 00:13:11.050
+<v Speaker 1>Fair enough. This should This should be a fun top 8. There's a lot going on with this time round format. What?</v>
+
+00:13:11.060 --> 00:13:13.380
+<v Speaker 2>Do you think about Bastian Perez? I mean, he's been. I don't.</v>
+
+00:13:13.390 --> 00:13:14.900
+<v Speaker 1>Know that much about him? What do you know about him?</v>
+
+00:13:14.910 --> 00:13:21.320
+<v Speaker 2>He was, he was. What I know about him is that Pierre Canali has been banging his drum. That sounds filthy, but</v>
+
+00:13:22.880 --> 00:13:35.750
+<v Speaker 2>Pierre has been like really touting him, which is not filthy. You can look it up. It's it's really just a friend of his and really thinks that he's been an upcoming player. He was in the running for the Rookie of the Year.</v>
+
+00:13:36.090 --> 00:13:37.750
+<v Speaker 1>If not like I thought I knew the name.</v>
+
+00:13:37.820 --> 00:13:42.260
+<v Speaker 2>Yeah, if not last season, the season before. And he's just, he's done very well in the GPU.</v>
+
+00:13:42.270 --> 00:13:45.010
+<v Speaker 1>'S and virtual breakout Pro Tour performance though.</v>
+
+00:13:45.020 --> 00:13:47.390
+<v Speaker 2>This is his first. This will be his first top 8.</v>
+
+00:13:47.740 --> 00:13:49.810
+<v Speaker 1>The one guy that's due to the top 8 so far,</v>
+
+00:13:51.220 --> 00:13:58.690
+<v Speaker 1>the other fun thing we're going to be doing during the top 8 tomorrow is announcing the finalists for the great Designer Search. Have you been following that on magicfeather.com?</v>
+
+00:13:58.700 --> 00:14:03.350
+<v Speaker 2>I've been following a little bit. I've been following a little bit. I have some friends who've been in. I'm curious to see if they make.</v>
+
+00:14:03.360 --> 00:14:15.600
+<v Speaker 1>It through it's definitely been a bunch of us back back at Rd. been watching a sort of people are trying to you know, we're basically giving away a job and Rd. here's A at least a six month internship. And I mean hopefully it turns into something bigger than.</v>
+
+00:14:15.610 --> 00:14:18.870
+<v Speaker 2>That, I mean, not that many people have ever failed the six month internship.</v>
+
+00:14:18.940 --> 00:14:21.770
+<v Speaker 1>It's true, yeah. I mean, she walked away.</v>
+
+00:14:21.860 --> 00:14:29.920
+<v Speaker 1>I was thinking about whether there was anyone who actually wanted it to continue and didn't, and realized there is of course a person in that category.</v>
+
+00:14:30.470 --> 00:14:31.480
+<v Speaker 2>Is that Pat Chapin?</v>
+
+00:14:31.490 --> 00:14:35.490
+<v Speaker 1>Yeah, Pat Chapin I think would rather be working in R&amp;D than his his current.</v>
+
+00:14:35.500 --> 00:14:40.850
+<v Speaker 2>Situation Extenuating circumstances seem to have stood in the way of.</v>
+
+00:14:40.860 --> 00:14:52.540
+<v Speaker 1>That made him unavailable. Yeah. But yeah, the great designer search. We're down to the the finalists. These. The contest is actually going to start next week. There'll be, you know, I think it's Thursday. Images gather.com. They'll be</v>
+
+00:14:52.640 --> 00:15:01.570
+<v Speaker 1>showing off the first first week of the of the show, sort of the public facing portion of the show. So it was calling from like 1000 people down to now. We'll be announcing the finalists tomorrow.</v>
+
+00:15:01.620 --> 00:15:04.740
+<v Speaker 2>And it's really exciting. You guys have like a fantasy pool in the office.</v>
+
+00:15:04.750 --> 00:15:12.970
+<v Speaker 1>So haven't done that. We should totally set that off. It's kind of weird for us though, but I think the public could set that up. Do it on the message boards or something. That's a cool idea.</v>
+
+00:15:13.020 --> 00:15:17.050
+<v Speaker 2>OK, well, you know, well, well, well, we'll work something out in the column next week.</v>
+
+00:15:17.120 --> 00:15:22.730
+<v Speaker 1>I will say also there's a couple names in there that I think people will recognize. Really. Yeah. Well alright,</v>
+
+00:15:22.800 --> 00:15:29.120
+<v Speaker 1>that's enough. Tomorrow we'll we're actually gonna announce it between the semi finals and the finals in tomorrow's top 8.</v>
+
+00:15:29.230 --> 00:15:32.400
+<v Speaker 2>Which you see more exciting, the top eight or the great designer search?</v>
+
+00:15:32.710 --> 00:15:43.700
+<v Speaker 1>It depends what you like about Magic. There's lots of people that like the competition. I I would certainly vote for the top 8 for now, because it's not like it's the finals of the great designer search, but it's sort of a fun, a fun diversion.</v>
+
+00:15:44.050 --> 00:15:48.140
+<v Speaker 2>Now, what's gonna be the process from announcing the finals to get into? Or is that part of what we're?</v>
+
+00:15:48.150 --> 00:15:53.200
+<v Speaker 1>Announcing No. It's basically like imagine The Apprentice, it's a reality TV show. Mark Rosewater</v>
+
+00:15:53.270 --> 00:15:58.750
+<v Speaker 1>cast in the role of Donald Trump, watching everybody do their work for the week and then figuring out who to who to kick off the island.</v>
+
+00:15:58.840 --> 00:16:01.210
+<v Speaker 2>So everyone's gonna come out to to Renton for a week.</v>
+
+00:16:01.280 --> 00:16:08.570
+<v Speaker 1>Now it's a they'll be working remotely. When we get down to the last couple, we're going to fly out like the last three guys will come to Renton for the for the end of the thing.</v>
+
+00:16:08.770 --> 00:16:11.750
+<v Speaker 2>That's exciting and it's going to be webcast at all or?</v>
+
+00:16:11.820 --> 00:16:15.030
+<v Speaker 1>It's going to be featured on magic7.com. I think it's every Thursday.</v>
+
+00:16:15.200 --> 00:16:19.200
+<v Speaker 2>OK, OK, I got my fingers crossed for a couple of people here.</v>
+
+00:16:19.460 --> 00:16:20.510
+<v Speaker 1>We'll see. I actually.</v>
+
+00:16:20.520 --> 00:16:22.170
+<v Speaker 2>Don't know who makes it through yet so.</v>
+
+00:16:22.360 --> 00:16:24.150
+<v Speaker 1>I've been keeping the list under wraps.</v>
+
+00:16:24.980 --> 00:16:26.260
+<v Speaker 1>OK, see you tomorrow.</v>
+
+00:16:26.270 --> 00:16:27.680
+<v Speaker 2>Alright, see you tomorrow.</v>
+
+00:16:31.260 --> 00:16:41.090
+<v Speaker 1>Abraham said Rangers just slammed down Triskelavus, drawing our winds from Tiago Chan. Looks like that Triskell. This may be the difference in this Game 3 of this match.</v>
+
+00:16:42.470 --> 00:16:42.900
+<v Speaker 1>I thought you</v>
+
+00:16:44.100 --> 00:16:56.550
+<v Speaker 1>while not only is our Triskelavus from Bram, he's actually got Academy ruins in play so he can recurse it as much as he wants, it's also gained a bunch of life by blinking his dragoons in and out of play. Things Looking good for the Dutch player right now.</v>
+
+00:16:59.450 --> 00:17:15.580
+<v Speaker 1>And there's the handshake. Tiago Chan scoops them up. Extend the hand, Brahm snap fingers, picks up win #11 he's 11. And two, he's on 33 points. Cut might be 34, cut might be 36. He's in great shape, tied for second, going in with two rounds to play.</v>
+
+00:17:19.370 --> 00:17:27.500
+<v Speaker 1>Don't look now, but Kenji Samura is still winning. Yet to drop a match today. Still very much the top 8 contention with two rounds to go.</v>
+
+00:17:29.560 --> 00:17:30.510
+<v Speaker 4>Here in the dark.</v>
+
+00:17:31.100 --> 00:17:33.650
+<v Speaker 1>So Villeda, what was your result this round?</v>
+
+00:17:33.820 --> 00:17:35.930
+<v Speaker 4>I drew intentional drew for Bastion.</v>
+
+00:17:36.440 --> 00:17:37.790
+<v Speaker 1>Is that good enough for you in?</v>
+
+00:17:38.180 --> 00:17:47.390
+<v Speaker 4>I hope so. I didn't do the math. I do something like in the dark, but I think in my breaks next rounds I can even lose him. But you Let's see.</v>
+
+00:17:47.920 --> 00:17:50.670
+<v Speaker 1>OK, so drew into the dark.</v>
+
+00:17:50.740 --> 00:17:57.250
+<v Speaker 4>Yeah, 80% in the 20% in the dark. I have a good shot for being.</v>
+
+00:17:57.400 --> 00:17:58.350
+<v Speaker 1>Alright, well, good luck.</v>
+
+00:17:58.450 --> 00:17:59.280
+<v Speaker 4>Alright, thank you.</v>
+
+00:18:03.180 --> 00:18:07.210
+<v Speaker 1>So bomb something's what was the situation with this, with this Round 15 match?</v>
+
+00:18:07.880 --> 00:18:24.430
+<v Speaker 5>Well, my opponent offered to draw before we started and I turned it down because I'm not entirely certain it's good enough for me. But after the first game was over and I lost, I offered him a draw because I felt my chances would be better.</v>
+
+00:18:24.710 --> 00:18:27.150
+<v Speaker 1>Yeah, now that you're down game, you'd rather go ahead and catch in the draw.</v>
+
+00:18:27.200 --> 00:18:27.810
+<v Speaker 5>Yes.</v>
+
+00:18:28.380 --> 00:18:30.170
+<v Speaker 1>Makes sense. How did it?</v>
+
+00:18:31.330 --> 00:18:32.920
+<v Speaker 1>You're pretty sure the draw gets you in.</v>
+
+00:18:33.790 --> 00:18:39.340
+<v Speaker 6>I hope so. Yeah. I figured it out before and I'm sure it is enough.</v>
+
+00:18:40.740 --> 00:18:46.670
+<v Speaker 1>You're a John Moritz Merkel, right? Yeah. Why don't you tell us a little bit about yourself, I guess. I hear this is your first pro tour ever.</v>
+
+00:18:46.900 --> 00:18:52.670
+<v Speaker 6>Yeah, my first photo ever. I haven't even made day two of her grandpa or something like before and.</v>
+
+00:18:53.060 --> 00:18:53.990
+<v Speaker 1>Wow, what happened?</v>
+
+00:18:54.320 --> 00:18:56.570
+<v Speaker 6>Yeah, no, I start.</v>
+
+00:18:57.180 --> 00:18:58.250
+<v Speaker 1>You're from Germany?</v>
+
+00:18:58.840 --> 00:19:00.270
+<v Speaker 6>Hamburg, actually.</v>
+
+00:19:00.520 --> 00:19:03.850
+<v Speaker 1>It's a fine city with a fine magic tradition. Who do you? Who do you play?</v>
+
+00:19:03.860 --> 00:19:10.750
+<v Speaker 6>With on from very good players there like Christian Lewis are always dwarfed on Tuesday with him and then.</v>
+
+00:19:12.030 --> 00:19:15.540
+<v Speaker 1>How's he doing? Is he still play? That's Christian still play at all.</v>
+
+00:19:15.690 --> 00:19:17.580
+<v Speaker 6>Yeah, yeah, he plays really good.</v>
+
+00:19:18.690 --> 00:19:21.340
+<v Speaker 1>Awesome. Well, good luck in the top eight. I hope you're in. Thank.</v>
+
+00:19:21.350 --> 00:19:21.840
+<v Speaker 6>You.</v>
+
+00:19:25.840 --> 00:19:53.250
+<v Speaker 1>So let's send you a little more bombs logic. After he took the draw, he definitely fears his chances at 34 because his opponent match win percentage is pretty low. But his theory is if he gets another draw next round, 35 should be safely in. So that's his theory. It looks like they'll be exactly 4 players at 34 or no. Whoa, Sitel can screw it up. Yeah. So it's not clear whether Brown will get the chance to draw next round or not. I think it's going to come down to</v>
+
+00:19:54.010 --> 00:20:19.860
+<v Speaker 1>Suzukis match Suzuki can get to 34 making there be 5 players at 34 + 1 of them gets rounded down. Does not get the chance to draw not +35 is in, but that kind of makes sense to me. I see where he's coming from we'll see how it works out next round. For for for me, I don't know it's so tough to take a draw in a situation like that like I know the math says you've got you know, 70% chance here playing is 5050. I just.</v>
+
+00:20:21.060 --> 00:20:31.160
+<v Speaker 1>Feels so much better to actually control your own fate and play for it. I guess Down at game might have done the same thing Graham did, but it's so hard to leave your fate up to the whims of tiebreakers and pairings.</v>
+
+00:20:34.440 --> 00:20:57.470
+<v Speaker 1>Holy Kenji Sumara, the man has not dropped a match yet today. 7 W's in a row now he just needs one more to earn himself a top 8 birth. The goal that he set for himself at the beginning of the year. Wanted to put up that top aide in Kobe in Japan in limited. Just needs one more win and he'll pull it off. Wow,</v>
+
+00:21:00.580 --> 00:21:16.950
+<v Speaker 1>now Tomohiro Sitos still fighting the good fight. Kashian Cryer made a bunch of tokens 4 to 5 got the job done pumping up those tokens just enough to kill Masami Yamamoto in. That was Game 2. IBU Moto had won the first game, so they're headed to Game 3 now.</v>
+
+00:21:19.700 --> 00:21:28.870
+<v Speaker 1>Already deep in Game 3 is a feature match between Brian Hegstad and Takahiro Suzuki. They're playing at at at Pod 2.</v>
+
+00:21:29.710 --> 00:21:32.640
+<v Speaker 1>The winner will be playing for the pod next round and the spot in the top 8.</v>
+
+00:21:36.430 --> 00:21:41.980
+<v Speaker 1>Andre Coimbra. Congratulations. Looks like a big win there over Tiago Chan getting you to 33 points, huh?</v>
+
+00:21:43.220 --> 00:21:43.780
+<v Speaker 7>Yeah.</v>
+
+00:21:44.320 --> 00:21:48.030
+<v Speaker 1>How? What do you think of your deck? Did the draft go well for you this last this last draft?</v>
+
+00:21:48.440 --> 00:21:52.510
+<v Speaker 7>I think it wasn't good but probably OK for when running they got to good draws against Diego Chen.</v>
+
+00:21:54.520 --> 00:21:55.860
+<v Speaker 1>Tiago, how did the</v>
+
+00:21:56.610 --> 00:21:59.710
+<v Speaker 1>this deck hasn't worked out real well for you these last couple rounds? What happened during the draft?</v>
+
+00:22:00.710 --> 00:22:01.920
+<v Speaker 8>This is reference OK for me,</v>
+
+00:22:02.720 --> 00:22:18.730
+<v Speaker 8>even though I thought that Willy Edel would go blue red like is it said to me like earlier in the morning to me that he always dressed blue red and awhile ago I spoke to him and he said I never said that. So I don't know that I forced green black because of that.</v>
+
+00:22:19.340 --> 00:22:22.630
+<v Speaker 1>Before screen black and then he while he was actually turned out to be drafting black, right?</v>
+
+00:22:23.760 --> 00:22:31.290
+<v Speaker 8>He said to me, I only draft this deck and when he showed me his third draft which was blue, red, the suspend deck.</v>
+
+00:22:32.890 --> 00:22:35.320
+<v Speaker 1>Would you have done the draft differently if you had it to do over again?</v>
+
+00:22:36.730 --> 00:22:47.730
+<v Speaker 8>Boy I hate green but in the other 4 drafts my first picks were always blue or white and I always had to change into green because green gets passed.</v>
+
+00:22:48.340 --> 00:22:52.050
+<v Speaker 1>What you first pick this time? What? What was your first pick this time?</v>
+
+00:22:53.020 --> 00:23:01.040
+<v Speaker 8>This time it was green. I was fired for that. It was, I don't remember the name, Sports Sauer, tell it.</v>
+
+00:23:01.740 --> 00:23:04.050
+<v Speaker 1>A guy seems good but not good enough.</v>
+
+00:23:05.600 --> 00:23:08.860
+<v Speaker 8>Not good enough for the first pick unless you want to go green.</v>
+
+00:23:10.200 --> 00:23:15.150
+<v Speaker 1>While still being a really good Pro Tour result for you. Good luck in the last round.</v>
+
+00:23:15.320 --> 00:23:16.180
+<v Speaker 8>OK. Thank you.</v>
+
+00:23:20.520 --> 00:23:41.200
+<v Speaker 1>So for Tiago Chan looks like it's going to be another money finish and limited a nice chunk of pro points. I guess he needs probably needs to win the last one to lock up top 16 which was his goal for the week. Coin Brass and I'm 33 probably hopes he can draw into the top 8. Might think he can draw into the top 8 but we a lot of people doing a lot of math when the standings go up after this round</v>
+
+00:23:44.570 --> 00:24:00.860
+<v Speaker 1>no. I walked over to the Tomohiro Sito match just in time to see another 4 to 5 followed by another scoop from Masami Yamamoto. Saito got the job done make a bunch of guys attack, fortify. He's now he's now got the win that he needed. He's</v>
+
+00:24:02.280 --> 00:24:19.300
+<v Speaker 1>I believe still needs to win the last one that was a those guys had different point totals. Cyto down at 28 even Moto at 30, even Moto hoping to get himself to 33. Sito now on 31. He'll play next round to get to 34, where he's got to hope that that's good enough.</v>
+
+00:24:23.630 --> 00:24:26.210
+<v Speaker 1>Well, Brian Hegstad defeats</v>
+
+00:24:26.990 --> 00:24:35.010
+<v Speaker 1>Takahiro Suzuki and his feature match that gets Hegstad to 33. Suzuki still at 31, capable of getting to 34.</v>
+
+00:24:36.120 --> 00:24:39.570
+<v Speaker 1>I gotta go look at the standings now. We'll see what the world looks like.</v>
+
+00:24:42.350 --> 00:25:11.200
+<v Speaker 1>All right, going into the last round. I've got the standings, I've got the pairings. It looks like the top four guys are in. 35 is in. There's there can be as many as four people at 36. I don't see any scenario where a 35 misses. So if you get 35, you're in. That means Bossy and Perez, Willy Edel, John Moritz, Merkel, Bramstedt Fangers, the four. The four of them got paired. They'll draw each other to 35. They're in unless Perez decides to destroy Bramstedt Fingers,</v>
+
+00:25:11.280 --> 00:25:42.170
+<v Speaker 1>Cubs and Dreams, but I don't think that's gonna happen. Meanwhile, there's fully six other matches that are relevant. A couple of them are clean. Andre Coimbra versus Tomoharu Saito is a pretty clean winning in. If Saito wins, he'll only be at 34, but he's got the best Breakers and 134 gets in, assuming he wins. Brian Hegstad and Thomas Didier Gene are playing a clean winning in match. Kenji Samura versus Thomas Gunderson is a clean winning in match. Gotta love God Kenji Samira that that'd be awesome if they put</v>
+
+00:25:42.260 --> 00:26:10.130
+<v Speaker 1>if it happens. Meanwhile, Kim Valori versus David Brucker is pretty clean and Brucker wins. He'll only be at 34. He may need a little bit of help, but Flori wins, Valerie is cleanly in, and then he got Takahiro Suzuki versus David Felski Suzuki Also planning to get to 34 and cross his fingers. So best I can read it. Anywhere from zero to two people getting in at 34. A bunch of matches have 233 playing to get to 36.</v>
+
+00:26:11.060 --> 00:26:14.010
+<v Speaker 1>Gonna be a fun one. Gonna be a fun round. Gonna be a fun hour.</v>
+
+00:26:17.970 --> 00:26:45.140
+<v Speaker 1>The raw you hear is for Kenji Samura. He did it. 8 consecutive wins, sweepstake to advances to the top 8. There's the gold he said. Rich Hoen gives him a high 5 from behind. Kenji Samura has clearly turned himself into a powerhouse limited player. The reigning player of the year is going to be playing for the for for the title tomorrow. Wow, great match. Magic too. Thomas Gunderson</v>
+
+00:26:45.360 --> 00:27:15.160
+<v Speaker 1>sent it to game three blew him out in Game 2 with a sliver draw. This draw he had he top decked the third different land type for tromp the domains. It looked totally lethal, but Kenji had been saving tendrils kills a bone splitter as response. So he gains 2 life. He kills a bone splitter splitter. That would have been 7 power powers down another sliver. That would have been 9 power 11 life. Swing on that Chandra says response to trump the domain and then Kenji still went down to five but</v>
+
+00:27:15.360 --> 00:27:28.270
+<v Speaker 1>that was enough had the time used to ferry ended it with a thesis thesis pointed at sports blower style yeah great match magic Kenji Sumera is through to the top eight. Wow</v>
+
+00:27:29.370 --> 00:27:44.160
+<v Speaker 1>Meanwhile another interesting feature match result David Brucker is making a play for this top eight. He just knocked off Kim Valori that that gets him to 34 which may or may not be good enough. We shall see. But we know Kenji's in. That'll be fun tomorrow.</v>
+

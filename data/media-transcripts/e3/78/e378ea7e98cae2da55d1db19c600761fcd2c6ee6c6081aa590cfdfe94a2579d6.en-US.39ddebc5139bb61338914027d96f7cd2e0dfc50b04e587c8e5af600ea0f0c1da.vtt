@@ -1,0 +1,410 @@
+WEBVTT
+
+00:00:01.080 --> 00:00:30.850
+<v Speaker 1>OK, I'm pulling on my driveway. We all know what that means. It's time for another drive to work. OK, so today I'm going to talk about an article I wrote from time to time. I'd like to examine articles that I thought were interesting and expanded on a little bit because in a podcast I can talk for longer. OK, so piggybacking was inspired by a visit from somebody outside the building. So</v>
+
+00:00:30.950 --> 00:00:51.850
+<v Speaker 1>one of the cool things about working at Wizards of the Coast, among many cool things is there are a number of Magic fans who are, I'll call them celebrities. So George fan is the creator, designer of a game called Plants versus Zombies, and he was in the office. I gave him a tour</v>
+
+00:00:53.240 --> 00:01:12.170
+<v Speaker 1>and we played Magic and we had lunch together and we showed him a good time. And one of the things that was very telling was during lunch, he and I were talking. And so there's a question I'd always wonder plants versus zombies. And so I said to him to go, George, I'm curious why plants and why zombies?</v>
+
+00:01:13.220 --> 00:01:43.610
+<v Speaker 1>Um, and So what he said was essentially plants versus zombies is a, what we call a mass market tower defense game. So mass market is just a word to mean something that's more approachable not just to gamers, but has more wide appeal. Usually it's a little simpler. A tower defense game is a game in which you are defending something, traditionally a tower. And there are there are things that attack you and you have resources to stop them. And the goal is to hold them off as long as you can.</v>
+
+00:01:43.890 --> 00:02:13.860
+<v Speaker 1>And usually there's, you know, waves that come and stuff. So essentially Plants for Zombies was him trying to do a very simplified, but fun tower defense game. And so he said, oh, well, the reason there are plants is in a tower defense game, your units tend not to move that you tend to put them in a place and they stay there. And George always found it weird, the flavor of, for example, sometimes you send some nights, you know, or, or an army or something. And then once they cleared the area, they just stayed there</v>
+
+00:02:13.960 --> 00:02:44.370
+<v Speaker 1>because that's where they're supposed to be. But like right next door, there's people that need help. Why don't you go in there? And it always seemed weird to him. So the reason he chose plants was plants would stay put. Plants don't move. So I needed things that didn't move, while plants felt like they wouldn't move their plants. So I said, OK, why zombies? He goes. Well, in the good tower defense game, you want to slow horde that attacks. You kind of want an endless number of creatures attacking, but you need them to be slow enough that you can build up your defense because part of the fun of it</v>
+
+00:02:44.440 --> 00:03:13.900
+<v Speaker 1>and having time to build up the defense. And he's like, well, what is a slow invading horde Zombies That by definition that's how zombies work. They come in large groups, but they're slow and you know it, it fit. Now George and the team then went on and you know, gives some personality to the plants and personality the zombies and really made it made it fun. But the core of why Plants and why zombies were based on trying to use the audiences own information to help them in gameplay,</v>
+
+00:03:14.450 --> 00:03:18.500
+<v Speaker 1>which is a concept we use in gaming called piggybacking.</v>
+
+00:03:19.610 --> 00:03:30.560
+<v Speaker 1>So today I'm going to talk about piggybacking and explain essentially why it's important and how it is used. But to explain that, I need to explain another concept first.</v>
+
+00:03:31.250 --> 00:03:41.090
+<v Speaker 1>OK, so I often talk about complexity in game design and most of the time I'm talking about how complexity is a bad thing. You have to be careful because complexity will cause you problems.</v>
+
+00:03:44.270 --> 00:03:49.190
+<v Speaker 1>Today though, I'm going to tell you why complexity is a good thing, how complexity can help you.</v>
+
+00:03:50.040 --> 00:03:56.840
+<v Speaker 1>So in the article, I laid out six different things that complexity can do to help you. So first, it can add strategic depth.</v>
+
+00:03:57.710 --> 00:04:27.080
+<v Speaker 1>There's more going on. If you have more going on, there's more to think about. There's more that you can do. And now be aware, actually add this caveat. Complexity alone is not what creates strategic depth. In fact, you can add complexity and not increase strategic depth. And you can, you can increase strategic depth without adding complexity. But one of the easiest ways to add strategic complexity is to add. To add strategy is to add.</v>
+
+00:04:27.680 --> 00:04:42.780
+<v Speaker 1>Yeah, OK, first one again, one of these ways to add strategic depth is through complexity. But it's kind of lazy, I won't be honest #2 It allows you to better match the flavor.</v>
+
+00:04:44.270 --> 00:04:55.930
+<v Speaker 1>And what I mean by that is that flavor is messy flavor. A lot of times it doesn't want to fit neatly in mechanical boxes. And you know what? Having some complexity allows you to sort of,</v>
+
+00:04:56.820 --> 00:05:00.260
+<v Speaker 1>you know, match the flavor and do the extra little things you need to do to match the flavor</v>
+
+00:05:01.380 --> 00:05:13.540
+<v Speaker 1>#3 it creates more variety. Well, if I can do 50 things, the combination of 50 things is more than the combination of 20 things. So it creates more variety</v>
+
+00:05:14.620 --> 00:05:15.620
+<v Speaker 1>#4</v>
+
+00:05:16.360 --> 00:05:22.510
+<v Speaker 1>it opens up design space. Well, if you have more options, there's more you can do. You've opened up design space</v>
+
+00:05:23.280 --> 00:05:27.170
+<v Speaker 1>#5 it helps experience players feel more invested.</v>
+
+00:05:28.650 --> 00:05:44.150
+<v Speaker 1>One of the things is the experienced player, they're not intimidated by the complexity. And so when you later stuff on, it allows you to add stuff that more references that they get and more chance to sort of give throw bones to the to the invested player.</v>
+
+00:05:44.750 --> 00:06:15.080
+<v Speaker 1>And finally, it makes game design easier. Why? Cause just easier to find complexities lying there. It is not hidden. It is not something you have to sort of usually spare it out. It's usually something sitting right in front of your face. OK, well, those seem like awesome things. Complexity. This must be a pretty cool thing. But the opposite side is this the con against complexity. I'll sum up in one con. It is the greatest force capable of killing your game.</v>
+
+00:06:15.210 --> 00:06:37.320
+<v Speaker 1>In fact, when you asked me what is what is the thing most likely to kill magic, my answer is complexity. And the reason why is. So I talk about what's called barrier to entry. What that means is when you start playing a game, how hard is it to you to go from? We call it 0 state. I have 0 information to ready to play.</v>
+
+00:06:37.960 --> 00:06:42.280
+<v Speaker 1>So the way I, I, I think of it for today is imagine there's a scale from zero to 100</v>
+
+00:06:43.860 --> 00:06:49.310
+<v Speaker 1>and that your game is somewhere from zero to 100 and how difficult it is to learn.</v>
+
+00:06:49.970 --> 00:06:53.820
+<v Speaker 1>So like a really, really, really, really complex, really different difficult game is 100,</v>
+
+00:06:54.500 --> 00:06:56.740
+<v Speaker 1>and a super, super, super super simple game is A1.</v>
+
+00:06:58.070 --> 00:07:03.590
+<v Speaker 1>So the question is how do you get your player base from zero to 100?</v>
+
+00:07:04.610 --> 00:07:05.960
+<v Speaker 1>And the answer is</v>
+
+00:07:06.650 --> 00:07:07.210
+<v Speaker 1>that</v>
+
+00:07:08.190 --> 00:07:39.800
+<v Speaker 1>there are a bunch of different tools, but one of which today we will talk about is piggybacking. So, so one of the ideas that we have to talk about is players starting at a zero state, right? I'm playing game. I've never played the game. I know nothing. Well, piggybacking says is, well, that's not completely true. You walk into a game, a player walks into game with knowledge of life, of things. And so one of the things that if you're trying to reduce complexity, one of the things you can do is say,</v>
+
+00:07:39.940 --> 00:07:45.770
+<v Speaker 1>the more I draw up information that my player already has, the easier it is to learn.</v>
+
+00:07:46.490 --> 00:07:56.260
+<v Speaker 1>So for example, when you talk about the zero state really for your game, you might be starting them at higher than 0 if you work on stuff that they already know.</v>
+
+00:07:58.170 --> 00:08:28.140
+<v Speaker 1>I, I use my example plans for zombies, so I'll start with there. So plans for zombies clearly said, OK, look, you know something about plants like you buy in the game, you buy seeds and you plant the plants and then they grow and, you know, sunlight makes them grow. That's what you need for them, you know, and that there's just little things that sort of you already know. So it makes grokking what's going on a little easier. You know, you know that vampires are zombies, zombies, zombies, zombies. That's</v>
+
+00:08:29.170 --> 00:08:48.820
+<v Speaker 1>it's a Buffy universe. Zombies are a slow invading force, OK. And so you need like when you use that, your audience goes, OK, that's expectation. They get it. They understand what it is. So for example, let's talk about magic now, because Richard, for example, also use piggybacking.</v>
+
+00:08:49.500 --> 00:09:07.850
+<v Speaker 1>Now, by the way, there's two different types of piggybacking I get. Let me talk about this first before I get to the example with Richard #1 is what I will call flavor piggybacking. That is in which you use people's knowledge of information to make your mechanics go easier because they follow what you would expect that flavor to be.</v>
+
+00:09:08.490 --> 00:09:31.300
+<v Speaker 1>I will get to that examples in a second. The second is mechanical piggybacking. That is, reuse people's knowledge of gaming, of games, of previous games to help you understand how to do it. So Magic had a little bit of both. OK, so let's talk about flavor piggybacking. So Richard didn't just make a trading card game preserves, he made a trading card game.</v>
+
+00:09:35.400 --> 00:09:49.440
+<v Speaker 1>Trading cards are a known quantity. A lot of people have interacted with trading cards right off the bat by calling it a trading card game. When someone opens up a booster pack and there are random assortment of cards, they don't go what's going on? They go, ohh, it's a trading. These are trading cards.</v>
+
+00:09:50.580 --> 00:09:57.670
+<v Speaker 1>So the very first thing is he piggyback on the very concept of trading cards and using that as a tool to build the game off of. That's why</v>
+
+00:09:58.440 --> 00:09:58.990
+<v Speaker 1>um</v>
+
+00:09:59.670 --> 00:10:00.990
+<v Speaker 1>and that and that</v>
+
+00:10:01.780 --> 00:10:30.650
+<v Speaker 1>well, not that fall in that's interesting question is that flavor? Is that mechanical? I guess that is more mechanical and that the mechanics of how a training card game works and how our booster works is using you to match how yours works. That's more mechanical, but flavor. So Richard didn't just say, Oh, you guys have cards and you're using cards. He said no, no, no. You are Wizards, planes, walkers in a duel, having a magical duel,</v>
+
+00:10:31.290 --> 00:10:59.080
+<v Speaker 1>and these cards represent the spells that you know as you are fighting this magical duel. So Richard layered on top of it, this concept of magic and spells. Well, all of a sudden it makes it a little easier. For example, it's a little easier to understand that there's magical energy required for you to be able to play these spells. That just makes it a little easier to understand because like, oh, OK, I want to cast a spell. I need something to cast a spell with. OK,</v>
+
+00:11:00.620 --> 00:11:20.430
+<v Speaker 1>the idea of calling the, you know, the deck, the library and the graveyard side, the discard pile, the graveyard. But he used a lot of terminology to add flavor to what was going on, you know, and with the mechanics, for example, flying, I always say that I think flying is one of the best mechanics because it is so evocative of what it is that it explains itself.</v>
+
+00:11:21.450 --> 00:11:50.690
+<v Speaker 1>I have a creature that doesn't have flying. You have a creature with flying, you attack. What do you think happens? The guy can't block because I fly over him. Exactly. And if you look at a lot of the creature keywords, Richard was trying very hard to say, oh, well, this creature is trampling. This is striking first. This is, you know, that is doing the things you would expect the the concept to do. And that layering over the real world flavor made it much more accessible and made it easier to learn.</v>
+
+00:11:51.790 --> 00:12:11.910
+<v Speaker 1>Um, so now mechanical, for example, a Richard, build it on trading card games. B It's a card game, meaning people understand the idea of you have a deck, you have a discard pile, you shuffle your deck, you draw hand. Depending on what game you played. You understand the idea of a area of play.</v>
+
+00:12:12.550 --> 00:12:24.820
+<v Speaker 1>You know, gin rummy, for example, you put cards down in front of you. So by using a card game, Richard also sort of played into the idea that he used things people knew to help them understand.</v>
+
+00:12:26.990 --> 00:12:30.500
+<v Speaker 1>Um, because one of the things that I think</v>
+
+00:12:31.860 --> 00:12:38.520
+<v Speaker 1>when we talk about the challenges of game design, to me, the biggest challenge of game design is the idea that,</v>
+
+00:12:40.000 --> 00:12:42.040
+<v Speaker 1>but let me that I'll use a metaphor here.</v>
+
+00:12:42.790 --> 00:12:44.060
+<v Speaker 1>When I went to Hollywood,</v>
+
+00:12:44.930 --> 00:12:57.520
+<v Speaker 1>I was a screenwriter. I wrote scripts. So I would, in my little house, I'd write my scripts. And you know, before I got Hollywood, I really thought that the hardest part about being a script writer was writing the scripts. Writing is hard. I need to write a script</v>
+
+00:12:58.190 --> 00:13:02.370
+<v Speaker 1>and what I found was writing is hard. Writing good script is hard. And then no,</v>
+
+00:13:03.020 --> 00:13:15.870
+<v Speaker 1>I'm not saying that that isn't hard because it is, but I would write a script. I actually wrote script I thought were good scripts when discovered was not. The hard part was not writing the script. The hard part was getting somebody who needed to to read the script.</v>
+
+00:13:16.600 --> 00:13:23.100
+<v Speaker 1>Why? Because everybody wants them to read a script. And a lot of the scripts, most the scripts are bad.</v>
+
+00:13:24.020 --> 00:13:29.950
+<v Speaker 1>So if you or someone who reads the script, you don't want to read bad scripts. And so you're picky, you're picky about what you read.</v>
+
+00:13:30.710 --> 00:13:48.720
+<v Speaker 1>And so if somebody comes to you and we have no track record, they've never done anything before. Hell, they might even have an agent yet. Well, they're like, I don't think I'm going to read you or even getting an agent, right? You need someone to read you. And like, people are very hesitant to read in the town because there's so many people want you to read their stuff and so much of it is acted pretty bad.</v>
+
+00:13:49.620 --> 00:13:50.190
+<v Speaker 1>Um,</v>
+
+00:13:51.500 --> 00:13:57.400
+<v Speaker 1>so the same thing is true in trying to get a player to play a game. There are a lot of games.</v>
+
+00:13:58.590 --> 00:14:00.850
+<v Speaker 1>It takes energy to learn to play a game</v>
+
+00:14:01.590 --> 00:14:03.560
+<v Speaker 1>and so you have to convince the player</v>
+
+00:14:04.510 --> 00:14:06.260
+<v Speaker 1>they want to play your game.</v>
+
+00:14:07.240 --> 00:14:18.050
+<v Speaker 1>And once they decide they want to play your game, you have a small window to give them the experience of the game enough to make them want to play it. OK, so once again</v>
+
+00:14:18.880 --> 00:14:20.390
+<v Speaker 1>let me explain this. This is very important</v>
+
+00:14:21.220 --> 00:14:23.310
+<v Speaker 1>when you sit down with the player for the first time,</v>
+
+00:14:24.620 --> 00:14:25.910
+<v Speaker 1>when you're trying to teach them a game.</v>
+
+00:14:26.520 --> 00:14:32.750
+<v Speaker 1>The goal of the game, the goal of the first experience, is not to learn everything.</v>
+
+00:14:33.520 --> 00:14:42.490
+<v Speaker 1>The goal of the first experience is to learn enough, and one would argue just enough to experience and enjoy the game.</v>
+
+00:14:43.120 --> 00:14:59.750
+<v Speaker 1>Let me repeat that because this is so important. Maybe there's something I'm saying today. The goal of a game designer, when you have a game in the first experience they have with the game, you want them to be able to get to the following point, the point by which they can experience and enjoy the game.</v>
+
+00:15:00.600 --> 00:15:04.160
+<v Speaker 1>Why is that so? Why is that so important? Because</v>
+
+00:15:05.820 --> 00:15:17.350
+<v Speaker 1>other than die hard players and then they're diehard game players who put some energy and spend time learning. But most game players will give your game one and only one chance,</v>
+
+00:15:18.530 --> 00:15:24.550
+<v Speaker 1>and they will only give you a certain amount of time to essentially sell them on the game.</v>
+
+00:15:26.490 --> 00:15:43.250
+<v Speaker 1>Now, usually what happens is somebody who likes the game is the one who says, hey, this is an awesome game. Every once in a while there experience it somewhere else through something else. We're trying to demonstrate the game. But usually you learn the game from somebody else and usually that person who's teaching you has some affinity for the game.</v>
+
+00:15:44.930 --> 00:16:10.670
+<v Speaker 1>But in that experience, so that one chance, you as a designer get one chance and be aware you don't control the circumstances completely. Somebody out. I mean, the way I always talk about this is imagine the game of telephone in which you are trying to pass along the message, but you don't get to tell the person who hears the message the message you got to tell. Somebody's going to tell them, and maybe even it's going to pass through multiple people until it gets to them.</v>
+
+00:16:11.330 --> 00:16:21.520
+<v Speaker 1>So if you're playing telephone, what is the best strategy? I want to say something. What I want to say is something simple and clear and obvious.</v>
+
+00:16:22.490 --> 00:16:25.760
+<v Speaker 1>For example, if I say um,</v>
+
+00:16:26.410 --> 00:16:29.990
+<v Speaker 1>you know the Chihuahua eats Doritos at midnight,</v>
+
+00:16:30.920 --> 00:16:45.530
+<v Speaker 1>there is so much chance for them to mess that up because for starter what why why is it why is the Chihuahua eating Doritos and why at midnight and should even feed Doritos to Chihuahua? That seems wrong, where if my message is something like</v>
+
+00:16:48.140 --> 00:16:49.530
+<v Speaker 1>it often gets dark.</v>
+
+00:16:50.510 --> 00:16:52.610
+<v Speaker 1>Yeah, that's a very.</v>
+
+00:16:54.510 --> 00:16:56.090
+<v Speaker 1>There was a full moon</v>
+
+00:16:56.950 --> 00:16:57.840
+<v Speaker 1>in the sky.</v>
+
+00:16:59.190 --> 00:17:12.330
+<v Speaker 1>That OK, everything there makes sense. There was a full moon in the sky. I get full moon, I get sky. Like OK I I the message means something. Ohh. So let me explain this. There is something in psychology that's called chunking.</v>
+
+00:17:13.000 --> 00:17:43.170
+<v Speaker 1>So when you try to learn something, the way your brain learns something is it can actually only handle so many things at once. I think the numbers like somewhere around 7:00, but there's only your brain. Your brain cannot handle that many things at once. So many things bring, OK, I'm forget something that you know, for example, one of the right jokes with my wife is I will go to the store to buy something. She will tell me things to get, you know, she's like, OK, run in and get me following things. And I know if I go over a certain number, like I'm running this down, you know, that if she tells me two or three things, I'm fine.</v>
+
+00:17:43.360 --> 00:18:00.650
+<v Speaker 1>He said something for five. I'm writing this down because I know him would forget something. And then that's how the human brain works. So what the human brain does is because it's sneaky, it's smart, is it does something called chunking. And what chunking means is, is it takes disparate things and it connects them to mean one thing.</v>
+
+00:18:01.620 --> 00:18:02.490
+<v Speaker 1>For example,</v>
+
+00:18:03.840 --> 00:18:31.780
+<v Speaker 1>I will use. So in America, for those of my foreign viewers, you have to bear with me a little bit. We have a phone number and the way the phone number works is there's 3 digits, that's an area code. And then there's 3 digits, that is the preface code. And 3/5 is a suffix code. So you have 10 numbers. OK, so and the reason they put them into 3 sections is it's easier to remember 3 digit numbers and is remember a 10 digit number,</v>
+
+00:18:32.980 --> 00:18:34.440
+<v Speaker 1>but then it connects them together.</v>
+
+00:18:35.150 --> 00:19:05.240
+<v Speaker 1>And So what will the brain wants to do is it wants to recognize things in easily digestible forms and then have things that link them together. So the reason that a phone number is rememberable is there's 3 digit number, 33 digit number will outside 23 digit numbers and a four digit number for the suffix is 4 digits. And by sort of making them smaller easy things to remember, you remember each of them separately and then they all go together and now your brain remembers A10 digit numbers. One thing broken into 3 sub things.</v>
+
+00:19:06.240 --> 00:19:35.910
+<v Speaker 1>And so if you're trying to get people to understand things, the more you can chunk things together, the more you can make the brain be able to accept it as one thing. And that multiple things. Because for example, the dog eats Chihuahua, the Chihuahua eats Doritos at midnight. I have to remember Chihuahua, I have to remember Doritos, I have to remember midnight. Now maybe maybe in my head I can picture a dogging Doritos and midnight. Maybe I'm OK, but because the other people don't have that information</v>
+
+00:19:35.980 --> 00:19:50.450
+<v Speaker 1>and it's odd to them that when I try to say it to them, they might get confused. Because if if Chihuahua and Doritos in midnight are three different things, then my brain is is working three times as hard to remember it. It's not one thing, it's three things.</v>
+
+00:19:51.440 --> 00:20:10.870
+<v Speaker 1>Um, so when you are trying to get someone to understand your game, you want to chunk things together. Ah, this is where piggybacking comes in. For starters, you're working on knowledge they already have, and that knowledge comes together in a way that makes sense for, for example.</v>
+
+00:20:13.200 --> 00:20:22.450
+<v Speaker 1>Let's take the the double faced cards from Innistrad. I use these metal. OK, so we wanted to do a werewolf,</v>
+
+00:20:23.390 --> 00:20:27.790
+<v Speaker 1>OK. And we made a card where you know, so forget, forget where will for a second.</v>
+
+00:20:28.550 --> 00:20:39.090
+<v Speaker 1>Let's say I have a card and the card says, OK, this card is a, you know, 22 creature, whatever you play it. And then if you ever don't play a card then</v>
+
+00:20:39.760 --> 00:20:44.890
+<v Speaker 1>it becomes a different card and this new card is A55 and has attack of the turn or something.</v>
+
+00:20:46.460 --> 00:20:51.260
+<v Speaker 1>And then if, if, if I've ever 2 spells complete one turn, then reverse back to 22,</v>
+
+00:20:52.220 --> 00:20:59.190
+<v Speaker 1>now that's a lie. Like huh, what's going on? And you know, you know, but if I say to you it's a werewolf</v>
+
+00:21:00.050 --> 00:21:12.390
+<v Speaker 1>and it's a human, when you play it, it's a human and he's kind of small. Ohh. But when the moon come out, he's a werewolf. And now you tax in this vicious, but eventually the moon goes away and he turns back into a human.</v>
+
+00:21:13.460 --> 00:21:36.490
+<v Speaker 1>Now all of a sudden, the first thing seems really, really complicated. But as soon as I layer some flavor on top of it, it becomes a lot easier to understand because like, OK, it's a werewolf. OK, I understand the dual states. I understand why one small, I understand why one attacks. Like all of a sudden. It just makes a lot more sense, makes sense. And that the reason the piggyback is an important tool is that you can take information that they have that they need to process and make it simpler.</v>
+
+00:21:37.640 --> 00:22:07.710
+<v Speaker 1>OK, now, once again, I talked about before, there's two different ways to get to the to using your flavor. There's bottom up and top down. Bottom up means you start with mechanics. Top down means you start with flavor. You can start with flavor and go what mechanics make sense of this flavor? Sometimes you're like, Oh, I want to make a game about such and such. Oh, I'm not going to mechanic said match that flavor. Or you say, I'm going to take mechanics. I think interesting game. Oh, what is what are these mechanics feel like? And then get a flavor of that sort of matches.</v>
+
+00:22:07.820 --> 00:22:15.420
+<v Speaker 1>And then you, whether or not you start with the flavor, start with mechanics. You can adjust until you find a happy medium where the flavor of the mechanics sort of match each other.</v>
+
+00:22:17.940 --> 00:22:42.630
+<v Speaker 1>But no matter what direction you go, the key is that you are trying to use this information to make the experience easier. Because remember, remember you have one chance for them to learn and there's no room for air. So the goal of this game is 2 things. The goal of this first game you want them to experience. With this, they experience and enjoy EE Squared.</v>
+
+00:22:45.230 --> 00:22:56.800
+<v Speaker 1>So what you want them to do is you want them to have a sense of what the game is, because part of getting them to want to play the game is getting immersed in the game. So you need them to experience your game.</v>
+
+00:22:57.460 --> 00:23:27.420
+<v Speaker 1>And the second is they got to enjoy it. Now, there's different ways to enjoy something. It could be mental, it could be physical. You could just have a good time. Maybe you love the art. There's different ways for you to enjoy it. You know, imagine definitely, for example, one of the things that Magic does really well is there's so many different ways to enjoy the game that if I get you to play right, you might just enjoy the art. You might enjoy the flavor, you might enjoy the base mechanics, you might enjoy the interaction with the other player. You know, you might enjoy drawing a card.</v>
+
+00:23:27.740 --> 00:23:42.530
+<v Speaker 1>There's different things you can enjoy. It doesn't matter. It doesn't matter what they enjoy. In fact, it doesn't matter what they experience either. As long as they experience that's indicative of what the game is. You know, be careful that they're experiencing that is in the game because when they come back, that's what they expect.</v>
+
+00:23:43.270 --> 00:23:58.560
+<v Speaker 1>But so you as a game designer want to make sure that you set up a game that gets them into the experience quickly. So that's another big thing. By the way, another huge mistake people make in their games is there's too much prep that that you don't get the players into the game fast enough.</v>
+
+00:23:59.650 --> 00:24:10.880
+<v Speaker 1>Video games tend to understand this and video games have learned pretty well to like, hey, get them going right away. And as you get them going, you can teach them as they go. You know, you don't give them everything up front. You teach them a few things and get them going.</v>
+
+00:24:13.030 --> 00:24:43.460
+<v Speaker 1>Yeah. And paper games have a little harder time. They have to deal with rules and things, you know, rule sheets and stuff. They don't quite have the luxury of that Video games do. But the key, though, is get them going soon. Like one of the things I say when you're teaching people the magic, just start playing. Just start playing, you know, teacher the absolute. And when I say the basics, I mean the basics, like, how do you cast the card and what land is? I mean, very, very simple stuff. Because what is fun about a game is once they experience something, they're drawn in. And now and now they once you experience something, you want to know what happens,</v>
+
+00:24:43.740 --> 00:24:45.510
+<v Speaker 1>You know, like, for example,</v>
+
+00:24:47.420 --> 00:25:17.070
+<v Speaker 1>one of the ways I'll engage people with with magic is sometimes I'll talk about the color pie, because that's instantly easily Grock cable. Like these are the colors and what color am I? And what does this mean? What does that mean? How does it work? And what character is this? Like it gets people very fast and that when playing, I love putting the cards in their hands, let them look at them and just get them playing. Get your creature out, attack with the creature, your capture spell. And I don't care if turn one they built me. You know, I don't care. Is that good strategy? No, in fact. In fact, another good tip is don't worry about strategy</v>
+
+00:25:17.220 --> 00:25:22.100
+<v Speaker 1>the first time you play. The goal of the game is experience and enjoyment.</v>
+
+00:25:23.050 --> 00:25:42.460
+<v Speaker 1>Experience with the game is enjoy it. Anything beyond experience and enjoyment, you are just asking for trouble. Because if the audience, if your player doesn't, doesn't get the experience of the game and doesn't enjoy that experience, they're not. I mean, barring, barring some real hard work, they're not coming back.</v>
+
+00:25:43.680 --> 00:26:13.240
+<v Speaker 1>So when you make your game, you have to make sure that they have that. So now let's talk about magic because this is a magic design podcast. One of the things I need to do is now I have a luxury, which by the way is a game designer is a huge luxury. I have my player based walking in already liking my game. So when you come in, when I have a new set, well, guess what, You are predisposed to enjoying it. A, You know how to play. You.</v>
+
+00:26:13.310 --> 00:26:23.210
+<v Speaker 1>You know most of the world that you know all the rules. I'm gonna teach you some new rules, but you know most rules. You know the basics. B I'm not making you come to this. You're coming your own volition. You want to come there.</v>
+
+00:26:24.440 --> 00:26:37.500
+<v Speaker 1>So I had the luxury of I'm making games where the main audience already knows and loves the game, meaning they've already experienced and enjoyed the game as general. Now what I want to do is have them experience the new thing and enjoy the new thing.</v>
+
+00:26:38.190 --> 00:27:09.380
+<v Speaker 1>So for example, let's talk industries because it's the most current set. OK, I want to do bring mythology. So first thing I want to do is I want to just dip them in Greek mythology. I want when you're playing the game, you feel like, oh wow, this feels like Greek mythology. And a lot of the work we put into the set was to allow you to. No, luckily because it's something that's very talk about piggybacking, it is very attainable. We made a lot of cards that just hit you with the flavor really fast. So First off, you're enjoying yourself.</v>
+
+00:27:09.450 --> 00:27:32.490
+<v Speaker 1>I've seen the cards, ohh, I'm doing this and I'm doing that. But then you start to play and you're like, OK, I'm a hero. Ohh, I play the ordeal on my hero. Ohh, the gods are sending him on a, on a quest. Oh, but that's good for him. He's got heroics and now he gets a little bigger. And then when he attacks, the ordeal makes them bigger. And oh, you know, and like, all of a sudden, like you're, you're a hero on a quest and you're getting engaged in, in, in, in Theros.</v>
+
+00:27:33.940 --> 00:27:36.090
+<v Speaker 1>And like I said that that</v>
+
+00:27:36.930 --> 00:28:07.020
+<v Speaker 1>my job is easy in some level that, but what I need to do is I need to from the earliest level from from the Commons. Like I always talk about, you know, if if you're if your themes not the comment is not your scene. I'm doing great mythology. That's got to be a common and the plague experience. I want I got to make sure you're going to hit that pretty soon. You know, I want to I don't want to make a play experience where like, well, three out of every 10 times you'll experience this. No, no, I need to make my play experiences. No matter what you do in your first time playing and your pre-release, then you're going to get and feel what Pharaohs has to be</v>
+
+00:28:07.100 --> 00:28:37.160
+<v Speaker 1>that you can get a sense of there's mechanical identity playing once. And that's the important thing, which is I mean, once again, either luxury that if you play a game in the first game doesn't go well, you love magic, odds are you're going to play a second game. But look, you play enough games of something you will give up If you go to the privilege and you're having a good time, you might not play that mean you play other sets, but you might not play that sent. And so it's very important that I use the tools available to me to get you to play that. I mean, today's topic being</v>
+
+00:28:37.230 --> 00:28:43.440
+<v Speaker 1>feedbacking. I want to make use of the things that are going to invest you quickly and get you to understand what I'm doing.</v>
+
+00:28:45.280 --> 00:28:53.370
+<v Speaker 1>So anyway, I'm at work. So today's interesting today veered a little bit. I thought I was going to just about piggybacking, but actually I talked a bit about</v>
+
+00:28:54.700 --> 00:29:14.080
+<v Speaker 1>first experience and and buried entry and how you introduce someone to your game, which I will talk more about in the future. It's it's an important topic. But let me leave on this idea about piggybacking that's very important, which is here. These are the four questions I asked in my article, so I will repeat them to you.</v>
+
+00:29:14.960 --> 00:29:20.920
+<v Speaker 1>When choosing how to represent an element of the game, did you choose the item that best epitomizes what is most important about that element?</v>
+
+00:29:21.630 --> 00:29:36.660
+<v Speaker 1>So the idea is you can't represent everything. I mean, every once in a while you design to a flavor, and then maybe you're representing a lot. But if you have a mechanic and you're trying to find the flavor for it, the key is making sure that</v>
+
+00:29:37.920 --> 00:29:53.370
+<v Speaker 1>you are playing up. When you're trying to pick a flavor to match your mechanic, make sure you're playing up what the mechanic what, what's key to the mechanic. So you're picking flavor that matches most. You know, George Fan felt like the most important thing about his defenses. As he couldn't move, he picked plants.</v>
+
+00:29:54.110 --> 00:29:58.200
+<v Speaker 1>That's important, you know, figure out what matters and make sure that you do that</v>
+
+00:29:58.850 --> 00:30:20.830
+<v Speaker 1>#2 if you're unable to capture everything, did you prioritize the one thing that confuses players? So meaning if the goal of piggybacking is to make things easier for people and get them over the hump of understanding, that is where you need to apply your piggybacking. Meaning if there's four things to learn and one to the confusing thing, piggy back that thing. Use knowledge to help the thing that we're going to have the hardest time with</v>
+
+00:30:21.810 --> 00:30:49.100
+<v Speaker 1>next. Do the different elements of your game piggyback together? So not only do things piggyback by themselves, but you can join them together. The example I gave in the article was with Scars, where I was trying to get a feel for the fractions. I used the metaphor of disease, and by using that, both infect and proliferate played into the same disease metaphor. And they work together, and they work together synergistically. That it gave the overall Phyrexian of very strong feel.</v>
+
+00:30:50.540 --> 00:31:02.110
+<v Speaker 1>And then I was piggybacking on the sense of disease. I was choosing words of play into the concept. You infect, you proliferate. That I was playing into disease words to try to get across what I wanted.</v>
+
+00:31:03.680 --> 00:31:08.970
+<v Speaker 1>And finally, have you allowed piggybacking to impact your design? And what that means is</v>
+
+00:31:10.690 --> 00:31:17.640
+<v Speaker 1>you have a hard work ahead of you. The task as a game designer to get someone to to experience and enjoy your game is a tough one.</v>
+
+00:31:18.400 --> 00:31:24.670
+<v Speaker 1>Piggybacking is a very valuable tool. Use your audience's knowledge to your advantage.</v>
+
+00:31:25.550 --> 00:31:45.780
+<v Speaker 1>You don't have to teach them everything. If you take things they already know, you have less teaching to do, which means they're closer to the getting to experience and enjoy. OK and that my little wrap up is the today's talk on piggybacking so I hope you guys enjoyed it. I like to do technical in some time to time.</v>
+
+00:31:47.020 --> 00:31:57.560
+<v Speaker 1>So anyway, now it's time for me to use my skills because it's time for me to go make and magic. Talk to you guys next time. Bye bye.</v>
+

@@ -1,0 +1,338 @@
+WEBVTT
+
+00:00:01.280 --> 00:00:16.730
+<v Speaker 1>OK so I'm pulling out of my driveway. We all know what that means. It's time for another drive to work. OK so last week I started talking about the design of Champions of Kamigawa but I didn't finish so this week I will continue.</v>
+
+00:00:17.350 --> 00:00:32.000
+<v Speaker 1>So when last we left, our intrepid design team had was working on bringing to life a world inspired by Japanese flavor. And last week I talked about how they had come up with Soulshift and Bushido,</v>
+
+00:00:33.020 --> 00:00:55.250
+<v Speaker 1>but they really were trying to find an identity for the set. And when I got handed over to development. So as I mentioned last week, although I'm credited in the designs, I was not on the design team. I just came up with the spice mechanic, which I'll get to today, and was given credit on the design team. I was actually, though, on the development team. So the development teams run by Randy Bueller,</v>
+
+00:00:57.200 --> 00:00:58.090
+<v Speaker 1>and</v>
+
+00:00:59.280 --> 00:01:04.070
+<v Speaker 1>it was a very interesting development team because the set, when it came in,</v>
+
+00:01:05.460 --> 00:01:13.200
+<v Speaker 1>was in a rough place. As I explained last week, the set decided to try to do something interesting.</v>
+
+00:01:14.270 --> 00:01:25.580
+<v Speaker 1>It started by making all the creative 1st and then it went to build the design around the creative. But the problem is I explained last week, is</v>
+
+00:01:26.380 --> 00:01:28.560
+<v Speaker 1>design just a lot more flexible.</v>
+
+00:01:29.220 --> 00:01:49.790
+<v Speaker 1>I'm sorry, creative flavors a lot more flexible than mechanics. You know, mechanics don't have have the nuance that you can get with flavor. And So what happened was a lot of the design got a little ham fisted. It's like, oh, there's samurais, OK, There's a samurai mechanic, OK, there's spirits, there's a spirit mechanic and, and everything sort of</v>
+
+00:01:51.130 --> 00:02:01.360
+<v Speaker 1>because one of the things now, one of the things that I try to do in in modern sort of design is that I feel the play of the game is part of the flavor.</v>
+
+00:02:02.090 --> 00:02:31.880
+<v Speaker 1>That one of the things I was very happy in industry Rod was industrial was about recreating a sense of, of, of gothic horror. And emotionally I wanted, I feel dread that I wanted you to be scared. I wanted your moments where you were worried about things. And so the design, the said definitely like for example, the werewolf mechanics, a perfect example where I put this thing out, you know, this thing, if it ever flips is going to be really problematic for you.</v>
+
+00:02:32.000 --> 00:02:53.550
+<v Speaker 1>And but you don't know when it's gonna flip. So there's this suspense, right? The mechanic built into it made you kind of worry about it because you knew something bad was going to happen, but he didn't quite know when. And so you were fighting to stop it, but you didn't quite know when it was going to happen. And there's a lot of other things we did, but we were trying to create a feel. The problem here was that</v>
+
+00:02:55.280 --> 00:03:25.550
+<v Speaker 1>it's hard to create the field the the way we now do sort of top down is we we've gathered a bunch of the flavor and a bunch of mechanics that keeps her going back and forth to try to make it right. We don't lock ourselves into one thing in flavor and go, well, find whatever mechanics you can. No, it's like, OK, we got to figure out how best to represent it and what was going on There was is like we have samurai. Well, how do you represent samurai? The good fighters, OK, give them fight mechanic. But did the samurai did the play of the samurai</v>
+
+00:03:25.680 --> 00:03:42.700
+<v Speaker 1>Violet them right? I mean, they felt like good fighters. But one of the big things of samurai sense of honor. And I mean there's a lot that goes to samurai beyond just they fight. And it kind of got boiled down to the simplest version so they could make a mechanic for it. And I think one of the things that come and go ahead is</v>
+
+00:03:44.240 --> 00:04:10.920
+<v Speaker 1>a lot of the sense you get. I mean, one of the things that's nice about hitting a real culture is there are feelings and senses that culture will bring up. And I don't think this set did it. I mean, now to Brian Tinsman defense, he did try to do some stuff to have some of that feel, but it didn't match the flavor they were going for. And the flavor they did go for was something that, while very accurately Japanese, was a little more foreign to most of the audience.</v>
+
+00:04:11.650 --> 00:04:18.580
+<v Speaker 1>OK, so the the set came to development. It it really had some identity problems. In fact,</v>
+
+00:04:19.880 --> 00:04:47.380
+<v Speaker 1>I mean, one one I was a thorn in Randy side because one one of my messages was the set didn't know what it was, you know, and Randy would say, oh, it's the Japanese set. I go, no, that's that's but it didn't it didn't have a real sense of what it was trying to do, especially mechanically. You know, mechanic is like, oh, well, this matters and that matters and this matters. And like, yeah, all those things tie into, but what's the feel? What are we trying to do?</v>
+
+00:04:48.380 --> 00:04:54.700
+<v Speaker 1>And so we went back and forth on that, on what exactly is the field asset. So</v>
+
+00:04:58.620 --> 00:04:59.130
+<v Speaker 1>sorry,</v>
+
+00:05:00.400 --> 00:05:15.890
+<v Speaker 1>must, must keep drinking. They wanna talk consistently. So first of all, we knew we were missing some mechanics. And second of all, we were missing a larger, greater feel. And I kept bringing it up. I kept saying to Randy, Randy, we have to commit to something. What is this said about</v>
+
+00:05:18.700 --> 00:05:48.770
+<v Speaker 1>and we kept jumping around what they said was about this that had a lot going on. I mean, you, you introduced to this world and this world got in a fight with the spirit world and there was this war between them. And you know, there are there are a lot of characters and it was definitely that had a lot going on. So the first thing that Randy really wanted to do was we needed some, we were, we were short on mechanics. And so I, I'd come up with mechanic a while ago and the idea of my mechanic, I don't even remember what I called it</v>
+
+00:05:48.990 --> 00:05:49.730
+<v Speaker 1>was,</v>
+
+00:05:51.430 --> 00:05:57.740
+<v Speaker 1>was the idea that you could graph things onto spells. Was my flavor was</v>
+
+00:06:00.170 --> 00:06:02.690
+<v Speaker 1>we had done stuff like buyback and kicker</v>
+
+00:06:03.890 --> 00:06:28.360
+<v Speaker 1>where the spell came with it, extra bonus like, oh, if you spend extra mana, you can get this additional ability. And the idea I had is I like that I said, well, what if we disconnect that from the spell? Meaning instead of that bonus being on the spell you're playing, that bonus sits in your graveyard or on your hand and you can use it on whatever you want. I think my original version, by the way,</v>
+
+00:06:29.680 --> 00:06:41.610
+<v Speaker 1>actually had a flashback feel to it, which was it allowed you to reuse things, I think originally from the graveyard. And then we decided that it was easier to have it in your hand.</v>
+
+00:06:42.820 --> 00:06:52.040
+<v Speaker 1>And so the idea was is for splice came from is well, we had a spell and you could splice that spell onto other spells.</v>
+
+00:06:53.580 --> 00:06:59.590
+<v Speaker 1>Now we ended up making our cane, which was a subset of spells that you unique to this set.</v>
+
+00:07:01.080 --> 00:07:03.940
+<v Speaker 1>And I think I think our cameras just on instance in sorceries</v>
+
+00:07:06.850 --> 00:07:10.120
+<v Speaker 1>later on in the design kind of two later in the development</v>
+
+00:07:12.170 --> 00:07:30.140
+<v Speaker 1>kind of too late to actually test properly. We came up with the idea of splice into instant or splice under sorcery because one of the problems was placed under arcane is talk about parasitic like I can splice onto this subset of of spells. This subset of spells exist solely in this set.</v>
+
+00:07:31.780 --> 00:07:46.090
+<v Speaker 1>Now, I was happy with Splice for Limited because I think it actually played very interestingly and I think I think placed a lot of fun things for for Kamigawa Limited. And for what it's worth, by the way, for as much as I might rag a little bit on Kumagawa,</v>
+
+00:07:47.940 --> 00:07:58.910
+<v Speaker 1>I mean, I think the design has some issues. I do think the actual limited plays is actually pretty good, especially for today was pretty good. There were some problems and I'll get to some of the problems, but</v>
+
+00:08:00.730 --> 00:08:30.700
+<v Speaker 1>I think those that showing the most isn't limited. And the reason is one that sets problems was how parasitic it was. Once again, parasitic means it relied on other cards only in this set, but in limited it doesn't matter. You're pathetic. Well, all the cars you're playing with it from the set. So that stuff didn't matter. And constructed and casual formats it did matter because like, oh, I want to play splice. Well, I have to make a deck of nothing but this set. And one of the problems we've had, we had for a long time is what we call the block monster problem. So one of the things we used to do</v>
+
+00:08:32.930 --> 00:09:02.320
+<v Speaker 1>is, I mean, we still do this, but we used to every year it has a different theme to it. And we we used to do is we would starve the theme right before it. So if you're going to do gold cards, no gold cards would show up first set or two before you're going to do artifacts. No artifacts show up for a set of two. You know, we would starve whatever it is we were going to do. And what we ended up doing with that, with the big flaw to that plan was you ended up with sets in which, well, the set before me had nothing to add and the set, you know, so like</v>
+
+00:09:02.470 --> 00:09:24.750
+<v Speaker 1>you, the the set will become so strong and just have its own block that it would become a monster called block monster. A even cause problems in the block construction format. But also it standard you want the you know, the reason have two, two years is they have this two years mixed together. And our themes were so strong and we were pulling them away that we weren't making it easy for things to go together.</v>
+
+00:09:25.990 --> 00:09:49.940
+<v Speaker 1>Now we do a lot differently. I mean, now we're very conscious of what's coming. And in fact, we try to make sure there's some overlap, that OHH was some things from year one that year 2 will want and that, you know, it'll create some, some synergy between them. And then year two and three have something different than matter. So you're 2 is something else the year 1 doesn't care about, year 3 will care about. And that's how you keep standard fresh is make sure that the blocks sitting next to each other have some synergy with each other.</v>
+
+00:09:51.310 --> 00:09:57.970
+<v Speaker 1>OK, so we made splice. I pitch it to Randy. Randy liked it. We put in the file. We ended up making our arcane.</v>
+
+00:10:00.560 --> 00:10:31.390
+<v Speaker 1>We also we also push what we call spirit craft. The original design had some of this, but we, we, we weighed notched it up, which is kind of spirit matters. So we had a lot more cards that rotated around spirits. I mean, obviously the design team eternal soul shift, which very much hit about spirits, but we we made more of like into the play and count spirits and, and things that did well in play count and spirits. We just, we, we call it the spirit craft. If that wasn't an actual name. So what happens sometimes is the set has, I mean, a mechanic has a name and it's on the card.</v>
+
+00:10:31.780 --> 00:10:55.450
+<v Speaker 1>So that's a keyword mechanic. Sometimes we put a name with it, but it's not, it's not a keyword and we call that an ability word. Also, sometimes we have an ability action, which is like a verb that's a keyword, but it's a verb rather than a noun. And that's it's used in sentences like transform from an instructor was a was an action word. If you have the action word, ability word.</v>
+
+00:10:57.470 --> 00:11:05.140
+<v Speaker 1>But sometimes we have nicknames for things. We don't officially call them that, but we like in all our writing refer to it. So we call that Spirit of Craft.</v>
+
+00:11:06.740 --> 00:11:08.840
+<v Speaker 1>OK, next the flip cards</v>
+
+00:11:09.440 --> 00:11:24.430
+<v Speaker 1>and I flipped cars. I do mean flip cards, which is funny because when people talk about the double faced industrial cards, they sometimes called flip cards and I say, well, not exactly. They're not flip cards. These are flip cards. So we'll flip cards are are cards that come into play one side up and then if you do a certain condition,</v>
+
+00:11:26.450 --> 00:11:29.200
+<v Speaker 1>you flip them upside down and then there are a different car.</v>
+
+00:11:31.000 --> 00:11:31.620
+<v Speaker 1>So</v>
+
+00:11:32.510 --> 00:12:00.930
+<v Speaker 1>the idea was pretty simple, which was we were trying to do some more storytelling and we liked the idea of of these heroes that turned into champion, sort of the became, you know, powerful characters. And so they would start out simple. I think the way a lot of them is they weren't even a legend yet and they flip into legends. I'll get to a legendary thing in a second. So we're flip things came about. So I did a card in Unglued Tooth that never got released called Heads Up Tailspin.</v>
+
+00:12:02.290 --> 00:12:31.840
+<v Speaker 1>And the way the car worked was there was a tiny sliver piece of art at the top, rather half the size of a normal piece of art, then the text box. Then on the other side there was another sliver art. And so the text box was split in half. So if you've had the card up one way, it's called heads up. And then if the positive thing for your creatures, and then the other way is called tailspin and you flip the card upside down, then that arm was faced up and that rules text was face up. And then you flip a coin in return and either you get heads up a tailspin as was the idea.</v>
+
+00:12:34.000 --> 00:12:55.750
+<v Speaker 1>I mean, the real innovation of the card was the idea that was 2 cards that you went back and forth between the states. So what we did here was a couple things were different. One, we talked to the art director who the time was, I believe Jeremy Cranford. And Jeremy liked the idea of instead of having two unique pieces of art because he thought it was just hard to have such a small piece of art.</v>
+
+00:12:56.870 --> 00:13:25.390
+<v Speaker 1>He suggested having one piece of art, but in which you have two images that when you flip it up 1, you know, one image pulls your focus one way, one image pull your focus the other way. That they were sort of two pictures melded together, but the artists would know that they were being one giant picture that had some success. One of the things we ended up going to Double faced Cards industry Rod was having 2 clear distinctly different pictures. I think proved made a lot easier to sort of get the differences between the thing.</v>
+
+00:13:27.490 --> 00:13:33.190
+<v Speaker 1>Flipkart is also were very limited amount of space. You had to write the words just because you had half a text box.</v>
+
+00:13:35.450 --> 00:14:03.590
+<v Speaker 1>I know Richard was also involved in making these cars. Richard, I don't think wasn't on the design team, development team, but he was somebody who was around we would talk to and, and I, I think some of the execution flipcards Richard came up with, I think Richard was the one that said, look, they start in one state and they go to the second state and they never come back. That way. It's clear because heads up in tailspin and went back and forth. And the problem with going back and forth was we were afraid, especially in the car is like, for example,</v>
+
+00:14:04.950 --> 00:14:22.330
+<v Speaker 1>Flipkart is also the problem When you attacked them, well, which orientation were they? Which one were like, it just became hard to remember which was which. But Richard thing was if they go back and forth, it's even harder to remember. If they they just go one way, well, you have to remember that switched or not. You know, if it did, then you know that it's one thing and that would help.</v>
+
+00:14:26.820 --> 00:14:29.010
+<v Speaker 1>The other big theme that development brought into it</v>
+
+00:14:30.020 --> 00:15:00.930
+<v Speaker 1>was we knew that we'd wanted to play up legendary characters a little more. And so the development team definitely played that up some. But in in that design team. But in development, one of the things I kept saying around is what's said about and Randy would say, well, it's a war. I go was a war, then we should play out the two sides of the war, you know, have each side represented and have probably a mechanical identity for each side. And so Randy said, well, maybe it's not about a war. Maybe it's about the legendary characters. And I said, OK, well,</v>
+
+00:15:01.010 --> 00:15:18.090
+<v Speaker 1>about legendary characters, and you have a lot of legendary characters. And that's when I pitched the idea of all the rare creatures being legendary creatures, as well as a bunch of uncommon creatures being legendary creatures. I was like, well, if you're going to do it, it's going to be your theme. You, you kind of have to really make it your theme.</v>
+
+00:15:18.740 --> 00:15:49.490
+<v Speaker 1>So one of my favorite things that I've said, in fact, it came from this, I learned my lesson from this very set, which is one of my themes. One of my little truisms about design is magic design is if your theme, isn't it common? It's not your theme. And what I learned from this set was that it's, it's fine and dandy to say, here's my theme. But if you don't play the set and get the theme and the vast, vast majority of the games you play, then it is your theme. You know, look, we did this legendary theme,</v>
+
+00:15:49.580 --> 00:15:50.510
+<v Speaker 1>but you could open up</v>
+
+00:15:51.350 --> 00:16:24.940
+<v Speaker 1>10 packs and never see a legend. You know, I mean, maybe 5 packs, never see a legend. I guess all the rare creatures, eventually you'll see one. But, and even if you open up 10 packs and you saw one or two legends, you know, let's say open up 10 packs and got a couple of rare legends, well, fine, maybe happening a couple of legends. It didn't, it's hard to communicate. All the rare creatures are legends. That's really, really hard to communicate. In fact, it's, it's, it pretty much is impossible to communicate in a booster pack. And so we kind of set ourselves up to do something that wasn't going to be noticeable in a way it needed to be noticed. I mean, we talked about it,</v>
+
+00:16:27.470 --> 00:16:56.890
+<v Speaker 1>the other big mistake we made with legends or something that's that's our special. You know, legends are something that people really like. The reason we wanted to use them was there something that was, you know, something people loved, Which is interesting because the legendary mechanic mostly, and the commander didn't exist yet at the time. It was mostly just a drawback. It just said you couldn't play with all of them. Now, yeah, development got to give it a little tiny bit of boost. Not as much as people think, but people thought of legends as being cool. And the problem with doing all your rare,</v>
+
+00:16:56.970 --> 00:17:27.790
+<v Speaker 1>which is being legends, is all them can't be cool. Some of them have to suck. It's the nature of the beast that, you know, Yeah, you have some good cards. You have some bad cards. And we guarantee that we'd make some really bad legends. Yeah, we made some really good legends, but we made some really bad legends. And that kind of undercut the whole idea in general of legends are cool. And that's another big lesson. There is A, if you think that comment is not your theme, and B, be careful. You know, things people love is a resource</v>
+
+00:17:27.880 --> 00:17:30.870
+<v Speaker 1>and use it accordingly. You know, don't waste it.</v>
+
+00:17:31.750 --> 00:17:38.310
+<v Speaker 1>If people really love something, you have to dole it out and be careful because if you don't, then you make the thing less valuable to people.</v>
+
+00:17:40.610 --> 00:18:04.510
+<v Speaker 1>And and and and important, really important part of trading card game design is you only have so many resources. You have to you have to use them carefully. You you can't sort of waste them because every time you waste one, you're just down on resources. If they have to go find more resources, then there's things to find in magic, but it's not an endless supply. You know, we have to manage our resources to a lot of do magic correctly is reusing the resources.</v>
+
+00:18:05.640 --> 00:18:35.650
+<v Speaker 1>OK, what else did we do other small things we did so before this. So part of making the legendary thing work is we change how the legendary rules work. Now recently we've again changed. So let me walk you through a legendary rules real quick. So when legends when legends is that legends came out and introduced a creature type called legends. So literally in legends there were creature legends. Now they all have to be gold cards. And interestingly, Legends was</v>
+
+00:18:35.720 --> 00:18:44.200
+<v Speaker 1>first set with gold cards and the first set with legendary creatures. And all the legend creatures were gold cards and all gold cards with legendary creatures. Pretty splashy actually.</v>
+
+00:18:45.820 --> 00:18:52.330
+<v Speaker 1>And so the rule in the beginning was you may only have one creature. Only one creature could be in play at a time</v>
+
+00:18:55.070 --> 00:19:06.280
+<v Speaker 1>and So what happened was let's say you and I were playing the same legend. Ohh. An early on, by the way, legends were on the restricted list. Every single legend was on the restricted list, meaning you can only play with one of them in your.</v>
+
+00:19:08.390 --> 00:19:10.440
+<v Speaker 1>And so the original rule was</v>
+
+00:19:12.970 --> 00:19:33.370
+<v Speaker 1>once the legends in play, no other version can be played. So if I happen to get a legend in play, then you're stuck. You're that's it. You're a legend's dead. You can do nothing. And it made legend, it very made for that game play. And so we were very shy about pushing legends because the gameplay was bad. Like we didn't want to make one good enough that both sides have to play it. And and we we did make the mistake</v>
+
+00:19:34.540 --> 00:19:48.390
+<v Speaker 1>here is the signed, for example, had legendary lands that were very powerful. And in fact, here's how crazy the rule was. So talented Academy was this powerhouse card people would put legendary outside, would put to learn Academy in their deck,</v>
+
+00:19:49.080 --> 00:20:01.090
+<v Speaker 1>not even have Blue Man or blue spells to use with it, or even artifacts to fuel it. It was in solely because if they could play it before you play it it they just shut yours off because you couldn't play yours.</v>
+
+00:20:01.850 --> 00:20:12.310
+<v Speaker 1>Decks that could not play it, that could not use it, played it merely as a a countermeasure to to Tolarian Academy played by people who wanted to play them.</v>
+
+00:20:13.160 --> 00:20:43.330
+<v Speaker 1>I mean, it's crazy. The card was, but that that's kind of silly like so we decided that, I mean, we eventually got rid of it being on the restricted list. You gives many legends as you want and to make better game play, we came up with the idea of just reversing how it worked because for a long time what happened was legends worked one way and world enchantments that had a similar flavor. So world enchantments, or as they were called originally in legends as well, enchant worlds would be an enchantment and it would affect affect the game state. Either</v>
+
+00:20:43.410 --> 00:20:51.320
+<v Speaker 1>the flavor was you were on a different plane. And then when a new enchant world came in, the old one would go away and the new one would be dominant and said, look, now you're here.</v>
+
+00:20:52.090 --> 00:21:21.900
+<v Speaker 1>And we realized that that was more dynamic play because it said, if I hadn't changed world in my hand, I can cast it, you know, And it became a vulnerability for the previous enchant world, but allowed you to play them. We're legends. If I had a legend in my hand and you already want to play, it was just a dead card. So we decided we were going to change our legends so that instead of the second legend just not being able to come and play, it would come and play and then destroy the first one. So the reason your clan Academy became good, if your opponent turn</v>
+
+00:21:21.980 --> 00:21:24.620
+<v Speaker 1>Jimmy was you can use yours to destroy theirs.</v>
+
+00:21:25.730 --> 00:21:29.680
+<v Speaker 1>And that proved to be, we thought, better game play. So we made that change.</v>
+
+00:21:30.350 --> 00:21:59.840
+<v Speaker 1>I mean, obviously, you know, come magic 2014, we make another chain to the legendary role, but we'll get there later. Not really today's issue. So one of the things we did is OK, so legendary. Well, First off, we at this set, or maybe right before, maybe in the maybe in the, I'm not sure whether it changed with this, that or the force that room for I guess it must have changed with this set. We did a couple of things. So legend there was no longer creature type. We got rid of the legend creature type</v>
+
+00:22:00.620 --> 00:22:03.150
+<v Speaker 1>and we moved it to legendary. So we made it a super tight,</v>
+
+00:22:04.400 --> 00:22:14.070
+<v Speaker 1>which made a lot more sense because we wanted to have legendary things. We wanted to have legendary artifacts legendary, you know we wanted other legendary things</v>
+
+00:22:15.700 --> 00:22:45.650
+<v Speaker 1>interesting. Interestingly, the way it worked was why I'm saying this a little bit wrong We had legendary things, but creatures weren't legendary and like well this is weird why these things line up are supposed to work the same and some say legendary super type and some have it as a creature type anyway. So we said, OK, they're all legendary, everything legendary. And the other thing we did is because legend legends, there were two creature types that carried rules baggage on them. One with legends because</v>
+
+00:22:45.720 --> 00:22:48.380
+<v Speaker 1>they have the legendary role. And yeah, there was wall,</v>
+
+00:22:50.060 --> 00:22:55.950
+<v Speaker 1>because at the time, if you had wall on you, if your creature was wall, you automatically couldn't attack.</v>
+
+00:22:58.620 --> 00:23:11.410
+<v Speaker 1>So what we did with Kamigawa was we changed it so that defender became an ability. We retroactively gave all walls defender and promised that all walls would have defender, but then said that wall no longer carried any baggage.</v>
+
+00:23:13.170 --> 00:23:13.690
+<v Speaker 1>So</v>
+
+00:23:15.640 --> 00:23:16.650
+<v Speaker 1>anyway, that would,</v>
+
+00:23:18.000 --> 00:23:47.540
+<v Speaker 1>it's funny because the previous year, a couple years before, we had done a called Mistform Ultimus, which had all the creature types and then it had to have the car tax. It can attack as though it wasn't a wall because we thought it was cooler to have all of them rather than have all but wall. And so we sort of said it has all. And then it said, well, but ignore the wall rules. And then when this change, we just take that off in Oracle. It just it had all the creature types. OK. So those are the key changes that we made.</v>
+
+00:23:49.330 --> 00:24:01.280
+<v Speaker 1>And like I said, a lot of we spent a lot of time in development working on limited trying to give them the set and identity. Oh, something else I want to talk about, which I think was one of the failings of the set</v>
+
+00:24:03.170 --> 00:24:16.240
+<v Speaker 1>and it had to do with the names. Um, I might or what Brandon was up to Brandon Bozzi, the name of flavor text and that he was trying hard to give the set a real strong feel. And I think he did do that. I I think that</v>
+
+00:24:18.920 --> 00:24:48.790
+<v Speaker 1>I think the the plus on the native text was they didn't have a Japanese feel. The downside was that one of the points of names and flavor text is as hand holds for recognition. You know that a car has a lot going on, but if you can anchor all the idea, the card in a singular name that people can share, then you have a concept people can talk about. And names do a lot of important work. They names not only help you remember a card once you know it,</v>
+
+00:24:48.880 --> 00:25:03.410
+<v Speaker 1>but they also help me figure out what a card is. That you don't really think about this. But names sound different. And one of the problems with Chamagua was for the first time, we really didn't do that, that the names had enough of a foreignness that, you know,</v>
+
+00:25:04.450 --> 00:25:34.260
+<v Speaker 1>I mean, the classic example was counsel of the Soratami, OK, because we actually had this in a corset for a while and it caused a little bit of problems, which is what card type is council of the Sorato Amy, you know, and what we found was, well, it depended on how you spelled the word counsel, you know, like it didn't like. I obviously, if you understood that, well, you know, COUNCIL is a group of people and Co UNCL is advice given by somebody, you know, But the problem is you would hear the name go console Sorani and you're like,</v>
+
+00:25:34.350 --> 00:25:41.250
+<v Speaker 1>Ohh, I guess the story Tommy got together and like, Oh, no, no, no, it's it's the advice of the commentary who are telling you, Hey, you get 2 cards,</v>
+
+00:25:42.960 --> 00:25:55.390
+<v Speaker 1>you know, and that the set literally, I I didn't do this. But if I just started calling off names, you know, especially lesser known cards, cards that didn't end up being constructed and said, OK, name this card type.</v>
+
+00:25:56.020 --> 00:26:00.790
+<v Speaker 1>Kamigawa would do the worst of if any said I can remember of you being able to identify the card type.</v>
+
+00:26:01.520 --> 00:26:31.950
+<v Speaker 1>You know, usually, for example, you know, instance or verbs, like you see a verb that goes that's an instant. You know, sorcerer's instance of verbs and enchantments are nouns and artifacts are things. And and the problems come gobble. Was it was trying to be, you know, you know who suffers? Who suffers? Well, OK, it suffers. Oh, does that mean making memes? By the way, that was an extra car. But it's anything like it suffers. Well, okay, guesses the creature because only creature suffer. But then it's like, Oh, no, it's an artifact</v>
+
+00:26:32.020 --> 00:27:01.940
+<v Speaker 1>that that it suffers, you know, thematically. And then the set had a lot of stuff like that where like you just you couldn't. And one of the things you'll notice is as evidence, one friend explained is people were famously bad at remembering the names of the cards from Chems Kamigawa that just like, oh, what's that name again? What's that name? Because it didn't have a hand holds to remember. And that's, by the way, real quickly. I mean, I did a whole podcast with Matt Cavotta about no, I haven't done names yet. We did one of flavor attacks, but,</v>
+
+00:27:02.030 --> 00:27:31.960
+<v Speaker 1>and I will do one what names one of our future carpools. So one of the things about names, little preview of what you'll hear us talk about is the names of all this function and that a lot of what goes on in the creative on the surface looks like you're just trying to make things look pretty, if you will. But there's a lot of functionality, a lot of the rules of the name and the art are helping people shortcut and identify what it is they're using. And when you start mudding that up, you start realizing that, wow,</v>
+
+00:27:32.040 --> 00:27:42.720
+<v Speaker 1>it's hard to remember. There's a lot of cards to remember. And that without the little sort of numonics of the creative to help you, it becomes very hard. And this was just I think we're creative,</v>
+
+00:27:43.990 --> 00:27:49.650
+<v Speaker 1>especially in the in the name names sort of fell down a little bit and that in that role.</v>
+
+00:27:50.540 --> 00:27:56.520
+<v Speaker 1>OK, so I'm almost to work. So this is going to be at least the three-part because I have a whole bunch of cards I want to talk about.</v>
+
+00:27:57.900 --> 00:27:58.360
+<v Speaker 1>But</v>
+
+00:27:59.140 --> 00:28:11.940
+<v Speaker 1>so here's I'm going to do since I've I have a few minutes after work, I'm going to start by talking about a few of the cards as a little lead in to next week. So a little little taste to make you come back. OK, so we're going with the brothers Yazami.</v>
+
+00:28:13.910 --> 00:28:43.220
+<v Speaker 1>So yeah. Yeah. Marky, Marky Marky Brothers Yamaki. Sorry. Than that. Like I said, these are names are hard to remember. So I had an idea that wouldn't be cool. We thought it would be legendary creatures. And I said wouldn't it be cool to have a legendary set of identical twins? And I thought this was an awesome idea. Like we have a card and the card, you know, there's two of them and that you can have two of them in play. And then we said, you know, it's even better than that. It represents twin brothers. We'll have two copies of the card, one with each picture.</v>
+
+00:28:43.520 --> 00:28:55.650
+<v Speaker 1>So it turns out for those that don't understand how Magic cards are made, I don't know great detail, but basically there's a large sheet. We print a large sheet because that's how you print things, and then we chop them up into cards.</v>
+
+00:28:57.110 --> 00:29:15.430
+<v Speaker 1>And so the way it normally works is each rarity has a sheet that's its own she there's a common sheet and an uncommon sheet and a rare sheet. And the one thing at the time I didn't really appreciate was, well, how exactly do you get 2 pieces of two images on a rare card? And the problem was in order to do that,</v>
+
+00:29:16.760 --> 00:29:45.930
+<v Speaker 1>you had to have a separate sheet with a separate picture. So unbeknownst to me, who just on a whim, like on a whim said, ohh, would it be cool that their brothers and their twins, you got two of them and there's two pieces of art. We ended up doing two different rare sheets solely for this one thing, which which obviously had no idea and the cost us a lot of money. I didn't realize this was much, much later than like my random idea that I thought was just cool. And maybe it was cool, but it was</v>
+
+00:29:46.760 --> 00:30:08.120
+<v Speaker 1>he's one of the might be the most expensive idea I've had as far as here's the card idea. Let's execute that because it ended up being cut costly and and the problem at the time was, I mean, weren't much better. Now is I had a great idea, but I had no idea how the printing worked. Printing said, OK, I guess that's what they need and never questioned what we were doing then. You know, pretty never said really that you want to do for that. Like, OK, you want to do it.</v>
+
+00:30:09.420 --> 00:30:40.230
+<v Speaker 1>And like I said, I think that that the general flavour was cool. I mean, we had a legendary theme. So we definitely were playing around with the idea that we wanted to goof with legends and do different things with legends that we've done before. And as I go through the cards next week, you'll see there's a bunch of legendary things that we're doing. Anyway, that was just a teaser, a teaser of the kind of stories you will learn next week because I'm here at work and I must I must go and do do my thing. But I want to just give a little teaser of next week is going to be</v>
+
+00:30:40.310 --> 00:30:40.750
+<v Speaker 1>about</v>
+
+00:30:42.290 --> 00:31:11.940
+<v Speaker 1>the cards. One of the things I'm trying to do in my design podcast is at least spend one podcast talking about actual card stories. And I felt like there were some fun stories to tell the brothers Yamaka you one of them. But next week I will tell you I have many more have a whole sheet work maybe more than one podcast. I'm not sure at least one podcast. So make sure to join me next week. You'll hear about some champions cougar cards. And anyway, it was fun</v>
+
+00:31:12.030 --> 00:31:15.570
+<v Speaker 1>talking today. But you know what guys? It's time to go and make the magic.</v>
+

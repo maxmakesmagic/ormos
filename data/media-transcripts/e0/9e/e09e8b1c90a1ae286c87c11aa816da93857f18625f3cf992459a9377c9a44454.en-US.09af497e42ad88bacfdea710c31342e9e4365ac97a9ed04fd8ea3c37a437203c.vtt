@@ -1,0 +1,971 @@
+WEBVTT
+
+00:00:03.110 --> 00:00:23.010
+<v Speaker 1>Hello and welcome to episode 3 of the Daily MTG Podcast. I'm your host Trick Jarrett here on the new recording rig, along with my Co hosts Tifa mine and Mike Robles and our special guest Monty Ashley, the author of every, well, almost every Arcana you've ever read. You are the magic web producer, right?</v>
+
+00:00:23.090 --> 00:00:26.640
+<v Speaker 2>I am in the magic web producer. I'm exactly like a mystical spider.</v>
+
+00:00:27.550 --> 00:00:28.820
+<v Speaker 1>Of the web.</v>
+
+00:00:29.350 --> 00:00:30.020
+<v Speaker 2>Sure.</v>
+
+00:00:30.640 --> 00:00:31.020
+<v Speaker 1>Sure.</v>
+
+00:00:31.030 --> 00:00:32.750
+<v Speaker 3>Produces magic webs.</v>
+
+00:00:33.160 --> 00:00:40.510
+<v Speaker 1>Monty and I work really closely together throughout the week, making daily MTG happen. You know, it's we. We yell at each other quite frequently.</v>
+
+00:00:40.580 --> 00:00:48.230
+<v Speaker 2>We don't yell, we stand close to each other and talk in very intense voices and point our fingers inches from each other space.</v>
+
+00:00:48.280 --> 00:00:48.820
+<v Speaker 1>But it's not</v>
+
+00:00:50.410 --> 00:00:57.820
+<v Speaker 1>chief is witness. She sees the the the brutality as it happens in the office. But how are you guys doing? How's everyone Tifa? How you doing? I'm.</v>
+
+00:00:57.830 --> 00:01:05.620
+<v Speaker 4>Good, good. I had a great weekend. I drafted RTR multiple times and only lost two matches.</v>
+
+00:01:06.250 --> 00:01:07.000
+<v Speaker 1>Such a spike.</v>
+
+00:01:07.060 --> 00:01:07.580
+<v Speaker 4>Drafted 3.</v>
+
+00:01:07.590 --> 00:01:10.470
+<v Speaker 1>Times, Yeah. Nice. Mike, how you doing?</v>
+
+00:01:10.510 --> 00:01:14.710
+<v Speaker 3>I'm good. Today is the start of the 2012 Magic Online community.</v>
+
+00:01:14.720 --> 00:01:14.980
+<v Speaker 1>Club.</v>
+
+00:01:15.470 --> 00:01:20.430
+<v Speaker 3>And even though this will come out next week and it'll be over, it started today as as we recording right now,</v>
+
+00:01:20.500 --> 00:01:27.020
+<v Speaker 3>the cube draft is going on and I got to watch the cube draft and I'm just, I'm excited like everything I've been working towards here came to a head today.</v>
+
+00:01:27.030 --> 00:01:48.920
+<v Speaker 1>It's really awesome. We're going to talk more about it coming up. So hopefully you guys got to follow the coverage live because this is the first year we're doing live coverage, which was now of course archived coverage. But particularly of interest is, is that a few weeks ago for you all? A week ago for us was the pro Tour here in Seattle. We have pro tour return to Ravnica now. Who got to go? I know I was there working coverage.</v>
+
+00:01:49.790 --> 00:01:50.480
+<v Speaker 4>I got</v>
+
+00:01:50.550 --> 00:01:53.070
+<v Speaker 4>to watch coverage live.</v>
+
+00:01:53.800 --> 00:01:54.650
+<v Speaker 1>Mike or Monty?</v>
+
+00:01:55.220 --> 00:02:03.730
+<v Speaker 2>No, I went to pro tours for about 6 solid years so I decided to stop going to them unless I was actually working at them.</v>
+
+00:02:03.920 --> 00:02:08.300
+<v Speaker 1>Now, you've actually been at Wizards for, like, forever, 15 years. 15 years, yeah.</v>
+
+00:02:09.520 --> 00:02:11.080
+<v Speaker 2>I started in 1997.</v>
+
+00:02:11.090 --> 00:02:14.270
+<v Speaker 1>So were you doing pro tours at that point or was that later in your career?</v>
+
+00:02:14.280 --> 00:02:18.670
+<v Speaker 2>Here in 1998 I became editor of Sideboard magazine Which?</v>
+
+00:02:18.680 --> 00:02:19.230
+<v Speaker 3>Was</v>
+
+00:02:20.620 --> 00:02:22.680
+<v Speaker 3>or had? I shouldn't say have I had copies of.</v>
+
+00:02:22.690 --> 00:02:32.850
+<v Speaker 2>Those that was the magazine about the tournament scene, the Pro Tour. So I had to go to every pro tour, starting with the Pro Tour in New York in 1998. That was John Finkel's first win</v>
+
+00:02:34.370 --> 00:02:45.310
+<v Speaker 2>and then I went to every Pro Tour, end US Nationals for the next 5 or 6 years until I was moved up a level and other people came in to be the editor of the magazine.</v>
+
+00:02:46.260 --> 00:02:52.510
+<v Speaker 1>But you didn't get to go this week into return around because, yeah, well, that seems fair. I mean, you put in your time.</v>
+
+00:02:53.000 --> 00:02:59.450
+<v Speaker 2>I had some valuable sitting around, plus there was coverage live on the Internet. That's practically like being.</v>
+
+00:02:59.460 --> 00:03:04.400
+<v Speaker 3>There, that is how I watched the Pro Tour. I did not go when I watched some coverage. Not a lot of coverage.</v>
+
+00:03:04.470 --> 00:03:06.710
+<v Speaker 3>How much? Some coverage, including the finals.</v>
+
+00:03:06.800 --> 00:03:25.630
+<v Speaker 1>Yeah, being chained to the desk for the entire event, I can tell you it was an awesome event. As as much as complaining there is, it's an amazingly diverse format. And where do you see events at that level where Jerry T and Brad Nelson bring the Nivmagus Elemental Kiln fiend deck?</v>
+
+00:03:27.480 --> 00:03:39.570
+<v Speaker 3>I was watching it and was like, oh, who you rooting for? Is like right now I'm rooting for Brad Nelson because that is a deck that I would come up with. I wouldn't come up with, but I was like it was such a crazy combo deck was and I was like that is like that is a man after my own heart with that deck.</v>
+
+00:03:39.740 --> 00:03:57.960
+<v Speaker 1>So NIV Magus Elemental is a rare from Returner Annika that when you cast an instant or sorcery, it gets a + 1 + 1 counter. Killfeed gets, you know, pumped plus 2 + O for every anytime you play an instant or sorcery. So the goal is to play these guys on one turn one or turn 2, swing for lethal within the next two</v>
+
+00:03:58.030 --> 00:04:09.610
+<v Speaker 1>turns by emptying your hand of instance or sorcery. Brad Nelson's round one wins. Here's how. One turn to kill you. Turn 4, concede. Turn 3 kill you.</v>
+
+00:04:10.400 --> 00:04:15.110
+<v Speaker 2>Turn 4 concede Just this game has gone on too long. I'm bored at this point. This ain't working.</v>
+
+00:04:16.420 --> 00:04:21.630
+<v Speaker 4>Deck that I heard being talked about the most among the people that were at the Pro Tour.</v>
+
+00:04:21.710 --> 00:04:47.020
+<v Speaker 1>That the first rounds of any constructed event are the ones where the coverage people are trying to find the stories. So we're like, what are the decks that are to be the breakouts? What's gonna surprise people? And this is one that we had heard about leading up to the event. Jerry T and Brad were both very candid. They like, look, this deck will win. It can beat everything except Jund. Yeah. And they're like, we need John to be less than 20% of the field for us to do as well as we hope to do. And unfortunately for them, Jund was 30% of the field.</v>
+
+00:04:47.110 --> 00:05:00.370
+<v Speaker 2>I can tell you from night my days on coverage that back when we did it, our hope was always that the best deck in the field was something very fast. What you want is a monored format where everybody's finished all their games in the 1st 20 minutes of the.</v>
+
+00:05:00.380 --> 00:05:17.630
+<v Speaker 1>Round gives you plenty of time for interviews and grab the decks and do deck techs. So that was the deck that started the conversation. But what really became the conversation over the event? Stanislav certificates Chase for history, where he went 15 and O decided to play around 16 in hopes of being like</v>
+
+00:05:17.700 --> 00:05:23.120
+<v Speaker 1>LSV, undefeated through a pro tour. And unfortunately his deck has</v>
+
+00:05:23.930 --> 00:05:26.370
+<v Speaker 1>it's not fast. It's not it's not the model red deck.</v>
+
+00:05:28.310 --> 00:05:53.300
+<v Speaker 1>I don't know how much you guys saw. I know Mike watched some of the coverage, but the eggs deck, which we're calling for coverage purposes. Second sunrise because breakfast, second breakfast. That's right, sorry. Second breakfast because it feels like I said that because it feels like you see another the next morning's dawn by the time the guys turn INS. It's one of these solitaire decks where you just go off and it takes you 10 minutes to win the game. But it won the tournament, So what can you say?</v>
+
+00:05:53.370 --> 00:05:58.560
+<v Speaker 2>Well, most people are apparently saying that it wasn't the best deck in the format, but it was a brilliant meta game.</v>
+
+00:05:58.840 --> 00:06:19.470
+<v Speaker 1>Yeah, it's definitely one that at the end of the event, we're all like, well, is this going to take over Modern? Are we going to see this at every single modern event from here on out? And the truth is, it's fairly easily sideboard against like, if you know about it, Stony Silence and like 29 other cards in the modern media game can be brought in to squelch this day.</v>
+
+00:06:19.560 --> 00:06:28.450
+<v Speaker 2>I'm really happy that even in the era of the Internet and a million websites and a million Magic online decks, that there can still be a deck that,</v>
+
+00:06:28.650 --> 00:06:40.460
+<v Speaker 2>if everyone was ready for it, would have been crushed. But they weren't ready for it, and the element of surprise helped it get all the way to the finish. That there's still value in an unexpected deck.</v>
+
+00:06:40.530 --> 00:06:58.780
+<v Speaker 1>Everyone thinks that these innovative decks come from like the big teams, come from Channel Fireball, come from Star City, come from the Japanese teams, and this came out of the Czech Republic with Martin Juza and Stanislav Sitka and a handful of other players and the guy playing it by the right way. Let's let's not overlook</v>
+
+00:06:58.860 --> 00:07:06.690
+<v Speaker 1>Stanislav Sitka is an international master at chess. This is not a simple deck to play. That's one more reason that it's not going to take over the metagame.</v>
+
+00:07:06.780 --> 00:07:14.770
+<v Speaker 2>Well, keep in mind the Czech Republic had one of the earlier world champions and Yakub Schlemmer. They've been very good at magic for a long time.</v>
+
+00:07:14.820 --> 00:07:21.110
+<v Speaker 1>I had forgotten that. That is a excellent points. I mean Martin Jews is probably a shoe in for the Hall of Fame when he gets on the.</v>
+
+00:07:21.120 --> 00:07:22.570
+<v Speaker 2>Ball. I would think so, yeah.</v>
+
+00:07:22.800 --> 00:07:28.980
+<v Speaker 1>The pro tour as a whole though was fantastic for the modern. Just showing off modern.</v>
+
+00:07:29.100 --> 00:07:54.020
+<v Speaker 3>On, on Twitter, there were a lot of people that got really excited for Modern just as a whole. Like this pro tour sort of lit that fire and people got really excited about Modern, obviously due to some of our big announcement, but also just a scene Modern in being in in the spotlight so big and seeing the different decks that came out. And you know, Modern, we've seen it before. You're like, oh, it's just a storm deck basically. But seeing all the different decks come out, there was a lot of talk, especially on Twitter, about how excited people got from Modern.</v>
+
+00:07:54.330 --> 00:07:58.220
+<v Speaker 2>Modern is actually still a relatively young format. We only invented it.</v>
+
+00:07:58.510 --> 00:07:59.370
+<v Speaker 1>Less than a year</v>
+
+00:07:59.450 --> 00:08:29.910
+<v Speaker 1>here. Yeah. Yeah. It's extremely young, but it's already getting this marquee attention with, you know, the Pro Tour, competitive play and becoming a growing PTQ format and even more and more, you know, independent events are being organized around it. So it's definitely up and coming. And it does a lot of awesome things for the game and that it's, you know, completely reprintable. Having said that, Modern is awesome. Our next Pro Tour will not be Modern. As is the way of the Pro Tours, we'll be changing formats up as we travel to the East Coast</v>
+
+00:08:30.040 --> 00:08:41.070
+<v Speaker 1>of North America, traveling to Canada for Pro Tour Gatecrash in Montreal We we in February, so that's going to be nice in the chilly for the competitive.</v>
+
+00:08:41.080 --> 00:08:42.830
+<v Speaker 2>Sweater. It'll be the full Canadian.</v>
+
+00:08:42.840 --> 00:08:43.550
+<v Speaker 1>Experience.</v>
+
+00:08:45.060 --> 00:08:48.360
+<v Speaker 4>Favorite constructed format which I actually keep up on.</v>
+
+00:08:48.550 --> 00:08:50.160
+<v Speaker 1>Standard with game crash.</v>
+
+00:08:50.230 --> 00:08:51.400
+<v Speaker 4>Yes.</v>
+
+00:08:51.570 --> 00:08:58.840
+<v Speaker 1>It's going to be interesting and of course it'll be Gatecrash Draft, so it'll be triple Gate crash. There will be no packs of Return to Ravnica Cracked at this event.</v>
+
+00:08:58.890 --> 00:09:04.680
+<v Speaker 2>So that means right now we know absolutely nothing about the draft format, but I'm assuming Dimir will be the.</v>
+
+00:09:04.690 --> 00:09:08.980
+<v Speaker 1>Best Dimir boros Orzhov gruel and.</v>
+
+00:09:09.550 --> 00:09:11.000
+<v Speaker 2>Bring it home. Nobody helped him.</v>
+
+00:09:11.010 --> 00:09:11.600
+<v Speaker 3>Come on.</v>
+
+00:09:12.470 --> 00:09:13.200
+<v Speaker 2>One more.</v>
+
+00:09:14.570 --> 00:09:16.020
+<v Speaker 1>Civic. Got it.</v>
+
+00:09:16.090 --> 00:09:16.590
+<v Speaker 3>Man,</v>
+
+00:09:18.040 --> 00:09:20.590
+<v Speaker 3>and here he was heartbreaking from this.</v>
+
+00:09:21.290 --> 00:09:22.670
+<v Speaker 4>Area. Yeah, I'm really.</v>
+
+00:09:22.680 --> 00:09:23.670
+<v Speaker 3>Excited.</v>
+
+00:09:23.840 --> 00:09:39.450
+<v Speaker 4>I'm really excited to see where Standard is going to be by then. I played Standard for the first time last night since returned Rebecca came out. It's already like seeing people's decks being different and seeing like how to make my deck different.</v>
+
+00:09:39.860 --> 00:09:48.170
+<v Speaker 3>Speaking of standard, I was talking Marshall is down here for the Community Cup and the coverage and he was asking me about my Tommy omission stack and he talked and he heard the podcast.</v>
+
+00:09:48.270 --> 00:09:56.720
+<v Speaker 3>I was talking about Palisade Giant Ghostly possession and the electors elect Azores tours. Thank you.</v>
+
+00:09:57.210 --> 00:10:03.840
+<v Speaker 2>LQ tours, ironically people who speak properly and with precise pronunciation with good locution.</v>
+
+00:10:05.310 --> 00:10:24.780
+<v Speaker 3>Anyways, he was like, hey, I heard you mentioned this other crazy deck in the podcast. Are you gonna do it? Cause I know you will. And I was like, I kind of have to know Marshalls, like, yeah, you kind of have to now. So I'm going to end up trying to build enjoy. Like let's let's take this journey together Internet as I try and build a palisade giant ghostly possession LQ tours deck.</v>
+
+00:10:25.130 --> 00:10:28.690
+<v Speaker 4>If there's a card you want him to play and you tweeted out on, he probably will play it.</v>
+
+00:10:29.220 --> 00:10:33.900
+<v Speaker 3>Will try to find some weird combo with it. That is true at Michael Robles. Tweet me your combos.</v>
+
+00:10:34.150 --> 00:10:35.570
+<v Speaker 1>By all means, we got to see what happens</v>
+
+00:10:35.640 --> 00:10:47.000
+<v Speaker 1>here. We've been talking about the Pro Tour. We've been talking about the next Pro Tour. Now here's we're going to jump back in time again. Something that's already happened for you, not yet happened for us. Magic game day four returned to Ravnica.</v>
+
+00:10:47.090 --> 00:10:49.420
+<v Speaker 2>Man, that thing will have going to have been great.</v>
+
+00:10:50.970 --> 00:11:14.360
+<v Speaker 1>And it will have been standard as well. So hopefully you all made it out to your local stores and got to participate in game day. For those of you who haven't caught on yet, we have a standard calendar that we are trying to hold to with each new expansion, which is that two weeks after release we have the Pro Tour and then a week after that we have the game day. So the next game day will be especially impacted by the Pro Tour, as it they will be of course, both standard.</v>
+
+00:11:14.430 --> 00:11:19.620
+<v Speaker 3>And I'm sure if Tifa was spouse slinging against you that she crushed you thoroughly with a standard deck.</v>
+
+00:11:19.680 --> 00:11:21.090
+<v Speaker 2>Yeah, that'll teach you to step up.</v>
+
+00:11:21.430 --> 00:11:22.360
+<v Speaker 1>It's what she does.</v>
+
+00:11:23.740 --> 00:11:25.250
+<v Speaker 3>If somebody gives, you win last night.</v>
+
+00:11:27.390 --> 00:11:31.870
+<v Speaker 2>131 now are you going to be improving your deck throughout the day as you spell sling?</v>
+
+00:11:32.370 --> 00:11:34.500
+<v Speaker 4>No. Well.</v>
+
+00:11:34.630 --> 00:11:37.440
+<v Speaker 1>Maybe only if someone comes up with a really good idea.</v>
+
+00:11:37.450 --> 00:11:41.020
+<v Speaker 2>You're going playing the same deck a lot, you're going to learn what weaknesses it.</v>
+
+00:11:41.030 --> 00:11:48.040
+<v Speaker 4>Had last time I was spell slinging I didn't even have time to take breaks so I really doubt that I would have time to actually change out my deck.</v>
+
+00:11:48.650 --> 00:11:56.720
+<v Speaker 1>The other thing that's been going on and as Mike you brought up earlier is, is that as we speak, the Community Cup is going on down here. So like, this is your baby, You've</v>
+
+00:11:56.790 --> 00:11:58.510
+<v Speaker 1>been running the Community Cup this year, right?</v>
+
+00:11:58.520 --> 00:12:11.190
+<v Speaker 3>Yeah, yeah, it's been a blast. Community Cup is normally put on by it's, it's the Magic Online Community Cup and in previous years it's been given to Magic Online. Well, this year we're like, let's the Community Cup, so let's give it to Community and so.</v>
+
+00:12:11.240 --> 00:12:12.870
+<v Speaker 2>Next year we're giving it to the Cup team.</v>
+
+00:12:14.280 --> 00:12:26.900
+<v Speaker 3>And so it was given to me this year as a strict said, so it's my baby and I've had a lot of help. I've had a lot of really good help putting this together. And So what it is is we take we get nominations for people that represent the Magic online</v>
+
+00:12:26.970 --> 00:12:58.850
+<v Speaker 3>community and we take all of those nominations and we consider we want and we fly them out to Wizards of the Coast headquarters and we will play in various formats Magic online. We fly people out in person to plan online game against the people that made the game. And we have an amazing team coming up, including pros like Conley Woods, Jackie Lee are down here. We've got John laughs from limited resources. James won't already run. Some really good amazing players are down here. It's been the last couple weeks have been very stressful for me, but it started today</v>
+
+00:12:58.940 --> 00:13:14.160
+<v Speaker 3>and it went off extremely well. I'm excited as we have coverage. We've got Rashad, Rich Hagen and Marshall doing coverage. We got Nate Price doing covert live coverage. I mean we're doing pro tour style web coverage for the community club. Very, very excited.</v>
+
+00:13:14.350 --> 00:13:21.600
+<v Speaker 1>And that's the first year we're doing that style coverage. We've done some ribbing coverage in the past, but we haven't done live streaming or, you know, cover live stuff.</v>
+
+00:13:21.690 --> 00:13:29.240
+<v Speaker 2>So people should be able to go to dailymtg.com, the very place you got this podcast, and look at some of this coverage Mike is talking about.</v>
+
+00:13:29.310 --> 00:13:29.670
+<v Speaker 1>Yep.</v>
+
+00:13:29.720 --> 00:13:30.540
+<v Speaker 3>That's true.</v>
+
+00:13:30.780 --> 00:13:53.330
+<v Speaker 1>The other thing is, is that we're all in this room participating in the Community Cup in various ways. I'm going to be playing the Ravnica block, Return to Ravnica Unified Constructed with a deck that Gavin built. Gavin Verhey, who was our guest last episode, built all of the decks for it. And I'm playing this Golgari deck that I'm not sure I'm smart enough to play, but I'm going to try really hard time. What are you planning?</v>
+
+00:13:54.890 --> 00:14:19.850
+<v Speaker 4>Turn around concealed and I'm extremely excited that that's the format I get to play because I like building my own decks, so I'll get to build my own deck. And also I feel really strongly because of how much I've played Return Around Mecca. I feel like I'll know what to build with whatever I get and how to play it. And I tried the Magic Online beta for the first time this week and feel pretty good about it.</v>
+
+00:14:19.920 --> 00:14:20.660
+<v Speaker 1>So.</v>
+
+00:14:20.930 --> 00:14:23.890
+<v Speaker 4>Into Friday. Strong. Ready.</v>
+
+00:14:25.190 --> 00:14:28.000
+<v Speaker 1>They send them home with sorrows despair.</v>
+
+00:14:28.090 --> 00:14:28.970
+<v Speaker 2>Anchor the team.</v>
+
+00:14:28.980 --> 00:14:33.800
+<v Speaker 1>That's right, you mentioned that this was you just started messing with the beta. What did you think of?</v>
+
+00:14:33.810 --> 00:14:53.220
+<v Speaker 4>It I thought it was really good. I enjoyed it. I enjoyed the changes from the old client and I feel like it looks a lot cleaner and I really actually like the steps listed at the top and how you can put your stops in place.</v>
+
+00:14:53.430 --> 00:14:54.640
+<v Speaker 1>It's much more intuitive.</v>
+
+00:14:54.910 --> 00:14:58.150
+<v Speaker 4>Is much more intuitive and I really enjoyed it and picked it up pretty quickly today.</v>
+
+00:14:58.280 --> 00:15:05.870
+<v Speaker 1>The wide beta is still going on. If you are out there and haven't tried it yet, definitely give it a download. You can find it from our Magic Online section and.</v>
+
+00:15:05.880 --> 00:15:07.080
+<v Speaker 2>They're online.com.</v>
+
+00:15:08.120 --> 00:15:10.250
+<v Speaker 1>Another section of the website that Monty overseas.</v>
+
+00:15:10.320 --> 00:15:16.370
+<v Speaker 3>Also, the Community Cup is being completely played on the white beta client. Yes, yes, absolutely. Another very important thing for us.</v>
+
+00:15:16.680 --> 00:15:24.950
+<v Speaker 1>Where we are still looking for input and looking for feedback on this white beta. So if you haven't tried it out yet, give it a download and then there will be a link in the article along with this</v>
+
+00:15:25.020 --> 00:15:30.800
+<v Speaker 1>podcast that will take you to the feedback survey where you can give us a bunch of great feedback to help us make the client.</v>
+
+00:15:30.810 --> 00:15:36.500
+<v Speaker 2>Better, your feedback really does matter. They're constantly changing this thing in response to what they're hearing from the community.</v>
+
+00:15:36.770 --> 00:15:41.440
+<v Speaker 1>This. This is. This isn't an e-mail form that isn't getting read. This is absolutely going straight to.</v>
+
+00:15:41.450 --> 00:15:47.760
+<v Speaker 2>Developers. Which ones are the emails that aren't getting ready? Is it the ones? To me, they're not. I could save a lot of.</v>
+
+00:15:47.770 --> 00:15:49.960
+<v Speaker 1>Time they're not on our website. These are other websites.</v>
+
+00:15:50.190 --> 00:15:50.980
+<v Speaker 2>Those guys.</v>
+
+00:15:51.670 --> 00:15:54.610
+<v Speaker 3>Trick you mentioned the the unified what we're calling unified.</v>
+
+00:15:55.060 --> 00:16:24.980
+<v Speaker 3>Alright, that was actually an idea that the community came up with. Community team came really because we were, we were saying we wanted, we pushed. Normally the community cup happens in the summer and we push it a little bit later. I was like, let's, let's put it towards return to Ravnica and turn around and be there. It's like, how can we just return to Ravnica the heck out of this thing? Like we really want it to be about turn around and go. All the players actually have gold pins. We actually will Guild they have lined up with the wearing gold pins. So when they do on camera interviews for the coverage, you'll see that they're them representing their Guild. And I was in a meeting and I looked over at Ryan Spain, who's</v>
+
+00:16:25.060 --> 00:16:40.480
+<v Speaker 3>the, you know, magic online R&amp;D guru. And I said, Hey, can we do a unified old rabbinical block with return to Ravnica? Do you does RDC any problems with that? And he thought about it and he's like, I don't think so. Let me get back to you. And then within days he's like no our and is completely fine with this format.</v>
+
+00:16:40.490 --> 00:16:41.140
+<v Speaker 1>That's awesome.</v>
+
+00:16:41.210 --> 00:16:55.270
+<v Speaker 3>And, you know, I was in a meeting with Gavin when he was talking about the unified tax, and he thanked me for doing this. He was really, he's like building the decks was definitely a challenge, but it was really fun. And what I love about this is this is a format that nobody's seen before. So it's interesting.</v>
+
+00:16:55.350 --> 00:17:09.840
+<v Speaker 3>I got to hear some of what Conley's built. So I've heard of what Conley built and I've heard about Gavin's built, and it's going to be interesting to watch these matches happen. I'm very excited for these matches and you guys will get to see the matches how they happened since the community will be over by the time the podcast goes.</v>
+
+00:17:09.850 --> 00:17:18.500
+<v Speaker 1>On which means the videos will be on our YouTube channel as well for if you would like to go back and review them and also all of the deck lists will be posted online.</v>
+
+00:17:20.560 --> 00:17:35.070
+<v Speaker 2>I'm a little worried about that as I'm playing in kind of a side event that still has point implications for the Community Cup. And I would like to make clear that my deck, well, it I probably did great. Let's just assume that I did great and I don't need to be making any.</v>
+
+00:17:35.080 --> 00:17:42.830
+<v Speaker 1>Excuses. That's like, I think that's a fair assumption. I think we're also going to assume at this point that clearly the Wizards team won.</v>
+
+00:17:44.350 --> 00:17:46.730
+<v Speaker 3>Then Owen 3 for so long, this is our year streaks.</v>
+
+00:17:46.740 --> 00:17:48.440
+<v Speaker 1>Are broken. We will be the Red Sox.</v>
+
+00:17:48.450 --> 00:17:48.940
+<v Speaker 3>This is gonna.</v>
+
+00:17:48.950 --> 00:17:55.140
+<v Speaker 2>Be it's our program, we made-up the formats. Surely we had a reason for what formats we picked.</v>
+
+00:17:55.150 --> 00:17:56.650
+<v Speaker 4>We have made a trick on the team now.</v>
+
+00:17:56.660 --> 00:18:00.140
+<v Speaker 1>That's right, the the ringers, we were the shot on the true ringers this year.</v>
+
+00:18:00.150 --> 00:18:04.440
+<v Speaker 2>Well, we're not. We not only have ringers, we've stolen former community members.</v>
+
+00:18:05.030 --> 00:18:14.280
+<v Speaker 1>But I haven't played on the community team. I never came out for it. Gavin did. Gavin is. That's the one reason we're goin is Gavin is gunning to be the first person, not be on both sides</v>
+
+00:18:14.390 --> 00:18:15.530
+<v Speaker 1>winning. That is very true.</v>
+
+00:18:15.600 --> 00:18:16.530
+<v Speaker 4>That's awesome.</v>
+
+00:18:16.600 --> 00:18:21.680
+<v Speaker 3>See, I'm actually playing. You guys are playing in somewhat serious formats because we brought in James Collodi already.</v>
+
+00:18:21.690 --> 00:18:22.750
+<v Speaker 2>Run my deck.</v>
+
+00:18:22.820 --> 00:18:45.470
+<v Speaker 3>Well, we, so we brought in James from Lady Run and this is podcast #3 and this is the third time I've mentioned already run. I'm 3 for three now. They put out videos for us and they started making videos for other websites. And one of their videos they do is they do comedy drafts. And so for the multiball format, which is sort of a when even if it's even if one team is dominating over the other ones, multiball can change everything.</v>
+
+00:18:45.540 --> 00:18:58.480
+<v Speaker 3>The scoring is so different. So this year we decided as we reached out to Grant from literally run and we said don't tell James because he can't help but we're going to do a cube draft. But you guys have written wacky draft rules and that is the format that I'm playing in and.</v>
+
+00:18:58.490 --> 00:18:59.920
+<v Speaker 4>So big surprise.</v>
+
+00:18:59.930 --> 00:19:15.980
+<v Speaker 3>Right. And so Dan Evans and Ryan Spain have been in contact with Graham and they came up with a rule with about 20 different wacky draft rules. And we're going to get those rules tomorrow and whichever team is behind and then there will rules draft those rules. So let each look and this one have any implication on our game play, just how we draft.</v>
+
+00:19:16.070 --> 00:19:25.300
+<v Speaker 3>So I probably may have made them drafting something like where I can't draft anything with a greater computer man cost of four, or I can only draft multi colored creatures first or multi colored cards first.</v>
+
+00:19:25.310 --> 00:19:26.200
+<v Speaker 4>Or cool hats.</v>
+
+00:19:26.250 --> 00:19:37.420
+<v Speaker 3>Or cool hats. So it's one of the things we wanted to bring in like we're like, well, James from run here, let's do something. And he he's like, oh, I got this. James is like this is where I will dominate this format.</v>
+
+00:19:37.750 --> 00:19:39.250
+<v Speaker 1>This is his jam. He's got it.</v>
+
+00:19:39.260 --> 00:19:46.360
+<v Speaker 3>Yeah, that's his jam. And so that's the format that I'm planning. But I actually really like my my wacky draft team because it's like me, Dave Gustin,</v>
+
+00:19:46.450 --> 00:19:51.090
+<v Speaker 3>Guskin, Rob Schuster, like it's those of us that are like, alright, we know how to have fun with this kind of.</v>
+
+00:19:51.100 --> 00:20:09.450
+<v Speaker 1>Thing that's awesome. The Community Cup is one of those things that having, as we said, come from the community was fantastic. To be on the outside and getting to just see these people recognized for their contributions, for what they've done and how they're known in Magic online and see the the casualness with which Wizards is able to interact with these people.</v>
+
+00:20:09.500 --> 00:20:16.610
+<v Speaker 2>It's also fun to have an event going on in the building, right? As I said earlier, I was too lazy to go see a pro tour in the very city where I live.</v>
+
+00:20:18.490 --> 00:20:23.000
+<v Speaker 2>So far I have not gone and seen the Community Cup, which is 20 feet from the elevator.</v>
+
+00:20:24.530 --> 00:20:26.090
+<v Speaker 1>I'm not saying you're lazy, monster.</v>
+
+00:20:26.100 --> 00:20:27.510
+<v Speaker 2>How dare you? I mean, go on.</v>
+
+00:20:28.360 --> 00:20:34.290
+<v Speaker 1>Not saying you're lazy. You have a highly optimized sense of travel. That's what it is. You can't stand to deviate.</v>
+
+00:20:34.300 --> 00:20:35.210
+<v Speaker 2>I have things to do.</v>
+
+00:20:35.220 --> 00:20:35.870
+<v Speaker 1>That's right.</v>
+
+00:20:36.260 --> 00:20:44.170
+<v Speaker 4>I'm excited. I'm excited just to like get to hang out with them and interact with them. Like tomorrow I get to show them around Wizards and like that's, that's going to be really cool.</v>
+
+00:20:44.660 --> 00:20:49.150
+<v Speaker 1>I have to say we assumed we won. That seems like a safe.</v>
+
+00:20:49.160 --> 00:20:53.140
+<v Speaker 2>Assumption. I mean obviously the four of us when our individual match.</v>
+
+00:20:54.870 --> 00:20:57.970
+<v Speaker 3>Undoubtedly draft nothing but instance I got this.</v>
+
+00:20:58.030 --> 00:21:00.360
+<v Speaker 4>If we lost, I'm sure it'll be RMD's fault.</v>
+
+00:21:00.430 --> 00:21:05.680
+<v Speaker 1>Clearly, we we we should at least consider the possibility that perhaps we lose.</v>
+
+00:21:05.950 --> 00:21:07.280
+<v Speaker 4>Mana, obviously.</v>
+
+00:21:07.330 --> 00:21:10.700
+<v Speaker 1>It'll be a sad day. I mean, I'm not sure how I feel about that. I can act.</v>
+
+00:21:12.240 --> 00:21:14.890
+<v Speaker 3>That we gave it all we could. We just the Sheffler wasn't working.</v>
+
+00:21:14.900 --> 00:21:18.510
+<v Speaker 2>For the community seemed sad we wanted to do something to perk up their.</v>
+
+00:21:18.550 --> 00:21:19.750
+<v Speaker 1>We took pity on them. Is that they?</v>
+
+00:21:19.760 --> 00:21:22.780
+<v Speaker 3>Didn't want to be the first team to lose. More like find the.</v>
+
+00:21:22.790 --> 00:21:24.040
+<v Speaker 2>Shame of it all.</v>
+
+00:21:24.080 --> 00:21:36.960
+<v Speaker 1>You know next year for Panic we should have captains just like the World Magic Cup did, where they would have a pro who walks the sidelines, gives them the inspirational speech and then we can have Mark Roswell on our side with a military like army helmet.</v>
+
+00:21:37.030 --> 00:21:42.430
+<v Speaker 3>You have no idea how many ideas I already have for next community like I have already starting there</v>
+
+00:21:42.500 --> 00:21:43.660
+<v Speaker 3>Seattle because well.</v>
+
+00:21:43.670 --> 00:21:44.860
+<v Speaker 2>They like what's on the tour next.</v>
+
+00:21:44.870 --> 00:22:12.550
+<v Speaker 3>Year yeah I'm actually I've already started the gears for what's in the tour next year watching they're they're you know what leadership does come from the community teams Jackie Lee and Connolly were two separate pods for the for the cube draft and they were running around and they were each drafting probably about three to six decks because you can get up and walk around you can talk to each other you can see who's passing to who like we we we allow that we're like yes this can be a thing you can talk to your teammates and Conley and Jackie like Nate Price had who's</v>
+
+00:22:12.620 --> 00:22:23.590
+<v Speaker 3>on our coverage had to physically leave the area because he was getting scared of being being run over from Collier Jackie they were going to and from other PC's going don't take this passes to this person don't let that it was.</v>
+
+00:22:23.970 --> 00:22:31.290
+<v Speaker 2>I'm going to immediately suggest we find a way to have one person play eight people at the same time. It works in chess. It could work in magic.</v>
+
+00:22:31.390 --> 00:22:42.460
+<v Speaker 1>A multi is something I've wanted to do for Magic. Like I put together an idea a long time ago of having a pro do a multi of playing like 8 intro packs versus 8 players with intro packs.</v>
+
+00:22:42.660 --> 00:22:51.170
+<v Speaker 1>So they have to worry about the deconstruction. They didn't out the deck lists. They could know what each deck was playing but I just I never was able to pull it off. So I think we should definitely make that happen.</v>
+
+00:22:51.220 --> 00:22:55.950
+<v Speaker 4>I think it's great to see the community, like really unify itself.</v>
+
+00:22:58.010 --> 00:22:58.600
+<v Speaker 2>Yeah, but.</v>
+
+00:22:58.610 --> 00:23:05.350
+<v Speaker 4>It's it's really cool to hear that, you know, Jackie Connelly were like, alright, let's, let's all bond together over.</v>
+
+00:23:05.360 --> 00:23:05.750
+<v Speaker 1>This like.</v>
+
+00:23:05.760 --> 00:23:27.500
+<v Speaker 3>That's for sure. Yeah, I mean, and they've the couple times, I don't know if it was jokes or not, but a couple times they would somebody would talk about like what next? They're building economies, obviously building the decks. When I came to decisions, they were like, ask Jackie, she team leader, you know. So there's already these personas are coming coming forth as like the real leaders of the community team. So it's cool. It's definitely to watch. Like I said, it was amazing to watch</v>
+
+00:23:27.570 --> 00:23:30.810
+<v Speaker 3>just to run ragged between 3 or 4 computers each.</v>
+
+00:23:30.820 --> 00:23:58.630
+<v Speaker 1>Right, it's awesome. The community Cup is one of the things that I was like, man, you know, if I had my way, we do this every month, You know, it's just one of those things that's so awesome. But then I think and that's a lot of work. That's a lot of work. We got to make cards, we got we got to make websites. I'm going to sleep really good marketing. So it's going to carry us through the rest of this week. Next week when you guys are listening to this episode here in the US, we actually have a holiday that's, I mean it's known around the world, but it's mainly big here in the US and that is</v>
+
+00:23:58.720 --> 00:24:01.970
+<v Speaker 1>Halloween, October 31st every year.</v>
+
+00:24:01.980 --> 00:24:04.530
+<v Speaker 3>Boo. No, I mean</v>
+
+00:24:06.900 --> 00:24:10.990
+<v Speaker 3>because then it sounds like I'm buying. Halloween is my favorite holiday ever, ever since I was a child.</v>
+
+00:24:11.000 --> 00:24:11.710
+<v Speaker 2>Well then, how about?</v>
+
+00:24:13.190 --> 00:24:13.960
+<v Speaker 3>Were you?</v>
+
+00:24:14.090 --> 00:24:43.020
+<v Speaker 1>The Halloween, for those of you who don't know, is where kids in America dress up in costumes and get candy, or it's where adults in America dress up in costumes and go to parties. It it struck me as I was laying out the itinerary of the episodes and discussion topics, is that magic has a lot of things that tied up thematically to Halloween. We just came from the industrial block. We've got costumes, we got characters, we've got symbols. Like I know that I love to carve pumpkins. I do magic themed pumpkins. Nice,</v>
+
+00:24:43.190 --> 00:24:49.160
+<v Speaker 1>I've done planeswalker symbol and I did the the mana symbols a couple of years ago, not recently.</v>
+
+00:24:49.170 --> 00:24:50.090
+<v Speaker 3>There borrow symbol.</v>
+
+00:24:50.100 --> 00:24:52.970
+<v Speaker 1>This year I'm thinking borrows is a definite possibility.</v>
+
+00:24:53.070 --> 00:24:54.590
+<v Speaker 4>You have to do 1010 you.</v>
+
+00:24:54.600 --> 00:24:57.540
+<v Speaker 1>Can do 10 pumpkins. Sorry, I don't know if I can we.</v>
+
+00:24:57.550 --> 00:25:00.620
+<v Speaker 3>Will post a picture of tricks 10 pumpkins he's gonna carve this weekend.</v>
+
+00:25:01.080 --> 00:25:01.610
+<v Speaker 2>With the.</v>
+
+00:25:01.780 --> 00:25:03.610
+<v Speaker 3>When this when this gets posted.</v>
+
+00:25:03.680 --> 00:25:10.310
+<v Speaker 1>I will do as many as I can. Maybe what I'll do is I'll do 5 pumpkins and do a symbol on each side. We'll see if I'm able to do that, but.</v>
+
+00:25:11.750 --> 00:25:15.430
+<v Speaker 3>Throwing stuff at each other? Mikes in the build ever combo Dick tricks in the car for 10?</v>
+
+00:25:16.360 --> 00:25:21.210
+<v Speaker 1>We're going to just keep volunteering each other for things. See, you better be on the lookout or you're.</v>
+
+00:25:21.770 --> 00:25:23.440
+<v Speaker 3>Gonna get a cynic tattoo. Ohh wait.</v>
+
+00:25:23.480 --> 00:25:24.260
+<v Speaker 4>Ohh on it.</v>
+
+00:25:25.890 --> 00:25:33.370
+<v Speaker 1>Stuff like that. And Monty, we wanted to grab you and bring you in for this because you are the author of the Arcanas. I am. This is right up that alley.</v>
+
+00:25:33.440 --> 00:25:40.050
+<v Speaker 2>Well, there were a couple Arcanas we did a few years ago about this store that did Costume Vanguard.</v>
+
+00:25:40.260 --> 00:25:41.760
+<v Speaker 1>Ohh, that's interesting.</v>
+
+00:25:42.020 --> 00:25:50.770
+<v Speaker 2>You dressed up as a character in Magic, and then when you played Magic you got the benefits of that character.</v>
+
+00:25:50.780 --> 00:25:56.090
+<v Speaker 1>So Vanguard is an old format that Magic used to support, which you would have these cards</v>
+
+00:25:56.310 --> 00:26:19.620
+<v Speaker 1>sort of like in Commander, we have command zone where the card is there from the start of the game. And so it has this effect and it really, we don't do the format in paper Magic anymore and it still has a bit of an audience, but not a huge following for Magic Online. So this was back in the days of when we actually supported Vanguard. And that's an awesome idea. I mean, you could have Joya as as your Vanguard card. You can have car and you can have a whole bunch of these different careers.</v>
+
+00:26:21.160 --> 00:26:22.160
+<v Speaker 3>Makeup from Ometer.</v>
+
+00:26:22.630 --> 00:26:45.960
+<v Speaker 2>Yeah, I'm a big fan of when people dress up as magic characters. Yeah, like if anybody, if anyone does dress up as a really cool looking character, feel free to e-mail me. I'm linked off of every arcana. I may have to make you fill out a legal form, but I would love to run your picture on the website as yes, this person did the best costume. Listen, what about tweets? Can we get some tweets?</v>
+
+00:26:45.970 --> 00:26:48.670
+<v Speaker 3>Yeah, hashtag MTG Halloween.</v>
+
+00:26:49.250 --> 00:26:50.820
+<v Speaker 2>Hashtag MTG Halloween</v>
+
+00:26:51.180 --> 00:26:57.130
+<v Speaker 2>and listen, I love the planes walkers but everybody dresses as the planes walkers, right?</v>
+
+00:26:57.140 --> 00:26:59.810
+<v Speaker 4>I dress as the price as Liliana is available last.</v>
+
+00:26:59.820 --> 00:27:12.350
+<v Speaker 2>Year Liliana is cool, Shandra is cool. It's really neat to make a hoodie that looks like Jay's. Like, I'm totally in favor of that. But if somebody dresses like something crazy, like if you dress like silhouette, dress like silhouette.</v>
+
+00:27:13.830 --> 00:27:19.390
+<v Speaker 3>Who wants the employees last year that dressed as other cards? And of course, now I'm able to remember any of them.</v>
+
+00:27:19.430 --> 00:27:25.310
+<v Speaker 1>I would love to see a squee goblin nabob costume. Yeah, just the giant red robe that pools around your feet.</v>
+
+00:27:25.940 --> 00:27:27.360
+<v Speaker 3>Michelle Burns was dream twist.</v>
+
+00:27:27.370 --> 00:27:28.830
+<v Speaker 1>Dream twist, that's what it is.</v>
+
+00:27:29.330 --> 00:27:30.640
+<v Speaker 2>That's obscure 1.</v>
+
+00:27:30.700 --> 00:27:31.490
+<v Speaker 3>Yeah,</v>
+
+00:27:32.760 --> 00:27:36.950
+<v Speaker 3>South is like, they'll work secrets and then like halfway through the day become the insect.</v>
+
+00:27:37.620 --> 00:27:38.090
+<v Speaker 2>Yeah.</v>
+
+00:27:38.100 --> 00:27:45.610
+<v Speaker 3>Like like what's up now, because also that be really freaky turn into like at lunch in the elevator and like I'll take the next one. I'm good. Thanks I.</v>
+
+00:27:45.620 --> 00:27:52.450
+<v Speaker 4>Have a friend who wants to address as the Celestia guildmage Vitu Gazi guildmage at some point.</v>
+
+00:27:52.900 --> 00:27:55.690
+<v Speaker 2>I'm going to dress as invisible stalker and not come in.</v>
+
+00:27:57.580 --> 00:27:59.040
+<v Speaker 1>And no one can target you anyway.</v>
+
+00:27:59.050 --> 00:28:17.190
+<v Speaker 3>That's one of the things where have I put more thought and had the time, I probably would have done the next skill. Mage isn't what the striped pants. Yeah, yeah. Stripe pants in the cool, like white. Yeah. There was a post on Reddit of this guy for he was like 8 years old. I had the most awesome costume out there and he was a giant cardboard Shivan dragon.</v>
+
+00:28:17.280 --> 00:28:18.840
+<v Speaker 1>Was the sandwich board costume. It was.</v>
+
+00:28:18.850 --> 00:28:22.690
+<v Speaker 3>Awesome sandwich board costume and he was the old school. She was like, that is awesome.</v>
+
+00:28:22.700 --> 00:28:23.170
+<v Speaker 1>Yeah, you.</v>
+
+00:28:23.180 --> 00:28:27.490
+<v Speaker 3>Were the nerdiest kid out there and I'm sure like nobody got except for like,</v>
+
+00:28:28.090 --> 00:28:34.320
+<v Speaker 3>but he was like 8-9 years old and he's like big cheesy grin. He's like, look at how awesome my costume is. It's just a board.</v>
+
+00:28:34.390 --> 00:28:41.820
+<v Speaker 2>I'm a big fan of costumes that involve a lot of cardboard. As far as I'm concerned, you're dressed like a robot. It had better be completely boxy.</v>
+
+00:28:42.590 --> 00:28:54.140
+<v Speaker 3>If money was no object and you had you had the budget, you had the materials, you have to make it yourself. You just like, I mean, if you want to make yourself, you can't. If you can go with any Magic the Gathering character for Halloween this year, what would it be?</v>
+
+00:28:54.210 --> 00:28:57.800
+<v Speaker 4>I would hate to steal my friend Liz's idea,</v>
+
+00:28:57.890 --> 00:29:06.900
+<v Speaker 4>but I would love to be there be two guys that gives me into actually, I think that our on that card is incredible and that would be an awesome costume to pull off.</v>
+
+00:29:06.970 --> 00:29:09.310
+<v Speaker 1>Given that it's Celeste, I can't say I'm shocked.</v>
+
+00:29:09.320 --> 00:29:10.150
+<v Speaker 4>Yeah, right.</v>
+
+00:29:10.300 --> 00:29:20.710
+<v Speaker 1>I'm just going to say if I had the unlimited budget, we're talking movie like Sci-fi Channel, Face Off, Yes, Style cop money.</v>
+
+00:29:20.780 --> 00:29:22.030
+<v Speaker 2>This is how you make a Latex.</v>
+
+00:29:22.040 --> 00:29:27.550
+<v Speaker 1>Mask. That's right, I would be missing. I think that a giant dragon costume would be amazing.</v>
+
+00:29:27.910 --> 00:29:30.140
+<v Speaker 3>I mean, it's just climbing to the dragon in our lobby, right?</v>
+
+00:29:30.230 --> 00:29:37.260
+<v Speaker 1>Like, what's up? If I if I wasn't going to do that, I would probably go old school and be a hipster and be at Erza.</v>
+
+00:29:37.430 --> 00:29:40.040
+<v Speaker 2>I think I'm going to have to go with The Mimeoplasm.</v>
+
+00:29:42.940 --> 00:29:44.560
+<v Speaker 1>That might be the most, the least.</v>
+
+00:29:44.770 --> 00:30:06.980
+<v Speaker 2>Possible. OK, You know those things you see on people's front yards during Christmas, like the giant Santa Claus that's got like a leaf blower inflating him? OK, well you use that technology and garbage bags to create the amorphous messy BLOB effect and then you just have things sticking out like a Moosehead or Hulk hands.</v>
+
+00:30:08.490 --> 00:30:09.300
+<v Speaker 3>Yeah, Oh my God, I was.</v>
+
+00:30:09.310 --> 00:30:15.590
+<v Speaker 2>Just gonna say that. Then you put the whole thing on like a shopping cart and then you can get around. I got plans.</v>
+
+00:30:15.600 --> 00:30:20.670
+<v Speaker 1>That's, that's, that is a plan that is a better plan than I would have come up with, Robles.</v>
+
+00:30:20.900 --> 00:30:23.890
+<v Speaker 3>I think because it's the most durable thing ever, I would be the doorkeeper.</v>
+
+00:30:25.190 --> 00:30:39.660
+<v Speaker 3>I love the doorkeeper. He's the monkey list that hangs out in the top of the door and he's got the little like javelin guy with the big eye. He's got like look it up. He's amazing. And I would just hang out. I would just sit there as like a little homunculus BLOB self and just hang.</v>
+
+00:30:39.670 --> 00:30:41.730
+<v Speaker 1>Out I could be, I'd be, I'd be a fun costume.</v>
+
+00:30:41.740 --> 00:30:42.470
+<v Speaker 3>Have a good one.</v>
+
+00:30:43.800 --> 00:30:47.620
+<v Speaker 2>Dress up as silhouette, you look so happy.</v>
+
+00:30:47.690 --> 00:30:56.740
+<v Speaker 1>Well, I think that, I mean, we got a lot of great ideas from magic costumes. We got a lot of great ideas for magic pumpkin carving. I've got a lot of carving I have to do now. Thanks a lot. My problem is.</v>
+
+00:30:56.870 --> 00:31:00.560
+<v Speaker 4>I'm excited to see all the tweets. You could see what people have been doing for Halloween.</v>
+
+00:31:00.570 --> 00:31:03.740
+<v Speaker 2>You could use those little softball sized pumpkins to speed the process up.</v>
+
+00:31:05.180 --> 00:31:07.690
+<v Speaker 3>Feel like you get so much tinier though.</v>
+
+00:31:08.330 --> 00:31:09.420
+<v Speaker 1>It's not. It's not.</v>
+
+00:31:09.490 --> 00:31:11.160
+<v Speaker 2>The scooping out is faster though.</v>
+
+00:31:11.390 --> 00:31:36.060
+<v Speaker 1>Here's some scoop. Here's where I'm concerned is the celestial symbol. Like how am I going to do all of those little pieces of roots without just looking like a giant curve on that figure, that part out? But I wanted to talk briefly, as we've said in the last two episodes, I want to keep it sort of a running topic for the show is the internal League. We are running through our return revenue internal League. It's now Week 3. I haven't got into place and having gone at the Pro Tour and just getting back and getting everything started,</v>
+
+00:31:36.240 --> 00:31:39.410
+<v Speaker 1>I wanted to check with everyone else here, you know, Monty, how how are you doing in the?</v>
+
+00:31:39.420 --> 00:31:51.790
+<v Speaker 2>League. Well, I have not played a lot because I was out for a week when it started, but I have finally won a match. My deck is Golgari, based largely on the strength of five of my 6 rares that I opened fitting into that color.</v>
+
+00:31:51.800 --> 00:31:53.030
+<v Speaker 1>Scheme. That seems like a good plan.</v>
+
+00:31:53.040 --> 00:32:06.440
+<v Speaker 2>My goal is to play Brasca and kill someone with assassins. I have not done so yet, even though I've gotten Assassin's actually on the table. One of them as big as a 3/3 thanks to Sketch. They died right away. Very sad. The best</v>
+
+00:32:06.510 --> 00:32:11.230
+<v Speaker 2>started my deck, however turned out to be Collective Blessing, the enchantment that gives everything plus 3 + 3.</v>
+
+00:32:11.320 --> 00:32:12.590
+<v Speaker 1>One of the cheapest favourites.</v>
+
+00:32:12.600 --> 00:32:20.510
+<v Speaker 2>Yeah, yeah, it is the only card in my deck that involves white matter to support it. I have one planes 2X being guardians and the gate creeper vine.</v>
+
+00:32:20.520 --> 00:32:21.290
+<v Speaker 4>That's all you need.</v>
+
+00:32:21.360 --> 00:32:31.390
+<v Speaker 2>That is all I need. All the games I've won, I've won just because I played that and my phone has said Oh well, I was playing lactose, but why 21 doesn't do anything at all anymore.</v>
+
+00:32:33.010 --> 00:32:35.120
+<v Speaker 4>Exact same way actually.</v>
+
+00:32:35.670 --> 00:32:36.380
+<v Speaker 1>Collective blessing.</v>
+
+00:32:36.390 --> 00:32:45.440
+<v Speaker 2>Scoop. So with the lesson I can give people is if you're playing sealed and you have a way to cram Collective blessing into your deck, do it at any cost. It doesn't matter.</v>
+
+00:32:45.510 --> 00:32:47.110
+<v Speaker 1>Mike, what were you? How are you doing in the?</v>
+
+00:32:47.120 --> 00:33:02.820
+<v Speaker 3>League good. So we do this. We do this draft where we get it. We get a new pack every week and if you want to, you can just go and grab your pack or you can draft your pack. And I love the draft in the pack because what we've done this this year or this time for the league is you will sit in your Guild seat.</v>
+
+00:33:02.940 --> 00:33:26.300
+<v Speaker 3>So you do a draft with five people and you will sit in your Guild and you were essentially drafting your colors. And when I started out in the league, I was doing rack dose with a little bit of a golgari had thrown in the trust trolls. I no longer have any Bulgari. I am straight up rack Dose 100% thanks to my last draft. I got a bunch of his traitorous instinct. Yeah, I got three of those in the draft.</v>
+
+00:33:27.770 --> 00:33:29.350
+<v Speaker 3>Three of those I got some more unleashed.</v>
+
+00:33:29.360 --> 00:33:40.290
+<v Speaker 1>Characters. So traitorous instinct is R in three sorcery. You gain control of target, creature and opponent controls. It gets +2 plus OHH and haste until into turn. Yes, and then you return it back to the owner.</v>
+
+00:33:40.360 --> 00:33:50.410
+<v Speaker 3>And so I I played a match against somebody that previously beat me one year and she was 2 drafts ahead of me. So I was like, alright, well if we should even match. And I just stopped her two out of three games like.</v>
+
+00:33:50.460 --> 00:33:54.130
+<v Speaker 2>I keep feeling like that draft format is abusable somehow.</v>
+
+00:33:55.740 --> 00:33:58.060
+<v Speaker 3>Traders instincts it is. Well, it was awesome.</v>
+
+00:33:58.070 --> 00:34:19.690
+<v Speaker 2>Yeah, you're playing fair. My logic is everybody's sitting where their guilt is. Now, not everybody's playing just the two colours of their Guild, but most people are by this point. Yeah. So that means you know what? Two colors are coming before you and after you and everybody sat. So you don't share a color. But it feel like this might be the time for me to start drifting out of Golgari and start drafting.</v>
+
+00:34:20.540 --> 00:34:24.220
+<v Speaker 2>Is it because the person after me thinks they're going to be in? Is it?</v>
+
+00:34:25.670 --> 00:34:36.320
+<v Speaker 4>We'll see. And I drafted this week, but there were so many Slovenian people that a salesman person sat in the golgari seat and I felt like that was a huge disadvantage. Ohh.</v>
+
+00:34:36.330 --> 00:34:36.860
+<v Speaker 3>For sure.</v>
+
+00:34:36.870 --> 00:34:37.440
+<v Speaker 2>Yeah.</v>
+
+00:34:37.480 --> 00:34:38.680
+<v Speaker 4>Yeah, a lot of good.</v>
+
+00:34:38.690 --> 00:34:54.010
+<v Speaker 2>Cars. But there are conflicting motivations for what Guild to be in too. Because if you're in the Guild with the most people who get, if you're in the Guild that gets the most victories, something good will happen at the end of the league. But if you're in the Guild with the least people, you get a seat right away at the drafts.</v>
+
+00:34:54.020 --> 00:34:55.020
+<v Speaker 1>Yeah, for sure.</v>
+
+00:34:56.240 --> 00:34:58.290
+<v Speaker 3>I I like it. I'm sorry to cut you off, but.</v>
+
+00:34:58.340 --> 00:35:17.130
+<v Speaker 1>That's OK. I was just going to say I haven't had a chance to play. I I missed my last draft, so I need to go bust a pack and modify my deck. But the league is one of our is it's one of my greatest joys. It's one of those things where it's like, man, I'm having a rough day post on the board, who wants to play league match and I can go play Magic for 2030 minutes and just get away.</v>
+
+00:35:18.590 --> 00:35:24.600
+<v Speaker 4>Be time for because I think right now I've only played like 5 games and one of those we're not even done right.</v>
+
+00:35:24.610 --> 00:35:25.170
+<v Speaker 1>One SO.</v>
+
+00:35:25.280 --> 00:35:31.890
+<v Speaker 2>It's weird that you have to sit down and tell yourself this is important for my job, right? Yeah, I have to be playing more magic.</v>
+
+00:35:31.980 --> 00:35:36.130
+<v Speaker 1>Now that's why everyone out there hates us, because we just admitted that we have to play Magic.</v>
+
+00:35:36.140 --> 00:35:36.880
+<v Speaker 3>For our jobs.</v>
+
+00:35:39.380 --> 00:35:48.210
+<v Speaker 1>Well, I have to say guys, it's three episodes down to guests down. Monty, you're our 2nd guest for the episode. Congratulations for the podcast.</v>
+
+00:35:48.340 --> 00:35:52.270
+<v Speaker 2>Thank you very much. I'm honored to be guest #2</v>
+
+00:35:53.970 --> 00:35:57.410
+<v Speaker 2>I've always dreamed of being the 2nd guest on a podcast.</v>
+
+00:35:57.450 --> 00:36:08.880
+<v Speaker 1>I mean, being a TV connoisseur like you are, you know that, you know, you have the pilot episodes and then the second episode where the job gets done. The first episode, they're not sure they're going to get picked up. So the second episode is really the best episodes.</v>
+
+00:36:09.210 --> 00:36:09.760
+<v Speaker 2>Is it?</v>
+
+00:36:09.990 --> 00:36:11.620
+<v Speaker 1>Not really. I'm trying to make a.</v>
+
+00:36:11.850 --> 00:36:13.680
+<v Speaker 2>Serious worries about Arrow in that case.</v>
+
+00:36:17.150 --> 00:36:24.500
+<v Speaker 1>You go back to watching Arrow. I have to go play my league match. Mike Tifa always a pleasure. Let's that let's give our Twitter handles.</v>
+
+00:36:24.870 --> 00:36:27.600
+<v Speaker 2>I'm at Monty_Ashley.</v>
+
+00:36:27.710 --> 00:36:30.160
+<v Speaker 3>You can always find me at Michael Robles.</v>
+
+00:36:32.150 --> 00:36:38.040
+<v Speaker 1>And I'm at trick MTG for daily MTG. We will see you all in two weeks.</v>
+

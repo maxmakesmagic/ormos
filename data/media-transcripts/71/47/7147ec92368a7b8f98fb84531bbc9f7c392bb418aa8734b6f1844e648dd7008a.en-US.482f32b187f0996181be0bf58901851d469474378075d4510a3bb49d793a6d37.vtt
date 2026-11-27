@@ -1,0 +1,350 @@
+WEBVTT
+
+00:00:01.770 --> 00:00:03.560
+<v Speaker 1>Previously on Drive to Work.</v>
+
+00:00:04.460 --> 00:00:06.640
+<v Speaker 1>Today we're going to talk about Industrywide.</v>
+
+00:00:07.470 --> 00:00:10.220
+<v Speaker 1>Hmm, this is interesting. I'm not done.</v>
+
+00:00:11.350 --> 00:00:12.890
+<v Speaker 1>I guess we're gonna have our first two partner.</v>
+
+00:00:14.430 --> 00:00:20.580
+<v Speaker 1>Hello everybody and welcome to Part 2 of Innistrad.</v>
+
+00:00:21.300 --> 00:00:52.490
+<v Speaker 1>I'm I've always pulled out of my driveway, which means it's time for drive to work. OK guys, I did not finish my story last time, so I'm going to finish it today or maybe I'll finish today. I have no idea. Like I said, these podcasts are not not carefully planned out. It's just me talking while I drive to work. OK so yesterday, oh for you guys, I recorded this yesterday. I didn't want to forget Part 2</v>
+
+00:00:52.560 --> 00:01:04.300
+<v Speaker 1>so I'm doing it the day after I recorded Part 1. You guys probably listen to this a week ago so but trade secret when you're doing Part 2, don't wait too long because you'll forget what you said. OK, so</v>
+
+00:01:05.710 --> 00:01:35.620
+<v Speaker 1>the idea was we were talking about trying to figure out how to make the werewolves work. And I talked last time about how we explored the night day and it was neat, but it was clunky and anyway it didn't end up working out. So meanwhile, at the same time we were trying out day night, we were trying out double faced cards, which are the time by the way, we called double sided cards. Well, so why don't we call them double sided cards that are they double sided cards? And the answer is</v>
+
+00:01:35.750 --> 00:02:06.160
+<v Speaker 1>all Magic carbs are double sided. Um, what makes these unique are not that they have two sides is that they have two faces. That's why they're double faced and not double sided. But all during design we called them double sided and then Dell pointed out that all Magic cards are double sided, so we changed it to double face. OK, So what happened was I was trying to figure out the problem. I didn't want to just have one solution because one of them might not work out as was the case with us night and day. So essentially we did a bunch of things at the same time, or two ones really,</v>
+
+00:02:06.290 --> 00:02:15.440
+<v Speaker 1>and that's an important part. A lot of times we're trying to solve a problem is sometimes you want to try multiple things at the same time because you cover more space quickly. OK, so</v>
+
+00:02:16.570 --> 00:02:17.780
+<v Speaker 1>we were</v>
+
+00:02:20.320 --> 00:02:23.970
+<v Speaker 1>trying the once again recap from last time,</v>
+
+00:02:25.410 --> 00:02:55.730
+<v Speaker 1>Dungeon Master, not Dungeon Masters, Dual Masters, which was a game that we also make Wizards makes, had tried doing double not tried. They had done double face cards. And so we knew that we could print them. We knew that we had the technology to be able to make them and they were very popular in Japan, which is where the game comes out. And so Tom had brought up Tom Lapilli, who was the development representative on the design team brought up because he had worked on a dual master team and he had seen the double faced cards and said, Oh, well,</v>
+
+00:02:55.970 --> 00:03:14.380
+<v Speaker 1>that's a way we could do werewolves, you know, human on one side and werewolf from the other. And so I like the idea and well, I should say, I was skeptical that we would do it, but I liked I liked that it captured what werewolves were and I was willing to explore it</v>
+
+00:03:15.780 --> 00:03:46.160
+<v Speaker 1>and then actually stressed this. I mean, a lot of times I'm always the one saying, Hey, let's do this crazy thing and was like, what are you talking about? You know, when Tom first presented it, I said, OK, it does solve our problem. Now, I don't know if we want to do the things that it's requiring, but the first step I always do is figure out whether or not something's fun. If something's fun enough, I will fight for it. But if it's not fun, it's not worth it. I'm not going to have a big fight unless I really think it's worth it. And another thing, by the way, I want to stress that double faced</v>
+
+00:03:46.230 --> 00:04:16.110
+<v Speaker 1>cards came about because I was trying to solve a problem. The problem wasn't what's the we need a crazy thing. What's the crazy thing? I'm not a big fan of that. I'm not a big fan of finding something, you know, out-of-the-box just to find something out-of-the-box. Others are a little more fond of that than I am. I kind of believe that I'm willing to go out-of-the-box when I need to solve my problem, but that's because I exhaust in the box and then I need to turn it out-of-the-box. So double faced cards were us trying to solve werewolves, not us trying to do something to cause</v>
+
+00:04:16.240 --> 00:04:46.700
+<v Speaker 1>controversy or, you know, draw attention to the set. That was never its intention. Anyway, Tom presented the idea, I said, OK, sounds good. So originally the question was how would these things function now in dual Master? They existed in like the extra dimensional zone domestic, a little more wonky than Magic. And so the idea was cards brought them into play. And so we've started there, said, OK, well, what if you had a card that was in your deck, one sided card that you used,</v>
+
+00:04:46.780 --> 00:05:17.900
+<v Speaker 1>cast this card and that the double face card would be kind of like a token. I mean, it wouldn't exactly be a token, but it'd be kind of like a token in the sense that I play the spell, I go get this other thing, it gets in play. And the idea was, well, OK, it's kind of like casting a token, except you have to have this thing like you can't use anything, you have to use this thing. And that the card that gets it doesn't explain everything about it because in a token card, the qualities of the token are spelled on the card</v>
+
+00:05:17.970 --> 00:05:47.860
+<v Speaker 1>created. Where here is like, go get a card, this card named blah blah blah put it into play. So we place it for a good chunk of design. That's how we play tested. Have this card. So I draw it, OK, go get bloody blah. That means I go get, you know, the human, werewolf, human side up and then it works. Oh, OK, so that was how we did it. So the question then was how do you go from human side to werewolf side? That was a separate issue. So what happened was</v>
+
+00:05:48.050 --> 00:06:04.060
+<v Speaker 1>we explored a couple different things. For example, we explored mana, like just spend mana, and now it goes from side to side B. The problem was the werewolves had a very distinctive flavor restriction, which is</v>
+
+00:06:05.730 --> 00:06:34.830
+<v Speaker 1>in mythology, you know, where wolves become werewolves go from human to werewolf at night. The full moon, in fact, under a full moon very specifically. So it's like, oh, OK, the full moon comes up. So it didn't make any sense that I had a werewolf. Like one of my werewolves was human and one of my werewolves werewolf didn't make any sense. Like if one of my werewolves is a werewolf, then the state that makes him a werewolf should make all werewolves werewolves. And it also makes sense that if I had a gun on my side and you've got on your side, either we're both werewolves</v>
+
+00:06:34.910 --> 00:06:48.000
+<v Speaker 1>full of humans, you know, either the full moon is out of full moon is not out. The other thing that I cared a lot about was I wanted to make sure that the gameplay between the human and the werewolf state was something each player had some control over.</v>
+
+00:06:49.770 --> 00:07:06.980
+<v Speaker 1>I mean, could we explore the idea that we could have made something? We're like, put it out, you know, and track something and then after somebody turn, slip it over, you know, it's humans for three turn. That's where for the returns. But I kind of felt like that last. It lacked a little diner, diner dynamism. I'm accessing this word</v>
+
+00:07:08.310 --> 00:07:09.310
+<v Speaker 1>dynamic quality,</v>
+
+00:07:11.810 --> 00:07:12.480
+<v Speaker 1>so</v>
+
+00:07:13.360 --> 00:07:43.910
+<v Speaker 1>I didn't like like we could just put it on auto like where you're right, it's it's a human for a certain amount of time, but I didn't like that because I said that what was fun was ohh. So let me talk a little different quality that'll come up. Weave in something else we were doing. So one of the things I believe when I'm designing a sad is I want to tone. I want a feel for the set. So one of the things I always talk about is I'm very psychological in my design approach that I talked about how Once Upon a time our he was very math based and that I brought</v>
+
+00:07:44.360 --> 00:07:50.590
+<v Speaker 1>it's sort of psychology quality. So one of the things that I care about when I'm designing is what is the person feeling when they're plays,</v>
+
+00:07:51.280 --> 00:08:21.620
+<v Speaker 1>you know, because if we're trying to capture something, emotions are important part of it. Now let me separate. There's two different times of emotions. There's just the visceral thrill of playing and there's excitement that comes from, oh, I got a big creature that's exciting and stuff like that. But also there is the emotion that's sort of the you generate from the style of play. And what I want to do is I wanted to make, I always do. I want to make the tone of the game the kind of way you're feeling match the tone that we want to set to have from a flavor</v>
+
+00:08:21.690 --> 00:08:22.260
+<v Speaker 1>standpoint.</v>
+
+00:08:22.940 --> 00:08:53.390
+<v Speaker 1>So we were doing horror. That meant I wanted to create a sense of suspense. Well, how do you do that? Well, there's a couple ways. One is you want to make sure that your threats so and sometimes you want your threats to be a surprise, but in in to create suspense. So there's a great Hitchcock talks about the difference between surprise and suspense. So it says surprise until Alfred Hitchcock, by surprise,</v>
+
+00:08:53.460 --> 00:09:06.350
+<v Speaker 1>has Two guys are sitting at a table. Bam, a bomb blows up, they die. That's surprise. We respect that. Suspense says two men are sitting at a table. You show the bomb and watch it slowly ticking down.</v>
+
+00:09:06.990 --> 00:09:36.780
+<v Speaker 1>Now that is suspense because you now know the bombs going to go off, but you don't know when you know, are the men going to still be there when the bomb goes off? You know, so that creates suspense. And So what I wanted to do was I wanted to create suspense in the game. Well, one of the things that meant is the threats had to be more public. For example, with the werewolf, I liked the idea that there's a human. You know, the werewolf side is the scary side, not the human side. So if you have if your opponent has a werewolf that sorry,</v>
+
+00:09:36.950 --> 00:09:53.750
+<v Speaker 1>human in play or human, human werewolf, then you're like, ohh, I'm a I'm scared because I know one day that bomb is going to go off. I don't want to be around when that happens or, you know, I want the game to be over or something. And so one of the things was to</v>
+
+00:09:54.840 --> 00:10:25.410
+<v Speaker 1>wanted to be able to make the humans becoming a werewolf something scary because, you know, I wanted to have a suspenseful quality. The other thing we did a lot of is we ratcheted up a little bit more the uncertainty of things like notice whenever you get a card back from the graveyard, it was random. Partly what that was to keep repetition of play. But I know this was I wanted to create suspenseful moments. And part of suspense is not knowing the outcome of things. So we had more cards in the set on purpose,</v>
+
+00:10:25.490 --> 00:10:27.710
+<v Speaker 1>the kind of you didn't quite know what was going to happen.</v>
+
+00:10:28.480 --> 00:10:49.510
+<v Speaker 1>The other thing, and I'll get to Morbid in second, but Morbid also played into this, where I wanted death to take on a circle different feeling. And one of the things I wanted was ohh, well, things dying meant bad things could happen. So it was kind of scary when things died. But I'll get to Morbid a second. OK, so we're trying to figure out how to make the werewolves work</v>
+
+00:10:51.390 --> 00:11:03.040
+<v Speaker 1>and like what day night. We had goofed around the idea of spells, and I like the idea of marking spells as time because it was something people had control over. And so we figured out was well</v>
+
+00:11:04.860 --> 00:11:21.790
+<v Speaker 1>I wanted some number of spells to turn and so I had to go different directions. I figured out, OK, well one of them should be if nothing happens and one should be if something happens. And so originally the idea, I think the reason the werewolf turn was 0 was the idea that</v>
+
+00:11:23.660 --> 00:11:53.550
+<v Speaker 1>I wanted you to get to the point to where you, I wanted to be able to turn the werewolf with some heads up, some cost to it. It wasn't easy. And so the idea was, well, early game, I want to keep casting things. So if I want to turn my werewolves, I have to actually have a cost to do it. But later game I might just run out of cards. I might naturally have to do it. And so that also meant my opponent, like you, created suspenseful moments for my opponent because my opponent wanted to make sure to cast something every turn because he didn't, you know? And then the flip back</v>
+
+00:11:53.620 --> 00:12:02.260
+<v Speaker 1>from 2 spells made this dynamic, which is interesting as well. If there's enough energy to keep it from flipping over the 1st place, they're gonna deplete their hand, making it harder to turn them back.</v>
+
+00:12:03.720 --> 00:12:33.590
+<v Speaker 1>Also, it made this nice dynamic where there was this interesting catch up feature where once I had a werewolf in play, my werewolf is dominant and good. I now am restricted from casting 2 spells of turn because I don't want to turn off my werewolf. So it's kind of neat that the guy who has advantage has a little bit of a disability built-in to keep his werewolf around. But anyway, I mean, it's funny that I had a Hunter 1 to go and we played Test and then as we played Tested, I realized it had a nice feel. And so we sort of locked down the werewolf mechanic.</v>
+
+00:12:34.400 --> 00:12:59.970
+<v Speaker 1>And what I realized by the way, was when we were playing with the double faced cards, you know, they felt right, they felt good. And remember, at this point they still were something was outside the deck that you had a car and you casts. I'm like, OK, they're knee throughout, so they're outside the deck. But you know, that's kind of what we're we're shaking up a little how tokens work. I mean I know they wouldn't technically be tokens but it would have a token feel.</v>
+
+00:13:00.910 --> 00:13:02.780
+<v Speaker 1>OK, so now</v>
+
+00:13:04.330 --> 00:13:06.310
+<v Speaker 1>it is my set is due.</v>
+
+00:13:08.290 --> 00:13:21.110
+<v Speaker 1>It's about, I don't know, four or five months before my site is due to development. So I finally go to Aaron and I say I need to talk with caps. I think we want to double faced cards. OK, I'm convinced we want to do them. And I knew there was a big enough</v>
+
+00:13:22.580 --> 00:13:39.960
+<v Speaker 1>like caps, by the way, is the people who actually inside a Wizards prep the cars and print the cards and we ship them to a printing plant. But they're the ones that do all the preparation. And so double faced cards, even though I knew they were possible dual masters had done them, I I didn't know what it meant. I didn't know the ramifications on Magic</v>
+
+00:13:40.680 --> 00:13:51.740
+<v Speaker 1>plus. The other thing was in order to work, what I wanted to have happen is every pack had went double face card and the parallel single sided card that brought that double faced card into play.</v>
+
+00:13:53.870 --> 00:13:58.390
+<v Speaker 1>And I mean, that was crucial because I need to make sure you had both pieces to it. So</v>
+
+00:13:59.820 --> 00:14:07.300
+<v Speaker 1>it went off to our people. And the way CAPS works is, you know, they talked with the printer, they figure out price and they figure out what's capable, what can be done.</v>
+
+00:14:08.640 --> 00:14:09.230
+<v Speaker 1>So</v>
+
+00:14:10.040 --> 00:14:40.170
+<v Speaker 1>we went to them and I know I went very early because they take a lot of time to figure things out. Sometimes we have to do tests, we'll print tests. But anyway, so they came back a couple months later and they said to us, Oh well, OK, we can get 2 cards together. You know, they can do the double face cards that have in their own sheet and we'll get in print too much. But double faced cards were doable. The the tricky part was not the double faced cards, it was getting the two cards paired together because normally the magic we never say card and card be have to be together in the same booster.</v>
+
+00:14:41.520 --> 00:15:01.410
+<v Speaker 1>You know, we'll put things together on sheets and obviously if A&amp;B are together on sheet, they increase the possibility of being in a booster back together. But now double faced cards. So the idea I thought was what we'd make a sheet in which it'd be double face card and right next to it with single face card of the same one.</v>
+
+00:15:02.210 --> 00:15:05.320
+<v Speaker 1>OK, so the first problem we had was that</v>
+
+00:15:06.580 --> 00:15:09.590
+<v Speaker 1>think we use in the back of the card, the increase in the front yard aren't the same.</v>
+
+00:15:10.860 --> 00:15:31.450
+<v Speaker 1>So that what you do for the face and what you do for the backwards slightly different. Well, on the back of this sheet, because it's double face, all the double faced cards would have a face on the back, but all the single face would have the back. So right on the back. OK, that was a little problematic. The second thing we learned is that we can't have a the one for one relationship requires some extra maneuvering on the printing.</v>
+
+00:15:32.190 --> 00:15:41.880
+<v Speaker 1>The the printing people would have to do some more stuff to make sure they were together. And it was a 90% success rate, which meant one out of 10 packages they wouldn't match.</v>
+
+00:15:42.870 --> 00:15:49.920
+<v Speaker 1>And we decided that it wasn't good enough that, you know, if we're going to do it, we wanted have a one for one correlation. You know,</v>
+
+00:15:50.740 --> 00:15:57.920
+<v Speaker 1>99.9% of the time, you know, it wasn't OK that one out of every 10 in fact wouldn't match up. I'm having cause also brought for limited.</v>
+
+00:15:58.780 --> 00:16:08.380
+<v Speaker 1>It's tough to say, ohh, here's your double faced card. Here's a single space card. That's not that double face card. And so we we're stuck, we're stymied. We're like, how do you do that?</v>
+
+00:16:10.400 --> 00:16:18.460
+<v Speaker 1>So finally, I think the solution, we talked about all sorts of different things. And I mean we, we, we have the problem we worked on for months.</v>
+
+00:16:20.100 --> 00:16:22.690
+<v Speaker 1>And finally, Mike Turian,</v>
+
+00:16:24.170 --> 00:16:49.930
+<v Speaker 1>I called the Gordian Knot answer. He said just make him double face, just put him in the decks and I'm like, but there don't have backs on them. And he's like, look, I've done the research because at the time my train was now he used to be a developer in R&amp;D for Magic. Now he works in organized play. And so he had a lot more data from organized playing. He said. Look, I've seen the data. Something like 95% of people play constructed Magic with sleeves on</v>
+
+00:16:50.660 --> 00:16:54.090
+<v Speaker 1>and limited its last, although even limited it was over 50%.</v>
+
+00:16:56.350 --> 00:17:11.510
+<v Speaker 1>And so he said, well, what if we just put him in, you know, and then and a lot of people have sleep, but the answer was well, but what if they don't have sleeves? And so we're like, OK, we need something you can put in that we represented of and then somebody</v>
+
+00:17:13.190 --> 00:17:43.290
+<v Speaker 1>that number who was it? Aaron maybe came up. They have a checklist card. But what if we had a FaceTime car that just represents every magic card And if we're at one point about you right on it and they're like, well, no, we know the card. So we decided to make the checklist card. The idea was, look, just put it in your deck if you have sleeves. If not, well, here's a backup that allow you to be able to do it. I'm going to checklist wasn't ideal. It's nowhere near as good as having the one point correlation. And the biggest, my biggest issue with the checklist card, by the way, is that artists such a big</v>
+
+00:17:43.370 --> 00:18:11.350
+<v Speaker 1>part of the game. And like in the previous version, the idea was going to be the single sided version had the same art as the A side version of the card. So it's like, oh, here's the human. I cast them. Now there's the matches up and there's a human. And like, not having heard in the car doesn't blow the confusion of what card is exactly. It was not the perfect answer, but because we decided that so many people with sleeves like, OK, it's not going to be a problem for most people. And if people really want, they can swap in this card.</v>
+
+00:18:13.040 --> 00:18:15.480
+<v Speaker 1>And so interesting that happened was OK. So we,</v>
+
+00:18:16.870 --> 00:18:46.620
+<v Speaker 1>we had the double face cards. We were figuring how to do them meanwhile in R&amp;D. And this didn't happen until, even though design said we were doing them, it wasn't till development got their hands on the file that people started coming out of work. I won't name names, but there are a couple of people who went to Eric Lauer, who was the head developer of Innistrad and said to him, you cannot do these cards 100%. This is these are wrong. And when the cards first came out, a lot of people voices of you're breaking a fundamental rule,</v>
+
+00:18:46.690 --> 00:18:54.750
+<v Speaker 1>Magic, you know, you're just doing something can't be done. It's going to destroy draft. I mean all the excuses for why was a horrible idea</v>
+
+00:18:55.980 --> 00:19:26.210
+<v Speaker 1>and Eric was very confused because and what happened was usually when we do something that's a little more out there as the head designer, as lead designer, the said I feel it's my obligation to sort of fight for the thing that if I I believe it's right. I don't want something that doesn't make sense and it's that. But once I believe it's correct and I believe that the audience will like it. I 100% faith. I believe the double faced cards were going to be a popular and it's funny because when we didn't play testing is we would print out both sides and we would tape them together. And once I like</v>
+
+00:19:26.290 --> 00:19:30.710
+<v Speaker 1>really in the 1st place, that's where I had the tape version of the play test card. Like I'm just like,</v>
+
+00:19:31.490 --> 00:20:01.300
+<v Speaker 1>I can tell from that. I can tell from that I even knew he was out on it, that it was something that I think people really embrace. And I knew, I knew that, you know, there were going to be people that didn't like it. I mean, that's the nature of the beast. I mean, one of the things about my job is my job as the head designer is to keep pushing magic new directions. And you know what, change is scary. You know, people, humans fundamentally fear change. My job was to keep making the game change. Why? Because that is what magic is.</v>
+
+00:20:01.580 --> 00:20:31.770
+<v Speaker 1>You know, I've talked about the crispy hash brown theory, the idea real quickly, never heard, although you're not reading articles. The idea is we need hash Browns, the best part of the hash Browns, the outside, the crispy part of the hash brown. And then once you need the outside, you need the inside. It's OK, but it's not the outside. And games to me have that same quality, which is it's the learning of the game that's the most fun. And then once you learn the game, at that point you start taking wrote stuff into mine. Like if you want to get real good at Scrabble, you're memorizing 2 and three letter words. You want to get really good at chess. You're memorizing</v>
+
+00:20:31.840 --> 00:20:54.980
+<v Speaker 1>opening moves that you're starting to start have to memorize things. And that to me, a lot of the fun is the exploration and discovery process. And So what Richard did when he made Magic was that a trading card game has this endless quality in that it keeps reinventing itself because as new cars get made, new rules get added and new concepts work and things that once were automatic automatically more.</v>
+
+00:20:56.970 --> 00:20:59.820
+<v Speaker 1>And so you definitely have this quality of,</v>
+
+00:21:01.340 --> 00:21:31.450
+<v Speaker 1>I mean, people play Magic for a long time. You know, the average player plays 8-9 years now and that's crazy. I don't know if he looks at any other game, but you know, borrowing something like chess or bridge or something where there's like a long standing history. You know, it's very hard to get people to play games as long. And I think what Magic does is it keeps reinventing itself. Well, my job is a designer. Let's keep reinventing itself. And so I had faith in double faced cards. I felt they were being done for the right reason. We were trying to capture something. Oh, something else, by the way. So</v>
+
+00:21:31.550 --> 00:21:37.290
+<v Speaker 1>all the double faced cards, I decided needed to be horror tropes. You know, it's a,</v>
+
+00:21:37.980 --> 00:22:05.250
+<v Speaker 1>it's it's a vampire turns into a bad, it's a scientist turns into a, you know, abomination, by the way, which is hilarious. I I should note that when I made the card, I just because it was a fly RIP off, the card was like wizard on one side and insect wizard on the other side. And I didn't necessarily think that the creative team was going to keep it in sort of a as an insect thing, because to me it was a fly joke. But they did, and I was very happy.</v>
+
+00:22:06.490 --> 00:22:07.710
+<v Speaker 1>You know, I mean that that</v>
+
+00:22:08.570 --> 00:22:24.770
+<v Speaker 1>I I sometimes like I did a lot of jokes and I didn't know how much they would carry over, but the creative was really good about finding things that would fit in the world. So by the way, there's only one card that got you double faced card, which was the white common creature. What was supposed to be was on one side, you had</v>
+
+00:22:26.840 --> 00:22:56.410
+<v Speaker 1>an unruly mob and then when a creature died, it turned into an angry mob. You know, everything. It was like it was the citizens of the town, but when one of your creatures died, it turned into an angry mob. And the problem was we had too many mobs. And so they decided they needed to cut a mob. So they cut that mob rather than another mob. That was the trope. And so it always annoyed me a little bit. Like it's the only double faced card that isn't like a stet horror horror trope and all the rest I set up to be specifically like exact horror trope. So anyway,</v>
+
+00:22:57.450 --> 00:23:26.960
+<v Speaker 1>so the, there was a lot of people and not a lot, but there are a few very vocal people speaking out against the double faced cards. And I, I had to go full court press. You know, Eric, Eric just didn't know. He didn't know how people would feel. And kind of my job is, I mean, one of the reasons that I, I have such a connection with the public is I want to know what you guys think. And so that's why I'm constantly interacting and fielding questions. And you know, my job is to understand what you guys are going to think and feel because I have to do something you've never experienced and kind of gauge what I think you'll think of it.</v>
+
+00:23:27.040 --> 00:23:57.110
+<v Speaker 1>And I was convinced double faced cards would be popular. Luckily, what happened was I convinced Aaron that it was the right thing. And Aaron just said to Eric, look, we're doing them. This is going to be good. It's going to go over well. We believe in it. We're doing it. And Eric said, OK, you know, my, you know, I've been told from up on high, this is going to happen. I'm going to make this the best I can make them. And he delivered. And I mean, I think that that that, that they all were played well and had, I mean, the balance of them was very neat because they could be very hard to balance. And I thought</v>
+
+00:23:57.190 --> 00:23:58.390
+<v Speaker 1>did a very good job.</v>
+
+00:23:59.830 --> 00:24:19.900
+<v Speaker 1>Yeah. And by the way, I've talked about the wearable thing before. There's a lot of little things that like Eric's team did. Like one of the things was in my original version, any 2 spell slipped it over and then Eric changed it. 2 spells out the same person. Meaning it wasn't like, oh, you casts one spell and the opponent casts spell, all of a sudden they turned over so that you were afraid of cats even 1 spell.</v>
+
+00:24:20.680 --> 00:24:48.080
+<v Speaker 1>And also he made sure that it counted the turn before, so there wasn't any turn shenanigans. But one of the things development does, by the way, one of these days, maybe I'll just do a development podcast is development is all about figuring out what you want to do, but making sure a little nooks and crannies all work. So it's doing what you mean in spirit. Because technically a lot of ways for people to fiddle with things. You got to be careful. OK, let me talk about morbid. So I was trying to create this sense of, of</v>
+
+00:24:48.710 --> 00:24:53.640
+<v Speaker 1>being afraid of things and I knew that I was going to have graveyard be a component,</v>
+
+00:24:55.390 --> 00:25:01.720
+<v Speaker 1>but I also wanted, I wanted death to be a component. I wanted death to matter. And So</v>
+
+00:25:02.660 --> 00:25:07.350
+<v Speaker 1>what happened was, uh, I started with the idea of,</v>
+
+00:25:08.720 --> 00:25:39.250
+<v Speaker 1>well, we were messing around with Delve was actually where we started was when I had done future sight, I believed the delve. I knew we were gonna go to gothic horror world. I knew was gonna be strong graveyard component. And So what I made delve in my head, I was actually thinking, ooh, this is a neat idea. We, we might use this for, you know, for the horror set. Like I actually made the mechanic thinking this was going to go. So when the started up, Hey, the very first thing I did was say, OK, let's go try delve. And I learned interesting thing about Delve,</v>
+
+00:25:39.320 --> 00:26:09.580
+<v Speaker 1>which is Delve actually doesn't work well on the graveyard set. Now that sounds kind of counterintuitive since it's a mechanic that works in the graveyard, but the problem is in the graveyard said you want to have multiple things dealing with the graveyard and the problem is delve just choose it all up. And so since delve uses your graveyard as a resource, nothing else gets to use your graveyard as a resource. And one of the things that works well on the graveyard said if you want cards that care about the graveyard, you know, for example, one of the big themes in green was we had a bunch of creatures that like</v>
+
+00:26:10.040 --> 00:26:29.850
+<v Speaker 1>the flavor of green is green is all about its ancestry. Green cares about history. And so it's big stick was ohh, well, I, I care who came before me. And so I care about what creatures are in the graveyard. And so that was a thing in green. You know, we paired it with blue because blue head milling, so blue itself mill and that was all planned. So</v>
+
+00:26:31.180 --> 00:26:45.070
+<v Speaker 1>ah, Delve kind of fought against that. But like, I can either do Delve or I can do a whole bunch of other things I wanted to do. And in the end it's like, Oh well, Delve is not worth losing everything else. So we kept Delve.</v>
+
+00:26:47.960 --> 00:26:49.200
+<v Speaker 1>OK, so</v>
+
+00:26:51.920 --> 00:26:56.410
+<v Speaker 1>I they were saying, well, I need to deal with something about the graveyard. I want mechanic. That's a new mechanic</v>
+
+00:26:57.890 --> 00:26:59.210
+<v Speaker 1>which gets us the flashback.</v>
+
+00:27:00.310 --> 00:27:30.420
+<v Speaker 1>OK, so well, I'll get flashback in a SEC. OK, so I knew I wanted something that cared about the graveyard and I tested a bunch of different graveyard mechanics out. None of them are really doing what I wanted. I mean, obviously I have a few other things I did, but none of them were the mechanic I wanted. And finally I said, you know what? It's not that I care about the graveyard as much as in in horror world. I want death to mean something. I really want death to be relevant. You know,</v>
+
+00:27:30.510 --> 00:27:48.090
+<v Speaker 1>like, I like the idea that when something died, you're like, ohh, something died. And I wanted that to have a emotional impact. And so we played around with the idea of, I said, OK, what if we just had a mechanic that's like death matters. And we tried a couple of different things.</v>
+
+00:27:49.550 --> 00:28:00.810
+<v Speaker 1>We would look at what a died or how many things had died. And then finally I got to the point of I kind of looked at landfall for this and I said, OK, what do I adjust? It just says</v>
+
+00:28:02.570 --> 00:28:07.630
+<v Speaker 1>are actually on the landfills the right comparison. I said I just want to spell that goes hey, did something die or not?</v>
+
+00:28:09.200 --> 00:28:21.970
+<v Speaker 1>I guess it's more thresholding, but but a short term threshold rather than a long term. And I like the idea of just saying, OK, the question is did something die? Yes, OK, I get a bonus Now the hard part about doing morbid was</v>
+
+00:28:24.900 --> 00:28:42.250
+<v Speaker 1>because death tends to happen at certain times, certain effects didn't make a lot of sense. You know, like for example, let's take giant growth. Well, giant growth is an effect that you can make bigger, but the problem is</v>
+
+00:28:43.900 --> 00:28:49.590
+<v Speaker 1>it, it is tricky to use. Not saying we can't use Giant Growth. I'm trying to explain that</v>
+
+00:28:50.850 --> 00:29:13.730
+<v Speaker 1>you can't use it necessary in the way you think you wanna use it, right. I can't have something die and then have my guy grow if the thing dies while it's in combat. That doesn't work. And so we had to be careful that we didn't do effects that kind of wanted to be combat effects in general. That steered us away from doing instance that we mostly wanted to do sorceries because we wanted to kind of do a facts that were relevant when you played them.</v>
+
+00:29:15.240 --> 00:29:28.230
+<v Speaker 1>And Mormon also had this like morbid ended up being some of the development had to work with because I like a lot the idea and I like the impact it had on the game. I like the idea that something dying was something you had to be relevant of and and and times afraid of.</v>
+
+00:29:30.210 --> 00:29:36.560
+<v Speaker 1>But I anyway, and one of the things about that she said this about in general about mechanics is</v>
+
+00:29:38.050 --> 00:30:08.510
+<v Speaker 1>I'm not of I call vacuum person, which is I like to pick a mechanic that makes sense where it is Once Upon a time, magic, literally when I first started working on magic. It's like, what's your two mechanics? Make your set the two mechanics that have nothing to do with each other. You know, I mean, look at some of the early days, like mirage had flanking and phasing has nothing to do with together. You know, I mean, Tempest had shadow and buyback. Now. I worked hard to make some relevant to each other and that they contrast each other, but they weren't</v>
+
+00:30:08.600 --> 00:30:19.200
+<v Speaker 1>really connected. And what was your Zager was cycling and echo and those have no inherent connection. The early days, but now it's like mechanics serve.</v>
+
+00:30:19.900 --> 00:30:36.630
+<v Speaker 1>The way I like to think of it is I'm a painter and mechanics are my paint. I have a canvas that sets my canvas and mechanics are my paint and I'm trying to use them as means to sort of convey what I want to convey. Like I said earlier, I wanted to get a sense of suspense, right? I wanted to have a sense of</v>
+
+00:30:37.960 --> 00:30:53.190
+<v Speaker 1>we were playing that you had sort of stealing. They were, you know, kind of worried that something was going to happen. And a lot of times you knew what was going to happen. He wanted not to happen. And, you know, if this human was going turn werewolf, well, you wanted to get a kill spell. You want to kill the human before he turned into a werewolf because you knew bad things were coming.</v>
+
+00:30:54.670 --> 00:30:59.430
+<v Speaker 1>And Morbid played in my mind directly into that, which is very much</v>
+
+00:31:00.960 --> 00:31:13.070
+<v Speaker 1>allowed you to have a, the sense I wanted of, you know, this is a dangerous world. And in a world where horror range supreme, you know, death matters. And then that was a big part of Morbid.</v>
+
+00:31:14.040 --> 00:31:18.350
+<v Speaker 1>OK now, now we get to the part of talking about</v>
+
+00:31:19.750 --> 00:31:31.620
+<v Speaker 1>Flashback and how flashback ended up in the set. One small problem which is I see the building. Yes, this isn't A2 parter, it's a 3 parter.</v>
+
+00:31:33.710 --> 00:31:57.000
+<v Speaker 1>I guess wanna talk about newer sets have a lot more to say. Maybe because I'm a member more maybe that's what's going on. But anyway, I'm trying to let these podcasts naturally be what they want to be and I'm at work. I have not talked about, I'm not talking about flashback yet. I've not talked about any of the tribal. I mean, I talked about how we chose the tribes, but I didn't talk about how we made them into what they were. So that means we're not done yet.</v>
+
+00:31:58.560 --> 00:32:12.930
+<v Speaker 1>So next time we will have Part 3 where I talk about hopefully the rest of industry. But until then, I guess it's time to go make the magic.</v>
+

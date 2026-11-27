@@ -1,0 +1,680 @@
+WEBVTT
+
+00:00:04.220 --> 00:00:11.440
+<v Speaker 1>Hello and welcome to episode 13 of the Daily MTG Podcast. I'm your host trick chair here, my 2 Co hosts Tifa Mayan and Gavin Verhey. How you guys doing?</v>
+
+00:00:11.490 --> 00:00:12.200
+<v Speaker 2>Great.</v>
+
+00:00:12.570 --> 00:00:14.980
+<v Speaker 3>Ready and excited to talk about some Dragons made.</v>
+
+00:00:14.990 --> 00:00:22.500
+<v Speaker 1>Well, we can't dive into that yet. Settle down. We have another person in the booth with us. Another esteemed guest, Mr. Sam Stoddard. How you doing man?</v>
+
+00:00:22.510 --> 00:00:23.920
+<v Speaker 4>Hello I'm doing great.</v>
+
+00:00:23.990 --> 00:00:26.460
+<v Speaker 1>It's your first time in the booth with us it.</v>
+
+00:00:26.470 --> 00:00:27.580
+<v Speaker 4>Is happy to be.</v>
+
+00:00:27.590 --> 00:00:29.880
+<v Speaker 1>Here you and Gavin actually</v>
+
+00:00:30.110 --> 00:00:33.750
+<v Speaker 1>both came. I mean not at the same time, but within like a year of each other, right?</v>
+
+00:00:33.820 --> 00:00:35.090
+<v Speaker 3>About six months or so 6.</v>
+
+00:00:35.100 --> 00:00:41.650
+<v Speaker 1>Months or so and you're you're, you're part of the new school of R&amp;D, you're changing it up, you're showing those old gauges how it's done.</v>
+
+00:00:41.700 --> 00:01:00.440
+<v Speaker 3>Well, mostly the old folks are showing us how it's done. You know, either way, it's cool because Sam and I, you know, played a bunch of events together and did a bunch of stuff outside of Wizards. Then to be able to work together now in the same environment is cool. You know, we get to hang out and and Sam goes back with a lot of the other developers like Tom Mapelli. So it's great that we all are in the same</v>
+
+00:01:00.530 --> 00:01:03.870
+<v Speaker 3>environment, have been playing for so long together outside of it, Now we're all here together.</v>
+
+00:01:03.920 --> 00:01:06.150
+<v Speaker 4>Right. It's like a big reunion. It's nice.</v>
+
+00:01:06.520 --> 00:01:08.120
+<v Speaker 3>It's like a school reunion every single day.</v>
+
+00:01:08.340 --> 00:01:11.490
+<v Speaker 1>Get together and hold hands and sing campfire songs every morning.</v>
+
+00:01:11.880 --> 00:01:12.710
+<v Speaker 4>They're smores.</v>
+
+00:01:12.780 --> 00:01:26.900
+<v Speaker 1>Smores, there you go, magic smores. So with you guys being here with, you know, for less than roughly a year, a little over that you Dragons maze actually holds a lot of importance to you guys and a lot of because this is like the first set. I think both of you got to work on right?</v>
+
+00:01:27.220 --> 00:01:30.430
+<v Speaker 3>I got to work on Ravnica and I was on the development team for Gate Crash.</v>
+
+00:01:30.540 --> 00:01:34.190
+<v Speaker 3>Yeah, Dragon Mage was big, right as Sam was entering, and that was his. He was your first set.</v>
+
+00:01:34.200 --> 00:01:41.450
+<v Speaker 4>Right, that was my first set and it's also the first set of actually been on the development team for so it was a it was a huge thing for me that's.</v>
+
+00:01:41.460 --> 00:01:42.220
+<v Speaker 1>Like it's a dream come.</v>
+
+00:01:42.230 --> 00:01:43.280
+<v Speaker 4>True, it is a dream.</v>
+
+00:01:44.110 --> 00:01:47.030
+<v Speaker 1>Was the first meeting just like the weirdest thing ever?</v>
+
+00:01:47.850 --> 00:01:58.360
+<v Speaker 4>The first meeting was very overwhelming, not as bad as the first draft where I I came in of course not knowing what was in Ravnica or gate crash. And it's like, okay, draft the whole block.</v>
+
+00:01:58.370 --> 00:02:11.790
+<v Speaker 1>Right. I remember coming down to the pit and seeing you on the first day you're in here and you're eyes were like bugged out of your head because you were busy going through the stacks of like here is Magic's future. You have to learn all of these cars that no one else knows so that you can quickly get up to speed for play, testing and.</v>
+
+00:02:12.250 --> 00:02:18.100
+<v Speaker 4>A lot of development meetings is talking about, well, what if this card did this and what if we did this card did this? And there's</v>
+
+00:02:18.320 --> 00:02:27.940
+<v Speaker 4>sometimes something comes up or that you want to figure out a new case. There's a whole and it's awkward when you suggest cards that already exist, right? Like in the previous set for being a whole. It's like a</v>
+
+00:02:28.560 --> 00:02:30.130
+<v Speaker 4>no we already made that card ohh.</v>
+
+00:02:30.520 --> 00:02:33.130
+<v Speaker 1>Are you sure we could do it again?</v>
+
+00:02:33.520 --> 00:02:52.680
+<v Speaker 3>Yeah, I mean, I was fortunate to start with Rabbinic because I got to go through Ravnica and Gate crash. But to start with Dragons, amazing. Like you said, you're drafting, you open to be dragging his booster, 15 cards you've never seen or 14 cards you've never seen. When you open up your Gate crash booster and there's 14 more cards you've never seen. And the cards you take in Dragon and Dragons are supposed to build toward your Ravnica Gatecrash pick. So it's really, really.</v>
+
+00:02:52.690 --> 00:02:57.230
+<v Speaker 4>Difficult. In fairness the the Dragons maze booster does have 15 cards I've never seen.</v>
+
+00:02:57.320 --> 00:02:58.110
+<v Speaker 1>There was the.</v>
+
+00:02:58.570 --> 00:03:00.150
+<v Speaker 4>Because I also had to learn about the gates.</v>
+
+00:03:00.160 --> 00:03:04.100
+<v Speaker 3>Ohh, that's true the the gates, right? You the gate instead of your basic land and.</v>
+
+00:03:04.970 --> 00:03:07.390
+<v Speaker 2>One of the things I was wondering was</v>
+
+00:03:08.330 --> 00:03:20.850
+<v Speaker 2>like, I wonder how much more difficult it is for us that like Dragons, which has 10 guilds of all these different combinations versus a set that, you know, doesn't have all these combinations and has more monocolored cards. So it might be interesting</v>
+
+00:03:21.770 --> 00:03:25.240
+<v Speaker 2>like to see the difference of development in those two different.</v>
+
+00:03:25.280 --> 00:03:52.900
+<v Speaker 4>Scenarios it's certainly a much more difficult set from a development perspective. I got there sort of in middle of process so I I missed out on a lot of the early stuff that they actually do the structural things where we have to figure out OK, how many cards of each color, how many monocolor cards. There's a thing we like to talk about called Asfan, which is basically when you open up a pack, you know, what are the gold card contents or what are the card contents. And a lot of the early discussion was how, you know, how many gold cards per pack are there going to be? And so that would</v>
+
+00:03:52.980 --> 00:03:57.330
+<v Speaker 4>affect how many there are of each rarity. And there's a lot of math that goes into trying to figure it out.</v>
+
+00:03:58.160 --> 00:04:04.220
+<v Speaker 1>So Tina, did you have like Sam was talking about? They were talking about the the first instinct because you've drafted the Dragons maze, right?</v>
+
+00:04:04.280 --> 00:04:06.150
+<v Speaker 2>Yes, I drafted with it this week.</v>
+
+00:04:06.200 --> 00:04:11.910
+<v Speaker 1>You're not even in R&amp;D, how well how was that experience of you know, here are cards in the first pack I've not seen before?</v>
+
+00:04:12.300 --> 00:04:23.290
+<v Speaker 2>I mean, I was, I was super excited to see those cards. It was definitely, I felt like I had to pick both of my first colors right away, which is not a normal feeling. Like normally I feel like I can go in and be like,</v>
+
+00:04:23.360 --> 00:04:44.640
+<v Speaker 2>all right, well maybe my first card will help me decide one of my colors where this was more of like, OK, this might be deciding like my 2 primary colors already, or I'll be, I already know that I'm going into three colors just straight up and that that felt pretty different than how I normally view like my first few picks.</v>
+
+00:04:45.050 --> 00:04:53.980
+<v Speaker 3>Well, and it's totally crazy too because you have these other two packs that set up for us. You're looking at your Boros cards and your Azorius cards. You're like, OK, I could take a Boros card and an Azorius card, and then I can take</v>
+
+00:04:54.050 --> 00:05:01.530
+<v Speaker 3>Boros cards in the gate crash in these areas, cards in Return to Ravnica, and you're trying to figure out what your three color combinations might be and it's just mind melting.</v>
+
+00:05:01.600 --> 00:05:20.310
+<v Speaker 2>It definitely felt really good to know the next two packs, like once I got past that first pack and onto gate crash and opening it up and being like, OK, I know all these cards like that was a really good feeling because I had an idea of what my deck was doing. So it was like, OK, I'm I know what cards I'm looking for that can help fill out the stack and make it playable.</v>
+
+00:05:21.090 --> 00:05:50.800
+<v Speaker 4>One of the nice things we actually did with Dragons Maze that we didn't do it the first Ravnica block was because there are 10 guilds in the first pack and then five. And the other two packs and the way that they're arranged, you actually as long as you go an arc, which is basically one color in the two next to it Azure, three colors. There is no wrong way to go. If you ever drafted the first Ravnica, you know, you start drafting and you're like, ah, I'm going to get these red, white and green cards. And then you get to the second pack and you get, you know, some guilds in the second packet. The third pack,</v>
+
+00:05:50.970 --> 00:06:08.630
+<v Speaker 4>there are no guilds for you, right? And that was something that you had to explain to people. Know, you go this pack, this these three guilds because they don't work out in the last one. And this one there, there isn't a wrong way. As long as you just go, you know, as long as you go through guilds, you're going to get some, you know, either two in the second pack and one of the first pack or vice versa.</v>
+
+00:06:09.220 --> 00:06:20.340
+<v Speaker 2>I can say that I win Simic Selesnya Azorius, which is what I'm the most excited for going and I went to one against people in R&amp;D. So that was that felt really good.</v>
+
+00:06:20.980 --> 00:06:32.240
+<v Speaker 1>It's more for us to talk about from Dragon Mage beyond just the ideas of drafting. Along with Alton Guild mechanics from the block, we've added a new thing called Fuse. Still, tell us some about.</v>
+
+00:06:32.250 --> 00:06:50.900
+<v Speaker 4>Fuse. All right, so a fuse is a mechanic that only appears on split cards. And if you have never encountered split cards, if they're cool, they actually are just two cards paced together. And the way that split cards were first introduced in Invasion and they've sort of come back through the other Ravnica block. And the new thing</v>
+
+00:06:51.010 --> 00:07:10.960
+<v Speaker 4>this time is that if you have the mana, you don't have to choose. You can just cast both halves, right? So before, we'd always kind of find these two sort of different effects that might do this very different things. You play the different times. Well now there are two effects that link up where you know I can casts either A or B, but if I cast A and BI, get a much more powerful spell.</v>
+
+00:07:11.000 --> 00:07:21.730
+<v Speaker 3>Right. All of them work together or basically all of them work together in some really exciting way where either half is great and if you can pay the fuse cost, you just get something really, really fantastic. Like for example, you guys have already seen</v>
+
+00:07:21.810 --> 00:07:42.560
+<v Speaker 3>I could call which is a green and a blue on 1/2 and it says whenever a creature comes into play under your control, listen and you draw a card. And then there's call on the other half, which is 4 mana, a white man and blue mana and then puts 4111 flying bird tokens on the battlefield. So drawing cards, getting tokens, or drawing 4 cards and getting 4 tokens.</v>
+
+00:07:42.630 --> 00:07:47.690
+<v Speaker 2>I actually have this card in my deck and I was never able to cast both at once, but</v>
+
+00:07:48.360 --> 00:07:53.310
+<v Speaker 2>I did casts back a couple times and it was still, you know, an awesome card because drawing cards is always fun.</v>
+
+00:07:53.660 --> 00:08:06.330
+<v Speaker 1>Yeah, the fuse mechanic is really cool because it's something everyone's always wanted to do anyways. Like it's just one of those things where like I've got 2 cards on this card, I want to play both of them and now I can. So it's just, it's awesome.</v>
+
+00:08:06.600 --> 00:08:18.440
+<v Speaker 3>Right. I mean, down in R&amp;D, we love, we love letting players do what they want, right? It's like if players have wanted to do this since the inception of split cards, why not eventually give it to them, right? I saw them in Invasion. They came back in Ravnica. They you know, we saw them in time</v>
+
+00:08:18.510 --> 00:08:30.750
+<v Speaker 3>viral and finally it's like, OK, they're back. This time we'll give it to you guys. And we especially wanted to bring split cards back because they were in the original rabbit cut, something that kind of Harkins back to the first block. So giving them to you and drags space is a little nod to that.</v>
+
+00:08:30.820 --> 00:08:37.150
+<v Speaker 2>The flexibility adds this new complexity to of like OK, do I want to save this for later or do I want to cast half of it now?</v>
+
+00:08:37.270 --> 00:08:45.530
+<v Speaker 4>Until we figure out how to print actual triple cards, this is this is a very close thing of you know, it does work kind of like a triple garden, that there are three modes.</v>
+
+00:08:46.140 --> 00:08:48.880
+<v Speaker 1>So let's talk real quick about one of the number one rules</v>
+
+00:08:48.950 --> 00:08:58.820
+<v Speaker 1>questions I guarantee players are going to have you cast it with views, you casts back and call with fuse. I choose to counter it and my countering one side or my encountering the whole thing.</v>
+
+00:08:58.860 --> 00:08:59.630
+<v Speaker 4>You're counting the whole.</v>
+
+00:08:59.640 --> 00:09:05.530
+<v Speaker 1>Thing so it is now when you're casting it the fuse. It is basically one complete spell that does both things.</v>
+
+00:09:06.220 --> 00:09:35.930
+<v Speaker 4>Yeah, that's exactly how it works. It's so the interesting thing is that, you know, seeing toil and trouble, umm, one side is a black card, one side is a red card. So if you cast either side individually, it's just a black card, red card. But if you cast them together, it's actually a gold card. So you know, if you have things that you know, reference, you know, counter multicolor spell or something like that, if that exists then you would be able to counter that, but only if they paid the fuse cost.</v>
+
+00:09:36.460 --> 00:09:39.080
+<v Speaker 2>And what protection work on something like?</v>
+
+00:09:39.090 --> 00:09:47.560
+<v Speaker 4>That so if you had if we had one that targeted and let's say it's a black white card that targets, right.</v>
+
+00:09:48.470 --> 00:09:59.900
+<v Speaker 4>If they have a creature that has pro black, you can cast the white half to target them, but you cannot cast the fuse card to target because at that point it is both a black and a white card.</v>
+
+00:10:00.230 --> 00:10:18.720
+<v Speaker 1>It's awesome. I remember when I first saw it, I was like, this is the best thing ever. This is like this is probably one of my most exciting things. Knowing what was coming down the line for all of this block is knowing Fuse was now going to be entering into Magic. So I'm really excited we're getting it out there. As Sam mentioned, we've shown you 2 cards up to this point, Beck and Call and one called</v>
+
+00:10:18.790 --> 00:10:36.000
+<v Speaker 1>Toil and Trouble. You can find them on Daily MTG in the card image gallery if you don't know them already. There's another card that I'm super excited about that everyone seems to have been expecting and we're finally again fulfilling the the players desires and that is the new planeswalker Rouse. Eric, Gavin, tell me about Ralph.</v>
+
+00:10:36.400 --> 00:10:45.230
+<v Speaker 3>Well, we he first appeared in Duels of the Planeswalkers. Now we finally have him in card form, so here's what he does. Rolls Eric 2 mana, a blue and a red. Starts off with four loyalty</v>
+
+00:10:45.920 --> 00:10:53.290
+<v Speaker 3>plus one tap target permanent and untap another target permanent so you can maybe get your creatures through or even just untap a land right after you play them.</v>
+
+00:10:53.340 --> 00:10:54.710
+<v Speaker 4>Or you're Guilded Lotus.</v>
+
+00:10:54.920 --> 00:11:16.700
+<v Speaker 3>Or your Guild the Lotus, if you're a crazy like Sam Stoddard or you're, you're a door to nothingness. I mean, if you want and whatever, whatever. In the mood for man, you got to think big -2 you get to deal three damage to a creature of player. So just straight up lightning bolt. He comes down, he starts with four loyalty, so he's just good for two lightning bolts right off the bat. That's really exciting. And his ultimate is super crazy so check</v>
+
+00:11:16.770 --> 00:11:20.650
+<v Speaker 3>this out guys -7 flip 5 coins.</v>
+
+00:11:20.690 --> 00:11:27.120
+<v Speaker 1>Whoa, flip 5 coins 5 how? How is this going to be good? Like flipping coins never results in good things in magic.</v>
+
+00:11:27.180 --> 00:11:31.110
+<v Speaker 3>Right. You're like, oh, do I lose? Do I sacrifice them? Like what happens next?</v>
+
+00:11:31.180 --> 00:11:32.720
+<v Speaker 2>Oh, it's so silly, right?</v>
+
+00:11:32.760 --> 00:11:47.770
+<v Speaker 3>Right, so silly, but the really cool thing is you get an extra turn for every heads you flip up. So maybe you put this with Krark's thumb in like your commander deck or something like that, just go super crazy. Or you know, you try and play in standard and use bolt down some creatures and occasionally you just take some extra turns and</v>
+
+00:11:47.980 --> 00:12:03.310
+<v Speaker 3>do something really, really powerful. But he's a lot of fun to play with it. Whenever you activate ultimate, there's this huge movement of trepidation because neither player knows what's going to happen, right? It's not like you're just you're doing something and you're does what's going to happen. You're both like, it could be zero turns, it could be 5 turns, it might be two turns, right? Let's find out.</v>
+
+00:12:03.640 --> 00:12:13.490
+<v Speaker 2>Yeah, I'm excited to see how much constructed play this might make. And also I think it's good and limited and it's awesome to find a planeswalker that really covers like both bases.</v>
+
+00:12:13.580 --> 00:12:18.710
+<v Speaker 3>Yeah, and the cool thing about RAW is good and Limited is good in constructed and then constructed he's both good in control decks,</v>
+
+00:12:18.780 --> 00:12:33.200
+<v Speaker 3>has like a voting machine and then beat down decks as a voting machine and a way to get your creatures through. So he can fit in a myriad of different strategies. Even something like Sam mentioned with untapping your Gilded Lotus can be huge too. It can really ramp you into something big. So we're all opens up a ton of possibilities for decks and Standard.</v>
+
+00:12:34.130 --> 00:12:35.220
+<v Speaker 1>So what do you think of Raul?</v>
+
+00:12:35.790 --> 00:12:50.160
+<v Speaker 4>Raul is really cool there there. It is fun to activate his ultimate. You're right. One of the interesting things is that it doesn't seem like it, but there is a non zero chance. It's actually pretty good chance that you will get zero turns.</v>
+
+00:12:50.170 --> 00:12:53.320
+<v Speaker 1>Sure. It's like a one in one. Is it one in 32?</v>
+
+00:12:53.330 --> 00:13:01.720
+<v Speaker 4>Something like that. So like there is like the more excitement of just like you know, sometimes you get 5 turns, something average, you know, somewhere around like 2 to three turns.</v>
+
+00:13:01.730 --> 00:13:04.200
+<v Speaker 1>Should be fair. You've got an equal chance of both getting zero turns</v>
+
+00:13:04.270 --> 00:13:05.270
+<v Speaker 1>and getting five turns.</v>
+
+00:13:05.280 --> 00:13:11.240
+<v Speaker 3>Yeah, yeah, it's the same. You're glass half empty, can of glass half full. I'm always getting all five of those turns. I don't know what you're talking.</v>
+
+00:13:11.250 --> 00:13:13.950
+<v Speaker 4>About thing is, it's more exciting when there's the chance I get 0.</v>
+
+00:13:14.020 --> 00:13:16.290
+<v Speaker 1>Right. Wait, what? Yeah.</v>
+
+00:13:16.840 --> 00:13:19.060
+<v Speaker 3>Come on, zero turns. It's what I've always wanted.</v>
+
+00:13:19.430 --> 00:13:22.240
+<v Speaker 4>I can't wait for the 0 but I am. It is like, you know.</v>
+
+00:13:22.250 --> 00:13:23.410
+<v Speaker 1>You have the risk of failure.</v>
+
+00:13:23.420 --> 00:13:29.750
+<v Speaker 4>It is the risk of failure. It's got playing this whole thing out and they get all these turns and it's like tails, tails, tails. And I'm like ohh man.</v>
+
+00:13:30.080 --> 00:13:30.260
+<v Speaker 3>This.</v>
+
+00:13:30.270 --> 00:13:31.600
+<v Speaker 4>Is getting this is getting dicey.</v>
+
+00:13:32.050 --> 00:13:34.530
+<v Speaker 1>So the thing with planeswalkers, the first thing</v>
+
+00:13:34.620 --> 00:13:57.530
+<v Speaker 1>everyone wants is they want plays. Walker can defend themselves. Raul does that twice. You know, you can tap and you can bolt. You know, you got those two mechanics and then you want the ultimate. And for me, like when I first read Rao, I'm sort of like, oh man, I want the ultimate to be just like the I win. But the thing with our a lot of our I wins is that it's not an immediate win. It's like, OK, I'm going to give you a super head start to possibly win.</v>
+
+00:13:58.190 --> 00:14:15.560
+<v Speaker 1>And then I go wait, browse, browse blue, red, which is, is it? Even though he's not gilded, is it He's, he's got those colors. So you have to have the randomness in there for the possibility of just gaining. Like like like we said, 3% chance that you get 5 turns off of this. All this ultimate pretty hard not to win if you get 5 extra turns.</v>
+
+00:14:15.570 --> 00:14:18.660
+<v Speaker 3>Like if you lose that game you probably stop playing the roles there.</v>
+
+00:14:18.850 --> 00:14:19.890
+<v Speaker 4>So he clearly.</v>
+
+00:14:19.900 --> 00:14:21.000
+<v Speaker 3>Doesn't like you very much.</v>
+
+00:14:21.950 --> 00:14:29.760
+<v Speaker 1>So what do you think of Raw? I mean, he's not cynic. I know that. I know that's a big mark against him in your book, but can you overcome that and accept him?</v>
+
+00:14:29.850 --> 00:14:48.570
+<v Speaker 2>Yeah, I think so. I mean 2 lightning bolts, like that's really like that, right? There is enough for me to be excited about this card. I definitely first pick him. I might, you know, switch into one of these colors. Second pack or third pack. Like I am really excited to try them out. I probably won't build a constructed deck for it, but I hope to see him in.</v>
+
+00:14:48.580 --> 00:14:52.200
+<v Speaker 1>Limited he is going into my alt win commander deck. I'm just warning you all,</v>
+
+00:14:53.420 --> 00:15:02.450
+<v Speaker 1>he'll go right in there. I feel like he fits naturally with the theme. The door to nothingness combo jumped out at me as well. I'm very excited about possibly doing that one day.</v>
+
+00:15:02.880 --> 00:15:04.430
+<v Speaker 3>With chance encounter, so you like</v>
+
+00:15:05.860 --> 00:15:09.170
+<v Speaker 3>coins, hopefully you get a bunch of heads so you can put tokens on your chance encounter and.</v>
+
+00:15:09.180 --> 00:15:12.170
+<v Speaker 1>Then I might. Yeah, I thought about that one.</v>
+
+00:15:12.250 --> 00:15:34.800
+<v Speaker 3>Development actually spent a lot of time on rolls there because he's a really exciting card to players. He showed up in duels and players have wanted him ever since and we wanted to make sure he was strong and exciting and fun to play with. And I think we finally got there. We tried out a lot of different ultimates, a lot of different abilities, and between Zach and who's heading up the set and the whole development team, we came together with a package that's pretty exciting and you'll definitely see on tournament tables near.</v>
+
+00:15:34.810 --> 00:15:36.010
+<v Speaker 1>You did Raul come out of</v>
+
+00:15:36.080 --> 00:15:38.460
+<v Speaker 1>development or was he in starting with design?</v>
+
+00:15:38.500 --> 00:15:53.440
+<v Speaker 3>Design put him in the files, but what he was looked way different at that time. We changed the ultimate. We charged so many ultimates for this guy until eventually somebody just mentioned what have you, flipped 5 coins and took extra turns and then it all kind of came together from there, so.</v>
+
+00:15:53.970 --> 00:15:55.460
+<v Speaker 2>Yeah, and he's on the key art.</v>
+
+00:15:55.980 --> 00:15:58.560
+<v Speaker 1>That's right. Yes, he is sort of. He's sort of the face.</v>
+
+00:15:58.570 --> 00:15:59.470
+<v Speaker 4>He's in the trailer.</v>
+
+00:15:59.910 --> 00:16:00.370
+<v Speaker 1>The trailer.</v>
+
+00:16:02.490 --> 00:16:04.190
+<v Speaker 2>What Guild are you affiliated?</v>
+
+00:16:04.200 --> 00:16:05.590
+<v Speaker 4>With I am erectus.</v>
+
+00:16:05.640 --> 00:16:06.410
+<v Speaker 2>OHK OK.</v>
+
+00:16:07.500 --> 00:16:09.670
+<v Speaker 1>Indeed not. Not is it?</v>
+
+00:16:09.760 --> 00:16:10.730
+<v Speaker 4>Not is it now?</v>
+
+00:16:10.780 --> 00:16:12.690
+<v Speaker 2>So toil and trouble is your style.</v>
+
+00:16:13.290 --> 00:16:15.670
+<v Speaker 4>Like toil and trouble a lot. It's a fun card.</v>
+
+00:16:15.740 --> 00:16:22.070
+<v Speaker 3>I like how you're like, oh, I'm sick. I don't really want to hang out with. I don't know. There's no matching colors here.</v>
+
+00:16:22.080 --> 00:16:25.570
+<v Speaker 4>Practice is all about fun. That's right, I don't have all about fun.</v>
+
+00:16:25.620 --> 00:16:27.180
+<v Speaker 2>We only invite fun people to the.</v>
+
+00:16:27.190 --> 00:16:34.870
+<v Speaker 1>Podcast It's true. Speaking of fun cards, we got our preview card for Dragons Maze, our exclusive preview.</v>
+
+00:16:35.830 --> 00:16:37.570
+<v Speaker 3>I'm really good at stopping your opponents fund.</v>
+
+00:16:37.670 --> 00:16:43.020
+<v Speaker 1>It is. It's fun for us. It's not fun for the opponents. Chief, why don't you read out? Won't you tell us what the card?</v>
+
+00:16:43.030 --> 00:16:47.650
+<v Speaker 2>Is all right, so we're looking at an Azorius card render silent,</v>
+
+00:16:48.500 --> 00:16:51.460
+<v Speaker 2>one white and two blue. It's an instant</v>
+
+00:16:52.090 --> 00:16:57.460
+<v Speaker 2>and it counters target spell. Its controller can't cast spells this turn.</v>
+
+00:16:58.850 --> 00:17:18.580
+<v Speaker 1>So when I when I saw this card, my first thought was way back. This card might be older than you TI apologize if it is a balance is what came in gave in. This card might be older than you. I apologize. Advance from weatherlight jumped to mind. Did that happen with you guys like where did this card come from? Tell me. Tell me its story.</v>
+
+00:17:18.730 --> 00:17:29.480
+<v Speaker 3>Well, actually I'll tell you interesting story about render Silent is was originally in Ravnica, the return to Ravnica and then it just kind of got cut for space reasons and we pulled it into Dragons Maze. So the idea was,</v>
+
+00:17:29.570 --> 00:17:39.490
+<v Speaker 3>I think it was from the design team originally for Return to Ravnica, and then we pulled it into Dragons Maze and just kind of stuck the way it was. Players liked what it was doing and it's, you know, a counterspell with a cool little twist on it.</v>
+
+00:17:40.440 --> 00:18:05.290
+<v Speaker 4>Right. And it is a spell that a lot of, you know, sometimes you can look at it and go, well, but how many other spells are going to cast well? Because it's not every situation where this is great. But certainly if you look at, for instance, modern, there are plenty of decks that you know, they, they, they, their stick is casting of spells in one turn. And you know when they, they cast their, you know, middle of their combo, their casts a spell and you're like, Hey, you can stop casting their spells too.</v>
+
+00:18:05.340 --> 00:18:10.900
+<v Speaker 1>It's pretty good. So for the new players who aren't quite sure how this works, this spell has to resolve</v>
+
+00:18:10.970 --> 00:18:28.130
+<v Speaker 1>for your opponent to stop being able to cast spells. So they can still counter this with their own counter, or they can still do things before this resolves. But until it resolves, like I said, they can do their own things. But once it resolves they they are shut down for the rest of the turn. They can still attack, they can still use abilities, but they can't cast spells.</v>
+
+00:18:28.460 --> 00:18:43.300
+<v Speaker 3>A common thing players like to do against controlled X, which will have a lot of counterspells, they'll play abate spell, so they'll play their smaller spell before they their bigger spell to try and get you to waste the counter spell on it. So in this case they might play their, you know, little 2 minute 22 and you encounter it knowing that they can't cast the other spell in their hands. You can run</v>
+
+00:18:43.490 --> 00:18:48.120
+<v Speaker 3>safely with more counter backup right now and for the same amount of cost as cancel,</v>
+
+00:18:48.840 --> 00:18:56.980
+<v Speaker 3>just with a white man added into it, you get a great bonus. So if you're playing white blue, this is just a great card to play over something like Cancel and you just get a great option on top of that.</v>
+
+00:18:58.060 --> 00:19:01.610
+<v Speaker 2>Did notice that I was like ohh wow 3 is actually really good.</v>
+
+00:19:02.760 --> 00:19:16.650
+<v Speaker 1>The thing with Dragons Maze is it's a small set, and I think this is sort of where people were. This might have been one of the trepidations players had coming into these previous seasons is how do we fit 10 guilds into a small set when we split five guilds into two large sets?</v>
+
+00:19:17.330 --> 00:19:32.130
+<v Speaker 1>And I think they're going to be excited. Like I think we do a lot of great things in here. We do a great job of bringing all 10 mechanics into this set and all 10 guilds into this set. And Render Silent is a perfect example of embodiment of Azorius in a small set.</v>
+
+00:19:33.050 --> 00:20:01.090
+<v Speaker 3>I mean, something we really wanted to do with Dragons maze is we kind of gave you OK, so in return around and we gave you the five guilds. We showed what they were about, what they were doing and gate crash. We gave you 5 more guilds showed you about what they were doing. Dragons amazes like here's a bunch more cool cards for the things you liked that reinforce the themes you were doing. So you've got an Azorius deck. Great. There's awesome cards with the Tang and counter spells and all the stuff you want from histories. If you got a rack to stack, you've got some nice beaters in the side that can really come out fast and start strangling your opponent to death and bashing them against the curve. I mean this is.</v>
+
+00:20:01.960 --> 00:20:11.720
+<v Speaker 3>This is the site if you have a deck that you like. If you like I like rule, there'll be a card for you. So no matter what yield you are, Dragons Maze is full of goodies and we made sure to jam packed with exciting, powerful cards.</v>
+
+00:20:11.760 --> 00:20:33.610
+<v Speaker 4>This is one of the most kind of dense sets that we have done in years that really had it had a lot of things to look up to and we spent a lot of time making sure that we were hitting all the notes and that we were, you know, all the things that people are looking for. We want to make sure to deliver on as many of those as possible. So you're right, Gavin, right. You know, if you if there, if there's a guilt you like, if there's a deck you like,</v>
+
+00:20:33.710 --> 00:20:35.280
+<v Speaker 4>there's going to be something for you in Dragon's.</v>
+
+00:20:35.290 --> 00:20:37.610
+<v Speaker 2>Maze and the Maze Runners are really exciting.</v>
+
+00:20:37.620 --> 00:20:38.870
+<v Speaker 1>Too. That's a great example.</v>
+
+00:20:38.880 --> 00:20:45.550
+<v Speaker 2>We have one for every Guild, so that's something to look forward to for every person.</v>
+
+00:20:45.710 --> 00:20:49.990
+<v Speaker 1>They will have gone into see Melik, the Is it Maze Runner on Monday and.</v>
+
+00:20:50.000 --> 00:20:52.550
+<v Speaker 3>My favorite cards in the set. I love this card.</v>
+
+00:20:53.040 --> 00:21:03.630
+<v Speaker 1>It's it's really cool. I love this like the flavor behind it. It's the the the Guild of the is it went. You know what? Why should we pick a runner? Let's make a runner like how cool how?</v>
+
+00:21:03.720 --> 00:21:04.720
+<v Speaker 1>How is it is that?</v>
+
+00:21:05.450 --> 00:21:06.380
+<v Speaker 3>It's very easy.</v>
+
+00:21:07.490 --> 00:21:08.600
+<v Speaker 4>How is it? Is it?</v>
+
+00:21:08.810 --> 00:21:13.420
+<v Speaker 3>Is it, is it? I was trying to get there. I couldn't get the words together run out fast enough. So, so thank you, Sam.</v>
+
+00:21:13.490 --> 00:21:29.920
+<v Speaker 2>Well, and for people like me who like ground trampoline things, you have the gruel ruric Thar who whenever player casts a non creature spell, he deals 60 damage to that player. So like, yeah, try to counter my spells, try to kill my creatures.</v>
+
+00:21:30.920 --> 00:21:33.850
+<v Speaker 2>How about 60 has reach. He also has reach.</v>
+
+00:21:33.900 --> 00:21:35.610
+<v Speaker 1>So he's a beast. He's.</v>
+
+00:21:35.620 --> 00:21:37.620
+<v Speaker 3>Both got the ability to reach and also reach and winning the.</v>
+
+00:21:37.630 --> 00:21:38.330
+<v Speaker 2>Game, Yeah.</v>
+
+00:21:38.770 --> 00:22:00.950
+<v Speaker 3>He's got multiple kinds of reach. Why don't we run down what what Mellick does so that sure they're kind of know. So Melek Izzet paragon is 4 blue red for two four. You play with the top part of your library revealed. Whenever you cast an instant or sorcery from the top of your library, you copy it. So this guy gives really insane stuff. One of my favorite cards of all time is future site and this guys like a future site that gives you</v>
+
+00:22:01.060 --> 00:22:22.680
+<v Speaker 3>double you you cast your lightning bolt off top of your deck. You've got 2 lightning bolts. You know he helps when you encounter wars. Even if you have a counter top of your desk and your opponent plays a spell, you can you can counter it and there are two counter spell subtly had it hunting heading at that spell right. So the card can do some really insane things. You should definitely check out the the column yesterday where it's previewed, because he comes up with some pretty crazy stuff to do there.</v>
+
+00:22:23.190 --> 00:22:31.140
+<v Speaker 1>It's really awesome. I love Melik. I love all of the Maze Runners. Like my own children. I'm not sure. Not sure.</v>
+
+00:22:31.240 --> 00:22:37.530
+<v Speaker 1>No, it's not true. I really like him though. I'm really excited to to get to play with all of them. I'm I'm eager to see them in commander especially.</v>
+
+00:22:37.600 --> 00:22:41.290
+<v Speaker 2>Yeah, I was wondering if maybe you might build a commander deck with.</v>
+
+00:22:41.300 --> 00:22:44.110
+<v Speaker 1>Melik commander deck. I'm gonna have like 6 commander decks.</v>
+
+00:22:44.700 --> 00:22:46.130
+<v Speaker 2>You should have 10/1 for each go.</v>
+
+00:22:46.320 --> 00:22:50.560
+<v Speaker 1>Well, I'm saying just six with Melik I'll have. I'll have one for all of them.</v>
+
+00:22:51.840 --> 00:23:21.900
+<v Speaker 1>Let's go ahead and transition from awesome cards to playing with awesome cards. With the talk about the Dragons pre-release. We've, we've talked about this a couple of times. You know, whether it was the PAX East panel we've talked about on the website. We want you guys to really, as with the past couple of pre releases, we want you guys to be ready for and understand what you're getting in for, what your activity is going to be and how awesome it's going to be because this is going to be awesome. It is slightly different because like we said, this is Dragons Maze where you have all 10 guilds. You don't just have 5. So even though you'll have Guild pact</v>
+
+00:23:22.030 --> 00:23:35.710
+<v Speaker 1>so you can go in and pick your Guild, you will also get a second Guild as part of your Guild pact. And what we're doing that's really cool and I'm really excited about. Is this the first time for a pre release we've ever given you? 4 packs from a small set right?</v>
+
+00:23:35.760 --> 00:23:52.750
+<v Speaker 3>You'll see a lot of really exciting Dragons cards come out because you know you're 1 Guild pack of gate crashing when you want to gild pack of returned around. But really the focus is on these brand new Dragons based cards. You just have that much more chance of finding your your maze Runner or, you know, even rolls Eric himself, right? One more pack to open up.</v>
+
+00:23:52.820 --> 00:23:54.580
+<v Speaker 3>They just opened up man, right?</v>
+
+00:23:54.910 --> 00:23:59.750
+<v Speaker 4>Let's say it's only really exciting if you like new cards. And really, who likes that? I do.</v>
+
+00:23:59.760 --> 00:24:23.340
+<v Speaker 1>Want to make sure you all comprehend though, that you're going to be building with all 10 guilds potentially like the you'll, you'll have your seed packs, you'll have your two Guild packs, and they'll help guide you what colors to look for. But it can be definitely daunting as you start laying out cards. And I want to encourage all don't, don't feel daunted. Focus on the ones that you've got the Guild packs for. Keep an eye out for anything awesome that might be separate colors or different guilds</v>
+
+00:24:23.470 --> 00:24:33.780
+<v Speaker 1>that might possibly sway the way your deck building, but don't let the the 15 potential piles of cards scare you off when you're building for the privilege well.</v>
+
+00:24:33.790 --> 00:24:53.200
+<v Speaker 2>Also it's also completely acceptable to go in and just make it out of the colors that your guilds are in. Like if if you just want to focus on those colors, you'll have enough to do that. Like if it's your first time playing sealed or playing in a prerelease and you just want like the easiest way to build your deck,</v>
+
+00:24:53.470 --> 00:24:57.030
+<v Speaker 2>just pull out those colors, set the other ones aside and go for it.</v>
+
+00:24:57.330 --> 00:25:23.970
+<v Speaker 3>Well, the other great thing about dragging is limited too is you can do like what TIFU is talking about where you focus on your three colors, but it's also very easy to splash in this format mean Gilgit in every booster. There's some other great ways to fix your mana that you guys find out about later. And so say you pick Boros and lactose, but you open up rolls, Eric. It's not that hard to get the blue manner you need to cast your awesome planes Walker. You can splash in any number of ways. So keep your eye out for things like that too, which can help you play one or two off color cards.</v>
+
+00:25:24.040 --> 00:25:26.740
+<v Speaker 1>OK, so start your actives</v>
+
+00:25:27.400 --> 00:25:32.070
+<v Speaker 1>when you're going to the Wizards of the Coast pre-release. What Guild are you hoping to get? Is your secret ally.</v>
+
+00:25:32.760 --> 00:25:33.490
+<v Speaker 4>Orzhov.</v>
+
+00:25:33.500 --> 00:25:34.420
+<v Speaker 1>You're hoping for Orzo.</v>
+
+00:25:34.430 --> 00:25:41.710
+<v Speaker 4>That they're they're my favorite Guild out of gate crash and I feel like that deck works really well together. Awesome.</v>
+
+00:25:41.760 --> 00:25:44.530
+<v Speaker 2>That I fully approve of. I also love Orzhov.</v>
+
+00:25:44.660 --> 00:25:48.430
+<v Speaker 1>So Tifa, you're semic. What Guild are you hoping is your secret ally?</v>
+
+00:25:50.160 --> 00:25:54.810
+<v Speaker 1>I can, I can see that. That makes perfect sense, Gavin. Your is.</v>
+
+00:25:54.820 --> 00:25:57.570
+<v Speaker 3>It. I'm doing a really good job of being Amir, I think.</v>
+
+00:25:59.070 --> 00:26:02.870
+<v Speaker 1>Fair enough, fair enough. So you're Demir. What are you hoping is your secret ally?</v>
+
+00:26:02.960 --> 00:26:12.890
+<v Speaker 3>Azorius, the Flyers from Azorius matched with some of the Cipher cards is a great combination because you can get your guys through. You have the detained mechanic. I think that'd be a lot of fun to play, and I know it's a lot of fun to.</v>
+
+00:26:12.900 --> 00:26:14.220
+<v Speaker 1>Play. I'm excited to.</v>
+
+00:26:14.260 --> 00:26:18.390
+<v Speaker 3>To try and get that, but who knows? I could end up with anything, right? You don't know who your secret is going to be.</v>
+
+00:26:18.400 --> 00:26:28.590
+<v Speaker 1>It's a secret. You get to go into the release, you get to pick your chosen Guild, and then you'll have an option of. There's four potential secret ally guilds for each Guild in the in the prerelease packs.</v>
+
+00:26:29.080 --> 00:26:30.690
+<v Speaker 2>Rick, I know that you're picking Boros.</v>
+
+00:26:30.730 --> 00:26:31.900
+<v Speaker 1>Obviously, obviously.</v>
+
+00:26:31.990 --> 00:26:32.940
+<v Speaker 2>And what would you like your?</v>
+
+00:26:32.950 --> 00:26:36.350
+<v Speaker 1>Secondary I actually wanna go Boros Rakdos because</v>
+
+00:26:37.010 --> 00:26:39.440
+<v Speaker 1>they're both about getting into the red zone and attacking.</v>
+
+00:26:39.510 --> 00:26:44.150
+<v Speaker 4>Very similar to Boros or I mean, we were going to overlook colors, right? Well.</v>
+
+00:26:44.250 --> 00:26:46.110
+<v Speaker 1>We can be friends, we can work.</v>
+
+00:26:46.120 --> 00:26:46.980
+<v Speaker 4>Together enemies, I think.</v>
+
+00:26:46.990 --> 00:26:48.360
+<v Speaker 1>Is obviously.</v>
+
+00:26:48.730 --> 00:26:49.700
+<v Speaker 3>You guys make great ROM.</v>
+
+00:26:49.710 --> 00:26:56.020
+<v Speaker 1>Com I mean even even even Reactos amongst themselves are frenemies. Does Rectus have any real friends? No everyone's.</v>
+
+00:26:56.030 --> 00:26:57.660
+<v Speaker 4>Everybody is Reactos as friends.</v>
+
+00:26:58.790 --> 00:27:17.170
+<v Speaker 1>So coming up April 27th, 28th is the pre release. Make sure you talk to your stores if they offer pre registration, definitely get in there. That way you might be able to request your Guild ahead of time to be sure you get that Guild and just get ready, mark your calendars. It's going to be awesome. It'd be a great time and you are going to regret not being there right everyone agree.</v>
+
+00:27:17.210 --> 00:27:19.830
+<v Speaker 3>Hopefully you won't regret not being there. Because you'll be. You'll be.</v>
+
+00:27:19.840 --> 00:27:26.480
+<v Speaker 4>There you got to have a chance to, you know, to choose your Guild and and try to win the whole implicit maze quest.</v>
+
+00:27:28.140 --> 00:27:35.290
+<v Speaker 2>I hope to be their spell slinging and I will be interested to see what Guild pulls ahead and plays worker points. Yeah, for the finale.</v>
+
+00:27:35.600 --> 00:27:50.630
+<v Speaker 1>I always fascinated to keep an eye on Twitter and see what everyone's talking about how their stores pre releases are doing, what Guild is winning their stores implicit Maze and I will of course be rooting for boroughs. Let's let's tell everyone how to get in touch with us, Steven. How can they? How can they tell us? They'll ask us questions.</v>
+
+00:27:50.700 --> 00:27:52.130
+<v Speaker 2>They can go on to Twitter.</v>
+
+00:27:52.300 --> 00:27:53.370
+<v Speaker 1>What's your Twitter name?</v>
+
+00:27:53.460 --> 00:27:57.210
+<v Speaker 2>At Tifa Mayan and I definitely want to hear about people's release experiences.</v>
+
+00:27:57.280 --> 00:27:58.510
+<v Speaker 3>You can always find me on Twitter</v>
+
+00:27:58.580 --> 00:28:01.970
+<v Speaker 3>at Gavin Verhey, which is just my name with no spaces. I'm really creative.</v>
+
+00:28:02.590 --> 00:28:05.120
+<v Speaker 4>At Samsad S AM STOD.</v>
+
+00:28:05.270 --> 00:28:07.320
+<v Speaker 3>That's more creative. You took off the last three letters.</v>
+
+00:28:07.590 --> 00:28:23.620
+<v Speaker 1>Well, I took off the first two. I'm at Trick Jarrett. And then of course you can e-mail us daily mtgcast@wizards.com. This was a back-to-back up. So we will go back to our every other week schedule starting now. So you'll be back in two weeks. We'll be back in two weeks to talk to you more about Dragons Maze.</v>
+

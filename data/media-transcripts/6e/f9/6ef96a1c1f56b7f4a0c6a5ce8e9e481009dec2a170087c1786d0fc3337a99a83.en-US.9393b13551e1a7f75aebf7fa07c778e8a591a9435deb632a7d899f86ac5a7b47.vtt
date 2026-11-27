@@ -1,0 +1,359 @@
+WEBVTT
+
+00:00:01.560 --> 00:00:07.370
+<v Speaker 1>OK, I'm pulling on my driveway. We all know that means it's time for another drive to work.</v>
+
+00:00:08.150 --> 00:00:16.850
+<v Speaker 1>OK, so today is the line story day. Today I'm going to talk about the design of Scars of Mirrodin.</v>
+
+00:00:18.540 --> 00:00:48.120
+<v Speaker 1>So there's many stories to tell. Let me first start by talking about the design team. So the design team, this is going to seem like a long list. I'll explain in a second why the list is so long. So I let it let it it had Mark Gottlieb, Alexis Janson, Eric Lauer, Matt plays Mark Globus and Nate Heist. Now most of those names should be familiar. Mark Gottlieb currently is the design manager and he was formerly the rules manager and before that actually he was an editor for Magic</v>
+
+00:00:48.190 --> 00:01:18.320
+<v Speaker 1>in the very beginning. Yeah, Mark and I have a long relationship. It's funny because when he was the rules manager, one of the running jokes is that the head designer and the rules manager, you know, our mortal enemies because it's the job of the head designer to do things we've never done before and its job the rules manager to make everything work just like we've always done it before. So definitely it's the kind of thing like door to nothing. For example, I really wanted to destroy target player. That was the effect and and he's like, no, no, we haven't. You know, it's turn player loses the game.</v>
+
+00:01:18.420 --> 00:01:47.860
+<v Speaker 1>I'm like, well, that's yeah, yeah, yeah, I understand. That's how we write it. But they're much more exciting if just starting player and like kind of the it's that conflict that we always had of he's trying to figure out how to how to take things in words them as we've always done. And I'm always trying to find ways to make things seem exciting and different. And so I want to try things a little differently. We've done before. But anyway, regardless of the fact that we we had the little ongoing joke of of we actually get along pretty well. And he became my design manager</v>
+
+00:01:48.430 --> 00:02:18.930
+<v Speaker 1>well over a year ago, I think. So the way it works is we have a six person design team. I'm no longer in charge of managing the team. That's Mark's job. I'm in charge of overseeing their technical skills and I'm in charge of overseeing design. But the idea is that by having a manager that I have to do less management and I can focus and spend more time on doing design because I I'm a better designer than I am a manager. And it just the problem is there's so much going on that just having to spend time to do all the management stuff</v>
+
+00:02:19.000 --> 00:02:48.520
+<v Speaker 1>kept me away from doing design stuff. And so I know her manager who does the management stuff, which is Marcali. And Mark is an awesome designer. He has led a couple sets. He's leading a set right now. So he he's he and I worked together. He and I cooled crashed. So Alexa Jansen, winner of the first great designer search, just let her of her first set with Dragons Maze. She has been on a lot of teams. She's very good. Obviously a great designer</v>
+
+00:02:49.020 --> 00:03:08.190
+<v Speaker 1>and, but she doesn't work in R&amp;D. She's one of the people we have on the loan. She actually works in digital, working on magic online and all sorts of stuff there. But we borrow her from time to time. Eric Lauer is currently the head developer, well, the equivalent on the head designer. He's the equivalent for development and</v>
+
+00:03:10.180 --> 00:03:39.550
+<v Speaker 1>at the time, though he wasn't he he was not yet did not have the position because this is a while back and Matt plays was also developer and like I said, that's one of my favorite developers all the time, although he currently does not work at Wizards. And then Nate Mark Lopez is another person who came from the first grade designer search came in fourth, I believe, and he is the producer for Magic, which means that we have a lot of balls in the air. There's a lot of moving parts and he's the one that just make sure everything is running smoothly.</v>
+
+00:03:39.650 --> 00:03:56.360
+<v Speaker 1>And he overseas that and it's it's a very complex job. There's a lot going on in Globus is kind of Aaron's right hand man to make sure that everything is running smoothly. And then Nate Heist no longer works at Wizards, but he was very involved with</v>
+
+00:03:57.850 --> 00:04:27.990
+<v Speaker 1>digital games. And I remember Gleemax thing we tried for a while to make a social gaming thing that didn't quite work out. But anyway, he was one of the designers that he wasn't a Magic designer. I mean, he didn't work specifically on Magic, but he played Magic and he was a long time Magic player. And so we had him on. So what happened was the reason this is so large is we actually had one team and then in the middle we switched off some stuff. So I think what happened is like the team originally was me and Alexis</v>
+
+00:04:28.110 --> 00:04:55.250
+<v Speaker 1>Gottlieb and Matt, and then Halfway and Nate and Nate, I think. And then halfway through I swapped. Matt got swapped out for Eric and Nate got swapped out for Globus. And so I'll explain as they get into my story why we swapped halfway through, because that's something I don't think I've ever explained. So to really talk about where this set came from, we have to go back, go back in The Time Machine to mirror it in.</v>
+
+00:04:55.720 --> 00:05:26.440
+<v Speaker 1>OK, so actually farther than that. So I talked about how there's a story that I at least started the ball rolling for the weather light saga and the Weather Light saga ended up in the invasion block. At this point, I wasn't very involved in the store anymore. But so invasion, for those that do not know, and there are people in and who claimed they do not know, it was about an invasion by the Phyrexians on Dominaria. And thanks to lots of planning by Erza and all sorts of stuff, the Fractions are defeated.</v>
+
+00:05:26.580 --> 00:05:34.060
+<v Speaker 1>Utterly defeated, they are destroyed. Finally, the the curse of the Flexions has been wiped from the multiverse. Now</v>
+
+00:05:34.970 --> 00:06:05.120
+<v Speaker 1>from those you know anything about good, good storytelling, uh, you know, just completely kill off villains as good as the flexions. And let me be clear, I love the flexions. They are my favorite villains of all magic. Like as far as I'm concerned, I consider them the Lex Luther to magic Superman. Now there's others that argument with Nicholas. I mean, he's the other big bad guy, but to me, the fractions have always been, I mean, literally since the early days of Magic, have been one of the most awesome villains. And</v>
+
+00:06:05.210 --> 00:06:35.040
+<v Speaker 1>the reason I love the fractions, I've talked about this before, is there what I call environmental villains, which is Magic does a good job of showing you an environment. And the fractions are not just a singular thing. They are in themselves in an environment. It's very easy to show for Xia because they get to show up in lots of cards because what they do is they infect the environment and that's very visible. And I, I enjoy that. I also enjoyed the fractions for other reasons. I mean, they were my favorites before this happened, but also the fractions were my means to bring back poison to the game.</v>
+
+00:06:35.900 --> 00:07:04.990
+<v Speaker 1>I'll talk about briefly, which is when I first started playing Magic way, way back when, Well, I started an alpha, but when I picked up legends, legends introduced the concept of poison. I think it was on a couple of cards. And I thought the idea was awesome. Like I poisoned my opponent and then just no matter what he gets sent poison dead. I thought that I, I spent so much time building poison decks and and poison for a long time was something that magic kind of did and dribs and drabs and was never at a high power level,</v>
+
+00:07:05.650 --> 00:07:34.980
+<v Speaker 1>but I loved it nonetheless. I mean, I'm a Johnny, so like I was, I love trying to win with weird ways. And so like trying to win with a poison deck back in the day was quite the challenge. And but anyway, and then around the time of oh, what happened was Tempest was going to have a poison theme. In fact, Bogati which is the code name for for Tempest was named after a land of poison snakes and in in Indian land of poison snakes.</v>
+
+00:07:35.230 --> 00:07:36.980
+<v Speaker 1>But originally Tempest was</v>
+
+00:07:37.800 --> 00:07:52.960
+<v Speaker 1>as it was a poison set, lots of poison in it, and it was decided at the time of Tempest that we didn't want to be in the poison game, that enough people, not not me, absolutely thought that poison wasn't right for magic. And so poison went away</v>
+
+00:07:53.640 --> 00:08:13.310
+<v Speaker 1>and I made it my goal, one of my goals, I really wanted to bring poison back. And I, I during unglued 2, I tried to bring poison back and Unglued 2 never actually saw the light of day. And I kind of knew I wanted to bring him back, but I was just waiting for the right time in the right place. Because one of the things I've learned is</v>
+
+00:08:14.990 --> 00:08:44.690
+<v Speaker 1>I play, I play magic for the long game, meaning if I have a good design, I, I wait for the right place to put it. Because the worst thing you can do is put a design in the wrong place and try to force it. Because a not only will usually not end up in the sad, but then people think very badly of it and they think of it being this bad mechanic. You know, one of the things that I'm constantly doing as head designer is making people understand that, you know, just because I'm a cannon doesn't work, doesn't make it a bad mechanic. Just means it's not right for this set, you know? And a lot of</v>
+
+00:08:44.760 --> 00:08:51.650
+<v Speaker 1>times you try something and it will fail. And that doesn't mean the mechanic is a failure. It means it doesn't support what you need right now.</v>
+
+00:08:52.720 --> 00:09:23.490
+<v Speaker 1>And so I wanted to make sure because poison already had a lot going against it. I didn't want to sort of try to make poison work until I knew I could do it correctly. OK, so now, now, now let's go to Meredith in Meriden. Brady Dunworth got a pretty cool idea. He said the fractions are cool though, and we don't want to forever flush the fractions away, you know, and, and, and, and to be fair, you know, if you send any story, I talked about France as being the plague archetype, like zombies and the Borg and</v>
+
+00:09:24.650 --> 00:09:53.780
+<v Speaker 1>Invasion of the Body snatchers. The idea is we come, we will make you part of us, you know, like we will, we will grow and then you will become us. And that's very scary, you know, and the idea is every person follows their stronger, right? And it makes it very hard army to fight against. But if you ever watch the end of any one of those films, especially like in the 50s or 60s, you know, it's like the curse is, is we, we've we've beaten them. And then there's always some shot of some little guy that got away</v>
+
+00:09:53.850 --> 00:10:24.950
+<v Speaker 1>like the end? So like we kind of hearts new. I mean, being that the fractions literally go down to a drop of oil, they are a hard enemy to truly eradicate. And so Brady came up with this neat idea that for that Karn had gotten tainted when he had visited Flexin somewhere during the storyline, I believe. But he was a planes Walker and the spark kept the infection from happening and so or kept it at Bay. And the idea was</v>
+
+00:10:25.050 --> 00:10:55.340
+<v Speaker 1>that car would inadvertently spread the plague. And so in the Meridian book, like when we came up with the idea of Mirrodin, Brady had the idea and we put it in into Mirrodin that the fractions had got a little tiny hand hold. And in fact, if you look, there's there's lots of little subtle clues about the fact that fractions are there. And the idea was that we were going to come back years later. And in fact, in fact, here's what I originally we're going to do. It was we were going to the step was going to be new for Exia</v>
+
+00:10:55.430 --> 00:11:25.630
+<v Speaker 1>and like, Oh my God, the fractions, they're not dead. What happened? Look here they are. And the big kind of like, you know, the big, you know, the big turn with the musical sting at the end of the block was ohh, my gosh, it's mirrored in, you know, kind of like a I don't want room Planet of the apes. But do you know what? You ever seen Planet apes? You know the scene I'm talking about where you're like, Oh my God. And so we wanted to have that moment, the problem, but there were a couple problems. 1 is that so when I started</v>
+
+00:11:25.730 --> 00:11:32.480
+<v Speaker 1>I was supposed to be designing new flexi that that was what I started when when the whole thing began I was designing new for Exia.</v>
+
+00:11:35.650 --> 00:11:37.180
+<v Speaker 1>But here's the problem that I ran into was</v>
+
+00:11:38.670 --> 00:11:40.810
+<v Speaker 1>the fractions are all about like,</v>
+
+00:11:42.420 --> 00:12:13.310
+<v Speaker 1>you know, infecting and, and, and and overtaking world, right? That's the thing. And like we started after their thing, like, OK, they're here now, they're fighting each other because there's no one else left to fight. And, and what we found was it was a very hard story to tell. Like for starters, the flexions hadn't been in a set for a long time. Like who are the flexions? And we realized that we kind of had to reintroduce the flexions. And so the first half the design, I was like trying to understand and figure out</v>
+
+00:12:13.410 --> 00:12:17.770
+<v Speaker 1>like what the block was about. And I was very confused because,</v>
+
+00:12:18.350 --> 00:12:19.660
+<v Speaker 1>you know, it was</v>
+
+00:12:21.230 --> 00:12:22.240
+<v Speaker 1>kind of the story. Like,</v>
+
+00:12:23.480 --> 00:12:38.110
+<v Speaker 1>there's a story I wanted to tell. And, and members of my team keep kept popping in and saying, hey, you know, shouldn't we tell? Like, isn't it more exciting to tell about them invading? And I said, yeah, but we're supposed to do for Axia. And finally, finally, like,</v>
+
+00:12:39.350 --> 00:12:42.820
+<v Speaker 1>and so the reason by the way, we switched teams was just, I was, I was kind of stuck</v>
+
+00:12:44.240 --> 00:12:58.810
+<v Speaker 1>and I actually got called in for Bill and Bills, like what's going on? This you see me spinning your wheels and I explained what's going on and Bill said, OK, we're going to change up the team a little bit. I'm going to change a few people out. And he gave me this pep talk and, and</v>
+
+00:12:59.640 --> 00:13:29.450
+<v Speaker 1>so kind of what happened was I said, OK, OK, let's stop. Because I, I spent a lot of the early time of the design trying to understand who the flexions were. Because one of my, one of my new goals is, and that by the time we got Oscars mirrored in, I was doing something different with design. Something that I do now, which is I'd like to think of the idea that the game mechanics aren't aspect of the flavor. That if you want to get the flavor of an environment, you know, you have the art, you have the names, you have the flavor text</v>
+
+00:13:29.500 --> 00:13:41.900
+<v Speaker 1>in mechanics. And I want the mechanics to represent the story so that as you play, you feel the story through the play. That's very important to me, and I'm very big on the emotional sort of.</v>
+
+00:13:43.200 --> 00:13:46.910
+<v Speaker 1>I want the gameplay itself to have an emotional, flavorful component.</v>
+
+00:13:47.730 --> 00:13:48.230
+<v Speaker 1>Umm</v>
+
+00:13:49.310 --> 00:13:57.740
+<v Speaker 1>and in some way Scars marred might have been the first set where I was really trying to do this so hard. I mean, I mean, industry would come later and that's where I, I sort of like</v>
+
+00:13:58.900 --> 00:14:12.200
+<v Speaker 1>anyway, I, I feel like scars. One of my goals was I wanted you to get a sense of the flexions. I really wanted mechanically to define them in a way that made you sort of afraid of them.</v>
+
+00:14:13.780 --> 00:14:43.630
+<v Speaker 1>And I, I knew in the back of my head the poison poison was a very good fit for the fractions. The fractions were all about taking things over and then, you know, polluting them essentially. And so like, OK, look, the the fractions taint you and take you over. So, you know, poison felt like a neat way to represent that. So one of the things that we talked a lot about was I said to my team, I said, you know, let's metaphorically</v>
+
+00:14:43.700 --> 00:14:45.620
+<v Speaker 1>figure out what what,</v>
+
+00:14:47.680 --> 00:14:53.290
+<v Speaker 1>what the fractions were. And so after thinking about a lot of it, I finally realized that they were a disease,</v>
+
+00:14:53.960 --> 00:14:56.790
+<v Speaker 1>you know, that they were, you know,</v>
+
+00:14:58.130 --> 00:15:28.040
+<v Speaker 1>they were a bad guy, but they were bad guy in a metaphorical way. That sort of like the way his disease is so scary is that it come and slowly infects you and it takes over your cells and it, it start, it starts turning your body against itself, you know, and that I like that idea of these guys being a disease. So what I did was I came up with four adjectives to represent them. See if I can remember my 4 adjectives. I wanted them to be relentless.</v>
+
+00:15:28.360 --> 00:15:29.930
+<v Speaker 1>I wanted them to be toxic,</v>
+
+00:15:30.700 --> 00:15:35.110
+<v Speaker 1>I wanted them to be adaptive, and I wanted them to be</v>
+
+00:15:35.840 --> 00:15:36.780
+<v Speaker 1>What was the last one?</v>
+
+00:15:39.760 --> 00:15:49.290
+<v Speaker 1>One more. And really what I did is I said I wanted to get different mechanics to sort of represent that state, you know,</v>
+
+00:15:51.330 --> 00:15:52.780
+<v Speaker 1>and so that the one</v>
+
+00:15:54.460 --> 00:16:13.950
+<v Speaker 1>well, so anyway, the toxic part, I knew poison made a lot of sense. And so very early on we were messing with poison. We started with poisonous, which I used in future sight. So the idea of poisonous was the way most of the poison creatures worked in the early days was I hit you and then</v>
+
+00:16:14.960 --> 00:16:44.990
+<v Speaker 1>I did poison to you. Now some of them replaced the damage with the poison, meaning some of them instead of dealing damage, you did poison. Some of they weren't blocked and poison. But the thing was important was I, I liked the idea that these things are, you know, they're, you don't want them to hit you. They, they're scary to you. But poisonous wasn't getting the job done. And that the the problem with poisonous was</v>
+
+00:16:45.120 --> 00:17:10.120
+<v Speaker 1>OK, so van poison is 2. That means when I hit you I do 2 poison. So there are a couple of problems. 1 was that there are just times where I would beat you with damage before I beat you with poison, especially if I was mixing together poison and non poison creatures. But the bigger problem was that it wasn't. For example, let's add poisonous to richer. OK, so I attack you. You're not 2 poison.</v>
+
+00:17:11.000 --> 00:17:13.370
+<v Speaker 1>OK, so now I attack you again. You're at 4 poison</v>
+
+00:17:14.180 --> 00:17:24.630
+<v Speaker 1>so now thank you again. You have 4 poison. You're not scared of this guy yet. You're like whatever, I4 poison. Fine, I'll take two more poisons like he. The poison guys didn't get scary until</v>
+
+00:17:26.100 --> 00:17:30.290
+<v Speaker 1>you were like up until the lethal hit would get you, they weren't scary.</v>
+
+00:17:31.060 --> 00:17:54.930
+<v Speaker 1>And what I wanted to do was I needed a little more uncertainty. Like I didn't because what happened with the poison creatures, the poisonous was like they weren't kind of scary until the absolute positive end. And I wanted to find a way to say, hey, maybe you want to block these guys, you know, because the flavor, the flavor was never block a poisoned creature, you know, unless you're going to die to damage or die to poison, otherwise, whatever, not a big deal.</v>
+
+00:17:56.300 --> 00:18:21.650
+<v Speaker 1>And there wasn't any real, you know, like they weren't scared to block. They they weren't scared to hit you. Like, like I said, one of the things I wanted is I wanted turn the fractions back. I thought they were the most awesome villains we had. I wanted you afraid of them. I wanted you to go, Oh my God, the fractions. Oh my God, the fret. Ohh, you know, I'm scared. The fractions are here. And I thought Poison could do that, but it wasn't, It wasn't getting the job done.</v>
+
+00:18:23.440 --> 00:18:25.380
+<v Speaker 1>And so, um,</v>
+
+00:18:26.290 --> 00:18:34.120
+<v Speaker 1>one of the things that came up was we, we came up the idea of so wither is mechanic from Shadowmoor,</v>
+
+00:18:35.410 --> 00:19:05.640
+<v Speaker 1>which interesting Nate Heiss who was also on, on this set. Nate heist. Ohh, no, no, I'm sorry. I came up with her nails came up to persist. So, but anyway, Nate height was part of actually he was on Lorwyn design and he came up with it in early Lorwyn design. We were thinking -1 minus counters to represent things not being as deadly, but it ended up making him seem deadlier. I'll get there on line five guys anyway. So whether it was a mechanic,</v>
+
+00:19:05.740 --> 00:19:08.590
+<v Speaker 1>actually, I'd come up with her during</v>
+
+00:19:11.200 --> 00:19:39.610
+<v Speaker 1>Shadowmoor to represent the idea of something that had a permanent damage that like every time, because normally imagine what Richard have come up with is I mean, basically Richard wanted is he wanted a simple system as possible for four damage. And So what he said is look, creatures getting to fight something happens and then whatever you heal. And the major reason which I did that was he just didn't want to track it, you know? Oh, I remember this one is 1 damage on this one is 2 damage. And the video game, whatever it can be tracked. But in</v>
+
+00:19:39.760 --> 00:19:44.500
+<v Speaker 1>in a paper game, it just with a lot of bookkeeping and which is like, whatever, you kill it, you don't kill it, it gets better.</v>
+
+00:19:45.310 --> 00:19:54.370
+<v Speaker 1>Umm, And so the idea of whether it was kind of like, oh, well, no, no, no, these things don't get better. These things, you know, if they bite you, you are, you are damaging, you are not healing.</v>
+
+00:19:55.070 --> 00:20:26.370
+<v Speaker 1>Um, and So what happened was I ended up putting Wither on some guys. So I like the idea of Wither felt like, oh, these guys are scary, they're poisonous, you know, hey creatures, you kind of don't want to be poisoned by this thing. So we put Wither on it. And so with her, what we had done with Wither was originally when we made whether it was if you blocked, you got so many -1 -, 1 counters. But what we ended up doing was we tied Wither to damage, which said it dealt its damage to creatures in the form of -1 -, 1 counters.</v>
+
+00:20:27.320 --> 00:20:47.140
+<v Speaker 1>And that just played a lot better because otherwise there was a lot of math that went on and like, let's just clean he does 2 damage, you fine, you know, to get 2 counters. And So what it did was replaced this damage with minus encounters. So what happened was in in scars Mirrodin, we, I started putting wither on these guys. So I wanted, I wanted your creatures to be afraid of them.</v>
+
+00:20:48.400 --> 00:20:53.650
+<v Speaker 1>And one day, I don't know, one day that's been neon light. I I just remember like,</v>
+
+00:20:55.190 --> 00:20:59.720
+<v Speaker 1>you know, something just leaving obvious and then one day, just like you see it</v>
+
+00:21:01.030 --> 00:21:13.130
+<v Speaker 1>because we had with her on a lot of creatures and wither dealt damage in the form of mineral mineral counters. And then one day this is like, why doesn't poison deal damage in the form of poison counters?</v>
+
+00:21:13.850 --> 00:21:32.890
+<v Speaker 1>Well, that's, that's exactly what we want. And the reason that that was so awesome was that it had the thing I'm missing, which is let's say I have 4 poison and you attack with this two creature. Well, you might be able to make the creature bigger. You can giant growth or something. Meaning I don't know how much poison I might be taking. I have to be careful</v>
+
+00:21:34.020 --> 00:21:35.920
+<v Speaker 1>and so the</v>
+
+00:21:36.630 --> 00:21:38.390
+<v Speaker 1>you know it, it definitely said</v>
+
+00:21:39.640 --> 00:22:09.620
+<v Speaker 1>the fact that that magic gives you variables on power tying into power had all this dynamics and also what amendment is all of a sudden things matter. For example, we were mirrored mirror didn't wanted a lot of equipment because we're back on mirrored. Well, hey, you know, the second that that in fact dealt on damage any any equipment that boosted power was not much more interesting. You know, playing with the frequency and playing with in fact, energy. I mean, it made giant goes more interesting and made damage prevention more interested in anything that interacts with damage. Imagine has a bunch of things interact with</v>
+
+00:22:09.690 --> 00:22:39.850
+<v Speaker 1>change all of a sudden became much more interesting, you know, trample became more interesting. You know it it definitely did the thing where I said oh, this is neat. OK, now I magic plays around with damage. There's no cars across damage. And so for a while we had both wither and we started calling effect and then one day we were just like, why are we like most of the cars that infected with her and I'm like, why are we bothering to wither on these cards? What does that just had with their built-in look, I'm poisonous,</v>
+
+00:22:40.180 --> 00:22:49.280
+<v Speaker 1>I hit you, I give you in charge, you know, I give you damage to poison counter scriptures. I get damage -1 minus counters. And it all just came together. It was, it was a beautiful package.</v>
+
+00:22:50.960 --> 00:23:07.400
+<v Speaker 1>But meanwhile, while we were slowly solving the problem of how to make the flexi and scary, we had a bigger problem, which was what was the block about? So one of the things I talked about block design is it's very important when designing a block that there's some</v>
+
+00:23:08.720 --> 00:23:14.640
+<v Speaker 1>that each set in the block has to have its own identity. That's one of the big things about block design that</v>
+
+00:23:16.090 --> 00:23:46.300
+<v Speaker 1>we've discovered is that blocks do the best when each block is about something, you know, And from time to time it's clear when we, we don't get like, for example, I think an industry rod. One of my my regrets about dark ascension was we didn't give it enough of its own identity that it just was kind of like more into stride and what it needed to be was something where it had like I, I think we we excelled best, especially with the middle set. When the middle set is it represents something.</v>
+
+00:23:47.540 --> 00:23:50.510
+<v Speaker 1>And so I liked a lot the idea of</v>
+
+00:23:52.710 --> 00:24:05.880
+<v Speaker 1>instead of end, instead of starting with the end. Eventually what happened was Bill giving this pep talk and I walked in and builds office like, I don't know, a couple weeks later and I because what Bill said to me, I'll build something very nice, which was I was kind of stuck</v>
+
+00:24:07.420 --> 00:24:19.270
+<v Speaker 1>and Bill basically gave me a pep talk and said, look, Mark, you're good, you're very good. And he goes, I think what's happening is you are trying to deliver what you think other people want rather than what you want,</v>
+
+00:24:19.970 --> 00:24:30.400
+<v Speaker 1>you know, and, and he said, stop trying to, you know, stop trying to, because for some reason I was in this mindset of, I don't even know why. I mean, that's a longer issue, but I</v>
+
+00:24:31.130 --> 00:25:01.200
+<v Speaker 1>Bill really sort of sort of slapped me out of it and said, look, make something that you think is awesome and you know that that's where you shine. Don't don't try to make something awesome. This is awesome lesson, by the way, lesson Bill gave me is awesome lesson, which is if you want to make something awesome, you have to make something awesome that you, the designer believe is awesome, that that follows your heart. And then we the reality is design of any kind, any kind of creative design is, is built</v>
+
+00:25:01.280 --> 00:25:23.470
+<v Speaker 1>passion. If you, the the creator are not passionate, it will not have passionate and it will not excel. If you wanna make something that's truly awesome, that's truly something that stands out, it has to believe because you, the creator have put some of yourself in it. And in order to do that, you have to believe in it with all your heart. And if you don't believe in all your heart, it'll, it'll just</v>
+
+00:25:24.160 --> 00:25:54.790
+<v Speaker 1>if when you try to make something for somebody else, you, you, you, you will ultimately fail. I mean, I'm not saying you can't make somebody else, but it will not be if you want to hit on the ballpark, you have to make it something that is you, that belongs to you. And I think for some reason I've got stuck up in this project. I'm not sure why I was excited by the flexions. I was excited to sort of show what they could do was excited and poison. But I, I kind of when we started, we started this parameter of, you know, hey, we're on Nexia. And what I realized was the whole reveal, the whole like,</v>
+
+00:25:54.900 --> 00:26:01.140
+<v Speaker 1>you know, Oh my</v>
+
+00:26:02.150 --> 00:26:32.430
+<v Speaker 1>This is a mirror then that works great in a movie. In a movie, you have a focused moment. Everybody's watching and like you gotta, you know, you gotta end the music has the sting and like, Oh my God. But that doesn't happen in trading card game. You know that it's hard for you to have that moment. And we were kind of we do this sometimes we have all this awesome cinematic moment and then we forget like we're not a movie, like we don't have that moment. And what we what I realized is magic stories that excel are magic stories that can be told in a way that magic excels at. And what does magic do really well? Telling what I call environmental</v>
+
+00:26:32.560 --> 00:27:01.320
+<v Speaker 1>worries, watching an environment change. That's why to notice so often, you know, dramatic events happened in the world is like the world have to change is the nature of what makes magic magic because we're going to show you something. We can't show you any new one little thing, you know, we have to show you, here's the world, here's a different world or change world or something that says, hey, things are fundamentally different. That's how we show things because that's what that's that's the paintbrush we use. And so</v>
+
+00:27:02.370 --> 00:27:19.920
+<v Speaker 1>I sort of walked away and made in my heart of hearts, I knew this and my team have been saying this. And like I finally walked in and said, OK, Bell, we're telling the wrong story. I said, you want to tell the story. The awesome story we have to tell here is the flexions take over Mirrodin. That's the story.</v>
+
+00:27:21.320 --> 00:27:50.500
+<v Speaker 1>And so I I said, look, it's, it's you don't want to we're starting with the end and you want to start with and then they've won. No, this is amazing story of watching the meridians, one of the bad asses of all time, you know, being taken over by the friends. Like really what this was we were putting a stake in the ground and saying the fractions are back and they're mad. You know, they took down that bad and you know, very good. And they took down the the meridians</v>
+
+00:27:50.580 --> 00:28:07.200
+<v Speaker 1>where this potent force that we were, we wanted to put the the whole point of this block was to put the fractions back on the map of saying, remember these guys, Hey, these are some of the these are these are one of the best magic build you've ever seen. And so I said we're telling the wrong story. And then Bill said,</v>
+
+00:28:07.830 --> 00:28:38.260
+<v Speaker 1>you know, but Bill came up the idea of, well, could we make it dramatic who wins? And I and I said, well, I go, well, the problem is we're going to announce the name of the third set that's going to give it away. So I'm not sure if we can, you know, keep it secret. And then Bill said, well, wait, what if we don't announce the name? And I'm saying, no, we have, you know, we have to send out like in order for people to order stuff, we have to send things out and goes, oh, OK, what if we give two names? And Bill suggested the idea of what have we don't let people know how the block,</v>
+
+00:28:38.980 --> 00:29:08.510
+<v Speaker 1>you know, that we started the story and then we give them two outcomes. And we could actually, you know, people were ordering the product. We could actually not even tell them the name. It's one of these two names. And that's what we did, by the way, which by the way is one of the things I love about doing magic is that we're a game about breaking rules. But that doesn't just mean breaking rules we've broken before. Sometimes it means breaking rules we've never broken before. And I remember, you know, we went to the sales team and said, guys, what do you think, you know, of we're going to try to sell</v>
+
+00:29:08.720 --> 00:29:39.760
+<v Speaker 1>and we're not gonna tell people the name. It's like either is one or two. And then the sales people said is ohh, awesome, no problem. This is magic, you know, you know how we sell the magic set? We say we're making another magic set. You know, and like he said, it'd be awesome if in fact it be something that they were excited by because it's something that was out of the ordinary that when they love, when they go to sell sexes to to perk up, you know, you, the people buy that you want to put them into what's going on and go, OK, it's a set that we don't even know. You're not even going to know which said it is, you know, and, and the, the retailers and distributors, they really,</v>
+
+00:29:40.160 --> 00:29:57.100
+<v Speaker 1>they, they got into it. That was fun because they realized was the magic is magic. They had a lot of trust in us. They knew we're gonna do a good job. And so they're like, hey, let's, let's have some fun. And so once we took that idea, we ran with it. OK, So the idea was OK. So now we clicked and said we're going to tell a story.</v>
+
+00:29:57.810 --> 00:30:27.900
+<v Speaker 1>I'm going to tell story. One of the rules about telling a story is figure out where you want to end and then go to the go to the opposite side of the spectrum. That's how you tell a good story. OK, so for example, let's say you have a story about a guy who realizes how to be selfless of how you know, in the end he becomes someone who really learns to to share with the world or whatever. Well, in the beginning of the story, he better be a selfish guy. He's got to be selfish because you need to have the room for him to grow.</v>
+
+00:30:28.070 --> 00:30:58.150
+<v Speaker 1>You know, I'm saying that I'm like Jerry Maguire, like Jerry Maguire has to start the way he starts so that he has room to grow. You know that that the part of of any sort of story is the main character is what's called an arc. And so you have to start in the opposite place. And it's not just with character. You know, that the beginning of the story is you're taking yourself in a different direction. So we're like, OK, if we know we knew we were ending with the flexions, new fraction fractions have taken over.</v>
+
+00:30:58.250 --> 00:31:27.160
+<v Speaker 1>Read on. Meriden. Meriden as you know it is dead. It is now new freccia, right? And so in order to do that, we're like, OK, we know we want to end with new freccia. So where do we start? So I'm like, OK, well, we want to do is let's go back to the earliest point we can where the Forex Xians are the smallest threat. They can feel like they have to be enough of a presence that you know they're there. But like mostly it's mirrored it. Now, the other big thing that's allowed us to do is</v>
+
+00:31:28.190 --> 00:31:58.080
+<v Speaker 1>Flexi is pretty dark. Your new fraction is pretty dark. And I'm like, you know, I think we could do a set of new for Axia, but do we want to do a block a new Freccia? It's pretty dark. And what I like the idea is, look, let's go back to Meriden like by by rolling back the thing. Hey, we got to revisit Mirin. We got to see mirrored in again. And I was kind of excited, you know, before we turned mirrored into fraction. Let's see mirrored in again, you know, and I and I thought it was awesome. And for example, we would bring back to domineering many times, but this was the first time</v>
+
+00:31:58.190 --> 00:32:10.580
+<v Speaker 1>we really said, hey, we've been in this world, we're going back to this world, you know, and Meridian at the time had been the best selling sad and we knew people like artifact world. Now the wheels fell off the bus a little bit and mirrored in black and that</v>
+
+00:32:12.230 --> 00:32:19.850
+<v Speaker 1>the, the, the tournament scene broke. We, we had some developmental issues and we, we put out a lot of broken cards and</v>
+
+00:32:20.690 --> 00:32:32.540
+<v Speaker 1>you know, that caused all sorts of problems. But people like me in the world, the mirror didn't sold real well. They liked artifact world. I mean, they liked a lot of what Merton had offer. And so the idea was, let's go back to mirror and let's make sure it's not broken this time.</v>
+
+00:32:34.040 --> 00:32:36.940
+<v Speaker 1>Ohh. I mean, as you'll see next week, I did suggest</v>
+
+00:32:37.810 --> 00:32:41.490
+<v Speaker 1>some crazy stuff in that area. But anyway, So</v>
+
+00:32:42.440 --> 00:33:09.990
+<v Speaker 1>what happened was we rolled back and I said, OK, how small could Phyrexian be? It has to be big enough that you notice it. But but the smalls, it could be that you notice it. And I finally said, OK, we came up with 10%. We said, what if the fractions are 10%? That's one in 10. That means every booster the the Aspen will be high enough. They showed up that every booster you see a little bit of Frescia,</v>
+
+00:33:11.580 --> 00:33:34.510
+<v Speaker 1>you know, and, and then by the way, by the way. So the next problem that rolled into was how we represented the fraction. So that I guess I'll get started later, but that's where the watermarks came in because one of our concerns was that we wanted the first set to be 10% and then we wanted to grow. And the idea, by the way, was OK, well if we wanted, we thought we meet that the middle set was about who wins.</v>
+
+00:33:35.360 --> 00:33:46.320
+<v Speaker 1>So what that meant is OK, the middle that had to be a war because in the outcome of the war would be the third set, right. And then you think about scars is something that we one of the problems of</v>
+
+00:33:47.220 --> 00:34:04.860
+<v Speaker 1>storytelling has what's called 3 structure in which usually actions the largest act in act one sets things up and act 2 is the main part of it. Act 3 is the the wrap up for those that read my article, Act one is comfort. Act 2 surprise actually is completion anyway. So</v>
+
+00:34:05.700 --> 00:34:35.590
+<v Speaker 1>the problem we run into a lot of times is that we kind of set up the conflict and then like the third set, like this time we set the conflict in the second set to the third set can answer it. Sometimes the conflict in the third set and then it's hard for us to tell you the answer even if it's in the set, it's hard to see where. Have a nice thing about scars mirroring is there was a conflict who won? Everybody can tell you who won. There's no mystery, you know, like they'll draws. I ended up on mirroring what happened. Not a lot of people know the outcome of that, but you know,</v>
+
+00:34:35.680 --> 00:35:05.700
+<v Speaker 1>New Phyrexia, like, OK, mirroring got invaded by the fractions who won. That's clear. The Phyrexians won, but we knew we wanted to set up a conflict. So OK, that means the middle set, it has to go either way. Well, how do you represent either way 5050, right half and half. And so in order to do that, we, we said, OK, well, the first let's go back as far as we can without 10%. And then we use watermarks because how do you tell to set 1 from 10% to 50%? That's hard to tell. You know, can can you look at a piece of article that's clearly</v>
+
+00:35:05.770 --> 00:35:12.720
+<v Speaker 1>Racine art? Some people can, but but it's, it's murky, it's muddy. It's not necessarily the easiest thing to do. So we use the watermarks to represent that.</v>
+
+00:35:13.450 --> 00:35:43.700
+<v Speaker 1>OK, and I'm now pulling into my into my park or a parking space. So clearly Part 2 is coming tomorrow. So, so basically, here's a lot I'll leave the story with to be continued. Is we figured out the block structure was we wanted to tell the war. We wanted to show the corruption of Mirrodin. So we had a first set that introduced them. The introduced mirrored and mostly as mirrored. Hey, we got to revisit mirrored in we got to learn this place before we take it over. We got to meet it all over again.</v>
+
+00:35:43.820 --> 00:36:13.790
+<v Speaker 1>We had just enough forex in so you understand the threat is there. The second set would be half and half of war between the two sides. The surge. That would be the victor and that was us getting to blow out new for exia. Anyway, that's the setup tomorrow. I'll talk about how we made that all happen. So anyway, thanks for joining me today. Not tomorrow, next week. See, here's the secret. Whenever I do multiple multiple podcasts, I have to talk about it tomorrow. So I remember what I said today. So I'm going to read this tomorrow, but you guys actually hear it next week.</v>
+
+00:36:13.860 --> 00:36:37.260
+<v Speaker 1>So next week we'll be Part 2 when I talk about all the mechanics and sort of how we took what the framework that I set up and how we then flushed it out to make the block of scars. And I'll talk more about specifically about how we made scarves emitted itself since that's the podcast about anyway. So thank you very much for joining me today, and it's time to go make the magic.</v>
+

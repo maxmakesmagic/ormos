@@ -14,12 +14,14 @@ from .flash import FlashLibrary
 from .html import (
     FLASH_ROUTE,
     MEDIA_ROUTE,
+    PODCAST_ROUTE,
     SITE_NAME,
     VIDEO_ROUTE,
     render_page,
     render_template,
 )
 from .paths import component, route, site_file, write_new
+from .podcasts import PodcastLibrary
 from .videos import VideoLibrary
 
 PAGE_SIZE = 200
@@ -443,7 +445,10 @@ class Site:
             )
 
     def navigation(
-        self, library: VideoLibrary, flash: FlashLibrary | None = None
+        self,
+        library: VideoLibrary,
+        flash: FlashLibrary | None = None,
+        podcasts: PodcastLibrary | None = None,
     ) -> None:
         """Write the home page, archive directories, and search pages."""
         videos = library.videos
@@ -534,6 +539,9 @@ class Site:
         if flash and flash.items:
             flash.write_pages(self)
             media.append((FLASH_ROUTE, "Flash", len(flash.items)))
+        if podcasts and podcasts.episodes:
+            podcasts.write(self)
+            media.append((PODCAST_ROUTE, "Podcasts", len(podcasts.episodes)))
         self.groups_page(MEDIA_ROUTE, "Media", media)
         if media:
             choices.append((MEDIA_ROUTE, "Media", sum(count for _, _, count in media)))

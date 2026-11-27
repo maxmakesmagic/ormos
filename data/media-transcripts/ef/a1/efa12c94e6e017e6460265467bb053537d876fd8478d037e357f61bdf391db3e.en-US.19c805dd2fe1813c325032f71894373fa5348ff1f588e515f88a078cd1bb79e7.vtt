@@ -1,0 +1,731 @@
+WEBVTT
+
+00:00:06.300 --> 00:00:30.330
+<v Speaker 1>Hello and welcome to episode 8 of the Daily MTG Podcast, which oddly enough occurs only every two weeks. But you know, we're here anyways and we want to bring you all more Gate Crash. That's right, two weeks ago it was Mark Rosewater and us three talking about Gate Crash. In the midst of excitement, we unveiled a preview card. Now the full set is out. We're all here for the first half at least. I'm here on my 2 Co hosts</v>
+
+00:00:30.400 --> 00:00:32.400
+<v Speaker 1>microbe listen teeth at my and how you guys doing?</v>
+
+00:00:32.450 --> 00:00:33.200
+<v Speaker 2>Great.</v>
+
+00:00:33.250 --> 00:00:35.460
+<v Speaker 3>Yeah, I'm excited for all of the gate crash.</v>
+
+00:00:35.470 --> 00:00:37.260
+<v Speaker 1>All of the gate crash. Give me all of the gate.</v>
+
+00:00:37.270 --> 00:00:39.940
+<v Speaker 3>Crash. I I do, I want it. It's all so good stuff.</v>
+
+00:00:39.950 --> 00:00:41.660
+<v Speaker 1>All your gate crash are belong to us.</v>
+
+00:00:41.730 --> 00:00:42.560
+<v Speaker 3>Very true.</v>
+
+00:00:42.610 --> 00:00:49.720
+<v Speaker 2>Yes, I finally get to build a Simic deck. I've been waiting for this for like a year and it's it's finally here at my fingertips.</v>
+
+00:00:49.730 --> 00:00:52.010
+<v Speaker 1>So you're telling me you couldn't build a Semitic before this?</v>
+
+00:00:52.070 --> 00:01:00.670
+<v Speaker 3>Pretty sure you could have, just not with the mechanics. A lot of people were drafted. Like I don't think people were bored with drafting but when you start drafting a lot of re started experimenting. I built</v>
+
+00:01:00.740 --> 00:01:08.640
+<v Speaker 3>borrows back one day. Somebody else was trying to loading ready run. Actually one of their latest streams was building a a Dimir deck on an RTR draft.</v>
+
+00:01:08.650 --> 00:01:11.980
+<v Speaker 1>So no, she does get to build a Simic deck for the first time, really, that's true.</v>
+
+00:01:12.050 --> 00:01:13.960
+<v Speaker 3>We're using actual cement guard and we could.</v>
+
+00:01:13.970 --> 00:01:15.240
+<v Speaker 2>Build a real simic.</v>
+
+00:01:15.450 --> 00:01:19.720
+<v Speaker 1>Simic, real Summit cards, real Boros cards, real Demir cards. Mike, right.</v>
+
+00:01:19.870 --> 00:01:21.460
+<v Speaker 3>Yeah, probably in cipher all the.</v>
+
+00:01:21.470 --> 00:01:30.320
+<v Speaker 1>Secrets. People on Twitter were saying I should have run previews with no Dimir cards known and I was like that sounds great. In theory, it wouldn't have worked.</v>
+
+00:01:30.750 --> 00:01:37.250
+<v Speaker 3>True people already, they're like, we don't get enough for this car. We don't get enough this car. All you're gonna we, all of the cards are there by that point.</v>
+
+00:01:37.320 --> 00:01:39.030
+<v Speaker 1>True to mere fans would have appreciated.</v>
+
+00:01:39.040 --> 00:01:39.950
+<v Speaker 3>It that is very true.</v>
+
+00:01:39.960 --> 00:01:45.460
+<v Speaker 1>Card Damir fans would not have appreciated it. Like the ones who love blue, black, those are the ones that have problems.</v>
+
+00:01:45.750 --> 00:01:46.850
+<v Speaker 3>Very true.</v>
+
+00:01:46.960 --> 00:01:58.190
+<v Speaker 1>We all were excited, the sets fully known. So for the second-half, we do have a special guest. We have Mark Gottlieb coming in, but unfortunately we're going to lose Tifa. You have important meetings. You have to go do something like that.</v>
+
+00:01:58.240 --> 00:02:00.670
+<v Speaker 2>Yeah, I have to go be responsible and important.</v>
+
+00:02:00.760 --> 00:02:02.200
+<v Speaker 2>It's not as fun as podcasting.</v>
+
+00:02:02.210 --> 00:02:06.640
+<v Speaker 3>No, just it's just to evolve from somewhat responsible adult to a responsible adult.</v>
+
+00:02:06.710 --> 00:02:11.920
+<v Speaker 1>Yeah, it's a rough life being a grown up and all, especially when being a grown up within Wizards like.</v>
+
+00:02:11.930 --> 00:02:14.260
+<v Speaker 3>Oh, I know it's the worst. Actually, it's not bad.</v>
+
+00:02:14.370 --> 00:02:18.000
+<v Speaker 2>I love it. I still have meetings where I have to play magic.</v>
+
+00:02:18.090 --> 00:02:30.900
+<v Speaker 1>It's horrible, still happens, it's worked, becomes work. You slog through it, don't know how you do it, but we're going to be sad to not have you. For the second-half, we're excited to have Mark Gottlieb, code lead designer of Gates. Trash X Rules Manager, X</v>
+
+00:02:30.990 --> 00:02:39.460
+<v Speaker 1>author for daily MTG with House of Cards, and still an occasional writer. We're looking forward to getting to pick his brain some. Talk about gate crash. Talk about what went into the set, because</v>
+
+00:02:40.200 --> 00:02:41.560
+<v Speaker 1>holy cow guys, this is.</v>
+
+00:02:41.570 --> 00:02:43.000
+<v Speaker 3>Awesome, such a good set.</v>
+
+00:02:43.320 --> 00:02:45.830
+<v Speaker 2>So excited for Evolve.</v>
+
+00:02:46.700 --> 00:02:51.200
+<v Speaker 1>So you're excited for Evolve, but beyond the mechanic, what card really excites you teach?</v>
+
+00:02:51.210 --> 00:03:05.220
+<v Speaker 2>From So I Do art selection. It's one of the first things I see in the set, and surprisingly enough, my very favorite art in the set is also on my favorite card, or the card that I'm most excited to play,</v>
+
+00:03:05.870 --> 00:03:07.500
+<v Speaker 2>and that's Fathom Mage.</v>
+
+00:03:07.550 --> 00:03:12.200
+<v Speaker 1>That was actually the one of the first card. That was the first. That was the first card we showed you.</v>
+
+00:03:12.210 --> 00:03:21.860
+<v Speaker 3>Crash Yeah. And the last podcast I mentioned, you got your tattoo, the same tattoo the day before that card went out. And so people were like, oh, that's like they thought they thought it was time that you did that on purpose.</v>
+
+00:03:21.910 --> 00:03:35.770
+<v Speaker 2>So the card is too a green and a blue. It's a creature A11. It has a valve on it. So whenever a creature enters the battlefield under your control, if that creature has greater power or toughness, then this creature put a + 1</v>
+
+00:03:35.840 --> 00:03:43.180
+<v Speaker 2>plus one counter on this creature and then it also has the ability. Whenever a + 1 + 1 counter is placed on Fathom Mage, you may draw a card.</v>
+
+00:03:43.270 --> 00:03:53.140
+<v Speaker 1>That's so awesome. Yeah. Now just to clarify for you all, if you have the 11 and then you play a 22, you still only get the ability once. You don't get it for each sides of the power toughness.</v>
+
+00:03:53.150 --> 00:03:53.660
+<v Speaker 2>Right.</v>
+
+00:03:54.210 --> 00:03:57.040
+<v Speaker 1>But that's still an amazingly powerful and fun mechanic.</v>
+
+00:03:57.170 --> 00:04:06.470
+<v Speaker 3>It seems strong. I like the gears already turning. Like man, I'd love to splash black and use Corpsejack Menace from turn around right? So it's like, ohh, I'm gonna evolve. I'm gonna like super evolve</v>
+
+00:04:06.540 --> 00:04:07.520
+<v Speaker 3>and just get bigger.</v>
+
+00:04:08.230 --> 00:04:10.100
+<v Speaker 3>This is so many things you can do with it. Sounds awesome.</v>
+
+00:04:10.110 --> 00:04:32.160
+<v Speaker 2>And there's so many things like I already I'm looking at all the different cards that are going to tie so nicely with a deck like this, like elusive Krasis is an O4, which also has evolved. But like the four like having O 4 like that 4 is going to trigger like and the zero is also like if you have that, if you play that first then that 0 is going to trigger unlike so many cards.</v>
+
+00:04:32.170 --> 00:04:38.040
+<v Speaker 1>Right. It's awesome because O 4, you know, triggers A11A22A33, but</v>
+
+00:04:38.190 --> 00:04:48.870
+<v Speaker 1>one one or two two and a three three also trigger the 04, right? So there's there's this amazing synergistic thing where both sides benefit from that sort of dramatically different power toughness on those creatures.</v>
+
+00:04:48.920 --> 00:05:00.850
+<v Speaker 2>I'm just, I'm so excited. It's also I love how blue and green it is. Like it really is like those two colors, like the card draw giant creatures. Like it's everything that I love about Magic.</v>
+
+00:05:01.200 --> 00:05:02.600
+<v Speaker 1>Mike, what's your excitement?</v>
+
+00:05:02.860 --> 00:05:08.630
+<v Speaker 3>There's a lot of excitement, actually from the comics. I do really like Experiment One just because I mean, it's a human ooze</v>
+
+00:05:09.070 --> 00:05:38.640
+<v Speaker 3>and I'm loving it. I was having fun on Twitter a couple weeks ago and it was like, ohh, we've given you human who's fish crab, like what more do you want to see? And so we were just the Twitter and I were just coming up with a bunch of different creature combinations, which are always super fun. But Lazav Dimir mastermind is probably one of the cards I'm most excited about. What's he do? He's a he's a 2 blue, 2 black. He's legendary creature shapeshifter. He's got a hex proof, which is always a fun unless you're playing against it, and whenever a creature is put into an opponent graveyard from anywhere,</v>
+
+00:05:38.760 --> 00:05:57.800
+<v Speaker 3>you can have Lazav Dimir Mastermind to become a copy of that. Except it's still its name is still Lazov Dimir Mastermind and it's legendary in addition to its other type. It also gained hex proof and this ability and he's a three three. So essentially if something dies, they become Lazov, can become that with all the abilities and then copy something else.</v>
+
+00:05:57.810 --> 00:06:08.670
+<v Speaker 1>Later on it's an exit the battlefield clone. Like if a creature dies then he can clone it. He doesn't clone when he enters the battlefield. So it's this. I love the visual that I get</v>
+
+00:06:08.770 --> 00:06:25.200
+<v Speaker 1>this sky where he's an assassin and and you know, he then can like he goes in the room, kills the guy, then he walks out looking exactly like that guy. Like it's just a great movie and story element where you just have this visual of the the leader of the skill is perhaps one of the greatest assassins on the plane.</v>
+
+00:06:25.530 --> 00:06:27.460
+<v Speaker 2>I love that we can come up with mechanics that show.</v>
+
+00:06:27.470 --> 00:06:36.240
+<v Speaker 1>That right, That's amazing. That's the beautiful thing about this game is such an amazing framework in which to design and develop and create these stories and worlds.</v>
+
+00:06:37.110 --> 00:06:38.870
+<v Speaker 3>And then again, there's just so many possibilities,</v>
+
+00:06:39.030 --> 00:06:55.070
+<v Speaker 3>especially when you start doing a bunch of stuff. It's just going to work out so well when you have, you know, creatures that are exiting the battlefield and dying and board wipes and whatever else is especially we start ciphering stuff onto him and start using the cipher mechanic, which is really good. Just he'll essentially become unstoppable.</v>
+
+00:06:55.080 --> 00:06:57.700
+<v Speaker 1>Right. I love the art for Totally Lost.</v>
+
+00:06:57.710 --> 00:07:00.080
+<v Speaker 3>It's Oh my God, that guy's awesome.</v>
+
+00:07:00.870 --> 00:07:04.170
+<v Speaker 1>The little, little thing. What's what? Homunculus</v>
+
+00:07:04.540 --> 00:07:07.180
+<v Speaker 1>standing in the crowd, just looking up, terrified. He's like.</v>
+
+00:07:07.250 --> 00:07:08.720
+<v Speaker 3>Ohh sad.</v>
+
+00:07:08.970 --> 00:07:11.020
+<v Speaker 2>Like, wasn't that one of your favorite arts in the set?</v>
+
+00:07:11.030 --> 00:07:11.900
+<v Speaker 3>Yeah, yeah, it's.</v>
+
+00:07:11.910 --> 00:07:31.300
+<v Speaker 1>Brilliant it's awesome. It's a blue card. The card is an instant blue called totally lost 4 colorless 1 blue puts target nonland permanent on top of its owners library. And then I love the flavor text full of that's the that's the homunculus name for both had always hated crowds like he's this little tiny, shorter than people's boots in the.</v>
+
+00:07:31.310 --> 00:07:34.680
+<v Speaker 3>Art. He looks so scary. You want to hug them? Come here guy,</v>
+
+00:07:34.980 --> 00:07:35.690
+<v Speaker 3>let me hug you.</v>
+
+00:07:35.740 --> 00:07:37.620
+<v Speaker 2>I want to hug him, but I'm afraid I'd like poke his.</v>
+
+00:07:37.630 --> 00:07:40.000
+<v Speaker 1>Eye. His one eye.</v>
+
+00:07:40.040 --> 00:07:44.780
+<v Speaker 3>I'm also excited for a for trade. Help me with an here. I can never pronounce it. I was just calling that.</v>
+
+00:07:44.790 --> 00:07:46.210
+<v Speaker 1>Guy but board most thank.</v>
+
+00:07:46.220 --> 00:07:51.770
+<v Speaker 3>Aged thank you the Enraged because he'll fit nicely in my commander deck, which he'll have his brother in there as well.</v>
+
+00:07:51.840 --> 00:08:00.170
+<v Speaker 1>So the Borgos was the is the Gruul Guild leader from the original Ravnica block. He has returned in the Return to Ravnica block, but now he's.</v>
+
+00:08:00.180 --> 00:08:02.970
+<v Speaker 3>Enraged, he's even madder than he was originally.</v>
+
+00:08:03.080 --> 00:08:04.960
+<v Speaker 1>So people don't mean</v>
+
+00:08:05.040 --> 00:08:31.360
+<v Speaker 1>know this. I discovered this because it was a word of the day a couple of weeks ago for like I think Merriam Webster dictionary.com. But Borg, miss BOR BOR YGM US is the English word referring to that sound your stomach makes when it growls. So we've derived before most the clan leaders name based on that name, which is just brilliant to me. It's fun. Obviously, that word is a little complicated for Gruel Klan members.</v>
+
+00:08:31.370 --> 00:08:34.010
+<v Speaker 3>Really, I'm just gonna cast them and just go. And now my casts.</v>
+
+00:08:36.460 --> 00:08:38.610
+<v Speaker 3>And then they'll know exactly what I'm talking about and that's.</v>
+
+00:08:38.620 --> 00:08:40.000
+<v Speaker 1>Probably how he pronounces his name.</v>
+
+00:08:40.870 --> 00:08:43.330
+<v Speaker 2>Or you could just try to time it with like your stomach.</v>
+
+00:08:43.340 --> 00:08:44.980
+<v Speaker 3>Right. Yeah, it just won't eat before a match.</v>
+
+00:08:44.990 --> 00:09:11.090
+<v Speaker 1>Right. I have been working on a commander deck for alt win conditions before Gatecrash. I've been working on the stack and it's, it's really rough. It's really, I don't feel like I'm smart enough to play it like it's, I have like all of these different opportunities. I have 6 different alt win cards that I can pursue with the decks. I have all these tutors, all these draw spells and I have to carefully choose which one I think is the best one. And to be perfectly honest, I have yet to win a game with the deck because it's just that challenging.</v>
+
+00:09:11.170 --> 00:09:32.150
+<v Speaker 1>I always end up feeling like I misplayed. But this deck, the the set game crash has Biovisionary, which clearly has to go in here. Of course, the five color deck. So Biovisionary is a creature human wizard. It's a rare card. It's one colorless green and a blue. It's a 2/3. And so it says at the beginning of your in step, if you control four or more creatures named Biovisionary, you win the game.</v>
+
+00:09:33.420 --> 00:09:35.830
+<v Speaker 3>Clone right? Russian doppelganger.</v>
+
+00:09:35.930 --> 00:09:38.620
+<v Speaker 1>Or just right replication replication.</v>
+
+00:09:38.630 --> 00:09:59.820
+<v Speaker 3>Works as well from take the easy way out. I was going to go with I was going to think of all the clone cars like clone the Susan doppelganger or Sakashima the impostor from the Kamigawa block, which she comes in as a copy. And so from there you can just go ahead and just you know, make your deck even harder to play. Not only do I have to survive and not use right have a rite of replication, I have to cast all these other clone creatures.</v>
+
+00:10:00.270 --> 00:10:03.710
+<v Speaker 1>Gate crash is so exciting. It's awesome seeing the community get</v>
+
+00:10:03.790 --> 00:10:05.190
+<v Speaker 1>daily get pumped.</v>
+
+00:10:05.350 --> 00:10:06.360
+<v Speaker 3>All there, so excited.</v>
+
+00:10:06.370 --> 00:10:08.640
+<v Speaker 1>All these things they can do with these new cards.</v>
+
+00:10:08.730 --> 00:10:11.640
+<v Speaker 2>Awesome art. Too awesome. Always exciting.</v>
+
+00:10:11.930 --> 00:10:32.080
+<v Speaker 1>These mechanics are really some of my favorite to ever play. I'm not even I'm not even exaggerating. I don't you guys feel like I'm a high pitched guy here. I'm literally this excited for gate crash because it's finally coming out. We've all sat on this inside the building for, you know, some of us longer than others. But for a year, a little over a year since I joined the company, and I've just been so excited waiting for this set to finally come out.</v>
+
+00:10:32.370 --> 00:10:33.810
+<v Speaker 3>It's I mean, it's a good set and</v>
+
+00:10:33.890 --> 00:10:53.000
+<v Speaker 3>you meet people that were they're excited about rapping on the like, ohh, man, rubbing is amazing. Ohh, my favorite guilds on here, but I'm still having a blast right. And then you're like, alright, well now you get that moment. We get to tell him, alright, your favorite Guild is not here. You're gonna be really excited when they show up next in the next set and they show they see them and like you were completely right. This looks looks amazing.</v>
+
+00:10:53.150 --> 00:11:03.720
+<v Speaker 1>I have to call out also the awesome naming like we mentioned before most he mentioned Bio, visionary, all these other sort of names. I have to say Merciless eviction is just one of my favorite card names. Also, it's a</v>
+
+00:11:03.890 --> 00:11:20.250
+<v Speaker 1>the Sorcery 4 colorless WB, so it's a six mana casting cost sorcery. It's a rare card and it goes choose one. Exile all artifacts, or exile all creatures, or exile all enchantments or exile all planeswalkers. Whoa.</v>
+
+00:11:20.860 --> 00:11:22.570
+<v Speaker 3>We finally got a bore wife for planes.</v>
+
+00:11:22.580 --> 00:11:30.490
+<v Speaker 1>Walkers yeah, as a Commander player, I'm very excited for this. And it's just the art again, Tifa, the art is awesome on this.</v>
+
+00:11:30.670 --> 00:11:31.640
+<v Speaker 2>I agree, yeah.</v>
+
+00:11:31.960 --> 00:11:34.230
+<v Speaker 1>I am super excited to build a Cigana deck</v>
+
+00:11:34.340 --> 00:11:37.830
+<v Speaker 1>going back to to Simic. Ohh man yeah excited to build with the guy.</v>
+
+00:11:37.840 --> 00:11:46.860
+<v Speaker 3>You know, the Cynics looking really strong, Everyone's gonna dip into your colors for like, the cynic is looking really strong and really good. I mean the entire set. Everyone's looking really, really good.</v>
+
+00:11:46.910 --> 00:11:49.820
+<v Speaker 2>Well, when they see my tattoo, they'll know, right?</v>
+
+00:11:49.830 --> 00:11:56.160
+<v Speaker 3>They'll know to steal all the cards. But yeah, Prime Speaker Zegana just looks.</v>
+
+00:11:56.170 --> 00:12:04.480
+<v Speaker 1>Amazing so prime speakers. The Ghana is 6 mana, 2 colorless, 2 green, 2 blue legendary creature Merfolk Wizard</v>
+
+00:12:04.620 --> 00:12:34.730
+<v Speaker 1>again, the Guild leader for the the new Simic in this return Ravnica block and it's a 11 and it says Prime Speaker Zegana interest the battlefield with X + 1 + 1 counters on it, where X is the greatest power among other creatures you control. When Prime Speaker Zegana enters its battlefield, draw cards equal to its power. So for six mana, if you say you have, I don't know, Thragtusk from 4 set, just call it out there, right? Yeah, you can draw 5 cards. Well,</v>
+
+00:12:35.070 --> 00:12:43.310
+<v Speaker 1>this has been awesome. We're all super excited for Gate Crash. The time has come that we need to wrap up here and we'll be right back without teeth, unfortunately.</v>
+
+00:12:43.320 --> 00:12:47.710
+<v Speaker 2>Yeah, I can't wait to talk to everyone about my Simic deck and how it does.</v>
+
+00:12:48.020 --> 00:12:59.730
+<v Speaker 1>And we'll be right back with Mark Godly. All right, folks, we are back in the booth. Unfortunately, we have lost Tifa. She had got called to her real job. Gotta gotta make the money, make the cards.</v>
+
+00:12:59.880 --> 00:13:03.470
+<v Speaker 3>What you're saying like real, like I tweet, that's that's my real.</v>
+
+00:13:03.480 --> 00:13:04.370
+<v Speaker 1>That's your real job.</v>
+
+00:13:04.820 --> 00:13:09.200
+<v Speaker 1>That is not podcasting, unfortunately. So that was light to remain calm.</v>
+
+00:13:09.830 --> 00:13:14.620
+<v Speaker 1>Don't get too excited, but we have Mr. Orzoff, Mark Gottlieb in the booth.</v>
+
+00:13:15.790 --> 00:13:18.220
+<v Speaker 4>Hello, it's nice to be here on the Morning Zoo.</v>
+
+00:13:20.060 --> 00:13:31.530
+<v Speaker 1>We're not quite that bad, but OK, that's fair. That's fair. You are here, Sir, because A, you're awesome, thank you. And B because you were code lead designer of Gate Crash.</v>
+
+00:13:31.700 --> 00:13:35.490
+<v Speaker 4>Once I ousted Rose Water and rested control of the set from him.</v>
+
+00:13:35.500 --> 00:13:48.560
+<v Speaker 1>Yes, you're you're famed archnemesis. You 2 have the the the epic battles going back for many years. You have finally defeated Mark, the other Mark in taking over a set. How's that?</v>
+
+00:13:48.570 --> 00:13:50.530
+<v Speaker 4>Feel. So keep your</v>
+
+00:13:50.620 --> 00:13:55.460
+<v Speaker 4>friends close and keep your enemies in a cage. I think that's how it goes.</v>
+
+00:13:56.190 --> 00:14:00.480
+<v Speaker 1>Fair enough. You have been here for several years. I mean when you joined Wizards in.</v>
+
+00:14:01.070 --> 00:14:01.700
+<v Speaker 4>2000.</v>
+
+00:14:01.710 --> 00:14:09.700
+<v Speaker 1>2000 and you've done interesting, you've had a couple of jobs. You came, you know we were talk about this before we started recording. You came in as an editor originally.</v>
+
+00:14:09.750 --> 00:14:15.110
+<v Speaker 4>I was, I was a technical editor. My first the first set that I worked on was Apocalypse.</v>
+
+00:14:15.190 --> 00:14:21.020
+<v Speaker 1>And you are a puzzle fiend, which plays into your contributions to magic.</v>
+
+00:14:21.460 --> 00:14:22.410
+<v Speaker 4>I agree.</v>
+
+00:14:24.300 --> 00:14:34.770
+<v Speaker 4>I may. I may published puzzle author. I've had crossword puzzles in the New York Times. I've been published in Games Magazine, Wired, Technology Review.</v>
+
+00:14:34.850 --> 00:14:45.070
+<v Speaker 1>That's awesome. I am quite jealous. Like I, I have rediscovered in the last couple of weeks how much I enjoyed doing crosswords and I am quite jealous of the ability ability to make crosswords.</v>
+
+00:14:45.080 --> 00:14:53.770
+<v Speaker 3>Crosswords are fun. There was, yeah. I mean, some of the things where I was in a show once and a bunch of us every day for rehearsal would do a crossword puzzle. And then</v>
+
+00:14:53.840 --> 00:15:05.340
+<v Speaker 3>of course, like the the harder I got, I was here. The New York Times, they get harder as the week goes on. And so it would take everyone in the cast and crew to figure out the Sunday 1:00 because by then, forget it. We're all we're all brain fried. Crosswords are fun. I love crosswords.</v>
+
+00:15:05.850 --> 00:15:09.280
+<v Speaker 4>But the Sunday one, that was a tough 15 minutes, right?</v>
+
+00:15:10.740 --> 00:15:14.260
+<v Speaker 4>That's about what they take. That's a 151518 minutes.</v>
+
+00:15:14.270 --> 00:15:17.420
+<v Speaker 3>15 minutes, couple hours. No, you.</v>
+
+00:15:17.430 --> 00:15:18.920
+<v Speaker 1>Know 15 minutes per clue.</v>
+
+00:15:18.930 --> 00:15:19.790
+<v Speaker 4>Right. Ohh.</v>
+
+00:15:19.800 --> 00:15:20.280
+<v Speaker 3>Right.</v>
+
+00:15:21.350 --> 00:15:22.480
+<v Speaker 4>Practice makes perfect.</v>
+
+00:15:22.530 --> 00:15:29.200
+<v Speaker 1>I I can do weekdays and roughly 30, maybe 35 and Sunday will take me probably an hour. That's that's about my times, right?</v>
+
+00:15:29.210 --> 00:15:41.030
+<v Speaker 4>Now I solved them using. I solved the online New York Times puzzle, so it's a computer interface and the fastest Monday time I've achieved was just a couple of weeks ago, 3 minutes 35.</v>
+
+00:15:41.620 --> 00:15:42.600
+<v Speaker 3>Wow.</v>
+
+00:15:42.690 --> 00:15:46.770
+<v Speaker 1>That's impressive. Yeah. You're clearly much smarter than me. I I hope I can keep.</v>
+
+00:15:46.780 --> 00:15:52.120
+<v Speaker 4>That puzzles. Just that puzzles. OK, well, fair. Let's limit it to my niche skill set.</v>
+
+00:15:52.170 --> 00:16:02.280
+<v Speaker 1>So you came into Wizards as an editor, bringing this puzzle mentality and the attention to detail, and then you later progressed into a rules managering. Originally, though not for managing, you started with dual.</v>
+
+00:16:02.290 --> 00:16:11.080
+<v Speaker 4>Masters. That's right. I was asked to be the rules manager for Dual Masters. A card game sold at the time was sold only in Japan. There</v>
+
+00:16:11.180 --> 00:16:15.370
+<v Speaker 4>a lot trickier than expected, right? So they needed a rules manager for it.</v>
+
+00:16:15.430 --> 00:16:21.870
+<v Speaker 1>And then from there you you worked your way into magic, designing cars and taking over rules, managing for magic for a while.</v>
+
+00:16:21.920 --> 00:16:23.630
+<v Speaker 3>Pushing rose water out of the way.</v>
+
+00:16:23.700 --> 00:16:25.010
+<v Speaker 1>Keeping rose water in check.</v>
+
+00:16:25.060 --> 00:16:25.910
+<v Speaker 3>Well, you know either.</v>
+
+00:16:25.920 --> 00:16:26.750
+<v Speaker 1>Way clearly.</v>
+
+00:16:26.820 --> 00:16:37.150
+<v Speaker 4>Keeping rose water in a cage as as expressed. Yeah, the the long con is playing out exactly, exactly as planned.</v>
+
+00:16:37.260 --> 00:16:41.470
+<v Speaker 1>All plans come to fruition, especially when they're created by a puzzle master such as yourself.</v>
+
+00:16:41.570 --> 00:16:44.870
+<v Speaker 1>Now your first set was what Pocalypse right around?</v>
+
+00:16:44.880 --> 00:16:49.060
+<v Speaker 4>There the the first set that I worked on in any way was was Apocalypse.</v>
+
+00:16:49.130 --> 00:16:55.000
+<v Speaker 1>Yeah, and now you're at Gate Crash and that's a that's a good chunk of Chima time in magic history.</v>
+
+00:16:55.010 --> 00:16:59.840
+<v Speaker 4>As long as the sets have white, black, gold cards in them, I'm a happy guy.</v>
+
+00:17:01.010 --> 00:17:11.430
+<v Speaker 1>So you're like we've we've in past episodes already identified. I'm at heart of Boros Celestia, Mike say, is it Demir Tifa who's not here is a simic, simic Selesnya.</v>
+
+00:17:11.730 --> 00:17:13.390
+<v Speaker 3>Mostly civic, though mostly symbolic.</v>
+
+00:17:13.460 --> 00:17:17.330
+<v Speaker 1>And and you are just a straight up Borzov itself identified.</v>
+
+00:17:17.380 --> 00:17:41.490
+<v Speaker 4>It totally depends on which aspect of my fragmented psyche comes to the fore that day. Like when when I was the rules manager, I was very, very Azorius. In the historic decks that that I've built, my favorite color combination is green black. Not to say that I'm specifically Golgari, but green black was always my favorite color combination. But in terms of ethos, these days, I'm, I'm</v>
+
+00:17:41.580 --> 00:17:42.940
+<v Speaker 4>feeling very Orzhov, yeah.</v>
+
+00:17:44.070 --> 00:17:49.980
+<v Speaker 1>Well, it's good to get variety here on the episodes. We don't want to all be, you know, clumping over each other in Guild, so it's good to have the variety.</v>
+
+00:17:50.030 --> 00:17:56.150
+<v Speaker 3>He's also made sure that we pay him so he can actually speak on the podcast. He's like, I won't tell the secrets unless you pay me in.</v>
+
+00:17:56.160 --> 00:17:58.600
+<v Speaker 4>True. And let's not forget worship.</v>
+
+00:17:58.910 --> 00:17:59.920
+<v Speaker 3>And the worship?</v>
+
+00:18:01.470 --> 00:18:03.390
+<v Speaker 1>That's why you're here in the room. So I was. I was.</v>
+
+00:18:03.400 --> 00:18:04.310
+<v Speaker 3>Really confused when you.</v>
+
+00:18:04.320 --> 00:18:18.930
+<v Speaker 1>Popped in obviously, as we've discussed with other people, when you design you design for all cards, but we we discussed earlier in this episode our favorite cards. What's your favorite card? What card do you most identify with in an and gate crash? I know it's like picking your favorite children, but I'm keep you on the hook here.</v>
+
+00:18:19.280 --> 00:18:32.070
+<v Speaker 4>Yeah, I was, I was prepped for this question. I'm like, so the the card I've chosen to go with is a High Priest of Penance. So Cardi designed one of the one of the cards I designed for the set, but just on its surface</v>
+
+00:18:32.140 --> 00:19:02.040
+<v Speaker 4>in in any regular situation, it's this innocuous little card that has a nice little revenge retribution aspect to it. Like it'll, it'll block something, it'll kill something, anything. So it's like super, super, super death touch. But you can build a little combo around it. You can you can pump up its toughness. You can start pinging it because it doesn't matter where the damage comes from. You can inflict that damage on it yourself and then it can start picking off</v>
+
+00:19:02.160 --> 00:19:13.810
+<v Speaker 4>any permanent at the table. So curious to see what kind of ridiculously fragile, horrible but effective commander decks that will that will pop up.</v>
+
+00:19:13.820 --> 00:19:14.880
+<v Speaker 3>Right. You know.</v>
+
+00:19:15.170 --> 00:19:22.450
+<v Speaker 4>That's the kind of contraption decks that that I like to build and look look really scary and make people kill me but don't actually work.</v>
+
+00:19:23.320 --> 00:19:25.010
+<v Speaker 1>But they're so satisfying to build.</v>
+
+00:19:25.080 --> 00:19:26.630
+<v Speaker 4>Ohh yeah, they're they're super fun.</v>
+
+00:19:26.800 --> 00:19:32.270
+<v Speaker 3>To me, commanders as a puzzle like I have, I have my commander. How can I fit the rest of the pieces</v>
+
+00:19:32.340 --> 00:19:40.000
+<v Speaker 3>gonna fit this kind of order? Where can I find the pieces to fit this commander? And that's like I appreciate penance. Would definitely be fun in working building around that card in commander.</v>
+
+00:19:40.050 --> 00:19:45.540
+<v Speaker 1>So this game crash wasn't your first lead you've let you let mirrored in Besieged previously?</v>
+
+00:19:45.550 --> 00:19:46.340
+<v Speaker 4>Right, that's.</v>
+
+00:19:46.350 --> 00:19:52.420
+<v Speaker 1>Right. How did you enjoy working? I mean the code lead thing was unusual. How did you enjoy working on Game Crash?</v>
+
+00:19:52.550 --> 00:19:54.460
+<v Speaker 4>I loved working on Gate Crash</v>
+
+00:19:56.010 --> 00:19:57.690
+<v Speaker 4>and yeah, it was A</v>
+
+00:19:59.290 --> 00:20:29.210
+<v Speaker 4>to this point, pretty, pretty unique scenario for Rosewater starting the set and then handing it off to me when when he had to turn his attention to leading all the other bazillions sets that that he leads. But I was already on the team. So it was I had already made a bunch of of gate crash cards. I was deeply invested in the set already. But I love the original Ravnica block. It was it's my favorite block. It was the first block that I got to work on in terms of.</v>
+
+00:20:29.290 --> 00:20:39.310
+<v Speaker 4>Both design and development. Dissension was my first design team, The original Ravnica was my first development team, so I definitely wanted to to be involved in Gatecrash.</v>
+
+00:20:39.420 --> 00:20:59.730
+<v Speaker 1>Now, we had you write an article for Daily and TG talking about working on the site. And one of the themes, one of the things you brought up was actually the urban theme in In Return to America and how you contributed to and helped drive the necessity for, you know, representing a large city in cards. Let's talk about some of the interesting cards that came out of that</v>
+
+00:20:59.820 --> 00:21:03.510
+<v Speaker 1>process. You know, one that jumps out at me was The Turn.</v>
+
+00:21:04.930 --> 00:21:35.920
+<v Speaker 4>But yeah, so the work on the city themed flavour, it started with a small team that I ran to supplement the Return to Ravnica design. So it was a little Strike Force team in that the original Ravnica did an awesome, awesome job at conveying Guild theme, but maybe didn't take enough advantage of the unique urban environment where you don't you don't see a lot of fantasy set and certainly you don't see magic</v>
+
+00:21:36.300 --> 00:22:06.070
+<v Speaker 4>sets set in a city. So this go around, we wanted to make sure we took more advantage of that and and really put you give you a sense of place, put you on on a card level, like put you in a city and and see what what does that mean? What kind of cards would that would that create? So that team came up with a number of pretty awesome cards for return to Ravnica. And then that's that kind of impetus like then progressed along. So Debtor's Pulpit was a</v>
+
+00:22:06.140 --> 00:22:36.210
+<v Speaker 4>part that didn't come out of that strike force specifically, but came out of me now being obsessed with city themed card, city themed card, city themed cards and other other people around R&amp;D as well. Doug Buyer on the creative team had come up with a long list of potential card names that we're city themed. So things that designers could take and build a top down design, a top down card design around this, this flavorful name, this concept that he had come up with. So I picked one of those called</v>
+
+00:22:36.280 --> 00:23:06.240
+<v Speaker 4>street festival and made an Anora with enchant land on it that you you put on you put on your mountain. Now this mountain has a street festival on it and it was something that would distract in opposing creature. So it does exactly what debtors pulpit does it. You tap the land to tap a creature for a turn. So it's it's lost in the street festival, riding the rides and eating a pretzel and getting a balloon. And it doesn't care about attacking or blocking. It's it's totally distracted. And then that eventually when that got back around to the</v>
+
+00:23:06.330 --> 00:23:19.530
+<v Speaker 4>to the creative team to, to actually make the name and, and art for it, they, they needed something a little more Orzhov themes to fit into the set. So it it turned into kind of an oppressive Orzhov card instead.</v>
+
+00:23:19.600 --> 00:23:26.990
+<v Speaker 1>Well, you're clearly going to be distracted when you're making worship at the church, Borzov. I mean, you can't be multitasking while you do that.</v>
+
+00:23:28.320 --> 00:23:29.120
+<v Speaker 3>Paying attention</v>
+
+00:23:30.590 --> 00:23:32.610
+<v Speaker 3>Games Games is an awesome 1.</v>
+
+00:23:32.660 --> 00:23:51.450
+<v Speaker 4>Sky Games has a similar story. So another angle that where the members of R&amp;D tried to really hammer out some some awesome flavour city themed flavour concepts for the return to driving a block. We had a meeting in which all of us got together and just brainstormed up on the board</v>
+
+00:23:52.760 --> 00:24:23.880
+<v Speaker 4>things that could appear in a city, things that would appear in the city, things that would appear in this particular city. One of the topics we hit on that was very interesting was that of transportation. You're in this giant city. How do you get around? And this, this isn't something we cover on Magic cards very often. So I made this, this card, this blue aura that gave something flying temporarily based on the concept of an aerodrome. And that was, that was its playtest name Aerodrome. And so you would, you would have a creature or go to the aerodrome</v>
+
+00:24:23.950 --> 00:24:51.760
+<v Speaker 4>and it would fly you somewhere and, and that's how you would get around. That's not how it ended up, obviously. But another thing that we was brainstormed up in that same meeting was the idea of sports. Sports is something that, you know, if you live in a city, there's, there's some kind of recreation there. There are, you know, what kind of sports would there be in Ravnica? And we don't see sports on Magic cards very much. We've had some pit fighting,</v>
+
+00:24:52.990 --> 00:25:03.240
+<v Speaker 4>but we've had a goblin game, but not not not that much in terms of that. So when the creative team got their hands on this card, they changed it from a transportation themed card to a sports themed card.</v>
+
+00:25:03.670 --> 00:25:10.200
+<v Speaker 1>One of the other ones that jumps out of me is actually Red card. It's 5 alarm fire. Yes, that's a fun urban theme.</v>
+
+00:25:11.780 --> 00:25:16.540
+<v Speaker 1>Doggo burned down because of fires. We can't have that on Ravnica, so they clearly have to be able to respond to it.</v>
+
+00:25:16.810 --> 00:25:42.120
+<v Speaker 4>Yeah, that also came from Doug buyers list he had It was it wasn't exactly this name. It was something like multiple alarm fire something something very close to that. I mean for as the lead of a of a set will often do. I was putting in, you know, late nights and I like to work in the evenings anyway, but I was just I recall sitting at my desk in the evening. No one else was around. It was dark and I was just like futzing with the file and</v>
+
+00:25:42.350 --> 00:25:56.470
+<v Speaker 4>looking at looking at Doug's list and we had a we had a hole for a red rare. So fire card seemed seemed pretty awesome. I changed 25 alarm fire and and made something that cared about fives. But yeah, let's let's burn the city down.</v>
+
+00:25:57.380 --> 00:26:12.790
+<v Speaker 3>We, we talked about a lot of how, you know, it's very urban theme, the very city asking me even the artwork, because I was going to mention like 5 alarm Fire Legion loyalist, like a lot of the cars lost in the city, right? Like there's so many cards that you just feel like you were down there in the city no matter what.</v>
+
+00:26:12.940 --> 00:26:29.540
+<v Speaker 3>Corpse Corpse Blockade is another car, which is all of the cards, all a lot of the artwork in addition to the auras, in addition to the flavor, it just makes you feel like you were just smack in the middle of the city. And it's it's a really well done from from a flavour standpoint and the design of everything.</v>
+
+00:26:29.590 --> 00:26:32.840
+<v Speaker 4>I I completely agree. It's, it's phenomenal. Totally.</v>
+
+00:26:32.850 --> 00:26:34.120
+<v Speaker 3>Lost, not lost in the city.</v>
+
+00:26:35.460 --> 00:26:39.920
+<v Speaker 4>That totally lost the play test name for that was Get Lost.</v>
+
+00:26:41.160 --> 00:26:43.610
+<v Speaker 4>That has two meanings kids. 2 meanings.</v>
+
+00:26:45.570 --> 00:26:56.840
+<v Speaker 1>Nice. I have to ask, maybe you have a story about this one, the Spark trooper being a Boros. This one jumped out to call this out. It's it's ball lightning basically, right?</v>
+
+00:26:57.470 --> 00:27:00.740
+<v Speaker 4>It basically is this</v>
+
+00:27:02.370 --> 00:27:32.810
+<v Speaker 4>this was a card that I made and submitted before. I was the before I was the design lead of the set. So this was actually put in the file very, very early. And the initial play test name for this card was balm lightning. So it was ball lightning, but with the white component, but with life link. So it felt very borrows to me of that. It's explosive and destructive, but also helpful at the same time. But I think it was the pun in the name that really sold it</v>
+
+00:27:32.880 --> 00:27:34.920
+<v Speaker 4>the Rose water and got him to put it in the set.</v>
+
+00:27:35.350 --> 00:27:38.520
+<v Speaker 1>I eagerly await opening and playing that and and limited.</v>
+
+00:27:38.990 --> 00:27:40.020
+<v Speaker 3>Looks frightening.</v>
+
+00:27:41.090 --> 00:27:44.000
+<v Speaker 1>12 point life swing. I'll deal with that.</v>
+
+00:27:44.800 --> 00:27:52.870
+<v Speaker 1>How how do you play Magic? Like what? What's your main way of playing? Are you a drafter outside of R&amp;D's play testing? How do you enjoy the?</v>
+
+00:27:52.880 --> 00:28:13.130
+<v Speaker 4>Game my three primary ways. So I am a drafter most enjoy most experience the game in that aspect. So I'd like to draft. I'm a commander player. My favorite personal commander deck that I'm running right now is is in fact an Orzhov deck. So it's led by Ghost Council of Orzhova</v>
+
+00:28:14.470 --> 00:28:44.390
+<v Speaker 4>and a number of years ago, this was actually kind of research prep for when I was on the design teams of both Conflux and especially Alara Reborn, which was a a set that I had pitched for a number of years that never got any traction until I believe Bill Rose then pitched it himself of all gold and all multi colored set. But in kind of research prep for that, I built a very casual,</v>
+
+00:28:44.500 --> 00:28:58.320
+<v Speaker 4>very multi colored cube. So it's not it's not a power cube. It doesn't have doesn't you can't draft white weenie in it. You can't, uh, it has no has no power 9 in it. It has no like classic combos of</v>
+
+00:28:59.500 --> 00:29:31.310
+<v Speaker 4>of of famous constructed decks in it. It's just very casual, very Timmy Bommy, gigantic, ridiculous things in it. And it's highly multicoloured. So partially was practice for how do you design A multi colored set? How much manifesting you put in there? What's what's let me just try to create and craft a formats that that does this. And and partially was just like just for super fun because it's it's awesome to play with. At the time around R&amp;D, various people were making various kinds of flavored cubes</v>
+
+00:29:31.390 --> 00:30:01.400
+<v Speaker 4>and, and people were Winston drafting, which is a two player draft format a lot. And, and I recall around that time Dave Guskin played in, played in a number of these and he would always, always, always go 5 color, whether it was advisable or not in, in a Winston draft in a, in a, in a two player draft. So so I kind of built this with with him in mind of like, well, I'm now 5 drafting 5 colors the right thing to do, like grab your manifesting and and grab your multi colored</v>
+
+00:30:01.490 --> 00:30:07.260
+<v Speaker 4>our bombs and and go to town. So that picked up the moniker, the got Cube, and</v>
+
+00:30:08.480 --> 00:30:15.650
+<v Speaker 4>it's been mined over the years as I pull cards out of it to put in my commander decks. But I'll still try it out every now and then. It's super fun.</v>
+
+00:30:15.730 --> 00:30:17.070
+<v Speaker 3>That sounds like a fun cube.</v>
+
+00:30:17.140 --> 00:30:22.220
+<v Speaker 1>That's awesome. So it's cubed The third way you play. It was. First was draft, second was commander.</v>
+
+00:30:22.230 --> 00:30:23.630
+<v Speaker 4>And the third is the got queue the.</v>
+
+00:30:24.220 --> 00:30:34.610
+<v Speaker 1>Queue that's I wanted to double check. I thought that's what it was. But we really appreciate you taking time coming to talk with us about some of the commander cars, some of the stories from behind the scenes. Is there anything else you want to throw out there? Any other stories that we might have missed?</v>
+
+00:30:34.720 --> 00:30:37.330
+<v Speaker 4>So, so many stories. So.</v>
+
+00:30:37.600 --> 00:30:38.400
+<v Speaker 3>We're gonna have.</v>
+
+00:30:38.520 --> 00:30:45.480
+<v Speaker 1>Time we don't have time for him all that's that's fair that's fair well you're you're not on Twitter anymore at all and you you're not writing anymore but.</v>
+
+00:30:45.590 --> 00:30:52.120
+<v Speaker 4>I'm a recluse. I take my cues from JD Salinger. So read a book, kids.</v>
+
+00:30:53.610 --> 00:31:00.370
+<v Speaker 1>Well, to wrap up, let's let's give our quick Twitter wrap ups at Jennifer, who's not here Tifa, her Twitter name is at Tifa Mayan.</v>
+
+00:31:00.540 --> 00:31:02.370
+<v Speaker 3>I am at Michael Robles.</v>
+
+00:31:02.440 --> 00:31:15.230
+<v Speaker 1>I'm at Trick MTG and new starting this week. You can now e-mail us if you have questions or feedback you want to share. If you have ideas for future episodes, shoot us an e-mail dailymtgcast@wizards.com.</v>
+
+00:31:15.240 --> 00:31:15.920
+<v Speaker 3>What was that again?</v>
+
+00:31:15.930 --> 00:31:19.610
+<v Speaker 1>Trickdailymtgcast@wizards.com Got it.</v>
+
+00:31:19.680 --> 00:31:21.350
+<v Speaker 4>Cast. It has two meanings.</v>
+
+00:31:22.420 --> 00:31:24.150
+<v Speaker 1>It's like a magic term.</v>
+
+00:31:25.580 --> 00:31:30.110
+<v Speaker 1>In any case, we went back in two weeks with another episode of the Daily Podcast.</v>
+

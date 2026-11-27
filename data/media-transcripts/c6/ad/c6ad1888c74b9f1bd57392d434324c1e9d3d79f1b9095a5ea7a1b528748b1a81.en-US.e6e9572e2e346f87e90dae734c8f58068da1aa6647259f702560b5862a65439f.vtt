@@ -1,0 +1,254 @@
+WEBVTT
+
+00:00:01.980 --> 00:00:07.830
+<v Speaker 1>OK, I'm pulling on the driveway. We all know that means it's time for another drive to work.</v>
+
+00:00:08.770 --> 00:00:39.020
+<v Speaker 1>OK, so today, last time I did my unintentional 3 parter. So I decided today I was going to do a kind of intentional 3 parter, although a little bit different. I often talk about something that when Richard Garfield created the game, I often claimed that he had three great inventions. That magic was the culmination of three different really cool ideas. And I call that the Golden Trifecta, my name for it. So the Golden Trifecta is made-up of three things.</v>
+
+00:00:39.250 --> 00:01:09.630
+<v Speaker 1>The first is the concept of a trading card game, second is the idea of the color wheel, and the third was the mana system. All of those are very important. So important that I've decided to dedicate a whole podcast to each one of the three. So as a sort of informal 3, three-part thing, I mean, each one will stand on its own. So today I'm going to start with the beginning, the trading card game. So I want to talk about what exactly Richard Garfield came up with</v>
+
+00:01:09.730 --> 00:01:39.690
+<v Speaker 1>and sort of walk through a lot of the problems he had to solve. Because I think if you really want to understand design of Magic or to be honest, any trading card game, you got to explore trading card games themselves and understand, you know, kind of what makes them tick. So let's start from the very beginning. So I think training cards have existed for a long time. I mean, most famous trading cards probably are baseball cards for those that don't live in America. Baseball very popular American</v>
+
+00:01:39.790 --> 00:02:10.510
+<v Speaker 1>for all the players of baseball get put onto cards. The cards have their picture on the front. Usually on the back are statistics about how good they are. So anyway, baseball card has been very popular and then off of baseball cards there were other sports cards that were made and eventually there started being trading cards of pop culture. You know, of, you know, pick your favorite of Star Trek or Star Wars or whatever you're the pop culture thing is where you can collect cards that represent all the characters in a certain show or something.</v>
+
+00:02:11.300 --> 00:02:40.790
+<v Speaker 1>And so trading cards existed for a while. And I think what Richard is Richard liked the idea of a game that he has his words that was bigger than the box. And what that means is that normally when you play a game, there is a consistency of expectation. For example, my go to Monopoly. So when you open a Monopoly board, I will see 40 squares on Monopoly board, the exact same 40 squares that somebody else will see when they open a Monopoly board,</v>
+
+00:02:41.170 --> 00:02:47.360
+<v Speaker 1>assuming traditional monopoly and not like, you know, filling the blank monopoly. So the</v>
+
+00:02:48.340 --> 00:02:58.010
+<v Speaker 1>the difference he for what Richard wanted is he said, imagine I opened a game and I see what I have, but what I see is not what you see when you open up what you get.</v>
+
+00:02:58.720 --> 00:03:05.850
+<v Speaker 1>And Richard was fascinated by the idea that that I mean, Richard loves the concept of what's called a meta game. Now, I don't mean</v>
+
+00:03:06.830 --> 00:03:21.050
+<v Speaker 1>the met again, the definition most people use is trying to understand what is being played in a tournament. I think Richard had a slightly different definition that we use in R&amp;D and what that meta game means is all the things that surround the game. You know that</v>
+
+00:03:22.340 --> 00:03:52.370
+<v Speaker 1>the game, I mean, for example, when you play Magic, you talk about playing Magic. How much of the time that you are involved with Magic are you physically actually playing the game? A tiny portion, You know, a lot of Magic is thinking about Magic and building decks and reading about it and talking to people about it. A lot of the experience, imagine, goes way beyond the actual physical playing of the game. And that was Richard Roberts, the meta game. And part of making a robust meta game is making it such that no one person had</v>
+
+00:03:52.440 --> 00:04:22.670
+<v Speaker 1>all the information. How do you force people to sort of get together in a larger sense is, oh, we'll make a game that's bigger than any one person. And that's what Magic was set out to be. And I think Richard went to trading cards because what he needed was, well, a couple things. 1 is so when Richard Garfield first went to Wizards of the Coast on love told this story. But so Richard Garfield, and again, I'm a man named Mike Davis. So Jay, Michael Davis, JD Tom managed the story before. Anyway, they went to sell a game</v>
+
+00:04:22.740 --> 00:04:53.170
+<v Speaker 1>Richard had made called Robo Rally. Now, if you've never played Robo Rally, we Wizards later put it out. I think it's not made by Evelyn Hale, which Wizards does. And the idea of Robo reality is you're a robot and you get cards that program your movements and then you have to pre program your movements. But everybody's pre programming their movements. So conflicts can cause things to happen that you don't expect. Plus there's conveyor belts and all sorts. They don't have factory floor. And so you also yourself can miss guess something like you have to take into account</v>
+
+00:04:53.410 --> 00:05:23.060
+<v Speaker 1>this will rotate you and this will move you. And so part of the fun is trying to figure out getting you're going to get and then there's interactions. Other robots interfere with you and then mess you up. So Richard and Mike had came that day to sell robo rally because it's a fun game. The problem was so they pitched to Peter Atkinson, who was then one of the founders and CEO of the time of of Wizards. And mind you, at the time, wizard was a very small company. They were putting out role-playing games. They tell us Lantern, maybe it was their biggest one. Anyway, they were a small role-playing game company</v>
+
+00:05:23.250 --> 00:05:55.110
+<v Speaker 1>that Richard Michael has gone all over asking everybody to try to sell their game. And so the problem was that robot really had too many pieces to it. Meaning when you look at games, they call it called cost of goods is how much does it actually cost to produce it. And that it has it takes more investment to make things that are more pieces to it. So you need to be a little bigger company to have the financial sort of outlay to be able to pay for that because you have to pay for before you sell it. And so the idea is you would have to put a lot more money</v>
+
+00:05:55.180 --> 00:06:25.360
+<v Speaker 1>the small company, you know, and Peter said, look, we just don't we that's too much cost to goods. We can't make that game. We're not a big enough company right now to make that game. And so he said, here's what I'm looking for. I'm looking for something made out of paper that is fast and portable because, you know, I, Peter was very Dungeon Dragons role-playing game. He goes, what I would kind of like to find is a fast little fight portable game you could play in between D&amp;D sessions.</v>
+
+00:06:25.440 --> 00:06:56.720
+<v Speaker 1>That's what Peter asked for. And Richard, I don't know if Richard had messed around trading cards before, but part of the parameters of what Peter was saying was #1 it had to be paper. Why paper? Papers, Cheap paper is easy to print on and paper, all that is done at one place. A lot of times if you have a lot of components, for example, Roborally has either plastic or metal components spending into robots. And so those usually are in a different place than where the the board would be made, you know, or maybe where the cards, the cards on the board probably made it a paper place,</v>
+
+00:06:56.810 --> 00:07:14.950
+<v Speaker 1>but like the plastic or metal pieces are made in a different place that requires you to, you know, get together items from different things and coming together. The nice thing about an all paper product is you could send that to a printing place and they can make all of it. You know, they can make the cards, they can make the wrapping, they all of it can be done in one place and that's a lot cheaper.</v>
+
+00:07:16.370 --> 00:07:46.760
+<v Speaker 1>And so early on, a lot of what happened was Peter was trying to say to Richard, well, this is the means of what we can make and this is the kind of thing we're interested in now. Richard took those parameters and said, I have an idea. I don't know, it's interesting. I've talked about this. I don't know whether or not he had, I think he had messed around ideas before. I think maybe in the back of his head he had the idea of turning trading card games, trading cards into a game. And I remember by the way, when I first heard trading card game, I knew nothing than those words. I was like,</v>
+
+00:07:46.840 --> 00:08:16.460
+<v Speaker 1>ohh, my goodness, because I had I bought trading cards. I had bought baseball cards. I bought different trading cards in my youth and I'm like, ohh, wow. Because trading card games are fun. It's fun to collect things. But like the idea that ohh, imagine those instead of being a baseball player, those were cards to a game blew my mind. I was like, that is awesome, you know? Now let's talk about. So Richard's idea was he wanted something better in the box. Trading cards allowed him to create an experience that was perceived and would be random. You know, you would get some number of cards.</v>
+
+00:08:17.660 --> 00:08:46.850
+<v Speaker 1>And the thing that that I guess you understood the time and I understand now obviously is by having different rarities of cards, you can control how much certain things show up. You don't control who sees what, but you control how often something gets seen. And that ends up being a very important tool. Although I think I'm jumping ahead of myself. OK, so in training card games, the idea is, OK, I'm going to make a game. I'm going to chop up the pieces and then not give all the pieces to all the players. Each player will get some of the pieces.</v>
+
+00:08:47.600 --> 00:08:56.900
+<v Speaker 1>OK, now that is a very cool idea. It was very cool idea, but there are a couple of problems. So problem #1 is what I'll call the Queen problem.</v>
+
+00:08:57.500 --> 00:09:00.320
+<v Speaker 1>So let's say you're making the game of chess and you were going to</v>
+
+00:09:01.300 --> 00:09:25.970
+<v Speaker 1>break up the pieces and different people got different ones. Well, let's say I open up a Rook and a Bishop and a knight, and you open up two Queens. How do I beat you? You know, the queen so much more powerful than anything I opened up. And so one of the problems which had to deal with is normally in a game it's OK to have powerful things because the game is balanced. For example,</v>
+
+00:09:27.320 --> 00:09:42.570
+<v Speaker 1>queen is more powerful than a Rook or knight or all the pieces really. But that's OK. Each player has access to 1 queen and they start in, you know, a mirrored version of the same place. So that's OK, it's balanced. They get balances. It</v>
+
+00:09:43.660 --> 00:10:14.090
+<v Speaker 1>richest problem was a trading card game. Well, how do you do the balance? You don't. Everyone isn't getting the same thing. So how do you keep people when they can pick and choose what they play with? Well, how do you keep them from just playing the best cards? And the answer partly is you don't, but partly is OK. There's some ways to help spread things out in a couple of ways. And so there are a bunch of tools to use. One was rarity. So they have rarity is just because they're random,</v>
+
+00:10:14.180 --> 00:10:22.250
+<v Speaker 1>it doesn't mean you get them in the same amount you know? So for example, if I have a very powerful card, if the rare I make it, the less often it shows up.</v>
+
+00:10:23.500 --> 00:10:45.050
+<v Speaker 1>And so that solves some problems, although it doesn't solve the biggest problem, which is, you know, well, what if I open up super broken card, even if it's rare, but I do open up and you don't. Ohh. The rarity does allow us, especially for a limited play. Although to be fair, Richard started, I think he has some idea of limited, but that wasn't the driving force when he was making the game originally, although I know he did have that in the back of his head.</v>
+
+00:10:46.540 --> 00:11:15.330
+<v Speaker 1>Now here's the real thing that the two major solutions beyond rarity are interesting. Are the other two parts of the golden trifecta. Surprise, surprise. So number one is the color wheel. So what he did, the reason he made a color wheel was he wanted to separate out. He wanted have things. The idea was every deck shouldn't be able to play every card. So actually, let me do the math. Let me do mana first, because mana, actually, I mean, these are intertwined,</v>
+
+00:11:16.620 --> 00:11:20.190
+<v Speaker 1>yeah, I guess they're part of the same thing. So the idea of color says</v>
+
+00:11:21.020 --> 00:11:26.350
+<v Speaker 1>I'm going to have different cards. And then I'm one of the manna system that says you just can't play all the colors easily.</v>
+
+00:11:26.980 --> 00:11:29.160
+<v Speaker 1>You know, the mandate system says, hey,</v>
+
+00:11:29.840 --> 00:11:34.930
+<v Speaker 1>you know, you can play one color easily, and every time you add another color, it gets more difficult.</v>
+
+00:11:36.270 --> 00:12:06.360
+<v Speaker 1>And the reason that's important is it allows you to say, OK, I can make good cards, but I can spread them out through the colors. And that means not every deck and play every good card. And so for starters, that just kind of spreads out what the good cards are and makes more diversity. Oh, I want to play this broken card. Will I need to play blue? I want to play this broken card. I also need to play blue. I want to play this broken card. Yeah, blue. OK, OK, maybe, maybe there's some of the execution there. Really bad. Was that it on? But the concept of the color pie was the idea there.</v>
+
+00:12:06.430 --> 00:12:20.140
+<v Speaker 1>Ohh, you can break up and separate your good things. And so not every deck has access to all the good things I talked about during Mirrodin, when Mirrodin had allowed the problems it did. Part of that stemmed from the fact that, you know, it's</v>
+
+00:12:21.000 --> 00:12:40.190
+<v Speaker 1>didn't break out the things that one decade of every good thing in it. We called it the BLOB. And then how do you stop it? And like we couldn't just ban a car to stop the deck because there's just, it just took every card it needed because in an artifact environment without any color controls it, it sort of, it showed up the problem of not having color in the game.</v>
+
+00:12:41.450 --> 00:13:10.360
+<v Speaker 1>So part of it was OK, there's things in different colors. Another big part of it was the whole idea of the manual resource, which is you have to build up overtime. It's really important. And when I, when I get to the respective podcast on these things, I'll go more in depth. But the basic concept you understand here is cars have different value at different points in the game. That that is the important thing of the managed system or we want the important things. And what that says is early game turn 1A1 drop is really important. A six drop is useless.</v>
+
+00:13:11.020 --> 00:13:27.600
+<v Speaker 1>Later in the game, A6 drop is really important. A1 drop is useless. And so Richard came up with a, a means in a way by which he could ensure that cards had different values at different times, which meant more cards overall had value.</v>
+
+00:13:28.330 --> 00:13:58.290
+<v Speaker 1>And that's a big part of what he was trying to do. Now, another thing that plays into this is, um, I'll call this format, but is the idea that I'm going to say one of the ideas that match. I talked about this a lot, but let me explain a little bit is Magic isn't really one game. What Richard did is he created a resource and an umbrella said her rules and a set of tools, the cards that said, OK, I'm going to explain how to play. And then it's flexible enough and modular enough that you could</v>
+
+00:13:58.360 --> 00:14:28.660
+<v Speaker 1>sort of play the way you want to play, you know? And Richard understood that, you know, if I give people cards and I give them a basic rule set, they're going to extrapolate, you know, this was a game made for gamers. You know, this wasn't a game. Like this wasn't a casual game. This was a game. But Richard said, I'm going to make the game. There's components and there's a meta game, meaning if you're really into this game, you're going to have to go out and explore. You're going to talk to other people. You're going to see what other people are doing, you know, And so when I go</v>
+
+00:14:28.840 --> 00:14:36.770
+<v Speaker 1>play somebody, you know, they might have things I don't know, and I gotta learn about them. And then once I learned about them, I have to adapt to them. See an early magic,</v>
+
+00:14:38.020 --> 00:14:51.870
+<v Speaker 1>I mean this is a hard concept to get now, but in the early magic, the Internet was really in the infancy. I mean it was mostly used that at the time, you know, it wasn't it wasn't what we think of today, as you know, especially with social media. It wasn't what it is today. So</v>
+
+00:14:52.680 --> 00:15:07.790
+<v Speaker 1>the communication was still much more personal. It wasn't as, uh, as Internet driven as it was now. And Richard decided, and this is something Wizards did for a while, that they didn't want to help the players figure out what was what. For example, for the first</v>
+
+00:15:08.550 --> 00:15:13.670
+<v Speaker 1>year, maybe, maybe a year and a half, Wizards didn't tell you the rarity of the cards.</v>
+
+00:15:14.430 --> 00:15:16.320
+<v Speaker 1>What's common? What's uncommon, what's rare?</v>
+
+00:15:16.970 --> 00:15:38.360
+<v Speaker 1>Not saying they weren't marked in the cards, and there's no rarity indication on the cards. And they even messed with us. They even messed with us. So for example, in alpha, on the rare sheet there is an island. Why is there an island on the rare sheet? Well, the islands the exact same island on the common sheet that's on the rare sheet. Why? Because they wanted to mess with people trying to figure out which card in their pack was the rare slot.</v>
+
+00:15:39.160 --> 00:16:09.440
+<v Speaker 1>They were, they were messing with us because they're like they won. I mean, Richard's idea, and I think it was a cool idea is said, Hey, a lot of the fun of this will be the interaction, the exploration. And what he didn't want to do is just have someone go to look it up. And then they, they find the answers. And so Wizards of the in fact, if you look early on, we didn't give declines early on like in the original, like the world champ, both both the first and Second World championship, because I, I wrote these articles, I would talk about what the deck did and I gave a play by play where I ran through what</v>
+
+00:16:09.510 --> 00:16:27.210
+<v Speaker 1>happened. So you could piece a lot of it together. But I never told you that. I mean, I went back later until you declare, but at the time I didn't tell you the class. I wasn't allowed to, you know, they didn't want people copying other people's decks. And so Wizards did a lot early on to sort of slow that down later on. And essentially</v>
+
+00:16:28.290 --> 00:16:34.580
+<v Speaker 1>what happened was, I mean, information wants to be free. And so will they eventually came to the conclusion of is, look,</v>
+
+00:16:35.260 --> 00:17:05.290
+<v Speaker 1>people are going to find the information, especially the Internet sort of took off and they they sort of said like this is this is a fight we're not going to win to let let's let's you know, they changed the philosophy, said, OK, well, we'll have information out there, you know, but we'll create other tools for people to discuss things and and then we change kind of how we approach things anyway. So a training card game has color, it has rarity, it has mana cost, you know, at least Magic does. And all those things</v>
+
+00:17:05.360 --> 00:17:16.320
+<v Speaker 1>lend lend itself to having different cards matter at different times. But here's the other important thing. Let me get to this. Richard understood that Magic was really more than one game. And part of that was</v>
+
+00:17:17.560 --> 00:17:44.450
+<v Speaker 1>he made cards for lot of different kinds of players. Now, I would later go on to sort of create this like graphics to define how we were doing it. Richard did it. Richard made cars for Timmy, Johnny Spike. It's not that Richard didn't get the different audiences. He didn't label them. I mean, part of what I did was labeled them so R&amp;D can make sure we were designing for them. But so a big part of what he did is he said, OK, I'm going to make lots of different kinds of cards. And, you know, the idea being</v>
+
+00:17:45.310 --> 00:18:15.160
+<v Speaker 1>different cards were going to matter in a different players. And one of one of the ways to solve it was also like, certain cars are super flavorful and maybe they weren't as powerful, but man, they were flavorful. Some people wanted those, you know, other cars had linear strategies. I mean, Richard was very good about saying, OK, I'm going to put some cards in. That's that clearly point you to other cards. You know, Goblin King and Lord of Atlantis and Zombie Master, we're all in the first in alpha and all of them said, OK, go find creatures of this type, you know,</v>
+
+00:18:15.440 --> 00:18:44.810
+<v Speaker 1>and he had a lot of other cards definitely like, you know, got into might said your mountains tap for one more and your red creatures are bigger. Like look, it doesn't take a rocket scientist say, OK, we'll build a mono red deck with this thing. The same. He had to leave the charms where you the Lucky Charms where you, you know, throwing a bone and wouldn't speed in those cards where you gained life as you casts certain colors, bowls and flip wise. He also made cards that were defensive cards meant to play against another player. Ohh, sure, if you're</v>
+
+00:18:45.310 --> 00:19:03.120
+<v Speaker 1>the friend you play beating you down with the red deck, ohh look, it's circle protection red that's really good into red deck. And he also put a lot more color hosers in. Alpha has a lot of color hosers that's very strong color hosers. You know you're playing white and your opponent playing black. How about karma? You know,</v>
+
+00:19:04.160 --> 00:19:07.250
+<v Speaker 1>Or you're playing black and they're playing white. How about gloom?</v>
+
+00:19:07.970 --> 00:19:18.400
+<v Speaker 1>Talk about some beatings of color hosers? So another part of it is Richard made sure that the game had a lot of different kinds of components and that would help,</v>
+
+00:19:19.740 --> 00:19:46.450
+<v Speaker 1>that would help players sort of branch out to want different things. Now, like I said, the the queen problem, the the your best card problem is more of a tournament problem, more of a competitive problem. And like I said, he saw part of that with with mana cost and part with priority and part with color. Now it wasn't complete like 1. So here's one thing people don't understand is a lot of people say, you know, I have to recall black load is what were they thinking?</v>
+
+00:19:47.180 --> 00:19:49.640
+<v Speaker 1>And the reality is Richard,</v>
+
+00:19:50.980 --> 00:20:21.690
+<v Speaker 1>Richard thought process was this. He said, OK, I understand if the game gets big enough, like he thought the average person is going to spend 40 hours maybe like they're going to spend a lot of money they spend on a normal game. And how much money do you spend on a a game? You know, $40 is the top end of like, OK, this is, you know, fancy German board game. I'll spend, I mean, now it's maybe 60, but at the time was about 40, like, OK, maybe. So he said, OK, well, what do I expect people to see? If there's if everybody spends $40, what's the environment like? And the idea was.</v>
+
+00:20:21.910 --> 00:20:47.050
+<v Speaker 1>You know, in a play group, in a play environment, which is, I don't know, 12 people would say, you know, he said, oh, there'll be 1 ancestral recall. One guy will have one ancestral recall and he's not going to have all the other broken cards necessarily. The those are also pretty rare. So what happened is like, OK, well, yeah, there's some broken stuff going in such a small number that it shouldn't impact things. Now, the question I've asked her to think, well, Richard,</v>
+
+00:20:47.850 --> 00:21:17.780
+<v Speaker 1>didn't you take into account what happened if the game got bigger and Richard was like, well, if the game got big enough that we had the problem of people having too many of these things because the amount of money they were spending was so large, because that's a pretty good problem to have. You know, he's like, well, we'll deal with it. If our problem is people are spending thousands of dollars on cards, well, that means we have a runaway hit and we'll deal with that problem. You know, it wasn't Richard didn't understand that initial recall or Black Lotus weren't</v>
+
+00:21:17.850 --> 00:21:31.430
+<v Speaker 1>Bud. He just was like, it doesn't matter in the scale that he was working with. It didn't matter. And his whole attitude was, look, if we're wrong on scale, in order for us to be wrong, this has to be a runaway hit. And then hey, we have a runaway hit. We can deal with it,</v>
+
+00:21:32.880 --> 00:22:03.220
+<v Speaker 1>you know, and, and The funny thing people have asked me, by the way, so I, I have a time machine if I can go back, assuming I change anything because I've learned from science fiction movies never changed anything. But assuming I want to change anything, would I take out the power 9 in all heavens? Heavens, no. I believe the power 9 were a big part of what made magic popular early on. I believe sort of the just the whispers about crazy things in early magic was a big part of the mystique and, and really helped the game, you know, and that I, I don't think magic now want stuff that broken, but I believe it was important</v>
+
+00:22:03.290 --> 00:22:33.170
+<v Speaker 1>beyond and back then people didn't know as much. Like it's very funny how we talk about boxes and like I remember people because I remember when I first saw Max my, I gave my dad some cards. He opened up a mox emerald. I never seen him before and I offered to trade it from him. Not because there's any good, because I honestly, I'm like, this is just a forest. It seems like a forest. I just didn't own it yet and I was collecting the cards. So I did my dad. My I had a fungus side 2 fungus words. I gave him a fungus sore for it and</v>
+
+00:22:33.310 --> 00:23:00.260
+<v Speaker 1>I thought I was being like super nice with my dad. I thought like I was like giving him a gift cause find control was awesome and I'm like, OK, well here's an awesome card for you. And like, I don't have that card. I wasn't trying to take advantage of him. I know it sounds like maybe I was, but I was not. There's only days I didn't get it. I didn't get a box was good. I just some weird card. Like I didn't, I had to kind of play with it for a while before I'm like, oh, oh, I see. It's like a land, except you don't get restricted by how many land you can play. That's that's pretty good.</v>
+
+00:23:01.860 --> 00:23:02.440
+<v Speaker 1>So</v>
+
+00:23:03.430 --> 00:23:15.860
+<v Speaker 1>but that's a lot of had to do with with with with early magic and and how it was what it was. I mean, the thing that Richard figured out, which I I think was kind of the coolest thing was that</v>
+
+00:23:17.760 --> 00:23:40.900
+<v Speaker 1>people like things, you know, I mean, look at role-playing games, for example. A lot of role-playing games are are, I'm sorry, computer games are about you acquiring things. You know, for example, my son plays video games at home and and every video game I can name. Like you acquire things, the virtual, but you acquire things, you get them, you know, and that that that's just,</v>
+
+00:23:41.600 --> 00:24:12.050
+<v Speaker 1>you know, that's just a big part of what makes video games video games is it's fun to acquire things. And what Richard figured out, which is like this is kind of like that, except the real things there are actual physical, tangible things, you know, and one of the reasons that Peter had wanted to do trading cards is Peter had a connection with artists because they had used artists for the role-playing games. And so they had worked with a local art school to find artists. It's a Richard knew he had access to artists. In fact, early magic, a good chunk early magic of those</v>
+
+00:24:12.130 --> 00:24:19.040
+<v Speaker 1>here is all went to the same school as here in Seattle. Most of them were local to Seattle. And so it's like it was</v>
+
+00:24:20.370 --> 00:24:49.390
+<v Speaker 1>the idea that you could have something, have this beautiful art on it and just it visually represents something and it, it's thematically reps something. I mean, the other thing by the way, to talk about that that Richard had very early on is the concept of dueling with Magic was super, super early. In fact, it might have even started with the idea of imagine from that one to trading cards. I don't know which came first, but I know Richard was enamored with the idea of casting spells and that the cards represented Magic. You know,</v>
+
+00:24:50.390 --> 00:24:58.390
+<v Speaker 1>I, I firmly believe that a big part of magic success is the fact that the cards themselves represent magic spells.</v>
+
+00:24:59.370 --> 00:25:29.800
+<v Speaker 1>I know a lot of people said, you know, ohh, couldn't magic have been a science fiction game? Because we, we actually did a what if week on the website and Kelly digs and I made a game called space the exploration. I think space something space, the convergence space that convergence, I think anyway. And the premise was what if magic existed with five colors and all the basically all mechanics stayed the same, but we warped it such that it was a science fiction</v>
+
+00:25:29.910 --> 00:26:00.040
+<v Speaker 1>IP instead of a fantasy IP. And a lot of people were gung ho is awesome. You should make this. And like I I honestly think of magic had been space. I don't know if it would been successful. And The funny thing is, and for those that know history of games in movies, science fiction have been way more successful than fantasy in movies. I mean, recently there have been some successes, but I mean, up until really, you know, 5-10 years ago there was 06. I mean, go back 10 years, you know, the most popular</v>
+
+00:26:00.140 --> 00:26:18.500
+<v Speaker 1>let's move of all time was, I mean, not in the top 100 films or anywhere close. We're a science fiction all over the top ten. But the interesting thing is if you look at popular games, Dungeon Dragons is the defining role-playing game. That's a fantasy game</v>
+
+00:26:19.720 --> 00:26:22.700
+<v Speaker 1>out of, you know, the key miniature games are fantasy games.</v>
+
+00:26:24.150 --> 00:26:26.320
+<v Speaker 1>Magic. I think something about fantasy that</v>
+
+00:26:27.080 --> 00:26:35.970
+<v Speaker 1>I'm not sure what it is. I, I, I, we've talked about this internally. I don't know what it is, but there's something about fantasy that just kind of lends itself well to gaming.</v>
+
+00:26:37.320 --> 00:27:07.290
+<v Speaker 1>I, I think I've talked about this before that I believe there's inherent difference between the ethos of fantasy and ethos of science fiction. Although it's podcast another time, I believe magic has a science fiction ethos wrapped in a fantasy trapping. But anyway, that's another podcast. But I do think the thing that people like about fantasy is it has a very moral center. There's good and there's evil and there's, there's a lot of absolutes and that I don't know. I think that it does a really good job of sort of representing things</v>
+
+00:27:07.410 --> 00:27:21.920
+<v Speaker 1>like I think science fiction kind of shows us where we're going, but fantasy is kind of where we've been or what we are at our core anyway. I believe Richard did a pretty good job choosing fantasy. That's another big part of what made the trading, I mean Magic as the first trading card game work.</v>
+
+00:27:22.990 --> 00:27:52.840
+<v Speaker 1>Anyway, I see the Wizards building, which means I'm here at work. So that is our wrap up for the trading card game portion of our golden trifecta. So join me next week when I will talk about the color pie, which is one of my personal favorite things, maybe even my most favorite thing on magic. But anyway, I hope you guys had a good time hearing all about the I'm trying to find my parking spot or</v>
+
+00:27:52.920 --> 00:27:53.740
+<v Speaker 1>state parking spot.</v>
+
+00:27:55.170 --> 00:28:11.410
+<v Speaker 1>Go have a good time hearing about the trading card game. I think it's very fascinating. I always love trying to figure out how things came to be. So it is neat to me to sort of look at the the core of what makes the trading card game of trading card game. And you know what makes magic magic. But anyway, I'm now part and it's time to go make the magic.</v>
+

@@ -1,0 +1,41 @@
+{% extends "page.html" %}
+{% from "components.html" import link %}
+
+{% block content %}
+{% set download = link(download_url, "Download audio", {"download": podcast.download_filename}) -%}
+<p>{{ link("/podcasts", "All podcasts") }}</p>
+<h1>{{ title | escape_html }}</h1>
+{% if podcast.date or podcast.duration_label %}<p class="record-meta">
+  {%- if podcast.date %}<time datetime="{{ podcast.date | escape_html }}">{{ podcast.date | escape_html }}</time>{% endif -%}
+  {%- if podcast.duration_label %}<span aria-label="Duration">{{ podcast.duration_label | escape_html }}</span>{% endif -%}
+</p>{% endif %}
+<audio class="podcast-player" src="{{ podcast.playback_url | escape_html }}" aria-label="{{ title | escape_html }}" controls preload="metadata">
+{{ download }}
+</audio>
+<ul class="inline-links podcast-actions"><li>{{ download }}</li>
+{%- if captions_path %}<li>{{ link(captions_path, "Download transcript (.vtt)", {"download": ""}) }}</li>{% endif -%}
+</ul>
+{%- set related_notes = related | list %}
+{% if podcast.notes or related_notes %}
+<section id="show-notes" aria-labelledby="show-notes-heading">
+<h2 id="show-notes-heading">Show notes</h2>
+{% if podcast.notes %}<p class="podcast-notes-text">{{ podcast.notes | escape_html }}</p>{% endif %}
+{% if related_notes %}<ul>
+  {%- for entry in related_notes %}<li>{{ link(entry.path, entry.title) }}</li>{% endfor -%}
+</ul>{% endif %}
+</section>
+{%- endif %}
+<section class="podcast-transcript" aria-labelledby="transcript-heading">
+<h2 id="transcript-heading">Transcript</h2>
+<div class="article-body"{% if locale %} lang="{{ locale | escape_html }}"{% endif %} data-podcast-transcript>
+{% for position, time, speaker, words in transcript -%}
+<div class="transcript-block">
+  {{ link("#t=" ~ position, time, {"data-podcast-seek": "", "aria-label": "Seek to " ~ time}) }}
+  <div>{% if speaker %}<p class="transcript-speaker">{{ speaker | escape_html }}</p>{% endif %}<p>{{ words | escape_html }}</p></div>
+</div>
+{% else -%}
+<p>No transcript is available for this episode.</p>
+{% endfor -%}
+</div>
+</section>
+{% endblock %}

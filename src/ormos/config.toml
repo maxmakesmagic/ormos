@@ -19,6 +19,7 @@ origin = "https://media.ormos.uk"
 image_origin = "https://i.ormos.uk"
 landing_route = "/media"
 flash_route = "/flash"
+podcast_route = "/podcasts"
 
 [security]
 content_security_policy = "default-src 'none'; style-src 'self'; script-src 'self' 'wasm-unsafe-eval'; connect-src 'self'; img-src 'self' https: http:; base-uri 'none'; form-action 'self'"

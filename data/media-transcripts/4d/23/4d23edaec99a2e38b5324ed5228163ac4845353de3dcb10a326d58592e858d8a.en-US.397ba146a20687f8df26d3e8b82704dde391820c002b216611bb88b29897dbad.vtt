@@ -1,0 +1,308 @@
+WEBVTT
+
+00:00:00.570 --> 00:00:11.560
+<v Speaker 1>OK, I'm pulling out of the parking lot. You all know what that means. Well, a it means that I dropped my daughter off at spring break camp. But me? It means it's time for Drive to work.</v>
+
+00:00:12.380 --> 00:00:31.470
+<v Speaker 1>OK, so today I'm going to start talking about the design of Worldwake. So last time I talked to design and my podcast, I talked about Zendikar and a lot of the I did a lot of cards and stories. Today I'm continuing the Zendikar block by talking about Worldwake. OK, so to start with</v>
+
+00:00:32.690 --> 00:01:02.810
+<v Speaker 1>the previous who's who podcast explained that I'm not gonna spend a lot of time on people anymore. That's gonna be for the whose podcast, but I do want to talk about who designed this at. So the set was led by Ken Nagle and on the team was Kelly Diggs, who used to work on who's the editor in chief of the website and then was an editor and currently, beside being editor, also does some creative stuff. Mark Globus, known from the first great designer search, is the producer of Magic and a designer. Matt Plays was a developer of a developer</v>
+
+00:01:02.910 --> 00:01:05.430
+<v Speaker 1>development representative for the SET and myself.</v>
+
+00:01:06.210 --> 00:01:35.380
+<v Speaker 1>Um, so Ken Nagle, this was his first lead, first time being a lead designer. So what happened was Ken came in second in the first great designer search, losing our Alexis Jansen, although they both did well enough that they each got an internship and can manage to turn his internship into a full time job. Ken then went on to be on a whole bunch of different teams. Finally, we decided it was time for his own team. And our policy is basically metaphorically, we throw you in the pool,</v>
+
+00:01:36.030 --> 00:02:06.120
+<v Speaker 1>got a lifeguard standing by, which would have been me on the team and see what you can do. Ken did a great job. So the idea of the second set to explain real clearly is this was a small winter second set. Usually a set like that is there to be a continuation of a large set and do more. You want a few twists, you want a few new things, but a lot of what the small set is doing is being a continuation of a large set. So most of the themes in Worldwake were mostly evolution of stuff that's</v>
+
+00:02:06.220 --> 00:02:08.410
+<v Speaker 1>Cara dot. There's a few exceptions and I'll get to those.</v>
+
+00:02:09.460 --> 00:02:21.310
+<v Speaker 1>OK, so then the car was The Lancet and obviously had a lot of land things, the landfall being the biggest thing. The biggest difference between landfall in</v>
+
+00:02:22.380 --> 00:02:27.960
+<v Speaker 1>Zendikar and landfall in Worldwake was in Zendikar it was only on creatures.</v>
+
+00:02:29.360 --> 00:02:47.010
+<v Speaker 1>So Worldwake introduced it to spells and the way the spells worked was if you cast a spell and you've already played a land, then the the effect got bigger. You drew two cars. Ohh no you do 3 cars that that kind of thing. We also had more landfall effects that</v>
+
+00:02:48.420 --> 00:03:18.870
+<v Speaker 1>we're a little more static in nature. Most of the way they worked in Zendikar is they created a spell like a fact or they enhance the creature it was on until end of turn. And there are a few cards in worldwide that created static effects that didn't affect themselves but affected the board that would happen to the end of turn. There also was, I'll talk about this card, but there also was a card in which you paid mana when you know landfall and you paid mana to get the effect. So there's little tweaks on landfall kicker. The kicker was</v>
+
+00:03:18.940 --> 00:03:49.580
+<v Speaker 1>things in the car because one of the things The Lancet did is made you play a lot of land and so you got a lot of land in play and we're like, Oh well, we should give you something to do with all that extra mana. Kicker works really well. In fact, the evolution of multi kicker, something new for Zendikar Worldwake was kicker, but you could pay the cost as many times as you wanted. We actually had designed multi kicker for Zendikar because the same thing we wanted to let you use your mana as efficiently as possible. So like what's even better than kicker? Multi kicker,</v>
+
+00:03:50.700 --> 00:04:20.040
+<v Speaker 1>but we were trying to give a definition of worldwide. We realized that there was a lot going on in Zendikar, so we held it back. That's very, very common for us to do, which is the first set, we'll design something and then realize they don't need it and they will hold it for the second set. A lot of what goes on in design, this is part of block design, but is figuring out what you need and using what you need and then saving what you don't need for future sets. Early in Magic, we kind of each set would just kind of do as much as they could and we weren't as good about saving things for later.</v>
+
+00:04:20.260 --> 00:04:38.010
+<v Speaker 1>We did some, but we've gotten better over the years of saying, ohh, we're designing all of these sets, not just this set and that we're we're prioritizing the block being the best we can be rather than each set being the best we can be that we have to. We don't want the first set to be awesome the second Thursday go because we didn't save them things for them.</v>
+
+00:04:38.820 --> 00:04:51.030
+<v Speaker 1>Next traps. The big evolution of traps is 1 evolution is these traps were they worked against specific colors. So these traps were</v>
+
+00:04:52.330 --> 00:04:57.920
+<v Speaker 1>it would call out that they specifically would work well against one color. And so they were sort of color themed traps.</v>
+
+00:04:59.810 --> 00:05:08.280
+<v Speaker 1>And that was the major twist. Quests. I mean, we didn't new quests. I'm not sure we were evolved quests all that much, but there were new quests and new things you could do, and</v>
+
+00:05:09.620 --> 00:05:18.750
+<v Speaker 1>we definitely had a bunch more quests where you worked your way up there and then once you were done, it stayed and had a static ability. We played around with that a little more.</v>
+
+00:05:20.260 --> 00:05:22.560
+<v Speaker 1>Allies. Allies were still here.</v>
+
+00:05:23.660 --> 00:05:53.590
+<v Speaker 1>The So one of the things about allies is when we design what I call linear mechanic, which is we're going to make something new, a new deck. That's really the crux of the deck is showing up in this block. One of the things the development has to deal with is if we put how many cards do you put in the first set? Like do you put enough that the deck is viable and tournament worthy? Because if you do that, then you have trouble putting too many more powerful cards in the later sets. And so there's a balance between wanting to have enough cards to sort of make</v>
+
+00:05:53.670 --> 00:06:23.800
+<v Speaker 1>back, but not so many cards that you don't have room to make more good cards. And definitely on Zendikar or Zendikar block development made the call to make the allied deck kind of come into its own in the second block. So it was there in the first block and it mattered in limited and for casual constructed, but it didn't really become a tournament viable thing and even that of his fringe until the second set. And the second set did all more of what we did in the first set. If you remember my talk, the the Wizards and the clerics and the</v>
+
+00:06:23.980 --> 00:06:54.040
+<v Speaker 1>fighters, all those were continued. There's a little bit more what I would call just cards that didn't follow that pattern, but just were things that liked having allies around what I call companies. They're just like, hey, I'm better the more allies there are. I'll talk with some of those in the card by cards next. Vampires. So the vampires were Zendikar was the first time the vampires were characteristic race, which means they were the small plentiful at common race for black. We continued that</v>
+
+00:06:54.490 --> 00:07:03.570
+<v Speaker 1>there is a there is a bunch of vampire tribal that went on probably allies and vampires were the 2 main things that had a lot of tribal, little tiny bit of core but</v>
+
+00:07:05.020 --> 00:07:30.460
+<v Speaker 1>and vampires we didn't really do too much more other than we played up a little bit more of stuff for your vampire deck, the bloody mechanic, which said you got better if your opponent had 10 or less life. We carried that over a little bit of goodness that. But the vampires really we're just giving you more vampires so you can make your vampire deck kind of like allies as well, just giving you more for that deck. It didn't didn't evolve it at too much. I mean, there was a few lower discretes that helped you.</v>
+
+00:07:31.430 --> 00:08:01.480
+<v Speaker 1>Next is the core. So the core, as I explained during my Zendikar, the core originally were from Tempest and they were, they had been taken to to wrath from somewhere else. And we finally learned we get to send the car. This is where they were from. They were from Zendikar. They have an equipment, I want to say affinity. I don't mean the actual affinity mechanic, but the English word of affinity. They, they work well with equipment. And we continued that theme in Zendikar and in in world, like we continued</v>
+
+00:08:01.550 --> 00:08:32.290
+<v Speaker 1>in the world like from Zendikar. The one big new thing that we actually really didn't do in Zendikar, we saved for Worldwake was making land sort of come alive. And that so one of the themes, for those that may not know, there's IndyCar story. Zendikar was a plane that was wild and planeswalkers used to go there because there was lots of treasures hidden away. But there was something wrong and and as you the story went along, you</v>
+
+00:08:32.360 --> 00:08:37.650
+<v Speaker 1>realize that the land was kind of the reason it was so wild was the was reacting to something.</v>
+
+00:08:38.400 --> 00:09:03.250
+<v Speaker 1>And what is reacting to, for those that know, the third set trapped inside were the Eldrazi. And so the Linda Carr did not like having the authority trapped inside them. It wasn't doing nice things. And so one of the things that this set was trying to show is the world was getting Wilder. So we'd like the idea of the animated land thing as a theme in this set. And there are a couple ways we showed it off</v>
+
+00:09:05.310 --> 00:09:35.190
+<v Speaker 1>the biggest way we showed it off the highest profile way. Was there a cycle of rare, what people call manland? Although I'm not sure that I know nowadays people lands or I'm not sure the current term for them, but a creature lands or lands that they come into play as land. And then you can spend man and animate them into creatures for the turn. These this work cycle were allied dual lands came and played tapped and then you could animate them. Now, the interesting thing about this was we were like, OK, these are good.</v>
+
+00:09:35.260 --> 00:09:56.580
+<v Speaker 1>They were very proud of these. Like this is gonna be exciting people who love these. And it came out and sort of like chirp, chirp, chirp, chirp. Like people didn't quite get right away how good these were. And here's the best way to think of it, which is when we give you come and play tap dual lands, we are allowed to give you a little bit of extra, a little tiny bit of extra. You know, you can get gate status or you can gain a life</v>
+
+00:09:57.500 --> 00:10:27.270
+<v Speaker 1>turning into a creature every turn, you know, for no loss of cartilage of any kind. Way more than a little bit. That's a lot. And it's, you see, I'll talk about a little bit as we go through by car. But they were, they were quite good. Also, we had a common cycle we called the Zenda cons. They were auras that went on lands and they chanted land and they they animated them into creatures. And then if that creature ever died, you would get back the aura. So the idea was I would turn my forest into a creature.</v>
+
+00:10:27.400 --> 00:10:41.560
+<v Speaker 1>Well, if the fourth ever died, I would get the chairman back and I could turn a different force into a creature. So the idea is you could kill anyone force, but I could keep making more force animated. And so it helped make it. It was pretty good about keeping up the threat.</v>
+
+00:10:42.540 --> 00:10:48.070
+<v Speaker 1>There are a few other individual cards, but pretty much those are the major themes of playing up the the creature lands.</v>
+
+00:10:48.860 --> 00:11:17.250
+<v Speaker 1>OK, so there were 7 cycles in the set. I tried but a few of them, but I'll run through. So the allied beneficiaries were creatures. That said, if a particular other land was in play got a bonus. If you remember from Alpha, Sedge Troll cared about if you had a swamp in play. And then we did Kird Ape the cared about if he had a forest in play. These parts were kind of like that. Those probably inspirations for it.</v>
+
+00:11:19.430 --> 00:11:29.140
+<v Speaker 1>So we the the enemy color activated traps and so those are the traps that work specifically against one of the enemy colors. You know that it wasn't just a trap is a Trump against a specific color.</v>
+
+00:11:30.060 --> 00:11:35.390
+<v Speaker 1>We have a common landfall instance. I talked about this that there are instances that got stronger if you had played a land this turn</v>
+
+00:11:36.190 --> 00:12:06.440
+<v Speaker 1>are common multi kicker creatures. I think the common ones all got plus 1 + 1 counters if you kicked them. So the idea essentially was they were variable creatures how big they could be. We also did someones that were had an ETB effects of I think those are at higher rarities. Next we had common spell lands. That was the cycle that we had done in Zendikar and we didn't continued here. The idea was they were a cycle of lands, 11 for each color came and played, tap, tap for the color,</v>
+
+00:12:06.560 --> 00:12:15.130
+<v Speaker 1>and then they came into play. They hadn't entered the battlefield effect. There's a small flavorful effect that matched the color, although something that obviously any color could do. Anybody could play them.</v>
+
+00:12:16.070 --> 00:12:46.020
+<v Speaker 1>Next we have the rare man lens people called the Kaplans. And um, finally with this intercom cycle they talked about we animate the land. OK, so this was a normal size set, by the way, normal size small set at the time, which was 145 cards, 60 common, 40 uncommon, 35 rare, 10 mythic. The expansion symbol was a hedron opening up the hint at the things to come. And the lead developer, by the way, for the set was Mike Turian. I'll talk about Mike a little bit when I get to the card by card stories.</v>
+
+00:12:46.510 --> 00:12:49.500
+<v Speaker 1>OK, so let's talk individual cards.</v>
+
+00:12:50.140 --> 00:13:20.150
+<v Speaker 1>OK, we'll start with a Abyssal Persecutor. So Abyssal Persecutor was A2 black, black 66 demon. We do love her, 66 demons with flying and trample. And it had the simple ability that you can't win and your opponent can't lose while he's in play. So if you remember Platinum Angel for Mirrodin, which was a 44 flying creature that said you can't lose, an opponent can't win, and this is in play. We've turned that on its head now. We were a little bit nervous because usually you would think, Kevin Carr, this is you</v>
+
+00:13:20.220 --> 00:13:40.440
+<v Speaker 1>that way. That's pretty big downside on the players really, really like this. This was very popular. And I mean, for Manafort 66, flying trampler is not too bad. It does require you to figure out how to get rid of it before the game ends. But black sacrifices creatures. It's not a there's ways to work around it and it does what we like with black, which is black offers you power at a cost and that's very, very black.</v>
+
+00:13:41.630 --> 00:13:48.520
+<v Speaker 1>Next, Amulet of Vigor. It's an artifact that causes 1, and it says whenever a permanent you control enters the battlefield, uncap it.</v>
+
+00:13:51.120 --> 00:14:14.350
+<v Speaker 1>So this card originally said whenever a permanent you control would enter the battlefield tapped instead and enters the battlefield untapped. And the goal of this was there were a lot of lands in Zendikar block. We don't want lands to be better than basic lands. And so a lot of the time to sort of offset it, we have them enter the battlefield tapped, what we call ET BT, ET BT</v>
+
+00:14:16.200 --> 00:14:25.230
+<v Speaker 1>and we I was trying to basically say things enter the battlefield, tap don't. That was the original design, this card when I made it, it turned out that the rules</v>
+
+00:14:26.040 --> 00:14:42.810
+<v Speaker 1>didn't like that doing this replacement effect caused some problems. So what we ended up doing is just whenever something you whenever permit you played into the battlefield, it just untapped it. And for all sorry, for all intents and purposes, it untapped things that came plays tap since untapped things rolling already untapped</v>
+
+00:14:45.030 --> 00:14:55.480
+<v Speaker 1>Annawan the ruin Sage three black black legendary creature, 4/3 he the vampire. And during your upkeep, each player sacrifices a non vampire creature.</v>
+
+00:14:56.670 --> 00:15:25.960
+<v Speaker 1>So this is a tech we we I think we first did with demons where you have some of the sacrifices things, but to keep it from sacrificing itself, you say it sacrifices a non the creature type. It is. And the reason we do this is it allows us to do an interesting form of a tribal card. So when you think of Lords in general, you tend to think of, Oh, you know, let's say a vampire Lord. I'm a vampire and I grant all vampires some ability. Maybe I give them plus 1 + 1. Maybe I give encounters when they damage</v>
+
+00:15:26.100 --> 00:15:57.590
+<v Speaker 1>do something. I I give them some bonuses says OHH, with me in play, vampires are better. So this is a different way to do a Lord tech card. I mean, it's not technically a Lord because I'm not granting things, but it is a builder on your tribal card. And the reason is it says there's a negative in which vampires avoid the negative. So for example, if I can anyone out in a bunch of vampires out well, if all I have are vampires, I don't have to sacrifice anything where you do have to sacrifice things. And so this card definitely says, oh, well, I'm better have played with more vampires. And so it encourages vampires.</v>
+
+00:15:57.880 --> 00:16:12.170
+<v Speaker 1>And one of the things we did with Vampire explained this a moment ago, is it's not that we really made anything too new, but we made a lot of different cards that could encourage you to build a vampire deck. And so we were trying to definitely make a monoblock vampire deck a viable thing</v>
+
+00:16:13.310 --> 00:16:21.160
+<v Speaker 1>next. Arbor elf. So Arbor elf is an elf for one. Green Man Elf Druid 11 and you can tap to untap a forest.</v>
+
+00:16:22.870 --> 00:16:23.700
+<v Speaker 1>The</v>
+
+00:16:24.320 --> 00:16:42.870
+<v Speaker 1>this is an interesting card, which is a good example of how you can make a card that in one format does one thing and another format does another thing. So this card in a limited format pretty much produces green. You know, you play a force. It can untap a forest. For all intents the purposes, it's it's like a landlord album.</v>
+
+00:16:43.640 --> 00:17:04.260
+<v Speaker 1>But if you put this in a format with in a larger format that has lands that have land types, such as dual lands that have land types, this allows you to get access to other colors. So in one format it's basically the land or ELF, but another format it's like a bird of paradise, although it's a 11 bird of paradise</v>
+
+00:17:04.970 --> 00:17:11.280
+<v Speaker 1>that doesn't apply. But but anyway, it's one of the things that's fun and design is making something where</v>
+
+00:17:12.150 --> 00:17:18.740
+<v Speaker 1>being conscious of formats and saying OHH, I see 11 format will do this but in a different format will do that and that's kind of fun to do.</v>
+
+00:17:19.700 --> 00:17:35.220
+<v Speaker 1>Next Avenger of Zendikar. So it's 5 green and green for 55 elemental. It is 2 abilities. When enters the battlefield you put a 01 plant token into play for each land you have and then as a landfall bility which is put a + 1 + 1 counter on each plant.</v>
+
+00:17:36.170 --> 00:17:37.970
+<v Speaker 1>So this card does a whole bunch of things. I'm</v>
+
+00:17:40.020 --> 00:18:10.490
+<v Speaker 1>some cards are are very forthose Ian and that they are just dripping with flavor and some cards are very Milvian Milvian on the Melvin side, saying that. So Porthos really cares about flavor and wants cars that just drip flavor. Melvins want cars that just design wise are cleverly designed and this card is very cleverly designed and let me let me walk through what's going on. So it has two abilities. Both abilities care about lands. One of them counts lands to make tokens,</v>
+
+00:18:10.690 --> 00:18:40.870
+<v Speaker 1>the other cares about lands coming into play. And So what it does is it takes 2 abilities that kind of might seem at first disparate, but they're not. They're very connected to each other and they make interesting decisions on, you know, now obviously the things expensive enough they have some land when you get it out. But the idea is once I get to 7 land, do I want to play this and hold some land in my hand? You know, do I want to sort of play it and then play some land and beef off my creatures So there's zero ones. They're not nearly exciting. This car also has a cute</v>
+
+00:18:40.940 --> 00:19:00.000
+<v Speaker 1>sideways of being a plant enabler, although most plants can't attack. So this clearly is designed to work with its own car. But anyway, and this is just a as a Melvin, my Melvin side. I have ordered those. I have orthos. I do, but my Melvins, I really appreciate this car. Just a lot of things clicking together in a way that plays well, that just thematically holds tight.</v>
+
+00:19:01.330 --> 00:19:05.510
+<v Speaker 1>And there's some flavor here. And I'm not saying that folks have to hate this card. It's an elemental that</v>
+
+00:19:06.300 --> 00:19:09.330
+<v Speaker 1>makes nature, loves nature and grows. And you know, so that's kind of cool too.</v>
+
+00:19:10.120 --> 00:19:19.040
+<v Speaker 1>OK, next be steel menace. So bestial menace is a sorcery for three green and green. It makes a 11 snake, a 22 wolf and a three three elephant.</v>
+
+00:19:19.650 --> 00:19:49.810
+<v Speaker 1>So The funny thing about this card is we made a card called cone of flame many, many years ago. Cone of flame did one damage to 1 target, 2 damage to a second target, 3 damage to 3rd target. Very popular. So right after it, I said, OK, I'm going to follow up. I'm going to make cone of creature and cone of creature made one one and two and three. And at the time we didn't do it. We don't tend to make cards that make multiple token types in the same card. That's something we do very infrequently. And so I try to get it made people like, ohh, maybe we shouldn't make.</v>
+
+00:19:50.570 --> 00:20:00.760
+<v Speaker 1>So I ended up writing an article in the do list where I talked about this that I tried to make the card but it had too many counter types and well, we didn't make it. And in the article like someday.</v>
+
+00:20:01.940 --> 00:20:06.160
+<v Speaker 1>So what happened was I like this car, so I kept trying to put it in SATS and I never got made.</v>
+
+00:20:07.210 --> 00:20:30.330
+<v Speaker 1>So flash forward and I'm writing the card by card story for Worldwide and I see these two men. It's like, ohh, beef deal menace. And so I wrote this story and go, Oh well, that's what I explained that I'd made this card many years ago and I tried to get this set many times. I go, I guess Ken must have thought it was time and put it in the set. And you know, Ken felt like, oh, maybe this was the right place to have it. And so Ken put it in the set</v>
+
+00:20:30.980 --> 00:20:38.070
+<v Speaker 1>and I said, it's funny, I, you know, I've been trying to get this card in forever and the set of finally he gets put in. I didn't even put it in the set.</v>
+
+00:20:38.890 --> 00:20:48.490
+<v Speaker 1>So I turned my article in and I get it now. I get a call from from my editor, Kelly Dags, who was also on the design team. Member Kelly says, Mark, I need to correct your article.</v>
+
+00:20:49.180 --> 00:20:50.760
+<v Speaker 1>You and your article said that,</v>
+
+00:20:51.530 --> 00:20:52.080
+<v Speaker 1>umm,</v>
+
+00:20:53.110 --> 00:20:56.790
+<v Speaker 1>that can put one of your designs in the set.</v>
+
+00:20:57.440 --> 00:21:27.540
+<v Speaker 1>I go, yeah, that's why I assumed happened. He goes, no, no, no. I made bestial menace. So what had happened was Kelly had no idea I'd made this car. Kelly had never read the article. Right. Talked about making this guardian. He didn't know. He just made a card all on his own he thought was a cool car. This is what we call parallel design, where it is very possible for two people to make the same card without realizing the other one is made it. In this case, we did it many years apart. Sometimes it happens within the exact same design. In Hollywood there's phenomena goes on where</v>
+
+00:21:28.220 --> 00:21:57.110
+<v Speaker 1>it's like that in Hollywood, there's this phenomenon that goes on where there's a movie that no one's ever made and then all of a sudden within like a three month period, 2 movies come out. You know, it's a movie like there hasn't been a move of volcanoes in forever. And then two movies about volcanoes, 2 movies about Christopher Columbus, 2 movies about an asteroid hitting the earth. You know, it's just like 2 movies about ants. Whatever it is, it's like all of a sudden, you know, there there was no movies about it and then in a short period time, 2 movie.</v>
+
+00:21:58.420 --> 00:22:28.660
+<v Speaker 1>Then this happens a lot in design too, where one of us will make a card and the other one makes a card and then this almost the same card. Now sometimes it's obvious because we're we're mining the same space, like, Oh, well, we go to the obvious things. I'm not even talking about that. The ones that are weirder is when it tangentially fits the set. But like you just both come up with really weird things, like how did both of us come up with this card at the same time? But it happens a lot and here it happened. So anyway, if you enjoyed yourself menace, thank Kelly Diggs. He's the one that actually got in the set.</v>
+
+00:22:29.440 --> 00:22:38.560
+<v Speaker 1>But it's funny because a lot of people had read my article. So Kelly was constantly like, no, no, no, I made this card. So props to Kelly. I'm I'm I'm glad he got it in because it's a cool card.</v>
+
+00:22:39.360 --> 00:22:54.180
+<v Speaker 1>Bojuka Bog. So this is part of the spell land cycle. So the way the cycle works is it comes into play tapped this particular 1 taps for a black and then when it enters the battlefield exile all cars and target players graveyard.</v>
+
+00:22:55.390 --> 00:23:05.320
+<v Speaker 1>So for those who don't know, I am a big fan of the graveyard. I made Odyssey, I made Innistrad, I made Dark Ascension.</v>
+
+00:23:06.880 --> 00:23:30.090
+<v Speaker 1>I In fact. In fact, if there was a format in which you could only build like your deck, you had to pick one designer, and then all the cards in your deck had be designed by that one designer. I believe what has a very good chance of winning that tournament is my graveyard deck, the Rosewater graveyard deck. I I made the dredge mechanic bridge from below Narcomoeba.</v>
+
+00:23:31.390 --> 00:24:01.070
+<v Speaker 1>Name it if if it if it's a powerful car that involves the graveyard. I made well well over probably half in existence and and probably being a little generous, probably made more than that. I made a lot of the tournament. I love the graveyard. So anyway, it is this one hurt me. I I hate when my cards that get rid of the entire graveyard. I'm like, really? That's a common effect. That's a simple fact, but turns out it only cost one man, which is what we were doing for these effects. I tried to find something else for this, although to be fair, I was leading this, Ken was. I tried to</v>
+
+00:24:01.160 --> 00:24:13.960
+<v Speaker 1>this can to change this, but we just couldn't find another ability. It's interesting the industry came up after this. I don't really think we were trying to plant answers for industry ahead of time. Normally we plant answers within the set, not ahead of time, but</v>
+
+00:24:15.010 --> 00:24:18.320
+<v Speaker 1>but anyway, this was a stall cycle that that</v>
+
+00:24:19.160 --> 00:24:49.990
+<v Speaker 1>made me the least happy, although I, it got played OK Calcite snapper. So trivia question. What was the design name for calcite snapper? And the answer is convertible turtle. So this was the card that I was on Twitter one day and I made some like comment on what I'm doing Design. I can't say much because I can't give away designs. And so I, I had an innocuous tweet like today, I designed convertible turtle and people were like, what's convertible turtle? And like, I can't tell you. They're like, Oh, you got to tell convertible turtle dogs. I'm like,</v>
+
+00:24:50.070 --> 00:24:57.030
+<v Speaker 1>it's in the set. I can't tell you that. OK, the day Convertible Turtle comes out, you must tell us what Convertible Turtle does.</v>
+
+00:25:00.070 --> 00:25:04.600
+<v Speaker 1>And they were guessing now. It used landfall, so they didn't know the mechanics. There's no way they were going to guess</v>
+
+00:25:05.870 --> 00:25:21.070
+<v Speaker 1>so. Ohh by convertible internal calls and tell you what it does. It's 1 blue blue for one Ford turtle. It has shroud and with landfall you swap its power and toughness. So when I originally made the card and everything there except it wasn't shroud</v>
+
+00:25:21.970 --> 00:25:39.840
+<v Speaker 1>I'm in, the cost might have been different. So mine was basically just when you played landfall it swapped from 1/4 to 4/1. So the problem with swapping power on topness is that it gets confusing what happens when other things affect power toughness. I will give my example. Imagine this creature you put a fire breathing or on it.</v>
+
+00:25:40.610 --> 00:26:10.490
+<v Speaker 1>OK, so if I fire breathe my creature instead of A1 four, I'm making it 24. OK, Then I, I use landfall OK, was the 24 number comes before 2. Now I use the fire breathing again. OK, Now is it a 52 or is it a 543? Where does that go? And it is confusing when you have further power toughness affecting things. And so the answer just to make this easier was to put trout on it. Now for those that might not know, shroud before hexproof. Hexproof</v>
+
+00:26:10.560 --> 00:26:16.430
+<v Speaker 1>has nobody can target. I'm sorry, Hexproof says. Nobody else can target my stuff,</v>
+
+00:26:17.330 --> 00:26:20.090
+<v Speaker 1>Shroud says. Nobody can target myself, including me,</v>
+
+00:26:20.720 --> 00:26:35.630
+<v Speaker 1>and so by putting Shroud on this creature, we way way way lessened the ability for you to have power, toughness affecting things after you've used this ability. Not impossible, there are few, but none in the set. So none for limited and just in general, it's a hard thing to do.</v>
+
+00:26:36.920 --> 00:27:08.070
+<v Speaker 1>So the reason this got pushed back was we were trying to figure out how to solve it and it wasn't till Worldwake that we figured out the shroud technology. So that's why it ended up being in the world wake. Well, and we might have to say lost out to numbers is we had a bunch of landfall cards and so we got pushed out. We had too many landfall cards and so worldwide took it. But anyway, worldwide kindly made convertible turtle and when it came out, in fact, I previewed this card on I believe on Twitter. This is my preview card. So one of the things I try to do, and so I usually get a social media preview</v>
+
+00:27:08.150 --> 00:27:20.450
+<v Speaker 1>hard. And the things I try to do is I like the previous more goofy stuff. Usually a lot of tournament level stuff is being in articles and things, and so I like showing off stuff that's a little more on the goofy side</v>
+
+00:27:21.940 --> 00:27:28.230
+<v Speaker 1>and convertible turtle being kind of Twitter born in some ways. It was obvious that had to be my Twitter preview.</v>
+
+00:27:29.040 --> 00:27:59.250
+<v Speaker 1>OK, next Celestial Colonnade. OK, so this is one of the the taplan. The creature lands at rare, so it enters the battlefield tapped. It taps for white or blue and then for three white blue. So for five mana it turns into a 44 flying creature with vigilance. OK, so for five mana it turns into a Serra Angel. OK, remember what I said before when we make taplands, dual taplands, we have a little bit of space. Remember Gate</v>
+
+00:27:59.330 --> 00:28:28.720
+<v Speaker 1>gain a life or Sarah Angel you're gonna be good Sarah Angel so anyway, that's a sign of how powerful these things were and that that was a lot you were getting a lot the ability to for example, not have to have a wind condition on your land is pretty pretty potent a little bit better than I'm a gate so and anyway, these eventually became popular. It took a little while. It is funny. One of the things that happens in sets is we think, well,</v>
+
+00:28:29.330 --> 00:28:59.320
+<v Speaker 1>developmental figure out what they consider the good cards to be from future, future testing, and they don't completely know. One of the tenants of development is if they knew everything, then you guys would figure out in 2 seconds because there's millions of people playing constantly. So we make environments complex enough that we have some idea. And usually development knows which cards are the better cards. They don't necessarily know what the decks are. So you could be a good card and not have a deck that makes sense. And so maybe you don't end up getting played in tournaments, but they know the good cards are and they knew these lands were good. And So what</v>
+
+00:28:59.390 --> 00:29:29.810
+<v Speaker 1>happens is when we put them out, we want the people to see what we consider the good cards to be. But sometimes either the it's just kind of hidden how good the card is, so the players don't see it right off the bat or the deck that would need to be there just isn't there or people haven't found it yet. So it just people don't people might go, oh, this seems powerful in the right context. Is that context there? And so a lot of times one of the things about watching previews is will people get excited by stuff? And sometimes, you know, cards are really good and players,</v>
+
+00:29:29.880 --> 00:29:52.650
+<v Speaker 1>you take your time to figure that out, or the context that makes them real good isn't as apparent, you know, that or isn't right there because usually people look at existing decks to see how the cars going, existing decks. And then eventually players will figure out new things and new decks to make with them. But unless the deck is super linear, it takes a little bit of time to figure that out. Yeah, yeah, yeah. You get an ally deck. Ally says put all the allies in a deck. So that thing is figured out quickly.</v>
+
+00:29:53.560 --> 00:30:18.330
+<v Speaker 1>OK, I am at Wizards and that I made it all the way to see. I didn't even finish the seats. I have more seats to talk about it. So obviously I have some more podcast to do, but hopefully you guys are enjoying hearing all about Worldwake. Like I said, it was Ken's first design. I think Ken did a good job and I will continue in future podcasts to talk a little bit more about the card by card designs.</v>
+
+00:30:19.440 --> 00:30:37.250
+<v Speaker 1>But as I pulled into my parking space, on my parking space, a parking space, I want to say that as much as I love talking about magic design and magic history and worldwide history, even more, I like making magic. So I gotta go make some more magic. I'll talk to you guys next time. Thanks for joining me.</v>
+

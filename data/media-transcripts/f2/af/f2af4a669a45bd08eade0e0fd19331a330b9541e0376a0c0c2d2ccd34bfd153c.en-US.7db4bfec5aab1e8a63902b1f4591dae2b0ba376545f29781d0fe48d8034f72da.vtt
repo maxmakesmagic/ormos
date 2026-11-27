@@ -1,0 +1,470 @@
+WEBVTT
+
+00:00:00.700 --> 00:00:27.060
+<v Speaker 1>OK, I'm pulling in my driveway. We all know what that means. It's time for him to drive to work. OK, so today I'm going to be talking about something called a design skeleton. So what a design skeleton is? It's something that is part of the technical side of the job. I talked a lot about making magic and I know that there's I tend to focus a lot on the the</v>
+
+00:00:28.050 --> 00:00:37.700
+<v Speaker 1>what's the word, the the intuitive, inspirational. Ohh, I had a dream and Oh my God, bam. I have an idea and I talk a lot about there. There's</v>
+
+00:00:38.850 --> 00:00:53.840
+<v Speaker 1>there's a lot of thought in the creativity that there is this like moments of pure, pure, pure clarity where you realize things and there's some of that and I play that up and there's, there's a fun thought of, you know, of creativeness of having this wild sort of, you know,</v>
+
+00:00:55.550 --> 00:01:25.420
+<v Speaker 1>right brain side sort of thing. But in reality, a lot of the creative process is hard work and structure is spending a lot of time carefully crafting and figuring something out. And today I want to talk about a tool that we use to do that. I first started talking about design skeletons in a series I have called nuts and bolts that I read in my column where I I do 1A year talking start about how to make your own SAT. And</v>
+
+00:01:25.490 --> 00:01:55.470
+<v Speaker 1>in the column I introduced the concept of a design skeleton. I'm talk about that today. So my metaphor, I use some metaphors today. I never metaphor I didn't like. So let's start with the metaphor of building a building. So let's say you're an architect and it's your job to figure out to get the vision for what you're building looks like. Well, you make something called blueprints or architectural plans. And what you're doing is you're saying, hmm, here's my first thoughts and what I think</v>
+
+00:01:55.540 --> 00:01:56.660
+<v Speaker 1>the building is going to look like.</v>
+
+00:01:57.950 --> 00:02:27.740
+<v Speaker 1>Now, it is quite possible that when you go to start building or, you know, when the builder starts building, the architect might have had ideas that while we're great on paper, might not actually work due to different limitations. And so the blueprints are our guideline, you know, and that's something that when you want to make a set, you have to figure out the core of what you are doing. So to understand this, let me explain a basic tenant, something that we use to make sense.</v>
+
+00:02:28.950 --> 00:02:30.920
+<v Speaker 1>Then we call a card file.</v>
+
+00:02:34.000 --> 00:02:35.660
+<v Speaker 1>Now the idea of a card file is</v>
+
+00:02:37.090 --> 00:03:07.160
+<v Speaker 1>it is a list of let's say I'm making a large set. Large sets currently have one Commons, 80 uncommons, 53 rares and 15 mythics, 269 cards. We recently upped from 60 uncommons, 80 uncommons. The reason for this was we were getting pinched and uncommon, that there was too much we needed to do and not enough space. And that by opening up a little bit, uncommon is really the place we can put build around these for draft. That really sort of helps make draft have more variety over time.</v>
+
+00:03:07.310 --> 00:03:10.200
+<v Speaker 1>And anyway, we felt like we needed the extra space, so we added 20 cards</v>
+
+00:03:11.230 --> 00:03:41.300
+<v Speaker 1>anyway. So when you're making a set, you have a file. But the thing about the file is you are going to change the cards in the file that you're going to make cards, sometimes cards, all sorts of things can change about the card. The card could change its rule text, it's mana cost, it's power, it's toughness, it's creature type, Lots of things can change. And in fact, the whole card could be tossed out and replaced with a completely different card. So what we do is our card file has slots, meaning that</v>
+
+00:03:41.400 --> 00:04:10.830
+<v Speaker 1>you have 269 slots, 101 common, 80 on connon, 53 rare and 15 mythic. You have slots. And what we do is we designate each slots. We have what we call card codes that are using designate. Now a card code has three components to it. The first component is rarity. So if it's a common card, it gets AC uncommon card gets you rare card gets an R mythic rare card gets an M pretty pretty easy. The second signifier</v>
+
+00:04:11.710 --> 00:04:41.450
+<v Speaker 1>originally was about the frame. It is probably about the frame and partly about the color. When we first started making card codes, they worked to inform the people producing the cards what the frames were. That's drifted a little bit over time, but but as a general sense, it talks about the frame. So if you are a colored card, W for white, blue is you because B is black and L as land. So U is blue, black is B, red is our green is G, Artifacts are</v>
+
+00:04:41.530 --> 00:04:58.470
+<v Speaker 1>gay, lands are LED, multicolor cards are Z. Why ZI don't know. We just needed something, a signifier, and we wanted to pick something we felt was just out of the way and wouldn't be confused for anything. And no one was using Z, so we picked Z.</v>
+
+00:05:00.580 --> 00:05:30.810
+<v Speaker 1>And the way that card file normally goes is you have white, blue, black, red, green, Wolberg. That's the first letters in order at pronounce or blue for for you. And then you have your multicolor cards and then you have your artifacts and then you have your loans. That's the order that we put them in the file. So the idea is you have a file. So what a design skeleton is, is trying to structure the file so that when you approach it, you have some idea of what you need to do. OK, so the very first thing you do when you design</v>
+
+00:05:30.910 --> 00:05:34.620
+<v Speaker 1>well then is literally make a slot for every card in your file.</v>
+
+00:05:37.020 --> 00:05:41.960
+<v Speaker 1>In order to do that, the first thing you have to do is figure out some basics about your set. So for example,</v>
+
+00:05:42.780 --> 00:06:12.030
+<v Speaker 1>I have 101 comments. Ohh, let me explain the 101st comment that always throws people. So the the way when we print magic cards, essentially we have a sheet, We print a giant sheet the that's the size that the printer prints on. And then what we do is we cut them down to card size. So we put a whole bunch of cards and then cut them down. And so in order to sort of have the right combinations that we need, there's a certain set size that fit with the card sizes, the sheet sizes.</v>
+
+00:06:12.850 --> 00:06:34.340
+<v Speaker 1>And so that's how we we get different sizes as in order to do the thing we need to do, it's very complicated. I learned long ago in 18 years, I've avoided every possible meeting where I had to talk about templating or collation. And it worked very hard to avoid those meetings. They are very important and I'm glad there's people that do them, but they get really mind numbing.</v>
+
+00:06:36.680 --> 00:07:07.370
+<v Speaker 1>But it is it's funny. By the way, when I was in school long time ago in math class, my teacher said, ohh, this is important. Learn your math. You will need this later in life. And I was sure I was going to be a writer. I said, I'm going to make my living with words. I'm not going to need numbers. And I took my math classes, but I'm like I I was super doubtful I was going to need it. And now, now that I'm a game designer, holy moly, I use a lot of math. Like Coalition is all math. Like as fan and all this stuff we have to do to figure out percentages. And</v>
+
+00:07:07.540 --> 00:07:08.560
+<v Speaker 1>there's a lot of math.</v>
+
+00:07:09.900 --> 00:07:35.760
+<v Speaker 1>Luckily I don't have your collation full time. Somebody else is doing collation. I'm aware enough of it. So I can do my job, which is figuring out sizes and things anyway. So you have 101 Commons, 101 Commons. The 101st by the way, is actually kind of not a common. It's kind of not an uncommon. It actually falls in between rarity wise that it is half as rare as the common but twice as common as it uncommon.</v>
+
+00:07:37.420 --> 00:08:07.280
+<v Speaker 1>We we call it a comment because it has to be called something for. But anyway, the 101st card shows up a little left. But anyway the 101st card is always an artifact or a land. And then what we do is a common and uncommon. We always completely balance color and then at rare and mythic we get close but it's not exact. Why do we do that? Well, we've had some experience not balancing color in torment and judgment. For example, Torment skew toward black, Judgment skew toward white, Green also</v>
+
+00:08:07.360 --> 00:08:31.070
+<v Speaker 1>in the stride, I screwed this out a little. Not as much as tournament, but a little bit toward black, because it's so dark. Development ended up undoing that work. Why? Because it really, really skews draft. Not having a balanced color really does weird things to draft. It makes draft less fun. And so at common and uncommon, we balance them completely, meaning there's an equal number of black cards, blue cards as green cards, red cards, white cards, and such. So</v>
+
+00:08:32.120 --> 00:08:34.250
+<v Speaker 1>normally what happens is you have to figure out a common</v>
+
+00:08:35.040 --> 00:08:43.080
+<v Speaker 1>are you doing the land cycles? Because you have to do them in cycles. Are you doing the artifacts? And if you do artifacts other than the 101st 1:00, they have to come in fives.</v>
+
+00:08:43.680 --> 00:09:13.450
+<v Speaker 1>So let's say for example, you go, OK, I want to cycle of common lands that fits my theme. I think I want common artifacts. We'll say 5 artifacts plus the six. We'll make the 101st garden artifact. OK, so now I have 11 cards represented. That means I have 90 cards not represented. I need to do even split. That's 18 cards per color. So what I do is I go to my files and remember common is C white is WO one that I didn't mention. The third signifier is number. So it's it's color. I'm sorry, rarity,</v>
+
+00:09:13.950 --> 00:09:25.580
+<v Speaker 1>color, splash, frame number. So the first in the file it's CWA 1 all the way through CW18. That means there's 18 slots for white. Then you have Co one through CU 18.</v>
+
+00:09:26.650 --> 00:09:33.650
+<v Speaker 1>You do that. Then you have your five artifact slots, your 5 land slots, or six artifact slots, 5 land slots. Now you have your 101 cards,</v>
+
+00:09:34.930 --> 00:09:43.930
+<v Speaker 1>so that's the very first thing you literally makes lots. Then what you do is you figure out whether or not each slot is a creature or a spell.</v>
+
+00:09:44.830 --> 00:10:15.460
+<v Speaker 1>So the way you figure this out is pretty easy. Well, we have done is we have figured out how many creatures each color is supposed to have and made it default. So right now white gets the most creatures, white, white, why not green? So green used to get the most creatures. Green is thought of as the creature color. It's for a long time, green got both the most creatures and the biggest creatures. But sometimes we realize that like we wanted to spread out the spread off the creature love. And So what we did is we said, OK, why is the color all about the group coming together, the community, the army,</v>
+
+00:10:15.720 --> 00:10:31.450
+<v Speaker 1>it wants a lot of little creatures. And so we'll make white the color that is the most creatures will make green the color that is the biggest creatures. And that way we can differentiate them. White and green already has this problem of overlapping a lot. And so give a little more spread between them without was good.</v>
+
+00:10:33.480 --> 00:11:04.020
+<v Speaker 1>Now the numbers I'm giving you are default numbers. They change from set to set. This is kind of where we start. So white by default has 55% creatures. So if you look at the file that's 18 half, you know, 50% is 9. That means it 1011 cards want to be creatures. Oh, and this is important when we talk about creatures development has a very distinctive thing of how they count creatures. They care about creatures from an aggressive standpoint. So anything that makes creatures, for example, if you have a instant in white</v>
+
+00:11:04.100 --> 00:11:28.930
+<v Speaker 1>makes 211 tokens, that is counted as creature might be an instant, you know, or sometimes it's a sorcery, but the fact that it makes creatures, it functionally is a creature from a vantage point of counting it as a creature. Meanwhile, defenders cards that have no ability to attack don't count against creatures. And so there's a little bit of of we say 55% creatures. We're talking about things that relatively matter aggressively as creatures.</v>
+
+00:11:30.850 --> 00:12:00.760
+<v Speaker 1>Now we do count things that have a tap activated ability or even things that have 0 power if they're capable of attacking because the game has wasted. But those things up. So anyway, whites default is 55%. And I stress the word default that as each set rolls along, we match it with what we need to do. And so I set my have a little, might have a little less, although the cards will always go in the following order. So white is #1 the creatures as far as number of creatures, green is number 2 has about 52%. Black is #3 at about 50%,</v>
+
+00:12:00.860 --> 00:12:15.270
+<v Speaker 1>red is #4 at about 48%, and blue is number 5 at about 45%. So it goes in order, White, green, black, red, blue. Blue is the most spell oriented, right, The second most bell oriented, blacks in the middle and then white and green lean toward the creature side.</v>
+
+00:12:17.410 --> 00:12:40.060
+<v Speaker 1>And like I said, even though we'll we'll change them up, usually they stay in that order. Even when like sets are a little heavier and creatures a little lighter in creatures, they still send understand that order. OK, so once you do that, the next step is figuring out what size creatures you have. And So what we do at first is we break creatures into three general sizes. A small creature is any creature whose power and toughness adds up to four or less.</v>
+
+00:12:40.860 --> 00:12:44.590
+<v Speaker 1>An uncommon creatures in creature whose power adds up from 5:00 to 8:00</v>
+
+00:12:45.260 --> 00:13:11.230
+<v Speaker 1>and a large creatures in creature, the ads whose powers add up to 9 or more. And so so now you go through the file and you figure out for each of your creatures whether they're small, medium, or large. Once again, we allocate at certain rarities. Like for example, white tends to have mostly small, a little bit of medium. Traditionally it doesn't get a larger common. Every once in a blue moon it does, but as a default it does not.</v>
+
+00:13:12.670 --> 00:13:17.480
+<v Speaker 1>On the flip side, green always has a large creature common. Every once in a while have two large creatures at common</v>
+
+00:13:18.990 --> 00:13:43.620
+<v Speaker 1>that different different creatures we we allocate. So actually, let me a little a little aside here. I've spent a lot of time and energy talking this podcast about how I try to make each set different. I talk about pushing the pendulum. I talked about how we keep wanting to meet you set via this new thing to explore. But the thing I don't talk much about, which I will today, and it's very, very much about what the design skeleton is about, is how we trying to make every set the same.</v>
+
+00:13:44.380 --> 00:14:06.690
+<v Speaker 1>Because one of the thing that's important to understand is I talk a lot about how Magic is mini games. And to many people there's many ways to play it. But the flip side of that is at its core, Magic is 1 game that has 1 running set of how it works. And that when you sit down and play a game of Magic, we want to make sure that it is a game of magic. It is possible to push it too far.</v>
+
+00:14:07.310 --> 00:14:20.400
+<v Speaker 1>You know, you could come and say, OK, this set, you know, we're not going to have creatures and we're going to, you know, all damage is going to be permanent. And we could constantly change things and just change the fundamentals of how it's going to work.</v>
+
+00:14:22.920 --> 00:14:24.650
+<v Speaker 1>But the,</v>
+
+00:14:25.320 --> 00:14:28.520
+<v Speaker 1>the thing though, is our job is to make things comfortable. So</v>
+
+00:14:30.200 --> 00:14:48.210
+<v Speaker 1>one of the things like in Hollywood, if you're trying to pitch a new product in Hollywood, one of the things that's important is you always want to pitch your product as a combination of two known quantities that will come together to form an unknown quantity. So the idea essentially is</v>
+
+00:14:49.830 --> 00:15:00.850
+<v Speaker 1>like, let's say you have this awesome idea for a movie about a guy who gets taken by aliens and has to fight his way out.</v>
+
+00:15:01.580 --> 00:15:06.580
+<v Speaker 1>OK, so you want to go pitch this to Hollywood, But the problem is</v>
+
+00:15:08.080 --> 00:15:20.110
+<v Speaker 1>that if you just, if in a vacuum, like, oh, that's too weird. You know, I don't know if comfortable with that. But no, what you say is, OK, I have an awesome film. It is Die Hard meets Independence Day.</v>
+
+00:15:20.730 --> 00:15:51.240
+<v Speaker 1>You know, what you've done is said, ohh, well, it the the trappings of the story. It's about a guy who's surrounded by bad guys who has to fight his way out. Ohh, that's die hard. Die hard. It's similar to die hard, you know, and they say, ohh, well, aliens will like, yo, Independence Day, that was super, super popular. And that's all about aliens. And So what you do is you try to take the your unknown quality and put it through known prims prisms. And so it's sort of like, oh, well, diehard was popular, people like that kind of movie. Independence Day was popular. People like that kind of movie</v>
+
+00:15:51.350 --> 00:15:59.220
+<v Speaker 1>and you go ohh I see hmm but you were mixing them. No one's ever mixed Die Hard with aliens before. That might be interesting.</v>
+
+00:16:00.540 --> 00:16:06.720
+<v Speaker 1>And in some ways, when I pitch a magic set, I mean, essentially what we do is</v>
+
+00:16:08.040 --> 00:16:38.000
+<v Speaker 1>it's Gothic horror meets magic, it's Greek mythology meets magic, It's the guilds meet magic, it's adventure world meets magic. That what we do every year is we try to take some known quantity and another known quantity, which is magic. And the fun of it is the interaction. It's like, oh, I know magic. Oh, I know Greek mythology. Oh, how is magic going to do Greek mythology? How are those things going to blend together? You know, and that one of the things that it's very important is that we are always trying to,</v>
+
+00:16:39.880 --> 00:17:08.130
+<v Speaker 1>I mean, I talked about this, obviously my communication theory is that comfort is important that people have to come and know what they're getting into. And so a lot of what we need to do every year is make sure there's consistency. So for example, I just talked about the creatures I get to the spells. So the first thing you'll do in the spells is sometimes you'll break up whether you want enchantments or instance or sources. Usually instant sources are the same thing for the design skeleton at first, that's essentially might break them up in the beginning. Just kind of. Oh this is interesting.</v>
+
+00:17:08.200 --> 00:17:11.380
+<v Speaker 1>Personally this might be an enchantment. Normally a comment enchantments, auras.</v>
+
+00:17:14.750 --> 00:17:39.660
+<v Speaker 1>The other thing that you will do is you will signify established spells that you need. For example, green, a common is going to do a giant growth effect. It's going to do some sort of land fetching. Odds are probably will do some kind of life gain. It'll do some kind of naturalize effect. You know, blue is going to do a hard counterspell and a soft counterspell. Hard counterspell means it can counter anything like counter style or</v>
+
+00:17:41.400 --> 00:18:09.130
+<v Speaker 1>yeah, that's probably just says counter target spell, a soft counter spell. I spelled that, which only effects a narrow band like counter target and chantment or counter target creature or it's conditional, meaning, you know, counterspell unless your point page two. Well, it's not always going to come to this spell. But anyway, Blues have a hard counter and soft counter. It'll have a bounce spell. It'll have card drawing, it'll card filtering. Black will have creature kill. Usually there's a straight up terror effect and there's the fact that a little smaller.</v>
+
+00:18:10.800 --> 00:18:41.170
+<v Speaker 1>And the idea is there's certain things that we always do that we make sure to put those in early on that you signify, Oh, this is this is a giant growth. Now, what do you do early on is that you tend to default like for example, the giant growth usually allocated to an instant early on. Why? Because most are giant growths are instant. But it's possible. Let's say you're doing a set in which there's a strong aura theme. Oh, well, maybe instead of a Giant Growth, I make a + 2 + 2 or plus aura with flash on it.</v>
+
+00:18:41.330 --> 00:19:11.240
+<v Speaker 1>That functions a lot like Giant Growth. I can surprise you. And it's bigger. Ohh. But in Aura world it's permanently bigger rather than just being a temporary effect. So one of the things you do is you sort of start establishing what you want and remember the design skeleton is a living, breathing thing and that it's constantly evolving. You notice there's a theme, images, everything's constantly evolving. That's kind of the nature of the game. And So what you're doing is to use a different metaphor. Today is my</v>
+
+00:19:11.330 --> 00:19:41.720
+<v Speaker 1>different metaphor. Now I'll use my storyboard metaphor. So in Hollywood, let's say you're going to direct a film, you're going to make a film. So what you do before you ever get to touching a camera is you get an artist or multiple artists and you do what's called a storyboard. What a storyboard is, is you figure out all the shots you want to do and you draw them. You have an artist actually physically draw them. By the way, guys, I'm sitting in traffic, look at my clock here. So you guys have an extra long podcast today, which is good because there's a lot that goes into science.</v>
+
+00:19:41.800 --> 00:20:00.950
+<v Speaker 1>And so luckily I picked a topic that can handle some traffic. So every once in a while I pick a topic and then I'm like, don't be like maybe 30 minutes on this. If there's traffic, I'm doomed, doomed. But luckily today not doomed. Like I said, I've written a whole bunch of this. So this is lots, lots, lots about this on Skeleton. OK, so anyway.</v>
+
+00:20:02.750 --> 00:20:08.520
+<v Speaker 1>The idea is as you create stuff, it will evolve with what you're doing that</v>
+
+00:20:10.040 --> 00:20:36.380
+<v Speaker 1>sorry baby, I'm sorry. So if you're a director and you're making a film, you start doing what's doing storyboards, which is you get an artist to draw what you expect to see with the camera. And the reason you do storyboards is so you can map out what's going to happen. Because when you get to actually filming the film, you want to allow the opportunities to you want to be able to do things when you see opportunity. For example, let's say I get to the film and there's a gorgeous sunset</v>
+
+00:20:37.840 --> 00:21:07.860
+<v Speaker 1>to capture the sunset. So you might shift what you're doing. You might change it around a little bit to try to capture that. You know, and remember, the cool thing about doing design is you're not locked into anything. I mean, as you progress, you start committing the things. I guess with time you get locked into things. But early on in design, you have a lot of freedom. And that just because you set out to do something doesn't mean that when you play test, if you find it's not working or you find something even better, that you can't capture that.</v>
+
+00:21:08.320 --> 00:21:23.090
+<v Speaker 1>I mean, I've talked about all the time that design or most creative works is iteration, which means you're gonna keep doing. Essentially, the way you do a Magic set is make a card file, play it, learn from that, make corrections, play again,</v>
+
+00:21:23.880 --> 00:21:53.990
+<v Speaker 1>continue, lather, rinse, repeat that you're basically constantly changing the file, then playing with and seeing what you've learned from it, then making changes based on what you've learned from your play tests, then play testing again. And with the thing that the skeleton does for you is it gives you the structure you need so you can understand what it is you are doing. Because one of the things about building a set is, and this is one of the hardest things is there's a lot of moving pieces. There's a lot going on that</v>
+
+00:21:54.060 --> 00:22:02.650
+<v Speaker 1>it's not like when you build this out, there's just one thing to focus on. There's 20 things to focus on. There's 100 things to focus on. There's tons of things, a lot of moving pieces are happening and</v>
+
+00:22:03.470 --> 00:22:33.310
+<v Speaker 1>what you you need to do in order to see all those moving pieces is you need to track them so that you can understand what's happening. And the thing that's really, really nice about the design skeleton is sometimes it allows you to see where your problems are. So let me give you a real like a concrete example. I think this was from Odyssey. OK so I have my design skeleton and I realize that I've not yet done a giant growth effect but I ran out of non creature</v>
+
+00:22:33.410 --> 00:22:33.790
+<v Speaker 1>files</v>
+
+00:22:35.980 --> 00:22:39.750
+<v Speaker 1>and So what I realized is I said OK I know I need to do a rampant growth</v>
+
+00:22:40.960 --> 00:22:44.060
+<v Speaker 1>and I don't have a spell left. So I said, OK, well what if</v>
+
+00:22:45.110 --> 00:22:50.540
+<v Speaker 1>I made a creature, a cheap creature that you could sacrifice to go get a basic land?</v>
+
+00:22:52.090 --> 00:23:09.700
+<v Speaker 1>And I'm like, OK, well that allows me, you know, you could use it as a creature for as long as you need it, but as soon as you need the land, you can go get the land. And that was like, the reason I sort of was able to solve that problem was I instantly saw my, you know, I had allocated to things with my,</v>
+
+00:23:10.350 --> 00:23:20.410
+<v Speaker 1>my design skeleton. So I understood what, what, what things were doing. Like one of the things is it's very easy when you look at a card in a vacuum and not remember what that card,</v>
+
+00:23:21.010 --> 00:23:22.400
+<v Speaker 1>the purpose in the whole set is.</v>
+
+00:23:23.150 --> 00:23:31.640
+<v Speaker 1>And the design skeleton helps identify things like, ohh, yeah, yes, that's part of this, That's part of this cycle. Ohh, that's another thing we talk about cycles real quick. So</v>
+
+00:23:32.690 --> 00:23:48.320
+<v Speaker 1>cycles are one of the most useful tools for a designer. In fact, one of these days I should probably do a whole podcast on the cycles fact I will I've dubbed I will do that. But anyway, suffice to say, cycles are very important that when you're doing your,</v>
+
+00:23:49.240 --> 00:23:54.380
+<v Speaker 1>when you are doing your design skeleton that you wanna make room in place for the cycles.</v>
+
+00:23:56.120 --> 00:24:14.650
+<v Speaker 1>It also when you signify the cycles, it's very easy to lose track of cycles. Like what happens, it's very common is you'll make a bunch of cards, they'll be a cycle, they'll do something. And later on you're trying to fix some problem and without thinking about it, you change the card because I get a vacuum just seems like whatever, whatever card. And then later, like, ohh, that was part of a cycle.</v>
+
+00:24:15.360 --> 00:24:29.740
+<v Speaker 1>And so it's important that you label things and you have some understanding of where things are so that when you're putting your things together, you can see the moving pieces. Like I said, one of the biggest problems in design is trying to track all the moving pieces.</v>
+
+00:24:30.370 --> 00:24:53.040
+<v Speaker 1>In fact, one of the things I've gotten very, very good at, and like I said, you know, I, I put in, I'm, I'm working on my, I think 20th lead design right now. One of the things that you just get good at with time, with experience, is that I now have a intuitive sense whether it's missing something that I can look at a set and sort of say, oh, here's what's missing.</v>
+
+00:24:54.930 --> 00:24:56.110
+<v Speaker 1>And it's funny because my designers</v>
+
+00:24:56.920 --> 00:25:03.620
+<v Speaker 1>would love to get this ability. So that always like, how do you see that? How do you? And I'm like, it's this experience. You just do it enough that you get a general sense of things.</v>
+
+00:25:07.980 --> 00:25:08.390
+<v Speaker 1>OK,</v>
+
+00:25:09.980 --> 00:25:12.040
+<v Speaker 1>so you have the skeleton</v>
+
+00:25:13.260 --> 00:25:37.500
+<v Speaker 1>and, and basically, by the way, the way we we built that is what we'll do is we'll start by making comments. So why comments? The reason you started comments is, well, first and foremost, when you open a booster pack of magic, on average you will have one land, 10 Commons, 3 in three uncommons, 1 rare, which 1/8 of the time will be a mythic rare. That means that</v>
+
+00:25:38.230 --> 00:25:41.720
+<v Speaker 1>2/3 of your experience of every booster pack is common.</v>
+
+00:25:42.950 --> 00:25:53.490
+<v Speaker 1>That's huge. 66.6% of all experiences of butcher backs and. And that's me counting the lands. Actually the smidgen higher if you discount the land. So anyway, it's a huge part of your experience and</v>
+
+00:25:54.160 --> 00:26:04.600
+<v Speaker 1>if common doesn't hold your set, if your set doesn't live and breathe a common, your audience won't know what it is. I have a dictum. I, I say in my designers, which is if your theme, isn't it common, it's not your theme.</v>
+
+00:26:05.320 --> 00:26:17.370
+<v Speaker 1>And what that means is let's say I do an awesome thing. So like the classic example of this mistake was and championed the Kamigawa where we made we wanted to have a legendary theme. And so we made all our rare legends,</v>
+
+00:26:18.940 --> 00:26:29.230
+<v Speaker 1>all were creatures legendary and we made we made a few uncommon legend creatures and we never ever do. The problem was, how many packs did I have to open to understand that</v>
+
+00:26:31.650 --> 00:26:40.720
+<v Speaker 1>for starters, I only get one Rep per pack. If it wasn't a creature, I'd even see a legendary thing in my back. I mean maybe I got uncommon but you know, I could open a pack and just see nothing.</v>
+
+00:26:41.360 --> 00:26:48.140
+<v Speaker 1>Maybe on my second pack I do get a creature rare and it is legendary, but there is legendary creatures. Ohh, I got a legendary creature,</v>
+
+00:26:48.770 --> 00:26:56.740
+<v Speaker 1>you know, it's not until I open 5 or 6 or something I have to start getting a preponderance of something to go. Ohh this is not normal</v>
+
+00:26:57.600 --> 00:27:19.100
+<v Speaker 1>and the problem is not everybody's going to buy 6-7 packs of your product, or at least not necessarily day one. You know I don't want someone buying my product and opening up multiple boosters and not knowing what the products about that is bad. In fact I want them opening 1 booster in going with the products about. I want the, I want the theme to hit you so quickly that it only takes 1 booster to have a sense of what that is about.</v>
+
+00:27:21.370 --> 00:27:44.940
+<v Speaker 1>Obviously there's a rapper. I mean, there's things that help sell even beyond the cards. But I, I want let, let's assume you're ignoring the book to wrap. I want you to have a sense from the 15 cards you open what the set is about. That means your set has to live and breathe the comments. So the very first thing we do is try to figure out how to make comments work. So normally what we'll do is we'll do design skeleton from the Commons. We'll build the Commons. We play test the Commons</v>
+
+00:27:47.110 --> 00:27:53.870
+<v Speaker 1>and then with time we load. We slowly layer in the uncommon, the rarer, the mythic, so those come with time</v>
+
+00:27:56.030 --> 00:27:57.390
+<v Speaker 1>and the design skeleton.</v>
+
+00:27:59.460 --> 00:28:18.440
+<v Speaker 1>For example, you only need a map or comment before you make a comment. You don't necessarily need to have the whole thing done before you start a comment. In my article Nuts and Bolts I it's just easier to have you do the whole thing to explain it. But in the actual practicality, there's a lot of things that happen concurrently in magic design. I mean it's</v>
+
+00:28:19.320 --> 00:28:29.180
+<v Speaker 1>it is there's not like A then B then C it's kind of like A&amp;B&amp;C are kind of happening at the same time. So why are you doing a? Keep an eye and B and I and C&amp;D might start soon. And</v>
+
+00:28:31.020 --> 00:28:37.860
+<v Speaker 1>there's a, I mean, one of the things about doing design, and This is why having the blueprint, having the design style is so important, is</v>
+
+00:28:38.570 --> 00:28:49.780
+<v Speaker 1>design is chaotic. Chaotic because you have all these different things you're trying to understand and figure out and they're happening in conjunction with each other. So let me give you another important tip.</v>
+
+00:28:50.980 --> 00:28:51.980
+<v Speaker 1>When playtesting,</v>
+
+00:28:52.610 --> 00:28:55.870
+<v Speaker 1>you want to make sure that you're introducing one new thing</v>
+
+00:28:56.640 --> 00:28:57.230
+<v Speaker 1>at a time.</v>
+
+00:28:58.590 --> 00:29:07.840
+<v Speaker 1>Now I'll admit we break that rule all the time, but I think that's just we've been an experience that we can watch multiple things and understand what's going on.</v>
+
+00:29:09.890 --> 00:29:12.890
+<v Speaker 1>Sorry I'm yawning today. Even got sleep last night.</v>
+
+00:29:15.630 --> 00:29:25.370
+<v Speaker 1>And so one of the things that that is very important is because things are going on concurrently. You need to ground yourself to understand what is happening</v>
+
+00:29:26.490 --> 00:29:49.130
+<v Speaker 1>and when you're play testing, it really helps to have one thing to focus on so that you can understand what that one thing is doing. If you have too many new things added in, then you just can't tell when you play test. You know, like I said, the experience I can, I can throw a bunch of things in. I have enough experience that I can sort of separate what's going on. But once again, that takes a lot of time. If you're doing this for the first time,</v>
+
+00:29:50.100 --> 00:29:51.440
+<v Speaker 1>add one thing in at a time,</v>
+
+00:29:52.810 --> 00:29:58.830
+<v Speaker 1>you know? And that it's also when you're play testing. By the way, there's nothing wrong with trying a bunch of versions of something.</v>
+
+00:29:59.600 --> 00:30:05.730
+<v Speaker 1>When we were doing the Landsat was in the car and we were trying out land mechanics, we would throw a whole bunch of mechanics in the set once</v>
+
+00:30:07.540 --> 00:30:26.280
+<v Speaker 1>because we just wanted to experience different things and it's not so important that you even, even if you know you're not going to use them all, you're just trying to experience things. That's another important thing of early play testing, which is the role of early play testing is experiencing things. It is not having a tight wound environment yet.</v>
+
+00:30:26.950 --> 00:30:34.730
+<v Speaker 1>Don't worry necessarily about everything interconnects. Worry about it is each individual card taken in isolation something that's fun and enjoyable to play?</v>
+
+00:30:37.670 --> 00:30:46.280
+<v Speaker 1>See how we doing timewise. Ohh I should be at work but I'm not because of traffic though it's it's moving along now so it shouldn't shouldn't be super late today.</v>
+
+00:30:48.380 --> 00:30:53.990
+<v Speaker 1>It is funny though, my podcast has made me rethink traffic. I now see traffic and I'm like, I'll talk a little longer.</v>
+
+00:30:55.810 --> 00:30:59.630
+<v Speaker 1>It lowers my blood pressure while driving. You see, you guys are good for my health.</v>
+
+00:31:00.320 --> 00:31:00.920
+<v Speaker 1>Umm,</v>
+
+00:31:02.050 --> 00:31:08.040
+<v Speaker 1>I tried to any other key thing on on the design scale 10 The the one thing that I I will stress the people is</v>
+
+00:31:09.630 --> 00:31:14.350
+<v Speaker 1>the detail is fine in making a design skeleton, but be aware</v>
+
+00:31:15.030 --> 00:31:19.510
+<v Speaker 1>there's a difference between what you need and what you want.</v>
+
+00:31:20.680 --> 00:31:34.320
+<v Speaker 1>It is very easy when making a design skeleton to put in things you would like to have rather than things you need. The design skeleton is not about want. The design skeleton is about need. What do you have to have to structurally make the thing work</v>
+
+00:31:35.430 --> 00:31:40.900
+<v Speaker 1>now? It's fine when you're making your SAT to do things you want to do, but the design skeleton is trying to.</v>
+
+00:31:41.820 --> 00:31:45.070
+<v Speaker 1>The point of the design skeleton is what is necessary. Not,</v>
+
+00:31:48.810 --> 00:32:10.250
+<v Speaker 1>I mean, I'm saying this woman, you can have things into design scales that are things you want, but you have to be careful that you understand what are the things you need from the things you want. And so Indesign skeleton, I like to prioritize things you want. I'm sorry, things you need. So I often tell my designers, when they start making their science skeletons early on, talk more about what you need.</v>
+
+00:32:10.900 --> 00:32:27.470
+<v Speaker 1>If you really want to put some conditional stuff in there, put in italics or something. Do something that when you look at it, you know it's secondary to what you're trying to do. Because a lot of what the design skeleton is trying to help you with is figuring out how to prioritize things and what you need to how things need to come together.</v>
+
+00:32:29.490 --> 00:32:53.000
+<v Speaker 1>I mean, the trick is because the game design or magic design is about so many competing forces all happening at once that a lot of what you need to understand is prioritizing. That's a big part of making a sad. It's figuring out what do you need, What is the set need? And one of the reasons I talk about tossing out things that are good but don't fit your set is they're just taking up mind space that you need it elsewhere.</v>
+
+00:32:54.520 --> 00:33:06.380
+<v Speaker 1>If I have a card that is awesome, card that doesn't meet wonderful things, but it's fighting the rest of my set, it's just going to cause me problems. And I need to take it out and free up space so that I can do more things that are helping my set and do what my set wants to do.</v>
+
+00:33:07.240 --> 00:33:11.020
+<v Speaker 1>There's always other side. There's always. If you make an awesome card, it will find a home.</v>
+
+00:33:12.040 --> 00:33:15.960
+<v Speaker 1>If it's something that deserves to be printed, it'll eventually get printed, but that doesn't mean</v>
+
+00:33:16.670 --> 00:33:27.000
+<v Speaker 1>that doesn't mean it goes in the first available place. It can be put that that's how bad design happens because you force things in because of your attachment to the thing and not because of the role of the thing plays in a larger</v>
+
+00:33:27.610 --> 00:33:28.740
+<v Speaker 1>design that you were doing.</v>
+
+00:33:30.530 --> 00:33:59.940
+<v Speaker 1>The other thing about design skeletons is they're not written in ink. They're in intensol. By that I mean you can change them. If you try something that doesn't work, change it. If you're having some problem, it can change. One of the things I've noticed once I tell people to start using design skeletons is they write it and then they assume it's a locked thing and then they get all in trouble and they don't know how to solve the problem. And I'm like, no, no. If you run into a problem, a design skeleton is a guideline, much like</v>
+
+00:34:00.060 --> 00:34:02.900
+<v Speaker 1>if the architect is building a building and there's some,</v>
+
+00:34:03.580 --> 00:34:11.980
+<v Speaker 1>you know, there's a boulder on the side of the hill that they can't dig out. Like, ohh, well, maybe we're changing around the house a little bit to accommodate this thing that we can't change.</v>
+
+00:34:13.270 --> 00:34:15.910
+<v Speaker 1>And design is the same way car designed the same way, which is,</v>
+
+00:34:16.610 --> 00:34:36.200
+<v Speaker 1>you know, sometimes you discover, ohh, I can't do something. It breaks a rule or it causes some interaction that's problematic and I can't do that. Well, go back to Zion skeleton and say, OK, what are my negotiables? What are the things that I need to have? And how can I work around knowing that I can't have this thing I assumed I was going to have?</v>
+
+00:34:40.150 --> 00:34:43.020
+<v Speaker 1>The other thing to remember about our design skeleton is</v>
+
+00:34:44.890 --> 00:34:51.220
+<v Speaker 1>that the design skeleton is a tool, which means as much as you make use of the tool is how useful the tool will be.</v>
+
+00:34:53.340 --> 00:34:58.830
+<v Speaker 1>Different people, you make design skeletons of different amounts. So I've had designers who</v>
+
+00:35:00.380 --> 00:35:31.340
+<v Speaker 1>are super, super, super detailed that they write every possible thing they could think of that almost when you look at their skeleton, it's almost like they've made the card file. It's so this has to be an instant and it costs three mana and it's green and it has to be a naturalizer fact. And, and it has to make use of the new keyword like, well, you've kind of designed your heart right there. Other people on myself As for example, like I don't even actually even use the design skeleton anymore because I've internalized most of it.</v>
+
+00:35:31.800 --> 00:35:50.290
+<v Speaker 1>I like to think I do use a design Skelton, but it's in my head, but it's very, very loose and it's super flexible. A lot of what I do is sort of, I've learned to look at a set and get a sense of what it needs and doesn't need that. I've sort of internalized this process. It takes a long time. So I would stress he's the design skeleton.</v>
+
+00:35:51.830 --> 00:36:00.940
+<v Speaker 1>I never knew this for 18 years. So I I'm able to take a few shortcuts that I think most designers would be I would not advise them taking.</v>
+
+00:36:02.210 --> 00:36:07.540
+<v Speaker 1>So anyway, I'm almost to work the the real point of today is, is this.</v>
+
+00:36:08.720 --> 00:36:14.390
+<v Speaker 1>There's a lot of art to what I do. There's a lot of art to card design, but there's also a lot of craft</v>
+
+00:36:15.440 --> 00:36:16.010
+<v Speaker 1>and that</v>
+
+00:36:16.900 --> 00:36:26.070
+<v Speaker 1>it's fun to talk about the exciting, intuitive, you know, things popping your head moment. But it's also important to understand that</v>
+
+00:36:26.910 --> 00:36:56.920
+<v Speaker 1>there's a lot of work. There's a lot of elbow grease that is not a lot of just sitting around and thinking and go, oh, what's the that's an idea. A lot, a lot of time it's plotting and planning and mapping things out and structuring things. And that there's a lot of technical craft that goes into making card sets and design skeleton is just a sign that like you need to pay attention to that. If you do not pay attention to that, it will come to bite you because there's too many things going on and too many things you have to care about. That without a real strong sense</v>
+
+00:36:57.020 --> 00:37:27.160
+<v Speaker 1>of of a tool to guide you, you will get lost and you will forget things. And the other thing that happens a lot is because there's so many things you're trying to fit in and well, 269 cards might seem like a lot when you're actually trying to do a bunch of complex things, it gets tiny quick. And we talk about getting pinched where at some part of the file you have too many things you need and not enough card slots to do them. And that's a real problem that you run into every</v>
+
+00:37:27.230 --> 00:37:49.080
+<v Speaker 1>final design that you get pinned somewhere. And then it's a matter of figuring out, can I shift those abilities? Can I change them in rarity? Can I change them in color? Is there a way to overlap 2 things that don't normally overlap, like my example before with the creature and the Rampant Growth? Is there a way to, you know, have two things that need to coexist, but overlap them in slots? You know, that's very important.</v>
+
+00:37:50.350 --> 00:37:51.150
+<v Speaker 1>So anyway,</v>
+
+00:37:53.330 --> 00:38:05.800
+<v Speaker 1>design is, like I said today was a little more of a, of a by the by the book sort of podcast where I'm talking about the nitty gritty of what we do. But the nitty gritty is important and that,</v>
+
+00:38:07.150 --> 00:38:25.090
+<v Speaker 1>and by the way, the nitty gritty is fine. I very much enjoy structuring things and I'm a puzzle. I love puzzles and I think a lot of design is trying to crack puzzles and a lot of the puzzle solving is all the groundwork you do with the</v>
+
+00:38:26.520 --> 00:38:32.360
+<v Speaker 1>with your skeleton to figure out. Like a lot of solving puzzles is figuring out all the parameters. And so</v>
+
+00:38:33.740 --> 00:38:53.680
+<v Speaker 1>I think the design skeleton is doing a lot of the homework that that's the way to think of it, that if you wanna do design, you gotta do your homework. Design skeleton is your homework. Luckily, it's very fun homework. So anyway, I love talking about magic and technical design, but even more, I love making magic. So it's time for me to go. I'll talk to you guys next time.</v>
+

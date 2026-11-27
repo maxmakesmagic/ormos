@@ -1,0 +1,230 @@
+WEBVTT
+
+00:00:02.000 --> 00:00:07.040
+<v Speaker 1>OK, porn on the driveway so we know what that means. It's time for Drive to work.</v>
+
+00:00:07.920 --> 00:00:38.670
+<v Speaker 1>OK, today's show I thought I would try I I keep experimenting with this podcast because I've never done this before and I'm trying to do a different topics. Early on I was doing a lot of of sets I've worked on, but I realized pretty quickly that while I worked on a lot, I would run out of them. So I've been trying to expand. So today I'm going to try something different. I'm going to talk about a mechanic today I'm going to talk about cycling. So why did I pick cycling? Well, for starters, it is mechanic we've used more than any other</v>
+
+00:00:38.750 --> 00:01:01.140
+<v Speaker 1>can't. I mean, barring Evergreen mechanics, it is the, you know, the mechanics that we brought back the motion number of times. And so it's an interesting mechanic. It's interesting to design for. So I thought I'd talk a little bit about history of the mechanic and then I talk about sort of how we design for it. Mostly what I want, I'm hoping today to be is talk about kind of the evolution of a mechanic and talk about how</v>
+
+00:01:02.330 --> 00:01:31.990
+<v Speaker 1>Once Upon a time, when magic first began, we tend to think of mechanics as disposable things like you'd have mechanic to use it up, throw it away, done. And eventually what we we got to the conclusion of, OK, that's kind of dumb. Like these are just, I mean, not all mechanics necessarily want to be repeated, But when we get a good mechanic that we think there's, you know, a lot of design space for why wouldn't we want to do it again? And we started thinking the more of of tools, you know that for certain job you need certain tools and that cycling has a nice</v>
+
+00:01:32.500 --> 00:02:03.110
+<v Speaker 1>and it has a nice roll it plays. And so a lot of sets really can use cycling. So anyway, let me start with the history of cycling and they'll talk about sort of its functions. So trivia question, who designed cycling done. The answer is Richard Garfield for what set was cycling design for the answer Tempest, yes. So what happened was I talked about this in my podcast on Tempest. Richard had not done any design since Arabian Nights.</v>
+
+00:02:03.420 --> 00:02:33.390
+<v Speaker 1>Umm, And my quest to become a designer, I got Richard to agree to be on Tempest. And so one of the things that was fun for Tempest was Mike Elliot and I, who had never been on a design team, were just pouring out design ideas we've had. And Richard, who had designed for a couple of years, had pent up a bunch of ideas. So one of the ideas he had was for a couple cards with cycling on them, I think, by the way, I think he actually called them cycling. If not cycling, it might have called sliding, but I believe we actually called the cycling.</v>
+
+00:02:33.470 --> 00:03:03.280
+<v Speaker 1>The name never changed. And in Tempest design it was just on a couple of cards. I think that Richard's idea was originally was they just went on the cards that were cards you didn't need all the time. They were cards that were, you know, narrow cards. So that if, you know, you put in your deck and didn't need it. I think the very first one he made went on Tranquility. So the idea is, well, sometimes you want tranquility, but sometimes it's useless to you. And so I think what Richard really liked with the idea of cycling is just,</v>
+
+00:03:03.470 --> 00:03:11.310
+<v Speaker 1>ohh, well here's the card that's sometimes card and then if you don't need it, you can just trade it in for another card. And so it's it started there.</v>
+
+00:03:12.500 --> 00:03:42.910
+<v Speaker 1>I think cycling 2 was at the time we had kind of come the conclusion that cantrips and cost 2, meaning if you get a card over and above the cost of the card was about two. And so somehow in our minds at the time like 2 equal to card. Is there anyway Richard made my memory is like two or three cards a Tempest design. When I hand it over the file had cycling in it and it was just on a couple of cards. I think it was keyworded just cause,</v>
+
+00:03:43.170 --> 00:03:59.280
+<v Speaker 1>um, I tend to like to keyword things and so I, a lot of times in file, sometimes I'll keyboard things, especially back in the day, even if they didn't need the keyword, just to kind of show people they were connected. I still do that in design now so that people can recognize the connection between things.</v>
+
+00:04:00.650 --> 00:04:30.810
+<v Speaker 1>Yeah. And we're a little more likely the keyword than we once were in the actual release product. Once Upon a time, we we, you know, each set had two keywords, and so only two things could be keyworded. But in design, I always like to identify things anyway. I'm pretty sure it was identified in the design file, but in my head was it wasn't going to be something that was going to be a keyword. It's just going to be something on a couple of cards. So one of the notes that I got on Tempest design from development was there's too much in it because the design team all were just dying to make</v>
+
+00:04:30.880 --> 00:05:01.060
+<v Speaker 1>things. And so we we stuffed to the gills. It had lots of stuff going on. And in fact, not only with cycling in Tempest design, Echo was intended design and both abilities got taken out. And then Mike Elliott, who did Urza's Saga the next year, use both of them. And so both of the ears aside, your keyword mechanics were actually from Tempest design. Elliott had made Echo and Richard had made cycling. OK, so cycling shows up for the first time in Urza Saga. So we did something interesting</v>
+
+00:05:01.140 --> 00:05:27.570
+<v Speaker 1>cycling. I, I'd like to believe at the time we understood that it was a deep mechanic, like maybe in the back of our heads would kind of got it was something that there was more because we did something very interesting in in our saga, which is we did cycling too. The only cycling you saw was cycling 2. I remember the time people asked us because, you know, it was cycling too. But every single card cycling 2. Why do we bother putting the two? Why don't I just call it cycling and cycling cycle for two?</v>
+
+00:05:29.070 --> 00:05:59.020
+<v Speaker 1>I think the answer is we knew that cycling was a pretty deep mechanic. And let me answer this. I get asked this question all the time, so I might as well answer it now, which is how do we know of mechanic is a a shallow or deep mechanic? I know recently I've been talking a bit and my column about overload. And one of my comments is that overload is a lot shallower mechanic than it looks. There's not as many cars that you can make with it as you think. And the answer has to do with a couple things. First is how many different kinds of cards can you put in mechanic</v>
+
+00:05:59.550 --> 00:06:29.100
+<v Speaker 1>like cycling is beautiful and that any cardigan of cycling it doesn't matter instant sorceries and chapmans artifacts, land creatures, obviously anything could have cycling so that increases because it can go in any car. Second is kind of what needs does it have, you know, for example, overload has to have a targeted effect that hits one thing that you would want to pay extra to hit many things, you know, and that that is a much narrower subset. Cycling. Well,</v>
+
+00:06:29.180 --> 00:06:33.570
+<v Speaker 1>cycling kind of wants to be on something that you would,</v>
+
+00:06:34.330 --> 00:07:04.640
+<v Speaker 1>um, want to cycle. So putting cycling on cars that you really don't want to get rid of is not ideal. But other than that, you know, cycling is pretty useful because one of the neat things about cycling is a lot of times early in the game, it's like, I need land. You know, I have my 2, I got 2 landsman open hand. I'm not seeing land. OK, well, I'm willing to throw away whatever this is to get more chances to get land because they don't get land. I'm going to lose the game. So cycling is as much flexibility. So big part is how many things can go on,</v>
+
+00:07:04.740 --> 00:07:22.260
+<v Speaker 1>how narrow are the facts? It happens. Um, and then also like can a goat common, you know, cycling is a good card in that it's a simple can go common. If you can't go common, they're just less things you can do. And how many of the card In maths, some mechanics have a threshold to them. And so,</v>
+
+00:07:22.940 --> 00:07:23.760
+<v Speaker 1>you know, they get</v>
+
+00:07:24.420 --> 00:07:25.040
+<v Speaker 1>it. Uh,</v>
+
+00:07:26.020 --> 00:07:56.130
+<v Speaker 1>you don't have, you don't have so much because you don't want to have too much in your set. But cycling, yeah, you can have a bunch of cycling cars. It doesn't, particularly when we get to talk about integration of it. But you know, another big thing is how many can you have? How many can a duck have? And that things that way too heavy make it hard to do that. But anyway, cycling plays well on all these, right? You can go in any card. It's affecting on most effects, you know, it, it, it doesn't weigh against itself. So if you, if people get a lot of cycling cards unlimited, it's not a problem, you know,</v>
+
+00:07:56.540 --> 00:08:07.840
+<v Speaker 1>but it's not linear like I said, until we get on flights, not linear like you know, have as many as you want. So anyway, we put cycling into Urza Saga. We made them all cycling 2</v>
+
+00:08:08.800 --> 00:08:38.740
+<v Speaker 1>experimented better. We gotta land cycle. You know, we, we put her on a lot of different kinds of cards. But and essentially in the first time we used it, it was mostly the way Richard had used it in Tempest design, which was let's take cards that you might not always want and then you can cycle them away. Now, The funny thing is we made it. We made a few errors. The classic error was horrible. My card names. There was a terror. Yeah, a dark banishing that you could cycle away. And the problem there was</v>
+
+00:08:38.810 --> 00:09:10.030
+<v Speaker 1>that limit is like when you cycling away a kill card, when you go, you know what I want instead of this kill card, another card. Now look, if you're tight on land or late game where you somehow need to answer that, that's not going to solve. I mean, I'm not saying there's never situations recycled away, but one of the things we learned from doing cycling in or the saga was you have to be careful of that. Putting on a car that people don't want to cycle away, even if sometimes they're supposed to do it just makes bad feeling. And that you kind of want to put on cards for people.</v>
+
+00:09:10.120 --> 00:09:26.760
+<v Speaker 1>Like sometimes I honestly want to cycle it away, you know, and not in weird circumstances, but normally they might want to go away. It's I got away. So anyway, we did cycling, we put it all three sets done. OK, flash forward, I don't know how much later, 3-4 years later</v>
+
+00:09:28.230 --> 00:09:35.260
+<v Speaker 1>and we are working on Onslaught. So one of the things that cycling does is</v>
+
+00:09:36.130 --> 00:10:06.110
+<v Speaker 1>one of the things that we like in design is what we call manna smoothing, which says mana is a big part of the game. And we want to make sure that we help players who are knowledgeable understand how to help themselves with manna so that they can, for example, you know, allow people to push how much land they play. So when they get extra land, there's a use for that extra land. You know that the manna could be used in some way or sometimes</v>
+
+00:10:06.430 --> 00:10:37.330
+<v Speaker 1>like with cycling the mechanic itself, it helps get you to land. So if you're land light, something can get you to the land. And so that's moving is something in which every set we want to have some tool for the experienced player to help mitigate a little bit the Manor system. And one of these podcasts, I'll talk about the manner system. It is a much maligned thing that I I think does so much good that people just don't quite understand. But anyway, that's another podcast. But I do recognize that we do want to do some</v>
+
+00:10:37.510 --> 00:10:53.410
+<v Speaker 1>smoothing. So we were working on slot and we were trying to come up with we needed one more mechanic. And I remember the time the notes was we want a cycling like mechanic. So here's a little story, nothing to do with magic, but</v>
+
+00:10:54.770 --> 00:11:24.710
+<v Speaker 1>it kind of the thing that inspired me here. So there's a very famous story where Woody Allen, the director, was casting a movie. And so in the script he put a Daryl Hannah like star because he was trying to sort of evoke something and he wanted to give people an idea of what he was trying to evoke. So Daryl Hannah sees this and then comes and says, how about me? I'm a Daryl Hannah like star. And they ended up using her. She just has a cameo and I forget what movie did</v>
+
+00:11:24.790 --> 00:11:54.660
+<v Speaker 1>I want one of his like mid mid movies. And the same kind of thing happened for me, which is what we want mechanical like cycling. And so I said, how about cycling? Cycling is like cycling at the time. We never we never reused a named mechanic. We had reused unnamed mechanics like pitch cards. We had redone and obviously cycling. But pretty much if it was a keyword mechanic, either we had ever dreamed it or we never reused it again. And I was saying, well, how about we brought it back like,</v>
+
+00:11:54.790 --> 00:12:25.290
+<v Speaker 1>you know, because I was really into the idea of, look, these are tools when we need them, use them. We had to use them for a while, Hey, just bring it back. Cycling does the job. And the response was, ohh, we kind of done before. So I said, well, but I think we could do something different with it. And so the response was, OK, you show us something different with it, you know, and maybe we'll consider it. So first I came back and said, OK, well, obviously we did cycling too. We could just do, you know, cycling for other costs, especially we recycling for mana costs. And I suggested the idea of</v>
+
+00:12:25.380 --> 00:12:35.720
+<v Speaker 1>you have a land cycle instead of cycling for two cycles for C of that color. So the idea is if I have too many swamps, well, I could cycle it, like cycle it away because I don't need this color.</v>
+
+00:12:37.670 --> 00:12:50.060
+<v Speaker 1>And they said, OK, well, that's interesting. But that's that's not really different enough. And then I said, ohh, OK, how about if there were things that cared about cycling?</v>
+
+00:12:50.880 --> 00:13:14.460
+<v Speaker 1>And they said, tell us more. So I made the card lightning rift. And The funny thing is, I, I joke now that you know, the whenever you do thing X do do 2 damage and become almost a staple of, of a lot of sets. But this was the first time we had ever done it. And the idea was, OK, well, here's the card that looks at cycling goes whenever something cycles. OK, I can do damage</v>
+
+00:13:15.990 --> 00:13:18.870
+<v Speaker 1>and I think my original version there wasn't mana tied to it.</v>
+
+00:13:20.940 --> 00:13:49.050
+<v Speaker 1>But anyway, the they saw that and they go, that's interesting. And then I pitched the idea of what if there were cards that when you cycle them did a smaller version of the effect. So it wasn't nothing, but the idea was Cargado big effect. Or you could cycle it, get the card and do small effect. So kind of turn the card into a split card. I joked that all all cards are essentially kickers foot cards</v>
+
+00:13:50.390 --> 00:14:21.020
+<v Speaker 1>and in some ways cycling was this this kicker card that I turned into a card. And so the idea. So anyway, I picked a couple different ways to do it and I think they said, OK, well, those seem different and cycling seems like it would do good things here. And so I got them to agree to put cycling Donzelot and during on slot block. I mean, we definitely messed around with different costs. There's still mana cost and although I guess near the end of the block we didn't mess around</v>
+
+00:14:21.110 --> 00:14:29.090
+<v Speaker 1>with life costs. To me that's OK, so I my memory plays. But anyway, we mess around with mana costs, we messed around with</v>
+
+00:14:31.010 --> 00:14:42.500
+<v Speaker 1>with small cycling triggers, we messed around with things that cared about cycling. And then the funny story is that the end of the block</v>
+
+00:14:44.180 --> 00:14:45.220
+<v Speaker 1>they uh,</v>
+
+00:14:45.900 --> 00:14:58.250
+<v Speaker 1>So what had happened during Urza saga was, um, I had done a variant on cycling in Earth's destiny the what I called from play cycling. And the idea was</v>
+
+00:15:00.140 --> 00:15:30.070
+<v Speaker 1>normally cycling is in your hand. If you don't need it, you can spend 2, you lose the card and then you replace it by driving a car. And so the idea in the side was, well, let's apply that to things in play. And so I have this card in play and I pay 2 and I lose the card. I sack it since it's in play. And then I get to draw card. And I thought it was very clever and it came out and nobody saw it as cycling, just nobody even thought of it as cycling. And I would like write articles done about cycling from playing people like, Oh yeah.</v>
+
+00:15:30.160 --> 00:15:47.090
+<v Speaker 1>Ohh yeah, I never saw that, you know. So anyway, Brian Tinsman is was in charge of Scourge. And so he came up with this mechanic where you could take a card in your hand and you could get rid of it to go get us a particular basic land. So you had a red creature that if you needed a mountain, you could trade it again, a mountain.</v>
+
+00:15:47.750 --> 00:16:18.240
+<v Speaker 1>And so I said to him, I said, so it's like cycling, but you can get a mountain. And he goes, yeah, I go, well, why don't you just call it mountain cycling? And Branson, why? Why would we need to do that? Because this way it'll sound like a new mechanic. I go, well, yeah, but we have a set in which you give up cards in your hand and you go get cards in your library and there's other cards that care that you've done that. Like, it seems like let's integrate it. And then I told the story of the cycling from playing. I'm like, you know, I feel like,</v>
+
+00:16:18.410 --> 00:16:41.730
+<v Speaker 1>you know, this is supposed to connect to that people won't see the connection. And that one of the things I've learned is sometimes you have to be a little not so subtle. You gotta be blunt. And so I convinced him to name it, you know, blank cycling. And he ended up doing it. So that was another thing we sort of evolved. And that said, Oh well, now just rather than cycling for a car to the top of the library now, maybe go get something.</v>
+
+00:16:43.980 --> 00:17:13.070
+<v Speaker 1>Anyway, let's flash forward to the next time. Uh, so the next time we used it was in time spiral. Now time spiral didn't use it all that much. In fact, it appears once there's a swamp cycler on the time shift to cheat and then all the other cars, there's only 6. I think we're in future site. I used it in a couple ways. Future site 1 was I did this thing called mix and match where I would take mechanics and put them with other mechanics and then have the two of them work together. In fact, by the way, I, I jumped ahead. They actually is.</v>
+
+00:17:13.320 --> 00:17:43.140
+<v Speaker 1>England shows up in four blocks, but it shows up once not in those four blocks. And the answer is it shows up in Unhinged. Mark Gottlieb had made a card called Blast from the Past and Old Fogey and Blast from the Past just was a burn spell that used every mechanic that picked maybe you'd want on a burn spell. And so one of the ones on it was cycling. And that card inspired in Future Sight the mix and match cards,</v>
+
+00:17:43.330 --> 00:18:13.650
+<v Speaker 1>because when I wrote the FAQ for Unhinge, I sort of took all the different things that said, what happens when this mechanic means that mechanic, it's good? When this mechanic, that mechanic, it's good, this mechanic, mechanic not so good, you know. And I realized it was fun. That was fun to just kind of take mechanics from all over and mix them together. And because somehow in back of my head I wanted to decide to be the most complicated set of all time, I said, hey, let's go take some mechanics and mix and match them. So there's mechanics from all over Magic and cycling hadn't even appeared until another than on the time</v>
+
+00:18:13.730 --> 00:18:30.340
+<v Speaker 1>receive in the block. But I used it in future site. Also, I took advantage of the, you know, the mountain cycling kind of stuff to to hint in the future. And I think I had all of the wizard cycling that is always like like cycling. We go get a wizard</v>
+
+00:18:31.830 --> 00:18:48.330
+<v Speaker 1>and slivers, dynamic sliver cycling, Sliver cycling might. Anyway, I definitely in Time Spiral sort of up to a little bit mixed and matched. It sort of showed kind of where you could go with cycling. Since I recognize the cycling was something that had a lot of still potential in it. That was me kind of demonstrate where we could go.</v>
+
+00:18:49.070 --> 00:19:05.680
+<v Speaker 1>Umm, OK, so the last, the last block thus far then it's cycling in it which shards of Alara. So shards of Alara, which designed by Bill Rose, the VP of R&amp;D. And so Bill knew that he wanted to do a three color set</v>
+
+00:19:07.080 --> 00:19:37.540
+<v Speaker 1>and Bill was very concerned. Bill was definitely designer. That is very structural. And so Bill wanted to make sure that, you know, we've built into it means by which to make sure you can play your cards. And so one of the ideas that Bill had and very early was let's bring cycling back. He felt like cycling the now just cycling. We went cycling back and we could bring, you know, land cycling back, mount cycling 4 second such. And then they came up with the idea of</v>
+
+00:19:37.610 --> 00:19:56.550
+<v Speaker 1>basic land cycling. So the idea of here's Carson go get you whatever, whatever basic land you need. And so that was in very early. And I mean, cause charging a lot went through all sorts of changes, but cycling was one of the first things in the set. In fact, it might be the first mechanic that was in the set and it stayed all the way through.</v>
+
+00:19:58.240 --> 00:20:06.790
+<v Speaker 1>And once again, I mean, I think basic land cycling was really the only innovation on cycling in that block. Once again, I might be forgetting something, but.</v>
+
+00:20:08.250 --> 00:20:37.960
+<v Speaker 1>I mean, I there wasn't any giant leap. I mean time spirit hinted at places we could go, but we we we really in time spiral. I'm sorry, in charge a lot. We really didn't. And I think the reason was that so in in asset, there are there's what I call the marquee mechanic and there's supporting mechanics and the role of the marquee mechanic is to sell the saddest to go. Hey, look at this thing. Ooh, La La, this is exciting. And the support of mechanics are like they make it run, they make it work.</v>
+
+00:20:38.740 --> 00:21:08.300
+<v Speaker 1>And one of the things is important is to understand, is your mechanic a marquee mechanic or is it just the support mechanic? Because you make different choices in how you use mechanic. It's the marquee mechanic. You are definitely making some extra splashy cards and you're trying to sort of make cards that you can preview and that some of that really will excite people where the support mechanic, that's not his job. His job is to get in, get out and do what needs to get done and make it play well. And when you bring back mechanics, usually there's support mechanics.</v>
+
+00:21:08.500 --> 00:21:38.790
+<v Speaker 1>I mean that always if people really like something and you haven't had it for a while, sometimes the return of a really popular mechanic. The example for example is industry that had double faced cards. That was a giant thing, obviously very splashy. Now when we bring it back, and we're not bring back anytime soon by the way, but when we bring it back, and I know one day we will, that was a pretty high profile thing. It will be a high profile thing when it comes back so fast. Well, that might be a marquee mechanic, but cycling, this was the 4th</v>
+
+00:21:38.860 --> 00:21:51.080
+<v Speaker 1>family cycling builds purpose of putting it in this. That was really a support means like I want people to do this cool thing and I just need to make sure they have a way to do that. And so</v>
+
+00:21:52.080 --> 00:22:01.110
+<v Speaker 1>it really was a support mechanic. And like I said, support mechanics aren't meant to draw attention to themselves. They're meant to make the game play well.</v>
+
+00:22:02.520 --> 00:22:32.330
+<v Speaker 1>And it's possible like in order for cycling to be a marquee mechanic, we would have to do something pretty crazy with it and go cycling back. But man, look at what we're doing with cycling. And the reason I don't think we're gonna go all that far is one of the things that I've learned over time is I like for mechanics to have their space. And the reality is you can stretch mechanics to do what other mechanics do you know, kick out essentially. And one of my big flaws to me have kicker is a kind of can do anything and that</v>
+
+00:22:33.400 --> 00:22:50.690
+<v Speaker 1>I want to do something new and people go, oh, that's just kicker. You know, I want to build something new. And, and, and so we tend to sort of figure out what mechanic does well and then isolated that mechanic there and how to do that thing. And cycling, each mechanic has an identity to it. And so I feel the identity for cycling is all about sort of</v>
+
+00:22:51.600 --> 00:23:21.370
+<v Speaker 1>opting out of saying, you know, often imagine you're like, ohh, I wish I didn't have this card. And that's what cycling really is. That's what Richard, I think at. I think most mechanics, when you get down to the root is recognizing some moment that happens normally in games where players go, I wish this and go, ohh, well, this mechanic is going to let you get your wish. And there's plenty of times where I think, you know, you draw, let's say, a really expensive car and, you know, you just don't have the man. You're like, ohh,</v>
+
+00:23:21.500 --> 00:23:51.220
+<v Speaker 1>why is this in my hand? I can't use this man, if this was just another card, you know, and I think that mentality it is exactly, I'm sure Richard probably just have that happen one game and said, ohh, yeah, OK, let's let's answer that. You know, and I The funny thing for me is a lot of mechanics that I've made have been exactly that. I mean, flashback was just me going, wouldn't it be cool if, you know, I could reuse my spell, you know, I could cast it, then take out the grand, cast it again. And that I think</v>
+
+00:23:52.760 --> 00:24:11.570
+<v Speaker 1>that that cycling, one of the reasons is it is it's such a good mechanic is A, it has it answers this natural desire of the game and B, it is just very, very versatile. It has a lot of design space and it does its job. Here's another thing that I think is important to understand is</v>
+
+00:24:13.300 --> 00:24:42.730
+<v Speaker 1>you talking about lenticular design, which means that it's good. It's good for the game if you can find ways to get things that are complicated but covered by something that is simple, so that the beginning player can't see the complexity and the advanced player can see the complexity. And I think cycling has a very lenticular quality to it, which is understanding when you're supposed to get rid of a cycling card is actually very complex</v>
+
+00:24:43.220 --> 00:25:12.980
+<v Speaker 1>that many times there's obvious decisions, right? Like I'm land shy and I need my land. OK, that that's not that hard to figure out. But a lot of other times it's like, ohh, I've mapped out, I've mapped out where I'm going. I understand the board state, you know, what a random card is better than this card. And understanding when that is done, when that is not actually the very complex thing. But for the beginning player, it's very simple, you know, and, and it's simple in two ways. One is the actual mechanics are simple. I got it. I take this, I throw it away.</v>
+
+00:25:13.230 --> 00:25:43.410
+<v Speaker 1>You spend 2 mana for this way or spent whatever amount of man I am, throw this away and then I get a new card. OK, the functionality, but also understanding why you would do it, you know, I'm saying, and that a lesser player could think of reasons why. Oh, I see why I wouldn't want this, you know, and, and they can imagine why they would do it. And that that makes for a nice simple mechanic. You understand what it does, you understand why you would do it. And cycling does both those things. But cycling does this other thing which is nice in which that there's a rolling amount</v>
+
+00:25:43.490 --> 00:26:13.460
+<v Speaker 1>understanding of when to use the mechanic. You know, like buyback, for example, was another interesting mechanic where, you know, a lot of times inexperienced player doesn't want to give up options. And so whenever there's extra options like buy back or like kicker, they are reticent to use the card until they get the extra amount, which is fine by the way. They still have their fun. They get to do what they want with the card. But the better player goes, ohh, the role here is not always to use it. The role is to figure out when it is right to use it and when it's not to use it, you know?</v>
+
+00:26:13.560 --> 00:26:23.930
+<v Speaker 1>In fact, I used to joke that like, if you're playing cycling correctly, you know at the end of the game you should never have in your hand, right? You should figure out the exact time when I shouldn't be cycling it back this time because I don't need it anymore</v>
+
+00:26:25.240 --> 00:26:55.270
+<v Speaker 1>and the second sorry, bye back. So cycling II cycling to me is one of the perfect mechanics. I mean, I've not Evergreen. It might be one of the most perfect not every mechanics we've ever made because it's simple, yet it has complexity built into it that you know it is it helps smooth mana, which is important part of the game. You know, it helped create a nice dramatic moment. Like one of the things I talk a lot about is randomness is good for the for games in general that</v>
+
+00:26:55.360 --> 00:27:04.950
+<v Speaker 1>you want exciting moments, you want moments where you don't know what's going to happen, you know, and I'm not against there's plenty of games in which, you know, there's not a lot of randomness. But I, I think that</v>
+
+00:27:05.810 --> 00:27:24.020
+<v Speaker 1>part of what makes Games fun is not always knowing what's going to happen. And cycling, in addition to everything else I'm talking about, also has this wonderful thing of, I don't know what I'm getting when I trade it in. I get a little surprised every time I use the mechanic. Oh, there's a little moment of, oh, what am I getting? You know, And I feel like that's another important part of the mechanic.</v>
+
+00:27:25.470 --> 00:27:56.520
+<v Speaker 1>That is one of the reasons I I think it's in some ways the perfect mechanic is it does so many things so well, but like so subtly, you know, like the randomness is subtle because players anticipate and expect an unknown quality when drawing, so they don't think about that as being random. You know, it has this nice complexity, but it's buried so that you don't quite realize how complex it is. You know, it's moves, man on. It does all this wonderful stuff. But anyway, I I'm driving up to work right now, so it is time to wrap up here. But hopefully today I just was hoping to like</v>
+
+00:27:56.590 --> 00:28:26.630
+<v Speaker 1>gonna walk you through and say, hey, you know, mechanics are tools. As a designer, you want to understand your tools. You know that in some ways the cycling is, I don't know whether it's the screwdriver or the hammer or whatever, it's a useful tool in magic and the designer trying to make use of it whenever we can. I mean, not too much, but you know, it's a mechanic that if you say, well, cycling me back, of course, I mean, cycling will be back to the end of time and we will always try to find new ways and different things to do with it.</v>
+
+00:28:26.720 --> 00:28:39.570
+<v Speaker 1>But you know, it's in some ways it's the perfect mechanic. So I'm always happy to use it. Anyway, I'm here at Wizards, so it is time to wrap this up. So thank you very much for joining me today. It's time to go make some Magic cards.</v>
+
