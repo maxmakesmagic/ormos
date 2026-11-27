@@ -1,0 +1,404 @@
+WEBVTT
+
+00:00:00.710 --> 00:00:06.250
+<v Speaker 1>I'm planning my driveway. We all know what that means. It's time for another drive to work.</v>
+
+00:00:07.040 --> 00:00:07.590
+<v Speaker 1>OK,</v>
+
+00:00:08.290 --> 00:00:25.400
+<v Speaker 1>I've got for today I would do something a little different. I thought it might be neat because I I often talk about things in big picture and I want to get down to the nitty gritty. I thought be neat to take one card, just one Magic card and talk about all that went into that single Magic card.</v>
+
+00:00:26.810 --> 00:00:27.260
+<v Speaker 1>And</v>
+
+00:00:27.990 --> 00:00:38.970
+<v Speaker 1>I decided to choose one of my, well, maybe my all time favorite card, which for personal reasons you will understand quickly. I'm going to talk today about the card Morrow.</v>
+
+00:00:40.460 --> 00:00:40.970
+<v Speaker 1>OK,</v>
+
+00:00:42.030 --> 00:00:42.920
+<v Speaker 1>so</v>
+
+00:00:43.580 --> 00:00:48.910
+<v Speaker 1>let's go back in the Wayback Machine to 1996</v>
+
+00:00:50.090 --> 00:00:52.500
+<v Speaker 1>or actually it might be in 1995.</v>
+
+00:00:53.610 --> 00:00:56.240
+<v Speaker 1>So I guess early 96 lbs when we started.</v>
+
+00:00:58.850 --> 00:01:01.870
+<v Speaker 1>I love when I try to figure out dates. Anyway, 9596,</v>
+
+00:01:02.890 --> 00:01:25.760
+<v Speaker 1>here's how you tell. I'm doing this live. I'm trying to think up as I drive. Anyway, very shortly after I first got to Wizards, the very, very first team I worked on was alliances. That was the first development team I worked on. But that was a whole bunch of people. And I was in there the tail end of it. And you know, probably my biggest influence was changing the name of force of will to force the will.</v>
+
+00:01:27.070 --> 00:01:28.650
+<v Speaker 1>So I,</v>
+
+00:01:29.720 --> 00:01:59.350
+<v Speaker 1>the first step that I feel like I the first development team that had a much, much bigger influence on was Mirage. What had happened was Bill Rose and William Jockish and I had had just recently been hired and then Mike Elliott got hired shortly after that. And the four of us were the development team. We were the magic R&amp;D guys and thus we were the development team for the set. So what happened was we delve right in and we started doing development on the set. So at some point along the way,</v>
+
+00:01:59.660 --> 00:02:14.750
+<v Speaker 1>there was a whole created. So one of the things that happens in development is so design carefully crafts us at. They make comments, they make uncommons and make rares. Now they make mythic rares. Back then we didn't have them, but</v>
+
+00:02:15.610 --> 00:02:21.080
+<v Speaker 1>and they play test and they iterate and they finally get a file they're very happy with and they hand it over to development.</v>
+
+00:02:22.320 --> 00:02:50.770
+<v Speaker 1>Now development is a new set of eyes and with development does is it just says, OK, we assume nothing. And they look at the look at the set on its own merits and without a lot of the preconceptions that the other team had, the design team had that you get attached to things when you when you're a designer and you design things, you, you just get emotionally attached. And most of the time a lot of the things you're most attached to are the correct calls. But sometimes you get blind to things just because you really have an affection for something. And</v>
+
+00:02:51.860 --> 00:03:22.420
+<v Speaker 1>for example, one of the things they teach you in writing classes is the importance of they call it killing your babies, which is a little graphic. But the idea is you might write something and that thing is the most awesome thing in the world. But if it doesn't serve larger story, you got to be able to get rid of it. Like when my film writing classes, like, you know, the teacher would say, here's you have a scene and it's a brilliant scene, might be the funniest scene you've ever written. But does it advance the plot? Does it does it define characters? Does it do something</v>
+
+00:03:22.490 --> 00:03:30.390
+<v Speaker 1>the story needs? Can in the film can take out the scene and be just fine or maybe even better than it's gotta go, no matter how good it is.</v>
+
+00:03:31.630 --> 00:03:47.390
+<v Speaker 1>And so the same is true in car design, which is sometimes you make a card and this is the most awesome card and the most awesome card. But that doesn't mean that just because in a vacuum it's a super awesome card that that's something you're supposed to be.</v>
+
+00:03:49.380 --> 00:03:55.010
+<v Speaker 1>It's not supposed to stay in the set just because it's awesome in isolation. You know, it's something that you have to,</v>
+
+00:03:57.550 --> 00:04:05.100
+<v Speaker 1>it's something that you have to, it has to serve the set. That's the important thing. It has to serve the set. And so.</v>
+
+00:04:06.660 --> 00:04:28.240
+<v Speaker 1>And then to be fair, this is this is a hard concept I know from beginning designers, which is you finally, you finally got on a set and you were so excited. You are so excited to make cards. And then you make a card and it's the best card you ever made. It's an awesome card. It's a thing of beauty. When people see it, tears will come to their eyes. It's so awesome. And then your leader does. Yeah, it doesn't work.</v>
+
+00:04:28.920 --> 00:04:34.670
+<v Speaker 1>And like why? It's so awesome and it's like, ohh, yeah, it's a great card, but it's not serving the set.</v>
+
+00:04:35.370 --> 00:05:05.810
+<v Speaker 1>And then you get with with experience doing design is Magic is a hungry beast. If you have awesome cards, they will find a home. And that doesn't mean right away there's have cards that it took me 10 years to find home for, but they eventually did find a home that if you have something awesome, it'll and I mean you need someone there sort of championing it, but eventually we'll get in and you kind of learned that the sets are more important. One of the things in general, this is true of writing. This is true of</v>
+
+00:05:05.920 --> 00:05:08.450
+<v Speaker 1>any creative art in general. I guess is</v>
+
+00:05:10.710 --> 00:05:14.720
+<v Speaker 1>so the the same guy? This is from writing, but you can extrapolate which is</v>
+
+00:05:16.260 --> 00:05:32.450
+<v Speaker 1>the paragraph is more important than this or sorry, the sentence is more important than the word. The paragraph is more important than the sentence. The page is more important than the paragraph. The chapter is more important than the page. The book is more important than the chapter</v>
+
+00:05:33.270 --> 00:05:47.360
+<v Speaker 1>and just driving home that everything needs to be served the thing above it, and that if you're trying to make an awesome book or an awesome card set, you know that you have to be willing to serve the thing you need anyway.</v>
+
+00:05:48.500 --> 00:06:01.500
+<v Speaker 1>That's my long, storied way of saying that there was a green card that wasn't holding its weight, that wasn't doing what it needed to do. And often the development, you remove things before you know what's going to go in their place.</v>
+
+00:06:03.370 --> 00:06:33.200
+<v Speaker 1>And that essentially what happens is you're like, ohh, I mean, sometimes you have something you want to get in the set and then you have to remove something to make room for the new thing that happens. And sometimes you just realize that something that is there is not fulfilling the role it needs to be and you remove it. And R&amp;D slang, we call it a CQI, which stands for continued quality improvement. It comes from somewhere else, but CQI and file on a card means, oh, this card needs to be better. Usually what we'll do is we'll keep the card</v>
+
+00:06:33.270 --> 00:06:38.320
+<v Speaker 1>in the file, puts CQI after the name, and that means, well, it's here for now, but we think we can do better.</v>
+
+00:06:39.260 --> 00:06:43.120
+<v Speaker 1>So anyway, we made a green hole. It's development. We made a green hole.</v>
+
+00:06:43.780 --> 00:07:08.190
+<v Speaker 1>Now let's flashback even further back to my days before I was in R&amp;D as a carefree Magic player. So what happened was I started playing the game in alpha and I got started freelancing in 94, early 94, and then I got my full time employment in late 95. So there are almost two years where I was not in R&amp;D and there was</v>
+
+00:07:09.620 --> 00:07:28.370
+<v Speaker 1>almost a year, not quite a year, but a good 6-7 months where I wasn't even related. I had nothing to do with Wizards. And so I tried my car to making some cards and there were two cars in particular I was very proud of one. I'm sorry, the three cards I was very proud of</v>
+
+00:07:29.670 --> 00:07:45.080
+<v Speaker 1>one was Scragnoth, which was the creature that couldn't be countered. The protection from blue scratching off later find its way in Tempest. So the two cards that by the three cards that I made that is very proud of. You'll notice the other two that I don't mention that you know, aren't Morrow ended up in</v>
+
+00:07:46.300 --> 00:07:52.060
+<v Speaker 1>and ended up in Uh, sorry I spilled my water. Ended up in</v>
+
+00:07:53.140 --> 00:07:53.640
+<v Speaker 1>Tempest</v>
+
+00:07:54.240 --> 00:07:55.690
+<v Speaker 1>little accident there as I'm driving.</v>
+
+00:07:58.250 --> 00:07:59.260
+<v Speaker 1>So, uh,</v>
+
+00:08:00.540 --> 00:08:27.790
+<v Speaker 1>the other one was to see what was Craig Nothos. That was a 2 two production from Luke. Can't be countered. The reason I made the card was to hose blue at the time. Blue was for those who don't know their history, early magic, maybe late history. Blue, much like now, is kind of crazy glue. In the early days it was insane and blue was just, it was light years better than everything around. It was actually kind of kind of nutty how good it was,</v>
+
+00:08:29.280 --> 00:08:44.190
+<v Speaker 1>but uh, I decided to make a creature that blue had trouble handling and so it couldn't be countered, so blue couldn't counter it and have blue. So blue had a hard time dealing with it. And when scribe was actually first came out, blue mono blue deck and real hard time with it.</v>
+
+00:08:45.760 --> 00:09:15.560
+<v Speaker 1>Now, the other card that I made was a card called duplicity. So duplicity is also in Tempest. Basically the idea of duplicity was that I got this alternate hand and then I could turn my hand in for this alternate hand and ended up being real weak in Tempest. I think I well, I the concept was neat. The my ability to judge power level with Matt And so I was really excited when it came on campus and ended up being very weak. And so no one played it, but I liked the concept for one of these days I will revisit it. Actually,</v>
+
+00:09:16.030 --> 00:09:30.550
+<v Speaker 1>I made a few cards. The pseudo revisits it. Anyway, the last card that I made that I loved, I mean, now known as Morrow. So it was a creature, it was a green creature. That's power and toughness or equal to your hand size</v>
+
+00:09:32.710 --> 00:09:38.090
+<v Speaker 1>and you know, 3G for a star, star creature, um,</v>
+
+00:09:39.710 --> 00:09:45.980
+<v Speaker 1>3G. I'm my memory is so bad. That's what you learn to listen to my podcast is horrible. My memory is</v>
+
+00:09:47.390 --> 00:09:52.490
+<v Speaker 1>before man, I don't remember 2G3G which you think my card I remember. Anyway,</v>
+
+00:09:53.360 --> 00:09:54.430
+<v Speaker 1>it's one of those two.</v>
+
+00:09:57.640 --> 00:09:58.210
+<v Speaker 1>So</v>
+
+00:09:59.190 --> 00:10:29.200
+<v Speaker 1>there are the reasons explained why I made the card in green. Shouldn't this be in blue? So the moral ability has ended up both in blue and green. Let me explain why I put in green. So one of Green's big things is green is the color of growth. And so green is the king of the star star creature, which is I'm a creature and with time I can grow and get bigger car drawing. Also, you notice is in both blue and green. I mean more blue than green. The reason I liked it in green</v>
+
+00:10:29.310 --> 00:10:57.220
+<v Speaker 1>was green had the larger creatures that had the, the variable static creatures. Um, and blue was a color especially, especially at the time where you just didn't empty your hand. I mean, all the car drawing was all an instant. And there's so much permission that like the blue decks at the time just always had to had a 7 cards. And so like, what was the great, you know, there was no great challenge in making your hand size larger. Blue already had a large hand size, and so</v>
+
+00:10:59.700 --> 00:11:06.000
+<v Speaker 1>it was. It didn't seem much like a challenge, but green would be. It would be a challenge some of you have to think about. So that's why I put Morrow in green</v>
+
+00:11:08.140 --> 00:11:34.070
+<v Speaker 1>anyway, so I'll hold him up. We were making development. We had a hole. And what happens is sometimes during development, if you have something you know can sit there, design these days, design sometimes hands in extra cards. Sometimes there's something from a previous set in the same block that you lied but had been killed, or sometimes it just a card you've been thinking about. So sometimes right then and there, the development meeting, you'll say, hey, I got a card.</v>
+
+00:11:35.410 --> 00:11:38.330
+<v Speaker 1>More often than not what we do nowadays in development is</v>
+
+00:11:40.500 --> 00:12:10.110
+<v Speaker 1>they'll just tag the hole and there's a hole filling team and they'll send out saying here's what we need and send out the requirements needed for the holes and the whole the external hotel and will do it. Let me put the whole thing for a second because this is also a real important. So when development needs to get the card made, what they do is they come back and there's a person who right now is Mark Gottlieb, who beside being the design manager, one of his responsibilities is also overseeing the whole filling. So whole filling is done</v>
+
+00:12:10.190 --> 00:12:23.810
+<v Speaker 1>that the design team that designed the set is on the hook for helping fill holes. And we have two external group or two groups. One group is within R&amp;D or one group is an experienced group that</v>
+
+00:12:24.500 --> 00:12:54.730
+<v Speaker 1>has experienced filling holes. And the second is a larger group from Wizards, people at Wizards who have an interest in filling holes. And so there's three sort of concentric circles, if you will. There's the design team, there's the experience people, most of which are D and then there's the at large Wizards at large bowl, depending how much time you have. Usually we have enough time. All three circles get it, but it's sometimes it's a rush, just just the middle, the immediate circle gets it, which is the designers of the of the set.</v>
+
+00:12:54.830 --> 00:13:10.450
+<v Speaker 1>Sometimes it goes to the middle circle if you have a little bit more time. And so essentially what happens is the more the more detail it is, the more you go to the design team and the more broad it is, the more you can branch it out. So for example, let's say it's</v>
+
+00:13:11.760 --> 00:13:41.580
+<v Speaker 1>OHH. So like in future site, when we needed a new future shifted card, you know, might turn was the lead developer would come to me. In fact, I didn't even bother my team. I tended to make them cuz future shift cards were really, really, really hard. It's like make something that magic has never done but could do, but none of the other 45 things we've done in this that, you know, it was it was a very nichy weird thing. So I did I I literally did most of the whole filling for that set. But let's say the whole is like make a dragon. Well, you know what?</v>
+
+00:13:41.820 --> 00:13:54.460
+<v Speaker 1>Every average person has a lot of familiarity. They know what they need to do. They can make a dragon. So anyway, in this particular case, I had a card in mind and I said, oh, Bill, Bill, I got a card.</v>
+
+00:13:55.160 --> 00:14:13.470
+<v Speaker 1>And so I gave him Morrow our and then, even though I can't remember the casting cost as I submitted it was as it and stayed in the file. The the card I made versus the cards I printed was identical. And So what happened was I gave him my card and so way back when, I mean,</v>
+
+00:14:14.570 --> 00:14:44.370
+<v Speaker 1>we have a phone system at work, but we had a different phone system back then. Um, or actually wasn't even the phone system. It was the e-mail system. So the way the e-mail system worked at the time we've been through multiple e-mail systems was when you would type it in, the e-mail system would try to predict what you were saying because it had a list of, of, you know, it knew what the people were. I mean, it knew who, who, who existed in the company. So if you would type in something, it would start filling it in. And so Bill would entertain himself</v>
+
+00:14:44.550 --> 00:14:51.430
+<v Speaker 1>and figuring out what was the smallest combination of letters that you could get, that it would figure out who the person was.</v>
+
+00:14:52.490 --> 00:15:05.110
+<v Speaker 1>Umm. And so I think Bill's default was the 1st 2 letters of your first name and the 1st 2 letters of your last name. That I think he figured out that that worked for everybody, That if you did that, it just worked.</v>
+
+00:15:06.220 --> 00:15:24.250
+<v Speaker 1>And so, um, for me, the 1st letter is my first name are MA 1st 2 letters of my last name RO. So what he did was he just would type in MARO for me. So when I made the card up, it didn't have a name or anything. And so Bill just called it MRO as because I made the card.</v>
+
+00:15:26.890 --> 00:15:31.370
+<v Speaker 1>And in Bill's head, Bill knew that just meant, oh, Mark made the card.</v>
+
+00:15:32.100 --> 00:15:32.460
+<v Speaker 1>But</v>
+
+00:15:33.250 --> 00:16:03.470
+<v Speaker 1>we had known, ohh, let me talk about card names for a second. So one of the things that I'm very firm on is when you make a card, you, the designer, are responsible naming the card. I don't care if the name is realistic. You don't need to give the name We'll actually use if you want to make a shot at I don't mind. I don't mind designers trying to get a real name. And especially in the more resonant the set is that the the more, the more important the name is. If you're set, it has a top down based on residence. It's important that your names</v>
+
+00:16:03.570 --> 00:16:33.790
+<v Speaker 1>match what you're trying to do because a lot of what you're trying to do is get the right feel. And so you need the names to help you do that. In playtests. If you're mechanically based, the names are matter less. The only rule that we have about names now is design names are public, meaning we often will tell all of you the design names. So the only rule we have is you can't do something that we couldn't tell the public name. You can't profanities in that you can't, I mean, you have to put a name that we can we can make public. The name can be silly.</v>
+
+00:16:33.900 --> 00:16:40.820
+<v Speaker 1>The name can you know, we, we have a lot of cards that have very, very silly names and different designers have different kind of</v>
+
+00:16:41.480 --> 00:16:43.150
+<v Speaker 1>fun design names. Like</v>
+
+00:16:44.340 --> 00:16:52.930
+<v Speaker 1>Zach Hill, his stick was, he'd make giant long name like, you know, the girl who you thought was cute that you always wanted to ask out in high school. You know,</v>
+
+00:16:54.680 --> 00:17:23.890
+<v Speaker 1>I tend to make a lot of puns and pop culture references. Um, the default, the default for a lot of people is just say what the card does, you know, So let's say you have a small for striker. It's called small for striker. You know, that's also very common. Although what happens sometimes is when the cars get changed in the evolution file, sometimes the names don't get changed. And that's a problem actually, when it says, you know, you know, small flyer, but it doesn't fly, you know, it's like, Oh, well, it used to fly. So,</v>
+
+00:17:24.890 --> 00:17:55.380
+<v Speaker 1>but anyway, names are whatever tickles the fancy of the person who puts it in the file. Sometimes that's a designer when they make the card. And then usually if a designer names it, I or whoever is managing the file will keep the designer's name when they put it in. But if there's no name to the card when it gets inputted, the person doing the inputting used to be me. Usually it's usually the lead designer. I used to do that, but now I have a strong second. I have a person that works with me. What I found was a very, very good way to train designers is have them be on a file, put them in charge of the file</v>
+
+00:17:55.470 --> 00:17:58.600
+<v Speaker 1>and it makes them more conscious watching the file they put it together.</v>
+
+00:17:59.960 --> 00:18:04.250
+<v Speaker 1>Mostly designers will not give up the file, but I've done so many that it doesn't really faze me anymore.</v>
+
+00:18:05.510 --> 00:18:18.430
+<v Speaker 1>I mean, controlling the files are really, really good way to wrap your head around what's going on. I've just done it long enough that I can do that without having to. Like one of the things you find when you do a file is if you constantly stare at a file, it just ingrains what's where.</v>
+
+00:18:19.670 --> 00:18:31.250
+<v Speaker 1>And it's just good practice when you're, when you're originally working on making us that just constantly looking at the same cards again and again and again and just drumming your head what's there and the combination and it</v>
+
+00:18:31.990 --> 00:18:58.750
+<v Speaker 1>handling a file is a very good way of learning as that. And so I now make my second, my strong seconds, who I'm training do that. It also is less work for me. I'm busy. And so one of the things I've been trying to do is, in fact, it's funny, the reason I originally had someone put in the file was not because I thought it was a good teaching thing is because I was trying to offset this busy work that I had. And it turned out to be a really good teaching tool. So like two birds, one stone sounds good.</v>
+
+00:18:59.440 --> 00:19:00.610
+<v Speaker 1>OK, so</v>
+
+00:19:01.900 --> 00:19:04.950
+<v Speaker 1>Bill Wright tomorrow in the</v>
+
+00:19:05.800 --> 00:19:14.550
+<v Speaker 1>but and be aware Bill understood that Morrow meant Mark Rosewater. And you know bills like I don't know what a name it, I'll name it after Mark. He made the card.</v>
+
+00:19:15.220 --> 00:19:21.050
+<v Speaker 1>So anyway, the card goes. So at the time the creative team was called Continuity.</v>
+
+00:19:22.980 --> 00:19:32.470
+<v Speaker 1>I think the reason was when we first started making sets, the designers of the sets also came up with the story. So for example, the Antiquities Brothers war story, the</v>
+
+00:19:33.660 --> 00:20:03.070
+<v Speaker 1>the East Coast pitcher Scaffold life, Jim Lynn, Dave Petty, Chris Page, they came up with the Brothers war. That was not done by the creative team. That was done by I'm pretty sure. And same with like legends. And the story was the designers just come up the story and continuity meant their job was to make sure that everything was consistent. And they did add a lot of it wasn't they didn't do a lot of creative work. They added a lot to it. You know, they did a lot of the details. They had to oversee the flavor text and the names and.</v>
+
+00:20:03.640 --> 00:20:34.340
+<v Speaker 1>Although in early early designs like the designs like Ice Age and Mirage, the sorry the designers that's even sometimes with right flavor texts but continue would rewrite flavor texts. They were in charge of the names and that even though the cards got named and there slave attacks sometimes they still over overlooked everything and changed things and made sure everything was consistent. They would figure out what the world was doing and they were called continuity. They want to make sure that everything stayed consistent anyway when they when continuity got the cards.</v>
+
+00:20:35.470 --> 00:20:37.580
+<v Speaker 1>It just said in Morrow on it, and</v>
+
+00:20:38.740 --> 00:21:08.770
+<v Speaker 1>they assumed that the designers had made-up the ohh, this creature is called a Morrow. Ohh, that sounds cool. And at first, I don't think they even knew what the name meant. They just said, oh, that sounds cool. And then I think what happens along the way, they were informed where the name came from and they decided that they liked the sound of it. And they're like, well, we liked the sound before we knew what it was. Oh, let me talk about vanity cards for a second because this is what is known as vanity card. So a vanity card is a card in which some element, usually are</v>
+
+00:21:08.850 --> 00:21:20.160
+<v Speaker 1>data element, is making a real world reference, often to alright I guess a vanity card. It is in fact making reference to somebody involved that makes the game.</v>
+
+00:21:21.500 --> 00:21:34.790
+<v Speaker 1>Back in the day we did a bunch of vanity cards. MSC tone is MSE tone for Michael Scott Elliott from Michael Elliott's name. Jalam tone is JJLM Tom, which is Joel Mick.</v>
+
+00:21:36.830 --> 00:21:52.420
+<v Speaker 1>What's the original 1 Jay MD Tom is JMD for Jay Michael Davis who was one of the early It's the person with Richard who came to pitch Robo Rally that led the magic getting made and he was the the head about R&amp;D for a long time. He's one who hired me.</v>
+
+00:21:55.160 --> 00:22:06.090
+<v Speaker 1>So anyway, there there's cards we've made overtime that reference people. Jovens, ferrets. Joven references the guy who made homelands, Kyle Namvar.</v>
+
+00:22:08.350 --> 00:22:13.820
+<v Speaker 1>Uh, rice? Syrian Badger is a reference of Rias Hall</v>
+
+00:22:15.350 --> 00:22:29.280
+<v Speaker 1>Uncle. It's fine. It's a reference I think to Steve Bishop. So there's just lots and lots of in the early days there's lots and lots of references that reference to people making the game. We are indeed made a decision at one point that vanity cards were not a good idea.</v>
+
+00:22:30.560 --> 00:23:01.180
+<v Speaker 1>Really public. I disagree. I think as long as they don't take away from the create meaning if someone who wasn't in the know couldn't tell meaning the creative element was not something that like. I don't think you should make the card creatively any worse for vanity purposes. That's wrong. But I do believe that having having stuff behind the scenes kind of fun. We do do references. For example, in Innistrad, Creepy Doll was a reference to a song by Jonathan Coulton</v>
+
+00:23:01.470 --> 00:23:10.680
+<v Speaker 1>And um, Grave Bramble, which was a plant with protection from zombies, was a nod to the game Plants Versus Zombies</v>
+
+00:23:12.260 --> 00:23:25.410
+<v Speaker 1>by George Van, who's a, who's a magic player and I've met him. He, he visited Wizards one day. I gave him a tour. In fact, I wrote an article about piggybacking that came from George Van visiting the office anyway, which I talked about a podcast about that. So you already know that.</v>
+
+00:23:27.440 --> 00:23:28.740
+<v Speaker 1>So, um,</v>
+
+00:23:30.610 --> 00:23:42.510
+<v Speaker 1>we, we do do reference cards. We don't do vanity cards anymore. The time we did, the creative team flushed continuity, thought it was cute, thought the name was a cute name. That didn't take away anything. So it left. It stayed Morrow,</v>
+
+00:23:43.680 --> 00:23:45.540
+<v Speaker 1>um, Meanwhile,</v>
+
+00:23:47.690 --> 00:23:52.790
+<v Speaker 1>the director, the art director at the time for Mirage was a woman named Sue Ann Harkey.</v>
+
+00:23:53.900 --> 00:23:58.830
+<v Speaker 1>Now Sue Ann was very nice and she was a very, very good artist.</v>
+
+00:23:59.550 --> 00:24:02.000
+<v Speaker 1>Umm, the the only sort of</v>
+
+00:24:02.980 --> 00:24:13.790
+<v Speaker 1>the only negative consequence, Suzanne as the magic art director, was she was not very familiar with the game of magic. And so there are a lot. One of these days I'll do a podcast on famous art</v>
+
+00:24:14.670 --> 00:24:18.460
+<v Speaker 1>mishaps, a Bunch of Happening Mirage and</v>
+
+00:24:19.800 --> 00:24:37.070
+<v Speaker 1>one of the problems that she had run into was she didn't like the reason. It's very important that you understand magic and Jeremy Jarvis are current art director understands me, plays magic, understands magic well is there's a lot of little subtle things that are important and that you have to know when you talk to artists what's important and what's not important.</v>
+
+00:24:38.330 --> 00:24:45.980
+<v Speaker 1>And sometimes, you know, she just wouldn't realize something because she wasn't familiar with the fantasy genre. And but but, but</v>
+
+00:24:47.180 --> 00:25:09.090
+<v Speaker 1>I'm living with the negative and the positive. The positive. She was an awesome art director, a lot of art. I believe Kev Walker was her fine. Paula Parente. There was a stable of awesome, awesome artists that she was the one that found and brought to magic and that. So anyway, Sue Ann Harkey is at an art show and sees a painting for it's called The Green Man,</v>
+
+00:25:09.740 --> 00:25:11.890
+<v Speaker 1>and she really likes it.</v>
+
+00:25:12.560 --> 00:25:25.640
+<v Speaker 1>And so she goes to the artist, a guy named Stuart Griffin, I believe he's English, and says to him, Oh my God, this is amazing. This would be great for the, you know, I'm the art director, manager, the gathering. I know you've already drawn this piece. Can I buy the rights to the image?</v>
+
+00:25:26.340 --> 00:25:32.160
+<v Speaker 1>I would love to buy the rights that you know, I don't know, could I? I'd like to buy the rights of the image of this picture.</v>
+
+00:25:32.950 --> 00:25:40.110
+<v Speaker 1>And he said, sure, told you the right to the image. And she brought it back and she had this beautiful image and she just said, OK, I gotta find the right place for it.</v>
+
+00:25:40.930 --> 00:26:02.080
+<v Speaker 1>So meanwhile, the creative team decided that Mara was going to be a nature spirit. Now it's since went on to change its creature type to be an elemental because niche spiritual elementals. And it never changed what it was. But they came up with this idea of a creature that embodied the spirit of of a forest. And every forest would have a living embodiment of itself. And there is called Amaro.</v>
+
+00:26:03.650 --> 00:26:04.140
+<v Speaker 1>Um,</v>
+
+00:26:04.900 --> 00:26:18.720
+<v Speaker 1>and so this card represented that concept. And so when Sue Ann Harkey saw the concept, she's like, oh, I got the, I got the picture. So the wonderful thing about this is normally when people make magic art for those who have never seen magic art,</v>
+
+00:26:20.650 --> 00:26:25.000
+<v Speaker 1>sometimes magic art is very big. It depending on the artist, but oftentimes</v>
+
+00:26:25.720 --> 00:26:56.980
+<v Speaker 1>it might be as small as like 3 inches by 4 inches, whatever the right thing is. Sometimes they're very small because it doesn't, you know, the card is small. It doesn't need to be giant. And so, but Marrow was an actual painting, like a painting like he painted it and you know, as to sell. So it's a big painting. In fact, the art that's on the card is cropped a little bit because he did not paint to match. Magic has a certain, you know, I don't know off my head, but there's certain size of it. And so when the artist draw, we tell them what the size is</v>
+
+00:26:57.060 --> 00:27:27.880
+<v Speaker 1>so they can map out so they know what the picture is going to look like. We had a crop it because he did not draw it to be a Magic card. So I, by the way, after, after it ended up being my card, I bought the picture, the art from Stuart Griffin. It's framed and in my, in my house and it is a beautiful, beautiful picture. I, I mean, I could not be more happy. Like one of my favorite pieces of Magic art of all time happens to be on my favorite card, which always a vanity card for me. And so I have that picture. It's my favorite.</v>
+
+00:27:28.240 --> 00:27:32.770
+<v Speaker 1>I mean, a, I have a lot of emotional attachment to it, but BI, really, it's a beautiful, beautiful picture.</v>
+
+00:27:34.170 --> 00:27:49.960
+<v Speaker 1>I remember Jeremy Jarvis at one point said to me that it might be one of the best pictures ever painted for matches. That is just a beautiful picture. I mean, Magic has lots and lots of beautiful pictures. So he was just saying that he felt from especially early Magic, he was one of the best paintings had ever been done. Anyway,</v>
+
+00:27:51.550 --> 00:28:21.240
+<v Speaker 1>one of these days when these days on my on my blog, I will take a picture of the full thing so you guys can see it all. There's stuff at the top of the bottom. I mean they're a little details and berries and things, but it's kind of cool. So anyway, this picture ends up becoming on the card. OK, so now we have a card that one of my favorite cards all time. I made one of the very first cars ever made to make in the magic set I did. There's three cards that I made that made it into alliances, but Mirage was like</v>
+
+00:28:21.570 --> 00:28:51.490
+<v Speaker 1>you have 3 cards is nothing. I anyway, it was a car I'd love, not just a card. It wasn't even a card that I like the stuff in alliances. I was making cards fit needs because it was so late in the process, like art was done and stuff. But here was the card that from scratch I made, I loved, I brought to Wizards. It got made into a card. It got named after me. It had one of my favorite arts of all time. So I said to the creation, go please, I gotta write the flavor text. And they said, you know, I mean, they're like, OK, and you got to you got to write something that is good, meaning it has to pass the qualities.</v>
+
+00:28:51.630 --> 00:28:59.050
+<v Speaker 1>But you know, if, if you could write something that we that we think is good, we'll put it on the card. Now be aware at the time I was doing flavor texts. I'm a writer.</v>
+
+00:29:00.460 --> 00:29:17.950
+<v Speaker 1>My clutch is all over Mirage. So I was, I wasn't flavor text writer and I was also on the team that selected the flavor text. So I was in the end and I knew people obviously. So I said please, please, please can I write the text and like right, something good enough you can have later text. So I wrote</v>
+
+00:29:20.390 --> 00:29:37.270
+<v Speaker 1>300 pieces. I wrote so much flavor text. I wonder somewhere I have like a pad of paper. I might, I might have saved it somewhere. But I wrote and I wrote and I wrote and I wrote and I wrote and I wrote and I just wrote. And then like what I did is I condensed it down to like I thought was a 10 best. Like I wrote tons and tons.</v>
+
+00:29:39.000 --> 00:29:52.890
+<v Speaker 1>And so the one that ended up getting picked is No2 see the same Morrow. And the idea that I really, really liked was is supposed to be a nature thing. There's a quote that I love which is no two men can ever step in the same river.</v>
+
+00:29:53.740 --> 00:30:10.120
+<v Speaker 1>I'm paraphrasing, maybe it's not exactly the quote, but the idea is, you know, rivers ever moving, and that if I step in a river, when the next person steps in, well, it's moved. It's moved on that I'm stepping in a new bunch of water. That's an ever changing thing. And the idea is that there are some things that are ever changing.</v>
+
+00:30:10.950 --> 00:30:11.430
+<v Speaker 1>Um,</v>
+
+00:30:12.270 --> 00:30:41.400
+<v Speaker 1>and so I like the idea that this creature and bodied the forest was an elemental, but it wasn't, it wasn't like I was trying to explain this creature is different than a normal creature, you know, because it embodies the forest. Each person that sees it, one person might see it in, in trees, like the creature makes its body out of whatever is nearby at the time it needs to deal with something. So every time it sort of forms a body is different, you know, and that I was fascinated. That constant fascinated me.</v>
+
+00:30:42.720 --> 00:31:02.850
+<v Speaker 1>And so anyway, I thought it was pithy. I really liked it. I thought it was cool and I think I showed it to the people of time, or maybe I showed it to the team. I was on the team who was picking, and I think I said this was my favorite, but here's some others. And the team was, no, you're right. That's the best one.</v>
+
+00:31:04.140 --> 00:31:20.790
+<v Speaker 1>So, um, anyway, the thing I was very proud of was that my car, you know, the card that I was, that I, I managed to make the design is mind the flavor. Texas minds named after me. I didn't name it, build named it, but it was named after me</v>
+
+00:31:22.020 --> 00:31:53.000
+<v Speaker 1>and the art. So The funny thing is I would later go on little trivia here. I believe there are two cards in Magic in which one person named the card, created the card or created the card, named the card, wrote the flavor text, drew the arch. And I managed to do that on Look at me on the DCI, which only I could only have done in a silver border set because I cannot draw. Here's a secret for those that haven't ever seen Look at me on the eye. One day I'll talk about that. There's a funny story behind that card</v>
+
+00:31:53.160 --> 00:32:16.280
+<v Speaker 1>Anyway, so I'm at Wizards now, so hope you guys enjoyed today. Today was just kind of me showing like how much that goes into just a single card. If by the way, I'm not going to do a very mega series where I take every card Magic and do podcasts on it. So anyway, I hope you guys enjoyed today's thing. And while I love talking about magic, what I love even more is making magic.</v>
+
+00:32:17.120 --> 00:32:18.080
+<v Speaker 1>Talk to you guys next time.</v>
+

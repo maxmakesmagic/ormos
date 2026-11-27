@@ -1,0 +1,497 @@
+WEBVTT
+
+00:00:00.960 --> 00:00:25.850
+<v Speaker 1>OK, I'm pulling out of the parking lot. You all know what that means. Actually, maybe you don't. So my son Adam had an orthodontist appointment today and I had to take him there and I just dropped him off at school. So I'm starting my podcast from school because that's where my drive to work starts. So it is still drive to work because I still have to go to work. And as I explained before, I've done podcasts from the school.</v>
+
+00:00:27.160 --> 00:00:47.630
+<v Speaker 1>It's a it's a ways it's close to my home, is close to my school. So hopefully you will get the same amount of content today. OK, so last last we talked I was talking about the design of Odyssey and I introduced you to the design team and I talked about the creation of the main 2 main mechanics flashback and</v>
+
+00:00:50.010 --> 00:00:55.260
+<v Speaker 1>flashback and hold second crossing the road, flashback and threshold.</v>
+
+00:00:56.760 --> 00:00:57.700
+<v Speaker 1>So</v>
+
+00:00:58.530 --> 00:01:18.430
+<v Speaker 1>today I was gonna talk about ohh, yeah, that's where I left off. I was explaining how we started with a simple theory of the graveyard and how things kind of exploded from there. So let me start by talking about the graveyard. So one of the things that's interesting about the graveyard as a mechanic or as a as a theme is</v>
+
+00:01:19.610 --> 00:01:39.320
+<v Speaker 1>so the graveyard is interesting in that it's part of the game. The graveyard is there now normally, normally graveyard doesn't matter too much. Now, even an alpha Richard made a few cards that carried, you know, he had raised dad. They could get something back from the graveyard. He had Animate Dead, which could, you know, animate a creature from the graveyard.</v>
+
+00:01:40.610 --> 00:01:42.110
+<v Speaker 1>He had neither.</v>
+
+00:01:45.050 --> 00:01:48.240
+<v Speaker 1>He had a creature that could come, they could attack back from out of the graveyard,</v>
+
+00:01:49.780 --> 00:02:15.310
+<v Speaker 1>neither shadow. So I mean, even in the very earliest part of the game, you know, the graveyard, there's there's a little bit of caring about the graveyard and as it went along, the dark was the first set that really kind of said, Hey, maybe we should play around with this as a resource. And so the dark definitely was the 1st that I think that usually that as a resource where your two cards of the graveyard to do things</v>
+
+00:02:16.870 --> 00:02:46.890
+<v Speaker 1>and and the the dark was, I mean, I'll get to the dark one these days. There's a set that was definitely trying to get a tone. And so the dark was the first set to mess with the graveyard mechanically and as a theme. Obviously alpha and other sets cared on some cards. And then whether light was the next time where we just had a graveyard asset with a graveyard centered theme. Now, whether light was even more graveyard centered than the dark. The darker is really about mood and tone and the graveyard of is a portion of it, but a small portion where weather light pretty much like that</v>
+
+00:02:46.960 --> 00:03:17.300
+<v Speaker 1>of the major mechanic. The major focus of weatherlight was the graveyard. I didn't mess around with using the graveyard in a lot of different ways, some simple, some complicated, and along the way every set kind of touched upon it. I mean, it's one of those things where I feel like a lot of our themes, most of that's touch upon the theme. For example, tribal. Most sets have some tribal, you know, most sets do a little bit of tribal, but some sets do more tribal and the graveyard is the same thing. Most sets care about the graveyard a little bit. Usually black</v>
+
+00:03:17.370 --> 00:03:22.530
+<v Speaker 1>common has a way to get a creature back, and usually black uncommon is a way to animate something.</v>
+
+00:03:23.970 --> 00:03:52.420
+<v Speaker 1>And depending on what we're doing, you know, sometimes blue will get back a spell or white gets back an enchantment. Sometimes the artifact, depending on the set and what you're trying to do, there's always a little bit of graveyard. But when you focus on the graveyard, so Odyssey was the first block to focus on the graveyard and the third set that had a graveyard component. So what I was interested in was figuring out all the different ways you could use the graveyard. So let me walk through a little bit just to start talking about like what</v>
+
+00:03:54.160 --> 00:04:05.130
+<v Speaker 1>kind of examine, like what a resource allows you as a designer. OK, so for starters, there's things in a graveyard. So number one is you can have graveyard as</v>
+
+00:04:06.640 --> 00:04:26.710
+<v Speaker 1>as a zone, meaning that you can interact with it a zone and do what we call zone changes. So obviously I just talked about those. So like raise dead is graveyard to hand Animate dead or you know, any animation spells is graveyard to the battlefield. There are also some cards that will get the graveyard and put it back into the library,</v>
+
+00:04:27.680 --> 00:04:51.190
+<v Speaker 1>and there are cards that will exile them that take them from the graveyard zone and put them into the exile zone. So that's card that's zoned manipulation and the graveyard. Now the game naturally puts things in the graveyard. You cast the spell and goes to the graveyard. You kill a creature and goes to the graveyard. That the graveyard is the natural resting place for things that have been used. So if you're missing one of the graveyard,</v>
+
+00:04:53.420 --> 00:05:08.830
+<v Speaker 1>ohh. But one of the ways to get the graveyard that is not used as much in a normal set is milling, which is library to graveyard. So when you care about the graveyard, one of the things you do is you find more ways to get things from the graveyard to other places, and you find more ways to get things into the graveyard</v>
+
+00:05:09.740 --> 00:05:28.760
+<v Speaker 1>#2 is graveyard as resource. And what that means is I have cards in the graveyard. Normally it doesn't mean anything. They're just where I put my cards to go away. But when you care about the graveyard as a resource, all of a sudden, you know, I start. Usually you exile cards to do something</v>
+
+00:05:30.250 --> 00:06:01.390
+<v Speaker 1>Flashback did in a different way where the cards that have value in the graveyard, it's a little different. I mean, well, I guess, I guess yeah, Flashback falls in this category because, well, basically I'm talking about is the cars have some utility and the resource divides into two groups. I guess technically there is resource where I'm just eating it up. Like you must exile a creature card to do something, you know, and that's like, oh, well, unless I have the creature card as the the cost, then I can't do it. The other thing is like Flashback, which is cards that have sort of use</v>
+
+00:06:01.460 --> 00:06:21.880
+<v Speaker 1>in the graveyard, where the idea is if I get these cards in the graveyard, they have a use and those cars are a couple different kinds of those cards. First off, there's like Flashback, which is one time use that if I get in the graveyard, essentially is a graveyard is a resource card, but it's built into it. Rather than get rid of a spell in the graveyard, get rid of me in the graveyard.</v>
+
+00:06:23.100 --> 00:06:53.630
+<v Speaker 1>Now there are also some cards that, um, see, we do great resource. There's some cards where like nether shadow that can return themselves from the graveyard so that if you get them into the graveyard, there's some inherent resource there. There's some cards that well in the graveyard have a function bridge from below in judgment. What do they call? I call them the Jedis but the anger and they're all named after emotions and they granted</v>
+
+00:06:53.700 --> 00:06:56.500
+<v Speaker 1>for creatures and ability. If this card was in your graveyard.</v>
+
+00:06:57.760 --> 00:06:58.390
+<v Speaker 1>And</v>
+
+00:06:59.410 --> 00:07:21.300
+<v Speaker 1>so graveyard resource really means that I want to get cards in my graveyard because if they're in my graveyard, I can use them in some way. Maybe it increases the number of options in my hand. Maybe it's just a resource I can use to be able to do things cheaper. Dredge is another example of a graveyard resource because Dredd says, Oh, well, I can use up cards in the graveyard to make my spell cheaper.</v>
+
+00:07:23.270 --> 00:07:53.700
+<v Speaker 1>The third category is what I call graveyard as barometer. And what that means is things care about what's in the graveyard, but it makes things in your hand or in play stronger. Examples of this would be like Kindle or Largo life. Let me talk about Kindle large real quick, because Kindle and argue are actually both in. Obviously there's a cycle of Kindles and there's a cycle of Lois. And the idea by the way of graveyard is resource is saying the reason you want to get courage in your graveyard is it makes things you have</v>
+
+00:07:53.790 --> 00:08:04.150
+<v Speaker 1>and handed and on the battlefield more powerful. Now you'll notice if you look at Odyssey, I employed all of these. I did all</v>
+
+00:08:05.360 --> 00:08:34.740
+<v Speaker 1>there's lots of zone changes, there was lots of resource and there was lots of barometer using have graveyard. So let me walk through and talk about each of those. I guess I should go in order. OK, so graveyard is zone change. So one of the things that you'll find is if your graveyard has means something, there's power to it because when you when graveyard matters, having cars in your graveyard is a good thing. And So what that means is 2 things.</v>
+
+00:08:35.380 --> 00:08:46.410
+<v Speaker 1>First off, it means because you're messing with the graveyard, there's this anticipation that you're doing more manipulating with the graveyard. You're pulling more things out of the graveyard. So graveyard set, we'll do more</v>
+
+00:08:48.020 --> 00:09:13.870
+<v Speaker 1>pulling things back from more regrowing as we call it from the graveyard. And usually what you'll do is normally in a normal set, black will raise dad, meaning it gets back a creature at common, and green will often have a regrowth like effect, which means it gets back any card. And that usually happens usually at rare, sometimes at uncommon, depending on the set. Now, one of the things we've done is that</v>
+
+00:09:15.100 --> 00:09:43.230
+<v Speaker 1>magic has a normal default. And then when you push certain themes, what you find is you have to kind of give. So if I'm going to do a graveyard matter set, normally black cares about the graveyard, green cares about the graveyard, and white cares a little bit about the graveyard, but blue and red, not too much. But you're like, oh, we're gonna do great matters. I have to, I have to ramp that up a little bit. And so you make you find ways to make things care. So one of the things we've done, and</v>
+
+00:09:45.150 --> 00:09:57.140
+<v Speaker 1>the Odyssey actually I'm pretty sure did this, which was you wanna give each color something it can get back from the graveyard when it needs to. So what we've done is</v>
+
+00:09:58.690 --> 00:10:05.500
+<v Speaker 1>black obviously gets back creatures because that's just a staple thing we do all the time. Green has the ability to get back anything.</v>
+
+00:10:06.820 --> 00:10:12.340
+<v Speaker 1>But if we do a cycle that we do in Odyssey, the very common thing to get green get back is land.</v>
+
+00:10:13.850 --> 00:10:38.760
+<v Speaker 1>What we do is we let blue get that instance, red get back sorceries and we give white artifacts and changements. And so you'll notice that those things are true, that the colors can do those things. They can't get those things back and they will give us things back sometimes even out of graveyard sets. But it's something we do at a much lower level. Whereas like, you know, blacks raise dead and greens we growth. You'll see constantly something you see in a lot of sense.</v>
+
+00:10:42.260 --> 00:11:11.280
+<v Speaker 1>The other thing that we tend to do is just the number of like reanimation spells, the number spells that make use of things in the graveyard in the set of both the graveyard are tolerance goes up, essentially whatever we care about. When that's the focus, we go, OK, you know, I mean the two big things happen when you're when you shift into focus 1 is you tend to move down and rarely do some stuff. You see this in artifact sets, for example, where normally there's not a lot of common artifacts. There's a few manifesting, maybe equipment or two, but usually there's not</v>
+
+00:11:11.370 --> 00:11:18.500
+<v Speaker 1>many common artifacts. But you get to a world in which artifacts are the focus and all of a sudden you shift down. There's a lot more artifacts that common</v>
+
+00:11:20.080 --> 00:11:49.950
+<v Speaker 1>and the same is through for the graveyard stuff is that you know when you're making it about the graveyard, you know, for example, blue and comment, usually if blue is going to get back spells, usually we do that uncommon every once in a while to comment. But in a graveyard set, very likely that's a comment or radiating back a sorcery, which is something that you don't see very often. You know, we might actually do that a common in a graveyard matter set, which we would not do that in a normal set. The other thing that you do when you have your theme is you increase frequency, which means you do more</v>
+
+00:11:50.020 --> 00:12:03.050
+<v Speaker 1>of it. So in a graveyard focus set, you would just do more reanimation, more raising, more regrow thing, just more things that will allow you to get things back from the graveyard.</v>
+
+00:12:06.020 --> 00:12:21.910
+<v Speaker 1>But the more important thing is not getting things out of the graveyard. Even though you do more of that in graveyard said the bigger thing is getting things into your graveyard. And so the reason for this is that if you're graveyard is valuable, you want to give people more tools to get things in their graveyard.</v>
+
+00:12:23.770 --> 00:12:30.440
+<v Speaker 1>Now the, there's two major ways we do this, or three ways, I guess. 1 is that</v>
+
+00:12:32.260 --> 00:12:58.550
+<v Speaker 1>let's talk about the different things. So we'll take from the battlefield things you want to die. So the battlefield naturally gets things there. The one thing you do in graveyard set is you're slightly more likely to have sack effects on creatures and on permanence, meaning that it's fun to kind of say, Oh well, I know I care about the graveyard as a resource. Oh well, the board gives me a little more ways to manipulate to get extra things in the graveyard. So usually sack effects are a little bit higher than graveyard set</v>
+
+00:13:00.000 --> 00:13:30.310
+<v Speaker 1>in general. Also, we were more willing to make creatures that will die in combat. Sometimes in graveyard set you'll see toughness go down just a little bit because you you kind of want to create combat where things are going to die just because you want to get the graveyards full. So that's another change you'll see on the graveyard, but change on the battlefield affecting it in the graveyard set. Remember one of the things that you're trying to focus on is you're saying, OK, I'm making my the stuff for the battlefield, I want to get things in the graveyard. Now the game naturally does that, so that helps</v>
+
+00:13:30.380 --> 00:13:50.200
+<v Speaker 1>and you you you lose it a little bit. In general, what you want to do is whatever the sets about you just push toward that theme a little bit. Like every set has things that sacrifice. But let's say I'm just making a number here, but let's say that number is 2%. Maybe in a set of other graveyard it goes to 4% or 5% and you just</v>
+
+00:13:51.780 --> 00:13:52.830
+<v Speaker 1>ratchet it up a little bit.</v>
+
+00:13:53.650 --> 00:14:00.030
+<v Speaker 1>By the way, for I'm sitting in traffic, so I predict a little extra a little extra material for you today,</v>
+
+00:14:00.700 --> 00:14:04.900
+<v Speaker 1>which is very funny because when I was in traffic, I'm going to do my podcast. Pardon me is like</v>
+
+00:14:05.620 --> 00:14:17.450
+<v Speaker 1>ah, traffic, but part of me is like, ah, I could talk more. So I guess the pot my podcasting has helped my attitude towards traffic because at least I see the the silver lining, which is you guys get more material</v>
+
+00:14:18.950 --> 00:14:48.780
+<v Speaker 1>and I like talking about design. So win win. Although I still not a fan of traffic. OK, so the bigger thing is, OK, we have battlefield. So you want to get things in the battlefield into the graveyard. OK, we goose that a little bit, make it a little easier. The second thing is your hand. There's two ways to get stuff in. One is casting spells, but you're going to cast spells. So not much. We need to do that. The one that we might do is in graveyard set is we might make the spells a little cheaper. We might give you more cantrips,</v>
+
+00:14:49.200 --> 00:15:08.510
+<v Speaker 1>meaning we might like. The reason cantrips are great is they tend to be the only cheaper side and they not only still do graveyard, but they replace it. So there's not lots of card advantage. So we'll do that. And then the other thing we'll do is we tend to make discarding usually as a cost a little bit higher in a set about the graveyard.</v>
+
+00:15:10.970 --> 00:15:40.920
+<v Speaker 1>And once again, magic always does that. Every set there's a little bit of sacrifice. And the biggest thing that changes is normally sacrifice tends to be in black black, black is the one. So one of the things we tend to do is, I don't know if you've noticed this is if white sacrifices itself intends to help the group where blacks black. So white is is I sacrifice myself And by doing so, I help the group. And black is like, I sacrificed this other thing And I help me. I help my planes Walker, I help somebody,</v>
+
+00:15:41.490 --> 00:16:08.500
+<v Speaker 1>but black is more often to sacrifice other things. Now sometimes depending on we'll let black also sacrifice itself. And usually it's like I sacrifice any creature and we allow it to be the creature it chooses. Now recently, by the way, we made a change for those that aren't aware, which is sometimes there are creatures that they sacrifice a creature to get a bonus and bonuses to themselves. A real classic one will do is like vampire Hounds, which is discard a card. The creature gets +2, +2.</v>
+
+00:16:10.080 --> 00:16:38.690
+<v Speaker 1>And for the longest time you could just sacrifice vampire hounds, but it was causing some problems. I mean, whenever we, I mean, there's a bunch of different issues and we finally said, well, it doesn't make any sense that you're sacrificing your creature if the bonus isn't going to happen. Why would a creature sacrifice itself to give itself a bonus? Now I understand the sneaky people love that it could, you know, there's times when it's the right thing to sacrifice itself, but it was causing some confusion. There was, I think there was</v>
+
+00:16:39.360 --> 00:17:09.140
+<v Speaker 1>online magic, online issues. And anyway, it was definitely something where we made the conscious choice to go look. It makes more flavor if it can get advantage from sacrificing itself, meaning it generates a spell effect. OK, maybe it's the last effort and sacrifices itself. But if it's sacrificing to improve itself, well, you can't just sacrifice self sacrifice itself. But anyway, in a in a sense that's about the graveyard. We will up the amount of sacrifice stuff that we do. Sorry, next sacrifice. Well, we all sacrifice.</v>
+
+00:17:09.290 --> 00:17:11.150
+<v Speaker 1>We will optimize and discard that we do.</v>
+
+00:17:12.420 --> 00:17:19.040
+<v Speaker 1>Then we will let colors other than black do discard black. Usually I just realize I said sacrifice when I meant discard.</v>
+
+00:17:20.280 --> 00:17:21.910
+<v Speaker 1>So why</v>
+
+00:17:22.960 --> 00:17:53.850
+<v Speaker 1>black is a color sacrifices itself. There's also the color that discards the most. I just realized I messed that up. But one take podcast means I keep rolling with the punches. Black isn't #1 card to discard it for cost. That's a very black thing to do. And the reason is is black is the one that's like, I'll do what I need to do, whatever the cost, I'll take it. Black is king of kind of itself costs. You know, I'll sacrifice a creature, I'll discard a card, I'll pay a life. You know, black is black is willing to pay the cost to get what it wants.</v>
+
+00:17:55.860 --> 00:18:04.410
+<v Speaker 1>Now, other colors, we tend to do less of discarding as a copy, we do a little bit, but in a graveyard set where we're trying to enable the graveyard, we will up that.</v>
+
+00:18:05.930 --> 00:18:23.280
+<v Speaker 1>And like I said, there are different sets that we'll use discarding if there's some point to what's going on. Like we're having Mass famously used it for spell shapers in which it wasn't so much discarding as the flavor was. It was transforming one of your sales into another spell. But the functional thing is it discarded spell.</v>
+
+00:18:25.530 --> 00:18:30.440
+<v Speaker 1>Finally, we get to the zone that gets the most attraction in a graveyard matters that</v>
+
+00:18:31.710 --> 00:18:52.100
+<v Speaker 1>which is the library to graveyard. And this is where we get milling. Now be aware there's actually two different ways to get stuff to the graveyard. 1 is milling, which is straight off top of the library directly into the graveyard. And the second is more pinpoint where I'm going. I choose what I get and put that in my graveyard. Sometimes it's like</v>
+
+00:18:53.210 --> 00:19:24.300
+<v Speaker 1>where I get multiple carbs my opponent chooses and other stuff goes in the graveyard. Ohh. The other interesting thing by the way, is it's actually not just milling. So graveyard, graveyard to play. There's a couple of ways to do it. One one is straight up milling. The other sneaky way to do it is stuff like mulch or like card filtering like impulse or something does impulse graveyard well, cars. So for example, green a lot of times, like look at the top number of cars and get a land, get a creature and then dump the rest in the graveyard. Or blue will, you know, look, it will take a car and discard a card.</v>
+
+00:19:24.390 --> 00:19:45.030
+<v Speaker 1>Or sometimes it'll look at so many cars, take one and throw the rest away. Those cards are ways to get cards in the graveyard a little subtler because it's because when you say put cards in the graveyard, well, that's the focus. And here's the interesting thing to think about, which is when you design the card, if the card only does one thing that that's the focus. So if I say mill 4 cards, that's a million cards. What it does</v>
+
+00:19:45.980 --> 00:19:54.280
+<v Speaker 1>if I say, you know, mulch, you know, look at the top five cards and you know, taking land you see and then throw the rest away or tough work hard for most,</v>
+
+00:19:55.940 --> 00:19:58.200
+<v Speaker 1>then what happens is people</v>
+
+00:19:59.010 --> 00:20:11.400
+<v Speaker 1>when it's a side effect, people don't focus on it. So it's funny because you know, our and loves to do this. Designers love to do this, which is when we're doing graveyard, that we fill this out with stuff like mulch and things where we want you to have.</v>
+
+00:20:12.450 --> 00:20:23.120
+<v Speaker 1>You know, we want you to sort of enable yourself for the graveyard. And So what we do is we find effects that kind of get stuff in the graveyard as a byproduct rather than as the focus. Now we still do the focus, We still do milling.</v>
+
+00:20:24.220 --> 00:20:43.540
+<v Speaker 1>The other thing that we do is that's on top of library and there's have a library sometimes. There's sometimes stuff like in tune, which is just go get something put in the graveyard, which was in Odyssey by the way. I'll talk with that car when I get to my next time. I'm going to car by car stories. I'm sure I'm talking to him because good story. So</v>
+
+00:20:44.610 --> 00:20:50.580
+<v Speaker 1>sometimes you're just pinpoint putting stuff in sometimes like, you know, mulching,</v>
+
+00:20:52.120 --> 00:21:08.350
+<v Speaker 1>you're looking at sort of like ohh, like a factor. Fiction is a good example where like I get some number of the card for the rest, Well, I gotta do something with I will throw in the graveyard And so sometimes attentions on top of library man. Today, my examples, I'm not as focused as I could be.</v>
+
+00:21:09.590 --> 00:21:32.690
+<v Speaker 1>Better example would be gifts on given where you go in the library and pick out some number of cards and your opponent chooses some and some that go in the hand and some go in the graveyard. And so that you know, and one of the things about I guess I'm given is that a lot of times the way you make you make the card have extra value is there's things that have value in the graveyard. So important has a tough choice.</v>
+
+00:21:37.360 --> 00:21:55.590
+<v Speaker 1>So that is so if you're so if you're doing a graveyard set, you want to focus on more ways to get cars in the graveyard. So the byproduct of this is you do use more cells like mulch and looting and stuff like that, but you also are drawn to things like milling. So if you will notice,</v>
+
+00:21:56.980 --> 00:22:20.600
+<v Speaker 1>most of the sets that had a graveyard theme had a milling component. And the reason for that is milling fills up your graveyard in a way that's pretty neat. It also has this fun thing where normally if I'm going to mill, I want to mail my opponent, but in the graveyard set I actually have decision, maybe mill myself. And a lot of times milling yourself the correct answer. And this isn't kind of satisfying. We're taking something that has one general usage and giving a different usage for it.</v>
+
+00:22:22.980 --> 00:22:31.380
+<v Speaker 1>So one of the things that happened was we said, oh, we want to do more milling. So we made milling kind of a subtheme</v>
+
+00:22:32.070 --> 00:22:59.040
+<v Speaker 1>and then we came across the idea of restocking. And so we're stocking is reverse milling, which is I take some number of cards from my opponents graveyard and I put it on the bottom of the library. And the idea was for stocking was that was going to be sort of anti milling and answer some graveyard stuff because we were going to give you advantage in your graveyard stuff like flashback and that this might give you some means to fight that stuff.</v>
+
+00:23:00.510 --> 00:23:11.620
+<v Speaker 1>And so milling was based in blue, might have a little bit of black. We're stocking was based in green because that's called that. Naturally we'll put stuff back in the library the most. I think white is a little bit of white.</v>
+
+00:23:13.030 --> 00:23:13.760
+<v Speaker 1>And</v>
+
+00:23:14.690 --> 00:23:43.460
+<v Speaker 1>so one of the things we started doing is we started making this web of network of oh, there's land graveyard stuff and oh, there's hand to land stuff and oh, there's graveyard, library, library graveyard. And that we just made this really intricate web. And it's funny because one of the things that happens, especially back then was I would just take every possible idea and just run with it. And so by the time I turned the set over, it was the most intricate, elaborate web you've ever seen. And</v>
+
+00:23:44.350 --> 00:23:59.670
+<v Speaker 1>one of the things that Randy said when he put this when he was doing development is he goes, Mark, you have a lot of a lot of good ideas, In fact, too many good ideas. Some of your good ideas are going to have to go. And he figured out what was most integral to what was going on and he pulled a lot of other stuff.</v>
+
+00:24:01.180 --> 00:24:13.690
+<v Speaker 1>OK, so that was me talking about designing for magic as a graveyard as zone changing. Next is graveyard this resource. So the first big graveyard resource obviously was flashback, because</v>
+
+00:24:15.250 --> 00:24:45.090
+<v Speaker 1>I mean that that is inherent graveyard. We also wanted to make sure that there were some cars that could get back from the graveyard. We wanted to make sure that there was some cards that had some impacts in the graveyard. And in fact, by the way, let me talk about this. So we knew that we wanted cards that were what we call active in the graveyard, which means if you look at the graveyard, this card wanted to say to you, hey, hey, I'm in the graveyard. This is important, you can use me. And so we came up with having a little icon which was</v>
+
+00:24:45.660 --> 00:24:49.510
+<v Speaker 1>tombstone icon. It was on the car type line.</v>
+
+00:24:51.310 --> 00:25:06.520
+<v Speaker 1>The idea was if we were trying to do something and if you looked in your graveyard you could see this. Now there are a couple of problems with this. The biggest is that just wasn't that noticeable. I mean, I guess if you're looking for it, you could see it. But nowadays we would probably like we did with</v>
+
+00:25:07.960 --> 00:25:25.380
+<v Speaker 1>much more willing to to use frame changes like Bestow in Theros. We wanted to make sure that you could differentiate this creature that was an aura from a normal aura. So you understood that if I blocked this creature and kill it, oh, he's going to get a creature. And we are much more willing to use frame treatments than we used to be. And so I think like</v>
+
+00:25:26.760 --> 00:25:31.770
+<v Speaker 1>nowadays, if we were going to do something that again, it wouldn't just be a tombstone, it'd be a frame treatments.</v>
+
+00:25:35.190 --> 00:25:36.760
+<v Speaker 1>OK, so</v>
+
+00:25:37.850 --> 00:26:09.250
+<v Speaker 1>ohh, there's a big question people have is you guys use the tombstone in Odyssey and then the tombstone disappeared. What happened? So the plan actually was that we were going to use the tombstone from then on. It's going to become part of magic that if you had if you were functional on the graveyard, you were going to tombstone. But then the very next year we did a card redesign. Mirrodin was the first set with the 8th edition was the first set in the mirror. It was the first block. So right after Odyssey ended, we did new card frames and the problem was that the tombstone</v>
+
+00:26:09.330 --> 00:26:18.880
+<v Speaker 1>didn't fit at the time in the new card frames. And so we have this dilemma where like, what do we do? And we decided, well, we just introduced it in</v>
+
+00:26:19.540 --> 00:26:42.440
+<v Speaker 1>Odyssey Black. It could just be an Odyssey Black thing and just let it drop. And a lot of people really curious like what happened, what happened to the graveyard, to the icon is the turn stone. Anyway, the answer was the frame change. I think now we have the technology that we could do it, although once again, now I think we'd use frame change and not just a little icon. But for those that are wondering what happened to the little tombstone icon, questions are answered.</v>
+
+00:26:44.510 --> 00:26:48.500
+<v Speaker 1>So there's a bunch of like, there's a bunch of different ways to make use of graveyard resource.</v>
+
+00:26:50.790 --> 00:26:56.120
+<v Speaker 1>Flashback for us was the biggest thing and we have a few other cards that had some function in the graveyard,</v>
+
+00:26:57.860 --> 00:27:04.870
+<v Speaker 1>you know, as the block went along, you know, they they play in different ways. I'll get We get to judgment and to</v>
+
+00:27:06.190 --> 00:27:09.740
+<v Speaker 1>judgment and to torment. Torment and judgment.</v>
+
+00:27:12.300 --> 00:27:15.390
+<v Speaker 1>So I tried to any other. I mean, the key thing about</v>
+
+00:27:17.030 --> 00:27:20.680
+<v Speaker 1>something we've learned about the graveyard resource is</v>
+
+00:27:21.980 --> 00:27:52.400
+<v Speaker 1>I talk a lot about Cardiff manage And so one of the things about turning card advantage on his ear was it wasn't that Odyssey actually got rid of card of engine didn't what it did is it said cards in your graveyard can also have value as a resource. So what we said is in this set, Carnival Vantage isn't limited to the hand and the battlefield because I think a lot of advantage card advantage theory was based on the idea of, well, I've cards in my hand,</v>
+
+00:27:52.470 --> 00:28:22.340
+<v Speaker 1>cards in play and on battlefield and that one things went to the graveyard where you've lost them. But in this set, one of the things that's interesting is if I discard a card with flashback. Well, I haven't actually. I mean, I've lost some utility with a card, but I haven't completely lost the card. Or even better, if I mail a card and get a flashback card, I've essentially drawn a card. Now I've done half a card because I only get a flashback at once. But still that one of the things that the graveyard is resource did is it said, Oh, well, while you're killing yourself, you can</v>
+
+00:28:22.830 --> 00:28:30.780
+<v Speaker 1>getting advantage in getting card advantage. And that it allowed us to put card advantage into the graveyard, and that became very potent. Very potent.</v>
+
+00:28:32.150 --> 00:29:01.980
+<v Speaker 1>Yeah. I talked the last time that one of things interesting the Odyssey is that it had this public perception of being weak when in fact, it's actually pretty strong. And the reason was pretty strong. I think I've explained this theory is one of the things that I like to do is I like to sort of turn things on their ear and just kind of do things we haven't done before. And so one of the things I found is statistically in my sets, at least in the old days, the development team has gotten a little better, is that I would do stuff and people wouldn't quite understand it completely.</v>
+
+00:29:02.140 --> 00:29:03.020
+<v Speaker 1>And</v>
+
+00:29:03.950 --> 00:29:19.550
+<v Speaker 1>you know that my sense tended to be a little more pushed only because I was just messing around the area that we didn't quite understand as well. I was more likely to do that. And so I more often got some cards like Future Sites, a perfect example where I just made a whole bunch of really weird cards. And</v>
+
+00:29:20.490 --> 00:29:36.160
+<v Speaker 1>I mean, some of them, some of them are very clear we're good cards. And some of them they pushed on purpose. I mean, Tarmogoyf definitely pushed, but other cards kind of like they didn't quite realize quite how good it is. I think I think like Bridge from Below or something where they thought it had some utility but ended up being stronger than they realized.</v>
+
+00:29:37.610 --> 00:29:45.770
+<v Speaker 1>Yeah. Anyway, so one of the it's interesting that Odyssey has this reputation for being weak and the reality was pretty strong. It's pretty strong set.</v>
+
+00:29:47.090 --> 00:30:08.060
+<v Speaker 1>OK, The third category to talk about is graveyard as barometer. And for this I want to talk about two, two cycles that I don't just have a lot of history and magic, the Kindle cycle and the little boy cycle. So let's start with the larger cycle because logo cycle actually has an earlier precedent. So the card Largo Life was in</v>
+
+00:30:09.420 --> 00:30:10.100
+<v Speaker 1>stage,</v>
+
+00:30:11.780 --> 00:30:19.300
+<v Speaker 1>and it had the wonderfully memorable flavor tracks. Occam's run. It's the little gliff Last words of Saffi Eriksdotter.</v>
+
+00:30:19.950 --> 00:30:39.550
+<v Speaker 1>So by the way, that card is generated all sorts of follow-ups. For example, in Time Spiral we made Saffi Eriksdotter as a legendary creature. In Unhinged, there's a card called Akhand Run that raises things from the dead. Oh no, no, well, I'm not raising the dead. It just gets pictures of your deck that you can attack with.</v>
+
+00:30:40.950 --> 00:31:06.000
+<v Speaker 1>Anyway, Little Life was his new card that cared about the size of your graveyard. It was Star Star plus one. So in Odyssey I wanted to have a cycle of allergies, which we ended up calling the Vores. The black ones more Devore, but they all were. The idea was that they each looked for different things. Graveyard we had black look for creatures and green looks for land and</v>
+
+00:31:07.490 --> 00:31:09.150
+<v Speaker 1>with blue instants and red sorceries.</v>
+
+00:31:10.040 --> 00:31:12.630
+<v Speaker 1>Ohh no no red. Red ended up being</v>
+
+00:31:14.060 --> 00:31:43.970
+<v Speaker 1>it's not red might have been sources anyway, so we made the cycle and one of the big fights at the time was Randy really wanted to be little boys. And one of the problems with Lois is logos was used in Ice Age because it is it had a Nordic flavor, you know, that had a Nordic flavor. So they were using words that were, you know, Northern European or Scandinavian, and life was one of those words. But the problem is so it's spelled</v>
+
+00:31:44.060 --> 00:31:45.910
+<v Speaker 1>LAURGOYF</v>
+
+00:31:46.560 --> 00:31:51.550
+<v Speaker 1>and that is just hard to pronounce. In fact one of the funny stories is</v>
+
+00:31:53.240 --> 00:32:09.410
+<v Speaker 1>I remember when I was I played in the Ice Age pre release which I will tell that story one day. There was 1 prerelease. It was in Toronto and I had a card, wasn't in the cards. I would name a card and if you revealed the card, then I got to draw card wasn't going anyway</v>
+
+00:32:11.060 --> 00:32:21.470
+<v Speaker 1>and I was my opponent had this card called had this card little life and I knew the correct strategy was</v>
+
+00:32:22.850 --> 00:32:42.080
+<v Speaker 1>just trying to keep it from getting that card. And so but I couldn't remember the name of it. Just like that green creature that gets bigger with cardiac graveyard and I just couldn't remember. You know, it was the first time I'd ever seen the card and like little if does not sticking your brain. But anyway, loyal Gryff had gotten the fan following. People really liked Largo life and so</v>
+
+00:32:44.750 --> 00:33:07.700
+<v Speaker 1>Randy wanted to be Lord guys, and then we named him better. We gave we gave names that we could in the course at and I was in charge of the creature type from I was in charge of creative. So I went back and forth and I in my heart of hearts, I knew that little boy was a bat that people can't pronounce it. That's one of our goals is that people pronounce things, but there's enough love for Lord goes and I feel like we could throw a bone to this house player. So I ended up saying, OK, we we needed a little voice</v>
+
+00:33:09.170 --> 00:33:18.630
+<v Speaker 1>and then obviously the guy for going on to spot when I was trying to make a card for future site time would've came from me trying to make a little boy variant. So yet another voice, if you will.</v>
+
+00:33:22.560 --> 00:33:23.340
+<v Speaker 1>So Kindle.</v>
+
+00:33:24.410 --> 00:33:30.710
+<v Speaker 1>Kindle first showed up in Tempest and Kendall was me. I think I might as well the story during The Tempest podcast,</v>
+
+00:33:32.580 --> 00:34:02.790
+<v Speaker 1>I was trying to make a plague rat lightning bolt was the idea. I really like plague rats. And I was like, oh, wouldn't it be cool if you had this card that like, you know, if you have one of them, it does so much damage, but two of them. And I finally figured out the cleanest way to do it was just look in the graveyard like the first time you cast it does 2 damage. The second time you cast it does 3 damage. But the nice thing about Kindles is it has this nice subtle barometer thing going on, which is find milk cars that happen to Miller kindle. Well now the Kindle in my hand</v>
+
+00:34:02.880 --> 00:34:09.630
+<v Speaker 1>does one extra damage and so it was a neat. So I decided that I would do a cycle of Kindles would end up calling the bursts.</v>
+
+00:34:12.150 --> 00:34:15.800
+<v Speaker 1>I was very proud of that naming because we were trying to name them</v>
+
+00:34:17.150 --> 00:34:29.760
+<v Speaker 1>and it's, it's tricky because like this one grants, you know, plus plus whatever plus ever and this one grants life and this one, like they're just such different effects to try to get the names to tie them together. I was actually pretty happy we're time together</v>
+
+00:34:31.470 --> 00:34:40.840
+<v Speaker 1>and for extra fun for some reason we decided that the green one was going to have an extra bonus card, a diligent farmhand</v>
+
+00:34:43.930 --> 00:35:05.400
+<v Speaker 1>and registration. Not sure why we did that, I think we were just messing with space and we hadn't done before. It's weird though because it becomes hard for us to reprint the birth cycle because of diligent farmhand. But anyway. I mean one day if we do it we'll rename it or something. And actually, to be honest, not all the effects are what I would want to do if I was doing new cycle. So I probably want to redo it anyway.</v>
+
+00:35:07.580 --> 00:35:37.050
+<v Speaker 1>But anyway, we did a Kindle cycle. We did a little go cycle, the style book, the barometer that's nice is the graveyard is resource has card advantage issues that we've learned. So it's not that we don't do it. Obviously industrial was our last graveyard and it had flashback in it. We do some great British research, but we have to be careful. One of the things, so one of the questions that always comes about is people asking why did Richard hand size, why 7 cards? And the answer was Richard was trying to limit how many decisions you had to make.</v>
+
+00:35:38.050 --> 00:36:07.800
+<v Speaker 1>You know, one of the things, for example, that Richard likes about the initial hand of 7 is when you draw 7 cars and some of them are land and some of them are just expensive. And you're just a number of things you can do is early in the game is limited and that Richard is very focused on managing the amount of choices the player has to make and slowly wrapping it up. Eventually the game goes on, there's more choices, but you want to slowly introduce the choices. Looks like in the video game how in the early rounds you can't do everything. Sort of you get used ability to get added to you over time</v>
+
+00:36:08.010 --> 00:36:16.440
+<v Speaker 1>and that you know, on the first screen and maybe you can jump and shoot, but you know, you don't, you don't get this special power up. Let's do this other thing to screen 4, screen 6 or whatever.</v>
+
+00:36:18.070 --> 00:36:18.460
+<v Speaker 1>Ohh.</v>
+
+00:36:19.920 --> 00:36:20.560
+<v Speaker 1>And</v>
+
+00:36:22.530 --> 00:36:23.590
+<v Speaker 1>anyway, I, I,</v>
+
+00:36:25.450 --> 00:36:34.420
+<v Speaker 1>one of the things that I, the lesson the Irish keep in mind is trying to keep in mind sort of how much access to decisions you have to make, you know,</v>
+
+00:36:35.710 --> 00:36:55.770
+<v Speaker 1>And so one of the problems with graveyard resources, it increases, essentially raises the size of your hand. Every time you mill a flashback card, you have another card in your hand, something you have to recognize. You know, every time you mill something that has an effect of the graveyard, you kind of have another permanent, and permanent is a little harder to deal with.</v>
+
+00:36:57.290 --> 00:37:06.880
+<v Speaker 1>And so it's not just saying you can't do those, and we do, but you got to be careful. The more dangerous. The nice thing about graveyard barometer is it allows feeling graveyard to matter,</v>
+
+00:37:07.550 --> 00:37:09.580
+<v Speaker 1>but it puts the power in the spells in your hand.</v>
+
+00:37:10.410 --> 00:37:13.660
+<v Speaker 1>And those are something that we can cost for. And the reason is,</v>
+
+00:37:15.030 --> 00:37:34.830
+<v Speaker 1>you know, the the the graveyard is going to progress in the game progresses. It's going to start empty and it's going to fill up over time. And so we're allowed to make you care about the graveyard because we know early in the game when it's dangerous for doing powerful things, you know, barring combo shenanigans from in in in, you know,</v>
+
+00:37:35.590 --> 00:37:40.280
+<v Speaker 1>external formats, you can't tell your that fast. And so</v>
+
+00:37:41.180 --> 00:37:45.320
+<v Speaker 1>it's a nice check on the ability. And so that's one of the reasons we try hard to do that.</v>
+
+00:37:46.530 --> 00:38:16.600
+<v Speaker 1>So anyway, uh, so we went through and we found ways to optimize the graveyard in all three ways. We had, you know, more zone movement, we had more graveyard as resource, we had more graveyard barometer. And really, honestly, Odyssey explored them all. So in fact, so one of the problems we've talked about this earlier is we would find things and just go to town on them. And the problem was that there are so many strands you can get from the graveyard set.</v>
+
+00:38:16.990 --> 00:38:20.870
+<v Speaker 1>So. So let me let me give another just game design lesson.</v>
+
+00:38:21.620 --> 00:38:50.130
+<v Speaker 1>Umm, one of the things about game design, one of the one of my ongoing motifs is one of the biggest problems I think game designers have. Next, game designers have one of the biggest problems. We try that one more time. One of the biggest problems game designers have is that they because they are gamers and you have to be a gamer. I think to be a good game designer, you have to understand the thing you're designing. You so badly want to see the active game design as a game</v>
+
+00:38:50.830 --> 00:38:58.200
+<v Speaker 1>that you prioritize challenging yourself as a game designer versus making the best game you can make</v>
+
+00:38:59.220 --> 00:39:28.970
+<v Speaker 1>something. Let me clarify this. So what I mean by that is in Odyssey, a good example, instead of focusing, instead of saying, OK, have a graveyard set, where am I going to put my focus? What is the main thing I'm going to do? I just said, oh, look at all the things I can do. I can do this, I can do this, I can do this, I can do this. And I just did 8000 things. And when I turned the said over, Randy rightfully said Randy was the developer. For those don't remember, holy moly, there's too much stuff going on here, you know? And the thing to remember is you, the designer,</v>
+
+00:39:29.200 --> 00:39:59.510
+<v Speaker 1>now you are able to process things because you're the ones that are slowly adding things in. And you've worked on this game for months, maybe years. And that to you, each new edition came after you've carefully thought out the game before it. But your new player, or just the player that's that's for the first time seeing this, they encounter all at once. It's not like they get the opportunity to slowly learn them. I mean, they do a little bit based on rarity, but in general they have to experience it.</v>
+
+00:39:59.580 --> 00:40:08.890
+<v Speaker 1>And so if you put too much in, it's just overwhelming. And so once again, another ongoing theme. The goal of game design, like the goal of most art, is.</v>
+
+00:40:10.960 --> 00:40:36.050
+<v Speaker 1>Figure out how much you need to accomplish the task and then stop anything more than what you need to accomplish your task is a wasting resource and B making it harder for the player to enjoy the things that you think are the focus. Figure out your focus. Push your focus. You know, Now that doesn't mean that you can't have other elements and you should, but you have to be careful how many other elements. And honestly, to me, with this lesson of</v>
+
+00:40:37.750 --> 00:40:38.430
+<v Speaker 1>I was</v>
+
+00:40:39.390 --> 00:41:10.100
+<v Speaker 1>I designed Odyssey too much for me and not enough for the audience. Now, I already talked about lessons learned, how I was doing this intellectual experience that I found fascinating and turning card advantage on his ear and making you understand that there was carnage in the graveyard. And you know, I was doing all this stuff that was horribly intellectually interesting to me and to some high end player, I'm sure was interesting for them. But the problem is that I made players do stuff they didn't or the average player do they didn't want to do. Hey, the correct play here is throw away your hand.</v>
+
+00:41:10.210 --> 00:41:26.670
+<v Speaker 1>I don't wanna throw her hand. I wanna play my cards, you know. And so one of the things that I was doing was I was making a set that I enjoyed more than they enjoyed. And once again, so another thing I was doing was I was,</v>
+
+00:41:27.790 --> 00:41:57.870
+<v Speaker 1>it's kind of satisfying my urge to show what I was capable of. I'm a Johnny. I'm a Johnny. I'm not a Johnny and magic. I'm a Johnny in life. I like to show off. Got a big ego, get you to notice. I like to say, hey, look what I did. That's my nature. And so as a designer, I have to be careful that the point of a set is not to demonstrate what I can do. The point of a set is to maximize the play value for the players. And So what I want to do is I want to make a set that's the best.</v>
+
+00:41:57.940 --> 00:42:26.360
+<v Speaker 1>Is it possible? And sort of what I've learned is if I want to show off, show off how good a design I can do, not how much I can do, not what I'm capable of, but what what work I can do when I fine tune things. And honestly, it was definitely me saying, Oh my God, there's so many we can look at this, look at this, this doesn't change and that don't change. And that early Odyssey for audio design, it was just 8000 balls in the air and there just was so much hard stuff to track.</v>
+
+00:42:27.630 --> 00:42:43.260
+<v Speaker 1>So Randy, I mean, he, he curtailed a lot of stuff in the restocking went away and milling came down a bit. And I mean, there's a lot of different things that were going on that were playing into different zone resources. And, and so the thing I'm happy with is that, I mean, I still,</v>
+
+00:42:44.290 --> 00:42:47.150
+<v Speaker 1>I still believe Odyssey at the end, at the end of the day</v>
+
+00:42:47.820 --> 00:43:07.030
+<v Speaker 1>was too much something for me and not something for enough players. And that, I mean, it was very spiky and I noticed some spikes that love it. I mean, if it is a super, super spiky set and if you really do get off the fascination of understanding where the card advantage is, how to use it and when do you throw away your hand? And that's interesting. You're supposed to throw away your hand</v>
+
+00:43:07.740 --> 00:43:10.560
+<v Speaker 1>for some players. It's an awesome set. And I, I mean, I,</v>
+
+00:43:11.690 --> 00:43:42.000
+<v Speaker 1>the design is my fault with the design is not that it doesn't, it doesn't interesting things. It just is a little too narrow and how it does them. And that my role is not just to intellectually stimulate, but to emotionally stimulate. In fact, that's one of my I'll do a podcast in this one time. I believe that design game designers spend too much time on the intellectual stimulation of their players and not enough on the emotional stimulation of their players. One day I will do a big talk on this topic because it is one of my passions</v>
+
+00:43:42.720 --> 00:43:46.990
+<v Speaker 1>is understanding the value of emotions in game design. I think that</v>
+
+00:43:48.720 --> 00:44:18.810
+<v Speaker 1>it's very easy to understand how people will think about something and harder to understand how they feel about something. But fun is not an intellectual, it's emotional. So if I'm trying to have my players have fun, I need to understand emotionally how it impacts them. Anyway, that's a whole other podcast. So I'm at work. So what's going to happen is I'm going to have at least one more podcast where I want to go through cards and tell card stories. I'm trying to do that now and all my design podcasts. Really my wrap up today is I want to explain that</v>
+
+00:44:19.540 --> 00:44:31.750
+<v Speaker 1>I got together my team, I really explored all there was to explore in graveyards. I in fact explored a little too much and ended up having to help Randy pull some out during development. But I,</v>
+
+00:44:32.760 --> 00:44:34.790
+<v Speaker 1>I do feel like it was a,</v>
+
+00:44:35.720 --> 00:44:58.270
+<v Speaker 1>it was a good lesson for me to learn from. I, I got, I got to do a lot of exploratory stuff. I learned a lot about how graveyard works. I think one of the reasons that I enjoy doing graveyard set is Odyssey was a great teaching lesson and magic has a lot of cool tools and do great things in the graveyard. I've just learned to sort of pick and choose what you want to use where, and that the Smorgasburg effect is not ideal.</v>
+
+00:44:59.540 --> 00:45:06.960
+<v Speaker 1>But anyway, like I said, I looked back at Odyssey as being a horrible, valuable teaching lesson and that there's a lot that I learned from it.</v>
+
+00:45:07.900 --> 00:45:24.880
+<v Speaker 1>Also, as I look down at my phone, I have a lot of traffic today. Today is a long podcast, but luckily I had a lot of stuff to say. So I think that is good. But I gotta get to work because I got some work to do. So anyway, thank you very much for listening, and it's time for me to be making Magic.</v>
+

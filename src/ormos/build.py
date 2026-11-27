@@ -12,8 +12,9 @@ from tempfile import TemporaryDirectory
 
 from .content import Document, render_document
 from .flash import FlashLibrary, FlashReferences
-from .html import FLASH_ROUTE, FLASH_SCRIPT, MEDIA_ROUTE
+from .html import FLASH_ROUTE, FLASH_SCRIPT, MEDIA_ROUTE, PODCAST_ROUTE
 from .paths import read_json_lines
+from .podcasts import PodcastLibrary
 from .search import SearchIndex
 from .site import Site
 from .sitemap import Sitemap
@@ -81,16 +82,17 @@ class ArchiveBuilder:
             raise ValueError(f"No Markdown documents in {content}")
         library = VideoLibrary.read(data)
         flash = FlashLibrary.read(data)
+        podcasts = PodcastLibrary.read(data)
         output.parent.mkdir(parents=True, exist_ok=True)
         with TemporaryDirectory(
             prefix=f".{output.name}-", dir=output.parent
         ) as staging_directory:
             site = Site(Path(staging_directory))
-            self._copy_assets(site.output, library, flash)
+            self._copy_assets(site.output, library, flash, podcasts)
             self._render_documents(
                 site, files, flash.references() if flash.items else None
             )
-            site.navigation(library, flash)
+            site.navigation(library, flash, podcasts)
             self._add_redirects(site, data)
             self._copy_url_map(site.output, data)
             Sitemap(site.output).write(
@@ -100,6 +102,8 @@ class ArchiveBuilder:
                     (video.path for video in library.videos),
                     (FLASH_ROUTE,) if flash.items else (),
                     (item.path for item in flash.items),
+                    (PODCAST_ROUTE,) if podcasts.episodes else (),
+                    (episode.path for episode in podcasts.episodes),
                 )
             )
             plan = data / "search-plan.json"
@@ -129,10 +133,19 @@ class ArchiveBuilder:
                     logger.info("Rendered %s documents", f"{rendered:,}")
 
     @staticmethod
-    def _copy_assets(output: Path, library: VideoLibrary, flash: FlashLibrary) -> None:
+    def _copy_assets(
+        output: Path,
+        library: VideoLibrary,
+        flash: FlashLibrary,
+        podcasts: PodcastLibrary,
+    ) -> None:
         destination = output / "assets"
         destination.mkdir()
-        names = (*SITE_ASSETS, VIDEO_SCRIPT) if library.videos else SITE_ASSETS
+        names = (
+            (*SITE_ASSETS, VIDEO_SCRIPT)
+            if library.videos or podcasts.episodes
+            else SITE_ASSETS
+        )
         for name in names:
             copyfile(ASSETS / name, destination / name)
         if flash.items:

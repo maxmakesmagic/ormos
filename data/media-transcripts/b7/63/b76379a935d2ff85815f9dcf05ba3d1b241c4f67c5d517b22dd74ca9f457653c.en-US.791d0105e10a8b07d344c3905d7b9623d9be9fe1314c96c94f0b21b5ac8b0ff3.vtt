@@ -1,0 +1,734 @@
+WEBVTT
+
+00:00:01.160 --> 00:00:06.860
+<v Speaker 1>OK, I'm pulling out of my driveway. We all know what that means. It's time for another drive to work.</v>
+
+00:00:07.780 --> 00:00:38.910
+<v Speaker 1>OK, so last week I talked about Future Sight and today was Part 2 is Part 2. But something interesting came up. Matt Cavada needs a ride to work. And for those that remember my podcasting on planes walkers, Matt lives right near me and so occasionally he and I go to work together. And I thought Future Site, the one team that was on the Fates were speaking. So Matt is going to join us today for Part 2,</v>
+
+00:00:39.010 --> 00:01:09.400
+<v Speaker 1>a future site. We'll get some insight into maybe his take because like I said, I've done a lot of design teams. I've been on 50 plus design teams that's been one this one. So we're going to talk to him today about it and I'm going to try to get some of the issues I didn't hit last time. So we'll see if we can combine those together. So quick reminder before I'm driving to get Matt right now. So Matt, at the time, Matt is a new job, but his original job was he was on the creative team and he did names and flavor texts.</v>
+
+00:01:10.310 --> 00:01:40.840
+<v Speaker 1>And at the time I was looking for a more offbeat design team to do future site because we, I know we were doing a lot of crazy. You know, I really wanted a team that was outside the box thinking. Plus I really wanted a member of the creative team on my design team because not only were we designing future mechanics, but we're also we're hinting at future worlds. And I thought it'd be nice to have a person to do that. So Matt was filling multiple roles. So we'll talk to him today and we'll try to figure out</v>
+
+00:01:40.920 --> 00:01:44.050
+<v Speaker 1>what what his take on all this was. Because</v>
+
+00:01:44.880 --> 00:01:59.010
+<v Speaker 1>like I said, I I'm, I've done a lot of design teams. So I think maybe in some ways a little more jaded, just I've been doing this for a long time. But like I said, this was math one team. So he probably have a different perspective.</v>
+
+00:02:00.880 --> 00:02:30.630
+<v Speaker 1>So I'm almost there to pick him up after the other things you need to know before I get mad, as I said last time, remember the future site was set up. We knew the Time Spiral was the past. We knew that Planar Chaos was the alternate president, and we knew that Future Site was going to be a glimpse of the possible futures of Magic and all of that entailed. And last time I talked about the time trip to cheat and I talked about the mix and match cards and I talked about the packs</v>
+
+00:02:30.930 --> 00:02:54.110
+<v Speaker 1>that that the packed cycle. So today the goal was to talk about mechanics, but we'll see. I'm going to pick Matt up and we'll figure out where we go. If need be. We'll have a third part here. I've learned that these the podcast about the episodes, people like them to run over several episodes. So I'm willing to spend the time to talk about it, haha. Here is Matt. Let's pick him up.</v>
+
+00:02:55.780 --> 00:02:56.470
+<v Speaker 1>OK,</v>
+
+00:02:59.840 --> 00:03:00.750
+<v Speaker 1>Welcome.</v>
+
+00:03:05.560 --> 00:03:07.460
+<v Speaker 1>OK, welcome. Welcome to the show, Matt.</v>
+
+00:03:08.980 --> 00:03:20.590
+<v Speaker 1>I'm in progress yes, I have to start when I leave my driveway because I have to begin every show by going I'm pulling out of my driveway. So yes, the my rule is that my podcast is from the start of my drive to the end of my drive, so.</v>
+
+00:03:20.680 --> 00:03:22.580
+<v Speaker 2>Have you had any flat tires or any such?</v>
+
+00:03:22.590 --> 00:03:34.010
+<v Speaker 1>Thing I got gas ones I don't know I've been in traffic a few times so I always expect like more somehow might actually being on in a car mattering but it only matters like 175 shows.</v>
+
+00:03:34.120 --> 00:03:35.170
+<v Speaker 2>One of these days, someone,</v>
+
+00:03:36.720 --> 00:03:37.720
+<v Speaker 2>it's gonna be awesome.</v>
+
+00:03:38.030 --> 00:03:41.190
+<v Speaker 1>Yeah, it'll be the the road rage episode.</v>
+
+00:03:42.610 --> 00:03:51.110
+<v Speaker 1>OK, so here's what I was saying before you got in the car was I have I've been on 50 some design teams. You've been one.</v>
+
+00:03:52.070 --> 00:03:57.820
+<v Speaker 1>So I said, well, what are the chances of the one I'm talking about is the one that you were on? So that felt like fate.</v>
+
+00:03:57.980 --> 00:03:58.460
+<v Speaker 2>Fate.</v>
+
+00:03:59.340 --> 00:04:04.490
+<v Speaker 1>So that's some of this, which is what was it like being on the only design team you've ever been on?</v>
+
+00:04:04.960 --> 00:04:08.880
+<v Speaker 2>You know, I have no perspective because like you said, I've only been on one.</v>
+
+00:04:12.140 --> 00:04:12.830
+<v Speaker 2>I imagine that</v>
+
+00:04:14.450 --> 00:04:17.030
+<v Speaker 2>99 out of 100 people who play Magic</v>
+
+00:04:18.100 --> 00:04:21.170
+<v Speaker 2>who are really into it, think of how much fun it would be</v>
+
+00:04:22.230 --> 00:04:23.030
+<v Speaker 2>to</v>
+
+00:04:23.890 --> 00:04:25.020
+<v Speaker 2>to be charged with</v>
+
+00:04:25.860 --> 00:04:33.570
+<v Speaker 2>designing cards that will ultimately end up actually getting put into a card set. And I have to say that it was that.</v>
+
+00:04:34.220 --> 00:04:35.410
+<v Speaker 1>It was very cool.</v>
+
+00:04:37.890 --> 00:04:40.160
+<v Speaker 2>However, I can say that</v>
+
+00:04:40.940 --> 00:04:47.280
+<v Speaker 2>I I didn't experience all that often what it feels like to design a card and then actually see it</v>
+
+00:04:48.610 --> 00:04:49.280
+<v Speaker 2>print it.</v>
+
+00:04:49.830 --> 00:04:50.580
+<v Speaker 1>So so.</v>
+
+00:04:50.590 --> 00:04:51.440
+<v Speaker 2>One only think of.</v>
+
+00:04:51.450 --> 00:04:55.760
+<v Speaker 1>Two, OK, one or two cards that that you're afraid to print.</v>
+
+00:04:55.910 --> 00:04:58.680
+<v Speaker 2>The only two I can think of. They both kind of suck.</v>
+
+00:04:59.950 --> 00:05:02.020
+<v Speaker 2>One is the putrid cyclops.</v>
+
+00:05:02.370 --> 00:05:02.960
+<v Speaker 1>OK.</v>
+
+00:05:02.970 --> 00:05:06.320
+<v Speaker 2>One cyclops seem funny to me</v>
+
+00:05:07.680 --> 00:05:10.440
+<v Speaker 2>and the Yixlid jailer.</v>
+
+00:05:11.580 --> 00:05:14.120
+<v Speaker 1>OK, what is the jailer do?</v>
+
+00:05:14.790 --> 00:05:18.220
+<v Speaker 2>Cards in graveyards do nothing. I have no ability.</v>
+
+00:05:18.230 --> 00:05:20.040
+<v Speaker 1>This OK? Yeah, yeah, yeah.</v>
+
+00:05:20.930 --> 00:05:22.180
+<v Speaker 1>Well, that that's a new card.</v>
+
+00:05:25.500 --> 00:05:27.390
+<v Speaker 2>People sometimes actually play with,</v>
+
+00:05:28.550 --> 00:05:29.120
+<v Speaker 2>whereas the</v>
+
+00:05:29.920 --> 00:05:30.750
+<v Speaker 2>cyclops</v>
+
+00:05:32.100 --> 00:05:33.610
+<v Speaker 2>lurks and binders.</v>
+
+00:05:33.710 --> 00:05:44.740
+<v Speaker 1>That was playing Unlimited. It was, yeah. Not every card, you know, I mean one of these people that realize is we make tons and tons and tons and tons and tons of cards and so few of them actually make it to print.</v>
+
+00:05:45.280 --> 00:05:48.430
+<v Speaker 2>The other thing that I wasn't aware of what happened is that</v>
+
+00:05:50.090 --> 00:05:53.550
+<v Speaker 2>while you might not design start to finish a card that gets printed,</v>
+
+00:05:54.630 --> 00:05:57.590
+<v Speaker 2>you dabble on all kinds of cards as a team.</v>
+
+00:05:58.610 --> 00:06:06.760
+<v Speaker 1>Yeah, well, people ask me all the time, like, why don't we credit the designers on the cards? And I'm like, like when with the artist we know who drew the card with the designer, like,</v>
+
+00:06:08.240 --> 00:06:13.510
+<v Speaker 1>yeah, a lot of times someone has an idea and someone tweaks the idea, someone else doesn't. What do you do this And you know, and</v>
+
+00:06:14.200 --> 00:06:44.250
+<v Speaker 1>that's very, very hard at the end of the day to know some cartoon made the card right. You know, I mean some cards like like I said, there's definite cards where I made the card. No one touched it. I I know I made the card last last episode. I was talking about some of the cards they made in future site. I was talking about the the time shifted cards were extra hard because of the rule that said it had to be something magic never done before. And that's I remember. So I said that when I put together the team, three of the six members of the team had never been on an image design team before,</v>
+
+00:06:44.420 --> 00:06:48.130
+<v Speaker 1>which is very bizarre for Imagine team, right? But I was trying to.</v>
+
+00:06:48.840 --> 00:06:49.410
+<v Speaker 2>Get out of the.</v>
+
+00:06:49.420 --> 00:07:01.210
+<v Speaker 1>Box, yes. And why did out-of-the-box? I thought you were out-of-the-box guy. So another thing that I talked about is we were trying to show off not just future mechanics, but future creative elements. You talk about that a little bit.</v>
+
+00:07:03.780 --> 00:07:06.670
+<v Speaker 2>Well, there are a small handful of</v>
+
+00:07:07.350 --> 00:07:13.120
+<v Speaker 2>ideas that we thought we would get to at some point, and you and I talked yesterday about the sarcoma nightmare.</v>
+
+00:07:13.170 --> 00:07:13.740
+<v Speaker 1>Yeah.</v>
+
+00:07:13.830 --> 00:07:15.960
+<v Speaker 2>We had an inkling that correctly, it would be back.</v>
+
+00:07:16.030 --> 00:07:37.300
+<v Speaker 1>Well, we I mean, for those that don't realize, we knew that the flexions had invaded mirrored in when we did mirrored it. Like if you go read the novel, I mean, the fact that the fractions are invading was worked into mirrored in. So we knew it was going to go back. Now the big, the big change I talked with this in my podcast on Scars of Mirrodin was we thought we were going to go back to New Fregia and just, and then at the end of it, Oh my</v>
+
+00:07:37.380 --> 00:07:41.390
+<v Speaker 1>God, what it's mirrored in, but we ended up going to mirror and watching them get taken over.</v>
+
+00:07:42.610 --> 00:07:45.820
+<v Speaker 2>They also planted a lower win card directly in.</v>
+
+00:07:46.120 --> 00:07:54.360
+<v Speaker 1>We yeah, we I think we planned the cards for the whole next block. Yes I think there was a lower one and even tied to shadow more and morning Tide card all put in.</v>
+
+00:07:54.430 --> 00:07:55.020
+<v Speaker 2>There was,</v>
+
+00:07:56.380 --> 00:07:59.220
+<v Speaker 2>and I can't say that this is actually going to happen or not</v>
+
+00:08:00.380 --> 00:08:00.590
+<v Speaker 2>put</v>
+
+00:08:01.410 --> 00:08:02.200
+<v Speaker 2>dinosaur.</v>
+
+00:08:02.210 --> 00:08:02.630
+<v Speaker 1>Stuff,</v>
+
+00:08:04.650 --> 00:08:07.180
+<v Speaker 1>Yeah. Is it Mirage Mirror Ganda that there is?</v>
+
+00:08:07.230 --> 00:08:10.940
+<v Speaker 2>Yeah, that and I think we did. Wasn't there a dinosaur of?</v>
+
+00:08:10.950 --> 00:08:12.930
+<v Speaker 1>Some kind in there? Yeah, there was, There was.</v>
+
+00:08:12.940 --> 00:08:14.130
+<v Speaker 2>It was imperious sore in.</v>
+
+00:08:14.140 --> 00:08:29.840
+<v Speaker 1>There, Yeah, I think so. I think so. There's some dinosaur stuff in future side for sure. I mean, one of the things I think we did was we knew some worlds we were going to go to and we knew some worlds and we thought one day we might go to and then we you guys just screwed around a little bit.</v>
+
+00:08:30.890 --> 00:08:34.440
+<v Speaker 2>And then there was, of course, Coward World.</v>
+
+00:08:34.620 --> 00:08:35.770
+<v Speaker 2>We plan on going to it.</v>
+
+00:08:35.780 --> 00:08:36.250
+<v Speaker 1>Something</v>
+
+00:08:38.460 --> 00:08:49.780
+<v Speaker 1>ohh so let me ask you a question. So the card that I get the most questions about see if you can guess this of all the cars in future sight. The card that generates the most conversation that I get I get bugged the most about would be 1 card.</v>
+
+00:08:50.980 --> 00:08:59.110
+<v Speaker 1>Our time of life is the one that people talk about as far as being the most powerful, but I get a lot more a lot more male about another card from future site, if you can name it.</v>
+
+00:08:59.180 --> 00:09:00.470
+<v Speaker 2>Putrid Cyclops.</v>
+
+00:09:00.960 --> 00:09:13.550
+<v Speaker 1>Yes, they go. Where are you going to make more nutrients? Cyclopses. And it's the jailers. Can you please make more of them? No, I'll give you a clue. It involves assembling contraptions. Steam, Flutter, boss,</v>
+
+00:09:15.090 --> 00:09:17.620
+<v Speaker 1>everything about the creative upstream flagger bus.</v>
+
+00:09:20.820 --> 00:09:21.720
+<v Speaker 2>I I think that</v>
+
+00:09:23.650 --> 00:09:24.780
+<v Speaker 2>one where our tongues</v>
+
+00:09:25.550 --> 00:09:26.850
+<v Speaker 2>they planted in our cheeks.</v>
+
+00:09:27.780 --> 00:09:28.780
+<v Speaker 2>I don't think any of us</v>
+
+00:09:30.130 --> 00:09:31.770
+<v Speaker 2>dreamed that this would actually.</v>
+
+00:09:31.780 --> 00:09:44.030
+<v Speaker 1>Come. No, no, he didn't. Yeah, they don't actually admitted in. And, like, right after it came out, he admitted there was a joke and we never planned to do it. And like, Aaron, why did you tell them that? Now we're like destined to somehow have to figure how to do it.</v>
+
+00:09:45.940 --> 00:10:12.340
+<v Speaker 1>So it's like it's a joke. The the, the, the, the, the beauty of the joke was we didn't tell them the joke. So it's kind of like memorize and doctor Doctor Strangelove that the Russians Dr. Strangelove inventors machine that's supposed to like scare everybody else from, you know, like it stopped nuclear war by being this like if you bomb us, we'll bomb everybody if the machine, but they never told anybody about it. Like we have to tell people about it or else it doesn't work.</v>
+
+00:10:13.600 --> 00:10:13.960
+<v Speaker 1>So</v>
+
+00:10:14.780 --> 00:10:23.890
+<v Speaker 1>OK, so in front of you is a list of all them again enics in the set. Well all the non Evergreen mechanics in the set you.</v>
+
+00:10:23.900 --> 00:10:27.050
+<v Speaker 2>Know what might happen on this podcast? It makes driving.</v>
+
+00:10:28.060 --> 00:10:29.380
+<v Speaker 1>Matter. OK, well, that's.</v>
+
+00:10:29.390 --> 00:10:31.270
+<v Speaker 2>When Matt vomits from.</v>
+
+00:10:31.280 --> 00:10:31.660
+<v Speaker 1>Reading</v>
+
+00:10:33.450 --> 00:10:34.350
+<v Speaker 1>I'm driving,</v>
+
+00:10:35.570 --> 00:10:53.860
+<v Speaker 1>So what? By the way, one day someone keeps you and after this on a future podcast, they want to do a podcast, right? Answer questions. But I can't do that while I'm driving, so I need someone else in the car read me questions. So maybe one day we'll do that. We'll do a ask Mark and Matt day. OK, so</v>
+
+00:10:55.260 --> 00:11:05.990
+<v Speaker 1>pick, pick. Well, do you have any? I mentioned this in Part 1. So before, before Future Sight came out, like planar chaos. Previously there were 56 keywords in Magic.</v>
+
+00:11:06.800 --> 00:11:08.000
+<v Speaker 1>How many keywords?</v>
+
+00:11:08.710 --> 00:11:10.560
+<v Speaker 1>Well, the name all there. Evergreen ones aren't there.</v>
+
+00:11:11.230 --> 00:11:13.870
+<v Speaker 1>There were 48 keywords in the Future site.</v>
+
+00:11:15.830 --> 00:11:18.140
+<v Speaker 1>Those are just ones that are introduced in Future Sight.</v>
+
+00:11:18.830 --> 00:11:26.170
+<v Speaker 1>These are all, well, I'm sorry, these were new and these were expert ones brought back. That doesn't include flying in first record, stuff like that.</v>
+
+00:11:26.440 --> 00:11:27.500
+<v Speaker 2>Just typecasting.</v>
+
+00:11:28.230 --> 00:11:29.440
+<v Speaker 1>Like wizard casting,</v>
+
+00:11:30.430 --> 00:11:32.160
+<v Speaker 1>um, so like</v>
+
+00:11:33.930 --> 00:11:37.260
+<v Speaker 1>wizard cycling. Wizard cycling, it's called. OK. So</v>
+
+00:11:38.860 --> 00:11:55.660
+<v Speaker 1>yeah, one of the things that was interesting about making mechanics was so a lot of what we were doing was what we call extrapolate of design, which was we weren't trying to surprise the things you've never seen before. But a lot of what we're trying to do is design obvious places we could go from stuff we had done.</v>
+
+00:11:56.480 --> 00:12:00.850
+<v Speaker 1>For example, we had like a more cycle. Remember the motorcycle, Yeah. And so.</v>
+
+00:12:00.990 --> 00:12:01.710
+<v Speaker 2>Evolving.</v>
+
+00:12:02.020 --> 00:12:18.690
+<v Speaker 1>Right. So the the more cycle was a vertical cycle in which normal morph takes creatures and they they mark. So we took the other permanent types that existed at the time because planeswalkers didn't exist yet, although they almost did. And we took a land and enchantment and a,</v>
+
+00:12:19.480 --> 00:12:24.950
+<v Speaker 1>um, artifact. And then each one of them, you know, morphed into that.</v>
+
+00:12:25.960 --> 00:12:28.750
+<v Speaker 1>OK, so pick, pick one of these and we'll we'll talk about it.</v>
+
+00:12:28.820 --> 00:12:29.870
+<v Speaker 2>Talk about</v>
+
+00:12:31.770 --> 00:12:32.720
+<v Speaker 2>grandeur.</v>
+
+00:12:32.870 --> 00:12:35.660
+<v Speaker 1>Ohh, grandeur. OK, what do you mean? What do you remember of grandeur?</v>
+
+00:12:35.750 --> 00:12:36.920
+<v Speaker 2>That was the</v>
+
+00:12:37.590 --> 00:12:38.080
+<v Speaker 2>legend.</v>
+
+00:12:38.090 --> 00:12:44.900
+<v Speaker 1>Ability, yes, yes, that's the building. But I'm pretty cool. It was very cool. Do you know who designed the grandeur ability after you don't, but</v>
+
+00:12:46.570 --> 00:13:16.760
+<v Speaker 1>electrical question. No, no one on the design team. So that's why it's a trick question. It was designed by Bill Rose, who's the VP of R&amp;D. Bill had come up with the idea. So one of the things that one of the ongoing problems, maybe I'll have a whole podcast on this because it's it's the legend legendary, the Super type legendary. The problem is it's this awesome thing that we want people to be excited about, right? These are characters that are unique, except the legendary ability is just a downside.</v>
+
+00:13:16.880 --> 00:13:47.440
+<v Speaker 1>It's like there's no, I mean, I guess you can play commander with it, but but other than that, I mean, it is there's no great advantage to being a named character other than now you can't have more than one in play. So Bill said, is there anything we could do to make the legendary ability better? And Bill came up with the grandeur ability. So for those who don't remember, but the grandeur ability says is you can discard copies, extra copies of it to have an effect. And the idea was that that way if you drew a second</v>
+
+00:13:47.510 --> 00:13:49.460
+<v Speaker 1>one, it wasn't a dead card anymore.</v>
+
+00:13:50.230 --> 00:13:59.540
+<v Speaker 1>And we did them in a cycle. There's a cycle, I think. So now, if I remember correctly, all the legends were ancestors of famous people. That correct?</v>
+
+00:14:00.330 --> 00:14:02.020
+<v Speaker 2>Oh, now I'm remembering.</v>
+
+00:14:02.990 --> 00:14:05.680
+<v Speaker 1>Right. They were like, I think they were,</v>
+
+00:14:07.010 --> 00:14:11.070
+<v Speaker 1>yeah. Black light is one of those, right? That's dark and dark and black blades.</v>
+
+00:14:11.740 --> 00:14:13.270
+<v Speaker 1>I have a grandson or something or.</v>
+
+00:14:13.470 --> 00:14:14.210
+<v Speaker 2>There are some kids.</v>
+
+00:14:15.130 --> 00:14:26.670
+<v Speaker 1>Yeah, I mean, if that's doing future generations of known characters, right, Like I said, that's more extrapolate of design. Like instead of making brand new characters, we ripped off characters you knew and showed their offspring.</v>
+
+00:14:27.540 --> 00:14:30.710
+<v Speaker 2>I think that that's a pretty cool, pretty cool ability.</v>
+
+00:14:30.760 --> 00:14:31.210
+<v Speaker 1>It is.</v>
+
+00:14:31.220 --> 00:14:32.500
+<v Speaker 2>That price, we've never used it.</v>
+
+00:14:32.510 --> 00:14:52.620
+<v Speaker 1>Since we, we will in my mind, if I take all the abilities that we introduced in future sight, they fall in three categories. Category one is for sure, for sure, we'll do them again. Now it takes us a while to get to some of them. We have to find the right place for them. So just because we haven't done it doesn't mean I'm not interested in doing it. There's a bunch on there that like I actively been looking for places to put it.</v>
+
+00:14:53.690 --> 00:14:56.680
+<v Speaker 2>Imagine the grandeur would apply only to your own self.</v>
+
+00:14:57.750 --> 00:14:58.970
+<v Speaker 2>Or what? Could I</v>
+
+00:14:59.920 --> 00:15:02.430
+<v Speaker 2>discard any legend with grandeur to use that?</v>
+
+00:15:02.440 --> 00:15:08.630
+<v Speaker 1>Ability ohh I think it's just, I think it's just your guys. I don't think your opponent has a guy in play you can start yours.</v>
+
+00:15:08.740 --> 00:15:09.760
+<v Speaker 2>If if I have</v>
+
+00:15:11.370 --> 00:15:14.300
+<v Speaker 2>legend a yeah with grandeur on.</v>
+
+00:15:14.350 --> 00:15:15.520
+<v Speaker 1>On the board, yeah.</v>
+
+00:15:15.590 --> 00:15:20.460
+<v Speaker 2>But Legend B with Grandeur in my hand, can I discard him for Legend A bonus?</v>
+
+00:15:20.530 --> 00:15:34.500
+<v Speaker 1>No, no, that's not how Grandpa works. Granger says that you can. Yeah, if I Legend A can discard other copies of legend A. Now I thought what I thought you were asking was what if Legend B is another version of Legend A, right?</v>
+
+00:15:36.110 --> 00:15:42.620
+<v Speaker 2>To see a legendary rat Lord who you can have any number of copies of that guy in your deck.</v>
+
+00:15:43.050 --> 00:15:43.640
+<v Speaker 1>OK.</v>
+
+00:15:44.070 --> 00:15:45.600
+<v Speaker 2>Card Relentless rats.</v>
+
+00:15:45.610 --> 00:15:53.700
+<v Speaker 1>Well, there's a Landless Rats, yeah, that's the 1:00 which gives you if you want. It's based on playgrounds, which a lot of people used to play with. Lots of playgrounds, although</v>
+
+00:15:55.260 --> 00:15:55.590
+<v Speaker 1>yes,</v>
+
+00:15:56.340 --> 00:15:57.270
+<v Speaker 1>rat grandeur.</v>
+
+00:15:59.380 --> 00:16:01.480
+<v Speaker 1>So we've made a few Rat Lords, although nothing.</v>
+
+00:16:01.720 --> 00:16:02.680
+<v Speaker 2>He doesn't actually have to.</v>
+
+00:16:03.360 --> 00:16:09.500
+<v Speaker 1>Yeah, you know what I realized I goofed up on Gate crash. I didn't make an ooze Lord that that I dropped the ball.</v>
+
+00:16:10.580 --> 00:16:12.210
+<v Speaker 2>Nothing says the city like.</v>
+
+00:16:12.220 --> 00:16:19.710
+<v Speaker 1>Vanhoose Well, the Civic. The Civic have lots of booze. I mean it would have fit and Lord would hit. OK, pick another ability.</v>
+
+00:16:20.020 --> 00:16:20.910
+<v Speaker 2>Alright, pick</v>
+
+00:16:22.150 --> 00:16:22.960
+<v Speaker 2>fate seal.</v>
+
+00:16:23.130 --> 00:16:29.440
+<v Speaker 1>Fate seal? OK, So what is fate seal? What is fate seals? Extrapolated design. What is Fate seal?</v>
+
+00:16:31.290 --> 00:17:00.740
+<v Speaker 1>Yes, it's negative scribe. So one of the things I did was because we were doing past, present, future, I wanted to make sure there was one unique mechanic for each set that played up that theme. So the past was flashback, right? Because that's remembering the past and the alternate present. I did vanishing, which was redone version of fading because all about you get it right now, but it goes away. And then for the future, I save scribe. And then I said, well, you know, Square you can only use on yourself</v>
+
+00:17:01.000 --> 00:17:02.540
+<v Speaker 1>if you use scribe your opponent.</v>
+
+00:17:04.650 --> 00:17:13.990
+<v Speaker 1>Well, OK, so I didn't finish this before. So there's three categories. Category number one is definitely I'm looking for a place for it. I believe one day we'll do it.</v>
+
+00:17:14.640 --> 00:17:26.860
+<v Speaker 1>Category number 2 is I don't know. I, I think assembly contractors falls in this one. Maybe, maybe if we can find a way to do it. I mean, I'm, I'm will the category two I'm willing to do, but I'm</v>
+
+00:17:27.820 --> 00:17:47.210
+<v Speaker 1>they're more challenging. They're they're not slam dunks like category one is. Look, I know we'll find a place. Category 2 is I don't know, maybe category 3 is. I don't think we will ever do the mechanic again. I think face will fall the category 3 because it is it is the most unfun violating like</v>
+
+00:17:48.550 --> 00:18:08.900
+<v Speaker 1>it is very different. We we talked about doing face here for the mirror fate seal. Sorry for Damir, but it is just the most unfun thing like we've been saying all this time and energy trying to like take things with things. They just suck the fun out of the game. And that mechanic is really like, I don't know, it's it is fun sucking. It's fun sucking guts.</v>
+
+00:18:08.910 --> 00:18:10.840
+<v Speaker 2>Are there any others in the will never do that?</v>
+
+00:18:12.300 --> 00:18:13.240
+<v Speaker 1>That's the one I'll tell you.</v>
+
+00:18:15.150 --> 00:18:16.060
+<v Speaker 2>How about</v>
+
+00:18:17.370 --> 00:18:18.260
+<v Speaker 2>Fortify?</v>
+
+00:18:18.310 --> 00:18:19.720
+<v Speaker 1>Fortify, OK.</v>
+
+00:18:19.730 --> 00:18:20.890
+<v Speaker 2>Remember Fortify.</v>
+
+00:18:21.110 --> 00:18:22.550
+<v Speaker 1>What do you think Fortify is?</v>
+
+00:18:23.400 --> 00:18:23.890
+<v Speaker 2>I have no.</v>
+
+00:18:23.900 --> 00:18:28.990
+<v Speaker 1>Idea gives you vitamins to make you stronger. No Fortify is equipment for land.</v>
+
+00:18:30.280 --> 00:18:30.780
+<v Speaker 2>Oh.</v>
+
+00:18:31.620 --> 00:18:38.070
+<v Speaker 1>Yes, so that is in the category one. I'm looking for a place to use it. I need the right place. I mean the thing with,</v>
+
+00:18:39.320 --> 00:18:40.100
+<v Speaker 1>well, I mean.</v>
+
+00:18:40.520 --> 00:18:41.170
+<v Speaker 2>We can't talk.</v>
+
+00:18:41.180 --> 00:18:50.510
+<v Speaker 1>About yes, here we can't talk about here. This is not the riff on the future stuff. Yeah, so that's what they want, by the way they go. Just can't just do podcast on Huey or something, you know?</v>
+
+00:18:51.620 --> 00:18:52.210
+<v Speaker 1>Um,</v>
+
+00:18:52.880 --> 00:19:06.090
+<v Speaker 1>OK, so fortify was artifacts equipment for land. We actually talked about doing it in Zendikar because Zendikar was a land set, but we had a lot of other stuff going on. And anyway, it just,</v>
+
+00:19:06.750 --> 00:19:15.120
+<v Speaker 1>it didn't seem like the right place. But I it's category one. There will come a time and a place. We will. We will do what I believe</v>
+
+00:19:16.810 --> 00:19:17.900
+<v Speaker 1>OK next</v>
+
+00:19:19.340 --> 00:19:22.230
+<v Speaker 1>or a swab. The oral swab was.</v>
+
+00:19:22.240 --> 00:19:25.830
+<v Speaker 2>Just like I traded an aura if in my hand for the one that's on a.</v>
+
+00:19:25.840 --> 00:19:37.770
+<v Speaker 1>Guy yeah, I believe that's how it worked. Basically the idea of aura swap is if a creature has aura swap then it has the ability to halves, but it could change at any moment into another one.</v>
+
+00:19:38.980 --> 00:19:39.990
+<v Speaker 2>Has it not the?</v>
+
+00:19:40.250 --> 00:19:51.010
+<v Speaker 1>No, no. the OR has it, but if or has or swap, that means it could transform into an order that's in your hand. So any creature that is or swap, you have to, you know, suspicious that, you know, it could change.</v>
+
+00:19:52.520 --> 00:19:55.040
+<v Speaker 1>I guess that's category 2. I mean, it's not that I would,</v>
+
+00:19:55.970 --> 00:20:12.720
+<v Speaker 1>it's a tricky 1 to use is the problem like some of the other ones, Like, no, I know we can, I know where to go. I know we use it. This one, it's tricky. I mean, it's not a category 3. It's not like we'll never do it. But it, it's kind of like I have to find the right way to do it. It requires a lot of finesse and it's tricky.</v>
+
+00:20:12.770 --> 00:20:13.850
+<v Speaker 2>It also requires</v>
+
+00:20:16.230 --> 00:20:20.290
+<v Speaker 2>don't already kind of matter, Yeah. Are they going to be enough of a thing to even</v>
+
+00:20:22.120 --> 00:20:24.360
+<v Speaker 2>warrant shining another spotlight on?</v>
+
+00:20:24.370 --> 00:20:35.430
+<v Speaker 1>It yeah, no, no, it definitely it's, it's a linear mechanic and that what that means is it requires other parts of its of its kind of a certain kind. So right, you have to have or adapt to make aura swap really matter.</v>
+
+00:20:36.800 --> 00:20:39.210
+<v Speaker 2>Life link, deathtouch shroud and reach Did we just.</v>
+
+00:20:39.220 --> 00:21:07.770
+<v Speaker 1>Rename those No, we introduced them. Those didn't exist. Yes, those did not I mean the the they on keyboard, they weren't keywords. So what happened during future sight was I had been meaning one of the problems I had run into was I felt we were too stingy with our keywords and I really wanted to spread them out. I wanted to because what happened was like, hey, what's a red thing? Only redhead haste and and what I my feeling on keywords is it's this valuable commodity. What are we doing? We we have to spread them out a little bit.</v>
+
+00:21:07.990 --> 00:21:38.010
+<v Speaker 1>From a design standpoint, we kept making the same cards. We need a little more flexibility. So my plan was and happened during future site was to introduce them, give them keywords and then spread them out in colors. So the ones that got introduced, Life Link, which at the time was mostly a white thing, we spread the Black. Death Touch, which is mostly a black thing, we spread to green. Shroud, which was a green thing that spread to blue. The blue and green have both done similar things and then Reach. Reach only existed,</v>
+
+00:21:38.090 --> 00:21:47.050
+<v Speaker 1>didn't preach anywhere. In fact, there's a big question of who's supposed to get reach other than green. I think it's white is supposed to be secondary reach, but we very rarely ever do reach any other color.</v>
+
+00:21:47.060 --> 00:21:48.110
+<v Speaker 2>Needed because it has.</v>
+
+00:21:48.120 --> 00:22:00.270
+<v Speaker 1>Because it has Flyers, yeah, maybe red. I'm not sure who needs reach. But with the reason we did it was I didn't, I didn't care if we had it. I didn't need a keyword in because it's not the kind of thing we tend to use in in keyword form a lot.</v>
+
+00:22:01.720 --> 00:22:14.760
+<v Speaker 1>The reason we need keywords is when you make a cycle of things and you're doing some new thing and you need to make give them variety. We tend to give them creature keywords, but we need a single word and so when they're spelled out, it's hard to fill on the card. That's why I needed the keyboard them.</v>
+
+00:22:15.170 --> 00:22:16.220
+<v Speaker 2>Especially in this.</v>
+
+00:22:16.940 --> 00:22:42.810
+<v Speaker 1>And reach by the way, we made reach not because I needed from a design standpoint, the rules he needed at because it made it easier to write the flying texts because if you just if flying is I can only be black by creatures with flying and reach, then it just defines it. Although this circular logic were like reaching flying to find each other by the other kind of have a dictionary when like what does this mean? It gives a synonym. What does that mean? Gives the first word OK, give me another. Give me another one</v>
+
+00:22:44.210 --> 00:22:44.620
+<v Speaker 1>form</v>
+
+00:22:45.430 --> 00:22:54.360
+<v Speaker 1>Ohh absorbed. OK, so the idea of Absorb was we did a trading card game called Star Wars, Star Wars the trading card game,</v>
+
+00:22:55.670 --> 00:23:03.750
+<v Speaker 1>and it was a Richard Garfield design. And then I was in charge. I worked with Richard on the original design, and then I was in charge of doing the very first act like the core set</v>
+
+00:23:05.150 --> 00:23:20.880
+<v Speaker 1>and one of the abilities. I'm not sure whether this ended up in the first set or not, but the idea of armor, the idea that when you shoot something it takes less damage because of an armor. And so Absorb was the idea of taking that mechanic that we had come up with for Star Wars and bringing the magic.</v>
+
+00:23:22.420 --> 00:23:23.550
+<v Speaker 2>Or is that a creature?</v>
+
+00:23:23.560 --> 00:23:31.290
+<v Speaker 1>Ability. Yeah, it's a creature ability. So what it means is Absorb 1 means that every point of damage the creature takes, it takes 1 less.</v>
+
+00:23:31.880 --> 00:23:33.310
+<v Speaker 2>Ohh so if I got.</v>
+
+00:23:33.320 --> 00:23:37.410
+<v Speaker 1>It right so the so the So what category where is absorbed 1, two or three?</v>
+
+00:23:38.650 --> 00:23:39.220
+<v Speaker 2>Umm,</v>
+
+00:23:42.290 --> 00:23:42.730
+<v Speaker 2>I don't know.</v>
+
+00:23:43.460 --> 00:23:49.630
+<v Speaker 1>So you would think one, because it's a, it's a cleanability. It's it's really flavorful, but it's too.</v>
+
+00:23:49.700 --> 00:23:50.290
+<v Speaker 2>Hard to.</v>
+
+00:23:50.700 --> 00:24:04.070
+<v Speaker 1>Why is it too? Why is it too No one and no, I think I mean I think we can. I mean the idea. I don't know. I'm not sure absorbed with the best word, but the flavor of of armor is pretty cool of like I'm harder to hurt, you know, I thought the flavor was cool.</v>
+
+00:24:04.180 --> 00:24:04.960
+<v Speaker 2>Because it's not.</v>
+
+00:24:06.790 --> 00:24:24.790
+<v Speaker 1>I don't know, it's the development reason actually. It's too good. It's really, really, really freaking absorb one. It's really good. Like insanely like we didn't realize how good it was till we made a couple and they were like, oh, this is insanely good. And and that's not even you can start comboing with things. We're like.</v>
+
+00:24:26.960 --> 00:24:32.100
+<v Speaker 2>Let's see, if you have 5 toughness and you have absorbed one, Someone can't shoot 2 spells at you to kill.</v>
+
+00:24:32.110 --> 00:24:32.750
+<v Speaker 1>You right.</v>
+
+00:24:32.760 --> 00:24:34.300
+<v Speaker 2>They have to over. It has to be such.</v>
+
+00:24:34.310 --> 00:24:43.130
+<v Speaker 1>Overcorrect like we I forget what size we have imagine right you have 55 is like 2 lightning bolt is not enough to kill you right? That sucks. You know</v>
+
+00:24:44.400 --> 00:25:14.530
+<v Speaker 1>that thing will never that's why it's in category 2, but I do admit that it's a developmental problem and whenever I bring it up like like a couple of times I said, what do you guys maybe what you think absorb the development always does OK, I'm making a face that you can't see on audio, but I'm a grimace grimace yes. So anyway, I I like the flavor absorb. I think absorb is a very cool flavor and it works a little better than Star Wars where we didn't have a Star Wars had a lot more damage happening. So reducing one damage you is a die roll in game. You had a lot of</v>
+
+00:25:14.610 --> 00:25:21.070
+<v Speaker 1>OK, so reducing one damage wasn't this big deal when people were rolling, you know, 8 dice or 20 dice or whatever, OK, trying the next.</v>
+
+00:25:21.080 --> 00:25:23.020
+<v Speaker 2>One grave storm.</v>
+
+00:25:23.160 --> 00:25:26.550
+<v Speaker 1>Grave storm. OK, so Gravestorm is a very dove.</v>
+
+00:25:27.320 --> 00:25:27.790
+<v Speaker 2>Storm.</v>
+
+00:25:27.800 --> 00:25:29.070
+<v Speaker 1>Storm very good.</v>
+
+00:25:30.460 --> 00:25:33.200
+<v Speaker 1>I lived with you. Some of the some some easy ones,</v>
+
+00:25:34.660 --> 00:26:04.080
+<v Speaker 1>Grave storm was a I came up with gravestorm. I was trying to come up with a tamer storm was the idea because storm storm is as mechanic that I always joke is kind of like the relationship that went bad that you keep thinking maybe next time it'll go better. And so every time you rekindle, it goes horribly again. And then you're like, OK, you know, OK, that's it. I've learned my lesson. And then somehow you keep going back and going. This time it'll work.</v>
+
+00:26:04.870 --> 00:26:07.450
+<v Speaker 1>And Storm has burned us every time we've ever used it.</v>
+
+00:26:08.730 --> 00:26:13.950
+<v Speaker 1>Furnace. Well, grave storm. Problem is it's too much like storm. I think it's just,</v>
+
+00:26:14.900 --> 00:26:21.150
+<v Speaker 1>I mean, we did it on one car and I think it was OK, but it it's not the kind of card you can put in lots of mechanics because it's just,</v>
+
+00:26:21.840 --> 00:26:37.010
+<v Speaker 1>it has, I mean, it's not quite as broken as Storm, but that's, you know, like it's, I don't know, it's like comparing, you know, it's not quite as much a dictator as Mussolini. But notice I went to Mussolini because everybody just Hitler. I'm trying to trying to do different.</v>
+
+00:26:39.470 --> 00:26:40.370
+<v Speaker 2>How about</v>
+
+00:26:41.770 --> 00:26:42.640
+<v Speaker 2>frenzy?</v>
+
+00:26:42.970 --> 00:27:05.600
+<v Speaker 1>Frenzy I OK frenzies McKenzie I like a lot. So frenzy is frenzy N and when you if you attack and are not blocked, you get plus and plus O and we've made a few cards. I mean not called frenzy, but imagine had a few cars that have done this. I like frenzy a lot. Development does not like friends and so we are we have this constant fight because I think friends is a real cool mechanic and development doesn't like it. So</v>
+
+00:27:07.170 --> 00:27:26.820
+<v Speaker 1>right when you're not blocked, I I don't even understand why they don't. I mean, I kind of understand, but I think it's neat mechanic and that it says, Hey, hey, you better get in a fight with me or else I'm pretty dangerous and and kind of encourages combat, but tell me does not like it. So I have tried to get frenzy in multiple times and each time development sort of said they didn't want to do it. So</v>
+
+00:27:27.470 --> 00:27:36.440
+<v Speaker 1>I'll put this in camp 2 and that it would be camp one if development liked it at all. So I'll put in camp 2IN that I need a, you know, slowly warm them up to it.</v>
+
+00:27:37.260 --> 00:27:52.830
+<v Speaker 1>OK, we have one one last one before we're gonna get to work year transfigure. OK. So trans figure was a take on transmute which was the DEMIR mechanic from Ravnica and trends figure I think are?</v>
+
+00:27:52.840 --> 00:27:55.880
+<v Speaker 2>Created from in play instead of in your hand.</v>
+
+00:27:57.400 --> 00:28:18.260
+<v Speaker 1>Transmission in your hand, but transmute was I turn any spell into any other spell that has the same converted mana cost. I think Transfigure are creatures that turn into India the creature with the same manner costs, aren't they? They're in play. They're in play, yeah. So. So the idea is I attack with this thing, and if I have the man, I could turn into any other creature with the same as me.</v>
+
+00:28:19.690 --> 00:28:50.300
+<v Speaker 1>Trend. The problem with trends figure is the same problem with Transmute, which is again a developmental issue. I mean, a design issue too, which is what we call repetitive game play, where part of the fun of Magic is you want different things to happen in different games. And if the same thing keeps happening, then it becomes kind of boring. And so we're very dubious in mechanics that say, hey, every time I play the same thing is going to happen. And so tutors tend to lead to that. OK, anyway, so guys, we've not gotten through all the keywords. I want to talk about the keywords.</v>
+
+00:28:50.430 --> 00:28:54.210
+<v Speaker 1>We'll do a Part 3 next week. Matt probably won't be with me.</v>
+
+00:28:55.770 --> 00:29:19.760
+<v Speaker 1>That's enough done. So I want to thank Matt for joining us today and we will have him in the future. He he's our he's my most now is your second show. So now you think my most my most used guest, I guess honored. So anyway, thanks for joining us and guys, next week we'll do I'll talk about the rest of mechanics. Maybe my 30 minutes in. We'll see. There's a lot of mechanics. So anyway, thanks for joining us and this time to go make the magic.</v>
+

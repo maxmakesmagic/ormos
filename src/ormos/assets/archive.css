@@ -236,8 +236,12 @@ button, #query, #video-query { padding: .45rem .65rem; border-radius: .2rem; }
 .video-duration { width: 5rem; white-space: nowrap; font-variant-numeric: tabular-nums; }
 .video-alternate { display: block; font-size: .85rem; }
 .video-player { display: block; width: 100%; max-height: 70vh; margin-top: .65rem; background: var(--header); }
-.video-actions { margin-block: .75rem 2rem; }
-.video-transcript { margin-block: 2rem; }
+.podcast-player { display: block; width: min(100%, 40rem); margin-top: .65rem; }
+.podcast-table td:nth-child(3) { width: 7rem; font-variant-numeric: tabular-nums; }
+.podcast-table td:last-child { width: 4.5rem; }
+.podcast-notes-text { white-space: pre-wrap; }
+.video-actions, .podcast-actions { margin-block: .75rem 2rem; }
+.video-transcript, .podcast-transcript { margin-block: 2rem; }
 .transcript-block {
   display: grid;
   grid-template-columns: 4rem minmax(0, 1fr);

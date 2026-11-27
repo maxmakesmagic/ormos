@@ -30,7 +30,7 @@ function seekFromTranscript(player, transcript) {
   };
 
   transcript.addEventListener("click", (event) => {
-    const cue = event.target.closest("[data-video-seek]");
+    const cue = event.target.closest("[data-video-seek], [data-podcast-seek]");
     if (!cue || event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
     event.preventDefault();
     history.replaceState(null, "", cue.hash);
@@ -44,6 +44,6 @@ function seekFromTranscript(player, transcript) {
 const filter = document.querySelector("[data-video-filter]");
 if (filter) filterVideos(filter);
 
-const player = document.querySelector(".video-player");
-const transcript = document.querySelector("[data-video-transcript]");
+const player = document.querySelector(".video-player, .podcast-player");
+const transcript = document.querySelector("[data-video-transcript], [data-podcast-transcript]");
 if (player && transcript) seekFromTranscript(player, transcript);

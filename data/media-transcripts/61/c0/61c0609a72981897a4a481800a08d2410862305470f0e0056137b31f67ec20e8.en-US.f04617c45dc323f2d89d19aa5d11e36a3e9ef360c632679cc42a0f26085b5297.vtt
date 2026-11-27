@@ -1,0 +1,212 @@
+WEBVTT
+
+00:00:02.480 --> 00:00:32.130
+<v Speaker 1>Hello everyone, So for a long time I've been fascinated by the idea of podcasts but didn't quite know how to do one just because it takes a lot of time and I I'm pretty busy. But then one day it dawned on me that I live in a city called Issaquah that's about half an hour away from work. So every morning I have to drive to work takes about half an hour. And I'm like oh, what's the perfect amount of time for a podcast? And I'm just driving to work anyway. Why don't I use this time to do a podcast?</v>
+
+00:00:32.230 --> 00:00:55.200
+<v Speaker 1>So anyway, I'm experimenting. This is a brand new idea. I've never done this before. But anyway, I'm going to call this drive to work. That's my name of my podcast. And I thought each time what I would do is I would examine a different set that I worked on and just talk about. I don't know how it came together, how the design happened, sort of behind the scenes. So I decided I will start with Tempests since that is the first set I did.</v>
+
+00:00:55.820 --> 00:01:25.830
+<v Speaker 1>So I just find this in my article a little bit, but let me let me talk about the setup of how I ended up getting Tempest. So when I first got hired, Mike Davis was the head of R&amp;D. He and I had a talk and I said to him, I said, Mike, I think I'm a designer. I don't think I'm a developer, you know, I think that's where my my skills lie. And he said, well, we have Richard Garfield, we don't need a designer, but we need is developers. So I'm like, OK, sign me up. So I started at Wizards as a developer,</v>
+
+00:01:25.930 --> 00:01:56.560
+<v Speaker 1>but in my back her head, you know, what I really wanted to do was design. So, um, after Mirage Block was done, they didn't have anyone set to do the next large set. So I convinced Richard to be on the set with me. Richard hadn't done a set since Arabian Nights. And then I went to Joel Mick, who was in charge of Magic Missile in the time and I said, hey, I would like to do the next large set and Richard Garfield will be on the team with me. And that was enough. I guess they have, they've obviously had a lot of faith in Richard</v>
+
+00:01:56.660 --> 00:02:22.750
+<v Speaker 1>and Richard was, you know, said he wanted to do with me that they said, OK, Mark, go ahead. And they let me pick my team. And so along with Richard, I picked Mike Elliott, who is someone who at the time hadn't done a lot of design either, but he was like me and he and I shared a lot that we wanted to do design. So I had Mike on the team and then Charlie Catino with someone who won the original playtesters. He'd been on The Mirage team. And I thought Charlie would be good mix someone who had a little more experience in done a lot more development.</v>
+
+00:02:23.710 --> 00:02:53.940
+<v Speaker 1>So anyway, I put together the team. I somehow got the OK for it. Most designers don't start with a large set, but this was way back when, before things were well defined. So what happened was the four of us went down to Portland. Richard's parents live in Portland. And so we stayed at their house. And the idea was we just for a week sort of did nothing but work on the design. So the way it worked was both Mike and I, because it was our first design</v>
+
+00:02:54.010 --> 00:03:25.290
+<v Speaker 1>and both of us were, you know, designer wannabes, had actually designed a lot of cards. Mike had actually designed an entire set. I forgot the name of it, but it had the flavor of fighting with the afterworld. I remember correctly. But anyway, when Mike had gotten hired, Wizards had purchased this at as part of the hiring. And so Mike and all these cards that he had from this set, I'm on the way. I hadn't made a set, but I just made a lot of individual cards because I've always been excited by Magic. And so I,</v>
+
+00:03:25.430 --> 00:03:55.660
+<v Speaker 1>I just designed my own spare time, design a lot of cards. Richard also, Richard hadn't really designed any Magic cards since Arabian Nights. So Richard had a lot of ideas that were up in his head. Like I said, Charlie was brought along more because I wanted a development force. I didn't expect Charlie to design a lot of cars. He made some, but not the volume of the three of us. Because one of things about that team was it was all these people who really wanted to design that either hadn't designed or had designed in a long time. And so we were just, it was explosive. We made a crazy</v>
+
+00:03:55.730 --> 00:04:07.590
+<v Speaker 1>on the cards and in fact, what you'll find out is a lot of mechanics. So next year, the year the foul Tempest was urged, the saga we're urged the sagas Major 2 mechanics were cycling and</v>
+
+00:04:09.070 --> 00:04:38.950
+<v Speaker 1>Echo, and both of those actually came from the design of templates. So I'm like we made some mechanics that like we made the next year's mechanics as well. So what happened was let's run through the mechanics. OK, So by back was an idea of Richards. What had happened was I had this idea for draw triggers that I love the idea of having cards that when you drew them would do something. So the idea was imagine a drug damage battle that was a little more efficient, but it did damage to you</v>
+
+00:04:39.020 --> 00:05:09.180
+<v Speaker 1>whenever you drew it. And the idea is, well, how many days do you put in your deck? And there's all this neat scenarios of where these cards have this effect. But what we found out was it's hard to have a negative effect in the game in which is hidden information because how do you know that you drew it? And it's disadvantageous for me to have it? Well, maybe I don't want to tell you I drew it. And so we toyed with the idea of having different like different color back. So like, remember at this time, like sleeves really weren't popular yet that you would just see, ohh, you must have one of those.</v>
+
+00:05:09.460 --> 00:05:39.790
+<v Speaker 1>But a lot of people didn't like that idea. We toyed with the idea of making them opt in things where you could choose when you reveal it. And that didn't quite play out. I mean, we tried a whole bunch of different things. None of it really worked out. Obviously modern day those would, you know, miracles are kind of the end state where we finally found a way to do that. So Richard had a different idea. He had an idea for a card that you could reuse if you were willing to pay extra for it.</v>
+
+00:05:40.650 --> 00:06:10.110
+<v Speaker 1>And I'm not quite sure it came out of the discussion of the draw trigger revealed. I don't remember exactly where it came from like, but he had this idea and it somehow as we were talking about having encouraged as you play them did something Richard said, Well, I've always had this idea, you know, you pay extra mana and at first one of the things we did in design was I just put any good idea in the set. So like the early version of Tempest design, it probably has like 15 mechanics in it. We had like it was interesting. I put it on the card and Richard</v>
+
+00:06:10.180 --> 00:06:26.040
+<v Speaker 1>get a couple. And so this is just had a couple cards with this mechanic in it. I mean, I didn't even name the mechanics at the time. I mean, some of them might have had names, but I I just was putting anything interesting in this app. So Richard a couple of these we put him in. I really thought nothing of it, like, ohh, here's a few cards. This might be cool.</v>
+
+00:06:27.400 --> 00:06:41.740
+<v Speaker 1>So also we had shadow. Shadow I think was from Mike Elliott. I think shadow would come from his set, the astral set. And because it was all about these creatures in the other place. And I think the shadow is representing that.</v>
+
+00:06:43.190 --> 00:07:13.380
+<v Speaker 1>So we're the idea that we would do shadow is sort of this different form of invasion. And also from the same set, Mike had the slivers and the flavor and the set, if I remember correctly, was that there were some mighty being and that that person somehow fell to earth and broke into pieces into all these things were part of this original being. And the reason they all work together was, you know, like instead of being slivers, it was like I of whatever his name was or your leg of whatever his name. And the idea is that they all sort of joined together.</v>
+
+00:07:14.320 --> 00:07:43.620
+<v Speaker 1>The idea I liked a lot was of a of a race for people that don't know slivers ended up being they are essentially shape changing creatures, but they have a telepathic link. So the the flavor of it was they have really changed shape. But since they share telepathic bond, if one of them learned how to make a wing and it was near enough to the other one will it now knew how to make a wing. And if you knew how to make a wing, you could fly. That was the flavor of it. So I liked, I liked Shadow,</v>
+
+00:07:43.800 --> 00:08:13.490
+<v Speaker 1>I like slippers and both of those I kind of knew we put in large amounts, buyback was put in smaller amounts. I mean, Richard come up with cycling, we put a few of those in. Mike had Echo. I think that might have been slightly larger early on. A lot of the mic stuff was Mike had made it from this other side. It's interesting. I really have no mechanics in Tempest. I'm have a few things like the Kindle. I made Kindles the card and once again, I didn't make home mechanic out. I just said, oh, here's a neat card and Kindle. We would go on later</v>
+
+00:08:13.740 --> 00:08:32.680
+<v Speaker 1>you may knowledge and then I made a Kindle mechanic in Odyssey. It's quite a lot of individual cards that had some mechanical potential. Ohh the one mechanic I did make in Tempest was the spikes which ended up not really showing up till stronghold I had. We ended up putting one spike drone as a little teaser went on the set</v>
+
+00:08:34.130 --> 00:09:03.760
+<v Speaker 1>and my idea of the space was I love the idea of these creatures that sort of could boost other things, but the spikes working nicely with the spikes. The thing that we need about that was the realization that spikes were better with spikes because only spikes could remove the counters. So if you put a spike with other creatures, it could boost them, but only through spikes. You can keep moving them. And that way it was had a linear quality too, but yet it could stand alone. So anyway, we throw the hodgepodge.</v>
+
+00:09:04.560 --> 00:09:34.350
+<v Speaker 1>The Tempest was just three strong designers. I mean, if you look at the history of Magic, I mean, Richard and Mike and I, you know, are probably three of the five top designers as far as just output of cards. And we were all like literally in the seven which Mike and I first sat, Richard hadn't done Magic design a couple of years. I mean, we were just bursting with ideas and we just, we made a crazy amount of cards. The other thing that's funny is for some reason is the four of us down there, we decided</v>
+
+00:09:34.460 --> 00:10:04.530
+<v Speaker 1>different for the week. We weren't gonna shave like we like somehow that would give us creative energy. And so I don't know if you got pictures that it, but like so for the week we just didn't shave. And every day we we make jokes about how much beard people had and I remember correctly. Charlie was the one who who boarded up the fastest. But but everybody by the end of the week, actually, it was all the time to team all had beard potential. So anyway, So what happened was we spent</v>
+
+00:10:04.600 --> 00:10:12.880
+<v Speaker 1>this week, we we generated a crazy amount of cards. And so the next big step was play testing.</v>
+
+00:10:14.020 --> 00:10:20.410
+<v Speaker 1>And so it's very quickly like we would figure out whether something had potential. And a lot of things that people don't realize is</v>
+
+00:10:21.100 --> 00:10:51.150
+<v Speaker 1>you don't understand what potential your cards have when you make them because I mean, you're just enthralled by something you think is cool, but you don't necessarily know, you know, you don't really understand what it is until you play with it. And I mean, I make this, I constantly say to people, if you're going to make a set, you have to play with your set. There's only so far you can get like thinking things through. You know that. And then when you play with it, we'll start finding is things have a certain feel to them. Well, I'm a really big believer in when you design</v>
+
+00:10:51.290 --> 00:11:21.350
+<v Speaker 1>of your set wants to have a certain feel to it that when your audience plays their response, they're people have an emotional response. And whether you're happy or sad, whether it was fun or not is not intellectual. You don't intellectually decide that you like something or something fun. You kind of on a gut level. And so if you're trying to evoke that out of your audience, then you, the designer have to make sure that's imbued in what you're doing. And I've always believed this. Now I think the more recent</v>
+
+00:11:21.420 --> 00:11:50.880
+<v Speaker 1>they've been much more conscious about it, like now when I design the set and I pass it along to development, I'll say like, here's the mood I'm going for, you know, in the stride was trying to create a sense of dread, you know, but back then I just kind of knew certain things felt right. And so I I pushed the things that had a good feel. So what happened was we play tested and we figured out that there was just too much going on that we had lots of good ideas, but we had too many good ideas. And I think what happened actually is</v>
+
+00:11:51.440 --> 00:12:21.510
+<v Speaker 1>a lot of this didn't even happen until development when I turn Tempest in, it was over brimming with things. And I think development pulled a bunch of stuff out like I think cycling Echo were there in small numbers and I think Bill or actually lead developer was Henry Henry Stern. I think Henry won that said OK, this we have really good ideas, but it's too much and we pulled back a little bit. I do know that buyback, we played with it and it is instantly apparent to me from playtesting that we like, we had something like buyback really was something</v>
+
+00:12:21.600 --> 00:12:51.980
+<v Speaker 1>just phenomenal. Um, and like I said, it's funny, we've done polls and I know that both buyback and flatback tend to do really well in polls, which makes me believe that mechanics with back in their name. No, I think that people like doing things multiple times. It's fun to get extra utility out of your things and there's kind of nothing funner than doing something and then getting to do it again. And buyback is really the first time we had done something like that and it was clear to me there was a cool mechanic and so I upped it in design.</v>
+
+00:12:52.080 --> 00:13:00.150
+<v Speaker 1>It went from being kind of on a couple cards to being one of the major things. And then I realized that I ended up realizing that Shadow and</v>
+
+00:13:01.500 --> 00:13:25.260
+<v Speaker 1>Obama has interesting dynamic that I really enjoyed, which was that Shadow was all about sort of making this fast aggressive beat me down beat beat him down game. And buyback was about this slow controlling game. And they actually had this neat diversity, which is buyback was very powerful if you got to the point where they really started kicking in.</v>
+
+00:13:26.440 --> 00:13:56.820
+<v Speaker 1>The shadow was neat in that, you know, it was good up front, but it ran out of steam. And so it had this nice. I mean, a lot of people think like that shadow and buyback sound like just too random mechanics. So they don't have anything to do with each other. And nowadays, like I'm mechanics are themed and they they carefully have a connection to each other. But I did in my mind very much pick those are the two major mechanics because they have this sort of opposition to them. So meanwhile, I'm gonna explain what's going on. So now is this going on? But at the same time,</v>
+
+00:13:57.220 --> 00:14:25.950
+<v Speaker 1>Mike Ryan, who is an editor and a friend of mine, we had pitched to the powers that be the magic have a story and we sold them on the Weatherlight saga. Now that's that's its own story. Mike and I ended up getting kicked off the project. But but temp is very much we were involved. And So what I did was I was working as we would come with mechanics to figure out how it made sense in the story. And we knew that we were doing</v>
+
+00:14:27.220 --> 00:14:57.120
+<v Speaker 1>a very by the books, the epic, the hero's journey. For those that know Joseph Campbell. We were following by the literally by the by the letter kind of what Lucas did with Star Wars. And so we knew we were going to a dark plane. We knew that we were sort of that the main hero was going to face his darker reflection. And but anyway, so we liked the idea of the plaintiff Wrath. In fact, Wrath was the name we came up with is our play test</v>
+
+00:14:57.190 --> 00:15:07.470
+<v Speaker 1>game was Wrath and then it ended up sticking and yes, yes, by the way, 2 seconds after Wrath was a name I made a card called Grapes of Wrath or sorry, Apes of Wrath.</v>
+
+00:15:09.190 --> 00:15:39.540
+<v Speaker 1>So we ended up saying that the we like the idea of shadows. We got this concept of this world that was trapped within the world and that these creatures existed, but they were not quite all there. And then the slimmers we ended up putting in the flame pits like like the idea that Volrath like to experiment on things and he found this native race of these these mesomorphs that could, you know, change their shape and that he was fascinated by them. In fact, metallics liver was him experimenting and making something.</v>
+
+00:15:39.660 --> 00:16:09.680
+<v Speaker 1>You're making a sort of a spy, if you will, to sneak in. Notice metallic sliver is the only sliver that doesn't grant anything. It just takes because it's artificial and it's not really a sliver anyway. By the way, that was supposed to be called silver sliver and we got the arc back and it didn't look silver and we're like ohh. So anyway, they're supposed to be silver slipper. OK, so buyback. We never really gave her a great. One of the things about skull mechanics is sometimes there's a flavor that makes a lot of sense</v>
+
+00:16:09.780 --> 00:16:20.590
+<v Speaker 1>and sometimes like, well, it doesn't have a lot of strong flavor. We ended up not giving a lot of flavor, but both Shadow and slippers we we very much worked into the story.</v>
+
+00:16:23.150 --> 00:16:31.960
+<v Speaker 1>The other big thing about the design was not only were we doing mechanics, but we were just making one of cards left and right. And like I said,</v>
+
+00:16:33.250 --> 00:17:04.510
+<v Speaker 1>course that was chock full of stuff. So there there's all sorts of interesting things for us to pick from. Like one of the hard times I had was we just had lots of new cards. And so I kind of just went through. I liked I'm a big believer of your asset should not only have a strong theme, but just have a lot of cars that you want to build around or cars that kind of, you know, inspire you. And so a lot of the rares I was trying to make cards. I'm like, what are you going to do with this? I don't know, you know, living death or recycle or you know, things in which, well, I think you can do cool things, but I didn't know what they were.</v>
+
+00:17:06.220 --> 00:17:31.270
+<v Speaker 1>The other thing that's very interesting, by the way, is how what we call parallel design, how you make a card and somebody else at the same time makes the exact same card. Like recycles a perfect example where Mike and I independently almost made the exact same card and then I sort of blended them together. I don't remember, I think one of them was black and one was green. I don't think both of them are green, but anyway, I blended them together and like,</v>
+
+00:17:31.940 --> 00:18:01.750
+<v Speaker 1>you know, because a lot of people always love to ask who made card actor who made card, why? And it's not always so clean copy. Sometimes one person made it, it's clearly their card. But other times like this is parallel design where both people kind of made their version or sometimes someone makes in someone else tweaks in and you know, a bunch of people can have their hands in their design. It's not always so clear cut. Now Tempest was interesting because we had such a reservoir of cards that a lot of people had turned in a whole set ideas.</v>
+
+00:18:01.990 --> 00:18:30.160
+<v Speaker 1>Um, you know, there was sometimes in design. Now I do meetings were like, OK, you know, in industry it's like we're going to design to evil twin and then make the card templates. We had nothing like that because we had so much stuff that had been saved up over time. So anyway, we played test. We I started reading out a little bit. Like I said, I didn't read out everything, but I started figuring out what mechanics had the most say. I was just trying to get a feel for Tempest. And so</v>
+
+00:18:31.380 --> 00:19:02.040
+<v Speaker 1>I take it and I, I played the cards that I think are valuable and I spent a lot of time. One of the things about your first set that it's funny because I'm working on my, I know 18 sets and like that is the first time you do it, you are super nervous because you've never done it before. You have no instincts to guide you. And so I talk about making a set skeleton. Tempest is where I sort of came up with the, the set skeleton. It said I need a structure. And so I, I sort of laid everything out and then I figured out</v>
+
+00:19:02.120 --> 00:19:32.170
+<v Speaker 1>what do I need? And once I sort of laid it out, I started figuring out where things could go. And then I had a lot of fun also, cause our team had so much creativity of like, ohh, well, where can we do this? You know, like Kindle. Let me talk about Kindle for a second, because I'm very proud of Kindle. So Kindle came about because I loved the card playgrounds. I'm Richard had made it and I really loved the idea of a car that sort of went up in value when there was more of them. And so I think, I think the coverage</v>
+
+00:19:32.250 --> 00:19:40.350
+<v Speaker 1>called plague bolt, which doesn't sound red, but I was trying to make a night to playgrounds and I was trying to figure out how to</v>
+
+00:19:41.180 --> 00:20:11.310
+<v Speaker 1>haven't for the growth time. And eventually I've figured out, ohh, the graveyard was the answer because you had to put the card in the graveyard. And that way when you cast the first time, well, did 2. Second time he gets accounted. Now it's 3 and it goes up with time. It's funny that Kendall ended up being very defining in the limited environment and in The Tempest block constructed environment, because that ended up being the main bolt and it was an adjustable bolt. So like, you know, you, it required your game play to sort of figure out how best to use it.</v>
+
+00:20:11.390 --> 00:20:41.620
+<v Speaker 1>And it it definitely I know, for example, in the LA there's a Tempest only the one Dave Price won the pro door that like understanding when to catch your Kindle was like super important. Anyway. Other cards, I mean like living death has turned in my Mike Elliott. I love living death. If in fact, I think it might be my favorite card that might be designed in the set only cars. It was neat card that has huge flavor. It sort of traded life and death and then just I'm a Johnny, right. I love building, you know, building decks.</v>
+
+00:20:41.690 --> 00:20:50.210
+<v Speaker 1>So it just like, Oh my God, what do you do with this? And and turned out to be a very powerful card. But I think my fascination wasn't the power level</v>
+
+00:20:51.850 --> 00:20:52.780
+<v Speaker 1>anyway. So</v>
+
+00:20:53.680 --> 00:21:23.490
+<v Speaker 1>I get the I get this at we play tested a lot. I mean, we had the week away to sort of make the germ of what was going on. But we played this a lot. I did a lot of tweaking. I spent more time with that file than from any file ever. I mean, I was, I mean, I, I really wanted to prove myself because this was my essentially my audition to be a designer. I mean, obviously a pretty big audition since it was actually a large sack, but I really wanted to, you know, to do the best I could.</v>
+
+00:21:23.570 --> 00:21:53.130
+<v Speaker 1>Um, and what ended up happening was I did all this story stuff because I was also doing part of the story and I spent a lot of time working with Henry because I was also, I'm pretty sure it was on the development team. I wasn't the lead, but I was on the team because at the time everybody was on the development team. So I was not only on the design team, I was on the development team. And that meant I was around to explain things and defend things and sort of make sure the design team or the development team understood what I was up to.</v>
+
+00:21:53.640 --> 00:22:04.110
+<v Speaker 1>But everyone, everything I know, it all clicked together. Everything sort of really worked. It was Henry's first lead development. It's funny because temp is really ended up being</v>
+
+00:22:05.390 --> 00:22:21.280
+<v Speaker 1>are very watershed sort of set and it's funny they both Henry and I like it was our first time doing it, but it worked out well. I mean I I think that it it went over very, very well with the with the audience. I'm absolutely the story really connected and the</v>
+
+00:22:22.210 --> 00:22:46.100
+<v Speaker 1>I mean, I think it was just a set that really was kind of different than sets before it. I mean, all the other sets, Mirage and Ice Age have been made when Richard originally imagine was doing well and Richard realized he was going to need some other sets. And so those have been worked on for many years and that this was the first step that said, OK, we're designing this at X amount of time, you know, and make it, you know, and in retrospect, I overstuffed it because,</v>
+
+00:22:47.410 --> 00:23:17.770
+<v Speaker 1>and I would just trying so hard to impress that I did. What often people do when they are trying to impress is I just put everything in the sun under it. And the big lesson of that, I mean, one of the things that to me is important is when you walk away from design and say, OK, I'm done. What did I learn from it? And one of the things Tempest taught me was a the importance of flavor interconnecting. I think a lot of having a story made Tempest kind of more interesting. And I learned that figure out what your best thing is that overstuffing</v>
+
+00:23:17.840 --> 00:23:21.340
+<v Speaker 1>something putting, you know, you're not going to make the best</v>
+
+00:23:22.010 --> 00:23:51.620
+<v Speaker 1>cupcake in the world by putting 8000 things in it. You know, figure out what get one thing or two things. You know, the the best designs are not. Somehow people think that if you you show all these great stuff that it's going to make this a better. But what ends up happening is you have no focus. And the thing that development did well, that Henry did well is saying, Hey, you know, let's get rid of these good but extraneous things and help make this at more be about what I'd want to set to be about, you know, about shadow, about buyback and about a lot of the flavor that we were trying to get in.</v>
+
+00:23:52.600 --> 00:24:22.080
+<v Speaker 1>And I mean, I learned from the set that the key, I think, to making a good set is really crystallizing on what you want and then making sure everything helps that and move that along. And that one of the hardest things I think for designers to understand is you might come up with the most awesome thing. Literally like this card is just awesome. It's the best thing ever, you know, But if that individual card is not moving</v>
+
+00:24:22.150 --> 00:24:51.970
+<v Speaker 1>along the whole set, if it's that advancing what you're doing, you know, you're actually hurting, you're sad and it's hard. It's so hard to understand that this thing that in a vacuum it's so beautiful, it's such a wonderful thing, is detrimental. But part of being a good designer, good set designer, is putting the set before anything else, that the set is more important than anyone component of it and that. So what happened was Tempest came out and it was a huge success. It was,</v>
+
+00:24:52.990 --> 00:25:23.010
+<v Speaker 1>I mean, I, I know walking in I was very nervous because I, I wanted to prove I could design and it just came together wonderfully. The set went over really I mean gang Busters and it's it, it really moves me that like before that said I was just, I was a developer and after they said like, ohh, mark said designer and I mean, it's opened the doors for me like moving forward. Like people thought of me as a designer and that, you know, I sort of had a good audition and it's</v>
+
+00:25:23.080 --> 00:25:28.810
+<v Speaker 1>honey. I will always think of Tempest as being, I mean, people always ask me what my favorite set is and, and</v>
+
+00:25:29.460 --> 00:25:55.860
+<v Speaker 1>you know, you remember your first, as they say, uh, I mean, temp has always had such an important place in my heart. It was really me pouring out my heart and soul. It was really me emptying ideas I had for years. I mean, I'm big on story. It was, it was the time where I really first integrated story into mechanics. And I mean, obviously that would pay off much later. But anyway, it went over well and it really sort of made,</v>
+
+00:25:57.220 --> 00:26:00.950
+<v Speaker 1>made me put me on the map from a design standpoint. Um,</v>
+
+00:26:01.640 --> 00:26:03.910
+<v Speaker 1>and it's funny, like I look back and like,</v>
+
+00:26:04.680 --> 00:26:34.370
+<v Speaker 1>um, ohh, here, here's a quick story. I'm almost to work, so I'll tell a quick story. We get to work. So the I believed at the time of a concept called the marquee card, the idea that every set you have a card that kind of anybody could play in their deck and just did something kind of out-of-the-box you'd never seen before. I feel like Jester's cap was marquee card of Ice Age and green Totem was the one I made for Mirage. Anyway, Helm of Volrath was supposed to be the marquee card for</v>
+
+00:26:34.550 --> 00:27:04.630
+<v Speaker 1>um, for Tempest. And the idea of the card was you took over your opponent for turn you took them over. Yes, mind flavor was in Tempest and I couldn't. There was a problem with mana burn because your opponent, you just sort of kill your opponent by having the man burn themselves. And I just never quite got a template that anyone was happy with. I mean, later on we would be willing to do more flavorful templates that didn't quite explain everything. But in the day back in Tempest,</v>
+
+00:27:04.700 --> 00:27:19.020
+<v Speaker 1>you had to explain everything and just it wouldn't fit on the card. And I tried and I tried and it's the thing I'm most sad is The Tempest wasn't able to do. And obviously put in my back pocket and mirrored many years later, I pulled it out, but that's the card that I most wanted to get in Tempest that I wasn't.</v>
+
+00:27:19.770 --> 00:27:49.880
+<v Speaker 1>Uh, anyway, I'm driving up to Wizards. Uh, so I'm, I'm curious what you guys think of this. If this is something that people like, I could do more of them. Like I said, I got nothing better to do my drive to work. So I'm more than happy to talk about magic and sort of house that's got made. I think I've decided that I like this podcast to be about the making of things, you know, rather than talking modern day because there's tons of things talk about modern day. I kind of fun digging back in the past. Let me tell some stories and maybe never got told.</v>
+
+00:27:50.750 --> 00:28:20.080
+<v Speaker 1>And to me I guess podcasts are about storytelling. So I I guess I enjoy most digging back. But anyway, please I would love any feedback on this. If there's something you guys would like to see more of I'd like to know. I definitely had fun doing it so hopefully I'll be more drives to works in the future. Anyway, I am now pulling up and parking in my space. It is time for me to go make some magic cards. So thank you very much for listening and I guess it's time to go to work.</v>
+

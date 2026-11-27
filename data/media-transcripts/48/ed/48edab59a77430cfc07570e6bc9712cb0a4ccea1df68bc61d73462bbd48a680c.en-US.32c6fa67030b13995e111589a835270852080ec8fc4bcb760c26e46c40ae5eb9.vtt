@@ -1,0 +1,923 @@
+WEBVTT
+
+00:00:02.590 --> 00:00:05.860
+<v Speaker 1>Players, welcome to round one. You may begin.</v>
+
+00:00:23.480 --> 00:00:38.230
+<v Speaker 2>Good morning, good afternoon, good evening and good night. Wherever you are in the world, you are extremely welcome to the Greatest Show on Earth. I'm your host Rich Hagen, bringing you all the razzmatazz</v>
+
+00:00:38.300 --> 00:00:48.420
+<v Speaker 2>and all the pizzas from Tinseltown as the Pro Tour of Dreams reaches the Dream Factory in Hollywood, CA.</v>
+
+00:00:49.790 --> 00:01:20.020
+<v Speaker 2>Under the dazzling chandeliers of the Hyatt Regency Ballroom, the A Listers and the celebrity wannabes will perform through 16 grueling action-packed rounds before the top 8 comeback for Super Sunday morning, ready to strut their stuff on the biggest screen of all. So what's the story here in Hollywood? Is this the Pro tour in the home of the brave? That's going to be the land of the Fay. Can the blue Black Fairies deck dominate</v>
+
+00:01:20.090 --> 00:01:50.550
+<v Speaker 2>show or will it just have a cameo role in the early scenes? Will we see gigantic battlegrounds as plucky Kithkin face down hordes of marauding ells? Will an unsurpassed Craftsman of deck design rewrite the script at the 11th hour and leave us gasping at the twists and turns in there combo of Doom? And can one of the award-winning Hall of Famers plot their way to succeed Johnny Magic as the latest Protour champ?</v>
+
+00:01:50.710 --> 00:01:59.680
+<v Speaker 2>This is magicthegathering.com and you've got the best seat in the house. Lights, Camera action.</v>
+
+00:02:14.590 --> 00:02:21.380
+<v Speaker 2>Well, we're out on our meta game run around. We'll get to going with Jonathan Perlman of the United States. Jonathan, what he got for us this weekend.</v>
+
+00:02:21.530 --> 00:02:23.260
+<v Speaker 1>Well, let's see. I remember going up playing a weird.</v>
+
+00:02:23.270 --> 00:02:26.720
+<v Speaker 2>Version of elves? How weird are we talking Green black?</v>
+
+00:02:26.760 --> 00:02:27.960
+<v Speaker 1>And we're talking green, white.</v>
+
+00:02:28.010 --> 00:02:31.260
+<v Speaker 2>Green white. OK, now what's the thing behind that? Where does the white come in?</v>
+
+00:02:31.730 --> 00:02:46.190
+<v Speaker 1>Actually, it's not actually playing any white sources, but the idea is I expect, or I'm hoping to expect a significant number of people playing red in order to be able to meta game against fairies and therefore to be able to prey on said red while having a decent game being pre sideboard against fairies.</v>
+
+00:02:46.200 --> 00:02:49.780
+<v Speaker 2>So yours is the best deck against the best deck that beats the best deck.</v>
+
+00:02:49.830 --> 00:02:57.400
+<v Speaker 1>Yeah, basically trying for that. And also I was tired and realized I needed to be able to have something and I did not want to play Seven Fairy Mirrors tomorrow.</v>
+
+00:02:57.520 --> 00:03:01.620
+<v Speaker 2>OK, I think that's perfectly valid. So as far as that, no white sauces but</v>
+
+00:03:01.730 --> 00:03:05.630
+<v Speaker 2>some white cards in field, does this mean we're talking about kitchen, Finks, main, that kind of thing?</v>
+
+00:03:05.640 --> 00:03:10.410
+<v Speaker 1>Exactly. OK. And the idea is it's not a card that's terrible against the rest of the field because he comes back.</v>
+
+00:03:10.480 --> 00:03:14.730
+<v Speaker 2>Yeah, he and back and right. Yeah, the the things are quite irritating I think.</v>
+
+00:03:14.800 --> 00:03:15.430
+<v Speaker 1>Well, that's the.</v>
+
+00:03:15.440 --> 00:03:31.030
+<v Speaker 2>Goal with him, right. OK, absolutely, John, best of luck with the weekend. Thanks you very much indeed. Thank you. So here's a man who knows everything about magic. I know this because he's about to go and work for Wizards R&amp;D. So he must know everything. Part of the international global ginger conspiracy. Tom Nepali, how are you, Sir?</v>
+
+00:03:31.140 --> 00:03:31.870
+<v Speaker 1>I'm doing great.</v>
+
+00:03:31.940 --> 00:03:32.570
+<v Speaker 1>Good morning. How are?</v>
+
+00:03:32.580 --> 00:03:35.460
+<v Speaker 2>You ohh and don't you just sound it my word?</v>
+
+00:03:36.030 --> 00:03:36.860
+<v Speaker 1>I guess I do.</v>
+
+00:03:36.930 --> 00:03:38.880
+<v Speaker 2>OK, what do you got for us today?</v>
+
+00:03:39.270 --> 00:03:50.220
+<v Speaker 1>I'm playing a late night homebrew that I put together with Chris Neighbor last night. We have probably the worst looking sideboard I've registered in a constructed tournament in my entire life.</v>
+
+00:03:50.270 --> 00:03:51.160
+<v Speaker 2>Congratulations.</v>
+
+00:03:51.170 --> 00:03:53.560
+<v Speaker 1>I'm I'm very excited about it because I think it's awesome.</v>
+
+00:03:53.730 --> 00:03:59.040
+<v Speaker 2>OK, Dokey, there's there seems to be a little sort of tension in those two statements.</v>
+
+00:03:59.690 --> 00:04:02.040
+<v Speaker 1>Well, they're bad cards, but like, they do</v>
+
+00:04:02.110 --> 00:04:03.370
+<v Speaker 1>exactly what we needed so.</v>
+
+00:04:03.440 --> 00:04:06.190
+<v Speaker 2>OK, so tell us a bit about you then. What are you actually playing?</v>
+
+00:04:06.240 --> 00:04:14.090
+<v Speaker 1>I'm I'm playing a little mono red deck. It's similar to what Evan Erwin played and at the Star City our or whatever that.</v>
+
+00:04:14.100 --> 00:04:15.700
+<v Speaker 2>Was, yeah, the Star City 5 Grand Open?</v>
+
+00:04:15.710 --> 00:04:32.570
+<v Speaker 1>Yeah, yeah, yeah. So Chris and I were actually gave that deck to Evan and then, you know, Evan crushed with it and I said OK, I kind of want to play red deck and I talked to Chris about it. We met each other last night and we made some changes. It's not quite the same, but</v>
+
+00:04:33.070 --> 00:04:36.940
+<v Speaker 1>philosophically it's the same deck and now we have crazy sideboard cards that do what we needed so.</v>
+
+00:04:36.950 --> 00:04:39.480
+<v Speaker 2>OK, so some smash face for you then.</v>
+
+00:04:40.230 --> 00:04:44.160
+<v Speaker 1>I guess, I mean, I don't know, In Philadelphia I played Zoo. It was fun. And</v>
+
+00:04:46.070 --> 00:04:51.740
+<v Speaker 1>again, this being sort of my last big tournament, I kind of wanted to enjoy it too. So yeah, we're we're attacking.</v>
+
+00:04:51.810 --> 00:05:00.110
+<v Speaker 2>OK, okie dokie. Well we'll let you get on with the attacking as we head round our mitigate round. Thank you totally and we'll see you in Wizards Rd. very soon.</v>
+
+00:05:00.120 --> 00:05:00.980
+<v Speaker 1>Thank you.</v>
+
+00:05:02.540 --> 00:05:08.510
+<v Speaker 2>From Japan, winner of Grand Prix Stuttgart Shuhei Nakamura Shuhei, Good morning. You've been to Hollywood before.</v>
+
+00:05:08.640 --> 00:05:10.470
+<v Speaker 1>Yeah, sorry.</v>
+
+00:05:10.800 --> 00:05:12.150
+<v Speaker 2>First time in Hollywood.</v>
+
+00:05:12.200 --> 00:05:12.850
+<v Speaker 1>Yes.</v>
+
+00:05:12.940 --> 00:05:15.930
+<v Speaker 2>OK. And what's your deck?</v>
+
+00:05:16.120 --> 00:05:16.670
+<v Speaker 1>Ohh.</v>
+
+00:05:17.660 --> 00:05:21.630
+<v Speaker 2>Elves. OK, just green or green? Black, Green, white.</v>
+
+00:05:21.800 --> 00:05:22.760
+<v Speaker 1>Green Black.</v>
+
+00:05:22.840 --> 00:05:26.270
+<v Speaker 2>OK, so what's the black for? What black cards?</v>
+
+00:05:28.060 --> 00:05:29.210
+<v Speaker 1>Black Commando.</v>
+
+00:05:29.460 --> 00:05:31.890
+<v Speaker 2>Primal command, not primal command and profane.</v>
+
+00:05:31.900 --> 00:05:34.010
+<v Speaker 1>Command, yes, so says.</v>
+
+00:05:34.460 --> 00:05:35.110
+<v Speaker 2>Proxies.</v>
+
+00:05:36.050 --> 00:05:37.110
+<v Speaker 1>And the nameless in.</v>
+
+00:05:37.120 --> 00:05:46.010
+<v Speaker 2>Beijing nameless inversion cause we wanna put things in the bin, right? OK, you've done a lot of testing. A big Japanese group for for practice.</v>
+
+00:05:46.020 --> 00:05:49.770
+<v Speaker 1>Yeah, ohh, yeah, it's 6 year old style. Yeah,</v>
+
+00:05:51.330 --> 00:05:57.390
+<v Speaker 1>but I think this group is only News Group news site</v>
+
+00:06:00.210 --> 00:06:12.990
+<v Speaker 1>each plays a protesting each nuisance. Hmm and discuss to him like himself. Yeah, and upload it's only.</v>
+
+00:06:13.220 --> 00:06:17.410
+<v Speaker 2>OK. Well, listen, very best of luck to you, Shay, and great to see you here. Thank you</v>
+
+00:06:19.170 --> 00:06:22.060
+<v Speaker 2>Ted Cruz Nelson didn't know you were playing in Pro to Hollywood.</v>
+
+00:06:22.110 --> 00:06:24.260
+<v Speaker 1>I've not playing rich, I'm just back to cover.</v>
+
+00:06:24.330 --> 00:06:28.860
+<v Speaker 2>You know how it works. I do know how it works. OK give us a winner cause you know everything about magic right?</v>
+
+00:06:29.530 --> 00:06:31.500
+<v Speaker 1>Clearly I do definitely that that was always.</v>
+
+00:06:31.510 --> 00:06:33.580
+<v Speaker 2>My my trademark while I was here, pretty much.</v>
+
+00:06:33.660 --> 00:06:34.460
+<v Speaker 1>I'm gonna say Kenji.</v>
+
+00:06:34.470 --> 00:06:35.060
+<v Speaker 2>But that's.</v>
+
+00:06:35.070 --> 00:06:36.180
+<v Speaker 1>Usually what I say so.</v>
+
+00:06:36.250 --> 00:06:49.870
+<v Speaker 2>OK, fair enough. So we'll catch up with Ted later in the weekend. Take care Ted. Let's have a look around here, see who else we can find. Say very good morning to Nikolai Padovan of Russia, former</v>
+
+00:06:49.940 --> 00:06:52.780
+<v Speaker 2>Grand Prix winner. And Nikolai, have you done much testing for this?</v>
+
+00:06:52.990 --> 00:07:01.300
+<v Speaker 1>Yeah, I played some in Magic Online before the shutdown were released. So after that Magic Online is no more. Sure. And.</v>
+
+00:07:01.380 --> 00:07:03.140
+<v Speaker 2>So not so much testing since then.</v>
+
+00:07:03.210 --> 00:07:10.800
+<v Speaker 1>Yeah and I test in real life like I played a standard tournaments in my local stroll like 3 times in a week, so.</v>
+
+00:07:10.890 --> 00:07:16.160
+<v Speaker 2>OK. So what do you think the field is? What what do you think is going to be out there this morning?</v>
+
+00:07:16.890 --> 00:07:19.500
+<v Speaker 1>Like I think 40% fairies</v>
+
+00:07:20.490 --> 00:07:32.570
+<v Speaker 1>like some other folks and green decks, liberation of Dorrance and the office. So I think that will be dominating the I and Monterey index.</v>
+
+00:07:33.020 --> 00:07:36.370
+<v Speaker 2>And which of those, if any, have you gone for?</v>
+
+00:07:37.000 --> 00:07:37.450
+<v Speaker 1>Which there.</v>
+
+00:07:37.680 --> 00:07:39.170
+<v Speaker 2>Which taking you gonna play? Yeah.</v>
+
+00:07:39.360 --> 00:07:47.070
+<v Speaker 1>I will play Ferris. It's a poop deck, but I will. It's the deck I will test all two months before this so.</v>
+
+00:07:48.690 --> 00:07:56.620
+<v Speaker 2>Is there a way to really beat fairies if you want to? Are the cards out there to just beat fairies every time?</v>
+
+00:07:57.590 --> 00:08:06.500
+<v Speaker 1>I think other than male folks were not decrease could beat could beat fairies with a good percent. So ferries,</v>
+
+00:08:08.030 --> 00:08:13.050
+<v Speaker 1>you have no bad matchups. So if you play good, it's like all all of them are like 5050.</v>
+
+00:08:13.060 --> 00:08:19.350
+<v Speaker 2>Sure. So basically you're saying it's the best deck and I'm gonna play it? Well, that seems like a a winning strategy.</v>
+
+00:08:19.940 --> 00:08:21.030
+<v Speaker 1>Yeah, yeah.</v>
+
+00:08:21.080 --> 00:08:21.970
+<v Speaker 2>I'll argue with that.</v>
+
+00:08:22.040 --> 00:08:38.050
+<v Speaker 1>Because my only favorite respectful Ferris is the red decks. But the I'm afraid enough kitchen things. It's something they switch all the last deck list includes tomatoes, so which is hardly to be</v>
+
+00:08:38.780 --> 00:08:41.870
+<v Speaker 1>so I think I I choose favorites because.</v>
+
+00:08:42.360 --> 00:08:42.810
+<v Speaker 2>It's the.</v>
+
+00:08:42.820 --> 00:08:45.750
+<v Speaker 1>Best it's the really tricky it's it's</v>
+
+00:08:47.820 --> 00:08:50.650
+<v Speaker 1>awards you for a good play more than each other decks.</v>
+
+00:08:50.660 --> 00:08:52.440
+<v Speaker 2>It gives you the chance to outplay your.</v>
+
+00:08:52.450 --> 00:08:53.290
+<v Speaker 1>Opponent. Yeah.</v>
+
+00:08:53.380 --> 00:08:56.750
+<v Speaker 2>OK. Nicolai Parvin of Russia. Many, Many thanks. Thank you,</v>
+
+00:08:58.110 --> 00:08:59.960
+<v Speaker 2>Davis, what he got for us this week.</v>
+
+00:09:00.030 --> 00:09:03.770
+<v Speaker 1>Ohh, I have a you know, probably a lot of losing. We'll see how it.</v>
+
+00:09:03.780 --> 00:09:04.700
+<v Speaker 2>Goes then I'm.</v>
+
+00:09:04.710 --> 00:09:05.680
+<v Speaker 1>I'm playing elves.</v>
+
+00:09:05.770 --> 00:09:08.360
+<v Speaker 2>OK, straight green, green, black, green, white.</v>
+
+00:09:08.370 --> 00:09:20.020
+<v Speaker 1>Green black, you know, I I don't really test that much for the storment, so I'm basically just playing it's it's pretty consistent. You know, it does the same thing over and over again. It's not amazing against anything, but he also aren't really a dog to any of the decks.</v>
+
+00:09:20.030 --> 00:09:23.500
+<v Speaker 2>Out there, yeah, I'm not. Gives you the chance to play some fun magic and be good.</v>
+
+00:09:23.510 --> 00:09:27.650
+<v Speaker 1>Yeah, exactly. Like hopefully I can now play some people and, you know, get lucky and, you know, we'll.</v>
+
+00:09:27.660 --> 00:09:28.110
+<v Speaker 2>See,</v>
+
+00:09:28.350 --> 00:09:34.370
+<v Speaker 2>we were sorry not seeing Kuala Lumpur, obviously on home soil here where we see you later in the year, Berlin, Memphis.</v>
+
+00:09:34.940 --> 00:09:38.810
+<v Speaker 1>I only had 19 points at the last season so this is basically like my free invite.</v>
+
+00:09:38.820 --> 00:09:40.110
+<v Speaker 2>Ohh so this is the shot.</v>
+
+00:09:40.120 --> 00:09:47.490
+<v Speaker 1>Yeah, if I get like 6 points here, I'll queue again. But I wouldn't even, I'm not even sure if I wanna go. I'll probably like the only tournament I probably go to is Memphis.</v>
+
+00:09:47.500 --> 00:09:58.530
+<v Speaker 2>OK, well, we look forward to seeing you there, and hopefully we see you deep in the tournament here because that would be a lot of fun. Yeah. Yeah. OK. Thanks, Asif. Bless. So here's two Americans, one of whom is going to break the block</v>
+
+00:09:58.600 --> 00:10:07.220
+<v Speaker 2>format next week at my house, and one of whom isn't. So here's the man who didn't get an invite, Louis Scott Vargas. Good morning to you. Good morning. What? What do you got this week?</v>
+
+00:10:07.730 --> 00:10:14.440
+<v Speaker 1>I'm playing well it started out as White Green Manor umm till we realized we're sitting in Warhammer and Colossus against everything.</v>
+
+00:10:14.650 --> 00:10:15.490
+<v Speaker 2>We took out the rest.</v>
+
+00:10:15.500 --> 00:10:17.500
+<v Speaker 1>So it's almost mono green show.</v>
+
+00:10:17.510 --> 00:10:25.020
+<v Speaker 2>Right now, yeah. We were looking at the LCQ last night and watching matchups where both players had Empty Manner and Colossus with a Warhammer on.</v>
+
+00:10:25.350 --> 00:10:28.500
+<v Speaker 1>Yeah, actually our our friend qualified with it last night, Matt Sperling.</v>
+
+00:10:29.020 --> 00:10:29.830
+<v Speaker 2>And one of.</v>
+
+00:10:29.990 --> 00:10:35.190
+<v Speaker 1>Paul's roommates actually lost playing in the last round to not qualify, so that's a good sign. I.</v>
+
+00:10:35.200 --> 00:10:41.530
+<v Speaker 2>Think absolutely and and Chris Lachman who is breaking block next week at my house. Chris, what are you running this week?</v>
+
+00:10:41.920 --> 00:10:48.450
+<v Speaker 1>Green red, kind of designed to be fairies but still beat up on the smaller red decks.</v>
+
+00:10:48.740 --> 00:10:52.730
+<v Speaker 2>So that, that that's kind of a unique deck of of your own little group, right?</v>
+
+00:10:52.780 --> 00:10:57.240
+<v Speaker 1>Yeah, we are kind of brewed up a couple days before the tournament, put up some really good numbers.</v>
+
+00:10:57.250 --> 00:10:58.380
+<v Speaker 2>For us. OK, so</v>
+
+00:10:58.620 --> 00:10:59.530
+<v Speaker 2>who have you been testing?</v>
+
+00:10:59.540 --> 00:11:08.420
+<v Speaker 1>With it's been Steve Satan, Jacob Van Lunen Both stayed at my house for a little bit and then we picked up Jamie Park when we got to California.</v>
+
+00:11:08.490 --> 00:11:16.020
+<v Speaker 2>Now this is Jamie Park, not Jamie Park 2005 Nationals Top 8. This is Jamie Park, like top 8 of worlds from the last century.</v>
+
+00:11:16.030 --> 00:11:17.720
+<v Speaker 1>Right. Yeah, We brought a matter of retirement.</v>
+
+00:11:17.730 --> 00:11:20.700
+<v Speaker 2>Wow, fantastic. OK, well, very best of luck with the green red.</v>
+
+00:11:20.710 --> 00:11:21.460
+<v Speaker 1>Thanks, Rich.</v>
+
+00:11:23.010 --> 00:11:32.100
+<v Speaker 2>Three of the biggest names in Dutch magic altogether here are First of all, they love it when I say things like that. First of all, that yoga Vegas. Where? What have you got this week?</v>
+
+00:11:32.310 --> 00:11:33.600
+<v Speaker 1>I'm playing some elves.</v>
+
+00:11:33.870 --> 00:11:34.740
+<v Speaker 2>Green Black.</v>
+
+00:11:34.810 --> 00:11:36.820
+<v Speaker 1>No I just mono green, just 40 elves.</v>
+
+00:11:36.890 --> 00:11:39.460
+<v Speaker 2>40 hours, fantastic, no spells.</v>
+
+00:11:39.650 --> 00:11:41.290
+<v Speaker 1>I have 2 squaw lines as well. Ohh.</v>
+
+00:11:41.300 --> 00:11:48.180
+<v Speaker 2>OK, fair enough. Yeah, you see, You see them being bold enough to go for the no spell approach, but fair enough. Roger Martin, what are you going with?</v>
+
+00:11:48.190 --> 00:11:49.190
+<v Speaker 1>Yeah, I'm playing the same.</v>
+
+00:11:49.200 --> 00:11:53.920
+<v Speaker 2>Deck OK, so fair enough. And that leaves rude woman oven. What do you got? You gonna tell me the same thing, right?</v>
+
+00:11:54.020 --> 00:11:55.970
+<v Speaker 1>Yeah, well, my sideboard different though.</v>
+
+00:11:56.020 --> 00:11:58.370
+<v Speaker 2>Ohh anything exciting? Anything techie?</v>
+
+00:11:58.580 --> 00:11:59.440
+<v Speaker 1>Well, they have something.</v>
+
+00:11:59.450 --> 00:12:01.410
+<v Speaker 2>Techy go on. Then what's the techie bit?</v>
+
+00:12:01.820 --> 00:12:02.910
+<v Speaker 1>We're playing one of green.</v>
+
+00:12:02.920 --> 00:12:03.530
+<v Speaker 2>But you also have.</v>
+
+00:12:03.540 --> 00:12:04.790
+<v Speaker 1>A blue pectina sideboard.</v>
+
+00:12:04.880 --> 00:12:06.950
+<v Speaker 2>Ohh, that's cheeky.</v>
+
+00:12:07.200 --> 00:12:08.270
+<v Speaker 1>Yeah, so.</v>
+
+00:12:08.280 --> 00:12:08.990
+<v Speaker 2>I hope it's gonna.</v>
+
+00:12:09.000 --> 00:12:11.070
+<v Speaker 1>Gonna work out once in a tournament, they'll be good.</v>
+
+00:12:11.080 --> 00:12:12.190
+<v Speaker 2>Enough. Yeah, I was gonna.</v>
+
+00:12:12.200 --> 00:12:19.190
+<v Speaker 1>Just doing it for the story and I was trying to get the story I didn't know casts overrun and then have them Cryptic command it and then back that one.</v>
+
+00:12:19.280 --> 00:12:24.090
+<v Speaker 2>And this one, that is just rude. That's fantastic. Sorry, no pun intended.</v>
+
+00:12:24.180 --> 00:12:26.480
+<v Speaker 2>Thank you very much gentlemen. Bless you all.</v>
+
+00:12:26.970 --> 00:12:27.800
+<v Speaker 1>Once again.</v>
+
+00:12:28.810 --> 00:12:37.280
+<v Speaker 2>I've met up with adriansullivanstarcitygames.com columnist and pretty much one of the premier magic writers of all time. Adrian, what do you got for us this week?</v>
+
+00:12:37.590 --> 00:12:38.560
+<v Speaker 1>I would say.</v>
+
+00:12:38.570 --> 00:12:40.680
+<v Speaker 2>That it's not incredibly exciting.</v>
+
+00:12:40.690 --> 00:12:41.080
+<v Speaker 1>Except.</v>
+
+00:12:41.090 --> 00:12:49.200
+<v Speaker 2>For I am playing simian spirit guide in a red burn deck. Wow, what's the thinking behind that? Well, if even if you're on the draw.</v>
+
+00:12:49.210 --> 00:12:49.820
+<v Speaker 1>And you're playing.</v>
+
+00:12:49.830 --> 00:12:50.940
+<v Speaker 2>Against fairies, you can still.</v>
+
+00:12:50.950 --> 00:12:51.540
+<v Speaker 1>Lay a turn 2.</v>
+
+00:12:51.550 --> 00:12:52.980
+<v Speaker 2>Magus of the Moon and.</v>
+
+00:12:52.990 --> 00:12:53.620
+<v Speaker 1>That can be the end.</v>
+
+00:12:53.630 --> 00:12:54.220
+<v Speaker 2>Of the game</v>
+
+00:12:54.340 --> 00:12:56.230
+<v Speaker 2>sometimes they will often be like.</v>
+
+00:12:56.280 --> 00:12:58.150
+<v Speaker 1>With their two manner drop a bitter blossom.</v>
+
+00:12:58.160 --> 00:12:59.530
+<v Speaker 2>Assuming that you can't do.</v>
+
+00:12:59.540 --> 00:13:02.550
+<v Speaker 1>Anything scary for two mana but you'll actually have 3.</v>
+
+00:13:02.800 --> 00:13:24.420
+<v Speaker 2>That's lovely. Nice bit of tech there. How much the field do you reckon we'll be fairies? What's your best estimate? I'm going to say I don't remember the numbers that happened at the Affinity Pro Tour in Kobe, but I'm going to guess it's going to be maybe about 5 or 10% less than there was Affinity. So what that percent ends up being, I would have to.</v>
+
+00:13:24.560 --> 00:13:24.840
+<v Speaker 1>Check.</v>
+
+00:13:24.850 --> 00:13:31.000
+<v Speaker 2>COVID but not quite as much as Kobe. OK, bless you missed. Many thanks and best of luck to you.</v>
+
+00:13:32.430 --> 00:13:38.260
+<v Speaker 2>I'm with England's finest step builder, Stuart Wright. Stuart, what have you got for us? What's your take on the Met again this weekend?</v>
+
+00:13:38.930 --> 00:13:42.490
+<v Speaker 1>I think a lot of fairies decks and a lot of decks people think we fairies that.</v>
+
+00:13:42.610 --> 00:13:43.540
+<v Speaker 2>Probably do if they.</v>
+
+00:13:43.550 --> 00:13:47.080
+<v Speaker 1>Play tested properly like elves and red decks.</v>
+
+00:13:47.550 --> 00:13:51.740
+<v Speaker 2>And are you elves or red decks or fairies or none of the above?</v>
+
+00:13:51.750 --> 00:13:54.000
+<v Speaker 1>None of the above. I'm playing a red black.</v>
+
+00:13:54.010 --> 00:13:59.520
+<v Speaker 2>Back. Alright. Can you tell us more? Is it still under wraps until we see you on day two kind of thing?</v>
+
+00:13:59.690 --> 00:14:03.260
+<v Speaker 1>It's that much of a problem. It's a red like like token deck like the grave pact</v>
+
+00:14:03.360 --> 00:14:04.300
+<v Speaker 1>style where black deck just.</v>
+
+00:14:04.310 --> 00:14:09.830
+<v Speaker 2>About growing back. So are we talking like Greater Gargadon ONS and Nantuko Husk? That kind of thing.</v>
+
+00:14:09.900 --> 00:14:11.030
+<v Speaker 1>Yeah, those sorts of priests.</v>
+
+00:14:11.040 --> 00:14:17.470
+<v Speaker 2>Alright, that sounds like a lot of fun, so best of luck to you. Flying the flag for Blighty, as it were. Many thanks Stuart,</v>
+
+00:14:19.430 --> 00:14:28.140
+<v Speaker 2>one year ago at this pro tour, Pro Tour Yokohama, the man I'm with now just beat everyone pretty much game Wafa tapa morning to you.</v>
+
+00:14:28.990 --> 00:14:29.800
+<v Speaker 1>Good morning.</v>
+
+00:14:29.970 --> 00:14:30.820
+<v Speaker 2>Are you well?</v>
+
+00:14:32.180 --> 00:14:32.970
+<v Speaker 1>I'm OK.</v>
+
+00:14:33.040 --> 00:14:36.110
+<v Speaker 2>I'm OK, Yeah, OK. How about the deck? Is that in good?</v>
+
+00:14:36.120 --> 00:14:38.880
+<v Speaker 1>Shape. I think the deck is really good.</v>
+
+00:14:39.820 --> 00:15:03.070
+<v Speaker 2>Yes, it is game for tap. You're right, my friend. Someone's very excited to be here. So tell us a bit about it. I know that you were testing a while ago in Brussels with Remi Fortier. He was sort of playing a bit with you. And at that point he said to us, look, we're really struggling. We can't find the control deck that we really like. There doesn't seem to be anything particularly exciting out there. Do you think you've got a winner this time?</v>
+
+00:15:04.070 --> 00:15:09.520
+<v Speaker 1>I think we've got the winner because it's it's pretty hard to handle ferries when you're playing Control,</v>
+
+00:15:11.170 --> 00:15:13.580
+<v Speaker 1>but I think the deck,</v>
+
+00:15:15.150 --> 00:15:16.380
+<v Speaker 1>but I guess, but it's fine.</v>
+
+00:15:16.590 --> 00:15:25.620
+<v Speaker 2>OK, And is it a controller? Yeah. Wow. Can't wait to see that. Ladies, gentlemen gearing up for Tapper in the house. Thank you very much indeed. Best of luck. Game</v>
+
+00:15:27.860 --> 00:15:43.850
+<v Speaker 2>well inside of the trophy cabinet, to which I suspect both of these two players have got names at some point somewhere along the line. No, not the one on my left, I guess. Well, they're both in the Hall of Fame, that is for sure. First of all, Alan Comer are welcome to Hollywood. And you're looking extremely tropical, my friend.</v>
+
+00:15:44.020 --> 00:15:46.010
+<v Speaker 1>I've I've decided that nice.</v>
+
+00:15:46.020 --> 00:15:47.410
+<v Speaker 2>Relaxing shirts and all my.</v>
+
+00:15:47.420 --> 00:15:48.330
+<v Speaker 1>Style these days.</v>
+
+00:15:48.400 --> 00:15:53.770
+<v Speaker 2>Yeah, you need sun shades to do this interview, I can assure you. Listeners. Alright, And what have you got for us this week?</v>
+
+00:15:54.320 --> 00:15:55.190
+<v Speaker 1>Me I'm.</v>
+
+00:15:55.200 --> 00:15:57.130
+<v Speaker 2>Going all out if people disrupt me, I'm.</v>
+
+00:15:57.200 --> 00:15:57.700
+<v Speaker 1>To lose.</v>
+
+00:15:57.710 --> 00:15:59.300
+<v Speaker 2>Horribly, but if they forget?</v>
+
+00:15:59.310 --> 00:16:02.380
+<v Speaker 1>To yeah, could be a disaster waiting at the other.</v>
+
+00:16:02.390 --> 00:16:09.740
+<v Speaker 2>End My deck is extremely explosive but very fragile so I expect these people to be able to handle it.</v>
+
+00:16:09.870 --> 00:16:11.730
+<v Speaker 1>But if they forgot, they're in for a shock.</v>
+
+00:16:11.740 --> 00:16:14.160
+<v Speaker 2>And wouldn't it be so much fun if they had forgotten?</v>
+
+00:16:14.230 --> 00:16:16.130
+<v Speaker 1>Exactly, I'm here to enjoy.</v>
+
+00:16:16.140 --> 00:16:28.320
+<v Speaker 2>It well, that's all part of the Hall of Fame and here's V motorists with the the proto Hollywood purple shirt on. So it's V What do you mean testing? Who have you been with? I tested with basically the entire New York City area.</v>
+
+00:16:28.420 --> 00:16:38.460
+<v Speaker 2>Yeah, because we basically realized that we're all friends and there's no reason not to work together. Umm, but I mean, to be honest, I don't have that much time these days and I couldn't.</v>
+
+00:16:38.470 --> 00:16:41.020
+<v Speaker 1>Justify putting a lot of time into a tournament where they were playing all.</v>
+
+00:16:41.030 --> 00:16:42.280
+<v Speaker 2>Over the place and Dex was chopping up.</v>
+
+00:16:42.290 --> 00:16:46.260
+<v Speaker 1>Over there all the time, so I may not have played very many games.</v>
+
+00:16:46.270 --> 00:16:47.820
+<v Speaker 2>With the stack but.</v>
+
+00:16:47.890 --> 00:16:49.960
+<v Speaker 1>It's nothing that new so.</v>
+
+00:16:50.010 --> 00:16:58.340
+<v Speaker 2>OK, so you're, you're part of the the group with Lachman and Van Loon and Steve Sadin and so on. Yeah, right. We're all playing the same bag. OK, so it's the green, red. Well, obviously</v>
+
+00:16:58.430 --> 00:17:05.460
+<v Speaker 2>that you feel that's well positioned in the meta game. What kind of percentage do you see as being fairies as we head into round one?</v>
+
+00:17:06.800 --> 00:17:14.830
+<v Speaker 2>Well, after last night and it's it's still hard to say. I'd say less than 20 would greatly surprised me, but at this.</v>
+
+00:17:14.840 --> 00:17:17.100
+<v Speaker 1>Point I'm no longer thinking for I'm no longer thinking.</v>
+
+00:17:17.110 --> 00:17:18.310
+<v Speaker 2>High 30s, low 40s.</v>
+
+00:17:18.320 --> 00:17:19.790
+<v Speaker 1>Which I might have before.</v>
+
+00:17:19.860 --> 00:17:25.930
+<v Speaker 2>It seems like people are willing to play decks that I don't consider very good in order to be fairies, and those seem to be doing fine.</v>
+
+00:17:25.980 --> 00:17:27.040
+<v Speaker 1>So.</v>
+
+00:17:27.340 --> 00:17:28.770
+<v Speaker 2>Like I mean.</v>
+
+00:17:29.080 --> 00:17:29.410
+<v Speaker 1>Could be a.</v>
+
+00:17:29.420 --> 00:17:37.790
+<v Speaker 2>Good day for Scissors. Okey Doke, thank you very much. Could be a good day for Scissors 3. Moscovitz, Alan Hall of Famous Gentlemen. Thank you very much.</v>
+
+00:17:40.400 --> 00:17:44.730
+<v Speaker 2>I'm with David Irvin and Antonino Derosa. Dave, what you got this weekend, what you're running?</v>
+
+00:17:44.800 --> 00:17:45.970
+<v Speaker 1>I'm running elementals.</v>
+
+00:17:46.360 --> 00:17:48.740
+<v Speaker 2>Elementals. What's in that then?</v>
+
+00:17:50.130 --> 00:17:56.910
+<v Speaker 1>Well, it's it's a big draws that it has like 8 one minute 2 ones in it and as well as like a bunch of burn spells to follow up with.</v>
+
+00:17:56.920 --> 00:18:17.610
+<v Speaker 2>Is this like Flamekin Bladewhirl? Have I got that one right? Yeah. Wow. Hokey doke. Antonio, I saw you playing some games yesterday and you were playing well, had lots of white cards in and it had kind of some white hybrid cards in and it was white weenie. Now, was that just because you were messing around with people last night, or is that your deck?</v>
+
+00:18:17.680 --> 00:18:19.830
+<v Speaker 1>No playing. I'm playing chickens.</v>
+
+00:18:20.170 --> 00:18:23.640
+<v Speaker 1>Unfortunately, I took out my the hybrid guy that taps a creature.</v>
+
+00:18:23.650 --> 00:18:24.620
+<v Speaker 2>Has the sum answer.</v>
+
+00:18:24.690 --> 00:18:33.490
+<v Speaker 1>Yeah, I'm playing the two two that you pay white and when he attacks it flies instead. Huh. But yeah, I'm playing Kitten, some splashing blue for Sonic Blast and some sideboard cards.</v>
+
+00:18:33.630 --> 00:18:38.960
+<v Speaker 2>That seems extremely cheeky and sounds like you've actually done quite a bit of work to actually get to that point.</v>
+
+00:18:39.710 --> 00:18:50.580
+<v Speaker 1>I mean, yeah, I mean, I just tested a bunch of Ducks and that was the one that that kind of beat everything that like all my stock decks and like the only bad matchup is really fairies.</v>
+
+00:18:50.650 --> 00:18:57.810
+<v Speaker 1>Other sideboard game wants pretty good and then Game 2 gets a little tough but hopefully you know, I could win game one and then sneak one of the next two.</v>
+
+00:18:57.820 --> 00:19:05.750
+<v Speaker 2>Out Yeah, and if you're playing the the kids came we we both know that you can just go. Well, here's the story. Here's Stewart. Stewart, there's a wizen. Thanks.</v>
+
+00:19:05.800 --> 00:19:15.730
+<v Speaker 1>Yeah, I mean, you get those draws, but you know, even if you just go out one minute, 2, two, and then you just follow with like 21 drops, there aren't 2 twos and then you have a wizard send you probably gonna win those.</v>
+
+00:19:15.740 --> 00:19:20.790
+<v Speaker 2>Games. Yeah, absolutely. OK, well, best of luck with the kicking. Now I'm gonna guess that you pretty much are</v>
+
+00:19:20.860 --> 00:19:24.860
+<v Speaker 2>the over under on kickin in the room. I I'd be very surprised if there's many more.</v>
+
+00:19:24.930 --> 00:19:30.520
+<v Speaker 1>Well, I know there's two more since, you know, I've tested with them. So we'll probably maybe 5 people total.</v>
+
+00:19:30.610 --> 00:19:37.340
+<v Speaker 2>OK, Well, best of luck to both of you elementals and Kithkin. Didn't expect to say that this morning, I can tell you. Thanks, boys.</v>
+
+00:19:38.760 --> 00:19:45.540
+<v Speaker 2>Four of the big European names are with me. Marine life into Belgium. What do you got? Red, Green. OK, fair enough. And Christoph Gregoire.</v>
+
+00:19:45.610 --> 00:19:46.620
+<v Speaker 1>Also playing red green.</v>
+
+00:19:46.630 --> 00:19:48.600
+<v Speaker 2>OK, Frank Carson of the Netherlands.</v>
+
+00:19:48.670 --> 00:19:49.520
+<v Speaker 1>Ferries.</v>
+
+00:19:49.870 --> 00:19:54.100
+<v Speaker 2>OK, now that's the consensus best deck, right? Is that why you're playing it?</v>
+
+00:19:54.590 --> 00:20:01.000
+<v Speaker 1>Yeah, basically I don't have anything better, so just pick whatever everyone says is the best deck.</v>
+
+00:20:01.690 --> 00:20:08.260
+<v Speaker 2>Also, we've talked before, In fact basically a year ago in Yokohama, Osaka, Lebedev, it's go, go away.</v>
+
+00:20:08.780 --> 00:20:09.790
+<v Speaker 2>I've done that already.</v>
+
+00:20:09.860 --> 00:20:10.690
+<v Speaker 1>What I'm saying?</v>
+
+00:20:10.980 --> 00:20:32.570
+<v Speaker 2>Can't, can't, can't remember. He's dreadful. He hijacks everything. We spoke in the Oklahoma a year ago about the idea that the Pro Tour is basically a control environment or likes to be, and that on Day 2, everyone likes to have the choices. A Fairy deck certainly gives you some options. It isn't just a linear straight ahead. Let's hope I win before you do something good.</v>
+
+00:20:32.780 --> 00:20:38.970
+<v Speaker 1>Yeah, that's true. Like what I like about the fairy deck is that you have so many instances, so many different tricks that your opponents</v>
+
+00:20:39.040 --> 00:20:58.140
+<v Speaker 1>has to like, think about everything. Yeah, he has to choose which one to play around and like every characters to be played around in a different way. Like what you expect your point, this Ruin Snag or Crypto Command or Dell or like you have to play so, so differently. So your point is always guessing. So that feels good to be in that kind of control, I guess.</v>
+
+00:20:58.290 --> 00:21:01.080
+<v Speaker 2>For sure. OK. And finally Jen does the Belgium. What do you got?</v>
+
+00:21:01.130 --> 00:21:01.740
+<v Speaker 1>Redrawn.</v>
+
+00:21:01.870 --> 00:21:10.160
+<v Speaker 2>OK, so red, green, that's seems to be the debt that no one was expecting coming in, but quite a few people playing it. Gentlemen, thank you very much from the European contingent</v>
+
+00:21:11.440 --> 00:21:17.860
+<v Speaker 2>here. He is from Brazil. Palomita dama de Rosa, morning to you. I'm Tiger on the shirt. You feeling pretty on top of your game?</v>
+
+00:21:18.020 --> 00:21:19.030
+<v Speaker 1>Morning. Yeah, I got.</v>
+
+00:21:19.040 --> 00:21:22.190
+<v Speaker 2>For tea. What are you playing, Ferris? Why?</v>
+
+00:21:22.580 --> 00:21:27.450
+<v Speaker 1>I think it's the best deck. I don't really fear anything. There's nothing that's completely</v>
+
+00:21:29.070 --> 00:21:32.770
+<v Speaker 1>most random acts here's that can play the most I'm most comfortable with.</v>
+
+00:21:33.670 --> 00:21:43.680
+<v Speaker 2>Pretty much, yeah. These all seem like good reasons to play. How's the season gone so far for you and what are your expectations going down the road? Is this tournament really key to your season?</v>
+
+00:21:43.890 --> 00:21:51.240
+<v Speaker 1>Yeah, it is. I didn't watch any GPS yet and it's pretty bad in Palampur, so I kind of need a good result in this one to keep going.</v>
+
+00:21:51.510 --> 00:21:59.050
+<v Speaker 2>Well, very best of luck with that. Thank you to PVD Dr. The pairing boards have gone out for the player meeting, but we've got Zach Hill</v>
+
+00:21:59.120 --> 00:22:02.260
+<v Speaker 2>from startingthegames.com. And Zach, what do you got for us this week?</v>
+
+00:22:02.310 --> 00:22:16.340
+<v Speaker 1>I'm playing some fairies. I've got some thoughts. He's in the main deck. I'm a really control oriented build. I've got a really money sideboard. I worked on it with Frank Carson, Stan Vandervelden. So I think it's a really solid deck guy. You know, if can't beat them, join them, and that's what I did.</v>
+
+00:22:16.350 --> 00:22:29.250
+<v Speaker 2>OK, I will let you get on to the play meeting. Thanks a lot, Zach. We'll catch you later on as the players head down to the main arena here in the ballroom of the Hyatt Regency Century Plaza. It is an absolutely beautiful venue</v>
+
+00:22:29.350 --> 00:22:29.990
+<v Speaker 2>to tell you.</v>
+
+00:22:31.390 --> 00:22:32.100
+<v Speaker 1>Numbers 1.</v>
+
+00:22:32.110 --> 00:22:38.980
+<v Speaker 2>Through one song with Andre Muller. I'm only two pro tours ago or three pro tours ago. Runner up. Looking to go one better this time?</v>
+
+00:22:39.140 --> 00:22:39.830
+<v Speaker 1>Ohh.</v>
+
+00:22:39.840 --> 00:22:40.600
+<v Speaker 2>You think if I win?</v>
+
+00:22:40.610 --> 00:22:41.930
+<v Speaker 1>This time I'm not so.</v>
+
+00:22:41.940 --> 00:22:42.390
+<v Speaker 2>Sure.</v>
+
+00:22:42.460 --> 00:22:43.770
+<v Speaker 1>Actually I am.</v>
+
+00:22:43.930 --> 00:22:45.050
+<v Speaker 2>Hoping that I get a little time.</v>
+
+00:22:45.060 --> 00:22:46.350
+<v Speaker 1>To go to the mall tomorrow instead.</v>
+
+00:22:46.360 --> 00:22:53.950
+<v Speaker 2>Of playing in the PT OK and what and what deck are you proposing to lose with this week? I am proposing to lose.</v>
+
+00:22:55.310 --> 00:22:55.630
+<v Speaker 1>Not.</v>
+
+00:22:55.640 --> 00:22:56.750
+<v Speaker 2>Sure, I'm proposing to have.</v>
+
+00:22:56.760 --> 00:22:59.370
+<v Speaker 1>50% again, everything but that makes it 44.</v>
+
+00:22:59.680 --> 00:23:25.050
+<v Speaker 2>OK, OK. That's the luck on right. He's going to find his table. And that there is Jamie Park, part of the team that's been testing with TV, Chris Latman and Jake Van Loon and Steve Sadin. And they're all sitting down now and there is Steve Sadin. Good morning to you, Steve. How are you? Good, thanks. How are you doing? Very good at you. Sounding pretty chipper first thing in the morning.</v>
+
+00:23:25.390 --> 00:23:29.760
+<v Speaker 1>I'm still on East Coast time, so like it's like 12:12 PM for me.</v>
+
+00:23:29.830 --> 00:23:39.200
+<v Speaker 2>Mm-hmm. So again, we've already spoken with Chris Lackman and and Savvy, so we pretty much know what the thinking is and hopefully you gonna see a lot of fairies dates I guess.</v>
+
+00:23:39.210 --> 00:23:40.580
+<v Speaker 1>I'd really like that.</v>
+
+00:23:40.630 --> 00:23:55.880
+<v Speaker 2>OK, very best of luck to you. And there's Jake Van Lunen wandering by. Best of luck to you, Jake. Thank you very much, Rich. OK, he's heading off to his table and Raph Levy just going past there. So the the way this room</v>
+
+00:23:56.130 --> 00:24:25.970
+<v Speaker 2>is set out, just to give you a flavour for it, you'll be able to see it later on in photo and video form. We kind of have two sides to the room and punctuated by the feature match area right in the centre under an absolutely astonishing chandelier. So two sides and then every round eight players will congregate in the middle for four feature matches. We will bring you the best of all that action and one of your senior Jones brothers going</v>
+
+00:24:26.040 --> 00:24:56.060
+<v Speaker 2>high from England has the noise level settles down as players get to their positions for the player meeting. And we are just minutes away from the start of Pro Tour Hollywood. Yes indeed, proto Hollywood is just getting underway. So let's have a look at the field. 371 players. I will take you through the top, I guess, top 20% or so in terms of reputation at least. We're gonna go alphabetically at first name out of the hat.</v>
+
+00:24:56.150 --> 00:25:27.860
+<v Speaker 2>Julio Barra from Italy made the top 8IN Valencia and also responsible for Barrett Rock that Gerard Fabiano won a GP with just a few weeks ago. I'm in being of Austria. Nico Boni from Switzerland and Manuel Buca, both very successful in the Swiss squad that is doing so well in magic at the moment. Team World Champs, of course, Joe Calafell, he made top eight of the last Pro Tour. He was kind of the unknown quantity in Kuala Lumpur in that star-studded top.</v>
+
+00:25:27.940 --> 00:25:58.090
+<v Speaker 2>Right now here is a very exciting game to watch out for all weekend. Patrick Chapin of the United States, he rocked worlds with Dragonstorm, that incredible semifinal against Gab Nassif, and we are looking to see some exciting stuff from him. Paul Cheon, is this the weekend that he delivers? Finally, on the biggest stage of all from Portugal, we've got Andre Coimbra. And here's our first Hall of Famer. Alan, is in the building now. He's got a very fun deck. He's talking about killing people on turn 3.</v>
+
+00:25:58.180 --> 00:26:28.100
+<v Speaker 2>We'll see whether he can do that from Brazil. Palamida Dama de Rosa, he's running fairies and he has some tech apparently for the mirror match. We'll see whether that turns out to be true. Antonino Derosa playing Kithkin, thinks there's gonna be about 5 of him and his friends playing the chickens. Gotta like that. Melissa de Tora from the home team, she did very nicely in Valencia. Jan does a Belgium part of a big, quite impressive Belgian squad. Next Hall of Famer #2 is Rob Doherty</v>
+
+00:26:28.210 --> 00:26:58.810
+<v Speaker 2>part of your move? Games second Brazilian. Willie Adel over we go. There's Gerard Fabiano that we've mentioned already. Grand Prix winner this season. John Finkel, of course, the winner of Pro Tour Kuala Lumpur. He's been testing with the New York crowd. Remy 48, another recent proto winner from Valencia, a summer fajita. First of the Japanese there to mention Carl Goodman. Couple of decent finishes for him in the past. Zach Hall. There's a great story that you'll want to see on the tournament</v>
+
+00:26:58.890 --> 00:27:30.440
+<v Speaker 2>and to to do with him. Don't wanna spoil it for you. It's a kind of visual thing. Matt Cheeks Hanson is their Eugene Harvey has come across Mark Herberholz very much involved with the Patrick Chapin testing squad along with Gavner Seif. Jim Herald, German guy made the top 8 of Geneva last year. And Zach Hill, many of you will be familiar with his work over on Star City Games. Now, it turned out in that in Kuala Lumpur, excuse me, that Mike Roan didn't get an awful lot of coverage in the top,</v>
+
+00:27:30.510 --> 00:28:00.700
+<v Speaker 2>I think because he was out before we could get to him. But Mike Roan made back-to-back limited top 8 and he is a serious contender here again with the shift of constructed. Christoph Huber, another Swiss guy, Dave Humphries, your next Hall of Famer from your move games, Jason Imperiale from the United States and David Irvin, Robert Yatsko, European from Slovakia, you won't know a lot about him. He made top 8IN Krakov back end of last year. Another couple of Japanese</v>
+
+00:28:00.770 --> 00:28:31.180
+<v Speaker 2>was plays. Masami Kanako, Shuka Mura. Frank Karsten of the Netherlands is here at former colonist on magicthegathering.com. Not taking the game quite so seriously, but very, very competitive and you can expect he will do very well with fairies. If anyone does, and I'm sure someone will, Darwin Castle, another Hall of Famer, They ought to call it the Your, Your Move Games Hall of Fame, really. Because they all seem to be from there, don't they? Over we go. Chris Lackman, former pro tour winner in San Diego. Tom Lepelle,</v>
+
+00:28:31.250 --> 00:29:01.750
+<v Speaker 2>he spoke to this morning. He's off to work for Wizards of the Coast. Osip Ledavid, great joker, but are not bad player. Strangely enough, Rafael Levy, another Hall of Famer. The Hall of Fame is really out in force for this one at Ben Lundquist. He's actually playing Antonino Derosa in round one. That's a pretty heavyweight clash. Moraine Libert of Belgium, he's up against Chris Woltereck. Roger Martin of the Netherlands, another name that's been around the protocol for a while. Very, very solid player.</v>
+
+00:29:01.840 --> 00:29:32.170
+<v Speaker 2>Never really threatened, I guess, but maybe this is his time. Former world champ Machito Mahara has made it across. Kazia Mitamura, another regular contender. V Moscowitz, Hall of Fame once again. Andre Miller from Germany, he's not that excited about his prospects and we go to the ends. And Shuhei Nakamura, already a Grand Prix winner this season. Very solid player indeed. Would expect to see him way up the top of the player of the year</v>
+
+00:29:32.240 --> 00:30:02.460
+<v Speaker 2>landings. Then we've got Gab Nassif from France. He's been testing with Patrick Chapin, Mark Herberholz, that crowd. Katara Otsuka and Tequila Ohsawa, both of Japan. Jamie Park, older style name. As long ago as 1999 he was playing speed red in the top eight of the World Championships. Then we have the runner up from Proto Kuala Lumpur. Everyone remembers Johnny Magic 1. Not many people remember the runner up, but that was Italian multiple national champion Mario Pascoli</v>
+
+00:30:02.560 --> 00:30:32.530
+<v Speaker 2>and Italy are really coming on strong in the world of European magic. I have to tell you, listeners, if you don't know much about the Italians, there are a lot of them and they can play. Nikolai Potvin are of Russia, he's made it to the United States. Carlos Romao, former world champion. And then of course the two Ruel brothers, both from France. Yann Salik poured, the Swede is here. Steve Sadin, he's very much one of my tips up for the top 8 this weekend. Tomoharu Saito, reigning</v>
+
+00:30:32.670 --> 00:31:03.350
+<v Speaker 2>player of the year. Louis Scott Vargas. He's been testing a nice large group with some very serious players. Be interesting to see how he gets on this weekend. Then there is the day in Rasmus Sibast looking further down. Brown snip. Dangers of the Netherlands. Adrian Sullivan. We chatted to him earlier. One of the game's great theorists, the Austrian helmets. Summers Burger Gudiel Slifer at proto winner from Philadelphia 2005. See how he gets on. I guess he won't have done a lot of testing for this, but I guess you never lose it.</v>
+
+00:31:03.430 --> 00:31:33.470
+<v Speaker 2>We'll see how he gets on. Genki Taru from Japan made top 8, or indeed top 4 as it were, of San Diego last summer. Subtalar, former rookie of the year from Germany, Jerry Thompson, widely respected in the US community. I'm looking forward to seeing him in action. Then we have Kenji Samura from Japan. He's taken a little step back from the game but is still around and still Kenji. Then we have Owen Turtenwald, a young US player makes a very good results,</v>
+
+00:31:33.560 --> 00:32:03.680
+<v Speaker 2>particularly on home soil. Looking forward to seeing his progress this weekend. Down we go. Jake van Lunen, the partner of Chris Lackman from San Diego last year. He's been testing with Steve Sadin and the New York crowd got a nice deck. Robert van Madavor, one of the best Dutch players right now. And then Guillaume Wafo Tapa, a year ago Guangfa Tapper won the constructed Proto. It was block, then playing control. He says he has a winning deck with control this time around.</v>
+
+00:32:03.820 --> 00:32:33.710
+<v Speaker 2>Rude Warmenhoven of the Netherlands. Yoga Vegas, Another name that surely will end up in the Hall of Fame somewhere down the line. And from my home country of England, Stuart Wright is here. He's running red black, a token deck. Greater Gargadon and so forth. Nantuko Husk. And that looks pretty interesting deck, depending how the metagame shakes down. Last couple of names to give you shelter. Yasuoka of Japan. And finally, as always, we seem to end up with Arnold Zidek</v>
+
+00:32:33.800 --> 00:33:04.160
+<v Speaker 2>of the Czech Republic. You're very last name on your list though is an Italian. It's Simone Zulian. He is number 371. And that is the best part of your Proto Hollywood field for 2008. So what we're going to do, we're going to wrap things up there, send you on your way with round one now 15 minutes done. And when you come back, you can hear the stories of the early rounds as we find out what tasty tech is out there in the hall of Proto Hollywood 2008.</v>
+
+00:33:04.300 --> 00:33:09.170
+<v Speaker 2>Until we meet again. I am your host, Richard Hagen, saying bye.</v>
+

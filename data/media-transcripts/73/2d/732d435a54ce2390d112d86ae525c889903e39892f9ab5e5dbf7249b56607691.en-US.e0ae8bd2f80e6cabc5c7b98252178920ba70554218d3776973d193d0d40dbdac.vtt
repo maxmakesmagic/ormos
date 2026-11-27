@@ -1,0 +1,338 @@
+WEBVTT
+
+00:00:00.870 --> 00:00:26.210
+<v Speaker 1>I'm pulling in my driveway. We all know what that means. It's time for another drive to work. OK, so today I want to have a it's a podcast that follows up on another podcast, although it's while related, it's its own podcast. So I had done a podcast on New World Order and during that I talked about a concept called red flagging. And I'm going to talk all about what red flags mean today and how we use them in design.</v>
+
+00:00:27.070 --> 00:00:41.960
+<v Speaker 1>OK, So what red flag, what red? When you red flag something, what it means is when we create a new world order, the goal was we wanted to create a certain level of complexity and toe the line of that complexity at common.</v>
+
+00:00:43.110 --> 00:01:06.760
+<v Speaker 1>And the idea was that there's different things we care about. I talked about the different types of complexity. There is comprehension complexity. Can you read the cars and understand them? There is board complexity. Do you understand how things interact when they're all in play together? And then there is strategic complexity. Do you understand the ramifications of what this means? Strategic complexity tends to be somewhat invisible to be getting players. We're less worried about that. Comments can have.</v>
+
+00:01:09.360 --> 00:01:10.950
+<v Speaker 1>Comments are allowed to have.</v>
+
+00:01:13.310 --> 00:01:16.600
+<v Speaker 1>Oh, sorry, comments are allowed to have</v>
+
+00:01:17.290 --> 00:01:19.300
+<v Speaker 1>strategic complexity, but they</v>
+
+00:01:20.800 --> 00:01:50.770
+<v Speaker 1>we have to be careful about their comprehension complexity and their border complexity. So the idea of a red flag is as such is we have a bunch of rules for things that in general cause problems at common. And if you break one of these rules, you are what's called red flagged. What red flag means is it doesn't mean you can't go a common, It just means that we're supposed to take a look at you that anything is red flagged. In order for you to stay in the file, you need to get approval first from design and then from</v>
+
+00:01:50.840 --> 00:01:57.660
+<v Speaker 1>development and, and mostly what it is, is it's a process by which to help make sure that</v>
+
+00:01:59.860 --> 00:02:19.980
+<v Speaker 1>things that might cause trouble are are looked at. And the, the, the purpose of red flagging is mostly to be cautionary, to make sure that we are paying attention to stuff and that once we do that, we can override a red flag. Red flag doesn't mean it can't be done, It just means it can't be done.</v>
+
+00:02:21.550 --> 00:02:25.520
+<v Speaker 1>Hey, OK, it just means it can't be done.</v>
+
+00:02:27.300 --> 00:02:57.290
+<v Speaker 1>Sorry, I was just dropping off my cook. My son forgot his coat. So that was my that was my wife saying thank you for dropping off the coat. See, you get experience by actual drive to work every day. Sorry. So was trying to say is red flagging means that we have to look at it and make sure that it's OK and that we can override the red flag. Red flag doesn't mean it can't be done. So when I give you the rules today for red flagging, all that means is these are things we know can be a problem. And so we have to sign off on them to make sure that if we're going to do them, we mean to do them</v>
+
+00:02:57.420 --> 00:03:03.320
+<v Speaker 1>and that they're OK. The other big thing about a red flag is rules are you don't want to design,</v>
+
+00:03:04.650 --> 00:03:35.100
+<v Speaker 1>you want to be careful when you make rules that it's OK to have rules, but you have to understand that sometimes that there can be exceptions to your rules. You have to understand. So the story, the stories I always give is when I was in college, I lived in a dorm and one day, so it was Boston University in the middle of Boston. So there was security. They just didn't want anybody coming into the dorm. And so in order to get in, you had to show your ID card. And then if you lived there, you were allowed to sign</v>
+
+00:03:35.170 --> 00:04:05.600
+<v Speaker 1>people in. So if someone came to the gate to the door, either they had to live there and they showed you they lived there, or they had to get signed in by someone who did live there. So there was a guard there. I think his name was Tony. So Tony and I became friends. You know, I would chat with him all the time. And you know, when we would come in, he and I always stop a little bit. And I talked with Tony. So anyway, one day I come in and Tony's there and I realized I forgot my my card. It was up in my room and my ID card.</v>
+
+00:04:05.710 --> 00:04:10.730
+<v Speaker 1>And so I'm like, hey Tony, I left my ID card up in my room. And so time was like, ohh, I can't let you in.</v>
+
+00:04:11.380 --> 00:04:17.690
+<v Speaker 1>And I was like, but I live here. You, you know, I live here. And he goes, yeah, yeah. But the rules are, I can't let you in.</v>
+
+00:04:19.080 --> 00:04:49.470
+<v Speaker 1>I was very frustrated because what was the point of the rule? The point of the rule was to keep people who didn't live there from getting in the building. Clearly Tony knew I lived there. So that's one of my pet peeves like that. You want to understand the reasoning behind the rule. And so the point of red flagging is we have some basic rules to follow. But sometimes, you know, sometimes this won't like, even though normally this causes more complexity, in this particular case it doesn't cause</v>
+
+00:04:49.540 --> 00:05:03.740
+<v Speaker 1>more complexity. And the case in question, just to finish the story real quick, is so Tony would not let me in. And so I finally talked him through the rules and I said, well, in order for somebody to sign somebody else in, you know,</v>
+
+00:05:05.120 --> 00:05:36.880
+<v Speaker 1>what are the rules for that, you just have to know that they're, you know, they live here. Yeah. Well, to sign someone in, I just have to know that they're, you know, they have to show you an ID. No, we're not. As long as I know they live here. There are a lot of people in. So I said, OK, if I don't need to prove ID and, you know, I live here, then I'm allowed to sign someone in. He goes, yes, I go, OK, I signed me in. And that's how I got in because I followed the rules that were really weirdly set. But it is a pet peeve of mine. I do not like rules that are set up in such a way that you, that the, you kind of make a rule and then you break the essence of what the point of the rule is. And that</v>
+
+00:05:37.030 --> 00:05:53.820
+<v Speaker 1>red flagging doesn't mean that we just stopped things. It means ohh on on average this causes this problem and something to be aware of, but it doesn't mean that we are supposed to just automatically reject. It means look at it. OK, so let's walk through the red flagging we have. So #1</v>
+
+00:05:55.740 --> 00:05:57.870
+<v Speaker 1>does it affect other permanence?</v>
+
+00:05:59.110 --> 00:06:18.850
+<v Speaker 1>And, and, and this is the the one we started with when we first talked about board complexity. So the, the, the culprit I will talk about is Samite Healer. I think I talked about, I might have talked about healer in New World Order, but it's such the perfect example. So Samite Healer is from alpha. It's the card that you tap to prevent one damage to target creature.</v>
+
+00:06:19.880 --> 00:06:27.990
+<v Speaker 1>Now that might seem pretty innocent. The problem is that one card changes a lot of math,</v>
+
+00:06:29.170 --> 00:06:47.700
+<v Speaker 1>you know, and that now any possible combination that I had, if I attacked, let's say I attack with a couple creatures and you a bunch of creatures you can block with, you know, have to do permutations where you figure out, oh any one of these creatures might do 1 less damage than they normally do. And it creates a lot of extra math.</v>
+
+00:06:48.490 --> 00:07:18.520
+<v Speaker 1>I know. And one of the things that's hard is when you the one of the ways magic works is you start playing, you learn something, you absorb it and then it becomes so second nature once you learned the rules of it that you forget how much complication it creates. And somebody here is a really good example, which is once you know how to do the mental short, you know the, the shortcutting to figuring out, oh, well, the semen healer, you can figure it out. But when you're first learning, it's a lot of extra math. And once again,</v>
+
+00:07:18.600 --> 00:07:23.770
+<v Speaker 1>the point here is not that we don't want to do samite healer. The point of New World Order is we don't want to do semi healer</v>
+
+00:07:24.550 --> 00:07:54.380
+<v Speaker 1>common. We don't want it showing up at the frequency that they show up in common. Cause that also means common means you might get multiples. So not only might the one she might hear them play, there might be multiple semite healers and play, which makes things even more complicated, you know, and two semi healers is much more complicated than one samite healer. OK, let's get off 7 here. Let's move to a different thing. Let's say a creature that said, you know, I activate or tap to give target creature first strike. Well, that also is very complicated because now I have to act as if every creature you have</v>
+
+00:07:54.470 --> 00:07:55.470
+<v Speaker 1>could have first drink,</v>
+
+00:07:56.570 --> 00:08:26.940
+<v Speaker 1>and that is much more complex. Now, if a creature gets the pump itself does much less complex because what it says is, OK, let's say I'm creature that activates the itself first, right? Well, you the opponent, if you need a shorthand, you go. I'm just going to assume he has first drink. And if you act like that, it's a pretty you know, the more experienced that understands that maybe you will or won't get first strike. Or maybe I want you to spend the manhunt to give them first strikes because I don't want casts on the spells, whatever. But the beginning player can just go, OK, that that guy kind of has first drink.</v>
+
+00:08:27.200 --> 00:08:31.580
+<v Speaker 1>I can act like he has first, right? There's a lot easier than anything could have first strike.</v>
+
+00:08:32.810 --> 00:08:46.200
+<v Speaker 1>So first red flag is does it affect other permits? Now here's a good example of where we red flagged it originally and then we learned that this did this was OK and the example is a Tapper.</v>
+
+00:08:47.670 --> 00:08:53.370
+<v Speaker 1>So I Tapper is a white creature usually that you spend samana and you tap it to tap a creature.</v>
+
+00:08:54.230 --> 00:09:01.740
+<v Speaker 1>And what we found is, OK, well, let's explain the two scenarios by which you would use a Tapper #1 is I'm attacking.</v>
+
+00:09:02.400 --> 00:09:24.750
+<v Speaker 1>So I would tap before you could declare blockers. I want to tap because I don't want you to declare to the blocker. If you declare something, the blocker and then I tap, it doesn't do anything. So I want to tap before you declare blockers. Now that is true. All I've done is just said, hey, that one guy that before you had to decide whether or not he could block. Now you don't have to decide. I'll decide for you. He can't block. He or she can't block,</v>
+
+00:09:26.500 --> 00:09:30.970
+<v Speaker 1>he shared. They can't fly. So the</v>
+
+00:09:32.380 --> 00:09:33.090
+<v Speaker 1>the</v>
+
+00:09:34.500 --> 00:10:04.780
+<v Speaker 1>on offense, if you're on defense, before you can attack, I tap a creature. What have I done? I once again removed your decision. You had some choices of what to attack with. I've now removed a choice. It can't attack. So that's an example of a car that affects other permanence. But when you examine how it's played, it actually decreases decisions, not increases decisions. So this is a good example where just because something is red flagged doesn't mean necessarily that it breaks the spirit of what the rule is. And that's why we have to examine it.</v>
+
+00:10:04.860 --> 00:10:05.670
+<v Speaker 1>It's by case.</v>
+
+00:10:06.490 --> 00:10:36.590
+<v Speaker 1>I wanna get in the dorm. You don't have a card. Oh, wait, Oh, wait, I know you live here at doesn't break the underlying rule. The underlying rule says I don't want strangers coming in here. I know you're not a stranger. And so that once again that the point of this is so we can examine on a case by case. Now something like capping, we've learned ohh, tapping is OK, so we don't need a red flag tapping every single time we've learned. Oh, well, here are some exceptions. We do make some exceptions where once we learn they're OK that there are certain things like OK, we've</v>
+
+00:10:36.660 --> 00:10:40.080
+<v Speaker 1>them that works. OK, tapping something, we're comfortable doing a comment.</v>
+
+00:10:41.590 --> 00:11:07.650
+<v Speaker 1>Now there's other by the way, I'm talking more about board complexity issues and stuff like that. It is possible, by the way, that the development might figure out that tapping from a power level thing might be an issue and they might remove things from common. So some of the things that I'm going to talk about today are design related, some are development related, but development also can always say this is not a new world order thing. This is a</v>
+
+00:11:08.300 --> 00:11:19.010
+<v Speaker 1>this is a power level thing. And there's some things where they go, you know what the power level, we're going to move it up to rare. I'm sorry, I've done uncommon or higher. So one thing to keep in mind by the way, is that</v>
+
+00:11:21.000 --> 00:11:33.540
+<v Speaker 1>the red flags here are there's a variety of different reasons we red flag things. Some of them are more design oriented, some of them have a development underlying cause to them. So as they walk through them, be aware there's different causes for why we red flag things.</v>
+
+00:11:34.210 --> 00:11:39.510
+<v Speaker 1>OK #2 do you have four or more lines of rules text?</v>
+
+00:11:40.490 --> 00:11:45.030
+<v Speaker 1>So that is an interesting one. Well, why? Why that? And the answer is</v>
+
+00:11:45.630 --> 00:11:53.320
+<v Speaker 1>we've learned that there's a point at which the text just intimidates the the reader and that</v>
+
+00:11:55.030 --> 00:12:06.600
+<v Speaker 1>one of the things we want to be careful about is, I mean, texting, this is a sign of multiple things. One of the things that's development does is one of the metrics they look at is words per card,</v>
+
+00:12:07.350 --> 00:12:37.580
+<v Speaker 1>especially a common or words per as fan is also very common. And the idea is, well, the word of your are usually not always, but usually means the more complicated you are that you know, and as a nice metric, just like red flagging. The point to having metrics is not to be dictatorial. The point of having metrics is so that you can understand. It's a guideline that tends to show you if you need to give you know, further a further look at it. If your text is a little above average,</v>
+
+00:12:37.670 --> 00:13:02.490
+<v Speaker 1>that doesn't mean it's not OK. It means you have to look and figure out why the text is above average. What is going on Now it turns out there are longer texts that are easier to process. So one of the things about this red flag is it says, OK, are you worthy? And I'm defining word is being four more lines of rules tax. If you are wordy, it means OK, let's take a look at you. Maybe that means there's just too many words on you. Maybe that means you're doing too much. Maybe it means</v>
+
+00:13:03.190 --> 00:13:10.320
+<v Speaker 1>let's just see if how easy this to grock what you're doing. And sometimes it's like, OK, OK, this is not too bad.</v>
+
+00:13:11.810 --> 00:13:13.480
+<v Speaker 1>When we say 4 lines of text,</v>
+
+00:13:14.880 --> 00:13:32.420
+<v Speaker 1>usually I'm not talking about reminder text because sometimes you could reminder text, it's 3 lines long. And so the mere act of having this ability with reminder tracks makes it 4 lines. Doesn't that real? I mean, we have to be aware of a minor tax. And the existence of reminder text can be intimidating. So it's not that we're not</v>
+
+00:13:33.220 --> 00:14:03.020
+<v Speaker 1>I, I guess to be clear that if something with the reminder text is over 4 lines, we want to be aware of that. But usually the reason it will, I mean reminder text and expert expansion tends to be on new things. And so normally we're vetting the new abilities and saying is this in build we think people want to understand. One of the things in general about New World order when you look at mechanics is how hard is mechanic to sort of understand in a vacuum and how much does it add to the complexity of the board we are allowed. So one of the things about red flagging is what we call the 20%, which is</v>
+
+00:14:03.250 --> 00:14:34.830
+<v Speaker 1>we want 80% of our Commons to follow all the rules we normally set up and about 20% can break those rules. Meaning when I talk about you have red flagging exceptions, we allow ourselves a certain number of exceptions, about 20%. So one of the rules about New World Order is you are allowed to make the player think about something they don't normally think about, but focus that thing. It should be 1, usually one thing, at most two things. But for example, let's say landfall and send a car.</v>
+
+00:14:34.940 --> 00:15:04.510
+<v Speaker 1>Normally you don't track when lands come into play. It's not something I go did a land come and play this turn. But we're like OK, and this environment, this is important enough that you have to track land entering play. That's an important thing. But in Zendikar, that was the thing you had to care about. In Innistrad, you had to care about things dying, but that was the thing you had to care about. You know that we pick one thing usually, sometimes too, but usually one thing that each set OK, in this environment, this is the thing that matters. This is something you need to care about. And we make people care about that.</v>
+
+00:15:05.170 --> 00:15:32.000
+<v Speaker 1>I guess industry did have to industry also made you care about not playing spells and playing two spells. Now that was only when you were Wilson play, but still that happens enough that something have to track. OK, so if you have four more lines of text, it just means we have to understand are you confusing? And sometimes the four lines aren't necessarily confusing. It's being 4 lines of text doesn't by definition make you confusing, but it does mean on average you were going to be confusing or you have the potential to be confusing.</v>
+
+00:15:33.960 --> 00:16:04.750
+<v Speaker 1>The other thing we have to look at is, and this is related, is what we call things that are hard to parse. And the little, the best way to explain this is if you have to read a comment and then you have to read it a second time. That is what we call hard to parse. And that doesn't mean it's necessarily wordy, although the wording your are, the greater your chance of being hard to parse. What it means is there's just something about your wording that people are like what what is it doing? And if you're hard to parse, there's a couple of things. One thing that can mean is, OK, we need to go back to templating.</v>
+
+00:16:04.820 --> 00:16:23.100
+<v Speaker 1>Like for example, Conspiracy was a good example where we actually had our slide show. This is much, much later than normal, but Conspiracy was a very weird set. We were doing our slide show, we were looking at cards. So before that second hand off our ideas, a slideshow, we look at the cards and some of the templating was just hard to grock. And so we said, you know what,</v>
+
+00:16:23.890 --> 00:16:29.770
+<v Speaker 1>sometimes when you're in the weeds, as they say, when you're trying to make something make sense and there is a lot of</v>
+
+00:16:30.800 --> 00:17:00.860
+<v Speaker 1>fine tuning and, and, and magic templating is, is a language essentially, I call, I call it magic ease that, that it is a language that, that when you say when or whenever or if, I mean those all mean things, they're not, they're not insignificant. And so one of the things that happens when you're trying to make technically make something work is sometimes you lose what I call sort of the, the big picture. Look at it that you're so sort of in the minutia that when you don't have the ability to step back and see it and sometimes other people</v>
+
+00:17:00.940 --> 00:17:31.450
+<v Speaker 1>that are less involved and go, OK, that makes no sense. Yeah, I know what you're going for. That makes no sense. And there's a couple of classic things. Like one of the things that we we have is a good example where one of the templates is when you play this card, you know, when this card comes into play, if it came into play, you're like when when it came to play, if it came to play, it just came into play. You're like like that that is there to sort of prevent something or you can't do something and destroy it and have things happen. But it's, it's hard to parse.</v>
+
+00:17:31.520 --> 00:17:52.640
+<v Speaker 1>Would you like, huh, I don't understand, you know. And so we have to be careful and stuff like that. We be careful where we do something that the person reading it doesn't quite understand what's happening. And the general rule of thumb, if something's hard to parse, we tend to get it out of common. And once again, let me explain the philosophy behind New Order. This aspect of it, which is the following, which is that</v>
+
+00:17:54.440 --> 00:18:20.730
+<v Speaker 1>we want Magic to have some complication. We want Magic to be something that the player goes, oh, there's, there's some really meaty things to have to think about. The the point here is volume is how often are you running across a more complex thing? And what we want is the beginner just has less packs. Most of the cards in the pack are common. If we just take out the more complicated stuff in common, it just means the beginning player has less</v>
+
+00:18:21.380 --> 00:18:43.900
+<v Speaker 1>confusing things when they're starting. And as you get better, you're going to get more cards and you're going to start cutting out all the cards you know, rather than just the card you own. And that you'll start being exposed to higher rarities and more cars. And then you you'll have the opportunity once you're in a more experienced player, you're going to build your deck. If you want to take the complicated things, you'll put them in your deck. But beginning player who's more building with what they have to start with,</v>
+
+00:18:44.680 --> 00:19:00.420
+<v Speaker 1>it makes things a little easier just to pull that out. So a lot of this in red flagging is about numbers, is about how often you want to see something. I don't mind having some cards that are hard to parse if they do cool things, but I don't want you getting lots of them. You know, a lot of this is a lot about new order is how many copies do you want to get?</v>
+
+00:19:01.040 --> 00:19:31.250
+<v Speaker 1>You know, I'm OK if players get a couple a couple single copies of cards they might have to think through, but having multiples of them, especially at the multiples become harder to play and make more complexity that causes problems. For example, the cards that affect other cards. If I have one card that affects other cards, OK, I can focus on that one thing. I got an uncommon creature that grants in creature first strike. OK, well, now we have to look at the board and figure out what that means. But I have one, I have one creature that does that. A different creature, the grand to this and a different that. Like,</v>
+
+00:19:31.350 --> 00:19:31.770
+<v Speaker 1>um,</v>
+
+00:19:32.540 --> 00:20:02.410
+<v Speaker 1>in, in volume is the problem and that a lot of these things about board complexity is that having one thing or two things that you have to think about is fine. Having 5 is hard. Having 10 is really hard. Having 15, you know, like this all came about the new world order came about from Lorwyn Morningtide Limited, where Lauren cared about these 88 races and then Morningtide care about these five classes. And every car tended to have at least one of the races and some of the classes and hi.</v>
+
+00:20:02.480 --> 00:20:30.100
+<v Speaker 1>Just the the the lattice work that you had to figure out what you could do of what was in play just could become mind boggling for people who weren't really adept at it. And the goal is that we don't want to make that a regular occurrence, especially in limited. I mean, if you and your friends want to sort of make the lattice happen, we give you the cards to make it happen. It's just something's going to happen because you and your friends choose to make it happen and volunteer for that, not because you're just walking into it.</v>
+
+00:20:31.120 --> 00:20:33.730
+<v Speaker 1>OK, next, and this is a big one,</v>
+
+00:20:35.000 --> 00:20:41.680
+<v Speaker 1>the cards that get card advantage are red flags. So let me explain card advantage. So what card advantage says is if</v>
+
+00:20:42.330 --> 00:20:48.940
+<v Speaker 1>at the end of the day, if I do something and the number of cards I lose is less than the number or,</v>
+
+00:20:49.840 --> 00:20:55.180
+<v Speaker 1>and then I do something and the end state is there's a change in the cards, how many cards we have.</v>
+
+00:20:55.990 --> 00:21:20.110
+<v Speaker 1>If I either end up with more cards than you in the game or we both lose things but I lose less than you, that is considered card advantage. So for example, you have a creature in play. I have a tear in my hand. I have a dark banishing nerve, a kilt belt. I kill your creature. Well, I spent one card. You've lost one card. There's a parody. A1 for one parody.</v>
+
+00:21:20.960 --> 00:21:26.540
+<v Speaker 1>Now let's say for example that one one, the creature you have has an ore on it.</v>
+
+00:21:27.170 --> 00:21:40.180
+<v Speaker 1>Now when I kill your creature, you've lost the creature and the aura. And I've played this battle. So that is that is an example where this card has been. It's kind of built in auras. Now</v>
+
+00:21:41.180 --> 00:22:11.040
+<v Speaker 1>we understand that some of that's going to happen or has happened to come in. But what we don't want to happen is I have a car that says destroy 2 target creatures or a card that says destroy target creature and then it's opponent discards a card. You know you want to be careful. Once again, this doesn't mean we don't do them. This means they get red flagged that whenever you're going to be a card, that's going to cause a a card disadvantage. And the same is true for card drawing, which is if I spend one card to draw 2 cards, I've gained in card advantage. Now that is a much less problematic</v>
+
+00:22:11.150 --> 00:22:29.030
+<v Speaker 1>apartments change. And so that's something we're more likely to do a comment because it's having a little bit less impact on the board. But anyway, it's something we want to be careful of is how often are you creating card advantage? And a correlated to that is are you capable of killing more than one creature?</v>
+
+00:22:30.320 --> 00:22:34.150
+<v Speaker 1>So if you have a card that can kill multiple creatures, we want to be careful. You're red flag.</v>
+
+00:22:34.770 --> 00:22:37.980
+<v Speaker 1>You know, we tend not to make cards that</v>
+
+00:22:39.950 --> 00:22:48.060
+<v Speaker 1>we tend not to make cards that kill multiple things at common. No, I'm not saying we never do. We make tremors and things like that every once in a while</v>
+
+00:22:49.200 --> 00:23:19.170
+<v Speaker 1>and as part of the card disadvantage, we tend not to make permanence that as an ETB effect as into the battlefield effect, kill a creature. So for example, Flame Flintstone Kabu was a famous it was a fortune creature that did 4 damage when into the battlefield and to a creature. So those tend to go uncommon because they kill something, but they're still there. They're you know, I've lost no cards. You've lost one or things that are repeatable kill things like prodigal Pyromancer, which is a</v>
+
+00:23:19.790 --> 00:23:31.200
+<v Speaker 1>the one one that taps through one damage to a creature or player. That I mean, that also has effect are the creature problems that that that's that's in red flag for a different reason, But it's also red flag for repeatable kill causes problems in common</v>
+
+00:23:32.670 --> 00:24:03.110
+<v Speaker 1>behind it. So we also if if you're capable of killing them more than one thing, either because you, you know, off the bat you killed more than one thing, a sweeper of some kind, or if you have repeatable kill, meaning every turn I can kill something or every once in a while I could kill something. Both of those things we read flag now, like I said, tremor, which is something does one damage to all creatures, not something we tend to do in common that has the capability of killing more than one creature, but it most often doesn't. So we we I mean we on a case by case,</v>
+
+00:24:03.220 --> 00:24:33.280
+<v Speaker 1>he said, look at things and figure out whether they're allowed. But as a general rule thumb, we'd like to hold back on things that create the card advantage or things that can kill multiple creatures in general. By the way, that's leads us to the next one, which is in general, we have to be we red flagged things that do repeatable effects. Now there's some people effects were fine with the common, but if every turn you're able to do something we have to figure out are you are you complicating the board state? And pretty much one of the rules is</v>
+
+00:24:33.700 --> 00:24:39.160
+<v Speaker 1>if I do this, does my opponent have to take into account that I am doing it?</v>
+
+00:24:39.790 --> 00:24:50.800
+<v Speaker 1>Now, some things like milling, so taking cars on top of like putting the graveyard or life gate, there's some things that it can your opponent sometimes have to think about it, but most of the time they don't.</v>
+
+00:24:51.930 --> 00:25:22.580
+<v Speaker 1>If I have Richard that is milling you, it's not until you get low enough in your library that that mill is a threat to win the game that you really have to think about it in the early game. It's like, well, you're me, whatever, It's not going to change how I'm blocking or doing anything. Life game is similar. It can matter later in the game that you're gaining life. But early on when I say, OK, I gain the life was like, OK, I mean, I have to market on my sheet to mark your score, but you know, life total. But it's not it's not affecting decisions about blocking or the board, you know, or it can lead game. It's not in the beginning of the game. And so the repeatable effects</v>
+
+00:25:22.820 --> 00:25:52.670
+<v Speaker 1>be careful that they for the most of the game, like if I have repeatable fact that makes my opponent have to constantly think about that effect and how it affects each turn. Ohh, well we tend not to do that at common. A lot of those cards affect other things, so they trigger a different flag. A lot of those generic card event trigger another. You know that one thing you'll notice is a lot of times when something gets red flagged, he gets multiply red flag because it's breaking a bunch of different roles. And usually that's a sign. By the way, when you get multiple red flags, I'm not saying some of the multiple red flags don't make it through, but usually</v>
+
+00:25:52.750 --> 00:25:54.060
+<v Speaker 1>the design that you're supposed to be</v>
+
+00:25:55.560 --> 00:26:14.450
+<v Speaker 1>next thing is do you create a loop? So the classic example here was or is grave diggers or so Grave digger is a card is a black creature that when it enters the battlefield, you get to take a you raised dad. You take a creature from your graveyard and put it into your hand.</v>
+
+00:26:15.850 --> 00:26:45.570
+<v Speaker 1>And the problem with grave diggers is they create a loop. Meaning if I can get 2 grave diggers, I play one grave digger and I get back the other grave digger. And then what happens is I create this loop that every time one of my grave digger dies, I'm able to get back the other grave digger. Now it's not that we don't want loops. Loops are cool, but especially in limited and for casual players who are beginning, we don't want a lot of loops. And so one of the ways to avoid loops,</v>
+
+00:26:46.200 --> 00:27:11.590
+<v Speaker 1>getting them out of common. Once again, this is about just numbers, which is this is something we want to happen less frequently. Well, if they're at common, it's just going to happen more frequently. We'll get them out of common. OK, It can still happen. You can get two of the same uncommon, especially if you're drafting, but it's going to happen now is often not as frequent. And so in general, if we see loops, we tend to red flag them or we do red flags. I mean, sometimes we keep them. I'm not saying get rid of every,</v>
+
+00:27:13.270 --> 00:27:25.800
+<v Speaker 1>OK, related to that, our cards that are more powerful in number. So if I have a card that if I have multiples of them, it goes up in power. Now sometimes we want that economy. We are making something like</v>
+
+00:27:26.920 --> 00:27:48.380
+<v Speaker 1>a Kindle. So Kindle was expelled from from Tempest so it did 2 damage plus it did an extra damage from Kindle and you graveyard. Oh well kind of what makes that card interesting is I want to have a bunch of Kindles. I want the idea that my first Kindle does 2 damage, but my second Kindle does 3 damage. Pretty cool, but it doesn't mean as much unless you have access to Kindle. So</v>
+
+00:27:49.000 --> 00:28:11.880
+<v Speaker 1>whenever something is needed at number, we red flag it because we essentially is do we want it to be, you know, sometimes like Kindle, we want that. That's a positive thing. We want you to collect a bunch of them. So we like specifically put in a comment. But sometimes like, oh, well, that's kind of problematic if you get too many of them, especially unlimited, OK, you don't. We're going to do, we're not going to put that in common. We're going to put a higher rarity</v>
+
+00:28:13.280 --> 00:28:24.470
+<v Speaker 1>and that, you know, there are definitely cards that I mean, like I said, it's a balance of figuring out how much we want you have access to that both for the limited player and for the casual beginner.</v>
+
+00:28:26.580 --> 00:28:38.210
+<v Speaker 1>OK. The next category is what we call causes confusing interactions. So one of the things in general is there are certain things we've learned that</v>
+
+00:28:39.670 --> 00:29:08.120
+<v Speaker 1>there's certain rules that we know are hard for people. Now that's not to say that we don't want those rules to ever happen, those interactions to ever happen. But when we know there's a problem, when we know that the average person gets it wrong, we want to limit how often people are going to run into that. And especially we kind of don't want beginners to run into it. So one of the perfect examples there is most not a lot of players don't necessarily understand how trample and deathtouch interact.</v>
+
+00:29:08.750 --> 00:29:13.060
+<v Speaker 1>And so we're kind of careful to make sure that those two abilities don't easily get together</v>
+
+00:29:14.730 --> 00:29:44.520
+<v Speaker 1>most of the time. Now, it's not the thing you can't compile them, nothing. You can't ever make things do that. But we're very cautious of that. We're very cautious to say, OK, when this is going to happen. And we want to make sure that, you know, we limit how often the interaction happens. And let me stress none of this, none of New World Order, none of red flagging, none of this is to prevent cool things from happening in magic. We want cool things to happen. The issue is if something's going to cause problems to confuse people, we just want to lessen how often it happens.</v>
+
+00:29:44.790 --> 00:30:14.880
+<v Speaker 1>And remember, in constructed where you pick your cards, you get addicted how often something happens. We when we pick something for for common, the two things we are affecting is how it impacts and limited and how it impacts for the casual player that has less cards. And no, by the way, when I say casual player, one of the one of the problems of using the term casual players, there's two different types of casual player. What I kind of mean is really the less enfranchised newer player not likes to play casual formats.</v>
+
+00:30:15.340 --> 00:30:42.320
+<v Speaker 1>So maybe I should probably get a better word for that. What is what I'm talking about is the the newer player, the player that is less enfranchised and that a lot of what New world order is about and, and, and this red flagging is, is, is percentages is just how often do we want you to see something? And the idea is if something's going to cause problems for the newer player, we say, you know what, let's lessen how often they see that. And</v>
+
+00:30:43.080 --> 00:31:13.970
+<v Speaker 1>on the flip side of something we really want people to experience. Like the other thing, for example, is when you build a set, you're like, here are what my sets about and you and some of the stuff that's about your sets about like every year we make magic and we want magic to do some new things. So the way we do that is we go, OK, we'll go into new world. There's new mechanics. This is what we're doing. Well, part of the fun of the new world is you have to care about things. It was neat that in Zendikar I have to care about when I play my land. It was neat that in Innistrad I had to care when things die,</v>
+
+00:31:14.290 --> 00:31:38.120
+<v Speaker 1>you know, it is neat in in Pharaohs that I had to care about which of my cards targeted my own creatures, you know, and that that happened in building, that happened in play. And that it is fun that each environment cares about things that other environments don't care about. So it's not that we don't, you know, when you're trying to figure out percentages, it's like, I want people to experience this. Oh, is this something very</v>
+
+00:31:38.890 --> 00:31:45.830
+<v Speaker 1>cool that I think having a higher visibility will increase happiness? Is this a neat thing? The set is doing OK.</v>
+
+00:31:46.670 --> 00:32:04.040
+<v Speaker 1>Then there I'm trying to get things in common. You know, my whole thing about if you're, you know, themes, not a common is not your theme. Just me saying if you want your players to experience something, you have to put it in the numbers that they can experience it. And a big, big thing about understanding trading card games and rarity is</v>
+
+00:32:04.850 --> 00:32:34.240
+<v Speaker 1>you don't control the the minutia. You don't control the granularity, but you don't control you don't control the minutia, but you control the granularity. You control. I can't control what you see, but I can control about how often you see it. You know that I can take the different things that are in my set and I can say, OK, I want you to experience this at this rate I want you experience. This is why ask them so important the concept of how often we literally drawn in in your opening in your pack, how often you will get this concept.</v>
+
+00:32:34.800 --> 00:32:53.210
+<v Speaker 1>And we we literally sit and go, OK, this ability, we want this ass fan, this ability want this ass fan. We want this showing up at this percentage. Is this showing up at that percentages. And what red flagging is really about is just us saying these are the things that are problematic at too high a percentage. If they show up at too high a percentage, it's a problem.</v>
+
+00:32:53.920 --> 00:33:24.270
+<v Speaker 1>And, and, and, and that really is what what we're doing. It's what it's the red flagging is awesome saying, OK, hey, do we want this showing up at the frequency that it would show up by showing up in common? And when the answer is no, well, then we take it out of common. But once again, and I'll stress, red flagging is not hard and fast rules. Good creative work does not function under hard and fast rules. It functions well under rules, but then you need the ability to make exceptions, and a lot of what design</v>
+
+00:33:24.350 --> 00:33:28.980
+<v Speaker 1>therefore is to figure out when's the right call. When should you make the exception?</v>
+
+00:33:30.160 --> 00:33:37.240
+<v Speaker 1>OK, well thanks for joining me today. So I'm now parked and it's time for me to be making magic. Talk to you guys next time.</v>
+

@@ -1,0 +1,278 @@
+WEBVTT
+
+00:00:01.740 --> 00:00:08.040
+<v Speaker 1>OK, I'm pulling in my driveway. We all know that means it's time for another drive to work.</v>
+
+00:00:09.080 --> 00:00:10.130
+<v Speaker 1>OK, so</v>
+
+00:00:11.350 --> 00:00:41.720
+<v Speaker 1>I ran a while ago for you guys, the Rosewater Rumble where I pitted my 16 sets against themselves. The winner was in the charade, but I think the set that really sort of was the surprise of the whole thing was future Sight. Future site was responsible for two of the three upsets. And the third upset was Industrial being Ravnica, which is almost not really upset. And that when we were picking one and two, we weren't sure which to put first. So we, we knew kind of knew they were going the two finalists and we weren't honestly sure what was going to win. So</v>
+
+00:00:42.080 --> 00:01:11.710
+<v Speaker 1>but future site honestly surprised us. I did not expect future site to do as well as it did, but I think I understand why it did it as well it did. So let's let's talk today. Today is all about future sight. Now, let me start by saying this. I'm a big fan of future sight. I think people think that I don't like future sight. No, in fact, in fact, as a designer, I'm very proud of it in the sense that it was one of the hardest designs I ever did. In fact it in my mind it's the second heart design ever did</v>
+
+00:01:11.920 --> 00:01:22.060
+<v Speaker 1>after Unglued, which ironically was up against in the first thing. The only reason Unglued to me is a little bit harder than Future Sight was a glue. Didn't even know what it was</v>
+
+00:01:23.010 --> 00:01:32.700
+<v Speaker 1>where I had to. I had to sort of give a definition to it where future site knew kind of what I wanted to be. And the challenge was how do you make that happen? So here's what happened.</v>
+
+00:01:34.160 --> 00:01:43.240
+<v Speaker 1>So I became head designer during in the middle of Kamigawa block. So Ravnica Block was my first time leading the block.</v>
+
+00:01:44.480 --> 00:02:00.120
+<v Speaker 1>Time Spiral is my second. So as I explained the Time Spiral podcast, we started with this theme of of time and it kind of quickly became a nostalgia, became a big part of it. And then the block structure I set up was past, present and future</v>
+
+00:02:01.260 --> 00:02:30.490
+<v Speaker 1>pass was very clear. Like how do you represent the past? Well, show things from the past and cars from the past and things from the past. And you know, the past was very easy. If I talked about in my Planar Chaos podcast, I eventually came up the idea of the alternate present of the way things could have been. And once I got that hook on it, I understood what was supposed to be now future site. I knew what it wanted to be. It was a glimpse in the future. I understood that and we had the time shifted cards.</v>
+
+00:02:30.790 --> 00:02:41.320
+<v Speaker 1>So I knew going in that, OK, if they said all about the future, that played into hinting at what the future could be. And then it would have cards from the future,</v>
+
+00:02:42.670 --> 00:03:06.740
+<v Speaker 1>which I remember there was a comic someone did at the time where they were making fun of it. It's like their cards from the future, but they're in the packs, aren't they cards from now, You know, like, uh, but I, I liked the lots of flavor of future sight and the idea of, of is the place for us to have this playground to tease where Magic was going. Now, normally when you do a set, what you want to do is you want to concentrate, right? You want to pick a few mechanics</v>
+
+00:03:07.400 --> 00:03:37.170
+<v Speaker 1>and do those two mechanics. And all my training is all about saying, OK, don't go wide, you know, go narrow. Take your mechanics, pick a few really flesh them out, you know, and that the, the, the strength of usually making a design work is concentration. But that that wasn't what future site wanted. What future site wanted was to go wide. Oh, before we get to that, let me let me talk about the design team, because if future site had a very interesting design team, I don't know if I told</v>
+
+00:03:37.420 --> 00:03:46.860
+<v Speaker 1>so let's walk through it directly. So I was the lead, obviously, um, Mark Gottlieb was on the team, Devin Lowe, who at the time,</v>
+
+00:03:47.750 --> 00:04:17.440
+<v Speaker 1>I think he was the lead developer, but he was a developer, if not believe developer and he was the, the development representative on the team. Those were the 2 normal ones. Those are the people who had done design, had been on design teams before. The rest of the people on my design team had never been on design team before. What's interesting, Mark, why would you put three people on your design team that had never done design before? And the answer was I was doing future sight. I needed to go to. I needed to find things that Magic hadn't done.</v>
+
+00:04:17.650 --> 00:04:26.390
+<v Speaker 1>If I wanted some designers that didn't know you weren't used to doing magic design, the kind of maybe would be out-of-the-box a little more. So I had three people</v>
+
+00:04:27.270 --> 00:04:57.040
+<v Speaker 1>#1 Matt Cavada, who at the time was on the creative team in charge of names and flavor text. Matt had always wanted to try his hand in design. He had a very different sensibility. Plus, I knew that this was going to be a trickle, A tricky flavor to match, because not only were we showing glimpses of mechanical futures, but we're showing glimpses of creative futures. So I wanted to create a person on the team Matt had talked, had interest in designing. Matt definitely has a very different static I thought would be good.</v>
+
+00:04:57.200 --> 00:05:27.470
+<v Speaker 1>Ohh, Machado was on the team. Next guy named Ryan Miller. Ryan Miller currently is the equivalent of me on another product. We make another trading card game called Kaijudo. He's the head designer for Kaijudo. At the time, Ryan was doing a lot of different designs. Ryan's a very good designer, but Ryan had never done a Magic design before. And one of the problems in general I've learned when you bring established designers into Magic that aren't familiar with</v>
+
+00:05:27.540 --> 00:05:57.840
+<v Speaker 1>magic is they spend a lot of time sort of hitting areas you've hit before that usually what happens is you want people that are very well versed in magic because they kind of they've learned the lessons of magic. And designers that are well experienced but don't know magic well tend to rediscover a lot of that stuff. And so Ryan was brought in because I knew he didn't knew magic well, but also I was trying to use that as a plus and that he might go places we had closed off or hadn't thought about because we determined somehow we can't do it.</v>
+
+00:05:57.950 --> 00:06:28.440
+<v Speaker 1>And I wanted somebody who had had that sort of who, you know, maybe could go areas that we had we had sort of self censored. And it's about Ryan on. And the last person was I intern at the time, somebody who would later go on to be in the Magic Pro Tour Hall of Fame. I guess actually only two people who fit that description. One is Pat Chapin, but he's not the person. Z Moscowitz was the 6th member of our design team. And as you'll see in a minute, I'll talk about one of the mechanics Z was very instrumental in in one of them.</v>
+
+00:06:28.720 --> 00:06:59.930
+<v Speaker 1>OK, So what happened was, OK, we're showing a glimpse of the future. Now what happened? Brian Tinsman did time spiral, Bill Rose did planar chaos. I took future sight mostly because I understood what we were trying to do and show off the future. And like, this is a hard set. I knew it was hard set. And here's here's the biggest thing. So for example, the times the time shifter cards were from the future. So every single time shifter card had to do something we've never done before. You know, I'm saying like I can't just show you some from the future that something we've already done.</v>
+
+00:07:00.200 --> 00:07:29.900
+<v Speaker 1>Well, I'm glad that future looks pretty boring. You're doing that again. You know, you can't repeat what you've done. Now. A lot of what we did is riffing like a lot of the future we showed you were things that were things that made sense that we could do. You know, a lot of it was like, oh, I hope they one day do this. And we we did some of that. So we try to show you some stuff you've never seen before. We had mechanics you've never seen before. But at the same time, we also wanted to go down some avenues and explore some things</v>
+
+00:07:30.080 --> 00:07:36.520
+<v Speaker 1>that was kind of obvious. Maybe we could do one day and show we did. There's a lot of extrapolated with design.</v>
+
+00:07:38.060 --> 00:07:43.320
+<v Speaker 1>Also be aware that I went down avenues that I never planned to actually go down.</v>
+
+00:07:44.630 --> 00:07:54.790
+<v Speaker 1>One the ones I'll give examples, we enchantment the Taft. I don't wanna do enchantments that tapped, but I felt like when exploring all this potential futures, I had to throw a few things in that I thought were like,</v>
+
+00:07:55.440 --> 00:08:19.610
+<v Speaker 1>you know, you know, futures that people might have thought we would do just because it is very, very hard to come up with stuff we've never done. And so I felt like, OK, I'm not gonna even stuff that's normally off limits. I'm willing in this set to sort of goof around and and tease at things. And, and part of the fun was the whole idea of the set was we're showing you potential futures. Now be aware, I had at the time a six year plan, I think</v>
+
+00:08:21.120 --> 00:08:37.940
+<v Speaker 1>so. I mean I had some idea where we were going, you know, I knew, I knew clearly the next year, the year after that and after that and then I had somebody, some ideas of where we're going. So what happened was a lot of the designs were us teasing and directions. I thought one day we would go, for example,</v>
+
+00:08:39.330 --> 00:08:53.770
+<v Speaker 1>Arbor, dry it, dry it, Harbor Freight Arbor, Arbor I dry it over is a land. That's a creature. And the land, well, I knew we were doing a land block. I knew we were going to send the car. I didn't know what we were doing with land. So I played around with the kind of things we can do with lands. Now, it turns out</v>
+
+00:08:54.480 --> 00:09:03.010
+<v Speaker 1>when we went to then the car, we didn't actually do that, but that was me kind of teasing you and showing you that we're going to mess around with lands. Likewise,</v>
+
+00:09:04.370 --> 00:09:34.300
+<v Speaker 1>there was the mirror. What's the mirror's name? There was a mirror. There was an artifact creature. It was a blue frame, but it's also an artifact creature. And at the time we were sort of teasing, it's essentially the creative. We were teasing that we were going to go back to Mirrodin and that the fractions had invaded. And so that was a little clue there, but that. But it turns out we ended up using the colored artifacts in the LaRoche Delara block. So when we got to return to Mirror and we didn't do that.</v>
+
+00:09:34.400 --> 00:09:45.130
+<v Speaker 1>So a lot of times unless a lot of feature size was us sort of knowing areas we're going and playing with it now, a few of them we knew for sure. We definitely planted some stuff for the very next set,</v>
+
+00:09:46.490 --> 00:09:55.730
+<v Speaker 1>or you know, the next year's worth of sets. If you notice all four sets in the lower wind, morning morning, morning tide, shadow more and even tide all had</v>
+
+00:09:57.020 --> 00:10:26.870
+<v Speaker 1>card from you know, we we planted the thought that's near. And then we've always sort of whenever we do a set, we look and see and I happen to know for a fact that there's a couple of future sight cards right scheduled right now to come in future sets now. I mean they haven't happened yet. So but I mean they're currently insects right now. So it's something we constantly look for and it's one of the things I thought would be fun about future sight was we'd have this sort of game that would go on for a long time. It would both tease our future and have us sort of have fun sort of recognizing it. One of them was run into is</v>
+
+00:10:27.020 --> 00:10:46.610
+<v Speaker 1>a lot of times the creative and mechanical we would guess in mechanical future and creative guess into creative future. And they don't always line up that that's been the biggest problem where ohh, we do want to do this car, but that's not a creative we'd use. And I mean, the premise we always gave was these are from potential future. So some would come to pass, some wouldn't come to pass now.</v>
+
+00:10:48.600 --> 00:10:56.410
+<v Speaker 1>So the timesheet, a little talk about that first because that is one of the major elements. OK, so the rule I said for the time shift, she said</v>
+
+00:10:57.790 --> 00:11:27.680
+<v Speaker 1>anything on the sheet had to be something we haven't yet done, but could do and and some of them could do might be well, I don't think we're going to do that, but it's teasing at different things. Now, the one thing that I should point out is the frame real quick. So each time we had a timesheet and we used a different frame. The first set had the old frame. The second set had an alternative frame was where magic could have been, which was kind of a reworking and combination of the old</v>
+
+00:11:27.750 --> 00:11:56.790
+<v Speaker 1>in the new frame in a different way. I love the planar chaos frames, by the way. I think I mentioned that in the Planar chaos podcast, the Futurecast frames were we had actually toyed with changing magics frame. I mean, we did change magic frame, but we we explored with a much more radical way to change magic frame. So the future site was actually a peek into that frame like we had when we were planning to read the frame and mirrored in, you know, the 8th edition frames as people call them.</v>
+
+00:11:57.760 --> 00:12:27.620
+<v Speaker 1>We toyed with a lot more radical ideas like having the mana cost on the left side because we thought that when you spread your cards, you can see them. We had like a little symbols to represent the kind of cards. All this technology that we were thinking of doing, we went to the future. We ended up using that. We had done a lot of work to make those frames. There are a few additional things we did and it's funny, the symbols for the different card types, I think Magic Online later used those. So it is funny little things we did end up getting used.</v>
+
+00:12:28.480 --> 00:12:34.010
+<v Speaker 1>So the other thing that we did with the future shift is dump is</v>
+
+00:12:35.320 --> 00:13:05.780
+<v Speaker 1>hey, we wanted to show you things we actually do and we'd mechanics and things from the future B we some of them. There are a couple of things that we thought were funny. Let me talk about a few individual lines. So Tarmogoyf was made originally because I wanted the following joke, which was these are the card types of magic and it would list card types that didn't exist. Now, when I first came up with that joke, I plan to just list whatever some card types that were just sounded interesting. Oh my God, what's that?</v>
+
+00:13:06.080 --> 00:13:36.450
+<v Speaker 1>But because I made time going pretty early on in the process, but in the middle of that, Mac Cavada came to me with the idea of doing planes walkers. Now Matt and I Matt was my guest for a whole planes Walker podcast. Have you ever listened to that? And I like the idea. We ended up doing them. We try to do them in future side, but we couldn't quite we were close enough that we knew we had something really cool, but not close enough that we were confident putting them in. So in fact, the the turbo timer life. I haven't told this. I might I tell the story a lot. So I apologize. I told it already</v>
+
+00:13:37.020 --> 00:14:06.580
+<v Speaker 1>I made Tarmogoyf then when the planes Walker is going to be in the set, we're going three planes walkers in future site, one of which was green. We remove removed thermal gloves to put in the planeswalker. So instead of the joke mentioning the card type, we just show you a new card type with the idea. But then when the planes walkers weren't ready, we pulled them out and like put Carmelite back in. And it's funny. Literally Tarmogoyf was made because I thought it was hilarious to have a reminder text to show you other cards. And then once we figured out that we weren't going to do planes walkers just like</v>
+
+00:14:06.650 --> 00:14:29.390
+<v Speaker 1>this is awesome. I can show you a card that in fact is going to exist in the near future. And that was even better. Like I actually, it's an actual, I'm actually choosing in the future. And at that time, we'd also figured out that in order to make the thing we're trying to do in lower, which is the next day at work, we were going to need the tribal. So we ended up putting tribal on it too because OK, here's 2 new car types are going to show up next set. Which was pretty damn cool.</v>
+
+00:14:31.490 --> 00:14:44.330
+<v Speaker 1>And the reason what happened was I had a long list of things I could do and one of my things was logoi variant? And the other was card that shows reminder text of card types. And then one day my brains like, umm,</v>
+
+00:14:45.480 --> 00:15:15.130
+<v Speaker 1>interesting, and then I'm like, OK, well, you know, large wife cares about things in the graveyard. Car types are something I could care about. Boom. And I put them together when I when I made the card, by the way, I believe it was 2G for a star star, but even 3G for star star. I gave the two G 3G. The reason with star stars. I hate star plus one. I hate it. Like, whatever, just make it nice and simple and easy to grok and like, I don't think you need to start plus one. You know, like whatever 5 nothing to you graveyard to can't play it,</v>
+
+00:15:15.480 --> 00:15:43.580
+<v Speaker 1>not, you know, not that big a loss. Wait to get something in your graveyard. But what happened was when MM Turian was the lead developer, when Mike took out Tarmogoyf to put in the planes Walker and then had to put it back. He did it from memory and because lure goeser star star plus one, he just assumed to have star star plus one and so and then he also lowered it to 1G. So well, I made turn Gray might kind of kind of made turn black if you will.</v>
+
+00:15:45.080 --> 00:15:46.530
+<v Speaker 1>So OK, so</v>
+
+00:15:47.690 --> 00:15:58.560
+<v Speaker 1>the other what else did we do? Ohh. So the other thing we thought would be funny was to make some a few cards that were kind of just jokes. So one of the cards I made,</v>
+
+00:16:00.060 --> 00:16:01.620
+<v Speaker 1>forget what it did, but like</v>
+
+00:16:03.620 --> 00:16:32.930
+<v Speaker 1>when you blog, blog and split explorer or something and you know, it just was made-up words or I think, I think I know what it was, was it made-up a creature type that sounded silly and like all blurbs get plus 2 + 2 and something, you know. And, and Aaron like where I was going where I was just making up something that we didn't really plan to support, but he thought we didn't push it far enough. So Aaron took it and tweaked it and turned it into an early version of Steamflogger Boss and his team Flogger.</v>
+
+00:16:33.000 --> 00:16:49.980
+<v Speaker 1>Plus. It was whenever you erect a monument whenever or whatever. A rigor erected a monument. You said erect 2 monuments. And then in development someone decided that we probably shouldn't be erecting things and I don't know, it sounded bad. Anyway, we changed to assembling a contraption</v>
+
+00:16:51.340 --> 00:17:21.550
+<v Speaker 1>and the idea was it would be this card that kind of hinted at, you know, the future, who knows what's going on? And that was kind of funny. And it was our intent that we were joking. But then Aaron goes and tells people in this column, there's a joke. And I'm like, but Aaron does told me that joke is funny when you don't tell people it's a joke. And then once Aaron said it's a joke that we had no intention of making assembling contraptions and stuff. Then of course, what is the like, for example, I did this thing where I asked my Tumblr audience what are the top 10 things they wanted. Well, I didn't have top 10</v>
+
+00:17:21.780 --> 00:17:46.220
+<v Speaker 1>ask some of the things they most wanted to see. And like in the top five was contraptions. Like contraptions become this giant thing because we, we sort of threw the gauntlet down and then Aaron's like, ohh, we could never do this. And so I and the problem was we didn't make it easy for us. So the contraptions are on my short list of like, if one day I can solve contraptions, I should make contraptions. But there's a whole</v>
+
+00:17:46.870 --> 00:18:04.860
+<v Speaker 1>yeah, yeah, it is a keeper. Go read the rules about it. Like you, the player, don't someone contraptions the OR at least sometimes the creatures assembled contraptions. So what does that mean? Why are they assembling them? And it's an artifact subtype. And yeah, yeah. Anyway, it has become one of the things that people bug me about most,</v>
+
+00:18:06.190 --> 00:18:09.920
+<v Speaker 1>which means that I I've spent some time thinking about it. It is a</v>
+
+00:18:10.860 --> 00:18:18.730
+<v Speaker 1>It is very tricky. It is very tricky. But I promise you this, the day I figured out how to do them, I will look for a place to put them.</v>
+
+00:18:20.010 --> 00:18:23.880
+<v Speaker 1>Oh, also on the time, here's another funny story about timesheet. So, um,</v>
+
+00:18:25.160 --> 00:18:56.090
+<v Speaker 1>normally when development makes holes, what they do is we have whole filling. There's people in R&amp;D and outside of R&amp;D that they'll go to to fill holes. And so normally once I hand over a set, I'm not very involved in whole filling. Usually they come to me when like they're having real trouble filling it and then I'll try to help them, you know, but normally normal home filling can usually fill holes. The problem was the normal hole filling team was really bad in filling time shifted holes because it has to be something you've never done,</v>
+
+00:18:56.180 --> 00:19:26.370
+<v Speaker 1>but something that you maybe could do. And that's just that's really, really hard. I mean, when I talk about this set being so hard to design, trying to wrap your brain around like things that you could do but haven't done. I mean, it's very hard to make. They were very, very hard to make it. So when Mike turning would do is when he have holes, he would just come to me. I would just fill the holes that he didn't go to the hole. He tried a couple times and it it just proved fruitless for the whole team. It just was a little bit too hard, required a little bit too much kind of intimate</v>
+
+00:19:26.440 --> 00:19:43.240
+<v Speaker 1>College of sort of what's coming up and what could be done. And I'd spent the whole time working on the set. So I've, I was in that mindset. So Mike would come to me. And so right before the set was going to go to print, he came to me and said, OK, Mark, I need 2 cards. I need a blue card and a black card.</v>
+
+00:19:44.640 --> 00:19:56.340
+<v Speaker 1>Those and, and I made those cards and I sat down in one session. I made those two cards. There was very, very last thing to go on the set and they were Nerka Ameba and Bridge from Below</v>
+
+00:19:57.520 --> 00:20:12.360
+<v Speaker 1>um, which are both going on to be pretty good cards. One of the things about future sight and there's a couple of 8th my turn was known as a as a developer that definitely pushed boundaries power level wise. But also I think the reason future sight ended up being very powerful is.</v>
+
+00:20:13.180 --> 00:20:13.700
+<v Speaker 1>Um,</v>
+
+00:20:14.850 --> 00:20:43.980
+<v Speaker 1>development, it is hard to understand something you've never played with before. And normally with that, you know, I will throw one or two curveballs at the developers, you know, have one new mechanic have never dealt with, but usually have mechanics with things that are similar and they have some idea. But this, that was like, I would just throw curveball after curveball to curveball. Like this one works in the graveyard, but not in play. And this one does this one make holy moly, you're like every card was a curveball, specially the especially the timesheets.</v>
+
+00:20:44.860 --> 00:21:03.690
+<v Speaker 1>And so they were like, I think one of the things was it was a hard figure out engage the power level, you know, and that's why futures I I think has a higher power level than than most and that there's so many weird cards to do weird things like, well, in the right circumstances could be good, but is it normally good? You know, and I think that's part of why it ended up the way it did.</v>
+
+00:21:04.380 --> 00:21:17.750
+<v Speaker 1>OK, another big part of the set is what I called mix and match. So mix and match was inspired by Mark Gottlieb in Unhinged. Mark Gottlieb made two cards. One was called Blast from the Past and one was called Old Fogey.</v>
+
+00:21:18.790 --> 00:21:48.920
+<v Speaker 1>Blast from the past was a burn spell that used every spell mechanic marker come up with an old fogey was a creature that used a lot of creature mechanics. Now old fogey was a little more jokey than black blessing passes more straightforward like, hey, here's a a burn spell with five mechanics. We're old fogey definitely has some more jokey keywords, but both of them are kind of like I'm using a lot of keywords keywords from the past and putting them together. In fact, when I wrote the FAQ</v>
+
+00:21:48.990 --> 00:22:06.010
+<v Speaker 1>or unhinged for each of them, I'm like, here's, you know, here's the mechanic. A with B works this way, B with, C works this way, C with with, you know, and I sort of walk through what happens when you combine mechanics. And what I found was, you know, like left from the past. I mean, there were a few duds, but most of the mechanics actually work kind of interestingly.</v>
+
+00:22:06.930 --> 00:22:16.190
+<v Speaker 1>You know, that you could, you know, do this and then do that. You could, you could kick it and then you could buy it back. And so you have a large effect, but you still get to keep it, you know, or,</v>
+
+00:22:17.480 --> 00:22:38.680
+<v Speaker 1>or you could kick it and flash it and stuff like that. It was kind of neat. Although it turns out that buyback and flashback, even though they share the back, don't work together. So I like that idea. And I felt like how often we're going to be in a place where we could do a mix and match it to like, you know, normally there's is an environment that has that many things where we can mix and match them together. And</v>
+
+00:22:39.700 --> 00:22:42.400
+<v Speaker 1>we made this decision that we were going to</v>
+
+00:22:43.030 --> 00:22:46.980
+<v Speaker 1>like explore mechanics from the past. And so, you know, the first set</v>
+
+00:22:49.020 --> 00:23:09.630
+<v Speaker 1>Time Spiral, I think had 12 returning mechanics and two new ones, I believe what happened. And then along comes next and that adds a couple. And anyway, I said, OK, let's do mix and match. And so I put the Moscowitz by said this is OK, here's all the mechanics I'm willing to bring back. And it was a pretty lengthy list.</v>
+
+00:23:11.150 --> 00:23:31.680
+<v Speaker 1>I said OK, you for each one of them, rank them from 1:00 to 5:00. One means or five means awesome. This is awesome. Awesome, This is really cool. You'll feel clever. 2 means it's like 4 means that it's good but you're not great. 3 means it's OK. 2 means it's sauce. 1 means it doesn't even work. It's a non bone as we call it, our bombo.</v>
+
+00:23:33.010 --> 00:23:43.990
+<v Speaker 1>And so he went through and it took all of them and he ranked them from 1:00 to 5:00. And then what I did is I made you put all the fives in. I think I got all the fours in and I got, I think most of the three is in</v>
+
+00:23:45.380 --> 00:24:15.490
+<v Speaker 1>and I got all the threes, I got all the 54 fives in. And so we, we just mixed and matched and that was kind of fun of it. It's like what happens when this mechanic, that mechanic, because normally what I explained it when at the time was look, you know, the only way to get mechanics together if they're in the same set. And while we do bring back mechanics, A, we don't pretend bring back too many mechanics at the same time and B, you know, at best there's two mechanics that can, you know, merge for a card. And so I was very excited about, you know, mix and match being something that we could give a very distinct</v>
+
+00:24:15.560 --> 00:24:45.660
+<v Speaker 1>we all and it it felt a lot of the future to me, which is well, in the future. That's where you see things we've done, but, you know, put together in different ways. And in some ways that spoke to me what the future was. It's taking what magic is already done, but mixing and matching them in different ways. And so I thought this these cards would be something that really sort of had that future feel to it means one of the big things, by the way, I'm big on feel was I wanted the future site to have the sense of, you know, you're exploring the future that is different.</v>
+
+00:24:46.040 --> 00:24:59.630
+<v Speaker 1>I looked for mechanics and things that had that sense. For example, I saved scry for future sites because Scribe to me was a mechanic all about, you know, seeing the future. I mean, literally it's called Scribe, which means to look into the future.</v>
+
+00:25:00.900 --> 00:25:24.020
+<v Speaker 1>Also we had the packs, which were interesting story, Paul said. Asanti, who was on the design team for Planar Chaos, was inspired by a cardinal unhinge called Super Turbo Powered Slot. It's called Power Slug. I'm that's not the name. It is Super Turbo</v>
+
+00:25:25.520 --> 00:25:55.550
+<v Speaker 1>I'm driving in the car. It was a car from one hinge. It was a little slug that it's super haste and I can't remember its name super turbo charged anyway that card you know what I'm talking about, but he he during planar chaos, he came up with the idea of the packs which these cars in which you paid for it in the future. He paid for it next turn. But I think wait, Paul, that's that's a future site mechanic, right. I got to do a spell now when I pay for it in the future. And so I stole it and put it into future site because</v>
+
+00:25:55.620 --> 00:26:25.580
+<v Speaker 1>there's any idea. But I mean, it was perfect for future side. Now a lot of people, by the way, there's a big debate about the whole lose the game thing. And the reason I did that, why have you lose the game rather than out of the negative is I felt like if I gave you another negative and we tried this, what you ended up doing was just building adaptive playground the negative. But that wasn't the point. The point of the cards were I get a card now that I pay for next turn. And so I need to do something to ensure you paid for it next turn. I wasn't trying to make a Super Johnny car that you built around the negative. So I'm like, OK,</v>
+
+00:26:25.710 --> 00:26:55.790
+<v Speaker 1>how do I make you pay? Well, if you don't, you lose. That'll make you pay, you know, and I mean, packs had a little bit of a problem of people forgetting and losing, which isn't really the point. And I obviously it's the biggest downside of packs. But I do enjoy the idea of you got to pay now or you gotta pay later. You got to pay for what you get now. You know, I'll gladly pay you Tuesday for a hamburger today. And I enjoyed them. I've the packs are one of my favorite cycles in the sense of I love the gameplay of them, the idea that, you know, I get my resource now, but now I'm indebted to pay for it later.</v>
+
+00:26:58.040 --> 00:27:02.600
+<v Speaker 1>Anything else with mix and match cards? Uh, sprouts store swarm for well,</v>
+
+00:27:03.780 --> 00:27:08.470
+<v Speaker 1>I think that was a cool car. I think can look back well together. It was a mistake that ended up being in common.</v>
+
+00:27:09.910 --> 00:27:20.690
+<v Speaker 1>You know, I I I don't think in play testing we realized, obviously development didn't realize the power. You know, it's that kind of float in the reindeer under the radar a little bit of how powerful it was.</v>
+
+00:27:22.090 --> 00:27:51.940
+<v Speaker 1>And I know in in limited, it's one of the big frustrating things about future side. And I mean, obviously, like I said, it's more development and design. But if we had been a little more on the ball, maybe I don't know. I do like I mean, I like the mix and match with the card. I guess the rarity was wrong. So here's something else that for you to think about about the complexity of the set, which was before the set. If you looked at the set as of planar chaos, how many mechanics existed in magic?</v>
+
+00:27:52.100 --> 00:27:57.820
+<v Speaker 1>He did magic hat if you went to the comp rolls and I believe there were 56,</v>
+
+00:27:58.480 --> 00:28:29.050
+<v Speaker 1>you know, so there were 56 keywords that existed before planar collapse before future site came out. OK, how many keyword mechanics were in the future site Now in introduced a whole bunch, but how many were in future sight? And the answer is 48. By the way, design turned over 51. Gottlieb ended up pulling as rules manager pulled a few out during development. But think about that. There were 56 in existence. There were 48 in future site. You know, I mean, for people that want to sort of say, oh, you know, future sight, it's not it's not that complicated,</v>
+
+00:28:29.130 --> 00:28:59.140
+<v Speaker 1>baloney, baloney, baloney. It's insanely, insanely, insanely complicated. Now I understand, I understand that there are people who enjoy that. And obviously I think the reason that features like did so well in the Rosewater Rumble is I was on Twitter. This is my dedicated enfranchise following, right? You know, these people who are like, I want to follow Mark on Twitter. These are people who playing magic for a while, a lot of them. And I mean, like I always talked about future Sight doing my art house film, which means it got critical rays.</v>
+
+00:28:59.260 --> 00:29:19.430
+<v Speaker 1>People loved it who who saw it and got it. But it did had a bad opening weekend. You know, Future Sight did not do well. And the reason was there were 464848 keywords 48. Let's imagine you were new to magic. OK, we normally, normally in a set, you know, we'll put</v>
+
+00:29:20.830 --> 00:29:50.420
+<v Speaker 1>four or five mechanics, maybe maybe 6 of you wanna push it, But I mean, you know that that's about it. And, and if we're doing 5 or 6, like they're simple, right? We're making sure not anything too complex, you know, and I mean, I understand of the 48, some of them were Evergreen keyword. So, but let's take those away. We still were like 30 keywords, you know, and some of them are very complex, but we never done them before. They're from the future, you know, plus we had mechanics were just on one card or on a couple cards and like, it was, it was a lot,</v>
+
+00:29:50.710 --> 00:30:20.090
+<v Speaker 1>you know, and like I said, I'm not, I'm not disappointed that we did it And I, I think that futures had a lot of fun to it. But anyway, as I'm looking at my sheet, I realized I have a lot more to say about future site. In fact, I haven't talked about a single mechanic and there are 48 of them. So I'm going to, I'm going to come back next week and I'm going to talk a little bit more about a lot of the individual. I think I'm talk about mechanics next week, mostly because it's 48 mechanics get through 30 minutes, 48 mechanics. Can I do it?</v>
+
+00:30:20.770 --> 00:30:37.710
+<v Speaker 1>So next week I will talk about sort of a little bit more about future site and hopefully you guys enjoyed today's Part 1 and next week we'll be more future site. But I'm now at work. I parked in the parking spot, so it's time for me to go in. So I guess it's time for me to make the magic.</v>
+

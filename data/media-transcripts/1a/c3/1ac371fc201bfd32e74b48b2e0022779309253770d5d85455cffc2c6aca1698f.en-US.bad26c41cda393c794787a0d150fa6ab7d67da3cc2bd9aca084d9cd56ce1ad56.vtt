@@ -1,0 +1,368 @@
+WEBVTT
+
+00:00:01.050 --> 00:00:07.340
+<v Speaker 1>OK, I'm pulling in my driveway. We all know what that means. It's time for another drive to work.</v>
+
+00:00:08.270 --> 00:00:24.320
+<v Speaker 1>OK, so oftentimes when I'm doing this podcast, I tend to do things from the past, leaving the the more recent things for my column and such. But today, I thought I would talk about the design of a recent set, Theros.</v>
+
+00:00:25.540 --> 00:00:46.030
+<v Speaker 1>Now, I've recently written about Theros, and so we'll see how this goes and they'll be some overlap here. Hopefully, I will add some new stories and new things that you did not hear or embellish the ones that I talked about in my column. But today, and probably for a few podcasts, I have plenty to say. I'm going to talk about the design of Pharos, OK</v>
+
+00:00:46.860 --> 00:00:50.890
+<v Speaker 1>in the beginning. OK, So what happened with Pharaohs is</v>
+
+00:00:52.350 --> 00:01:10.420
+<v Speaker 1>many years ago Aaron called me into the office and told me that he wanted me to do another seven-year plan. So what had happened way back when is when Randy Buehler was my boss, he asked me for a five year plan. I ended up making a six year plan and then Aaron I guess asked me for a six year plan and I made a seven-year plan.</v>
+
+00:01:11.920 --> 00:01:40.230
+<v Speaker 1>So during the time period Ferris was what was year 3. So year one was Industry Rod, which had been planned. I mean, when I made the six year plan, I kind of knew the 7th year was going to be in Astrad, although it took me a little while to convince everybody that it was a good idea. And then year two it was known is going to be returned to Ravnica. That was a known thing. So you're through the first big unknown, big question mark.</v>
+
+00:01:41.430 --> 00:01:49.780
+<v Speaker 1>I had a very interesting idea for a block that was structured differently than we had done, but it required</v>
+
+00:01:51.320 --> 00:02:21.390
+<v Speaker 1>required sign off from the creative team because I was I I had signed them up for a Herculean task. And when I met with sat down with both Aaron and Brady, Brady down with the former creative director of the creative team, Brady said, OK, Mark, we can't do that. They're an awesome team. They do awesome work. I just asked a little more of them than Brady thought was something they could do well. And I mean, it was great job to make sure that his team was,</v>
+
+00:02:21.460 --> 00:02:37.020
+<v Speaker 1>I'll sign it for more than he felt they could. They could do. And the cream does amazing, amazing work. And probably Brady was 100% in the correct of I was asking to do something that's a little bit hard for them to do. So my year three idea was dashed to the rocks.</v>
+
+00:02:38.210 --> 00:03:04.700
+<v Speaker 1>And so Aaron's like, well, do we have any other ideas? So Brady said he goes, well, we've always talked about doing a Greek mythology set, maybe we could do Greek mythology. And at the time this was going on, industry hadn't come out yet, but it was in the process of being made and we kind of knew it was going to be a hit. I've just cleared as we were making it there, just all cylinders were in line and everything was going real well.</v>
+
+00:03:05.910 --> 00:03:35.250
+<v Speaker 1>So brain was like, OK, we we, you know, we know top down design can work. We've talked about doing Greek mythology. We think we can make Greek mythology work. And I've always wanted to work mythology. So growing up, one of the things I did as a kid is I love to read. I they're loaner and I had a lot of me time and I love to read. I was a little kid. And So what I did was I would pick a topic and then I would read every book I could find on the topic.</v>
+
+00:03:35.920 --> 00:04:06.100
+<v Speaker 1>At one point it was space. At one point it was, you know, coded messages and one point of Native Americans. Anyway, I just spent I would read and read and read them over the topic was at hand. So one of the topics that I got very into was Greek and Roman mythology. And I read a lot on Greek and Roman mythology. So over the years we had talked about doing Rick mythology. The reason we shield away from it was that so much of what Richard had built into the game was kind of built on</v>
+
+00:04:06.210 --> 00:04:36.200
+<v Speaker 1>mythology that, you know, if you started listening, just what are the things Greek mythology, the vast, vast majority magic has done, and in fact, a lot of them magic continues to do on a regular basis. And so we were kind of concerned that it just wouldn't feel different enough. But what industry I taught us was because Innistrad did a horror world, not much of what we didn't industry had never done before. I mean, even wearables, which we hadn't done much of, we've done a couple. We've done like</v>
+
+00:04:36.270 --> 00:04:37.110
+<v Speaker 1>3, I think.</v>
+
+00:04:38.380 --> 00:05:05.270
+<v Speaker 1>And So what we realized was that if you just kind of organize things and put them together, even if you see them on a regular basis, when they're grouped together, they have a different feel. You know, the whole world felt horror, even though a lot of the things you see, you know, vampires and zombies and spirits and humans, we do all the time, but just kind of group together and flavor together. And, you know, with the right creative treatment, it felt very, very different. And so we realized we could do Greek mythology.</v>
+
+00:05:06.810 --> 00:05:20.910
+<v Speaker 1>And so I wasn't worried about that. Brady had an idea, he said that a lot of Greek mythology has to do with with dreaming and the subconscious and that he thought maybe there was something we could mess around there with an enchantment theme.</v>
+
+00:05:21.550 --> 00:05:51.440
+<v Speaker 1>So let me talk about the enchantment theme. So way back when, back in the day during Urza Saga, we decided that we were going to do an enchantment theme. And if you actually look at Urza's Saga, you break it down, there's a lot of enchantments. Enchantments play a big role. In fact, for those that remember Urza's Saga limited the enchantments, you know, you actually played enchant removal maindeck in or Desiga limited because there was a lot of champions that were super scary, including a common pestilence, which was</v>
+
+00:05:51.590 --> 00:06:21.650
+<v Speaker 1>a wonderful idea anyway. But what happened was at the time, one of these days I'll do this podcast, I'll take it permission to do it. But what happened was the story we were doing the Weatherlight saga, but the team Mike and I, who had originally come up with the story were kind of forced off the team once again, a story for another day. And they, the team that was there, decided that they were going to spend a year going back in time</v>
+
+00:06:21.770 --> 00:06:39.290
+<v Speaker 1>and see Earth, what Earth was up to, and explain Urza's in connection to the Weatherlight Saga. And so they were creating a story that they wanted to tell. But design wise, we had built this enchantment block. And then they had said, Oh, well, we're going to tell the story of Urza.</v>
+
+00:06:39.890 --> 00:06:48.400
+<v Speaker 1>And our first response was, well, hers is an artificer. Like he's famous for artifact, but this isn't artifact set now.</v>
+
+00:06:49.380 --> 00:07:14.320
+<v Speaker 1>So what happened was the the brand team decided that they were going to play up the story more than the mechanics. And so they in fact called the artifact cycle because Earth is an artificer, even though there wasn't. OK. And then to make matters worse, Earthside is probably the, from a developmental standpoint, the most broken set we've ever made. And</v>
+
+00:07:15.210 --> 00:07:45.030
+<v Speaker 1>so we happen to make a whole bunch of broken things. Someone which artifacts. So we had a set revolving around Urza. In fact, all three sets were named into Erza, famous, famous artificer artificer in a in a block in which we had a lot of broken artifacts that was labeled the artifact cycle. And by the way, trump broken artifacts. We banned a whole bunch of cards that block zero of the cards we banned were enchantments. We in fact banned every other card type but enchantments. So we had</v>
+
+00:07:45.110 --> 00:07:57.350
+<v Speaker 1>broken block in which none of the broken things were enchantments called the artifact cycle starting an artificer with broken artifacts. So Briza, Briza, no one got that it was in a German blood. So</v>
+
+00:07:58.090 --> 00:08:04.210
+<v Speaker 1>it's something people would always wanted that people want enchantment block and we the one time we delivered it, no one thought we delivered it. So</v>
+
+00:08:05.280 --> 00:08:14.950
+<v Speaker 1>we knew if something we needed to do at some point. And so Brady had this idea of what have you combined top down Roman or Greek and Roman mythology world with</v>
+
+00:08:17.120 --> 00:08:21.980
+<v Speaker 1>enchantment theme and something about dreams, he said. He talked a lot about how</v>
+
+00:08:23.220 --> 00:08:34.410
+<v Speaker 1>if you really like Greek mythology that the gods exist. They they enter the people's dreams and a lot of times omens came to people in their dreams and there's a lot of dreaming and Greek mythology.</v>
+
+00:08:35.750 --> 00:08:36.020
+<v Speaker 1>So</v>
+
+00:08:37.350 --> 00:08:43.160
+<v Speaker 1>I said, OK, let let me think, let me think about it. The other seven years we are all signed off on</v>
+
+00:08:44.490 --> 00:08:51.020
+<v Speaker 1>and this was really the only one. And ironically this was the one that was starting soon, I guess. I guess invasion,</v>
+
+00:08:52.000 --> 00:09:00.530
+<v Speaker 1>not invasion. Innistrad might even have been out because I was when I had this this talk. I was a month away maybe from starting on</v>
+
+00:09:01.620 --> 00:09:03.070
+<v Speaker 1>on Theros design.</v>
+
+00:09:04.610 --> 00:09:13.030
+<v Speaker 1>By the way, another side thing that comes up so Pharaohs block was friends, Romans and countrymen and everyone's like you always say that the</v>
+
+00:09:14.120 --> 00:09:25.290
+<v Speaker 1>that the the code is nothing to do with the set and friends Romans countrymen. That's a famous quote by a Roman in Julius Caesar, and I mean in Julius Caesar's, it's Marc Anthony.</v>
+
+00:09:26.690 --> 00:09:55.060
+<v Speaker 1>And this is a set that's about Greek and Roman mythology. And the answer is when it was named, it wasn't a set of a Greek enroll mythology. Also, by the way, I guess the side note is when we got into it originally, we're thinking Greek and Roman mythology and the design team are not exactly. The creative team came to us and said, you know what, we've looked at it, there is a very distinct difference between Greek and Roman. We think there's a lot of Roman tropes maybe we can use later. So we're just going to make this Greek mythology, not Greek and Roman mythology. So</v>
+
+00:09:56.090 --> 00:10:10.260
+<v Speaker 1>when I talk about Greek and Roman, once we actually got into the design, it became just Greek and not Greek and Roman. There's a lot of overlap in the mythologist. Obviously most of the mythological things were referencing those parallels in in Roman mythology, but but we're sticking to Greek.</v>
+
+00:10:12.700 --> 00:10:13.650
+<v Speaker 1>So</v>
+
+00:10:15.220 --> 00:10:22.310
+<v Speaker 1>yeah, this whole discussion happened about a month before our first design. So I guess industry must have been out and Return to Ravnica must have been in design.</v>
+
+00:10:23.790 --> 00:10:28.300
+<v Speaker 1>So I need a little time to think about it. I was not.</v>
+
+00:10:29.130 --> 00:10:35.480
+<v Speaker 1>It wasn't that I was worried about Greek and Roman mythology top down or Greek Greek mythology top down. I knew there was plenty there.</v>
+
+00:10:36.710 --> 00:10:50.060
+<v Speaker 1>So what I did was I was thinking about the enchantment and I came up with a story idea that I really liked. Interestingly, the story idea I came up with really isn't what happened, isn't what was in the set.</v>
+
+00:10:51.580 --> 00:10:54.560
+<v Speaker 1>So I'll give you a little idea. My original story</v>
+
+00:10:56.040 --> 00:11:00.390
+<v Speaker 1>had to do with I wanted to have a new</v>
+
+00:11:01.500 --> 00:11:24.200
+<v Speaker 1>people planes Walker. And so my original story not not be aware that the way this tends to work is design comes up with something that is archetypal usually and then we get to the creative, creative starts filling it out. So a lot of my ideas were sort of suggestions that I had a I had a kind of story I wanted to tell.</v>
+
+00:11:25.500 --> 00:11:35.620
+<v Speaker 1>And I guess the more I think about this, the problem in the story is it is not so far removed from the actual story that me telling you doesn't give you some information. So, umm,</v>
+
+00:11:36.960 --> 00:11:43.270
+<v Speaker 1>but I'll say this, I'll tell, I'll tell you a little bit about the story that I can tell you My original, the villain that I wanted</v>
+
+00:11:44.600 --> 00:12:11.800
+<v Speaker 1>was a dark mirror of Jace. So for those that know they're superhero comics, there's the famous trope called the dark mirror. And what a dark mirror means. It is the hero, but with all the powers of the hero, but a dark evil version. So, for example, Superman has Bizarro that it is Bizarro has all of Superman's powers are mostly depending on what version you read, but he's a clone of Superman, but he he's evil.</v>
+
+00:12:13.090 --> 00:12:43.270
+<v Speaker 1>You know, Sinestro is was Green Lantern but evil, same powers, but evil. You know, reverse Flash or Professor Zoom as he's called, is basically Flash but evil. You know, Captain Marvel has Black Adam that no matter what you take that there, there's a there's an evil version. There's a character that is, you know, Spiderman has venom that there's some version that's like the dark version of the hero. It's a very it's a very popular trope. And so I thought it'd be neat to have</v>
+
+00:12:43.350 --> 00:13:00.660
+<v Speaker 1>dark version of Jace. And the reason I did is my story had a lot, it was very mental in how I was setting things up. And so I needed a villain. I was trying to make a new villain. No, I knew there was a good chance it might not actually be Dark Chase, but that was my original pitch and</v>
+
+00:13:01.610 --> 00:13:05.240
+<v Speaker 1>probably have to tell the story. Maybe when I do a podcast on</v>
+
+00:13:07.990 --> 00:13:28.980
+<v Speaker 1>the journey to next, when the story is done, I, I can start a little bit my, my original story. But anyway, I had a story and I had a, I had a, I came up with an idea of how I could use the enchantment creatures because let's talk a little about shaman creatures. OK, so during future sight, I made a card</v>
+
+00:13:30.440 --> 00:14:00.240
+<v Speaker 1>ended up being called Lucent Lucent Lemonade and my card was a white flying enchantment creature that had an effect. I forget what the effect was. It might have been a crusade or some some very staple white enchantment effect. I think it was crusade, but it was some it was some effect during development. Mike turn was a lead developer. So in future site, surprise, surprise has some complexity issues, which is funny because when it came out, it's funny to think of, by the way, the probably the most complex that we've ever made</v>
+
+00:14:00.450 --> 00:14:30.550
+<v Speaker 1>an in development, it was more complex. So he took off the ability so that it was just enchantment creature. He figured, Ohh, OK, champ creatures, that's different enough. We can that can that Ohh, this was a future shifted car, meaning it was a new border representing something from the future. And the reason I made it was, oh, well, we we had mixed and matched permanent types. We've never done some of them, both enchantment and creature. And my idea was very simple. OK, it's a creature. It has an enchantment effect. Hey, it's both enchantment anchorage are I didn't know quite what was going to represent,</v>
+
+00:14:30.620 --> 00:14:51.370
+<v Speaker 1>but Mike ended up taking off the global ability static ability I guess, and he and I thought about it. My problem was I didn't feel like it was immature. It didn't have any enchantment Ness to it, but and then being printed that way and in the back of my head I knew that one day I want to do enchantment creatures. I just wanted to do them correct.</v>
+
+00:14:52.070 --> 00:15:22.780
+<v Speaker 1>Meanwhile, when we talked about this being enchantment block, one of the things we do often, the lowest hanging fruit, if you will, when you do a car type matters is it's a new car type matters. It's just say, oh, well, it's the artifact block. So what happens? Oh, there's lots of artifacts and lots of cards that make you want to play artifacts and OK, play a deck full of artifacts. I was trying to do something a little different this time around in the sense that I wanted enchantments to to mean something. And So what I was looking for,</v>
+
+00:15:22.900 --> 00:15:26.000
+<v Speaker 1>if they wanted in champions to play a role in the, in the, in the set.</v>
+
+00:15:26.710 --> 00:15:34.900
+<v Speaker 1>Um, so the idea I had was, I'd like the idea that in Chemung creatures were creatures that were made by the gods,</v>
+
+00:15:35.820 --> 00:15:48.000
+<v Speaker 1>umm, and, and that the gods themselves would be enchantment creatures. And so early on, you know, I had in my mind that I wanted to see if I could use enchantment creatures in some way,</v>
+
+00:15:51.210 --> 00:15:56.360
+<v Speaker 1>partly because I wanted to find what they meant, and partly because I thought it might be a different way to approach it. So</v>
+
+00:15:57.520 --> 00:16:03.070
+<v Speaker 1>one of the other problems about enchantment Block or Chapman a block with Lynn Chapmans in it is</v>
+
+00:16:04.850 --> 00:16:27.110
+<v Speaker 1>red and black in chains are the one permanent type that we that's a little harder to kill the other enchantment that other permanent types. You know, if you get to land, well, red and black and green can all kill land. You get to creatures, everybody but blue can kill creatures and blue has creature answers. You know, you get to artifacts, White and green and red can all blow up artifacts</v>
+
+00:16:28.960 --> 00:16:58.650
+<v Speaker 1>and you get to enchantments and white and green can destroy enchantments. Blue has some answers and has counterspells. But three of the colors, blue, black, and red do not destroy enchantments. And black and red do not have a lot of answers to enchantments. Black has discard red, Red has not a lot of answers. I get a lot of people talking about on the blog. People really get upset that red seems that the greatest vulnerability, but they missed the fact that I think it's important that red has the greatest vulnerability. It is the color that least tries to cover its vulnerabilities.</v>
+
+00:16:59.020 --> 00:17:00.140
+<v Speaker 1>Kind of red thing.</v>
+
+00:17:01.540 --> 00:17:02.240
+<v Speaker 1>So</v>
+
+00:17:03.620 --> 00:17:12.290
+<v Speaker 1>I wanted to make sure that we can handle enchantments by making enchantment creatures via major thrust. I knew that red and black can handle creatures, and so by making</v>
+
+00:17:13.080 --> 00:17:16.130
+<v Speaker 1>a lot of enchantments beyond creatures, I knew that red and black would have an answer.</v>
+
+00:17:19.270 --> 00:17:27.330
+<v Speaker 1>On top of that, like I said, I was trying to figure out a way to use enchantments. So one of the big things that has happened since in Estrada</v>
+
+00:17:28.170 --> 00:17:59.320
+<v Speaker 1>or actually some scars, what I call fifth age design is actually started in scars. So the fifth age of design is the idea for a long time the fourth age of design was or OK real quickly. First age design says that machine was very much about individual cards, that the focus was how do I make this card design the most awesome it could be? And you know, everything was very focused on the card by card basis. Now it caused a lot of continuity issues. The rules are a little fuzzy because cards work differently from each other.</v>
+
+00:17:59.440 --> 00:18:07.540
+<v Speaker 1>Um, and the second edge design was more like, OK, I thought more in terms of mechanics and how things went together, started grouping things together.</v>
+
+00:18:08.280 --> 00:18:12.410
+<v Speaker 1>The third age of design. So the first a design is Alpha through</v>
+
+00:18:14.620 --> 00:18:33.250
+<v Speaker 1>Alliances. Second age design was Mirage through Prophecy. The third edge design started with Invasion. It talks about the idea of building themes and designing for the themes. And that's when we start getting like into the multi colored block. It's the graveyard block, it's the artifact block, stuff like that.</v>
+
+00:18:34.740 --> 00:18:36.150
+<v Speaker 1>And um,</v>
+
+00:18:36.810 --> 00:18:40.200
+<v Speaker 1>so third design goes through.</v>
+
+00:18:42.780 --> 00:18:45.420
+<v Speaker 1>What's the run before Radnika was, um,</v>
+
+00:18:47.540 --> 00:18:49.490
+<v Speaker 1>for Africa? I'm blinking, I'm blinking. It was</v>
+
+00:18:50.780 --> 00:19:09.060
+<v Speaker 1>Champions coming out through savings, savings, Gala. So starting with Ravnica, we started doing this ties up with me beginning becoming head designer. We started doing block, block design and so it's got a little bigger in scope. And so that was for the first stage design and that goes until</v>
+
+00:19:11.000 --> 00:19:22.090
+<v Speaker 1>the end of Zendikar Rising Eldrazi. So Scars of Mirrodin in my mind was beginning of the fifth age of design, in which it was about less.</v>
+
+00:19:23.580 --> 00:19:32.910
+<v Speaker 1>It was more about the way we design, where it's a different take on how we do design. The metaphor I use is the idea of painting that</v>
+
+00:19:34.370 --> 00:20:04.430
+<v Speaker 1>before we would frame the whole block as having some identity and then we'll figure out how to cut that identity up to make a block structure and starting with scars and mirrored in it was more like I want to tell a story. I wanted my design to be something and to do that I will use different components of mechanics as paint to paint the canvas if you will. So the idea is in 3rd and 4th age of design it would be like oh it's a graveyard block wherein.</v>
+
+00:20:04.520 --> 00:20:05.110
+<v Speaker 1>Um,</v>
+
+00:20:06.140 --> 00:20:28.930
+<v Speaker 1>or even then, I guess, I mean, first they design might be it's a Guild block, but the fifth age design is like looks like industry rod where it's sort of like, OK, we're trying to portray this. How do we, you know, oh, well, we can use a graveyard component, we could use a tribal component. We could, you know, that it took different elements to build it together. It's just a different way of looking at different way designing.</v>
+
+00:20:30.420 --> 00:20:44.280
+<v Speaker 1>And so one of the things that I was looking at was I wanted to figure out how Enchantments was one of my paints. It wasn't the be all end all of my design. My design wasn't built around enchantments. It was built around having a certain feel,</v>
+
+00:20:45.660 --> 00:20:53.060
+<v Speaker 1>and that's another big thing, I think. I guess that starts with Fifth Age design is the idea of an emotional component like of</v>
+
+00:20:54.250 --> 00:21:15.480
+<v Speaker 1>the fifth age. As I move forward, the question I've always asked is what emotion am I trying to get out of my audience? You know, scars and mirrored in I I was trying to make you intimidated by this opposing force. I wanted you to feel what it was like, you know, feel sort of on the side of the intruders in the side of the intruded, you know, and</v>
+
+00:21:16.790 --> 00:21:23.950
+<v Speaker 1>a big part of Hydro design now, and I'll do a podcast on this is I'm a big believer that</v>
+
+00:21:25.650 --> 00:21:31.900
+<v Speaker 1>emotions are very important in design, that you have to understand how your the audience feels. And so</v>
+
+00:21:32.900 --> 00:21:39.870
+<v Speaker 1>a big part of how I design now is thinking about what mood I want, what emotion I want, what's the emotional response I'm trying to get? And</v>
+
+00:21:41.260 --> 00:21:53.760
+<v Speaker 1>it turned on this like Greek mythology was tricky. I started assuming that it would be like like Innistrad, that it would be top down. OK, I, I would capture the feel and I would go to pop culture.</v>
+
+00:21:54.670 --> 00:22:25.960
+<v Speaker 1>So what happened was once I figured out what I wanted to do and I said to Aaron, OK, I got it. I can do this. I tagged Ethan Fleischer, Ethan, the winner of the Great Designer Search 2, who is on the design team. I said, Ethan, I had a design project for him and this was Ethan was actually still an intern at this time was I wanted him to go through magic and through Greek mythology. And I wanted him to sort of say, where are there opportunities both in Greek mythology to do magic and in magic to do Greek mythology.</v>
+
+00:22:26.420 --> 00:22:40.540
+<v Speaker 1>And he did basically a research project and made a pamphlet, a little book that sort of talked about, you know, what's all the stuff magic has done that is Greek mythology. What is the Greek mythology stuff would lend itself well that we haven't done, but that would lend itself well to magic. And he wrote all that up</v>
+
+00:22:42.240 --> 00:23:00.340
+<v Speaker 1>and meanwhile I was trying to figure out sort of what is the essence of what I wanted to do. Now I literally started my design like I started my industrial design. So for example, day one, we walk in the design meeting and I say to my team, OK guys, we're going to write up on the board everything you can think of that represents</v>
+
+00:23:01.870 --> 00:23:04.730
+<v Speaker 1>Greek mythology or at the time Greek and Roman mythology.</v>
+
+00:23:06.220 --> 00:23:09.100
+<v Speaker 1>And so we just filled up the board. And</v>
+
+00:23:10.660 --> 00:23:33.320
+<v Speaker 1>meanwhile, low contrast here, I had been at the library with my kids. And so one of the things, the library, for those that aren't familiar with the Dewey Decimal System, So what happens is when you want to look things up, things are grouped in different categories. There's numbers. And so if you want to find something, you have to say, I want to find such and such. You look up the catalog number and you find it.</v>
+
+00:23:33.990 --> 00:23:50.170
+<v Speaker 1>And so why are the quirky things about the Dewey Decimal system is sometimes when you're looking for one thing, you find other things because like the section you're looking at is only so big. So. So we were looking for my daughter and my daughter. I don't remember what she was looking for, but while looking for a book for my daughter, I stumbled upon</v>
+
+00:23:51.230 --> 00:23:53.570
+<v Speaker 1>It's like Greek and Roman mythology for kids.</v>
+
+00:23:54.500 --> 00:24:21.380
+<v Speaker 1>Um, and I thought, I thought that it was interesting because one of the things that I'm trying to do is I'm trying to make sure that I hit all the most common tropes and like, you know what, this is perfect. Like a book aimed at kids. Like there is no, like this is the, this is the basics right of Greek and Roman mythology. And I remember that there's subtle book, I got the book of the library that day. The subtitle of the books was like Greek and Roman mythology was God's Heroes and Monsters,</v>
+
+00:24:22.050 --> 00:24:34.040
+<v Speaker 1>and that really hit home for me. And when we were having our first meeting, we were writing stuff on the board. I looked at the board and I realized that we had basically put things into 4 categories</v>
+
+00:24:34.660 --> 00:24:36.050
+<v Speaker 1>now, one category with just</v>
+
+00:24:36.900 --> 00:24:45.900
+<v Speaker 1>ancient Greek things, you know, a Colosseum and earned A toga. You know, they're just things that you associate with tology because really you're associated with Greek.</v>
+
+00:24:47.150 --> 00:25:16.600
+<v Speaker 1>But once I took those out, the remaining three things were one that fell into 3 categories. They were gods, they were heroes, or they were monsters. You know, it was Zeus and Hara and Apollo and Aries, you know, or it was Perseus and Theseus and Hercules, or it was Medusa or Pegasus or Cyclops or, you know, whatever. And that really they fell into those categories.</v>
+
+00:25:16.800 --> 00:25:25.050
+<v Speaker 1>Um, and I decided early on that that was an interesting way to think of it. And so because one of the things is important thing we talk about design,</v>
+
+00:25:26.880 --> 00:25:57.370
+<v Speaker 1>one of the things that happened early on is I need a way to mentally process each set and I need a way to mentally process process it. That's the way that I haven't done before. And I talked about this in my creativity podcast and that one of my tricks when I'm doing in design is I want to make sure I approach it unlike I've approached any other design. Why? Because I want to sort of fire new neurons. I want to go down past my brain hasn't gone down before that. If you do something that you're well familiar with, you will keep coming up with things that you know,</v>
+
+00:25:57.510 --> 00:26:27.570
+<v Speaker 1>But when you challenge yourself and say I'm going to do it under some constraints I've never done before, you just get to areas you never get. And it's a way to get lots of fresh material. Now, I was already going down the path of Greek mythology. I never done that before. I knew I was going to find a lot of things that were new, but I needed some way to mentally process it. So not only do I need a new vantage point, but I need some way to sort of group in my head. I've talked about this many, many times, but I will mention one more time, the human brain likes to group things. It just</v>
+
+00:26:27.640 --> 00:26:39.100
+<v Speaker 1>makes it easier that if my set is too many components it's hard for me to sort of acknowledge. But 3 is a good number and I said, OK, I'm going to break up what I'm doing into three parts. And God's heroes monsters seemed like a cool thing.</v>
+
+00:26:40.890 --> 00:27:11.580
+<v Speaker 1>So let's talk a little bit about the gods because it's something that came up very early in design, which was are we going to have gods? Gods are kind of daunting from a magic standpoint because what is a God? You are a planeswalker. You're this really powerful person that shows up and can summon things out of nowhere. And you know, you have a lot of God like powers. I mean, old school planes walkers were a little more actually God got power level. But even modern planes walkers you know</v>
+
+00:27:11.720 --> 00:27:16.280
+<v Speaker 1>could be mistaken for gods by the natives. I mean, they definitely are powerful in some ways,</v>
+
+00:27:18.400 --> 00:27:46.140
+<v Speaker 1>but the more and more we studied it, the more and more it's clear that like it's very hard to do Greek mythology about the gods. The gods are so entwined in the Greek mythology that the very idea of doing Greek mythology and not having gods. Now I knew by the way that there's I knew that the people who lived on the earth, lived on the planet, the world would believe in God, that I knew that I couldn't do it without you, without a God system. The real question was, were we, you know, as designers, going to make cards that were gods?</v>
+
+00:27:47.660 --> 00:27:53.210
+<v Speaker 1>And one of the things that is important in design is you've got to figure out early on expectations of your audience,</v>
+
+00:27:54.470 --> 00:28:17.810
+<v Speaker 1>that you can buck expectation to a certain extent. But at some level, if everybody's expecting to do something, like if you went on the street and said we're doing a Greek mythology, said what would you expect to see? And 90 plus percent all say the same thing, then you need to have a really, really good reason not to have that thing. And what I said is everyone's going to expect gods. We're doing great mythology. How do you not have gods?</v>
+
+00:28:18.550 --> 00:28:32.340
+<v Speaker 1>And said, OK, OK, we're going to do gods. But then I had an interesting idea. I mean it's kind of an obvious idea, but I was the one who had just I was first one to think of it was I wanted to figure out how to make God's uniquely our own.</v>
+
+00:28:33.750 --> 00:28:36.800
+<v Speaker 1>Now if you listen to me in my podcast or read my column or held</v>
+
+00:28:37.750 --> 00:28:49.640
+<v Speaker 1>interact with me in any way, you know that I believe that at the core of the game that the the thing that makes magic ticks the most important. Dig down deep. The center of everything is the magic color pie.</v>
+
+00:28:51.100 --> 00:29:21.390
+<v Speaker 1>I, I'm a huge, huge fan. Obviously I'm one of the, one of the color pie gurus. I understand the color pie very well. And so one of the things I said is, OK, the crux of magic, the core of magic is the color pie. The core of Greek mythology is the guides. So it didn't take a rocket scientist to like go, hmm, God's color pie. And so it was obvious that we needed to have five guys, right, One for each color. But then as I thought about it,</v>
+
+00:29:21.460 --> 00:29:33.490
+<v Speaker 1>you know what, one of the things that makes the guy so much fun is that there's a pantheon of gods. And I said, well, I mean, 5 is a pantheon, but I thought maybe want a little more than that. So the next logical place if you follow the color pie is to say,</v>
+
+00:29:34.370 --> 00:29:39.140
+<v Speaker 1>well what do we have? 5 major gods and five minor gods. Ohh, sorry, 10 minor gods</v>
+
+00:29:40.170 --> 00:30:09.340
+<v Speaker 1>have all the two color combinations. Now. The other nice thing about the minor gods was we were following up on turn Ravnica block, which meant we had a lot of 2 colored decks over there. Like OK, we could throw a bone to 2 colored decks and it allowed us to do 515 with a perfect number and allowed us to have three cycles, one cycle for each set. And so one of the things that's nice when you're building a block is you want to have hooks and you want to make things exciting. I'm like, OK, it's a Greek mythological set, three sets. Every set has a cycle of guides.</v>
+
+00:30:10.280 --> 00:30:18.710
+<v Speaker 1>You know, a mythic rare guys, that's pretty exciting. So we decided we'd upfront and have the major gods in the first set, and then have the minor gods in the second and third set.</v>
+
+00:30:20.740 --> 00:30:25.810
+<v Speaker 1>There. Their pattern is not hard to guess if you think about it. But anyway,</v>
+
+00:30:26.870 --> 00:30:37.720
+<v Speaker 1>so I knew I wanted God. Now how we're going to make those gods? That, my friends, is a long story. And I see work. So of course, as I predicted coming up,</v>
+
+00:30:39.340 --> 00:31:02.410
+<v Speaker 1>we are I I just just started talking about the guys. I haven't mentioned any of the five mechanics, so I predict this will be a multi partner mini parts, probably because I have a lot to say about Pharos. Luckily I drive into work every day so this will be a busy week as I talk about Ferris. So anyway, I hope you guys enjoyed my first</v>
+
+00:31:04.350 --> 00:31:34.370
+<v Speaker 1>first glimpse into the world's. There's, like I said, there's a lot going on. There's a lot of moving pieces. I'm hoping by doing a little more recent podcast that I can give you a little more detail because I'll just know it on the top of my head. This is something that I've lived with for a long time, but recently lived with. So anyway, I hope you're enjoying Part 1. There's many more parts coming your way. So anyway, I'm now at work. So instead of talking about the magic that I made in the past, I must be making magic. Thanks for joining me guys. I'll talk to you next time.</v>
+

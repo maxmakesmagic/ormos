@@ -1,0 +1,35 @@
+{% extends "page.html" %}
+{% from "components.html" import link %}
+
+{% block content -%}
+<h1>{{ title | escape_html }}</h1>
+<section data-column-table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Podcast episodes">
+<table class="column-table podcast-table">
+<caption class="visually-hidden">Podcast episodes</caption>
+<thead><tr>
+{%- for key, label in (("date", "Publication date"), ("title", "Episode"), ("duration", "Duration")) %}
+  <th scope="col"{% if key == "date" %} aria-sort="ascending"{% endif %}>
+    <span data-sort-label>{{ label }}</span>
+    <button type="button" data-sort-key="{{ key }}" hidden>{{ label }}<span class="sort-indicator" aria-hidden="true"></span></button>
+  </th>
+{%- endfor %}
+  <th scope="col"><span data-sort-label>Audio</span></th>
+</tr></thead>
+<tbody>
+{%- for episode in podcasts %}
+  {%- set duration = episode.duration_label %}
+  {%- set duration_key = duration.count(":") ~ ":" ~ duration if duration else "" %}
+  <tr>
+    <td data-sort-value="{{ (episode.date or '') | escape_html }}">{% if episode.date %}<time datetime="{{ episode.date | escape_html }}">{{ episode.date | escape_html }}</time>{% else %}Undated{% endif %}</td>
+    <td>{{ link(episode.path, episode.title) }}</td>
+    <td data-sort-value="{{ duration_key | escape_html }}">{{ (duration or "Unknown") | escape_html }}</td>
+    <td>{{ link(episode.playback_url, "Listen", {"aria-label": "Listen to " ~ episode.title}) }}</td>
+  </tr>
+{%- endfor %}
+</tbody>
+</table>
+</div>
+<p class="visually-hidden" data-sort-status role="status"></p>
+</section>
+{%- endblock %}

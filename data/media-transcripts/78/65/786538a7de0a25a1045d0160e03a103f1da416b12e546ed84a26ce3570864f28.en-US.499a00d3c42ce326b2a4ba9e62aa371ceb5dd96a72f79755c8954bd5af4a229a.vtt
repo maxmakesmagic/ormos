@@ -1,0 +1,566 @@
+WEBVTT
+
+00:00:12.900 --> 00:00:20.170
+<v Speaker 1>Hello and welcome to episode 14 of the Daily MTG Podcast. I'm your host trick chair here on my 2 Co hosts Tifa Mayan and Gavin Verhey. How are you guys doing?</v>
+
+00:00:20.620 --> 00:00:21.230
+<v Speaker 2>Fabulous.</v>
+
+00:00:21.240 --> 00:00:22.850
+<v Speaker 3>Trick having an awesome week.</v>
+
+00:00:22.900 --> 00:00:30.320
+<v Speaker 1>Good, good. We have a special guest in the building in the room, Alexis Jansen, head designer, lead designer, lead designer of Dragons.</v>
+
+00:00:30.450 --> 00:00:30.840
+<v Speaker 1>It's how you.</v>
+
+00:00:30.850 --> 00:00:32.240
+<v Speaker 4>Doing I'm doing great, Thanks.</v>
+
+00:00:32.550 --> 00:00:48.900
+<v Speaker 1>We're excited to have you here. We've been talking have you here for a couple of weeks to talk about the set. But before we dive into it, we wanted to talk about how you came to Wizards because you came by a path not often traveled. Tell us a little bit about the experience of playing and working on the Great Designer Search.</v>
+
+00:00:49.450 --> 00:00:54.090
+<v Speaker 4>Yeah, the great designer search was sort of having a second job. It was</v>
+
+00:00:54.880 --> 00:01:21.310
+<v Speaker 4>easily something that I spent all of my free time on and some of my work hours on at the same time. So it was actually when I got here after winning the Great Designer Search, I actually worked less on magic than I did during the Great Designer Search, if that is possible. And I was working really hard when I got here. It was sort of my chance to show that I could really get the job done and that I could hang with the hang with the big boys.</v>
+
+00:01:22.380 --> 00:01:34.190
+<v Speaker 1>What was it like? I mean, going from transitioning from playing casually and making designs to being inside of the building. It wasn't a big learning curve. Like how, how, how did you feel getting inside R&amp;D?</v>
+
+00:01:35.220 --> 00:01:36.510
+<v Speaker 4>I think the biggest change was</v>
+
+00:01:37.280 --> 00:01:53.680
+<v Speaker 4>it got really intimidating at first because here you are in a position where every day you're playing people that you've people that you've heard legends about, people that are big names. You, you're sitting down in front of them. You know, before, before I actually started working at Wizards,</v>
+
+00:01:54.350 --> 00:02:17.680
+<v Speaker 4>I'd maybe played one or two people that had big names, people that you'd recognize from the pro tour or whatever. And right, changing from that mode of playing Magic to 1, where every day I sit down and play games against Eric Lauer and Mark Rosewater and all these other names that you've heard of, it was kind of brilliant, intimidating. The actual designing wasn't difficult as I thought it was. It kind of just flowed naturally. It was a pretty amazing creative lab outlet.</v>
+
+00:02:17.690 --> 00:02:24.020
+<v Speaker 1>Actually, how long was it after you came to the company before you got on your first design or development team?</v>
+
+00:02:24.290 --> 00:02:49.740
+<v Speaker 4>The first day I got here, Mark Rosewater handed me printed out files for I believe future site Lorwin and Morning Tide, if I remember correctly. Basically said just spend the next few days reading these over and making comments. And after that we were all put on design and development teams from basically day one. They just kind of threw us into the into the fire, as it were.</v>
+
+00:02:50.140 --> 00:02:54.470
+<v Speaker 1>And now you have reached the point where you now have your first lead design</v>
+
+00:02:54.780 --> 00:02:58.750
+<v Speaker 1>with Dragon's Maze. That's been a bit of a journey, hasn't it, it?</v>
+
+00:02:58.760 --> 00:03:24.630
+<v Speaker 4>Has been quite a journey actually. As some people may not know, at the end of the great Designer Search, I won a six month internship, but there was no guarantee of an actual position after that. After those six months, I got a position doing programming for Magic Online. So I kind of took a step back from doing R&amp;D work, but they still let me on sets here and there. And I'd always had this goal of eventually leading a set.</v>
+
+00:03:24.870 --> 00:03:27.470
+<v Speaker 4>It wasn't clear to me if that was ever going to happen because</v>
+
+00:03:28.130 --> 00:03:47.000
+<v Speaker 4>it's certainly a lot harder to get someone, convince somebody that you should spend 50 plus percent of your time leading us at when you're not actually working in R&amp;D. It was kind of a tough sell for basically the chain of command all the way up through the vice president in charge of digital gaming. So I was actually a little bit surprised when it happened.</v>
+
+00:03:47.090 --> 00:03:54.780
+<v Speaker 3>Congratulations. Like that's pretty awesome story and way to get up. Do you have a favorite set that you have worked on?</v>
+
+00:03:55.710 --> 00:03:58.060
+<v Speaker 4>Besides Dragons base, it's kind of hard. Kind of hard</v>
+
+00:03:58.140 --> 00:04:21.750
+<v Speaker 4>we not to say that the first set that I LED design is my favorite set I designed. But prior to that, I would probably say Shadow More was actually my favorite set that I'd worked on. I was actually on the development team for Shadow More, but it was the first set that I felt I really had a huge impact on, and I was able to create lots of interesting cards and mechanics and other things that was really fulfilling to finally see my own work actually see print.</v>
+
+00:04:22.740 --> 00:04:28.070
+<v Speaker 2>So why don't you tell us a little bit about your team for Dragons Made? So you're coming in and you have your design team and so you're leading it up</v>
+
+00:04:28.180 --> 00:04:30.050
+<v Speaker 2>and who's going to be working with you on the set?</v>
+
+00:04:30.420 --> 00:04:58.390
+<v Speaker 4>It was actually a really amazing team. Looking back. We had Mark Rosewater. He's basically on every set these days, but he also had to be on the set because it was my first lead, and typically he makes sure he's on the sets when people have their first lead. But between Mark and Aaron and Eric Lauer, we had a lot of star power, a lot of people who had been on a ton of teams and kind of brought a lot of experience to the table. But we also had Sean Main from the GDS 2 bringing a lot of new insights and new ideas to the table,</v>
+
+00:04:58.460 --> 00:05:09.200
+<v Speaker 4>as well as Dan Emmons, who had actually never been on a set at all before, also bringing a lot of new talent. So it was a really nice mix of new and old, bringing a lot of good creativity to the table.</v>
+
+00:05:09.370 --> 00:05:21.480
+<v Speaker 2>And you were going to need that too, right? So you get off, return Ravnica, you get off gate, crash 2 huge sets, and you follow it up with a small set that somehow encompasses all 10 guilds. How did you attack that challenge?</v>
+
+00:05:21.630 --> 00:05:29.080
+<v Speaker 4>Right. That was definitely the biggest challenge of Dragons actually, was how do we create a set that is approximately</v>
+
+00:05:29.310 --> 00:05:59.520
+<v Speaker 4>1/3 to 1/4 of the size of the other two sets combined and yet still has to follow up those two sets with more of everything and yet somehow be unique, somehow have something new in it. We actually spent most of our time debating what about the set would make it new and what about the set would make it different from the previous two sets. Most of the set kind of just came together naturally. You know there's going to be 10 mechanics, you know there's going to be all 10 guilds represented equally. You know that some of the all of the keywords are going to be represented. There's lots of pieces that just kind of fall into place.</v>
+
+00:06:00.320 --> 00:06:02.830
+<v Speaker 4>Most of our time was spent trying to answer that question.</v>
+
+00:06:03.440 --> 00:06:09.850
+<v Speaker 1>But how does the position, how does your role change? I mean going from designers to head designer of a set.</v>
+
+00:06:10.200 --> 00:06:14.170
+<v Speaker 4>Kind of changes in two major ways. One is you just put a lot more time into it.</v>
+
+00:06:15.390 --> 00:06:35.250
+<v Speaker 4>All of your, all of the other designers are contributing ideas, discussion cards and all the different pieces that go together to make a set. But the lead designer has to take all of that, sort through it, put it together and come out with something at the end. So you're just putting a lot more time into it. The other part is that you just have to make lots of decisions. You have to make lots of just,</v>
+
+00:06:36.460 --> 00:06:49.970
+<v Speaker 4>you can't discuss every decision with your team. You can't sit them down and say, OK, which of these three cards is best. You have to make a call, put it in and see what happens. And you have to kind of get comfortable with making unilateral decisions and just seeing what happens rather than</v>
+
+00:06:50.810 --> 00:06:53.340
+<v Speaker 4>leaning on everybody else to carry the weight of the set.</v>
+
+00:06:53.770 --> 00:07:07.980
+<v Speaker 1>I think also I wanted to ask about, you know, the the sets new mechanic fuse, you wrote about it in your article on daily MTG, but let's talk about that some they came to you and said this is what we want you to do split cards or did you come up with this idea?</v>
+
+00:07:08.310 --> 00:07:22.880
+<v Speaker 4>It was sort of destined from the beginning when you look back at how it worked out, but it wasn't clear that that was going to happen when we first discussed it. Returned around Mecca and Gate crash had hybrid cars which were sort of a revisit from the first block</v>
+
+00:07:23.020 --> 00:07:50.470
+<v Speaker 4>and we had decided that instead of hybrid cars we would do split cards again which again was a revisit from the old block. But the goal was to put something in the set that was multicolor technically, but also had mono colour Ness to it. Sort of get multicolor cards in the set that supported decks of three colors better and could go in either color and just give you more drafting options was basically the initial goal. When we looked at that, we realized that the idea of putting a ability on the split cards that let you play both halves just</v>
+
+00:07:51.270 --> 00:07:57.200
+<v Speaker 4>almost came naturally out of that. It was an idea that's been floated around several times. It wasn't. I'm not going to claim that it was a unique</v>
+
+00:07:57.840 --> 00:08:24.530
+<v Speaker 4>inspirational idea. It was. It was an obvious place to go. The important part was realizing that now was the time to do it. We needed something that fit naturally into the set. And since we were already going to have split cards and we needed an 11th mechanic, but it needed to kind of fit quietly into the set and not disturb all the other pieces too much. It was just a natural fit and we had it in all the way from the beginning. It just we didn't realize until late in the game that that was actually going to be what was going to be the big change about the set.</v>
+
+00:08:24.860 --> 00:08:28.410
+<v Speaker 3>So I'm sure when you when you did find that, that was the decision</v>
+
+00:08:28.550 --> 00:08:34.820
+<v Speaker 3>that helped a little with the stress of the set or did that bring up more challenges along the way?</v>
+
+00:08:35.010 --> 00:08:39.400
+<v Speaker 4>I'm not sure I would say I was ever stressed about finding my sets</v>
+
+00:08:40.290 --> 00:08:41.620
+<v Speaker 4>theme, my sets.</v>
+
+00:08:42.940 --> 00:09:12.290
+<v Speaker 4>The newness about the set wasn't really ever a huge stress. It was always just something that I had to keep in the back of my mind for every decision. Is this something that we can do differently or something we have to do the same? And a lot of stuff in the set is very subtle nod toward that, such as the cycle of cards that cares about two gates rather than one, or the multicolor matter cycle at common. Things like that sort of added up over time to create a set that had a different feel. And that was intentional. We wanted to make sure that the set would play differently than the previous two sets.</v>
+
+00:09:12.380 --> 00:09:13.150
+<v Speaker 2>Let's talk for a second</v>
+
+00:09:13.220 --> 00:09:41.840
+<v Speaker 2>about gates because those are huge, huge piece of this set. When we had returned to Ravnica and gate crash, which both had their respective gates, but not a ton of gate matters cards. A couple here. We've got a full cycle of gatekeepers that common and they're really kind of a a huge turning point for the limited format. How did you guys decide on that being the thing that made gives matter? Because I know we talked about a lot of things that are different points and some of them are crazy. Some of them were normal. Eventually we ended up with a gate in every pack. How do you feel about or that ended up and and how do you think that that impacted your design choices?</v>
+
+00:09:42.050 --> 00:09:44.450
+<v Speaker 4>I don't remember exactly at which point we decided to put a gate</v>
+
+00:09:44.520 --> 00:10:15.250
+<v Speaker 4>in every pack, but I do remember that at the point we did decide that, we realized, well, there's going to be lots of gates going around and that's good for the format. We want people to play the gates because they're going to be playing three plus color decks most likely. We wanted to make sure there were cards that supported and sort of told people, yes, this is something you should be doing. So we, we had a lot of cards that cared about in multiple gates in different ways. Design didn't actually have the cards that specifically said 2 gates on them. That was something that I believe development added later, but the concept of having things that cared about multiple gates</v>
+
+00:10:15.690 --> 00:10:21.000
+<v Speaker 4>in there pretty early on as soon as we realized that the manifesting was going to be a key piece of the puzzle.</v>
+
+00:10:21.270 --> 00:10:26.440
+<v Speaker 1>Talking about specific cards, are there any cards that you remember putting in the file that came all the way through?</v>
+
+00:10:26.790 --> 00:10:45.620
+<v Speaker 4>My favorite story about cards that made it all the way through goes back to when, before we started even designing Return to Ravnica, we sat down in a room and drafted basically the entire block made-up of random cards, existing cards, new cards. Basically we threw together a bunch of cards to create 3 pseudo sets.</v>
+
+00:10:45.690 --> 00:11:12.710
+<v Speaker 4>They weren't the real sets, they were just structural to see if the draft would work. So as part of making this draft work, I had to basically create an entire set from scratch because the first two sets we had existing cards from Ravnica to put together, but the third set there just wasn't enough cards to make. So as part of that creating that set, I had to create mana fixing and other cards of that nature. And the manifest thing I put in the first draft of that set is exactly the same as the manifesting you will see at common</v>
+
+00:11:13.410 --> 00:11:16.060
+<v Speaker 4>in your Dragons Maze packs today. So</v>
+
+00:11:17.230 --> 00:11:27.270
+<v Speaker 4>even though we went through 5 or 6 different designs for common manifesting, we eventually somehow randomly ended up back at the beginning again. And that's kind of my favorite story of how things made it all the way through.</v>
+
+00:11:27.280 --> 00:11:30.300
+<v Speaker 3>That's awesome. Yeah, that's that's pretty awesome that that happened.</v>
+
+00:11:30.310 --> 00:11:31.320
+<v Speaker 2>Which are the clue stone?</v>
+
+00:11:31.850 --> 00:11:32.200
+<v Speaker 4>Correct.</v>
+
+00:11:32.210 --> 00:11:42.530
+<v Speaker 2>Right. I know you guys tried a bunch of different designs for those while you were in design. So it's funny you came back to where you started, right? Sometimes you try something a bunch of times you're like, well, this work. No well, this work now will this work? No. Hey, maybe the original thing was the.</v>
+
+00:11:42.540 --> 00:11:48.950
+<v Speaker 4>Best it's actually sort of designs job to try things that are more outlandish and more crazy and find out if they work,</v>
+
+00:11:49.060 --> 00:12:06.450
+<v Speaker 4>because development can usually find something safe to fall back on if design fails to find something exciting. But if design does find something exciting, then it's even better because now you found something exciting. The clue stones just happened to be somewhere where going back to the safe simple design made more sense based on what that's set needed.</v>
+
+00:12:06.620 --> 00:12:16.090
+<v Speaker 3>I really like the clue stones actually. I like the idea that like OK I have so much mana out now and I need something else I can pay to draw card. Like I really like that idea.</v>
+
+00:12:16.140 --> 00:12:19.340
+<v Speaker 2>I have one more question. This is the burning question everybody wants to know.</v>
+
+00:12:19.420 --> 00:12:19.870
+<v Speaker 2>Texas.</v>
+
+00:12:20.610 --> 00:12:38.610
+<v Speaker 2>Alright, It's a great designer search one versus great designer search 2. It's you, Graham Hopkins, Mark Globus, and Ken Nagel versus Dan Emmons, John Laux, Sean Main and Ethan Fleischer in A4V4 Draft of Dragons Maze, Gate crash, Return to Ravnica. Who wins?</v>
+
+00:12:39.560 --> 00:12:45.330
+<v Speaker 4>Wow, that's a tough question. I think, I think I'm just gonna go with home team on that one and go with the great Designer Search 1.</v>
+
+00:12:45.480 --> 00:13:05.590
+<v Speaker 2>Good choice. We have one of those guys in here, we'll have a happy throw the same question and see if they how they feel about it. Thanks for coming in Alexis. It was great to have you comment on your set Me. It's an awesome setup. So excited for it. I mean it really is more of what people liked from return to Ravnica and with the light from gate crash. And I think if you like those, that's which hopefully you do drugs, May is going to be a blast for you all.</v>
+
+00:13:05.740 --> 00:13:07.230
+<v Speaker 4>So thanks a lot for having me.</v>
+
+00:13:07.280 --> 00:13:09.450
+<v Speaker 3>Yeah, it was really nice to hear some of the back stories.</v>
+
+00:13:10.330 --> 00:13:13.120
+<v Speaker 3>I really like your first set so I look forward to seeing more.</v>
+
+00:13:13.900 --> 00:13:15.130
+<v Speaker 4>Thanks a lot, I do too.</v>
+
+00:13:15.260 --> 00:13:15.830
+<v Speaker 1>Thanks.</v>
+
+00:13:20.810 --> 00:13:26.400
+<v Speaker 1>Well, that was awesome. I mean, getting to talk to the lead designer a socially someone is awesome as Alexis.</v>
+
+00:13:26.630 --> 00:13:29.240
+<v Speaker 3>Yeah, that was really cool. I'm glad that we brought her in.</v>
+
+00:13:29.530 --> 00:13:35.920
+<v Speaker 1>I have to tell you guys the big things this weekend. I'm excited. Are you guys excited? Ours is actually coming up in 2 days.</v>
+
+00:13:35.970 --> 00:13:47.550
+<v Speaker 2>I'm so excited. Even when I got in the building for the first time to play Return to Ravnica Limited, I was already looking forward to playing with the full block. I was like, yeah, I guess this set is kind of awesome, but what would what happens in the full block is out</v>
+
+00:13:47.670 --> 00:14:01.130
+<v Speaker 2>can play every Guild you want. You mix and match mechanics. It's like cats and dogs and lizard frogs living together. The world is going to be a wonderful place this weekend and hopefully you all go out to prerelease and experience the set and also the maze.</v>
+
+00:14:01.200 --> 00:14:10.650
+<v Speaker 3>Yeah, I'm very, very excited. I love pre releases. I love seeing new sets and trying out new things and restarting on the OK. How do I draft this?</v>
+
+00:14:11.770 --> 00:14:40.190
+<v Speaker 1>Inside, because we have the awesome Implicit Maze event going on at prereleases. If you guys haven't seen or heard yet, we are doing an awesome pre-release activity called the Implicit Maze, just like what Jace and Rouse Eric are dealing with in the story of Return to Ravnica. And we have a great pre-release primer up on dailymtg.com. It's localized so you can read it in your native language. It went up on Monday, so you have to find it in the archives at this point, but definitely go check it out. But we're going to talk about it here anyways, because it's that awesome.</v>
+
+00:14:40.300 --> 00:14:41.650
+<v Speaker 3>Yeah, it's really</v>
+
+00:14:41.710 --> 00:14:46.310
+<v Speaker 3>exciting. I hope to do my Guild proud when I go to the pre release.</v>
+
+00:14:46.320 --> 00:14:53.250
+<v Speaker 1>Right. So the first thing that's going to happen when you go to your release is that you're going to pick a Guild, preferably your Guild. So like, I'll pick Boros.</v>
+
+00:14:53.340 --> 00:14:54.310
+<v Speaker 3>I'll pick Simic.</v>
+
+00:14:54.720 --> 00:14:55.540
+<v Speaker 2>Picking the mirror.</v>
+
+00:14:55.580 --> 00:15:11.710
+<v Speaker 1>Right. And so then with your Guild pact, you not only get your Guild, you get a Guild secret ally. So there's only four secret allies for each Guild, and they are a Guild that shares the color with your chosen Guild from the opposing set. So if I'm borrows from Gatecrash, there are four options</v>
+
+00:15:11.800 --> 00:15:41.360
+<v Speaker 1>open to me from Return to Ravnica. Is it Rack Dose, Celestina and Azorius. Those are the four secret ally guilds I'll have to build. I'll have one of those to build with. So I might get Boros Rakdos or which I would love to get, Boros Reckoner because that's all about turn my guys into the red zone. Or I'll get Boros Azorius, which is very thematic, the law and the soldiers ruling the battlefield because Soros will lock my opponent down and then I'll get into the red zone. But that's the starting point when you get to the implicit maze.</v>
+
+00:15:41.820 --> 00:16:10.950
+<v Speaker 3>I'm, I'm hoping to get Simic Selesnya just because green is my favorite color. It'll play. And I would really like the combination of populate and evolve because it's like, oh, everything just keeps getting bigger and then I'm populating more dudes and my things get even bigger. And that seems awesome. But I would also like a Simic and Azorius because having that extra control is really cool too, because it's like while I'm building up my creatures, I'm not going to let you do anything.</v>
+
+00:16:11.060 --> 00:16:11.900
+<v Speaker 2>And on the flying</v>
+
+00:16:11.970 --> 00:16:13.190
+<v Speaker 2>you is so brutal.</v>
+
+00:16:13.240 --> 00:16:15.700
+<v Speaker 3>Yeah, that's that's important when you're playing green.</v>
+
+00:16:15.710 --> 00:16:21.910
+<v Speaker 2>Cause you've guys can hold off the ground pretty well, they get pretty big, but if there's a ground stall, suddenly you're 22 Flyers can lead the way to victory.</v>
+
+00:16:22.000 --> 00:16:31.290
+<v Speaker 3>Right. And that way if somebody is playing Flyers, it won't be like a mono green deck where, you know, I have limited options. I'll actually have some Flyers with my own.</v>
+
+00:16:31.500 --> 00:16:42.470
+<v Speaker 1>So what will happen after you get your your really skilled pack is you'll sit down and you guys will build your decks just as normal. And as we've talked about previously, between the two guilds that you get, you'll really have a strong footing</v>
+
+00:16:42.540 --> 00:16:52.520
+<v Speaker 1>that out with for a three color deck. You'll have 1 shared color between the two guilds and then you'll have 4 Dragons Maze booster packs. First time we've ever given you 4 booster packs for a small set at a prerelease.</v>
+
+00:16:52.690 --> 00:16:55.720
+<v Speaker 3>So, Gavin, what are you hoping that your secret ally is?</v>
+
+00:16:55.950 --> 00:17:10.640
+<v Speaker 2>Azora is for sure. I think that the combination of Cipher alongside all the flying creatures is just great, right? It makes it really easy to, you know, do things I like, like draw lots of cards and make one point discards lots of cards and you know, generally make them miserable. So it's going to be a fun time for me.</v>
+
+00:17:10.940 --> 00:17:13.070
+<v Speaker 3>You're such a friendly person when you're not playing.</v>
+
+00:17:14.160 --> 00:17:22.390
+<v Speaker 2>Well friendly playing magic too just it's the cards fault man. I don't know what happened. They just all these abilities are triggering I they're not my abilities anymore. I can't. Can't stop it. Sorry.</v>
+
+00:17:23.860 --> 00:17:30.860
+<v Speaker 2>So what do you want to talk a little bit about how the maze is actually going to work? It's gonna be cool. It should be a big poster on the wall. You're running through it. You wanna run that down?</v>
+
+00:17:30.870 --> 00:17:53.840
+<v Speaker 1>For us trick, sure. So after you've built your decks, after you've built your usually a three color deck, you are a member of a Guild and the Guild you're a member of is the one that you chose at the prerelease. If I chose, even though I got a Boros Rakdos previous skill pack, I'm a member of the Boros Legion Tifa. She gets Simic Selesnya as she hopes she's a member of the Cimic combine and then as a member of House Demir Gavin over there will</v>
+
+00:17:53.920 --> 00:18:11.980
+<v Speaker 1>be fighting for Demir. So every round you win, your win goes towards account for your Guild and or goes towards helping your Guild. So depending on how large your pre release is, that actually affects how fast your build moves through the maze. So if you have a small pre-release with maybe just 20 people or so,</v>
+
+00:18:13.160 --> 00:18:33.080
+<v Speaker 1>winning your round could move your Guild 2 spots or three spots through the maze, towards mazes in towards victory. And so it really comes down to how well your Guild performs. As you move through the maze, you'll see reflected on the poster in your store. The stickers move to show you where the Guild is, where your Guild is compared to everybody else.</v>
+
+00:18:33.290 --> 00:18:42.080
+<v Speaker 3>Yeah, and it'll be really exciting to see, you know, what each pre-release like, which person moves and then on planeswalker points, which Guild overall wins.</v>
+
+00:18:42.750 --> 00:18:43.060
+<v Speaker 1>This</v>
+
+00:18:43.180 --> 00:19:13.080
+<v Speaker 1>the the release activity doesn't have an impact on the planeswalker points skilled race other than the points that are generated in the pre release, but there's definite multiple stakes here. You know we'll Azorius hold on to its lead for the planeswalker points or will is it come back into the lead? Just a reminder folks, if you haven't done it yet, you should go to planeswalkerpoints.com and choose your Guild. If you don't do that, then your Guild will not get points for your participation in the pre release this weekend and doing that. Also, we are coming down as I've</v>
+
+00:19:13.180 --> 00:19:27.440
+<v Speaker 1>the to the end of the Planeswalker points Guild race. And so we're going to actually disabling the ability for people to join their Guild as we near the end of this race to avoid or minimize the number of people who might hop to the winning Guild, for example.</v>
+
+00:19:27.550 --> 00:19:43.530
+<v Speaker 2>Basically winning for this is good. You know you got to pack on the line got some new cards, you know a little bit of planes Walker points and also you're have this great maze to run right. So you're playing some matches, you're running the maze, you've been your opponents hopefully and you've opened up some brand new cards that are cool. And if you're in your right Guild, if you've</v>
+
+00:19:43.610 --> 00:19:52.200
+<v Speaker 2>signed, you know yourself on plays, mark points com, you look at some points for Guild as well. So it's a win, win situation as long as you go out and play and have a good time and hopefully win some matches.</v>
+
+00:19:52.250 --> 00:19:58.340
+<v Speaker 3>I know I'm planning on spell slinging during the weekend. Do you guys have pre-release plans besides the employee event?</v>
+
+00:19:59.040 --> 00:20:02.830
+<v Speaker 1>I'm gonna go drop in on a pre release or two, but I don't, I'm not going to be playing I don't think.</v>
+
+00:20:03.180 --> 00:20:04.550
+<v Speaker 2>You're more of the observer tape.</v>
+
+00:20:04.560 --> 00:20:09.340
+<v Speaker 1>Yeah, I like to just sort of appear and suddenly disappear. That's more my style.</v>
+
+00:20:09.520 --> 00:20:29.060
+<v Speaker 2>I love pre releases. I'm going to them since 10 years only missed one and by 12 in years now. Wow magic has been around for so long, but I'm being flown out to to Atlanta to go produce that store there called the gaming pit, which should be a lot of fun. Awesome and going to meet some players, interact, you know, spelling the whole day long, play some sealed, some standard and talk about</v>
+
+00:20:29.140 --> 00:20:48.490
+<v Speaker 2>awesome Dragons maces. I mean, it's one of the first sets I got to work on since I got in here. I got it right around return to Rebecca time. So these new sets that are coming out just like still so fresh and exciting and you know, all these new cards are kind of swirling around in my mind. So it'll be really excited to kind of show off some stuff I helped work on and also just show off how good Alexis and Zach's song to the world is.</v>
+
+00:20:48.820 --> 00:20:59.250
+<v Speaker 3>And it's always really exciting to go to pre releases in places that aren't local. So I'm really looking forward to hearing Gavin's story. I'll be going to a local store here,</v>
+
+00:20:59.330 --> 00:21:01.440
+<v Speaker 3>Uncle's Games in Bellevue.</v>
+
+00:21:01.550 --> 00:21:02.060
+<v Speaker 2>Magic is.</v>
+
+00:21:02.070 --> 00:21:13.500
+<v Speaker 1>Awesome Magic is awesome. The the full set is out. What cards are you guys excited about? Like let's talk about our actual exciting cards that we're excited off of this set. Yeah. What's your favorite card looking forward to playing with?</v>
+
+00:21:14.070 --> 00:21:16.320
+<v Speaker 2>Catch me like that. Now will you trick? I see how it is.</v>
+
+00:21:16.330 --> 00:21:20.900
+<v Speaker 1>You know all the cards by name. That's your superpower. We've discussed this before.</v>
+
+00:21:20.970 --> 00:21:29.190
+<v Speaker 2>One of the cards from the set that I'm most looking forward to playing is actually called Deadbridge Chant. It is one of the most fun cards I've played in a long time. When it comes into play,</v>
+
+00:21:29.330 --> 00:22:00.120
+<v Speaker 2>it's a six man enchantment for a black and a green. When it comes into play, you flip your top 10 cards into your discard pile and then every turn you pick one at random. If it's a creature, it comes into play. Otherwise it comes back to your hand. And it is so fun because neither of you knows what you're going to get. You know, you're gonna get something awesome every turn, but you don't know what it is. So it's kind of like the holiday season, right? You'll get given a present. It's from Aunt Jody. I'm like, maybe it's like, you know, another pair of socks. But two weeks ago she got me a check for my birthday. So maybe it'll be like another $100 check. And it's really exciting, you know, so you never know what's going to be inside your Deadbridge Chant Gifts. And</v>
+
+00:22:00.200 --> 00:22:11.140
+<v Speaker 2>I'm really looking forward to playing with that card. It's really fun in multiplayer, but it's also a lot of fun and constructed to, I think it has some standard implications. That's a six man enchantment. A lot of people just can't get it off the board. And we'll just win you the game over time.</v>
+
+00:22:12.130 --> 00:22:37.470
+<v Speaker 3>So I am incredibly excited for Renegade Crisis and I actually I try not to pay too much attention to the sets as they're coming out because when I get to a pre release, I like to be seeing the cards for the first time And it's sort of like, oh man, I haven't seen this or you know, it's really exciting to like see brand new cards like in physical form. However, I was watching a lot of the preview content over the previous season. Thank you trick for the previous.</v>
+
+00:22:37.480 --> 00:22:37.800
+<v Speaker 1>Season.</v>
+
+00:22:38.480 --> 00:22:42.220
+<v Speaker 3>And I saw the Renegade Crisis video which was awesome</v>
+
+00:22:42.290 --> 00:23:03.540
+<v Speaker 3>and it I fell in love with the card right away. I already have like plans to put in my different decks. And it is a beast mutant creature. It cost 1 and 2 green, it has evolve and whenever renegade creases evolves, put a + 1 + 1 counter on each other creature you control with a + 1 + 1 counter on it and it's a 32.</v>
+
+00:23:04.120 --> 00:23:04.740
+<v Speaker 3>So</v>
+
+00:23:05.420 --> 00:23:21.310
+<v Speaker 3>pretty awesome card. It only costs three and if you have you know other evolved creatures. So you know, my standard decks are going to be incredible with this. Or if you know, even in a draft, like just grab all the evolved creatures like he's just going to make them even cooler.</v>
+
+00:23:21.380 --> 00:23:35.530
+<v Speaker 2>Yeah, I mean, you can drop him on turn 3 and then untap and play another another creature that evolves him and you're already going nuts. If you lead off with turn 1 experiment one or something like that. You're off the races. You know, if you have the whole experiment one into shamble Shark could draw. This guy is a great guy to follow</v>
+
+00:23:35.610 --> 00:23:35.870
+<v Speaker 2>it up.</v>
+
+00:23:35.880 --> 00:23:37.140
+<v Speaker 3>With absolutely.</v>
+
+00:23:37.430 --> 00:24:05.880
+<v Speaker 1>So I'm have a conundrum. I I need your guys's help. I'm really excited about Tajik, the Boros Guild runner. He is 2 red white, he's a human soldier, legendary 22 Tajik bladder legion is indestructible and with battalion, whenever he has two other creatures attacking with him, he gets plus 5 + 5 until in the turn. So I'm really excited about Taji. That just seems awesome. But I'm also really excited about playing commander with Aurelia,</v>
+
+00:24:05.950 --> 00:24:10.050
+<v Speaker 1>the war leader from Gatecrash, who should be my commander. Who do you guys think?</v>
+
+00:24:10.420 --> 00:24:12.590
+<v Speaker 3>That's a really tough call.</v>
+
+00:24:12.880 --> 00:24:18.410
+<v Speaker 2>Why choose Choose? They're both legends. Put them in your deck and pick at random. What's the worst that could?</v>
+
+00:24:18.420 --> 00:24:27.510
+<v Speaker 1>Happen. Sure sure. I mean I can alternate between them, but Aurelia is awesome because she gives you that extra combat phase. But Tajik is A77 indestructible attacker.</v>
+
+00:24:28.230 --> 00:24:33.760
+<v Speaker 3>I, I lean towards Aurelia, actually. Yeah, because think of how good he would be like together they're gonna be.</v>
+
+00:24:33.770 --> 00:24:58.240
+<v Speaker 1>Awesome, sure, with the actual Guild leader. OK that's fair. I'm also really excited for car that interacts with Gavin's favorite card. I'm excited for roles. The other one of the other maze runners, the Golgari maze runner. He is 1 black green troll warrior. He's a Tutu. Each creature in your graveyard has scavenge. The scavenge cost is equal to its mana cost and</v>
+
+00:24:58.330 --> 00:25:01.430
+<v Speaker 1>price. Another creature to regenerate roles, The scar stripes.</v>
+
+00:25:02.170 --> 00:25:13.580
+<v Speaker 2>Yeah, I mean, we've actually seen a run on this card, like people talking about for Modern recently, because of a little card called Death's Shadow, which is a single black for a 1313 creature, has a drawback when it's in your graveyard.</v>
+
+00:25:13.890 --> 00:25:14.290
+<v Speaker 1>Yeah.</v>
+
+00:25:14.300 --> 00:25:15.410
+<v Speaker 2>Doesn't matter, doesn't matter.</v>
+
+00:25:15.420 --> 00:25:19.240
+<v Speaker 1>Fact it helps you because most likely that's the easiest way for you to get it into your graveyard.</v>
+
+00:25:19.330 --> 00:25:24.740
+<v Speaker 2>Right. So it's kind of a neat combination. Maybe we see some modern play with this guy is kind of a neat little troll.</v>
+
+00:25:25.330 --> 00:25:32.460
+<v Speaker 1>I'm excited guys. It's Dragons Maze. It's here. We have finally reached the point where it is knocking at our door.</v>
+
+00:25:32.530 --> 00:25:34.390
+<v Speaker 3>Do you guys have favorite fuse cards?</v>
+
+00:25:34.730 --> 00:25:36.350
+<v Speaker 1>Do I have a favorite ohh used?</v>
+
+00:25:36.360 --> 00:26:02.870
+<v Speaker 2>Car Ohh I absolutely have a favorite fuse card. My favorite fuse card to play with is turn burn because you can do a lot of really cool tricky things with it. First of all you have the burn burn half which is 1 red just deals 2 damage to creature player. You have some nice little spot removal in the early game. You can go to the Dome if you need to knock out a planes Walker if it only has two loyalty all kinds of cool things. The other half is 2 and a blue to turn a creature into a 01 with no abilities until the end of the turn.</v>
+
+00:26:03.320 --> 00:26:18.340
+<v Speaker 2>You can use it in conjunction to kill off any creature basically. And the cool part is when you do that, you get revolver abilities. So say you target a thragg task. They're not getting a beast anymore. That ability is gone, so it can make a thragg Tusk right out. You can deal with all kinds of problematic things in that regard.</v>
+
+00:26:18.350 --> 00:26:20.080
+<v Speaker 3>Don't hurt my thragtusk, Gavin.</v>
+
+00:26:20.130 --> 00:26:22.070
+<v Speaker 2>Sorry, you're Thragtusk are going away at Tifa.</v>
+
+00:26:23.500 --> 00:26:54.880
+<v Speaker 2>You can deal with any kind of problematic thing, and there's also some really crazy stuff you can do if your opponents attacking you and you've got creatures they might attack you with, like, I don't know, just say A500500 feature because why not and and a Tutu because why not? And you can kill the Tutu and turn the 505 hundred into 01 and the block with one of your creatures. So it's really easy to set up favorable combat combat with this. If your own creature has like an unfavorable leaves play trigger, you could target your own guy weight with the turn. It's an uncommon, so it's a lot simpler than some of the rare ones.</v>
+
+00:26:54.950 --> 00:27:04.830
+<v Speaker 2>I mean, I love Becky Call too, that's one of my favorites. But Turn Burn is so much fun to play with because you get to play it a lot in standard and it reads really, really simple, but it can do a lot of crazy.</v>
+
+00:27:04.840 --> 00:27:25.400
+<v Speaker 1>Things I now have a soft spot for Toil and Trouble because it was the first one to really teach me a lesson about fuse cards. I got to play with Toil and trouble. So toil side is 2 in a black, it's a sorcery. Target player draws 2 cards and loses to life and then trouble is to an A red sorcery. Trouble deals damage to target,</v>
+
+00:27:25.470 --> 00:27:55.490
+<v Speaker 1>they're equal to the number of cards in that players hand. So I'm playing with Dragons Maze and I'm sending this from my opponent who is at 7 life with three cards in hand. I look at this card in my hand, I have toil and trouble. I have six man and I go oh that stinks I can only deal him five damage. Obviously that is not correct because the way when you fuse a spell for toil and trouble you do the left side than the right side. So if I had casts Fused Toil and Trouble on my opponent, he would have taken Lost to life,</v>
+
+00:27:55.580 --> 00:28:09.450
+<v Speaker 1>draw 2 cards, then have thus have 5 cards in hand, and thus take 5 damage from Trouble for the number of cards in his hand. So I could have won the game, but instead I look at my hand and go oh I can't do anything. Scoop</v>
+
+00:28:10.180 --> 00:28:14.410
+<v Speaker 1>so I I I have a soft spot for toil and trouble because of the lesson it taught me.</v>
+
+00:28:14.640 --> 00:28:15.050
+<v Speaker 4>Yeah.</v>
+
+00:28:15.360 --> 00:28:16.890
+<v Speaker 2>That's the nicest thing that I've ever done.</v>
+
+00:28:18.280 --> 00:28:20.000
+<v Speaker 1>Tractors aren't known for their kindness.</v>
+
+00:28:20.010 --> 00:28:21.240
+<v Speaker 2>They throw a good party.</v>
+
+00:28:21.710 --> 00:28:44.410
+<v Speaker 3>I'm excited for Fuse cards in general because I want to see how that changes drafting. Like I'm really excited to be like to, while I'm drafting, look at them as like individual cards and then together and see the different options and how they work with that particular format. And then just looking at the cards, I'm excited for give and take. And because it's a Summit card, that's pretty obvious reasons.</v>
+
+00:28:45.140 --> 00:29:16.490
+<v Speaker 2>Yeah, you can draw some massive amounts of cards with that. Like if you built your guy up with have 3 or 4 counters on them, suddenly you're just drawing 7 cards. Yeah, and it's pretty crazy that you can do there. And as to the draft thing, it's it's quite exciting. So you open up your pack and maybe you take a card like back call, let's say that's green blue on one side and white blue on the other side. You could end up going in either direction or like in the middle of a draft could like encourage you to kind of go all three colors. So it totally like you can create some interesting decisions where it'll probably end up in your deck either way, but you might draft a little differently to try and get that third</v>
+
+00:29:16.560 --> 00:29:26.700
+<v Speaker 2>color in there, which is really cool. And you'll find with Dragons Maze, I think in Return to Ravnica and and Gate Crash, you saw a lot of two color decks, but Dragons really has some good three color encouragement. So there's a lot of cool stuff you can do that.</v>
+
+00:29:27.470 --> 00:29:57.900
+<v Speaker 2>Speaking of new things, in Dragons Maze we have all these great maze runners. There's one for every Guild, which is you as its favorite. I'll start lead off with mine. Mine is probably Melek Izzet paragon. It's one of the most fun cards. Mean, I mean, I love winning games of magic, but I also love cards that are really fun and me to win games of magic most of all. And Melik, I built some crazy decks with him. So he's a six man AT244A blue and a red. You play with your top card of your library revealed whenever you cast an instant source truth spell from the top of your library,</v>
+
+00:29:58.160 --> 00:30:28.250
+<v Speaker 2>you copy it. So future sites, one of my favorite cards and this is kind of like future sight, except you get double. So it's like doubling things that I love. So I don't do math, but that's a lot of numbers of things. So you know, it's suddenly like maybe you cast the new lightning Helix from this the set the ward leaders Helix. It's 2 red and white to deal 4 damage creature player and you gain 4 life. You flip that over. Suddenly you're dealing 4 damage to two targets or the same target and you're gaining 8 life in the process. Even with Fuse cards, you could, you know, cast</v>
+
+00:30:28.330 --> 00:30:41.240
+<v Speaker 2>the same half of a split card twice. If you have like Sphinxes Revelation, you can go absolutely bananas. There's a lot of really great stuff you can do with that card, and if you untap with it, it's a lot of fun. I definitely think commander players can build some cool decks around that.</v>
+
+00:30:41.530 --> 00:30:59.340
+<v Speaker 3>Yeah, and I feel like all the maze runners are really good. Like if somebody likes, you know, those two colors are those like types of decks Like there is there is something for everybody. So it feels to me. And of course, while I do like the Simic one vorel of the whole cloud, I actually think my favorite</v>
+
+00:30:59.430 --> 00:31:23.070
+<v Speaker 3>is Tessa, envoy of Ghosts, because she just seems so powerful. So she cost 5A white and a black. She's a 4/4 with vigilance and protection from creatures. Also, whenever a creature deals combat damage to you, destroy that creature. Put a 11 white and black spirit creature token with flying onto the battlefield.</v>
+
+00:31:23.340 --> 00:31:29.450
+<v Speaker 2>The thing I love about Tessa is you just keep reading the card, waiting for the downside. You're like, all right, all right, So protection,</v>
+
+00:31:29.520 --> 00:31:45.260
+<v Speaker 2>which is vigilance, right? Drawback. OK, She kills things. Deal. Damaged me. There must be a drawback here. Wait, one, I get a 11 flyer. Two. Yeah. I mean, it's crazy. I mean, it's so hard to beat that card. If it stays on the table it just knocks down all your opponents threats and gives you an army of tokens to boot.</v>
+
+00:31:45.430 --> 00:31:58.060
+<v Speaker 3>Yeah. And I think it might mean that I'm building a Orzhov Standard deck like For Keeps, and then I will just have a Orzhov Standard deck until that deck is no longer in Standard because she's amazing.</v>
+
+00:31:58.110 --> 00:31:59.360
+<v Speaker 1>She's she is awesome. I'm</v>
+
+00:31:59.540 --> 00:32:07.310
+<v Speaker 1>and I've already told you my guys, my favorite, I got Taji. So guys, I'm looking at the clock and it's time, unfortunately, for us to go.</v>
+
+00:32:08.550 --> 00:32:16.290
+<v Speaker 1>You know, I want to keep talking Dragons 2. There's so much awesomeness we have still to talk about. We'll have to save it for a future episode, I guess. A lot to come back and listen next time.</v>
+
+00:32:16.340 --> 00:32:17.890
+<v Speaker 2>Grand pappy trick. Can't we have one more?</v>
+
+00:32:17.900 --> 00:32:22.540
+<v Speaker 1>Story No, no, no. It's time to go. We have to go make the Magic cards.</v>
+
+00:32:23.180 --> 00:32:33.410
+<v Speaker 3>Yeah, I definitely want to hear on Twitter people's pre-release stories, their favorite open, how their guilds do in the maze.</v>
+
+00:32:33.600 --> 00:32:42.210
+<v Speaker 1>Why don't we go one step further? Why don't you e-mail us about your pre-release? Tell us your best pre-release story from Dragons Maze and we'll read some of them on the air next time.</v>
+
+00:32:42.260 --> 00:32:42.610
+<v Speaker 3>Sounds.</v>
+
+00:32:42.620 --> 00:32:46.530
+<v Speaker 2>Awesome. Absolutely. Have a good story and tell us about it.</v>
+
+00:32:46.620 --> 00:32:53.080
+<v Speaker 1>E-mail dailymtgcast@wizards.com. Tell us your story. Tell us where you are in general. We don't need to know</v>
+
+00:32:53.150 --> 00:33:00.810
+<v Speaker 1>exactly, but give us that information that we can talk about it. With that said, you can find me on Twitter, I'm Trick MTG.</v>
+
+00:33:01.480 --> 00:33:03.110
+<v Speaker 2>And I am Gavin Verhey.</v>
+
+00:33:03.520 --> 00:33:04.970
+<v Speaker 3>At Tifa Mayan.</v>
+
+00:33:05.380 --> 00:33:09.750
+<v Speaker 1>And with that, we'll see you all in two weeks. Have fun at the pre release Happy Dragons Maze.</v>
+

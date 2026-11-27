@@ -1,0 +1,608 @@
+WEBVTT
+
+00:00:04.500 --> 00:00:12.970
+<v Speaker 1>This is episode 6 of the Daily MTG podcast. I'm your host Trick Jared here with my two Co hosts as always Tifa Mayan and Mike Ross. How you guys doing?</v>
+
+00:00:13.100 --> 00:00:14.650
+<v Speaker 2>Good. I'm doing good.</v>
+
+00:00:14.720 --> 00:00:19.410
+<v Speaker 1>So we got a small cast today in the sense that we've only got three of us. That's because T Figure our special guest.</v>
+
+00:00:19.420 --> 00:00:20.160
+<v Speaker 3>Yay.</v>
+
+00:00:20.170 --> 00:00:21.550
+<v Speaker 2>It's the original 3.</v>
+
+00:00:21.640 --> 00:00:25.570
+<v Speaker 1>The the true 3 the the core, 3 the triumvirate.</v>
+
+00:00:25.660 --> 00:00:27.150
+<v Speaker 2>Like the Triforce?</v>
+
+00:00:28.420 --> 00:00:38.930
+<v Speaker 1>And figure our special guests because this episode we're going to talk about play groups. But before we dive into that, you know, I mean, let's not let's not be all business. Let's talk about what you guys been up to, like what you been up to.</v>
+
+00:00:39.500 --> 00:00:48.210
+<v Speaker 2>I took vacation, which was nice because you know we all need to take a vacation sometimes. Yourself included trick you know you need to.</v>
+
+00:00:48.220 --> 00:00:50.970
+<v Speaker 1>Take vacation. Vacation is mythical beast for me.</v>
+
+00:00:50.980 --> 00:00:58.480
+<v Speaker 2>It is, but it's been good. I had a I had a good vacation just before vacation. As I mentioned the last podcast, we had some guests come in when I Fight Dragons</v>
+
+00:00:58.550 --> 00:01:28.770
+<v Speaker 2>come in and the same day Alex Day happened to be just in the area, so he wanted to stop by. For those of you that don't know, I Fight Dragons is a chiptunes band that are huge fans of us. We met them during the Warped Tour this past summer and they were in the office and we did draft with them. We gave them some stuff. Alex Day from the video with Rose water with Mark Rosewater. And then I Fight Dragons invited us to their show that night, which was super fun, that show here in Seattle, and was cool because during the show they were like, hey, we're a bunch of nerds. And we play magically</v>
+
+00:01:28.860 --> 00:01:40.450
+<v Speaker 2>room. And we went and saw the Wizards of the Coast headquarters crowd, went nuts for it. They're like, some of our friends are here tonight. And they sort of like, acknowledge this. We were there at the show. It was very, very fun. Nice. Yeah, it was super cool.</v>
+
+00:01:40.520 --> 00:01:43.150
+<v Speaker 3>Yeah, that was really cool. They put on a very good show.</v>
+
+00:01:43.160 --> 00:01:58.630
+<v Speaker 2>They are very, very Yeah. They do a very good show during the vacation. Our friends at loading Ready run. We're doing their desert bus for charity. Ohh, that's right where they they drive the game desert bus. And if you don't know what it is, Google it. But Long story short is a real time drive from Reno to Vegas</v>
+
+00:01:58.860 --> 00:02:03.800
+<v Speaker 2>and the bus has a slight list so you actually have to hold the controller and drive them manually Dr. the bus the whole time.</v>
+
+00:02:03.870 --> 00:02:06.040
+<v Speaker 1>So they do fundraising and and proper.</v>
+
+00:02:06.050 --> 00:02:29.720
+<v Speaker 2>They do fundraising the for every, It starts out very, very cheap and then you can add the more money they get, the longer they are forced to drive. And then they do challenges and giveaways and auctions. And so last year I have to be there when they did an auction, I called in. And then this year I didn't have an auction, but I was invited to call in. And so I called in, Tifa joined me and we auctioned off the what we called the awesome Community Pack,</v>
+
+00:02:29.840 --> 00:02:45.030
+<v Speaker 2>which was an original Sketcher Ministrat, a scarred and lunch box, a play set of Supreme Verdict, a playset of Cathedral Award, the Bybox promos So Magically and Brandon Speak sneakers, and a nine page binder signed by R&amp;D.</v>
+
+00:02:45.070 --> 00:02:45.270
+<v Speaker 1>Ohh.</v>
+
+00:02:45.280 --> 00:02:59.910
+<v Speaker 2>Wow, which was very, very cool. And that that raised a good chunk of money for them and it was very fun. It was cool. We got some questions asked from the chat. We interacted with the chat, interacted with the people that driving the bus. It was it was super fun and I I felt proud to be part of the MTG.</v>
+
+00:02:59.980 --> 00:03:07.820
+<v Speaker 1>Community and all the money raised by Desert Bus goes to Child's Play, of course. From the Friends of Penny Arcade, yes.</v>
+
+00:03:07.930 --> 00:03:12.480
+<v Speaker 3>Yeah, and we'll be going to the Child's Play dinner this week also.</v>
+
+00:03:12.860 --> 00:03:13.620
+<v Speaker 1>What you been up to?</v>
+
+00:03:13.990 --> 00:03:22.360
+<v Speaker 3>I was also on vacation but this last weekend I was able to go spouse selling at the biggest PTQ</v>
+
+00:03:23.320 --> 00:03:24.760
+<v Speaker 3>Seattle history.</v>
+
+00:03:24.830 --> 00:03:26.260
+<v Speaker 1>It's it's it was sizable.</v>
+
+00:03:26.330 --> 00:03:53.900
+<v Speaker 3>I, I was told it's potentially the biggest. So I, I don't think we have all the numbers back to say that officially, but it was definitely one of the biggest PTQ's in Seattle and I had a really good time played. I'd say half, like half my games that I played were with my standard deck, which I feel is at its final level at this point. Don't intend to making any changes.</v>
+
+00:03:53.970 --> 00:03:54.750
+<v Speaker 2>General form.</v>
+
+00:03:54.760 --> 00:03:55.550
+<v Speaker 3>Final form.</v>
+
+00:03:55.560 --> 00:03:56.550
+<v Speaker 2>Bosses final form.</v>
+
+00:03:56.560 --> 00:04:10.870
+<v Speaker 3>Boss final form of my standard because I did pretty good. Don't intend on making changes until gate crash comes out and then I'll reevaluate everything. And the other half of the games were from a sealed pool and I was actually playing Azorius. Pretty good Azorius pool.</v>
+
+00:04:10.960 --> 00:04:19.270
+<v Speaker 1>Awesome. Now you get to spell sling a fair bit. I I don't go spell sling almost at all. How do you do it? Like, you just sort of show up, you sit down and you play against people.</v>
+
+00:04:19.320 --> 00:04:24.220
+<v Speaker 3>So I had contacted Card Kingdom who was running the event and asked</v>
+
+00:04:24.290 --> 00:04:56.350
+<v Speaker 3>them if they were interested in having people spell sling and they said absolutely. They even put it on their Flyers and everything. They were very excited to have us there. So that's the first step. And then from there I just, I asked them what time showed up around the time that they suggested and stayed there for a few hours playing whoever wanted to play. A lot of times like a line will form and I sort of just keep watch on like who walked up first, invite them to play. We said we can only play one game, so it's not a full match.</v>
+
+00:04:56.530 --> 00:05:22.440
+<v Speaker 3>Sometimes it's a little frustrating when it's like, man, if I sideboard and I know I would have done OK, but you can't do that. But it's still very fun to play against people and get to interact with the community in that way. I used to play in PTQ's, and now that I can't anymore, it's a great way to still have that interaction with the community, you know, build relationships and friendships and meet people and they get to talk to me about my job and you know, it's very fun.</v>
+
+00:05:23.870 --> 00:05:32.070
+<v Speaker 2>You can't, specially because you're usually running wild doing coverage and making sure the website updated and just bossing Nate Holt around.</v>
+
+00:05:32.700 --> 00:05:37.570
+<v Speaker 1>Yeah, I mean, I I probably could do some spell slinging, but I don't get, I don't get pulled into it too often.</v>
+
+00:05:37.620 --> 00:05:41.730
+<v Speaker 2>Have you done it before? Other other than like just the casual games where people walk up?</v>
+
+00:05:41.780 --> 00:05:43.350
+<v Speaker 1>OK, occasionally not. Not very.</v>
+
+00:05:43.360 --> 00:05:46.930
+<v Speaker 2>Often I would say try it. I've done it a few times and I really enjoy.</v>
+
+00:05:46.940 --> 00:05:49.350
+<v Speaker 1>It I'm down for it, I'd, I'd be down, you know?</v>
+
+00:05:49.360 --> 00:05:54.350
+<v Speaker 2>We Oh my God I just got the best idea. We should all spelling together at an event because then I'd be like,</v>
+
+00:05:54.440 --> 00:05:58.840
+<v Speaker 2>come, come spouse playing against the daily MTG podcast. That's a great idea. That's an amazing idea.</v>
+
+00:05:58.890 --> 00:05:59.530
+<v Speaker 3>I would, absolutely.</v>
+
+00:05:59.540 --> 00:06:01.060
+<v Speaker 2>You heard it here, Internet demand it.</v>
+
+00:06:01.550 --> 00:06:02.280
+<v Speaker 1>Someone make it.</v>
+
+00:06:02.290 --> 00:06:04.140
+<v Speaker 3>Happen. Pick an event. Pick an event.</v>
+
+00:06:04.510 --> 00:06:08.040
+<v Speaker 2>An event we're tricks, not running around like mad. And we'll and we'll go.</v>
+
+00:06:08.290 --> 00:06:20.000
+<v Speaker 1>The other thing is I I do have to travel for work so I just came back from LA where I was shooting some videos that will have on daily MTG and on our YouTube channel working with day 9.</v>
+
+00:06:20.080 --> 00:06:21.140
+<v Speaker 2>That's really exciting.</v>
+
+00:06:21.150 --> 00:06:25.460
+<v Speaker 1>Sean Plott plays Magic and he and I work together and produced</v>
+
+00:06:25.560 --> 00:06:31.850
+<v Speaker 1>a handful of videos that we'll have coming up probably. I would say January, February ish. We don't have a definite date for him yet, but.</v>
+
+00:06:31.860 --> 00:06:32.710
+<v Speaker 3>It's exciting.</v>
+
+00:06:32.820 --> 00:06:38.510
+<v Speaker 2>Yeah, I would say no spoilers, but you did already talk about you guys have both tweeted about the videos that you're making and doing stuff so.</v>
+
+00:06:38.520 --> 00:06:56.410
+<v Speaker 1>That's it was one of those things where people knew I was going to LA and so people were wondering what I was doing down there. And there's no real reason to keep it secret, right? It's not like it's spoiler content or yeah, new cards. It's learned to play stuff. It's videos that you can show your friends who you know, sort of here's how you make the steps towards</v>
+
+00:06:56.480 --> 00:07:27.080
+<v Speaker 1>starting to play. And I mean, learning to play is one of those things that really intimidates people because Magic can be such an intimidating game to sit down and look at and watch all these cards move, all these interactions. And so working with Sean was an awesome way to do it. And we we know duals is a great way for people to learn to play Magic. But the other way is just learning from friends and having these play groups that, you know, these communities form that can teach Magic. And that's why we wanted to have you to be the special guest. This episode was talking about what you've done with lady</v>
+
+00:07:27.150 --> 00:07:57.450
+<v Speaker 1>planes Walker society. I mean play groups. Yours, for example, is a is a carefully, not carefully, but an orgas organized and orchestrated group based around, you know, this lady planeswalker society group. But there's people who have just friends and their play groups and they don't think of it in that way, but they really are this their own sort of meta game, their own community where they're building decks to beat each other. They might be inspired by the meta game at large. But I mean, really it's about, you know, if if I don't have the top tier deck, it's about how do I beat my buddy,</v>
+
+00:07:57.520 --> 00:08:09.550
+<v Speaker 1>you know? So we want to talk this episode about, you know, building a play group, what you can do to organize a play group, whether it's a school club, whether it's around a game store, whether it's just you and your friends. How do you get more organized about?</v>
+
+00:08:09.560 --> 00:08:28.100
+<v Speaker 3>It. Yeah, Well, and this started as just a group of friends. When I started working for Wizards, I had a few friends who were women friends who were interested in learning the game. A couple of them had boyfriends who played but they didn't really want to learn from their boyfriend. And a couple of the girls who like</v>
+
+00:08:28.200 --> 00:08:59.710
+<v Speaker 3>didn't feel comfortable going into the tournament environment and learning there, which when you go into a store, a lot of times, you know, it's during a tournament, right when you see Magic being played. So they were just a little intimidated and asked me if I could teach them. They're like, hey, we've seen this sort of take off in your life and see that it's done good things for you. We're interested in learning it and sharing that experience with you as well. So I invited some friends over. We did this for, you know, a few nights over a couple months</v>
+
+00:08:59.950 --> 00:09:30.400
+<v Speaker 3>where they came over and I would sit down and teach them, and we'd just hang out for hours playing and having a good time. At a certain point, Amanda Casperson and I started talking about how great of an idea it was to, you know, teach women. And we wondered if there was a way we could do this at a larger level, like make it, you know, some event so that people can come to and like an organization that people can be a part of that was aimed at women</v>
+
+00:09:30.510 --> 00:10:00.580
+<v Speaker 3>so that women felt comfortable coming there and learning and playing. And not just beginners, but all skill levels could come together as one. And that's essentially what I did. So I started by actually talking to the brand team, which I wasn't on the brand team at the time. I was working customer service, but as a wizard employee, I had to get permission to do something like this. So I emailed the brand team, spoke with Elaine Chase. She was thrilled for the idea but</v>
+
+00:10:00.650 --> 00:10:30.790
+<v Speaker 3>got a few restrictions for me that I was happy to go along with. One of those restrictions was that it had to be in store, which I was planning on doing anyway. So that worked out really nicely and I went and spoke to Card Kingdom and they were very excited and welcoming to the idea. Dan Thorpe actually helped me along the way and got us set up for our first event. He did a lot of advertising, has been supportive the entire time, and that was</v>
+
+00:10:30.860 --> 00:10:55.060
+<v Speaker 3>really a big key to the success of Lady Planeswalker Society was having the store backing me. And so I advertised this first event both on campus with like Flyers and all over the Internet wherever I could. And the first event only had eight women, which, you know, for the first night I was like, alright, it's enough to launch an event.</v>
+
+00:10:55.070 --> 00:10:55.670
+<v Speaker 2>It's a draft.</v>
+
+00:10:55.680 --> 00:11:01.540
+<v Speaker 1>That's enough to draft, yeah, that that's a respectable number that I think a lot of people out there would be perfectly happy with. And you've grown it</v>
+
+00:11:01.610 --> 00:11:02.630
+<v Speaker 1>so far beyond that.</v>
+
+00:11:02.700 --> 00:11:17.410
+<v Speaker 3>Ohh, yeah. And it was, you know, everyone who showed up was like, hey, let me know what I can do to help. And like, those women are the women that are still in it today there every week helping me. They've helped me teach at conventions</v>
+
+00:11:18.920 --> 00:11:44.750
+<v Speaker 3>and you know, it really it's grown from this small group that was in my house that just wanted to learn to play Magic into this, you know, larger environment where basically it's a welcoming, friendly environment for women to come learn, play and compete at Magic. We do all different formats, anything from intro pack wars to drafting. We have standard events like every everything you can think of we've done.</v>
+
+00:11:45.290 --> 00:11:48.610
+<v Speaker 2>Some crazy events like there was one time there was it was the monocolored</v>
+
+00:11:48.740 --> 00:11:49.390
+<v Speaker 2>chase.</v>
+
+00:11:49.400 --> 00:11:50.580
+<v Speaker 1>Yeah, ohh. Wow.</v>
+
+00:11:50.650 --> 00:11:54.420
+<v Speaker 2>Yeah, you don't wanna color playing Chase. You've done copper. Copper playing Chase.</v>
+
+00:11:54.430 --> 00:11:54.780
+<v Speaker 1>Right.</v>
+
+00:11:54.790 --> 00:11:55.840
+<v Speaker 2>Popper.</v>
+
+00:11:55.990 --> 00:12:19.180
+<v Speaker 1>I mean, there's so much that's a perfect example. There's so much activities, so many activities and so many things that can be done within the confines and within an organization of a group. Let's get, let's save that stuff. We will dive into activities a little bit later. Let's talk about, you know, your group, for example, is focused on helping women come into the magic community, which can be quite intimidating for anyone, especially,</v>
+
+00:12:19.270 --> 00:12:49.370
+<v Speaker 1>you know, females who have to face these sometimes socially awkward guys. So this is a fantastic group aimed at helping people come into it. But this doesn't have to be, you know, restrictive in this way. We're looking at we're talking about groups that are, you know, anyone who wants to play. Like I said, school clubs are a great example, play groups within stores. I mean, even though there might be, you know, your Friday night Magic, but there could also be groups that say, well, I can only come on Tuesday nights and then you guys start forming over Brown. Then I have clear memories of when I was in college, the store that I worked at</v>
+
+00:12:49.490 --> 00:13:09.430
+<v Speaker 1>had a play group that came Saturday mornings and there were a lot of like dads or people who couldn't get away during week nights but could get away while the kids are at soccer practice or we're doing other stuff. And it was just this casual play group that literally, I mean, they would play 8 player games. They would be there for four hours playing this one game, but this was their defined moment of how they loved playing the game.</v>
+
+00:13:09.500 --> 00:13:19.590
+<v Speaker 2>And that there are stores and groups that will try to accommodate that. There's a store that I know that follows me on Twitter that I, I've made some friends with in New York called Dragons Den and they actually run Monday Night Magic.</v>
+
+00:13:19.760 --> 00:13:49.920
+<v Speaker 2>There are groups that I've helped. I shouldn't say groups. There are, well, I guess they are, they're play group of, of places I used to work at that have started playing Magic. And when I've had extra product of my own stuff, I've given it to them to help them run their drafts, run their events. And it's gotten to the point where a lot of actually local Seattle game companies have sort of latched onto this and sort of created their own, their own league almost. Mike Gills actually runs and just sends product out to to local game companies.</v>
+
+00:13:49.990 --> 00:13:59.570
+<v Speaker 2>Time to just play Magic at their own will because they in the game industry, especially around here, you can't always make it to Friday night Magic. You can't always make it to these events because you're going to be busy a lot, right?</v>
+
+00:14:00.040 --> 00:14:14.810
+<v Speaker 3>That's one reason we picked Tuesdays. I I want, I want the ladies who play in my group to be able to play at our events on Tuesdays and then also participate in our F&amp;M's or other groups that they might be a part of. And Tuesday nights worked out really well for that.</v>
+
+00:14:14.940 --> 00:14:20.060
+<v Speaker 1>One of the things I think that players don't really take into consideration is the leadership of groups. A lot of them wanted to be up</v>
+
+00:14:20.130 --> 00:14:37.870
+<v Speaker 1>really democratic thing where, you know, we all make the decisions together. Let's let's do what the majority wants. And while that will work majority of the time, there are times where I think you need to have someone who's sort of the de facto leader. Yeah. Because often what will happen is no one wants to be the one who makes the decision. Everyone like, ohh, that's fine with me. Whatever.</v>
+
+00:14:37.980 --> 00:14:40.580
+<v Speaker 3>It's challenging, though it really is.</v>
+
+00:14:41.700 --> 00:14:47.610
+<v Speaker 1>I was gonna say, I'm sure you've experienced that with ladies Planeswalker Society where like, hey guys, what should we do? And everyone's like, I don't know.</v>
+
+00:14:47.740 --> 00:14:58.560
+<v Speaker 3>Yeah, or I get 5 different answers and all of them are in completely different directions and other people are disagreeing. And yeah and I mean I so I build our schedule about a month out and</v>
+
+00:14:59.340 --> 00:15:11.010
+<v Speaker 3>I have two, well I have three set every month. So I have a draft at the end standard right before the draft and some multiplayer in the beginning of the month.</v>
+
+00:15:11.840 --> 00:15:41.750
+<v Speaker 3>And then there's that other like the other week, which is like a lot of times I'm like, Hey, what do people want to do? And I'll try to fill that slot with those or they'll they'll give multiplayer suggestions and I do it then. But that's that's probably one of the biggest like where decision making really comes in is like what we are doing. And because we need every single week and I don't want people to get bored and I want to draw in people from different formats. It it does become.</v>
+
+00:15:41.820 --> 00:16:11.960
+<v Speaker 1>Challenging, absolutely. So I think that that's one thing that people who want to start their own playroom can do is they can sort of say, look, I want to run this as egalitarian and as democratic as possible. But I'm also going to take on myself the understanding that when the no decision has been reached or when a decision must be reached, I'm going to make the decision and good or bad, people are going to disagree with me. I think that that is one of the keys to seeing a successful play group is having that leadership help pull it into success, help pull it into gear. And so I think that you're a perfect example of that with the lady playing</v>
+
+00:16:12.040 --> 00:16:12.700
+<v Speaker 1>their society.</v>
+
+00:16:12.750 --> 00:16:41.800
+<v Speaker 3>Yeah, lately I've been speaking a lot with Trevor Murdoch, who has started Plainswalkers for Diversity, which I think is another great group example of, you know, starting a play group either for, you know, a specific like purpose of drawing in a subset of people or, you know, like you're saying, just a play group in general. But he is now starting this and I've been trying to help him as much as I can because they see mine as a success and you know, want to take</v>
+
+00:16:42.050 --> 00:16:44.930
+<v Speaker 3>whatever they can for me. But that's one to check out for.</v>
+
+00:16:44.940 --> 00:16:52.330
+<v Speaker 1>People the Lady Planeswalker society while aiming towards a woman, a female audience is is not only female players.</v>
+
+00:16:52.380 --> 00:17:12.690
+<v Speaker 3>True. Yeah, very true. That was actually one of the restrictions Elaine gave me when I started was that I couldn't be exclusive, that if men wanted to come play, they would have to be able to. So I sort of warmed up to the idea and thought of ways in which I could benefit from that instead of it being</v>
+
+00:17:12.820 --> 00:17:14.000
+<v Speaker 3>an obstacle, right?</v>
+
+00:17:14.010 --> 00:17:26.100
+<v Speaker 2>And you have men that that have helped you a lot. You've got, you've got a lot of a lot of the boyfriends help support you help teach. Yeah, when a geek girl con, you had more women than men, but you had men running, helping teachers. Well.</v>
+
+00:17:26.170 --> 00:17:43.010
+<v Speaker 3>Yeah. And it actually ended up really wonderfully for me because when we started, there were guys that are boyfriends of these women who wanted to play, and they were just as excited for this opportunity. And I've had guys who play Magic that are like, Oh, well, my wife,</v>
+
+00:17:43.080 --> 00:18:13.920
+<v Speaker 3>my girlfriend's been wanting to learn. Can I introduce her to your group? And it's like, absolutely. And I want them to be able to come and experience that as well. And every guy that comes to my events, I sort of pull him aside, have a conversation with him being like, oh, you know, this is what we do. Please contribute to this. So not only do I want them to understand what we're doing, but I also want them to take part in that, right? We probably have 30%, some, some nights, 40% male presents. And that's, that's good. Another reason that that's good is we're part of the Magic community. We're not</v>
+
+00:18:13.990 --> 00:18:25.010
+<v Speaker 3>this exclusive group that doesn't want anything to do with the magic community, but the magic community can be, you know, we're a subset within the magic community that fits in.</v>
+
+00:18:25.060 --> 00:18:44.570
+<v Speaker 1>Right. One of the things that you you bring up there that I think is very important for people who want to start their own groups is that even though we've talked about wanting to have a leader for the group, have someone who will make decisions when a decision is needed, it's also about empowering members to be have ownership of the group. You know, we don't want we don't want it to the scale to go too far in the other direction.</v>
+
+00:18:44.650 --> 00:19:07.920
+<v Speaker 1>It's a dictatorial leadership. Even though it may be a fun group everyone enjoys if they're just there as participants, they don't have as much invested if if they feel like they're their owners and they help lead to the group and they help decide the path that's going to take, like you sounds like you do with these, with players, both male and female. It's something that helps them buy and helps them feel engaged and helps them feel, you know, critical to the success of the group.</v>
+
+00:19:08.440 --> 00:19:14.610
+<v Speaker 3>And we've also, we've had two headed giant nights, which like Valentine's Day, we had a 2 headed giant night And it</v>
+
+00:19:14.680 --> 00:19:23.400
+<v Speaker 3>is, it wasn't exclusively couples. There was a couple girls that were just like friends that, you know, joined in on the fun. But that was that was a really neat.</v>
+
+00:19:23.590 --> 00:19:24.820
+<v Speaker 1>Yeah, that sounds fun.</v>
+
+00:19:24.970 --> 00:19:36.300
+<v Speaker 3>And it's, you know, different than any other event that you're going to see where it was like, hey, have nothing going on Valentine's Day and you love magic. Like, just like a date night Valentine's Day magic, which was really cool.</v>
+
+00:19:36.370 --> 00:19:44.480
+<v Speaker 1>The the Internet as a whole, the Magic Community Online is a great resource. There's lots of resources out there about people's playing groups, like there's Plays Walker Society</v>
+
+00:19:44.690 --> 00:20:15.370
+<v Speaker 1>from Tampa. There's the well known Armada League, which is a commander league, which sort of has sort of set the bar for what commander leagues can do and how they can do it because it's so successful for them. And they have Michael Fortino, who's one of their the Armada store owners who sort of their commissioner and overseas the group. But I mean, they have Sheldon Menery, They have a number of well known commander players in this group. And they define this league that has these game rules that reward you for the different things that take place. You know if if you kill a player before turn 5 they penalize you?</v>
+
+00:20:15.440 --> 00:20:33.560
+<v Speaker 1>For it because they want to make sure everyone gets the chance to play in the game. So you know, if you go off on an infinite combo without winning the game, then like you just lose a million points or something like that. Like that may or may not be exactly from their rules, but it's that sort of mindset that they've used to sculpt this play group that they all want to be part of.</v>
+
+00:20:35.000 --> 00:20:36.710
+<v Speaker 3>Something like that for our commander nights, yeah.</v>
+
+00:20:36.720 --> 00:20:56.700
+<v Speaker 1>Actually, I think taking those resources online, so definitely hoping on the Internet, looking for other play groups out there, finding what other people have done is a major thing to help you build your group. But also sharing what you've done is a major thing because both it earns you recognition, but it also helps the community as a whole. A rising tide lifts all boats. Sort.</v>
+
+00:20:56.710 --> 00:21:04.920
+<v Speaker 3>Of yeah, I've actually so Seattle was the first lady plays worker society and since then I've been contacted by</v>
+
+00:21:05.980 --> 00:21:11.530
+<v Speaker 3>nine different cities that wanted to start their own lady planes worker society, yes.</v>
+
+00:21:11.540 --> 00:21:12.830
+<v Speaker 2>Six more have.</v>
+
+00:21:12.960 --> 00:21:15.470
+<v Speaker 3>Six of them have started and there's,</v>
+
+00:21:16.320 --> 00:21:46.230
+<v Speaker 3>well, seven of them have started. One of them dropped off the radar. Unfortunately. There's six that are still going and there's two that want to start up that I'm still working with to get started. There's also a Magic Girl squad in Argentina that contacted me being like, hey, can we be sort of an honorary group because they hadn't heard of us, but then when they did, they like, hey, we're doing the same thing. So that's a great. And I also want to point out one of the ones that have started is in Australia,</v>
+
+00:21:46.300 --> 00:21:53.860
+<v Speaker 3>which is great because that means we're going global, right? Yeah. And I mean, that wouldn't have happened if I hadn't been so vocal about this group's.</v>
+
+00:21:53.870 --> 00:22:09.640
+<v Speaker 1>Existence, right, exactly. That's a great example. And and I think that that even though they're they're their own groups underneath the lady plays Walker society banner sort of thing. I mean, it's not like you're running these groups that they're independent. They're just using what you've done as a leaping off point.</v>
+
+00:22:09.700 --> 00:22:16.650
+<v Speaker 3>Yeah, and I, I try to help them in any way I can, but really, you know, they're running it all on their own. They're in completely different</v>
+
+00:22:16.720 --> 00:22:29.180
+<v Speaker 3>states, you know, far, far away from here. There's honestly not much I can do except just give them advice, let them know what I've done, let them know what's worked and what hasn't. But yeah, there there are leaders out there taking on these groups.</v>
+
+00:22:30.640 --> 00:22:39.450
+<v Speaker 1>Doctor Sighting as a counterpoint to what I was saying with Armada, you guys don't really run a league. You just run week to week events. You guys don't keep on leaderboard of who's leading or anything like that.</v>
+
+00:22:40.670 --> 00:23:10.940
+<v Speaker 1>The league aspect is an interesting one. That's one that we actually use here inside of Wizards. We do every set, we start a new league and there's a couple of others I think ongoing, like there's a weekly draft league and stuff like that. But we do an internal league that's based around usually our pre-release seal deck and we just sort of carry this deck and it will carry it forward. Whether it's, you know, drafting new packs every week or modifying it as this the set goes on. And that's a model can be easily applied to play groups,</v>
+
+00:23:11.020 --> 00:23:30.680
+<v Speaker 1>whether it's a club, like I have memories as a kid in middle school and high school, I was, I played in chess club and we have ladder rankings. That's of course very important for that sort of club. And that carries over to Magic too, where you can have a ladder ranking, you can have weekly tournaments to sort of, you know, define your playgroup, see who's the who's the top boss in your in your playgroup.</v>
+
+00:23:30.750 --> 00:23:41.140
+<v Speaker 2>Yeah, some friends of mine that work at Warner Brothers have actually taken the league, have talked to a lot. They talked to Chris Willock, who runs our, our internally here and they've taken that idea of a league and they, they started with</v>
+
+00:23:41.680 --> 00:23:53.430
+<v Speaker 2>with intro packs. And then every week they got a new, a new deck or I'm sorry, a new booster pack to add to their intro pack that they can use an edit with. And that's sort of what they've been sort of running an intro pack league.</v>
+
+00:23:53.440 --> 00:24:02.550
+<v Speaker 1>Interesting. I guess let's use that to bridge into activities. I mean, part of what we said was, you know, like as you struggled with Tifa was what do you do with the group they like?</v>
+
+00:24:03.750 --> 00:24:34.150
+<v Speaker 3>We have an additional challenge because I want to keep the group casual and non competitive is a little a little strong, but you know, casual feel because we do want beginners and new players who've never experienced the game before to be able to come to our group and feel welcome and, you know, want to keep playing. But I also want it to be all skill levels. So I want competitive people to come play as well. Like I want the Seattle PTQ</v>
+
+00:24:34.450 --> 00:25:04.640
+<v Speaker 3>women who play. I want them to feel like they can come and play, right? And one of the things that I do, because we have it casually sanctioned, I'm allowed to pair people like however I want. So like if somebody comes with their daughter that they're teaching magic, I compare them with her first round and then me the second round. Or if I have like last week we had 7 brand new girls come. So I paired them together and with people who were willing to teach</v>
+
+00:25:04.710 --> 00:25:33.230
+<v Speaker 3>throughout the night. And then I paired the people who are super competitive together throughout the night. And that was something I didn't do it first. And that actually caused a little bit of friction between some of the girls because it was like, ohh, well she had this deck and wanted me to play faster and it was like, alright, well clearly I need to do something to sort of bridge that gap. Ever since I made the change of like looking at the pairings and making sure that all of them are going to work well together, that has has worked wonderfully and I haven't had any issues.</v>
+
+00:25:33.240 --> 00:25:35.040
+<v Speaker 1>Right. You, you mentioned in passing,</v>
+
+00:25:35.110 --> 00:25:53.670
+<v Speaker 1>you know, the, the casual sanctioning. I think that's one point we should we should highlight for play groups is that for to get planes Walker points, you need to be tied to a WPN store or an outlet that lets you sanction events. It's perfectly fine and completely reasonable and probably wonderful for a lot of play groups to just be casual, not have to worry about sanctioning.</v>
+
+00:25:53.740 --> 00:26:05.830
+<v Speaker 3>It's one point for everybody, which is why I can do the pairings. However, where if you have a group that is more competitive and you want to do like the skill boards and you're you're thriving on that competition,</v>
+
+00:26:05.960 --> 00:26:08.550
+<v Speaker 3>then I might recommend doing sanctioned.</v>
+
+00:26:08.640 --> 00:26:13.710
+<v Speaker 1>Right, Regular sanctioned drafts or sealed tournaments or whatever your events wants to be.</v>
+
+00:26:14.300 --> 00:26:35.890
+<v Speaker 3>I mean, actually when I set up the schedule, the the point was sort of multiplayer is the first week of the month. And that way people can come like with somebody they know who plays Magic and play together. Like if they're, they're brand new. So the beginning of the month they come in, they play a multiplayer format so they can have people right there with them helping them the whole way. The next week</v>
+
+00:26:35.970 --> 00:27:06.290
+<v Speaker 3>become it's gonna be like one-on-one some form of magic. I usually try to make it something beginner friendly because I want it like if someone's only been playing a week or a couple weeks, they'll be able to sort of jump into that. The week after that is standard in hopes that they will have gotten an intro pack at that point and can maybe have edited the intro pack a little bit to try it out in a standard event. And then the last week in the month is draft, which is sort of, you know, past the the construct stage of</v>
+
+00:27:06.360 --> 00:27:18.060
+<v Speaker 3>Magic playing. I mean, obviously I don't expect people to learn Magic in a month that easily, but it's sort of set up that way where like if you want an easy path right into our group.</v>
+
+00:27:18.070 --> 00:27:35.300
+<v Speaker 1>Yeah, that's that's a great on ramping process. And I mean, between lady planeswalker societies play group and I mean duels or if they if they are part of a couple and they're playing with their significant other than you know, that it's a very, very smooth transition form, even though it may be slightly faster than most players necessarily follow.</v>
+
+00:27:36.370 --> 00:27:54.610
+<v Speaker 1>But I think that's a great intention for play groups to have is, is that if your group is focused on, you know, adding players and teaching people rather than just being a playgroup than having planned out activities really helps with that both in terms of as you've shown the on boarding to learning the game.</v>
+
+00:27:54.720 --> 00:27:58.510
+<v Speaker 3>And actually Speaking of formats, we created our own format.</v>
+
+00:27:58.820 --> 00:28:03.320
+<v Speaker 1>Oh, really? Yes, that's right. OK, I'm on board now</v>
+
+00:28:05.740 --> 00:28:07.150
+<v Speaker 1>go ahead, tell us about your.</v>
+
+00:28:07.160 --> 00:28:15.950
+<v Speaker 2>Formats you're ohh really sounded off. I thought the stage because like oh really like and then and then you're like, ohh, wait, no, we are supposed to talk about this. That's how you're on vacation.</v>
+
+00:28:15.960 --> 00:28:16.350
+<v Speaker 1>I'm</v>
+
+00:28:17.640 --> 00:28:18.140
+<v Speaker 1>almost.</v>
+
+00:28:18.150 --> 00:28:19.380
+<v Speaker 2>There almost on vacation.</v>
+
+00:28:20.140 --> 00:28:52.310
+<v Speaker 3>Yeah, We have created what I like to call a spontaneous cube creation where basically this came up because people were like, Oh my gosh, I have all these cards that I don't know what to do with. And at the same time I was trying to find new ways to draft. I was a cube drafter still. I'm a cube drafter. I wanted to find a way to sort of bring that into the group without limiting the number of players, like come play. So I tried to combine the two. I was like, wait a minute, if people have all these cards they don't know what to do with</v>
+
+00:28:52.570 --> 00:29:23.260
+<v Speaker 3>and people want to draft more, what we can do is have people bring cards. OK. And it's a, it's obviously a little more complicated than that. You know, that was the first idea was like, ohh, people can just bring 45 cards and we can draft. But in order to really make that work, you have to put a little bit of restrictions on it. So what I did is I made a big doc. Like I made a document on the group being like, hey, I have this idea. What do people think? Here's what you would need to bring and basically bring these cards</v>
+
+00:29:23.360 --> 00:29:55.160
+<v Speaker 3>knowing that you're going to part with them. Like you might never see these cards again, but you also want them to be playable and fun cards. Like cards that you think maybe other people would really like to play that just aren't your style that you're, you don't want in your decks or things you have 8 of that you don't need 8 of, right? So bring these playable fun cards. And we want an even color distribution. So I would ask people 7 of each color, 5 artifacts and five anything that you want, if you wanted hybrid cards or lands,</v>
+
+00:29:55.380 --> 00:30:25.030
+<v Speaker 3>multicolor cards, or if you had like 5 other blue cards that you really wanted to include that would give you that like little bit of extra 5 cards. And it wasn't so much that it would throw off the whole process as long as you stuck to the seven of each color and five artifacts. We had a good mix of cards to use from. So everybody came with these 45 cards and you know, sometimes they weren't the best cards. Other people like Mike and I would bring all rares</v>
+
+00:30:25.290 --> 00:30:27.220
+<v Speaker 3>to make sure there were some really good cards.</v>
+
+00:30:27.230 --> 00:30:28.340
+<v Speaker 1>How big is the cube?</v>
+
+00:30:28.350 --> 00:30:31.140
+<v Speaker 3>The cube right now is 970 cards.</v>
+
+00:30:31.150 --> 00:30:37.480
+<v Speaker 2>OK, it would 21 people 112221 enough for 22 people to draft.</v>
+
+00:30:37.600 --> 00:30:55.440
+<v Speaker 3>Yeah, and I mean, it started it just bring your cards and we did that three or four times where events of bring your own cards. And then at that point we had thousands of cards to sort through and what I did to make Our Lady Planeswalker Society cube, which you know it</v>
+
+00:30:55.520 --> 00:31:18.810
+<v Speaker 3>from being the spontaneous cube to an actual cube, I went through it. Well, Mike and I went through, cut out all the duplicates and also cut cards that were either I, I didn't view as being fun, I didn't view as being powerful, or I viewed as being a little too confusing for my particular group. So I cut out any of those cards and now we have this great cube.</v>
+
+00:31:19.410 --> 00:31:20.540
+<v Speaker 2>Keeps pretty awesome actually.</v>
+
+00:31:20.550 --> 00:31:25.510
+<v Speaker 3>Yeah, it's really fun and it's very different than any powered cube or even popper cube. Like it's,</v>
+
+00:31:25.600 --> 00:31:33.220
+<v Speaker 3>it's a different type of cube, but it's still something that we can play that doesn't require booster packs.</v>
+
+00:31:33.230 --> 00:31:38.330
+<v Speaker 1>So you guys will just add this into the rotation month from month to month or occasionally you guys don't use it every?</v>
+
+00:31:38.340 --> 00:31:39.850
+<v Speaker 3>Month. No, I'd say.</v>
+
+00:31:39.860 --> 00:31:45.760
+<v Speaker 2>Actually, about a month. So yeah, about a month and a half ago was the last time, yeah, I drafted an amazing deck. Hilarious.</v>
+
+00:31:45.770 --> 00:31:48.250
+<v Speaker 3>Probably about every three months I'll throw it in to the week.</v>
+
+00:31:48.320 --> 00:31:55.610
+<v Speaker 1>OK, so I mean, that's a, that's a perfect example of just this, this group coming together and making their own group. I mean, there's plenty of other casual formats from Commander</v>
+
+00:31:55.730 --> 00:32:25.700
+<v Speaker 1>to type 4, which is this crazy format where you play off the top of a giant stack of cards. I mean, I'm, I'm Popper. I love playing Popper online and I would love to get a Popper play group together here inside of Wizards. We still have, we still set up play groups. I mean, it's one of these four, one of these core things to experiencing the game. And stores have really become the anchor point for a lot of people's play groups. But that doesn't have to be the way. I mean, you could have a lunch time play group at your office. Yeah, you can have play groups and in school, you know,</v>
+
+00:32:25.810 --> 00:32:37.350
+<v Speaker 1>you could have played groups at your house where it's you and your siblings and your parents. You know, it's really about setting up these groups and and working to make them an active place for you to enjoy this game.</v>
+
+00:32:37.540 --> 00:32:55.610
+<v Speaker 2>And if you're having trouble, I mean, finding people like say, maybe some of your friends like you're in a Magic, but your friends aren't. I mean, Facebook, our Facebook group, there's constantly people on Facebook saying hey, and this area do people with magic. Reddit is another place where I've seen people like, hey, does anybody play Magic in the area? I mean, even if you go into a store near in store</v>
+
+00:32:55.820 --> 00:33:07.140
+<v Speaker 2>and maybe you're maybe you're not, you feel like you're ready for FM, you can still ask around and be like, hey, somebody want to try this other play group and meet on a night that's not F&amp;M. So we can, you know, just have fun and be casual if you want it to be.</v>
+
+00:33:07.550 --> 00:33:25.860
+<v Speaker 1>You know, one of the things around the building here is, is that, you know, as the holidays near and just just like with school or with, you know, any, any job, when when vacations loom, you know, focus starts to waver. We start, we start getting silly. Like, yeah, you know, people just still like, oh man, I'm ready for this break. You know, you get a senioritis is which what?</v>
+
+00:33:25.930 --> 00:33:32.480
+<v Speaker 1>Ohh. Yeah. And so let's let's talk about vacation plans. I mean, I'm not going anywhere. I'm staying up here with the wife.</v>
+
+00:33:32.490 --> 00:33:36.770
+<v Speaker 2>You're you're also currently working on vacation. Get out of the office.</v>
+
+00:33:37.540 --> 00:33:38.370
+<v Speaker 1>We'll, we'll see.</v>
+
+00:33:38.520 --> 00:33:45.150
+<v Speaker 2>You posted on Daily MTG that you're gonna be working during, I guess it's not vacation, but you're working with most of the companies gonna be out.</v>
+
+00:33:45.660 --> 00:33:46.950
+<v Speaker 1>People are still building.</v>
+
+00:33:47.040 --> 00:33:53.970
+<v Speaker 2>This place becomes like a ghost town. Yeah, like this place is seriously, in this place comes a ghost town towards the end of the year. It's just every.</v>
+
+00:33:53.980 --> 00:33:56.000
+<v Speaker 3>Customer service last year, where we're here</v>
+
+00:33:56.110 --> 00:34:00.520
+<v Speaker 3>all year and those last two weeks of December were cold and sad.</v>
+
+00:34:02.560 --> 00:34:05.090
+<v Speaker 1>So are you guys going anywhere for the holidays?</v>
+
+00:34:05.100 --> 00:34:06.430
+<v Speaker 3>We are going to California.</v>
+
+00:34:06.440 --> 00:34:32.160
+<v Speaker 2>We are going to California. Yeah, my family is from California. So I always go home every for Christmas, spent the holidays with both my parents and my brother, my sister. My sister just had new babies. So I get to see my nephew for the first time, which is going to be awesome. And yeah, it's going to do the typical LA things. I'm actually planning on drafting when I head down to LA on a contact a couple of my friends and see if they want to, they want to draft, do some shopping when I'm down there, buy some boxes of stuff. I'm totally just kind of</v>
+
+00:34:32.230 --> 00:34:34.790
+<v Speaker 2>patient it up when I'm down there, so I'm excited.</v>
+
+00:34:35.800 --> 00:35:02.390
+<v Speaker 1>Like you said, you may have mentioned about me working while everyone else is not. For clarification, for those of you who checked daily MTG while you're on your winter vacation, we will only be doing one week of reruns. We will have a week preceding reruns. That's Magic Online week, which is the week after this episode comes out. The website will be all Magic Online content. We'll have a new set of authors. I mean some of you have seen before, but you won't have Rose Water, you won't have Flores. You won't have any of our</v>
+
+00:35:02.470 --> 00:35:16.230
+<v Speaker 1>are standard weekly writers and then the week after will be reruns on the website where we'll show one of the best articles from each of the columns. You may you may decide you know I'm not going to check the website during that week. I would highly highly recommend you go check the.</v>
+
+00:35:16.240 --> 00:35:22.070
+<v Speaker 2>Website I hear I hear rumblings throughout the office of certain things that may or may not be appearing on the website during.</v>
+
+00:35:22.180 --> 00:35:30.550
+<v Speaker 1>We may or may not have gifts for you to unwrap during the holiday season. I'm just going to throw it out there. We're just going to lay that out. This episode is the last episode of this year.</v>
+
+00:35:30.640 --> 00:35:32.050
+<v Speaker 2>I miss you guys already.</v>
+
+00:35:32.140 --> 00:35:32.640
+<v Speaker 1>We will</v>
+
+00:35:32.720 --> 00:35:38.950
+<v Speaker 1>taking a couple of weeks off and we'll be back start of next year to talk about gate crash.</v>
+
+00:35:38.960 --> 00:35:41.570
+<v Speaker 2>Ohh man look at that we come back have to go right into gate crash.</v>
+
+00:35:41.580 --> 00:35:42.810
+<v Speaker 3>I'm so excited.</v>
+
+00:35:42.820 --> 00:35:43.970
+<v Speaker 2>For super excited.</v>
+
+00:35:44.020 --> 00:35:44.950
+<v Speaker 3>Simic.</v>
+
+00:35:46.110 --> 00:35:49.520
+<v Speaker 1>Yes, Boros Simic we we get our favorite guilds now.</v>
+
+00:35:49.530 --> 00:35:55.300
+<v Speaker 2>It's true my favorite Guild is already out though, so I'm have to have a pick. My second favorite Guild.</v>
+
+00:35:55.340 --> 00:35:55.600
+<v Speaker 1>Which?</v>
+
+00:35:55.610 --> 00:36:04.540
+<v Speaker 2>Is which is gruel actually, because my my Commander deck is just a gruel heavy deck, OK. And I'm excited because I've seen stuff and I'm very happy for it.</v>
+
+00:36:04.610 --> 00:36:16.340
+<v Speaker 1>So with that in mind, we wish you all a happy and safe holidays. We look forward to hearing from you all, hearing about your play groups, answering questions. You know you can reach us all on Twitter. I am trick MTG on Twitter.</v>
+
+00:36:16.510 --> 00:36:17.630
+<v Speaker 3>That Tifa Mayan.</v>
+
+00:36:18.100 --> 00:36:19.390
+<v Speaker 2>At Michael Robles.</v>
+
+00:36:19.740 --> 00:36:22.030
+<v Speaker 1>And with that, we will see you all next year.</v>
+
+00:36:22.120 --> 00:36:23.890
+<v Speaker 2>See. Yeah, see you in 2013.</v>
+

@@ -1,0 +1,326 @@
+WEBVTT
+
+00:00:01.230 --> 00:00:07.670
+<v Speaker 1>OK, pulling out of my driveway. We all know that means it's time for drive to work.</v>
+
+00:00:08.390 --> 00:00:39.300
+<v Speaker 1>OK, I said pull out today. It is raining. What does that mean to all of you? It probably means an extra long podcast because here's the secret. Seattleites cannot drive in the rain. Now, here's the thing I don't understand real quickly, which is I would understand if CLA's couldn't drive in the not rain. You know, it's strange to us that the, the drive, the, you know, the, the, the road is not slick and how do you drive when you have traction? But because it rains all the time here, so I don't.</v>
+
+00:00:39.370 --> 00:00:50.810
+<v Speaker 1>Anyway, a little side note. I don't get it. But hey, my aggravation is your longer podcast. So today I decided we're going to talk about Urzas saga,</v>
+
+00:00:51.480 --> 00:00:52.670
+<v Speaker 1>one of the bigger,</v>
+
+00:00:54.840 --> 00:01:23.330
+<v Speaker 1>we'll call it mess ups we've had. So the interesting thing about the saga was I was both on the design team and on the development team. There's not tons of set that's true. A few. This is one of them. So let me quickly run through. So the design team was myself, Mike Elliott, I believe Bill Rose and Richard Garfield, but that's a little misleading because Richard wasn't on the team. Wait a minute, why</v>
+
+00:01:23.410 --> 00:01:34.960
+<v Speaker 1>he lifted on the team? The reason is if you pay attention to my podcast during Tempest, Richard designed the mechanic called cycling, which I had a whole podcast on</v>
+
+00:01:36.440 --> 00:02:06.380
+<v Speaker 1>and we didn't end up using it until the following year. Is this I got. So although Richard did not work under Asaga, he gets credit as a general rule thumb. Talk about credits. I'm a big believer in, you know, being as fair as possible with credits. I would much rather give more people credit if, you know, I don't want people not to get credit for work they've done. And so I, I'm a big, big believer of look, if there's any doubt, let's give the person credit. And obviously Richard made mechanic, which was a major part of the set. So we gave him,</v>
+
+00:02:06.760 --> 00:02:08.170
+<v Speaker 1>and rightfully so.</v>
+
+00:02:09.540 --> 00:02:11.260
+<v Speaker 1>So let me talk a little bit about</v>
+
+00:02:12.370 --> 00:02:15.410
+<v Speaker 1>like Elliott and no rules. I talked about them in previous times</v>
+
+00:02:17.320 --> 00:02:27.170
+<v Speaker 1>and this that this was Mikes first large set. He had been on templates with me. Uh, he, he and I had done stronghold and then Exodus. He let exits all by himself.</v>
+
+00:02:28.530 --> 00:02:36.360
+<v Speaker 1>And then this was the first set that he had done, you know, solely as a large set that he had done as the lead designer.</v>
+
+00:02:37.690 --> 00:03:07.630
+<v Speaker 1>And there was a lot of give and take. Like I said, Mike and Bill and I were the three big designers at the time. We were the ones that would go to Invasion. Two years later. I talked about my Invasion podcast. It's like my column. I keep linking things, except I can't link in the podcast. But if you haven't listened to my other podcast, please go do. I'm trying hard to assume you've listened to previous ones when I do current ones so that there's some continuity. And but anyway, I will reference</v>
+
+00:03:07.710 --> 00:03:23.800
+<v Speaker 1>the ones when I know talk about things you might want to listen to if you haven't listened to, and I recommend you do now. The development team for the SAT was Mike Elliott, William Jockish, Bill Rose Stern and Beth Morrison. Now, Beth Morrison was the rules manager at the time.</v>
+
+00:03:25.150 --> 00:03:45.640
+<v Speaker 1>Maybe one day I'll talk about the rules manager. That's a fine podcast. But anyway, Beth was the rules manager of the time. So the five people on the development team were interestingly the five people in Magic R&amp;D. What happened was when I first got hired for about 3 years, pretty much the five of us, I mean, Henry didn't start till</v>
+
+00:03:46.410 --> 00:04:16.260
+<v Speaker 1>Tell Tempest. But during that time, like there wasn't shifting development teams, just the guys who were the magic R&amp;D people. We were of the development team. And so I want to talk a little bit about, I mean, I've talked a lot about Mike and I've talked a lot about Bill in previous podcasts. Let me talk a little bit about William and Henry. So Henry Stern was a friend of mine. I actually met Henry when I lived in LA. So before I moved up and took a job at Wizards, I lived in Los Angeles.</v>
+
+00:04:16.350 --> 00:04:27.330
+<v Speaker 1>I was trying to do my writing thing. And for those that don't know, I had some career done Hollywood writing for TV. Not a giant career, but some and</v>
+
+00:04:28.910 --> 00:04:38.640
+<v Speaker 1>part. I started working part time at a game store because I've got a little stir crazy in my apartment and in the game store. One day Henry Stern came in</v>
+
+00:04:40.120 --> 00:04:59.010
+<v Speaker 1>looking for Magic cards, I believe, and I had a policy at the time which was we had a demo deck that I would show people because I learned quickly, if I just showed you Magic, I could tell you Magic in a heartbeat. So I had a little demo deck that I would demo with. And one of the things I say to people is I will trade you card for card.</v>
+
+00:05:00.450 --> 00:05:01.590
+<v Speaker 1>They had a match rarity</v>
+
+00:05:02.310 --> 00:05:32.160
+<v Speaker 1>and I had a rough idea of the rarity time. It wasn't super public, but I I had a sense of what was rare, what what what wasn't. But you could trade me. You had to trade me the same rarity and it had to be a card that wasn't currently in the deck. But a lot of magic players, it was a chance for them to sort of get some cards they didn't have. And Henry took advantage of that. It's very funny, by the way, I got yelled at by my my manager for doing that at the game store, but I kept doing it on the slide. So anyway, Henry and I became friends. We there was,</v>
+
+00:05:32.240 --> 00:06:02.500
+<v Speaker 1>there's an active Los Angeles Magic playing community senator round the the Costa Mesa Women's Centre, where Scott Larrabee and others ran the tournament. So there's a little ways away from LA, but that was kind of where the the hub of the LA Magic scene was. And Henry and I were very involved in it. So later I was asked by Joel or Bill or somebody if there's anybody I could recommend for our and D and I recommended Henry.</v>
+
+00:06:03.160 --> 00:06:32.990
+<v Speaker 1>Meanwhile, by the way, what had happened was Henry ended up top making top four at 95. He was top two at 95 nationals, top 4 and 95 worlds. He lost that U.S. National tomorrow Justice and then both he and Mark Justice made the semis and each of them lost in the finals. In 95, Henry lost and Mark Hernandez. And by the way, Henry had like 5 turns to draw forth and he would have gone to the finals and his deck was a great matchup against Alexander bloke who won.</v>
+
+00:06:33.230 --> 00:06:59.520
+<v Speaker 1>So Henry was very close to being the world champion but he wasn't. Then the following year, I think after we had already hired Henry, he had wanted one last hurrah so he played in 96 world and he talked for it again. So Henry actually has the claim of back-to-back world top fours which not a lot of people can claim. Interesting enough. Mark Justice can Henry Majestic both did that. Mark made the finals of the 96th National, but he lost the Tom Champagne who won.</v>
+
+00:07:00.300 --> 00:07:00.740
+<v Speaker 1>UMM,</v>
+
+00:07:01.500 --> 00:07:13.440
+<v Speaker 1>it's a little history for you. OK, so we hired Henry on Henry. Henry was a blast. I liked Henry a lot, obviously a friend of mine, but Henry was very particular and definitely</v>
+
+00:07:15.350 --> 00:07:43.440
+<v Speaker 1>he he cut to the meat of the bone. He he would not mince around. Like Henry was not the kind of person that if he had criticism would, would it all like worry about like he would tell it to you straight. And one thing I liked a lot of working with Henry was, you know, he would go after the problem and he would tell you what he thought the problem was. And his instincts were pretty good. The biggest problem Henry and I had was interesting enough. Like I said, we were very good friends is I tend to work on a gut level.</v>
+
+00:07:44.890 --> 00:08:15.350
+<v Speaker 1>I remember one time we were sitting in a file and some card came up. I don't remember the card was, but I said, ohh, well, guys, I don't know. I have a bad feeling about this card. I'm a little worried. Does anybody else kind of feel that maybe this card is a problem? And Henry like, well, what's your facts? Like? I don't have facts. I just have a feeling. And you're like, look, come back to me when you got facts. You know, feeling doesn't use any good and they're taking Henry aside. And like Henry, I understand, you know, you are a logical guy, but look, I'm, I work a little differently. I'm just saying, hey, I got instincts. My instincts are saying something.</v>
+
+00:08:15.530 --> 00:08:45.420
+<v Speaker 1>I wasn't going to act on my instinct alone, but hey, I wonder if other people are having similar feelings based on whatever criteria they do. And Henry realized that and we were good. I mean, I think Henry realized that he and I worked really differently. What I find in R&amp;D is because them very instinctual that I tend to make a lot of gut calls that I don't have a time evidence to prove. And and it took a while. I mean, eventually I have enough cred, you know, that people sort of start like, well, Mark knows what he's talking about. But before that kind of build up there</v>
+
+00:08:45.530 --> 00:09:15.770
+<v Speaker 1>one was a lot of sort of me being a little too, you know, well, I think this feels wrong and people like what are you talking about Anyway, I like Henry a lot. Henry's go get him, you know, definitely a very serious but fun one of the quirky things by Henri, like tell quirky things that are outside of design. So Henry, Henry's very one of things we used to joke about is if you don't want to a restaurant with five people and they try to see you at a four person table, you just said Henry on them and Henry would not leave</v>
+
+00:09:15.840 --> 00:09:20.620
+<v Speaker 1>have it. Henry was not one to let things happen that he did not want to have happen.</v>
+
+00:09:22.070 --> 00:09:44.490
+<v Speaker 1>Also, it's a little cookie trivia note. Henry does not like either gum nor mint. So if you were mint, if you were chewing mint gum near him, you would ask you to spit it out anyway under William Jockish. So William got the job because he wrote a letter to Richard Garfield. William was a math professor and</v>
+
+00:09:45.810 --> 00:10:16.160
+<v Speaker 1>I don't know, he somehow that letter entertained Richard Richard game of job. Now William was in the early days, he was the closest to what we think of modern day developers, meaning he was math based and very much about criteria. And you know, where a lot of the rest of us, I mean, when push comes to shove, Mike and I really were more designers than were developers and bills kind of 5050 split. But even Bill did not have sort of a pro player sensibility. William was the one that was most kind of like had would make decks and, you know, have sort of</v>
+
+00:10:16.840 --> 00:10:37.090
+<v Speaker 1>actual like numerical evidence to try to prove things. The court you think about William was he just would get pet theories in his head and we would have fights where he's like this car is OK, but if we print this car, it might encourage us to make four more copies of it. And twenty of these cards would be a problem. You know, like, well, we're not going to make 20. We're making money. Exactly. That's slippery slope.</v>
+
+00:10:37.800 --> 00:10:42.810
+<v Speaker 1>Anyway, Wayne was a blast. Uh, we was a lot of fun The</v>
+
+00:10:43.830 --> 00:11:08.060
+<v Speaker 1>in a fun Williams. Ohh, here's my favorite William story is William used have pizza for lunch every day and one day I used to order it in he had delivered. So one day he gets a phone call, he picks the phone, he goes, yeah, he goes, yeah, this is William. Yeah, Pepperoni. OK, bye. I'm like, what was that? Oh, the pizza place called. I hadn't called them. They wanted to make sure that, you know, I got my pizza. We're like you got the pizza place to call you</v>
+
+00:11:09.130 --> 00:11:19.070
+<v Speaker 1>that. My friends, by the way, are find accomplishment. So anyway, so early the saga when we set out to make it. So let me explain our background here. So</v>
+
+00:11:20.240 --> 00:11:50.250
+<v Speaker 1>Mike Ryan and I pitched the weather like saga. So the plan was it was a three act structure story, what we pitched. So the first act took place in Tempest. Look back into what happened, although there's a third turn after the story kind of wasn't ours anymore. And then it written our version story. The they escaped into Mercadian, the Mercado that we in mind and Mercado that got made in Canada. Masks are not remotely close to the same thing. The idea that Michael and I had pitched was definitely a city world, but that's about where it deviates.</v>
+
+00:11:51.050 --> 00:12:10.150
+<v Speaker 1>We liked a lot the idea of, and this wasn't the shipper, so maybe this part say a little bit, but of people peddling magic. It was the city where magic was the commodity. And because that's what we were doing, we went down the path of doing an enchantment matters block. You know, it's a world in which magics are commodity. Oh well. And shamans make a lot of sense here.</v>
+
+00:12:11.240 --> 00:12:17.980
+<v Speaker 1>So we went off and made an in Sherman better set. And by the way, everybody says that's not a chip. So</v>
+
+00:12:18.690 --> 00:12:48.670
+<v Speaker 1>let me explain. What happened is for starters, there was a big shift. The story got taken away from me and Mike. Some story I'll get to 1 day. And the team decided that before they went to Arcadia, they wanted to go back to the past and do a prequel and show Urza. Because I think we hadn't really involved Urza in this story and they wanted to involve us in the story. So we were going to a prequel. By the way, little side note, the name lead wanted for the set was not Versus Saga, but Urza's Odyssey. And for some reason we weren't allowed to do it,</v>
+
+00:12:48.770 --> 00:13:10.270
+<v Speaker 1>which makes no sense since we did a Hennessy not too much later. But anyway, it ended the call or Saga, not versus Odyssey. And So what happened was we had a set built around enchantments and they're like, but we want to go, do you know a prequel? But Urza, we're like, well, but Urza is an artificer. He's all about artifacts. This, the set isn't about artifacts, it's about enchantments.</v>
+
+00:13:11.770 --> 00:13:41.820
+<v Speaker 1>And by the way, for those that doubt it's about enchantments, go to gatherer search for Gonzaga in Chemnitz. You'll be interesting. How many chemicals that cause the answer is a lot anyway. So then it becomes about Erza. Erza, even though we built in abundance. And then to make matters worse, the creative team dubs it, which goes on the box, the artifact block, artifact cycle. I think the artifact cycle we're like, OK, it's Erza the artificer. It's called the artifact cycle. Yeah, I'm not sure</v>
+
+00:13:41.930 --> 00:13:58.940
+<v Speaker 1>Chairman's gonna come through of that strong. And then on top of it, the set had a lot of broken cards, some of which not all of which puts, some of which were artifacts. So it didn't really go down in history as being the enchantment block, even though especially limited it very much was. Anyway. So</v>
+
+00:14:00.480 --> 00:14:20.820
+<v Speaker 1>what happened was the two main mechanics were cycling and Echo. Cycling was made by Richard Garfield, Echo was made by MM Elliott, both of which were made during Tempest design or earlier. To be fair to Mike, I Echo actually came from Mike had made his own set, which can I remember the name of it.</v>
+
+00:14:22.810 --> 00:14:53.100
+<v Speaker 1>It's the it's the same place as slivers came from. I don't remember the name of he said, but the idea was there were some great creature that felt earth and broke into slivers and I don't remember what Echo had to do with it. But anyway, Mike headset and when he was hired, Wizards bought the set and so a lot of Tempest had stuff deriven from that set that Michael had done, one of which was Echo and I liked Echo, but it just I mean we had too much stuff going on and it got pulled during development. I actually put it in the design,</v>
+
+00:14:53.170 --> 00:14:58.770
+<v Speaker 1>so in smaller numbers and they decided that was, you know, worthy of carrying more weight, so they took it out.</v>
+
+00:15:00.090 --> 00:15:22.450
+<v Speaker 1>It's funny, by the way, that we've been shifting away in recent days from doing what we call downside mechanics. And Echo is very funny that it's an upside or downside. People tend to think of this downside because you have to pay this extra cost. What they're missing is really what happens is here's the cost. You get to spread it out over two turns. That's a positive ability. But</v>
+
+00:15:23.930 --> 00:15:33.340
+<v Speaker 1>anyway, usually when the positive is, it's cheaper than it normally would be. That's a little harder for people to get because most people aren't good at costing cards, so they don't get that it's Amanda cheaper usually.</v>
+
+00:15:36.580 --> 00:16:05.130
+<v Speaker 1>OK. Now the other mechanics that were here is so in Ice Age, the Ice Age team introduced the concept that got nicknamed cantrips. A cantrip, by the way, everyone's ever wondering, is a small magical spell. It's meant to mean if you're a wizard, it's it's a little showy thing that isn't particularly powerful, but just, you know, if you kind of want to show off your wizard if there's small little tiny splashy effects. So the idea of cantrips</v>
+
+00:16:05.200 --> 00:16:29.600
+<v Speaker 1>hold the little small effects now and and Earth is, I'm sorry, an Ice Age. They delayed the draw the card because they wanted to make a cargo's bobble that was broken. And so they convince themselves they needed to delay the draw for till the next term. Mirage. We figured out that no, you could just draw the card. It wasn't necessary. So anyway, we brought cantrips back, and cantrips became</v>
+
+00:16:30.920 --> 00:17:02.040
+<v Speaker 1>part of Evergreen, but not completely Evergreen. Bill and Joel, I believe at the time felt that cantrips were better served if they weren't used all the time. Now I fought against that because I feel like the thing that you keep is something in which there's great excitement for it. You know, I have this thing to take it away when I come back. People are very excited for it. I think Phil Cantor's kind of thing, like, ohh, now with cantrips, like I just didn't feel this kind of thing is gonna excite people. And I felt like it was a really good tool because a lot of times they're costing something. Sometimes it's hard to get the effect you want on the right cost</v>
+
+00:17:02.120 --> 00:17:32.430
+<v Speaker 1>and cantrips allows you to goof around with really cheap things like sometimes you effects that are smaller than one man. Well, how do you make those? Well, we make them your cantrip. You can make, you know, one and two men of spells that can do that. You can make that effect you normally couldn't. So anyway, it was decreed that we could not have cantrips in Arzaga because we had cantrips in Mirage, I think, and Tempest. So haven't made we had exhausted cantrips. We had to give them a rest. So I got to thinking. I said, OK, well what what is a cantrip when you boil it down? And I said, OK,</v>
+
+00:17:32.530 --> 00:18:02.700
+<v Speaker 1>a cantrip is a spell in which you get an extra card so you don't lose card equity. So I was like, OK, well what if we change it? Instead of it costing mana, but you're not losing a card. What if it costs a card but you didn't lose mana? The how to do that? Well, clearly you can't just build the castle without a cost because in the cost doesn't mean anything. So that's when I stumbled across the idea of spells in which you had have a threshold</v>
+
+00:18:02.770 --> 00:18:23.930
+<v Speaker 1>cast it, but once you did, you got the man a back and I decided at the time to untap your land rather than add the manager manifold. It's funny because there is a card in the set that actually adds management manifold. Black car. The two creature anyway. Yogg Moth.</v>
+
+00:18:24.840 --> 00:18:32.250
+<v Speaker 1>I'm so bad with names you guys. Pretty pretty pretty pretty much from antibiotics anyway. There's a card there people look up,</v>
+
+00:18:33.890 --> 00:18:36.450
+<v Speaker 1>so I pitched the idea. Free spells</v>
+
+00:18:37.470 --> 00:19:07.200
+<v Speaker 1>which were OK well this felt only cost, you know cost 4 mana. But if you have for managing untapped 4 lands. So it turns out the untapping lands would kind of come to burn us and let me explain. So we had made a bunch of different lands that did different things. Three of them were lands that tapped and gave you man equal to a certain car type. So one that tapped for creatures, one tapped of man equals enchantments, and one tap demand equal to artifacts.</v>
+
+00:19:07.550 --> 00:19:37.450
+<v Speaker 1>I don't know why we didn't do lands and maybe that one felt broken. I I have no idea. And so I ended up being Gaea's Cradle, Serra's Sanctum, and Tolerant Academy. Originally all three of them Tapper colors mana. But meanwhile we were making two other spells. I'm horrible with names, but one that involve black men and one involved red mana. And we realized that we had five spells that could all hook into color. And we thought about it like, Oh well, creatures make a lot of sense as green mana enchantments make a lot of sense as white manna, and artifacts make less sense</v>
+
+00:19:37.560 --> 00:19:44.760
+<v Speaker 1>Humana. So yes, what is my contribution to Clayton Cademy saying, wait, call us? How about blue?</v>
+
+00:19:46.090 --> 00:19:54.360
+<v Speaker 1>Ah yes, yes, the three mechanic animators. Italian Academy came from Anna, so I might be partially responsible some of the craziness about to happen.</v>
+
+00:19:55.790 --> 00:20:10.990
+<v Speaker 1>And so the free mechanics because it untapped things had this weird thing because the the set had multiple ways to get more man out of, you know, multiple man out of a single land. It allows you to not only have a free spell, it actually was negative manner because you could go up in mana.</v>
+
+00:20:11.800 --> 00:20:28.920
+<v Speaker 1>And that's one of the problems. The freestyles is normally if you if it spells too strong, you can add one man into it and weaken it. But the free mechanic there, there are spells that get stronger when you add mandate to it. So like it's a weird mechanic. It might be the most broken mechanic I've ever made.</v>
+
+00:20:29.580 --> 00:20:59.460
+<v Speaker 1>I don't know. I made a bunch. I made dredge I, I think anyway, it's a pretty broken mechanic. Now The funny thing is we put recall, not recall. See, here's what you learn about by the way, the designer. I have way too many Magic has made 13,000 cars or something crazy and I just not, my brain cannot keep all the information. Plus when I make cards by the way, another side thing, I never use the real names of cards. I'm playing playtest cards. I have goofy names. It's that trepanation blade, it's chainsaw. And so when it finds you, call someone else.</v>
+
+00:20:59.610 --> 00:21:01.940
+<v Speaker 1>What is that? Ohh yeah chainsaw, you know so</v>
+
+00:21:03.410 --> 00:21:30.120
+<v Speaker 1>anyway, I'm one of the side effects is my name recognition or recall my name. The ability to recall name and they'll just speak obviously is not going so good today. So we made the free mechanic. Oh the other big theme of the set was enchantments. So we did a bunch of things. We put powerful enchantments at lower rarities, you know, like pestilence and comment that that was smart thinking. And then we</v>
+
+00:21:32.200 --> 00:21:51.110
+<v Speaker 1>so we made two different mechanics based on enchantments. One was what we called sleeping enchantments. This was a Mike Elliott creation and the idea was I'm an enchantment, but when you do a certain thing, I wake up and become a creature. And each color has its own kind of thick the had to get done.</v>
+
+00:21:52.800 --> 00:21:59.690
+<v Speaker 1>Like blue care about styles and green care about permanence. And, uh, I think black, you had life payments anyway</v>
+
+00:22:01.030 --> 00:22:09.820
+<v Speaker 1>for that year was here's the Champions. And then your opponent sort of had like say, well, do you want to do this thing? Because if you do it, or sometimes if you were able to do something, you could wake this thing up.</v>
+
+00:22:11.330 --> 00:22:19.590
+<v Speaker 1>The other one was what we called growing spells. So Mike Elliott had made a card called Treasure Trove that was in Tempest,</v>
+
+00:22:20.220 --> 00:22:21.500
+<v Speaker 1>and I like Treasure Trove a lot.</v>
+
+00:22:22.890 --> 00:22:30.840
+<v Speaker 1>Basically happened. Shows that you grow and every turn you gotta put in your corner on it. And the more counters, the more cards you got to look at to pick what card you wanted.</v>
+
+00:22:32.320 --> 00:22:49.330
+<v Speaker 1>And so I like the idea of these growing enchantment. So I made some and put them into Urza Saga. I would later, by the way, do growing auras in order destiny, but we'll talk about that. We get's destiny. And so I made, I made those,</v>
+
+00:22:51.340 --> 00:23:13.820
+<v Speaker 1>I mean, the, the set had a lot, like I said, cycling also worked really well with enchantments cause a lot of champions that were conditional that you could cycle away. So anyway, let me talk a little bit about some of the interesting story for cards. So 2 cards in the set, we're not supposed to be in the set and got changed at the last minute and force us to redesign them using the art already commissioned.</v>
+
+00:23:14.470 --> 00:23:44.220
+<v Speaker 1>So 1 was Morphling. Morphling was originally going to be clone. At the time the rules manager said clone doesn't work and we've pulled clone from sets and we thought we had a new way to do clone so we were going to bring clone back. That's why if you look at the art, the art is a riff on clone. But at the last minute it turned out the rules manager was uncomfortable. So we changed the card. But we felt we needed to make a shapeshifter, so we made a creature that just could do a lot of things to change itself</v>
+
+00:23:44.460 --> 00:24:14.490
+<v Speaker 1>and becoming more fling ended up being a pretty strong card. The other card was Flexion Processor. Originally that was Clone machine. What you guys might know is Soul Foundry for mirrored in the card where you take a creature from your hand and exile it and then you can make copies of that creature. The technology at the time did not work. They didn't think I could excel a card and reference it anyway later than mirror. Then I tried it again</v>
+
+00:24:14.560 --> 00:24:28.840
+<v Speaker 1>and we were able to make it work, but so we had to change of the last minute. So we ended up saying, well, it makes creatures, but instead of you using a card in your hand, well, what if you pay some life and then it's as big as the life you pay that? That was our our fall back</v>
+
+00:24:30.370 --> 00:24:35.800
+<v Speaker 1>sneak attack. A thief. It was called Blitzkrieg in design.</v>
+
+00:24:37.820 --> 00:24:53.050
+<v Speaker 1>I'm a Johnny at heart. I, I think sometimes I make cards just cause I'm excited to see what crazy things you could do with it. And I think it's one of those cards where I just, I could imagine 8000 fun things to do with it. And so I made it. I think the card being more powerful than than I had intended.</v>
+
+00:24:54.760 --> 00:25:24.890
+<v Speaker 1>Your mouth will is interesting. So Yawgmoth's will. So a lot of times you ask who made judgments Will and this is interesting. I made you of much well, and Mike Ellie made you must well. We both made the card independent of the other. Mike and I did this on recycle as well in in Tempest design, like we made the same card. I know casts like a tiny bit different, but they were very close. My card was very much about casting things her graveyard the same impetus that would lead me to make flashback a little later. I'm not sure where Mike went from. Mike might have been following</v>
+
+00:25:24.970 --> 00:25:32.000
+<v Speaker 1>growth idea. Anyway, he and I made basically the same card, and then Michael just sort of combined them together in the file.</v>
+
+00:25:33.580 --> 00:25:37.350
+<v Speaker 1>What else? Ohh. Karn. Silver Golem. So Karn,</v>
+
+00:25:38.770 --> 00:25:44.010
+<v Speaker 1>he had made a bunch of Cartel Vanguard that let you</v>
+
+00:25:45.340 --> 00:26:09.160
+<v Speaker 1>start the game, the different hand size and maybe different life total, and it gave you, the player, an ability that you had for the whole game. And so we decided at the time when we were doing this, since the weatherlight side was what we were pushing, we were going to make all the Vanguard cards based on whether like characters. And so we had this neat idea for a Vanguard card that animated all artifacts.</v>
+
+00:26:10.870 --> 00:26:27.510
+<v Speaker 1>And so we ended up giving it a car because he made the most flavor sense. I mean, no one made perfect sense, but like, OK, Carn had a tight artifacts. So when we were making these Cardinals, the saga like that card had been very popular and we kind of got swayed. And so we ended up making the card</v>
+
+00:26:29.220 --> 00:26:58.010
+<v Speaker 1>have the same basic ability to animate artifacts, but I was a stick lookers in the story. Karen was a pacifist. He was the gentle giant archetype for those that care about story. And so I knew he needed to be decently because he was a giant column, but I also knew that I didn't want him killing things. So that's when we came up with the whole if he blocks like he's hard to kill, he gets plus 0 -, 4 + 4 thing. So it's hard to kill because he's tough, but he himself doesn't harm things. And I wanted to reflect that.</v>
+
+00:26:59.310 --> 00:27:04.740
+<v Speaker 1>Let's see, Gilded Drake was the same thing that led me to make</v>
+
+00:27:07.810 --> 00:27:32.640
+<v Speaker 1>what's it called the from tricks where you donate and donate wouldn't show up till or is destiny, which was a set that I made my set mobile myself. We'll talk about that one these days. But anyway, I like the idea of you having things that went your opponent, your point didn't necessarily want. And so gilded Drake was me kind of just playing around with, well, here you've got this, but there's there's there's a negative thing that goes with it.</v>
+
+00:27:34.690 --> 00:27:43.800
+<v Speaker 1>And anyway, and plus I like I always like juxtapose. I'd like to exchanging things. So I thought that was kind of anyway, I that was that was one of my babies.</v>
+
+00:27:45.250 --> 00:28:03.170
+<v Speaker 1>Hey, key. So here's the thing I find interesting is sometimes you're trying to make a grandiose big card and you do. And sometimes you're not. You're trying to make just a little dink. And like, I was just trying to make like, oh, well, it's it's this thing and it just lets you kind of reuse your artifacts. And I really wasn't trying to make anything</v>
+
+00:28:04.480 --> 00:28:16.360
+<v Speaker 1>smoking. They're problematic. I was just like, ohh, this kind of cute little card has function. I love open-ended cards. Other cards is like, what are you gonna do with us? Hey, let's make it. Let the players try to figure it out. You know, I, I think that's kind of fun</v>
+
+00:28:18.640 --> 00:28:23.570
+<v Speaker 1>fluctuate or was me wanting to build a deck with</v>
+
+00:28:24.850 --> 00:28:38.680
+<v Speaker 1>cycling? I just thought it was kind of neat that to make a cycling enabler because a lot of cycling cycling didn't require you to play a lot of cycling cards. It really wasn't mechanic where you just splash where you want to. And I thought be neat to</v>
+
+00:28:40.160 --> 00:29:11.200
+<v Speaker 1>say, hey, put a lot of cycling your neck and another of my broken cards. It's funny, by the way, I did not actually pass Richard until Meriden, but I have the loveliest claim of having designed more band slash restricted cards than anybody else in the game. Richard had a good jump, good head start, and Arzaga helped me, but it was mirrored in the put me over the top. I made all six artifact lands for starters. So anyway, fluctuates is another one of my.</v>
+
+00:29:12.440 --> 00:29:14.240
+<v Speaker 1>I love the contribution the city band lists.</v>
+
+00:29:15.840 --> 00:29:32.160
+<v Speaker 1>So what else? A priest of Titania. I think there was a Mike Elliott creation. I know that I was very gung ho on tribal, something I that's part of the Onslaught story. But anyway, I think Mike made that</v>
+
+00:29:32.970 --> 00:30:02.700
+<v Speaker 1>some chance I made it. But I will give credit to Mike because something in the back of my head says that it was Mike and not me. So by the way, one of the things is sometimes as a designer, you remember card you made just cause whatever it tickles your fancy or something about it, you just remember making. And sometimes you don't remember because whatever you make a lot of cards. Sometimes cards like governments will were more than one person's creation. Sometimes cards, one person made it, one person tweaked it. Some people asked me if I've done cards. I know some of them and I kind of know the more famous ones because I've learned</v>
+
+00:30:02.920 --> 00:30:33.150
+<v Speaker 1>went back and look like, for example, I didn't realize the Masonic Texas an interview with me in the do list where I said I didn't make sneak attack. And one day I'm going through the file because what happened was first Osaga. I made cards that I shipped to me because he was a lead. And so one day I'm just going through to see if I look for cards that I've never made and I see Blitz Creek and I'm like, Oh my gosh, I made sneaker tag. I'd completely forgotten about it. And The funny thing, that's my kind of card, you know, but I just didn't remember and it wasn't. So I went back and looked at my file that I handed in</v>
+
+00:30:33.280 --> 00:30:37.810
+<v Speaker 1>and I'm like, ohh, yeah, I I did in fact make these cards and that happens a lot.</v>
+
+00:30:38.680 --> 00:31:08.620
+<v Speaker 1>Anyway, I'm pulling into the parking space here at work. So I hope you guys had fun today chatting about Asaga. I didn't even get to OK, I will finish my story. I will sit in my car to finish the story. The one final piece I did not talk about which was the set broken half and exploded and made combo winner and cause all sorts of problems with magic. It's the one and only time that we ever got chewed out by the CEO and threatened to. We were told that if the set if we did</v>
+
+00:31:08.690 --> 00:31:39.090
+<v Speaker 1>and again, we were going to be fired because it really, I mean it, we broke magic in half. And I mean, to be fair to Peter, who does he go? We are indeed need to do better or the saga. I mean, there's a lot of exciting ideas. We made a lot of cool cards and the big picture things, the block and the set is chock full of powerful things. But it is one of the things that led us down the path to realize is we need to sort of change how we did development. I think it directly led to down the road</v>
+
+00:31:39.200 --> 00:31:41.260
+<v Speaker 1>getting people like Randy Bueller,</v>
+
+00:31:43.270 --> 00:31:58.760
+<v Speaker 1>Mike Donahue, and eventually, you know, that place and like turning in Eric Lauer and the whole idea of getting people off the pro tour that are established people with a proven track record to figure out what's broken, how to fix it and stuff like that. But anyway,</v>
+
+00:31:59.800 --> 00:32:04.910
+<v Speaker 1>we did. We got Collins office, we got yelled at. It is one of the lows for me.</v>
+
+00:32:06.500 --> 00:32:17.050
+<v Speaker 1>Like I said, I've never been that much of a developer, even when I was a developer. At least I take it back. I'm a good developer. I'm not gonna power level. I'm not going to that style of development. And so I did not</v>
+
+00:32:18.460 --> 00:32:33.890
+<v Speaker 1>or or the side might be the all time low point for development in Magic history. So being on the development team, I just have to own up and say, I think there's some fun design, I think there's some bad development. I'm responsible for some of each. So I will own up for that.</v>
+
+00:32:34.680 --> 00:32:40.110
+<v Speaker 1>Anyway, work beckons, uh. So I hope you enjoyed my chat Honors of Saga today.</v>
+
+00:32:41.590 --> 00:32:49.720
+<v Speaker 1>And because it was raining, I think you got a little extra bonus material. So anyway, I gotta go because it's time to make the magic cards.</v>
+

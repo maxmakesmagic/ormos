@@ -1,0 +1,227 @@
+WEBVTT
+
+00:00:01.550 --> 00:00:07.780
+<v Speaker 1>OK, porn on my driveway. We all know that means it's time for another drive to work.</v>
+
+00:00:08.640 --> 00:00:30.610
+<v Speaker 1>OK, so today one of the questions I get asked a lot because I do a lot of interviews, is what is my biggest contribution to Magic? Now I've worked for 17 years on Magic, 10 of which I've been head designer. And so people want to know what do I think is the biggest influence I've had on the game?</v>
+
+00:00:31.810 --> 00:00:53.100
+<v Speaker 1>And it's a tough question to answer. I've obviously I've done a lot, but I think the thing that I always the answer I give is the player psychographics, which is you guys might know is Timmy, Johnny and Spike. So today I was going to talk about where the player psychographics came from and explained in a little more detail because I feel like</v>
+
+00:00:54.610 --> 00:01:24.100
+<v Speaker 1>I feel like they're not completely understood. I mean, I think people get the general gist of them, but I want to sort of talk a little more behind the scenes today. So let's start by saying what are psychographics and where do they come from? Because one of the things I always said is when I got to R&amp;D, that R&amp;D was very based on math, that most of the people who were working on it, you know, Richard and Scaff and Jim and all those people were math people. They've studied math and that</v>
+
+00:01:24.520 --> 00:01:56.410
+<v Speaker 1>the game had a lot of math influence on the way it was created. And I kind of brought psychology to the picture. One of my lines is that I kind of shifted shifted R&amp;D's thought process from math to psychology. And so let's let's talk about sort of what psychographics mean and how they impact what we do. OK. So for those who might not know, I went to college at Boston University, specifically Boston University's College of Communication. And in the communication, they broke up the school into 3 sections.</v>
+
+00:01:56.490 --> 00:02:02.220
+<v Speaker 1>Now I went to the broadcasting film section. That's where we got to watch films and TV shows. And as our class</v>
+
+00:02:03.710 --> 00:02:33.170
+<v Speaker 1>there also was a journalism section. And finally there was a advertising and PR section. Now part of being in the school was you had a until you declared a major and stuff. You had to take stuff from all all three parts of the school. So I had to take classes in journalism. I had take classes and advertising and in advertising I learned about a thing called a psychographic. What is a psychographic? Well, the idea is if I'm going to sell you something, I need to understand why you need the thing, not just</v>
+
+00:02:34.580 --> 00:03:04.180
+<v Speaker 1>not just on a practical level, but sort of on a psychological level, like what exactly is this product doing for you? Why do you want this product? And 2nd have proved really important because if you're trying to sell something, something, something, trying to sell something to somebody, you need to understand why exactly do they want it? And on a deeper level than, oh, I'm selling food. Will they get hungry? Sometimes it's like, well, why my food? Why this? What does it do? And a lot of it really dug deep into</v>
+
+00:03:04.380 --> 00:03:35.060
+<v Speaker 1>kind of what do, what do humans need? What do they want? And so one of the things that happened when I first got to Wizards is that I think in the back of my head, I was very interested in, well, why do people play magic? Like one of the jobs of a designer and a developer is we're trying to create fun. Now that is a very fun, you know what, what is fun? I mean, that's tricky. Like we're trying to create an emotional response. Well, how do we create emotional response?</v>
+
+00:03:35.190 --> 00:04:05.660
+<v Speaker 1>We have to understand the psychology. So when I first got there, we understood at the time we just called it the tournament player. We kind of got the mindset of I play, I wanna win, I'll play with the best cards, kind of who would later go on to call Spike. But we kind of got a general sense of that person that was the most obvious player because you could go and see them internments and just they were very, very visible and understandable. And so in the early days, we understood the tournament player as we called them.</v>
+
+00:04:05.750 --> 00:04:31.470
+<v Speaker 1>Yeah, it's funny cause Spike actually goes way beyond just the tournaments. But at the time it was like, ohh, there's the tournament players. And I think in the back of her head with the idea of, well, there's, you know, the casual players, but we didn't really think in terms of psychology. And so during Tempest, I made a card. I remember what card it was. I made some card. And somebody in the meeting, Mike or somebody said, I don't know, I don't think that would ever be any good. And I said, well, you know,</v>
+
+00:04:32.230 --> 00:04:54.120
+<v Speaker 1>I think there's a player out there. I'm gonna call him Timmy. And you know what? When Timmy opens his pack, he, his eyes are going to bulge out and he's gonna get really excited. And you know what? Timmy will be happy to put this in his deck. And when Timmy gets the casting, he'll be ecstatic. And when he gets to attack with it, he'll be more ecstatic. And then this card isn't for the turn player. This cards for Timmy</v>
+
+00:04:54.810 --> 00:05:22.020
+<v Speaker 1>Um, and then later on I did the same thing for, for Johnny. I said, you know, I think there's another player I'm gonna call him Johnny. And then the for a while was Timmy Johnny in the tournament player. And then finally the brand team said, OK, look, we need a name for this guy. We're gonna call him Spike. And so the brand team actually made him Spike. So let's I want to walk through what really Timmy and Johnny Spike mean though. OK, so let's from the technological standpoint. OK, so I'm going to start with,</v>
+
+00:05:23.490 --> 00:05:46.440
+<v Speaker 1>I'll start with Spike. I normally start with Timmy, but start with Spike because in some ways Spike is the first one we identified. So what is Spike? Well, the idea is that people want I talk about Spike wanting to prove himself. And what that means is that to each person, the game fulfills some psychological need.</v>
+
+00:05:47.750 --> 00:06:17.890
+<v Speaker 1>And I believe for spikes, the second lecture need is that people need to be able to prove themselves that it's very important to say, hey, this is who I am as a person. This is what I'm capable of. And so the way you tend to prove yourself is you tend to find some area where you excel and then you could show people, look, I excel in this area, you know, and it's a way for people to find, to find self worth because everybody</v>
+
+00:06:17.960 --> 00:06:48.060
+<v Speaker 1>kind of wants to feel like special in some way. And so I think the spikes, look, the game is a means by which they get to prove themselves. And what that means is that they can say, look, I'm able to look at this and in some way find mastery in it. Now, The funny thing is spikes don't have to necessarily just win. That's the most common kind of spike. But the mindset that we're talking about for spike is I use the game as a benchmark to demonstrate what I'm capable of.</v>
+
+00:06:48.280 --> 00:07:18.290
+<v Speaker 1>Now. You could be a spike in collecting, you could be a spike in story, you could be a spike in, you know, whatever aspect you want. The key is you need to dominate in that area and show look what I can do. Look how look how I'm able to excel in this area. Now for most spikes, that is understanding the game now. But even then, by the way, there are spikes to excel at building that there are spikes spikes that excel at at making things better. There's spikes that excel at</v>
+
+00:07:18.360 --> 00:07:48.340
+<v Speaker 1>understanding the meta game. The spikes that excel at have game play, you know, and that each spike finds some area that is important to them, you know, and that probably there might be multiple areas. But when you cut to the bone, there's something the player says. This is where I'm going to try to prove my I can excel. You know, I know a lot of players do that with drafting that I'm going to be the best drafter possible. You know, there's people who do that with deck building. There's people that do it with meta game call. You know that it's a lot, you know, or just</v>
+
+00:07:48.410 --> 00:08:02.470
+<v Speaker 1>understanding the history of the game. I mean, different spikes try to excel in different ways, but the important thing is that there's a means by which they can excel. So what does that mean for us, the designers? Well, what it means is that</v>
+
+00:08:03.600 --> 00:08:34.270
+<v Speaker 1>does spike loves best a card that says, hey, with skill, this car becomes better, you know, so cars that use resources, for example, tend to be very spike friendly. You know, I can trade resource why for we source Z? Well, when do I want to do that? Spikes also like modal cards, cards that give you choices, because the better you understand the choices, the better you can play. Spikes tend to like stuff where like fact or fiction, where</v>
+
+00:08:34.340 --> 00:09:04.560
+<v Speaker 1>there's decision making to be made and there's errors that can be made, so the better player will better make the decision. You know, Spikes also tend to like synergy. They tend to like things in which if you understand how to combine things, there's more power that comes from that. But the key to spikes and understanding spikes is, look, each one of us as an individual, as a person, has a need to to prove that we were doing something here on the earth. We have some function, we matter in some way,</v>
+
+00:09:04.660 --> 00:09:26.890
+<v Speaker 1>and that is what the Spikes are doing that they're finding some way to tap into, hey, look what I can do and understand that different spikes will do that in different ways. And part of being a designer and designing for Spike is understanding that and giving a lot of resources for that. So one of the questions is how about New World Order? Is New World Order underpinning that underpinning? But</v>
+
+00:09:28.240 --> 00:09:58.260
+<v Speaker 1>does that stopping us from serving what we need to do for the spikes? And the answer is no, in my mind, because a lot of what we're doing is making things planner and simple to understand. We are not trying to undercut the strategy of the game. We're not trying to undercut the synergy of the game. We're not trying to undercut, you know, just understanding how to use the tools better. But we're trying to do is make it cleaner. And that what we don't want to have happen, the kind of spike that we're not happy with is the one that says, I understand the rules better and I'm going to abuse them in ways that you don't understand.</v>
+
+00:09:58.350 --> 00:10:28.480
+<v Speaker 1>And that's why I will prove my dominance kind of rule lawyering or, UM, system exploiting. I mean, those kind of spikes, yes, we were going after because we want the game to be about playing and we want everybody to understand the game. We want the spikes who try to maybe they understand how to use the game better. They understand the strategy better. There's plenty of ways to get really good at magic. Magic has tons of decisions. So it's not like we're taking away the ability to prove yourself. We're not. I mean,</v>
+
+00:10:28.990 --> 00:10:54.350
+<v Speaker 1>the Magic is a complicated, complex game. And I mean, we were trying to make it easier to grasp the understanding of it, but we're in no way trying to make the strategy any easier because it's not going to be, you know, here's a game in which you have thousands of cards and you pick 60. That's a complex game. And the decision making and every game is very complex. You make a lot of decisions every game. And so that is not something that is going to be leaving.</v>
+
+00:10:56.080 --> 00:11:25.720
+<v Speaker 1>OK, let's get to Timmy. Actually, no, let's get to Johnny. We're the same to me for the end. So Johnny, another important part of just humanity is that one of the other ways people help create identity is by showing what they can do. One way to get an identity by proving something, by showing dominance in something. But another way is by being creative is by having artistic element</v>
+
+00:11:25.790 --> 00:11:55.780
+<v Speaker 1>of of sort of producing or creating something. You know, all humans need to make art on some level. All humans need to do some creative process because there's something about look what I did. You know, it's funny because one of the things you understand about psychology is look at little kids. Little kids are human beings without the filtering that that education and civilization comes on them. You know that kids have this need to show you their picture. Look what I did. You know, just like kids,</v>
+
+00:11:55.850 --> 00:12:25.730
+<v Speaker 1>they need to say they won't show what they've done, that they wanna show their dominance and something they want to show what they were capable of doing. And just like a little kid has to show you their painting, you know, their little crayon drawing. Humans need to do that. That, you know, you as a human need to sort of say, hey, look what I can do. Look how I can express myself. And John, these are the one in which the game is a means of expressing themselves. Well, how do they do that? There's a bunch of different ways. The biggest way is deck building</v>
+
+00:12:25.860 --> 00:12:53.820
+<v Speaker 1>because deck building. 1 of the things I talk about in the game in general of Magic is that in most games the game exists and you just play with the game. The game is what the game is. You know, Monopoly is Monopoly, but Magic, you come into it and you get to shape the game. You are a game designer. And that when I play, I get a craft that kind of game I want to play. And when other people play against me, they see what I've done, what I've crafted,</v>
+
+00:12:54.490 --> 00:13:24.810
+<v Speaker 1>you know, and a big part of the social element of Magic is seeing the other person's deck. And when you see something you're impressed by, you tend to say, wow, that's really neat. I really like that. And you tend to express to other people that you're impressed by their deck. And that is a big part of what Johnnies want is that self-expression. Now be aware there's other means of self-expression. You know the tokens you use or you know how you present yourself for your deck. Or I mean, there's many ways to show creativity.</v>
+
+00:13:25.190 --> 00:13:39.350
+<v Speaker 1>I think deck build is the most obvious. So when we talk about Johnny, we tend to get in there. But in general, what Johnnys want is the idea of showing what they can do. So how do you design for Johnnies? Well, the key designing for Johnnies is open endedness,</v>
+
+00:13:40.760 --> 00:14:10.940
+<v Speaker 1>a lot of modularity of things clicking together. And one of the things that's funny is I mean, I'm a Johnny and people don't know that, but I'm a hardcore Johnny. So I tend to love to design with a very Johnny sensibility that I love open-ended things. I love making cards work. I'm not quite sure what you'll do with this, but I know we can do a lot. I love what I call Swiss Army cards where, wow, this card can do all sorts of different things. And to me it's a lot of fun when you make a card and people go, oh, what am I going to do with this? And a lot of the Jimmy Carter,</v>
+
+00:14:11.010 --> 00:14:41.370
+<v Speaker 1>you know, the most Johnny are kind of like, here's a challenge, see what you can do with this. And these are the two biggest kind of Johnny cards. One is the utility knife cards where it does a lot of different things and you gotta figure out what to do with it. And the other is the kind of the challenge card of here's a weird thing. Can you make Can you make a deck with this? What can you do with this? And I think at the heart of heart, Johnnies are very much about wanting to to demonstrate, to show you the Cran drawn</v>
+
+00:14:41.500 --> 00:15:11.730
+<v Speaker 1>on a gut level. And you know, like I said, all these with spikes with Jonathan Timmies, all of this is human nature. Everything I'm talking about is in every human. Every human is a need to prove dominance. Every human is a need to express themselves. Every human that needs visceral thrills I'll get to in a second. But all those are things humans need. All I'm talking about is what does magic bring for you? Which basic need are you looking for in magic? And note, some people look for more than one. That's why there's hybrid, you know, there's</v>
+
+00:15:11.820 --> 00:15:23.520
+<v Speaker 1>Jimmy John's and Johnny Spikes and you know, there's not like it's necessarily pure. And I would argue that all three of these things I'm talking about, all people have some level. It's just weird. What do you most look for in the game?</v>
+
+00:15:24.550 --> 00:15:37.580
+<v Speaker 1>OK, so we get to Timmy's. Well, another part of the human experience is this need to experience something that you're on this earth and you're like, why am I here? You know, a big sort of</v>
+
+00:15:38.890 --> 00:16:08.850
+<v Speaker 1>philosophical question is what am I doing? What is my purpose? And one of the things that humans come to realize very quickly on is that there's a lot of purpose and experience. There's a lot of purpose in, in being in doing something. You know, why do people jump off bridges with bungee cords or jump out of planes or do all sorts, you know, white water raft or could they Cause there is something about having a visceral thrill that feels good. You know, for example, our body has a has chemicals</v>
+
+00:16:08.930 --> 00:16:25.730
+<v Speaker 1>that, you know, when you do certain things create pleasure for you, you know, and that one of them is adrenaline, that there is a rush of adrenaline, you know, and that that part of the Timmy experience is saying, I want to experience these</v>
+
+00:16:26.640 --> 00:16:56.750
+<v Speaker 1>these experiences, these chemicals, these emotions, you know, I want to experience things, you know, and there are a lot of different ways to experience stuff. I know we tend to get off of the giant creatures. Like I think each each psychographic has its stereotype, right, And that people wanna know the power gamer sort of the Timmy stereotype. And people want to think of Timmy as just being. I just like big things and I've dealt with big things and that is what sometimes like that, you know, I mean, there is some real excitement of just</v>
+
+00:16:56.880 --> 00:17:26.960
+<v Speaker 1>casting a giant creature or attacking with it or playing the spell that just major damage. There is a real visceral thrill that comes with that. But there are also the visceral thrill with just hanging with your friends and just bonding with them and and, you know, politics, you know, doing politics or, you know, just having an experience in which you're really in the moment, you're in the Zen, you know, you're in the flow. And that that is very important for a lot of other players. And then this is the Timmies where they're like, I wanna live, I wanna experience things. I wanna, I wanna,</v>
+
+00:17:27.280 --> 00:17:56.970
+<v Speaker 1>you know, I wanna feel something, you know, and that that's what the times is. How do you make cards for Timmies? We'll just figure out the kind of stuff they like. Like what? What creates visceral thrills? Part of it is creating giant things. Part of it is doing cool things. Part of it is right weird synergies is fun when they happen. Part of this is randomness and I was not knowing what's going to happen. And that, you know, there is great joy in just</v>
+
+00:17:57.280 --> 00:18:27.380
+<v Speaker 1>experiencing something and not knowing where it's going to go. You know, I talk, I mean, one of these days I'll do a podcast and randomness. I did an article on it. But you know, one of the reasons we have coin flipping is there people that are like, I I want to play cards. I don't know what's going to happen. You know, we make a lot of wacky, especially rare red cards that like, okay, chaos time, what's going to happen? You know, and there's plays that really get off and because it's fun, they, you know, those people who don't want to know where the game's gonna go. You know, there's other people who know completely with the games go and you know,</v>
+
+00:18:27.500 --> 00:18:32.570
+<v Speaker 1>they wanna make this crazy thing happen and it's just exciting and fun when they have this visceral thrill.</v>
+
+00:18:34.050 --> 00:19:03.800
+<v Speaker 1>OK, by the way, guys of all time, first on my ride to work, drive to work, I need to get gas. So one of the things that I've decided about this podcast is this podcast just takes as long as it takes me to get to work. So if I have traffic, if I have a delay, if I have to get gas, that just means I get to talk more. So you guys get more content. So delays equal more content for you. So let me just set up this gas</v>
+
+00:19:03.890 --> 00:19:07.100
+<v Speaker 1>going and then we can talk more about Timmy, Johnny and Spike.</v>
+
+00:19:08.930 --> 00:19:39.060
+<v Speaker 1>But, uh, I want you to know a lot of people seem to think whether how planned this is. It is not. I literally each day like, OK, usually I do this on Monday and I know ahead of time what my topic is going to be, but I kind of get here in the car and I'm like, OK, and I just start talking. I got to figure out whether you guys want more, more structure or not. Right now I've been kind of winging it. I'm curious to get feedback. Obviously I'm working the way ahead. So</v>
+
+00:19:39.140 --> 00:20:09.470
+<v Speaker 1>as I do this podcast, you guys haven't even heard my first podcast yet. That's how far ahead things have been because it's been taking awhile in my podcast started. But once it does, I will get a lot of feedback and I'm very eager to hear what you guys have to say. So part of me doing this podcast is to try to give something to all of you and give you an experience of a of a podcast that something you don't have before. So anyway, I've talked about Spike and Johnny and Timmy that each one at the core is trying to say, Hey, we the designers.</v>
+
+00:20:09.550 --> 00:20:39.490
+<v Speaker 1>Trying to make the game fun. How do you make the game fun? But we have to answer a basic human emotional need. If we do that, that's where fun comes from. Fun comes from like of proving the dominance of expressing yourself, of finding that visceral thrill and that that is what time Timmy, Johnny Spike are about. So let's talk about Borsos and Melvin, because a lot of people like to think of them as psychographic profiles, but they're not. I think they they. So</v>
+
+00:20:39.720 --> 00:21:09.510
+<v Speaker 1>why aren't they? Because what they're talking about is not the emotional. You're not answering an emotional thing. It's more talking about an aesthetic, which is when I play, what aspects of the game do I connect to? And so the idea of the and the reason is this is a spectrum is that the Bothos is saying, look, you I enjoy about the game. I enjoy the emotional aspect of the game,</v>
+
+00:21:09.720 --> 00:21:40.020
+<v Speaker 1>meaning that I want, I want to experience the game emotionally. I that I when I see a card and it sort of all fits together, that's where I get my satisfaction. That's where my aesthetic lies. I love the overall feel of the game. Now, the other end of the spectrum, the Melvin and says, you know what you're I enjoy, I enjoy intellectually observing this game. I enjoy sort of understanding it from a a purely thought level, you know,</v>
+
+00:21:40.110 --> 00:21:40.550
+<v Speaker 1>and that</v>
+
+00:21:41.770 --> 00:22:07.900
+<v Speaker 1>both things are good, but different people get off on the game in different ways and the aesthetic of the game that they appreciate is different. You know, the the pure Morphos is all about doesn't make sense flavor wise because it's like, what's the essence of this? And you show them a card that doesn't mean, but it doesn't hold together from a flavor standpoint. They're like, oh, well, this just doesn't happen to my aesthetic. I get it. I understand the game needs it, but this is not what makes it shine for me.</v>
+
+00:22:09.490 --> 00:22:39.460
+<v Speaker 1>Whereas something like Melvin, they really get off on understanding the the essence of what is going on. You know, they very much want to, they very much want to like appreciate the nuance of the design itself. Not necessarily what the card represents in a larger context, but what it represents in the game. You know, for example, sometimes a designer, I make a card that's just doing something clever. It's making use of the resources</v>
+
+00:22:39.560 --> 00:23:01.770
+<v Speaker 1>in a way that is neat. Oh, wow, you're using this kind of resource, this mechanic to do that. That's a very interesting use of the resource. And a Melvin who approaches the game very intellectually is able to go wow, I that is aesthetic for me is very exciting. I love what you're doing with the game as a game. Meanwhile, the portfolios, they see something like, you know,</v>
+
+00:23:02.660 --> 00:23:22.950
+<v Speaker 1>name of dragon, like, ohh, I get it, you are becoming a dragon. Oh my God, all these pieces come together and get it, you're a dragon. And they really enjoy that. OK. And so that is the specter we're talking about with horses. And Melvin is kind of like, what is your aesthetic of the game? Where's your appreciation of the game? But, and This is why they're not psychographics.</v>
+
+00:23:24.240 --> 00:23:54.630
+<v Speaker 1>Your esthetic has to do with where you find what you look at for the game or how you appreciate the game. It doesn't provide the emotional standpoint. And, and my example for their is you can have a Timmy Porthos, a Johnny Porthos or a Spike Porthos. Let me examine. OK, so the Spike Porthos wants to prove dominance. So what do they do? Oh well, they're all about proving in this area. I'm dominant, I'm good. So a spiked Orthos</v>
+
+00:23:54.750 --> 00:24:25.160
+<v Speaker 1>understands as much as you can about the flavor, about the story, that when he meets somebody else, he's the dominant 1. He understands this better than they understand it. Now Spike Porthos will meet on the flavor text and learn about it and and study and like, do everything you can to try to get that edge, to show that he understands story or flavor better than others. A Timmy Porthos is someone who just gets off on the visceral thrill of the, you know, the the elements of it.</v>
+
+00:24:25.260 --> 00:24:55.110
+<v Speaker 1>They might get really into the art and spend a lot of time on the yard and justice, enjoying the element that just really brings to them something that's exciting and visceral. You know, Now the Johnny Burgos is the ones who want to show how they can express themselves through this field. So, for example, a very Johnny further thing to do would be I'm going to build my deck based on elves or based on the Wizard of Oz or something in which I can say,</v>
+
+00:24:55.260 --> 00:25:25.280
+<v Speaker 1>ohh, look, I'm doing this thing and I like, for example, I know a friend who had a Wizard of Oz deck and he used the shatter from Ice Age because that was the best illustration in the game. All the tin Woodman. It is, by the way, you will look at it. But the idea is they were using their knowledge of art in all of the flavor as a means by which to showing their self-expression. Now let's jump to the other side, the Melvin side. You know, I'm saying, well, Spike Melvin, they want to know the rules. They want to know the inner workings of the game.</v>
+
+00:25:25.380 --> 00:25:55.330
+<v Speaker 1>They want to prove their dominance by understanding how things click together and how they work. You know, maybe there's someone who's constantly working on design boards, maybe something whoa, rules guru. You know, they want to prove their dominance in the intellectual understanding of the game. Likewise, a Johnny Melvin is someone who wants to find combinations by having mechanics clicked together. You know, they're the ones that say, aha, I figured out that this mechanic can work in this way and I can cook these things together and do something that has never been done before. Look, see what</v>
+
+00:25:55.400 --> 00:26:11.700
+<v Speaker 1>we've done, you know, and likewise teammate trying to find visceral thrill in not necessarily the flavor of the game, but the mechanics of the game of, you know, for example, randomness or things in which I'm going to make the game do crazy things. Watch, look,</v>
+
+00:26:12.980 --> 00:26:43.150
+<v Speaker 1>many things that are going on, this is fun. I'm making crazy stuff happen, you know, and so the Melvin Porthos, like I said, can be layered over the psychographics. It's an aesthetic scale and it's important. And the reason we have words for it is I like, I'm a big believer in words. I mean, as a quick aside here, one of the other big things I've done, you know, we've talked about my, my biggest contributions to R&amp;D and this is kind of tied into psychographics is I believe I've been very, very helpful in the vocabulary</v>
+
+00:26:43.270 --> 00:27:05.030
+<v Speaker 1>of talking about magic. Because whenever I see a concept that doesn't have a name, I name it. And there's a lot of concepts and magic that have names because I said, you know what, I want to talk about this, I'm going to name it. And then I talk about and I put in my car and then that once you name something, look, it has a name and people can discuss it. And there's great power in words. I mean, people,</v>
+
+00:27:06.220 --> 00:27:28.010
+<v Speaker 1>people don't understand, I think sometimes the value and power of words, because if you don't have words for something, you can't discuss it. You know, there's a lot of things in our society that certain concepts can't even be believed or they're hard to believe because there aren't the words to discuss those things. And I've tried very hard to take my ideas and things I think are important in magic and identify them and give names to them.</v>
+
+00:27:28.860 --> 00:27:58.490
+<v Speaker 1>And that's why, I mean, Timmy and Johnny Spike kind of came along. I really just wanted to name these concepts that I wanted to understand. Now, the important thing of understanding the second graphics is I've talked a little bit about what are you as a designer to do with them, But also I think from you, the player, and I think there's also value understanding why you enjoy the game. The reason I shared the Timmy Johnny Spike with the audience wasn't just to give you behind the scenes. It was also like I wanted the audience to understand</v>
+
+00:27:58.600 --> 00:28:11.920
+<v Speaker 1>that there's different kinds of players. One of the biggest problems I find in the game is that two people who have completely different desires out of the game meet. If they don't understand that, it can become a very frustrating.</v>
+
+00:28:13.870 --> 00:28:43.740
+<v Speaker 1>This becomes very frustrating. I mean, let's say one player really wants to prove their dominance and the other player really wants to express themselves. Well, the first guys like this isn't fun. I'm just rolling over him. He's not even trying to build a good deck, you know, And the other guys like, I did this awesome thing and he won't even recognize he did this cool thing. You know, he needed players happy, you know, and that once you start to understand what kind of players are out there, I feel like that's gone a long way to making players get, ohh, not everybody's like me.</v>
+
+00:28:43.910 --> 00:29:13.970
+<v Speaker 1>And in fact, one of the biggest problems I I, I've, I've come across with player base is it's hard for players to understand that the game is different things to different people because the game is what you experience to be. To you, the game of Magic is that that's what it is. And it takes a while to get that. Somebody else might enjoy the game as much as you do, but for completely different reasons. The things you enjoy, they might dislike the things you dislike they might love</v>
+
+00:29:14.060 --> 00:29:43.990
+<v Speaker 1>you know, and like one of the things about bad cards, right? I mean, I'm sure do a podcast and bad cards, but one of the things at the crux of that whole thing is look, not every card is for you A card you might despise might make somebody else love the game that that is the thing they love most about it. You know, and I know for example, I'll make Johnny cards and we'll do all we do a rare pull at work where people that aren't in R&amp;D rate the card so we can get a sense of what the average player thinks about them. And I constantly have to go and save my</v>
+
+00:29:44.060 --> 00:30:14.150
+<v Speaker 1>tiny cars because they always score low. You know, because the Johnny card is especially the I'm talking about the rare enchantments that do something like what do you do with this? Because to everybody but the the Johnny, not all Johnnies like the Johnny the likes the challenge of figuring out what to do with it. It isn't just a dumb card. Why would they want to do that? But the Johnny looks at the challenge Johnny and he goes, Oh my God, what can I do with that? How do I use that? You know, and they're excited and literally one or two of those cards can make a set for them. But for those of the players, it's absolutely</v>
+
+00:30:14.230 --> 00:30:44.490
+<v Speaker 1>look like why are you wasting my my pack with that junk? And the reality is every card is for somebody. Every card does something, you know, and that somebody might be limited. It might be a different format. You know, there are all sorts of ways to play Magic and that why is Magic going turn 20 next year? Because it is not really one game. It's mini games all under one umbrella. And that all these people can enjoy the same game and have enough bonding and understanding of the rule set they can share. But this one game is mini games</v>
+
+00:30:44.610 --> 00:31:15.200
+<v Speaker 1>and that and then on some side, that is what the psychographics we're trying to do both. So internally we understood how we were building the sets and how we were building the cards. You know, because one of the things I say all the time now is I'll look at a car and I'll say this card is for meant for Spike, but you've designed it for Johnny. And so figure out what you want. Do you want Johnny Carter or Spike card? You know, because you designed the wrong thing. Like, for example, we once had a coin flipping card in which you flipped a coin and you ended up with two things, both of which were,</v>
+
+00:31:15.280 --> 00:31:45.170
+<v Speaker 1>you know, in the right circumstance, decent. And I said, OK, what are you guys trying to do here? You know, if you're trying to do this card for Timmy, you want variance. He wants excitement. He doesn't want two options that are really close. He wants, wow, I can get this. Ooh, maybe I get that this is good. And that's not a good that makes it more visceral excitement car. OK, that's what Jimmy wants, Spike. He likes options. He likes module cars, but he wants to choose. He doesn't want to randomly chosen for him. He wants to make the decision. So you took a card and said, well, we'll make it Part 2,</v>
+
+00:31:45.280 --> 00:32:15.280
+<v Speaker 1>part Spike. And then Timmy doesn't like it and Spike doesn't like it, you know, and understanding the psychographics allows you to sort of make sure you know who the cards for. And then on the flip side, having typographics I think enhances the community because players start to understand, ohh, I can self identify with what I want and what others want. And when I run into somebody, I go, ohh, well I'm a Spike, you're a Johnny. I get why we're not connecting here. And let's see if I can understand what you want about the game. And I really think that it's done a lot to join the bonding in the player base.</v>
+
+00:32:15.390 --> 00:32:34.820
+<v Speaker 1>So I feel like the graphics both helped our design immensely and development and helped our community. So that is why it is my proudest accomplishment thus far in my time here at Magic. But anyway, I'm here and I hope you guys enjoyed the extra extra lengthy episode today. And it's time to go and make the Magic cards.</v>
+

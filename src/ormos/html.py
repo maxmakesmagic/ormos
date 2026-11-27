@@ -20,6 +20,7 @@ MEDIA_ORIGIN: str = _CONFIG["media"]["origin"]
 IMAGE_ORIGIN: str = _CONFIG["media"]["image_origin"]
 MEDIA_ROUTE: str = _CONFIG["media"]["landing_route"]
 FLASH_ROUTE: str = _CONFIG["media"]["flash_route"]
+PODCAST_ROUTE: str = _CONFIG["media"]["podcast_route"]
 FLASH_SCRIPT = "flash-player.js"
 
 
@@ -73,7 +74,7 @@ def render_page(
         f"{SITE_NAME} · {home_title}" if path == "/" else f"{title} · {SITE_NAME}"
     )
     policy: str = _CONFIG["security"]["content_security_policy"]
-    if path.startswith(f"{VIDEO_ROUTE}/"):
+    if path.startswith((f"{VIDEO_ROUTE}/", f"{PODCAST_ROUTE}/")):
         policy += f"; media-src 'self' {MEDIA_ORIGIN}"
     if flash_player:
         # Ruffle fetches movies and injects its own shadow styles and icons.
@@ -88,9 +89,8 @@ def render_page(
         policy = "; ".join(directives)
     section_path = (
         MEDIA_ROUTE
-        if path == VIDEO_ROUTE
-        or path == FLASH_ROUTE
-        or path.startswith((f"{VIDEO_ROUTE}/", f"{FLASH_ROUTE}/"))
+        if path in (VIDEO_ROUTE, FLASH_ROUTE, PODCAST_ROUTE)
+        or path.startswith((f"{VIDEO_ROUTE}/", f"{FLASH_ROUTE}/", f"{PODCAST_ROUTE}/"))
         else path
     )
     # Apostrophes can appear as-is inside a double-quoted attribute.
