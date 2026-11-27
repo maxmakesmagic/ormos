@@ -1,0 +1,392 @@
+WEBVTT
+
+00:00:00.840 --> 00:00:30.940
+<v Speaker 1>I'm pulling out of the parking lot. We all know what that means. It's that another driving to work and interestingly, I'm dropping Rachel off at school and then starting. So what's going on is Rachel is now interning at her old elementary school for her internship, which is right by our house for a long time. Listeners would know that anyway. And so I'm dropping her off, but I'm right by my house. So you should get your full content today. OK. So today I'm picking up on something I do from time to time where I talk about</v>
+
+00:00:31.010 --> 00:00:53.550
+<v Speaker 1>different people. So this is, I've done two previous podcasts on R&amp;D, R&amp;D people. I did first wave of R&amp;D and I did second wave of R&amp;D. So guess what, we're up to 3rd wave of R&amp;D. So this stretches from about Invasion Block to about Lorwyn Block, and I'll walk through all the different people</v>
+
+00:00:54.840 --> 00:01:13.810
+<v Speaker 1>going kind of chronologically, but I'm gonna jump around a little bit because I I didn't bother to figure out exactly who all went in what order, but this is, it's roughly chronological. OK, so the person who I consider to be the first sort of the beginning of the third wave of R&amp;D is Randy Bueller.</v>
+
+00:01:14.490 --> 00:01:27.240
+<v Speaker 1>So here's what happened. Let me set the scene. So Urza's Saga comes out and remember, we work ahead. So Earth Desire comes out and it goes badly for us, very, very badly. We</v>
+
+00:01:28.090 --> 00:01:57.860
+<v Speaker 1>it is clear that we did not have the development shops that we needed. You know, Urza saga block was broken beyond belief. For those who know the story, we got called to the office, Arnie got called to the office of the president, got chewed out, threatened. That happened again. We get fired. And anyway, we decided we didn't needed to do something to sort of help the problem. And one of the ideas was, look, let's start being more aggressive about hiring people that are really good at sort of</v>
+
+00:01:58.540 --> 00:02:28.800
+<v Speaker 1>understanding magic systems, breaking magic system, sort of like let's upgrade our level of developer. Now, Henry Stern, who is the Wave 2, was definitely someone from the Pro Tour. So it's not like we had never ever taken someone from the pro tour. But we realized we needed to do more of that, that a lot of the developers at the time really weren't people that were, you know, we, me and Mike Elliott and Bill Rhodes, we learn a little bit more toward designer than developer. And so we needed to get some hardcore</v>
+
+00:02:28.870 --> 00:02:51.730
+<v Speaker 1>helpers. So Bill had asked me if I knew anybody that I thought would be good. And I recommended a couple of people. In fact, I recommended three people at the time. I recommended Randy Bueller, Mike Donna, which we'll get to in a second, and Brian Weissman, who's never worked for R&amp;D, but a long time Magic Pro. And it was, I think we were going to a US Nationals. It was that Gamma</v>
+
+00:02:53.290 --> 00:03:05.190
+<v Speaker 1>is that Origins. Origins is a big game convention and we were having the US nationals. Anyway, I set up three meetings, one with each of these three people and only one showed up to the meeting.</v>
+
+00:03:06.600 --> 00:03:18.740
+<v Speaker 1>Phillip would chide me for a long time because really these people want a job in Rd. Perhaps they should show up to meetings. Anyway, Randy did show up, he's the 1/3 the showed up. Mike was head judging the</v>
+
+00:03:19.650 --> 00:03:50.920
+<v Speaker 1>was head judging the event and there was a lot of stuff that went on and he ended up missing his meeting. But I, I later said of a meeting, actually Bill Rose came to my house to interview Mike. We'll get to that in a second. Anyway, so Randy was somebody who I got notes of the pro tour. I thought Randy was smart guy. He was interested in working in R&amp;D and I thought that he had a good mindset for being able to make designs and, you know, sort of help bring this to the next level of magic development. And he started on invasion.</v>
+
+00:03:51.030 --> 00:04:17.480
+<v Speaker 1>And, um, I remember one of the things that Randy did was he was trying to convince us that our dual lands weren't good enough. And he was trying to get us to put the, the tap lands that come into play tapped tap for, you know, white or blue. I mean, obviously lands now that are like laughably below the level that we should be making. I mean, we make them. I mean, they're not the top tier of the bottom tier. And Randy was fighting that that was OK with us. That's OK. And we like, I don't know, that might be too good.</v>
+
+00:04:19.040 --> 00:04:40.430
+<v Speaker 1>But anyway, Randy came and Randy grew up through the ranks. Randy eventually would become head developer, then he would become a director of R&amp;D. He would later go on to become a VP of some digital stuff. And but anyway, so Randy was the very first person and Randy worked on a lot of stuff. He,</v>
+
+00:04:41.620 --> 00:04:54.150
+<v Speaker 1>I think the first, I think the first set that he led the development for I think was Odyssey. I let let the design and then he led the development. Anyway, he worked on Magic for many, many years</v>
+
+00:04:55.340 --> 00:04:56.280
+<v Speaker 1>and</v>
+
+00:04:57.460 --> 00:05:19.970
+<v Speaker 1>let a lot of sets, like I said, did a lot of different things. Mike Donahue. So Mike Donahue came from that same sort of initial meeting, although Mike, for various reasons, started a little bit later than Randy. But anyway, Mike was another person we brought in that just was someone who had a lot of experience. He had been involved very heavily in judging. Like I said, he was the head judge of the</v>
+
+00:05:20.770 --> 00:05:33.020
+<v Speaker 1>the US nationals of that one Origins. And so Mike came have a lot of experience with organized play. You knew the rules really well and also with a very strong and good developer.</v>
+
+00:05:34.500 --> 00:05:42.580
+<v Speaker 1>All the all the people, by the way, both of them were brought in at the developer and mostly to development. But we did occasionally have them on design teams and stuff.</v>
+
+00:05:44.230 --> 00:05:44.980
+<v Speaker 1>Know that</v>
+
+00:05:46.350 --> 00:05:55.420
+<v Speaker 1>Randy, for example, was on the design team. I know for Betrayers of Kamigawa, he's on a few others and Mike Donahue was on the design team for Onslaught</v>
+
+00:05:57.400 --> 00:06:27.150
+<v Speaker 1>also when Randy came not too long after Del Lago, who is our editor and still is our editor, the head editor for Magic, Randy Dell married. So there was an editor job that opened up at the time. Editing was not yet part of R&amp;D at this time. One of the things you'll see as we go through this is this is a period of time where and you start picks up more parts.</v>
+
+00:06:28.390 --> 00:06:39.780
+<v Speaker 1>At the time, design development were under R&amp;D and during the course of these years, editing will get picked up become part of R&amp;D and the creative will get picked up become part of R&amp;D. So</v>
+
+00:06:40.800 --> 00:07:10.890
+<v Speaker 1>anyway, Dell, Dell technically did not start working in order start working editing, but eventually editing became part of R&amp;D and Dell has been the head editor for Magic for many, many years now. She is one of the old timers in in R&amp;D and she, she's awesome. She, she, she really, really likes the, like, she has a perfect skill set to be an awesome editor and that she, she's great attention to detail and she remembers things like,</v>
+
+00:07:11.150 --> 00:07:21.080
+<v Speaker 1>you know, we'll make a decision or something. She's like, ohh, well, four years ago we made this one card that did this thing, shouldn't you know, and and she asked really good questions and and and Dell is very thorough.</v>
+
+00:07:21.850 --> 00:07:51.880
+<v Speaker 1>OK, also during that time, so we were trying to pick up more people off the pro tour to be developers Matt place. So Matt had won the pro tour mites that the one held in a castle. And I remember we were at a world championship in Berlin, I believe, when Matt came out to Matt, Matt and I had been friends and Matt said that, you know, he was interested in working for Wizards. And so I lined up the interview and he did great and Matt came and worked for us and Matt, Matt and I, for example, were Matt helped me. We were the Co creators</v>
+
+00:07:51.950 --> 00:07:58.990
+<v Speaker 1>of New World Order. Matt LED a whole bunch and worked on a lot of development teams. Led a bunch of development teams.</v>
+
+00:08:00.390 --> 00:08:07.470
+<v Speaker 1>I know for example, he led Eventide, he led, he led a whole bunch of stuff I'm blanking on such that he led.</v>
+
+00:08:09.240 --> 00:08:11.000
+<v Speaker 1>I think he led, for example,</v>
+
+00:08:14.670 --> 00:08:21.130
+<v Speaker 1>does he rise of the Eldrazi? I think he let rise of the Eldrazi. Anyway, he he let a lot of different sets and Matt was</v>
+
+00:08:21.990 --> 00:08:35.150
+<v Speaker 1>Matt Matt a really good eye for understanding players and understanding kind of what what would be interesting, what would be fun. I had a great time working with Madame. He's obviously still a good friend, but</v>
+
+00:08:36.090 --> 00:08:59.660
+<v Speaker 1>he was, he was, he was awesome to work with. Another pro that we brought in was Mike Turian. So Mike Turian won a team event, one of the team events that was in New York, that was in Madison Square Garden. He won with Potato Nation, which was him, Gary Wise and Scott Johns. Scott Jones would later work for</v>
+
+00:09:00.920 --> 00:09:02.580
+<v Speaker 1>the online team to run the website.</v>
+
+00:09:03.380 --> 00:09:05.900
+<v Speaker 1>Um, Terrian was</v>
+
+00:09:06.660 --> 00:09:18.590
+<v Speaker 1>one of the best, if not the best drafter of all time. He really had a great insight into sort of how drafting worked and did a lot to advance kind of our technology and how we thought about draft and how we thought about limited,</v>
+
+00:09:20.300 --> 00:09:30.750
+<v Speaker 1>you know, and he he led numerous sets as well, future sites, the one I remember, but he be let a whole bunch of sites he led. He would literally scared the mirrored in anyway. He would lead a lot of sets.</v>
+
+00:09:33.590 --> 00:10:04.060
+<v Speaker 1>OK, I'm I'm not going in in order, but I just, I'm, I'm pulling from similar periods. So Eric Lauer is comes into the tail end of this. But Eric Lauer was another person who we knew off the pro tour. I think Randy brought him in. Eric Lauer was, Randy was on a team. Randy and Mike turning and Eric Lauer were on a team at one point called CMU for Carnegie Mellon. A bunch of them had gone to Carnegie Mellon and not all of them did, but it was called team CMU and they're all together and Eric Lauer,</v>
+
+00:10:04.170 --> 00:10:34.350
+<v Speaker 1>who obviously the head developer right now is was one of the top ten deck builders are all time these to call them the mad genius. Eric is insanely, insanely smart, super analytical, just doesn't like hard math in his head. I compare him sometimes to Sheldon from The Big Bang theory and that he's he's just crazy smart. The interesting thing he and I always get into it because I'm the area that he's not as strong on is psychology.</v>
+
+00:10:34.440 --> 00:10:52.290
+<v Speaker 1>And so we always get into the math versus psychology fights about, you know, what is something versus what it is on paper versus how it's perceived. But anyway, Eric is insanely talented. He is one of the major players right now in Magic and like I say,</v>
+
+00:10:53.770 --> 00:11:18.300
+<v Speaker 1>he there's a whole all source of sets that that he is run. The first set I think he did, he did a one of the core sets and then the first small set he did was mirrored into sieged. And then he did invasion, Invasion. He did Interprod and then he and I together. He did return to Ravnica and he and I together did Theros and we did contact here and we did battle for Zendikar</v>
+
+00:11:19.080 --> 00:11:20.200
+<v Speaker 1>and</v>
+
+00:11:21.660 --> 00:11:54.360
+<v Speaker 1>he, he and I both I Co led the design for Coward actually called the development for Cadash. Anyway, Eric has had his hands all over stuff and obviously an amazing developer. Next, Mark Gottlieb. So Mark Gottlieb originally got hired into editing like Dell and he eventually drifted over from editing. He's done a whole bunch of things. He spent a long time as the rules manager. He spent a while being a developer sort of focusing on casual</v>
+
+00:11:54.430 --> 00:12:24.510
+<v Speaker 1>play. These days he is more in management. He overseas a lot of the designers, like there's a period of time where I oversaw people, I would do management. And finally they decided that we'd have technical specialists and people specialists. So like my job was to oversee the work of the people but not the people. And then Mark, for example, overseas people. So I'm not worrying about like scheduling or worrying about sort of monitoring people's long term</v>
+
+00:12:24.590 --> 00:12:54.150
+<v Speaker 1>business or career goals, a lot of stuff that you need to do. So Mark manages people and I manages processes and work. I'm making sure that the designs are awesome, but there's a period of time where I did some management. I, there's a lot for me to do and I'm much, much better at the making the material. So that's what I focus on next. Let's say I'm here. Elaine Chase. So Elaine was a longtime magic player.</v>
+
+00:12:54.750 --> 00:13:25.320
+<v Speaker 1>In fact, have you ever seen the first Pro Tour New York video? The very first pro Tour? I interview a woman in line. I'm interviewing people online. See very young me interviewing people. I interview Elaine Chase so you can see young men and young Elaine. Elaine ended up coming working for R&amp;D. She did a bunch of magic. She also worked on a lot of other projects. She was the one that oversaw Harry Potter. I talked about the other day, I was going through the different sets, the different and people because we had so many things at the time. A different person would oversee a brand and she was a big Harry Potter fan, so she oversaw that.</v>
+
+00:13:25.640 --> 00:13:52.670
+<v Speaker 1>She has since gone on to work for brand. She is now the vice president of Magic Brand. So she's done very well for herself. So she's once again very major player in Magic, just not on the R&amp;D side. On the brand side, Brand does marketing and figures out sort of how much we print and all the business ended the decisions next worthwhile part. This is another approach to our player that we brought in actually work from my hometown of Cleveland.</v>
+
+00:13:54.670 --> 00:14:22.890
+<v Speaker 1>Remember Worth contacting me saying he was interested in, I passed it along worth, I talked the other day that Worth used to do a lot of sports games when he was in R&amp;D. Worth transitioned out of R&amp;D and then he ended up we're going to digital and for a long time he oversaw Magic online. And so anyway, we worked with a lot of fun to work with and he he was another long line of people that really had a lot of experience playing Magic professionally and sort of came in with a development eye for it.</v>
+
+00:14:23.730 --> 00:14:54.340
+<v Speaker 1>I'm also, they came in during this time as Aaron Forsythe. So Aaron was originally hired back in 2001 to work on the website. When I first put together, when I was assigned the task of sort of making an official magic website, I was tasked with, I wanted to find someone who I thought would be a good editor. And I had three people I was interested in. Two of them were not interested in doing it and one of them, Aaron, was interested in doing it. So Aaron got brought in and then during 5th Dawn,</v>
+
+00:14:54.670 --> 00:15:20.360
+<v Speaker 1>we came with this cool idea to bring Aaron on the design team so that he could write about it for the website. And the idea was he'd be on the design team and he'd sort of keep track of all the stuff he did. And then we just would have this cool thing and we like pulling in people with different experiences. Aaron was off the pro tour. He actually had he was on a world championship team with John Finkel and who the people on the team</v>
+
+00:15:20.890 --> 00:15:26.940
+<v Speaker 1>blank in the name of people team. But it was a 2000 winning team that Jonathan Goal was the US National champion on,</v>
+
+00:15:28.710 --> 00:15:59.350
+<v Speaker 1>and he also came in second at a team event and then came in fourth I think at a team event. So anyway, he was a Pro Tour player. We had brought him originally to do the online media stuff, but then we brought him. We said, hey, let's put him on a design team. And then he did amazing, amazing. He invented sipped on, Scribe was his, Sunburst was his. He just came up with a lot of material that was really good and we saw a lot of potential in him and I wanted to bring him on to R&amp;D</v>
+
+00:15:59.420 --> 00:16:01.680
+<v Speaker 1>few more design work. So for a while</v>
+
+00:16:02.970 --> 00:16:10.550
+<v Speaker 1>he was he was shadowing me to try to be the next sort of, you know, to be do do major design work and then</v>
+
+00:16:11.970 --> 00:16:19.290
+<v Speaker 1>in the whole in development. And he ended up, because Randy ended up, Bill moved from being the director of R&amp;D to being</v>
+
+00:16:20.920 --> 00:16:41.560
+<v Speaker 1>the VP. Anyway, Randy ended up becoming the director and there's a vacancy in development. So Aaron ended up becoming a developer. But then Randy went off to become the VP of digital. There's another hole and he became the director. So Aaron got hired to run the website. And by the time the dust settled, he is the director of Magic R&amp;D, the senior director now</v>
+
+00:16:42.830 --> 00:16:57.700
+<v Speaker 1>anyway, Aaron, I, I can't, Aaron let a lot of stuff and worked on a lot of stuff and has been instrumental in so much of Magic. So Brian Schneider. Brian Schneider, someone we had brought on to be head developer for a while. He was head developer,</v>
+
+00:16:59.610 --> 00:17:01.870
+<v Speaker 1>I think before Randy was head developer.</v>
+
+00:17:03.100 --> 00:17:05.750
+<v Speaker 1>I'll try to remember that the the order of this.</v>
+
+00:17:07.540 --> 00:17:08.980
+<v Speaker 1>He was head developer</v>
+
+00:17:10.000 --> 00:17:26.490
+<v Speaker 1>during like Ravnica was a runtime. He was head developer. I remember the order of this. Anyway, Brian Schneider was someone else who we've known from the pro tour. Super smart, another great deck builder, real analytical with a really strong developer.</v>
+
+00:17:28.020 --> 00:17:44.920
+<v Speaker 1>Do you love Ravnica? He had a big hand in and what made rapping a draft so awesome and he was head developer for a while. Devin Lowe. Devin Lowe was another person who worked on Magic for a while was he also was head developer for a while. Devin and Devin both had design shops and development shops,</v>
+
+00:17:46.390 --> 00:17:50.970
+<v Speaker 1>and Devin was on a whole bunch of design teams. Let a bunch of development teams.</v>
+
+00:17:53.120 --> 00:18:02.210
+<v Speaker 1>I mean, I feel like I say a lot of Devin did not come. He might have played on one or two Protons, but he was more tender. How we got Devin, he came from a different place.</v>
+
+00:18:03.810 --> 00:18:18.800
+<v Speaker 1>He yeah, he came and did an amazing interview and were like, this is just a smart guy and we hired him anyway. Devin, Devin. I mean, one of the cool things for and is just getting to work with so many really cool, talented people. Devin falls in that campus. I mean, all these people, I'm saying</v>
+
+00:18:20.130 --> 00:18:51.110
+<v Speaker 1>this is Steve Warner. Steve Warner was a plate after and he played tested for magic for years and years and years and years and years. He also did collation, which was sort of figuring out the sheets, what goes on what sheet. Paul Sottosanti another. So Paul was brought in more. At the time this was going on, we were working on doing more digital stuff. We had a thing called Gleemax in awhile that we were thinking that ended up not quite playing out but and Paul has brought in during that</v>
+
+00:18:51.180 --> 00:19:13.490
+<v Speaker 1>more to do the other sort of design work, not magic necessarily, but we pulled them in. He ended up leading the design for Morning Tide and once again, just really a good designer. Brian Tinsman got brought at this point. So Brian Tinsman was originally started at Wizards in</v>
+
+00:19:14.420 --> 00:19:36.850
+<v Speaker 1>in market research and he got brought over to R&amp;D. At the time he had a business degree. So he was brought in to sort of do business management stuff for R&amp;D. And then it became apparent over time that he could design. So he started doing more stuff. Brian let all sorts of design teams. He led Chimps of Kamigawa. He led Time Spiral. He led</v>
+
+00:19:38.340 --> 00:19:40.030
+<v Speaker 1>Rise of the Drazi,</v>
+
+00:19:41.270 --> 00:19:46.170
+<v Speaker 1>he led Avison Restored, so he let a whole bunch of teams and was around quite a bit.</v>
+
+00:19:47.560 --> 00:20:18.330
+<v Speaker 1>Also the tail end of this from a design development standpoint was GDS one, the first great designer search. So can Nagle that brought in through that. So can has been become the veteran now of the designers. Ken is just a fire hose of car design. He just spits out so many cards it's kind of crazy. Also brought in the time with Alexis Jansen. She only worked in R&amp;D. She was there as an intern for six months and then she moved over to digital where she's worked really hard at Magic.</v>
+
+00:20:18.400 --> 00:20:49.280
+<v Speaker 1>Online to this day, Graham Hopkins also got brought in. He was on digital and R&amp;D for a little while, but then he often went off and now he works in digital. In fact, Graham and I working on a little project right now which is fun working with Graham. And then Mark Globus got brought in from the first GDS. He actually got brought in not to R&amp;D, he got brought into to digital and then he ended up forming a relationship a lot of people in R&amp;D and ended up coming over R&amp;D. And now he served as a producer in R&amp;D</v>
+
+00:20:49.400 --> 00:20:51.350
+<v Speaker 1>and so he does a lot of work as a producer.</v>
+
+00:20:52.940 --> 00:21:23.470
+<v Speaker 1>OK, Now there's another whole bunch of people. So another thing that happened in this time period is we picked up the creative team. That creative team started to become part of R&amp;D earlier on in the early days called continuity and they were completely different department. And then for a while they were their own department. Eventually we realized that we needed to work closely with them, so we brought them into R&amp;D. So first person during this. Brady Dummermuth, If you hear me tell stories about magic of anything going back in the back, Brady was really the first person</v>
+
+00:21:23.610 --> 00:21:54.100
+<v Speaker 1>that I worked with to help bridge design development together. Brady and I work closely together to make mirrored in Brady and I work closely together to make the Guilds of Ravnica Braden. I mean, Brady and I did a lot of stuff together. Really the modern sensibility of having design work with creative came from my relationship with Brady. Brady started as an editor alongside Dell and Gottlieb. Although he was there</v>
+
+00:21:54.170 --> 00:21:58.150
+<v Speaker 1>for them, he actually goes back quite a ways.</v>
+
+00:21:59.630 --> 00:22:12.360
+<v Speaker 1>And then Brady did a bunch of different things. He did a lot of technical writing for a while. I think he was technically rules manager for a while, but eventually he went over to the creative team and did spend a lot of time overseeing the creative team</v>
+
+00:22:14.760 --> 00:22:15.280
+<v Speaker 1>when</v>
+
+00:22:17.520 --> 00:22:36.300
+<v Speaker 1>I don't know about Brady, but Brady was very smart and really understand story and understand. I mean, he was he was, I think he studied Litton school literature. OK, next Tyler Bielman. So Tyler originally came to Wizard as an advertiser.</v>
+
+00:22:37.480 --> 00:22:44.570
+<v Speaker 1>I mean, someone who did advertising did marketing. He had a partner named Mark Jessop and the two of them originally were doing</v>
+
+00:22:45.680 --> 00:23:08.430
+<v Speaker 1>were working for a company that did freelance work for Wizards, eventually got brought in. Tyler spent a bunch of time in marketing and they spent some time on the brand team and eventually came over to R&amp;D. He ran the creative team for a little while and I loved working with Tyler. He and I did a lot of work on Mirrodin, a lot of the early work about Mirrodin in the metal world with Tyler and I did</v>
+
+00:23:09.760 --> 00:23:12.110
+<v Speaker 1>and he was Tyler was a blast to work with.</v>
+
+00:23:13.420 --> 00:23:16.510
+<v Speaker 1>Next, Jeremy Cranford. So Jeremy,</v>
+
+00:23:17.170 --> 00:23:46.960
+<v Speaker 1>Jeremy was the 1st art director that I believe was an art director while working under R&amp;D. One of these days I will, I will talk about all the art directors that that's its own probably podcast going back to the earliest days of the art directors. But Jeremy was the first one that was part of our like when I, for those who know my history, when I first became head designer, I also oversaw the creative team and Jeremy was our director at that point. And that's around the time where we had pulled</v>
+
+00:23:47.220 --> 00:23:55.540
+<v Speaker 1>we puts just shortly before I oversaw the creative team, we had pulled them into into R&amp;D. And so</v>
+
+00:23:57.050 --> 00:24:05.300
+<v Speaker 1>anyway, Jeremy had a great eye. There's a lot of a lot of good artists that Jeremy found that we still we still use today.</v>
+
+00:24:06.700 --> 00:24:14.700
+<v Speaker 1>Next, Brandon Bozzi. So Brandon mostly did names and flavor text. That was the area that he was in charge of</v>
+
+00:24:15.990 --> 00:24:19.210
+<v Speaker 1>and that because we've gotten so big</v>
+
+00:24:19.930 --> 00:24:37.840
+<v Speaker 1>at the time, there was a period where one person was in charge, like the creative team. Like when I took over for the creative team, I think there were three, three or four people on it, and then I added one or two, but it was a very small team. Now the creative team has 20 people on it. It's a much different animal that was back then.</v>
+
+00:24:38.380 --> 00:24:39.120
+<v Speaker 1>Um,</v>
+
+00:24:40.580 --> 00:24:52.210
+<v Speaker 1>Ray Nakazawa also worked on, he also did, I brought him on, I think turning Odyssey. I think Ray started out doing names and flavor text and then started doing some other stuff,</v>
+
+00:24:53.520 --> 00:24:55.560
+<v Speaker 1>go cart concepting and stuff like that.</v>
+
+00:24:56.990 --> 00:25:14.920
+<v Speaker 1>Also Jeremy, Jeremy, Jeremy Cranford had a someone who was working for him doing concepting. Our first concept Illustrator when our first one, but our first within our and our first card, which is a guy named Jeremy Jarvis. And Jeremy Jarvis, when</v>
+
+00:25:15.990 --> 00:25:46.460
+<v Speaker 1>Mcfaul left to go on to do other amazing things, Jeremy became the art director for Magic. And since he's gone on just to get bigger and bigger and bigger, he's doing all sorts of stuff now and really looking at Magic. I mean, not just trading card game now he's looking at Magic as a whole. And anyway, there's a lot of cool stuff going on. And Jeremy is, you know, really been one of the major players on the creative side of things. But anyway, he started, he started as a concept</v>
+
+00:25:46.530 --> 00:26:16.720
+<v Speaker 1>straight. Well, he started as an illustrator. He was a freelance illustrator and you go look up, there's a lot of cards that Jeremy illustrated. And then he came in as a concept of illustrator. And then eventually he sort of got thrown into becoming art director and did a wonderful job. Also, Mac Kavadi brought Mavado in while I was on overseeing the creative team. Matt ended up doing names and flavor texts. I think Brandon moved over to do card concepting. But anyway, it's a match still works</v>
+
+00:26:16.940 --> 00:26:35.090
+<v Speaker 1>at Wizards. What happened was Matt worked on the creative team for a while, left, left Wizards for a bit. And when he came back, he ended up coming back on the the graphic design side of things. So he's not an R&amp;D anymore, but he did start an R&amp;D and he is during this time period that I'm talking about.</v>
+
+00:26:36.500 --> 00:26:52.030
+<v Speaker 1>Also, um, when Matt left the first time, I replaced Matt with Doug Beyer, who has gone on to be a very big player on the creative side of things, one of the major players on the story side of things Now.</v>
+
+00:26:53.360 --> 00:27:06.690
+<v Speaker 1>Doug also, by the way, not only is he really good on the creative side of things, he's a good designer. I put him on a bunch of teams. He actually LED one of the core sets and he's been on a whole bunch of design teams. I've used him a lot and he's great. He's great.</v>
+
+00:27:08.180 --> 00:27:19.230
+<v Speaker 1>The way it works these days is we'll often have a creative wrap on a team and it's always fun to have dug on a team because he's just, he's as good as in my designer. So like he says, I get an extra designer whenever he's a creative Rep on the team.</v>
+
+00:27:20.010 --> 00:27:31.520
+<v Speaker 1>Also that happened during this time was so when I first became head designers, I became head designer in the middle of champions, Agawa. I mean, Ravnica was the first set that really was under my reign.</v>
+
+00:27:33.010 --> 00:27:38.810
+<v Speaker 1>And I was I oversaw the creative team for a couple of years and then it became clear that</v>
+
+00:27:40.190 --> 00:28:04.440
+<v Speaker 1>Bing head designer was a lot of work and overseeing the creative team with a lot of work and that I wasn't I wasn't doing justice like I wasn't. It was too many things that needed to be more than one person doing them. And so we ended up getting a different person to run the creative team. And that man was a guy named Ken Troop who has gone on to be one of the one of the directors and Magic and magic are indeed he overseas a lot of the, you know, he's</v>
+
+00:28:05.930 --> 00:28:21.340
+<v Speaker 1>does a lot of the day-to-day stuff and over overseas, overseas the managers and does a lot of major stuff in our. And now Ken has really good, has a very creative background. Like I said, he oversaw the creative team for a while and so</v>
+
+00:28:22.690 --> 00:28:36.270
+<v Speaker 1>and, and Ken, Ken also from time to time he'll, he'll be on designing. Most people I've mentioned have probably been on a Magic design team or development team at least once, most of them many times, and a lot of them have led to some of those teams</v>
+
+00:28:38.900 --> 00:28:41.220
+<v Speaker 1>also. So like part of what</v>
+
+00:28:42.790 --> 00:28:47.060
+<v Speaker 1>a lot of them doing today is running through all the different people that have spent a lot of time sort of</v>
+
+00:28:48.140 --> 00:29:01.250
+<v Speaker 1>on magic. There's people that have some tangential time. So if you a few names here are people who worked on Magic things, but Magic was not their main priority, meaning they were had other responsibilities.</v>
+
+00:29:02.770 --> 00:29:22.960
+<v Speaker 1>Andrew Finch. So Andrew Finch originally got brought in to run tournaments. He was a tournament organizer. The tournament organizer. Yeah, the tournament organizer. He ran the pro tour for awhile. If you remember my story about the rioted PTLA, he was one that broke the tie that decided to</v>
+
+00:29:24.790 --> 00:29:29.520
+<v Speaker 1>I disqualified a tomahawk, but let him keep his prize earnings.</v>
+
+00:29:31.340 --> 00:30:00.240
+<v Speaker 1>And anyway, that's Andrew. So Andrew eventually would come out, came over R&amp;D and mostly he did a little bit of magic, a lot of this stuff and other games other than Magic, but he had his hand in magic. Nate Heiss was also brought in to do a lot more digital things, but he was a long time Magic player, Magic pro, so we definitely used him. If you like the persist mechanic, he designed the persist mechanic, persistent mechanic.</v>
+
+00:30:01.130 --> 00:30:31.120
+<v Speaker 1>Nate was on a bunch of design teams. Cormack Russell, another person we brought in to do a lot of digital stuff. He was on a few teams. I don't really know Cormax background, but I know he was on a number of design and development teams, mostly development team. I think Ryan Miller. Ryan Miller is a great designer, not from the great designer search menu, but he was someone who we brought in to do a lot of other design work and he was just someone we would bring</v>
+
+00:30:31.190 --> 00:30:34.400
+<v Speaker 1>on design teams from time to time. He was on future site, I know,</v>
+
+00:30:35.730 --> 00:31:05.820
+<v Speaker 1>and here he is just an amazing designer. He did a lot more work on other things rather than Magic, but from time to time he would chip in and do a little bit of work on Magic. Also, Jake Tice is somebody else who I think he started on brand. I think he was in brand for a while and then he came and started working in R&amp;D. And like a lot of these people I'm mentioning now, if you go back and look at the old design development teams, their names show up from time to time that Magic wasn't their focus, but it was something</v>
+
+00:31:05.890 --> 00:31:35.810
+<v Speaker 1>that, you know, they, they, they got involved in magic. 3 less people to mention. These are people who were interns that ended up not staying full time, but worked as interns for some period of time. Noah Wyle was one of the original contestants from the first grade designer search. So not only did we hire Ken Nagle and Alexis Jansen and Graham Hopkins and Mark Globis, but Noah also was an intern for a while doing development.</v>
+
+00:31:36.160 --> 00:31:50.510
+<v Speaker 1>I think he decided to go and become a lawyer. But he, he had a very analytical mind, was really cool. Also, V Moscowitz worked as an intern for a while. I know he was there. He was on the design team for future Site, I remember.</v>
+
+00:31:52.890 --> 00:32:07.710
+<v Speaker 1>And yes, V decided that it's just sometimes we'll get people in to sort of sort of like, what do you think of being a designer developer and they'll come in the try for a little while ago. This was fun to do. But yeah, no, this is not what I want to do.</v>
+
+00:32:09.030 --> 00:32:29.950
+<v Speaker 1>Also, Pat Chapin was a was a intern for a little while. Pat is I mean, if you guys, he writes columns and stuff. Obviously he's a magic celebrities in the Hall of Fame was VMFAT are on the Hall of Fame. Pat is a great analytical mind. I love talking with Pat. He, he Pat was interesting in that he has a very</v>
+
+00:32:30.660 --> 00:32:56.530
+<v Speaker 1>like he Paul was one who walked in the door and said, what do I need to do to design A set? I want to design my own set. What do I need to do? Like, whoa, whoa, whoa, Pat, there's some steps you got. OK, what's step one? What's Step 2? What's step three? What's Step 4? And so Pat, Pat was the fungus. Pat has a really interesting mind, sees things in a really cool way. And he always came up with just things that no one else saw. So I really enjoyed working with Pat. He was great.</v>
+
+00:32:57.940 --> 00:33:27.680
+<v Speaker 1>So anyway, they're my friends in Hong Kong. We taking here in a little over 30 minutes. Is the third wave to be aware? One of the things I'm trying to do is just to break these up so that I can talk about them. And I don't do them too often because it's kind of topic I feel is best left in small doses. But just to remind everybody, the first wave were the people that basically made the game of Magic with Richard during play testing and early the early days.</v>
+
+00:33:28.500 --> 00:33:58.000
+<v Speaker 1>The second wave, which I was part of, was when that first wave sort of decided to go make other games that they pulled in a whole bunch of new people to make magic. So the first wave goes through like Ice Age, the second wave goes from Mirage through kind of invasion. And then this third wave starts with invasion and goes through the lower win. So I promise you in future podcasts, we'll get into the 4th wave. There's a lot of cool, fun people, many of us still working Wizards from the 4th wave.</v>
+
+00:33:58.090 --> 00:34:02.920
+<v Speaker 1>And I think, I think we're just getting into the, the beginning of the 5th wave.</v>
+
+00:34:04.340 --> 00:34:34.350
+<v Speaker 1>There's an interesting challenge. Always try to figure out when exactly when you're trying to sort of mix separations between things. I decided to make GDS 1 separation for this one just because it felt like, because GPS one and two felt very different for me, I didn't put in the same wave. So I decided that maybe the GPS one got to be the tail end of the third wave. The third was like I said, it's a little bit longer. The waves get a little longer over time because in the early days we were hiring people a little bit faster and then we slowed down a little bit, although no. So let me recap</v>
+
+00:34:34.420 --> 00:35:04.520
+<v Speaker 1>all the people I talked about today. So Randy Bueller, Matt Place, Mike Donahue, Mike Turian, Eric Lauer, Del Lago, Mark Gottlieb, Elaine Chase Worth Wolpert, Aaron Forsythe, Brian Schneider, Devin Lowe, Steve Warner, Paul Sottosanti, Brian Tinsman, Ken Nagel, Alexis Jansen, Graham Hopkins, Mark Globus, Brady Dummermuth, Tyler Bielman, Jeremy Cranford, Brandon Brandon Bozzi, Ray Nakazawa,</v>
+
+00:35:04.620 --> 00:35:30.760
+<v Speaker 1>Jeremy Jarvis Machava, Doug Beyer, Ken Troop, Andrew Finch, Nate Heiss, Cormac Russell, Ryan Miller, Jake Tyce, Zee Moscowitz, Pat Chapin. No. While that's a lot of people, in fact, other people I named, let's see, Mike Turney and Eric Lauer. Dell logo. Mark Gottlieb, Elaine Chase, Aaron Forsythe, Ken Nagle, Alexis Jansen, Graham Hopkins, Mark Lopez,</v>
+
+00:35:32.920 --> 00:35:36.140
+<v Speaker 1>Jeremy Jarvis, Machava Dug Buyer, Ken Troop,</v>
+
+00:35:37.420 --> 00:35:43.590
+<v Speaker 1>all still work at Wizards. So like one of the things about R&amp;D is there is a lot of,</v>
+
+00:35:44.750 --> 00:35:47.810
+<v Speaker 1>I mean there's some turnover obviously, but there's a lot of</v>
+
+00:35:48.680 --> 00:36:19.070
+<v Speaker 1>a lot of our call lifers who like really like love making magic and not all of them are stayed in R&amp;D. Like I said, Elaine is now the VP of R&amp;D and Mike turn it works on over in digital and there's all sorts of things that are going on and people that are expanding going beyond R&amp;D. We like to joke that the reaches of R&amp;D spreads out throughout the company. There's a lot of people that worked in R&amp;D that went on to do lots of other things and lots of other places. But anyway, the reason that's supported me, I'm almost to work here,</v>
+
+00:36:19.140 --> 00:36:49.850
+<v Speaker 1>but the reason that I like to do things like this, the reason that I think it's so important to do the occasional podcast is the people matter. I know when we announced a new set and we list the design team and development team, it's very easy to gloss over the names and just tell me about the new cards and this and that. But the things you love, the magic you love, the sets you love, the card, the mechanics, the themes, the art, the creative, the all, the, all the things that make Magic what you love are because there are people who work really hard to bring that. So</v>
+
+00:36:49.960 --> 00:37:20.630
+<v Speaker 1>and so from time to time, I like to do podcasts to sort of tip of the hat to everybody that's worked on Magic, any large capacity at R&amp;D at some point, by the way, I will try to do some podcast people outside R&amp;D. The biggest problem I run into is I worked closely with all the people in R&amp;D and I haven't with all the people outside of R&amp;D. So it becomes a little trickier. But I'm going to try to see if I can do some of that I've talked about like I will do some podcasts at some point where I talk about major players and people that had a big impact on Magic</v>
+
+00:37:20.730 --> 00:37:35.780
+<v Speaker 1>that weren't an R&amp;D. I just, this is where I spent my time. So these, every name I listed today I've worked with, I had fun working with. Like I said, these are smart, talented people. A bunch of people have gone on to work for other companies and done amazing things.</v>
+
+00:37:37.240 --> 00:38:07.150
+<v Speaker 1>If you take some of the people whose names I said today and search for them, they have gone to made other games other than Magic. I'm not going to tell you the name of those games here, but you can search for them. There's a lot of cool games that these people have made and done. A lot of network. So anyway, guys, I'm now pulling into work. I did not drop Rachel off school, so I'm actually going to work. It's old school drive to work ending at work. But anyway, I look at these people's names and then I just want you to sort of take a second to say, Hey, thank you to all these people that work on making magic because Magic doesn't</v>
+
+00:38:07.250 --> 00:38:29.240
+<v Speaker 1>to make itself. It's a, it's a, it's a a lot of really hard talented people working many hours over many times to make it happen. So this is just a small grouping of them. But I'd like to say to the third wave of R&amp;D, I tip my hat to you. And anyway, guys, I've now parked my car. So we all know that means this is the end of my drive to work. Instead of talking magic, it's time to me to be making magic. See you guys next time.</v>
+

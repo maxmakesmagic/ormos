@@ -1,0 +1,470 @@
+WEBVTT
+
+00:00:01.260 --> 00:00:30.210
+<v Speaker 1>I'm pulling out of the parking lot. We all know what that means. It's time for the drive to work. I dropped my son off at camp. OK, so today is another in my series Lessons Learned. So these are podcasts where I talk about a set that either LED or Co led and talk about all the lessons I learned from designing the set. So we are up to Epsilon. So Epsilon is one of the sets I called. I called it with Ken Nagle. So this is back under the old design</v>
+
+00:00:30.510 --> 00:00:34.140
+<v Speaker 1>time where we worked on it for a year. So for the first six months</v>
+
+00:00:35.650 --> 00:00:41.180
+<v Speaker 1>I led the design and the second six months Ken led the design. We were both on the team or</v>
+
+00:00:41.860 --> 00:00:55.960
+<v Speaker 1>Ken was on the team the whole time. I was on the team most of the time. Right near the very end, I got pulled away because we were switching over how we were doing things and we we had to start Dominaria vision anyway. So let</v>
+
+00:00:56.630 --> 00:01:27.220
+<v Speaker 1>me it's on a lot to learn from So for starters, just a little setup on what how Excellon this is the key part of the story is we plan ahead. We work ahead to figure out what we're doing and that when we work ahead, we plot out a whole bunch of years. And then basically what I'm responsible for is getting the general sense of where we're going. So the creative has a, you know, a good working idea of what they think the world is like, and I have a sense of what the</v>
+
+00:01:27.350 --> 00:01:58.000
+<v Speaker 1>mechanical identity of the set isn't. This is before we sort of worked it all out, but it's just sort of carving out space to make sure we have an idea of what we want. O Echelon started because Jenna Helen when people, the creative team came up with an interesting world idea. And the world idea was what if there was a world that kind of had a new world in an old world and that the old world sent conquistadors, but vampire conquistadors.</v>
+
+00:01:58.200 --> 00:02:20.470
+<v Speaker 1>And then that there was sort of the relationship between the old world and the new world. UM, and so they had um, early on, they hadn't flushed a lot out. They do vampiric and Keith to doors. They knew a Mesoamerican feel. This was prior to pirates or dinosaurs. Any of that actually being true yet. And so they came to me and they said, OK, Miss American,</v>
+
+00:02:21.840 --> 00:02:52.000
+<v Speaker 1>you know, that keeps the doors. And they asked me what what could I do with this? And so I said what I was interested in. We had done a bunch of two sided conflicts and I was actually interested in a multi sided conflict. So I said, how about a three sided conflict. And mechanic I was interested in playing around with is Richard Garfield, after he made Magic the Gathering, made a game called Vampire the Eternal struggle. It's called Jihad, but later got renamed a vampire, the Eternal struggle. And</v>
+
+00:02:52.090 --> 00:03:22.490
+<v Speaker 1>in it there was a mechanic called the edge. And the way the edge worked was only one person could ever have the edge and you got it by attacking the person that had the edge. And the idea was the edge granted you special abilities and so there was a reason to want it, but also having it made other people want to attack you to get it from you. And I thought there was a neat dynamic and and magic had never really done anything like that. So I said, OK, instead of A2 sided conflict, which is what it was originally pitched, could we make it a three sided conflict</v>
+
+00:03:22.600 --> 00:03:29.350
+<v Speaker 1>and then we could use the edge mechanic. And everybody said, OK, that sounds fine. That's interesting. I like a political thing.</v>
+
+00:03:30.670 --> 00:03:40.200
+<v Speaker 1>Then what happened was Conspiracy 2 was trying to figure out what to do, and Sean Maine, who was the lead designer of Conspiracy 2, came to me and said</v>
+
+00:03:41.400 --> 00:03:54.350
+<v Speaker 1>that from the flavor of what they wanted to do with one, the mechanics they were looking at was very similar to The Edge. And he knew that it was something that I was planning to do for Exelon. And so he has said to me,</v>
+
+00:03:55.640 --> 00:04:00.830
+<v Speaker 1>can we experiment with this to see if it works? And I said, OK, well, here's here's the thing to know.</v>
+
+00:04:02.580 --> 00:04:33.000
+<v Speaker 1>We need to do some work on it to figure out whether or not Elon wants it. But why don't you do some work on it? I'll do some advanced exploratory design work on it and then we'll come back and talk. But I said to him, if Ixalan needs it, Exelon has has the rights over like a main set would have rights over supplemental set. That main set needs it. So I started up explore design a little early so we could test the edge mechanic in a two player game. Meanwhile, Sean and his team, the Conspiracy 2 team were were working there. So after, I don't know,</v>
+
+00:04:33.120 --> 00:04:37.360
+<v Speaker 1>a couple of months, Sean comes back and goes, it's working. It's working perfectly.</v>
+
+00:04:38.200 --> 00:04:38.770
+<v Speaker 1>Um,</v>
+
+00:04:39.890 --> 00:04:48.190
+<v Speaker 1>and I said, well, we also did some work on it to see if it worked in a two player game and it did. It worked pretty well in a two player game. I'm sorry, Sean.</v>
+
+00:04:49.970 --> 00:04:51.530
+<v Speaker 1>I think I'm gonna need to keep this for Exelon.</v>
+
+00:04:52.370 --> 00:04:52.990
+<v Speaker 1>Um,</v>
+
+00:04:53.650 --> 00:05:05.240
+<v Speaker 1>but Sean had experimented. I had said to him, because I said, look, maybe you can't use it. You need to experiment with other things because maybe you won't be able to use it. And Sean said that they tried a bunch of other things that none of them panned out.</v>
+
+00:05:05.950 --> 00:05:10.110
+<v Speaker 1>Um, and they were coming to the end of their design. So,</v>
+
+00:05:10.870 --> 00:05:40.710
+<v Speaker 1>um, Aaron ended up making the call of conspiracy 2 need. Exelon hadn't really started yet. Conspiracy was near the end of its design. The mechanic felt more like it was a multi multiplayer mechanic than a two player mechanic. And I made my case to Aaron saying that I thought it would actually work. Well, we had done some play testing in two player, but okay, conspiracy needed it. Exelon had all of this designed to figure out what he was doing. But what that meant</v>
+
+00:05:40.780 --> 00:05:52.730
+<v Speaker 1>was when we started Exelon, we were a little behind from a normal set, which is normally you come into vision with a general sense of what you're doing.</v>
+
+00:05:53.540 --> 00:05:55.020
+<v Speaker 1>And um,</v>
+
+00:05:56.600 --> 00:06:26.630
+<v Speaker 1>so we didn't quite have that. So Exelon design was a little behind to sort of figure out from that. What had happened was I had asked for 1/3 faction. So before vision, it wasn't vision design for design started. This is Exxon was the last set or Exelon was the last set that did traditional old school design. Rivals of Exelon did sort of a hybrid. And then Dominaria would be the first that uses vision design under the new, the new way we do things.</v>
+
+00:06:26.990 --> 00:06:30.320
+<v Speaker 1>Um, So what happened was, um,</v>
+
+00:06:33.310 --> 00:06:50.320
+<v Speaker 1>I had asked for the world if we could do 3 factions and in trying to figure out a third faction, they came up with the idea of doing pirates. And so like, OK, one faction we vampires, the conquistadors, 1 faction we pirates. And the third factor would be</v>
+
+00:06:51.630 --> 00:07:03.460
+<v Speaker 1>the the people who, you know, the natives of the world got to figure out what exactly they were. But one of the things I realized early on is if two of our factions are vampires and pirates, that is pretty tribal.</v>
+
+00:07:04.970 --> 00:07:35.100
+<v Speaker 1>And so I said, ohh, well, it sounds like if the factions that we seem to be leaning in toward are tribal in nature, like pirates are tribal and pirates are exciting. We haven't really done. I mean, we did them a little bit Mercadian masks, but not, you know, they're just a handful of pirates. We've never done them. Well, it's kind of like werewolves where, yeah, we've done a couple, I guess. We've done more pirates and werewolves at the time. We've been industry, but we've made 56 pirates or whatever in the history of magic, none of which are memorable. I felt like there was a lot of of space to do some cool stuff.</v>
+
+00:07:35.180 --> 00:07:35.830
+<v Speaker 1>Pirates.</v>
+
+00:07:37.370 --> 00:07:49.590
+<v Speaker 1>Yeah, I I thought that the vamp players like Vampires Network. If you still sound like a cool version of vampires, we have some ideas of how maybe we could push them in some different color combinations like black, white, which would be a different way of white vampires for a new thing.</v>
+
+00:07:51.700 --> 00:08:05.090
+<v Speaker 1>And so he started on that path and then eventually we got the idea of having dinosaurs being involved and then we decided just to make dinosaurs their own faction and that four factions. And anyway, actually there were 4 factions before there were dinosaurs. But anyway,</v>
+
+00:08:06.370 --> 00:08:13.880
+<v Speaker 1>once we sort of resolve that, so looking back, the first big mistake I think we made is</v>
+
+00:08:16.540 --> 00:08:18.970
+<v Speaker 1>we were going have you on</v>
+
+00:08:19.980 --> 00:08:24.040
+<v Speaker 1>on tribal. So I went to the creative team and I said, OK,</v>
+
+00:08:25.320 --> 00:08:46.670
+<v Speaker 1>you know, one of the things that makes tribal work is crossbreed synergy. So could we have a vampire pirate or can we have things that are across versions of them? And they said, oh, that's not really their vision. The Pirates of the pirates and the vampires, the vampires and, and that they really didn't want to cross them.</v>
+
+00:08:48.340 --> 00:09:17.470
+<v Speaker 1>So I, I said, OK. So I was trying to see if I could work around that in retrospect, like it's funny because Laura, when I was not the lead designer for Lauren, that was Aaron Forsyth, but I was on the team and one of my big contributions to Laura Wynn was the addition of the changeling and changing our creatures that are all creature type. And the reason that changeling was so important for Laura Lynn was it really allowed more flexibility. That it allowed you, for example, to have two</v>
+
+00:09:17.540 --> 00:09:27.060
+<v Speaker 1>different creature types you cared about and still make them work in one deck. That the change was kind of the glue that that sort of pulled them together. That one of the things in tribal that you kind of want is</v>
+
+00:09:28.040 --> 00:09:57.810
+<v Speaker 1>there's a thing we call going on rails, which means I start drafting and I make a decision early and that kind of forces my hand to be locked into a certain decision for the rest of the draft. And Lauren had this problem to a certain extent. We're like, oh, I'm going to drop goblins. And then once I'm in a pack or so on goblins, wow, it's hard to go somewhere else. It's hard to pick up. I mean, I can pick up monocolored cards in my colors, but it's hard to pick up stuff that's stupid too. Tribal of other</v>
+
+00:09:57.880 --> 00:10:00.850
+<v Speaker 1>Bible stuff that I really get into the I'm drafting goblins.</v>
+
+00:10:02.610 --> 00:10:33.100
+<v Speaker 1>And one of the things changed things let us do was, oh, well, I'm drafting goblins, but let's say, so goblins were, I think red black. So let's say for example, I'm picking up red and black cards and I pick up a elemental card in red that helps elementals. Oh well, if I pick up enough changelings, those elemental matter cards, you know, might matter because between the few elementals that pick up and a bunch of changelings, I have enough that OK, those cards aren't meaningless and maybe maybe I want to take them now. Obviously I'm not taking as high as the elemental</v>
+
+00:10:33.190 --> 00:10:37.170
+<v Speaker 1>player, but I'm taking it high enough that, you know, maybe I'll actually put in my deck.</v>
+
+00:10:38.930 --> 00:10:41.820
+<v Speaker 1>So the first big problem Exelon is</v>
+
+00:10:43.750 --> 00:10:51.360
+<v Speaker 1>I understand why we made the decision not to sort of to cross, but I I think that mechanically causes a lot of problems. I think the fact that</v>
+
+00:10:52.030 --> 00:11:00.360
+<v Speaker 1>you got siloed and you were on rails and that it it, it was really hard. And the other thing was I made the conscious decision.</v>
+
+00:11:01.860 --> 00:11:10.800
+<v Speaker 1>So one of the other challenges coming into this set was we knew the Return to Ravnica was happening a year later, Return to Return to Ravnica guilds,</v>
+
+00:11:12.340 --> 00:11:15.670
+<v Speaker 1>he knew that was happening. So one of the challenges was</v>
+
+00:11:17.180 --> 00:11:22.310
+<v Speaker 1>I knew I wanted to do factions because we were going to do, I mean the world one factions, but we were</v>
+
+00:11:23.640 --> 00:11:50.160
+<v Speaker 1>a year away from heavily factioned world. And so one of the challenges was OK, try to make to make sure it doesn't feel too much like just a subset of Ravnica. So like 2 color, just nothing but two color factions felt wrong. I didn't think I had enough support to do all three color factions. That requires a lot of support that we didn't have. So there's an idea that I'd made for consent Tarkir with four,</v>
+
+00:11:51.580 --> 00:12:22.110
+<v Speaker 1>4 factions that were 3322. That way between the four you balance you had all five colors. And the reason I liked it for Exelon was that I knew the pirates and the dinosaurs were just there's any more interest in them. Not that people don't like vampires, not people like merfolk, but we've done vampires many, many times. We've done merfolk many, many times. And the new thing, the splashy thing was the two new tribes was pirates and dinosaurs. So we wanted to give them a little bit more space and by giving them the the three color tribes, it just</v>
+
+00:12:22.220 --> 00:12:26.640
+<v Speaker 1>give you more options of how to play them. But what that meant was</v>
+
+00:12:28.050 --> 00:12:58.220
+<v Speaker 1>that it made the two colors narrower. Like you had much less option if you were going to play vampires or playing merfolk, just what you had a choice to do. Or if you were playing pirates or playing dinosaurs, you had and you wanted to stick to two colors. You had three options plus you had a three color option. So for example, say I'm playing pirates. I could be black, red, I could be red blue, I could be black, blue, or I could be black, red, blue, probably splashing the turn color. Since there wasn't, this wasn't really a three colored</v>
+
+00:12:58.290 --> 00:12:58.960
+<v Speaker 1>environment,</v>
+
+00:13:00.310 --> 00:13:05.000
+<v Speaker 1>but anyway that just gave you more options. And so there were some wonkiness in sort of how</v>
+
+00:13:06.580 --> 00:13:07.750
+<v Speaker 1>we we sort of</v>
+
+00:13:09.560 --> 00:13:13.240
+<v Speaker 1>we made it tough. And the fact that you couldn't crossover like if you went into</v>
+
+00:13:14.120 --> 00:13:31.830
+<v Speaker 1>if you went into merfolk or vampires just was so dangerous. You had such a narrow band of what you were doing. And if you wanted to pirates or dinosaurs, you a little bit more flexibility. You know, you had a third color you could consider. You just had a little bit more room in the set.</v>
+
+00:13:33.220 --> 00:13:43.020
+<v Speaker 1>Ohh. You know, we'll get to that in a second. But the lack of cross energy just made it so hard to move that I think that was the first big mistake</v>
+
+00:13:44.200 --> 00:13:45.660
+<v Speaker 1>that we just you need.</v>
+
+00:13:46.530 --> 00:13:55.030
+<v Speaker 1>I mean, in general, in general. My take away now having done onslaught and lower win and explain which are three sort</v>
+
+00:13:56.280 --> 00:14:22.840
+<v Speaker 1>of what I'll call tribal. First blocks. We're like the main theme was tribal. We've had other blocks like like like Innistrad where tribal is a component, but it wasn't like industry is the kind of set where like you could care about a creature type, but you don't have to like yeah yeah, you could draft a monster deck, but it wasn't something you ever forced to do. We're There's there's a lot of pressure to be drafting tribally. Not that you had to, but there was a lot of pressure there. So one of the lessons in general is I think are</v>
+
+00:14:24.420 --> 00:14:44.790
+<v Speaker 1>especially from Lorwyn and from Excellon, that I think we have to be careful how high, how high, like how high the volume we turn up on tribal is. And that tribal I think is fun. And I think at a certain level it really adds a lot to the set and people enjoy it. Tribal definitely players enjoy, but it's one of those things you can't turn the volume up too much,</v>
+
+00:14:46.200 --> 00:15:16.100
+<v Speaker 1>not without having other like I think tribal has to be something you can opt into but aren't forced into. I think tribal is fun when you want to do tribal and tribal is not so fun when you feel you have to do tribal. That's kind of one of the big takeaways of Exelon. And I feel we'll do tribal stuff every set of some tribal stuff, but I think we want to be careful. And then I think the next time we do a larger tribal set, there will be other themes woven in or where tribal is a component you can do but</v>
+
+00:15:16.170 --> 00:15:30.150
+<v Speaker 1>is not a component you are forced to do. And I think Excellon is going to be more of the model of future stuff like that. I mean maybe, maybe with an accent a little better than Epsilon as far as tribal stuff, but not not quite as pushed as either Lorwyn or Exelon as my guess.</v>
+
+00:15:31.570 --> 00:15:51.200
+<v Speaker 1>And I think we're gonna have the the the need of glue, the need of changeling ish things or ohh. The other thing we did in Lorwyn was we did crossover cards. And what that meant was cards that cared about two different things. It was a card that cared about elves and merfolk that was in a color they both elves and merfolk were in</v>
+
+00:15:52.580 --> 00:15:56.640
+<v Speaker 1>like that. They overlap there. I guess Merfolk were in,</v>
+
+00:15:57.480 --> 00:15:58.130
+<v Speaker 1>um,</v>
+
+00:15:59.770 --> 00:16:17.480
+<v Speaker 1>imagine I named 2 that actually overlapped. And the idea was that if you were playing, let's say it's a tree folk and elves, they're both in green. We could make cards like, oh, it helps elves and tree folk. And now you could put that in your treefolk deck or your elf deck. And once you put it in again, encourage you to consider playing the second tribe 2.</v>
+
+00:16:18.710 --> 00:16:35.010
+<v Speaker 1>He didn't force you to because it worked with the tribe you had, but it definitely said, ohh, as they started to get more of these, maybe I'm like, oh, maybe I'm going tree folk, elf deck, you know, allows you to do stuff like that. So we need to have the glue. We need to be careful with the volume of the tribal myths. OK, next let's talk about the factioning</v>
+
+00:16:36.270 --> 00:16:44.930
+<v Speaker 1>in general. Tribal is a fact. Like when you do tribal, you're doing faction. Let's know the nature of how tribal works. But the 23322,</v>
+
+00:16:46.890 --> 00:16:53.710
+<v Speaker 1>I would not say it was a total failure. I think there's a lot of interesting things about it. I like the idea that allowed our factions that like</v>
+
+00:16:54.750 --> 00:17:02.040
+<v Speaker 1>the factions were not all equal that like going into this, two of the factions were tribes we've done forever and to the factions were tribes we've</v>
+
+00:17:02.920 --> 00:17:30.630
+<v Speaker 1>mostly never done. I mean, not at least tribally have never done not not in the way we were doing here. So they of course more attention was going to go to the pirates and dinosaurs. It was the new thing and making factions where they got a little like one of our early problems, like we originally we had dinosaurs in A2 color faction out of three color faction, and the problem we were having was so many people wanted to play dinosaurs. It was warping the draft because they were just taking the dinosaur colors.</v>
+
+00:17:32.290 --> 00:17:45.730
+<v Speaker 1>They're part of us answering that was to put them in three cowardice, broaden out what people could do. But it clearly sort of communicated to us. Ohh, dinosaurs. People haven't had a chance to make a dinosaur deck. That's the hot new thing. People want to do the hot new thing. And so</v>
+
+00:17:46.520 --> 00:17:58.950
+<v Speaker 1>I do like what the the uneven factions did for some of that. I don't. I'm about to criticize some elements of this. And this is not because I considered a total failure and it's not because I don't think we'd ever do</v>
+
+00:18:00.140 --> 00:18:04.800
+<v Speaker 1>miss, you know, factions that aren't all the same size per se or</v>
+
+00:18:06.540 --> 00:18:08.150
+<v Speaker 1>not all the same color volume.</v>
+
+00:18:10.000 --> 00:18:17.010
+<v Speaker 1>But I do think we underestimated the amount of impact it had, especially on sort of the development.</v>
+
+00:18:19.140 --> 00:18:22.060
+<v Speaker 1>I mean, well, there's two things going on. One was</v>
+
+00:18:23.480 --> 00:18:28.960
+<v Speaker 1>the uneven sizes just cause a bunch of of challenges.</v>
+
+00:18:29.780 --> 00:18:53.430
+<v Speaker 1>One was that when you see a three color Guild, there's some messaging to draft 3 color. And really our goal was for you to have two color or splash the third color. Now we did some stuff to try to steer you away from doing heavy three color. Like unlike cons where we made cards that wanted to be what we call MMO, which means the first color, second color, third caller.</v>
+
+00:18:55.010 --> 00:19:12.150
+<v Speaker 1>You know, things that were three or four men that had all three color men is in it, which requires you to have a man. The base that really is pretty even where if you make 3 color cards that are more expensive, well, if the third colors you're splashed by the time you get to the more expensive spell, there's a better chance you've gotten to that third color.</v>
+
+00:19:13.910 --> 00:19:15.330
+<v Speaker 1>And</v>
+
+00:19:16.370 --> 00:19:32.920
+<v Speaker 1>I think the problem with three cover factions is communicated to some number of the audience that they're supposed to play three color and the set wasn't wasn't really well. I mean, we have to keep that in mind when we have the three color faction. The other thing that the three colors did was</v>
+
+00:19:34.530 --> 00:19:35.370
+<v Speaker 1>that it</v>
+
+00:19:37.630 --> 00:20:07.460
+<v Speaker 1>it just made, I mean, I liked the focus pulling of it, but it just when trying to balance things and trying to do your color balance, it just made it a lot harder. And what ended up happening was the way the color bands worked out. It ended up making the two color tribes, I think a little bit stronger. Like the correct answer. I believe in a lot of these was the stronger deck was the two color thrives and I believe that merfolk and vampires actually got drafted by.</v>
+
+00:20:07.600 --> 00:20:07.940
+<v Speaker 1>The people,</v>
+
+00:20:08.780 --> 00:20:26.550
+<v Speaker 1>the other ones got raptured more because people wanted to play pirates and dinosaurs. But if you look at sort of the people that knew what they were doing, I believe the nature of puts, we wanted all the factions to be viable, but we were cramming more into the smaller ones, which meant that the overall sort of</v>
+
+00:20:27.570 --> 00:20:34.060
+<v Speaker 1>the percentage of it just a little bit higher. And so it turned out to be those are slightly stronger. I think it's it turned out unlimited</v>
+
+00:20:36.700 --> 00:20:58.170
+<v Speaker 1>anyway. There definitely is some perception issues with having mismatched things and there were some developmental hobby sort of balance things. The other thing of having 4 factions did is magic is set up to do 5 factions really well. Magic loves doing cycles. Cycles are naturally 5. We had to do a bunch of cycles in the set that were</v>
+
+00:20:59.600 --> 00:21:03.650
+<v Speaker 1>a little weird to people, because when you do a cycle of four,</v>
+
+00:21:05.020 --> 00:21:14.180
+<v Speaker 1>especially if they're each in their own color, it feels like somehow you're missing something. It feels incomplete because you're so used to Cycles being five colors, that being four colors,</v>
+
+00:21:15.510 --> 00:21:45.580
+<v Speaker 1>and we had a lot of issues of trying to aesthetically balance that. So that was another challenge of having not 5, not not factions that fall into five. Note, by the way, we do something like Ravnica where we're chopping them up even though there's only four on the set because there's 10 in the block. We, you know, we feel like we can address all of them over the course of the block, even though they're not all dressed in that set. So anyway, that that also proved to be an issue. 4 is definitely a challenge. I mean, it's not that I don't want to do unmatched</v>
+
+00:21:45.650 --> 00:21:52.710
+<v Speaker 1>actions again or not. Do you know 4 factions? Again, they're just things I learned in that they were definitely challenging.</v>
+
+00:21:54.220 --> 00:21:54.770
+<v Speaker 1>Um,</v>
+
+00:21:56.010 --> 00:22:19.340
+<v Speaker 1>the other thing that I did, so one of the things that happened, like I said, I ran the first half of design, which was a year long, and then the hand of the range that came in the second-half. I was really, the idea that I was really caught on was I wanted there to be two mechanics and have each faction share a mechanic, but then have the execution of the mechanic be slightly different.</v>
+
+00:22:20.870 --> 00:22:21.800
+<v Speaker 1>So,</v>
+
+00:22:23.570 --> 00:22:24.900
+<v Speaker 1>so for example</v>
+
+00:22:26.450 --> 00:22:42.880
+<v Speaker 1>that will give away the exact mechanics. So we didn't of using them, but one of them had like a kicker like mechanic and I the outputs while related between the two factions were different outputs. So they felt connected, the mechanics felt connected, but they did something slightly different.</v>
+
+00:22:44.250 --> 00:22:57.580
+<v Speaker 1>And then the other one was kind of a raid variant. We ended up just going with Raid, but what happened when you hit your opponent varied between the two. So each one of them was each one of them wanted</v>
+
+00:22:59.080 --> 00:23:06.100
+<v Speaker 1>wanted to attack. And I guess it was, I mean, was it as much a raid variant, I guess, as it was a</v>
+
+00:23:06.900 --> 00:23:12.190
+<v Speaker 1>what's the one where you hit your opponent and you get to you get to your future creatures are cheaper.</v>
+
+00:23:14.020 --> 00:23:44.610
+<v Speaker 1>Like you guys know what it is. Ah, it was a it was a very there. The idea was if I hit my opponent, something happened and what happened very between the factions. So the idea was that there are only two mechanics and the idea there would be 1/3 mechanic. I mean, ended up becoming explorer. That wasn't what I guess it was explored by the end of the design. Not not through my proportion though. Anyway, the idea originally was that there be two mechanics that were shared over the four factions. So it also feel a little bit different from the way</v>
+
+00:23:44.720 --> 00:23:46.460
+<v Speaker 1>like there wasn't a fact a guilt</v>
+
+00:23:48.320 --> 00:24:06.170
+<v Speaker 1>in Ravnica. Every Guild has its own mechanic and I was trying something a little different than every faction has its own mechanic. In the end what ended up happening was only the two big ones. Only dinosaurs and pirates ended up getting a named mechanic, and then merfolk and vampires got a themed</v>
+
+00:24:06.960 --> 00:24:11.890
+<v Speaker 1>play pattern but not a named mechanic. And I I was.</v>
+
+00:24:13.060 --> 00:24:19.460
+<v Speaker 1>I like what I was trying to do. I'm kind of sad that it didn't quite pan out just because</v>
+
+00:24:20.430 --> 00:24:48.870
+<v Speaker 1>one of the things I'm always doing whatever we do factions is I'm trying to find new tools to use with factions. Obviously Ravnica is very popular and I some of the time we should do things like Ravnica, but I want to sort of open up because I think factions are popular enough that we could do them more often. But that means we need to find more nuance of how to do factions. There's a lot of what Epsilon was trying to do, was trying to find some new ways to do things. And one of the big lessons learned is</v>
+
+00:24:49.750 --> 00:25:20.080
+<v Speaker 1>I some of the things I tried didn't quite work out as well as I had hoped. And really the lesson, the sort of the meta lesson, if I will, is we have found some good ways to do factions. I've trying to find more ways to do factions. They're not it's not as easy to carve out new space, not impossible. And there's elements that we did learn that were successful, but it is tricky and that a lot of the cleanest way to do the factions gets taken up already. And so</v>
+
+00:25:20.490 --> 00:25:23.300
+<v Speaker 1>trying to find new and interesting ways to do factions</v>
+
+00:25:24.440 --> 00:25:40.090
+<v Speaker 1>is a challenge moving forward. I just want my biggest takeaways from Exline. Exline had a lot of issues, and the biggest one was we were trying to do things a little bit differently and it didn't work quite as well. So that says, Oh, well, maybe that's not exactly how we need to do it, but it was</v>
+
+00:25:40.820 --> 00:26:08.180
+<v Speaker 1>in some ways the lowest hanging fruit we had. So that means that I got to dig a little deeper to figure out how to solve this problem. And maybe one of the things I've also learned in the past is not every problem is completely solvable. Maybe we have the best way to do factions and the other was just aren't quite as good. I don't know. I, I'm not giving up hope. I believe there's other ways to do some factions that we can try and you'll see us trying some new things along the way. I haven't given up experimentation yet, but one of the big lessons of of Exelon was that it,</v>
+
+00:26:09.000 --> 00:26:09.500
+<v Speaker 1>umm,</v>
+
+00:26:10.480 --> 00:26:11.770
+<v Speaker 1>it really didn't.</v>
+
+00:26:13.500 --> 00:26:19.330
+<v Speaker 1>A lot of the new innovations for factions didn't quite pan out as well as I did. OK, another big lesson was</v>
+
+00:26:21.960 --> 00:26:30.150
+<v Speaker 1>we always know what magic being a pendulum that we push in different directions. The pendulum, like a, you know, thing hanging on, swinging on a chain over a sandpit.</v>
+
+00:26:31.570 --> 00:26:43.060
+<v Speaker 1>But one of the things I've also learned is sometimes the nature of how we function is we go too far in One Direction, so we push back and then we overcompensate. And Exelon is a really good example of that.</v>
+
+00:26:44.760 --> 00:26:45.490
+<v Speaker 1>We,</v>
+
+00:26:46.190 --> 00:27:16.260
+<v Speaker 1>if you go back and look at Coward Ash and Almond Cat, we were getting a little on the complex side. I mean, I know that they're very in enfranchised players really, really enjoy it. Aniket Hour of Devastation Limited. But part of that was because they're so complicated. There were a lot of things going on and one of the things that Exelon did was trying to find some ways to simplify common a little more than we had been. And I think we pushed a little too far on that. I think we created some rules to follow</v>
+
+00:27:16.330 --> 00:27:31.350
+<v Speaker 1>that didn't need to be followed because a lot of times I'm talking about how we made things too complicated. I think each line is the reverse, that we we added a bunch of rules to follow to make it simpler. That I think was too many rules to add that I don't.</v>
+
+00:27:32.790 --> 00:27:55.640
+<v Speaker 1>There's a there's a balance between being approachable and understandable by people that are trying to play the game that aren't as enfranchised versus having enough depth that enough excitement that people who have played a lot, who are, who are willing and want more have enough of that. Now a lot of that is us trying to do lenticular design software like we're hiding the complexity so beginners don't see it, but</v>
+
+00:27:57.250 --> 00:28:10.480
+<v Speaker 1>influent overshot insulin and we adjusted for it. You know, you'll see that a little bit in Dominaria is even more and sets that follow that we recognize that excellent kind of went a little too far on that regard.</v>
+
+00:28:12.010 --> 00:28:20.620
+<v Speaker 1>And I think that the result of that is that there's a little less depth. I think what you saw was when we did</v>
+
+00:28:22.190 --> 00:28:46.220
+<v Speaker 1>um, ether revolt, we kind of adjusted to that a little bit. I think the draft format with both excellent and another revolt. Sorry that that goes to Kaladesh rivals. Excellent, Sorry, rival looks fine. The rivers Excellon, I think definitely dialed it back a little bit and that there's a little bit more going on and that the full block is a slightly better limited environment if you're in franchise player than just just Exelon.</v>
+
+00:28:47.870 --> 00:28:52.040
+<v Speaker 1>The other big lesson I learned, which was an interesting one, which is, um,</v>
+
+00:28:54.310 --> 00:29:24.880
+<v Speaker 1>dinosaurs like so pirates and dinosaurs on the surface feel very similar because ohh, well, there are, there are trope, you know, I've seen millions or not millions, but I I've seen many, I've seen numerous pirate movies and I've seen numerous dinosaur movies and I have a general sense of what to expect out of them. I have a general sense of what what I would expect. But what we've found is that dinosaurs were harder to top down than pirates. And the reason for that is</v>
+
+00:29:26.180 --> 00:29:29.800
+<v Speaker 1>there's a lot of different kinds of pirates. Pirates are a character type.</v>
+
+00:29:30.450 --> 00:30:00.320
+<v Speaker 1>You can have a swashbuckling pirate, you can have sort of a a greedy pirate. You can have, you know, a dead pyrite, you can have a phantom pirate, you can have, you know, scheming pirate. You can have kind of a clueless pirate. You know, there's a lot of different sort of trope. There's enough pirate films itself that there's been a bunch of different tropes made for pirates. So you have a bunch of different directions you can go. And that allows us to make cards that each have their own distinctive identity. The problem with</v>
+
+00:30:00.390 --> 00:30:12.930
+<v Speaker 1>dragging it was dinosaurs is while you have a variety of kinds of dinosaurs, you don't have a lot of motivational differences. Like what does a dinosaur do? They roll, they attack things, they kill things.</v>
+
+00:30:14.730 --> 00:30:28.820
+<v Speaker 1>And some of the differences like, oh, this is the gentle plant eater in a combat game is not like, look, if you're bringing dinosaurs fighting and so OK, my plant eater is going to fight and these little dinosaurs. So it's pretty big.</v>
+
+00:30:30.350 --> 00:30:44.380
+<v Speaker 1>And so we while there was some, I guess I'll call iconography, meaning ohh, it's a T Rex, ohh, it's a Raptor. Ohh. You're like, we had a little bit of getting to sort of play around with, with shapes.</v>
+
+00:30:45.890 --> 00:31:04.770
+<v Speaker 1>There wasn't as much top down design potential because like, OK, well, what is this dinosaur want to do? Pretty much what all the dinosaurs want to do. He wants to eat you. You know, it's it's a wild animal And and there was some subtle things that pterodactyls fly. And I know it wasn't technically a dinosaur, but we called the dinosaur because I think once we mad if we hadn't, by the way,</v>
+
+00:31:06.100 --> 00:31:36.090
+<v Speaker 1>you know, and then, OK, the velociraptors are smaller, but smarter. I mean, there's a few little things you can do, but did that nearly have the flexibility? And one that can be careful about is when you're doing tribes, you have to be careful how much you do tribes. The more tropes you have built into them, the more their character types, the more different designs you can do. I think pirates just gave us so much more flexibility on on what I mean by that is having distinctly different designs that you can do where dinosaurs kind of</v>
+
+00:31:36.470 --> 00:31:38.610
+<v Speaker 1>melded together a little bit. And</v>
+
+00:31:40.500 --> 00:32:04.370
+<v Speaker 1>I mean looking at the mechanics real quick. I, I think raid was a good thing to bring back. I I there's something really fun. We can bring something back that kind of just flavorfully, is it such a perfect matches what you need, especially when you're doing top down like, well, what does pirates do? What things do is raid. It's a big pirate thing to do. So raid was kind of cool that we brought it back and it just sort of matched the essence of what we wanted. I felt enrage.</v>
+
+00:32:05.780 --> 00:32:09.270
+<v Speaker 1>I think in rage is an interesting mechanic. I feel</v>
+
+00:32:10.810 --> 00:32:14.190
+<v Speaker 1>it being tied to dinosaurs worked OK.</v>
+
+00:32:15.420 --> 00:32:20.510
+<v Speaker 1>Sort of like, you know, don't miss dinosaurs. It makes them mad. That flavor worked OK.</v>
+
+00:32:22.140 --> 00:32:52.490
+<v Speaker 1>Dinosaurs wanted to be what they are in the mechanic wanted to be what it is. Enrage kind of wants to be on smaller things and dinosaurs kind of want to be a bit bigger. So there's a little bit of tension there between the mechanic and the sort of the archetype of of the creature that we were doing. So it worked OK. I think the mechanic could be brought back and used again in a slightly different manner. Biggest problems we called enrage because trying to give dinosaur flavor and I actually think that there's some ways to</v>
+
+00:32:52.560 --> 00:32:56.750
+<v Speaker 1>will be a little better. Anyway, I'm not sure quite to do that. Explore</v>
+
+00:32:58.100 --> 00:33:09.180
+<v Speaker 1>Explorer is one of those things. Every once in a while we get a mechanic where I really like when the mechanic does, but holy moly, the amount of words are required to communicate what it is, both in</v>
+
+00:33:09.930 --> 00:33:26.360
+<v Speaker 1>understanding what the mechanic does and justice. There's a physical response players have to words that if you just have a certain number of words, like if you see a card and the first thing you see is the card has five lines of text, the first thing you kind of do. If it's the first thing you see, the card is like</v>
+
+00:33:27.730 --> 00:33:31.670
+<v Speaker 1>a little bit exasperated. Like that's OK, I got, you know, I'm saying it's kind of like,</v>
+
+00:33:32.970 --> 00:33:52.740
+<v Speaker 1>you know, you go to do your workout and like here's heavy, heavy barbells. Like, oh, I've got to lift that. Like you just know it's a lot of work coming and that I like what Explorer did. It's one of those mechanics that if I could find a way to communicate it in less words, I'd be more likely to do it again. But the baggage of the words and all that makes it sort of hard to use.</v>
+
+00:33:54.770 --> 00:34:07.760
+<v Speaker 1>Like none of the mechanics in And then we had a send. I do like the thing ascended that I actually the thing I was most interested in, although there's some question whether it's Wanda do or not. I like the idea of turning on and not turning off.</v>
+
+00:34:09.270 --> 00:34:14.320
+<v Speaker 1>My only issue there is there. There's not a lot of memory to tell you, although at least it's one thing and it matters.</v>
+
+00:34:15.750 --> 00:34:16.560
+<v Speaker 1>But</v>
+
+00:34:17.510 --> 00:34:22.630
+<v Speaker 1>I most of the mechanics I feel in the block were they were all fine</v>
+
+00:34:23.320 --> 00:34:42.230
+<v Speaker 1>workhorse mechanics I think did good work. There was nothing splashy that that's the other big thing is we leaned a little more on carbon garden top down than we did on mechanical space and mechanics. Well, very functional and played well weren't quite as like we were missing kind of a sexy mechanic.</v>
+
+00:34:44.160 --> 00:35:14.360
+<v Speaker 1>In retrospect, knowing that everything that I know now and knowing that dinosaurs ended like when the dust settled. Not the people dislike pirates, but dinosaurs got more of a love than pirates did. In retrospect, I would have and I know, I know, I know the team looked up and down. So my desire in the building for us to have found that might not have ever really lined up. But I kind of wish in retrospect that we could have got a splashier dinosaur mechanic. I don't know what that is. I know they looked a long time. So it's possible that image was the best we're going to do. But it looking back,</v>
+
+00:35:14.430 --> 00:35:44.780
+<v Speaker 1>I'm like, ohh, if I had to do it again, if I was going to use dinosaurs again, I think dinosaurs are better used slightly smaller, but with maybe a tribe that helps a little bit. As my guess, it's something we had messed around with early on of having the soldiers that ride. I mean, it is what we did, but early on there were some soldier tribal and some dinosaur tribal and they kind of intermingled. And maybe in the future, I would try to do like people and the dinosaurs that work together so that the dinosaurs</v>
+
+00:35:44.850 --> 00:35:59.480
+<v Speaker 1>should be more of the bigger stuff and less trying to make the dinosaur deck have to work all on its own. There are smaller dinosaurs. I mean, we were able to make cheaper dinosaurs, but it didn't. I don't know. My take away from it is I feel we did a lot of like</v>
+
+00:36:00.430 --> 00:36:30.880
+<v Speaker 1>I feel we did a really good job of a lot of individual dinosaur cards, but I felt we never quite got a dinosaur deck. The quite lived up to the Fahrenheit for the dinosaurs. I think pirates did better. I think vampire merfolk definitely did better, but the dinosaurs were the 1. I mean, not that the dinosaurs were bad. I think there was so much hype and I feel like we could have put a little more splash in that space. Anyway guys, my take away from the Exelon was we tried a lot of interesting things. We learned a lot from it. In some ways it was a very valuable</v>
+
+00:36:30.950 --> 00:37:00.410
+<v Speaker 1>that because we learned some things in the future that will make us better at designing these kind of sets in the future. But it did mean that some things didn't work out quite as strongly as I'd hoped. And it definitely was a set that like people were more excited learning about it than they were playing it. And that usually means that there's some we we erred on our side and some things that we need to fix. So anyway, I hope you guys found that interesting. Like I said, I think there's a lot of fun. When I do lessons learned, I get Uber critical. So it sounds like I like nothing about. I think there are a lot of fun things in the set.</v>
+
+00:37:00.960 --> 00:37:30.700
+<v Speaker 1>Just really did embrace the dinosaurs in the pirates and the vampires and the merfolk. I think the tribal stuff was fun. I think the mechanics, none of the mechanics were gods. I think all the mechanics had some really fun execution and game play and there's a lot of fun stuff there. I just when I analyze, I always try to make sure how to make it better. So this, that had a lot of some room for improvement and lessons we learned from it that I think we'll go to making feature sets better. But anyway, I'm now parked so we all know that means this is the end of my drive to work</v>
+
+00:37:30.970 --> 00:37:34.670
+<v Speaker 1>set of talking magic. It's time for me to make a magic. See you guys next time.</v>
+

@@ -1,0 +1,665 @@
+WEBVTT
+
+00:00:01.450 --> 00:00:30.980
+<v Speaker 1>I'm pulling in my driveway. We all know that means it's on another drive. Newark. OK, so today I'm going to talk all about the great Designer Search 3. Or better yet, what I'm going to do is sort of give some background and explain sort of how it came to be and talk a little bit about it. As of me recording this, we have not quite announced it yet. We're gonna announce it very soon, but I want this. I want you guys to hear this. My goal is</v>
+
+00:00:31.050 --> 00:00:59.550
+<v Speaker 1>trying to aim in between people entering and the show starting. I might be a smidgen off, but that's my goal here. So anyway, I wanted to sort of give some context to what's going on and give a little history. I've had podcasts on the great designer search, so I'll spend a little bit of time doing backup, but I really want to spend more time sort of talking about how the third one came to be. But little let me start by a little background, because I always assume that people haven't necessarily</v>
+
+00:01:00.920 --> 00:01:14.770
+<v Speaker 1>listen to my other podcast. So let's talk about sort of where it came from and sort of the the reason behind the great designer search. So it goes back to I think it's 2006. So what happened was</v>
+
+00:01:15.600 --> 00:01:28.890
+<v Speaker 1>my boss at the time was a man named Randy Bueller. You guys might know him as the from the Hall of Fame, Magic Pro Tour Hall of Fame. He was a pretty famous pro player. He did commentary for a long, long time.</v>
+
+00:01:30.480 --> 00:01:42.930
+<v Speaker 1>Anyway, Randy was my boss at the time. And so one of the things that we often do on the development slash sort of set and play design end of things is</v>
+
+00:01:43.710 --> 00:01:51.060
+<v Speaker 1>we often will go to the pro tour, find players that have the skills we need and then we will give them a six month.</v>
+
+00:01:53.140 --> 00:02:12.290
+<v Speaker 1>What's the technical term? I keep wanting to call in an internship that not an internship technically a contract, a contract, a six month contract gig. And the idea is one of the things we're big in R&amp;D is sort of trying people out before we hire them and that we give people think, OK, let's try this out and see how it goes.</v>
+
+00:02:13.790 --> 00:02:19.520
+<v Speaker 1>So Randy comes to me and Randy says, OK, I would like to to do a six month</v>
+
+00:02:21.060 --> 00:02:42.940
+<v Speaker 1>contract position for someone for design because I was the head designer is like we always bring people in for development. Now since then we've shifted over to vision set and played design, but you guys listen to podcasts on that. But anyway, he's like, I want to bring in a designer. I have the budget for six months</v>
+
+00:02:44.340 --> 00:02:51.830
+<v Speaker 1>and if they work out, then, you know, we could hire this person. And he said to me, but like, this is your area, who do you want?</v>
+
+00:02:52.630 --> 00:03:23.080
+<v Speaker 1>And I said to him, I go, ohh, well, here's the problem. Here's the thing. Here's the the concern I have is I know that on the developmental side that the pro tour is a perfect sort of place to search for people. That the skills that you need to sort of test the game and break the game and all the skills you need to sort of figure out whether or not something is working translate really well to being good at Magic. That a lot of our top developers have come from the proton have Protor experience.</v>
+
+00:03:24.000 --> 00:03:43.930
+<v Speaker 1>The problem is being good at making the cards is a different animal than sort of field testing the cards and that just be good at Magic just inherently make you necessarily good at coming up with what the cards do or the ideas. So I said to him, I don't know where to find this person. I don't know.</v>
+
+00:03:44.870 --> 00:04:01.760
+<v Speaker 1>I would, I would like to do this. I definitely we need to find more design talent. So he said, well, think about it. This is something that he's he was budgeting. So I thought about it and that night I believe my wife and I were watching TV. I remember</v>
+
+00:04:02.720 --> 00:04:21.430
+<v Speaker 1>I'm gonna say project one way. I think it was project one way, but it, it, it could have been one of multiple reality shows. So for those that don't know their reality shows, my wife and I watched a number of reality shows. There's a whole class of reality shows in which it essentially is a job interview where you are trying to do something and it, you know,</v>
+
+00:04:22.140 --> 00:04:46.280
+<v Speaker 1>you know, Project Runway, you're designing clothes and Top Model, you're a model and Top Chef, you're a cook and Last Comic Standing, your comedian. And, you know, there's been a lot of these kind of shows. The idea is you're good at some scale and then you're constantly tested on that scale, usually through challenges that are a little offbeat. And then each week, a panel of judges, judges you and somebody gets eliminated</v>
+
+00:04:47.310 --> 00:05:17.200
+<v Speaker 1>and you whittled down until somebody wins. And I was watching this and I was like, ohh, this is what I need. I go, my problem is I want to find designers, but the only way to do that is to sort of test people's design skill. How do we do that? And I said, oh, well, what if we had like a show, like a reality show where people applied and then I'd give them design challenges, you know, and they could have to come up with weird design challenges. And then we have judges. And so I came back and said, OK,</v>
+
+00:05:17.270 --> 00:05:22.760
+<v Speaker 1>this is not a little weird, but what do you think if we do like a reality show to find our designer</v>
+
+00:05:23.430 --> 00:05:32.340
+<v Speaker 1>and random layout? If you want to do it, sure, fine with me. So we needed to come up with a name. I remember we went through a whole bunch of different names.</v>
+
+00:05:33.720 --> 00:06:03.620
+<v Speaker 1>Yeah, I don't remember who came up the great designer Search. It wasn't me if somebody else. And they said, what do you think of the great designer search? We had all sorts of names. I think we were riffing off existing things and we were trying all sorts of, so you want to be a designer, different things like that. And somebody pitched the great designer search and I don't know, it just sort of hit us like, oh, that sounds pretty good. So GDS for short. So if I refer to it now, I might call it GDP means Great Designer Search. So anyway, I got the thumbs up from</v>
+
+00:06:03.730 --> 00:06:33.870
+<v Speaker 1>from Randy and the the real big question was I knew if I went out there and I said, Hey, who wants to be a designer? I get requests all the time for people who want to be in R&amp;D. It is a really, really common thing that people like sort of ask me about is I want to make Magic cards. How do I make Magic cards? And I know there's tons and tons of people that go make their own custom Magic cards. I can't look at them, but I know they're there. I write a yearly column or annual column called nuts and bolts designed for people want to make their own cards. I know</v>
+
+00:06:33.940 --> 00:06:37.100
+<v Speaker 1>is a thriving group out there and I just wanted to tap into that</v>
+
+00:06:38.310 --> 00:06:47.990
+<v Speaker 1>what I need to do in a way that I was allowed to do because I'm not allowed to look at unsolicited stuff. So but they did a contest where I solicited things, I could look at it. And so</v>
+
+00:06:48.750 --> 00:07:18.740
+<v Speaker 1>the big challenge was how to how do we find our contestants? Because I couldn't look at endless contestants and I knew, I knew thousands of people would apply and they did. So how do I narrow that down? So the first idea is that I said, OK, I want to make sure people are committed, that part of doing this job is having a real commitment to it. And I want to make sure that people have the right ideas. A lot of finding a good designer, it's not just the car design itself, but do they get the general</v>
+
+00:07:18.880 --> 00:07:49.120
+<v Speaker 1>sense of magic? Do they, you know, where does their mind at? And I also communications are really important part of being a designer. You have to communicate your ideas to other people and you have to sell your ideas and people have to understand what you mean. So communication is important. So for the first trial, we decided to do an essay test and the idea was that there be 10 questions. Each question would require an answer of 250 to 350 words. So on average 300 words. So that's about 3000 words of right now.</v>
+
+00:07:49.190 --> 00:08:09.600
+<v Speaker 1>They did a couple of things for US1 It showed you were serious. You don't just write 3000 words unless you mean it. Two, it allowed us to get a glimpse of what they thought about things and we can ask questions, trying to get a sense of their mindset. What do they think of design? How do they see it? And 3rd, it allowed us to sort of get a sense of their communication skills. Can they convey what they mean?</v>
+
+00:08:11.150 --> 00:08:41.210
+<v Speaker 1>And the important thing about the essay question really was, do they? Do they have thought on ideas? The goal of finding designers is not finding people that just mimic what we say. It's find designers have their own ideas. One of the great things above, the great designer search and the successes we've had to get to that in a second is we found people that really come and have their own stamp on Magic design. I take someone like Ken Nagle. Ken Nagle makes cards that nobody would Ken Nagle would make. And that's what we need.</v>
+
+00:08:41.280 --> 00:08:55.740
+<v Speaker 1>We need somebody who's gonna make something that's not gonna repeat what we would have made, but make something we wouldn't have made. That's the most value. So anyway, we did the SAT test, the trial, I'm calling them trials. The separated them from the challenges,</v>
+
+00:08:57.300 --> 00:09:14.990
+<v Speaker 1>OK, but, but still a lot of people were willing to write in and a lot of people had good ideas. So we needed a way to get from the large number of people to a smaller number of people because design tests are really, really hard to grade and you can't grant infinite number of them. So what we did is</v>
+
+00:09:16.630 --> 00:09:21.180
+<v Speaker 1>we came up with the idea of doing a multiple choice test. And that was very,</v>
+
+00:09:22.620 --> 00:09:51.450
+<v Speaker 1>that was very, of all the trials we have, we have three. Normally that's the controversial one because it's, it's something in which we're taking something that's very subjective and making it very objective. Like here's a test in which, hey, there's an answer and one of them is the correct answer. And if you think, well, I know people think B, but I think a, well, you get it wrong. And that the essay test and design test gives a lot more flexibility for sort of having your own take on things. But</v>
+
+00:09:52.410 --> 00:10:12.060
+<v Speaker 1>I need to get from a lot of people down to not so many people. And we need to do it in a way that's easily, you know, gradable. And so we need to do a multiple choice test. The first one we did was 35 questions. As you will see, we over time have added more questions. And then what we did is we</v>
+
+00:10:12.520 --> 00:10:43.470
+<v Speaker 1>he looked at the amounts of people who got different questions right, and we had a general sense of about how many we could grade for the design tasks we took that cut off. So we never know what the cutoff is. Will people take the test? I will point out, by the way, in the two tests we've done so far, the first one has 35 questions. The second one had 50 questions. One person got named Max McCall, who actually worked for Wizards for a while, is the only perfect score in the history of the great designer search. The tests are usually hard because we're trying to check things. The idea of the test was that there are a lot of objective</v>
+
+00:10:43.540 --> 00:10:48.330
+<v Speaker 1>things you need to know to be a designer. You need to understand the color pie and</v>
+
+00:10:49.720 --> 00:11:02.080
+<v Speaker 1>the color philosophies and sort of how things are made and what's what rarity. And you know, we we had to there's just some things that look, you need to understand these basic principles. So a lot of that we put on the tasks.</v>
+
+00:11:03.620 --> 00:11:27.760
+<v Speaker 1>And then the third trial was the design test for. So for the first one, it was makeup make a number of cars and there were constraints, make these cars under these constraints. The idea of that test is I want to give enough flexibility that people can come up with some really cool ideas that they've had, but enough restriction that they're going to be forced to design some new cards off the spot. And the idea essentially is some cards will be</v>
+
+00:11:28.490 --> 00:11:42.320
+<v Speaker 1>completely what they made, some cars will be adapted from things they've made, some cards will be brand new, made for the spot. And I want to test all three of those skills. Those are actually really important design skills. And so I want to make design test that sort of lets them show up all that.</v>
+
+00:11:44.280 --> 00:12:14.130
+<v Speaker 1>And then what happens is once they turn the design test in, we then go back and look at everything again with a fine tooth column. So we look at the design tasks, we look at the essays, we see how they did on the tasks and what questions they missed on the test. Not all questions are equal. They're equal for getting so many passes you. But when we look back and see what you've missed anyway, it's very illuminating to get a sense of the person. So anyway, we did the first group down search. We had our trials. So the first one, we ended up</v>
+
+00:12:14.210 --> 00:12:44.180
+<v Speaker 1>taking sixteen people to be in the challenge. One person dropped out right at the end, right before the bar starts. We ended up doing 15. And what we did is there was five weeks of challenges. So everybody did the first challenge, then we eliminated 3 people, then three people, then three people, then two people, then two people. That's right. No, it's 33222. So we ended up with three. At the end of the last challenge, there were three people remaining who was Alexis Jansen, Ken Nagle and Graham</v>
+
+00:12:44.260 --> 00:13:13.730
+<v Speaker 1>Buckets. And then we flew the final three out to Wizards. We had a live challenge. We were able to sit down and chat with them. So and then we picked the winner there. So for those who don't know their history, Alexis Jansen won the 1st grade down search. Ken Nagel came in second, Graham Hopkins came in 3rd. We offered both Alexis and Ken six months in R&amp;D and design. Graham ended up getting a contract position in digital</v>
+
+00:13:14.260 --> 00:13:44.430
+<v Speaker 1>and two other people, Mark Lopez, who had tied for fourth, got a job just outright. Actually, the funny story, I think tell the story. When we were going to fly them out, it was cheaper to buy tickets for the top five than it was to wait till we knew who the top three were. So we ended up having tickets for Ryan and Mark and Ryan was in school, so it didn't make sense to fly him out. But I mean, Ryan was willing to leave school to take the to take the internship that he got it. But we didn't want</v>
+
+00:13:44.500 --> 00:13:59.540
+<v Speaker 1>sort of take him away from school prematurely. But we mark, we flew out because he seemed like an interesting candidate. We ended up hiring him. He got hired in digital originally, but now he works in R&amp;D as a product project architect. So what happened was</v>
+
+00:14:01.080 --> 00:14:31.180
+<v Speaker 1>and then there's a guy named Noah Wyle who we ended up giving a contract development internship or contract. He wants the internship wasn't internship contract position now. No, I think really ahead of time. I mean, I think he was interested in seeing what Rod was like. Noah really wanted to become a lawyer, by the way, he ended up going to law school and it's not a lawyer and on to wonderful things. So I don't I don't think, I don't think Noah's long term job was to really be Wizards. I think he was more interested to get a sense of it. He had always</v>
+
+00:14:31.250 --> 00:14:41.890
+<v Speaker 1>played magic. I love magic. So he did not stay. But Alexis and Ken and Graham and Mark are still at Wizards. All four of them are still at Wizards</v>
+
+00:14:43.470 --> 00:14:45.420
+<v Speaker 1>and like I said,</v>
+
+00:14:47.080 --> 00:15:05.310
+<v Speaker 1>Alexis led the design for Dragons Maze. Mark Globus led the design for I think Magic 2014. Ken let all bunch of designs. He led Worldwake, he led New Freccia, he led Born of the Gods, he lent Eldritch Moon. He and I Co did excellent.</v>
+
+00:15:06.990 --> 00:15:14.800
+<v Speaker 1>I keep on this Epsilon because the Excedrin that's the wrong, that's the that's the guy who that's the character from anyway.</v>
+
+00:15:16.120 --> 00:15:24.750
+<v Speaker 1>And Graham is not actually led a design team, but he's very, very active on the in the digital side and he has been on many design teams and I love having Gram on design teams</v>
+
+00:15:26.220 --> 00:15:36.500
+<v Speaker 1>anyway. So that went well. We got a bunch of people, like I said, four of them, five came, four of them ended up long term staying at Wizards</v>
+
+00:15:38.050 --> 00:16:02.190
+<v Speaker 1>and all is well. So flash forward four years, I believe, I think it's 2010. We decide, OK, we're looking for, at the time we were, we were looking for a slightly different skill set and more for the first one, which was we were looking for what we called vision. The first one was a little bit more about raw card design. The second one was more about sort of vision, which is</v>
+
+00:16:02.890 --> 00:16:10.950
+<v Speaker 1>coming up with worlds, coming up with sort of larger sense of what what's gonna happen. We we needed more people of that scale, so we changed of how we did the second one.</v>
+
+00:16:13.620 --> 00:16:15.150
+<v Speaker 1>So the second great designer search</v>
+
+00:16:16.620 --> 00:16:29.130
+<v Speaker 1>was we had the audience, I'm not sorry. We had the contestants build a world. So we did the same thing. We had the trial of essays, We had the trial of multiple choice, went up to 50 questions from 35,</v>
+
+00:16:30.510 --> 00:16:31.800
+<v Speaker 1>and then we had</v>
+
+00:16:33.700 --> 00:16:44.640
+<v Speaker 1>the third trial was involved you building a world in the making, some cards that went within that world. So there still was a card design aspect to it, but we really made them build a world, which is a big part of it.</v>
+
+00:16:46.960 --> 00:17:08.250
+<v Speaker 1>And we had a wiki and then people could submit cards. So it was a very different system. And we did something where we want other people to get involved, but really what we're trying to do is test sort of vision. And part of what we were testing was can you take other people's ideas and use them. So not all the designs came from themselves that they also got other people to work with that came up with good designs</v>
+
+00:17:10.020 --> 00:17:27.200
+<v Speaker 1>and that test went similarly. Now the so there was a bunch of differences between GDS one and GDS 2. So GDS one we had 15 contestants. We were knocking out multiple contestants a week. We had five challenges, but they were run week back-to-back to back, which is kind of crazy when I think about it now.</v>
+
+00:17:28.380 --> 00:17:44.690
+<v Speaker 1>It was 5 consecutive weeks. So we did the great second grade designer search for like, OK, that was a little much. My running joke for each time I had done the great designer search is I'll do the next one once I forget how much work the last one was. So what happened was that</v>
+
+00:17:46.220 --> 00:17:50.740
+<v Speaker 1>we decided to not do 15. That was a lot of people. So we've cut down to 8 top 8.</v>
+
+00:17:51.660 --> 00:17:54.230
+<v Speaker 1>Big thing in Magic felt it felt like the right number</v>
+
+00:17:55.490 --> 00:18:01.800
+<v Speaker 1>and we decided instead of making it every week and make it every other week for two reasons.</v>
+
+00:18:03.230 --> 00:18:33.070
+<v Speaker 1>No sorry. One was that it was a lot to ask of the of the contestants and we felt like we needed to give them some downtime that making them work 5 consecutive weekends back-to-back to back-to-back, which just grueling. So that OK, OK, let's give them let's make it every other week to give them a week off and we needed more time to put it together. So little behind the scenes thought for you guys. The way it works is we have a number of judges and then for each test, the people turn it in and then</v>
+
+00:18:33.160 --> 00:19:01.260
+<v Speaker 1>each judge at the same time because we're trying to go quickly judges all the cards. So let's say for example, we do a challenge where we make them design 10 cards. Let's say there's eight of them. So that means every judge has to grade ad cards, has to take each card from the different people and then greet each card. And then what happens is each person writes their review and then they send it to me. And then my job is to then mold them all together. And what I mean by that is</v>
+
+00:19:02.600 --> 00:19:30.660
+<v Speaker 1>I wanted to read conversational. I wanted to read as if the judges are talking to each other. So let's say, for example, one of the judges says something and then I say the same thing. I will change my answer to go, I agree with Judge A, this is a problem. So I will say what I have to say, but I will put it in the context of me agreeing with what comes before Mayor, me adding on to something someone else said so that it is, it gets the sense that there's more connection. One of the things that we're trying to do is</v>
+
+00:19:32.250 --> 00:19:58.430
+<v Speaker 1>the greatest research has proven to be a really good tool to find designers, but it's also been a very educational experience. If you love Magic, especially if you love Magic design, there's no greater way to really get into the nitty gritty of Magic design than watching people actually design and watching real people judging them and giving them feedback, because that is actual Magic design. You make cards, people give you feedback on them, and you adapt to the feedback. That is what we do.</v>
+
+00:20:01.050 --> 00:20:01.820
+<v Speaker 1>So</v>
+
+00:20:02.960 --> 00:20:25.800
+<v Speaker 1>if you really are interested how magic design clicks and works, the other thing you'll find interesting is the judges don't always agree. Sometimes 1 judge like some the other judge doesn't like, you know, it's not as if there's just universal appeal to everything. The other thing you'll find is there's a lot of rules that come out. If people break the rules, like, Oh well, you did something we don't do, and then we'll explain why they should or shouldn't do that.</v>
+
+00:20:27.660 --> 00:20:33.160
+<v Speaker 1>And the thing that's been really cool of watching both these previous Gses for the audience is</v>
+
+00:20:35.040 --> 00:20:41.650
+<v Speaker 1>some of the ideas that have been made. Later went on to become things. Prowess showed up in the second grade design research.</v>
+
+00:20:42.960 --> 00:20:58.530
+<v Speaker 1>There's a card, the card better than one from Unstable. Alexis Jansen made it in the first grade designer search. I think we changed colors, but she designed the card. There's just a lot of cool things</v>
+
+00:21:00.280 --> 00:21:02.410
+<v Speaker 1>that that get created and some of it like</v>
+
+00:21:03.900 --> 00:21:09.630
+<v Speaker 1>Ethan made evolve that that became a simic mechanic and returned or in in gate crash,</v>
+
+00:21:11.370 --> 00:21:20.160
+<v Speaker 1>Sean Maine made battalion that ended up becoming mechanic also in gate crash. Gate crash was right for the GPS, so I was able to use it herself.</v>
+
+00:21:22.240 --> 00:21:32.200
+<v Speaker 1>So anyway, uh, let me talk a little bit about the judging. So the way the judging works is we were modeling ourselves after the way they do them on the shows, which is we want to have</v>
+
+00:21:34.170 --> 00:21:36.740
+<v Speaker 1>judges give you feedback. The first time we did it,</v>
+
+00:21:38.310 --> 00:22:07.680
+<v Speaker 1>I ended up getting 3 judges, 3 human judges, which was I got Aaron Forsyth and Devin Lowe. They were, I think Devin was at the time was the head developer and Aaron was my prodigy at the time working on design. I knew both of them could write. And then we had Gleemax, which I think I mentioned this before I wrote Gleemax so I wrote myself as well. The point of Gleemax was I was trying to get a Simon Cowell kind of like really cuts to the point,</v>
+
+00:22:08.180 --> 00:22:19.740
+<v Speaker 1>not sentimental sort of judge, but I didn't want any human depth to do that because it So I decided Gleemax is the alien brain that runs around. We decided that might be we could use that as a means.</v>
+
+00:22:20.950 --> 00:22:26.740
+<v Speaker 1>So Gleemax always gave really short really to the point, bluntly to the point advice.</v>
+
+00:22:28.290 --> 00:22:29.960
+<v Speaker 1>And anyway, umm</v>
+
+00:22:31.680 --> 00:22:47.750
+<v Speaker 1>ohh. The funny story is, so the very first week we do judging, and Devin is Devin's a sweet guy, so he was just being real supportive in his comments and a lot of people. So at the time,</v>
+
+00:22:48.650 --> 00:22:56.940
+<v Speaker 1>American Idol was a big thing and the judges at the time, Simon Cowell was the harsh judge and Randy Jackson was sort of,</v>
+
+00:22:57.600 --> 00:23:27.750
+<v Speaker 1>I don't know, he was the fun one. And then Paula, Paula Abdul was known as the nice one. And so all these people made jokes about about him after the first week that he was the Paula Abdul because he was so nice. And the next week he decided, oh, I'm not so nice. On week two, he just got really harsh in his criticism. Like somebody had made a mechanic called Fragile. And the way fragile worked is any damage you took would kill you. And so his response to that is, yeah, there's already mechanic in the game. Fragile already mechanic in the game. We call it</v>
+
+00:23:27.870 --> 00:23:37.290
+<v Speaker 1>one toughness. So I remember going to go whoa, whoa, David, Devin, you gotta I like nice Devin, can you please be nice Devin? So he didn't got a little nicer so</v>
+
+00:23:39.260 --> 00:23:51.110
+<v Speaker 1>but anyway, so that was so the second the second great designer search. The judges were me and Ken Nagle and then we brought in guest judges. The reason we did that was</v>
+
+00:23:52.860 --> 00:24:23.060
+<v Speaker 1>there's a lot of people I wanted to involve. And so the only way to do that was I, I just, everybody couldn't judge. If I just had, I couldn't have 20 judges. So what we did is we did have me and Ken and then we would have one to two guest judges that would come in. And it allowed us, for example, to bring back people who were in the 1st grade designer search and stuff like that. I know Alexis and Ken. Ken was one of the regular judges, but Alexis and I think Graham and I think Globus, a bunch of the people from this one came and did</v>
+
+00:24:24.040 --> 00:24:27.490
+<v Speaker 1>did stints as guest judge I thought was really cool. So anyway,</v>
+
+00:24:28.210 --> 00:24:58.120
+<v Speaker 1>ohh, the other thing about the second great designer search was there's this thing at Hasbro called the in any awards or sensor innovation, I believe that just looks for innovative things, cool things that people do. And so the great designer search 2 won the innovation award 1, the inward. And we joked at the time, that's kind of funny that the second one when the innovation award is like, we did it again and that's innovation. I think what happened though, was I don't think any words existed when we the 1st grade design research. So the first grade</v>
+
+00:24:58.190 --> 00:25:03.810
+<v Speaker 1>web search that existed within the context of us of there being innovation awards. One, I still have that in my desk.</v>
+
+00:25:07.170 --> 00:25:09.340
+<v Speaker 1>No, there's a lot of traffic. How we do on time?</v>
+
+00:25:10.570 --> 00:25:31.000
+<v Speaker 1>Let's see. Oh, this might be a long podcast. I should pace myself. OK, so those were the first two great designer searches. Oh, so the second great designer search, The top three were a guy named Ethan Fleischer who came in first, Sean Maine who came in second and Scott Van Essen who came in 3rd.</v>
+
+00:25:32.260 --> 00:26:01.240
+<v Speaker 1>So what happened was Ethan wanted he got, he got a contractor to six months in design. Sean ended up getting a different contract gig in R&amp;D, but not in design. And Scott at the time we passed, although dual masters would later come back and hire Scott, Scott no actually works in R&amp;D. So all three of the top of the first three came to work in Magic. All three of the second three came to work at Wizards and Magic,</v>
+
+00:26:02.270 --> 00:26:06.830
+<v Speaker 1>I guess. I guess Alexis and Graham in the first one aren't digital, still magic, but</v>
+
+00:26:08.460 --> 00:26:36.930
+<v Speaker 1>so anyway. Also John Laux, who was I think came in fifth in the second Great designer search. He also came and worked for R&amp;D for awhile. A few of the people I named, Sean and Noah and John went on to do other things, are currently at Wizards, but of the nine people I named, six of them are still at Wizards, so that's impressive. Ethan and Scott from the second one are still at Wizards. And Sean,</v>
+
+00:26:37.700 --> 00:26:50.750
+<v Speaker 1>Sean was here recently, Sean less recently, but anyway, very successful. Some people might say, OK, so you did the last one. I think we did in 2006,</v>
+
+00:26:52.240 --> 00:26:56.920
+<v Speaker 1>is that right? 2006, 2000 or sorry, the first one, 2006, The last one was 2010,</v>
+
+00:26:58.280 --> 00:27:14.870
+<v Speaker 1>but still there was a four year gap between the first one. The second one, what the seven-year gap would happen or six year gap? The 2010 is when we started in 2011 is when it finished and they got hired I believe because it takes a while to run for those who don't know the GDS.</v>
+
+00:27:16.520 --> 00:27:16.990
+<v Speaker 1>So</v>
+
+00:27:17.820 --> 00:27:46.990
+<v Speaker 1>on December 4th, we announced that we were doing the third grade designer search. People could put their name in. And then on January 16th, anybody who had turned on. Let me tell this real quickly. So one of the restrictions, if I could waive my, if I had a magic wand to wave, I would love to just hire the best magic designer in the world. The problem is because of sort of Labor laws and things,</v>
+
+00:27:47.870 --> 00:28:13.090
+<v Speaker 1>I'm only able to hire somebody who can work in the building that I can hire to them in. Meaning we need the person in Renton with us so we can see them to gauge it does no value. Long distance doesn't work. We're too collaborative that you really need to be in the thick of things. And that means in order to try somebody out in a temporary capacity, we need them to be able to work in the US. It is</v>
+
+00:28:14.710 --> 00:28:19.700
+<v Speaker 1>basically impossible to get a visa for somebody for temporary work. It's just</v>
+
+00:28:20.920 --> 00:28:27.080
+<v Speaker 1>in order to prove you need a visa, you have to prove that they have a skill that you need. And there's a lot of things you need to do it just</v>
+
+00:28:28.650 --> 00:28:34.580
+<v Speaker 1>the other thing by the way is we budget. We budget for a certain time period and that</v>
+
+00:28:35.350 --> 00:28:55.630
+<v Speaker 1>even if somehow we could get a visa, which is near impossible to do, the time frame would take to get it, we wouldn't have the person in the period where we have the money to pay them. So it just doesn't work. So there are a bunch of rules to be in the great designer search. And like I said, there are rules out of necessity, not out of desire. So one rule is you have to be able to work</v>
+
+00:28:56.700 --> 00:29:18.270
+<v Speaker 1>in America and in in the US and in Renton. Number 2 is you have to speak English fluently just because you have to communicate with all of us. It's a collaborative thing #3 is going to be 18. You can't be a miner. And there's a bunch of other smaller rules. Those are the major rules. You have to be willing to relocate if you get the job and stuff.</v>
+
+00:29:19.870 --> 00:29:24.560
+<v Speaker 1>So anyway we did the first grade designer search got</v>
+
+00:29:25.450 --> 00:29:34.680
+<v Speaker 1>I remember 1600 applicants or something like that. We did the second great designer search and was like 18 or 1900. I have no idea what was going to happen this time,</v>
+
+00:29:36.190 --> 00:30:06.350
+<v Speaker 1>both the fact that we've done it twice and it's been successful and people can literally see like, hey, Ethan Fleischer, who just worked on the last set. He he won the second designer search and he's a major player, you know, that you can sort of see and well, one of the cool things, by the way, about the great designer search. One of the things that I really, really liked that I didn't realize how much I would like, but once it happened, I was there's not a lot of opportunity where we kind of reach out to the public that, like I said, the number one request I get is</v>
+
+00:30:06.420 --> 00:30:36.510
+<v Speaker 1>they want to work in R&amp;D. There's not often run. I'm like, Hey, you out there. There is a chance you could work in R&amp;D and that the great designer search really has ended up being this sort of even for people that don't participate in it, just to be able to watch and root for people and you get to see someone who's just a fan, right. You know, when this whole process started, Alexis and Ken and Graham and Mark and Ethan and Scott and Sean and John and Noah, they were</v>
+
+00:30:36.580 --> 00:30:47.040
+<v Speaker 1>band. They were all fans. They weren't necessarily somebody, you know? I think no one might have been on the pro tour, but with few exceptions, they weren't names that we knew.</v>
+
+00:30:48.290 --> 00:30:55.860
+<v Speaker 1>Yeah, they were. They were brand new faces that we haven't seen before. And that these are people, that this is sort of a system by which we get people that are just</v>
+
+00:30:57.210 --> 00:31:03.110
+<v Speaker 1>we like, I love getting new blood in. I love getting people's fresh perspective. It's a chance to get people who like</v>
+
+00:31:03.780 --> 00:31:24.550
+<v Speaker 1>who know Magic, but we don't know them. And that's a really cool thing. And the public is really, really embraced. The Great Designer Search, for example, back when we used to have threads, articles used to have built bulletin board threads on our site. We don't do that. I've done that in a while. The longest thread in the history of Magic's website was the bulletin board thread to the first Great Designer search.</v>
+
+00:31:26.190 --> 00:31:54.400
+<v Speaker 1>And you know, one of the things is whenever we put up the research is a lot of people read them. They're very popular, and the whole audience gets really into it. In fact, you'll see articles of people talking about who they like and what person they're rooting for, and it really becomes this really Magic community thing, which I really, really enjoyed. And the fact that it's something that everybody gets to participate in, it's very public. Like most of our employment stuff is not very public and this is super public</v>
+
+00:31:55.700 --> 00:32:12.720
+<v Speaker 1>love the sort of the approach to it and the publicness of it. OK, so why did it take so long? Why did it take six to seven years before we did the second one or third one? OK, well, a couple of things. So I need to go behind the scenes a little bit for this one. So here's one of the biggest reasons, which is something that</v>
+
+00:32:14.870 --> 00:32:17.120
+<v Speaker 1>it's kind of the harsh reality of business, which is</v>
+
+00:32:18.170 --> 00:32:38.660
+<v Speaker 1>the the prize for winning the great designer search is you get a six month contract opportunity. But really the point of that is that we want to try you out. And if you work out if you really are a great fit, we want to hire you. We want to convert you into full time. Like all these people I'm naming, we converted them into full time.</v>
+
+00:32:40.390 --> 00:32:57.540
+<v Speaker 1>And so one of the things that's important is I don't want to do a great designer search if in the end, the business realities keep me from having the potential to hire somebody. And so one of the issues has been, I can't get into all the details of it, but suffice to say</v>
+
+00:32:58.850 --> 00:33:28.830
+<v Speaker 1>I needed to wait for an opportunity where I could have the opportunity I could. If the person works out in their six month contract position that we have the ability to hire them. That's not always the case. There's many people who come in from contract work that there's no expectation or there's no even chance that maybe they'll convert. And this is something where, hey, look, we're bringing them in. I want the opportunity and once again, winning. This doesn't mean that you necessarily get to convert</v>
+
+00:33:29.470 --> 00:33:53.560
+<v Speaker 1>and some level, you know, we, we joke that you win 1 contest to start the next content. You know, like you have to prove yourself on a different level. You have to sort of prove yourself in the job as opposed to outside the job. And there there's overlap, but there's some differences there. But anyway, the biggest reason that I took so long to run it was I needed to have the opportunity from a business perspective that I could hire the person if they work out.</v>
+
+00:33:54.860 --> 00:34:07.270
+<v Speaker 1>The other thing is that one of the problems with success is that everybody gets really excited to sort of make it bigger and better. So we actually,</v>
+
+00:34:08.730 --> 00:34:13.700
+<v Speaker 1>we had tried to start the 3rd grade designer search couple years ago. Um,</v>
+
+00:34:14.570 --> 00:34:15.130
+<v Speaker 1>but</v>
+
+00:34:15.860 --> 00:34:22.670
+<v Speaker 1>part of what happened was because we got a lot of people involved and a lot of people were really excited, really, really excited.</v>
+
+00:34:24.020 --> 00:34:25.010
+<v Speaker 1>This is something</v>
+
+00:34:26.430 --> 00:34:56.230
+<v Speaker 1>like a lot of the people I know who work on on social media, for example, one of the things that they said they were really excited to do was they were excited to do a great designer search that they had been on the outside and watched us do it. And it was such an exciting thing that they wanted to help be part of that on the inside. And So what happened was there were a lot of really grandiose ideas, I mean, wonderful, awesome ideas that would have added extra elements and extra layers and do extra cool things. But</v>
+
+00:34:56.300 --> 00:35:26.340
+<v Speaker 1>the problem is when you make something larger, when you do new things to it, it just adds a lot more complications. And so the problem we ran into was this desire to do lots of cool new things, sort of a slowing us down because new things require people and time and budget that require technology sometimes. And something that seemed like, oh, we just could do this thing when you actually kind of got in down in the weeds of it was hard</v>
+
+00:35:26.410 --> 00:35:28.390
+<v Speaker 1>to do. And so</v>
+
+00:35:29.540 --> 00:35:41.350
+<v Speaker 1>we end up realizing that we wanted to do this, that we kind of had old school to certain extent, that they're making a little bit easier new technology, mostly on our end, stuff that you might not notice, but</v>
+
+00:35:42.710 --> 00:35:46.370
+<v Speaker 1>they're not quite being as flashy about it, not being a showy about it because</v>
+
+00:35:47.860 --> 00:35:53.420
+<v Speaker 1>it just was slowing us down. And, you know, we really, really could use some new designers. It's been awhile.</v>
+
+00:35:54.730 --> 00:36:25.220
+<v Speaker 1>I like getting the fresh blood and I like having the new perspective and that magic could use that. That's something that's really valuable. And so finally I said, OK, look, maybe the we do the 4th graders on search and are able to do grandiose things, but I just can't wait years and years and years. Let's just we'll just do it the way we've done it before. So they're designer search. Like I said, we'll have a few, there'll be a few changes I'll talk about in a second. But mostly it's going to be, as you know, if you watch the previous ones now, one of the big things is we did some different stuff</v>
+
+00:36:25.300 --> 00:36:55.320
+<v Speaker 1>to like this is going to be a hybrid of 1 and 2. So let me explain how 3 is going to function. Number one, we are a little bit more interested in the skill that we were looking at for the 1st grade design research than the skill we were looking at for the second grade designer search. So the difference between the two is the first great designer search was 5 completely unrelated challenges and the second great designer search were five very much connected related challenges. We're going back to the earlier one. Our five challenges will be disconnected challenges. They will not overlap.</v>
+
+00:36:55.570 --> 00:36:56.330
+<v Speaker 1>I have,</v>
+
+00:36:56.960 --> 00:37:24.700
+<v Speaker 1>they could overlap, but they're not inherently going to overlap. They're going to be 5 distinct challenges. And the skill that we, that we are testing is what I call blue sky design, which is just make. I mean, we'll give them constraints in things because obviously part of designing Magic, designing 2 constraints, but a lot of it is like make cool cards. I'm gonna give opportunities to make cool cards. And while I'm with sort of your card designing scale and your mechanic designing scale, and I want you to sort of show what you can do,</v>
+
+00:37:25.920 --> 00:37:51.210
+<v Speaker 1>the second, like I said, the second one was more about cultivating and more about building something that you keep working on. That was cool. And that's something we do at Wizards, but we're going to shy away from that. We are though, going to adopt the time frame of the second one. There's going to be 8 people in the finals and there's going to be 5 challenges each two weeks apart. The 1st grade design search was just a little too crazy for everybody. So this is going to be</v>
+
+00:37:52.580 --> 00:38:09.030
+<v Speaker 1>like the first grade designer search in kind of the skills that we're looking for and the type of challenges we're doing, but be like the second great designer search in more the time frame and how we work it out. That will be 8 people, 5 challenges, one person doctor each time down to three people that we fly out to Wizards.</v>
+
+00:38:10.900 --> 00:38:13.870
+<v Speaker 1>Now let me talk about some some of the differences.</v>
+
+00:38:16.170 --> 00:38:23.570
+<v Speaker 1>The trials are basically the same and I think by the time you listen to this, most of the trials will be over. If not, all the trials will be over</v>
+
+00:38:24.790 --> 00:38:28.810
+<v Speaker 1>once again. We're doing an essay trial. We're doing a multiple choice trial. We're doing a design trial,</v>
+
+00:38:30.380 --> 00:38:41.510
+<v Speaker 1>the essay, the essay test or you know, it's, it's new. They're new questions. Although the first question is the same, I always ask the same first question, which is like introduce yourself question. The first one is the same. Other than that, 9 new questions,</v>
+
+00:38:42.990 --> 00:39:13.550
+<v Speaker 1>multiple choice, we went up. I don't want to commit to a number because we're still stress testing it as we speak. But more and at least from this point in time, significantly more we decided. So one of the things we did with multiple choice tests was we decided we wanted to ask more questions to do 2 things. One is it allows people to miss more questions if we ask more. So it allowed us to sort of get a wider breadth of what the people could do. And the first great designer search, Devin and I,</v>
+
+00:39:13.630 --> 00:39:44.210
+<v Speaker 1>he did all the questions. The second one I mostly did by myself with a little bit of help to other people. The third one, we asked for a lot of help, a lot of different and people turned in questions. We've got a lot more variety of the kinds of things we asked. It's a little more, this one has a little more breadth of questions. It leans toward the design side. I wrote the majority of the questions, but it has a lot of elements brought in from other sections. So this is the one design test that I mean, I think I did take most of the questions. The problem is I saw them</v>
+
+00:39:44.280 --> 00:40:16.020
+<v Speaker 1>part of that, so I think I would do pretty well, but I might not get 100% because some of the questions ask areas. They're not my expertise, although having done this for a long time I probably should do again them. So anyway, we have a longer multiple choice tests and then the design test is more akin to the first design test rather than the second design test, just one design. As far as the judges, we've decided to sort of melt them together like the first great designer search. We're going to fundamentally have 4 judges.</v>
+
+00:40:18.180 --> 00:40:18.850
+<v Speaker 1>But,</v>
+
+00:40:20.280 --> 00:40:24.590
+<v Speaker 1>but the we've got 4 judges and they're going to be</v>
+
+00:40:25.880 --> 00:40:26.800
+<v Speaker 1>hold on one second.</v>
+
+00:40:28.240 --> 00:40:39.610
+<v Speaker 1>We've got 4 judges and they're going to be the first one. One of them was Gleemax. So this time it's going to be 3 locked in judges and then one rotating guest judge. So I'm going to be there</v>
+
+00:40:40.810 --> 00:40:44.630
+<v Speaker 1>for overseeing vision design. Eric Lauer, who overseas</v>
+
+00:40:47.110 --> 00:41:17.180
+<v Speaker 1>set design will be a judge, and Melissa, Melissa Tutora, who was one of the play test designers. So vision design, set design, play design will all be covered. And then we're going to bring in, we're going to rotate again like we did on the second one. I realized having a guest judge so that we can let different people sort of be there sometimes when we do things in which there are different skills we're playing up. When I say 1 judge, by the way, I reserve the right that it might be two guest judges, depending on what The thing is. I might bring specialists in if we're doing a particular thing.</v>
+
+00:41:18.800 --> 00:41:19.570
+<v Speaker 1>OK.</v>
+
+00:41:21.100 --> 00:41:25.650
+<v Speaker 1>The other big difference will be, um, well,</v>
+
+00:41:26.740 --> 00:41:28.510
+<v Speaker 1>I want, I guess everyone ruin all the surprises</v>
+
+00:41:30.440 --> 00:41:34.570
+<v Speaker 1>that we are trying. We're trying our hand in a few new things, sort of our presentation.</v>
+
+00:41:36.150 --> 00:41:36.790
+<v Speaker 1>I mean a lot</v>
+
+00:41:38.230 --> 00:41:39.960
+<v Speaker 1>if you like the freeze. Great designer searches.</v>
+
+00:41:40.600 --> 00:41:51.230
+<v Speaker 1>These are going to be modeled after them. The way it will work is, and I don't know whether it's going to come up on a Thursday or Friday, but in the end of the week, every other week we'll have an article.</v>
+
+00:41:52.190 --> 00:42:04.390
+<v Speaker 1>The article will show up and it might be broken into two parts that we're still working this out. But first you will see the previous challenge. You will see all the stuff they did. You'll see the judging from it</v>
+
+00:42:06.270 --> 00:42:10.380
+<v Speaker 1>and the judges will go over everything they did and give comments and then gets overall comments.</v>
+
+00:42:11.970 --> 00:42:15.040
+<v Speaker 1>And then um, we will eliminate somebody</v>
+
+00:42:15.960 --> 00:42:28.310
+<v Speaker 1>and, and then we will, we will give the next test. So the way the design tests are going to work or the challenges are going to work is I think we give them 72 hours to do their work.</v>
+
+00:42:29.970 --> 00:43:00.100
+<v Speaker 1>What will happen by the way, for the, that's behind the scenes is I will be talking with all the contestants behind the scenes. I will let them know when they get let go what the next test is. They, they will know stuff before you guys all see it. They'll know ahead of time and they're not going to find another get kicked off the show because they read it online. We, we accidentally did that once in the 1st grade that I'm searching. I sent everybody an e-mail, but it bounced or something. Anyway, I will make sure I don't want that happening again, but we will make sure that people know.</v>
+
+00:43:01.290 --> 00:43:03.890
+<v Speaker 1>And the cool thing is that, uh,</v>
+
+00:43:04.930 --> 00:43:16.110
+<v Speaker 1>you know, I, like I said, the reason I wanted to film this when I did is I want you guys to watch the show. I want you guys to see the great designer search. It is a really cool experience. It is something that is</v>
+
+00:43:16.800 --> 00:43:47.170
+<v Speaker 1>like I'm saying if well two parts if you enjoy making Magic cards, there is no, no single thing we do with more content, more educational content to design cards. These are actual working R&amp;D folks giving real tactical advice. And this this year because we have all three sections represented, you're going to get advice on you know, I will give, I will give comments on the vision end of things. Is this a strong idea just to support itself? Can you build around it,</v>
+
+00:43:47.270 --> 00:44:17.190
+<v Speaker 1>you know, does it, what kind of design weight does it carry with it? What, you know, what individual cards can dictate what happens in the rest of the design? And I'm going to talk about that. Eric's going to be talking a lot about sort of, look, we have to make cards and they have to sort of make sense and they have to fit in the larger thing. And there has to be a balance not just to within that set, but within a larger ecosystem. And Melissa is going to talk about, OK, we want to make sure things don't break. We want to make sure things are fun and playable</v>
+
+00:44:17.280 --> 00:44:48.110
+<v Speaker 1>and you've made choices maybe that don't allow us to make the funniest card that don't let us push it in a way we can. You've maybe not, you've taken away knobs or you've you've built things in such a way that maybe it's hard for them to do what they need to do or maybe do something right. And she says, oh, this thing is excellent. The fact you've done this makes it an easier card for us to be able to push and construct it. We will have feedback from all the judges to get a real good sense of that. And like I said, I will rotate and guest judges. So you will also get some more tactical feedback depending on what the challenges are,</v>
+
+00:44:50.000 --> 00:44:50.570
+<v Speaker 1>um,</v>
+
+00:44:52.120 --> 00:44:53.660
+<v Speaker 1>trying to think of any other.</v>
+
+00:44:55.610 --> 00:44:57.340
+<v Speaker 1>What are we doing on time here?</v>
+
+00:45:01.410 --> 00:45:03.460
+<v Speaker 1>Wow, a lot of traffic today.</v>
+
+00:45:04.860 --> 00:45:06.150
+<v Speaker 1>This is one of those ones where like</v>
+
+00:45:06.950 --> 00:45:16.180
+<v Speaker 1>really, I meant to talk for half an hour and I'm going to talk for an hour. So I will see if I can fill in the time. I'm still, I'm still probably 15 minutes from Wizard. So</v>
+
+00:45:17.300 --> 00:45:19.830
+<v Speaker 1>let me talk a little. I'm gonna shift gears a little bit</v>
+
+00:45:21.240 --> 00:45:29.720
+<v Speaker 1>and talk about some of the qualities. I'm going to talk about past, past people and sort of</v>
+
+00:45:31.220 --> 00:45:44.050
+<v Speaker 1>how my relationship to the people who have become staples on Magic and how I first got to know them. So let's go back to GS1. So Alexis and Janssen and Graham and Mark</v>
+
+00:45:46.550 --> 00:45:56.010
+<v Speaker 1>are the four that is still work in Wizards. So Graham and Alexis work on the digital side, Mark and Ken work on Rd.</v>
+
+00:45:58.340 --> 00:46:00.580
+<v Speaker 1>So the interesting story about this is</v>
+
+00:46:02.350 --> 00:46:04.270
+<v Speaker 1>I'll start with Ken. So Ken,</v>
+
+00:46:05.490 --> 00:46:11.670
+<v Speaker 1>I had, I gave him the design test and I told them I gave them, I think I gave them a day to turn it in.</v>
+
+00:46:12.500 --> 00:46:13.060
+<v Speaker 1>Um,</v>
+
+00:46:14.560 --> 00:46:37.060
+<v Speaker 1>and Ken turn his design test in the first minute, be turned in, there was like 24 hours to turn it in and he turned it in at like 1201 or something. Like you can turn it in at midnight and he turned it in at midnight, but they had 24 hours to turn it in. So Ken was like, I wanted to show you that I can do this. And he made this bold sort of grandstanding move.</v>
+
+00:46:39.140 --> 00:46:54.220
+<v Speaker 1>And I remember when I came into work that day, I came in that morning and looked at my e-mail to see what had been turned in, or it was my e-mail, but the e-mail, we had set up an e-mail for this. And he was the only person. He was the only designer and</v>
+
+00:46:55.190 --> 00:46:56.130
+<v Speaker 1>I don't know, there are,</v>
+
+00:46:56.870 --> 00:47:00.990
+<v Speaker 1>I don't remember exact number hundreds of people there taking design test and um,</v>
+
+00:47:02.230 --> 00:47:12.040
+<v Speaker 1>I was like, wow, that is ballsy. Like he turned it in when he was allowed to turn it in the not a not a minute later, the earliest possible moment.</v>
+
+00:47:12.800 --> 00:47:40.570
+<v Speaker 1>And I said, you know, this guy is good or he's, you know, he's just, and I remember like looking at his designs and going, ohh, he's good. Like, you know, and I was impressed and he took a big risk. Ken is a big risk taker. And that was a big risk because that could have slapped, that could have flown in his face. I could have said, you know, hey, here's somebody who doesn't care to spend the time to get it right or something. I like what he did. I sort of liked, I liked his bold move</v>
+
+00:47:42.430 --> 00:48:02.740
+<v Speaker 1>and that one of the things that Ken did the whole time that I really appreciated was it was clear that Ken had an opinion. That was not my opinion. That was Ken's opinion. And he would make bold statements. Even in his essay. He made bold statements now, he backed them up, he defended them. He had thoughtful ideas to say, but they were bold, brash statements.</v>
+
+00:48:04.630 --> 00:48:33.600
+<v Speaker 1>Alexis really impressed me because it was clear that Alexis was a student of my writing of magic design that she really understand the nuance of it. And the reason that she won, I think is she her the nuance of her designs were so strong. You know, the fact that she made her card that I'm making the third unsaid like in in it. It was just the perfect</v>
+
+00:48:33.730 --> 00:48:48.650
+<v Speaker 1>hard. It was well designed. Like I said, I think I changed the colors but other than that and me changing colors was more about the needs I had of the set I was making, not that the color she gave me couldn't have worked. Like I think she made it red green and I made a green white. But anyway,</v>
+
+00:48:52.980 --> 00:49:14.050
+<v Speaker 1>but Alexa is really the thing that I really grabbed me right away was that there was so much attention to detail and so much that I often talk about how magic is a craft. And Alexis was like a student of the craft and clearly, clearly spent time and energy understanding it and working on it. And that really impressed me.</v>
+
+00:49:15.390 --> 00:49:15.850
+<v Speaker 1>Ram</v>
+
+00:49:16.730 --> 00:49:27.640
+<v Speaker 1>Graham. The thing that I loved about Graham was his designs had a sort of a lyrical quality to it, that he really cared about the esthetics. And that he did</v>
+
+00:49:28.280 --> 00:49:36.210
+<v Speaker 1>like Ken. He really made cards that weren't the cards I would make. Like, Alexis was the person who was the most similar to the way I designed,</v>
+
+00:49:37.680 --> 00:49:45.700
+<v Speaker 1>and not that she didn't make stuff that's uniquely her own, but it was stuff that I could see elements of how I would design it. In it. Both Can and Graham</v>
+
+00:49:46.410 --> 00:49:59.040
+<v Speaker 1>were doing their own thing, and Graham really had this appreciation of aesthetics that I loved and just sort of made cards that felt right. They're the kind of card sometimes that seemed like by the numbers, they shouldn't work.</v>
+
+00:50:00.720 --> 00:50:21.570
+<v Speaker 1>There's this thing I I know this is really true, but the thing to talk about how, you know, they try to figure out how bumblebee fly in the air next people couldn't figure it out. I'm sure they could. But yeah, a little that what I call bumblebee quality where you can't quite it works, but you can't quite understand why it works. And I, like I said, Graham is always fun to work with. He always sort of pushes you in fun and interesting directions.</v>
+
+00:50:23.080 --> 00:50:27.260
+<v Speaker 1>And then Globus. Globus was somebody who really, um,</v>
+
+00:50:28.830 --> 00:50:48.060
+<v Speaker 1>he was somebody, he obviously came from a very technical background and he really had this, this technical sort of way he observed things and broke things down. I mean, it's no surprise that he became our project architect. Like he sort of took the skill that I always admired and sort of built an entire job around that skill of sort of understanding how things click together and how they work.</v>
+
+00:50:49.310 --> 00:50:56.500
+<v Speaker 1>And he was always super, super technical in his design. He was super Melvin and what he did</v>
+
+00:50:57.770 --> 00:51:11.620
+<v Speaker 1>you know, he he didn't necessarily Canon Graham were a little more Osian in their designs, but I really appreciated that Mark was just super technical and really had appreciation for the element of the design itself.</v>
+
+00:51:13.150 --> 00:51:25.090
+<v Speaker 1>Yeah, like I said, I think it was the the Melvinia of our of the four that still work at Wizards of the GPS one let's talk to GPS 2. So the two still work, Wizard Ethan and</v>
+
+00:51:26.240 --> 00:51:28.440
+<v Speaker 1>Scott. So Ethan</v>
+
+00:51:29.100 --> 00:51:35.110
+<v Speaker 1>even was hired for his vision skills. That was that skill we tested, and he has them in spades. Ethan really,</v>
+
+00:51:35.950 --> 00:51:41.220
+<v Speaker 1>he is really good at sort of looking and seeing things and coming up with really grandiose ideas.</v>
+
+00:51:43.330 --> 00:52:10.720
+<v Speaker 1>I think one of the things that is is fun working with Ethan is he really can see beyond like one of the big skills you need in design is you can't see where things are. You need to see where things will be. And that's something that I like watching with Ethan. It's a skill that I'm pretty good at, but it's something who we were testing and Ethan is good at that. He can sort of see where things are supposed to be, even if they're not there yet, even if you haven't done them yet. And it's an important skill to have from a design sense.</v>
+
+00:52:12.130 --> 00:52:42.580
+<v Speaker 1>And Ethan is always fun. He's Ethan loves doing research. Whatever you're doing, Ethan will go read books about it. He will he will try to get in the mindset of whatever the thing we're trying to do. If we're doing Greek mythology, he's reading all about Greek mythology. If we're doing cosmic horror, he's reading novels that are cosmic horror novels. If we're whatever we're doing, whatever kind of thing we're doing. Like when he was on Dominaria with me, he went and read all the books on Domino. He became an expert on Dominaria. It's how he functions that he got does the research and becomes an</v>
+
+00:52:42.650 --> 00:52:59.270
+<v Speaker 1>sort in the field that he needs to understand and a real commitment to the craft that I, I really appreciate. So Scott Van Essen was in both the first grade designer search and the second one. Little trivia there. He did better, obviously, the second one, making the final three and would eventually lead to getting a job.</v>
+
+00:53:00.690 --> 00:53:31.360
+<v Speaker 1>The thing that I was appreciate about Scott is Scott is very adventuresome in his designs that he he does not worry about constraints and that he will really push boundaries and try new things. And his hit rate, I mean, Scott hit rate is lower than some, but that's because he pushes farther than most. And that one of the things I really, really appreciate with Scott is Scott will just try things that nobody else would try. And that, yeah, sometimes they fail miserably,</v>
+
+00:53:31.450 --> 00:53:56.040
+<v Speaker 1>but sometimes they succeed beyond your your dreams. And that he really is a designer that pushes and stretches. Interestingly, I've actually had a chance to work with Scott on not just magic design. And I really love watching the way his brain ticks. He's a really neat designer. His background was he was an engineer. And so you can kind of see in the way he approaches game design, He's very</v>
+
+00:53:58.510 --> 00:54:06.960
+<v Speaker 1>he, he, his system oriented. And that's really neat to see. It's, it's, it's a very cool sort of approach to design and I, I really like it</v>
+
+00:54:10.220 --> 00:54:39.050
+<v Speaker 1>real quickly. The three that aren't still Wizards. Sean, I love Sean's ability to Sean main to, he was a great problem solver that if you said to him, if you sort of gave him the target to aim for, he would find answers that you would never think to find. And the skill set that he was so good at was he was really good, like the world he built. The reason he went so far in the great designer search too, was he built a world that I didn't think was sustainable.</v>
+
+00:54:39.150 --> 00:55:09.250
+<v Speaker 1>Like he built a world that I don't know if we could actually build it had a lot of inherent flaws in it, but he kept finding such interesting ways to do it. Like, you know, I still wouldn't when the dust settles, I don't think we could make his world. But I believe that he he was so bold and so innovative and how he sort of built in his world that I'm like, wow, I can't wait to put him in a world that isn't fundamentally flawed. He's going to shine. And he did. Sean was excellent. Sean LED a whole bunch of Sats. He led Magic Origins, He led both conspiracies</v>
+
+00:55:09.410 --> 00:55:14.180
+<v Speaker 1>and I called Caltech together really super inventive.</v>
+
+00:55:15.270 --> 00:55:18.440
+<v Speaker 1>Then we have, John laughs. Um,</v>
+
+00:55:19.490 --> 00:55:28.260
+<v Speaker 1>so John and Noah are the two that I worked the least with. John did digital and Noah was doing development where I was not very involved with it.</v>
+
+00:55:29.740 --> 00:55:30.600
+<v Speaker 1>Both of them,</v>
+
+00:55:31.320 --> 00:56:01.450
+<v Speaker 1>John logs had a very imaginative mind and, and was very creative and he really was someone who committed to trying to find to making the, the best vision of something come to be the reality. And Noah, Noah was, I mean, maybe you get the sense of why he went into law, but he really sort of examined systems in a really interesting way. And I loved how we approach things and he really sort of tried to figure out why things didn't did not work and how they could work. Like I said, neither John nor Noah,</v>
+
+00:56:01.530 --> 00:56:31.550
+<v Speaker 1>they work particularly close with the nature of what they had, but both of them were also super, super like all nine of the people that we got out of the great designer search were really talented people. In fact, one of the cool things about everybody in the is that like it's a hard system to get through, but there's so many talented people and there are people that we didn't end up even hiring that I know have went on to have careers in the game industry elsewhere that have shined. So one of the neatest things that both a great designer search is it's been this</v>
+
+00:56:31.630 --> 00:57:01.740
+<v Speaker 1>awesome tool to find, to find people out there in the world that show signs of of doing game design and bringing them in. So I am excited for the third great designer search. Like I said, I'm not 100% sure where we are right now in the process. I think we're in between people entering and us starting. I think it's where we are. We might have might have already started, but we haven't finished yet because I know it takes a long time to do it. So I'm excited. If you haven't watched the Great Designer Search 3, it hasn't started yet. Watch when it starts. It has started yet. Hey, go watch it, go read it.</v>
+
+00:57:01.980 --> 00:57:31.370
+<v Speaker 1>It really is informative and be a lot of fun and I'm excited to see who we get. Who of the new people, who do we find? Who who, who's the winner of the great Designer Search 3? I'm, I'm really, really looking forward to this and I'm recording this at a time where I know nothing. We haven't even announced it exists yet. So clearly I don't know who the possible people are at the time you're hearing this. We probably have our finalists if the show hasn't already started. So there's some cool people I know that will be cool people. Every time we've done this been cool people</v>
+
+00:57:31.840 --> 00:58:02.340
+<v Speaker 1>and I, I don't know how people are gonna try out this time. Like I said, each time we've broken the record for the most people to apply to something within Hasbro. So we'll see how we do this time. But anyway, I'm excited. I hope you guys are excited. Please pay attention to watch it. I know we're gonna spend a lot of time and energy on it. We're going to have some really good insight and give a lot of judging and you'll get a chance to sort of see magic reality show. It's one of the cool things about this. Not often what you love gets to be reality show and we get to do that here. So anyway I had extra</v>
+
+00:58:02.450 --> 00:58:14.860
+<v Speaker 1>after today so you guys got an extra long podcast but I hope it was fun and enjoyable. But anyway I'm now finally at work so we all know that means this is the end of my drive to work. So instead of talking magic, it's time for me to be making magic. See you guys next time.</v>
+

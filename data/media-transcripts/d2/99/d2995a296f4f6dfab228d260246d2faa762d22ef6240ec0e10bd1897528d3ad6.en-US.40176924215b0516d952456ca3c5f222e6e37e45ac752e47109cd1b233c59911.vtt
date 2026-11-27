@@ -1,0 +1,338 @@
+WEBVTT
+
+00:00:01.150 --> 00:00:15.230
+<v Speaker 1>I'm pulling out of the parking lot. We all know that means it's time to have the drive to work, and it dropped Adam off at camp again. OK, so today I'm going to talk about a topic near and dear to my heart. Poison.</v>
+
+00:00:16.100 --> 00:00:28.840
+<v Speaker 1>So I want to talk a little bit it's an alternate wind condition and I'm going to talk a little bit about history and a little bit about the challenges of designing with poison because it is it is an interesting thing. OK, so</v>
+
+00:00:29.810 --> 00:01:00.520
+<v Speaker 1>first and foremost, go back, go back in your time machine back to 1994 and a set called Legends. So in Legends there were two cars, 1 was called Pit Scorpion and the other was called Serpent Generator. And those were the first times ever that introduced this idea of a poison counter. And the idea of a poison counter was that if you got enough poison counters 10, you just automatically lost the game. And the idea was it was kind of this different kind of way to lose.</v>
+
+00:01:01.460 --> 00:01:12.620
+<v Speaker 1>Normally in Magic, you have life gain, you have 20 life, but you have waved offset that, that my opponent can do 20 damage to me and I could still be alive because I could gain life.</v>
+
+00:01:14.060 --> 00:01:43.330
+<v Speaker 1>The idea of poison was, I mean, it started as a flavor thing. If you notice, both the cards are literally things that are poisonous things. Once a scorpion one makes snakes. But the idea was, I think it started because they were trying to capture the flavor of actual literal poison. And so they came up with the idea of this sort of alternate way to win. And the kind of what happened was for a couple of years, every once in a while we'd make a poison card. None of them were good.</v>
+
+00:01:43.400 --> 00:02:12.320
+<v Speaker 1>All the poison cards actually were pretty bad. But I noticed that people liked playing. I liked playing with them just because of people like all the wind conditions. It was an interesting all wind condition. And in the early days back in my pre Wizards Johnny deck building days, I used to try to win with weird wind conditions. So of course, of course, of course they made of poison deck. I made a bunch of poison decks because there was a challenge to win with the poison deck. Poison decks back in the day were not particularly good</v>
+
+00:02:13.420 --> 00:02:20.810
+<v Speaker 1>and so once I got to Wizards, I was really excited to make some poison cards. And so I</v>
+
+00:02:22.400 --> 00:02:30.930
+<v Speaker 1>I think there is a poison card and visions that I made and I think that was the last one I think I made. I got here, made one poison card and then R and decided</v>
+
+00:02:32.760 --> 00:03:01.340
+<v Speaker 1>started to pull back and poison. But I wasn't deterred. So when the very first set I designed Tempest, I decided that I wanted to blow up poison. And so we had done poison and vision. So like I was like, OK, we could do poison. And in fact the code name of the set was Boga Avati, which is like an Indian land of poison snakes, I believe. So clear by the code name, poison was meant to be a really big part of it.</v>
+
+00:03:01.550 --> 00:03:08.140
+<v Speaker 1>So I turn Tempest in and I think there were like, there were a lot of poison. I don't remember exactly, but it was like,</v>
+
+00:03:09.460 --> 00:03:38.790
+<v Speaker 1>you know, 304050 poison card. There's a lot of poison cards. In fact, it was probably on the high end. It might have been closer to 50. And not just creatures that poison you. I had spells that poison you had all sorts of things that poisoned you. It was, and it was one of the major themes of the set. And then it gets into design or development and it turned out that I had put a lot in the set. I had overstuffed it a little bit. It was my first time. A very common first designer mistake is I just put way more in the set than fit in the set.</v>
+
+00:03:39.530 --> 00:04:09.400
+<v Speaker 1>For example, the mechanic, the two main mechanics from the next year from Osaga Cycling and Echo were both in my set. And in fact there was so much stuff in the design for Tempest that I think for like 5 or 6 years, every set had a card that originally had appeared in a Tempest design file. Just there were so many cards that didn't get used that were cool cards. So I put it in, I was all excited. And then instead of 50 cards, they whittled it down to 40,</v>
+
+00:04:09.500 --> 00:04:29.270
+<v Speaker 1>then 30, then 20, then 15, then 10, then eight, then six, then 4, then three, then two, then one. Then you know what? We don't want poison in the game. And they removed all the poison. They decided that poison wasn't something good for Magic.</v>
+
+00:04:30.650 --> 00:05:00.620
+<v Speaker 1>At the time it was. They were on very weak cards, so the cards were not super sought after, mostly because it was a very niche strategy in the cards were particularly strong. But I watched and I realized that a lot of people made poison decks. And what one of my beliefs is one of the ways to understand something that's popular is if people do something when it sucks, when it sucks, you gotta like it. There has to be something there. It's the same argument I made when I</v>
+
+00:05:00.870 --> 00:05:23.650
+<v Speaker 1>wanted to put the tribal stuff to make Onslaught have a major tribal theme. My big argument was, look, people are making the goblin decks in the zombie decks, in the merfolk decks. They're making the decks. Yeah, yeah, yeah. They're not any good. But the fact that people keep making them says something, right? The fact that people keep doing something that isn't particularly strong says that, wow, there must be something about this. Like, if winning isn't the reason, well, there must be some fun about it.</v>
+
+00:05:25.050 --> 00:05:38.420
+<v Speaker 1>So I became determined to, I mean, I was determined with Tempest, but I was like, OK, I will find a way and a place to get poison in the game. That was my, that was my vow. So</v>
+
+00:05:39.860 --> 00:05:41.940
+<v Speaker 1>OK so that was 94.</v>
+
+00:05:43.070 --> 00:05:57.310
+<v Speaker 1>I made Tempest website. 94 was when Ice Age came out, then I made Tempest. Tempest came out in 98 so I was working on it in 90,</v>
+
+00:05:57.970 --> 00:06:04.320
+<v Speaker 1>6, probably 9697. Anyway, in 96 on Glued came out</v>
+
+00:06:05.260 --> 00:06:22.160
+<v Speaker 1>and Unglued was out of the gate, very, very popular. For those who don't know, I've talked about this. I believe that there was a big audience for it, but we overprinted, so there was early on. There's a lot of excitement. People really liked it and a lot of cards were bought</v>
+
+00:06:23.520 --> 00:06:53.960
+<v Speaker 1>too much so that they greenlit Unglued 2 really quickly. I was going to do it a I think. So it came out in 96 or 97. I got greenlit to do it. So the way the timing worked out was Tempest had they had just killed Poison and Tempest and shortly thereafter I was making Unglued too. So I'm like, OK, OK, well maybe it was in a black border thing. Maybe it could be a silver border thing. So I put a major poison theme into Unglue too. In fact the theme was there was a theme of animated vegetables</v>
+
+00:06:54.060 --> 00:06:59.470
+<v Speaker 1>and all the animated vegetables had poison so the vegetables were bad for you haha.</v>
+
+00:07:01.040 --> 00:07:23.810
+<v Speaker 1>And I had cards like Bad Beat Down where they were beats and um, what was that? Celery Stalker and Rutabaga of the night, which is a playoff of Spirit of the Night. Anyway, I made all these animated weird poisoned vegetables and they made a bunch of other cards. In fact, I took some stuff that I had done in Tempest and they put it into Unglued 2</v>
+
+00:07:24.680 --> 00:07:43.320
+<v Speaker 1>and then, uh, Unglued because we overprinted it, a lot of it. We had to burn a bunch of it and we had to get rid of a bunch of it. And so it went from being something that they were very excited about to go, I guess people don't like this. So they killed Unglue 2. Verify. I had art. I mean, it was really late in the process that it got killed.</v>
+
+00:07:44.060 --> 00:07:44.660
+<v Speaker 1>Um,</v>
+
+00:07:45.560 --> 00:08:06.260
+<v Speaker 1>so anyway, OK, take #2 to get poisoned in the game failed. So I decided, OK, I got to play the long game. Clearly, clearly they didn't want it in black border and silver border wasn't happening anytime soon. So I said, OK, I have to be patient. I have to look and find the right place to do it.</v>
+
+00:08:07.200 --> 00:08:15.610
+<v Speaker 1>OK, so we flash forward to a future site. So in the future site was the third set the in time spiral block</v>
+
+00:08:16.690 --> 00:08:46.580
+<v Speaker 1>time for I looked at the past planar casts, looked at the alternate present and future site looked at the future. So we had a bunch of cards. They were teasing the future. So this was a great place to tease the return of poison. So I ended up making mechanic called poisonous. So the way poisonous worked so original poison creatures origin that poison. There's no keyword for it. You just it would say on it want to hit you give voice and picture poison counter. So I made a mechanic called poisonous and the way poisonous worked was poisonous 2 meant</v>
+
+00:08:46.680 --> 00:08:51.000
+<v Speaker 1>if I damaged you, you got 2 poison counters</v>
+
+00:08:51.830 --> 00:08:56.940
+<v Speaker 1>and we try to make sure that the poison rate was higher than the power rate. So</v>
+
+00:08:57.650 --> 00:09:27.660
+<v Speaker 1>usually your power and your poison were close to the same. Sometimes you did more poison than your power. But if the poison is left, let's say for example I have a two creature with poisonous one. Well, the problem is I would kill you with the creature at the same time I would kill with poison. So we want to make sure that the poison would kill you quicker than the damage would. Anyway, I made poisonous and I think there were a couple of cards with poisonous. There was there was a sliver that had poisoned. I think there are two cards, poisonous I think a normal creature and then</v>
+
+00:09:27.760 --> 00:09:33.140
+<v Speaker 1>number the granted poisonous stall slippers, which by the way won the Pro Tour. They'll side note</v>
+
+00:09:34.520 --> 00:09:54.330
+<v Speaker 1>that there was a 2 headed giant protor where people drafted and the winning strategy, the one that won the pro tour was a sliver deck in which often the win for slivers was poison. Because if you give all your slippers poison and you sort of alpha strike with them, all you needed to do with 10 damage and you won the game</v>
+
+00:09:56.180 --> 00:10:01.140
+<v Speaker 1>anyway. So I put that in there as a little teaser of I wanna do poison now</v>
+
+00:10:01.800 --> 00:10:16.490
+<v Speaker 1>R&amp;D. Let me put it there because, OK, I was teasing and things it's fine to tease it Poison. It was on 2 cards, neither carbs particularly. Ironically, they thought not torment relevant, although one of them on the pro tour later in limited. So</v>
+
+00:10:18.630 --> 00:10:25.860
+<v Speaker 1>so I got to put a couple of cards in future site and to me that was kind of like announcing like I was going to try to find a place for poison.</v>
+
+00:10:26.640 --> 00:10:48.790
+<v Speaker 1>So we flash forward to Scars of Mirrodin. So scars of Mirrodin we were trying to fit with. The big thing was mirrored is I wanted to we were reintroducing the flexions and I wanted the flexions to feel scary. I wanted the flexions to feel like, oh, I really should be worried about that. These guys are scary people or scary creatures. And so</v>
+
+00:10:49.700 --> 00:10:59.640
+<v Speaker 1>he wrote down we had was that we've listed 4 words. They were toxic, they were relentless, they were viral, and they were</v>
+
+00:11:00.440 --> 00:11:12.750
+<v Speaker 1>one more word. Anyway, toxic was one of the words. And so I decided that poison would be an interesting fit for them, that they, you know, they kill you in a way that they sort of corrupt you and kill you in the neat in different way.</v>
+
+00:11:14.270 --> 00:11:14.980
+<v Speaker 1>So</v>
+
+00:11:15.820 --> 00:11:17.910
+<v Speaker 1>now this was designed, remember</v>
+
+00:11:18.660 --> 00:11:32.290
+<v Speaker 1>the temperature design? I put poison in. So just being in the design doesn't inherently make it guaranteed that's going to make it through the process. So I really wanted to deliver something that I thought was a superior experience to make people want to do that.</v>
+
+00:11:33.370 --> 00:11:46.230
+<v Speaker 1>OK, so the first thing we did is we went and got mechanics from future site which was poisonous. And so the idea is is poisonous too. This is poisonous 3 and we started playing with it</v>
+
+00:11:46.880 --> 00:11:48.850
+<v Speaker 1>and the problem we found with it was</v>
+
+00:11:50.090 --> 00:11:50.570
+<v Speaker 1>umm,</v>
+
+00:11:51.500 --> 00:11:56.050
+<v Speaker 1>well, two things. One is it was very locked. So, um,</v>
+
+00:11:57.110 --> 00:12:27.210
+<v Speaker 1>I mean with life, live with life. Meaning if I say poisons to, I'm giving you 2 poison. So let's say you have 6 poison and attacked MY22 poisonous 2 creature. What people tend to do, they're like, oh, I got, I mean, if you have other means to get rid of it, maybe block it. But let's say you have some choice to make. It's like, Oh well, I know I can't die to the poison. I only have 6 poison. OK, I'll let that throw and I'll deal with something else. And that there was no suspense. There was no, the poisonous creatures weren't particularly scary. They didn't even get scary until I had enough.</v>
+
+00:12:27.280 --> 00:12:36.260
+<v Speaker 1>And then that you couldn't block them all. And you're at a point where I had a lethal poison damage up until then was like, yeah, so. And another problem with it was</v>
+
+00:12:37.540 --> 00:12:52.290
+<v Speaker 1>there wasn't a lot of interaction. The only interaction that happened was if I could use it to grant invasion to my creature that if I had poisonous OK, one hits you. Well, if I can make the creatures. Now I should note at this point, by the way, we hadn't yet added,</v>
+
+00:12:54.080 --> 00:13:10.650
+<v Speaker 1>we hadn't added Wither yet. We had added the -1 -, 1 part to infect yet. It was just poisonous. It just literally just gave you poison and the only cards they interacted with regards that sort of helped get you through, made you unblockable, grant you flying. So it was very limited on the cards. It would interact with it.</v>
+
+00:13:13.100 --> 00:13:26.590
+<v Speaker 1>And then one day I remember how we made the switch over. The idea was we were looking for a way to make it more dynamic. And it came up, well, what if? What if instead of</v>
+
+00:13:28.640 --> 00:13:52.700
+<v Speaker 1>oh, I know what it was, I know it was is we had looked at Wither and Wither had a template that said if this creature, if this damage is a creature, that damage is done in the form of -1 -, 1 counters. So we are inspired by Wither when we made the first version in fact, which just said damage to players is turned into poison counters. And the reason I like that was OK, now</v>
+
+00:13:54.200 --> 00:14:24.140
+<v Speaker 1>you have 6 poison and attack with the two creature. Now you're not sure whether supposed to block the beer or not because who knows, maybe I have a giant growth and you'll be dead. So it allowed the poison creatures to have a much more scary quality because you didn't quite always know what they would do. It made you have to worry and sweat about them a little bit more. It made them scarier. Instead of being something known quantity that I can ignore for a while, every time something hit me I had to go. I think you could boost or something and putting equipment on it,</v>
+
+00:14:24.230 --> 00:14:54.250
+<v Speaker 1>putting enchantments on it, like anything that naturally boosts just now makes them more powerful. And scars and mirrored and we were mirrored in, so we had there was an equipment subtheme because mirrored is tied to equipment. So it just naturally sort of fits some stuff together and it made it much more dynamic. And the other thing it did is a lot more things care about power than there are definitely things that help you get through, but there's even more card and all those cards still matter. Getting through still matter, but now</v>
+
+00:14:54.340 --> 00:15:08.130
+<v Speaker 1>they added every card they cared about power equipment that affected power not matter or is it affected power not matter? Giant growths or any sort of effect that that boost power now matter. All of a sudden there's all these different spells. You have a lot more options of how you can interact with it.</v>
+
+00:15:09.100 --> 00:15:11.970
+<v Speaker 1>Umm, the other thing, by the way, real quick, which is</v>
+
+00:15:13.280 --> 00:15:30.960
+<v Speaker 1>we started using Wither and decided that Wither flavorfully matched the flexions. And so for a while, some fractions had poison and some fractions had Wither and the idea essentially as well, They're toxic. Maybe they're toxic to you, maybe the toxic to your creatures.</v>
+
+00:15:31.620 --> 00:16:00.500
+<v Speaker 1>And then at one point we crossed the streams, we made a creature that had both wither and poisonous or not poisonous and early form of in fact, and it played. The flavor was so good. We started doing that in more cards. And eventually what I found was like most of the cards with in fact had wither on it. And like, why? Like why are we adding that action? Let's just make it part of in fact. So we took away with her and just put the wither effect, her ability into, in fact,</v>
+
+00:16:01.580 --> 00:16:02.620
+<v Speaker 1>OK, so</v>
+
+00:16:04.790 --> 00:16:14.570
+<v Speaker 1>let's talk about some of the challenges of designing poison. So one of the truisms that I've always held about poison is I do not like the fact that you can't get rid of poison.</v>
+
+00:16:15.410 --> 00:16:35.890
+<v Speaker 1>There is a card called Leeches made in homelands that's incredibly weak, but I never liked the card. So why? Why did I feel that way? Well, number one, one of the complaints we always get about poison is how does it feel different from life? Why isn't it a lot of people? Isn't that just another life track? And the answer was that</v>
+
+00:16:37.580 --> 00:16:41.570
+<v Speaker 1>A, obviously it's a different amount and B,</v>
+
+00:16:42.360 --> 00:17:12.850
+<v Speaker 1>the thing I really liked about it was unlike life, like let's say my opponent, they started giving 20 life, How much damage have to defeat them? Well, maybe 20, maybe more than 20, you know, I mean, there are games where I've done 40 damage to my opponent because I've been getting a lot of life. And so I wanted to sort of change it up and say, OK, that poison sort of had this absolute. And it also made poison an interesting answer because let's say your opponent has a lot of life game. Well, I could put some poison in my deck and hey, it doesn't matter how much life they have, they could be a 200 life.</v>
+
+00:17:12.920 --> 00:17:21.900
+<v Speaker 1>People died at 10 poison. So I really like the idea of poison being an alternative to dealing with, for example, when life gets out of control</v>
+
+00:17:23.170 --> 00:17:32.950
+<v Speaker 1>if guitar the arm. And I like the idea that it had sort of a locked state to it, that you knew what it was and it wasn't variable.</v>
+
+00:17:34.660 --> 00:17:53.200
+<v Speaker 1>The other thing that I, the reason I didn't want to get removed is that I wanted to poison to be something that had a different feel to it. And what I found was once you couldn't remove poison, every poison just felt. It just made poison feel a little different, like you're just one inch closer to death</v>
+
+00:17:53.850 --> 00:17:58.410
+<v Speaker 1>with life because you know you can gain life. It's sort of like, well, OK, I'm at</v>
+
+00:17:59.080 --> 00:18:01.240
+<v Speaker 1>some low life amount, but am I really?</v>
+
+00:18:02.150 --> 00:18:14.350
+<v Speaker 1>Maybe I've voiced my deck to get back. Every time I get poisoned, I'm one inch closer to death than nothing is going to change that. So I held really firm on the fact that I didn't want anything removing poison counters.</v>
+
+00:18:15.380 --> 00:18:37.560
+<v Speaker 1>So be aware people say, but poison, there's anecdotes you if you actually get poisoned in real life, there's answers to that. And I'm like, I, I get that. And and you know, oftentimes we work really hard to sort of match flavors where we can, but sometimes the thing I cared more about was having poison have its own feel both emotionally and mechanically,</v>
+
+00:18:38.370 --> 00:19:08.720
+<v Speaker 1>that I cared more about that than I cared about it necessarily matching everything about poison in the real world. OK, it's magical poison. It works a little bit differently. I think that's OK. There's this belief that part of doing top down things is that you want to capture every aspect of it exactly. And my point is better designs is capturing the feel of it than capturing all the physical similarities of it. That sometimes people get so caught up in it working exactly the same that what they miss is what you want</v>
+
+00:19:08.830 --> 00:19:39.000
+<v Speaker 1>is not like in writing. In writing, one of the things they tell you is your goal is to understand what you want, how you want people to react to your character, and then do things that force the reaction you want and that don't. One of the biggest problems sometimes is in the drive to reach for realism for characters. You do things that contradict the emotional impact you're trying to have. And that one, that's a big truism of storytelling and it's true for game design,</v>
+
+00:19:39.070 --> 00:19:57.650
+<v Speaker 1>which is how people react in real life versus how they react in fiction is not the same. That what I might really do might read as false in a script, for example, that there's a lot of classic examples of here's something that really happened and I'm going to put it in a script and goes, I don't believe that.</v>
+
+00:19:59.620 --> 00:20:29.130
+<v Speaker 1>And so one of the things you have to do is when you're designing something it is not, don't fall in the trap of trying to capture every little nuance of it. What you're trying to do is capture the feel of it. So what did I want with poison? I wanted poison to be scary. I wanted poison be something where you're kind of afraid of poison. You know, like if you see a poison snake coming towards you, you're not like, well, I don't think that. I don't think that snake has enough poison to kill me. This is not the way you think. Like, Oh my God, this is the poisonous snake. Let's get away from him.</v>
+
+00:20:29.450 --> 00:20:43.010
+<v Speaker 1>You know, even if you read a book, you're like, well no, once they cannot kill you, they do not have enough venom to kill a human being over a certain weight. So if you weigh over £100, a single bite of the snake cannot kill you.</v>
+
+00:20:44.150 --> 00:20:59.650
+<v Speaker 1>Your response to that is not one of Oh, well, now that I understand, you can't come. OK, I guess it can bite me. No, it's a snake. It's poisonous. You're afraid of it. I wanted you to be afraid of the poison creatures. I wanted poison to be the. And I want poison to be a different kind of wind condition,</v>
+
+00:21:01.090 --> 00:21:07.520
+<v Speaker 1>you know, and one of the things that I one of these days I'll do have I done podcast on conditions. One of these days I'll type 1 conditions, but</v>
+
+00:21:09.920 --> 00:21:13.420
+<v Speaker 1>the big issue for me with poison in general was that</v>
+
+00:21:14.730 --> 00:21:26.370
+<v Speaker 1>there's something about it that captured people's attention. That's something that really endeared people to it. So anyway, so I put in fact, and this is important for the story, so I put in effect out and it is super polarizing.</v>
+
+00:21:28.240 --> 00:21:33.300
+<v Speaker 1>We look at the guidebook study and it's the number one mechanic. It's the most popular mechanic in the set,</v>
+
+00:21:33.990 --> 00:22:03.360
+<v Speaker 1>but it's also a belief popular mechanic in the set, meaning when people vote for favorite and least now overall is the most popular mechanic, meaning more people voted it their favorite mechanic than people that voted it low. So while I say there was lovers and haters, the lovers outnumbered the haters. But what I found is that there are a lot of fans of in fact, a lot of effect gets played, but there are a lot of people that dislike in fact. And one of the biggest complaints, here's one thing that's funny is</v>
+
+00:22:04.480 --> 00:22:15.090
+<v Speaker 1>I get a lot of complaints. The two biggest complaints about poison is A, it feels too much like life and B, you can't get rid of poison, which I always find funny since those seem to be contradictory complaints.</v>
+
+00:22:17.850 --> 00:22:40.000
+<v Speaker 1>You know, I, I think one of the keys of any kind of game is you want to sort of find ways to make things that are similar but a little different. The fact that it's kind of like life, but not exactly life to me is good. It means that there's a lot of interactions you can do, you know, it's easy to grasp how things will work, but at the same time, it just is a little bit different.</v>
+
+00:22:41.270 --> 00:22:49.450
+<v Speaker 1>Now people who dislike it complain that I've lowered the life total from 20 to 10 and I'm like, I have bought big Africk</v>
+
+00:22:50.760 --> 00:23:00.600
+<v Speaker 1>you all. You have a much smaller pool of creatures to pull from. So yeah, yeah, yeah, I've lowered your life total, but with the promise that, well, instead of having,</v>
+
+00:23:01.380 --> 00:23:08.140
+<v Speaker 1>you know, 10,000 creatures to choose from, you now have 20 creatures or 30 creatures to choose from.</v>
+
+00:23:09.310 --> 00:23:39.450
+<v Speaker 1>And given that some of those creatures are in colors that like don't support poison as much as others. Like OK, let's say I want to play mono green or black green. Like I have a lot less choices like just mono green. I want to play a mono green poison deck. OK, I got 1012 choices and some of those are bad. You know, I'm saying some of those are not particularly strong cards. So you are playing there's a cost that comes with doing that. Yes, I do get a lower your effectively your life total to 10, but</v>
+
+00:23:39.570 --> 00:23:55.140
+<v Speaker 1>I can't play 99.9% of the creatures. You know, I can't play most of the creatures that exist. So OK, that's a big drawback. Now there's some positive to it. That's the whole point of anything is OK, well, I have to restrict myself and what can I do within that?</v>
+
+00:23:56.410 --> 00:24:05.530
+<v Speaker 1>And yes, the fact that we made in fact, tied to power means there's all sorts of things in larger formats where you can do really quick kills with it. But</v>
+
+00:24:06.730 --> 00:24:22.980
+<v Speaker 1>like the fact that it keeps getting played, the fact that you know, it it there are people that that love it. And so it's very funny that one of the things that comes up a lot is people are like, I hate this thing, My friends hate this thing. So you should not do this thing.</v>
+
+00:24:23.610 --> 00:24:44.220
+<v Speaker 1>And then my answer to them is, OK, are you in the majority? Do the majority people hate? This is something the majority of players really don't like. And when you do the research like, oh, no, actually more people like it than dislike it. And the people that like it really like it. So I'm like, OK, well, I'm not as inclined to get rid of that.</v>
+
+00:24:45.450 --> 00:24:46.440
+<v Speaker 1>You know when you now</v>
+
+00:24:48.070 --> 00:24:52.260
+<v Speaker 1>the thing that always gets brought up when I bring this argument, it's like counterspells. I'm like, OK,</v>
+
+00:24:53.770 --> 00:25:23.160
+<v Speaker 1>you know, we existed in a world where consoles were super strong and you had the deck where I countered everything. Was that generally liked? No, I was hated. It was it was greatly, greatly, greatly disliked. Now, that doesn't mean we don't have counterspells. We do have counterspells. It's not that we it's not like we got rid of counterspells. You still every single magic set as the counter spell in it. We lowered the power level of counter spells to make sure that you can't make a deck of nothing but power of counterspells</v>
+
+00:25:23.760 --> 00:25:50.770
+<v Speaker 1>and poison, I will point out, was not a major player in Standard. It was not something that was dominant and Standard. It has become a relevant deck in larger formats because the larger formats have a lot of tools to interact with it. But it's kind of weird to say, hey, you made something and in this format there's a lot of tools to make it good. OK, if it gets too good, we'll ban something. Larger formats like</v>
+
+00:25:51.570 --> 00:26:15.920
+<v Speaker 1>things have to compete with pretty powerful stuff in the larger format. So the fact that they can compete mean, OK, it's kind of cool there's something different you can do with it now, Commander. I know it's annoying. Commander. I think commander should change its poison total. We change his life total. I don't know why. I don't know why poison total doesn't change. If your life total double s, why doesn't your poison total double or whatever it needs to do to be appropriate level?</v>
+
+00:26:17.330 --> 00:26:43.530
+<v Speaker 1>I guess it's commander 3 left now anyway. I don't play live commander but it should be corresponding. I'm not sure why it's not but we don't control that. So please if you love playing poison and like playing commander and get your friends get mad at you, send messages to the commander people and say to them hey hey why doesn't commander work the same way as life works? Why doesn't have the same percentage to shift</v>
+
+00:26:45.840 --> 00:26:46.710
+<v Speaker 1>anyway?</v>
+
+00:26:48.330 --> 00:26:49.940
+<v Speaker 1>Will we see more poison?</v>
+
+00:26:50.620 --> 00:27:20.610
+<v Speaker 1>That's a fair question. I I will say this in fact has proven developmentally with definitely tricky to do and had a lot of impact on the set around it. One of the probably the biggest strikes to infect from our standpoint is it really made us sort of not do some things in the standard environment around it because we wanted to make sure that it wasn't so dominant and standard. And so we were careful about that. And that's one of the reasons it wasn't is that we were careful about the environment we created.</v>
+
+00:27:20.810 --> 00:27:21.370
+<v Speaker 1>Umm,</v>
+
+00:27:22.170 --> 00:27:52.620
+<v Speaker 1>so I'm there. There's cost of that. So will we do poison again? I don't know whether or not we'll do infect again. Maybe maybe we'll do infect again. Like I said, there's a lot of fans, but it's is there might not be a mechanic more divisive than in fact, the people who like it really, really like it and people hate it, really, really hate it. And the designer me kind of like stuff like that, that it could be that polarizing that it can go from such high, high to low lows. It's kind of cool,</v>
+
+00:27:52.810 --> 00:28:18.840
+<v Speaker 1>and I talk all the time about making a game where people are passionate, and in some level the things that make people passion are gonna make people passionate against it. So it's a tricky thing, I do think. In fact, I don't want to unmake infect or anything. I'm glad it made. In fact, I do believe that we will see poison again in Magic's future. So here's the question. Will we see infected again? Maybe we see poison again. I'm pretty sure that we will find other ways to use poison.</v>
+
+00:28:20.240 --> 00:28:31.920
+<v Speaker 1>That's because if for example, I can see making a car where there's a different kind of wind condition and then just going, hey, isn't that really poison? And then just changing it to poison. So I don't think we've seen the last poison.</v>
+
+00:28:34.080 --> 00:28:40.600
+<v Speaker 1>I don't know. I don't know, but I know I've seen the last infect or not. I would do infect again, but I respect I understand that there's</v>
+
+00:28:42.210 --> 00:28:54.530
+<v Speaker 1>there's a lot of people concerned about in fact, and I know developments concerned about in fact, though for those infected haters out there, it's not a sure thing that affects coming back. But anyway, I'm almost to work, so</v>
+
+00:28:56.090 --> 00:29:07.640
+<v Speaker 1>Poison Me is flavorful. It is interesting. It does have a unique quality to it and I like that it makes a little kind of meta game that people can build around and do things with.</v>
+
+00:29:09.970 --> 00:29:18.690
+<v Speaker 1>Is it powerful and larger format? Yeah, Yep, Yes it is. But it's competing in some really powerful things. And so I feel like,</v>
+
+00:29:19.600 --> 00:29:29.830
+<v Speaker 1>you know, if vintage gets gets to have dredge and storm, OK, look, it can have a poison and actually poison, I don't think in fact is all that great in vintage. I think it's more of a a modern thing, I think.</v>
+
+00:29:31.080 --> 00:29:32.100
+<v Speaker 1>But anyway, I'm</v>
+
+00:29:33.600 --> 00:30:03.670
+<v Speaker 1>I like the mechanic. I think I like poison in general. I think that it is cool to have alternate win victories. I think it's flavorful. I think there's a lot of new designs that come out of out of it. I think it leads to some deck building that can be interesting. So anyway, as I started this thing, I'm a fan of poison and I do see future to poison, although it might not be. In fact, the future poison might go some different races. And even if we do one day bring in effect back, I do hope bring poison in different ways that are different than just</v>
+
+00:30:03.740 --> 00:30:23.830
+<v Speaker 1>in fact, that is something I plan to do at some point anyway. I'm now in my program space or a parking space. I don't have my own program. Every time I say that, people think like I have my specific like Mark standpoint. I don't. Anyway, I'm in the parking space. So we all know that means this is the end of my drive to work. Instead of talking magic, it's time for me to be making magic. I'll see you guys next time.</v>
+

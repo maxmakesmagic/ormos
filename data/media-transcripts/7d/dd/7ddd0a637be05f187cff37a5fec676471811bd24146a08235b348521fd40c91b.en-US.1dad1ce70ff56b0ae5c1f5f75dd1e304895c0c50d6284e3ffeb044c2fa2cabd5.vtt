@@ -1,0 +1,365 @@
+WEBVTT
+
+00:00:01.530 --> 00:00:28.180
+<v Speaker 1>I'm pulling up the driveway. We all know what that means. It's time for another drive to work. OK so today is another design talk where I talk about designing a set. So I've been doing the Urza Saga block and I talked about the design of Urza Saga. I talked to all the design versus legacy. So today I want to talk about the design of Urza's Destiny, the 3rd and final set in the Urza Saga block. OK, so it was codenamed Chimichanga.</v>
+
+00:00:29.350 --> 00:01:00.510
+<v Speaker 1>He was back in the day with the code. Names weren't connected per se. I think that Earth's legacy was guacamole, but I remember I had nothing to do with Mexican food. So anyway, I just like the sound of chimichanga. Just a word that was entertaining to me. So that's why I named it. I gave it the name. So it came out in June 7th of 1999. And one of the famous things about the set was when Magic first hit it big,</v>
+
+00:01:00.610 --> 00:01:30.700
+<v Speaker 1>Richard Garfield realized that they needed to make an expansion or Peter realized he needed expansion came to Richard and Richard quickly made Arabian Nights. Other than Arabian Nights, which was designed really, really fast, Earth's Destiny is the only design led by a single person. And that single person was me. I was a design team for Ursus Destiny. So it was something where what happened at the time was there weren't a lot of people in Magic design and we were</v>
+
+00:01:30.780 --> 00:01:42.750
+<v Speaker 1>starting to do more things. We had picked up more projects, we started doing Portal and a couple of different things. And because of that, we just had less people to do on different projects. And so</v>
+
+00:01:43.720 --> 00:02:13.680
+<v Speaker 1>he said to, I think Joel met the time it was the head designer that I could do, but let her do, let me do it by myself. I could do it by myself. And I guess we were shorthanded for sure. So anyway, have a lot to say about this just because I, like I said, there's not a lot of every card in the set, at least the ones that were turning from design, I did because I did all the design. The development team, by the way, was led by Mike Elliott and including most of the people who were in Magic R&amp;D and a few that weren't at the time. So William Jockish, Charlie Catino,</v>
+
+00:02:13.770 --> 00:02:43.970
+<v Speaker 1>Paul Peterson, Bill Rose and Henry Stern. So William, Bill and Henry were and Mike were basically the normal people that were doing magic. Charlie and Paul both were in R&amp;D. Magic wasn't the main thing they did, but they would chip in from time to time. Charlie, for those who don't know Charlie Catino, what happened was Charlie's name was misspelled in Alpha, I think because he was one of the original platters and as a running joke throughout all of Magic history, his last name was always misspelled</v>
+
+00:02:44.040 --> 00:03:13.640
+<v Speaker 1>in a different way. And so it's a running, if you ever looked at all the different Magic products, anything that Charlie's in has Charlie's name, but it's always wrong. It's a running joke throughout Magic. OK, so one of the things that happened here was this is a point in time where small sets didn't really do new keywords. You were just evolving the keywords that existed. And although the Destiny definitely did have, I would say some new mechanics per se, there was no new keyword or anything. So</v>
+
+00:03:14.060 --> 00:03:44.050
+<v Speaker 1>we used to do was we would introduce 2 mechanics in the large SAD and the second and third set would just evolve those mechanics. So the two mechanics, the named mechanics for Echo and Cycling, as I talked about in terms of Saga podcast, both of those actually first showed up in Tempest. Echo was made by Mike Elliott and cycling was made by Richard Garfield. Both of those showed up during Tempest that they were both on. We had too much, so we didn't use them. And then Mike Elliott matters Asaga, he made use of both those mechanics</v>
+
+00:03:44.220 --> 00:04:14.020
+<v Speaker 1>from Tempest. So one of the things that I was trying to figure out was how could I evolve it? What could I do with echo and cycling? So one of the things that I had done in Earth's Legacy was I had really pushed for the idea of things, echo creatures that maybe you didn't necessarily want to upkeep. And so I played around there with Enter the Battlefield effects. The idea being that a lot of the value of the creature was the spell sort of</v>
+
+00:04:14.170 --> 00:04:45.040
+<v Speaker 1>April 2 it that when you enter the battlefield, so the body wasn't quite as meaningful to you. So sometimes if you just wanted to spell, you could sort of play it, get the spell out of it and then let the creature go in the second turn. If you wanted the creature, you could pay the echo cost. But it made it, you know, Urza Saga the way the echo tended to work as well. You were paying for the creature and you had to pay over two turns and you always pretty much paid the second time. And there's legacy started goofing around with like, well, maybe we'll make some spells where you don't necessarily want to</v>
+
+00:04:45.160 --> 00:05:15.190
+<v Speaker 1>save the echo cost. You can, you're always able to, but maybe you don't. And I was interested in that space. The other thing I was interested in was trying to figure out how to play around with cycling and whether something different I could do with cycling. Oh, by the way, real quick, the set had 143 cards, 55 Commons, 44 uncommons, 44 rares. This is back in the day, long before mythic rare existed. The expansion symbol was an Erlenmeyer flask representing the experimentation that Urza</v>
+
+00:05:15.260 --> 00:05:17.600
+<v Speaker 1>was doing this. The story for those that don't know is</v>
+
+00:05:19.130 --> 00:05:49.310
+<v Speaker 1>they were on the Weatherlight saga. We learned that the Gerard and crew were trying to save the day and they eventually would stop the flexions. But we had a prequel year went back and we learned that Urza was behind it all for those once again, one day I'll tell the story of the weights I got when Michael and I created an Urza was not behind at all. But that sort of got retrofit in. And so in the story now you find that the other side is secretly was all part of Urza was behind everything. And so Urza Saga</v>
+
+00:05:49.440 --> 00:06:02.750
+<v Speaker 1>with the prequel, we went back. And so this part of the story is the final piece of all the shenanigans Erza pulled to set things up, such as the weather right side up. When we get to the card by card, there's a few pieces that tie in the Liga that I will talk about.</v>
+
+00:06:04.070 --> 00:06:06.430
+<v Speaker 1>But anyway, um, so the set,</v>
+
+00:06:07.160 --> 00:06:12.110
+<v Speaker 1>I was trying to figure out how to get new takes on cycling and echo.</v>
+
+00:06:13.660 --> 00:06:39.920
+<v Speaker 1>And one of the things of cycling was I was trying to figure out a way to evolve cycling, do cycling a little bit different. And So what I ended up doing was I came up with this idea of cycling from play. So think of traditional cycling. The cycling works is if a card is in your hand and enters the saga, the cost of cycle is always two. We would later bring cycling back and play around with other costs, but at the time, in terms of signs, always 2. So my idea was in cycling</v>
+
+00:06:40.660 --> 00:06:44.380
+<v Speaker 1>I pay two, I discard a card from my hand at the cycling card</v>
+
+00:06:45.570 --> 00:07:02.000
+<v Speaker 1>and then I can draw a card. So my idea was what if we had cycling from play? The idea being there was a card in play, I could pay 2, I could sacrifice it and then I draw a card. So the idea was rather than discarding a card from my hand to draw a card, I could sacrifice it for the battlefield to draw a card. That was the idea.</v>
+
+00:07:03.700 --> 00:07:35.580
+<v Speaker 1>And once I played around with that idea, I said, OK, well, if we could have cycling from play. One of the mistakes, by the way, from cycling the play was I never labeled it. So it never, even though I would later say to get it cycling, but from play, most people did not get that. It's the kind of thing that it became a running joke in R&amp;D that I was always explained that people like, Oh yeah, I didn't get that. In retrospect, I wish I had keyworded or did something to sort of like give you the sense partially to make sure people saw and partially because</v>
+
+00:07:35.670 --> 00:08:05.630
+<v Speaker 1>we would later cycling triggers and it would be nice if if these were considered cycling triggers. But anyway, so now I was cycling from play. So I was letting you sacrifice permanents to draw a card and echo. We were playing around a lot with the idea that maybe there was echo cost you didn't always want to pay. And the way I played around with that in Earth's Legacy was having entered the battlefield effects on it. But when I was looking at what I was doing, I said, you know what? There's an overlap between cycling from play and from</v>
+
+00:08:05.720 --> 00:08:35.650
+<v Speaker 1>echo. What have we played around with death triggers? And the idea being is what if instead of entering the battlefield gave you something? What if it dying gave you something? So now the reason to not pay the echo cost is even more blunt in terms of legacy is like, well, I've got most of the value of the card. Maybe I don't want to spend the rest of the money playing better to do with my money, man, have something better to do with my mana. But in Destiny, because the echo creatures would have an death trigger, you know, it wasn't</v>
+
+00:08:35.730 --> 00:09:02.970
+<v Speaker 1>like not paying was the thing that would get you what you want and get you the trigger. And so the nice thing was if I put death triggers onto psyching from play, well, now you have extra bonus if you cycle them. And if I put it on echo creatures, you have extra reason to want and not necessarily always upkeep them. Pay that, pay the echo cost. So anyway, I added death triggers. The other thing that I was messing around with that I enjoyed was the idea of</v>
+
+00:09:04.120 --> 00:09:20.730
+<v Speaker 1>using having certain things in your hand as a tool. So I did what we called the reveal spells. There was a cyclic creatures and a cycle of spells. They required you to show any number of cards from your hand. There were a certain color and then they cared how much of that color you had.</v>
+
+00:09:21.830 --> 00:09:33.740
+<v Speaker 1>So it pushed, pushed a little monocolor theme and it really was playing around with the cost. We never played around with, which is, hey, do I just have these in my hand? You know, it was me playing kind of new space.</v>
+
+00:09:35.350 --> 00:09:42.860
+<v Speaker 1>So, um, the this set, what else can I talk about the set. So the set was, um,</v>
+
+00:09:45.340 --> 00:10:15.540
+<v Speaker 1>I OK, so other themes that here's the cycles I played around with. There was a Michael, Mike Elliott, one of the things that the block, by the way, had an enchantment theme. I've tried this all the time that we didn't really, if you actually look at this, at this enchantment theme, but it didn't end up in constructed in sort of high level play. It ended up not being as focused as necessary. And I think people think of Urza's Saga blocks more about their artifacts enchantments, but there was a cycle. There was growing enchantments that Michael had made in Urza Saga</v>
+
+00:10:15.610 --> 00:10:41.600
+<v Speaker 1>based on there's a card called, what's it called, Treasure Trove, I think from Tempest, where Mike Elliott had made where you put a counter on every turn and then someone you can trade in the thing for an effect that was growing over time. You drew cards and Treasure Trove. So the idea was I slowly get value over time and then I can trade it in and the longer I wait, the better I get. So Mike had put some</v>
+
+00:10:42.520 --> 00:11:12.800
+<v Speaker 1>general enchantments that were growing that you could put counters on, number time, and created an effect. So in this set I made a cycle of growing auras, which were creature enchant, creature spells that the creature got better over time. We'll get to those eventually. I had a cycle we called Lobotomy spells. I had made a card in Tempest Caller Lobotomy where I made you discard a card, and then I went and got every copy of the card I made you discard. I went in your brain and I removed the ability to cast a spell,</v>
+
+00:11:12.880 --> 00:11:22.600
+<v Speaker 1>sort of the theme. So I made spells as a cycle, spells where you destroy something and then now you destroy that thing, you destroy all traces of it, so all of it gets to go away.</v>
+
+00:11:23.470 --> 00:11:53.520
+<v Speaker 1>And then that made us like a little sense in Sears. Those were the reveal mechanic. The sense were ones in which they were spells, usually instance I think. And then as additional cost to play them, revealed some number of color cards from your hand. And then it affected how big the effect was based on that. And then the seers did the same thing, but they were creatures that you tap to use. And then I did one vertical cycle, which was enchantment bonus cycle, where the idea was it was a common,</v>
+
+00:11:53.590 --> 00:12:21.760
+<v Speaker 1>uncommon, and rare blue creature, and then also an artifact that if enchanted, it gained an ability. Interestingly, when I originally built the design, I put a vertical cycle on every color, all the cycles that vertical cycles and development ended up knocking them all out. The only the blue one remained. So I'll talk about some of them when I get there, the card by card. So although little tiny, little tiny trivia about this at First off, this was the first set that we moved from summon to creature.</v>
+
+00:12:23.560 --> 00:12:36.480
+<v Speaker 1>I think what happened was in between the second and third set, um, 6 addition came out is I think what happened and 6 addition we changed over the card frame so that it was no longer,</v>
+
+00:12:37.760 --> 00:13:07.630
+<v Speaker 1>it was no longer summon like let's say a goblin. It would say summon goblin and then 6 addition would change it. So it was creature, you know, dash goblin. We liked the idea that the card type was on the card. So if I said destroy target creature and I was the beginner like, oh, what's the creature like? Well, the card says creature on it rather than summon like before you destroy target creature, you said no, that was a creature, even though the word creature never appeared on the card. So this was the first set post 6 edition, 6th edition came out in between Earth's</v>
+
+00:13:07.740 --> 00:13:33.000
+<v Speaker 1>they see in Earth's destiny I I'm pretty sure. And so this is the first step that basically functioned under 6 edition rules, which meant that 6 edition templates happen. And so we got creature for the first time. Also, I believe this is the first set we're Gollum as a creature I was introduced. So the first ever Gollum was in the set. I think it played into what we always knew, that Karn was a golem. He was a silver Gollum,</v>
+
+00:13:35.530 --> 00:13:36.560
+<v Speaker 1>didn't we? But there was</v>
+
+00:13:37.520 --> 00:14:07.210
+<v Speaker 1>maybe we didn't maybe at the time we didn't use, oh, here's what's probably going on is I think that we didn't use creature types early on. We didn't use creature types on artifact creatures. Artifact creatures were artifact creature. And we came around and decided I was the big one who helped push this, that we should have Christian types in all, I mean -1 or two cutesy things like nameless race. We should have creature types in all creatures have creature types. So I think even though golems preexisted the SAT, meaning a creatively</v>
+
+00:14:07.300 --> 00:14:37.230
+<v Speaker 1>he had comes before. This is the first step of the creature type. Gollum actually showed up because we started doing creature subtypes. So this was the first time the gal actually showed up on the card. OK, well let's get into the card by card because there's plenty of fun card trigger talk about. So let's start with Academy Rector. So Academy Rector costs three in a white, it's a 12 human cleric. And when it dies, you exile it and then you get a tutor for enchantment. Say go through the library and find any enchantment card and you put it on the battlefield.</v>
+
+00:14:38.630 --> 00:14:44.140
+<v Speaker 1>This was a loose cycle of cards I made, although they ended up not quite playing all the same.</v>
+
+00:14:45.390 --> 00:14:52.470
+<v Speaker 1>I think what I designed them, they all worked the same and the development, they changed some of them, not all of them. So this card,</v>
+
+00:14:54.370 --> 00:15:16.580
+<v Speaker 1>one of the things about Urza's Saga block I've talked about was the block itself was pretty broken. It was a overpowered block by quite a bit. In fact, I will go on a limb and say the most overpowered block we ever made block at least I mean Alpha had some parts stuff that wasn't part of a block. Mirroring is number 2, but I actually have a saga is more broken than murder, which was also quite broken.</v>
+
+00:15:18.170 --> 00:15:48.340
+<v Speaker 1>I bring this up because the Canadian reactors are going like one of my jokes is I made cards in design that I My joke was I would have spent a little bit more time on costing if I knew that development in a lot of cases would just leave it be. This is a card where this is when I designed a card. This is what I've posted it at and it is too cheap, is too efficient. This is a really powerful card. In fact, it's funny, back in the day I used to play in the FL and I made a</v>
+
+00:15:48.450 --> 00:16:15.860
+<v Speaker 1>I know mono white deck that had four Yawgmoth's bargain in it. I'll get to young bargain eventually. So the youngest bargains probably the most broken card in the set as a lot of broken cards in the set. So that's something. Although I should point out by the way that Eric Lauer points out to me that Earth's Destiny was the least broken of the three sets in Arzaga block. Low bar. But but anyway, I made a mono white,</v>
+
+00:16:17.310 --> 00:16:39.750
+<v Speaker 1>but I mean nothing but planes. I had four young with bargains and the only way for me to get Yawgmoth's Bargain onto the battlefield with either with Academy Rector or another spell talk later called Replenish. And so I had no way to cast the spell. It couldn't have black mana in my deck, but yet I would get out Academy, get out Young must bargain and do horrible things with it. Fun thing for me,</v>
+
+00:16:41.460 --> 00:16:58.330
+<v Speaker 1>but anyway, Academy Rector is very powerful just because it allows you to circumvent costs. One of the big problems we had, especially inside a block, is there's a lot of circumventing and cost. It's like I spend 4 man and get it out and then I can go whatever. And like I said in the deck, guys like FL, which I was doing really well with</v>
+
+00:17:00.580 --> 00:17:11.510
+<v Speaker 1>I I was getting out I'm I'll spell the cause black, black black. I'm sorry, 4 black blacks what it cost 6 mana, two of which were black. I didn't even have swamps in my deck and no problem.</v>
+
+00:17:12.800 --> 00:17:13.360
+<v Speaker 1>But anyway,</v>
+
+00:17:14.900 --> 00:17:27.990
+<v Speaker 1>I's this as thematically talking about this ties into my death theme that I death triggers. That was a major theme in this block and so this definitely was OK. Hey, it dies and it does something pretty powerful.</v>
+
+00:17:29.070 --> 00:17:58.520
+<v Speaker 1>Next, archery training. It's an enchantment for white. It's an aura enchant creature. So every upkeep you put an arrow counter on it and then enchanted creature has tap deal X damage to target attacking or blocking creature, where X is the number of arrow counters on it. So there's an ability we used to do a lot more in white, what we used to refer to as range Strike. And the idea was it usually is flavored by like someone with a crossbow or something. And the idea was I could do damage to attacker blocking creatures.</v>
+
+00:17:59.240 --> 00:18:25.840
+<v Speaker 1>Why? It's kind of, you know, white has this high moral sense of morals. And so white doesn't like to kill things. It doesn't have to kill things. But the idea is, well, once you get in a fight with white, OK, now you're fair game. And so white, it's like, well, I just can't damage anything. But OK, I can damage attacking or blocking creatures. This is still in wipes part of the pie. It's not that this isn't something we can do. It just proved to be pretty powerful and limited. Very powerful, unlimited. So</v>
+
+00:18:26.610 --> 00:18:26.940
+<v Speaker 1>we know</v>
+
+00:18:27.660 --> 00:18:55.470
+<v Speaker 1>they don't do it a lot anymore just for that. It is. It's kind of shuts down combat quite a bit that even if you just have one range structure that do one damage to attacker black creature A, it makes the math a lot harder in B, It really makes blocking up significantly harder to do. So this cycle we're all. So like I said, my take on the enchantments, when Mike made them in Urza Saga, they were all global enchantments. They got bigger and I think you stacked them to make make use of them.</v>
+
+00:18:56.710 --> 00:19:08.080
+<v Speaker 1>My version of them, they were enchant creatures and that you never sacked them. They just made the creature more and more powerful overtime. But the issue was that they were auras, and so auras have a lot of downside.</v>
+
+00:19:08.900 --> 00:19:25.500
+<v Speaker 1>The biggest being if you ever get rid of the creature, you get rid of the aura. So we felt that we could make auras that could grow overtime that, you know, there's a lot of answers in, especially in limited for creatures and construction, obviously. So we felt like, OK, we were pretty worried it was gonna be overpowered. So</v>
+
+00:19:26.920 --> 00:19:56.870
+<v Speaker 1>OK, next Bloodshot Cyclops. OK, so Bloodshot Cyclops is cost 5 in a red, so 6 mana, one of which is red. It's a 44 cyclops giant. You tap, you sack a creature, and then you deal damage equal to the power of the sacrifice creature to target creature or player. So this was what I would call an enabler. So one of the things is, in general, when you make a set, what you want to do is you want to figure out what you're trying to do with the set, and then you build cards around it that enable that activity.</v>
+
+00:19:57.150 --> 00:20:01.230
+<v Speaker 1>So for example, I had it set that had a lot to do with death triggers. OK.</v>
+
+00:20:02.230 --> 00:20:32.230
+<v Speaker 1>The thing is, dying meant something. Well, how do I interact with that? Well, I make cards that help you control when things die. Now yes, you can send things in combat and that gives you some amount of knowledge of when things are going to die. But because of giant grossness and that you don't completely know. But sacrificing creatures is nice clean. Like you know when you sacrifice creature, it's going to die. There's nothing your opponent can do to stop you from sacrificing the future. So it's a nice clean way to set off the desk trigger. And this one also, it's sort of</v>
+
+00:20:33.830 --> 00:20:37.490
+<v Speaker 1>I had made, I think Fling was flying in Tempest.</v>
+
+00:20:38.440 --> 00:21:08.220
+<v Speaker 1>We had made fling which is what, which was a one shot version of this where you sacrifice a creature and then do damage. But it's a singular spell. And bloodshot Cyclops was made as repeatable version of this. A little more expensive obviously, but anyway, it was flavorful. It played in our theme and it was end up being a card we would put in a couple of basic basic in some corsets. OK, next body snatcher 2 black black for 2/2 minion. When it enters the battlefield, you exile it unless you discard a creatures vowel</v>
+
+00:21:08.480 --> 00:21:14.570
+<v Speaker 1>and then when it dies you get to reanimate or take a creature, a creature card from any graveyard and put it onto the battlefield.</v>
+
+00:21:15.900 --> 00:21:19.910
+<v Speaker 1>So this was definitely once again, there's a death trigger here. So the idea was</v>
+
+00:21:21.710 --> 00:21:31.300
+<v Speaker 1>the creature's death trigger was reanimated creature. Well, that's a pretty powerful fact. So we needed to offset that to make sure that the. Otherwise it's felt to be really expensive to cast. So what we did was</v>
+
+00:21:33.290 --> 00:22:02.120
+<v Speaker 1>we made part of the cost of discarding a card, but then that it had a cutesy quality to it. That what you could do, for example, is discard a card that is too expensive for you to cast and then put the scripture out. And then this creature dies. You can reanimate the very card you discarded to be able to put the thing in play. So one of the things I talked about this a bit, but it's a good example. When you're designing cards, one of the things you want to do is if you ever have more than one ability, you want to make sure that those abilities feel holistically connected.</v>
+
+00:22:02.330 --> 00:22:09.840
+<v Speaker 1>And there's a bunch of different ways to do that. Sometimes you can do it with flavor, sometimes you can do it because mechanically they're relevant to each other.</v>
+
+00:22:12.240 --> 00:22:15.590
+<v Speaker 1>This is an example of 1 where the two abilities, like</v>
+
+00:22:16.240 --> 00:22:39.650
+<v Speaker 1>by making clever possibilities with them, like really what it was is we want to have a cost to offset the card. We want an ability for the card, and we found a way to pick a cost that could, but that doesn't always have to interconnect with it. So the idea is when you look at the card, the basically what you want to do is people are going to map. When you look at something new, people sort of make make a story in their head. Well, here's what's going to happen.</v>
+
+00:22:40.480 --> 00:23:04.340
+<v Speaker 1>And so the story we were able to sort of give them was, OK, I have this creature. I have this creature in my hand that's too expensive. I can't cast it yet because it's turned 4, let's say, because it's cost 4 mana. OK, well I can discard this way bigger creature that I can normally cast now. Not a big deal. I couldn't cast in any way. I play out this creature at some point whenever this creature dies, that big thing that I couldn't cast I now get for free. So</v>
+
+00:23:06.370 --> 00:23:35.630
+<v Speaker 1>in some ways it was a lot like saying, hey, exile a creature, cards in her hand and when this dies, return from the battlefield. That's kind of how it read. But it didn't actually require you to do that. You know, you weren't required to discard a creature. Sometimes you require other things. You might require something that was a spell or something that you needed to do. And sometimes the thing you wanted to reanimate, hey, what could be in your opponents graveyard could be something that you somehow got there somewhere some other time, maybe a powerful picture you got that killed you want bring back.</v>
+
+00:23:35.810 --> 00:23:55.090
+<v Speaker 1>So we made sort of them connect so that they can do something in which they're connected, but they're not forced to. So they tell the story, they make sense to you, the audience, because they have a relationship with each other. But we leave them open-ended enough that you could do other fun things, right? You don't have to do the prescriptive thing, but the prescriptive thing explains why the two things are on the card.</v>
+
+00:23:56.510 --> 00:24:13.540
+<v Speaker 1>OK, next brass secretary. So Brack setting the next brass secretaries. An artifact creature costs three to two one construct and it has two sacrifice draw card. So this is a good example of a very simplistic version of cycling from play.</v>
+
+00:24:17.930 --> 00:24:27.530
+<v Speaker 1>In fact, it's the bare bones version that any that could play it was an artifact creatures, any that can run it. And really what it says is OK, what value do I get? I can turn this into</v>
+
+00:24:28.530 --> 00:24:58.300
+<v Speaker 1>into as well. And the idea is why might you want to do this? Well, it's cheap. It costs three managed for 2/1. So I have something maybe I can hit you once or twice if I get it out before you can block it. And then later in the game, when if I get stalled out or I draw this late enough, that doesn't matter. Or even I get situations like where I want to block your creature, I then the opportunity to sack it and draw a card off it. Be aware by the way, when Earth is Destiny came out,</v>
+
+00:24:58.470 --> 00:25:01.510
+<v Speaker 1>we had just started 6 edition rules. So it turns out that</v>
+
+00:25:02.740 --> 00:25:18.030
+<v Speaker 1>that cycling from play was really good under 6 edition rules and the reason was damage on the stack. So for those don't they don't know this from six edition up through magic 2010 there was an ability called damage on the stack. One that did is damage acted much like spells act,</v>
+
+00:25:19.480 --> 00:25:35.090
+<v Speaker 1>where you assigned the damage from the creature, and then once that was on the stack, if something happened your creature it didn't matter, the effect was already there. So what you could do with cycling from play is let's say your opponent attacks with</v>
+
+00:25:36.460 --> 00:25:37.370
+<v Speaker 1>32 creature.</v>
+
+00:25:38.210 --> 00:25:54.760
+<v Speaker 1>OK, you have a 21 creature, you can block it, and with six addition rules you can block it, put damage on the stack, meaning you'd be doing 2 damage to the creature. Then after damage on the stack, you spend your two man a second draw card, so you're both are able to destroy the creature that was attacking and get your car out of it.</v>
+
+00:25:55.400 --> 00:26:25.340
+<v Speaker 1>Since March 2010, what we said is damaged no longer goes on the stack. So they attack with the three two. You have a decision. Now you could block with your two one and kill the three two, or you could block sacrifice to draw the card, but then you wouldn't deal any damage to the attacking creature. So it's sort of like make a decision. What do you want to do? Do you want to kill my creature or do you want to sort of prevent the damage from the turn and draw a car, which is a much more interesting decision. By the way, one of the problems with damage on the stack was it was always the correct move to. I mean, assuming that the manner, it was always the correct</v>
+
+00:26:25.460 --> 00:26:38.110
+<v Speaker 1>to to, you know, put damage on the stack, kill the creature and then use the ability where now it's like, OK, what do I care more about to kill more about my creatures, the body killing your creature? Or do I care more about the fact that I want an extra card out of it?</v>
+
+00:26:40.900 --> 00:26:41.650
+<v Speaker 1>The</v>
+
+00:26:43.350 --> 00:26:54.940
+<v Speaker 1>one of the things that was important in the set was I really wanted these themes to sort of be something that played across the spectrum of different decks. And so having an artifact, Richard did a good job of sort of,</v>
+
+00:26:55.730 --> 00:27:11.230
+<v Speaker 1>yeah, being there to sort of give you the the baseline of what you can expect. Because the idea was anybody could put this in their deck. And once you realize the value of this creature, it didn't encourage you to make the other creatures that had death triggers or not death triggers other cycling from clay creatures.</v>
+
+00:27:12.330 --> 00:27:41.220
+<v Speaker 1>OK, next brine seer. So it costs three in a blue for A11 human wizard for 2 blue and taps the three manta, one of which is blue. You can tap it. So the idea was when you activate the ability, you would reveal some number of blue cards from your hand and then you encounter a spell of your opponents unless they paid X for extra the number of blue cards in your hand. So the idea was my opponent casts a spell, I tap it, I then reveal let's let's say 2 blue cards. OK, now you have to pay 2 or the sales counter.</v>
+
+00:27:41.950 --> 00:27:42.490
+<v Speaker 1>Um,</v>
+
+00:27:43.950 --> 00:27:44.870
+<v Speaker 1>all the seers</v>
+
+00:27:46.900 --> 00:28:17.310
+<v Speaker 1>we're creatures. I think they were all pretty small creatures. I know they're all ones, but they are pretty small creatures. And the idea was they were fragile, but they had this repeatable use of this effect. And one of the neat things about the reveals spells in general was it was using a resource in a very different context, which is normally you don't care about cars in your hand. They don't particularly have value. We had a, we had done a few cards early Magic where you cared about how many cards are in your hand, either because it gave you a benefit or if you didn't, if there would be a penalty for it.</v>
+
+00:28:17.850 --> 00:28:20.340
+<v Speaker 1>Stuff like, you know, the black vice and the rack</v>
+
+00:28:21.870 --> 00:28:40.970
+<v Speaker 1>thought and we definitely had, you know, discarding card as a cost, but this is something different. Like I now care what's in my hand, unspent in my hand. And so it definitely led to some very interesting stuff and this theme pushed toward mono color. Anyway, this is the first time I messed around with this kind of revealing as a cost</v>
+
+00:28:42.490 --> 00:28:58.180
+<v Speaker 1>and and I liked it. They're magic would go on to do more of it. OK next bubbling beebles 4 blue for A33 beeble. It can't be blocked and opponent controls any enchantments. So the Beebles, Jeff Miracola,</v>
+
+00:28:59.350 --> 00:29:15.410
+<v Speaker 1>he had asked him to draw a dualist cover. So Duelist was the magazine originally on Magic and we asked to draw a cover with Squee on it. So Squee was from the website Saga. He was a goblin and he was sort of Comic Relief. So</v>
+
+00:29:15.940 --> 00:29:33.380
+<v Speaker 1>Jeff drew Squee being attacked by these little pink creatures and I'm not sure what inspired after makes them, but they're really cute. And so I asked him, when I concepted Urza's legacy, remember I did the concept of Earth's legacy. And I,</v>
+
+00:29:34.330 --> 00:29:48.200
+<v Speaker 1>I basically said I want this to be those little things. And I think I named them. I think I named them Bibles that I wanted them to be. I wanted to make a card that had them and asked the art director to give to Jeff Miracola</v>
+
+00:29:49.680 --> 00:30:02.270
+<v Speaker 1>and then for us Destiny, we made another one. So the one in Urza's Saga? I'm blanking on the name but it has to do with your point. Has an artifact, it can't be blocked. Well this one was the companion one. If you have an important has enchantment, it can't be blocked.</v>
+
+00:30:03.880 --> 00:30:05.850
+<v Speaker 1>The Beeble sadly would end up</v>
+
+00:30:07.290 --> 00:30:19.780
+<v Speaker 1>it of has dubbed them a little too silly for normal Magic, so they have since showed up in They showed up in Unhinged on cards like Saute. So there are definitely</v>
+
+00:30:22.100 --> 00:30:45.410
+<v Speaker 1>Beebles have been relegated to supplemental products. I'm not sure if any. I don't know if a non unset beyond or beyond once beebles went out of the normal game, if we've ever made Peebles in a non unset. I don't remember, but people's got relocated pretty quickly to being not a normal magic thing, which makes me sad because I like people. I think people are very cute, but it can't always have</v>
+
+00:30:46.120 --> 00:30:46.680
+<v Speaker 1>the peoples.</v>
+
+00:30:47.380 --> 00:31:17.910
+<v Speaker 1>OK, next Carnival of Souls. So this was an enchantment costs one and a black, so 2 total one which is black. Whenever a creature enters the battlefield. And this is not just your creatures, but any creature. Remember back during this time period, we tend to make whenever we had effects, they tended to be global to affect you and your opponent. We've since defaulted to being not that we don't make global effects, but the default is not global. This is the kind of card that it is done nowadays. It would say whenever a creature enters the battlefield</v>
+
+00:31:17.990 --> 00:31:26.710
+<v Speaker 1>your control. But anyway at the time said any changes battlefield. Whenever enters the battlefield, you lose one life and add a black man into your manifold.</v>
+
+00:31:28.140 --> 00:31:54.390
+<v Speaker 1>And the idea here is OK, I'm trading resources. I'm, you know, every creature that gets played, I get mana at the cost of paying a life. And the idea was when I made this is like, OK, it's dangerous. It felt like a really good black spell, like, OK, getting extra mana that's powerful, you can do cool things with that and getting it off creatures showing up. OK, it's interesting. The problem was</v>
+
+00:31:55.660 --> 00:32:03.820
+<v Speaker 1>because I lost a life like, OK, well can I do enough with it without losing the game? That had a lot of the back quality, the black qualities of</v>
+
+00:32:05.910 --> 00:32:09.700
+<v Speaker 1>kind of making a deal with the devil, that there's power there, but there's also</v>
+
+00:32:11.350 --> 00:32:21.130
+<v Speaker 1>there's danger. And I made this card. When I designed this card, I really designed it to be like a Johnny, like, who knows what you do with this card?</v>
+
+00:32:23.750 --> 00:32:42.230
+<v Speaker 1>And this is one of those cards that you asked me when I made the card whether it was going to be completely broken or totally useless. I would have said I don't know. Because of the kind of card that like in the right time and the right jacket could be broken. It produces mana, but it ended up not getting broken, or at least so far as that got broken.</v>
+
+00:32:45.710 --> 00:32:52.980
+<v Speaker 1>So this card has caused me. Of all the cars I've designed, this is probably in the top five of cards that have caused me grief.</v>
+
+00:32:55.150 --> 00:33:25.400
+<v Speaker 1>I think what happens is this card is so tempting that it seems like it does something and so a lot of people have tried to do it and no one's made it work. Like this has been one of those cards like I, I like making challenges, but I sort of Johnny challenges, like here's the card. See if you can do something with this card and this one. I mean, I know people have made decks with it. They've had a lot of fun. It is a weird crooked card. Nobody really broke it. There's no, I don't know of any that were like high level constructed decks. So a lot of people got frustrated.</v>
+
+00:33:25.470 --> 00:33:32.830
+<v Speaker 1>They're like, OK, this was, this is a, a card that I'm going to do something with. And then they, they, they try and never quite make something.</v>
+
+00:33:34.190 --> 00:33:42.520
+<v Speaker 1>I've never quite good enough and people feel like this let the car teases them. I don't know. They I got a lot of grief about this card. I think that</v>
+
+00:33:43.280 --> 00:33:56.780
+<v Speaker 1>I like this card from a design, from a designer standpoint, I think it's a very cool card that you want cards in Magic where you make them and you make the person who's playing with them go, OK, let me think about that. What do I do with that? I think that's cool.</v>
+
+00:33:57.870 --> 00:34:27.830
+<v Speaker 1>OK next chime of night. So this is enchantments and aura. Enchant creature costs one and a black SO22 mana one of which is black. And whenever enchanted creature is put into the graveyard from play, destroy target nonblack creature. So really quickly in alpha Richard made a car called terror which destroyed target nonblack creature. The reason he put non black on it was in fact, the original terror was non black, non artifact.</v>
+
+00:34:28.750 --> 00:34:45.310
+<v Speaker 1>And the reason was he's like, oh, you're scaring some in depth. Well, it's hard to scare artifact creatures that don't really have emotions and it's hard to scare black things that they've seen it all. How scared can they get? And so Richard had done that originally as a flavor thing, but for a long time,</v>
+
+00:34:47.690 --> 00:35:17.160
+<v Speaker 1>for a long time aren't just kind of like, oh, no, no, that's just, you know, non black. That's just a restriction built into black blacks just bad at dealing with black things. And so for a long time that like all the effects of black destroying things just had this rider that it couldn't destroy black things. And finally we came to the conclusion of why is that exactly? Why like philosophically black or kill black things? I mean, it made sense with with terror we're using you're scaring somebody. OK, maybe it's hard to scare another black mage, but you can kill</v>
+
+00:35:17.240 --> 00:35:47.660
+<v Speaker 1>for the black. You know, it's not like the black matures qualms with killing things. You know, the idea kind of like why I don't want to kill my own kind. Why isn't a problem killing its own kind. You know it Black will gain advantage from black will kill anything. So we really phased out. You don't really see non black anymore on kills. I mean, we do like the idea that not every kill spells open-ended. We like the idea of occasionally having restrictions on kill spells because it just leads to interesting play, especially in limited. But the non black thing. But anyway, so here's the interesting thing. So this enchantment, it's an aura,</v>
+
+00:35:47.750 --> 00:35:57.030
+<v Speaker 1>gives a death trigger to a creature. And remember, it is your enchantment, so you get the death trigger, not not the enchanted creature</v>
+
+00:35:58.250 --> 00:36:26.840
+<v Speaker 1>that when a creature died, you gotta do the effect, not not the controller of the creature. It wasn't it wasn't like it wasn't enchanted creature gains. It just was said, hey, when this thing dies, something happens. So one of the cool things you can do with this spell was if you had multiple ways to kill things, what you did is you put this on a creature, killed that creature, and then you got to kill a second creature. So this essentially was a kill spell, assuming you had a second kill spell.</v>
+
+00:36:28.530 --> 00:36:40.120
+<v Speaker 1>But it also could be neat things where you put it on a creature and then your opponent was really wary with it. Do you wanna attack with that creature if it dies and one of your creatures is going to die? So it was an interesting way to sort of disrupt,</v>
+
+00:36:42.060 --> 00:36:55.800
+<v Speaker 1>make your opponent not want to use a creature or not want attacker block with it. And so, but anyway, I thought it was a neat thing and it clearly shows him that I'm taking my death trigger theme and trying to apply it everywhere I can. And so</v>
+
+00:36:57.050 --> 00:37:07.400
+<v Speaker 1>but so on. I'm now coming up to my daughter school. So I will continue after this is Part 1. Like I said, I'm I'm very proud versus destiny, just cause,</v>
+
+00:37:09.300 --> 00:37:16.670
+<v Speaker 1>you know, there, there's a lot of cool things in I think it's in very inventive block that had a lot of neat builds around me cards and it's</v>
+
+00:37:17.370 --> 00:37:47.660
+<v Speaker 1>I'm always part of sets. I do even when I work with teams, like, you know, part of making a set is, is usually working with the team. But it was kind of fun once, one time once of doing something in which I got to be the design team and I got to actually design every single card in the set. Design wise, there's cars got me during development. I didn't actually on every card, although not design development did not change tons of stuff. So a high percentage of the cards that were stuff that I made. But anyway, I'm now at Rachel school,</v>
+
+00:37:47.760 --> 00:38:01.300
+<v Speaker 1>so we all know that means we know this is the end of my drive to work. Instead of talking magic, it's time for me to be making magic. So this is Part 1. Future parts will come soon, in fact the next one you hear. But anyway, Ciao for now, see you next time. Bye bye.</v>
+

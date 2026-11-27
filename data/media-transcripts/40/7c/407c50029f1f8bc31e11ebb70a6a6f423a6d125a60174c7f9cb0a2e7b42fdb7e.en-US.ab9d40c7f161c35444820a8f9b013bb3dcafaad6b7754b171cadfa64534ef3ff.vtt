@@ -1,0 +1,257 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:30.530
+<v Speaker 1>I'm plumber driveway. We all know what that means. It's time for another drive to work. OK today is all about technology and the tools we use in our and D to do our job. Now the funny story is the reason I chose this topic was I was going to try to use, I have Bluetooth in my car and dawned on me that I could use the microphone in my car to try record a podcast. And I've had a lot of issues, sometimes</v>
+
+00:00:30.600 --> 00:01:00.660
+<v Speaker 1>bit loud. And you know, I thought, oh, maybe this will be the new solution. So I said, OK, I'll use a brand new technology and then do a podcast about technology. And so I did it yesterday and then on the way home, I'm listening to it and right now the microphone is really close to my mouth for good or for bad, but at least you hear me. But when the microphone is farther away, when I got on the freeway and like trucks would go by, you just couldn't hear me because the trucks were going by. I'm like, well, I guess hearing me is probably more important than occasionally me being loud. So anyway,</v>
+
+00:01:00.800 --> 00:01:31.650
+<v Speaker 1>that's the inspiration. The funny thing is my inspiration for my technology podcast didn't workout. So a little, I don't know, interesting note about how technology sometimes works and sometimes doesn't. But I am going to do this podcast because it's a fun one. It's actually the third time I've done it. See, one of things you guys don't realize is I'll do a podcast and then if something doesn't go right, I do it again. And so the first day I did the podcast and then I realized halfway through that I was going to do my microphone and I forgot. It's like, oh, whoops, So yesterday do the microphone and then it doesn't work out.</v>
+
+00:01:31.720 --> 00:02:02.160
+<v Speaker 1>So today back to the traditional recording method. But I'm still going to talk about technology and the tools that R&amp;D uses to get its job done. So one of the questions I get all the time, way, way back when I thought like, OK, well I'm just gonna talk the interesting parts of what we do. And then I've learned over time that you guys think most of the things we do is interesting, that even the things to me that are more minute show you guys like. So I asked all the time about sort of the tools we use and how do we do it and say, you know what, today is all about the tools. So let's talk about</v>
+
+00:02:02.260 --> 00:02:31.810
+<v Speaker 1>what are what tools does R&amp;D use? I'm leaning more toward the technology side because I talk all the time on my podcast about like the content, like how do we, how do we structure things and come up with ideas? And I talk a lot about sort of the making the, the creative making of it. But you know what, there's just a lot of things that need to be used to make that happen. OK, so tool #1 If you ask me, the most important tool that we use in R&amp;D, I think the most important would be our database, which we have nicknamed Multiverse.</v>
+
+00:02:32.790 --> 00:02:35.040
+<v Speaker 1>So the database, the idea of the database is</v>
+
+00:02:35.780 --> 00:02:45.850
+<v Speaker 1>it lists. It takes every single magic card, and I mean every single magic card, even ones that don't see print. And it has a record for everyone. And let me explain why this is so important</v>
+
+00:02:47.530 --> 00:03:16.890
+<v Speaker 1>making Magic. It's a complex system. There are a lot of people at anyone card. There are a lot of people working on that card that while R&amp;D might be figuring out the rule tax is, you know, the art directors figuring what the art is going to be and the creative people are figuring out the name and maybe sometimes the creature type and the flavor text. So there's a lot of moving parts all at once and each piece is affected by multiple people, but we'll get there in a second. So anyway, we have file where everywhere</v>
+
+00:03:17.180 --> 00:03:47.170
+<v Speaker 1>any card is recorded and kept in in one place and we call it multiverse. Now remember when we make a card file, I did a whole whole article on card codes at one point. So I'll cover a little bit of this ground here. So when we make a file, what we need to do is they're actually is slots. So if you're setting, depending on the size of your set, you have 200 and 10165 for a small set and large set these days.</v>
+
+00:03:47.570 --> 00:03:55.900
+<v Speaker 1>What have I said these days? It's now 1018053 and 15 so and those numbers up, that's our normal large set nowadays,</v>
+
+00:03:57.390 --> 00:04:00.300
+<v Speaker 1>280 something. So</v>
+
+00:04:01.490 --> 00:04:24.650
+<v Speaker 1>the idea is we have for each slot, the slot has three identifiers on the slot. So #1 is a rarity indicator. So you are either common, uncommon, rare or mythic rare. So see URM, pretty straightforward. The second indicator is technically for frame, although remember each color has its own frame, so</v>
+
+00:04:25.860 --> 00:04:34.010
+<v Speaker 1>each colors frame. So white is W, blue is U, black is B, red is R, green is G I've explained many times why blue is you.</v>
+
+00:04:35.370 --> 00:05:05.230
+<v Speaker 1>Other frames for example, that get used is land is L, artifacts is a multicolor is Z. And there's other is hybrid frames and colors frames. And there's other frames that we make. And even within one frame, when I say Z is multi color, there's really a bunch of different multi color frames because we do pin lines to match the different color. So when I say frame, it gives a hint of what the frame is, but it's not complete. Also, sometimes within frames, we'll do like a miracle frame or enchantment creature frame or there's different treatments, we'll do a different sets.</v>
+
+00:05:05.330 --> 00:05:17.210
+<v Speaker 1>So this mostly says what's the default kind of frame for this card? Um, and the reason blue is U, by the way, is B is black L is land A is artifact. So</v>
+
+00:05:17.900 --> 00:05:47.590
+<v Speaker 1>for black, the B was the best sense for black. I know K is used in the printing industry. Just when we started, we didn't realize that. So we use B for black and we use you for blue. That's what we do. OK, So for example, the very first slot in most files is common white O1. So CWO one and then you the numbers goes high, they go by rarity. So there's 19 comments, then goes from C1 to C19 and then uncommon, let's say there's 10 uncommons. You go from UW one to W 10</v>
+
+00:05:47.880 --> 00:06:18.070
+<v Speaker 1>that you start over at each rarity. And the idea is so for those that don't know, so we go in what we call Wolberg order, which is W white, blue, black, red, green, that if you look at the back of the Magic card, I think at the top it's white and you go clockwise. That's the order of the colors. There is a, there is a natural order of the colors. And we start with why all our files? In fact, there's a running joke that white tends to get a lot of attention. We already start with white and green gets the least amount of attention because we always end with green. Although sometimes we'll start with green just to mix things up.</v>
+
+00:06:18.140 --> 00:06:24.030
+<v Speaker 1>That it was joking around that you're always fresh at white and you're tired by time you get to green. But anyway,</v>
+
+00:06:25.070 --> 00:06:55.060
+<v Speaker 1>one of the things that Multiverse does is it can create files so that we can print up our files. And our meetings fall into two categories. Either we have meetings in which we sit and discuss the file, or we have meetings in which we play test for play testing. We'll get to that in a second. That's a whole separate set of tools. But for a discussion meeting, we need our file. That's the biggest tool we have. And the idea is we're constantly updating the file and the file has a whole bunch of things in it. So let me walk through what Multiverse does exactly. So first thing it does is it takes every component</v>
+
+00:06:55.150 --> 00:07:25.840
+<v Speaker 1>and gives it its own field. So there's a field for rarity, there's a field for the color frame, there's a field for the number, there's a field for the title. In fact, there's a field for the title in English and then a localized title because not only is it a record for every car, when I say every card, I don't even just mean every card in English. I mean every card. There's a record for every French card in Japanese card in Spanish card. And I mean we're up to 11 languages. So, so every card is duplicated multiple times. So there there's a frame for the English name. So no matter what</v>
+
+00:07:25.920 --> 00:07:56.040
+<v Speaker 1>higher language we're looking at, we can tell what the card is. And there's one for the localized name, there's a slot for mana cost, there's a slot for card type, for subtype, for rules, tax for flavor, tax, for power, for toughness. You know, there's lots of different fields so that we can separate out and that allows us to be able to look at things. One thing that's nice about Multiverse is if you want to isolate and look at one particular facet, you can</v>
+
+00:07:56.500 --> 00:08:26.220
+<v Speaker 1>also it's a searchable database. So much like Gatherer, if we need to find something, we go, ohh, well, how many whatever in this that you know, we can pick by different facets and we can look for that. And that's that's important. It's a tool we have to use quite a bit when you're trying to figure out things. I talk a lot about the math behind it. And so just being able to look at things, we'll get to the math insect, but there's some of the tools we use as has to do. There's a lot of math. OK, so we have all the different fields and then you can you can output the file in any order you want. You can tell</v>
+
+00:08:27.200 --> 00:08:56.110
+<v Speaker 1>I want these criteria in this order. So one of the funny things is R&amp;D has different preferences. So for example, when I print a file and usually whoever is controlling the file, so usually have a lead designer slash lead developer or the strong second in cases where somebody is controlling the father. When I leave files, I tend to have my second control the file. It's a good teaching tool and one of the things I have to do just because I'm a busy man. So what happens is when I print the file, I go</v>
+
+00:08:56.630 --> 00:09:12.000
+<v Speaker 1>by color first, by rarity second. So that means is you open the file first of the common white cards, then are they uncommon white cards, then are the rare white cards in mythic rare white cards. Following that is common blue, then uncommon blue and so on. But in contrast,</v>
+
+00:09:14.160 --> 00:09:43.960
+<v Speaker 1>Ken Nagle, for example, he likes to go rarely first, color second. So if he puts up a file, it's common white and then come in blue, then common black, then common red, then common green, then you know, common artifacts or multicolor land or whatever if those exist, and then then uncommon white, uncommon blue, uncommon black. So all the comments come before all the uncommons. Now it's interesting, different preferences. He likes to look at the comments altogether. I like to look at colors altogether. I find that a lot of times things switch between rarities</v>
+
+00:09:44.030 --> 00:10:14.350
+<v Speaker 1>within color, like, oh, we're doing this effective white uncommon, maybe we should tweak the white common. So I like having all white together, but it's just, I mean, the nice thing about the multiverse and the database in general is that we can export however we want. And that's pretty important. OK, so one thing, one thing that it does is it exports make files. Now a part of that also is there are fields beyond the records of the card. There are also fields where we can leave descriptions. For example, there's an art description area, there's a card concept area.</v>
+
+00:10:14.450 --> 00:10:29.860
+<v Speaker 1>So the difference real quickly what a card concept is, is what is this card supposed to be representing? What is the flavor of what this card is. So the card concept gets written 1st and then the card concept gets turned into an art description by the by usually the art director.</v>
+
+00:10:31.350 --> 00:11:01.560
+<v Speaker 1>So the idea is the card concept sort of says, what is it? And then the art description says, well, how do how do we want it to look? And so a lot of times those overlap a lot. Sometimes they don't. Sometimes there's a very particular need for the look of the card. Usually the way it works, though, is we have, we are artists are all freelance. And so we have an awesome artist. And so we try to give as much creative freedom to the artist as we can. You know, we have to make sure that they're covering what we need to do. And one of the things I talked about this when Matt and I had</v>
+
+00:11:01.640 --> 00:11:31.860
+<v Speaker 1>the world development thing is there's a little Bible, that world Bible for each world that shows what what characters look like and what creatures there are and what they dress like and what weapons look like and different landscapes. And, you know, so that there's something to work off for, for the artist to model off of anyway. So there's that information that goes on multiverse. And one of the cool things about multiverse is so the artists usually during development, we have that we've started our wave where the artist, it goes in two waves normally. And what happens is</v>
+
+00:11:31.960 --> 00:12:02.740
+<v Speaker 1>we tell the artists get the description and then they do a sketch and send it in. And then the creative team, especially the art director, looks at the sketch, makes any notes they need to make notes could be artistically notes could be just creatively like, oh, you've misrepresented something or you know, you, you chose them from the style guide. But those two things don't actually go together. That's from this group and that's from the other group. Anyway, they take notes and then they will get back the finished art. And whenever stuff comes in, it gets scanned and then it goes into multiverse.</v>
+
+00:12:02.830 --> 00:12:15.890
+<v Speaker 1>So if you're looking at the file and the sketch is in, you'll be able to see the sketch. If the finals in, you'll get busy the final. And so one of the fun things is just sort of as you go through multiverse, you'll slowly see the cards evolved. That's pretty cool. OK,</v>
+
+00:12:17.320 --> 00:12:47.800
+<v Speaker 1>Another really important field is what we call the dev comments field, which I believe is short for developer comments. It's used actually by design and development and creative too at times, although creative has some of their own places to make notes. But anyway, what a dev comment is, is you put your name, your initials and your the date and you make a comment. So initials are important so you know who it is. Also, one of the funniest things is they're just initials. So sometimes somebody knew like you see initials you haven't seen before.</v>
+
+00:12:48.160 --> 00:13:17.460
+<v Speaker 1>Who is that? And usually it's one of the newer people like ohh, yeah, it's, it's of that person. And one of the interesting things is if two people have the same initial, the person who comes second usually needs to use a middle initial. Sometimes both of them will use a middle initial. But like one of the problems we have is like Mark Globus and Mark Gottlieb are both MG and both Mark, both Mark G. So each of them uses their middle initial so that you can tell who they are. And so, but anyway,</v>
+
+00:13:17.880 --> 00:13:47.870
+<v Speaker 1>you Mark who said it, you know the comments from and, and by the way, anybody's allowed to make comments on any card. If you have access to multiverse, and there's many people that do even beyond just R&amp;D, if you have access to the multiverse and you have a comment, you can make a comment. Now that doesn't mean that the, the lead of the set, depending on the design development is going to act on that comment, but they will listen to that comment. You know, anybody is free to say, hey, here's how I feel now. Just because someone feels that way doesn't mean that the lead is necessarily</v>
+
+00:13:47.940 --> 00:14:18.080
+<v Speaker 1>needs to change it, but it's good to hear it. And if enough people say the same thing, usually that's a strong message that something to think about. Also, as I talked about in my feedback podcast, that while people don't necessarily solve problems all that well only because they don't know the parameters of the problem, they do identify problems as well. So a lot of times someone who makes a comment, while they might offer a solution that isn't the solution that will work, they often will point out a problem that you have to address anyway. The reason it's dated is remember, CWO one, for example,</v>
+
+00:14:18.150 --> 00:14:48.530
+<v Speaker 1>represents common white OHH in the way we tend to do our files is we tend to put them in order. Creatures come first from Lois converted man across the highest, cost, then spells from lowest current cost to highest converted mana cost. And the idea is to be very orderly to help people in the look of the file to sort of see where things are at. We do a lot of what we call curving to make sure that there's an equal number, not equal number, but a nice mix of different casting costs. So make sure that when you're building your deck or drafting that you can, you can create a curve for yourself.</v>
+
+00:14:50.570 --> 00:15:08.590
+<v Speaker 1>And what that means is that what is in the CW1O slider more? I mean, CW one will always tend to be a one drop small creature. But let's say we take CWO seven. That could change over time, partly because the car gets killed and gets replaced or we just a new car gets put in a little more</v>
+
+00:15:09.490 --> 00:15:39.920
+<v Speaker 1>cheaper. And so he could you know what, what's the W7 gets bumped up to CWA Things move around a lot. And one of the neat facets of multiverses is thing called card history. So you can always go in any slot and look at what was there and see how things got changed. So lifetimes we read articles about how cards evolved over time. We'll go look at the card history to see exactly who and you see who made the changes so you can figure out when to get made. Ohh, OK, that's the designer that must have been during design. Oh, that's the developer. OK, that change must happen during development. It's also dated and stuff if you happen to know</v>
+
+00:15:40.010 --> 00:15:42.760
+<v Speaker 1>when things happen. But anyway,</v>
+
+00:15:43.950 --> 00:15:44.370
+<v Speaker 1>umm,</v>
+
+00:15:45.100 --> 00:16:15.710
+<v Speaker 1>we mark it and then there's what we call retired comments. So once a comments been addressed and usually gets moved to retire comment just so you can see what the active comments are on the retired comments. The other thing to remember is because things can change. And here's one reason you have retired comments is I might say something, for example, in the dev comments and then the car gets changed. And then if you don't understand the my note isn't for the card that's on file. It sometimes to go Mark doesn't like this car. Why did Mark like this car? And the answer is no, I like that card. I don't have the card before it. Probably the reason you change it might be I didn't like it. That's why, you know,</v>
+
+00:16:15.810 --> 00:16:46.580
+<v Speaker 1>and so it's important to retire things so people understand the comments that go there. Normally we print up a card file for R&amp;D. There's a couple different versions of the card file you can default to, and one of them is uses. Dev comments are listed with it. So a lot of times in meetings when you're looking at cards, you want to see the dev comments. You see what people are saying. Now, Sam, for example, in his latest development, often does a column, It's one of his recurrent columns where he looks at comments, talks about what people were saying, what they meant by them.</v>
+
+00:16:46.690 --> 00:17:17.990
+<v Speaker 1>One of the fun things, by the way, is dev comments. While a lot of what we're doing this is very serious, we also screw around a bit. And so there's a lot of jokes and things that go in there. You see some of that in Sam's column. And sometimes the point we're making is a serious point, but we will be whimsical and how we make the point. We also sometimes will just be silly. One of my favorite things to do is so the way multiverse works is you, you can put in your comments anywhere you want, but normally you put them in order. So one of the things that's fun to do sometimes</v>
+
+00:17:18.080 --> 00:17:22.940
+<v Speaker 1>is you go back and you go right before someone else's comment and you make a different comment that like</v>
+
+00:17:24.150 --> 00:17:32.000
+<v Speaker 1>it makes it puts their comment in a completely different light. Usually you do it very you make it obvious you're doing since our goal is not to actually confuse people, but</v>
+
+00:17:33.310 --> 00:18:03.670
+<v Speaker 1>you'll, you'll put a comment to like somebody might say, um, I think this card is boring. So you'll go back to the one before it and you'll go, this card is amazing. Only a only a crazy person would say this card is boring, you know, and then this card, this card anyway, still the things we do OK, so multiverse. OK, it, it keeps track of the cards. It allows you to make files. Another thing it does is be aware that the car does have a long process.</v>
+
+00:18:03.740 --> 00:18:14.420
+<v Speaker 1>We always talk about design development, but we're just the beginning. After Rosa goes through editing, then it goes to the caps. You know, there's layout and there's prepping the cards and there's a lot of things that happen.</v>
+
+00:18:15.360 --> 00:18:45.240
+<v Speaker 1>Even just getting the, once the art gets in, it gets scanned and it gets like color balance and adjusted. And there's a whole process to turning art from the art into something that's usable on the card. And then there's laying the cards out and fixing things and there's more editing and there's a lot that goes on. And so Multiverse does a really good job of tracking everything that happens there. Another thing the Multiverse does, which is really important is you can export it to make stickers. So let's talk about stickers and other very important tool of R&amp;D. So we play tests.</v>
+
+00:18:45.300 --> 00:18:59.620
+<v Speaker 1>When we play test, we need to play with the cards, but the cards don't exist yet. So how do we do that? So the trick we use is in fact, when I first got there 20 years ago, the way it worked is that I</v>
+
+00:19:00.790 --> 00:19:30.730
+<v Speaker 1>that we used to print on cardboard. So for example, I have some mirage cards on my desk, I think, and they're on green card. Like like, like if you went to a copy center and got like a thick, a thick stock paper, you know, cardboard paper, we printed on that and then we cut it out. And so we just, we're playing with little pieces of cardboard. And then eventually somebody came up the idea that the stickers that you put on an envelope kind of like on like 8 a half by 11 envelope that if you put</v>
+
+00:19:30.810 --> 00:20:01.890
+<v Speaker 1>turn the sideways, they fit on a car just right. So there, there was a little bit on of the car picked on each side, so you can see the color and he chopped on top and bottom and it fit the card real well. And so we started putting cards on stickers. And then that has changed over time. The evolution of that has changed dramatically. In fact, we now have the ability for presentations outside of R&amp;D because let me explain something. R&amp;D, we one of the things that's disorienting when you first come to work in R&amp;D is all, almost all of our play tests.</v>
+
+00:20:01.960 --> 00:20:06.050
+<v Speaker 1>Are with stickers because the cars don't exist yet and so</v>
+
+00:20:07.310 --> 00:20:38.060
+<v Speaker 1>we get used to that and it's disorienting. I mean, one thing, for example, is when I actually played real Magic cards, it is like a luxury like I don't normally get pictures and flavor texts and I love like real magic. I mean you guys get a ticket for granted because that's all you know that's all you play with. But I, I don't get to play with them. I'm playing with my sticker cards. And so it is such a luxury when I get to play with heart. So one of the things we've learned is that when you're you're demoing your things outside of your design group, meaning you're going to people who aren't used to seeing sticker cards all the time. We want them to look pretty,</v>
+
+00:20:38.150 --> 00:21:09.410
+<v Speaker 1>to look more like normal Magic cards, because it just psychologically is really important that you just want people to think better of of what you're doing. This is true for any design, by the way, that when you're working internally with people that are used to what you're doing, it's fine to mock things up. And it can be pretty rough once you want to take your thing out and get feedback from the outside of design. This includes play testing. You want, if you can, to make it a little bit nicer, because the presentation will hugely impact the impression that you get</v>
+
+00:21:09.850 --> 00:21:18.850
+<v Speaker 1>that if you do a set and it just looks sloppy, your game looks sloppy. Some of the comments back will be ohh, just didn't seem real professional, you know, or and even the same things that</v>
+
+00:21:19.570 --> 00:21:49.620
+<v Speaker 1>they're like, ohh, the game didn't seem professional when what they mean is a lot of the trappings didn't seem professional. It is important. So one of things we've learned to do is we've managed to adapt our system. So when we want to, we don't do this all the time. We can print stickers and in color. So they look just like a finished magic card now. I mean they're on stickers, obviously not a finished magic card, but it looks much, much better than our normal sticker thing. Another thing that sticker has been able to do is you can now development, especially for future future.</v>
+
+00:21:49.690 --> 00:22:19.730
+<v Speaker 1>I think that's the league where we play ahead of time so we can determine what futures, what the future standard is going to be like. So we can fix things. But anyway, they can now put their deck into multiverse and then multiversal spit out their deck and they'll print just their deck. Because for a long while we had a we had something called black magic cards. They're like magic back with blank on the front. And we use those for play testing. And it used to be when you did play testing, you had a proxy up all your cards on on blank magic cards. And so people with shorthand it just because there's a lot to write.</v>
+
+00:22:19.830 --> 00:22:51.100
+<v Speaker 1>And like the classic example was one guy, the card just says 3IN red. And the answer was that was lightning bolt. Get it? It's a red car that does 3 damage. But if you didn't know that and you drew the car like what's red 3 mean? You know, And that it's like, well, I know it's a lightning bolt, They know it costs one. I know it's an instant just all the things that maybe you need to know that the person made the car just knows it. And it became hard for other people to play tests like if I made a deck and proxy things up and I shorthanded and I gave it to you, like, OK, explain to me what all these things are. I just became hard to play this other people's decks. So the new stickers make that much easier.</v>
+
+00:22:53.280 --> 00:23:20.210
+<v Speaker 1>And it's funny, like I said, the, the, a lot of the evolutions in our design is just finding ways on the stickers to just get more information on the stickers. And one of the tricky things is sometimes you'll do a set like I remember when I did in Austrade, well, Innistrad had double faced cards and I'm like, how do I do double faced cards? So like I just stickered one on the front, I stickered one in the back and I'm like, you know, and we had to play, we played in sleeves and like, you know, that's just like, how do you do that? It's interesting to learn,</v>
+
+00:23:20.890 --> 00:23:21.590
+<v Speaker 1>OK,</v>
+
+00:23:23.460 --> 00:23:49.880
+<v Speaker 1>anything else from multiverse. I think like I said, multiverse is a very important tool because there's so many moving pieces, but not the only tool. So another really important tool that we use in R&amp;D is known as the R&amp;D wiki. So what happened was Mark Lobis, who came in tied for the 4th in the 1st grade designer search, originally got a job at Wizards doing more digital stuff, but then eventually got over to R&amp;D. And Mark is</v>
+
+00:23:50.880 --> 00:24:20.720
+<v Speaker 1>Mark for long time was the producer and magic and he does a lot of organizing and he looked around and said, you know what, we have all this information, but it's scattered to the five wins. How's anybody supposed to find anything? She said, you know what, there's a tool to consolidate information. It's called the wiki. Let's make a wiki. So Mark put together the R&amp;D wiki and now it is one of the most important tools we have. So wiki does a whole bunch of things. It keeps track of things, most meaning you have notes and so the notes</v>
+
+00:24:20.820 --> 00:24:29.440
+<v Speaker 1>go there. When new things are happening in a different design and development, the designer developer will put comments there.</v>
+
+00:24:30.750 --> 00:25:00.750
+<v Speaker 1>We do presentations once a month or about once a month to Bill where we have to write up, write up sort of where our set is at the time. Those write ups go on to the wiki. Also when new people come, it's pretty disorienting when you first get there. There's like when you first get to to R&amp;D, first of all, there's a gap because what you know, printed cards versus what we're working on, there's about a two year gap. So first thing you have to do is you have to figure out all the cards that you didn't actually ever see and get up to speed. And then</v>
+
+00:25:00.860 --> 00:25:30.610
+<v Speaker 1>we have a lot of documents on the wiki that explain basic things so that you can read. In fact, the first month in R&amp;D, I, I said most of the time is reading. I'm just trying to absorb the a huge amount of information because there's a lot of things that are and kind of just does that's known and just kind of have to slowly absorb all this information of how Rd. functions. And a lot of it's written down lots in the wiki. Another important thing for the wiki is when we have issues to discuss that are a little bit more that aren't about a specific card.</v>
+
+00:25:30.950 --> 00:26:01.850
+<v Speaker 1>Are you specific car tend to go on multiverse. But let's say you have a larger issue. You know, there's an issue about how creative is done or there's there's a larger scope issue. The wikis where those conversations can happen that somebody can write a document about something and then people can respond how they feel about it and you get questions. I know creative does this a lot. We're creative, for example, Well, say, OK, here's the next part of the story. Here's where we think we're going. And then there be some feedback where people can go, Oh, I didn't know that. Or how about this? Or ask questions. Or, you know, maybe be slightly better</v>
+
+00:26:01.920 --> 00:26:10.460
+<v Speaker 1>if he makes suggestions. So anyway, the wiki, the wiki is. Most of the wiki is done for holding information, organizing information,</v>
+
+00:26:13.010 --> 00:26:13.910
+<v Speaker 1>the</v>
+
+00:26:15.220 --> 00:26:31.130
+<v Speaker 1>the one I mean, the wiki essentially is a tool that people can use however they they feel need to use it. Ohh. Another common use of the wiki is every time we do a draft, there's notes and people go right there. Notes and how the draft went. So people can go back and look at the draft and there's a record sort of how the drafts went.</v>
+
+00:26:32.520 --> 00:27:03.640
+<v Speaker 1>Anyway, wiki is used to record the information. It's another important tool. OK, what else? I'm not that far from work, so I gotta gotta speed through the rest of my list here. Another really important, obviously we use our computers. We are our computer oriented company and that's very important. We wanna make sure that, I mean, we're digital, we work with words. And so there's a lot of, I mean, for example, when the computers go down, when the network goes down, especially when multiple goes down, that can just shut down our need for a little bit because we need to have that access.</v>
+
+00:27:04.020 --> 00:27:35.490
+<v Speaker 1>A lot of people have laptops. One of the things about our meeting rooms is most of our meeting rooms have monitors now. And so when we go to the meeting room, often somebody will put up their laptop and connect to it. If it's a meeting where we're talking about cards, we'll have access to the database so we can look up different cards. Sometimes we're as we're going over card sets with the card sets themselves will go up on the screen. Sometimes people are play testing Magic online or does the planes walkers or different things we're in meeting. They need to actually go through demos and look at them or look at screenshots or something.</v>
+
+00:27:36.540 --> 00:28:05.610
+<v Speaker 1>Also another very important part I would say besides laptops is also tablets and phones. There's a lot, I mean, R&amp;D very much, I mean, no surprise, surprise. We're a technical minded group. I mean, magic tends to be that that that's a big, big part of our audience is very technically minded group. And so we try as much as possible. In fact, my one of my most important tools actually is my phone because I'm one of my jobs.</v>
+
+00:28:05.680 --> 00:28:08.800
+<v Speaker 1>A spokesperson is I need to stay in touch on social media</v>
+
+00:28:10.250 --> 00:28:39.760
+<v Speaker 1>and for example, if I go to a meeting and I'm just a few minutes early, I'm on my phone on my blog most of the time just answering questions or checking on Twitter and seeing what the latest things going on and we didn't read it or I'm trying to make sure that I'm one of the things that we pride ourselves in Wizards in our new specifically is a strong interface with the public. And part of doing that is just constantly keeping up with what people are saying and what is going on. And so another very important tool is just access to that.</v>
+
+00:28:40.540 --> 00:28:55.380
+<v Speaker 1>I know there's some members who who a lot of people don't indeed carry around some means to keep notes of records to do. Aaron has a book like Globus has a iPad. Different people have different tools, but there's definitely a lot of record keeping that goes on.</v>
+
+00:28:57.010 --> 00:29:27.430
+<v Speaker 1>So one of the things that you have to realize is I'm, I'm in design. So design in some ways we have the least interaction. I have to interact with design. I'm design, have to interact with creative, I have to interact with development. But other than that, there's not a lot of other sections of the company that I interact with during the design process because it's so early. But someone like development has tons and tons of people. They're interfacing with brand, they're interfacing with digital, they're interfacing with organized play, they're still interfacing with</v>
+
+00:29:27.500 --> 00:29:57.960
+<v Speaker 1>creative. And there's just all these moving pieces. And that one of the things about keeping track of all the moving pieces is having the, the tools to keep, to keep track of it all. We have a program, for example, that that looks at dates. I forget the name of it. And whenever you have a date, it's emails you to let you know that you have a date coming up. Now I, my only real data is a handoff, a file. So I have like 1 date. I've just like, here's my hand off to get my hand off to development. But development will have 304050I mean there's lots of different things going on.</v>
+
+00:29:58.060 --> 00:30:14.100
+<v Speaker 1>There's lots of deadlines and things like there's very few deadlines that happened before design. In fact, the only deadline design has is designs over. That's I mean, maybe divine starts, you know, then divine slash design is over. So we don't have a lot of dates, but a lot of people have a lot more. And so there's a lot of stuff to track all of that.</v>
+
+00:30:15.550 --> 00:30:45.730
+<v Speaker 1>And one of the things my little caveat I'll say to people is I remember when I was in 9th grade, I had a math teacher who gave a little speech one day and said that math is important. Pay attention, you're going to need math. And I scoffed. I said, I'm going to be writer. I need to know page numbers and count my salary. And I don't need to know, I don't need to know a lot of math. And then after I was working at Wizards, I went back home and I, I stopped by school. I was giving a speech, I think to one of the classes. And anyway, I saw my math teacher from my 9th grade math teacher and I said</v>
+
+00:30:45.810 --> 00:30:49.240
+<v Speaker 1>and I said I go, you were right. You were right,</v>
+
+00:30:50.560 --> 00:30:51.770
+<v Speaker 1>I need a lot of math.</v>
+
+00:30:53.240 --> 00:31:23.270
+<v Speaker 1>And the other thing is funny is, like I said, in college, I studied communications and it's amazing how much I use my communications training because you know what, there's a lot of communications to what I do as well. And all that requires A tremendous amount of technology. I mean, I even get into it. We use word processing to process cards and their development uses spreadsheets because there's a lot of math and a lot of grading things and rating things and having to look at things against each other. So there is a huge amount of tools that get used</v>
+
+00:31:23.340 --> 00:31:23.780
+<v Speaker 1>there.</v>
+
+00:31:25.070 --> 00:31:55.770
+<v Speaker 1>I mean, like I said, I, I feel like I, I dip my toe in, I, I hit the major ones. I, I think the two most important are are is the database and our wiki. But then there's lots of other tools that get used, lots of programs and obviously a lot of the people are on magic online all the time. That's really important to sort of watch what's happening. And there's a lot of data collected. I didn't even get into market research. I mean, there's a huge amount of technology that already uses to do its job. And so today is just getting a little peek of some of the things that we do to give you some idea. But anyway,</v>
+
+00:31:56.100 --> 00:32:12.620
+<v Speaker 1>I'm happy that they say third times the charm. So this this is the podcast I will use. But now I'm in my parking space, so we know what that means. It means it's time to end my drive to work. So instead of talking magic, it's time for me to be making magic. See you guys next time.</v>
+

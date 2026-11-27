@@ -1,0 +1,395 @@
+WEBVTT
+
+00:00:01.040 --> 00:00:20.570
+<v Speaker 1>I'm pulling my driveway. We all know what that means. It's time to run, to drive, to work. OK, so today is another in my series 20 lessons or 2020 podcast. That's correct. Where is based on my GD speech from 2006, GDC speech from 2016. I'm speaking well. Today</v>
+
+00:00:21.970 --> 00:00:33.240
+<v Speaker 1>I talked about 20 lessons I learned during my 20 years of making magic. So we're up to lesson #13 which is make the fun part. Also the correct strategy to win.</v>
+
+00:00:34.060 --> 00:01:03.950
+<v Speaker 1>OK, so I always start by talking about an example from Magic. OK, so there was a product called Unhinged. So I made a product back in 1996 called Unglued that was a silver bordered product that was kind of a fun. The idea of the onsets are they break the rules and they are silver border means they're not legal for tournaments, but allows me to just do crazy things and, you know, make cards that we can't normally make in black border. In fact, that's one of the rules about silver border cards.</v>
+
+00:01:04.390 --> 00:01:15.920
+<v Speaker 1>I only make cards that we can't make in black border. It's not to waste, you know, save valuable black border space for for normal sets and then unset. Get it. Just do crazy things that we can't normally do.</v>
+
+00:01:16.930 --> 00:01:24.280
+<v Speaker 1>So, um, in unhinged, which was the second one Unglued with the first one, I had a mechanic called Gotcha.</v>
+
+00:01:25.030 --> 00:01:54.830
+<v Speaker 1>So gotcha the way it worked was, um, the cards had an effect on it and then they had a gotcha effect. When a gotcha effect was is if your opponent did a certain thing, certain action or set of certain thing, then you could say gotcha and you could get it back so you could replay it again. So for example, some of them were if you said certain words, you could say gotcha. If you said a number, Some of them were like if you touch the table or if you touch your face or if you</v>
+
+00:01:55.420 --> 00:02:18.160
+<v Speaker 1>flick your cards or if you laugh, if you laugh, if you laugh, you're putting a gotcha and get the card back. OK, Now remember, the point of this product was to have fun. It's a goofy, fun product. The whole point of the sunsets is like, hey, Magic can be fun. Look at this fun, goofy cards. They do goofy things. And you know, there's all sorts of it's meant to be a fun, a fun set.</v>
+
+00:02:19.170 --> 00:02:49.530
+<v Speaker 1>But what I found was what was the correct strategy to not fall victim to the gotcha cards? Well, if you might say something and and get gotten, well, let's stop talking. And if actions make you do it, well, let's climb up and not do any actions. And like, heaven forbid you laugh, you know, like the gotcha card, the correct way to play it was to sort of withdraw from the game. And the whole point of the unset supposed to sort of make you laugh and make you have fun and make you interact.</v>
+
+00:02:49.600 --> 00:03:02.460
+<v Speaker 1>And I made a mechanic that the proper way to play the mechanic if your goal is just to win was to sort of withdraw from all of that. And So what I had done was I made a mechanic that kind of like</v>
+
+00:03:03.220 --> 00:03:10.590
+<v Speaker 1>specifically stopped what was the fun part of the game that the correct way to win was to avoid the part that was fun.</v>
+
+00:03:11.450 --> 00:03:21.900
+<v Speaker 1>And that was a huge mistake. I don't get, I don't get to make incense very often. So it pains me deeply that I actually messed one up by making mechanic that ended up being anti fun.</v>
+
+00:03:23.430 --> 00:03:37.190
+<v Speaker 1>So this is what I explained in my talk, which is there's a contract that happens, an unwritten contract obviously between the player of the game and the maker of the game. And this is what the contract is. The maker of the game says, hey,</v>
+
+00:03:37.830 --> 00:03:41.870
+<v Speaker 1>I'm going to give you a game. You play the game I give you and</v>
+
+00:03:42.820 --> 00:03:43.830
+<v Speaker 1>you'll have a good time.</v>
+
+00:03:45.090 --> 00:03:48.840
+<v Speaker 1>And so the players will do whatever the game instructs them to do.</v>
+
+00:03:49.520 --> 00:04:14.690
+<v Speaker 1>And when I say instructs them to do, I mean there's a goal to the game. I talked about this, that how every game has a goal and there's rules and people will figure out based on what the goal is and what the rules are, the most efficient way to get to the goal within the context of the rules. And the assumption will be, well, that that's what the game is telling me to do, like the game telling me to optimize the rules to get to the goal and that they'll do that. And</v>
+
+00:04:16.100 --> 00:04:46.550
+<v Speaker 1>if it's not fun, they will blame the game designer. And rightfully so, because it is not the players job to find the fun in your game. It is not like hide and seek where you hide the fun and they have to find it. And it is not the responsibility of the player to go that's not fun, I better look elsewhere in the game to find the fun thing. That's just not that's not responsible to the player. It's the responsibility of the game designer to put the fun where the player can't help but find it.</v>
+
+00:04:46.970 --> 00:05:17.020
+<v Speaker 1>So today we're going to talk all about how do I do that? How do I get the fun to where the fun needs to be? That's my topic of the day. OK, so multiple steps here so the first step is what I call finding the fun is one of the things that you, the playtest director do, and this has to do with the early part of play testing is you have to figure out what the fun part of your game is. What exactly about your game is fun and in the early process? In early play test, it's</v>
+
+00:05:17.090 --> 00:05:47.400
+<v Speaker 1>find to try a lot of different things. For example, in Magic, one of the things we do early in playtesting is we will try play tests where I just load up with all sorts of different things just to sample things because I'm trying to figure out what is the fun thing and that you don't really know what is fun until you play with the game. I talk about play testing all the time. Play testing is crucial. Play testing is especially crucial when the goal is to try to figure out</v>
+
+00:05:47.470 --> 00:06:18.210
+<v Speaker 1>what is fun about your game. Now there's 2 levels to play testing to figure out the fun one is you need to play test you and if you have a design team, design team need to play tests and figure out what makes you happy. Where are you finding it fine. Then once you think you found some fun, you want to bring in some other playtesters outside people, people that are emotionally connected to you and have them watch them to see if they find it fun. Like one of the things, and let me say this when I say fun,</v>
+
+00:06:18.370 --> 00:06:26.280
+<v Speaker 1>really what I mean is the emotional output you're looking to get to get from your audience. There are games that are more about</v>
+
+00:06:26.990 --> 00:06:48.760
+<v Speaker 1>evoking other emotions other than enjoyment. There are a lot of games that are sort of cathartic or, you know, they're games. So when I say fun, I really kind of mean the emotional outpouring you want. The majority of people want to create enjoyment for their game. So I'm going to use fun for today. But when I say fun, what do you? What I mean is whatever emotional output you're trying to get, you know you want to make sure that you have that.</v>
+
+00:06:49.700 --> 00:06:53.390
+<v Speaker 1>OK, So the first step is finding the font, figuring out what is fun about your game.</v>
+
+00:06:54.780 --> 00:06:58.790
+<v Speaker 1>And I will say this that there are a lot of things that</v>
+
+00:06:59.450 --> 00:07:29.800
+<v Speaker 1>might seem like fun, but the reason you have to play test it and the reason you're to play test a bunch is a is it fun at all? Is it actually fun night? Is it conceptually fun? Is it actually fun when you play? Is it fun in the context of the game? And two, how long is it fine? Like you, the reason you want to do a bunch of play tests is is it fun the first time you do it? You know, is it is the fun based on novelty and then with time it's less fun or no? Are you inherently doing something that is just fun to do and you can do it again and again?</v>
+
+00:07:31.220 --> 00:07:35.070
+<v Speaker 1>Your game is going to fail if there's no</v>
+
+00:07:36.120 --> 00:08:02.140
+<v Speaker 1>fun in it, you know, emotional response in it if you the goal. I mean, one of the biggest mistakes I see when people make games is they feel like if they follow all the trappings of a game, then they must be a game. Hey, I will take components I've seen in other games and put them together and I theme them or something like I've now made a game. No, maybe technically you made a game, but have you made a game that's gonna</v>
+
+00:08:03.440 --> 00:08:33.210
+<v Speaker 1>work as a game? You know that there's more to a game than having the trappings of a game. And the key component, the key thing that's important in sort of my big lesson today is look, your game has to have an emotional output, usually fun. Your game has to be something where players play the game and at the end of the game, say, you know what, either wow, that was a great experience or, or they always want to say that was a great experience. Often you want to say and I want to do that again.</v>
+
+00:08:33.420 --> 00:08:35.410
+<v Speaker 1>That was a great experience. I want to do that again.</v>
+
+00:08:36.100 --> 00:08:52.450
+<v Speaker 1>OK, so first thing you do find your fun. And like I said, there's a lot of play testing, there's a lot of analyzing, There's a lot that goes into finding the fun. Sometimes you will find the fun right away, Sometimes you start with fun and build around it. But the key is you want to find your fun.</v>
+
+00:08:53.180 --> 00:09:00.610
+<v Speaker 1>OK, the next thing is making sure that your fun thing once you discover your fun thing is the core to your game.</v>
+
+00:09:01.880 --> 00:09:02.360
+<v Speaker 1>Um,</v>
+
+00:09:03.040 --> 00:09:05.090
+<v Speaker 1>one of the things that I,</v>
+
+00:09:06.480 --> 00:09:08.930
+<v Speaker 1>you know, people love to,</v>
+
+00:09:10.160 --> 00:09:15.390
+<v Speaker 1>there's this false belief that the more I add, the better it is.</v>
+
+00:09:17.150 --> 00:09:33.940
+<v Speaker 1>And the reality is that's not true. That's not true in any art form. That's not true in like, let's, let's take cooking for example. It is not like I take a recipe and then just add in other things that somehow it gets better, even though the other things are things you like. It's like, if I'm going to make a pecan pie,</v>
+
+00:09:35.880 --> 00:10:01.680
+<v Speaker 1>I might not put other things in there that you know, might be enjoyable foods if they're not part of what makes pecan pie, pecan pie. You know that the key to to making something is understanding the core of what it is and then making sure that the core of what it is ties into where the fun is. Like one of the mistakes I'll see is somebody will make a game, have a fun component to the game, but then make the game about something that isn't inherently about what that fun part is,</v>
+
+00:10:02.470 --> 00:10:32.460
+<v Speaker 1>that your fun part needs to be a core identity to your game. So for example, I'll use Magic as my go to example. So Richard Garfield, creator of the game, one of the things that he was really excited about, the reason that he went to make a trading card game in the 1st place is he loved the idea of a game that was bigger than the box. Meaning most games when you buy the game, it's always the same pieces every time you play. It's the same thing. If I go to my friend Bobby's house and play same game, go to my friend Susie's house and play same game,</v>
+
+00:10:32.590 --> 00:11:02.930
+<v Speaker 1>no matter where you go, it's the same game with the same pieces. Poor Richard said is I'm going to buy the game and the components I have when I buy the game are not the same components you have when you buy the game because the components to the game are bigger than the box of any one person. And so part of the fun of the game is the exploration is you learning about other cards. Like you sit down against your opponent and they do something and you're like, oh, I've never seen that before. Let me see that car. What does that card do? That's kind of cool. Maybe I want to get that card</v>
+
+00:11:03.000 --> 00:11:25.540
+<v Speaker 1>and so Richard made sure that the very essence, the core of what the game was, which is the game of discovery was built into it. The very the essence of building your own deck and all the main components of what makes magic magic are Richard understanding the essence of what made it fun and there's magic has a bunch of fun parts to it, but</v>
+
+00:11:26.810 --> 00:11:45.610
+<v Speaker 1>he wanted to make sure that the the essence of what the game was matched. So you have to figure out what the core of your game is and cut things that aren't the core of your game. One of the things I find all the time, I talk about this a lot in when I talk about my writing. I used to writer. Obviously I'm still writer. I guess I used to</v>
+
+00:11:46.830 --> 00:11:58.090
+<v Speaker 1>before I was, I, I got this job, obviously I, I worked in the entertainment industry, TV writing for those and somehow don't know that. And one of the things you learn about writing is that</v>
+
+00:11:58.930 --> 00:12:26.430
+<v Speaker 1>there's two parts of writing. There's writing and there's rewriting. The writing part, the initial part is just come up with cool ideas. Just get it down on paper. And then the rerouting part is saying, OK, what is in service to my thing? You know, what part of my story is the important part of my story? Where is the fun of my story? Obviously now stories about fun, but where's the meat of my story? What's the essence? What makes my story a cool story? And this is at the center of what I do.</v>
+
+00:12:27.220 --> 00:12:57.250
+<v Speaker 1>That's in some ways game design to me is just a form of art where I want to do something. I want to have some message of some kind. I want the audience to feel something. I want to make sure that thing is front and center. And there's this desire in gaming that happens all the time where people overload, where they just put more and more things in the game, feeling like, oh, more is better, having more things is better. And while exploration is important, you want people to sort of discover things in your game. And I mean, there are definitely</v>
+
+00:12:57.320 --> 00:12:59.190
+<v Speaker 1>element you want, and I'm not saying you're game</v>
+
+00:12:59.930 --> 00:13:31.560
+<v Speaker 1>can't have any size or depth to it, it should, but the things that are in the game should serve a purpose and not just be there, not just be filler, not just fill out things. And one of the major reasons of that is if you're trying to get your audience to find the fun, the more you pack in your game, that is not the fun. The smaller percentage of your game the fun is, the harder the fun is to find. Don't mix the fun harder to find. You know you want the font, you want the majority of your game to be the fun. No, not everything in the game is the fun you have set up. There's things you need to do</v>
+
+00:13:31.650 --> 00:13:40.240
+<v Speaker 1>to make the game work. I'm not saying that everything your game has to be the fun, but the more things you put in your game that aren't the fun, the harder you make it to find the fun.</v>
+
+00:13:41.480 --> 00:14:12.470
+<v Speaker 1>OK #3 You need to set up expectations. So another way of making sure people sort of find the fun that you intend is making sure people understand the essence of what you're delivering. OK, so my example here, I'm going to dig back deep into my childhood, so I'm going to talk about a movie. I'm talking a little metaphor here. So it is late at night. I don't know. I'm in high school, I think, and it's like a Saturday or something and everyone's asleep in my house</v>
+
+00:14:12.560 --> 00:14:42.460
+<v Speaker 1>and I'm watching HBO or something, I assume some movie channel. And there's a movie that comes on like a teen sex comedy, which is big in the 80s back when I was a teenager. So it's called The Last American Virgin. That was the name of the film. So I'm like, okay, team comedy, OK, I'll stay up, I'll watch this. And the premise of the movie is there's a guy, I don't know the names of the characters, but the main character and he has two friends and he and his friends do stuff. And you know, I mean,</v>
+
+00:14:42.570 --> 00:15:13.000
+<v Speaker 1>that followed the Trump's of of the genre. And in the end, his one of his friends, one of his best friends, ends up getting together with this girl that he really likes. A very traditional source story, best friends dating my girl, the girl that I'm in love with him stuff. And then the best friend does something pretty horrible to the girl. They break up and our main character like spends all his time and energy and money helping the girl, helping him overcome this sort of horrible thing</v>
+
+00:15:13.070 --> 00:15:39.310
+<v Speaker 1>that the the best friend did and really helps her cope. And you start to see there's there's feelings between them. And then he spends like the rest of his money to buy her a gift, like a, I don't know, lock it with her name on or something. And the last theme, he comes in and he's going to give it to her and she's back with the boyfriend. And I remember I was so angry. I was so angry. And the reason I was so angry was that, look,</v>
+
+00:15:41.290 --> 00:16:10.280
+<v Speaker 1>I was presented with something. This was a team comedy. This was something like, it wasn't like I went in to see a drama where I'm like, OK, this is gonna be a movie, but bitter truths where it's going to be sad but real. And you're going, you know, like, was the ending of this movie realistic? Yeah, sadly, it was very realistic. But was it what I expected or what I wanted out of the movie? No. In fact, it violated the essence of what I wanted. And I probably have never been more mad at a movie and other movies have been mad at, but</v>
+
+00:16:10.410 --> 00:16:41.130
+<v Speaker 1>I feel like it gave me an expectation, set me up for something, and then when it didn't deliver the thing it set up, I was so upset. And the reason I bring this up, the reason I use this as a metaphor is that part of delivering the fun, part of making the audience find the fun, is you telegraphing what the fun is. You setting up expectations, you setting up the perception that your game is going to have a tone to it and your game is going to feel to it. And the essence of what your game</v>
+
+00:16:41.200 --> 00:17:11.200
+<v Speaker 1>is, how your game is fun is going to match up with like you want to make sure that the tone of your game, the essence of your game, the creative elements of your game, the the things that are going to sort of give an idea to your audience what you expect is making them expect the right thing. Now, I'm never saying I'm not saying there's never a place to surprise people. I think there is a place for that, but not in false expectations. You have to be careful there, that part of</v>
+
+00:17:11.270 --> 00:17:20.180
+<v Speaker 1>sort of providing the fun for the audience is making sure that they sort of are prepped for what it is. And a lot of your early game, a lot of your</v>
+
+00:17:21.020 --> 00:17:51.660
+<v Speaker 1>prepped to fun is that you want to make sure that you're leading in the correct direction so that when they get to the fun, it's what they it's what they expect and what they want. Because I will tell you that if you do the wrong kind of thing, if you create expectations that don't match what you're going to deliver, even though you deliver is cool, it's not going to get the response you want. And so none of the important part here is you need to understand of, OK, I have my fun. I need to now set up</v>
+
+00:17:51.730 --> 00:17:55.830
+<v Speaker 1>by game so that my audience is prepared for the kind of fun I'm going to give them</v>
+
+00:17:56.490 --> 00:17:59.560
+<v Speaker 1>That you want to match. You want your</v>
+
+00:18:00.340 --> 00:18:05.470
+<v Speaker 1>everything about your game to work toward what your game is about and where the fun is.</v>
+
+00:18:06.160 --> 00:18:36.410
+<v Speaker 1>OK, next thing #4 don't take too long to get to the fun. Um, another big mistake I see in amateur game designers is they make a game where like 20 minutes in, there's the fun and like 20 minutes in, what are you doing? Like you can't make people wait too long for the fine. For starters, some people will quit the game. Like if you play again, there's only so long someone plays the game. That's not fun where they go, OK, you know, you can't wait too long for the payoff.</v>
+
+00:18:36.480 --> 00:18:54.870
+<v Speaker 1>Now that that's not saying, I mean, first of all, it's not like your game has just one kind of fun. It could have multiple bits of fun. But it's important that what that some fun is happens relatively quickly that you want. I mean, ideally in a game you want them to hit some component of fun</v>
+
+00:18:55.490 --> 00:19:25.260
+<v Speaker 1>in the first minute or two, like right away, very early on. Now I'm not saying once again, when I say fun, I'm not saying that it has to be 1 unified thing of fun. For example, with Magic, I think the idea of exploring is a lot of fun. I think like just looking at the cards is a lot of fun. I think there's a lot of neat game interactions and card interactions. You know, there's a lot of things about Magic that is very fun. The flavor is very fun. There's a lot of fun things, but some of it you get to right away,</v>
+
+00:19:25.450 --> 00:19:48.970
+<v Speaker 1>like when you draw your hand like your car just look amazing and look really cool and you get to interact with that right away and you know it's set U so that the the interaction with the opponent does not take long to happen. You want to get to your fund. Do not beat around the Bush. Do not lollygag, if you will, you know, figure out what's fun about your game and make sure some of that is imbued really early.</v>
+
+00:19:50.630 --> 00:20:00.120
+<v Speaker 1>For example, I'll use my metaphor here from the screen writing. I spent a lot of time, I took a lot of screen writing classes, and one of the things they actually spent a lot of time on is the opening scene.</v>
+
+00:20:01.190 --> 00:20:30.460
+<v Speaker 1>Which is, you know, and the same is kind of for your opening paragraph in a book like, OK, I'm starting my story, I'm setting it U well, I need to do a lot of things in that opening scene. 1 is I need to introduce usually the main character, usually, not always, but usually I need to introduce the world usually. And I need to introduce what about the story is going to be fun. Why do I want to stick with it? And then Hollywood, one of the things is they have are called readers. So if I write a script,</v>
+
+00:20:31.060 --> 00:20:41.260
+<v Speaker 1>the executive who's going to green light it is not going to read it right away because there's so many scripts. So what's going to happen is there's going to be a bunch of people who read scripts and there's going to be</v>
+
+00:20:41.960 --> 00:21:01.270
+<v Speaker 1>first you're going to be read by a generic reader. And then if that you're good enough, you get passed along to maybe one of the, you know, the people who work there who sort of go through scripts. And like you're going to go through a series of readers before you're good enough that you're going to get recommended to be read by the people that start to matter.</v>
+
+00:21:02.710 --> 00:21:33.220
+<v Speaker 1>And one of the things about the readers is they stopped reading your script as soon as they're they're sure it's not good enough. If that's page 2, they'll stop on page 2. I mean, normally they probably give you 10 pages or so. And that's why the opening is so, so important. Also, it's just to sell your script is you need to grab the lapels of your reader of the reader right away, just like you need to grab the lapels of your audience, like you want to get them invested quickly. And games are no different than whatever, whatever your fun is. Can't do it really fast.</v>
+
+00:21:33.510 --> 00:22:02.790
+<v Speaker 1>You know that if you make people take too long, they will give up. Or just they, you know, there's a point at which your audience is like, their expectations turn. Like, remember, when your audience starts playing, they expect to have a good time. They wouldn't be playing your game if they didn't expect to have a good time. If they thought it wouldn't be fun, they wouldn't be playing your game. OK, most the time. Sometimes you're driving games, I guess. And so they come in with a positive experience. They want to enjoy the game,</v>
+
+00:22:03.650 --> 00:22:34.040
+<v Speaker 1>but there's a point at which they start having enough negative experiences that that expectation turns. And then they go from being someone who's easy to please to be someone that's harder to please. Because once they sort of deemed the game not something they're enjoying, it becomes a lot harder to make them enjoy it. So do not doddle with your fun. Get your fun right away. OK #5 you want to make use of your goals and your rules. So I talked about 10 things. Every game needs a bunch of podcasts on this. So number one was your goal and #2 was your rules.</v>
+
+00:22:34.310 --> 00:22:58.300
+<v Speaker 1>So the goal tells the audience what I need to do. It is it is the bullseye that guides them. It is like, OK, I now have a direction. I know what I'm trying to do. It's really important #2 you give them rules to define what they are and aren't allowed to do. And a lot of what game playing is, is kind of using your mental capacity to figure out how through the context of these rules, can I achieve that goal.</v>
+
+00:22:59.010 --> 00:23:29.590
+<v Speaker 1>So be aware that your goal and your rules, you have to keep your fun in mind. That one of the idea is you want to make your player do the thing because the thing that's going to encourage them in the game, the thing that's going to define what they do and how they act is going to be a combination of them working towards your goal through your rules. So you need to make sure that your goal and your rules are aligned with what the fun of your game is like. Don't make the fun of the game tangental,</v>
+
+00:23:29.770 --> 00:23:43.130
+<v Speaker 1>because what's going to happen is your audience is going to aim toward the goal through the context of the rules and whatever that makes them do, they're going to do like one of the things. And then this is the gotcha mistake is when we were playing,</v>
+
+00:23:44.550 --> 00:24:14.820
+<v Speaker 1>they were trying to have fun. So what we did is we didn't shut up. We didn't try not to laugh. We didn't like we didn't like what we did is what? Well, comes out, you know, I'll try to be conscious when it comes out, but I'm just going to talk. But when you play a card that says I can't say anything extra thing, why? I'm just going to be careful not to say things something why? But as soon as I brought in a plate after there's a guy named Rob who I brought in, who he said, OK, well, the correct way to do this is just not saying anything. And he said, well, why should I just shut up? And I remember</v>
+
+00:24:14.890 --> 00:24:31.520
+<v Speaker 1>by the time I said, ohh, well, come on, it's fun, you know, that's, that's not the spirit of the game. And Robin giving me excellent, excellent feedback, which I did not listen to, sadly, which was you have to think about how your audience is going to maximize what you've given them.</v>
+
+00:24:32.200 --> 00:24:46.710
+<v Speaker 1>Once again, they will do what the game tells them to do, even if that thing is not a fun thing. They will actually have an unfun time. Even when fun is nearby. They will not necessarily seek out the fun,</v>
+
+00:24:48.500 --> 00:25:13.250
+<v Speaker 1>for example, like I'm one of the people that when I play games, I'm willing to bend the rules and change the rules that if I play a game, I mean, normally I'll play the game under the rules the first time usually, But if I start to realize the rules aren't doing the right thing, I'll change the rules. But most people won't do that. I'm also a game designer. Most people are not willing to change the rules that you told them something and that's it. That's what this game is. And so you need to be very careful in that.</v>
+
+00:25:14.350 --> 00:25:27.910
+<v Speaker 1>Be conscious of what your goal and what your rules. What is the best way to do that? And you want to bring play testers in who say to them, OK, try to win. Here's the goal, here's the rules.</v>
+
+00:25:28.710 --> 00:25:49.280
+<v Speaker 1>And what you'll see is, I mean, really what game playing is on some level from a mental standpoint is you're putting in a straight jacket, you gotta get out. How do you get out? You know, I, I know what I'm trying to do. I know what I'm not allowed to do. Well, how do I do it? And anything that's not written down, anything that the rules do not prevent, hey, that's legal. I can do that.</v>
+
+00:25:50.410 --> 00:26:20.480
+<v Speaker 1>So the problem is you have the error tight in your rules and airtight in your goal because people will go sideways if it's not guiding in the right direction. And that's the big thing is when you're play testing and when you're building, make sure you keep in mind and be conscious of the fact that your goal and your rules are going to dictate the actions of your player. And make sure that those things are lined up with where the fun of the game is. And if that means changing your goal, if that means changing your</v>
+
+00:26:20.550 --> 00:26:38.820
+<v Speaker 1>rules, that you gotta do that. The goal is not locked down in stone. Your rules are not locked down in stone. If you have a goal and set of rules, and what happens when people play that game is it isn't fun, Well, something's gotta change. And usually, usually, usually it's the goal of the rules. Usually,</v>
+
+00:26:40.040 --> 00:26:42.410
+<v Speaker 1>OK, number six,</v>
+
+00:26:43.120 --> 00:26:46.670
+<v Speaker 1>understand how long your game is fun and get out.</v>
+
+00:26:47.310 --> 00:26:55.300
+<v Speaker 1>So the other big thing is, though I said before that one of the ways to make a negative experience in your game is to take too long to get to the fun.</v>
+
+00:26:56.030 --> 00:27:21.830
+<v Speaker 1>Another way to make your game not fun in retrospect is to not get out of the game after the fun quick enough. So kind of what you want to do is get to the fun, have the fun part, maybe repeat the fun part, but then you do not want a long gap between the end of the fun and the end of your game. In fact, ideally, so one of the things I would say is you want your game to end before your audience wants it to end.</v>
+
+00:27:22.620 --> 00:27:33.490
+<v Speaker 1>And here's why that. Let's say my game, let's say the attention span of a player is 20 minutes. I'm just making that number up, but let's say it's 20 minutes. So</v>
+
+00:27:34.540 --> 00:27:52.540
+<v Speaker 1>if your game ends at 18 minutes and they're willing to play 20 minutes is like they left with still a little like they haven't quite satiated. Everything they wanted was like, oh, this was fun, but oh, it ended all it ended. I'm not, I'm still, I want to play more. I'm still excited that it ended before I got my fill.</v>
+
+00:27:53.160 --> 00:28:02.290
+<v Speaker 1>Now, let's say instead of 20 minutes ago, 22 minutes now I've ended and I'm ready and I'm full and all and done. And now the last two minutes I'm like, OK, when is this gonna end?</v>
+
+00:28:02.940 --> 00:28:22.360
+<v Speaker 1>So one version is me going who I don't want to end yet, I'm excited. And the other is when's it gonna end? Well, you want to quit when the audience is saying, you know, they're not ready for it to end yet. You want to quit before they're ready for it end. And the reason is one of the hardest things to do is get your planner to play a game of second time.</v>
+
+00:28:24.450 --> 00:28:54.310
+<v Speaker 1>So you want to get out while the audience is still excited and and still has positive feelings. And if you stay too long, the problem you run into is any fun you've provided starts getting tainted by what came after it. And this is a really important thing to remember is people always talk about first impressions. First impressions are really important. They have a lot of dictate on things. But there's also something called last impressions, which is if I do an activity</v>
+
+00:28:55.170 --> 00:29:03.940
+<v Speaker 1>at the end of it, I remember how the activity ended stronger than I remember the activity if the end of the activity was a negative experience.</v>
+
+00:29:04.720 --> 00:29:13.330
+<v Speaker 1>So for example, let's say I go to the beach and I have a wonderful day at the beach and I have lots of fun and the last thing I do before I leave, I step on a jellyfish.</v>
+
+00:29:14.170 --> 00:29:28.280
+<v Speaker 1>OK, did I have a good time in the beach? I did not. I stepped on a jellyfish. Now, even if I spent hours and hours and hours and hours of having fun, the fact that I ended by stepping on a jellyfish, it was the trip where I stepped on the jellyfish.</v>
+
+00:29:29.670 --> 00:29:43.640
+<v Speaker 1>And there's a similar sense with the games is you want to make sure that when you get to the end of your game that you want your audience enjoying themselves. And then you want them. You want to end it with them leaving more. You want to end them with a positive experience.</v>
+
+00:29:45.760 --> 00:29:52.860
+<v Speaker 1>So another thing about getting the fun is get to the fund as quick as you can. After the fun, make sure you don't spend too long</v>
+
+00:29:54.290 --> 00:29:56.920
+<v Speaker 1>and I know there's a lot of people that when they</v>
+
+00:29:57.640 --> 00:30:01.830
+<v Speaker 1>like. One of my themes today, hopefully you're picking up, is that</v>
+
+00:30:02.920 --> 00:30:16.520
+<v Speaker 1>as in any art form, there's a conservation you know, you want. You want to cut up things that aren't achieving what you're doing. You know, talking writing all the time. There's so much of writing is saying, is this advancing the plot?</v>
+
+00:30:17.200 --> 00:30:18.710
+<v Speaker 1>This is advanced in the character.</v>
+
+00:30:20.100 --> 00:30:27.330
+<v Speaker 1>That doesn't matter if in a vacuum is a good scene, if it's not serving large thing, it's not. Good games have the same sense to them, which is,</v>
+
+00:30:27.960 --> 00:30:32.330
+<v Speaker 1>you know, I I use servicing the greater good of your game, you know, like,</v>
+
+00:30:34.080 --> 00:30:38.750
+<v Speaker 1>and one of the things, like I said, that's the hardest to notice, but you'll see this in your game is</v>
+
+00:30:40.300 --> 00:30:41.070
+<v Speaker 1>don't</v>
+
+00:30:42.370 --> 00:31:13.290
+<v Speaker 1>that much fun today. Make sure that you have the kinds of fun you have. Go with one another. Another mistake you can make is say, OK, I have a game, I have a feel, I have a sense to it. And then I add in things, even fun things that are that are not consistent with that, that if I add in like, and this is the same example of adding an awesome scene that just doesn't make the movie work. Adding in a fun component</v>
+
+00:31:13.420 --> 00:31:34.750
+<v Speaker 1>is not consistent with the other fund components. That it's not part of the larger experience is distracting and in the big picture hurts your game. And I know they go wait, wait, but we're having fun. What does it matter? And the answer is it's not just about having fun. It's about being consistent in what you are. The thing to remember about your game. And this is true of any art form, but especially in your game,</v>
+
+00:31:36.650 --> 00:32:06.160
+<v Speaker 1>is you want it to be about something. You want your game to have an essence to it. Like you want your fun to be about something and that you want your players to feel like, oh, it has an identity. I get what it was. The reason you want an identity, the reason that's so important is A, if you're going to sell your game, having a clean identity is important. B word of mouth and getting your game to spread. One of the things I haven't talked too much about is the idea of how viral is your game. How easy is it for your game?</v>
+
+00:32:06.380 --> 00:32:10.250
+<v Speaker 1>How easy is it to make your game Players want to make more game players</v>
+
+00:32:10.950 --> 00:32:23.080
+<v Speaker 1>a really viral game. What happens is it's so catchy and it's so fun that people go, wow, I so enjoyed this. I need to share it with my friends because I want them to experience this.</v>
+
+00:32:23.670 --> 00:32:54.800
+<v Speaker 1>And then what happens is you turn your player and essentially into a salesman for your game, that if your game is something that really speaks to them, they'll share it with others. Because one of the things that people love to do is that people love to share things that mean something to them. So another reason that an identity is so important is not just so you can sell it to the first player, but so that that player can sell to other players. The key to successful games is, I mean, not that marketing isn't important,</v>
+
+00:32:54.900 --> 00:33:17.430
+<v Speaker 1>but the real key to successful games is not the marketing of your company does. It's the marketing your players do. It's the community they build. It's the websites they make. It's the you know that what you want is you want your player base to be so invested in your game and so excited about your game that they share it, that they expose other people to it.</v>
+
+00:33:18.650 --> 00:33:28.620
+<v Speaker 1>And the reason we say it's viral is if you're doing your job, if your game is really fun and catchy and cool, and you show it to one person and they show it to other people and start spreading,</v>
+
+00:33:29.280 --> 00:33:39.770
+<v Speaker 1>you know, especially if one person shows to three people who had showed to three people, you know, it grows exponentially. And in fact, early Magic, one of the things early Magic was</v>
+
+00:33:41.280 --> 00:33:55.760
+<v Speaker 1>Magic has that kind of growth spurt where it was growing so fast we couldn't print enough cards. Like we kept getting behind on printing because it would sell out so quickly because it was growing at such a rate that we outstripped our ability to make more cards.</v>
+
+00:33:56.480 --> 00:34:03.230
+<v Speaker 1>I I think I took Wizards like 2 years to finally catch up where they were putting it. They were able to print enough cards to actually match demand.</v>
+
+00:34:04.900 --> 00:34:27.950
+<v Speaker 1>OK, I'm almost to Rachel. So we're gonna wrap this up for today. So a lot of my point of today, a lot of, you know, make the fun part of the correct strategy to win is saying, look, understand the core essence of your game. What is your game about and why is somebody going to fall in love with it? And what are they going to experience from it? What is the fun</v>
+
+00:34:28.780 --> 00:34:32.530
+<v Speaker 1>and what that means is as I walk through, OK,</v>
+
+00:34:33.230 --> 00:34:48.560
+<v Speaker 1>you have to find the fund. So number one is find the fund. Make sure that they you know what it is. Do play testing, you know, figure out the early part of your play testing of your game design is finding what you have that's special. Figure that out, isolate it, figure it out</v>
+
+00:34:49.200 --> 00:35:05.840
+<v Speaker 1>#2 then make sure that they game you build is making that fun thing core to the experience. Make sure that what makes your game shine is at the center of the game. Not attend Gentle thing, not a sometimes thing, not an add-on that's core to your game experience</v>
+
+00:35:06.570 --> 00:35:07.670
+<v Speaker 1>#3</v>
+
+00:35:08.350 --> 00:35:15.760
+<v Speaker 1>understand what it is and and make sure you set up your expectations so your audience is getting the thing that they want to make sure that you are.</v>
+
+00:35:16.990 --> 00:35:23.910
+<v Speaker 1>You are setting yourselves up so that when the audience finally finds the fun thing that it that it's what they're expecting and what they want</v>
+
+00:35:24.620 --> 00:35:29.580
+<v Speaker 1>#4 do not take too long to get to the fun. Make sure that you get to the fund quickly,</v>
+
+00:35:30.380 --> 00:35:39.660
+<v Speaker 1>that people, you know, people only have so much patience and the faster you get there, the more engaging the game becomes and the more people get invested in it</v>
+
+00:35:41.070 --> 00:35:54.430
+<v Speaker 1>#5 Be aware that your goal and your rules are going to guide your passing of your player. That is what's going to dictate where your game, where in your game to go, OK. And so</v>
+
+00:35:55.230 --> 00:36:26.010
+<v Speaker 1>make sure you use them effectively. Make sure that that and play test this, make sure that find people and say to them, this is your goal and this is your rules. People that don't know any better, people that aren't you and see what they do. And then this important part, listen to them. Listen to what they say. Don't do what I did with gotcha. Listen to what they say. Number six is understand get to the fun, get in their have the fun, have fun happen and get out. One of the things that's most important</v>
+
+00:36:26.080 --> 00:36:26.310
+<v Speaker 1>because</v>
+
+00:36:27.100 --> 00:36:46.870
+<v Speaker 1>anything that's not the fun part of your game, that's not you know either. It's the fun part of the game. Oregon enables the fun part of the game, enables the game to function. If it's not doing one of those two things, you need to pull it out and make sure that you don't overstay your welcome. Get in, have fun, get out and that you are</v>
+
+00:36:48.160 --> 00:37:01.680
+<v Speaker 1>the player is the ultimate salesman ager game that the key to a successful game is becoming viral. And part of becoming viral is having a clean, clear message that you're conveying that people can convey to other people as they share the game.</v>
+
+00:37:02.540 --> 00:37:32.370
+<v Speaker 1>So if you do all these things that, my friends, is how you can make sure that the fun part is the correct strategy. It is not like I said, a lot of my lessons are the kind of thing that sounds real simple on the surface, but actually executing this top and while this is one of those lessons like DAW, OK, actually doing it requires a lot more work on your part. So the reason I spilled all these things out today was so that you understand that and you got what you need to do.</v>
+
+00:37:32.500 --> 00:37:43.360
+<v Speaker 1>But I think that if you are careful and you understand, you know, if you really spend the time and energy understanding what makes your game click, you'll be able to make it much better and much more fun.</v>
+
+00:37:44.120 --> 00:37:55.900
+<v Speaker 1>Anyway, I'm now at Rachel School, so we all know what that means. We means that's the end of my drive to work. So instead of making magic, it's time for me. Sorry, Instead of talking magic, it's time for me to be making magic. I'll see you guys next time.</v>
+

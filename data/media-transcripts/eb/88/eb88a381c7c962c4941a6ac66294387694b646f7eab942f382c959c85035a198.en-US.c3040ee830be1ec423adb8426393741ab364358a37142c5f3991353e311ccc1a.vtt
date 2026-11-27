@@ -1,0 +1,311 @@
+WEBVTT
+
+00:00:01.430 --> 00:00:30.620
+<v Speaker 1>I'm pulling in my driveway. We all know that means it's time for another drive to work. OK, so while ago I did a podcast not about Magic. I talked about the design of the Star Wars trading card game and it went over very well and people said please share other design stories of games other than Magic. So today is one such day. So there was another game that I was very involved in the creation of a trading card game known as Dual Masters.</v>
+
+00:00:30.850 --> 00:00:52.730
+<v Speaker 1>So today I'm going to walk you all through the design of Dual Master, sort of how it started, what it did, how we made it, and just give you a different vantage point. Today is full of design, but not magic design exactly. So anyway, let's get started. So we go back to 2000, not 2000, what Dual Master started 2002, but we actually go back to</v>
+
+00:00:54.360 --> 00:00:56.750
+<v Speaker 1>was it 97? I think</v>
+
+00:00:57.780 --> 00:01:28.440
+<v Speaker 1>either 96 or 97. So Magic would come out in 1993. And in Japan they were making Pokémon a video game for the Nintendo. And somebody there was a fan of Magic and they decided that along with the video game, it would be fun to make a trading card game to go along with Pokémon. And so they made it. And then they came to us because we the people have made Magic and that's what inspired it. And they asked us to distribute it in the United States,</v>
+
+00:01:28.520 --> 00:02:00.550
+<v Speaker 1>distributed in Japan, but we distributed the United States. And so for a couple of years, Wizards of the Coast was the distributor of Pokémon, the trading card game. I don't know, for those that are old enough, it was quite the phenomenon. Eventually they would start their own company here in the US that did the game, and we stopped distributing it. But anyway, it was a giant phenomenon and became a big hit. I mean, Magic was the first trading card game, but Pokémon became the real first kids trading card game. And we realized, ohh, wow, there's a lot of potency in the kids trading card game.</v>
+
+00:02:00.650 --> 00:02:30.860
+<v Speaker 1>Well, the game that's sort of followed Pokémon was a game called Yugioh that also started in Japan. And so both the first two big hit TCG kid TCGS were originally started in Japan, eventually came out for the US. So we came up with an idea. We said, OK, if that, you know, if we want to, if we want to have a kids TCG and they seem to come from Japan, maybe we're supposed to do is make the next big hit in Japan and then we'll bring it over. That was the plan. So back in 2002 or the probably 2,</v>
+
+00:02:30.930 --> 00:02:37.870
+<v Speaker 1>71 since it came out in 2002, we decided we were going to make our own trading card game. Now, meanwhile,</v>
+
+00:02:40.200 --> 00:03:10.450
+<v Speaker 1>in Japan, there are some of those who don't know much about comic books. In Japan is something called manga, which is sort of a certain style of comic book. Comic books are very, very big in Japan, manga in particular. And the way manga works is they put out sort of collections of magazines that have lots of different mangas in them, and they're all sort of continued. And so each month is like, here's the next batch of, you know, 30-40 different mangas</v>
+
+00:03:10.750 --> 00:03:40.640
+<v Speaker 1>and they all come together and it literally looks like a phone book. It's a giant magazine, I guess in a loose term. Usually they're black and white pages. And anyway, one of the popular mangas was about a boy who played Magic. And the idea was that in the in the manga, Magic sort of came alive, that when he played the magic cards, you know, if he played a Shiva dragon, this Shivan dragon would come alive and stuff like that. And we were working with</v>
+
+00:03:40.770 --> 00:04:11.110
+<v Speaker 1>them as partners because obviously Magic is our property. And so when we came up with the idea of doing our own trading card game, the idea was taking that manga, what have we adapted that manga and made a new game out of it. Now the idea was we wanted a game. One of the reasons we liked having a kid trading card game is what we found was once people got older, they would transition into Magic, which was kind of the dominant trading card game, but for older, older kids and adults. So one of our</v>
+
+00:04:11.180 --> 00:04:41.260
+<v Speaker 1>he adds, when making the game, we said, OK, here's what we want to do. We want to make something that's somewhat in the ballpark of magic so that there's a natural flow between this game and magic. And we were going to use the manga to sort of tell the story. And so the key was we wanted to make a brand new trading card game. And So what we did is we put together A-Team to make it so the team had five people. So Mike Elliott, Charlie Catino, Tyler Bielman, Andrew Finch and myself.</v>
+
+00:04:41.800 --> 00:04:54.650
+<v Speaker 1>Now all the people I named all at some point had their hand in magic. So Mike Elliott was a has LED design, I think more sets than anybody but me,</v>
+
+00:04:55.750 --> 00:05:01.200
+<v Speaker 1>although he might get surpassed one of these days by Kanagal. But anyway, Mike Elliott was a very,</v>
+
+00:05:02.740 --> 00:05:08.950
+<v Speaker 1>he would, he designed a lot of magic sets and you know, he did</v>
+
+00:05:10.510 --> 00:05:17.220
+<v Speaker 1>Stronghold and Urza Saga and Onslaught and a whole bunch of different sets.</v>
+
+00:05:19.000 --> 00:05:34.120
+<v Speaker 1>Charlie Catino is one of the original playtesters way, way back when he was on the original design team of Mirage and Visions. Both Mike and Charlie were with me on my first design team, Tempest.</v>
+
+00:05:34.830 --> 00:06:04.660
+<v Speaker 1>Um, Tyler Bielman was someone who got into Wizards through advertising for a while. He worked on the Magic brand team and then he ended up taking over the creative team for a while. And I think at the time this was happening, I think he was overseeing the creative team. Andrew Finch was very involved. He first started Wizards as our tournament organizer. He ran the pro tour for awhile. He eventually would transition to R&amp;D, but he was very</v>
+
+00:06:04.730 --> 00:06:15.510
+<v Speaker 1>involve specially organized play side of Magic. And then me, you guys, hopefully you know who I am. So the five of us were put together as a team to make the dual master trading card game.</v>
+
+00:06:17.810 --> 00:06:30.950
+<v Speaker 1>We didn't have a lot of requirements. Here's the requirements we had. One was we wanted it to be a kids trading card game. So we had the restriction of it wanted to be a little bit simpler than Magic, you know, would be something we think that kids could play.</v>
+
+00:06:32.500 --> 00:07:02.510
+<v Speaker 1>And we wanted it to have some similarity to Magic such that to ease the transition between this game and Magic. So the thing we decided to do was that we would have five colors and then the five colors match up with the five Magic colors. Now, in dual Masters, they're not referred to by their color. White is known as light, blue is known as water, black is known as darkness, red is known as fire and green is known as nature. And if you've ever seen the dual match trading card game,</v>
+
+00:07:02.590 --> 00:07:17.700
+<v Speaker 1>um, light ended up being a little bit more yellow in darkness ended up being a little bit more purple. So the colors in the game on some level, from a pure color standpoint, are a little more yellow, blue, purple, red, and green.</v>
+
+00:07:19.690 --> 00:07:41.240
+<v Speaker 1>But they represented the same basic ideas. I mean, there's not 100%, but the the color pie was mostly intact. It's a little a little simplified in some of the what it represented, like red was more fire, but it had a lot of the qualities that red represents. OK, so we want to use the Magic power π</v>
+
+00:07:42.760 --> 00:07:54.690
+<v Speaker 1>and we wanted it to be a trading card game. So, you know, those are the two things that kind of said, OK, that's what we needed to have, but the goal was we wanted where we could to make it simpler.</v>
+
+00:07:55.750 --> 00:08:00.300
+<v Speaker 1>So the first goal that came up was OK, is there a way to make a game</v>
+
+00:08:01.610 --> 00:08:16.510
+<v Speaker 1>he wanted to be a little bit more focused on creatures. I mean, imagine obviously has has evolved over time to get a little more creature centric than it was back in 2002 or 2001. And So what happened was we</v>
+
+00:08:17.260 --> 00:08:47.170
+<v Speaker 1>we sort of took some of the assumptions that people had from Magic that we knew. Like one of the things we knew in Magic was that players really believed that creatures could attack other creatures. And so we said, OK, well, maybe maybe actually I'm getting ahead of myself before we get to the features. The first thing is we wanted to figure out how to track the game state. Now Magic, there's life. You have a life total and usually you keep track of it on a pad of paper or with A20 sided die or something. We wanted something so that the players</v>
+
+00:08:47.250 --> 00:09:06.700
+<v Speaker 1>didn't have to have any extra materials to keep track of what was going on. Now we had made a few trading card games where liver depletion was like, once I delete every time I do damage to you, I would mill You essentially make you take cards from your library and put them in a graveyard and when you ran out of cards you would lose. There were a few games we tried that with</v>
+
+00:09:08.050 --> 00:09:11.070
+<v Speaker 1>I think the biggest one being Battletech,</v>
+
+00:09:12.590 --> 00:09:28.360
+<v Speaker 1>but we decided to go a slightly different route. Um, so we decided we ended up making what we call Shields. And what Shields were is the very first thing you did before you drew hand is you put down the top five cards of your library of your deck in front of you.</v>
+
+00:09:29.420 --> 00:10:00.670
+<v Speaker 1>And this is considered your Shields. So the way the Shields work, the Shields were a way to do the score that also had had a ketchup feature built into it. So here's how it worked is you would put 5 Shields in front of your face down cards. Whenever your opponent would hit you, you, the player, they would break one of your Shields. And what that meant was one of your Shields. And they, they usually would pick which shield they were breaking and then that card would go into your hand.</v>
+
+00:10:00.990 --> 00:10:20.930
+<v Speaker 1>And so the way the game worked was if you ever got hit and couldn't break a shield, you lost. Essentially they attack you and instead of losing, you could break a shield was the idea. But if ever they attack you, you have no Shields and they hit you, then they win. So essentially there's five hits that break a shield and then the six hit would defeat you.</v>
+
+00:10:22.610 --> 00:10:34.960
+<v Speaker 1>And so we made those show then there was a way to sort of keep track of what was going on in a way. There's a little more visible, a little simpler, you know, wasn't a light total of 20 is essentially a sort of life total of five kind of 6 pending on think of it.</v>
+
+00:10:36.250 --> 00:10:57.170
+<v Speaker 1>And so we made we made the Shields. The next thing we did is we wanted to simplify the creatures. So first thing we did was we decided to make just one number for power and toughness. We didn't have a separate power toughness like magic does. The other thing that's going on was we played this little game where</v>
+
+00:10:59.090 --> 00:11:28.800
+<v Speaker 1>I think magic had, you know, creatures and magic had a power of like 3 or 4. So when Pokémon came along, he decided to up a little bit. So instead of, you know, single digits, he had double digits. So in Pokémon you could have a power of 20 or 30 or 40. So what happened was when you Geo came along, they thought well let's let's up it again. So instead of having 20 or 30, you had a power of 200 or 300. Well, we, we,</v>
+
+00:11:28.870 --> 00:11:39.250
+<v Speaker 1>why would this was going? And so we decided we play along. So in dual masters you only have one number, but it's in the thousands. You might be 2000 or 3000 or 4000.</v>
+
+00:11:40.710 --> 00:12:01.920
+<v Speaker 1>And So what we did was we gave you one number, but it was just a very big number. Sound impressive? And then the way it worked was you could attack the player, and to win the game you needed to attack the player because that's how you broke Shields and eventually got through and defeated them. But you were also allowed to attack creatures.</v>
+
+00:12:03.120 --> 00:12:32.420
+<v Speaker 1>And so one of the way combat worked was if I was afraid of a creature, I could attack the creature and fight with the creature instead of attacking my opponent. Players and magic all the time mistakenly thought that their creatures could attack other creatures. And it's something we were always explaining. So he said, OK, this is a game for slightly younger kids. Let's just let you attack. Let your creatures attack. Creatures will let that happen. And in fact, one of the big decisions we had was if I attack, let's say you have a creature, your creature attacks</v>
+
+00:12:32.570 --> 00:13:02.810
+<v Speaker 1>creature B and I have a creature C, can my creature C get in there and stop you? Can I block you from the tech, my creature? And when we decided it was, we ended up making blocking in ability, meaning that every creature, like in magic, every creature naturally has the ability to block. But in dual masters, what we decided was that some creatures and remember what color, I know it went in white in light. I think it was light in water. Two of the five colors in the original game. A lot is, I mean, this came out in 2002,</v>
+
+00:13:02.890 --> 00:13:14.580
+<v Speaker 1>it's 15 years later. So obviously a lot has changed since the original. But anyway, we decided to make blocking and ability, creature ability. And So what happened was</v>
+
+00:13:16.060 --> 00:13:22.330
+<v Speaker 1>basically, um, there were creatures and there were spells. We wanted to keep things pretty simple.</v>
+
+00:13:23.650 --> 00:13:53.650
+<v Speaker 1>The 15 years later more stuff has been added to the game. But we first started the game, there were creatures and there were spells. Now the other big thing we wanted to do was we wanted to figure out a mana system that was a little bit more consistent and easier for the kids to do. So we actually played around with something that Magic we had talked about in Magic over the years. People had suggested is waste to use this in quotes but fix the Manor system. So the way it works in dual Masters</v>
+
+00:13:53.720 --> 00:14:24.080
+<v Speaker 1>is on your turn you have forget what it's called but it's an area where your mana goes essentially your lands. But the way it works is any card in your hand can be turned upside down and become essentially a land. Or our manner resource is not called land but a manner resource. So the idea is every card double s so there's no separate manner resource in your deck. Every card in your deck double s as a manner resource. So the idea is in my turn, I always assuming I have a card, I always have a land if I want to</v>
+
+00:14:24.150 --> 00:14:24.610
+<v Speaker 1>quad.</v>
+
+00:14:26.110 --> 00:14:40.100
+<v Speaker 1>And the way it works essentially is when you're going to play a spell it cares about do you have the right number and do you have the color? And that's the way it sort of tracks is</v>
+
+00:14:41.460 --> 00:14:47.480
+<v Speaker 1>that require five, one of which, and you must at least have one red that that's sort of how it works in Duel Masters.</v>
+
+00:14:48.970 --> 00:14:49.560
+<v Speaker 1>And</v>
+
+00:14:50.590 --> 00:15:21.240
+<v Speaker 1>we were worried early on that maybe deciding which card in your hand to put down would be problematic just cause a lot of decisions like on turn one I7 cards, I have 7 choices what to put down. But what we found was what kids tended to do is they would put down the thing they released excited by. Now strategically that's not always the correct call, but we weren't really concerned about the kids playing strategically correct as they were about the kids understanding what to do and having fun. And So what we found, what the kids tended to do was</v>
+
+00:15:21.370 --> 00:15:48.480
+<v Speaker 1>OK, open my hand, I'm excited by a couple cards. Well, one of the cars I'm not excited by that's going face down to get me to the point. And the thing about mana in resources in Duel Masters is because it requires the card and you always draw a card at turn, you always have have access to the resource if you want it. Like if you have a 7 drop on turn 7, you can drop your seven drop. You know you can because you can have a man every turn if you want to.</v>
+
+00:15:49.630 --> 00:16:19.780
+<v Speaker 1>Now in dual masters it became more about having the right cut. Like you didn't really get manana screwed as the term is in magic, meaning you didn't like magic. Sometimes you just don't draw land and like oh, I need to get to 5 and I'm stuck at 4. That doesn't happen in dual masters. Duel masters. You always get to the number you want to the area. Sometimes you get into trouble is if you're playing more than one color, you need to have the right color to be able to play with the spell. So for example, let's say your deck is red and green or your fire in nature. And let's say</v>
+
+00:16:19.860 --> 00:16:41.530
+<v Speaker 1>I've only drawn red spells because I just have more red spells in my deck than green. Um, until I get a green spell, I can't play green things. Now be aware if I get one green spell, that doesn't do me any good because if I play it then I don't have, I can play the green, but then I don't spell anymore. So usually once you have two spells and you can play the first one to cast the second one.</v>
+
+00:16:42.810 --> 00:16:47.700
+<v Speaker 1>And if you really get stuck while you just play that as mana to build up and just play the other color.</v>
+
+00:16:50.400 --> 00:16:53.160
+<v Speaker 1>So what else is different? Um,</v>
+
+00:16:54.900 --> 00:17:25.220
+<v Speaker 1>ohh, OK, my, my, my contribution to the game or my, my biggest contribution. So one of the things that happened was we were working with, not only were we going to make a mango with it, but we had partners that were going to make eventually we made an animated show with it. And so one of the things was they asked us, they wanted from a story standpoint, they needed ways for our character to get behind and be in dire straits and have dramatic comebacks. And so they're like, you know, that's important to the story.</v>
+
+00:17:25.300 --> 00:17:36.110
+<v Speaker 1>We need our main character to be, ohh, no, I'm in deep trouble, what do I do? And then somehow there needed to be a way to have exciting moments where there was a comeback.</v>
+
+00:17:36.840 --> 00:17:37.620
+<v Speaker 1>Um,</v>
+
+00:17:38.560 --> 00:18:08.470
+<v Speaker 1>now the original comeback mechanic we had worked in with the Shields where when something is broken, you get a draw. And so the suggestion I made, as I said, well, what if some Shields, because the, all the Shields are cards. What if some cards not only instead of it going to your hand, what if when you hit it, it, it went off, it got cast. So we ended up calling the shield trigger. So the idea is every spell does something, but some spells when you place an Shields, if they get broken, instead of going to your hand, you automatically get a cast.</v>
+
+00:18:09.250 --> 00:18:36.620
+<v Speaker 1>And so that ended up being a pretty dramatic thing because sometimes you know, your shield breaks could not only could, you know, could do dramatic things. Like for example, imagine having a kill spell that's a shield, that's a shield trigger. So the idea is that you know, it gets put down and then you break in. Then all of a sudden, haha, I get to kill one of your creatures and maybe I killed the creature they broke it in the first place. So it created a dramatic moments where you could have</v>
+
+00:18:38.020 --> 00:19:08.190
+<v Speaker 1>spells are just happen. And so I this was my solution to the problem. And it took a little while convincing some of the people because it was definitely a little bit more random than we're used to with magic. Like one of the things that we were trying to do in making dual masters was we were very focused on being a kids trading card game. And part of that meant you wanted a little bit more variance. You wanted a little, you know, one of the things that kids really enjoy is just big exciting moments. And so the idea that</v>
+
+00:19:08.260 --> 00:19:38.140
+<v Speaker 1>anytime you broke a shield, it could go off made breaking Shields really exciting. Now, there were some concern that cause Shields could go off and do things where that discouraged people from attacking players, but that wasn't the problem. In fact, one of the things we found when we did play testing, we actually did a bunch of play testing in both the United States and Japan, and Japan was actually one of the more important. So that was our target audience. And what we found was the kids were Uber aggressive</v>
+
+00:19:38.430 --> 00:20:08.880
+<v Speaker 1>that, you know, we were worried that they would be passive because adults sometimes will be afraid to attack. But what we found with kids, especially Japanese kids who were used to playing trading card games, they showed No Fear. They would attack constantly. They would attack problem situations. They weren't supposed to attack. You know, they weren't afraid of of, you know, turning the card sideways and going in. And so it turned out that they, like we thought we were going to take too much time playing land. Nope. Were they take too much time deciding whether to attack or not?</v>
+
+00:20:08.950 --> 00:20:23.970
+<v Speaker 1>So in fact, what we found was the kids played blisteringly fast. I did a podcast a while back about the Junior Super series, and I used to say that the kids in the Junior Super series also used to play really fast. So I think they just might be a trait of youth.</v>
+
+00:20:25.330 --> 00:20:31.750
+<v Speaker 1>But anyway, So what happened was we took all these different component pieces and</v>
+
+00:20:33.130 --> 00:20:42.960
+<v Speaker 1>you know, one thing that was neat about it was there were five of us working together and each one of us brought different things to the table. And we ended up making a game that we thought was a really fun game.</v>
+
+00:20:44.680 --> 00:21:08.810
+<v Speaker 1>I mean, I've been very involved in Magic, but I hadn't been there from the beginning. Obviously I told the story of being involved with Star Wars. So Star Wars trading card game and Dual Masters of the two trading card games that I was there from the very beginning that got made. There's a few others that I made that didn't end up getting making it to print. Maybe one day I talked about those. I'm sure we'll see. But anyway, So what happened was</v>
+
+00:21:10.890 --> 00:21:32.660
+<v Speaker 1>we we really sort of spent a lot of time energy. I think we spent maybe a couple of months putting this game together. But we used to do is we used to have off sites. We would go. We in fact, I think we rented an apartment. Remember correctly, we rent apartment or was it Andrew's apartment? We used to have meetings off site where we go to this department was Andrews department. There wasn't super far away</v>
+
+00:21:33.940 --> 00:21:57.720
+<v Speaker 1>and we were just, we would really go off in all the minutia. I mean, we really would stress test every piece of it, every little nuance. We debated whether or not to have one power, 2 powers. Oh, here's another. This is another clever story. So one of the things that we did in Dual Masters is we always used to look at magic because look, all of this came from magic. That was our our shared sort of,</v>
+
+00:21:58.950 --> 00:22:13.260
+<v Speaker 1>you know, with the, that's the trading card game that we all sort of started with. So one of the things we constantly would do is we would ask questions about whether or not there are certain things that we had in Magic, whether we wanted them in dual Masters. So one of my favorite stories had to do with the first rank.</v>
+
+00:22:13.940 --> 00:22:15.380
+<v Speaker 1>So in</v>
+
+00:22:17.030 --> 00:22:22.170
+<v Speaker 1>in magic, obviously you have a power and toughness. And so</v>
+
+00:22:22.890 --> 00:22:25.780
+<v Speaker 1>first Reg meant something in um</v>
+
+00:22:27.100 --> 00:22:57.680
+<v Speaker 1>and magic just because the idea of does my power greater than your toughness is so first direct matters. So when you had the same power, toughness, it was a little bit different. So the thing we were in is so let's say, for example, you have a 2000, you have first, right? Well, what does that mean exactly? And if another 2000 don't I, you know, I'm supposed to be the 2000, But if I'm a 3000, then what? How is it first? Right? So the answer to doing first strike was what it meant was we wanted you to be</v>
+
+00:22:57.780 --> 00:23:26.630
+<v Speaker 1>2000 but not be the 3000. How do you do that? So we ended up doing half. So at first strike essentially is is and we didn't even label it just we did this is some creatures instead of having 2003 thousand have 2500. And what that means is if I have 2500, I'll beat a 2000, but I won't be the 3000. So essentially that was our way to do first strike was to do sort of half power toughness is now being that everything 1000 half is 500.</v>
+
+00:23:28.070 --> 00:23:39.940
+<v Speaker 1>Now along the way we, you know, we I mean, we made we made the basics. And So what happened? I mean the thing that was also different about dual masters was the set sizes were a lot smaller.</v>
+
+00:23:41.480 --> 00:23:45.500
+<v Speaker 1>I believe the way it worked was her big sets in small sets and a big set had</v>
+
+00:23:46.090 --> 00:23:56.770
+<v Speaker 1>it's not like 120 cards and a small set at 60 cards. I actually would later go on to design two small sets. Oh no, no one. Is it one big set? One small set</v>
+
+00:23:57.560 --> 00:24:27.010
+<v Speaker 1>um yeah, the ones that that I designed that ended up being the popular one is they asked me for a set that had a dragon theme. And so I made a set that a whole bunch of Dragons in it and Dragons are Dragons are always popular here in the US and literal is very popular in Japan. So I don't remember the name of my dragon said the problem is our all in Japanese. So it's hard. I don't remember the name of the things. Now we did by the way. So the game came out in 2002, May 2002 and it was an instant hit.</v>
+
+00:24:27.450 --> 00:24:58.720
+<v Speaker 1>It became within a year, it became the number one trading card game in Japan, which by the way is really impressive because you know, training games happen in America and the rest of the world. And obviously Magic did well and there are a few other games that did well, but trading card games just exploded in Japan and continue training games are just a thing they do in Japan and they are very prevalent. There are a lot more in Japan than you know, ever really were anytime I mean, right after Magic came out, there's a little bit of explosion in the US and so</v>
+
+00:24:58.870 --> 00:25:28.060
+<v Speaker 1>there's a little tiny window. There was a lot of trading card games. Japan kind of had that window and it never went away. So to be the number one trading card game in Japan, number one kids trading card game was was very impressive. So in May of 2004, we decided to bring jobs to the state that there's a plan all along. The idea was we wanted to have, you know, a successful contracting card game in the US. So we got in Japan. It was a huge success in Japan and then we brought it to the US</v>
+
+00:25:28.880 --> 00:25:55.630
+<v Speaker 1>and it didn't quite take off. It only lasted 2 years. It lasted from 2004 to 2006 and then we stopped making it. Now we would later rejigger it and bring it back in 2012 under the name of Kaijudo. I thought it was funny that the game is called Dual Masters in Japan, which is English words, and then it's called Kaijudo in the US, which is the Japanese word, kind of a made-up Japanese word, but</v>
+
+00:25:56.980 --> 00:26:19.810
+<v Speaker 1>it's sort of meant like the fighting of monsters, I think is what it means. But anyway, we brought it back as Kaijudo and again, it didn't really do well in the US, even though for 15 years it's been very successful in Japan. So in a weird case where we made something that ended up like fulfilling its original purpose very well, but it never quite somehow it never quite made it in in the US.</v>
+
+00:26:21.160 --> 00:26:37.510
+<v Speaker 1>But anyway, the game now is just celebrated. I think it's 15th anniversary. 15 years old. They're not allowed trading card games over 15 years old. And if you ask me, when we made it, we wouldn't have guessed it lasted this long. I'm kind of pleasantly supply pleasantly surprised.</v>
+
+00:26:39.290 --> 00:26:43.030
+<v Speaker 1>And the interesting thing about this is that, UM,</v>
+
+00:26:43.810 --> 00:27:13.880
+<v Speaker 1>you know, it is neat. One of the cool things about making a trading card game that isn't Magic is it allows us to sort of make decisions that we don't normally make. The manna system was something we did differently. Power toughness was something we did differently. How we represent the color pie and how exactly. Like one of the things you'll see through Dual Masters is Dual Masters has done a lot of sort of taking cool things from Magic and adapting them into Dual Masters, and it's even done a few</v>
+
+00:27:13.950 --> 00:27:20.100
+<v Speaker 1>things on its own that has then been reflected back. Like one of the interesting things was</v>
+
+00:27:21.630 --> 00:27:29.280
+<v Speaker 1>what I would definitely in unscented stuff, goof around. And so I, I made a card,</v>
+
+00:27:31.090 --> 00:28:00.930
+<v Speaker 1>what was it called snot in well, in the first in unglued, I made BFM in an unhinged, I made snot, both of which were cards the kind of clicked together. And so they goofed around with that and made cards that clicked together. And then they ended up sort of going one step further and making cards that change from one state to another, which were double sided. And so years later when we were making Innistrad, one of the people on my team,</v>
+
+00:28:01.100 --> 00:28:28.900
+<v Speaker 1>a guy named Tom Lapilli, who had worked on dual Masters and had knew that they had double faced cards, said to me, OK, I know we have the printing technology. Dual Masters does it. What if Magic did that? What if Magic double sided card? And so not only as Magic had a big influence on dual Masters, but dual Masters has actually come back to influence Magic. From time to time. The dual matcher team will say, here's something we tried and we'll experiment with it. I mean, double face card is being probably the biggest, the biggest carryover.</v>
+
+00:28:30.290 --> 00:28:43.140
+<v Speaker 1>But anyway, I think we're almost, almost reached school. This was a fun project to do. It was really neat to work on something that was just completely different. It was neat to work on a game where we could just make different calls and magic.</v>
+
+00:28:44.770 --> 00:29:14.700
+<v Speaker 1>Now lessons learned, looking back, what do I think? Like what did I learn much about magic? Making Dual Masters 1 is probably the biggest take away from Duel Masters is I got more respect for the manual system. I think at the time when we were making it, you know, there's a lot of beliefs that magics manna systems sort of had some issues. And I think for a while I bought into that and it really was the making of Dual Masters and the playing with Dual Masters that made me come to understand how special</v>
+
+00:29:14.820 --> 00:29:42.050
+<v Speaker 1>the Magic Manor system was. That seeing a system where you knew, you knew your 6 drops were going on turn 6 and your 7 drops were going on turn 7. That, that, that lack of sort of knowing what things going to happen, the lack of drama of suspense, have sort of not quite knowing when things have happened or getting stuck and having to adapt the, the absence of that, like having a game in which I didn't have that really made me come to appreciate it a lot.</v>
+
+00:29:43.410 --> 00:30:14.160
+<v Speaker 1>And it's funny, I talked to a lot of different designers, especially trading card game designers, and there's this phase you kind of go through where you're like, oh, the magic mana system, we can do better than that. And then you make a different system. And then as you play with that system, you kind of go, oh, wow, there are all these elements I didn't take into, I took for granted from the magic mana system that when I see it in work, I'm like, oh, that's actually pretty important. And I think that working on Dual Masters really, really cemented in my head how important the magic</v>
+
+00:30:14.240 --> 00:30:29.030
+<v Speaker 1>and the system is. I did a whole podcast on, if you wanna hear me, go off for a whole podcast about why it's so important and why it does good things. It is one of the most derided parts of the game that I actually think does. It does a yeoman's job for the game.</v>
+
+00:30:30.990 --> 00:30:40.640
+<v Speaker 1>The other thing that's really interesting was it was fun working on something for kids. It was fun watching kids play or getting interactions and learning about how kids functioned.</v>
+
+00:30:42.050 --> 00:30:58.170
+<v Speaker 1>So one of the things I say when I took a psychology course in college and they said one of the reasons that they like to study kids is that kids are unfiltered adults, That kids sort of the emotions are emotions. And what kids experience, you know, adults learn over the years to sort of like</v>
+
+00:30:59.380 --> 00:31:29.460
+<v Speaker 1>hide elements with kids a little more open about them. And so you learn a lot about game design by watching kids. I think a lot of what kids do, humans do, but kids a little more open and upfront about it. And so I found that was very useful. It was also kind of cool to just work on like it was neat to see somebody. The way it worked was we didn't do the IP, we didn't do the creative. Our partners did the creative because we were trying to make something adaptive for the Japanese market. And what we found was the Japanese</v>
+
+00:31:29.530 --> 00:31:29.930
+<v Speaker 1>market,</v>
+
+00:31:31.710 --> 00:31:38.520
+<v Speaker 1>there are a lot of quirks there, a lot of things that really play well in the Japanese market that we as Americans just don't know. And so</v>
+
+00:31:39.590 --> 00:32:08.380
+<v Speaker 1>they, the, the dual master IP is fun, but it definitely has a very Japanese bent to it. There's a lot of qualities that really play to the local market. So it was neat to see someone take sort of magics color pie and sort of twist it a little bit to make something a little bit different than we would have made. I had a lot of enjoyment watching that happen. And it's also just neat. There's something about making cards and then see them sort of made in another language. I guess Magic has that,</v>
+
+00:32:09.510 --> 00:32:41.520
+<v Speaker 1>but like one of the things that's interesting is playing my cards where I couldn't even read the cards where I couldn't. Like the only version that exists is in a language that I don't read. And we would have, I'd have to mark to say what the names of them were because I knew the cards because I made them. And that was kind of neat. It's kind of neat to have a game come out that's like not even in your native language. So that was kind of cool. And like I said, there's two sets in, which was the head designer for two different sets. So the interesting thing by the way, since the sets are so small,</v>
+
+00:32:42.200 --> 00:32:52.170
+<v Speaker 1>you don't really need a whole team. So I think I did both sets by myself because making a 60 card set is, I mean, it's kind of funny after working on Magic is making 60 card to such</v>
+
+00:32:53.460 --> 00:33:23.880
+<v Speaker 1>which a sigh of relief house few cards. It is so. But anyway, that my friends, is the story of the Toolmaster TCG. And so hats off to Mike and Charlie and Tyler and Andrew. I think we did a really good job. I think I'm very proud of how the game turned out. It's a fun game if you ever have a chance to play it. It's really only in Japanese these days, so it's a little tricky to play, but it is a very fun game and it's a very, I mean, if you know how to play Magic, it's not hard to learn how to play if there's a few differences that you have to learn.</v>
+
+00:33:24.920 --> 00:33:49.810
+<v Speaker 1>But it was a really big insight and it one of the things that I don't get a chance to do much these days is make games that aren't magic. So it was very, very interesting to spend a good chunk of time. We spent months on it to really go really, really deep on something that was something else that was a trading card game, but not quite Magic. And so anyway, for those that we have a chance to try it out and for those who don't, I hope you enjoyed today's story. Just looking at</v>
+
+00:33:50.780 --> 00:34:02.410
+<v Speaker 1>designing a slightly different game. Designing, not magic. So anyway, I'm now at Rachel School so we all know that means, I mean this is the end of my drive to work. So instead of talking magic, it's time for me to be making magic. I'll see you guys soon. Bye bye.</v>
+

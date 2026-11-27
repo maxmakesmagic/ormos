@@ -1,0 +1,284 @@
+WEBVTT
+
+00:00:01.230 --> 00:00:30.660
+<v Speaker 1>I'm pulling out of the parking lot. We all know that means it's time for him to drive to work. And yet again I'm taking my daughter to camp. OK, so the last two podcasts I've talked been talking about the design of cons of Tarkir. So I walked through our how we initially started with a large, small, large drafted in the middle. We got a time travel story, end up getting clans. There were five clans. We ended up making wedge. We had game mechanics for each one we did. OK, so now I think I'm going to do is start moving on to the card,</v>
+
+00:00:30.730 --> 00:01:01.920
+<v Speaker 1>the car section, and I'll hit some other stories about the design as they talk about cards. I think that's the next step I'm going to do. So starting today we'll begin with A and we'll start with Abomination of Guadal, Dudul Gadal. Anyway, 3 black, green, blue. So 6 mana, one black, 1 green, 1 blue for a three, 4 horror with flying. And when it deals combat damage to a player, you get to draw and discard. And it has a morph of two,</v>
+
+00:01:02.000 --> 00:01:03.180
+<v Speaker 1>Black, green, blue.</v>
+
+00:01:04.090 --> 00:01:06.600
+<v Speaker 1>OK a lot of story in this card</v>
+
+00:01:08.120 --> 00:01:24.790
+<v Speaker 1>a lot of times what happens is the first time I hit something in the alphabet then I gotta talk about it. Well this was the very first card I think alphabetically. OK, so black, green, blue means this is Sultai. OK So what happened was we messed around a lot. 1 of the questions of</v>
+
+00:01:25.480 --> 00:01:55.470
+<v Speaker 1>So remember we didn't start with this being a multicolor set. That's not where we began. We began with clans and factions. And remember the previous year have been returned to Ravnica. We had previous year have been Theros, the year before that had been returned to Ravnica. So multicolor had been jet lagged just leaving standard. It just came out so like it wasn't like multicolor had been a long time ago. It had been relatively pretty recent and so</v>
+
+00:01:55.570 --> 00:02:25.700
+<v Speaker 1>one of the goals of the set was we wanted to do a wedge set, but we didn't really want to do full blown out multicolor. We wanted to be careful because we had just done multicolor and the idea is what we wanted was we wanted a wedge set that had a wedge components to it, but we weren't looking for a full multi color set. What does that mean? Well, the full multicolor set we would do is do a lot more cards that were two color in addition to three colors. And our goal was, well, most the cars 33</v>
+
+00:02:25.800 --> 00:02:55.660
+<v Speaker 1>are not all of them will get to that in a little bit. But the idea was we wanted three car, but we didn't want you to. We wanted to help you a little bit in how you manage production got done. So one of the things that we ended up doing was we made a lot of the common gold cards morph. This is a good example. And the idea being that one of the things people ask is does morph and three color make any sense together? Last time we did more if we did an onslaught</v>
+
+00:02:55.810 --> 00:03:25.990
+<v Speaker 1>in which there was a tribal theme and the idea that ohh, well, the more creatures had tribes that you could flip and all of a sudden those mattered. It connected well. What does morph have to do with three color? And the answer is that morph is a good enabler when you're going to more colors. And the reason is if I get a morph creature that's off color, I can play it even if I haven't yet drawn the color. And once I draw the color, well, then I could morph it up. So the idea is Morph allows you to sort of have a little bit more LAX of creatures because you</v>
+
+00:03:26.070 --> 00:03:42.240
+<v Speaker 1>throw things in that if you've you know, normally if I have a green card and I haven't drawn the 4th, I just can't play it. But with more if I have a green card or partially green card, but I haven't draws the forest yet, I can play it and when I get the forest and then I can turn into the thing it needs to be.</v>
+
+00:03:43.480 --> 00:04:13.350
+<v Speaker 1>I mean, not now the gold cards. The idea behind this was we were trying to make gold something easier to support and that the premise was that you could splash for your third color if you wanted to. And what that meant is you could play heavenly, you match three color, or we try to give you a manabase and a system where if you wanted to splash the third color, you could because the the multicolor component is something you want access to. But it's not like a traditional gold set where</v>
+
+00:04:13.460 --> 00:04:43.720
+<v Speaker 1>you kind of want flat. Like normally when you play multicolor, we try to give you even support. So whatever number of colors you're playing, you play some sort of support to it. This that definitely lean toward the idea of allowing you to splash the third color because the idea is you'd have two colors. Your third color you might want because have some powerful three color cards, But we didn't in such a way that you wouldn't you didn't need to be even. You didn't need to have flat in all your manner that you could have a mostly two colors and a little bit of a third. We did a bunch of things to help you. The more</v>
+
+00:04:44.140 --> 00:04:50.150
+<v Speaker 1>the common goal, more cycle was one of those things. The other thing that we did was</v>
+
+00:04:51.790 --> 00:05:00.960
+<v Speaker 1>let me talk a little bit about the morph strategy. So one of the things that Eric Lauer did, Eric was the leader developer and head developer too. He</v>
+
+00:05:01.940 --> 00:05:31.930
+<v Speaker 1>morph first showed up in Onslaught and then it showed up again in Time Spiral. It caused a lot of problems in Onslaught. One of the biggest problems was you didn't know whether or not it was correct to block or not block. So for example, there were two red creatures, I remember their names, but one more creature hose you if you blocked it and one hose you if you didn't. And they cost the same amount on morphs. So if you're playing, it's a red deck and they had a certain amount of mana and a more preacher, you were flipping a coin.</v>
+
+00:05:32.010 --> 00:05:52.560
+<v Speaker 1>I just didn't know. There was no way to understand what to do. And it caused some frustration because one of the neat things about a mystery mechanic is the fact that he can give you clues to help you figure out what to do is cool. The fact that it's just at some level flipping a coin, not cool. So we were working really hard to figure out how to make that better. So</v>
+
+00:05:53.790 --> 00:06:23.650
+<v Speaker 1>this wasn't the first time oversight wasn't the second time we did more morph got brought back in time Spiral And what Eric really liked was how morph was done in Time Spiral. So time Spirals lead developer was a guy named Brian Schneider and Brian did a couple things to morph in time Spiral 1 is he restricted the colors in he was mostly a blue thing. There are some higher rarity ones, but at low rarities for limited purposes, mostly with blue. And then what Brian did was he made sure</v>
+
+00:06:23.800 --> 00:06:53.960
+<v Speaker 1>that if you're more creature was above a certain level that he he got more expensive. And what Eric called it is he had worked for I think if it could destroy. Well, I don't remember the word Eric used, but that his thing is if I get in a fight, I have a face down to two creature. I get in a fight with a 22 creature. When I unmorphed, do I win the fight And win means I kill the other creature and I survive. So if you can survive a fight with a Tutu,</v>
+
+00:06:54.120 --> 00:07:24.410
+<v Speaker 1>you had to cost a minimum, which ended up being 5 mana. So the idea was before your opponent has five mana, you know you can block their Tutu with your Tutu. Now you might trade it, it might bounce, but you won't lose your creature without them also losing their creature at 4:00 or less mana. And that allowed you early on to be a little bit more aggressive on blocking creatures and making some trades without being blown out. So that obviously can be seen here. Notice the play the card straight up is 6 mana to play it on Morphine</v>
+
+00:07:24.490 --> 00:07:55.300
+<v Speaker 1>five mana. So once again, if you're able to play this turn 3, then you get access to an turn 5 rather than on turn 6. The other thing we did is the creatures that come and we'll look at a couple of them, but this one, for example, has a combat ability, combat damage ability, which meant if ideal damaged my opponent, something happened. The reason that's funded morph is I attack with them more. If you're not sure what to do, if you let it through because it's scary, maybe you want to block it all of a sudden. Oh, I'm a combat damage. You know I have a saboteur that can take advantage of the fact that you didn't</v>
+
+00:07:55.370 --> 00:07:55.800
+<v Speaker 1>fuck me</v>
+
+00:07:57.400 --> 00:08:16.650
+<v Speaker 1>anyway. See a lot of things in one card. OK next Abzan ascendancy white black green enchantment. When it enters the battlefield you put a + 1 + 1 counter on each creature you control and whenever a non token creature dies you put a 11 white spirit creature onto that field. Token creature onto the battlefield with with flying</v>
+
+00:08:19.680 --> 00:08:47.430
+<v Speaker 1>anyway, so let's talk about that. So the ascendancy started in design as something completely different. So one of the things we were trying to do was what we called empire cards. And the idea of an empire card was it was an enchantment that granted you an ability, but it got upgraded if you control the fever how it worked. The idea was you would fight over having control and if you had control of the empire</v>
+
+00:08:47.520 --> 00:09:07.420
+<v Speaker 1>that it was more powerful to you. And the idea was the empire only affected you, but your opponent having control of it meant that it had reduced effect. And so you would fight over empires because having controlled the empire allowed you, the controller of it, a more powerful effect. The problem we ran into was</v>
+
+00:09:08.740 --> 00:09:26.080
+<v Speaker 1>the way empires ended up playing out is you would put them out in the game was just all about the empire and instead of trying to win the game, you would just fight over the empire. So for those that have listened to my 10 Things, 10 Things Every Game Needs podcast, one of the things I talk about is inertia that you want in your game to naturally push towards completion</v>
+
+00:09:26.900 --> 00:09:56.560
+<v Speaker 1>and what employers are doing where they're saying instead of playing the game of magic, let's play this game. He would just fight back and forth and it wasn't really ending the game. I mean, it would grant you inability. Sometimes that ability would help you win. But what we found was it just shifted the focus onto this. So we've turned over the empires to development and we're development said is this is these are causing problems and you know, we're missing. Let's just have like Erica done and looked at what we've done in three color and we didn't have a lot of like</v>
+
+00:09:56.710 --> 00:10:08.680
+<v Speaker 1>both recolor and chants. And so Eric said, OK, why don't we just make cool enchantments? And the idea was I think they ended up having one static ability and one triggered ability. I think it's how they sentences work.</v>
+
+00:10:10.710 --> 00:10:33.600
+<v Speaker 1>Well, we'll see some other presences. I I know they mostly had two abilities. One or two might have had one ability. I think most of them had two abilities though, and they all had a static ability. I think most of them had a triggered ability. OK, next obs on banner. It's an artifact for three, you could tap it for white, black or green and for white black, green tap sack, you could draw a card.</v>
+
+00:10:34.250 --> 00:11:04.590
+<v Speaker 1>OK, so another thing we were trying to do, and this is another tricky thing the development does is you want to have enough mana that players can do what they want to do, but not so much manner that the the color pie is just doesn't matter. We have made mistakes in the past when we have such a rich, robust series of manna that decks will just play, you know, like there's one period in time wasn't super long ago. We're like you were playing, you would play 3 or 4 different spells with</v>
+
+00:11:05.080 --> 00:11:35.100
+<v Speaker 1>double men in their across all in the same deck. Like I have a white white spell and a red skull and a black belt and all along in the same deck. Like what you know, one of the things that we it's important to us is the man of the man on the color wheel is very important and the manna system is very important. We don't want you having access to everything that that there's a big safety valve in the game that says, hey, well, if you want to really go heavy in black, it's harder to go heavy in other colors. And so if we fix mana too easily, we cause</v>
+
+00:11:35.170 --> 00:11:45.330
+<v Speaker 1>problems where it just we blur what the color wheel means. But on the flip side, if we don't give you enough manna, like original Laura had this problem,</v>
+
+00:11:46.200 --> 00:12:16.410
+<v Speaker 1>which was we just didn't give you enough manifesting. And it just like in order to one part of the game was saying play lots of colors in one part of the game was saying, don't you can man is not there to support it. And what ended up happening is you kind of had to just stretch and hope you got lucky. And so there's a lot of manna housing that happened more so than normal. I mean, there's a certain amount of inherent in the game, but we don't want to make it extra. We don't want to encourage you to stretch and not support your ability to do that. Like one of the things you want your game to do is you want to tell your player what to do</v>
+
+00:12:16.520 --> 00:12:34.170
+<v Speaker 1>and then give them the tools to support that style of play. A wedge set says play wedge. So we want to make sure you can do that. Eric Lauer's solution, by the way, which is very funny, is he looked at the law, which was the last wedge and said, you know what? What we need to do is take the amount of manifesting Alara did</v>
+
+00:12:36.800 --> 00:12:38.040
+<v Speaker 1>and I think</v>
+
+00:12:39.000 --> 00:13:09.040
+<v Speaker 1>he said that was acceptable because we had a lot less, we had a lot less gold cards than Allara did. Olara was more. Like I said, this was not meant to be a multicore block then depending on wedge component, but it wasn't just full blown out multi color, which is what Alara was. Alara had a lot more two color spells for example. And so he ended up matching the manifesting for Alara, knowing that there was just a lower, I think half half the as fan of gold. I believe I remember correctly</v>
+
+00:13:10.300 --> 00:13:15.610
+<v Speaker 1>and the idea was someone with land and someone being an artifact. Originally these just tapped for mana.</v>
+
+00:13:17.120 --> 00:13:33.460
+<v Speaker 1>I think at 2 they were too powerful, at three they were too weak. And so Eric came up the idea of putting on the cantrip on to them. So the idea is, well, it helps that your mana and then later in the game we no longer need it. You can trade it in for another card and it'll let you card advantage later in the game.</v>
+
+00:13:35.950 --> 00:14:03.590
+<v Speaker 1>We fiddle with those quite a bit. That's one of the things that's kind of a boring story, but I mean it's the truth is a lot of things like that was like, ohh, what does it cost and does it come into play tapped Does have a second ability And like we do a lot of fiddling with that and trying around and what happens is usually development tells us what they want to play with. We'll play with it in design, give them notes and then make changes. So a lot of the manifesting, not all that got solidified before it got to development, but a lot of it didn't and think the banners did. I think we playing the banners in design</v>
+
+00:14:04.390 --> 00:14:10.800
+<v Speaker 1>OK. Abzan battle priest 3 white for a three two human cleric. It has Outlast, white</v>
+
+00:14:11.550 --> 00:14:38.040
+<v Speaker 1>and then creatures. Each creature you control with the custom counter on it gets a life link. OK, so let's talk about the Outlast in the Abzan. OK, so when we had turned over the file, you could choose not to attack. And if you choose not to attack or block, and if you did, then you would get a + 1 + 1 counter. Like if I stay out of combat for a turn, I get a counter. Eric decided that it was just cleaner just to have it tap.</v>
+
+00:14:39.570 --> 00:15:09.860
+<v Speaker 1>Well, the way we did it had a little more flavor to it. If I, you know, if I instead of instead of fighting, I meditate and train or whatever, I'm doing that last, you know, make myself better. I can stay out of the fighting and improve myself. Eric Finder just made more sense. It just taps. We end up turning to tap. The other thing that Eric was a little dismayed was the outlets mechanic when we had turned it over didn't really make you play a lot of Outlast creatures. In fact, they kind of fought each other because they required manages. Their Outlast ability</v>
+
+00:15:09.950 --> 00:15:38.280
+<v Speaker 1>is kind of like, well, play a couple lectures, but not too many. And Eric wanted to encourage you to play them in the same deck. So Eric's idea was at higher rarities, not a common and uncommon enough. We make some outlast cards and not only outlast, but get give you a bonus for having a + 1 + 1 counter. Now, in a vacuum, this creature by itself. So this creature if you just played it by itself, could give itself a life link. So it's a 3 two you could activate for W. You can make it a 43</v>
+
+00:15:39.340 --> 00:15:54.570
+<v Speaker 1>and then now it is life link and you keep making it bigger. But once you once you've outlasted it once you've given it life like, but now combined with other LS creatures and this can give them life link and other ones can get first striker flying as such. And it made it a little more coherent. Sorry, cohesive.</v>
+
+00:15:55.890 --> 00:16:22.190
+<v Speaker 1>So I talk a lot that one of the roles and development is figuring out the goal of design, the vision of design and then helping execute on that. And a good example was we wanted the ABS on to sort of have this defensive equality and play together. But the way we had made the mechanic didn't encourage you to play multiples as much as we kind of wanted you to. And so, Eric, find a way to tweak it to make you want to do that. That's a good example with development does well is</v>
+
+00:16:22.790 --> 00:16:37.380
+<v Speaker 1>they were staying true to what we wanted, which what the Abzan was, but we didn't execute in the best possible way to get people to play it. And so they would tweak things to make them better. That's a very that is a lot of what what development is all about is, is optimization of the vision.</v>
+
+00:16:38.420 --> 00:16:40.140
+<v Speaker 1>OK next Abzan charm.</v>
+
+00:16:41.140 --> 00:17:00.850
+<v Speaker 1>White black green instant. You choose one. You can exile target creature with power 3 or greater. You can draw 2 and lose 2 life, drive 2 cars, lose to life, or you can distribute 2 + 1 + 1 counters. OK so the first thing you'll notice with the charm is there's three abilities. The first ability is a white ability, the second ability is a black ability. The third ability is a green ability.</v>
+
+00:17:02.120 --> 00:17:32.670
+<v Speaker 1>So when we we first knew we were doing wedge, once we knew, once we had the meeting with, OK, we are going to do wedge, we said OK, let's write up everything on the board that people would expect us to do. And then our goal was to try to meet as many of those as we could. Charms was I think the very first thing written up. Three color charms are quite easy. They have 3 abilities. There's three colors. They each get to do 1. I think what they did is the one that's centered. So it's options of white, it's white centered. They made the strongest ability in the center of color,</v>
+
+00:17:32.770 --> 00:18:02.490
+<v Speaker 1>so the white color, because this is obscene and white is the centre of Abzan. The white ability was the strongest on the charm. You know it's creature removal. While one is car drawing and one is creature buffing. Neither of those is as powerful as creature removal. So the white ability on the white charnow the white center charm. So what happens was the wave charms work and this is normal is designed to pass on it. We made them and the development did a completely separate pass. They kept some of the things we did, but the key to doing charms is you have to do all 5 at once. Because</v>
+
+00:18:02.780 --> 00:18:33.060
+<v Speaker 1>actually here, because you know what's gonna have 3 abilities because whites gonna show up three times in a cycle of three color cards. And you want to make sure that each time it shows up that it's doing something different that it's not, it's not doing the same effect. So you kind of have to look them up and go, Oh well, this is doing that there. I think it was development that decided to make the central power stronger. So when they revamp things, they pushed it. That helped a little bit also because the the level of what you were looking at, the center color was a little stronger,</v>
+
+00:18:33.170 --> 00:18:46.220
+<v Speaker 1>so you weren't fighting for abilities between colors quite as bad. The the two secondary ones had a careful not to fight, but you're stronger ability usually was on a different car than the other. But the other charms were doing it affects we're doing, so they made it a little easier to not overlap.</v>
+
+00:18:47.440 --> 00:18:50.880
+<v Speaker 1>OK next Alpine Grizzly 2G42</v>
+
+00:18:52.080 --> 00:19:21.930
+<v Speaker 1>So one thing that's very interesting is the vanilla creature. Every set has vanilla creatures. Usually every color at common has one. Usually one of the things that we try to do is make use of the vanilla creatures. We want to have them. The game is better if your system breathing room you get where you just have a creature that's simple and does something. But this is a good example of us saying OK, we need to use vanilla creatures in ways that are useful. Just because the creature doesn't mean you can't do something. And this is a perfect example. So</v>
+
+00:19:22.610 --> 00:19:52.040
+<v Speaker 1>OBS on had the ferocious mechanic. It cared about creatures being power 4. So what the design, I'm not sure whether well, we might have made a fact. What I think happened was in design brochures was 3. So we made a vanilla with three powered and then got changed to four powered. I think we might have like a 3G33IN design or maybe we had a 2G32. I'm not sure. But anyway, or anyway, I don't remember designers create development ended up making a 2G40</v>
+
+00:19:52.520 --> 00:20:22.120
+<v Speaker 1>once they moved it up to four. And there's a good example of a green card at the lowest manner possible. Pretty much a three mana allows you to take to get to the ferocious. Another thing we did, and this was created was doing, not development doing was we decided to make bears a little tougher. I'll be honest, if you ever look at A22 grizzly bears, not even grizzly bear, I believe it's bears plural. Like look in the arts, there's multiple bears. No, I don't know how many have fought a grizzly bear. Not that I have but but I I've read a lot about about.</v>
+
+00:20:22.200 --> 00:20:51.090
+<v Speaker 1>Really matters and two 2 is an insult to grizzly bears. So let me speak up for grizzly bears everywhere 22 what they are not a Tutu. So we decided we're bears were important team are you know obviously sort of smacked the bear. We saw that we decided that bears would be a little tougher. So in this world bears aren't Tutu most of them they're power for most of them I think are 4/4 the bearer tokens were 4/4. This is only four two and that we really wanted to give out</v>
+
+00:20:52.210 --> 00:21:01.420
+<v Speaker 1>creature, so creative ended up making it barely Figure 4 power good enough. But the bears in this world are a little more powerful as grizzly bears should be, as bear should be.</v>
+
+00:21:02.800 --> 00:21:33.610
+<v Speaker 1>I, I speak up for the insult to all bears with the two bearer. The funny thing is the audience really, because magic is very there. There's a lot of patterns and magic, like a bear has been a Tutu. It's even slang for a Tutu. When we made bears that weren't Tutu, even though flavor wise it makes perfect sense. The audience were like, what are you doing? 44 bear or 42 bear? That's unnatural. That's not the way bears were made. What are you doing to my bears? And like, no, no, bears are more powerful anyway. There's something said for tradition.</v>
+
+00:21:36.520 --> 00:21:41.510
+<v Speaker 1>When you deviate from it, you will hear from it. OK, next Altar of the Brood.</v>
+
+00:21:42.370 --> 00:21:52.930
+<v Speaker 1>It's an artifact that causes one whenever a permanent enters the battlefield under your control. You get to mill each opponent 1 So 1 of things we're always looking to do is that artifacts</v>
+
+00:21:54.270 --> 00:22:21.360
+<v Speaker 1>I, I haven't done a podcast yet in artifacts as far as like one of the things we've definitely done is carved a little bit of space out for artifacts. It's not that Kalis has a color pie, but it's kind of like, well, what are the things artifacts more often does? And one of the things we've given artifacts is it has repeatable milling. It's one of things artifacts does. And we're always like, we always are trying to come up with a different way to mail it. Just something that's a little a little off the beaten track. And so</v>
+
+00:22:22.340 --> 00:22:53.090
+<v Speaker 1>this is a good example. This is a card that says, OK, it's a milling deck, but it needs a lot of permanence. That's not something million decks always necessarily do. But this deck says no, no, no, you're going to mail them out. And the means by which you do it is having a lot of things. Oh, well, that's, you know, a lot of mill strategies are more controlled and you don't tend to have a lot of things. Well, this is a little different. And that we really like making cards that say, hey, this is fun and it does something you've done before, but requires kind of different things, just requires you to build a different kind of deck.</v>
+
+00:22:53.440 --> 00:23:23.420
+<v Speaker 1>There's a lot of Johnnys out there who Jess or even some spikes. So like, OK, can I make this work? Can I do it? How do I make this work? There's just different parameters. And let's talk about how restrictions we creativity. That's the same for cards. One of things we want to do is, OK, this card can win you the game. It's a milling card, but it requires a different combination of things than you normally think of with this kind of card. We love doing that sort of stuff. The other thing you can tell on this card is that we're getting a little more conscious of multiplayer play. It</v>
+
+00:23:23.490 --> 00:23:39.210
+<v Speaker 1>says each opponent, not an opponent or target player, which says, OK, if you could figure how to do this, you could try to do this in a multiplayer game, because it will not just one person, but everybody. And I know in multiplayer we're trying to be careful. Sometimes we go to each opponent. It can get a little too powerful,</v>
+
+00:23:41.140 --> 00:24:06.070
+<v Speaker 1>million a little more all in, so it's a little tougher. So it feels like the danger of this kind of multiplayer is since you're affecting everybody, but slowly, well, everyone knows you're doing it and you start getting close, they're all going to team up and probably do something. So a lot we felt there was a balance in multiplayer where you could use it, but also there's some danger and because you're affecting everybody, everybody might want to start going after you. So there was some balance we wanted to do there.</v>
+
+00:24:06.780 --> 00:24:07.550
+<v Speaker 1>OK</v>
+
+00:24:09.700 --> 00:24:10.850
+<v Speaker 1>next</v>
+
+00:24:12.360 --> 00:24:31.570
+<v Speaker 1>Anna Fenza, the foremost white, black green. OK she is a 4/4 legendary human soldier. Whenever she attacks put a plus and plus encounter on tap. Creature you control if a creature car put into your opponents graveyard. If a creature card is put into the opponents graveyard from anywhere, exile it. So</v>
+
+00:24:32.250 --> 00:24:38.820
+<v Speaker 1>the the first ability was we wanted her to support her ability. She's an Abzan. Abzan has Outlast. That's what they do.</v>
+
+00:24:40.060 --> 00:24:41.000
+<v Speaker 1>So</v>
+
+00:24:42.290 --> 00:25:14.180
+<v Speaker 1>we definitely want to make sure that, uh, she was supporting it, but also her flavor is she's a warrior. She, she, she fights that she goes into battle with her people. And so he didn't want her just sitting back. And so he said, OK, well, what if she had an attack trigger, but something that could reward you either for attacking, meaning the nice thing is attacking creatures tables in visual creatures attacking creatures tab. So she could boost a fellow attacking creature or in fact, she could boost herself or she could also boost the creature that has outlasted. So she could do</v>
+
+00:25:14.250 --> 00:25:45.770
+<v Speaker 1>to affect the second ability came from Eric Lauer reading the write up about her and talked about how she grunted whenever she defeated opponent. She grounded their bones to dust and the idea was that she knew there were people that made use of the dead especially the whole tie and she didn't want that happening. So out of flavor it got the second ability that ended up being being quite interesting especially against Sultai because they you know, it was delve and stuff. They used the graveyards interesting way. But anyway, that was sucking more for flavor, but ended up having some interesting mechanical</v>
+
+00:25:45.890 --> 00:25:46.460
+<v Speaker 1>use.</v>
+
+00:25:47.270 --> 00:26:17.470
+<v Speaker 1>Ankle Shanker 2 red white black for a 22 goblin berserker. It has haste and whenever you attack a creature you control gets first strike in death touch. So it's a red white black creature. Haste is red and black first write is white and red and death touch is black. So it mixes up the ability. There's no a red creature could have hastened first track couldn't have death touch and a white creature could have first, right? But no haste or death touch and a black mature hasten death touch. No first.</v>
+
+00:26:17.540 --> 00:26:20.610
+<v Speaker 1>So it mixes things up so that it's a different combination.</v>
+
+00:26:22.160 --> 00:26:52.440
+<v Speaker 1>So let me answer this question. By the way, notice red, white, black. In previous incarnations, we had ridden the manna in different orders. Let me explain that Eric felt very strongly that he wanted to make sure that people understood the combination of where colors were centered and the idea of the importance of the enemy combinations. And so he mixed up the mana to help remind you a where it was centered. This is, for example, red white black means OK, red comes first. It's centered in red Medusa red thing. But then it goes red white, which are opposites, and white.</v>
+
+00:26:52.510 --> 00:26:59.990
+<v Speaker 1>OK, it shows you paired in opposites rather than in some other combination to stress that when drafting you want to go to for opposites.</v>
+
+00:27:01.420 --> 00:27:11.250
+<v Speaker 1>In retrospect, I think this might have been a mistake. I think consistency is really important. It drove players crazy that the way we'd written mana in one previous incarnation was not the same as here.</v>
+
+00:27:13.010 --> 00:27:43.290
+<v Speaker 1>I'm not I'm not sure the future of this. I agree the consistency is important. So we had to figure out what we're doing and make it the way we're doing it. But that is why it changed. As far as Ankle Shanker, this card was very popular, maybe for its name and people like goblins, but it was definitely a fun little card and it did some neat things and it definitely made a very, this is in Mardu, so it wants to be very aggressive and we wanted to make a card that you would put in an aggressive deck. And one of the problems with a three color card is by definition, it's not going to be that cheap. It's got at least three colors in it.</v>
+
+00:27:43.360 --> 00:27:54.080
+<v Speaker 1>This one is 5, but it wanted me something that well, it's a good finisher in an aggressive deck that first Recon deathtouch work really well together. And so if you stick this in</v>
+
+00:27:55.450 --> 00:28:09.810
+<v Speaker 1>so and remember, ankle shanker can always target itself. So it can give itself first striking in Dutch and it gets attacked right away. OK, next Archers parapet. So this is a wall in green one in green for a wall 05 wall. It's got defender</v>
+
+00:28:11.030 --> 00:28:40.980
+<v Speaker 1>one in black tap. Each opponent loses one life. So one of the things that is really important, I talked to this before about in the previous podcast that Eric wanted people to get the idea of draft enemy color 1st and then you can pick your third color. Because if you go with enemy color, you have two options. For example, you start black green while you get blue and all of a sudden you're Sultai. Or you can get white and all of a sudden your abs on you have choices. So what he did was he put a cycle in of off color activations. This obviously is a green with the black</v>
+
+00:28:41.080 --> 00:28:53.490
+<v Speaker 1>and so it went in that same rotation at uncommon. So like the green goes to black, which means try the black one would then go to its enemy which we white. So</v>
+
+00:28:54.590 --> 00:28:59.110
+<v Speaker 1>so you have a cycle and the idea is, if you take this,</v>
+
+00:29:00.310 --> 00:29:30.320
+<v Speaker 1>this was trying to do was bridge the gap between the two strategies that could go into well, it's a wall and so you can use it defensively and Abzan OHH, but it also drains the opponent. So you could use that in it had a bleeder aspect, which played into some other way salt I played. So it was a card that could work in OBS on or could work in Sultai. Either could use it. And so that card was made it so you would take it and then it gave you options to go either way. And it also kind of reinforced the draft enemy. OK next</v>
+
+00:29:30.400 --> 00:29:31.180
+<v Speaker 1>arrow storm.</v>
+
+00:29:32.600 --> 00:30:02.810
+<v Speaker 1>OK arrow storm is 3 red red sorceries, A5 mana sorcerer 2 red deal 4 to target creature or player. But with raid you deal 5 instead in a can't be prevented. So raid. One of the things we want to do with raid is raid. The idea of raid is you have a spell, you get an upgrade to spell. We wanted to make sure in the upgrades the upgrade wasn't so big that you felt was useless if you hadn't attacked. Deal 4 damage creatures can kill a lot of creatures. Plenty of times you'll use this and you won't have to be attacking but little extra bonus. 4:00 to 5:00</v>
+
+00:30:02.890 --> 00:30:32.750
+<v Speaker 1>matter, you know, sometimes you need to kill something that for won't do for five. Well, can't be prevented against certain decks, you know, so it had a little extra value, but you still wanted to play the card that we wanted to make sure that your rate cards weren't useless and you didn't attack. Otherwise it would warp them a little bit and can cause some problems. So we made them such that they're better if you attack and there's times you want to attack, but there's plenty of times you could just use it and Arrow Storms are really good. You're going to take Arrow storm even if you don't have an aggressive deck, you'll take Arrow storm. It's better than aggressive deck. Margo might take it a submission</v>
+
+00:30:32.890 --> 00:30:38.780
+<v Speaker 1>there, but you know what? Other decks that have heavy red will still consider playing it because it is creature kill.</v>
+
+00:30:40.570 --> 00:31:10.920
+<v Speaker 1>OK, I can see I've now gotten to 30 minutes. I got a little early because I left my house, but I have a meeting to go to so I got to get going. But anyway, I want to make sure you get your 30 minutes of content. So I've gotten all the way up to a I didn't finish a I'm going to finish a we'll do one last card in an Ash Cloud Phoenix was my last A2 red red 41 Phoenix has flying. When it dies, it returns to the battlefield face down more for red Reg 6 mana. When turn face up, I deal 2 damage to each player.</v>
+
+00:31:11.020 --> 00:31:40.770
+<v Speaker 1>So this was us messing around with morph. The different kind of things you can do with morph. The cool thing with this picture is you can morph it like normal, but it dies into a more. So when it dies it gets to come back. It's a way to do a phoenix in a different way. Things get reborn. And then it just added a different feature. And then we knew we wanted to mess with more if we weren't going to change how morph worked and we were going to mess with that in later sets, but we wanted a little bit of tweaking. Hey, we wanted a few things you hadn't seen before, but we wanted to be more as you know it, but just adding a few different things. And</v>
+
+00:31:41.020 --> 00:31:57.560
+<v Speaker 1>I really like the idea of something that died into a face down creature. And we wanted to have a phoenix in the set and then it hey, it all matched up and all made sense. And what we did is we ended up putting the phoenix tended to damage the things like pyroclasm effects are very phenoxy. So we put it into the unmooring rather than into the dying,</v>
+
+00:31:59.090 --> 00:32:29.720
+<v Speaker 1>just to make it a little bit different and just change the play. Like one of the things when you do cards a lot of times is you want to make sure that you have the feel so they feel right, but you mix up a little how you use them so that this isn't just like the Phoenix, like everything you've ever seen. OK, finished today. So next time I'll start with B. But anyway, I do have to go. I hope you guys are enjoying my talk about concert start here. We got through and explain how much stuff today, but I'm in my parking space. We know that means, I mean, this is one of my drive to work Instead of talking magic. It's time for me to be making</v>
+
+00:32:29.790 --> 00:32:33.290
+<v Speaker 1>project. I'll see you guys next time for more cons of Turkey here.</v>
+

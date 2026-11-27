@@ -1,0 +1,359 @@
+WEBVTT
+
+00:00:00.890 --> 00:00:06.040
+<v Speaker 1>I'm pulling away from the school. You know what that means. It's time for him to drive to work.</v>
+
+00:00:06.830 --> 00:00:38.200
+<v Speaker 1>Yeah. My daughter had a orthodontist appointment, and then I had to take her to school today. So. But for those that regular listeners know the school, sorry, by my house. So you should get a full drive today. OK, so today I'm going to kind of finish a series that I thought I'd finished, but I actually hadn't. And I'm going to talk about a failure. Normally when I talk about stuff, I talk about things that we do that are successes. But, you know, not everything we do works out. So this is a good example of something where it didn't work out and I was going to talk about</v>
+
+00:00:38.270 --> 00:00:38.450
+<v Speaker 1>that.</v>
+
+00:00:39.090 --> 00:01:09.380
+<v Speaker 1>So the topic of the day even figure out for my little clues there is the tribal card type. I did a whole series on card types and I have not done one last one which is tribal. So real clear I got to spell this out because this is confusing because sometimes in magic one word means two different things. So we use tribal to mean two distinctively different things. Although somewhat connected. Tribal is a theme, much like Onslaught or Lorwin or</v>
+
+00:01:09.480 --> 00:01:34.900
+<v Speaker 1>as something of Innistrad. Those are tribal themes. Tribal meaning has to deal with creature types, mechanically deals with creature types. So we tend to do a tribal component in almost every set. Pharaohs had minotaurs, Kantar Kier has warriors. It's something we always do from time to time, like an industrywide ramp it up and make it a sub theme. And then sometimes, like Lauren on flight, it's a major theme</v>
+
+00:01:36.190 --> 00:02:05.520
+<v Speaker 1>anyway, that is tribal as a theme. Tribal Also, is it car type? The tribal car type? Whenever we want to put a creature subtype onto a non creature, for example, have an enchantment that's a goblin or have a sorcery that's an Eldrazi, we need to use the tribal card type. I'll get in today what exactly it does and why it works the way it does. But so I'm talking about the card type. The card type was a failure.</v>
+
+00:02:05.620 --> 00:02:30.640
+<v Speaker 1>In fact, the car drives something that we kind of don't really support anymore. And I'll talk about that today. The theme, the tribal themes were up, up and running. We we do tribal that that's every set has some component of tribal, some more than others, obviously. So anyway, when I talk about tribal, the car type not working, that doesn't mean tribal the theme not working, tribal the theme doing just fine. OK, so let's go back in our way back Machine 2</v>
+
+00:02:31.510 --> 00:02:45.510
+<v Speaker 1>four win. OK, so Lorwyn was the first design, the first lead design by Aaron Forsythe back in the day. Aaron was my protege and he was going to be the next big designer and I was training him</v>
+
+00:02:46.550 --> 00:03:16.700
+<v Speaker 1>and he had done some small sets and finally it was time for him to do a large set. Now back in the day we have a lot more structure set in place so we know what we're doing with our large sets. We were a little looser back then. So here's what we knew going into Laura when we knew that there were going to be 4 sets, large, small, large small. Two of them would be Velure Win mini block, two of them would be the shadow more mini block. We knew the theme of the lower 1 mini block was going to be a tribal theme</v>
+
+00:03:16.790 --> 00:03:47.250
+<v Speaker 1>and we knew it's going to be the light to shadow Mordor dark that that that's what we know it even we didn't know for sure. Another theme of Shamar. I kind of in my head knew it was I I wanted to be hybrid, but that that wasn't even officially signed off of yet. So anyway, we were trying to come up with cool and fun things to do with the tribal theme. So on slot had done the first that was a strong tribal theme have been onslaught, which I just talked about not too long ago. And so we were trying to come back and recapture that and really, really push it to the limits.</v>
+
+00:03:47.320 --> 00:04:18.220
+<v Speaker 1>In fact, Lorwyn is the most tribal we've ever been and maybe ever will be. I think we pushed it a little too hard when I, when I get to lowland, the drafting was a little bit on rails. And you know, some issues we'll get to when I get to my lawyer went podcast. Anyway, we were trying to just make tribal work. We had agreed with the creative team on 8 creature types to focus on. Remember these? So see, it was goblin elves, merfolk with zombies,</v>
+
+00:04:19.410 --> 00:04:23.090
+<v Speaker 1>tree folk, fairies, elementals.</v>
+
+00:04:23.790 --> 00:04:33.480
+<v Speaker 1>And what was the last one? Ohh, kitchen and kitchen. So basically the idea was we had eight creature types and we were focusing on those eight creature types.</v>
+
+00:04:35.810 --> 00:04:37.000
+<v Speaker 1>Soldiers blocked something else.</v>
+
+00:04:37.700 --> 00:04:38.610
+<v Speaker 1>Anyway, I'm blinking,</v>
+
+00:04:39.810 --> 00:04:51.430
+<v Speaker 1>but the idea was we really, really wanted to focus and make it a something that we were putting a lot of energy toward. So one of the things that dawned on us while we were working on this is</v>
+
+00:04:52.810 --> 00:05:24.080
+<v Speaker 1>sometimes you have a card that clearly, flavorfully is one of the creature types. The most obvious example would be something that makes a token. Imagine a car does makes a goblin token. Well, isn't that pretty goblini? I mean, as much goblin as a goblin, right? Or you have stuff like an enchantment that maybe does something super gobbledy or makes tokens or whatever. You know, there are clearly cards that's thematically are themed and feel like they're part of that</v>
+
+00:05:24.170 --> 00:05:28.920
+<v Speaker 1>creature type. So he said, well, what if? What if we did that? What if we just</v>
+
+00:05:29.590 --> 00:05:56.460
+<v Speaker 1>put the creature subtype, you know, goblin on things other than creatures? So we went to the the rules manager at the time. So the rules manager back then was markedly. And so Mark Gottlieb, we went to him and said, OK, Mark, here's our idea. We want to put goblin subtypes on other cards in Chittenden Goblin sorcery goblin, you know, what do you think? And Mark looked at us and he said, yeah, no, we can't do that.</v>
+
+00:05:57.280 --> 00:06:11.870
+<v Speaker 1>And explain to us that you are not allowed to mix subtypes, card subtypes. So that means is each subtype has to be unique to a card type. So Goblin, because it's a creature subtype, cannot be the substance of anything other than a creature.</v>
+
+00:06:12.690 --> 00:06:23.780
+<v Speaker 1>Likewise equipment, which is an artifact subtype camping the subtype other than artifacts. You know land has shrines or whatever. Pick your favorite land sometime</v>
+
+00:06:25.350 --> 00:06:30.360
+<v Speaker 1>you have to be unique and you can't mix and match subtypes. That the rules don't allow it.</v>
+
+00:06:31.230 --> 00:07:01.240
+<v Speaker 1>So by the way, let me explain something to talk about Marcella little bit. So Mark outline now is, is the design manager. He actually worked very closely, but back in the day he was my archnemesis, the rules manager. For those who don't know, I always joked that the the rules managers, the arch nemesis of the head designer, because our our goals are very, very different. My goals had designers to do things we've never done before. And the goal of the rules manager is to do things as we've done them before. And so we, from time to time, we'll butt heads</v>
+
+00:07:04.070 --> 00:07:26.590
+<v Speaker 1>most of the nature of our roles. I mean, it is my role to try to make things seem new and different. And it is their role to try to make sure things work the way that we've already established them working. And so, you know, I'll come up with a card that says destroy target player and they'll go, that's not how we do it. It says target player loses the game. And I go, yeah, so that's not as exciting as just drawing target player and then go, yeah, but we have a rule. That's how we do.</v>
+
+00:07:27.430 --> 00:07:48.620
+<v Speaker 1>And then we'll argue back and forth. I'm like, this is different and we should do it anyway. So the difference between so our current rules manager is Matt Tabak. So I'm going to use a Star Trek analogy to explain the difference between Mark Gottlieb as rules manager and</v>
+
+00:07:49.690 --> 00:07:51.000
+<v Speaker 1>Matt Tabak role manager.</v>
+
+00:07:51.770 --> 00:07:54.760
+<v Speaker 1>Mark Gottlieb is Scotty</v>
+
+00:07:55.590 --> 00:08:25.680
+<v Speaker 1>and Matt Tabak is Jordy Laforge. So let me explain. There is a great next generation episode. So for those that don't know Star Trek, I mean hopefully know Star Trek, Scotty and Geordi were the two engineers, Scotty the original Star Trek and Jordy of the next generation Star Trek. And there was an episode where I will get into the details, but essentially Scotty ends up on the the new enterprise, the next generation Enterprise and Scotty and Jordan get get a compare notes. So at some point the captain calls down to talk.</v>
+
+00:08:25.750 --> 00:08:56.060
+<v Speaker 1>Jordan does Jordy, I need this thing done. How long will it take? And Jordy goes 3 hours, captain. And then after, you know, the captain goes away, Scott goes, OK, well, how long will it really take? And he goes three hours. And Scott is like, you can't tell the captain that, you know, you, you, you got to pat it a little bit. You got to say, captain, it'll take six hours. And then when he tells you to do it in three, he get it done in three. So I the reason I bring up this metaphor is Mark Gottlieb. Basically, when you would ask me to do something, what was I don't know if I can do that.</v>
+
+00:08:56.130 --> 00:09:27.830
+<v Speaker 1>Not sure. You know, I can't change the laws of physics, Captain. That's a horrible Scottish accent. But imagine I'm doing Scotty where Tayback history that can you do it? Yeah, I think I can. So like Matt, not that he won't tell you he can't do things, but he's pretty straightforward whether he thinks he can do it or he thinks he can't do it. Where godly would definitely would sort of always go hunting hob on how he wasn't sure it could be done and he had to push him a little bit and then, you know, he would make it happen. You know that this kind of thing, that he'd be the miracle worker that would make it happen.</v>
+
+00:09:28.550 --> 00:09:29.080
+<v Speaker 1>That's my</v>
+
+00:09:30.530 --> 00:09:31.700
+<v Speaker 1>my comparison of the two</v>
+
+00:09:33.280 --> 00:10:00.480
+<v Speaker 1>anyway. So we went to him and he's playing us. The rules couldn't do it. I mean, and he was being honest. The rules at the time did not allow this. Now remember another important thing, but the rules rules manager is that it is their job. We are constantly like by designers and I are always making up brand new stuff that has never had rules before. So the rules manager constantly have to rewrite the rules. It's not like that's not part of their job. We're going to come up stuff to the rules don't handle and they got to handle it, but</v>
+
+00:10:01.190 --> 00:10:02.940
+<v Speaker 1>it's their job to kind of gauge</v>
+
+00:10:04.510 --> 00:10:15.610
+<v Speaker 1>how is your heart something will be, um, and gotta leave. It's pretty well known for telling us he didn't think he could do it and then we we pushed him on and then he would find out a way to do it. I bring that up because it's relevant to the story.</v>
+
+00:10:16.590 --> 00:10:22.790
+<v Speaker 1>So got guys, OK, you can't do that. So we go, OK, but then Aaron's like, you know,</v>
+
+00:10:23.470 --> 00:10:53.340
+<v Speaker 1>let's not worry about whether the rules allow it or not. Let's see if we like it isn't even fun. So what we did is we started labeling all our anything that seemed like it was flavorfully connected to a creature type. We did it. Ohh. This sorcery makes you sacrifice the governors. The goblin sorcery, this enchantment makes Murphy OK, It's it's a merfolk enchantment. And we labeled them all. We started playing and what we found was there were some fun moments where I needed to regrow an elf and oh, I can regrow this elf</v>
+
+00:10:53.430 --> 00:11:00.820
+<v Speaker 1>nursery or a need to discard them a goblin like ohh I can discard this goblin enchantment. And so we played with them. We had fun.</v>
+
+00:11:01.560 --> 00:11:08.580
+<v Speaker 1>So we went to Gatlin. We said, you know what? We we played with this. I know what you're saying and we know saying that some types can't do it, but but</v>
+
+00:11:09.750 --> 00:11:12.580
+<v Speaker 1>hey, it's fun. Let's investigate. Let's look into it.</v>
+
+00:11:13.400 --> 00:11:14.800
+<v Speaker 1>And so, um,</v>
+
+00:11:15.960 --> 00:11:22.530
+<v Speaker 1>Gottlieb goes, I really guys, I, I recommend getting this. I don't think this is a good idea and we live, this is exploring</v>
+
+00:11:24.340 --> 00:11:32.370
+<v Speaker 1>and it goes really goes. I don't think it's a good idea. There's there's a lot of costs that come with doing this. I'm not saying it can't be done, but there's a lot of cost that come with it. Maybe we shouldn't do it.</v>
+
+00:11:33.190 --> 00:11:40.810
+<v Speaker 1>And we're like, ohh, OK, so we went off and we started looking for other things and we explored other avenues and eventually we're like,</v>
+
+00:11:41.980 --> 00:11:44.230
+<v Speaker 1>we didn't find anything we liked as much. So we came back and said,</v>
+
+00:11:44.830 --> 00:11:46.610
+<v Speaker 1>we really like this, we should do this.</v>
+
+00:11:47.260 --> 00:12:06.240
+<v Speaker 1>And God was like, I don't even know if we can do it. And they're like, well, let's, let's come on, let's, let's do it. Let's try to make it work together. Like, OK, OK, so he, he doesn't investigation, try some stuff out. And finally he comes back and says, OK, OK, I figured out how to do it. The problem is you can't have creature types, subtypes that don't match their car type.</v>
+
+00:12:07.730 --> 00:12:27.430
+<v Speaker 1>But since if the goal is to take creature types and put them on other things, what we'll do is we'll make a brand new car type called tribal. And what tribal does is it allows creature subtypes to be on non creatures, but you'd have to be tribal on it. So it'll have to say tribal sorcery, goblin, tribal enchantment goblin.</v>
+
+00:12:28.440 --> 00:12:42.490
+<v Speaker 1>And we're like, ohh, that sounds good. OK, OK. And at the time it was, it was a little quirky. I mean I I do know by the way for the people bring this up all the time which is tribal feels like and sounds like a super type and not a card type.</v>
+
+00:12:43.810 --> 00:12:50.950
+<v Speaker 1>I'm not a rules manager. I do not pretend to know the rules. I don't quite understand why it has to be a carpet and not a super tight.</v>
+
+00:12:51.930 --> 00:13:18.580
+<v Speaker 1>It's technical. And I think the answer was in order to have a subtype on a different card type tribal like Heather special tribal was like, I'm like creatures and I can have creature subtypes by going other things. And so I'm there as a rule support to say that if if a subtypes on the card, as long as tribal's there and it's not a creature, then it's OK or whatever, whatever it had to happen to make that work.</v>
+
+00:13:20.170 --> 00:13:31.430
+<v Speaker 1>And then to be clear, Ghalib said to us guys, I figured out how to do it. We can do it. But just because we can do it doesn't mean we should do it. I recommend against doing this. Don't do it.</v>
+
+00:13:32.510 --> 00:13:35.840
+<v Speaker 1>And we're like, ohh, this is awesome, this is fun. We should,</v>
+
+00:13:36.630 --> 00:13:40.560
+<v Speaker 1>you know, lower one could use it. Lauren really needs it. We're going to Lauren needs it. We're going to do it.</v>
+
+00:13:43.870 --> 00:13:46.510
+<v Speaker 1>And so Lauren Block had tribal.</v>
+
+00:13:47.710 --> 00:13:48.290
+<v Speaker 1>And then</v>
+
+00:13:49.330 --> 00:13:54.630
+<v Speaker 1>during the rise of the Eldrazi, we made use of it again. We we wanted to have Eldrazi spells and things</v>
+
+00:13:56.280 --> 00:14:01.970
+<v Speaker 1>because we wanted to have some interaction with it that I've Ugin I think made no want to make</v>
+
+00:14:02.730 --> 00:14:12.210
+<v Speaker 1>something something affected all drives like I moved in affected color spells. I think maybe affected draws spells. Anyway, there are a few things that cared about things being drowsy. We we, we made use of that technology</v>
+
+00:14:13.920 --> 00:14:17.740
+<v Speaker 1>and then we got to industrywide. So Industrie was the next set with</v>
+
+00:14:19.380 --> 00:14:47.230
+<v Speaker 1>the tribal component of Innistrad was not as high as either Onslaught or lower win, but it was decent. I mean, it was a significant sub theme. It was something that you could build around. You weren't forced to. It wasn't like if you drafted the set, you had to play one of the creature types, but you could. And we put some uncommon build around me. So I mean, if it's possibly something you could draft and for sure, for sure you could build casual decks around and there are even a few not so casual decks built around it.</v>
+
+00:14:48.690 --> 00:15:07.160
+<v Speaker 1>So one of the things that came up is one of my themes was zombies. Zombies had token making, so there were a number of cards that made zombie tokens. It's one of the ways I was trying to find a way to the to swarm the opponent with zombies. And so one of the ways to do that was having cards that made more than one zombie, helped to sort of</v>
+
+00:15:08.500 --> 00:15:22.030
+<v Speaker 1>decouple the number of cars, the number of zombies. Eric in development cut it back a little bit. So I had more zombie making tokens than than Eric ended up putting in the file. But anyway, I had some and some obviously stayed right a bunch, some state</v>
+
+00:15:23.400 --> 00:15:25.610
+<v Speaker 1>and zombies. Big thing was you could,</v>
+
+00:15:27.060 --> 00:15:57.430
+<v Speaker 1>you could regrow damage from graveyard. That's another way to sort of refill your zombies. So this moment happened. We're like, ohh, well, I, I, I can get back zombies. I think we had a car to let you get back 2 zombies, one creature or two zombies. And like this thing made zombies. It really felt like a zombie. So like, OK, we're going to use our tribal technology and what we found was other than the zombies, other the interaction of getting back zombies. We had all these cards that had tribal on it, but it just didn't come up much. You know, what we found was the vast majority of things that you want to care about</v>
+
+00:15:57.500 --> 00:16:27.140
+<v Speaker 1>tribally happen on the battlefield. Usually what you're doing is you are either affecting a certain tribe, you're sacrificing the tribe, you're tapping the tribe you're enchanting, you know, you're doing things that are all based in the board and there's a few effects to go outside. The two most common is either regrowing something or discarding something. But that was really the the cases that most often happen. And what we found was like 90% of the time we had the words and they didn't matter.</v>
+
+00:16:28.410 --> 00:16:37.970
+<v Speaker 1>On top of that, there was the following scenario which was let's say we have a satin which tribal matters and there is a socially mixed goblins. Well, clearly that's a goblin.</v>
+
+00:16:38.600 --> 00:17:08.530
+<v Speaker 1>Now we have, let's say we, we have another set, we want to have a goblin token. Well, that's, that doesn't have a tribal theme. Then all of a sudden, well, that doesn't say tribal on it. And so it just gets weird that like cards that are almost identical cards in some sense are tribal in some sense or not. And what we found was kind of like either committed to the flavor, he didn't commit to the flavor. And So what we really found was, OK, it was weird that we had spells that were clearly goblin spells. And sometimes they were goblin and sometimes they weren't.</v>
+
+00:17:08.760 --> 00:17:19.120
+<v Speaker 1>But if you actually we went through and like if you label them, what would happen is you would add a bunch of words which, you know, causes a little bit of confusion because you see it for the first time. You're like tribal sorcery. What's that?</v>
+
+00:17:19.740 --> 00:17:36.220
+<v Speaker 1>And most people don't understand that you can't have a sorcerer that's a goblin. So when it says tribal sorcery goblin, the goblin part doesn't tell the girl gets a goblin sorcery. That wasn't the tribal mean. And they don't realize tribal on there for the goblin part. So like, it adds words, it adds complexity, and it didn't really matter much.</v>
+
+00:17:36.950 --> 00:18:06.990
+<v Speaker 1>OK, so now, now let's get into the issue at hand, which is I talked about this during the New World Order podcast, which is one of magic. Matt, the biggest, biggest danger to magic, the thing that will kill magic, it's not design space. It's not, you know, having themes and there's all sorts of things that that we can figure out. The real problem is complexity, which is everybody who starts playing magic starts on equal footing, which is they know nothing. We have to get them to a point where they understand what's going on</v>
+
+00:18:07.270 --> 00:18:20.360
+<v Speaker 1>and what happens overtime is your game, little by little, just gets slowly more complicated. It's one of the reasons we started a new World Order and that we just have to be careful that just as we add things to the game, we got to be careful to make sure we pull things out that are</v>
+
+00:18:21.390 --> 00:18:22.060
+<v Speaker 1>carrying their way.</v>
+
+00:18:23.590 --> 00:18:43.170
+<v Speaker 1>The way my metaphor to describe this is imagine you're packing for the airport and you know that if you go over £50 that you're going to get charged extra money, a lot of extra money. OK, It's like, you know, it's $25 bag. If you're overweight, it's $50.00 or $100 or whatever. It's a lot more. And you're like, OK, I, I don't need more than 5050 lbs. I want to keep to 50 lbs.</v>
+
+00:18:44.050 --> 00:18:50.260
+<v Speaker 1>So you know, so let's say for example, you're packing your bag and you're like, oh, should I bring my bathing suit? You're like,</v>
+
+00:18:50.890 --> 00:19:20.820
+<v Speaker 1>what's the chance of me going swimming? And you say to yourself, I never go swimming. I you know, it's not the kind of thing I do on like I'd say I'm packing for business trip. I don't wanna go swimming on a business trip. You know, me with my family. I will, but you know, there really isn't much chance of it happening. Is it worth the wait to bring my bathing suit when I don't think I'm going to go swimming just for the off chance that maybe I will. I mean, in a perfect world, if they didn't weigh my my thing and I can pack as much as I could cram in, sure, maybe we'll go swimming. I bring my swimsuit. But do you know what? I don't think I'm going swimming. It's just not worth the wait</v>
+
+00:19:21.280 --> 00:19:42.020
+<v Speaker 1>that you have to look at complexity and say, is it worth the wait? Because if we go over 50 lbs, there's a there's a penalty to pay. Metaphorically, there's a penalty to pay. So we got to keep things clean. And the problem with the tribal card type was we weren't sure. Actually, we came to the conclusion that it wasn't carrying its weight,</v>
+
+00:19:42.780 --> 00:20:13.690
+<v Speaker 1>you know, that it was adding words and there was upside. The one of the things that people always whenever we make a decision, they get mad at us. So like I saw the upside. I can imagine, here's the upside. This is upside. Like it's not a matter of is there upside? Yes, yes, yes. There when we play an industry rod and I, you know, could regrow 2 of my token making sorceries with my regrow 2 zombie cards. I was happy. I was very happy. And when I got it and we didn't tribal and I couldn't get them, I was sad.</v>
+
+00:20:13.830 --> 00:20:18.780
+<v Speaker 1>And I'm not saying there wasn't benefit to be gained, but you have to weigh the benefit against the loss.</v>
+
+00:20:19.650 --> 00:20:33.530
+<v Speaker 1>Every time someone leaves the car, they got to read the text. Now I understand a more advanced player learns to ignore it, but a beginning player doesn't do that, you know? And that we have to be careful. How often do we add words to cards? Are those words doing enough</v>
+
+00:20:34.220 --> 00:20:54.810
+<v Speaker 1>work? You know, and and and manner burns other thing people got really mad about Manabond. They're like, I can come up with games where mana burn mattered. Yeah, yeah, you can. I wasn't saying the Madden burn wasn't. There was no positive aspects to manner burn. The problem was you had to learn this rule and it came up one in 100 games, you know, it just didn't come up much.</v>
+
+00:20:55.640 --> 00:21:05.430
+<v Speaker 1>And I mean, that's so one of the things in general about the creative creative, like the example I'll give here is in writing, but it's in any creative endeavor, which is</v>
+
+00:21:06.260 --> 00:21:16.330
+<v Speaker 1>the, you have to, you have to look for the well-being of the whole of the thing you're doing versus the individual elements of it. For example,</v>
+
+00:21:17.170 --> 00:21:33.170
+<v Speaker 1>I remember I was working on a screenplay and I wrote a scene between two of the characters that was just awesome. It was funny, it was really revealing. It showed the characters up and like, this is an amazing scene. This is just, it rocks. This is an awesome scene.</v>
+
+00:21:34.230 --> 00:21:38.220
+<v Speaker 1>And then one day, I'm like, I asked myself the question, would you have to always ask yourself,</v>
+
+00:21:39.010 --> 00:22:01.910
+<v Speaker 1>what happened to this movie? If I don't have the scene, does the movie work without the scene? And the answer was yes, yes, it does. That my scene didn't advance anything. Yeah, it was fun and it showed some cool character moments, but it didn't advance the plot. It wasn't necessary. And the correct answer was I had to pull it out that my movie was better for taking out this amazing scene.</v>
+
+00:22:02.510 --> 00:22:07.370
+<v Speaker 1>And this happens. Imagine all the time you come up with a great mechanic, an awesome mechanic that's fun fun fun fun fun,</v>
+
+00:22:07.970 --> 00:22:17.980
+<v Speaker 1>but it doesn't synergize with the other mechanics in the set. And the correct answer is you pull it and wait for a point in time where that mechanic will shine.</v>
+
+00:22:19.590 --> 00:22:49.860
+<v Speaker 1>And it's hard. One of the things I find with beginning designers is they want everything to be in the next set. They do. I made something, it's awesome. I want this in the next set. And what I say to them is you have to prioritize the needs of the set over individual components. You know, yes, we want awesome things, but we want awesome things that all work together in the thing we're doing. And if you've been awesome thing that doesn't quite work, save it. There will be a moment in time, Magicka Hungry Monster. There will be a moment in time where that thing is perfect</v>
+
+00:22:49.970 --> 00:22:53.680
+<v Speaker 1>and will shine and be awesome and enhance the set.</v>
+
+00:22:54.430 --> 00:22:55.960
+<v Speaker 1>And like I said, there is</v>
+
+00:22:56.940 --> 00:23:02.490
+<v Speaker 1>one of the things about talking about, about rewriting or, or recrafting or fine tuning or iteration is</v>
+
+00:23:03.470 --> 00:23:29.880
+<v Speaker 1>getting rid of the things you don't like is not hard. It's getting rid of things you love. You know, it's easy getting rid of things you hate. It's hard to get rid of things you love. But part of of doing any kind of design is looking out for the good of the design as a whole rather than looking out for the good of the pieces. That you can't look out for the good of the pieces that if your thing is awesome but it doesn't contribute, then it's got to go.</v>
+
+00:23:31.100 --> 00:23:48.810
+<v Speaker 1>Yeah, I think tribal is that which is there is moments in tribal that are awesome. You know, there was moments in Laura when that were great where the fact that, you know, things that non creatures got to count his creatures. There were moments of true, of true brilliance, of true genius, of just awesome moments.</v>
+
+00:23:49.460 --> 00:23:49.970
+<v Speaker 1>But</v>
+
+00:23:50.620 --> 00:24:20.490
+<v Speaker 1>it didn't happen enough. It wasn't valuable enough. It didn't. It just it can't carry its weight. And so we came to the conclusion, I mean, industries where I figured it out in the triad, what it had a tribal theme that was pretty big and it wasn't as big as on flight or lower one. But I mean, it was a significant theme. You know, if we were going to care, that's the kind of set we do care on. And it just wasn't carrying its weight. It just didn't matter most of the time. And I, we don't have the luxury of adding words</v>
+
+00:24:20.560 --> 00:24:23.950
+<v Speaker 1>on cards because some small portion of the time it can matter,</v>
+
+00:24:24.740 --> 00:24:26.480
+<v Speaker 1>you know, and remember that it,</v>
+
+00:24:27.200 --> 00:24:33.010
+<v Speaker 1>you don't judge things based on their best case scenario, you have to judge things based on</v>
+
+00:24:35.940 --> 00:24:48.490
+<v Speaker 1>day-to-day what happened. You know that it's funny because one of the things people want to do, and this is very, very human of people is to look at the best case scenario and go that best case scenario was awesome.</v>
+
+00:24:50.230 --> 00:25:19.640
+<v Speaker 1>And they, they just gloss over the the worst case scenario. And the answer is you have to be aware of how often something happens, good versus bad, that if you're awesome, awesome thing happens really infrequently and you're not awesome thing happens all the time. You have to think about that. You know, now that there are there are times and reasons where you want things maybe that aren't as awesome. And I'm not saying sometimes those can't work, but you have to be careful. And this is a good example of something which</v>
+
+00:25:19.990 --> 00:25:32.000
+<v Speaker 1>it had its moments of genius and moments of awesomeness, but the vast majority of the time wasn't pulling. It wasn't. It was not contributing. It was just adding complexity for the sake of complexity without doing anything.</v>
+
+00:25:34.010 --> 00:25:56.700
+<v Speaker 1>And there was have it's with heavy heart. I mean, the real lesson here is, um, Gottlieb was right. We should have listened to Gottlieb that when he understood at the time, Oh, so here's another cost that people don't even realize. It's a cost we had to pay before we added tribal. You would say all goblins get plus 1 + 1.</v>
+
+00:25:57.450 --> 00:26:07.840
+<v Speaker 1>But now because there exists the possibility that the goblins you're referring to might not be creatures, you now have to say all goblin creatures get plus 1 + 1.</v>
+
+00:26:09.010 --> 00:26:12.810
+<v Speaker 1>Now you might say, ohh, whatever, it's a word. But</v>
+
+00:26:15.070 --> 00:26:27.830
+<v Speaker 1>you know, complexity nibbles, nibbles at you. You know, it's, it's, it's very, very easy to avoid the Super complicated individual thing. The way complexity gets you is by nibbling you to death. It's like, oh, it's just a word.</v>
+
+00:26:28.450 --> 00:26:37.730
+<v Speaker 1>It's just a word here, just a word there, maybe a couple of words there. And then before you know it, you've added, you've added a lot of complexity without even realizing it. And</v>
+
+00:26:38.460 --> 00:26:45.410
+<v Speaker 1>I mean, it's funny. I, I know some people think like I'm, I'm paranoid about complexity, that, you know, I worry too much. And the answer is</v>
+
+00:26:47.730 --> 00:27:18.820
+<v Speaker 1>magic is a complex game, a very complex game. I find it funny that people feel like I'm gonna take all the complexity out of magic. I'm like as if something, something is possible. I mean, I talked about this, I talked with another podcast. My metaphor sometimes is I compare complexity to a fire. And then I feel like some people compared to like, like kindling, like we're trying to start a campfire and Oh no, we're not careful. The, the wind will blow it out and then you'll have no fire. And I'm like, no, it's a little bit more like a raging 5 alarm fire where D is like, how do we keep this from burning down the building?</v>
+
+00:27:19.540 --> 00:27:48.590
+<v Speaker 1>Magic has plenty of complexity. There is no lack of complexity in magic. Nobody's ever going to go, oh, this game just too easy. There's just nothing to think about. And So what I'm being cautious about complexity. It's not because the game can't and shouldn't have complexity. I'm just trying to cap how much, especially of how much of the a certain type of complexity. I'm I'm lenticular design. There's lots of ways to add complexity and that's not going to cause a problem for beginners. And those are the kind of things we need to</v>
+
+00:27:48.930 --> 00:28:19.040
+<v Speaker 1>put more energy on. But things like just excess words, look, that hits beginners where it counts. And that's really important. And you got to be careful on it. One of these days, I'll talk about word count. That's one of our metrics anyway. But my point is today is that the tribal mechanic was something we tried. It was a noble experiment. Looking back on it, it was a failed experiment. And you know, I want you to understand that not everything we do works.</v>
+
+00:28:19.130 --> 00:28:33.580
+<v Speaker 1>It's not like we try something. Man, that was awesome. Sometimes we try things and they fail. And that part of this job is understanding and recognizing when things work and when things don't. And Tribal, while noble and has its moments of brilliance, was utterly a failure.</v>
+
+00:28:34.190 --> 00:28:42.680
+<v Speaker 1>And that, my friends, is the final. I now have finished my series on the card types. That is, until we make a new card one of these days.</v>
+
+00:28:44.230 --> 00:28:44.920
+<v Speaker 1>But uh,</v>
+
+00:28:46.940 --> 00:28:49.920
+<v Speaker 1>my, my final caveat in this is that I,</v>
+
+00:28:51.530 --> 00:28:52.010
+<v Speaker 1>I mean,</v>
+
+00:28:52.890 --> 00:29:05.320
+<v Speaker 1>I don't regret when we try things. I'm a little sad that we change some language that can't get changed back that we forever have to say Galvin creatures. That means a big loss that we can't, that's not easily undone.</v>
+
+00:29:07.120 --> 00:29:37.200
+<v Speaker 1>But I, I'm not against trying things like, like one of the things that I truly believe is if you never make mistakes, you're not trying hard enough. That part of pushing the envelope and part of taking risks is not every risk can work out. And if you only take risks that work out, you're really not trying enough risks. And so I'm not upset that we did tribal. I do like the philosophy behind that gets us to do what we did. I mean, in this particular case,</v>
+
+00:29:37.580 --> 00:29:57.220
+<v Speaker 1>maybe we should listen to Gottlieb. I mean, he did spell out the problems ahead of time and they all came to be. So anyway, that, my friends, is everything there is to know about the tribal mechanic. But I just parked my car, which means, yes, my friends, this is the end of Drive to Work. So thank you very much for joining me and I'll talk to you next time.</v>
+

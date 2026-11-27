@@ -1,0 +1,596 @@
+WEBVTT
+
+00:00:00.790 --> 00:00:31.280
+<v Speaker 1>I'm pulling in my driveway. We all know what that means. It's time for him to drive to work. OK guys, so today is the 17th in my series of 2020 year 20 lessons, 20 podcasts. And so I did a talk at GDC back in 2016 and it, I talked about 20 lessons I learned during the 20 years I had of Making Magic. And I've been doing a podcast on each lesson. So we're up to #17 you don't have to change much</v>
+
+00:00:31.380 --> 00:00:32.650
+<v Speaker 1>to change everything.</v>
+
+00:00:33.990 --> 00:00:44.180
+<v Speaker 1>So I always start this by talking about a magic example. So this one talks about the creation of Ravnica. So what happened was</v>
+
+00:00:45.440 --> 00:01:15.110
+<v Speaker 1>we for many years, magic would just make themes. You know, the themes would be like just we'd make 2 mechanics. And then we eventually got to a site called Invasion. We're like, well, what if, what if there's a theme? What if there was a theme to the set? Rather than just, oh, it's these two mechanics that may or may not even be connected. What if there was an actual theme in the mechanical connected to the theme? And Invasions theme was multicolor and it went over really well.</v>
+
+00:01:15.210 --> 00:01:45.200
+<v Speaker 1>So then we did Odyssey and its theme was the graveyard and we did Onslaught and its theme was tribal and we didn't mirror in it's the theme was artifacts. And we the Champions come and go. And this theme was a top down Japanese flavor. So anyway, we eventually get to Ravnica and Ravnica the idea was enough time had gone by that we wanted to do a multi color theme again. But this is the first time we've ever repeated a theme. And so my goal was</v>
+
+00:01:45.340 --> 00:02:04.450
+<v Speaker 1>I wanted to both do the theme, but be as different from the last set that did the theme as that O the previous set that had done the theme was invasion. So Invasions multicultural theme really was like play lots of colors introduced the domain mechanic where the more basic land types you have, the larger the effects were,</v>
+
+00:02:05.700 --> 00:02:09.480
+<v Speaker 1>and it just did a lot to encourage you to play a lot of different colors.</v>
+
+00:02:10.580 --> 00:02:40.360
+<v Speaker 1>So I started rounding it literally by saying, how could I do a multicolor set that's as far away from invasion as I could get. And so the idea was, well, Invasion was played lots of colors. So what if Ravnica was play few colors? Now obviously the multi color set, so mono color is not multicolor. So the theme couldn't be playing mono color. Then it's not a multi color set. So like, OK, what's the smallest multicolor thing we can have? Two</v>
+
+00:02:40.540 --> 00:02:40.860
+<v Speaker 1>regular</v>
+
+00:02:42.120 --> 00:03:11.600
+<v Speaker 1>and so basically the the set started with the real simple of instead of playing five color play 2 color invasion push you through playing four and five colors. OK, let's that will push you toward playing two colors. That's where I started. And obviously for those that know Ravnica, I mean, from that we got the idea of let's represent all the 10 two color pairs equally, which led us to the idea of representing them flavorfully, which led to the Guild, which led to the model of, you know, the block had four</v>
+
+00:03:11.670 --> 00:03:41.950
+<v Speaker 1>334 girls and three girls and three L, So not every set had every gild in it. So a lot of stuff came up, but it really came out of a very simple premise, which is just, OK, let's push toward two color. And here's the thing about it is nobody would confuse Invasion of Ravnica. Yes, they both have a strong multi colored theme. They both have lots of multi colored cards, but the sets ended up having really, really different feels to them. And the point was it wasn't as if I really changed much. I really changed</v>
+
+00:03:42.020 --> 00:03:54.900
+<v Speaker 1>one tiny aspect. Now it was an important aspect, but the point is changing that one thing changed so much about the identity of the sets. And the lesson I really learned there, lesson I'm talking about in this thing is</v>
+
+00:03:56.610 --> 00:04:02.600
+<v Speaker 1>it gets to a metaphor that I use. I'll now I'll now segue into my metaphor. So my metaphor is</v>
+
+00:04:03.970 --> 00:04:21.630
+<v Speaker 1>I often my wife Laura is a very good cook and Laura most often time Laura will cook. I do some cooking. The joke is that I'm her sous chef. I'm more likely to like brown the meat or prepare the sauce or something. But</v>
+
+00:04:22.410 --> 00:04:23.540
+<v Speaker 1>I'm not</v>
+
+00:04:25.190 --> 00:04:52.250
+<v Speaker 1>of the of, of my wife myself. I am the less culinary, culinary skill the person. So usually as the sous chef, if you will, I prepare the things that go along with the meal. So one of my jobs is to prepare the vegetables. So the vegetables is we have frozen vegetables and we make a boiling pot of water and you put the vegetables in the water. Not real complicated. Why, it's really well suited for me.</v>
+
+00:04:53.560 --> 00:05:23.740
+<v Speaker 1>So anyway, there's a dynamic that I learned about making peas. So this is what happens every time I make peas. Make peas with the world. OK, So what will happen is I'll boil the water and then I get out of the bag of frozen peas and I put some peas in the pot. And then I look in the pot. I'm like, that doesn't seem like a lot of peas. So I'll put more peas in the pod and then I'll go, well, Nah, it still doesn't look like a lot of people. I'll put more peas in and they're like,</v>
+
+00:05:24.240 --> 00:05:53.890
+<v Speaker 1>maybe that's enough peas, but I'm like, well, what if I'm misjudging? If I don't make enough peas and we'll run out of peas and one have peas, OK, I'll put more pieces. I put more peas in and then I'm like, ohh, I probably have enough piece. I probably do. But like if I air toward too many peas, that's better than having enough P's. Maybe just to be on the safe side, I should add more peas. And then and then it's on the I'm ready to put the bag away. I'm like, well, and put like another handful of piece. OK. And then what happens is I always made too many.</v>
+
+00:05:53.960 --> 00:06:23.870
+<v Speaker 1>They always made too many peas. Would you think would influence me to not make as many peas in the future as as if I would learn from my lesson of making too many? But I it does not. So I always made too many pets. I always like whenever I prepare the Pizza Hut in the ball, like they barely fit in the ball and the ball is way more than we need. So it's just too many peas. So the reason I bring that metaphor up 1 is to show embarrassingly how bad I am in making peace. But the real reason to show that is there's this inclination, there's this worry that I think people have in game</v>
+
+00:06:23.970 --> 00:06:54.280
+<v Speaker 1>design that there's not enough. I haven't put enough in my game. There needs to be more. My games not it's missing things. And you know, and there's a general thought that has the same sort of philosophy. I think I have my peas, which is this idea of I better air on the side of having more. I don't want to have not enough. I better make sure there's more. And I'm not sure I'll just put more in. And the idea essentially is this sort of philosophy of it's better to err toward more than air toward less,</v>
+
+00:06:56.390 --> 00:07:05.650
+<v Speaker 1>that I think game designers treat their components like I treat peas. But there's some problem with that. That is the idea. Like</v>
+
+00:07:06.420 --> 00:07:21.260
+<v Speaker 1>that a lot of my lessons are taking things that seem to make sense and realizing they are fundamentally flawed. They don't make sense. So the idea here is ohh, why it's better for me to error on too much than air on not enough.</v>
+
+00:07:21.940 --> 00:07:51.950
+<v Speaker 1>And my point today is no, in this case in P's not that big a deal. I waste some peas. But in actual game design, it is a problem. OK, so why why is that a problem? Why is having a little bit more a problem? OK, let's run through the many reasons this is a problem. So number one is complexity. So I talk about this all the time. The goal of your game is to have enough complexity that there's some richness to it, but not so much that it gets in the way of your</v>
+
+00:07:52.020 --> 00:07:57.360
+<v Speaker 1>game that it gets in the way of people enjoying your game. Now the one of the interesting things is</v>
+
+00:07:58.230 --> 00:08:06.610
+<v Speaker 1>I happen to work on a very complex game. I work on a game made for gamers that is, and we are</v>
+
+00:08:07.400 --> 00:08:09.580
+<v Speaker 1>constantly struggling with complexity.</v>
+
+00:08:11.240 --> 00:08:41.070
+<v Speaker 1>But the baseline of the game I'm talking about is just complex. Most games do not want to aim at the complex you level of magic. Magic is an insanely complex game and even then magic, we tried really hard to make sure that the base element of the game stays as simple as possible. But what I'm saying is when you're making a new game that every level of complexity you add to your game becomes a barrier to your game. It becomes a barrier or somebody playing your game and that it is</v>
+
+00:08:41.220 --> 00:08:48.150
+<v Speaker 1>very easy to look at some existing examples, you know, saying and say, well, there's games I love and they are complex, but</v>
+
+00:08:48.970 --> 00:09:18.440
+<v Speaker 1>you are hurting yourself. Like first of all, if your game is successful, if you're game becomes something that lasts the test of time, what normally happens is you have the opportunity to later on for true, true fans of the game to add extra elements on that can come later. But when you're making a game out of the gate, complexity is a real, real issue that every time you add something like one of the things to think about is a day of metaphors is</v>
+
+00:09:19.580 --> 00:09:24.370
+<v Speaker 1>there's a great metaphor they talk about in Zen about how</v>
+
+00:09:25.950 --> 00:09:34.110
+<v Speaker 1>there's a like a Zen master and a student and the student has he the symmetric gives the student a teacup</v>
+
+00:09:34.800 --> 00:09:37.380
+<v Speaker 1>and it goes, would you like some tea?</v>
+
+00:09:38.540 --> 00:09:40.600
+<v Speaker 1>And he pours a little bit tea in the cup</v>
+
+00:09:41.940 --> 00:09:43.340
+<v Speaker 1>and um,</v>
+
+00:09:44.210 --> 00:09:45.540
+<v Speaker 1>so then the student,</v>
+
+00:09:47.050 --> 00:10:01.490
+<v Speaker 1>he, he, he pushed just a little bit of things. Would you like more tea? And the student looks this, there's not much tea in it. So the students, yes, I would like more tea. And so he pours and he keeps pouring till the cups overrunning with tea.</v>
+
+00:10:03.600 --> 00:10:04.930
+<v Speaker 1>And then he says, is</v>
+
+00:10:05.560 --> 00:10:36.480
+<v Speaker 1>there? There's a point in which you can't have more tea. You must drink the tea you have before you can have more tea. And the idea is, I always like to think of the teacup as sort of the players mind. There's only so much they can grasp and that when you exceed what they can grasp, all you're doing is forcing them to exclude things. Like when you make a game too complex, what you are doing is you're saying to the person playing, either you make them quit, which is not good, or you make them choose things not to care about. And here's the problem,</v>
+
+00:10:36.580 --> 00:11:06.570
+<v Speaker 1>when they choose things not to care about, you're not going to get to choose what those are. They're going to choose. And what that means is they're changing the nature of your game, often for worse, because maybe the things that really matter, they won't understand. And so maybe the things they choose to ignore are the things that are important. I talked before one of my lessons of make sure the players can find the funding in your game. Well, the more complex you add, the more you kind of hide your fun, the more chance there is that they go down the wrong path, or they see the wrong thing, or they make</v>
+
+00:11:06.650 --> 00:11:26.540
+<v Speaker 1>wrong assumption. You know, the more the chance that the thing they decide not to do in your game is the thing that's the most important thing in your game. The part of guiding someone in your game as a designer is not giving them just enough choices that they experience the game as you want them to experience it. It is so</v>
+
+00:11:27.960 --> 00:11:43.590
+<v Speaker 1>the the, the the, the. The flaw in the thinking here is that if I give them all these things to explore, they will explore the mall. It'll make a richer experience. And the true answer is if you give them too much to explore, they don't know where to go.</v>
+
+00:11:45.660 --> 00:12:14.010
+<v Speaker 1>And the idea essentially is, so I'll borrow a little bit from UI design here, jumping around. So UI is user interface is the idea of I'm making a video game and I want the player to do something. And what they've discovered is what they called decision paralysis is if I give you too many options, you just freeze up. That what you want to do is you want to give people a few options.</v>
+
+00:12:15.580 --> 00:12:23.850
+<v Speaker 1>Like one of the things for example, when the iPhone first premiered that was a big was a crazy idea at the time was there'll be 1 button.</v>
+
+00:12:24.660 --> 00:12:44.990
+<v Speaker 1>There's one button on all the screen. There's one button. So what do I do? Well, if I'm not sure, I'll press the one button. If there's 18 buttons, which button do I press? 1 button? OK, I'll press the one button. And so one of the dangers of just adding too much is that there's</v>
+
+00:12:45.850 --> 00:13:08.640
+<v Speaker 1>all sorts of sort of dangers of how people interact with their product, how they understand the product, you know, sort of them learning your product, them having the experience that you want. So extra complexity causes all sorts of problems. There's also, I mean, I could do a whole podcast and just the dangers of complexity. Sure, one day I will because it's a fine topic. But anyway, it adds complexities. The number one, it adds complexity. That's the problem</v>
+
+00:13:09.350 --> 00:13:13.020
+<v Speaker 1>#2 it muddies your message.</v>
+
+00:13:14.050 --> 00:13:17.500
+<v Speaker 1>And what I mean by that is, UM,</v>
+
+00:13:19.090 --> 00:13:49.360
+<v Speaker 1>the same, I'm sorry, sorry, sort of a similar point. If I, like I said on user interface, if I give you 18 buttons, you don't know what to do. So there's a confusion factor, but also I don't know what matters. I don't know what's important. Like one of the things about having sort of some cleanliness to your game is you get a focus on the things that matter. I talk a lot about finding the fun that you want the audience to find the fun of your game. So part of it is you buddy, your message, they don't know what the fun is, but also they might not know. Like one of the things in general,</v>
+
+00:13:49.780 --> 00:14:19.790
+<v Speaker 1>I talk a lot about aesthetics. I talk a lot about the cleanliness that you want things to feel good and feel right, but you also want to clean and clear message. What is your game about? So for example, if I say to somebody, what is your game about? And they say it's about these four things, they go, well, it's about one of those things, you know, you're game can't be about everything because if you're about everything, you're about nothing. You know, for example, one of the things they teach you in writing and we write scripts and stuff</v>
+
+00:14:19.920 --> 00:14:31.820
+<v Speaker 1>is that you want to be able to sum up what your screenplay is about. Usually this is true for stories. I guess I'm just talking about screenplays is do you have</v>
+
+00:14:33.050 --> 00:14:42.480
+<v Speaker 1>one send summary? Do you have one paragraph summary? Do you have like a two paragraph summary? And even you can go short in one sentence, you can do like what's</v>
+
+00:14:43.890 --> 00:14:46.700
+<v Speaker 1>one or two words. And the idea essentially is,</v>
+
+00:14:47.950 --> 00:15:17.780
+<v Speaker 1>is your idea simple enough that you can condense it down? Because your idea is so complex that you can't condense it down, you start having messaging problems. And one of the big things about games in general, and when you're making a game, especially the first time someone plays your game, but even before they play the game, when sitting on the shelf for when you're trying to get other people to convince them to play it, that the cleanliness of the message. What is your game about? Like Magic, for instance, for instance, one thing that I like a lot is at its course, like it's about</v>
+
+00:15:17.890 --> 00:15:48.330
+<v Speaker 1>fighting with magic. There are three words fighting with magic. Well, that sounds cool. I'd like to do magical things and fight with other people and who a magical duel, that sounds fun. Now there's a lot else going on there, but there is a cleanliness of what the message is and what's going on. So another thing that when you add in too many components is you just muddy your message. You make it harder to convey something because as you add more things, there's just it makes more paralysis and people have less idea of what you're doing.</v>
+
+00:15:48.510 --> 00:15:52.520
+<v Speaker 1>So it is a really, really important that when you make something, you</v>
+
+00:15:53.880 --> 00:16:03.670
+<v Speaker 1>one of the things that to think a lot about that when you make your components and make your pieces in your game is that each thing needs to stand on its own. I talk a lot about</v>
+
+00:16:04.980 --> 00:16:14.810
+<v Speaker 1>in writing this principle that if it can exist without it, it should exist without it. That if you can pull the scene from your movie, and the movie makes perfect sense without your scene, pull it.</v>
+
+00:16:16.180 --> 00:16:18.600
+<v Speaker 1>Games have the same basic idea, which is,</v>
+
+00:16:19.310 --> 00:16:45.500
+<v Speaker 1>does the game need that element? If you can pull that element out of your game and your game is just as fun, is that element serving its purpose? Is it doing something? And one of the hardest parts of the creative experience, and this is true in writing, it's true in game design, is you, the person, the creator, fall in love with your creation. You birthed it. It is from you. It is something that really means a great deal to you,</v>
+
+00:16:46.270 --> 00:16:54.500
+<v Speaker 1>and the idea that something you made that is beautiful and wonderful isn't. Servicing the purpose of what you're doing</v>
+
+00:16:55.210 --> 00:16:59.520
+<v Speaker 1>really takes time and energy and and and growth to learn and understand.</v>
+
+00:17:01.370 --> 00:17:11.000
+<v Speaker 1>One of the things they talk a lot about in writing is expression. They call killing your darlings and what it means is part of becoming really good.</v>
+
+00:17:11.810 --> 00:17:22.160
+<v Speaker 1>This is sort of any art I'm just using writing here, but is of you understanding the purpose of what you're doing and that you don't fall in love with creations in a vacuum.</v>
+
+00:17:23.270 --> 00:17:23.640
+<v Speaker 1>Like</v>
+
+00:17:25.320 --> 00:17:34.040
+<v Speaker 1>a real common thing that happens is you're writing a comedy and you come up with a funny line. It's a funny line. It's a funny, funny line.</v>
+
+00:17:34.850 --> 00:18:04.940
+<v Speaker 1>But the problem is in order to set up the funny line, you need a certain, like there's a certain conceit to the scene to make, to make the line work so well. OK, in order to set up the line, I got to do this. And in order to make that just. And what you'll find is you add a lot of extra stuff to make the joke work, to make the joke fit. And then you realize is, is it worth that? Is that one really good joke worth all the trouble that comes with it? And in general, when you're adding components and you're adding pieces to it,</v>
+
+00:18:05.070 --> 00:18:17.200
+<v Speaker 1>you have to understand the net overall effect, because what happens is people often look at the thing in a vacuum. That joke is funny. Ooh, that joke. That joke is funny. That's a funny joke</v>
+
+00:18:17.800 --> 00:18:48.070
+<v Speaker 1>and they don't realize is, well, how much did you add to make that joke work? Did you add a whole scene so you could do the joke? Did you change the element of the character arc? You know, did you did you have to tweak something to justify it and make it work? And so a lot of times when you add a component, you can't just judge the component in a vacuum. You have to judge that component in the larger picture of what does it mean to have that component? What am I sacrificing to have that component? How does it affect other things around it? It doesn't live in a vacuum. No, peace lives in a vacuum.</v>
+
+00:18:48.350 --> 00:19:13.030
+<v Speaker 1>And so when you're judging and evaluating things you can't look at by itself, it can't just be oh, and here's a really common mistake Young game does or notice game designers make, is they put an element in their game and they have a game with it in which that element is wonderful. Oh, it's so much fun. And then what they say is, Oh well, I've played with this element and it's a lot of it really does enjoy, but it really made the game more fun.</v>
+
+00:19:15.030 --> 00:19:41.310
+<v Speaker 1>And what they miss is that you tend to focus on the thing you see and you don't focus on the thing you don't see. So sometimes, for example, you'll make a component and when the component gets used is a thing of beauty. The game is so fun, but when it's not used, it's absence causes problems or the things you have to do to try to do it and sometimes not do it</v>
+
+00:19:42.140 --> 00:20:12.050
+<v Speaker 1>make for unfun games. Like one of the things you do in play testing is it's easy to figure out when something is fun because you're doing it. That's easy to figure out. It's easy to figure out when something is not fun because you're doing it because look, I'm doing this is not fun. One of the hardest things to understand is when something is not fun because of the absence of something that here's this thing that it's not there, but because I'm trying to get toward it or I'm aiming at it.</v>
+
+00:20:12.120 --> 00:20:18.120
+<v Speaker 1>Or I know I need to care about it, that it is warping how the rest of the game is played.</v>
+
+00:20:20.030 --> 00:20:32.550
+<v Speaker 1>And that's something that I imagine, as I would do a lot, where I'm trying to add a new element. One of the things about designing a game that keeps changing itself is, OK, now you don't care about thing X, and the thing you have to figure out is</v>
+
+00:20:34.390 --> 00:20:38.950
+<v Speaker 1>what happens to game in which I care about thing X but don't get thing X,</v>
+
+00:20:39.670 --> 00:20:56.840
+<v Speaker 1>right? Like it's very easy to think about game XY. I get game, you know, like I try to make thing X happen and I made things happen, Yay. OK, Is it fun to try? That's an important thing with any component is the act of not getting it but trying to get it fun</v>
+
+00:20:57.710 --> 00:21:13.890
+<v Speaker 1>is the fact that there's this dangled carrot. If I don't get the carrot, am I having a good time? And that's a really big red flag. If there's a thing that getting it is fun, but trying to get it as unfun, that is a big problem. So be aware of that.</v>
+
+00:21:15.220 --> 00:21:17.860
+<v Speaker 1>OK, Next, um</v>
+
+00:21:18.850 --> 00:21:27.300
+<v Speaker 1>is ohh. So, and this one is has to do. This is one of those things that is a long term problem, but it's something to think about, which is</v>
+
+00:21:28.320 --> 00:21:31.200
+<v Speaker 1>if I use stuff here that I don't need to,</v>
+
+00:21:32.190 --> 00:21:50.330
+<v Speaker 1>I don't get to use it later. This comes up in my work all the time. Now. I'm also making a game where we keep making the game that one of the things that I have to worry about is if I overstuff a set. If I put extra stuff in a set, meaning I exceed beyond what I'm capable of doing, then I'm just causing problems for myself.</v>
+
+00:21:51.950 --> 00:21:53.080
+<v Speaker 1>So for example,</v>
+
+00:21:54.530 --> 00:22:00.240
+<v Speaker 1>the the metaphor I will use here is I have a friend and I want to get them a gift.</v>
+
+00:22:01.550 --> 00:22:02.320
+<v Speaker 1>It's their birthday.</v>
+
+00:22:03.410 --> 00:22:09.000
+<v Speaker 1>I find something awesome, an awesome gift. They're going to love the gift.</v>
+
+00:22:10.550 --> 00:22:14.610
+<v Speaker 1>Now I then find a second gift. Oh, they're really going to love that gift.</v>
+
+00:22:15.680 --> 00:22:16.130
+<v Speaker 1>So</v>
+
+00:22:17.180 --> 00:22:20.450
+<v Speaker 1>I could just give them both things,</v>
+
+00:22:21.240 --> 00:22:22.200
+<v Speaker 1>or</v>
+
+00:22:23.010 --> 00:22:27.650
+<v Speaker 1>I could give them one of them and save the other one and give it to them for the holidays or their next you like</v>
+
+00:22:29.300 --> 00:22:42.950
+<v Speaker 1>sort of giving them both gifts causes all sorts of problems now that it will make them happy. Maybe they'll really like both gifts, but a it makes the next gift buying harder. I've made a harder bar to clear</v>
+
+00:22:43.760 --> 00:22:58.320
+<v Speaker 1>and I have to find another thing. I had a thing, you know, would they have been happy with the one thing and not the second thing? If the answer is yes, it's sort of like, well, maybe I don't need to give them the second thing. And the other interesting thing is</v>
+
+00:22:59.680 --> 00:23:01.180
+<v Speaker 1>when we talk about happiness,</v>
+
+00:23:02.450 --> 00:23:13.540
+<v Speaker 1>people want to think of it as a scale, like like, like it's linear in that the more happiness the better. But that's actually not how humans function. So the way that humans function is</v>
+
+00:23:14.790 --> 00:23:16.120
+<v Speaker 1>there's a threshold.</v>
+
+00:23:17.340 --> 00:23:25.560
+<v Speaker 1>If I make you 2 times as happy, that doesn't mean your If I give you 2 times as many things to be happy about, that doesn't mean I make you twice as hay.</v>
+
+00:23:26.560 --> 00:23:56.850
+<v Speaker 1>What happens essentially is the first thing, like let's say I give you a gift that you love. I'm going to go up a certain level. The second thing, because it's like you're already happy. Like my ability to make you happier goes down once I've made you happy in the 1st place. It is not as if two things make you choice as happy. So they're, they're sort of like every level just makes it a little bit happier. And when you're talking about happiness and game design, there's a threshold that I care about, which is</v>
+
+00:23:56.930 --> 00:23:58.020
+<v Speaker 1>did I make you happy?</v>
+
+00:23:58.910 --> 00:24:18.080
+<v Speaker 1>I don't care. Once you're happy, once they made you happy, you want to be careful not to say, well, I want to have three increments like I, I want to exceed the happiness quotient by X amount more. And the answer is, once you make them happy, once you reach the point where they enjoy your game, anything else you're doing to them,</v>
+
+00:24:19.750 --> 00:24:25.550
+<v Speaker 1>even if you're sort of slowly incrementing up their happiness, are you really doing yourself a favor?</v>
+
+00:24:26.190 --> 00:24:38.260
+<v Speaker 1>All you're doing is sort of raising expectations and you're not necessarily making them that much happier. That, for example, I use my friend's gift thing. So let's say I find a gift they love. I find the second gift they love.</v>
+
+00:24:39.010 --> 00:25:02.490
+<v Speaker 1>And then finally the photo gift is really hard. So let's walk through the experiences we have here. So experience 1 is so let's say it's their birthday and then the holidays that you get them two gifts a year. So it's their birthday, you get them gift 10. They love it, they love it, they love it, they're so happy. Come the holidays, you give them gift too. Oh, they love that too. They're so happy. And in general, they had awesome year. They had a really great year. So happy.</v>
+
+00:25:03.180 --> 00:25:32.850
+<v Speaker 1>OK, version 2, I give them GIF one at their birthday. Ohh, they're happy. And then I didn't give 2, they're happier. OK. Then come the holidays, I give them a gift that's not particularly great and they're like oh, oh, thank you very much. OK, so now their birthday, they were a little bit happier in version B than version A, but in version B they weren't happy with the holidays. You didn't give me a gift they particularly liked. So it's kind of like they were happy and a little extra happy and not happy versus happy</v>
+
+00:25:33.100 --> 00:25:53.430
+<v Speaker 1>and happy. So which of those two experiences the better experience? Clearly the first one you just you, you made two happy experiences instead of 1 slightly happier experience and one not happy experience. So one of the things of using extra pieces and stuff is it's a resource. Every piece you use in the game is a resource. Now,</v>
+
+00:25:54.270 --> 00:26:25.060
+<v Speaker 1>I understand if you're making game and that's it and there's never anything else. But I will say this about successive gives, you never know where things are going. Like one of the things is Richard obviously knew there was a chance that the game could be popular, but Richard had no idea that magic would come what it did. I mean, it was a runaway crazy phenomenon, success that just doesn't happen normally. But the point is, Richard didn't know. Richard had an amazing game. He thought he had an amazing game. He thought some people would really, really like it. He still had no idea that it would be what it became.</v>
+
+00:26:25.140 --> 00:26:42.130
+<v Speaker 1>And the and the point there is nobody does. You're not going to make a game and go, Oh well, this is the next thing. This is the next hot phenomenon. No one knows that. I mean, even if you're a super proud of your game and you have a lot of faith in your game, there's so many factors that contribute to that. You don't know. So one of the things is</v>
+
+00:26:43.370 --> 00:27:12.980
+<v Speaker 1>any game could hit the jackpot. And if that's the case, there's a good chance that you will need more for the game. So the idea is I just want to spend everything is wrong. OK, but wait a minute. Some of you might be saying, but I don't want to undershoot. I don't want to not excite people. And this big fear of like, oh, I don't make a game. People go yawn. And I was holding stuff in the tank that seems wrong. So OK, yes, there is. And This is why you play test. One of the reasons is you want to make.</v>
+
+00:27:13.050 --> 00:27:16.190
+<v Speaker 1>There's enough stuff there that people get excited. I'm not saying</v>
+
+00:27:17.100 --> 00:27:31.690
+<v Speaker 1>hold back things to the point where your game isn't exciting. It's not what I'm saying. But what I'm saying is do your due diligence, do your play testing, work with people and figure out what makes them happy. Now, sometimes there's a combination of things that make them happy.</v>
+
+00:27:33.050 --> 00:27:54.630
+<v Speaker 1>I'm not saying today never, ever have multiple components or never. You know, what I'm saying is be judicious in how you use your components. Everything in your game has to sort of pass its own test in its own muffler and has to do its element in the game is additive, making the game better and in a way that's not an embarrassment of riches.</v>
+
+00:27:57.010 --> 00:28:14.160
+<v Speaker 1>Now, like I said, most games the problems I see is not there's so many awesome things, how do you fit them all in? To be honest, mostly what I see is some cool things and some things that are filling space and not really doing anything. Like for example,</v>
+
+00:28:16.060 --> 00:28:24.990
+<v Speaker 1>I haven't looked at tons of novice designs. I've had a few opportunities in my job and the one common thing I tend to see on novice designers is</v>
+
+00:28:27.720 --> 00:28:28.460
+<v Speaker 1>they</v>
+
+00:28:31.350 --> 00:28:41.760
+<v Speaker 1>because they're not, because they don't have enough confidence in the game, they overcommit and put more in under the guise that more is better. Which I'm saying today it is not</v>
+
+00:28:43.370 --> 00:28:49.940
+<v Speaker 1>and usually what it is. And this is me sort of getting on the note about play testing here today. Again, is</v>
+
+00:28:50.640 --> 00:29:04.680
+<v Speaker 1>the goal of your game is to understand. I mean, the goal of using it, the goal of of of you, the game designer is you want to understand the game you are making. You want to know what makes it tick. You want to know what makes it exciting. You want to know what makes it fun?</v>
+
+00:29:05.300 --> 00:29:08.730
+<v Speaker 1>And the reason all this is so important is um,</v>
+
+00:29:09.640 --> 00:29:12.410
+<v Speaker 1>so my is a new metaphor. We use Jenga.</v>
+
+00:29:13.470 --> 00:29:19.370
+<v Speaker 1>Think of your game as a Jenga game. I'm not making Jenga metaphorically is a game of Jenga.</v>
+
+00:29:20.350 --> 00:29:29.180
+<v Speaker 1>And what I will say to you is, so there's a point where playing it's agenda, for those that might not know, is a game in which you stack, you have</v>
+
+00:29:29.960 --> 00:29:30.780
+<v Speaker 1>little wooden</v>
+
+00:29:32.200 --> 00:29:53.900
+<v Speaker 1>like planks, if you will, that are longer than they are wide. And you put 3 down, they're thick, they're one inch thick and they're about 3 inches long and inch wide. And then you put them down 3 at a time and you crisscross them to make this tower. And the idea is on your turn you remove a piece of the tower and then you put it on top.</v>
+
+00:29:54.950 --> 00:30:00.980
+<v Speaker 1>And the idea is it gets harder and harder to find pieces because you don't want the thing to topple.</v>
+
+00:30:01.760 --> 00:30:03.350
+<v Speaker 1>So what I want to say today is</v>
+
+00:30:04.140 --> 00:30:06.840
+<v Speaker 1>your game is like a game of Jenga</v>
+
+00:30:07.530 --> 00:30:11.000
+<v Speaker 1>and your goal is keep removing things</v>
+
+00:30:11.770 --> 00:30:20.520
+<v Speaker 1>until it collapses and then put that last piece back in. Um, your goal essentially is you want to be a perfect Jenga player.</v>
+
+00:30:21.760 --> 00:30:27.330
+<v Speaker 1>You don't want anything in your game that could be taken out and the game not collapse.</v>
+
+00:30:28.880 --> 00:30:35.510
+<v Speaker 1>And that part of why you playtest and why you do all the work that you do is to understand</v>
+
+00:30:37.120 --> 00:31:01.590
+<v Speaker 1>what the element of games are doing, what purposes they serve. And that when you do that, it allows you to have a better sense of what can and can't go in and go out. And by the way, one of the things when you do with play testing, try removing things from your game. Try say, OK, we're gonna play the game again, but take out component X, what happens? And one of two things will happen. Either</v>
+
+00:31:02.990 --> 00:31:20.750
+<v Speaker 1>the game doesn't work and then that tells you, you know what component X is important, or it works just fine. You're like, oh, I don't need component X. And both of those are really valuable. So I mean, another big lesson of today is part of understanding your game is playing your game and really knowing it.</v>
+
+00:31:23.530 --> 00:31:25.380
+<v Speaker 1>OK, next,</v>
+
+00:31:26.990 --> 00:31:39.860
+<v Speaker 1>so I've been thinking by the way in in the lesson is I mean this lesson actually whether you are a new person making a new game Oregon, a person adding on to a game,</v>
+
+00:31:41.140 --> 00:31:45.130
+<v Speaker 1>the lessons are a little bit different. I've been talking a lot about the new the new person lesson,</v>
+
+00:31:46.660 --> 00:31:47.260
+<v Speaker 1>so</v>
+
+00:31:48.440 --> 00:31:54.530
+<v Speaker 1>check it here with like continue with that. Before I end I will make some the point for the more advanced person.</v>
+
+00:31:55.930 --> 00:32:08.310
+<v Speaker 1>OK, other things. So one of the things I said in the talk is a lot of people ask the question to themselves how much do I need to add? And what I said is change that thought process. Ask yourself how little I need to add</v>
+
+00:32:08.930 --> 00:32:12.260
+<v Speaker 1>because one of the things that's key to it is,</v>
+
+00:32:13.360 --> 00:32:13.940
+<v Speaker 1>um,</v>
+
+00:32:15.160 --> 00:32:33.390
+<v Speaker 1>you don't need much usually to have the feel you're getting. So let's look at I did a series podcast called 10 things every Game needs. I'm talk about a few of the other things from that right now. So problems I see designers having too many goals</v>
+
+00:32:34.860 --> 00:32:55.200
+<v Speaker 1>all wants to be clean and clear and crisp. How do I win the game do thing X now I'm not saying you can't have alternative win conditions. I'm not saying there can't be other ways to win, but you wanna make sure in your basic game that is clean and clear what you're trying to do. Usually what that means is you want one simple, straightforward goal. Maybe there's</v>
+
+00:32:56.490 --> 00:33:13.240
+<v Speaker 1>other goals you learn along the way, or maybe the game opens up goals through gameplay, but you want to make sure you don't have too many goals. Too many goals makes people not sure what they're trying to do, and that makes them A not to find your fun and B get lost within your game, which is a big problem.</v>
+
+00:33:14.820 --> 00:33:19.170
+<v Speaker 1>Um, next rules. You can have too many rules.</v>
+
+00:33:20.580 --> 00:33:42.200
+<v Speaker 1>This tends to fall on a couple camps. 1 is a complexity issue. Your audience doesn't understand everything. But more than that, the more rules you have, the more rule interaction issues you have. And a lot of game complexity comes from rules interaction. I do think A and thing B. How does thing A and Thing B work together? The more rules you have, the more you have to address</v>
+
+00:33:43.280 --> 00:33:59.360
+<v Speaker 1>all the interconnectivity of the rules. So be very careful when writing your rules. Make sure your rules are providing you essence, that they're providing something that the game needs. And once again, in your play testing, you can try taking rules out. OK, what if I didn't have that rule?</v>
+
+00:34:00.850 --> 00:34:31.660
+<v Speaker 1>The big problem that I find with rules comes from flavor, which comes from people trying to match flavor with rules. And that one of the things you often can do when trying to match flavor is try to get the big picture, have the general sense of the flavor without necessarily getting every nuance of the flavor. Sometimes when you sort of make lots of little rules to sort of be perfectly accurate flavor wise, you end up muddying and mucking up your game and making it harder for people to sort of</v>
+
+00:34:31.760 --> 00:34:53.430
+<v Speaker 1>not only play, but to even understand. Like this idea that I'm matching the top down South close, that it makes it better is not necessarily. So a lot of the ways people connect to things is through a general sense of things. So being super exact doesn't always have the effect you want, and it usually causes lots of problems.</v>
+
+00:34:55.220 --> 00:35:11.590
+<v Speaker 1>OK, too many interactions. Interaction is good, you want players to interact with one another. But too much of anything is a problem if I'm interacting with you constantly and you never get a moment's breath or do something by yourself or get your own</v>
+
+00:35:13.620 --> 00:35:40.580
+<v Speaker 1>time to shine. Yeah, you want interaction, but that doesn't mean that every moment, every time you want the interaction, that sometimes you want moments where people can prepare by themselves or do something on their own. At some point it should interact. And I'm not saying clearly you wind interactions one to 10 things, but you can overdo an interaction. You can make it such that people can't move without the moves of others. And it can cause paralysis where kind of nothing happened because everyone's kind of waiting for someone else to do something.</v>
+
+00:35:41.800 --> 00:35:58.820
+<v Speaker 1>You can have too much strategy. And what I mean by that is sometimes when people add in is they want to a lot of things to think about. But one of the problems in general is if you have too many hooks, if you have too many things for people to sort of look at, it can lead, lead people astray.</v>
+
+00:35:59.460 --> 00:36:01.500
+<v Speaker 1>Like one of the problems we have in Magic is</v>
+
+00:36:02.150 --> 00:36:06.180
+<v Speaker 1>if I put a card into a set, and that card has nothing to do with the set,</v>
+
+00:36:07.440 --> 00:36:19.810
+<v Speaker 1>there's a problem where it's the first card people open, it's the first card people draft, and all of a sudden they think that's what it's about. And when it's not what it's about, it misleads them and lends them down the wrong path.</v>
+
+00:36:20.560 --> 00:36:30.870
+<v Speaker 1>It's one of the reasons, for example, when we preview cards, we've upcoming sets. We have to be very careful what we preview because we don't want to preview an outlier. We want to review something that's really endemic of what the game is going to be.</v>
+
+00:36:32.260 --> 00:36:35.490
+<v Speaker 1>And if you don't do that, you can cause yourself problems</v>
+
+00:36:36.930 --> 00:36:39.410
+<v Speaker 1>in general. By the way, um,</v>
+
+00:36:41.200 --> 00:37:02.490
+<v Speaker 1>a, a line you'll hear me say a lot is focus on the fun. Understand what makes your game fun, what makes it tick, what makes it unique, what makes it something that people haven't done before. You know, where is the thing that makes you smile when you do it? And that a lot of lessons today is making sure that you don't bury it under stuff that they're just going to hide it.</v>
+
+00:37:03.950 --> 00:37:33.370
+<v Speaker 1>Remember, more is not always, you know, more, more can be less. That sometimes when you add things to a project like the gift thing, that giving the second gift might not overall increase the experience. And you have to keep that in mind. OK, so let me now move on. A lot of us talking about today was the beginning designer, right? You are making it very first game. So let me talk a little bit about the designer that's making more for their game. You already have a game, you're adding on to your game, and this</v>
+
+00:37:33.440 --> 00:37:39.330
+<v Speaker 1>that's in is equally important, but has a slightly different aspect to it. So let me talk about that and what that is.</v>
+
+00:37:41.290 --> 00:37:50.300
+<v Speaker 1>A lot of times when you're trying to sort of make something new for your game, there's this idea of I don't want to do we've done before, I wanna make some brand new and different.</v>
+
+00:37:51.460 --> 00:37:58.200
+<v Speaker 1>But as a guy who for 20 plus years, 22 years so far has been doing this, what I've discovered is</v>
+
+00:37:59.260 --> 00:38:04.890
+<v Speaker 1>most of what you're doing when you're making a new version of something, it's just recreating the old thing.</v>
+
+00:38:05.740 --> 00:38:19.290
+<v Speaker 1>Magic is a fun game. A lot of my job is not making a brand new thing. A lot of my job is just recreating magic many times. And that you want to understand what makes it click so that you can</v>
+
+00:38:20.860 --> 00:38:40.380
+<v Speaker 1>capture that sense. And that a lot, a lot, a lot of what we do is not trying to make magic different, is trying to make magic the same. And what this lesson is saying is, just like the novice puts in too many pieces, the more advanced designer sometimes will move things farther away than they need.</v>
+
+00:38:41.840 --> 00:38:54.310
+<v Speaker 1>And once again, not how much do I need to add? How little do I need to add? And I use Ravnica as a good example because in some ways Ravnica and Innistrad aren't intrasite. Ravnica Invasion aren't that different.</v>
+
+00:38:54.960 --> 00:39:02.210
+<v Speaker 1>You know, there's a lot of things you do when you do multicolor cards, for example. You lean on cycles, you lean on,</v>
+
+00:39:03.580 --> 00:39:16.540
+<v Speaker 1>you know, to try to make it simple. There's a lot of Chinese menus, there's a lot of ways you design multicore cards. They're just similar no matter what. Set your design with them in and In many, many ways, Invasion of Ravnica have a lot of similarity.</v>
+
+00:39:18.490 --> 00:39:20.060
+<v Speaker 1>And the idea was</v>
+
+00:39:21.410 --> 00:39:51.860
+<v Speaker 1>when I was trying to find a difference and define Ravnica, my goal wasn't at every level, at every time I can do something, do it different. In fact, a lot of times, hey, I did something, I did a theme, I learned from it. A lot of those lessons you want to use again. So how do I make a good multi color set? Well, there's some things that just make a good multi color set. And the idea there is you don't want to sort of for the sake of just being different, not give yourself the tools you need. So make sure you understand the tools you need</v>
+
+00:39:51.930 --> 00:39:56.460
+<v Speaker 1>and use those tools. And here's the key to the lesson is</v>
+
+00:39:58.310 --> 00:40:05.230
+<v Speaker 1>if you change just a tiny percentage of your game, the fact that people have to interact with that tiny percentage.</v>
+
+00:40:05.890 --> 00:40:08.870
+<v Speaker 1>You know, and you can act with it a lot makes it different.</v>
+
+00:40:09.670 --> 00:40:10.200
+<v Speaker 1>Um,</v>
+
+00:40:10.870 --> 00:40:36.180
+<v Speaker 1>like for example, when we were originally playing around with Zendikar, we put in mechanical landfall that cares about when you play a land and a land for those, I assume most you guys imagine listening to me, but other lands, the resource you used to drive stuff. And all of a sudden we made it such that this thing that you often dreaded in like game, normally in magic in lake game, you don't want to draw land. You have enough land you want to draw spells and you can do something with,</v>
+
+00:40:37.570 --> 00:40:43.830
+<v Speaker 1>and we made it such that there were times where late in the game you wanted to draw a land. That never happens.</v>
+
+00:40:45.300 --> 00:40:45.630
+<v Speaker 1>And</v>
+
+00:40:46.480 --> 00:41:00.840
+<v Speaker 1>most of what we were doing in Zendikar was normal magic. He wasn't particularly far away. But we just added this one little thing like, yes, let's care about lands in a way we haven't before, and then just made all the difference. It felt, you know, saying that it is</v>
+
+00:41:01.770 --> 00:41:02.310
+<v Speaker 1>you.</v>
+
+00:41:03.040 --> 00:41:08.330
+<v Speaker 1>You really have to resist the urge like when you're trying to make something new and different</v>
+
+00:41:10.910 --> 00:41:19.180
+<v Speaker 1>newness comes that that you get so much benefit from a little bit of newness. And that's a lot of what I want to say. Today is sort of,</v>
+
+00:41:21.220 --> 00:41:25.420
+<v Speaker 1>you know, and since today is the day of metaphors, I have a cake.</v>
+
+00:41:26.060 --> 00:41:27.250
+<v Speaker 1>I'm making a cake.</v>
+
+00:41:28.490 --> 00:41:46.130
+<v Speaker 1>Most of all makes the cake. The cake is the cake, but the things people sort of focus on tends to be the decorations and the icing. The icing makes it sweet. And the idea is that if I'm going to make two different cakes that, you know what,</v>
+
+00:41:47.440 --> 00:41:58.620
+<v Speaker 1>I can take the exact same cake and dress it up differently and put different icing on it and put different decorations on it and really sell you as this being a different cake. Like my wife and I, for example,</v>
+
+00:42:00.010 --> 00:42:03.850
+<v Speaker 1>Laura and I like throwing parties. That is one of our favorite things to do.</v>
+
+00:42:05.240 --> 00:42:35.690
+<v Speaker 1>And often in our parties, when appropriate, we'll get a cake. We have a woman that we know at a local bakery, local bakery that does awesome cakes and she will decorate things and make them real cool and real fun. And what we've discovered is we tend to get the same cake. The cake we get is half vanilla, half chocolate. You know, we tend to get a sheet cake, vanilla, one side check on the other, and that we experimented for a little while trying different kinds of game. What we found was, no, you know what, these are the cakes people like. This is what makes the people happy.</v>
+
+00:42:35.790 --> 00:43:05.560
+<v Speaker 1>It's pretty straightforward. Look, vanilla and chocolate are the basic cakes you could ask for. Some people like vanilla, some like chocolate, provide them both give a little bit of choice and people are always happy with the cake. And so really what we do when we make the cake, it's we're not changing the cake, the cake of the cake. We're changing the dressing of the cake. Well, if it's if they're Super Bowl party and we make it into a football field, OK, that's a real different animal. The ones my kids birthday parties, it's Adam's birthday party. We have a video game theme. So I turn it into</v>
+
+00:43:06.750 --> 00:43:20.530
+<v Speaker 1>a Switch or some video game thing, and the point is the cake tastes the same. It tastes the same, but one being a football field and the other being a Switch, Wow, that's just a different experience. And that really feels different</v>
+
+00:43:21.370 --> 00:43:23.630
+<v Speaker 1>in the games. There's a lot of the same thing. I mean, I don't,</v>
+
+00:43:24.440 --> 00:43:54.750
+<v Speaker 1>I don't want to use the icing. I'm not trying to say it's just about dressing. It's just about flavor and stuff. It's more than that. You do want to have some mechanical differences, but you don't need to have a lot of mechanical differences. You really don't. Like I said Ravnica pretty much took one premise, 1 premise and everything came out of that premise. All I was trying to do is make you play be a multicolor set that lets you play less colors. That was really my goal the whole time. And from that everything spraying from it. And then as I</v>
+
+00:43:54.830 --> 00:44:01.210
+<v Speaker 1>made things that other people made things and we worked off it, we just kept extrapolating. But it was always off that one premise.</v>
+
+00:44:02.870 --> 00:44:07.390
+<v Speaker 1>And So what I will say to you is if you're working on something, let's say you're trying to make</v>
+
+00:44:08.050 --> 00:44:38.400
+<v Speaker 1>in, you know, in additive element to a game that already exists. The key here, and this is true for parties, for cakes, whoever focus, it's about something. It's not about a lot of things. It's about one thing. And so pick that one thing, make it matter, put the focus on it, you know, pick mechanics that matter. And what you will find is having that one theme to it, that one emphasis will really set it apart and make it something that is cool. And what you'll find is when you have that as your</v>
+
+00:44:38.470 --> 00:44:53.530
+<v Speaker 1>bullseye, we need one idea that you're pushing toward. It will stir other things. It wants to be this OK when I do that. And what you'll find is you will make a lot of organic changes that come out of having a singular theme.</v>
+
+00:44:54.800 --> 00:44:56.320
+<v Speaker 1>And so when changing things,</v>
+
+00:44:57.730 --> 00:45:28.660
+<v Speaker 1>you don't have to change much to change a lot is that with my actual is you don't have to change much to change anything with Metro quote. So anyway, I'm driving up to work. So the take away today, if you're a young designer designing your first game, you don't need to overrun your game with lots of things. And in some level, it's the same lesson, which is figure out what your game is about. Find the fun, find the essence, find the core, focus on the core.</v>
+
+00:45:28.760 --> 00:45:51.510
+<v Speaker 1>Make it be what it's supposed to be, loose, extraneous things. You don't need extraneous things. And do play, test, take things out. If the Playtex go well after you've taken them out, maybe it doesn't need to be there. You know that a lot of what I'm saying today is it has to do with how you think about the game, how you build your game, how you make your game. And then as you iterate it,</v>
+
+00:45:52.700 --> 00:46:22.440
+<v Speaker 1>stress test all the pieces, all the components. And what you will find is there are some components that aren't carrying their weight. And if they're not carrying their weight, less is more. You know, saying that having a cleanliness to your design is going to lead to overall better games. I'm not saying there aren't exceptions to that, but as a general rule of thumb, being simpler, being more elegant, being more focused will make for a better experience regardless if it's the very first game you ever made</v>
+
+00:46:22.530 --> 00:46:39.900
+<v Speaker 1>or an expansion to game that's 25 years old. So anyway guys, I'm now at work, so we know what that means. We mean, this is the end of my drive to work. Traffic guys got a little extra. So anyway, instead of talking magic in game design, it's time for me to make magic. I'll see you guys next time. Bye bye.</v>
+

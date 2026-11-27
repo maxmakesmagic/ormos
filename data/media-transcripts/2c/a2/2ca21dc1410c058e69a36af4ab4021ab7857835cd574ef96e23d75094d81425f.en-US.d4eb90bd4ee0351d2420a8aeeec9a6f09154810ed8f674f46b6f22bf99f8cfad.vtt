@@ -1,0 +1,611 @@
+WEBVTT
+
+00:00:00.900 --> 00:00:24.310
+<v Speaker 1>I'm pulling in my driveway. We all know what that means. It's time for the drive to work. OK, so today I'm going to talk Guilds of Ravnica. So I'm not going to talk about cards today. Today is just sort of a story of the design of the vision design, and I'm going to talk all about how the set came to be. OK, so First off, this set has an interesting origin. So when we were first making it,</v>
+
+00:00:25.850 --> 00:00:40.550
+<v Speaker 1>and now we refer to as the Bolus arc, that there were sort of three years that told this sort of larger story. I mean, magic has an ongoing story, but there's sort of, we had a storyline and involved Nicholas and that</v>
+
+00:00:41.500 --> 00:01:10.850
+<v Speaker 1>it kind of started in Kaladesh and then it made its way into Almond Cat obviously, where they went to go stop him. Like in Canada, she was up to something and then they went to go stop him. An Almond Cat got their butts kicked. Then we saw the repercussions and Exelon, what happened to Jace and they all sort of got back together in Dominaria to get the things they needed to try to defeat him. And anyway, we wanted to set up the big finale. And so,</v>
+
+00:01:11.440 --> 00:01:17.230
+<v Speaker 1>and one of the things about the big finale is it needed to be somewhere, right? The finale had to happen.</v>
+
+00:01:18.620 --> 00:01:47.280
+<v Speaker 1>I don't want to get too much away because obviously you guys don't know it yet, but there is an event, some big event that's going to happen and we needed to know where it took place. And because wherever it took place, there were some jeopardy to that world. We wanted to be a world of people knew like putting a world you've never seen before in jeopardy is not particularly does not as exciting, right? You want the audience to to be invested, and in order to be invested you have to pick something that is</v>
+
+00:01:48.950 --> 00:02:01.700
+<v Speaker 1>something they care about. South we were looking at worlds and Ravnica seemed like a really good choice. Revenge is one of the most popular worlds we've made and it just seemed primed to do cool stuff with.</v>
+
+00:02:03.080 --> 00:02:33.790
+<v Speaker 1>But we said, well, we can't just go to Ravnica and like not be about the guilds because Ravnica is all about the guilds, you know. And so we said, OK, here's what we'll do. First we'll go to Ravnica. We'll have a normal, it has to be two sets because you can't fit 10 guilds in one set. But we'll, we'll have a couple sets where you do Ravnica as you expect it. And then, and then we'll do the big event and that that'll be all about the event, not about the world, but because we've sort of come and give you what you</v>
+
+00:02:33.900 --> 00:02:43.600
+<v Speaker 1>elected, then you're not upset when we go to the world and it's not about the world. And that was our plan. So at the time. So remember, let me set this a little bit</v>
+
+00:02:45.600 --> 00:02:52.900
+<v Speaker 1>at the time, uh, vision design had started, but we still</v>
+
+00:02:53.590 --> 00:03:09.740
+<v Speaker 1>the, the three in one model where we had three individual large sets. And then of course, that we hadn't yet adopted that. That actually didn't get adopted until Dominaria. And even then probably not till Dominaria was in set design, because when I designed Dominaria,</v>
+
+00:03:11.450 --> 00:03:20.980
+<v Speaker 1>well, try to think about this. So, right, so it's Dominaria was in set design before we made the call, and Guilds of Ravnica had already.</v>
+
+00:03:21.700 --> 00:03:29.760
+<v Speaker 1>Yeah. So the the entire time the Guilds of Ravnica was in vision, we</v>
+
+00:03:30.720 --> 00:03:51.410
+<v Speaker 1>didn't. Well, the weird thing was Gilda Ravnica and Ravnica Allegiance were always going to be two large sets that were drafted separately. So in some ways, whether or not we went to the New World or the Old World, those two sets were going to be that way. And I think when they made the call for Dominaria to be a single large sad and salad to just turn in the core set,</v>
+
+00:03:52.840 --> 00:03:58.320
+<v Speaker 1>I think I remember where we were. But I mean, we essentially for all of design, I was just designing,</v>
+
+00:04:00.150 --> 00:04:16.060
+<v Speaker 1>I was designing them as a block and all that meant it didn't mean a lot. It was that I designed them together, meaning the vision design team for Guilds of Ravnica was the same team that was also at the same time designing Ravnica Ravnica Allegiance.</v>
+
+00:04:17.620 --> 00:04:39.140
+<v Speaker 1>Ohh. It they were treated as at the time and we hadn't yet sort of converted over to the three in one completely. So they were considered the same block and because they were the same block, they were done together. So milk, which is the third, the set after arriving allegiance was milk and cookies. And that was going to be a large set in a small set B, its own block. And</v>
+
+00:04:39.820 --> 00:04:40.400
+<v Speaker 1>in fact,</v>
+
+00:04:41.200 --> 00:05:11.690
+<v Speaker 1>when I worked on milk, I think cookie still existed. So anyway, the changeover, I'm trying to remember the exact timing, but when I'm working on Ravnica guilds, Ravnica religions, we hadn't yet shifted over to the course that I don't believe. And as far as I knew, these were two independent extracted by themselves. But because of our schedule back then, the way vision design worked is I had two blocks a year. Each block got six months, but I was responsible for doing both</v>
+
+00:05:11.790 --> 00:05:30.880
+<v Speaker 1>large and small set, the vision on both sets in it. Anyway, I bring all this up because the team that worked with me, we were doing all 10 sets at the same time. I mean, we were thinking about each individual set at for some period of time, but we were doing a lot of work on the 10 sets as a whole.</v>
+
+00:05:32.010 --> 00:05:51.950
+<v Speaker 1>I'll talk about Ravnica Allegiance. When we get to Ravinia Allegiance, I'm just going to talk about the five guilds that ended up in Guilds of Ravnica. So first let's talk about that. Why are these five? So one of the things that came up is that we have the four gills that were originally in the original Ravnica Plus. Is it</v>
+
+00:05:53.240 --> 00:05:56.620
+<v Speaker 1>Why? How did that, How did that come to be? So here's what happened is</v>
+
+00:05:58.020 --> 00:06:27.730
+<v Speaker 1>one of the ideas when we decided that we were going to go to Ravnica before we had the event on Ravnica, was this idea of what if we get a watch bowl us sort of try to influence the guilds. And every time we go to Ravnica, we want some sort of theme to it. And we like the idea of this was a world in which there was some sort of intrigue going on, sort of a Cold War vibe is what we called it. And the idea was within each of the guilds, there's this</v>
+
+00:06:28.710 --> 00:06:44.870
+<v Speaker 1>boss is trying to gain influence. And in every Guild there are people that are that are sort of leaning toward bulls aside and those that aren't. And five of the guilds actually end up sort of siding with Bolas. And for each of those guilds he puts kind of in charge of Planeswalker,</v>
+
+00:06:46.030 --> 00:06:57.140
+<v Speaker 1>um, then there's five guilds that are the resistance guilds, and those are the ones that are sort of leading the route to try to fight him. And that was the idea. So when we first figured out that there were 5,</v>
+
+00:06:58.430 --> 00:07:28.330
+<v Speaker 1>I think the first, the first version of that. So here's the things we needed. We wanted five and five we were matching we're turn around and getting gate crash. And structurally we wanted all the colors represented evenly within set. So that meant is we had to pick 5 guilds in which each color is represented twice. There's a bunch of ways to do that. We also don't like to do ally and enemy separations in Ravnica only cause we can do those many other places and Ravnica.</v>
+
+00:07:28.440 --> 00:07:34.980
+<v Speaker 1>It's one of the weird sets, one of the few sets that we really can do weird combination of colors and no one will no one bats an eye about it.</v>
+
+00:07:37.190 --> 00:07:40.460
+<v Speaker 1>Also, there were</v>
+
+00:07:41.760 --> 00:07:43.850
+<v Speaker 1>some story things that were important</v>
+
+00:07:45.170 --> 00:08:13.530
+<v Speaker 1>think is it needed to be in the first one. I think Azorius needed to be in the second line. There's some story points that were important that I, I don't remember exactly, but there were certainly like to tell the story we want to tell. Certain guilds had to be in certain places for story purposes. So the original version of it was a little bit different than what we ended up with. But my big problem was the way it shook out was the first set had three bolus aligned gills and the second had two. And what he said was</v>
+
+00:08:14.410 --> 00:08:44.420
+<v Speaker 1>we're trying to create a story that things are getting worse on Ravnica. The bulls is getting a tighter influence on Ravnica. If you do 3 and then do 2, it sounds like, oh, they're shaking off bullish like things are getting better. If you do 2 and then do three, you're like, oh, yo, bolus is getting a more of a hole is getting worse. So what I said is, oh, we really need to do 2 and 3. And so that we've moved it around and with all the constraints of having the guilds we needed for story and doing 2 than doing 3 and</v>
+
+00:08:44.520 --> 00:09:13.930
+<v Speaker 1>having the color balance and stuff, there ended up being one way that worked, which is the way we did. We did recognize at the time that it was essentially original Ravnica Plus is it? But there's just too many of the factors we had we had to care about. And we're like, well, probably if you know, we were trying, whenever we do Ravnica, we tried to make the mix up different than we've done before. And then this one has is it? So it's a little bit different, but there are just other factors that were more important. That's why we ended up with this combination.</v>
+
+00:09:14.880 --> 00:09:15.950
+<v Speaker 1>OK so</v>
+
+00:09:17.340 --> 00:09:26.390
+<v Speaker 1>let me walk through the Guild and talk about sort of what our thoughts. Ohh so before in the very beginning during exploratory design, one of the things I brought U is</v>
+
+00:09:27.800 --> 00:09:34.130
+<v Speaker 1>a lot of the way we design Ravnica. Like back in original Ravnica, I came with a structured how to build it</v>
+
+00:09:35.420 --> 00:09:37.520
+<v Speaker 1>went back to Return to Ravnica. We</v>
+
+00:09:38.210 --> 00:10:09.160
+<v Speaker 1>shifted from 4:00 to 3:00 three to five five, but we didn't fundamentally change how we did the guilds. The guilds are very much described design kind of in a silo that each Guild is sort of maximized. And then there's mechanical synergies between overlapping guilds, but there's not a lot of mechanical relationship between the guilds in in the sense of is it feels bro Izzy and Damir feels Damiri and we want to make sure that Dimir isn't will play with each other.</v>
+
+00:10:09.250 --> 00:10:09.590
+<v Speaker 1>But</v>
+
+00:10:10.600 --> 00:10:15.070
+<v Speaker 1>the design have a real silo sort of feel how they design. You design them each</v>
+
+00:10:15.820 --> 00:10:22.550
+<v Speaker 1>independently and then you start mixing them together to make sure there's overlap. I had some ideas how to do things a little differently.</v>
+
+00:10:24.040 --> 00:10:54.050
+<v Speaker 1>I mean, in a lot of ways, Rabbit goes the world where when we revisit it, we stay the closest to how we did it the first time. We were there now partly because it was popular. People really liked it, but I was kind of interesting in shaking up and we had talked about it for #2 But I during Return to Ravnica, because I didn't lead Return to Ravnica, I LED Gatecrash and during Gate Crash I had some ideas because we're turning around already, sort of was well underway. I wasn't quite able to do the things I want because</v>
+
+00:10:54.120 --> 00:11:24.680
+<v Speaker 1>acquired all the guilds to function a little bit differently. So this time I'm like, OK, I have some ideas how we can do this a little differently. What I was told was, look, we're doing something. The third sets already going to be very different. And you know, part of the reason we chose to do these sets first was give people the Ravnica that they expect. And so like, you know, maybe we shouldn't change things too much this time. You know, if if if we come back again, you know, you have carte blanche to try something new. But how about this time?</v>
+
+00:11:24.780 --> 00:11:25.570
+<v Speaker 1>Let's just</v>
+
+00:11:27.150 --> 00:11:37.670
+<v Speaker 1>let's just sort of do more status quo. So I had some more radical ideas on how to change things up. And then after talking with various people, it was decided, OK,</v>
+
+00:11:39.150 --> 00:11:42.240
+<v Speaker 1>now is not the time to sort of reinvent Ravnica.</v>
+
+00:11:43.840 --> 00:12:13.340
+<v Speaker 1>OK, so that meant that we were going to stick with our current structure. Our current structure is every Guild gets a Guild mechanic. That is, every Guild has a set identity, a set theme, and they need to have a Guild mechanic. So first thing we kind of set out to do is figure out like the one thing about the third time in Ravnica is we have a feel for the guilt. We know where the guilds are like and one of our rules when designing cards for the Guild is if you took all the cards,</v>
+
+00:12:13.420 --> 00:12:15.200
+<v Speaker 1>the watermark with the Guild on it</v>
+
+00:12:15.980 --> 00:12:27.010
+<v Speaker 1>from the first two blocks and shuffled in with the cards with the watermark at this time were they all feel like they're from they're the same Guild That was kind of our you know, you want to stay true to the essence of what they were.</v>
+
+00:12:27.800 --> 00:12:48.510
+<v Speaker 1>OK, so let's start with is it so is it. I've always believed that is it is the one that has the largest disconnect between kind of the philosophical sort of underpinnings of the Guild and the mechanical execution of the Guild. Like is it are the crazy inventors, but because</v>
+
+00:12:49.890 --> 00:12:51.660
+<v Speaker 1>we don't have a lot of space,</v>
+
+00:12:52.980 --> 00:13:17.000
+<v Speaker 1>it is hard to do a lot of artifacts. Like is it seems like they like to be the one that has a lot of interaction with artifacts, but it's kind of hard to do when you just don't have a lot of space for artifacts because it's a multi color set that just takes up a lot of space to do all the things you need to do a lot of cycles and there's just not a lot of excess space. So it's hard to do that. And the Guild, while mechanically or</v>
+
+00:13:17.700 --> 00:13:34.550
+<v Speaker 1>flavorfully, they're inventors, mechanically they've always red and Blues, always really caring about, um, instants and sorceries. And so there's just a disconnect without caring what instance and sorceries and feeling like creative. And one of my goals is to try to solve this this time.</v>
+
+00:13:36.540 --> 00:13:38.150
+<v Speaker 1>And I'll admit,</v>
+
+00:13:40.180 --> 00:13:46.310
+<v Speaker 1>the mechanic that we came up to try to solve this was inventive, but a little offbeat. And it ended up being,</v>
+
+00:13:47.090 --> 00:13:47.730
+<v Speaker 1>uh,</v>
+
+00:13:48.520 --> 00:14:05.980
+<v Speaker 1>I, I really want to salvage the mechanics. I'm trying not to give this mechanic away. Ohh, sorry. Before we even got to that, before we got to that, the first thing we tried is it was we tried splice onto instant and sorcery. I think we tried instant sorcery. We tried instant. The idea being is I always thought space was interesting mechanic,</v>
+
+00:14:06.880 --> 00:14:07.780
+<v Speaker 1>but it was,</v>
+
+00:14:08.460 --> 00:14:13.160
+<v Speaker 1>you know, because you had spoken to Arcane. It was, you know, it it really</v>
+
+00:14:14.460 --> 00:14:22.780
+<v Speaker 1>he was preceded. He didn't it didn't let you sort of expand. So we always I always late into Kamigawa had come up late in development. I come with the idea of being,</v>
+
+00:14:24.320 --> 00:14:34.010
+<v Speaker 1>well, couldn't just be spliced on instant or splice on a sorcery. And it was just too late in the process to make that change. So we started by looking into that. It turned out,</v>
+
+00:14:35.520 --> 00:14:36.010
+<v Speaker 1>umm,</v>
+
+00:14:36.940 --> 00:14:42.100
+<v Speaker 1>we weren't able to make the cards and make them look remotely good. It's one of those mechanics that</v>
+
+00:14:43.650 --> 00:14:48.330
+<v Speaker 1>really has to cost a lot, to be fair. And the IT is never</v>
+
+00:14:49.040 --> 00:14:57.410
+<v Speaker 1>we were never able to make cards that really looked good. I mean, the ones that played OK just looked miserable. And</v>
+
+00:14:58.690 --> 00:15:08.020
+<v Speaker 1>sometimes you have mechanics that like in order to make something that's viable, it just is so unattractive looking that it just you have to call into question whether it's something you want to do.</v>
+
+00:15:09.190 --> 00:15:11.240
+<v Speaker 1>And, and the gameplay was OK, but it,</v>
+
+00:15:13.170 --> 00:15:14.440
+<v Speaker 1>I don't know, never quite,</v>
+
+00:15:15.590 --> 00:15:18.760
+<v Speaker 1>it never quite got Rogue One. And we did play with it for a while.</v>
+
+00:15:19.490 --> 00:15:22.190
+<v Speaker 1>Then the idea was, um,</v>
+
+00:15:23.280 --> 00:15:53.030
+<v Speaker 1>you know, let's do something more inventory. And so we came up with mechanic. The shorthand of it was it had to do with sort of mixing and matching different instants and sorceries and combining them in different ways. It was a little adventuresome to be clear. Like one of the problems is right now when we make sets, we tend to put what I say is 3 1/2 mechanics per set. We tend to do 3 or 4 mechanics. 5 already is a little above our average these days. And what that meant was</v>
+
+00:15:54.410 --> 00:16:25.220
+<v Speaker 1>it just means we have to make sure that our mechanics are a little on the simpler side. I mean, Ravnica has never really been about the mechanics. That's not where we innovate. That's not Ravnica is about the relationship between the guilds and the field, the guilds and interconnectivity. And you know, there's a lot of cool things that go on Ravnica, but the mechanics have always kind of been OK. This is just really flavorful for the Guild that's in. Not that the innovations came from the mechanics themselves. I'm not saying we never did any innovation, but so because of the, because of Ravnica, because there was 5 mechanics,</v>
+
+00:16:25.400 --> 00:16:29.030
+<v Speaker 1>we were trying to simplify things a little bit. My there is a mechanism we turned over</v>
+
+00:16:30.030 --> 00:16:31.950
+<v Speaker 1>with a little more complex and</v>
+
+00:16:33.910 --> 00:17:04.500
+<v Speaker 1>like I said, it had a bunch of problems. The it's one of those things where sometimes when we make mechanics and you do what I call play them honestly mean you play them mechanic as like, what's the point of the mechanic? We'll play it. So you do that. The mechanic was fun, but when you sort of optimize it, when you sort of min maxed it when you were playing it, not to play what was fun about it, but just getting, you know, squeeze the most juice out of it. It wasn't fun and it was causing problems,</v>
+
+00:17:04.580 --> 00:17:17.090
+<v Speaker 1>and Eric and his team worked to try to fix that. Well, what happened is I handed this over to Eric for set design, and then at some point Eric, I think, gave it to Dave. Is that right?</v>
+
+00:17:18.490 --> 00:17:23.690
+<v Speaker 1>Anyway, Eric, I think Eric did the most work on that. Well, no, I guess Eric, this wasn't dumb.</v>
+
+00:17:24.550 --> 00:17:31.440
+<v Speaker 1>I guess Dave, Dave did melt, Dave didn't. Dave didn't do Guild, so this was Eric's at So anyway, Eric</v>
+
+00:17:33.550 --> 00:17:42.330
+<v Speaker 1>end up at the set design team ended up scrapping the mechanic. And one of the things that's really, really tricky about doing Ravnik in sets is</v>
+
+00:17:43.880 --> 00:17:59.270
+<v Speaker 1>so you have 5 colors every little Guild, 5 color combinations. Every faction overlaps with two other factions because there's two of every color. So for example, let's take is it is it's blue red. Well, in this set, blue overlaps with Demir blue black,</v>
+
+00:18:00.220 --> 00:18:01.940
+<v Speaker 1>and red overlaps with Boros, red white.</v>
+
+00:18:02.690 --> 00:18:10.580
+<v Speaker 1>So one of the things that you have to sort of be conscious of is making mechanics that play nicely with those around it.</v>
+
+00:18:12.280 --> 00:18:25.280
+<v Speaker 1>And so on one side, Boros, I'll get to the second, had a mentor, a combat mechanic, and the other side you had Demir that ended up having a mechanic that cared about</v>
+
+00:18:28.040 --> 00:18:36.390
+<v Speaker 1>allowed you to get things into the graveyard because it was playing the Garian anyway. So what Eric eventually realized was</v>
+
+00:18:37.850 --> 00:18:40.190
+<v Speaker 1>that he wanted a way to</v>
+
+00:18:41.740 --> 00:19:01.120
+<v Speaker 1>casts instants and sorceries get more instances because the isn't hasn't inserted sorcery matters element to it. OK, you want to get more instance and batteries casts. So how do you do that? And so Eric came up with a variant on flashback, sort of a cross between flashback and retrace, to be honest. And the idea is</v>
+
+00:19:02.720 --> 00:19:11.010
+<v Speaker 1>what it does is you cast the spell and then it says essentially that you could turn a spell in your hand</v>
+
+00:19:12.290 --> 00:19:37.050
+<v Speaker 1>into that spell, but then if you cast it, it's exiled. So it's sort of like you could flash it back if you paid the cost of discarding a card, or you can retrace it if the spell gets exiled when you when you cast it. So it was an interesting cross between the two. And the idea essentially was that the discard in the car let you cast the spell for the cost. Its cost when you do flashback you have to give it a higher flashback cost usually</v>
+
+00:19:38.250 --> 00:19:41.380
+<v Speaker 1>just because you know you're getting a second card out of it. So</v>
+
+00:19:42.720 --> 00:19:44.550
+<v Speaker 1>and the nice thing about the discard was</v>
+
+00:19:45.310 --> 00:20:00.070
+<v Speaker 1>it interacted with what Demir was up to because Dimir Surveil could get cards in the graveyard. Well, if you get a Jumpstart card in the graveyard, you can still cast it out of the graveyard. And so anyway, this was something that was crafted.</v>
+
+00:20:01.250 --> 00:20:04.290
+<v Speaker 1>It is one of the things that's very interesting is um,</v>
+
+00:20:05.290 --> 00:20:25.780
+<v Speaker 1>this is a good example of a mechanic that is very functional, plays very well, has a lot of nice synergies, but it's not particularly splashy. I know a lot of people coming turn the name jumpstart. We were trying to give an is it feel from a flavor standpoint. Did it end up it doesn't quite have the</v>
+
+00:20:27.010 --> 00:20:34.720
+<v Speaker 1>automate, it doesn't quite have the creativity feel I was going for. That is a hard thing to do with the complexity limits we have.</v>
+
+00:20:36.700 --> 00:21:06.790
+<v Speaker 1>It does it a little, but it doesn't quite do as much as I was hoping. The other question is you can see how Surveil and Jumpstart interact because they both have graveyard component. Mentors is a little harder to see. Probably the Jumpstart mentor overlap is the trickiest because inherently into the mechanics there's not a key overlap. When we ended up doing there was being careful with the red mentor spells. I'm sorry, the red jump start spells and making sure the red jump start spells were things that were advantageous in an aggressive</v>
+
+00:21:07.090 --> 00:21:14.370
+<v Speaker 1>deck. So that Burrows deck might be encouraged to play some of the red jump start spells.</v>
+
+00:21:15.260 --> 00:21:29.630
+<v Speaker 1>OK, that brings us to boros. So for Boros, um, we actually came up with mechanics that I thought was a very fun mechanic. And this is 2 of the mechanics I handed over from vision design ended up in the set.</v>
+
+00:21:31.080 --> 00:21:52.970
+<v Speaker 1>And, and like I said, the major reason was once Eric had changed the isn't mechanic, it required like once you start changing one thing, you start changing other things. So the synergies are there and I'll get to the other things in a second, but that is kind of what was happening is like once you have to change one thing in a Ravnica set, you also have to change other mechanics just because</v>
+
+00:21:54.290 --> 00:21:54.850
+<v Speaker 1>the</v>
+
+00:21:55.550 --> 00:22:25.840
+<v Speaker 1>what is special about the mechanics is more their synergy with each other, allowing the because when you the way the drafting works is you have 10 draft pairs, which is you have the two, the five, two color combinations that are the guilds and then they click together to make 5 three color combinations. And so you want to sort of build those together. So you want to make those synergies. OK, so Boros, we knew it was going to be aggro. Boris has always has the cheapest often attacks and it's the fastest of the 10</v>
+
+00:22:25.930 --> 00:22:26.630
+<v Speaker 1>guilds.</v>
+
+00:22:28.270 --> 00:22:35.000
+<v Speaker 1>So what we wanted was some kind of mechanic. There was a combat related mechanic</v>
+
+00:22:36.860 --> 00:22:37.480
+<v Speaker 1>so</v>
+
+00:22:39.370 --> 00:22:49.520
+<v Speaker 1>ohh well is it before by the way had done overload and done replicate replicate copy spells and overload makes them hit more targets. Boros had done</v>
+
+00:22:51.600 --> 00:23:21.850
+<v Speaker 1>what's it called the reflection 1 blinking on it because I don't remember it and had battalion. What's it called? The first, the one in original Ravnica was when you targeted something you targeted everything else that shared a color with it. Radiance. Radiance it's called and it's definitely 1:00. Not that it didn't have some play in the way that borrows plated. It did fit the play style, but flavor wise it wasn't a great fit in the fact that it sometimes that you and your opponent</v>
+
+00:23:21.960 --> 00:23:22.980
+<v Speaker 1>anyway, it was</v>
+
+00:23:24.010 --> 00:23:54.080
+<v Speaker 1>it wasn't the greatest fit for the Guild. I mean, not I don't dislike the mechanic, but it wasn't the greatest Boros mechanic. I thought battalion was really good Boros mechanic because it really said, hey, we're about attacking with a lot of creatures. So like the idea of a combat mechanic that you were talking with multiple creatures and I don't know who came up with mentor someone on the vision design team. So the idea of mentor was OK, well, if I have mentor, I can mentor those around me. And what that means is if I attack with somebody else who has less power than me,</v>
+
+00:23:54.890 --> 00:23:56.570
+<v Speaker 1>I could put a + 1 + 1 counter on them.</v>
+
+00:23:58.000 --> 00:24:17.550
+<v Speaker 1>And one of the cool things was that creatures that have mentor could be mentored by other creatures. And if they're mentored by other creatures, then they can mentor more creatures that are of higher power. And it had a really fun play. And it definitely was one of the mechanics, one of my favorites of of the Guild, Guild Robert mechanics. And that it just</v>
+
+00:24:18.520 --> 00:24:48.670
+<v Speaker 1>it was something that like clearly hit all the things we needed to. It was a combat mechanic and made you want to talk with multiple things, all things that Boris wanted to do, but just had a little bit different with flavor. And I like Boris have sort of a sense of honor to them. I mean, they're the police essentially of Ravnica. And while, you know, the red white, they definitely sort of have they'll do what they need to do to get the job done sort of feel to them. They definitely have a lot of passion in what they do and I love</v>
+
+00:24:48.740 --> 00:24:55.280
+<v Speaker 1>the idea that they really are eager to teach one another and that their mentors one another. I thought was a pretty cool boroughs feel.</v>
+
+00:24:57.720 --> 00:25:15.610
+<v Speaker 1>OK, so Boros interacts with is it, which is jump start. So like I said, the red the red jumpstart cards were making sure interact well in a comment situation. The other side is Boros is red white. So we get to Selesnya. Selesnya is</v>
+
+00:25:17.270 --> 00:25:36.290
+<v Speaker 1>is white green, so so less Neo was. We ended up going with convoke. I'll get to that in a second. The thing about convoke is convoke likes having lots of small creatures. Boris brother nature wants to be a go wide attack deck, so it tends to have a lot of creatures. So there was natural synergy there. That's fine.</v>
+
+00:25:37.210 --> 00:25:59.330
+<v Speaker 1>Um, OK, so let's talk salesman. So we actually experiment. So Selesnya so far has had a pretty good. When you go back and look at previous mechanics, both as press mechanics were very strong mechanics. The first time was Convoke in original Ravnica, and then in Return to Ravnica you got Populate which allowed you to copy tokens.</v>
+
+00:26:00.040 --> 00:26:29.850
+<v Speaker 1>And both of those both played well. We're very popular with fans and we had said to ourselves when we came back that returning mechanics were not off limits. The first two times we did that, we said OK, only new Guild mechanics. But because I already knew that we were a bit over on complexity and we had just been there two times already, I say OK, if we need to do a mechanic, we can reprint a mechanic. And what I did in Vision is we came up with five new mechanics, but with the idea that if we had</v>
+
+00:26:30.800 --> 00:26:57.130
+<v Speaker 1>change one, we could change it. And so we ended up having a Eric way like that. Eric ended up looking for a convoke like mechanic and eventually settled on, you know, what's a convoke mechanic, convoke and ended up with convoke. And we, he definitely tried to play around a little bit, made a few cards that care about invoke in a slightly different manner. There's definitely some cards, for example, that care about being tapped that interacts really nicely with Convoke.</v>
+
+00:26:58.950 --> 00:27:00.260
+<v Speaker 1>And so Convoke,</v>
+
+00:27:02.110 --> 00:27:17.240
+<v Speaker 1>Convoke obviously Celestine overlaps with Boros because that's the white Guild, the other white Guild, and Golgari, that's the other green Guild. Calgary being green black, obviously. And so one of the tricks about Celedonio was sort of playing nice with</v>
+
+00:27:19.000 --> 00:27:21.040
+<v Speaker 1>with Golgari and</v>
+
+00:27:22.580 --> 00:27:23.160
+<v Speaker 1>umm,</v>
+
+00:27:24.460 --> 00:27:55.550
+<v Speaker 1>so Golgari ends up with a mechanical undergrowth. I'll get you in a second, but Undergrowth cares about creature cards in graveyard. Ohh. Well, so Celestine has a creature focused mechanic. It wants lots of creatures intersect more than normal. And so look, if you have a creature, you know, if you have a lot of creatures and you're aggressive with your creatures, I mean, it slightly less aggressive than borrows, but anyway, you'll end up with creatures in your graveyard. If you have a creature themed deck and you have a lot of creatures, well, creatures will die and get creatures in your deck. So there's some natural synergy there.</v>
+
+00:27:56.330 --> 00:28:08.560
+<v Speaker 1>The nice thing with mentor is the mentor really wants multiple creatures attacking. Well, you know, celestial light borrows has has a creature oriented go wide strategy. Boros is a little bit more about</v>
+
+00:28:09.900 --> 00:28:33.700
+<v Speaker 1>aggressive go wide where Celestians lumber, building up the board and sort of overwhelming the opponent, but more like building up, building up, building up, and then a big sort of attack where you overwhelm them. Sometimes Felicia will go vertical where it'll help set up one giant creature that's going to win the game for you. Sometimes it's just you overrun them with so many creatures, but usually they're not quite as small as with borrows, a little bit bigger.</v>
+
+00:28:35.610 --> 00:28:45.370
+<v Speaker 1>And I know there was a lot of discussion. Ohh. So the thing that we tried in divine, not divine is the thing we tried in vision design is</v>
+
+00:28:46.840 --> 00:28:51.890
+<v Speaker 1>ever since we've done, we did landfall and then we did, um,</v>
+
+00:28:52.600 --> 00:29:22.300
+<v Speaker 1>constellation, which was essentially A chant and fall. We've been talking about doing creature fall and creature fall. I mean, this is something we, we've done on cards, just naming it and making the theme within a set, which is OK. Every time you play a creature or something happens and ended up feeling a little bit like the allies did because the allies had a bunch of entries battlefield that cared about allies. This was a little more focused. The problem Eric ended up having, reason Eric actually took out, I forget what we called both creature fall was</v>
+
+00:29:22.960 --> 00:29:24.780
+<v Speaker 1>it was too synergetic with Boros.</v>
+
+00:29:26.340 --> 00:29:55.230
+<v Speaker 1>So there's a thing we call the Naya problem, which is that the natural state of what Borrows wants to do and what Selesnya wants to do is probably the closest of any 2 guilds. They're both creature centric and they're both have sort of a go wide strategy to them. We of course is a little bit more aggressive, but there's a lot of similarities. And one of the problems is we want to make sure that all the three color pairings, the five, three color pairings that you could do are all equally viable. And the synergy was just too high.</v>
+
+00:29:56.350 --> 00:29:58.880
+<v Speaker 1>So Eric ended up taking out the mechanic</v>
+
+00:29:59.520 --> 00:30:00.730
+<v Speaker 1>not because it didn't work,</v>
+
+00:30:01.510 --> 00:30:03.920
+<v Speaker 1>but it has worked 2 effectively with with barrows.</v>
+
+00:30:05.890 --> 00:30:08.780
+<v Speaker 1>One of the things in general was Boris already,</v>
+
+00:30:10.590 --> 00:30:27.340
+<v Speaker 1>you know, the thing creature Bond wanted was a lot of tokens and a lot of small creatures, and Boris already is going in that direction. It's like it wants in any way. It played well with Mentor anyway, and so we ended up sort of pulling back a bit and trying something that was synergistic, but not quite so synergistic. So that's how we ended up with Convoke.</v>
+
+00:30:28.310 --> 00:30:29.870
+<v Speaker 1>OK, Next Golgari.</v>
+
+00:30:30.610 --> 00:30:32.180
+<v Speaker 1>So Golgari Thug,</v>
+
+00:30:33.300 --> 00:30:37.490
+<v Speaker 1>first time around we did dredge, which is you could choose to</v>
+
+00:30:38.650 --> 00:30:55.300
+<v Speaker 1>draw the card out of your graveyard instead of your draw, but you had to mill some cards, put cars on top of your library India graveyard to do that. Dredge probably the most broken Guild mechanic we've made. Second time it had scavenge, which was a mechanic that let you creatures once they died</v>
+
+00:30:56.680 --> 00:31:26.260
+<v Speaker 1>to be exiled to grant plus and plus encounters to existing creatures. So the idea essentially is once they die, you get a user component parts to make your creatures better. The very Golgari feel, so we knew from Golgari is very centered on the graveyard, black and green on the graveyard colors. And Golgari's whole thing is about sort of the cycle of life and making use of things that are dead and bring them back. And so we knew we wanted to graveyard centric mechanic.</v>
+
+00:31:28.380 --> 00:31:47.600
+<v Speaker 1>We tried a bunch of different things mean nothing, nothing really gelled. And then Eric, but while we're in vision design, Eric actually made a suggestion. He and I talked a bit about some of the problems with Agari. And so he printed a mechanic, I think we were calling it Necro bloom in the time it's called undergrowth. And what it is is</v>
+
+00:31:48.980 --> 00:32:19.120
+<v Speaker 1>he sort of took what I would call a little voice mechanic, which is a large constant, the number of creature cards in your graveyard or the logo icon all graveyard. But this one counts your graveyard and says, OK, the more critical graveyard, the stronger the still gets to be. But the one thing that Eric felt strongly about was he didn't like when you have to constantly monitor like, oh, this is ** whatever, how big is it? And you're constantly checking And it's just, it's a lot of busy work checking. And so the idea he liked is OK, well casts</v>
+
+00:32:19.220 --> 00:32:19.580
+<v Speaker 1>12.</v>
+
+00:32:21.050 --> 00:32:33.770
+<v Speaker 1>You will check at the time that you cast this vowel or the if it's a creature, it enters the battlefield, but around the same time. And then you will get a number. That number will matter and then you're done. The number matters. And so,</v>
+
+00:32:35.760 --> 00:32:38.550
+<v Speaker 1>so the nice thing about Golgari is, um,</v>
+
+00:32:39.650 --> 00:33:09.480
+<v Speaker 1>the underground mechanic was it allowed you to make effects that would grow as the game goes along because the natural state of the game is your graveyard gets filled up. And it allowed us to mess around a little bit and do some cool interactional stuff with the graveyard. Demurred normally has a mill theme and they overlap in blue. So one of the ways to make milling mean something is make sure that it could hit you. And then if you're playing, if you're playing blue black, green, maybe you're using the milling stuff to feed your own graveyard so that you can do</v>
+
+00:33:09.580 --> 00:33:10.120
+<v Speaker 1>cool stuff.</v>
+
+00:33:11.060 --> 00:33:11.770
+<v Speaker 1>Um,</v>
+
+00:33:12.930 --> 00:33:15.380
+<v Speaker 1>and so we,</v>
+
+00:33:17.360 --> 00:33:18.580
+<v Speaker 1>it was one of those mechanics that</v>
+
+00:33:19.430 --> 00:33:38.640
+<v Speaker 1>like, one of the things about Guild mechanics in general is you don't, you don't need a lot of space. Like you're going to make 8 to 12 cars with the mechanic. And so the Guild mechanics are really good for mechanics that are kind of cool, but have a limited amount of space to them and undergoes the good example where it's a scalable fact. It's got to be in green or black.</v>
+
+00:33:39.800 --> 00:33:48.390
+<v Speaker 1>There's not an endless number of scalable facts. There's some and not enough that I knew we could build this, but not an endless number. And so one of the things that were</v>
+
+00:33:49.070 --> 00:34:20.080
+<v Speaker 1>that why I think this was a good mechanic for Golgari is it's super flavorful and really plays into the themes of Golgari wants to play into. And it is just not the mechanic you can make infinite cards out of. It really is kind of limited what you can do. So it's well suited to be a Guild mechanic. So undergrowth Golgari plays miscellaneous like sad because blessing justice creature centric has a lot of creatures. They're going to die naturally and then you can use that. So if you're playing black, green, white, you know, it's a strategy. We're going to build a build up and</v>
+
+00:34:20.190 --> 00:34:22.440
+<v Speaker 1>use a graveyard as resource. You have a lot of creatures</v>
+
+00:34:24.680 --> 00:34:50.600
+<v Speaker 1>with the mirror. A Damir has a milling theme, so there was an interaction with that. And the other thing was we liked the idea that the mirror mechanic could help feed the graveyard in general. And I'll get to Surveil in a second, but Surveil allows you to get cards into your graveyard and some of those cards can be creature cards. So that can help you in fueling your undergrowth spells.</v>
+
+00:34:51.710 --> 00:35:10.040
+<v Speaker 1>OK, so now we get to Demir. So Damir probably had the hardest time. So the first time we did transmute and the second time we did cipher on transmute wasn't interesting mechanic. Black and blue definitely are sort of the most library centric of the guilds. The problem is our and really started shying away from</v>
+
+00:35:10.840 --> 00:35:19.370
+<v Speaker 1>um tutoring mechanics. They just lead to a real repetitive game state when I can go get what I want out of my deck instead of randomly drawing it,</v>
+
+00:35:20.590 --> 00:35:35.840
+<v Speaker 1>I go get what I want. And so I'm more I more often and more reliably get the same card. And so just the gameplay plays out the same. So now that we don't want tutors, although we are definitely looking at more looking at top of the deck for stuff, you know, look at the top end cars to find,</v>
+
+00:35:36.770 --> 00:35:37.220
+<v Speaker 1>you know,</v>
+
+00:35:37.940 --> 00:35:46.590
+<v Speaker 1>ohh thing because that allows you to build your deck around it without leading you toward one of the problems with tutoring also is</v>
+
+00:35:48.030 --> 00:35:54.510
+<v Speaker 1>that it makes you sort of just put single versions of things you want your deck and that</v>
+
+00:35:55.140 --> 00:36:06.750
+<v Speaker 1>doesn't tend to necessarily make you always do what we want. Like a lot of times we want you to care. We want your deck to be full of the thing, not to say, Oh, I'm just going to have one singular thing in my deck</v>
+
+00:36:08.590 --> 00:36:13.120
+<v Speaker 1>anyway. Um, the mechanic we tried with Demir</v>
+
+00:36:13.810 --> 00:36:14.840
+<v Speaker 1>was</v>
+
+00:36:16.350 --> 00:36:18.140
+<v Speaker 1>it was a</v>
+
+00:36:18.460 --> 00:36:29.570
+<v Speaker 1>ninjitsu variant and the idea was it was kind of reverse ninjitsu was the way it worked. We're not reversing. It wasn't jitsu, but</v>
+
+00:36:31.090 --> 00:37:00.940
+<v Speaker 1>I guess it was a it was a very ninjitsu. The idea essentially was that if I have something attacking, I could swap the creature in my hand to that I could exchange it with a creature that's attacking if it's unblocked. The difference is that the thing that it's exchanging maintains all the qualities that it has. If it has equipment on it, if it doesn't, Chatman's on it. If it's counters on it, whatever</v>
+
+00:37:01.020 --> 00:37:10.290
+<v Speaker 1>they that you're literally exchanging the things that it's kind of the flavor is it's turning into that thing that through magic, it's turning into that thing.</v>
+
+00:37:11.600 --> 00:37:28.420
+<v Speaker 1>And on the mechanic that I made that was kind of cool, but a little complex and ended up being a little bit too much to to make to, to do what we want to do in the rules. It was a little bit wordy and a little hard to understand. And</v>
+
+00:37:30.180 --> 00:37:31.570
+<v Speaker 1>yeah, it just it,</v>
+
+00:37:33.220 --> 00:38:03.630
+<v Speaker 1>I, I had aired. One of the things that I tend to do, especially when I'm handing off to Eric, is I like to make things super, super flavorful because Eric's great at fine tuning things, but usually he likes me to give him a little out-of-the-box stuff that he might not necessarily think of himself. And so I was definitely a little more fanciful with the guilds of Ravnica guilds. And I think in the end I made a few things that are a little bit too complicated. The mechanic is a good example where it's a little bit too much</v>
+
+00:38:03.710 --> 00:38:07.520
+<v Speaker 1>and we had a pullback. So Eric was trying to solve the problem of</v>
+
+00:38:08.260 --> 00:38:13.210
+<v Speaker 1>I have is it on one side, I have Golgari on the other side. How do I, how do I care about that?</v>
+
+00:38:14.230 --> 00:38:14.760
+<v Speaker 1>Um,</v>
+
+00:38:15.650 --> 00:38:24.840
+<v Speaker 1>and he liked the idea that the Damir robot information and then they were about sort of manipulating information that felt very flavorful for the Guild.</v>
+
+00:38:26.420 --> 00:38:34.000
+<v Speaker 1>And I think the big thing he realized was the Jumpstart surveil combination of what if</v>
+
+00:38:35.460 --> 00:38:58.050
+<v Speaker 1>I make it such that the damier mechanic is playing in some space where we're getting stuff to the graveyard and both things on the side care that that is so Jumpstart can recast instant sorceries. Because if you're going to cast instants and sorceries you need from them, the graveyard is the logical place to cast them a second time. And Golgari is the graveyard centric 1. You know, they do something with graveyard.</v>
+
+00:39:00.040 --> 00:39:31.530
+<v Speaker 1>So Eric start with the idea of something to do with information and we want to get cards in the graveyard and he tried a bunch of different things. In the end, what he realizes what he really wanted was basically scry with a tweak. Because scry normally when you cry, you look at the top end of your library. You choose whether to leave them on top of library in whatever order or put them on the bottom of your library. And what Eric wanted really was is that except instead of bottom of the library, they went to the graveyard. And like I said, one of the things that we were willing to do was</v>
+
+00:39:32.370 --> 00:39:39.200
+<v Speaker 1>we said that not every mechanic necessarily had to be a new mechanic. That also meant that we were willing to sort of take old mechanics and tweak them a little bit.</v>
+
+00:39:40.630 --> 00:39:56.250
+<v Speaker 1>I mean, like I said, jump starts across between 2 old mechanics between retrace and flashback and surveil is look, it's a tweak on script. It's what it is. It's an important tweak. And in this particular set, it does a lot of good. And so one of the things that you definitely,</v>
+
+00:39:58.250 --> 00:40:13.110
+<v Speaker 1>I mean, when Eric first came up with this, the thing I think he likes so much about it was it just had the balance he needed. And the cool thing about it is when you surveil, you're definitely getting the information you want and you're definitely doing some of the films very demery.</v>
+
+00:40:14.410 --> 00:40:44.720
+<v Speaker 1>That you know, the reason it plays with is it is you're getting jump start cards into your graveyard. The reason it plays with Golgari is you're getting creatures in your graveyard. You're feeding undergrowth. Ohh. The one thing I should mention, Lugar this time is a little bit different is previous Golgari mechanics. They themselves worked in the graveyard. Scavenge worked in the graveyard. Damir, not Damira, Dredge worked in the graveyard. And this is a little kind of different take, which is it's mechanics that cares about the graveyard, but not a mechanic that works</v>
+
+00:40:44.800 --> 00:40:52.790
+<v Speaker 1>in the graveyards and just a little bit different sometimes when you get into certain mindset, like Golgari is graveyard oriented, but</v>
+
+00:40:53.540 --> 00:41:10.700
+<v Speaker 1>it doesn't have to be in the graveyard. It doesn't have to work in the graveyard. And I think that one of the things when Eric Mendez picture this mechanic, it really said to us, ohh, yeah, that's interesting. Like Largo lives, that kind of stuff is very graveyard Y, but it's not living and breathing in the graveyard. So I thought that was pretty cool.</v>
+
+00:41:11.400 --> 00:41:11.950
+<v Speaker 1>Um,</v>
+
+00:41:13.600 --> 00:41:14.330
+<v Speaker 1>so</v>
+
+00:41:16.130 --> 00:41:21.210
+<v Speaker 1>one of the things that we definitely did is because we treated this like it was a block,</v>
+
+00:41:22.860 --> 00:41:43.070
+<v Speaker 1>there clearly is a relationship between the two sets. I mean, it's kind of funny that we moved away from the block just as the set was coming because in some ways, especially the first guilds of Ravnica and Raving Allegiance are very much aware of one another. We have a number of cycles that are 10 card cycles that five of them in the first set and five are in the second set.</v>
+
+00:41:44.890 --> 00:41:47.320
+<v Speaker 1>Milk is its own thing. I mean,</v>
+
+00:41:48.690 --> 00:42:06.440
+<v Speaker 1>milk is what I will call an event set, which is a new thing we're trying where it's about something that happens more so than where it is like it's not an environmentalist much. Most of it's kind of like all but well, what world did on and it's very environmental to the world.</v>
+
+00:42:08.350 --> 00:42:23.280
+<v Speaker 1>And so the book goes running and running allegiance are much more old school in that sort of like, OK, there are about the place we're in Ravnica and we're making choices about how to maximize Ravnica. Milk is doing something very different and like I said, milk really</v>
+
+00:42:25.130 --> 00:42:36.520
+<v Speaker 1>when we get to milk and explain milk like I had a very out there ask and I had to get creative and figure out how to do it. So we did some pretty cool stuff in milk, but part of sort of us doing</v>
+
+00:42:37.180 --> 00:43:05.550
+<v Speaker 1>making milk a little different kind of that may be more willing to have these sets be a little more straight laced. When looking at guilds of Ravnica, we definitely the Shock lands were originally going to be actually originally an Exelon and Dominaria. And then I forget why we made that change, but it's a running joke in R&amp;D that we named the Shockland to be setting neutral. So we put them in any world and then we put them on Ravnica</v>
+
+00:43:07.240 --> 00:43:11.550
+<v Speaker 1>one day. One day we'll show clients on Ravnica just to justify the names.</v>
+
+00:43:13.850 --> 00:43:23.580
+<v Speaker 1>We also ohh, so the the Guild leaders, we had to shake things up a little bit ohh. The one big difference is between Gills of Ravnica and Roger Allegiance and</v>
+
+00:43:25.060 --> 00:43:54.970
+<v Speaker 1>the previous two wrapping assets is we had something we did not have before, which is we have two fives, which is 5. The guilds are leaning toward bolus and five of them are leaning toward resisting bolas. And we treated those a little bit differently. And so some of our cycles are 10 card cycles in which all of them are treated the same. They're shocking. Everyone has Shockland, they're gay, everyone has a gate, things in which they're all the same and in some in which they're a little bit different. For example, the leaders of the Guild,</v>
+
+00:43:55.040 --> 00:44:25.460
+<v Speaker 1>if you are a bolus aligned Guild, you get a planeswalker to be your leader. So for example, in guilds of Ravnica, the two guilds that we know are falling the bolus are is it and Golgari because they have raw and Rascal leading them. So what we did is if you're not if you're not with Bolas, you get a legendary creature that is your leader and then everybody gets a legendary creature just cause, you know, commander and brawl or thing.</v>
+
+00:44:25.620 --> 00:44:54.730
+<v Speaker 1>And there's a lot of fun characters who want to revisit. So there are two cycles, but one cycle is kind of five and five. It's a planeswalker and legendary creature Guild leader cycle. And then there's just other creatures. Before we did a previous wrapping with blocks, we did a Guild leader cycle and a Guild champion cycle. The excess ones sort of varies from Gilda Guild. So the second, the other lender tricycle is not quite as</v>
+
+00:44:55.620 --> 00:45:25.830
+<v Speaker 1>it's kind of what the what the sets needed and what characters we wanted to talk about and who made sense in the story. So it's not quite as tight as previous times. We did gates again and there's gate matter cards and we did the shock lands again. We did Guild mages again. We did split cards, we did hybrid. We did a lot of things that you would expect for us to do. Such design did come up a cool way to combine the split cards and the hybrid cards. That's something that was done in set design. Vision had both hybrid cards</v>
+
+00:45:25.900 --> 00:45:26.640
+<v Speaker 1>and had</v>
+
+00:45:28.280 --> 00:45:33.310
+<v Speaker 1>split cards but not in the combination that they ended up in the final set.</v>
+
+00:45:35.150 --> 00:46:01.770
+<v Speaker 1>We also had killed We went through a lot of different version of guildmages forum. I think the one that ended up with is we had tried like 5 different things and one of them said design ended up going with. Although I think we had turned over a slightly different version of Guild mages and they went back to one of the previous ones we had tried. But anyway that my friends I've now just parked that is guilds of Ravnica. So this is definitely one of those sets where</v>
+
+00:46:02.470 --> 00:46:21.840
+<v Speaker 1>I tried a lot of stuff in vision design and I was, uh, I pushed things a little bit. One of the things I find with working with Eric, one of the roles of vision design is knowing your set designer and designing towards your set designer. And Eric really likes me to push things a little bit and then he can pull back if he needs to.</v>
+
+00:46:23.050 --> 00:46:43.430
+<v Speaker 1>That's just how Eric, you know, Eric knows that I'm good at sort of doing the the weirder things. And Eric is really good at doing sort of the structural straight lace stuff. So he likes me to push a little bit. I think that's what happened here is I was pushing mechanics a little more. They ended up being a little bit more complex than we needed and Eric made some changes and set design to clean those up.</v>
+
+00:46:44.710 --> 00:47:15.400
+<v Speaker 1>It does mean that these mechanics are a little more functional than splashy. But like I said, the ravening mechanics, really Ravnica sets don't live and breathe on the flashiness of them mechanics. That's never really been true, and that's true this time. But they play really well and they combine really well and they synergize really well, which is what you want out of your vehicle mechanic. So I think they do a really good job of doing what and their heart they need to do. So anyway, I hope you guys enjoyed this and hope you're having fun, but by the time you're on this playing with Ravnica, it's a really fun set. Hope</v>
+
+00:47:15.470 --> 00:47:45.140
+<v Speaker 1>we're enjoying it and we get to Ravnica allegiance. I will talk all about that said. And I mean, there's some things that went on during that that went on during the same time period, but because you guys don't know that yet, have to wait. And then some point I'll get to milk. Milk is milk has a fascinating vision design story. That is definitely something where I went a little more outer limits and we did it. So anyway, I gotta get going because I'm at work. So it's time for me to stop talking about magic and sorry, start talking magic in time.</v>
+
+00:47:45.480 --> 00:47:50.530
+<v Speaker 1>Big Magic. I messed that up. But anyway, I'll see you guys next time. Bye bye.</v>
+

@@ -1,0 +1,356 @@
+WEBVTT
+
+00:00:01.360 --> 00:00:30.960
+<v Speaker 1>I'm pulling on the driveway. We don't know. That means it's time for the drive to work. OK, So today, recently, Brian David Marshall, recently for me, that is Brian David Marshall wrote an article where he interviewed a lot of old pros about the beginning of the limited. And I thought that was a fascinating topic. And so I'm stealing it from my podcast. So this is sort of a companion piece. Have you read that article? I'm going to give you sort of</v>
+
+00:00:31.790 --> 00:00:50.620
+<v Speaker 1>limited from the perspective of Wizards of R&amp;D, you know people behind the scenes and sort of talk about a lot of the events that that article covered, but from my perspective and you know aren't's perspective. OK. So first we go the way back machine 219, I don't 9192.</v>
+
+00:00:51.590 --> 00:01:18.570
+<v Speaker 1>So the question is when did limited first start And the answer is it started before the game was released. So it turns out that the playtesters, among the playtesters was Bill Rose who is our current VP of R&amp;D. Bill and I worked together for 20 years. He and I were hired with same month back in October of 1995 and we worked a long time together in our enemy. We still work together.</v>
+
+00:01:19.990 --> 00:01:50.000
+<v Speaker 1>And so Bill and I had some interesting chats about I was trying to figure out the origin to to drafts. Where did drafting begin? And it turns out that I think Bill is responsible. So if you go back to the play testing once again, this is before the set came out. What Richard had done, Richard Garfield, the creator of the game is he had given people like sort of booster packs of cards. So people didn't have access to all the cards they had access to, to booster packs. And he wanted</v>
+
+00:01:50.090 --> 00:01:57.800
+<v Speaker 1>to match the environment where people had limited access to cards and had to build decks from what they had and had a trade and stuff. But anyway,</v>
+
+00:01:59.000 --> 00:02:05.740
+<v Speaker 1>obviously the play testers for gamers, they clearly, and so they were interested in figuring out other ways to make it matter.</v>
+
+00:02:08.670 --> 00:02:11.280
+<v Speaker 1>So one of the things that they did was</v>
+
+00:02:12.540 --> 00:02:19.450
+<v Speaker 1>Bill was a big fan of Strata Matic baseball. So for those that don't know, Strata Matic baseball is a</v>
+
+00:02:20.340 --> 00:02:50.090
+<v Speaker 1>is a thing where you take actual baseball statistics and you play a game of baseball. But what you do is you plug in real, you plug in real baseball stats, real people. So my team will be actual baseball players, current baseball players or or historical baseball players, whatever. But I'm using real stats in order to play the game. So how well a player can do is dependent upon how well that player did it, statistically speaking. And one of the ways they used to place</v>
+
+00:02:50.810 --> 00:03:20.580
+<v Speaker 1>strategic baseball is they would do a draft in which they take all the players. And I don't know whether it was always all current players or maybe historical players, but they have a pool of people that you could, you know, baseball players you could draft from and they would draft them. So when they were trying to figure out fun things to do with Magic cards, they came up the idea one day of doing a draft. And so they did is they took whatever cards they had available to them and they laid them out. And then what they did is they then drafted</v>
+
+00:03:20.650 --> 00:03:33.770
+<v Speaker 1>and they just sort of took turns taking them and that was the very first draft. So imagine if you guys about Rochester draft is so when we first started the pro tour,</v>
+
+00:03:35.000 --> 00:03:45.510
+<v Speaker 1>well back then they they came up with what they call Rochester draft and I'll get to the proton a SEC. So Rochester draft is is you have a pack, you open it up,</v>
+
+00:03:47.160 --> 00:04:16.930
+<v Speaker 1>there are 15 cards in the back. Although back in the day you weren't always guaranteed to have a basic land. Now one of them is always a basic land. And what happens is you lay the cards out and then the first player takes one of the cards and then the second player takes one. And then you go all the way to the eighth player. But then the eighth player takes another card and then the seventh player, then the 6th and the 5th, the 4th, the third. So the idea essentially is when you do a Rochester draft, sort of you are doing what they call Snake. You know, you go one through 8, then back down</v>
+
+00:04:17.190 --> 00:04:32.040
+<v Speaker 1>8, getting a AA double double take. And then the idea is that the next person, you know, the next pack is opened by the next person. So you keep rotating who begins, and you do this until everybody's drafted 3 packs,</v>
+
+00:04:33.550 --> 00:04:49.510
+<v Speaker 1>I'm sorry, until everybody has opened up 3 packs. So there's 45 packs open total. So you either draft one or two cards depending on where you're sitting for each, whenever, whenever a particular booster pack is opened up. So Rochester was the very first drafting that happened,</v>
+
+00:04:51.080 --> 00:05:21.030
+<v Speaker 1>but in general our and really liked drafting and limited stuff. In fact, when I first got there, so I got there in 95 and even actually before I even when I was freelancing showed up to Windows where I'm freelancing. Richard in particular are loved coming up with draft formats. Richard just loved making draft formats and you know, all the time it's like, oh, try this format, try this find. Richard would just invent draft formats. And so one of the things that R&amp;D really enjoyed doing drafts, I mean,</v>
+
+00:05:21.180 --> 00:05:26.140
+<v Speaker 1>limited play was always the thing seal play. We just opened up packs of people. Like when Magic first came out,</v>
+
+00:05:27.490 --> 00:05:57.380
+<v Speaker 1>mostly Magic was a constructive thing is what people did. But people would play sealed. You know, that was the one way people would play is they'd open up packs and play with what they got. If you remember or don't do it, don't remember. When Magic first came out, there were boosters which were 50 card, 15 card boosters. And there's something called a starter deck that had 60 cards, I think 22 land, I want to say maybe 24, but somewhere between 22 and 24 land. And it had two rares and you know,</v>
+
+00:05:57.450 --> 00:05:58.660
+<v Speaker 1>it had, I don't know,</v>
+
+00:05:59.440 --> 00:06:16.120
+<v Speaker 1>13 in comes in like that. And the idea was it at all five colors and you could just play it out-of-the-box. I mean, it was A5 color deck, so it was slow. It wasn't very concentrated, but you could just play. You can open up and play with it. And that even starter is if the product that you could just begin with right away.</v>
+
+00:06:17.850 --> 00:06:19.540
+<v Speaker 1>And So what happened was</v>
+
+00:06:20.910 --> 00:06:28.780
+<v Speaker 1>early Magic that was common to have like you would just come and get a starter and you would play with your starter. Then in LA</v>
+
+00:06:30.250 --> 00:07:00.260
+<v Speaker 1>we started doing something we called, what do we call it? Ah, Grand Masters where you would open up a starters a 60 cards. You would play against somebody and then the winner of the match would get the losers cards. And then you would take the cards and you would build a new 60 card. They first the 60 card deck was the cars you owned, but then you build the 60 card deck with between the two cards you had, you had 120 cards, half of which you had to use and what happened? And then each time you won, you'd get the losers cards.</v>
+
+00:07:00.370 --> 00:07:30.370
+<v Speaker 1>And so you would usually that we would play with 16 or 32 people. Every once awhile 64 there enough people. And the idea was the deck started getting really good as you started getting more cards. But in early Magic. So when I first came to Wizard, so I got involved obviously during alpha and I played with Magic and there was sealed and there was Grand Masters and there were there were a bunch of different ways to play where essentially you just opened up stuff and played. But drafting was not something I had experienced until I got</v>
+
+00:07:30.450 --> 00:08:01.660
+<v Speaker 1>Wizards. And driving was something that Wizards, the R&amp;D was really into. And so one of the things they wanted to do was they were trying to figure how to introduce drafting to more people. They really thought if more players were aware of it, that they would enjoy it. And so one of the interesting stories from our side, from the R&amp;D side of it, is trying to figure out how to get people to draft. Now the interesting thing is, I mean, drafting now is really, really popular, but at the beginning, Limited was not super popular. Mostly people associated limited,</v>
+
+00:08:01.760 --> 00:08:08.070
+<v Speaker 1>sealed, and sealed. There's a lot of randomness in sealed. So people saw limited play as being really random.</v>
+
+00:08:09.470 --> 00:08:28.300
+<v Speaker 1>But what we decided was, OK, well, we needed, we needed to use some high profile tournaments to get people to play. So the first time that I remember people playing limited at all in that tournament setting is at 95 nationals. So that was the nationals in Philadelphia. It's the one that Mark Justice defeated Henry Stern in the finals.</v>
+
+00:08:30.650 --> 00:08:58.460
+<v Speaker 1>It was I, I've, I've, I've had podcast talking about that. But, and one of the things I remember real quickly for those men, I heard that podcast, what happened was the players got together and the player, meaning they were walking through the formats they're going to play. And one of the formats was sealed. And the players really did not want to play sealed because they saw it as too much luck. They saw it, as you know, the construction was skilled and sealed was just luck. And the meeting,</v>
+
+00:09:00.250 --> 00:09:27.660
+<v Speaker 1>the meeting went on for three hours. There was a player meeting that went on for three hours, which shouldn't happen. But anyway, in the end, the decision was, well, the play seal, but we'll give you a lot more cards. And so I I forget how many cards they opened, but they the idea was they just give you more cards. Interestingly, I'm not sure that really helps variance or not, but at least it made sure that nobody got a horrible deck. I think it meant that certain players got a crazy good deck, but at least everybody had no one had an unplayable deck.</v>
+
+00:09:29.770 --> 00:09:33.420
+<v Speaker 1>Then at 95 Worlds, which was in Seattle that year,</v>
+
+00:09:34.600 --> 00:10:04.700
+<v Speaker 1>we had we again did a sealed portion and what we did is we gave away a huge amount of card. She just had a lot of cards that I joked it was almost a casual constructed. Like we gave you enough cards that the average Magic player playing at home, this is the kind of access the cards they had. And there was a lot of of really strong decks. I mean, I think when I did my podcast on 95 World, I talked about Ivan Carino's deck where he had a classic authority and still energy and channel. So basically</v>
+
+00:10:04.780 --> 00:10:34.510
+<v Speaker 1>turn 2, he was able to play a nine nine and then use another card to both allow her to attack immediately and override the the you know, it was a 99 that you had to pay like, I don't know, 9 life for something to untap it. And then so energy let you untap it for free. So it's sort of like he was able to get out this giant creature really quick and then overwrite any, you know, any negative to it with three cars. So it was pretty cool, but but it was symptomatic of they were really powerful decks because they gave them so much cards.</v>
+
+00:10:35.050 --> 00:10:43.360
+<v Speaker 1>OK, but we didn't do dry. That's still just doing seal play. That's not draft. So let's talk about the very first draft. So one of the things that</v>
+
+00:10:45.810 --> 00:11:04.540
+<v Speaker 1>the very first pro tour obviously was constructed. I've talked about that. But the second pro, which is in Los Angeles on the boat once again, I I feel a lot of on these in different podcasts. I talked about I think called Tales from the Boats, one of my podcasts. I do talk about this first one, but I'm talk a little bit about more about our take on how to get people to play limited. OK, so</v>
+
+00:11:06.170 --> 00:11:35.820
+<v Speaker 1>at the very first portal, Los Angeles, it was our first ever limited pro tour. So the way proctors used to work back in the day was we would alternate between having constructed pro tours and limited pro tours and then the limited pro tours. We would alternate between two formats mostly is Rochester Draft, which what I explained in Booster draft with, I assume most of you know, where you open a booster, take a car and passes the booster. It's interesting by the way, Bushcraft got created because we considered Rochester Draft to be the better draft,</v>
+
+00:11:35.890 --> 00:12:05.450
+<v Speaker 1>just, you know, it was more skill testing we felt and just, you know, led to better game play and we ended up making booster draft more as a sort of another way to play. One of the things we found was Rochester draft just took a while to do. And so we wanted to draft format that if people didn't have, you know, the time or space did rush after it was kind of a more a more, you know, more, I don't know, easily, more easily manageable format.</v>
+
+00:12:06.310 --> 00:12:37.480
+<v Speaker 1>And at the time, we really thought that Rochester was going to be the thing we thought booster draft just kind of like, well, some of the stores would do more often, just a little easier to do. What we ended up finding was that Rochester really didn't take off. And it's funny, I mean, bushcraft, yes, was easier to do and quicker, but it actually had a few other bonuses that we didn't the time realize. So one of the biggest was in Rochester, you layout your cards. So if you make a mistake, if you take the wrong card, it's on public display. Everybody's watching what you're doing.</v>
+
+00:12:38.160 --> 00:13:07.670
+<v Speaker 1>So the first problem was it just, it was really hard for someone who was a beginner to play because or damage to the beginner, just not an expert to play because it just made you very self-conscious because if you made a bad choice, if there was a correct thing to do and you didn't do it, everybody saw it. You know, in booster draft, if you have a really good card and you don't realize it's really good and take a less good card, you know, maybe the guy next to you realizes you didn't take the good card. The Who knows, maybe you took another good car,</v>
+
+00:13:07.740 --> 00:13:37.670
+<v Speaker 1>they don't know. But in Rochester Draft they're really aware. So Rochester Draft is a little too open and it's just one of the things we have to think a lot about. And this is one of the reasons why I think computer versions of the game teach really well is there is there's an ego factor when you're learning to play a game or learning a format or whatever, which is you don't want to feel dumb. People don't like to feel dumb. And when you have to do something and other people are watching you, it just makes you feel self-conscious.</v>
+
+00:13:37.880 --> 00:13:54.530
+<v Speaker 1>But the nice thing about like Boucher draft is I'm doing it in nobody's watching me. Or when you're playing on Magic duels or online, like if I'm playing against the AI, like the computer's not going to judge me. No one. If I make a mistake, whatever, I can take my time. And then we've learned is</v>
+
+00:13:55.900 --> 00:14:11.640
+<v Speaker 1>people do get very self-conscious when they're they're learning things. And that you have to be yet be aware of that, that you have to be aware of that. You don't want your player to sort of feel judged because whenever you're starting to play something, hold on a second, I'm going to sip water here.</v>
+
+00:14:14.120 --> 00:14:15.740
+<v Speaker 1>Whenever you start playing with something,</v>
+
+00:14:17.050 --> 00:14:35.560
+<v Speaker 1>you most people understand that they don't know things. You know, I'm saying most people don't walk in and go, I know exactly what I'm doing. You know, you don't know and you you're self-conscious about it. You know, especially when you're playing better people for the last thing you want to do it because here's the tip, by the way, if you're playing with with less experienced players,</v>
+
+00:14:38.950 --> 00:15:07.920
+<v Speaker 1>if they make a poor choice, a lot of times there's a tendency to want to go. What were you? What were you doing? And what you mean? What you don't realize is there's decisions that are clear as you get better that aren't clear before and that you know the attitude. The attitude is sort of you know, you're a dummy because you didn't do the right thing. No, the point is they might not know that you know that you have to be careful not to. Like if you're trying to encourage newer players or just</v>
+
+00:15:07.990 --> 00:15:24.310
+<v Speaker 1>letters that are newer to reformat you're trying to play. You have to be careful how you're critical because if you really sort of are two condescending, it just drives them away from wanting to play. And that's a very careful thing with new players is don't assume they know things.</v>
+
+00:15:24.980 --> 00:15:55.070
+<v Speaker 1>There's things that you didn't know when you started that they don't know. And the attitude sometimes have, what are you doing, you know, is really off putting. So you have to be careful that if you're trying to nurture new people playing, don't assume they know things and don't somehow like belittle them for not knowing them when they might not know them just because, look, you probably didn't know them at one point either. It's much better, for example, if you see them do something, say to them, hey, I notice you do such something. Here's something, here's something that you might not know, but you know,</v>
+
+00:15:55.170 --> 00:16:02.380
+<v Speaker 1>can help you, you know, and it's not as in you're a dummy. It's more like, I understand, you don't understand. Let me help you learn and, you know,</v>
+
+00:16:03.430 --> 00:16:32.880
+<v Speaker 1>be a positive teaching moment and not a negative sort of shaming moment. So just in general, I mean that don't shame people in general, but as thing when you're teaching people, be careful to be constructive in that shaming when you're trying to teach people they're doing something wrong, right? But good life lesson basically. OK, so the other thing that really made booster draft take off, I think was that I mean, it takes less time. It takes, it just takes less space.</v>
+
+00:16:33.460 --> 00:16:37.170
+<v Speaker 1>But also there was a lot of,</v>
+
+00:16:37.870 --> 00:17:08.540
+<v Speaker 1>one of the fun things was in Rochester draft, there's so much information and you feel obligated to learn all the information. This is another important thing and design, which is you have to be careful how much open information you give your players because the players feel obligated to know the open information, even though a lot of times they're not going to be able to. And Roger draft like you knew what every single person took, you know, and you know who you're going to draft first. So like, you know, really good Rochester drafters are like, OK, I'm playing against the person opposite me.</v>
+
+00:17:08.630 --> 00:17:39.040
+<v Speaker 1>They're stunning good on this path. Well, I better shift what I'm drafting to adapt to what they're playing. And that's great if you're a really good player, but a less experienced player, like can barely remember what they took, let alone with seven other people talk. And what happened was with Rochester Draft, you felt obligated to learn that information because some people would. And then you just felt bad about yourself when you couldn't absorb that much information. And in general, the nice thing about booster draft is there's actually a lot of information you could learn, but a lot of it's more hidden.</v>
+
+00:17:39.210 --> 00:17:59.410
+<v Speaker 1>For example, it takes a while when booster drafting to understand what we call reading signals that we first start drafting was just like, what's the best thing in this pack? You're not worried about what you're not thinking beyond the pack. But as you get better, you start going, oh, I know the person to my right or left, depending on which way, you know which, which packet is</v>
+
+00:18:00.890 --> 00:18:30.820
+<v Speaker 1>passed it to me. I know they took something. Oh, well, let me look and see what's missing. You know, for example, you can start telling what colors got drafted before you because those colors appear less in the pack, you know, and if you see cars that are very strong, that sort of says, oh, they're not in that card. They would have taken this card. You know, for example, if you get past the pack and there's a really strong blue card, you know, if it's the if, if it's the second, if someone just passes, it means the guy to your right didn't take</v>
+
+00:18:30.890 --> 00:18:53.720
+<v Speaker 1>blue. But if it's like the 4th passes, the three guys, you guys are gals to your right might not have been taken blue. There's a really good blue card. So one of the things is you learn to read signals, but that's not something that's apparent right away. And that one of the things is you. I talk about lenticular design, about how you want to make cards, that</v>
+
+00:18:55.110 --> 00:19:09.090
+<v Speaker 1>the deepness of the strategy is kind of hidden from less experienced players. That is true not just in card design, but in format design. And what ended up happening with Booster Draft is it has a lot of lenticular qualities in that</v>
+
+00:19:10.020 --> 00:19:40.600
+<v Speaker 1>there's a lot of depth to it, but the depth is not so apparent at first. When we first start booster drafting, you can just focus on what is the best card in this pack and not worry about anything beyond that. But as you get better, there's a lot more information from that pack that you can glean that you can share and you can learn. And so Boost your Draft has a much better curve of learning in that as you're ready to learn more, more stuff become available to you. But it's a little bit hidden, which is important. It's why lenticular design is important is you don't want players</v>
+
+00:19:40.680 --> 00:20:02.400
+<v Speaker 1>having to face things they're not ready to face. It just makes things easier for them And and Bush Raptors. The format is just much more than ticular than Rochester draft. You know Rochester draft. I mean, there are things you don't realize in Rochester, right? It's not like there's not some lenticular iness to Rochester graph, but it's less that there's more information you feel you have to track in Rochester.</v>
+
+00:20:03.770 --> 00:20:25.180
+<v Speaker 1>There's more, it's just there's more. It's more daunting to you. So anyway, Bushcraft took off. But anyway, let's get back to the browser. OK, so we're at PT2 in Los Angeles. So the plan is we want to get more, we want drafting this start happening. So we said OK, so day one was going to be sealed, day 2 was drafted, and then the finals was draft.</v>
+
+00:20:26.650 --> 00:20:28.070
+<v Speaker 1>Forget why we didn't do.</v>
+
+00:20:28.790 --> 00:20:30.260
+<v Speaker 1>How do we do drafting on day one?</v>
+
+00:20:31.030 --> 00:20:37.340
+<v Speaker 1>Maybe we did do drafting on day one. I know we cut to 64. I don't remember whether it was sealed or draft from day one.</v>
+
+00:20:39.560 --> 00:20:45.530
+<v Speaker 1>My memory says it was sealed and day one in Grafton day 2, but I'm not 100%. Maybe, maybe we drafted on day one.</v>
+
+00:20:46.920 --> 00:20:50.360
+<v Speaker 1>I do know maybe we did drop from day one. Anyway,</v>
+
+00:20:51.160 --> 00:21:04.640
+<v Speaker 1>the important part of the story is that we had started to encourage people to run limited events and we had a lot of control in America because we ran most of those events. And so, you know, we were starting to run more limited events,</v>
+
+00:21:05.550 --> 00:21:27.050
+<v Speaker 1>but other parts, especially Europe is very hesitant to run. In fact, Europe did not like to run limited events. They really associated limited with being luck. And they're like, we want to do skilled things, we're going to construct it. And they really weren't at the time playing limited formats. And the way we sort of realized that is when PT2 happened, PTLA, the first one,</v>
+
+00:21:28.680 --> 00:21:46.390
+<v Speaker 1>we watched the limited play happen and on the first day we cut to 64. I don't know how many people were there, a couple hundred, 200 something. Maybe the protests were a little smaller back then. So what happened was my memory is my numbers might be slightly off if something like</v>
+
+00:21:47.460 --> 00:22:06.730
+<v Speaker 1>61 Americans, 2 Japanese and one European, something like that, like a tiny, tiny percentage was European. And what we found was the Americans were much more used to playing limited, just as we've been pushing it. And the Europeans were not. And the very first pro tour, the Europeans did not do really well with the Americans did much, much better.</v>
+
+00:22:08.410 --> 00:22:22.240
+<v Speaker 1>Now part of it was I think Americans are that the early days of the pro tour, the Americans was particularly strong just because they've been playing magic longer at that point, you know, longer actually meant something because you know, there's imagine only been playing for a couple years.</v>
+
+00:22:23.630 --> 00:22:24.540
+<v Speaker 1>But anyway,</v>
+
+00:22:25.230 --> 00:22:55.700
+<v Speaker 1>I think what happens is that first approach are really sort of cemented in people's minds. Oh, maybe there's more skill here than I realized. And that first approach our went a long way of making people realize. One of the things about that first project by the way, was R&amp;D life draft. So we actually were much more familiar with drafting. And it's probably one of the few points in time where the average skill level of R&amp;D at drafting was higher than the average level of the pro Tour drafter. And so I remember watching drafts in this,</v>
+
+00:22:56.140 --> 00:23:25.550
+<v Speaker 1>I pretty sure with Rochester, watching people draft and saying, wow, they are what are they doing? You know, just like right now, if I go to approach when I watch people draft, like way over my head, I'm like, I, I have somebody that's going on like a draft, But I mean, I'm not, you know, they're they're dropping the level beyond me. But that first pro tour, you know, it's like it's very funny that there's not a lot of times where I actually know what topic better than the the pros as far as, you know, plays scale.</v>
+
+00:23:25.780 --> 00:23:43.170
+<v Speaker 1>But I remember watching a lot of the drafting and it was just as they talked about in the article that BM did of early drafting. It just really took them time to understand what drafting meant, how to draft. Like one of the early strategies when they first started drafting was just take the card you recognize as good because in constructed Magic, you know, they're good cards</v>
+
+00:23:43.890 --> 00:23:45.200
+<v Speaker 1>and they were taking like</v>
+
+00:23:46.110 --> 00:24:14.680
+<v Speaker 1>big things. And, you know, they they weren't, they weren't, they didn't understand the time that what might be good and constructed might not overlap what's couldn't limit it. And so they're like, OK, I'll take the Shivan dragon. I'll take the the things that I know are, you know, can be daunting once I get them in play. And what happened was the strategy. Brian Hacker type brothers, Brian Hacker and John, you and truck boi, they're out of California. And they,</v>
+
+00:24:16.190 --> 00:24:46.620
+<v Speaker 1>they really were the ones that started thinking about, OK, how do you maximize the draft? And they really went down the path of the idea of beat down of a curve of I'm just going to draft one and two and three drops. And a lot of people were laughing because the, the, the cards they were drafting from a construction standpoint were junky cards, but they were like, no, no, you don't get it. You know, look, you have a six drop. Well, if I beat you before you get to 6 land, I don't care about your 6 rock. And they really, it was the early days</v>
+
+00:24:46.710 --> 00:25:00.990
+<v Speaker 1>have sort of understanding how to draft an aggressive draft. And it's funny, as you look back, I've just, you know, there were very good players that understood constructed magic, but limited with such an oddball thing that it took a while for them to understand.</v>
+
+00:25:03.520 --> 00:25:16.990
+<v Speaker 1>OK, it's been next event was, um, OK, so there was New York that was constructed. Then there was LA that was limited. Then there was Columbus that was constructed. Then there was Worlds and Worlds had a</v>
+
+00:25:17.940 --> 00:25:26.970
+<v Speaker 1>had a limited part. I think we did a draft of Worlds that year, but it was just a component of larger stuff going on.</v>
+
+00:25:28.700 --> 00:25:34.110
+<v Speaker 1>The next real limited event was in Atlanta. So Atlanta we did something pretty cool. So something</v>
+
+00:25:35.710 --> 00:25:37.430
+<v Speaker 1>something we don't really do anymore, which was</v>
+
+00:25:39.390 --> 00:25:57.760
+<v Speaker 1>we had a pre release pro tour. So what happened was Mirage was coming out. Now this is back in the days before the website really, this is where there weren't really previews in the sense like now, before you go to a pre release, you know all the cards. You know when you go to a pre release, you are</v>
+
+00:25:58.800 --> 00:26:29.610
+<v Speaker 1>you're familiar usually if you care to be familiar with what all the cards are. But what happened was the pro sat down, they opened up mirage booster packs and they had never seen the cards before. So what we did was it was limited. It wasn't drafted. I guess we felt drafting would be too hard if you've never seen any of the cards. So turned out this pro tour was day one. Well, there were this was interesting. Also one of the days was a team event, was a five person team event in which the Pacific Coast</v>
+
+00:26:29.680 --> 00:26:36.380
+<v Speaker 1>legends, I think it was Henry Stern, Mark Justice, Scott Johns, my Robina and</v>
+
+00:26:37.500 --> 00:26:40.210
+<v Speaker 1>I think Frank Gilson was the 5th.</v>
+
+00:26:42.000 --> 00:26:59.090
+<v Speaker 1>Mark Jono. Marshalls wasn't Franklin Marks. Well, it was Mark Charleston was either Mario or Frank. I forget which was the 5th for sure with Marshalls because that sort of come up with a SEC. But anyway, they ended up playing. I was Canadian team. It was like Terry Borr, Paul McCabe,</v>
+
+00:27:02.080 --> 00:27:23.480
+<v Speaker 1>Gary Wise, Gary Krakauer and Matt Vienna. I think those are all guys from Toronto, so some of the Toronto team. But anyway, the Pro Tour event, the the not team event was 199 rounds in one day, sealed, limited it sealed and then cut the top and they got a new pool of cards.</v>
+
+00:27:25.350 --> 00:27:26.940
+<v Speaker 1>And So what happened was</v>
+
+00:27:28.930 --> 00:27:53.380
+<v Speaker 1>the players were it was very interesting. The players had never played before. So one of my favorite memories was so the format before Mirage was Ice Age. And for those that have never played Ice Age unlimited Ice Age was not designed with limited mind. Marriage was the first time that we developed this, that really thinking about limiting and that we spent a lot of time actually, you know, making sure they're, I mean,</v>
+
+00:27:54.050 --> 00:28:24.160
+<v Speaker 1>once again, Mirage is the Model T, if you will, of limited formats in the sense that when you look back at it seems kind of old and quaint. And you know, but in the time it was the first one, it's really, it was, it really was designed for limited play because Ice Age like 1, the ice ages problems was there weren't a lot of creatures. So you could open up packs and like you can open up your packs and get like 5 creatures in four different colors. You know, you could really get distributions that were weird and the East Coast play testers, the people</v>
+
+00:28:24.230 --> 00:28:45.620
+<v Speaker 1>made Ice Age and alliances and Antiquities and Fallen Empires really were not fans of flying. In fact, Fallen Empires that they made had two cards in it that even referenced flying. There was a enchantment, the grant you flying temporarily and killed the creature and there was a blue card that could activate to get, you know,</v>
+
+00:28:47.080 --> 00:29:16.590
+<v Speaker 1>flying the end of term and that was it like like so anyway, there wasn't there was more flying license, but not a lot. So when people opened up mirage, there were just a lot more creatures. We actually balanced it because we wanted to make sure playing limited. So they're a lot more creatures and there are a lot of flying creatures. Flying was very common. We you know, part of limited was you needed to have evasions. We made sure there's plenty of flying. So people open up their packs and they were walking around before the first round and people like, my Dick is so good.</v>
+
+00:29:16.660 --> 00:29:48.540
+<v Speaker 1>That's great. I have so many creatures and so many Flyers, and everyone's like, bragging about how awesome their deck was. And the people weren't like, OK, guys, you're used to the Ice Age environment. This is Mirage. Yeah, it's not the same, You know, that people people weren't really used to the idea yet. Like, Ice Age is probably the first limited most of them had ever, ever played. And so it's sort of like, oh, wow, this is just so different. But the idea that limited would just radically change that what you have to do into limited environment would change from limited environment to limited environment.</v>
+
+00:29:48.630 --> 00:30:06.130
+<v Speaker 1>That was kind of a new concept at the time. But anyway, a lot of people, the funny, the guy who won PCH is getting Frank Adler, who was German and probably of people who have won pro tours over the years. You know, Franks on the lower end of the spectrum that he wasn't a good player, but you know,</v>
+
+00:30:07.350 --> 00:30:11.580
+<v Speaker 1>yeah, he was one of the portrait champion in the early days that that people felt was, you know,</v>
+
+00:30:13.080 --> 00:30:22.230
+<v Speaker 1>like he never tapped another proton, for example, that most people who want to proto would go on to top 8 at least another pro tour. And so a lot of people thought of that format as being</v>
+
+00:30:22.920 --> 00:30:38.610
+<v Speaker 1>once again, kind of random. And I will meet, you know, like there's a lot of good red in that format. So opening good red was important. But if you actually look at the top 8, the top 8 is like Darwin Castle, Mike Long, Terry Borr,</v>
+
+00:30:39.930 --> 00:30:50.360
+<v Speaker 1>Chris, Chris Pikula, Matt Vieno. People were like good, you know, were actually strong Magic players. It was not a list of random people</v>
+
+00:30:51.750 --> 00:31:21.770
+<v Speaker 1>anyway, the real quick just cause we're PT Atlanta. So for those that don't know have ever talked about the greatest mistake ever made in a pro tour starts. I'm concerned, although there's a lot, a lot to compete with this. But so Terry Borr was playing Mark Chalice in the team event on the first day and Mark Charles did a trick of the time and the judges will not allow this trick in tomorrow. This was in the early days where there was stuff that we later said, hey, unsportsmanlike conduct. There was a trick you used to do where</v>
+
+00:31:21.840 --> 00:31:39.820
+<v Speaker 1>you would ask your opponent if they had any fast effects and what you were doing was you were trying to make them give up their window of a priority. And so the idea was you would ask them that. If they said no, then you know it allowed.</v>
+
+00:31:40.960 --> 00:32:04.610
+<v Speaker 1>Basically, if you were doing it correctly, if you ask them, they said no, you could just they no one couldn't do anything If you if if you with you priority didn't initiate anything. But the key was you had to do it at the right time. You had to understand, you know who had priority and such. So anyway, Mark Challis uses this trick on Terry Borr. I don't know how effectively, effectively enough that it's stuck in Terry's brain.</v>
+
+00:32:05.350 --> 00:32:16.360
+<v Speaker 1>And this happened during, I don't know if it was in the finals of the team event, but it might have been the Swiss when the two teams met. But it was when Mark Chalice played Terry Boyer, who were on the two teams that made it to the finals.</v>
+
+00:32:18.430 --> 00:32:48.840
+<v Speaker 1>Might have even happened the finals. I don't remember. OK, So what happens is Terry Boers playing Darwin Castle. I don't remember whether it's the quarters in the semis, but he's playing Darwin Castle and Terry is attacking in his hand. He has the winning card that he, I don't know exact specifics, but I have a creature that my opponent can't block that if I enhance it, I can win the game. But he was trying to be smart. I think Terry was trying to like trick Darwin on not being able to do something.</v>
+
+00:32:48.920 --> 00:33:20.720
+<v Speaker 1>Anyway, he tries this trick that Charles had played in him saying do you have any fast effects? Except Kerry doesn't understand priority. So what had happened was he says to Darwin Juni fast effect. Darwin goes no, I don't. Terry then goes to play the spell on his creature in order to enhance it to win the game and time Wiley the head judge. No, no, no, because you asked and he gave up. You've seeded priority. Since Darwin didn't do anything it we've now moved on you you've missed your window. And so because of that, Terry wasn't able to play</v>
+
+00:33:20.790 --> 00:33:28.750
+<v Speaker 1>spell. He wasn't able to win that turn. Darwin was able to come back. Darwin won the game that Terry would have won and ended up winning the match.</v>
+
+00:33:30.650 --> 00:33:58.720
+<v Speaker 1>Now why I say is one of the greatest mistakes ever is Terry Borr had won a pro tour earlier in the year. If he had won this match, I don't remember whether he would go into the semis or the finals, but anyway he would have advanced. That would have given him enough propoints. Then instead of Paul McCabe being the second ever pro player of the year, Terry Boyer would have been the player of the year. So pro player of the year, not something we currently do, but for a long time</v>
+
+00:33:59.880 --> 00:34:08.130
+<v Speaker 1>you could do we still do player of the year and I guess we, we, we do, we do, we do, we do still do play of the year. Anyway, the</v>
+
+00:34:09.140 --> 00:34:13.330
+<v Speaker 1>whoever had the most proponents at the end of the season was the Pro Player of the Year. And</v>
+
+00:34:14.630 --> 00:34:26.620
+<v Speaker 1>anyway, this is the second ever the first ever was urate. So Terry work could have been the second ever play of the year, you know, and he might have gone on to win the event. You know, I mean, he he made he made a mistake that was his own doing</v>
+
+00:34:27.940 --> 00:34:43.970
+<v Speaker 1>and that to me a particular egregious mistake because like it was completely he could have just done nothing and been fine that he was trying to mess with his opponent. He was trying to do something he had learned, misunderstood how it was applied, did it wrong and it it cost him, cost him big time. So anyway,</v>
+
+00:34:47.590 --> 00:34:49.670
+<v Speaker 1>Project Atlanta was a was a</v>
+
+00:34:51.420 --> 00:35:04.090
+<v Speaker 1>it was very interesting. I think I think players were a little grumbly because it was there was some randomness to sealed, but it definitely set the tone. So the next one was I think in Proctor Mites was the next one where we did Rochester</v>
+
+00:35:05.610 --> 00:35:32.020
+<v Speaker 1>by skipping A booter. Ohh, I might be skipping A booter. Raff Anyway was next maybe next LA was the booster draft. Dallas was standard and then I guess in the LA I guess LA a year later lol. A year later was was Dave Price right? Anyway, I guess the real story here is we started introducing limited pro tours and it really caught on. The funny thing is when you when</v>
+
+00:35:32.950 --> 00:36:02.900
+<v Speaker 1>the early days of the pro tours, after the pro tour was done, the players would then play more magic for fun and they used to play constructed decks. But once we introduce limited, that just became the things players did like. The funny thing now is after hours like Limited is what what the pros tend to play. And I think what happened is it's funny early on the perception of limited was it was the luck based format, the constructed, that's where the skill was and that limited was just luck based. And what's happened, especially with drafting is players have realized that how much skill there is in drafting,</v>
+
+00:36:03.000 --> 00:36:33.090
+<v Speaker 1>that understanding. And one of the neat things about drafting also is they're just huge variety. You know, we play constructed, you know, you're just playing the same deck again and again and you're playing against a lot of the same deck. So there's a lot of repetition of the play and there's a lot of nuance. And it's not that there's not a lot of fun in constructed, but I think limited play, you know, has just more variance to in a sense of more different things will happen. And it's very still testing drafting and drafting well is very complex. There's a lot to learn. You know, drafting is</v>
+
+00:36:33.210 --> 00:37:04.380
+<v Speaker 1>very lenticular in the sense that you know, just when you think you've learned everything there is to learn about drafting, there's more things to learn about drafting and and and not even the draft itself. Also the limited play. And so it's become a huge thing. But it's funny because when I look back, like early in the early days, we were we were pushing so hard to get people to play. And I think in a hard hearts aren't he knew was awesome. We knew it was fun and it was just started getting people past the sort of the prejudice of what they thought,</v>
+
+00:37:04.450 --> 00:37:23.870
+<v Speaker 1>how to get them to actually experience it. If you actually look at the history of magic, there's a lot of whenever we introduce something new, there's always resistance just because you're used to the things you're used to and you're not used to that new thing. And you know, when we introduce standard or introduce, you know, new rules. M16 M I'm sorry, 16 rules</v>
+
+00:37:25.370 --> 00:37:55.340
+<v Speaker 1>that whatever we knew something new that later goes on to be sort of generally accepted as being a really good thing. It takes a while for people to sort of adapt to and we we understand that and limited went through the same thing. There really was resistance early on that man limited now is hugely popular and there's a lot of people their favorite way to play magic, but that wasn't always the case. And so sort of today, talking about history of limited magic is, you know, Once Upon a time there wasn't much limited played. And you know, when when it was introduced, it took it</v>
+
+00:37:55.420 --> 00:38:16.040
+<v Speaker 1>like a lot of people warm up to it. They really did. And now, like I said, it's super popular. It's a very fun way to play. But that wasn't always the case. So anyway, I'm now at my daughter's school. So we all know that means we mean, this is the end of my drive to work. Instead of talking magic, it's time for me to be making magic. I'll see you guys next time. Bye bye.</v>
+

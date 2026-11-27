@@ -1,0 +1,317 @@
+WEBVTT
+
+00:00:01.290 --> 00:00:32.160
+<v Speaker 1>I'm pulling in my driveway. We all know what that means. It's time, another drive to work. OK, so today I'm going to talk about the great Designer Search 3. So one of the things I wanted to do is along the way as we did it, I wanted to sort of do some podcast so you can sort of see it evolve. Now given there's a time delay now I'm not quite sure. I'm going to talk more about the process and talk about what happens as we get into things are delayed. And I don't want to necessarily make a podcast that gives things</v>
+
+00:00:32.230 --> 00:00:45.970
+<v Speaker 1>way, but I do want to talk a little bit behind the scenes to give you guys a sense of what is going on. OK, So originally we were going to do, I think I did a podcast for this a little bit. We were going to do the great designer search a couple of years ago</v>
+
+00:00:46.960 --> 00:00:49.440
+<v Speaker 1>and we have come up with a</v>
+
+00:00:50.100 --> 00:01:20.410
+<v Speaker 1>one of the things that's always been contentious about the great designer search is the multiple choice tests that it is very non subjective. And so one of the things was the reason we have a multiple choice test is we need to narrow down from many, many people this year over 3000 down to something that we can grade, which is about 100. And we need something objective that like a computer can grade because we don't have the ability to individually look at everything. I can't let 3000 people take design tests and grade them.</v>
+
+00:01:20.490 --> 00:01:28.740
+<v Speaker 1>It it took me took me a whole week to do 100 tests. Obviously 3000 would have taken me year plus to do</v>
+
+00:01:30.150 --> 00:01:31.660
+<v Speaker 1>and then I could have done any magic.</v>
+
+00:01:33.030 --> 00:02:03.730
+<v Speaker 1>But anyway, so two years ago we talked about trying to do something a little different. It requires building something to do it. It turned out we weren't able to build it anyway. Eventually we said, OK, let's just run it the way we've run it in the past. Let's let's do a you know, we had talked a lot more about maybe making a more of a video based thing. And in the end we're like, OK, there's a lot, there's a lot. This is not an easy thing to do. The running joke I had on the great designer searches people. I say, when's the next one? And I'm like when I forget how much work</v>
+
+00:02:03.810 --> 00:02:10.160
+<v Speaker 1>the last one was. So what's basically happening was we decided to sort of follow,</v>
+
+00:02:10.910 --> 00:02:27.180
+<v Speaker 1>follow the way we had done the first two and not reinvent the wheel. We did the multiple choice tests. We didn't do video, you know, we just kind of did it the way we've done it. But we didn't want to have a few changes. I wanted to walk through sort of the changes we did make and then explain a little bit behind the scenes how this works.</v>
+
+00:02:29.380 --> 00:02:32.350
+<v Speaker 1>OK, so the way that it works is, um,</v>
+
+00:02:33.100 --> 00:03:03.650
+<v Speaker 1>that and the, for the first great designer search, I was a judge, Devin Lowe was a judge and 4th Forsyth was a judge and Gleemax was a judge. Gleemax was we, we wanted someone to kind of, you guys know American Idol, the Simon Cowell, someone who's just blunt into the point. And so we ended up making a character called Gleemax, which is, if you know your magic history, it's the alien brain in a jar that runs R&amp;D. I wrote Gleemax and the whole idea of Gleemax was to be humorous</v>
+
+00:03:03.740 --> 00:03:33.740
+<v Speaker 1>but really blunt into the point, like very short, snippy into the point. Um, and then for the second grade designer search, I did it with Ken Nagel and then we had a 2 rotating guest judges is how we did it. This time we decided it would be nice to get representation of vision design and set design and play design. So what we did is I represent vision design, Eric represents set design, and Melissa de Tora,</v>
+
+00:03:33.810 --> 00:04:03.710
+<v Speaker 1>Eric Lauer and Eric, I'm sorry, and Melissa Detora represents play design. And then because I like having guest judges, we had one rotating guest judge rather than two rotating guest judges. The reason I like the rotating judges is I like having other people involved in hearing from other people and just getting to see different aspects and stuff. But it's a lot to do. It's a lot. I mean, for those that might not know, basically what happens is when we get a design test in the judges have to grade every single card and grade the people.</v>
+
+00:04:04.410 --> 00:04:32.240
+<v Speaker 1>So that can be a lot like the, the design test for example, was 10 cards each for eight people. So that's 80 cards plus eight people. So that's 88 things you had to write and the thing on the people a little longer. So it's a lot of writing, it's a lot to do. So I'll get through how we do that in a second. I'll walk through some of our processes or process. I guess processes is more than one. But anyway, we decided that we wanted to have a little more representation of the different aspects of R&amp;D</v>
+
+00:04:33.850 --> 00:05:04.030
+<v Speaker 1>and then ohh, in the way you'll hopefully you've seen this by now, it's we color code the judges so you can tell who's saying what. You know, I'm always in green, Eric's always in blue, Melissa always in red. Our guest judge is an orange. Oh, we have one other person that added, which is the new time to this thing is Eli, Eli Shiffrin is the rules manager. And so I added him in and the idea is he doesn't talk all the time. He just pops in when there's either a rule issue or a templating issue.</v>
+
+00:05:04.120 --> 00:05:34.330
+<v Speaker 1>So he's kind of there for some technical reasons to talk about stuff. But he he's not required to talk about every card. He only talks about cards, whether something relevant to talk about. But as understanding the rules and templating are important for designers, I thought it was good to just have somebody saying, hey, neat idea. Yeah, I don't know if we can do this or, well, we can do it, but wow, this would be a lot of work. Is this one card worth that amount of work? And a lot of times anyway, it's just some practical stuff to get a sense of more</v>
+
+00:05:34.420 --> 00:05:37.460
+<v Speaker 1>hands on. How would you actually do this if you were doing it at Wizards?</v>
+
+00:05:39.000 --> 00:05:58.700
+<v Speaker 1>OK, So what happened was the history behind the show is both the 1st and 2nd grade designer search were done live, which means when we put up the results for everybody to see, the contestants were reading the judge comment at the same moment that the audience was.</v>
+
+00:06:00.700 --> 00:06:27.150
+<v Speaker 1>And the way it worked real quickly is each time we've evolved a little bit. The 1st grade design research was every week for five weeks in a row and then we realized that was a little too fast and didn't give us enough time to do the turn around. So we ended up making it two weeks. So every other week they did the challenge so that it gave us, they had sort of a long weekend to do it and we had enough time to grade it and get it up and post it.</v>
+
+00:06:28.860 --> 00:06:59.350
+<v Speaker 1>And then for a great designer search 3, we kept the basic premise of how 2 worked from a scheduling, but it was more like 1 in that there are more individual challenges where two, you had to build a world and it was all connective. The challenges flow together and these are more individual skill testing challenges. OK, so the way it works is oh, so sorry, I'll get that in a second. So what happened was we were planning to go live. We were planning, but then it turned out for just some behind the scenes</v>
+
+00:06:59.420 --> 00:07:30.620
+<v Speaker 1>technical reasons. There are some additional like one of the things about doing the great designer search is because we are actually getting somebody. There are just some rules. There's each one had a different set of rules we have to follow depending on different criteria at the time and based on. I'm not going to bore you with the the sort of the boring details, but there there are some things that made it so we if we wanted to do it live, we'd have to cut down the amount of material</v>
+
+00:07:30.770 --> 00:07:31.400
+<v Speaker 1>produced.</v>
+
+00:07:32.930 --> 00:07:38.810
+<v Speaker 1>I mean, we would have to produce it anyway for the contestants. And it just felt wrong to me not to show off all like</v>
+
+00:07:39.470 --> 00:08:09.360
+<v Speaker 1>I, my belief is it's fun to read along to see all the comments, see all the judge comments. And I didn't want to sort of produce it, have all the material and then not be able for everybody to see all the material. So we had a decision make, which was if we wanted to go live, we had to cut down the amount of stuff the audience would see. Or if we wanted the audience to see everything, we had to build in a delay. And so I was thinking, my wife and I, for example, watching a number of reality shows, I was somebody thought about Amazing Race for Amazing.</v>
+
+00:08:09.430 --> 00:08:40.290
+<v Speaker 1>I don't know, it's real show where teams of two race around the world. And the point I realize is it's not as if when you watch the show, there are currently racing around the world. It's over. They've raced around the world. They don't tell you what happened, but it's already done that there's a time delay and that there's a few shows like Big Brother that are literally alive. So it's hard to not do those live. But a lot of reality shows sort of do the show and then show it later. And so we decided, OK, let's build in a gap. We'll run the show of all the material,</v>
+
+00:08:40.390 --> 00:09:10.410
+<v Speaker 1>but when it's time, you guys will all see it in order. You'll see the show just to be able to relate a little bit like he won't be live to you, but it being live or not being live to kind of secondary in that it doesn't really matter. I mean, for all intents and purposes, when you see it is when it is live for you. But what that means is we are running things behind the scenes and then when we have we've banked enough things that we're caught up enough, we will start showing it the one thing that it might let us do. Once again, I'm recording this before this happened</v>
+
+00:09:10.530 --> 00:09:30.390
+<v Speaker 1>is it might let us run it actually as a weekly thing rather than as a biweekly thing. Originally is gonna be biweekly because there's live and we have to run a biweekly to be able to do it. But if we bank up enough and then started a little bit later, we might be able to run consecutively. So it's every week you're seeing what's going on, even though for us it actually took two weeks.</v>
+
+00:09:31.620 --> 00:09:34.070
+<v Speaker 1>So the way it works is, um,</v>
+
+00:09:34.820 --> 00:09:49.280
+<v Speaker 1>on Thursday. So the very first great designer search, I think we gave them the weekend. I think we gave them Saturday and Sunday. And then for the Great Designers 2, we decided to give them Friday, Saturday, Sunday.</v>
+
+00:09:51.120 --> 00:10:02.930
+<v Speaker 1>This time we decided to give him a little more. So we we're giving them Thursday, they get they, they get the test using like noonish on Thursday, the next design. So what happens is,</v>
+
+00:10:04.310 --> 00:10:06.360
+<v Speaker 1>sorry, I'm jumping ahead of myself. OK, So</v>
+
+00:10:07.010 --> 00:10:10.010
+<v Speaker 1>what happens from the beginning is on Thursday</v>
+
+00:10:11.060 --> 00:10:29.600
+<v Speaker 1>we we started with the design tasks which we judged and then on Thursday we send them all the judging for all the contestants. So not just for themselves, but for everybody, because part of being good at the designer search is seeing notes that other people are getting and being able to file with those notes are.</v>
+
+00:10:31.020 --> 00:10:32.620
+<v Speaker 1>And then, um,</v>
+
+00:10:34.930 --> 00:10:39.060
+<v Speaker 1>we also give the next challenge. So for example, the first thing they'll see is</v>
+
+00:10:39.840 --> 00:10:44.300
+<v Speaker 1>here are the notes for the design test, and here's challenge number. Design challenge #1</v>
+
+00:10:45.680 --> 00:11:00.620
+<v Speaker 1>The reason we moved it back a little bit is a we want them to have time to read everything because we think it's important to see all the comments and all the different people. So one of the reasons we gave them the extra day was to give them time to read everything and still give them the same amount of time to actually do the design.</v>
+
+00:11:01.940 --> 00:11:31.550
+<v Speaker 1>It's funny, I got some requests from the player saying, ohh, could you give us more time so we can read it? And I'm like, you are getting more time. This is the most time any great designer search had to build their sets. And in the early part of it, I've actually been having to make a little less number of cards just on our end to be able to grade them on their end to be able to make them. As we advance, I'm going to be making them making a little more cards. The last few challenges will go up and the number of cards, because as we go down to number of people, we can do that.</v>
+
+00:11:32.390 --> 00:11:34.540
+<v Speaker 1>Oh, by the way, there's one other</v>
+
+00:11:35.750 --> 00:11:51.710
+<v Speaker 1>there's one other judge that is not a judge, you all will see, but as a judge behind the scenes, which is Mark Gottlieb. Mark, you guys might know him as the one time rules manager. Mark is now a manager that manages much of the set designers and</v>
+
+00:11:52.970 --> 00:12:04.900
+<v Speaker 1>so he managed the designers and this position, he's the, he would be the manager for this position. So he's also involved. OK, So what happens is Thursday we send out a letter,</v>
+
+00:12:06.910 --> 00:12:11.580
+<v Speaker 1>noon ish. We sent out a letter saying, OK, here's all the judging, here's the next design challenge.</v>
+
+00:12:13.110 --> 00:12:43.230
+<v Speaker 1>And then all the people make sure, you know, they reply back, they got the letter. And then if anybody has a question they can, they will write me questions. Usually I get questions on Thursday, sometimes early Friday. And usually once I answer that sometimes, by the way, occasionally send out FAQs, frequently asked questions where if enough people are asking something, sometimes I'll just write it up and I'll send it out to everybody saying, OK, I'm getting this question. Let me just answer for everybody. Here you go. I did FAQs for the design test and I did FAQs</v>
+
+00:12:43.370 --> 00:12:46.220
+<v Speaker 1>before we started the first design challenge. I haven't done since then,</v>
+
+00:12:48.890 --> 00:13:04.940
+<v Speaker 1>and the way the design challenge works is there's this parameters that we build in for what they have to do. Usually there's 7 or 8 parameters. I talk about sort of how many cards they have to make, what rarities they have to be, what colors they have to be, what card types they have to be.</v>
+
+00:13:06.190 --> 00:13:15.830
+<v Speaker 1>They usually, usually they design for our standard legal sets. And I explained the context that, you know, usually the cards are all in the same set. So they have to feel if they come from the same place,</v>
+
+00:13:17.160 --> 00:13:47.300
+<v Speaker 1>there's different parameters from challenge to challenge depending on the on the challenge. But I spell it out. And then they have until Sunday night. So they get it Thursday afternoon, they have until Sunday night. So basically 11:59 PM Pacific Standard Time, they need to turn in their test. 01 of the funniest stories is so Jay Treat is one of the one of the top 8 on the first design challenge. We come in and everybody's turned in their tests by Jay. I'm like, what's going on?</v>
+
+00:13:47.480 --> 00:13:59.170
+<v Speaker 1>So we write AJ and we go, J, you turned in your test. He goes, oh, no, no, no, I turned it in and like, OK, we're not seeing any. He goes, ohh, let me just send it again. And he sends it again. We still don't see it</v>
+
+00:14:00.690 --> 00:14:31.320
+<v Speaker 1>and so we're like what's going on? And so he sends us a test message and we get the test message and he and he's written to us before from this account. So like we know we got stuff from this account, like what is going on? Why? And eventually what we realized was on one of his cards, one of his card names was I think fetish, but but in in in terms of like a shamanistic spell. But anyway, I didn't get through the filter it Wizards. And so</v>
+
+00:14:31.550 --> 00:14:47.040
+<v Speaker 1>we realized that ohh, it was being caught in the filter and the reason we weren't seeing it was that the wizard filter was pulling it out. So anyway, he changed the name of his card and all was fine. I thought it was funny. OK, so today, on Sunday night, they sent us in there,</v>
+
+00:14:48.450 --> 00:14:58.500
+<v Speaker 1>they send us in their their design test. Then what happens is in the morning. So Stephanie, Stephanie Mitchell is my</v>
+
+00:14:59.620 --> 00:15:08.980
+<v Speaker 1>assistant for, for the great designer search. She's doing a lot of the, she, she's doing a lot. There's a lot, a lot of logistic work to do and she's she's handling the lion share of it.</v>
+
+00:15:10.380 --> 00:15:30.620
+<v Speaker 1>And So what happens is she collates all of the design tests and then she makes 2 versions of them. 1 is a collated version that's alphabetical and 1 is a blind version, which means it's not in that it's not in alphabetical order and you don't know who the people are. Some judges like to take a blind, some don't.</v>
+
+00:15:32.000 --> 00:16:03.230
+<v Speaker 1>The the, the reason, by the way, that some like some don't is some of the judges, and I'm in this camp, we give notes to the people and a lot of the things that I look for as a judge is are they listening to the notes we gave them that one of the things that's really important, one of the skills that I consider are vital to a good designer is OK, you do something. Hey, maybe you don't know something, maybe you did something wrong. That's fine. But then you get a note and do you listen to the note? Are you do you, do you listen to what we say and adapt. And so the reason I like</v>
+
+00:16:03.300 --> 00:16:19.140
+<v Speaker 1>knowing who the people are is I'm not just judging them in a vacuum, I'm judging them against what the notes were they got. Other people do it a little bit differently. And so we have available both blind and non blind version. I think most of the judges actually great at blind.</v>
+
+00:16:20.900 --> 00:16:23.650
+<v Speaker 1>I think Eli and I are the ones that tend to look at the names.</v>
+
+00:16:25.300 --> 00:16:28.290
+<v Speaker 1>The other thing is very funny is because I'm a word guy,</v>
+
+00:16:29.700 --> 00:16:59.790
+<v Speaker 1>I've also figured out the naming conventions each of them use. So the other reason that I decided to name was OK for me was I kind of was starting to pick up on how they named their card. So I was because I'm a word person, I was, I was able to tell who designed what based on their names. So anyway, OK, so Monday morning Stephanie sends that out. So we have one week for everybody. So what they have to do is they have to write a note on every single card and a note on</v>
+
+00:17:00.690 --> 00:17:04.800
+<v Speaker 1>each of the contestants as a whole is sort of a sum up of what they think. And then</v>
+
+00:17:06.150 --> 00:17:33.690
+<v Speaker 1>we and then if you need an introduction, the normal judges to the introduction in the first episode, the guest judges do their introduction in the episode that they're the guest judge. So if you're a guest judge, in addition to rating the critiques of the cars and people, you have to write an intro. So then they have until the following Monday at 9:00 AM to get it into me. And then I spend Monday and Tuesday compiling all the, all the stuff together because,</v>
+
+00:17:35.170 --> 00:17:36.750
+<v Speaker 1>but when you guys see it,</v>
+
+00:17:38.510 --> 00:18:09.600
+<v Speaker 1>it reads as if all of us are talking with each other. I I do a little bit of editing. I'm the last one. So a lot of it's in mine where I make sure that like if somebody says something someone else says, we kind of reference like, Oh yeah, yeah, it's Eric said, or I agree with Eric or whatever, whatever. So that it sounds like we're in the same room even though we're not. So anyway, we have a week to turn that in. But on Thursday of that week, we get together in the afternoon. And what we do is everybody takes the latest challenge and then orders the people from best to worst</v>
+
+00:18:09.670 --> 00:18:40.420
+<v Speaker 1>and their opinion. Then we compare notes. So each challenge, two different things have to happen. 1 is we pick the top three of the challenge, who's who, the number 12 and three of that challenge. And we have to eliminate somebody. Now the elimination is done as all your work, not just that, who wins, who wins the challenge is just that challenge. Who gets knocked out is not just that challenge. It's up to date all the work they've done. So for example, if you do really amazing on the first week and really bad on the second week, you might not get kicked out</v>
+
+00:18:40.490 --> 00:19:11.090
+<v Speaker 1>just because you did that in the second week, because you did really well in the first week. So we're, we're trying to find the best designers, obviously. And so we're looking at all the work combined. Obviously the way the design challenges work, we're testing different skills. It's quite possible that we hit a particular skill you're bad at. But as long as you've demonstrated in other areas that you have some strength, then you know there's less chance you get eliminated. Obviously the worse you do, the, the greater the chance you get eliminated just because you know if you do really bad on a challenge, that means at least one challenge you've done bad on.</v>
+
+00:19:12.010 --> 00:19:29.510
+<v Speaker 1>So anyway, the judges discuss. We always invite all the judges, including Mark and the guest judge. The guest judge is more involved in picking the winner than a loser only because they're all they've judged is the latest stuff. For the rest of the judges, we've judged all of it. Some of the time,</v>
+
+00:19:30.380 --> 00:19:54.630
+<v Speaker 1>some of the time we're really In Sync. We just did one recently which was design Challenge 2 where we were all over the board. In fact, it's comical to me when you guys, I don't know if you've read it, I don't know if it's been posted yet at a time you heard this, but it is comical and how like there is just, I like this, I hate this, this is good. I don't like this. This is flavorful. This is not flavorful. So there's a top down challenge. Number 2 is a top down challenge. So</v>
+
+00:19:56.200 --> 00:19:59.210
+<v Speaker 1>there's a lot of, I guess, subjectivity to top down design.</v>
+
+00:20:00.690 --> 00:20:04.680
+<v Speaker 1>So anyway, we will then pick the top three and we will pick the person who gets eliminated.</v>
+
+00:20:06.610 --> 00:20:11.960
+<v Speaker 1>It is possible to both be in the top three and be eliminated, by the way, because you could have.</v>
+
+00:20:13.410 --> 00:20:44.250
+<v Speaker 1>I don't expect it to happen until later in the process, but I could imagine. Let's say we get to the final week. There's four people and one person does badly, but wow, they've been rocking it the whole time. They might still make the top three even though they are the 4th. And that means one of the top three would get booted. So it's possible to be in the top three and get booted. It's not super likely, especially early on. It's possible it's something. So then they so we didn't pick somebody and then Monday and Tuesday</v>
+
+00:20:44.380 --> 00:20:49.940
+<v Speaker 1>I compile everything. I also, I have to,</v>
+
+00:20:50.690 --> 00:20:52.080
+<v Speaker 1>I'm in charge of the challenges.</v>
+
+00:20:53.370 --> 00:20:58.780
+<v Speaker 1>Normally what I do is I write up a challenge and I show it to the other judges and just make sure they're happy with the challenge.</v>
+
+00:21:00.940 --> 00:21:13.030
+<v Speaker 1>Eric had designed the design to, Eric had made the design test. I'm making all the challenges with input from the other judges, but I've been making them. And then as a matter of figuring out what exactly we're asking for,</v>
+
+00:21:14.470 --> 00:21:33.520
+<v Speaker 1>you know, because it's different challenges have different nuances. Um, I've definitely been in some of the past GDS. We've asked for more cards. I've sort of capped it for the first. I think the first three challenges were only asking for 8 cards because that's, that's a decent number of cards, but not so much that we can't grade them. And then the 4th, 5th change I think are going to be more cards because less people</v>
+
+00:21:35.260 --> 00:22:05.170
+<v Speaker 1>then. So what happens is I have Monday and Tuesday to write up all my stuff or to edit everybody. And then I do a little bit of overwriting and stuff. And once again, I want to make it sound like we're in the same room. And then if somebody, I also I'm back reading people. So if somebody makes a mistake or misread something, I, you know, like I remember I had a card where Eric said tapping and like, I think he means untapping or whatever, go to Eric Hale. You say tap, but I think you mean untap and you go, ohh, yeah, I meant untapped. I can change them, or like Eli,</v>
+
+00:22:05.240 --> 00:22:12.740
+<v Speaker 1>there's interesting, but he meant source of that. I'll catch those and fix that up anyway. Then Tuesday night, I hand off my file to Chris.</v>
+
+00:22:14.170 --> 00:22:45.730
+<v Speaker 1>So Chris Gleason is my editor. He's one of the editors or he's the main, does all the editing on the website. I normally he's the person I hand off to with my article. So I've been working with Chris for quite a while. So we give it to Chris and Chris has a tight turnaround because he needs to get it back to us by noon on Thursday so we can get it off to the candidates. And he does. Usually what happens is I write, I write the whole show, if you will, and then Chris edits the part that needs to go</v>
+
+00:22:45.810 --> 00:23:16.390
+<v Speaker 1>to the contestants, the designers, because when I did the show, it's written as it's for all of you guys. When we send it to them, it's just a compilation of the judge comments. In the design test, there's elements that would get added when you guys will see it where I, hey, welcome back. Stuff like that, that's taken out for the contestants. So then I get the stuff from Chris. Then either Wednesday night or Thursday morning, depending on various factors, I will e-mail the person who got cut, who got eliminated and let them know individually.</v>
+
+00:23:16.520 --> 00:23:37.470
+<v Speaker 1>Like one of the things I don't want to know is I want the person who gets caught to know ahead of time and, and let them. Because what happens is we send the judge comments to all, all the people that took the design test because we want everybody to see all the comments, including the person who got eliminated. We want them to see the comments. They just don't do the next challenge. And</v>
+
+00:23:38.170 --> 00:23:55.320
+<v Speaker 1>anyway, we just just out of pure politeness. It's a lot of work and a lot of you know, I want to have great respect for the people who are doing this. The great designer search. Also, by the way, we as a thank you to them, we made shirts and we made play mats and we sent them some, some goodies as sort of thank you for participating.</v>
+
+00:23:56.630 --> 00:24:04.240
+<v Speaker 1>The, the thing to be aware of is one of the things we try to do in the judging is we want to be</v>
+
+00:24:05.300 --> 00:24:13.260
+<v Speaker 1>educational and constructive, but we're also trying to be pretty honest. And so it is.</v>
+
+00:24:13.950 --> 00:24:23.910
+<v Speaker 1>I know it is hard to the great designer search is hard just to be aware. The amount of time we give them is not a lot of time. The challenges we give them are pretty challenging and you know,</v>
+
+00:24:24.690 --> 00:24:55.140
+<v Speaker 1>part of being an R&amp;D is getting a lot of feedback and a lot of criticism. And one of the reasons we're doing this is we want to see how people sort of stand up to criticism. But at the same time, we want to do it like the goal is not to berate people. You know, the goal is to be educational, constructive and say, look, we like this, we like this, this part we don't like, but here's why we don't like it and here's where you can work to improve upon it. That a lot of what we're trying to do is give them is make them better designers. Like the goal of anything in</v>
+
+00:24:55.220 --> 00:25:25.130
+<v Speaker 1>R&amp;D is when you part of being collaborative is the goal is to end up with the best product you can. And part of that is if you don't like something or something isn't working, you're clear on what the issue is. It's not about people. It's never about you did a bad job. It's you made something and here's why this is or isn't serving the purpose we needed to serve. And if it isn't, here's what we're looking for. Here's why this is problematic. And we want a lot of communication, but for people that aren't used to that, that aren't</v>
+
+00:25:25.230 --> 00:25:25.890
+<v Speaker 1>Brandy.</v>
+
+00:25:27.350 --> 00:25:54.360
+<v Speaker 1>I, I've been doing this a long time and I have a pretty thick skin. But I mean, a lot of is you do something, you make something, you sweat and tear and you make something and someone goes, ah, I don't like it. And like, OK, why don't you like and explain why they don't like it? And that is part of the creative process. That's part of the collaborative process. Is there might be things you really, really like that other people just for some reason don't like. And you have to understand why they don't like it. And you have to understand what the criticism is so that you can adapt to it and prove it</v>
+
+00:25:57.450 --> 00:26:26.200
+<v Speaker 1>anyway. So we then send out the comments on Thursdays and then once again, now we're back in the loop. So, so Wednesday night, Thursday morning, I send out the, the, the letter to let them know that they've been eliminated. And then we send up the next challenge. The idea eventually is the final 3 will come to Wizards. My plan is to do it's occasionally podcast like this to fill you guys up on what's going on. So this is sort of a GDS 3 in the middle. As I record this,</v>
+
+00:26:26.400 --> 00:26:50.560
+<v Speaker 1>I just hand it over the second design challenge to Chris. So like for example, tonight I have to send the rejection letter, you know, the, the letter to the person who got knocked out and let them know they got knocked out. And then tomorrow we will send them all the judging, all the judging contents for comments, for design test #2 and then we'll give them design test #3.</v>
+
+00:26:52.630 --> 00:27:08.360
+<v Speaker 1>And the other thing behind the scenes is putting together design tasks. There's some design tests have extra elements I have to put together. And but anyway, that is how the GSP works. I hope, I hope, I hope by the time you're hearing this that it has started.</v>
+
+00:27:09.780 --> 00:27:40.130
+<v Speaker 1>The behind the scenes stuff is there's some there's some stuff we don't have a lot of control over. And it is, I mean, I would love for you guys to be seeing everything as we're doing it have they'll be live and have everything go smoothly. It is just sadly not meant to be. But the good news is I think when you guys all do see, it will be more condensed and I think that will make it a better show. Like having to wait two weeks is not particularly fun. So I think we'll be able to condense it down a little bit for you. So once you see it, and I'm really impressed with the designers, I think</v>
+
+00:27:40.200 --> 00:28:11.560
+<v Speaker 1>planners are doing really, really good work. Like I said, what we're asking them to do is really hard. And these are people who do not do this for a living, that are not professionals, these people who love magic and obviously would love to do it professionally. But so be aware that the whole process is a bit of a, it's a lot. There's a lot of work they have to do. There's a lot of emotional ups and downs and they turn in the design test and they have to wait to see whether they get kicked out or not.</v>
+
+00:28:11.660 --> 00:28:15.800
+<v Speaker 1>I know that's a very tense period. So it is</v>
+
+00:28:17.240 --> 00:28:41.880
+<v Speaker 1>I wanna I hats off to all to all our top eight. They they really did a great job and I'll continue to do a great job. Here's the interesting thing, by the way, my little halfway through, if you said to me right now, who are the top three? Who are they? Who do you think they're going to be? I don't know. I mean, there's a few people that have been a little more consistent than the others. And so obviously they have a leg up right now. But</v>
+
+00:28:42.850 --> 00:29:12.740
+<v Speaker 1>it's interesting to watch that, that most people so far out of the three weeks, I would say everybody but one person so far has had an off week. Like everybody's had a week where like you were in the bottom half of this week and everybody -1 person has been in the bottom half every week so far of the first three weeks between the design challenges, between the design test, design Challenge 1, Design Challenge 2. So who knows? And we keep testing different skills each week. We are testing different things,</v>
+
+00:29:12.810 --> 00:29:13.250
+<v Speaker 1>so</v>
+
+00:29:14.150 --> 00:29:44.140
+<v Speaker 1>we might test the skill that one person just shines at another person. It's their weak point. So you know, that's one of the things that also makes it unknown is we'll keep testing different skills and how they how they fare the different scales. So anyway, if you've not yet turned into watch the great designer search, I'm hoping you can please do it is a lot of fun. And if you really want to see if you enjoy how design works, if you want to see behind the scenes, there is nothing more informative than watching people actually design cards and watching</v>
+
+00:29:44.250 --> 00:29:56.230
+<v Speaker 1>professional designers in critique and judge them. Every single card is judged by 4 different judges, all of which have, you know, significant experience making Magic cards. So</v>
+
+00:29:57.430 --> 00:30:27.560
+<v Speaker 1>and the other thing that's great you'll see from the judges is each judge has a different thing they're looking for because they have sort of a different vantage point. And so you know, you really will get a chance to see the judges are all looking at the cards in different ways. So you'll get a lot of different kinds of notes. Anyway, it's super informative. So if you like making cards, that's the kind of thing that interests you And you somehow haven't heard yet about the great designer search three, check it out. I really think it's very entertaining. There's a lot of interesting to see and there's a lot of drama. One of these</v>
+
+00:30:27.630 --> 00:30:35.800
+<v Speaker 1>people, and maybe more than one, but one for sure, we'll, we'll get an internship and potentially,</v>
+
+00:30:36.510 --> 00:30:43.620
+<v Speaker 1>potentially a full time job. You know, one of these people could be leading the set that you're playing a couple years from now.</v>
+
+00:30:44.870 --> 00:30:58.520
+<v Speaker 1>So who will be? And when I say I don't know, I truly don't know. These guys are all, I think all guys. I'm not even sure of that. We, we did not ask biological information of them. So I know very little about them. I know their names,</v>
+
+00:30:59.980 --> 00:31:00.800
+<v Speaker 1>but anyway,</v>
+
+00:31:02.210 --> 00:31:23.360
+<v Speaker 1>they're really good, really good designers. And I don't know what's gonna happen. I anyone of them, anyone of them could have win. I truly believe that. So anyway, I'm now at work. So we all know that messes up a lot now at work. So we all know. We all know what that means. This is the end of my drive to work. So instead of talking magic, it's time for me to make and magic. I'll see you next time. Bye. Bye.</v>
+

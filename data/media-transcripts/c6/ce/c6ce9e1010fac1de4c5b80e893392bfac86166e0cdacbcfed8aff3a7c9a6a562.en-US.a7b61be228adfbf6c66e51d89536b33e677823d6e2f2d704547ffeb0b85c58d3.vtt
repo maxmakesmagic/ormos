@@ -1,0 +1,338 @@
+WEBVTT
+
+00:00:01.450 --> 00:00:27.710
+<v Speaker 1>I'm pulling my driveway. We don't know. That means it's time for another drive to work. OK, so today is the start of another design series. This time I'm going to talk about the design of Urzas Saga. So as always, what I'll do is this first batch of podcast about Osaga and then the next batch of do not immediately, but we'll be about Earth's legacy and the last match we are's destiny. It's all about the Earth is black.</v>
+
+00:00:28.900 --> 00:00:59.190
+<v Speaker 1>OK, let's start with Urza saga. So we're talking back. This is 1998. I came on October 12th of 1998. So probably Arzaga block is most famous historically for being broken or I'm sorry to use a R&amp;D term, Baroka. Then you need the bot. You really get the army term in there, Bob broken. Anyway, so let me flashback to the past and I'll explain sort of how this site got put together. OK, so back in 1998,</v>
+
+00:00:59.950 --> 00:01:10.800
+<v Speaker 1>Magic R&amp;D was 5 people. It was myself, Bill Rose, who's now the curtain, VP of R&amp;D, Mike Elliott, William Jockish and Henry Stern,</v>
+
+00:01:11.830 --> 00:01:41.530
+<v Speaker 1>everybody else. And that was it. That was the five people that worked on magic. And the idea was all the people that worked on magic. We did all the development, the design team and we did some of the design. At this point, what had happened was when we first started, there were a bunch of external designs. Richard had gone out and you know, the Ice Age designers and the The Mirage designers. We got some external designs that we were working on. Mirage being the last real external design. I guess one could argue Special Chaos, which</v>
+
+00:01:41.600 --> 00:01:45.820
+<v Speaker 1>he used a little bit when making Invasion, but so anyway,</v>
+
+00:01:47.140 --> 00:02:17.210
+<v Speaker 1>the after Mirage, I then pitched the idea of letting me do a set, which was Tempest, and I was told that I could pick my own design team. So obviously Richard Garfield was on my team because part of me convincing them to let me do it was having richer on the team because they trusted Richard. And then the other two team members of my template design team was Charlie Catino and the other was Mike Elliott. Mike and I both bemoaned how we really wanted to design, and so this is an opportunity for us to show what we could do. Obviously</v>
+
+00:02:17.290 --> 00:02:37.090
+<v Speaker 1>interested really well. And from that, Mike and I really sort of established ourselves as designers. So Urza's Saga, the design team was me and Mike and Bill Rose. So we were the three of us that Bill, I'm sorry, Bill had done Mirage, I had done Tempest. This was Mike's first,</v>
+
+00:02:38.610 --> 00:03:07.540
+<v Speaker 1>I'm not sure his first, that first large set for sure. He was on the Weatherlight design team, which was started after the template design team due to the nature of large versus small sets. But this was the first time I think he led a design. And so also, by the way, Richard Garfield credited being on the team because one mechanics with his mechanics. I'll get to how that happened, but he wasn't actually on the design team. We just credited him because we used some of his work. OK, So</v>
+
+00:03:09.160 --> 00:03:38.670
+<v Speaker 1>what happened was Mike was very interested First off the two mechanics that Mike wanted to use. So this is back in the day where we we had two named mechanics every set. What were the two mechanics of the set? You know Mirage had flanking and phasing, Tempest Hart Tempos had shadow and buyback. So what was Urza Syberg's 2 mechanics? So it was echo and cycling. So both those mechanics interestingly actually were in Tempest they when the design for Tempest. So Echo,</v>
+
+00:03:39.290 --> 00:03:50.350
+<v Speaker 1>what was Echo called? Michael Mike made Mike Elliott before he came to Wizards had made his own set called Astral after ways.</v>
+
+00:03:51.200 --> 00:03:58.270
+<v Speaker 1>Um, he had his own set and in the set had both echo and had slivers.</v>
+
+00:03:59.470 --> 00:04:23.370
+<v Speaker 1>And so he had, when we were doing Tempest, he gave me both mechanics. We ended up using slivers. I'd stuck echo in, but I just, when I turned Tempest design and there's just too much there. And I had like both echo and cycling or in it, but in small doses. And the idea was that these are interesting mechanics. We shouldn't like they could, they're worthy of being in their own sets. They didn't need to be here. So we took them out and Mike remember that.</v>
+
+00:04:24.760 --> 00:04:28.890
+<v Speaker 1>So echo had come from Mike set. So Echo, for those don't remember, is</v>
+
+00:04:30.240 --> 00:04:47.490
+<v Speaker 1>their cards that are cheaper than normal, but you pay that cost twice, you pay them when you play it and then the getting of the next upkeep you pay it as well. And the idea was you could get things you normally couldn't get, essentially allowed you to spread your costing over two turns to get things that were a little bit cheaper.</v>
+
+00:04:49.090 --> 00:05:14.300
+<v Speaker 1>Echo did not tend to do that well. It was thought it was more of a downside mechanic. I think technically you get a cheaper creature, but people aren't particularly good at gauging spells. And a lot of people, what you paid for the creature over the course of two turns was actually usually more than you would pay. So it wasn't like you were paying what you would normally. You're paying more than normally pay, but you got to spread over two turns, so you got to pay less per turn.</v>
+
+00:05:16.430 --> 00:05:46.140
+<v Speaker 1>Who was that that you remember the name of it? He had a different name when Mike turned it in cycling, which actually Richard called cycling. Richard came up with it during Tempest design. He liked the idea of having spells that allowed you the option of sort of trading them in if you needed to. And the idea in this that was cycling was always 2. I think we knew that you could cycle for different costs, but decided that we didn't need to. So in this set it's spelled out it's always cycling 2, but</v>
+
+00:05:46.250 --> 00:05:50.420
+<v Speaker 1>the for the entire block we use the same sex. I think we</v>
+
+00:05:51.630 --> 00:06:20.580
+<v Speaker 1>she's been messed with later, I think cycling to the entire block. We would later bring it back in on flat and then start messing around with costs and stuff. But I believe in this block it's cycling to all the way through. OK, so those are the two named mechanics are a couple of the mechanics in this that that were not named 1 was so the set had an enchantment theme or something. The most people are unaware of this set actually had a pretty strong enchantment theme. And when people talk about why don't you ever make enchantment sets, I used to always say, hey,</v>
+
+00:06:21.110 --> 00:06:21.750
+<v Speaker 1>you know,</v>
+
+00:06:24.800 --> 00:06:55.590
+<v Speaker 1>or is this saga wasn't enchantment block and it was from a pure like a limited standpoint. If you actually look and see the number of enchantments in the block, it's a lot higher than normal. And there were a couple of different themes that ran through with the comments, Although notice that neither of the keyword mechanics was inherently an enchantment thing. So the two things that Mike put in that there were mechanics but not named is we had growing enchantments. And that was the idea of something where you would play it and then every turn it would get a counter and then that counter the effect would Grover</v>
+
+00:06:55.760 --> 00:07:12.460
+<v Speaker 1>over the turn, how many, how much you could do. The way that growing Champions works is you could sacrifice them. So the idea is I play it and then it gets more and more powerful and I can cash it in whenever I want. And the longer I wait, the more powerful it is. I think this mechanism was based off a card that Mike and made in</v>
+
+00:07:13.920 --> 00:07:44.550
+<v Speaker 1>Tempest that he liked was a blue card. I'm blanking the name, but he liked it. It was a card that basically lets you draw cards and so the longer you wait, the more cards you got to draw and Microwave liked that card. And so he wanted to make a whole mechanic based on that card. Then there was the sleeping enchantments and the sleeping enchantments were enchantments that, umm, when you first played them, they were just enchantments, but under certain conditions they would turn into creatures. So the idea was they were kind of creatures that you could cast</v>
+
+00:07:44.670 --> 00:08:14.970
+<v Speaker 1>cheaper than normal, but they weren't creatures until a certain condition was met. They were enchantments and we called them sleeping enchantments. They had different like the white ones I think were Opal and the blue ones were veiled. Black ones were lurking and the green ones were hidden. Some reason red didn't have any sleeping cements. The one other mechanics that my contribution to this at my broken contribution is what we call the free mechanic. So what happened was Ice Age to introduce</v>
+
+00:08:15.040 --> 00:08:44.940
+<v Speaker 1>hand traps, the idea that you could spell that were small enough that you can get an extra card. And then we experimented with them in Ice Age cantrips, you always get the card the next turn. And then we realized that we could do it. So you've got the card right away. And I think Tempest Block had tantrums in it. But the problem was that Bill really felt that like it wasn't something we should have all the time, that it was something like people I don't know. And Bill's mind, he's like, rather than being a basic utility tool that we would use all the time,</v>
+
+00:08:45.050 --> 00:09:15.390
+<v Speaker 1>he thought like, ohh, medicine, we should be saving. And so every once in a while it comes back. So we were told we couldn't have any cantrips in this block. So I was trying to come up with something that was in a similar space. So I was, I was missing one of the idea that, well, what if instead of you got a card, like the idea of cantrips is you don't lose the card. Like you, you paid the spell and you're the spell, but you get the card back. So you're not having any card disadvantage. So I said, well, what have you did did it So it you lost the card,</v>
+
+00:09:15.480 --> 00:09:44.900
+<v Speaker 1>but you didn't lose the mana. So the idea of a free spot, he said, OK, you have to cast it, but you get to untap up to the number of lands you would need to cast it. So the idea essentially was assuming you have enough manage to pay for it. It's free. It's called the free mechanic. As I will talk about it a little bit, things got kind of out of hand. One of them getting out of hand had to do with the free mechanic. So we'll talk about it a bit. But that was my cycling was made by Richard in Tempest. Echo was made by</v>
+
+00:09:45.490 --> 00:10:12.090
+<v Speaker 1>Mike in his set, which we brought into Tempest and then ended up being put here. Growing enchantments were based on some stuff that Mike and I had done in Tempest and sleeping in champions were mikes and the free mechanic that was mine. Yes, my my big contribution to the set was one of the most broken things in the set. OK, so this set, by the way, code named armadillo was 350 cards. So for those that might not understand,</v>
+
+00:10:12.990 --> 00:10:42.940
+<v Speaker 1>modern sets are not quite as big as they once were. So Once Upon a time, we used to use 110 common sheets. I'm sorry, 110. The sheets could hold 110 cards. So the comments at 110, the uncommons at 110, the rare is at 110 and there were 20 lands. So that's 350 cards. For example, nowadays we have 249 cards plus land. So it ends up being or it's 2:49 with the land and it's 249 is with the land. Although we upped the uncommons anyway, I guess we're at 262</v>
+
+00:10:43.020 --> 00:10:56.000
+<v Speaker 1>69 anyway we're in the mid 2 hundreds where this is 350. So this is you know, almost 100 or I think 100 hundred cards more. OK, so the</v>
+
+00:10:56.660 --> 00:11:26.400
+<v Speaker 1>the thing that we when we made this at the idea was we were really into the idea of playing around with looking at what enchantments can do and there were a lot of cycles in the set. Interesting. There's a bunch of cycling cycles. So there were cycling lands. Those were a basic lands and they weren't basic, but tap for the five colors, you know, 5 different ones and there was one that tacos and you could cycle them for two. So the idea was, hey, these are lands. We need them, but later in the game when you don't need them, you can cycle them away.</v>
+
+00:11:27.170 --> 00:11:56.940
+<v Speaker 1>There were embraces which were enchantment playing to the aura theme in the design. We called them the Make me all blank, so make me a Sarah. So you got plus 2 + 2 flying and vigilance, although wasn't called vigilance at the time. And so we had a, we had a series of five of those which were met. Once again, we were really trying to make enchantments matter. So we were trying to make some really powerful auras, for example, that you would play. We had legendary lands, Tolarian Academy being the most famous of those, the gayest</v>
+
+00:11:57.010 --> 00:12:27.440
+<v Speaker 1>cradles there saying dumb Shivan Gorge and Flexion Tower of a lesser known. Well, I'll talk about those when I get to the car by cards. There were perpetual auras. So once again, playing into our champion theme, we had auras that when they went to the graveyard from anywhere, you would get them back. And so the idea was you wouldn't lose card event by playing them, that I put them on my creature and the creature dies, I get them back. We had rules of protection, which were like circles of protection, but you could pay, you could cycle them. So the idea was, you know, it's just like social protection,</v>
+
+00:12:27.510 --> 00:12:35.210
+<v Speaker 1>but you didn't always need a circle protection. You know, it's a good card to have if you needed it, but often you'd have to sideboard them. So this will let you play things main deck.</v>
+
+00:12:36.660 --> 00:13:06.320
+<v Speaker 1>There were an uncommon cycle of growing enchantments, like I'm talking about the growing theme where you you would play it out and you put a counter on every turn. If they reverse counters, they played like they were songs that were sung and then you would cash it in. So the more turned you waited, the bigger the effect would be. There also was a mega cycle, not a mega mega cycle, but a mega cycle which meant that there was a 5 car cycle that ran through the whole block. And what that was were cards that targeted two different things</v>
+
+00:13:06.450 --> 00:13:16.080
+<v Speaker 1>and there were tuned this at and tune 2, I think one in Legacy and two in Destiny. I think what we did. OK, so let's talk about the history of Urza's Saga. OK, so</v>
+
+00:13:17.440 --> 00:13:47.450
+<v Speaker 1>we wanted to make an enchantment set. That was our goal. But meanwhile, I haven't gone too much into this, but during Tempest, I, and I'm a guy named Mike Ryan, had pitched the Weatherlight saga. Everyone was on board. We got this whole creative team to come on board and help us do all the visuals and build the world. And then during The Tempest Saga, or during The Tempest block, the story got rested away from me and Mike, and it ended up going in a different direction, one that Mike and I had not intended or planned.</v>
+
+00:13:47.880 --> 00:14:19.230
+<v Speaker 1>And part of that was the idea to incorporate more of Magic's past. And so in our version of the Wallaga, Urza was not involved. But it was decided that no, no, no, this was clearly all about Urza. And so they decided to then have a block where we went back in time and showed how Erza was involved. Even though you didn't see Earth in The Tempest Black, turns out Erza was really involved. And So what happened was the whole block, which once again a whole storyline there was not ever intended when we originally made the Weather Light Saga,</v>
+
+00:14:19.740 --> 00:14:25.430
+<v Speaker 1>was there to tie Urza into it. And so this whole block was basically to say, hey,</v>
+
+00:14:26.980 --> 00:14:56.790
+<v Speaker 1>Erza was involved. Let's explain how Urza was involved. This was Urza story of how the story that Erza was not involved in it all turns out to all be part of Urza's master plot to stop the flexions. The flexions were the villains. By the way, if you actually look at Tempest, they they talk about there was an invasion coming. It was a fraction invasion. So we did have the fractions as being the villain, but we didn't have urges that involved at all. But anyway, so Urza's I going back to the past. So the thing that happened was we had designed the set to be this enchantment Sat, but then</v>
+
+00:14:56.920 --> 00:15:26.930
+<v Speaker 1>they went back in the past and they made it all about Urza. Now, as you know, Urza is a artificer. So we're like, is it a little weird? We may have said mechanically all by enchantments and you went and focused it on a guy really well known for making artifacts and they're like, Oh no, not a problem. And then they named the block the block, like the previous block had been the raft cycle, which took place on Raft. So they decided to name this one since they didn't want to name it after Dominaria. Also the black bone Serrano wasn't all</v>
+
+00:15:27.030 --> 00:15:31.030
+<v Speaker 1>quite in Dominaria so they called it the artifact cycle.</v>
+
+00:15:31.650 --> 00:15:36.560
+<v Speaker 1>So we had a block we were trying to sell as about enchantment and it was named the artifact cycle.</v>
+
+00:15:37.570 --> 00:16:06.930
+<v Speaker 1>And then we kind of broke some things and some of the broken things were artifacts. So we had a set with broken artifacts called the artifact cycle. Surprise, surprise, no one really perceived it as being enchantment cycle. If you ever go and gather and look at it, literally just look at how many enchantments are in it. There's a lot of themes that are trying to enchantments. There's the growing enchantments, there is the sleeping enchantment, there's some perpetual auras, there's the embraces, there's there's a lot going on. There's a lot of enchantment themed things.</v>
+
+00:16:08.180 --> 00:16:21.420
+<v Speaker 1>So anyway, the story kind of got hijacked and went in the direction that we had not intended and ended up sort of changing the focus on the set a little bit. This was back in the day where we didn't work really closely well</v>
+
+00:16:22.250 --> 00:16:52.190
+<v Speaker 1>during Tempest, I was in charge or Co in charge of the story. So it's very interconnected because I was trying to tell so the mechanics and it's like, you know, the story explained like what the shadow creatures were or what the slivers were like. It really sort of explained everything. None of that was true here. Cycling echo, all the enchantments theme, nothing. The story did nothing to explain any of that. It was really disconnected. And this starts the period where there's a little bit more of a disconnect between design and its story. And so we would</v>
+
+00:16:52.290 --> 00:17:08.140
+<v Speaker 1>to make things and then story would try to then explain what was going on, but there wasn't the back and forth that we have nowadays, which makes it much more tighter cohesive gameplay and experience overall. OK, so now let's get into the other big aspect of Urza Saga. So,</v>
+
+00:17:09.410 --> 00:17:40.240
+<v Speaker 1>so the design team was me and Mike and Bell, who were pretty much the three people doing the design at that point. The development team was the Magic, like the development team was the Magic R&amp;D people, which was me and Mike, William Jockish, Bill Rose, Henry Stern. OK, The interesting thing was at the same time that this was going on, there were other projects happening. For example, I was working on Unglued. We were doing this wacky and weird set and I was the one person in charge of it.</v>
+
+00:17:40.350 --> 00:18:11.080
+<v Speaker 1>I had no design team. I mean, I, I had people contributing stuff. So the people who are credited as being the design team are people who contribute enough things that I listed them. But I had no actual design team. I was doing it myself. Henry was doing on Portal 3 Kingdoms at this point. He was doing that all by himself. Bill, I think was working on the 6th edition rules that were a major undertaking and Bill was doing that not completely by himself. But, but the point was Henry and Bill and I each had big projects we were working on in which we were the only one doing the project.</v>
+
+00:18:11.220 --> 00:18:41.490
+<v Speaker 1>And so it sucked away some of our time. So what happened was Mike and Bill, ohh, Mike. By the way, not only was Mike Felipe designer, Mike was the lead developer, something we don't normally do. Normally we like to have two sets of eyes. But during Mirage, Bill had been both the designer and the lead developer. And so Mike decided he wanted to do that. And I don't know, I, I know illusions that I was supposed to be a developer. So I, well, I LED my design. I did not leave my development for Tempest, for example.</v>
+
+00:18:42.000 --> 00:19:10.350
+<v Speaker 1>But one thing that's important is you want that second set of eyes now, not that Bill should have the development of Mirage, probably, but Bill at least had the vantage point of having time. They had made more, you know, marriage known as Menagerie years earlier. So Bill had some distance from it because they had made it a long time ago. By the time it finally got to Wizards, you know, it had it was over a year old where Mike was designing something immediately sort of handing it off to himself. So for starters,</v>
+
+00:19:11.070 --> 00:19:26.660
+<v Speaker 1>Mike did not have the perspective that one would hope to have because he was the designer and because we were so busy, really the only person who was available for Mike was William. The other thing to remember at the time was that</v>
+
+00:19:28.500 --> 00:19:43.890
+<v Speaker 1>none of us were picked. Like nowadays, developers tend to come from the pro Tour, like people who have proven their chops with their ability to sort of dissect, you know, cars, be able to build strong decks and understand what made the game tick really when it got down to it.</v>
+
+00:19:45.460 --> 00:19:45.920
+<v Speaker 1>Umm</v>
+
+00:19:47.230 --> 00:20:11.300
+<v Speaker 1>Bill and I and Mike really were designed with more than we developers. Henry actually came from the pro tour and probably had the most development eye. But because he was off doing Portal 3 kingdoms, Henry was mostly absent and Bill probably was the other person that had the best set development sense was busy redoing the 6th edition rules that were going to happen. 6 edition rules came in the middle of this coming out.</v>
+
+00:20:13.460 --> 00:20:14.760
+<v Speaker 1>She was Henry working on.</v>
+
+00:20:16.670 --> 00:20:18.710
+<v Speaker 1>Maybe Henry wasn't working on,</v>
+
+00:20:20.080 --> 00:20:49.830
+<v Speaker 1>I'm not sure. Anyway, Henry was busy and maybe now that I think about it, I think the new rules might have. Anyway, I'm not sure Henry was busy working on a side project. I know it came down to Mike and William to do the majority of this. OK, so a couple of problems. 1 was like and William were having issues with each other. In fact they were in the middle of a big fight, so much so that Mike and William weren't talking. So imagine having a development team in which really only have two people that are working on the development</v>
+
+00:20:50.070 --> 00:20:52.750
+<v Speaker 1>full time and they're not talking to each other.</v>
+
+00:20:53.410 --> 00:21:23.300
+<v Speaker 1>On top of that, Mike was the lead designer as a an additional lead developer. And so Mike definitely sort of, you know, it's hard to call your baby ugly. And so Mike was definitely had, you know, really much was defending all the things he had done. William, for those that don't know, was probably at the time of the original four of us and that King Henry of me, Mike and Bill, you know, we all started back in 95. Henry came a year later on the four of us. He was</v>
+
+00:21:23.370 --> 00:21:41.030
+<v Speaker 1>clearly the most development oriented on He was very quirky. I've told some stories about William. He was very quirky in this development thing. But anyway, basically they the two of them were were fighting and it let's just say or the saga did not get the development loved it. It needed. So</v>
+
+00:21:42.520 --> 00:21:51.560
+<v Speaker 1>to give you a little sense of how crazy things got, let's go to the Pro Tour in Rome, where Urza's Saga premiered. So it wasn't,</v>
+
+00:21:52.270 --> 00:22:08.070
+<v Speaker 1>I think it was an extended tournament, not a standard tournament. But here's how people describe the gameplay at Pro Tour role. There was the early game, that was when you roll the die and discovered who went first and you shuffled and then you rolled the discover who got to go first.</v>
+
+00:22:09.680 --> 00:22:20.150
+<v Speaker 1>Then there was the mid game, that's where you made mulligans if you needed to Mulligan and you know, needed to reshuffle something. And then there was the end game, which was known as Turn 1</v>
+
+00:22:20.960 --> 00:22:27.160
+<v Speaker 1>and Pro Tour Rome. Many, many games would end on the first turn</v>
+
+00:22:27.900 --> 00:22:34.370
+<v Speaker 1>that it was one most broken virus, maybe the most broken proton environment we've ever had. What happened was</v>
+
+00:22:36.050 --> 00:22:53.220
+<v Speaker 1>what I call that trifecta, the trifecta of power, all came together. There's three things that are very dangerous that we have to watch out for, and we put all three of them in spades into the set. So First off, you have to be careful with what we call with mana, meaning</v>
+
+00:22:54.800 --> 00:23:06.170
+<v Speaker 1>spells cost things. And so it's really important that you make sure that you make sure it's not too easy to cast spells. You don't want to circumvent the mana cost,</v>
+
+00:23:07.260 --> 00:23:37.100
+<v Speaker 1>and you can circumvent the manifest either by making it too easy to get mana or by allowing people just to not pay the cost of mana and not pay the cost of spells. We did both of those. In terms of Saga, we made it very easy. In fact, there's a, I'll get to it, but there's called Tulare and Academy, for example, that allowed you very early to be able to get huge amounts of mana on the first turn. And then we had spells like the free mechanics let you untap the Tolarian Academy so you can get even more mana</v>
+
+00:23:37.300 --> 00:23:38.700
+<v Speaker 1>all on the same turn.</v>
+
+00:23:40.750 --> 00:24:07.370
+<v Speaker 1>Second, the second leg of the tripod was car drawing. That another thing that's dangerous, you make it too easy to draw cards. Well guess what this set did? It made it really easy to draw cards. In fact, we had a car called Time Spiral that lets you just draw 7 brand new cards and it got you more mana because it untapped your lands. So anyway. And the third thing, our engines and engine is anything that lets you turn 1 resource into another.</v>
+
+00:24:09.320 --> 00:24:11.280
+<v Speaker 1>I think the game can handle</v>
+
+00:24:12.010 --> 00:24:45.240
+<v Speaker 1>anyone of those. Maybe if the rest of the set was worked around it, but you definitely don't want to have two legs of the tripod. And this set has three legs of the tripod. The tripod of terror was standing firm. We, we let you circumvent costs with, with easy manner and just allows you to skip over cost. We gave you access to lots of cards. We gave you engine to turn resources and other resources. So this was it was a very, very broken environment and we ended up having to ban a huge number of cards.</v>
+
+00:24:46.180 --> 00:25:18.100
+<v Speaker 1>This is what they call combo winter for those that know their history, that we gave you all these pieces to make just really devastating combo decks because we gave you access to cards and we gave you access to mana and we've accessed the engines and they're just were so many, numerous ways to do really dangerous things. And they can be done really quickly too. And so I mean, I talked about extending the probe. Even standard was horribly broken. And in order to solve this, we ended up having to ban a whole bunch of cards.</v>
+
+00:25:18.220 --> 00:25:48.200
+<v Speaker 1>Usually that's a sign that we've done stuff horribly wrong with a whole bunch of cards have to get banned. Not one a whole bunch. And in fact, we banned a bunch of there wasn't enough, we had to come back and ban more anyway. So combo winters. So when people ask me what was the biggest developmental problems in Magic history, the two blocks that I will list is in fact the number one block. The block with the most amount of developmental problems is Urza Saga, with Mirrodin being a number 2. I feel the close #2 that also was</v>
+
+00:25:48.320 --> 00:26:18.760
+<v Speaker 1>made some big mistakes, but I think Izaga was more developmentally mistake, more developmental mistakes, In fact, Erza side. So what happened was the one time in my history in 20 years of working at Wizards coming up in 21 that I got R&amp;D, got called to the CEO's office at the time, Peter accident at the time and chewed out. We were yelled at. We were yelled at for how badly we had messed up the environment. Even Mirror didn't even get yelled at like we did. We got Peter was mad, mad, mad,</v>
+
+00:26:18.830 --> 00:26:38.350
+<v Speaker 1>mad, mad, mad. And he just screamed at us. And Peter, by the way, was a jovial guy. For those who don't know, Peter was a very friendly guy. I mean, not that I never, I, I saw him get mad. It was like the only thing he ever got mad, but the only time you ever got mad at me. And he was really, he was really upset. He was very angry.</v>
+
+00:26:39.150 --> 00:26:39.680
+<v Speaker 1>Umm,</v>
+
+00:26:41.090 --> 00:26:42.470
+<v Speaker 1>anyway, we</v>
+
+00:26:45.070 --> 00:27:12.500
+<v Speaker 1>not the high point for us like like, like I said for the side and also like I said, the story was going off and, you know, sort of deviating and and so basically the idea for those who don't know is Tempest. We see the weather like crew. So Sissy gets kidnapped, forcing Gerard to come back to the weather. Like, even though he he chose he never was going to be there. He he takes, he takes command and then he rounds up some other members of his crew and they go to raft the save. Sisay.</v>
+
+00:27:14.320 --> 00:27:25.470
+<v Speaker 1>Meanwhile, we take a year off. They they ended up going when the story ended, they've gone through the portal. They stranded Urte behind and like, OK, they're in the portal.</v>
+
+00:27:27.070 --> 00:27:33.840
+<v Speaker 1>They've gone to a new world. We'll get back to that in a year. In the year later McKinney masks, you discover Mercado where they ended up</v>
+
+00:27:35.090 --> 00:27:53.950
+<v Speaker 1>back for a year. We say we did a flashback. It's time to do the prequel to explain, hey, how did this all happen? And it turns out it was all Erza's doing the weather like hey, all these characters. Yeah, yeah, it's Ariza. So we spent a year going back in time and</v>
+
+00:27:54.770 --> 00:27:56.120
+<v Speaker 1>there are some characters</v>
+
+00:27:57.320 --> 00:28:20.930
+<v Speaker 1>in in building the story for the Weatherlight. We had definitely had a few tie tie in to early magic. Baron, for example, was Hannahs father that was built in. So it wasn't as if our story ignored the past of magic, but we didn't tie Urza into it. And when the story sort of got rusted from us, it became about Erza. And so this block was the story of Urza.</v>
+
+00:28:22.360 --> 00:28:52.640
+<v Speaker 1>Interestingly, by the way, the name we actually wanted to call this at was Urza's Odyssey. And for some reason we were told we couldn't, which is funny because we would later a couple years later call us at Odyssey. So that was the original name Ursus Odyssey and it become Urza Saga and then Urza's Legacy and Urza's Destiny. Our needs to remember the order by remembering that Elvis lunch and was dinner. That was the little demonic remember at the time. OK, so now that I've talked about it, let's get to the cards.</v>
+
+00:28:53.930 --> 00:29:23.220
+<v Speaker 1>OK, so we're going to begin with Arc Lightning. So Arc Lightning is a sorcery that cost 2 inner Reds, three men and one of which is red. You do 3 damage anyway you want divided between players and creatures. So one of the things started happening was we were very much designing with limited in mind. So Mirage, which was The Mirage was the first set. I mean, when I got there, Alliances was kind of changing of the guard, all the old magic Rd. people and all the new magic and people work together on it.</v>
+
+00:29:23.410 --> 00:29:35.610
+<v Speaker 1>And then after Alliances if sort of like, OK, we're going on to do other things because at the time, you know, Wizards are doing lots of other projects, products. In fact, we're doing a lot of other training card games. We had</v>
+
+00:29:37.120 --> 00:30:07.100
+<v Speaker 1>I'm called jihad, not then later changed the vampire the eternal struggle. We had net runner and we were doing board games, robo rally and other things. So Wizards, our news producing lots of different games. And so the people who have been working on image were like we'd rather work in some other stuff. And they hired new people to work on magic, new people being me and Bill Rose and wine jockish and Mike Elliott and then a year later Henry Stern. And so Mirage was kind of the, you know, the second wave, the, the new one that I was,</v>
+
+00:30:07.200 --> 00:30:38.270
+<v Speaker 1>we were in charge. And so starting with Mirage, we were working on that and we were very conscious of limited. So Mirage was the first set we took limited in mind. And so our gleaming really is our sort of exploring different ways to make use of direct damage. And so I think alliances have a card called Pyrotechnics, which was a free card, a pitch card, a card that you can, instead of paying casts and gosh, you could discard another card to the same color from your hand and it allowed you 4 damage, you could spread the damage. I think we liked the idea</v>
+
+00:30:38.400 --> 00:30:53.310
+<v Speaker 1>of spreading damage. That was kind of cool. I mean, a fireball in original alpha, obviously you could pay extra to split it. But like the idea of just to spell like this was our kind of, it was kind of a lightning bolt variant. And the idea was it cost a little more, but you could spread it out and we thought that was pretty cool.</v>
+
+00:30:54.160 --> 00:31:06.040
+<v Speaker 1>OK, next arcane laboratory tuna blue. It's a chatman cost 31 which is blue. So I made this card so players are limited to 1 spell per turn. Interestingly,</v>
+
+00:31:07.680 --> 00:31:37.600
+<v Speaker 1>little did I know that we were going to make a combo environment, but I just liked answers. I thought magic is good one has answers and I thought there's a neat answer to say hey, hey, you know what? If I slow you down, I could let you casts one spell return ended up actually being important because a lot of times in comes you want to catch multiple spells and so it was one of the tools to slow them down. We have since realized this should be a white thing because whites the rule set in color. So this became rule of law years later, but this was the first version of it.</v>
+
+00:31:37.680 --> 00:31:38.620
+<v Speaker 1>Arcane Laboratory</v>
+
+00:31:39.530 --> 00:32:02.150
+<v Speaker 1>next Argothian enchantress. So that was cost one in the green 2 mana one which is green 01 enchantress. It had essentially shroud. Shroud was written out at the time and didn't exist as a keyword yet. And then whenever you cast enchantment draw card. So Richard had made the original archaeologist, original Enchantress,</v>
+
+00:32:03.610 --> 00:32:33.660
+<v Speaker 1>and I was just trying to make a new version of it. But the one thing that Chandresh has always had is people used to always target the enchantress and kill it because obviously that was where you did the car drawing. So I said, hey, what if I gave you a chance that they couldn't just bolt? You know, there's harder for them to get rid of. So basically Shroud once again, it wasn't keyword yet, but homelands, I think, Oh well, legend to introduce the not clean version homelands at the cleaner version of Shroud. And so I was like, OK, let's make a</v>
+
+00:32:33.730 --> 00:32:41.910
+<v Speaker 1>your car that you you can't target. And then you could use that in your deck. This could be the centerpiece of your deck, and it's a little harder for your opponent to get rid of.</v>
+
+00:32:43.740 --> 00:33:13.470
+<v Speaker 1>OK, next, Barrin Master Wizard 1 blue blue SO3 mana 2 which is blue. It's a one one. I think it was a legendary wizard when it was printed. Later became a legendary human with human wizard. Actually, when it was printed, it was probably ohh. When it was printed, it was a creature or site It was summoned. Yeah, because it was 46 edition. It was a summon legend because legends were creature types at the time. And then below it said it counts as a wizard because at the time we didn't do multiple creature types on cards.</v>
+
+00:33:13.680 --> 00:33:44.260
+<v Speaker 1>So if you wanted to be a second creature type, it would be in your text to say it counts as we later to say, OK, we have to say that just will have room and put it in the creature type. It is now a legendary creature human wizard. So Baron first explain the car, then I'll talk with Baron is so this card was 2 sack of permanent and he'd return target creature to its owner's hand. You could unsummon a creature. So Baron, for those who don't know the story, was the right hand man of Erza. He also ended up being Hannah's dad.</v>
+
+00:33:44.700 --> 00:33:46.090
+<v Speaker 1>He was married to Rain</v>
+
+00:33:47.510 --> 00:33:51.210
+<v Speaker 1>and Baron had been talked about back in</v>
+
+00:33:51.980 --> 00:33:53.000
+<v Speaker 1>in a</v>
+
+00:33:53.860 --> 00:34:06.990
+<v Speaker 1>in antiquities. They said we first, I mean Erza's name, Urza Mishra show up in Alpha. But the first the time we really Start learning about them was in antiquities and Rain actually gets a card. Rain get a card.</v>
+
+00:34:07.910 --> 00:34:37.380
+<v Speaker 1>No, no Hercule and draft I got card. Rain would get a card later in this block. But anyway, Baron was mentioned and we really liked playing around with Baron. We wanted we wanted a member of the weatherlight crew to have some connection. And so we ended up making Hannah Barron's daughter and the reason she's sort of the the artifact expert on the ship and she's the essentially the engineer on the ship. She's a Star Trek metaphor. And</v>
+
+00:34:37.830 --> 00:35:01.380
+<v Speaker 1>ohh, the reason the story that they go to Tulare because they need a wizard is Hannah, her dad there. And so the reason that Baron gives an Ertai partly is because the bond that he has with Hannah being his daughter, obviously. So Baron, interestingly enough, we had made some Vanguard cards before the set came out. And the Vanguard cards,</v>
+
+00:35:04.040 --> 00:35:22.110
+<v Speaker 1>the first batch were the original Weatherlight crew and the second batch were the prequel characters. And so I'm not sure which came first. I'm not sure whether this card came first and then we mirrored it on his Vanguard card or the Vanguard card came first. I think this card came first. We liked the idea that he was a wizard and that he could</v>
+
+00:35:23.650 --> 00:35:30.340
+<v Speaker 1>that that his magic is sort of that he could use his magic to protect things. And so he and we gave him a,</v>
+
+00:35:31.790 --> 00:36:02.820
+<v Speaker 1>we gave him an Unsummon ability. But anyway, one of the things that was fun about doing the flashback stuff was we could sort of take some characters you'd heard about. And so one of the things we did is we had made some characters that were background characters for, for Gerard. And then so there were a lot of legendary characters in the block, some of which were characters we had made but hadn't shown you and some of which were previous characters you had heard about but hadn't yet seen. Interesting. We never made an Urza character. We made we made a copy of the represent him in disguise.</v>
+
+00:36:02.890 --> 00:36:33.430
+<v Speaker 1>I'll get to that when we get that card. That's not Urza's Saga, but I we never actually made an urgent care because he was a planes Walker. And at the time we didn't make planes walkers into cards. We later changed that, obviously, but also remember this point where planeswalkers were very God like and we're like, how do you represent that on a card? And so we have time weren't making planes walkers on cards, but we were making characters. So Baron got it to be made. OK, the final cover to talk about today is Blanchard</v>
+
+00:36:33.540 --> 00:37:00.300
+<v Speaker 1>Farmer. So Blanchard armor cost 200 green. It's an order. We were trying to make some really strong auras because it was enchantment themes that even though no one knew that and what it did is it gave you plus X + X, where X was the number of forces you had. The idea was it was a pretty powerful thing. Three manta. You could get a really big aura but require you to play basically mono green. One of the themes you'll notice in the set is we really try to encourage some monocolor strategies.</v>
+
+00:37:01.680 --> 00:37:02.930
+<v Speaker 1>We we,</v>
+
+00:37:03.640 --> 00:37:34.900
+<v Speaker 1>you know, magic doesn't always do that, but we thought in this that we wanted to push that direction a little bit. So you'll see there's some really strong themes pushing you toward monocular plays. Blanchard armor was one of them. This ended up going to be a very popular car. We put in a lot of corsets. So this card started here. This is where Blanchwood armor began such Blanche ones on Dominaria, but this is the first time we ever saw the car. So so anyway, I'm pulling up my daughter's school. I got all the way to B. So there's a few more podcasts in our future. But anyway, I hope you guys are enjoying hearing all about Urza Saga and the</v>
+
+00:37:35.010 --> 00:37:48.950
+<v Speaker 1>business that was one of the most broken sets we've ever made. So anyway, I'm now at my daughter's school so we all know that means means at the end of my drive to work. So instead of talking magic, it's time for me to be making magic. I'll see you guys next time. Bye bye.</v>
+

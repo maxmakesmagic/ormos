@@ -1,0 +1,668 @@
+WEBVTT
+
+00:00:01.200 --> 00:00:20.910
+<v Speaker 1>I'm putting on my driveway. We all know that means it's time for another drive to work. OK guys, we got a special 1 today. I have a gas say hi. Hi. So this is Melissa De Toro, one of the newest members of R&amp;D. So Melissa has done a very strange thing, which is how far did you drive today?</v>
+
+00:00:21.340 --> 00:00:22.430
+<v Speaker 2>I drove 45.</v>
+
+00:00:22.440 --> 00:00:30.450
+<v Speaker 1>Minutes, yeah, 45 minutes to be on this podcast because people ask all the time to have guests on my podcast and I keep trying to explain to them. They literally in bring me to work</v>
+
+00:00:30.820 --> 00:01:00.850
+<v Speaker 1>and most of my guests have been people who live near me. So you are the farthest away. So I welcome you. So here's what we're gonna do today. We're gonna I have you guys meet Melissa and we're going to talk about what it's like to be in R&amp;D. And I realized something interesting when I was prepping for this is that Melissa started the beginning of 2015 and I started in 1995, twenty years apart. So we're going to have some fun today sort of looking at the different differences between where R&amp;D used to be and where R&amp;D's now. But we're going to start now because this is our guest.</v>
+
+00:01:00.920 --> 00:01:05.380
+<v Speaker 1>Melissa. Talk a little bit. How did you end up getting the job in Irony? Let's start there.</v>
+
+00:01:05.430 --> 00:01:06.220
+<v Speaker 2>Alright, well</v>
+
+00:01:06.940 --> 00:01:10.550
+<v Speaker 2>I was in a movie theater about to watch Guardians of the Galaxy.</v>
+
+00:01:10.620 --> 00:01:11.930
+<v Speaker 1>A fine, fine movie, OK.</v>
+
+00:01:12.000 --> 00:01:32.910
+<v Speaker 2>And you got this Facebook message. So I look at the Facebook message and it's Dave Humphreys saying, would you like to work in R&amp;D? And I was just like, well, that was unexpected. So the whole movie, I was thinking about this, this Facebook message that I received. And I was just like, I was shocked. I didn't expect this. It was just like,</v>
+
+00:01:33.630 --> 00:01:34.820
+<v Speaker 2>just like crazy to me.</v>
+
+00:01:34.980 --> 00:02:05.320
+<v Speaker 1>It's a little a little background. So Dave Humphries, very famous Magic player, Hall of Famer, is the manager for the development team. And so one of Dave's jobs is to find new talent. So we have a system we use called the internship system. So the way it works is we hire someone for an internship. How long, how long the internship? 6 months, six months and that the end of six months we sort of evaluate how the person's doing and whether or not we want to move the person on to full time. And pretty much every developer who is in the pit right now,</v>
+
+00:02:05.420 --> 00:02:21.940
+<v Speaker 1>Pat went through a development internship. I mean, even even like Eric Lauer, who's the head of development, you have my equivalent on development. He, he was an intern for a while. So talk a little bit about, OK, so Dave, Facebook's you and says, hey, I want you to be in R&amp;D. What happens at that point?</v>
+
+00:02:22.050 --> 00:02:35.740
+<v Speaker 2>Alright, so I thought about it for a while. It was like basically I would have to give up playing Magic on the pro tour and actually playing Magic at all because at the time Wizards employees couldn't play in any sanction Magic tournaments.</v>
+
+00:02:35.990 --> 00:03:01.930
+<v Speaker 2>So it was kind of a big decision for me. I was also, I would have had to move across the country. But after thinking about it for like maybe 5 minutes, I said yeah, this is for me, I think I want to do this. So I told him yes, I was interested. And then he we did an interview that went fine. And then he sent me this test called the Vapor OPS test, which is basically just this design test and you just have to answer a bunch of questions about Magic cards and stuff.</v>
+
+00:03:02.690 --> 00:03:06.390
+<v Speaker 1>What real quickly the vapor OPS is cards you've never seen before</v>
+
+00:03:07.080 --> 00:03:20.670
+<v Speaker 1>and you have to evaluate them because the job of a developer is to evaluate cards they've never seen before. So we're not connected. Not going to talk specifics but give me a general sense of like the kind of things you have to figure out on vapor up test.</v>
+
+00:03:20.960 --> 00:03:36.990
+<v Speaker 2>It was basically like evaluate cards for limited and constructed play, build constructed decks out of these carts. So basically I had to like, you know, look at car they never seen before, evaluate them on the fly and then just build a deck that a standard deck that would,</v>
+
+00:03:37.220 --> 00:03:38.390
+<v Speaker 2>you know, work in</v>
+
+00:03:38.990 --> 00:03:41.130
+<v Speaker 2>format and these cards.</v>
+
+00:03:42.530 --> 00:03:45.140
+<v Speaker 1>So, OK, so you had interviewed first, he had the paper upsets.</v>
+
+00:03:45.150 --> 00:03:46.400
+<v Speaker 2>1st I had the interview first.</v>
+
+00:03:46.410 --> 00:03:51.650
+<v Speaker 1>Actually, OK, they have phone interview, Yes. OK, he had the phone interview. He did the paper test. What After that? What was next?</v>
+
+00:03:52.880 --> 00:04:22.350
+<v Speaker 2>Well then after that I was told that my test went really well. So that was great. But unfortunately they didn't have a position for me. They went with someone else. So I was real sad, but it was OK because I could go to Pro Tour Honolulu. So that one fine. But they've also said that he was very interested in me still. So like he would keep me in mind in case something else opened up. Could have opened up in a year, a month, who knows. But a month later something did open up. So I, so I ended up making plans to move out to Seattle,</v>
+
+00:04:22.650 --> 00:04:26.680
+<v Speaker 2>played him one final pro tour, which was Hawaii. And then after that,</v>
+
+00:04:28.110 --> 00:04:32.940
+<v Speaker 2>I guess after that, like there was Christmas and stuff. So I I waited a couple of months and then I moved out in January.</v>
+
+00:04:33.670 --> 00:04:45.900
+<v Speaker 1>So something you may not know, it's very funny, it's very when someone starts in in R&amp;D, especially on the development side, a very, very common request is just one more pro tour at the very common request.</v>
+
+00:04:46.890 --> 00:04:56.360
+<v Speaker 2>Like actually really sad because I just also taught baited a Grand Prix like right before the Pro tour. So I did kind of want to play more and more pro tours, but</v>
+
+00:04:57.070 --> 00:05:02.450
+<v Speaker 2>I mean, I figured if I played in another pro tour, I would just have to claim the next pro tour. So I had to give it up sometime</v>
+
+00:05:03.110 --> 00:05:06.480
+<v Speaker 2>and I figured this was a good time. You know, this was my 18th pro tour.</v>
+
+00:05:08.000 --> 00:05:17.840
+<v Speaker 2>I had a decent amount of success. I didn't like have the pro points I wanted, like I like, my goal was to like be on the Hall of Fame ballot and I didn't get enough pro points for that unfortunately. But</v>
+
+00:05:18.550 --> 00:05:21.290
+<v Speaker 2>I think overall, like it was, it was a good decision.</v>
+
+00:05:22.100 --> 00:05:26.090
+<v Speaker 2>And you know, it was, it's a lot of pro tours. It's pretty impressive.</v>
+
+00:05:26.380 --> 00:05:38.030
+<v Speaker 1>Yeah, no, very impressive. So, OK, so you are, they said OK, we got a job for you. You started in January, I believe. Yes. OK. What's your first day like? You walk in first day. What's the first day of being around you like?</v>
+
+00:05:38.040 --> 00:05:50.200
+<v Speaker 2>Alright, well, first day I got to see all these people who I haven't seen in a long time that I used to play Magic with. So it was kind of like a reunion. I saw Gavin, Sam Stoddard, Ben Hayes,</v>
+
+00:05:51.290 --> 00:05:58.050
+<v Speaker 2>Ian Duke, like all people that like I've played PTQ's with years ago so I get to, I got to see my old friends again, so that was pretty cool.</v>
+
+00:05:59.580 --> 00:06:05.570
+<v Speaker 1>Right. So the development is mostly hired from people that are former pro players that that's where development tends to get most of its.</v>
+
+00:06:07.250 --> 00:06:20.920
+<v Speaker 2>So then I get handed all of these books of magic sets and they say OK here are the next 5 magic sets, learn them. So all of a sudden I have all these sets I have to learn. It was pretty overwhelmed.</v>
+
+00:06:22.030 --> 00:06:51.930
+<v Speaker 1>Yeah, that. So whenever you start, one of the things we refer to it as the black hole, which is every, every person starts and there's like a gap where they know all the cards that they played with. And once they get in R&amp;D, they know all the cards they're working on. But there's a two year gap between what you've seen and what you work on. And it's very, very hard actually to remember things that you just haven't experienced. Like if you played with the cards, you didn't remember them or if you worked on the card, you tend to remember them. But</v>
+
+00:06:52.020 --> 00:06:58.060
+<v Speaker 1>just looking at less is a lot trickier. So what's it like catching up on two years of magic in not too long?</v>
+
+00:06:58.170 --> 00:07:14.480
+<v Speaker 2>Ohh, is this really hard? Like so I asked a lot of people how long it took them to learn. They said ohh, you know, like a month or more. So I was like, alright, a month. Yeah, that's fine. I can probably learn these sets in a month. And it's just like very overwhelming because usually for like if you're preparing for a pro tour, you have to learn one set.</v>
+
+00:07:15.130 --> 00:07:23.490
+<v Speaker 2>So that's pretty easy. And you also have all this knowledge of sets before it. So all you have to do is like learn these cards, figure out</v>
+
+00:07:24.210 --> 00:07:30.840
+<v Speaker 2>how they play well into the standard form that you already know about, but then all of a sudden the standard format is completely new. Was two years that you've never seen cards.</v>
+
+00:07:31.680 --> 00:07:35.160
+<v Speaker 2>So you have to not only learn all these cards, but also figure out the standard format.</v>
+
+00:07:36.690 --> 00:07:50.140
+<v Speaker 1>And that is the standard for FL we call the future future league is standard, but a year from now. And so one of the things that that that you're talking about makeup stand like you have to play a standard, which you know, none of the cards.</v>
+
+00:07:50.310 --> 00:08:04.770
+<v Speaker 2>Oh yeah, for sure. And then not only that, but there's no artwork. Like all you have are just, you know, names, text and casting costs. So like, you're like, so for my first day, I just borrowed someone else's deck because obviously I'm not going to build a deck when I have no idea what's going on.</v>
+
+00:08:05.490 --> 00:08:16.900
+<v Speaker 2>So I'm playing these cards and I have to like read everything. I don't know what anyone's doing. And there's like, it's, it's just so hard. There's no artwork on any of the cards, like I said. And like that's like for most people,</v>
+
+00:08:17.600 --> 00:08:22.430
+<v Speaker 2>the art is like how you know the card, you know, like you just look at the art, you know what that is.</v>
+
+00:08:23.320 --> 00:08:37.470
+<v Speaker 2>But like when it's just text, you just have to learn card names and learn what everything does. And like, card games is something that I'm terrible at. So it was definitely hard to like memorize all these card games. Oh, and then all the card names change.</v>
+
+00:08:39.820 --> 00:08:45.500
+<v Speaker 1>Welcome to my world. I know no card name because all the cards I know are all different usually from what they end up being called.</v>
+
+00:08:46.500 --> 00:09:16.960
+<v Speaker 1>So here's let's talk contract here to 1995. So when I started, I started in October of 1995, homelands had just come out and the next set was alliances, which I was on the development team. Like my first day I, I went to a development meeting for alliances and there's like 13. It's every single person working on magic was on this development team was crazy. But anyway, I only had one set to learn because it was, it was the largest gap we've ever had in magic between card sets. There was a 7 month gap and we had a shorter time frame.</v>
+
+00:09:17.040 --> 00:09:26.690
+<v Speaker 1>Queen how long We worked less far ahead back then. So I had to learn one set, which was a small set, alliances. So that's a very different animal than having to learn, you know, two years with the cars.</v>
+
+00:09:26.960 --> 00:09:28.050
+<v Speaker 2>Ohh wow, that sounds.</v>
+
+00:09:29.940 --> 00:09:31.840
+<v Speaker 1>Other than in a little while they're back then, but</v>
+
+00:09:32.720 --> 00:09:38.970
+<v Speaker 1>I also, that's when I started magic. I knew every single car in existence because it was 95 and there were, you know,</v>
+
+00:09:39.900 --> 00:09:44.960
+<v Speaker 1>1000 cards or something. There were a lot of cards that match again, so you actually could know every card. That's no longer</v>
+
+00:09:45.920 --> 00:09:50.200
+<v Speaker 1>OK. So first day you have all the new sets. You gotta learn new sets. What else do you on the first day?</v>
+
+00:09:51.540 --> 00:09:51.870
+<v Speaker 2>Well,</v>
+
+00:09:52.730 --> 00:10:02.130
+<v Speaker 2>I did a Dragons of Tarkir draft. OK, that was really fun. I didn't expect that and also at this during this traffic report wasn't even out yet. So</v>
+
+00:10:02.860 --> 00:10:06.880
+<v Speaker 2>I got to open packs of asset that isn't going to come out for months</v>
+
+00:10:07.550 --> 00:10:11.850
+<v Speaker 2>and we did a draft, a real life draft. It was like super fun and</v>
+
+00:10:12.520 --> 00:10:14.510
+<v Speaker 2>definitely like something I didn't expect to do.</v>
+
+00:10:14.600 --> 00:10:42.990
+<v Speaker 1>So let me see what's going on there. So one of the things we have to do is we have to check packs before it comes out. So when they the very first print run that comes off is a test print run, they send it to R&amp;D and we need to make sure that everything is correct, that the packs aren't messed up. So Brian's one of the one of the development guys. He, his job is to look through and make sure the collation everything is correct. But hey, we have sealed packs you've been on those are going to waste. And so it's very common that R&amp;B,</v>
+
+00:10:43.160 --> 00:10:47.550
+<v Speaker 1>you know, just for quality assurance purposes, We'll, we'll, we'll draft and make sure that it's good.</v>
+
+00:10:48.020 --> 00:10:50.800
+<v Speaker 2>Yeah, and unfortunately we had to give back all the cards.</v>
+
+00:10:50.810 --> 00:10:53.070
+<v Speaker 1>Ohh yeah, we cannot keep the cards.</v>
+
+00:10:54.830 --> 00:11:04.980
+<v Speaker 1>Yeah, I, I had a A draft for, we did the same thing for Magic Origins and I opened up both Jace and Foiled Chase.</v>
+
+00:11:05.470 --> 00:11:05.860
+<v Speaker 2>That was.</v>
+
+00:11:05.870 --> 00:11:19.240
+<v Speaker 1>Crazy. That was crazy. But anyway, so OK, so you had a chance to play into drafting format you've never seen before with real cards. You you had to learn our systems, right? Yet to learn the multiverse and all the different.</v>
+
+00:11:19.310 --> 00:11:21.140
+<v Speaker 2>Tools. Yeah, lots of stuff to learn.</v>
+
+00:11:21.610 --> 00:11:25.500
+<v Speaker 1>OK, so you have to learn the tools. You gotta get up to date on all the cards.</v>
+
+00:11:25.850 --> 00:11:27.370
+<v Speaker 1>What what else? What else for your first date?</v>
+
+00:11:29.020 --> 00:11:30.120
+<v Speaker 2>I got a free lunch.</v>
+
+00:11:31.950 --> 00:12:02.060
+<v Speaker 1>Ohh, that's very common. Yes, it's very, very common. When someone starts that the team will take them out. The whole team will go out to lunch to welcome the design team. For example, we tend to go to California Pizza Kitchen for 10 to go. When are we getting a designer to be aware? R&amp;D, Once again, some people aren't aware of this. There's a bunch of different sections in R&amp;D. So there's a development section, the head developers, Eric Lauer and the Lee. The manager of development team is Dave Humphreys, the design team. I'm the head designer and then Mark Gotley does my</v>
+
+00:12:02.200 --> 00:12:22.630
+<v Speaker 1>design manager. There's design section, there's also a creative team section that's broken into a story section in an art section. There is an editing section. There is a digital section that's broken up in different digital products. And so all these different groups exist in our and D. So it's just meeting everybody, right? That's probably a big part of the first couple days, just learning everybody's.</v>
+
+00:12:22.640 --> 00:12:23.230
+<v Speaker 2>Name</v>
+
+00:12:24.550 --> 00:12:33.510
+<v Speaker 2>all the departments and meet everyone and then forget everyone's name. But I did learn them overtime at least, so that's good. But yeah, there's a lot of people to be on your first day.</v>
+
+00:12:34.900 --> 00:12:37.930
+<v Speaker 2>I did know most of the development and design there already. So that was.</v>
+
+00:12:39.590 --> 00:12:40.930
+<v Speaker 1>Did you do universal design?</v>
+
+00:12:41.400 --> 00:12:43.870
+<v Speaker 2>Yeah, like Gavin, Jackie, I.</v>
+
+00:12:43.880 --> 00:12:45.160
+<v Speaker 1>Playing show you new Gavin Jackie.</v>
+
+00:12:45.670 --> 00:12:46.790
+<v Speaker 2>Hughes was her.</v>
+
+00:12:48.980 --> 00:12:56.190
+<v Speaker 1>Because a lot of the designers don't come from the pro tour, right? You're correct, Gavin and Jackie did. So some of them do. But like Ethan and Sean and.</v>
+
+00:12:56.320 --> 00:13:03.380
+<v Speaker 2>Ken Yeah. But I did meet them during like, you know, various times. Like I went to the community club last year</v>
+
+00:13:04.110 --> 00:13:08.320
+<v Speaker 2>and got to tour Wizards and I like met almost everyone then.</v>
+
+00:13:08.410 --> 00:13:12.390
+<v Speaker 1>Ohh that makes sense. OK. That's like the number you were in the community copy. I I forgot</v>
+
+00:13:13.120 --> 00:13:13.520
+<v Speaker 1>that's true.</v>
+
+00:13:14.300 --> 00:13:15.450
+<v Speaker 1>OK, so,</v>
+
+00:13:17.120 --> 00:13:24.720
+<v Speaker 1>OK, so your first day, So what? Let's talk about your very first team. What was the, you know, we're not getting specifics, but with the first team you were on development team.</v>
+
+00:13:26.280 --> 00:13:28.370
+<v Speaker 2>Well I guess NFL team is technically the 1st.</v>
+
+00:13:28.380 --> 00:13:31.930
+<v Speaker 1>Team OK, so the top of the NFL team. Tell me what that is.</v>
+
+00:13:32.820 --> 00:13:37.330
+<v Speaker 2>Alright, so FL is our internal standard league.</v>
+
+00:13:37.660 --> 00:13:38.810
+<v Speaker 1>Future, Future league.</v>
+
+00:13:38.850 --> 00:13:41.130
+<v Speaker 2>Yep, and we play Future standard.</v>
+
+00:13:41.820 --> 00:13:49.600
+<v Speaker 2>So basically what we do is we meet every week to go over all the cards and figure out what the top cards are in the format.</v>
+
+00:13:50.430 --> 00:13:55.310
+<v Speaker 2>And we build decks independently based on what we think, what we feel are the best cards.</v>
+
+00:13:55.990 --> 00:13:56.880
+<v Speaker 2>And we play test,</v>
+
+00:13:57.780 --> 00:13:58.570
+<v Speaker 2>last play test</v>
+
+00:13:59.720 --> 00:14:02.520
+<v Speaker 2>and then like it's also split up into season. So like</v>
+
+00:14:03.330 --> 00:14:17.160
+<v Speaker 2>kind of like, you know, right now we have Dragons of Tarkir is the current standard format. So technically you could say that's the Dragons of Tarkir season, but we have that as well for future sets. And then when the season is winding down, we do a tournament</v>
+
+00:14:17.950 --> 00:14:18.270
+<v Speaker 2>in.</v>
+
+00:14:19.330 --> 00:14:19.880
+<v Speaker 2>IF</v>
+
+00:14:20.630 --> 00:14:34.370
+<v Speaker 2>if something is performing super well in the tournament is very dominant, we could maybe make some of those cards worse to like make the deck a little weaker, or we could improve some other cards to make decks that aren't doing so well a little bit better against this particular deck.</v>
+
+00:14:35.670 --> 00:14:36.080
+<v Speaker 2>Umm,</v>
+
+00:14:36.900 --> 00:14:39.840
+<v Speaker 2>that's pretty much what that feels all about.</v>
+
+00:14:40.640 --> 00:14:49.610
+<v Speaker 1>And so one of the roles of I know the interns is you guys do a lot of play testing. So it's very common for the the interns to do a lot of FL.</v>
+
+00:14:49.680 --> 00:14:53.030
+<v Speaker 2>Yeah, the technicals free time. So we just play lots of magic.</v>
+
+00:14:54.520 --> 00:15:06.760
+<v Speaker 1>You mentioned this earlier, but I want to hit this point again that one of the skills that's really important for for developer is the ability to build that. So talk a little bit about like what what the goal is when they, you know, what are you trying to do when you build that?</v>
+
+00:15:07.600 --> 00:15:12.880
+<v Speaker 2>All right, well, first I want to say that building FL decks is just so different. For building decks for real,</v>
+
+00:15:13.570 --> 00:15:27.780
+<v Speaker 2>like we in real life, you have a lot to go by. You have the Internet, you have turn results. But like here, you have to just build a deck from scratch. So you have to really know what you're looking for. Like if a deck has a weakness, you have to know</v>
+
+00:15:28.460 --> 00:15:42.970
+<v Speaker 2>how to find it and like how to improve it. And just like being in Rd. for four months, my deck building skills have just improved like so much. If I ever go back to the Pro Tour like watch out because I am actually like much better at deck building than I used to be.</v>
+
+00:15:43.320 --> 00:15:58.930
+<v Speaker 1>So one of the things for people to understand is the real world has what we call stat, a static environment, which means we print cards. Those are the cards. And so when you go to build the deck, nothing changes like the cars you're playing with today are the cars you're playing with a week ago. But when you're playing an</v>
+
+00:15:59.010 --> 00:16:02.900
+<v Speaker 1>ID, cards change because as you guys are figuring what's going on,</v>
+
+00:16:03.570 --> 00:16:17.180
+<v Speaker 1>development will change the cards and sometimes it'll change costs, sometimes it'll just throw them out and add new cards. So you're building in a non static environment, a student that's in flux. So what is it like building environment where things keep changing?</v>
+
+00:16:17.590 --> 00:16:33.640
+<v Speaker 2>All right, well, for example, if you have this one deck that's doing really well in dominant, like we'll like talk about it be like, OK, sure, this deck is performing too well. Let's make you know these specific cars worse. So we do that. Maybe try and play the deck again. It's bad. So we</v>
+
+00:16:33.710 --> 00:16:40.170
+<v Speaker 2>he was like dismissed the deck never played again. Well, that could be a mistake because as other cars keep changing this deck</v>
+
+00:16:41.230 --> 00:16:54.160
+<v Speaker 2>be good again, you know, So like one thing that we have to be careful of is to like never dismiss an old deck that we think is bad because cards are constantly changing. The decks are always changing and decks like they just fluctuate in power level like</v>
+
+00:16:54.840 --> 00:16:56.260
+<v Speaker 2>constantly, like every day.</v>
+
+00:16:57.460 --> 00:17:05.780
+<v Speaker 1>So another thing that I know you guys do turn this a little bit is not only is your role figuring out what's good and what's bad, you need to figure out what's fun and what's not fun.</v>
+
+00:17:06.460 --> 00:17:24.610
+<v Speaker 2>Oh yeah, that's very true. Like I, I might say good and bad, but that's not actually what we're trying to do at all. Like the actual goal is fun. So, so for example, if there's cards that are like just producing like a very like repetitive game state, we want to avoid that.</v>
+
+00:17:27.750 --> 00:17:56.760
+<v Speaker 1>One of the things that I know Eric, Eric Friend a little bit about is what development is trying to do is they set power level, but power levels not. It's about figuring out where are the interesting things. Let's put the power where the interesting things are meaning make to. I talked with a lot of my podcast about how the players will go wherever the game put puts them. Wherever the strongest strategies are, the players will play that strategy regardless. If they're fun things to do, they'll play the better strategies.</v>
+
+00:17:56.870 --> 00:18:10.940
+<v Speaker 1>So what development needs to do is make sure the better strategies are where the fun is, so that the decks people are playing are the fun decks. And I know a lot of development is trying to make sure that what you guys are pushing is the thing that the players most enjoyed playing.</v>
+
+00:18:11.770 --> 00:18:21.620
+<v Speaker 2>Definitely very true. Like if something is super fun, we want to make that card good. If something is not fun, we either want to just kill the card or just not make it a standard competitive card.</v>
+
+00:18:22.750 --> 00:18:28.200
+<v Speaker 1>OK. So let's move on. You do FL, let's talk a little bit about being on a team. So it was your first team in development team?</v>
+
+00:18:28.250 --> 00:18:30.040
+<v Speaker 2>I am currently on a development team, yes.</v>
+
+00:18:30.050 --> 00:18:34.640
+<v Speaker 1>OK, So what, what what, what? What's it like to be on development team? What do you do on a development team?</v>
+
+00:18:35.410 --> 00:18:45.310
+<v Speaker 2>So I've been on this development team since the set started in development. So like the first thing is this thing called Divine where it's like a mix of design and development.</v>
+
+00:18:46.020 --> 00:19:09.820
+<v Speaker 2>And at that time we don't really have control over what cards can change or not. Basically like design has all control over it, but we're trying to make sure that like the draft environment and sealed environment is balance. So like if we build a sealed deck and everyone plays blue black and no one ever wants to play any of the other colors, well, clearly there's a problem there. So we might try to make</v>
+
+00:19:10.730 --> 00:19:19.010
+<v Speaker 2>the rest of the colors, like make some of the cars slightly better and then make the blue and black slightly worse. Then we'll try again and like see if it's balanced then.</v>
+
+00:19:19.880 --> 00:19:20.150
+<v Speaker 2>So</v>
+
+00:19:20.770 --> 00:19:24.740
+<v Speaker 2>yeah, we definitely want to try and get limited to a good place during that.</v>
+
+00:19:26.140 --> 00:19:56.530
+<v Speaker 1>Let me find Divine real quickly. So way back when design used to work on the file and then would hand off the development. And what we found was that development would do a lot of work early on changing some stuff to design did. And we realized was if development could give notes to design, design could fix a lot of the problems that development has. But because design is a little more aware how the settle comes together at that point that they could fix it, but make changes that would be in tune with what the rest of the sets doing.</v>
+
+00:19:56.630 --> 00:20:12.560
+<v Speaker 1>And so divine started as an in between. Where design still has control of the file, but developments making notes that design is listening to in adapting to. So we do divine, we make changes. OK, now it gets handed off development time. What does development do?</v>
+
+00:20:12.700 --> 00:20:18.010
+<v Speaker 2>Alright, so one thing is we have to make sure that the set mechanics work and that they're fun.</v>
+
+00:20:18.900 --> 00:20:24.790
+<v Speaker 2>So like so for example, some of the set mechanics in the set them that I'm on it just they just didn't work like</v>
+
+00:20:25.540 --> 00:20:30.220
+<v Speaker 2>so this one mechanic, it just didn't do anything. It was like this weird mechanic where like</v>
+
+00:20:32.040 --> 00:20:33.990
+<v Speaker 2>it was like an ability of a creature</v>
+
+00:20:35.210 --> 00:20:45.560
+<v Speaker 2>and like the opponent, like you didn't know if the opponent could interact with your creature or not. So it was just a weird mechanic and we were just like, this is working, we're just going to kill it and call this something else.</v>
+
+00:20:46.980 --> 00:20:50.000
+<v Speaker 2>So yeah, that's one thing. We have to just make sure all the semi cynics</v>
+
+00:20:51.030 --> 00:20:53.660
+<v Speaker 2>our balance and are fun to play with.</v>
+
+00:20:55.220 --> 00:20:56.470
+<v Speaker 1>What else? What else you do?</v>
+
+00:20:56.560 --> 00:21:08.850
+<v Speaker 2>We also want to make sure that there's a good amount of constructive cards. There's like a set number of construction cards that we shoot for like a certain number of mythics rares</v>
+
+00:21:09.620 --> 00:21:10.740
+<v Speaker 2>on communism comments.</v>
+
+00:21:12.040 --> 00:21:13.380
+<v Speaker 2>So right now</v>
+
+00:21:14.640 --> 00:21:15.530
+<v Speaker 2>we are</v>
+
+00:21:16.250 --> 00:21:24.570
+<v Speaker 2>we don't have enough constructive cards. So our goal is to improve some cards for constructed to make sure that like there's enough cards to play with in this.</v>
+
+00:21:25.470 --> 00:21:26.220
+<v Speaker 1>So something else</v>
+
+00:21:27.590 --> 00:21:57.400
+<v Speaker 1>make sure people understand one of the things that development tries to do is it's not their goal to solve the environment because the development understands environment completely, then the public will figure it out overnight. You know, there's millions of people playing Magic. So we're development is trying to do is make some educated guesses and push in different directions. So it's not that they know every card what's going to necessarily be a hit card. They just make a lot of logical guesses in different areas, knowing that some of it will end up seeing play, but</v>
+
+00:21:57.550 --> 00:21:58.710
+<v Speaker 1>not necessarily everything.</v>
+
+00:21:59.460 --> 00:22:07.080
+<v Speaker 2>Yeah, like if if there's a card that we think is super cool, we'll just like make it good enough so that we know that it will see constructive play.</v>
+
+00:22:08.720 --> 00:22:31.550
+<v Speaker 1>Right. And there's a lot of famous examples where there's cards with the card and the vacuum is really good, but it wasn't a deck that really took advantage of it. And so it's possible for a strong car sometimes to sort of not quite see as much play as possible because the rest of the cards supporting aren't there. So the reason you guys are making decks is not only are you trying to make sure individual cars are strong, but archetypes are.</v>
+
+00:22:32.960 --> 00:22:33.310
+<v Speaker 2>Right.</v>
+
+00:22:35.050 --> 00:22:39.000
+<v Speaker 1>OK. So anything else in development team, anything else that you do that people might not be aware you do?</v>
+
+00:22:39.330 --> 00:22:42.480
+<v Speaker 2>Let's see, draft, sealed, constructed.</v>
+
+00:22:43.760 --> 00:22:47.500
+<v Speaker 2>What else have we been doing? I'm sure there's something I'm forgetting.</v>
+
+00:22:47.610 --> 00:23:03.700
+<v Speaker 1>Well, another big thing I know that goes on development is the creative happens. I mean, design and creative talk a lot early on, but a lot of the decisions about what's happening happened during development. Like it's during development that the art gets commissioned, that there's card concepts.</v>
+
+00:23:04.490 --> 00:23:07.930
+<v Speaker 2>I don't know too much about the art stuff yet, but I do know that</v>
+
+00:23:09.290 --> 00:23:11.180
+<v Speaker 2>there are certain cards that</v>
+
+00:23:11.840 --> 00:23:30.820
+<v Speaker 2>get commissioned for art and like once they get commissioned for art, the art is locked in. So when you change cards, you have to keep in mind like the flavor of the card and the artwork. So like, so for example, if you want to change a card into something different, we have to look at the art and we say, alright, well let's change work with this art. And if it doesn't, then we can't make that change.</v>
+
+00:23:31.220 --> 00:23:41.650
+<v Speaker 1>Another thing that happens is in large sets of specially, there's two ways of art and so you have wave 1 and wave 2. So you have to figure out what to lock down earlier. Like what are you</v>
+
+00:23:41.780 --> 00:23:52.380
+<v Speaker 1>for sure you want to do? Because you're right, once you have art, it limits what you can do with the car. And so there's another part of development, figuring out what do we want to come into early and what do we want to hold off a little bit on?</v>
+
+00:23:53.060 --> 00:24:09.630
+<v Speaker 1>And there's a lot of very, very tricky things about art. You know, you might think that ohh, if it's a creature, whatever, I can change it. It's like, well, not necessarily certain creatures can only be so big. And if you go flying, you have to be flying in the art. And there's there's nothing, there's things that you just can't change easily, but you have to be very</v>
+
+00:24:11.290 --> 00:24:12.360
+<v Speaker 1>OK. So,</v>
+
+00:24:13.710 --> 00:24:43.550
+<v Speaker 1>oh, and then in the development has to do, which is development interacts with all the different departments. So development, like if there's frames to be done, development has to interact with caps and the people doing the framework and making sure that we figure out how the frames are going to work. If there are magic online issues, if we're doing something that's going to be quirky to program, they have to interface with digital, make sure that those stuff are done. If there are any organized play issues, like if they're doing something like I know we made the double faced cards, we had to talk to organized play</v>
+
+00:24:43.630 --> 00:25:00.950
+<v Speaker 1>because we knew that was a huge drafting thing and organized, they had to figure out how they were gonna be drafted. So there's a lot of different things I know development does interfacing with lots of different sections, design kind of we have to interface a little bit development a little bit creative, but we're doing work so early that a lot of a lot of other teams aren't involved yet.</v>
+
+00:25:01.770 --> 00:25:09.340
+<v Speaker 2>Yep, that's very true. I haven't really interacted with many of those teams yet because I'm still very new. And like usually if you're a lead on a development team, like</v>
+
+00:25:11.040 --> 00:25:12.470
+<v Speaker 2>but yeah, that's</v>
+
+00:25:13.720 --> 00:25:20.470
+<v Speaker 2>always have to talk to creative. Like I know every time I suggest a change for a card, the lead on that set is like ohh OK like let me just go.</v>
+
+00:25:22.400 --> 00:25:26.720
+<v Speaker 1>OK, so you are you on a development team, You're doing FL, What? What else? What other kind of stuff do you do?</v>
+
+00:25:27.860 --> 00:25:37.640
+<v Speaker 2>So even if I'm not on a certain team, I could still be in play test with that team. So I've done lots of play tests of all different sets that are either in design or develop.</v>
+
+00:25:39.740 --> 00:25:44.020
+<v Speaker 1>And I know Eric has you guys look at files and you guys will do passes on.</v>
+
+00:25:44.070 --> 00:26:01.200
+<v Speaker 2>Yeah, that's something that he's having us do because like, especially when a set is in divine, no, sorry design, he wants us to look through the file anyway, just to like see if there's something off because like sometimes designers just like design A car that will just never work and construct.</v>
+
+00:26:02.990 --> 00:26:13.020
+<v Speaker 1>Yeah, that's something we spend a lot of time recently is trying to design cars that have more potential in constructed because certain, yeah, certain kinds won't work and constructed.</v>
+
+00:26:13.670 --> 00:26:20.730
+<v Speaker 2>That won't work in magic. You know, it's like, oh, this card, it just doesn't work. Like, it just the rules don't support it or like</v>
+
+00:26:21.620 --> 00:26:27.590
+<v Speaker 2>you just can't like actually put this card in the deck for whatever reason. There could be any kind of reason that I can't really say.</v>
+
+00:26:27.840 --> 00:26:51.950
+<v Speaker 1>Yeah. I mean, one of the things that keep in mind is in design, you know, there's all, there's all sorts of things you, you have to do before you get to the final product. And there's rules, there's templating, there's all sorts of, you know, developmental issues, there's all sorts of things. And so more, we're trying to get more eyes early in design to pick problems early. So we recognize that the problems and you know, we don't end up with a mechanic that has to be 6 lines of rules.</v>
+
+00:26:52.950 --> 00:26:57.280
+<v Speaker 2>Yeah, like another thing that I've noticed is like a lot of designers like to make new chart types.</v>
+
+00:26:57.960 --> 00:27:04.760
+<v Speaker 2>Well, most of the times I read these new cards and I'm just like, yeah, that's not a thing that can happen, you know? So</v>
+
+00:27:05.490 --> 00:27:07.790
+<v Speaker 2>unfortunately those cards just get killed immediately usually.</v>
+
+00:27:09.150 --> 00:27:38.310
+<v Speaker 1>Yeah, the one of the things that we're working a lot on is making sure like design, some of what design wants to do is just do crazy things and try to out things we've never done before. But there has to come what I call the sanity passes at some point. We're like, OK, that's great, we can't actually do that or why can't we do it? Sometimes you can solve problems like, OK, well here's why you can't do it as is, but maybe you could solve that problem so you could do it. OK. So FL, you do development, you're doing play testing, anything else?</v>
+
+00:27:39.320 --> 00:27:40.690
+<v Speaker 1>There's weekly meetings, right?</v>
+
+00:27:40.750 --> 00:27:53.570
+<v Speaker 2>Yeah, of course there's weekly meetings. Yeah, we have a development meeting every week where we talk about just like any development topic. It could be about like a new set mechanic that's coming up or about like</v>
+
+00:27:54.350 --> 00:28:10.680
+<v Speaker 2>products such as like Modern Masters 2, like you know, like what card should be in it, for example. Like it could be pretty much about anything. We also have a weekly FL meeting where we talk about just standard and like what cards are fun, what cards are not fun? 2 powerful stuff like that.</v>
+
+00:28:12.210 --> 00:28:13.170
+<v Speaker 1>Like Tuesdays.</v>
+
+00:28:13.700 --> 00:28:17.600
+<v Speaker 2>Ohh, we have a meeting on Tuesday too. We have a magic meeting,</v>
+
+00:28:18.590 --> 00:28:28.180
+<v Speaker 2>basically a magic meaning is all of magic R&amp;D go in this room, there's like maybe 50 people and we like pretty much talk about anything, anything magic related.</v>
+
+00:28:28.290 --> 00:28:37.620
+<v Speaker 1>It's not just R&amp;D, it's it's anybody in the company who is interested and has some hand in magic and calm. It's where we do our slideshows. It's where we do</v>
+
+00:28:38.680 --> 00:28:41.220
+<v Speaker 1>lots of presentations. Whenever we do new sets,</v>
+
+00:28:42.800 --> 00:28:51.000
+<v Speaker 1>Yeah, the topics can vary greatly. You know, one week we're talking about some new set coming up. Next week we talk about what we learned in GDC. The</v>
+
+00:28:51.910 --> 00:28:59.500
+<v Speaker 1>yeah, the next week it could be talking about collation or something. It's all sorts of lots of different things. OK, Wednesday we have a meeting with Wednesdays meeting.</v>
+
+00:28:59.510 --> 00:29:00.740
+<v Speaker 2>Is yeah, Wednesday is card.</v>
+
+00:29:00.750 --> 00:29:02.090
+<v Speaker 1>Crafting. What is card crafting?</v>
+
+00:29:02.100 --> 00:29:09.920
+<v Speaker 2>That's where like we basically talk about a specific topic about like Magic cards. So, for example, what can we do with red?</v>
+
+00:29:10.830 --> 00:29:16.160
+<v Speaker 2>You know, we'll talk about what what red creatures can do. Well, they can have haste, they can have first strike, just like, you know, things like.</v>
+
+00:29:17.140 --> 00:29:21.850
+<v Speaker 1>Yeah, contracting is a little more technical. It's just design development and it is much more</v>
+
+00:29:22.810 --> 00:29:38.670
+<v Speaker 1>in the in the weeds technical talk like talking about can a certain color to a certain thing or the rules have have to figure how something is going to work. We have to come to an agreement how we wanna a particular mechanic to work. We also have a meeting called World Track and if you go to World.</v>
+
+00:29:38.680 --> 00:29:40.560
+<v Speaker 2>Craft I have never been to world crafting the.</v>
+
+00:29:40.570 --> 00:29:44.700
+<v Speaker 1>World crafting is the same thing but it's for the it's for creative issues.</v>
+
+00:29:46.450 --> 00:29:50.010
+<v Speaker 1>Like it's the equivalent of card crafting but for creative. It's in the weed creative issues</v>
+
+00:29:51.730 --> 00:29:54.130
+<v Speaker 1>tracking another weekly meetings that you would go to.</v>
+
+00:29:56.150 --> 00:30:03.130
+<v Speaker 1>I mean, obviously there's like one-on-one you meet with your manager and you know that there's there's some bookkeeping type stuff.</v>
+
+00:30:05.480 --> 00:30:10.590
+<v Speaker 1>But anyway, we're almost almost work here. So So what would you say there's question. I know people always.</v>
+
+00:30:11.290 --> 00:30:14.420
+<v Speaker 1>What is the thing that you least expected?</v>
+
+00:30:15.410 --> 00:30:25.450
+<v Speaker 1>You know, not not now that you've done it for a while? What is the thing that you're most surprised that people you know you did not expect walking in that now that you've done the job for a while, you're like, ohh, wow, I did not see this as.</v>
+
+00:30:27.510 --> 00:30:37.550
+<v Speaker 2>Well, I think I expected that we would be playing more magic like. I just expected we would just like sit and play magic for 8 hours, you know? But we do a lot of like</v>
+
+00:30:38.250 --> 00:30:40.620
+<v Speaker 2>a lot of discussing, debating.</v>
+
+00:30:40.750 --> 00:30:41.600
+<v Speaker 1>A lot of talking.</v>
+
+00:30:41.850 --> 00:30:51.320
+<v Speaker 2>Yeah, sure. A lot of talking, a lot of it just like sitting at our desks and doing research about cards and like, not as much Magic playing as I thought. And another thing is</v>
+
+00:30:51.920 --> 00:30:52.930
+<v Speaker 2>basically every</v>
+
+00:30:53.680 --> 00:31:05.290
+<v Speaker 2>developer and even designer and like, they're all like very talented Magic players. I didn't actually like, I mean, sure, people have been on the pro tour, of course they're good. But I was actually like very surprised at like how talented everyone is.</v>
+
+00:31:06.070 --> 00:31:07.210
+<v Speaker 1>Given playing yet so,</v>
+
+00:31:08.100 --> 00:31:10.410
+<v Speaker 1>but we played, we have played. I think you beat me.</v>
+
+00:31:11.800 --> 00:31:12.460
+<v Speaker 2>Yeah, I think so.</v>
+
+00:31:13.360 --> 00:31:16.390
+<v Speaker 1>So yeah, one of one of the the jokes is that</v>
+
+00:31:18.160 --> 00:31:35.390
+<v Speaker 1>a lot of Rd. joke that there are actual play still will go slightly down overtime while being in Rd. only cause, you know, be on the pro tour, you're sort of just constantly playing, playing specific like competitive magic a little more. And my claim to fame is I've gotten better and I'm in the few people that like my play skill is better than the day I started. So.</v>
+
+00:31:35.480 --> 00:31:38.330
+<v Speaker 2>This is very true though. Like I am definitely a worse</v>
+
+00:31:39.120 --> 00:31:41.240
+<v Speaker 2>Magic player. Like, I'm probably a better</v>
+
+00:31:42.250 --> 00:31:45.730
+<v Speaker 2>technical player. Like I can make all the right plays and everything, but</v>
+
+00:31:46.550 --> 00:32:10.320
+<v Speaker 2>like, I'm more sloppy. Like I go to F&amp;M and I just miss everything. And yeah, I just like, I played so much worse because like, you know, we're playing, we're not playing to win at R&amp;D. We're playing to, like, make cards better. So we're taking things back. We're discussing about plays all the time. We're like discussing certain interactions. So yeah, I'm definitely a more sloppy player than I used to be.</v>
+
+00:32:10.370 --> 00:32:13.670
+<v Speaker 1>The thing people don't realize is one of the things you play testing is it is</v>
+
+00:32:14.360 --> 00:32:44.470
+<v Speaker 1>when somebody does something wrong, you point it out because the goal is not to win. The goal is to get the optimal game. So you can understand the game day. So like if you make a mistake, your opponent will just go, ohh, you need to do section sage. And so you get very lazy because in the real world, people don't remind you to do things or, or let you take things back when you you didn't do the right plays. So, but anyway, we are now we've gotten to Wizards. So I want to thank you for joining me. Hopefully the audience has a little better sense of what it's like to join R&amp;D. But anyway,</v>
+
+00:32:44.570 --> 00:32:55.410
+<v Speaker 1>we are in the parking space. We all know that means it means at the end of our drive to work. So instead of talking magic with Melissa, it's time for us to be making magic. So guys, join us next time. Bye bye.</v>
+
+00:32:55.480 --> 00:32:55.750
+<v Speaker 2>Bye.</v>
+

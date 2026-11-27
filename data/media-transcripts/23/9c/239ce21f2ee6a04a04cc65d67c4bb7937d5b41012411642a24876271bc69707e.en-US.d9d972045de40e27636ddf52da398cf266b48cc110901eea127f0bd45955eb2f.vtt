@@ -1,0 +1,524 @@
+WEBVTT
+
+00:00:01.820 --> 00:00:31.160
+<v Speaker 1>I'm pulling out of the parking lot. We all know what that means. It's time for me to drive to work and it dropped my daughter off at school. OK, so today we're going to try to start a new series. The series is called Designing Blink, where what I'm going to do is take basic things that we do, you're just basic effects and magic has and talk about how we design for them. So our first foray into this will be designing counter spells. So I'm going to talk all about what</v>
+
+00:00:31.230 --> 00:01:01.190
+<v Speaker 1>we need to do to make counterspells. So first thing we need to do is we need to do some definitional stuff and talk a little bit about how we define counterspells. So the first distinction I want to bring up is what we call a soft counterspell and a hard counter spell. This is a term that R&amp;D uses. OK, so a hard counterspell is a counter spell where it just says counter target spell. What that means is if counters anything, it doesn't matter what the spell is,</v>
+
+00:01:01.300 --> 00:01:10.990
+<v Speaker 1>it doesn't matter what the opponent does. It's just going to counter the spell. You have 100% certainty that you are going to be coming the spot with the spell.</v>
+
+00:01:12.290 --> 00:01:42.300
+<v Speaker 1>A soft counter means that there's some condition to it that means it won't necessarily counter everything. It could only counter a certain subset of spells. It could only counter the IT would sometimes you could counter them unless the opponent does something. A soft corner means that there might be means in which I can't counter everything. Like a hard counter is if I have a hard. Here's the way to think of it is if I have a hard counter in my hand,</v>
+
+00:01:42.440 --> 00:01:56.700
+<v Speaker 1>no matter what you do, you know I can stop anything. You can do that. This allows me to stop anything a soft counter means. Ohh well I conditionally can stop you, but not necessarily everything. Or you might be able to take steps to keep me from stopping you.</v>
+
+00:01:58.610 --> 00:02:28.140
+<v Speaker 1>So why, why do we differentiate between these two? One, it has to do with how, how how many we make. For example, we tried to put a hard counterspell and a soft counterspell at common and in most large sets, sometimes we'll the second soft counterspell common depending on the set. But usually there's two counterspells of common, one hard, one soft uncommon. We will usually have another hard and another soft counterspell uncommon. It's sometimes we'll have</v>
+
+00:02:28.220 --> 00:02:34.850
+<v Speaker 1>or the other, not necessarily always both. We're a common. We tend to have both and then at rare,</v>
+
+00:02:36.460 --> 00:02:45.230
+<v Speaker 1>we don't always have counterspells that rare. I mean we do have them at rares, but it's not every set necessarily won't have rare counter styles. It is something we do and it's something we</v>
+
+00:02:46.510 --> 00:02:57.120
+<v Speaker 1>will do. But it's like, for example, you will always see at common a hardiness off counter like I said sometimes too, but you always see that at common. That is something we normally do.</v>
+
+00:02:58.300 --> 00:03:28.810
+<v Speaker 1>Another difference between a hard and a soft counterspell is the manner required to cast it. One of our requirements for hard counterspell is well originally it was you had to have two blue mana. Counterspells are in blue. We've over the years relaxed that. Now what we say is if it's a hard counter, you need at least 2 colored mana. So what does that mean? So in mono blue it still means you need blue blue if you're going to counter have a hard counter. But in multi color, it allows us to have hard counters</v>
+
+00:03:28.910 --> 00:03:59.460
+<v Speaker 1>in which just blew is there's just one single blue manna. So something like, uh, like absorb, for example, is 1 blue white? Oh no, is that what blue white maybe absorbs a bad example. There's a more modern ones where it's a hard counter, but it just says 2. It's blue and some other color and then using some generic mana and it's a hard counter. But the reason we did that is a lot of times in multi color play, we like we've been getting out of the habit of doing too much</v>
+
+00:03:59.560 --> 00:04:14.180
+<v Speaker 1>of dedicated whether there's multiple. I mean we do some, but we've been lessening it and it's allows us to make counter spells that are multi colored in a way that is just a little cleaner. OK, The next thing we have to differentiate between is</v>
+
+00:04:15.570 --> 00:04:46.260
+<v Speaker 1>what I would call a vanilla counterspell versus an added effect or an added cost. And what that means is so vanilla counterspell is counter target spell there. As I will get into the types of counterspells, there's some other things that would consider vanilla where you're countering A subset, but it's that's all you're doing is just countering a spell. Usually vanilla means all I'm doing is I counter something, whatever I counter, that's all I'm countering. That's what the spell does. Counter target spell,</v>
+
+00:04:46.330 --> 00:05:03.750
+<v Speaker 1>our target, some subset spell, and that's all it does. That's a vanilla counterspell. Added effect means that in addition to countering the spell, you're doing something else. And you will notice that there's a lot of spells that do that where I counterspell, then I've a writer on the spell that I do something else.</v>
+
+00:05:05.270 --> 00:05:08.810
+<v Speaker 1>Added cost means that, um,</v>
+
+00:05:09.630 --> 00:05:18.560
+<v Speaker 1>usually it's a cheaper counterspell, but there's some additional cost I need to do for it. Meaning ohh in order to do this I need to</v>
+
+00:05:19.710 --> 00:05:33.800
+<v Speaker 1>spend some additional costs, usually over and above mana usually is what how it works. I have to return something to my hand or have to sacrifice something or you know, there's some payment I am making. We don't do a lot of this last category of the added cost, just</v>
+
+00:05:35.110 --> 00:06:05.300
+<v Speaker 1>usually when we look at spells. Vanilla means that I'm going to do the basic effect and I'll pay accordingly. Added effect means it's going to cost a little more than normal, but I get some other ability at a cost means it's a little bit cheaper, but there's something I have to do that is usually a negative. Sometimes the added cost, by the way, is not a cost per se. Sometimes it's an effect, but an effect that it's negative. But usually if you're if you're counterspell is cheaper than average, there has to be downside to it. And that downside usually</v>
+
+00:06:05.370 --> 00:06:10.140
+<v Speaker 1>why you paying additional costs or the effect being something that you generally don't want to have happen.</v>
+
+00:06:12.320 --> 00:06:25.330
+<v Speaker 1>The last category that we'll we look into of when making a counterspell is whether or not it's an instant. So all counterspells are instance because the reactionary or it's another card type.</v>
+
+00:06:26.530 --> 00:06:43.230
+<v Speaker 1>And because the reactive, usually if it's a permanent, it needs to have flash on it. So a common thing we'll do is creatures that have an enter the battlefield, the fact that counters a spell or some subset of that, and it has flash so that you can play it at a time in which you can react.</v>
+
+00:06:44.700 --> 00:07:15.730
+<v Speaker 1>The vast majority of our Congress bells are in fact instants like when we talk about common. Most of the time it's common, but we do occasionally do permanence. And usually when we do permanence, there's a couple ways to do it. One is you can do an enter the battlefield effect and then it'll have flash usually be on permanent. Or another common thing is it can have a cost of counterspell. Sometimes that cost requires you sacrificing the creature. That's more common these days.</v>
+
+00:07:15.940 --> 00:07:41.030
+<v Speaker 1>Um, you know, originally we were Once Upon a time we'd made more like we would make ertai for the original time, for example, where it's a permanent that can continually counter things. We don't really do repeatable countering now anymore where a single permanent can continually counter things. That is not something we do a lot of, but we do do a more common thing. You'll see we even do occasionally. A common is</v>
+
+00:07:42.240 --> 00:08:12.650
+<v Speaker 1>a Congress bill sitting on a permanent that require usually requires mana and sacking so that it has the ability to converse bowl and the opponent. Now that's an open. Another distinction here, open versus closed. Open means my opponent knows I have the counterspell so that they have the ability to play around it. Closed or secret means that my opponent doesn't definitively know I have the Congress bowl, but they can try to read what I'm doing to figure out whether I have a counterspell. Real common example there would be</v>
+
+00:08:15.040 --> 00:08:20.530
+<v Speaker 1>oh I'm leaving mana open at a time I didn't catch the spell on my turn, I'm leaving mana open. That kind of</v>
+
+00:08:21.330 --> 00:08:51.090
+<v Speaker 1>hints at a counter style. Now you can be bluffing or something, but the the difference is when it's open information, that's considered a weaker counterspell because the opponent, one of the big powers of a counterspell in general is the opponent doesn't definitively know it's there. There are clues, you know, open man stuff, but you know they don't necessarily know. And the fact that you can bluff, the fact that I can pretend that I have something I don't have means that sometimes even though I'm showing that I have a counter, still doesn't mean I have a counters bowl.</v>
+
+00:08:51.720 --> 00:09:11.360
+<v Speaker 1>So there's a lot of give and take on counter spells. And we like, one of the things that's fun about counter spells is that there's a big bluffing aspect of counterspells. So we like to build that in. One of the things I'll be talking about is a lot of how we make counterspells has to do with costing. One of the things remember in general is</v>
+
+00:09:13.130 --> 00:09:31.400
+<v Speaker 1>counterspells are mostly reactive. Like I said there, there is the permanent type of sacrifices where while it's reactive, at least it's open reactive. So because things that are closed or secret, we want to make sure that you have the ability to play them. We don't tend to make counterspells that get all that expensive</v>
+
+00:09:33.450 --> 00:09:49.740
+<v Speaker 1>pretty much. I will put commercials in three categories, but I'll say are cheap counterspells. Our Congress bills that cost one or two mana Usually those are things that don't aren't normally they're not hard counters. You know the original counterspell cause blue blue but the default now is cancel which is 1 blue blue.</v>
+
+00:09:50.980 --> 00:09:58.300
+<v Speaker 1>Let me explain this real quickly. Just as when magic first came out in alpha in I think counterspell was originally</v>
+
+00:09:58.960 --> 00:10:16.840
+<v Speaker 1>uncommon and then we moved it down to common in later sets. So it was 2 Blue Man. It's a blue blue counter target spell. Instant originally was interrupt back when we had interrupts, but later become instant counter target spell. We then realized that that would just a little bit too aggressive. It's a little bit too strong that two men with too much,</v>
+
+00:10:17.810 --> 00:10:47.700
+<v Speaker 1>so we made cancel. So cancel is 1 blue, blue, so cancels Congress bowl, but one more man 11 with an additional generic man up. What we've discovered is that cancel is a little under from a construction standpoint. It's kind of fringe, meaning it sees play every once in a while, but mostly out of kind of desperation. It is a little bit weak really. If we costed counter spells correctly, it wants to cost about 1/2 a generic manner and two blue. But we don't do other than unhinge.</v>
+
+00:10:47.800 --> 00:10:49.040
+<v Speaker 1>We don't do that. So</v>
+
+00:10:51.380 --> 00:11:00.540
+<v Speaker 1>what we do now is we'll do counterspells that costs two mana, provided there's an additional cost to them or they only hit a subset of things. And</v>
+
+00:11:02.270 --> 00:11:08.880
+<v Speaker 1>but we're talking hard counters. If it costs one or two men, there's additional costs that go along with it. You're not. Is not just mana</v>
+
+00:11:10.460 --> 00:11:10.840
+<v Speaker 1>or</v>
+
+00:11:11.760 --> 00:11:19.830
+<v Speaker 1>um, if it's often now we will make three men, the counter spells that are hard counters, but they have an extra rider on them because you get a little extra bonus on cancel.</v>
+
+00:11:21.200 --> 00:11:29.750
+<v Speaker 1>There's space for us to do extra things. So we're trying to push a counterfeit for constructed. Often we'll do cancel plus something and that's how we make a lot of our constructed counterspells.</v>
+
+00:11:31.370 --> 00:11:48.980
+<v Speaker 1>OK, sorry, back to so there's three, what I call 3 categories of Congress pulls from a size. They're small, cheap counterspells which cost one or two mana. Those are seldom heard counterspells. Everyone's in a blue moon might be a hard counter with additional cost. They tend to be things that are</v>
+
+00:11:50.390 --> 00:12:17.260
+<v Speaker 1>usually there are things that are hit only a subset or are things your opponent can work around. Then you have the medium counter space, which are three and four mana. Those tend to be where most of the hard counters end up, and a lot of our constructed shots tend to be around 3 and 4 mana. I mean, one and two can be constructed shots, but they're usually not hard cutters or soft counters. Then we have what I would call the expensive counterspells tend to be about 5 or 6.</v>
+
+00:12:18.580 --> 00:12:26.280
+<v Speaker 1>We don't do much more than six. I'm not going to say never, we've made a few, but normally encounter spells once you start getting to five and six, it's,</v>
+
+00:12:27.360 --> 00:12:32.070
+<v Speaker 1>you know, it's a lot of men to leave open reaction as a reaction. And</v>
+
+00:12:33.400 --> 00:12:33.880
+<v Speaker 1>so,</v>
+
+00:12:34.680 --> 00:12:44.580
+<v Speaker 1>and even the five and six ones have to have a pretty big net effect. Um, that you would be willing to sort of do them so that we don't even make tons of the expensive ones. We made some.</v>
+
+00:12:46.320 --> 00:12:58.660
+<v Speaker 1>Usually there are controls that have a strong writer where the idea is they go in a deck that counters, and there are things that help you sort of advance a lot in the game.</v>
+
+00:12:59.440 --> 00:13:02.540
+<v Speaker 1>Ohh, another important thing before I get into the subsets of counterspells,</v>
+
+00:13:04.070 --> 00:13:12.160
+<v Speaker 1>when we first so long ago in Magic's early days, we were much more aggressive on our counterspells and</v>
+
+00:13:14.400 --> 00:13:33.810
+<v Speaker 1>so much so that there was a popular deck type called a permission deck. So what a permission deck was was sometimes they called it Drago. What it meant was it was a deck in which it was mostly counterspells. In fact, the traditional Drago deck was almost nothing but counterspells.</v>
+
+00:13:35.200 --> 00:13:56.130
+<v Speaker 1>And the idea being that what I'm going to do is just prevent you from playing every single card I can. That that it all matters. I mean, I might let you play things that are supporting but themselves are not threats, but then I will just counter every threat that you produce so that you have no way to win. And then eventually</v>
+
+00:13:57.930 --> 00:14:28.350
+<v Speaker 1>the way that the Ducks win is they use some small incremental advantage to beat you. So like CMU Blue, Eric Lauer, back in the day, he was part of team CMU and he made a deck called CMU Blue that Randy, I think played in one of the world's and was made into a world deck, for example. And it was the whole stick of the deck is that it counters every single spell and then it has a card drawing that allows it to draw X cards.</v>
+
+00:14:28.500 --> 00:14:58.350
+<v Speaker 1>And then the when it wants to win, it just makes you your opponent directs cards. And the rule of card drawing is if I have to draw a card and I can't, I lose. So the idea is early in the game, it's drawing cards as a means to get to the counter spells and stuff. Late in the game, it can be its win condition. So the idea was it was a car that fit perfectly in the back that did with the deck wanted to to allow it to gain control and then later in the game could double as a win condition. Another common thing sometimes you'll see,</v>
+
+00:14:58.440 --> 00:15:16.020
+<v Speaker 1>and these kind of decks were lands that tap Broccolis but had the ability to turn into creatures. So that early in the game I'm just using for mana, but later on they become the creatures that can start winning the game because my opponent has no, you know, I counter all his threats and answers so that my little guy can win the game for me.</v>
+
+00:15:18.720 --> 00:15:25.460
+<v Speaker 1>Uh, what happened was those decks are not particularly fun to play against. Like one of the things that over in</v>
+
+00:15:26.700 --> 00:15:30.440
+<v Speaker 1>one of the things that we tried to do is figure out</v>
+
+00:15:31.560 --> 00:16:01.470
+<v Speaker 1>where are things fun and not fun and like, where are the pinch points? Like where like what mechanic makes more people unhappy than happy? Like we, we want people to have access to things. It's not, for example, we don't want people to be able to counter spells. Counter spells is a very interesting and dynamic component of the game. But what we found was there were certain kind of decks that the way the deck worked is I'm just never going to let you do anything. And so the whole game is you don't do anything. And the three worst sort of</v>
+
+00:16:01.540 --> 00:16:20.620
+<v Speaker 1>versions of this were the counterspells Act rights counter. Every single thing you do, the land destruction deck, right, destroy all your land so you can never play anything. And the hand destruction deck, the card discard deck where I just make you lose all the cards in your hand so you never card that you can cast. I with this three deck have in common is when the decks are doing what we're supposed to be doing. The opponent doesn't even get a play</v>
+
+00:16:21.960 --> 00:16:52.550
+<v Speaker 1>that like one of the things that's very intimidating about these decks when they were powerful was I would early on do something and then you literally would have games where I can't do anything, literally nothing. I can do nothing the whole game. And that is very frustrating. So while we continue to have discard and land destruction and counterspells, one of the things we do right now is make sure that they don't exist in large enough volume from a strength wise that you can make decks in which opponent just doesn't do anything that that general game play is not particularly fun.</v>
+
+00:16:52.880 --> 00:17:05.350
+<v Speaker 1>And that's something we have to be very careful about. So we do counter spells, we like counterspells, we want people playing counterspells in constructed. It's just a matter of how.</v>
+
+00:17:07.150 --> 00:17:07.840
+<v Speaker 1>How</v>
+
+00:17:08.510 --> 00:17:38.740
+<v Speaker 1>how often and how powerful in general the things are now limited counterspells an important part of any limited play. And you know, we like I said, we make sure comment has counter spells at common in every set we make. OK, so let me talk a little bit about the kinds of counter spots there are categories of counterspells. So let me talk about that. OK, so first is what I would call the subset counterspell. And what that means is it's a soft</v>
+
+00:17:38.810 --> 00:17:47.030
+<v Speaker 1>corners bowl because it doesn't counter everything, it counters something. Usually a subset will counter</v>
+
+00:17:47.870 --> 00:18:09.460
+<v Speaker 1>just a kind of thing or a grouping of things. So let's walk through the kinds of subsets that we can have #1 is card types. So a very common thing to do, for example, remove soul is a very common one of these subsets. Spell counter target creature. Well, spells the counter target noncreature. Sometimes we'll counter target instant or sorcery.</v>
+
+00:18:11.520 --> 00:18:41.090
+<v Speaker 1>Usually when we have spells that counter normally in normal magic we will counter creatures, we will counter non creatures, will counter instant sorceries. The reason for it is unlimited. There's enough creatures being played that that's always relevant. And because removal is so important and limited, countering noncreature spells and or instants and sorceries is very valuable in protecting your creatures. So those are all spells at any limited that can play. So those are stuff we do all the time.</v>
+
+00:18:41.520 --> 00:18:56.950
+<v Speaker 1>We will do stuff, for example, like countering enchantment or counter an artifact in the set that has a theme that's playing into that space, but we tend not to do the card type subsets unless there's a theme that runs in, like, for example,</v>
+
+00:18:57.680 --> 00:19:27.590
+<v Speaker 1>um, in Mirrodin. Ohh, artifact theme. Well, we ended up putting The funny thing there is I originally made a card I called malfunction, which was a single Blue Man at a counter target artifact, but that got turned into a null, which is a card that already existed, which is sort of single Blue Man of counter target artifact or enchantment. At the time. I The reason I had made malfunction was the set had enough artifacts in it that you would play, especially in limited and sometimes in standard, a Congress for the 100 artifacts that you didn't. We didn't need</v>
+
+00:19:27.670 --> 00:19:46.460
+<v Speaker 1>or enchantment rider, but it was decided that I don't know, for various reasons not to make this strictly worse than null. So we just made a null and mirrored in. But the one thing you'll notice is when we have themes where the car type matters for the theme, we are very conscious of making sure that</v>
+
+00:19:47.740 --> 00:19:49.460
+<v Speaker 1>we have counterspells for that subset.</v>
+
+00:19:50.160 --> 00:20:02.210
+<v Speaker 1>OK, that is carb type. Next is color. Another subset you will see are things that care about color. Normally the most common thing you'll ohh, whoa, sorry. OK.</v>
+
+00:20:03.180 --> 00:20:13.350
+<v Speaker 1>Somebody just cut me off. So anyway, I'm OK, but one of the drives to work you get the real me driving to work experience somebody just OK</v>
+
+00:20:15.330 --> 00:20:16.110
+<v Speaker 1>all is good.</v>
+
+00:20:17.720 --> 00:20:18.630
+<v Speaker 1>The</v>
+
+00:20:20.150 --> 00:20:34.260
+<v Speaker 1>sorry safety first sometimes throws my concentration. I my rule of thumb is always make sure that I'm driving safely first so that that is OK collected again back to counterspells. OK, so</v>
+
+00:20:37.510 --> 00:20:51.200
+<v Speaker 1>when OHH subsets, when we do color, the most common thing because of blue is the cornerstone color is to counter green or black spells because those are green enemies that Blues enemies green and black.</v>
+
+00:20:52.510 --> 00:20:54.820
+<v Speaker 1>We've had blue counter.</v>
+
+00:20:55.950 --> 00:21:08.800
+<v Speaker 1>I've had the blue color other colors Mr. Sure, Connor and green and black. Sometimes it's green, sometimes black, sometimes green and black. In multicolor sets, we will have a counter multi colored spells. We will have a color monocolored spells,</v>
+
+00:21:10.370 --> 00:21:12.400
+<v Speaker 1>sometimes the different groupings of things,</v>
+
+00:21:13.900 --> 00:21:14.300
+<v Speaker 1>but</v>
+
+00:21:15.410 --> 00:21:30.760
+<v Speaker 1>you know, one of the substance we'll do sometimes is color. Another one we'll do is convert a mana cost. Sometimes blue will counter cheap spells. I think it's countered expenses though. But normally it's more likely to counter cheap spells. But it can care about the size of the spell.</v>
+
+00:21:33.160 --> 00:21:39.140
+<v Speaker 1>And then there are a lot of subsets that just sort of depend upon</v>
+
+00:21:41.400 --> 00:21:42.150
+<v Speaker 1>the</v>
+
+00:21:42.800 --> 00:22:04.970
+<v Speaker 1>the theme that we're going on, the theme that we're playing around with. Sometimes, for example, we let blue counter not just spells, but sometimes abilities. Usually when encounters abilities to counter spells and abilities. Countering abilities. Early in the early days was green, like rusts and stuff, but we've shifted over to blue. Blue mostly is the countering</v>
+
+00:22:06.630 --> 00:22:08.880
+<v Speaker 1>countering abilities and additional countering spells.</v>
+
+00:22:10.660 --> 00:22:12.030
+<v Speaker 1>As far as other subsets,</v>
+
+00:22:13.390 --> 00:22:24.340
+<v Speaker 1>I mean blue, anything blue is a louder counter, any kind of spell that we want to say. Sometimes in the past, we've had a counter certain mechanics, sometimes it countered certain</v>
+
+00:22:25.710 --> 00:22:51.240
+<v Speaker 1>types of of creatures. If if the creatures are big enough theme like often we'll do removes over this carnival creature. But sometimes we'll we'll get even narrower. But a lot of it, a lot of the subsets for counterspells is what is the theme you're playing around with? What might people want within this theme? So let me one of the challenges in general by the way, of designing counterspells is that</v>
+
+00:22:52.530 --> 00:22:58.340
+<v Speaker 1>there's not a lot of space for elegance. You know, there's not a lot of design wise.</v>
+
+00:22:59.850 --> 00:23:08.420
+<v Speaker 1>There's only so many different things that you can do. I mean blue because it's it's Blues, a reactionary color. Counterspells are reactionary. And</v>
+
+00:23:10.000 --> 00:23:30.950
+<v Speaker 1>what that means is that there's there's a subset of things you can do. So one of the things that we're very conscious of on counterspells is that we are much more willing to reprint counterspells than most effects. And the reason for that is there's just a limited number of counterspells that are nice and clean and simple. And we've made a lot of them. Not all of them, but we've made a lot of them. And so</v>
+
+00:23:32.650 --> 00:23:41.240
+<v Speaker 1>Congress falls are one of the things you'll most often see us reprint, more so than almost any other effect because of the limitations of counterspells.</v>
+
+00:23:42.720 --> 00:23:46.710
+<v Speaker 1>It just it fences you in a little bit and gives you less space to play around.</v>
+
+00:23:48.130 --> 00:24:01.020
+<v Speaker 1>OK, that is the subset counterspell. Let's talk about the mantle leak. So the Mana leak is this fellow that says I'm going to continue your spell unless you pay some cost. The vast, vast majority of time that cost is mana.</v>
+
+00:24:02.790 --> 00:24:05.370
+<v Speaker 1>Usually we make mana leaks. We don't</v>
+
+00:24:06.700 --> 00:24:37.420
+<v Speaker 1>with, with rare exceptions, usually it's three or less mana. Usually it's one, two or three. And the idea being the reason we don't do manual leaks are much more than three is they're just comes a point where for all intents and purposes it's a counterspell. It's a hard counter. Like if I say counterspell, unless you pay six. Well, how often do you casts this bowl? Have the man and cast this bowl and then have enough leftover mana that if we did that, you could pay that. So many leaks tend to be a little bit smaller. Sometimes we'll do expels and mantle leaks.</v>
+
+00:24:38.600 --> 00:24:46.380
+<v Speaker 1>That is the only place where we let you do larger stuff is where it's at. So it scales along with the mana. So early in the game</v>
+
+00:24:47.520 --> 00:24:55.700
+<v Speaker 1>I don't ability to make you spend a lot of men and we don't have it. And then in the late game when you do have more mana, then I can try to use that. So the</v>
+
+00:24:56.540 --> 00:25:02.350
+<v Speaker 1>the the ex the ex manual leak is one example where we'll let you force your pay more mana, but it scales cause it's acts</v>
+
+00:25:04.410 --> 00:25:18.000
+<v Speaker 1>now most of counterspells are in blue. This is 1 space because taxing is primarily a white thing. We have let White dabble just a little tiny bit in this in the Mantle League space,</v>
+
+00:25:19.540 --> 00:25:23.360
+<v Speaker 1>mostly the ones we've done, you just have to pay a little tiny bit. We don't do</v>
+
+00:25:25.150 --> 00:25:31.860
+<v Speaker 1>blue has, you know, manly stuff. You have to pay like 3 white normal when we don't, and we made you pay a little less than that. But</v>
+
+00:25:32.800 --> 00:25:42.990
+<v Speaker 1>what one of the things I guess I'll talk about this time counterspells is people complain sometimes that counterspells are so locked in blue that really nobody else has</v>
+
+00:25:44.130 --> 00:25:51.610
+<v Speaker 1>regular access to counter sales. I mean, we give white a little bit and I'll get you some stuff in a second that red can do, but</v>
+
+00:25:54.750 --> 00:26:19.700
+<v Speaker 1>what why is that? And usually when people say is, Hey, there's no other spell effect that's like that. And then my answer as well. Yes, there is. For example, discard is a good example where primarily black does discard. There's some fuzzy areas where blue and red will play in the space, but not often. Blue does a little bit of straight up discard and more of like filtering that you can target your opponent if you need to. But</v>
+
+00:26:20.990 --> 00:26:50.800
+<v Speaker 1>and red does wheel fortune effects and and stuff where you describe your hand draw cars, But none of them do straight up sort of or very frequently do normal just discard effects. So I mean, there are effects that we do that. One major reason we haven't really pushed out to other colors is it does not affect that in volume is something that we like, as I explained earlier. So the problem with putting something in the second color is it just increases the amount people can play in a deck.</v>
+
+00:26:51.670 --> 00:27:04.700
+<v Speaker 1>Because right now if you want to play a heavier counterspell deck, you're very heavy on blue. And if Congress votes were spread evenly in the second color, it would make it much easier to make a concentration of spells.</v>
+
+00:27:06.540 --> 00:27:10.810
+<v Speaker 1>That is why it's in blue anyway. Mana Leak occasionally in the white.</v>
+
+00:27:12.720 --> 00:27:17.880
+<v Speaker 1>We, we have toyed over the years of trying different things of,</v>
+
+00:27:18.880 --> 00:27:34.950
+<v Speaker 1>of where you know of, of where to put counterspells and, and we've definitely bled in a couple different places. Like I said, I'll get to some stuff in a second, but blue is going, blue is our primary place for doing it. And I think white is where we've most recently been dabbling just a little bit.</v>
+
+00:27:37.460 --> 00:27:59.870
+<v Speaker 1>OK, next, delaying counterspells. So what a delaying counterspell is, is I counter your spell, but I give it back to you. I might put it back in your hand. I might have put on top of your library, like memory lapse is a very famous one that put in the library. So delaying spell means that I stop you, but I haven't permanently stopped you have temporarily stopped you.</v>
+
+00:28:01.290 --> 00:28:04.240
+<v Speaker 1>We don't do a lot of delaying counterspells. Um,</v>
+
+00:28:06.460 --> 00:28:26.740
+<v Speaker 1>they are, I think when we sort of cut down on the number of confessed to do like people sort of prefer the, the more traditional counterspell. So we don't do it as much as playing. We've talked a little bit about moving delaying stuff into white. We did make a white memory lapse at one point because white is the color of delay. And</v>
+
+00:28:27.420 --> 00:28:29.030
+<v Speaker 1>the interesting thing about delayed clutter spell,</v>
+
+00:28:30.220 --> 00:28:39.190
+<v Speaker 1>sorry, is that it's it's kind of temporarily stopping it. And it's situation like the</v>
+
+00:28:40.100 --> 00:28:52.180
+<v Speaker 1>Adelaine counterspell is a counterspell because I might have resources and if you stop me, I have to then build up the resources, meaning that there can be long term repercussions even though if I get the spell back that is being countered.</v>
+
+00:28:53.910 --> 00:29:10.560
+<v Speaker 1>You know, the perfect example could be there's a giant combat in which my, you know, there's a big comment going on which my giant growth will turn the tides and turn it such that what would be a horrible thing for me becomes a good thing for me. Well, if I counter that giant growth, even though you get it back,</v>
+
+00:29:12.070 --> 00:29:32.010
+<v Speaker 1>you know it, if it stops the momentum in that moment of me, you know, I might lose all these creatures that I would have won or lose a creature, but maybe an important creature that I would have kept. And it situationally that it really can matter. So one of the things about the delaying ones is sort of playing in that it can be very strong in situational things where</v>
+
+00:29:32.920 --> 00:29:40.470
+<v Speaker 1>stopping it now is not replicated later. Like I said, we don't do tons of these, but it is a category that we do.</v>
+
+00:29:41.400 --> 00:30:05.330
+<v Speaker 1>OK, let me get your category. We do a lot of is what I'll call the set mechanic. And what that is, is because counterspells are so I talked about how there's a limited amount of space to do counters vowels. There's only so many different ways to do nice, clean, elegant vowels. It is very attractive when we have a new mechanic to want to try to use new mechanic when we can for counterspells</v>
+
+00:30:06.740 --> 00:30:07.490
+<v Speaker 1>and</v>
+
+00:30:09.560 --> 00:30:11.250
+<v Speaker 1>when we can we do</v>
+
+00:30:13.140 --> 00:30:16.970
+<v Speaker 1>the. The reasons we might not is is a couple 1 is</v>
+
+00:30:18.320 --> 00:30:48.450
+<v Speaker 1>counter spells need to be reactionary. Some some spell effects don't work really well with reaction and so we had to be sort of careful like somethings are more proactive very quickly. Another different differentiation. When I say reactive, what I mean by that is if I can't stop your spell until you play the spell, I have to sit and wait for you to do something before I have my answer to it. I can only answer your thing once you've done it. Proactive means</v>
+
+00:30:48.520 --> 00:31:02.400
+<v Speaker 1>they answered ahead of time. Like meddling mage is kind of a classic proactive spell where I name a spell and then I get a counter it I essentially you can't play the spell because essentially will be countered if you played it.</v>
+
+00:31:04.000 --> 00:31:10.430
+<v Speaker 1>Proactive bowls is a little more in white space than blue. One of Blues weaknesses is its need to be reactive,</v>
+
+00:31:11.480 --> 00:31:14.510
+<v Speaker 1>where White gets to be more proactive. So when we do,</v>
+
+00:31:15.170 --> 00:31:23.290
+<v Speaker 1>I don't know if people necessarily think of them as counterspells because you think controls is being reactive. But there are proactive stuff we make like like memory</v>
+
+00:31:24.700 --> 00:31:55.120
+<v Speaker 1>maybe, sorry, meddling mage type spells. We tend to put those in white. OK, so blue. We like to do set mechanics. Sometimes we can't do them, they can't be reactive. Sometimes we have problems with them because some mechanics are very open information and we do not like having too many counterspells that are open information. We'll do a little bit on creatures, but we tend not to do hard counters anymore that are open information, that we do it once in a blue moon, but we don't do it very often.</v>
+
+00:31:55.420 --> 00:32:10.190
+<v Speaker 1>Usually we do soft counters. Mana leaks are very common thing that we'll put on a creature. You can stack the creature, but we tend to put things that are open information so the opponent knows about them, that can play around them and it's more like it's restriction. You have to play around</v>
+
+00:32:11.590 --> 00:32:28.710
+<v Speaker 1>like if I have a creature that lets me sack it to Mana Leak for one more, what that creature does rather than actually counter the spells is it says to you your spells all costs one extra. You know, unless you want to sort of try to goad me into sacrificing my creature. But anyway,</v>
+
+00:32:30.330 --> 00:32:36.490
+<v Speaker 1>where we can, we like doing the set mechanics on things. That's something that's important to us and we like,</v>
+
+00:32:38.300 --> 00:32:41.130
+<v Speaker 1>we like doing that and wherever we can we will</v>
+
+00:32:42.730 --> 00:33:01.860
+<v Speaker 1>Other things that I will call counterspell adjacent, which are things that are kind of like counterspells, but not technically counterspells. For example, spell redirection. That is when I change the targets of this, I don't stop this valve, but it changed the targets and in a lot of ways</v>
+
+00:33:04.150 --> 00:33:14.300
+<v Speaker 1>it's kind of like spelling directions, kind of like I copy your version and then got my own version. So it functions in a lot of ways like a counterspell, even though technically isn't a counterspell</v>
+
+00:33:15.680 --> 00:33:46.440
+<v Speaker 1>and the ability is not just in blue, but also in red, although we don't just we do start redirection usually at at rare and above there also is spelled copying, which not once again, not exactly a counterspell, but in counter magic when you're fighting a counterspell war, you can use a copy spells to copy the copy spells that are copying you. So you can I play a spell, you counter it. I then use my copy spell to copy your countenance</v>
+
+00:33:46.510 --> 00:33:53.450
+<v Speaker 1>file and then use it to counter your counters bowel. So in certain circumstances, copy cells can function like counterspells.</v>
+
+00:33:54.920 --> 00:34:25.570
+<v Speaker 1>And once again, copy still copying is also something that red can do. Both blue and red do that. So there are a bunch of things and a bunch of like 10. Oh, another thing that we do sometimes is hex proof granting both blue and green have hexproof. And if you have a spell that grants the creature hexproof, it is a lot like countering a spell that targets a creature. We do that more than green. Like in blue, a lot of times we'll just counterspell the counters, targets the creature, but we can grant hexproof. We can do that in blue, have again, it's done a little more green than blue, but it can be done in blue.</v>
+
+00:34:26.420 --> 00:34:28.520
+<v Speaker 1>So there are a lot of 10 gentle things.</v>
+
+00:34:29.500 --> 00:34:59.470
+<v Speaker 1>OK, so now let's early on I talked about how there's vanilla, there's added effect and there's added cost. Added cost I didn't talk too much about Normally they added cost is sacrificing something, bouncing something or paying something like life, which is just extra. And the idea there is normally what we like to do. Like one of the common tricks we like to do is because counterspell is so iconic,</v>
+
+00:34:59.540 --> 00:35:29.320
+<v Speaker 1>they're so long that the idea you counterspell for 2 blue mana, we often will make spells in which there's an extra cost to it, but the bare manner requirement is too blue manna O like, haha, it's like counterspell for 2 Blue Man. You can counterspell. Yeah, there's another cost. It's not quite counterspell, but it has a lot of the vibe of counterspell with people tend to like, OK, but the the last area, which is the bigger area, which is the added effects. And this is how a lot of counterspells are made. Once again, sometimes it's a hard counter add effect,</v>
+
+00:35:29.550 --> 00:35:45.890
+<v Speaker 1>sometimes the soft corner add effect, but the idea here is I counter target spell or subset of spell and then I get something extra. Now, the tricky thing about it is that because it's reactionary, you can't do effects that only want to be used at a particular time.</v>
+
+00:35:46.540 --> 00:36:12.810
+<v Speaker 1>So for example, let's say I said target attacking creature gets a bonus. Well, that's a really weird counterspell. When can I use it? Well, I can only use it when I have an attacking creature. So that's a really narrow window. Controls are already narrow. The counterspells already is. You have to wait for them to cast the spell and then you have to have the mana to cast the spell to stop it. That's that's a lot of hoops already jumped through. So one of the things about the additive abilities that we got to be careful about is</v>
+
+00:36:15.110 --> 00:36:44.970
+<v Speaker 1>you need to pick things that sort of work at anytime they're done and that cuts a lot out. There's actually not, and most counterspells are mono blue. So one of the reasons we reprint a lot of spells is there's not an endless number of effects that you can do. Now what I will say is there are two categories. What I'll put generic, which is look, the game always does it, OK, draw a card or loot or scry or million opponent or do things that blue</v>
+
+00:36:45.040 --> 00:37:12.320
+<v Speaker 1>does that can be done at any time that have relevance. The other thing is that specific things where it's like, oh, well, this set is doing something, I can do that thing. Are you making a treasure? Are you making a clue? Are you doing something in which there's extra? The set has a thematic theme that's doing something and hey, here's an action I can take that I normally can't do but in this that I can do.</v>
+
+00:37:14.360 --> 00:37:32.650
+<v Speaker 1>The other thing in making is when you're doing multicolor cards where it's blue plus a second ability, sorry, second color. The edit abilities are almost always done on the second color for two reasons. 1 is in order to make it a multi colored card. We like when the colors get represented.</v>
+
+00:37:33.880 --> 00:37:51.630
+<v Speaker 1>Sometimes we make multicolor cards where they're focused effect that both cars can do, or where the combined elements of it feel like it's two colors. But a lot of times we're doing a counterspell. It's like, look, the counter still feels like the blue part of the card. Well, let's do something that the other card part does. The other reason we like to do it is,</v>
+
+00:37:52.600 --> 00:38:04.540
+<v Speaker 1>you know, kind of spells with added abilities that are blue things we do all the time. So it is hard to find a blue ability that we haven't made a counterspell out of that works on a reactor style that is something Evergreen.</v>
+
+00:38:06.890 --> 00:38:20.950
+<v Speaker 1>And so when you mix with a multicolor card, you just get the added value of doing some stuff you don't normally get to do. And that's a lot of the fun of making multi colored counterspells is the fact that you can make decks that are a little bit different.</v>
+
+00:38:22.190 --> 00:38:53.050
+<v Speaker 1>You know, the controlled acts, the most common controlled acts are either mono blue or blue white just because white has a lot of tools that work well and sort of preventing the opponent from doing things, which is what a counterspell or a control deck wants to do. As far by the way, as power level, it is not that we don't make counter spells that are good counterspells. We do we definitely push counter spells. If you go look at any standard you know, provided the blue is viable, you know usually you see some counterspells being played.</v>
+
+00:38:53.270 --> 00:38:58.480
+<v Speaker 1>Um, but what gets played and how it can be very variable cancels. The perfect example where</v>
+
+00:38:59.210 --> 00:39:01.460
+<v Speaker 1>those environments where you would never think to play cancel</v>
+
+00:39:02.610 --> 00:39:08.000
+<v Speaker 1>and there's a virus for cancelled actually a pretty, pretty important card in in the media game. So it can vary quite a bit.</v>
+
+00:39:11.280 --> 00:39:19.210
+<v Speaker 1>Ohh. Another thing to talk about is another valuable resource. So what is probably the most valuable resource of Counterspells?</v>
+
+00:39:20.660 --> 00:39:31.140
+<v Speaker 1>Is it, is it different effects that you can do? No, although there's definitely a limit there. Probably one of the biggest issues of resource we have with counterspells is the name.</v>
+
+00:39:33.060 --> 00:39:36.210
+<v Speaker 1>So what we have found is magic 25 years old,</v>
+
+00:39:37.480 --> 00:40:08.550
+<v Speaker 1>there are certain effects we do all the time and the two biggest would be direct damage spells and counterspells. And the problem is now do we do them? You know direct damage is very centered in red and counterpose is very centered in blue. So much so that a common there are multiples in every set at common and uncommon and often it rare. You know that there are a lot of commercials every set. So over the years, if every set has, you know, 4 to 8 counterspells and you know, we make four sets a year and plus there's supplemental sets that also have.</v>
+
+00:40:08.630 --> 00:40:39.150
+<v Speaker 1>Here comes bowls. We quickly sort of, we just make a lot of spells that require you to say, ohh, well, the idea is I'm stopping their spell. Hey, give me a name, that means I'm stopping their spell. And what we discovered is we are just running out of nice, clean, simple names. In fact, if you see a counterspell and it has a relatively clean name, one of the things that you tell you is we're planning to bring this back. We think this is a simple and elegant enough version of a counterspell that we're going to reprint it.</v>
+
+00:40:40.630 --> 00:41:11.430
+<v Speaker 1>And we think about that now when we make our Congress bowl. If we think that Congress bowl, like when you name cards, you either can name it generically so that any set can use it, or you can name it specifically so that set can use it. And often with counterspells, if we make something nice and elegant, we will give it the simple name. Now, because a lot of words have been used up, we don't have infinite number of single word names anymore, especially for conference ballots. So even then, you know, a generic name might</v>
+
+00:41:11.500 --> 00:41:31.240
+<v Speaker 1>mean this name and the name he could even be flavorful in the world that in as long as the flavor is a little more open-ended. Like for example, if I have a proper name of a character that lives on that world. OK, that's very narrow. Other than revisiting that world, we're probably not gonna see that Countertop and other sets, maybe corsets.</v>
+
+00:41:32.610 --> 00:42:03.500
+<v Speaker 1>But if it's something that's sort of open-ended or an expression or something that isn't as tied to a world, a common thing we'll do is where the world has a theme. So we're tied to that theme. But generically so like, well, OK, it's it counters artifacts. It's referencing. Like malfunction is a good example where malfunction doesn't work on just anything. It could work on something that might refer to artifacts. It has implication that it's stopping in some way,</v>
+
+00:42:04.220 --> 00:42:33.770
+<v Speaker 1>although have we actually called Carmel function it also be artifact instruction card. But anyway, the idea that it's a little bit narrow, but that it's helping you sort of point towards the theme. But hey, most sets have artifacts in them. This this you could put the city said they would want of artifacts. And if it's a smaller sub theme, like we only want to put a car, the counters artifacts in a set that cares enough about it. Meaning if the name sort of hints toward artifacts. Well, as long as there's a generic name,</v>
+
+00:42:33.870 --> 00:42:35.440
+<v Speaker 1>we could use that somewhere else.</v>
+
+00:42:37.350 --> 00:43:05.100
+<v Speaker 1>I say this is important, just as you're aware. Like one of the things we're always thinking about when we make counterspells is all the accoutrements that go with the counterspell and the names. It's just another resource you have to be cautious of. One of the things we think about like, like I said, we reprint counterspells more than just about any type of spell because of the narrowness of counterspells and because once you do something nice and clean, as long as you get in a clean name, it's just something we can use. And</v>
+
+00:43:08.070 --> 00:43:20.330
+<v Speaker 1>what's very common early on in playtesting is we almost always start by using reprints unless we can have a very clean, simple way, maybe using the mechanic from the set.</v>
+
+00:43:21.200 --> 00:43:26.380
+<v Speaker 1>OK, so I'm almost at work. We had, I had a bunch of traffic today. So let me finish up here.</v>
+
+00:43:27.840 --> 00:43:33.110
+<v Speaker 1>Let me talk about philosophy of sort of what counterspells want to be. So let me talk about that and then I will be at work. Charlie.</v>
+
+00:43:34.490 --> 00:44:04.290
+<v Speaker 1>Counter spells in the right volume are very interesting spells. In fact, one of the most interesting spells in magic. And one of the things we find is the more in franchise you get as a player, the more likely you are drawn to blue and the more likely you're drawn to counterspells. And the reason is counter battles are very interesting at a high level version of play. And the reason is reading the signs to understand when your opponent has a counterspell and understanding when and what to counter,</v>
+
+00:44:04.500 --> 00:44:35.340
+<v Speaker 1>all very interesting things. You know, the bluffing part of it's interesting. The properly like part of being good at counter spelling is understanding what of your opponents deck is the threat you need to worry about. Like there's a classic example many years ago at US nationals, Mike Long and Matt plays and a bunch of people turned up with the deck called Turbo Stasis. It originally had been made I think in Finland and it won like the finished nationals. And so they brought it to the US for the US nationals</v>
+
+00:44:35.440 --> 00:45:06.010
+<v Speaker 1>and no one had various people had seen it. And one of the things about the deck was it used Howling Mines. And if you understood the importance of the Howling Minds in the deck, the way to fight the deck with a control deck was to counter the Holland Minds, which was counterintuitive. Usually when you counter things, you counter things that help your opponent. Like normally Howling Mine helps everybody and say like, OK, because it helps everybody. I'll come to the threats, but this can help me. So</v>
+
+00:45:06.080 --> 00:45:37.000
+<v Speaker 1>I'll I'll take the benefit of it. But turbo stasis, the way the deck worked, like the howling mines were just important part of it. The way horses was. This card states from alpha, you would get out. It kept people from untapping and then you would use the healing mind to draw a lot of extra islands. So you always had an island or a land attack for blue that could pay for the upkeep of stasis and that without the hand mind, you weren't able to keep the stasis going. The whole point of turbo stasis keep the states going for a long time.</v>
+
+00:45:37.640 --> 00:46:07.090
+<v Speaker 1>And so that's a good example where understanding how the Deck works allows you to use your console very effectively, but it requires knowledge. So we understand that the advanced players, the more enfranchised players, the more serious minor players really enjoy controls. Controls are quite fun, but there's a balance that too many counterspells are counting everything you do not particularly fine. And so one of the things we try to do is make sure that we make interesting counterspells such that they're always</v>
+
+00:46:07.170 --> 00:46:13.190
+<v Speaker 1>some spots for for limited and for constructed, but at a volume that it's not hitting too high.</v>
+
+00:46:15.150 --> 00:46:45.490
+<v Speaker 1>The other thing we tend to do in constructed is we are extra careful with the hard, spells. Those are the ones that are a little bit more dangerous. The soft counters bowels are situational, meaning that they don't answer every single problem. Like if I have a hard counter in my hand, I can really take control of the game because I can stop anything if I have a soft counter. If my opponent can work around the soft counter, they might be able to find answers. And so we tend to more push soft counters for constructed just because it leads to more dynamic game</v>
+
+00:46:45.560 --> 00:46:57.730
+<v Speaker 1>play. Like my opponent has things to do to stop me but not infinite things. And there's ways to work around it where hard counters are a little harder to work around. Usually the way you work around the hard counter is getting underneath it, meaning</v>
+
+00:46:59.130 --> 00:47:29.610
+<v Speaker 1>pushing things through and trying to get the opponent to play their counterspells, which once again, also interesting game play. OK, so I'm now coming up to work. So hopefully today, like I said, this is an I'm trying something a little bit new, sort of breaking down how we make a particular kind of spell. I'm curious if you guys like this is something I'll do more of if you do so definitely let me know. Like I said, call the designing search. So this is designing counter spells. So I would love to have some feedback. Hopefully this gives you some insight.</v>
+
+00:47:30.050 --> 00:47:52.690
+<v Speaker 1>Actually a lot of intake today. I had extra traffic, but gives you some idea of what it takes to make counterspells and how we think about counterspells and how we craft counterspells and all the different kinds of controls that we can make that we have, we have access to. So anyway, I'm now parked so we all know what that means. This is the end of my drive to work. So instead of talking magic spells, it's time for me to make magic and counterspells. So I'll see you guys next time. Bye bye.</v>
+

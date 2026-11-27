@@ -1,0 +1,380 @@
+WEBVTT
+
+00:00:00.850 --> 00:00:31.580
+<v Speaker 1>I'm pulling my driveway. We all know what that means. It's time for another drive to work. OK, so today is a topic inspired by blog, my blog. So we were talking about banding at the creature keyword mechanic that came out in alpha that we do not do anymore. And there's a lot of discussion about it. And so I thought I would talk a bit about it. For starters, I thought I explained what it is because there's a lot of people apparently don't know what banding is because we haven't done banding</v>
+
+00:00:31.690 --> 00:00:48.680
+<v Speaker 1>since 1996, I believe. So maybe not, but we've not done banding in awhile. So first I want to explain what banding is, talk a little bit about sort of creature keywords, and then I'll explain why we don't do banding anymore. And hopefully that will take up 30 minutes. OK,</v>
+
+00:00:49.680 --> 00:01:00.110
+<v Speaker 1>so let's start the beginning. What is banding? So banding was an ability found on mostly white creatures, although there was a rare green creature in alpha. And here's what banding means.</v>
+
+00:01:00.910 --> 00:01:30.920
+<v Speaker 1>Umm, in certain situations, on attack or block, they're different. Part of the reason this banding is confusing. You can create a band. What a band is, is a bunch of creatures that are banded together. And what that means is they must attack or block. If they attack, they must be blocked together. Meaning if you block any one of them, you are blocking all of them. And on defense, all of them have to block a single creature together. Well, why would you want to do that?</v>
+
+00:01:31.120 --> 00:01:42.110
+<v Speaker 1>The reason you want to do that is a creature in the band. The owner of the creative controller of the creatures decides where damage gets assigned to them normally. OK,</v>
+
+00:01:42.710 --> 00:02:02.190
+<v Speaker 1>another thing I gotta keep in mind here is everything's Magic 2010. We've changed how blocking works with multiple blockers. So let's walk through this a little bit. So right now, let's say let's say you attack me with a 66 creature and I have a 11A22 and A33. What happens</v>
+
+00:02:03.850 --> 00:02:32.990
+<v Speaker 1>I block with all three of the creatures. You, the attacking creature get to decide in what order to to stack them, if you will. And then you do all the damage to the first creature. And then if it's lethal, then you get to go to the second creature. If it's lethal, you get to go to the third creature. So with the 66, you would probably put the three three first in the 2 two and the 11. And so you do 3 dimensions 33 and 2 dimensions 2, then two damage to the 11. So I would destroy your 6. You would destroy all three of my creatures, but with and that's</v>
+
+00:02:33.060 --> 00:03:03.400
+<v Speaker 1>that's all. That is how it currently works. Go back to the beginning of the game. The way it used to work and when in early days of magic is you would attack these six. I would block with all three of my creatures. You then would assign your six damage. However you want to design the six damage, you didn't have to sign all of it to one creature before going to the next creature. So you could just say I signed 3 here, 2 here, 1 here. And there are a few tricks you could do where you would assign one to everything and then pyroclasm something if you age-old tricks you do not do anymore.</v>
+
+00:03:03.970 --> 00:03:27.380
+<v Speaker 1>But anyway, so when I talk about banding, it's tricky because I'm not used to banding with the new system. So as I refer to it, I'm going to talk probably a little bit more about the old system only cause I mean, I'll do the best I can, but if I flip a little bit, it's because I'm used to banding with the old system. I'm not really banded with this new system, although for all intents purposes it works pretty similar.</v>
+
+00:03:28.660 --> 00:03:32.130
+<v Speaker 1>Although you get to assign the damage I assume.</v>
+
+00:03:33.210 --> 00:04:03.790
+<v Speaker 1>I don't know. I don't know if modern banding means if you get to assign in the order since you assign the damage. Maybe that's what it means, I don't know. I've not done banding with modern blocking. Following the essence of what banding is about, I, the person controlling them and not the other player, get to assign where their damage goes. So I assume I get to order things. I don't even know how complicated banding is. I don't know how banding necessarily works with the new rules. My assumption is you, the person controlling the band,</v>
+
+00:04:03.910 --> 00:04:10.430
+<v Speaker 1>get to pick the order by which the damage happened. So you would order the creatures in the order that you wish as that's what happens. OK, so</v>
+
+00:04:11.940 --> 00:04:41.770
+<v Speaker 1>if you have a bander, what happens is if you attack. So the rule is with attacking, in order to create a band of creatures, no more, all creatures in the band must have banding except for one creature. So the idea is, let's say you have a six six and I have a 11 bander and A22 bander. I could attack with my 11 banner, my Tutu Bender, my 33 let's say. And that way if you're 66 wants to block my band, it has to block all of it and obviously it does 6 damage. So you can't just block</v>
+
+00:04:41.840 --> 00:05:12.190
+<v Speaker 1>one creature a bit. So normally a 6X, there's not a lot of things that can outright kill a 66. So if I attack, usually one of the things I attack with is going to die to the 66. But here if I tack in a band, well, yes, you're going to be able to kill something of mine. I will be able to kill your creature. Creatures are banded together now. So on attack it's all but one has to have banding on defense, it's all only one have to have band name. So you can block any number of creatures. And as long as one of the creatures has banding on defense, they they block,</v>
+
+00:05:12.260 --> 00:05:12.830
+<v Speaker 1>it's a band.</v>
+
+00:05:15.640 --> 00:05:45.860
+<v Speaker 1>Why? So where did this mechanic come from? So Richard, when he made Alpha, basically what he was trying to do is white flavor has always been it's the army called air, which is it has lots of little tiny creatures. And the power comes not that anyone individual creature is powerful, but when banded together, they can become very powerful. And the idea was, Richard really wanted to make sure that when your army of creatures got together and you went up against the giant beasts of the opponent, that you could take down the giant beast</v>
+
+00:05:45.930 --> 00:05:55.090
+<v Speaker 1>about losing your entire army. That was sort of the idea behind banding. And then it was basically a very flavorful thing. You know your creatures are banding together, obviously.</v>
+
+00:05:57.020 --> 00:05:59.110
+<v Speaker 1>Now here was the problem</v>
+
+00:06:00.820 --> 00:06:18.690
+<v Speaker 1>that and now not only for example, I'm you can just clearly demonstrate me trying to figure out how banning works with modern blocking. Back in the day there was a lot of confusion. So for example, let me give you a situation. Now I'm using the rules from back when banning, so not the current rules, so be aware</v>
+
+00:06:19.960 --> 00:06:29.920
+<v Speaker 1>time, but the situation is back in the day. This is when you assign damage individually you assigned your damage. It's not order them, although probably this works similarly, but anyway.</v>
+
+00:06:30.650 --> 00:06:38.430
+<v Speaker 1>So if you your opponent has a 64 trampling creature, you have 411 creatures, one of which has banding.</v>
+
+00:06:39.180 --> 00:07:09.580
+<v Speaker 1>They attack with the 64 trampler. What do you do? It's a little exercise for you. What do you do? They have a 64 trampler. You have 411 creatures, one of which is banding. OK, the correct answer is you block all four creatures, block the block the 64 trampler. Then you assign all six trample damage, all six damage, including any of the trample damage to one of your one creatures, not your bander obviously. So what happened is there are 6 far trampoline</v>
+
+00:07:09.720 --> 00:07:15.740
+<v Speaker 1>as one of your 11 dies, the remaining free ones, including your band earth survive. That's how banding would work.</v>
+
+00:07:17.410 --> 00:07:47.720
+<v Speaker 1>And that's the idea, which is I'm trading, I'm trading out one one for your 64. That's pretty good. You know, so banning what banding set is if I have a lot of creatures, especially on defense. Banding ended up being one of the issues with banding is it was not particularly strong on attack and it was really strong on defense, partly because of the rule that said on attack you had to have all but one bander. We're defense. You only needed a single bander, which meant that if you just had a single Bender in play and you had a bunch of pictures you could block with</v>
+
+00:07:47.850 --> 00:08:04.120
+<v Speaker 1>your opponent, like the math your opponent had to do to understand, you know, there's a lot of different things that you could do. And so usually you did not want to attack into a bunch of even tiny creatures if there was a bander there, which kind of the role of it, although it was very powerful in defense. OK, So</v>
+
+00:08:05.830 --> 00:08:11.060
+<v Speaker 1>what happens is, um, Richard made banding OK. He</v>
+
+00:08:12.420 --> 00:08:15.370
+<v Speaker 1>he wanted to sort of get this reinforced his Army flavor.</v>
+
+00:08:16.980 --> 00:08:47.230
+<v Speaker 1>So let me tell a little story. This took place in the summer, I think August of 1995. I got flown, this is before I was a full time employee at Wizards. I got flown to Seattle and I went to the Red Lion Hotel, Red Lion Inn I think right by the airport and it was the place where we had the 1995 World Championships. Now this is the first time 1994 the World Championships have been held at Gen. Con. So this was the first time we were hosting our own World Championships.</v>
+
+00:08:48.030 --> 00:08:58.360
+<v Speaker 1>For those that know their history, it was the one where Alexander Blumkin from Switzerland defeated Mark Hernandez from France to win to become the second ever world champion.</v>
+
+00:09:00.050 --> 00:09:10.020
+<v Speaker 1>Mark Justice and Henry Stern were both semifinalists, both losing in their semifinal match. You a Team USA won the first ever. I mean,</v>
+
+00:09:10.650 --> 00:09:24.420
+<v Speaker 1>this was the event, I've talked about this before where there wasn't actually a team event. There was no playoffs, but I tracked the team scores based on the individual and we awarded a winner based on that. So Team USA won the first ever team event</v>
+
+00:09:25.860 --> 00:09:34.580
+<v Speaker 1>handily too, by the way, and that the team was just as stern Mike Long and Pete Lyon obviously talked about in the podcast. OK, so</v>
+
+00:09:35.770 --> 00:10:06.690
+<v Speaker 1>I was a judge. I had been a judge at US nationals, the one where Justice defeated Stern. And I've been I've been a judge at local stop at, you know, regionals and stuff. But this is the first like big time stage world championship. I'm judging the Magic world Championship. These are the best of the best players from around the world. I think there were 17 or 18 countries represented, you know, I mean the previous Magic at worlds. I mean, a few countries that sent teams, I think France and Belgium and a couple.</v>
+
+00:10:06.770 --> 00:10:36.520
+<v Speaker 1>There was a handful of countries that had nationals, maybe four or five, but this year whole bunch all there World Championships. So what was the number one rules question? I got the number one rules question was how does banding work or variations? Obviously they're of. So what happened was one of the things we had done is we had done a sealed portion, which by the way was a giant seal. There was a big debate at the time, limited game play was very, there's a lot of heated debate</v>
+
+00:10:36.770 --> 00:10:59.390
+<v Speaker 1>out about how much skill there was in any kind of limited format. And so to sort of offset that they gave the players, I don't remember exactly how much, but a huge amount of cards. Like normally for example, when you play at a pre release, you have 6 packs of cards, 6 boosters. I mean, they gave them something like 30 boosters way, way, way, way more than a normal person would ever get just to ensure that,</v>
+
+00:11:00.650 --> 00:11:19.970
+<v Speaker 1>you know, everybody would have something. I mean, obviously there's variance when you give people 30 packs, you know, there's people that get better stuff than others. So the variance is still there. I just met everybody at something, at least I guess. Anyway. The number one rules question among the best of the best players in the world was how does banding work?</v>
+
+00:11:20.810 --> 00:11:50.560
+<v Speaker 1>So that the issue was that banding was just very complicated. And like I said, it was a couple things. It was a couple. I talked about the types of complexity a it had comprehension complexity, which was it said banding. And back in the day, we didn't put reminder texts. So it just said banding. Well, what does that mean? Oh, so it was just pretty complex idea. Like I, I don't even know if we can easily write off banding, you know, without going to micro tasks on a card. But back in the day you didn't have that. So for starters, there there was just</v>
+
+00:11:50.790 --> 00:12:10.730
+<v Speaker 1>these are complexity of what does it do? Then there was board complexity, a single bander, especially on defense, like, ohh, OK, you know, I it, it, it, there's a lot going on. It really makes it hard to attack, you know, having one bander and if you had a group of creatures in a single bander, it made attacking very complicated and hard to do.</v>
+
+00:12:11.870 --> 00:12:17.840
+<v Speaker 1>Now they're also a strategic complexity with it. That part I don't mind. I like strategic complexity. So</v>
+
+00:12:18.800 --> 00:12:49.670
+<v Speaker 1>OK, So what happens is we put banding. Banding is in alpha. It goes into a lot of the early sets. I think Mirage block was the last one to have it. Tempest, which was my that I first did. We actually had it in the design. In fact, there's a creature who I believe has regeneration and or had regeneration and banding, which was pretty good, right? I have a banner that regenerate. That's that's a pretty good combo. And we had to change it</v>
+
+00:12:49.750 --> 00:13:03.390
+<v Speaker 1>after we got rid of Bank, changed the first strike and like, well, first strike of regeneration. That's not really a combo. Like either you survive with first strike or you survive with regeneration. Not, not the grace of God. But anyway, that's what that card used to be.</v>
+
+00:13:04.970 --> 00:13:24.630
+<v Speaker 1>So we decided around Tempest that it just wasn't carrying its weight. So let me talk a little bit about that. And, and also, by the way, real quickly, let's a little history of, of alpha and creature keywords, because most people, a lot of people assume there's things in the game that started in the game. And that's that's actually not the case.</v>
+
+00:13:28.100 --> 00:13:42.540
+<v Speaker 1>So let's walk through the keywords a little bit and let's see if you can identify which creature keywords were in alpha. OK, so White has life link, has vigilance, has protection.</v>
+
+00:13:43.320 --> 00:13:46.830
+<v Speaker 1>UM has flying, has first strike.</v>
+
+00:13:47.870 --> 00:13:55.710
+<v Speaker 1>OK, so flying vigilance, first strike protection and life link. Which one of those we're in alpha.</v>
+
+00:13:56.840 --> 00:14:01.810
+<v Speaker 1>OK, a little tricky. I I mean as a keyword. So it turns out that</v>
+
+00:14:03.430 --> 00:14:33.160
+<v Speaker 1>flying was an alpha, first ride was an alpha, protection was an alpha, Vigilance. The card Sarah Angel had vigilance essentially on it, but it was not keyword. That wouldn't be keyword until I think Onslaught. I mean, we had creatures that didn't have to attack, but we did them frequently and then what? There wasn't keyworded life Link wasn't an alpha. The first card that is even pseudo life Link shows up on a black card in</v>
+
+00:14:33.260 --> 00:14:35.870
+<v Speaker 1>Arabian Knights called El Hajj</v>
+
+00:14:37.830 --> 00:14:43.710
+<v Speaker 1>and then the card that really put it on the map, although it's technically not Life Link, was a car called Spirit Link in Legends.</v>
+
+00:14:44.380 --> 00:14:53.570
+<v Speaker 1>OK, how about in blue? So blue has um, flying. Obviously it has flash, it has hex proof.</v>
+
+00:14:54.280 --> 00:14:56.860
+<v Speaker 1>Uh, it has island walk.</v>
+
+00:14:58.010 --> 00:14:58.530
+<v Speaker 1>Ah,</v>
+
+00:14:59.280 --> 00:15:29.200
+<v Speaker 1>so which which were those were alpha obviously flying and island walk. Land walk showed up in in Alpha. In fact, I think Alpha had forced walk, mountain walk and island walk. It did not have planes walk that didn't show up to legends. And no, I did have 4 stock and all of them were playing planes walk. The idea was it's not easy to sneak through the plane. So planes walk was a pretty infrequent ability. Flash did not show up</v>
+
+00:15:29.270 --> 00:15:34.730
+<v Speaker 1>until Time Spiral, although things that can be cast as instant were done pretty early.</v>
+
+00:15:36.570 --> 00:15:42.810
+<v Speaker 1>I don't really wanna remember Rabin Knight Rights Alliance has definitely had some cards that the creatures that can be casts, instants</v>
+
+00:15:45.290 --> 00:16:15.060
+<v Speaker 1>and hexproof. In Legends there was some stuff that kept you from targeting that. That's the earliest. I think the earliest was in Legends where you think that could be targeted. I believe it's go to black. So black has intimidate has obviously lifelink has death touch has flying. So flying, yes. Death touch, No. Death Touch didn't show up until future site.</v>
+
+00:16:15.260 --> 00:16:26.230
+<v Speaker 1>Also Life Link. By the way, I mentioned White Life link also didn't show up until future sight. Future sites were made. We finally said, you know, there's a bunch of keywords we need and we made them in future site where we introduce them in future site.</v>
+
+00:16:27.790 --> 00:16:51.840
+<v Speaker 1>And because the idea of for the future site was showing the future, so we thought it was funny to take things we knew we were gonna keyword officially show them in the future in future site and then have them show up right away in the next couple sets. What else? Oh, intimidate. Intimidate as a new version of fear. Fear was also not keyworded. Fear got keyworded</v>
+
+00:16:53.710 --> 00:17:21.540
+<v Speaker 1>Acadian masks is my guess, but fear was there was a car called fear in Alpha, which essentially had fear and then I think I'm gaining mass. We finally keyworded it and then fear changed to intimidate eventually to broaden it out to the different colors could have it. So intimidated is is essentially fear but before it's not named. So whatever color I am, I can like artifacts and colors that match me, which is so on black. It's like fear, but on you know you can put it on other colors.</v>
+
+00:17:22.280 --> 00:17:26.350
+<v Speaker 1>Red has haste, first strike, double strike</v>
+
+00:17:27.680 --> 00:17:28.250
+<v Speaker 1>sample.</v>
+
+00:17:29.070 --> 00:17:33.200
+<v Speaker 1>So which of those? Ah, first strike and trample, the only ones in alpha.</v>
+
+00:17:35.170 --> 00:17:39.530
+<v Speaker 1>Haste. Haste showed up. When he showed up, he showed up</v>
+
+00:17:42.290 --> 00:17:54.640
+<v Speaker 1>56 years in on sliding somewhere on there, the Nether Shadow, which was a black card. Alpha did have essentially have haste. It could if the card that came out of the graveyard attack right away, so in haste, but more traditional hazards didn't show up for a little bit.</v>
+
+00:17:55.980 --> 00:18:13.430
+<v Speaker 1>Double Strike was actually created by somebody during the first you make the card. We were getting people turning in ideas for abilities and it was a green card and green really didn't didn't have first strike. So double strike didn't make any sense for green, but someone turned that in like that's a really good idea. So we we added it to the game</v>
+
+00:18:15.980 --> 00:18:44.590
+<v Speaker 1>and green or trample, Trample was also trample was an alpha, trample was in alpha and green we got reached, we got trample, we have vigilance, we have death touch. So that new ones there are reach. Reach was not in alpha, although giant spider the ability essentially was in alpha, but that it was not a keyword ability that also got keyword during future site that actually got keyword. By the way, not because we needed a keyword it for keywording purposes.</v>
+
+00:18:44.740 --> 00:19:15.300
+<v Speaker 1>Well, because the rules wanted it that if rich was keyworded, flying could have a reminder text that says I can only be blocked by creatures with flying or reach anyway. So that that's included for we did it also, Oh, indestructible, which is what shows up white and green. That also was a keyword that first showed up in future Sight, but not as a keyword or site. First showed up in Dark Steel, but not as a keyword and then later got keyword. In fact, in Magic 2015 I think it got keyword or 2014.</v>
+
+00:19:15.460 --> 00:19:25.390
+<v Speaker 1>Anyway, recently it got keyword and became a keyword. Now there were some keywords. That banding is not the only keyword from Alpha that really hasn't made it all the way through</v>
+
+00:19:27.080 --> 00:19:45.010
+<v Speaker 1>beside banding. So there was flying, first strike, trample and protection. There was land walk, which we do a little bit now, but we phased out. There's something that was called land home, although actually that wasn't keyword in alpha. They existed in Alpha. Land home is was on like</v>
+
+00:19:46.500 --> 00:19:56.310
+<v Speaker 1>what was the original sea serpent called? It was like if I I can only attack him a defending player has an island and if I have no islands have to sacrifice it. Was trying to flavor something had to live in the water.</v>
+
+00:19:57.910 --> 00:20:13.020
+<v Speaker 1>What else did we actually the other things from alpha. There was not tons of keywords in alpha over OHH regeneration. Regeneration also started an alpha and generations are tricky one. We're not super happy with regeneration. Both were generation protection have issues.</v>
+
+00:20:14.440 --> 00:20:25.540
+<v Speaker 1>They're trying to figure out how best to make use of them, but protection has a similar problem to banding and it's just there's a lot of different things going on. In fact it's like 4 keywords in one</v>
+
+00:20:26.880 --> 00:20:36.680
+<v Speaker 1>and generation has a problem that ever since 6 addition rules it kind of doesn't really regenerate. It's not like it goes to the graveyard and comes back. You essentially putting a shield on and the buffs it and</v>
+
+00:20:38.020 --> 00:20:48.840
+<v Speaker 1>and the flavor is kind of off from the word awesome word, but the mechanic now doesn't function like the flavor intends it to, which which means people play it wrong. OK, sorry off my little my little</v>
+
+00:20:50.230 --> 00:20:52.540
+<v Speaker 1>alpha keywords. OK, so</v>
+
+00:20:54.040 --> 00:21:17.400
+<v Speaker 1>we decided that banning was a little too complicated and so we pulled it from Tempest. So let me talk a little bit about why, because one of the things that happened on my blog, the reason this whole thing came up is somebody asked me if I could explain the actual question was could you explain banding in in a few sentences? And I was like, no, I don't know if I can, you know, and</v>
+
+00:21:18.510 --> 00:21:48.270
+<v Speaker 1>banning is complex. And so somebody said, ohh, here you go. And they, they came up, they had a thing in like 3 sentences. And my point was, ohh, you just didn't explain a lot of stuff. Yeah, everything you said mostly was true, I believe. But there are things you didn't explain. Like for example, they didn't explain how you get into ban, how you do it offensively, how you doing defensively. You know, they, they like, they explain kind of how banding work once you were a band, but they didn't explain how one got into a band, which obviously is important. And so I started sort of explaining that it's complicated. And</v>
+
+00:21:49.170 --> 00:21:53.150
+<v Speaker 1>so let's talk about this. Why? Why do we take things that that</v>
+
+00:21:55.290 --> 00:22:06.180
+<v Speaker 1>obviously banning added something to the game? There was flavor, there was strategic moments that were very cool. You know that whenever we take something away, I get the following complaints.</v>
+
+00:22:06.880 --> 00:22:16.770
+<v Speaker 1>I enjoyed Find X. Here are examples where thing X was really strategically interesting. Why did you take something strategically interesting from the game that seems to be</v>
+
+00:22:18.030 --> 00:22:18.920
+<v Speaker 1>to the detriment of the</v>
+
+00:22:19.990 --> 00:22:21.880
+<v Speaker 1>And the answer I have to say is,</v>
+
+00:22:22.840 --> 00:22:34.300
+<v Speaker 1>I mean, there's different reasons to take game. This this issue has to do with confusion, which is if the majority of the audience has trouble understanding something, there is a lot of negative that comes along with it.</v>
+
+00:22:35.330 --> 00:22:42.760
+<v Speaker 1>You know, if every time people use something, if they mostly get it wrong, that's the problem and if they mostly get it wrong, that's telling you something.</v>
+
+00:22:43.360 --> 00:23:10.700
+<v Speaker 1>When I was head judge in the hedging, I was judging the World Championship and the number one question I got was banding. I'm like these are good players. These are players that know their stuff. This is not, these aren't beginners. These are the best of the best and they are having trouble with it. That is a very scary sign and I interact with more people. What I found was people did not know how it worked. I'm not saying nobody, clearly some people did, but a lot, the majority did not know how it worked.</v>
+
+00:23:11.450 --> 00:23:36.060
+<v Speaker 1>And that's a pretty big negative that when you have a mechanic that people can't, usually the sign that people keep playing it wrong means there's something about it. It's hard to learn. If it's easy to learn, they'll learn it. You know, I can teach somebody flying in about two seconds and odds are for the rest of them playing Magic, they're not going to have lots of flying questions. It's a pretty intuitive mechanic that once you hear like, I got it. Ah, OK,</v>
+
+00:23:36.960 --> 00:23:47.690
+<v Speaker 1>you know now they're mechanics like trample that are a little more complicated. Trample has some issues, but the general gist of trample people seem to understand, and I mean,</v>
+
+00:23:48.790 --> 00:24:07.750
+<v Speaker 1>I guess I don't know, the biggest thing pending had going for it was its flavor. But the biggest strike against it, probably the biggest strike against it was that it didn't work consistently. It wasn't really one ability. It was kind of like multiple abilities that were similar, and that was the big trouble. So like when I attack it's</v>
+
+00:24:08.570 --> 00:24:25.030
+<v Speaker 1>it has a similar function when I block, but it's really different in the way I have to set things up so that it it dysfunctions differently. If I just needed one Bender to attack and one Bender to block, at least then I go OK this is how you make a band. But the fact that that wasn't the same cause problems anyway.</v>
+
+00:24:26.850 --> 00:24:49.380
+<v Speaker 1>Anything that's in the game, I mean, I guess we make things that have very little redeeming value, but most things we make have some redeeming value. It's not that there aren't like I had plenty of games that I have played. I understood banding and I have plenty of games were neat things would happen because I had banding where cool interactions happened because I had banding. Banding, at least back in the day</v>
+
+00:24:50.770 --> 00:25:02.270
+<v Speaker 1>Once Upon a time, was a very good foil for trample that if you had trampling creature, the answer to trampling was banning. It's a nice answer that you could stack all the trample onto the one creature and essentially the bander would keep it from trampling.</v>
+
+00:25:03.860 --> 00:25:33.410
+<v Speaker 1>So when we take something away, it's not because there isn't any goodness there. It has to do with the following issue. Magic is a complicated game. I I know it's very easy when you've been playing something for a long time and you internalize things to kind of forget how hard it is. But one of the things that will bring you back. If you want to understand how hard magic is, teach a new player and what you will find is you. There's all these things that you take for granted that you just</v>
+
+00:25:33.480 --> 00:25:39.340
+<v Speaker 1>know how it works. It's just so dirt simple and watch a beginner struggle</v>
+
+00:25:40.010 --> 00:25:45.230
+<v Speaker 1>and they will struggle with things that you forget were even a thing you once struggled with.</v>
+
+00:25:45.960 --> 00:25:53.840
+<v Speaker 1>You know, there's all sorts of things like, you know, and magic tries very hard as much as we can. I mean,</v>
+
+00:25:54.650 --> 00:26:24.320
+<v Speaker 1>game play is important and there there are clearly things we do that require a little more learning when you learn, because we need it for the gameplay. You know, I I know creatures think they can attack other creatures and but it's much better game play if if the defending player chooses wing creature fights happen. I've actually made other games creatures came out of the creatures and it gets very hard to keep creatures on the board. And you know, it's it's especially having any sort of utility creatures that if you can just tack my creatures that it's hard for me to keep you daily creatures. And I</v>
+
+00:26:24.550 --> 00:26:35.670
+<v Speaker 1>now it it it doesn't let you have build up or have interesting defenses. And so that's an example where people kind of want to do something. But when we make them learn actually is better game play. But anyway,</v>
+
+00:26:36.710 --> 00:26:46.100
+<v Speaker 1>the game is a complex game, and it's only getting more complex with time because what happens is as we work on the game and develop the game, we find new things.</v>
+
+00:26:46.780 --> 00:27:00.100
+<v Speaker 1>We find new keywords that we think are worth it. We find equipment or planeswalkers or, you know, we just keep finding new nuanced things that we can do that we really think add to the game. And so</v>
+
+00:27:01.560 --> 00:27:05.670
+<v Speaker 1>if we're going to add things, that means we also have to subtract things.</v>
+
+00:27:07.210 --> 00:27:36.550
+<v Speaker 1>The way the metaphor I used this in another podcast is the idea of you're checking your bag and you only get so much weight. And then if you go over the weight, there's, there's stiff penalties to pay that they, you know, it's like $25 a bag, but if you're over, it's $100 a bag, it's four times as expensive. And so complex is a lot like that. Once you sort of go over the, the bar of complexity, there's a certain amount of people can absorb and handle. And then once you start</v>
+
+00:27:36.630 --> 00:28:02.890
+<v Speaker 1>past that, right, the game becomes incrementally harder to learn. And so we really have to toe the line and try to make sure and, and like, remember, imagine if you took all the current best selling games, all the games that are like very big successful games. Magic if, if if not the number 1 is really close to #1 most complicated game there is. We have almost 15,000 different cards. There are,</v>
+
+00:28:04.130 --> 00:28:12.950
+<v Speaker 1>you know, tons of formats to play our game are our rules is literally the size of a phone book. Our rule book is a size of a phone book.</v>
+
+00:28:13.580 --> 00:28:16.010
+<v Speaker 1>We don't even give you the rules. It's too intimidating,</v>
+
+00:28:16.720 --> 00:28:41.680
+<v Speaker 1>like when you first learned we're like, we give you access to the world. But we, we stopped trying to explain the rules on a sheet of paper because it was too hard to do it on a sheet of paper. And what we learned is we started teaching you essence of the rules and elements of the rules. Because if we try to teach you everything, you shut down. In fact, when I tell people, when you teach people how to play, do not try to teach them everything. That's how complicated magic is. Teach them what they need to know to get through the first game.</v>
+
+00:28:42.410 --> 00:29:12.650
+<v Speaker 1>You know, make the first game fun. You know, Magic is a game that you like. A lot of games where I teach somebody, I say, you know, if you're gonna make a game, if you're, if you're a first time game designer, my rule to you is make a game that by the end of the first game, your audience completely understands how to play the game. I'm not talking strategy, but but they, they know the INS and outs are playing the game that they at the end of their first game could teach another individual who hasn't played</v>
+
+00:29:12.750 --> 00:29:43.450
+<v Speaker 1>how to play the game that that's the simplicity you need in the beginning game later on. I'm saying all games have to be that simple. But I'm saying when you're starting out, I recommend a little game designer tip that you want to make when you first start making games. Just like when you first start painting pictures, you don't want to make the most complicated picture the first thing you paint. You want to do something simple, Make a game. You know, I also say when you make a game for the very first time, make a short game. Make a game that you can play within 1520 minutes. Don't make a game that takes an hour,</v>
+
+00:29:43.910 --> 00:30:12.450
+<v Speaker 1>you know, and let's say 1520, it could be 1 to 20. The game can be very short. It's better to the game with lots of lots you play lots of times, but short than have a long game. A It's much, much easier to find play tasters and that's really important. We first started to play and also it allows people to adjust how long they want to play that if you game requires you to play an hour, then people to buy into playing an hour. If the game takes 5 minutes, people can play an hour, but they also play 5 minutes</v>
+
+00:30:13.810 --> 00:30:18.140
+<v Speaker 1>anyway. See my My Banding, My Banding podcast is all over the place.</v>
+
+00:30:20.050 --> 00:30:49.230
+<v Speaker 1>Although I real quickly, one of the things I decided about this podcast is that I like having a topic so I can focus on things, but I go where I go. I'm not. I mean, I feel like before the day is over, I would have told you plenty about banding. But that part of the fun of the podcast for me is like when I write my article, it's outlined its plan. Like everything I'm trying to tell you is pretty orderly. But what I like to do my podcast, one of the things that I have fun with is I'll do a little bit of structure. I'm not saying that I don't ever make outline or anything, but</v>
+
+00:30:50.020 --> 00:30:53.090
+<v Speaker 1>I kind of have. One of the things I enjoy about it is that</v>
+
+00:30:54.640 --> 00:31:24.480
+<v Speaker 1>I think when you talk to people that there's a train of thought that you can comprehend and follow when someone's talking that you really can't follow when you're reading them. And so when you're reading, you have little more structures. People will follow you, but you're talking is not true. So I'm doing a podcast. I kind of want to play to the medium. And so I enjoy bouncing around a little bit. I mean, I feel today is a good example where everything I talked about head to head, Gentle Tide, abandoning, but I definitely have. I mean, there was probably not 30 minutes of pure banning content. So I'm hopping around a little bit,</v>
+
+00:31:24.930 --> 00:31:26.700
+<v Speaker 1>but let's get back to banding. So</v>
+
+00:31:27.960 --> 00:31:55.610
+<v Speaker 1>there are things you, one of the things you have to do is a game designer is understand when something you're doing isn't holding its way, when it's not. A lot of weight metaphors today that when you have something that isn't, that the pluses are not outweighing the minuses. And the problem that people run into is the following is I understand banding. I had fun with it. It was fun for me. You were just making the game worse for me. And the answer there is</v>
+
+00:31:57.040 --> 00:32:27.590
+<v Speaker 1>clearly different people, like one of the big negatives for banding with people not understanding it. Well, if you understand it, then it's less of a negative for you. So it's quite possible for some people banding was more pro than con. The reason we removed from the game is because for the majority of people it's more common than pro. But obviously there's people out there it was more pro than con. I get why they're unhappy. We're taking something that for them and hence the game. But the game is not just for a single individual, the game</v>
+
+00:32:27.660 --> 00:32:58.400
+<v Speaker 1>for a group. And you know, you don't play Magic by yourself, you play Magic. There's a community and that those responsibility for us as the game makers to make the game the best game for the entire group and not just a single individual. Are there people that could handle the game having even more complexity than it has? Absolutely. But what I would prefer is then take formats that allow more complexity, play formats that allow more cards, play formats that gives you more restrictions or more</v>
+
+00:32:58.470 --> 00:33:06.010
+<v Speaker 1>things that make you have to play differently. That doesn't mean the game itself needs to be, needs to do that. That it is,</v>
+
+00:33:07.690 --> 00:33:16.380
+<v Speaker 1>and as I always explain is what we're trying to do is cut down on the comprehension complexity and the border complexity, the strategic complexity. We're not trying to cut down on,</v>
+
+00:33:17.820 --> 00:33:48.150
+<v Speaker 1>you know, playing Magic and playing it well is really, really hard. And the best Magic players in the world keep continuously winning because they are the best at playing Magic. And that, you know, it is something you can, you can grow at and it's a skill and you, I mean, it is a very skill testing game. Nothing we are doing is keeping it from being very, very skill testing. But that said, there's more to games than just testing the skill of the absolute top player. There's also making it enjoyable for the lowest of players,</v>
+
+00:33:48.230 --> 00:34:18.530
+<v Speaker 1>for the average player, for anybody who wants the player game. And remember, like my job is to make not just you happy, but everybody happy and that I have to make decisions sometimes that maybe personally for you would not be the right call, but is the right call for everybody. And I get I get I get the people that love bending. The bending was awesome. And my argument is that we took banding away. Is this we're not Andy any more bending to the game. The bending cards exist. If you play informants with banding, you can play those cards.</v>
+
+00:34:19.040 --> 00:34:49.050
+<v Speaker 1>It's not that we took it away from the game because we didn't, but we did remove it from we're not adding it to the game, which meant we removed it from standard, removed it from, you know, from modern and formats that are more recent and we're not adding any more, meaning we're not adding anymore to the game. So we've ceased the amount that will get added to the game. And as it ever growing game as we do that, obviously it creeps creeps more and more out of the game. But anyway, that my friends, as I pull into the parking lot is everything.</v>
+
+00:34:50.320 --> 00:34:56.840
+<v Speaker 1>Everything you probably ever wanted to know about banding and more. And a few things you probably weren't even banding. So.</v>
+
+00:34:57.720 --> 00:35:28.030
+<v Speaker 1>So anyway, so let me end today by saying that I'm having trouble figuring out how to end. Like somehow my beginning worked so well and everybody loves it and I've nailed it like right out of the gate. And that's the way I started my show. I'm trying to think to end my show. No matter what I do, I don't like this. I don't like that. So I'm going to experiment around a little bit. There's a gap. One of the problems is I record like, I don't know, 7-8 weeks ahead of now. So like when I do something, you guys are going to hear me do something for a while before you can respond.</v>
+
+00:35:28.140 --> 00:35:37.080
+<v Speaker 1>But you guys first started hearing responding me going, I'm parking my car. That means it's the end the drive to work and you don't seem like that. So I'm not quite sure what to do, so</v>
+
+00:35:39.380 --> 00:36:07.840
+<v Speaker 1>I don't know. So I'm going to experiment with things. But I'm going to say to you, if you think you have a good way for me to end the show, let me know. I'm obviously there's a gap here, so you're gonna hear me experiment for a little while as they tried different things. But I'm interested to figure out how you want me to end the show. So I'm going to try something today, which is probably be pretty silly, but I'm going to try to see how it works. OK, guys, you ready for the silly one? OK, I parked my car. You know what that means. It's time to end</v>
+
+00:36:07.970 --> 00:36:26.820
+<v Speaker 1>drive to work. What do you think of that right now? OK, we'll see. Anyway, thank you guys very much for joining me today. It's it's I had a long drive. I gotta get going. I got some work to do. Got to be making magic. So I'll talk to you guys next time and I hope you enjoyed everything. Just hope banding. Bye bye.</v>
+

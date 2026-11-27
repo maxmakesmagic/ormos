@@ -1,0 +1,413 @@
+WEBVTT
+
+00:00:01.390 --> 00:00:23.540
+<v Speaker 1>I'm pulling out my driveway. We all know what that means. It's time for another drive to work. OK, so one of the topics that's been going on my blog lately is talking about legendary creatures. And so today I thought I talked about the design of legendary creatures. So what what? What goes into making a legendary creature?</v>
+
+00:00:24.880 --> 00:00:25.380
+<v Speaker 1>So</v>
+
+00:00:26.210 --> 00:00:33.000
+<v Speaker 1>we tend to get to legendary creatures on a couple of different ways. Number one is sometimes</v>
+
+00:00:35.140 --> 00:01:05.770
+<v Speaker 1>the the the story people come to us and they say, ohh, well here are characters that are going to be in the story. You know, this is the leader of this faction or this is a character that we plan to be a protagonist and one of the short stories or something. And so some of the time they come to us and they say this, this is a character we plan to have. And usually what happens then is they sort of gives a description of the character and that that is a top down design that is us trying to say, OK, I'm designing to unknown</v>
+
+00:01:06.010 --> 00:01:19.900
+<v Speaker 1>character, how do I bring that character to life? And the point of design of those kind of cars is literally just trying to match the character as cleanly as we can with the caveat that we wanted to be an interesting card to play.</v>
+
+00:01:21.170 --> 00:01:49.030
+<v Speaker 1>It is not one of the traps you can fall into when you're doing top down is sacrificing play for accuracy of representation of, you know, capturing the flavor exactly. And what we've learned is it is better to capture the flavor generally and just play better than be dead on have exactly right, but not play quite as well. And so one of the tricks on doing top down legendary characters is that you want to definitely sort of keep in mind,</v>
+
+00:01:50.650 --> 00:01:51.690
+<v Speaker 1>you know, that</v>
+
+00:01:52.860 --> 00:02:00.800
+<v Speaker 1>the goal is not to capture as best possible with no other, with no other objective. The goal is to,</v>
+
+00:02:01.660 --> 00:02:02.180
+<v Speaker 1>um,</v>
+
+00:02:02.840 --> 00:02:10.290
+<v Speaker 1>make something that's a fun playable card, but that then capture some essence of it. And the truck we've learned is that</v>
+
+00:02:11.750 --> 00:02:26.990
+<v Speaker 1>players are good at sort of filling in gaps from the flavor standpoint, meaning if I talk about something in the general, people can fill in specific where they need to. So let me give a good example of this in larger Magic, which is what we call the elephant and boots issue.</v>
+
+00:02:27.620 --> 00:02:29.890
+<v Speaker 1>So let's say we're going to make a pair of boots.</v>
+
+00:02:31.840 --> 00:03:00.550
+<v Speaker 1>Now from a flavor standpoint, OK, that boots make sense of maybe a humanoid creature, but putting the boots on animal doesn't make sense. You know, you're not going to have something like an A wild elephant put on boots and run faster. But what we learned in Magic is when we sort of get exact for flavor reasons, it just generally makes a poorer game. And the idea is, so let's say I make boots that are an interesting piece of equipment that make you maybe run faster and maybe have</v>
+
+00:03:00.650 --> 00:03:30.720
+<v Speaker 1>for something that the fact that I could put that equipment on any creature just makes it better game. Ohh. But but what happens about I put it, you know, OK, the flavors disconnect falls apart when I try to put the boots on the elephant. But what we've learned is that if we show you boots and in the art we show you boots on a human running or a human right creature running and convey what the boots are doing, you get the idea that the flavor is ohh, someone puts on these boots. The boots make them fast. And then later, if you are</v>
+
+00:03:30.790 --> 00:03:34.600
+<v Speaker 1>gonna game state and you get to put the boots on an elephant, ha ha ha,</v>
+
+00:03:35.320 --> 00:03:40.600
+<v Speaker 1>haha sorry ha ha, the boots went on an elephant. But anyway, I still get the game play and I gotta do what I wanna do.</v>
+
+00:03:41.360 --> 00:04:11.450
+<v Speaker 1>There's a similar dynamic when we were working on Kaladesh and we were doing vehicles and we were trying to figure out whether or not to let vehicles crew other vehicles. And it could, it was extra words and it was sort of like, ah, it's not worth it. You get the flavor that the crew is going to be people that actually can drive the vehicle, and that the fact that you can sort of hop in the car and have the car drive a train, it's quirky and silly, but look, that's not the flavor of what's going on. Legendary creatures have the same basic idea in that</v>
+
+00:04:11.640 --> 00:04:21.640
+<v Speaker 1>if we can convey the basic essence, if you can look at what's going on and say I get how this connects, you don't need the finite detail. In fact, magic is better when</v>
+
+00:04:22.930 --> 00:04:53.240
+<v Speaker 1>you can be a little bit broader and you know, like one of the things in general is you want some restrictions, restrictions, creativity. And I'm not saying that. In fact, the interesting thing is if you go too broad, the car loses something as well. That if you just say I can affect anything, well, that's not as flavorful as ohh, I affect a subset of things or I, you know, I, I care about certain things. That no, one of the, the balances we're trying to get is you want enough detail</v>
+
+00:04:53.330 --> 00:05:25.650
+<v Speaker 1>to give it not just give it flavor, but from a gameplay standpoint, some restrictions are kind of cool. Like if every time we made a Lord, it always said all creatures get plus one plus one. Well, not, not as interesting to say, Oh, well, this is an elf Lord, or this is elephant Lord or a Unicorn Lord or whatever, whatever, whatever it is that by having it be a little bit narrower, it gives a definition. So there actually is an interesting range we want to get in, which is you want enough detail that there's a little bit of flavor there.</v>
+
+00:05:25.720 --> 00:05:35.700
+<v Speaker 1>And it it gives some restrictions because it helps sort of give like you want each car to not go in the same deck, but to go in different decks. He goes, Oh, well, this would inspire a different kind of thing.</v>
+
+00:05:37.000 --> 00:06:01.470
+<v Speaker 1>But you want to be general enough that you don't, you know, if you get too specific, then you make a car that kind of get stranded that it's just too hard to use. And so there's a, there's a middle area that's kind of the sweet spot where it's has enough detail to it that it gives a little bit of flavor and it sort of pushes you towards a certain direction, but enough open that you have enough flexibility and that it's not too restrictive.</v>
+
+00:06:02.520 --> 00:06:17.870
+<v Speaker 1>If I made a creature that said all creatures with converted mana cost of four that are two, three creatures, you know, at some point you get so narrow that just is not enough things that fit in it. And so you want you want that sweet spot.</v>
+
+00:06:18.590 --> 00:06:48.560
+<v Speaker 1>Now, another thing to keep in mind when we were making legendary creatures, especially top down ones, is the commander format exists. One of the things I stress is it's every legendary creature does not need to be for the commander format. I understand the commander format cares about legendary creatures, but there are different reasons you want to make legendary creatures. And that if you have a really cool legendary creature and what maximizes it is making something that requires multiples of it, that is OK. You know, like I remember</v>
+
+00:06:48.640 --> 00:07:18.450
+<v Speaker 1>and it was the dragon Stark here. We had a cool thing that cared about duplicates in your graveyard. Well, commander, that's never going to happen. But it was a cool card. It was a neat thing so you could build around. And the idea was, OK, well, this card might not be a commander, but every legendary card isn't necessarily for commander. You know, the yes, the commanders care about legendary characters, creatures, but they're not the only ones that care. And that part of what you're trying to do when you make something legendary is you're trying to hit all the different audiences.</v>
+
+00:07:18.660 --> 00:07:20.460
+<v Speaker 1>So let me let me deviate in that a second.</v>
+
+00:07:21.540 --> 00:07:46.610
+<v Speaker 1>Who are the audience for a legendary creature? That's always good to know. Well, number one, you got your commander player and the commander player very much cares about. I would like this to be a commander in my deck. I would like this to inspire me. I would like this to sort of give me some restrictions, but give me enough flexibility in building my deck. In general, the legend, the commander crowd tends to like commanders that have more colors rather than less, just gives you more options.</v>
+
+00:07:48.080 --> 00:08:18.010
+<v Speaker 1>But, uh, you know, there, there, there are people that enjoy the full spectrum of, of commanders. So we do make minor power legendary creatures and people that enjoy making monocolor commander decks. They're people that like as many colors as possible. So we make, you know, 3-4 and five color legends as well. Like I said that it's not as if the commander players are in uniform group that all want the same thing. Yeah, yeah, yeah. They care about they care about legendary things and they you know, whenever you make something legendary, the commander and group is going to look at it</v>
+
+00:08:18.080 --> 00:08:47.880
+<v Speaker 1>doesn't mean everyone has to be for them, every designs for them, but it is something gonna look at. Also in general, they like when it gives some definition, you know that the the commander pushes in some direction. In general for legendaries, we like that, that they it gives some sort of what kind of deck would want this. We occasionally will make some more generic legends when we're feeling certain certain sometimes within a set, there's certain roles you got to fill and we'll get to that in a second.</v>
+
+00:08:48.150 --> 00:09:20.000
+<v Speaker 1>What other reasons to make legendaries as far as people play? So number one, people want legendary creatures, commander players. These aren't order important things when comes to mind. Number 2 is Ortho says people that are history people that whenever we talk about something in the story, the people really want to see it. Now one of the problems we went into is that the story is getting written happen after we've made this at that we the the basic outline is made while we're designing this ad, but the details, the actual stories</v>
+
+00:09:20.070 --> 00:09:50.190
+<v Speaker 1>yourself don't get rid into later. And So what happens is in making same with flavor text by the way, in the making of flavor texture, the making of stories. Often they will create new characters and the audience tends to like those characters. They read them, they fall in love with them and then where's this character? And a lot of times the reason that the character that seems so important in the story might not be in the card set is when did it get made? If a God made early enough that we were aware of it, yeah, we'll make one. And there's some classic</v>
+
+00:09:50.260 --> 00:10:08.020
+<v Speaker 1>samples, like back in the day we went back, we used to do novels. The novels will be ridden separate from us and usually at the same time we were making things or actually later than we were making things. So for example, in Urza Saga, there's a character named Xantcha who was like the protagonist of of at least one of the books.</v>
+
+00:10:09.110 --> 00:10:25.170
+<v Speaker 1>Nowhere on Earth saga do you find Xantcha because we didn't know about it at the time. We didn't know she was even a thing. No one said, hey, there's a character. Like if we're giving details on the character, we can flesh out the character and assign the card, but if nobody tells us it's the character or the character wasn't even created at the time, then it's not there.</v>
+
+00:10:28.690 --> 00:10:55.320
+<v Speaker 1>Now the nice thing about Commander products and other supplemental products is it's allowed us to go back and fill some stuff in and make characters that never got a card. Like Condo, who was Gerard's adoptive father, never got a card. Finally recently were able to finally give Condo a card. Stuff like that's kind of fun for the fourth hours out there. But anyway, in other people who really like the legendary characters are for the orthoses the story. People who really want to see the story and see the characters and see them reflected in the story.</v>
+
+00:10:57.600 --> 00:11:01.860
+<v Speaker 1>The the fourth options tend to care more about how the characters represent</v>
+
+00:11:03.290 --> 00:11:33.740
+<v Speaker 1>that, how the cards represent the characters. The commander card is a little more like, is this fun? The commander? Does it lead to fun play? Is it a fun command or stuff like that? The 4th, those products a little more like, are you are you truly representing the character? This was a neat character. How do you represent that character, the gameplay and either like, ohh, you, you nailed that character, or, Oh, that's not exactly that character. And one of the things you'll find is I'll use a chroma as an example. A chroma is a is an example of a card that we made</v>
+
+00:11:33.810 --> 00:11:57.230
+<v Speaker 1>be exciting, but we really didn't reflect her role in the story. If you ever seen I wrote an article about this and I I think a few other people have referenced it over the years of have you ever seen the comment on a chroma? I actually was trying to change a chroma away from what she ended up being because I didn't think she matched the store. I mean she died. The current card does not match the story and the current card</v>
+
+00:11:58.770 --> 00:12:06.110
+<v Speaker 1>starter says she's powerful, you know, which was true in the story. And then she was something to be sort of if you're if you're up against there, be afraid of. But</v>
+
+00:12:07.020 --> 00:12:24.930
+<v Speaker 1>it didn't really capture the role from the story where Phage, on the other hand, exactly captured role in the story like Phage was, was this is a character who's like touches death. Ohh, OK, well, when she does damage you, she kills you that that is that that does a good job of sort of representing the essence of the character. So</v>
+
+00:12:26.100 --> 00:12:29.660
+<v Speaker 1>anyway, the second people that like legendary characters are the fourth hours</v>
+
+00:12:31.980 --> 00:12:39.700
+<v Speaker 1>for those they've never heard that term before. It was coined by Matt Cavada and Macron was writing an article about creative.</v>
+
+00:12:41.000 --> 00:13:05.180
+<v Speaker 1>There are there's an aesthetic scale that's separate from the psychographics, although people often clump them together to talk about what you appreciate in the game. And the Porthos is the end that's more about flavor and the Mel is more about mechanics. Some melon for those are two aesthetic scale, sorry, not really a scale. There are two elements that care about things. You can actually be of orthos and the mail or be neither orthonormal. That's possible,</v>
+
+00:13:06.640 --> 00:13:25.550
+<v Speaker 1>OK. The other people that care about legendary there, there's a mechanical function that sometimes we use for legendary and that is you can only have one in play at a time. And so there's some people that enjoy the challenge of like there are people that</v>
+
+00:13:26.470 --> 00:13:47.600
+<v Speaker 1>like restrictions built into the game and kind of enjoy the mechanical aspects of of the way legendaries play. So I'll get to that in a second. That's another reason we might make legendaries. And finally, there are people who appreciate characters in the story that never read the outside material. It's not that they know,</v>
+
+00:13:48.930 --> 00:14:20.060
+<v Speaker 1>it's not that they know the characters. It's that part of the fun for them is they explore the world through the card said, and that is 1 the richness of the environment and that Oh, well, I'm here in Exodus Exelon and oh, there there are different factions who are the pirates and who are the dinosaurs and who are the merfolk and the vampires and ohh, well, this is the leader of the vampires and stuff like that and all that, that that there's flavor that's derived not from the story, but from the game</v>
+
+00:14:20.130 --> 00:14:20.850
+<v Speaker 1>self.</v>
+
+00:14:22.250 --> 00:14:44.740
+<v Speaker 1>Now, I guess there's I guess it won't charge. There are also 4 doses in a different context. But there are people in which the legendary stuff sort of bring something to the game exclusive of being to the story. I mean, the people, some people want to match the story, some just like it illuminates the game itself. OK, so the first way that we make legendary cards is that we design top down based on self told to us.</v>
+
+00:14:46.010 --> 00:15:16.030
+<v Speaker 1>The second thing that will happen is sometimes we make a card in as a mechanical card and we come to realize that it kind of lends itself to being an interesting character. Just as the creative team will come to us and say, here's the character we want to use. Sometimes we make a car to design and realize that, wow, this really has the flavor of a character that it might want to be legendary because it really the, the, the essence of the design</v>
+
+00:15:16.110 --> 00:15:35.830
+<v Speaker 1>really speaks to a character. And so sometimes what will happen is we'll talk to the creative team and there's times where the creation of the card is not a story thing. It's a mechanical thing. But we make such kind of a cool card that really speaks as if it's a character that the creative team will find a way to use it as a character.</v>
+
+00:15:36.510 --> 00:15:39.230
+<v Speaker 1>Um, trying to be good example of that.</v>
+
+00:15:41.670 --> 00:15:44.720
+<v Speaker 1>Umm, I for example, the way</v>
+
+00:15:46.740 --> 00:16:16.690
+<v Speaker 1>during that during Tempest, well, I was a weird one because I was during Tempest, I was the liaison for the story and they're definitely worth things where we made the cards like slivers were a good example where slivers were just a mechanical thing. And then we realized that we wanted them to have a role in the story and we added and there's a point where the weather like crew has to fight this livers. And then later in the story we ended up making the sliver queen. The Sliver Queen was</v>
+
+00:16:16.760 --> 00:16:20.200
+<v Speaker 1>not made to be a character, but was made to be</v>
+
+00:16:21.220 --> 00:16:51.260
+<v Speaker 1>just a cool card. And then we realized it was kind of cooler, like if there was 1 sliver Queen, which is kind of cool. The rather than there's, there's lots of sliver Queen all over the place. And then we wove this liver Queen into the story. She was not created to be a character and she was not just we made the card for slivers for the sliver deck and they're like, Oh, well, this really seems like it's a unique, special thing that you know, this is, this is something that's producing the slivers that the queen to the slivers and like, it seems odd. There's a lot of them. So we made it a legendary card</v>
+
+00:16:51.330 --> 00:17:21.270
+<v Speaker 1>and then I later realized that there was I found an opportunity. There's a cool moment where the Sliver Queen when the when the when the weather light first shows up on Wrath and they're attacked by the Predator and Gerard falls overboard and stuff. They end up predator goes aboard and takes all the legacy in addition to taking car because it's part of a legacy. Tangra hops on, although they didn't take time. Garth, he sort of in his brave act jumped on after to try to save</v>
+
+00:17:21.340 --> 00:17:21.780
+<v Speaker 1>learn.</v>
+
+00:17:23.230 --> 00:17:27.940
+<v Speaker 1>Anyway, they then put the legacy in the stronghold and they they</v>
+
+00:17:29.920 --> 00:18:00.350
+<v Speaker 1>Vollrath has captured the Sliver Queen because he is, well, he's evil and he wants to sort of control the slivers. And anyway, he then puts the legacy with the Sliver Queen, expecting the Sliver Queen because the Sliver Queen is kind of holding him right now because he has if she wants access to the flippers, he controls that. And so she is guarding the elements of the legacy. And so when they're trying to escape the stronghold, Karen goes to get the legacy</v>
+
+00:18:00.420 --> 00:18:03.140
+<v Speaker 1>because it's his responsibility. He's the guardian of legacy, if you didn't know that,</v>
+
+00:18:04.570 --> 00:18:33.960
+<v Speaker 1>and they all fit inside him if you know either anyway. And he has the heart to heart with this Sliver Queen where he sort of explains the Sliver Queen that the Legacy is to him, what the slivers are to her. And he sort of reaches her and she ends up letting him take the Legacy. But anyway, that cool little moment came about because we knew we had this card and we're like, is there a way to make use of that? So we've done cool stuff like that in the past where we have made just a cool mechanical card and then said, oh, wow, this really feels like a character. We're going to make it</v>
+
+00:18:34.900 --> 00:18:40.160
+<v Speaker 1>legendary because the the feel of the card will be enhanced if we make it the legendary.</v>
+
+00:18:41.460 --> 00:18:47.650
+<v Speaker 1>Another reason that we will make something legendary is a mechanical reason. And so the example, this will be</v>
+
+00:18:48.810 --> 00:19:10.570
+<v Speaker 1>the crooked thumb, the original crust that crux under thumb. But although trucks other thumb, I mean, I guess once crunch thumb is legendary, of course crunch other thumb is legendary. The reason crutch thumb with legendary was we realized if you had multiples in play that like if you get a refill, normally flip a coin, it's 5050 and if you get a re flip a coin,</v>
+
+00:19:12.810 --> 00:19:21.560
+<v Speaker 1>you you now have a 75% chance that successful before you had a 50% chance. My my probability math might be a signal, but I believe that's going on.</v>
+
+00:19:23.080 --> 00:19:27.820
+<v Speaker 1>So but the problem was the more you got, just the more, the more</v>
+
+00:19:30.070 --> 00:19:59.710
+<v Speaker 1>assuredness you have of, of winning the coin flip. And the coin flip cards were kind of designed to have some flexibility to them in some unknown to them. And that we weren't really interested of because we tend to balance coin flip cards as if you don't, you don't, you truly don't know. So we, we sort of allow you to have a little, make them a little cheaper because you don't know the outcome. And if you had too many crunch thumbs, it actually got a little bit of abusive because enough crunch thumbs you had such, I,</v>
+
+00:19:59.780 --> 00:20:11.860
+<v Speaker 1>I mean, it wasn't uncertainty, but a near certainty of doing things at a much lower cost that we actually were worried about it. And the whole point, of course, Thumb was it wasn't meant to be a constructed card.</v>
+
+00:20:13.150 --> 00:20:42.970
+<v Speaker 1>Because we don't have the coin flips cards be constructed. So they came to me and said we really want to make this legendary. Not because we care about the flavor or anything, but because we don't want you having 2IN play at once. And so we do that occasionally where we use legendary as sort of a mechanical restriction. The side effect of that is in order to do that we have to make it legendary. So whenever we want to make something legend, we go to the creative team and say, would you mind this with legendary? Usually it's not a big deal. Most of the times it's an artifact is where this happens</v>
+
+00:20:43.160 --> 00:20:48.480
+<v Speaker 1>and it's like, OK, it's not just a sword, it's the sword of whatever.</v>
+
+00:20:50.110 --> 00:20:52.860
+<v Speaker 1>It's not particularly hard to make artifacts legendary. So</v>
+
+00:20:54.050 --> 00:21:19.710
+<v Speaker 1>to do that every once in a blue moon, I think there's been a few creatures who made legendary because they were cheap and we didn't want you having like we've made a few things that were ended up like, oh, it needs to be legend in order to do this. Now, sometimes we work backwards. Sometimes because we make a legendary creature, we design things that we wouldn't do if it worked legendary. So sometimes we lean into the legendary sort of drawback, if you will.</v>
+
+00:21:21.440 --> 00:21:26.050
+<v Speaker 1>So, so when you look at cards, sometimes the and like I said, sometimes</v>
+
+00:21:26.950 --> 00:21:42.930
+<v Speaker 1>it starts legendary and we build it knowing the restriction will allow us to do something we couldn't do otherwise. Other times we make a card not intending to be legendary, find out it's a problem, and then make it legendary. So sometimes things get made legendary from mechanical reasons, restriction reasons.</v>
+
+00:21:43.790 --> 00:21:44.460
+<v Speaker 1>Um,</v>
+
+00:21:46.020 --> 00:21:55.450
+<v Speaker 1>another thing that we tend to do to make legendary things is we have found that when we, one of the things that commander tends to</v>
+
+00:21:56.760 --> 00:22:03.030
+<v Speaker 1>make us want to do these days is that we, when we make a theme in the set, if it's a large enough theme,</v>
+
+00:22:04.890 --> 00:22:08.820
+<v Speaker 1>we often make a legendary creature because we want to,</v>
+
+00:22:09.830 --> 00:22:23.840
+<v Speaker 1>well, two, two things. One is making something legendary where you have factions or you have major themes sort of helps reinforce that there's a theme. Usually we want to make a card that says, Hey, I'm encourage you to play this theme.</v>
+
+00:22:24.690 --> 00:22:39.230
+<v Speaker 1>And usually what it does is mechanically it just says, it references the theme by name or it just works really well with the theme and by making it legendary draws a little bit of attention to the fact that this is something that you</v>
+
+00:22:40.930 --> 00:23:01.760
+<v Speaker 1>that highlights your theme. When we make factions, for example, we tend to just, it's now a given that factions will have a leader. Sometimes they also what we call a champion. Like when we make the Ravnica guilds, we made a leader of the Guild and a champion of the Guild to allow us to get two different legendaries for each Guild.</v>
+
+00:23:03.320 --> 00:23:05.730
+<v Speaker 1>Like Contra Tarkir, we made the cons.</v>
+
+00:23:08.170 --> 00:23:35.160
+<v Speaker 1>So sometimes what we're doing is we're making things to reinforce the themes. The reason we make them Ledger is twofold type profile and help sort of build story around it. But also people like having commanders of the thing. One of the notes we keep getting is when we do a theme and don't give you a clean commander for the theme, it forces them to go get old characters that don't really that mechanically might connect but don't tie it flavorfully.</v>
+
+00:23:36.390 --> 00:23:39.670
+<v Speaker 1>And like the werewolf class example here where</v>
+
+00:23:40.960 --> 00:24:00.120
+<v Speaker 1>we we made a lot of werewolves. It was a theme. We didn't make a legendary werewolf players like where's legendary werewolf? And the commander crowd. What they wanted when we misunderstood at the time was we thought they wanted something that was just a good generic commander that happened to be a werewolf, but they really wanted was a commander for their werewolf tax that was a werewolf.</v>
+
+00:24:01.600 --> 00:24:10.190
+<v Speaker 1>And so this is something we've learned with time of when we make a theme, if we can try to think about how to encapsulate the theme and then</v>
+
+00:24:11.680 --> 00:24:16.180
+<v Speaker 1>make something that also can double as a commander for that theme definitely makes a certain crowd happy.</v>
+
+00:24:18.400 --> 00:24:20.200
+<v Speaker 1>Another reason that we'll make legendaries</v>
+
+00:24:23.310 --> 00:24:28.910
+<v Speaker 1>is sometimes we make cycles as what we call key selling points, KSPS.</v>
+
+00:24:30.380 --> 00:24:58.580
+<v Speaker 1>We like to make sure that every set has things that just sort of get players excited. That's just business speak for. There's exciting things in the stat that make people go, oh, I want that set. Sometimes we use legends often cycles of legends as a KSP. The classic example would be Thoros is like, oh, there's gods. You know, we're have three sets and every set is going have a cycle of gods. And so you'll be able to collect the pantheon of gods,</v>
+
+00:25:00.090 --> 00:25:25.680
+<v Speaker 1>but we had the Gearhulks in Calabash. You know, a lot of times we'll just do exciting splashy things. Actually, the girls were not legendary. So that was a bad example, but the gods were legendary. Not all of our splashy cycles necessarily are legendary, but a lot of times what it really reinforces what we're trying to do, For example, when we're doing gods and it doesn't make a lot of sense, there's a lot of a lot of guys. Like there's a singular God for one particular thing</v>
+
+00:25:28.170 --> 00:25:32.180
+<v Speaker 1>and tell me there's a red God. You know, usually that's that will be a legendary thing.</v>
+
+00:25:34.330 --> 00:26:02.250
+<v Speaker 1>Also, I should note, by the way, I've been talking a lot about characters. All the things I'm talking about apply to objects or places as well. So for example, in the story, like take Odyssey, the Mirari was a major component of the story. Well, we knew we needed to do something really cool with Amari, you know, And so one of the things that we were sort of on the hook for is, hey, this is a major component of the story. We need to reflect this. And not only do we need to reflect it, but</v>
+
+00:26:03.320 --> 00:26:08.900
+<v Speaker 1>look, the story revolved around people wanting the Marari. So there's some pressure to make something that people would want.</v>
+
+00:26:10.730 --> 00:26:34.900
+<v Speaker 1>And that's another thing to keep in mind sometimes is when there's something that is so corrupt to what's going on that you want to make sure that you represent the thing or the place. Legendary places have been trickier for a long time. The way the legendary rules work, we didn't want legendary lands because the gameplay was bad. We eventually changed it so that now we can make legendary lands again.</v>
+
+00:26:36.390 --> 00:26:49.780
+<v Speaker 1>There's a period of time where you the reason you play legendary lands is destroyed the opponent legendary land. And it was kind of a strip mine thing that was not particularly fun. But now that you each can have one copy of it, I can't use Mine Destroyer or so</v>
+
+00:26:51.120 --> 00:26:56.540
+<v Speaker 1>we now can go back to the legendary lands. Legendary Lands usually is</v>
+
+00:26:57.940 --> 00:27:11.460
+<v Speaker 1>it's trying to play up someplace and there's usually something special about the car that that the idea of it has some uniqueness to it is built-in. Often we'll use that mechanically to say, OK, we can have one of these and play at a time. So</v>
+
+00:27:13.010 --> 00:27:15.940
+<v Speaker 1>we can, we can definitely sort of juice it a little bit because of that.</v>
+
+00:27:17.580 --> 00:27:37.280
+<v Speaker 1>I, I will know by the way that we don't power things up all that much because the legendary, I know people seem to think we powered them up a lot. We got a little bit of space. We don't actually get as much as people think we do. You can push things a little bit in certain areas. The reason you mostly get to push legendaries is not because they're legendary is because most of them are multi colored</v>
+
+00:27:37.990 --> 00:27:41.330
+<v Speaker 1>and you can push multi colored stuff a little bit more. Um,</v>
+
+00:27:42.440 --> 00:28:05.650
+<v Speaker 1>for example, if you cost just three men about your three different colors, mana, getting that out is hard and getting that on turn 3 is not impossible, obviously, but but tricky. O we can make cards that if you got on the third turn are super powerful, But but because you're playing three hours, it's hard to get on the third turn. And so we definitely get you give you more, more value when you're playing more colors.</v>
+
+00:28:09.620 --> 00:28:12.810
+<v Speaker 1>Another thing with Legendary is, um,</v>
+
+00:28:14.070 --> 00:28:27.700
+<v Speaker 1>sometimes when we are trying to sort of make something for you to build around, sometimes we feel that give it some personality will give the decks and personality.</v>
+
+00:28:29.170 --> 00:28:33.180
+<v Speaker 1>I'll be like, ohh, this is a cool thing. Ohh, well, maybe instead of just being,</v>
+
+00:28:33.840 --> 00:28:36.060
+<v Speaker 1>you know, instead of just like for example,</v>
+
+00:28:37.200 --> 00:28:56.010
+<v Speaker 1>I, I think if we have something like battle of wits to do over again, it's seldom that you need to play back 2 battle wits at one time. Yeah, yeah, yeah, you're declined 4 battle wits. But it's not the kind of card where, you know, look, if one battle wins out, it's going to do the job. You don't necessarily need more than one out at a time.</v>
+
+00:28:57.360 --> 00:29:09.450
+<v Speaker 1>And so that's the kind of thing nowadays that we make something really will be self identifiable for deck and there's opportunity to just give it a little extra flavor. We'll, we'll definitely consider doing that.</v>
+
+00:29:12.130 --> 00:29:21.820
+<v Speaker 1>The other thing about legendary is that we tend to do is we tend to avoid doing exactly like. One of the things you want to do with the legendary is</v>
+
+00:29:23.870 --> 00:29:26.380
+<v Speaker 1>there's a concept in design</v>
+
+00:29:27.870 --> 00:29:30.000
+<v Speaker 1>that I call the,</v>
+
+00:29:32.110 --> 00:30:01.580
+<v Speaker 1>does it have a name sort of being a skew? What that means is that if you go back and look at architecture from like the medieval ages, one of the things they used to do is they would make a mistake on purpose and building churches because it was trying to reinforce that, you know, only God is perfect. And so they would build in a mistake. And that one of the things that artists have found over time is that</v>
+
+00:30:02.660 --> 00:30:31.340
+<v Speaker 1>one of the things that helps give identity something is to do something that is a little out of the norm, not what's expected. And so a lot of times when building a legendary, what you want to do is give a little bit of just a little tweak to it that makes it have a identity that no one else is going to copy. That is doing some mechanically we would normally do, or just how it does. It's just a little bit different. Usually legendary cards are</v>
+
+00:30:32.530 --> 00:31:02.560
+<v Speaker 1>rare or mythic rare. The splashes ones are mythic rare, but we make summit rare. Insects that matter, we occasionally make them an uncommon. Dominar is a good example where legend legendary matters in in the set as part of the historic mechanic. And so we did make some uncommon legendary cards, but it's the kind of thing that we tend to only do when thematically makes sense. In general, the legendary theme and flavor kind of wants to be on rarer</v>
+
+00:31:02.650 --> 00:31:07.710
+<v Speaker 1>things, and this is a one-of-a-kind thing. Well, odds are the average person doesn't see that often. It's a one-of-a-kind thing.</v>
+
+00:31:09.520 --> 00:31:11.540
+<v Speaker 1>But anyway, when designing them,</v>
+
+00:31:12.280 --> 00:31:21.290
+<v Speaker 1>one of the things that we spent extra time on Legends is that part of giving it a unique flavor is not just copying something you've done before.</v>
+
+00:31:22.590 --> 00:31:23.930
+<v Speaker 1>Nothing. We never do that, but</v>
+
+00:31:25.100 --> 00:31:34.090
+<v Speaker 1>we're less likely to just repeat something we've done before and just make it legendary. Usually when you're making something legendary, you wanna add it a little something that just</v>
+
+00:31:35.400 --> 00:31:39.960
+<v Speaker 1>that just makes it a little unique in a way. That's not something most cards will do.</v>
+
+00:31:41.510 --> 00:31:56.360
+<v Speaker 1>Like I said. Like I said, sometimes that is in doing an effect we wouldn't do often. Sometimes it's just in the execution. Sometimes you will connect abilities or put together better abilities that have a quirky element to them. That isn't something we would normally do.</v>
+
+00:31:59.890 --> 00:32:21.210
+<v Speaker 1>The other thing that we tend to do with legendaries is because we know there's a lot of attention toward them, we always want to make sure that every legendary, I mean, in general, we want to make sure every card is pointed towards somebody. But we do this with legendaries a little more rigorously than we do with normal cards, which is when we're looking at a card, we're like, who is this for?</v>
+
+00:32:22.180 --> 00:32:51.960
+<v Speaker 1>Is this something that is going to be, it's super faithful to the story and the Porthos is really like, it is something that just plays awesomely Commander. Is it something that just has a big splashy cool moment? The Timmy's in Tammies are just going to just have such fun playing. Is it do some weird quirky thing that the Jennies and Jennies getting piled around? Is it hyper efficient? Is something where there's a lot of interesting decisions to be made and the spikes really have fun with that.</v>
+
+00:32:52.190 --> 00:33:10.500
+<v Speaker 1>Now who is it for what's like a graphic it's for what aesthetic is it for? Who is the card for you know, what format is it for and that we, because we know legends legendary permanent special creatures get extra attention to them. We will spend a little more time sort of making sure that it is</v>
+
+00:33:11.420 --> 00:33:19.160
+<v Speaker 1>find suited as they find tailored suited for someone in particular and make sure that that person really likes it because</v>
+
+00:33:20.150 --> 00:33:49.880
+<v Speaker 1>legendaries are sort of a special thing. Like one of the one of the things I in fact, I as the day I recorded this on my I did a poll today. Every once in a while, other than head-to-head, I do what I've been calling pole position where I ask your opinion on magic things that we do. And today's poll was all about would you like us to have less legendary creatures but all of them be relevant the story or have more but not all of them are relevant and it's very close. As of right now. I think</v>
+
+00:33:50.540 --> 00:33:56.850
+<v Speaker 1>lesbian story relevant is winning by like 1 or 2% as of me leaving work. I don't know by the end of the day if that'll be true,</v>
+
+00:33:58.490 --> 00:34:05.880
+<v Speaker 1>but one of the big challenges is that we want legendaries to feel special. And that usually the way it works is</v>
+
+00:34:07.610 --> 00:34:37.900
+<v Speaker 1>we'll go through the set and we'll say, OK, if it's a legendary card, why, you know, to make sure it should be legendary. Is this something that we, we think, I mean, a, is it a character in the story we're trying to reflect? Is there some sort of faction, sort of some sort of inherent flavor we're trying to do? Is there some theme we're trying to provide for commander? Like what is the role of each card? And then beyond that, the psychographics of we want to make sure that there are legends for each of the psychographics because not everybody plays the same way. And that we want to make sure</v>
+
+00:34:37.980 --> 00:34:43.070
+<v Speaker 1>we like to have some legendary things show up in tournaments like this. Legendary things be super popular in casual.</v>
+
+00:34:44.410 --> 00:34:59.060
+<v Speaker 1>Another thing that we try to do, here's another thing that we've been doing recently is the players get really excited when we make legendary creature types that we've never made legendary before. So one of the things we've been consciously doing now is just keeping an eye open when there's an opportunity.</v>
+
+00:35:01.000 --> 00:35:30.940
+<v Speaker 1>So that, for example, we had never made a legendary blue red artificer that mechanically cared about artifacts. And there's a lot of players that wanted that and they thought we were going to make in Cadash, but we ended up making Sahelian instead, which was a planes Walker, not a legendary character. So when we're making Dominaria, we're very conscious that something they wanted. And there was a character that was blue red, which was Joya, who is Artificer, right? So like we had this line up and like OK,</v>
+
+00:35:31.010 --> 00:36:00.170
+<v Speaker 1>leaders want this, let's try to make to do that. Also, there are just creature types actually combined two things. There is archetypes that are missing and there's creature types that are missing. So we want to make sure to tell archetypes. I know there's desire went back one for white black cleric. I know when we make new like we put dinosaurs and pirates and Exelon, we knew that people would want a legend that fulfilled all the colors of them will have dinosaurs are white, red and green. Give me a white, red and green legendary dinosaur. If</v>
+
+00:36:01.020 --> 00:36:25.100
+<v Speaker 1>pirates are blue, black and red, give me a legendary pirate that's black and red. And we're also looking of like, I get to press all the time for a legendary bear or a legendary. I guess we made a legendary hound, but people will say you've never made a legendary fill in the blank. And so we're always on the lookout for, is there an opportunity to make a legendary something that we've not made before and that that's something we look at in legendary stuff.</v>
+
+00:36:26.720 --> 00:36:57.170
+<v Speaker 1>Often when we're making supplemental supplemental sets or even normal sets, we can, we sometimes look back and figure out, especially in the return. If we're doing a return, we're like, ohh, did we miss somebody? We're going back to industrywide. Was there somebody people wanted on Industrie that we, because of the timing that showed up in the story or in flavor text that we just didn't know when we were making into stride that now we know people want it, we can go back and make it. Sometimes those get made supplemental sets, sometimes those made return sets. We always have to keep that in mind,</v>
+
+00:36:58.530 --> 00:37:27.600
+<v Speaker 1>but really when making a legendary, a lot of the roles of designing a legendary is understanding kind of who wants it on many different vectors. You know, what format is it being played in? What kind of players going to play it? What kind of psychographics is going to play it? What role does it play in the set? What theme does it hit in the set? You know, what is it saying about the sad? How is it filling out the world? There's a lot of different things you got to do when you design legendaries. And that, my friends, is how legendaries are done. But anyway, I am</v>
+
+00:37:27.670 --> 00:37:28.670
+<v Speaker 1>now at work</v>
+
+00:37:30.360 --> 00:37:36.390
+<v Speaker 1>and so that means the end of my drive to work. So instead of talking magic, it's time for me to make it magic. I'll see you guys next time.</v>
+
