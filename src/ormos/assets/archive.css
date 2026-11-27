@@ -217,15 +217,17 @@ th { background: #f0e9dc; }
 }
 .search-input { margin-block: .3rem 1rem; }
 #search label[for="query"] { display: block; margin-top: .65rem; }
-#search select { max-width: 100%; padding: .45rem .65rem; border: 1px solid var(--muted); border-radius: .2rem; }
+#search select { max-width: 100%; padding: .45rem .65rem; border: 1px solid var(--muted); border-radius: .2rem; font: inherit; }
+.search-options { display: flex; flex-wrap: wrap; gap: .65rem 1rem; margin-bottom: 1rem; }
+.search-options > div { display: grid; gap: .25rem; max-width: 100%; }
 #search-filters {
-  display: flex;
   flex-wrap: wrap;
   gap: .65rem 1rem;
   min-inline-size: 0;
   margin: 0 0 1rem;
   border: 1px solid var(--line);
 }
+#search-filters:not([hidden]) { display: flex; }
 #search-filters label { display: grid; gap: .25rem; max-width: 100%; min-width: 0; }
 #query { flex: 1; min-width: min(10rem, 100%); }
 #query, #video-query { border: 1px solid var(--muted); }

@@ -1,6 +1,7 @@
 const form = document.querySelector("#search");
 const input = document.querySelector("#query");
 const scope = form.elements.namedItem("scope");
+const language = document.querySelector("#search-language");
 const filterPanel = document.querySelector("#search-filters");
 const filterInputs = [...(filterPanel?.querySelectorAll("select") || [])];
 const status = document.querySelector("#search-status");
@@ -14,6 +15,12 @@ results.after(more);
 
 const batchSize = 25;
 const engines = new Map();
+const mediaLabels = new Map([["podcast", "Podcast"], ["video", "Video"]]);
+const manifests = {
+  articles: "/pagefind/shards.json",
+  titles: "/pagefind/titles/shards.json",
+  media: "/pagefind/media/shards.json",
+};
 const facetLabels = Object.fromEntries(
   filterInputs.map((select) => [
     select.name,
@@ -25,9 +32,10 @@ let matches = [];
 let rendered = 0;
 
 function excerpt(html) {
-  const parsed = new DOMParser().parseFromString(html || "", "text/html");
+  const source = document.createElement("template");
+  source.innerHTML = html;
   const summary = document.createElement("p");
-  for (const node of parsed.body.childNodes) {
+  for (const node of source.content.childNodes) {
     if (node.nodeName === "MARK") {
       const highlighted = document.createElement("mark");
       highlighted.textContent = node.textContent;
@@ -46,8 +54,15 @@ function resultRow(documentResult, titlesOnly) {
   const item = document.createElement("li");
   const link = document.createElement("a");
   link.href = destination.pathname.replace(/\/index\.html$/, "/");
-  link.textContent = meta.title || "Archived document";
+  const mediaLabel = mediaLabels.get(meta.kind);
+  link.textContent = meta.title || mediaLabel || "Archived document";
   item.append(link);
+  if (mediaLabel) {
+    const label = document.createElement("span");
+    label.className = "count";
+    label.textContent = mediaLabel;
+    item.append(" · ", label);
+  }
   if (titlesOnly) {
     const details = ["author", "column", "year"].flatMap((field) =>
       (filters?.[field] || []).map((value) => facetLabels[field]?.get(value)).filter(Boolean)
@@ -58,7 +73,7 @@ function resultRow(documentResult, titlesOnly) {
       byline.textContent = details.join(" · ");
       item.append(byline);
     }
-  } else {
+  } else if (snippet) {
     item.append(excerpt(snippet));
   }
   return item;
@@ -82,31 +97,30 @@ async function showMore(version) {
   }
 }
 
-async function loadEngine(titlesOnly) {
-  const manifest = titlesOnly ? "/pagefind/titles/shards.json" : "/pagefind/shards.json";
-  const [module, response] = await Promise.all([
-    import("/pagefind/pagefind.js"), fetch(manifest),
-  ]);
+async function loadEngine(source) {
+  const response = await fetch(manifests[source]);
   if (!response.ok) throw new Error("Search index unavailable");
   const shards = await response.json();
-  const language = document.documentElement.lang.toLowerCase();
-  const paths = shards[language];
+  const locale = document.documentElement.lang.toLowerCase();
+  const paths = shards[locale];
   if (!paths?.length) return null;
   const [primary, ...remaining] = paths;
+  // Pagefind shares a WASM instance within a module. Isolate each source.
+  const module = await import(`/pagefind/pagefind.js?index=${source}`);
   const instance = module.createInstance({ basePath: primary });
   await instance.init();
   await Promise.all(remaining.map((path) => instance.mergeIndex(path)));
   return instance;
 }
 
-function engineFor(titlesOnly) {
-  if (!engines.has(titlesOnly)) {
-    engines.set(titlesOnly, loadEngine(titlesOnly).catch((error) => {
-      engines.delete(titlesOnly);
+function engineFor(source) {
+  if (!engines.has(source)) {
+    engines.set(source, loadEngine(source).catch((error) => {
+      engines.delete(source);
       throw error;
     }));
   }
-  return engines.get(titlesOnly);
+  return engines.get(source);
 }
 
 function activeFilters() {
@@ -126,7 +140,8 @@ function showFilters() {
 async function search() {
   const version = ++searchVersion;
   const term = input.value.trim();
-  const titlesOnly = scope?.value === "titles";
+  const selected = scope.value;
+  const titlesOnly = selected === "titles";
   const filters = activeFilters();
   results.replaceChildren();
   more.hidden = true;
@@ -138,10 +153,22 @@ async function search() {
   }
   status.textContent = "Searching…";
   try {
-    const index = await engineFor(titlesOnly);
-    const response = index ? await index.search(term || null, { filters }) : { results: [] };
+    const searchArticles = titlesOnly || selected === "text" || selected === "article";
+    const mediaType = mediaLabels.has(selected) ? selected : null;
+    const searchMedia = form.hasAttribute("data-media-search") && (selected === "text" || mediaType !== null);
+    const [articles, media] = await Promise.all([
+      searchArticles && engineFor(titlesOnly ? "titles" : "articles"),
+      searchMedia && engineFor("media"),
+    ]);
     if (version !== searchVersion) return;
-    matches = response.results;
+    const mediaFilters = mediaType ? { media: mediaType } : {};
+    const responses = await Promise.all([
+      articles && articles.search(term || null, { filters }),
+      media && media.search(term, { filters: mediaFilters }),
+    ]);
+    if (version !== searchVersion) return;
+    matches = responses.flatMap((response) => response?.results || []);
+    if (articles && media) matches.sort((a, b) => b.score - a.score);
     if (matches.length) {
       await showMore(version);
     } else {
@@ -155,11 +182,9 @@ async function search() {
 function restoreQuery() {
   const query = new URLSearchParams(location.search);
   input.value = query.get("q") || "";
-  // Bookmarked searches without a scope still use the full-text index.
-  if (scope) {
-    scope.value = query.get("scope") === "text" || (!query.has("scope") && query.has("q"))
-      ? "text" : "titles";
-  }
+  const selected = query.get("scope");
+  scope.value = [...scope.options].some((option) => option.value === selected) ? selected : "text";
+  language.value = document.documentElement.lang.toLowerCase();
   for (const select of filterInputs) {
     const value = query.get(select.name);
     select.value = facetLabels[select.name].has(value) ? value : "";
@@ -170,12 +195,17 @@ function restoreQuery() {
 
 function updateQuery() {
   showFilters();
+  const local = language.value === document.documentElement.lang.toLowerCase();
   const query = new URLSearchParams(activeFilters());
-  if (scope) query.set("scope", scope.value);
+  if (scope.value !== "text") query.set("scope", scope.value);
   const term = input.value.trim();
   if (term) query.set("q", term);
-  const url = new URL(form.action);
+  const url = new URL(language.selectedOptions[0].dataset.path, location.origin);
   url.search = query;
+  if (!local) {
+    location.assign(url);
+    return;
+  }
   if (location.href !== url.href) history.pushState(null, "", url);
   search();
 }
@@ -184,8 +214,14 @@ form.addEventListener("submit", (event) => {
   event.preventDefault();
   updateQuery();
 });
-scope?.addEventListener("change", updateQuery);
+const languageNames = new Intl.DisplayNames(["en"], { type: "language" });
+for (const option of language.options) {
+  const name = languageNames.of(option.value);
+  if (name !== option.value) option.textContent = name;
+}
+scope.addEventListener("change", updateQuery);
+language.addEventListener("change", updateQuery);
 filterPanel?.addEventListener("change", updateQuery);
 more.addEventListener("click", () => showMore(searchVersion));
 window.addEventListener("popstate", restoreQuery);
-restoreQuery();
+window.addEventListener("pageshow", restoreQuery);

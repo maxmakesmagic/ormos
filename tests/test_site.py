@@ -55,7 +55,9 @@ def test_articles_landing_page(tmp_path: Path) -> None:
     assert "Browse 9 archived articles." in landing
     start = landing.index('aria-label="Browse articles"')
     browse = landing[start : landing.index("</nav>", start)]
-    for path in ("/search", "/columns", "/authors", "/years", "/articles/all"):
+    assert 'href="/search?scope=titles"' in browse
+    assert site_file(tmp_path, "/search").exists()
+    for path in ("/columns", "/authors", "/years", "/articles/all"):
         assert f'href="{path}"' in browse
         assert site_file(tmp_path, path).exists()
 
@@ -90,7 +92,7 @@ def test_search_filters_use_local_article_metadata(tmp_path: Path) -> None:
 
     english = site_file(tmp_path, "/search").read_text(encoding="utf-8")
     translated = site_file(tmp_path, "/search/fr").read_text(encoding="utf-8")
-    assert '<option value="titles" selected>Article titles</option>' in english
+    assert '<option value="titles">Article titles</option>' in english
     assert '<input type="search" id="query" name="q">' in english
     assert '<fieldset id="search-filters" hidden>' in english
     assert english.count('<option value="markrosewater">Mark Rosewater</option>') == 1

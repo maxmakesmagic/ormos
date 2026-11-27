@@ -449,6 +449,8 @@ class Site:
         library: VideoLibrary,
         flash: FlashLibrary | None = None,
         podcasts: PodcastLibrary | None = None,
+        *,
+        transcript_languages: frozenset[str] = frozenset(),
     ) -> None:
         """Write the home page, archive directories, and search pages."""
         videos = library.videos
@@ -546,9 +548,11 @@ class Site:
         if media:
             choices.append((MEDIA_ROUTE, "Media", sum(count for _, _, count in media)))
         self.groups_page("/", SITE_NAME, choices)
-        self.search_navigation(articles)
+        self.search_navigation(articles, transcript_languages)
 
-    def search_navigation(self, articles: list[Document]) -> None:
+    def search_navigation(
+        self, articles: list[Document], transcript_languages: frozenset[str]
+    ) -> None:
         """Write localized search pages with filters for archived articles."""
         columns: defaultdict[str, dict[str, str]] = defaultdict(dict)
         authors: defaultdict[str, dict[str, str]] = defaultdict(dict)
@@ -564,12 +568,10 @@ class Site:
             day = article.day
             years[lang].add(day.year if day else None)
 
-        languages = sorted(
-            {component(entry.lang).lower() for entry in self.entries.values()} | {"en"}
-        )
+        languages = {component(entry.lang).lower() for entry in self.entries.values()}
         search_pages = {
             lang: ("/search" if lang == "en" else f"/search/{lang}")
-            for lang in languages
+            for lang in sorted(languages | transcript_languages | {"en"})
         }
         for language, path in search_pages.items():
             known_years = sorted(
@@ -601,6 +603,8 @@ class Site:
                     path,
                     lang=language,
                     script="/assets/search.js",
+                    has_transcripts=bool(transcript_languages),
+                    has_local_transcripts=language in transcript_languages,
                     search_pages=search_pages,
                     filter_options=filter_options,
                 ),
