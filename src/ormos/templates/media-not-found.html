@@ -1,0 +1,14 @@
+{% extends "page.html" %}
+{% from "components.html" import link %}
+
+{% block metadata %}<meta name="robots" content="noindex">
+{% endblock %}
+{% block content %}
+<h1>{{ title | escape_html }}</h1>
+<p>Fblthp took a wrong turn. The archive is still missing this file.</p>
+<p class="missing-media-source" hidden>Original URL <code></code></p>
+<ul class="inline-links">
+  <li>{{ link("/", "Back to the archive") }}</li>
+  <li>{{ link(config.media.landing_route, "Browse media") }}</li>
+</ul>
+{% endblock %}
