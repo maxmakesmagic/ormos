@@ -13,6 +13,7 @@ from tempfile import TemporaryDirectory
 from .content import Document, render_document
 from .flash import FlashLibrary, FlashReferences
 from .html import FLASH_ROUTE, FLASH_SCRIPT, MEDIA_ROUTE, PODCAST_ROUTE
+from .media_search import MediaSearchIndex
 from .paths import read_json_lines
 from .podcasts import PodcastLibrary
 from .search import SearchIndex
@@ -87,12 +88,21 @@ class ArchiveBuilder:
         with TemporaryDirectory(
             prefix=f".{output.name}-", dir=output.parent
         ) as staging_directory:
+            media_search = MediaSearchIndex(Path(staging_directory))
+            media_records = media_search.records(library, podcasts)
             site = Site(Path(staging_directory))
             self._copy_assets(site.output, library, flash, podcasts)
             self._render_documents(
                 site, files, flash.references() if flash.items else None
             )
-            site.navigation(library, flash, podcasts)
+            site.navigation(
+                library,
+                flash,
+                podcasts,
+                transcript_languages=frozenset(
+                    record.language for record in media_records
+                ),
+            )
             self._add_redirects(site, data)
             self._copy_url_map(site.output, data)
             Sitemap(site.output).write(
@@ -110,6 +120,8 @@ class ArchiveBuilder:
             SearchIndex(site.output).build(
                 site.entries.values(), plan if plan.is_file() else None
             )
+            if media_records:
+                media_search.build(media_records)
             if output.exists() or output.is_symlink():
                 raise FileExistsError(f"Destination already exists: {output}")
             site.output.rename(output)

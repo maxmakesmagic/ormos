@@ -6,7 +6,7 @@
 <p class="article-index-intro">Browse {{ "{:,}".format(count) }} archived {{ "article" if count == 1 else "articles" }}.</p>
 <nav class="article-browse" aria-label="Browse articles">
   <ul>
-    <li>{{ link("/search", "Search articles") }}<span>Find articles by title</span></li>
+    <li>{{ link("/search?scope=titles", "Search articles") }}<span>Find articles by title</span></li>
     <li>{{ link("/columns", "By column") }}<span>Series and recurring features</span></li>
     <li>{{ link("/authors", "By author") }}<span>Writers and their work</span></li>
     <li>{{ link("/years", "By year") }}<span>Articles and events over time</span></li>
