@@ -51,6 +51,7 @@ def _media_fixtures(data: Path) -> None:
         }
         for url, title in ((video_url, "大会決勝"), (silent_url, "Silent footage"))
     ]
+    videos[0].update(event="Pro Tour Kobe (2004)", segment="Finals")
     transcripts = [
         {
             "url": video_url,
@@ -154,9 +155,17 @@ def test_media_search_keeps_the_planned_article_index(tmp_path: Path) -> None:
     site = tmp_path / "site"
     index = MediaSearchIndex(site)
     records = index.records(VideoLibrary.read(data), PodcastLibrary.read(data))
-    assert {(row.url, row.kind, row.language, row.content) for row in records} == {
-        (f"/videos/{VIDEO}", "video", "ja", VIDEO_TEXT),
-        (f"/podcasts/{PODCAST}", "podcast", "en", PODCAST_TEXT),
+    assert {
+        (row.url, row.title, row.kind, row.language, row.content) for row in records
+    } == {
+        (
+            f"/videos/{VIDEO}",
+            "Pro Tour Kobe (2004) · Finals",
+            "video",
+            "ja",
+            VIDEO_TEXT,
+        ),
+        (f"/podcasts/{PODCAST}", "Drive to Work", "podcast", "en", PODCAST_TEXT),
     }
 
     ArchiveBuilder(source, data, site, 1).build()

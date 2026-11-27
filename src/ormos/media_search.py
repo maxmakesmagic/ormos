@@ -61,7 +61,7 @@ class MediaSearchIndex:
         """Collect media with searchable transcript text in a deterministic order."""
         records = [
             MediaSearchRecord.from_transcript(
-                video.path, video.title, "video", transcript
+                video.path, video.display_title, "video", transcript
             )
             for video in videos.videos
             if (transcript := videos.transcripts.get(video.url))
