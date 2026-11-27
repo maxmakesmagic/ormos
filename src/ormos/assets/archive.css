@@ -192,6 +192,29 @@ th { background: #f0e9dc; }
 .inline-links { margin-block: 0 1.3rem; }
 .pagination, .search-input { display: flex; flex-wrap: wrap; align-items: center; gap: .65rem 1rem; }
 .pagination { margin-block-start: 1.3rem; }
+.pagination-pages {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .25rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.pagination-pages a, .pagination-pages [aria-current="page"] {
+  display: inline-grid;
+  place-items: center;
+  min-inline-size: 2rem;
+  min-block-size: 2rem;
+  padding-inline: .25rem;
+  font-variant-numeric: tabular-nums;
+}
+.pagination-pages [aria-current="page"] {
+  color: var(--paper);
+  background: var(--header);
+  border-radius: .2rem;
+  font-weight: 700;
+}
 .search-input { margin-block: .3rem 1rem; }
 #search label[for="query"] { display: block; margin-top: .65rem; }
 #search select { max-width: 100%; padding: .45rem .65rem; border: 1px solid var(--muted); border-radius: .2rem; }
