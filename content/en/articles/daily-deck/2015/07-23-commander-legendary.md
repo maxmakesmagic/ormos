@@ -67,7 +67,7 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-Today on Daily Decks, we're going to take a look at Ethan Fleischer's [Reki, the History of Kamigawa](https://web.archive.org/web/20150723000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reki%2C+the+History+of+Kamigawa) Commander deck. Ethan is a Game Designer in R&D; he started at Wizards about five years ago after winning [The Great Designer Search 2](/en/articles/feature/2013/12-03-the-great-designer-search-2).
+Today on Daily Decks, we're going to take a look at Ethan Fleischer's [Reki, the History of Kamigawa](https://web.archive.org/web/20150723000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reki%2C+the+History+of+Kamigawa) Commander deck. Ethan is a Game Designer in R&D; he started at Wizards about five years ago after winning [The Great Designer Search 2](/en/articles/feature/2011/03-07-the-great-designer-search-2).
 
 *Magic* players have a bittersweet relationship with legendary permanents. Some players love them because they represent exceptional characters in *Magic*'s history. Other players hate them because you can only have one copy on the battlefield at a time. If legendary permanents are so cool and we are only allowed to have one in play at a time, it seems like Commander is the perfect format for them!
 

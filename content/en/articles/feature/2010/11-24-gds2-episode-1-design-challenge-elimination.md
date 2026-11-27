@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2022-10-07 12:16:57+00'
     rule: url.article_section
     registry_match: registry.explicit
+  duplicate_sources:
+  - zme7m13k
 sources:
 - document_id: 5k67kn1v
   url: https://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-design-challenge-elimination-2010-11-24
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-05-21 05:56:18+00'
   capture_id: 576775
   wayback_url: https://web.archive.org/web/20130521055618id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/118y
-source_selection: The catalog's primary source rendered.
+- document_id: zme7m13k
+  url: https://magic.wizards.com/en/articles/archive/gds2-episode-1-design-challenge-elimination-2010-11-24
+  page_key: magic.wizards.com/en/articles/archive/gds2-episode-1-design-challenge-elimination-2010-11-24
+  lang: en
+  template: drupal
+  captured_at: '2021-10-19 15:28:26+00'
+  capture_id: 699578
+  wayback_url: https://web.archive.org/web/20211019152826id_/https://magic.wizards.com/en/articles/archive/gds2-episode-1-design-challenge-elimination-2010-11-24
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: 5k67kn1v
   capture_id: 628417

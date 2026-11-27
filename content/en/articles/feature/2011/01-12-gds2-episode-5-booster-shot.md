@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2013-05-21 07:37:42+00'
     rule: aspx.archive_link_column
     registry_match: registry.explicit
+  duplicate_sources:
+  - 4q5hcev2
 sources:
 - document_id: emj07kqp
   url: https://magic.wizards.com/en/articles/archive/gds2-episode-5-booster-shot-2011-01-12-0
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-05-21 07:37:42+00'
   capture_id: 578413
   wayback_url: https://web.archive.org/web/20130521073742id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/125z
-source_selection: The catalog's primary source rendered.
+- document_id: 4q5hcev2
+  url: https://magic.wizards.com/en/articles/archive/gds2-episode-5-booster-shot-2011-01-12
+  page_key: magic.wizards.com/en/articles/archive/gds2-episode-5-booster-shot-2011-01-12
+  lang: en
+  template: drupal
+  captured_at: '2021-05-03 06:19:25+00'
+  capture_id: 699720
+  wayback_url: https://web.archive.org/web/20210503061925id_/https://magic.wizards.com/en/articles/archive/gds2-episode-5-booster-shot-2011-01-12
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: emj07kqp
   capture_id: 699747

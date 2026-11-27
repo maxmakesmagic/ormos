@@ -43,6 +43,7 @@ metadata_evidence:
     registry_match: registry.explicit
   duplicate_sources:
   - nzwfrh21
+  - y4jaa10x
 sources:
 - document_id: 5j0529fx
   url: http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/122x
@@ -60,6 +61,14 @@ sources:
   captured_at: '2022-09-30 23:57:05+00'
   capture_id: 617719
   wayback_url: https://web.archive.org/web/20220930235705id_/https://magic.wizards.com/en/articles/archive/feature/design-challenge-4-booster-shot-2010-12-22
+- document_id: y4jaa10x
+  url: https://magic.wizards.com/en/articles/archive/design-challenge-4-booster-shot-2010-12-22
+  page_key: magic.wizards.com/en/articles/archive/design-challenge-4-booster-shot-2010-12-22
+  lang: en
+  template: drupal
+  captured_at: '2022-01-16 11:29:02+00'
+  capture_id: 301825
+  wayback_url: https://web.archive.org/web/20220116112902id_/https://magic.wizards.com/en/articles/archive/design-challenge-4-booster-shot-2010-12-22
 source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: 5j0529fx

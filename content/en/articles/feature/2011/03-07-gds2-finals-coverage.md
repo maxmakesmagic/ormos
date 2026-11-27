@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2013-03-14 21:31:46+00'
     rule: aspx.archive_link_column
     registry_match: registry.explicit
+  duplicate_sources:
+  - bzh4mzrs
 sources:
 - document_id: nm155wcg
   url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/133a
@@ -50,7 +52,15 @@ sources:
   captured_at: '2013-03-14 21:31:46+00'
   capture_id: 578801
   wayback_url: https://web.archive.org/web/20130314213146id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/133a
-source_selection: The catalog's primary source rendered.
+- document_id: bzh4mzrs
+  url: https://magic.wizards.com/en/articles/archive/gds2-finals-coverage-2011-03-07
+  page_key: magic.wizards.com/en/articles/archive/gds2-finals-coverage-2011-03-07
+  lang: en
+  template: drupal
+  captured_at: '2021-10-25 08:03:02+00'
+  capture_id: 699787
+  wayback_url: https://web.archive.org/web/20211025080302id_/https://magic.wizards.com/en/articles/archive/gds2-finals-coverage-2011-03-07
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: nm155wcg
   capture_id: 578801

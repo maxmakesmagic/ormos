@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2013-05-21 15:09:16+00'
     rule: aspx.archive_link_column
     registry_match: registry.explicit
+  duplicate_sources:
+  - ma6wspwm
 sources:
 - document_id: 48bz0bkf
   url: https://magic.wizards.com/en/articles/archive/great-designer-search-2-second-times-charm-2010-12-08-0
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-05-21 15:09:16+00'
   capture_id: 578062
   wayback_url: https://web.archive.org/web/20130521150916id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/120z
-source_selection: The catalog's primary source rendered.
+- document_id: ma6wspwm
+  url: https://magic.wizards.com/en/articles/archive/great-designer-search-2-second-times-charm-2010-12-08
+  page_key: magic.wizards.com/en/articles/archive/great-designer-search-2-second-times-charm-2010-12-08
+  lang: en
+  template: drupal
+  captured_at: '2021-05-03 06:17:25+00'
+  capture_id: 703768
+  wayback_url: https://web.archive.org/web/20210503061725id_/https://magic.wizards.com/en/articles/archive/great-designer-search-2-second-times-charm-2010-12-08
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: 48bz0bkf
   capture_id: 703780

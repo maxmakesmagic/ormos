@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2013-03-14 21:28:16+00'
     rule: aspx.archive_link_column
     registry_match: registry.explicit
+  duplicate_sources:
+  - 5wd4j7m2
 sources:
 - document_id: n8kywe6z
   url: https://magic.wizards.com/en/articles/archive/gds2-episode-4-trading-places-2010-12-22-0
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-03-14 21:28:16+00'
   capture_id: 578203
   wayback_url: https://web.archive.org/web/20130314212816id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/122z
-source_selection: The catalog's primary source rendered.
+- document_id: 5wd4j7m2
+  url: https://magic.wizards.com/en/articles/archive/gds2-episode-4-trading-places-2010-12-22
+  page_key: magic.wizards.com/en/articles/archive/gds2-episode-4-trading-places-2010-12-22
+  lang: en
+  template: drupal
+  captured_at: '2021-05-03 06:19:08+00'
+  capture_id: 699707
+  wayback_url: https://web.archive.org/web/20210503061908id_/https://magic.wizards.com/en/articles/archive/gds2-episode-4-trading-places-2010-12-22
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: n8kywe6z
   capture_id: 699719

@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2013-05-21 12:20:18+00'
     rule: aspx.archive_link_column
     registry_match: registry.explicit
+  duplicate_sources:
+  - gwx030k2
 sources:
 - document_id: 8eqyw4kz
   url: https://magic.wizards.com/en/articles/archive/gds2-episode-6-introductions-please-2011-02-09-0
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-05-21 12:20:18+00'
   capture_id: 578641
   wayback_url: https://web.archive.org/web/20130521122018id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/129z
-source_selection: The catalog's primary source rendered.
+- document_id: gwx030k2
+  url: https://magic.wizards.com/en/articles/archive/gds2-episode-6-introductions-please-2011-02-09
+  page_key: magic.wizards.com/en/articles/archive/gds2-episode-6-introductions-please-2011-02-09
+  lang: en
+  template: drupal
+  captured_at: '2022-01-24 02:15:52+00'
+  capture_id: 699763
+  wayback_url: https://web.archive.org/web/20220124021552id_/https://magic.wizards.com/en/articles/archive/gds2-episode-6-introductions-please-2011-02-09
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: 8eqyw4kz
   capture_id: 699785

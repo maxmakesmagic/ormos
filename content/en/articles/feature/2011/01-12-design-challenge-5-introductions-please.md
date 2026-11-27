@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2022-06-26 23:38:00+00'
     rule: url.article_section
     registry_match: registry.explicit
+  duplicate_sources:
+  - nzf04jy8
 sources:
 - document_id: z098hzv7
   url: https://magic.wizards.com/en/articles/archive/feature/design-challenge-5-introductions-please-2011-01-12
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-10-01 20:17:02+00'
   capture_id: 578389
   wayback_url: https://web.archive.org/web/20131001201702id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/125x
-source_selection: The catalog's primary source rendered.
+- document_id: nzf04jy8
+  url: https://magic.wizards.com/en/articles/archive/design-challenge-5-introductions-please-2011-01-12
+  page_key: magic.wizards.com/en/articles/archive/design-challenge-5-introductions-please-2011-01-12
+  lang: en
+  template: drupal
+  captured_at: '2021-05-03 06:18:55+00'
+  capture_id: 301827
+  wayback_url: https://web.archive.org/web/20210503061855id_/https://magic.wizards.com/en/articles/archive/design-challenge-5-introductions-please-2011-01-12
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: z098hzv7
   capture_id: 617729

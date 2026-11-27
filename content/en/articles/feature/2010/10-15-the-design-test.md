@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2022-08-07 20:17:34+00'
     rule: url.article_section
     registry_match: registry.explicit
+  duplicate_sources:
+  - emkr2xrq
 sources:
 - document_id: jy0wk67b
   url: https://magic.wizards.com/en/articles/archive/feature/design-test-2010-10-15
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-05-22 02:23:20+00'
   capture_id: 576355
   wayback_url: https://web.archive.org/web/20130522022320id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/112a
-source_selection: The catalog's primary source rendered.
+- document_id: emkr2xrq
+  url: https://magic.wizards.com/en/articles/archive/design-test-2010-10-15
+  page_key: magic.wizards.com/en/articles/archive/design-test-2010-10-15
+  lang: en
+  template: drupal
+  captured_at: '2021-05-03 06:18:42+00'
+  capture_id: 301830
+  wayback_url: https://web.archive.org/web/20210503061842id_/https://magic.wizards.com/en/articles/archive/design-test-2010-10-15
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: jy0wk67b
   capture_id: 617763

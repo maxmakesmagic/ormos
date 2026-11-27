@@ -34,6 +34,7 @@ metadata_evidence:
     captured_at: '2022-09-28 19:54:33+00'
     rule: drupal.div_author
   duplicate_sources:
+  - 7j4p2y4c
   - zfp78gb4
 sources:
 - document_id: pwsjkbqc
@@ -52,6 +53,14 @@ sources:
   captured_at: '2013-05-30 21:51:24+00'
   capture_id: 578818
   wayback_url: https://web.archive.org/web/20130530215124id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/133b
+- document_id: 7j4p2y4c
+  url: https://magic.wizards.com/en/articles/archive/announcing-winner-gds2-2011-03-09
+  page_key: magic.wizards.com/en/articles/archive/announcing-winner-gds2-2011-03-09
+  lang: en
+  template: drupal
+  captured_at: '2021-05-03 06:18:35+00'
+  capture_id: 142301
+  wayback_url: https://web.archive.org/web/20210503061835id_/https://magic.wizards.com/en/articles/archive/announcing-winner-gds2-2011-03-09
 source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: pwsjkbqc
