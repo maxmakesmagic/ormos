@@ -20,6 +20,7 @@ from .paths import component, route, site_file, write_new
 
 if TYPE_CHECKING:
     from .flash import FlashItem, FlashReferences
+    from .media_links import MediaLinks
 
 _FRONT_MATTER_START = "---\n"
 _FRONT_MATTER_END = "\n---\n"
@@ -310,7 +311,10 @@ class ArticleSource:
 
 
 def render_document(
-    job: tuple[Path, Path], *, flash: FlashReferences | None = None
+    job: tuple[Path, Path],
+    *,
+    flash: FlashReferences | None = None,
+    media_links: MediaLinks | None = None,
 ) -> Document:
     """Write the rendered page and return its metadata."""
     source, output = job
@@ -326,6 +330,8 @@ def render_document(
             linked,
             marker_ids=tuple(marker[1] for marker in _FLASH_MARKER.finditer(body)),
         )
+    if media_links is not None:
+        body = media_links.rewrite(body)
     write_new(
         site_file(output, document.path), article.render(body=body, embeds=embeds)
     )

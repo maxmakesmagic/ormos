@@ -12,7 +12,8 @@ from tempfile import TemporaryDirectory
 
 from .content import Document, render_document
 from .flash import FlashLibrary, FlashReferences
-from .html import FLASH_ROUTE, FLASH_SCRIPT, MEDIA_ROUTE, PODCAST_ROUTE
+from .html import FLASH_ROUTE, FLASH_SCRIPT, MEDIA_ROUTE, PODCAST_ROUTE, render_page
+from .media_links import MEDIA_NOT_FOUND_ROUTE, MEDIA_NOT_FOUND_SCRIPT, MediaLinks
 from .media_search import MediaSearchIndex
 from .paths import read_json_lines
 from .podcasts import PodcastLibrary
@@ -22,19 +23,21 @@ from .sitemap import Sitemap
 from .videos import VIDEO_SCRIPT, VideoLibrary
 
 ASSETS = Path(__file__).with_name("assets")
-SITE_ASSETS = ("archive.css", "column-sort.js", "search.js")
+SITE_ASSETS = ("archive.css", "column-sort.js", "search.js", MEDIA_NOT_FOUND_SCRIPT)
 URL_MAPS = ("wizards-urls.csv", "wizards-urls.jsonl")
 logger = logging.getLogger(__name__)
 _worker_flash: FlashReferences | None = None
+_worker_media_links: MediaLinks | None = None
 
 
-def _init_render_worker(flash: FlashReferences | None) -> None:
-    global _worker_flash
+def _init_render_worker(flash: FlashReferences | None, media_links: MediaLinks) -> None:
+    global _worker_flash, _worker_media_links
     _worker_flash = flash
+    _worker_media_links = media_links
 
 
 def _render_archive_document(job: tuple[Path, Path]) -> Document:
-    return render_document(job, flash=_worker_flash)
+    return render_document(job, flash=_worker_flash, media_links=_worker_media_links)
 
 
 @dataclass(frozen=True, slots=True)
@@ -84,6 +87,7 @@ class ArchiveBuilder:
         library = VideoLibrary.read(data)
         flash = FlashLibrary.read(data)
         podcasts = PodcastLibrary.read(data)
+        media_links = MediaLinks.read(data)
         output.parent.mkdir(parents=True, exist_ok=True)
         with TemporaryDirectory(
             prefix=f".{output.name}-", dir=output.parent
@@ -93,7 +97,7 @@ class ArchiveBuilder:
             site = Site(Path(staging_directory))
             self._copy_assets(site.output, library, flash, podcasts)
             self._render_documents(
-                site, files, flash.references() if flash.items else None
+                site, files, flash.references() if flash.items else None, media_links
             )
             site.navigation(
                 library,
@@ -101,6 +105,15 @@ class ArchiveBuilder:
                 podcasts,
                 transcript_languages=frozenset(
                     record.language for record in media_records
+                ),
+            )
+            site.page(
+                MEDIA_NOT_FOUND_ROUTE,
+                render_page(
+                    "media-not-found.html",
+                    "Media not found",
+                    MEDIA_NOT_FOUND_ROUTE,
+                    script=f"/assets/{MEDIA_NOT_FOUND_SCRIPT}",
                 ),
             )
             self._add_redirects(site, data)
@@ -128,14 +141,18 @@ class ArchiveBuilder:
         return BuildResult(len(site.entries), len(site.redirects))
 
     def _render_documents(
-        self, site: Site, files: list[Path], flash: FlashReferences | None
+        self,
+        site: Site,
+        files: list[Path],
+        flash: FlashReferences | None,
+        media_links: MediaLinks,
     ) -> None:
         jobs = ((file, site.output) for file in files)
         # Recycle processes because the Markdown converter retains native memory.
         with get_context("spawn").Pool(
             self.jobs,
             initializer=_init_render_worker,
-            initargs=(flash,),
+            initargs=(flash, media_links),
             maxtasksperchild=32,
         ) as pool:
             for document in pool.imap(_render_archive_document, jobs, chunksize=8):

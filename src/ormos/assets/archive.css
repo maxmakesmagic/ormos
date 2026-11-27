@@ -100,6 +100,8 @@ h3 { font-size: 1.33rem; }
 .article-body pre { font-size: .8em; overflow: auto; padding: .75rem; background: #eee8dd; }
 .article-body hr { border: 0; border-bottom: 1px solid var(--line); }
 .article-footer { margin-top: 2.5rem; color: var(--muted); font-size: .9rem; }
+.missing-media-warning { margin-inline-start: .3em; color: var(--accent); }
+.missing-media-source { overflow-wrap: anywhere; }
 .table-scroll { max-width: 100%; overflow-x: auto; margin-block: 1.5rem; }
 table { border-collapse: collapse; width: 100%; margin-block: .25rem; }
 caption { font-weight: 600; text-align: start; }
