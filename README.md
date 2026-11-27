@@ -25,7 +25,9 @@ Add a `poster_url` to the catalog entry if readers open the embedded player from
 The search plan records the order of pages within each shard. Keep that order when you edit `data/search-plan.json` because Pagefind uses it to assign page numbers.
 When you add a canonical page, append its path to a shard or add a shard for it.
 
-`data/media-urls.jsonl` records the public destinations of archived image and media URLs. Each line contains `original_url`, `target_url`, and `kind`. An original URL can have several entries when the archive holds different versions. The Markdown links directly to those destinations.
+`data/media-urls.jsonl` records public destinations for historical image and media URLs. Each line contains `original_url`, `target_url`, and `kind`. An original URL can have several entries when the archive holds different versions.
+
+The builder uses the media map to repair historical links and prefers Ormos copies to verified Wizards or Wayback destinations. When you add a working destination, remove its original URL from `data/missing-media.jsonl`.
 
 ## Plan an upload
 
